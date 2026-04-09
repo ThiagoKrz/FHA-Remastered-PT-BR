@@ -1,0 +1,3 @@
+Para gerar um epk especifico: python .\script.py .\editar\uistring.epk_dec
+Para rodar gerar todos os EPK vindo da pasta editar em um comando: Get-ChildItem "editar\*.epk_dec" | ForEach-Object { python .\script.py $_.FullName }
+Para rodar a tradução via Ollama: .venv/Scripts/python.exe "./translate_epk_dec.py" --num-gpu -1 --all --output-dir "scripts_pt-br" --glossary '.\Glossário TYPE-MOON - Página1.csv'

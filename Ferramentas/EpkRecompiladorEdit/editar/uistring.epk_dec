@@ -1,0 +1,2064 @@
+DAT
+id=qid::label=str::string=lstr::
+4::string_title_back_warn::Are you sure you want to	return to the title screen?::
+5::string_save_overwrit_warn::Are you sure you want to	overwrite save data?::
+6::string_load_data_warn::Load this save file and resume the game?::
+26::string_app_reset_confirm::Reset settings to default?::
+27::string_route_str_prologue::Prologue::
+28::string_route_str_epilogue::Epilogue::
+34::string_sys_save_busy_string::Saving...::
+36::string_app_reset_confirm1::Are you sure you want to reset text settings to default?::
+37::string_app_reset_confirm2::Are you sure you want to reset sound settings to default?::
+38::string_app_reset_confirm3::Are you sure you want to reset save data settings to default?::
+39::string_shutdown_warn::Are you sure you want to quit the game and return to desktop?::
+40::string_scene_restart_confirm::Resume the game from this scene?::
+41::string_scene_jump_confirm::Jump to this scene?::
+42::string_back_title_warn::Are you sure you want to return to the title? 	Unsaved progress will be lost.::
+43::string_save_delete_warn::Are you sure you want to delete this save data?::
+44::string_msg_newroute::A new route has been unlocked.::
+45::string_msg_autosave::Autosave complete.::
+46::string_msg_jump::Jumping to scene.::
+47::string_msg_newservant::New Servant data added.::
+48::string_msg_newweapon::New Weapon data added.::
+49::string_msg_qsave::Quick save complete.::
+50::string_msg_qload::Quick load complete.::
+51::string_msg_loadscene1::Scene loaded.::
+52::string_msg_newdojo::New Tiger Dojo scene added.::
+53::string_msg_newdata::New save data created.::
+54::string_msg_overwrite::Data overwritten.::
+55::string_msg_deletedata::Save data deleted.::
+56::string_sys_saveslot_full::There are no empty save files.	Please overwrite an existing file or delete a file to make space.::
+57::stirng_continue_warn::Restart from the most recent decision point?::
+60::stirng_dojo_warn::Beyond here lies the Tiger Dojo.	Would you like to seek advice?::
+61::string_exit_warn::Would you like to quit the game?::
+62::string_reset_warn1::Would you like to change all settings to the recommended options?::
+63::string_reset_warn2::Restore all settings to default?::
+64::string_scene_exit_warn::End this scene?::
+65::string_qload_warn::Perform a quick load?::
+66::string_msg_sys_save::Saving system data.::
+67::string_open_save_warn::Save the game?::
+68::string_pl_cntn_warn::Resume from suspended prologue scene?::
+69::string_qjump_warn::Quick jump to this line?::
+70::string_skip_warn::Skip this scene?::
+71::string_scene_replay_confirm::Begin the selected scene's flashback?::
+72::string_scene_replay_end_confirm::End the scene's flashback?::
+1004::string_flowchart_route_string_type_day16::Day 16::
+1005::string_flowchart_route_string_type_day15::Day 15::
+1006::string_flowchart_route_string_type_day14::Day 14::
+1007::string_flowchart_route_string_type_day13::Day 13::
+1008::string_flowchart_route_string_type_day12::Day 12::
+1009::string_flowchart_route_string_type_day11::Day 11::
+1010::string_flowchart_route_string_type_day10::Day 10::
+1011::string_flowchart_route_string_type_day09::Day 9::
+1012::string_flowchart_route_string_type_day08::Day 8::
+1013::string_flowchart_route_string_type_day07::Day 7::
+1014::string_flowchart_route_string_type_day06::Day 6::
+1015::string_flowchart_route_string_type_day05::Day 5::
+1016::string_flowchart_route_string_type_day04::Day 4::
+1017::string_flowchart_route_string_type_day03::Day 3::
+1018::string_flowchart_route_string_type_day02::Day 2::
+1019::string_flowchart_route_string_type_day01::Day 1::
+10001::m_cnf_title::CONFIG::
+10002::m_cnf_txtspd::Text Display Speed::
+10003::m_cnf_txtspd_f::Fast::
+10004::m_cnf_txtspd_n::Normal::
+10005::m_cnf_txtspd_s::Slow::
+10006::m_cnf_txtspd_c::Custom::
+10007::m_cnf_sound::Volume Mix::
+10008::m_cnf_sound_v::Voices::
+10009::m_cnf_sound_n::Normal::
+10010::m_cnf_sound_b::BGM::
+10011::m_cnf_sound_c::Custom::
+10012::m_cnf_atsave::Autosave::
+10013::m_cnf_atsave_t::ON::
+10014::m_cnf_atsave_f::OFF::
+10015::m_cnf_language::Display Language::
+10016::m_cnf_lang_j::日本語::
+10017::m_cnf_lang_e::English::
+10018::m_cnf_lang_c::中文（简体）::
+10019::m_cnf_screen::Display Mode::
+10020::m_cnf_screen_f::Fullscreen::
+10021::m_cnf_screen_w::Windowed::
+10022::m_cnf_reso::Display Resolution::
+10023::m_cnf_reso_720::1280×720::
+10024::m_cnf_reso_900::1600×900::
+10025::m_cnf_reso_1080::1920×1080::
+10026::m_cnf_reso_1152::2048×1152::
+10027::m_cnf_reso_1440::2560×1440::
+10028::m_cnf_reso_2160::3840×2160::
+10029::m_cnf_reso_err::[font italic=true][font italic=false][font italic=true][font italic=false] x [font italic=true][font italic=false][font italic=true][font italic=false]::
+10030::m_cnf_detail::Advanced Settings::
+10031::m_cnf_bak::Back::
+10032::m_cnf_gamepad::Control Settings::
+10033::m_cnf_gamepad_b::Two-Handed Controls::
+10034::m_cnf_gamepad_o::One-Handed Controls::
+10035::m_cnf_reset::Change to Recommended Settings::
+10036::m_cnf_skip_ar::Skip previously	read scenes::
+11001::m_cnft_tab::Text Settings::
+11002::m_cnft_spd::Text Display Speed::
+11003::m_cnft_spd_f::Fast::
+11004::m_cnft_spd_n::Normal::
+11005::m_cnft_spd_s::Slow::
+11006::m_cnft_spd_c::Custom::
+11007::m_cnft_leterint::Text Display Interval::
+11008::m_cnft_lint_fig::Newly read lines::
+11009::m_cnft_lint_sec::sec::
+11010::m_cnft_rowint::Autoplay Line	Advance Delay::
+11011::m_cnft_rint_sec::sec::
+11012::m_cnft_pageint::Autoplay Page	Advance Delay::
+11013::m_cnft_pint_sec::sec::
+11014::m_cnft_autoskip::Fast-forward 	previously read scenes::
+11015::m_cnft_atskip_t::ON::
+11016::m_cnft_atskip_f::OFF::
+11017::m_cnft_textcol::Tint Previously	Read Text::
+11018::m_cnft_tcol_t::ON::
+11019::m_cnft_tcol_f::OFF::
+11020::m_cnft_reset::Reset settings to default::
+11021::m_cnft_guid_bak::Back::
+11022::m_cnft_guid_ent::Confirm::
+11023::m_cnft_guid_mov::Move cursor::
+11024::m_cnft_guid_scl::Scroll::
+11025::m_cnft_guid_tab::Change page::
+11026::m_cnft_guid_pic::Hold and drag the slider.::
+11027::m_cnft_prvwmsg::Her voice resonated in the darkness.::
+11028::m_cnft_skipcfg::Text Fast Forward::
+11029::m_cnft_read::Read text only::
+11030::m_cnft_all::All::
+11031::m_cnft_unrd_pch::Display speed	for unread text::
+11032::m_cnft_read_pch::Display speed	for read text::
+11033::m_cnft_prnt_all::Display full page instantly::
+11034::m_cnft_clk_wait::Text advance wait time	in Auto Mode::
+11035::m_cnft_unit_ms::ms::
+11036::m_cnft_unit_s::s::
+11037::m_cnft_unrd_efc::Display effect	for unread text::
+11038::m_cnft_fadein::Fade-in::
+11039::m_cnft_fadein_n::None (Display instantly)::
+11040::m_cnft_read_efc::Display effect	for read text::
+11041::m_cnft_fadeout::Fade-out::
+11042::m_cnft_fadout_n::None (Vanish instantly)::
+11043::m_cnft_bg::Text window opacity::
+11044::m_cnft_bg_per::%::
+11045::m_cnft_fig_fd::Text fade-in::
+11046::m_cnft_read_fd::Text fade-out::
+11047::m_cnft_tx_wait::Time until text 	auto-advances::
+12001::m_cnfs_tab::Sound Settings::
+12002::m_cnfs_master::Master Volume::
+12004::m_cnfs_balance::Volume Mix::
+12005::m_cnfs_bal_v::Voices::
+12006::m_cnfs_bal_n::Normal::
+12007::m_cnfs_bal_b::BGM::
+12008::m_cnfs_bal_c::Custom::
+12009::m_cnfs_voice::Voices::
+12011::m_cnfs_se::Sound Effects::
+12013::m_cnfs_system::System Sounds::
+12015::m_cnfs_bgmdec::Lower BGM While	Voices Play::
+12016::m_cnfs_bdec_t::ON::
+12017::m_cnfs_bdec_f::OFF::
+12018::m_cnfs_voicecut::Stop Voices When	Text Advances::
+12019::m_cnfs_vcut_t::ON::
+12020::m_cnfs_vcut_f::OFF::
+12021::m_cnfs_vcnf::Individual Voice Settings::
+12022::m_cnfs_vc_em::Shirou Emiya::
+12025::m_cnfs_vc_se::Saber::
+12028::m_cnfs_vc_ri::Rin Tohsaka::
+12031::m_cnfs_vc_sa::Sakura Matou::
+12034::m_cnfs_vc_ir::Illya::
+12037::m_cnfs_vc_ta::Taiga Fujimura::
+12040::m_cnfs_vc_ar::Archer::
+12043::m_cnfs_vc_la::Lancer::
+12046::m_cnfs_vc_ra::Rider::
+12049::m_cnfs_vc_ca::Caster::
+12052::m_cnfs_vc_ko::Sasaki Kojirou::
+12055::m_cnfs_vc_ba::Berserker::
+12058::m_cnfs_vc_gi::Gilgamesh::
+12061::m_cnfs_vc_as::Assassin::
+12064::m_cnfs_vc_ek::Kiritsugu Emiya::
+12067::m_cnfs_vc_kk::Kirei Kotomine::
+12070::m_cnfs_vc_sh::Shinji Matou::
+12073::m_cnfs_vc_so::Souichirou Kuzuki::
+12076::m_cnfs_vc_is::Issei Ryudou::
+12079::m_cnfs_vc_zo::Zouken Matou::
+12082::m_cnfs_vc_ay::Ayako Mitsuzuri::
+12085::m_cnfs_vc_mi::Yukika Saegusa::
+12088::m_cnfs_vc_mk::Kaede Makidera::
+12091::m_cnfs_vc_hi::Kane Himuro::
+12094::m_cnfs_vc_sr::Sella::
+12097::m_cnfs_vc_rz::Leysritt::
+12100::m_cnfs_vc_ot::Other::
+12101::m_cnfs_vc_mute::Mute::
+12102::m_cnfs_vc_test::Test::
+12103::m_cnfs_reset::Reset settings to default::
+12104::m_cnfs_guid_bak::Back::
+12105::m_cnfs_guid_ent::Confirm::
+12106::m_cnfs_guid_mov::Move cursor::
+12107::m_cnfs_guid_scl::Scroll::
+12108::m_cnfs_guid_tab::Change page::
+12109::m_cnfs_guid_pic::Hold and drag the slider.::
+12110::m_cnfs_bgm::BGM::
+12112::m_cnfs_voice_at::Match autoplay speed	to voice playback::
+12113::m_cnfs_voice_wt::Wait for autoplayed	voices to finish::
+13001::m_cnfsa_tab::Save Data Settings::
+13002::m_cnfsa_auto::Autosave::
+13003::m_cnfsa_auto_t::ON::
+13004::m_cnfsa_auto_f::OFF::
+13005::m_cnfsa_atstime::Autosave Timing::
+13006::m_cnfsa_atst_p::Per page::
+13007::m_cnfsa_atst_s::Every scene::
+13008::m_cnfsa_atst_c::Before each decision::
+13009::m_cnfsa_atst_d::Every day::
+13010::m_cnfsa_atst_t::Return to title::
+13011::m_cnfsa_reset::Reset settings to default::
+13012::m_cnfsa_gid_bak::Back::
+13013::m_cnfsa_gid_ent::Confirm::
+13014::m_cnfsa_gid_mov::Move cursor::
+13015::m_cnfsa_gid_tab::Change page::
+13016::m_cnfsa_atst_j1::Jump to scene::
+13017::m_cnfsa_atst_j2::Jump to a scene via the Flowchart.::
+13018::m_cnfsa_atst_j3::Jump to a scene via the Timeline.::
+13019::m_cnfsa_atst_t2::Return to title::
+13020::m_cnfsa_atst_da::Save before date changes::
+13021::m_cnfsa_atst_qt::Quit the game::
+20001::m_gal_title::Gallery::
+20002::m_gal_picture::Picture::
+20003::m_gal_movie::Movie::
+20004::m_gal_music::Music::
+20005::m_gal_flowchart::Flowchart::
+20006::m_gal_servant::Servant::
+20007::m_gal_weapon::Weapon::
+20008::m_gal_back::Back::
+20009::m_gal_edlist::Ending List::
+20010::m_gal_library::Library::
+20011::m_gal_title2::Gallery::
+21001::m_pic_title::Picture::
+21002::m_pic_tab_fate::Fate::
+21003::m_pic_tab_ubw::Unlimited 	Blade Works::
+21004::m_pic_tab_hf::Heaven's Feel::
+21005::m_pic_tab_prolo::Prologue::
+21006::m_pic_tab_le::Last Episode::
+21007::m_pic_tab_other::Other::
+21008::m_pic_back::Back::
+21009::m_pic_guid_bak::Back::
+21010::m_pic_guid_ent::Confirm::
+21011::m_pic_guid_mov::Move::
+21012::m_pic_guid_scl::Scroll::
+21013::m_pic_guid_next::Next::
+21014::m_pic_guid_prev::Previous::
+22001::m_mov_title::Movie::
+23001::m_musc_title::Music::
+23002::m_musc_bgm::Music::
+23003::m_musc_se::SE::
+23004::m_musc_bgmvol::MUSIC VOLUME::
+23005::m_musc_sevol::SE VOLUME::
+23006::m_musc_back::Back::
+23007::m_musc_guid_bak::Back::
+23008::m_musc_guid_ent::Confirm::
+23009::m_musc_guid_mov::Move::
+23010::m_musc_guid_scl::Scroll::
+23011::m_musc_guid_pic::Hold and drag the slider.::
+24001::m_flow_title::Flowchart::
+24002::m_flow_play::Play::
+24004::m_flow_route_f::Fate::
+24005::m_flow_route_u::Unlimited Blade Works::
+24006::m_flow_route_h::Heaven's Feel::
+24007::m_flow_route_p::Prologue::
+24008::m_flow_route_l::Last Episode::
+24009::m_flow_route_t::Tiger Dojo::
+24010::m_flow_d_1_31::1/31::
+24011::m_flow_d_2_01::2/1::
+24012::m_flow_d_2_02::2/2::
+24013::m_flow_d_2_03::2/3::
+24014::m_flow_d_2_04::2/4::
+24015::m_flow_d_2_05::2/5::
+24016::m_flow_d_2_06::2/6::
+24017::m_flow_d_2_07::2/7::
+24018::m_flow_d_2_08::2/8::
+24019::m_flow_d_2_09::2/9::
+24020::m_flow_d_2_10::2/10::
+24021::m_flow_d_2_11::2/11::
+24022::m_flow_d_2_12::2/12::
+24023::m_flow_d_2_13::2/13::
+24024::m_flow_d_2_14::2/14::
+24025::m_flow_d_2_15::2/15::
+24026::m_flow_guid_bak::Back::
+24027::m_flow_guid_ent::Confirm::
+24028::m_flow_guid_mov::Move::
+24029::m_flow_guid_scl::Scroll::
+24030::m_flow_guid_zom::Zoom In/Out::
+24031::m_flow_unlock::Play Date::
+24032::m_flow_d_2_16::2/16::
+25001::m_serv_title::Servant::
+25002::m_serv_tab1_sa::Saber::
+25003::m_serv_tab1_la::Lancer::
+25004::m_serv_tab1_ar::Archer::
+25005::m_serv_tab1_ri::Rider::
+25006::m_serv_tab1_ca::Caster::
+25007::m_serv_tab1_as::Assassin::
+25008::m_serv_tab1_ba::Berserker::
+25009::m_serv_tab1_ar1::Archer::
+25010::m_serv_tab1_as1::Assassin::
+25011::m_serv_tab1_sa1::Saber::
+25012::m_serv_tab2_cls::Status::
+25013::m_serv_tab2_dtl::Hero Info::
+25014::m_serv_tab2_skl::Skill::
+25015::m_serv_tab2_sp::Noble Phantasm::
+25016::m_serv_guid_bak::Back::
+25017::m_serv_guid_ent::Confirm::
+25018::m_serv_guid_mov::Move::
+25019::m_serv_guid_scl::Scroll::
+25021::m_serv_guid_tab::Change page::
+25022::m_serv_guid_tb2::Switch Page::
+25023::m_serv_subtit_1::C  L  A  S  S::
+25024::m_serv_subtit_2::S  T  A  T  U  S::
+25025::m_serv_subtit_3::P  R  O  F  I  L  E::
+25026::m_serv_subtit_4::C  L  A  S  S     S K  I  L  L::
+25027::m_serv_subtit_5::N  O  B  L  E     P  H  A  N  T  A  S  M::
+25028::m_serv_subtit_6::I  N  N  A  T  E      S  K  I  L  L::
+25029::m_serv_stts_1::Master::
+25030::m_serv_stts_2::True Name::
+25031::m_serv_stts_3::Gender::
+25032::m_serv_stts_4::Height/Weight::
+25033::m_serv_stts_5::Alignment::
+25034::m_serv_stts1_1::STR::
+25035::m_serv_stts1_2::MGI::
+25036::m_serv_stts1_3::CON::
+25037::m_serv_stts1_4::LCK::
+25038::m_serv_stts1_5::AGI::
+25039::m_serv_stts1_6::Noble Phantasm::
+25040::m_serv_stts2_01::A::
+25041::m_serv_stts2_02::A+::
+25042::m_serv_stts2_03::A++::
+25043::m_serv_stts2_04::B::
+25044::m_serv_stts2_05::B++::
+25045::m_serv_stts2_06::C::
+25046::m_serv_stts2_07::D::
+25047::m_serv_stts2_08::E::
+25048::m_serv_stts2_09::EX::
+25049::m_serv_stts2_10::??::
+25050::m_serv_npst_1::Rank::
+25051::m_serv_npst_2::Type::
+25052::m_serv_npst_3::Range::
+25053::m_serv_npst_4::Max Targets::
+25054::m_serv_npst_5::Protects::
+25055::m_serv_stts1_7::Noble Phantasm::
+25056::m_serv_subtit_7::S  K  I  L  L::
+26001::m_wpn_title::Weapon::
+26002::m_wpn_name_1::Golden Sword of Assured Victory::
+26003::m_wpn_ownr_1::Saber::
+26004::m_wpn_rubi_1::Caliburn::
+26005::m_wpn_name_2::Caladbolg II::
+26006::m_wpn_ownr_2::Archer::
+26007::m_wpn_name_3::Gram::
+26008::m_wpn_ownr_3::???::
+26009::m_wpn_name_4::Durandal::
+26010::m_wpn_ownr_4::???::
+26011::m_wpn_name_5::Harpe::
+26012::m_wpn_ownr_5::???::
+26013::m_wpn_name_6::Vajra::
+26014::m_wpn_ownr_6::???::
+26015::m_wpn_name_7::Dáinsleif::
+26016::m_wpn_ownr_7::???::
+26017::m_wpn_name_8::The Laundry-Drying Pole::
+26018::m_wpn_ownr_8::Assassin::
+26019::m_wpn_name_9::Dirk::
+26020::m_wpn_ownr_9::True Assassin::
+26021::m_wpn_name_10::Unnamed dagger::
+26022::m_wpn_ownr_10::Rider::
+26023::m_wpn_name_11::Unnamed axe-sword::
+26024::m_wpn_ownr_11::Berserker::
+26025::m_wpn_name_12::Azoth Blade::
+26026::m_wpn_ownr_12::Rin::
+26027::m_wpn_name_13::Jeweled Sword Zelretch::
+26028::m_wpn_ownr_13::Rin::
+26029::m_wpn_name_14::Kanshou and Bakuya::
+26030::m_wpn_ownr_14::Archer::
+26031::m_wpn_name_15::Heaven Scorcher Halberd::
+26032::m_wpn_ownr_15::???::
+26033::m_wpn_name_16::Black Key::
+26034::m_wpn_ownr_16::Kirei Kotomine::
+26035::m_wpn_name_17::Tiger Bamboo Sword::
+26036::m_wpn_ownr_17::Taiga Fujimura::
+26037::m_wpn_page::Page::
+26038::m_wpn_back::Back::
+26039::m_wpn_guid_bak::Back::
+26040::m_wpn_guid_ent::Confirm::
+26041::m_wpn_guid_mov::Move::
+26042::m_wpn_guid_scl::Scroll::
+26043::m_wpn_guid_page::Change page::
+26044::m_wpn_subtitle::D  E  T  A  I  L  S::
+26045::m_wpn_subt_name::N  A  M  E::
+26046::m_wpn_subt_user::U  S  E  R::
+26047::m_wpn_name_1_1::Golden Sword 	of Assured Victory::
+27001::m_end_ttl::E  N  D  I  N  G    L  I  S  T::
+27002::m_end_epilogue::Epilogue::
+27003::m_end_1_sub::The Dream Continues::
+27004::m_end_1_cat::True End::
+27005::m_end_1_rute::Fate::
+27006::m_end_2_sub::Sunny Day::
+27007::m_end_2_cat::Good End::
+27008::m_end_2_rute::Unlimited Blade Works::
+27009::m_end_3_sub::Brilliant Years::
+27010::m_end_3_cat::True End::
+27011::m_end_3_rute::Unlimited Blade Works::
+27012::m_end_4_sub::Dreaming of Cherry Blossoms::
+27013::m_end_4_cat::Normal End::
+27014::m_end_4_rute::Heaven's Feel::
+27015::m_end_5_sub::Return to Spring::
+27016::m_end_5_cat::True End::
+27017::m_end_5_rute::Heaven's Feel::
+27018::m_end_tigerstmp::T  I  G  E  R    S  T  A  M  P::
+27019::m_end_stmp01::1::
+27020::m_end_stmp02::2::
+27021::m_end_stmp03::3::
+27022::m_end_stmp04::4::
+27023::m_end_stmp05::5::
+27024::m_end_stmp06::6::
+27025::m_end_stmp07::7::
+27026::m_end_stmp08::8::
+27027::m_end_stmp09::9::
+27028::m_end_stmp10::10::
+27029::m_end_stmp11::11::
+27030::m_end_stmp12::12::
+27031::m_end_stmp13::13::
+27032::m_end_stmp14::14::
+27033::m_end_stmp15::15::
+27034::m_end_stmp16::16::
+27035::m_end_stmp17::17::
+27036::m_end_stmp18::18::
+27037::m_end_stmp19::19::
+27038::m_end_stmp20::20::
+27039::m_end_stmp21::21::
+27040::m_end_stmp22::22::
+27041::m_end_stmp23::23::
+27042::m_end_stmp24::24::
+27043::m_end_stmp25::25::
+27044::m_end_stmp26::26::
+27045::m_end_stmp27::27::
+27046::m_end_stmp28::28::
+27047::m_end_stmp29::29::
+27048::m_end_stmp30::30::
+27049::m_end_stmp31::31::
+27050::m_end_stmp32::32::
+27051::m_end_stmp33::33::
+27052::m_end_stmp34::34::
+27053::m_end_stmp35::35::
+27054::m_end_stmp36::36::
+27055::m_end_stmp37::37::
+27056::m_end_stmp38::38::
+27057::m_end_stmp39::39::
+27058::m_end_stmp40::40::
+27059::m_end_meat1::1::
+27060::m_end_meat2::2::
+27061::m_end_meat3::3::
+27062::m_end_gao::RAWR!::
+27063::m_end_bak::Back::
+28001::m_lbr_ttl::Library::
+28002::m_lbr_guid_bak::Back::
+28003::m_lbr_guid_ent::Confirm::
+28004::m_lbr_guid_mov::Move::
+28005::m_lbr_guid_scl::Scroll::
+28006::m_lbr_bak::Back::
+28007::m_lbr_tit::D  E  T  A  I  L  S::
+30001::m_menu_title::MENU::
+30002::m_menu_save::Save::
+30003::m_menu_load::Load::
+30004::m_menu_flow::Flowchart::
+30005::m_menu_servant::Servant::
+30006::m_menu_weapon::Weapon::
+30007::m_menu_config::Config::
+30008::m_menu_keyguide::Key Guide::
+30009::m_menu_totitle::Back to Title::
+30010::m_menu_back::Back::
+30011::m_menu_exit::Exit Game::
+30012::m_menu_saveexit::Save and Exit Game::
+30013::m_menu_quit::Quit Game::
+30014::m_menu_savequit::Save and Quit Game::
+31001::m_kgd_title::Key Guide::
+31002::m_kgd_back::Back::
+31003::m_kgd_backpg::Rewind page::
+31004::m_kgd_longtap::(hold)::
+31005::m_kgd_fastbak::Fast Rewind::
+31006::m_kgd_outo::Start/Stop autoplay::
+31007::m_kgd_timeline::Timeline::
+31008::m_kgd_timelinec::Close timeline::
+31009::m_kgd_next::Display next line/page::
+31010::m_kgd_qsave::Quick Save::
+31011::m_kgd_qload::Quick Load::
+31012::m_kgd_nextpg::Next page::
+31013::m_kgd_fastpg::Fast Forward::
+31014::m_kgd_loopswtc::(toggle loop)::
+31015::m_kgd_outospd::Autoplay speed::
+31016::m_kgd_spd10::Standard::
+31017::m_kgd_spd13::x1.3::
+31018::m_kgd_spd20::x2::
+31019::m_kgd_history::History::
+31020::m_kgd_menu::MENU::
+31021::m_kgd_window::Hide/Show Text Window::
+31022::m_kgd_tap::Tap Screen::
+31023::m_kgd_flickup::Swipe up::
+31024::m_kgd_flickdw::Swipe down::
+31025::m_kgd_flickr::Swipe right::
+31026::m_kgd_flickl::Swipe left::
+31027::m_kgd_esc::Esc::
+31028::m_kgd_w::W::
+31029::m_kgd_a::A::
+31030::m_kgd_s::S::
+31031::m_kgd_d::D::
+31032::m_kgd_1::1::
+31033::m_kgd_2::2::
+31034::m_kgd_3::3::
+31035::m_kgd_4::4::
+31036::m_kgd_5::5::
+31037::m_kgd_bs::Backspace::
+31038::m_kgd_enter::Enter::
+31039::m_kgd_space::S::
+31040::m_kgd_clickl::Left click::
+31041::m_kgd_clickr::Right click::
+31042::m_kgd_wheelup::Wheel up::
+31043::m_kgd_wheeldw::Wheel down::
+31044::m_kgd_pgb::Previous Page::
+31045::m_kgd_pgf::Next Page::
+31046::m_kgd_log::Backlog::
+31047::m_kgd_send::Advance Text::
+31048::m_kgd_view::Show::
+31049::m_kgd_hide::Hide::
+31050::m_kgd_logoc::Open/Close Backlog::
+31051::m_kgd_logv::Show Back Log::
+31052::m_kgd_logh::Hide Back Log::
+31053::m_kgd_tloc::Open/Close Timeline::
+31054::m_kgd_tlv::Show Timeline::
+31055::m_kgd_tlh::Hide Timeline::
+31056::m_kgd_menuoc::Open/Close Menu::
+31057::m_kgd_menuv::Show Menu::
+31058::m_kgd_menuh::Hide Menu::
+31059::m_kgd_flick::Touch Screen::
+31060::m_kgd_ok1::Confirm::
+31061::m_kgd_ok2::OK::
+31062::m_kgd_kb::Keyboard::
+31063::m_kgd_mh::Mouse::
+31064::m_kgd_gp::Controller::
+31065::m_kgd_spdcng::Change Speed::
+31066::m_kgd_figcng::Change Image::
+31067::m_kgd_zoom::Enlarge/Reduce::
+31068::m_kgd_pgcng::Change Page::
+31069::m_kgd_tabcng::Change Tab::
+31070::m_kgd_esc2::Escape::
+31071::m_kgd_del1::Del::
+31072::m_kgd_del2::Delete::
+31073::m_kgd_auto1::Auto Mode (Normal Speed)::
+31074::m_kgd_auto2::Auto Mode (x1.3 Speed)::
+31075::m_kgd_auto3::Auto Mode (x2 Speed)::
+31076::m_kgd_auto4::Stop Auto Mode::
+31077::m_kgd_cncl::Cancel::
+31078::m_kgd_oksend::Confirm, Advance Text::
+31079::m_kgd_texh::Hide Text Window::
+31080::m_kgd_tab::Tab::
+31081::m_kgd_auo5::Start/Change Speed/Stop Auto Mode::
+31082::m_kgd_tlv2::Show Timeline::
+31083::m_kgd_tlh2::Hide Timeline::
+31084::m_kgd_crsbtn::Directional Buttons::
+31085::m_kgd_dirbtn::Directional Buttons::
+31086::m_kgd_wasd::WASD::
+31087::m_kgd_btnl::L::
+31088::m_kgd_btnr::R::
+31089::m_kgd_btna::A::
+31090::m_kgd_btnb::B::
+31091::m_kgd_drg::Drag::
+31092::m_kgd_stcl::Left Stick::
+31093::m_kgd_stcr::Right Strick::
+31094::m_kgd_zl::ZL Button::
+31095::m_kgd_zlhld::ZL Button (Hold)::
+31096::m_kgd_zr::ZR Button::
+31097::m_kgd_zrhld::ZR Button (Hold)::
+31098::m_kgd_hld::Hold::
+31099::m_kgd_sl::SL Button::
+31100::m_kgd_slhld::SL Button (Hold)::
+31101::m_kgd_sr::SR Button::
+31102::m_kgd_srhld::SR Button (Hold)::
+31103::m_kgd_pshin1::Click::
+31104::m_kgd_pshin2::Click::
+31105::m_kgd_pshin3::Click::
+31106::m_kgd_shft::Shift::
+31107::m_kgd_dtu::Flick Upward::
+31108::m_kgd_utd::Flick Downward::
+31109::m_kgd_ltr::Flick Left to Right::
+31110::m_kgd_rtl::Flick Right to Left::
+31111::m_kgd_pshdwn::Tap and Hold::
+31112::m_kgd_lt::LT Button::
+31113::m_kgd_lthld::LT Button (Hold)::
+31114::m_kgd_rt::RT Button::
+31115::m_kgd_rthld::RT Button (Hold)::
+31116::m_kgd_up::Up::
+31117::m_kgd_dwn::Down::
+31118::m_kgd_l::Left::
+31119::m_kgd_r::Right::
+31120::m_kgd_tabfw::Switch tab (next)::
+31121::m_kgd_tabbw::Switch tab (back)::
+31122::m_kgd_exit::End game::
+31123::m_kgd_scmode::Switch display mode::
+31124::m_kgd_crsr_top::Move cursor to top of screen::
+31125::m_kgd_crsr_btm::Move cursor to bottom of screen::
+31126::m_kgd_crsr_ltor::Slide cursor from left to right::
+31127::m_kgd_drug_r::Drag right from center of screen::
+31128::m_kgd_drug_l::Drag left from center of screen::
+31129::m_kgd_swipe::Swipe screen::
+31130::m_kgd_crsr_rtol::Slide cursor from right to left::
+31131::m_kgd_qjump::Quick jump::
+31132::m_kgd_or::or::
+31133::m_kgd_ctl::Controls::
+31134::m_kgd_opens::Open the Save menu::
+31135::m_kgd_openl::Open the Load menu::
+31136::m_kgd_openc::Configure system settings::
+31137::m_kgd_chngsc::Change Screen Modes::
+31138::m_kgd_ｍctl::Mouse controls::
+31139::m_kgd_drug_u::Drag Upward::
+31140::m_kgd_drug_r2::Drag Left to Right::
+31141::m_kgd_drug_l2::Drag Right to Left::
+40001::m_atspd_1::Auto::
+40002::m_atspd_2::Auto x1.2::
+40003::m_atspd_3::Auto x2::
+40004::m_atspd_4::Fast Forward::
+40005::m_atspd_5::Fast Rewind::
+40006::m_atspd_6::Auto Mode x1::
+40007::m_atspd_7::Auto Mode x1.3::
+40008::m_atspd_8::Auto Mode x2::
+40009::m_atspd_9::Stop::
+40010::m_select_title::Select::
+41001::m_tl_prev::Previous Day::
+41002::m_tl_next::Next Day::
+41003::m_tl_d_1_31::1/31::
+41004::m_tl_d_2_01::2/1::
+41005::m_tl_d_2_02::2/2::
+41006::m_tl_d_2_03::2/3::
+41007::m_tl_d_2_04::2/4::
+41008::m_tl_d_2_05::2/5::
+41009::m_tl_d_2_06::2/6::
+41010::m_tl_d_2_07::2/7::
+41011::m_tl_d_2_08::2/8::
+41012::m_tl_d_2_09::2/9::
+41013::m_tl_d_2_10::2/10::
+41014::m_tl_d_2_11::2/11::
+41015::m_tl_d_2_12::2/12::
+41016::m_tl_d_2_13::2/13::
+41017::m_tl_d_2_14::2/14::
+41018::m_tl_d_2_15::2/15::
+41019::m_tl_guid_bak::Back::
+41020::m_tl_guid_ent::Confirm::
+41021::m_tl_guid_mov::Move::
+41022::m_tl_guid_scl::Scroll::
+41023::m_tl_guid_page::Previous/Next Day::
+42001::m_hstry_title::History::
+42002::m_hstry_back::Back::
+42003::m_hs_guid_bak::Back::
+42004::m_hs_guid_ent::Play Voice::
+42005::m_hs_guid_mov::Move::
+42006::m_hs_guid_scl::Scroll::
+42007::m_hstry_play::Play::
+50001::m_save_title::Save::
+50002::m_save_newslot::New::
+50003::m_save_back::Back::
+50004::m_sa_guid_bak::Back::
+50005::m_sa_guid_ent::Save/Overwrite Save::
+50006::m_sa_guid_mov::Move::
+50007::m_sa_guid_scl::Scroll::
+50008::m_sa_guid_del::Delete Data::
+50009::m_save_tag1::Prologue::
+50010::m_save_tag2::Fate::
+50011::m_save_tag3::Unlimited Blade Works::
+50012::m_save_tag4::Heaven's Feel::
+50013::m_save_tag5::Last Episode::
+50014::m_save_tag6::Tiger Dojo::
+60001::m_load_title::Load::
+60002::m_load_atslot::Auto::
+60003::m_load_qslot::Quick::
+60004::m_load_back::Back::
+60005::m_ld_guid_bak::Back::
+60006::m_ld_guid_ent::Load::
+60007::m_ld_guid_mov::Move::
+60008::m_ld_guid_scl::Scroll::
+60009::m_ld_guid_del::Delete Data::
+60010::m_load_atslot2::Auto Save::
+60011::m_load_qslot2::Quick Save::
+60012::m_load_nodata::No Data::
+70001::m_titl_conti::Continue::
+70002::m_titl_load::Load::
+70003::m_titl_newgame::New Game::
+70004::m_titl_gallery::Gallery::
+70005::m_titl_config::Config::
+70006::m_titl_lastepi::Last Episode::
+70007::m_titl_maruc::©TYPE-MOON::
+70008::m_titl_anykey::Press Any Key::
+70009::m_titl_exit::Exit::
+70010::m_titl_quit::Quit::
+80001::m_boot_caution::This game is a work of fiction. Names and groups represented in this game are either the product of the author's imagination or used in a fictitious manner.	Any resemblance to actual persons or groups, living or dead, is purely coincidental.		This game contains graphic scenes that may be disturbing for some players.		The recording and distribution of any images, audio, or video contained within this game without express permission from the rights holders is strictly prohibited.	However, recording or streaming the game using your platform's dedicated recording function is allowed, with the exception of sequences in the game where such functions are restricted.	Otherwise, please enjoy the game within the confines of the law.::
+100001::button_01::OK::
+100002::button_02::Cancel::
+100003::button_03::YES::
+100004::button_04::NO::
+100005::button_05::Next::
+100006::button_06::Back::
+100007::title00_01::Fate::
+100008::title00_02::stay night::
+100009::title00_03::[Réalta Nua]::
+100010::title00_04::Fate/stay night [Réalta Nua]::
+100011::title00_05::Visit the website::
+100012::title00_06::Official Website::
+100013::title00_07::New Game::
+100014::title00_08::Start a new game.::
+100015::title00_09::Load Game::
+100016::title00_10::Resume from a save point.::
+100017::title00_11::Config::
+100018::title00_12::Adjust game settings.::
+100019::title00_13::Extra::
+100020::title00_14::View special menus.::
+100021::title00_15::Last Episode::
+100022::title00_16::View Last Episode.::
+100023::00_button_00_01::OK::
+100024::00_button_00_02::Cancel::
+100025::00_button_00_03::YES::
+100026::00_button_00_04::NO::
+100027::00_button_00_05::Next::
+100028::00_button_00_06::Back::
+100029::00_button_01_01::Back::
+100030::00_button_01_02::Back::
+100031::00_button_02a::Retry::
+100032::00_button_03a::Back to Title::
+100033::00_prog_02a::Downloading...::
+100034::00_prog_03a::Extracting...::
+100035::00_prog_04a::Verifying Files...::
+100036::00_prog_05a::Extracting...::
+100037::00_prog_06a::Uploading...::
+100038::00_syswin_01a::Check::
+100039::00_syswin_02a::information::
+100040::00_txt_00a::%::
+100041::00_update_00a::Updated!::
+100042::01_ctrl_00_01::Autoplay::
+100043::01_ctrl_00_02::Stop Autoplay::
+100044::01_ctrl_00_03::Fast Forward::
+100045::01_ctrl_00_04::Stop fast forward::
+100046::01_ctrl_00_05::Skip::
+100047::01_ctrl_00_06::Skipping::
+100048::01_ctrl_00_07::Switch screens::
+100049::01_ctrl_01b_01::Return to title::
+100050::01_ctrl_01b_02::Back::
+100051::01_ctrl_02b_01::Stop Autoplay::
+100052::01_ctrl_02b_02::Autoplay::
+100053::01_guide_00a_01::Menu::
+100054::01_guide_00a_02::Opens the menu.::
+100055::01_guide_00a_03::Controls::
+100056::01_guide_00a_04::View game controls.::
+100057::01_guide_00a_05::History::
+100058::01_guide_00a_06::Show text log.::
+100059::01_guide_00a_07::Show/Hide the text window.::
+100060::01_guide_00a_08::Drag to scroll.::
+100061::01_guide_01a_01::Zoom in on part of the screen.::
+100062::01_guide_01a_02::Can be changed in Config.::
+100063::01_menu_00a_01::Save::
+100064::01_menu_00a_02::Save the game.::
+100065::01_menu_00a_03::Load::
+100066::01_menu_00a_04::Load a save point.::
+100067::01_menu_00a_05::Flowchart::
+100068::01_menu_00a_06::Open the flowchart.::
+100069::01_menu_00a_07::Config::
+100070::01_menu_00a_08::Change system settings.::
+100071::01_menu_00a_09::System Save::
+100072::01_menu_00a_10::Save system data.::
+100073::01_menu_00a_11::Back to Title::
+100074::01_menu_00a_12::Return to the title screen.::
+100075::01_menuicon_01a::Help::
+100076::01_subwin_01a::Select::
+100077::01_title_00a_01::History::
+100078::01_title_00a_02::View the text log.::
+100079::01_title_01a_01::Menu::
+100080::01_title_01a_02::Menu::
+100081::01_title_02a_01::Controls::
+100082::01_title_02a_02::Adjust progression speed.::
+100083::02_atrus_00a_01::Fate::
+100084::02_atrus_00a_02::stay night::
+100085::02_atrus_00a_03::[Réalta Nua]::
+100086::02_atrus_00a_04::Fate/stay night [Réalta Nua]::
+100087::02_atrus_00a_05::New Game::
+100088::02_atrus_00a_06::Start a new game.::
+100089::02_atrus_00a_07::Load Game::
+100090::02_atrus_00a_08::Resume from a save point.::
+100091::02_atrus_00a_09::Config::
+100092::02_atrus_00a_10::Change gameplay settings.::
+100095::02_atrus_00a_13::Last Episode::
+100096::02_atrus_00a_14::View Last Episode.::
+100099::02_atrus_00a_17::©TYPE-MOON All Rights Reserved.::
+100100::02_atrus_01a_01::Fate::
+100101::02_atrus_01a_02::stay night::
+100102::02_atrus_01a_03::[Réalta Nua]::
+100103::02_atrus_01a_04::Fate/stay night [Réalta Nua]::
+100104::02_atrus_01a_05::New Game::
+100105::02_atrus_01a_06::Start a new game.::
+100106::02_atrus_01a_07::Load Game::
+100107::02_atrus_01a_08::Resume from a save point.::
+100108::02_atrus_01a_09::Config::
+100109::02_atrus_01a_10::Change gameplay settings.::
+100112::02_atrus_01a_13::Last Episode::
+100113::02_atrus_01a_14::View Last Episode.::
+100116::02_atrus_01a_17::©TYPE-MOON All Rights Reserved.::
+100118::03_title_00a_01::New Game::
+100119::03_title_00a_02::Start a new game.::
+100120::03_title_01a::Fate::
+100121::03_title_02a::Unlimited Blade Works::
+100122::03_title_03a::Heaven's Feel::
+100123::03_title_04a::Another::
+100124::03_title_10a_01::Picture::
+100125::03_title_10a_02::Choose a scenario to play.::
+100127::04_hf_01a_01::Fate/stay night [Réalta Nua]::
+100128::04_hf_01a_02::Heaven's Feel::
+100129::04_hf_01a_03::Fate/stay night [Réalta Nua]::
+100130::04_restore_00a::Restore::
+100131::04_text_00a::Price::
+100132::04_title_00a::Purchase::
+100133::04_ubw_01a_01::Buy a scenario here.::
+100134::04_ubw_01a_02::Fate/stay night [Réalta Nua]::
+100135::04_ubw_01a_03::Unlimited Blade Works::
+100136::04_ubw_01a_04::Fate/stay night [Réalta Nua]::
+100137::05_nodata_00a::No Data::
+100138::05_nodata_01a::Now Loading::
+100139::05_nodata_02a::New Data::
+100140::05_title_00a_01::Load Game::
+100141::05_title_00a_02::Resume from a save point.::
+100142::05_title_00a_03::Save Game::
+100143::05_title_00a_04::Create a save point.::
+100144::05_txt_00a::Data::
+100145::05_txt_01a::You cannot save now.::
+100146::06_day_00a::1/31::
+100147::06_day_01a::2/1::
+100148::06_day_02a::2/2::
+100149::06_day_03a::2/3::
+100150::06_day_04a::2/4::
+100151::06_day_05a::2/5::
+100152::06_day_06a::2/6::
+100153::06_day_06b::2/6–7::
+100154::06_day_07a::2/7::
+100155::06_day_08a::2/8::
+100156::06_day_09a::2/9::
+100157::06_day_10a::2/10::
+100158::06_day_11a::2/11::
+100159::06_day_12a::2/12::
+100160::06_day_13a::2/13::
+100161::06_day_14a::2/14::
+100162::06_day_14b::2/14–16::
+100163::06_day_15a::2/15::
+100164::06_day_16a::2/16::
+100165::06_stitle_00a::Fate/stay night::
+100166::06_stitle_01a::Fate::
+100167::06_stitle_02a::Unlimited Blade Works::
+100168::06_stitle_03a::Heaven's Feel::
+100169::06_text_00a::The flowchart is unavailable.::
+100170::06_title_00a_01::Flowchart::
+100171::06_title_00a_02::View the flowchart.::
+100172::07_atrus_00a_01::General Settings::
+100173::07_atrus_00a_02::Sound::
+100174::07_atrus_00a_03::Voice::
+100175::07_atrus_00a_04::Text::
+100176::07_atrus_00a_05::Scrolling::
+100178::07_atrus_00a_07::Window type::
+100179::07_atrus_00a_08::Auto::
+100184::07_atrus_00a_13::BGM::
+100185::07_atrus_00a_14::Voices::
+100186::07_atrus_00a_15::Sound Effects::
+100187::07_atrus_00a_16::Tint previously read text::
+100188::07_atrus_00a_17::Text shadow::
+100189::07_atrus_00a_18::Text Display Speed::
+100190::07_atrus_00a_19::Reset settings to default::
+100191::07_atrus_00a_20::Black (normal)::
+100192::07_atrus_00a_21::Black (light)::
+100193::07_atrus_00a_22::Black (dark)::
+100194::07_atrus_00a_23::Tiger::
+100195::07_atrus_00a_24::Tiger (pattern)::
+100196::07_atrus_00a_25::%::
+100197::07_atrus_00a_26::Fast::
+100198::07_atrus_00a_27::Slow::
+100199::07_atrus_00a_28::Yes::
+100200::07_atrus_00a_29::No::
+100201::07_atrus_00a_30::ON::
+100202::07_atrus_00a_31::OFF::
+100203::07_atrus_00a_32::Config::
+100204::07_atrus_00a_33::Change system settings.::
+100208::07_atrus_01a_03::Text fade::
+100209::07_atrus_01a_04::Dark::
+100210::07_atrus_01a_05::Bright::
+100211::07_cv_00b::???::
+100212::07_cv_00c::Other::
+100213::07_cv_01b::Shirou Emiya::
+100214::07_cv_02b::Saber::
+100215::07_cv_03b::Rin Tohsaka::
+100216::07_cv_04b::Sakura Matou::
+100217::07_cv_05b::Illya::
+100218::07_cv_06b::Taiga Fujimura::
+100219::07_cv_07b::Archer::
+100220::07_cv_08b::Lancer::
+100221::07_cv_09b::Rider::
+100222::07_cv_10b::Caster::
+100223::07_cv_11b::Sasaki Kojirou::
+100224::07_cv_12b::Berserker::
+100225::07_cv_13b::Gilgamesh::
+100226::07_cv_14b::Assassin::
+100227::07_cv_15b::Kiritsugu Emiya::
+100228::07_cv_16b::Kirei Kotomine::
+100229::07_cv_17b::Shinji Matou::
+100230::07_cv_18b::Souichirou Kuzuki::
+100231::07_cv_19b::Issei Ryudou::
+100232::07_cv_20b::Zouken Matou::
+100233::07_cv_21b::Ayako Mitsuzuri::
+100234::07_cv_22b::Yukika Saegusa::
+100235::07_cv_23b::Kaede Makidera::
+100236::07_cv_24b::Kane Himuro::
+100237::07_cv_25b::Sella::
+100238::07_cv_26b::Leysritt::
+100239::07_cv_28a::All::
+100240::07_cv_all_01::All ON::
+100241::07_cv_all_02::All OFF::
+100242::07_cv_all_03::LC_07_cv_all_03::
+100243::08_day_00a_01::LC_08_day_00a_01::
+100244::08_day_00a_02::LC_08_day_00a_02::
+100245::08_day_00a_03::1 One Day I::
+100246::08_day_00a_04::2 One Day II::
+100247::08_day_00a_05::3 Long Day, Long Night::
+100248::08_day_00a_06::4 Partner::
+100249::08_day_00a_07::5 New Life::
+100250::08_day_00a_08::6 BLADE::
+100251::08_day_00a_09::7 Sword & Magic (I)::
+100252::08_day_00a_10::8 Sword & Magic (II)::
+100253::08_day_00a_11::9 NEO::
+100254::08_day_00a_12::10 Skycraper::
+100255::08_day_00a_13::11 Dragon Slaying::
+100256::08_day_00a_14::12 Interval Level 4::
+100257::08_day_00a_15::13 Infinity Arms::
+100258::08_day_00a_16::14 Moonlight (I)::
+100259::08_day_00a_17::15 Utopia::
+100260::08_day_00a_18::The Dream Continues::
+100261::08_sub_01a_01::4 One Day III::
+100262::08_sub_01a_02::5 Bonnie and Clyde::
+100263::08_sub_01a_03::6 Faker::
+100264::08_sub_01a_04::7 Ghostwaltz::
+100265::08_sub_01a_05::8 Interval Level 1::
+100266::08_sub_01a_06::9 My Dear, Stray Dead::
+100267::08_sub_01a_07::10 Strike Lovers::
+100268::08_sub_01a_08::11 Witchcraft::
+100269::08_sub_01a_09::12 Moonlight (II)::
+100270::08_sub_01a_10::13 VS Berserker::
+100271::08_sub_01a_11::14 Knight Stay Night::
+100272::08_sub_01a_12::15 Afterimage::
+100273::08_sub_01a_13::16 EDEN::
+100274::08_sub_01a_14::Brilliant Years::
+100275::08_sub_01a_15::Sunny Day::
+100276::08_sub_02a_01::4 Avenger::
+100277::08_sub_02a_02::5 Omen::
+100278::08_sub_02a_03::6 Beautiful (I)::
+100279::08_sub_02a_04::7 Dialogue Lost Loop::
+100280::08_sub_02a_05::8 De:light::
+100281::08_sub_02a_06::9 RAIN::
+100282::08_sub_02a_07::10 Dark Wood, Sleeping Beauty::
+100283::08_sub_02a_08::11 Beautiful (II)::
+100284::08_sub_02a_09::12 Overdose::
+100285::08_sub_02a_10::13 LAST TALK::
+100286::08_sub_02a_11::14 Servant Eater::
+100287::08_sub_02a_12::15 Limited.::
+100288::08_sub_02a_13::16 FINAL::
+100289::08_sub_02a_14::Return to Spring::
+100290::08_sub_02a_15::Dreaming of Cherry Blossoms::
+100291::08_title_01::Fate/stay night::
+100292::08_title_02::Fate::
+100293::08_title_03::Unlimited Blade Works::
+100294::08_title_04::Heaven's Feel::
+100295::10_menu_00a_01::Gallery::
+100296::10_menu_00a_02::View the gallery.::
+100297::10_menu_00a_03::Memory::
+100298::10_menu_00a_04::View records.::
+100299::10_menu_00a_05::Status::
+100300::10_menu_00a_06::View stats.::
+100301::10_menu_01a_01::Picture::
+100302::10_menu_01a_02::View artwork.::
+100303::10_menu_01a_03::Music::
+100304::10_menu_01a_04::Play music tracks.::
+100305::10_menu_01a_05::SE::
+100306::10_menu_01a_06::Play sound effects.::
+100307::10_menu_02a_01::Prologue::
+100308::10_menu_02a_02::Play the prologue.::
+100309::10_menu_02a_03::Movie::
+100310::10_menu_02a_04::Play movies.::
+100311::10_menu_02a_05::Ending List::
+100312::10_menu_02a_06::View the list of endings.::
+100313::10_menu_02a_07::Tiger Stamps::
+100314::10_menu_02a_08::Check your Tiger Stamps.::
+100315::10_menu_03a_01::Character::
+100316::10_menu_03a_02::View the characters.::
+100317::10_menu_03a_03::Weapon::
+100318::10_menu_03a_04::View the weapon list.::
+100319::10_menu_03a_05::Flowchart::
+100320::10_menu_03a_06::View the flowchart.::
+100321::10_menu_04a_01::Game Center::
+100322::10_menu_04a_02::View play time and achievements.::
+100323::10_menu_04a_03::Google Play Games::
+100324::10_title_00a_01::Extra Menu::
+100325::10_title_00a_02::View in-game menus.::
+100326::10_title_01a_01::Gallery::
+100327::10_title_01a_02::View the gallery.::
+100328::10_title_02a_01::Memory::
+100329::10_title_02a_02::View records.::
+100330::10_title_03a_01::Status::
+100331::10_title_03a_02::View stats.::
+100332::20_bgm_00a::??????::
+100333::20_bgm_01a::Into the Night::
+100334::20_bgm_02a::Hizashi No Nakade::
+100335::20_bgm_03a::Odayaka Na Mainichi::
+100336::20_bgm_04a::Yasashii Fuukei::
+100337::20_bgm_05a::Akaneiro No Machi::
+100338::20_bgm_06a::Egao Ni Kakomarete::
+100339::20_bgm_07a::Mayonaka No Hazama::
+100340::20_bgm_08a::Samayou Kage::
+100341::20_bgm_09a::Akumu::
+100342::20_bgm_10a::Unmei No Uzu::
+100343::20_bgm_11a::Unemi No Uzu2::
+100344::20_bgm_12a::Gekitotsu Suru Tamashii::
+100345::20_bgm_13a::Hametsu No Ashioto::
+100346::20_bgm_14a::Toppako::
+100347::20_bgm_15a::Oka No Ue No Kyokai::
+100348::20_bgm_16a::Kioku No Kanata::
+100349::20_bgm_17a::Kienai Omoi::
+100350::20_bgm_18a::Futari No Jikan::
+100351::20_bgm_19a::Embrace::
+100352::20_bgm_20a::Embrace 2::
+100353::20_bgm_21a::Motomeau Kokoro::
+100354::20_bgm_22a::Shippu No Kenshi::
+100355::20_bgm_23a::Yakusoku Sareta Shouri No Ken::
+100356::20_bgm_24a::Ougon No Ou::
+100357::20_bgm_25a::EMIYA::
+100358::20_bgm_26a::Hikari To Yami::
+100359::20_bgm_27a::Konoyo Subete No Aku::
+100360::20_bgm_28a::Arata Na Yoake::
+100361::20_bgm_29a::Aratana Yoake2::
+100362::20_bgm_30a::Utsuriyuku Kisetsu2::
+100363::20_bgm_31a::THIS ILLUSION (inst.)::
+100364::20_bgm_32a::THIS ILLUSION (piano ver.)::
+100365::20_bgm_33a::Shizuka Naru Koe::
+100366::20_bgm_34a::Arashi No Yokan::
+100367::20_bgm_35a::Loreley::
+100368::20_bgm_36a::Kyo No Shokutaku::
+100369::20_bgm_37a::Extra::
+100370::20_bgm_38a::Uraraka Na Shirabe::
+100371::20_bgm_39a::Trouble Makers::
+100372::20_bgm_40a::Kokoro No Chime::
+100373::20_bgm_41a::Tiger Dojo No Theme::
+100374::20_bgm_42a::Makoku::
+100375::20_bgm_43a::Taiji::
+100376::20_bgm_44a::Sonic Barrage::
+100377::20_bgm_45a::Burst Up::
+100378::20_bgm_46a::Diver::
+100379::20_bgm_47a::Diver2::
+100380::20_bgm_48a::Kongen No Ryu::
+100381::20_bgm_49a::Shinshoku::
+100382::20_bgm_50a::Shinshoku2::
+100383::20_bgm_51a::Fukaki Nemuri::
+100384::20_bgm_52a::Sorrow::
+100385::20_bgm_53a::Kamino Na No Motoni::
+100386::20_bgm_54a::Yomigaeru Shinwa::
+100387::20_bgm_55a::Futari No Ou::
+100388::20_bgm_56a::Saigo No Chikara::
+100389::20_bgm_57a::Mighty Wind::
+100390::20_bgm_58a::Yakusoku Sareta Shouri No Ken (Black Saber mix)::
+100391::20_bgm_59a::Blue Sky::
+100392::20_bgm_60a::Utsuriyuku Kisetsu (Realta Nua ver.)::
+100393::20_bgm_61a::Ougon no Kagayaki (short ver.)::
+100394::20_bgm_62a::Link (Short Version)::
+100395::20_bgm_63a::Yume No Owari::
+100396::20_pic_00a::non displayed picture::
+100397::20_pic_01a::Now Loading::
+100398::20_title_00a_01::Picture::
+100399::20_title_00a_02::View game art.::
+100400::20_title_01a_01::Music::
+100401::20_title_01a_02::Listen to the soundtrack.::
+100402::30_edlist_01a::The Dream Continues::
+100403::30_edlist_02a::Sunny Day::
+100404::30_edlist_03a::Brilliant Years::
+100405::30_edlist_04a::Dreaming of Cherry Blossoms::
+100406::30_edlist_05a::Return to Spring::
+100407::30_gao_00a::RAWR!::
+100408::30_move_00a::non displayed movie::
+100409::30_stitle_00a::???::
+100410::30_stitle_01a::Fate::
+100411::30_stitle_02a::Unlimited Blade Works::
+100412::30_stitle_03a::Heaven's Feel::
+100413::30_text_00a::Movie::
+100414::30_title_00a_01::Tiger Stamps::
+100415::30_title_00a_02::Tiger Stamps::
+100416::30_title_01a_01::Ending List::
+100417::30_title_01a_02::View the list of endings.::
+100418::30_title_02a_01::Movie::
+100419::30_title_02a_02::View movies.::
+100420::30_txt_00a::???::
+100421::30_txt_01a::Normal End::
+100422::30_txt_02a::Good End::
+100423::30_txt_03a::True End::
+100424::40_abi_00a::Magic Resistance: A::
+100425::40_abi_00b::Riding: B::
+100426::40_deta_00a::Altria::
+100427::40_prof_00a_01::Altria::
+100428::40_prof_00a_02::Female::
+100429::40_prof_00a_03::154cm::
+100430::40_prof_00a_04::42kg::
+100431::40_skiil_00a::Intuition: A::
+100432::40_skiil_00b::Mana Burst: A::
+100433::40_skiil_00c::Charisma: B::
+100434::40_abi_01a::Magic Resistance: D::
+100435::40_abi_01b::Independent Action: B::
+100436::40_deta_01a::EMIYA::
+100437::40_prof_01a_01::EMIYA::
+100438::40_prof_01a_02::Male::
+100439::40_prof_01a_03::187cm::
+100440::40_prof_01a_04::78kg::
+100441::40_skiil_01a::Clairvoyance: C::
+100442::40_skiil_01b::Magecraft: C-::
+100443::40_skiil_01c::Mind's Eye (True): B::
+100444::40_abi_02a::Magic Resistance: C::
+100445::40_deta_02a::Cú Chulainn::
+100446::40_prof_02a_01::Cú Chulainn::
+100447::40_prof_02a_02::Male::
+100448::40_prof_02a_03::185cm::
+100449::40_prof_02a_04::70kg::
+100450::40_skiil_02a::Battle Continuation: A::
+100451::40_skiil_02b::Disengage: C::
+100452::40_skiil_02c::Runes: B::
+100453::40_skiil_02d::Protection from Arrows: B::
+100454::40_skiil_02e::Divinity: B::
+100455::40_abi_03a::Magic Resistance: B::
+100456::40_abi_03b::Riding: A+::
+100457::40_deta_03a::Medusa::
+100458::40_prof_03a_01::Medusa::
+100459::40_prof_03a_02::Female::
+100460::40_prof_03a_03::172cm::
+100461::40_prof_03a_04::57kg::
+100462::40_skiil_03a::Mystic Eyes: A+::
+100463::40_skiil_03b::Independent Action: C::
+100464::40_skiil_03c::Monstrous Strength: B::
+100465::40_skiil_03d::Divinity: E-::
+100466::40_abi_04a::Territory Creation: A::
+100467::40_abi_04b::Item Construction: A::
+100468::40_deta_04a::Medea::
+100469::40_prof_04a_01::Medea::
+100470::40_prof_04a_02::Female::
+100471::40_prof_04a_03::163cm::
+100472::40_prof_04a_04::51kg::
+100473::40_skiil_04a::Rapid Words of Divine: A::
+100474::40_skiil_04b::Argon Coin: EX::
+100475::40_abi_05a::Presence Concealment: D::
+100476::40_deta_05a::Sasaki Kojirou::
+100477::40_prof_05a_01::Sasaki Kojirou::
+100478::40_prof_05a_02::Male::
+100479::40_prof_05a_03::176cm::
+100480::40_prof_05a_04::63kg::
+100481::40_skiil_05a::Swallow Reversal::
+100482::40_skiil_05b::Mind's Eye (Fake): A::
+100483::40_skiil_05c::Vitrify: B+::
+100484::40_skiil_05d::Knowledge of the Sowa: B::
+100485::40_abi_06a::Madness Enhancement: B::
+100486::40_deta_06a::Heracles::
+100487::40_prof_06a_01::Heracles::
+100488::40_prof_06a_02::Male::
+100489::40_prof_06a_03::253cm::
+100490::40_prof_06a_04::311kg::
+100491::40_skiil_06a::Battle Continuation: A::
+100492::40_skiil_06b::Mind's Eye (Fake): B::
+100493::40_skiil_06c::Valor: A+::
+100494::40_skiil_06d::Divinity: A::
+100495::40_abi_07a::Magic Resistance: B::
+100496::40_abi_07b::Riding: -::
+100497::40_deta_07a::Altria::
+100498::40_prof_07a_01::Altria::
+100499::40_prof_07a_02::Female::
+100500::40_prof_07a_03::154cm::
+100501::40_prof_07a_04::42kg::
+100502::40_skiil_07a::Intuition: B::
+100503::40_skiil_07b::Mana Burst: A::
+100504::40_skiil_07c::Charisma: E::
+100505::40_abi_08a::Presence Concealment: A+::
+100506::40_deta_08a::Hassan-i Sabbah::
+100507::40_prof_08a_01::Hassan-i Sabbah::
+100508::40_prof_08a_02::Male::
+100509::40_prof_08a_03::215cm::
+100510::40_prof_08a_04::62kg::
+100511::40_skiil_08a::Throw (Dagger): B::
+100512::40_skiil_08b::Protection Against the Wind: A::
+100513::40_skiil_08c::Self-Modification: C::
+100514::40_abi_09a::Magic Resistance: E::
+100515::40_abi_09b::Independent Action: A+::
+100516::40_deta_09a::Gilgamesh::
+100517::40_prof_09a_01::Gilgamesh::
+100518::40_prof_09a_02::Male::
+100519::40_prof_09a_03::182cm::
+100520::40_prof_09a_04::68kg::
+100521::40_skiil_09a::Golden Rule: A::
+100522::40_skiil_09b::Charisma: A+::
+100523::40_skiil_09c::Divinity: B (A+)::
+100524::40_attri_00a::Chaotic-Madness::
+100525::40_attri_01a::Chaotic-Good::
+100526::40_attri_02a::Lawful-Evil::
+100527::40_attri_03a::Lawful-Good::
+100528::40_attri_04a::Lawful-Balanced::
+100529::40_attri_05a::Neutral-Evil::
+100530::40_attri_06a::Neutral-Balanced::
+100531::40_class_00a::Class::
+100532::40_gauge_02a_01::STR::
+100533::40_gauge_02a_02::MGI::
+100534::40_gauge_02a_03::CON::
+100535::40_gauge_02a_04::LCK::
+100536::40_gauge_02a_05::AGI::
+100537::40_gauge_02a_06::Noble Phantasm::
+100538::40_master_00a::Shirou Emiya::
+100539::40_master_01a::Rin Tohsaka::
+100540::40_master_02a::Sakura Matou::
+100541::40_master_03a::Illyasviel von Einzbern::
+100542::40_master_04a::Caster::
+100543::40_master_05a::Kirei Kotomine::
+100544::40_master_06a::Shinji Matou::
+100545::40_master_07a::Souichirou Kuzuki::
+100546::40_master_08a::Zouken Matou::
+100547::40_menu_00a::Class Abilities::
+100548::40_menu_01a::Details::
+100549::40_menu_02a::Innate Skills::
+100550::40_menu_03a::Noble Phantasm::
+100551::40_name_00a::Saber::
+100552::40_name_01a::Archer::
+100553::40_name_02a::Lancer::
+100554::40_name_03a::Rider::
+100555::40_name_04a::Caster::
+100556::40_name_05a::Assassin::
+100557::40_name_06a::Berserker::
+100558::40_name_07a::Saber::
+100559::40_name_08a::Assassin::
+100560::40_name_09a::Archer::
+100561::40_name_10a::???::
+100562::40_pram_00a::??::
+100563::40_pram_01a::EX::
+100564::40_pram_02a::A++::
+100565::40_pram_03a::A+::
+100566::40_pram_04a::A::
+100567::40_pram_05a::B::
+100568::40_pram_06a::C::
+100569::40_pram_07a::D::
+100570::40_pram_08a::E::
+100571::40_pram_09a::B++::
+100572::40_tab_02a_01::Class Abilities::
+100573::40_tab_02a_02::Ability 1::
+100574::40_tab_02a_03::Ability 2::
+100575::40_tab_03a::Details::
+100576::40_tab_04a_01::Innate Skills::
+100577::40_tab_04a_02::Skill 1::
+100578::40_tab_04a_03::Skill 2::
+100579::40_tab_04a_04::Skill 3::
+100580::40_tab_04a_05::Skill 4::
+100581::40_tab_04a_06::Skill 5::
+100582::40_tab_05a_01::Noble Phantasm::
+100583::40_tab_05a_02::Noble Phantasm 1::
+100584::40_tab_05a_03::Noble Phantasm 2::
+100585::40_tab_05a_04::Noble Phantasm 3::
+100586::40_title_00a_01::Character Select::
+100587::40_title_00a_02::Select a character.::
+100588::40_title_01a_01::Status::
+100589::40_title_01a_02::View Servant status information.::
+100590::40_title_01b_01::Master::
+100591::40_title_01b_02::True Name::
+100592::40_title_01b_03::Gender::
+100593::40_title_01b_04::Height/Weight::
+100594::40_title_01b_05::Alignment::
+100595::41_atrus_00a_01::Avalon::
+100596::41_atrus_00a_02::Ever the Distant Utopia ::
+100597::41_atrus_00a_03::Rank: EX::
+100598::41_atrus_00a_04::NP type: Anti-World::
+100599::41_atrus_00a_05::Protects: 1 person::
+100600::41_atrus_01a_01::Excalibur::
+100601::41_atrus_01a_02::Yakusoku Sareta Shouri No Ken::
+100602::41_atrus_01a_03::Rank: A++::
+100603::41_atrus_01a_04::NP type: Anti-Fortress::
+100604::41_atrus_01a_05::Range: 1–99::
+100605::41_atrus_01a_06::Max targets: 1000 persons::
+100606::41_atrus_02a_01::Enuma Elish::
+100607::41_atrus_02a_02::Star of Creation that Divided Heaven and Earth::
+100608::41_atrus_02a_03::Rank: EX::
+100609::41_atrus_02a_04::NP type: Anti-World::
+100610::41_atrus_02a_05::Range: 1–99::
+100611::41_atrus_02a_06::Max targets: 1000 persons::
+100612::41_atrus_03a_01::Gáe Bolg::
+100613::41_atrus_03a_02::Barbed Spear that Pierces with Death::
+100614::41_atrus_03a_03::Rank: B+::
+100615::41_atrus_03a_04::NP type: Anti-Army::
+100616::41_atrus_03a_05::Range: 5–40::
+100617::41_atrus_03a_06::Max targets: 50 persons::
+100618::41_atrus_04a_01::Gáe Bolg::
+100619::41_atrus_04a_02::Soaring Spear that Plunges with Death::
+100620::41_atrus_04a_03::Rank: B+::
+100621::41_atrus_04a_04::NP type: Anti-Personnel::
+100622::41_atrus_04a_05::Range: 2–4::
+100623::41_atrus_04a_06::Max targets: 1 person::
+100624::41_atrus_05a_01::Excalibur::
+100625::41_atrus_05a_02::Yakusoku Sareta Shouri No Ken::
+100626::41_atrus_05a_03::Rank: A++::
+100627::41_atrus_05a_04::NP type: Anti-Fortress::
+100628::41_atrus_05a_05::Range: 1–99::
+100629::41_atrus_05a_06::Max targets: 1000 persons::
+100630::41_atrus_06a_01::Rule Breaker::
+100631::41_atrus_06a_02::All Spells Must Be Broken::
+100632::41_atrus_06a_03::Rank: C::
+100633::41_atrus_06a_04::NP type: Anti-Magecraft::
+100634::41_atrus_06a_05::Range: 1::
+100635::41_atrus_06a_06::Max targets: 1 person::
+100636::41_atrus_07a_01::Breaker Gorgon::
+100637::41_atrus_07a_02::Self-Seal Dark Temple::
+100638::41_atrus_07a_03::Rank: C-::
+100639::41_atrus_07a_04::Range: 0::
+100640::41_atrus_07a_05::Max targets: 1 person::
+100641::41_atrus_08a_01::Gate of Babylon::
+100642::41_atrus_08a_02::Treasury of the King::
+100643::41_atrus_08a_03::Rank: E ~ A++::
+100644::41_atrus_08a_04::NP type: Anti-Personnel::
+100645::41_atrus_08a_05::Range: -::
+100646::41_atrus_09a_01::Kanshou and Bakuya::
+100647::41_atrus_09a_02::Rank: C::
+100648::41_atrus_09a_03::NP type: Anti-Personnel::
+100649::41_atrus_09a_04::Range: 1–2::
+100650::41_atrus_09a_05::Max targets: 2::
+100651::41_atrus_10a_01::Bellerophon::
+100652::41_atrus_10a_02::Bridle of Chivalry::
+100653::41_atrus_10a_03::Rank: A+::
+100654::41_atrus_10a_04::NP type: Anti-Army::
+100655::41_atrus_10a_05::Range: 2–50::
+100656::41_atrus_10a_06::Max targets: 300 persons::
+100657::41_atrus_11a_01::God Hand::
+100658::41_atrus_11a_02::Twelve Labors::
+100659::41_atrus_11a_03::Rank: B::
+100660::41_atrus_11a_04::NP type: Anti-Personnel::
+100661::41_atrus_11a_05::Range: -::
+100662::41_atrus_11a_06::Max targets: 1 person::
+100663::41_atrus_12a_01::God Hand::
+100664::41_atrus_12a_02::Twelve Labors::
+100665::41_atrus_12a_03::Rank: B::
+100666::41_atrus_12a_04::NP type: Anti-Personnel::
+100667::41_atrus_12a_05::Range: -::
+100668::41_atrus_12a_06::Max targets: 1 person::
+100669::41_atrus_13a_01::Blood Fort Andromeda::
+100670::41_atrus_13a_02::Other-Seal Blood Temple::
+100671::41_atrus_13a_03::Rank: B::
+100672::41_atrus_13a_04::NP type: Anti-Army::
+100673::41_atrus_13a_05::Range: 10–40::
+100674::41_atrus_13a_06::Max targets: 500 persons::
+100675::41_atrus_14a_01::Invisible Air::
+100676::41_atrus_14a_02::Barrier of the Wind King::
+100677::41_atrus_14a_03::Rank: C::
+100678::41_atrus_14a_04::NP type: Anti-Personnel::
+100679::41_atrus_14a_05::Range: 1–2::
+100680::41_atrus_14a_06::Max targets: 1 item::
+100681::41_atrus_15a_01::Unlimited Blade Works::
+100682::41_atrus_15a_02::Infinite Sword Creation::
+100683::41_atrus_15a_03::Rank: E ~ A++::
+100684::41_atrus_15a_04::NP type: ???::
+100685::41_atrus_15a_05::Range: ???::
+100686::41_atrus_15a_06::Max targets: ???::
+100687::41_atrus_16a_01::Zabaniya::
+100688::41_atrus_16a_02::Delusional Heartbeat::
+100689::41_atrus_16a_03::Rank: C::
+100690::41_atrus_16a_04::NP type: Anti-Personnel::
+100691::41_atrus_16a_05::Range: 3–9::
+100692::41_atrus_16a_06::Max targets: 1 person::
+100693::41_atrus_99a_01::???::
+100694::41_atrus_99a_02::no image::
+100695::50_chara_00a::???::
+100696::50_chara_01a::Saber::
+100697::50_chara_02a::Archer::
+100698::50_chara_03a::Assassin::
+100699::50_chara_04a::True Assassin::
+100700::50_chara_05a::Rider::
+100701::50_chara_06a::Berserker::
+100702::50_chara_07a::Rin::
+100703::50_chara_08a::Kirei Kotomine::
+100704::50_chara_09a::Taiga Fujimura::
+100705::50_name_00a::???::
+100706::50_name_01a_01::Caliburn::
+100707::50_name_01a_02::Golden Sword of Assured Victory::
+100708::50_name_02a::Caladbolg II::
+100709::50_name_03a::Gram::
+100710::50_name_04a::Durandal::
+100711::50_name_05a::Harpe::
+100712::50_name_06a::Vajra::
+100713::50_name_07a::Dáinsleif::
+100714::50_name_08a::The Laundry-Drying Pole::
+100715::50_name_09a::Dirk::
+100716::50_name_10a::Unnamed dagger::
+100717::50_name_11a::Unnamed axe-sword::
+100718::50_name_12a::Azoth Blade::
+100719::50_name_13a::Jeweled Sword Zelretch::
+100720::50_name_14a::Kanshou and Bakuya::
+100721::50_name_15a::Heaven Scorcher Halberd::
+100722::50_name_16a::Black Key::
+100723::50_name_17a::Tiger Bamboo Sword::
+100724::50_slash_00a::/::
+100725::50_title_00a_01::Weapon Menu::
+100726::50_title_00a_02::View the weapon glossary.::
+100727::60_end_00a_01::CON::
+100728::60_end_00a_02::FIN::
+100729::g_curse1::Die::
+100731::g_curse_full1::Die::
+100733::g_curse_full_b1::Die::
+100735::g_curse_full_c1::Die::
+100737::g_curse_full_d1::Die::
+100738::g_curse_full_d2::Die::
+100739::g_24hexp_svt_1::Past::
+100740::g_24hexp_svt_2::Present::
+100741::g_24hexp_svt_3::Future::
+100742::g_24hexp_svt_4::Time Axis::
+100743::g_24hexp_svt_5::Person A	becomes a hero and dies::
+100744::g_24hexp_svt_6::Throne of Heroes::
+100745::g_24hexp_svt_7::Removed from the	time axis (cycle of reincarnation)::
+100746::g_24hexp_svtb_1::Past::
+100747::g_24hexp_svtb_2::Present::
+100748::g_24hexp_svtb_3::Future::
+100749::g_24hexp_svtb_4::Time Axis::
+100750::g_24hexp_svtb_5::Copy::
+100751::g_24hexp_svtb_6::Summoned::
+100752::g_24hexp_svtb_7::Throne of Heroes::
+100753::g_24hexp_svtb_8::Original::
+100754::g_24hexp_svtc_1::Past::
+100755::g_24hexp_svtc_2::Present::
+100756::g_24hexp_svtc_3::Future::
+100757::g_24hexp_svtc_4::Disappears after summoning	(original is unaffected)::
+100758::g_24hexp_svtc_5::Time Axis::
+100759::g_24hexp_svtc_6::Copy::
+100760::g_24hexp_svtc_7::Throne of Heroes::
+100761::g_24hexp_svtc_8::Original::
+100762::g_24hexp_sav_1::Past::
+100763::g_24hexp_sav_2::Present::
+100764::g_24hexp_sav_3::Future::
+100765::g_24hexp_sav_4::Battle of Camlann::
+100766::g_24hexp_sav_5::Time Axis::
+100767::g_24hexp_sav_6::Arthur::
+100768::g_24hexp_sav_7::Arthur dies::
+100769::g_24hexp_sav_8::Summoned::
+100770::g_24hexp_sav_9::Shirou::
+100771::g_24hexp_sav_10::Throne of Heroes::
+100772::g_24hexp_savb01::Past::
+100773::g_24hexp_savb02::Present::
+100774::g_24hexp_savb03::Future::
+100775::g_24hexp_savb04::Battle of Camlann::
+100776::g_24hexp_savb05::Returns to original era after summoning::
+100777::g_24hexp_savb06::Time Axis::
+100778::g_24hexp_savb07::Arthur::
+100779::g_24hexp_savb08::Arthur dies::
+100780::g_24hexp_savb09::Shirou::
+100781::g_24hexp_savb10::Throne of Heroes::
+100782::g_24hexp_savc01::Past::
+100783::g_24hexp_savc02::Present::
+100784::g_24hexp_savc03::Future::
+100785::g_24hexp_savc04::Battle of Camlann::
+100786::g_24hexp_savc05::Returns to original era after summoning::
+100787::g_24hexp_savc06::Time Axis::
+100788::g_24hexp_savc07::Arthur::
+100789::g_24hexp_savc08::Arthur dies::
+100790::g_24hexp_savc09::Summoned::
+100791::g_24hexp_savc10::Shirou::
+100792::g_24hexp_savc11::If the Holy Grail is acquired::
+100793::g_24hexp_savc12::Throne of Heroes::
+100794::g_41curse::Just cut it off.::
+100795::g_80saber::Saber::
+100796::g_81lancer::Lancer::
+100797::g_82archer::Archer::
+100798::g_83caster::Caster::
+100799::g_84bersercer::Berserker::
+100800::g_85rider::Rider::
+100801::g_86assassin::Assassin::
+100802::g_12_17a::Ms. Caster (pseudonym), age 28 (estimated)::
+100803::12_17b::○○ in the afternoon	that's all	TV::
+100804::g_203chain::203 chain	MARVELOUS::
+100805::g_rinn03_150::Raging Mage	NO MERCY RED EN BLACK::
+100806::g_sakura03_150::Silent Cook	Carelessly Cooking You::
+100807::g_stagestart031::Don't take this castle to Japan::
+100808::g_stagestart032::Go Home Einzbern::
+100809::g_stagestart033::STAGE #03::
+100810::g_tigerttl_rina::Tiger Dojo::
+100811::g_tigerttl_rinb::Tiger Dojo::
+100812::g_tigerttl_skrb::Tiger Dojo::
+100813::g_time544::0.2388888888888889::
+100814::g_time545::0.2465277777777778::
+100815::g_japunika1_1::Good Kids' Annihilation Series::
+100816::g_japunika1_2::Three Kills a Day::
+100817::g_japunika1_3::Japunika Assassination Manual::
+100818::g_japunika1_4::JAPUNIKA::
+100819::g_japunika1_5::Row    22::
+100820::g_japunika1_6::Revenge::
+100821::g_japunika1_7::Nice to Shirou::
+100822::g_japunika1_8::Year    Class    Name::
+100823::g_japunika1_9::Illya::
+100824::g_tigerstamp::Tiger Dojo::
+100825::g_tkmk_b::Tiger Dojo	Premonition of Heartthrob::
+100826::g_tkmk_e::Tiger Dojo	Premonition of Heartthrob::
+100827::g_rizstamp::Tiger Dojo::
+100828::g_101curse_ca::Come::
+100829::g_102curse_cab::...Come...::
+100830::g_103curse_cac::Come on now. Come here, boy.::
+100831::g_102ubr_a::I am the bone of my sword.::
+100832::g_102ubr_b::Steel is my body, and fire is my blood.::
+100833::g_102ubrbg_b01::I am the bone of my sword.::
+100834::g_102ubrbg_b02::Steel is my body, and fire is my blood.::
+100835::g_102ubrbg_b03::I am the bone of my sword.::
+100836::g_102ubrbg_b04::Steel is my body, and fire is my blood.::
+100837::g_102ubrbg_b05::I have created over a thousand blades.::
+100838::g_102ubrbg_b06::Unknown to Death,::
+100839::g_102ubrbg_b07::nor known to Life.::
+100840::g_102ubrbg_b08::Have withstood pain to create many weapons.::
+100841::g_102ubrbg_b09::Yet, those hands will never hold anything.::
+100842::g_102ubrbg_b10::So as I pray, UNLIMITED BLADE WORKS.::
+100843::g_102ubr_c::I have created over a thousand blades.::
+100844::g_102ubr_d::Unknown to Death,::
+100845::g_102ubr_e::nor known to Life.::
+100846::g_102ubr_f::Have withstood pain to create many weapons.::
+100847::g_102ubr_g::Yet, those hands will never hold anything.::
+100848::g_102ubr_h::So as I pray, UNLIMITED BLADE WORKS.::
+100849::g_epilogue_in::epilogue.::
+100850::g_epilogue_in2::epilogue.::
+100851::g_typemoon_b::TYPE-MOON PRESENTS::
+100857::g_question_a::?::
+100858::g_question_b::?::
+100864::g_decay_a::The sage cries out.	"Open, Gates of Heaven. Bless us and bestow miracles upon us!"	The sage cries out in regret.	"Close, Gates of Heaven. Save us from all our sins and evil!"::
+100865::g_decay_b::The curtain closes.	The millennium comes to a standstill.	Our dreams, our hopes... were a forbidden "failure" from the start.::
+100866::g_decay_c::The stars fall out of the sky.	Space closes up into nothingness.	The pathway to the center is shrouded along with our sins.		...I am, at last, filled with joy.::
+100867::g_decay_d::All has been engulfed by darkness.	Nothing can hurt you now.	At least, you have been set free from the pain that you carried for so long.		You may now rest, without a worry on your mind.::
+100873::g_rinmemo::After school. Behind the range. In the grove.	 I'm not mad about this morning, so come.	If you don't come, I'll kill you go home.::
+100874::g_epologue::epilogue.::
+100875::g_sab0203_1::2/3::
+100876::g_sab0203_2::Fate::
+100877::g_sab0203_3::4 Partner::
+100878::g_sab0204_1::2/4::
+100879::g_sab0204_2::Fate::
+100880::g_sab0204_3::5 New Life::
+100881::g_sab0205_1::2/5::
+100882::g_sab0205_2::Fate::
+100883::g_sab0205_3::6 BLADE::
+100884::g_sab0206_1::2/6::
+100885::g_sab0206_2::Fate::
+100886::g_sab0206_3::7 Sword & Magic (I)::
+100887::g_sab0207_1::2/7::
+100888::g_sab0207_2::Fate::
+100889::g_sab0207_3::8 Sword & Magic (II)::
+100890::g_sab0208_1::2/8::
+100891::g_sab0208_2::Fate::
+100892::g_sab0208_3::9 NEO::
+100893::g_sab0209_1::2/9::
+100894::g_sab0209_2::Fate::
+100895::g_sab0209_3::10 Skycraper::
+100896::g_sab0210_1::2/10::
+100897::g_sab0210_2::Fate::
+100898::g_sab0210_3::11 Dragon Slaying::
+100899::g_sab0211_1::2/11::
+100900::g_sab0211_2::Fate::
+100901::g_sab0211_3::12 Interval Level 4::
+100902::g_sab0212_1::2/12::
+100903::g_sab0212_2::Fate::
+100904::g_sab0212_3::13 Infinity Arms::
+100905::g_sab0213_1::2/13::
+100906::g_sab0213_2::Fate::
+100907::g_sab0213_3::14 Moonlight (I)::
+100908::g_sab0214_1::2/14::
+100909::g_sab0214_2::Fate::
+100910::g_sab0214_3::15 Utopia::
+100911::g_deadend::DEAD END::
+100912::g_trueend::FIN::
+100913::g_normalend::CON::
+100914::g_badend::BAD END::
+100915::g_cmn0131_1::1/31::
+100916::g_cmn0131_2::Fate/stay night::
+100917::g_cmn0131_3::1 One day::
+100918::g_cmn0201_1::2/1::
+100919::g_cmn0201_2::Fate/stay night::
+100920::g_cmn0201_3::2 One day II::
+100921::g_cmn0202_1::2/2::
+100922::g_cmn0202_2::Fate/stay night::
+100923::g_cmn0202_3::3 Long Day, Long Night::
+100924::g_skr0203_1::2/3::
+100925::g_skr0203_2::Heaven's Feel::
+100926::g_skr0203_3::4 Avenger::
+100927::g_skr0204_1::2/4::
+100928::g_skr0204_2::Heaven's Feel::
+100929::g_skr0204_3::5 omen::
+100930::g_skr0205_1::2/5::
+100931::g_skr0205_2::Heaven's Feel::
+100932::g_skr0205_3::6 beautiful (I)::
+100933::g_skr0206_1::2/6::
+100934::g_skr0206_2::Heaven's Feel::
+100935::g_skr0206_3::7 Dialogue Lost Loop::
+100936::g_skr0207_1::2/7::
+100937::g_skr0207_2::Heaven's Feel::
+100938::g_skr0207_3::8 De:light::
+100939::g_skr0208_1::2/7::
+100940::g_skr0208_2::Heaven's Feel::
+100941::g_skr0208_3::9 RAIN::
+100942::g_skr0209_1::2/9::
+100943::g_skr0209_2::Heaven's Feel::
+100944::g_skr0209_3::10 Dark Wood, Sleeping Beauty::
+100945::g_skr0210_1::2/10::
+100946::g_skr0210_2::Heaven's Feel::
+100947::g_skr0210_3::11 beautiful (II)::
+100948::g_skr0211_1::2/11::
+100949::g_skr0211_2::Heaven's Feel::
+100950::g_skr0211_3::12 Overdose::
+100951::g_skr0212_1::2/12::
+100952::g_skr0212_2::Heaven's Feel::
+100953::g_skr0212_3::13 LAST TALK::
+100954::g_skr0213_1::2/13::
+100955::g_skr0213_2::Heaven's Feel::
+100956::g_skr0213_3::14 servant eater::
+100957::g_skr0214_1::2/14::
+100958::g_skr0214_2::Heaven's Feel::
+100959::g_skr0214_3::15 Limited.::
+100960::g_skr0215_1::2/15::
+100961::g_skr0215_2::Heaven's Feel::
+100962::g_skr0215_3::16 FINAL::
+100963::g_skr_hint::The final route, "Heaven's Feel," is now open.::
+100964::g_rin0203_1::2/3::
+100965::g_rin0203_2::Unlimited Blade Works::
+100966::g_rin0203_3::4 One Day III::
+100967::g_rin0204_1::2/4::
+100968::g_rin0204_2::Unlimited Blade Works::
+100969::g_rin0204_3::5 Bonnie and Clyde::
+100970::g_rin0205_1::2/5::
+100971::g_rin0205_2::Unlimited Blade Works::
+100972::g_rin0205_3::6 Faker::
+100973::g_rin0206_1::2/6::
+100974::g_rin0206_2::Unlimited Blade Works::
+100975::g_rin0206_3::7 Ghostwaltz::
+100976::g_rin0207_1::2/7::
+100977::g_rin0207_2::Unlimited Blade Works::
+100978::g_rin0207_3::8 Interval Level 1::
+100979::g_rin0208_1::2/8::
+100980::g_rin0208_2::Unlimited Blade Works::
+100981::g_rin0208_3::9 My Dear, Stray Dead::
+100982::g_rin0209_1::2/9::
+100983::g_rin0209_2::Unlimited Blade Works::
+100984::g_rin0209_3::10 Strike Lovers::
+100985::g_rin0210_1::2/10::
+100986::g_rin0210_2::Unlimited Blade Works::
+100987::g_rin0210_3::11 Witchcraft::
+100988::g_rin0211_1::2/11::
+100989::g_rin0211_2::Unlimited Blade Works::
+100990::g_rin0211_3::12 Moonlight (II)::
+100991::g_rin0212_1::2/12::
+100992::g_rin0212_2::Unlimited Blade Works::
+100993::g_rin0212_3::13 VS Berserker::
+100994::g_rin0213_1::2/13::
+100995::g_rin0213_2::Unlimited Blade Works::
+100996::g_rin0213_3::14 Knight Stay Night::
+100997::g_rin0214_1::2/14::
+100998::g_rin0214_2::Unlimited Blade Works::
+100999::g_rin0214_3::15 EDEN::
+101000::g_rin0215_1::2/15::
+101001::g_rin0215_2::Unlimited Blade Works::
+101002::g_rin0215_3::16 Answer::
+101003::g_rin_hint::Try again from the night of the 3rd day.::
+101004::g_tw_question::???::
+101005::g_tw_iriya::Illya::
+101006::g_tw_taiga::Taiga::
+101007::g_tw_yukika::Yukika::
+101008::g_tw_riz::Leys::
+101009::g_tw_rin::Rin::
+101010::g_dt_d1::1::
+101011::g_dt_d2::2::
+101012::g_dt_d3::3::
+101013::g_dt_d4::4::
+101014::g_dt_d5::5::
+101015::g_dt_d6::6::
+101016::g_dt_d7::7::
+101017::g_dt_d8::8::
+101018::g_dt_d9::9::
+101019::g_dt_d10::10::
+101020::g_dt_d11::11::
+101021::g_dt_d12::12::
+101022::g_dt_d13::13::
+101023::g_dt_d14::14::
+101024::g_dt_d15::15::
+101025::g_dt_d31::31::
+101026::g_dt_m1::1::
+101027::g_dt_m2::2::
+101028::g_dt_se0131_1::Fate/stay night::
+101029::g_dt_se0131_2::1 One Day I::
+101030::g_dt_se0201_1::Fate/stay night::
+101031::g_dt_se0201_2::2 One Day II::
+101032::g_dt_se0202_1::Fate/stay night::
+101033::g_dt_se0202_2::3 Long Day, Long Night::
+101034::g_dt_se0203_1::Fate::
+101035::g_dt_se0203_2::4 Partner::
+101036::g_dt_se0204_1::Fate::
+101037::g_dt_se0204_2::5 New Life::
+101038::g_dt_se0205_1::Fate::
+101039::g_dt_se0205_2::6 BLADE::
+101040::g_dt_se0206_1::Fate::
+101041::g_dt_se0206_2::7 Sword & Magic (I)::
+101042::g_dt_se0207_1::Fate::
+101043::g_dt_se0207_2::8 Sword & Magic (II)::
+101044::g_dt_se0208_1::Fate::
+101045::g_dt_se0208_2::9 NEO::
+101046::g_dt_se0209_1::Fate::
+101047::g_dt_se0209_2::10 Skycraper::
+101048::g_dt_se0210_1::Fate::
+101049::g_dt_se0210_2::11 Dragon Slaying::
+101050::g_dt_se0212_1::Fate::
+101051::g_dt_se0212_2::12 Interval Level 4::
+101052::g_dt_se0213_1::Fate::
+101053::g_dt_se0213_2::13 Infinity Arms::
+101054::g_dt_se0214_1::Fate::
+101055::g_dt_se0214_2::14 Moonlight (I)::
+101056::g_dt_se0215_1::Fate::
+101057::g_dt_se0215_2::15 Utopia::
+101058::g_dt_seed_1::Fate::
+101059::g_dt_seed_2::The Dream Continues::
+101060::g_dt_month::LC_08_day_00a_01::
+101061::g_dt_sa0203_1::Heaven's Feel::
+101062::g_dt_sa0203_2::4 Avenger::
+101063::g_dt_sa0204_1::Heaven's Feel::
+101064::g_dt_sa0204_2::5 Omen::
+101065::g_dt_sa0205_1::Heaven's Feel::
+101066::g_dt_sa0205_2::6 Beautiful (I)::
+101067::g_dt_sa0206_1::Heaven's Feel::
+101068::g_dt_sa0206_2::7 Dialogue Lost Loop::
+101069::g_dt_sa0207_1::Heaven's Feel::
+101070::g_dt_sa0207_2::8 De:light::
+101071::g_dt_sa0208_1::Heaven's Feel::
+101072::g_dt_sa0208_2::9 RAIN::
+101073::g_dt_sa0209_1::Heaven's Feel::
+101074::g_dt_sa0209_2::10 Dark Wood, Sleeping Beauty::
+101075::g_dt_sa0210_1::Heaven's Feel::
+101076::g_dt_sa0210_2::11 Beautiful (II)::
+101077::g_dt_sa0211_1::Heaven's Feel::
+101078::g_dt_sa0211_2::12 Overdose::
+101079::g_dt_sa0212_1::Heaven's Feel::
+101080::g_dt_sa0212_2::13 LAST TALK::
+101081::g_dt_sa0213_1::Heaven's Feel::
+101082::g_dt_sa0213_2::14 Servant Eater::
+101083::g_dt_sa0214_1::Heaven's Feel::
+101084::g_dt_sa0214_2::15 Limited.::
+101085::g_dt_sa0215_1::Heaven's Feel::
+101086::g_dt_sa0215_2::16 FINAL::
+101087::g_dt_saed1_1::Heaven's Feel::
+101088::g_dt_saed1_2::Return to Spring::
+101089::g_dt_saed2_1::Heaven's Feel::
+101090::g_dt_saed2_2::Dreaming of Cherry Blossoms::
+101091::g_dt_date::LC_08_day_00a_02::
+101092::g_dt_ri0203_1::Unlimited Blade Works::
+101093::g_dt_ri0203_2::4 One Day III::
+101094::g_dt_ri0204_1::Unlimited Blade Works::
+101095::g_dt_ri0204_2::5 Bonnie and Clyde::
+101096::g_dt_ri0205_1::Unlimited Blade Works::
+101097::g_dt_ri0205_2::6 Faker::
+101098::g_dt_ri0206_1::Unlimited Blade Works::
+101099::g_dt_ri0206_2::7 Ghostwaltz::
+101100::g_dt_ri0207_1::Unlimited Blade Works::
+101101::g_dt_ri0207_2::8 Interval Level 1::
+101102::g_dt_ri0208_1::Unlimited Blade Works::
+101103::g_dt_ri0208_2::9 My Dear, Stray Dead::
+101104::g_dt_ri0209_1::Unlimited Blade Works::
+101105::g_dt_ri0209_2::10 Strike Lovers::
+101106::g_dt_ri0210_1::Unlimited Blade Works::
+101107::g_dt_ri0210_2::11 Witchcraft::
+101108::g_dt_ri0211_1::Unlimited Blade Works::
+101109::g_dt_ri0211_2::12 Moonlight (II)::
+101110::g_dt_ri0212_1::Unlimited Blade Works::
+101111::g_dt_ri0212_2::13 VS Berserker::
+101112::g_dt_ri0213_1::Unlimited Blade Works::
+101113::g_dt_ri0213_2::14 Knight Stay Night::
+101114::g_dt_ri0214_1::Unlimited Blade Works::
+101115::g_dt_ri0214_2::15 Afterimage::
+101116::g_dt_ri0215_1::Unlimited Blade Works::
+101117::g_dt_ri0215_2::16 EDEN::
+101118::g_dt_ried1_1::Unlimited Blade Works::
+101119::g_dt_ried1_2::Brilliant Years::
+101120::g_dt_ried2_1::Unlimited Blade Works::
+101121::g_dt_ried2_2::Sunny Day::
+101122::g_dti0131_0_d_1::Fate/stay night::
+101123::g_dti0131_0_d_2::1 One Day I::
+101124::g_dti0131_0_u::1/31::
+101125::g_dti0201_0_d_1::Fate/stay night::
+101126::g_dti0201_0_d_2::2 One Day II::
+101127::g_dti0201_0_u::2/2::
+101128::g_dti0202_0_d_1::Fate/stay night::
+101129::g_dti0202_0_d_2::3 Long Day, Long Night::
+101130::g_dti0202_0_u::2/2::
+101131::g_dti0203_0_d_1::Fate::
+101132::g_dti0203_0_d_2::4 Partner::
+101133::g_dti0203_0_u::2/3::
+101134::g_dti0203_1_d_1::Unlimited Blade Works::
+101135::g_dti0203_1_d_2::4 One Day III::
+101136::g_dti0203_1_u::2/3::
+101137::g_dti0203_2_d_1::Heaven's Feel::
+101138::g_dti0203_2_d_2::4 Avenger::
+101139::g_dti0203_2_u::2/3::
+101140::g_dti0204_0_d_1::Fate::
+101141::g_dti0204_0_d_2::5 New Life::
+101142::g_dti0204_0_u::2/4::
+101143::g_dti0204_1_d_1::Unlimited Blade Works::
+101144::g_dti0204_1_d_2::5 Bonnie and Clyde::
+101145::g_dti0204_1_u::2/4::
+101146::g_dti0204_2_d_1::Heaven's Feel::
+101147::g_dti0204_2_d_2::5 Omen::
+101148::g_dti0204_2_u::2/4::
+101149::g_dti0205_0_d_1::Fate::
+101150::g_dti0205_0_d_2::6 BLADE::
+101151::g_dti0205_0_u::2/5::
+101152::g_dti0205_1_d_1::Unlimited Blade Works::
+101153::g_dti0205_1_d_2::6 Faker::
+101154::g_dti0205_1_u::2/5::
+101155::g_dti0205_2_d_1::Heaven's Feel::
+101156::g_dti0205_2_d_2::6 Beautiful (I)::
+101157::g_dti0205_2_u::2/5::
+101158::g_dti0206_0_d_1::Fate::
+101159::g_dti0206_0_d_2::7 Sword & Magic (I)::
+101160::g_dti0206_0_u::2/6::
+101161::g_dti0206_1_d_1::Unlimited Blade Works::
+101162::g_dti0206_1_d_2::7 Ghostwaltz::
+101163::g_dti0206_1_u::2/6::
+101164::g_dti0206_2_d_1::Heaven's Feel::
+101165::g_dti0206_2_d_2::7 Dialogue Lost Loop::
+101166::g_dti0206_2_u::2/6::
+101167::g_dti0207_0_d_1::Fate::
+101168::g_dti0207_0_d_2::8 Sword & Magic (II)::
+101169::g_dti0207_0_u::2/7::
+101170::g_dti0207_1_d_1::Unlimited Blade Works::
+101171::g_dti0207_1_d_2::8 Interval Level 1::
+101172::g_dti0207_1_u::2/7::
+101173::g_dti0207_2_d_1::Heaven's Feel::
+101174::g_dti0207_2_d_2::8 De:light::
+101175::g_dti0207_2_u::2/7::
+101176::g_dti0208_0_d_1::Fate::
+101177::g_dti0208_0_d_2::9 NEO::
+101178::g_dti0208_0_u::2/8::
+101179::g_dti0208_1_d_1::Unlimited Blade Works::
+101180::g_dti0208_1_d_2::9 My Dear, Stray Dead::
+101181::g_dti0208_1_u::2/8::
+101182::g_dti0208_2_d_1::Heaven's Feel::
+101183::g_dti0208_2_d_2::9 RAIN::
+101184::g_dti0208_2_u::2/8::
+101185::g_dti0209_0_d_1::Fate::
+101186::g_dti0209_0_d_2::10 Skycraper::
+101187::g_dti0209_0_u::2/9::
+101188::g_dti0209_1_d_1::Unlimited Blade Works::
+101189::g_dti0209_1_d_2::10 Strike Lovers::
+101190::g_dti0209_1_u::2/9::
+101191::g_dti0209_2_d_1::Heaven's Feel::
+101192::g_dti0209_2_d_2::10 Dark Wood, Sleeping Beauty::
+101193::g_dti0209_2_u::2/9::
+101194::g_dti0210_0_d_1::Fate::
+101195::g_dti0210_0_d_2::11 Dragon Slaying::
+101196::g_dti0210_0_u::2/10::
+101197::g_dti0210_1_d_1::Unlimited Blade Works::
+101198::g_dti0210_1_d_2::11 Witchcraft::
+101199::g_dti0210_1_u::2/10::
+101200::g_dti0210_2_d_1::Heaven's Feel::
+101201::g_dti0210_2_d_2::11 Beautiful (II)::
+101202::g_dti0210_2_u::2/10::
+101203::g_dti0211_1_d_1::Unlimited Blade Works::
+101204::g_dti0211_1_d_2::12 Moonlight (II)::
+101205::g_dti0211_1_u::2/11::
+101206::g_dti0211_2_d_1::Heaven's Feel::
+101207::g_dti0211_2_d_2::12 Overdose::
+101208::g_dti0211_2_u::2/11::
+101209::g_dti0212_0_d_1::Fate::
+101210::g_dti0212_0_d_2::12 Interval Level 4::
+101211::g_dti0212_0_u::2/12::
+101212::g_dti0212_1_d_1::Unlimited Blade Works::
+101213::g_dti0212_1_d_2::13 VS Berserker::
+101214::g_dti0212_1_u::2/12::
+101215::g_dti0212_2_d_1::Heaven's Feel::
+101216::g_dti0212_2_d_2::13 LAST TALK::
+101217::g_dti0212_2_u::2/12::
+101218::g_dti0213_0_d_1::Fate::
+101219::g_dti0213_0_d_2::13 Infinity Arms::
+101220::g_dti0213_0_u::2/13::
+101221::g_dti0213_1_d_1::Unlimited Blade Works::
+101222::g_dti0213_1_d_2::14 Knight Stay Night::
+101223::g_dti0213_1_u::2/13::
+101224::g_dti0213_2_d_1::Heaven's Feel::
+101225::g_dti0213_2_d_2::14 Servant Eater::
+101226::g_dti0213_2_u::2/13::
+101227::g_dti0214_0_d_1::Fate::
+101228::g_dti0214_0_d_2::14 Moonlight (I)::
+101229::g_dti0214_0_u::2/14::
+101230::g_dti0214_1_d_1::Unlimited Blade Works::
+101231::g_dti0214_1_d_2::15 Afterimage::
+101232::g_dti0214_1_u::2/14::
+101233::g_dti0214_2_d_1::Heaven's Feel::
+101234::g_dti0214_2_d_2::15 Limited.::
+101235::g_dti0214_2_u::2/14::
+101236::g_dti0215_0_d_1::Fate::
+101237::g_dti0215_0_d_2::15 Utopia::
+101238::g_dti0215_0_u::2/15::
+101239::g_dti0215_1_d_1::Unlimited Blade Works::
+101240::g_dti0215_1_d_2::16 EDEN::
+101241::g_dti0215_1_u::2/15::
+101242::g_dti0215_2_d_1::Heaven's Feel::
+101243::g_dti0215_2_d_2::16 FINAL::
+101244::g_dti0215_2_u::2/15::
+101245::g_fate2::Fate::
+101246::g_g_tw_kaede::Kaede::
+101247::g_typemoon::TYPE-MOON PRESENTS::
+101248::g_intld03-0::interlude 3-0::
+101249::g_intld04-1ri_1::interlude 4-1::
+101250::g_intld04-1ri_2::Unlimited Blade Works.::
+101251::g_intld05-1sa_1::interlude 5-1::
+101252::g_intld05-1sa_2::Heaven's Feel.::
+101253::g_intld05-2sa_1::interlude 5-2::
+101254::g_intld05-2sa_2::Heaven's Feel.::
+101255::g_intld06-1se_1::interlude 6-1::
+101256::g_intld06-1se_2::Fate.::
+101257::g_intld06-1sa_1::interlude 6-1::
+101258::g_intld06-1sa_2::Heaven's Feel.::
+101259::g_intld06-1ri_1::interlude 6-1::
+101260::g_intld06-1ri_2::Unlimited Blade Works.::
+101261::g_intld06-2se_1::interlude 6-2::
+101262::g_intld06-2se_2::Fate.::
+101263::g_intld07-1sa_1::interlude 7-1::
+101264::g_intld07-1sa_2::Heaven's Feel.::
+101265::g_intld07-2sa_1::interlude 7-2::
+101266::g_intld07-2sa_2::Heaven's Feel.::
+101267::g_intld08-1sa_1::interlude 8-1::
+101268::g_intld08-1sa_2::Heaven's Feel.::
+101269::g_intld08-1ri_1::interlude 8-1::
+101270::g_intld08-1ri_2::Unlimited Blade Works.::
+101271::g_intld08-2sa_1::interlude 8-2::
+101272::g_intld08-2sa_2::Heaven's Feel.::
+101273::g_intld08-3sa_1::interlude 8-3::
+101274::g_intld08-3sa_2::Heaven's Feel.::
+101275::g_intld08-4sa_1::interlude 8-4::
+101276::g_intld08-4sa_2::Heaven's Feel.::
+101277::g_intld09-1sa_1::interlude 9-1::
+101278::g_intld09-1sa_2::Heaven's Feel.::
+101279::g_intld09-1ri_1::interlude 9-1::
+101280::g_intld09-1ri_2::Unlimited Blade Works.::
+101281::g_intld09-2sa_1::interlude 9-2::
+101282::g_intld09-2sa_2::Heaven's Feel.::
+101283::g_intld09-2ri_1::interlude 9-2::
+101284::g_intld09-2ri_2::Unlimited Blade Works.::
+101285::g_intld09-3sa_1::interlude 9-3::
+101286::g_intld09-3sa_2::Heaven's Feel.::
+101287::g_intld09-3ri_1::interlude 9-3::
+101288::g_intld09-3ri_2::Unlimited Blade Works.::
+101289::g_intld10-1se_1::interlude 10-1::
+101290::g_intld10-1se_2::Fate.::
+101291::g_intld10-1sa_1::interlude 10-1::
+101292::g_intld10-1sa_2::Heaven's Feel.::
+101293::g_intld10-2sa_1::interlude 10-2::
+101294::g_intld10-2sa_2::Heaven's Feel.::
+101295::g_intld10-3sa_1::interlude 10-3::
+101296::g_intld10-3sa_2::Heaven's Feel.::
+101297::g_intld10-4sa_1::interlude 10-4::
+101298::g_intld10-4sa_2::Heaven's Feel.::
+101299::g_intld10-5sa_1::interlude 10-5::
+101300::g_intld10-5sa_2::Heaven's Feel.::
+101301::g_intld11-1se_1::interlude 11-1::
+101302::g_intld11-1se_2::Fate.::
+101303::g_intld11-1sa_1::interlude 11-1::
+101304::g_intld11-1sa_2::Heaven's Feel.::
+101305::g_intld11-1ri_1::interlude 11-1::
+101306::g_intld11-1ri_2::Unlimited Blade Works.::
+101307::g_intld11-2sa_1::interlude 11-2::
+101308::g_intld11-2sa_2::Heaven's Feel.::
+101309::g_intld11-2ri_1::interlude 11-2::
+101310::g_intld11-2ri_2::Unlimited Blade Works.::
+101311::g_intld12-1sa_1::interlude 12-1::
+101312::g_intld12-1sa_2::Heaven's Feel.::
+101313::g_intld12-1ri_1::interlude 12-1::
+101314::g_intld12-1ri_2::Unlimited Blade Works.::
+101315::g_intld12-2sa_1::interlude 12-2::
+101316::g_intld12-2sa_2::Heaven's Feel.::
+101317::g_intld12-2ri_1::interlude 12-2::
+101318::g_intld12-2ri_2::Unlimited Blade Works.::
+101319::g_intld12-3sa_1::interlude 12-3::
+101320::g_intld12-3sa_2::Heaven's Feel.::
+101321::g_intld13-1sa_1::interlude 13-1::
+101322::g_intld13-1sa_2::Heaven's Feel.::
+101323::g_intld13-1ri_1::interlude 13-1::
+101324::g_intld13-1ri_2::Unlimited Blade Works.::
+101325::g_intld13-2sa_1::interlude 13-2::
+101326::g_intld13-2sa_2::Heaven's Feel.::
+101327::g_intld13-2ri_1::interlude 13-2::
+101328::g_intld13-2ri_2::Unlimited Blade Works.::
+101329::g_intld14-1sa_1::interlude 14-1::
+101330::g_intld14-1sa_2::Heaven's Feel.::
+101331::g_intld14-1ri_1::interlude 14-1::
+101332::g_intld14-1ri_2::Unlimited Blade Works.::
+101333::g_intld14-2sa_1::interlude 14-2::
+101334::g_intld14-2sa_2::Heaven's Feel.::
+101335::g_intld14-2ri_1::interlude 14-2::
+101336::g_intld14-2ri_2::Unlimited Blade Works.::
+101337::g_intld14-3sa_1::interlude 14-3::
+101338::g_intld14-3sa_2::Heaven's Feel.::
+101339::g_intld14-3ri_1::interlude 14-3::
+101340::g_intld14-3ri_2::Unlimited Blade Works.::
+101341::g_intld14-4sa_1::interlude 14-4::
+101342::g_intld14-4sa_2::Heaven's Feel.::
+101343::g_intld15-1se_1::interlude 15-1::
+101344::g_intld15-1se_2::Fate.::
+101345::g_intld15-1sa_1::interlude 15-1::
+101346::g_intld15-1sa_2::Heaven's Feel.::
+101347::g_intld15-1ri_1::interlude 15-1::
+101348::g_intld15-1ri_2::Unlimited Blade Works.::
+101349::g_intld15-2se_1::interlude 15-2::
+101350::g_intld15-2se_2::Fate.::
+101351::g_intld15-2sa_1::interlude 15-2::
+101352::g_intld15-2sa_2::Heaven's Feel.::
+101353::g_intld15-2ri_1::interlude 15-2::
+101354::g_intld15-2ri_2::Unlimited Blade Works.::
+101355::g_intld15-3sa_1::interlude 15-3::
+101356::g_intld15-3sa_2::Heaven's Feel.::
+101357::g_intld15-3ri_1::interlude 15-3::
+101358::g_intld15-3ri_2::Unlimited Blade Works.::
+101359::g_intld15-4sa_1::interlude 15-4::
+101360::g_intld15-4sa_2::Heaven's Feel::
+101361::g_intld16-1sa_1::interlude 16-1::
+101362::g_intld16-1sa_2::Heaven's Feel.::
+101363::g_intld16-1ri_1::interlude 16-1::
+101364::g_intld16-1ri_2::Unlimited Blade Works.::
+101365::g_intld16-2sa_1::interlude 16-2::
+101366::g_intld16-2sa_2::Heaven's Feel.::
+101367::g_intld16-2ri::Answer::
+101368::g_intld16-3sa_1::Answer::
+101369::g_intld16-3sa_2::Heaven's Feel.::
+101370::g_intld16-4sa_1::interlude 16-4::
+101371::g_intld16-4sa_2::Heaven's Feel.::
+101372::g_intld_out::interlude out::
+101373::g_tigercaution::Tiger Dojo is a light-hearted hint segment.	Players who want to complete the game on their own or	avoid out-of-character situations should proceed with caution.::
+101374::g_letext001::"I'm back, Saber."::
+101375::title00_17::REMASTERED::
+101376::g_date_1_31::January 31st::
+101377::g_date_2_01::February 1st::
+101378::g_date_2_02::February 2nd::
+101379::g_date_2_03::February 3rd::
+101380::g_date_2_04::February 4th::
+101381::g_date_2_05::February 5th::
+101382::g_date_2_06::February 6th::
+101383::g_date_2_07::February 7th::
+101384::g_date_2_08::February 8th::
+101385::g_date_2_09::February 9th::
+101386::g_date_2_10::February 10th::
+101387::g_date_2_11::February 11th::
+101388::g_date_2_12::February 12th::
+101389::g_date_2_13::February 13th::
+101390::g_date_2_14::February 14th::
+101391::g_date_2_15::February 15th::
+101392::g_saed_font01-1::The battle is over.::
+101393::g_saed_font01-2::Let us put our swords down, and rest in the momentary peace.::
+101394::g_saed_font01-3::After dozing in a warm dream, a new day will dawn.::
+101395::g_saed_font01-4::The days continue on...::
+101396::g_saed_font01-5::And we are still following the same star we once saw.::
+101397::g_sked_font01-1::Winter has gone, and spring has come.::
+101398::g_sked_font01-2::Nature is in its full bloom, and there is nothing left that reminds you of::
+101399::g_sked_font01-3::the hard cold days.::
+101400::g_sked_font01-4::Stash away both what you lost and gained, for life continues on.::
+101401::g_sked_font01-5::Now then...::
+101402::g_sked_font01-6::The story that unraveled in this town has reached its conclusion.::
+101403::g_sked_font01-7::New stages and people await us...::
+101404::g_rned_font01-1::Walk with the wind in your face.::
+101405::g_rned_font01-2::Walk towards the future.::
+101406::g_rned_font01-3::Live busy days with no compass to guide you.::
+101407::g_rned_font01-4::After traveling to distant exotic countries...::
+101408::g_rned_font01-5::You will return to where you belong, one sunny day.::
+

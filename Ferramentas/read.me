@@ -1,0 +1,18 @@
+FSExtract-MD5
+Ferramenta de sincronização binária para modding do Fate/stay night REMASTERED.
+
+O que faz:
+Extração: Descompacta os ficheiros .dat e o índice .txt original.
+
+Word Alignment: Recompila os ficheiros seguindo o padrão de blocos múltiplos de 4 bytes, preenchendo espaços vazios com valores nulos (0x00).
+
+Integridade (MD5): Calcula a assinatura digital (Hash) sobre o bloco alinhado para validação da engine.
+
+Reconstrução de Índice: Gera um novo .txt com Offsets, Tamanhos e Hashes atualizados em formato hexadecimal.
+
+Como usar:
+Extrair: Arraste o ficheiro .dat para cima do .exe.
+
+Recompilar: Arraste a pasta _extract para cima do .exe.
+
+Importante: Utilize sempre os novos ficheiros .dat e .txt em conjunto para evitar erros de leitura na memória do jogo.
