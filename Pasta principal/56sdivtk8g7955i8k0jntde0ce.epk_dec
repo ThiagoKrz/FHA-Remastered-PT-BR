@@ -1,0 +1,114 @@
+DAT
+id=qid::label=str::text=lstr::
+12253::$$$message_0098_0000_0000$$$::Tohsaka comes back.[lr]::
+12254::$$$message_0098_0000_0001$$$::I'll try peeking to see what she's doing.::
+12255::$$$message_0098_0001_0000$$$::"Excuse me... Oh, is she out?"[lr]::
+12256::$$$message_0098_0001_0001$$$::There's no response until I step onto the porch.[lr]::
+12257::$$$message_0098_0001_0002$$$::She went out leaving the door unlocked... No, I don't think that would happen when it comes to Tohsaka.[lr]::
+12258::$$$message_0098_0001_0003$$$::"Hey, Tohsaka."[lr]::
+12259::$$$message_0098_0001_0004$$$::I feel someone's presence on the second floor.[lr]::
+12260::$$$message_0098_0001_0005$$$::I go up the stairs as if it were my own place...::
+12261::$$$message_0098_0002_0000$$$::"What? Emiya, you were here?"[lr]::
+12262::$$$message_0098_0002_0001$$$::Oh, she is here after all.[lr]::
+12263::$$$message_0098_0002_0002$$$::I go up to Tohsaka's room on the second floor and finally meet face to face with her.::
+12264::$$$message_0098_0003_0000$$$::"Sorry, I had been calling for you, but there was no response, so I came without permission."[lr]::
+12265::$$$message_0098_0003_0001$$$::"You don't think of the possibility of me being out, do you?[lr]::
+12266::$$$message_0098_0003_0002$$$::Well, I guess you wouldn't come up here first if that was the case."[lr]::
+12267::$$$message_0098_0003_0003$$$::It's totally natural.[lr]::
+12268::$$$message_0098_0003_0004$$$::...And I can't help but be stumped by the horrible spectacle when I peek inside her room.::
+12269::$$$message_0098_0004_0000$$$::"...Looks like things have gotten pretty bad."[lr]::
+12270::$$$message_0098_0004_0001$$$::"I packed a week's worth of things inside there."::
+12271::$$$message_0098_0005_0000$$$::The trunk is wide open.[lr]::
+12272::$$$message_0098_0005_0001$$$::The contents that were laid out don't look like they were inside a trunk.[lr]::
+12273::$$$message_0098_0005_0002$$$::Even looking at the volume of the luggage, there's about twice the amount.::
+12274::$$$message_0098_0006_0000$$$::"...Have you cast magecraft on that trunk?"[lr]::
+12275::$$$message_0098_0006_0001$$$::"I've thought of convenient things like that too, [cacheimage storage=凛私服06f(中)][wvl][chgfg time=300 storage=凛私服06f(中) textoff=0]but I would embarrass myself at the airport if I messed up on strengthening the distortion of the capacity."::
+12276::$$$message_0098_0007_0000$$$::[move textoff=0 time=50 path=(240,254,255)(238,252,255)(240,256,255)(235,255,255)(235,251,255)(237,254,255)(236,256,255)(234,256,255)(238,256,255)(237,253,255)(237,254,255)(235,255,255)(237,257,255)(234,259,255)(237,254,255)(240,257,255)(239,254,255)(238,258,255) storage=021a_rinnpon accel=0]If the trunk exploded, it wouldn't just be embarrassing. [wm canskip=0][movefg textoff=0 opacity=0 left=280 top=230 time=200 accel=0 storage=021a_rinnpon][move textoff=0 time=120 path=(211,-20,255)(212,14,255)(213,27,255)(214,18,255) storage=021b_rinnpon accel=0][move textoff=0 time=150 path=(71,262,180)(48,301,180) storage=022d_人影 accel=0][move textoff=0 time=110 path=(562,232,180)(588,296,180)(598,263,180) storage=022e_人影 accel=0 spline=1][move textoff=0 time=140 path=(655,58,160)(670,79,160)(674,67,160)(682,70,160) storage=022b_人影 accel=0][move textoff=0 time=450 path=(115,-7,120) storage=022a_人影 accel=-2][move textoff=0 time=120 path=(-3,-36,160)(3,100,160)(3,100,160)(3,100,160)(-12,67,160)(-22,94,160) storage=022c_人影 accel=0][sestop time=700 nowait=true]More than shame and so on, [se storage=se240.wav][sestop time=1500 nowait=true][se storage=se300.wav]magecraft being seen by many people is a situation that should be avoided as much as possible. [wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][lr]::
+12277::$$$message_0098_0007_0001$$$::[nolr]Those who are mages do not want to be chased down by the Association over just one careless mistake. ::
+12278::$$$message_0098_0008_0000$$$::"There's a technique to packing things, so this much should manage to fit."[lr]::
+12279::$$$message_0098_0008_0001$$$::"...Come to think of it, my old man was also crazy."[lr]::
+12280::$$$message_0098_0008_0002$$$::[chgfg time=300 storage=凛私服03a(中) textoff=0]Kiritsugu would travel with lighter bags, but the capacity of his bags and the amount of luggage were not proportional.[lr]::
+12281::$$$message_0098_0008_0003$$$::Is it a special skill as a traveler?::
+12282::$$$message_0098_0009_0000$$$::"So you're going to transfer trains and walk around on stone pavements while rolling this trunk, huh? Traveling abroad is a lot of work."[lr]::
+12283::$$$message_0098_0009_0001$$$::I casually shift my gaze towards the window thinking that there may be some things that she doesn't want me seeing with me barging into her room all of a sudden.[lr]::
+12284::$$$message_0098_0009_0002$$$::...That was my intention, but my thoughtlessness was so obvious that Tohsaka pokes my cheek, as if to say she doesn't mind.::
+12285::$$$message_0098_0010_0000$$$::"Aside from the way there, I had it delivered on the way back... It finally came, but now it's like this."[lr]::
+12286::$$$message_0098_0010_0001$$$::...Yeah. Cleaning up luggage after a fun trip is a hassle.[lr]::
+12287::$$$message_0098_0010_0002$$$::Even more so if it was a trip that wasn't fun. It must be because she's a girl that her clothes are the overwhelming majority.[lr]::
+12288::$$$message_0098_0010_0003$$$::And there's quite a lot of boxes inside wrapped in pretty paper...::
+12289::$$$message_0098_0011_0000$$$::"I wasn't there to sightsee so I don't think there's more luggage, but I screwed up."[lr]::
+12290::$$$message_0098_0011_0001$$$::"You actually bought souvenirs, Tohsaka."[lr]::
+12291::$$$message_0098_0011_0002$$$::[clfg textoff=0 rule=シャッター左から time=300 pos=all]Even if I go on a trip, the most that I can do is an assortment of hot spring buns.[lr]::
+12292::$$$message_0098_0011_0003$$$::But...I have a great feeling that this luggage that's spread out all over will remain in this tragic state if someone doesn't take drastic measures to clean it up.::
+12293::$$$message_0098_0012_0000$$$::To be honest, Tohsaka is bad at cleaning. My guest room has been the same ever since she came to my place.[lr]::
+12294::$$$message_0098_0012_0001$$$::"Then, I'll help out some."::
+12295::$$$message_0098_0013_0000$$$::"Okay, thanks."[lr]::
+12296::$$$message_0098_0013_0001$$$::Tohsaka gives a forced smile.[lr]::
+12297::$$$message_0098_0013_0002$$$::...Then.::
+12298::$$$message_0098_0014_0000$$$::"...Oh?"[lr]::
+12299::$$$message_0098_0014_0001$$$::This detailed, white fabric texture is[line len=2][lr]::
+12300::$$$message_0098_0014_0002$$$::"That's off-limits!"[rf][lr]::
+12301::$$$message_0098_0014_0003$$$::"...My bad."[lr]::
+12302::$$$message_0098_0014_0004$$$::I'm upside down in the corner of the room, receiving Tohsaka's reprimands.[lr]::
+12303::$$$message_0098_0014_0005$$$::[movefg textoff=0 opacity=0 left=492 top=152 time=300 accel=0 layer=0]...But I have no idea what she did to me. Was it Gandr? Did I get hit directly with a martial arts move that she's learned?[wm canskip=0]::
+12304::$$$message_0098_0015_0000$$$::"How long do you plan on being upside down, Shirou?"[lr]::
+12305::$$$message_0098_0015_0001$$$::"...You're the one who flipped me upside down.[lr]::
+12306::$$$message_0098_0015_0002$$$::It's just under..."[lr]::
+12307::$$$message_0098_0015_0003$$$::I feel like Tohsaka's attack will come flying again if I say the rest.[lr]::
+12308::$$$message_0098_0015_0004$$$::I'll only treat that area as forbidden territory.::
+12309::$$$message_0098_0016_0000$$$::"...Why did you grab such a thing first?"[lr]::
+12310::$$$message_0098_0016_0001$$$::"I was just grabbing it randomly."::
+12311::$$$message_0098_0017_0000$$$::"Fine, I'll make sure to put it away where you won't find it next time.[lr]::
+12312::$$$message_0098_0017_0001$$$::Ugh, washing this will be a lot of work too... Maybe I should've delivered it to your place after all."[lr]::
+12313::$$$message_0098_0017_0002$$$::Tohsaka says something so calm even though our laundry situation is pretty swamped, too.[lr]::
+12314::$$$message_0098_0017_0003$$$::I might need to have Sakura or Rider put up with an extra one week's worth.::
+12315::$$$message_0098_0018_0000$$$::"Why didn't you do so?"[lr]::
+12316::$$$message_0098_0018_0001$$$::"I wonder why. I think I wanted to make a clear distinction between the beginning and end of the trip...that's just extra weight on my mind. [cacheimage storage=凛私服01e(中)][wvl][chgfg storage=凛私服01e(中) time=300 textoff=0]Just like one's way of life is a never-ending journey."::
+12317::$$$message_0098_0019_0000$$$::So this mansion is her home base that she can't separate herself from.[lr]::
+12318::$$$message_0098_0019_0001$$$::She's living at my place in the end, but her heart is here... When I realize that, I feel a different breath of air from this honorable mansion.[lr]::
+12319::$$$message_0098_0019_0002$$$::[chgfg time=300 storage=凛私服08d(中) textoff=0]Tohsaka stares at the mountain of stuff...::
+12320::$$$message_0098_0020_0000$$$::"Actually, I'll clean it up by myself. If I punch you again, I'll get tired."[lr]::
+12321::$$$message_0098_0020_0001$$$::"...Sorry, I'll go pour some tea."[lr]::
+12322::$$$message_0098_0020_0002$$$::"Huh? It's fine, it'll cool down by the time I finish cleaning up and it'll go to waste."[lr]::
+12323::$$$message_0098_0020_0003$$$::I guess that's true.[lr]::
+12324::$$$message_0098_0020_0004$$$::It'll be weird for me to just be sipping tea while watching Tohsaka clean up.::
+12325::$$$message_0098_0021_0000$$$::"Is there something for me to do? Like cleaning or making lunch?"[lr]::
+12326::$$$message_0098_0021_0001$$$::"I'll call you over if there's something to do. For now...it'll take me a while too."[lr]::
+12327::$$$message_0098_0021_0002$$$::...Then there's no reason for me to be staying at Tohsaka's place.[lr]::
+12328::$$$message_0098_0021_0003$$$::It's fine, I can just come see how Tohsaka is doing again later.::
+12329::$$$message_0098_0022_0000$$$::"Then, I'll be excusing myself first. So there really isn't anything?"[lr]::
+12330::$$$message_0098_0022_0001$$$::"You've become wary. I wonder who drilled that into you..."[lr]::
+12331::$$$message_0098_0022_0002$$$::[chgfg time=300 storage=凛私服08d(中) textoff=0]I'm doubtful, but there's no one else other than Tohsaka who can train that into me. It makes me want to shrug.[lr]::
+12332::$$$message_0098_0022_0003$$$::Then...::
+12333::$$$message_0098_0023_0000$$$::"Oh yeah, I forgot. Perfect timing."[lr]::
+12334::$$$message_0098_0023_0001$$$::"...I knew it.[lr]::
+12335::$$$message_0098_0023_0002$$$::Yeah, I thought so."[lr]::
+12336::$$$message_0098_0023_0003$$$::[clfg rule=シャッター左から time=300 pos=all]...As I'm bracing myself wondering what kind of difficult task she's telling me to do, [se storage=se422.wav]Tohsaka rummages through her mountain of things looking for something.::
+12337::$$$message_0098_0024_0000$$$::"So, what?"[lr]::
+12338::$$$message_0098_0024_0001$$$::"There it is. [cacheimage storage=凛私服03c(中)][wvl canskip=false time=300][chgfg storage=凛私服03c(中) time=300 textoff=0]Here."[lr]::
+12339::$$$message_0098_0024_0002$$$::"..."[lr]::
+12340::$$$message_0098_0024_0003$$$::I'm troubled, holding the light paper bag that she handed me.[lr]::
+12341::$$$message_0098_0024_0004$$$::I wonder what kind of job there is with this packaging that seems like it's from a high-end department store.::
+12342::$$$message_0098_0025_0000$$$::"You don't have to make that kind of face, it's my souvenir."[lr]::
+12343::$$$message_0098_0025_0001$$$::"...For me?[lr]::
+12344::$$$message_0098_0025_0002$$$::Oh, y-yeah, thanks. See you."[lr]::
+12345::$$$message_0098_0025_0003$$$::It makes me want to hold the paper bag and run away. I don't know how I'm supposed to thank her [chgfg time=300 storage=凛私服11e(中) textoff=0]with a surprise attack like that.[lr]::
+12346::$$$message_0098_0025_0004$$$::[chgfg time=300 storage=凛私服12b(中) textoff=0]But, Tohsaka glares at me, trying to leave, in discontent.::
+12347::$$$message_0098_0026_0000$$$::"It's not like you're robbing me, so open it and check."[lr]::
+12348::$$$message_0098_0026_0001$$$::"That kind of present-giving style like you're in a movie or TV show is[line len=2]Never mind, got it. I give up."[lr]::
+12349::$$$message_0098_0026_0002$$$::[se storage=se595.wav][se storage=se200.wav][chgfg time=300 storage=凛私服12a頬(中) textoff=0]I need to make sure I don't rip it in a showy way but cut open the seal and check the inside.[sestop time=3500 nowait=1][lr]::
+12350::$$$message_0098_0026_0003$$$::[chgfg time=300 storage=凛私服12d頬(中) textoff=0]...A plaid scarf. It looks light to the point that I don't feel any weight, and it seems warm just from the looks of it.::
+12351::$$$message_0098_0027_0000$$$::"...Are you sure? Isn't it expensive?"[lr]::
+12352::$$$message_0098_0027_0001$$$::"What are you going to do knowing the price? It's fine, it's going to get cold over here too."[lr]::
+12353::$$$message_0098_0027_0002$$$::"Yeah, it looks warm[line len=2]hm, isn't it kinda long?"[lr]::
+12354::$$$message_0098_0027_0003$$$::I feel like it's about a size and a half too big.[lr]::
+12355::$$$message_0098_0027_0004$$$::[chgfg time=300 storage=凛私服05b(中) textoff=0]But, I feel like I'd be able to change up how I wrap it with this length.::
+12356::$$$message_0098_0028_0000$$$::"I'm leaving it up to you on how you want to use it. Oh, why don't you warm Saber up?"[lr]::
+12357::$$$message_0098_0028_0001$$$::"Wha[line len=2]no, I wouldn't, this is what I got from you!"[lr]::
+12358::$$$message_0098_0028_0002$$$::"Okay, okay, I'll leave that up to you. Use it well."[lr]::
+12359::$$$message_0098_0028_0003$$$::I shut my mouth, still gripping the scarf.[lr]::
+12360::$$$message_0098_0028_0004$$$::It's still too early to use this for Fuyuki's autumn.[lr]::
+12361::$$$message_0098_0028_0005$$$::...Khh, I'm gonna get her back then.::
+12362::$$$message_0098_0029_0000$$$::"...Thanks again."[lr]::
+12363::$$$message_0098_0029_0001$$$::"You're welcome, Shirou."::
+912277::$$$message_9098_0007_0001$$$::Those who are mages do not want to be chased down by the Association over just one careless mistake. ::l�

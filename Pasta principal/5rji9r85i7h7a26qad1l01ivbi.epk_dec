@@ -1,0 +1,35 @@
+DAT
+id=qid::label=str::text=lstr::
+31421::$$$message_0242_0000_0000$$$::...There's still time.[lr]::
+31422::$$$message_0242_0000_0001$$$::   Should I turn back?::
+31423::$$$message_0242_0001_0000$$$::There's no point in coming here.[rf][lr]::
+31424::$$$message_0242_0001_0001$$$::I never knew about this house.[rf][lr]::
+31425::$$$message_0242_0001_0002$$$::I never had any occasion to.[rf][lr]::
+31426::$$$message_0242_0001_0003$$$::[move textoff=0 time=100 path=(0,0,255)(0,0,255)(0,0,0) storage=black accel=0][move textoff=0 time=100 path=(208,-11,255)(208,-11,255)(208,-11,0) storage=バゼット02a(遠) accel=0]I just...[wm canskip=0][wm canskip=0][rf][lr]::
+31427::$$$message_0242_0001_0004$$$::[move textoff=0 time=100 path=(0,0,200)(0,0,200)(0,0,0) storage=t01アンリナイフ accel=0]I think I've heard about it, somewhere...[wm canskip=0][rf]::
+31428::$$$message_0242_0002_0000$$$::"Ngh..."[lr]::
+31429::$$$message_0242_0002_0001$$$::I have the strangest feeling, like a movie I saw before going to bed is being played out in my dreams.[lr]::
+31430::$$$message_0242_0002_0002$$$::Naturally, it's as if the source material has been tastefully adapted into a remake to fit modern tastes.[lr]::
+31431::$$$message_0242_0002_0003$$$::But if there's one scene that completely mirrors its inspiration...[lr]::
+31432::$$$message_0242_0002_0004$$$::It's those two, in the mansion at night.[rf][lr]::
+31433::$$$message_0242_0002_0005$$$::Right now, I'm trying to enter a movie, a dream.::
+31434::$$$message_0242_0003_0000$$$::I feel a chill and break into a jog.[lr]::
+31435::$$$message_0242_0003_0001$$$::There's no turning back now.[lr]::
+31436::$$$message_0242_0003_0002$$$::I need to be sure.[lr]::
+31437::$$$message_0242_0003_0003$$$::Whatever happens inside, whatever awaits me, it's the center of the wrongness permeating the town.::
+31438::$$$message_0242_0004_0000$$$::I enter a large chamber on the second floor.[lr]::
+31439::$$$message_0242_0004_0001$$$::I've seen this sight many times.[lr]::
+31440::$$$message_0242_0004_0002$$$::It's...[rf][lr]::
+31441::$$$message_0242_0004_0003$$$::"...Wait, what?"[lr]::
+31442::$$$message_0242_0004_0004$$$::Nobody's here. Was anyone ever here?::
+31443::$$$message_0242_0005_0000$$$::There's no woman sleeping on the sofa.[lr]::
+31444::$$$message_0242_0005_0001$$$::No grumbling, rotting man on the chair.[lr]::
+31445::$$$message_0242_0005_0002$$$::Of course not.[lr]::
+31446::$$$message_0242_0005_0003$$$::The empty parlor tells me that this house is abandoned.[lr]::
+31447::$$$message_0242_0005_0004$$$::"So it's just..."[lr]::
+31448::$$$message_0242_0005_0005$$$::Those two don't exist.[lr]::
+31449::$$$message_0242_0005_0006$$$::That story was just a dream, a fiction, a fairy tale.::
+31450::$$$message_0242_0006_0000$$$::"I should head back. I came out a little too far."[lr]::
+31451::$$$message_0242_0006_0001$$$::I leave the haunted mansion.[lr]::
+31452::$$$message_0242_0006_0002$$$::...Just to be safe, I inspect the second-story windows. They seem fine. I wonder why I even bothered, before starting down the road home.::
+

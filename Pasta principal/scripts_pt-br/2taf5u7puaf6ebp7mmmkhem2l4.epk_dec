@@ -1,0 +1,225 @@
+DAT
+id=qid::label=str::text=lstr::
+11356::$$$message_0091_0000_0000$$$::"Isso deve te deixar ansioso ter dois ou três parasitas." [lr]::
+11357::$$$message_0091_0000_0001$$$::Rider diz. Já se passaram um mês desde que Rider começou a trabalhar meio período na loja de antiguidades.::
+11358::$$$message_0091_0001_0000$$$::"...A pensar nisso, me veio à cabeça o que aconteceu depois disso."[lr]::
+11359::$$$message_0091_0001_0001$$$::É uma lojinha tipo den que tem uma seleção excêntrica de tudo do mundo inteiro. Tenho certeza de que vários tipos de clientes vêm a lojas tão diversificadas assim.::
+11360::$$$message_0091_0002_0000$$$::"..."[lr]::
+11361::$$$message_0091_0002_0001$$$::Uma dimensão diferente nasce imediatamente no centro de compras.[lr]::
+11362::$$$message_0091_0002_0002$$$::As pessoas ao redor no comércio estão apenas observando de longe, sem interromper.::
+11363::$$$message_0091_0003_0000$$$::"Bem, bem. Pensar que a mais nova das famigeradas irmãs Gorgon está cuidando de uma loja num lugar tão assim."[lr]::
+11364::$$$message_0091_0003_0001$$$::"Você é tão infame quanto eu.[lr]::
+11365::$$$message_0091_0003_0002$$$::Em cima disso, você está trazendo vergonha sobre si mesmo com esse traje pesado e sufocante."::
+11366::$$$message_0091_0004_0000$$$::"Heh, parece que é difícil para você compreender a beleza do púrpura digno com seu gosto monstro-like desastrado."[lr]::
+11367::$$$message_0091_0004_0001$$$::"Este é meu uniforme de trabalho."::
+11368::$$$message_0091_0005_0000$$$::"Sim, parece bom em sua figura gigantesca.[lr]::
+11369::$$$message_0091_0005_0001$$$::Hmm, acho que você quer dizer "Que merda, eu não acredito nisso" ou "Que saco, eu não acredito nisso"."[lr]::
+11370::$$$message_0091_0005_0002$$$::"..."::
+11371::$$$message_0091_0006_0000$$$::"Mesmo que você bebesse néctar ou comesse ambrosia, você não seria como um cedro libanês que se ergue reto no ar.[lr]::
+11372::$$$message_0091_0006_0001$$$::Acho que você nem tem namorada, tem?"[lr]::
+11373::$$$message_0091_0006_0002$$$::"Oh, você está agindo como um recém-casado mesmo sendo viúvo?"[lr]::
+11374::$$$message_0091_0006_0003$$$::"..."::
+11375::$$$message_0091_0007_0000$$$::"Pare! Calma, vocês dois!"[lr]::
+11376::$$$message_0091_0007_0001$$$::Eu me interponho entre eles com uma dor de cabeça, por causa do mundo, das pessoas e do Monte Miyama.::
+11377::$$$message_0091_0008_0000$$$::"Shirou[line len=2]"[lr]::
+11378::$$$message_0091_0008_0001$$$::"Você está no caminho, garoto."[lr]::
+11379::$$$message_0091_0008_0002$$$::Vozes estritas que me atingem dos dois lados.[lr]::
+11380::$$$message_0091_0008_0003$$$::Um ambiente onde piadas e elogios não existem em absoluto.[lr]::
+11381::$$$message_0091_0008_0004$$$::...Ugh, acho que vou acabar como um cadáver miserável se fizer um movimento errado.::
+11382::$$$message_0091_0009_0000$$$::"Hmm...[lr]::
+11383::$$$message_0091_0009_0001$$$::Fiquei vigiando vocês dois para que nenhum brilho escapasse, mas parece que toda a loja queimaria assim.[lr]::
+11384::$$$message_0091_0009_0002$$$::Por que vocês dois estão tão cheios de energia?"[lr]::
+11385::$$$message_0091_0009_0003$$$::Eu aviso que não é bom lutar, ao máximo da minha capacidade.::
+11386::$$$message_0091_0010_0000$$$::"Sou apenas um cliente. Se houvesse um problema, não seria culpa daquela empregada tão rude?"[lr]::
+11387::$$$message_0091_0010_0001$$$::"Então, a Rider é culpada."::
+11388::$$$message_0091_0011_0000$$$::"Você ouviu ele, Rider. Você diz coisas boas de vez em quando, garoto."[lr]::
+11389::$$$message_0091_0011_0001$$$::"Sim. Entendo como você se sente, mas você tem que tratar qualquer cliente com respeito se for funcionário, não importa como eles sejam. [cacheimage storage=キャスターローブ無し01d(中)][wvl canskip=0 time=300][textoff][chgfg time=200 storage=キャスターローブ無し01d(中)][wait canskip=0 time=300]Pense que você foi capturado por algo problemático, aguente com um sorriso[line len=2]mrrghgrblrghlrmrhliblrgh!?"[se storage=se350.wav][quake vmax=20 hmax=20 time=2000][wvl][sestop storage=se350.wav time=1000 nowait=1][wait canskip=0 time=800][clfg][dash page=back mx=27 opacity=255 layer=base irot=0.02 cx=400 imag=1.2 time=400 cy=300 mag=1.6 my=-205 storage=i骨董品店 rot=0.02 accel=2][transex time=300][se volume=40 storage=se072.wav][wdash canskip=0][shock vmax=30 time=600 count=6][se storage=se211.wav]::
+11390::$$$message_0091_0012_0000$$$::"Isso é verdade... Aahh..."[lr]::
+11391::$$$message_0091_0012_0001$$$::"Isso é um jeito bastante estranho de tratar um cliente.[lr]::
+11392::$$$message_0091_0012_0002$$$::Bem-vindo ao cliente com um suspiro, isso é o especialidade deste estabelecimento?"[lr]::
+11393::$$$message_0091_0012_0003$$$::"Oh, não a bullying muito, Caster."::
+11394::$$$message_0091_0013_0000$$$::Eles se insultam sempre que estão juntos.[lr]::
+11395::$$$message_0091_0013_0001$$$::Não há Servants que se entendam de início... a exceção é uma proposta unidirecional de um.::
+11396::$$$message_0091_0014_0000$$$::"Você não está se sentindo bem, Rider?"[lr]::
+11397::$$$message_0091_0014_0001$$$::Pensei que ela estivesse trabalhando com mais determinação, mas parece estar carregando algum peso nos ombros.[lr]::
+11398::$$$message_0091_0014_0002$$$::Duvido que o trabalho dela aqui seja tão difícil.::
+11399::$$$message_0091_0015_0000$$$::"Seu trabalho não está indo bem?"[lr]::
+11400::$$$message_0091_0015_0001$$$::"Não, o dono me tem em alta estima.[lr]::
+11401::$$$message_0091_0015_0002$$$::E que faz dez anos que a loja e o depósito não estavam tão limpos assim."::
+11402::$$$message_0091_0016_0000$$$::Ela tem força, então consegue levantar móveis grandes com facilidade.[lr]::
+11403::$$$message_0091_0016_0001$$$::Ela é bastante desajeitada apesar de ser sensível demais, então estou preocupado em ela quebrar algum objeto antigo caro.::
+11404::$$$message_0091_0017_0000$$$::"Então, por que você está tão deprimido?"[lr]::
+11405::$$$message_0091_0017_0001$$$::"Estou aqui para conversar, se tiver algo na sua cabeça."[lr]::
+11406::$$$message_0091_0017_0002$$$::"...Tenho muita coisa na cabeça.[lr]::
+11407::$$$message_0091_0017_0003$$$::Os clientes que vêm aqui parecem ser[line len=2]"::
+11408::$$$message_0091_0018_0000$$$::"Desculpe."[lr]::
+11409::$$$message_0091_0018_0001$$$::"Bem-vindo."[lr]::
+11410::$$$message_0091_0018_0002$$$::"Você tem algum chinelo aqui?[lr]::
+11411::$$$message_0091_0018_0003$$$::Estou me dirigindo a um nobre."[lr]::
+11412::$$$message_0091_0018_0004$$$::"Sim, temos esses no nosso catálogo em estoque..."::
+11413::$$$message_0091_0019_0000$$$::"...Um, desculpe?"[lr]::
+11414::$$$message_0091_0019_0001$$$::"Sim, qual item você deseja?"[lr]::
+11415::$$$message_0091_0019_0002$$$::"E qual é o preço disso?"[lr]::
+11416::$$$message_0091_0019_0003$$$::"Posso te dar um desconto pequeno."::
+11417::$$$message_0091_0020_0000$$$::"Pode parar de brincar, por favor?"[lr]::
+11418::$$$message_0091_0020_0001$$$::"O que?"::
+11419::$$$message_0091_0021_0000$$$::"Você está me dizendo que vou colocar um item barato assim na mesa da minha incomparável dama nobre?[lr]::
+11420::$$$message_0091_0021_0001$$$::Você está tentando me humilhar, como um servo que não conhece o status do mestre que sirvo?"::
+11421::$$$message_0091_0022_0000$$$::"Oh... Isso é nosso item mais caro da loja..."[lr]::
+11422::$$$message_0091_0022_0001$$$::"Então, recuso-me! [lr]::
+11423::$$$message_0091_0022_0002$$$::Por que eu tenho que fazer isso... Tudo isso é por causa daquela dupla com força superhumana que quebra pratos como se fossem ovos![lr]::
+11424::$$$message_0091_0022_0003$$$::...Ahhhhhhhhhhhhhh."[wvs][wm canskip=0][se storage=se548.wav]::
+11425::$$$message_0091_0023_0000$$$::"...Acho que não sei por que alguém que serve uma casa tão nobre está em um bairro de compras tão comum."[lr]::
+11426::$$$message_0091_0023_0001$$$::"Bem, até a antiga princesa vem aqui."[lr]::
+11427::$$$message_0091_0023_0002$$$::"Pensando bem, o antigo rei também vem comprar doces de vez em quando."[lr]::
+11428::$$$message_0091_0023_0003$$$::"Isso não é tudo. Há outros clientes problemáticos..."::
+11429::$$$message_0091_0024_0000$$$::"Desculpe? Acho que esse incensário é um celadon da era Meiji, mas acha que é real? Desejo saber se existe um certificado de autenticidade."[lr]::
+11430::$$$message_0091_0024_0001$$$::"...U-Um..."::
+11431::$$$message_0091_0025_0000$$$::"Não acho que seja assim. É provavelmente uma réplica de um período posterior.[lr]::
+11432::$$$message_0091_0025_0001$$$::Além disso, quem reparou com tinta dourada tem mau gosto, e os incensários não são tão valorizados assim hoje em dia. Embora ainda usemos um para o trabalho."::
+11433::$$$message_0091_0026_0000$$$::"Você é um pouco superior nisso. Não vou perder quando se trata de pinturas...[lr]::
+11434::$$$message_0091_0026_0001$$$::Entendi, interessante. Sinto que posso me divertir um pouco apenas investigando a autenticidade e a origem desses itens."::
+11435::$$$message_0091_0027_0000$$$::"Ah, é isso.[line len=2][lr]::
+11436::$$$message_0091_0027_0001$$$::M-Miss, por favor, não faça isso!"[lr]::
+11437::$$$message_0091_0027_0002$$$::"Bem, o que você fez enquanto eu não estava olhando?"[lr]::
+11438::$$$message_0091_0027_0003$$$::"Guh... Eu não estou escondendo nada."::
+11439::$$$message_0091_0028_0000$$$::"O que você colocou na gaveta daquele armário?"[lr]::
+11440::$$$message_0091_0028_0001$$$::"Tsk, [cacheimage storage=蒔寺私服03c(遠)][wvl canskip=0 time=300][chgfg textoff=0 storage=蒔寺私服03c(遠) time=200]não seria melhor deixar um pouco mais?[lr]::
+11441::$$$message_0091_0028_0002$$$::Claro, funcionário? Você vai me perdoar por minha travessura porque sou fofo, certo?"[lr]::
+11442::$$$message_0091_0028_0003$$$::"Não... Isso é..."::
+11443::$$$message_0091_0029_0000$$$::"Hey, não incomode a atendente. Você deveria só pedir para ela colocar isso em espera para você."[lr]::
+11444::$$$message_0091_0029_0001$$$::"Mas... se ela vir isso, aposto que gastaria 500 mil ienes só para levá-lo embora.[lr]::
+11445::$$$message_0091_0029_0002$$$::Caramba, os ricos são tão abertos sobre o que fazem."[wvs][se storage=se548.wav]::
+11446::$$$message_0091_0030_0000$$$::"...E assim por diante."[lr]::
+11447::$$$message_0091_0030_0001$$$::"Hmm, você tem clientes bem estranhos. Acho que devem ser algum tipo de pessoa."[lr]::
+11448::$$$message_0091_0030_0002$$$::"Bem, você é surpreendentemente tonto."::
+11449::$$$message_0091_0031_0000$$$::"O atendimento ao cliente é difícil, mas tudo é questão de se acostumar com isso.[lr]::
+11450::$$$message_0091_0031_0001$$$::Você só tem que aguentar, Rider."[lr]::
+11451::$$$message_0091_0031_0002$$$::"Sim..."[lr]::
+11452::$$$message_0091_0031_0003$$$::Quero abraçá-la nos ombros para fazê-la se sentir melhor, mas não consigo fazer direito porque ela é alta.::
+11453::$$$message_0091_0032_0000$$$::"Heheheh, sou feliz por ser cliente."[lr]::
+11454::$$$message_0091_0032_0001$$$::"Sim, você tem razão, Caster."[lr]::
+11455::$$$message_0091_0032_0002$$$::O olhar repreensivo dela passa por mim e se crava em Caster.::
+11456::$$$message_0091_0033_0000$$$::"A forma como você diz isso me incomoda."[lr]::
+11457::$$$message_0091_0033_0001$$$::"Eu disse que você precisa aguentar clientes problemáticos, Rin[line len=2][cacheimage storage=キャスターローブ無し02g(中)][wvl canskip=0 time=400][textoff][chgfg time=200 storage=キャスターローブ無し02g(中)][wait canskip=0 time=300][se storage=se350.wav][quake vmax=15 hmax=15 time=2000][sestop storage=se350.wav time=2000 nowait=1]mrrghgrblrghlrmrhliblrgh!?"[se volume=60 storage=se072.wav][wait canskip=0 time=600][stopquake][shock vmax=30 time=600 count=6][se storage=se211.wav]::
+11458::$$$message_0091_0034_0000$$$::"Você deve ter uma vida elegante como dona de casa assistindo a repetições de programas enquanto come palitos de arroz e vai à academia de tênis."[lr]::
+11459::$$$message_0091_0034_0001$$$::"...Que jeito estranho de dizer."::
+11460::$$$message_0091_0035_0000$$$::"Isso está certo, né?"[lr]::
+11461::$$$message_0091_0035_0001$$$::"Não, eu sou mais ciumento por ouvir o que você disse.[lr]::
+11462::$$$message_0091_0035_0002$$$::Você pode contar apenas com o gerente se algo acontecer."::
+11463::$$$message_0091_0036_0000$$$::"Hmm."[lr]::
+11464::$$$message_0091_0036_0001$$$::"Por outro lado, toda a responsabilidade recai sobre a dona de casa.[lr]::
+11465::$$$message_0091_0036_0002$$$::Ugh, não é fácil em nada..."::
+11466::$$$message_0091_0037_0000$$$::"Tem muitas solicitações em casa, senhor Kuzuki?"[lr]::
+11467::$$$message_0091_0037_0001$$$::"Souichirou está tudo bem.[lr]::
+11468::$$$message_0091_0037_0002$$$::Essa pessoa é calma e pode ser confiável como parceira."[lr]::
+11469::$$$message_0091_0037_0003$$$::"...Quero que você vá falar dessas coisas em outro lugar... O que há de errado então?"::
+11470::$$$message_0091_0038_0000$$$::"...............Min[wait canskip=0 time=500][say storage=cty0104_cas_0180 name=キャスター]ha cunhada. "::
+11471::$$$message_0091_0039_0000$$$::"Ah, então o Sr. Kuzuki tem uma mãe e uma irmã mais velha."[lr]::
+11472::$$$message_0091_0039_0001$$$::"Uma irmã mais velha... Isso não é atraente."[lr]::
+11473::$$$message_0091_0039_0002$$$::"Não, Souichirou não tem família.[lr]::
+11474::$$$message_0091_0039_0003$$$::Mas é parecido com uma cunhada..."::
+11475::$$$message_0091_0040_0000$$$::"Senhora Caster, tem um momento?"[lr]::
+11476::$$$message_0091_0040_0001$$$::"Sim, o que é?"[lr]::
+11477::$$$message_0091_0040_0002$$$::"Há poeira se acumulando no quadro dessa porta. Gostaria que você limpasse aqui também com toda a atenção.[lr]::
+11478::$$$message_0091_0040_0003$$$::Deixo a área de Souichirou a seu cuidado, então serei respeitoso. Se Emiya tivesse limpo isso, não haveria tanta negligência."[lr]::
+11479::$$$message_0091_0040_0004$$$::"...Sim."::
+11480::$$$message_0091_0041_0000$$$::"E esse caldo de miso, senhorita Caster!?"[lr]::
+11481::$$$message_0091_0041_0001$$$::"O que houve com isso!?"[lr]::
+11482::$$$message_0091_0041_0002$$$::"A sopa de miso de Souichirou tem que ser miso branco e caldo feito de kelp.[lr]::
+11483::$$$message_0091_0041_0003$$$::O gosto vulgar do miso vermelho e do caldo de peixe-sardinha seco sem remover os intestinos? Você está pensando em fazer Souichirou beber algo assim!?"[lr]::
+11484::$$$message_0091_0041_0004$$$::"Ah, me desculpe!"::
+11485::$$$message_0091_0042_0000$$$::"Caramba, comparado ao do Emiya, seu caldo de miso é como uma imitação estranha e ocidentalizada![lr]::
+11486::$$$message_0091_0042_0001$$$::A sopa de miso de Emiya é a origem definitiva do sabor japonês que entrelaça caldo de bonito, miso combinado e tofu firme![lr]::
+11487::$$$message_0091_0042_0002$$$::Sim, comparado a isso, revela sua criação como um camponês da costa do Mar Negro, mordendo pão de cevada e engolindo sopa de couve com sal de pedra!"[lr]::
+11488::$$$message_0091_0042_0003$$$::"Sim, estou lisonjado..."::
+11489::$$$message_0091_0043_0000$$$::"Esa lavanderia, Caster!?"[lr]::
+11490::$$$message_0091_0043_0001$$$::"U-Um..."[lr]::
+11491::$$$message_0091_0043_0002$$$::"O blusa de Souichirou não deveria ter nenhuma mancha, e você deve passar e amassar o colar, mas encontrei essa ruga [line len=2]como desapontador, aprenda com Emiya!"[lr]::
+11492::$$$message_0091_0043_0003$$$::"Oof..."::
+11493::$$$message_0091_0044_0000$$$::"Que cara é essa!?[lr]::
+11494::$$$message_0091_0044_0001$$$::Apesar de como Emiya parece, ele passa a manga do uniforme e sempre arruma as camisas.[lr]::
+11495::$$$message_0091_0044_0002$$$::Por outro lado, você deixou o terno de Souichirou lá. A roupa vai se danificar! Os ternos são criaturas vivas que respiram!"[lr]::
+11496::$$$message_0091_0044_0003$$$::"Eu... estou...[line len=2]"::
+11497::$$$message_0091_0045_0000$$$::"Dê-me isso. Foi tolice da minha parte pensar que, como você sabe lidar com a Fita de Ouro, seria o mesmo com a lã Merino![lr]::
+11498::$$$message_0091_0045_0001$$$::Eu me encarregarei das roupas de Souichirou a partir de agora! Vá embora, você esse moleque de cidade!"[lr]::
+11499::$$$message_0091_0045_0002$$$::"Lamento, lamento, por favor, me perdoe."::
+11500::$$$message_0091_0046_0000$$$::"Direi a Souichirou sobre tudo isso. Você não é digno desse homem, então pegue suas coisas e volte para aquele kolkhoz da costa do Mar Negro que cheira a batatas!"[lr]::
+11501::$$$message_0091_0046_0001$$$::"Ah, peço-lhe, Issei..."::
+11502::$$$message_0091_0047_0000$$$::"Eu não posso falar com Souichirou sobre tanta humilhação...[lr]::
+11503::$$$message_0091_0047_0001$$$::Você está dizendo que é invejoso dessas formas de uma dona de casa!?"::
+11504::$$$message_0091_0048_0000$$$::"Por que continuei ouvindo meu nome?"[lr]::
+11505::$$$message_0091_0048_0001$$$::Também a segunda metade foi tão bizarra que não consigo imaginar Issei dizendo isso.::
+11506::$$$message_0091_0049_0000$$$::"Heh, é muito mais fácil, já que você só tem que lidar com Issei."[lr]::
+11507::$$$message_0091_0049_0001$$$::"Como ousas, bullying desonesto que aumenta atrás das costas é insuportável."::
+11508::$$$message_0091_0050_0000$$$::"Já vivi em um ambiente assim com minhas duas irmãs mais velhas.[lr]::
+11509::$$$message_0091_0050_0001$$$::Mas isso é o que significa família."[lr]::
+11510::$$$message_0091_0050_0002$$$::"Eu não sei sobre isso. Se eles realmente fossem da família, me ajudariam. Como meu irmãozinho."[lr]::
+11511::$$$message_0091_0050_0003$$$::"Oh no, as coisas estão começando a ficar desconfortáveis de novo..."::
+11512::$$$message_0091_0051_0000$$$::...Então, [wait canskip=0 time=500] [se storage=se548.wav]naquele momento!::
+11513::$$$message_0091_0052_0000$$$::"Ho awn, você hoo, mmm, mmm."[lr]::
+11514::$$$message_0091_0052_0001$$$::Saber... [wait canskip=0 time=400]não fale com as coisas que tem na boca.::
+11515::$$$message_0091_0053_0000$$$::"Hmm... [cacheimage storage=セイバー私服12c(中)][wvl canskip=0 time=400][chgfg textoff=0 storage=セイバー私服12c(中) last=セイバーfd特殊03_大判a(中) time=300]Gostaria de um chá, mas o terá mais tarde.[lr]::
+11516::$$$message_0091_0053_0001$$$::Agora. Este é um lugar onde as pessoas do centro comercial vêm para relaxar, vocês dois. Não é um lugar para lutar."[lr]::
+11517::$$$message_0091_0053_0002$$$::Saber continua falando sem qualquer vergonha.[lr]::
+11518::$$$message_0091_0053_0003$$$::Rider e Caster ficam sem saber o que dizer.::
+11519::$$$message_0091_0054_0000$$$::"Enquanto tinha um pouco de obanyaki primeiro...[wvl canskip=0 time=400]não, [cacheimage storage=セイバー私服02c(中)][wvl][chgfg textoff=0 storage=セイバー私服02c(中) time=300]nunca me importe com isso.[lr]::
+11520::$$$message_0091_0054_0001$$$::Eu estava ouvindo sua conversa. Acho que cada um dos seus problemas individuais é profundo."[lr]::
+11521::$$$message_0091_0054_0002$$$::"Você também está tentando se intrometer?"::
+11522::$$$message_0091_0055_0000$$$::"Viver e trabalhar são ambos difíceis. Devem haver coisas que não correm como deseja.[lr]::
+11523::$$$message_0091_0055_0001$$$::No entanto, o seu próprio fardo será mais pesado do que o de qualquer outro. Você não pode estar enganado nisso."::
+11524::$$$message_0091_0056_0000$$$::"Estou certo de que os clientes e Issei não têm nenhuma intenção maliciosa.[lr]::
+11525::$$$message_0091_0056_0001$$$::Eles estão fazendo o seu melhor da forma como conseguem, então perceber isso e praticar a autodisciplina todos os dias é o que importa."[lr]::
+11526::$$$message_0091_0056_0002$$$::"Entendi."::
+11527::$$$message_0091_0057_0000$$$::"Seja você uma dona de casa ou trabalhe em uma loja de antiguidades, deveria conseguir se conectar com a outra pessoa se agir com sinceridade.[lr]::
+11528::$$$message_0091_0057_0001$$$::Os passos necessários para a paz mundial e governar um país estão aqui[line len=2]"::
+11529::$$$message_0091_0058_0000$$$::Engolidos pelo espírito da fala de Saber, os dois que estavam lutando até agora ficam incrivelmente calados.[lr]::
+11530::$$$message_0091_0058_0001$$$::Ela é a magnífica nave de um rei.::
+11531::$$$message_0091_0059_0000$$$::"Como esperado de você, Saber. Estou vendo você de uma nova perspectiva."[lr]::
+11532::$$$message_0091_0059_0001$$$::"Não, não. Não é nada.[lr]::
+11533::$$$message_0091_0059_0002$$$::Fico feliz que as coisas tenham sido resolvidas em paz."::
+11534::$$$message_0091_0060_0000$$$::Isso, um espírito positivo como esse, deveria eventualmente levar a bons resultados.[lr]::
+11535::$$$message_0091_0060_0001$$$::Caster e Rider parecem convencidos, como se olhassem um para o outro relutantemente e resolvessem...[lr]::
+11536::$$$message_0091_0060_0002$$$::...mas antes disso, ambos olham para Saber.::
+11537::$$$message_0091_0061_0000$$$::"Pode me perguntar uma coisa primeiro?"[lr]::
+11538::$$$message_0091_0061_0001$$$::"Sim, pergunte-me qualquer coisa."::
+11539::$$$message_0091_0062_0000$$$::"O que você geralmente faz?[lr]::
+11540::$$$message_0091_0062_0001$$$::Pode nos dizer junto com sua opinião valiosa?"[lr]::
+11541::$$$message_0091_0062_0002$$$::"..."::
+11542::$$$message_0091_0063_0000$$$::"Saber não faz nada."[lr]::
+11543::$$$message_0091_0063_0001$$$::"Que[line len=2] Rider!"::
+11544::$$$message_0091_0064_0000$$$::"Direito, Shirou?"[lr]::
+11545::$$$message_0091_0064_0001$$$::Rider me olha.[lr]::
+11546::$$$message_0091_0064_0002$$$::É através dos seus óculos, mas seus Olhos Místicos estão ativos[line len=2]::
+11547::$$$message_0091_0065_0000$$$::"E só um parasita?"[lr]::
+11548::$$$message_0091_0065_0001$$$::"Sim, ela é uma parasita que não hesita em pedir porções extras."[lr]::
+11549::$$$message_0091_0065_0002$$$::"E ela está nos ensinando?"::
+11550::$$$message_0091_0066_0000$$$::"Pare um instante, [wvl canskip=0 time=300], um, [wvl canskip=0 time=300] vocês dois estão esquecendo de suas respectivas tarefas![lr]::
+11551::$$$message_0091_0066_0001$$$::Somos Servos antes de sermos balconista, dona de casa ou vagabundo.[lr]::
+11552::$$$message_0091_0066_0002$$$::Nossa missão é lutar, e não é errado descansar e recarregar[line len=2]"::
+11553::$$$message_0091_0067_0000$$$::"Por que você não tenta pelo menos procurar emprego?[lr]::
+11554::$$$message_0091_0067_0001$$$::Você não acha que algo está vendo eu trabalhar?"[lr]::
+11555::$$$message_0091_0067_0002$$$::"Tenho uma sugestão humilde, como ex-princesa, de que você deveria tentar entender um pouco mais a vida do povo comum, como rei."[lr]::
+11556::$$$message_0091_0067_0003$$$::Cara, eles estão furiosos. Os dois são intransigentes.::
+11557::$$$message_0091_0068_0000$$$::"Heh, [wvl] [shock vmax=20 time=300 count=-3] o que vocês dois estão dizendo?[lr]::
+11558::$$$message_0091_0068_0001$$$::É por isso que estou de patrulha, comendo obanyaki, para conhecer a vida do povo comum!"::
+11559::$$$message_0091_0069_0000$$$::"Comer enquanto anda é desrespeitoso, então por favor pare."[lr]::
+11560::$$$message_0091_0069_0001$$$::"Você deveria reexaminar sua própria vida antes de julgar a dos outros."::
+11561::$$$message_0091_0070_0000$$$::"O que você está dizendo que eu devo fazer?"[lr]::
+11562::$$$message_0091_0070_0001$$$::"Mesmo que você seja um Servant, por que não tenta se envolver em algo um pouco mais produtivo?"[lr]::
+11563::$$$message_0091_0070_0002$$$::"Sim, experiência do mundo real. Seja meu modelo exclusivo então. Eu vou vesti-lo com minha coleção todos os dias."::
+11564::$$$message_0091_0071_0000$$$::"...Há um limite para o quanto alguém pode ser inprodutivo.[lr]::
+11565::$$$message_0091_0071_0001$$$::A lição deve ser aprendida através da experiência pessoal, mas não sei sobre traumatizar alguém tão ingênuo com algumas práticas de recrutamento duvidosas."::
+11566::$$$message_0091_0072_0000$$$::"Hei, não estou convidando uma mulher grande como você para ser minha modelo."[lr]::
+11567::$$$message_0091_0072_0001$$$::"Diz a mulher bem além da sua idade."::
+11568::$$$message_0091_0073_0000$$$::"Como ousas? Acha que eu não ouvi você?[lr]::
+11569::$$$message_0091_0073_0001$$$::Infelizmente para você, essas orelhas pontiagudas não são só para show."[lr]::
+11570::$$$message_0091_0073_0002$$$::"Ugh, vocês dois...!"::
+11571::$$$message_0091_0074_0000$$$::Um combate intenso, acertando um no outro os pontos vitais, ambos os lados fazendo golpes limpos um no outro nos tornozelos.[lr]::
+11572::$$$message_0091_0074_0001$$$::Saber vai explodir nesse ritmo, e o bairro de compras vai se tornar um campo de batalha onde os três grandes Servants voarão selvagemente em combate feroz...!::
+11573::$$$message_0091_0075_0000$$$::"Hmm..."[lr]::
+11574::$$$message_0091_0075_0001$$$::"Você aí! Não corra só porque ficou constrangedor!"[lr]::
+11575::$$$message_0091_0075_0002$$$::"Bem, acho que está tudo bem."[lr]::
+11576::$$$message_0091_0075_0003$$$::Não há tensão nenhuma.[lr]::
+11577::$$$message_0091_0075_0004$$$::Hmm... Não consigo dizer se eles estão perto ou não...::
+

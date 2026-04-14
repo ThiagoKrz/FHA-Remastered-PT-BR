@@ -1,0 +1,632 @@
+DAT
+id=qid::label=str::text=lstr::
+38767::$$$message_0271_0000_0000$$$::Paro enquanto tento sair.[lr]::
+38768::$$$message_0271_0000_0001$$$::De repente, lembro da promessa que fiz com Illya.[lr]::
+38769::$$$message_0271_0000_0002$$$::O tempo está bom hoje, então devo usar essa oportunidade para mencionar.::
+38770::$$$message_0271_0001_0000$$$::Illya está deitada na sala de estar.[lr]::
+38771::$$$message_0271_0001_0001$$$::A TV está ligada, os livros estão espalhados sobre a mesa, há bolo restante na travessa e ela parece estar entediada até o fundo da alma.::
+38772::$$$message_0271_0002_0000$$$::"É raro ver você laçando assim.[lr]::
+38773::$$$message_0271_0002_0001$$$::Você não tem mais nada a fazer hoje?"[lr]::
+38774::$$$message_0271_0002_0002$$$::"Hmm, não.[lr]::
+38775::$$$message_0271_0002_0003$$$::Que desperdício; não preciso dormir até a noite hoje, e ainda assim fico com saudade num dia como esse."[lr]::
+38776::$$$message_0271_0002_0004$$$::Ela balança os pés enquanto está deitada.::
+38777::$$$message_0271_0003_0000$$$::"I-Illia, espere.[lr]::
+38778::$$$message_0271_0003_0001$$$::Ah, se você mover seus membros nessa posição[line len=2]"[lr]::
+38779::$$$message_0271_0003_0002$$$::"Huh? Você disse algo, Shirou?"[lr]::
+38780::$$$message_0271_0003_0003$$$::"..."[lr]::
+38781::$$$message_0271_0003_0004$$$::Ela está realmente relaxando a guarda.[lr]::
+38782::$$$message_0271_0003_0005$$$::Illya é barulhenta, mas tem bons modos. Mesmo assim, ela deve estar realmente entediada para chegar a isso.::
+38783::$$$message_0271_0004_0000$$$::"Bem, isso significa que o timing está bom.[lr]::
+38784::$$$message_0271_0004_0001$$$::Tudo bem, Illya. Vamos ao piscina se você está tão entediado assim."[lr]::
+38785::$$$message_0271_0004_0002$$$::"Hmm?"[lr]::
+38786::$$$message_0271_0004_0003$$$::As pernas de Illya ficam congeladas.[lr]::
+38787::$$$message_0271_0004_0004$$$::"Shirou, o que você acabou de dizer...?"[lr]::
+38788::$$$message_0271_0004_0005$$$::"Bem, está quente para o outono hoje, e fizemos uma promessa com a Saber há alguns dias.[lr]::
+38789::$$$message_0271_0004_0006$$$::Devemos ir ao piscina juntos."::
+38790::$$$message_0271_0005_0000$$$::"Você quer dizer... comigo...?"[lr]::
+38791::$$$message_0271_0005_0001$$$::"Com você. Apenas você e eu estamos aqui no sofá no momento."[lr]::
+38792::$$$message_0271_0005_0002$$$::"...[se storage=se541.wav]...!"[lr]::
+38793::$$$message_0271_0005_0003$$$::A atmosfera relaxada da sala de estar vira rosa imediatamente.::
+38794::$$$message_0271_0006_0000$$$::"Vou, vou sim!!![wm canskip=0][lr]::
+38795::$$$message_0271_0006_0001$$$::Yay![wvl canskip=0 time=600] Uma data no clube com Shirou[cacheimage storage=イリヤ03b(中),67ライダー過去回想_花畑][wvl][stoplquake layer=all][chgfg textoff=0 time=200 storage=イリヤ03b(中)][movefg textoff=0 opacity=0 left=0 top=0 time=2000 accel=0 storage=67ライダー過去回想_花畑][move textoff=0 time=120 path=(150,28,255)(150,0,255)(150,15,255)(150,0,255) storage=イリヤ03b(中) accel=0]!!!"::
+38796::$$$message_0271_0007_0000$$$::"Fico feliz que isso te faça tão feliz.[lr]::
+38797::$$$message_0271_0007_0001$$$::É só a piscina. Isso realmente está okay?"[lr]::
+38798::$$$message_0271_0007_0002$$$::"Claro! É aquele grande parque de diversões, né?[lr]::
+38799::$$$message_0271_0007_0003$$$::Tenho meu swimsuit pronto, então estou pronta para sair logo."[lr]::
+38800::$$$message_0271_0007_0004$$$::"Oh. Vamos então esta manhã. Posso me preparar logo também."[lr]::
+38801::$$$message_0271_0007_0005$$$::"Yep, yep! Intrusos virão se demorarmos, então um ataque rápido é o caminho a seguir!"::
+38802::$$$message_0271_0008_0000$$$::"Não, você não pode ir. Uma data com o Mestre Emiya? Você só pode brincar tanto assim."[lr]::
+38803::$$$message_0271_0008_0001$$$::"S-Sella!? Não voltou para o castelo!?"::
+38804::$$$message_0271_0009_0000$$$::"Não. Fiquei aqui, pois sua sorte esta manhã foi horrível. Especialmente as previsões sobre relacionamentos com o sexo oposto.[lr]::
+38805::$$$message_0271_0009_0001$$$::Por isso, eu estava escondido em um quarto vazio para que o Mestre Emiya não fosse rude com minha lady."[lr]::
+38806::$$$message_0271_0009_0002$$$::"..."[lr]::
+38807::$$$message_0271_0009_0003$$$::...Está tudo bem.[lr]::
+38808::$$$message_0271_0009_0004$$$::Mas [font italic=true]não é[font italic=false] não é rude ficar escondido em algum lugar alheio?::
+38809::$$$message_0271_0010_0000$$$::"Não era um quarto vazio.[lr]::
+38810::$$$message_0271_0010_0001$$$::Sella repurposed a room nobody's using."[lr]::
+38811::$$$message_0271_0010_0002$$$::"Hmm. É irritante, mas isso é como a villa da senhora. Acabei de requisitar um quarto só por segurança."[lr]::
+38812::$$$message_0271_0010_0003$$$::Hahaha.[lr]::
+38813::$$$message_0271_0010_0004$$$::Além de grosseiro. Isso é tirania.::
+38814::$$$message_0271_0011_0000$$$::"...Então, em outras palavras, você estava espiando.[lr]::
+38815::$$$message_0271_0011_0001$$$::Não é algo especialmente elogioso, Sella."[lr]::
+38816::$$$message_0271_0011_0002$$$::Illya olha para seu servo com desdém.[lr]::
+38817::$$$message_0271_0011_0003$$$::Assinto em concordância com Illya.::
+38818::$$$message_0271_0012_0000$$$::"Sua repreensão é razoável. No entanto, peço que entenda que é por preocupação com você.[lr]::
+38819::$$$message_0271_0012_0001$$$::...Bem, além disso, gostaria de repetir que acredito que é muito cedo para você estar saindo em encontros.[lr]::
+38820::$$$message_0271_0012_0002$$$::Além disso, eu não posso ter você"[line len=2][lr]::
+38821::$$$message_0271_0012_0003$$$::"Eu não posso te ter, que?"::
+38822::$$$message_0271_0013_0000$$$::"Eu não posso ter você interessado em atividades de lazer tão desonestas quanto ir à piscina![lr]::
+38823::$$$message_0271_0013_0001$$$::Além de seres humildes como nós, você é alguém que carrega sangue nobre. Para um ser desonesto e vulgar como eu poder ver qualquer parte do seu corpo seria um desastre![lr]::
+38824::$$$message_0271_0013_0002$$$::Primeiro de tudo, o único homem autorizado a adorar sua pele nua é a pessoa com quem você troca promessas!"::
+38825::$$$message_0271_0014_0000$$$::"..."[lr]::
+38826::$$$message_0271_0014_0001$$$::...A surpresa da Illya é compreensível.[lr]::
+38827::$$$message_0271_0014_0002$$$::Achei que Sella era bem conservadora, mas não imaginei que fosse tão dura.::
+38828::$$$message_0271_0015_0000$$$::"...Bem, deixando de lado o argumento de Sella sobre Illya.[lr]::
+38829::$$$message_0271_0015_0001$$$::Você diz que a piscina é humilhante... Então você não vai à piscina?"[lr]::
+38830::$$$message_0271_0015_0002$$$::Eu sinto que já vi alguém que parece Sella em uma piscina antes.::
+38831::$$$message_0271_0016_0000$$$::"Hmm? Bem, é muito difícil dizer se eu gosto ou odeio isso..."[lr]::
+38832::$$$message_0271_0016_0001$$$::"É o terceiro swimsuit de Sella desde que chegamos. Impressionante."[lr]::
+38833::$$$message_0271_0016_0002$$$::"L-L-L-Leysritt...![lr]::
+38834::$$$message_0271_0016_0003$$$::...Hmmf. A própria piscina é inocente.[lr]::
+38835::$$$message_0271_0016_0004$$$::O que considero problemático são as pessoas que se aglomeram ao redor da piscina"[line len=2][lr]::
+38836::$$$message_0271_0016_0005$$$::"Oh. Então podemos reservá-lo."::
+38837::$$$message_0271_0017_0000$$$::"Wh[line len=2]"[lr]::
+38838::$$$message_0271_0017_0001$$$::"[line len=2]at?"[lr]::
+38839::$$$message_0271_0017_0002$$$::Encontro os olhos de Sella sem perceber.::
+38840::$$$message_0271_0018_0000$$$::"Illya, por reserva... Você quer dizer reservando Waku Waku Zabuun?"[lr]::
+38841::$$$message_0271_0018_0001$$$::"Hmm? Sim, não é tão estranho assim, né?[lr]::
+38842::$$$message_0271_0018_0002$$$::Você sabe, quando você vai ao centro comercial, você reservaria isso por todo o dia."[lr]::
+38843::$$$message_0271_0018_0003$$$::Ela me encara como se eu fosse o estranho.[lr]::
+38844::$$$message_0271_0018_0004$$$::"..."[lr]::
+38845::$$$message_0271_0018_0005$$$::...O que é estranho é por que uma princesa como essa está passando o tempo na casa dos Emiya.::
+38846::$$$message_0271_0019_0000$$$::"Sella, arrume isso imediatamente. Não vou questionar o método. Ainda não abriu, e você deve conseguir resolver só com dinheiro, sem usar taumaturgia."[lr]::
+38847::$$$message_0271_0019_0001$$$::"Oh... Um, Senhora, isso é...[line len=2]"::
+38848::$$$message_0271_0020_0000$$$::"Você não vai dizer "impossível" agora, vai?[lr]::
+38849::$$$message_0271_0020_0001$$$::Sou a sucessora da Einzbern, e você é a governanta. Vai negar algo que eu decidi ser possível?"::
+38850::$$$message_0271_0021_0000$$$::"Posso pelo menos reservar um espaço desse tamanho; vou conseguir de alguma forma... Agora mesmo![lr]::
+38851::$$$message_0271_0021_0001$$$::No entanto, ter o Mestre Emiya acompanhando você é [line len=2]"[lr]::
+38852::$$$message_0271_0021_0002$$$::"Isso também não é problema. Shirou é meu parceiro do futuro. Acompanhá-lo à piscina é natural, certo?"::
+38853::$$$message_0271_0022_0000$$$::"Que[line len=2]"[lr]::
+38854::$$$message_0271_0022_0001$$$::"[line len=2]aaaah!?"[lr]::
+38855::$$$message_0271_0022_0002$$$::Instintivamente...[wait canskip=0 time=300][textoff][clfg][fg opacity=0 left=133 index=4000 top=124 storage=035_赤a][fg opacity=0 left=86 index=5000 top=137 storage=035_赤b][fg index=3000 pos=c storage=イリヤ02b(中)][fg index=2000 pos=l storage=セラ02a(中)][fg index=1000 pos=r storage=リズ01a(中)][move page=back spread=1 mx=191 magnify=6 time=1200 my=151 path=(191,151,255,1) storage=035_赤a accel=2][move page=back spread=1 mx=146 magnify=6 time=1200 my=165 path=(146,165,255,1) storage=035_赤b accel=2][se volume=80 time=400 storage=se655.wav][fadein time=300 storage=i衛宮邸居間(fd) noclear=1][wm canskip=0][wm canskip=0][wait canskip=0 time=800][sestop storage=se655.wav time=1000 nowait=1]I couldn't make eye contact with Sella.[lr]::
+38856::$$$message_0271_0022_0003$$$::Estou com medo. Estou super com medo.[lr]::
+38857::$$$message_0271_0022_0004$$$::Também, as coisas estão ficando bastante movimentadas por aqui.::
+38858::$$$message_0271_0023_0000$$$::"Entendi.[lr]::
+38859::$$$message_0271_0023_0001$$$::Então, você está dizendo que vai ao pool com o Mestre Emiya, não importa o que, certo?"[lr]::
+38860::$$$message_0271_0023_0002$$$::"Sim. Não vou ouvir mesmo que você tente me impedir."::
+38861::$$$message_0271_0024_0000$$$::A resolução de Illya é firme.[lr]::
+38862::$$$message_0271_0024_0001$$$::Depois que Sella olha para Illya com preocupação e me dá o olhar de reprovação...::
+38863::$$$message_0271_0025_0000$$$::"...Entendi. Se você estiver disposto a ir tão longe, então eu não vou impedir. Certamente, absolutamente reservarei Waku Waku Zabuun.[lr]::
+38864::$$$message_0271_0025_0001$$$::No entanto, também tenho uma condição."[lr]::
+38865::$$$message_0271_0025_0002$$$::"Condição?"[lr]::
+38866::$$$message_0271_0025_0003$$$::"Sim. Se você está dizendo que vai ao pool com o Mestre Emiya, não importa o que aconteça..."::
+38867::$$$message_0271_0026_0000$$$::A maldita criada sorri com desdém.[lr]::
+38868::$$$message_0271_0026_0001$$$::Ela estabelece brevemente e de forma concisa seus termos.::
+38869::$$$message_0271_0027_0000$$$::"Hmm? Só isso?"[lr]::
+38870::$$$message_0271_0027_0001$$$::"Sim, é algo nesse sentido."[lr]::
+38871::$$$message_0271_0027_0002$$$::Uma resposta anticlimática.[lr]::
+38872::$$$message_0271_0027_0003$$$::Os termos de Sella eram simples, e Illya aceitou o pedido de Sella.[lr]::
+38873::$$$message_0271_0027_0004$$$::...Correção.[lr]::
+38874::$$$message_0271_0027_0005$$$::Ela infelizmente aceitou.::
+38875::$$$message_0271_0028_0000$$$::"Hmm, é um dia perfeito para o piscina![lr]::
+38876::$$$message_0271_0028_0001$$$::É como se esperava de Einzbern conseguir reservar Zabuun em um dia como este. Eu nunca queria desperdiçar dinheiro assim, nem que estivesse prestes a morrer, mas é bom quando alguém else faz isso! [humming]"::
+38877::$$$message_0271_0029_0000$$$::"De fato. E ainda por cima, nos convidou mesmo que não fôssemos parte do plano originalmente.[lr]::
+38878::$$$message_0271_0029_0001$$$::Agradeço, Illyasviel. Parece que eu a tinha mal compreendido.[lr]::
+38879::$$$message_0271_0029_0002$$$::E Shirou, eu também te compreendi mal."::
+38880::$$$message_0271_0030_0000$$$::"Tá, realmente diz "Fechado hoje"... Wow. Isso é algo que as pessoas só conseguem experimentar uma vez na vida.[lr]::
+38881::$$$message_0271_0030_0001$$$::Na verdade, isso provavelmente nem aconteceria uma vez![lr]::
+38882::$$$message_0271_0030_0002$$$::Obrigado muito, Illya! I-I vou ficar calado do lado de fora!"::
+38883::$$$message_0271_0031_0000$$$::"Sakura, não há necessidade de ser tímida.[lr]::
+38884::$$$message_0271_0031_0001$$$::Todo mundo é igual na piscina. É um lugar onde se compete apenas com o físico... Estou certo de que você poderia assumir o foco."::
+38885::$$$message_0271_0032_0000$$$::"Hmm... Você está bastante confiante, Rider.[lr]::
+38886::$$$message_0271_0032_0001$$$::Mas, a deusa da piscina deveria ser perfeccionista. Mesmo que uma parte esteja crescida, não adianta nada se as outras partes forem inferiores.[lr]::
+38887::$$$message_0271_0032_0002$$$::Não aumentou um pouco de peso, Sakura?"::
+38888::$$$message_0271_0033_0000$$$::"...É a regra dourada? ...Acho que há um fator preocupante nesse aspecto..."[lr]::
+38889::$$$message_0271_0033_0001$$$::"...Uff... Então, Rider é número um..."[lr]::
+38890::$$$message_0271_0033_0002$$$::"E o que é, Rider? Há algo no meu ombro?"[lr]::
+38891::$$$message_0271_0033_0003$$$::"Não... E é verdade que todos têm suas próprias preferências.[lr]::
+38892::$$$message_0271_0033_0004$$$::Alguns preferem volume, outros buscam equilíbrio e alguns até acreditam que menos é mais.[lr]::
+38893::$$$message_0271_0033_0005$$$::Se os gostos do juiz estiverem viciados, então o inimigo mais forte é a Saber, ou..."::
+38894::$$$message_0271_0034_0000$$$::"É o equilíbrio. Não tem sentido se o parâmetro não estiver perfeitamente equilibrado. Você sabe o que é a barril de Liebig?"[lr]::
+38895::$$$message_0271_0034_0001$$$::"E-eu não é que é como os japoneses gostam de se deliciar com um item luxuoso? Tipo, aquela ideia daquela série, algo-Yamato?"::
+38896::$$$message_0271_0035_0000$$$::"...Não compreendo o que vocês dois estão falando, mas... E você, Rider?"[lr]::
+38897::$$$message_0271_0035_0001$$$::"...Estou fora da questão. Mesmo que eu tenha um físico razoavelmente bom, estou longe de ser comparado aos outros aqui.[lr]::
+38898::$$$message_0271_0035_0002$$$::...Saber, você deve apreciar ainda mais como seu corpo é maravilhoso."::
+38899::$$$message_0271_0036_0000$$$::O grupo caminha pelo parque em frente à estação de forma animada.[lr]::
+38900::$$$message_0271_0036_0001$$$::"..."[lr]::
+38901::$$$message_0271_0036_0002$$$::"..."[lr]::
+38902::$$$message_0271_0036_0003$$$::...Isso é difícil de dizer, mas...[lr]::
+38903::$$$message_0271_0036_0004$$$::Estou no mesmo grupo que eles.::
+38904::$$$message_0271_0037_0000$$$::"...Desculpe, Shirou."[lr]::
+38905::$$$message_0271_0037_0001$$$::"...Não. Também lamento, Illya."[lr]::
+38906::$$$message_0271_0037_0002$$$::Não é que eu não tivesse percebido que Sella estava espiando.[lr]::
+38907::$$$message_0271_0037_0003$$$::Foi isso, eu acabei falando sobre a piscina da casa dos Emiya sem pensar.::
+38908::$$$message_0271_0038_0000$$$::"Ah, o que aconteceu, Mestre Emiya? Você parece estar mal.[lr]::
+38909::$$$message_0271_0038_0001$$$::Heheh. Não pode acompanhar a senhora nesse caos."[lr]::
+38910::$$$message_0271_0038_0002$$$::"Sim. Shirou, melhore um pouco."[lr]::
+38911::$$$message_0271_0038_0003$$$::Leys pega meu ombro.::
+38912::$$$message_0271_0039_0000$$$::A história volta a uma hora atrás.[lr]::
+38913::$$$message_0271_0039_0001$$$::Os termos para concordar que Sella levantou eram trazer os outros inquilinos.::
+38914::$$$message_0271_0040_0000$$$::"Ah, é isso?"[lr]::
+38915::$$$message_0271_0040_0001$$$::"Hmm... Se não há outra saída, está tudo bem se for só a Saber."[lr]::
+38916::$$$message_0271_0040_0002$$$::"...Então está tudo bem?[lr]::
+38917::$$$message_0271_0040_0003$$$::Hmm. Então, vamos fazer uma votação. Quem quiser ir ao Waku Waku Zabuun, por favor, entre."::
+38918::$$$message_0271_0041_0000$$$::"Me! Vou cancelar todos os meus planos da tarde e vou junto."[lr]::
+38919::$$$message_0271_0041_0001$$$::"T-[shock vmax=20 time=400 count=-3]Tohsaka!? De onde você veio!?"[lr]::
+38920::$$$message_0271_0041_0002$$$::"Hmm... A mais a mais!"[lr]::
+38921::$$$message_0271_0041_0003$$$::"Sakura!? Você também estava espiando!?"::
+38922::$$$message_0271_0042_0000$$$::"Ouvir sem autorização é desonesto. Nós simplesmente estavamos limpando o corredor por acaso.[lr]::
+38923::$$$message_0271_0042_0001$$$::Rin estava varrendo o corredor externo.[lr]::
+38924::$$$message_0271_0042_0002$$$::E lá em cima..."[lr]::
+38925::$$$message_0271_0042_0003$$$::"Eu me lembrei de que tinha doces que havia guardado, então só precisava ir para a cozinha."::
+38926::$$$message_0271_0043_0000$$$::...Eu fui muito ingênuo.[lr]::
+38927::$$$message_0271_0043_0001$$$::Poucos minutos passam desde os gritos de alegria de Illya.[lr]::
+38928::$$$message_0271_0043_0002$$$::Antes que nos demos conta, a sala de estar estava completamente cheia.::
+38929::$$$message_0271_0044_0000$$$::"O que aconteceu, vocês dois? Quase é hora de ir. Não vai ser bom se vocês se cansarem antes mesmo de colocar os pés no lugar."[lr]::
+38930::$$$message_0271_0044_0001$$$::"De quem é a culpa disso?"[lr]::
+38931::$$$message_0271_0044_0002$$$::Eu franzo o nariz e protesto.[lr]::
+38932::$$$message_0271_0044_0003$$$::É bom ser vivaz, mas queria que fosse um pouco mais quieto hoje.::
+38933::$$$message_0271_0045_0000$$$::"Quero ir, quero ir, quero irrr!!![lr]::
+38934::$$$message_0271_0045_0001$$$::Yay! É um encontro no piscina com o Shirouuu!"[lr]::
+38935::$$$message_0271_0045_0002$$$::Sinto pena ao me lembrar de como feliz Illya era.::
+38936::$$$message_0271_0046_0000$$$::"Você parece óbvio que está infeliz. Você é tão sem graça quanto sempre quando se trata dessas coisas."[lr]::
+38937::$$$message_0271_0046_0001$$$::"O que você quer dizer com "essas coisas"?"[lr]::
+38938::$$$message_0271_0046_0002$$$::"Como você não é muito exigente com muitas coisas, mas não esconde o que não gosta.[lr]::
+38939::$$$message_0271_0046_0003$$$::Você preferiria ter ido só com Illya?"[lr]::
+38940::$$$message_0271_0046_0004$$$::"Claro. Foi o plano desde o início."::
+38941::$$$message_0271_0047_0000$$$::"Então por que você não encontra um lugar onde possa estar sozinho, só os dois?[lr]::
+38942::$$$message_0271_0047_0001$$$::Encontraremos o momento certo e nos separamos. Levo Sella, Leys e Saber com todos os outros para cá."[lr]::
+38943::$$$message_0271_0047_0002$$$::Tohsaka sussurra ao meu ouvido.[lr]::
+38944::$$$message_0271_0047_0003$$$::...Não sei se Tohsaka também se sente mal por Illya, mas ela está sendo tão gentil que é assustador.::
+38945::$$$message_0271_0048_0000$$$::"...Agradeço, mas você não está tramando nada, está?"[lr]::
+38946::$$$message_0271_0048_0001$$$::"Ah, como é grosseiro. Claro que não vou espiar ou ouvir em segredo. Aproveitem o tempo com Illya."::
+38947::$$$message_0271_0049_0000$$$::"...Isso é ainda mais suspeito. Bem, você tem certeza de que é okay deixar uma menina e um menino adolescentes sozinhos juntos?"[lr]::
+38948::$$$message_0271_0049_0001$$$::"Confio em você nesse aspecto.[lr]::
+38949::$$$message_0271_0049_0002$$$::Mesmo que não estejamos de vigia, você nunca consideraria algo imoral, certo?"[lr]::
+38950::$$$message_0271_0049_0003$$$::"..."[lr]::
+38951::$$$message_0271_0049_0004$$$::...Será que ela está me avisando?::
+38952::$$$message_0271_0050_0000$$$::"Bem, vamos brincar um pouco com todos por um tempo. O dia ainda está longe depois de tudo!"[lr]::
+38953::$$$message_0271_0050_0001$$$::Ela se vira e se despede de Saber e dos outros.[lr]::
+38954::$$$message_0271_0050_0002$$$::Ela tem o desempenho de aceleração de um motor a pistão.::
+38955::$$$message_0271_0051_0000$$$::"...O que fazemos com a Rin? É raro alguém ser tão óbvio em agradar as pessoas."[lr]::
+38956::$$$message_0271_0051_0001$$$::"Hmm...?"[lr]::
+38957::$$$message_0271_0051_0002$$$::"Estou dizendo que ela é a mesma que você. Rin está sendo considerada da sua própria forma.[lr]::
+38958::$$$message_0271_0051_0003$$$::Bem, o fato de ela ter uma regra de que ela mesma tem que se divertir é o que faz com que vocês dois sejam diferentes."::
+38959::$$$message_0271_0052_0000$$$::A voz de Illya é brilhante, ao contrário de sua atitude.[lr]::
+38960::$$$message_0271_0052_0001$$$::Sua presença até agora quase parece uma mentira.::
+38961::$$$message_0271_0053_0000$$$::"Illya, você está bem com isso? Mesmo que isso não seja exatamente o que estávamos planejando."[lr]::
+38962::$$$message_0271_0053_0001$$$::"Nada pode ser feito nesse ponto.[lr]::
+38963::$$$message_0271_0053_0002$$$::Estava pensando que deveria olhar para o lado positivo das coisas. Não é muito comum que me convidem, há um piscina perfeita e todos estão juntos assim, certo?"::
+38964::$$$message_0271_0054_0000$$$::Hmm.[lr]::
+38965::$$$message_0271_0054_0001$$$::Pensando bem, isso é tão raro quanto ir ao piscina sozinho e com a Illya.::
+38966::$$$message_0271_0055_0000$$$::"Sim, você tem razão. Isso é um tipo de acontecimento que acontece uma vez por ano."[lr]::
+38967::$$$message_0271_0055_0001$$$::"Direito? Seria um desperdício se não desfrutássemos.[lr]::
+38968::$$$message_0271_0055_0002$$$::Devemos também nos divertir.[lr]::
+38969::$$$message_0271_0055_0003$$$::É diferente do que eu esperava, mas não muda o fato de que será divertido."::
+38970::$$$message_0271_0056_0000$$$::Ela sorri.[lr]::
+38971::$$$message_0271_0056_0001$$$::Faltam alguns minutos para que alcancemos nosso destino. Illya se apressa em direção a Zabuun, com energia que ao menos corresponde à excitação dos outros.::
+38972::$$$message_0271_0057_0000$$$::"Na verdade, não tem ninguém aqui..."[lr]::
+38973::$$$message_0271_0057_0001$$$::Os armários estão alinhados como espelhos de três partes.[lr]::
+38974::$$$message_0271_0057_0002$$$::E há divisórias de vestiário alinhadas contra a parede.[lr]::
+38975::$$$message_0271_0057_0003$$$::O normalmente movimentado vestiário só tem eu aqui.[lr]::
+38976::$$$message_0271_0057_0004$$$::Reservamos, então não é surpresa, mas ainda assim é um pouco estranho estar em um lugar tão grande sozinho.::
+38977::$$$message_0271_0058_0000$$$::"Tudo bem, estou pronto. Acho que devo ir até a piscina primeiro."[lr]::
+38978::$$$message_0271_0058_0001$$$::Eu fecho o armário e vou até a piscina.[lr]::
+38979::$$$message_0271_0058_0002$$$::"Hmm...?"[lr]::
+38980::$$$message_0271_0058_0003$$$::No caminho, me incomoda que haja apenas um armário com fechadura.::
+38981::$$$message_0271_0059_0000$$$::"..."[lr]::
+38982::$$$message_0271_0059_0001$$$::Eu represso o desejo de elevar minha voz e correr até a piscina.[lr]::
+38983::$$$message_0271_0059_0002$$$::Os raios de sol brilhantes do verão.[lr]::
+38984::$$$message_0271_0059_0003$$$::Ondas artificiais até onde a vista alcança.[lr]::
+38985::$$$message_0271_0059_0004$$$::É mesmo.[lr]::
+38986::$$$message_0271_0059_0005$$$::Quero gritar algo.[lr]::
+38987::$$$message_0271_0059_0006$$$::Pensei que ficaria sozinho se reservássemos um espaço tão grande, mas foi uma preocupação desnecessária.::
+38988::$$$message_0271_0060_0000$$$::"Quero entrar... Quero nadar... Quero ir para baixo d'água."[lr]::
+38989::$$$message_0271_0060_0001$$$::Meu corpo dói para entrar.[lr]::
+38990::$$$message_0271_0060_0002$$$::Quando não há ninguém nessa piscina tão grande, me dá vontade de gritar e correr para dentro.::
+38991::$$$message_0271_0061_0000$$$::"...Não, preciso me conter. Estou aqui com todos, então por que estou tentando começar a me divertir antes dos outros?"[lr]::
+38992::$$$message_0271_0061_0001$$$::Preciso aguentar como um homem.[lr]::
+38993::$$$message_0271_0061_0002$$$::Acho que não posso aguentar se tocar na água, então fico um pouco longe da beira da piscina esperando por Saber e os outros.::
+38994::$$$message_0271_0062_0000$$$::"Obrigado por esperar. Você foi o primeiro a chegar, Shirou."[lr]::
+38995::$$$message_0271_0062_0001$$$::"Oh, Saber."[lr]::
+38996::$$$message_0271_0062_0002$$$::Olho para trás em resposta à voz atrás de mim.[lr]::
+38997::$$$message_0271_0062_0003$$$::"Hmm?"[lr]::
+38998::$$$message_0271_0062_0004$$$::...Mas tenho que confessar...[lr]::
+38999::$$$message_0271_0062_0005$$$::Eu completamente não entendia o quão grande seria o problema em ir ao piscina com todos até este momento.::
+39000::$$$message_0271_0063_0000$$$::"E-e como eu fico, Shirou?[lr]::
+39001::$$$message_0271_0063_0001$$$::É a primeira vez que uso um swimsuit, então não estou muito confiante de que isso seja para mim."[lr]::
+39002::$$$message_0271_0063_0002$$$::Ela me olha com metade de preocupação e metade de antecipação.[lr]::
+39003::$$$message_0271_0063_0003$$$::"Bem. Se me perguntar, acho que você está incrível."::
+39004::$$$message_0271_0064_0000$$$::Meu cérebro para de funcionar. Foi aberto por surpresa.[lr]::
+39005::$$$message_0271_0064_0001$$$::A bermuda branca, que parece algo que Saber usaria, tem um design ousado, em contraste com aquela pureza.[lr]::
+39006::$$$message_0271_0064_0002$$$::O maiô do tipo biquíni revela a bela pele de Saber.::
+39007::$$$message_0271_0065_0000$$$::"Obrigado. Seu swimsuit também fica bom em você."[lr]::
+39008::$$$message_0271_0065_0001$$$::"Uh... [shock vmax=20 time=400 count=-3]Ah, bom, obrigado![lr]::
+39009::$$$message_0271_0065_0002$$$::S-[shock vmax=20 time=400 count=-3], então o que acontece com a Tohsaka e os outros!?"[lr]::
+39010::$$$message_0271_0065_0003$$$::"Rin e os outros devem chegar em breve.[lr]::
+39011::$$$message_0271_0065_0004$$$::Estávamos fazendo nossas próprias coisas assim que entramos no vestiário. Estávamos dizendo que a ordem em que chegariamos ao lado da piscina seria por primeiro que chegar, primeiro que ser atendido."::
+39012::$$$message_0271_0066_0000$$$::"Sim. É mais fácil para nós quando se trata de mudar. Talvez levará um pouco mais de tempo para Sakura e Rin."[lr]::
+39013::$$$message_0271_0066_0001$$$::"Hmm?"::
+39014::$$$message_0271_0067_0000$$$::Dou calafrios na espinha desde que ouvi a voz.[lr]::
+39015::$$$message_0271_0067_0001$$$::A voz fria que me lembra gelo é...::
+39016::$$$message_0271_0068_0000$$$::O oposto completo da figura sedutora de Saber.[lr]::
+39017::$$$message_0271_0068_0001$$$::Em contraste com o que se poderia esperar, o simples maiô preto da Rider na verdade é bastante conservador.[lr]::
+39018::$$$message_0271_0068_0002$$$::Mesmo que seja do mesmo tipo de biquíni que a Saber, tem uma sofisticada elegância.[lr]::
+39019::$$$message_0271_0068_0003$$$::Mas o motivo pelo qual ela ainda é atraente deve ser por causa da sua figura voluptuosa que não pode ser escondida mesmo com um maiô mais coberto.::
+39020::$$$message_0271_0069_0000$$$::Os dois ficamos eretos, vendo a Rider.[lr]::
+39021::$$$message_0271_0069_0001$$$::"..."[lr]::
+39022::$$$message_0271_0069_0002$$$::Não sei quais sentimentos Saber tem, mas, como cara, não há desculpa para o fato de que não consigo tirar os olhos dela.::
+39023::$$$message_0271_0070_0000$$$::"Isso... é..."[lr]::
+39024::$$$message_0271_0070_0001$$$::Engulo as palavras que estão prestes a escapar.[lr]::
+39025::$$$message_0271_0070_0002$$$::Outra visão extraordinária apareceu após a Saber...!::
+39026::$$$message_0271_0071_0000$$$::"Hmm...? Cheguei em um momento ruim?[lr]::
+39027::$$$message_0271_0071_0001$$$::Com base no que vejo, talvez esteja interrompendo uma conversa importante...?"[lr]::
+39028::$$$message_0271_0071_0002$$$::Rider se preocupa com algo completamente errado.::
+39029::$$$message_0271_0072_0000$$$::"Não, você não fez, mas...[lr]::
+39030::$$$message_0271_0072_0001$$$::Bem. É verdade que você me surpreendeu.[lr]::
+39031::$$$message_0271_0072_0002$$$::Eu devo honestamente admitir minha derrota, Rider... Se ao menos tivesse metade da sua altura exagerada."::
+39032::$$$message_0271_0073_0000$$$::"...Saber.[lr]::
+39033::$$$message_0271_0073_0001$$$::Não quero dizer em voz alta, mas sou eu que sente uma sensação de derrota.[lr]::
+39034::$$$message_0271_0073_0002$$$::Você não entende sua própria grandeza. Se ao menos tivesse pelo menos um décimo da sua[line len=2]"::
+39035::$$$message_0271_0074_0000$$$::"Hmm?"[lr]::
+39036::$$$message_0271_0074_0001$$$::A cavaleira fala de forma ambígua.[lr]::
+39037::$$$message_0271_0074_0002$$$::Saber e eu observamos a Rider, que está se encolhendo ainda mais.::
+39038::$$$message_0271_0075_0000$$$::"...Nenhuma ideia do porquê você se sentiria derrotado.[lr]::
+39039::$$$message_0271_0075_0001$$$::Você parece incrivelmente cool com seu maiô, Rider. Quando está ao lado da Saber, é um banquete para os olhos de diferentes tempos e lugares."[lr]::
+39040::$$$message_0271_0075_0002$$$::Que saco.[lr]::
+39041::$$$message_0271_0075_0003$$$::Mesmo meus elogios são temáticos de comida!::
+39042::$$$message_0271_0076_0000$$$::"Eu sei que sua intenção é boa, mas não posso aceitar essa expressão. [l][say storage=ctyex05_rad_0081 name=ライダー]Não há mulheres que seriam felizes sendo chamadas de "legal"."[lr]::
+39043::$$$message_0271_0076_0001$$$::"De verdade?[lr]::
+39044::$$$message_0271_0076_0002$$$::Eu acho que, se for sobre biquines, diria que é o melhor elogio."::
+39045::$$$message_0271_0077_0000$$$::...Uma terceira voz se junta.[lr]::
+39046::$$$message_0271_0077_0001$$$::Estou acostumado com isso agora. Recebi ataques nucleares de Rider e de Saber, então estou preparado para enfrentar isso, jurando não me desonrar.[lr]::
+39047::$$$message_0271_0077_0002$$$::Ali...[lr]::
+39048::$$$message_0271_0077_0003$$$::...é um traje de banho vermelho brilhante.::
+39049::$$$message_0271_0078_0000$$$::"O que você acha? Biquinis são como uniformes de combate para meninas.[lr]::
+39050::$$$message_0271_0078_0001$$$::Acha que o conceito de frio sobre fofo é mais adequado?"[lr]::
+39051::$$$message_0271_0078_0002$$$::Rin é cheia de confiança, tanto que apenas concordo com a cabeça sem mesmo prestar atenção nas suas palavras.[lr]::
+39052::$$$message_0271_0078_0003$$$::Branco, preto e agora um maiô colorido vermelho.[lr]::
+39053::$$$message_0271_0078_0004$$$::É um design que até me deixa envergonhado, mas ela própria está usando com confiança, então não me sinto mal por olhá-la.::
+39054::$$$message_0271_0079_0000$$$::"Então, o que você acha, Emiya?"[lr]::
+39055::$$$message_0271_0079_0001$$$::"...É tão como você, que nem sei o que dizer."[lr]::
+39056::$$$message_0271_0079_0002$$$::Ela também parece cool, mas não menciono como é igualmente adorável por causa de como é frustrante.::
+39057::$$$message_0271_0080_0000$$$::"Combate... Entendi, é possível lutar mesmo em um swimsuit se for um mágico que não faz combate corpo a corpo... Isso significa que seria extremamente vantajoso em uma batalha subaquática?"[lr]::
+39058::$$$message_0271_0080_0001$$$::"Parece bom olhar para... É muito seu estilo."[lr]::
+39059::$$$message_0271_0080_0002$$$::Rider abaixa a cabeça em admiração.::
+39060::$$$message_0271_0081_0000$$$::"Obrigado. Mas é graças à minha empresa atual que me sinto confortável o suficiente para fazer isso."[lr]::
+39061::$$$message_0271_0081_0001$$$::"Hmm? O que você quer dizer com isso?"::
+39062::$$$message_0271_0082_0000$$$::"Todo mundo está usando um tipo diferente de biquini, então não é o momento de se sentir envergonhado. Tipo, se eu não fizer o melhor uso do que tenho, vou acabar sendo enterrado.[lr]::
+39063::$$$message_0271_0082_0001$$$::A Rider provavelmente tem as proporções mais boas, aqui."::
+39064::$$$message_0271_0083_0000$$$::Saber acena com a aula da senhorita Tohsaka, mas Rider não parece convencido.::
+39065::$$$message_0271_0084_0000$$$::"Isso é sua teoria?[lr]::
+39066::$$$message_0271_0084_0001$$$::...Que vergonhoso. Sua autoafirmação é muito parecida com ela mesma."::
+39067::$$$message_0271_0085_0000$$$::"Hmm...?"[lr]::
+39068::$$$message_0271_0085_0001$$$::Todo mundo olha para trás da voz inesperada.[lr]::
+39069::$$$message_0271_0085_0002$$$::A quarta voz surge em silêncio, sem qualquer presença.[lr]::
+39070::$$$message_0271_0085_0003$$$::Isso é inconfundivelmente...[lr]::
+39071::$$$message_0271_0085_0004$$$::Sem dúvida... [wait canskip=0 time=800][wdash canskip=0][wm canskip=0][dash textoff=0 mx=0 hidefg=0 opacity=255 layer=base irot=-0.0 cx=400 imag=1.4 time=200 cy=5 mag=1.4 my=164 storage=o新都_室内プール-(昼) rot=-0.0 accel=2][movefg textoff=0 opacity=255 left=-102 top=226 time=200 accel=2 storage=セイバーfd特殊01g(近)][movefg textoff=0 opacity=255 left=147 top=342 time=200 accel=2 storage=凛私服09e(近)][movefg textoff=0 opacity=255 left=532 top=127 time=200 accel=2 storage=ライダーfd特殊01a(近)][movefg textoff=0 opacity=255 left=303 top=-17 time=200 accel=2 storage=セラfd特殊02c(中)][se storage=se608.wav][wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][wdash canskip=0]Who is that?::
+39072::$$$message_0271_0086_0000$$$::"..."[lr]::
+39073::$$$message_0271_0086_0001$$$::"..."[lr]::
+39074::$$$message_0271_0086_0002$$$::A quarta mulher me encara e Tohsaka.[lr]::
+39075::$$$message_0271_0086_0003$$$::A mulher de cabelos prateados frisa ainda mais, recebendo olhares sem reservas.[lr]::
+39076::$$$message_0271_0086_0004$$$::...Espere, calma.[lr]::
+39077::$$$message_0271_0086_0005$$$::Cabelo prateado, olhos vermelhos, aquele modo de falar...::
+39078::$$$message_0271_0087_0000$$$::"S-[shock vmax=20 time=400 count=-3]Sella!?"[lr]::
+39079::$$$message_0271_0087_0001$$$::"...Hum. Não vamos revelar mais pele do que o necessário. É natural que você não nos reconheça, já que tiramos nossos trajes formais."[lr]::
+39080::$$$message_0271_0087_0002$$$::"..."[lr]::
+39081::$$$message_0271_0087_0003$$$::...Nunca imaginaria isso depois de vê-los nas roupas de criada que usam normalmente.[lr]::
+39082::$$$message_0271_0087_0004$$$::Apesar de ser um maiô, a cor verde brilhante me deixa fresco.[lr]::
+39083::$$$message_0271_0087_0005$$$::Deve ser por causa de Sella mesma estar cheia de frescor.[lr]::
+39084::$$$message_0271_0087_0006$$$::É uma expressão inadequada, mas vem à mente "a personificação da beleza feminina".::
+39085::$$$message_0271_0088_0000$$$::"E-é... por que você está me olhando assim?[lr]::
+39086::$$$message_0271_0088_0001$$$::Se tiver reclamações, vá em frente. Estou apenas acompanhando minha lady.[lr]::
+39087::$$$message_0271_0088_0002$$$::Eu sei que isso não é algo para mostrar a estranhos, muito menos a conhecidos."::
+39088::$$$message_0271_0089_0000$$$::Sella esconde seu corpo.[lr]::
+39089::$$$message_0271_0089_0001$$$::Ela parece não ter confiança no próprio corpo, mas...::
+39090::$$$message_0271_0090_0000$$$::"Você não se importa com os outros, mas se importa conosco?[lr]::
+39091::$$$message_0271_0090_0001$$$::...Não, isso não é. Entendi. Você é uma pessoa séria, então não é que somos conhecidos, é que o olhar masculino de Emiya é[line len=2]"::
+39092::$$$message_0271_0091_0000$$$::"A-ahhh, que mal-entendido![lr]::
+39093::$$$message_0271_0091_0001$$$::Eu simplesmente me envergonho de mostrar meu corpo imperfeito, associado aos Einzberns![lr]::
+39094::$$$message_0271_0091_0002$$$::Você também deve se sentir envergonhado porque suas proporções não competem com as de Rider!"::
+39095::$$$message_0271_0092_0000$$$::"Não muito.[lr]::
+39096::$$$message_0271_0092_0001$$$::Não consigo vencer em termos de volume, mas meu equilíbrio geral é melhor.[lr]::
+39097::$$$message_0271_0092_0002$$$::Tudo bem, todo mundo tem seu próprio traje único."::
+39098::$$$message_0271_0093_0000$$$::"O fato de Emiya estar fazendo tantas expressões é prova disso, certo?[lr]::
+39099::$$$message_0271_0093_0001$$$::Saber, Rider, a senhorita Sella e eu todos temos nossas próprias charmes, então não há necessidade de nos sentirmos envergonhados por perdermos para alguém de alguma forma[line len=2][monocro target=fg][clfg][fg index=2000 pos=l storage=凛fd特殊01d(中)][fg lv2off=1 index=1000 pos=r storage=セラfd特殊02e(中)][fadebgm time=200 volume=0][fadein textoff=0 time=200 storage=o新都_室内プール-(昼) noclear=1]wha[line len=2]"::
+39100::$$$message_0271_0094_0000$$$::"Hmm?"[lr]::
+39101::$$$message_0271_0094_0001$$$::A face de Rin congelou.[lr]::
+39102::$$$message_0271_0094_0002$$$::"H-hi, lamento o atraso!"[lr]::
+39103::$$$message_0271_0094_0003$$$::No fim do olhar dela está o dono da quinta voz que vem correndo em direção a nós em um impulso.::
+39104::$$$message_0271_0095_0000$$$::"..."[lr]::
+39105::$$$message_0271_0095_0001$$$::Rin está tentando dizer o resto do seu discurso com todo o seu poder.[lr]::
+39106::$$$message_0271_0095_0002$$$::O apelo dos maiôs varia de pessoa para pessoa.[lr]::
+39107::$$$message_0271_0095_0003$$$::Não há necessidade de se sentir envergonhado mesmo que alguém tenha um corpo melhor em certos aspectos...[lr]::
+39108::$$$message_0271_0095_0004$$$::Mesmo que ela estivesse tentando dizer algo bom agora...::
+39109::$$$message_0271_0096_0000$$$::...É, eu entendo como ela se sente.[lr]::
+39110::$$$message_0271_0096_0001$$$::O que é isso?[lr]::
+39111::$$$message_0271_0096_0002$$$::Rider está bem.[lr]::
+39112::$$$message_0271_0096_0003$$$::Ela é mais velha do que nós e estrangeira. Originalmente era uma deusa da fertilidade. Entendo se ela estiver um pouco fora de proporção em comparação com os outros.[lr]::
+39113::$$$message_0271_0096_0004$$$::No entanto. Esta é mais nova do que eu e Tohsaka. E se minha irmã mais nova, de sangue, tivesse armas como essas, eu teria uma bagunça de sentimentos conflitantes. Tohsaka está tão presa, está tremendo...!::
+39114::$$$message_0271_0097_0000$$$::"Sakura..."[lr]::
+39115::$$$message_0271_0097_0001$$$::A voz da Tohsaka está rouca.[lr]::
+39116::$$$message_0271_0097_0002$$$::Seu olhar está fixo no peito de Sakura.[lr]::
+39117::$$$message_0271_0097_0003$$$::"Ah, sim!? Algo de errado!?"[lr]::
+39118::$$$message_0271_0097_0004$$$::"Bem... Você cresceu?"[lr]::
+39119::$$$message_0271_0097_0005$$$::"Hmm?"::
+39120::$$$message_0271_0098_0000$$$::Sakura fica congelada em choque.[lr]::
+39121::$$$message_0271_0098_0001$$$::A observação da Tohsaka é mais parecida com um grito de dor do que com uma observação sarcástica.[lr]::
+39122::$$$message_0271_0098_0002$$$::Ela perguntou apenas a pergunta natural, como sua grande irmã, com o último resto de razão que lhe restava.[lr]::
+39123::$$$message_0271_0098_0003$$$::Ainda.::
+39124::$$$message_0271_0099_0000$$$::"Não, Sakura. Rin está apenas tremendo de medo por causa do fato de que sua área do peito voltou a crescer."[lr]::
+39125::$$$message_0271_0099_0001$$$::A declaração da Rider deixou claro quem dos dois é o favorito e quem é o subdominado.::
+39126::$$$message_0271_0100_0000$$$::"Oh... Vamos. Isso é verdade?[lr]::
+39127::$$$message_0271_0100_0001$$$::Tudo bem, não há o que se preocupar em absoluto.[lr]::
+39128::$$$message_0271_0100_0002$$$::O apelo dos trajes de banho varia de pessoa para pessoa. Não há como evitar mesmo que apenas uma parte seja superior, e você mesmo disse isso. Que o equilíbrio geral é importante."[lr]::
+39129::$$$message_0271_0100_0003$$$::Você quase podia ouvir sua risada maliciosa daquela sorriso.::
+39130::$$$message_0271_0101_0000$$$::"Óóó... Óóó, marquem minhas palavras, Sakura!"[cacheimage storage=ライダーfd特殊01c(中),桜fd特殊01h(中),凛fd特殊02h(近)][wvs][movefg textoff=0 opacity=255 time=300 pos=l accel=-2 storage=ライダーfd特殊01c(中)][movefg textoff=0 opacity=255 time=600 pos=r accel=-2 storage=桜fd特殊01h(中)][movefg textoff=0 opacity=255 left=880 top=7 time=600 accel=3 storage=凛fd特殊02h(近)]::
+39131::$$$message_0271_0102_0000$$$::"Muito bem. Não só você conquistou sua primeira vitória, mas arrancou os "thigh highs" dela com total domínio.[lr]::
+39132::$$$message_0271_0102_0001$$$::Isso é minha Sakura."[lr]::
+39133::$$$message_0271_0102_0002$$$::"Sim, eu a peguei, Rider![lr]::
+39134::$$$message_0271_0102_0003$$$::Heheheh, o tamanho do meu seio é invencível!"::
+39135::$$$message_0271_0103_0000$$$::"..."[lr]::
+39136::$$$message_0271_0103_0001$$$::O diabo parte.[lr]::
+39137::$$$message_0271_0103_0002$$$::No entanto, um demônio ainda mais forte acabou de nascer aqui.[lr]::
+39138::$$$message_0271_0103_0003$$$::"...Hmm. Ei, Sakura. Não é como se Tohsaka tivesse tido malícia real agora, você sabe."[lr]::
+39139::$$$message_0271_0103_0004$$$::Bem, ela nem tinha um milímetro de maldade.::
+39140::$$$message_0271_0104_0000$$$::"Você é muito mole, Senpai! O lado da piscina é um campo de batalha para mulheres! Quem não tem poder chora enquanto foge! Aqui, a medida do peito equivale ao controle!"[lr]::
+39141::$$$message_0271_0104_0001$$$::Sakura mostra mais excitação do que nunca.[lr]::
+39142::$$$message_0271_0104_0002$$$::Rider aplaude e elogia o ditador.::
+39143::$$$message_0271_0105_0000$$$::"Sakura, aquela estrada é perigosa.[lr]::
+39144::$$$message_0271_0105_0001$$$::Se a força é justiça, então o poder faz o direito.[lr]::
+39145::$$$message_0271_0105_0002$$$::Podemos ainda conseguir. Acredito que devemos estender a mão para a Rin, que está bebendo um litro de suco em desespero."::
+39146::$$$message_0271_0106_0000$$$::"Não se preocupe, Saber; [wvl] [se volume=70 storage=se023.wav]não há inimigos que me intimide.[lr]::
+39147::$$$message_0271_0106_0001$$$::Hoje é provavelmente o melhor dia para Sakura Matou no Waku Waku Zabuun! Não vou perder para [cacheimage storage=white,桜fd特殊02a(近)][wvl canskip=0 time=700][textoff][se volume=100 storage=se023.wav][se volume=100 storage=se023.wav][fadein time=100 storage=white][stopdash][stopmove][dash page=back mx=47 opacity=255 layer=base irot=-0.025 cx=36 imag=5.8 time=600 cy=123 mag=1.8 my=-26 storage=o新都_釣り場(嵐)b rot=-0.022 accel=3][fg left=280 index=1000 top=221 storage=桜fd特殊02a(近)][se storage=se608.wav][movefg page=back opacity=255 time=500 pos=c accel=4 storage=桜fd特殊02a(近)][se volume=100 storage=se023.wav][transex time=200][wvl canskip=0 time=600]Saber ou minha irmã[wvl][se volume=100 storage=se023.wav] ou qualquer um[wvl][se volume=100 storage=se023.wav][se volume=100 storage=se023.wav]...[se storage=se608.wav]!!!"::
+39148::$$$message_0271_0107_0000$$$::Relâmpago.[lr]::
+39149::$$$message_0271_0107_0001$$$::...A Sakura está transbordando de confiança inédita.[lr]::
+39150::$$$message_0271_0107_0002$$$::...Isso é compreensível. Se eu visse algo assim, eu também votaria em Sakura... [wait canskip=0 time=600]Espere, fique calmo.[lr]::
+39151::$$$message_0271_0107_0003$$$::...O que é isso?::
+39152::$$$message_0271_0108_0000$$$::"...Saber, você sabia?"[lr]::
+39153::$$$message_0271_0108_0001$$$::"...Sim. Ela me ajudou quando estávamos trocando."[lr]::
+39154::$$$message_0271_0108_0002$$$::Sussurramos tristemente.::
+39155::$$$message_0271_0109_0000$$$::"S-Senpai? Saber? O que há de errado? Por que vocês dois parecem ter visto algo inacreditável?"[lr]::
+39156::$$$message_0271_0109_0001$$$::"Bem... Isso é exatamente isso, Sakura."[lr]::
+39157::$$$message_0271_0109_0002$$$::"...Que infeliz. Foi um reinado curto, Sakura."[lr]::
+39158::$$$message_0271_0109_0003$$$::"Vem, vem, até você, Rider? ...Ah, eu realmente não quero olhar para trás..."::
+39159::$$$message_0271_0110_0000$$$::Sakura se vira timidamente.[lr]::
+39160::$$$message_0271_0110_0001$$$::Ali...[lr]::
+39161::$$$message_0271_0110_0002$$$::"Nem pensar!?!?!"[lr]::
+39162::$$$message_0271_0110_0003$$$::...é o sexto desafiante que ultrapassa Sakura.::
+39163::$$$message_0271_0111_0000$$$::"Hmm? Sella, algo aconteceu?"[lr]::
+39164::$$$message_0271_0111_0001$$$::Não há necessidade de dizer quem é.[lr]::
+39165::$$$message_0271_0111_0002$$$::É a outra criada, Leys, também conhecida como Leysritt.::
+39166::$$$message_0271_0112_0000$$$::"Não há o que se preocupar, Leysritt. Aquilo foi apenas o uivo de um subordinado."[lr]::
+39167::$$$message_0271_0112_0001$$$::"Underdog? Sakura?"[lr]::
+39168::$$$message_0271_0112_0002$$$::"...É. Você, de biquini, tinha tanta poder destrutivo que Sakura está em ruínas."[lr]::
+39169::$$$message_0271_0112_0003$$$::"Hmm?"::
+39170::$$$message_0271_0113_0000$$$::"...Há sempre um peixe maior... Isso é a primeira lição que acerta assim..." [lr]::
+39171::$$$message_0271_0113_0001$$$::"...Heheheh, você entendeu agora, Sakura.[lr]::
+39172::$$$message_0271_0113_0002$$$::Sim, o importante é o equilíbrio. Os humanos não podem se deixar dominar por apenas uma coisa."[lr]::
+39173::$$$message_0271_0113_0003$$$::"Sim, me fez me dar conta... que ainda tenho muito a aprender sobre o mundo real..."[lr]::
+39174::$$$message_0271_0113_0004$$$::E os subcampeões confirmam seu amor fraternal.::
+39175::$$$message_0271_0114_0000$$$::"Pessoas... Vocês dois parecem ótimos de biquini.[lr]::
+39176::$$$message_0271_0114_0001$$$::Tinha a impressão de que vocês não saem muito para fora, então achei que vocês não gostavam da piscina. Que desperdício; deveria ter convidado vocês dois junto com Illya antes."[lr]::
+39177::$$$message_0271_0114_0002$$$::Eu tenho certeza de que Illya se sentiria à vontade se estivesse com os dois deles.::
+39178::$$$message_0271_0115_0000$$$::"Aí está. Vou ao piscina para um momento de relaxamento às vezes!"[lr]::
+39179::$$$message_0271_0115_0001$$$::"Entendi."[lr]::
+39180::$$$message_0271_0115_0002$$$::"...Sim. Você vai ver Sella por aí com frequência."[lr]::
+39181::$$$message_0271_0115_0003$$$::"É. Não tem rio na floresta. Sella gosta de nadar."::
+39182::$$$message_0271_0116_0000$$$::"Nunca me importe com meus interesses![lr]::
+39183::$$$message_0271_0116_0001$$$::Mais do que isso, o que aconteceu com a Mestra? A Mestra já terminou de mudar, Leysritt!?"[lr]::
+39184::$$$message_0271_0116_0002$$$::"Sim. Sua vez, Illya."[lr]::
+39185::$$$message_0271_0116_0003$$$::"Hmm?"[lr]::
+39186::$$$message_0271_0116_0004$$$::Olho para ela, me perguntando quando ela chegou.::
+39187::$$$message_0271_0117_0000$$$::"..."[lr]::
+39188::$$$message_0271_0117_0001$$$::...Huh...? Algo está errado comigo.[lr]::
+39189::$$$message_0271_0117_0002$$$::As palavras me escapam. Não consigo mesmo focar minha visão.::
+39190::$$$message_0271_0118_0000$$$::"Como é lindo. Fica muito bom em você, Illyasviel."[lr]::
+39191::$$$message_0271_0118_0001$$$::"Serio. Não esperava que seu aspecto mudasse tanto. Estou reavaliando a cor rosa nesse momento."[lr]::
+39192::$$$message_0271_0118_0002$$$::"..."[lr]::
+39193::$$$message_0271_0118_0003$$$::"Ahaha... [cacheimage storage=桜fd特殊01c頬(中)][wvl][chgfg textoff=0 time=300 storage=桜fd特殊01c頬(中)]Meu coração está batendo rápido, Senpai."::
+39194::$$$message_0271_0119_0000$$$::"Ó-ó, entendi."[lr]::
+39195::$$$message_0271_0119_0001$$$::Concordo internamente com as palavras de Sakura.[lr]::
+39196::$$$message_0271_0119_0002$$$::"...Mestre Emiya. Ainda não recebemos nenhuma palavra de você."[lr]::
+39197::$$$message_0271_0119_0003$$$::As palavras corteses de Sella soam como uma língua estrangeira.[lr]::
+39198::$$$message_0271_0119_0004$$$::Meu cérebro zonzo não consegue dizer uma única palavra em resposta.::
+39199::$$$message_0271_0120_0000$$$::"Mestre Emiya."[lr]::
+39200::$$$message_0271_0120_0001$$$::"Você não precisa perguntar isso, Sella. Pode saber só olhando para o rosto de Shirou."[lr]::
+39201::$$$message_0271_0120_0002$$$::"Mas minha lady, uma oportunidade como esta pode ou não surgir uma vez na vida de Shirou; não, mesmo que ele tivesse de reencarnar inúmeras vezes. Você deve dar-lhe a oportunidade de responder à sua glória."::
+39202::$$$message_0271_0121_0000$$$::"Ugh, você é tão dramático, Sella. Também está incomodando o Shirou. Qualquer momento é bom para isso."::
+39203::$$$message_0271_0122_0000$$$::Illya corre com entusiasmo até a beira da água.[lr]::
+39204::$$$message_0271_0122_0001$$$::Ela se vira, deixando que o cabelo prateado flutue.[lr]::
+39205::$$$message_0271_0122_0002$$$::"Obrigado por ter esperado por tanto tempo.[lr]::
+39206::$$$message_0271_0122_0003$$$::Vamos abrir o Zabuun e hoje teremos muita diversão!"::
+39207::$$$message_0271_0123_0000$$$::Um tiro de salvação é disparado para acompanhar a abertura anúncio.[lr]::
+39208::$$$message_0271_0123_0001$$$::A festa de verão eterno que começou por vontade própria já começou.::
+39209::$$$message_0271_0124_0000$$$::O tempo passa como areia.[lr]::
+39210::$$$message_0271_0124_0001$$$::Havia uma corrida de 100 metros relê, um jogo infernal de vôlei de praia, [l][smudge range=fore level=1][clfg][dash page=back mx=0 opacity=255 layer=base irot=-0.0 cx=400 imag=1.2 time=100 cy=300 mag=1.2 my=0 storage=o演劇06_海上01b-(曇2) rot=-0.0 accel=0][fg bluroff=1 left=-95 index=6000 top=159 storage=108_saberback][fg left=254 index=2000 top=61 storage=141_黄昏rinn][fg left=359 index=3000 top=-7 storage=141_黄昏sakura][fg bluroff=1 fliplr=1 left=387 index=4000 top=285 storage=ガーンa][move page=back opacity=255 storage=141_黄昏rinn cx=81 py=164 px=337 affine=(337,164,140,0.4,255,81,102) time=100 cy=102 mag=0.4 deg=140 accel=0][move page=back opacity=255 storage=141_黄昏sakura cx=68 py=92 px=447 affine=(447,92,20,0.4,255,68,99) time=100 cy=99 mag=0.4 deg=20 accel=0][move page=back opacity=255 storage=ガーンa cx=28 py=340 px=350 affine=(351,341,27,2.2,255,28,55) time=100 cy=55 mag=2.2 deg=27 accel=0][se volume=100 storage=se023.wav][transex time=600]um jogo de sobrevivência com uma canoa com a piscina de ondas no máximo, e assim por diante.[lr]::
+39211::$$$message_0271_0124_0002$$$::Fazemos todos os jogos para grupos grandes de pessoas na maioria das vezes, e assim que terminamos de almoçar, já é uma da tarde.[lr]::
+39212::$$$message_0271_0124_0003$$$::Pego um pouco de folga em um banco próximo.::
+39213::$$$message_0271_0125_0000$$$::Illya e os outros devem estar fazendo uma pausa também, já que estão brincando na superfície da piscina de ondas.[lr]::
+39214::$$$message_0271_0125_0001$$$::Saber, Sakura e os outros parecem estar se divertindo também, mas Illya, em especial, parece estar aproveitando.::
+39215::$$$message_0271_0126_0000$$$::"...Mas..."[lr]::
+39216::$$$message_0271_0126_0001$$$::Que visão magnífica.[lr]::
+39217::$$$message_0271_0126_0002$$$::Perdi-me em algum tipo de paraíso notável?::
+39218::$$$message_0271_0127_0000$$$::"É algo bastante impressionante quando penso nisso."[lr]::
+39219::$$$message_0271_0127_0001$$$::"É mesmo. Essa sequência de acontecimentos não é algo que se vê todos os dias."[lr]::
+39220::$$$message_0271_0127_0002$$$::"Direito? Mesmo sendo chamado de alguém quieto e pouco sociável, sinto que algo pode acontecer comigo."[lr]::
+39221::$$$message_0271_0127_0003$$$::"Hmm, eu sinto que qualquer homem cujos instintos reprodutivos não são estimulados nessa situação tem um problema."[lr]::
+39222::$$$message_0271_0127_0004$$$::"Bem, até eu posso concordar com isso."::
+39223::$$$message_0271_0128_0000$$$::Rimos juntos.[lr]::
+39224::$$$message_0271_0128_0001$$$::"...Espere, quando você chegou aqui!?"[lr]::
+39225::$$$message_0271_0128_0002$$$::"Oh? Achei que você tivesse notado antes. Estou realmente tão pequena a ponto de ser ignorada?[lr]::
+39226::$$$message_0271_0128_0003$$$::Desculpe pelo atraso. Fui um pouco tarde com meu cumprimento."::
+39227::$$$message_0271_0129_0000$$$::"..."[lr]::
+39228::$$$message_0271_0129_0001$$$::...Não consigo lidar com ele.[lr]::
+39229::$$$message_0271_0129_0002$$$::Por causa da outra forma que ele tem, não posso. Na verdade, quanto mais gentil ele é, mais inquieto me sinto. Mesmo quando ele é realmente doce como agora.::
+39230::$$$message_0271_0130_0000$$$::"...Então. Por que você está aqui?[lr]::
+39231::$$$message_0271_0130_0001$$$::Temos esse lugar reservado para hoje."[lr]::
+39232::$$$message_0271_0130_0002$$$::"Eu sei. Fui eu quem aprovou a reserva."[lr]::
+39233::$$$message_0271_0130_0003$$$::"Guh. Aprovado, como em..."[lr]::
+39234::$$$message_0271_0130_0004$$$::"Sou dono desse local."[lr]::
+39235::$$$message_0271_0130_0005$$$::Ele responde imediatamente.[lr]::
+39236::$$$message_0271_0130_0006$$$::Tudo bem. Não vou pensar nisso com tanta profundidade.::
+39237::$$$message_0271_0131_0000$$$::"...Não é de se estranhar que o nome seja tão estranho... Bem, enfim. Mesmo que você seja o dono, isso não significa que possa se misturar conosco."::
+39238::$$$message_0271_0132_0000$$$::"Isso é isso, e isso é outra coisa. Ou prefere um encontro com os caras vermelhos e azuis?[lr]::
+39239::$$$message_0271_0132_0001$$$::Eles tentaram entrar. Eu os afastei."[lr]::
+39240::$$$message_0271_0132_0002$$$::"...Então, obrigado. Parece que sempre estou errado com você."::
+39241::$$$message_0271_0133_0000$$$::Eu aperto a mão dele.[lr]::
+39242::$$$message_0271_0133_0001$$$::Ele sorri de volta para mim.[lr]::
+39243::$$$message_0271_0133_0002$$$::Nesse momento, uma verdadeira amizade entre nós havia se formado apenas para esse dia.[lr]::
+39244::$$$message_0271_0133_0003$$$::E isso é só o que merecem, vocês dois, essa dupla de Servants de cabeça dura...!::
+39245::$$$message_0271_0134_0000$$$::"E bem, agradeço que tenha expulsado os intrusos, mas... qual é o seu motivo?"[lr]::
+39246::$$$message_0271_0134_0001$$$::"Eu não tenho um motivo específico. Talvez eu só seja um pouco curiosa quando se trata de amor. Meu favorito pessoal não está aqui de qualquer forma."[lr]::
+39247::$$$message_0271_0134_0002$$$::"Favorito...?"[lr]::
+39248::$$$message_0271_0134_0003$$$::Não era... Saber?[lr]::
+39249::$$$message_0271_0134_0004$$$::Por algum motivo, seus gostos são diferentes quando ele está nesse formato.::
+39250::$$$message_0271_0135_0000$$$::"Saber não é ruim. Não me interesso por serpentes ou flores falsas.[lr]::
+39251::$$$message_0271_0135_0001$$$::As bruxas estão... Bem, se eu tiver tempo."[lr]::
+39252::$$$message_0271_0135_0002$$$::"..."[lr]::
+39253::$$$message_0271_0135_0003$$$::Isso foi uma declaração subtilmente problemática.[lr]::
+39254::$$$message_0271_0135_0004$$$::Um homem que só se importa com uma pessoa, e um garoto que se importa com qualquer um se seus interesses combinarem.[lr]::
+39255::$$$message_0271_0135_0005$$$::Não há dúvida de que ambos são perigosos.::
+39256::$$$message_0271_0136_0000$$$::"E qual é o seu objetivo, então? Se tem um favorito, não deveria estar aqui se arrastando, certo?"[lr]::
+39257::$$$message_0271_0136_0001$$$::"Mrggh..."[lr]::
+39258::$$$message_0271_0136_0002$$$::Ele não precisa me dizer isso.[lr]::
+39259::$$$message_0271_0136_0003$$$::Lembro agora, depois de tanto tempo, como hoje mesmo aconteceu no início.::
+39260::$$$message_0271_0137_0000$$$::"Ah, sim. Eu estava adiando.[lr]::
+39261::$$$message_0271_0137_0001$$$::...Podia ser que você [line len=2]"[lr]::
+39262::$$$message_0271_0137_0002$$$::Ele veio secretamente porque não conseguia suportar o que estava acontecendo?::
+39263::$$$message_0271_0138_0000$$$::"Não tem jeito. Estou exagerando."[lr]::
+39264::$$$message_0271_0138_0001$$$::"Ah, você vai embora já?"[lr]::
+39265::$$$message_0271_0138_0002$$$::"É. Preciso ensinar Illya a nadar."[lr]::
+39266::$$$message_0271_0138_0003$$$::"..."[lr]::
+39267::$$$message_0271_0138_0004$$$::Ele faz uma cara inocente.[lr]::
+39268::$$$message_0271_0138_0005$$$::É como se ele estivesse murmurando que foi uma intervenção desnecessária.::
+39269::$$$message_0271_0139_0000$$$::"Bem. Pois bem, até mais.[lr]::
+39270::$$$message_0271_0139_0001$$$::Vou me retirar agora. Divirtam-se com sua irmãzinha."[lr]::
+39271::$$$message_0271_0139_0002$$$::Ele avança pela erva alta, e o dono do Zabuun sai de maneira bastante masculina.::
+39272::$$$message_0271_0140_0000$$$::"...Tudo bem...!"[lr]::
+39273::$$$message_0271_0140_0001$$$::Me levanto da bancada e dou um tapa nas bochechas.[lr]::
+39274::$$$message_0271_0140_0002$$$::"Ei, Illya!"[lr]::
+39275::$$$message_0271_0140_0003$$$::Eu balanço o braço e chamo o nome de Illya.[lr]::
+39276::$$$message_0271_0140_0004$$$::É um pouco tarde, mas vou cumprir minha promessa.::
+39277::$$$message_0271_0141_0000$$$::Então...[lr]::
+39278::$$$message_0271_0141_0001$$$::Comecei a escola de natação da Illya, cheia de espírito, para ensinar a Illya a nadar a partir dos fundamentos.::
+39279::$$$message_0271_0142_0000$$$::"Vejo, estou totalmente bem, né?[lr]::
+39280::$$$message_0271_0142_0001$$$::Eu posso nadar perfeitamente!"[lr]::
+39281::$$$message_0271_0142_0002$$$::"Que...!"[lr]::
+39282::$$$message_0271_0142_0003$$$::Meu objetivo foi esclarecido.[lr]::
+39283::$$$message_0271_0142_0004$$$::Illya, que não participou da relâmpago dos 100 metros da manhã, está demonstrando uma natação de braços impressionante...!::
+39284::$$$message_0271_0143_0000$$$::"...Wow. Você é melhor nadando do que eu, Illya."[lr]::
+39285::$$$message_0271_0143_0001$$$::"Eu raramente nado, mas sou bom nisso.[lr]::
+39286::$$$message_0271_0143_0002$$$::Eu posso nadar em ondas quebradas se eu tentar. Não faço isso porque fico cansado."::
+39287::$$$message_0271_0144_0000$$$::Ela ficou braba comigo.[lr]::
+39288::$$$message_0271_0144_0001$$$::Ela ainda estava em bom humor quando a puxei para o lado, e quando ela entrou no meio da piscina de ondas.::
+39289::$$$message_0271_0145_0000$$$::"Desculpe. Mas se você conseguir nadar, então haverá mais coisas que você pode fazer na tarde. Depois, podemos trabalhar juntos em seguida e derrotar Rider e Saber."[lr]::
+39290::$$$message_0271_0145_0001$$$::"É. É, acho que também não é uma má ideia...[lr]::
+39291::$$$message_0271_0145_0002$$$::Devemos descansar um pouco mais antes disso."[lr]::
+39292::$$$message_0271_0145_0003$$$::Mesmo dizendo isso, não há indicação de que ela volte ao lado da piscina.[lr]::
+39293::$$$message_0271_0145_0004$$$::Aparentemente tomar uma pausa com Illya significa que ela quer estar flutuando aqui.::
+39294::$$$message_0271_0146_0000$$$::"Então, por que não ficamos um pouco mais aqui?[lr]::
+39295::$$$message_0271_0146_0001$$$::...Mas você realmente é bom, Illya. Sella te ensinou a nadar?"[lr]::
+39296::$$$message_0271_0146_0002$$$::"Hmm? Eu sou o que ensinou Sella.[lr]::
+39297::$$$message_0271_0146_0003$$$::...Sella é lenta em aprender, mas realmente ama a água. Acho que já a salvei muitas vezes quando ela quase se afogava."[lr]::
+39298::$$$message_0271_0146_0004$$$::"Ah. Então Sella não é atlética."::
+39299::$$$message_0271_0147_0000$$$::"Ela não é apenas desajeitada, ela é completamente inútil![lr]::
+39300::$$$message_0271_0147_0001$$$::Mas a água é nossa fonte, então ela me pediu dizendo que quer se acostumar com ela.[lr]::
+39301::$$$message_0271_0147_0002$$$::Obrigado a isso, eu também melhorou. Mesmo que eu soubesse só sobre natação em teoria."[lr]::
+39302::$$$message_0271_0147_0003$$$::Ela sorri deliciada.[lr]::
+39303::$$$message_0271_0147_0004$$$::...Estou feliz. Parece que ela está um pouco melhor.::
+39304::$$$message_0271_0148_0000$$$::"...Então você aprendeu a nadar sozinho?"[lr]::
+39305::$$$message_0271_0148_0001$$$::"Sim. Sou Lorelei. A água me ensinaria a nadar."[lr]::
+39306::$$$message_0271_0148_0002$$$::"..."[lr]::
+39307::$$$message_0271_0148_0003$$$::É a mesma coisa que antes.[lr]::
+39308::$$$message_0271_0148_0004$$$::O sorriso de Illya me deixa sem pensar.[lr]::
+39309::$$$message_0271_0148_0005$$$::A sensação flutuante que me deixa tonto está perto do vértigo, mas é definitivamente diferente.::
+39310::$$$message_0271_0149_0000$$$::"...Primeiro de tudo..."[lr]::
+39311::$$$message_0271_0149_0001$$$::Eu não deveria pensar assim, mas é, você sabe.[line len=2][lr]::
+39312::$$$message_0271_0149_0002$$$::"Para cá, então...![lr]::
+39313::$$$message_0271_0149_0003$$$::I-Illia, vamos nadar! Vamos nadar uma volta na piscina de ondas e voltar para onde está Saber e os outros!"[lr]::
+39314::$$$message_0271_0149_0004$$$::Ela balança a cabeça.::
+39315::$$$message_0271_0150_0000$$$::"Não, recuso-me. Disse que vou descansar um pouco mais.[lr]::
+39316::$$$message_0271_0150_0001$$$::Se você estiver entediado, então... eu vou te fazer perguntas."[lr]::
+39317::$$$message_0271_0150_0002$$$::"Perguntas?"[lr]::
+39318::$$$message_0271_0150_0003$$$::"É. Você viu todos em seus swimsuits.[lr]::
+39319::$$$message_0271_0150_0004$$$::Quem era a mais linda?"::
+39320::$$$message_0271_0151_0000$$$::"A mais linda...?"[lr]::
+39321::$$$message_0271_0151_0001$$$::"É. A mais bonita."[lr]::
+39322::$$$message_0271_0151_0002$$$::"..."[lr]::
+39323::$$$message_0271_0151_0003$$$::T-Isso é uma pergunta difícil.[lr]::
+39324::$$$message_0271_0151_0004$$$::Acho que dizer "todo mundo estava bem" não daria em nada.::
+39325::$$$message_0271_0152_0000$$$::"Não há como salvá-lo.[lr]::
+39326::$$$message_0271_0152_0001$$$::Então, e Saber? O que você acha, Shirou?"[lr]::
+39327::$$$message_0271_0152_0002$$$::"Saber é... Bem, saudável, ou bonita como uma flor pura."::
+39328::$$$message_0271_0153_0000$$$::"E então, o que acontece com a Rider?"[lr]::
+39329::$$$message_0271_0153_0001$$$::"Rider é... Ela era bonita, mas mais madura do que isso. Tipo uma atleta olímpica; bonita assim."::
+39330::$$$message_0271_0154_0000$$$::"...E então, a próxima. Rin?"[lr]::
+39331::$$$message_0271_0154_0001$$$::"Tohsaka era vibrante. Se falarmos em aparência, acho que ela era a mais convencionalmente atraente."::
+39332::$$$message_0271_0155_0000$$$::"...Então, Sella?"[lr]::
+39333::$$$message_0271_0155_0001$$$::"Sella é... Bem, Sella e Leys eram totalmente inesperadas. Ambas eram surpreendentemente bonitas."::
+39334::$$$message_0271_0156_0000$$$::"...Sakura?"[lr]::
+39335::$$$message_0271_0156_0001$$$::"Sakura também era bonita, mas mais do que isso, eu não sabia onde olhar. A sua atração saudável era algo bastante especial, certo...?"[lr]::
+39336::$$$message_0271_0156_0002$$$::"..."::
+39337::$$$message_0271_0157_0000$$$::As perguntas de Illya param.[lr]::
+39338::$$$message_0271_0157_0001$$$::Ela mergulha um pouco na água.[lr]::
+39339::$$$message_0271_0157_0002$$$::"...Então, o que acontece comigo?"[lr]::
+39340::$$$message_0271_0157_0003$$$::Illya pergunta.::
+39341::$$$message_0271_0158_0000$$$::Noto sonolento.[lr]::
+39342::$$$message_0271_0158_0001$$$::...Ah, sim.[lr]::
+39343::$$$message_0271_0158_0002$$$::Todo mundo era igualmente bonito. Mas se eu tivesse que escolher a melhor...::
+39344::$$$message_0271_0159_0000$$$::"...Você me deixou muito nervoso."[lr]::
+39345::$$$message_0271_0159_0001$$$::Ugh, exatamente. Não adianta tentar esconder isso agora.[lr]::
+39346::$$$message_0271_0159_0002$$$::Assim fraco quanto sou, fiquei incontestavelmente encantado com Illya na sua biquini e não conseguia pensar direito.::
+39347::$$$message_0271_0160_0000$$$::"Meu coração ainda está batendo rápido de verdade.[lr]::
+39348::$$$message_0271_0160_0001$$$::...Um, você sabe. Está nervoso?"[lr]::
+39349::$$$message_0271_0160_0002$$$::Eu passo o dedo pelo queixo e pergunto a ela, sem desviar os olhos.[lr]::
+39350::$$$message_0271_0160_0003$$$::"É! Meu coração também está batendo rápido!"[lr]::
+39351::$$$message_0271_0160_0004$$$::Não consigo impedir que Illya envolva meus braços ao redor do meu pescoço e eu cai na água com ela.::
+39352::$$$message_0271_0161_0000$$$::"Seu Shirou![lr]::
+39353::$$$message_0271_0161_0001$$$::Estava realmente prestes a odiar você por me fazer esperar três horas!"[lr]::
+39354::$$$message_0271_0161_0002$$$::Illya gira ao redor ainda segurando meu pescoço.::
+39355::$$$message_0271_0162_0000$$$::"Mas eu cheguei, não cheguei? Ainda temos a tarde inteira.[lr]::
+39356::$$$message_0271_0162_0001$$$::Onde devemos ir a seguir, Illya?"[lr]::
+39357::$$$message_0271_0162_0002$$$::"A slide! Oh, claro com Saber e os outros. Vou mostrar para você o resto da tarde para te pagar por ter me deixado ansioso a manhã inteira!"::
+39358::$$$message_0271_0163_0000$$$::A voz animada dela está sincronizada com o balanço da água.[lr]::
+39359::$$$message_0271_0163_0001$$$::Illya move seu corpo energético e pequeno como se estivesse celebrando um aniversário longamente esperado.[lr]::
+39360::$$$message_0271_0163_0002$$$::"...Bem. Tenho medo do que vem depois, mas vamos mostrar a eles o poder da amizade!"[lr]::
+39361::$$$message_0271_0163_0003$$$::Carrego Illya nas minhas costas e corro até a piscina onde todos aguardam.[lr]::
+39362::$$$message_0271_0163_0004$$$::Os gritos entusiasmados ecoam ainda mais alto.[lr]::
+39363::$$$message_0271_0163_0005$$$::Assim como a frase "verão eterno", o melhor dia de todos continua por um pouco mais.::
+39364::$$$message_0271_0164_0000$$$::A noite chega rapidamente.[lr]::
+39365::$$$message_0271_0164_0001$$$::Mesmo para o dia absurdo de reservar Zabuun, parece que nada pode ser feito sobre o sol se pondo.::
+39366::$$$message_0271_0165_0000$$$::"Ah, estou tão cansado.[lr]::
+39367::$$$message_0271_0165_0001$$$::Quem disse que devemos dar a volta por todos os pools se já estamos aqui de qualquer forma? Estou certo de que vou ficar todo dolorido amanhã."[lr]::
+39368::$$$message_0271_0165_0002$$$::"Mas foi divertido. Não teria conseguido pular de uma plataforma de mergulho de cinquenta metros, já que normalmente fico envergonhado."::
+39369::$$$message_0271_0166_0000$$$::"Fazer o almoço usando a chapa de ferro do stand de comida também foi algo bastante especial.[lr]::
+39370::$$$message_0271_0166_0001$$$::Eu tenho certeza de que fazer yakisoba com todos não será algo que conseguiremos fazer muito frequentemente."[lr]::
+39371::$$$message_0271_0166_0002$$$::"Embora sua cozinha tenha sido horrível.[lr]::
+39372::$$$message_0271_0166_0003$$$::Por outro lado, sua sorte é excepcionalmente forte. Por que você força desastres que você mesmo causou sobre outros[line len=2], especialmente sobre mim?"::
+39373::$$$message_0271_0167_0000$$$::Deixamos atrás o tempo de diversão de forma rambúncula, como começamos.[lr]::
+39374::$$$message_0271_0167_0001$$$::Illya e eu mantemos o mesmo ritmo, colocamos alguma distância entre nós e todos os outros e observamos os sorrisos deles.[lr]::
+39375::$$$message_0271_0167_0002$$$::Em vez de assistir em silêncio, olhei fixamente para não esquecer, pois era algo bastante irreplaceável.::
+39376::$$$message_0271_0168_0000$$$::"Sim, este é o fim de algo especial.[lr]::
+39377::$$$message_0271_0168_0001$$$::Descanse o corpo, Shirou. A noite usual aguarda quando você chegar em casa."[lr]::
+39378::$$$message_0271_0168_0002$$$::"Obrigado pelo aviso. Está tudo bem, eu não vou sair à noite. Meu corpo inteiro dói por ter nadado demais."::
+39379::$$$message_0271_0169_0000$$$::Andar assim pra casa é o melhor que eu posso fazer.[lr]::
+39380::$$$message_0271_0169_0001$$$::Eu cheiro o cheiro nostálgico de cloro vindo do meu corpo, que esteve na piscina o dia inteiro.[lr]::
+39381::$$$message_0271_0169_0002$$$::Devo voltar para casa e dormir, repetindo mentalmente os eventos que passaram em um piscar de olhos.::
+39382::$$$message_0271_0170_0000$$$::"Então, nos separamos em Miyama.[lr]::
+39383::$$$message_0271_0170_0001$$$::Pus Sella e Leys um pouco demais. Preciso voltar para o castelo hoje à noite."[lr]::
+39384::$$$message_0271_0170_0002$$$::"Entendi. Então, te vejo amanhã, Illya."[lr]::
+39385::$$$message_0271_0170_0003$$$::Ela acena.[lr]::
+39386::$$$message_0271_0170_0004$$$::Caminhamos em direção à vila da noite como irmãos.::
+39387::$$$message_0271_0171_0000$$$::De repente...[lr]::
+39388::$$$message_0271_0171_0001$$$::Ela faz uma reverência exagerada, como na primeira vez que conversamos.::
+39389::$$$message_0271_0172_0000$$$::"Tive um bom tempo, Shirou.[lr]::
+39390::$$$message_0271_0172_0001$$$::Obrigado por lembrar de uma promessa tão pequena que poderia ter sido facilmente ignorada."[lr]::
+39391::$$$message_0271_0172_0002$$$::"Aqui também. Sinto vergonha por ter chegado atrasado."[lr]::
+39392::$$$message_0271_0172_0003$$$::"Sem problemas. Vamos voltar outra vez, Big Brother."::
+39393::$$$message_0271_0173_0000$$$::O céu está muito longe.[lr]::
+39394::$$$message_0271_0173_0001$$$::A luz do sol se põe no horizonte.[lr]::
+39395::$$$message_0271_0173_0002$$$::Hoje foi um dia brilhante e não tenho nada para reclamar.[lr]::
+39396::$$$message_0271_0173_0003$$$::Fiz memórias que não deixam de lado aquele clarão que se afunda.::îû::��

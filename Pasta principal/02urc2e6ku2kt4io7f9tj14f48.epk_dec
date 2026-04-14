@@ -1,0 +1,88 @@
+DAT
+id=qid::label=str::text=lstr::
+4256::$$$message_0032_0000_0000$$$::I absently look at the yard, and see that there's quite a lot of fallen leaves.[lr]::
+4257::$$$message_0032_0000_0001$$$::I do have some time, so I'll clean up the yard a bit.[seloop storage=se513.wav][lr]::
+4258::$$$message_0032_0000_0002$$$::There's no wind today, so I make good time gathering up all the dead leaves.[lr]::
+4259::$$$message_0032_0000_0003$$$::"What are you doing, Shirou?"::
+4260::$$$message_0032_0001_0000$$$::I turn to face the speaker. Saber is watching me. It looks like she just came from the front door of the house.[lr]::
+4261::$$$message_0032_0001_0001$$$::"Oh, Saber. I'm cleaning the yard, as you can see."[lr]::
+4262::$$$message_0032_0001_0002$$$::[chgfg time=300 storage=セイバー私服04e(遠) textoff=0]I show her the broom I'm holding.[lr]::
+4263::$$$message_0032_0001_0003$$$::Saber looks at my pile of leaves, then at the size of the yard, and sighs.::
+4264::$$$message_0032_0002_0000$$$::"It must be difficult on your own. Why haven't you asked anyone to help you?"[lr]::
+4265::$$$message_0032_0002_0001$$$::"Eh...? No real reason. I just thought I'd do it myself."::
+4266::$$$message_0032_0003_0000$$$::"Shirou, two sets of hands work faster than one. It will reduce the burden on you. The rest of us live in this house, too, so you should have asked."[lr]::
+4267::$$$message_0032_0003_0001$$$::Exasperated, Saber grabs the broom from my hand.[lr]::
+4268::$$$message_0032_0003_0002$$$::"Well, sure, but[line len=2]"::
+4269::$$$message_0032_0004_0000$$$::"Listen. It is not wrong to ask for help. If any of us are idle, then it's completely natural to ask us for help."[lr]::
+4270::$$$message_0032_0004_0001$$$::She pokes the tip of the broom shaft at my nose.::
+4271::$$$message_0032_0005_0000$$$::"Um, okay. I'll do my best."::
+4272::$$$message_0032_0006_0000$$$::"...Hrm. Very well. Now you know what to do in the future.[wait canskip=false time=300][wvs][seloop storage=se513.wav][clfg time=300 rule=シャッター左から storage=セイバー私服02c(中) textoff=0]"[lr]::
+4273::$$$message_0032_0006_0001$$$::Saber helps me clean the rest of the yard.::
+4274::$$$message_0032_0007_0000$$$::...She's a hard worker.[lr]::
+4275::$$$message_0032_0007_0001$$$::I was only going to do a light cleaning, [sestop time=1000 nowait=true]but while we're at it, we pull out the cart and load all of the dead leaves into it.[lr]::
+4276::$$$message_0032_0007_0002$$$::By the time we've finished one round of the yard, the cart is completely full.::
+4277::$$$message_0032_0008_0000$$$::"Shirou, what are you going to do with these leaves?"[lr]::
+4278::$$$message_0032_0008_0001$$$::"Normally, I'd put them out for collection with the other burnable trash."[lr]::
+4279::$$$message_0032_0008_0002$$$::[chgfg time=300 storage=セイバー私服04e(中) textoff=0]But we have a lot of them today, so there's something I want to try.::
+4280::$$$message_0032_0009_0000$$$::"You intend to do something different this time?"[lr]::
+4281::$$$message_0032_0009_0001$$$::"Yeah. I'm thinking we could build a bonfire while we have the time."[lr]::
+4282::$$$message_0032_0009_0002$$$::"A bonfire?"[lr]::
+4283::$$$message_0032_0009_0003$$$::"Yep. We may as well take advantage of it.[lr]::
+4284::$$$message_0032_0009_0004$$$::And I've got these today."[lr]::
+4285::$$$message_0032_0009_0005$$$::I show her the bag I brought from the kitchen.::
+4286::$$$message_0032_0010_0000$$$::"Hm? What are those...?"[lr]::
+4287::$$$message_0032_0010_0001$$$::"Sweet potatoes. It's a tradition in this country to roast them over a bonfire."[lr]::
+4288::$$$message_0032_0010_0002$$$::"A tradition?"[lr]::
+4289::$$$message_0032_0010_0003$$$::That might be overstating it, but it is a thing we do.::
+4290::$$$message_0032_0011_0000$$$::[chgfg time=300 storage=セイバー私服01a(中) textoff=0]After wrapping the potatoes in aluminum foil, I build a fire using the dead leaves.[lr]::
+4291::$$$message_0032_0011_0001$$$::The leaves are dry since it hasn't rained recently, and the fire roars to life quickly.::
+4292::$$$message_0032_0012_0000$$$::"You seem experienced at this. Do you do it often?"[lr]::
+4293::$$$message_0032_0012_0001$$$::"Nah. Maybe once or twice a year."::
+4294::$$$message_0032_0013_0000$$$::[chgfg time=300 storage=セイバー私服01b(中) textoff=0]I listen to the fire crackle. Next to me, Saber looks even more at ease than usual.::
+4295::$$$message_0032_0014_0000$$$::"...This takes me back."[lr]::
+4296::$$$message_0032_0014_0001$$$::"The fire?"::
+4297::$$$message_0032_0015_0000$$$::"Yes. Fire has always been indispensable for keeping warm, cooking, or illumination.[lr]::
+4298::$$$message_0032_0015_0001$$$::It's no longer something I see often in these times, so seeing it reminds me of the past."::
+4299::$$$message_0032_0016_0000$$$::[chgfg time=300 storage=セイバー私服06a腕b(中) textoff=0]...I see. Energy sources like electricity and natural gas only became universal in the last century or so. There's only one Servant around that would have been familiar with them during his lifetime.::
+4300::$$$message_0032_0017_0000$$$::"It's a relaxing sight."[lr]::
+4301::$$$message_0032_0017_0001$$$::[chgfg time=300 storage=セイバー私服01b(中) textoff=0]I wonder what Saber sees beyond the flames.[lr]::
+4302::$$$message_0032_0017_0002$$$::Fire doesn't bring up good memories for me, so I can't share her nostalgia.::
+4303::$$$message_0032_0018_0000$$$::The bonfire dies once most of the dead leaves are exhausted.[lr]::
+4304::$$$message_0032_0018_0001$$$::Taking care not to scatter the black ashes, I remove the roasted potatoes with a fire poker.[lr]::
+4305::$$$message_0032_0018_0002$$$::"Okay. That should be plenty."[lr]::
+4306::$$$message_0032_0018_0003$$$::Wearing mittens, I dust off the soot and wrap them in newspaper.[lr]::
+4307::$$$message_0032_0018_0004$$$::I haven't broken them open yet, but they already smell good.::
+4308::$$$message_0032_0019_0000$$$::"Here, Saber. They're hot, so be careful."[lr]::
+4309::$$$message_0032_0019_0001$$$::[chgfg time=300 storage=セイバー私服05d(中) textoff=0]I hand the first sweet potato to Saber, and start to dig out the rest from the ashes.::
+4310::$$$message_0032_0020_0000$$$::"What about you, Shirou?"[lr]::
+4311::$$$message_0032_0020_0001$$$::"I'll eat after I take all of them out. Go ahead and try one first. They're tasty while they're still hot."[lr]::
+4312::$$$message_0032_0020_0002$$$::"Very well."::
+4313::$$$message_0032_0021_0000$$$::Saber's face lights up in surprise after taking a bite. [chgfg time=300 storage=セイバーfd特殊03_焼き芋a頬(中) textoff=0]She nods in satisfaction.[lr]::
+4314::$$$message_0032_0021_0001$$$::"Does it taste good?"::
+4315::$$$message_0032_0022_0000$$$::"Yes, very."[lr]::
+4316::$$$message_0032_0022_0001$$$::[chgfg time=300 storage=セイバーfd特殊02_焼き芋d頬(中) textoff=0]She looks pleased as pie.[lr]::
+4317::$$$message_0032_0022_0002$$$::I'm glad. She went to the trouble of helping me, so this can be my way of thanking her.::
+4318::$$$message_0032_0023_0000$$$::"...By the way, Shirou, how did you prepare these potatoes before cooking them?"[lr]::
+4319::$$$message_0032_0023_0001$$$::"Prepare? I just roasted them as is."[lr]::
+4320::$$$message_0032_0023_0002$$$::I dig out two or three of the potatoes and wrap them in paper.::
+4321::$$$message_0032_0024_0000$$$::[fg index=1000 time=300 pos=c storage=セイバーfd特殊02_焼き芋c(中)]When I look up, Saber looks even more amazed than before.[lr]::
+4322::$$$message_0032_0024_0001$$$::"...What's wrong?"::
+4323::$$$message_0032_0025_0000$$$::"No, I just never imagined that these 'sweet potatoes' would be so delicious after merely roasting them."[lr]::
+4324::$$$message_0032_0025_0001$$$::"Well, they do say that simple cooking methods are best at bringing out the natural flavor of ingredients."[lr]::
+4325::$$$message_0032_0025_0002$$$::[clfg textoff=0 pos=all time=300]They actually taste great with just fire and a bit of salt.::
+4326::$$$message_0032_0026_0000$$$::"But if that's true...what makes this roasted potato taste so different from that crude manner of cooking?"[lr]::
+4327::$$$message_0032_0026_0001$$$::Saber must be alluding to something she ate during her lifetime.[lr]::
+4328::$$$message_0032_0026_0002$$$::"If it tastes different even though you roasted them both times, then maybe it's the ingredients?"::
+4329::$$$message_0032_0027_0000$$$::"...The difference is absurd.[lr]::
+4330::$$$message_0032_0027_0001$$$::If we had this flavor back in my time, our armies could have fought even harder..."[lr]::
+4331::$$$message_0032_0027_0002$$$::She seems frustrated. Are the sweet potatoes making her even more emotional than the fire did?[lr]::
+4332::$$$message_0032_0027_0003$$$::Regardless, she doesn't stop eating the sweet potato. That's Saber for you.::
+4333::$$$message_0032_0028_0000$$$::"Food frustrations sound scary."[lr]::
+4334::$$$message_0032_0028_0001$$$::"What was that, Shirou?"[lr]::
+4335::$$$message_0032_0028_0002$$$::"Nothing."::
+4336::$$$message_0032_0029_0000$$$::We spend the rest of the day together until the sun goes down.[lr]::
+4337::$$$message_0032_0029_0001$$$::...A humble trail of smoke rises into the autumn sky.[lr]::
+4338::$$$message_0032_0029_0002$$$::Beneath it, we share a snack together in this completely safe campsite.[lr]::
+4339::$$$message_0032_0029_0003$$$::The peaceful, unremarkable scene lingers in my memories, brighter than any summer sun. ::
+904313::$$$message_9032_0021_0000$$$::Saber's face lights up in surprise after taking a bite. She nods in satisfaction.[r]:
+��

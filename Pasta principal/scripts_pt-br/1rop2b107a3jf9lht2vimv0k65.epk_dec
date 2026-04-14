@@ -1,0 +1,90 @@
+DAT
+id=qid::label=str::text=lstr::
+41905::$$$message_0229_0000_0000$$$::"Sup. Como está tratando o novo ambiente de trabalho, Mestre?[lr]::
+41906::$$$message_0229_0000_0001$$$::Você consegue flertar com alguma cutie?"::
+41907::$$$message_0229_0000_0002$$$::"...Bem-vindo.[lr]::
+41908::$$$message_0229_0000_0003$$$::Pode me dizer o que deseja..." [seloop storage=se253 time=1500 nowait=1][nolr]::
+41909::$$$message_0229_0000_0004$$$::"...Hei, veja esse lugar.[lr]::
+41910::$$$message_0229_0000_0005$$$::Não é um avental nu, mas um crânio nu.[lr]::
+41911::$$$message_0229_0000_0006$$$::Assim que quebrar os sonhos de um jovem."::
+41912::$$$message_0229_0000_0007$$$::"Obrigado pelo elogio gentil, senhor.[lr]::
+41913::$$$message_0229_0000_0008$$$::Devo elogiar seu gosto por notar meu presença."::
+41914::$$$message_0229_0000_0009$$$::"Bem, você é a única garçonete aqui.[lr]::
+41915::$$$message_0229_0000_0010$$$::Então, Hassan, onde está meu Mestre?"::
+41916::$$$message_0229_0000_0011$$$::"Bazett foi demitida recentemente.[lr]::
+41917::$$$message_0229_0000_0012$$$::Ela transformou a cozinha alemã do dono em "A Aventura de Poseidão" em três minutos e meia."::
+41918::$$$message_0229_0000_0013$$$::"...Ela nem chegou a meio dia, hein?[lr]::
+41919::$$$message_0229_0000_0014$$$::Acho que ela deve ter ido para o parque. Parece que a gente dois tem um jeito difícil, cara. Até a próxima."[p][hfmsg2layer src=0 dest=2][nolr]::
+41920::$$$message_0229_0000_0015$$$::"Tudo bem.[lr]::
+41921::$$$message_0229_0000_0016$$$::Por favor, volte."[nolr]::
+41922::$$$message_0229_0001_0000$$$::"Para que eu nasci..."::
+41923::$$$message_0229_0002_0000$$$::"Tudo o que fiz foi treino de força. Não consigo cozinhar, limpar, nem mesmo trabalhar como garçonete..."::
+41924::$$$message_0229_0002_0001$$$::"Já fazia meio ano desde que cheguei... [wm canskip=0][move textoff=0 time=60 path=(127,527,0)(127,527,255)(127,527,255)(127,527,0)(127,527,255)(127,527,255)(127,527,0)(127,527,255)(127,527,255)(127,527,0)(127,527,255)(127,527,255)(127,527,0)(127,527,255)(127,527,255) storage=hf_600m accel=0]E só consegui sobreviver com o que ganhei no arremesso de punhos..."[wm canskip=0]::
+41925::$$$message_0229_0002_0002$$$::"Argh, sou um completo fracasso, um lixo. Não é a toa que AÅra me trata como um homem..."::
+41926::$$$message_0229_0002_0003$$$::"...Ah, talvez eu deva tentar me vestir de menino[hfwww layer=0]... [se storage=se668.wav]Hehe, hehehe, posso ser um host, mesmo sendo uma mulher, hehehehehehe..."[wm canskip=0][clfg storage=hf_600m time=10][layopt layer=1 left=7 top=397]::
+41927::$$$message_0229_0002_0004$$$::"Tudo bem, senhorita. Pare de bater em propriedade pública enquanto murmura coisas. É muito difícil limpar depois de você."::
+41928::$$$message_0229_0002_0005$$$::"A-AÅra!?[lr]::
+41929::$$$message_0229_0002_0006$$$::Hmm!? [wait canskip=0 time=400]Quando diabos[hfwww layer=0][se storage=se579.wav] esse sinal virou L?[se storage=se579.wav][hfsweat layer=0] H-[wait canskip=0 time=400]hmm,[wait canskip=0 time=400] hmm...[quake time=600 vmax=30 hmax=20][se storage=se163.wav]!?"::
+41930::$$$message_0229_0002_0007$$$::"E agora você paniquei tentando consertar e acabou quebrando em dois... Sério, que tipo de dama arranca um sinal de metal pelo poste..."::
+41931::$$$message_0229_0002_0008$$$::"E-está fazendo o que aqui no meio do dia?[lr]::
+41932::$$$message_0229_0002_0009$$$::Você deveria estar dormindo na casa como sempre faz."::
+41933::$$$message_0229_0002_0010$$$::"Fiquei só querendo ver você trabalhando. Você disse que daria tudo certo desde que fosse simples."::
+41934::$$$message_0229_0002_0011$$$::"Oh... Certo, eu fiz.[lr]::
+41935::$$$message_0229_0002_0012$$$::Não estava acostumado com o uniforme, e quando minha saia ficou presa em algo na cozinha, eu só..."::
+41936::$$$message_0229_0002_0013$$$::"Hmm? Você só o que?"::
+41937::$$$message_0229_0002_0014$$$::"Eu dei um soco no chão para me manter de pé, e talvez tenha quebrado um pouco.[lr]::
+41938::$$$message_0229_0002_0015$$$::...O, hum, encanamento, que é."::
+41939::$$$message_0229_0002_0016$$$::"Isso não soa como "um pouco.[lr]::
+41940::$$$message_0229_0002_0017$$$::Ahh. Não é de se estranhar que o dono tenha perdido a cabeça."::
+41941::$$$message_0229_0002_0018$$$::"..."::
+41942::$$$message_0229_0002_0019$$$::"Hmm... Pelo lado positivo, você descobriu isso cedo. Na próxima vez, encontre um emprego que não te force a usar saia."::
+41943::$$$message_0229_0002_0020$$$::"Você está gradativamente reduzindo as tarefas para as quais é adequado. Considere hoje como uma vitória."::
+41944::$$$message_0229_0003_0000$$$::"Ara..."::
+41945::$$$message_0229_0003_0001$$$::"Não, vá em frente e ria, Avenger.[lr]::
+41946::$$$message_0229_0003_0002$$$::É alívio ser brincado, como sempre."::
+41947::$$$message_0229_0004_0000$$$::[hfu][cm]"...E, eu [hfchance layer=1][textspeed mul=0.4][hfl]"[hfu]app[hfl]Huh? [hfu]rec[hfl]Wan[hfu]iate[hfl]t [hfu] [hfl]me [hfu]the[hfl]to [hfu] [hfl]la[hfu]co[hfl]ug[hfu]nc[hfl]h[hfu]er[hfl]?[hfu]n[hfl][hfu][line len=2]"[hfl]"[textspeed][lr]::
+41948::$$$message_0229_0004_0001$$$::"Posso mesmo? Legal, eu nem estava certa se ainda conseguia segurar!"::
+41949::$$$message_0229_0004_0002$$$::"Gyahahahahahahahaha![lr]::
+41950::$$$message_0229_0004_0003$$$::Mano, eu não acredito! Que tipo de garçonete explode o sistema hidráulico? Você é um terrorista?"[nolr][stopquake][stopmove]::
+41951::$$$message_0229_0004_0004$$$::"Estamos tentando quebrar algum recorde do Guiness!? [hfwww layer=1]Isso não é um quadrinho! Quantos anos você tem, sendo demitido de um café em meio dia, [wait canskip=0 time=400][hfangry layer=1][se storage=se604.wav][quake time=600 vmax=20 hmax=10][hfquake time=800 vmax=5 hmax=5 layer=message1 wait=0][move textoff=0 spread=1 mx=137 magnify=1.8 time=200 my=465 path=(137,465,255,0.6)(137,465,255,0.8) storage=hf_バッテン accel=0]guargh!"[wm canskip=0][nolr]::
+41952::$$$message_0229_0004_0005$$$::"Estamos no mesmo sinal, Avenger.[lr]::
+41953::$$$message_0229_0004_0006$$$::Cheguei também ao limite da minha paciência."::
+41954::$$$message_0229_0004_0007$$$::"Guh, w-wait...![lr]::
+41955::$$$message_0229_0004_0008$$$::Flutuando, estou flutuando!"[wm canskip=0]::
+41956::$$$message_0229_0004_0009$$$::"Você realmente [wait canskip=0 time=150] é [wait canskip=0 time=150] tão [wait canskip=0 time=150] um [wait canskip=0 time=150] Servo honesto [wait canskip=0 time=150].[lr]::
+41957::$$$message_0229_0004_0010$$$::É desperdiçado em alguém como eu."::
+41958::$$$message_0229_0005_0000$$$::"Tanto assim que posso acabar te destruindo agora."[nolr]::
+41959::$$$message_0229_0005_0001$$$::"Guargh."[lr]::
+41960::$$$message_0229_0005_0002$$$::"Isso, isso dói! [se storage=se055.wav]A cabeça vai quebrar. Já está metendo os dedos [se storage=se055.wav]até os cotovelos."::
+41961::$$$message_0229_0006_0000$$$::"Maldição, agora entendo por que você foi demitido."::
+41962::$$$message_0229_0006_0001$$$::"Heh... [hfburstblood layer=0]Então você pode ser minha molha de tomate!"::
+41963::$$$message_0229_0006_0002$$$::"GYAAAAH![lr]::
+41964::$$$message_0229_0006_0003$$$::Cale a boca, Mestre! Não use Fatalities em público!"::
+41965::$$$message_0229_0007_0000$$$::"...Argh, foi horrível.[lr]::
+41966::$$$message_0229_0007_0001$$$::Você sabe, não pode simplesmente fazer o que quiser só porque vai ter mais."::
+41967::$$$message_0229_0008_0000$$$::"Eu sinto que você tem sido um pouco curto de paciência ultimamente. Não consigo nem pensar em um epiteto mais destrutivo para você do que "arma humana" já."::
+41968::$$$message_0229_0008_0001$$$::"...Sim. Tentei não deixar acontecer de novo."::
+41969::$$$message_0229_0009_0000$$$::"Não há muito que me mova, mas me sinto especialmente sensível à minha própria ineptidão e às suas ofensas."::
+41970::$$$message_0229_0009_0001$$$::"Quando você me provoca, eu só me descontrola mesmo sabendo que você está brincando..."::
+41971::$$$message_0229_0009_0002$$$::"Hmm.[lr]::
+41972::$$$message_0229_0009_0003$$$::Bem. Se é só isso."::
+41973::$$$message_0229_0009_0004$$$::"É só água passada, então! Tenho certeza de que sou muito azarado em ter um Mestre com pele tão fina!"::
+41974::$$$message_0229_0009_0005$$$::"Hmm? Você está repentinamente tão animado de novo, Avenger."::
+41975::$$$message_0229_0009_0006$$$::"Não se preocupe com isso, Mestre![lr]::
+41976::$$$message_0229_0009_0007$$$::Okay, eu tenho um pequeno presente para minha linda, maidenly Master."::
+41977::$$$message_0229_0009_0008$$$::"A-adorable? Você está me zombando de novo?[line len=2][lr]::
+41978::$$$message_0229_0009_0009$$$::Hmm? Que é isso?"::
+41979::$$$message_0229_0009_0010$$$::"Parece bastante plausível, na verdade."::
+41980::$$$message_0229_0009_0011$$$::"...Resolva seus próprios desentendimentos. Bem-vindo ao Onsen Delirante. Limitado ao primeiro hóspede do ano. 2 horas a pé atrás do Templo Ryuudou..."::
+41981::$$$message_0229_0009_0012$$$::"É uma banheira alimentada pelo Santo Graal, acredita?[lr]::
+41982::$$$message_0229_0009_0013$$$::Os outros também estão levando a coisa a sério. Acho que poderíamos usar a distração."::
+41983::$$$message_0229_0009_0014$$$::"Suponho que sim.[lr]::
+41984::$$$message_0229_0009_0015$$$::Além disso, essa caligrafia e o espaçamento ominoso que causa ansiedade no leitor pertencem à Caren, sem dúvida nenhuma."::
+41985::$$$message_0229_0009_0016$$$::"Se ela estiver por trás disso, provavelmente significa que vamos enfrentá-la no fim."::
+41986::$$$message_0229_0009_0017$$$::"Ah, finalmente um confronto cara a cara, então?[lr]::
+41987::$$$message_0229_0009_0018$$$::Isso está começando a ficar interessante."::
+41988::$$$message_0229_0009_0019$$$::"Não consigo me conter se estou lutando como seu Servo, Bazett... Hehehe, [hfpop layer=1] talvez eu possa me soltar dessa vez!"::
+41989::$$$message_0229_0009_0020$$$::"Sim. Vamos derrotar Caren e obter Selo de Mando![lr]::
+41990::$$$message_0229_0009_0021$$$::E assim que nos tornarmos vencedores, finalmente posso levar o Lancer de volta!"::
+41991::$$$message_0229_0009_0022$$$::"Ah, é isso que você queria.[lr]::
+41992::$$$message_0229_0009_0023$$$::...Tsc. Talvez já tenhamos cavado nossas próprias tumbas..."[nolr]�w�

@@ -1,0 +1,208 @@
+DAT
+id=qid::label=str::text=lstr::
+9646::$$$message_0073_0000_0000$$$::O vento carrega a poeira seca para o ar.[lr]::
+9647::$$$message_0073_0000_0001$$$::A prática da manhã deve ter terminado, já que não há muita gente.[lr]::
+9648::$$$message_0073_0000_0002$$$::Assim que estava prestes a voltar[lr]::
+9649::$$$message_0073_0000_0003$$$::"Tudo certo! Encontrei o encanador!"[cacheimage storage=蒔寺制服01c(中)][wvs][wm canskip=0][movefg textoff=0 opacity=255 time=200 pos=c accel=3 storage=蒔寺制服01c(中)][se storage=se089.wav][wm canskip=0][lr]::
+9650::$$$message_0073_0000_0004$$$::...Ela vem correndo, falando de forma grosseira.::
+9651::$$$message_0073_0001_0000$$$::"E aí, Makidera? Você quebrou equipamento de novo enquanto criava um novo evento?"[lr]::
+9652::$$$message_0073_0001_0001$$$::"Cabeça de ferramenta! Você pode consertar algo, não importa quantas vezes ele quebre, mas uma vida perdida não volta ao mundo por segunda vez!"::
+9653::$$$message_0073_0002_0000$$$::"...Colocando de lado aquele apelido.[lr]::
+9654::$$$message_0073_0002_0001$$$::Isso não é algo que alguém que só quebra coisas diga. Reparar também é um trabalho chato... Hey, espera, o que você está puxando?"[lr]::
+9655::$$$message_0073_0002_0002$$$::"Para de babar! Não quero ter que pedir sua ajuda também, mas não é hora de trazer sentimentos pessoais para essa situação!"::
+9656::$$$message_0073_0003_0000$$$::"Makidera. Que jeito de falar é esse, fazendo com que eu não só conserte o equipamento da equipe de atletismo, mas também o seu próprio arroz eletrônico?"[lr]::
+9657::$$$message_0073_0003_0001$$$::"Rice scoop head![lr]::
+9658::$$$message_0073_0003_0002$$$::Se tem tempo de mergulhar no passado assim, então aproveite a fugaz possibilidade chamada vida!"::
+9659::$$$message_0073_0004_0000$$$::"...[lr]::
+9660::$$$message_0073_0004_0001$$$::Vida? O que você está falando?"[lr]::
+9661::$$$message_0073_0004_0002$$$::"Ela pode morrer!"[lr]::
+9662::$$$message_0073_0004_0003$$$::"Que é?!"[lr]::
+9663::$$$message_0073_0004_0004$$$::"Isso é irritante, mas você é a única que pode salvá-la!"::
+9664::$$$message_0073_0005_0000$$$::"Queeee?"[lr]::
+9665::$$$message_0073_0005_0001$$$::Não consigo ficar calado se ela me pede para salvar uma vida.[lr]::
+9666::$$$message_0073_0005_0002$$$::Kaede Makidera é imponente.[lr]::
+9667::$$$message_0073_0005_0003$$$::Ela sentiu o homem que acabará se tornando o campeão da justiça com aquele sentido de olfato!?::
+9668::$$$message_0073_0006_0000$$$::"Leve-me lá![lr]::
+9669::$$$message_0073_0006_0001$$$::Mesmo que isso signifique que o pescoço de um peeps de marshmallow caia, ou que seu pescoço caia se eu não te der minha lição de inglês até amanhã!"[lr]::
+9670::$$$message_0073_0006_0002$$$::"Bem, isso é um negócio diário![lr]::
+9671::$$$message_0073_0006_0003$$$::Mas, isso será para outra vez!"::
+9672::$$$message_0073_0007_0000$$$::"[move textoff=0 time=150 path=(292,152,255)(274,142,255)(255,152,255)(242,141,255)(226,155,255)(220,142,255) storage=由紀香制服01c(遠) accel=0]Agh...ugh...[cacheimage storage=由紀香制服01e(遠)][wvl][wm canskip=0][chgfg textoff=0 time=200 storage=由紀香制服01e(遠)][move textoff=0 time=150 path=(243,153,255)(260,141,255)(281,157,255)(299,144,255)(314,156,255)(331,142,255)(357,157,255)(373,142,255)(401,156,255)(419,141,255) storage=由紀香制服01e(遠) accel=0]ahh...[cacheimage storage=由紀香制服01d(遠)][wvl][wm canskip=0][chgfg textoff=0 time=200 storage=由紀香制服01d(遠)]oh,[wvl canskip=0 time=200][move textoff=0 time=100 path=(419,151,255)(430,141,255)(431,152,255) storage=由紀香制服01d(遠) accel=0] Maki!"[lr]::
+9673::$$$message_0073_0007_0001$$$::"Hmm... [line len=3][wvl][shock vmax=10 time=400 count=-3]O que? O que foi? Espera, era verdade!?[lr]::
+9674::$$$message_0073_0007_0002$$$::O que estava morrendo era Saegusa!?"[lr]::
+9675::$$$message_0073_0007_0003$$$::"Oh, Emiya."[lr]::
+9676::$$$message_0073_0007_0004$$$::"Shakei seu corpo assim... Onde dói?"[lr]::
+9677::$$$message_0073_0007_0005$$$::"Hmm?"::
+9678::$$$message_0073_0008_0000$$$::"Não, não eu. Olhe, lá em cima..."[lr]::
+9679::$$$message_0073_0008_0001$$$::Quando olho para o que ela está apontando...[wait canskip=0 time=400][se storage=se670.wav][lr]::
+9680::$$$message_0073_0008_0002$$$::Um gato de pelagem calico está aconchegado e enrolado em uma árvore.::
+9681::$$$message_0073_0009_0000$$$::"O que notou foi Yukika... Parece que aquela gatinha não consegue descer."[lr]::
+9682::$$$message_0073_0009_0001$$$::"Que clichê... de punchline."::
+9683::$$$message_0073_0010_0000$$$::"Um, Emiya, você pode salvá-lo?"[lr]::
+9684::$$$message_0073_0010_0001$$$::"Claro que tentarei."[lr]::
+9685::$$$message_0073_0010_0002$$$::"Estou contando com você. Se for você, talvez consiga alcançá-lo."[lr]::
+9686::$$$message_0073_0010_0003$$$::"Hmm, é você, Himuro.[lr]::
+9687::$$$message_0073_0010_0004$$$::Você não consegue salvá-lo se saltar? Você é o melhor em salto em altura, não é?"::
+9688::$$$message_0073_0011_0000$$$::"Kane não é bom com gatos."[lr]::
+9689::$$$message_0073_0011_0001$$$::"Sim, devemos arranhar o gatinho no Kane e brincar assim que o salvarmos!"[lr]::
+9690::$$$message_0073_0011_0002$$$::"Makino-G... Assim que levarmos o gato para baixo, eu te penderei na árvore em vez disso."[lr]::
+9691::$$$message_0073_0011_0003$$$::"Caramba, tão assustador...! O horror!"::
+9692::$$$message_0073_0012_0000$$$::Vamos direto debaixo do gato e medir a distância.[lr]::
+9693::$$$message_0073_0012_0001$$$::Sou definitivamente o mais alto entre esses membros.[lr]::
+9694::$$$message_0073_0012_0002$$$::Mas mesmo assim, não consigo alcançar a galha mesmo ficando de ponta-cabeça.[lr]::
+9695::$$$message_0073_0012_0003$$$::Mesmo que eu subisse na árvore, quando o tronco é tão fino, as ramas balançariam muito e o gatozinho seria arremessado.[lr]::
+9696::$$$message_0073_0012_0004$$$::Shake the trunk and drop the kitten... Mesmo Makidera não faria uma coisa dessas.::
+9697::$$$message_0073_0013_0000$$$::"Então, eu vou bater na árvore com todo o meu poder, então você e Yukicchi vão pegar quando ela cair."[lr]::
+9698::$$$message_0073_0013_0001$$$::"Hmm? Hmm? [cacheimage storage=由紀香制服01e(遠),由紀香制服01d(遠)][wvl][chgfg textoff=0 time=100 storage=由紀香制服01e(遠)][chgfg textoff=0 time=200 storage=由紀香制服01d(遠)]Hmm?"::
+9699::$$$message_0073_0014_0000$$$::"...Fui ingênuo.[lr]::
+9700::$$$message_0073_0014_0001$$$::Himuro, segure aquele idiota."[lr]::
+9701::$$$message_0073_0014_0002$$$::"Entendi."[lr]::
+9702::$$$message_0073_0014_0003$$$::"Caramba, o que vocês estão fazendo em uma emergência assim!?[lr]::
+9703::$$$message_0073_0014_0004$$$::Solta o líder!"::
+9704::$$$message_0073_0015_0000$$$::"Se eu saltar..."[lr]::
+9705::$$$message_0073_0015_0001$$$::Se eu me afastar um pouco da árvore... Um, dois, três!::
+9706::$$$message_0073_0016_0000$$$::"Ah, quase lá."[lr]::
+9707::$$$message_0073_0016_0001$$$::"Khh!"[lr]::
+9708::$$$message_0073_0016_0002$$$::Eu quase não percebo a galha do gatinho.[lr]::
+9709::$$$message_0073_0016_0003$$$::"Heheh, [cacheimage storage=蒔寺制服03b(中)][wvl][chgfg textoff=0 time=300 storage=蒔寺制服03b(中)]sua altura não é suficiente, hein..."[lr]::
+9710::$$$message_0073_0016_0004$$$::...Ela diz casualmente algo em que eu tenho ciúmes.::
+9711::$$$message_0073_0017_0000$$$::"Ah... Calma, calma. Seja uma boa gatinha, vamos te salvar agora."[lr]::
+9712::$$$message_0073_0017_0001$$$::"Mrgh, talvez eu tivesse conseguido alcançá-lo."[lr]::
+9713::$$$message_0073_0017_0002$$$::"Maldição. Se chega a isso, teremos que fazer Kane superar seu ódio pelos gatos?!"::
+9714::$$$message_0073_0018_0000$$$::"Enquanto segurava Kane, vocês dois inventem um papo doce sobre gatos para ela."[lr]::
+9715::$$$message_0073_0018_0001$$$::"Hmm? Hmm? Hmm?"[lr]::
+9716::$$$message_0073_0018_0002$$$::"Você é quem está sendo segurado."::
+9717::$$$message_0073_0019_0000$$$::"Heh, não me importe... Não há vida digna de ser protegida nesse momento.[lr]::
+9718::$$$message_0073_0019_0001$$$::Agora, continue contando para ela sobre a parte do corpo de um gato que você mais gosta, o gesto de um gato que você acha super fofo, seu mangá de gato favorito, os resultados da sua previsão de sorte do gato, ou qual tipo de gato você quer ser quando se reincarnar!"::
+9719::$$$message_0073_0020_0000$$$::"Hmm, não consigo alcançá-lo, apesar de tudo."[lr]::
+9720::$$$message_0073_0020_0001$$$::"Hey, não me ignore!"[lr]::
+9721::$$$message_0073_0020_0002$$$::"Você sabia, Maki?[lr]::
+9722::$$$message_0073_0020_0003$$$::Essa área era um cemitério e mesmo agora, em qualquer lugar que você escavem, ossos humanos..."[lr]::
+9723::$$$message_0073_0020_0004$$$::"Eu não! [wvl][shock vmax=20 time=300 count=-4]E não vou ouvir!"::
+9724::$$$message_0073_0021_0000$$$::"Bem, você também pode usar essa oportunidade para superar sua própria falha."[lr]::
+9725::$$$message_0073_0021_0001$$$::"Qual falha você está falando?"::
+9726::$$$message_0073_0022_0000$$$::"Bem, a história de que o terreno da escola costumava ser um cemitério não é rara.[lr]::
+9727::$$$message_0073_0022_0001$$$::Cemitérios são baratos depois de tudo... [cacheimage storage=氷室制服02d(近)][wvl][chgfg textoff=0 time=300 storage=氷室制服02d(近)]Hmm, o bloco de pedra que você está pisando agora poderia ser um mausoléu?"[lr]::
+9728::$$$message_0073_0022_0002$$$::"Eu não vou pisar nisso![lr]::
+9729::$$$message_0073_0022_0003$$$::Não mude de assunto de forma casual! [cacheimage storage=蒔寺制服04b(近)][wvl][wshock canskip=0][chgfg textoff=0 time=200 storage=蒔寺制服04b(近)]Também os fantasmas não saem de noite!"::
+9730::$$$message_0073_0023_0000$$$::"Mas houve um aumento nos relatos de avistamentos de fantasmas ao meio-dia ultimamente.[lr]::
+9731::$$$message_0073_0023_0001$$$::O fantasma de uma bela mulher com longos cabelos segurando uma embalagem do tamanho de uma urna aparece e desaparece subitamente junto com o relincho de um cavalo..."::
+9732::$$$message_0073_0024_0000$$$::"Não! Provavelmente é a irmã ou a mãe de um estudante, entregando o almoço à escola! Enquanto monta num cavalo![lr]::
+9733::$$$message_0073_0024_0001$$$::Paraia suspeitar de uma história tão bela e quente com seu coração endurecido!"[lr]::
+9734::$$$message_0073_0024_0002$$$::É só uma suposição aleatória, mas provavelmente está certa.::
+9735::$$$message_0073_0025_0000$$$::"Maki, se você fizer tanto barulho, o gatinho vai se assustar."[lr]::
+9736::$$$message_0073_0025_0001$$$::"É. Não consegue fazer algo a respeito disso, Makidera?"[lr]::
+9737::$$$message_0073_0025_0002$$$::"Por isso, eu a afastei.[lr]::
+9738::$$$message_0073_0025_0003$$$::Mas ela fugiu e voltou com você."::
+9739::$$$message_0073_0026_0000$$$::"Maldição, não deveria ter confiado no Emiya."[lr]::
+9740::$$$message_0073_0026_0001$$$::...[lr]::
+9741::$$$message_0073_0026_0002$$$::Não aguento ser chamado de inútil por esse Makidera.::
+9742::$$$message_0073_0027_0000$$$::"Tudo bem..."[lr]::
+9743::$$$message_0073_0027_0001$$$::"E-Então, Emiya? O que aconteceu?"[lr]::
+9744::$$$message_0073_0027_0002$$$::Pongo-me de quatro sob a galha.::
+9745::$$$message_0073_0028_0000$$$::"Makidera, fique em cima."[lr]::
+9746::$$$message_0073_0028_0001$$$::"Emiya..."[lr]::
+9747::$$$message_0073_0028_0002$$$::"Emiya..."[lr]::
+9748::$$$message_0073_0028_0003$$$::"Emiya..."::
+9749::$$$message_0073_0029_0000$$$::"Se ainda não consegue alcançar, pule do meu ombro."[lr]::
+9750::$$$message_0073_0029_0001$$$::"O que... Você tem certeza?"[lr]::
+9751::$$$message_0073_0029_0002$$$::"Eu não pareço ser muito, mas trabalho no treino. Posso suportar isso."::
+9752::$$$message_0073_0030_0000$$$::"Mas..."[lr]::
+9753::$$$message_0073_0030_0001$$$::"A altura é mais certa se eu te carregar nas costas, mas você é uma garota, afinal."::
+9754::$$$message_0073_0031_0000$$$::"Okay... Desculpe por te obrigar a fazer isso."[lr]::
+9755::$$$message_0073_0031_0001$$$::"Não se preocupe com isso."[lr]::
+9756::$$$message_0073_0031_0002$$$::"Man, I said such mean things to you though."[lr]::
+9757::$$$message_0073_0031_0003$$$::"Não me importa."::
+9758::$$$message_0073_0032_0000$$$::"Vou te devolver."[lr]::
+9759::$$$message_0073_0032_0001$$$::"É... Espera, tira os sapatos!"[lr]::
+9760::$$$message_0073_0032_0002$$$::"Tira?"[lr]::
+9761::$$$message_0073_0032_0003$$$::"Por que está fazendo essa cara de confuso?!"::
+9762::$$$message_0073_0033_0000$$$::Ao levantar os olhos, vejo com a ponta do olho as folhas mortas que estavam empilhadas no chão girarem para cima.[lr]::
+9763::$$$message_0073_0033_0001$$$::"...Hmm?"[lr]::
+9764::$$$message_0073_0033_0002$$$::Calçados rústicos caem diante dos meus olhos.::
+9765::$$$message_0073_0034_0000$$$::"Isso é tudo, meninas?"[lr]::
+9766::$$$message_0073_0034_0001$$$::O gato que estava na galha está nos braços de Archer.::
+9767::$$$message_0073_0035_0000$$$::"Hmm..."[lr]::
+9768::$$$message_0073_0035_0001$$$::"O que...?"[lr]::
+9769::$$$message_0073_0035_0002$$$::"Oh..."::
+9770::$$$message_0073_0036_0000$$$::"...O que você está fazendo aqui?"[lr]::
+9771::$$$message_0073_0036_0001$$$::"Bem, eu não estava planejando interferir, mas não aguentava ver tanta inutilidade."[lr]::
+9772::$$$message_0073_0036_0002$$$::[font italic=true]...Hmph.[font italic=false][lr]::
+9773::$$$message_0073_0036_0003$$$::Então deveria ter fingido ignorar e se afastado daqui.::
+9774::$$$message_0073_0037_0000$$$::"Oh... [cacheimage storage=由紀香制服02b(近)][wvl canskip=0 time=200][chgfg textoff=0 time=300 storage=由紀香制服02b(近)]Obrigado!"[lr]::
+9775::$$$message_0073_0037_0001$$$::O gato de pelagem listrada que foi dado a Saegusa certamente se sentiu aliviado, como se tivesse se encolhido ao ser segurado por uma mãe gata.[lr]::
+9776::$$$message_0073_0037_0002$$$::...Não aguento aquele cara, mas graças ao Archer, o gatinho foi salvo.::
+9777::$$$message_0073_0038_0000$$$::"Um, qual é o seu nome...?"[lr]::
+9778::$$$message_0073_0038_0001$$$::"Isso não vale a pena mencionar. Vou guardar isso para quando nos encontrarmos de verdade novamente."::
+9779::$$$message_0073_0039_0000$$$::"Tá legal, como é cool.[lr]::
+9780::$$$message_0073_0039_0001$$$::Ele é como um herói da justiça."[lr]::
+9781::$$$message_0073_0039_0002$$$::"...[resumevoice]Mrgh?"::
+9782::$$$message_0073_0040_0000$$$::"Espere. O que você está dizendo, Makidera?"[lr]::
+9783::$$$message_0073_0040_0001$$$::"Eu quero dizer, ele é.[lr]::
+9784::$$$message_0073_0040_0002$$$::Ele aparece como o vento e salva os fracos."[lr]::
+9785::$$$message_0073_0040_0003$$$::"Sim, e com um coração grande que ele não exibe."[lr]::
+9786::$$$message_0073_0040_0004$$$::"Ele é encantador, como o protagonista de um drama da época."::
+9787::$$$message_0073_0041_0000$$$::"Isso não está muito bom.[lr]::
+9788::$$$message_0073_0041_0001$$$::Entendo.[lr]::
+9789::$$$message_0073_0041_0002$$$::Olha, um forte senso de justiça também criaria fortes inimigos ao mesmo tempo.[lr]::
+9790::$$$message_0073_0041_0003$$$::O que espera no fim disso é uma guerra sangrenta de desgaste. Conflito só será criado se você não for neutro e moderado.[lr]::
+9791::$$$message_0073_0041_0004$$$::Entendeu, senhoras? É bom ser particular sobre as coisas, mas não é bom ser exaustivo."::
+9792::$$$message_0073_0042_0000$$$::"Um... Okay. Você está dizendo que não é bom se destacar em apenas uma habilidade?"[lr]::
+9793::$$$message_0073_0042_0001$$$::"Não, não é sobre habilidade, mas sobre como você pensa.[lr]::
+9794::$$$message_0073_0042_0002$$$::Um "campeão da justiça" é um modo de ser que só seria visto como inimigo por alguém que é o oposto completo."[line len=2][lr]::
+9795::$$$message_0073_0042_0003$$$::"O que você está dizendo? Ser um campeão da justiça é uma coisa boa. É legal[line len=2]todo mundo tem um modelo![lr]::
+9796::$$$message_0073_0042_0004$$$::Melhor ainda, é fácil de entender!"::
+9797::$$$message_0073_0043_0000$$$::"A única coisa que é fácil de entender é o apelido.[lr]::
+9798::$$$message_0073_0043_0001$$$::Um conteúdo cheio de contradições. Um herói da justiça é um sonho fútil que aqueles que não se conformam com a sociedade admiram.[lr]::
+9799::$$$message_0073_0043_0002$$$::Se houver algo como justiça verdadeira, então esse é um sociedade que não precisa de um herói da justiça. Se houver o mal nisso, é a feiura de pessoas que lamentam o mundo que não vai ao seu modo e anseiam por um herói da justiça.[lr]::
+9800::$$$message_0073_0043_0003$$$::Bem, como eu deveria dizer? Um herói da justiça é outro nome para a fraqueza humana."::
+9801::$$$message_0073_0044_0000$$$::"..."[lr]::
+9802::$$$message_0073_0044_0001$$$::A crítica do Archer continua.[lr]::
+9803::$$$message_0073_0044_0002$$$::Quero protestar, mas como alguém que não conseguiu salvar o gato, só posso calar a boca e ouvir.::
+9804::$$$message_0073_0045_0000$$$::"Entendam isso.[line len=2]"::
+9805::$$$message_0073_0046_0000$$$::"Haha, você não precisa se envergonhar com sua idade."[lr]::
+9806::$$$message_0073_0046_0001$$$::"Hmm, desejar que outros falem em nome da justiça clara em si mesmo é o mal. Fascinante."[lr]::
+9807::$$$message_0073_0046_0002$$$::"Here kitty, tell Mr. Champion of Justice thank you."::
+9808::$$$message_0073_0047_0000$$$::"H-Hold on. Vocês estava mesmo escutando?[lr]::
+9809::$$$message_0073_0047_0001$$$::...Não tem jeito. Isso vai ficar um pouco longo, mas é minha responsabilidade por ter salvado o gatinho por um capricho; vou corrigir você de forma elaborada.[lr]::
+9810::$$$message_0073_0047_0002$$$::Sim, por exemplo, esse gatinho. Foi salvo por um herói da justiça, então nesse caso foi bom. No entanto, dentro dos corações de alguns que foram salvos, semeia um pensamento ingênuo de que algum ser milagroso os salvaria mesmo que voltassem a se meter em perigo. Mas isso atrapalharia o crescimento e o progresso de alguém. Já se deu conta de que um herói da justiça é uma existência hipócrita e egocêntrica que é um incômodo para os outros?[line len=2]"::
+9811::$$$message_0073_0048_0000$$$::"É um gatinho; não entenderá algo tão difícil. Veja, está ligado a você."[lr]::
+9812::$$$message_0073_0048_0001$$$::"É a orgulho de um guardião. Em vez de algo temporário, como oferecer uma mão, acredito que você deve oferecer uma mão com a determinação de apoiá-los para o resto da vida."[lr]::
+9813::$$$message_0073_0048_0002$$$::"Então, qual é o seu ponto?[lr]::
+9814::$$$message_0073_0048_0003$$$::Você é o campeão da justiça; vem, não seja tímido e nos diga direto!"::
+9815::$$$message_0073_0049_0000$$$::"Como eu disse, chamar-me de herói da justiça é [line len=2]"[lr]::
+9816::$$$message_0073_0049_0001$$$::"Bem, você não vai nos dizer qual é o seu nome, então não sabemos mais como chamá-lo."[lr]::
+9817::$$$message_0073_0049_0002$$$::"Mesmo criticar sua atitude de autocrítica é ainda mais impressionante."[lr]::
+9818::$$$message_0073_0049_0003$$$::"Cuteza é justiça, entende?"::
+9819::$$$message_0073_0050_0000$$$::"Khh, pare de me olhar com esses olhos inocentes, gatinha...![lr]::
+9820::$$$message_0073_0050_0001$$$::Eu te salvei apenas como uma interação com um animal conhecido como gato; não te salvei como uma pessoa...!"[lr]::
+9821::$$$message_0073_0050_0002$$$::"Mas, o gato está super ligado a você!"[lr]::
+9822::$$$message_0073_0050_0003$$$::"Ah, você tem razão. Já tirou as unhas e está arranhando você."::
+9823::$$$message_0073_0051_0000$$$::"Mrgh... Ei, moleque.[lr]::
+9824::$$$message_0073_0051_0001$$$::E você diz algo? O que aconteceu com sua habitual linguagem grosseira?[lr]::
+9825::$$$message_0073_0051_0002$$$::Você poderia ao menos dizer: "Como pode ser gostado pelos gatos?"[lr]::
+9826::$$$message_0073_0051_0003$$$::"Bem, é nada.[lr]::
+9827::$$$message_0073_0051_0004$$$::Não tenho o direito de dizer isso e aquilo a você quando nem mesmo consegui salvar o gato.[lr]::
+9828::$$$message_0073_0051_0005$$$::E eu posso ver que o gato está claramente ligado a você."[lr]::
+9829::$$$message_0073_0051_0006$$$::Cair em amor, eu diria.::
+9830::$$$message_0073_0052_0000$$$::"Guh...[cacheimage storage=アーチャー私服02c(中)][wvl canskip=0 time=400][chgfg textoff=0 time=300 storage=アーチャー私服02c(中)]não adianta falar.[lr]::
+9831::$$$message_0073_0052_0001$$$::Eu não tenho mais tempo. Vou me retirar aqui.[lr]::
+9832::$$$message_0073_0052_0002$$$::Moças, deixem que esse gatinho vá para a floresta. Se não deixarem que aprenda a lição, esse gatinho ficará como é."[lr]::
+9833::$$$message_0073_0052_0003$$$::Archer ageia sentimentalmente enquanto se afasta.::
+9834::$$$message_0073_0053_0000$$$::"Ah, ele partiu... Acho que vou descobrir o que aconteceu."[lr]::
+9835::$$$message_0073_0053_0001$$$::"E aí com ele? Aquela pessoa com justiça vermelha não é amigável."[lr]::
+9836::$$$message_0073_0053_0002$$$::"Ele deve estar tímido. Acho que não estava em um mau humor, mas estava segurando um sorriso."::
+9837::$$$message_0073_0054_0000$$$::"..."[lr]::
+9838::$$$message_0073_0054_0001$$$::Archer saiu.[lr]::
+9839::$$$message_0073_0054_0002$$$::Ele parecia reclamar de tudo, mas no fim foi ele quem salvou o gato, e eu não podia fazer nada.::
+9840::$$$message_0073_0055_0000$$$::"...Maldição, preciso treinar mais."[lr]::
+9841::$$$message_0073_0055_0001$$$::Cairo aos meus joelhos.[lr]::
+9842::$$$message_0073_0055_0002$$$::O sentimento de derrota pesa pesado nas minhas costas.::
+9843::$$$message_0073_0056_0000$$$::"Heh... Aperfeiçoe suas habilidades de kung fu, idiota."[lr]::
+9844::$$$message_0073_0056_0001$$$::"Um, por que você está sentado em cima de mim?"[lr]::
+9845::$$$message_0073_0056_0002$$$::"Bem, miu, eu achei que você queria deitar porque não conseguia levantar em absoluto, miu."::
+9846::$$$message_0073_0057_0000$$$::"..."[lr]::
+9847::$$$message_0073_0057_0001$$$::Ela está esfregando sal na ferida.[lr]::
+9848::$$$message_0073_0057_0002$$$::O gato de estimação me olha com olhos inocentes, como se estivesse me incentivando.[lr]::
+9849::$$$message_0073_0057_0003$$$::Cara, sendo pitado por um gatinho... Maldição, se só tivesse mais altura...!::
+909765::$$$message_9073_0034_0000$$$::"Isso é tudo, meninas?"[r]::
+

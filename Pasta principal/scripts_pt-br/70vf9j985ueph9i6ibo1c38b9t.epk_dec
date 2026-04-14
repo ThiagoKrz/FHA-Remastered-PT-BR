@@ -1,0 +1,494 @@
+DAT
+id=qid::label=str::text=lstr::
+40030::$$$message_0273_0000_0000$$$::Isso mesmo, fiz um pacto com a Saber. Hoje é um dia de folga, então é perfeito.[lr]::
+40031::$$$message_0273_0000_0001$$$::"Os sapatos de Saber estão... Está bem, estão aqui."[lr]::
+40032::$$$message_0273_0000_0002$$$::Ataque enquanto o ferro está quente. Devo contactar a Fuji-nee, que está na escola, primeiro...::
+40033::$$$message_0273_0001_0000$$$::Saber e eu saímos de casa.[lr]::
+40034::$$$message_0273_0001_0001$$$::As preparações terminaram surpreendentemente bem.[lr]::
+40035::$$$message_0273_0001_0002$$$::Chamo a escola e peço para me conectar ao clube de arco. Quando menciono a visita à escola com Fuji-nee...[lr]::
+40036::$$$message_0273_0001_0003$$$::"Hmm, você quer fazer isso hoje? Tá, vou conversar com o diretor. Oh, leva o almoço também!"[lr]::
+40037::$$$message_0273_0001_0004$$$::Ela dá o sinal verde de forma casual.::
+40038::$$$message_0273_0002_0000$$$::Gastei cerca de uma hora preparando o almoço, mas ainda é apenas um pouco depois das 11 da manhã.[lr]::
+40039::$$$message_0273_0002_0001$$$::Foi algo que pensei num momento de capricho, então a turnê poderia ter sido à tarde, mas...::
+40040::$$$message_0273_0003_0000$$$::"Não, se vamos, devemos ir logo![lr]::
+40041::$$$message_0273_0003_0001$$$::Não se preocupe com meus planos. [cacheimage storage=セイバー私服10a(中)][wvl canskip=0 time=400][shock vmax=20 time=300 count=-3][chgfg textoff=0 time=300 storage=セイバー私服10a(中)]Vamos embora!"[lr]::
+40042::$$$message_0273_0003_0002$$$::Saber é agressiva por um momento e segue em frente.::
+40043::$$$message_0273_0004_0000$$$::"Mas... você não acha que isso é um pouco repentino, Saber?"[lr]::
+40044::$$$message_0273_0004_0001$$$::"...? O que é, Shirou?"[lr]::
+40045::$$$message_0273_0004_0002$$$::"Você acha que corremos demais? Uma visita à escola terminaria em meio dia, então poderíamos ter se preparado um pouco mais."[lr]::
+40046::$$$message_0273_0004_0003$$$::"Não, isso já é suficiente.[lr]::
+40047::$$$message_0273_0004_0004$$$::Você é despreocupado quando vai para a escola, então por favor, não fique tão nervoso e vá para a escola como costuma."::
+40048::$$$message_0273_0005_0000$$$::"Como de costume... Bem, tentarei."[lr]::
+40049::$$$message_0273_0005_0001$$$::"Sim. Então, devemos apressar-nos, Shirou. Se não apressarmos, perderemos o que é chamado de "intervalo para almoço"."[lr]::
+40050::$$$message_0273_0005_0002$$$::Saber me apressa.[lr]::
+40051::$$$message_0273_0005_0003$$$::...Hmm... Acho que não sei o que Saber está animada.::
+40052::$$$message_0273_0006_0000$$$::Subo a colina como costumo fazer.[lr]::
+40053::$$$message_0273_0006_0001$$$::Olho para Saber por um instante.[lr]::
+40054::$$$message_0273_0006_0002$$$::...Ela está fazendo uma expressão ininteligível.::
+40055::$$$message_0273_0007_0000$$$::Ainda não consigo compreender suas intenções quando chegamos à porta da escola.[lr]::
+40056::$$$message_0273_0007_0001$$$::"Mrg...?"[lr]::
+40057::$$$message_0273_0007_0002$$$::Não sei se é minha imaginação, mas o prédio da escola parece mais animado do que o habitual.::
+40058::$$$message_0273_0008_0000$$$::"Shirou. Hoje deveria ser um dia de folga..."[lr]::
+40059::$$$message_0273_0008_0001$$$::"É... Isso é estranho, até as atividades do clube não são assim movimentadas... Oh.[lr]::
+40060::$$$message_0273_0008_0002$$$::Ah, sim, [wvl] [shock vmax=10 time=400 count=-3]a festa cultural!"[lr]::
+40061::$$$message_0273_0008_0003$$$::É quase hora do festival cultural.[lr]::
+40062::$$$message_0273_0008_0004$$$::Se há uma turma com um grande projeto, não é estranho se vários alunos venham à escola.::
+40063::$$$message_0273_0009_0000$$$::"Festival cultural...? Isso significa que você realiza um festival na escola?"[lr]::
+40064::$$$message_0273_0009_0001$$$::"Sim. Os alunos realizam um festival uma vez por ano. Parece que há várias pessoas na escola se preparando para isso.[lr]::
+40065::$$$message_0273_0009_0002$$$::Mas não é nada para se preocupar. Provavelmente ainda só tem uns trinta pessoas."[lr]::
+40066::$$$message_0273_0009_0003$$$::"..."[lr]::
+40067::$$$message_0273_0009_0004$$$::Saber fica em silêncio de repente.[lr]::
+40068::$$$message_0273_0009_0005$$$::Ela era tão confiante até há pouco tempo, mas agora está subitamente inquieta.::
+40069::$$$message_0273_0010_0000$$$::"Hmm? Queria ver uma escola deserta?"[lr]::
+40070::$$$message_0273_0010_0001$$$::"Não, isso não é isso... Achei que poderia causar problema se houvesse outros alunos.[lr]::
+40071::$$$message_0273_0010_0002$$$::...Um, se eu tivesse sabido, eu teria emprestado um uniforme escolar da Rin."[lr]::
+40072::$$$message_0273_0010_0003$$$::"...O que?"::
+40073::$$$message_0273_0011_0000$$$::Fico tão surpreso com aquela declaração que mudo de estar tocado para estar pasmo.[lr]::
+40074::$$$message_0273_0011_0001$$$::Saber... usando... o uniforme Homurahara...?[lr]::
+40075::$$$message_0273_0011_0002$$$::E-e-e... o que é esse fenômeno que eu nem sequer pensei?[lr]::
+40076::$$$message_0273_0011_0003$$$::O uniforme da Tohsaka seria muito grande para a Saber[line len=2]não, acho que nem sequer ficaria bom nela no começo[line len=2]espera, se ela estiver usando uniforme, isso significaria que estaria na mesma turma que eu[line len=2][lr]::
+40077::$$$message_0273_0011_0004$$$::"[shock vmax=10 time=300 count=-3]Vamos voltar, Saber. Vamos voltar agora mesmo. Está tudo bem, se a Tohsaka não funcionar, então há a Sakura.[line len=2]"::
+40078::$$$message_0273_0012_0000$$$::"Mas, pensando bem, sou apenas um visitante.[lr]::
+40079::$$$message_0273_0012_0001$$$::Ficaria confuso se estivesse usando o uniforme de Homurahara."[lr]::
+40080::$$$message_0273_0012_0002$$$::"Oof."[lr]::
+40081::$$$message_0273_0012_0003$$$::O tempo de busca é meramente de três segundos.[lr]::
+40082::$$$message_0273_0012_0004$$$::Saber chega à sua conclusão com a serenidade de alguém em combate.::
+40083::$$$message_0273_0013_0000$$$::"Lamento, Shirou.[lr]::
+40084::$$$message_0273_0013_0001$$$::Dizia para ser como costuma ser, mas estava me preocupando demais.[lr]::
+40085::$$$message_0273_0013_0002$$$::Shirou, há algo errado? Você parece estar extremamente deprimido."[lr]::
+40086::$$$message_0273_0013_0003$$$::"...Não, é nada.[lr]::
+40087::$$$message_0273_0013_0004$$$::É exatamente como você disse. Não há necessidade de se preocupar com suas próprias roupas, então vamos entrar."[wvs][clfg textoff=0 pos=all rule=シャッター左から time=400]::
+40088::$$$message_0273_0014_0000$$$::Meu sonho acabou.[lr]::
+40089::$$$message_0273_0014_0001$$$::Suspiro e vou para a escola.[lr]::
+40090::$$$message_0273_0014_0002$$$::Saber me observa entrar primeiro e naturalmente passa pelo portão da escola.::
+40091::$$$message_0273_0015_0000$$$::Vou para a academia de arco agora.[lr]::
+40092::$$$message_0273_0015_0001$$$::Desde que chegamos, Saber estava se preparando para como ela ia se destacar, então queríamos tomar nosso tempo até o almoço... terminar... mas...[lr]::
+40093::$$$message_0273_0015_0002$$$::"AJUDA! Emiya do 3-C trouxe uma estrangeira loira para a escola!!!"::
+40094::$$$message_0273_0016_0000$$$::O plano desmorona assim que começa.[lr]::
+40095::$$$message_0273_0016_0001$$$::Fora de todos que poderiam ter nos visto, Gai Gotou, um andarilho de megafone, está alongando-se com a equipe de atletismo...!::
+40096::$$$message_0273_0017_0000$$$::"WHAAATTTT!?!?"[rf][lr]::
+40097::$$$message_0273_0017_0001$$$::Os garotos do clube de atletismo ficam loucos.[lr]::
+40098::$$$message_0273_0017_0002$$$::Saber brilha mesmo de longe.[lr]::
+40099::$$$message_0273_0017_0003$$$::Os garotos atletas, famintos pela linda garota, formam um círculo como se fosse um muro e observam Saber enquanto grunhem como animais.[lr]::
+40100::$$$message_0273_0017_0004$$$::Inconveniente bloqueando o caminho para a sociedade de kyudo.::
+40101::$$$message_0273_0018_0000$$$::"Quem é esse? Uau! Uma modelo? Alguém do tipo "shoot"? Ou minha futura esposa que eu não sabia que existia!?"[lr]::
+40102::$$$message_0273_0018_0001$$$::"Duvido que ela tenha a nossa idade. Espero que ela entre no clube de atletismo, mesmo que não venha aqui."[lr]::
+40103::$$$message_0273_0018_0002$$$::"Hmm, ela nem precisa ser uma garota."[lr]::
+40104::$$$message_0273_0018_0003$$$::"A transferente... É um momento estranho para isso. Talvez ela seja uma das funcionárias. Você sabe, nossas professoras de inglês eram todas quentes. Não me diga, ela é uma professora substituta de inglês?"[lr]::
+40105::$$$message_0273_0018_0004$$$::"Uma professora pequena...!? Oh cara, quero abraçá-la!"[lr]::
+40106::$$$message_0273_0018_0005$$$::"Hmm, não diga isso nem que seja uma brincadeira! Minhas notas estão ruins, posso acabar ficando para trás!"::
+40107::$$$message_0273_0019_0000$$$::"..."[lr]::
+40108::$$$message_0273_0019_0001$$$::Os animais fazem barulho.[lr]::
+40109::$$$message_0273_0019_0002$$$::Mas eles não têm coragem.[lr]::
+40110::$$$message_0273_0019_0003$$$::Eles mantêm vinte metros de distância e só observam Saber de longe.::
+40111::$$$message_0273_0020_0000$$$::"Shirou... É isso o festival cultural?"[lr]::
+40112::$$$message_0273_0020_0001$$$::"Não. Eles são apenas um obstáculo."[lr]::
+40113::$$$message_0273_0020_0002$$$::Mas eu não acho que valha a pena pensar a mais nisso.[lr]::
+40114::$$$message_0273_0020_0003$$$::Eles parecem um grupo louco, mas há um motivo pelo qual chegaram a ser assim.[lr]::
+40115::$$$message_0273_0020_0004$$$::É por isso que...::
+40116::$$$message_0273_0021_0000$$$::"Como assim, não tem jeito! Hey, Yukicchi, Kane![lr]::
+40117::$$$message_0273_0021_0001$$$::Lá em cima, lá em cima, é Saber, é Saber! [cacheimage storage=蒔寺制服02c(遠)] [wvl] [chgfg textoff=0 time=300 storage=蒔寺制服02c(遠)] Wow, ela é linda como sempre, maldita seja!"[lr]::
+40118::$$$message_0273_0021_0002$$$::Um trem em disparada passa, arremessando a multidão que o cerca.[lr]::
+40119::$$$message_0273_0021_0003$$$::...Sim, porque...[lr]::
+40120::$$$message_0273_0021_0004$$$::A equipe de atletismo não tem meninas o suficiente...!::
+40121::$$$message_0273_0022_0000$$$::"Ei! Você tem muito tempo livre como sempre, Emiya![lr]::
+40122::$$$message_0273_0022_0001$$$::Então, o que você está fazendo hoje? Vem aqui mostrar aquele beleza para nossos idiotas?"[lr]::
+40123::$$$message_0273_0022_0002$$$::Kaede Makidera.[lr]::
+40124::$$$message_0273_0022_0003$$$::Essa garota comum do clube de atletismo também está cheia de energia hoje.::
+40125::$$$message_0273_0023_0000$$$::"Ah, são mesmo Saber e Emiya.[lr]::
+40126::$$$message_0273_0023_0001$$$::Olá, muito tempo sem ver. Bom dia, Emiya."[lr]::
+40127::$$$message_0273_0023_0002$$$::E essa é Yukika Saegusa.[lr]::
+40128::$$$message_0273_0023_0003$$$::Ela é uma excepcional membro feminina da equipe de atletismo.::
+40129::$$$message_0273_0024_0000$$$::"[shock vmax=10 time=400 count=-3]Ei, boa manhã."[lr]::
+40130::$$$message_0273_0024_0001$$$::"Bom dia, Yukika. Você me lembrou."[lr]::
+40131::$$$message_0273_0024_0002$$$::"Sim. Também estou feliz que você me lembre mesmo que só nos tenhamos conhecido uma vez."::
+40132::$$$message_0273_0025_0000$$$::A atmosfera frenética torna-se pacífica imediatamente.[lr]::
+40133::$$$message_0273_0025_0001$$$::Assim deveria ser o gramado da escola de manhã.::
+40134::$$$message_0273_0026_0000$$$::"Mais luz! O que é que vocês estão fazendo, dando tanta atenção para Yukika e ignorando eu?"[lr]::
+40135::$$$message_0273_0026_0001$$$::"Há muito que não te via, Kaede. Como você está de uniforme escolar, deve ter terminado a prática do clube. Estou decepcionado por não poder ver sua maravilhosa corrida."::
+40136::$$$message_0273_0027_0000$$$::"Hmm? [cacheimage storage=蒔寺制服01f頬(中)][wvl canskip=0 time=500][chgfg textoff=0 time=300 storage=蒔寺制服01f頬(中)]Um. Sim. Obrigado."[lr]::
+40137::$$$message_0273_0027_0001$$$::O momento em que Saber fala com ela, Makidera para e começa a se sentir insegura.[lr]::
+40138::$$$message_0273_0027_0002$$$::Isso não faz sentido.::
+40139::$$$message_0273_0028_0000$$$::"H-hey Emiya, posso te perguntar algo?"[lr]::
+40140::$$$message_0273_0028_0001$$$::"O que? Estou apressado, então faça rápido."[lr]::
+40141::$$$message_0273_0028_0002$$$::"...Um, Saber é estrangeira? Seus pais não são ambos japoneses, certo?"[lr]::
+40142::$$$message_0273_0028_0003$$$::"Hmm?"[lr]::
+40143::$$$message_0273_0028_0004$$$::Não consigo evitar franzir as sobrancelhas.[lr]::
+40144::$$$message_0273_0028_0005$$$::O que ela está dizendo?::
+40145::$$$message_0273_0029_0000$$$::"Você pode dizer só olhando para ela. Saber é 100% britânica."[lr]::
+40146::$$$message_0273_0029_0001$$$::Oh... Bem, não sei se é cem por cento ou não. Saber está misturado com algo imenso que não é humano.[lr]::
+40147::$$$message_0273_0029_0002$$$::"Hmm... Eu sabia.[lr]::
+40148::$$$message_0273_0029_0003$$$::O-oh, o que eu faço, o que eu devo fazer, Emiya!? [cacheimage storage=蒔寺制服01g(近)][wvl canskip=0 time=400][chgfg textoff=0 time=200 storage=蒔寺制服01g(近)]Não consigo falar nenhuma língua estrangeira!"::
+40149::$$$message_0273_0030_0000$$$::"..."[lr]::
+40150::$$$message_0273_0030_0001$$$::Não sei o que ela pensa que chamar a atenção de mim sobre isso vai fazer.[lr]::
+40151::$$$message_0273_0030_0002$$$::Um, Makidera...[lr]::
+40152::$$$message_0273_0030_0003$$$::"M-Maki. Saber estava falando em japonês o tempo todo. Ela disse: "É um longo tempo sem ver."::
+40153::$$$message_0273_0031_0000$$$::"W-whattt!? De jeito nenhum, a Saber não disse, [font color=0x9E0326]"Mostre-me a mais linda dessa escola. Heheheh, é você depois de tudo, Kaede Makidera? Vou te matar agora"[rf]!?"[lr]::
+40154::$$$message_0273_0031_0001$$$::"...Como seria simples se isso fosse verdade."::
+40155::$$$message_0273_0032_0000$$$::"Oh. Himuro, você chegou em um bom momento. Por favor, me ajude."[lr]::
+40156::$$$message_0273_0032_0001$$$::"Entendi. Desculpe, Emiya.[lr]::
+40157::$$$message_0273_0032_0002$$$::...O senso de cuidado desse pequeno animal aumentou ao ver uma pessoa desconhecida. Ela é inofensiva, então não se preocupe."[lr]::
+40158::$$$message_0273_0032_0003$$$::"Rahhh! Quem você está chamando de macaco!? ...[cacheimage storage=蒔寺制服01g(中)][wvl canskip=0 time=500][chgfg time=200 storage=蒔寺制服01g(中)]Será que é você, Yukicchi!?"::
+40159::$$$message_0273_0033_0000$$$::"Pois bem, o que vocês dois estão fazendo hoje?"[lr]::
+40160::$$$message_0273_0033_0001$$$::"Bem..."[lr]::
+40161::$$$message_0273_0033_0002$$$::Hmm...[lr]::
+40162::$$$message_0273_0033_0003$$$::Ela ignorava-a agora de forma casual.::
+40163::$$$message_0273_0034_0000$$$::"Venho aqui para dar uma volta pela escola. Shirou está me mostrando o caminho."[lr]::
+40164::$$$message_0273_0034_0001$$$::"Huh? Quem é Shirou? ...[cacheimage storage=蒔寺制服01g(中)][wvl canskip=0 time=500][chgfg time=200 storage=蒔寺制服01g(中)]Pode ser você, Yukicchi!?"::
+40165::$$$message_0273_0035_0000$$$::"Hmm. Então você acha que eu vou transferir aqui, Saber?"[lr]::
+40166::$$$message_0273_0035_0001$$$::...Que impressionante.[lr]::
+40167::$$$message_0273_0035_0002$$$::Saegusa não tem intenção maliciosa. Posso descrever isso apenas como ela ter se acostumado instintivamente à natureza cômica de Makidera.::
+40168::$$$message_0273_0036_0000$$$::"Estou brincando...![lr]::
+40169::$$$message_0273_0036_0001$$$::Estou triste, alguém responda a mim! Não importa se você me chamar de macaco, então me preste atenção!"[lr]::
+40170::$$$message_0273_0036_0002$$$::"Oh. Maki, o primeiro nome de Emiya é Shirou. Você não sabia porque está em uma turma diferente, certo?"[lr]::
+40171::$$$message_0273_0036_0003$$$::"Ah... Você é tão gentil, Yukicchi...[lr]::
+40172::$$$message_0273_0036_0004$$$::Mas eu recuso-me a lembrar o nome de Emiya."::
+40173::$$$message_0273_0037_0000$$$::"...Desculpe novamente. Makidera é um covarde que só precisa agir como o vilão."[lr]::
+40174::$$$message_0273_0037_0001$$$::"Desculpe-me!? Do seu lado você está, [wvl][shock vmax=15 time=300 count=-3]Kane!?"[lr]::
+40175::$$$message_0273_0037_0002$$$::"Estou mais do lado de quem estiver mais calmo.[lr]::
+40176::$$$message_0273_0037_0003$$$::Agora, Saber, é verdade que você está fazendo um passeio para transferir?"::
+40177::$$$message_0273_0038_0000$$$::"Não, isso não é o motivo pelo qual vim.[lr]::
+40178::$$$message_0273_0038_0001$$$::Eu só queria tentar entrar nessa escola."[lr]::
+40179::$$$message_0273_0038_0002$$$::"Y-yeah. Fuj[line len=2]i-nee disse que interações desse tipo são importantes."[lr]::
+40180::$$$message_0273_0038_0003$$$::"Senhorita Fujimura? ...Entendi. Ela é responsável por inglês. Já vejo como ela poderia ter essa ideia."::
+40181::$$$message_0273_0039_0000$$$::"Hmm? Então, o que isso significa, Kane?"[lr]::
+40182::$$$message_0273_0039_0001$$$::"Em termos simples, significa troca cultural.[lr]::
+40183::$$$message_0273_0039_0002$$$::Ela provavelmente está tentando fazer Saber, que cresceu em um ambiente de vida diferente do nosso, aprender sobre um tipo de vida diferente que ela normalmente não conheceria"[line len=2][lr]::
+40184::$$$message_0273_0039_0003$$$::"Hmm."::
+40185::$$$message_0273_0040_0000$$$::"Eu não direi quem, mas acho que a ideia era fazer alguém perder a insegurança com línguas estrangeiras ao interagir com estrangeiros."[lr]::
+40186::$$$message_0273_0040_0001$$$::"Vocês fizeram um ótimo trabalho, Fujimura-san.[lr]::
+40187::$$$message_0273_0040_0002$$$::Achei que ela era só uma moleca legal!"[lr]::
+40188::$$$message_0273_0040_0003$$$::...Makidera deve ressoar com ela como espíritos parentes...::
+40189::$$$message_0273_0041_0000$$$::"Entendi, então Taiga estava pensando tão à frente como educadora."[lr]::
+40190::$$$message_0273_0041_0001$$$::"Bem, ela é uma professora de verdade, afinal."[lr]::
+40191::$$$message_0273_0041_0002$$$::Ela pode passar a maior parte da vida se divertindo, mas torna-se uma pessoa sábia quando é importante.[lr]::
+40192::$$$message_0273_0041_0003$$$::O motivo pelo qual a permissão para visitar foi aprovada facilmente foi também porque Fuji-nee havia tomado ação anteriormente.::
+40193::$$$message_0273_0042_0000$$$::"Pelo jeito, Emiya. O que é essa bolsa?"[lr]::
+40194::$$$message_0273_0042_0001$$$::"Este é o almoço que a senhorita Fujimura me pediu para entregar. Vou levá-lo até o campo de tiro."[lr]::
+40195::$$$message_0273_0042_0002$$$::"Então você deveria apressar-se e entregá-lo. Vamos afastar os membros masculinos que estão se arraigando por lá."[lr]::
+40196::$$$message_0273_0042_0003$$$::"É isso. Eles estão deixando de treinar e só falando de coisas bobas. [cacheimage storage=蒔寺制服03b(中)][wvl][chgfg textoff=0 time=300 storage=蒔寺制服03b(中)]Por isso é que sempre perdem nas pré-eliminatórias."::
+40197::$$$message_0273_0043_0000$$$::"Então, nos despedimos. Por favor, leve seu tempo, Saber."[lr]::
+40198::$$$message_0273_0043_0001$$$::"Sim, Yukika. Por favor, não se esforce também."[lr]::
+40199::$$$message_0273_0043_0002$$$::Ela se inclina e segue os outros dois... Não, ela vai impedir que Makidera bullying os garotos.[lr]::
+40200::$$$message_0273_0043_0003$$$::Eles são um trio com um equilíbrio milagroso.::
+40201::$$$message_0273_0044_0000$$$::"Pois bem. Vamos entregar o seu almoço."[lr]::
+40202::$$$message_0273_0044_0001$$$::"Sim. Então o arco primeiro, certo?"::
+40203::$$$message_0273_0045_0000$$$::A prática de hoje deve começar à tarde, pois o dojo está vazio.[lr]::
+40204::$$$message_0273_0045_0001$$$::No meio do dojo, onde ainda não chegaram nenhum dos membros gerais, o tigre quebrado que estava no chão pula em pé.::
+40205::$$$message_0273_0046_0000$$$::"Você chegou atrasado, Shirou! Fiquei tão cansado de esperar que pensei que ia me transformar em um tapete."[lr]::
+40206::$$$message_0273_0046_0001$$$::...Ela já fez.[lr]::
+40207::$$$message_0273_0046_0002$$$::Fuji-nee havia se transformado claramente em algo assim.::
+40208::$$$message_0273_0047_0000$$$::"Desculpe por te fazer esperar, mas você é quem pediu tanto. Obviamente, você teria que esperar uma ou duas horas."[lr]::
+40209::$$$message_0273_0047_0001$$$::Coloquei, ou melhor dizendo, empilhei as caixas do almoço que trouxe.[lr]::
+40210::$$$message_0273_0047_0002$$$::Isso é suficiente para seis pessoas.::
+40211::$$$message_0273_0048_0000$$$::"Bem feito, bem feito. Trabalho bom, Shirou.[lr]::
+40212::$$$message_0273_0048_0001$$$::Hmm, isso deve ser suficiente. Almoço para mim, Sakura, Shirou, Saber e Mitsuzuri."[lr]::
+40213::$$$message_0273_0048_0002$$$::"Taiga, vou almoçar aqui também, né?"[lr]::
+40214::$$$message_0273_0048_0003$$$::"Isso mesmo. Você veio visitar a escola, então pode fazer as coisas que normalmente não consegue."::
+40215::$$$message_0273_0049_0000$$$::"No entanto, sou um estranho"[line len=2][lr]::
+40216::$$$message_0273_0049_0001$$$::"Não se preocupe com as coisas pequenas.[lr]::
+40217::$$$message_0273_0049_0002$$$::Você é um convidado que veio visitar, então não é um estranho ou algo assim. É o guardião de Shirou, eu digo, família depois de tudo. Se tivéssemos um dia de observação de classe, eu queria que você viesse."::
+40218::$$$message_0273_0050_0000$$$::"Ser parente de Shirou?[lr]::
+40219::$$$message_0273_0050_0001$$$::Suponho que seja assim que seria..."[lr]::
+40220::$$$message_0273_0050_0002$$$::"Tudo bem. A Rider geralmente está com você, mas ela também vai a outros lugares às vezes.[lr]::
+40221::$$$message_0273_0050_0003$$$::Você fica sozinho quando isso acontece, certo? Então, você precisa fazer algo assim de vez em quando."::
+40222::$$$message_0273_0051_0000$$$::"...Taiga.[lr]::
+40223::$$$message_0273_0051_0001$$$::Obrigado, aprecio seu consideração.[lr]::
+40224::$$$message_0273_0051_0002$$$::Incluindo o assunto de antes, você é ainda mais confiável do que costuma ser hoje. Quase não reconheço você na escola."[lr]::
+40225::$$$message_0273_0051_0003$$$::"Yep, yep."[lr]::
+40226::$$$message_0273_0051_0004$$$::Concordo do fundo do meu coração atrás de Saber.::
+40227::$$$message_0273_0052_0000$$$::"Bem-vindos, Senpai e Saber."[lr]::
+40228::$$$message_0273_0052_0001$$$::"Ei, obrigado por vir. Ouvi dizer que vocês vão nos tratar a almoçar."[lr]::
+40229::$$$message_0273_0052_0002$$$::"Desculpe. Então, vocês dois também têm prática de club hoje?"::
+40230::$$$message_0273_0053_0000$$$::"Sim, hoje é de tarde. Tinha uma reunião sobre o festival cultural com a senpai Mitsuzuri de manhã."[lr]::
+40231::$$$message_0273_0053_0001$$$::"Hmm... Nós nem decidimos nada.[lr]::
+40232::$$$message_0273_0053_0002$$$::Estamos em apuros... O número de aplicações para alimentos e bebidas ultrapassou o limite, e muitos dos nossos membros são tão desajeitados que não conseguem se apresentar por algum motivo."[lr]::
+40233::$$$message_0273_0053_0003$$$::"Lamento... provavelmente sou a mais desajeitada..."::
+40234::$$$message_0273_0054_0000$$$::"Ah, não, vamos lá. Vamos lidar com isso. Temos a Minori, então poderíamos sempre fazê-lo dançar se for o pior que acontecer... [cacheimage storage=美綴02d(中)][wvl canskip=0 time=400][chgfg time=200 storage=美綴02d(中)]Espere, fique calmo. Se fizermos uma apresentação, temos um mestre aqui mesmo.[lr]::
+40235::$$$message_0273_0054_0001$$$::Ei, Saber, você está livre no dia do festival cultural? Se não tiver nenhum plano, estou querendo saber se pode nos ajudar um pouco."[lr]::
+40236::$$$message_0273_0054_0002$$$::"Hmm? [wvl canskip=0 time=500]M-me?"::
+40237::$$$message_0273_0055_0000$$$::"Claro. Se não se importa, poderia nos ajudar com o desempenho?[lr]::
+40238::$$$message_0273_0055_0001$$$::Você é habilidoso e tem uma boa aparência em cena. E, acima de tudo, quero ver sua espada, que nem mesmo a senhorita Fujimura consegue superar, mais do que qualquer um."[lr]::
+40239::$$$message_0273_0055_0002$$$::"..."::
+40240::$$$message_0273_0056_0000$$$::Saber parece estar tendo dificuldade para responder, já que tem a boca fechada.[lr]::
+40241::$$$message_0273_0056_0001$$$::"Espere, Mitsuzuri. Você está só atrapalhando a Saber perguntando algo assim do nada.[lr]::
+40242::$$$message_0273_0056_0002$$$::Primeiro, Saber não é membro da Kyudo Club."[lr]::
+40243::$$$message_0273_0056_0003$$$::"Mas ela está envolvida. A senhorita Fujimura disse que Saber é sua parente.[lr]::
+40244::$$$message_0273_0056_0004$$$::Não há nada de estranho nela se apresentar no nosso festival cultural."::
+40245::$$$message_0273_0057_0000$$$::Ela diz com confiança.[lr]::
+40246::$$$message_0273_0057_0001$$$::"Mrgh... Isso é [line len=2]"[lr]::
+40247::$$$message_0273_0057_0002$$$::"O que? Ou você está contra isso? Saber participar do nosso festival cultural?"[lr]::
+40248::$$$message_0273_0057_0003$$$::"Idio[line len=2]Claro [wvl][shock vmax=20 time=300 count=-3]não![lr]::
+40249::$$$message_0273_0057_0004$$$::Se Saber usar o uniforme do Homurahara, não haverá nada para eu me arrepender dos meus três anos de vida escolar!"[lr]::
+40250::$$$message_0273_0057_0005$$$::"Então, decidiu-se.[lr]::
+40251::$$$message_0273_0057_0006$$$::Vamos, Saber, pense nisso. A senhorita Fujimura e o Emiya também estão dizendo isso."::
+40252::$$$message_0273_0058_0000$$$::"Sim, farei o meu melhor.[lr]::
+40253::$$$message_0273_0058_0001$$$::Ficaria feliz se me tivesse."[lr]::
+40254::$$$message_0273_0058_0002$$$::"..."[lr]::
+40255::$$$message_0273_0058_0003$$$::A voz de Saber é suave.[lr]::
+40256::$$$message_0273_0058_0004$$$::...Acho que sei por quê. Não tenho nenhum problema, mas por um momento, meu coração dói.::
+40257::$$$message_0273_0059_0000$$$::"Okay! Agora que está decidido, vamos almoçar![lr]::
+40258::$$$message_0273_0059_0001$$$::Vamos, Shirou, abre o lanche. Estou com fome, então apressa!"[lr]::
+40259::$$$message_0273_0059_0002$$$::"Khh, você estragou o fim de uma boa conversa.[lr]::
+40260::$$$message_0273_0059_0003$$$::Tudo bem, então. Sakura, pode me ajudar a preparar o chá?"[lr]::
+40261::$$$message_0273_0059_0004$$$::"Sim."[lr]::
+40262::$$$message_0273_0059_0005$$$::"Tudo bem, Emiya. Vou fazer.[lr]::
+40263::$$$message_0273_0059_0006$$$::Estamos sendo tratados a almoço, então podemos fazer isso."::
+40264::$$$message_0273_0060_0000$$$::"Okay. Então... Sakura, pode preparar o almoço e ficar com a Fuji-nee? ...Faça certamente um olho nele."[lr]::
+40265::$$$message_0273_0060_0001$$$::"Mrgh, o que você quer dizer com isso, Shirou?"[lr]::
+40266::$$$message_0273_0060_0002$$$::"Sim, não deixarei que ela ganhe vantagem em nenhuma peça.[lr]::
+40267::$$$message_0273_0060_0003$$$::Pois bem, vamos abrir o almoço, senhorita Fujimura."[lr]::
+40268::$$$message_0273_0060_0004$$$::"Acho que vai ser algo bom hoje."::
+40269::$$$message_0273_0061_0000$$$::Terminamos de almoçar e saímos do campo de arco e flecha.[lr]::
+40270::$$$message_0273_0061_0001$$$::Os boxes de almoço empilhados teriam atrapalhado, então deixamos-os para trás.[lr]::
+40271::$$$message_0273_0061_0002$$$::Deixo eles para Fuji-nee trazer de volta, e continuamos a visitar o campus.::
+40272::$$$message_0273_0062_0000$$$::"Obrigado pelo alimento.[lr]::
+40273::$$$message_0273_0062_0001$$$::Também é bom almoçar assim de vez em quando, Shirou."[lr]::
+40274::$$$message_0273_0062_0002$$$::"Fiquei feliz que tenha gostado.[lr]::
+40275::$$$message_0273_0062_0003$$$::...Na verdade, eu queria comer no telhado. Mas podemos fazer isso outro dia."[lr]::
+40276::$$$message_0273_0062_0004$$$::"Sim. Então, vamos comer no telhado da próxima vez.[lr]::
+40277::$$$message_0273_0062_0005$$$::Segundo Rin, ouvi dizer que você almoça no telhado ou na sala do conselho estudantil."[wvs][clfg pos=all textoff=0 rule=シャッター左から time=400]::
+40278::$$$message_0273_0063_0000$$$::Saímos do arco.[lr]::
+40279::$$$message_0273_0063_0001$$$::Próximo destino... Bem, ela só mencionou, então devemos ir para a sala do conselho estudantil.[lr]::
+40280::$$$message_0273_0063_0002$$$::Há alguns alunos por aí no campus, então Issei também deve estar aqui.::
+40281::$$$message_0273_0064_0000$$$::Vamos ao gabinete do conselho estudantil.[lr]::
+40282::$$$message_0273_0064_0001$$$::Acostumei-me com os agudos gritos que ouço toda vez que passamos por estudantes no corredor ou por salas de aula.[lr]::
+40283::$$$message_0273_0064_0002$$$::Saber já deve ter se acostumado com os olhares, ou não notou.[lr]::
+40284::$$$message_0273_0064_0003$$$::Ela caminha calmamente pelo campus, que está mais movimentado do que em um fim de semana típico.::
+40285::$$$message_0273_0065_0000$$$::"Hmm?"[lr]::
+40286::$$$message_0273_0065_0001$$$::"Oh."[lr]::
+40287::$$$message_0273_0065_0002$$$::Lá...[lr]::
+40288::$$$message_0273_0065_0003$$$::Entramos em contato com o Sr. Kuzuki.[lr]::
+40289::$$$message_0273_0065_0004$$$::Estamos na escola, então isso não é nada de extraordinário.::
+40290::$$$message_0273_0066_0000$$$::"Bom dia."[lr]::
+40291::$$$message_0273_0066_0001$$$::"Manhã. [cacheimage storage=葛木02a眼鏡(中)][wvl][chgfg time=300 storage=葛木02a眼鏡(中)]Suponho que já tenha passado daquela hora. Você está bem, Emiya?"[lr]::
+40292::$$$message_0273_0066_0002$$$::Há uma tensão estranha.[lr]::
+40293::$$$message_0273_0066_0003$$$::A expressão da Saber também parece ser rígida.::
+40294::$$$message_0273_0067_0000$$$::"..."[lr]::
+40295::$$$message_0273_0067_0001$$$::O senhor Kuzuki está encarando diretamente a Saber.[lr]::
+40296::$$$message_0273_0067_0002$$$::Ele não é um mágico, mas é o Mestre da Caster.[lr]::
+40297::$$$message_0273_0067_0003$$$::Ele pode ter tomado a presença de Saber na escola como sinal de batalha.::
+40298::$$$message_0273_0068_0000$$$::"Senhor Kuzuki, Saber é" [line len=2][lr]::
+40299::$$$message_0273_0068_0001$$$::"Eu ouvi da senhorita Fujimura. Pode tomar seu tempo e mostrar a ela por aí até que a escola feche."[lr]::
+40300::$$$message_0273_0068_0002$$$::"Ah, sim. Obrigado."[lr]::
+40301::$$$message_0273_0068_0003$$$::...Fui eu quem mal entendeu.[lr]::
+40302::$$$message_0273_0068_0004$$$::Essa pessoa não é alguém que começa brigas sem uma boa razão.::
+40303::$$$message_0273_0069_0000$$$::"Obrigado pelo seu apoio naquela ocasião. Por favor, continue se mantendo em contato com ela a partir de agora também."[lr]::
+40304::$$$message_0273_0069_0001$$$::"Eu farei se tiver tempo."[lr]::
+40305::$$$message_0273_0069_0002$$$::Senhor Kuzuki sai.[lr]::
+40306::$$$message_0273_0069_0003$$$::Os passos dele são silenciosos, e sua linha média brilha com firmeza como de costume, mas...::
+40307::$$$message_0273_0070_0000$$$::"Espere um segundo. O que foi aquilo, Saber?"[lr]::
+40308::$$$message_0273_0070_0001$$$::Por que Kuzuki está agradecendo a Saber "por aquela ocasião"!?![lr]::
+40309::$$$message_0273_0070_0002$$$::"...Não é nada especial.[lr]::
+40310::$$$message_0273_0070_0003$$$::A Caster me chama de vez em quando, e eu só ajudo com seu trabalho paralelo."::
+40311::$$$message_0273_0071_0000$$$::"S-side job...!? [wvl] [shock vmax=20 time=400 count=-3] Caster tem um emprego paralelo!?$[lr]::
+40312::$$$message_0273_0071_0001$$$::O-oh, que explicação totalmente suspeita! Ela nunca foi pressionada por dinheiro!"[lr]::
+40313::$$$message_0273_0071_0002$$$::Ela é uma feiticeira rara depois de tudo.[lr]::
+40314::$$$message_0273_0071_0003$$$::Mudar cobre em ouro como um alquimista deveria ser um passe de mágica.::
+40315::$$$message_0273_0072_0000$$$::"Eu penso isso também, mas acredito que trabalhar para tornar sua vida mais rica e trabalhar para tornar seu espírito mais rico são duas coisas diferentes.[lr]::
+40316::$$$message_0273_0072_0001$$$::...Que bondade. Não sei de onde estão recebendo ordens, mas roupas desse tipo não eram comuns mesmo durante o meu tempo."[wvs][clfg textoff=0 pos=all rule=シャッター左から time=400]::
+40317::$$$message_0273_0073_0000$$$::Saber reclama.[lr]::
+40318::$$$message_0273_0073_0001$$$::...Mas...[lr]::
+40319::$$$message_0273_0073_0002$$$::"Bem, então é isso, e é um trabalho recompensador..."[lr]::
+40320::$$$message_0273_0073_0003$$$::Parece que Saber não se sente mal com isso.::
+40321::$$$message_0273_0074_0000$$$::"Desculpe. Ah, é só você, Issei."[lr]::
+40322::$$$message_0273_0074_0001$$$::"Oh. Estava me perguntando quem era, mas é você, Emiya."[lr]::
+40323::$$$message_0273_0074_0002$$$::Ele levanta os olhos do seu caderno e calculadora e olha para nós.::
+40324::$$$message_0273_0075_0000$$$::"Não esperava que você estivesse com a Saber.[lr]::
+40325::$$$message_0273_0075_0001$$$::Entendi, então o visitante ao qual fui contactado foi a Saber."[lr]::
+40326::$$$message_0273_0075_0002$$$::Issei acena com um sorriso.[lr]::
+40327::$$$message_0273_0075_0003$$$::Issei dá um olhar desagradável para todas as garotas, mas parece que só Saber é sua favorita.[lr]::
+40328::$$$message_0273_0075_0004$$$::Segundo ele, ele sente divindade dela.::
+40329::$$$message_0273_0076_0000$$$::"Eu vou preparar um chá para você. Por favor, se sinta à vontade, Saber."[lr]::
+40330::$$$message_0273_0076_0001$$$::"Obrigado. Havia muito tempo que não nos víamos, Issei."[lr]::
+40331::$$$message_0273_0076_0002$$$::"Isso está okay? Podemos voltar mais tarde se você estiver ocupado."[lr]::
+40332::$$$message_0273_0076_0003$$$::"Não me importa. É tudo negócio sem importância. É algo que não preciso fazer imediatamente."[wvs][clfg textoff=0 rule=シャッター左から time=400 storage=一成03a(中)]::
+40333::$$$message_0273_0077_0000$$$::Deixo o chá com Issei e me sento nas cadeiras com Saber.[lr]::
+40334::$$$message_0273_0077_0001$$$::Ouvimos o barulho das atividades do clube vindo da janela.::
+40335::$$$message_0273_0078_0000$$$::"Então, Emiya. Ouvi dizer que você trouxe a Saber para dar uma volta, mas por que aqui? Não acho que haja algo em especial para se ver."[lr]::
+40336::$$$message_0273_0078_0001$$$::"Isso não é verdade.[lr]::
+40337::$$$message_0273_0078_0002$$$::Ouvi falar do gabinete do conselho estudantil e de você por parte de Shirou, então fiquei interessado em saber do tipo de lugar que era."[lr]::
+40338::$$$message_0273_0078_0003$$$::"É mesmo? ...Que azar. Se eu tivesse sabido que vocês dois iam vir, teria comprado alguns snacks de boa qualidade."::
+40339::$$$message_0273_0079_0000$$$::"Tudo bem, você não precisa se preocupar com isso.[lr]::
+40340::$$$message_0273_0079_0001$$$::Tivemos só isso. Tomar chá para descansar nossas gargantas é o melhor prato."[lr]::
+40341::$$$message_0273_0079_0002$$$::"Entendi. Isso é bom.[lr]::
+40342::$$$message_0273_0079_0003$$$::Mas onde você almoçou? A cantina está fechada, né?"::
+40343::$$$message_0273_0080_0000$$$::"No campo de tiro. Shirou nos fez almoço."[lr]::
+40344::$$$message_0273_0080_0001$$$::"Hmm... Nós devemos ter se perdido.[lr]::
+40345::$$$message_0273_0080_0002$$$::Fui ao arco e flecha essa manhã."[lr]::
+40346::$$$message_0273_0080_0003$$$::"Você perdeu o almoço do Shirou."[lr]::
+40347::$$$message_0273_0080_0004$$$::"Assim é. Mas não tem jeito. Que pena."::
+40348::$$$message_0273_0081_0000$$$::"..."[lr]::
+40349::$$$message_0273_0081_0001$$$::Saber e Issei se dão muito bem.[lr]::
+40350::$$$message_0273_0081_0002$$$::Estou só percebendo isso agora, mas eles podem ser similares por natureza.::
+40351::$$$message_0273_0082_0000$$$::"Agora... Há muitos alunos hoje porque é antes do festival cultural, mas estou certo de que eles recebem com alegria sua visita.[lr]::
+40352::$$$message_0273_0082_0001$$$::É uma boa oportunidade, então por favor, dê a volta pelo prédio da escola. [cacheimage storage=一成02b(中)][wvl][chgfg textoff=0 time=300 storage=一成02b(中)]Bem, se só o gabinete do conselho estudantil fosse um pouco mais divertido."[lr]::
+40353::$$$message_0273_0082_0002$$$::"Não, por favor, não diga isso.[lr]::
+40354::$$$message_0273_0082_0003$$$::Se possível, gostaria de descansar um pouco mais aqui."::
+40355::$$$message_0273_0083_0000$$$::Ele acena com a cabeça às palavras de Saber.[lr]::
+40356::$$$message_0273_0083_0001$$$::Ainda tem tempo, então devemos ficar aqui um pouco mais.::
+40357::$$$message_0273_0084_0000$$$::"É mesmo? Então, podemos conversar um pouco mais.[lr]::
+40358::$$$message_0273_0084_0001$$$::Em vez de falar sobre a escola, deveria eu falar sobre Emiya na escola?"[lr]::
+40359::$$$message_0273_0084_0002$$$::Saber exclama em maravilhamento com isso.[lr]::
+40360::$$$message_0273_0084_0003$$$::Mas não consigo suportar a ideia de ser o tema da conversa deles durante o dia.::
+40361::$$$message_0273_0085_0000$$$::"W-[wvl][se storage=se308.wav][shock vmax=20 time=400 count=-3]espera, Issei, o que você vai contar para ela?"[lr]::
+40362::$$$message_0273_0085_0001$$$::"Não há necessidade de ficar nervoso, embora eu deveria ter pensado nisso desde o início. Primeiro de tudo, há algo que você se sentiria envergonhado por ela saber? Está cometendo algum mal?"[lr]::
+40363::$$$message_0273_0085_0002$$$::"Bem, não é isso, mas[line len=2]"::
+40364::$$$message_0273_0086_0000$$$::"Oh. Shirou, há algo que você não quer que eu ouça?"[lr]::
+40365::$$$message_0273_0086_0001$$$::"N-não, eu não estou escondendo nada."[lr]::
+40366::$$$message_0273_0086_0002$$$::"Então, está decidido.[lr]::
+40367::$$$message_0273_0086_0003$$$::Por favor, Issei."::
+40368::$$$message_0273_0087_0000$$$::"Oof..."[lr]::
+40369::$$$message_0273_0087_0001$$$::Eles decidiram o que vão fazer, se eu gosto ou não... Esses dois realmente se dão bem.::
+40370::$$$message_0273_0088_0000$$$::"Agora. Mesmo que eu tenha dito isso, me pergunto o que devo falar. Há muitas histórias para escolher."[lr]::
+40371::$$$message_0273_0088_0001$$$::"Ouvi dizer que Shirou ajuda aqui, mas do que exatamente ele ajuda?"::
+40372::$$$message_0273_0089_0000$$$::"Vamos ver... Basicamente reparando propriedade pública.[lr]::
+40373::$$$message_0273_0089_0001$$$::Não conseguimos comprar substitutos imediatamente só porque algo quebra, então ajuda bastante."[lr]::
+40374::$$$message_0273_0089_0002$$$::"..."[lr]::
+40375::$$$message_0273_0089_0003$$$::Não gosto disso... É envergonhante como uma reunião de pais e professores...[lr]::
+40376::$$$message_0273_0089_0004$$$::Eu não teria problema se fosse Kiritsugu ou Fuji-nee, mas é estranho e envergonhante ter Saber ouvir isso.::
+40377::$$$message_0273_0090_0000$$$::"Entendi. Isso é certamente o campo de especialidade de Shirou."[lr]::
+40378::$$$message_0273_0090_0001$$$::"Não há nada mais em particular, mas peço a ajuda de Emiya em todos os eventos.[lr]::
+40379::$$$message_0273_0090_0002$$$::Na verdade, sinto que ele sempre ajuda alguém assim que eu olho na sua direção."[lr]::
+40380::$$$message_0273_0090_0003$$$::"Ah, entendi. Isso é muito parecido com Shirou."::
+40381::$$$message_0273_0091_0000$$$::"Hahaha. É, acho que tem razão. É assim que é o Emiya."[lr]::
+40382::$$$message_0273_0091_0001$$$::"Isso é realmente preocupante.[lr]::
+40383::$$$message_0273_0091_0002$$$::...Então, Issei, quais tipos de histórias você tem, especificamente?"[lr]::
+40384::$$$message_0273_0091_0003$$$::"De fato. Isso pode levar um tempo, então devo começar com os engraçados."[lr]::
+40385::$$$message_0273_0091_0004$$$::Os alunos exemplares animam a sala.[lr]::
+40386::$$$message_0273_0091_0005$$$::...Bem, faça o que quiser...::
+40387::$$$message_0273_0092_0000$$$::...Essa tortura continua por uma hora.[lr]::
+40388::$$$message_0273_0092_0001$$$::Os dois ainda estão em forma enquanto o sol começa a se pôr. Ainda não passamos pelo colégio, então peço que me deixem sair da enrascada.::
+40389::$$$message_0273_0093_0000$$$::"Bem, peço desculpas por ter te retido.[lr]::
+40390::$$$message_0273_0093_0001$$$::Por favor, aproveite o resto da sua visita pelo campus."[lr]::
+40391::$$$message_0273_0093_0002$$$::"Não, era muito valioso. Consegui descobrir sobre um lado diferente do Shirou que Taiga fala."[lr]::
+40392::$$$message_0273_0093_0003$$$::"Hahaha. Bem, se você gostou dessa conversa tanto quanto eu, ficaria feliz em conversar com você tanto quanto quiser.[lr]::
+40393::$$$message_0273_0093_0004$$$::Por favor, venha ao templo se precisar de algo. Seria capaz de recebê-lo devidamente lá."[lr]::
+40394::$$$message_0273_0093_0005$$$::"Sim, se houver uma oportunidade, adoraria."::
+40395::$$$message_0273_0094_0000$$$::"...Issei. Você ainda não terminou de falar?"[lr]::
+40396::$$$message_0273_0094_0001$$$::"Claro que não. O álbum no meu coração guarda três anos de memórias. Abri apenas o primeiro livro hoje. O próximo será o longamente esperado segundo ano..."[lr]::
+40397::$$$message_0273_0094_0002$$$::"...Vamos, Saber.[lr]::
+40398::$$$message_0273_0094_0003$$$::Não sabia que Issei era tão falante assim. Vamos acompanhá-lo até que ele compartilhe tudo o que sabe nesse ritmo."::
+40399::$$$message_0273_0095_0000$$$::"Y-sim.[lr]::
+40400::$$$message_0273_0095_0001$$$::Pois bem, Issei, vou te ver depois."[lr]::
+40401::$$$message_0273_0095_0002$$$::"Sim, o segundo ano tem o aguardado evento principal, o acampamento de verão, à espera... [cacheimage storage=一成04a(中)][wvl][se storage=se308.wav][shock vmax=20 time=500 count=-4][chgfg textoff=0 time=300 storage=一成04a(中)]Eles desapareceram![lr]::
+40402::$$$message_0273_0095_0003$$$::...Espere... Estava me descontrolando e mostrando algum comportamento vergonhoso...!?$"::
+40403::$$$message_0273_0096_0000$$$::A tarde passa em paz.[lr]::
+40404::$$$message_0273_0096_0001$$$::Várias salas especiais como a sala de música e a sala de audiovisual, a ginásio e a biblioteca, a cantina dos alunos...[lr]::
+40405::$$$message_0273_0096_0002$$$::[se volume=50 storage=se020.wav]Mostrar Saber, que não sabe o que é escola, era mais divertido e recompensador do que eu pensei.::
+40406::$$$message_0273_0097_0000$$$::E já é noite.[lr]::
+40407::$$$message_0273_0097_0001$$$::Os alunos começam a sair, e como também estamos prestes a sair...[lr]::
+40408::$$$message_0273_0097_0002$$$::"Eu gostaria de ver sua sala de aula última."[lr]::
+40409::$$$message_0273_0097_0003$$$::Saber menciona um lugar que ela quer visitar pela primeira vez hoje.::
+40410::$$$message_0273_0098_0000$$$::"Então, esse é o seu quarto.[lr]::
+40411::$$$message_0273_0098_0001$$$::...Parece exatamente igual aos outros salões de aula."[lr]::
+40412::$$$message_0273_0098_0002$$$::"Claro. Eu te disse que todas as salas são as mesmas. A única coisa que difere cada classe são a lousa de parede ou as rachaduras nas mesas."[lr]::
+40413::$$$message_0273_0098_0003$$$::"Entendi.[lr]::
+40414::$$$message_0273_0098_0004$$$::Então sua mesa é...[cacheimage storage=セイバー私服13b(中)][wvl][chgfg textoff=0 time=300 storage=セイバー私服13b(中)]essa?"::
+40415::$$$message_0273_0099_0000$$$::Não sei quais instintos ela tem, mas ela acerta exatamente o meu armário.[lr]::
+40416::$$$message_0273_0099_0001$$$::"Hmm. No meio dessa mesa impecável está essa horrível rachadura. Como é trágico... É como se um martelo de ferro tivesse caído sobre ela.[lr]::
+40417::$$$message_0273_0099_0002$$$::Shirou, o que é isso...?"[lr]::
+40418::$$$message_0273_0099_0003$$$::"Isso é a marca que Fuji-nee fez quando tropeçou, caiu e deu um cabeçada no meu armário. Ela continuou ensinando enquanto sangrava o tempo todo."[lr]::
+40419::$$$message_0273_0099_0004$$$::Foi a primeira lenda Fujimura desde que me tornei do terceiro ano.::
+40420::$$$message_0273_0100_0000$$$::"Entendi.[lr]::
+40421::$$$message_0273_0100_0001$$$::Não achei que você deixaria uma marca só por brincadeira...[lr]::
+40422::$$$message_0273_0100_0002$$$::Se você disser que foi Taiga, isso também é muito parecido com você."[wvs][clfg textoff=0 pos=all rule=シャッター左から time=400]::
+40423::$$$message_0273_0101_0000$$$::Saber diz felizmente e anda pela sala de aula.[lr]::
+40424::$$$message_0273_0101_0001$$$::Deveria ser uma aula com nada para ver, mas Saber parece a mais feliz que tem sido hoje.[lr]::
+40425::$$$message_0273_0101_0002$$$::Isso me faz pensar...::
+40426::$$$message_0273_0102_0000$$$::"Ei, Saber.[lr]::
+40427::$$$message_0273_0102_0001$$$::É um pouco tarde para perguntar, mas por que você estava interessado na escola?"[lr]::
+40428::$$$message_0273_0102_0002$$$::Pergunto a ela a pergunta que me veio à mente essa manhã.::
+40429::$$$message_0273_0103_0000$$$::"Não há um motivo grande.[lr]::
+40430::$$$message_0273_0103_0001$$$::Fiquei curioso para saber como é a sua vida escolar.[lr]::
+40431::$$$message_0273_0103_0002$$$::Obrigado a você e à Taiga, consegui vir aqui diretamente."::
+40432::$$$message_0273_0104_0000$$$::"..."[lr]::
+40433::$$$message_0273_0104_0001$$$::Entendi. Mas nem metade daquela solicitação foi atendida.[lr]::
+40434::$$$message_0273_0104_0002$$$::Saber disse "vida escolar."[lr]::
+40435::$$$message_0273_0104_0003$$$::O que ela queria ver não era o prédio, mas a vida cotidiana dentro dele.::
+40436::$$$message_0273_0105_0000$$$::"Talvez você deveria ter vindo numa semana normal. Você queria ver algumas aulas, né?"[lr]::
+40437::$$$message_0273_0105_0001$$$::"Sim. Eu queria sentar na aula.[lr]::
+40438::$$$message_0273_0105_0002$$$::Mas, não consigo me transformar em forma espiritual."[lr]::
+40439::$$$message_0273_0105_0003$$$::"Você não precisa se transformar em forma espiritual.[lr]::
+40440::$$$message_0273_0105_0004$$$::Melhor ainda, por que não transfere? Tohsaka parece ser capaz de preparar um cadastro familiar ou outros documentos."::
+40441::$$$message_0273_0106_0000$$$::Saber acena com concordância.[lr]::
+40442::$$$message_0273_0106_0001$$$::"Isso soa maravilhoso. Nem sequer pensei nisso."[lr]::
+40443::$$$message_0273_0106_0002$$$::"Direito? Tudo bem, vamos tentar discutir com a Tohsaka assim que chegarmos em casa.[lr]::
+40444::$$$message_0273_0106_0003$$$::Eu tenho certeza de que ela arranjaria tudo com tanta facilidade que nos surpreenderia, e a Fuji-nee também colaboraria."::
+40445::$$$message_0273_0107_0000$$$::Eu continuo falando como um idiota, como se estivesse delirando com febre.[lr]::
+40446::$$$message_0273_0107_0001$$$::"Sim. Espero ansiosamente por isso, Shirou."[lr]::
+40447::$$$message_0273_0107_0002$$$::Saber responde com um sorriso.[lr]::
+40448::$$$message_0273_0107_0003$$$::...Acho que não sei o que aquele sorriso queria dizer.[lr]::
+40449::$$$message_0273_0107_0004$$$::Ainda não sei a diferença entre uma promessa e um desejo.::
+40450::$$$message_0273_0108_0000$$$::E assim, nosso curto descanso chega ao fim.[lr]::
+40451::$$$message_0273_0108_0001$$$::Caminhamos em paz pelo caminho de volta para casa, com os mesmos sentimentos que no início.::
+40452::$$$message_0273_0109_0000$$$::A cidade que olhamos do morro é uma visão diferente da usual.[lr]::
+40453::$$$message_0273_0109_0001$$$::Não, a visão sempre é diferente.[lr]::
+40454::$$$message_0273_0109_0002$$$::Há justa quantidade de oportunidades para notar que normalmente.::
+40455::$$$message_0273_0110_0000$$$::Saber para e olha para a cidade com suavidade.[lr]::
+40456::$$$message_0273_0110_0001$$$::"Há algo de errado, Saber?"[lr]::
+40457::$$$message_0273_0110_0002$$$::Tento agir o mais natural possível.[lr]::
+40458::$$$message_0273_0110_0003$$$::Chamo para ela como costumo, para não arruinar o dia divertido.::
+40459::$$$message_0273_0111_0000$$$::"Não, não há nada que se destaque.[lr]::
+40460::$$$message_0273_0111_0001$$$::Este é o usual Fuyuki City que conhecemos."[lr]::
+40461::$$$message_0273_0111_0002$$$::Um vento agradável está soprando.[lr]::
+40462::$$$message_0273_0111_0003$$$::Seu cabelo loiro está flutuando com o vento.[lr]::
+40463::$$$message_0273_0111_0004$$$::O dia divertido que tivemos está prestes a acabar.::
+40464::$$$message_0273_0112_0000$$$::"Vamos para casa então. Você não viu nada estranho, certo?"[lr]::
+40465::$$$message_0273_0112_0001$$$::"Não. Mas gostaria de olhar esse cenário um pouco mais.[lr]::
+40466::$$$message_0273_0112_0002$$$::Para lembrar sempre dessa visão."[lr]::
+40467::$$$message_0273_0112_0003$$$::"Como se diz... não precisa disso. Pode vir aqui de novo amanhã."::
+40468::$$$message_0273_0113_0000$$$::Não só amanhã, mas para sempre.[lr]::
+40469::$$$message_0273_0113_0001$$$::A Guerra do Santo Graal não terminará.[lr]::
+40470::$$$message_0273_0113_0002$$$::Assumindo que, mesmo que eu morra ou ela desapareça...[lr]::
+40471::$$$message_0273_0113_0003$$$::A vida continuará assim.[lr]::
+40472::$$$message_0273_0113_0004$$$::Enquanto a guerra não acaba e não desejamos que acabe,[lr]::
+40473::$$$message_0273_0113_0005$$$::Essa promessa nunca precisará ser reduzida a um desejo.::
+40474::$$$message_0273_0114_0000$$$::"...Mas você não permitirá isso. Pois você não é alguém que pode segurar."[lr]::
+40475::$$$message_0273_0114_0001$$$::É um pôr do sol lindo.[lr]::
+40476::$$$message_0273_0114_0002$$$::Não, isso não é.[lr]::
+40477::$$$message_0273_0114_0003$$$::É lindo porque ela...::
+40478::$$$message_0273_0115_0000$$$::"Isso mesmo?[lr]::
+40479::$$$message_0273_0115_0001$$$::Neste utopia onde ninguém é perdido.[lr]::
+40480::$$$message_0273_0115_0002$$$::Apenas você está tentando encontrar valor nas coisas perdidas."[lr]::
+40481::$$$message_0273_0115_0003$$$::...Acima de tudo, ela é a que me faz sentir que esse pôr do sol é belo.::
+40482::$$$message_0273_0116_0000$$$::"..."[lr]::
+40483::$$$message_0273_0116_0001$$$::Entendi.[lr]::
+40484::$$$message_0273_0116_0002$$$::Ela não olhou para baixo nem uma vez hoje.[lr]::
+40485::$$$message_0273_0116_0003$$$::Ela apenas dispensou uma promessa, algo que poderia ser obtido se quisesse, com um sorriso.::
+40486::$$$message_0273_0117_0000$$$::"...É. Vou resolver essa Guerra do Santo Graal."[lr]::
+40487::$$$message_0273_0117_0001$$$::Essa autossatisfação.[lr]::
+40488::$$$message_0273_0117_0002$$$::De fato, não há necessidade de resolver isso.[lr]::
+40489::$$$message_0273_0117_0003$$$::Posso dormir no quarto dia.[lr]::
+40490::$$$message_0273_0117_0004$$$::Posso apenas fechar os olhos e ignorar esses quatro dias.[lr]::
+40491::$$$message_0273_0117_0005$$$::Essa anomalia acabaria só com isso.::
+40492::$$$message_0273_0118_0000$$$::Mas, Shirou Emiya não pode fazer isso.[lr]::
+40493::$$$message_0273_0118_0001$$$::Isso significaria ignorar o que foi perdido.[lr]::
+40494::$$$message_0273_0118_0002$$$::Isso seria um modo de viver em que se submeteria à felicidade e parasse de seguir adiante.[lr]::
+40495::$$$message_0273_0118_0003$$$::Uma felicidade conveniente.[lr]::
+40496::$$$message_0273_0118_0004$$$::Um campeão da justiça, torcido até os ossos, que não consegue aceitar essa verdade conveniente.::
+40497::$$$message_0273_0119_0000$$$::"Sim. Você e muitos outros criticariam isso.[lr]::
+40498::$$$message_0273_0119_0001$$$::Mas eu acho que é precioso.[lr]::
+40499::$$$message_0273_0119_0002$$$::Você vai acabar com a Guerra do Santo Graal. Mesmo que eu tente salvá-lo parando você, o resultado provavelmente não mudaria."::
+40500::$$$message_0273_0120_0000$$$::...É por isso que ela não fez uma promessa que nem mesmo pode cumprir.[lr]::
+40501::$$$message_0273_0120_0001$$$::Ela sorri, como se estivesse assistindo a uma história bem escrita e não estivesse pensando no amanhã.::
+40502::$$$message_0273_0121_0000$$$::"...Você acha que isso está certo? Minha opinião é firme e teimosa."[lr]::
+40503::$$$message_0273_0121_0001$$$::"Sim, continuarei protegendo essa orgulho.[lr]::
+40504::$$$message_0273_0121_0002$$$::Serei sua espada até o fim."[lr]::
+40505::$$$message_0273_0121_0003$$$::Mas, isso era uma promessa.[lr]::
+40506::$$$message_0273_0121_0004$$$::As que juraram lutar juntas.[lr]::
+40507::$$$message_0273_0121_0005$$$::Ela corta aquele sonho de forma brilhante, sem me deixar com nenhum arrependimento.::
+40508::$$$message_0273_0122_0000$$$::"Por favor, não faça essa cara triste.[lr]::
+40509::$$$message_0273_0122_0001$$$::Isso está certo. Mesmo que haja um fim, não é adeus."[lr]::
+40510::$$$message_0273_0122_0002$$$::"Não adeus?"[lr]::
+40511::$$$message_0273_0122_0003$$$::"Sim... Todos retornaremos aos nossos respectivos futuros que desejamos."::
+40512::$$$message_0273_0123_0000$$$::Isso é verdade.[lr]::
+40513::$$$message_0273_0123_0001$$$::Tenho certeza de que descobriremos qual será o futuro que desejamos uma vez que essa noite interminável acabe.[lr]::
+40514::$$$message_0273_0123_0002$$$::Eu não tenho medo.[lr]::
+40515::$$$message_0273_0123_0003$$$::A estrela mais brilhante da terra está me encorajando.::
+40516::$$$message_0273_0124_0000$$$::"Vamos para casa, Saber.[lr]::
+40517::$$$message_0273_0124_0001$$$::Obrigado por hoje."[lr]::
+40518::$$$message_0273_0124_0002$$$::"Não, agradeço [font italic=true]a você[font italic=false], Shirou."::
+40519::$$$message_0273_0125_0000$$$::Continuamos a caminhar.[lr]::
+40520::$$$message_0273_0125_0001$$$::O dia chega ao fim.[lr]::
+40521::$$$message_0273_0125_0002$$$::Agora... Se acordar, terei que continuar sendo alguém digno dessa espada...:���:���

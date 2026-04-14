@@ -1,0 +1,143 @@
+DAT
+id=qid::label=str::text=lstr::
+44367::$$$message_0381_0000_0000$$$::"É hora da sua aula particular.[br]Por favor, seja paciente conosco.[br]O tópico da aula é o hanafuda, é claro."[stoptrans]::
+44368::$$$message_0381_0000_0001$$$::"É bom que você escute também, Leysritt."::
+44369::$$$message_0381_0000_0002$$$::"Tá."::
+44370::$$$message_0381_0000_0003$$$::"Hanafuda é um tipo de jogo de cartas no qual os jogadores formam mãos usando cartas decoradas com a flora associada a cada um dos doze meses. Cada mês tem 4 cartas, num total de 48 cartas."[stoptrans]::
+44371::$$$message_0381_0000_0004$$$::"Diz-se que se desenvolveu a partir do jogo de combinação de conchas kai'ooi do período Heian e do jogo de cartas Tenshou karuta de inspiração portuguesa do período Edo."::
+44372::$$$message_0381_0000_0005$$$::"...Tipo as cartas de baralho que vão do ás à rainha?"::
+44373::$$$message_0381_0000_0006$$$::"Sim, bem próximo."::
+44374::$$$message_0381_0000_0007$$$::"As diferenças em relação às cartas de baralho comuns são que elas são ilustradas com temas da natureza para cada estação e que cada carta tem um valor em pontos."::
+44375::$$$message_0381_0000_0008$$$::"Quem comer mais cartas ganha.[br]As cartas de animais valem o dobro do dobro de pontos!"[stoptrans]::
+44376::$$$message_0381_0000_0009$$$::"Isso está completamente errado.[lr]::
+44377::$$$message_0381_0000_0010$$$::Deixe-me mostrar como se joga."[stoptrans]::
+44378::$$$message_0381_0000_0011$$$::"Começarei com o jogo mais conhecido:[br][movefg opacity=255 left=186 top=16 time=300 accel=2 storage=こいこいとはタイトル textoff=0 nowait=1]Koi-Koi."::
+44379::$$$message_0381_0000_0012$$$::"Koi-Koi é um jogo para dois jogadores.[br]Conforme cada jogador joga as cartas, eles as combinam em mãos."::
+44380::$$$message_0381_0000_0013$$$::"As mãos têm pontuações variadas e, após várias rodadas, o jogador que pegar todos os pontos de seu oponente vence."::
+44381::$$$message_0381_0000_0014$$$::"...Esse resumo serve?"::
+44382::$$$message_0381_0000_0015$$$::"Serve sim."::
+44383::$$$message_0381_0000_0016$$$::"Então prosseguirei."::
+44384::$$$message_0381_0000_0017$$$::"O primeiro passo é decidir quem será o carteador.[lr]::
+44385::$$$message_0381_0000_0018$$$::Cada jogador saca uma carta, e o jogador que sacar o mês mais antigo é o carteador. O carteador é o primeiro a jogar."::
+44386::$$$message_0381_0000_0019$$$::"Então, se um jogador saca Maio e o outro saca Novembro, [wait time=400 canskip=true][hfchance pos=lower]o jogador que sacou Maio é o carteador."[br]::
+44387::$$$message_0381_0000_0020$$$::"Isso mesmo."::
+44388::$$$message_0381_0000_0021$$$::"Uma vez que o carteador é definido, as cartas são distribuídas.[br][fig left=188 index=1000 top=64 time=300 storage=山札配置]Quanto ao número de cartas que são distribuídas..."[stoptrans]::
+44389::$$$message_0381_0000_0022$$$::"Cada jogador recebe 8 cartas na sua [hfkw]mão[hfekw].[br]8 cartas vão viradas para cima na [hfkw]mesa[hfekw].[br]As 24 restantes ficam viradas para baixo no [hfkw]baralho[hfekw]."[stoptrans]::
+44390::$$$message_0381_0000_0023$$$::"Quando todas as cartas forem distribuídas, você estará pronto para jogar."[stoptrans]::
+44391::$$$message_0381_0000_0024$$$::"Que comece a tragédia, seus vermes!"::
+44392::$$$message_0381_0000_0025$$$::"...Vamos começar o jogo.[lr][hfstopsweat][hffacechg2 chara=セラ face=楽 layer=1 time=200][say storage=htut2_ser_0230 _name=セラ]O carteador joga primeiro."[fig left=188 index=1000 top=64 time=800 storage=プレイヤーターン ][stoptrans]::
+44393::$$$message_0381_0000_0026$$$::"Escolha uma carta da sua [hfkw]mão[hfekw] para jogar na [hfkw]mesa[hfekw]."[fig left=188 index=1000 top=64 time=500 storage=プレイヤーターン2][stoptrans]::
+44394::$$$message_0381_0000_0027$$$::"Se houver cartas do mesmo mês presentes, pegue-as da mesa. [wait canskip=true time=2000][l][say storage=HTUT2_SER_0270 _name=セラ]As cartas que você pega são separadas, não devolvidas para a sua [hfkw]mão[hfekw]."[fig left=188 index=1000 top=64 time=500 storage=プレイヤーターン3][stoptrans]::
+44395::$$$message_0381_0000_0028$$$::"Em seguida, saque 1 carta do [hfkw]baralho[hfekw] [fig left=188 index=1000 top=64 time=500 storage=プレイヤーターン4][wait canskip=true time=2000][l][say storage=HTUT2_SER_0300 _name=セラ]e jogue-a na mesa. [fig left=188 index=1000 top=64 time=500 storage=プレイヤーターン5][wait canskip=true time=2000][l][say storage=HTUT2_SER_0310 _name=セラ]Se ela pertencer ao mesmo mês de qualquer outra carta, pegue as cartas da mesa."[fig left=188 index=1000 top=64 time=500 storage=プレイヤーターン6][stoptrans]::
+44396::$$$message_0381_0000_0029$$$::"Em outras palavras, você pode ganhar 4 cartas de uma só vez se tiver sorte, mas também pode não ganhar nada."::
+44397::$$$message_0381_0000_0030$$$::"Se nem a carta que você jogar da sua [hfkw]mão[hfekw] nem a carta que comprar do [hfkw]baralho[hfekw] forem do mesmo mês, as cartas na [hfkw]mesa[hfekw] ficarão onde estão."::
+44398::$$$message_0381_0000_0031$$$::"O turno do carteador acaba aí?"[stoptrans]::
+44399::$$$message_0381_0000_0032$$$::"Não, ainda há um pouco mais para explicar.[br]Você adquiriu algumas cartas, mas ainda não pontuou."::
+44400::$$$message_0381_0000_0033$$$::"Você precisa combinar as cartas em [hfkw]mãos de pontuação[hfekw] para ganhar pontos."::
+44401::$$$message_0381_0000_0034$$$::"Que tipo de mãos?[br]  Daquelas que fazem borboletas voarem [lr][stopmove][hfsigh pos=lower][say storage=HTUT2_RIZ_0110 _name=リズ]e te deixam chapada com água mágica?"[stoptrans]::
+44402::$$$message_0381_0000_0035$$$::"...O que é que passa nessa sua cabeça?[lr][hfstopsweat][hffacechg chara=セラ face=楽 layer=1 time=200][say storage=HTUT2_SER_0380 _name=セラ]Aqui está uma visão geral das combinações. Começaremos com as mais simples."::
+44403::$$$message_0381_0001_0000$$$::"...[wait canskip=true time=400]...[wait canskip=true time=400][resumevoice]Eu não consigo memorizar tudo isso."::
+44404::$$$message_0381_0001_0001$$$::"É verdade, é muita coisa para assimilar de uma vez. As combinações podem parecer complicadas no começo, mas você as aprenderá gradualmente conforme for jogando."::
+44405::$$$message_0381_0001_0002$$$::"Mas não se preocupe[line len=2]o jogo avisará quando você tiver uma mão de pontuação ou quando faltar apenas uma carta para formar uma."[stoptrans]::
+44406::$$$message_0381_0001_0003$$$::"Bom saber."::
+44407::$$$message_0381_0001_0004$$$::Se você completar uma mão de pontuação com as cartas que adquiriu, poderá [hfkw]encerrar a partida[hfekw][stoptrans][fg left=655 absindex=65281 top=52 time=600 storage=勝負 textoff=0 layer=4 nowait=1].[stoptrans]::
+44408::$$$message_0381_0001_0005$$$::"...E se eu não quiser encerrar ainda?"::
+44409::$$$message_0381_0001_0006$$$::"Se optar por continuar o jogo sem [hfkw]encerrar a partida[hfekw], isso resultará num [hfkw]Koi-Koi[hfekw][stoptrans][fg left=106 absindex=65281 top=47 time=500 storage=こいこい textoff=0 layer=4 nowait=1]."[stoptrans]::
+44410::$$$message_0381_0001_0007$$$::"Koi-Koi!"::
+44411::$$$message_0381_0001_0008$$$::"Se você estiver buscando uma [hfkw]mão[hfekw] de pontuação alta e quiser causar um dano pesado ao seu oponente, então o [hfkw]Koi-Koi[hfekw] pode ser eficaz."::
+44412::$$$message_0381_0001_0009$$$::"Koi-Koi!"::
+44413::$$$message_0381_0001_0010$$$::"Se você ainda não tiver uma mão de pontuação e não puder [hfkw]encerrar a partida[hfekw], ou se escolher fazer o [hfkw]Koi-Koi[hfekw], o turno terminará."::
+44414::$$$message_0381_0001_0011$$$::"Koi-Koi!"::
+44415::$$$message_0381_0001_0012$$$::"Sim, sim."[stoptrans]::
+44416::$$$message_0381_0001_0013$$$::"O turno do outro jogador é exatamente igual ao do carteador."::
+44417::$$$message_0381_0001_0014$$$::"Os jogadores se revezam em turnos até que alguém [hfkw]encerre a partida[hfekw] ou fique sem cartas na mão."::
+44418::$$$message_0381_0001_0015$$$::"Entendi."::
+44419::$$$message_0381_0001_0016$$$::"...E se nenhum dos jogadores conseguir formar uma mão de pontuação?"::
+44420::$$$message_0381_0001_0017$$$::"Então as cartas serão distribuídas novamente e o jogo recomeçará.[br]Mesmo se os jogadores tiverem pontos restantes, vocês podem distribuir as cartas e continuar jogando."::
+44421::$$$message_0381_0001_0018$$$::"No Koi-Koi,[br]o contador de pontos chama-se 'mon'."::
+44422::$$$message_0381_0001_0019$$$::"Ambos os jogadores começam o jogo com 12 pontos, e o jogador que tiver a partida encerrada contra si perderá pontos de acordo com a mão de pontuação."[stoptrans]::
+44423::$$$message_0381_0001_0020$$$::"Se os pontos de qualquer um dos jogadores chegarem a zero, o jogo termina. Quem tiver pelo menos 1 ponto vencerá, é claro."::
+44424::$$$message_0381_0001_0021$$$::"O meu nome é Morte. Heh heh heh."[stoptrans]::
+44425::$$$message_0381_0001_0022$$$::"Saiba que, se você for o [hfkw]segundo jogador[hfekw] e a última carta que obtiver completar uma mão de pontuação, a partida será [hfkw]encerrada[hfekw] automaticamente."::
+44426::$$$message_0381_0001_0023$$$::"Ou seja, você não pode fazer o Koi-Koi."::
+44427::$$$message_0381_0001_0024$$$::"Você já compreendeu o fluxo geral do jogo?"::
+44428::$$$message_0381_0001_0025$$$::"Sim. Totalmente. [lr][hfsigh pos=lower][say storage=HTUT2_RIZ_0270 _name=リズ]A maior parte. Provavelmente. Entendi."::
+44429::$$$message_0381_0001_0026$$$::"...Acreditarei nas suas palavras e prosseguirei.[cl time=400 layer=3][movefg opacity=255 left=185 top=17 time=300 accel=0 storage=役･札について layer=5 textoff=0][lr][lr]::
+44430::$$$message_0381_0001_0027$$$::[hfstopsweat][hffacechg2 chara=セラ face=楽 layer=1 time=200] Além dos meses supracitados, as cartas são divididas em quatro tipos."::
+44431::$$$message_0381_0001_0028$$$::"Hmm, as [hfkw]Ko[hfekw][fg left=118 index=1000 top=130 time=300 storage=コウ札 layer=6], as [hfkw][l][say storage=HTUT2_RIZ_0300 _name=リズ]Tane[hfekw][fg left=264 index=1000 top=130 time=300 storage=タネ札 layer=7], as [hfkw][l][say storage=HTUT2_RIZ_0310 _name=リズ]Tan[hfekw][fg left=412 index=1000 top=130 time=300 storage=タン札 layer=8] e as [hfkw][l][say storage=HTUT2_RIZ_0320 _name=リズ]Kasu[hfekw][fg left=560 index=1000 top=130 time=300 storage=カス札 layer=9][l][say storage=HTUT2_RIZ_0330 _name=リズ]... São quatro, não são?[lr]::
+44432::$$$message_0381_0001_0029$$$::As cartas legais são as mais fortes?"::
+44433::$$$message_0381_0001_0030$$$::"Isso não está tão longe da verdade.[br]Se você conseguir memorizar as 5 [hfkw]cartas Ko[hfekw], fica fácil diferenciar as outras."::
+44434::$$$message_0381_0001_0031$$$::"Janeiro, março, agosto, novembro e dezembro têm, cada um, uma [hfkw]carta Ko[hfekw]. As suas ilustrações são particularmente vibrantes."[stoptrans]::
+44435::$$$message_0381_0001_0032$$$::"As [hfkw]cartas Ko[hfekw] permitem formar mãos de pontuação bem altas, do [hfkw]Sanko[hfekw] ao [hfkw]Goko[hfekw]."::
+44436::$$$message_0381_0001_0033$$$::"As [hfkw]cartas Tane[hfekw] são decoradas principalmente com animais. Você pode lembrá-las como as cartas que não são [hfkw]Ko[hfekw] e que possuem cores fortes sem as faixas retangulares."[stoptrans]::
+44437::$$$message_0381_0001_0034$$$::"As [hfkw]cartas Tane[hfekw] podem ser usadas para formar [hfkw]mãos de pontuação[hfekw] como [hfkw]Tane[hfekw] ou [hfkw]Inoshikacho[hfekw]."::
+44438::$$$message_0381_0001_0035$$$::"As [hfkw]cartas Tan[hfekw] são ilustradas com faixas vermelhas e azuis. Você pode usá-las para formar mãos como [hfkw]Tan[hfekw], [hfkw]Akatan[hfekw] ou [hfkw]Aotan[hfekw]."[stoptrans]::
+44439::$$$message_0381_0001_0036$$$::"Embora haja 3 [hfkw]cartas Tan[hfekw] azuis, atente-se de que há 7 [hfkw]cartas Tan[hfekw] vermelhas: 3 com texto e 4 sem texto."::
+44440::$$$message_0381_0001_0037$$$::"Nesta aqui, eu escrevi 'Espero que a Illya apareça mais na tela'."::
+44441::$$$message_0381_0001_0038$$$::"Elas não foram feitas para você escrever seus desejos.[lr]::
+44442::$$$message_0381_0001_0039$$$::[hfstopsweat][hffacechg2 chara=セラ face=喜 layer=1 time=200][hfsigh pos=lower]...Embora eu deva admitir que a sua preocupação com a nossa senhora é exemplar."::
+44443::$$$message_0381_0001_0040$$$::"As cartas com ilustrações simples, que não são [hfkw]Ko[hfekw], [hfkw]Tane[hfekw] nem [hfkw]Tan[hfekw], são as cartas Kasu."[stoptrans]::
+44446::$$$message_0381_0002_0000$$$::"Ainda assim, as próprias [hfkw]cartas Kasu[hfekw] podem ser usadas para criar mãos [hfkw]Kasu[hfekw]. Não as subestime; afinal de contas, as partidas podem ser ganhas ou perdidas por um único ponto."::
+44447::$$$message_0381_0002_0001$$$::"É! Elas são tão espertinhas, mas as pessoas as chamam de lixo, idiotas, tão planas quanto o horizonte..."::
+44448::$$$message_0381_0002_0002$$$::"...Como é que é? Para o seu governo, o horizonte é ligeiramente curvo."::
+44449::$$$message_0381_0002_0003$$$::"Isso abrange os tipos de cartas. A seguir, explicarei as [hfkw]mãos de pontuação[hfekw]."[stoptrans]::
+44450::$$$message_0381_0002_0004$$$::"Ainda não acabamos?"::
+44451::$$$message_0381_0002_0005$$$::"Certamente que não. Tudo começa pelos fundamentos."::
+44452::$$$message_0381_0002_0006$$$::"Dito isso, você aprenderá sobre as [hfkw]mãos[hfekw] rapidamente enquanto joga o jogo, portanto, pegaremos leve com isso."::
+44453::$$$message_0381_0002_0007$$$::"Hm."::
+44454::$$$message_0381_0002_0008$$$::"Existem 12 [hfkw]mãos de pontuação[hfekw] no Koi-Koi. Essencialmente, reunir o mesmo tipo de carta formará uma [hfkw]mão[hfekw]."[stoptrans]::
+44455::$$$message_0381_0002_0009$$$::"Uma série de [hfkw]cartas Ko[hfekw] formará a [hfkw]Sanko[hfekw], a [hfkw]Shiko[hfekw] ou a [hfkw]Goko[hfekw], a depender da quantidade de cartas."[stoptrans]::
+44456::$$$message_0381_0002_0010$$$::"Como exceção, a [hfkw]Ame[hfekw], a carta da 'Chuva', não pode ser parte da [hfkw]Sanko[hfekw], e a [hfkw]Ameshiko[hfekw] pontuará 7 pontos em vez de 8."::
+44457::$$$message_0381_0002_0011$$$::"Por quê?"::
+44458::$$$message_0381_0002_0012$$$::"Porque essa é a regra...[wait time=600 canskip=true][lr][say storage=HTUT2_SER_0760 _name=セラ]  Suponho que lhe deva uma explicação melhor do que essa."::
+44459::$$$message_0381_0002_0013$$$::"Se me permite recorrer à minha educação..."[stoptrans]::
+44460::$$$message_0381_0002_0014$$$::"A figura representada na [hfkw]Ame[hfekw][line len=2]que é a carta Ko de novembro[line len=2]baseia-se em Ono-no-Toufuu, um famoso calígrafo do período Heian..."[stoptrans]::
+44461::$$$message_0381_0002_0015$$$::"Há uma história que descreve como Toufuu superou seu bloqueio criativo ao ver um sapo pulando em um salgueiro, o qual também o advertiu sobre uma ameaça ao trono imperial."::
+44462::$$$message_0381_0002_0016$$$::"Além disso, dado que as outras [hfkw]cartas Ko[hfekw] retratam as flores de cerejeira e a lua, há quem diga que a [hfkw][hfsigh pos=lower][l][say storage=HTUT2_SER_0820 _name=セラ]Chuva[hfekw] estragaria a sua beleza."::
+44463::$$$message_0381_0002_0017$$$::"Ah. Então eu só preciso lembrar que ela é uma carta especial."::
+44464::$$$message_0381_0002_0018$$$::"Exatamente."[stoptrans]::
+44465::$$$message_0381_0002_0019$$$::"Agora, as cartas [hfkw]Ko[hfekw] e [hfkw]Tane[hfekw] podem ser combinadas para as mãos [wvl][hfkw]Hanamizake[hfekw], que significa 'Saquê de Contemplação de Flores',[fg left=160 index=1000 top=134 time=500 storage=花見酒 layer=6 nowait=1] e [hfkw]Tsukimizake[hfekw], que significa 'Saquê de Contemplação da Lua'.[fg left=458 index=1000 top=135 time=500 storage=月見酒 layer=7 nowait=1]"[stoptrans]::
+44466::$$$message_0381_0002_0020$$$::"Embora sejam [hfkw]combinações[hfekw] exclusivas, não devem ser muito difíceis de se lembrar, graças aos significados de seus nomes. [hffacechg2 chara=セラ face=喜 layer=1 time=200][hfpop pos=lower][l][say storage=HTUT2_SER_0900 _name=セラ]Têm uma temática de certa forma elegante."::
+44467::$$$message_0381_0002_0021$$$::"A próxima é a [hfkw]Inoshikacho[hfekw]. Ela pode ser acrescentada a outras [hfkw]cartas Tane[hfekw] para alcançar uma combinação de pontuação ainda mais alta. [hffeelgood pos=lower][l][say storage=HTUT2_SER_0930 _name=セラ]Não é nada fácil conseguir formá-la."[stoptrans]::
+44468::$$$message_0381_0002_0022$$$::"Na sequência, o [hfkw]Akatan[hfekw][fg left=109 index=1000 top=135 time=500 storage=赤短 layer=6 nowait=1] e o [hfkw]Aotan[hfekw] [fg left=429 index=1000 top=135 time=500 storage=青短 layer=7 nowait=1]também podem ser combinadas com outras [hfkw]cartas Tan[hfekw] para uma pontuação alta."::
+44469::$$$message_0381_0002_0023$$$::"Você tem que colecionar todas as cartas do [hfkw]Akatan[hfekw] com texto nelas?"::
+44470::$$$message_0381_0002_0024$$$::"Isso mesmo. O [hfkw]Aotan[hfekw] e o [hfkw]Akatan[hfekw] concedem um total de 10 pontos quando ambas são inteiramente reunidas."::
+44471::$$$message_0381_0002_0025$$$::"Por exemplo, imagine os cupons de fidelidade da loja de sobremesas Fleur. Você continua os colecionando, mas eles continuam vencendo, e você nunca alcança os 10 cupons de que precisa para um brinde grátis. Um paraíso agridoce."::
+44472::$$$message_0381_0002_0026$$$::"Chega disso."::
+44473::$$$message_0381_0003_0000$$$::"Onde eu estava?[br][fg left=133 index=1000 top=79 time=500 storage=たね layer=6 nowait=1] Ah, claro. Ao se reunir 5 [hfkw]cartas Tane[hfekw], a mão [hfkw]Tane[hfekw] é criada."[stoptrans]::
+44474::$$$message_0381_0003_0001$$$::"Além disso, 5 [hfkw]cartas Tan[hfekw] criarão a mão [hfkw]Tan[hfekw], mesmo que você não tenha o conjunto completo do [hfkw]Akatan[hfekw] ou do [hfkw]Aotan[hfekw]."[stoptrans]::
+44475::$$$message_0381_0003_0002$$$::"Você disse que se houver mais [hfkw]Tane[hfekw] ou [hfkw]Tan[hfekw] extras, o jogador ganha mais pontos, não é?"[stoptrans]::
+44476::$$$message_0381_0003_0003$$$::"Sim. 6 ou 7 cartas concederão 2 ou 3 pontos, respectivamente."::
+44477::$$$message_0381_0003_0004$$$::"Por fim, como eu mencionei antes, você pode criar uma mão [hfkw]Kasu[hfekw] com 10 [hfkw]cartas Kasu[hfekw]."[stoptrans]::
+44478::$$$message_0381_0003_0005$$$::"10 cartas renderão 1 ponto. Não é muito, mas um ponto é um ponto."::
+44481::$$$message_0381_0003_0008$$$::"Isso conclui minha apresentação dos fundamentos do hanafuda e as regras do Koi-Koi."[stoptrans]::
+44482::$$$message_0381_0003_0009$$$::"Ufa. Estou cheia."::
+44483::$$$message_0381_0003_0010$$$::"É mesmo? Então considere que o nosso próximo assunto será a sobremesa."::
+44484::$$$message_0381_0003_0011$$$::"A-ah."::
+44485::$$$message_0381_0003_0012$$$::"A seguir, eu explicarei sobre o jogo principal: 'Diário de Viagem do Tigre&Shorts Hanafuda'."[stoptrans]::
+44486::$$$message_0381_0003_0013$$$::"Selecione 'Regras' no menu inicial para ver os detalhes de como compor mãos de pontuação."[stoptrans]::
+44487::$$$message_0381_0003_0014$$$::"Dê uma chance para o jogo e aprenda enquanto joga, até que você pegue o jeito da coisa."::
+44488::$$$message_0381_0003_0015$$$::"Sim, senhora."::
+44489::$$$message_0381_0003_0016$$$::"Você pode fazer os devidos ajustes na sua experiência de jogo selecionando 'Opções' no menu inicial ou 'Configurações' no lado esquerdo da tela durante uma partida."[stoptrans]::
+44490::$$$message_0381_0003_0017$$$::"Perfeito para alguém tão neurótica quanto você."::
+44491::$$$message_0381_0003_0018$$$::"Você também pode achar os menus de [hfkw]Ver Mãos[hfekw] e [hfkw]Ver Cartas[hfekw] bastante proveitosos. Não se esqueça de usá-los devidamente."[clfig][stoptrans]::
+44492::$$$message_0381_0003_0019$$$::"E com isso..."[stoptrans]::
+44493::$$$message_0381_0003_0020$$$::"...?"::
+44494::$$$message_0381_0003_0021$$$::"Chegamos ao aspecto mais peculiar de 'Diário de Viagem do Tigre&Shorts Hanafuda': os [hfkw]Fantasmas Nobres[hfekw]!"::
+44495::$$$message_0381_0003_0022$$$::"[hfkw]Fantasmas Nobres[hfekw]?"::
+44496::$$$message_0381_0003_0023$$$::"Cada personagem deste jogo possui um movimento decisivo e único chamado [hfkw]Fantasma Nobre[hfekw]!"[br]::
+44497::$$$message_0381_0003_0024$$$::"Gh...!"::
+44498::$$$message_0381_0003_0025$$$::"Os personagens dispõem de [hfkw]Pontos de Magia (MP)[hfekw] que eles podem gastar para mudar o rumo de uma batalha."::
+44499::$$$message_0381_0003_0026$$$::"Como eu consigo mais MP?[lr]::
+44500::$$$message_0381_0003_0027$$$::[hffacechg2 chara=リズ face=喜 layer=1 time=200][hfpop pos=lower] Encontros sensuais cheios de romance?"::
+44501::$$$message_0381_0003_0028$$$::"Não! Essencialmente, obtendo-se [hfkw]cartas Ko[hfekw]. Não basta apenas ter as cartas em suas mãos. Garanta jogá-las na [hfkw]mesa[hfekw] para adquirir MP."[stoptrans]::
+44502::$$$message_0381_0003_0029$$$::"Ademais, cada personagem [hfkw]adquire MP de certas cartas[hfekw], mas as especificidades disso são em segredo."::
+44503::$$$message_0381_0003_0030$$$::"O quê!?"::
+44504::$$$message_0381_0003_0031$$$::"Hehehe. Os [hfkw]Fantasmas Nobres[hfekw] não devem ser revelados levianamente.[stopmove][hfsigh pos=lower][l][say storage=HTUT2_SER_1200 _name=セラ] Tente e faça o seu melhor para descobri-los à medida que o seu progresso no jogo avança."::
+44505::$$$message_0381_0003_0032$$$::"Ahh..."::
+44506::$$$message_0381_0003_0033$$$::"Temos uma variedade enorme de [hfkw]Fantasmas Nobres[hfekw]. Se quiser saber mais sobre eles, dê uma lida no painel [hfkw]Detalhes do Fantasma Nobre[hfekw] na guia 'Opções'."::
+44508::$$$message_0381_0003_0035$$$::"...Parece difícil arranjar mais MP.[br]Esse jogo é difícil de verdade?"::
+44509::$$$message_0381_0003_0036$$$::"A prática leva à perfeição. Aprenda o momento perfeito para jogar suas cartas e Fantasmas Nobres e gere um impacto abalador."::
+44510::$$$message_0381_0003_0037$$$::"Agora, vamos pôr o seu aprendizado em prática em uma partida real."::
+44511::$$$message_0381_0003_0038$$$::"É, bora."::
+

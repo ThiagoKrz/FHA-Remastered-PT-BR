@@ -1,0 +1,729 @@
+DAT
+id=qid::label=str::text=lstr::
+25712::$$$message_0187_0000_0000$$$::Não consigo nem gemer.[lr]::
+25713::$$$message_0187_0000_0001$$$::Ha um galho podre perfurando minha garganta.[lr]::
+25714::$$$message_0187_0000_0002$$$::Meu língua foi puxada pela raiz.[lr]::
+25715::$$$message_0187_0000_0003$$$::Eles destruíram cuidadosamente meus cordões vocais para que eu não pudesse formar nenhuma palavra.::
+25716::$$$message_0187_0001_0000$$$::Mesmo que eu quisesse, não tenho a liberdade de sofrer.[lr]::
+25717::$$$message_0187_0001_0001$$$::Fui desmembrado da cintura e dos ombros.[lr]::
+25718::$$$message_0187_0001_0002$$$::O único pedaço humano que ainda me resta é o meu coração.[lr]::
+25719::$$$message_0187_0001_0003$$$::Meu corpo parou de funcionar há muito tempo, mas minha sensação de dor ainda funciona perfeitamente.[lr]::
+25720::$$$message_0187_0001_0004$$$::Viver é sofrer.[lr]::
+25721::$$$message_0187_0001_0005$$$::Mesmo que só meu coração reste, ainda sinto a dor da existência.::
+25722::$$$message_0187_0002_0000$$$::Fazia muito tempo.[lr]::
+25723::$$$message_0187_0002_0001$$$::Eles me deixam exposto aos elementos.::
+25724::$$$message_0187_0003_0000$$$::É um extremo esperança, e desespero sem saída.[lr]::
+25725::$$$message_0187_0003_0001$$$::Ridículo. Isso é uma horrível ilusão.[lr]::
+25726::$$$message_0187_0003_0002$$$::É tudo um mal-entendido nascido de uma total falta de percepção e experiência.::
+25727::$$$message_0187_0004_0000$$$::...Eu repito o sofrimento e o conforto.[lr]::
+25728::$$$message_0187_0004_0001$$$::Lembro dos treinos repetitivos que supostamente realizei na minha juventude.[lr]::
+25729::$$$message_0187_0004_0002$$$::Céu. Inferno. Oeste. Leste.::
+25730::$$$message_0187_0005_0000$$$::Minha falta de membros e minha deterioração gradual não doem.[lr]::
+25731::$$$message_0187_0005_0001$$$::Mas tenho medo.[lr]::
+25732::$$$message_0187_0005_0002$$$::Tenho medo de ser nada.[lr]::
+25733::$$$message_0187_0005_0003$$$::Não consigo suportar a falsidade de não conseguir tornar-me nada.[lr]::
+25734::$$$message_0187_0005_0004$$$::Se um dia eu não conseguir produzir nada...[lr]::
+25735::$$$message_0187_0005_0005$$$::...então isso deve ser sofrimento por si só.::
+25736::$$$message_0187_0006_0000$$$::Um corpo sem vida, na beira da morte.[lr]::
+25737::$$$message_0187_0006_0001$$$::Quero desesperadamente continuar vivendo, mesmo que com loucura desejando a morte.[lr]::
+25738::$$$message_0187_0006_0002$$$::Há muito tempo atrás, [lr]::
+25739::$$$message_0187_0006_0003$$$::Eles chamaram essa contradição de "inferno"."::
+25740::$$$message_0187_0007_0000$$$::Se eu devo confessar...[lr]::
+25741::$$$message_0187_0007_0001$$$::Eu nunca realmente quis morrer.[rf]::
+25742::$$$message_0187_0008_0000$$$::...Ouço um barulho.[lr]::
+25743::$$$message_0187_0008_0001$$$::Clique, clique. [se volume=30 storage=se600.wav]Clique, clique.[lr]::
+25744::$$$message_0187_0008_0002$$$::Soa como pedras que batem umas nas outras de forma rítmica. Me lembra uma polca alegre.[lr]::
+25745::$$$message_0187_0008_0003$$$::Ouço distraído o som.::
+25746::$$$message_0187_0009_0000$$$::...Onde estou?[lr]::
+25747::$$$message_0187_0009_0001$$$::Eu não me lembro. Não, eu simplesmente não quero me lembrar.[lr]::
+25748::$$$message_0187_0009_0002$$$::Estou envergonhado com como sou desajeitado.[lr]::
+25749::$$$message_0187_0009_0003$$$::Estou acordado, mas nem tento despertar minha consciência ou minha inteligência.::
+25750::$$$message_0187_0010_0000$$$::"Ngh, ah..."[lr]::
+25751::$$$message_0187_0010_0001$$$::Foco no meu pesado crânio e membros. Derrubo meu corpo desobediente em ação.[lr]::
+25752::$$$message_0187_0010_0002$$$::Forço meus braços a empurrar levemente meu corpo deitado.[lr]::
+25753::$$$message_0187_0010_0003$$$::...Parece que estou deitado em um sofá.::
+25754::$$$message_0187_0011_0000$$$::Quero saber por quanto tempo estou dormindo.[lr]::
+25755::$$$message_0187_0011_0001$$$::[se volume=40 storage=se600.wav]Quando tento me lembrar, não, quando tento me lembrar de onde estou para começar...[move textoff=0 time=100 path=(0,0,255)(0,0,100)(0,0,0) storage=white accel=0][haze textoff=0 layer=base intime=200 waves=(2,1,5) upper=0 lower=600 center=300 upperpow=0.1 lowerpow=0.1 centerpow=0.6][lr]::
+25756::$$$message_0187_0011_0002$$$::Uma dor terrível percorre meus templos.[lr]::
+25757::$$$message_0187_0011_0003$$$::Sinto-me tonto, como se tivesse passado uma noite bebendo muito.[lr]::
+25758::$$$message_0187_0011_0004$$$::Tenho o hábito ruim de exibir-me e de beber até a noite acabar, mesmo sendo um tipo fraco, mas, felizmente, não há mais álcool no meu corpo.[wm canskip=0]::
+25759::$$$message_0187_0012_0000$$$::"Este lugar..."[lr]::
+25760::$$$message_0187_0012_0001$$$::Meu cérebro nebuloso e tremulo avalia a situação.[lr]::
+25761::$$$message_0187_0012_0002$$$::...Isso é uma mansão?[lr]::
+25762::$$$message_0187_0012_0003$$$::[se volume=50 storage=se600.wav]Isso não parece muito familiar. Não consigo me lembrar muito bem do que estava fazendo aqui ou por que estava dormindo.::
+25763::$$$message_0187_0013_0000$$$::Clique. Clique. Clique.[lr]::
+25764::$$$message_0187_0013_0001$$$::O barulho continua.[lr]::
+25765::$$$message_0187_0013_0002$$$::Não há relógio na sala. Está escuro lá fora. O meu senso interno de tempo me diz que é depois da meia-noite. A sala é... Não adianta, não vejo muito bem.[lr]::
+25766::$$$message_0187_0013_0003$$$::Não só meus membros estão pesados, minha visão também está prejudicada.[lr]::
+25767::$$$message_0187_0013_0004$$$::Eu tento inspecionar o quarto, mas minha visão continua flutuando, então não consigo ter uma visão completa dele.::
+25768::$$$message_0187_0014_0000$$$::Eu ainda tento entender o que está acontecendo, e finalmente...[lr]::
+25769::$$$message_0187_0014_0001$$$::"Hmm...?"[lr]::
+25770::$$$message_0187_0014_0002$$$::Diante de mim,[lr]::
+25771::$$$message_0187_0014_0003$$$::Eu noto alguém sentado com as costas para mim.::
+25772::$$$message_0187_0015_0000$$$::"Um homem...?"[lr]::
+25773::$$$message_0187_0015_0001$$$::Com a falta de iluminação e minha visão ruim, não consigo dizer com certeza.[lr]::
+25774::$$$message_0187_0015_0002$$$::Conseguo discernir uma silhueta masculina.[lr]::
+25775::$$$message_0187_0015_0003$$$::O homem está sentado ali com a cabeça baixa.[lr]::
+25776::$$$message_0187_0015_0004$$$::Ele está sentado como se estivesse absorvido em um livro, e não percebe a minha presença.[lr]::
+25777::$$$message_0187_0015_0005$$$::Ele parece estar pensando em algo.::
+25778::$$$message_0187_0016_0000$$$::"...?"[lr]::
+25779::$$$message_0187_0016_0001$$$::Eu não sei o que ele está fazendo. Devagar, empurro meu corpo até ficar de pé o suficiente para ver suas mãos.[lr]::
+25780::$$$message_0187_0016_0002$$$::Meus membros recuperam-se mais facilmente do que minha mente e visão.[lr]::
+25781::$$$message_0187_0016_0003$$$::Assim que os movo, o movimento adiante parece mais fácil.::
+25782::$$$message_0187_0017_0000$$$::O homem não está lendo um livro.[lr]::
+25783::$$$message_0187_0017_0001$$$::Ele está olhando para... algum tipo de quebra-cabeça deslizante.[lr]::
+25784::$$$message_0187_0017_0002$$$::É um jogo simples, uma imagem dividida em 16 peças que você embaralha e tenta recompor... Acho que sim.[lr]::
+25785::$$$message_0187_0017_0003$$$::Um tipo de diversão para crianças. Alguma coisa que qualquer pessoa provavelmente já tentou uma ou duas vezes.::
+25786::$$$message_0187_0018_0000$$$::O homem está absorvido no quebra-cabeça.[lr]::
+25787::$$$message_0187_0018_0001$$$::Paro de observá-lo e me levanto para a posição sentada.[lr]::
+25788::$$$message_0187_0018_0002$$$::"Ei. Você acordou, Mestre."[lr]::
+25789::$$$message_0187_0018_0003$$$::Ele me cumprimenta como um velho amigo.::
+25790::$$$message_0187_0019_0000$$$::"Mas... ter... [noise opacity=90]?"[lr]::
+25791::$$$message_0187_0019_0001$$$::Eu me assusto com[stopnoise] o som da minha própria voz.::
+25792::$$$message_0187_0020_0000$$$::"Hmm? Que, você ainda está dormindo?[lr]::
+25793::$$$message_0187_0020_0001$$$::Vamos, acorda logo. Seus olhos parecem mortos. Onde está aquele ar super-sério?"[lr]::
+25794::$$$message_0187_0020_0002$$$::O homem riu-se.[lr]::
+25795::$$$message_0187_0020_0003$$$::Seu riso irritante não me incomoda.[lr]::
+25796::$$$message_0187_0020_0004$$$::Olho para ele, intrigado.::
+25797::$$$message_0187_0021_0000$$$::"Por que eu..."[lr]::
+25798::$$$message_0187_0021_0001$$$::Devo priorizar essa pergunta primeiro.[lr]::
+25799::$$$message_0187_0021_0002$$$::Apenas não consigo lembrar por que estava dormindo.[lr]::
+25800::$$$message_0187_0021_0003$$$::O homem frisa[line len=2]de algum modo, posso sentir, mesmo que não consiga vê-lo[line len=2]e aponta para a esquina da sala.[lr]::
+25801::$$$message_0187_0021_0004$$$::Tem uma imagem antiga e nebulosa de alguém ali.::
+25802::$$$message_0187_0022_0000$$$::"Veja por si mesmo.[lr]::
+25803::$$$message_0187_0022_0001$$$::Você pode fazer tudo sozinho."[lr]::
+25804::$$$message_0187_0022_0002$$$::"..."[lr]::
+25805::$$$message_0187_0022_0003$$$::Movemo-me até a figura com passos instáveis.[lr]::
+25806::$$$message_0187_0022_0004$$$::A luz da lua pálida destaca-se no quarto não iluminado.[lr]::
+25807::$$$message_0187_0022_0005$$$::Eu vejo um espelho sujo que parece ter sido abandonado há décadas nessa casa, onde quer que esteja.::
+25808::$$$message_0187_0023_0000$$$::E nele...[lr]::
+25809::$$$message_0187_0023_0001$$$::Entendi uma figura que é inconfundivelmente eu, encarando de volta em espanto.::
+25810::$$$message_0187_0024_0000$$$::"Ah..."[lr]::
+25811::$$$message_0187_0024_0001$$$::A minha voz croa.[lr]::
+25812::$$$message_0187_0024_0002$$$::É incomprensível. Por que fico tão surpreso em ver a imagem de mim mesmo, que conheço há mais de vinte anos?[lr]::
+25813::$$$message_0187_0024_0003$$$::Cabelo e olhos castanhos-escuros.[lr]::
+25814::$$$message_0187_0024_0004$$$::Um físico desinteressante que só serve para dominar outros.[lr]::
+25815::$$$message_0187_0024_0005$$$::Um terno masculino, vestido como armadura, como se para negar ser mulher.[lr]::
+25816::$$$message_0187_0024_0006$$$::Essa é a pessoa que sempre fui. Bazett Fraga McRemitz, e ninguém mais.::
+25817::$$$message_0187_0025_0000$$$::"..."[lr]::
+25818::$$$message_0187_0025_0001$$$::E ainda assim, fico surpreso ao me ver.[lr]::
+25819::$$$message_0187_0025_0002$$$::Algo está errado com meu reflexo.[lr]::
+25820::$$$message_0187_0025_0003$$$::Algo está lá que não deveria estar, e algo mais está faltando.[lr]::
+25821::$$$message_0187_0025_0004$$$::Algum lugar no fundo da minha mente, sei que é uma contradição.::
+25822::$$$message_0187_0026_0000$$$::"Melhorando? Então vamos matar algo.[lr]::
+25823::$$$message_0187_0026_0001$$$::Nenhum de nós gosta de ter o traseiro espatifado, não é, [font italic=true]Mestre?[font italic=false]"::
+25824::$$$message_0187_0027_0000$$$::"..."[lr]::
+25825::$$$message_0187_0027_0001$$$::Suas palavras apagaram um leve erro que eu estava sentindo.[lr]::
+25826::$$$message_0187_0027_0002$$$::Mestre.[lr]::
+25827::$$$message_0187_0027_0003$$$::Por que esqueci essa palavra?[lr]::
+25828::$$$message_0187_0027_0004$$$::Sete mágicos que lutam numa guerra milagrosa de sobrevivência, portadores do Santo Graal que comandam os famíliars supremos.[lr]::
+25829::$$$message_0187_0027_0005$$$::Venho aqui para ser um Mestre.[lr]::
+25830::$$$message_0187_0027_0006$$$::Cheguei a esta ilha no Extremo Oriente para participar de um ritual chamado Guerra do Santo Graal.::
+25831::$$$message_0187_0028_0000$$$::A Santa Cúpula é um relicário sagrado dito conceder o desejo de seu proprietário, mas ninguém jamais obteve a verdadeira Santa Cúpula.[lr]::
+25832::$$$message_0187_0028_0001$$$::É apenas uma lenda. A Santa Cúpula invocada em Fuyuki é uma falsificação dessa lenda.[lr]::
+25833::$$$message_0187_0028_0002$$$::Ainda assim, chamam-no de Santo Graal porque concede desejos, mesmo que não seja o original.::
+25834::$$$message_0187_0029_0000$$$::Para os magos, a autenticidade é de importância secundária.[lr]::
+25835::$$$message_0187_0029_0001$$$::Eles só se importam se essa réplica tem poder ou não. Por esses padrões, o Santo Graal de Fuyuki vale a pena ser perseguido.[wm canskip=0]::
+25836::$$$message_0187_0030_0000$$$::"A 726ª Santa Cúpula convocada naquela terra tem o potencial de se tornar a verdadeira Santa Cúpula. Vá e remova-a do reino mortal, em nome da ordem baseada em nossos ideais."[lr]::
+25837::$$$message_0187_0030_0001$$$::A Associação de Magos a qual pertenço...uma organização independente formada para ocultar a taumaturgia...fiz essa decisão.[wt canskip=0]::
+25838::$$$message_0187_0031_0000$$$::A Guerra do Santo Graal neste país é uma competição entre mages.[lr]::
+25839::$$$message_0187_0031_0001$$$::A Guerra do Santo Graal de Fuyuki permite um número limitado de participantes, e a Associação ocupa apenas uma dessas vagas.[lr]::
+25840::$$$message_0187_0031_0002$$$::Alguém especializado em combate seria selecionado para o cargo.[lr]::
+25841::$$$message_0187_0031_0003$$$::O candidato mais apropriado é um mágico conhecido por sua habilidade em combate, não por conquistas acadêmicas.[wt canskip=0]::
+25842::$$$message_0187_0032_0000$$$::...A conflito nessa ilha do Extremo Oriente foi simplesmente uma pequena perturbação de um ritual, longe da luta interna de poder da Associação.[lr]::
+25843::$$$message_0187_0032_0001$$$::A falha não era permitida, mas não havia glória a ser conquistada nesta guerra.[lr]::
+25844::$$$message_0187_0032_0002$$$::Eles me escolheram para lutar contra isso.[wt canskip=0]::
+25845::$$$message_0187_0033_0000$$$::Usei um tesouro familiar como meu catalisador de invocação.[lr]::
+25846::$$$message_0187_0033_0001$$$::Armado com o prestígio e a confiança da Associação, e com uma espada, saí da Associação para o Japão.::
+25847::$$$message_0187_0034_0000$$$::"Nada a nos preocupar.[lr]::
+25848::$$$message_0187_0034_0001$$$::Ela? Bazett Fraga McRemitz?[lr]::
+25849::$$$message_0187_0034_0002$$$::Você é um exemplo exemplar de mago. Ninguém pode superar você em combate. Se houvesse alguém que pudesse, sua posição estaria em risco."::
+25850::$$$message_0187_0035_0000$$$::Eles me despediram com sorrisos traiçoeiros.[lr]::
+25851::$$$message_0187_0035_0001$$$::Como disseram, tinham a máxima confiança e o absoluto desdém pelos meus habilidades de combate.[lr]::
+25852::$$$message_0187_0035_0002$$$::Um Guardião dos Deuses.[lr]::
+25853::$$$message_0187_0035_0003$$$::Este título, um antigo atributo mágico transmitido por minha linhagem, define minha existência.[wt canskip=0][current withback=false]::
+25854::$$$message_0187_0036_0000$$$::"...Isso mesmo. Participei da Guerra do Santo Graal como Mestre."[lr]::
+25855::$$$message_0187_0036_0001$$$::Isso era minha missão: [lr]::
+25856::$$$message_0187_0036_0002$$$::entrar na guerra em nome da organização e vencê-la.[lr]::
+25857::$$$message_0187_0036_0003$$$::Foi minha única missão, tenho certeza.::
+25858::$$$message_0187_0037_0000$$$::"...Ngh..."[lr]::
+25859::$$$message_0187_0037_0001$$$::Então... por quê?[lr]::
+25860::$$$message_0187_0037_0002$$$::Tenho a vaga sensação de que estava procurando algo além do Santo Graal.[lr]::
+25861::$$$message_0187_0037_0003$$$::Para algo. [font italic=true]Alguém.[font italic=false][lr]::
+25862::$$$message_0187_0037_0004$$$::Eu devia ter querido conhecer alguém mais do que o Santo Graal...::
+25863::$$$message_0187_0038_0000$$$::Não me lembro.[lr]::
+25864::$$$message_0187_0038_0001$$$::O que aconteceu nos últimos dias?[lr]::
+25865::$$$message_0187_0038_0002$$$::Eu sei quem sou agora... mas meus lembros desde que vim para Fuyuki são um nevoeiro.::
+25866::$$$message_0187_0039_0000$$$::Eu me lembro de ter entrado na guerra como Mestre.[lr]::
+25867::$$$message_0187_0039_0001$$$::Lembro de patrulhar a cidade com meu Servo.[lr]::
+25868::$$$message_0187_0039_0002$$$::Mas muitas partes estão faltando. Os últimos dias... Ah, meus lembretes desde que cheguei na cidade estão envoltos em névoa.[lr]::
+25869::$$$message_0187_0039_0003$$$::Primeiro lugar, por que eu estava dormindo nessa mansão?::
+25870::$$$message_0187_0040_0000$$$::"Eiêiêi. Aí vai ficar espaçoando por quanto tempo?[lr]::
+25871::$$$message_0187_0040_0001$$$::Não temos muito tempo. Vamos arrumar esse caos."::
+25872::$$$message_0187_0041_0000$$$::"..."[lr]::
+25873::$$$message_0187_0041_0001$$$::...A sombra tem estado falando comigo há um tempo.[lr]::
+25874::$$$message_0187_0041_0002$$$::Ele é um Servo. Um herói do passado convocado e dado forma para me servir.[lr]::
+25875::$$$message_0187_0041_0003$$$::Um Espírito Heroico que serve humanos, tornando-o o familiar de mais alto nível.::
+25876::$$$message_0187_0042_0000$$$::Há um caminho entre Mestre e Servo, uma conexão pela qual a energia mágica flui.[lr]::
+25877::$$$message_0187_0042_0001$$$::Minha energia mágica...simplesmente dito, minha força vital...permite que meu Servo atue. Meu corpo atua como seu anclagem física, e posso sentir que ele o mantém no mundo mortal.[lr]::
+25878::$$$message_0187_0042_0002$$$::Ele é meu Servo, sem dúvida nenhuma.[lr]::
+25879::$$$message_0187_0042_0003$$$::Mas... ele realmente é o Servo que convocar...?::
+25880::$$$message_0187_0043_0000$$$::"Você é... meu Servo?"[lr]::
+25881::$$$message_0187_0043_0001$$$::Pergunto a ele uma pergunta, minha cabeça pulsando.[lr]::
+25882::$$$message_0187_0043_0002$$$::"Diga o que?"[lr]::
+25883::$$$message_0187_0043_0003$$$::O Servo se levanta e me examina. Ele deve ter sentido algo errado por fim.::
+25884::$$$message_0187_0044_0000$$$::"Hmm... Você...[lr]::
+25885::$$$message_0187_0044_0001$$$::Seu cérebro ainda não voltou ao jogo, não é?"[lr]::
+25886::$$$message_0187_0044_0002$$$::A sombra brilha e treme, como uma chama.[lr]::
+25887::$$$message_0187_0044_0003$$$::...Meus instintos me alertam.[lr]::
+25888::$$$message_0187_0044_0004$$$::Esse homem é meu Servo, mas ele não é aliado.[lr]::
+25889::$$$message_0187_0044_0005$$$::Ele é um monstro que tentará matar seu mestre e se libertar assim que tiver a oportunidade.::
+25890::$$$message_0187_0045_0000$$$::A relação Master-Servo não se baseia na confiança. É apenas uma relação de comércio.[lr]::
+25891::$$$message_0187_0045_0001$$$::O menor sinal de uma falha ou vulnerabilidade nesse vínculo poderia levar à traição imediata.::
+25892::$$$message_0187_0046_0000$$$::"Ei. Estou preocupado com meu parceiro aqui. Você não deveria dizer algo?"[lr]::
+25893::$$$message_0187_0046_0001$$$::"...Sim. Para ser honesto, minhas habilidades estão prejudicadas agora.[lr]::
+25894::$$$message_0187_0046_0002$$$::Não é um problema físico, mas estou com algum conflito mental. Minhas memórias do dia anterior estão especialmente confusas."::
+25895::$$$message_0187_0047_0000$$$::Não há nada a ser ganho ao ocultar meus problemas de memória.[lr]::
+25896::$$$message_0187_0047_0001$$$::Retorno o olhar do meu Servo e admito que há algo errado comigo.[lr]::
+25897::$$$message_0187_0047_0002$$$::Mas eu esconderei o que puder.[lr]::
+25898::$$$message_0187_0047_0003$$$::Não posso revelar o fato de que minha visão está prejudicada, nem que meus lembretes estão ausentes, não apenas confusos.[lr]::
+25899::$$$message_0187_0047_0004$$$::...Essas são minhas fraquezas atuais. Se esse Servo perceber, provavelmente atacará logo em seguida.[lr]::
+25900::$$$message_0187_0047_0005$$$::O melhor que posso fazer agora é agir da forma mais natural possível, tentar extrair inteligência dele e tentar restaurar meus próprios lembros.::
+25901::$$$message_0187_0048_0000$$$::"Suas memórias não estão claras? Você não sabe nada mesmo após falar comigo? Você não sabe o que é o Santo Graal, nem mesmo quem é?[lr]::
+25902::$$$message_0187_0048_0001$$$::Carra, carra, dá um tempo! Isso é pior até do que se juntar a um total amador!"::
+25903::$$$message_0187_0049_0000$$$::"Não, tenho uma noção firme de quem sou.[lr]::
+25904::$$$message_0187_0049_0001$$$::Lembro também de ter te convocado e de ter entrado na Guerra do Santo Graal. Minhas memórias depois disso são vagas.[lr]::
+25905::$$$message_0187_0049_0002$$$::Por exemplo, eu simplesmente não consigo lembrar por que estava dormindo aqui."::
+25906::$$$message_0187_0050_0000$$$::Eu afirmo os fatos, mostrando nenhuma fraqueza.[lr]::
+25907::$$$message_0187_0050_0001$$$::Parece que funciona. O ar de desconfiança do Servo recua.::
+25908::$$$message_0187_0051_0000$$$::"Agora é minha vez de fazer uma pergunta: [lr]::
+25909::$$$message_0187_0051_0001$$$::Por que eu estava dormindo aqui?"[lr]::
+25910::$$$message_0187_0051_0002$$$::"Como eu deveria saber isso?[lr]::
+25911::$$$message_0187_0051_0003$$$::Você disse que essa mansão seria nosso esconderijo, e foi você mesma quem disse logo depois de me invocar que estava cansada e queria descansar.[lr]::
+25912::$$$message_0187_0051_0004$$$::Lembra tanto assim?"::
+25913::$$$message_0187_0052_0000$$$::Hmm.[lr]::
+25914::$$$message_0187_0052_0001$$$::Eu me lembro de ter procurado um lugar para estabelecer minha base antes de chegar em Fuyuki.[lr]::
+25915::$$$message_0187_0052_0002$$$::Essa mansão... sim, esse lugar era um local potencial.[lr]::
+25916::$$$message_0187_0052_0003$$$::...Minha consciência se apaga.[lr]::
+25917::$$$message_0187_0052_0004$$$::Eu fico fraco ao tentar me lembrar das minhas memórias.[lr]::
+25918::$$$message_0187_0052_0005$$$::Agora não devo me esforçar muito.::
+25919::$$$message_0187_0053_0000$$$::"Eu tive que ter decidido fazer isso minha base. Lembro de ter feito isso.[lr]::
+25920::$$$message_0187_0053_0001$$$::E então... invoquei você."[lr]::
+25921::$$$message_0187_0053_0002$$$::Lembro vagamente.[lr]::
+25922::$$$message_0187_0053_0003$$$::Eu tenho certeza de que fiz um pacto com esse Servo, nesta mansão.::
+25923::$$$message_0187_0054_0000$$$::"Direito, direito. Então você foi direto dormir. Só me disse seu nome e disse para não fazer nada até que acordasse.[lr]::
+25924::$$$message_0187_0054_0001$$$::Então, eu também estou preso aqui.[lr]::
+25925::$$$message_0187_0054_0002$$$::Você me convocou para fazer algum matar, então por que temos que colocar tudo em espera?"::
+25926::$$$message_0187_0055_0000$$$::Eu só lhe dei meu nome...?[lr]::
+25927::$$$message_0187_0055_0001$$$::Espere... Mais importante ainda, o comportamento desse Servo é perigoso.[lr]::
+25928::$$$message_0187_0055_0002$$$::Ele parece belligerente e confiável, mas seria um problema se gostasse muito de combate.::
+25929::$$$message_0187_0056_0000$$$::"Espera. Só para confirmar, nunca conversamos sobre nossa estratégia básica?"::
+25930::$$$message_0187_0057_0000$$$::"Não. Talvez nem precisássemos.[lr]::
+25931::$$$message_0187_0057_0001$$$::Você já fez sua pesquisa sobre essa cidade, e eles me bateram na cabeça com o que é a Guerra do Santo Graal assim que fui convocado.[lr]::
+25932::$$$message_0187_0057_0002$$$::Então só precisamos ser rápidos, eficientes e implacáveis na eliminação dos outros Mestres. Não precisa de reunião para discutir isso."::
+25933::$$$message_0187_0058_0000$$$::"..."[lr]::
+25934::$$$message_0187_0058_0001$$$::"...Ugh, para de fazer essa cara assustadora. Seu olhar me dá arrepios.[lr]::
+25935::$$$message_0187_0058_0002$$$::Disse algo que me ofendeu?"[lr]::
+25936::$$$message_0187_0058_0003$$$::"Sim. Precisamos nos entender melhor. Me incomoda que meu Servo seja tão descuidado.[lr]::
+25937::$$$message_0187_0058_0004$$$::Sou um mágico representante da Associação, e não tenho a intenção de ser um treinador de animais."::
+25938::$$$message_0187_0059_0000$$$::Eu faço meu Servo cair de joelhos com um olhar de fúria.[lr]::
+25939::$$$message_0187_0059_0001$$$::Meu Servo reflete e olha para outro lado.[lr]::
+25940::$$$message_0187_0059_0002$$$::"Bem, não espero que entendamos muito um do outro."[lr]::
+25941::$$$message_0187_0059_0003$$$::Ele murmura como se não o preocupasse.::
+25942::$$$message_0187_0060_0000$$$::"Bem, então, ó magnífico representante da Associação, qual guerra você quer travar?"[lr]::
+25943::$$$message_0187_0060_0001$$$::"Uma que agiu com discrição, sem conflitos desnecessários.[lr]::
+25944::$$$message_0187_0060_0002$$$::A nossa prioridade inicial é investigar os Mestres inimigos. Uma vez que conhecemos os detalhes dessa Guerra do Santo Graal, poderemos considerar a ordem em que eliminar nossos inimigos e começar a exterminá-los."::
+25945::$$$message_0187_0061_0000$$$::Eram meus ordens da Associação.[lr]::
+25946::$$$message_0187_0061_0001$$$::Primeiro, preciso investigar as três famílias que administram a guerra: os Einzbern, Tohsaka e Makiri.[lr]::
+25947::$$$message_0187_0061_0002$$$::Então, verei os outros três Mestres.[lr]::
+25948::$$$message_0187_0061_0003$$$::O diálogo pode me ajudar a identificar bruxos que estão dispostos a abandonar o papel de Mestres. Eles podem até ser dignos de serem integrados à Associação.[lr]::
+25949::$$$message_0187_0061_0004$$$::Em qualquer caso, eu me envergonharia como um feiticeiro da Associação se agisse antes de reunir todas as informações necessárias.::
+25950::$$$message_0187_0062_0000$$$::"Queeee? Por que você está fazendo isso tão devagar? Você não é seu cachorro.[lr]::
+25951::$$$message_0187_0062_0001$$$::Encontre seus inimigos e mate-os, Mestre. Todos estão na mesma linha de negócios de esmaga-los uns aos outros. Uma vez que se encontram, não há como fugir desse destino, nem alguém vai deixar você fugir."[lr]::
+25952::$$$message_0187_0062_0002$$$::"..."[lr]::
+25953::$$$message_0187_0062_0003$$$::...Ele tem razão, claro.[lr]::
+25954::$$$message_0187_0062_0004$$$::Concordo com ele, mas não posso desobedecer às ordens da Associação.::
+25955::$$$message_0187_0063_0000$$$::"Faça o que digo. A Associação existe para ocultar os Místicos do público. Não podemos agir precipitadamente.[lr]::
+25956::$$$message_0187_0063_0001$$$::Uma guerra caótica também prejudicaria os civis.[lr]::
+25957::$$$message_0187_0063_0002$$$::Obter o Santo Graal é uma prioridade absoluta, mas devemos tentar evitar envolver curiosos o máximo possível."::
+25958::$$$message_0187_0064_0000$$$::Isso não é só sobre a Associação de Magos.[lr]::
+25959::$$$message_0187_0064_0001$$$::A Igreja Santa também está envolvida na guerra.[lr]::
+25960::$$$message_0187_0064_0002$$$::Quando ocorre danos colaterais, eles suprimem rapidamente as notícias para que o ritual continue sem interrupção.[lr]::
+25961::$$$message_0187_0064_0003$$$::Mas danos excessivos provocariam sua hostilidade.[lr]::
+25962::$$$message_0187_0064_0004$$$::Durante a guerra anterior, ou seja, a Quarta Guerra do Santo Graal, houve um Mestre que atacou civis indiscriminadamente. Diz-se que o padre que servia como Overseer declarou aquele Mestre como inimigo estrangeiro e os puniu severamente.::
+25963::$$$message_0187_0065_0000$$$::"Hmm... Então temos que ser muito cuidadosos sobre como lutamos.[lr]::
+25964::$$$message_0187_0065_0001$$$::Eu não tenho nenhuma ideia, mas você está dizendo que é melhor não matar para sobreviver?"[lr]::
+25965::$$$message_0187_0065_0002$$$::"Isso não é sobre sobrevivência. Sou mago também. Farei o que for necessário para ganhar.[lr]::
+25966::$$$message_0187_0065_0003$$$::Ainda assim, devemos manter ao menos um mínimo de padrões profissionais."::
+25967::$$$message_0187_0066_0000$$$::"Hmm... Isso é um pouco..."[lr]::
+25968::$$$message_0187_0066_0001$$$::Ele soa desanimado.[lr]::
+25969::$$$message_0187_0066_0002$$$::O Servo suspira com indiferença.::
+25970::$$$message_0187_0067_0000$$$::"...Por que você não usa um Selo de Mando?[lr]::
+25971::$$$message_0187_0067_0001$$$::Manda-me não desobedecer, ou algo assim. Eu te mato logo de cara, se não."::
+25972::$$$message_0187_0068_0000$$$::Ele ruge.[lr]::
+25973::$$$message_0187_0068_0001$$$::Este Servoe quer dizer isso.[lr]::
+25974::$$$message_0187_0068_0002$$$::Ele não está pensando nas consequências.[lr]::
+25975::$$$message_0187_0068_0003$$$::A regra sobre ajudar seu Mestre por autopreservação não se aplica a ele.[lr]::
+25976::$$$message_0187_0068_0004$$$::Ele realmente está atrás da minha cabeça.::
+25977::$$$message_0187_0069_0000$$$::E ele me diz para usar um Selo de Mando para impedir isso.[lr]::
+25978::$$$message_0187_0069_0001$$$::A Santa Cúpula concede a cada Mestre três Selo de Mando.[lr]::
+25979::$$$message_0187_0069_0002$$$::cada um dos quais pode ser usado para emitir ordens inquebráveis.[lr]::
+25980::$$$message_0187_0069_0003$$$::Eles são a carta do Mestre que pode impor qualquer comando, mas existem apenas três deles.[lr]::
+25981::$$$message_0187_0069_0004$$$::Respondo instantaneamente.::
+25982::$$$message_0187_0070_0000$$$::"...Recuso-me. Um cão de estimação não ordena ao seu mestre, e eu não seria um mestre se deixasse que meu cão de estimação me matasse.[lr]::
+25983::$$$message_0187_0070_0001$$$::Você é meu Servoe. Eu escolho como você age e quando você morre."::
+25984::$$$message_0187_0071_0000$$$::Retorno seu desejo de sangue em igual medida.[lr]::
+25985::$$$message_0187_0071_0001$$$::De qualquer forma, não vou aguentar muito se usar Selos de Mando em brigas triviais.[lr]::
+25986::$$$message_0187_0071_0002$$$::Faço um punho com a mão direita e inscrevo uma runa no chão com o calcanhar, pronto para interceptar seu ataque a qualquer momento.::
+25987::$$$message_0187_0072_0000$$$::"Entendi. Hmm, então acho que vou mudar de tom.[lr]::
+25988::$$$message_0187_0072_0001$$$::Okay, sou seu Servo. Farei o que meu mestre disser."[lr]::
+25989::$$$message_0187_0072_0002$$$::"..."::
+25990::$$$message_0187_0073_0000$$$::Meu Serva dobra-se facilmente.[lr]::
+25991::$$$message_0187_0073_0001$$$::Isso foi... um pouco anti-climático.[lr]::
+25992::$$$message_0187_0073_0002$$$::Estava pronto para uma luta generalizada, pensando que poderia ser uma boa oportunidade para medir a força do meu Servo.::
+25993::$$$message_0187_0074_0000$$$::"Hmm? O que agora, ainda reclamando?"[lr]::
+25994::$$$message_0187_0074_0001$$$::"N-não, eu não tenho problema com isso.[lr]::
+25995::$$$message_0187_0074_0002$$$::...Você realmente entende o que estou dizendo?"[lr]::
+25996::$$$message_0187_0074_0003$$$::"Então. Tente não matar ninguém, certo?[lr]::
+25997::$$$message_0187_0074_0004$$$::Entendo que é seu geral abordagem. Então? Alguma coisa mais você quer dizer?"[lr]::
+25998::$$$message_0187_0074_0005$$$::...Muito, na verdade, mas não como parte de uma discussão sobre estratégia. Eu posso só dar ordens conforme a situação depois.::
+25999::$$$message_0187_0075_0000$$$::"Tudo bem. Vamos então. Estou cansado desse quarto."[lr]::
+26000::$$$message_0187_0075_0001$$$::Meu Serva me incentiva a ir para a cidade.[lr]::
+26001::$$$message_0187_0075_0002$$$::Meu corpo ainda sente instabilidade, mas a cidade pesa na minha mente.[lr]::
+26002::$$$message_0187_0075_0003$$$::Sinto que meu corpo anseia pela liberdade do exercício, após ter passado tanto tempo dormindo.::
+26003::$$$message_0187_0076_0000$$$::"...Bem. Farei ajustes finos em nossa abordagem conforme a situação mudar."[lr]::
+26004::$$$message_0187_0076_0001$$$::Eu me recolho.[lr]::
+26005::$$$message_0187_0076_0002$$$::Vou deixar minha mochila aqui por enquanto.[lr]::
+26006::$$$message_0187_0076_0003$$$::Tenho apenas poucas utilizações da espada e não consigo usá-la corretamente na minha condição atual.[lr]::
+26007::$$$message_0187_0076_0004$$$::Assim que identificarmos os outros Mestres, eu considerarei contra quem usá-lo.::
+26008::$$$message_0187_0077_0000$$$::"Ainda assim, você quer evitar matar pessoas? Hehehe. Isso poderia ser um show."[lr]::
+26009::$$$message_0187_0077_0001$$$::O Servo repete-se de forma alegre.::
+26010::$$$message_0187_0078_0000$$$::"...Não gosto do seu tom.[lr]::
+26011::$$$message_0187_0078_0001$$$::Se tiver qualquer opinião sobre nosso abordagem, deveria expressá-la agora."[lr]::
+26012::$$$message_0187_0078_0002$$$::"Eu te disse, entendi. Você é assustador, então não quero brigar com você ainda.[wdash canskip=0][lr]::
+26013::$$$message_0187_0078_0003$$$::Ainda assim, você está pedindo o impossível, Mestre.[lr]::
+26014::$$$message_0187_0078_0004$$$::Não tem nada a ver com danos colaterais.[lr]::
+26015::$$$message_0187_0078_0005$$$::Não importa quão difícil você tente, não vai sobreviver mais de quatro dias nesta cidade."::
+26016::$$$message_0187_0079_0000$$$::...? Quatro... dias?::
+26017::$$$message_0187_0080_0000$$$::"O que... você disse?"[lr]::
+26018::$$$message_0187_0080_0001$$$::"Você saberá assim que sair. Já passamos muito tempo dessa fase. A população da cidade está em queda livre devido ao [font italic=true]grupo misterioso[font italic=false] que aparece dia a dia."::
+26019::$$$message_0187_0081_0000$$$::"Que bando misterioso?[lr]::
+26020::$$$message_0187_0081_0001$$$::Você está mentindo. Está tentando me enganar com afirmações absurdas devido à minha memória"[line len=2][lr]::
+26021::$$$message_0187_0081_0002$$$::"Você saberá assim que sair. Ver é crer."[lr]::
+26022::$$$message_0187_0081_0003$$$::O Servo sufoca um riso.[lr]::
+26023::$$$message_0187_0081_0004$$$::Quando hesito, a sombra escura pega minha mão e começa a caminhar.::
+26024::$$$message_0187_0082_0000$$$::"Vamos, continue a Guerra do Santo Graal, Bazett Fraga McRemitz.[lr]::
+26025::$$$message_0187_0082_0001$$$::...Tudo isso para que possamos encontrar seu desejo dessa vez."[wvs][wt canskip=0][current withback=false][wait canskip=0 time=500][se storage=se409.wav][se storage=se322.wav]::
+26026::$$$message_0187_0083_0000$$$::A mansão é construída em uma colina alta.[lr]::
+26027::$$$message_0187_0083_0001$$$::Está abrigado, quase oculto, entre um bosque de árvores, e não há outras casas ao redor.[lr]::
+26028::$$$message_0187_0083_0002$$$::...Tenho dor de cabeça.[lr]::
+26029::$$$message_0187_0083_0003$$$::Pensei que um pouco de ar fresco ajudaria a esclarecer minha mente, mas o ar frio da noite só turva meus pensamentos ainda mais.[wm canskip=0]::
+26030::$$$message_0187_0084_0000$$$::"E aí, Mestre? Ainda estava muito cedo para sair?"[lr]::
+26031::$$$message_0187_0084_0001$$$::Meu Serva me provoca.[lr]::
+26032::$$$message_0187_0084_0002$$$::Eu balanço a cabeça e continuo em frente.[lr]::
+26033::$$$message_0187_0084_0003$$$::A minha consciência gira lentamente.[lr]::
+26034::$$$message_0187_0084_0004$$$::Sinto-me tonto sob a luz da lua brilhante.[wm canskip=0]::
+26035::$$$message_0187_0085_0000$$$::Está quieto.[lr]::
+26036::$$$message_0187_0085_0001$$$::Mesmo que já sejam 2:00 da manhã, a cidade parece muito quieta.::
+26037::$$$message_0187_0086_0000$$$::...Mas pode parecer com minha cidade natal.[lr]::
+26038::$$$message_0187_0086_0001$$$::Cresci em um pequeno vilarejo costeiro.[lr]::
+26039::$$$message_0187_0086_0002$$$::À noite, a névoa do mar encheia o ar, e as pessoas se fecham em seus lares, talvez por medo.[lr]::
+26040::$$$message_0187_0086_0003$$$::O vilarejo vazio parecia um navio afundado no abismo. Quando eu era criança, desejei poder fugir dali.[lr]::
+26041::$$$message_0187_0086_0004$$$::Provavelmente achei que todos iriam me esquecer se passasse muito tempo no fundo do mar.[lr]::
+26042::$$$message_0187_0086_0005$$$::Não pude deixar de pensar que ser esquecido por todos era uma maldição, como o destino de todos os deuses antigos.::
+26043::$$$message_0187_0087_0000$$$::"..."[lr]::
+26044::$$$message_0187_0087_0001$$$::E agora, a cidade de Fuyuki está mergulhando no oceano.[lr]::
+26045::$$$message_0187_0087_0002$$$::Sinto que é diferente da Fuyuki das minhas memórias.[lr]::
+26046::$$$message_0187_0087_0003$$$::Muito quieto... assim como uma ruína.[lr]::
+26047::$$$message_0187_0087_0004$$$::Pode sentir vida nele.[lr]::
+26048::$$$message_0187_0087_0005$$$::Sinto claramente a respiração de um número imenso de criaturas.[lr]::
+26049::$$$message_0187_0087_0006$$$::O ar ao meu redor está cheio de presenças que nunca havia experimentado antes.[lr]::
+26050::$$$message_0187_0087_0007$$$::...O Servo mencionou um "grupo misterioso." Odio admitir, mas suas palavras parecem agora creíveis.::
+26051::$$$message_0187_0088_0000$$$::"Ah, o que é isso?"[lr]::
+26052::$$$message_0187_0088_0001$$$::Acho que caminhamos por cerca de duas horas.[lr]::
+26053::$$$message_0187_0088_0002$$$::O Servo para e olha para uma casa.::
+26054::$$$message_0187_0089_0000$$$::"Wow. Já olhei por aqui, mas ainda falta um."[lr]::
+26055::$$$message_0187_0089_0001$$$::Ele parece impressionado.[lr]::
+26056::$$$message_0187_0089_0002$$$::Ele está olhando para uma casa comum.[lr]::
+26057::$$$message_0187_0089_0003$$$::Diferente dos outros casarões em alguns detalhes, mas é só uma casa que ainda está acesa.::
+26058::$$$message_0187_0090_0000$$$::"Você deveria ficar aqui. Ainda não está 100%, certo?[lr]::
+26059::$$$message_0187_0090_0001$$$::Vou verificar primeiro."[lr]::
+26060::$$$message_0187_0090_0002$$$::O Servo começa a caminhar.[lr]::
+26061::$$$message_0187_0090_0003$$$::Seguo ele[lr]::
+26062::$$$message_0187_0090_0004$$$::Mas a luz da lua me cega. Como é patético.[wm canskip=0]::
+26063::$$$message_0187_0091_0000$$$::Francamente...[lr]::
+26064::$$$message_0187_0091_0001$$$::Não sei como são os outros Servos, mas cheguei aqui sem muito desejo de fazer algo.::
+26065::$$$message_0187_0092_0000$$$::Servos são uma forma de taumaturgia grandiosa, na qual heróis enshrined na lenda são convocados, dados formas humanóides e feitos servir como famílias.[lr]::
+26066::$$$message_0187_0092_0001$$$::Não é a emprestada fragmentada de seu poder que os médiums espíritas fazem, mas uma façanha que quebra regras, projetando a pessoa inteira no mundo real.[lr]::
+26067::$$$message_0187_0092_0002$$$::Uma ressurreição exclusiva da Guerra do Santo Graal. Clones de curta duração. Guardiões da humanidade, reavivados na era atual.[lr]::
+26068::$$$message_0187_0092_0003$$$::Parece ótimo. Armas autônomas certamente são úteis.[wm canskip=0]::
+26069::$$$message_0187_0093_0000$$$::Mas vai além e recria até seus próprios seres internos.[lr]::
+26070::$$$message_0187_0093_0001$$$::Os familiars não precisam de inteligência. Isso vale ainda mais para Servos. Se um familiar superior ao seu mestre ganha conhecimento e consciência, certamente derrubará seu mestre.[lr]::
+26071::$$$message_0187_0093_0002$$$::Sorte minha, estou pessoalmente satisfeito com meu Mestre; ela é justamente do tipo de mulher que gosto. Mas ainda acabo agindo de forma desafiadora.[lr]::
+26072::$$$message_0187_0093_0003$$$::Por que, você pergunta?[lr]::
+26073::$$$message_0187_0093_0004$$$::Você não pode me culpar. Talvez eu não esteja insatisfeito com meu Mestre, mas estou cansado do mundo inteiro.[lr]::
+26074::$$$message_0187_0093_0005$$$::Estou no pior humor. Como você se sentiria se alguém te deixasse num lixão de corpos mortos?[wm canskip=0]::
+26075::$$$message_0187_0094_0000$$$::Enquanto eu estava vivo, o mundo ainda era vibrante o suficiente.[lr]::
+26076::$$$message_0187_0094_0001$$$::Mas agora, é um cadáver velho além de salvação, com bilhões vivendo nele. Do ponto de vista de alguém que conheceu quando era um lugar vivo, sinto um pouco de ressentimento.[lr]::
+26077::$$$message_0187_0094_0002$$$::Quero dizer, eu sabia que acabaria sendo consumido eventualmente, mas nesse ritmo?[lr]::
+26078::$$$message_0187_0094_0003$$$::A impudência desse tudo me faz odiar minha própria espécie, mas ao mesmo tempo, sinto que merece ser elogiado.::
+26079::$$$message_0187_0095_0000$$$::A força humana é só que incrivelmente incrível.[lr]::
+26080::$$$message_0187_0095_0001$$$::Mudanças vertiginosas nos sistemas morais. Pensei em quantas gerações, quantas novas espécies humanas, já nasceram e foram apagadas até aqui.[lr]::
+26081::$$$message_0187_0095_0002$$$::Eles estão fazendo isso tão rápido que é um pouco triste ver que não chegaram a uma teoria evolutiva que não envolva esgotar a Terra. Tem que reconhecer, eles fizeram um excelente trabalho amplificando um sistema pronto em vez de inventar um novo.[wt canskip=0]::
+26082::$$$message_0187_0096_0000$$$::De qualquer forma, eles não têm um futuro, então eu gostaria de ver eles usarem o pouco tempo que têm restante para mostrar algum novo crescimento.[lr]::
+26083::$$$message_0187_0096_0001$$$::Eles já destruíram tanto, você sabe.[lr]::
+26084::$$$message_0187_0096_0002$$$::Onde queríamos ir? Para que consumimos a terra? Em outras palavras, foi bom e possível, ou mau e impossível? Quero ver resultados que qualquer um possa entender. Não importa se falharmos.[wt canskip=0][current withback=false][condoff textoff=0 target=all time=100]::
+26085::$$$message_0187_0097_0000$$$::"Ai, cara. Acho que os outros devem estar pensando em tudo isso."[lr]::
+26086::$$$message_0187_0097_0001$$$::Os Espíritos Heroicos devem sentir algum descontentamento com essa era.[lr]::
+26087::$$$message_0187_0097_0002$$$::E então, ser um Espírito Heroico significa apoiar a humanidade mesmo assim, e aceitar o resultado, seja qual for, assim como eu rejeito todos os resultados?::
+26088::$$$message_0187_0098_0000$$$::Hipoteticamente, se um ser absoluto, divino, existisse como encarnação da bondade, o que faria se fosse convocado para esta era?[lr]::
+26089::$$$message_0187_0098_0001$$$::Aprovaria o mundo ou o defenderia?[lr]::
+26090::$$$message_0187_0098_0002$$$::Se fosse aprovado, causaria destruição. Se quisesse defender o mundo, só assistiria.[lr]::
+26091::$$$message_0187_0098_0003$$$::Um Espírito Heroico decente provavelmente a defenderia.[lr]::
+26092::$$$message_0187_0098_0004$$$::Alguém com um parafuso solto daria a mão contente, enquanto alguém com apenas um parafuso restante na cabeça poderia arriscar-se a renovar o mundo.[lr]::
+26093::$$$message_0187_0098_0005$$$::Coisas como salvar o mundo e tudo isso.[lr]::
+26094::$$$message_0187_0098_0006$$$::Ai, nem quero mesmo me encontrar com alguém assim, muito menos lutar contra ele.[wdash canskip=0]::
+26095::$$$message_0187_0099_0000$$$::De qualquer forma, há apenas uma coisa que eu possa fazer.[lr]::
+26096::$$$message_0187_0099_0001$$$::Sou supostamente um Espírito Heroico, mas sou totalmente fraco. Sou o Espírito Heroico mais fraco que existe, mesmo que minha lenda se estenda pelo mundo inteiro.[lr]::
+26097::$$$message_0187_0099_0002$$$::Yay! Sou o número um! Você é sorteado, Mestre, você está ganhando a corrida para o fundo! É bastante fácil pensar em um plano de batalha, você só precisa descobrir como engolir todos os guerreiros fortes.::
+26098::$$$message_0187_0100_0000$$$::...Tenho que admitir, mas em força pura de combate, ela pode estar de fato mais forte do que eu.[lr]::
+26099::$$$message_0187_0100_0001$$$::Um Espírito Heroico que perderia contra um humano, hein? Hehehe. Queria desaparecer.[wt canskip=0][current withback=false]::
+26100::$$$message_0187_0101_0000$$$::"Eu sei, né? Não acredito nessa garota."[lr]::
+26101::$$$message_0187_0101_0001$$$::Bazett disse para tentar evitar matar alguém.[lr]::
+26102::$$$message_0187_0101_0002$$$::Isso é exatamente o tipo de atitude protegida e de superdesempenho que eu esperaria de uma herdeira de uma família nobre de mágicos. Que exemplo nobre da humanidade, certamente digno de ser Mestre de um Espírito Heroico.::
+26103::$$$message_0187_0102_0000$$$::Mas isso está além do meu alcance.[lr]::
+26104::$$$message_0187_0102_0001$$$::Tudo o que posso fazer é matar, e se eu for sincero, uma vitória sem sangue soa horrorosamente monótona.[lr]::
+26105::$$$message_0187_0102_0002$$$::Sou o mais fraco, então não posso me dar ao luxo de ser tão escrupuloso.[lr]::
+26106::$$$message_0187_0102_0003$$$::Mesmo que isso supostamente seja uma guerra, ainda usa um mecanismo de matança que os humanos trabalharam muito para criar.[lr]::
+26107::$$$message_0187_0102_0004$$$::Serventas à parte, mestres são apenas humanos. Seria mais simples plantar minas ou lançar bombas como fizeram na última guerra.::
+26108::$$$message_0187_0103_0000$$$::"...O tempo mudou, embora.[lr]::
+26109::$$$message_0187_0103_0001$$$::Esses foram tempos turbulentos, e a vida valia pouco..."[lr]::
+26110::$$$message_0187_0103_0002$$$::Isso não vai funcionar dessa vez.[lr]::
+26111::$$$message_0187_0103_0003$$$::A Associação de Magos está de olho atento, e os humanos modernos são muito bons em manter a ordem pública. Se fizermos um caos demais, revelaremos a posição de Bazett também para os outros Mestres.::
+26112::$$$message_0187_0104_0000$$$::Seria ótimo se conseguíssemos ir a toda velocidade e resolver tudo o mais cedo possível, mas devemos evitar nos cansar com batalhas seguidas todas as noites.[lr]::
+26113::$$$message_0187_0104_0001$$$::Nesse ponto, concordo com a abordagem equilibrada de Bazett.[lr]::
+26114::$$$message_0187_0104_0002$$$::Concordo, então farei o meu melhor para obedecer ao meu Mestre como um Servo deveria.::
+26115::$$$message_0187_0105_0000$$$::Agora...[lr]::
+26116::$$$message_0187_0105_0001$$$::Vamos voltar ao presente.::
+26117::$$$message_0187_0106_0000$$$::"Espera... O que você acha que está fazendo?"[lr]::
+26118::$$$message_0187_0106_0001$$$::Ignoro a voz frágil do meu Mestre e me dirijo para uma casa.[lr]::
+26119::$$$message_0187_0106_0002$$$::Não há necessidade de investigação. Obviamente há pessoas vivendo dentro.[lr]::
+26120::$$$message_0187_0106_0003$$$::As luzes estão acesas.[lr]::
+26121::$$$message_0187_0106_0004$$$::Infelizmente, não tenho a capacidade de perceber humanos, nem posso detectar fontes de calor.[lr]::
+26122::$$$message_0187_0106_0005$$$::Minhas habilidades como Servo são zero.[lr]::
+26123::$$$message_0187_0106_0006$$$::Mas isso não importa. Há [font italic=true]humanos[font italic=false] dentro.::
+26124::$$$message_0187_0107_0000$$$::Transformo-me em forma espiritual e deslizo pela porta da frente.[lr]::
+26125::$$$message_0187_0107_0001$$$::Materializo minhas armas e vou para a sala de estar.[lr]::
+26126::$$$message_0187_0107_0002$$$::Acabarei com isso rapidamente e cruelmente, como sempre faço.[lr]::
+26127::$$$message_0187_0107_0003$$$::Mesmo que por acidente o mundo mais forte superherói esteja aqui, alguém que possa derrotar um Espírito Heroico, isso não é um problema.[lr]::
+26128::$$$message_0187_0107_0004$$$::Sou o mais fraco, mas posso derrotar o mais forte dos humanos.[lr]::
+26129::$$$message_0187_0107_0005$$$::Por isso...::
+26130::$$$message_0187_0108_0000$$$::Não quero exagerar, mas…[lr]::
+26131::$$$message_0187_0108_0001$$$::Sou o mais forte do mundo se estiver lutando contra um humano.::
+26132::$$$message_0187_0109_0000$$$::Sangue jorra.[lr]::
+26133::$$$message_0187_0109_0001$$$::Os moradores estão mortos.[lr]::
+26134::$$$message_0187_0109_0002$$$::Um homem de meia-idade, dois meninos, uma velha e um avô segurando um facão ensanguentado... O velho ainda está vivo.[lr]::
+26135::$$$message_0187_0109_0003$$$::"O que..."[lr]::
+26136::$$$message_0187_0109_0004$$$::Que decepção.[lr]::
+26137::$$$message_0187_0109_0005$$$::Já estava terminado quando cheguei.::
+26138::$$$message_0187_0110_0000$$$::Ele está respirando com dificuldade.[lr]::
+26139::$$$message_0187_0110_0001$$$::Um criminoso abjurrado que matou quatro pessoas.[lr]::
+26140::$$$message_0187_0110_0002$$$::Ele parece querer matar aquele velho tanto assim que nem se importa que eu acabei de entrar.[lr]::
+26141::$$$message_0187_0110_0003$$$::"Eek, eeek, eeek!"[lr]::
+26142::$$$message_0187_0110_0004$$$::O velho escorrega de volta para a parede, sacudindo desesperadamente a cabeça.[wdash canskip=0]::
+26143::$$$message_0187_0111_0000$$$::O método e a cena do assassinato são horripilantes.[lr]::
+26144::$$$message_0187_0111_0001$$$::Todo mundo está desmembrado além do reconhecimento, seu sangue, carne e órgãos espalhados de forma espetacular pelo quarto.[lr]::
+26145::$$$message_0187_0111_0002$$$::Uma família feliz juntos, com o cheiro sufocante da vida, e um espaço vivencial pegajoso, manchado.::
+26146::$$$message_0187_0112_0000$$$::Tsc. Que cena de crime impecável.[lr]::
+26147::$$$message_0187_0112_0001$$$::E nem uma mancha a ser encontrada em seu desempenho. É matar por simplesmente matar.[lr]::
+26148::$$$message_0187_0112_0002$$$::Não há um único traço de pilhagem, humilhação ou fome. [wm canskip=0]::
+26149::$$$message_0187_0113_0000$$$::"Alguém... me ajude..."[lr]::
+26150::$$$message_0187_0113_0001$$$::Eu o ajudo, já que ele pediu.[lr]::
+26151::$$$message_0187_0113_0002$$$::O assassino é fácil de atacar e matar de costas.[lr]::
+26152::$$$message_0187_0113_0003$$$::Depois disso, volto ao meu trabalho original.::
+26153::$$$message_0187_0114_0000$$$::Quando chego à casa, tudo já terminou.::
+26154::$$$message_0187_0115_0000$$$::"Isso é horrível..."[lr]::
+26155::$$$message_0187_0115_0001$$$::Há cinco corpos no quarto de estar. Baseio o número nos cinco cabeças recentemente cortadas da boca para cima.[lr]::
+26156::$$$message_0187_0115_0002$$$::Não sei quantos outros havia, mas está claro que houve um massacre aqui.[wm canskip=0]::
+26157::$$$message_0187_0116_0000$$$::"Desculpe. Acabei antes de você chegar."[lr]::
+26158::$$$message_0187_0116_0001$$$::O Servo fala, parado indiferentemente no meio da carnificina.[lr]::
+26159::$$$message_0187_0116_0002$$$::"..."[wt canskip=0][current withback=false][lr]::
+26160::$$$message_0187_0116_0003$$$::Ele segura um par de estiletes feios de olhar.[lr]::
+26161::$$$message_0187_0116_0004$$$::Eles têm a forma de garras e dentes caninos. Ele está segurando-os com o punho virado para trás. Nunca vi armas que pareçam tão difíceis de usar.[lr]::
+26162::$$$message_0187_0116_0005$$$::São esses seus armas[line len=2]Nobres Pergaminhos que simbolizam como Espírito Heroico?[wm canskip=0][wdash canskip=0]::
+26163::$$$message_0187_0117_0000$$$::"Para de encarar assim, Mestre. Está me assustando.[lr]::
+26164::$$$message_0187_0117_0001$$$::Quer que eu explique a situação?"[lr]::
+26165::$$$message_0187_0117_0002$$$::"As feridas combinam com suas armas."[lr]::
+26166::$$$message_0187_0117_0003$$$::A sombra acena com entusiasmo.[lr]::
+26167::$$$message_0187_0117_0004$$$::Não preciso examinar isso com cuidado.[lr]::
+26168::$$$message_0187_0117_0005$$$::A situação aponta para esse Servo como a causa dessa cena sangrenta.::
+26169::$$$message_0187_0118_0000$$$::"Eu só tenho uma pergunta. Por que você os matou?"[lr]::
+26170::$$$message_0187_0118_0001$$$::"Por quê? Por você, é claro. Eu estava só procurando seus inimigos. Verificar cada pessoa um por um é o mesmo que matá-los um por um.[lr]::
+26171::$$$message_0187_0118_0002$$$::A gente só precisa evitar deixar testemunhas, certo? Assim, certamente vamos encontrar um Mestre em algum momento."::
+26172::$$$message_0187_0119_0000$$$::"Você..."[lr]::
+26173::$$$message_0187_0119_0001$$$::Ele não ouviu uma palavra que eu disse.[lr]::
+26174::$$$message_0187_0119_0002$$$::Estou preparado para alguns feridos em guerra.[lr]::
+26175::$$$message_0187_0119_0003$$$::Sou um mágico, o que não é tão diferente de ser um assassino.[lr]::
+26176::$$$message_0187_0119_0004$$$::Mas ainda assim... Nunca desejei que mortes sem sentido, inprodutivas, fossem assim.::
+26177::$$$message_0187_0120_0000$$$::"Você gosta de matar pessoas?"[lr]::
+26178::$$$message_0187_0120_0001$$$::"Hmm? Não seja bobo, não faço isso porque gosto. Estou fazendo o que posso para cumprir o que foi pedido.[lr]::
+26179::$$$message_0187_0120_0002$$$::Você sabe, acho que você tirou a ideia errada só porque eu pareço um humano. Afinal, os Servos não são só ferramentas?"::
+26180::$$$message_0187_0121_0000$$$::"Você não está respondendo à minha pergunta.[lr]::
+26181::$$$message_0187_0121_0001$$$::Perguntei se você gosta de matar pessoas."[lr]::
+26182::$$$message_0187_0121_0002$$$::Olho fixo no Servo.[lr]::
+26183::$$$message_0187_0121_0003$$$::A sombra que segurava os punhais responde.[wm canskip=0][lr]::
+26184::$$$message_0187_0121_0004$$$::"Não especialmente. Há muita coisa que não posso apreciar se alguém estiver morto."[lr]::
+26185::$$$message_0187_0121_0005$$$::Ele ri com ironia.[lr]::
+26186::$$$message_0187_0121_0006$$$::Ele vira seu sorriso vulgar para mim, como se me convidasse para participar do divertimento.[wdash canskip=0]::
+26187::$$$message_0187_0122_0000$$$::"...E você se chama um Espírito Heroico?"[lr]::
+26188::$$$message_0187_0122_0001$$$::Não consigo esconder como me sinto.[lr]::
+26189::$$$message_0187_0122_0002$$$::...Como é estranho. Já vi pessoas como ele antes, mas sinto uma repulsa inexplicável pelo modo de vida desse homem.[lr]::
+26190::$$$message_0187_0122_0003$$$::Alguma parte de mim não tolera ele.[wt canskip=0]::
+26191::$$$message_0187_0123_0000$$$::"E você? Que tipo de Mestre não tem problema em matar pessoas? Você está estragando o clima, francamente.[lr]::
+26192::$$$message_0187_0123_0001$$$::...Man, que saco. Você totalmente arruinou a coisa. Eu estava esperando que você estivesse feliz."[wm canskip=0][lr]::
+26193::$$$message_0187_0123_0002$$$::"De verdade? Lamento te decepcionar, mas nunca vou corresponder às suas expectativas. Estou convencido de que nunca vamos ver as coisas do mesmo jeito. Você é do tipo de pessoa que mais detesto."[current withback=false]::
+26194::$$$message_0187_0124_0000$$$::Falo com meu Servo com hostilidade desarmada.[lr]::
+26195::$$$message_0187_0124_0001$$$::Tudo o que sinto é frustração e ódio por essa pessoa cujo confio preciso ganhar.[lr]::
+26196::$$$message_0187_0124_0002$$$::...Está me deixando louco.[lr]::
+26197::$$$message_0187_0124_0003$$$::Achei que já havia crescido para não revelar meus sentimentos e mostrar a alguém o quanto os odeio.::
+26198::$$$message_0187_0125_0000$$$::"...Huh. Legal. Basicamente não gosto de nada.[lr]::
+26199::$$$message_0187_0125_0001$$$::Isso me dá nojo quando as pessoas tentam me amigar de forma casual, então isso funciona para mim. Você até pode dizer que nos entendemos agora."[lr]::
+26200::$$$message_0187_0125_0002$$$::O Servo não parece se importar.[lr]::
+26201::$$$message_0187_0125_0003$$$::Eu o detesto, enquanto ele não pensa nada de mim.[lr]::
+26202::$$$message_0187_0125_0004$$$::Nenhum de nós tem afeto pelo outro. Ele parece estar dizendo que o ódio mútuo não causará nenhum conflito particular.::
+26203::$$$message_0187_0126_0000$$$::"Ainda assim, tenho que dizer, você é do tipo que eu gosto."[lr]::
+26204::$$$message_0187_0126_0001$$$::Ele acrescenta...[lr]::
+26205::$$$message_0187_0126_0002$$$::Isso é estranho.::
+26206::$$$message_0187_0127_0000$$$::"...Por quê? Eu achei que você disse que detesta tudo.[lr]::
+26207::$$$message_0187_0127_0001$$$::Como Mestre, entendi qual tipo de Servo você é. Você não me parece ser o tipo de pessoa que gosta de ninguém."[lr]::
+26208::$$$message_0187_0127_0002$$$::"Eu quero dizer, você é uma mulher fina. Não gosto de você, mas tenho um lugar especial para você."::
+26209::$$$message_0187_0128_0000$$$::"...Porque sou uma mulher?"[lr]::
+26210::$$$message_0187_0128_0001$$$::"Não é qualquer mulher, é uma [font italic=true]fine[font italic=false] mulher. Você está quente.[lr]::
+26211::$$$message_0187_0128_0002$$$::Gosto do seu corpo, mas a forma como você age como um aluno de honrazinho tentando se manter na opinião mainstream é tão patético que não consigo suportar assistir.[lr]::
+26212::$$$message_0187_0128_0003$$$::Entendeu? Você me excita tanto que quero te matar por algum motivo, e não apenas porque é a única forma que sei de fazer meu trabalho."::
+26213::$$$message_0187_0129_0000$$$::O som escuro riu.[lr]::
+26214::$$$message_0187_0129_0001$$$::Sinto a direcionalidade de sua incarneação através da nossa conexão mágica.::
+26215::$$$message_0187_0130_0000$$$::Não há mentira nas suas palavras.[lr]::
+26216::$$$message_0187_0130_0001$$$::Ele realmente odeia tudo.[lr]::
+26217::$$$message_0187_0130_0002$$$::Ele vê naturalmente tudo como algo a ser morto, mesmo que não tenha nada a ganhar com isso.[lr]::
+26218::$$$message_0187_0130_0003$$$::...Essa é a única interpretação possível.[lr]::
+26219::$$$message_0187_0130_0004$$$::Ele é uma personificação do ódio que assume forma como um诅uro apenas por existir, sem precisar do dispositivo incendiário que chamamos de taumaturgia.::
+26220::$$$message_0187_0131_0000$$$::...No entanto, isso levanta a pergunta: [lr]::
+26221::$$$message_0187_0131_0001$$$::Por que ele não tentou me matar, se é tão sangrento assim?[wt canskip=0][stopdash][current withback=false]::
+26222::$$$message_0187_0132_0000$$$::"...Retornando ao assunto anterior...[lr]::
+26223::$$$message_0187_0132_0001$$$::Você primeiro disse que me mataria, mas se conteve de fazê-lo.[lr]::
+26224::$$$message_0187_0132_0002$$$::Agora você diz que sente desejo por mim, então por que não agiu? Não usei um Selo de Mando sobre você."::
+26225::$$$message_0187_0133_0000$$$::"Hmm? Ah, porque você é meu Mestre. Criei uma regra antes que diz que você não é humano.[lr]::
+26226::$$$message_0187_0133_0001$$$::Basicamente, você é a única criatura do mundo em que eu não tenho vontade de matar.[lr]::
+26227::$$$message_0187_0133_0002$$$::Você parece uma mulher, mas não é humano por dentro. Classifiquei você como uma criatura que está fora do alcance de mim."[lr]::
+26228::$$$message_0187_0133_0003$$$::Ele não hesita.[lr]::
+26229::$$$message_0187_0133_0004$$$::Mesmo que seja algo que me insulte claramente.::
+26230::$$$message_0187_0134_0000$$$::"Você não me vê como humano...?"[lr]::
+26231::$$$message_0187_0134_0001$$$::Estou acostumado a ouvir as pessoas dizerem que sou insuportável ou desinteressante, mas essa é a primeira vez que alguém disse que nem sequer me vê como uma mulher.[lr]::
+26232::$$$message_0187_0134_0002$$$::Espere, não. Ele disse que não me vê como humana, mas eu interpretei assim.::
+26233::$$$message_0187_0135_0000$$$::"Ah, não acredita em mim? Já fiz a maior concessão que posso. Você é minha primeira e última exceção, sabe.[lr]::
+26234::$$$message_0187_0135_0001$$$::...Merda, isso é irritante. Estava sendo sério.[lr]::
+26235::$$$message_0187_0135_0002$$$::Tá, tá. Precisa em escrito, é? [wvl][clfg textoff=0 pos=all rule=シャッター左から time=400]Você vai acreditar em mim se eu fizer isso?"::
+26236::$$$message_0187_0136_0000$$$::Ele me viu em silêncio como suspeita?[lr]::
+26237::$$$message_0187_0136_0001$$$::O Servo rasga uma página de um caderno de anotações sobre uma mesa ensanguentada e começa a escrever algo nela.[sestop time=1000 nowait=true]::
+26238::$$$message_0187_0137_0000$$$::"Aqui está, você pode ter isso. Não dê para ninguém mais."[lr]::
+26239::$$$message_0187_0137_0001$$$::Certificado de Exenção por Crime. Válido até o Fim da Guerra do Santo Graal."::
+26240::$$$message_0187_0138_0000$$$::"...O que é isso?"[lr]::
+26241::$$$message_0187_0138_0001$$$::"É um certificado que diz que você não é humano.[lr]::
+26242::$$$message_0187_0138_0002$$$::Qualquer um que mostrar isso saberá que você é inacessível para mim."[lr]::
+26243::$$$message_0187_0138_0003$$$::Ele empurra o pedaço de papel para as minhas mãos, dizendo "não é lindo?"[lr]::
+26244::$$$message_0187_0138_0004$$$::...Minha conclusão anterior estava certa, depois de tudo.[lr]::
+26245::$$$message_0187_0138_0005$$$::Este Servo e eu somos totalmente incompatíveis.::
+26246::$$$message_0187_0139_0000$$$::Não podemos ficar num local de crime para sempre.[lr]::
+26247::$$$message_0187_0139_0001$$$::Saímos rapidamente de casa.[lr]::
+26248::$$$message_0187_0139_0002$$$::Estou infeliz com a ação unilateral do meu Servo, mas o que foi feito não pode ser desfeito. Duvido que haja algo a ganhar com um debate.::
+26249::$$$message_0187_0140_0000$$$::...No entanto, sinto uma estranha emoção.[lr]::
+26250::$$$message_0187_0140_0001$$$::Eu não posso confiar nesse Servo.[lr]::
+26251::$$$message_0187_0140_0002$$$::Mestre e Servo estão conectados. É assim que consigo sentir seu Alinhamento[line len=2]sua tendência a aprovar assassinato e exterminar seus inimigos sem piedade, não importa quem sejam.::
+26252::$$$message_0187_0141_0000$$$::Sou o oposto absoluto.[lr]::
+26253::$$$message_0187_0141_0001$$$::Eu cumpro minhas missões sem deixar que sentimentos pessoais interfiram. [lr]::
+26254::$$$message_0187_0141_0002$$$::Mas esse Servo [font italic=true]apenas[font italic=false] executa suas tarefas com base em sentimentos pessoais.[lr]::
+26255::$$$message_0187_0141_0003$$$::Ele age com base no sentimento pessoal de um desejo de matar.[lr]::
+26256::$$$message_0187_0141_0004$$$::E ainda assim[line len=2]::
+26257::$$$message_0187_0142_0000$$$::"Nós não vamos pra lugar nenhum, Mestre?[lr]::
+26258::$$$message_0187_0142_0001$$$::Ah, vamos nos esconder para aguardar algum idiota de Mestre que venha verificar isso?"[lr]::
+26259::$$$message_0187_0142_0002$$$::"Nenhum mágico cairia em uma armadilha tão óbvia, e não tenho intenção de iniciar a batalha antes da segunda fase do plano.[lr]::
+26260::$$$message_0187_0142_0003$$$::Diga-me, estamos apenas coletando inteligência agora."::
+26261::$$$message_0187_0143_0000$$$::"Nah, acho que algum novato burro cairia nisso.[lr]::
+26262::$$$message_0187_0143_0001$$$::Como um cara que trabalha duro para patrulhar todas as noites e está propenso a se matar fazendo isso![lr]::
+26263::$$$message_0187_0143_0002$$$::Ele não percebe que está se expostando a ser devorado pelos peixes maiores. Os bombardeiros nunca aprendem."[lr]::
+26264::$$$message_0187_0143_0003$$$::"..."[lr]::
+26265::$$$message_0187_0143_0004$$$::Ignoro as observações despreocupadas do meu Servo e começo a caminhar.::
+26266::$$$message_0187_0144_0000$$$::...E ainda assim...[lr]::
+26267::$$$message_0187_0144_0001$$$::...apesar de tudo o que tem de negativo, ele não me dá um sentimento desagradável.[lr]::
+26268::$$$message_0187_0144_0002$$$::Ele é o tipo de pessoa que mais detesto. Desaprovo tudo nele.[lr]::
+26269::$$$message_0187_0144_0003$$$::Então por que não consigo me obrigar a odiá-lo totalmente?::
+26270::$$$message_0187_0145_0000$$$::Fecho os olhos e sinto nossa conexão.[lr]::
+26271::$$$message_0187_0145_0001$$$::Às vezes, algo fresco e agradável acompanha a energia mágica.::
+26272::$$$message_0187_0146_0000$$$::Oração que me arranca o peito, como saudade ou desejo.[lr]::
+26273::$$$message_0187_0146_0001$$$::É tão... vazio.[lr]::
+26274::$$$message_0187_0146_0002$$$::A vazio fala comigo.[lr]::
+26275::$$$message_0187_0146_0003$$$::Ele me diz que esse Servo nunca me trairá, embora eu não saiba exatamente por quê.[lr]::
+26276::$$$message_0187_0146_0004$$$::Ele me diz que me emprestará sua vontade caótica para que meu desejo se realize.::
+26277::$$$message_0187_0147_0000$$$::Retomamos nossa patrulha.[lr]::
+26278::$$$message_0187_0147_0001$$$::Hoje à noite, vamos investigar os locais-chave em Shinto.::
+26279::$$$message_0187_0148_0000$$$::Terminamos a reconnoitering do Shinto após cerca de duas horas.[lr]::
+26280::$$$message_0187_0148_0001$$$::Não há sinais de atividade mágica alguma.[lr]::
+26281::$$$message_0187_0148_0002$$$::Além disso, verifiquei as afirmações do meu Servo sobre um "grupo misterioso"."[lr]::
+26282::$$$message_0187_0148_0003$$$::Ainda não acredito muito nisso, mas Fuyuki está realmente mudando.[lr]::
+26283::$$$message_0187_0148_0004$$$::Por aqui e por ali, sinto presenças estranhas.[lr]::
+26284::$$$message_0187_0148_0005$$$::Alguém está sempre me observando.[lr]::
+26285::$$$message_0187_0148_0006$$$::Há lágrimas estranhas por todo o vilarejo.::
+26286::$$$message_0187_0149_0000$$$::Apesar de todos os traços de energia mágica, não há nenhum sinal de taumaturgia.[lr]::
+26287::$$$message_0187_0149_0001$$$::Parece que não é um Mestre acumulando energia mágica, tampouco.[lr]::
+26288::$$$message_0187_0149_0002$$$::Há coisas comendo os civis, mas não parecem ter nada a ver com a guerra.[lr]::
+26289::$$$message_0187_0149_0003$$$::Nenhum Mestre teria algo a ganhar com isso.[lr]::
+26290::$$$message_0187_0149_0004$$$::Isso só serviria para interromper a Guerra do Santo Graal.::
+26291::$$$message_0187_0150_0000$$$::"Entendi. Mas se for um mago estrangeiro aqui para aprender sobre a Guerra do Santo Graal..."[lr]::
+26292::$$$message_0187_0150_0001$$$::Podem estar presentes mages que desejam o Santo Graal, mas não foram escolhidos como Mestres.[lr]::
+26293::$$$message_0187_0150_0002$$$::Alguém assim poderia tentar obstruir o ritual por vingança... ou talvez estivesse agindo sob ordens de uma organização estrangeira para impedir a Guerra do Santo Graal em si.[lr]::
+26294::$$$message_0187_0150_0003$$$::Independente disso, estou me tornando cada vez mais certo de que há um oitavo mago atuando em Fuyuki.::
+26295::$$$message_0187_0151_0000$$$::"Um oitavo? Alguém mais tentando nos atrapalhar?"[lr]::
+26296::$$$message_0187_0151_0001$$$::"...Não posso dizer com certeza, mas é altamente provável.[lr]::
+26297::$$$message_0187_0151_0002$$$::Estou confiante de que há um mago que eu não conheço tentando interferir na Guerra do Santo Graal.[lr]::
+26298::$$$message_0187_0151_0003$$$::Não sei qual é seu objetivo, mas..."[lr]::
+26299::$$$message_0187_0151_0004$$$::Eles começariam quebrando as regras da Guerra do Santo Graal.[lr]::
+26300::$$$message_0187_0151_0005$$$::Pode ser melhor pensar neles como inimigos de todos os Mestres, não só de mim.::
+26301::$$$message_0187_0152_0000$$$::"Hmm. Como é esse mágico mistério?"[lr]::
+26302::$$$message_0187_0152_0001$$$::"Eles carecem de confiança para entrar em combate direto, mas são habilidosos na criação de campos limitados de grande área. A defesa lhes vai melhor do que o ataque.[lr]::
+26303::$$$message_0187_0152_0002$$$::Eles não têm conhecimento sobre taumaturgia ortodoxa... mas vejo sinais de taumaturgia negra e pensamento druídico em seu trabalho."[lr]::
+26304::$$$message_0187_0152_0003$$$::"Não é isso. Estou perguntando se eles são fortes ou fracos."[lr]::
+26305::$$$message_0187_0152_0004$$$::"Sua taumaturgia é elementar, mas..."::
+26306::$$$message_0187_0153_0000$$$::A energia mágica que deixam para trás tem um aroma muito denso.[lr]::
+26307::$$$message_0187_0153_0001$$$::A energia mágica é apenas o combustível que ativa a taumaturgia. Ela não tem nenhum efeito por si só.[lr]::
+26308::$$$message_0187_0153_0002$$$::Mas em alguns casos especiais, onde a energia mágica sozinha exibe atributos semelhantes aos da taumaturgia em si, ela deixa traços tangíveis.::
+26309::$$$message_0187_0154_0000$$$::Diz-se que os Einzberns concederam a Santa Cúpula uma personalidade humana.[lr]::
+26310::$$$message_0187_0154_0001$$$::Se essa persona tivesse energia mágica, então exibiria o atributo mágico de conceder desejos desde o momento de sua criação.[lr]::
+26311::$$$message_0187_0154_0002$$$::Suas funções vitais estão diretamente ligadas à sua função como Santo Graal, então a energia mágica que gera pode assumir formas milagrosas que se assemelham à taumaturgia."::
+26312::$$$message_0187_0155_0000$$$::Demonios encarnados, conforme definidos pela Igreja Santa, também são exemplos disso.[lr]::
+26313::$$$message_0187_0155_0001$$$::Essas entidades são primeiramente construídas como demônios, então podem usar a taumaturgia em um nível superior ao dos humanos.::
+26314::$$$message_0187_0156_0000$$$::Nossos Circuitos Mágicos são apenas nervos imitados. São habilidades coladas atrás dos nossos nervos biológicos.[lr]::
+26315::$$$message_0187_0156_0001$$$::Mas demônios não precisam desses pseudo-nervos.[lr]::
+26316::$$$message_0187_0156_0002$$$::A função deles como seres vivos é atrair fatores demoníacos.[lr]::
+26317::$$$message_0187_0156_0003$$$::Aparentemente, a Igreja os chama de Demônios Verdadeiros.[lr]::
+26318::$$$message_0187_0156_0004$$$::Eles são diferentes dos falsos que usam pensamentos humanos e ganham nomes individuais. Eles são demônios no sentido mais verdadeiro, enviados pelo Senhor antes que os humanos os nomeassem.::
+26319::$$$message_0187_0157_0000$$$::"...Em qualquer caso, são problemas.[lr]::
+26320::$$$message_0187_0157_0001$$$::Se for um mágico movido por motivações cotidianas, não são muito um problema, mas se for um freelancer que trabalha para a Igreja, não devemos subestimá-los.[lr]::
+26321::$$$message_0187_0157_0002$$$::...Pensando bem, a pessoa que venceu a última Guerra do Santo Graal foi..."::
+26322::$$$message_0187_0158_0000$$$::Uma feiticeira autônoma contratada pelos Einzberns.[lr]::
+26323::$$$message_0187_0158_0001$$$::Seu nome era Kiritsugu Emiya.[lr]::
+26324::$$$message_0187_0158_0002$$$::Ele era um mago orientado para combate que se afastou das linhas de frente após receber uma designação de selo e foi convidado pelos Einzberns.[lr]::
+26325::$$$message_0187_0158_0003$$$::As atividades de Kiritsugu Emiya teriam se sobreposto ao meu ofício. Se ele estivesse ainda ativo hoje, tenho certeza de que teríamos entrado em conflito.::
+26326::$$$message_0187_0159_0000$$$::A situação está começando a perder o controle, mas não posso mudar minha abordagem geral só porque há mais um inimigo.[lr]::
+26327::$$$message_0187_0159_0001$$$::Vou continuar coletando inteligência enquanto evito danos civis, e vou aprender sobre todos os Mestres.[lr]::
+26328::$$$message_0187_0159_0002$$$::O problema é o que vem depois disso.[lr]::
+26329::$$$message_0187_0159_0003$$$::As habilidades do meu Servo são claramente de baixo nível.[lr]::
+26330::$$$message_0187_0159_0004$$$::Em um combate de frente a frente, é inevitável que ele exauste suas forças e caia.::
+26331::$$$message_0187_0160_0000$$$::Preciso pensar na ordem em que vamos lutar contra os Mestres, mas nosso oponente final está claro.[lr]::
+26332::$$$message_0187_0160_0001$$$::Einzbern, a linhagem do Santo Graal.[lr]::
+26333::$$$message_0187_0160_0002$$$::Diz-se que prepararam o Mestre mais poderoso.[lr]::
+26334::$$$message_0187_0160_0003$$$::Já enfrentei um homúnculo Einzbern antes.[lr]::
+26335::$$$message_0187_0160_0004$$$::...Era um modelo defeituário, descartado, que conseguiu escapar do território Einzbern e estava escondido nas partes mais sujas de um vilarejo humano.::
+26336::$$$message_0187_0161_0000$$$::Fui ordenado a descartá-lo, mas a missão não foi fácil.[lr]::
+26337::$$$message_0187_0161_0001$$$::Mesmo considerando minha relativa inexperiência na época, o homúnculo Einzbern era mais forte do que a média dos mages.::
+26338::$$$message_0187_0162_0000$$$::E agora, os mesmos Einzberns enviaram um Mestre que afirmam ser o mais forte.[lr]::
+26339::$$$message_0187_0162_0001$$$::Frankamente, é impossível calcular minhas chances de vitória nessa fase.[lr]::
+26340::$$$message_0187_0162_0002$$$::Lutar contra a Mestra Einzbern antes de saber quais cartas ela possui seria suicida.::
+26341::$$$message_0187_0163_0000$$$::Os Einzberns mantêm um castelo na floresta nas proximidades da cidade.[lr]::
+26342::$$$message_0187_0163_0001$$$::...Assim que tentar atacar aquela fortaleza, será o confronto final da Guerra do Santo Graal.[current withback=false]::
+26343::$$$message_0187_0164_0000$$$::Por fim, chegamos ao cemitério dos estrangeiros no topo de uma colina.[lr]::
+26344::$$$message_0187_0164_0001$$$::Talvez o sombra dos Einzberns ainda persista na minha mente.[lr]::
+26345::$$$message_0187_0164_0002$$$::Sinto-me levemente tonto e fraco nas pernas.[lr]::
+26346::$$$message_0187_0164_0003$$$::...Não quero me aproximar muito desse lugar.[wm canskip=0]::
+26347::$$$message_0187_0165_0000$$$::"O que há de errado, Mestre? Algo te preocupa?"[lr]::
+26348::$$$message_0187_0165_0001$$$::A inquietação mostrou no meu rosto?[lr]::
+26349::$$$message_0187_0165_0002$$$::Meu Servo parece bastante preocupado com meu estado.::
+26350::$$$message_0187_0166_0000$$$::Fico surpreso com seu súbito demonstrar de preocupação.[lr]::
+26351::$$$message_0187_0166_0001$$$::"...Isso pode ser uma pergunta tola,[lr]::
+26352::$$$message_0187_0166_0002$$$::Mas você acha que consigo vencer...?"[lr]::
+26353::$$$message_0187_0166_0003$$$::Eu digo uma insegurança tímida sem pensar.::
+26354::$$$message_0187_0167_0000$$$::"..."[lr]::
+26355::$$$message_0187_0167_0001$$$::A cor do meu Servo mudou.[lr]::
+26356::$$$message_0187_0167_0002$$$::Ele se vira para longe de mim, seus lábios ainda curvados em um sorriso sardônico.::
+26357::$$$message_0187_0168_0000$$$::"Ainda é cedo demais para se preocupar com isso.[lr]::
+26358::$$$message_0187_0168_0001$$$::Você pode julgar se vai ganhar ou perder depois de decidir o que vai derrotar."[lr]::
+26359::$$$message_0187_0168_0002$$$::Sua voz está tensa.[lr]::
+26360::$$$message_0187_0168_0003$$$::Sua postura, curvada para frente como uma fera diante de sua presa.::
+26361::$$$message_0187_0169_0000$$$::"Sorte nossa.[lr]::
+26362::$$$message_0187_0169_0001$$$::Parece que não temos tempo para nos preocupar com isso."[lr]::
+26363::$$$message_0187_0169_0002$$$::Ele sorri.[lr]::
+26364::$$$message_0187_0169_0003$$$::Seguo seu olhar e vejo um Mestre e um Servo.::
+26365::$$$message_0187_0170_0000$$$::"Ngh...!"[lr]::
+26366::$$$message_0187_0170_0001$$$::Percepço energia mágica poderosa.[lr]::
+26367::$$$message_0187_0170_0002$$$::O brilho de um Selo de Mando em sua mão esquerda.[lr]::
+26368::$$$message_0187_0170_0003$$$::Ela parece jovem, mas provavelmente é muito mais talentosa do que eu.::
+26369::$$$message_0187_0171_0000$$$::"Um prazer em conhecer você, mágica de um vilarejo atrasado.[lr]::
+26370::$$$message_0187_0171_0001$$$::Precisamos de um troca formal de nomes?"[lr]::
+26371::$$$message_0187_0171_0002$$$::Seu olhar desdenhoso parece treinado. Ela deve ser de algum lar nobre.::
+26372::$$$message_0187_0172_0000$$$::Há uma figura humana ao lado da garota.[lr]::
+26373::$$$message_0187_0172_0001$$$::Não consigo dizer qual classe é, mas deve ser um Servo, já que está com um Mestre.::
+26374::$$$message_0187_0173_0000$$$::"..."[lr]::
+26375::$$$message_0187_0173_0001$$$::Retiro um par de luvas, inscritas com runas de proteção divina, do bolso do peito.[lr]::
+26376::$$$message_0187_0173_0002$$$::Eles se enrolem em algo duro e puxam também isso para fora.[lr]::
+26377::$$$message_0187_0173_0003$$$::Por que eu tenho esse brinco? Por que guardei ele tão cuidadosamente?[lr]::
+26378::$$$message_0187_0173_0004$$$::Pensamentos surgem, mas não é o momento para eles.::
+26379::$$$message_0187_0174_0000$$$::Coloquei os punhos.[lr]::
+26380::$$$message_0187_0174_0001$$$::A garota espera educadamente até eu terminar.[lr]::
+26381::$$$message_0187_0174_0002$$$::...Lamento ter deixado minha mochila em casa. Vou levá-la a partir de agora, mesmo que só tenha a intenção de sair a reconhecer o terreno.[lr]::
+26382::$$$message_0187_0174_0003$$$::Mesmo que eu não deva usar minha arma secreta tão cedo, é melhor tê-la e não precisar dela.::
+26383::$$$message_0187_0175_0000$$$::"Vou avaliar a força do inimigo. Você tome o Servo."[wm canskip=0][lr]::
+26384::$$$message_0187_0175_0001$$$::"Claro."[lr]::
+26385::$$$message_0187_0175_0002$$$::Ele corre em direção ao Servo da garota sem se preocupar em esperar ou observar.[wm canskip=0]::
+26386::$$$message_0187_0176_0000$$$::Duas sombras colidem.[lr]::
+26387::$$$message_0187_0176_0001$$$::Eu passo por eles, correndo para o Mestre indefeso.::
+26388::$$$message_0187_0177_0000$$$::"Ha! Você realmente é um camponês sem nome para dar! [cacheimage storage=14風圧][wvl][se storage=se120.wav][movefg textoff=0 opacity=170 left=0 top=0 time=1000 accel=0 storage=14風圧]Muito bem, considere-se honrado por ter caído nas mãos de uma Edelfelt!"[wdash canskip=0][lr]::
+26389::$$$message_0187_0177_0001$$$::O tiro Gandr que ela dispara parece ter vindo de uma arma.[lr]::
+26390::$$$message_0187_0177_0002$$$::É um feitiço de ação única que não me permite aproximar.[lr]::
+26391::$$$message_0187_0177_0003$$$::A garota é literalmente uma canhão mágica. Não é uma metáfora.::
+26392::$$$message_0187_0178_0000$$$::Edelfelt.[lr]::
+26393::$$$message_0187_0178_0001$$$::A famosa família finlandesa, as Balanças de Peso de Joia, conhecidas por produzirem usuários de Gandr. Aquelas Edelfelts...![lr]::
+26394::$$$message_0187_0178_0002$$$::Vi que a jovem líder da geração atual é a glória do seu clã. Depois de ver suas habilidades, posso acreditar nisso!::
+26395::$$$message_0187_0179_0000$$$::Não consigo me defender contra as maldições que atingem minhas coxas.[lr]::
+26396::$$$message_0187_0179_0001$$$::Sem parar, uso meu punho esquerdo para desviar os tiros direcionados para o meu corpo superior.[lr]::
+26397::$$$message_0187_0179_0002$$$::"Você está me bloqueando com o Gandr nas mãos nuas!?"[lr]::
+26398::$$$message_0187_0179_0003$$$::Eu entro.[lr]::
+26399::$$$message_0187_0179_0004$$$::Meu punho direito, abaixado ao nível do peito, atinge a flancos da garota para um golpe no fígado.::
+26400::$$$message_0187_0180_0000$$$::"Guh...!?"[lr]::
+26401::$$$message_0187_0180_0001$$$::Fui lançado para o ar.[lr]::
+26402::$$$message_0187_0180_0002$$$::Algo apareceu atrás dela e me jogou para trás assim que bloqueou meu golpe.::
+26403::$$$message_0187_0181_0000$$$::"..."[lr]::
+26404::$$$message_0187_0181_0001$$$::Um guerreiro está entre nós.[lr]::
+26405::$$$message_0187_0181_0002$$$::A Servent.[lr]::
+26406::$$$message_0187_0181_0003$$$::Isso é um Servo, sem dúvida.[lr]::
+26407::$$$message_0187_0181_0004$$$::"O que? Então, quem é a outra garota..."[lr]::
+26408::$$$message_0187_0181_0005$$$::Assim que me viro para olhar, o combate já está decidido.[stopmove][stopdash][wt canskip=0][current withback=false]::
+26409::$$$message_0187_0182_0000$$$::"Por favor, Saber...!"[lr]::
+26410::$$$message_0187_0182_0001$$$::Outra garota grita.[lr]::
+26411::$$$message_0187_0182_0002$$$::A segunda garota deu o comando, e Saber derrotou meu Servo.[lr]::
+26412::$$$message_0187_0182_0003$$$::...Ele é surpreendentemente fraco.[lr]::
+26413::$$$message_0187_0182_0004$$$::Em um flash de luz, sem mesmo conseguir levantar seus punhados, a cabeça do meu Servo voa e ele desaparece.[wm canskip=0][wm canskip=0]::
+26414::$$$message_0187_0183_0000$$$::"Bem, isso foi decepcionante. Que maneira de estragar o divertimento.[lr]::
+26415::$$$message_0187_0183_0001$$$::Limpe isso, Saber. Vamos para casa e aproveitemos um copo quente de café."[lr]::
+26416::$$$message_0187_0183_0002$$$::A Serva Servo acena em silêncio.[wt canskip=0][current withback=false]::
+26417::$$$message_0187_0184_0000$$$::"..."[lr]::
+26418::$$$message_0187_0184_0001$$$::Incapaz de repelir o ataque cortante, caio.[lr]::
+26419::$$$message_0187_0184_0002$$$::Este é o Serva conhecido como Saber.[lr]::
+26420::$$$message_0187_0184_0003$$$::Mas o que aconteceu?[wm canskip=0][lr]::
+26421::$$$message_0187_0184_0004$$$::Cada uma das garotas comandava um Saber diferente.::
+26422::$$$message_0187_0185_0000$$$::"Você não fez sua lição de casa.[lr]::
+26423::$$$message_0187_0185_0001$$$::Não não não, não é assim. A família Edelfelt é composta por irmãs, mas não é uma família de irmãs que lideram. A liderança é uma coisa que pertence a uma única pessoa. Acho que você está confundindo algo."[lr]::
+26424::$$$message_0187_0185_0002$$$::Irmãs[line len=2]então aquilo é o atributo mágico da sua linhagem.[lr]::
+26425::$$$message_0187_0185_0003$$$::A sociedade mágica normalmente detesta a presença de dois herdeiros, mas as Escamas são famosas por isso.[lr]::
+26426::$$$message_0187_0185_0004$$$::Significava... que ambos contam como um único Mestre. Cada irmã convocou e comanda uma face diferente do mesmo Espírito Heroico...![wt canskip=0]::
+26427::$$$message_0187_0186_0000$$$::"Um caído. Conhece a glória de cair nas nossas mãos, assim como a vergonha de ser o primeiro a cair.[lr]::
+26428::$$$message_0187_0186_0001$$$::Isso deixa cinco mestres mais."[wt canskip=0][lr]::
+26429::$$$message_0187_0186_0002$$$::A voz da menina ressoa com a lua.[lr]::
+26430::$$$message_0187_0186_0003$$$::Saber não demonstra nenhum sentimento por mim.[lr]::
+26431::$$$message_0187_0186_0004$$$::e silenciosamente enfia uma espada no meu peito.[wdash canskip=0][wdash canskip=0][current withback=false]::
+26432::$$$message_0187_0187_0000$$$::Eu desmaio.[lr]::
+26433::$$$message_0187_0187_0001$$$::A lua gira como um crânio descascado.::
+26434::$$$message_0187_0188_0000$$$::Assim se desenrola minha Guerra do Santo Graal. [font color=0x9E0326]Mais uma vez...[rf][lr]::
+26435::$$$message_0187_0188_0001$$$::A cortina cai.[lr]::
+26436::$$$message_0187_0188_0002$$$::com a história sem fim e sem perspectiva de conclusão.[nolr][p]::
+926369::$$$message_9187_0171_0000$$$::"Um prazer em conhecer você, mágica de um vilarejo atrasado."[r]::
+

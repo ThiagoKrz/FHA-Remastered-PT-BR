@@ -1,0 +1,842 @@
+DAT
+id=qid::label=str::text=lstr::
+16281::$$$message_0128_0000_0000$$$::"Eu comprei. Hmm, foi o biscoito de queijo sem cozinhar de morango?"[lr]::
+16282::$$$message_0128_0000_0001$$$::"Boa trabalho. Sim, [wvl][se volume=80 storage=se218.wav][shock vmax=10 time=400 count=4]aqui vai."[lr]::
+16283::$$$message_0128_0000_0002$$$::A Caster pega o crepe envolto em forma triangular sem nem se virar, e dá-me indiferentemente uma moeda de 500 ienes.::
+16284::$$$message_0128_0001_0000$$$::"Uh... Isso não é suficiente. Você ainda me deve oitenta ienes."[lr]::
+16285::$$$message_0128_0001_0001$$$::"..."[lr]::
+16286::$$$message_0128_0001_0002$$$::[font italic=true]Ei.[font italic=false][lr]::
+16287::$$$message_0128_0001_0003$$$::É inútil. Ela não me ouve.::
+16288::$$$message_0128_0002_0000$$$::Não tenho outra escolha a não ser engolir o meu.[lr]::
+16289::$$$message_0128_0002_0001$$$::Recomendação do atendente da loja, chocolate de caramelo de banana com chantilly.[lr]::
+16290::$$$message_0128_0002_0002$$$::Isso é bom. Isso é realmente bom.[lr]::
+16291::$$$message_0128_0002_0003$$$::Mesmo que eu tire o fato de estar com fome, isso é exímio.[lr]::
+16292::$$$message_0128_0002_0004$$$::Não tem um nome excessivamente longo por nada. Então os crêpes hoje têm esse sabor luxuoso, né?::
+16293::$$$message_0128_0003_0000$$$::Lembrei uma vez que fui na fila no balcão, mas era uma loja bastante popular. Acho que Sakura também falou disso antes.[lr]::
+16294::$$$message_0128_0003_0001$$$::Mas apesar de parecer ter uma quantidade absurda de calorias, não me deixa nem um pouco satisfeito. É como o inferno para a Sakura.::
+16295::$$$message_0128_0004_0000$$$::"...Tudo bem."[lr]::
+16296::$$$message_0128_0004_0001$$$::A Caster, por outro lado, joga a embalagem para baixo, como se o sabor não importasse, amassa o papel e joga para cima do ombro.::
+16297::$$$message_0128_0005_0000$$$::"Ugh..."[lr]::
+16298::$$$message_0128_0005_0001$$$::Suspiro e o pego.[lr]::
+16299::$$$message_0128_0005_0002$$$::Faça um arremesso que até a lixeira admiraria.[lr]::
+16300::$$$message_0128_0005_0003$$$::Agrupada a um minivan estacionado, seus olhos estão fixos discretamente na direção de duas pessoas caminhando juntas.::
+16301::$$$message_0128_0006_0000$$$::Um é o marido de poucas palavras de Caster, Souichirou Kuzuki.[lr]::
+16302::$$$message_0128_0006_0001$$$::O outro é nossa figura da irmã mais velha infiel, Taiga Fujimura.[lr]::
+16303::$$$message_0128_0006_0002$$$::Eles seriam colegas... Direito? Sim.::
+16304::$$$message_0128_0007_0000$$$::Estou caminhando para o templo Ryuudou para encontrar Issei, mas fui capturado por essa bruxa e estou andando pela cidade há cerca de uma hora e meia, deixando ele esperando.[lr]::
+16305::$$$message_0128_0007_0001$$$::Issei provavelmente está furioso agora.::
+16306::$$$message_0128_0008_0000$$$::Antes que eu percebesse, já passamos por Miyama e estamos no meio de Shinto.::
+16307::$$$message_0128_0009_0000$$$::Quando cruzamos o grande ponte, escondemos de pilar em pilar na estrada enquanto éramos tocados pelas caminhonetes.[lr]::
+16308::$$$message_0128_0009_0001$$$::Esses dois ainda não nos notaram mesmo depois disso, então só posso pensar que há algum uso de taumaturgia em ação.[lr]::
+16309::$$$message_0128_0009_0002$$$::Assim é que o amor faz você cegar.::
+16310::$$$message_0128_0010_0000$$$::[font italic=true]...Hmm?[font italic=false][lr]::
+16311::$$$message_0128_0010_0001$$$::[font italic=true]Por que algo me parece errado?[font italic=false][lr]::
+16312::$$$message_0128_0010_0002$$$::Para o propósito de argumento, vamos assumir que ela é apenas uma "menina" apaixonada.::
+16313::$$$message_0128_0011_0000$$$::Nós acompanhamos o movimento dos sujeitos que estamos perseguindo e também avançamos.[lr]::
+16314::$$$message_0128_0011_0001$$$::Eu toco no ombro de Caster enquanto nos encontramos na sombra do quadro de informações da parada de ônibus.::
+16315::$$$message_0128_0012_0000$$$::"Ei, Caster?[lr]::
+16316::$$$message_0128_0012_0001$$$::Ainda não compreendi realmente o ponto principal dessa perseguição..."[lr]::
+16317::$$$message_0128_0012_0002$$$::"..."[lr]::
+16318::$$$message_0128_0012_0003$$$::Não há resposta.::
+16319::$$$message_0128_0013_0000$$$::"...Hey, Caster."[lr]::
+16320::$$$message_0128_0013_0001$$$::"..."[lr]::
+16321::$$$message_0128_0013_0002$$$::Não há resposta.::
+16322::$$$message_0128_0014_0000$$$::"Ei, Casko."[lr]::
+16323::$$$message_0128_0014_0001$$$::[font italic=true]...Hrrk!!![font italic=false][lr]::
+16324::$$$message_0128_0014_0002$$$::[shock vmax=20 time=200 count=-3]Sua salto! [wshock canskip=0][wait canskip=0 time=300][shock vmax=20 time=200 count=-3]Seus saltos altos! [wshock canskip=0][wait canskip=0 time=300][shock vmax=20 time=200 count=-3]Certo! [wshock canskip=0][wait canskip=0 time=300][shock vmax=20 time=200 count=-3]Meu tornozelo!::
+16325::$$$message_0128_0015_0000$$$::[stophaze time=400][font italic=1]"...M-Madame?[rf] (voz de falsete)[lr]::
+16326::$$$message_0128_0015_0001$$$::[font italic=1]M-Senhora Young, esposa em uma jaqueta de bolero de denim?"[rf][lr]::
+16327::$$$message_0128_0015_0002$$$::"Ah, você disse algo?"::
+16328::$$$message_0128_0016_0000$$$::"Hmm... Pode me lembrar por que estamos tão envolvidos em espioná-los assim?"[lr]::
+16329::$$$message_0128_0016_0001$$$::"[delay speed=180]Isso tanto?"[delay speed=user][rf][lr]::
+16330::$$$message_0128_0016_0002$$$::Ela pega meu colarinho e me puxa para a sombra da escultura no praça. Uma chama azul brilha em seus olhos.::
+16331::$$$message_0128_0017_0000$$$::"Você não tem uma memória muito boa, não é? Deveria ser óbvio.[lr]::
+16332::$$$message_0128_0017_0001$$$::Estamos de olho nessa adúltera. Para garantir que nenhuma desgraça ou erro aconteça com a segurança de Souichirou!"[lr]::
+16333::$$$message_0128_0017_0002$$$::Isso é a parte que eu não entendo muito.::
+16334::$$$message_0128_0018_0000$$$::"Um, mas, você sabe. A daí é Taiga Fujimura."[lr]::
+16335::$$$message_0128_0018_0001$$$::"Sim.[lr]::
+16336::$$$message_0128_0018_0002$$$::Não é por isso que te tenho aqui como seu guardião para vigiá-la?"::
+16337::$$$message_0128_0019_0000$$$::Guardião, monitor... Fuji-nee é uma criminosa?[lr]::
+16338::$$$message_0128_0019_0001$$$::Bem, eu não me sinto com vontade de negar isso no sentido de que estou cuidando dela.[lr]::
+16339::$$$message_0128_0019_0002$$$::Isso não é o problema...::
+16340::$$$message_0128_0020_0000$$$::"O que está ao lado dela é o Sr. Kuzuki, certo?"[lr]::
+16341::$$$message_0128_0020_0001$$$::"Isso é de fato Souichirou."[lr]::
+16342::$$$message_0128_0020_0002$$$::"...Um, qual é a "má sorte ou erro" que o atingirá?"[lr]::
+16343::$$$message_0128_0020_0003$$$::"Como é tolice. Obviamente, eu estava falando da situação completamente natural que aconteceria se um homem e uma mulher estivessem juntos.[lr]::
+16344::$$$message_0128_0020_0004$$$::Você é muito novo para entender, garoto?"::
+16345::$$$message_0128_0021_0000$$$::"Você quer dizer[line len=3]?"[lr]::
+16346::$$$message_0128_0021_0001$$$::"Ah, Souichirou está entrando nesse prédio![cacheimage storage=キャスター私服02i(近)][wvl canskip=0 time=500][se storage=se054.wav][chgfg textoff=0 time=300 storage=キャスター私服02i(近)] Vamos, caminhe!"[lr]::
+16347::$$$message_0128_0021_0002$$$::"Ow, ow, ow."::
+16348::$$$message_0128_0022_0000$$$::Eu me movo em silêncio, em posição de prancha, de escultura em escultura, enquanto Caster ainda segura meu colar.::
+16349::$$$message_0128_0023_0000$$$::Criança com sua família que passa por nós aponta para nós enquanto ria.[lr]::
+16350::$$$message_0128_0023_0001$$$::"E aí, moleque!? Vou te transformar em porco!"[lr]::
+16351::$$$message_0128_0023_0002$$$::[font italic=true]Eek...![font italic=false][lr]::
+16352::$$$message_0128_0023_0003$$$::[font italic=true]Pare de dizer essas coisas com uma cara de poker![font italic=false]::
+16353::$$$message_0128_0024_0000$$$::"Espere, espera, Caster.[lr]::
+16354::$$$message_0128_0024_0001$$$::Olha. Do meu conhecimento, se você perguntasse quem é a mulher mais distante das palavras "investigação de infidelidade" e "pesquisa de lar" em Fuyuki City[line len=2]não, talvez toda a região de Ocidental do Japão[line len=2]seja, seria a senhorita Taiga Fujimura lá em cima."::
+16355::$$$message_0128_0025_0000$$$::"[line len=3]Achoo! [cacheimage storage=葛木01a眼鏡(遠),藤08f(近),o駅前パーク(秋)-(昼)][wvl canskip=0 time=400][rep fliplr=0 tops=46,1 storages=葛木01a眼鏡(遠),藤08f(近) time=300 flipud=0 lefts=88,254 bg=o駅前パーク(秋)-(昼) indexes=1000,2000]Mmm."::
+16356::$$$message_0128_0026_0000$$$::"Comparado à Fuji-nee, a garota propaganda da minha empregada seria muito mais realista."::
+16357::$$$message_0128_0027_0000$$$::"[line len=3]Miauchoo! [cacheimage storage=一成兄01b(遠),ネコ01f(近),i柳洞寺_調理場][wvl canskip=0 time=600][rep textoff=0 fliplr=0 storages=一成兄01b(遠),ネコ01f(近) time=300 flipud=0 poss=l,rc bg=i柳洞寺_調理場 indexes=1000,2000 cleardash=1]Ahh."[lr]::
+16358::$$$message_0128_0027_0001$$$::"Oh? Neko, você tem gripe? Deve beber algo nesses momentos."::
+16359::$$$message_0128_0028_0000$$$::"Huh...? Que estranho, os dois são culpados?[lr]::
+16360::$$$message_0128_0028_0001$$$::É isso aí, enfim, só que é assim que é irreal!"::
+16361::$$$message_0128_0029_0000$$$::[line len=3]Embora eu tenha tentado convencê-la, Caster não parece ter entendido nada.[lr]::
+16362::$$$message_0128_0029_0001$$$::"Você está insistindo que a tigresa é inofensiva?[lr]::
+16363::$$$message_0128_0029_0002$$$::No entanto, [wvl] [shock vmax=15 time=200 count=-3]isso não é nada persuasivo quando estão lá, exibindo seu encontro!"[lr]::
+16364::$$$message_0128_0029_0003$$$::"Ditei que isso é[line len=3]"::
+16365::$$$message_0128_0030_0000$$$::[font italic=true]...Pensando bem, o que a Fuji-nee está fazendo?[font italic=false][lr]::
+16366::$$$message_0128_0030_0001$$$::Achei que ela tivesse só se afastado essa manhã.::
+16367::$$$message_0128_0031_0000$$$::"Bem, acho que é sobre trabalho. Tipo, verificar um site."[lr]::
+16368::$$$message_0128_0031_0001$$$::"A Homurahara High deveria estar fechada hoje. Souichirou sempre me diz quando está trabalhando nos finais de semana ou em horas extras."::
+16369::$$$message_0128_0032_0000$$$::"É esperado de recém-casados. Isso é considerado."[lr]::
+16370::$$$message_0128_0032_0001$$$::"Sim, exatamente.[lr]::
+16371::$$$message_0128_0032_0002$$$::Ele diria: "Vou atrasar. Por favor, vá em frente e coma primeiro."::
+16372::$$$message_0128_0033_0000$$$::"Hmm. Quando a Fuji-nee trabalha em horário extra, ela só diz: "Shirou! Um almoço de carne de porco com couve extra, rápido!"[lr]::
+16373::$$$message_0128_0033_0001$$$::"Estou invejoso...[lr]::
+16374::$$$message_0128_0033_0002$$$::Quero também ver Souichirou trabalhando."::
+16375::$$$message_0128_0034_0000$$$::"Souichirou também fala durante a aula, né?"[lr]::
+16376::$$$message_0128_0034_0001$$$::"Bem, sim, não seria classe se ele não estivesse falando o tempo todo."[lr]::
+16377::$$$message_0128_0034_0002$$$::"Isso é bom..."[lr]::
+16378::$$$message_0128_0034_0003$$$::"Ei, o que é?"[lr]::
+16379::$$$message_0128_0034_0004$$$::"Que você possa ouvir a sua aula."::
+16380::$$$message_0128_0035_0000$$$::"Isso deve ter sido um tempo feliz e doce."[lr]::
+16381::$$$message_0128_0035_0001$$$::"De fato.[lr]::
+16382::$$$message_0128_0035_0002$$$::É uma aula de ética."::
+16383::$$$message_0128_0036_0000$$$::Certo, o Sr. Kuzuki não deve falar tanto em casa.[lr]::
+16384::$$$message_0128_0036_0001$$$::A Caster não deve estar infeliz com isso, mas querer ouvir sua voz deve ser seu sentimento sincero.::
+16385::$$$message_0128_0037_0000$$$::"Tudo bem. Vamos fazer uma ensaio.[lr]::
+16386::$$$message_0128_0037_0001$$$::Vamos cumprimentá-los como faríamos no gabinete da equipe."[lr]::
+16387::$$$message_0128_0037_0002$$$::Enquanto começo a andar, ela puxa meu braço de volta.[lr]::
+16388::$$$message_0128_0037_0003$$$::Quando olho para trás, a Caster está balançando a cabeça de lado para lado.::
+16389::$$$message_0128_0038_0000$$$::"N-[wvl][shock vmax=20 time=300 count=-3]Não, absolutamente não."[lr]::
+16390::$$$message_0128_0038_0001$$$::"Por que não?"[lr]::
+16391::$$$message_0128_0038_0002$$$::"Você realmente não entende![lr]::
+16392::$$$message_0128_0038_0003$$$::As esposas devem esperar pelo retorno do marido"[line len=3][lr]::
+16393::$$$message_0128_0038_0004$$$::O momento em que Caster levanta a voz, Sr. Kuzuki se vira.::
+16394::$$$message_0128_0039_0000$$$::"Ah, você é alérgico a pólen?[lr]::
+16395::$$$message_0128_0039_0001$$$::Escuto dizer que tem sido difícil ultimamente no outono. Estou totalmente bem, apesar disso."[lr]::
+16396::$$$message_0128_0039_0002$$$::"Não. Apenas achei que ouvi uma voz familiar."[lr]::
+16397::$$$message_0128_0039_0003$$$::"Mais as pessoas falam, mais o pólen aumenta."[lr]::
+16398::$$$message_0128_0039_0004$$$::"...[wait canskip=0 time=400][chgfg textoff=0 time=300 storage=葛木01a眼鏡(近)][say storage=cty0404_kuz_0010 name=葛木]É isso uma lenda urbana?"::
+16399::$$$message_0128_0040_0000$$$::"Haah... Haah... Quase lá..."[lr]::
+16400::$$$message_0128_0040_0001$$$::"Então você está duvidando do Sr. Kuzuki, afinal."[lr]::
+16401::$$$message_0128_0040_0002$$$::"Tsc."[lr]::
+16402::$$$message_0128_0040_0003$$$::A Caster esconde-se atrás de um vestido exposto na loja de roupas e frisa os sobrancelhas.::
+16403::$$$message_0128_0041_0000$$$::"Quem disse isso?"[lr]::
+16404::$$$message_0128_0041_0001$$$::"Então, [wvl canskip=0 time=400]você não quer que seu marido saiba que está duvidando dele, [wvl canskip=0 time=400]não é?"[lr]::
+16405::$$$message_0128_0041_0002$$$::"...O que aconteceu com você? [l][say storage=cty0404_cas_0251 name=キャスター]O garoto que eu conheço tinha um pouco mais de personalidade amável e honesta."::
+16406::$$$message_0128_0042_0000$$$::"Isso significa que sou ingênuo?"[lr]::
+16407::$$$message_0128_0042_0001$$$::Isso é ofensivo.[lr]::
+16408::$$$message_0128_0042_0002$$$::Dizem que você deve prestar atenção quando olha para um garoto que não vê há três dias.::
+16409::$$$message_0128_0043_0000$$$::"Mudei.[lr]::
+16410::$$$message_0128_0043_0001$$$::Depois de passar algum tempo em uma propriedade que se tornou um esconderijo de demônios devido a esses esquemistas, quer eu queira ou não" [line len=2][lr]::
+16411::$$$message_0128_0043_0002$$$::"E aqueles dois estão fazendo?[lr]::
+16412::$$$message_0128_0043_0003$$$::Ah, eles se moveram de novo."[lr]::
+16413::$$$message_0128_0043_0004$$$::"Caster?"[lr]::
+16414::$$$message_0128_0043_0005$$$::...Ela nem está escutando.[lr]::
+16415::$$$message_0128_0043_0006$$$::E ela simplesmente vai embora sozinha.::
+16416::$$$message_0128_0044_0000$$$::"..."::
+16417::$$$message_0128_0045_0000$$$::"...Estou começando a ficar com fome de verdade. Vou sair daqui."[lr]::
+16418::$$$message_0128_0045_0001$$$::A Caster se vira rapidamente e crava suas garras nos meus ombros.::
+16419::$$$message_0128_0046_0000$$$::"Espere um momento![lr]::
+16420::$$$message_0128_0046_0001$$$::Saber é a única que pode se safar agindo com fome e ainda ser fofa! É só feio quando os meninos fazem isso!"[lr]::
+16421::$$$message_0128_0046_0002$$$::"Bem, boa sorte com o resto."[lr]::
+16422::$$$message_0128_0046_0003$$$::"...Hrrk![lr]::
+16423::$$$message_0128_0046_0004$$$::E-Espera, espera, espera[line len=3]!"::
+16424::$$$message_0128_0047_0000$$$::Caster, que está se agarrando ao tecido da minha camisa, desliza pelo piso liso como uma escorregadura de neve.[lr]::
+16425::$$$message_0128_0047_0001$$$::Continuo caminhando sem dar a mínima.::
+16426::$$$message_0128_0048_0000$$$::"Eu entendo seus receios.[lr]::
+16427::$$$message_0128_0048_0001$$$::Mas não é um bom passatempo seguir atrás das pessoas."[lr]::
+16428::$$$message_0128_0048_0002$$$::"Bah... Bah..."[lr]::
+16429::$$$message_0128_0048_0003$$$::"...Bah?"[lr]::
+16430::$$$message_0128_0048_0004$$$::Fico horrorizado ao ver a Caster sentada de joelhos chorando e finalmente paro.::
+16431::$$$message_0128_0049_0000$$$::"B- Mas se eu os seguir sozinho[line len=3][lr]::
+16432::$$$message_0128_0049_0001$$$::Vou parecer uma pessoa estranha, ou um amante que ama o marido de alguém!"[lr]::
+16433::$$$message_0128_0049_0002$$$::"Essas são suas verdadeiras emoções.[lr]::
+16434::$$$message_0128_0049_0003$$$::...Mas bem, não é tudo bem? O que há de errado em algumas perguntas? Você deveria dizer isso sem se envergonhar."[lr]::
+16435::$$$message_0128_0049_0004$$$::"...Hmm?"::
+16436::$$$message_0128_0050_0000$$$::"Que você é Medea Kuzuki. Que você é realmente a esposa desse homem[line len=3]como isso."[lr]::
+16437::$$$message_0128_0050_0001$$$::"..."[lr]::
+16438::$$$message_0128_0050_0002$$$::Caster, que estava em uma pose cambaleante, levanta os olhos.::
+16439::$$$message_0128_0051_0000$$$::"...Você pode repetir isso novamente?"[lr]::
+16440::$$$message_0128_0051_0001$$$::"Espera... O que?"[lr]::
+16441::$$$message_0128_0051_0002$$$::Português?::
+16442::$$$message_0128_0052_0000$$$::"Hmm, Medea Kuzuki?"[lr]::
+16443::$$$message_0128_0052_0001$$$::"..."::
+16444::$$$message_0128_0053_0000$$$::"...Medea... Kuzuki..."[delay speed=user]::
+16445::$$$message_0128_0054_0000$$$::"T-Isso... É bom.[lr]::
+16446::$$$message_0128_0054_0001$$$::Isso é tudo. Sim. Medea Kuzuki!"::
+16447::$$$message_0128_0055_0000$$$::"Preciso que o Assassino corte um placar quando eu voltar em casa!"[lr]::
+16448::$$$message_0128_0055_0001$$$::"Você é um parasita, então."[lr]::
+16449::$$$message_0128_0055_0002$$$::A Caster estende os braços e gira como um helicóptero de bambu.::
+16450::$$$message_0128_0056_0000$$$::"Todo mundo! Sou![lr]::
+16451::$$$message_0128_0056_0001$$$::Medea Kuzuki![lr]::
+16452::$$$message_0128_0056_0002$$$::Me[line len=2]de[line len=2]a[line len=2]Kuzu..."[lr]::
+16453::$$$message_0128_0056_0003$$$::"Hahaha, você está brilhando, Caster."[lr]::
+16454::$$$message_0128_0056_0004$$$::Embora ela esteja totalmente sendo uma pessoa estranha.[lr]::
+16455::$$$message_0128_0056_0005$$$::...Mas ela está em um estado bastante panícano; ela vai explodir como uma bomba com mais um empurrão?::
+16456::$$$message_0128_0057_0000$$$::"Espera. Onde estão a Fuji-nee e o Sr. Kuzuki?"[lr]::
+16457::$$$message_0128_0057_0001$$$::"Khh, aquela tigresa. Ela me sacudiu!"[lr]::
+16458::$$$message_0128_0057_0002$$$::"Ah, ela voltou!"[lr]::
+16459::$$$message_0128_0057_0003$$$::"Cai!"::
+16460::$$$message_0128_0058_0000$$$::É patético como consigo esconder com tanta naturalidade nesse ponto.[lr]::
+16461::$$$message_0128_0058_0001$$$::Os dois haviam acabado de voltar do food court do shopping.::
+16462::$$$message_0128_0059_0000$$$::"Desculpe por te obrigar a andar. Você deve estar furioso."[lr]::
+16463::$$$message_0128_0059_0001$$$::"Eu não me importo em caminhar."[lr]::
+16464::$$$message_0128_0059_0002$$$::"Estou feliz. Está tudo bem.[lr]::
+16465::$$$message_0128_0059_0003$$$::Vamos conseguir da próxima vez com certeza."::
+16466::$$$message_0128_0060_0000$$$::Os dois saem do centro comercial e vão em direção ao próximo local.[lr]::
+16467::$$$message_0128_0060_0001$$$::Quando olho para trás, todos os comércios estão cheios por causa de ser fim de semana durante o dia.[lr]::
+16468::$$$message_0128_0060_0002$$$::Mas, não é ao ponto deles não conseguirem sentar.::
+16469::$$$message_0128_0061_0000$$$::"Eles seguem esse padrão há um tempo.[lr]::
+16470::$$$message_0128_0061_0001$$$::Eles chegam à frente de uma loja e depois viram para trás. Não é como se as lojas estivessem fechadas ou algo do tipo..."[lr]::
+16471::$$$message_0128_0061_0002$$$::"...Ah."::
+16472::$$$message_0128_0062_0000$$$::"Criança, isso é" [line len=3][lr]::
+16473::$$$message_0128_0062_0001$$$::"Quero me graduar do 'menino' em breve."[lr]::
+16474::$$$message_0128_0062_0002$$$::"Então, junior."[lr]::
+16475::$$$message_0128_0062_0003$$$::"Junior, huh..."[lr]::
+16476::$$$message_0128_0062_0004$$$::Na saída do restaurante italiano.[lr]::
+16477::$$$message_0128_0062_0005$$$::Na direção em que Caster está apontando, há três garotas vestidas com uniforme escolar.::
+16478::$$$message_0128_0063_0000$$$::"É Saegusa e os outros.[lr]::
+16479::$$$message_0128_0063_0001$$$::Parece que estão voltando da prática."[lr]::
+16480::$$$message_0128_0063_0002$$$::A expressão da Caster torna-se sombria.::
+16481::$$$message_0128_0064_0000$$$::"...Então ele está tentando evitar ser visto.[lr]::
+16482::$$$message_0128_0064_0001$$$::Ah, cara? Junior? Por que você está escondendo de repente?[lr]::
+16483::$$$message_0128_0064_0002$$$::Pensei que você tivesse escapado."[lr]::
+16484::$$$message_0128_0064_0003$$$::Ela me olha, agarrada na parte de trás da escada rolante, com um olhar gelado.::
+16485::$$$message_0128_0065_0000$$$::"N-Não, apesar de eu querer muito, também tenho minhas próprias circunstâncias. Seria complicado explicar as coisas se eles me vissem com você."[lr]::
+16486::$$$message_0128_0065_0001$$$::"..."[lr]::
+16487::$$$message_0128_0065_0002$$$::A Caster morde o lábio.::
+16488::$$$message_0128_0066_0000$$$::"Homens... são tão..."[lr]::
+16489::$$$message_0128_0066_0001$$$::Ó-Ó não.[lr]::
+16490::$$$message_0128_0066_0002$$$::Parece que o que eu disse a irritou.[lr]::
+16491::$$$message_0128_0066_0003$$$::D-Dammit. Quem é que errou isso.::
+16492::$$$message_0128_0067_0000$$$::"Vamos logo.[lr]::
+16493::$$$message_0128_0067_0001$$$::Eles não deveriam ter ido muito longe."[lr]::
+16494::$$$message_0128_0067_0002$$$::"Espere um pouco[cacheimage storage=キャスター私服01i(中)][wvl][se storage=se215.wav][shock vmax=20 time=600 count=-8][chgfg textoff=0 pos=c time=200 storage=キャスター私服01i(中)][line len=3]Uau."[lr]::
+16495::$$$message_0128_0067_0003$$$::Ela me pega pelo pescoço e me arrasta novamente.[lr]::
+16496::$$$message_0128_0067_0004$$$::Ela me expõe para o público ver.::
+16497::$$$message_0128_0068_0000$$$::De trás de mim, sinto como se o som de Makidera dizendo "Woo, o primeiro plano do jornal de amanhã será meu!" ou de Saegusa perguntando "Huh, o que, Maki?" ou de Himuro sussurrando "Hm" tivesse chegado até mim, mas não me preocupo com isso mais do que isso.[lr]::
+16498::$$$message_0128_0068_0001$$$::...De jeito nenhum. Attt... tudo... Por que...::
+16499::$$$message_0128_0069_0000$$$::"Onde no inferno eles foram!?"[rf][lr]::
+16500::$$$message_0128_0069_0001$$$::Depois de correr meio caminho pelo shopping, ela dá um palpite ao guarda de segurança no estacionamento.[lr]::
+16501::$$$message_0128_0069_0002$$$::Acho que ela realmente não se importa mais como parece.::
+16502::$$$message_0128_0070_0000$$$::"Não é eles?"[lr]::
+16503::$$$message_0128_0070_0001$$$::Os dois subem as escadas de madeira de uma loja de estilo cottage e desaparecem atrás da porta.::
+16504::$$$message_0128_0071_0000$$$::"...Isso é um café... Correto?"[lr]::
+16505::$$$message_0128_0071_0001$$$::"Parece que sim. Ahh, fico feliz.[lr]::
+16506::$$$message_0128_0071_0002$$$::Que bom que não era um hotel de amor ou algo do tipo."::
+16507::$$$message_0128_0072_0000$$$::"Vamos agora."[lr]::
+16508::$$$message_0128_0072_0001$$$::"Claro."[lr]::
+16509::$$$message_0128_0072_0002$$$::Meus cachos são importantes.[lr]::
+16510::$$$message_0128_0072_0003$$$::Na verdade, minha vida é mais importante.[lr]::
+16511::$$$message_0128_0072_0004$$$::Aquele estranho punhal pode cortar surpreendentemente bem.::
+16512::$$$message_0128_0073_0000$$$::Esperamos até o exato momento em que outro cliente sai da loja e nos esgueiramos para dentro pela porta.[lr]::
+16513::$$$message_0128_0073_0001$$$::A garçonete tenta nos cumprimentar dizendo "Bem-vindos", mas fica rígida sem conseguir sequer pronunciar a primeira letra.[lr]::
+16514::$$$message_0128_0073_0002$$$::Como se tivesse sido encarada pela Rider.[lr]::
+16515::$$$message_0128_0073_0003$$$::Se não tivesse colocado o dedo indicador aos lábios e encarado com olhos desesperados, poderíamos ter sido reportados à estação local como um par de ladrões.::
+16516::$$$message_0128_0074_0000$$$::[line len=3]Felizmente, isso não aconteceu.[lr]::
+16517::$$$message_0128_0074_0001$$$::"Somos clientes."[lr]::
+16518::$$$message_0128_0074_0002$$$::"Nós não temos nenhuma intenção de causar danos."[lr]::
+16519::$$$message_0128_0074_0003$$$::"Por favor, nos guie para assentos que não chamem atenção tanto."[lr]::
+16520::$$$message_0128_0074_0004$$$::"Não se preocupe muito com essa mulher."[lr]::
+16521::$$$message_0128_0074_0005$$$::Mostro essas coisas com meus gestos.[lr]::
+16522::$$$message_0128_0074_0006$$$::Devido ao meu esforço, parece que minha paixão e sinceridade alcançaram a garçonete, e ela nos guia para mesas tão distantes de outros clientes quanto possível.[lr]::
+16523::$$$message_0128_0074_0007$$$::...Obrigado a isso, ninguém sequer obedece aos nossos ordens.::
+16524::$$$message_0128_0075_0000$$$::Ao olhar ao redor do cafê impecavelmente arrumado, vejo Fuji-nee e o Sr. Kuzuki sentados de frente um para o outro pela janela, diagonais do corredor.[lr]::
+16525::$$$message_0128_0075_0001$$$::A coluna grossa que está no centro está no caminho, então eles não nos viram. Espero.::
+16526::$$$message_0128_0076_0000$$$::A música de fundo é como um café; calma e relaxante.[lr]::
+16527::$$$message_0128_0076_0001$$$::É uma posição agradável onde podemos ouvir mais ou menos a conversa deles se escutarmos atentamente.::
+16528::$$$message_0128_0077_0000$$$::"O que você gostaria de pedir?"[lr]::
+16529::$$$message_0128_0077_0001$$$::Enquanto ficamos baixo à nossa mesa, o garçom finalmente decide vir.[lr]::
+16530::$$$message_0128_0077_0002$$$::Eu procuro freneticamente pelo menu.::
+16531::$$$message_0128_0078_0000$$$::"Ale."[lr]::
+16532::$$$message_0128_0078_0001$$$::A Caster também deve estar inquieta, tentando escutar a conversa que ela tem com seus súditos, enquanto responde rudemente, olhando para outra direção.[lr]::
+16533::$$$message_0128_0078_0002$$$::"Você quer dizer ginger ale?"[lr]::
+16534::$$$message_0128_0078_0003$$$::"Não pense em colocar canela nisso. Nesse caso, vinho."::
+16535::$$$message_0128_0079_0000$$$::"Peço desculpas, senhora. Servimos apenas bebidas alcoólicas após as 17h."[lr]::
+16536::$$$message_0128_0079_0001$$$::"Essa loja realmente não tem nada. Só água, então."[lr]::
+16537::$$$message_0128_0079_0002$$$::"Especializamos em chá, então..."[lr]::
+16538::$$$message_0128_0079_0003$$$::...O garçom também tenta bastante.::
+16539::$$$message_0128_0080_0000$$$::Quero também sair dessa batalha com o menu que não tem nenhuma explicação.[lr]::
+16540::$$$message_0128_0080_0001$$$::Eu pelo menos sei o que são Assam e Keemun.[lr]::
+16541::$$$message_0128_0080_0002$$$::E aí, o que diabos são Nuwara Eliya ou Lapsang Souchong? Saudações locais? Novos Servos?[lr]::
+16542::$$$message_0128_0080_0003$$$::Como alguém com conhecimento mínimo de culinária, meu interesse é infinito.::
+16543::$$$message_0128_0081_0000$$$::"Hoje, temos um blend especial irlandês preparado"[line len=3][lr]::
+16544::$$$message_0128_0081_0001$$$::"Chá é só água colorida, né? Todos são iguais.[lr]::
+16545::$$$message_0128_0081_0002$$$::Calma aí, já! Se quiser um pedido, aquele garoto ali vai pedir duas ou três xícaras de você."[lr]::
+16546::$$$message_0128_0081_0003$$$::Hmm, como pode ser cruel. Isso é demais.[lr]::
+16547::$$$message_0128_0081_0004$$$::Desculpe pelo chá. Também me desculpe, se quiser.::
+16548::$$$message_0128_0082_0000$$$::"Com todo o respeito, senhora.[lr]::
+16549::$$$message_0128_0082_0001$$$::Você sabia que na Irlanda dizem que o chá é mais denso que o sangue?[lr]::
+16550::$$$message_0128_0082_0002$$$::Ei, você."[lr]::
+16551::$$$message_0128_0082_0003$$$::É. Diga isso pra ela.[lr]::
+16552::$$$message_0128_0082_0004$$$::Isso é a primeira vez que ouço esse dito... [shock vmax=20 time=400 count=-3]espera, "e aí, você"!?[lr]::
+16553::$$$message_0128_0082_0005$$$::Enquanto levanto o rosto do cardápio em pânico[line len=3]::
+16554::$$$message_0128_0083_0000$$$::"Você nem sequer pediu nada, e já está falando como se fosse um cliente que pagou? Huh?"[lr]::
+16555::$$$message_0128_0083_0001$$$::"Ah!"[lr]::
+16556::$$$message_0128_0083_0002$$$::"L-Lancer!"[lr]::
+16557::$$$message_0128_0083_0003$$$::O que está apertando a ponta do ouvido de Caster é definitivamente Lancer.::
+16558::$$$message_0128_0084_0000$$$::"Ei. Vocês são uns operadores bem suaves.[lr]::
+16559::$$$message_0128_0084_0001$$$::Você está deixando seu homem e se encontrando em segredo?"[lr]::
+16560::$$$message_0128_0084_0002$$$::"Não, isso não é."[lr]::
+16561::$$$message_0128_0084_0003$$$::"Que linguagem abusiva. U-Impossível."::
+16562::$$$message_0128_0085_0000$$$::"...Lancer. Você mudou de emprego de novo?"[lr]::
+16563::$$$message_0128_0085_0001$$$::Minha memória é muito vaga, mas achei que Lancer tivesse outro trabalho de tempo parcial.::
+16564::$$$message_0128_0086_0000$$$::"Desde que o gerente da loja anterior veio até mim pedindo em lágrimas.[lr]::
+16565::$$$message_0128_0086_0001$$$::Tem um monte de flores e brinquedos de pelúcia rodando pelo meu ninho no lugar de uma compensação de demissão."[lr]::
+16566::$$$message_0128_0086_0002$$$::"Entendi."[lr]::
+16567::$$$message_0128_0086_0003$$$::[font italic=true]Não é só deixar ele limpar?[font italic=false]::
+16568::$$$message_0128_0087_0000$$$::"Eu não ligo, mas afaste aquele dedo sujo de mim!"[lr]::
+16569::$$$message_0128_0087_0001$$$::"Ah, desculpe.[lr]::
+16570::$$$message_0128_0087_0002$$$::Queria ao menos tocar aquelas orelhas uma vez."[lr]::
+16571::$$$message_0128_0087_0003$$$::"Concordo, Lancer."[lr]::
+16572::$$$message_0128_0087_0004$$$::"Direito?"::
+16573::$$$message_0128_0088_0000$$$::Quando estendo o braço sem pensar, as orelhas de Caster se movem.[lr]::
+16574::$$$message_0128_0088_0001$$$::"Moveu-se!"::
+16575::$$$message_0128_0089_0000$$$::"Claro. [l] [say storage=cty0404_cas_0591 name=キャスター]Apenas Souichirou pode tocar meus ouvidos!"[lr]::
+16576::$$$message_0128_0089_0001$$$::"Ah, ele já os tocou antes?"[lr]::
+16577::$$$message_0128_0089_0002$$$::"Calma a boca, seu cão errante! Lobo! Imbecil![lr]::
+16578::$$$message_0128_0089_0003$$$::Se morder me com descuido, vou te rasgar e transformar em isca para tubarões!"::
+16579::$$$message_0128_0090_0000$$$::"Você seria mandado para uma câmara de gás hoje em dia."[lr]::
+16580::$$$message_0128_0090_0001$$$::"Isso está certo."[lr]::
+16581::$$$message_0128_0090_0002$$$::"Hahaha. Essa é a espírito, senhora Bruxa! Isso é mais como você.[lr]::
+16582::$$$message_0128_0090_0003$$$::[line len=3]Então você não veio de verdade beber água, foi?"::
+16583::$$$message_0128_0091_0000$$$::Volto a mim mesmo e estabeleço contato visual com a Caster.[lr]::
+16584::$$$message_0128_0091_0001$$$::Abro o único menu para usá-lo como escudo, e ambos nos escondemos atrás dele.::
+16585::$$$message_0128_0092_0000$$$::"Hmm? Há alguns clientes bastante barulhentos.[lr]::
+16586::$$$message_0128_0092_0001$$$::Mesmo que tenhamos escolhido um lugar que seria tranquilo."[lr]::
+16587::$$$message_0128_0092_0002$$$::"..."[lr]::
+16588::$$$message_0128_0092_0003$$$::"Pelo jeito, Sr. Kuzuki. Como é o sabor do Nail Gear?"[lr]::
+16589::$$$message_0128_0092_0004$$$::"É Nilgiri."::
+16590::$$$message_0128_0093_0000$$$::"Eles não nos viram... Acho que sim?"[lr]::
+16591::$$$message_0128_0093_0001$$$::"...Parece que sim..."[lr]::
+16592::$$$message_0128_0093_0002$$$::O rosto da Caster, que está suando frio, está muito perto.[lr]::
+16593::$$$message_0128_0093_0003$$$::Eu já a fiz chorar ou ficar braba, mas ela é incrivelmente linda. Ele deixaria uma esposa assim e realmente trairia...?::
+16594::$$$message_0128_0094_0000$$$::"...O que vocês estão fazendo?[lr]::
+16595::$$$message_0128_0094_0001$$$::Hmm? Há algum cliente que você não quer que veja?"[lr]::
+16596::$$$message_0128_0094_0002$$$::O Lancer está olhando para cá enquanto sorri.[lr]::
+16597::$$$message_0128_0094_0003$$$::"Sim. Na verdade"[line len=2][lr]::
+16598::$$$message_0128_0094_0004$$$::"...Isso não é da sua conta."::
+16599::$$$message_0128_0095_0000$$$::"Vai lá, garoto, pede algo. Caso contrário, vamos parecer suspeitos."[lr]::
+16600::$$$message_0128_0095_0001$$$::"Você vai me tratar de verdade dessa vez, né?"[lr]::
+16601::$$$message_0128_0095_0002$$$::"Claro que estamos dividindo a conta.[lr]::
+16602::$$$message_0128_0095_0003$$$::Eu não vim aqui para sair com você, garoto."[lr]::
+16603::$$$message_0128_0095_0004$$$::Para que estamos aqui, então?[lr]::
+16604::$$$message_0128_0095_0005$$$::Comete um crime?::
+16605::$$$message_0128_0096_0000$$$::"E sobre isso?[lr]::
+16606::$$$message_0128_0096_0001$$$::Uma mistura entre chá queniano e chá ruandês. Eu também bebi, e na verdade é bastante bom."[lr]::
+16607::$$$message_0128_0096_0002$$$::"Isso está bom, então. Faça dois."[lr]::
+16608::$$$message_0128_0096_0003$$$::A Caster o afasta com a mão.[lr]::
+16609::$$$message_0128_0096_0004$$$::Como é incrivelmente grosseiro.::
+16610::$$$message_0128_0097_0000$$$::"Entendi. Por favor, um momento."[lr]::
+16611::$$$message_0128_0097_0001$$$::Lancer faz uma reverência respeitosamente e dá um passo para trás.[lr]::
+16612::$$$message_0128_0097_0002$$$::Ele parece estar bem como garçom. É amigável, então não seria adequado para atendimento ao cliente?[lr]::
+16613::$$$message_0128_0097_0003$$$::E assim que eu esqueci que ele é um Servo, os números do cardápio me dão um tapa na cara.::
+16614::$$$message_0128_0098_0000$$$::Um, sete, oh, oh.[lr]::
+16615::$$$message_0128_0098_0001$$$::Huh? Espera. 1.700 ienes?[lr]::
+16616::$$$message_0128_0098_0002$$$::Beber algo que tenha uma vírgula no preço realmente existe?::
+16617::$$$message_0128_0099_0000$$$::Provavelmente vem em uma xícara de chá, mas isso significaria que até uma única xícara custaria mais de 500 ienes.[lr]::
+16618::$$$message_0128_0099_0001$$$::Além disso, os que estão no final do menu estão todos acima de 2.000 ienes.[lr]::
+16619::$$$message_0128_0099_0002$$$::Eles bebem várias xícaras desse chá todos os dias?[lr]::
+16620::$$$message_0128_0099_0003$$$::Que país é esse, Irlanda![lr]::
+16621::$$$message_0128_0099_0004$$$::É por isso que seu alimento principal é comidinha de junk como peixe e chips.::
+16622::$$$message_0128_0100_0000$$$::Agora, concentro minha audição nos dois em questão à mesa.[lr]::
+16623::$$$message_0128_0100_0001$$$::Como sempre, o Sr. Kuzuki fica em silêncio, então posso ouvir Fuji-nee fazer conversa de um só lado.[lr]::
+16624::$$$message_0128_0100_0002$$$::Mas ela não parece exatamente a si mesma.[lr]::
+16625::$$$message_0128_0100_0003$$$::A voz dela soa aguda e nervosa, como se não quisesse abordar o assunto principal.::
+16626::$$$message_0128_0101_0000$$$::A Caster lança um olhar enquanto se abaixa.[lr]::
+16627::$$$message_0128_0101_0001$$$::"Até agora, estavam evitando lugares onde seus alunos ou funcionários da escola estariam, não estavam?"[lr]::
+16628::$$$message_0128_0101_0002$$$::"...Acho que sim. Mais provavelmente.[lr]::
+16629::$$$message_0128_0101_0003$$$::Pode ser que tenham acabado em uma lavanderia achando que era um restaurante porque a Fuji-nee errou."::
+16630::$$$message_0128_0102_0000$$$::"Isso poderia ser um mal-entendido?"[lr]::
+16631::$$$message_0128_0102_0001$$$::"Provavelmente. Ela poderia ter sido pega pela frase "promoção de abertura"."[lr]::
+16632::$$$message_0128_0102_0002$$$::"Por um motivo como esse?"[lr]::
+16633::$$$message_0128_0102_0003$$$::"Se houvesse algum outro motivo mais profundo escondido atrás disso, isso significaria que eu não entendi em nada a humana chamada Fuji-nee até agora."::
+16634::$$$message_0128_0103_0000$$$::"...Então o motivo pelo qual ela saiu daquela loja de modelos gritando não era porque a argamassa epóxi estava esgotada" [line len=3][lr]::
+16635::$$$message_0128_0103_0001$$$::"Hmm? Eles pararam em um lugar assim?"[lr]::
+16636::$$$message_0128_0103_0002$$$::"Eles fizeram."[lr]::
+16637::$$$message_0128_0103_0003$$$::Cola epóxi?::
+16638::$$$message_0128_0104_0000$$$::"Por que Souichirou está com uma mulher assim...?"[lr]::
+16639::$$$message_0128_0104_0001$$$::A Caster morde seus dedos.[lr]::
+16640::$$$message_0128_0104_0002$$$::"Como eu disse, não é nada tão louco quanto você está pensando..."[lr]::
+16641::$$$message_0128_0104_0003$$$::"Não estava esgotado..."[lr]::
+16642::$$$message_0128_0104_0004$$$::"..."::
+16643::$$$message_0128_0105_0000$$$::Mesmo estando em uma loja cara, me sinto tão desconfortável.[lr]::
+16644::$$$message_0128_0105_0001$$$::Isso também é porque a Fuji-nee não tomou nenhuma ação para esclarecer o mal-entendido cedo.[lr]::
+16645::$$$message_0128_0105_0002$$$::Acelera e fala sobre algo relacionado ao trabalho.[lr]::
+16646::$$$message_0128_0105_0003$$$::Estou suplicando. Vamos![lr]::
+16647::$$$message_0128_0105_0004$$$::...E enquanto estou suplicando, há um chin ao lado do meu cotovelo na mesa.::
+16648::$$$message_0128_0106_0000$$$::"Vai ficar frio."[lr]::
+16649::$$$message_0128_0106_0001$$$::"Oof[line len=3]L-Lancer..."[lr]::
+16650::$$$message_0128_0106_0002$$$::"Quando você... Eu nem percebi sua presença."[lr]::
+16651::$$$message_0128_0106_0003$$$::Dois conjuntos de chá são colocados sobre a mesa sem fazer barulho, e vapor sobe dos copos.::
+16652::$$$message_0128_0107_0000$$$::"Quem vocês acham que eu sou?[lr]::
+16653::$$$message_0128_0107_0001$$$::Sou a Criança da Luz de Ulster. Senhor Garçom da lança do Rei.[lr]::
+16654::$$$message_0128_0107_0002$$$::Bebe antes que fique amargo."[lr]::
+16655::$$$message_0128_0107_0003$$$::"Você disse que você o fez?"[lr]::
+16656::$$$message_0128_0107_0004$$$::"Digo ao senhor garçom.[lr]::
+16657::$$$message_0128_0107_0005$$$::O que o fez foi o velho fantasmagórico na cozinha."::
+16658::$$$message_0128_0108_0000$$$::Lancer aperta os olhos, ainda agachado à mesa para não chamar atenção.[lr]::
+16659::$$$message_0128_0108_0001$$$::"Então seus alvos são esses clientes, hein?[lr]::
+16660::$$$message_0128_0108_0002$$$::Não é o Kuzuki?"[lr]::
+16661::$$$message_0128_0108_0003$$$::"..."::
+16662::$$$message_0128_0109_0000$$$::O ambiente muda.[lr]::
+16663::$$$message_0128_0109_0001$$$::Mesmo eu posso sentir o modo como ela intimida o cavaleiro com sua presença, enquanto continua olhando para baixo para sua xícara.::
+16664::$$$message_0128_0110_0000$$$::"Hey, hey. Cale a boca."[lr]::
+16665::$$$message_0128_0110_0001$$$::Lancer joga de bobo e serve o chá da panela sem perguntar.::
+16666::$$$message_0128_0111_0000$$$::"Não caí baixo o suficiente para apontar uma lança para um cliente.[lr]::
+16667::$$$message_0128_0111_0001$$$::Eu não quero ser demitido."[lr]::
+16668::$$$message_0128_0111_0002$$$::"Você é sincero."[lr]::
+16669::$$$message_0128_0111_0003$$$::"Sim. Sou um soldado dedicado."[lr]::
+16670::$$$message_0128_0111_0004$$$::"Balançar sua cauda em direção ao seu empregador é a única habilidade que você possui."[lr]::
+16671::$$$message_0128_0111_0005$$$::"É, é. [cacheimage storage=ランサーギャルソン03f(中)][wvl canskip=0 time=500][chgfg textoff=0 time=300 storage=ランサーギャルソン03f(中)]Pare um momento, você não deve misturar nada nisso."::
+16672::$$$message_0128_0112_0000$$$::A Caster levanta a xícara até os lábios com uma expressão rígida.[lr]::
+16673::$$$message_0128_0112_0001$$$::Então, seu rosto se transforma em surpresa e maravilhamento. Seus ouvidos se movem novamente.[lr]::
+16674::$$$message_0128_0112_0002$$$::"...Isso é bom."[lr]::
+16675::$$$message_0128_0112_0003$$$::"Ah, sim. Isso é... Não é de se estranhar que seja tão caro."[lr]::
+16676::$$$message_0128_0112_0004$$$::"Direito? Entendi?"[lr]::
+16677::$$$message_0128_0112_0005$$$::Ele sorri.::
+16678::$$$message_0128_0113_0000$$$::O chá girando dentro da xícara é uma cor escura e dourada, mas é completamente transparente, e o sabor não é nada amargo.[lr]::
+16679::$$$message_0128_0113_0001$$$::Eu também sinto que é um pouco doce. Não vou precisar de leite nisso. Tem o sabor da própria essência do chá.[lr]::
+16680::$$$message_0128_0113_0002$$$::Caster, cuja malícia se dissipa, solta um suspiro e libera a tensão dos ombros.[lr]::
+16681::$$$message_0128_0113_0003$$$::A música de fundo volta.::
+16682::$$$message_0128_0114_0000$$$::"Pois bem.[lr]::
+16683::$$$message_0128_0114_0001$$$::É a primeira vez que me encontro com seu Mestre, mas conheço a mulher ao lado dele."[lr]::
+16684::$$$message_0128_0114_0002$$$::"O que?"[lr]::
+16685::$$$message_0128_0114_0003$$$::"Ela é uma das minhas companheiras de pesca.[lr]::
+16686::$$$message_0128_0114_0004$$$::Essa mulher basicamente só faz o de comer."::
+16687::$$$message_0128_0115_0000$$$::Ah, entendi... Enfio minha cara nas mãos por vergonha.[lr]::
+16688::$$$message_0128_0115_0001$$$::"Só parece com ela, aquela tigresa roubadora."[lr]::
+16689::$$$message_0128_0115_0002$$$::Lamento. Sou uma cúmplice.::
+16690::$$$message_0128_0116_0000$$$::"Ei. Já pode me dizer, moleque?[lr]::
+16691::$$$message_0128_0116_0001$$$::O que está acontecendo?"::
+16692::$$$message_0128_0117_0000$$$::Eu brevemente explico a partir do momento em que fui capturado por Caster e o relato completo de como seguimos Fuji-nee e Sr. Kuzuki.[lr]::
+16693::$$$message_0128_0117_0001$$$::"Entendi. A preocupação da Caster é válida."[lr]::
+16694::$$$message_0128_0117_0002$$$::"Obrigado por concordar. Mas, soa muito convincente quando você diz isso."::
+16695::$$$message_0128_0118_0000$$$::"Tudo bem. Vou dar uma olhada por aí então."[lr]::
+16696::$$$message_0128_0118_0001$$$::"Ei... Lancer...!"[lr]::
+16697::$$$message_0128_0118_0002$$$::"Essa é de graça."[lr]::
+16698::$$$message_0128_0118_0003$$$::Ele está investigando.::
+16699::$$$message_0128_0119_0000$$$::"Você quer mais chá?"[lr]::
+16700::$$$message_0128_0119_0001$$$::"Dê-me... [cacheimage storage=藤01c(中)][wvl][chgfg textoff=0 time=300 storage=藤01c(中)]Quero, sim. Foi muito bom.[lr]::
+16701::$$$message_0128_0119_0002$$$::Mas, inclui refis?"[lr]::
+16702::$$$message_0128_0119_0003$$$::"Apenas nesse momento, nesse dia da semana, incluímos-os para clientes que usam listras."::
+16703::$$$message_0128_0120_0000$$$::"Ah, um brinde para listras?"[lr]::
+16704::$$$message_0128_0120_0001$$$::"Sim."[lr]::
+16705::$$$message_0128_0120_0002$$$::"Isso é lamentável. Por favor, use listras na próxima vez, Sr. Kuzuki!"[lr]::
+16706::$$$message_0128_0120_0003$$$::"Entendi."::
+16707::$$$message_0128_0121_0000$$$::"Souichirou, suas calças de baixo estão listradas!"[lr]::
+16708::$$$message_0128_0121_0001$$$::"Você não precisa dizer isso a ele."::
+16709::$$$message_0128_0122_0000$$$::"Desculpe, mas já nos encontramos antes, senhora...?"[lr]::
+16710::$$$message_0128_0122_0001$$$::"O que, senhora!?"::
+16711::$$$message_0128_0123_0000$$$::"Claro que não. Aha, nem pensar."[lr]::
+16712::$$$message_0128_0123_0001$$$::"Oh. Pensei que já havia chegado a uma conclusão?[lr]::
+16713::$$$message_0128_0123_0002$$$::Vocês dois pareciam bons juntos, como um par de xícaras, então eu só assumi."[lr]::
+16714::$$$message_0128_0123_0003$$$::"D-Desculpe, ouvi isso? Meu, o que vamos fazer?"[lr]::
+16715::$$$message_0128_0123_0004$$$::"Ah."::
+16716::$$$message_0128_0124_0000$$$::"Th[rf][wvl][se storage=se138.wav]A[large]a[wvl][se storage=se151.wav][small]a[rf][se storage=se421.wav][se storage=se420.wav]T[rf]t[large][wvl][se storage=se420.wav]T[rf]t wO[large][wvl][se storage=se411.wav]mA[rf][wvl][se storage=se050.wav][se storage=se723.wav]n[large][wvl][se storage=se420.wav][se storage=se421.wav]N!"[rf][wvl][se storage=se151.wav][lr]::
+16717::$$$message_0128_0124_0001$$$::"Você está espetando a mesa![lr]::
+16718::$$$message_0128_0124_0002$$$::Coloque seu estranho punhal para fora!"[lr]::
+16719::$$$message_0128_0124_0003$$$::É estado de emergência, Fuji-nee![lr]::
+16720::$$$message_0128_0124_0004$$$::Responda com firmeza o mais rápido possível![lr]::
+16721::$$$message_0128_0124_0005$$$::A mesa está se transformando em lixo gigante!::
+16722::$$$message_0128_0125_0000$$$::"Ah, poderia você ser o Sr. Camisa Aloha?"[lr]::
+16723::$$$message_0128_0125_0001$$$::"Parece que você finalmente entendeu."[lr]::
+16724::$$$message_0128_0125_0002$$$::"Eu não conseguia acreditar. Não te reconheci."[lr]::
+16725::$$$message_0128_0125_0003$$$::"Vocês se conhecem?"[lr]::
+16726::$$$message_0128_0125_0004$$$::"Sim. Vou te apresentar."::
+16727::$$$message_0128_0126_0000$$$::"Ele está no porto com frequência e compartilha os peixes que pega comigo.[lr]::
+16728::$$$message_0128_0126_0001$$$::Ele é um pescador muito famoso, apesar da camiseta aloha."[lr]::
+16729::$$$message_0128_0126_0002$$$::"Oh."[lr]::
+16730::$$$message_0128_0126_0003$$$::"Hahahaha, você me elogia demais."::
+16731::$$$message_0128_0127_0000$$$::"Você não tem nenhum peixe hoje, tem? [cacheimage storage=藤08a(中)][wvl][chgfg textoff=0 time=300 storage=藤08a(中)]Ah, porque você não está usando sua camiseta aloha?"[lr]::
+16732::$$$message_0128_0127_0001$$$::"Estou trabalhando. [cacheimage storage=ランサーギャルソン01g(中)][wvl][chgfg textoff=0 time=300 storage=ランサーギャルソン01g(中)]Por sinal, a camisa aloha não é uma ferramenta de pesca."::
+16733::$$$message_0128_0128_0000$$$::E assim, Fuji-nee e Lancer começam a discutir apaixonadamente sobre os diferentes tipos de porgy negro que podem pescar no porto ou como limar o peixe ou esgotar o sangue dele. Os clientes ao redor começam a ficar cada vez mais pálidos.::
+16734::$$$message_0128_0129_0000$$$::No fim, a jovem garçonete da vez puxa a manga de Lancer e o leva para trás do estabelecimento.[lr]::
+16735::$$$message_0128_0129_0001$$$::E alguns minutos de espera.[lr]::
+16736::$$$message_0128_0129_0002$$$::Lancer volta à nossa mesa com um sorriso animado.::
+16737::$$$message_0128_0130_0000$$$::"Tudo bem, acho que compreendi o geral."[lr]::
+16738::$$$message_0128_0130_0001$$$::"...De verdade?"[lr]::
+16739::$$$message_0128_0130_0002$$$::"Parecia que você estava sendo gritado atrás."[lr]::
+16740::$$$message_0128_0130_0003$$$::"Um pouco."::
+16741::$$$message_0128_0131_0000$$$::"Bem, assim mesmo..."[lr]::
+16742::$$$message_0128_0131_0001$$$::Ele se abaixa novamente e aproxima seu rosto do de Caster.[lr]::
+16743::$$$message_0128_0131_0002$$$::"Olhei para ela em silêncio, e ela me deixou ir logo em seguida."::
+16744::$$$message_0128_0132_0000$$$::"Isso evidentemente não seria suficiente."[lr]::
+16745::$$$message_0128_0132_0001$$$::Ela toca o nariz do Lancer com o menu.[lr]::
+16746::$$$message_0128_0132_0002$$$::"Heh, você viu através de mim, né?"[lr]::
+16747::$$$message_0128_0132_0003$$$::"Sim. Posso, especialmente com pessoas como você."[lr]::
+16748::$$$message_0128_0132_0004$$$::"Oh. Na verdade, também tenho um bom nariz para perceber as intenções de certos tipos de pessoas."::
+16749::$$$message_0128_0133_0000$$$::"Mas para ser honesto, eu não consigo dizer nada sobre aquela mulher estranha!"[lr]::
+16750::$$$message_0128_0133_0001$$$::Ele declara firmemente.::
+16751::$$$message_0128_0134_0000$$$::"Mas, eu poderia ler Kuzuki de dentro para fora."[lr]::
+16752::$$$message_0128_0134_0001$$$::"Você não estava falando com ele em absoluto."[lr]::
+16753::$$$message_0128_0134_0002$$$::"Mesmo assim."[lr]::
+16754::$$$message_0128_0134_0003$$$::"...O que você conseguiu reunir?"::
+16755::$$$message_0128_0135_0000$$$::"Hmm, vamos ver.[lr]::
+16756::$$$message_0128_0135_0001$$$::Ele é do tipo que gosta de ser usado pelas mulheres."::
+16757::$$$message_0128_0136_0000$$$::"Como cuidar delas ou fingir ser generoso ao ouvir seus pedidos egoístas.[lr]::
+16758::$$$message_0128_0136_0001$$$::Ser infeliz é confortável para ele. Um tipo de masoquista."[lr]::
+16759::$$$message_0128_0136_0002$$$::"[line len=3]Wha..."::
+16760::$$$message_0128_0137_0000$$$::"Mesmo que ele seja um homem e você uma mulher, a relação original é de Mestre e Servo. Isso é estranho. [cacheimage storage=ランサーギャルソン01f(中)][wvl][chgfg textoff=0 time=300 storage=ランサーギャルソン01f(中)]Direito?"[lr]::
+16761::$$$message_0128_0137_0001$$$::"Por que você está me olhando?"[lr]::
+16762::$$$message_0128_0137_0002$$$::"Hahaha..."::
+16763::$$$message_0128_0138_0000$$$::A Caster morde o lábio e olha para o lado.[lr]::
+16764::$$$message_0128_0138_0001$$$::"Diga o que quiser..."[lr]::
+16765::$$$message_0128_0138_0002$$$::"Oh? Você está bravo?"[lr]::
+16766::$$$message_0128_0138_0003$$$::"Estou só envergonhado por ter realmente ouvido seu disparate."::
+16767::$$$message_0128_0139_0000$$$::"Quão cruel.[lr]::
+16768::$$$message_0128_0139_0001$$$::Ouvi um boato de que vocês dois estão fingindo ser um casal casado no Templo Ryuudou."[lr]::
+16769::$$$message_0128_0139_0002$$$::"Pretend..."::
+16770::$$$message_0128_0140_0000$$$::Ela se vira para ele, óbvio que está brava por um instante.[lr]::
+16771::$$$message_0128_0140_0001$$$::Mas ela titubeia e olha para outro lado novamente.[lr]::
+16772::$$$message_0128_0140_0002$$$::Acho que ela estava tentando objetar que eles não estão fingindo.[lr]::
+16773::$$$message_0128_0140_0003$$$::Mas ela não podia.[lr]::
+16774::$$$message_0128_0140_0004$$$::Como se visse através disso, Lancer persegue-o.::
+16775::$$$message_0128_0141_0000$$$::"Desista.[lr]::
+16776::$$$message_0128_0141_0001$$$::Não importa quão longe você vá, não é como se pudesse ver claramente certos laços. Melhor seguir o fluxo."[lr]::
+16777::$$$message_0128_0141_0002$$$::"..."::
+16778::$$$message_0128_0142_0000$$$::"Lancer. Você está tentando perturbar a paz da casa Kuzuki?"[lr]::
+16779::$$$message_0128_0142_0001$$$::"O que? Hey, agora. Não faça essa cara também, moleque."[lr]::
+16780::$$$message_0128_0142_0002$$$::Lancer passa a mão no cabelo e bagunça o estilo.::
+16781::$$$message_0128_0143_0000$$$::"Meu mal. Foi muito brusco o jeito como eu disse?[lr]::
+16782::$$$message_0128_0143_0001$$$::Estou só tentando dizer que você deveria ser mais despreocupado. Não há necessidade de agir como se fosse um casal importante. Vai só se cansar."::
+16783::$$$message_0128_0144_0000$$$::"Você não deveria desperdiçar sua chance de diversão assim. [lr]::
+16784::$$$message_0128_0144_0001$$$::Se fizer o mesmo erro, você vai conseguir se recuperar?"[lr]::
+16785::$$$message_0128_0144_0002$$$::"Lancer!"[lr]::
+16786::$$$message_0128_0144_0003$$$::"Bem, só escute. Até eu já era um homem casado. Um pai de uma criança.[lr]::
+16787::$$$message_0128_0144_0004$$$::As pessoas têm formas diferentes de pensar. Há momentos em que você pode aprender com elas se escutar."::
+16788::$$$message_0128_0145_0000$$$::"Vamos dizer, hipoteticamente, que ele te traiu.[lr]::
+16789::$$$message_0128_0145_0001$$$::Todo mundo erra. Às vezes você fica com vontade, e às vezes você fica tão furioso que só quer soltar um pouco de vapor."::
+16790::$$$message_0128_0146_0000$$$::"Se isso acontecer[line len=3]você provavelmente não perdoaria ele com a forma como é agora.[lr]::
+16791::$$$message_0128_0146_0001$$$::Quem sabe o que você faria?[lr]::
+16792::$$$message_0128_0146_0002$$$::Você tem certeza de que está ok em deixar tudo passar por apenas um erro? Relacionamentos desse tipo são muito frágeis."::
+16793::$$$message_0128_0147_0000$$$::"...Você está tentando dizer que um casal forte consegue se comprometer com qualquer coisa?"[lr]::
+16794::$$$message_0128_0147_0001$$$::"Exatamente. Uma ramificação de rowan é flexível e tenaz. Não quebra mesmo em tempestade ou neve.[lr]::
+16795::$$$message_0128_0147_0002$$$::Diga que você faz um pequeno dique ao redor do seu próprio lago. Mesmo que algum água escape, o lago não secará e o céu também não cairá."::
+16796::$$$message_0128_0148_0000$$$::...O Lancer deve estar tentando animar ela da sua própria forma.[lr]::
+16797::$$$message_0128_0148_0001$$$::Mas o problema de todos nós três abaixarmos e nos agarrarmos à mesa é que isso não cria exatamente uma atmosfera séria.::
+16798::$$$message_0128_0149_0000$$$::"Meu parceiro deve ter algum tipo de saída. É por isso que está tudo bem mesmo que eu trai. [line len=3]Isso parece ser sua desculpa."::
+16799::$$$message_0128_0150_0000$$$::"Mas você também deve ter algum juramento sagrado que não pode abandonar. Embora pareça estar pensando que só existe entre homens."[lr]::
+16800::$$$message_0128_0150_0001$$$::"Uma promessa sagrada, hein... [cacheimage storage=ランサーギャルソン01d(中)][wvl canskip=0 time=400][chgfg time=300 storage=ランサーギャルソン01d(中)]Claro que tive algumas que não consegui quebrar. Mas o problema com elas é que você não pode pensar muito nelas.[lr]::
+16801::$$$message_0128_0150_0002$$$::Você só tenta mantê-los. Se eles estavam certos ou errados é algo que você pode refletir quando estiver deitado na cama, prestes a morrer."::
+16802::$$$message_0128_0151_0000$$$::"..."[lr]::
+16803::$$$message_0128_0151_0001$$$::Coisas que te prendem que não pode entregar a ninguém.[lr]::
+16804::$$$message_0128_0151_0002$$$::Lancer diz que essas não são coisas que você deve analisar, mas aceitar e seguir em silêncio.[lr]::
+16805::$$$message_0128_0151_0003$$$::...Essa é a maior diferença entre esse cavaleiro e aquele arqueiro.[lr]::
+16806::$$$message_0128_0151_0004$$$::Eles são ambos homens gentis, mas o outro avisa você sempre que você comete um erro e tenta te ajudar a melhorar.[lr]::
+16807::$$$message_0128_0151_0005$$$::Este aprova até seus erros e ajuda sem dizer uma palavra.::
+16808::$$$message_0128_0152_0000$$$::"...Heh. Não importa quantas vezes tenha vivido antes, esta é a única vida que tenho.[lr]::
+16809::$$$message_0128_0152_0001$$$::Você nunca deve ser capaz de sentir que está realmente vivendo sem ter um Mestre estabelecido e viver afastado do mundo."[lr]::
+16810::$$$message_0128_0152_0002$$$::"Talvez. A vida é um ciclo.[lr]::
+16811::$$$message_0128_0152_0003$$$::Isso por acaso[line len=3]parece que estão entrando no assunto principal."::
+16812::$$$message_0128_0153_0000$$$::Assim como ele diz, quando eu olho para cima, Fuji-nee está de forma constrangida apoiando os cotovelos na mesa e segurando as mãos juntas.[lr]::
+16813::$$$message_0128_0153_0001$$$::Como se esperava de um gênio de sentinela e espião. Ele mantém os olhos sempre atentos, não importa a situação.::
+16814::$$$message_0128_0154_0000$$$::"Então, um, sobre por que trouxe você aqui.[lr]::
+16815::$$$message_0128_0154_0001$$$::Não é um dia excelente hoje?[lr]::
+16816::$$$message_0128_0154_0002$$$::Tem algo que gostaria de consultar comigo."[lr]::
+16817::$$$message_0128_0154_0003$$$::"..."[lr]::
+16818::$$$message_0128_0154_0004$$$::"Um, o que você acha de mim como mulher?"::
+16819::$$$message_0128_0155_0000$$$::"...!"[lr]::
+16820::$$$message_0128_0155_0001$$$::"...!"[lr]::
+16821::$$$message_0128_0155_0002$$$::[font italic=true]F-FUJI-NEEE...![font italic=false]::
+16822::$$$message_0128_0156_0000$$$::"...!!!"[lr]::
+16823::$$$message_0128_0156_0001$$$::A Caster pega o ouvido do Lancer, fazendo um som opaco.[lr]::
+16824::$$$message_0128_0156_0002$$$::"...! ...!!!"[rf][lr]::
+16825::$$$message_0128_0156_0003$$$::Lancer está gritando em silêncio. Seus brincos estão prestes a se soltar. Fico feliz por não estar sentado ao lado dela.::
+16826::$$$message_0128_0157_0000$$$::"Oops, fui eu que disse isso.[lr]::
+16827::$$$message_0128_0157_0001$$$::M-Desculpe.[lr]::
+16828::$$$message_0128_0157_0002$$$::Havia uma maneira melhor para eu perguntar."[lr]::
+16829::$$$message_0128_0157_0003$$$::"..."::
+16830::$$$message_0128_0158_0000$$$::"Peço desculpas.[lr]::
+16831::$$$message_0128_0158_0001$$$::Isso é muito repentino. Mas, eu queria ouvir seus sentimentos sinceros."[lr]::
+16832::$$$message_0128_0158_0002$$$::"...Meus sentimentos?"[lr]::
+16833::$$$message_0128_0158_0003$$$::"Sim, tem que ser você."::
+16834::$$$message_0128_0159_0000$$$::"...! ...! ...!"[lr]::
+16835::$$$message_0128_0159_0001$$$::"L-Lá vem! Solta ele! Eu disse para soltar ele![lr]::
+16836::$$$message_0128_0159_0002$$$::Ei, Casko!"[lr]::
+16837::$$$message_0128_0159_0003$$$::Oh no, vai rasgar.[lr]::
+16838::$$$message_0128_0159_0004$$$::Os olhos da Caster estão abertos, mas ela não percebe meus esforços sussurrados para contê-la ou o sofrimento de Lancer em agonia.[lr]::
+16839::$$$message_0128_0159_0005$$$::Seus braços estão apenas tremendo.::
+16840::$$$message_0128_0160_0000$$$::"...[lr]::
+16841::$$$message_0128_0160_0001$$$::Não consigo seguir direito. Pode me explicar do início, por favor?"[lr]::
+16842::$$$message_0128_0160_0002$$$::"O-Oh, sim. Claro.[lr]::
+16843::$$$message_0128_0160_0003$$$::Caramba, eu continuo fazendo isso..."::
+16844::$$$message_0128_0161_0000$$$::Fuji-nee bate levemente nos seus lábios e toma um gole do seu chá.[lr]::
+16845::$$$message_0128_0161_0001$$$::É. Estou pedindo, então por favor, calma, Fuji-nee.[lr]::
+16846::$$$message_0128_0161_0002$$$::Os ouvidos do Lancer estão na linha.::
+16847::$$$message_0128_0162_0000$$$::"Então, um estudante me pediu conselhos outro dia.[lr]::
+16848::$$$message_0128_0162_0001$$$::De uma garota sobre o que você chamaria de problemas de amor."::
+16849::$$$message_0128_0163_0000$$$::"Já fui perguntado sobre coisas assim antes também.[lr]::
+16850::$$$message_0128_0163_0001$$$::Assim não foi a primeira vez em particular. [cacheimage storage=葛木02a眼鏡(中)][wvl][chgfg textoff=0 time=300 storage=葛木02a眼鏡(中)]Apesar de não ser como eu os obtenho todos os tempos.[lr]::
+16851::$$$message_0128_0163_0002$$$::Claro que sim, me senti honrado como mestre por ser consultado sobre algo assim.[lr]::
+16852::$$$message_0128_0163_0003$$$::Tentei meu melhor para ouvir como uma parente e pensar com ela."::
+16853::$$$message_0128_0164_0000$$$::A direção da conversa que ouço desvia um pouco do pior cenário que esperava desde o início e fico um pouco aliviado.[lr]::
+16854::$$$message_0128_0164_0001$$$::Lancer também é libertado de ter o ouvido arrancado e se abaixa no chão, segurando o lado da cabeça.[lr]::
+16855::$$$message_0128_0164_0002$$$::Que soldado de lança tão miserável. Seja grato por ainda ter seus ouvidos.::
+16856::$$$message_0128_0165_0000$$$::"Assim foi, mas...[lr]::
+16857::$$$message_0128_0165_0001$$$::Pode ter se um pouco conceituado por ter sido agradado sobre isso antes."[lr]::
+16858::$$$message_0128_0165_0002$$$::"E então, não foi bem-sucedido?"[lr]::
+16859::$$$message_0128_0165_0003$$$::"Não."::
+16860::$$$message_0128_0166_0000$$$::"Não é como se ela me odiasse, mas mesmo que eu fale com ela, ela não confia em mim mais.[lr]::
+16861::$$$message_0128_0166_0001$$$::É como se tivesse perdido sua confiança."[lr]::
+16862::$$$message_0128_0166_0002$$$::"Eu não direi nada a ninguém sobre isso."[lr]::
+16863::$$$message_0128_0166_0003$$$::"Agradeço."[lr]::
+16864::$$$message_0128_0166_0004$$$::A Fuji-nee está um pouco chorando.[lr]::
+16865::$$$message_0128_0166_0005$$$::...Algo assim aconteceu? Eu nunca percebi.::
+16866::$$$message_0128_0167_0000$$$::"E o que ela disse para mim tem me incomodado. Estava me perguntando se havia alguém com quem eu pudesse confidenciar nessa vez...[lr]::
+16867::$$$message_0128_0167_0001$$$::Bem, é patético de mim, embora."[lr]::
+16868::$$$message_0128_0167_0002$$$::"O que ela disse?"::
+16869::$$$message_0128_0168_0000$$$::"Ela me disse isso.[lr]::
+16870::$$$message_0128_0168_0001$$$::Você não tem namorado e não está divorciada. Não tem sentido em conversar com você," ela disse."[lr]::
+16871::$$$message_0128_0168_0002$$$::"...Como em, é inútil confiar em você porque você não tem experiência de vida suficiente?"[lr]::
+16872::$$$message_0128_0168_0003$$$::"Sim."::
+16873::$$$message_0128_0169_0000$$$::"Entendi. Entendi.[lr]::
+16874::$$$message_0128_0169_0001$$$::Assim, Kuzuki foi escolhido para brincar com fogo.[lr]::
+16875::$$$message_0128_0169_0002$$$::Aproveitando a vida de um trambiqueiro ao máximo, hein? [cacheimage storage=キャスター私服01f(近),ランサーギャルソン01a(近)][wvl canskip=0 time=400][chgfg time=300 storage=キャスター私服01f(近),ランサーギャルソン01a(近)]Parabéns, mulher."[lr]::
+16876::$$$message_0128_0169_0003$$$::Uma lâmina está apontada bem abaixo do nariz de Lancer, enquanto ele faz uma cara de satisfação.::
+16877::$$$message_0128_0170_0000$$$::"Os dois narizes que você tem se tornarão um."[lr]::
+16878::$$$message_0128_0170_0001$$$::"Hee, heeheheheihah."::
+16879::$$$message_0128_0171_0000$$$::"Eu sabia que era inexperiente, mas...[lr]::
+16880::$$$message_0128_0171_0001$$$::Também há outra coisa. Essa acertou no ponto."::
+16881::$$$message_0128_0172_0000$$$::"Você não saberia, já que gosta de qualquer um e é gostado por qualquer um." "Ninguém lhe disse que não pensa nada de você, certo? Você certamente não consegue imaginar alguém evitando você." ...Ela disse."::
+16882::$$$message_0128_0173_0000$$$::"Estou confiante de que posso gostar das pessoas, independentemente do gênero. [cacheimage storage=藤01f(中)][wvl canskip=0 time=200][chgfg textoff=0 time=300 storage=藤01f(中)]Mas o que ela queria dizer era óbvio que não era isso..."::
+16883::$$$message_0128_0174_0000$$$::"É ou ele a gosta, ou ele a odeia. Ou ela está fora de questão.[lr]::
+16884::$$$message_0128_0174_0001$$$::Não há meio-termo. Ela devia ter querido uma decisão clara."::
+16885::$$$message_0128_0175_0000$$$::"Bem, para ser honesto, sim.[lr]::
+16886::$$$message_0128_0175_0001$$$::Não há tais conversas ao meu redor.[lr]::
+16887::$$$message_0128_0175_0002$$$::Eu sou a pessoa mais longe dessas coisas em toda a cidade de Fuyuki, não, talvez em toda a região oeste do Japão."[lr]::
+16888::$$$message_0128_0175_0003$$$::[font italic=true]N-Não, isso... não...[font italic=false]::
+16889::$$$message_0128_0176_0000$$$::"Eu não posso garantir que serei útil."[lr]::
+16890::$$$message_0128_0176_0001$$$::"Isso é tudo.[lr]::
+16891::$$$message_0128_0176_0002$$$::Há outros professores que têm muita experiência em romance, mas com todo o respeito, isso está no passado para eles. Quando penso se eles conseguem se relacionar quando peço conselhos a eles, [cacheimage storage=藤08e(中)][wvl][chgfg textoff=0 time=300 storage=藤08e(中)]estou um pouco... hum, preocupado."::
+16892::$$$message_0128_0177_0000$$$::Ela devia não querer que eles pensassem que é uma preocupação que o tempo resolve.[lr]::
+16893::$$$message_0128_0177_0001$$$::Talvez o estudante que pediu ajuda à Fuji-nee tenha sentido a mesma coisa.[lr]::
+16894::$$$message_0128_0177_0002$$$::Eu acho que eles podem ter mais confiança em si mesmos...::
+16895::$$$message_0128_0178_0000$$$::"Você acabou de se casar.[lr]::
+16896::$$$message_0128_0178_0001$$$::Em outras palavras, eu deveria significar nada para você."[lr]::
+16897::$$$message_0128_0178_0002$$$::A Caster acena fortemente.[lr]::
+16898::$$$message_0128_0178_0003$$$::Lancer também acena com ela.[lr]::
+16899::$$$message_0128_0178_0004$$$::Obrigado a isso, ele ainda tem dois narizes.::
+16900::$$$message_0128_0179_0000$$$::"Por isso, hoje...[lr]::
+16901::$$$message_0128_0179_0001$$$::Eu estava esperando que você pudesse falar sobre como você não tem interesse em mim como mulher e não como professora."[lr]::
+16902::$$$message_0128_0179_0002$$$::"..."::
+16903::$$$message_0128_0180_0000$$$::"Eu bem sei que estou pedindo demais.[lr]::
+16904::$$$message_0128_0180_0001$$$::Mas você foi a única que eu achei que tomaria isso a sério.[lr]::
+16905::$$$message_0128_0180_0002$$$::Ah, entendi, eu estava pensando que há vários motivos pelos quais alguém poderia não dar a mínima sobre uma pessoa!"::
+16906::$$$message_0128_0181_0000$$$::"Como se fosse dura, seu senso de moda não é feminino e é pouco sofisticado, come demais, dorme logo depois de comer, é uma tigresa, ou algo do tipo."::
+16907::$$$message_0128_0182_0000$$$::"Ah, me desculpe.[lr]::
+16908::$$$message_0128_0182_0001$$$::Estou só falando sem parar sozinho, não estou? Vamos tomar um chá?"[lr]::
+16909::$$$message_0128_0182_0002$$$::"Sim."[lr]::
+16910::$$$message_0128_0182_0003$$$::Isso é só porque o Sr. Kuzuki não fala nada[line len=3]mas enfim...[lr]::
+16911::$$$message_0128_0182_0004$$$::Isso é difícil.::
+16912::$$$message_0128_0183_0000$$$::Fuji-nee sinaliza para a garçonete e pede outro chá com um nome estranho.[lr]::
+16913::$$$message_0128_0183_0001$$$::Quando volto minha atenção para frente, Caster, cuas dúvidas foram todas resolvidas, tem uma expressão tão renovada quanto um dia de outono excelente.[lr]::
+16914::$$$message_0128_0183_0002$$$::Lancer parece estar pensando na pergunta confusa de Fuji-nee, com uma expressão séria no rosto.::
+16915::$$$message_0128_0184_0000$$$::"Oh, Souichirou.[lr]::
+16916::$$$message_0128_0184_0001$$$::Ele poderia ao menos dizer algo se um colega estivesse pedindo seu conselho. Eu poderia guardar um segredo. Mas, como é gentil dele se preocupar com seu colega de trabalho." [lr]::
+16917::$$$message_0128_0184_0002$$$::"Hmm, não sei sobre isso."[lr]::
+16918::$$$message_0128_0184_0003$$$::"...O que?[lr]::
+16919::$$$message_0128_0184_0004$$$::Se você está tentando vender varas de lavar roupas, então não agradeço."::
+16920::$$$message_0128_0185_0000$$$::"Bambu, canos de bambu à venda~[humming][lr]::
+16921::$$$message_0128_0185_0001$$$::Tsc, não pendure seu estorvo de cintura sujo na minha lança!"::
+16922::$$$message_0128_0186_0000$$$::"Ainda não sabemos se ela está pedindo apenas conselhos."[lr]::
+16923::$$$message_0128_0186_0001$$$::"Você está dizendo que pode haver mais problemas?"[lr]::
+16924::$$$message_0128_0186_0002$$$::"Nós não sabemos. Eu não tenho a menor ideia.[lr]::
+16925::$$$message_0128_0186_0003$$$::Eles estão conversando de coração para coração. Nós nunca sabemos como as coisas vão terminar..."::
+16926::$$$message_0128_0187_0000$$$::"Hmm.[lr]::
+16927::$$$message_0128_0187_0001$$$::Você só está me deixando inquieto, não é? Não está tentando dizer que você me disse isso a posteriori?"[lr]::
+16928::$$$message_0128_0187_0002$$$::"Hahaha. Heheheh."::
+16929::$$$message_0128_0188_0000$$$::"Hahaha..."[lr]::
+16930::$$$message_0128_0188_0001$$$::Bem.[lr]::
+16931::$$$message_0128_0188_0002$$$::Não há muitos homens que possam responder claramente a uma pergunta como a de Fuji-nee.::
+16932::$$$message_0128_0189_0000$$$::Qualquer um se deteria, a menos que tivesse intenções más desde o início.[lr]::
+16933::$$$message_0128_0189_0001$$$::Primeiro de tudo, você normalmente não pensaria em perguntar por que não considera a pessoa ao seu lado como um interesse romântico de início.[lr]::
+16934::$$$message_0128_0189_0002$$$::Isso não é algo sobre o qual você é consciente no início.[lr]::
+16935::$$$message_0128_0189_0003$$$::Quem pediu conselho a Fuji-nee também está pedindo demais dela. Que chatice.::
+16936::$$$message_0128_0190_0000$$$::Se alguém pudesse responder...[lr]::
+16937::$$$message_0128_0190_0001$$$::Eles precisam ter experiência suficiente na vida.[lr]::
+16938::$$$message_0128_0190_0002$$$::Seja suficientemente composto para poder refletir sobre si mesmo a qualquer momento.[lr]::
+16939::$$$message_0128_0190_0003$$$::Conseguir apontar os defeitos do outro de forma sincera, porém inabalavelmente... Essa é a pessoa?[lr]::
+16940::$$$message_0128_0190_0004$$$::E um homem que eu conheço que corresponderia a isso é...::
+16941::$$$message_0128_0191_0000$$$::Lancer...?[lr]::
+16942::$$$message_0128_0191_0001$$$::Definitivamente não é ele.::
+16943::$$$message_0128_0192_0000$$$::Senhor Kuzuki, depois de tudo... acho que sim.[lr]::
+16944::$$$message_0128_0192_0001$$$::Bem, mas...[lr]::
+16945::$$$message_0128_0192_0002$$$::É normal se preocupar com o fato de que a pessoa com quem você está conversando possa te odiar ou achar que interagir com você é um incômodo.[lr]::
+16946::$$$message_0128_0192_0003$$$::A menos que você seja extremamente egoísta[line len=3]ou tenha uma personalidade ingênua como certa alguém.[lr]::
+16947::$$$message_0128_0192_0004$$$::Acho que seria terapia de choque para aquela certa pessoa.::
+16948::$$$message_0128_0193_0000$$$::Após tomar um gole do novo chá que foi trazido, Sr. Kuzuki fala com seriedade.::
+16949::$$$message_0128_0194_0000$$$::"Ainda não consigo me livrar da dúvida de se sou a pessoa certa para consultar, mas responderei se for seu desejo."[lr]::
+16950::$$$message_0128_0194_0001$$$::"Y-Sim, por favor."::
+16951::$$$message_0128_0195_0000$$$::"Como você disse, eu não tenho o menor interesse por você."[lr]::
+16952::$$$message_0128_0195_0001$$$::"Claro."[lr]::
+16953::$$$message_0128_0195_0002$$$::A Caster dá um soco no punho de forma sutil.::
+16954::$$$message_0128_0196_0000$$$::"Se me perguntassem como um homem se eu tivesse algum desejo por você como uma mulher, eu também não teria nenhum. Nem se mencionar, é impossível que eu tenha algum sentimento romântico por você."[lr]::
+16955::$$$message_0128_0196_0001$$$::"O-[wvl canskip=0 time=400]O-[wvl canskip=0 time=400]Claro que sim."::
+16956::$$$message_0128_0197_0000$$$::Até Fuji-nee está abalada.[lr]::
+16957::$$$message_0128_0197_0001$$$::Ao lado do Caster que se gabava, Lancer está com a cabeça baixa e uma expressão sombria.::
+16958::$$$message_0128_0198_0000$$$::"Como estamos conseguindo nos dar bem como colegas de trabalho, está tudo bem comigo."[lr]::
+16959::$$$message_0128_0198_0001$$$::"Y-Yes..."[lr]::
+16960::$$$message_0128_0198_0002$$$::Fuji-nee fica pequena.[lr]::
+16961::$$$message_0128_0198_0003$$$::[font italic=true]P-Para de já.[font italic=false][lr]::
+16962::$$$message_0128_0198_0004$$$::[font italic=true]Ai. Do dói mais do que posso imaginar mesmo ouvindo de fora.[font italic=false]::
+16963::$$$message_0128_0199_0000$$$::"Isso é o que eu tinha pensado."[lr]::
+16964::$$$message_0128_0199_0001$$$::"...[font italic=true]Pensamento[font italic=false]?[lr]::
+16965::$$$message_0128_0199_0002$$$::Tinha [font italic=true]pensado[font italic=false]?"::
+16966::$$$message_0128_0200_0000$$$::Lancer endireita-se.[lr]::
+16967::$$$message_0128_0200_0001$$$::Seus olhos brilham.[lr]::
+16968::$$$message_0128_0200_0002$$$::Então ele gosta desse tipo de coisa depois de tudo.::
+16969::$$$message_0128_0201_0000$$$::"Não me interesso por pessoas em geral.[lr]::
+16970::$$$message_0128_0201_0001$$$::Não me interesso pelos sofrimentos e prazeres da vida. Nem pelo que os outros pensam de mim. Nem se me amam ou me odeiam.[lr]::
+16971::$$$message_0128_0201_0002$$$::A única coisa que me preocupa é se alguém está morto ou não."[lr]::
+16972::$$$message_0128_0201_0003$$$::"W-[cacheimage storage=藤02c腕b(中)]::b(ä¸­)][wvl canskip=0 time=400][shock vmax=20 time=400 count=-4][chgfg textoff=0 pos=l time=300 storage=藤02c腕b(中)]Whaat...!?"::
+16973::$$$message_0128_0202_0000$$$::A exclamação surpresa da Fuji-nee foi ouvida por todo o comércio. Ela se inclina para frente.[lr]::
+16974::$$$message_0128_0202_0001$$$::"B- Mas, você tem uma esposa, não tem?"[lr]::
+16975::$$$message_0128_0202_0002$$$::"Eu certamente faço, mas não é um casamento de amor."[lr]::
+16976::$$$message_0128_0202_0003$$$::"Hmm... T-Então, foi um casamento arranjado?[lr]::
+16977::$$$message_0128_0202_0004$$$::Ela perguntou, com um tom de desdém: "Ou uma noiva que foi imposta a você pela sua família?"[lr]::
+16978::$$$message_0128_0202_0005$$$::"Se eu dissesse que é como um casamento arranjado.[lr]::
+16979::$$$message_0128_0202_0006$$$::No entanto, não foi algo que aconteceu por minhas próprias ações, mas você pode dizer que foi acidental."::
+16980::$$$message_0128_0203_0000$$$::Olho timidamente para a Caster.[lr]::
+16981::$$$message_0128_0203_0001$$$::A Caster está olhando para baixo e não consigo ver sua expressão por causa dos seus cabelos. Felizmente.[lr]::
+16982::$$$message_0128_0203_0002$$$::Mesmo o Lancer está se afastando um pouco.::
+16983::$$$message_0128_0204_0000$$$::"[chgfg textoff=0 time=200 storage=藤02c腕b(中)]Wha...[cacheimage storage=藤02c腕c(中)][wvl][chgfg textoff=0 time=200 storage=藤02c腕c(中)]whawhawha...[cacheimage storage=藤02c腕b(中)][wvl][chgfg textoff=0 time=200 storage=藤02c腕b(中)]whawhawha...[cacheimage storage=藤02c腕c(中)][wvl][chgfg textoff=0 time=200 storage=藤02c腕c(中)]wha...[cacheimage storage=藤02c腕a(中)][wvl][chgfg textoff=0 time=200 storage=藤02c腕a(中)]wha..."[lr]::
+16984::$$$message_0128_0204_0001$$$::Fuji-nee, que soa como se estivesse recitando um poema de Kenji Miyazawa, dá um grande suspiro e, de alguma forma, acalma-se.[lr]::
+16985::$$$message_0128_0204_0002$$$::Ela pergunta com uma voz ainda aguda.::
+16986::$$$message_0128_0205_0000$$$::"E-Então o que você quer dizer?"[lr]::
+16987::$$$message_0128_0205_0001$$$::"Eu quero dizer que você ainda pode viver mesmo que não esteja interessado em outros."::
+16988::$$$message_0128_0206_0000$$$::"Ensino que os humanos são criaturas que não podem viver sozinhas nas minhas aulas, mas isso considera o sistema de segurança mútua no Estado moderno.[lr]::
+16989::$$$message_0128_0206_0001$$$::Se você realmente pensar no nível individual, você não precisa de outros.[lr]::
+16990::$$$message_0128_0206_0002$$$::Ferramentas ou coisas. Não há necessidade de pensar que os outros são humanos como você."::
+16991::$$$message_0128_0207_0000$$$::"Por exemplo, animais que caçam sozinhos pensam em seu próprio território, conseguindo um parceiro para se reproduzir e ter filhotes, depois os expulsam do território. Dependendo da situação, podem matá-los."::
+16992::$$$message_0128_0208_0000$$$::"Oh. Como a fêmea da aranha come o macho após se reproduzir com eles..."[lr]::
+16993::$$$message_0128_0208_0001$$$::"Essa é a típica exemplo de usar o sexo oposto para sobreviver."::
+16994::$$$message_0128_0209_0000$$$::"Mas você pode chamar de amor uma relação em que ambos tentam usar um ao outro de forma eficiente?[lr]::
+16995::$$$message_0128_0209_0001$$$::Pode alguém viver sem gostar da pessoa com quem trabalha?"[lr]::
+16996::$$$message_0128_0209_0002$$$::"Suponho.[lr]::
+16997::$$$message_0128_0209_0003$$$::Há... não é preciso necessariamente considerar seu parceiro como um indivíduo. Você ainda seria capaz de viver."::
+16998::$$$message_0128_0210_0000$$$::"Sim. Se você quer simplesmente viver, pode fazer isso sozinho."[lr]::
+16999::$$$message_0128_0210_0001$$$::"Sim..."::
+17000::$$$message_0128_0211_0000$$$::Volto meu olhar e fico estupefato.[lr]::
+17001::$$$message_0128_0211_0001$$$::Sorrindo, o Lancer estende lentamente o dedo em direção às madeixas da Caster. Ela está olhando para baixo.[lr]::
+17002::$$$message_0128_0211_0002$$$::U-Uinacreditável.[lr]::
+17003::$$$message_0128_0211_0003$$$::Há um limite para a curiosidade mórbida.[lr]::
+17004::$$$message_0128_0211_0004$$$::Ele está tentando abrir as portas do inferno!?::
+17005::$$$message_0128_0212_0000$$$::Eu me inclino para tentar impedir seus atos imprudentes, mas ele agarra meu rosto com a outra mão.[lr]::
+17006::$$$message_0128_0212_0001$$$::[se storage=se291.wav]O momento seguinte.[lr]::
+17007::$$$message_0128_0212_0002$$$::O dedo dele levanta seus cabelos.[lr]::
+17008::$$$message_0128_0212_0003$$$::O que aparece é...[lr]::
+17009::$$$message_0128_0212_0004$$$::Não há sinal de raiva.::
+17010::$$$message_0128_0213_0000$$$::E se houverem... olhos azuis inabaláveis.[lr]::
+17011::$$$message_0128_0213_0001$$$::Um sorriso calmo cheio de confiança.::
+17012::$$$message_0128_0214_0000$$$::"T...Isso não é bom!"[lr]::
+17013::$$$message_0128_0214_0001$$$::Fuji-nee se levanta subitamente da cadeira.[lr]::
+17014::$$$message_0128_0214_0002$$$::"..."[lr]::
+17015::$$$message_0128_0214_0003$$$::"Por favor, cuide bem da sua esposa!"[lr]::
+17016::$$$message_0128_0214_0004$$$::Seu rosto está vermelho como um tomate, enquanto ela gira os braços ao redor.[lr]::
+17017::$$$message_0128_0214_0005$$$::O tigre em ela está surgindo.::
+17018::$$$message_0128_0215_0000$$$::"Nunca a vi antes, mas...[lr]::
+17019::$$$message_0128_0215_0001$$$::Já vi o almoço que você come no gabinete!"::
+17020::$$$message_0128_0216_0000$$$::"Não era tão bem feito quanto o de Shirou, mas, se eu tivesse que descrever em uma frase, hã, era mal feito, ou como se fosse comestível...[lr]::
+17021::$$$message_0128_0216_0001$$$::Mas ela tentou muito nisso![lr]::
+17022::$$$message_0128_0216_0002$$$::Eu posso dizer. Desde que eu também sou péssimo em cozinhar!"::
+17023::$$$message_0128_0217_0000$$$::"Ah, eu digo, eu não estou tentando te lembrar que não serei útil para você!"::
+17024::$$$message_0128_0218_0000$$$::"Além disso, também ouvi falar de Shirou![lr]::
+17025::$$$message_0128_0218_0001$$$::Como o fato de, apesar de ser estrangeira, ela está tentando se adaptar à vida no Japão e se esforçando muito! Ou como vocês dois parecem elegantes e pitorescos juntos..."[lr]::
+17026::$$$message_0128_0218_0002$$$::"Senhorita Fujimura. Por favor, sente-se.[lr]::
+17027::$$$message_0128_0218_0003$$$::Você pode se queimar se a porcelana cair."[lr]::
+17028::$$$message_0128_0218_0004$$$::"Ah, sim, como foi rude de mim.[line len=2]"::
+17029::$$$message_0128_0219_0000$$$::Fuji-nee inclina a cabeça em confusão.[lr]::
+17030::$$$message_0128_0219_0001$$$::"O... Oh?[lr]::
+17031::$$$message_0128_0219_0002$$$::Hmm, isso não é um história de amor onde você deixa sua esposa para mim...?"[lr]::
+17032::$$$message_0128_0219_0003$$$::"Não."[lr]::
+17033::$$$message_0128_0219_0004$$$::"Desculpe!"::
+17034::$$$message_0128_0220_0000$$$::"Ó-Ó, okay. Claro.[lr]::
+17035::$$$message_0128_0220_0001$$$::Hmm... Sou uma pessoa tão imprudente.[lr]::
+17036::$$$message_0128_0220_0002$$$::Mas... Ufa, estou aliviado."[lr]::
+17037::$$$message_0128_0220_0003$$$::"Sou eu também.[lr]::
+17038::$$$message_0128_0220_0004$$$::Não estava certo como falar sobre isso. Estava falando demais de forma indireta."::
+17039::$$$message_0128_0221_0000$$$::Senhor Kuzuki aperta as mãos que estavam sobre os joelhos na mesa, mantendo a costas reta.[lr]::
+17040::$$$message_0128_0221_0001$$$::Anel de prata que brilha suavemente no dedo anular.::
+17041::$$$message_0128_0222_0000$$$::"Para ser honesto, ainda não sei se tenho as palavras para responder diretamente à sua pergunta."[lr]::
+17042::$$$message_0128_0222_0001$$$::"Não foi que você já...?"::
+17043::$$$message_0128_0223_0000$$$::"Assim agi no passado."[lr]::
+17044::$$$message_0128_0223_0001$$$::"Entendi."::
+17045::$$$message_0128_0224_0000$$$::"Assim como seu aluno havia apontado, você pode se sentir ansioso por estar sozinho.[lr]::
+17046::$$$message_0128_0224_0001$$$::Seja qual for a sua capacidade de se aceitar enquanto reconhece seus erros, mas continua ensinando. Acredito que isso é o que você está preocupado."::
+17047::$$$message_0128_0225_0000$$$::"Se for o caso, tenho as mesmas preocupações.[lr]::
+17048::$$$message_0128_0225_0001$$$::O que preciso fazer como alguém que tem uma esposa.[lr]::
+17049::$$$message_0128_0225_0002$$$::O que os outros esperam de mim.[lr]::
+17050::$$$message_0128_0225_0003$$$::Como devo tratar mulheres além da minha esposa.[lr]::
+17051::$$$message_0128_0225_0004$$$::Há muitas coisas que eu não sei."::
+17052::$$$message_0128_0226_0000$$$::"Conhecer minha esposa foi o próprio motivo pelo qual comecei a pensar nestas coisas.[lr]::
+17053::$$$message_0128_0226_0001$$$::Nós não temos um passado em comum.[lr]::
+17054::$$$message_0128_0226_0002$$$::Tínhamos apenas a forma de marido e esposa no início."::
+17055::$$$message_0128_0227_0000$$$::"Há uma frase que diz "comece com a forma", e isso é literalmente isso.[lr]::
+17056::$$$message_0128_0227_0001$$$::Acho que agora fui salvo por essa forma. Meu núcleo interno era frágil, com nada para sustentá-lo."::
+17057::$$$message_0128_0228_0000$$$::"Mas agora, você ama sua esposa, certo?"[lr]::
+17058::$$$message_0128_0228_0001$$$::"..."[lr]::
+17059::$$$message_0128_0228_0002$$$::"Aí é onde você fica quieto?"::
+17060::$$$message_0128_0229_0000$$$::"...Lamento.[lr]::
+17061::$$$message_0128_0229_0001$$$::Eu não sei do que sinto. Não, tento não acreditar nelas.[lr]::
+17062::$$$message_0128_0229_0002$$$::Isso é algo que não deveria ser feito. Portanto, não posso expressar claramente minhas opiniões."::
+17063::$$$message_0128_0230_0000$$$::"Hmm? Você não acredita em si mesmo?"[lr]::
+17064::$$$message_0128_0230_0001$$$::"Não, isso é uma das poucas crenças que tenho, então não se preocupe.[lr]::
+17065::$$$message_0128_0230_0002$$$::...Bem, tenho esse tipo de promessa, então não posso dizer algo definitivo, mas..."[lr]::
+17066::$$$message_0128_0230_0003$$$::Senhor Kuzuki espirra suavemente.::
+17067::$$$message_0128_0231_0000$$$::"...Sentimentos são chatos e vazios.[lr]::
+17068::$$$message_0128_0231_0001$$$::Mesmo que você se sinta certo sobre algo agora, não seria estranho que mudasse e murchasse amanhã."::
+17069::$$$message_0128_0232_0000$$$::"Por isso, talvez haja sentimentos que você só finalmente percebe com a repetição da vida cotidiana.[lr]::
+17070::$$$message_0128_0232_0001$$$::Talvez haja coisas que nasçam de viver juntos... em vez de se agarrar a um momento fugaz de paixão.[lr]::
+17071::$$$message_0128_0232_0002$$$::Talvez até mesmo a minha alma vazia pudesse mudar um dia. Eu pensei isso."::
+17072::$$$message_0128_0233_0000$$$::"Se eu dissesse isso, seria fraqueza.[lr]::
+17073::$$$message_0128_0233_0001$$$::Se não tem nada a proteger, então não tem nada a perder, então não perderá.[lr]::
+17074::$$$message_0128_0233_0002$$$::No entanto, isso é apenas estar vivo... [l] [say storage=cty0404_kuz_0503 name=葛木] não é diferente de estar morto."::
+17075::$$$message_0128_0234_0000$$$::"Mesmo que nunca o coloquemos em palavras, minha esposa e eu já somos um casal casado.[lr]::
+17076::$$$message_0128_0234_0001$$$::Não sou habilidoso, então continuar protegendo nossa forma é o máximo que posso fazer agora."::
+17077::$$$message_0128_0235_0000$$$::"Como não sou muito falante, posso parecer frio e calmo. No entanto, há momentos em que simplesmente fico sobrecarregado com ansiedade diante dos alunos.[lr]::
+17078::$$$message_0128_0235_0001$$$::No entanto, acho que não há motivo para se envergonhar se você entender seus limites e fizer o melhor no momento."::
+17079::$$$message_0128_0236_0000$$$::"Sim. Devemos lutar até o dia em que nos tornemos professores respeitáveis, certo?"[lr]::
+17080::$$$message_0128_0236_0001$$$::"Bem, suponho que também se aplique aos artes marciais...[lr]::
+17081::$$$message_0128_0236_0002$$$::Na curta vida que temos, acho que não há fim quando se trata de um caminho de ensinar a outros. [cacheimage storage=藤02b腕B(中)][wvs][chgfg time=300 textoff=0 storage=藤02b腕B(中)][lr]::
+17082::$$$message_0128_0236_0003$$$::Acredito que dedicar-se de forma inquieta aos estudos, sem se afogar em orgulho, é a atitude correta."::
+17083::$$$message_0128_0237_0000$$$::"Isso é tudo o que posso lhe dizer, senhorita Fujimura.[lr]::
+17084::$$$message_0128_0237_0001$$$::Pode ser desagradável ouvir, mas ficarei feliz se ajudar a evitar que você se sinta inferior."::
+17085::$$$message_0128_0238_0000$$$::E com isso, o Sr. Kuzuki se vira para Fuji-nee e inclina a cabeça em agradecimento.[lr]::
+17086::$$$message_0128_0238_0001$$$::Fuji-nee começa a chorar.::
+17087::$$$message_0128_0239_0000$$$::"H-Como é classe! Quero me casar![cacheimage storage=藤08d頬(中)][wvl][chgfg textoff=0 time=300 storage=藤08d頬(中)] Oh my, er, um."::
+17088::$$$message_0128_0240_0000$$$::"Obrigado muito.[lr]::
+17089::$$$message_0128_0240_0001$$$::Você me deu muita energia![lr]::
+17090::$$$message_0128_0240_0002$$$::Estou torcendo por você!"[lr]::
+17091::$$$message_0128_0240_0003$$$::Fuji-nee bate a cabeça na mesa enquanto se inclina para ele.::
+17092::$$$message_0128_0241_0000$$$::"Essa mulher realmente é engraçada depois de tudo."[lr]::
+17093::$$$message_0128_0241_0001$$$::Lancer riu de forma leve.[lr]::
+17094::$$$message_0128_0241_0002$$$::"Enquanto ela causar uma confusão longe de Souichirou."[lr]::
+17095::$$$message_0128_0241_0003$$$::Ela também está rindo, mas não está ela na verdade furiosa?::
+17096::$$$message_0128_0242_0000$$$::"Hahaha. Bem, eu sabia desde o início que ele era um homem fiel."[lr]::
+17097::$$$message_0128_0242_0001$$$::"...Lancer. Sua classificação de sorte foi atualizada de E para F-."[lr]::
+17098::$$$message_0128_0242_0002$$$::"É mesmo. Hahaha."[lr]::
+17099::$$$message_0128_0242_0003$$$::"Você paga pelo chá. (murmura) Como taxa de inconveniência."[lr]::
+17100::$$$message_0128_0242_0004$$$::"Hahaha... [cacheimage storage=ランサーギャルソン01i(近)b][wvl canskip=0 time=400][chgfg time=300 storage=ランサーギャルソン01i(近)b][shock vmax=20 time=300 count=-3]O que?"::
+17101::$$$message_0128_0243_0000$$$::Tentamos sair pela entrada principal sem serem notados.[lr]::
+17102::$$$message_0128_0243_0001$$$::...Mas isso não era possível, [se storage=se529.wav] então fomos discretamente ao banheiro, [se storage=se025.wav][se storage=se145.wav] rolamos pela janela estreita e nosso plano de seguir a sombra acabou de alguma forma.[se storage=se045.wav]::
+17103::$$$message_0128_0244_0000$$$::"Parece que eu também te causei problemas."[lr]::
+17104::$$$message_0128_0244_0001$$$::Ela sorri amargamente enquanto se abaixa para limpar os裤.[lr]::
+17105::$$$message_0128_0244_0002$$$::"De verdade."::
+17106::$$$message_0128_0245_0000$$$::"Mas, fiquei feliz por ter conseguido ver a Fuji-nee agindo como professora."[lr]::
+17107::$$$message_0128_0245_0001$$$::"Você quer dizer isso? [cacheimage storage=キャスター私服01g4(中)] [wvl canskip=0 time=200] [chgfg textoff=0 time=300 storage=キャスター私服01g4(中)] Que pessoa problemática."[lr]::
+17108::$$$message_0128_0245_0002$$$::A Caster balança os ombros, mas ela parece satisfeita de qualquer forma.::
+17109::$$$message_0128_0246_0000$$$::"Dê-lhe bastante hoje à noite e faça com que ela fique cheia."[lr]::
+17110::$$$message_0128_0246_0001$$$::"Vou. Não sejamos muito cruéis com Issei também... Issei...?"[lr]::
+17111::$$$message_0128_0246_0002$$$::"Não posso garantir nada. Sou bruxa, afinal.[lr]::
+17112::$$$message_0128_0246_0003$$$::[chgfg time=300 storage=キャスター私服02e(中)]...O que há de errado? Por que você parece tão surpreso?"::
+17113::$$$message_0128_0247_0000$$$::"Maldição...[lr]::
+17114::$$$message_0128_0247_0001$$$::Eu completamente esqueci do Issei..."[lr]::
+17115::$$$message_0128_0247_0002$$$::"Sobre nos encontrarmos? Não tem jeito. Eu inventarei uma desculpa do meu lado."[lr]::
+17116::$$$message_0128_0247_0003$$$::"Guh... S-Sinto muito..."[lr]::
+17117::$$$message_0128_0247_0004$$$::Que vergonha. Consegui reduzir todas as dívidas que ela me deve para zero em um instante.::
+17118::$$$message_0128_0248_0000$$$::Depois que vejo a Caster partir, lembro do Lancer no seu uniforme de garçom.[lr]::
+17119::$$$message_0128_0248_0001$$$::Lancer se meteu em algum problema cedo assim, mas parece que vai aguentar um bom tempo nesse emprego de meio período.::
+916825::$$$message_9128_0156_0003$$$::Lancer está gritando em silêncio. Seus brincos estão prestes a se soltar. Fico feliz por não estar sentado ao lado dela.[r]::�

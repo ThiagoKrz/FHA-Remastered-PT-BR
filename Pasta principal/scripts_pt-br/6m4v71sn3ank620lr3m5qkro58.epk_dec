@@ -1,0 +1,141 @@
+DAT
+id=qid::label=str::text=lstr::
+3794::$$$message_0028_0000_0000$$$::Vou falar com a Sakura sobre o almoço.[lr]::
+3795::$$$message_0028_0000_0001$$$::Temos uma grande família para alimentar. É muito mais fácil quando trabalhamos juntos nisso.::
+3796::$$$message_0028_0001_0000$$$::Sakura normalmente mora na residência Matou, mas passa os fins de semana e feriados prolongados na minha casa.[lr]::
+3797::$$$message_0028_0001_0001$$$::Rider e Saber preferem os quartos do estilo japonês no prédio principal, enquanto Sakura e Tohsaka preferem os quartos do estilo ocidental na casa de hóspedes.[lr]::
+3798::$$$message_0028_0001_0002$$$::Além disso, a Fuji-nee e a Illya aparecem às vezes para jantar, então a população da casa dos Emiya explodiu.::
+3799::$$$message_0028_0002_0000$$$::"Sakura, você está aí?"[lr]::
+3800::$$$message_0028_0002_0001$$$::"Huh? Ah, Senpai!?[lr]::
+3801::$$$message_0028_0002_0002$$$::Pare, não, tudo bem, sim!"::
+3802::$$$message_0028_0003_0000$$$::[se storage=se422.wav]...Não sei se é okay ir em frente ou não.[lr]::
+3803::$$$message_0028_0003_0001$$$::Acho que a "boa" me deu permissão[se storage=se288.wav] para entrar, ou talvez ela estivesse me dizendo que está tudo bem por enquanto e eu deveria voltar depois[se storage=se406.wav]...[se storage=se217.wav][lr]::
+3804::$$$message_0028_0003_0002$$$::Eu intrudei subitamente em ela, então talvez eu deva sair e voltar depois de tudo.::
+3805::$$$message_0028_0004_0000$$$::"É só isso, pode esperar se você estiver ocupado."[lr]::
+3806::$$$message_0028_0004_0001$$$::"Eu não estou ocupado! Por favor, entre!"[lr]::
+3807::$$$message_0028_0004_0002$$$::"...Então, farei isso."::
+3808::$$$message_0028_0005_0000$$$::"S-sinto muito por ter te deixado esperando![lr]::
+3809::$$$message_0028_0005_0001$$$::Um, o que precisava, Senpai?"::
+3810::$$$message_0028_0006_0000$$$::"Queria conversar com você sobre o almoço.[lr]::
+3811::$$$message_0028_0006_0001$$$::É um pouco cedo, mas achei que poderia passar um pouco de tempo com você primeiro."[lr]::
+3812::$$$message_0028_0006_0002$$$::"Ah... [wait canskip=false time=400] [chgfg storage=桜私服10e(中) time=200 textoff=0] [cacheimage storage=桜私服10b頬(中)] [wvl canskip=false time=200] [chgfg time=200 storage=桜私服10b頬(中) textoff=0] Eu agradeço."[lr]::
+3813::$$$message_0028_0006_0003$$$::"Então... Espera, ainda não fiz nada para você agradecer."::
+3814::$$$message_0028_0007_0000$$$::Eu também me sinto um pouco tímido agora.[lr]::
+3815::$$$message_0028_0007_0001$$$::...Que patético. Deveria estar acostumado a estar ao seu lado, mas fico tímido sempre que estamos sozinhos juntos.::
+3816::$$$message_0028_0008_0000$$$::"...Então. Pode se sentir em casa."[lr]::
+3817::$$$message_0028_0008_0001$$$::"...Obrigado. Sinto que estou me impunhendo, porém."::
+3818::$$$message_0028_0009_0000$$$::"Ahaha, nem um pouco. Na verdade, dormi até tarde.[lr]::
+3819::$$$message_0028_0009_0001$$$::Agora estou acordado, graças a você. Consegui não ser preguiçoso hoje![lr]::
+3820::$$$message_0028_0009_0002$$$::...Um, isso é o que eu queria agradecer... está tudo bem?"[lr]::
+3821::$$$message_0028_0009_0003$$$::"Ah, é isso que você quer dizer. Então, não se importe se eu fizer..."::
+3822::$$$message_0028_0010_0000$$$::Não tenho razão para recusar agora.[lr]::
+3823::$$$message_0028_0010_0001$$$::Eu entro e me sento no quarto da Sakura. Há um aroma suave e doce no ar.[lr]::
+3824::$$$message_0028_0010_0002$$$::Hmm... é perfume ou desodorizante?::
+3825::$$$message_0028_0011_0000$$$::"Ah... Isso é muito forte?"[lr]::
+3826::$$$message_0028_0011_0001$$$::"Hmm? Acho que o ar-condicionado ou o aquecedor não estão ligados..."::
+3827::$$$message_0028_0012_0000$$$::"Não, parece que você notou o cheiro... [cacheimage storage=桜私服02e頬(中)][wvl][chgfg storage=桜私服02e頬(中) time=300 textoff=0]Usei um pouco de perfume."::
+3828::$$$message_0028_0013_0000$$$::Foi perfume.[lr]::
+3829::$$$message_0028_0013_0001$$$::...Não sei qual marca é, mas cheira bem. Então, Sakura também usa.::
+3830::$$$message_0028_0014_0000$$$::"Um, eu achei que seria bom colocar alguns."[lr]::
+3831::$$$message_0028_0014_0001$$$::"Bem... acho que combina com você."[lr]::
+3832::$$$message_0028_0014_0002$$$::[chgfg time=300 storage=桜私服10b頬(中) textoff=0]A pessoa que usa perfume com mais frequência em nossa casa é...[chgfg time=300 storage=桜私服02b頬(中) textoff=0]Tohsaka, acho. Ela é bastante consciente de usar diferentes fragrâncias para diferentes situações.::
+3833::$$$message_0028_0015_0000$$$::"Tohsaka usa perfume para esconder o estranho cheiro do remédio que usa, mas o seu é diferente."[lr]::
+3834::$$$message_0028_0015_0001$$$::"Acabei de aprender observando os outros.[lr]::
+3835::$$$message_0028_0015_0002$$$::Minha irmã usa muitos produtos diferentes. Não é fácil."[lr]::
+3836::$$$message_0028_0015_0003$$$::Hmm... Eles estariam dando aulas de maquiagem um para o outro?[lr]::
+3837::$$$message_0028_0015_0004$$$::Que relação harmônica entre irmãos.::
+3838::$$$message_0028_0016_0000$$$::"Entendi. Não acho que seria um bom ajuste para mim. Soa realmente elegante a forma como vocês dois falam disso."[lr]::
+3839::$$$message_0028_0016_0001$$$::"Realmente? Acho maravilhoso quando os homens usam perfume de forma eficaz."[lr]::
+3840::$$$message_0028_0016_0002$$$::"Hmm... Se eu fizer isso, sinto que Saber ou Mitsuzuri vão se irritar e me chamar de fraco por usar perfume."::
+3841::$$$message_0028_0017_0000$$$::"A senpai Mitsuzuri provavelmente estaria chateada. Ela quase adora você.[lr]::
+3842::$$$message_0028_0017_0001$$$::Mas acho que um perfume te faria combinar.[lr]::
+3843::$$$message_0028_0017_0002$$$::...Gostaria de comprar alguns para uso pessoal de Rider, mas ela não parece interessada..."::
+3844::$$$message_0028_0018_0000$$$::"Você tem muita coisa para se preocupar. Mas..."[lr]::
+3845::$$$message_0028_0018_0001$$$::Como estou sentado na sala de Sakura, lembro.[lr]::
+3846::$$$message_0028_0018_0002$$$::Todos os membros da nossa família que surgiram enquanto estávamos conversando.::
+3847::$$$message_0028_0019_0000$$$::"...Muita gente mora nessa casa agora."[lr]::
+3848::$$$message_0028_0019_0001$$$::"Isso é verdade. Achei que seria animado quando comecei a ficar aqui, mas nunca imaginei que tivéssemos tantas pessoas aqui."::
+3849::$$$message_0028_0020_0000$$$::Sakura riu.[lr]::
+3850::$$$message_0028_0020_0001$$$::...Sim, só ela e a Fuji-nee sabem como esse casa era antes.[lr]::
+3851::$$$message_0028_0020_0002$$$::[chgfg time=300 storage=桜私服07c(中) textoff=0]Mudou bastante em um curto espaço de tempo. Não sei se fico impressionado ou choqueado.::
+3852::$$$message_0028_0021_0000$$$::"Isso sempre parecia tão vazio quando alguém saía da casa. Inclusive nesta parte também."[lr]::
+3853::$$$message_0028_0021_0001$$$::Ela acena.[lr]::
+3854::$$$message_0028_0021_0002$$$::Fuji-nee vem e vai, mas não mora aqui. Sakura veio ajudar com o café da manhã e o jantar, mas antigamente não ficava aqui durante o dia.[lr]::
+3855::$$$message_0028_0021_0003$$$::Por muito tempo, eu fui a única pessoa que vivia aqui.[lr]::
+3856::$$$message_0028_0021_0004$$$::Não me deixou sentir sozinho, mas agora que olho para trás, foi bastante...::
+3857::$$$message_0028_0022_0000$$$::"Sim, lembro de ter ficado surpreso que você vivia nessa imensa propriedade sozinho."[lr]::
+3858::$$$message_0028_0022_0001$$$::Há mais de dois anos atrás.[lr]::
+3859::$$$message_0028_0022_0002$$$::Naquela época, Sakura era uma garota séria que nunca sorria. Ela apareceu um dia com uma expressão pensativa e disse que queria começar a vir aqui.::
+3860::$$$message_0028_0023_0000$$$::"...De verdade? Sua casa também é bem grande, não é?"[lr]::
+3861::$$$message_0028_0023_0001$$$::"Não, nossas casas são espaçosas de formas diferentes.[lr]::
+3862::$$$message_0028_0023_0002$$$::A casa Matou sempre foi desagradável. Mas essas salas parecem querer ser preenchidas."::
+3863::$$$message_0028_0024_0000$$$::"Mesmo a Rider parece mais feliz e à vontade aqui. Tenho certeza de que a Saber também se sente assim."::
+3864::$$$message_0028_0025_0000$$$::"Realmente... hum.[lr]::
+3865::$$$message_0028_0025_0001$$$::Naquela época, eu sentia que esse lugar se transformou em uma pensão e também que tínhamos mais mãos para ajudar com a limpeza."[lr]::
+3866::$$$message_0028_0025_0002$$$::"Foi realmente difícil limpar toda a casa."::
+3867::$$$message_0028_0026_0000$$$::Sakura sorri, lembrando com carinho o passado.[lr]::
+3868::$$$message_0028_0026_0001$$$::...Ainda há muitas salas não utilizadas, mas antes delas eram usadas para armazenamento.[lr]::
+3869::$$$message_0028_0026_0002$$$::Edifícios caem rapidamente em ruína quando as pessoas não vivem neles.[lr]::
+3870::$$$message_0028_0026_0003$$$::Foi um trabalho bastante grande limpar toda a instalação.::
+3871::$$$message_0028_0027_0000$$$::"...É. Acho que a próxima limpeza do final do ano vai ser muito mais tranquila."[lr]::
+3872::$$$message_0028_0027_0001$$$::"A Rider é boa em limpeza, você sabe.[lr]::
+3873::$$$message_0028_0027_0002$$$::Então podemos descansar em paz!"[lr]::
+3874::$$$message_0028_0027_0003$$$::Sakura olha orgulhosa, como se estivesse falando de si mesma.[lr]::
+3875::$$$message_0028_0027_0004$$$::A Rider gosta de manter as coisas em ordem, mas a maior qualidade dela seria sua força, acho.::
+3876::$$$message_0028_0028_0000$$$::"Mas..."[lr]::
+3877::$$$message_0028_0028_0001$$$::"Sim?"[lr]::
+3878::$$$message_0028_0028_0002$$$::"Não você não fica nostálgico por quando as coisas eram mais calmas?"::
+3879::$$$message_0028_0029_0000$$$::A pergunta escapa.[lr]::
+3880::$$$message_0028_0029_0001$$$::Nenhuma razão para isso; é só o que estou pensando no momento.::
+3881::$$$message_0028_0030_0000$$$::"...Acho que é uma pena não poder ficar sozinho com você mais."[lr]::
+3882::$$$message_0028_0030_0001$$$::"..."::
+3883::$$$message_0028_0031_0000$$$::Ela tem razão.[lr]::
+3884::$$$message_0028_0031_0001$$$::Antes que a  chegasse para o café da manhã, éramos nós só no lar, e ela costumava me acordar na cabana.[lr]::
+3885::$$$message_0028_0031_0002$$$::Ela está dizendo que deseja estar sozinha comigo agora?::
+3886::$$$message_0028_0032_0000$$$::"...O-oh."[lr]::
+3887::$$$message_0028_0032_0001$$$::A revelação me surpreende.[lr]::
+3888::$$$message_0028_0032_0002$$$::"..."[lr]::
+3889::$$$message_0028_0032_0003$$$::Eu a via como uma irmã mais nova, mas ela cresceu tanto que tenho sentimentos mistos sobre continuar como figura de irmão.::
+3890::$$$message_0028_0033_0000$$$::"...Mrgh."[lr]::
+3891::$$$message_0028_0033_0001$$$::Tento evitar contato visual, então meus olhos deslizam para a cama.::
+3892::$$$message_0028_0034_0000$$$::"Mas você sabe, é bom que a casa esteja tão cheia de vida! Também conseguimos cozinhar bastante."[lr]::
+3893::$$$message_0028_0034_0001$$$::"Y-[wvl][shock vmax=15 time=300 count=-3]sim!"::
+3894::$$$message_0028_0035_0000$$$::"É um pouco trabalhoso ter que usar a banheira por vez, e tem muita roupa para lavar, mas estou totalmente a fim disso!"[lr]::
+3895::$$$message_0028_0035_0001$$$::"Sim, vamos fazer o nosso melhor para que funcione. [wvl][shock vmax=15 time=300 count=-3]Juntos!"::
+3896::$$$message_0028_0036_0000$$$::Nós dois corremos para concordar um com o outro.[lr]::
+3897::$$$message_0028_0036_0001$$$::Duvido que Sakura esteja tentando esconder seu coração acelerado tão arduamente quanto eu.::
+3898::$$$message_0028_0037_0000$$$::"...Um,[lr]::
+3899::$$$message_0028_0037_0001$$$::Você sente falta de como era quieto antes, Senpai?"[lr]::
+3900::$$$message_0028_0037_0002$$$::"Ah... [wvl canskip=0 time=600]Não, não necessariamente.[lr]::
+3901::$$$message_0028_0037_0003$$$::O passado é o passado e o presente é o presente. Cada um tem seus prós e contras."[lr]::
+3902::$$$message_0028_0037_0004$$$::Não, isso não é verdade.[lr]::
+3903::$$$message_0028_0037_0005$$$::Agora não tenho nada de ruim para dizer sobre a vida.::
+3904::$$$message_0028_0038_0000$$$::"Acho que as coisas poderiam ficar um pouco mais emocionantes, na verdade."[lr]::
+3905::$$$message_0028_0038_0001$$$::"Haha. Quem será que vai se mudar em seguida..."[lr]::
+3906::$$$message_0028_0038_0002$$$::Issei? É difícil imaginar ele vir até aqui do monte.[lr]::
+3907::$$$message_0028_0038_0003$$$::...Você nunca sabe. Até a Tohsaka tem vindo por perto ultimamente.::
+3908::$$$message_0028_0039_0000$$$::"Você acha que Illya ou a senhorita Fujimura iriam se mudar?"[lr]::
+3909::$$$message_0028_0039_0001$$$::"Urgh... Illya teria um trabalho difícil."[lr]::
+3910::$$$message_0028_0039_0002$$$::Suas criadas teriam que vir com ela, então teríamos que acolher subitamente três pessoas a mais. Já estamos quase no limite da capacidade.::
+3911::$$$message_0028_0040_0000$$$::Então, dou um levinho na minha coxa ao perceber.[lr]::
+3912::$$$message_0028_0040_0001$$$::"De qualquer forma, Sakura..."[lr]::
+3913::$$$message_0028_0040_0002$$$::"Sim?"::
+3914::$$$message_0028_0041_0000$$$::"Nossa equipe de cozinha tem uma grande responsabilidade, não importa quantas pessoas vivam aqui. Vamos dar o nosso melhor."[lr]::
+3915::$$$message_0028_0041_0001$$$::O número de cozinheiros não aumentará, mesmo que os moradores aumentem.[lr]::
+3916::$$$message_0028_0041_0002$$$::Tínhamos realmente muitos cozinheiros em comparação aos moradores.::
+3917::$$$message_0028_0042_0000$$$::"É uma boa chance de mostrar nossas habilidades."[lr]::
+3918::$$$message_0028_0042_0001$$$::"Eles dizem que os apetites crescem na primavera."::
+3919::$$$message_0028_0043_0000$$$::"...É isso.[lr]::
+3920::$$$message_0028_0043_0001$$$::Por favor, me ensine mais, senpai."[lr]::
+3921::$$$message_0028_0043_0002$$$::Estou começando a ficar um pouco com fome depois dessa conversa.[lr]::
+3922::$$$message_0028_0043_0003$$$::Talvez seja hora.::
+3923::$$$message_0028_0044_0000$$$::"Sakura, o que devemos fazer para almoço?"[lr]::
+3924::$$$message_0028_0044_0001$$$::"Vamos pensar sobre isso na cozinha.[lr]::
+3925::$$$message_0028_0044_0002$$$::Estou certo de que podemos fazer qualquer coisa juntos."[lr]::
+3926::$$$message_0028_0044_0003$$$::"O-oh, sim.[lr]::
+3927::$$$message_0028_0044_0004$$$::Vou ver quem mais vai almoçar conosco."::
+3928::$$$message_0028_0045_0000$$$::Ressomos e saímos juntos da sala de Sakura.[lr]::
+3929::$$$message_0028_0045_0001$$$::É uma manhã típica, sem nada de especial.[lr]::
+3930::$$$message_0028_0045_0002$$$::Nossos dias quentes e tranquilos têm passado em paz e quietude.::
+903812::$$$message_9028_0006_0002$$$::"Ah... Agradeço."[r]::
+

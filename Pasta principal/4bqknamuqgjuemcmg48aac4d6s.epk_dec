@@ -1,0 +1,140 @@
+DAT
+id=qid::label=str::text=lstr::
+7138::$$$message_0049_0000_0000$$$::Ryudou Temple is the symbol of Fuyuki's mountain.[lr]::
+7139::$$$message_0049_0000_0001$$$::It's also a famous temple, apparently. Once, I asked Issei about its origins, and he showed me a list of confusing kanji names that sent my head spinning.[lr]::
+7140::$$$message_0049_0000_0002$$$::...Not that normal city residents care. To them, it's just a place they visit to pray on holidays or when their daily troubles could use a little spiritual help.[lr]::
+7141::$$$message_0049_0000_0003$$$::And today, I've run into one such worshipper.::
+7142::$$$message_0049_0001_0000$$$::"Hey, Fuji-nee. Are you here to hang out?"[lr]::
+7143::$$$message_0049_0001_0001$$$::"Mrgh. What exactly is fun about climbing those stone stairs?"[lr]::
+7144::$$$message_0049_0001_0002$$$::It's a long way up from the base of the mountain, that's for sure.[lr]::
+7145::$$$message_0049_0001_0003$$$::[clfg textoff=0 rule=シャッター左から pos=all time=300]The fact that she made it all the way without getting out of breath speaks a lot to Fuji-nee's fitness.::
+7146::$$$message_0049_0002_0000$$$::"Y'know, Shirou, I bet you could bunny-hop up those stairs, no sweat."[lr]::
+7147::$$$message_0049_0002_0001$$$::"My knees would give out way before that."[lr]::
+7148::$$$message_0049_0002_0002$$$::"Huh? Don't kids these days work out by carrying tires around and wearing iron sandals?"[lr]::
+7149::$$$message_0049_0002_0003$$$::Who the heck owns iron sandals? Er, I guess the Fujimura Group might.[lr]::
+7150::$$$message_0049_0002_0004$$$::I can imagine Grandpa Raiga lording himself over the place in a pair of high sandals with a single tooth.::
+7151::$$$message_0049_0003_0000$$$::"What are you doing here, Shirou? I'll get worried if you tell me you're here to pray at your age.[l][say storage=ryu0302_tig_0031 name=藤ねえ]::
+7152::$$$message_0049_0003_0001$$$::[chgfg storage=藤10a(中) time=300 textoff=0] When did I raise such a gloomy child?"[lr]::
+7153::$$$message_0049_0003_0002$$$::"Relax. No kid would ever turn out that dull under your parenting."[lr]::
+7154::$$$message_0049_0003_0003$$$::"I know, right? Okay, time to go through the motions!"[lr]::
+7155::$$$message_0049_0003_0004$$$::We cross the threshold together and ritually wash our hands.::
+7156::$$$message_0049_0004_0000$$$::[clfg textoff=0 rule=シャッター左から pos=all time=300]It's been a long time since Fuji-nee and I visited a temple together.[lr]::
+7157::$$$message_0049_0004_0001$$$::Since the new year, I think.[lr]::
+7158::$$$message_0049_0004_0002$$$::She likes to wear a...tasteful long-sleeved kimono for the occasion, but that's a story for another time.::
+7159::$$$message_0049_0005_0000$$$::"Oh. Got any change?"[lr]::
+7160::$$$message_0049_0005_0001$$$::"...I-it just so happens that I have five yen."[lr]::
+7161::$$$message_0049_0005_0002$$$::"Please don't say you only have five hundred otherwise."[lr]::
+7162::$$$message_0049_0005_0003$$$::"F-f-fifty yen!"[lr]::
+7163::$$$message_0049_0005_0004$$$::We mourn the loss of ten times the currency we expected to pay.[lr]::
+7164::$$$message_0049_0005_0005$$$::At least it isn't as appalling as having to shell out paper bills.[lr]::
+7165::$$$message_0049_0005_0006$$$::Faith is what really counts...or so I hope.::
+7166::$$$message_0049_0006_0000$$$::"..."[lr]::
+7167::$$$message_0049_0006_0001$$$::Now, what to pray for?[lr]::
+7168::$$$message_0049_0006_0002$$$::A safe home? A safe commute? Good grades at school?[lr]::
+7169::$$$message_0049_0006_0003$$$::I glance at Fuji-nee to see what she's doing.::
+7170::$$$message_0049_0007_0000$$$::"Please let Shirou grow up big and strong..."[lr]::
+7171::$$$message_0049_0007_0001$$$::...Oh no, that's heavy.[lr]::
+7172::$$$message_0049_0007_0002$$$::Has she been that worried about me?::
+7173::$$$message_0049_0008_0000$$$::"...Also, let me find a wonderful boyfriend."[lr]::
+7174::$$$message_0049_0008_0001$$$::Ah... Just as I was praying for her to have a safe and healthy life.[lr]::
+7175::$$$message_0049_0008_0002$$$::That's such a cliché wish, Fuji-nee.::
+7176::$$$message_0049_0009_0000$$$::"...Also, save the Siberian tiger from extinction... [cacheimage storage=藤10b(近)][wvl][chgfg time=300 storage=藤10b(近) textoff=0]And the Bengal tiger, too."[lr]::
+7177::$$$message_0049_0009_0001$$$::Now she's praying for the tigers... [l][chgfg time=300 storage=藤08f(近) textoff=0]I have mixed feelings about my well-meaning wishes being comically lumped in with hers.::
+7178::$$$message_0049_0010_0000$$$::"What'd you wish for, Shirou?"[lr]::
+7179::$$$message_0049_0010_0001$$$::"...World peace."[lr]::
+7180::$$$message_0049_0010_0002$$$::"You say that every time. [cacheimage storage=藤06b(近)][wvl][chgfg storage=藤06b(近) time=300 textoff=0]Why don't you ask for a girl, for once?"[lr]::
+7181::$$$message_0049_0010_0003$$$::That would be a bother. Not for me, but the mountain deity. [l]It isn't a god of marriage, to begin with.::
+7182::$$$message_0049_0011_0000$$$::[rep fliplr=0 tops=56,, storages=一成私服01a(遠),一成兄01a(遠),藤08d(近) time=300 flipud=0 lefts=110,, poss=,110,c bg=o境内(秋)-(昼) indexes=1000,2000,3000 opacities=0,0,255]Besides...who would I wish to be in a relationship with?[lr]::
+7183::$$$message_0049_0011_0001$$$::Just as my thoughts begin to wander, a familiar voice breaks through my reverie.::
+7184::$$$message_0049_0012_0000$$$::"Well, if it isn't Shirou and Fujimura the Third.[lr]::
+7185::$$$message_0049_0012_0001$$$::Morning to you both. It sure is a nice day today."[lr]::
+7186::$$$message_0049_0012_0002$$$::"Good morning, Ms. Fujimura.[lr]::
+7187::$$$message_0049_0012_0003$$$::Morning, Emiya."::
+7188::$$$message_0049_0013_0000$$$::Issei and his older brother Reikan emerge from the temple.[lr]::
+7189::$$$message_0049_0013_0001$$$::Fuji-nee was making so much noise that they probably came to see what the commotion was about.::
+7190::$$$message_0049_0014_0000$$$::"Hello. Good morning."[lr]::
+7191::$$$message_0049_0014_0001$$$::"Oh, it's Rei and his little brother. Hi!"[lr]::
+7192::$$$message_0049_0014_0002$$$::Fuji-nee waves back cheerfully.[lr]::
+7193::$$$message_0049_0014_0003$$$::Just to be clear, "Rei" is Reikan.::
+7194::$$$message_0049_0015_0000$$$::"Ha ha ha. I'm glad to see you're as chipper as ever.[lr]::
+7195::$$$message_0049_0015_0001$$$::It looks like you came to pay your respects. Mm-hm. I'm delighted you came today.[lr]::
+7196::$$$message_0049_0015_0002$$$::We owe the Fujimura household a great deal for your help this summer. Allow me to thank you on behalf of our father. A senior priest will come by to see you soon."::
+7197::$$$message_0049_0016_0000$$$::"Oh, don't worry about it![lr]::
+7198::$$$message_0049_0016_0001$$$::How's the abbot doing?"[lr]::
+7199::$$$message_0049_0016_0002$$$::"Very well, though I'm worried about the next decade.[lr]::
+7200::$$$message_0049_0016_0003$$$::This month, he's been causing trouble for another temple in the name of spiritual training. He's still got a fire in him on par with your grandfather."::
+7201::$$$message_0049_0017_0000$$$::"Grandpa said the same thing about him.[lr]::
+7202::$$$message_0049_0017_0001$$$::He said to bring a ton of cash on New Year's Eve to teach Ryudou's old codger a lesson."[lr]::
+7203::$$$message_0049_0017_0002$$$::"Why, that's heartening. He's a bit more greedy than the average person, after all. We'd be more than happy to empty your grandfather's coffers."::
+7204::$$$message_0049_0018_0000$$$::Reikan's hearty laugh rings throughout the temple grounds.[lr]::
+7205::$$$message_0049_0018_0001$$$::...The scary thing is that Issei's father and Grandpa Raiga are old friends. [l]On top of that, Fuji-nee, Reikan, and Neko were in the same grade in high school.[lr]::
+7206::$$$message_0049_0018_0002$$$::Rumor has it they're the shadowy cabal that rules Miyama...!::
+7207::$$$message_0049_0019_0000$$$::"...Emiya, why are your teeth chattering?"[lr]::
+7208::$$$message_0049_0019_0001$$$::"Th-the wind's just a little chilly, that's all."[lr]::
+7209::$$$message_0049_0019_0002$$$::"My grandpa and your dad are both fond of Shirou, too.[lr]::
+7210::$$$message_0049_0019_0003$$$::[chgfg storage=藤05a(中) time=400]I know! He should come to our houses for some reeducation."[lr]::
+7211::$$$message_0049_0019_0004$$$::"Nngh...!"[lr]::
+7212::$$$message_0049_0019_0005$$$::Reeducation!? What [font italic=true]else[font italic=false] are they going to try to teach me!?[lr]::
+7213::$$$message_0049_0019_0006$$$::Chivalry and meditation? No, gambling and chanting the Buddha's name!?::
+7214::$$$message_0049_0020_0000$$$::"No need for that, Third.[lr]::
+7215::$$$message_0049_0020_0001$$$::Shirou's doing just fine. I'd even say he's grown into a strapping young man, skilled with both pen and sword."::
+7216::$$$message_0049_0021_0000$$$::"Huh, you think so?[lr]::
+7217::$$$message_0049_0021_0001$$$::He just seems pretty half-baked to me. I wish he carried himself with a little, y'know, oomph. Like you do, Rei."[lr]::
+7218::$$$message_0049_0021_0002$$$::"Gimme a break. I'm still in high school! You can't expect me to get on Reikan's level."::
+7219::$$$message_0049_0022_0000$$$::"That's not true![lr]::
+7220::$$$message_0049_0022_0001$$$::One time in high school, my brother and his friends ganged up on Rei, but he just went 'Ha ha ha' like he always does.[lr]::
+7221::$$$message_0049_0022_0002$$$::He still got his butt kicked afterward, though."::
+7222::$$$message_0049_0023_0000$$$::"They sure got me good.[lr]::
+7223::$$$message_0049_0023_0001$$$::Why, I only realized they were just picking a fight when Taiga came to visit me at the hospital![lr]::
+7224::$$$message_0049_0023_0002$$$::Clearly, I still had much to learn as a monk, to receive such a welcome just for asking Taiga out on a date!"::
+7225::$$$message_0049_0024_0000$$$::Monk and tiger guffaw uproariously.[lr]::
+7226::$$$message_0049_0024_0001$$$::...Wow.[lr]::
+7227::$$$message_0049_0024_0002$$$::I think I just witnessed a man who can keep up with Fuji-nee, in more ways than one.::
+7228::$$$message_0049_0025_0000$$$::"...Reikan's amazing. He's just...huge."[lr]::
+7229::$$$message_0049_0025_0001$$$::It takes someone truly open-minded and courageous to ask Fuji-nee out.::
+7230::$$$message_0049_0026_0000$$$::"That's why he's my role model.[lr]::
+7231::$$$message_0049_0026_0001$$$::How about it, Emiya? Come live on the mountain. We can both aspire to be like Reikan together."::
+7232::$$$message_0049_0027_0000$$$::All of a sudden, Issei invites me to move in with him.[lr]::
+7233::$$$message_0049_0027_0001$$$::Fuji-nee seems ready to auction me off to the highest bidder, too.[lr]::
+7234::$$$message_0049_0027_0002$$$::I guess living here would build character, though... Hm?[lr]::
+7235::$$$message_0049_0027_0003$$$::Issei abruptly stops laughing and stands up a little straighter.::
+7236::$$$message_0049_0028_0000$$$::"You're here, Souichirou."[lr]::
+7237::$$$message_0049_0028_0001$$$::"I was asked to convey a message to your brother.[lr]::
+7238::$$$message_0049_0028_0002$$$::...Good morning, Ms. Fujimura. Emiya."[lr]::
+7239::$$$message_0049_0028_0003$$$::"Ah."[lr]::
+7240::$$$message_0049_0028_0004$$$::Oh, right. Mr. Kuzuki lives here, too.[lr]::
+7241::$$$message_0049_0028_0005$$$::Whenever I see his lean form appear, he gives off an intimidating air that makes it hard to speak.::
+7242::$$$message_0049_0029_0000$$$::"Hello, Mr. Kuzuki."[lr]::
+7243::$$$message_0049_0029_0001$$$::"Thank you for your instruction, as always."[lr]::
+7244::$$$message_0049_0029_0002$$$::"My thanks to you both, as well. Please make yourselves at home.[lr]::
+7245::$$$message_0049_0029_0003$$$::Reikan, your father is on the telephone."::
+7246::$$$message_0049_0030_0000$$$::"Oh, thanks for coming all this way to let me know.[lr]::
+7247::$$$message_0049_0030_0001$$$::I'll see you later, Third, Shirou. You two have a pleasant day.[lr]::
+7248::$$$message_0049_0030_0002$$$::Come with me, Issei. He's probably going to ask me for something unreasonable again. I can't handle it alone."[lr]::
+7249::$$$message_0049_0030_0003$$$::"Y-yes, I'll help however I can.[lr]::
+7250::$$$message_0049_0030_0004$$$::I'll be taking my leave too, then."[lr]::
+7251::$$$message_0049_0030_0005$$$::Issei bows respectfully and follows Reikan away.::
+7252::$$$message_0049_0031_0000$$$::"...Whew."[lr]::
+7253::$$$message_0049_0031_0001$$$::Without thinking, I relax.[lr]::
+7254::$$$message_0049_0031_0002$$$::Reikan's so friendly, but he still gives off a stern aura.[lr]::
+7255::$$$message_0049_0031_0003$$$::Not unlike Issei and Mr. Kuzuki, actually. Are Buddhist temples magnets for people like that?::
+7256::$$$message_0049_0032_0000$$$::"We're heading out too, Mr. Kuzuki."[lr]::
+7257::$$$message_0049_0032_0001$$$::"...Pardon me for interrupting your conversation.[lr]::
+7258::$$$message_0049_0032_0002$$$::This was unfortunate timing, but feel free to visit again. It would make Issei happy."[lr]::
+7259::$$$message_0049_0032_0003$$$::"We will. Goodbye."[lr]::
+7260::$$$message_0049_0032_0004$$$::Fuji-nee and I leave the main temple, crossing back into the courtyard.::
+7261::$$$message_0049_0033_0000$$$::"Ahh... Didn't see that coming.[lr]::
+7262::$$$message_0049_0033_0001$$$::Mr. Kuzuki lives here, doesn't he?"[lr]::
+7263::$$$message_0049_0033_0002$$$::"Yeah. The three of them are like actual brothers."[lr]::
+7264::$$$message_0049_0033_0003$$$::"You're right. Hey, do you think we look like siblings?"::
+7265::$$$message_0049_0034_0000$$$::...I hope so. That would make me happy.[lr]::
+7266::$$$message_0049_0034_0001$$$::We've always treated each other as brother and sister.[lr]::
+7267::$$$message_0049_0034_0002$$$::If other people see us that way too, I think that's something to be proud of.::
+7268::$$$message_0049_0035_0000$$$::"Well, I've still got some quick business inside.[lr]::
+7269::$$$message_0049_0035_0001$$$::What about you, Shirou?"[lr]::
+7270::$$$message_0049_0035_0002$$$::"I'll take a short walk and head home. I want to go to the hills around back, too."[lr]::
+7271::$$$message_0049_0035_0003$$$::"Mm. Okay. Don't worry about lunch for me today."::
+7272::$$$message_0049_0036_0000$$$::Fuji-nee and I say farewell. I'm left alone in the temple yard.[lr]::
+7273::$$$message_0049_0036_0001$$$::Now, what to do next...::
+907194::$$$message_9049_0015_0000$$$::"Ha ha ha. I'm glad to see you're as chipper as ever."[r]::
+

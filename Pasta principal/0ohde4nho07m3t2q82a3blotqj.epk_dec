@@ -1,0 +1,41 @@
+DAT
+id=qid::label=str::text=lstr::
+3109::$$$message_0021_0000_0000$$$::"Heyyy Saber... Huh, is she out?"[lr]::
+3110::$$$message_0021_0000_0001$$$::That's weird... I followed Saber here from the living room, so she can't possibly be gone.::
+3111::$$$message_0021_0001_0000$$$::"Hm...?"[lr]::
+3112::$$$message_0021_0001_0001$$$::I listen with my hand at my chin, head cocked to one side. I think I just heard a voice from inside...::
+3113::$$$message_0021_0002_0000$$$::"...Hehehe."[rf][lr]::
+3114::$$$message_0021_0002_0001$$$::I hear a quiet laugh through the sliding door.[lr]::
+3115::$$$message_0021_0002_0002$$$::"Oh, you are here. I'm opening the door, Saber. Say something if you don't want me to."::
+3116::$$$message_0021_0003_0000$$$::I open the door, and sure enough, she's there.[lr]::
+3117::$$$message_0021_0003_0001$$$::She's stretching, holding a toy she bought earlier. Her face looks more gentle than usual.[lr]::
+3118::$$$message_0021_0003_0002$$$::Saber's laughing at the stuffed animal. She must not have noticed my entrance yet.::
+3119::$$$message_0021_0004_0000$$$::"Saber."::
+3120::$$$message_0021_0005_0000$$$::"...!"::
+3121::$$$message_0021_0006_0000$$$::She really must not have noticed me. [movefg textoff=0 both=1 opacity=255 left=300 top=445 time=10 accel=0 storage=ぬいぐるみ(後)][chgfg time=100 pos=rc storage=セイバー私服09b(遠) textoff=0]When I say her name one more time, [movefg textoff=0 both=1 opacity=255 left=415 top=475 time=10 accel=0 storage=ぬいぐるみ(後)][chgfg time=100 pos=r storage=セイバー私服01e頬(遠) textoff=0]Saber looks extremely shocked [movefg both=1 textoff=0 opacity=255 left=530 top=465 time=10 accel=0 storage=ぬいぐるみ(後)][chgfg time=100 storage=セイバー私服04c頬(遠) textoff=0 left=600 top=140]and flies into a panic.::
+3122::$$$message_0021_0007_0000$$$::She looks wildly around, [se storage=se216.wav]crams the stuffed animal under her bed covers, exhales, and then turns to look at me.[lr]::
+3123::$$$message_0021_0007_0001$$$::Now she's back to the usual Saber.::
+3124::$$$message_0021_0008_0000$$$::"...Yes? Do you need something, Shirou?"[lr]::
+3125::$$$message_0021_0008_0001$$$::"Yeah, um... Actually, what were you doing?"[lr]::
+3126::$$$message_0021_0008_0002$$$::"Nothing in particular."::
+3127::$$$message_0021_0009_0000$$$::She answers instantly.[lr]::
+3128::$$$message_0021_0009_0001$$$::She obviously wasn't doing nothing, and she literally hid the toy right in front of me.[lr]::
+3129::$$$message_0021_0009_0002$$$::"But[line len=2]"::
+3130::$$$message_0021_0010_0000$$$::"[font italic=true]What do you want, Shirou?[font italic=false] [cacheimage storage=セイバー私服02b(中)][wvl canskip=false time=200][chgfg time=200 storage=セイバー私服02b(中) textoff=0]Are you saying you just saw something?"[lr]::
+3131::$$$message_0021_0010_0001$$$::Saber's eyes have lost their calm and are saying, "you didn't see anything strange at all, did you?"::
+3132::$$$message_0021_0011_0000$$$::"..."[lr]::
+3133::$$$message_0021_0011_0001$$$::Well.[lr]::
+3134::$$$message_0021_0011_0002$$$::That just makes me want to tease her now, just a little bit.::
+3135::$$$message_0021_0012_0000$$$::"Oh, I didn't see anything. Certainly not you grinning while hugging a stuffed animal, [cacheimage storage=セイバー私服12g(中)][wvl][chgfg time=200 storage=セイバー私服12g(中) textoff=0]not the way you were moving it, and not the way you were talking to it like a toddler."[lr]::
+3136::$$$message_0021_0012_0001$$$::"Wha..."::
+3137::$$$message_0021_0013_0000$$$::"Hey, it's all right. I won't tell everyone else that you're sleeping with a stuffed animal."[lr]::
+3138::$$$message_0021_0013_0001$$$::Of course, I haven't actually seen that for myself, but I seem to have been right on the mark.[lr]::
+3139::$$$message_0021_0013_0002$$$::Maybe I went too far. I'll give her a break.::
+3140::$$$message_0021_0014_0000$$$::"Uh, not that I think it's weird for someone to talk to a doll or stuffed animal. It shows they're a kind person. Sometimes it pays to understand how a child thinks.[lr]::
+3141::$$$message_0021_0014_0001$$$::Some adults collect dolls or even treat them like humans. It's a pretty bougie hobby, if you ask me[seloop time=1000 storage=se264.wav]... Uh, um..."[lr]::
+3142::$$$message_0021_0014_0002$$$::There's a wind blowing in the room, for some reason.::
+3143::$$$message_0021_0015_0000$$$::"Is that so, Shirou?"[lr]::
+3144::$$$message_0021_0015_0001$$$::Saber smiles thinly.[lr]::
+3145::$$$message_0021_0015_0002$$$::The wind seems to be coming from her.[lr]::
+3146::$$$message_0021_0015_0003$$$::"S-Saber...?"::
+

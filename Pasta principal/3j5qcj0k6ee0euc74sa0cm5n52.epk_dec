@@ -1,0 +1,111 @@
+DAT
+id=qid::label=str::text=lstr::
+5348::$$$message_0036_0000_0000$$$::"Hm...?"[lr]::
+5349::$$$message_0036_0000_0001$$$::What are Saber and Tohsaka doing in the hall?[lr]::
+5350::$$$message_0036_0000_0002$$$::I thought they were chatting, but they're standing there solemnly.[lr]::
+5351::$$$message_0036_0000_0003$$$::[chgfg time=200 storage=セイバー私服01a(遠),凛私服06d(遠) textoff=0]Then their eyes fix on me...[lr]::
+5352::$$$message_0036_0000_0004$$$::"..."[lr]::
+5353::$$$message_0036_0000_0005$$$::I'll just pretend I didn't see that and go over there.[lr]::
+5354::$$$message_0036_0000_0006$$$::As I decide to do that...::
+5355::$$$message_0036_0001_0000$$$::"Haah... Have you gained weight?"[lr]::
+5356::$$$message_0036_0001_0001$$$::"R-R-Rider! No I haven't!"[lr]::
+5357::$$$message_0036_0001_0002$$$::That sounds like Sakura and Rider.[lr]::
+5358::$$$message_0036_0001_0003$$$::Body weight is another sensitive subject for women. And it's something best left untouched by men, lest we invite disaster.[lr]::
+5359::$$$message_0036_0001_0004$$$::And a good way to get myself scolded just for accidentally overhearing their conversation.[lr]::
+5360::$$$message_0036_0001_0005$$$::[chgfg time=300 storage=セイバー私服01c(遠),凛私服07b腕a(遠) textoff=0]Then why are Saber and Tohsaka looking like that?::
+5361::$$$message_0036_0002_0000$$$::"But Sakura, an extra-dimensional situation like losing weight while gaining size would normally never happen."[lr]::
+5362::$$$message_0036_0002_0001$$$::"Y-you think so?[cacheimage storage=セイバー私服04e(遠),凛私服08d(遠)][wvl][chgfg time=300 storage=セイバー私服04e(遠),凛私服08d(遠) textoff=0] My waist doesn't feel any tighter, though."[lr]::
+5363::$$$message_0036_0002_0002$$$::"I see... Pardon me."[lr]::
+5364::$$$message_0036_0002_0003$$$::"Huh? R-Rider!?"::
+5365::$$$message_0036_0003_0000$$$::What on earth are they doing...? Hmm. I can't tell unless I go look.::
+5366::$$$message_0036_0004_0000$$$::"Ah... Excuse me."[lr]::
+5367::$$$message_0036_0004_0001$$$::I raise my hand in a wave and pass by. I don't need to stay and question them.[lr]::
+5368::$$$message_0036_0004_0002$$$::When I turn their way...::
+5369::$$$message_0036_0005_0000$$$::"[move time=140 path=(398,101,255)(436,68,255)(508,76,255)(547,97,255)(519,78,255)(472,95,255) storage=桜私服05f(中) accel=-2 spline=1 textoff=0]S-S-S-S-Senpai!!!"[cacheimage storage=桜私服05f(中)][wvs][wm canskip=0][movefg opacity=255 time=300 pos=r accel=4 storage=桜私服05f(中) textoff=0][wm canskip=0][lr]::
+5370::$$$message_0036_0005_0001$$$::"Hello, Shirou."[lr]::
+5371::$$$message_0036_0005_0002$$$::Rider is lifting Sakura by her hips.[lr]::
+5372::$$$message_0036_0005_0003$$$::Sakura panics when I see her.::
+5373::$$$message_0036_0006_0000$$$::"True, neither your weight nor your waist size have changed."[lr]::
+5374::$$$message_0036_0006_0001$$$::"...Were you measuring her?"[lr]::
+5375::$$$message_0036_0006_0002$$$::Only Rider would be so bold.::
+5376::$$$message_0036_0007_0000$$$::"S-Senpai? How long were you listening!?"[lr]::
+5377::$$$message_0036_0007_0001$$$::"How long? Um, since you started talking about weight."::
+5378::$$$message_0036_0008_0000$$$::I wasn't sure whether to say anything, but claiming complete ignorance wouldn't work.[lr]::
+5379::$$$message_0036_0008_0001$$$::"Uh, you look the same to me, Sakura. I don't think you need to worry.[lr]::
+5380::$$$message_0036_0008_0002$$$::...Not that I heard a specific number, of course."::
+5381::$$$message_0036_0009_0000$$$::"I weigh 57 kilograms."[lr]::
+5382::$$$message_0036_0009_0001$$$::Ugh, I didn't want to ask for that dangerous info![lr]::
+5383::$$$message_0036_0009_0002$$$::But given her height...that must make her really slender. And her sizes...ah, I see.[lr]::
+5384::$$$message_0036_0009_0003$$$::As for the current topic, if Sakura's gotten bigger in any way, then it must be...::
+5385::$$$message_0036_0010_0000$$$::"Senpai, you're blushing."[lr]::
+5386::$$$message_0036_0010_0001$$$::"He's realized that your chest has gotten bigger.[lr]::
+5387::$$$message_0036_0010_0002$$$::Shirou's examined you carefully, even though he's pretending not to."::
+5388::$$$message_0036_0011_0000$$$::"What!?"[lr]::
+5389::$$$message_0036_0011_0001$$$::Ah, Sakura and I shouted in unison.[lr]::
+5390::$$$message_0036_0011_0002$$$::But my reaction is one of surprise, while Sakura is angry.::
+5391::$$$message_0036_0012_0000$$$::"[shock vmax=30 time=300 count=-3]Rider! Don't talk about Senpai like that!"[lr]::
+5392::$$$message_0036_0012_0001$$$::"There's no use hiding it.[lr]::
+5393::$$$message_0036_0012_0002$$$::Sakura, you should be more aware of your own assets. One viable tactic would be to bare all and confess your love right here."[lr]::
+5394::$$$message_0036_0012_0003$$$::"[shock vmax=30 time=300 count=-3]That's just going to put me in a difficult situation!"::
+5395::$$$message_0036_0013_0000$$$::"Yeah, it would put him in a difficult situation!"[lr]::
+5396::$$$message_0036_0013_0001$$$::"Oh? I think he would be overjoyed, not upset. [cacheimage storage=ライダー私服01c(中),ライダー私服01d(中)][wvl canskip=false time=300][chgfg storage=ライダー私服01c(中) time=300 textoff=0]Although there are some who would be upset by such a development...[wait canskip=false time=300][chgfg storage=ライダー私服01d(中) time=300 textoff=0]"[lr]::
+5397::$$$message_0036_0013_0002$$$::Rider glances at the wall.[lr]::
+5398::$$$message_0036_0013_0003$$$::Is she aware of the other two eavesdropping through it?::
+5399::$$$message_0036_0014_0000$$$::"What... My sister wouldn't be upset about that."[lr]::
+5400::$$$message_0036_0014_0001$$$::"Rin is only human.[lr]::
+5401::$$$message_0036_0014_0002$$$::She's wondering how your constitution allows your chest to keep growing without gaining any overall weight. All the more so since you're related by blood.[lr]::
+5402::$$$message_0036_0014_0003$$$::To her, your body is a challenge that's more difficult to scale than any castle wall."[lr]::
+5403::$$$message_0036_0014_0004$$$::...Rider casually drops some fighting words.::
+5404::$$$message_0036_0015_0000$$$::"Oof... B-but I don't think Saber would worry."[lr]::
+5405::$$$message_0036_0015_0001$$$::Sorry, Tohsaka.[lr]::
+5406::$$$message_0036_0015_0002$$$::I can't defend you in this situation.::
+5407::$$$message_0036_0016_0000$$$::"Y-yeah! Saber's a Servant too, and she even said before that her figure doesn't matter..."[lr]::
+5408::$$$message_0036_0016_0001$$$::"She was just hiding her insecurity. Not that I can't relate."::
+5409::$$$message_0036_0017_0000$$$::Hahaha... I'm getting a stomachache.[lr]::
+5410::$$$message_0036_0017_0001$$$::It feels like an absurd war is about to start if this thin wall collapses... I wonder if my life would even be enough to defend us.::
+5411::$$$message_0036_0018_0000$$$::Still, I can't just stand here in a cold sweat.[lr]::
+5412::$$$message_0036_0018_0001$$$::...And then, I sense Sakura about to drop a second bombshell.::
+5413::$$$message_0036_0019_0000$$$::"...C-can you tell, Senpai?"[lr]::
+5414::$$$message_0036_0019_0001$$$::"N-no, I don't know your exact size, but compared to before, you're pretty..."::
+5415::$$$message_0036_0020_0000$$$::I imagine how frail and forlorn she looked two years ago.[lr]::
+5416::$$$message_0036_0020_0001$$$::Since then, she's steadily put meat on those bones. Maybe the soil of this house agrees with her.[lr]::
+5417::$$$message_0036_0020_0002$$$::As with gardening, nutrition's important.::
+5418::$$$message_0036_0021_0000$$$::"I-it must be because of how delicious your food is. I've been eating too much."[lr]::
+5419::$$$message_0036_0021_0001$$$::"Oh, I'm glad to hear that."[lr]::
+5420::$$$message_0036_0021_0002$$$::"Sakura, that's all the more reason to monitor your weight."::
+5421::$$$message_0036_0022_0000$$$::Rider glances at the wall again.[lr]::
+5422::$$$message_0036_0022_0001$$$::Even though her Mystic Eyes are sealed by her glasses, her gaze seems to pierce the wall, toying with the eavesdroppers.::
+5423::$$$message_0036_0023_0000$$$::"This doesn't fit anymore... There's not as many cute ones in this size."[lr]::
+5424::$$$message_0036_0023_0001$$$::Ahh, I see. Wait, [se storage=se028 nowait=true]Sakura's underwear?[lr]::
+5425::$$$message_0036_0023_0002$$$::I hastily drop the shutters on my thoughts and protect my brain.[lr]::
+5426::$$$message_0036_0023_0003$$$::If I actually think about the bras adorning that large, plump chest, it'll overheat my main CPU!::
+5427::$$$message_0036_0024_0000$$$::"I'm jealous. At your size there's lots of cute and pretty ones available, even domestically. [lr]::
+5428::$$$message_0036_0024_0001$$$::Saber has an adorable, petite build, too..."[lr]::
+5429::$$$message_0036_0024_0002$$$::"Really? But imported clothes aren't so easy to find. Rin said as much."::
+5430::$$$message_0036_0025_0000$$$::...I wish they'd stop moving on to this topic.[lr]::
+5431::$$$message_0036_0025_0001$$$::Even though this place has become a miniature girls' dorm, there's still a healthy young man living here!::
+5432::$$$message_0036_0026_0000$$$::"Aargh! Fine, keep ignoring me. I don't want to stand here and talk, so I'm going to make some tea."[lr]::
+5433::$$$message_0036_0026_0001$$$::"Ah... Sorry you had to hear all this, Senpai. You're male, so you wouldn't want to..."[lr]::
+5434::$$$message_0036_0026_0002$$$::"Isn't he enjoying it precisely because he's a man?"::
+5435::$$$message_0036_0027_0000$$$::"R-Rider, why do you keep saying that!?"[lr]::
+5436::$$$message_0036_0027_0001$$$::Sakura, Rider's just teasing us.[lr]::
+5437::$$$message_0036_0027_0002$$$::All four of us.[lr]::
+5438::$$$message_0036_0027_0003$$$::I'd better beat a hasty retreat...[lr]::
+5439::$$$message_0036_0027_0004$$$::I stagger through the corridor back to the kitchen, and...::
+5440::$$$message_0036_0028_0000$$$::"..."[lr]::
+5441::$$$message_0036_0028_0001$$$::"..."[lr]::
+5442::$$$message_0036_0028_0002$$$::I find the other two waiting for me, looking at me like this.[lr]::
+5443::$$$message_0036_0028_0003$$$::I haven't done anything wrong.[lr]::
+5444::$$$message_0036_0028_0004$$$::If you have to blame someone, blame Sakura's chest for ignoring the laws of physics...::
+5445::$$$message_0036_0029_0000$$$::"Emiya? I need to borrow you for a moment to talk."[lr]::
+5446::$$$message_0036_0029_0001$$$::"I also have something to discuss with you, Shirou."[lr]::
+5447::$$$message_0036_0029_0002$$$::"Oh, we must have a common topic. Why don't we bring it up together?"::
+5448::$$$message_0036_0030_0000$$$::"Uhh, I was about to bring Sakura and Rider tea..."[lr]::
+5449::$$$message_0036_0030_0001$$$::"Okay. Then I'll make it for you. Saber?"[lr]::
+5450::$$$message_0036_0030_0002$$$::"Understood, Rin. I will keep Shirou in this room."::
+5451::$$$message_0036_0031_0000$$$::She grabs my arm firmly. Ahh, I have a bad feeling that I'm about to lose my right of consent, my right to silence, and my basic human rights.[lr]::
+5452::$$$message_0036_0031_0001$$$::But maybe my sacrifice will prevent a direct confrontation and preserve peace in this house...or maybe not.::
+5453::$$$message_0036_0032_0000$$$::"...Fine. Sometimes you gotta risk your life to create opportunity."[lr]::
+5454::$$$message_0036_0032_0001$$$::And thus I spend the rest of my morning listening to Tohsaka and Saber vent their frustrations.[lr]::
+5455::$$$message_0036_0032_0002$$$::It's tough being the only guy here...::
+

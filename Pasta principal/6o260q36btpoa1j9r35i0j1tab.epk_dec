@@ -1,0 +1,92 @@
+DAT
+id=qid::label=str::text=lstr::
+2222::$$$message_0012_0000_0000$$$::"Saber, are you in there?"[se storage=se252.wav][lr]::
+2223::$$$message_0012_0000_0001$$$::I lightly knock, but there's no answer from the room.[lr]::
+2224::$$$message_0012_0000_0002$$$::Saber's really sensitive about this sort of thing, so she must not be inside.[lr]::
+2225::$$$message_0012_0000_0003$$$::I just saw her in the living room earlier, and I have some free time, so I thought we could train in the dojo...::
+2226::$$$message_0012_0001_0000$$$::"You're looking for Saber?"[lr]::
+2227::$$$message_0012_0001_0001$$$::Rider suddenly shows up next to me.::
+2228::$$$message_0012_0002_0000$$$::"Yeah, have you seen her?"[lr]::
+2229::$$$message_0012_0002_0001$$$::"No, not so far."[lr]::
+2230::$$$message_0012_0002_0002$$$::"Oh, that's okay."::
+2231::$$$message_0012_0003_0000$$$::Now, where could she be... [se storage=se215.wav volume=50][shock vmax=10 hmax=10 time=800 count=2]As I turn to head back to the main building, I feel a tug on my arm.::
+2232::$$$message_0012_0004_0000$$$::"By the way, Shirou. Do you have a moment?"[lr]::
+2233::$$$message_0012_0004_0001$$$::"Hm? What's up?"[lr]::
+2234::$$$message_0012_0004_0002$$$::"Well, lately, my bicycle hasn't been working well... The handlebars have been veering to the sides. It's quite a bother. I was hoping you could take a look at it if you have some time."::
+2235::$$$message_0012_0005_0000$$$::Ah, I see.[lr]::
+2236::$$$message_0012_0005_0001$$$::Actually, I've been slacking on the maintenance lately. A normal bicycle is too delicate for Rider to use.[lr]::
+2237::$$$message_0012_0005_0002$$$::Namely, Rider's personal city cycle[line len=2]a granny bike, in other words[line len=2]wasn't built to withstand Rider's stunt driving and drifting.::
+2238::$$$message_0012_0006_0000$$$::"Okay. I'll take a look."[lr]::
+2239::$$$message_0012_0006_0001$$$::...I manage to avoid adding "before it becomes unusable scrap metal."[lr]::
+2240::$$$message_0012_0006_0002$$$::"Thank you."::
+2241::$$$message_0012_0007_0000$$$::I bow slightly [se storage=se188.wav]to be polite, [clfg time=400 rule=シャッター左から storage=ライダー私服01b(中) textoff=0]and enter the room next to Saber's.[lr]::
+2242::$$$message_0012_0007_0001$$$::Now, let's give the bike a quick once-over...::
+2243::$$$message_0012_0008_0000$$$::"...Whoa!"::
+2244::$$$message_0012_0009_0000$$$::It's all over by the time I regain my senses.[lr]::
+2245::$$$message_0012_0009_0001$$$::I'm greeted by the polished, shiny Bicycle No.2.[lr]::
+2246::$$$message_0012_0009_0002$$$::I was just expecting to straighten out the steering column and do some maintenance on the brakes and cables.::
+2247::$$$message_0012_0010_0000$$$::But instead...[lr]::
+2248::$$$message_0012_0010_0001$$$::I got carried away checking out various parts, thought to myself it would be faster to fix them properly instead of using shortcuts, and set myself to disassembling the bike down to every nut and bolt.::
+2249::$$$message_0012_0011_0000$$$::"...Well, Rider should be happy that I went this far."[lr]::
+2250::$$$message_0012_0011_0001$$$::I changed out the wear-prone parts for more durable ones, and was satisfied that this bike wouldn't need to be fixed again for a while... Well, a week, at least.::
+2251::$$$message_0012_0012_0000$$$::[se storage=se396.wav]Just as I head back to [movefg opacity=255 left=-446 top=34 time=450 accel=-2 storage=藤08e(中) textoff=0][wait canskip=false time=200][movefg opacity=255 time=600 pos=c accel=3 storage=藤01d(中) textoff=0][sestop time=100 nowait=true][seloop storage=se317.wav]shower off the sweat and grease, Fuji-nee comes running out of the living room.[wm canskip=0][wm canskip=0][wait canskip=false time=150][sestop time=0 nowait=true]::
+2252::$$$message_0012_0013_0000$$$::"Fuji-nee, school isn't the only place you aren't supposed to run in the hallway!"[lr]::
+2253::$$$message_0012_0013_0001$$$::"Oh, sorry Shirou. We'll talk later!"[lr]::
+2254::$$$message_0012_0013_0002$$$::She runs off.::
+2255::$$$message_0012_0014_0000$$$::"Ah, Senpai."[lr]::
+2256::$$$message_0012_0014_0001$$$::Sakura arrives, panting for air. Unlike Fuji-nee, I rarely see her in such a rush. I'm not sure how to react.::
+2257::$$$message_0012_0015_0000$$$::"What's going on?"[lr]::
+2258::$$$message_0012_0015_0001$$$::"Um, I was about to make some tea since Illya is visiting, but Ms. Fujimura started snacking on the tea snacks. She cleaned out the first cupboard, and the second cupboard, and even the biscuits in our emergency kit...!"[lr]::
+2259::$$$message_0012_0015_0002$$$::No wonder they chased her out.::
+2260::$$$message_0012_0016_0000$$$::"But there normally isn't this much of a commotion even when a hungry tiger descends on our human settlement..."[lr]::
+2261::$$$message_0012_0016_0001$$$::[chgfg time=300 storage=桜私服02e(中) textoff=0 last=桜私服02d(中)]Normally, we'd just lecture Fuji-nee and demand reparations from her wallet before she can escape.::
+2262::$$$message_0012_0017_0000$$$::"About that, she ate Saber's share too, and when Illya pointed that out, she started sweating and ran off to hide until things calm down..."[lr]::
+2263::$$$message_0012_0017_0001$$$::"Catch her as fast as you can. [l][say storage=emi0118_shi_0101 name=士郎]I'll go apologize to Illya."[lr]::
+2264::$$$message_0012_0017_0002$$$::"And then when I started telling Illya about the virtues of konpeito in the dried biscuits, she got a lot more upset than I expected."[lr]::
+2265::$$$message_0012_0017_0003$$$::"Well, those are emergency rations."::
+2266::$$$message_0012_0018_0000$$$::"Sakura, I found Taiga! She's climbing on the roof!"[lr]::
+2267::$$$message_0012_0018_0001$$$::I hear Illya's voice from the yard... The roof?::
+2268::$$$message_0012_0019_0000$$$::"[move time=200 path=(292,72,255)(256,56,255)(250,67,255)(229,64,255) accel=-2 storage=桜私服05f(中) spline=1 textoff=0][say storage=emi0118_sak_0040 name=桜]Huh? Ah, I'm coming. [cacheimage storage=桜私服07d(中)][wm canskip=0][wvl canskip=false time=300][chgfg time=200 storage=桜私服07d(中) textoff=0 last=桜私服05f(中)]I'll see you later, Senpai... [cacheimage storage=桜私服14c(中)][wvl canskip=false time=200][chgfg time=200 storage=桜私服14c(中) textoff=0 last=桜私服07d(中)][cacheimage storage=桜私服14c(中)][wvl canskip=false time=300][movefg opacity=0 left=-35 top=54 time=300 accel=2 storage=桜私服14c(中) textoff=0 last=桜私服14c(中)]Wait, Rider! What are you doing with that rope!?"[lr]::
+2269::$$$message_0012_0019_0001$$$::Sakura throws on some sandals and goes into the backyard.[lr]::
+2270::$$$message_0012_0019_0002$$$::Anyway, I'm afraid of what she's about to do, so I try to avoid looking at Rider.::
+2271::$$$message_0012_0020_0000$$$::"Still, though..."[lr]::
+2272::$$$message_0012_0020_0001$$$::It looks like they're hunting a wild animal.[lr]::
+2273::$$$message_0012_0020_0002$$$::Maybe I'd better help before this gets out of hand.::
+2274::$$$message_0012_0021_0000$$$::Finally, Fuji-nee is taken into custody.[lr]::
+2275::$$$message_0012_0021_0001$$$::Illya and Sakura are scolding her in the living room.[lr]::
+2276::$$$message_0012_0021_0002$$$::For my part, I'm fixing the damage she caused to the roof.[lr]::
+2277::$$$message_0012_0021_0003$$$::They say we're still due for a typhoon this year.::
+2278::$$$message_0012_0022_0000$$$::"Still, though..."[lr]::
+2279::$$$message_0012_0022_0001$$$::I feel a pang of sympathy for Archer. Maybe the reason he got so twisted is from being left up here all by himself.::
+2280::$$$message_0012_0023_0000$$$::"Just kidding. As if."[lr]::
+2281::$$$message_0012_0023_0001$$$::I shouldn't stay here. What's the thing they say about smoke and fools?[lr]::
+2282::$$$message_0012_0023_0002$$$::Anyway, there's still time before dinner, so I'll find a quiet place to take a break.::
+2283::$$$message_0012_0024_0000$$$::I find a wooden floored space without any clutter around.[lr]::
+2284::$$$message_0012_0024_0001$$$::No one ended up using this place, even after the number of residents in this house increased.[lr]::
+2285::$$$message_0012_0024_0002$$$::I'd forgotten about it all along.::
+2286::$$$message_0012_0025_0000$$$::...I calm my jumbled thoughts.[lr]::
+2287::$$$message_0012_0025_0001$$$::This place feels nostalgic, like it's where everything began.::
+2288::$$$message_0012_0026_0000$$$::"..."[lr]::
+2289::$$$message_0012_0026_0001$$$::...I wish I could stay here longer.[lr]::
+2290::$$$message_0012_0026_0002$$$::I stand at the entrance, silently.::
+2291::$$$message_0012_0027_0000$$$::"You're here, Shirou."[lr]::
+2292::$$$message_0012_0027_0001$$$::How long have I been here?[lr]::
+2293::$$$message_0012_0027_0002$$$::Saber's voice frees me from my dissociation.::
+2294::$$$message_0012_0028_0000$$$::"Yeah. How long have you been here, Saber?"[lr]::
+2295::$$$message_0012_0028_0001$$$::"Since lunch ended."[lr]::
+2296::$$$message_0012_0028_0002$$$::Which would mean she's been here for about half a day.::
+2297::$$$message_0012_0029_0000$$$::"...What's the matter, Shirou? Did you have something you wanted to ask me?"[lr]::
+2298::$$$message_0012_0029_0001$$$::"Ah, nah..."[lr]::
+2299::$$$message_0012_0029_0002$$$::I consider asking Saber to train with me, but the sun is already beginning to set.[lr]::
+2300::$$$message_0012_0029_0003$$$::What can we do now...::
+2301::$$$message_0012_0030_0000$$$::"I thought I'd take a break here."[lr]::
+2302::$$$message_0012_0030_0001$$$::"I see. This is a place where you can relax.[lr]::
+2303::$$$message_0012_0030_0002$$$::I will take my leave, then."[lr]::
+2304::$$$message_0012_0030_0003$$$::"No, you don't have to..."[lr]::
+2305::$$$message_0012_0030_0004$$$::[chgfg time=300 storage=セイバー私服04a(中) textoff=0]Since we're here, I'd like to spend some time alone with Saber...but I'm too embarrassed to say it.::
+2306::$$$message_0012_0031_0000$$$::"Is something wrong?"[lr]::
+2307::$$$message_0012_0031_0001$$$::"...It's nothing."[lr]::
+2308::$$$message_0012_0031_0002$$$::I sit down in a comfortable position.[lr]::
+2309::$$$message_0012_0031_0003$$$::I'll probably forget whatever silly things we talk about today. [l][textoff][clfg][dash page=back mx=0 opacity=180 layer=base irot=-0.0 cx=11 imag=1.5 time=10000 cy=339 mag=1.5 my=-333 storage=a11(fd) rot=-0.0 accel=0][transex time=600][wait canskip=0 time=800]But the flickering sunlight on the dojo walls and Saber's gentle smile will stay with me forever.::
+902286::$$$message_9012_0025_0000$$$::...I calm my jumbled thoughts.[r]::
+

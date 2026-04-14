@@ -1,0 +1,52 @@
+DAT
+id=qid::label=str::text=lstr::
+31813::$$$message_0247_0000_0000$$$::I'll go out on patrol with Saber.[lr]::
+31814::$$$message_0247_0000_0001$$$::The town doesn't require my immediate attention, but I might as well take a look around if I have nothing else to do.::
+31815::$$$message_0247_0001_0000$$$::"Do you have some time, Saber? I wanted to go patrol the town."::
+31816::$$$message_0247_0002_0000$$$::"Yes, I'm ready to leave.[lr]::
+31817::$$$message_0247_0002_0001$$$::We can investigate the situation, or wait and see what happens.[lr]::
+31818::$$$message_0247_0002_0002$$$::The rest is up to you, Shirou."::
+31819::$$$message_0247_0003_0000$$$::Saber appears immediately, as if she read my thoughts.[lr]::
+31820::$$$message_0247_0003_0001$$$::I appreciate that, but...::
+31821::$$$message_0247_0004_0000$$$::"Well, I'm not sure what you expect from me.[lr]::
+31822::$$$message_0247_0004_0001$$$::I was just going to ask if you wanted to join me on patrol, but I would have stayed home if you didn't want to go."[lr]::
+31823::$$$message_0247_0004_0002$$$::There's something odd about the way Saber phrased that.[lr]::
+31824::$$$message_0247_0004_0003$$$::She seems to realize it too, and catches herself.::
+31825::$$$message_0247_0005_0000$$$::"...Yes. I want to join you, if you are going out on patrol.[lr]::
+31826::$$$message_0247_0005_0001$$$::It was not my intention to sound as if I was questioning your resolve."::
+31827::$$$message_0247_0006_0000$$$::She dips her head in apology.[lr]::
+31828::$$$message_0247_0006_0001$$$::Hey, there's no need for that.[lr]::
+31829::$$$message_0247_0006_0002$$$::I'm not exactly feeling up to it either, so it felt good to have someone remind me of that.::
+31830::$$$message_0247_0007_0000$$$::"Maybe you've been getting complacent too, Saber. Are you feeling relaxed because nothing really happened over summer break?"[lr]::
+31831::$$$message_0247_0007_0001$$$::"Not at all! I am your sword, Shirou. I would never make such a blunder as long as you need me!"::
+31832::$$$message_0247_0008_0000$$$::Saber is as sharp as ever, it seems.[lr]::
+31833::$$$message_0247_0008_0001$$$::[chgfg textoff=0 time=200 storage=セイバー私服10b(中)]That's reassuring, but...::
+31834::$$$message_0247_0009_0000$$$::"I'm happy to hear that, but it means that you can't relax as long as I can't take care of myself.[lr]::
+31835::$$$message_0247_0009_0001$$$::...Haah. You must see me as an apprentice you still have to fuss over."::
+31836::$$$message_0247_0010_0000$$$::"Huh? No, I wasn't criticizing you, I was just explaining my state of mind... [cacheimage storage=セイバー私服04c(中)][wvl][chgfg textoff=0 time=300 storage=セイバー私服04c(中)]I haven't said this to you, but I think you're doing a good..."::
+31837::$$$message_0247_0011_0000$$$::Saber hastily corrects herself.[lr]::
+31838::$$$message_0247_0011_0001$$$::[chgfg textoff=0 time=300 storage=セイバー私服10b汗(中)]I'd like to continue this conversation, but if we make a commotion in the hallway, it'll invite unwanted attention.::
+31839::$$$message_0247_0012_0000$$$::"In fact, I'm more and more grateful to you each day[line len=2][cacheimage storage=セイバー私服13c(中)][wvl][chgfg textoff=0 time=200 storage=セイバー私服13c(中)]Are you listening, Shirou!?"[lr]::
+31840::$$$message_0247_0012_0001$$$::"Sorry, Saber. We'll have a long chat about it next time."[lr]::
+31841::$$$message_0247_0012_0002$$$::"Uh...!"[lr]::
+31842::$$$message_0247_0012_0003$$$::I end the conversation and take Saber's hand.[lr]::
+31843::$$$message_0247_0012_0004$$$::[clfg textoff=0 pos=all rule=走る感じ time=400][playstop time=3000 nowait=true]We quickly leave the hallway before the other residents spot us.::
+31844::$$$message_0247_0013_0000$$$::We leave the house as inconspicuously as possible.[lr]::
+31845::$$$message_0247_0013_0001$$$::The area around the Emiya residence is quiet. Nothing suspicious in sight.::
+31846::$$$message_0247_0014_0000$$$::"Let's take a quick look around town. There isn't really a goal to the patrol, though, so I don't know what we're looking for or where to look for it."[lr]::
+31847::$$$message_0247_0014_0001$$$::We'll just have to scout it out the old-fashioned way... Wait.::
+31848::$$$message_0247_0015_0000$$$::"Saber?"[lr]::
+31849::$$$message_0247_0015_0001$$$::"Yes? What is it, Shirou?"[lr]::
+31850::$$$message_0247_0015_0002$$$::Why is she so enthusiastic?::
+31851::$$$message_0247_0016_0000$$$::"...Um, I don't think you need to go fully armed.[lr]::
+31852::$$$message_0247_0016_0001$$$::It isn't even ten o'clock yet. Someone could spot you. Can't you just gear up once an enemy shows up?"[lr]::
+31853::$$$message_0247_0016_0002$$$::"No. It's because the enemy is unknown that I must ensure my defenses are complete.[lr]::
+31854::$$$message_0247_0016_0003$$$::Shirou, you can worry about what people think of you once you are able to defend yourself."::
+31855::$$$message_0247_0017_0000$$$::"Rrgh."[lr]::
+31856::$$$message_0247_0017_0001$$$::Oof. It's been a while since she got mad at me.[lr]::
+31857::$$$message_0247_0017_0002$$$::[chgfg textoff=0 time=300 storage=セイバー鎧01a(中)]I can't quite disregard public attention, but Saber's intuition for battle is always spot-on.[lr]::
+31858::$$$message_0247_0017_0003$$$::In fact, her extra caution could cause this patrol to end in more than a simple nighttime stroll.::
+31859::$$$message_0247_0018_0000$$$::"...All right, I'll be counting on you. But take off the armor if anyone we know is about to see us."[lr]::
+31860::$$$message_0247_0018_0001$$$::"Yes. I'll do my best given the circumstances."::
+931849::$$$message_9247_0015_0001$$$::"Yes? What is it, Shirou?"[r]::
+

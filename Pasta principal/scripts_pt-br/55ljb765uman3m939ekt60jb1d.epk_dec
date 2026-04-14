@@ -1,0 +1,98 @@
+DAT
+id=qid::label=str::text=lstr::
+3385::$$$message_0024_0000_0000$$$::"Shirou, você está certificando-se de fazer a lição de casa?"[lr]::
+3386::$$$message_0024_0000_0001$$$::Fuji-nee menciona a lição de casa enquanto mastiga indolentemente um biscoito de arroz.::
+3387::$$$message_0024_0001_0000$$$::Ela ainda é uma professora de inglês dedicada no fundo, mesmo que se deixe mais solta em outros aspectos.[lr]::
+3388::$$$message_0024_0001_0001$$$::Ela poderia dizer que geralmente segue o fluxo, fica animada quando as coisas são barulhentas e se acalma quando tudo está quieto.::
+3389::$$$message_0024_0002_0000$$$::"Sim, sou. Vou terminar tudo depois que o intervalo acaba."[lr]::
+3390::$$$message_0024_0002_0001$$$::"Realmente? Bem, está bom, mas não mostre seu trabalho para os outros meninos. É por seu próprio bem, então diga não mesmo que eles pedirem para ver sua lição de casa."::
+3391::$$$message_0024_0003_0000$$$::"Tentarei."[lr]::
+3392::$$$message_0024_0003_0001$$$::Então eu digo, mas quem pedir para ver meus deveres vai ter uma surpresa desagradável.[lr]::
+3393::$$$message_0024_0003_0002$$$::Normalmente, metade das minhas respostas está errada.[lr]::
+3394::$$$message_0024_0003_0003$$$::Se eles sabem disso e ainda assim me perguntam, pode ser apenas que estejam desviando a responsabilidade própria.::
+3395::$$$message_0024_0004_0000$$$::"Bom. Não é como se eu não punisse você só porque você nunca fez isso antes, então não pense nisso como ajudar as pessoas. [l] [say storage=emi0251_tig_0021 name=藤ねえ] [rep tops=,71 storages=藤09a腕b(中),セイバー私服01a(中) time=300 opacities=,0 lefts=,-243 poss=c, bg=i衛宮邸居間(fd) indexes=1000,2000] O problema é quando as pessoas não conseguem resolver problemas sozinhas quando estão em apuros."::
+3396::$$$message_0024_0005_0000$$$::Que opinião extremamente respeitável para um professor ter.[lr]::
+3397::$$$message_0024_0005_0001$$$::Claro, ela diz isso enquanto a mão dela percorre a mesa, buscando um novo lanche, e os olhos estão fixos na TV.[lr]::
+3398::$$$message_0024_0005_0002$$$::Saber move a travessa de bolinhos de chá para a mão de Fuji-nee, que está buscando.[lr]::
+3399::$$$message_0024_0005_0003$$$::O professor tigre mastiga o próximo biscoito de arroz.::
+3400::$$$message_0024_0006_0000$$$::"Shirou."[lr]::
+3401::$$$message_0024_0006_0001$$$::"Que, Saber?"[lr]::
+3402::$$$message_0024_0006_0002$$$::"Is Taiga falando sobre sua escola?"[lr]::
+3403::$$$message_0024_0006_0003$$$::"É."[lr]::
+3404::$$$message_0024_0006_0004$$$::Saber está sentada ao lado de Fuji-nee. Ela se vira para mim.::
+3405::$$$message_0024_0007_0000$$$::"Sou apenas curioso, qual é o tipo de escola que você frequenta?[lr]::
+3406::$$$message_0024_0007_0001$$$::Ah, já estive por lá antes, então sei como são os edifícios, mas..."[lr]::
+3407::$$$message_0024_0007_0002$$$::"Um..."[lr]::
+3408::$$$message_0024_0007_0003$$$::Isso não é uma pergunta fácil de responder.::
+3409::$$$message_0024_0008_0000$$$::"Acho que é só uma escola normal.[lr]::
+3410::$$$message_0024_0008_0001$$$::Acho que não leva tanto a sério seus clubes como outras escolas."::
+3411::$$$message_0024_0009_0000$$$::"A escola normal?"[lr]::
+3412::$$$message_0024_0009_0001$$$::"É isso. Só isso. Não temos problema com gangues, ou qualquer coisa assim.[lr]::
+3413::$$$message_0024_0009_0002$$$::Como explicar isso de outro jeito... Hm?"[lr]::
+3414::$$$message_0024_0009_0003$$$::Bebo um gole do meu chá e lembro de algo.[lr]::
+3415::$$$message_0024_0009_0004$$$::Fuji-nee está aqui, então baixo a voz.::
+3416::$$$message_0024_0010_0000$$$::"...Hey. Achei que você disse que os Servants ganham conhecimento geral sobre o mundo quando são convocados."[lr]::
+3417::$$$message_0024_0010_0001$$$::"Sim, mas eu não estava perguntando sobre a instituição, mas sobre que tipo de lugar [font italic=true]sua[font italic=false] escola, Homurahara, é."[lr]::
+3418::$$$message_0024_0010_0002$$$::"Hmm..."[lr]::
+3419::$$$message_0024_0010_0003$$$::Entendi, é isso que ela quis dizer. Então tentarei um outro ângulo.::
+3420::$$$message_0024_0011_0000$$$::"Ei, Saber."[lr]::
+3421::$$$message_0024_0011_0001$$$::[chgfg time=300 storage=セイバー私服04e(中) textoff=0]Fuji-nee se vira da TV.::
+3422::$$$message_0024_0012_0000$$$::"Sim?"[lr]::
+3423::$$$message_0024_0012_0001$$$::"Se quiser, pode vir à escola para um tour."::
+3424::$$$message_0024_0013_0000$$$::"Você tem certeza, Taiga?"::
+3425::$$$message_0024_0014_0000$$$::"Eu não me importo muito. Tenho certeza de que você não vai causar nenhum problema. [cacheimage storage=藤08a(中)][wvl][chgfg time=300 storage=藤08a(中) textoff=0]Acho que não podemos deixar você andar sozinho, embora."[lr]::
+3426::$$$message_0024_0014_0001$$$::...Então, ela precisaria de um guia.::
+3427::$$$message_0024_0015_0000$$$::"Hey Fuji-nee, quem dá os passeios pelo campus geralmente?"[lr]::
+3428::$$$message_0024_0015_0001$$$::"Hmm, não tenho certeza. Acho que é o diretor que faz quando os VIPs visitam."::
+3429::$$$message_0024_0016_0000$$$::"Fuji-nee, tente se lembrar.[lr]::
+3430::$$$message_0024_0016_0001$$$::Não posso deixar Saber ir se não soubermos quem será sua guia. Precisamos de alguém que possamos confiar."::
+3431::$$$message_0024_0017_0000$$$::Saber pode ser o mais confortável de todos para ir com Fuji-nee, mas eu não estou nenhum pouco ok com isso.[lr]::
+3432::$$$message_0024_0017_0001$$$::A única outra pessoa qualificada para ser guia de turismo que eu me sentiria confortável em confiar Saber é provavelmente Issei, presidente do conselho estudantil ou seu conselheiro pedagógico, o Sr. Kuzuki.::
+3433::$$$message_0024_0018_0000$$$::"E você está falando o quê, Shirou?"[lr]::
+3434::$$$message_0024_0018_0001$$$::"Se Saber vai dar uma volta pelo campus, quero que alguém com quem eu me sinta confortável seja sua guia."::
+3435::$$$message_0024_0019_0000$$$::"Por que temos que perguntar a alguém mais?[lr]::
+3436::$$$message_0024_0019_0001$$$::Você é claramente a pessoa mais indicada para dar uma tour por aqui."[lr]::
+3437::$$$message_0024_0019_0002$$$::"...Hmm? Espera, de verdade?"[lr]::
+3438::$$$message_0024_0019_0003$$$::É mesmo tudo bem para um estudante comum ser um guia turístico...?::
+3439::$$$message_0024_0020_0000$$$::"Tá com vontade de não?"[lr]::
+3440::$$$message_0024_0020_0001$$$::"Claro, estou tudo bem com isso."[lr]::
+3441::$$$message_0024_0020_0002$$$::Na verdade, eu queria fazer isso desde o início, mas não achei que fosse possível.::
+3442::$$$message_0024_0021_0000$$$::"Então não há problema. [l] [say storage=emi0251_tig_0101 name=藤ねえ]Às vezes você se preocupa com coisas mais estranhas."::
+3443::$$$message_0024_0022_0000$$$::"...Taiga, isso realmente está tudo certo?[lr]::
+3444::$$$message_0024_0022_0001$$$::Eu sinto que poderia ser um problema se eu fosse."[lr]::
+3445::$$$message_0024_0022_0002$$$::"Saber, quando um adulto diz que está tudo bem, as crianças não precisam se preocupar tanto."[lr]::
+3446::$$$message_0024_0022_0003$$$::Poxa, a Fuji-nee está em modo adulto hoje de manhã.[lr]::
+3447::$$$message_0024_0022_0004$$$::É bom que só Saber e eu estejamos aqui para vê-lo.::
+3448::$$$message_0024_0023_0000$$$::"E você está tudo bem me dando um tour, Shirou?"[lr]::
+3449::$$$message_0024_0023_0001$$$::"É claro. Você queria ir com alguém que conhece, não é?"::
+3450::$$$message_0024_0024_0000$$$::"Bem, sim."[lr]::
+3451::$$$message_0024_0024_0001$$$::"...Hey, Fuji-nee. [cacheimage storage=藤01d(中)][wvl][chgfg time=200 storage=藤01d(中) textoff=0]O que você está sorrindo?"[lr]::
+3452::$$$message_0024_0024_0002$$$::Gah, baixei minha guarda.[lr]::
+3453::$$$message_0024_0024_0003$$$::Fuji-nee muda do modo adulto para o modo tigre num piscar de olhos!::
+3454::$$$message_0024_0025_0000$$$::"Estou só pensando, qual é o sentido se não for você?[lr]::
+3455::$$$message_0024_0025_0001$$$::Saber está interessada em [font italic=true]sua[font italic=false] escola, então seria sem graça se alguém mais a mostrasse."::
+3456::$$$message_0024_0026_0000$$$::"T-[shock vmax=20 time=300 count=-3]Taiga, que bobagem é essa!?[lr]::
+3457::$$$message_0024_0026_0001$$$::Onde Shirou estudava é algo que ele nunca mencionou, mas ele sempre dizia que era um lugar tranquilo, onde ele podia se concentrar nos estudos e aprender a controlar sua força. É um lugar que ele considera importante para sua formação, mas ele nunca revela muitos detalhes sobre ele.[line len=2]"::
+3458::$$$message_0024_0027_0000$$$::"Hmm, não precisa se envergonhar. Entendi, entendi mesmo. De verdade."[lr]::
+3459::$$$message_0024_0027_0001$$$::"Não, você não! Mesmo que estivesse certo, seria rude da minha parte ser exigente com meu guia!"::
+3460::$$$message_0024_0028_0000$$$::"Taiga, agradeço pela sugestão, mas não gosto de você ligar tudo o que eu digo a Shirou.[lr]::
+3461::$$$message_0024_0028_0001$$$::Estou feliz por saber onde ele vai à escola, mas qualquer um pode ser meu guia..."::
+3462::$$$message_0024_0029_0000$$$::...Isso está começando a se tornar um argumento mesquinho.[lr]::
+3463::$$$message_0024_0029_0001$$$::Se continuar assim, as coisas certamente vão dar errado.::
+3464::$$$message_0024_0030_0000$$$::"Okay, that's enough.[lr]::
+3465::$$$message_0024_0030_0001$$$::E quando é que isso vai acontecer?"[lr]::
+3466::$$$message_0024_0030_0002$$$::"Hmm? Bem, tenho um compromisso no clube de kyudo mais tarde, então posso perguntar enquanto estiver lá."::
+3467::$$$message_0024_0031_0000$$$::"Tudo certo. Aquilo está bom com você, Saber?[lr]::
+3468::$$$message_0024_0031_0001$$$::Acho que um dia útil...não funcionaria. Na próxima vez, vou fazer tempo suficiente para te mostrar a cidade em um feriado. Se você estiver ok com eu ser seu guia, claro."::
+3469::$$$message_0024_0032_0000$$$::"Ah, sim... Eu me sentiria mais à vontade com você como meu guia."[lr]::
+3470::$$$message_0024_0032_0001$$$::"?"[lr]::
+3471::$$$message_0024_0032_0002$$$::De alguma forma, soa como se o coração da Saber não estivesse ali.[lr]::
+3472::$$$message_0024_0032_0003$$$::...Acho que a suposição da Fuji-nee realmente a deixou descontente.::
+3473::$$$message_0024_0033_0000$$$::"Vamos passar um feriado, então.[lr]::
+3474::$$$message_0024_0033_0001$$$::Por favor, faça os planos logo, Taiga."[lr]::
+3475::$$$message_0024_0033_0002$$$::Bem que eu fiquei aliviado que Saber não esteja realmente contra isso.[lr]::
+3476::$$$message_0024_0033_0003$$$::Respiro aliviado.[lr]::
+3477::$$$message_0024_0033_0004$$$::Isso é outro plano feito.[lr]::
+3478::$$$message_0024_0033_0005$$$::Uma vez que esteja pronto e animado, darei a Saber uma visita adequada pela escola...::
+903456::$$$message_9024_0026_0000$$$::"T-Taiga, o que é essa bobagem!?"[r]::
+

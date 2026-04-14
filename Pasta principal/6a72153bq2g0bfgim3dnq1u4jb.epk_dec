@@ -1,0 +1,151 @@
+DAT
+id=qid::label=str::text=lstr::
+3561::$$$message_0026_0000_0000$$$::"Saber, I made some tea sweets. Want some?"[lr]::
+3562::$$$message_0026_0000_0001$$$::I tried to make some funny-looking donuts that I saw on TV. Apparently, they're called "sata andagi" in Okinawa.[lr]::
+3563::$$$message_0026_0000_0002$$$::They turned out pretty well for a first try, so I made some tea and am bringing them to Saber to let her try them.::
+3564::$$$message_0026_0001_0000$$$::"Is that you, Shirou? Just a moment, please."[lr]::
+3565::$$$message_0026_0001_0001$$$::I hear some rustling sounds inside, and then the door opens.::
+3566::$$$message_0026_0002_0000$$$::"Thank you for waiting. Please, come in."[lr]::
+3567::$$$message_0026_0002_0001$$$::"Mm. Thanks."::
+3568::$$$message_0026_0003_0000$$$::I set the sata andagi down on the table, as well as the tray of tea.::
+3569::$$$message_0026_0004_0000$$$::"Shirou, what are these?"[lr]::
+3570::$$$message_0026_0004_0001$$$::Saber looks expectantly at the treats on the table.[lr]::
+3571::$$$message_0026_0004_0002$$$::If she had a tail, I bet it would be wagging right now.[lr]::
+3572::$$$message_0026_0004_0003$$$::"I saw these on TV, so I tried making them. They look pretty tasty, right?"::
+3573::$$$message_0026_0005_0000$$$::I pour some tea from the pot and offer it to Saber.[lr]::
+3574::$$$message_0026_0005_0001$$$::"I didn't make a lot because it's just a test run.[lr]::
+3575::$$$message_0026_0005_0002$$$::I thought they'd taste better while they're still fresh, so I brought them over right away.[l][say storage=emi0304_shi_0032 name=士郎] If you like them, I'll make enough for everyone next time."::
+3576::$$$message_0026_0006_0000$$$::"I see. Then may I try one?"[lr]::
+3577::$$$message_0026_0006_0001$$$::"Go ahead. I don't know if you'll like it, though."::
+3578::$$$message_0026_0007_0000$$$::"You made them.[lr]::
+3579::$$$message_0026_0007_0001$$$::And they smell so good that I'm sure they're delicious. Then, if you don't mind..."::
+3580::$$$message_0026_0008_0000$$$::Saber politely accepts the sata andagi and then stuffs her cheeks with it.[chgfg time=400 storage=セイバー私服04e(中) textoff=0][wait canskip=false time=400] She can't speak with her mouth full, [chgfg time=400 storage=セイバー私服01b3(中) textoff=0]but her expression says plenty.[lr]::
+3581::$$$message_0026_0008_0001$$$::I'm glad they were a success. I sip my tea.::
+3582::$$$message_0026_0009_0000$$$::Now, then...[lr]::
+3583::$$$message_0026_0009_0001$$$::I could keep watching Saber enjoy her food, but I suddenly have a question.[lr]::
+3584::$$$message_0026_0009_0002$$$::"By the way, what were you doing earlier?"::
+3585::$$$message_0026_0010_0000$$$::"You caught me just as I was changing clothes.[lr]::
+3586::$$$message_0026_0010_0001$$$::There's something I've been wondering too, Shirou."[lr]::
+3587::$$$message_0026_0010_0002$$$::"What's up?"[lr]::
+3588::$$$message_0026_0010_0003$$$::Did I mess up somewhere? I thought they turned out well when I tasted them earlier.::
+3589::$$$message_0026_0011_0000$$$::"This is something Rin and Sakura recommended to me, but why do the undergarments, meant to conceal the breasts, come in so many types and patterns?"[lr]::
+3590::$$$message_0026_0011_0001$$$::"..."[lr]::
+3591::$$$message_0026_0011_0002$$$::I nearly do a tea spit-take.[lr]::
+3592::$$$message_0026_0011_0003$$$::Luckily it takes a few seconds for my brain to catch up with Saber's roundabout phrasing.::
+3593::$$$message_0026_0012_0000$$$::"I don't know if I have the answer to that..."[lr]::
+3594::$$$message_0026_0012_0001$$$::Does she expect me, a guy, to know why there are lots of different bras?::
+3595::$$$message_0026_0013_0000$$$::"I can understand the belief that a woman should not expose her skin. [l][say storage=emi0304_sav_0071 name=セイバー]That is the purpose of undergarments, I thought, but then why the obsession with their appearance?"[lr]::
+3596::$$$message_0026_0013_0001$$$::"...Obsession?"::
+3597::$$$message_0026_0014_0000$$$::"Yes. The other day, Taiga and the others took me to a shop. Undergarments aren't meant to be exposed, so I couldn't understand why there were so many different types to choose from."::
+3598::$$$message_0026_0015_0000$$$::"Ah, okay, so it's like..."[lr]::
+3599::$$$message_0026_0015_0001$$$::I'm starting to feel like a single father having to confront the fact his only daughter is going through puberty.::
+3600::$$$message_0026_0016_0000$$$::However, my only daughter[line len=2][l]I mean, Saber's openly asking me these questions, so I shouldn't tease her, or flee from this challenge.[lr]::
+3601::$$$message_0026_0016_0001$$$::...Even if my opponent is a brassiere.::
+3602::$$$message_0026_0017_0000$$$::"Umm... I think..."[lr]::
+3603::$$$message_0026_0017_0001$$$::I consider the question for a moment, and then come to a conclusion in my own way.[lr]::
+3604::$$$message_0026_0017_0002$$$::"I think it must be a woman's pride."::
+3605::$$$message_0026_0018_0000$$$::"Pride...?"[lr]::
+3606::$$$message_0026_0018_0001$$$::"Y-yeah."::
+3607::$$$message_0026_0019_0000$$$::I feel like I just said something very silly.[lr]::
+3608::$$$message_0026_0019_0001$$$::I mean, trying to evade the question would be even sillier. So I try to keep my composure and carry on the conversation.::
+3609::$$$message_0026_0020_0000$$$::"Female underwear has a huge range of styles and functions compared to the male equivalent, right?[l][say storage=emi0304_shi_0141 name=士郎] It makes me think that there's more than just practical reasons for it."[lr]::
+3610::$$$message_0026_0020_0001$$$::"Meaning...?"::
+3611::$$$message_0026_0021_0000$$$::"In other words...[lr]::
+3612::$$$message_0026_0021_0001$$$::There might be some personal vanity at play that makes people want to wear something that they like, to be different from others. [l][say storage=emi0304_shi_0152 name=士郎]Pride."[lr]::
+3613::$$$message_0026_0021_0002$$$::"...Huh."::
+3614::$$$message_0026_0022_0000$$$::"Shirou...your ears are red."[lr]::
+3615::$$$message_0026_0022_0001$$$::"I-it's because you asked me such an embarrassing question!"[lr]::
+3616::$$$message_0026_0022_0002$$$::"Wha!?"::
+3617::$$$message_0026_0023_0000$$$::"...I see, so I did.[lr]::
+3618::$$$message_0026_0023_0001$$$::I'm sorry. I didn't mean to make you uncomfortable."::
+3619::$$$message_0026_0024_0000$$$::"When I asked Rin, she told me that you would give me a satisfactory answer..."[lr]::
+3620::$$$message_0026_0024_0001$$$::"Ha, hahaha...right."[lr]::
+3621::$$$message_0026_0024_0002$$$::I'll get her back for this.[lr]::
+3622::$$$message_0026_0024_0003$$$::The next time she lets her guard down, I'll replace all of the salt in her meal with sugar.::
+3623::$$$message_0026_0025_0000$$$::"Thank you, Shirou. That was enlightening."[lr]::
+3624::$$$message_0026_0025_0001$$$::"Huh, really?"::
+3625::$$$message_0026_0026_0000$$$::My eyes follow Saber's fingertips as they touch her pale chest. I hastily raise my flustered face, meeting her earnest gaze.::
+3626::$$$message_0026_0027_0000$$$::"It is the truth. Pride and dignity are ideas that I can understand."::
+3627::$$$message_0026_0028_0000$$$::"Sorry, I wasn't actually doubting you.[lr]::
+3628::$$$message_0026_0028_0001$$$::I just didn't feel like I was qualified to speak on the topic."[lr]::
+3629::$$$message_0026_0028_0002$$$::She lightly shakes her head.::
+3630::$$$message_0026_0029_0000$$$::"As you know, I hid the fact that I was female, so I never had anything to do with feminine clothing[line len=3][l][say storage=emi0304_sav_0181 name=セイバー]But now, I am paying particular attention to such garments."::
+3631::$$$message_0026_0030_0000$$$::"Huh... I figured you always wore armor."::
+3632::$$$message_0026_0031_0000$$$::"Yes. That was the natural thing to do, as a warrior. But it was not possible to wear armor constantly.[lr]::
+3633::$$$message_0026_0031_0001$$$::There were times when, as a general, I would remove my armor as a gesture of trust toward my allies, or don something ornamental to assert my regal majesty as a king."::
+3634::$$$message_0026_0032_0000$$$::"For example...[lr]::
+3635::$$$message_0026_0032_0001$$$::Yes, upon a triumphant return from a campaign...[lr]::
+3636::$$$message_0026_0032_0002$$$::I would wear something as resplendent and ornamental as possible, to better appear the monarch whom the people revered."::
+3637::$$$message_0026_0033_0000$$$::"I see. A king's subjects won't feel comfortable if the king never takes off his armor."[lr]::
+3638::$$$message_0026_0033_0001$$$::Saber nods, satisfied with my interpretation.::
+3639::$$$message_0026_0034_0000$$$::"It was not unusual for such outfits to cheer my own spirits.[lr]::
+3640::$$$message_0026_0034_0001$$$::Your answer reminded me of how that felt."[lr]::
+3641::$$$message_0026_0034_0002$$$::"You felt a sense of pride in dressing like a king."::
+3642::$$$message_0026_0035_0000$$$::"Yes.[lr]::
+3643::$$$message_0026_0035_0001$$$::It may seem unsophisticated to later generations, but in my eyes, the garments made for me by skilled artisans and weavers were brilliant creations.[lr]::
+3644::$$$message_0026_0035_0002$$$::There was the tunic embroidered with a gallant crimson dragon.[lr]::
+3645::$$$message_0026_0035_0003$$$::The quilted mantle lined with gold thread.[lr]::
+3646::$$$message_0026_0035_0004$$$::The dazzling crown.[lr]::
+3647::$$$message_0026_0035_0005$$$::There were indeed times when putting those items on buoyed my spirits and made me forget my weariness."::
+3648::$$$message_0026_0036_0000$$$::"Women of this era are no longer fated to obey men.[lr]::
+3649::$$$message_0026_0036_0001$$$::[chgfg time=300 storage=セイバー私服12c(中) textoff=1]...It stands to reason that they would keep their pride in their chests as they live their daily lives.[l][say storage=emi0304_sav_0232 name=セイバー][chgfg time=300 storage=セイバー私服12a(中) textoff=1] That is something I can relate to.[lr]::
+3650::$$$message_0026_0036_0002$$$::I believe I have a modest understanding of how someone can feel more feminine and true to oneself by caring about their appearance of one's undergarments."::
+3651::$$$message_0026_0037_0000$$$::Saber exhales, then bashfully adds,::
+3652::$$$message_0026_0038_0000$$$::"Thank you, Shirou.[lr]::
+3653::$$$message_0026_0038_0001$$$::I truly am ignorant, to be unaware of something so self-evident..."::
+3654::$$$message_0026_0039_0000$$$::"That's not true."[lr]::
+3655::$$$message_0026_0039_0001$$$::I already see her eyeing the last andagi.::
+3656::$$$message_0026_0040_0000$$$::I push the plate toward her without another word on the topic.[lr]::
+3657::$$$message_0026_0040_0001$$$::"...Well, let's both do our best."[lr]::
+3658::$$$message_0026_0040_0002$$$::"At what?"::
+3659::$$$message_0026_0041_0000$$$::Saber presses her hands together in gratitude after finishing the last andagi.::
+3660::$$$message_0026_0042_0000$$$::"Thank you for the food, Shirou.[lr]::
+3661::$$$message_0026_0042_0001$$$::It was wonderful. Marvelous.[lr]::
+3662::$$$message_0026_0042_0002$$$::I believe that these sata andagi are worthy to be included among the ten permanent items on our tea snack menu."[lr]::
+3663::$$$message_0026_0042_0003$$$::"Okay, good to know."::
+3664::$$$message_0026_0043_0000$$$::"..."[lr]::
+3665::$$$message_0026_0043_0001$$$::"...What's wrong?"[lr]::
+3666::$$$message_0026_0043_0002$$$::Um, I don't have any more...::
+3667::$$$message_0026_0044_0000$$$::"No... I just realized how vulgar it's been of me to be talking about feminine pride all this time while being a glutton."[lr]::
+3668::$$$message_0026_0044_0001$$$::"Don't worry about that. I would actually worry about you if you lost your appetite, haha."[lr]::
+3669::$$$message_0026_0044_0002$$$::Come on, laugh. That's all you can do now.::
+3670::$$$message_0026_0045_0000$$$::"Shirou, I should try to learn from Rin, Sakura, and Taiga to refine my femininity."[lr]::
+3671::$$$message_0026_0045_0001$$$::"N-nah, I'm not sure about Fuji-nee."[lr]::
+3672::$$$message_0026_0045_0002$$$::This conversation is going somewhere weird.[lr]::
+3673::$$$message_0026_0045_0003$$$::I feel fidgety, for some reason.[lr]::
+3674::$$$message_0026_0045_0004$$$::With an unsettled feeling in my heart, I clean up the plates.::
+3675::$$$message_0026_0046_0000$$$::"Oh? Taiga is more womanly than you realize. You're just too close to her."[lr]::
+3676::$$$message_0026_0046_0001$$$::"R-really?"::
+3677::$$$message_0026_0047_0000$$$::"Incidentally..."[lr]::
+3678::$$$message_0026_0047_0001$$$::"Hm?"::
+3679::$$$message_0026_0048_0000$$$::"Would you like to visit the lingerie shop together next time?"[lr]::
+3680::$$$message_0026_0048_0001$$$::"Eh? Linge[line len=2][wvl canskip=0 time=500][se storage=se029.wav][shock vmax=20 time=300 count=-3]W-with me!?"[lr]::
+3681::$$$message_0026_0048_0002$$$::Oh, no.[lr]::
+3682::$$$message_0026_0048_0003$$$::Is there some kind of fast-acting drug in these donuts?::
+3683::$$$message_0026_0049_0000$$$::"Despite how confidently I spoke on the matter, I actually haven't the slightest clue what looks good on me or not..."::
+3684::$$$message_0026_0050_0000$$$::"But if I wear something that satisfies you, [wvl canskip=0 time=500]that would, [cacheimage storage=セイバー私服20c頬(中)][wvl][chgfg time=800 storage=セイバー私服20c頬(中) textoff=0]erm, [wvl canskip=0 time=800]make me happy as well..."::
+3685::$$$message_0026_0051_0000$$$::"Wha... [wvl canskip=0 time=400]D-did Tohsaka put you up to this? You're asking the impossible!"::
+3686::$$$message_0026_0052_0000$$$::"...Is my request so upsetting?[lr]::
+3687::$$$message_0026_0052_0001$$$::There were male companions inside the shop, as well. [chgfg time=300 storage=セイバー私服13b(中) textoff=0][wvl canskip=0 time=600]It's just as strange and embarrassing for me."[lr]::
+3688::$$$message_0026_0052_0002$$$::"No. Our positions are totally different!"::
+3689::$$$message_0026_0053_0000$$$::"Hrm. So 'let's both do our best' was just an empty platitude!?"[lr]::
+3690::$$$message_0026_0053_0001$$$::"You [font italic=true]were[font italic=false] listening![lr]::
+3691::$$$message_0026_0053_0002$$$::A-anyway, ask Tohsaka or Sakura if you need help picking underwear!"::
+3692::$$$message_0026_0054_0000$$$::"No, I can't simply have them teach me everything forever."::
+3693::$$$message_0026_0055_0000$$$::"I'm told that some undergarments are meant to be shown to others. So by fair means or foul, I will have you look."::
+3694::$$$message_0026_0056_0000$$$::"No. [wvl canskip=0 time=400]Absolutely not. [wvl canskip=0 time=400]I outright refuse to do this."::
+3695::$$$message_0026_0057_0000$$$::"Oh...?"::
+3696::$$$message_0026_0058_0000$$$::"If you insist, then I have ways of dealing with that."[lr]::
+3697::$$$message_0026_0058_0001$$$::...Oh boy.::
+3698::$$$message_0026_0059_0000$$$::"I will never wear underwear again unless you pick them out for me!"[lr]::
+3699::$$$message_0026_0059_0001$$$::"Why is this happening!?"::
+3700::$$$message_0026_0060_0000$$$::"Then you'll come with me, right?"::
+3701::$$$message_0026_0061_0000$$$::"Ugh... Fine, but only to the storefront! I won't budge past that!"[lr]::
+3702::$$$message_0026_0061_0001$$$::"Then what's the point!?"::
+3703::$$$message_0026_0062_0000$$$::"Hold it right there, Shirou!"[lr]::
+3704::$$$message_0026_0062_0001$$$::"...[wm canskip=0][chgfg time=400 storage=セイバー私服02b(中) textoff=0]Mmph. [wvl canskip=0 time=600]Did you need something?"::
+3705::$$$message_0026_0063_0000$$$::"Hyah! Um, uh..."[lr]::
+3706::$$$message_0026_0063_0001$$$::"No, nothing in particular."::
+3707::$$$message_0026_0064_0000$$$::"G-good luck."::
+3708::$$$message_0026_0065_0000$$$::"Much obliged! [cacheimage storage=セイバー私服08c(中),桜私服13a(中),ライダー私服04e(中)][wvl canskip=0 time=500][chgfg fliplr=1 time=100 storage=セイバー私服08c(中) textoff=0]I'll see you around!"[se storage=se083.wav][movefg textoff=0 opacity=0 time=300 pos=c accel=2 storage=セイバー私服08c(中)][wait canskip=0 time=2000][shock vmax=20 time=800 count=3][chgfg time=300 storage=桜私服13a(中),ライダー私服04e(中)][wait canskip=0 time=1500][nolr]::
+

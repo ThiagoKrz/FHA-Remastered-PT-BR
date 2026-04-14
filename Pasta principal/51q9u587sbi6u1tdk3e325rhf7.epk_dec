@@ -1,0 +1,153 @@
+DAT
+id=qid::label=str::text=lstr::
+26859::$$$message_0200_0000_0000$$$::I'll ask her about our current situation.[lr]::
+26860::$$$message_0200_0000_0001$$$::Tohsaka came back home because she heard about what's happening to the town, so it would be good to get her opinion.::
+26861::$$$message_0200_0001_0000$$$::"Yeah, I did a quick survey of the town. We don't have much to go on at the moment.[lr]::
+26862::$$$message_0200_0001_0001$$$::Do you know anything, Emiya?"[lr]::
+26863::$$$message_0200_0001_0002$$$::She's already eager to talk about it, and cuts to the question before I do.[lr]::
+26864::$$$message_0200_0001_0003$$$::I'm glad we're not wasting time, but I have another question first.::
+26865::$$$message_0200_0002_0000$$$::"Hey, Tohsaka. What's Archer up to? Is he on standby somewhere close since you came home?"[lr]::
+26866::$$$message_0200_0002_0001$$$::"I broke things off with Archer. We aren't Master and Servant anymore."[lr]::
+26867::$$$message_0200_0002_0002$$$::"Huh? What do you mean? You severed your pact?"::
+26868::$$$message_0200_0003_0000$$$::"More like it got severed. It hasn't been in effect since the Holy Grail War ended. It was his choice."::
+26869::$$$message_0200_0004_0000$$$::"Rider and Saber might be okay with how things are now, but he probably had his reasons.[lr]::
+26870::$$$message_0200_0004_0001$$$::We're not working together 24/7. We just give and take when the situation requires it.[lr]::
+26871::$$$message_0200_0004_0002$$$::I'm still anchoring him to the mortal world, but I've cut off his magical energy supply."::
+26872::$$$message_0200_0005_0000$$$::"I thought you knew that already. Why are you asking now?"[lr]::
+26873::$$$message_0200_0005_0001$$$::"..."::
+26874::$$$message_0200_0006_0000$$$::That's right.[lr]::
+26875::$$$message_0200_0006_0001$$$::That's the relationship they have now.[lr]::
+26876::$$$message_0200_0006_0002$$$::Archer isn't nearby, but he'll conditionally help Tohsaka when she needs him.[lr]::
+26877::$$$message_0200_0006_0003$$$::...I don't know what spurred him to make that choice, but that's how it has to be now.[lr]::
+26878::$$$message_0200_0006_0004$$$::If he kept on being Tohsaka's Servant, it would have given rise to a critical contradiction of some kind.::
+26879::$$$message_0200_0007_0000$$$::"Emiya? Your face is worrying me.[lr]::
+26880::$$$message_0200_0007_0001$$$::I know you don't like Archer, but do you dislike talking about him too?"::
+26881::$$$message_0200_0008_0000$$$::"Nah, I just got a little lightheaded. Sorry for bringing it up. I'll get to the point.[lr]::
+26882::$$$message_0200_0008_0001$$$::What do you think after taking a look around town? Does anything feel wrong or out of place to you?"::
+26883::$$$message_0200_0009_0000$$$::"Hmm. I'm not sure. Something is strange, but not strange enough to feel strange, if that makes any sense.[lr]::
+26884::$$$message_0200_0009_0001$$$::Sorry for sounding so abstract. It's like someone set things up so that the moment you feel something's wrong, you won't be able to notice what exactly is wrong with it."[cacheimage storage=凛私服08a(中),fd07(背景),white][wvs][rep textoff=0 fliplr=0 tops=,0, storages=凛私服08a(中),fd07(背景),white time=200 flipud=0 opacities=,0,0 lefts=,0, poss=c,,c indexes=1000,2000,3000]::
+26885::$$$message_0200_0010_0000$$$::"..."[lr]::
+26886::$$$message_0200_0010_0001$$$::Is she saying that the situation corrects itself as soon as you notice something is wrong with it?[lr]::
+26887::$$$message_0200_0010_0002$$$::In other words, thinking that it's correct is a mistake.[lr]::
+26888::$$$message_0200_0010_0003$$$::Then... [move textoff=0 time=100 path=(0,0,0)(0,0,255)(0,0,255)(0,0,255)(0,0,255)(0,0,255)(0,0,255)(0,0,255)(0,0,0) storage=fd07(背景) accel=0][move textoff=0 time=100 path=(0,0,0)(0,0,255)(0,0,200)(0,0,155)(0,0,100)(0,0,55)(0,0,0)(0,0,255)(0,0,100)(0,0,0)(0,0,0) storage=white accel=0]If I assume that events that aren't correct, and that events which would normally never occur in Fuyuki [font italic=true]are[font italic=false] correct...::
+26889::$$$message_0200_0011_0000$$$::"You look like you know something. What happened while I was gone?"[lr]::
+26890::$$$message_0200_0011_0001$$$::"Nothing. Nothing at all, but..."[lr]::
+26891::$$$message_0200_0011_0002$$$::Where did I acquire this extra knowledge?::
+26892::$$$message_0200_0012_0000$$$::"...There's something I want to tell you.[lr]::
+26893::$$$message_0200_0012_0001$$$::I don't know why I'm saying this..."[lr]::
+26894::$$$message_0200_0012_0002$$$::As calmly as I can manage, I explain my thoughts.[lr]::
+26895::$$$message_0200_0012_0003$$$::I recount my battle against Archer, which hasn't happened yet.[lr]::
+26896::$$$message_0200_0012_0004$$$::I describe how Saber will fall fighting a Master I've never seen.[lr]::
+26897::$$$message_0200_0012_0005$$$::I tell her the story of Fuyuki City that ends in four days.::
+26898::$$$message_0200_0013_0000$$$::"...Just to be sure, you only [font italic=true]know of[font italic=false] these events, right? You haven't seen them personally, or experienced the fourth day yet."[lr]::
+26899::$$$message_0200_0013_0001$$$::"Yeah. I only know of them. It's not like I dreamed of them or heard about them from somewhere."::
+26900::$$$message_0200_0014_0000$$$::"And you still know of them. If they happen in this town, then you're aware of them, somehow.[lr]::
+26901::$$$message_0200_0014_0001$$$::But right now, you can't remember them because you don't know them [font italic=true]yet[font italic=false]."::
+26902::$$$message_0200_0015_0000$$$::"At that point, it's not like you're [font italic=true]starting over[font italic=false]. It's only you that's in that state while Sakura and I are normal, so it doesn't apply to all of Fuyuki.[lr]::
+26903::$$$message_0200_0015_0001$$$::...No. Is it that Fuyuki is like this only during these four days, and you're the only one who can watch it from the side...?"::
+26904::$$$message_0200_0016_0000$$$::...What I told Tohsaka about is the end of the fourth day, which I somehow know about.[lr]::
+26905::$$$message_0200_0016_0001$$$::Shirou Emiya doesn't have a future beyond the fourth day.[lr]::
+26906::$$$message_0200_0016_0002$$$::Tohsaka mumbles to herself, contemplating what it means.::
+26907::$$$message_0200_0017_0000$$$::"...I see. The war hasn't been restarted. It's being reenacted. That would explain how all of the Servants are present. In that case, um...only one person is lying, not everyone..."[lr]::
+26908::$$$message_0200_0017_0001$$$::Tohsaka's expression is grave.[lr]::
+26909::$$$message_0200_0017_0002$$$::Grave as if she just thought of something unpleasant.::
+26910::$$$message_0200_0018_0000$$$::"Tohsaka...? Did you figure something out about this absurd situation?"[lr]::
+26911::$$$message_0200_0018_0001$$$::"...Yeah. On the [font italic=true]big[font italic=false] presumption that what you're saying is true, I think I've more or less figured out how this works."[lr]::
+26912::$$$message_0200_0018_0002$$$::That sounds promising.[lr]::
+26913::$$$message_0200_0018_0003$$$::I'm a little sad she doesn't completely believe me, though.::
+26914::$$$message_0200_0019_0000$$$::"Okay. What I'm going to say is just a thought exercise based on your tall tale. It has [cacheimage storage=凛私服12a(中)][wvl canskip=0 time=500][chgfg textoff=0 time=200 storage=凛私服12a(中)]absolutely [cacheimage storage=凛私服14b(中)][wvl canskip=0 time=500][chgfg textoff=0 time=200 storage=凛私服14b(中)]nothing [cacheimage storage=凛私服06a(中)][wvl canskip=0 time=500][chgfg textoff=0 time=300 storage=凛私服06a(中)]to do with the state of the town, so keep that in mind as you listen."[cacheimage storage=凛私服11c(中)][wvs][chgfg textoff=0 time=200 storage=凛私服11c(中)][lr]::
+26915::$$$message_0200_0019_0001$$$::"Got it. It's just a wild theory."::
+26916::$$$message_0200_0020_0000$$$::"Not even that. It's just an arrangement of everything in order to coherently explain your wild story.[lr]::
+26917::$$$message_0200_0020_0001$$$::All right. Um, where's my glasses..."[lr]::
+26918::$$$message_0200_0020_0002$$$::Ms. Tohsaka fishes a pair of spectacles out of her bag.[lr]::
+26919::$$$message_0200_0020_0003$$$::It's been a while since I've seen her in lecture mode.::
+26920::$$$message_0200_0021_0000$$$::"Now, according to what you said, there's clearly something strange about these four days, October 8th to the 11th.[lr]::
+26921::$$$message_0200_0021_0001$$$::Saber and Rider say that the Holy Grail War has resumed, but that doesn't make sense.[lr]::
+26922::$$$message_0200_0021_0002$$$::...You know it, don't you? If the war really picked up where we left off, then we would be missing people."::
+26923::$$$message_0200_0022_0000$$$::Right.[lr]::
+26924::$$$message_0200_0022_0001$$$::If this was a continuation, then the parties who dropped out half a year ago shouldn't exist.::
+26925::$$$message_0200_0023_0000$$$::"That's why the strangeness doesn't feel strange.[lr]::
+26926::$$$message_0200_0023_0001$$$::I'm sure that even if someone who shouldn't exist exists, we can't tell exactly who that is during this situation...during these four days alone.[lr]::
+26927::$$$message_0200_0023_0002$$$::That's why it isn't strange at all that everyone is here.[lr]::
+26928::$$$message_0200_0023_0003$$$::It would be even stranger if they weren't. After all, this is the [font italic=true]outcome of someone reenacting the Holy Grail War[font italic=false] that has happened before."::
+26929::$$$message_0200_0024_0000$$$::"Huh? Someone is reenacting the Holy Grail War... I think I knew that already.[lr]::
+26930::$$$message_0200_0024_0001$$$::The person who wants the Holy Grail is trying to start another war for it, right?"::
+26931::$$$message_0200_0025_0000$$$::"That's restarting. I'm talking about re-creating what happened.[lr]::
+26932::$$$message_0200_0025_0001$$$::...Look. If you wanted to restart the war, you wouldn't want the fallen Servants to still be here, right? But they're all in this town."::
+26933::$$$message_0200_0026_0000$$$::"It bugs me that I even came to this conclusion, but whoever this is, they only want to reenact the Holy Grail War. They want to keep the war itself going forever.[lr]::
+26934::$$$message_0200_0026_0001$$$::To do that, these four days contain all of the possible events that could happen.[lr]::
+26935::$$$message_0200_0026_0002$$$::Like they're trying to keep it fresh, so that they can enjoy it every time."::
+26936::$$$message_0200_0027_0000$$$::Ahh, that's why...[lr]::
+26937::$$$message_0200_0027_0001$$$::                             Now, [hearttonecombo]let the Holy Grail War go on[line len=2][rf][lr]::
+26938::$$$message_0200_0027_0002$$$::Did I say that...?::
+26939::$$$message_0200_0028_0000$$$::"...Hang on. The town goes back to the way it was after four days, right? Why do I know what's going to happen?[lr]::
+26940::$$$message_0200_0028_0001$$$::It's like I'm the only person who goes back to day one."::
+26941::$$$message_0200_0029_0000$$$::"If you were just 'going back,' then you'd still have your memories. You're probably seeing scenes of yourself. Um, I might draw it like this."::
+26942::$$$message_0200_0030_0000$$$::"These aren't parallel worlds. All of the possibilities during these four days are of equal value, so this is what you're like now.[lr]::
+26943::$$$message_0200_0030_0001$$$::Let's assume that there are infinite mirror versions of the sprinter Shirou Emiya, running the exact same course, each of them moving at different times... Does that make sense?"::
+26944::$$$message_0200_0031_0000$$$::"Um, I played a video game in London, and it's like one of those.[lr]::
+26945::$$$message_0200_0031_0001$$$::A shoot 'em up, I think it's called? You have three airplanes, and you have to start over if one gets destroyed.[lr]::
+26946::$$$message_0200_0031_0002$$$::You can't keep the perspective of the same plane, but you're looking down from the player's third-person point of view, so it's still continuous."::
+26947::$$$message_0200_0032_0000$$$::"This is the same thing. As long as you have your own plane, you can start over from the beginning even if you die. You get another shot at the exact same course, in a completely identical plane with completely identical abilities.[lr]::
+26948::$$$message_0200_0032_0001$$$::That perfectly describes what you are right now."::
+26949::$$$message_0200_0033_0000$$$::"..."[lr]::
+26950::$$$message_0200_0033_0001$$$::Tohsaka's metaphor is quite humiliating, but I get what she's trying to say.[lr]::
+26951::$$$message_0200_0033_0002$$$::When she said I was watching "from the side" earlier, she must have meant that I, Sprinter C, caught a glimpse of Sprinter B ahead of me.::
+26952::$$$message_0200_0034_0000$$$::That's why I somehow know the fates of the other sprinters.[lr]::
+26953::$$$message_0200_0034_0001$$$::They're experiences I haven't had, but they're being parallelized so that I go, "Aah, Sprinter A got killed by the boss," I think...?::
+26954::$$$message_0200_0035_0000$$$::"Hmm... I didn't get all of that, but I'll accept it for consistency's sake. Then, will I eventually get past the fourth day if I just be patient?"::
+26955::$$$message_0200_0036_0000$$$::"I don't think there is any version of you that hasn't. The fifth day will come, even if you aren't alive to see it.[lr]::
+26956::$$$message_0200_0036_0001$$$::Sakura and I aren't having dreams like you, so it's clear that the entire town isn't repeating the loop.[lr]::
+26957::$$$message_0200_0036_0002$$$::But, maybe...you alone are special, and you're [font italic=true]guaranteed to die on the fourth day[font italic=false] if you don't do something about this Holy Grail War."::
+26958::$$$message_0200_0037_0000$$$::How ominous.[lr]::
+26959::$$$message_0200_0037_0001$$$::What terrifies me even more is that I can't deny it might be true.::
+26960::$$$message_0200_0038_0000$$$::"...Haah. Now I understand why I know all these weird things.[lr]::
+26961::$$$message_0200_0038_0001$$$::But how is the Holy Grail War getting recreated? Is the person that wants the Holy Grail capable of acts that are similar to True Magic?[lr]::
+26962::$$$message_0200_0038_0002$$$::...You'd think they'd be powerful enough to grant their own wish without needing the Holy Grail, then."::
+26963::$$$message_0200_0039_0000$$$::"Come on, I told you that they already achieved their goal.[lr]::
+26964::$$$message_0200_0039_0001$$$::They aren't recreating the Holy Grail War because they want the Grail.[lr]::
+26965::$$$message_0200_0039_0002$$$::They just want the deathmatch to happen again.[lr]::
+26966::$$$message_0200_0039_0003$$$::In other words..."[lr]::
+26967::$$$message_0200_0039_0004$$$::"...Ah."::
+26968::$$$message_0200_0040_0000$$$::I see. I got it backwards.::
+26969::$$$message_0200_0041_0000$$$::"...That's their wish.[lr]::
+26970::$$$message_0200_0041_0001$$$::If they already have the Holy Grail, and they used it to grant their wish to recreate the war..."::
+26971::$$$message_0200_0042_0000$$$::"Exactly. If this is happening because of someone's wish, then we can't solve it unless we defeat the bearer of the Holy Grail.[lr]::
+26972::$$$message_0200_0042_0001$$$::The most obvious suspect would be someone who didn't exist during the previous Holy Grail War."[lr]::
+26973::$$$message_0200_0042_0002$$$::It's such a simple conclusion.[lr]::
+26974::$$$message_0200_0042_0003$$$::Any new characters on the stage would be suspicious thanks to their very presence.::
+26975::$$$message_0200_0043_0000$$$::"I wasn't here until I came back from England, but we can rule me out since I'm originally from here.[lr]::
+26976::$$$message_0200_0043_0001$$$::If there's someone here who wasn't half a year ago, they'd be the source of this mess."::
+26977::$$$message_0200_0044_0000$$$::"...[lr]::
+26978::$$$message_0200_0044_0001$$$::Hey, Tohsaka. I think I know someone who fits the bill. But she always seems to be dying every time I meet her.[lr]::
+26979::$$$message_0200_0044_0002$$$::...Is there a solution to that?"::
+26980::$$$message_0200_0045_0000$$$::"...I'm getting tired of these absurd questions.[lr]::
+26981::$$$message_0200_0045_0001$$$::Um, if she gets killed even if you meet her, then maybe you aren't encountering her in the right way."::
+26982::$$$message_0200_0046_0000$$$::"If you know the most correct encounter, the very first time you met her, then try to recreate those conditions yourself. You're capable of that."[lr]::
+26983::$$$message_0200_0046_0001$$$::This is all theoretical, of course. Tohsaka makes sure I understand this.::
+26984::$$$message_0200_0047_0000$$$::But...I see now.[lr]::
+26985::$$$message_0200_0047_0001$$$::I should be able to meet that girl in a different place.[lr]::
+26986::$$$message_0200_0047_0002$$$::Back then, I'm sure it was...[lr]::
+26987::$$$message_0200_0047_0003$$$::At Ryudou Temple. Tohsaka was there, with the track & field and kyudo clubs...::
+26988::$$$message_0200_0048_0000$$$::"...That helps.[lr]::
+26989::$$$message_0200_0048_0001$$$::Anyway, I have a clear goal in mind now."[lr]::
+26990::$$$message_0200_0048_0002$$$::"I'm honored to be of assistance.[lr]::
+26991::$$$message_0200_0048_0003$$$::So what's your next move, Emiya? Are you going to look for whoever has the Holy Grail?"[lr]::
+26992::$$$message_0200_0048_0004$$$::"Well, within reason.[lr]::
+26993::$$$message_0200_0048_0005$$$::It isn't doing me any harm for now, and I'll start over after the fourth day, right? I'll just check it out at my own pace."::
+26994::$$$message_0200_0049_0000$$$::I get up and thank her for her time.[lr]::
+26995::$$$message_0200_0049_0001$$$::This conversation went on longer than I expected.::
+26996::$$$message_0200_0050_0000$$$::"...Goodness.[lr]::
+26997::$$$message_0200_0050_0001$$$::I can't say for sure since I'm not having those dreams, but I came up with that answer after seriously thinking about what you told me."::
+26998::$$$message_0200_0051_0000$$$::"If I'm being honest, I wish you'd invite me out to the local swimming pool if you have time to entertain such silly fantasies.[lr]::
+26999::$$$message_0200_0051_0001$$$::I might have a thing or two to say if you take advantage of me too much."::
+27000::$$$message_0200_0052_0000$$$::Rin Tohsaka ends with a frightening warning and an equally frightening smile.[lr]::
+27001::$$$message_0200_0052_0001$$$::...The pool. The pool, huh? Okay.[lr]::
+27002::$$$message_0200_0052_0002$$$::I'll return the favor in the near future, so I hope she'll be patient with me.[clfg textoff=0 pos=all rule=シャッター左から time=400]::
+27003::$$$message_0200_0053_0000$$$::"Thanks for all that. See you tomorrow, Tohsaka."[lr]::
+27004::$$$message_0200_0053_0001$$$::I leave the guestroom.[lr]::
+27005::$$$message_0200_0053_0002$$$::Tohsaka doesn't reply right away. She sighs quietly.[lr]::
+27006::$$$message_0200_0053_0003$$$::"Hey. [wvl canskip=false time=800]Isn't it nice that everyone's here?"[lr]::
+27007::$$$message_0200_0053_0004$$$::With an ephemeral smile, she echoes my thoughts.::
+926922::$$$message_9200_0021_0002$$$::"...You know it, don't you? If the war really picked up where we left off, then we would be missing people."[r]::
+

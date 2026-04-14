@@ -1,0 +1,92 @@
+DAT
+id=qid::label=str::text=lstr::
+7274::$$$message_0050_0000_0000$$$::I leave the main temple and make for the forest behind it.[lr]::
+7275::$$$message_0050_0000_0001$$$::I'm fond of taking walks on this back road.[lr]::
+7276::$$$message_0050_0000_0002$$$::I avoid the route that leads to the large cemetery, taking the scenic route.[lr]::
+7277::$$$message_0050_0000_0003$$$::When, suddenly...[lr]::
+7278::$$$message_0050_0000_0004$$$::"...[wait canskip=0 time=1000][say storage=ryu0304_rad_0000 name=ライダー]Is that really you, Shirou?"[lr]::
+7279::$$$message_0050_0000_0005$$$::...a familiar voice calls out to me.::
+7280::$$$message_0050_0001_0000$$$::"Huh, Rider? Why are you here?"[wvs][se storage=se048.wav][lr]::
+7281::$$$message_0050_0001_0001$$$::"...I came to check out something I was curious about."[lr]::
+7282::$$$message_0050_0001_0002$$$::Rider appears from the other side of a thicket.[lr]::
+7283::$$$message_0050_0001_0003$$$::...I unconsciously stiffen at the sight of her familiar black dress.[lr]::
+7284::$$$message_0050_0001_0004$$$::Given past experience, I tense up on reflex.::
+7285::$$$message_0050_0002_0000$$$::"...Shirou, what are you doing here?"[lr]::
+7286::$$$message_0050_0002_0001$$$::"Huh? I was just taking a walk... Issei lives at the temple, and I've always taken walks back here.[lr]::
+7287::$$$message_0050_0002_0002$$$::What were you curious about, Rider...?"::
+7288::$$$message_0050_0003_0000$$$::"..."[lr]::
+7289::$$$message_0050_0003_0001$$$::Rider goes silent.[lr]::
+7290::$$$message_0050_0003_0002$$$::...I can feel her gaze boring into me intently from behind her blindfold.[lr]::
+7291::$$$message_0050_0003_0003$$$::It isn't exactly murderous, but it's cold, bordering on hostile.[lr]::
+7292::$$$message_0050_0003_0004$$$::...What is it they say about walking into a lion's den? I feel pinned by her gaze, even though she isn't using her Mystic Eyes on me.::
+7293::$$$message_0050_0004_0000$$$::"...Nothing. I must have misunderstood the situation. You would leave traces of your presence here if you frequented this path."[lr]::
+7294::$$$message_0050_0004_0001$$$::"Rider...?"[lr]::
+7295::$$$message_0050_0004_0002$$$::"Pardon me, Shirou.[lr]::
+7296::$$$message_0050_0004_0003$$$::...I hope you'll forget this incident."::
+7297::$$$message_0050_0005_0000$$$::The tension slowly drains from my body.[lr]::
+7298::$$$message_0050_0005_0001$$$::Rider smiles softly, as if to move on from that awkward moment.[lr]::
+7299::$$$message_0050_0005_0002$$$::"...I won't forget it just because you asked.[lr]::
+7300::$$$message_0050_0005_0003$$$::But I guess I shouldn't ask what you're doing here."::
+7301::$$$message_0050_0006_0000$$$::"No, I don't mind.[lr]::
+7302::$$$message_0050_0006_0001$$$::...I came here because I sensed a disruption in the leylines. This is Caster's territory, and accordingly fraught with her magecraft, but the distortion I sensed isn't one of her workings.[lr]::
+7303::$$$message_0050_0006_0002$$$::I suspected it might be the doing of another Master or Servant, but that also doesn't seem to be the case."::
+7304::$$$message_0050_0007_0000$$$::"Another Servant... Did you end up fighting Assassin at the gate?"[lr]::
+7305::$$$message_0050_0007_0001$$$::"No. He simply greeted me and allowed me to pass."[lr]::
+7306::$$$message_0050_0007_0002$$$::"Greeted you? Like, with a 'hello'?"[lr]::
+7307::$$$message_0050_0007_0003$$$::Rider nods.[lr]::
+7308::$$$message_0050_0007_0004$$$::...That's some gatekeeper.[lr]::
+7309::$$$message_0050_0007_0005$$$::Assassin must be pretty confident in his ability to sense killing intent.::
+7310::$$$message_0050_0008_0000$$$::"...I'm sorry.[l][say storage=ryu0304_rad_0081 name=ライダー]::
+7311::$$$message_0050_0008_0001$$$:: My appearance must be making you uneasy, Shirou.[l][say storage=ryu0304_rad_0082 name=ライダー]::
+7312::$$$message_0050_0008_0002$$$:: This helps me focus on my work, but if it bothers you, should I change back into my usual outfit?"[lr]::
+7313::$$$message_0050_0008_0003$$$::"Oh, uh, no need for that.[l][say storage=ryu0304_shi_0061 name=士郎]::
+7314::$$$message_0050_0008_0004$$$:: More importantly, what kind of leyline distortion are we talking about?"[lr]::
+7315::$$$message_0050_0008_0005$$$::"...Can't you feel it, Shirou?"::
+7316::$$$message_0050_0009_0000$$$::At her suggestion, I sharpen my senses.[lr]::
+7317::$$$message_0050_0009_0001$$$::...I can't sense magical energy, but I'm confident in my ability to notice changes in my surroundings and the seams in the world.[lr]::
+7318::$$$message_0050_0009_0002$$$::With senses, not spells[line len=2]with instinct, not theory[line len=2]I feel the entire structure of the mountain.::
+7319::$$$message_0050_0010_0000$$$::"...First, I can feel a dense spiritual aura covering the entire mountain. That's to be expected, thanks to Fuyuki's leylines...but there's a different current that seems to overlap with it. It's cleverly concealed, but I'm guessing this is Caster's Bounded Field.[lr]::
+7320::$$$message_0050_0010_0001$$$::Other than that...I don't feel anything else abnormal."::
+7321::$$$message_0050_0011_0000$$$::I look up.[lr]::
+7322::$$$message_0050_0011_0001$$$::...Rider pauses to think. She looks frustrated.::
+7323::$$$message_0050_0012_0000$$$::"...I see.[lr]::
+7324::$$$message_0050_0012_0001$$$::If you cannot perceive it, then the problem may lie with me, rather than the mountain.[lr]::
+7325::$$$message_0050_0012_0002$$$::...I am an aberrant being, so I must be closer to this side than I imagined."::
+7326::$$$message_0050_0013_0000$$$::Closer to this side.[lr]::
+7327::$$$message_0050_0013_0001$$$::That sounds...ominous.[lr]::
+7328::$$$message_0050_0013_0002$$$::Rider bites her lip for a second, then lightly shakes her head and turns back to me.::
+7329::$$$message_0050_0014_0000$$$::"There's no need to concern yourself with it, Shirou. It has nothing to do with you.[lr]::
+7330::$$$message_0050_0014_0001$$$::I was originally a divinity related to the earth, so I am sensitive to leyline disruptions. I must have overreacted to my unease this time.[lr]::
+7331::$$$message_0050_0014_0002$$$::...Yes, if I consider it calmly, it really is not worth mentioning. It is a small, insignificant discomfort, like a mosquito landing on one's shoulder... Even if it were to harm me, I could dispel it in an instant."::
+7332::$$$message_0050_0015_0000$$$::...Rider's unusually talkative.[lr]::
+7333::$$$message_0050_0015_0001$$$::It almost sounds like she's trying to convince herself to forget her worries.::
+7334::$$$message_0050_0016_0000$$$::"...But it still feels wrong, doesn't it? Is it...because the Holy Grail War has resumed?"::
+7335::$$$message_0050_0017_0000$$$::"Don't worry. This is a personal problem. It won't bring harm to you or Sakura.[lr]::
+7336::$$$message_0050_0017_0001$$$::...And even if it does, as one of its ilk, I will..."[lr]::
+7337::$$$message_0050_0017_0002$$$::She's saying she'll protect us.[lr]::
+7338::$$$message_0050_0017_0003$$$::As if in penance for past sins, Rider muttered.::
+7339::$$$message_0050_0018_0000$$$::"...Rider? You're acting weird. Are you all right?[lr]::
+7340::$$$message_0050_0018_0001$$$::If something's bothering you...well, everyone has their own troubles, so I won't pressure you to tell me. But if there's anything you want to talk about, I'll do my best to help."::
+7341::$$$message_0050_0019_0000$$$::"Huh? ...Ah, no, I was just thinking out loud. It only affects me, not you or Sakura, and it isn't your problem, so..."::
+7342::$$$message_0050_0020_0000$$$::Rider trips over her own words, flustered.[lr]::
+7343::$$$message_0050_0020_0001$$$::...Seeing her this way makes me smile, even if I feel a little guilty about it.[lr]::
+7344::$$$message_0050_0020_0002$$$::She normally feels so much older than me, but right now, I could see her as a girl my age.::
+7345::$$$message_0050_0021_0000$$$::"A-anyway, you can count on me to protect Sakura."[lr]::
+7346::$$$message_0050_0021_0001$$$::"...Yeah. Thanks, Rider."[lr]::
+7347::$$$message_0050_0021_0002$$$::The gesture of trust makes me smile despite myself.[lr]::
+7348::$$$message_0050_0021_0003$$$::If Sakura has Rider with her, she will be fine no matter what.::
+7349::$$$message_0050_0022_0000$$$::"No, thank [font italic=true]you.[font italic=false][lr]::
+7350::$$$message_0050_0022_0001$$$::...Also, I wasn't supposed to say this, but Sakura isn't the only one I intend to protect. You're included as well, Shirou."[lr]::
+7351::$$$message_0050_0022_0002$$$::"Huh? But why?"[lr]::
+7352::$$$message_0050_0022_0003$$$::Rider's supposed to be Sakura's Servant.::
+7353::$$$message_0050_0023_0000$$$::"......[lr]::
+7354::$$$message_0050_0023_0001$$$::Never mind. I just meant that I can protect you while I protect Sakura, too."[lr]::
+7355::$$$message_0050_0023_0002$$$::Rider turns away, looking unhappy.[lr]::
+7356::$$$message_0050_0023_0003$$$::That's weird... Did I say anything to upset her?::
+7357::$$$message_0050_0024_0000$$$::"I think it's about time I take my leave now. What will you do, Shirou?"[lr]::
+7358::$$$message_0050_0024_0001$$$::"I'm going to walk a little longer around the temple. [l][say storage=ryu0304_shi_0121 name=士郎]Oh, do you want to come pay your respects?"::
+7359::$$$message_0050_0025_0000$$$::"...Would my prayer for Sakura's safety not offend the spirits enshrined here?"[lr]::
+7360::$$$message_0050_0025_0001$$$::"Why would it? Come on, I'll teach you the proper way to do it."[lr]::
+7361::$$$message_0050_0025_0002$$$::"I'd appreciate that. [cacheimage storage=ライダー私服01c(中)][wvl canskip=0 time=400][chgfg time=500 storage=ライダー私服01c(中) textoff=1]Then, if you wouldn't mind giving me a tour of the temple..."::
+907280::$$$message_9050_0001_0000$$$::"Huh, Rider? Why are you here?"[r]::
+

@@ -1,0 +1,98 @@
+DAT
+id=qid::label=str::text=lstr::
+3385::$$$message_0024_0000_0000$$$::"Shirou, are you making sure to do your homework?"[lr]::
+3386::$$$message_0024_0000_0001$$$::Fuji-nee brings up schoolwork while lazily munching on a rice cracker.::
+3387::$$$message_0024_0001_0000$$$::She's still a diligent English teacher at heart, even if she lets herself go in other ways.[lr]::
+3388::$$$message_0024_0001_0001$$$::You could say she generally goes with the flow, gets excited when things are loud, and becomes calm when things are quiet.::
+3389::$$$message_0024_0002_0000$$$::"Yeah, I am. I'll get it all done after the break ends."[lr]::
+3390::$$$message_0024_0002_0001$$$::"Really? Well, good, but don't show your work to the other kids. It's for their own good, so say no even if they ask to see your homework."::
+3391::$$$message_0024_0003_0000$$$::"I'll try."[lr]::
+3392::$$$message_0024_0003_0001$$$::So I say, but anyone who asks to see my homework is in for a rough time.[lr]::
+3393::$$$message_0024_0003_0002$$$::Usually, around half of my answers are wrong.[lr]::
+3394::$$$message_0024_0003_0003$$$::If they know that and ask me anyway, then it could just mean that they're pawning off their own responsibility.::
+3395::$$$message_0024_0004_0000$$$::"Good. It's not like I won't punish you just because you've never done it before, so don't think of it as helping people out.[l][say storage=emi0251_tig_0021 name=藤ねえ][rep tops=,71 storages=藤09a腕b(中),セイバー私服01a(中) time=300 opacities=,0 lefts=,-243 poss=c, bg=i衛宮邸居間(fd) indexes=1000,2000] The problem is when people can't figure out how to solve problems on their own when they're in trouble."::
+3396::$$$message_0024_0005_0000$$$::What an exceedingly respectable opinion for a teacher to have.[lr]::
+3397::$$$message_0024_0005_0001$$$::Of course, she says it while her hand wanders the table questing for a new snack and her eyes are glued to the TV.[lr]::
+3398::$$$message_0024_0005_0002$$$::Saber moves the plate of tea snacks into Fuji-nee's searching hand.[lr]::
+3399::$$$message_0024_0005_0003$$$::The tiger teacher crunches down on the next rice cracker.::
+3400::$$$message_0024_0006_0000$$$::"Shirou."[lr]::
+3401::$$$message_0024_0006_0001$$$::"What, Saber?"[lr]::
+3402::$$$message_0024_0006_0002$$$::"Is Taiga talking about your school?"[lr]::
+3403::$$$message_0024_0006_0003$$$::"Yeah."[lr]::
+3404::$$$message_0024_0006_0004$$$::Saber's sitting next to Fuji-nee. She turns to me.::
+3405::$$$message_0024_0007_0000$$$::"I'm simply curious, what sort of place is the school that you attend?[lr]::
+3406::$$$message_0024_0007_0001$$$::Ah, I have been there before, so I know what the buildings are like, but..."[lr]::
+3407::$$$message_0024_0007_0002$$$::"Um..."[lr]::
+3408::$$$message_0024_0007_0003$$$::That's not an easy question to answer.::
+3409::$$$message_0024_0008_0000$$$::"I think it's just a normal school.[lr]::
+3410::$$$message_0024_0008_0001$$$::I don't think it takes its clubs as seriously as other schools, though."::
+3411::$$$message_0024_0009_0000$$$::"A normal school?"[lr]::
+3412::$$$message_0024_0009_0001$$$::"Yeah. That's all. It's not like we have a problem with gangs, or anything.[lr]::
+3413::$$$message_0024_0009_0002$$$::How else should I explain it... Hm?"[lr]::
+3414::$$$message_0024_0009_0003$$$::I sip my tea and remember something.[lr]::
+3415::$$$message_0024_0009_0004$$$::Fuji-nee's here, so I lower my voice.::
+3416::$$$message_0024_0010_0000$$$::"...Hey. I thought you said that Servants gain common knowledge about the world when they're summoned."[lr]::
+3417::$$$message_0024_0010_0001$$$::"Yes, but I wasn't asking about the institution, but what sort of place [font italic=true]your[font italic=false] school, Homurahara, is."[lr]::
+3418::$$$message_0024_0010_0002$$$::"Hmm..."[lr]::
+3419::$$$message_0024_0010_0003$$$::I see, that's what she meant. Then I'll try a different angle.::
+3420::$$$message_0024_0011_0000$$$::"Hey, Saber."[lr]::
+3421::$$$message_0024_0011_0001$$$::[chgfg time=300 storage=セイバー私服04e(中) textoff=0]Fuji-nee turns away from the TV.::
+3422::$$$message_0024_0012_0000$$$::"Yes?"[lr]::
+3423::$$$message_0024_0012_0001$$$::"If you're curious, you could come by the school for a tour."::
+3424::$$$message_0024_0013_0000$$$::"Are you sure, Taiga?"::
+3425::$$$message_0024_0014_0000$$$::"I don't really mind. I'm sure you won't cause any problems. [cacheimage storage=藤08a(中)][wvl][chgfg time=300 storage=藤08a(中) textoff=0]I guess we can't let you walk around by yourself, though."[lr]::
+3426::$$$message_0024_0014_0001$$$::...Right, she would need a guide.::
+3427::$$$message_0024_0015_0000$$$::"Hey Fuji-nee, who usually gives campus tours?"[lr]::
+3428::$$$message_0024_0015_0001$$$::"Hmm, I'm not sure. I think the vice-principal does when VIPs visit."::
+3429::$$$message_0024_0016_0000$$$::"Fuji-nee, try to remember.[lr]::
+3430::$$$message_0024_0016_0001$$$::I can't let Saber go if we don't know who will be her guide. It needs to be someone we can trust."::
+3431::$$$message_0024_0017_0000$$$::Saber might be the most comfortable going with Fuji-nee, but I'm not okay with that at all.[lr]::
+3432::$$$message_0024_0017_0001$$$::The only other people qualified to be tour guides who I'd feel comfortable entrusting Saber to are probably Issei, the student council president or his faculty advisor, Mr. Kuzuki.::
+3433::$$$message_0024_0018_0000$$$::"What are you talking about, Shirou?"[lr]::
+3434::$$$message_0024_0018_0001$$$::"If Saber's going to tour the campus, I want someone I'm comfortable with to be her guide."::
+3435::$$$message_0024_0019_0000$$$::"Why do we have to ask someone else?[lr]::
+3436::$$$message_0024_0019_0001$$$::You're obviously the best person to give her a tour."[lr]::
+3437::$$$message_0024_0019_0002$$$::"...Huh? Wait, really?"[lr]::
+3438::$$$message_0024_0019_0003$$$::Is it really all right for a regular student to be a tour guide...?::
+3439::$$$message_0024_0020_0000$$$::"Sure. You don't want to?"[lr]::
+3440::$$$message_0024_0020_0001$$$::"Of course, I'm fine with it."[lr]::
+3441::$$$message_0024_0020_0002$$$::In fact, I wanted to do it all along, but I didn't think it was possible.::
+3442::$$$message_0024_0021_0000$$$::"Then there's no problem. [l][say storage=emi0251_tig_0101 name=藤ねえ]You worry about the strangest things sometimes."::
+3443::$$$message_0024_0022_0000$$$::"...Taiga, is this really all right?[lr]::
+3444::$$$message_0024_0022_0001$$$::I feel that it could be troublesome if I went."[lr]::
+3445::$$$message_0024_0022_0002$$$::"Saber, when a grown-up says it's okay, children don't need to worry so much."[lr]::
+3446::$$$message_0024_0022_0003$$$::Wow, Fuji-nee's in full grown-up mode this morning.[lr]::
+3447::$$$message_0024_0022_0004$$$::It's a good thing only Saber and I are here to see it.::
+3448::$$$message_0024_0023_0000$$$::"And you're fine giving me a tour, Shirou?"[lr]::
+3449::$$$message_0024_0023_0001$$$::"Yeah. You'd want to go with someone you know, right?"::
+3450::$$$message_0024_0024_0000$$$::"Well, yes."[lr]::
+3451::$$$message_0024_0024_0001$$$::"...Hey, Fuji-nee. [cacheimage storage=藤01d(中)][wvl][chgfg time=200 storage=藤01d(中) textoff=0]What are you grinning at?"[lr]::
+3452::$$$message_0024_0024_0002$$$::Gah, I let my guard down.[lr]::
+3453::$$$message_0024_0024_0003$$$::Fuji-nee changes from grown-up mode to tiger mode at the drop of a hat!::
+3454::$$$message_0024_0025_0000$$$::"I'm just thinking, what's the point if it isn't you?[lr]::
+3455::$$$message_0024_0025_0001$$$::Saber's interested in [font italic=true]your[font italic=false] school, so it would be no fun if someone else gave her the tour."::
+3456::$$$message_0024_0026_0000$$$::"T-[shock vmax=20 time=300 count=-3]Taiga, what is this nonsense!?[lr]::
+3457::$$$message_0024_0026_0001$$$::I am curious about Shirou's place of learning, not some specific part of his lifestyle[line len=2]"::
+3458::$$$message_0024_0027_0000$$$::"Uh-huh, no need to blush. I get it, I do. Really."[lr]::
+3459::$$$message_0024_0027_0001$$$::"No you don't! Even if you were right, it would be rude of me to be choosy about my guide!"::
+3460::$$$message_0024_0028_0000$$$::"Taiga, I'm grateful for your suggestion, but I don't like that you connect everything I say to Shirou.[lr]::
+3461::$$$message_0024_0028_0001$$$::I'm happy to see where he goes to school, but anyone can be my guide..."::
+3462::$$$message_0024_0029_0000$$$::...This is starting to turn into a petty argument.[lr]::
+3463::$$$message_0024_0029_0001$$$::If I leave things be, things are undoubtedly going to go in a bad direction.::
+3464::$$$message_0024_0030_0000$$$::"Okay, that's enough.[lr]::
+3465::$$$message_0024_0030_0001$$$::So when's this happening?"[lr]::
+3466::$$$message_0024_0030_0002$$$::"Hm? Well, I have some business at the kyudo club later, so I can just ask while I'm there."::
+3467::$$$message_0024_0031_0000$$$::"All right. That good with you, Saber?[lr]::
+3468::$$$message_0024_0031_0001$$$::I guess a weekday...wouldn't work. Next time, I'll make plenty of time to show you around on a holiday. If you're okay with me being your guide, that is."::
+3469::$$$message_0024_0032_0000$$$::"Ah, yes... I would feel easier having you as my guide."[lr]::
+3470::$$$message_0024_0032_0001$$$::"?"[lr]::
+3471::$$$message_0024_0032_0002$$$::Somehow, it sounds like Saber's heart isn't in it.[lr]::
+3472::$$$message_0024_0032_0003$$$::...I wonder if Fuji-nee's assumption really put her off.::
+3473::$$$message_0024_0033_0000$$$::"...Let us go on a holiday, then.[lr]::
+3474::$$$message_0024_0033_0001$$$::Please make the plans soon, Taiga."[lr]::
+3475::$$$message_0024_0033_0002$$$::Okay, I'm glad that Saber isn't actually against it, at least.[lr]::
+3476::$$$message_0024_0033_0003$$$::I breathe a sigh of relief.[lr]::
+3477::$$$message_0024_0033_0004$$$::That's another plan made.[lr]::
+3478::$$$message_0024_0033_0005$$$::Once, I'm ready and fired up, I'll give Saber a proper tour of the school...::
+903456::$$$message_9024_0026_0000$$$::"T-Taiga, what is this nonsense!?"[r]::
+

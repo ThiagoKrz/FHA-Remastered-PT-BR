@@ -1,0 +1,114 @@
+DAT
+id=qid::label=str::text=lstr::
+12253::$$$message_0098_0000_0000$$$::Tohsaka volta.[lr]::
+12254::$$$message_0098_0000_0001$$$::Vou tentar espiar para ver o que ela está fazendo.::
+12255::$$$message_0098_0001_0000$$$::"Desculpe... Ah, ela saiu?"[lr]::
+12256::$$$message_0098_0001_0001$$$::Não há resposta até que eu suba no porão.[lr]::
+12257::$$$message_0098_0001_0002$$$::Ela saiu deixando a porta aberta... Não, acho que isso não aconteceria com a Tohsaka.[lr]::
+12258::$$$message_0098_0001_0003$$$::"Ei, Tohsaka."[lr]::
+12259::$$$message_0098_0001_0004$$$::Sinto a presença de alguém no segundo andar.[lr]::
+12260::$$$message_0098_0001_0005$$$::Vou subindo as escadas como se fosse meu próprio lugar...::
+12261::$$$message_0098_0002_0000$$$::"O que? Emiya, você estava aqui?"[lr]::
+12262::$$$message_0098_0002_0001$$$::Ah, ela está aqui de fato.[lr]::
+12263::$$$message_0098_0002_0002$$$::Vou até o quarto da Tohsaka no segundo andar e finalmente a vejo de frente.::
+12264::$$$message_0098_0003_0000$$$::"Desculpe, eu tinha estado chamando por você, mas não havia resposta, então vim sem permissão."[lr]::
+12265::$$$message_0098_0003_0001$$$::"Você não pensa na possibilidade de eu estar fora, é?[lr]::
+12266::$$$message_0098_0003_0002$$$::Bem, acho que você não teria vindo aqui primeiro se fosse o caso."[lr]::
+12267::$$$message_0098_0003_0003$$$::Isso é totalmente natural.[lr]::
+12268::$$$message_0098_0003_0004$$$::...E não consigo deixar de ficar confuso com o horrível espetáculo quando olho dentro do seu quarto.::
+12269::$$$message_0098_0004_0000$$$::"...Parece que as coisas estão ficando bastante ruins."[lr]::
+12270::$$$message_0098_0004_0001$$$::"Paci entrei uma semana de coisas dentro daí."::
+12271::$$$message_0098_0005_0000$$$::A tampa está aberta.[lr]::
+12272::$$$message_0098_0005_0001$$$::O que estava disposto não parece ter sido dentro de uma caixa.[lr]::
+12273::$$$message_0098_0005_0002$$$::Mesmo olhando no volume da mala, tem cerca de duas vezes a quantidade.::
+12274::$$$message_0098_0006_0000$$$::"...Você usou taumaturgia nesse tronco?"[lr]::
+12275::$$$message_0098_0006_0001$$$::"Pensei também em coisas convenientes como aquela, [cacheimage storage=凛私服06f(中)][wvl][chgfg time=300 storage=凛私服06f(中) textoff=0]mas me envergonharia no aeroporto se errasse no reforço da distorção da capacidade."::
+12276::$$$message_0098_0007_0000$$$::[move textoff=0 time=50 path=(240,254,255)(238,252,255)(240,256,255)(235,255,255)(235,251,255)(237,254,255)(236,256,255)(234,256,255)(238,256,255)(237,253,255)(237,254,255)(235,255,255)(237,257,255)(234,259,255)(237,254,255)(240,257,255)(239,254,255)(238,258,255) storage=021a_rinnpon accel=0]Se a caixa de som explodisse, não seria só um embaraço. [wm canskip=0][movefg textoff=0 opacity=0 left=280 top=230 time=200 accel=0 storage=021a_rinnpon][move textoff=0 time=120 path=(211,-20,255)(212,14,255)(213,27,255)(214,18,255) storage=021b_rinnpon accel=0][move textoff=0 time=150 path=(71,262,180)(48,301,180) storage=022d_人影 accel=0][move textoff=0 time=110 path=(562,232,180)(588,296,180)(598,263,180) storage=022e_人影 accel=0 spline=1][move textoff=0 time=140 path=(655,58,160)(670,79,160)(674,67,160)(682,70,160) storage=022b_人影 accel=0][move textoff=0 time=450 path=(115,-7,120) storage=022a_人影 accel=-2][move textoff=0 time=120 path=(-3,-36,160)(3,100,160)(3,100,160)(3,100,160)(-12,67,160)(-22,94,160) storage=022c_人影 accel=0][sestop time=700 nowait=true]Mais do que vergonha e coisas assim, [se storage=se240.wav][sestop time=1500 nowait=true][se storage=se300.wav]a taumaturgia ser vista por muitas pessoas é uma situação que deve ser evitada ao máximo. [wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][lr]::
+12277::$$$message_0098_0007_0001$$$::[nolr]Aqueles que são mages não querem ser perseguidos pela Associação por um único erro descuidado.::
+12278::$$$message_0098_0008_0000$$$::"Há uma técnica para empacotar coisas, então isso deve conseguir caber."[lr]::
+12279::$$$message_0098_0008_0001$$$::"...Pensando bem, meu velho também era louco."[lr]::
+12280::$$$message_0098_0008_0002$$$::[chgfg time=300 storage=凛私服03a(中) textoff=0]Kiritsugu viajaria com malas mais leves, mas a capacidade das malas e a quantidade de bagagem não eram proporcionais.[lr]::
+12281::$$$message_0098_0008_0003$$$::É uma habilidade especial como viajante?::
+12282::$$$message_0098_0009_0000$$$::"Então você vai trocar de trem e andar por pavers de pedra carregando essa vala, hein? Viajar para fora do país é um trabalho pesado."[lr]::
+12283::$$$message_0098_0009_0001$$$::Desloco casualmente o olhar para a janela, pensando que talvez haja algumas coisas que ela não quer que eu veja, comigo invadindo seu quarto de repente.[lr]::
+12284::$$$message_0098_0009_0002$$$::...Foi minha intenção, mas minha inconsciência foi tão óbvia que a Tohsaka puxa meu queixo, como se dissesse que não se importa.::
+12285::$$$message_0098_0010_0000$$$::"Além do caminho que fizemos, eu tinha mandado entregar na volta... Finalmente chegou, mas agora está assim."[lr]::
+12286::$$$message_0098_0010_0001$$$::...É. Limpar as malas depois de uma viagem divertida é um trabalho pesado.[lr]::
+12287::$$$message_0098_0010_0002$$$::Mesmo que fosse uma viagem que não fosse divertida. Deve ser por causa de ser uma garota que suas roupas são a maioria.[lr]::
+12288::$$$message_0098_0010_0003$$$::E tem bastante caixas dentro, embrulhadas em papel bonito...::
+12289::$$$message_0098_0011_0000$$$::"Eu não estava lá para passear, então não acho que tenha mais malas, mas eu errei."[lr]::
+12290::$$$message_0098_0011_0001$$$::"Você realmente comprou souvenirs, Tohsaka."[lr]::
+12291::$$$message_0098_0011_0002$$$::[clfg textoff=0 rule=シャッター左から time=300 pos=all]Mesmo que eu vá de viagem, o máximo que posso fazer são bolinhos de onda quente.[lr]::
+12292::$$$message_0098_0011_0003$$$::Mas... tenho uma grande sensação de que essa bagagem espalhada por aí permanecerá nesse estado trágico se alguém não tomar medidas drásticas para limpá-la.::
+12293::$$$message_0098_0012_0000$$$::Para ser honesto, Tohsaka é péssima em limpeza. Meu quarto de hóspede continua igual desde que ela veio morar aqui.[lr]::
+12294::$$$message_0098_0012_0001$$$::"Então, ajudarei um pouco."::
+12295::$$$message_0098_0013_0000$$$::"Okay, thanks."[lr]::
+12296::$$$message_0098_0013_0001$$$::Rin dá um sorriso forçado.[lr]::
+12297::$$$message_0098_0013_0002$$$::...Então.::
+12298::$$$message_0098_0014_0000$$$::"...Oh?"[lr]::
+12299::$$$message_0098_0014_0001$$$::Essa textura detalhada, branca de tecido é[line len=2][lr]::
+12300::$$$message_0098_0014_0002$$$::"Isso está fora de questão!"[rf][lr]::
+12301::$$$message_0098_0014_0003$$$::"...Meu erro."[lr]::
+12302::$$$message_0098_0014_0004$$$::Estou de cabeça para baixo no canto da sala, recebendo as repreensões da Tohsaka.[lr]::
+12303::$$$message_0098_0014_0005$$$::[movefg textoff=0 opacity=0 left=492 top=152 time=300 accel=0 layer=0]...Mas eu não tenho a menor ideia do que ela fez comigo. Foi o Gandr? Ou eu fui atingido diretamente por um movimento de artes marciais que ela aprendeu?[wm canskip=0]::
+12304::$$$message_0098_0015_0000$$$::"Quantos tempo você planeja ficar de cabeça para baixo, Shirou?"[lr]::
+12305::$$$message_0098_0015_0001$$$::"...Você é quem me virou de cabeça para baixo.[lr]::
+12306::$$$message_0098_0015_0002$$$::É só um pouco menos..."[lr]::
+12307::$$$message_0098_0015_0003$$$::Sinto que o ataque da Tohsaka vai vir voando de novo se eu disser o resto.[lr]::
+12308::$$$message_0098_0015_0004$$$::Tratarei apenas daquela área como território proibido.::
+12309::$$$message_0098_0016_0000$$$::"...Por que você pegou algo tão estranho primeiro?"[lr]::
+12310::$$$message_0098_0016_0001$$$::"Estava pegando aleatoriamente."::
+12311::$$$message_0098_0017_0000$$$::"Tá, vou colocar bem onde você não vai encontrar da próxima vez.[lr]::
+12312::$$$message_0098_0017_0001$$$::Ugh, lavar isso vai ser um trabalho pesado também... Talvez eu deveria ter entregue diretamente no seu endereço depois de tudo."[lr]::
+12313::$$$message_0098_0017_0002$$$::Tohsaka diz algo tão calmo, mesmo com a nossa situação de roupas lavadas bastante complicada também.[lr]::
+12314::$$$message_0098_0017_0003$$$::Talvez eu precise que Sakura ou Rider suportem um extra de uma semana.::
+12315::$$$message_0098_0018_0000$$$::"Por que não fez isso?"[lr]::
+12316::$$$message_0098_0018_0001$$$::"Eu não sei por quê. Acho que queria fazer uma distinção clara entre o início e o fim da viagem... aquilo é só mais um peso na minha mente. [cacheimage storage=凛私服01e(中)][wvl][chgfg storage=凛私服01e(中) time=300 textoff=0]Assim como a própria forma de vida de alguém é uma jornada sem fim."::
+12317::$$$message_0098_0019_0000$$$::Essa mansão é seu quartel-general, e ela não consegue se separar dela.[lr]::
+12318::$$$message_0098_0019_0001$$$::Ela está morando aqui no fim, mas seu coração está aqui... Quando percebo isso, sinto um ar diferente vindo dessa honrosa mansão.[lr]::
+12319::$$$message_0098_0019_0002$$$::[chgfg time=300 storage=凛私服08d(中) textoff=0]Tohsaka encara a montanha de coisas...::
+12320::$$$message_0098_0020_0000$$$::"Na verdade, eu mesmo vou arrumar. Se eu te bater de novo, vou ficar cansado."[lr]::
+12321::$$$message_0098_0020_0001$$$::"...Desculpe, vou preparar um pouco de chá."[lr]::
+12322::$$$message_0098_0020_0002$$$::"Hmm? Está tudo bem, vai esfriar até eu terminar de limpar e vai acabar em vão."[lr]::
+12323::$$$message_0098_0020_0003$$$::Acho que é verdade.[lr]::
+12324::$$$message_0098_0020_0004$$$::Vai ser estranho para mim só estar tomando chá enquanto a Tohsaka limpa.::
+12325::$$$message_0098_0021_0000$$$::"Tem algo que eu possa fazer? Tipo limpar ou preparar o almoço?"[lr]::
+12326::$$$message_0098_0021_0001$$$::"Vou te chamar se tiver algo a fazer. Por enquanto... também vai levar um tempo."[lr]::
+12327::$$$message_0098_0021_0002$$$::...Então não há razão para eu continuar morando no lugar da Tohsaka.[lr]::
+12328::$$$message_0098_0021_0003$$$::Tá tudo bem, posso só vir ver como a Tohsaka está depois.::
+12329::$$$message_0098_0022_0000$$$::"Então, eu vou me desculpar primeiro. Então, de fato, não há nada disso?"[lr]::
+12330::$$$message_0098_0022_0001$$$::"Você se tornou cauteloso. Desejo saber quem te ensinou isso..."[lr]::
+12331::$$$message_0098_0022_0002$$$::[chgfg time=300 storage=凛私服08d(中) textoff=0]Duvido, mas não há ninguém além da Tohsaka que possa me ensinar isso. Isso me faz querer arquear as sobrancelhas.[lr]::
+12332::$$$message_0098_0022_0003$$$::Então...::
+12333::$$$message_0098_0023_0000$$$::"Ah, sim, esqueci. Perfeita coincidência."[lr]::
+12334::$$$message_0098_0023_0001$$$::"Eu sabia.[lr]::
+12335::$$$message_0098_0023_0002$$$::Entendi."[lr]::
+12336::$$$message_0098_0023_0003$$$::[clfg rule=シャッター左から time=300 pos=all]...Enquanto me preparo, me perguntando qual tarefa difícil ela me está dizendo para fazer, [se storage=se422.wav]Tohsaka vai rumando por sua montanha de coisas procurando algo.::
+12337::$$$message_0098_0024_0000$$$::"Então?"[lr]::
+12338::$$$message_0098_0024_0001$$$::"Lá está. [cacheimage storage=凛私服03c(中)][wvl canskip=false time=300][chgfg storage=凛私服03c(中) time=300 textoff=0]Aqui."[lr]::
+12339::$$$message_0098_0024_0002$$$::"..."[lr]::
+12340::$$$message_0098_0024_0003$$$::Estou inquieto, segurando a sacola de papel branca que ela me deu.[lr]::
+12341::$$$message_0098_0024_0004$$$::Acho que tipo de trabalho tem com essa embalagem que parece ser de um departamento de luxo.::
+12342::$$$message_0098_0025_0000$$$::"Você não precisa fazer esse tipo de cara, é minha lembrança."[lr]::
+12343::$$$message_0098_0025_0001$$$::"...Para mim?[lr]::
+12344::$$$message_0098_0025_0002$$$::Ah, sim, obrigado. Até a próxima."[lr]::
+12345::$$$message_0098_0025_0003$$$::Isso me faz querer segurar a sacola de papel e correr embora. Não sei como devo agradecer a ela [chgfg time=300 storage=凛私服11e(中) textoff=0]com um ataque surpresa assim.[lr]::
+12346::$$$message_0098_0025_0004$$$::[chgfg time=300 storage=凛私服12b(中) textoff=0]Mas, Tohsaka me encara com descontentamento, tentando sair, irritada.::
+12347::$$$message_0098_0026_0000$$$::"Não é como se você estivesse me roubando, então abra e veja."[lr]::
+12348::$$$message_0098_0026_0001$$$::"Essa forma de dar presentes como se estivesse em um filme ou série é [line len=2]. Não importa, entendi. Desisto."[lr]::
+12349::$$$message_0098_0026_0002$$$::[se storage=se595.wav][se storage=se200.wav][chgfg time=300 storage=凛私服12a頬(中) textoff=0]Preciso me certificar de que não raspo em um jeito exibicionista, mas cuto a selagem e vejo o que tem dentro.[sestop time=3500 nowait=1][lr]::
+12350::$$$message_0098_0026_0003$$$::[chgfg time=300 storage=凛私服12d頬(中) textoff=0]...Um lenço de plaid. Parece leve ao ponto de não sentir nenhum peso, e parece quente só de vê-lo.::
+12351::$$$message_0098_0027_0000$$$::"...Você tem certeza? Não é caro?"[lr]::
+12352::$$$message_0098_0027_0001$$$::"E você vai fazer o que sabendo o preço? Está tudo bem, aqui também vai ficar frio."[lr]::
+12353::$$$message_0098_0027_0002$$$::"Sim, parece quente[line len=2]hm, não é um pouco longo?"[lr]::
+12354::$$$message_0098_0027_0003$$$::Eu acho que está um pouco mais do que o tamanho certo.[lr]::
+12355::$$$message_0098_0027_0004$$$::[chgfg time=300 storage=凛私服05b(中) textoff=0]Mas, acho que consigo mudar a forma como envolvo com esse comprimento.::
+12356::$$$message_0098_0028_0000$$$::"Estou deixando com você como quiser usar. Oh, por que não aquece Saber?"[lr]::
+12357::$$$message_0098_0028_0001$$$::"Que[line len=2]? Não, eu não faria isso, este é o que eu recebi de você!"[lr]::
+12358::$$$message_0098_0028_0002$$$::"Okay, okay, eu deixo isso com você. Use bem."[lr]::
+12359::$$$message_0098_0028_0003$$$::Eu calei a boca, ainda segurando a escarola.[lr]::
+12360::$$$message_0098_0028_0004$$$::Ainda é cedo demais para usar isso no outono de Fuyuki.[lr]::
+12361::$$$message_0098_0028_0005$$$::...Hmm, vou pegá-la de volta então.::
+12362::$$$message_0098_0029_0000$$$::"...Obrigado de novo."[lr]::
+12363::$$$message_0098_0029_0001$$$::"Você é bem-vindo, Shirou."::
+912277::$$$message_9098_0007_0001$$$::Aqueles que são mages não querem ser perseguidos pela Associação por um único erro descuidado.::lÑ::l�

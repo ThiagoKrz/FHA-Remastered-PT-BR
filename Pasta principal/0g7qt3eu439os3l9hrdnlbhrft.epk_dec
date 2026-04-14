@@ -1,0 +1,106 @@
+DAT
+id=qid::label=str::text=lstr::
+2075::$$$message_0010_0000_0000$$$::"Senpai? Do you have a moment?"[lr]::
+2076::$$$message_0010_0000_0001$$$::I hear Sakura's voice as I'm resting in my room.[lr]::
+2077::$$$message_0010_0000_0002$$$::"Come in," [movefg opacity=255 time=400 pos=r accel=0 storage=桜私服01a(中) textoff=0]I answer. Sakura peeks inside.[wm canskip=0]::
+2078::$$$message_0010_0001_0000$$$::"Huh? Did I forget to hang up the laundry?"[lr]::
+2079::$$$message_0010_0001_0001$$$::"No, it's not that... [cacheimage storage=桜私服07c(中)][wvl canskip=false time=300][chgfg storage=桜私服07c(中) time=300 textoff=0]What do you want to have for dinner tonight?"[lr]::
+2080::$$$message_0010_0001_0002$$$::"Eh? Oh, is it that time already?"::
+2081::$$$message_0010_0002_0000$$$::I jump to my feet.[lr]::
+2082::$$$message_0010_0002_0001$$$::We have to feed a lot of people on the weekends, so we'd better start prepping or we won't have enough time.::
+2083::$$$message_0010_0003_0000$$$::"Was it your turn to make dinner today?"[lr]::
+2084::$$$message_0010_0003_0001$$$::"Yes, so if you have any requests... [cacheimage storage=桜私服10g(中)][wvl canskip=false time=500][chgfg storage=桜私服10g(中) time=300 textoff=0]Oh, but I should ask Saber and Ms. Fujimura, too."[lr]::
+2085::$$$message_0010_0003_0002$$$::"Okay, I'll help."[lr]::
+2086::$$$message_0010_0003_0003$$$::I was starting to feel too lazy just sitting around, anyway.[lr]::
+2087::$$$message_0010_0003_0004$$$::It would be more worthwhile to spend my time helping Sakura.::
+2088::$$$message_0010_0004_0000$$$::"Um, but you're supposed to be resting..."[lr]::
+2089::$$$message_0010_0004_0001$$$::"I got plenty of rest.[lr]::
+2090::$$$message_0010_0004_0002$$$::...Hmm. Well, you're good enough that you don't need help anymore, so I might not have anything to do."::
+2091::$$$message_0010_0005_0000$$$::"Th-that's not true! I haven't mastered everything you have to teach me!"[lr]::
+2092::$$$message_0010_0005_0001$$$::"Glad to hear that.[lr]::
+2093::$$$message_0010_0005_0002$$$::Well, let's have a good time cooking."[lr]::
+2094::$$$message_0010_0005_0003$$$::"Senpai...that smile isn't fair..."[lr]::
+2095::$$$message_0010_0005_0004$$$::"Hm?"::
+2096::$$$message_0010_0006_0000$$$::"N-never mind! Okay! [cacheimage storage=桜私服09a(中)][wvl canskip=false time=200][chgfg storage=桜私服09a(中) time=300 textoff=0]Then please help me however you can!"::
+2097::$$$message_0010_0007_0000$$$::"Huh? This cardboard box..."[lr]::
+2098::$$$message_0010_0007_0001$$$::Sakura notices something and stops.[lr]::
+2099::$$$message_0010_0007_0002$$$::...Oh, the autumn fruit that Fuji-nee brought over.::
+2100::$$$message_0010_0008_0000$$$::"There's two boxes of persimmons inside. We'll have to eat them all together again."[lr]::
+2101::$$$message_0010_0008_0001$$$::"Are they a gift from Ms. Fujimura? I appreciate that, but... [cacheimage storage=桜私服08l(中)][wvl canskip=false time=400][se storage=se503.wav][chgfg storage=桜私服08l(中) time=300 textoff=0]Wow."::
+2102::$$$message_0010_0009_0000$$$::"There's so many... Is this all of them?"[lr]::
+2103::$$$message_0010_0009_0001$$$::"Apparently, she has even more at home."::
+2104::$$$message_0010_0010_0000$$$::"If they were apples, we could quickly finish them all up by using them to make pies and stuff... What can we do with persimmons?"::
+2105::$$$message_0010_0011_0000$$$::Hmm... [chgfg time=300 storage=桜私服08l(中) textoff=0]I might as well.[lr]::
+2106::$$$message_0010_0011_0001$$$::I start to pull the persimmons out of the box. They're big enough, so it should be okay.::
+2107::$$$message_0010_0012_0000$$$::"Sakura. Let's use these to cook today."[lr]::
+2108::$$$message_0010_0012_0001$$$::"These...? You mean [cacheimage storage=桜私服14c(中)][wvl canskip=false time=400][chgfg storage=桜私服14c(中) time=300 textoff=0]the persimmons!?"::
+2109::$$$message_0010_0013_0000$$$::"Yeah. They're just as versatile as apples. You can use them in salads, for one. [cacheimage storage=桜私服09b(中)][wvl][chgfg time=300 storage=桜私服09b(中) textoff=0]So we'll use these today."[lr]::
+2110::$$$message_0010_0013_0001$$$::It's my first time trying it, but it's about time I explored new menus. I pray to the gods of cooking for guidance.::
+2111::$$$message_0010_0014_0000$$$::"That sounds interesting."[lr]::
+2112::$$$message_0010_0014_0001$$$::"Pick a bunch of the firm ones to cook with...[cacheimage storage=桜私服07c(中)][wvl][chgfg time=300 storage=桜私服07c(中) textoff=0]and we'll save the softer ones for dessert."::
+2113::$$$message_0010_0015_0000$$$::"Got it!"::
+2114::$$$message_0010_0016_0000$$$::Sakura uses her skirt as a basket to hold the persimmons.[lr]::
+2115::$$$message_0010_0016_0001$$$::...It's such a feminine gesture.[lr]::
+2116::$$$message_0010_0016_0002$$$::I'm slightly jealous of the persimmons that get to lie on her skirt like that.::
+2117::$$$message_0010_0017_0000$$$::"Senpai, what will the menu be?"[lr]::
+2118::$$$message_0010_0017_0001$$$::Sakura asks me as she begins to wash the rice.[lr]::
+2119::$$$message_0010_0017_0002$$$::I suggested using the persimmons, but now I'm just standing with my arms folded in front of a mountain of fruit on the cutting board.[lr]::
+2120::$$$message_0010_0017_0003$$$::"...Now that I think about it, there aren't as many persimmon recipes as I hoped."::
+2121::$$$message_0010_0018_0000$$$::"Should we start with a salad, then? We do have daikon."[lr]::
+2122::$$$message_0010_0018_0001$$$::"If we have daikon and persimmons, we could make namasu... But it's not good to decide on the side dish first."[lr]::
+2123::$$$message_0010_0018_0002$$$::[chgfg time=300 storage=桜私服07c(中) textoff=0]I stare at the persimmons, but no ideas come to mind.::
+2124::$$$message_0010_0019_0000$$$::I give up and root around in the refrigerator for any useful ingredients.[lr]::
+2125::$$$message_0010_0019_0001$$$::When I'm standing in front of a bunch of different ingredients, I start to match them up in my head.::
+2126::$$$message_0010_0020_0000$$$::"This and this... [wvl][se storage=se250.wav]We could use this, too."[lr]::
+2127::$$$message_0010_0020_0001$$$::"Bacon? [cacheimage storage=桜私服08g(中)][wvl canskip=false time=400][chgfg storage=桜私服08g(中) time=300 textoff=0]Do you want to wrap and fry them? Like we do with asparagus or potatoes?"[lr]::
+2128::$$$message_0010_0020_0002$$$::I'm impressed that Sakura immediately knew what I was thinking, but she didn't pick up on the dumpling wrappers and cheese.::
+2129::$$$message_0010_0021_0000$$$::"We'll wrap and deep-fry these. Fry the persimmons together with evenly cut cheese using the dumpling wrappers."[lr]::
+2130::$$$message_0010_0021_0001$$$::"I see. Are we seasoning only with salt?"[lr]::
+2131::$$$message_0010_0021_0002$$$::"Yeah, they both have their own sweetness, so I don't want to smother that with soy sauce."[lr]::
+2132::$$$message_0010_0021_0003$$$::[chgfg time=300 storage=桜私服08l(中) textoff=0]Still, they're both quite simple dishes.[lr]::
+2133::$$$message_0010_0021_0004$$$::Neither of them can really count as a main dish.::
+2134::$$$message_0010_0022_0000$$$::"You're amazing, Senpai. I never would have thought of that.[lr]::
+2135::$$$message_0010_0022_0001$$$::Then, tonight's menu will be..."[lr]::
+2136::$$$message_0010_0022_0002$$$::"Persimmon salad or vegetable mix, fried persimmon dumplings, persimmons wrapped in bacon..."::
+2137::$$$message_0010_0023_0000$$$::"Hmm..."[lr]::
+2138::$$$message_0010_0023_0001$$$::Sakura seems to find it lacking.[lr]::
+2139::$$$message_0010_0023_0002$$$::I know what she's thinking. Our dinner table doesn't feel quite complete.::
+2140::$$$message_0010_0024_0000$$$::"We can't use persimmons in miso soup... [cacheimage storage=桜私服08h(中)][wvl canskip=false time=300][chgfg storage=桜私服08h(中) time=300 textoff=0]Oh, what if we mix persimmons into the rice to make mazesushi?"[lr]::
+2141::$$$message_0010_0024_0001$$$::"That could work, but we're still missing a main course.[lr]::
+2142::$$$message_0010_0024_0002$$$::So I have a task for you, Chef Matou."[lr]::
+2143::$$$message_0010_0024_0003$$$::I raise my voice to a professor-like timbre, and Sakura suddenly stands up straight.::
+2144::$$$message_0010_0025_0000$$$::"At your service, Head Chef Emiya, sir!"[lr]::
+2145::$$$message_0010_0025_0001$$$::"Good response. Thanks.[lr]::
+2146::$$$message_0010_0025_0002$$$::So, tonight's menu concept is 'we're going to be selfish.'"[lr]::
+2147::$$$message_0010_0025_0003$$$::"I see, sir! So that is the concept!"[lr]::
+2148::$$$message_0010_0025_0004$$$::Chef Matou stares at me eagerly.::
+2149::$$$message_0010_0026_0000$$$::"And I've been thinking about letting you develop the main course."[lr]::
+2150::$$$message_0010_0026_0001$$$::"Yes, you've been thinking[line len=2]wait, whaaaat!?"[lr]::
+2151::$$$message_0010_0026_0002$$$::Sakura's astonished to have such a big responsibility.::
+2152::$$$message_0010_0027_0000$$$::"W-well... [cacheimage storage=桜私服12a(中)][wvl canskip=false time=300][chgfg storage=桜私服12a(中) time=200 textoff=0]I'm sorry Senpai, but I don't have any ideas..."[lr]::
+2153::$$$message_0010_0027_0001$$$::"You've got enough to work with, actually. Here's a hint: [cacheimage storage=桜私服12b(中)][wvl][chgfg storage=桜私服12b(中) time=200 textoff=0][font italic=true]we're going to be selfish[font italic=false]."[lr]::
+2154::$$$message_0010_0027_0002$$$::"Huh... Hmm... [resetwait][fg opacity=0 index=1000 time=200 pos=c storage=桜私服07c(中) textoff=0][wait mode=until canskip=false time=600][chgfg time=200 storage=桜私服12d(中) textoff=0 last=桜私服12a(中)][cacheimage storage=桜私服12d(中)][wvl canskip=false time=400]Oh. [wvl canskip=false time=300][movefg opacity=0 time=300 pos=r accel=1 storage=桜私服12d(中) textoff=0][wait canskip=false time=200][movefg opacity=255 time=400 pos=r accel=-2 storage=桜私服07c(中) textoff=0]Do you mean..."[wm canskip=0][wm canskip=0][se storage=se505.wav]::
+2155::$$$message_0010_0028_0000$$$::Sakura seems to have some idea.[lr]::
+2156::$$$message_0010_0028_0001$$$::She quickly pulls a pack of seafood out of the refrigerator. That's right, what I meant was...::
+2157::$$$message_0010_0029_0000$$$::"Oysters?"[lr]::
+2158::$$$message_0010_0029_0001$$$::"That's right, oysters... Call me selfish coming up with such 'low hanging fruit' jokes, but it is a shellfish, after all."[lr]::
+2159::$$$message_0010_0029_0002$$$::"I see, Senpai. That's ingenious.[lr]::
+2160::$$$message_0010_0029_0003$$$::I thought the pun was a little corny, but that's my mentor for you!"[lr]::
+2161::$$$message_0010_0029_0004$$$::"Argh."[lr]::
+2162::$$$message_0010_0029_0005$$$::My pupil has learned to zing me back.::
+2163::$$$message_0010_0030_0000$$$::"Let's get back on topic.[lr]::
+2164::$$$message_0010_0030_0001$$$::Did you buy these oysters in the fridge?"[lr]::
+2165::$$$message_0010_0030_0002$$$::"Yes. I know live ones with their shells intact are better, but..."[lr]::
+2166::$$$message_0010_0030_0003$$$::"Fresh enough to be eaten just with lemon, huh... I guess we can't afford to do that this time. So, how are you going to cook these? Fried?"[lr]::
+2167::$$$message_0010_0030_0004$$$::"Ah, I was thinking about using them in a gratin. Frying would work too, though."::
+2168::$$$message_0010_0031_0000$$$::Good, now our dinner concept has proper variety.[lr]::
+2169::$$$message_0010_0031_0001$$$::No one should complain now. I expect Fuji-nee to celebrate, in fact.::
+2170::$$$message_0010_0032_0000$$$::"Let's split up the work, then. You do the salad and gratin, and I'll work on the fried foods."[lr]::
+2171::$$$message_0010_0032_0001$$$::"But you'll be doing most of the work, then."[lr]::
+2172::$$$message_0010_0032_0002$$$::"You have to make a white sauce, so there's plenty of work to go around. [cacheimage storage=桜私服05d(中)][wvl][chgfg time=300 storage=桜私服05d(中) textoff=0]It's also easier if just one person controls the heat."::
+2173::$$$message_0010_0033_0000$$$::[chgfg time=300 storage=桜私服01c(中) textoff=0]We efficiently divide up the tasks and get to work.[lr]::
+2174::$$$message_0010_0033_0001$$$::When there's multiple people in the kitchen, you have to think about who uses the oven in what order. Cooking with even two people isn't easy.::
+2175::$$$message_0010_0034_0000$$$::"Let's get started, Senpai!"[lr]::
+2176::$$$message_0010_0034_0001$$$::"First to peel the persimmons... Oh, they have seeds, so make sure you cut them in the right direction."[lr]::
+2177::$$$message_0010_0034_0002$$$::"Yes! I'll do my best!"::
+�

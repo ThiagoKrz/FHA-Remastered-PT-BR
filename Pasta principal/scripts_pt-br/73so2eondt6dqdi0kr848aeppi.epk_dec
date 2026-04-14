@@ -1,0 +1,472 @@
+DAT
+id=qid::label=str::text=lstr::
+38266::$$$message_0270_0000_0000$$$::...Eu prometi à Rider que iria algum lugar com ela.[lr]::
+38267::$$$message_0270_0000_0001$$$::O plano em si é ir comprar roupas com Sakura, então acho que o Rider não vai gostar.::
+38268::$$$message_0270_0001_0000$$$::"Rider, posso entrar?[lr]::
+38269::$$$message_0270_0001_0001$$$::"É o Shirou? Entre."[lr]::
+38270::$$$message_0270_0001_0002$$$::Ouço a sua resposta habitualmente fria e abro a porta.[lr]::
+38271::$$$message_0270_0001_0003$$$::Rider está apenas descansando no quarto. Não parece estar fazendo nada em particular.[lr]::
+38272::$$$message_0270_0001_0004$$$::"Estou feliz. Rider, você está livre hoje?"::
+38273::$$$message_0270_0002_0000$$$::"Isso é uma pergunta difícil. Não há nada particular que eu precise fazer, mas...[lr]::
+38274::$$$message_0270_0002_0001$$$::Tem que ser sua habitual maratona de leitura. Agora é o momento perfeito para convidá-la casualmente para fora.::
+38275::$$$message_0270_0003_0000$$$::"Então, você quer ir de compras com a Sakura? Bem, eu vou também."[lr]::
+38276::$$$message_0270_0003_0001$$$::"...[wait canskip=false time=300][say storage=ctyex04_rad_0020 name=ライダー][chgfg time=200 storage=ライダー私服04a(中) textoff=0]Você também está falando de mim?"::
+38277::$$$message_0270_0004_0000$$$::Ela responde ceticamente.[lr]::
+38278::$$$message_0270_0004_0001$$$::Bem, é justo, não vamos normalmente sair de compras juntos.::
+38279::$$$message_0270_0005_0000$$$::"Sim. Você sabe, planejamos muita coisa no outro dia.[lr]::
+38280::$$$message_0270_0005_0001$$$::"Hmm... Entendi. Então depende do horário de Sakura. Vou perguntar a ela. Pode ir se preparar na porta?"::
+38281::$$$message_0270_0006_0000$$$::Agora mais em seu modo de Serva, a Rider se levanta para procurar seu Mestre.[lr]::
+38282::$$$message_0270_0006_0001$$$::Suponho que as mulheres tenham muita coisa para se preparar, então vou só esperar como sugerido.::
+38283::$$$message_0270_0007_0000$$$::A Rider não parece ser ela mesma.[lr]::
+38284::$$$message_0270_0007_0001$$$::Duvido que seja por causa da sua desconfiança... Ela não parecia preparada até o final.[lr]::
+38285::$$$message_0270_0007_0002$$$::Talvez esteja pedindo muito dela se ela não se sentir à altura.::
+38286::$$$message_0270_0008_0000$$$::...Mas com a Rider e a Sakura, hein?[lr]::
+38287::$$$message_0270_0008_0001$$$::Como seria isso de um ponto de vista externo?[lr]::
+38288::$$$message_0270_0008_0002$$$::Eu, Sakura e nosso guardião, Rider... Sinto que é a mais apropriada... Bem, hmm, e se... [seloop time=2500 storage=se046.wav]Sakura e Rider são amigas e eu sou o irmão mais velho dela?::
+38289::$$$message_0270_0009_0000$$$::...A Sakura está levando um tempo para se preparar.[lr]::
+38290::$$$message_0270_0009_0001$$$::[wait canskip=false time=1500][sestop time=400 nowait=true]O telefone tocou no quarto de estar, mas alguém já tinha atendido antes que eu conseguisse levantar.::
+38291::$$$message_0270_0010_0000$$$::"...Deveríamos ter nos encontrado apenas em Shinto.[lr]::
+38292::$$$message_0270_0010_0001$$$::Me sento ao lado da entrada e, ao verificar os panfletos publicitários do jornal da manhã que caíram no chão, lembro...::
+38293::$$$message_0270_0011_0000$$$::"..."[lr]::
+38294::$$$message_0270_0011_0001$$$::A Rider está de pé bem atrás de mim.[lr]::
+38295::$$$message_0270_0011_0002$$$::Eu pulo para trás surpreso.::
+38296::$$$message_0270_0012_0000$$$::"E-então, Rider?[lr]::
+38297::$$$message_0270_0012_0001$$$::Você viu algum anúncio que chamou sua atenção?[lr]::
+38298::$$$message_0270_0012_0002$$$::"...Um, isso é difícil de dizer, mas Shirou...[lr]::
+38299::$$$message_0270_0012_0003$$$::Ela parece hesitante.[lr]::
+38300::$$$message_0270_0012_0004$$$::Duvido que haja algum problema.[line len=2]::
+38301::$$$message_0270_0013_0000$$$::"Desculpe, Senpai![lr]::
+38302::$$$message_0270_0013_0001$$$::[movefg opacity=255 time=300 pos=r accel=-2 storage=桜制服05f(中) textoff=0][movefg opacity=0 left=562 top=132 time=300 accel=-2 storage=桜制服05f(遠) textoff=0]Uma Sakura desajeitada desce as escadas com seu uniforme.[sestop time=400 nowait=true][lr]::
+38303::$$$message_0270_0013_0002$$$::Hmm, acho que ela vai para o Shinto de uniforme. Bem, não é tão estranho assim, penso consigo mesmo enquanto Sakura se apressa para pegar seus sapatos...[wm canskip=0][wm canskip=0]::
+38304::$$$message_0270_0014_0000$$$::"Sakura, aqui está um chapeuzinho de sapato.[lr]::
+38305::$$$message_0270_0014_0001$$$::"Obrigado, Rider. Oh, desculpe Senpai, algo aconteceu com o clube de arco e tenho que ir para a escola imediatamente... Então [line len=2][lr]::
+38306::$$$message_0270_0014_0002$$$::"Sakura não pode ir de compras com a gente."::
+38307::$$$message_0270_0015_0000$$$::A Rider diz, Sakura usa aquele tempo para saltar pela porta. Ao fazê-lo, ela olha mais uma vez para trás, sobre o ombro.[line len=2]::
+38308::$$$message_0270_0016_0000$$$::"Senpai, por favor, cuide de Rider hoje![lr]::
+38309::$$$message_0270_0016_0001$$$::Até mais!"::
+38310::$$$message_0270_0017_0000$$$::"Cuide-se enquanto estiver fora...[lr]::
+38311::$$$message_0270_0017_0001$$$::"Eu farei!"::
+38312::$$$message_0270_0018_0000$$$::E a garota bastante desequilibrada já se foi.[wm canskip=0][lr]::
+38313::$$$message_0270_0018_0001$$$::A Sakura tornou-se mais energética desde que se tornou a capitã do clube de arco.[lr]::
+38314::$$$message_0270_0018_0002$$$::Antes, ela teria ficado muito decepcionada por não poder ir. Ela cresceu desde então.[lr]::
+38315::$$$message_0270_0018_0003$$$::Espere, mais do que isso, o que ela quer dizer ao pedir que cuide de Rider...?::
+38316::$$$message_0270_0019_0000$$$::"..."[lr]::
+38317::$$$message_0270_0019_0001$$$::"Então, ela me pediu para cuidar de você, Rider.[lr]::
+38318::$$$message_0270_0019_0002$$$::O silêncio é difícil de suportar.[lr]::
+38319::$$$message_0270_0019_0003$$$::O plano original era estar com Sakura e Rider. Mas agora, a pessoa-chave está ausente devido a um assunto urgente. Não é algo de que eu me sinta orgulhoso, mas não sou bom em lidar com acidentes assim tão súbitos, você sabe.::
+38320::$$$message_0270_0020_0000$$$::"Ofereci-me para levar Sakura até a porta, mas ela me disse para ficar com você e não me deu atenção.[lr]::
+38321::$$$message_0270_0020_0001$$$::"Acho que também está melhor assim.[lr]::
+38322::$$$message_0270_0020_0002$$$::Hmm, o que devemos fazer?"::
+38323::$$$message_0270_0021_0000$$$::...Estou sem saber o que fazer.[lr]::
+38324::$$$message_0270_0021_0001$$$::Estamos ambos na entrada, sem saber o que fazer. Rider e eu estamos sozinhos, e mesmo que fossemos fazer compras ou algo assim, seria uma combinação bastante diferente.[lr]::
+38325::$$$message_0270_0021_0002$$$::Isso está em um nível completamente diferente de passar tempo com Illya, ou mesmo com Saber.[lr]::
+38326::$$$message_0270_0021_0003$$$::Mesmo a Rider está sem saber o que fazer.::
+38327::$$$message_0270_0022_0000$$$::"...O que faremos, Shirou?"[lr]::
+38328::$$$message_0270_0022_0001$$$::"...Acho que poderíamos esperar para outro momento.[lr]::
+38329::$$$message_0270_0022_0002$$$::"Acredito que também é melhor assim."::
+38330::$$$message_0270_0023_0000$$$::"No entanto, como Sakura me pediu para cuidar de você, se eu passasse o dia assistindo TV enquanto comia palitos de arroz, é bastante claro como ela ficaria decepcionada.[lr]::
+38331::$$$message_0270_0023_0001$$$::"Isso é[line len=2]"::
+38332::$$$message_0270_0024_0000$$$::"Por que você não passa tempo com a Rider, Senpai? Pode até levar [wvl] e [shock vmax=20 time=400 count=-4] ela para conhecer![lr]::
+38333::$$$message_0270_0024_0001$$$::[chgfg time=300 storage=桜私服13e(近) textoff=0]Rider também é uma garota, então ela precisa soltar os cabelos no shinto de vez em quando. [cacheimage storage=桜私服04d(近)][wvl canskip=false time=300][chgfg time=300 storage=桜私服04d(近) textoff=0]Senpai, você é tão considerado com a Saber, mas é frio com a Rider... [cacheimage storage=桜私服15c(近)][wvl canskip=false time=200][chgfg time=300 storage=桜私服15c(近) textoff=0]Bem, bem, acho que subestimei você. [cacheimage storage=桜私服13d(近)][wvl canskip=false time=300][chgfg time=300 storage=桜私服13d(近) textoff=0]Hum, sem valor algum... Acho que Rider e eu somos apenas excluídos para você[wvl][shock vmax=20 time=400 count=-4]!"::
+38334::$$$message_0270_0025_0000$$$::"..."[lr]::
+38335::$$$message_0270_0025_0001$$$::Não.[lr]::
+38336::$$$message_0270_0025_0002$$$::Mais do que decepção, ela está claramente deprimida.::
+38337::$$$message_0270_0026_0000$$$::"Eu não me importo muito.[lr]::
+38338::$$$message_0270_0026_0001$$$::"Desculpe, foi minha falha. Mas, além disso, Sakura tem razão... Ah, Rider.[lr]::
+38339::$$$message_0270_0026_0002$$$::[chgfg time=300 storage=ライダー私服01a(中) textoff=0]Rider me dá um olhar interrogativo.[lr]::
+38340::$$$message_0270_0026_0003$$$::Devo reunir minha coragem e tomar uma decisão.::
+38341::$$$message_0270_0027_0000$$$::"Rider, se você estiver de acordo, vamos sair para fora.[lr]::
+38342::$$$message_0270_0027_0001$$$::"...Com só eu? E Saber ou Taiga?[lr]::
+38343::$$$message_0270_0027_0002$$$::Adicionar mais pessoas ao nosso pequeno grupo só parece estranho nesse momento.[lr]::
+38344::$$$message_0270_0027_0003$$$::Quando balanço a cabeça, ela parece ter finalmente desistido.::
+38345::$$$message_0270_0028_0000$$$::"Entendi. Se for o que deseja, serei eu a seguir.[lr]::
+38346::$$$message_0270_0028_0001$$$::"Decidido então. Vamos... você terminou de se preparar?[lr]::
+38347::$$$message_0270_0028_0002$$$::"Sim, estou sempre pronto."::
+38348::$$$message_0270_0029_0000$$$::Não sei o que dizer, mulheres naturalmente belas realmente têm um jeito com palavras. [lr]::
+38349::$$$message_0270_0029_0001$$$::Como estamos saindo juntos, eu esperaria algo mais fashion, algo que ela pudesse lutar... Mas bem, acho que isso não é realmente o estilo da Rider.::
+38350::$$$message_0270_0030_0000$$$::"O que há de errado? Shirou, algo te preocupa?[lr]::
+38351::$$$message_0270_0030_0001$$$::"Nada. Por que não vamos ao distrito comercial de Mount Miyama... Quero dizer, Shinto.[lr]::
+38352::$$$message_0270_0030_0002$$$::Foi repentino, então todos nossos planos voltaram ao início.[lr]::
+38353::$$$message_0270_0030_0003$$$::Bem, tenho certeza de que vou pensar em algo assim que levar ela até o Shinto.::
+38354::$$$message_0270_0031_0000$$$::Agora... Eu sempre penso isso, mas a Rider atrai atenção. Ela se destaca de uma forma diferente da Saber.[lr]::
+38355::$$$message_0270_0031_0001$$$::As pessoas olham para Saber e para mim com um certo afeto distante, mas quando se trata de Rider, sinto que ela vai me encarar com olhares invejosos.::
+38356::$$$message_0270_0032_0000$$$::"Shirou. Chegamos, mas você tem algum plano para hoje?[lr]::
+38357::$$$message_0270_0032_0001$$$::"Hmm. Ainda não tenho nada assim como um plano.[lr]::
+38358::$$$message_0270_0032_0002$$$::O que eu estava pensando no início era ir de compras com Sakura.[lr]::
+38359::$$$message_0270_0032_0003$$$::Sakura seria considerada e pensaria em algo que todos os três nós pudéssemos aproveitar juntos.[lr]::
+38360::$$$message_0270_0032_0004$$$::Assim que chegarmos lá, Rider e eu não estávamos muito familiarizados com as opções disponíveis.[lr]::
+38361::$$$message_0270_0032_0005$$$::Sou assim, e Rider coloca Sakura em primeiro lugar. Nenhuma das duas tem meios para planejar algo divertido juntas.::
+38362::$$$message_0270_0033_0000$$$::"...Essa cidade sempre é tão vivaz.[lr]::
+38363::$$$message_0270_0033_0001$$$::"Sua cidade natal é... Uh, diferente de muitas formas.[lr]::
+38364::$$$message_0270_0033_0002$$$::Não consigo nem imaginar como seria o Mar Mediterrâneo na Era dos Deuses.::
+38365::$$$message_0270_0034_0000$$$::"Agora seríamos um incômodo se ficássemos aqui, então vamos embora, Shirou.[lr]::
+38366::$$$message_0270_0034_0001$$$::"Concordo. Sim, vamos lá para lá.[lr]::
+38367::$$$message_0270_0034_0002$$$::Ainda há tempo até o almoço.[lr]::
+38368::$$$message_0270_0034_0003$$$::Mas se almoçarmos às 12h, vai ficar cheio, então primeiro...::
+38369::$$$message_0270_0035_0000$$$::"Vamos almoçar primeiro. Deve estar vazio agora.[lr]::
+38370::$$$message_0270_0035_0001$$$::"Entendo. Vou se for um lugar que recomenda."::
+38371::$$$message_0270_0036_0000$$$::Adivinhe o peso que está sobre mim... O pub onde trabalhava a tempo parcial ainda não abriu, então terei que escolher com base no que ouvi da Tohsaka e da Sakura.::
+38372::$$$message_0270_0037_0000$$$::"Shirou? Não sou tão exigente quanto Saber em relação à comida, então por favor, não se preocupe.[lr]::
+38373::$$$message_0270_0037_0001$$$::Ela diz algo de forma despreocupada que deixaria Saber furiosa. [lr]::
+38374::$$$message_0270_0037_0002$$$::...Cara, sou feliz que a Saber não esteja conosco.::
+38375::$$$message_0270_0038_0000$$$::Comemos sanduíches de lanche de almoço em fatias.[lr]::
+38376::$$$message_0270_0038_0001$$$::Levo a Rider para o canto mais discreto do café. Seja Saber ou Rider, atuo como um contraponto para eles quando caminho ao seu lado.::
+38377::$$$message_0270_0039_0000$$$::Estou cansado de ser perguntado: "Ei, Emiya, quem foi aquela beleza super alta que você estava com? Sua nova namorada?" depois disso.[lr]::
+38378::$$$message_0270_0039_0001$$$::E então, e o que eles querem dizer com "namorada nova" de qualquer forma? Quem era a antiga?::
+38379::$$$message_0270_0040_0000$$$::"...Eles poderiam ter querido dizer Fuji-nee?[lr]::
+38380::$$$message_0270_0040_0001$$$::"Talvez isso tivesse sido verdade em algum grau antes de todos termos chegado, mas não estaria Sakura sendo deixada de lado desnecessariamente?[lr]::
+38381::$$$message_0270_0040_0002$$$::Por que a Rider está respondendo com tanta precisão?[lr]::
+38382::$$$message_0270_0040_0003$$$::Se ela continuar me olhando com aqueles olhos místicos dela, sinto que vou começar a dizer qualquer coisa e tudo. Parece que ela me vê diretamente na alma.::
+38383::$$$message_0270_0041_0000$$$::"Eu acho que Sakura se encaixa bem com você nesse tipo de situação, mas eu não acredito especialmente que Taiga seja alguém a se considerar nesse momento em comparação comigo."::
+38384::$$$message_0270_0042_0000$$$::Posso apenas suspirar fraco em resposta.[lr]::
+38385::$$$message_0270_0042_0001$$$::A hierarquia na cabeça de Rider coloca claramente Sakura no topo e a si mesma no fundo, mas ela também parece ter uma relutância em ser comparada a Taiga ou em perder de algum modo para ela.::
+38386::$$$message_0270_0043_0000$$$::"Fuji-nee e eu somos como irmãs mais velhas e irmão mais novo... Acho que nós também pareceríamos assim.[lr]::
+38387::$$$message_0270_0043_0001$$$::[chgfg time=300 storage=ライダー私服01a(中) textoff=0]Acho que, a primeira vista, eu pareceria com um tipo de irmão caçula enquanto ela seria uma irmã mais velha ou alguém da família próxima.[lr]::
+38388::$$$message_0270_0043_0002$$$::[chgfg time=300 storage=ライダー私服02e(中) textoff=0]Rider olha ao redor. O tom da voz em sua resposta é um pouco turvo.::
+38389::$$$message_0270_0044_0000$$$::"Sou um tipo de irmã mais nova...[lr]::
+38390::$$$message_0270_0044_0001$$$::Rider faz uma brincadeira que é um pouco difícil de entender.[lr]::
+38391::$$$message_0270_0044_0002$$$::Acho que teria um complexo se minha irmã caçula tivesse sido tão mais impressionante do que eu naquela situação.[lr]::
+38392::$$$message_0270_0044_0003$$$::Eu não estou tentando revelar o título de Illya, mas, hum, não sei como lidar com isso...::
+38393::$$$message_0270_0045_0000$$$::"Parece que você acharia difícil engolir-me como uma irmã caçula, Shirou.[lr]::
+38394::$$$message_0270_0045_0001$$$::"Ah, desculpe, sim. Me pega em flagrante.[lr]::
+38395::$$$message_0270_0045_0002$$$::Talvez eu deva tentar olhar além do óbvio.[lr]::
+38396::$$$message_0270_0045_0003$$$::Talvez eu esteja realmente tendo preconceito e Rider pudesse parecer o tipo certo de alguma forma, e eu só tenha um problema.[lr]::
+38397::$$$message_0270_0045_0004$$$::Se a Cavaleira é familiarizada com ser uma irmã mais nova, então ela provavelmente está certa e eu estou errado.::
+38398::$$$message_0270_0046_0000$$$::"A-ahem.[lr]::
+38399::$$$message_0270_0046_0001$$$::...Então, o que devemos fazer depois disso? O que você quer fazer, Rider?[lr]::
+38400::$$$message_0270_0046_0002$$$::"..."[lr]::
+38401::$$$message_0270_0046_0003$$$::Não acho que seja uma pergunta tão injustificável, mas ela claramente não esperava por isso.::
+38402::$$$message_0270_0047_0000$$$::"O que você quer fazer, Shirou?[lr]::
+38403::$$$message_0270_0047_0001$$$::"O que eu quero fazer... Bem...[lr]::
+38404::$$$message_0270_0047_0002$$$::O objetivo original era incluir a Sakura. Hmm, isso era...::
+38405::$$$message_0270_0048_0000$$$::"Eu lembro. Nós tínhamos a intenção de escolher algumas roupas para você.[lr]::
+38406::$$$message_0270_0048_0001$$$::"..."[lr]::
+38407::$$$message_0270_0048_0002$$$::A Rider tensa-se de um jeito que até um observador externo notaria.[lr]::
+38408::$$$message_0270_0048_0003$$$::Recomendei ir de compras com Sakura naquela vez também, mas Rider se opôs à ideia até o fim.::
+38409::$$$message_0270_0049_0000$$$::"Eu não preciso de você ou de Sakura se preocupando. Eu posso, com certeza, fazer minhas próprias escolhas de roupas.[lr]::
+38410::$$$message_0270_0049_0001$$$::"Bem, isso é verdade, mas... eu acho que tanto Sakura quanto eu queremos ver você em diferentes tipos de aparência.[lr]::
+38411::$$$message_0270_0049_0002$$$::Tento dar o meu melhor olhar de cachorro vira-lata para ela.[lr]::
+38412::$$$message_0270_0049_0003$$$::Mas ela não cai na isca realmente.::
+38413::$$$message_0270_0050_0000$$$::"...Eu não acho que você verá o que espera que veja.[lr]::
+38414::$$$message_0270_0050_0001$$$::"Ah, eu tenho certeza de que sim, embora. Eu acho que você subestima como pessoas mais altas podem ser fofas também.[lr]::
+38415::$$$message_0270_0050_0002$$$::"Minha experiência não foi assim. Acredito de verdade que você deveria se preocupar apenas com Sakura com relação a isso."::
+38416::$$$message_0270_0051_0000$$$::Rejected.[lr]::
+38417::$$$message_0270_0051_0001$$$::Acho que só vou incomodar a Rider se continuar a molestá-la.[lr]::
+38418::$$$message_0270_0051_0002$$$::Então penso no que devo fazer, enquanto mastigo o restante do sanduíche grelhado e os pepinos.::
+38419::$$$message_0270_0052_0000$$$::"Então, hmm... Oh, você assiste filmes?[lr]::
+38420::$$$message_0270_0052_0001$$$::"Eu não diria que sou contra eles, mas não me vejo assistindo muito mesmo quando eles estão na TV. Acho que a Saber gosta mais deles do que eu."::
+38421::$$$message_0270_0053_0000$$$::Saber está frequentemente diante da TV, mas me pergunto se ela realmente gosta tanto assim. Pelo menos parece que Rider não odeia filmes.[lr]::
+38422::$$$message_0270_0053_0001$$$::Então...::
+38423::$$$message_0270_0054_0000$$$::"Ainda não vi um há um tempo também. Vamos assistir a algo."[lr]::
+38424::$$$message_0270_0054_0001$$$::"...Okay. Do you have any recommendations?
+
+...Okay. Tem alguma recomendação?"::
+38425::$$$message_0270_0055_0000$$$::Então está decidido. Podemos passar nosso tempo fazendo isso.[lr]::
+38426::$$$message_0270_0055_0001$$$::Estou finalmente passando tempo com a Rider, e ainda assim seria patético se não tivesse nada para fazer.[lr]::
+38427::$$$message_0270_0055_0002$$$::Mas... espera um instante.[lr]::
+38428::$$$message_0270_0055_0003$$$::Neste momento, finalmente percebo que é um encontro.::
+38429::$$$message_0270_0056_0000$$$::No cinema... Estão exibindo algo chamado [font italic=true]Fate/Zero[font italic=false] e [font italic=true]Tiger Dojo: THE MOVIE[font italic=false].[lr]::
+38430::$$$message_0270_0056_0001$$$::Acho que o melhor é o que está certo. Está certo. Isso está certo.::
+38431::$$$message_0270_0057_0000$$$::"..."[lr]::
+38432::$$$message_0270_0057_0001$$$::A Rider parece estar bem com qualquer um deles.[lr]::
+38433::$$$message_0270_0057_0002$$$::A escolha é minha, então acho que vou escolher meu veneno ao acaso e seguir em frente.::
+38470::$$$message_0270_0082_0000$$$::"..."[lr]::
+38471::$$$message_0270_0082_0001$$$::"..."[lr]::
+38472::$$$message_0270_0082_0002$$$::Eu sinto que acabei de assistir algo que é difícil de explicar.[lr]::
+38473::$$$message_0270_0082_0003$$$::Como um sonho de duas horas, ou como alguém que fez a escolha errada na vida.[lr]::
+38474::$$$message_0270_0082_0004$$$::A Rider também está fazendo uma expressão de conflito.::
+38475::$$$message_0270_0083_0000$$$::"...Que tipo de filme foi aquele, Shirou?[lr]::
+38476::$$$message_0270_0083_0001$$$::"De verdade, nem sei.[lr]::
+38477::$$$message_0270_0083_0002$$$::Isso é okay para um filme desse tipo ser feito? Além disso, será que ele pode até mesmo ser divulgado? Gostaria que os cinemas lembrassem que são supostos fornecer entretenimento. Quero que eles parem de exibí-lo imediatamente antes que causem ainda mais vítimas!::
+38478::$$$message_0270_0084_0000$$$::"Espere, mas [line len=2][lr]::
+38479::$$$message_0270_0084_0001$$$::A responsabilidade é minha por tê-lo escolhido no início. É minha culpa por ter entrado em um filme tão sem valor só porque o horário estava logo.::
+38480::$$$message_0270_0085_0000$$$::"...Acho que Taiga ou Saber poderiam gostar desses tipos de filmes.[lr]::
+38481::$$$message_0270_0085_0001$$$::"Não sei. Sinto que a Fuji-nee estaria super feliz...[lr]::
+38482::$$$message_0270_0085_0002$$$::Por que temos que inclinar a cabeça em confusão depois de sair de um cinema?[lr]::
+38483::$$$message_0270_0085_0003$$$::Pior que terminar o dia assim, especialmente quando estou em um encontro com a Rider.::
+38484::$$$message_0270_0086_0000$$$::"De qualquer forma, é verdade que foi interessante de diversas formas. [lr]::
+38485::$$$message_0270_0086_0001$$$::"Vou pegar, acho que sim. Bem, hey, ainda tem um pouco de tempo.[lr]::
+38486::$$$message_0270_0086_0002$$$::Mas ainda é cedo demais para um lanche da tarde.[lr]::
+38487::$$$message_0270_0086_0003$$$::Temos novamente coisas para fazer.[lr]::
+38488::$$$message_0270_0086_0004$$$::Podemos ficar na praia do Parque Waterfront e tomar sol, ou então ir para a piscina, mas não trouxemos nossos trajes de banho.::
+38489::$$$message_0270_0087_0000$$$::"Shirou, posso sugerir algo?[lr]::
+38490::$$$message_0270_0087_0001$$$::"Hmm?[lr]::
+38491::$$$message_0270_0087_0002$$$::"Vou passar por ali naquela livraria depois disso."::
+38492::$$$message_0270_0088_0000$$$::Rider aponta para o maior centro comercial de Shinto, Verde.[lr]::
+38493::$$$message_0270_0088_0001$$$::Ah, sim, a maior livraria de Shinto está lá dentro.::
+38494::$$$message_0270_0089_0000$$$::"É, quero ir também, já que não estou lá há um tempo...[lr]::
+38495::$$$message_0270_0089_0001$$$::[chgfg time=300 storage=ライダー私服01c(中) textoff=300]A Rider deve estar curiosa pelos novos livros.[lr]::
+38496::$$$message_0270_0089_0002$$$::Isso também é como um encontro... Acho que sim?::
+38497::$$$message_0270_0090_0000$$$::"Ah, então isso saiu... Hm.[lr]::
+38498::$$$message_0270_0090_0001$$$::Olho ao redor da livraria com a Rider.[lr]::
+38499::$$$message_0270_0090_0002$$$::Pensei em que tipo de livro ela estava procurando, mas ela começa olhando para coisas relacionadas à notícia primeiro. Depois, escolhe revistas mensais de história e esportes.::
+38500::$$$message_0270_0091_0000$$$::"..."[lr]::
+38501::$$$message_0270_0091_0001$$$::A Rider está tratando disso de verdade.[lr]::
+38502::$$$message_0270_0091_0002$$$::Eu também vejo algumas, mas sou mais curioso sobre ela do que sobre as revistas.::
+38503::$$$message_0270_0092_0000$$$::Agora, o que devemos fazer?[lr]::
+38504::$$$message_0270_0092_0001$$$::Passamos pela seção com uma variedade colorida de revistas de moda sem nem olhar.::
+38505::$$$message_0270_0093_0000$$$::"Puta que pariu, que desperdício.[lr]::
+38506::$$$message_0270_0093_0001$$$::Escolher roupas e decidir quais seriam adequadas para a Rider... Isso seria difícil.[lr]::
+38507::$$$message_0270_0093_0002$$$::Sakura ou Tohsaka seria melhor quando se trata de moda, afinal.::
+38508::$$$message_0270_0094_0000$$$::"...Shirou?[lr]::
+38509::$$$message_0270_0094_0001$$$::A Rider me chama.[lr]::
+38510::$$$message_0270_0094_0002$$$::Ela me encara do outro lado com olhos mistificados.[lr]::
+38511::$$$message_0270_0094_0003$$$::Acho que ela consegue perceber o que eu estava pensando, e tento ignorar.::
+38512::$$$message_0270_0095_0000$$$::"Não, é nada... Decidiu o que vai comprar?[lr]::
+38513::$$$message_0270_0095_0001$$$::"Não, deixe-me pensar um pouco. Você tem algo que está comprando?[lr]::
+38514::$$$message_0270_0095_0002$$$::Não há nada de verdadeiro nisso.[lr]::
+38515::$$$message_0270_0095_0003$$$::Sinto que estou atrapalhando sua escolha de livros.::
+38516::$$$message_0270_0096_0000$$$::"Não, vou dar uma volta. Vamos nos encontrar aqui na entrada.[lr]::
+38517::$$$message_0270_0096_0001$$$::"Entendi. Por favor, espere uns quinze minutos."::
+38518::$$$message_0270_0097_0000$$$::Isso provavelmente também é melhor para a Rider.[lr]::
+38519::$$$message_0270_0097_0001$$$::Deixo ela e vou para a entrada. Olho no diretório para ver o que tem dentro do Verde.[wsplinemove canskip=0][sestop time=2000 nowait=true]::
+38520::$$$message_0270_0098_0000$$$::"O andar de cima é de entretenimento, hein..."[lr]::
+38521::$$$message_0270_0098_0001$$$::Podemos ir brincar no arcade daí em cima depois disso.[lr]::
+38522::$$$message_0270_0098_0002$$$::Não sou bom em jogos, mas jogos físicos devem ser o forte da Rider. Ela ultrapassa limites humanos quando se trata de aptidão física e nível de exercício... Espera, não, fiquei pensando, seria absurdo se a Rider desse o máximo.::
+38523::$$$message_0270_0099_0000$$$::"...Não podemos. Não consigo inventar uma desculpa se o Rider entrar em uma fúria."[lr]::
+38524::$$$message_0270_0099_0001$$$::Nesse caso, podemos quietamente brincar um pouco de jogos de moedas... Isso também não é ruim, mas sinto que não é isso.[lr]::
+38525::$$$message_0270_0099_0002$$$::Nada parece certo.::
+38526::$$$message_0270_0100_0000$$$::"Moda masculina, moda feminina, instalações recreativas, restaurantes... e depois mercados e a área de alimentação estão subterrâneos.[lr]::
+38527::$$$message_0270_0100_0001$$$::Ah, há moda feminina aqui também.[lr]::
+38528::$$$message_0270_0100_0002$$$::Se eu trouxer a Rider aqui...::
+38529::$$$message_0270_0101_0000$$$::"..."[lr]::
+38530::$$$message_0270_0101_0001$$$::Desisti, mas repensei, pensando que devemos fazer algumas coisas como em um encontro, afinal.[lr]::
+38531::$$$message_0270_0101_0002$$$::É muito chato se só voltarmos em linha reta para casa, especialmente já que estou com Rider.::
+38532::$$$message_0270_0102_0000$$$::"...[shock vmax=20 time=600 count=-3]Tudo bem."[lr]::
+38533::$$$message_0270_0102_0001$$$::Penso no que devemos fazer enquanto volto para a livraria.[lr]::
+38534::$$$message_0270_0102_0002$$$::Neste ponto, preciso usar força. Em vez de fazer alguma explicação ruim, deveria levá-la diretamente lá!::
+38535::$$$message_0270_0103_0000$$$::"Bem-vindo de volta, Shirou. Te deixei esperando, né?[lr]::
+38536::$$$message_0270_0103_0001$$$::"Não, e espero que também não tenha te deixado esperando. Então, venha cá, Rider.[lr]::
+38537::$$$message_0270_0103_0002$$$::"...Okay, você tem algo para fazer, Shirou?"[lr]::
+38538::$$$message_0270_0103_0003$$$::"Bem, mais do que minha preocupação, é mais como da Sakura ou da sua. De qualquer forma, você saberá quando chegar lá.[lr]::
+38539::$$$message_0270_0103_0004$$$::"Hmm...? Seu objetivo não está claro. Você está tentando dizer que tem a ver conosco?[lr]::
+38540::$$$message_0270_0103_0005$$$::"É isso que quero dizer. Fiz uma promessa com a Sakura."::
+38541::$$$message_0270_0104_0000$$$::...Chegamos ao nosso destino.[lr]::
+38542::$$$message_0270_0104_0001$$$::Chegamos ao andar de moda feminina, quer o Rider goste ou não.::
+38543::$$$message_0270_0105_0000$$$::"E-e-então, o que é isso![lr]::
+38544::$$$message_0270_0105_0001$$$::"O que você quer dizer? É a seção de roupas femininas, como você pode ver.[lr]::
+38545::$$$message_0270_0105_0002$$$::"Você me enganou, Shirou...![lr]::
+38546::$$$message_0270_0105_0003$$$::Quão escandaloso.[lr]::
+38547::$$$message_0270_0105_0004$$$::Primeiro, como eu sou suficientemente ágil para surpreendê-la como ela sugere.::
+38548::$$$message_0270_0106_0000$$$::"Eu não te enganei. Só não expliquei. Falar com fluidez é a especialidade da Tohsaka; eu não posso fazer isso.[lr]::
+38549::$$$message_0270_0106_0001$$$::"Mas você é o aluno de Rin Tohsaka, Shirou. Não lhe ensinou ela tais estratégias como aluno[line len=2][lr]::
+38550::$$$message_0270_0106_0002$$$::"Não, de jeito nenhum é nada disso."::
+38551::$$$message_0270_0107_0000$$$::Estou gestando para enfatizar.[lr]::
+38552::$$$message_0270_0107_0001$$$::Mas não sei até que ponto está chegando, já que a Rider ainda me encara com fúria.::
+38553::$$$message_0270_0108_0000$$$::"...Shirou, isso é injusto.[lr]::
+38554::$$$message_0270_0108_0001$$$::"Acho isso também, mas você não teria vindo se eu não fizesse algo assim, certo, Rider?[lr]::
+38555::$$$message_0270_0108_0002$$$::Rider recusaria antes que eu terminasse de dizer a palavra "moda". Para ser honesto, o meu desejo de vesti-la é mais forte do que qualquer ressentimento que ela possa ter contra mim depois.::
+38556::$$$message_0270_0109_0000$$$::"E prometi à Sakura já que cuidaria de você hoje. Não seria interessante o suficiente se só assistíssemos um filme e fossemos à livraria, certo?[lr]::
+38557::$$$message_0270_0109_0001$$$::"Isso é verdade, mas isso e isso são [line len=2]"[lr]::
+38558::$$$message_0270_0109_0002$$$::"Além disso, vir aqui e escolher roupas também era o objetivo original, afinal."::
+38559::$$$message_0270_0110_0000$$$::Apesar de ter completamente desistido há pouco tempo.[lr]::
+38560::$$$message_0270_0110_0001$$$::Se Sakura estivesse aqui, provavelmente teria que elaborar algum plano para trazê-la também.::
+38561::$$$message_0270_0111_0000$$$::"E eu estou cuidando de você, então é claro que temos que escolher suas roupas. Sakura confiou em mim e deixou você sob meu cuidado, depois de tudo.[lr]::
+38562::$$$message_0270_0111_0001$$$::"...Você está tentando me convencer com algum tipo de lógica estranha."::
+38563::$$$message_0270_0112_0000$$$::"É mais como um debate carregado de emoção, do que lógica.[lr]::
+38564::$$$message_0270_0112_0001$$$::Só queria ver você usando roupas diferentes."::
+38565::$$$message_0270_0113_0000$$$::Eu sempre tive um pensamento vago sobre isso desde antes.[lr]::
+38566::$$$message_0270_0113_0001$$$::Quero ver a Rider vestida ao menos uma vez.[lr]::
+38567::$$$message_0270_0113_0002$$$::Bem, sei exatamente como Rider vai responder a isso.::
+38568::$$$message_0270_0114_0000$$$::"...Mas Shirou, eu sou [line len=2]"[lr]::
+38569::$$$message_0270_0114_0001$$$::"Não tão fofo assim?[lr]::
+38570::$$$message_0270_0114_0002$$$::"..."::
+38571::$$$message_0270_0115_0000$$$::Tinha que estar certo, como Rider fica calado.[lr]::
+38572::$$$message_0270_0115_0001$$$::Não é verdade, mas o complexo da Rider não é algo que possa ser apagado da noite para o dia.[lr]::
+38573::$$$message_0270_0115_0002$$$::A Rider é teimosa quando se trata disso.[lr]::
+38574::$$$message_0270_0115_0003$$$::...Recentemente, tenho começado a pensar que parte dela é especialmente adorável.::
+38575::$$$message_0270_0116_0000$$$::"Você deveria tentar diferentes tipos de coisas. Primeiro, você daria um bom ar em qualquer roupa que usasse.[lr]::
+38576::$$$message_0270_0116_0001$$$::"..."[lr]::
+38577::$$$message_0270_0116_0002$$$::...Se ela fizer aquela cara, me faz sentir como se tivesse bullying ela, o que me deixa corar.[lr]::
+38578::$$$message_0270_0116_0003$$$::Na verdade, estou começando a sentir que estou no limite de uma linha de sedução.::
+38579::$$$message_0270_0117_0000$$$::"Ah, não, não me entenda mal, Rider.[lr]::
+38580::$$$message_0270_0117_0001$$$::Eu não estou te assediar, mas quero entreter a Sakura mostrando diferentes lados de você, e também estou pessoalmente interessado. Definitivamente não estou fazendo isso para brincar com você ou qualquer coisa assim."::
+38581::$$$message_0270_0118_0000$$$::"..."[lr]::
+38582::$$$message_0270_0118_0001$$$::...Merda, nem sei mais o que estou tentando dizer.[lr]::
+38583::$$$message_0270_0118_0002$$$::Se eu avançar mais um pouco, provavelmente só estarei cavando minha própria cova. Acho que terei que recorrer à força.::
+38584::$$$message_0270_0119_0000$$$::"Ugh, venha aqui![lr]::
+38585::$$$message_0270_0119_0001$$$::Eu dobro os braços e pego a mão da Rider.[lr]::
+38586::$$$message_0270_0119_0002$$$::"...Ah.[lr]::
+38587::$$$message_0270_0119_0003$$$::...Sinto uma mão suave.[lr]::
+38588::$$$message_0270_0119_0004$$$::Meus pensamentos frenéticos são rapidamente substituídos.::
+38589::$$$message_0270_0120_0000$$$::...Isso é ruim. A mão da Rider é mais macia e suave do que eu teria imaginado.[lr]::
+38590::$$$message_0270_0120_0001$$$::Não sei quem de nós está corado. Reconheço objetivamente o que estou fazendo e escondo o rosto ao liderar o caminho.::
+38591::$$$message_0270_0121_0000$$$::"Shirou...[lr]::
+38592::$$$message_0270_0121_0001$$$::Não olho para trás e pulo direto para a loja à minha frente.[lr]::
+38593::$$$message_0270_0121_0002$$$::O funcionário da loja à minha frente parece estar tentando conter seu divertimento.[lr]::
+38594::$$$message_0270_0121_0003$$$::Oof, ela viu o que estávamos fazendo lá?::
+38595::$$$message_0270_0122_0000$$$::"Bem-vindo. O que está procurando hoje?[lr]::
+38596::$$$message_0270_0122_0001$$$::"Bem, um, eu não estou procurando nada para mim mesmo, mas essa[line len=2]ela é, um..."[lr]::
+38597::$$$message_0270_0122_0002$$$::Meu cérebro pânico quando o funcionário da loja fala comigo.[lr]::
+38598::$$$message_0270_0122_0003$$$::Eu nem estava pensando em qual resposta eu ia dar.::
+38599::$$$message_0270_0123_0000$$$::"Eu estava pensando se havia algum tipo de roupa que ficaria bem na Rider aqui.[lr]::
+38600::$$$message_0270_0123_0001$$$::"Rider? Você está se referindo ao seu amigo aqui?[lr]::
+38601::$$$message_0270_0123_0002$$$::Posso apenas imaginar como deve ser constrangedor ser tratado assim por um estranho.[lr]::
+38602::$$$message_0270_0123_0003$$$::Dou um aceno com a cabeça.[lr]::
+38603::$$$message_0270_0123_0004$$$::Vou deixar esse funcionário do armazém e o Rider conversarem um com o outro, e eu só vou assistir.::
+38604::$$$message_0270_0124_0000$$$::Olho para cima, rezando para que eles cuidem do resto.[lr]::
+38605::$$$message_0270_0124_0001$$$::Pensei que a Rider, que foi trazida aqui contra a sua vontade, estivesse me encarando com uma expressão de cansaço, mas...::
+38606::$$$message_0270_0125_0000$$$::"...Sim.[lr]::
+38607::$$$message_0270_0125_0001$$$::Hmm? Rider, que até agora estava contra isso, está sorrindo.[lr]::
+38608::$$$message_0270_0125_0002$$$::Ela deve ter finalmente se animado, e assim que estou prestes a soltar um suspiro de alívio[line len=2]::
+38609::$$$message_0270_0126_0000$$$::"Meu cara está pedindo para me ver de roupa fofa.[lr]::
+38610::$$$message_0270_0126_0001$$$::"[quake vmax=30 hmax=0 time=800]Huhhhh!?!?!"[lr]::
+38611::$$$message_0270_0126_0002$$$::H-[shock vmax=20 time=300 count=-3]sua mulher!?[lr]::
+38612::$$$message_0270_0126_0003$$$::O que está acontecendo? Ela nunca me chamou de nada parecido com isso antes![lr]::
+38613::$$$message_0270_0126_0004$$$::É como "meu querido" em inglês?::
+38614::$$$message_0270_0127_0000$$$::"Não, um, Rider e eu somos...!"[lr]::
+38615::$$$message_0270_0127_0001$$$::A balconista está segurando o riso, e a Rider está sorrindo. [lr]::
+38616::$$$message_0270_0127_0002$$$::O que é isso? A vibe é super boa e eu sou o único que fica completamente desarmado...!::
+38617::$$$message_0270_0128_0000$$$::"Não, não, não! Ela é, tipo, como minha irmã mais velha![lr]::
+38618::$$$message_0270_0128_0001$$$::"Shirou... Por favor, não diga algo tão insensato.[lr]::
+38619::$$$message_0270_0128_0002$$$::Você estava dizendo que eu era tão linda e bonita há pouco tempo."::
+38620::$$$message_0270_0129_0000$$$::Essas afirmações não são mentiras também, mas usá-la assim...[lr]::
+38621::$$$message_0270_0129_0001$$$::Como se eu fosse o que estivesse entrelaçando os dedos em seus cabelos e fosse eu quem fizesse a primeira movida...::
+38622::$$$message_0270_0130_0000$$$::"Ela é muito bonita. Não há muitas modelos que sejam igual, você sabe?[lr]::
+38623::$$$message_0270_0130_0001$$$::"T-Isso é verdade. Posso garantir 100% disso. Mas é uma história diferente; Rider e eu não somos namorados e namorada.[line len=2]"::
+38624::$$$message_0270_0131_0000$$$::Eu só continuo negando furiosamente, ainda confuso.[lr]::
+38625::$$$message_0270_0131_0001$$$::Claro que eu ficaria feliz se tivesse uma namorada como a Rider, mas a ideia de ser tão sortudo me assusta de verdade, e ela não é realmente minha namorada.[lr]::
+38626::$$$message_0270_0131_0002$$$::Mas a realidade está se torcendo e virando, e a Rider continua se encolhendo ao meu lado só para brincar.::
+38627::$$$message_0270_0132_0000$$$::"Ele é fofo, né?[lr]::
+38628::$$$message_0270_0132_0001$$$::Ele está dedicado a mim, mas se envergonha facilmente.[lr]::
+38629::$$$message_0270_0132_0002$$$::A sussurro da Rider não está dirigido ao caixa, mas a mim.::
+38630::$$$message_0270_0133_0000$$$::...Aparentemente, estou apaixonado por ela, mas fico facilmente envergonhado.[lr]::
+38631::$$$message_0270_0133_0001$$$::...É mais eficaz do que um Pergaminho Nobre.[lr]::
+38632::$$$message_0270_0133_0002$$$::Meu coração parou completamente e meus ouvidos ficaram vermelhos claros.::
+38633::$$$message_0270_0134_0000$$$::"Ele é direto quando ninguém está por perto, mas então diz coisas frias como "você é minha irmã mais velha" ou "você é meu guardião" quando estamos ao lado de outras pessoas.[lr]::
+38634::$$$message_0270_0134_0001$$$::Por isso, eu gostaria de tentar o meu máximo para que ele diga que sou a sua namorada fofo."::
+38635::$$$message_0270_0135_0000$$$::"Khh...![lr]::
+38636::$$$message_0270_0135_0001$$$::Não consigo evitar girar 360 graus com força incrível e procurar inimigos.[lr]::
+38637::$$$message_0270_0135_0002$$$::Vou começar a chorar se descobrir que alguém estava me observando... Olho para ver se alguém poderia me ajudar em algum lugar.[lr]::
+38638::$$$message_0270_0135_0003$$$::Não há inimigos nem aliados.[lr]::
+38639::$$$message_0270_0135_0004$$$::Em vez disso, a Rider está dando seu sorriso mais brilhante perto dali.::
+38640::$$$message_0270_0136_0000$$$::"Direito... Shirou? Você me fará feliz?"[lr]::
+38641::$$$message_0270_0136_0001$$$::"E-ei, a forma como você disse isso é enganosa[line len=2][lr]::
+38642::$$$message_0270_0136_0002$$$::"...É verdade. Prefiro ação a palavras..."::
+38643::$$$message_0270_0137_0000$$$::Meus pernas parecem ter se transformado em gelatina.[lr]::
+38644::$$$message_0270_0137_0001$$$::Estou sendo seduzido pela Rider?[lr]::
+38645::$$$message_0270_0137_0002$$$::Não, para o atendente, deve parecer que eu sou o que seduziu ela primeiro, e Rider está apenas respondendo a isso.::
+38646::$$$message_0270_0138_0000$$$::"Então, há algumas roupas lindas da coleção Outono/Inverno.[lr]::
+38647::$$$message_0270_0138_0001$$$::"Você tem algum recomendação? Tem algum tamanho que seja... adequado para o meu corpo?[lr]::
+38648::$$$message_0270_0138_0002$$$::"Sim, eles ficariam bons com a sua silhueta, já que os itens importados eram originalmente supostos servir clientes como você."::
+38649::$$$message_0270_0139_0000$$$::O assunto mudou; devo dar uma pausa por enquanto...[lr]::
+38650::$$$message_0270_0139_0001$$$::"Shirou...[lr]::
+38651::$$$message_0270_0139_0002$$$::Mas ela não permite.[lr]::
+38652::$$$message_0270_0139_0003$$$::Apenas chamando meu nome, minha cabeça vai ao avesso.[lr]::
+38653::$$$message_0270_0139_0004$$$::Se ela tivesse dito que estava brincando e se desculpado por me provocar, eu a teria agradecido o resto do ano.[lr]::
+38654::$$$message_0270_0139_0005$$$::Em vez disso, acho que ela vai me oferecer como sacrifício a um santuário.::
+38655::$$$message_0270_0140_0000$$$::"Bem, vou ficar aqui, quero dizer, ali.[lr]::
+38656::$$$message_0270_0140_0001$$$::"Mas isso seria um verdadeiro incômodo...[lr]::
+38657::$$$message_0270_0140_0002$$$::Ela fecha minha saída com uma única frase. Ela é um caso difícil.[lr]::
+38658::$$$message_0270_0140_0003$$$::Eu acho que teria mais sorte lutando contra a Rider com uma espada de bambu.::
+38659::$$$message_0270_0141_0000$$$::"Um incômodo? Não, não é um incômodo para mim.[lr]::
+38660::$$$message_0270_0141_0001$$$::"Você estava dizendo que era para você ver se eu pareço fofa ou não. Não consigo tomar decisões se você não estiver aqui para dizer que eu pareço fofa."::
+38661::$$$message_0270_0142_0000$$$::O que você está dizendo!?[lr]::
+38662::$$$message_0270_0142_0001$$$::Isso é o que o funcionário da loja está lá para fazer! Eles são treinados para elogiar você, mesmo![lr]::
+38663::$$$message_0270_0142_0002$$$::Mas a Rider está sendo tão afetiva que quase vai se agarar ao meu braço ou pescoço. Isso me deixaria feliz, e [font italic=true]absolutamente não[font italic=false] ao mesmo tempo.::
+38664::$$$message_0270_0143_0000$$$::"Shirou, tenho uma sugestão...[lr]::
+38665::$$$message_0270_0143_0001$$$::"O que? Eu ouvirei qualquer coisa que você tenha a dizer. Em troca, pode mover a sua mão?[line len=2]"::
+38666::$$$message_0270_0144_0000$$$::"Escolher roupas também é bom, mas ouvi dizer que a moda é algo que se destaca mais se você conseguir a base certa.[lr]::
+38667::$$$message_0270_0144_0001$$$::Você pode me ajudar a escolher esses que estão muito?"[lr]::
+38668::$$$message_0270_0144_0002$$$::...Fundação? O que?[lr]::
+38669::$$$message_0270_0144_0003$$$::Olho para onde Rider está apontando com olhos quebrados.::
+38670::$$$message_0270_0145_0000$$$::"Isso... é, é que não...[lr]::
+38671::$$$message_0270_0145_0001$$$::Meus joelhos tremem.[lr]::
+38672::$$$message_0270_0145_0002$$$::Por que eu me sinto assustado o suficiente para chorar?[lr]::
+38673::$$$message_0270_0145_0003$$$::É só ir para a seção de lingerie[line len=2]Espere...[lr]::
+38674::$$$message_0270_0145_0004$$$::...Meu corpo é tomado por arrepios que quase fazem meus poros virar para dentro.::
+38675::$$$message_0270_0146_0000$$$::"[shock vmax=30 time=300 count=-3]N-não posso fazer isso, Rider![lr]::
+38676::$$$message_0270_0146_0001$$$::"Como é cruel de você dizer isso. Eu realmente não sou tão fofa assim que você nem considere me ver em algum conjunto de lingerie?[lr]::
+38677::$$$message_0270_0146_0002$$$::"Isso não é verdade, você é tão linda!"::
+38678::$$$message_0270_0147_0000$$$::...Jesus, isso saiu assim.[lr]::
+38679::$$$message_0270_0147_0001$$$::Estou cavando tão fundo agora que poderia construir um inteiro túmulo.::
+38680::$$$message_0270_0148_0000$$$::"Se você realmente acha que sou bonita, por favor, me ajude a escolher, Shirou.[lr]::
+38681::$$$message_0270_0148_0001$$$::"[shock vmax=10 time=800 count=20]N-n-não! Sou um cara, e isso é proibido para caras! Vou ser expulso com certeza!"::
+38682::$$$message_0270_0149_0000$$$::"Não, senhor. Há muitos clientes masculinos que compram calçaduras com mulheres.[lr]::
+38683::$$$message_0270_0149_0001$$$::...Essa balconista apoia Rider no momento mais inoportuno.[lr]::
+38684::$$$message_0270_0149_0002$$$::Espera, então existem caraças assim!?[lr]::
+38685::$$$message_0270_0149_0003$$$::Saúdo-vos!::
+38686::$$$message_0270_0150_0000$$$::"Veja, há um precedente, Shirou... [cacheimage storage=ライダー私服01c(近)][wvl canskip=false time=400][chgfg time=300 storage=ライダー私服01c(近) textoff=0]Você não quer ver eu em minha?[lr]::
+38687::$$$message_0270_0150_0001$$$::...O sorriso inocente, como o de uma bruxa de uma era passada.[lr]::
+38688::$$$message_0270_0150_0002$$$::Isso é injusto; não há como eu enfrentar ela.::
+38689::$$$message_0270_0151_0000$$$::E tudo que me segurava está começando a ceder.[lr]::
+38690::$$$message_0270_0151_0001$$$::Se eu disser que quero vê, certamente vou me jogar de cabeça e perder toda a razão.[lr]::
+38691::$$$message_0270_0151_0002$$$::Eu ficaria tão excitado e completamente absorvido pela presença da Rider que duvidava se conseguiria nem chegar em casa.::
+38692::$$$message_0270_0152_0000$$$::"..."[lr]::
+38693::$$$message_0270_0152_0001$$$::Estou sem saber o que dizer.[lr]::
+38694::$$$message_0270_0152_0002$$$::Rider segura suavemente meu braço.[lr]::
+38695::$$$message_0270_0152_0003$$$::Sua sussurro é suave, mas seu aperto é bastante forte.::
+38696::$$$message_0270_0153_0000$$$::"A prova do pudim está na prova. Você entenderá quando vir meu modo de agir."[lr]::
+38697::$$$message_0270_0153_0001$$$::E ela começa a me puxar pelo braço...[shock vmax=20 hmax=20 time=800 count=-5][lr]::
+38698::$$$message_0270_0153_0002$$$::Mesmo que eu tente resistir, estamos falando de Rider. [sestop time=1000 nowait=true]Sua força é como se estivesse sendo puxado por uma roldana de carro.::
+38699::$$$message_0270_0154_0000$$$::"Ah... não, stoooo[wvl][shock vmax=20 time=400 count=-5]p![lr]::
+38700::$$$message_0270_0154_0001$$$::Espere, espera, espera! Você está bem com isso, Rider[wvl][shock vmax=20 time=400 count=-5]!?"[lr]::
+38701::$$$message_0270_0154_0002$$$::"Não me importo. Na verdade, não tenho olho para calções, então agradeceria se você me avaliasse.[lr]::
+38702::$$$message_0270_0154_0003$$$::"Priorize a funcionalidade sobre a aparência![lr]::
+38703::$$$message_0270_0154_0004$$$::Estou gritando, mas a Rider não mostra misericórdia.[lr]::
+38704::$$$message_0270_0154_0005$$$::Eu fico direto na seção de lingerie.[sestop time=1000 nowait=true]::
+38705::$$$message_0270_0155_0000$$$::"Verdade. Mas considerando isso... Por favor, Shirou.[lr]::
+38706::$$$message_0270_0155_0001$$$::"[shock vmax=20 time=400 count=-5]Ei, não tão rápido! Aguarde aíiiiiii![lr]::
+38707::$$$message_0270_0155_0002$$$::Um domínio de renda e frufrus se expande diante de mim.[lr]::
+38708::$$$message_0270_0155_0003$$$::Pensar que estou entrando em um mundo brilhante e sensual com a Rider!::
+38709::$$$message_0270_0156_0000$$$::"Agora... Onde devemos começar? [cacheimage storage=ライダー私服01c(中)][wvl][chgfg time=300 storage=ライダー私服01c(中) textoff=0]Não consigo decidir com tantas opções.[lr]::
+38710::$$$message_0270_0156_0001$$$::"[quake vmax=10 hmax=0 time=7500]......!!![rf]::
+38711::$$$message_0270_0157_0000$$$::"..."[lr]::
+38712::$$$message_0270_0157_0001$$$::...Man, que prazer infernal.[lr]::
+38713::$$$message_0270_0157_0002$$$::Não me lembro muito bem do que aconteceu depois disso.[lr]::
+38714::$$$message_0270_0157_0003$$$::Eu só posso dizer que a Rider foi impressionante de todas as formas possíveis.::
+38715::$$$message_0270_0158_0000$$$::"Eu não vou conseguir dormir hoje à noite...[lr]::
+38716::$$$message_0270_0158_0001$$$::E estou cansado de uma forma diferente.[lr]::
+38717::$$$message_0270_0158_0002$$$::A expressão da Rider quando ela desce do ônibus comigo é a mesma de sempre. Fria e controlada.::
+38718::$$$message_0270_0159_0000$$$::"Shirou. Esse é o meu aviso usual, mas um ratinho preso vai morder o gato.[lr]::
+38719::$$$message_0270_0159_0001$$$::Se continuar a agir com tanta violência assim, você será surpreendido e cairá em momentos inapropriados, como fez hoje.[lr]::
+38720::$$$message_0270_0159_0002$$$::Eu realmente estava sendo sincero ali e queria ver a Rider em um ou dois figurinos fofos. Mas no fim, foi isso que me destruiu, e o contra-ataque inevitavelmente veio.::
+38721::$$$message_0270_0160_0000$$$::"Também não deveria zombar das mulheres tanto.[lr]::
+38722::$$$message_0270_0160_0001$$$::As coisas chegaram até lá só porque foi eu, mas você teria sofrido muito se tivesse sido Sakura ou Rin..."::
+38723::$$$message_0270_0161_0000$$$::Assento enquanto escuto a aula de Rider enquanto caminhamos ao lado um do outro.[lr]::
+38724::$$$message_0270_0161_0001$$$::Mesmo que eu tivesse feito com que ela mudasse para muitas coisas, eu era inútil então nem chegamos a comprar nada. No final, sinto que só consegui dizer "sim, está bom"."::
+38725::$$$message_0270_0162_0000$$$::"...Sim. Obrigado por tudo hoje.[lr]::
+38726::$$$message_0270_0162_0001$$$::"Ah, sim...[lr]::
+38727::$$$message_0270_0162_0002$$$::No caminho de volta, a noite chega antes mesmo que tenhamos percebido.[lr]::
+38728::$$$message_0270_0162_0003$$$::Assim como prometi a Sakura, fiquei toda a manhã acompanhando o Rider.::
+38729::$$$message_0270_0163_0000$$$::"Mas, fico feliz por você parecer estar se divertindo.[lr]::
+38730::$$$message_0270_0163_0001$$$::Eu estava me perguntando como tudo ia terminar no começo.[lr]::
+38731::$$$message_0270_0163_0002$$$::Almoço foi medíocre e o filme que vimos foi estranho. Se ela tivesse se oposto quando forcei ela em Verde, teria acabado em nada.[lr]::
+38732::$$$message_0270_0163_0003$$$::Mas a Rider parecia estar se divertindo ao me revidar, então acho que tudo terminou bem no fim.::
+38733::$$$message_0270_0164_0000$$$::"Você se divertiu, Shirou?[lr]::
+38734::$$$message_0270_0164_0001$$$::Não consigo deixar de pensar nisso quando ela me pergunta.[lr]::
+38735::$$$message_0270_0164_0002$$$::Mais do que brincar, eu estava tentando o meu melhor para acompanhar ela no final. Mas se eu respondesse a sua pergunta... Só conseguiria dizer o que já disse antes.::
+38736::$$$message_0270_0165_0000$$$::"Estou satisfeito, já que parecia que estava se divertindo.[lr]::
+38737::$$$message_0270_0165_0001$$$::Pensamos um no outro.[lr]::
+38738::$$$message_0270_0165_0002$$$::Não é que eu esteja sem confiança ou tímido, mas posso dizer isso apenas porque não estou certo e não sei.[lr]::
+38739::$$$message_0270_0165_0003$$$::De repente, penso em Sakura, que deveria estar conosco.::
+38740::$$$message_0270_0166_0000$$$::"Se Sakura estivesse lá, eu acho que teria se divertido.[lr]::
+38741::$$$message_0270_0166_0001$$$::"...Acho que isso é verdade."[lr]::
+38742::$$$message_0270_0166_0002$$$::Uma resposta vaga.[lr]::
+38743::$$$message_0270_0166_0003$$$::Eu também não sei. Mas se Sakura tivesse vindo conosco, acho que essa paz que sinto agora no caminho para casa teria sido diferente.[lr]::
+38744::$$$message_0270_0166_0004$$$::Eu reconheço que isso em si mesmo é uma felicidade que também devo agradecer...::
+38745::$$$message_0270_0167_0000$$$::"Tudo bem... Estamos em casa. Acho que deveria relatar a Sakura como fazer.[lr]::
+38746::$$$message_0270_0167_0001$$$::"Devo contar pra ela exatamente como foi?[lr]::
+38747::$$$message_0270_0167_0002$$$::"...Se fizer isso, ela vai se meter em briga e ficar ciumenta, e eu não vou esquecer.[lr]::
+38748::$$$message_0270_0167_0003$$$::Estarei em grande aperto se ela disser: "Vou te mostrar o meu próximo, Senpai!"[lr]::
+38749::$$$message_0270_0167_0004$$$::Assim que interno me boto de cara com o fato de que tudo isso foi um saco[line len=2][fg index=2000 opacity=0 time=300 pos=l storage=ライダー私服01c(近) textoff=0]::
+38750::$$$message_0270_0168_0000$$$::"Obrigado... por hoje, Shirou.[lr]::
+38751::$$$message_0270_0168_0001$$$::"Hmm?[lr]::
+38752::$$$message_0270_0168_0002$$$::E...[lr]::
+38753::$$$message_0270_0168_0003$$$::Ela beija levemente minha testa.::
+38754::$$$message_0270_0169_0000$$$::"Khh... [wvl] [shock vmax=20 time=400 count=-4]R-Rider, foi isso [line len=2]!?"[lr]::
+38755::$$$message_0270_0169_0001$$$::"Por favor, acalme-se. Saber e Sakura vão notar se você desabar em pânico.[lr]::
+38756::$$$message_0270_0169_0002$$$::"Não é isso! Ahh, você é tão..."::
+38757::$$$message_0270_0170_0000$$$::Toquei minha testa e suspirei.[lr]::
+38758::$$$message_0270_0170_0001$$$::Algo assim de mim seria muito pretensioso. Ficou elegante porque era ela.[lr]::
+38759::$$$message_0270_0170_0002$$$::Ser bonito é um vantagem.::
+38760::$$$message_0270_0171_0000$$$::"...Você é linda assim mesmo, mas eu acho que ficaria horrivelmente bonita e linda se fosse homem também.[lr]::
+38761::$$$message_0270_0171_0001$$$::"Se você fosse uma garota, eu acho que seria uma garota devota e admirável que os outros não permitiriam ficar sozinha.[lr]::
+38762::$$$message_0270_0171_0002$$$::"..."[lr]::
+38763::$$$message_0270_0171_0003$$$::...Sou empurrado para o canto novamente. Não consigo vencer a Rider quando é mais crítico.::
+38764::$$$message_0270_0172_0000$$$::"Bem-vindo de volta, Rider. Como foi hoje?[lr]::
+38765::$$$message_0270_0172_0001$$$::Obrigado pelo seu trabalho, Senpai. O jantar está pronto[line len=2][lr]::
+38766::$$$message_0270_0172_0002$$$::"Retornamos. Foi divertido; tive diversão em seu nome..."::
+938640::$$$message_9270_0136_0000$$$::"Direito... Shirou? Você me fará feliz?"[r]::
+]
+

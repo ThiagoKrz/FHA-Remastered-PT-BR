@@ -1,0 +1,480 @@
+DAT
+id=qid::label=str::text=lstr::
+4417::$$$message_0034_0000_0000$$$::Vou checar o celeiro.[lr]::
+4418::$$$message_0034_0000_0001$$$::Acabei de organizá-lo há pouco tempo, então seria bom trabalhar um pouco na recuperação por um tempo.::
+4419::$$$message_0034_0001_0000$$$::"Shirou, você tem um momento?"[lr]::
+4420::$$$message_0034_0001_0001$$$::"Hmm? Hã... [cacheimage storage=o土蔵前(秋)-(昼),ライダー私服02a(近)][wvl][clfg][fg left=0 index=1000 top=0 storage=o土蔵前(秋)-(昼)][fg index=2000 pos=c storage=ライダー私服02a(近)][dash textoff=0 page=back mx=0 opacity=255 layer=all irot=-0.0 cx=400 imag=2 time=800 cy=628 mag=1.8 my=0 rot=-0.0 accel=-2][shock vmax=20 time=1000 count=-5][playstop time=200 nowait=1][se storage=se025.wav][se storage=se042.wav][transex textoff=0 time=200]Qua!"::
+4421::$$$message_0034_0002_0000$$$::"Shirou? Isso parece quebrado. Você poderia me dar uma olhada nisso?[lr]::
+4422::$$$message_0034_0002_0001$$$::Está solto em algum lugar e não fica firme mesmo quando eu o empurro com as mãos. Talvez tenha tratado dele com muito descuido por causa da minha excitação, porque só um toque leve já faz perder a tensão."::
+4423::$$$message_0034_0003_0000$$$::E-e-ei, aquele "muro" gigante pertencia à Rider... Não, concentre-se![lr]::
+4424::$$$message_0034_0003_0001$$$::"W-w-que [wvl] [shock vmax=15 time=400 count=-3] é que você quer que eu corrija!?![lr]::
+4425::$$$message_0034_0003_0002$$$::Não tem jeito, eu absolutamente não consigo consertar isso, está muito além de tudo o que consigo lidar...!"[lr]::
+4426::$$$message_0034_0003_0003$$$::"...?"::
+4427::$$$message_0034_0004_0000$$$::"Você deveria perguntar, hum, Saber...quem não saberia como é...nem Tohsaka..."[lr]::
+4428::$$$message_0034_0004_0001$$$::"..."[lr]::
+4429::$$$message_0034_0004_0002$$$::"Eu sei! [wvl][shock vmax=15 time=400 count=-3]Sakura! A Sakura sabe o que fazer![lr]::
+4430::$$$message_0034_0004_0003$$$::Ela é a pessoa em que você pode mais confiar agora! Sim, você tem que perguntar à Sakura!"::
+4431::$$$message_0034_0005_0000$$$::"...Estava falando da minha bicicleta.[lr]::
+4432::$$$message_0034_0005_0001$$$::Você está ocupado agora?"[lr]::
+4433::$$$message_0034_0005_0002$$$::"............[wvl][se storage=se247.wav][clfg][dash textoff=0 page=back mx=0 opacity=200 layer=base irot=-0.0 cx=830 imag=2.7 time=8000 cy=208 mag=2.7 my=-85 storage=o土蔵前(秋)-(昼) rot=-0.0 accel=0][transex textoff=0 time=400]Não tão ocupado quanto Sakura, não."::
+4434::$$$message_0034_0006_0000$$$::"O tempo está ficando mais frio."[lr]::
+4435::$$$message_0034_0006_0001$$$::...Lamento a diferença de altura entre nós.[lr]::
+4436::$$$message_0034_0006_0002$$$::Eu não teria feito uma compreensão tão humilhante se meu nível de visão estivesse mais alto.::
+4437::$$$message_0034_0007_0000$$$::Quando caminho ao lado da Rider...[lr]::
+4438::$$$message_0034_0007_0001$$$::"Shirou, não é hora de você considerar usar algo para aquecer o pescoço? Antes, vi a marca de mordida[line len=2][cacheimage storage=ライダー私服01f(中)][wvl canskip=0 time=500][chgfg textoff=0 time=200 storage=ライダー私服01f(中)]Quero dizer, [cacheimage storage=ライダー私服02d(中)][wvl canskip=0 time=400][chgfg textoff=0 time=200 storage=ライダー私服02d(中)]você parecia frio."[lr]::
+4439::$$$message_0034_0007_0002$$$::...ela tem que olhar para baixo como uma professora de creche ao me falar, e isso me faz me conscientizar do próprio tamanho do meu corpo.::
+4440::$$$message_0034_0008_0000$$$::"Rider, você é alto."[lr]::
+4441::$$$message_0034_0008_0001$$$::"...Sim."[lr]::
+4442::$$$message_0034_0008_0002$$$::"Não, estou invejando. Queria ser um pouco mais alto."::
+4443::$$$message_0034_0009_0000$$$::"Você tem uma figura elegante, como uma modelo. Uma charme que atrai os olhos das pessoas apenas por estar ali."::
+4444::$$$message_0034_0010_0000$$$::"Mas..."[lr]::
+4445::$$$message_0034_0010_0001$$$::"Hmm?"[lr]::
+4446::$$$message_0034_0010_0002$$$::"Mas... [cacheimage storage=ライダー私服04c(中)] [wvl canskip=0 time=400] [chgfg textoff=0 time=200 storage=ライダー私服04c(中)] Eu não sou fofa."[lr]::
+4447::$$$message_0034_0010_0003$$$::"..."[lr]::
+4448::$$$message_0034_0010_0004$$$::...Lindo?[sestop time=2000 nowait=true]::
+4449::$$$message_0034_0011_0000$$$::"Isso exige que alguém tenha pequena estatura. Não há nada que eu possa fazer a respeito."[lr]::
+4450::$$$message_0034_0011_0001$$$::...É verdade que as coisas que elogiamos como "fofas" tendem a ser pequenas e delicadas, enquanto a Rider é o oposto absoluto.::
+4451::$$$message_0034_0012_0000$$$::"...Você quer que as pessoas te vejam como fofo, então."[lr]::
+4452::$$$message_0034_0012_0001$$$::Como um Rider mais fofo seria?[lr]::
+4453::$$$message_0034_0012_0002$$$::Ela carregaria um peluche com o qual conversa?[lr]::
+4454::$$$message_0034_0012_0003$$$::Ela se moveria da forma como vi em jogos de vídeo, esbarraçando a cabeça em coisas e desmaiando?[lr]::
+4455::$$$message_0034_0012_0004$$$::Ela roubaria olhares para os doces que recebemos de Issei e sorriria para mim, perguntando: "o que devemos fazer com esses, Shirou?"::
+4456::$$$message_0034_0013_0000$$$::Nenhuma dessas coisas parece certa para ela.[lr]::
+4457::$$$message_0034_0013_0001$$$::Diz-se que desejamos ser pessoas que não somos. A Rider parece absolutamente perfeita do meu ponto de vista, mas até ela não é estranha à insegurança.::
+4458::$$$message_0034_0014_0000$$$::"Acho que não há como consertar isso...[lr]::
+4459::$$$message_0034_0014_0001$$$::Eu sei. Por que você não pensa nos benefícios de ser mais alto?"[lr]::
+4460::$$$message_0034_0014_0002$$$::"Não há realmente nenhum."[lr]::
+4461::$$$message_0034_0014_0003$$$::"Hmm... Por exemplo, você pode alcançar os itens mais altos nas prateleiras da loja, e é fácil de ser notado em uma multidão."[lr]::
+4462::$$$message_0034_0014_0004$$$::"Se você os adicionar aos desvantagens, ainda estou em um saldo negativo."::
+4463::$$$message_0034_0015_0000$$$::"Desvantagens...?"[lr]::
+4464::$$$message_0034_0015_0001$$$::"..."::
+4465::$$$message_0034_0016_0000$$$::Quais são as desvantagens, então?[lr]::
+4466::$$$message_0034_0016_0001$$$::Olho para cima pra ela. Julgando pelo seu semblante grave e profundamente preocupado, isso deve realmente incomodá-la.[lr]::
+4467::$$$message_0034_0016_0002$$$::Há muita verdade feia que Rider tem que enfrentar que eu não sei por ser curto.::
+4468::$$$message_0034_0017_0000$$$::Ainda assim, sou invejoso com sua altura.[lr]::
+4469::$$$message_0034_0017_0001$$$::Eu poderia esquecer meus pequenos problemas e me sentir como alguém maior.[lr]::
+4470::$$$message_0034_0017_0002$$$::"Oiê!"[lr]::
+4471::$$$message_0034_0017_0003$$$::...Assim é. Quando você está em um lugar alto, expressa-se naturalmente mais alto também.[lr]::
+4472::$$$message_0034_0017_0004$$$::Devem ser agradáveis estar tão alto...ser alto...::
+4473::$$$message_0034_0018_0000$$$::"...Espere, hein?"[lr]::
+4474::$$$message_0034_0018_0001$$$::Não estou em idade de dizer isso.[lr]::
+4475::$$$message_0034_0018_0002$$$::"Não, foi..."::
+4476::$$$message_0034_0019_0000$$$::"Yoo-hooooo!"[rf][lr]::
+4477::$$$message_0034_0019_0001$$$::"Wha...ngh!"[lr]::
+4478::$$$message_0034_0019_0002$$$::Illya!?[lr]::
+4479::$$$message_0034_0019_0003$$$::Ela está pulando daí!? É muito perigoso...!::
+4480::$$$message_0034_0020_0000$$$::"Quaaa..."[rf][lr]::
+4481::$$$message_0034_0020_0001$$$::Pulando [arrowright] caindo.[lr]::
+4482::$$$message_0034_0020_0002$$$::Mesmo Illya não escapa a essa lei física comum.::
+4483::$$$message_0034_0021_0000$$$::"Biiiiiiig..."[rf][lr]::
+4484::$$$message_0034_0021_0001$$$::"...Ngh!"[lr]::
+4485::$$$message_0034_0021_0002$$$::Mas...[lr]::
+4486::$$$message_0034_0021_0003$$$::Por que esse habitante da terra está tentando voar?[lr]::
+4487::$$$message_0034_0021_0004$$$::Talvez ela realmente goste de cair mais do que de voar.::
+4488::$$$message_0034_0022_0000$$$::"Broooooooo[wvl][shock vmax=10 time=2000 count=45]theeeeerrrrrrrrr!!!"::
+4489::$$$message_0034_0023_0000$$$::"Ngh, cheguei!"[lr]::
+4490::$$$message_0034_0023_0001$$$::Eu seguro firmemente Illya, que estava mergulhando como uma patinadora no ar com uma postura perfeita![lr]::
+4491::$$$message_0034_0023_0002$$$::Mas...[lr]::
+4492::$$$message_0034_0023_0003$$$::"Quaaaaoaaa[wvl][se storage=se079.wav][line len=2]!!!"[wvs][se storage=se422.wav][lr]::
+4493::$$$message_0034_0023_0004$$$::[se storage=se067.wav]Não há exaustão [se storage=se075.wav]em [se storage=se079.wav]sua entusiasmo desmedido.[se storage=se422.wav][lr]::
+4494::$$$message_0034_0023_0005$$$::[se storage=se073.wav]Eu rollo no [se storage=se205.wav]chão [se storage=se206.wav]enquanto [se storage=se153.wav]a pr[se storage=se140.wav]otejo com meu corpo!"[se storage=se072.wav]::
+4495::$$$message_0034_0024_0000$$$::"Ah, você está bem, Shirou?"[lr]::
+4496::$$$message_0034_0024_0001$$$::"Ow ow, [wvl] [se storage=se045.wav] aquilo foi demais até para uma brincadeira..."[lr]::
+4497::$$$message_0034_0024_0002$$$::Illya parece estar tudo bem.[lr]::
+4498::$$$message_0034_0024_0003$$$::Estou todo machucado, porém.::
+4499::$$$message_0034_0025_0000$$$::"Francamente, há montanhas de lixo por aqui, então é perigoso. Você se machucará se eles desmoronarem."[lr]::
+4500::$$$message_0034_0025_0001$$$::Por isso desejo que eu fosse mais alto.[lr]::
+4501::$$$message_0034_0025_0002$$$::Se eu estivesse, eu poderia tê-la pegado sem problema.::
+4502::$$$message_0034_0026_0000$$$::"Ahaha, você é tão preocupado, Shirou.[lr]::
+4503::$$$message_0034_0026_0001$$$::Espere, ahhh!?"[lr]::
+4504::$$$message_0034_0026_0002$$$::"...!"[lr]::
+4505::$$$message_0034_0026_0003$$$::Fico congelado, como se tivesse sido pego em algo.[lr]::
+4506::$$$message_0034_0026_0004$$$::Quando eu me viro...[lr]::
+4507::$$$message_0034_0026_0005$$$::A cavalo Rider estava empurrando-o no chão.::
+4508::$$$message_0034_0027_0000$$$::". ..?"[lr]::
+4509::$$$message_0034_0027_0001$$$::A montaria de Rider está imóvel, seus braços ainda esticados onde segurava as manoplas.[lr]::
+4510::$$$message_0034_0027_0002$$$::"Rider?"::
+4511::$$$message_0034_0028_0000$$$::Ela nem sequer notou que deixou cair a bicicleta.[lr]::
+4512::$$$message_0034_0028_0001$$$::Quando tento ver o que está acontecendo com ela, percebo que seus olhos estão desfocados e distantes atrás dos Mestres dos Olhos Místicos.::
+4513::$$$message_0034_0029_0000$$$::"Rider, o que há de errado?"[lr]::
+4514::$$$message_0034_0029_0001$$$::"Sim, irmã!"[lr]::
+4515::$$$message_0034_0029_0002$$$::...[lr]::
+4516::$$$message_0034_0029_0003$$$::......[lr]::
+4517::$$$message_0034_0029_0004$$$::.........[wait canskip=0 time=800]Agora sou sua irmã?::
+4518::$$$message_0034_0030_0000$$$::Lembrando, a Rider sempre foi um pouco reservada comigo, como se estivesse me mantendo a uma distância de braço.[lr]::
+4519::$$$message_0034_0030_0001$$$::Eu não acho que sua atitude seja problemática, embora tenha me perguntado como ela conseguia manter aquela distância em público... Mas agora sou sua irmã mais velha?[lr]::
+4520::$$$message_0034_0030_0002$$$::[large]Claro que não.[rf]::
+4521::$$$message_0034_0031_0000$$$::"Nunca [cacheimage storage=ライダー私服01e(遠)][wvl canskip=0 time=300][chgfg textoff=0 time=300 storage=ライダー私服01e(遠)]se importe, [cacheimage storage=ライダー私服04f(遠)][wvl][chgfg textoff=0 time=300 storage=ライダー私服04f(遠)]Shirou.[lr]::
+4522::$$$message_0034_0031_0001$$$::Por favor, pare de ouvir isso."[lr]::
+4523::$$$message_0034_0031_0002$$$::Rider olha ao redor de forma constrangida.[lr]::
+4524::$$$message_0034_0031_0003$$$::Ela está se comportando de forma muito suspeita.::
+4525::$$$message_0034_0032_0000$$$::"R-right, eu queria que você olhasse o meu bicicleta.[lr]::
+4526::$$$message_0034_0032_0001$$$::Está solto em algum lugar, e fica assim instável mesmo quando puxo manualmente.[lr]::
+4527::$$$message_0034_0032_0002$$$::Pensei que tivesse tratado isso com demasiada violência, e gostaria que você o consertasse."::
+4528::$$$message_0034_0033_0000$$$::"Entendi. Já disse isso antes.[lr]::
+4529::$$$message_0034_0033_0001$$$::Também, é uma torre de gato, não uma bicicleta.[lr]::
+4530::$$$message_0034_0033_0002$$$::É suposto ser um brinquedo de jardim que os gatos possam riscar ou subir. A Fuji-nee pegou em algum lugar e jogou no celeiro."[wm canskip=0]::
+4531::$$$message_0034_0034_0000$$$::"..."[lr]::
+4532::$$$message_0034_0034_0001$$$::A bicicleta está no chão.::
+4533::$$$message_0034_0035_0000$$$::"YAAAAAAAHHH!"[rf][lr]::
+4534::$$$message_0034_0035_0001$$$::"Que!?"[lr]::
+4535::$$$message_0034_0035_0002$$$::O bicho branco mergulha novamente, quebrando o silêncio constrangedor.[lr]::
+4536::$$$message_0034_0035_0003$$$::Ah, esse berserkerzinho nunca perde uma oportunidade de causar caos![lr]::
+4537::$$$message_0034_0035_0004$$$::Nesta vez, a cometa vai direto para a Rider!::
+4538::$$$message_0034_0036_0000$$$::"Pegue ela, Rider!"[rf][lr]::
+4539::$$$message_0034_0036_0001$$$::"Huh? Uh, certo! [movefg textoff=0 opacity=0 time=300 pos=c accel=3 storage=ライダー私服02b(遠)]...Eeek!?"[lr]::
+4540::$$$message_0034_0036_0002$$$::Tudo bem.[line len=2][lr]::
+4541::$$$message_0034_0036_0003$$$::Com a constituição física e força de Rider, ela deveria facilmente conseguir pegar Illya!::
+4542::$$$message_0034_0037_0000$$$::Poxa, ser alto deve ser muito legal.[lr]::
+4543::$$$message_0034_0037_0001$$$::Veja, ela nem mesmo tropeçará ao pegar Illya.[lr]::
+4544::$$$message_0034_0037_0002$$$::Ela não tropeçará...[lr]::
+4545::$$$message_0034_0037_0003$$$::"Um, por quê?"[lr]::
+4546::$$$message_0034_0037_0004$$$::A cavaleira está imóvel como uma estátua de pedra.::
+4547::$$$message_0034_0038_0000$$$::"...Ah, [wvl] [se storage=se045.wav]eek...!"[lr]::
+4548::$$$message_0034_0038_0001$$$::"R-Rider!?"[lr]::
+4549::$$$message_0034_0038_0002$$$::"Yaaay, a Rider está com medo, ahahaha!"[lr]::
+4550::$$$message_0034_0038_0003$$$::"Ahh, [cacheimage storage=イリヤ06d(遠)] [wvl] [wm canskip=0] [stoplquake] [chgfg textoff=0 time=300 storage=イリヤ06d(遠) last=イリヤ05d(遠)]kyaaah!"[rf]::
+4551::$$$message_0034_0039_0000$$$::Rider está [font italic=true]gritando[font italic=false].[lr]::
+4552::$$$message_0034_0039_0001$$$::E ela está balançando nos pés enquanto Illya segura nela. Ela parece estar passando por um sofrimento psicológico grave.::
+4553::$$$message_0034_0040_0000$$$::"Ah, ah, ah...![cacheimage storage=イリヤ07b(近)][wvl][chgfg opacity=0 textoff=0 time=100 storage=イリヤ07b(近)] Não, Shirou, tira ela de cima de mim!"[lr]::
+4554::$$$message_0034_0040_0001$$$::"Desculpe, você não deveria tratar uma fräulein assim como uma borboleta. [cacheimage storage=イリヤ03b(近)] [wvl] [chgfg textoff=0 time=300 storage=イリヤ03b(近)] Isso é o que você merece por fazer isso!"[lr]::
+4555::$$$message_0034_0040_0002$$$::Illya abraça Rider pelo pescoço e passa os dedos pelos seus rostos.::
+4556::$$$message_0034_0041_0000$$$::"GAAAAAAAH!!!"[lr]::
+4557::$$$message_0034_0041_0001$$$::"Hmm?"[lr]::
+4558::$$$message_0034_0041_0002$$$::Sua reação é incomprensível.[lr]::
+4559::$$$message_0034_0041_0003$$$::Pensei que tivesse descoberto algum segredo sobre a Rider que ninguém sabia?::
+4560::$$$message_0034_0042_0000$$$::De fato, sim, fiz.[lr]::
+4561::$$$message_0034_0042_0001$$$::Vamos agora falar de um país distante.[lr]::
+4562::$$$message_0034_0042_0002$$$::Era um mito escuro tingido de sangue.[lr]::
+4563::$$$message_0034_0042_0003$$$::A história do monstro Medusa, cujo próprio nome trazia medo.::
+4564::$$$message_0034_0043_0000$$$::Havia uma outra realidade chamada Ilha Sem Forma.[lr]::
+4565::$$$message_0034_0043_0001$$$::Era uma ilha nas distantes profundezas de Okeanos, conhecida apenas pelas três irmãs Graeae.[lr]::
+4566::$$$message_0034_0043_0002$$$::Dizia-se que a horrível Gorgona vivia ali, uma deusa caída transformada em monstro.::
+4567::$$$message_0034_0044_0000$$$::Muitos guerreiros chegaram às margens daquele templo enigmático.[lr]::
+4568::$$$message_0034_0044_0001$$$::Alguns foram verificar a lenda da Gorgona[lr]::
+4569::$$$message_0034_0044_0002$$$::enquanto alguns buscavam tornar seu nome conhecido ao derrotá-lo.[lr]::
+4570::$$$message_0034_0044_0003$$$::Outros foram enviados lá com grande cerimônia após terem sido profetizados por um oráculo.[lr]::
+4571::$$$message_0034_0044_0004$$$::Enquanto outros seguiam em silêncio, levantando espada, lança e arco, sem dizer a ninguém de sua jornada.::
+4572::$$$message_0034_0045_0000$$$::Nenhum retornou vivo.[lr]::
+4573::$$$message_0034_0045_0001$$$::Nenhum homem jamais escapou da ilha.[lr]::
+4574::$$$message_0034_0045_0002$$$::Eles nem mesmo retornaram à terra após suas mortes.[lr]::
+4575::$$$message_0034_0045_0003$$$::Eles foram transformados em pedra no mesmo instante, e suas vidas terminaram ali.::
+4576::$$$message_0034_0046_0000$$$::O portador dos Olhos Místicos de Petrificação, Cybele, escondia-se no templo.[lr]::
+4577::$$$message_0034_0046_0001$$$::Seu longo cabelo era como os fios sedosos do Oriente, e sua pele era branca como neve virgem.[lr]::
+4578::$$$message_0034_0046_0002$$$::Além disso, seu comportamento era mais seco que o deserto nubiano e mais cruel que uma tempestade de areia.::
+4579::$$$message_0034_0047_0000$$$::O portador olhou para os homens petrificados e seus olhos pararam em um deles.[lr]::
+4580::$$$message_0034_0047_0001$$$::Era uma estátua de um homem de grande lança.[lr]::
+4581::$$$message_0034_0047_0002$$$::Suas musculaturas brutas e salientes falavam da força que ele possuía durante a vida.[lr]::
+4582::$$$message_0034_0047_0003$$$::O portador examinou a estátua, seus lábios curvando-se levemente no canto.[lr]::
+4583::$$$message_0034_0047_0004$$$::Ela ergueu sua estranha faca em direção ao pobre homem.[se storage=se126.wav][se storage=se140.wav][se storage=se102.wav]::
+4584::$$$message_0034_0048_0000$$$::Ela envolveu a estátua com correntes conectadas ao pomel da sua faca.[lr]::
+4585::$$$message_0034_0048_0001$$$::Diante da corrente que unia duas estátuas, ela se ajoelhou na cesta ao lado dos seus pés.[lr]::
+4586::$$$message_0034_0048_0002$$$::e removeu uma montanha de roupas de lavar.::
+4587::$$$message_0034_0049_0000$$$::"Ah... Essa é fofa... Adoraria usar algo assim."[lr]::
+4588::$$$message_0034_0049_0001$$$::A caixa estava cheia de roupas feitas de seda e linho caros, todas adornadas com babados e fitas.[lr]::
+4589::$$$message_0034_0049_0002$$$::O portador lavou cada um com cuidado, lavando-os meticulosamente na correnteza do rio e pendurando-os para secar nas correntes.::
+4590::$$$message_0034_0050_0000$$$::Ela trabalhou diligentemente, usando rapidamente tudo o que dispunha.[lr]::
+4591::$$$message_0034_0050_0001$$$::Asas se tornaram cabos de secar, espadas viraram gancho de roupa, e capacetes viraram cabides para secar sapatos.[se storage=se216.wav]::
+4592::$$$message_0034_0051_0000$$$::Depois [se volume=70 storage=se140.wav]que terminou, ela notou uma estátua projetando uma sombra sobre parte da roupa e a empurrou para o lado.[lr]::
+4593::$$$message_0034_0051_0001$$$::Tudo em um dia de trabalho.[lr]::
+4594::$$$message_0034_0051_0002$$$::O portador do Olho Místico olhou para a fileira estreita de estátuas alinhadas no templo.[lr]::
+4595::$$$message_0034_0051_0003$$$::"Ufa. Espero que ninguém venha hoje."[lr]::
+4596::$$$message_0034_0051_0004$$$::Ela suspirou, com um toque de tédio.::
+4597::$$$message_0034_0052_0000$$$::"Okay, time for a break."[lr]::
+4598::$$$message_0034_0052_0001$$$::Ela sentou-se em uma estátua de um homem se arrastando de quatro.[lr]::
+4599::$$$message_0034_0052_0002$$$::Sob a luz solar quente, uma brisa seca dançava entre seus cabelos e a roupa pendurada.::
+4600::$$$message_0034_0053_0000$$$::"A roupa amontonou um pouco, mas estou feliz por termos um tempo bom por uma vez."[lr]::
+4601::$$$message_0034_0053_0001$$$::Indiferentemente, ela olhou para o sol, aproveitando seus raios.[lr]::
+4602::$$$message_0034_0053_0002$$$::Ela não parecia uma deusa para ser adorada ou um monstro que assustava o mundo. Ela era apenas uma garota aproveitando seu momento de descanso.::
+4603::$$$message_0034_0054_0000$$$::"Te encontrei, Medusa!"[lr]::
+4604::$$$message_0034_0054_0001$$$::"...!"[lr]::
+4605::$$$message_0034_0054_0002$$$::Uma voz irritada soou subitamente no templo.[lr]::
+4606::$$$message_0034_0054_0003$$$::Não era um som incomum na ilha.[lr]::
+4607::$$$message_0034_0054_0004$$$::Muitos assassinos vieram matar a serpente maléfica em busca de glória, então ela precisava estar em alerta para ataques a qualquer momento, dia ou noite.[lr]::
+4608::$$$message_0034_0054_0005$$$::Como resultado, esse cemitério de pedras de formas estranhas havia visto um aumento em cabos de secar roupas...::
+4609::$$$message_0034_0055_0000$$$::"Ah, ah, ah, aah..."[lr]::
+4610::$$$message_0034_0055_0001$$$::Mas...[lr]::
+4611::$$$message_0034_0055_0002$$$::A portadora do Olho Místico que deveria estar lambendo os lábios diante da perspectiva de novos sacrifícios estava вместо gemendo como se o mundo estivesse prestes a acabar.::
+4612::$$$message_0034_0056_0000$$$::"Eu não acredito nisso... Como você poderia...!"[lr]::
+4613::$$$message_0034_0056_0001$$$::Uma garota sozinha e bela havia aparecido no topo de uma escada.[lr]::
+4614::$$$message_0034_0056_0002$$$::olhando para baixo para a floresta petrificada.::
+4615::$$$message_0034_0057_0000$$$::"O que... você fez!?"[lr]::
+4616::$$$message_0034_0057_0001$$$::"I..."[lr]::
+4617::$$$message_0034_0057_0002$$$::"Diga-me, [font italic=true]não[font italic=false] que pendurar a roupa nesses cadeados velhos e enferrujados!"::
+4618::$$$message_0034_0058_0000$$$::"P-pardon me, Sister. It's so convenient, I didn't think"[line len=2][lr]::
+4619::$$$message_0034_0058_0001$$$::"Silêncio. Ugh, olha como as suas correntes me fizeram arrugar essas minhas roupas lindas![lr]::
+4620::$$$message_0034_0058_0002$$$::Porque você é tão grande e grosseiro, corrompeu não só seu corpo, mas sua divindade... [cacheimage storage=ゴルゴン次女01d(中)][wvl][chgfg time=300 storage=ゴルゴン次女01d(中)] Minhas roupas são diferentes das roupas deslavadas que você se cobre, entendeu!? Tudo o que você faz com essas [font italic=true]grandes[font italic=false] mãos suas é tão desorganizado!"::
+4621::$$$message_0034_0059_0000$$$::"Sim... Estou profundamente arrependido."[lr]::
+4622::$$$message_0034_0059_0001$$$::"E olhe para meus [wvl] [se storage=se054 nowait=1] [shock vmax=20 time=300 count=-3]sapatos! Que significado tem isso, colocar em cima desse homem feio! Eram meus sapatos favoritos, e agora estão tão sujos que não posso usá-los.[lr]::
+4623::$$$message_0034_0059_0002$$$::Eu sei que aquela cabeça de feijão não é grande o suficiente para seu corpo imenso e desajeitado, mas não consigo acreditar que você tenha perdido totalmente o senso de dignidade e beleza."[lr]::
+4624::$$$message_0034_0059_0003$$$::"Você tem razão... Não tenho desculpa."::
+4625::$$$message_0034_0060_0000$$$::"Gyaah, e essas roupas precisam ser secas à sombra![lr]::
+4626::$$$message_0034_0060_0001$$$::Ah, estão desbotados... Como você não lava nem uma coisa só? Você destruiu todas as roupas![lr]::
+4627::$$$message_0034_0060_0002$$$::Inacreditável! Você é uma deusa da peste!? [wm canskip=0] [wvl] [move textoff=0 time=100 path=(467,178,255)(467,166,255) storage=ゴルゴン次女01c(遠) accel=0] Ou seu domínio é só sobre ser completamente inútil!?[wm canskip=0][lr]::
+4628::$$$message_0034_0060_0003$$$::Então? Responda à pergunta, imprestável Medusa!"[lr]::
+4629::$$$message_0034_0060_0004$$$::"Eu, um, vou ser mais cuidadoso da próxima vez, então..."::
+4630::$$$message_0034_0061_0000$$$::"[move textoff=0 time=100 path=(437,133,255)(437,117,255) storage=ゴルゴン次女01d(近) accel=0]Sons [wm canskip=0][wvl canskip=0 time=70][move textoff=0 time=100 path=(437,133,255)(437,117,255) storage=ゴルゴン次女01d(近) accel=0]parecem [wm canskip=0][wvl canskip=0 time=70][move textoff=0 time=100 path=(437,133,255)(437,117,255) storage=ゴルゴン次女01d(近) accel=0]como se [wm canskip=0][wvl canskip=0 time=70][move textoff=0 time=100 path=(437,133,255)(437,117,255) storage=ゴルゴン次女01d(近) accel=0]ainda [wm canskip=0][wvl canskip=0 time=70][move textoff=0 time=100 path=(437,133,255)(437,117,255) storage=ゴルゴン次女01d(近) accel=0]não [wm canskip=0][wvl canskip=0 time=70][move textoff=0 time=100 path=(437,133,255)(437,117,255) storage=ゴルゴン次女01d(近) accel=0]conseguisse [wm canskip=0][wvl canskip=0 time=70][move textoff=0 time=100 path=(437,133,255)(437,117,255) storage=ゴルゴン次女01d(近) accel=0]entender [wm canskip=0][wvl canskip=0 time=70][move textoff=0 time=100 path=(437,133,255)(437,117,255) storage=ゴルゴン次女01d(近) accel=0]por [wm canskip=0][wvl canskip=0 time=70][move textoff=0 time=100 path=(437,133,255)(437,117,255) storage=ゴルゴン次女01d(近) accel=0]sua [wm canskip=0][wvl canskip=0 time=70][move textoff=0 time=100 path=(437,133,255)(437,117,255) storage=ゴルゴン次女01d(近) accel=0]cabeça...![rf][lr]::
+4631::$$$message_0034_0061_0001$$$::Não haverá uma próxima vez [cacheimage storage=ゴルゴン次女01e(近)]! [wvl][chgfg textoff=0 time=300 storage=ゴルゴン次女01e(近)]Argh, que roupa eu vou usar amanhã!? [cacheimage storage=ゴルゴン次女01d(近)][wvl][chgfg time=200 index=3000 textoff=0 storage=ゴルゴン次女01d(近)]Você está me dizendo que devo passar o dia em um figurino quase nu, sem pudor como o seu!?"::
+4632::$$$message_0034_0062_0000$$$::"...Mas essas roupas são suas..."[lr]::
+4633::$$$message_0034_0062_0001$$$::"Que, você não está feliz? Nossas roupas usadas são mais do que suficientes para você."[lr]::
+4634::$$$message_0034_0062_0002$$$::A garota dá uma repreensão firme à bela mulher. Ela mal chega ao nível do peito da mulher.[lr]::
+4635::$$$message_0034_0062_0003$$$::Poderia ter sido uma cena cômica para um observador, mas infelizmente, os únicos testemunhas eram estátuas sem vida.::
+4636::$$$message_0034_0063_0000$$$::"Eles todos são tão horríveis. Odiar olhar para seus rostos lascivos.[lr]::
+4637::$$$message_0034_0063_0001$$$::Faz um cara um cara como esse, já acabou."[lr]::
+4638::$$$message_0034_0063_0002$$$::"Hmm..."[lr]::
+4639::$$$message_0034_0063_0003$$$::"Agora, petrifique apenas homens bonitos. Quero que você destrua e limpe todos os que não valem a pena ser apreciados, até amanhã à noite!"[lr]::
+4640::$$$message_0034_0063_0004$$$::"E-é!? Mas tem tantos!"::
+4641::$$$message_0034_0064_0000$$$::"Sou sua irmã mais velha, e você faz o que eu digo. Você é nossa irmã mais nova, o que faz com que você seja menos que um escravo nesta ilha.[lr]::
+4642::$$$message_0034_0064_0001$$$::E não se esqueça de não ficar preguiçoso e usar Bellerófanto para limpar tudo de uma vez. Você pode queimar o templo se fizer isso."::
+4643::$$$message_0034_0065_0000$$$::"Ugh... aah..."[lr]::
+4644::$$$message_0034_0065_0001$$$::"Sacrilégio, você teve que não ser pego. Com quem você pensa que está se parecendo, eu me pergunto..."[lr]::
+4645::$$$message_0034_0065_0002$$$::[small]"Você, irmã."[rf]::
+4646::$$$message_0034_0066_0000$$$::"Eu ouvi, Medusa."[rf][lr]::
+4647::$$$message_0034_0066_0001$$$::"E-eep!"[lr]::
+4648::$$$message_0034_0066_0002$$$::"...Inacreditável. Acabei de dizer que você é menos que um escravo.[lr]::
+4649::$$$message_0034_0066_0003$$$::Pensar que você esqueceria isso e se rebelaria contra sua irmã um momento depois."[lr]::
+4650::$$$message_0034_0066_0004$$$::"Eu nunca..."::
+4651::$$$message_0034_0067_0000$$$::"Parece que você é um tonto tão grande que vou precisar de [font italic=true]fisicamente[font italic=false] te ensinar o que significa realmente obediência absoluta."[lr]::
+4652::$$$message_0034_0067_0001$$$::"...!"::
+4653::$$$message_0034_0068_0000$$$::"Ah...![lr]::
+4654::$$$message_0034_0068_0001$$$::Eu não vou deixar você fugir, Medusa!"[lr]::
+4655::$$$message_0034_0068_0002$$$::A portadora do Olho Místico fugiu da voz comandante tão rápido quanto seus membros permitiam.::
+4656::$$$message_0034_0069_0000$$$::Ela se dirigiu para a estabulação.[lr]::
+4657::$$$message_0034_0069_0001$$$::Havia o Pégaso, o cavalo de asas dado como presente pelo deus do mar Pósidão.[lr]::
+4658::$$$message_0034_0069_0002$$$::Ela precisava apenas montar no ser voador e levá-lo ao céu, afastando-se por enquanto da alcance da irmã.[lr]::
+4659::$$$message_0034_0069_0003$$$::Então, só podia rezar para que o humor da irmã melhorasse...::
+4660::$$$message_0034_0070_0000$$$::"Eu ainda preciso limpar e cozinhar... Mas se ela decidir me punir, não vou conseguir fazer nenhuma dessas coisas... Agh..."[lr]::
+4661::$$$message_0034_0070_0001$$$::Ela lamentava enquanto corria.[lr]::
+4662::$$$message_0034_0070_0002$$$::Suas pernas eram mais longas, então sua irmã não conseguia acompanhá-la se ela corresse.[lr]::
+4663::$$$message_0034_0070_0003$$$::Tristemente, ela pensava que esse era o único benefício do seu tamanho.::
+4664::$$$message_0034_0071_0000$$$::"Queria que eu pudesse ser tão linda quanto minhas irmãs..."[lr]::
+4665::$$$message_0034_0071_0001$$$::Ela abriu a porta da estrebaria.[lr]::
+4666::$$$message_0034_0071_0002$$$::Mas...::
+4667::$$$message_0034_0072_0000$$$::A portadora do Olho Místico parou em seus calcanhares.[lr]::
+4668::$$$message_0034_0072_0001$$$::"Você... o que está fazendo aqui?"[lr]::
+4669::$$$message_0034_0072_0002$$$::A garota segurando as rédeas de Pégaso riu, sua voz o som de prata.::
+4670::$$$message_0034_0073_0000$$$::"Oh, peço desculpas, Medusa.[lr]::
+4671::$$$message_0034_0073_0001$$$::Pégaso está cansado depois de uma longa viagem hoje. Acho que não consegue mais carregar um cavaleiro tão grande e pesado quanto você."::
+4672::$$$message_0034_0074_0000$$$::"Hmm...? Mas ele deveria estar descansando desde cedo..."[lr]::
+4673::$$$message_0034_0074_0001$$$::"Você quer sair da ilha? Então nada. Seu corpo flácido deve ser suficientemente bóia.[lr]::
+4674::$$$message_0034_0074_0002$$$::Você me ouve? Como dono dessa égua, estou avisando que você não está autorizado a usá-la hoje."[lr]::
+4675::$$$message_0034_0074_0003$$$::"Mas... ele foi me dado..."::
+4676::$$$message_0034_0075_0000$$$::"Hehe. Você é tão sem esperança, Medusa.[lr]::
+4677::$$$message_0034_0075_0001$$$::Tudo que uma irmã mais nova possui pertence à sua irmã mais velha. Quantas vezes preciso dizer isso antes que você entenda?[lr]::
+4678::$$$message_0034_0075_0002$$$::...Sinceramente, pare de usar minha Pégaso como uma saída fácil para todos os seus problemas. Com quem você aprendeu esse mindset ganancioso?"[lr]::
+4679::$$$message_0034_0075_0003$$$::"........."[rf]::
+4680::$$$message_0034_0076_0000$$$::"Eu ouvi, Medusa.[rf][lr]::
+4681::$$$message_0034_0076_0001$$$::...Você me deixa sem escolha. Não quero fazer isso, mas parece que terei que [font italic=true]fisicamente[font italic=false] ensinar você as consequências de se opor à sua grande irmã."[lr]::
+4682::$$$message_0034_0076_0002$$$::"E-eek! Nem sequer disse nada essa vez!"::
+4683::$$$message_0034_0077_0000$$$::"Eu-Eu-Eu-Eu sinto muito...!"[lr]::
+4684::$$$message_0034_0077_0001$$$::Ela girou e se virou para correr. Infelizmente...::
+4685::$$$message_0034_0078_0000$$$::"...!"[lr]::
+4686::$$$message_0034_0078_0001$$$::"Ah, você voltou para mim. Suponho que seja admirável, para alguém tão desonesto quanto você."[lr]::
+4687::$$$message_0034_0078_0002$$$::"...Média!"[lr]::
+4688::$$$message_0034_0078_0003$$$::"Ah, consegui a Medusa para mim, não é?"[lr]::
+4689::$$$message_0034_0078_0004$$$::"...Grande Irmana!"::
+4690::$$$message_0034_0079_0000$$$::Isso precisa ser explicado.[lr]::
+4691::$$$message_0034_0079_0001$$$::Duas garotas aparecem diante de Medusa.[lr]::
+4692::$$$message_0034_0079_0002$$$::Exatamente iguais em aparência, eram nada mais do que as irmãs mais velhas de Medusa.::
+4693::$$$message_0034_0080_0000$$$::A mais velha era Stheno, a Forte.[lr]::
+4694::$$$message_0034_0080_0001$$$::A segunda irmã era Euryale, a Que Voa Longe.[lr]::
+4695::$$$message_0034_0080_0002$$$::E a mais nova irmã, uma mulher gigante que não tinha nada a ver com as outras duas, era Medusa, a Dominante.::
+4696::$$$message_0034_0081_0000$$$::Essas três belas irmãs eram as infames Gorgonas.[lr]::
+4697::$$$message_0034_0081_0001$$$::Monstruosos destacados do mundo grego, exilados na Ilha Formalessa, onde petrificaram incontáveis heróis.::
+4698::$$$message_0034_0082_0000$$$::No entanto...[lr]::
+4699::$$$message_0034_0082_0001$$$::Que você não se equivoque, os heróis temiam apenas a mais nova irmã, Medusa.[lr]::
+4700::$$$message_0034_0082_0002$$$::As duas irmãs mais velhas não tinham nenhum talento martial.[lr]::
+4701::$$$message_0034_0082_0003$$$::...Eram notórias de outras formas, mas eram deusas para os homens ao seu redor.::
+4702::$$$message_0034_0083_0000$$$::As primeiras irmãs eram originalmente deidades antigas e indígenas do mundo grego.[lr]::
+4703::$$$message_0034_0083_0001$$$::Mas a deusa olímpica Atena, que via sua beleza com animosidade, roubou a fé dos seus fiéis humanos e os exilou para a Ilha Formalessa.[lr]::
+4704::$$$message_0034_0083_0002$$$::A jovem irmã Medusa foi o alvo da rancor de Atena, mas as duas irmãs mais velhas acompanharam sua irmã até a Ilha Formaless out of compassion. Depois disso, o discurso humano começou a descrevê-las como monstros também.::
+4705::$$$message_0034_0084_0000$$$::Claro, eram apenas rumores.[lr]::
+4706::$$$message_0034_0084_0001$$$::Stheno e Euryale não eram monstros. Eram apenas seres que viviam como sempre haviam vivido.[lr]::
+4707::$$$message_0034_0084_0002$$$::Enquanto a situação de Medusa era mais complexa, as duas irmãs mais velhas eram literalmente deusas perfeitas.::
+4708::$$$message_0034_0085_0000$$$::Stheno, a mais antiga,[lr]::
+4709::$$$message_0034_0085_0001$$$::carregava-se com elegância refinada e agia com cuidado.[lr]::
+4710::$$$message_0034_0085_0002$$$::Ela era dita ser a ideal mulher[lr]::
+4711::$$$message_0034_0085_0003$$$::Que qualquer homem a quem ela se dirigisse ficasse dominado pela alegria e jurasse sua lealdade eterna.::
+4712::$$$message_0034_0086_0000$$$::Euriale, a segunda irmã[lr]::
+4713::$$$message_0034_0086_0001$$$::era despreocupada e cheia de alegria, com uma postura inocente.[lr]::
+4714::$$$message_0034_0086_0002$$$::Ela era dita ser a garota ideal.[lr]::
+4715::$$$message_0034_0086_0003$$$::Assim, qualquer homem que ela se dirigisse tremularia de honra e juraria deixar sua vida para ela.::
+4716::$$$message_0034_0087_0000$$$::Essas duas deusas não possuíam a força monstruosa e os Olhos Místicos que Medusa possuía.[lr]::
+4717::$$$message_0034_0087_0001$$$::Eram apenas garotas frágeis, embora imortais.[lr]::
+4718::$$$message_0034_0087_0002$$$::Atena os difamou,[lr]::
+4719::$$$message_0034_0087_0003$$$::Dizendo que as três irmãs eram monstros que jamais envelheceriam.[lr]::
+4720::$$$message_0034_0087_0004$$$::Isso não era verdade.[lr]::
+4721::$$$message_0034_0087_0005$$$::Ao contrário dos deuses olímpicos que evitavam o envelhecimento consumindo as maças douradas, as Gorgonas, especialmente Stheno e Euryale, tinham imortalidade completa. Essas deusas nasceram como ídolos literais para serem adoradas.::
+4722::$$$message_0034_0088_0000$$$::Eram encarnações do desejo masculino.[lr]::
+4723::$$$message_0034_0088_0001$$$::Em troca de serem eternamente imutáveis, eram as entidades mais frágeis do mundo.[lr]::
+4724::$$$message_0034_0088_0002$$$::Eram garotas eternas que precisavam de alguém para sobreviver. Não tinham poder para lutar e morreriam de fome sozinhas.[lr]::
+4725::$$$message_0034_0088_0003$$$::Tal era o Coração Divino das três irmãs Gorgona.::
+4726::$$$message_0034_0089_0000$$$::Até que desaparecessem do mundo, eles sempre seriam os mesmos que o dia em que surgiram pela primeira vez...[lr]::
+4727::$$$message_0034_0089_0001$$$::...a menos da mais nova irmã, que nasceu um fracasso.::
+4728::$$$message_0034_0090_0000$$$::Medusa.[lr]::
+4729::$$$message_0034_0090_0001$$$::Ao contrário das irmãs, ela não possuía as qualidades que a tornariam uma deusa perfeita.[lr]::
+4730::$$$message_0034_0090_0002$$$::Enquanto as irmãs de Medusa eram verdadeiramente imortais, ela possuía uma imortalidade imperfeita.[lr]::
+4731::$$$message_0034_0090_0003$$$::Como resultado, Medusa estava destinada a [font italic=true]maturar[font italic=false], e um dia se tornaria um monstro diferente de suas irmãs.::
+4732::$$$message_0034_0091_0000$$$::...A seu crédito, Medusa era uma deusa de excelente qualidade.[lr]::
+4733::$$$message_0034_0091_0001$$$::As irmãs Gorgona eram todas fenômenos naturais deificados.[lr]::
+4734::$$$message_0034_0091_0002$$$::Podem chamá-los de cópias ou clones.[lr]::
+4735::$$$message_0034_0091_0003$$$::Seja por um erro de nascimento ou por projeto intencional, Medusa era uma cópia defeituosa das Gorgonas.::
+4736::$$$message_0034_0092_0000$$$::Suas irmãs personificavam a imortalidade completa, mas Medusa não possuía tal traço.[lr]::
+4737::$$$message_0034_0092_0001$$$::No entanto, em troca, ela despertou um número de poderes que suas irmãs não possuíam.[lr]::
+4738::$$$message_0034_0092_0002$$$::Olhos Místicos de Petrificação. O poder de interferir com a natureza em um nível elevado. Habilidades físicas superiores.[lr]::
+4739::$$$message_0034_0092_0003$$$::Diz-se que ela tinha a autoridade indispensável para proteger suas irmãs, que não poderiam sobreviver no mundo natural.::
+4740::$$$message_0034_0093_0000$$$::As três irmãs eram originalmente supostas ser um único organismo, mas a diferença em seus poderes fez com que desenvolvessem peculiaridades.[lr]::
+4741::$$$message_0034_0093_0001$$$::Foi óbvio para Medusa, mas as duas irmãs mais velhas começaram a desenvolver pequenas diferenças à medida que interagiam com sua irmã mais nova.::
+4742::$$$message_0034_0094_0000$$$::A mais nova era especializada em combate, enquanto as irmãs mais velhas eram perfeitas atrizes.[lr]::
+4743::$$$message_0034_0094_0001$$$::Contrário a Medusa, eles eram afetuosos com humanos.[lr]::
+4744::$$$message_0034_0094_0002$$$::Eles convidaram homens para a ilha, confortaram-os e os enviaram para novas aventuras.::
+4745::$$$message_0034_0095_0000$$$::Ídolos eternos.[lr]::
+4746::$$$message_0034_0095_0001$$$::Embodimentos das mais puras criadas.[lr]::
+4747::$$$message_0034_0095_0002$$$::Meninas ideais que nunca envelheceram.[lr]::
+4748::$$$message_0034_0095_0003$$$::Duas deusas que contrastavam vivamente com as outras altivas e voluptuosas deusas.::
+4749::$$$message_0034_0096_0000$$$::Isso mesmo.[lr]::
+4750::$$$message_0034_0096_0001$$$::Essas deusas que só foram nunca amadas, especializaram-se em [font italic=true]serem lindas[font italic=false].[lr]::
+4751::$$$message_0034_0096_0002$$$::Eram as irmãs supremas que Medusa jamais poderia superar, por mais belas que se tornasse. Um dueto de idolas goth-lolitas brancas e puras.[lr]::
+4752::$$$message_0034_0096_0003$$$::Tal era o motivo de serem Stheno e Euryale...!::
+4753::$$$message_0034_0097_0000$$$::Embora...[lr]::
+4754::$$$message_0034_0097_0001$$$::Isso era verdade apenas para os homens que admiravam de longe, que nada sabiam de suas verdadeiras naturezas.::
+4755::$$$message_0034_0098_0000$$$::Stheno, a mais antiga,[lr]::
+4756::$$$message_0034_0098_0001$$$::carregava-se com elegância refinada e agia com cuidado.[lr]::
+4757::$$$message_0034_0098_0002$$$::Ela era dita ser a ideal mulher[lr]::
+4758::$$$message_0034_0098_0003$$$::Que qualquer homem a quem ela se dirigisse ficasse dominado pela alegria e jurasse sua lealdade eterna.[lr]::
+4759::$$$message_0034_0098_0004$$$::Mas...[lr]::
+4760::$$$message_0034_0098_0005$$$::Segundo uma irmã que permanece anônima, ela era preguiçosa ao extremo.[lr]::
+4761::$$$message_0034_0098_0006$$$::Ela não se importava com nada que não a interessasse, e era tão uma mestra abusiva com aqueles que não importavam para ela que Cerberus teria tremulado em medo.::
+4762::$$$message_0034_0099_0000$$$::Euriale, a segunda irmã[lr]::
+4763::$$$message_0034_0099_0001$$$::era despreocupada e cheia de alegria, com uma postura inocente.[lr]::
+4764::$$$message_0034_0099_0002$$$::Ela era dita ser a garota ideal.[lr]::
+4765::$$$message_0034_0099_0003$$$::Assim, qualquer homem que ela se dirigisse tremularia de honra e juraria deixar sua vida para ela.[lr]::
+4766::$$$message_0034_0099_0004$$$::Mas...[lr]::
+4767::$$$message_0034_0099_0005$$$::Novamente, segundo uma irmã que permanecerá anônima, ela era extremamente temperamental.[lr]::
+4768::$$$message_0034_0099_0006$$$::Para piorar as coisas, ela gostava de enganar. Ela não se metia em briga desde que você mantivesse a boca fechada, e embora acreditasse firmemente em "é apenas trapaça se você for pego, ohoho", sentia um leve auto-ódio depois. Uma segunda irmã impertinente e covarde.::
+4769::$$$message_0034_0100_0000$$$::Contrário a Medusa, eles eram afetuosos com humanos.[lr]::
+4770::$$$message_0034_0100_0001$$$::Eles convidaram homens para a ilha, confortaram-os e os enviaram para novas aventuras.::
+4771::$$$message_0034_0101_0000$$$::Isso também foi uma armadilha horrível.[lr]::
+4772::$$$message_0034_0101_0001$$$::Eles amavam coisas bonitas e fofas sem condições.[lr]::
+4773::$$$message_0034_0101_0002$$$::E eles agiam como humanos.[lr]::
+4774::$$$message_0034_0101_0003$$$::Mas o que eles amavam não eram os humanos em si, mas usar suas palavras para brincar, confundir e arruinar a vida dos humanos que gostavam. Em outras palavras, eles se divertiam mais com a visão de humanos desesperados do que se preocupavam em ter três refeições por dia!::
+4775::$$$message_0034_0102_0000$$$::"Um, irmã. Acho que isso só significa que você os odeia incondicionalmente..."[lr]::
+4776::$$$message_0034_0102_0001$$$::"Estou impressionado, Medusa. Não há como salvar seu mau gosto.[lr]::
+4777::$$$message_0034_0102_0002$$$::Escuta. Coisas bonitas dançam de forma desajeitada para nós. Isso é a verdadeira beleza."::
+4778::$$$message_0034_0103_0000$$$::E assim, muitos heróis morreram por causa de suas artimanhas.[lr]::
+4779::$$$message_0034_0103_0001$$$::Eles incumbiram os heróis que os buscavam com missões impossíveis, mandando-os chorar de volta para suas terras natais.::
+4780::$$$message_0034_0104_0000$$$::...Ah, realmente um grupo assustador de irmãs.[lr]::
+4781::$$$message_0034_0104_0001$$$::Alguns desafiaram Medusa por glória e foram transformados em pedra.[lr]::
+4782::$$$message_0034_0104_0002$$$::Outros saíram para conquistar uma deusa, e foram recompensados com chacota até a morte.[lr]::
+4783::$$$message_0034_0104_0003$$$::O herói, se és um homem, volta aqui.[lr]::
+4784::$$$message_0034_0104_0004$$$::Esta ilha no limite da terra era um paraíso, e um den de maldade de mulheres de beleza inigualável.[lr]::
+4785::$$$message_0034_0104_0005$$$::Ou, para dizer de forma educada, era uma lição para todos os mortais não tocarem em uma deusa.::
+4786::$$$message_0034_0105_0000$$$::Isso cobre o essencial do Templo Escuro das Gorgonas.[lr]::
+4787::$$$message_0034_0105_0001$$$::"Ah, ugh..."[lr]::
+4788::$$$message_0034_0105_0002$$$::Foi um tarde tranquila. Inesperadamente, não havia desafiantes naquele dia.[lr]::
+4789::$$$message_0034_0105_0003$$$::Como sempre, as duas irmãs de Medusa estavam se divertindo com ela hoje.::
+4790::$$$message_0034_0106_0000$$$::"Ah, ela tentou correr, Stheno?"[lr]::
+4791::$$$message_0034_0106_0001$$$::"Hmm. Quero perguntar a ela o que ela fez, Euryale."[lr]::
+4792::$$$message_0034_0106_0002$$$::"..."::
+4793::$$$message_0034_0107_0000$$$::Ela estava flanqueada por suas irmãs idênticas.[lr]::
+4794::$$$message_0034_0107_0001$$$::Contrário à Medusa, cuja forma vai se tornando cada vez maior, Stheno e Euryale sempre mantêm a mesma aparência.[lr]::
+4795::$$$message_0034_0107_0002$$$::As personalidades básicas eram as mesmas, assim como seus senso de sensibilidade.[lr]::
+4796::$$$message_0034_0107_0003$$$::Cada irmã sentiu telepaticamente o que a outra estava pensando.::
+4797::$$$message_0034_0108_0000$$$::"Sim... Ela se rebelou contra nós."[lr]::
+4798::$$$message_0034_0108_0001$$$::"Isso significa que ela me desafiou [font italic=true]duas vezes[font italic=false]."[lr]::
+4799::$$$message_0034_0108_0002$$$::"Sim, um insulto a um de nós é um insulto a ambos."[lr]::
+4800::$$$message_0034_0108_0003$$$::"Então devemos puni-la os dois."[lr]::
+4801::$$$message_0034_0108_0004$$$::"Claro, é o dever, privilégio e prazer de uma irmã mais velha disciplinar a irmã mais nova."::
+4802::$$$message_0034_0109_0000$$$::Euryale se aproximou solemnemente de uma estátua de pedra ao lado de Medusa.[lr]::
+4803::$$$message_0034_0109_0001$$$::Era um guerreiro alto e ágil que estava erguendo uma grande espada.::
+4804::$$$message_0034_0110_0000$$$::"Seu rosto está tudo bem... E esse?"[lr]::
+4805::$$$message_0034_0110_0001$$$::Ela colocou um dedo no escudo do homem, esforçou-se como se quisesse arrancá-lo e subiu nele.::
+4806::$$$message_0034_0111_0000$$$::"M-Meia-irmã!?"[lr]::
+4807::$$$message_0034_0111_0001$$$::Euryale dobrou seus membros curtos e começou a subir pelo corpo do homem.::
+4808::$$$message_0034_0112_0000$$$::"É perigoso, você deveria parar[line len=2]"[lr]::
+4809::$$$message_0034_0112_0001$$$::"Medusa, este é seu castigo. Fique onde está."[lr]::
+4810::$$$message_0034_0112_0002$$$::"Y-yes..."::
+4811::$$$message_0034_0113_0000$$$::Era como assistir a uma cobra branca escorregar.[lr]::
+4812::$$$message_0034_0113_0001$$$::Com esforço lento, a garota mirou no topo da estátua.[lr]::
+4813::$$$message_0034_0113_0002$$$::Incapaz de desviar os olhos, Medusa sentiu uma cobra amarrando seus próprios membros também e não conseguiu se mover.::
+4814::$$$message_0034_0114_0000$$$::"Hmm, que vista agradável. É bom olhar para baixo e ver alguém de cima."[lr]::
+4815::$$$message_0034_0114_0001$$$::"Sim, talvez não haja como corrigir a impudência da Medusa depois de tudo."[lr]::
+4816::$$$message_0034_0114_0002$$$::"Então... você vai me perdoar?"[lr]::
+4817::$$$message_0034_0114_0003$$$::"Medusa, vou dar outro comando porque você é tão burra.[lr]::
+4818::$$$message_0034_0114_0004$$$::Absolutamente não evite isso, você me ouviu?"::
+4819::$$$message_0034_0115_0000$$$::"Eiik...!"[lr]::
+4820::$$$message_0034_0115_0001$$$::Sua corpo núbil voou pelo ar.[lr]::
+4821::$$$message_0034_0115_0002$$$::Isso mesmo; seu nome é Euryale, ela pula longe.[lr]::
+4822::$$$message_0034_0115_0003$$$::A deusa que voava se lançou ao pescoço pálido de Medusa, torceu os lábios, mostrou os dentes e mordendo.[lr]::
+4823::$$$message_0034_0115_0004$$$::Foi um beijo diabólico.::
+4824::$$$message_0034_0116_0000$$$::"Ngh... Ah...!"[lr]::
+4825::$$$message_0034_0116_0001$$$::Ela gritou enquanto os dentes rompiam sua pele e perfuravam seus vasos sanguíneos.[lr]::
+4826::$$$message_0034_0116_0002$$$::"Ngh... Nnah, não...!"[lr]::
+4827::$$$message_0034_0116_0003$$$::O som de lábios mordiscando e língua lambendo podia ser ouvido.[lr]::
+4828::$$$message_0034_0116_0004$$$::"Hah... Ah, aah, ah...!"[lr]::
+4829::$$$message_0034_0116_0005$$$::E então, o grito agudo de Medusa rompeu o ar.::
+4830::$$$message_0034_0117_0000$$$::...O que aqueles que mais tarde conheceriam Medusa pensariam dessa visão?[lr]::
+4831::$$$message_0034_0117_0001$$$::Um monstro que devorara cidades inteiras e matara centenas de humanos em uma única noite agora estava tendo seu sangue sugado por uma menina frágil!::
+4832::$$$message_0034_0118_0000$$$::"Hngh, hnng! Por favor, [wvl] [shock vmax=20 time=2000 count=25] dói, dói e também é mole!"[lr]::
+4833::$$$message_0034_0118_0001$$$::"Ahahahaha, isso te vai servir! Como ousas olhar com desdém para tua irmã mais velha!"[lr]::
+4834::$$$message_0034_0118_0002$$$::A grande mulher tremulava, enquanto a linda garota permanecia presa a ela.::
+4835::$$$message_0034_0119_0000$$$::"Não é justo que só Euryale tenha a vez."[lr]::
+4836::$$$message_0034_0119_0001$$$::Sentada sobre o Pégaso, Stheno lambeu os lábios.[lr]::
+4837::$$$message_0034_0119_0002$$$::"Hmm?"[lr]::
+4838::$$$message_0034_0119_0003$$$::"Comporta-te, Medusa. Só dói se resistires."[lr]::
+4839::$$$message_0034_0119_0004$$$::"Ah! Aaaah! Grande Irmana!?!"::
+4840::$$$message_0034_0120_0000$$$::"Ah... hyah, [wvl] [shock vmax=12 time=2000 count=26] aaaaaaahhh...!"[lr]::
+4841::$$$message_0034_0120_0001$$$::Medusa ficou em choque, seu sangue sendo drenado dos dois lados do pescoço.[lr]::
+4842::$$$message_0034_0120_0002$$$::como se tivesse anemia extrema.[lr]::
+4843::$$$message_0034_0120_0003$$$::Os sons que vinham dela já não eram gritos, mas o estalido de um boneco quebrado.::
+4844::$$$message_0034_0121_0000$$$::"Haah, nossa pequena irmã é tão..."[lr]::
+4845::$$$message_0034_0121_0001$$$::"Fuu... Lento e preguiçoso...om..."[lr]::
+4846::$$$message_0034_0121_0002$$$::"Aha... Superficial e estúpido..."[lr]::
+4847::$$$message_0034_0121_0003$$$::"Mas..."[lr]::
+4848::$$$message_0034_0121_0004$$$::"Mas..."[lr]::
+4849::$$$message_0034_0121_0005$$$::"Mas como seu sangue é tão delicioso!?!"::
+4850::$$$message_0034_0122_0000$$$::"Mm, ah...! Haah, p-para, por favor, me perdoe, aaaahhh...!"[lr]::
+4851::$$$message_0034_0122_0001$$$::Os sons do dobro vampirismo criaram uma harmonia bela, ecoando pelo templo.[lr]::
+4852::$$$message_0034_0122_0002$$$::Naquele dia, assim como tantos outros, duas irmãs ensinaram à mais nova uma lição terrível.::
+4853::$$$message_0034_0123_0000$$$::E só para repetir...[lr]::
+4854::$$$message_0034_0123_0001$$$::...isso não era de modo algum uma ocorrência incomum na ilha.::
+4855::$$$message_0034_0124_0000$$$::"...Hmm?"[lr]::
+4856::$$$message_0034_0124_0001$$$::Eu percebo que estou no celeiro.[lr]::
+4857::$$$message_0034_0124_0002$$$::O sol já se pôs quase por completo lá fora, e passaram-se quase uma hora...::
+4858::$$$message_0034_0125_0000$$$::"Hmm? Isso é estranho. O que estávamos fazendo de novo?"[lr]::
+4859::$$$message_0034_0125_0001$$$::Eu inclino a cabeça, confuso.[lr]::
+4860::$$$message_0034_0125_0002$$$::"Vi você e a Rider entrando no celeiro, então fiquei escondido atrás de vocês e... [cacheimage storage=イリヤ06d(中)][wvl canskip=0 time=400][chgfg textoff=0 time=300 storage=イリヤ06d(中)]Huh?"[lr]::
+4861::$$$message_0034_0125_0003$$$::Illya inclina a cabeça demais.[lr]::
+4862::$$$message_0034_0125_0004$$$::"........."[lr]::
+4863::$$$message_0034_0125_0005$$$::Rider está franzindo o nariz.::
+4864::$$$message_0034_0126_0000$$$::"O que há de errado, Rider? Você tem dor de cabeça?[lr]::
+4865::$$$message_0034_0126_0001$$$::Na verdade, você se lembra do que estávamos fazendo mesmo?"[lr]::
+4866::$$$message_0034_0126_0002$$$::"...Huh? N-não, não é isso.[lr]::
+4867::$$$message_0034_0126_0003$$$::...Lembro só de você dizer que deseja que fosse um pouco mais alto."::
+4868::$$$message_0034_0127_0000$$$::"Ah."[lr]::
+4869::$$$message_0034_0127_0001$$$::Eu bato meu punho em realização.[lr]::
+4870::$$$message_0034_0127_0002$$$::Isso mesmo, eu estava dizendo isso.[lr]::
+4871::$$$message_0034_0127_0003$$$::Mas...[lr]::
+4872::$$$message_0034_0127_0004$$$::Por que a Bicicleta nº 2 está no chão aos pés de Rider?::
+4873::$$$message_0034_0128_0000$$$::"Rider. Um, sobre o No. 2 lá..."[lr]::
+4874::$$$message_0034_0128_0001$$$::"Quem sabe? Não tenho a mínima ideia do porquê dele estar lá.[lr]::
+4875::$$$message_0034_0128_0002$$$::...[font italic=true]Não é isso mesmo, Shirou?"[font italic=false][lr]::
+4876::$$$message_0034_0128_0003$$$::"Uh... R-right, você estava só passando. A bicicleta, um..."[lr]::
+4877::$$$message_0034_0128_0004$$$::Estou ainda um pouco tonto, mas quando olho nos olhos da Rider, não consigo pensar em nenhuma outra explicação.::
+4878::$$$message_0034_0129_0000$$$::"Sim. Você deve ter trazido isso aqui para consertar.[lr]::
+4879::$$$message_0034_0129_0001$$$::...Não te pedi para isso, mas se você vai fazer manutenção nisso, gostaria que você reforçasse a rotação do pedal e o quadro. Os pneus estão perfeitos."::
+4880::$$$message_0034_0130_0000$$$::"Agora, deixo minha casa.[lr]::
+4881::$$$message_0034_0130_0001$$$::Também, Illyasviel. Fico feliz em vê-la com bom humor, mas uma menina não deveria subir em lugares altos.[lr]::
+4882::$$$message_0034_0130_0002$$$::...Não se encaixa em você, então certifique-se de não pular mais da segunda andar do celeiro, nem que seja por acidente."[lr]::
+4883::$$$message_0034_0130_0003$$$::"Hmm? Você está estranho, Rider. Eu não faria isso nem que você me pedisse."::
+4884::$$$message_0034_0131_0000$$$::"Tudo melhor então. Fico feliz que você seja uma garota tão esperta.[lr]::
+4885::$$$message_0034_0131_0001$$$::Vou te ver no jantar, então."[lr]::
+4886::$$$message_0034_0131_0002$$$::Rider nos dá um sorriso maduro e sai da cabana.[lr]::
+4887::$$$message_0034_0131_0003$$$::Estou bastante encantado com a figura elegante que ela faz de costas, e fico encarando enquanto ela se afasta...::
+4888::$$$message_0034_0132_0000$$$::"...Ngh! ...!"[lr]::
+4889::$$$message_0034_0132_0001$$$::Mas então, a mulher bonita bate a cabeça e cai de joelhos.::
+4890::$$$message_0034_0133_0000$$$::"R-Rider?"[lr]::
+4891::$$$message_0034_0133_0001$$$::"Não se preocupe comigo. E Shirou, não é tão bom ser alto."[lr]::
+4892::$$$message_0034_0133_0002$$$::Rider desaparece instavelmente no pátio.[lr]::
+4893::$$$message_0034_0133_0003$$$::Entendi.[lr]::
+4894::$$$message_0034_0133_0004$$$::Ser alto não é fácil, hein...::Being tall isn't easy, huh...:A���

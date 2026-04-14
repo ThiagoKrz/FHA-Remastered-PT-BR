@@ -1,0 +1,610 @@
+DAT
+id=qid::label=str::text=lstr::
+35786::$$$message_0266_0000_0000$$$::"I'm home!"::
+35787::$$$message_0266_0001_0000$$$::"We've returned."::
+35788::$$$message_0266_0002_0000$$$::We came back from shopping.[lr]::
+35789::$$$message_0266_0002_0001$$$::It's almost 3:00 PM, a good time for afternoon tea.::
+35790::$$$message_0266_0003_0000$$$::"Heyyy, Sakura, Tohsaka. I'm going to make tea!"::
+35791::$$$message_0266_0004_0000$$$::I yell toward the guesthouse while heading for the living room.[lr]::
+35792::$$$message_0266_0004_0001$$$::I'll start preparing tea with Saber first.::
+35793::$$$message_0266_0005_0000$$$::But then...::
+35794::$$$message_0266_0006_0000$$$::"Welcome home. I helped myself to some tea already."::
+35795::$$$message_0266_0007_0000$$$::Bazett is calmly sitting at the table, sipping from a teacup.::
+35796::$$$message_0266_0008_0000$$$::"...Wha..."::
+35797::$$$message_0266_0009_0000$$$::"What the[wvl][quake vmax=10 hmax=0]...!?"::
+35798::$$$message_0266_0010_0000$$$::"..."::
+35799::$$$message_0266_0011_0000$$$::"..."::
+35800::$$$message_0266_0012_0000$$$::"(...Shirou. What is she doing here? Do you have some sort of personal connection with her?)"::
+35801::$$$message_0266_0013_0000$$$::"(...That's what I wanna know. This is pretty much our first time meeting...though she doesn't feel like a stranger...)"::
+35802::$$$message_0266_0014_0000$$$::"..."::
+35803::$$$message_0266_0015_0000$$$::"Sakura. May I have another cup of tea?"::
+35804::$$$message_0266_0016_0000$$$::"Y-yes! I'll get you another one right away...!"[wm canskip=0]::
+35805::$$$message_0266_0017_0000$$$::"...I neglected to introduce myself.[lr]::
+35806::$$$message_0266_0017_0001$$$::I'm Bazett Fraga McRemitz. I'm affiliated with the Mage's Association, but currently I'm a freelance mage."::
+35807::$$$message_0266_0018_0000$$$::"Oh, hello. I'm Shirou Emiya. She's Saber.[lr]::
+35808::$$$message_0266_0018_0001$$$::Um... I guess I'm not affiliated with anyone."::
+35809::$$$message_0266_0019_0000$$$::"I'm well aware that Shirou isn't part of any faction.::
+35810::$$$message_0266_0020_0000$$$::If anything, I'd say that he's the lord of this estate, to put it in your terms."::
+35811::$$$message_0266_0021_0000$$$::[large]"Well said. That's correct, mage."[rf]::
+35812::$$$message_0266_0022_0000$$$::"I'm glad to hear that. If Saber agrees, then my perception must be correct."::
+35813::$$$message_0266_0023_0000$$$::"It is.[lr]::
+35814::$$$message_0266_0023_0001$$$::Shirou is the master of this house. I prefer him in that position."::
+35815::$$$message_0266_0024_0000$$$::Saber and Bazett converse calmly.[lr]::
+35816::$$$message_0266_0024_0001$$$::She's...different from what I imagined... Like, I always imagined her as a scarier person.::
+35817::$$$message_0266_0025_0000$$$::"Uh-huh, thanks for that.[lr]::
+35818::$$$message_0266_0025_0001$$$::So, Miss Bazett, what can I do for you?"::
+35819::$$$message_0266_0026_0000$$$::"Would you give us a moment, Miss McRemitz?"::
+35820::$$$message_0266_0027_0000$$$::"Emiya, over here."::
+35821::$$$message_0266_0028_0000$$$::Tohsaka pulls my arm without waiting for a reply.[lr]::
+35822::$$$message_0266_0028_0001$$$::I know what she's thinking, so I stand up without protesting.::
+35823::$$$message_0266_0029_0000$$$::"Sorry, I'll be right back.[lr]::
+35824::$$$message_0266_0029_0001$$$::Saber, go ahead and talk to Bazett for now."::
+35825::$$$message_0266_0030_0000$$$::"Yes."::
+35826::$$$message_0266_0031_0000$$$::"..."::
+35827::$$$message_0266_0032_0000$$$::"What's this about, Tohsaka?[lr]::
+35828::$$$message_0266_0032_0001$$$::...I'm starting to get the sense that this is a crazy situation."::
+35829::$$$message_0266_0033_0000$$$::"Crazy, yeah, but more like I have no idea what she's doing here.[lr]::
+35830::$$$message_0266_0033_0001$$$::That's a Seal Designation Enforcer, you know!"::
+35831::$$$message_0266_0034_0000$$$::"They say that the three disasters of the Mage's Association are Gazamy the Evil Spirit, Seal Designations, and then Enforcers, in that order!"::
+35832::$$$message_0266_0035_0000$$$::"You get me!? If she felt like it, she could slaughter everyone here and then use us to stuff a sandbag!"::
+35833::$$$message_0266_0036_0000$$$::"...We don't know that for sure.[lr]::
+35834::$$$message_0266_0036_0001$$$::Is she that dangerous, though? She was smiling like a normal person."::
+35835::$$$message_0266_0037_0000$$$::"Wow, were we even looking at the same person?"::
+35836::$$$message_0266_0038_0000$$$::"Um... [cacheimage storage=バゼットイヤリング02c頬(中),凛私服17a(近),black][wvl canskip=0 time=400][rep opacities=255,0 fliplr=0 tops=,22 storages=バゼットイヤリング02c頬(中),凛私服17a(近) time=800 flipud=0 lefts=,-276 poss=c, bg=black indexes=1000,2000][stopdash]This is what I saw."::
+35837::$$$message_0266_0039_0000$$$::"You're kidding. [cacheimage storage=凛私服14c(近),バゼットイヤリング02d(中)][wvl canskip=0 time=400][chgfg time=300 storage=凛私服14c(近),バゼットイヤリング02d(中)]She only looked like this [cacheimage storage=凛私服14c(近)][wvl canskip=0 time=400][movefg opacity=0 left=538 top=20 time=300 accel=2 storage=凛私服14c(近)]to me."[cacheimage storage=バゼットイヤリング02d(中),11悪意][wvs][wm canskip=0][seloop storage=se655.wav volume=60 time=1000][rep fliplr=0 storages=バゼットイヤリング02d(中) time=600 flipud=0 poss=c bg=11悪意 indexes=1000][haze layer=base intime=800 waves=(3,1,10)]::
+35838::$$$message_0266_0040_0000$$$::"Mrgh... Still, saying she'll slaughter everyone sounds..."::
+35839::$$$message_0266_0041_0000$$$::"Completely reasonable. [wvl canskip=0 time=400]Seal Designation Enforcers don't mess around.[lr]::
+35840::$$$message_0266_0041_0001$$$::Just watch."::
+35841::$$$message_0266_0042_0000$$$::"Here you go. Sorry it's cheap tea..."::
+35842::$$$message_0266_0043_0000$$$::"Thank you. [wvl canskip=0 time=400]I would never eat or drink in enemy territory, but I don't consider this enemy territory.[lr]::
+35843::$$$message_0266_0043_0001$$$::As proof of that..."::
+35844::$$$message_0266_0044_0000$$$::"I-in [wvl canskip=0 time=400]one gulp!?"[wm canskip=0]::
+35845::$$$message_0266_0045_0000$$$::"..."::
+35846::$$$message_0266_0046_0000$$$::"U-um, did it taste bad!?[lr]::
+35847::$$$message_0266_0046_0001$$$::I'm sorry! I hope I didn't make you upset!"::
+35848::$$$message_0266_0047_0000$$$::"Hm? It was just tea."::
+35849::$$$message_0266_0048_0000$$$::"Huh...? I mean...you didn't like it, right?"::
+35850::$$$message_0266_0049_0000$$$::"Hm? Tea isn't good or bad.[lr]::
+35851::$$$message_0266_0049_0001$$$::Tea just tastes like tea."::
+35852::$$$message_0266_0050_0000$$$::"Oh-ho. What a shrewd opinion."[wm canskip=0]::
+35853::$$$message_0266_0051_0000$$$::"Did you see that? That's who she really is.[lr]::
+35854::$$$message_0266_0051_0001$$$::Enforcers just see everything in ones and zeros."::
+35855::$$$message_0266_0052_0000$$$::"For example, to them, there is no such thing as delicious or disgusting in a meal.[lr]::
+35856::$$$message_0266_0052_0001$$$::Flavor doesn't matter. They're killing machines that only care whether it takes five minutes or thirty minutes to finish a meal!"::
+35857::$$$message_0266_0053_0000$$$::"...So you're telling me she's the polar opposite of Saber."::
+35858::$$$message_0266_0054_0000$$$::Also, I can tell that Tohsaka doesn't like Bazett...but it's more like she has no respect for her. I wonder if...::
+35859::$$$message_0266_0054_0001$$$::"So what are you going to do, Tohsaka?[lr]::
+35860::$$$message_0266_0054_0002$$$::Are you telling us not to set her off because she's a ticking time bomb?"::
+35861::$$$message_0266_0055_0000$$$::"There is that, but... [cacheimage storage=凛私服14b(中)][wvl canskip=0 time=400][chgfg time=200 storage=凛私服14b(中)]Huh?"::
+35862::$$$message_0266_0056_0000$$$::"What's she even doing here?"::
+35863::$$$message_0266_0057_0000$$$::"...We won't get anywhere unless we figure that out.[lr]::
+35864::$$$message_0266_0057_0001$$$::Okay. Let's ask Rider for help. We should ask our coolest person to deal with a cool person like that."::
+35865::$$$message_0266_0058_0000$$$::"If I could, I would've asked by now.[lr]::
+35866::$$$message_0266_0058_0001$$$::Rider's still working at her part-time job at the antique shop. She said she won't be back until 5."::
+35867::$$$message_0266_0059_0000$$$::"Gah... So we have to figure this out ourselves..."::
+35868::$$$message_0266_0060_0000$$$::"Exactly.[lr]::
+35869::$$$message_0266_0060_0001$$$::I think we'll manage, though. She seems like she's open to talking to you."::
+35870::$$$message_0266_0061_0000$$$::"W-why me!?[lr]::
+35871::$$$message_0266_0061_0001$$$::I don't remember getting to know her!?"::
+35872::$$$message_0266_0062_0000$$$::"How would I know? But she wouldn't come all this way otherwise. She kept insisting that she couldn't talk until you came home."::
+35873::$$$message_0266_0063_0000$$$::"Maybe she sees you like a little brother.[lr]::
+35874::$$$message_0266_0063_0001$$$::Someone straitlaced like her might see you as a rambunctious little brother."::
+35875::$$$message_0266_0064_0000$$$::"This is getting even more confusing... I've never had a proper conversation with her.[lr]::
+35876::$$$message_0266_0064_0001$$$::What about you?"::
+35877::$$$message_0266_0065_0000$$$::"Sakura and I have met her once before.[lr]::
+35878::$$$message_0266_0065_0001$$$::She came to the Tohsaka and Matou houses to let us know she would be staying in Fuyuki for a while, and that she wasn't after our territory."::
+35879::$$$message_0266_0066_0000$$$::"...Like, paying her respects to the local mage authorities?[lr]::
+35880::$$$message_0266_0066_0001$$$::Then what's she doing here? I'd understand if she wanted to talk to Kiritsugu."::
+35881::$$$message_0266_0067_0000$$$::"You'll just have to ask her.[lr]::
+35882::$$$message_0266_0067_0001$$$::Honestly, I want to run for my life, but Sakura and I will be rooting for you from the sidelines."::
+35883::$$$message_0266_0068_0000$$$::"...Do ask her to leave, delicately, without lighting her fuse, Emiya."::
+35884::$$$message_0266_0069_0000$$$::"..."::
+35885::$$$message_0266_0070_0000$$$::"So you're saying that your Mystic Code reacts not to Noble Phantasms specifically, but your opponent's trump card."::
+35886::$$$message_0266_0071_0000$$$::"Yes. I can use it at will even against an unresisting opponent, but that won't activate Fragarach's unique properties. It will just be treated as a C or D-rank Noble Phantasm."::
+35887::$$$message_0266_0072_0000$$$::"...I see. So that's why you train so rigorously. Under these conditions you must be able to back your opponent into a corner. If your physical abilities are lacking, then even a legendary sword would become useless."::
+35888::$$$message_0266_0073_0000$$$::"By the way,[lr]::
+35889::$$$message_0266_0073_0001$$$::can it intercept a Noble Phantasm used in extremely close quarters?"::
+35890::$$$message_0266_0074_0000$$$::"Of course. That's what my close combat skills are for."::
+35891::$$$message_0266_0075_0000$$$::"Fragarach is a projectile weapon, but it can meet any short-range attack, as long as it isn't a throw. Actually, even if someone manages to grapple me, [font italic=true]my attack will land first.[font italic=false]"::
+35892::$$$message_0266_0076_0000$$$::"..."::
+35893::$$$message_0266_0077_0000$$$::What's this tinge of violence in the air?[lr]::
+35894::$$$message_0266_0077_0001$$$::Saber and Bazett are sitting politely across from each other. I can practically see the sparks flying between them.::
+35895::$$$message_0266_0078_0000$$$::"S-Senpaiiii![lr]::
+35896::$$$message_0266_0078_0001$$$::H-help! I can't do anything about this!"::
+35897::$$$message_0266_0079_0000$$$::"...Sorry to keep you waiting, Sakura. I'll take care of this, so try to keep your distance and watch."::
+35898::$$$message_0266_0080_0000$$$::If worse comes to worst, I want Sakura to escape alive, at least.::
+35899::$$$message_0266_0081_0000$$$::"Ahem. Uh, sorry to keep you waiting.[lr]::
+35900::$$$message_0266_0081_0001$$$::How can I help you today?"::
+35901::$$$message_0266_0082_0000$$$::"..."::
+35902::$$$message_0266_0083_0000$$$::"Um...hello?"::
+35903::$$$message_0266_0084_0000$$$::"..."::
+35904::$$$message_0266_0085_0000$$$::"Miss Bazett?"::
+35905::$$$message_0266_0086_0000$$$::"That. [wvl canskip=0 time=400]Something's been putting me off for a while, and it's the way you talk to me, Shirou."::
+35906::$$$message_0266_0087_0000$$$::"Please, stop mocking me.[lr]::
+35907::$$$message_0266_0087_0001$$$::Where did your usual tactlessness go? Feel free to drop the 'Miss' and call me Bazett like you always do."::
+35908::$$$message_0266_0088_0000$$$::"Say what!?"::
+35909::$$$message_0266_0089_0000$$$::Breaking news![lr]::
+35910::$$$message_0266_0089_0001$$$::Apparently, I'm close enough with Madam Bazett to use her name without any formalities!::
+35911::$$$message_0266_0090_0000$$$::"E[wvl canskip=0 time=120]e[wvl canskip=0 time=120]mi[wvl canskip=0 time=120]i[wvl canskip=0 time=120]ya[wvl canskip=0 time=120]a[wvl canskip=0 time=120]a[wvl canskip=0 time=120]a[wvl canskip=0 time=120]a[wvl canskip=0 time=120]? [wvl canskip=0 time=120]I thought you said you didn't know Bazett?"::
+35912::$$$message_0266_0091_0000$$$::"Hehehe. [large]'Like you always do.' [rf]You two sound rather intimate, Senpai."::
+35913::$$$message_0266_0092_0000$$$::"Hm?"::
+35914::$$$message_0266_0093_0000$$$::"Hold on, I don't like where this is going![lr]::
+35915::$$$message_0266_0093_0001$$$::Bazett... [font italic=true]Miss[font italic=false] Bazett and I really are strangers! And you, stop riling them up!"::
+35916::$$$message_0266_0094_0000$$$::"Oh... I-I see."::
+35917::$$$message_0266_0095_0000$$$::"Ahem. I seem to have made a misunderstanding. Please forget I said that.[lr]::
+35918::$$$message_0266_0095_0001$$$::As an apology, I give you permission to call me 'Bazett' going forward."::
+35919::$$$message_0266_0096_0000$$$::This is getting worse by the minute.[lr]::
+35920::$$$message_0266_0096_0001$$$::Little sister trust gauge: -100.[lr]::
+35921::$$$message_0266_0096_0002$$$::Big sister temper gauge: +100, I think.::
+35922::$$$message_0266_0097_0000$$$::"..."::
+35923::$$$message_0266_0098_0000$$$::...Anyway, I'll deal with the problem in front of me, first.[lr]::
+35924::$$$message_0266_0098_0001$$$::It's easier if I can just call her Bazett.::
+35925::$$$message_0266_0099_0000$$$::"Okay, let's start over.[lr]::
+35926::$$$message_0266_0099_0001$$$::B-Bazett...how can I help you?"::
+35927::$$$message_0266_0100_0000$$$::"I have two topics I wanted to consult you on.[lr]::
+35928::$$$message_0266_0100_0001$$$::I've intruded on you today because you're the best person to ask."::
+35929::$$$message_0266_0101_0000$$$::"Huh. A consultation...?"::
+35930::$$$message_0266_0102_0000$$$::"Someone from the M-Mage's Association wants to talk to Senpai?"::
+35931::$$$message_0266_0103_0000$$$::"I'm no longer part of the Mage's Association.[lr]::
+35932::$$$message_0266_0103_0001$$$::This is a personal matter for me... [cacheimage storage=バゼットイヤリング01g(中)][wvl canskip=0 time=400][chgfg time=300 storage=バゼットイヤリング01g(中)]No, it's something I'd need to get through on my own as an individual."::
+35933::$$$message_0266_0104_0000$$$::"Huh? That sounds like a big deal... Okay, I don't know if I can help, but I'll hear you out."::
+35934::$$$message_0266_0105_0000$$$::"...Thank you.[lr]::
+35935::$$$message_0266_0105_0001$$$::Then, my first topic is..."::
+35936::$$$message_0266_0106_0000$$$::The Emiya household collectively gulps.[lr]::
+35937::$$$message_0266_0106_0001$$$::Bazett timidly adjusts her necktie.::
+35938::$$$message_0266_0107_0000$$$::"To tell you the truth, I'm unemployed."::
+35939::$$$message_0266_0108_0000$$$::"...What?"::
+35940::$$$message_0266_0109_0000$$$::"Was I unclear?[lr]::
+35941::$$$message_0266_0109_0001$$$::I don't have a job. [wvl canskip=0 time=400]I have no income. [wvl canskip=0 time=400]Even though I'm willing and able to work!"::
+35942::$$$message_0266_0110_0000$$$::"..."::
+35943::$$$message_0266_0111_0000$$$::...I've always seen the Mage's Association with somewhat rose-colored glasses...but this sure is depressing.::
+35944::$$$message_0266_0112_0000$$$::"Um... So you want us to introduce you to an employer?"::
+35945::$$$message_0266_0113_0000$$$::"To be brief,[lr]::
+35946::$$$message_0266_0113_0001$$$::I'd like some appropriate advice."::
+35947::$$$message_0266_0114_0000$$$::"What do you mean? Why don't you just do whatever odd job you can find, like Emiya already does?"::
+35948::$$$message_0266_0115_0000$$$::"I'd already be doing that if I could."::
+35949::$$$message_0266_0116_0000$$$::"But... [cacheimage storage=バゼットイヤリング03c(中)][wvl canskip=0 time=400][chgfg time=300 storage=バゼットイヤリング03c(中)]I, um...[cacheimage storage=バゼットイヤリング04g(中)][wvl canskip=0 time=400][chgfg time=300 storage=バゼットイヤリング04g(中)]I have no idea [cacheimage storage=white,セイバー私服12g(遠),桜私服05f(遠),凛私服03f(遠),バゼットイヤリング06c(近),i衛宮邸居間(fd)][wvl canskip=0 time=200][se storage=se023.wav][fadein time=50 storage=white][shock vmax=30 time=400 count=4][rep fliplr=0 tops=133,132,144,6 storages=セイバー私服12g(遠),桜私服05f(遠),凛私服03f(遠),バゼットイヤリング06c(近) time=200 flipud=0 lefts=612,487,-11,181 bg=i衛宮邸居間(fd) indexes=1000,2000,3000,4000]what occupational field I'm suited to!"[wm canskip=0]::
+35950::$$$message_0266_0117_0000$$$::"...Right, I guess that is pretty awkward."::
+35951::$$$message_0266_0118_0000$$$::...Suddenly, she feels a lot more relatable.[lr]::
+35952::$$$message_0266_0118_0001$$$::Even Sakura, who looked terrified a moment ago, is now looking at Bazett like she would a close friend.::
+35953::$$$message_0266_0119_0000$$$::"Um... Wouldn't you normally work as a bodyguard or something?[lr]::
+35954::$$$message_0266_0119_0001$$$::I can introduce you to the Fujimura Group, if you want."::
+35955::$$$message_0266_0120_0000$$$::"No, thank you.[lr]::
+35956::$$$message_0266_0120_0001$$$::I did some research into them over the past few days. That organization dislikes conflict. They're cowards."::
+35957::$$$message_0266_0121_0000$$$::"A workplace where I can't utilize my skills is the least appealing option for me."::
+35958::$$$message_0266_0122_0000$$$::"...What about teaching at Shirou's school?[lr]::
+35959::$$$message_0266_0122_0001$$$::I'm sure you could teach them any form of exercise."::
+35960::$$$message_0266_0123_0000$$$::"...I considered that, but I'm not good at teaching people... I end up demonstrating instead of explaining."::
+35961::$$$message_0266_0124_0000$$$::"Yeah. There's no place for violent teachers these days."::
+35962::$$$message_0266_0125_0000$$$::Although that's why we could use your fists right about now.::
+35963::$$$message_0266_0126_0000$$$::"Oh, then what about becoming a professional boxer!?[lr]::
+35964::$$$message_0266_0126_0001$$$::I bet Miss Bazett could aim for the world stage. [cacheimage storage=桜私服06c(遠)][wvl canskip=0 time=200][chgfg time=300 storage=桜私服06c(遠)]As for gender... Since you're cross-dressing, you'll manage to fool them somehow."::
+35965::$$$message_0266_0127_0000$$$::"Miss Sakura.[lr]::
+35966::$$$message_0266_0127_0001$$$::I'll kick your arse if you mock me too much."::
+35967::$$$message_0266_0128_0000$$$::"...Bazett may appear flashy, but she's actually quite plain."::
+35968::$$$message_0266_0129_0000$$$::"Have you thought about being a librarian? It takes physical strength, good manners, and you can read books in your free time."::
+35969::$$$message_0266_0130_0000$$$::"..."::
+35970::$$$message_0266_0131_0000$$$::"...You seem to know Miss Bazett very well, Emiya."::
+35971::$$$message_0266_0132_0000$$$::"Eh? Uh, no, I just happened to think of it...why?"::
+35972::$$$message_0266_0133_0000$$$::Well, details aside...[lr]::
+35973::$$$message_0266_0133_0001$$$::Bazett's desire to find a job is an ordinary worry that anyone can relate to.::
+35974::$$$message_0266_0134_0000$$$::"Why are you looking for work, anyway?"::
+35975::$$$message_0266_0135_0000$$$::"I bet you're flush with cash.[lr]::
+35976::$$$message_0266_0135_0001$$$::From what I've heard, you seem like the type to deal in briefcases full of bills."::
+35977::$$$message_0266_0136_0000$$$::Lancer mentioned it.[lr]::
+35978::$$$message_0266_0136_0001$$$::He said that Seal Designation enforcement pays crazy well because it's an important job.::
+35979::$$$message_0266_0137_0000$$$::"...That's a separate matter.[lr]::
+35980::$$$message_0266_0137_0001$$$::I can't call myself a Master if I'm unemployed."::
+35981::$$$message_0266_0138_0000$$$::"Huh? What do you mean?"::
+35982::$$$message_0266_0139_0000$$$::"I'm talking about the essence of being Master and Servant.[lr]::
+35983::$$$message_0266_0139_0001$$$::A Master employs a Servant. Thus, it's obviously my obligation to provide food, clothing, and shelter."::
+35984::$$$message_0266_0140_0000$$$::"A Master has to nurture her Servant.[lr]::
+35985::$$$message_0266_0140_0001$$$::It simply wouldn't do for me to stay unemployed while making my Servant work to fund my travel expenses."::
+35986::$$$message_0266_0141_0000$$$::"Ahh... I see. You're saying the Master has to provide, or the Servant has to work.[lr]::
+35987::$$$message_0266_0141_0001$$$::So it's out of the question to make your Servant help with house chores?"::
+35988::$$$message_0266_0142_0000$$$::"Of course it is. A Master should manage her own lifestyle."::
+35989::$$$message_0266_0143_0000$$$::"Asking your Servant to manage one's own lifestyle is an extreme measure that should only be taken in dire circumstances. Only a third-rate Master would make their Servant do chores, much less a job."::
+35990::$$$message_0266_0144_0000$$$::"Wonderful. I completely agree with this sentiment.[lr]::
+35991::$$$message_0266_0144_0001$$$::We're of the same mind, mage. Now I know why you came to Shirou."::
+35992::$$$message_0266_0145_0000$$$::"...That's just your theory of being a Master.[lr]::
+35993::$$$message_0266_0145_0001$$$::I'm fine with that, but you aren't even a Master. You don't have a Servant."::
+35994::$$$message_0266_0146_0000$$$::Everyone nods.::
+35995::$$$message_0266_0147_0000$$$::"You misunderstand.[lr]::
+35996::$$$message_0266_0147_0001$$$::My Servant is temporarily on loan, and the lendee has been uncooperative in returning him."::
+35997::$$$message_0266_0148_0000$$$::"Oh, is that how it is?[lr]::
+35998::$$$message_0266_0148_0001$$$::So you and Lancer are..."::
+35999::$$$message_0266_0149_0000$$$::"Our pact is still intact.[lr]::
+36000::$$$message_0266_0149_0001$$$::If only that rotten woman would let go of the Command Spells, then I'd go over right now and..."::
+36001::$$$message_0266_0150_0000$$$::"...I'm disappointed.[lr]::
+36002::$$$message_0266_0150_0001$$$::What a way to talk about the person to whom you owe your life, Bazett.[lr]::
+36003::$$$message_0266_0150_0002$$$::Now I feel even less willing to give him back."::
+36004::$$$message_0266_0151_0000$$$::"!?!?"::
+36005::$$$message_0266_0152_0000$$$::We all jump at the sudden voice.::
+36006::$$$message_0266_0153_0000$$$::"Good day to you all.[lr]::
+36007::$$$message_0266_0153_0001$$$::You seem to be having a lively discussion."::
+36008::$$$message_0266_0154_0000$$$::The peace of the early afternoon is so fleeting.[lr]::
+36009::$$$message_0266_0154_0001$$$::Yet another stranger appears to throw it into even deeper disarray.::
+36010::$$$message_0266_0155_0000$$$::"Please, don't mind me and continue.[lr]::
+36011::$$$message_0266_0155_0001$$$::I believe you mentioned taking Bazett to the job center."::
+36012::$$$message_0266_0156_0000$$$::"...I was asking them about employment, but that doesn't mean I have no prospects.[lr]::
+36013::$$$message_0266_0156_0001$$$::Were you eavesdropping on us, Caren?"::
+36014::$$$message_0266_0157_0000$$$::"...I'm appalled that you would make such a severe misunderstanding, when all I did was state the facts."::
+36015::$$$message_0266_0158_0000$$$::"I was going to leave you alone until you got yourself killed, but I couldn't help but interrupt after you made such absurd statements."::
+36016::$$$message_0266_0159_0000$$$::"I must meditate on this more," adds Caren.[lr]::
+36017::$$$message_0266_0159_0001$$$::The once peaceful living room morphs into an increasingly bizarre space, tension crackling in the air.::
+36018::$$$message_0266_0160_0000$$$::"..."::
+36019::$$$message_0266_0161_0000$$$::"...There she is.[lr]::
+36020::$$$message_0266_0161_0001$$$::The person I least want to see in this whole town."::
+36021::$$$message_0266_0162_0000$$$::"Oh, don't be like that, Nee-san... You're supposed to think it, not say it."::
+36022::$$$message_0266_0163_0000$$$::The sisters whisper from behind while Bazett and Caren glare daggers at each other. They get along so well.::
+36023::$$$message_0266_0164_0000$$$::"...Do you two know Caren?"::
+36024::$$$message_0266_0165_0000$$$::"Yes. She came to introduce herself when she took over as acting prelate."::
+36025::$$$message_0266_0166_0000$$$::"Yeah. We've been seeing a lot of her ever since. A lot of messages for the Church have been piling up, too..."::
+36026::$$$message_0266_0167_0000$$$::"Going forward, I'll take your reports every Saturday.[lr]::
+36027::$$$message_0266_0167_0001$$$::Rin Tohsaka, be sure not to neglect your duties as the administrator of Fuyuki."::
+36028::$$$message_0266_0168_0000$$$::"Also, I expect Sakura Matou to be in attendance whenever possible, as Rin Tohsaka's helpful associate.[lr]::
+36029::$$$message_0266_0168_0001$$$::...Do you have any questions?"::
+36030::$$$message_0266_0169_0000$$$::"...I don't have a problem with that arrangement.[lr]::
+36031::$$$message_0266_0169_0001$$$::Are you sure about this report, though? It leaves out all the important parts. Like Kotomine, and the Holy Grail."::
+36032::$$$message_0266_0170_0000$$$::"It does. But since I wasn't in charge at the time, it would take too much time to verify its factuality."::
+36033::$$$message_0266_0171_0000$$$::"It's only a temporary measure, but I submitted your verbal accounts as the truth."::
+36034::$$$message_0266_0172_0000$$$::"...Okay. So we owe you one?"::
+36035::$$$message_0266_0173_0000$$$::"You consider something so trivial to be a debt owed? How dutiful of you, Rin."::
+36036::$$$message_0266_0174_0000$$$::"...But it's the truth, isn't it? You don't owe me anything.[lr]::
+36037::$$$message_0266_0174_0001$$$::Isn't that right, Sakura?"::
+36038::$$$message_0266_0175_0000$$$::"Y-yes, that's right, Caren."::
+36039::$$$message_0266_0176_0000$$$::"See? Even if there was anything you failed to report, it would be events that we're unaware of. There's no false testimony here."::
+36040::$$$message_0266_0177_0000$$$::"Yes... If the Holy Grail War ended with that understanding, then we wouldn't be lying, but rather sharing a common secret."::
+36041::$$$message_0266_0178_0000$$$::"You mean we're criminal accomplices.[lr]::
+36042::$$$message_0266_0178_0001$$$::Sounds like you're up to something, Caren Hortensia."::
+36043::$$$message_0266_0179_0000$$$::"Yes. Like I said, I'm going to send a report that's full of holes. You know how unforgiving they are. As things are, they won't order me to come home anytime soon."::
+36044::$$$message_0266_0180_0000$$$::"U-um... So what's going to happen to you, Caren?"::
+36045::$$$message_0266_0181_0000$$$::"Relax, Sakura. While I'm only a temporary acting official, I'm sure I'll be ministering this church for some time to come."::
+36046::$$$message_0266_0182_0000$$$::"...Hehe. It's all thanks to you. Who knows how long it would take to verify that you're a living imitation of the Holy Grail?"::
+36047::$$$message_0266_0183_0000$$$::"...You've got some nerve, kid. Basically, you used Fuyuki to become a prelate, and now you're taking advantage of the Church's authority to boss us around."::
+36048::$$$message_0266_0184_0000$$$::"I bet if we go against you at all, the Church will sic its actual forces on us."::
+36049::$$$message_0266_0185_0000$$$::"That could happen.[lr]::
+36050::$$$message_0266_0185_0001$$$::But even so, it would take at least two years. My term is two years maximum. Many want me for my extraordinary talents, you see."::
+36051::$$$message_0266_0186_0000$$$::"...Uh-huh.[lr]::
+36052::$$$message_0266_0186_0001$$$::Then I'd better do my best to find some dirt on you."::
+36053::$$$message_0266_0187_0000$$$::"There might be a time when I need to take you down, no questions asked."::
+36054::$$$message_0266_0188_0000$$$::"Yes... We're of similar mind, Rin.[lr]::
+36055::$$$message_0266_0188_0001$$$::Do flail and struggle, like a stray cat."::
+36056::$$$message_0266_0189_0000$$$::"...Are we finished here? Then I'm leaving.[lr]::
+36057::$$$message_0266_0189_0001$$$::Let's go, Sakura."::
+36058::$$$message_0266_0190_0000$$$::"Y-yes... I look forward to working with you, Caren."::
+36059::$$$message_0266_0191_0000$$$::"The feeling is mutual. I truly think I'll enjoy my time here.[lr]::
+36060::$$$message_0266_0191_0001$$$::I hope you'll get along with me, seniors."::
+36061::$$$message_0266_0192_0000$$$::"...If Bazett's a physically strong enemy, then Caren is an intellectual enemy."::
+36062::$$$message_0266_0193_0000$$$::"Don't let your guard down around her, Shirou, or she'll put you in checkmate before you know it."::
+36063::$$$message_0266_0194_0000$$$::"...Yeah. But Caren really does seem to look up to us. I can understand why she'd be so friendly, but..."::
+36064::$$$message_0266_0195_0000$$$::"She hides bad intentions behind that goodwill.[lr]::
+36065::$$$message_0266_0195_0001$$$::Don't let her fool you, Sakura. She's the same as a certain fake priest."::
+36066::$$$message_0266_0196_0000$$$::"..."::
+36067::$$$message_0266_0197_0000$$$::...The church's new minister is sketchy as all hell.[lr]::
+36068::$$$message_0266_0197_0001$$$::And she's butting heads with Bazett.::
+36069::$$$message_0266_0198_0000$$$::"You weren't even chosen to be a Master. The Holy Grail War is over, so the overseer has no authority."::
+36070::$$$message_0266_0199_0000$$$::"Oh, please. You didn't misplace him, so it doesn't make sense to ask me to return him to his original owner."::
+36071::$$$message_0266_0200_0000$$$::"The Church took care of him while you idled the days away. It's only reasonable that your rights as Master have transferred to us."::
+36072::$$$message_0266_0201_0000$$$::"Transferred? You just took him without permission. The sheer nerve, to cheat me out of[line len=2]"::
+36073::$$$message_0266_0202_0000$$$::"Oh?[wvl canskip=0 time=400] What do you mean, I cheated you? I don't know how you lost your Command Spells. Would you mind sharing the details?"::
+36074::$$$message_0266_0203_0000$$$::"Ngh...!"::
+36075::$$$message_0266_0204_0000$$$::"Grow up, Bazett.[lr]::
+36076::$$$message_0266_0204_0001$$$::I've told you the conditions under which I'll return him to you."::
+36077::$$$message_0266_0205_0000$$$::"You should let me take care of your left arm, as well.[lr]::
+36078::$$$message_0266_0205_0001$$$::As a servant of the Lord, I can't overlook someone who claims to have a demon possessing her left arm."::
+36079::$$$message_0266_0206_0000$$$::"I refuse. My arm belongs to me."::
+36080::$$$message_0266_0207_0000$$$::"...It's just a prosthetic.[lr]::
+36081::$$$message_0266_0207_0001$$$::You know how easy it would be to find a substitute."::
+36082::$$$message_0266_0208_0000$$$::"Unfortunately, I'm rather fond of this prosthetic arm. I don't intend to let go so easily."::
+36083::$$$message_0266_0209_0000$$$::"...And I don't intend to return him, either.[lr]::
+36084::$$$message_0266_0209_0001$$$::I don't like him at all, but he's extremely useful."::
+36085::$$$message_0266_0210_0000$$$::...They're at an impasse.[lr]::
+36086::$$$message_0266_0210_0001$$$::Bazett wants to take her Servant back from Caren.[lr]::
+36087::$$$message_0266_0210_0002$$$::Caren wants Bazett's left arm.::
+36088::$$$message_0266_0211_0000$$$::They can't agree on a trade, so they're at each other's throats.::
+36089::$$$message_0266_0212_0000$$$::"..."::
+36090::$$$message_0266_0213_0000$$$::"May I ask a question, mage?"::
+36091::$$$message_0266_0214_0000$$$::"Yes, what?"::
+36092::$$$message_0266_0215_0000$$$::"You were Lancer's Master.[lr]::
+36093::$$$message_0266_0215_0001$$$::But based on what I know of you, Lancer is not very compatible with you."::
+36094::$$$message_0266_0216_0000$$$::"Still, you seem fixated on being Lancer's Master. You value him highly, for some reason."::
+36095::$$$message_0266_0217_0000$$$::"It's not about his value, or any fixation.[lr]::
+36096::$$$message_0266_0217_0001$$$::He's the Servant I summoned. It's only right I take responsibility for him until the very end."::
+36097::$$$message_0266_0218_0000$$$::"..."::
+36098::$$$message_0266_0219_0000$$$::"..."::
+36099::$$$message_0266_0220_0000$$$::"...I can tell you don't believe me at all.[lr]::
+36100::$$$message_0266_0220_0001$$$::Fine. It annoys me to do this, but I'll explain just how hard my Servant is to handle."::
+36101::$$$message_0266_0221_0000$$$::On January 23rd, I summoned a Heroic Spirit.[lr]::
+36102::$$$message_0266_0221_0001$$$::I had full confidence and trust that if I managed to call the hero I hoped for,[lr]::
+36103::$$$message_0266_0221_0002$$$::there would be nothing else to worry about.::
+36104::$$$message_0266_0222_0000$$$::But...[wait canskip=0 time=400][lr]::
+36105::$$$message_0266_0222_0001$$$::Such innocent, maidenly thoughts were sullied day by day.::
+36106::$$$message_0266_0222_0002$$$::"This is sloppy work.[lr]::
+36107::$$$message_0266_0222_0003$$$::I told you to eliminate them, Lancer."::
+36108::$$$message_0266_0223_0000$$$::"You're such a nitpicky Master.[lr]::
+36109::$$$message_0266_0223_0001$$$::I chased them off, isn't that good enough? They won't be back."::
+36110::$$$message_0266_0224_0000$$$::It was our first battle.[lr]::
+36111::$$$message_0266_0224_0001$$$::We were to eliminate the Association mage sent to supervise me.::
+36112::$$$message_0266_0225_0000$$$::I ordered Lancer to kill him.[lr]::
+36113::$$$message_0266_0225_0001$$$::But he failed to finish the mage off, allowing him to escape.::
+36114::$$$message_0266_0226_0000$$$::...I should mention that my attack on the supervisor would be reported, but the fact I let him go without killing him would come as a boon later, though I didn't know that at the time.::
+36115::$$$message_0266_0227_0000$$$::"I don't believe this. I told you to restrain yourself until we have intelligence on every Master... Why aren't you taking this more seriously? We're not on a shopping trip."::
+36116::$$$message_0266_0228_0000$$$::"We didn't do anything that would give us away.[lr]::
+36117::$$$message_0266_0228_0001$$$::Bazett, you should try some of this. You won't get any taller eating canned food."::
+36118::$$$message_0266_0229_0000$$$::"...I'll accept your kindness.[lr]::
+36119::$$$message_0266_0229_0001$$$::But next time, consult me before you make a move."::
+36120::$$$message_0266_0230_0000$$$::I was nervous for the first three days or so.[lr]::
+36121::$$$message_0266_0230_0001$$$::The image of the hero I'd built up in my head crumbled right away, and the next disappointing seven days passed at a dizzying pace.::
+36122::$$$message_0266_0231_0000$$$::The Holy Grail War hadn't even begun yet, but I found myself involved in a lot of fighting during the prep phase.::
+36123::$$$message_0266_0232_0000$$$::Getting rid of the supervisor from the Mage's Association, scouting out Fuyuki City, and the skirmish with the witch at Ryudou Temple.[lr]::
+36124::$$$message_0266_0232_0001$$$::I was only good at fighting, and I suffered several setbacks.::
+36125::$$$message_0266_0233_0000$$$::Each time...::
+36126::$$$message_0266_0234_0000$$$::"Eh, shit happens."::
+36127::$$$message_0266_0235_0000$$$::Whether we failed or succeeded,[lr]::
+36128::$$$message_0266_0235_0001$$$::he would evade my remarks in an easygoing, one might even say spineless, manner.::
+36129::$$$message_0266_0236_0000$$$::"...Honestly, you don't think ahead at all."::
+36130::$$$message_0266_0237_0000$$$::"Yeah. But don't you think we get along pretty well?"::
+36131::$$$message_0266_0238_0000$$$::...He had a neutral attitude toward both enemies and allies.[lr]::
+36132::$$$message_0266_0238_0001$$$::I was no exception.[lr]::
+36133::$$$message_0266_0238_0002$$$::When I asked him why, he laughed and said it was in his nature.::
+36134::$$$message_0266_0239_0000$$$::"My country was full of people like that. It was common for yesterday's close friend to become today's enemy. Alliances changed as easily as the weather, so I just went with the flow."::
+36135::$$$message_0266_0240_0000$$$::"...You didn't resent people for betraying you?"::
+36136::$$$message_0266_0241_0000$$$::"Nah. There were even warriors I liked among my enemies. I just defeated who I had to defeat."::
+36137::$$$message_0266_0242_0000$$$::So nonchalant.[lr]::
+36138::$$$message_0266_0242_0001$$$::In his case, everyone he was fond of ended up as someone he had to kill, he grumbled.::
+36139::$$$message_0266_0243_0000$$$::"There were surprises all around, though.[lr]::
+36140::$$$message_0266_0243_0001$$$::I never thought that I'd team up with someone I could actually trust to have my back."::
+36141::$$$message_0266_0244_0000$$$::"...Yes.[lr]::
+36142::$$$message_0266_0244_0001$$$::I should do my best to make you dislike me, too. I'd hate to become your enemy at the eleventh hour."::
+36143::$$$message_0266_0245_0000$$$::"Tough lass, aren't ya," he laughed.[lr]::
+36144::$$$message_0266_0245_0001$$$::Only his fearless laugh was the same as I'd imagined in my childhood. The laugh of that hazel boy.::
+36145::$$$message_0266_0246_0000$$$::"...That's all.[lr]::
+36146::$$$message_0266_0246_0001$$$::You should be able to understand that our teamwork was terrible."::
+36147::$$$message_0266_0247_0000$$$::"..."::
+36148::$$$message_0266_0248_0000$$$::"......"::
+36149::$$$message_0266_0249_0000$$$::"Why are you looking at me like that, Caren, Shirou?"::
+36150::$$$message_0266_0250_0000$$$::"Oh, no reason. [cacheimage storage=カレン修道服無帽01h(中)][wvl canskip=0 time=400][chgfg time=300 storage=カレン修道服無帽01h(中)][play storage=bgm143.ogg]Even when we're apart[humming]"::
+36151::$$$message_0266_0251_0000$$$::"Yeah, no reason. [wvl canskip=0 time=400]The person I love[humming]"::
+36152::$$$message_0266_0252_0000$$$::"Excuse me.[lr]::
+36153::$$$message_0266_0252_0001$$$::I don't think of that spineless man like that at all. All he does is make trouble for me."::
+36154::$$$message_0266_0253_0000$$$::"...You like that too, admit it."::
+36155::$$$message_0266_0254_0000$$$::"Nrgh...!"::
+36156::$$$message_0266_0255_0000$$$::"By the way...[playstop time=2000 nowait=1][lr]::
+36157::$$$message_0266_0255_0001$$$::Why are you even here, Caren? Don't tell me you came just to interfere with me."::
+36158::$$$message_0266_0256_0000$$$::"...I don't have [font italic=true]that[font italic=false] much free time.[lr]::
+36159::$$$message_0266_0256_0001$$$::I had something to talk about too...but they were already preoccupied with you, so please, finish your business."::
+36160::$$$message_0266_0257_0000$$$::"...Very well. We got off topic, but let's proceed to my second topic.[lr]::
+36161::$$$message_0266_0257_0001$$$::This is the main topic."::
+36162::$$$message_0266_0258_0000$$$::The Emiya household collectively gulps again.[lr]::
+36163::$$$message_0266_0258_0001$$$::Bazett adjusts her necktie, as if about to make a public statement.::
+36164::$$$message_0266_0259_0000$$$::"Out of food, clothing, and shelter, I am lacking in shelter.[lr]::
+36165::$$$message_0266_0259_0001$$$::To be honest, I have no place to live. I was hoping to rent a room here."::
+36166::$$$message_0266_0260_0000$$$::"What..."[wm canskip=0]::
+36167::$$$message_0266_0261_0000$$$::"The..."::
+36168::$$$message_0266_0262_0000$$$::"Heck..."::
+36169::$$$message_0266_0263_0000$$$::"Are you talking about[quake vmax=10 hmax=0]!?!?!?"::
+36170::$$$message_0266_0264_0000$$$::"...I don't think I said anything to warrant such an outburst.[lr]::
+36171::$$$message_0266_0264_0001$$$::I heard that this is a refuge for Masters."::
+36172::$$$message_0266_0265_0000$$$::"I-it isn't possible! We do have plenty of rooms, but they're all for men!"::
+36173::$$$message_0266_0266_0000$$$::"...I agree. I shouldn't make claims about someone else's house, but there are already too many mages here. As Fuyuki's administrator, I can't allow that much martial strength to concentrate in one place."::
+36174::$$$message_0266_0267_0000$$$::"Oh? Then either of you could go home."::
+36175::$$$message_0266_0268_0000$$$::"N-never mind me and Sakura![lr]::
+36176::$$$message_0266_0268_0001$$$::We do go home every couple of days, and we pay rent and food expenses!"::
+36177::$$$message_0266_0269_0000$$$::"I can pay for lodging.[lr]::
+36178::$$$message_0266_0269_0001$$$::...How about 30,000 yen per night?"::
+36179::$$$message_0266_0270_0000$$$::"Argh, [wvl canskip=0 time=400]so that's how it's going to be... Oh no, it's too tempting... Now I want to let her move into my place... [cacheimage storage=凛私服06e(遠)][wvl canskip=0 time=600][chgfg time=300 storage=凛私服06e(遠)]Wait, Saber, why have you been quiet this whole time?"::
+36180::$$$message_0266_0271_0000$$$::"You should speak up, tell her how much you're against this."::
+36181::$$$message_0266_0272_0000$$$::"...Haah. I do not particularly mind.[lr]::
+36182::$$$message_0266_0272_0001$$$::We have vacant rooms, and I think we could let her live here if Shirou is amenable to it."::
+36183::$$$message_0266_0273_0000$$$::"...Um, Saber?[lr]::
+36184::$$$message_0266_0273_0001$$$::If she lives here, you know her job is going to be..."::
+36185::$$$message_0266_0274_0000$$$::"...I see. I am suited to being Shirou's bodyguard. I won't let you down in a fight."::
+36186::$$$message_0266_0275_0000$$$::"I am against this, Shirou![wvl][lquake vmax=5 hmax=5 storage=saberガビーン] There is no room for her under our roof!"::
+36187::$$$message_0266_0276_0000$$$::Saber adds her objection to the storm of protests,[lr]::
+36188::$$$message_0266_0276_0001$$$::drowning out Bazett's proposal.::
+36189::$$$message_0266_0277_0000$$$::"...I understand your opinions now.[lr]::
+36190::$$$message_0266_0277_0001$$$::But Shirou is the head of this household. The decision is his to make. [cacheimage storage=バゼットイヤリング02a(中)][wvl canskip=0 time=400][chgfg time=300 storage=バゼットイヤリング02a(中)]You know that as well as I do, Saber."::
+36191::$$$message_0266_0278_0000$$$::"I'm well aware that Shirou isn't part of any faction.[wm canskip=0]::
+36192::$$$message_0266_0279_0000$$$::If anything, I'd say that he's the lord of this estate, to put it in your terms."[wm canskip=0]::
+36193::$$$message_0266_0280_0000$$$::[large]"Well said. That's correct, mage."[rf]::
+36194::$$$message_0266_0281_0000$$$::"Hm..."::
+36195::$$$message_0266_0282_0000$$$::"Oh, what a thing to say.[lr]::
+36196::$$$message_0266_0282_0001$$$::If Saber, the only one who can beat Bazett in strength, admits defeat, then none of the others stand a chance."::
+36197::$$$message_0266_0283_0000$$$::Caren adopts a posture of sorrowful prayer.[lr]::
+36198::$$$message_0266_0283_0001$$$::But she is chuckling gleefully.::
+36199::$$$message_0266_0284_0000$$$::"No... S-Senpai, what are you going to do...?"::
+36200::$$$message_0266_0285_0000$$$::"..."::
+36201::$$$message_0266_0286_0000$$$::...It's a difficult question.[lr]::
+36202::$$$message_0266_0286_0001$$$::I should refuse for Fuji-nee's sake, and having this many people in one house would make the neighbors think something is going on.::
+36203::$$$message_0266_0287_0000$$$::But...::
+36204::$$$message_0266_0288_0000$$$::"Oh. Are you going to abandon someone in her time of need?"::
+36205::$$$message_0266_0289_0000$$$::"Ergh."::
+36206::$$$message_0266_0290_0000$$$::...She's right.[lr]::
+36207::$$$message_0266_0290_0001$$$::It's true that Bazett is homeless, unfamiliar with the area, and doesn't have the backing of the Mage's Association anymore...::
+36208::$$$message_0266_0291_0000$$$::"Time out. Give us about ten minutes to decide.[lr]::
+36209::$$$message_0266_0291_0001$$$::Sakura, Saber, come with me."::
+36210::$$$message_0266_0292_0000$$$::"Emiya, whatever you do, do NOT make a decision until we come back."::
+36211::$$$message_0266_0293_0000$$$::"Wha... Hey, Tohsaka!?"::
+36212::$$$message_0266_0294_0000$$$::"Hang in there, Emiya![lr]::
+36213::$$$message_0266_0294_0001$$$::Ten minutes! We'll only be ten minutes!"::
+36214::$$$message_0266_0295_0000$$$::The trio run off toward the dojo.::
+36215::$$$message_0266_0296_0000$$$::[small]"...Hey..."[rf]::
+36216::$$$message_0266_0297_0000$$$::"...They must be holding a strategy meeting.[lr]::
+36217::$$$message_0266_0297_0001$$$::I thought they would give no quarter, but my guess was off."::
+36218::$$$message_0266_0298_0000$$$::"...It seems so, but I wonder what caused the change of heart.[lr]::
+36219::$$$message_0266_0298_0001$$$::I never thought you'd be on my side, Caren."::
+36220::$$$message_0266_0299_0000$$$::"I always help the weak."::
+36221::$$$message_0266_0300_0000$$$::"Liar. [font italic=true]I'm[font italic=false] obviously the weak one here.[lr]::
+36222::$$$message_0266_0300_0001$$$::No matter how you look at it, you're all ganging up on me."::
+36223::$$$message_0266_0301_0000$$$::I space out, sitting cross-legged.[lr]::
+36224::$$$message_0266_0301_0001$$$::Even I want to make a snide remark or two after getting pushed around this much.::
+36225::$$$message_0266_0302_0000$$$::"..."::
+36226::$$$message_0266_0303_0000$$$::"..."::
+36227::$$$message_0266_0304_0000$$$::"...What? You look like you've seen a ghost. I won't be intimidated, not after all the scares you've already given me."::
+36228::$$$message_0266_0305_0000$$$::"...Caren, I have a suggestion."::
+36229::$$$message_0266_0306_0000$$$::"How delightful. I'll tie him up."::
+36230::$$$message_0266_0307_0000$$$::"...Huh?"::
+36231::$$$message_0266_0308_0000$$$::The two make eye contact.[lr]::
+36232::$$$message_0266_0308_0001$$$::I [wait canskip=0 time=200]have [wait canskip=0 time=200]a [wait canskip=0 time=200]terrible [wait canskip=0 time=200]feeling [wait canskip=0 time=200]about this. [wait canskip=0 time=800][sestop time=1000 nowait=1][se storage=se093.wav][se storage=se085.wav][fadein time=200 rule=走る感じ(右から) storage=black][stophaze][rep opacities=0 rule=走る感じ(右から) fliplr=0 tops=-456 storages=49カレン聖骸布による捕縛(オブジェクト1) time=200 flipud=0 lefts=598 bg=i縁側(窓開)(秋) indexes=1000]I don't waste a second running into the backyard. [se storage=se216.wav][movefg opacity=255 left=-672 top=-107 time=400 accel=-2 storage=49カレン聖骸布による捕縛(オブジェクト1)][wm canskip=0][se storage=se215.wav][shock vmax=30 time=300 count=4]::
+36233::$$$message_0266_0309_0000$$$::"...Got him."::
+36234::$$$message_0266_0310_0000$$$::It's no use.[lr]::
+36235::$$$message_0266_0310_0001$$$::It was over in an instant.[lr]::
+36236::$$$message_0266_0310_0002$$$::I'm just a plaything to them.::
+36237::$$$message_0266_0311_0000$$$::"No, wait![lr]::
+36238::$$$message_0266_0311_0001$$$::All right, you've caught me, but [font italic=true]why are you taking off my clothes!?[font italic=false]"::
+36239::$$$message_0266_0312_0000$$$::"I'll take care of his limbs. Bazett..."::
+36240::$$$message_0266_0313_0000$$$::"Leave it to me. Abstract art is a particular skill of mine."::
+36241::$$$message_0266_0314_0000$$$::"You're wrong! That's not a skill! That's just a scribble! A scribble, I say!"::
+36242::$$$message_0266_0315_0000$$$::"...Please behave.[lr]::
+36243::$$$message_0266_0315_0001$$$::Bazett is no monster. I'm sure she'll use a wet-erase marker."::
+36244::$$$message_0266_0316_0000$$$::"What?"::
+36245::$$$message_0266_0317_0000$$$::"You boxing buffoon![lr]::
+36246::$$$message_0266_0317_0001$$$::What do you mean, 'what'!? [wvl][se storage=se040.wav]WHAT DO YOU MEAN, 'WHAT'!?"::
+36247::$$$message_0266_0318_0000$$$::One minute later...::
+36248::$$$message_0266_0319_0000$$$::"Well."::
+36249::$$$message_0266_0320_0000$$$::"Huh."::
+36250::$$$message_0266_0321_0000$$$::"...This is psychological abuse."::
+36251::$$$message_0266_0322_0000$$$::I sit there in a daze, my entire body painted like a savage.::
+36252::$$$message_0266_0323_0000$$$::"...What a surprise. I thought there was a resemblance, but they look practically alike."::
+36253::$$$message_0266_0324_0000$$$::"...Sure, sure.[lr]::
+36254::$$$message_0266_0324_0001$$$::I don't know who you're talking about, but I'm glad you're happy."::
+36255::$$$message_0266_0325_0000$$$::"Can I change yet?[lr]::
+36256::$$$message_0266_0325_0001$$$::Saber will kill me where I stand if I look like this."::
+36257::$$$message_0266_0326_0000$$$::"...Wait, please.[lr]::
+36258::$$$message_0266_0326_0001$$$::Can you...talk in a more vulgar way?"::
+36259::$$$message_0266_0327_0000$$$::"Yes. More desperately, like a weakling."::
+36260::$$$message_0266_0328_0000$$$::"...Fine.[lr]::
+36261::$$$message_0266_0328_0001$$$::Have you two lost your fucking minds?"::
+36262::$$$message_0266_0329_0000$$$::[large]"There it is!"[rf][r]::
+36263::$$$message_0266_0329_0001$$$::[large]"Just like that!"[rf]::
+36264::$$$message_0266_0330_0000$$$::"...I'm starting to feel...dizzy..."::
+36265::$$$message_0266_0331_0000$$$::"Ugh...that was awful..."::
+36266::$$$message_0266_0332_0000$$$::I clean myself off with a wet towel and put on some clothes.::
+36267::$$$message_0266_0333_0000$$$::I still can't get all the oil-based ink off and my hair is a mess, but it's an improvement.::
+36268::$$$message_0266_0334_0000$$$::"You looked just like him..."::
+36269::$$$message_0266_0335_0000$$$::"Completely.[lr]::
+36270::$$$message_0266_0335_0001$$$::You have the aptitude for it, so you ought to let out your stress once in a while."::
+36271::$$$message_0266_0336_0000$$$::"Shut up, you sadomasochists."::
+36272::$$$message_0266_0337_0000$$$::"(He really is a wolf... Well, it should be obvious since he was originally that person... I almost want to make him fall to the dark side.)"::
+36273::$$$message_0266_0338_0000$$$::"(I'm against setting such a beast loose, though.[lr]::
+36274::$$$message_0266_0338_0001$$$::...More importantly, isn't now the time to figure out who is really whom?)"::
+36275::$$$message_0266_0339_0000$$$::The merry duo whisper to each other in the middle of the room.[lr]::
+36276::$$$message_0266_0339_0001$$$::My dizziness is worsening into a headache.[lr]::
+36277::$$$message_0266_0339_0002$$$::Looks like the psychological bullying isn't over yet.::
+36278::$$$message_0266_0340_0000$$$::"Oh right, speaking of bullying...[lr]::
+36279::$$$message_0266_0340_0001$$$::Hey, Caren. Don't bully Tohsaka and Sakura too much."::
+36280::$$$message_0266_0341_0000$$$::"...How rude. That was just a form of communication."::
+36281::$$$message_0266_0342_0000$$$::"To begin with, I couldn't hold a candle to them if they were serious about wanting me out of the way. I know my limits."::
+36282::$$$message_0266_0343_0000$$$::"How rational of you. You have sound judgment."::
+36283::$$$message_0266_0344_0000$$$::"Of course I do. I can't look up to someone who's weaker than me.[lr]::
+36284::$$$message_0266_0344_0001$$$::...Besides, teasing them like that is the right way to enjoy our interactions."::
+36285::$$$message_0266_0345_0000$$$::"I see," Bazett responds noncommittally.[lr]::
+36286::$$$message_0266_0345_0001$$$::For two people who don't get along, they sure have a lot to talk about.::
+36287::$$$message_0266_0346_0000$$$::"...But you know,[lr]::
+36288::$$$message_0266_0346_0001$$$::from here, you two are pretty similar."::
+36289::$$$message_0266_0347_0000$$$::"..."::
+36290::$$$message_0266_0348_0000$$$::"In what way?"::
+36291::$$$message_0266_0349_0000$$$::"It's hard to sum it up in a sentence..."::
+36292::$$$message_0266_0350_0000$$$::Like they're not quite heroines.[lr]::
+36293::$$$message_0266_0350_0001$$$::"It just wouldn't fit you two, you know?"::
+36294::$$$message_0266_0351_0000$$$::"......"::
+36295::$$$message_0266_0352_0000$$$::Bazett exchanges a wordless nod with Caren, [se storage=se598.wav]dons her gloves, and stands up.[wait canskip=0 time=800]::
+36296::$$$message_0266_0353_0000$$$::"I have a sudden idea. Let's play a simple game.[lr]::
+36297::$$$message_0266_0353_0001$$$::If I win, you take back what you just said."::
+36298::$$$message_0266_0354_0000$$$::"You should confess what you had in mind."::
+36299::$$$message_0266_0355_0000$$$::"...How dare a mangy dog defy its master.[lr]::
+36300::$$$message_0266_0355_0001$$$::I almost decided to castrate you, premature ejaculator."::
+36301::$$$message_0266_0356_0000$$$::"...Wait. [wvl canskip=0 time=400]This sister just said something incredibly inappropriate!"::
+36302::$$$message_0266_0357_0000$$$::"Ah."::
+36303::$$$message_0266_0358_0000$$$::"No, never mind.[lr]::
+36304::$$$message_0266_0358_0001$$$::Those were my genuine feelings."::
+36305::$$$message_0266_0359_0000$$$::Caren apologetically asks me to overlook her words because they were truthful. Wow. That level of verbal abuse is apparently her default state.::
+36306::$$$message_0266_0360_0000$$$::"I'm not asking you to do this for free.[lr]::
+36307::$$$message_0266_0360_0001$$$::If you win, Shirou, I will quietly leave for today. Isn't that a tempting proposition?"::
+36308::$$$message_0266_0361_0000$$$::"Tempting, you say?"::
+36309::$$$message_0266_0362_0000$$$::I wouldn't say that getting punched the instant I refuse is very tempting at all.::
+36310::$$$message_0266_0363_0000$$$::"...Okay, I understand now.[lr]::
+36311::$$$message_0266_0363_0001$$$::Basically, you're saying I'll die if I lose, right?"::
+36312::$$$message_0266_0364_0000$$$::Those are some crappy conditions.::
+36313::$$$message_0266_0365_0000$$$::"Well, I'll admit that you leaving if I win is one heck of a prize. Okay, I accept. Are we playing...hanafuda?"::
+36314::$$$message_0266_0366_0000$$$::"Mrgh... I don't like such slow games..."::
+36315::$$$message_0266_0367_0000$$$::"Rin and the others will be back before you finish.[lr]::
+36316::$$$message_0266_0367_0001$$$::...I know. Why don't we have a single game of rock paper scissors, like mages do?"::
+36317::$$$message_0266_0368_0000$$$::"...There's [font italic=true]so[font italic=false] much to unpack there, but I'm up for it. What about you, Bazett?"::
+36318::$$$message_0266_0369_0000$$$::"N-no objections. I'm at a slight disadvantage, but let's call it a handicap."::
+36319::$$$message_0266_0370_0000$$$::"So you're unlucky with more than just men, huh?[lr]::
+36320::$$$message_0266_0370_0001$$$::Then I won't hold back.[lr]::
+36321::$$$message_0266_0370_0002$$$::Oh, I always play paper, by the way."::
+36322::$$$message_0266_0371_0000$$$::"Ergh... Playing mind games, I see.[lr]::
+36323::$$$message_0266_0371_0001$$$::Then I should take this seriously, too."::
+36324::$$$message_0266_0372_0000$$$::"Hehehe.[lr]::
+36325::$$$message_0266_0372_0001$$$::Just so you know, playing late is an automatic loss."::
+36326::$$$message_0266_0373_0000$$$::"You both accept?[lr]::
+36327::$$$message_0266_0373_0001$$$::Well then, if I may, I'll be the judge.[lr]::
+36328::$$$message_0266_0373_0002$$$::Are you ready? [cacheimage storage=バゼットイヤリング02f(中),white][wvl canskip=0 time=400][clfg][fg index=1000 pos=c storage=バゼットイヤリング02f(中)][dash storage=i衛宮邸居間(fd) page=back textoff=0 mx=-34 opacity=255 layer=all irot=-0.0 cx=888 imag=2.4 time=800 cy=541 mag=2.1 my=-42 rot=-0.0 accel=3][transex time=200 textoff=0]Rock, [wdash canskip=0][se storage=se091.wav][wait canskip=0 time=800][fadein textoff=0 time=100 rule=走る感じ(右から) storage=white][clfg][fg index=1000 pos=c storage=バゼットイヤリング02f(中)][dash storage=i衛宮邸居間(fd) page=back textoff=0 mx=44 opacity=255 layer=all irot=-0.0 cx=-25 imag=2.4 time=800 cy=256 mag=2.1 my=0 rot=-0.0 accel=3][transex time=200 textoff=0]paper..."[se storage=se090.wav][wdash canskip=0]::
+36329::$$$message_0266_0374_0000$$$::"Scissors!"[wm canskip=0]::
+36330::$$$message_0266_0375_0000$$$::I play paper, just as I declared.[lr]::
+36331::$$$message_0266_0375_0001$$$::Bazett, reading three steps ahead, plays rock...!::
+36332::$$$message_0266_0376_0000$$$::I read her correctly. Bazett overthinks everything, [fadein time=800 storage=fd10_ts textoff=0][stopdash]so I didn't think [wait canskip=0 time=200]she [wait canskip=0 time=200]would [wait canskip=0 time=200]play [wait canskip=0 time=200]sci[wait canskip=0 time=200]ssors[fadein time=800 storage=fd10c_ts textoff=0][sestop time=1000 nowait=1][se storage=se727.wav][wait canskip=0 time=400]...huh?::
+36333::$$$message_0266_0377_0000$$$::"...A[wvl canskip=0 time=50]n[wvl canskip=0 time=50]s[wvl canskip=0 time=50]w[wvl canskip=0 time=50]e[wvl canskip=0 time=50]r[wvl canskip=0 time=50]e[wvl canskip=0 time=50]r[wvl canskip=0 time=50][wvl canskip=0 time=50][wvl canskip=0 time=50][wvl canskip=0 time=50][wvl canskip=0 time=50]."::
+36334::$$$message_0266_0378_0000$$$::Wait, [wait canskip=0 time=400]what's this human weapon mumbling about...!?::
+36335::$$$message_0266_0379_0000$$$::"Got you![lr]::
+36336::$$$message_0266_0379_0001$$$::Rock, paper, [dash textoff=0 mx=0 opacity=255 layer=base irot=-0.0 cx=725 imag=1 time=800 cy=1 mag=4.7 my=0 storage=fd10c_ts rot=-0.0 accel=2][wdash canskip=0][wvl][se storage=se088.wav][dash textoff=0 mx=733 opacity=60 layer=base irot=0.011 cx=35 imag=3.9 flipud=1 time=200 cy=576 mag=3.4 my=-331 storage=r01ボディーブロウ rot=-0.0 accel=0][wdash canskip=0][dash textoff=0 mx=739 opacity=255 layer=base irot=0.011 cx=35 imag=3.9 flipud=1 time=200 cy=576 mag=1.3 my=-108 storage=r01ボディーブロウ rot=-0.0 accel=2]die...!"[wdash canskip=0]::
+36337::$$$message_0266_0380_0000$$$::"...Whew. I win, Shirou.[lr]::
+36338::$$$message_0266_0380_0001$$$::You played too late, even if it was the right move."::
+36339::$$$message_0266_0381_0000$$$::...Well, of course I did.[lr]::
+36340::$$$message_0266_0381_0001$$$::Even though she played second, it became the first move.::
+36341::$$$message_0266_0382_0000$$$::"...Using any means necessary to win, how very like you, Bazett."::
+36342::$$$message_0266_0383_0000$$$::"But...I think you should refrain from yelling 'die' instead of 'scissors.'"::
+36343::$$$message_0266_0384_0000$$$::"Heh, [wvl canskip=0 time=400]heheh[wvl canskip=0 time=400]... Never mind that, [wvl canskip=0 time=400]I'm pretty sure rock paper scissors isn't [wvl canskip=0 time=400]that kind of game. [wvl canskip=0 time=400](Blargh.)"::
+36344::$$$message_0266_0385_0000$$$::"Thanks for waiting![lr]::
+36345::$$$message_0266_0385_0001$$$::Huh? Emiya, why are you sulking?"::
+36346::$$$message_0266_0386_0000$$$::"...I've been sulking this entire time.[lr]::
+36347::$$$message_0266_0386_0001$$$::But I feel better now, so don't mind me. Tell us what you decided."::
+36348::$$$message_0266_0387_0000$$$::"Okay, we'll do that."::
+36349::$$$message_0266_0388_0000$$$::"First, Bazett...[lr]::
+36350::$$$message_0266_0388_0001$$$::We agree with letting you rent a room here. It's the right thing to do."::
+36351::$$$message_0266_0389_0000$$$::"Guaah...![lr]::
+36352::$$$message_0266_0389_0001$$$::W-w-w-what!? What kind of strategy meeting did you have!?"::
+36353::$$$message_0266_0390_0000$$$::Also, I notice she stopped saying "Miss Bazett."[l][br]If Tohsaka's stopped being polite, it means she's decided to fight head-on.::
+36354::$$$message_0266_0391_0000$$$::"We'd better not. She's literally a walking weapon."::
+36355::$$$message_0266_0392_0000$$$::"Just listen until the end."::
+36356::$$$message_0266_0393_0000$$$::"Bazett.[lr]::
+36357::$$$message_0266_0393_0001$$$::You're from another country and you don't have anyone to help you. On top of that, you won't be able to find any lodging without a visa and some form of identification."::
+36358::$$$message_0266_0394_0000$$$::"Yes. Without the Association's backing, I can't even check into a hotel."::
+36359::$$$message_0266_0395_0000$$$::"Right, so...[lr]::
+36360::$$$message_0266_0395_0001$$$::We'll make an exception and let you stay at the Emiya house for a week. The rest is up to you. How does that sound?"::
+36361::$$$message_0266_0396_0000$$$::"...You're telling me to find lodging in a week?"::
+36362::$$$message_0266_0397_0000$$$::"Yeah. A regular property for sale won't even let you past the screening process, but a property with a more unconventional history might have a loophole."::
+36363::$$$message_0266_0398_0000$$$::"Why don't you start by taking a look at the western-style house in the woods near our place? The owner won't come back unless some sort of natural disaster occurs, and it's still well taken care of. You'd be squatting, though."::
+36364::$$$message_0266_0399_0000$$$::"...I see.[lr]::
+36365::$$$message_0266_0399_0001$$$::That sounds like a good place to start. I'd like to find my own apartment, if possible."::
+36366::$$$message_0266_0400_0000$$$::"Great, that settles it!"::
+36367::$$$message_0266_0401_0000$$$::Sakura shouts "Yay!" [fadein time=400 storage=white textoff=0][clfg][fg index=3000 pos=c storage=凛私服04c(近)][dash storage=i衛宮邸居間(fd) textoff=0 page=back mx=-247 opacity=255 layer=all irot=-0.0 cx=630 imag=1.4 time=3000 cy=230 mag=1.4 my=0 rot=-0.0 accel=0][transex textoff=0 time=300]Tohsaka nods, satisfied.[fadein time=400 storage=white textoff=0][clfg][fg index=5000 pos=c storage=セイバー私服12c(近)][dash storage=i衛宮邸居間(fd) textoff=0 page=back mx=0 opacity=150 layer=all irot=-0.0 cx=400 imag=1.5 time=3000 cy=300 mag=1.2 my=0 rot=-0.0 accel=0][transex textoff=0 time=300][lr]::
+36368::$$$message_0266_0401_0001$$$::Saber was readying for a fight in case Bazett said no.::
+36369::$$$message_0266_0402_0000$$$::And so, the head of the house is excluded from the decision.::
+36370::$$$message_0266_0403_0000$$$::"Then I'll be in your care for the next week.[lr]::
+36371::$$$message_0266_0403_0001$$$::I don't ask for much, but I'd like a suite at the minimum."::
+36372::$$$message_0266_0404_0000$$$::"Ahaha. You hear that, Emiya?[lr]::
+36373::$$$message_0266_0404_0001$$$::Um, I guess the only suite here would be the shed."::
+36374::$$$message_0266_0405_0000$$$::The atmosphere is cheerful.[lr]::
+36375::$$$message_0266_0405_0001$$$::But beneath the surface, there's a simmering tension. It's Tohsaka vs Bazett.[lr]::
+36376::$$$message_0266_0405_0002$$$::...It'll be okay. It's just a week.::
+36377::$$$message_0266_0406_0000$$$::Trouble is brewing, but if it's just Bazett, I should be able to survive.::
+36378::$$$message_0266_0407_0000$$$::"How nice. You've gotten that out of the way."::
+36379::$$$message_0266_0408_0000$$$::Caren looks relieved.[lr]::
+36380::$$$message_0266_0408_0001$$$::Even if they don't get along, she must be wishing Bazett well for being able to find a place to live.::
+36381::$$$message_0266_0409_0000$$$::"I wasn't sure how this would play out, but I'm glad we settled that.[lr]::
+36382::$$$message_0266_0409_0001$$$::Oh, right. What did you want to talk about?"::
+36383::$$$message_0266_0410_0000$$$::"My, you remembered?"::
+36384::$$$message_0266_0411_0000$$$::"I promised I'd listen once we finished up with Bazett.[lr]::
+36385::$$$message_0266_0411_0001$$$::What did you want to ask us about, Caren?"::
+36386::$$$message_0266_0412_0000$$$::And then...[lr]::
+36387::$$$message_0266_0412_0001$$$::I catch a brief glimpse of a true devil's smile,::
+36388::$$$message_0266_0413_0000$$$::a devil that couldn't have timed this any better.::
+36389::$$$message_0266_0414_0000$$$::"Well, the church happens to be undergoing renovations.[lr]::
+36390::$$$message_0266_0414_0001$$$::So I'm going to need a place to stay until[line len=2]"::
+36391::$$$message_0266_0415_0000$$$::"[whitestar]x$%'&$"(&$%#%&!!!"::
+936160::$$$message_9266_0257_0000$$$::"...Very well. We got off topic, but let's proceed to my second topic."[r]::
+�

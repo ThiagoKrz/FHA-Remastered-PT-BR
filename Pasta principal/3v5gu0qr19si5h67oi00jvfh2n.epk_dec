@@ -1,0 +1,89 @@
+DAT
+id=qid::label=str::text=lstr::
+7920::$$$message_0055_0000_0000$$$::I arrive at the mountain gate of Ryudou Temple.[lr]::
+7921::$$$message_0055_0000_0001$$$::After climbing the long stone stairs...[seloop storage=se513.wav volume=70][lr]::
+7922::$$$message_0055_0000_0002$$$::"...G-good morning."::
+7923::$$$message_0055_0001_0000$$$::I come across someone sweeping the base of the gate.[lr]::
+7924::$$$message_0055_0001_0001$$$::I'd understand if it was one of the monks, but it's Caster.[lr]::
+7925::$$$message_0055_0001_0002$$$::[clfg textoff=0 pos=all time=300]Her hood is off... How sketchy. What is she up to, sweeping in broad daylight?::
+7926::$$$message_0055_0002_0000$$$::"Hello there, boy. What business do you have here today?"[lr]::
+7927::$$$message_0055_0002_0001$$$::"...You actually do chores." [lr]::
+7928::$$$message_0055_0002_0002$$$::[chgfg time=300 storage=キャスターローブ無し01c怒り(中) textoff=0]I couldn't contain my surprise.[lr]::
+7929::$$$message_0055_0002_0003$$$::...But maybe it isn't that surprising. She lives here, after all.::
+7930::$$$message_0055_0003_0000$$$::"Yes. I thought I'd tidy up the grounds a bit. Do you have a problem with that?"[lr]::
+7931::$$$message_0055_0003_0001$$$::"Uh, are you sure you should be doing it in that outfit?"[lr]::
+7932::$$$message_0055_0003_0002$$$::You could wear something else, like your casual clothes.[lr]::
+7933::$$$message_0055_0003_0003$$$::That would look normal enough. Right now she's giving off the vibes of a temple family member doing chores.::
+7934::$$$message_0055_0004_0000$$$::"What's wrong with this?"[lr]::
+7935::$$$message_0055_0004_0001$$$::"Um, well...couldn't you make the gatekeeper do it?"[lr]::
+7936::$$$message_0055_0004_0002$$$::[chgfg time=300 storage=キャスターローブ無し03b(中) textoff=0]Assassin is supposed to be here too, isn't he?::
+7937::$$$message_0055_0005_0000$$$::"...Haah."[lr]::
+7938::$$$message_0055_0005_0001$$$::Caster heaves an exaggerated sigh.::
+7939::$$$message_0055_0006_0000$$$::"I wouldn't be going to all this trouble if he were that diligent."[lr]::
+7940::$$$message_0055_0006_0001$$$::"He looks like he has a lot of free time."[lr]::
+7941::$$$message_0055_0006_0002$$$::"He does. And I've told him countless times to clean the place up."::
+7942::$$$message_0055_0007_0000$$$::"That freeloader is all talk.[lr]::
+7943::$$$message_0055_0007_0001$$$::'Unfortunately, I am a spiritual being and lack the power to maintain a physical body. You'd like me to clean? Certainly, I won't object if you order me to, but would that not run counter to your creed? Between the magical energy it takes to materialize me, and the trifling expense of sweeping the floor yourself, I'm sure it goes without saying which is more costly.'[lr]::
+7944::$$$message_0055_0007_0002$$$::The utter nerve! Don't you agree, boy!?"::
+7945::$$$message_0055_0008_0000$$$::"..."[lr]::
+7946::$$$message_0055_0008_0001$$$::Sounds like she's having problems with the help.[lr]::
+7947::$$$message_0055_0008_0002$$$::Assassin's excuse was ironclad, too.[lr]::
+7948::$$$message_0055_0008_0003$$$::Despite appearances, Caster is a genuine old-fashioned mage who makes Tohsaka look like a dilettante.[lr]::
+7949::$$$message_0055_0008_0004$$$::She's economical and won't spend any more magical energy than necessary to advance her strategic plans, especially not on something as wasteful as materializing a whole Servant just to sweep the floor.::
+7950::$$$message_0055_0009_0000$$$::"...Haah. Perhaps I should have summoned a boy spirit with a more thoughtful, sincere personality.[lr]::
+7951::$$$message_0055_0009_0001$$$::Like you..."[lr]::
+7952::$$$message_0055_0009_0002$$$::Caster eyes me up and down.[lr]::
+7953::$$$message_0055_0009_0003$$$::...Wow. That instantly gave me chills.::
+7954::$$$message_0055_0010_0000$$$::"That is, a familiar like you who's good at cooking and cleaning."[lr]::
+7955::$$$message_0055_0010_0001$$$::"...Thanks, I guess."[lr]::
+7956::$$$message_0055_0010_0002$$$::I'm not sure if she's complimenting me or teasing me for being completely useless as a mage. I have a feeling it's both.[lr]::
+7957::$$$message_0055_0010_0003$$$::[chgfg time=300 storage=キャスターローブ無し01d(中) textoff=0]Suddenly, she shoots an annoyed glance up at the gate.::
+7958::$$$message_0055_0011_0000$$$::"You hear that, Assassin?"[lr]::
+7959::$$$message_0055_0011_0001$$$::"...Hm."[lr]::
+7960::$$$message_0055_0011_0002$$$::Assassin replies without revealing himself.::
+7961::$$$message_0055_0012_0000$$$::"We're talking about you. All you do is sleep all day. Even this boy is more useful than you are."[lr]::
+7962::$$$message_0055_0012_0001$$$::"Indeed. As a matter of fact, swords are of little use during peacetime. Those with the strength to plow the fields were the salt of the earth. It's true enough that the boy would be more helpful than me."[lr]::
+7963::$$$message_0055_0012_0002$$$::[chgfg time=300 storage=キャスターローブ無し03a(中) textoff=0]Kojirou's lazy voice stands off against Caster's prickly temper. Are these two really master and servant? I'm not sure anymore.::
+7964::$$$message_0055_0013_0000$$$::"But if you insist, why not use a Command Spell to make me do it?"[lr]::
+7965::$$$message_0055_0013_0001$$$::"Rrgh..."[lr]::
+7966::$$$message_0055_0013_0002$$$::"Haha, what a fine expression. I haven't seen that one in a while. Lately, you've gone so soft with your happy life that I was starting to get bored."[lr]::
+7967::$$$message_0055_0013_0003$$$::[chgfg time=300 storage=キャスターローブ無し03b頬(中) textoff=0]Kojirou...is making fun of her.[lr]::
+7968::$$$message_0055_0013_0004$$$::I always knew he had a fairly sarcastic attitude, but I didn't expect him to push her buttons this much.::
+7969::$$$message_0055_0014_0000$$$::"Hmph. I don't care. Just do your job as gatekeeper. If you can't even carry out your basic duties, I'll demote you to janitor next."[lr]::
+7970::$$$message_0055_0014_0001$$$::"Hahaha. Very well, I shall devote myself to the task."[lr]::
+7971::$$$message_0055_0014_0002$$$::Kojirou's remarks stop.[lr]::
+7972::$$$message_0055_0014_0003$$$::...I couldn't get a word in between them.::
+7973::$$$message_0055_0015_0000$$$::"So there you have it, boy. Do you see what Assassin is like?"[lr]::
+7974::$$$message_0055_0015_0001$$$::"Pretty much... Want a hand with that?"[lr]::
+7975::$$$message_0055_0015_0002$$$::I offer my help, curious what she'll say.[lr]::
+7976::$$$message_0055_0015_0003$$$::Maybe that surprised her.::
+7977::$$$message_0055_0016_0000$$$::"...I've thought for some time now that you're a bit insensitive. If you help me, Saber will get jealous and become even more hostile."[lr]::
+7978::$$$message_0055_0016_0001$$$::"It's not like she'll get mad if I do some chores. I'll just help you sweep these stairs from top to bottom."[lr]::
+7979::$$$message_0055_0016_0002$$$::She really could use the help.[lr]::
+7980::$$$message_0055_0016_0003$$$::I don't really have anything else to do, so who can blame me for offering?::
+7981::$$$message_0055_0017_0000$$$::Caster sighs again.[lr]::
+7982::$$$message_0055_0017_0001$$$::"...I see that girl gained a rather handy apprentice."[lr]::
+7983::$$$message_0055_0017_0002$$$::"You mean Tohsaka? Yeah, she's one heck of a slave driver."::
+7984::$$$message_0055_0018_0000$$$::"I'll have to decline, though.[lr]::
+7985::$$$message_0055_0018_0001$$$::Issei will give me another earful if he sees you helping me."[lr]::
+7986::$$$message_0055_0018_0002$$$::"Oh, okay. Too bad."::
+7987::$$$message_0055_0019_0000$$$::"Yes, what a shame. It would be nice if Souichirou were here, at least."[lr]::
+7988::$$$message_0055_0019_0001$$$::[chgfg time=300 storage=キャスターローブ無し03c(中) textoff=0]Mr. Kuzuki doing chores, huh... Actually, it's pretty easy to imagine him stoically sweeping.[lr]::
+7989::$$$message_0055_0019_0002$$$::Together, they embody the image of a picture-perfect traditional couple.::
+7990::$$$message_0055_0020_0000$$$::"...Heh."[lr]::
+7991::$$$message_0055_0020_0001$$$::[chgfg time=200 storage=キャスターローブ無し03b(中) textoff=0]A dry chuckle comes from the top of the gate.::
+7992::$$$message_0055_0021_0000$$$::"What's so funny, Assassin!?"[lr]::
+7993::$$$message_0055_0021_0001$$$::"It's a tad painful to see you boasting 'Souichirou, Souichirou' all the time. That's why I stay out here."[lr]::
+7994::$$$message_0055_0021_0002$$$::"That wretched tongue of yours... And 'boasting'? I won't tolerate any slander of Souichirou."[lr]::
+7995::$$$message_0055_0021_0003$$$::"Do forgive this artless vagabond for not knowing how to adequately serve a liege lord.[lr]::
+7996::$$$message_0055_0021_0004$$$::Why, I can't even imagine how I'm supposed to treat the lord of my lord."::
+7997::$$$message_0055_0022_0000$$$::"Get down here, Assassin. I have some words for you."[lr]::
+7998::$$$message_0055_0022_0001$$$::"Oh? I don't mind, but will you neglect the cleaning?"[lr]::
+7999::$$$message_0055_0022_0002$$$::"It can wait, and you can clean the immediate area around the gate. I'm a busy woman, you know. I still have other chores to do inside the temple."[lr]::
+8000::$$$message_0055_0022_0003$$$::"...Is it a spring cleaning day?"::
+8001::$$$message_0055_0023_0000$$$::[clfg textoff=0 pos=all time=300]It can't be easy maintaining the entire temple.[lr]::
+8002::$$$message_0055_0023_0001$$$::I'll get ahold of Issei later and clean the place together.::
+8003::$$$message_0055_0024_0000$$$::"Come down here, right this instant!"[lr]::
+8004::$$$message_0055_0024_0001$$$::"No need to be so hasty..."::
+8005::$$$message_0055_0025_0000$$$::[wshock canskip=0][movefg opacity=0 left=-87 top=22 time=500 accel=2 storage=キャスターローブ無し03d(近) textoff=0]I'll just get in the way if I stay here.[wm canskip=0][lr]::
+8006::$$$message_0055_0025_0001$$$::I give a small bow and head on through into the temple grounds.::s�

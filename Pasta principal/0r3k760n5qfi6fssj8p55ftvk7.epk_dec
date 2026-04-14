@@ -1,0 +1,49 @@
+DAT
+id=qid::label=str::text=lstr::
+6087::$$$message_0042_0000_0000$$$::I head around to the hills behind Ryudou Temple.[lr]::
+6088::$$$message_0042_0000_0001$$$::The splendid main building is nestled in a dense forest.[lr]::
+6089::$$$message_0042_0000_0002$$$::I'm rather fond of these hills, so I occasionally take walks this way.[lr]::
+6090::$$$message_0042_0000_0003$$$::"Huh...?"[lr]::
+6091::$$$message_0042_0000_0004$$$::"Gah."[play storage=bgm106.ogg][lr]::
+6092::$$$message_0042_0000_0005$$$::I run into Fuji-nee.::
+6093::$$$message_0042_0001_0000$$$::"Out for a hike, Shirou?"[lr]::
+6094::$$$message_0042_0001_0001$$$::"I came to hang out with Issei..."[lr]::
+6095::$$$message_0042_0001_0002$$$::I expected to find Issei in the main hall, but when I didn't, I started looking around and still haven't found him even out here. Would that work as an excuse?::
+6096::$$$message_0042_0002_0000$$$::"Huh, okay. But I wouldn't think the temple is so strict that they'd send him into the forest."[lr]::
+6097::$$$message_0042_0002_0001$$$::"I wouldn't really be surprised if his parents or Mr. Kuzuki told him to."[lr]::
+6098::$$$message_0042_0002_0002$$$::[chgfg time=300 storage=藤01b(中) textoff=0]There's Caster and Reikan, too.[lr]::
+6099::$$$message_0042_0002_0003$$$::Now that I think about it, Ryudou Temple's got a motley household that rivals my own.::
+6100::$$$message_0042_0003_0000$$$::"What about you, Fuji[line len=2]Ah."[wvs][playstop time=1000 nowait=true][lr]::
+6101::$$$message_0042_0003_0001$$$::[chgfg time=300 storage=藤01a(中) textoff=0]I hesitate before finishing my question.[lr]::
+6102::$$$message_0042_0003_0002$$$::The bucket and ladle she's carrying more or less tells me what she's doing out here.::
+6103::$$$message_0042_0004_0000$$$::"I went to visit Kiritsugu."[lr]::
+6104::$$$message_0042_0004_0001$$$::"Right."[lr]::
+6105::$$$message_0042_0004_0002$$$::Kiritsugu is buried in the cemetery behind the temple.[lr]::
+6106::$$$message_0042_0004_0003$$$::[chgfg time=300 storage=藤09a腕b(中) textoff=0]The Fujimura patriarch and Issei's father really pulled out the stops for the funeral, and decided to bury him up here.[lr]::
+6107::$$$message_0042_0004_0004$$$::I barely ever[line len=2]no, I never visit.::
+6108::$$$message_0042_0005_0000$$$::"I'll tend to his grave, Shirou. You don't have to worry about it."[lr]::
+6109::$$$message_0042_0005_0001$$$::Fuji-nee smiles and forgives me, like she always does.::
+6110::$$$message_0042_0006_0000$$$::"It might not mean much to you yet... [cacheimage storage=藤01a(中)][wvl canskip=0 time=300][chgfg time=300 storage=藤01a(中) textoff=0]But it might make Kiritsugu happy if you came to say hi once in a while."[lr]::
+6111::$$$message_0042_0006_0001$$$::"..."[lr]::
+6112::$$$message_0042_0006_0002$$$::"Knowing him, though, he'd probably tell us not to bother him with our troubles in the afterlife.[lr]::
+6113::$$$message_0042_0006_0003$$$::[chgfg time=300 storage=藤08d(中) textoff=0]That's just the kind of guy he was."::
+6114::$$$message_0042_0007_0000$$$::"..."[lr]::
+6115::$$$message_0042_0007_0001$$$::"Have you told Saber and Illya that he's buried here, by the way?"[lr]::
+6116::$$$message_0042_0007_0002$$$::"I haven't, no."::
+6117::$$$message_0042_0008_0000$$$::"Oh, okay... Well, it would probably be better coming from you, not me."[lr]::
+6118::$$$message_0042_0008_0001$$$::They have an even stronger connection to Kiritsugu than I do.[lr]::
+6119::$$$message_0042_0008_0002$$$::[chgfg time=300 storage=藤01b(中) textoff=0]Still, though...I doubt Illya and Saber would visit his grave.::
+6120::$$$message_0042_0009_0000$$$::"Sorry, did I make you uncomfortable?"[lr]::
+6121::$$$message_0042_0009_0001$$$::"Nah, I'm fine."[lr]::
+6122::$$$message_0042_0009_0002$$$::"'Kay. I'm going to put these back. What about you?"[lr]::
+6123::$$$message_0042_0009_0003$$$::If I keep walking the way I'm going, I'll arrive at the cemetery Fuji-nee just came from.[lr]::
+6124::$$$message_0042_0009_0004$$$::But I still don't have anything to tell my old man.[lr]::
+6125::$$$message_0042_0009_0005$$$::I should go back to the temple with her, then.::
+6126::$$$message_0042_0010_0000$$$::"I'll go with you. I can take this."[lr]::
+6127::$$$message_0042_0010_0001$$$::"Oh... [cacheimage storage=藤01c(中)][wvl canskip=0 time=400][chgfg time=300 storage=藤01c(中) textoff=0]Okay, let's go."[lr]::
+6128::$$$message_0042_0010_0002$$$::I take the bucket from Fuji-nee and start walking.[lr]::
+6129::$$$message_0042_0010_0003$$$::...I look back at the forest one last time.[lr]::
+6130::$$$message_0042_0010_0004$$$::I can't see his grave from here.[lr]::
+6131::$$$message_0042_0010_0005$$$::"Hey. See you later, Pops."::
+906105::$$$message_9042_0004_0002$$$::Kiritsugu is buried in the cemetery behind the temple.[r]::
+

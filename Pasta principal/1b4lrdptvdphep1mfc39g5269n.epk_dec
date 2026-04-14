@@ -1,0 +1,52 @@
+DAT
+id=qid::label=str::text=lstr::
+43676::$$$message_0370_0000_0000$$$::"I give you the strongest duo in both name and reality: [wvs][hfchance layer=0][say storage=HSTR4_RIN_0020 _name=凛]Rin Tohsaka and her Servant, Archer!"::
+43677::$$$message_0370_0001_0000$$$::"The real game starts now, you two![lr]::
+43678::$$$message_0370_0001_0001$$$::[se storage=se060.wav]Say your prayers!"::
+43679::$$$message_0370_0001_0002$$$::"...Um, [l][hfwww layer=0][say storage=HSTR4_RIN_0080 _name=凛]what are you doing, Archer?[lr]::
+43680::$$$message_0370_0001_0003$$$::Come on, do the pose like we practiced."::
+43681::$$$message_0370_0001_0004$$$::"R-right... Venus in the sky, purgatory on Earth.[lr]::
+43682::$$$message_0370_0001_0005$$$::We are the crimson tempest who gallantly redefine the impossible."::
+43683::$$$message_0370_0002_0000$$$::"...Uhh, they call us the Guardians of Fuyuki...[wait canskip=0 time=300][l][hffacechg chara=アーチャー face=哀 layer=0 time=200][say storage=HSTR4_ARC_0040 _name=アーチャー] Yeah."::
+43684::$$$message_0370_0002_0001$$$::"(He's so not into it!)"::
+43685::$$$message_0370_0002_0002$$$::"C'mon, where's the [font italic=true]fire[font italic=false]!?[lr]::
+43686::$$$message_0370_0002_0003$$$::You need to like, thrust your right hand toward the heavens, as if impaling our foes on a pillar of light!"::
+43687::$$$message_0370_0002_0004$$$::"And since we've got the high ground, you've gotta maximize the effect of having them look up at us[hfchance layer=0]![l][say storage=HSTR4_RIN_0140 _name=凛] Try to peer down your nose at them a little. It's best if your chin dips into your neck!"::
+43688::$$$message_0370_0002_0005$$$::"...Sorry, Master. I'm already doing the best I can to stay in character."::
+43689::$$$message_0370_0002_0006$$$::"Hm. [l][hfwww layer=0][say storage=HSTR4_RIN_0170 _name=凛]Look, just copy Goldy and act all high and mighty. That's close enough."::
+43690::$$$message_0370_0002_0007$$$::"Okay, let's try a [l][hfchance layer=0][say storage=HSTR4_RIN_0200 _name=凛]take two..."[nolr][p]::
+43691::$$$message_0370_0002_0008$$$::"We are the crimson flash cleaving through the dark night![lr]::
+43692::$$$message_0370_0002_0009$$$::The rumored protectors of chaotic Fuyuki, champions of money who collect the mental tax!"[wm canskip=0][wm canskip=0]::
+43693::$$$message_0370_0003_0000$$$::"They call us the wandering misers, [wm canskip=0][wm canskip=0][movefg textoff=0 opacity=255 left=398 top=27 time=400 accel=3 layer=4][se storage=se084.wav][movefg textoff=0 opacity=255 left=-198 top=33 time=400 accel=3 layer=2][se storage=se085.wav][wvs][say storage=HSTR4_RIN_0250 _name=凛]ArcheRin Mix [wm canskip=0][wm canskip=0][wait canskip=0 time=200][move textoff=0 spread=1 mx=541 magnify=1 time=300 my=605 path=(522,548,255,2) layer=5 accel=-2][move textoff=0 spread=1 mx=541 magnify=1 time=300 my=605 path=(522,548,0,2) layer=4 accel=-2][movefg textoff=0 opacity=0 left=-198 top=33 time=300 accel=3 layer=2][movefg textoff=0 opacity=255 left=-198 top=33 time=300 accel=0 layer=3][se storage=se086.wav][wvs][say storage=HSTR4_RIN_0260 _name=凛]Remi[wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][wait canskip=0 time=200][move textoff=0 spread=1 mx=185 magnify=1 time=600 my=320 path=(340,506,255,2) layer=3 accel=3][move textoff=0 spread=1 mx=517 magnify=1.42 time=150 my=563 path=(523,508,255,1.35)(600,339,255,0.71)(604,490,255,0.78)(635,335,255,0.71) layer=5 accel=2 spline=1][se storage=se087.wav][se storage=se088.wav][wvs][say storage=HSTR4_RIN_0270 _name=凛] the Revelation...!!!"[wm canskip=0][wm canskip=0][se storage=se371.wav][wait canskip=0 time=200][movefg textoff=0 opacity=20 left=390 top=47 time=20 accel=0 layer=5][movefg textoff=0 opacity=20 left=-423 top=-34 time=20 accel=0 layer=3][se storage=se238.wav][se storage=se430.wav][se storage=se276.wav][wm canskip=0][wm canskip=0][movefg textoff=0 opacity=255 left=334 top=-50 time=3300 accel=0 layer=5][movefg textoff=0 opacity=255 left=-440 top=50 time=3300 accel=0 layer=3][dash textoff=0 hidefg=0 mx=0 opacity=100 layer=base irot=-0.0 cx=400 imag=3.15 time=500 cy=300 mag=1 my=0 storage=08魔術・攻撃b rot=-0.0 accel=-2][wdash canskip=0][dash textoff=0 hidefg=0 mx=0 opacity=100 layer=base irot=-0.0 cx=400 imag=3.15 time=500 cy=300 mag=1 my=0 storage=07衝撃 rot=-0.0 accel=-2][wdash canskip=0][dash textoff=0 hidefg=0 mx=0 opacity=255 layer=base irot=-0.0 cx=400 imag=4 time=2800 cy=300 mag=1.8 my=0 storage=08魔術・攻撃b rot=5 accel=-4][wdash canskip=0][wm canskip=0][wm canskip=0]::
+43694::$$$message_0370_0004_0000$$$::[hfu]"[hfl]"[hfu][line len=1][hfl][line len=1][hfu][line len=1][hfl][line len=1][hfu][line len=1][hfl][line len=1][hfu][line len=1][hfl][line len=1][hfu][line len=1][hfl][line len=1][hfu][line len=1][hfl][line len=1][hfu]"[hfl]"[playstop time=6000 nowait=true][wait canskip=0 time=3000][nolr][p]::
+43695::$$$message_0370_0004_0001$$$::"...Hey.[lr]::
+43696::$$$message_0370_0004_0002$$$::Say something, you lot."::
+43697::$$$message_0370_0004_0003$$$::"...Huh? Uh, [l][hfchance layer=1][say storage=HSTR4_TIG_0020 _name=藤ねえ]crap, I forgot everything."::
+43698::$$$message_0370_0004_0004$$$::"Um, look out, Illya. Tohsaka's being weird today. Actually, she's practically a whole different person...!"::
+43699::$$$message_0370_0004_0005$$$::"So she wasn't a straight shooter after all!"::
+43700::$$$message_0370_0004_0006$$$::"I think you could both compete for that honor... Though yeah, Rin's unexpectedly hara-kiri."::
+43701::$$$message_0370_0004_0007$$$::"Is she here for payback too because she didn't get enough screen time in the main story?"::
+43702::$$$message_0370_0004_0008$$$::"Ahahaha. You mean [font italic=true]harikiri[font italic=false], Illya. It means 'excited.' But I gotta say, either one fits!"::
+43703::$$$message_0370_0004_0009$$$::"Tohsaka, don't get ahead of yourself just because you've stepped down from being a heroine."::
+43704::$$$message_0370_0004_0010$$$::"I never said I was doing that![lr]::
+43705::$$$message_0370_0004_0011$$$::I'm just here to beat you up as a Master!"::
+43706::$$$message_0370_0004_0012$$$::"I-it's not as if I intend to use the Holy Grail to cram a London subplot into the story!"::
+43707::$$$message_0370_0004_0013$$$::"Well, well. How selfless of you. As your former teacher, I'm touched."::
+43708::$$$message_0370_0004_0014$$$::"Hardly. She might be the greediest person in all of Fuyuki. Wouldn't you say, Archer?"::
+43709::$$$message_0370_0004_0015$$$::"Now now, impossible ambitions are harmless, you know."::
+43710::$$$message_0370_0004_0016$$$::"Besides, even if she was somehow the last woman standing, she'd bungle it at the last minute somehow. Hardly a threat to Fuyuki's peace and quiet."::
+43711::$$$message_0370_0004_0017$$$::"Aha, you sure know her well, Archer."::
+43712::$$$message_0370_0004_0018$$$::"Hey, stop fraternizing with the enemy!"::
+43713::$$$message_0370_0005_0000$$$::[hffacechg chara=凛 face=楽 pos=upper time=200]"Hmph! That's enough chitchat. I more or less know how strong you are."::
+43714::$$$message_0370_0005_0001$$$::"You've got an odd Servant, but I don't think she can outdo Archer in a match of Reality Marbles."::
+43715::$$$message_0370_0005_0002$$$::"Mrgh. Now that you mention it, I do feel a certain kinship."::
+43716::$$$message_0370_0006_0000$$$::[hffacechg chara=藤ねえ face=まったく2 layer=1 time=200]"Hmm. You know, I feel like I've seen you somewhere before. Have we met somewhere, Mister Tall, Dark, and Handsome?"::
+43717::$$$message_0370_0006_0001$$$::"Well, if you don't remember, then we must not be acquainted. Maybe I just have one of those faces. Don't worry about it and come at me."::
+43718::$$$message_0370_0006_0002$$$::"...I've always had a feeling you were soft on Taiga."::
+43719::$$$message_0370_0006_0003$$$::"I know all about it, you know. [l][hfpop layer=1][say storage=HSTR4_BIR_0080 _name=ブルマイリヤ]After you escaped from Caster in Rin's route and asked if she was okay, was that really directed at Rin?"::
+43720::$$$message_0370_0006_0004$$$::"Oh, I don't know. I'll leave it to your imagination."::
+43721::$$$message_0370_0006_0005$$$::"I said, no fraternizing![lr]::
+43722::$$$message_0370_0006_0006$$$::Saber and Sakura are out of the fight, and Emiya's just laid out over there. You're the only one left, Illya."::
+43723::$$$message_0370_0006_0007$$$::"It's time to settle once and for all who's the strongest in the Emiya household!"::
+43724::$$$message_0370_0006_0008$$$::"You got it! [l][hffacechg chara=藤ねえ face=うーん layer=1 time=200][hfchance layer=1][say storage=HSTR4_TIG_0120 _name=藤ねえ]Wait, what about me!?[lr]::
+43725::$$$message_0370_0006_0009$$$::[hfwww layer=1]How come I don't count as a rival heroine, Tohsaka!?"[nolr][p]:��

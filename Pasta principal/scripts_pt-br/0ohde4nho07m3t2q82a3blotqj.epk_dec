@@ -1,0 +1,41 @@
+DAT
+id=qid::label=str::text=lstr::
+3109::$$$message_0021_0000_0000$$$::"Ei, Saber... Huh, ela já saiu?"[lr]::
+3110::$$$message_0021_0000_0001$$$::Isso é estranho... Segui Saber até aqui da sala, então ela não pode ter sumido.::
+3111::$$$message_0021_0001_0000$$$::"Hmm...?"[lr]::
+3112::$$$message_0021_0001_0001$$$::Escuto com a mão na boca do queixo, cabeça inclinada para um lado. Acho que ouvi uma voz vindo de dentro...::
+3113::$$$message_0021_0002_0000$$$::"Hmm."[rf][lr]::
+3114::$$$message_0021_0002_0001$$$::Ouço uma risada suave através da porta deslizante.[lr]::
+3115::$$$message_0021_0002_0002$$$::"Ah, você está aqui. Estou abrindo a porta, Saber. Diga algo se não quiser que eu faça isso."::
+3116::$$$message_0021_0003_0000$$$::Abro a porta e, como esperado, ela está lá.[lr]::
+3117::$$$message_0021_0003_0001$$$::Ela está se alongando, segurando um brinquedo que comprou cedo. Seu rosto parece mais suave do que o habitual.[lr]::
+3118::$$$message_0021_0003_0002$$$::Saber está rindo do boneco de pelúcia. Ela certamente não notou minha entrada ainda.::
+3119::$$$message_0021_0004_0000$$$::"Saber."::
+3120::$$$message_0021_0005_0000$$$::". ..!"::
+3121::$$$message_0021_0006_0000$$$::Ela realmente não deve ter notado a minha presença. [movefg textoff=0 both=1 opacity=255 left=300 top=445 time=10 accel=0 storage=ぬいぐるみ(後)][chgfg time=100 pos=rc storage=セイバー私服09b(遠) textoff=0]Quando eu disser o seu nome mais uma vez, [movefg textoff=0 both=1 opacity=255 left=415 top=475 time=10 accel=0 storage=ぬいぐるみ(後)][chgfg time=100 pos=r storage=セイバー私服01e頬(遠) textoff=0]Saber fica extremamente chocada [movefg both=1 textoff=0 opacity=255 left=530 top=465 time=10 accel=0 storage=ぬいぐるみ(後)][chgfg time=100 storage=セイバー私服04c頬(遠) textoff=0 left=600 top=140]e entra em pânico.::
+3122::$$$message_0021_0007_0000$$$::Ela olha ao redor freneticamente, [se storage=se216.wav]empurra o boneco debaixo das cobertas da cama, suspira e depois se vira para me encarar.[lr]::
+3123::$$$message_0021_0007_0001$$$::Agora ela voltou para a Saber usual.::
+3124::$$$message_0021_0008_0000$$$::"...Sim? Precisa de algo, Shirou?"[lr]::
+3125::$$$message_0021_0008_0001$$$::"É, um... Na verdade, o que você estava fazendo?"[lr]::
+3126::$$$message_0021_0008_0002$$$::"Nada em particular."::
+3127::$$$message_0021_0009_0000$$$::Ela responde instantaneamente.[lr]::
+3128::$$$message_0021_0009_0001$$$::Ela claramente não estava fazendo nada, e escondeu o brinquedo literalmente bem na minha frente.[lr]::
+3129::$$$message_0021_0009_0002$$$::"Mas[line len=2]"::
+3130::$$$message_0021_0010_0000$$$::"[font italic=true]O que você quer, Shirou?[font italic=false] [cacheimage storage=セイバー私服02b(中)][wvl canskip=false time=200][chgfg time=200 storage=セイバー私服02b(中) textoff=0]Você está dizendo que viu algo?"[lr]::
+3131::$$$message_0021_0010_0001$$$::Os olhos de Saber perderam sua serenidade e dizem: "você não viu nada estranho em absoluto, certo?"::
+3132::$$$message_0021_0011_0000$$$::"..."[lr]::
+3133::$$$message_0021_0011_0001$$$::Bem.[lr]::
+3134::$$$message_0021_0011_0002$$$::Isso só me faz querer brincar com ela agora, um pouquinho só.::
+3135::$$$message_0021_0012_0000$$$::"Ah, eu não vi nada. Certamente não vi você sorrindo enquanto abraçava um boneco, [cacheimage storage=セイバー私服12g(中)][wvl][chgfg time=200 storage=セイバー私服12g(中) textoff=0]não a forma como você estava movendo ele, e nem a forma como estava falando com ele como se fosse um bebê."[lr]::
+3136::$$$message_0021_0012_0001$$$::"Hmm..."::
+3137::$$$message_0021_0013_0000$$$::"Hey, tudo bem. Não vou contar para os outros que você está dormindo com um boneco de pelúcia."[lr]::
+3138::$$$message_0021_0013_0001$$$::Claro que não vi isso com meus próprios olhos, mas parece que acertei no alvo.[lr]::
+3139::$$$message_0021_0013_0002$$$::Talvez tenha ido longe demais. Vou dar uma pausa para ela.::
+3140::$$$message_0021_0014_0000$$$::"Hmm, não acho que seja estranho alguém falar com um boneco ou um animal de pelúcia. Isso mostra que a pessoa é gentil. Às vezes, entender como um criança pensa pode ser útil.[lr]::
+3141::$$$message_0021_0014_0001$$$::Alguns adultos colecionam bonecas ou até tratam delas como humanos. É um hobby bastante bougie, se você me perguntar [seloop time=1000 storage=se264.wav]... Uh, um..."[lr]::
+3142::$$$message_0021_0014_0002$$$::Há um vento soprando na sala, por algum motivo.::
+3143::$$$message_0021_0015_0000$$$::"É mesmo, Shirou?"[lr]::
+3144::$$$message_0021_0015_0001$$$::Saber sorri finamente.[lr]::
+3145::$$$message_0021_0015_0002$$$::O vento parece estar vindo d'ela.[lr]::
+3146::$$$message_0021_0015_0003$$$::"S-Saber...?"::
+

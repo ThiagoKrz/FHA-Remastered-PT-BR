@@ -1,0 +1,155 @@
+DAT
+id=qid::label=str::text=lstr::
+17220::$$$message_0130_0000_0000$$$::"...Por que você está sentado ao meu lado, moleque?"[lr]::
+17221::$$$message_0130_0000_0001$$$::"Você é quem veio até aqui, Lancer."[lr]::
+17222::$$$message_0130_0000_0002$$$::Por que diabos estou sentado com o Lancer num banco de parque?[lr]::
+17223::$$$message_0130_0000_0003$$$::...Ele é o que veio até mim enquanto murmurava; eu estava aqui primeiro.::
+17224::$$$message_0130_0001_0000$$$::"Entendi. Não tenho interesse em sentar com garotos."[lr]::
+17225::$$$message_0130_0001_0001$$$::"Desculpe, sou um garoto. Você estaria bem com isso se eu fosse uma garota?"::
+17226::$$$message_0130_0002_0000$$$::"Eu aceitaria. Queria que ela se sentasse em cima de mim, e não ao meu lado."[lr]::
+17227::$$$message_0130_0002_0001$$$::"Hmm...!"[lr]::
+17228::$$$message_0130_0002_0002$$$::"O que? Não fique vermelho toda vez com isso.[lr]::
+17229::$$$message_0130_0002_0003$$$::Você tem eles com você, certo?"[lr]::
+17230::$$$message_0130_0002_0004$$$::"S-S-S-Stu...!"[lr]::
+17231::$$$message_0130_0002_0005$$$::Eu não estou ruborizado, e eu [font italic=true]não[font italic=false] tenho eles em mim![lr]::
+17232::$$$message_0130_0002_0006$$$::...Não posso gritar isso em voz alta. Esse é um parque para todos.::
+17233::$$$message_0130_0003_0000$$$::"Você acha que sim? Não consegue ao menos dizer algo suave, como "vou deixar que fiquem sobre mim" ou "vou ficar sobre eles em vez disso"?"[lr]::
+17234::$$$message_0130_0003_0001$$$::"Isso não é elegante, isso é apenas assédio sexual!"[lr]::
+17235::$$$message_0130_0003_0002$$$::"...O que é isso? Uma arma? Comida?"::
+17236::$$$message_0130_0004_0000$$$::"..."[lr]::
+17237::$$$message_0130_0004_0001$$$::Você sabe o que é assédio sexual?  [lr]::
+17238::$$$message_0130_0004_0002$$$::É impossível. É tão impossível quanto explicar a estrutura da Internet para a Tohsaka.[lr]::
+17239::$$$message_0130_0004_0003$$$::Mesmo que eu explique para ele, ele provavelmente rirá disso.[lr]::
+17240::$$$message_0130_0004_0004$$$::Lancer vem de um mundo onde o casamento forçado é a norma.::
+17241::$$$message_0130_0005_0000$$$::"Então.[lr]::
+17242::$$$message_0130_0005_0001$$$::Por que diabos estou sozinho com você, moleque?"[lr]::
+17243::$$$message_0130_0005_0002$$$::"Por que você não vai pescar como costuma fazer?"[lr]::
+17244::$$$message_0130_0005_0003$$$::"Não há bons nadando hoje..."[wvs][se storage=se054.wav][shock vmax=20 time=400 count=3][clfg textoff=0 rule=走る感じ pos=all time=300]::
+17245::$$$message_0130_0006_0000$$$::Lancer devia ter algo em mente, como ele deixa rapidamente o banco com naturalidade.::
+17246::$$$message_0130_0007_0000$$$::"Ei, ei, vocês têm algum tempo livre?"[lr]::
+17247::$$$message_0130_0007_0001$$$::...Agora ele vai.[lr]::
+17248::$$$message_0130_0007_0002$$$::Quero saber qual espécie de garota ele chamou dessa vez.[lr]::
+17249::$$$message_0130_0007_0003$$$::Parece que há várias delas, já que ele disse "vocês meninas"...::
+17250::$$$message_0130_0008_0000$$$::"Hmm? Hmm? U-Us?"[lr]::
+17251::$$$message_0130_0008_0001$$$::"Deve ser a gente se ele disse "vocês meninas"."[lr]::
+17252::$$$message_0130_0008_0002$$$::"...Quem é você?"[lr]::
+17253::$$$message_0130_0008_0003$$$::Eram os membros da equipe de atletismo...!::
+17254::$$$message_0130_0009_0000$$$::"Eu? Não sou um esquisito."[lr]::
+17255::$$$message_0130_0009_0001$$$::"Qual o seu nome?"[lr]::
+17256::$$$message_0130_0009_0002$$$::"Bem, me chame de Lancer. Mas se não quiser, você também pode me chamar de o Leão Azul de Fuyuki."[lr]::
+17257::$$$message_0130_0009_0003$$$::"Oho, você está dizendo que sabe que sou a pantera negra de Fuyuki, certo?"::
+17258::$$$message_0130_0010_0000$$$::[chgfg time=300 storage=由紀香私服02c(遠) textoff=0]A autoproclamada pantera negra, Makidera, reage à declaração do Lancer.[lr]::
+17259::$$$message_0130_0010_0001$$$::A conversa entre eles deveria ser incoerente, mas estranhamente parece fazer sentido.[lr]::
+17260::$$$message_0130_0010_0002$$$::...Esses dois podem até se dar bem.::
+17261::$$$message_0130_0011_0000$$$::"Ah, você é o leão negro. Estava pensando que queria te conhecer um dia."[lr]::
+17262::$$$message_0130_0011_0001$$$::"Hmm... bem, [cacheimage storage=蒔寺私服03c(遠)][wvl][chgfg time=300 storage=蒔寺私服03c(遠) textoff=0]todo mundo diz isso, mas eu não estou realmente[line len=2]"[lr]::
+17263::$$$message_0130_0011_0002$$$::"Você é famoso, Maki."[lr]::
+17264::$$$message_0130_0011_0003$$$::"...Achei que só Makidera dizia isso sozinha, mas o mundo realmente é um lugar grande."[lr]::
+17265::$$$message_0130_0011_0004$$$::Não, estou bastante certo de que o Lancer também ouviu pela primeira vez.::
+17266::$$$message_0130_0012_0000$$$::"Então, essa linda mulher e essa garota linda são suas conhecidas, Pantera Negra?"[lr]::
+17267::$$$message_0130_0012_0001$$$::"Ah, sim, somos amigas da Maki."[lr]::
+17268::$$$message_0130_0012_0002$$$::"Sim, Himuro e Yukika. Estamos no mesmo clube e..."::
+17269::$$$message_0130_0013_0000$$$::"Você não precisa me dizer.[lr]::
+17270::$$$message_0130_0013_0001$$$::Hmm... Você é rápido em correr, não é, Pantera Negra?"[lr]::
+17271::$$$message_0130_0013_0002$$$::"Huh? Y-You can tell? Hahaha."[lr]::
+17272::$$$message_0130_0013_0003$$$::"Você tem um corpo bonito.[lr]::
+17273::$$$message_0130_0013_0004$$$::Muito impressionante. Se está se treinando tanto, é natural que seja conhecido como o pantera negra mais do que qualquer outra coisa."::
+17274::$$$message_0130_0014_0000$$$::Mrgh... Que conversa suave é essa? Há elegância dentro de sua selvageria.[lr]::
+17275::$$$message_0130_0014_0001$$$::[chgfg time=300 storage=蒔寺私服03c(遠) textoff=0]Em seguida, Lancer observa rapidamente Himuro.::
+17276::$$$message_0130_0015_0000$$$::"Essa mulher ali é tudo sobre o salto, não sobre a velocidade... Não horizontalmente, mas verticalmente."[lr]::
+17277::$$$message_0130_0015_0001$$$::"...Ah, você tem razão. Você tem um olho muito bom."[lr]::
+17278::$$$message_0130_0015_0002$$$::"E essa garota é... [cacheimage storage=ランサー私服01e(遠)][wvl][chgfg time=300 storage=ランサー私服01e(遠) textoff=0]Oh..."[lr]::
+17279::$$$message_0130_0015_0003$$$::Saegusa é um gerente e não é atlético.[lr]::
+17280::$$$message_0130_0015_0004$$$::[chgfg time=300 storage=氷室私服02a(遠) textoff=0]Lancer está tentando analisar qual evento de trilha ela é boa e parece estar tendo dificuldade.::
+17281::$$$message_0130_0016_0000$$$::"Ah, sou a gerente. Kane é o especialista em salto em altura, e Maki é a especialista em distâncias médias."[lr]::
+17282::$$$message_0130_0016_0001$$$::"Parece que você também tem um evento, mas qual é o seu?"[lr]::
+17283::$$$message_0130_0016_0002$$$::[chgfg time=300 storage=ランサー私服01c(遠) textoff=0]Makidera parece acreditar completamente que está envolvido com atletismo, ou... Será que ela está feliz por estar sendo seduzida por um cara?[lr]::
+17284::$$$message_0130_0016_0003$$$::Seja como for, é verdade que o Lancer é um homem excelente. Mesmo que seja frustrante.::
+17285::$$$message_0130_0017_0000$$$::"Eu? Sou bom em arremesso de dardo."[lr]::
+17286::$$$message_0130_0017_0001$$$::"[shock vmax=20 time=400 count=-3]Guh...!"[lr]::
+17287::$$$message_0130_0017_0002$$$::...Isso não é algo em que você só seja bom!::
+17288::$$$message_0130_0018_0000$$$::"Ah, você realmente pratica esportes? [cacheimage storage=蒔寺私服04a(遠)][wvl][chgfg time=300 storage=蒔寺私服04a(遠) textoff=0]Estou feliz."[lr]::
+17289::$$$message_0130_0018_0001$$$::"Arremesso de javeles, tão como Kubota."[lr]::
+17290::$$$message_0130_0018_0002$$$::"Ah, você parece muito bom nisso, mas qual é seu recorde?"[lr]::
+17291::$$$message_0130_0018_0003$$$::Ele voa a uma velocidade de Mach 2 por uma distância de cerca de 40 quilômetros.::
+17292::$$$message_0130_0019_0000$$$::...Não, mais do que isso, a lança do Lancer provavelmente pode acertar um alvo que esteja mesmo do outro lado do mundo.[lr]::
+17293::$$$message_0130_0019_0001$$$::Estou preocupado que Lancer possa dizer algo descuidado às três garotas que não sabem sobre sua situação...::
+17294::$$$message_0130_0020_0000$$$::"É... Bem, não há muitos que possam me derrotar. Talvez dois ou três em certas condições."[lr]::
+17295::$$$message_0130_0020_0001$$$::O seu discurso despreocupado tem uma incrível credibilidade.[lr]::
+17296::$$$message_0130_0020_0002$$$::As garotas que não conhecem os assuntos não sentem que Lancer esteja se exibindo em absoluto.::
+17297::$$$message_0130_0021_0000$$$::"Isso é incrível. Estou invejoso, ahh."[lr]::
+17298::$$$message_0130_0021_0001$$$::"Entendi, você tem habilidade suficiente para se chamar gata de Fuyuki. Mesmo. Você é a mesma que eu. Hehehe."[lr]::
+17299::$$$message_0130_0021_0002$$$::Makidera quer dizer que ela também é impressionante.::
+17300::$$$message_0130_0022_0000$$$::Isso dito, Lancer e as três garotas estranhamente parecem ter bastante em comum.[lr]::
+17301::$$$message_0130_0022_0001$$$::Podia realmente conseguir acertar com elas...!?::
+17302::$$$message_0130_0023_0000$$$::"Bem, por que não falamos mais sobre isso em detalhes?"[lr]::
+17303::$$$message_0130_0023_0001$$$::"Isso... você está nos convidando?"[lr]::
+17304::$$$message_0130_0023_0002$$$::"Hmm, o que devemos fazer, Maki!?"[lr]::
+17305::$$$message_0130_0023_0003$$$::"Mm, não é que está tudo bem? [cacheimage storage=蒔寺私服03c(遠)][wvl][chgfg time=300 storage=蒔寺私服03c(遠) textoff=0]Estamos livres, afinal."[lr]::
+17306::$$$message_0130_0023_0004$$$::Makidera está em um ótimo humor depois de ter sido elogiado.::
+17307::$$$message_0130_0024_0000$$$::[chgfg time=300 storage=ランサー私服01a(遠) textoff=0]...Himuro continua cauteloso e Saegusa é surpreso com a virada dos acontecimentos, mas o rumo das coisas está a favor do Lancer.[lr]::
+17308::$$$message_0130_0024_0001$$$::[font italic=true]Oh, estou prestes a testemunhar seu primeiro sucesso em conquistar garotas!?[font italic=false][lr]::
+17309::$$$message_0130_0024_0002$$$::Mas eu não posso deixar meus amigos da escola... Bem, há um que está na linha de frente, mas... Eu não posso deixar que eles caiam nas mãos dele...!::
+17310::$$$message_0130_0025_0000$$$::"Ei, Himuro. Esse cara parece bem forte e estranho, né? Quero ouvir suas histórias. [cacheimage storage=蒔寺私服02c(遠)][wvl][chgfg textoff=0 time=300 storage=蒔寺私服02c(遠)]Quero que ele fique conosco."[lr]::
+17311::$$$message_0130_0025_0001$$$::"De fato... bem, não sei o que você fará se eu não for. Vou ficar ao seu lado."[lr]::
+17312::$$$message_0130_0025_0002$$$::"É okay se eu for junto também?"[lr]::
+17313::$$$message_0130_0025_0003$$$::"Por favor, jovem senhorinha... você é linda, tem namorado?"[lr]::
+17314::$$$message_0130_0025_0004$$$::Lancer está animado.[lr]::
+17315::$$$message_0130_0025_0005$$$::Saegusa está todo vermelho... pobre coisinha.::
+17316::$$$message_0130_0026_0000$$$::"Eu... não..."[lr]::
+17317::$$$message_0130_0026_0001$$$::"Senhor, Yukicchi é pura, então você não pode bullying nela."[lr]::
+17318::$$$message_0130_0026_0002$$$::"Desculpe, foi minha culpa.[lr]::
+17319::$$$message_0130_0026_0003$$$::Então, vamos logo?"[lr]::
+17320::$$$message_0130_0026_0004$$$::Parabéns, Lancer.[lr]::
+17321::$$$message_0130_0026_0005$$$::Apertando levemente as mãos, me levanto da bancada.[lr]::
+17322::$$$message_0130_0026_0006$$$::Também lamento, Lancer.[lr]::
+17323::$$$message_0130_0026_0007$$$::Mesmo que o céu permita que você se aproxime delas, não permitirei!::
+17324::$$$message_0130_0027_0000$$$::"Hmm... oh, Emiya?[lr]::
+17325::$$$message_0130_0027_0001$$$::[chgfg time=300 storage=蒔寺私服01e(遠) textoff=0]Por que você está com cara de tédio?"[lr]::
+17326::$$$message_0130_0027_0002$$$::"Oh? Emiya?"[lr]::
+17327::$$$message_0130_0027_0003$$$::"Emiya?"[lr]::
+17328::$$$message_0130_0027_0004$$$::"...Disparou. Vocês se conhecem, né?"[lr]::
+17329::$$$message_0130_0027_0005$$$::"É isso. Então, você sabe o que eu estou aqui para fazer, né, Lancer?"::
+17330::$$$message_0130_0028_0000$$$::"Vamos, está tudo bem se for antes de eu montar a armadilha, mas você não pode me impedir depois que já os tiver puxado para dentro. Isso também é rude com as senhoras."[lr]::
+17331::$$$message_0130_0028_0001$$$::"Mrggh."[lr]::
+17332::$$$message_0130_0028_0002$$$::Isso é razoável.[lr]::
+17333::$$$message_0130_0028_0003$$$::Lancer está determinado a seguir em frente com seu "catch" como pickup artist.::
+17334::$$$message_0130_0029_0000$$$::"...Então, quando você vai recuar?"[lr]::
+17335::$$$message_0130_0029_0001$$$::"Evidentemente, isso provavelmente aconteceria quando as senhoras me tivessem derrotado."[lr]::
+17336::$$$message_0130_0029_0002$$$::"...Tudo bem. Não esqueça do que acabou de dizer."[lr]::
+17337::$$$message_0130_0029_0003$$$::Então há um jeito. É impossível em combate, mas há uma carta especial se for para conquistar garotas...!::
+17338::$$$message_0130_0030_0000$$$::"Ei, Himuro."[lr]::
+17339::$$$message_0130_0030_0001$$$::"...Que? Parece que você conhece essa pessoa, mas ele é um homem perigoso?"[lr]::
+17340::$$$message_0130_0030_0002$$$::"...Ainda não sei. Ele é um cara legal, então não acho que faria nada estranho... Mas, você nunca sabe.[lr]::
+17341::$$$message_0130_0030_0003$$$::Honestamente, se isso acontecer, só há seis pessoas que podem ajudar na cidade de Fuyuki."::
+17342::$$$message_0130_0031_0000$$$::"Isso é um problema.[lr]::
+17343::$$$message_0130_0031_0001$$$::Acho que é sábio recusá-lo aqui."[lr]::
+17344::$$$message_0130_0031_0002$$$::"...Não. Há uma forma especial de surpreendê-lo. Se as coisas derem errado..."::
+17345::$$$message_0130_0032_0000$$$::Susurro em seu ouvido.[lr]::
+17346::$$$message_0130_0032_0001$$$::"Hmm? É mesmo isso?"[lr]::
+17347::$$$message_0130_0032_0002$$$::"É. E depois que terminar, certifique-se de dizer o nome."[lr]::
+17348::$$$message_0130_0032_0003$$$::"Entendi. Isso parece algo até mesmo nós podemos fazer."::
+17349::$$$message_0130_0033_0000$$$::"Ei, vocês já terminaram de conversar?"[lr]::
+17350::$$$message_0130_0033_0001$$$::"É. Faça como quiser."[lr]::
+17351::$$$message_0130_0033_0002$$$::"Vamos lá, então, meninas![lr]::
+17352::$$$message_0130_0033_0003$$$::É quase meio-dia, vamos buscar algo para comer. É claro que é minha convidada."[lr]::
+17353::$$$message_0130_0033_0004$$$::"Nice! Quero McG! Quero que me trate até eu ficar cheia de McG!"[lr]::
+17354::$$$message_0130_0033_0005$$$::"T-Obriado!"[lr]::
+17355::$$$message_0130_0033_0006$$$::"Oh... Isso é perfeito."::
+17356::$$$message_0130_0034_0000$$$::Os quatro saem do parque, se entendendo.[lr]::
+17357::$$$message_0130_0034_0001$$$::Enquanto eles vão embora, Himuro me dá um aceno com o polegar.[lr]::
+17358::$$$message_0130_0034_0002$$$::...Então.[lr]::
+17359::$$$message_0130_0034_0003$$$::Menos de dez minutos de banho de sol depois...[lr]::
+17360::$$$message_0130_0034_0004$$$::"AHHHHHH!!![lr]::
+17361::$$$message_0130_0034_0005$$$::W-W-W-WHAT VOCÊ ESTÁ ME FAZENDO COMER!!!?"[lr]::
+17362::$$$message_0130_0034_0006$$$::Ouço um grito fresco ecoar pelo céu azul.::
+17363::$$$message_0130_0035_0000$$$::Lancer corre em direção ao porto com a força de um touro enfurecido.[lr]::
+17364::$$$message_0130_0035_0001$$$::"Heh. Heheheh, heheheheh...!"[lr]::
+17365::$$$message_0130_0035_0002$$$::O que eu sussurrei ao ouvido de Himuro foi simples.[lr]::
+17366::$$$message_0130_0035_0003$$$::Se ele começar a agir estranho, invente algum pretexto para fazer ele comer um hot dog...::
+17367::$$$message_0130_0036_0000$$$::"Mas... É bom que tenha efeito imediato, mas a operação foi iniciada apenas após dez minutos?[lr]::
+17368::$$$message_0130_0036_0001$$$::Mesmo sendo seu inimigo, tenho que admitir que você é um cara assustador, Lancer."[lr]::
+17369::$$$message_0130_0036_0002$$$::Agora.[lr]::
+17370::$$$message_0130_0036_0003$$$::Me levanto da bancada e vou para o lugar de fast food mais próximo.[lr]::
+17371::$$$message_0130_0036_0004$$$::Posso até almoçar no local da derrota do cão de guarda de Culann enquanto estou aqui.::
+

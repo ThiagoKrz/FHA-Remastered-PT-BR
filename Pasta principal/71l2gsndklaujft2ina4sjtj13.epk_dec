@@ -1,0 +1,92 @@
+DAT
+id=qid::label=str::text=lstr::
+43874::$$$message_0374_0000_0000$$$::"This forest sure runs deep. Is Berserker around?"::
+43875::$$$message_0374_0000_0001$$$::"...He's definitely close. I can sense him."::
+43876::$$$message_0374_0000_0002$$$::"Really? Then I guess we'll just keep heading in a straight line."::
+43877::$$$message_0374_0000_0003$$$::"I haven't mentioned it yet, but I'm not very confident in my sense of direction...[wvs][hffacechg chara=藤ねえ face=うーん2 layer=1 left=7 top=397 time=200][se storage=se025.wav][hfchance layer=1][hfquake layer=message1 time=800 wait=0 hmax=5 vmax=15][say storage=HSTR6_TIG_0040 _name=藤ねえ]ow!"::
+43878::$$$message_0374_0000_0004$$$::"That hurt... [l][hfwww layer=1][say storage=HSTR6_TIG_0070 _name=藤ねえ]What the heck? Who planted this tree in the middle of the path? It's obstructing traf[line len=2]"::
+43879::$$$message_0374_0000_0005$$$::"......"::
+43880::$$$message_0374_0000_0006$$$::"GAHHHHHH!"[rf]::
+43881::$$$message_0374_0001_0000$$$::"Macho! His muscle aura is macho enough to wither all the trees within half an acre!"::
+43883::$$$message_0374_0001_0002$$$::"I-i-i-is this the Einzberns' loli Master I've heard so much about!?"::
+43884::$$$message_0374_0001_0003$$$::"Obviously not, you moron![lr]::
+43885::$$$message_0374_0001_0004$$$::Goodness, you've still got pudding for brains even after becoming a Servant."::
+43886::$$$message_0374_0001_0005$$$::"Huh? Illya, why'd you suddenly change clothes? [l][hffeelgood layer=1][say storage=HSTR6_TIG_0130 _name=藤ねえ]What happened to your old-fashioned P.E. outfit?"::
+43887::$$$message_0374_0001_0006$$$::"Strike, [hfchance layer=0]dummy! Look carefully! I'm over here! [hfchance layer=0]She's a fake."::
+43888::$$$message_0374_0001_0007$$$::"Now, stop hiding behind Taiga and come out, you loser with nowhere to go."::
+43889::$$$message_0374_0001_0008$$$::"..."::
+43890::$$$message_0374_0001_0009$$$::"Oh, Illya.[lr]::
+43891::$$$message_0374_0001_0010$$$::[hffeelgood layer=1]Um. What's going on? Why are there two of you?"::
+43892::$$$message_0374_0001_0011$$$::"Actually, who's that human fortress who's been standing there, stiff as a tree?"::
+43893::$$$message_0374_0001_0012$$$::"..."::
+43894::$$$message_0374_0001_0013$$$::"Urgh. I can tell he's on a whole different level from anyone else we've faced."::
+43895::$$$message_0374_0002_0000$$$::"Are you telling me we pulled the guy who doesn't have a sprite in the original game?"::
+43896::$$$message_0374_0002_0001$$$::"That's right. I'm the real Illyasviel von Einzbern."::
+43898::$$$message_0374_0003_0000$$$::"And this is my Servant, Berserker."::
+43899::$$$message_0374_0003_0001$$$::"Unlike a certain duo just coasting on their popularity, [l][hfchance layer=0][say storage=HSTR6_IRI_0110 _name=イリヤ]we're the actual strongest team."::
+43900::$$$message_0374_0003_0002$$$::"The real Illya? So...from the way this is going[fadebgm time=200 volume=40][seloop storage=se253 nowait=true][line len=3][wvl canskip=0 time=3300][nolr]::
+43901::$$$message_0374_0003_0003$$$::Are you one of those identical twin characters that are so popular lately?"::
+43902::$$$message_0374_0003_0004$$$::"...That was weak, even for you, Taiga."::
+43903::$$$message_0374_0003_0005$$$::"It is what it is. If my imposter can become a Servant, then no wonder she'd get a bottom-barrel Servant."::
+43904::$$$message_0374_0003_0006$$$::"Hmm, was making silly comebacks one of my Servant skills?"::
+43905::$$$message_0374_0003_0007$$$::"Anyway, who cares?[l][hfchance layer=1][say storage=HSTR6_TIG_0240 _name=藤ねえ] Okay, so you're the more serious business version of Illya!"[hffacechg chara=イリヤ face=楽 layer=0 time=200]::
+43906::$$$message_0374_0003_0008$$$::"What do you mean my Illya is an imposter? Is she someone disguised as Illya?"::
+43907::$$$message_0374_0003_0009$$$::"It's not a disguise. I'm the real Illya. I just...came from a different environment, I guess..."::
+43908::$$$message_0374_0003_0010$$$::"She's saying that she got summoned from another world, Taiga. Unlike Heroic Spirits who have transcended timelines, she's an outsider from a completely different world."::
+43909::$$$message_0374_0003_0011$$$::"Isn't that right, imposter? I'd be the fake if I traveled to your world, but you're in mine."::
+43910::$$$message_0374_0003_0012$$$::"Sorry, but you were chased out of your own world and don't belong here. Just disappear like the fake you are."::
+43911::$$$message_0374_0003_0013$$$::"Wait, what!? Hold on, Illya is Illya but she's gonna kill Illya?"::
+43912::$$$message_0374_0003_0014$$$::"...That's right. If this world has two Illyas, it'll eventually split in two."::
+43913::$$$message_0374_0003_0015$$$::"You know as well as I do what's more important if a version of oneself from another universe shows up."::
+43914::$$$message_0374_0003_0016$$$::"...You'd prioritize yourself, first.[lr]::
+43915::$$$message_0374_0003_0017$$$::In order for me to keep being me, I wouldn't tolerate the presence of any other selves..."::
+43916::$$$message_0374_0003_0018$$$::"Yeah. The Illya of this world has no choice but to kill an intruder like me.."::
+43917::$$$message_0374_0003_0019$$$::"...I'm glad to hear that. [l][hffacechg chara=イリヤ face=楽 layer=0 time=200][say storage=HSTR6_IRI_0210 _name=イリヤ]Even in another world, it sounds like I'm still someone who respects logic."::
+43918::$$$message_0374_0003_0020$$$::"I won't ask what you've experienced or how you left your world."::
+43919::$$$message_0374_0004_0000$$$::"But to protect this reality, you need to disappear, Illyasviel."::
+43920::$$$message_0374_0004_0001$$$::"...(sigh) I thought I could keep up the facade, but it turned out I'm a Master in this world, too."::
+43921::$$$message_0374_0004_0002$$$::"Sorry, Taiga. This is the end of the line for me. Give up on the Grail."::
+43922::$$$message_0374_0004_0003$$$::"...All right. Do it, Berserker."::
+43923::$$$message_0374_0004_0004$$$::"..."::
+43924::$$$message_0374_0005_0000$$$::"T-[l][hfchance layer=1][say storage=HSTR6_BIR_0100 _name=ブルマイリヤ]Taiga!?"[nolr][p]::
+43925::$$$message_0374_0005_0001$$$::"Hmm. Doesn't that sound off to you? [l][hffacechg chara=藤ねえ face=うーん2 layer=1 time=200][say storage=HSTR6_TIG_0290 _name=藤ねえ]Even if Illya kills you, it's only supposed to happen once we lose."::
+43926::$$$message_0374_0005_0002$$$::"This contest isn't over yet."[nolr][p]::
+43927::$$$message_0374_0005_0003$$$::"B-[wait canskip=0 time=200][wvs][hfangry layer=0][say storage=HSTR6_IRI_0270 _name=イリヤ]but I've been saying this whole time that your Illya is fake!"::
+43928::$$$message_0374_0005_0004$$$::"She won't be able to stay long no matter what happens, and she isn't the Illya you know!"::
+43929::$$$message_0374_0006_0000$$$::[hfchance layer=0]"Or are you okay with serving a fake Master?"::
+43930::$$$message_0374_0006_0001$$$::"..."::
+43931::$$$message_0374_0006_0002$$$::"I'm not okay with it! I'm not interested in knock-offs!"::
+43932::$$$message_0374_0006_0003$$$::"..."::
+43933::$$$message_0374_0006_0004$$$::"Right? So settle down and[line len=2]"::
+43934::$$$message_0374_0006_0005$$$::"But that's not the issue here! [l][hfchance layer=0][say storage=HSTR6_TIG_0340 _name=藤ねえ]To be honest, I don't care who's real or fake!"::
+43935::$$$message_0374_0007_0000$$$::[hffacechg chara=藤ねえ face=まったく layer=0 time=200]"To begin with, you've just been spouting a bunch of stuff at me I barely understand!"::
+43936::$$$message_0374_0007_0001$$$::"Illya is Illya!"::
+43937::$$$message_0374_0007_0002$$$::"Even if she isn't from here, she knew and summoned me."::
+43938::$$$message_0374_0008_0000$$$::"If that makes me her Servant, then I don't care!"::
+43939::$$$message_0374_0008_0001$$$::"Yeah, even if every single person in the world was Illya, it wouldn't really bother me!"[p][nolr]::
+43940::$$$message_0374_0008_0002$$$::"Wha... [l][hfchance layer=0][say storage=HSTR6_BIR_0150 _name=ブルマイリヤ]Taiga, you're not making any sense! Why are you trying so hard to protect me!?"[hffacechg chara=ブルマイリヤ face=うーん layer=1 time=200]::
+43941::$$$message_0374_0008_0003$$$::"Because I'll disappear if I don't!"::
+43942::$$$message_0374_0008_0004$$$::"Also, the other Illya is Illya, too!"::
+43943::$$$message_0374_0009_0000$$$::"If ours is fake, then we can just use the Holy Grail's power to make room for another one!"::
+43944::$$$message_0374_0009_0001$$$::"B-but... I can never beat the real Illya... We're going to lose, Taiga."::
+43945::$$$message_0374_0009_0002$$$::"It's A-OK. Whom we're fighting doesn't matter to me!"::
+43946::$$$message_0374_0009_0003$$$::"I wasn't born to live a boring, ordinary life, anyway! If you're fine with that, then stick with me!"::
+43947::$$$message_0374_0010_0000$$$::[hffacechg chara=藤ねえ face=まったく layer=0 time=200]"I'll make you live a life that nobody else would dare emulate!"::
+43948::$$$message_0374_0010_0001$$$::"T-Taiga...! That sounds like some martial arts manga line, but are you sure about this...?"::
+43949::$$$message_0374_0010_0002$$$::"Yup! I actually prefer the gym shorts version of you!"::
+43950::$$$message_0374_0010_0003$$$::"So much that I burn with hatred at the sheer moe power radiating from your exposed thighs!"::
+43951::$$$message_0374_0010_0004$$$::"...Haha. [l][hfwww layer=1][say storage=HSTR6_BIR_0200 _name=ブルマイリヤ]I'm amazed at how dumb you are![lr]::
+43952::$$$message_0374_0010_0005$$$::But that got me right in the feels, Master! I'll become your disciple!"::
+43953::$$$message_0374_0010_0006$$$::"You may be my Servant, but I'll always respect you as a mentor!"::
+43954::$$$message_0374_0010_0007$$$::"Huh? Really? [l][hfchance layer=0][say storage=HSTR6_TIG_0500 _name=藤ねえ]Yay! Thanks, Illya! It's been years since I opened the Tiger Dojo, and I finally have a favorite student!"::
+43955::$$$message_0374_0010_0008$$$::"......"::
+43956::$$$message_0374_0010_0009$$$::"...[hfchance layer=0]Hey. What are you smiling for, Berserker?"::
+43957::$$$message_0374_0010_0010$$$::"..."::
+43958::$$$message_0374_0010_0011$$$::"...Hmph. Go ahead and say it, but you've got the wrong idea."::
+43959::$$$message_0374_0010_0012$$$::"And you [hfchance layer=0]two dummies! Enough of this farce! If you're going to fight, then I'll take you on."::
+43960::$$$message_0374_0010_0013$$$::"Let's see how well my imposter and her clown of a Servant can really fight!"::
+43961::$$$message_0374_0010_0014$$$::"H-here they come, Master! Are we good to go!?"::
+43962::$$$message_0374_0010_0015$$$::"Bring it! Let's do this, Illya![lr]::
+43963::$$$message_0374_0010_0016$$$::[hffacechg chara=藤ねえ face=怒 layer=1 time=200]We'll take this Illya down and reduce the number of heroines by one!"::
+43964::$$$message_0374_0010_0017$$$::"...Um, I don't think that number's going to change, no matter who wins."[nolr][p]::
+=
