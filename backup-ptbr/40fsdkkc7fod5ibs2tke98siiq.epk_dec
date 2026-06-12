@@ -1,0 +1,57 @@
+DAT
+id=qid::label=str::text=lstr::
+29806::$$$message_0218_0000_0000$$$::O cortinado cai.[lr]::
+29807::$$$message_0218_0000_0001$$$::O buzzer anuncia o fim do espetáculo, e a casa mergulha na escuridão.[lr]::
+29808::$$$message_0218_0000_0002$$$::O sono é profundo. Não reacordaremos até a manhã do quinto dia.::
+29809::$$$message_0218_0001_0000$$$::"..."[lr]::
+29810::$$$message_0218_0001_0001$$$::Não há ninguém para despedir.[lr]::
+29811::$$$message_0218_0001_0002$$$::Não tenho nada para levar de volta. Passo pela porta, como já fiz muitas vezes antes.::
+29812::$$$message_0218_0002_0000$$$::Logo, a data mudará.[lr]::
+29813::$$$message_0218_0002_0001$$$::A lua negra gira para me matar por ter permanecido até a quarta noite.[lr]::
+29814::$$$message_0218_0002_0002$$$::Agora vou destruir sua fonte.::
+29815::$$$message_0218_0003_0000$$$::"..."[lr]::
+29816::$$$message_0218_0003_0001$$$::Eu sufoco um grito e continuo em frente.[lr]::
+29817::$$$message_0218_0003_0002$$$::Posso alcançar o céu vazio a partir desta torre.[lr]::
+29818::$$$message_0218_0003_0003$$$::Agora que sei o que sou, o caminho para retornar ao lugar para o qual pertenço deveria surgir...::
+29819::$$$message_0218_0004_0000$$$::Meia-noite chega.[lr]::
+29820::$$$message_0218_0004_0001$$$::A atmosfera distorce, o tempo se torna vago e eu me transformo em algo diferente.[lr]::
+29821::$$$message_0218_0004_0002$$$::"..."[lr]::
+29822::$$$message_0218_0004_0003$$$::Meu peito está quente.[lr]::
+29823::$$$message_0218_0004_0004$$$::Estou respirando rápido. [noise monocro=1 type=ltDodge opacity=220]Meu coração só consegue acompanhar um pouco.[stopnoise]::
+29824::$$$message_0218_0005_0000$$$::"[se volume=60 storage=se616.wav]......"[rf][lr]::
+29825::$$$message_0218_0005_0001$$$::Abandono de gritar e avanço.[lr]::
+29826::$$$message_0218_0005_0002$$$::...Como eu pensei, este é o fundo do mundo. Fios pretos se estendem do ponto onde tudo começou.[lr]::
+29827::$$$message_0218_0005_0003$$$::...A luz vermelha ilumina a cidade adormecida.[lr]::
+29828::$$$message_0218_0005_0004$$$::Misturado ao vento forte está o som familiar de[lr]::
+29829::$$$message_0218_0005_0005$$$::ressentimento pertencente ao que outrora fui.::
+29830::$$$message_0218_0006_0000$$$::"...!"[lr]::
+29831::$$$message_0218_0006_0001$$$::A voz me obriga a olhar para baixo.[lr]::
+29832::$$$message_0218_0006_0002$$$::...Está chegando.[lr]::
+29833::$$$message_0218_0006_0003$$$::Um deus do mar se aproxima daquele monte de cadáveres.[lr]::
+29834::$$$message_0218_0006_0004$$$::Antipatia e inveja terríveis.[lr]::
+29835::$$$message_0218_0006_0005$$$::Isso transborda, tentando arrancar o que outrora fui como aliado.::
+29836::$$$message_0218_0007_0000$$$::"Ha...ngh, [noise opacity=168]aaah!"[stopnoise][lr]::
+29837::$$$message_0218_0007_0001$$$::Corro para as escadas.[lr]::
+29838::$$$message_0218_0007_0002$$$::Eu tenho que correr. Preciso sair antes que me peguem. [fadebgm time=100 volume=30][seloop storage=se407.wav]Corra, [wait canskip=0 time=500]corra...[sestop storage=se407.wav time=100 nowait=1][fadebgm time=100 volume=100][lr]::
+29839::$$$message_0218_0007_0003$$$::"Correr? O que você acha que está fazendo?"[rf][lr]::
+29840::$$$message_0218_0007_0004$$$::RuN...[fadebgm time=100 volume=30][seloop storage=se407.wav]I...I Tenho que dar um fim a esse sonho...::
+29841::$$$message_0218_0008_0000$$$::...Minha visão está se apagando.[lr]::
+29842::$$$message_0218_0008_0001$$$::Não é que eu esteja perdendo a capacidade de ver. A função de "ver" em si mesmo está retornando ao nada.[lr]::
+29843::$$$message_0218_0008_0002$$$::"YEs... YOU tHInk we'Ll leT you END iT?"[rf][lr]::
+29844::$$$message_0218_0008_0003$$$::Eu cobro os ouvidos contra os gritos que vêm do interior e subo as escadas.::
+29845::$$$message_0218_0009_0000$$$::Aí vai.[lr]::
+29846::$$$message_0218_0009_0001$$$::Não consigo alcançar o topo.[lr]::
+29847::$$$message_0218_0009_0002$$$::Eu não tenho a vontade de fazer tudo até o fim.::
+29848::$$$message_0218_0010_0000$$$::"A[line len=2]GIH, HiEEE...!"[rf][lr]::
+29849::$$$message_0218_0010_0001$$$::Eles vão me pegar.[lr]::
+29850::$$$message_0218_0010_0002$$$::A Horda de Husks invade as escadas, circulando a torre.[lr]::
+29851::$$$message_0218_0010_0003$$$::"GEEEH...[cacheimage storage=red2][wvl][fadebgm time=100 volume=30][seloop storage=se407.wav][noise monocro=1 type=ltDodge opacity=220][movefg textoff=0 opacity=255 left=0 top=0 time=3000 accel=0 storage=red2][font color=0xEF0326]GAAAAAAAHHH!"[rf]::
+29852::$$$message_0218_0011_0000$$$::Antes que eu saiba, o coro vem de meus lábios também.[lr]::
+29853::$$$message_0218_0011_0001$$$::A Lua Negra gira.[lr]::
+29854::$$$message_0218_0011_0002$$$::O novo ME alcança minha POSIÇÃO.::
+29855::$$$message_0218_0012_0000$$$::Ah... estou tão ciumento.[lr]::
+29856::$$$message_0218_0012_0001$$$::Eu falhei. Eu falhei. Eu falhei.[lr]::
+29857::$$$message_0218_0012_0002$$$::TheN...[lr]::
+29858::$$$message_0218_0012_0003$$$::Você deveria falhar e se tornar um monstro, como eu...::
+929831::$$$message_9218_0006_0001$$$::A voz me obriga a olhar para baixo.[r]::
+�

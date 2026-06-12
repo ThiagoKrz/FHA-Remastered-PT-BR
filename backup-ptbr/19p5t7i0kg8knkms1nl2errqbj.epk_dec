@@ -1,0 +1,107 @@
+DAT
+id=qid::label=str::text=lstr::
+6132::$$$message_0043_0000_0000$$$::Isso é inusitado.[lr]::
+6133::$$$message_0043_0000_0001$$$::A Caster está apenas parada ali, como se estivesse perdida em pensamentos.::
+6134::$$$message_0043_0001_0000$$$::Bom timing.[lr]::
+6135::$$$message_0043_0001_0001$$$::Não há mais ninguém por perto, então perguntarei a ela sobre a guerra do Santo Graal reiniciada.[lr]::
+6136::$$$message_0043_0001_0002$$$::A Caster se acalmou por enquanto, mas ela lançou um Campo Limitado sobre toda a cidade antes.[lr]::
+6137::$$$message_0043_0001_0003$$$::Devo me certificar de que ela não está tramando algo novamente, mesmo que seja improvável.::
+6138::$$$message_0043_0002_0000$$$::"Caster. Você não se importa se conversamos um pouco?"[lr]::
+6139::$$$message_0043_0002_0001$$$::Ela remove seu capuz sombrio e me lança um olhar gelado.::
+6140::$$$message_0043_0003_0000$$$::"Sobre o quê? Duvido que seja algo bom, vindo de você."[lr]::
+6141::$$$message_0043_0003_0001$$$::...Sinto que ela está de guarda. [l]Ela era tão sociável quando nos encontramos na cidade, mas agora é como se tivesse voltado para há meio ano.::
+6142::$$$message_0043_0004_0000$$$::"Bem, isso depende de você.[lr]::
+6143::$$$message_0043_0004_0001$$$::Vou ao ponto. Você não tem feito nada recentemente, tem? [l][say storage=ryu0117_shi_0012 name=士郎]I hope cloistered temple life hasn't been so stressful for you that you've fallen back on old habits."[lr]::
+6144::$$$message_0043_0004_0002$$$::Parece que começamos mal, então tento expressar isso com delicadeza sem ofender a Caster.::
+6145::$$$message_0043_0005_0000$$$::"Ohoho. Que pergunta interessante, garoto.[lr]::
+6146::$$$message_0043_0005_0001$$$::Você veio até aqui só para me perguntar isso para que eu pudesse te matar e enterrar sem que ninguém nunca descobrisse?"::
+6147::$$$message_0043_0006_0000$$$::"Meu erro. Você notou algo estranho acontecendo na cidade recentemente?"[lr]::
+6148::$$$message_0043_0006_0001$$$::Desculpe, senhora. Você me assustou. A estratégia mais astuta dos Servos me lança um sorriso diabólico, mostrando que não perdeu sua aresta mesmo após seis meses de vida doméstica. Lição aprendida.::
+6149::$$$message_0043_0007_0000$$$::"Comece com isso na próxima vez.[lr]::
+6150::$$$message_0043_0007_0001$$$::E não, não estou sentindo nenhum tipo de estresse."[lr]::
+6151::$$$message_0043_0007_0002$$$::É como ouvir uma pessoa bêbada insistir que não está bêbada.[lr]::
+6152::$$$message_0043_0007_0003$$$::...Espero que tudo esteja bem no Templo Ryuudou.::
+6153::$$$message_0043_0008_0000$$$::"Oh. Bem, um pouco de exercício talvez te faça bem. Você poderia correr uma maratona, consertar as escadas do templo, até mesmo montar um show de luz na Floresta Einzbern."[lr]::
+6154::$$$message_0043_0008_0001$$$::A floresta montanhosa seria um campo de provas mais que suficiente para Caster se desinflar. Além disso, Berserker talvez até estivesse disposto a brincar com uma batalha de simulacro.::
+6155::$$$message_0043_0009_0000$$$::"Por que, obrigado por ter me pensado. Mas eu não preciso ir até a floresta, você sabe. Podia começar com um aquecimento aqui mesmo.[lr]::
+6156::$$$message_0043_0009_0001$$$::...Embora eu não fosse o que estivesse correndo."[lr]::
+6157::$$$message_0043_0009_0002$$$::"Urgh."[lr]::
+6158::$$$message_0043_0009_0003$$$::Ah, não. Estamos realmente começando mal.[lr]::
+6159::$$$message_0043_0009_0004$$$::Neste ritmo, a guerra realmente vai se repetir. Devo voltar ao trabalho.::
+6160::$$$message_0043_0010_0000$$$::"Talvez outro dia.[lr]::
+6161::$$$message_0043_0010_0001$$$::Então, o que está acontecendo..."[lr]::
+6162::$$$message_0043_0010_0002$$$::"Eu não tenho a menor ideia. [l][say storage=ryu0117_cas_0041 name=キャスター]Percebi que algo me parece estranho na cidade, mas não sei qual é a causa, nem me importa."::
+6163::$$$message_0043_0011_0000$$$::"Entendi.[lr]::
+6164::$$$message_0043_0011_0001$$$::Acho que você não saberia de imediato, embora."[lr]::
+6165::$$$message_0043_0011_0002$$$::Se perguntasse à Caster, talvez não lhe custasse muito esforço para descobrir exatamente o que está acontecendo.[lr]::
+6166::$$$message_0043_0011_0003$$$::A Guerra do Santo Graal foi reiniciada.[lr]::
+6167::$$$message_0043_0011_0004$$$::Todos os Servos estão presentes.[lr]::
+6168::$$$message_0043_0011_0005$$$::E eu tenho essa sensação estranha de... dêjá vu.::
+6169::$$$message_0043_0012_0000$$$::"Colocando isso de lado...[lr]::
+6170::$$$message_0043_0012_0001$$$::Posso entender que você não tem nada a ver com isso?"[lr]::
+6171::$$$message_0043_0012_0002$$$::"Sim. Você pode acreditar em mim ou não."::
+6172::$$$message_0043_0013_0000$$$::"Eu acredito em você. Você gosta de tramóias, mas não mente."[lr]::
+6173::$$$message_0043_0013_0001$$$::Na verdade, a Caster nunca mente.[lr]::
+6174::$$$message_0043_0013_0002$$$::Duvido se é a sua noção de virtude ou justiça.::
+6175::$$$message_0043_0014_0000$$$::"Essa situação não importa para você.[lr]::
+6176::$$$message_0043_0014_0001$$$::Você não vai tentar lutar contra nenhum dos outros Servos, então?"::
+6177::$$$message_0043_0015_0000$$$::"Claro que não. Nenhum mago gastaria energia mágica sem nada a ganhar com isso.[lr]::
+6178::$$$message_0043_0015_0001$$$::Isso também vale para você.[line len=2][lr]::
+6179::$$$message_0043_0015_0002$$$::Não, suponho que isso não seria importante para você."::
+6180::$$$message_0043_0016_0000$$$::Caster riu em voz baixa.[lr]::
+6181::$$$message_0043_0016_0001$$$::Posso perceber que ela está me zombando, mas não de forma maldosa.[lr]::
+6182::$$$message_0043_0016_0002$$$::Ela soa brilhante e alegre.[lr]::
+6183::$$$message_0043_0016_0003$$$::De qualquer forma, está claro que ela não tem intenção de me ajudar a resolver isso. Ela pode até preferir que as coisas fiquem como estão.::
+6184::$$$message_0043_0017_0000$$$::"Tudo bem, entendi. Então você não vai fazer nenhuma birra?"[lr]::
+6185::$$$message_0043_0017_0001$$$::"Não. Lamento te decepcionar, mas não vou fazer nada.[lr]::
+6186::$$$message_0043_0017_0002$$$::Se quiser encontrar quem reiniciou a Guerra do Santo Graal, terá que fazê-lo sozinho."[lr]::
+6187::$$$message_0043_0017_0003$$$::Parece certo.::
+6188::$$$message_0043_0018_0000$$$::"Oh? Você está aceitando isso com bastante calma. Eu pensei que tentaria convencer-me mais."[lr]::
+6189::$$$message_0043_0018_0001$$$::"Mesmo eu sei melhor do que pedir o impossível.[lr]::
+6190::$$$message_0043_0018_0002$$$::Você não quer ajudar, né? Então eu mesmo vou fazer isso... Talvez eu volte se me esgotar de opções, mas posso cruzar esse rio quando chegar lá."[lr]::
+6191::$$$message_0043_0018_0003$$$::Então, serei obrigado a fazer o que for preciso para convencê-la, como ela acabou de sugerir.::
+6192::$$$message_0043_0019_0000$$$::Hmm.[lr]::
+6193::$$$message_0043_0019_0001$$$::Ela estava ansiosa para me recusar?[lr]::
+6194::$$$message_0043_0019_0002$$$::A Caster parece decepcionada.::
+6195::$$$message_0043_0020_0000$$$::"...Você está se sentindo bem? Alguém te atingiu com um feitiço de debilitação enquanto você não estava prestando atenção?[lr]::
+6196::$$$message_0043_0020_0001$$$::Isso não é com você. Onde foi parar sua habitual teimosia?"::
+6197::$$$message_0043_0021_0000$$$::...Mrgh. Tem que reconhecer uma bruxa mundialmente renomada. Quando é hora de se preocupar, ela está em um nível completamente diferente da Tohsaka.[lr]::
+6198::$$$message_0043_0021_0001$$$::Na verdade, se ela queria me fazer desistir, desejo que usasse algum dos seus vastos recursos mágicos para neutralizar ou hipnotizar-me. Sente-se como um desperdício enfraquecer-me com discursos desanimadores.[lr]::
+6199::$$$message_0043_0021_0002$$$::Bem...::
+6200::$$$message_0043_0022_0000$$$::"Ninguém me maldito. Você é a única que faria isso.[lr]::
+6201::$$$message_0043_0022_0001$$$::Além disso... acho que sou um incômodo, do seu ponto de vista."[lr]::
+6202::$$$message_0043_0022_0002$$$::Eu digo o que penso, sem nenhuma intenção má por trás disso.[lr]::
+6203::$$$message_0043_0022_0003$$$::Mais uma vez, Caster parece surpreso.[lr]::
+6204::$$$message_0043_0022_0004$$$::Ela suspira, parecendo que minha observação a deixou desequilibrada.::
+6205::$$$message_0043_0023_0000$$$::"...Que droga. [font italic=true]Isso é[font italic=false] o que você diz a seguir?[lr]::
+6206::$$$message_0043_0023_0001$$$::Sim, para dizer o que é: você é um embaraço. Você ganhou a guerra, enquanto nós perdemos. Não importa quão pacífica a vida pareça agora, é difícil esquecer a vergonha da derrota.[lr]::
+6207::$$$message_0043_0023_0002$$$::...Eu também não consigo relaxar quando você está por perto.[lr]::
+6208::$$$message_0043_0023_0003$$$::Quando estou em mau humor, não quero pensar na sua ingenuidade retórica, nem como você ganhou a guerra com isso."::
+6209::$$$message_0043_0024_0000$$$::A hostilidade da Caster é genuína. De fato, a incomodo muito.[lr]::
+6210::$$$message_0043_0024_0001$$$::Ainda assim...[lr]::
+6211::$$$message_0043_0024_0002$$$::Ela não me odeia por causa dela mesma. Posso ver que ela está cautelosa comigo por outro motivo.[lr]::
+6212::$$$message_0043_0024_0003$$$::Já dei uma olhada em tudo isso, então apenas aceno. [wait canskip=0 time=800]Não precisa se preocupar com isso.::
+6213::$$$message_0043_0025_0000$$$::"...Hmmf. Cuide-se, garoto.[lr]::
+6214::$$$message_0043_0025_0001$$$::Quando vejo vocês todos sozinhos assim, tenho vontade de esmigalhá-los como um inseto. Embora eu não possa se Saber estiver com vocês."[lr]::
+6215::$$$message_0043_0025_0002$$$::"Ladra. Você não iria poupar o golpe só porque é Saber. Você está se mantendo afastado da luta porque tem coisas mais importantes para se preocupar."[lr]::
+6216::$$$message_0043_0025_0003$$$::Como sua vida pacífica no Templo Ryuudou, por exemplo.::
+6217::$$$message_0043_0026_0000$$$::"...Pense o que quiser.[lr]::
+6218::$$$message_0043_0026_0001$$$::Acredite em mim, se você tivesse até um pouco de falta de escrúpulos, já teria me pago de volta por tudo que fez comigo.[lr]::
+6219::$$$message_0043_0026_0002$$$::Se um dia você sentir vontade de morrer de autodesprezo, então sucumbam à sua ganância. Estaria mais que feliz em conceder-lhe uma morte encantadora."::
+6220::$$$message_0043_0027_0000$$$::A bruxa extraordinária sorri com desdém.[lr]::
+6221::$$$message_0043_0027_0001$$$::Nós realmente não conseguimos nos entender depois de tudo. Ela quase declarou guerra contra mim, mesmo após ter dito que não queria lutar.::
+6222::$$$message_0043_0028_0000$$$::"...Tudo no seu tempo.[lr]::
+6223::$$$message_0043_0028_0001$$$::Você poderia me contar algo, mesmo?[lr]::
+6224::$$$message_0043_0028_0002$$$::Assim está não é exatamente prejudicial, é? Vai piorar?"::
+6225::$$$message_0043_0029_0000$$$::"Isso mesmo. Não é prejudicial e não vai piorar. Garanto.[lr]::
+6226::$$$message_0043_0029_0001$$$::...Sim, isso é como um sonho efêmero. No fim, nada de relevante acontecerá e tudo voltará ao que era."::
+6227::$$$message_0043_0030_0000$$$::...Bom.[lr]::
+6228::$$$message_0043_0030_0001$$$::Vou continuar minha investigação da forma antiga.[lr]::
+6229::$$$message_0043_0030_0002$$$::É suficiente saber que Caster não está envolvida e não tem planos de fazê-lo.::
+6230::$$$message_0043_0031_0000$$$::"Até a próxima. Vou vir te visitar quando você estiver em um melhor humor."[lr]::
+6231::$$$message_0043_0031_0001$$$::"Você faz isso. Gostaria também de evitar fazer inimigos de Saber e Rider.[lr]::
+6232::$$$message_0043_0031_0002$$$::...Permita-me lhe dar um aviso antes que você vá.[lr]::
+6233::$$$message_0043_0031_0003$$$::Não se aproxime da igreja à noite. Você não consegue lidar com quem encontrará lá."[lr]::
+6234::$$$message_0043_0031_0004$$$::...Ela coloca seu capuz e sai.[lr]::
+6235::$$$message_0043_0031_0005$$$::Oh. Ela tirou durante a nossa conversa só para ser gentil...?::
+906133::$$$message_9043_0000_0001$$$::A Caster está apenas parada ali, como se estivesse perdida em pensamentos.[r]M~��

@@ -1,0 +1,66 @@
+DAT
+id=qid::label=str::text=lstr::
+15467::$$$message_0119_0000_0000$$$::"...Ah, que susto."[lr]::
+15468::$$$message_0119_0000_0001$$$::Assim que ela exclama felizmente, [clfg textoff=0 rule=シャッター左から time=300 pos=all]Illya entra na loja.[lr]::
+15469::$$$message_0119_0000_0002$$$::"Illya, é perigoso correr."[lr]::
+15470::$$$message_0119_0000_0003$$$::Meu aviso não chega até ela.::
+15471::$$$message_0119_0001_0000$$$::Agora vou ficar sozinho na loja...[lr]::
+15472::$$$message_0119_0001_0001$$$::"..."[lr]::
+15473::$$$message_0119_0001_0002$$$::Os olhares dos que me cercam me atravessam. Como esperado por estar em uma loja de mercadorias finas que não permite meninos, meu nível de desconforto é imenso.[lr]::
+15474::$$$message_0119_0001_0003$$$::Tenho um impulso súbito de correr embora, mas não posso deixar a Illya para trás.::
+15475::$$$message_0119_0002_0000$$$::"Ah..."[lr]::
+15476::$$$message_0119_0002_0001$$$::"Shirou, você ainda está aqui? [wvl][move textoff=0 time=120 path=(521,95,255)(520,71,255)(518,90,255)(518,77,255) storage=イリヤ03a(遠) accel=0 spline=1]Você é lento."[wm canskip=0][lr]::
+15477::$$$message_0119_0002_0002$$$::[chgfg textoff=0 time=300 storage=イリヤ04a(近) textoff=0 left=418 top=170][move textoff=0 time=100 path=(405,161,255)(381,161,255)(375,167,255)(370,173,255)(348,156,255) storage=イリヤ04a(近) accel=0 spline=1]Illya vem de volta e pega minha mão. Só com isso, sinto que os olhares ao meu redor se tornaram um pouco mais suaves.[wm canskip=0]::
+15478::$$$message_0119_0003_0000$$$::Primeiro de tudo, para explicar por que estou aqui com Illya, é só porque ela me pediu.::
+15479::$$$message_0119_0004_0000$$$::Durante o ataque surpresa de Illya, ela encontrou o leão de pelúcia usual de Saber.[lr]::
+15480::$$$message_0119_0004_0001$$$::E após Illya ter zombado de Saber por algum tempo,[lr]::
+15481::$$$message_0119_0004_0002$$$::"Quero um também."[rf]::
+15482::$$$message_0119_0005_0000$$$::...Assim, fui ao mercado comprar um boneco com Illya.[lr]::
+15483::$$$message_0119_0005_0001$$$::O leão de Saber é um deles, ou melhor, já que Fuji-nee o ganhou em um arcade, eu não consigo ter o mesmo.[lr]::
+15484::$$$message_0119_0005_0002$$$::Então, estou comprando para Illya o boneco de pelúcia que ela quer.[fg textoff=0 opacity=0 left=283 index=3000 top=154 time=150 storage=イリヤ02a(中)]::
+15485::$$$message_0119_0006_0000$$$::"Hmm, qual eu devo pegar?"[lr]::
+15486::$$$message_0119_0006_0001$$$::[chgfg time=300 storage=イリヤ04b(中) textoff=0]Bem, deixando de lado a situação...[lr]::
+15487::$$$message_0119_0006_0002$$$::[chgfg time=300 storage=イリヤ10c(中) textoff=0]Assistir a ela verificar um brinquedo de pelúcia após outro é encantador.[chgfg time=300 storage=イリヤ04a(中) textoff=0]::
+15488::$$$message_0119_0007_0000$$$::"Ei, Shirou, acho que a gente tem um tipo de relação estranha."[lr]::
+15489::$$$message_0119_0007_0001$$$::"Que tipo? Hmm..."[lr]::
+15490::$$$message_0119_0007_0002$$$::[chgfg time=300 storage=イリヤ07a(中) textoff=0]Irmaãs é um termo exagerado. A cor do nosso cabelo e dos olhos são completamente diferentes, então definitivamente não nos parecemos com isso.[lr]::
+15491::$$$message_0119_0007_0003$$$::Nossa idade não está tão distante, então a linha de pensamento mais razoável seria...::
+15492::$$$message_0119_0008_0000$$$::"Somos como uma garota linda e um grande irmão que a protege, não é?"[lr]::
+15493::$$$message_0119_0008_0001$$$::"C-Cute? [cacheimage storage=イリヤ08h(中)][wvl][chgfg time=300 storage=イリヤ08h(中) textoff=0]Realmente?"[lr]::
+15494::$$$message_0119_0008_0002$$$::"É, acho que você é fofo, Illya."[lr]::
+15495::$$$message_0119_0008_0003$$$::[chgfg time=300 storage=イリヤ08d(中) textoff=0]Aflato, eu acho que Illya parece fofa.::
+15496::$$$message_0119_0009_0000$$$::...Ou seja, desde que ela não esteja dizendo que vai te matar com o Berserker atrás dela.[lr]::
+15497::$$$message_0119_0009_0001$$$::O medo ultrapassa isso por muito.::
+15498::$$$message_0119_0010_0000$$$::"Hmm, então você também tem um trabalho difícil, já que está acompanhando uma garota tão linda."[lr]::
+15499::$$$message_0119_0010_0001$$$::"Com o quê?"[lr]::
+15500::$$$message_0119_0010_0002$$$::"Mmm, o que é de novo? Não vai ser confundido com um desses homens que gosta de meninas? [l] [say storage=cty0309_iri_0071 name=イリヤ] Ouvi falar disso da Rin antes, mas esqueci como são chamados."[lr]::
+15501::$$$message_0119_0010_0003$$$::...Oh wow. Acho que sei o que Tohsaka ensinou na cabeça de Illya.::
+15502::$$$message_0119_0011_0000$$$::[chgfg time=300 storage=イリヤ11a(中) textoff=0]...Mas, não seria estranho que eu fosse visto assim se eu estivesse levando Illya e caminhando num lugar como esse.[lr]::
+15503::$$$message_0119_0011_0001$$$::Duvido que alguém aqui tenha entendido direito o que eu estou falando.[lr]::
+15504::$$$message_0119_0011_0002$$$::[chgfg time=300 storage=イリヤ10c(中) textoff=0]Bem, no fim das contas é apenas um boato sem fundamento, então acho que posso manter a cabeça erguida.::
+15505::$$$message_0119_0012_0000$$$::"O Shirou, você realmente quer ser meu?"[lr]::
+15506::$$$message_0119_0012_0001$$$::Illya agarra meu braço.[lr]::
+15507::$$$message_0119_0012_0002$$$::...Retiro o que disse. Não consigo levantar a cabeça com orgulho.::
+15508::$$$message_0119_0013_0000$$$::"N-Não, eu não posso! P-Primeiro de tudo, você não pode tratar as pessoas como objetos."[lr]::
+15509::$$$message_0119_0013_0001$$$::[chgfg time=300 storage=イリヤ06i(近) textoff=0]Tento desenrolar o braço de Illya de mim da forma mais suave possível, escondendo minha agitação da maneira mais indireta que consigo.::
+15510::$$$message_0119_0014_0000$$$::"Mrg, tudo bem.[lr]::
+15511::$$$message_0119_0014_0001$$$::Vocês vão se arrepender disso. Vão desejar ter se tornado meus quando tiveram a chance."[lr]::
+15512::$$$message_0119_0014_0002$$$::"Haha. Sim, espero que sim."[lr]::
+15513::$$$message_0119_0014_0003$$$::[chgfg time=300 storage=イリヤ05b(中) textoff=0]Ela deve estar insatisfeita com minha resposta, pois começa a escolher brinquedos de pelúcia novamente enquanto franzindo o nariz.[lr]::
+15514::$$$message_0119_0014_0004$$$::[chgfg time=300 storage=イリヤ05d(中) textoff=0]Finalmente, ela encontra um brinquedo de pelúcia parecido com gato e me olha novamente.::
+15515::$$$message_0119_0015_0000$$$::"Ei, Shirou, e esse?"[lr]::
+15516::$$$message_0119_0015_0001$$$::Ela segura um boneco de pelúcia que até poderia ser chamado de gato humano. Está esticando seus membros e pendurado nos braços de Illya.::
+15517::$$$message_0119_0016_0000$$$::"...Parece apenas um gato preguiçoso.[lr]::
+15518::$$$message_0119_0016_0001$$$::Não sei o que faz um bom boneco de pelúcia. Afinal, não é bom se for o que você gosta?"::
+15519::$$$message_0119_0017_0000$$$::"O que você está dizendo? Será seu novo corpo, então você tem que escolher seriamente."[lr]::
+15520::$$$message_0119_0017_0001$$$::[chgfg time=300 storage=イリヤ02a(中) textoff=0][monocro target=all time=100][fadebgm time=100 volume=0][line len=4]O que?[lr]::
+15521::$$$message_0119_0017_0002$$$::O que Illya disse há pouco?::
+15522::$$$message_0119_0018_0000$$$::"Illya, espere. Um, o que isso significa?"[lr]::
+15523::$$$message_0119_0018_0001$$$::"É um segredo. [cacheimage storage=イリヤ06f(中)][wvl][chgfg time=300 storage=イリヤ06f(中) textoff=0]Ah, essa também é fofo [humming] Acho que me divertiria em te assediar nesse formato [humming]"[lr]::
+15524::$$$message_0119_0018_0002$$$::[clfg textoff=0 rule=シャッター左から time=300 pos=all]Ela olha feliz para outros brinquedos de pelúcia.::
+15525::$$$message_0119_0019_0000$$$::"...Talvez eu deva correr embora."[lr]::
+15526::$$$message_0119_0019_0001$$$::Estou me ressentindo por ter murmurado que não posso deixar Illya mais cedo.[lr]::
+15527::$$$message_0119_0019_0002$$$::N-Não, tem que ser um trocadilho![lr]::
+15528::$$$message_0119_0019_0003$$$::...Hmm, só para ter certeza, talvez eu compre doces no caminho de volta e acaride Illya, hahaha...::
+915485::$$$message_9119_0006_0000$$$::"Hmm, qual eu devo pegar?"[r]::
+

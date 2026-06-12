@@ -1,0 +1,334 @@
+DAT
+id=qid::label=str::text=lstr::
+18519::$$$message_0144_0000_0000$$$::Eu não tenho realmente nada para fazer, mas vou ficar acordado por um pouco mais.[lr]::
+18520::$$$message_0144_0000_0001$$$::Depois disso...hospitalidade, não consigo exatamente dormir.[lr]::
+18521::$$$message_0144_0000_0002$$$::Já passa das 22h.[lr]::
+18522::$$$message_0144_0000_0003$$$::Estou aqui em um desafio de olhar firme com uma mancha na parede que parece não muito diferente de um cadáver.::
+18523::$$$message_0144_0001_0000$$$::Faz uma hora que fiquei deitado no colchão.[lr]::
+18524::$$$message_0144_0001_0001$$$::Minha indignação com esse tratamento absurdo foi sufocada, e o único que resta para eu fazer é dormir como me dizem, mas...[lr]::
+18525::$$$message_0144_0001_0002$$$::"...Está frio. Doeu. Não consigo dormir."[lr]::
+18526::$$$message_0144_0001_0003$$$::Não consigo dormir fisicamente, não mentalmente.[lr]::
+18527::$$$message_0144_0001_0004$$$::Isso deve ser o plano de Sella para quebrar minha vontade, já que durmo regularmente na cabana. Um inimigo verdadeiramente terrível. Hehehehehe.::
+18528::$$$message_0144_0002_0000$$$::"Está congelando, não vou mentir... Ela poderia ao menos ter me deixado um cobertor."[lr]::
+18529::$$$message_0144_0002_0001$$$::Não tem jeito.[lr]::
+18530::$$$message_0144_0002_0002$$$::Eu odeio ter que fazer isso, mas é uma questão de vida ou morte.[lr]::
+18531::$$$message_0144_0002_0003$$$::Vou me esconder e encontrar algo que eu possa usar como cobertor.::
+18532::$$$message_0144_0003_0000$$$::"..."[lr]::
+18533::$$$message_0144_0003_0001$$$::Escuto passos pesados ecoando pelos corredores frios.[lr]::
+18534::$$$message_0144_0003_0002$$$::"..."[lr]::
+18535::$$$message_0144_0003_0003$$$::Cada passo arranca um pedaço dos meus já frágeis nervos.[lr]::
+18536::$$$message_0144_0003_0004$$$::Eu não achei que o castelo à noite fosse um grande problema, mas estou ficando bastante nervoso aqui sozinho.::
+18537::$$$message_0144_0004_0000$$$::"Guh!?[lr]::
+18538::$$$message_0144_0004_0001$$$::...Ah, foi só o vento.[wvl][se storage=se271.wav] Estou no quarto andar, então o vento aqui deve ser mais forte, hehe..."[lr]::
+18539::$$$message_0144_0004_0002$$$::...Isso é ruim. [wm canskip=0] [movefg textoff=0 rule=右上から左下へ vague=200 opacity=0 left=0 top=0 time=800 accel=0 storage=white]Meu medo está aumentando segundo a segundo.[lr]::
+18540::$$$message_0144_0004_0003$$$::Nesse ritmo, vou acabar voltando para a sala de armazenamento antes mesmo de chegar ao terceiro andar, [se storage=se654.wav] muito menos ao hall do primeiro andar.[lr]::
+18541::$$$message_0144_0004_0004$$$::Tudo é tão...::
+18542::$$$message_0144_0005_0000$$$::"...Maldita essa Sella. Ela tem ciúmes de mim. Até apagou todas as luzes nos corredores."[lr]::
+18543::$$$message_0144_0005_0001$$$::Isso mesmo.[lr]::
+18544::$$$message_0144_0005_0002$$$::O supostamente infindável Castelo Einzbern está completamente apagado hoje, de todos os dias.[lr]::
+18545::$$$message_0144_0005_0003$$$::Eles não estão tentando de repente cortar a conta de luz. Isso é pura bullying.::
+18546::$$$message_0144_0006_0000$$$::"...Merda, não vou deixar que isso me quebre. [wvl][se volume=40 storage=se654.wav]Como vou aprender taumaturgia se não consigo aguentar andar por um castelo à noite?"[lr]::
+18547::$$$message_0144_0006_0001$$$::Ando pelo corredor, franzindo o nariz com o som dos meus próprios passos.[lr]::
+18548::$$$message_0144_0006_0002$$$::...Apenas um pouco mais para as escadas.[lr]::
+18549::$$$message_0144_0006_0003$$$::Isso vai dar certo desde que eu consiga chegar ao térreo.[lr]::
+18550::$$$message_0144_0006_0004$$$::A maioria das portas está trancada, mas o salão ainda deve estar aberto.[lr]::
+18551::$$$message_0144_0006_0005$$$::Eu tenho certeza de que consigo encontrar algo lá que sirva como cobertor.::
+18552::$$$message_0144_0007_0000$$$::"Ah, legal. Entendi. Vejo luzes!"[lr]::
+18553::$$$message_0144_0007_0001$$$::Mesmo Sella não apagou totalmente as luzes no hall.::
+18554::$$$message_0144_0008_0000$$$::"Bom, bom. É tão grande que ainda me dá arrepios, mas isso é melhor do que o corredor."[lr]::
+18555::$$$message_0144_0008_0001$$$::Desço silenciosamente a escada central.[lr]::
+18556::$$$message_0144_0008_0002$$$::O salão deveria ficar assim. O hall está bem iluminado, então parte dessa luz deveria chegar ao salão também.::
+18557::$$$message_0144_0009_0000$$$::"..."[lr]::
+18558::$$$message_0144_0009_0001$$$::Fui muito ingênuo.[lr]::
+18559::$$$message_0144_0009_0002$$$::E isso é muito mais estranho do que precisa ser.[lr]::
+18560::$$$message_0144_0009_0003$$$::Arquiduches fantasmagóricos não se encaixariam mal dançando aqui entre os móveis em estilo Rococó.::
+18561::$$$message_0144_0010_0000$$$::"...Bem, então. Só preciso achar algo que funcione como um cobertor..."[lr]::
+18562::$$$message_0144_0010_0001$$$::Movimento silencioso dentro.[lr]::
+18563::$$$message_0144_0010_0002$$$::O tapete macio muda o som dos meus passos, mas o silêncio absoluto me está deixando nervoso.[lr]::
+18564::$$$message_0144_0010_0003$$$::Se tudo está tão quieto, [se volume=35 storage=se190.wav]sinto que não perceberei se alguém se aproximar por trás de mim.[line len=2]::
+18565::$$$message_0144_0011_0000$$$::...Espere.[lr]::
+18566::$$$message_0144_0011_0001$$$::Ouvi algo?::
+18567::$$$message_0144_0012_0000$$$::...Fiz.[lr]::
+18568::$$$message_0144_0012_0001$$$::Algo branco está se movendo atrás daquela vitrina de armário no canto da sala.[lr]::
+18569::$$$message_0144_0012_0002$$$::"...Ngh."[lr]::
+18570::$$$message_0144_0012_0003$$$::Há rumores de coisas sinistras aparecendo no castelo ultimamente.[lr]::
+18571::$$$message_0144_0012_0004$$$::Espíritos vagando pela floresta.[lr]::
+18572::$$$message_0144_0012_0005$$$::O monstro que Illya viu subterrâneo.[lr]::
+18573::$$$message_0144_0012_0006$$$::E algo que se move nas sombras do salão escuro...::
+18574::$$$message_0144_0013_0000$$$::Eu me agacho e me movo lentamente para dentro do quarto.[lr]::
+18575::$$$message_0144_0013_0001$$$::Usando a tabela como escudo, posicionei-me para que eu pudesse correr se algo acontecer...::
+18576::$$$message_0144_0014_0000$$$::"Quem é aí!?"[lr]::
+18577::$$$message_0144_0014_0001$$$::"Você primeiro!"::
+18578::$$$message_0144_0015_0000$$$::"Hmm?"[lr]::
+18579::$$$message_0144_0015_0001$$$::Nós nos olhamos lentamente, como casais de casamento arranjado que se encontram pela primeira vez.::
+18580::$$$message_0144_0016_0000$$$::"...Entendi. Você veio para o primeiro andar procurando um cobertor para ajudar a suportar o frio.[lr]::
+18581::$$$message_0144_0016_0001$$$::Meus sinceros desculpas. Deveria ter oferecido um pouco mais de calor para um convidado vindo de fora."::
+18582::$$$message_0144_0017_0000$$$::"Y-yeah. Agradeceria isso."[lr]::
+18583::$$$message_0144_0017_0001$$$::"Muito bem. Envio um cobertor imediatamente."[lr]::
+18584::$$$message_0144_0017_0002$$$::Sella vai honrar meu pedido.[lr]::
+18585::$$$message_0144_0017_0003$$$::...É um pouco anticlimático, mas não estou reclamando.::
+18586::$$$message_0144_0018_0000$$$::"Numa nota diferente, devo me desculpar pela minha grosseria. Dada a hora tardia e o ambiente escuro do salão, confundi você com um ladrão, Mestre Emiya."::
+18587::$$$message_0144_0019_0000$$$::"Nah, isso também vale pra mim. Não pensei que você estaria aqui, então achei que você era um gho"[line len=2][lr]::
+18588::$$$message_0144_0019_0001$$$::"E mais uma vez, o que você gostaria de comer de café da manhã amanhã de manhã? Prefere arroz em vez de pão?"::
+18589::$$$message_0144_0020_0000$$$::"Hmm? Um, pão está bem."[lr]::
+18590::$$$message_0144_0020_0001$$$::"Então serviremos pão. Por favor, me avise se tiver mais alguma solicitação."[lr]::
+18591::$$$message_0144_0020_0002$$$::Sella fala rápido.[lr]::
+18592::$$$message_0144_0020_0003$$$::Ela certamente está provando ser uma criada refinada, mas...::
+18593::$$$message_0144_0021_0000$$$::"Eu não tenho mais pedidos. Vou voltar para meu quarto assim que conseguir um cobertor. Então, um..."[lr]::
+18594::$$$message_0144_0021_0001$$$::Estendo minha mão.::
+18595::$$$message_0144_0022_0000$$$::"E o que é, Mestre Emiya?"[lr]::
+18596::$$$message_0144_0022_0001$$$::"Um cobertor. Você não precisa levá-lo até o quarto andar. Só me dê aqui."::
+18597::$$$message_0144_0023_0000$$$::"Se eu pudesse mudar o assunto por terceira vez, qual horário você normalmente acorda, Mestre Emiya? Eu arranjo uma chamada de manhã."[lr]::
+18598::$$$message_0144_0023_0001$$$::"..."[lr]::
+18599::$$$message_0144_0023_0002$$$::[font italic=true]Isso[font italic=false] é o que estou falando.[lr]::
+18600::$$$message_0144_0023_0003$$$::Sella está recusando-se obstinadamente a me dar um cobertor.::
+18601::$$$message_0144_0024_0000$$$::"...Bem, vou voltar para meu quarto. Por favor, envie o cobertor assim que puder."[lr]::
+18602::$$$message_0144_0024_0001$$$::Digo adeus e começo a voltar para as escadas.::
+18603::$$$message_0144_0025_0000$$$::"...Você está disponível?"[lr]::
+18604::$$$message_0144_0025_0001$$$::A criada bloqueia meu caminho.::
+18605::$$$message_0144_0026_0000$$$::"...O que?"[lr]::
+18606::$$$message_0144_0026_0001$$$::"Perguntei se você tem algum tempo livre agora."[lr]::
+18607::$$$message_0144_0026_0002$$$::"Você ouviu alguma coisa que eu disse?"::
+18608::$$$message_0144_0027_0000$$$::"Muito bom. Então, permita-me apresentar-lhe algum trabalho. No lado interno esquerdo deste lobby...[cacheimage storage=セラ01a(中)][wvl][dash textoff=0 hidefg=0 mx=-104 opacity=255 layer=base irot=-0.0 cx=130 imag=1 time=1000 cy=399 mag=1.3 my=0 storage=iアインツロビー(fd)-(紫) rot=-0.0 accel=0][movefg textoff=0 opacity=255 time=1000 pos=r accel=0 storage=セラ01a(中)][lr]::
+18609::$$$message_0144_0027_0001$$$::Você consegue vê-lo lá em cima? [wvl][wm canskip=0][wdash canskip=0]Se seguir por esse corredor, levará você a escadas que levam para baixo.[lr]::
+18610::$$$message_0144_0027_0002$$$::Há uma porta de madeira no fundo das escadas. Por favor, entre, dê uma volta pela sala e volte aqui."::
+18611::$$$message_0144_0028_0000$$$::"...Espere. É a adega de vinho que ouvi falar hoje."[lr]::
+18612::$$$message_0144_0028_0001$$$::"Isso seria o nome dele, sim. E?"[lr]::
+18613::$$$message_0144_0028_0002$$$::"Então você está me dizendo que vai verificar lá no seu lugar?"[lr]::
+18614::$$$message_0144_0028_0003$$$::"Infelizmente, estou ocupado com outras tarefas, então não posso me dar ao trabalho de inspecionar a adega."::
+18615::$$$message_0144_0029_0000$$$::"...Só perguntando, mas o que acontece se eu recusar?"[lr]::
+18616::$$$message_0144_0029_0001$$$::"Bem, suponho que você talvez nunca receba um cobertor."[lr]::
+18617::$$$message_0144_0029_0002$$$::"T-[wvl][shock vmax=20 time=400 count=-3]isso é sujo! Você planejou tudo isso desde o início, sua maldita criada!"::
+18618::$$$message_0144_0030_0000$$$::"Eu jamais faria algo assim.[lr]::
+18619::$$$message_0144_0030_0001$$$::Eu quase não preciso mencionar que esse assunto é entre nós e nós só.[lr]::
+18620::$$$message_0144_0030_0002$$$::Se eu contasse os fatos, você teve uma reunião secreta comigo à noite. Acredito que você não quer que essa notícia saia."::
+18621::$$$message_0144_0031_0000$$$::"Guh..."[lr]::
+18622::$$$message_0144_0031_0001$$$::O-oh-oh-oh, que diabos há de errado com essa criada!? Primeiro extorsão, e agora chantagem!?::
+18623::$$$message_0144_0032_0000$$$::"Então você não quer que os Leys saibam?[lr]::
+18624::$$$message_0144_0032_0001$$$::...Isso é tão bobo. Você deveria ter perguntado diretamente para ela, em vez de improvisar. Leys não riria de você."::
+18625::$$$message_0144_0033_0000$$$::"Isso não é da sua conta.[lr]::
+18626::$$$message_0144_0033_0001$$$::Você vai assumir essa tarefa ou não?"[lr]::
+18627::$$$message_0144_0033_0002$$$::"Vou fazer, mas sob uma condição: você tem que vir comigo por um trecho. Os leys podem notar se você não fizer pelo menos isso."[lr]::
+18628::$$$message_0144_0033_0003$$$::"T-[wvl canskip=0 time=400]verdade, [wvl canskip=0 time=400]suponho.[lr]::
+18629::$$$message_0144_0033_0004$$$::Será suficiente acompanhar você até a metade das escadas?"::
+18630::$$$message_0144_0034_0000$$$::"Sim. E não esqueça de me dar uma coberta depois."[lr]::
+18631::$$$message_0144_0034_0001$$$::"Sim. [cacheimage storage=セラ01c(中)][wvl][chgfg textoff=0 time=200 storage=セラ01c(中)]Prometo que você vai ter o cobertor mais luxuoso possível."[lr]::
+18632::$$$message_0144_0034_0002$$$::É um acordo.[lr]::
+18633::$$$message_0144_0034_0003$$$::É hora de irmos explorar a caverna.::
+18634::$$$message_0144_0035_0000$$$::Descemos as escadas.[lr]::
+18635::$$$message_0144_0035_0001$$$::A escada é mais larga do que eu esperava, cerca de dois metros de largura.::
+18636::$$$message_0144_0036_0000$$$::"Mestre Emiya, eu também tenho uma condição."[lr]::
+18637::$$$message_0144_0036_0001$$$::"Hmm? Tá certo, o que?"[lr]::
+18638::$$$message_0144_0036_0002$$$::"O que acontecer, não fale disso."[lr]::
+18639::$$$message_0144_0036_0003$$$::Viro-me.[lr]::
+18640::$$$message_0144_0036_0004$$$::...Não vejo o rosto de Sella na escuridão, mas posso dizer que ela está se agarrando a mim.[lr]::
+18641::$$$message_0144_0036_0005$$$::Está óbvio pelo jeito como ela está segurando minha camisa.::
+18642::$$$message_0144_0037_0000$$$::"Uh... Você quer dizer que não posso te contar o que vejo?"[lr]::
+18643::$$$message_0144_0037_0001$$$::"Sim. Não importa o que aconteça, não descreva o que você vê lá embaixo. Apenas relata se foi perigoso ou não."[lr]::
+18644::$$$message_0144_0037_0002$$$::"..."[lr]::
+18645::$$$message_0144_0037_0003$$$::Neste momento, meus sentimentos por ela estão evoluindo da exasperação para a simpatia.::
+18646::$$$message_0144_0038_0000$$$::"Como deseja. Espere aqui, Sella. Vou verificar o porão."[lr]::
+18647::$$$message_0144_0038_0001$$$::"Obrigado. Mestre Emiya, [cacheimage storage=セラ02d(近)][wvl][chgfg textoff=0 mono=1 color=0xBB404040 time=300 storage=セラ02d(近)]por favor, seja discreto. [cacheimage storage=セラ01a(近)][wvl][chgfg textoff=0 mono=1 color=0xBB404040 time=300 storage=セラ01a(近)]Silêncio é ouro."[lr]::
+18648::$$$message_0144_0038_0002$$$::Isso não é exatamente o que a frase significa, mas ela consegue passar sua desesperança.::
+18649::$$$message_0144_0039_0000$$$::Deixo Sella e procedo para a base das escadas.[lr]::
+18650::$$$message_0144_0039_0001$$$::"A porta está... aqui."[lr]::
+18651::$$$message_0144_0039_0002$$$::Eu me movo em volta e localizo a porta de madeira.[lr]::
+18652::$$$message_0144_0039_0003$$$::Agora só preciso entrar.[lr]::
+18653::$$$message_0144_0039_0004$$$::"...Por que estou com medo? Não posso aprender taumaturgia se tenho medo de um ou dois fantasmas."[lr]::
+18654::$$$message_0144_0039_0005$$$::Repeto o discurso de motivação que dei a mim mesmo anteriormente e puxo a porta para abrir.::
+18655::$$$message_0144_0040_0000$$$::..............................................................................................................................................................................[wait canskip=0 time=1000]Tudo limpo, por enquanto.[lr]::
+18656::$$$message_0144_0040_0001$$$::Não há uma única partícula de poeira para ser vista.[lr]::
+18657::$$$message_0144_0040_0002$$$::Eles devem manter esse lugar limpo.[lr]::
+18658::$$$message_0144_0040_0003$$$::Não consigo ver toda a sala sem luz, mas consigo ver o que parece ser barris de vinho muito compactados.::
+18659::$$$message_0144_0041_0000$$$::"...Hmm. Esperava cheirar álcool..."[lr]::
+18660::$$$message_0144_0041_0001$$$::Eu entro cuidadosamente na sala.[lr]::
+18661::$$$message_0144_0041_0002$$$::Concentro meus sentidos e busco na escuridão.[lr]::
+18662::$$$message_0144_0041_0003$$$::...Nada de estranho até agora.[lr]::
+18663::$$$message_0144_0041_0004$$$::Eu esperaria encontrar um fantasma ou dois nesse ambiente, mas não sinto qualquer aberração espiritual.[lr]::
+18664::$$$message_0144_0041_0005$$$::Isso parece só um armazém de vinho comum, um pouco estranho, mas nada mais.::
+18665::$$$message_0144_0042_0000$$$::"...Ugh. Eu disse pra ela que era só um armazém normal de vinho..."[lr]::
+18666::$$$message_0144_0042_0001$$$::Algo está aqui.[lr]::
+18667::$$$message_0144_0042_0002$$$::Algo irreal se esconde na escuridão.[lr]::
+18668::$$$message_0144_0042_0003$$$::Cada fio do meu corpo está em pé.[lr]::
+18669::$$$message_0144_0042_0004$$$::Isso não é algum espírito fraco. O que está diante de mim é um monstro com dentes, capaz de brutalidade assassina.[line len=2][lr]::
+18670::$$$message_0144_0042_0005$$$::"I-i-i-i-i-i-está aqui!!!"::
+18671::$$$message_0144_0043_0000$$$::"Sella, Sella, Sella! [wvl][se storage=se344.wav]Illya estava certa, há algo por aqui!"[lr]::
+18672::$$$message_0144_0043_0001$$$::"O-oh, por que você está correndo assim, Mestre Emiya!? A-ah, isso não é o que você prometeu! Eu não preciso de uma descrição detalhada! [wvl][se storage=se206.wav]Seja um homem e lute até a morte!"::
+18673::$$$message_0144_0044_0000$$$::"Isso é absurdo! Você deveria ter visto aquilo! Era quase maligno, como a cabeça de um dragão recém-cortada com pernas! [wvl][se storage=se044.wav]Nem pensar em enfrentar isso na escuridão!"[lr]::
+18674::$$$message_0144_0044_0001$$$::"Que bobagem! A boca dele ocupa um terço do corpo? [wvl] [se storage=se045.wav] Não existe tal criatura!"::
+18675::$$$message_0144_0045_0000$$$::"Tem muita coisa! Vamos, eu te levo ao zoológico na próxima vez! Você pode olhar quantos tubarões e jacarés quiser!"[lr]::
+18676::$$$message_0144_0045_0001$$$::"Kyaaaaah! Não, não se aproxime! O fantasma está te perseguindo!"::
+18677::$$$message_0144_0046_0000$$$::É hora de recuar para a superfície.[lr]::
+18678::$$$message_0144_0046_0001$$$::Sella está se agarrando ao meu braço esquerdo, mas minha força de vontade nos levará de volta lá em velocidade máxima.::
+18679::$$$message_0144_0047_0000$$$::"Eeek, está vindo![lr]::
+18680::$$$message_0144_0047_0001$$$::Sella, para onde agora?! Sella!"[lr]::
+18681::$$$message_0144_0047_0002$$$::"O segundo andar... está proibido, não devemos arriscar minha senhora![lr]::
+18682::$$$message_0144_0047_0003$$$::Fora, Mestre Emiya! Podemos limitar nossas baixas lá fora!"::
+18683::$$$message_0144_0048_0000$$$::"Quero saber exatamente do que você está falando com "casualties", mas não vou perguntar agora! [wvl][se storage=se101.wav][dash textoff=0 mx=730 opacity=255 layer=base irot=-0.0 cx=18 imag=2 time=300 cy=427 mag=2 my=0 storage=iアインツロビー(fd)-(紫) rot=-0.0 accel=-3]Okay, vamos para fora!"[lr]::
+18684::$$$message_0144_0048_0001$$$::"[font italic=true]Não por aí![font italic=false] Aquela é a praça, um obstáculo, um beco sem saída! Se formos por lá, é um beco sem saída!!!"::
+18685::$$$message_0144_0049_0000$$$::A advertência dela é tarde demais.[lr]::
+18686::$$$message_0144_0049_0001$$$::Entramos no pátio e o monstro da adega de vinho[lr]::
+18687::$$$message_0144_0049_0002$$$::Bloqueia nossa saída com seu corpo imenso.::
+18688::$$$message_0144_0050_0000$$$::"Temos terminado..."[lr]::
+18689::$$$message_0144_0050_0001$$$::"Ahh... Fui um idiota a confiar em um humano..."[lr]::
+18690::$$$message_0144_0050_0002$$$::Nós dois nos jogamos de joelhos.[lr]::
+18691::$$$message_0144_0050_0003$$$::...O ferro pesado escorrega no chão.[lr]::
+18692::$$$message_0144_0050_0004$$$::Desistimos de nosso destino, viramos para enfrentar o monstro atrás de nós...[lr]::
+18693::$$$message_0144_0050_0005$$$::"Que surpresa. Shirou e Sella, vocês são amigos?"[lr]::
+18694::$$$message_0144_0050_0006$$$::...e os três de nós nos encaram um ao outro.::
+18695::$$$message_0144_0051_0000$$$::"Leysritt...? Você é o que o Mestre Emiya viu no cellar da vinha...?"[lr]::
+18696::$$$message_0144_0051_0001$$$::"...? Estava apenas de guarda no depósito de vinho.[lr]::
+18697::$$$message_0144_0051_0002$$$::Alguém estava lá dentro, então eu os segui até aqui."::
+18698::$$$message_0144_0052_0000$$$::"...Entendi. Você tem algo a dizer em seu nome, Mestre Emiya?"[lr]::
+18699::$$$message_0144_0052_0001$$$::"...Não, senhora. A verdade é como você vê."[lr]::
+18700::$$$message_0144_0052_0002$$$::Não há necessidade de explicar.[lr]::
+18701::$$$message_0144_0052_0003$$$::A sombra que vi no cellar de vinho era Leys, e ela me expulsou porque me confundiu com um ladrão.::
+18702::$$$message_0144_0053_0000$$$::"...? Você entrou na adega de vinho, Shirou?"[lr]::
+18703::$$$message_0144_0053_0001$$$::"Sim. Eu estava curioso sobre a história do fantasma hoje, então fui verificar... Tenho vergonha de dizer que achei que você era o fantasma, e corri embora."[lr]::
+18704::$$$message_0144_0053_0002$$$::"...Ah. E você, Sella? Por que está com Shirou?"::
+18705::$$$message_0144_0054_0000$$$::"Huh? B-bem, eu..."[lr]::
+18706::$$$message_0144_0054_0001$$$::"Encontrei com ela no hall de entrada no caminho de volta.[lr]::
+18707::$$$message_0144_0054_0002$$$::Ela ficou brava comigo por eu estar correndo pelos corredores, como sempre."::
+18708::$$$message_0144_0055_0000$$$::"Ah. Sella sempre está braba."::
+18709::$$$message_0144_0056_0000$$$::Leys acredita em mim sem questionar.[lr]::
+18710::$$$message_0144_0056_0001$$$::Desculpe, Leys. Eu prometi à Sella que não ia falar disso com ninguém.::
+18711::$$$message_0144_0057_0000$$$::"...Hmm. Como a Master Emiya disse, eu estava prestes a descer para o porão sozinho. Não esperava que você também estivesse lá.[lr]::
+18712::$$$message_0144_0057_0001$$$::Mais importante ainda, Leysritt, você encontrou alguma coisa lá embaixo?"::
+18713::$$$message_0144_0058_0000$$$::"Nada. Shirou entrou e fugiu. Isso é tudo."[lr]::
+18714::$$$message_0144_0058_0001$$$::"...Entendi. Achei que talvez a Senhora Illyasviel tivesse presenciado algo anormal, em vez de apenas um intruso..."[lr]::
+18715::$$$message_0144_0058_0002$$$::"...Mas não havia nada lá. Acho que os fantasmas da floresta não estão no castelo."::
+18716::$$$message_0144_0059_0000$$$::"Claro que não. Tais entidades frágeis jamais poderiam entrar no Castelo Einzbern.[lr]::
+18717::$$$message_0144_0059_0001$$$::Apenas espíritos de alta qualidade espiritual podem entrar nesse castelo. Coisas que só podem se transformar em sombras pretas não teriam nenhuma chance."[lr]::
+18718::$$$message_0144_0059_0002$$$::"..."[lr]::
+18719::$$$message_0144_0059_0003$$$::Que pessoa curiosa.[lr]::
+18720::$$$message_0144_0059_0004$$$::Ela tem medo de fantasmas, mas não os rejeita de imediato.::
+18721::$$$message_0144_0060_0000$$$::"O que é, Mestre Emiya? Você parece ter algo para dizer."[lr]::
+18722::$$$message_0144_0060_0001$$$::"Nah, só estou pensando para mim mesmo.[lr]::
+18723::$$$message_0144_0060_0002$$$::Sella, você disse que os fantasmas da floresta não podem entrar no castelo?"::
+18724::$$$message_0144_0061_0000$$$::"Eles não podem. O castelo possui defesas espirituais completas. Espíritos se reuniriam de todo o bosque caso contrário."[lr]::
+18725::$$$message_0144_0061_0001$$$::"Ah-há. E você mencionou que Illya viu um sombrio sombra subterrânea. Por sinal, Leys, a quanto tempo você está fazendo o que acabou de fazer antes?"::
+18726::$$$message_0144_0062_0000$$$::"Um..."[lr]::
+18727::$$$message_0144_0062_0001$$$::"Trocamos de serviço de guarda a cada três dias.[lr]::
+18728::$$$message_0144_0062_0002$$$::Mas não patrulhamos subterrâneo como fizeram hoje à noite. Leysritt tem superior mobilidade, mas seu tempo de operação é curto. Ela colapsaria se tivesse que trabalhar todos os dias sem descanso."[lr]::
+18729::$$$message_0144_0062_0003$$$::"...É. Sim. Eu faria."::
+18730::$$$message_0144_0063_0000$$$::"...Leysritt? Não me diga..."[lr]::
+18731::$$$message_0144_0063_0001$$$::"...Desculpe, Sella.[lr]::
+18732::$$$message_0144_0063_0002$$$::Venho fazendo mais patrulhas ultimamente porque Illya está com medo."[lr]::
+18733::$$$message_0144_0063_0003$$$::"Que...!? Então a senhora sombra Illyasviel viu foi você!?"[lr]::
+18734::$$$message_0144_0063_0004$$$::"...É isso. Se ele também ficou assustado, provavelmente foi eu."::
+18735::$$$message_0144_0064_0000$$$::...Heck yeah, eu estava com medo.[lr]::
+18736::$$$message_0144_0064_0001$$$::Mesmo Illya ficaria surpresa se Leys virasse uma esquina carregando aquesa arma imensa no meio da noite.::
+18737::$$$message_0144_0065_0000$$$::"Leysritt, você...!"[lr]::
+18738::$$$message_0144_0065_0001$$$::Entendo por que Sella está chateada. Leys poderia ter escolhido um modo mais pacífico de patrulhar à noite.::
+18739::$$$message_0144_0066_0000$$$::"Por que você faria isso?[lr]::
+18740::$$$message_0144_0066_0001$$$::Você deve entender suas próprias habilidades."[lr]::
+18741::$$$message_0144_0066_0002$$$::"...É. Mas tenho que trabalhar duro por Illya. [cacheimage storage=リズ01d(中)][wvl canskip=0 time=400][chgfg time=300 storage=リズ01d(中)]Ela ficará feliz se o castelo estiver quente."::
+18742::$$$message_0144_0067_0000$$$::Tal admirável lealdade.[lr]::
+18743::$$$message_0144_0067_0001$$$::Leys tem ido fazer patrulha todas as noites para que Illya se sinta mais confortável.::
+18744::$$$message_0144_0068_0000$$$::"Você fez bem. Você realmente ama Illya, Leys."[lr]::
+18745::$$$message_0144_0068_0001$$$::"É. Fico feliz quando ela fica feliz."[lr]::
+18746::$$$message_0144_0068_0002$$$::Hmm... que parada de criada. Tenho uma vontade súbita de tocar sua cabeça.::
+18747::$$$message_0144_0069_0000$$$::"...Entendi a situação agora. [cacheimage storage=セラ01c(中)][wvl][chgfg textoff=0 time=300 storage=セラ01c(中)]Pelo respeito ao seu amor pela nossa mestra, vou ignorar o incidente de hoje à noite."[lr]::
+18748::$$$message_0144_0069_0001$$$::"...Você está louco, Sella?"::
+18749::$$$message_0144_0070_0000$$$::"Claro que sou. Se não quer se irritar ainda mais comigo, vá imediatamente para seu quarto e descanse.[lr]::
+18750::$$$message_0144_0070_0001$$$::Sua saúde não pertence apenas a você. Tenho certeza de que entende o que quero dizer, Leysritt."::
+18751::$$$message_0144_0071_0000$$$::"...Desculpe, Sella. [l][say storage=makyo13_riz_0141 name=リズ]Vou voltar agora."[lr]::
+18752::$$$message_0144_0071_0001$$$::Leys sai devagar do pátio.[lr]::
+18753::$$$message_0144_0071_0002$$$::como um cão abandonado.::
+18754::$$$message_0144_0072_0000$$$::"...Foi um pouco dura, Sella.[lr]::
+18755::$$$message_0144_0072_0001$$$::Leys disse que ela fez todas aquelas patrulhas por Illya."::
+18756::$$$message_0144_0073_0000$$$::"Isso é o problema.[lr]::
+18757::$$$message_0144_0073_0001$$$::Leysritt não pode alterar seu horário de operação a contento, como você e eu podemos.[lr]::
+18758::$$$message_0144_0073_0002$$$::Ela está estritamente limitada a doze horas de atividade por dia. Se ultrapassar esse limite, vai encurtar sua vida.[lr]::
+18759::$$$message_0144_0073_0003$$$::Sabendo disso, ainda me pediria que perdoasse suas ações esta noite?"::
+18760::$$$message_0144_0074_0000$$$::"...Então é assim que é.[lr]::
+18761::$$$message_0144_0074_0001$$$::...Desculpe. Eu estava agindo como se soubesse tudo, sem nem saber a situação."[lr]::
+18762::$$$message_0144_0074_0002$$$::"Hmm. Pelo menos agora você entende que é apenas um leigo. Use essa lição para informar suas palavras no futuro."[lr]::
+18763::$$$message_0144_0074_0003$$$::Não se pode discordar disso.[lr]::
+18764::$$$message_0144_0074_0004$$$::É verdade que tenho estado interagindo com esses dois sem pensar em suas posições ultimamente.::
+18765::$$$message_0144_0075_0000$$$::"Suponho que não houvesse como evitar.[lr]::
+18766::$$$message_0144_0075_0001$$$::Você não sabe o que somos capazes de fazer.[lr]::
+18767::$$$message_0144_0075_0002$$$::Fraca é inevitável, mas a ignorância pode ser superada com esforço. Se deseja reparar, então deve aprender com esse sentimento."::
+18768::$$$message_0144_0076_0000$$$::Suas palavras são severas, mas faltam sua habitual hostilidade.[lr]::
+18769::$$$message_0144_0076_0001$$$::Eles são dez vezes menos rancorosos do que o habitual.[lr]::
+18770::$$$message_0144_0076_0002$$$::Eu sinto que estou sendo repreendido, e não odiado.::
+18771::$$$message_0144_0077_0000$$$::"...Tentarei.[lr]::
+18772::$$$message_0144_0077_0001$$$::E você, Sella? Você disse para Leys descansar, mas você também já está acordada por um tempo igual. Você mesmo mencionou que é diferente dela."::
+18773::$$$message_0144_0078_0000$$$::"...Acabei de te pedir para aprender, mas você já deseja uma lição?[lr]::
+18774::$$$message_0144_0078_0001$$$::Muito bem. Se você vai estar ao lado da minha senhora, então não deveria ser completamente ignorante."::
+18775::$$$message_0144_0079_0000$$$::"Leysritt e eu somos unidades irmãs... Não, somos a mesma modelo de homúnculo, mas fomos criadas para propósitos diferentes.[lr]::
+18776::$$$message_0144_0079_0001$$$::Fui criado como um homúnculo puro, enquanto Leysritt foi criado para ser um Código Místico para nossa senhora.[lr]::
+18777::$$$message_0144_0079_0002$$$::Sirvo a Lady Illyasviel como criada, enquanto Leysritt é uma parte literal dela."::
+18778::$$$message_0144_0080_0000$$$::"Leys faz parte da Illya? Pelo Código Místico, você quer dizer..."[lr]::
+18779::$$$message_0144_0080_0001$$$::O Traje do Céu...[lr]::
+18780::$$$message_0144_0080_0002$$$::Um circuito mágico externo para alcançar a Terceira Magia, cultivado pelos magos Einzbern durante milhares de anos.[lr]::
+18781::$$$message_0144_0080_0003$$$::Illya foi criada como uma Grail Menor. Quando ela coloca o vestido, ela atua como a original e perfeita Illyasviel.::
+18782::$$$message_0144_0081_0000$$$::"Leysritt é um homúnculo criado para permitir que nossa mestra use a Roupagem do Céu. Por isso ela carece de certas habilidades básicas de um homúnculo.[lr]::
+18783::$$$message_0144_0081_0001$$$::Eu a poderia descrever como uma Serva Pseudo-Criada por Einzbern.[lr]::
+18784::$$$message_0144_0081_0002$$$::Em troca de ser um familiar com habilidades superiores de combate, Leysritt carece da maioria de seus sentidos, e até seu egocentrismo é deficiente."::
+18785::$$$message_0144_0082_0000$$$::"..."[lr]::
+18786::$$$message_0144_0082_0001$$$::Então, o motivo pelo qual Leys fala tão hesitante não é porque não está acostumada a falar japonês, mas porque...::
+18787::$$$message_0144_0083_0000$$$::"Que você não chegue a conclusões erradas, Mestre Emiya.[lr]::
+18788::$$$message_0144_0083_0001$$$::Leysritt não é de forma alguma inferior a você. Assim como a Senhora Illyasviel, ela é um sucesso que alguém poderia considerar uma cristalização da sabedoria dos Einzberns.[lr]::
+18789::$$$message_0144_0083_0002$$$::...Se tivesse que descrever um defeito, seria que nosso patriarca era muito bom no seu trabalho.[lr]::
+18790::$$$message_0144_0083_0003$$$::Ela era apenas suposta ser um amontoado de Éter que manifesta a Roupagem do Céu, mas foi dotada de um ego, incompleto que possa ser."::
+18791::$$$message_0144_0084_0000$$$::"Leysritt e eu fomos criados há aproximadamente dois anos.[lr]::
+18792::$$$message_0144_0084_0001$$$::Por padrões humanos, Leysritt ainda é uma criança, mas o conceito de idade é irrelevante para nós homúnculos.[lr]::
+18793::$$$message_0144_0084_0002$$$::Herdamos todo o conhecimento e ethos que precisamos de natureza no momento em que nascemos. Não precisamos desperdiçar tempo madurando ao longo de vários anos."::
+18794::$$$message_0144_0085_0000$$$::"..."[lr]::
+18795::$$$message_0144_0085_0001$$$::Sella diz que não madurecem.[lr]::
+18796::$$$message_0144_0085_0002$$$::Isso implica que eles também não crescerão mais.[lr]::
+18797::$$$message_0144_0085_0003$$$::"Espere. Mas Illya faz..."::
+18798::$$$message_0144_0086_0000$$$::"Nossa mestra nasceu do ovo da Lady Irisviel e do sêmen de Kiritsugu Emiya.[lr]::
+18799::$$$message_0144_0086_0001$$$::Ela realmente nasceu como um bebê humano, mas seu crescimento parou em sua fase atual."::
+18800::$$$message_0144_0087_0000$$$::"Ela é uma ordem superior de vida, tanto homúnculo quanto humana.[lr]::
+18801::$$$message_0144_0087_0001$$$::Nos nossos olhos, ela é nada mais do que um milagre. Criaturas impuras como humanos não são dignas de tocar nela."::
+18802::$$$message_0144_0088_0000$$$::Sella parece ofegante.[lr]::
+18803::$$$message_0144_0088_0001$$$::...Então é por isso que ela sempre é tão hostil. Sella não vê apenas Illya como a herdeira Einzbern. Ela tem preconceito contra mim devido à forma como se orgulha de Illya.::
+18804::$$$message_0144_0089_0000$$$::"...Espera, dois anos?[lr]::
+18805::$$$message_0144_0089_0001$$$::Então vocês dois são mais novos do que eu?"::
+18806::$$$message_0144_0090_0000$$$::"Diga-me que faltamos um conceito de idade.[lr]::
+18807::$$$message_0144_0090_0001$$$::Seremos sempre ambos mais velhos e mais jovens do que você.[lr]::
+18808::$$$message_0144_0090_0002$$$::Um homúnculo perfeito é um sentimento tátil da natureza, criado pelos humanos. Enquanto estivermos conectados a esse planeta, enquanto sua mana preencher a atmosfera, nunca morreremos."[lr]::
+18809::$$$message_0144_0090_0003$$$::"Hmm... Imortal?"::
+18810::$$$message_0144_0091_0000$$$::"Infelizmente, ainda pereceremos se destruídos. Embora nosso conceito de mortalidade seja mais forte do que o seu, somos seres vastamente inferiores.[lr]::
+18811::$$$message_0144_0091_0001$$$::Leysritt pode ter superado alguns desses limites... mas ela está excessivamente sincronizada com nossa mestra. Assim que as funções vitais de Lady Illyasviel pararem, Leysritt também deixará de funcionar."::
+18812::$$$message_0144_0092_0000$$$::"...Você quer dizer que os Leys morrerão se Illya morrer?"[lr]::
+18813::$$$message_0144_0092_0001$$$::"Sim. Leysritt é a ferramenta da nossa mestra. Ela é uma parte literal dela. Se a Illyasviel, o corpo principal, morrer, isso afetará sua terminal, Leysritt."::
+18814::$$$message_0144_0093_0000$$$::"Ainda assim, há vantagens nesse arranjo.[lr]::
+18815::$$$message_0144_0093_0001$$$::Leysritt não possuía uma psique concreta quando foi criada, mas ganhou uma inteligência assim que foi conectada à nossa mestra."::
+18816::$$$message_0144_0094_0000$$$::"Você ouviu o que ela disse antes: que ela é feliz se sua mestra estiver feliz.[lr]::
+18817::$$$message_0144_0094_0001$$$::É a verdade.[lr]::
+18818::$$$message_0144_0094_0002$$$::Leysritt, com sua fraca noção de si mesma, está aprendendo a imitar ser humana ao emular sua ama."::
+18819::$$$message_0144_0095_0000$$$::"...Essa garota vê nossa mestra como um tesouro a proteger e parte dela mesma.[cacheimage storage=セラ01c汗(中)][wvl canskip=0 time=800][chgfg textoff=0 time=200 storage=セラ01c汗(中)] Claro, ela está tão imersa nessa ideia que às vezes esquece seus próprios limites físicos."::
+18820::$$$message_0144_0096_0000$$$::"Ela está colocando a carroça antes dos bois", murmura Sella.[lr]::
+18821::$$$message_0144_0096_0001$$$::"..."[lr]::
+18822::$$$message_0144_0096_0002$$$::E por isso Leys trabalha tão duro para ajudar Illya.[lr]::
+18823::$$$message_0144_0096_0003$$$::...Illya representa algo que Leys não pode obter sozinha.[lr]::
+18824::$$$message_0144_0096_0004$$$::Illya é sua esperança. Ela dá a Leys algo que ela nunca teve antes.::
+18825::$$$message_0144_0097_0000$$$::"...Hey, você disse que os Leys compartilhariam o destino de Illya se algo ruim acontecesse com ela.[lr]::
+18826::$$$message_0144_0097_0001$$$::Mas e você? Você também é um homúnculo, então..."::
+18827::$$$message_0144_0098_0000$$$::"Não consigo sincronizar com minha mestra em tal grau.[lr]::
+18828::$$$message_0144_0098_0001$$$::Enquanto Leysritt foi forjado exclusivamente a partir de Mistérios Einzbern, eu fui criado utilizando alquimia comum.[lr]::
+18829::$$$message_0144_0098_0002$$$::Funciono perfeitamente como um homúnculo, mas não posso realizar milagres como Lady Illyasviel e Leysritt. Uma vez que elas partam para o Trono do Céu, meu papel é apodrecer aqui."[lr]::
+18830::$$$message_0144_0098_0003$$$::"..."::
+18831::$$$message_0144_0099_0000$$$::"E você está me olhando desse jeito por quê?[lr]::
+18832::$$$message_0144_0099_0001$$$::Minha taumaturgia é de qualidade excepcional, mesmo que eu esteja fisicamente deficiente. Não preciso da compaixão humana, muito menos daquela de um mágico tão mal-sucedido quanto você, Shirou Emiya."::
+18833::$$$message_0144_0100_0000$$$::...Aparentemente Sella é tanto a governanta quanto a professora de taumaturgia de Illya.[lr]::
+18834::$$$message_0144_0100_0001$$$::Ela é uma criada que foi feita para especializar-se na taumaturgia ao ponto de poder ensinar Illya.[lr]::
+18835::$$$message_0144_0100_0002$$$::Não é surpresa que ela tenha tanta baixa opinião de mim.::
+18836::$$$message_0144_0101_0000$$$::"...Metade pronta, hein? Tenho feito o que posso para me treinar. Acho que ainda pareço um pintinho para você."[lr]::
+18837::$$$message_0144_0101_0001$$$::"Absolutamente. Você ainda é uma galinha cantarolante. Não consigo confiar minha senhora nas mãos de alguém como você."::
+18838::$$$message_0144_0102_0000$$$::Sella esfrega o nariz e se vira para longe.[lr]::
+18839::$$$message_0144_0102_0001$$$::Talvez ela esteja em um bom humor depois de me repreender, ou talvez algo tenha acontecido.[lr]::
+18840::$$$message_0144_0102_0002$$$::Penso ter visto um traço de sorriso.::
+18841::$$$message_0144_0103_0000$$$::"Ah, sim. Já mandei buscar a coberta, conforme prometido. Deverá estar em seu quarto quando retornar."[lr]::
+18842::$$$message_0144_0103_0001$$$::"Ah... Sim, obrigado. Esqueci completamente depois do que aconteceu com os Leys."[lr]::
+18843::$$$message_0144_0103_0002$$$::"Então, deixo-me.[lr]::
+18844::$$$message_0144_0103_0003$$$::Obrigado pela ajuda no cellar de vinho e no pátio. Se precisar de algo mais, tentarei garantir que suas necessidades sejam atendidas."::
+18845::$$$message_0144_0104_0000$$$::Sella endireita a costas e caminha embora com passos decididos.[lr]::
+18846::$$$message_0144_0104_0001$$$::"Bem."[lr]::
+18847::$$$message_0144_0104_0002$$$::Acho melhor voltar para meu quarto.[lr]::
+18848::$$$message_0144_0104_0003$$$::Estou exausto depois de tudo isso. Isso deve me ajudar a dormir em breve.::
+918693::$$$message_9144_0050_0005$$$::"Que surpresa. Shirou e Sella, vocês são amigos?"[r]::
+
