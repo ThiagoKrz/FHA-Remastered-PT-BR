@@ -8,8 +8,8 @@ id=qid::label=str::text=lstr::
 31515::$$$message_0246_0000_0005$$$::...Ah, sim.[lr]::
 31516::$$$message_0246_0000_0006$$$::Já se passaram meio ano desde que a guerra terminou.::
 31517::$$$message_0246_0001_0000$$$::"Então, como esse combate vai dar? Você disse que conhece as táticas do oponente. Tem um plano pra eles?"[lr]::
-31518::$$$message_0246_0001_0001$$$::O resultado deste combate depende de se conseguirmos neutralizar Fragarach, a carta do adversário Mestre que ainda não conheço.[lr]::
-31519::$$$message_0246_0001_0002$$$::"Não, não posso parar a Fragarach. É um interceptor bem feito de um Fantasma Nobre. Vamos perder se enfrentarmos diretamente.[lr]::
+31518::$$$message_0246_0001_0001$$$::O resultado desta batalha depende de conseguirmos neutralizar Fragarach, o trunfo da Mestre inimiga que ainda não conheci.[lr]::
+31519::$$$message_0246_0001_0002$$$::"Não, não posso deter Fragarach. É um Fantasma Nobre feito para interceptar outro Fantasma Nobre. Se a enfrentarmos de frente, vamos perder.[lr]::
 31520::$$$message_0246_0001_0003$$$::Você pode considerar Fragarach como o último recurso, em um confronto entre cartas marcadas."::
 31521::$$$message_0246_0002_0000$$$::Lancer continua a descrever Fragarach.[lr]::
 31522::$$$message_0246_0002_0001$$$::Ele diz que não há como destruí-lo, que é uma arma de projétil concebida para atrair o oponente para um ataque de tudo ou nada, projetada para responder imediatamente ao trunfo de um inimigo assim que ele o usar.[lr]::
@@ -45,13 +45,13 @@ id=qid::label=str::text=lstr::
 31552::$$$message_0246_0009_0005$$$::Lancer demonstra sua vontade pura de lutar, sem perder tempo com apresentações.::
 31553::$$$message_0246_0010_0000$$$::"Avenger. Quem é isso?"[lr]::
 31554::$$$message_0246_0010_0001$$$::Bazett pergunta ao sombra uma pergunta.[lr]::
-31555::$$$message_0246_0010_0002$$$::"Alguém do tipo Servant. Não é óbvio?"[wm canskip=0]::
-31556::$$$message_0246_0011_0000$$$::"Isso não pode estar certo. Nunca houve um Servant assim antes.[lr]::
-31557::$$$message_0246_0011_0001$$$::Que Servant é esse, Avenger?[lr]::
+31555::$$$message_0246_0010_0002$$$::"Algum tipo de Servo. Não é óbvio?"[wm canskip=0]::
+31556::$$$message_0246_0011_0000$$$::"Isso não pode estar certo. Nunca houve um Servo assim antes.[lr]::
+31557::$$$message_0246_0011_0001$$$::Que Servo é esse, Avenger?[lr]::
 31558::$$$message_0246_0011_0002$$$::Ele não é uma Saber.[l][say storage=ngh0125_baz_0023 name=バゼット] Nem um Archer, tampouco. [l][say storage=ngh0125_baz_0024 name=バゼット] Nem um Rider, Caster ou Assassin.[lr]::
 31559::$$$message_0246_0011_0003$$$::Isso..."[wm canskip=0]::
 31560::$$$message_0246_0012_0000$$$::"Como eu disse, é óbvio.[lr]::
-31561::$$$message_0246_0012_0001$$$::Olhe, Mestre. Você realmente não sabe nada depois de ver nossa presa?"::
+31561::$$$message_0246_0012_0001$$$::Olhe, Mestre. Depois de ver a nossa presa, você ainda não percebeu nada?"::
 31562::$$$message_0246_0013_0000$$$::A sombra sussurra.[lr]::
 31563::$$$message_0246_0013_0001$$$::E tudo de uma vez,[lr]::
 31564::$$$message_0246_0013_0002$$$::A maga perde a vontade de lutar.[lr]::
@@ -63,8 +63,8 @@ id=qid::label=str::text=lstr::
 31570::$$$message_0246_0014_0003$$$::O gesto não tem a mesma firmeza que tinha antes.::
 31571::$$$message_0246_0015_0000$$$::"E-ei, por favor. Eu... eu não tenho nenhum motivo para lutar contra você.[lr]::
 31572::$$$message_0246_0015_0001$$$::Você também não tem razão para lutar contra mim."[lr]::
-31573::$$$message_0246_0015_0002$$$::"Claro que sim. Você está aqui para ganhar a Guerra do Santo Graal.[lr]::
-31574::$$$message_0246_0015_0003$$$::A guerra não termina até que todos os outros Servants sejam derrotados.[lr]::
+31573::$$$message_0246_0015_0002$$$::"Claro que sei. Você está aqui para vencer a Guerra do Santo Graal.[lr]::
+31574::$$$message_0246_0015_0003$$$::A guerra só termina quando todos os outros Servos forem derrotados.[lr]::
 31575::$$$message_0246_0015_0004$$$::Agora você está aqui para me matar."::
 31576::$$$message_0246_0016_0000$$$::O som escuro riu.[lr]::
 31577::$$$message_0246_0016_0001$$$::É um riso de concordância.::
@@ -97,7 +97,7 @@ id=qid::label=str::text=lstr::
 31604::$$$message_0246_0024_0003$$$::"...é minha!!!"::
 31605::$$$message_0246_0025_0000$$$::Ao mesmo tempo, os Verdadeiros Nomes são invocados e armas são lançadas.[lr]::
 31606::$$$message_0246_0025_0001$$$::Primeiro está a lança vermelha maldita, Gáe Bolg.[lr]::
-31607::$$$message_0246_0025_0002$$$::"Você me subestima, Servant!"[lr]::
+31607::$$$message_0246_0025_0002$$$::"Você me subestima, Servo!"[lr]::
 31608::$$$message_0246_0025_0003$$$::Fragarach, a Espada de Luz Retrógrada, intercepta Gáe Bolg.[lr]::
 31609::$$$message_0246_0025_0004$$$::Não existe tal coisa como "esperar e ver" quando se trata de Ath nGabla.[lr]::
 31610::$$$message_0246_0025_0005$$$::Ambos os combatentes se movem para aniquilar-se com seus ataques mais poderosos!::
@@ -113,7 +113,7 @@ id=qid::label=str::text=lstr::
 31620::$$$message_0246_0028_0000$$$::Devido à propriedade única deste Pergaminho Nobre, ele nunca pode ser ultrapassado.[lr]::
 31621::$$$message_0246_0028_0001$$$::A condição para ativar Fragarach é o inimigo usar sua carta maestra.[lr]::
 31622::$$$message_0246_0028_0002$$$::O inimigo deve sempre agir primeiro.[lr]::
-31623::$$$message_0246_0028_0003$$$::Assim, a mágica será destruída pelo Fantasma Nobre inimigo, mesmo que a dela derrote o inimigo.[lr]::
+31623::$$$message_0246_0028_0003$$$::Assim, a maga será destruída pelo Fantasma Nobre inimigo, mesmo que o dela derrote o oponente.[lr]::
 31624::$$$message_0246_0028_0004$$$::Na verdade, esse contra-ataque absolutamente letal é destinado a resultar na morte mútua dos combatentes.::
 31625::$$$message_0246_0029_0000$$$::No entanto, a espada de Bazett supera esse defeito.[lr]::
 31626::$$$message_0246_0029_0001$$$::Ativa imediatamente após o inimigo usar seu Pergaminho Nobre, ultrapassando-o independentemente de quão rápido ele seja para atingi-lo verdadeiramente e matá-lo.[lr]::
@@ -122,7 +122,7 @@ id=qid::label=str::text=lstr::
 31629::$$$message_0246_0029_0004$$$::O Que Lança Segundo e Ataca Primeiro.[lr]::
 31630::$$$message_0246_0029_0005$$$::Como sugere seu título, Fragarach distorce a causalidade, reescrevendo o ataque do seu usuário como tendo ocorrido [font italic=true]em antecipação[font italic=false].::
 31631::$$$message_0246_0030_0000$$$::E o resultado...[lr]::
-31632::$$$message_0246_0030_0001$$$::...significa que, por mais poderoso que seja o Fantasma Nobre do inimigo, ele nunca terá a chance de usá-lo.[lr]::
+31632::$$$message_0246_0030_0001$$$::...significa que, por mais poderoso que seja o Fantasma Nobre do inimigo, ele jamais terá a chance de usá-lo.[lr]::
 31633::$$$message_0246_0030_0002$$$::O derrotado não tem oportunidade de contra-atacar.[lr]::
 31634::$$$message_0246_0030_0003$$$::Fragarach é um Código Místico que exagera esse fato.[lr]::
 31635::$$$message_0246_0030_0004$$$::É um maldição conceitual que distorce a própria destino.::
@@ -134,7 +134,7 @@ id=qid::label=str::text=lstr::
 31641::$$$message_0246_0032_0001$$$::A espada do deus da guerra atravessa o campo de batalha.[lr]::
 31642::$$$message_0246_0032_0002$$$::Não há como destruir Fragarach uma vez que ela tenha sido lançada.[lr]::
 31643::$$$message_0246_0032_0003$$$::Lancer sabe perfeitamente que perderá no instante em que Gáe Bolg e Fragarach se encontrarem.::
-31644::$$$message_0246_0033_0000$$$::Se houver algo que não perderia contra a espada do deus da guerra, seria algo com múltiplas vidas, ou um Fantasma Nobre de ressurreição que ativa automaticamente.[lr]::
+31644::$$$message_0246_0033_0000$$$::Se existe algo que não perderia para a espada do deus da guerra, seria algo com múltiplas vidas ou um Fantasma Nobre de ressurreição que se ativa automaticamente.[lr]::
 31645::$$$message_0246_0033_0001$$$::Na verdade, a capacidade de voltar à vida após a morte é a contra-medida natural de Fragarach.[lr]::
 31646::$$$message_0246_0033_0002$$$::Claro, o Lancer não possui tal Pergaminho Nobre.[lr]::
 31647::$$$message_0246_0033_0003$$$::O cavaleiro envolvido nesse duelo sabia exatamente como terminaria.::
@@ -199,7 +199,7 @@ id=qid::label=str::text=lstr::
 31706::$$$message_0246_0046_0001$$$::Ela rompe.[lr]::
 31707::$$$message_0246_0046_0002$$$::A dor e a surpresa fazem com que suas memórias seladas saiam como água de um dique rompido.::
 31708::$$$message_0246_0047_0000$$$::Enquanto a maldição de Fragarach muda a sequência dos eventos, a lança maldita do Lancer inverte a causalidade em si mesma.[lr]::
-31709::$$$message_0246_0047_0001$$$::Assim que seu Nome Verdadeiro foi invocado, Gáe Bolg possuía o resultado de que já havia atingido o coração do alvo.[lr]::
+31709::$$$message_0246_0047_0001$$$::Assim que seu Nome Verdadeiro foi invocado, Gáe Bolg já carregava em si o resultado de ter atravessado o coração do alvo.[lr]::
 31710::$$$message_0246_0047_0002$$$::Portanto, é fútil retornar ao momento antes de sua ativação e matar seu dono.[lr]::
 31711::$$$message_0246_0047_0003$$$::A lança que carrega o resultado de perfurar um coração executará fielmente sua função, mesmo que seu guerreiro esteja morto.::
 31712::$$$message_0246_0048_0000$$$::Entendi.[lr]::
@@ -223,7 +223,7 @@ id=qid::label=str::text=lstr::
 31730::$$$message_0246_0052_0000$$$::"Eu sei disso. É..."[lr]::
 31731::$$$message_0246_0052_0001$$$::Ela alcança o bolso.[lr]::
 31732::$$$message_0246_0052_0002$$$::mas o braço dela não consegue mais se mover, então ela não consegue tirar o talismã que estava guardando dentro.::
-31733::$$$message_0246_0053_0000$$$::"Ah... Hey, espera.[lr]::
+31733::$$$message_0246_0053_0000$$$::"Ah... Ei, espera.[lr]::
 31734::$$$message_0246_0053_0001$$$::Eu... Eu tenho um desses."[lr]::
 31735::$$$message_0246_0053_0002$$$::Mesmo ela não sabe o que está tentando dizer.[lr]::
 31736::$$$message_0246_0053_0003$$$::Mas ela se sente terrivelmente, terrivelmente triste por não poder mostrar a ele o que tem na bolsa. Tão triste que nem sabe mais o que é.::
@@ -238,26 +238,26 @@ id=qid::label=str::text=lstr::
 31745::$$$message_0246_0055_0002$$$::Ele apoia seu lança como um bastão, sustentando sua forma sangrenta.::
 31746::$$$message_0246_0056_0000$$$::"..."[lr]::
 31747::$$$message_0246_0056_0001$$$::...Em qualquer caso, a batalha foi vencida.[lr]::
-31748::$$$message_0246_0056_0002$$$::Apenas o Servant de Bazett, Avenger, permanece.[lr]::
-31749::$$$message_0246_0056_0003$$$::Agora que perdeu seu Mestre, provavelmente não é muito forte.::
+31748::$$$message_0246_0056_0002$$$::Resta apenas o Servo de Bazett, Avenger.[lr]::
+31749::$$$message_0246_0056_0003$$$::Agora que perdeu a Mestre, ele provavelmente não é tão forte assim.::
 31750::$$$message_0246_0057_0000$$$::"Muito bem.[lr]::
 31751::$$$message_0246_0057_0001$$$::Você ainda tem algum espírito de batalha para me dar, Lancer?"[lr]::
 31752::$$$message_0246_0057_0002$$$::"Eu realmente faço... ou pelo menos quero dizer isso, mas, bem...[lr]::
 31753::$$$message_0246_0057_0003$$$::Parece que tenho problemas próprios."::
 31754::$$$message_0246_0058_0000$$$::O corpo do Lancer está desaparecendo.[lr]::
 31755::$$$message_0246_0058_0001$$$::O duelo entre Fragarach e Gáe Bolg resultou em um matar mútuo.[lr]::
-31756::$$$message_0246_0058_0002$$$::Cada guerreiro recebeu o impacto do Fantasma Nobre do outro. O Lancer não vai embora assim.::
+31756::$$$message_0246_0058_0002$$$::Cada combatente recebeu em cheio o Fantasma Nobre do outro. Lancer não vai sair andando depois disso.::
 31757::$$$message_0246_0059_0000$$$::"Desculpe. Vá em frente e faça o que quiser.[lr]::
 31758::$$$message_0246_0059_0001$$$::Meu trabalho aqui está feito de qualquer forma, não é, criança?"[lr]::
 31759::$$$message_0246_0059_0002$$$::Talvez alguém possa chamá-lo de uma saída elegante.[lr]::
 31760::$$$message_0246_0059_0003$$$::Com um murmúrio de despedida sobre não parecer muito elegante, ele deixa a mundo de forma casual.::
 31761::$$$message_0246_0060_0000$$$::"..."[lr]::
 31762::$$$message_0246_0060_0001$$$::...Mas o que acontece agora?[lr]::
-31763::$$$message_0246_0060_0002$$$::Derrotamos a Bazett, a quem acreditávamos ter recriado a Guerra do Santo Graal.[lr]::
+31763::$$$message_0246_0060_0002$$$::Derrotamos Bazett, que acreditávamos ter recriado a Guerra do Santo Graal.[lr]::
 31764::$$$message_0246_0060_0003$$$::Nada de dramático aconteceu ainda, mas assim que o amanhecer chegar, devemos estar livres das correntes do quarto dia.[line len=2]::
-31765::$$$message_0246_0061_0000$$$::"Como se não fosse. A Guerra do Santo Graal não vai acabar só porque você matou a Bazett. Além disso, ela voltará à vida enquanto eu estiver aqui."[lr]::
+31765::$$$message_0246_0061_0000$$$::"Como se isso bastasse. A Guerra do Santo Graal não vai acabar só porque você matou Bazett. Além disso, ela vai voltar à vida enquanto eu continuar por aqui."[lr]::
 31766::$$$message_0246_0061_0001$$$::O som escuro riu.[lr]::
-31767::$$$message_0246_0061_0002$$$::O Avenger ainda existe sem qualquer punição óbvia, mesmo que seu Mestre esteja morto.::
+31767::$$$message_0246_0061_0002$$$::Avenger continua existindo sem qualquer penalidade aparente, mesmo com sua Mestre morta.::
 31768::$$$message_0246_0062_0000$$$::"Você..."[lr]::
 31769::$$$message_0246_0062_0001$$$::"Calma, não fique tão bravo.[lr]::
 31770::$$$message_0246_0062_0002$$$::Você matou a Bazett, afinal de contas. Tem uma grande apresentação em espera para você."[lr]::
@@ -268,30 +268,30 @@ id=qid::label=str::text=lstr::
 31775::$$$message_0246_0065_0000$$$::"Rrgh... [wvl canskip=0 time=800] Espera, o que...[lr]::
 31776::$$$message_0246_0065_0001$$$::Isso não quer lutar...?"[lr]::
 31777::$$$message_0246_0065_0002$$$::Os monstros nem sequer se mexem.[lr]::
-31778::$$$message_0246_0065_0003$$$::Os olhos brilhantes e ardentes não só me encaram, mas também o Servant.[lr]::
+31778::$$$message_0246_0065_0003$$$::Os olhos brilhantes e incandescentes não se voltam apenas para mim, mas também para o Servo.[lr]::
 31779::$$$message_0246_0065_0004$$$::...Eles riam com satisfação pelos fracassos dos outros.::
 31780::$$$message_0246_0066_0000$$$::"YEs, YES, yOu FailED agAIn!"[rf]::
-31781::$$$message_0246_0067_0000$$$::"...Maldição. Eles pensam que sou um deles agora que perdi meu Mestre."[lr]::
+31781::$$$message_0246_0067_0000$$$::"...Droga. Agora que perdi a minha Mestre, eles acham que eu sou um deles."[lr]::
 31782::$$$message_0246_0067_0001$$$::Sua voz é como a de um criminoso condenado com medo da morte.[lr]::
 31783::$$$message_0246_0067_0002$$$::Como se ele não quisesse ser o próximo a ser cortado.[lr]::
-31784::$$$message_0246_0067_0003$$$::O Servant olha para mim com sincera esperança de ajuda, e...[lr]::
+31784::$$$message_0246_0067_0003$$$::O Servo me lança um olhar sincero, pedindo ajuda, e...[lr]::
 31785::$$$message_0246_0067_0004$$$::...muda-se em uma monstruosidade distorcida.::
 31786::$$$message_0246_0068_0000$$$::"Sim sim sim!"[rf]::
 31787::$$$message_0246_0069_0000$$$::"O que... o diabo você é!?"[lr]::
 31788::$$$message_0246_0069_0001$$$::Ele é só como eles.[lr]::
-31789::$$$message_0246_0069_0002$$$::O Servant chamado Avenger se derrete completamente, transformando-se em algo como os monstros.::
+31789::$$$message_0246_0069_0002$$$::O Servo chamado Avenger derrete por completo, transformando-se em algo parecido com os monstros.::
 31790::$$$message_0246_0070_0000$$$::"E agora, falhei.[lr]::
 31791::$$$message_0246_0070_0001$$$::Olhe bem, Shirou Emiya. Este é o meu verdadeiro ser. Falho eternamente. Morro eternamente.[lr]::
-31792::$$$message_0246_0070_0002$$$::Enquanto eu estiver aqui, a Guerra do Santo Graal nunca terminará."::
+31792::$$$message_0246_0070_0002$$$::Enquanto eu existir, a Guerra do Santo Graal nunca vai terminar."::
 31793::$$$message_0246_0071_0000$$$::"VOCÊ TAMBÉM, VOCÊ TAMBÉM, VOCÊ TAMBÉM...!"[rf]::
 31794::$$$message_0246_0072_0000$$$::Ele treme, os dentes batendo.[lr]::
 31795::$$$message_0246_0072_0001$$$::A coisa que outrora foi o Avenger sangra por todo o corpo, escondendo-se em medo dos monstros ao redor. No entanto, continua a gritar, sua sanidade intacta.::
-31796::$$$message_0246_0073_0000$$$::"OuçAm. AlcAnCeM o sEnTiR dO cÉu. hAh, KeE, hAhRgH, gERgH, enterre o vazio. PArE. Preencha O Santo Graal. PArE COM ISSO PArE COM ISSO. MaSSaCrE tOdAs As pOsSiBiLiDaDeS. PArE COM ISSO PArE COM ISSO PArE COM ISSO, eU nÃo cOnSiGo vEr eU nÃo cOnSiGo vEr eU nÃo cOnSiGo vEr nAdA...! iSsO mEsMo, vEnHa mE mAtAr, o vErDaDeIrO mOnsTrO, PArE COM ISSO PArE COM ISSO, fIqUe lOnGe, sE vOcÊ vIeR mE mAtAr eU tE mAtO...!!!"::
+31796::$$$message_0246_0073_0000$$$::"oUçam. aLcAncem hEaVeN'S fEEL. haH, KeE, haRGh, GERGH, enterrem o vazio. PAREM. Preencham o Santo Graal. PAREM PAREM. Massacrem todas as possibilidades. PAREM PAREM PAREM, eu não consigo ver, eu não consigo ver, eu não consigo ver nada...! iSSo mEsMo, venham me matar, o verdadeiro monstro, PAREM PAREM, fIquem longe, se vocês vierem me matar eu mato vocês...!!!"::
 31797::$$$message_0246_0074_0000$$$::...Os monstros consomem a sombra escura.[lr]::
 31798::$$$message_0246_0074_0001$$$::Não lhes leva muito tempo para concluir o ritual.[lr]::
 31799::$$$message_0246_0074_0002$$$::Um a um, os monstros desaparecem, deixando um novo,[lr]::
 31800::$$$message_0246_0074_0003$$$::criatura sem sentido, repulsiva, que se enroca em seus calcanhares.::
-31801::$$$message_0246_0075_0000$$$::"[lr]::
+31801::$$$message_0246_0075_0000$$$::"                            "[lr]::
 31802::$$$message_0246_0075_0001$$$::Os nossos olhos se encontram.[lr]::
 31803::$$$message_0246_0075_0002$$$::O monstro inclina a cabeça com curiosidade, depois pula para a grama como uma rã.::
 31804::$$$message_0246_0076_0000$$$::"..."[lr]::
@@ -299,7 +299,7 @@ id=qid::label=str::text=lstr::
 31806::$$$message_0246_0076_0002$$$::Não há rastro do corpo de Bazett. Estou provavelmente de volta ao primeiro dia.::
 31807::$$$message_0246_0077_0000$$$::"...Céu...Sentimento...?"[lr]::
 31808::$$$message_0246_0077_0001$$$::Já ouvi isso antes.[lr]::
-31809::$$$message_0246_0077_0002$$$::Heaven's Feel. Na Guerra do Santo Graal há meio ano, havia uma garota que usava esse título.[lr]::
+31809::$$$message_0246_0077_0002$$$::Heaven's Feel. Na Guerra do Santo Graal de meio ano atrás, houve uma garota conhecida por esse nome.[lr]::
 31810::$$$message_0246_0077_0003$$$::...Isso é tudo o que consigo me lembrar agora.[lr]::
 31811::$$$message_0246_0077_0004$$$::O amanhecer surge, trazendo o fim do dia.[lr]::
 31812::$$$message_0246_0077_0005$$$::O caminho final é mostrado a mim, no castelo invernal onde a menina espera...::

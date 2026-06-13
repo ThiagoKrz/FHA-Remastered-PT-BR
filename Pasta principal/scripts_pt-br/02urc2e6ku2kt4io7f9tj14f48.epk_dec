@@ -1,88 +1,88 @@
 DAT
 id=qid::label=str::text=lstr::
-4256::$$$message_0032_0000_0000$$$::Olho distraído para o quintal e vejo que há bastante folhas caídas.[lr]::
-4257::$$$message_0032_0000_0001$$$::Eu tenho algum tempo, então vou arrumar um pouco o quintal.[seloop storage=se513.wav][lr]::
-4258::$$$message_0032_0000_0002$$$::Hoje não há vento, então consigo reunir todas as folhas mortas com bom tempo.[lr]::
+4256::$$$message_0032_0000_0000$$$::Olho distraidamente para o quintal e vejo um monte de folhas caídas.[lr]::
+4257::$$$message_0032_0000_0001$$$::Ainda tenho um tempinho, então resolvo dar uma limpada no quintal.[seloop storage=se513.wav][lr]::
+4258::$$$message_0032_0000_0002$$$::Como hoje não venta, junto todas as folhas secas num instante.[lr]::
 4259::$$$message_0032_0000_0003$$$::"O que você está fazendo, Shirou?"::
-4260::$$$message_0032_0001_0000$$$::Viro para encarar o falante. Saber está me observando. Parece que ela acabou de sair da porta da casa.[lr]::
-4261::$$$message_0032_0001_0001$$$::"Oh, Saber. Estou limpando o jardim, como você pode ver."[lr]::
-4262::$$$message_0032_0001_0002$$$::[chgfg time=300 storage=セイバー私服04e(遠) textoff=0]Mostro-lhe a vassoura que estou segurando.[lr]::
-4263::$$$message_0032_0001_0003$$$::Saber olha para minha pilha de folhas, depois para o tamanho do quintal e suspira.::
-4264::$$$message_0032_0002_0000$$$::"Isso deve ser difícil sozinho. Por que não pediu ajuda a alguém?"[lr]::
-4265::$$$message_0032_0002_0001$$$::"Eh...? Nenhum motivo real. Apenas achei que faria sozinho."::
-4266::$$$message_0032_0003_0000$$$::"Shirou, duas mãos trabalham mais rápido do que uma. Isso reduzirá a carga sobre você. O resto de nós também mora nessa casa, então você deveria ter perguntado."[lr]::
-4267::$$$message_0032_0003_0001$$$::Frustrada, Saber pega o varal da minha mão.[lr]::
-4268::$$$message_0032_0003_0002$$$::"Bem, claro, mas[line len=2]"::
-4269::$$$message_0032_0004_0000$$$::"Escute. Não é errado pedir ajuda. Se algum de nós estiver ocioso, então é completamente natural pedir-nos ajuda."[lr]::
-4270::$$$message_0032_0004_0001$$$::Ela puxa o fio da vassoura no meu nariz.::
-4271::$$$message_0032_0005_0000$$$::"Um, okay. Eu vou fazer o meu melhor."::
-4272::$$$message_0032_0006_0000$$$::"...Hmm. Muito bem. Agora você sabe o que fazer no futuro."[wait canskip=false time=300][wvs][seloop storage=se513.wav][clfg time=300 rule=シャッター左から storage=セイバー私服02c(中) textoff=0][lr]::
+4260::$$$message_0032_0001_0000$$$::Viro para quem falou. Saber me observa. Parece que ela acabou de sair pela porta da frente da casa.[lr]::
+4261::$$$message_0032_0001_0001$$$::"Oh, Saber. Estou limpando o quintal, como você pode ver."[lr]::
+4262::$$$message_0032_0001_0002$$$::[chgfg time=300 storage=セイバー私服04e(遠) textoff=0]Mostro a ela a vassoura que tenho na mão.[lr]::
+4263::$$$message_0032_0001_0003$$$::Saber olha para o monte de folhas, depois para o tamanho do quintal, e suspira.::
+4264::$$$message_0032_0002_0000$$$::"Deve ser difícil fazer isso sozinho. Por que não pediu ajuda a ninguém?"[lr]::
+4265::$$$message_0032_0002_0001$$$::"Hã...? Não teve motivo nenhum. Eu só achei que faria sozinho."::
+4266::$$$message_0032_0003_0000$$$::"Shirou, duas pessoas trabalham mais rápido do que uma. Isso reduziria o seu trabalho. Nós também moramos nesta casa, então você deveria ter pedido."[lr]::
+4267::$$$message_0032_0003_0001$$$::Exasperada, Saber toma a vassoura da minha mão.[lr]::
+4268::$$$message_0032_0003_0002$$$::"Bom, tudo bem, mas[line len=2]"::
+4269::$$$message_0032_0004_0000$$$::"Escute. Não há nada de errado em pedir ajuda. Se algum de nós estiver sem fazer nada, o natural é pedir nossa ajuda."[lr]::
+4270::$$$message_0032_0004_0001$$$::Ela encosta a ponta do cabo da vassoura no meu nariz.::
+4271::$$$message_0032_0005_0000$$$::"Tá bom. Vou fazer o meu melhor."::
+4272::$$$message_0032_0006_0000$$$::"...Hrm. Muito bem. Agora você já sabe o que fazer da próxima vez."[wait canskip=false time=300][wvs][seloop storage=se513.wav][clfg time=300 rule=シャッター左から storage=セイバー私服02c(中) textoff=0][lr]::
 4273::$$$message_0032_0006_0001$$$::Saber me ajuda a limpar o resto do quintal.::
-4274::$$$message_0032_0007_0000$$$::...Ela é uma trabalhadora árdua.[lr]::
-4275::$$$message_0032_0007_0001$$$::Eu ia só fazer uma limpeza leve, [sestop time=1000 nowait=true] mas enquanto estamos aí, tiramos a carrinha e carregamos todas as folhas mortas nela.[lr]::
-4276::$$$message_0032_0007_0002$$$::Ao terminarmos uma rodada no quintal, a carrinha já está completamente cheia.::
+4274::$$$message_0032_0007_0000$$$::...Ela é mesmo esforçada.[lr]::
+4275::$$$message_0032_0007_0001$$$::Eu só pretendia fazer uma limpezinha, [sestop time=1000 nowait=true]mas, já que estamos nisso, puxamos o carrinho e o enchemos com todas as folhas secas.[lr]::
+4276::$$$message_0032_0007_0002$$$::Quando terminamos uma volta pelo quintal, o carrinho já está lotado.::
 4277::$$$message_0032_0008_0000$$$::"Shirou, o que você vai fazer com essas folhas?"[lr]::
-4278::$$$message_0032_0008_0001$$$::"Normalmente, eu os colocaria para coleta junto com o outros lixos queimáveis."[lr]::
-4279::$$$message_0032_0008_0002$$$::[chgfg time=300 storage=セイバー私服04e(中) textoff=0]Mas temos muitos hoje, então há algo que quero tentar.::
-4280::$$$message_0032_0009_0000$$$::"Você tem a intenção de fazer algo diferente dessa vez?"[lr]::
-4281::$$$message_0032_0009_0001$$$::"É. Estou pensando que poderíamos acender um fogueira enquanto temos tempo."[lr]::
+4278::$$$message_0032_0008_0001$$$::"Normalmente eu colocaria isso para a coleta junto com o resto do lixo queimável."[lr]::
+4279::$$$message_0032_0008_0002$$$::[chgfg time=300 storage=セイバー私服04e(中) textoff=0]Mas hoje temos folhas demais, então há algo que quero tentar.::
+4280::$$$message_0032_0009_0000$$$::"Vai fazer algo diferente desta vez?"[lr]::
+4281::$$$message_0032_0009_0001$$$::"É. Estou pensando em fazer uma fogueira, já que temos tempo."[lr]::
 4282::$$$message_0032_0009_0002$$$::"Uma fogueira?"[lr]::
-4283::$$$message_0032_0009_0003$$$::"É. Podemos aproveitar disso.[lr]::
-4284::$$$message_0032_0009_0004$$$::E hoje tenho essas."[lr]::
-4285::$$$message_0032_0009_0005$$$::Mostro para ela a sacola que trouxe da cozinha.::
+4283::$$$message_0032_0009_0003$$$::"É. Já que surgiu a chance, melhor aproveitar.[lr]::
+4284::$$$message_0032_0009_0004$$$::E hoje eu trouxe isto."[lr]::
+4285::$$$message_0032_0009_0005$$$::Mostro a ela a sacola que trouxe da cozinha.::
 4286::$$$message_0032_0010_0000$$$::"Hmm? O que são essas...?"[lr]::
-4287::$$$message_0032_0010_0001$$$::"Batata-doce. É uma tradição deste país assá-las em um fogueira."[lr]::
+4287::$$$message_0032_0010_0001$$$::"Batatas-doces. Aqui no Japão, existe o costume de assá-las na fogueira."[lr]::
 4288::$$$message_0032_0010_0002$$$::"Uma tradição?"[lr]::
-4289::$$$message_0032_0010_0003$$$::Isso pode estar exagerando um pouco, mas é algo que fazemos.::
-4290::$$$message_0032_0011_0000$$$::[chgfg time=300 storage=セイバー私服01a(中) textoff=0]Depois de embrulhar as batatas em folha de alumínio, eu acendo um fogo usando as folhas mortas.[lr]::
-4291::$$$message_0032_0011_0001$$$::As folhas estão secas desde que não choveu recentemente, e o fogo acende-se rapidamente.::
-4292::$$$message_0032_0012_0000$$$::"Você parece experiente nisso. Faz isso com frequência?"[lr]::
-4293::$$$message_0032_0012_0001$$$::"Nah. Talvez uma ou duas vezes por ano."::
-4294::$$$message_0032_0013_0000$$$::[chgfg time=300 storage=セイバー私服01b(中) textoff=0]Ouço o fogo cracklear. Ao meu lado, Saber parece ainda mais à vontade do que habitualmente.::
-4295::$$$message_0032_0014_0000$$$::"Isso me leva de volta."[lr]::
+4289::$$$message_0032_0010_0003$$$::Talvez seja exagero chamar isso de tradição, mas é algo que a gente faz.::
+4290::$$$message_0032_0011_0000$$$::[chgfg time=300 storage=セイバー私服01a(中) textoff=0]Depois de embrulhar as batatas em papel-alumínio, acendo uma fogueira com as folhas secas.[lr]::
+4291::$$$message_0032_0011_0001$$$::Como não choveu nos últimos dias, as folhas estão bem secas, e o fogo pega rapidinho.::
+4292::$$$message_0032_0012_0000$$$::"Você parece ter prática com isso. Faz sempre?"[lr]::
+4293::$$$message_0032_0012_0001$$$::"Não muito. Talvez uma ou duas vezes por ano."::
+4294::$$$message_0032_0013_0000$$$::[chgfg time=300 storage=セイバー私服01b(中) textoff=0]Ouço o crepitar do fogo. Ao meu lado, Saber parece ainda mais relaxada do que de costume.::
+4295::$$$message_0032_0014_0000$$$::"...Isso me traz lembranças."[lr]::
 4296::$$$message_0032_0014_0001$$$::"O fogo?"::
-4297::$$$message_0032_0015_0000$$$::"Sim. O fogo sempre foi indispensável para se aquecer, cozinhar ou iluminar.[lr]::
-4298::$$$message_0032_0015_0001$$$::Não é algo que vejo com tanta frequência nestes tempos, então vê-lo me lembra do passado."::
-4299::$$$message_0032_0016_0000$$$::[chgfg time=300 storage=セイバー私服06a腕b(中) textoff=0]:b(ä¸­) textoff=0]...I see. Energy sources like electricity and natural gas only became universal in the last century or so. There's only one Servo around that would have been familiar with them during his lifetime.::
-4300::$$$message_0032_0017_0000$$$::"É uma visão relaxante."[lr]::
-4301::$$$message_0032_0017_0001$$$::[chgfg time=300 storage=セイバー私服01b(中) textoff=0]Acho que não sei o que Saber vê além das chamas.[lr]::
-4302::$$$message_0032_0017_0002$$$::O fogo não traz boas lembranças para mim, então não posso compartilhar sua nostalgia.::
-4303::$$$message_0032_0018_0000$$$::A fogueira morre uma vez que a maioria das folhas mortas é consumida.[lr]::
-4304::$$$message_0032_0018_0001$$$::Cuidando para não espalhar as cinzas pretas, removo as batatas assadas com um pino de fogo.[lr]::
-4305::$$$message_0032_0018_0002$$$::"Okay. Isso deve ser suficiente."[lr]::
-4306::$$$message_0032_0018_0003$$$::Com luvas, eu limpo a fuligem e envolvo-as em jornal.[lr]::
-4307::$$$message_0032_0018_0004$$$::Ainda não os abri, mas já cheiram bem.::
+4297::$$$message_0032_0015_0000$$$::"Sim. O fogo sempre foi indispensável para aquecer, cozinhar e iluminar.[lr]::
+4298::$$$message_0032_0015_0001$$$::Hoje em dia quase não o vejo mais, então olhar para ele me faz lembrar do passado."::
+4299::$$$message_0032_0016_0000$$$::[chgfg time=300 storage=セイバー私服06a腕b(中) textoff=0]...Entendi. Fontes de energia como eletricidade e gás natural só se tornaram comuns no último século ou coisa assim. Entre os Servos que conheço, só um teria convivido com isso em vida.::
+4300::$$$message_0032_0017_0000$$$::"É uma visão tranquilizante."[lr]::
+4301::$$$message_0032_0017_0001$$$::[chgfg time=300 storage=セイバー私服01b(中) textoff=0]Fico me perguntando o que Saber enxerga além das chamas.[lr]::
+4302::$$$message_0032_0017_0002$$$::O fogo não me traz boas lembranças, então não consigo compartilhar dessa nostalgia.::
+4303::$$$message_0032_0018_0000$$$::A fogueira se apaga quando a maior parte das folhas secas já foi consumida.[lr]::
+4304::$$$message_0032_0018_0001$$$::Tomando cuidado para não espalhar as cinzas pretas, tiro as batatas-doces assadas com a atiçadeira.[lr]::
+4305::$$$message_0032_0018_0002$$$::"Pronto. Acho que já basta."[lr]::
+4306::$$$message_0032_0018_0003$$$::De luvas, tiro a fuligem delas e as embrulho em jornal.[lr]::
+4307::$$$message_0032_0018_0004$$$::Ainda nem as abri, mas o cheiro já está ótimo.::
 4308::$$$message_0032_0019_0000$$$::"Aqui, Saber. Estão quentes, então cuidado."[lr]::
-4309::$$$message_0032_0019_0001$$$::[chgfg time=300 storage=セイバー私服05d(中) textoff=0]Entrego o primeiro batata-doce a Saber e começo a retirar os restantes das cinzas.::
+4309::$$$message_0032_0019_0001$$$::[chgfg time=300 storage=セイバー私服05d(中) textoff=0]Entrego a primeira batata-doce para Saber e começo a tirar o resto das cinzas.::
 4310::$$$message_0032_0020_0000$$$::"E você, Shirou?"[lr]::
-4311::$$$message_0032_0020_0001$$$::"Vou comer depois que tirar todos de lá. Vá em frente e experimente um primeiro. Estão bons enquanto ainda estiverem quentes."[lr]::
+4311::$$$message_0032_0020_0001$$$::"Vou comer depois de tirar todas daqui. Vai em frente, prova uma primeiro. Ficam uma delícia bem quentinhas."[lr]::
 4312::$$$message_0032_0020_0002$$$::"Muito bem."::
-4313::$$$message_0032_0021_0000$$$::O rosto de Saber ilumina-se com surpresa após dar um mordida. [chgfg time=300 storage=セイバーfd特殊03_焼き芋a頬(中) textoff=0]Ela dá um aceno de satisfação.[lr]::
-4314::$$$message_0032_0021_0001$$$::"Isso tem gosto bom?"::
+4313::$$$message_0032_0021_0000$$$::O rosto de Saber se ilumina de surpresa depois da primeira mordida. [chgfg time=300 storage=セイバーfd特殊03_焼き芋a頬(中) textoff=0]Ela assente, satisfeita.[lr]::
+4314::$$$message_0032_0021_0001$$$::"Está gostoso?"::
 4315::$$$message_0032_0022_0000$$$::"Sim, muito."[lr]::
-4316::$$$message_0032_0022_0001$$$::[chgfg time=300 storage=セイバーfd特殊02_焼き芋d頬(中) textoff=0]Ela parece muito satisfeita.[lr]::
-4317::$$$message_0032_0022_0002$$$::Fico feliz. Ela se deu ao trabalho de me ajudar, então isso pode ser minha forma de agradecer.::
-4318::$$$message_0032_0023_0000$$$::"...Por sinal, Shirou, como você preparou essas batatas antes de cozinhar?"[lr]::
-4319::$$$message_0032_0023_0001$$$::"Preparado? Apenas os assi como estão."[lr]::
-4320::$$$message_0032_0023_0002$$$::Retiro dois ou três dos batatas e as envolvo em papel.::
-4321::$$$message_0032_0024_0000$$$::[fg index=1000 time=300 pos=c storage=セイバーfd特殊02_焼き芋c(中)]Quando olho para cima, Saber parece ainda mais impressionada do que antes.[lr]::
-4322::$$$message_0032_0024_0001$$$::"...O que há de errado?"::
-4323::$$$message_0032_0025_0000$$$::"Não, eu só nunca imaginei que esses "batatas-doce" fossem tão deliciosos depois de simplesmente assá-los."[lr]::
-4324::$$$message_0032_0025_0001$$$::"Bem, dizem que métodos de culinária simples são os melhores para revelar o sabor natural dos ingredientes."[lr]::
-4325::$$$message_0032_0025_0002$$$::[clfg textoff=0 pos=all time=300]Eles realmente ficam ótimos com fogo e um pouco de sal.::
-4326::$$$message_0032_0026_0000$$$::"Mas se isso for verdade... o que faz com que essa batata assada tenha um sabor tão diferente desse modo grosseiro de cozinhar?"[lr]::
-4327::$$$message_0032_0026_0001$$$::Saber deve estar se referindo a algo que comeu durante sua vida.[lr]::
-4328::$$$message_0032_0026_0002$$$::"Se o sabor é diferente mesmo que tenha assado os dois tantas vezes, talvez sejam os ingredientes?"::
-4329::$$$message_0032_0027_0000$$$::"A diferença é absurda.[lr]::
-4330::$$$message_0032_0027_0001$$$::Se tivesse esse sabor na minha época, nossas tropas poderiam ter lutado ainda mais..."[lr]::
-4331::$$$message_0032_0027_0002$$$::Ela parece frustrada. Os batatas-doce estão fazendo com que ela fique ainda mais emocional do que o fogo?[lr]::
-4332::$$$message_0032_0027_0003$$$::Independente disso, ela não para de comer a batata-doce. É Saber pra você.::
-4333::$$$message_0032_0028_0000$$$::"Comida frustrante soa assustadora."[lr]::
+4316::$$$message_0032_0022_0001$$$::[chgfg time=300 storage=セイバーfd特殊02_焼き芋d頬(中) textoff=0]Ela parece feliz da vida.[lr]::
+4317::$$$message_0032_0022_0002$$$::Ainda bem. Já que ela se deu ao trabalho de me ajudar, esta pode ser a minha forma de agradecê-la.::
+4318::$$$message_0032_0023_0000$$$::"...A propósito, Shirou, como você preparou essas batatas antes de assá-las?"[lr]::
+4319::$$$message_0032_0023_0001$$$::"Preparar? Eu só assei do jeito que estavam."[lr]::
+4320::$$$message_0032_0023_0002$$$::Tiro duas ou três batatas e as embrulho em papel.::
+4321::$$$message_0032_0024_0000$$$::[fg index=1000 time=300 pos=c storage=セイバーfd特殊02_焼き芋c(中)]Quando levanto os olhos, Saber parece ainda mais espantada do que antes.[lr]::
+4322::$$$message_0032_0024_0001$$$::"...O que foi?"::
+4323::$$$message_0032_0025_0000$$$::"Nada. É que eu nunca imaginei que essas 'batatas-doces' pudessem ficar tão saborosas apenas sendo assadas."[lr]::
+4324::$$$message_0032_0025_0001$$$::"Bem, dizem que os métodos mais simples de preparo são os melhores para realçar o sabor natural dos ingredientes."[lr]::
+4325::$$$message_0032_0025_0002$$$::[clfg textoff=0 pos=all time=300]Na verdade, elas ficam ótimas só com fogo e um pouco de sal.::
+4326::$$$message_0032_0026_0000$$$::"Mas, se é assim... por que esta batata assada tem um sabor tão diferente daquele modo rude de cozinhar?"[lr]::
+4327::$$$message_0032_0026_0001$$$::Saber deve estar comparando com algo que comeu em vida.[lr]::
+4328::$$$message_0032_0026_0002$$$::"Se o gosto é diferente, mesmo sendo assada do mesmo jeito, talvez a diferença esteja nos ingredientes?"::
+4329::$$$message_0032_0027_0000$$$::"...A diferença é absurda.[lr]::
+4330::$$$message_0032_0027_0001$$$::Se tivéssemos este sabor na minha época, nossos exércitos teriam lutado com ainda mais afinco..."[lr]::
+4331::$$$message_0032_0027_0002$$$::Ela parece frustrada. Será que a batata-doce mexe com ela ainda mais do que o fogo?[lr]::
+4332::$$$message_0032_0027_0003$$$::Seja como for, ela não para de comer a batata-doce. Isso é bem a cara da Saber.::
+4333::$$$message_0032_0028_0000$$$::"Frustração gastronômica parece assustadora."[lr]::
 4334::$$$message_0032_0028_0001$$$::"O que foi isso, Shirou?"[lr]::
 4335::$$$message_0032_0028_0002$$$::"Nada."::
 4336::$$$message_0032_0029_0000$$$::Passamos o resto do dia juntos até o sol se pôr.[lr]::
-4337::$$$message_0032_0029_0001$$$::...Uma traçada de fumaça humilde sobe ao céu de outono.[lr]::
-4338::$$$message_0032_0029_0002$$$::Sob ele, compartilhamos um lanche juntos nesse acampamento completamente seguro.[lr]::
-4339::$$$message_0032_0029_0003$$$::A cena pacífica e sem destaque fica gravada em minha memória, mais brilhante do que qualquer sol de verão.::
-904313::$$$message_9032_0021_0000$$$::O rosto de Saber ilumina-se com surpresa após dar uma mordida. Ela dá um aceno de satisfação.[r]::
+4337::$$$message_0032_0029_0001$$$::...Um fio fino de fumaça sobe ao céu de outono.[lr]::
+4338::$$$message_0032_0029_0002$$$::Sob essa fumaça, dividimos um lanche naquele acampamento perfeitamente tranquilo.[lr]::
+4339::$$$message_0032_0029_0003$$$::Aquela cena pacífica, sem nada de extraordinário, ficou gravada na minha memória, mais brilhante do que qualquer sol de verão.::
+904313::$$$message_9032_0021_0000$$$::O rosto de Saber se ilumina de surpresa depois da primeira mordida. Ela assente, satisfeita.[r]::
 ��
