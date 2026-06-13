@@ -24,14 +24,14 @@ id=qid::label=str::text=lstr::
 35807::$$$message_0266_0018_0000$$$::"Oh, olá. Sou Shirou Emiya. Ela é Saber.[lr]::
 35808::$$$message_0266_0018_0001$$$::Um... Acho que não estou afiliado a ninguém."::
 35809::$$$message_0266_0019_0000$$$::"Eu bem sei que Shirou não faz parte de nenhuma facção.::
-35810::$$$message_0266_0020_0000$$$::Se algo, eu diria que ele é o senhor dessa propriedade, para colocar em seus termos."::
+35810::$$$message_0266_0020_0000$$$::Se é para colocar nos seus termos, eu diria que ele é o senhor desta casa."::
 35811::$$$message_0266_0021_0000$$$::[large]"Bem dito. Isso está certo, mago."[rf]::
 35812::$$$message_0266_0022_0000$$$::"Fico feliz em ouvir isso. Se Saber concordar, então minha percepção deve estar certa."::
 35813::$$$message_0266_0023_0000$$$::"É.[lr]::
-35814::$$$message_0266_0023_0001$$$::Shirou é o mestre dessa casa. Eu prefiro que ele fique nessa posição."::
+35814::$$$message_0266_0023_0001$$$::Shirou é o senhor desta casa. E eu prefiro que continue assim."::
 35815::$$$message_0266_0024_0000$$$::Saber e Bazett conversam calmamente.[lr]::
-35816::$$$message_0266_0024_0001$$$::Ela... é diferente do que eu imaginei... Tipo, eu sempre imaginei ela como alguém mais assustadora.::
-35817::$$$message_0266_0025_0000$$$::"Hmm, obrigado.[lr]::
+35816::$$$message_0266_0024_0001$$$::Ela... é diferente do que eu imaginava... Sei lá, eu sempre achei que ela fosse mais assustadora.::
+35817::$$$message_0266_0025_0000$$$::"Aham, muito obrigado.[lr]::
 35818::$$$message_0266_0025_0001$$$::Então, senhorita Bazett, o que posso fazer por você?"::
 35819::$$$message_0266_0026_0000$$$::"Poderia nos dar um momento, senhorita McRemitz?"::
 35820::$$$message_0266_0027_0000$$$::"Emiya, por aqui."::
@@ -58,7 +58,7 @@ id=qid::label=str::text=lstr::
 35841::$$$message_0266_0042_0000$$$::"Aqui está. Desculpe pelo chá barato..."::
 35842::$$$message_0266_0043_0000$$$::"Obrigado. [wvl canskip=0 time=400]Nunca comeria ou beberia em território inimigo, mas não considero isso território inimigo.[lr]::
 35843::$$$message_0266_0043_0001$$$::Como prova disso..."::
-35844::$$$message_0266_0044_0000$$$::"I-in [wvl canskip=0 time=400]one gulp!?"[wm canskip=0]::
+35844::$$$message_0266_0044_0000$$$::"D-de [wvl canskip=0 time=400]uma vez só!?"[wm canskip=0]::
 35845::$$$message_0266_0045_0000$$$::"..."::
 35846::$$$message_0266_0046_0000$$$::"U-um, isso sabia ruim!?[lr]::
 35847::$$$message_0266_0046_0001$$$::Lamento! Espero que não tenha te deixado chateado!"::
@@ -103,7 +103,7 @@ id=qid::label=str::text=lstr::
 35886::$$$message_0266_0071_0000$$$::"Sim. Posso usá-lo à vontade mesmo contra um oponente que não resiste, mas isso não ativará as propriedades únicas de Fragarach. Será tratado apenas como um Fantasma Nobre de classe C ou D."::
 35887::$$$message_0266_0072_0000$$$::"...Entendi. Então é por isso que você treina tão rigorosamente. Sob essas condições, você deve ser capaz de colocar o adversário numa posição difícil. Se suas habilidades físicas forem insuficientes, então até uma espada lendária se tornaria inútil."::
 35888::$$$message_0266_0073_0000$$$::"Pois bem,[lr]::
-35889::$$$message_0266_0073_0001$$$::Conseguirá interceptar um Pergaminho Nobre usado em combate muito próximo?"::
+35889::$$$message_0266_0073_0001$$$::Conseguirá interceptar um Fantasma Nobre usado em combate muito próximo?"::
 35890::$$$message_0266_0074_0000$$$::"Claro. Isso é para o que minhas habilidades em combate corpo a corpo servem."::
 35891::$$$message_0266_0075_0000$$$::"Fragarach é uma arma de projétil, mas pode se encontrar com qualquer ataque de curto alcance, desde que não seja um arremesso. Na verdade, mesmo que alguém consiga me agarar, [font italic=true]meu ataque acertará primeiro.[font italic=false]"::
 35892::$$$message_0266_0076_0000$$$::"..."::
@@ -154,24 +154,24 @@ id=qid::label=str::text=lstr::
 35937::$$$message_0266_0106_0001$$$::Bazett ajusta timidamente seu cravat.::
 35938::$$$message_0266_0107_0000$$$::"Para dizer a verdade, estou desempregado."::
 35939::$$$message_0266_0108_0000$$$::"...O que?"::
-35940::$$$message_0266_0109_0000$$$::"Você foi claro?[lr]::
+35940::$$$message_0266_0109_0000$$$::"Eu não fui clara?[lr]::
 35941::$$$message_0266_0109_0001$$$::Eu não tenho emprego. [wvl canskip=0 time=400]Não tenho renda. [wvl canskip=0 time=400]Mesmo que eu esteja disposto e capaz de trabalhar!"::
 35942::$$$message_0266_0110_0000$$$::"..."::
-35943::$$$message_0266_0111_0000$$$::...Sempre vi a Associação de Magos com certa óptica rosa... mas isso é realmente deprimente.::
-35944::$$$message_0266_0112_0000$$$::"Um... Então você quer que nos apresentemos a um empregador?"::
+35943::$$$message_0266_0111_0000$$$::...Sempre enxerguei a Associação de Magos de forma meio idealizada... mas isso é deprimente demais.::
+35944::$$$message_0266_0112_0000$$$::"Hum... Então você quer que a gente te indique algum empregador?"::
 35945::$$$message_0266_0113_0000$$$::"Para ser breve,[lr]::
 35946::$$$message_0266_0113_0001$$$::Quero algum conselho apropriado."::
-35947::$$$message_0266_0114_0000$$$::"O que você quer dizer? Por que não faz só o que puder, como o Emiya já faz?"::
+35947::$$$message_0266_0114_0000$$$::"O que quer dizer com isso? Por que não pega qualquer bico que aparecer, como o Emiya já faz?"::
 35948::$$$message_0266_0115_0000$$$::"Eu já estaria fazendo isso se pudesse."::
-35949::$$$message_0266_0116_0000$$$::"Mas... [cacheimage storage=バゼットイヤリング03c(中)][wvl canskip=0 time=400][chgfg time=300 storage=バゼットイヤリング03c(中)]Eu, um...[cacheimage storage=バゼットイヤリング04g(中)][wvl canskip=0 time=400][chgfg time=300 storage=バゼットイヤリング04g(中)]Não sei [cacheimage storage=white,セイバー私服12g(遠),桜私服05f(遠),凛私服03f(遠),バゼットイヤリング06c(近),i衛宮邸居間(fd)][wvl canskip=0 time=200][se storage=se023.wav][fadein time=50 storage=white][shock vmax=30 time=400 count=4][rep fliplr=0 tops=133,132,144,6 storages=セイバー私服12g(遠),桜私服05f(遠),凛私服03f(遠),バゼットイヤリング06c(近) time=200 flipud=0 lefts=612,487,-11,181 bg=i衛宮邸居間(fd) indexes=1000,2000,3000,4000]what occupational field I'm suited to!"[wm canskip=0]::
-35950::$$$message_0266_0117_0000$$$::"...Bem, acho que isso é bastante constrangedor."::
+35949::$$$message_0266_0116_0000$$$::"Mas... [cacheimage storage=バゼットイヤリング03c(中)][wvl canskip=0 time=400][chgfg time=300 storage=バゼットイヤリング03c(中)]eu, ahn...[cacheimage storage=バゼットイヤリング04g(中)][wvl canskip=0 time=400][chgfg time=300 storage=バゼットイヤリング04g(中)]simplesmente não faço ideia [cacheimage storage=white,セイバー私服12g(遠),桜私服05f(遠),凛私服03f(遠),バゼットイヤリング06c(近),i衛宮邸居間(fd)][wvl canskip=0 time=200][se storage=se023.wav][fadein time=50 storage=white][shock vmax=30 time=400 count=4][rep fliplr=0 tops=133,132,144,6 storages=セイバー私服12g(遠),桜私服05f(遠),凛私服03f(遠),バゼットイヤリング06c(近) time=200 flipud=0 lefts=612,487,-11,181 bg=i衛宮邸居間(fd) indexes=1000,2000,3000,4000]de que tipo de trabalho combina comigo!"[wm canskip=0]::
+35950::$$$message_0266_0117_0000$$$::"...É, imagino que isso seja bem complicado."::
 35951::$$$message_0266_0118_0000$$$::...De repente, ela se sente muito mais compreensível.[lr]::
 35952::$$$message_0266_0118_0001$$$::Mesmo Sakura, que parecia assustada há pouco, agora está olhando para Bazett como se fosse uma amiga de longa data.::
 35953::$$$message_0266_0119_0000$$$::"Um... Você não trabalharia normalmente como guarda-costas ou algo assim?[lr]::
 35954::$$$message_0266_0119_0001$$$::Posso te apresentar ao Grupo Fujimura, se quiser."::
 35955::$$$message_0266_0120_0000$$$::"Não, obrigado.[lr]::
 35956::$$$message_0266_0120_0001$$$::Fiz algumas pesquisas sobre eles nos últimos dias. Essa organização detesta conflitos. Eles são covardes."::
-35957::$$$message_0266_0121_0000$$$::"Um ambiente de trabalho onde não consigo utilizar minhas habilidades é a opção menos atraente para mim."::
+35957::$$$message_0266_0121_0000$$$::"Um trabalho em que eu não possa usar minhas habilidades é a opção menos atraente para mim."::
 35958::$$$message_0266_0122_0000$$$::"...E a questão de ensinar na escola de Shirou?[lr]::
 35959::$$$message_0266_0122_0001$$$::Eu tenho certeza de que poderia ensiná-los qualquer forma de exercício."::
 35960::$$$message_0266_0123_0000$$$::"...Pensei nisso, mas não sou bom em ensinar as pessoas... Acabo demonstrando em vez de explicando."::
@@ -194,15 +194,15 @@ id=qid::label=str::text=lstr::
 35977::$$$message_0266_0136_0000$$$::Lancer mencionou.[lr]::
 35978::$$$message_0266_0136_0001$$$::Ele disse que a execução do Selo de Designação paga muito bem porque é um trabalho importante.::
 35979::$$$message_0266_0137_0000$$$::"...Isso é uma questão à parte.[lr]::
-35980::$$$message_0266_0137_0001$$$::Não posso me chamar de Mestre se estiver desempregado."::
+35980::$$$message_0266_0137_0001$$$::Não posso me chamar de Mestre se estiver desempregada."::
 35981::$$$message_0266_0138_0000$$$::"Hmm? O que você quer dizer?"::
-35982::$$$message_0266_0139_0000$$$::"Estou falando da essência de ser Mestre e Servo.[lr]::
-35983::$$$message_0266_0139_0001$$$::Um Mestre emprega um Servo. Portanto, é óbvio que é minha obrigação fornecer comida, roupas e abrigo."::
-35984::$$$message_0266_0140_0000$$$::"A Mestre tem que nutrir seu Servo.[lr]::
-35985::$$$message_0266_0140_0001$$$::Não seria nada bom eu ficar desempregado enquanto uso meu Servo para trabalhar e pagar minhas despesas de viagem."::
-35986::$$$message_0266_0141_0000$$$::"Ah... Entendi. Você está dizendo que o Mestre tem que fornecer, ou o Servo tem que trabalhar.[lr]::
-35987::$$$message_0266_0141_0001$$$::Então, não há como pedir que seu Servo ajude com as tarefas domésticas?"::
-35988::$$$message_0266_0142_0000$$$::"Claro que sim. Um Mestre deve gerenciar o próprio estilo de vida."::
+35982::$$$message_0266_0139_0000$$$::"Estou falando da própria essência da relação entre Mestre e Servo.[lr]::
+35983::$$$message_0266_0139_0001$$$::Um Mestre emprega um Servo. Portanto, é óbvio que cabe a mim fornecer comida, roupas e abrigo."::
+35984::$$$message_0266_0140_0000$$$::"Cabe ao Mestre zelar pelo próprio Servo.[lr]::
+35985::$$$message_0266_0140_0001$$$::Não faria sentido eu continuar desempregada enquanto ponho meu Servo para trabalhar e bancar minhas despesas de viagem."::
+35986::$$$message_0266_0141_0000$$$::"Ah... Entendi. Você está dizendo que ou o Mestre provê, ou o Servo trabalha.[lr]::
+35987::$$$message_0266_0141_0001$$$::Então está fora de questão fazer o seu Servo ajudar nas tarefas da casa?"::
+35988::$$$message_0266_0142_0000$$$::"Claro que está. Um Mestre deve dar conta da própria vida."::
 35989::$$$message_0266_0143_0000$$$::"Pedir ao Servo que gere sua própria rotina de vida é uma medida extremamente drástica que só deve ser tomada em circunstâncias desesperadoras. Só um Mestre de terceira categoria faria seu Servo fazer tarefas, muito menos um emprego."::
 35990::$$$message_0266_0144_0000$$$::"Muito bom. Concordo completamente com esse sentimento.[lr]::
 35991::$$$message_0266_0144_0001$$$::Somos da mesma mente, feiticeira. Agora sei por que você veio até Shirou."::
@@ -429,7 +429,7 @@ id=qid::label=str::text=lstr::
 36212::$$$message_0266_0294_0000$$$::"Siga em frente, Emiya![lr]::
 36213::$$$message_0266_0294_0001$$$::Diez minutos! Só serão dez minutos!"::
 36214::$$$message_0266_0295_0000$$$::O trio corre em direção ao dojo.::
-36215::$$$message_0266_0296_0000$$$::[small]"...Hey..."[rf]::
+36215::$$$message_0266_0296_0000$$$::[small]"...Ei..."[rf]::
 36216::$$$message_0266_0297_0000$$$::"...Eles devem estar em uma reunião de estratégia.[lr]::
 36217::$$$message_0266_0297_0001$$$::Achei que não dariam folga, mas minha suposição estava errada."::
 36218::$$$message_0266_0298_0000$$$::"...Parece sim, mas me pergunto o que provocou a mudança de opinião.[lr]::
@@ -539,18 +539,18 @@ id=qid::label=str::text=lstr::
 36322::$$$message_0266_0371_0000$$$::"Hmm... Jogando jogos de mente, entendi.[lr]::
 36323::$$$message_0266_0371_0001$$$::Então eu também devo levar isso a sério."::
 36324::$$$message_0266_0372_0000$$$::"Hehehe.[lr]::
-36325::$$$message_0266_0372_0001$$$::Só para você saber, jogar atrasado é uma perda automática."::
+36325::$$$message_0266_0372_0001$$$::Só para constar, se atrasar na jogada é derrota automática."::
 36326::$$$message_0266_0373_0000$$$::"Vocês dois aceitam?[lr]::
 36327::$$$message_0266_0373_0001$$$::Pois bem, se posso, serei eu o juiz.[lr]::
-36328::$$$message_0266_0373_0002$$$::Você está pronto? [cacheimage storage=バゼットイヤリング02f(中),white][wvl canskip=0 time=400][clfg][fg index=1000 pos=c storage=バゼットイヤリング02f(中)][dash storage=i衛宮邸居間(fd) page=back textoff=0 mx=-34 opacity=255 layer=all irot=-0.0 cx=888 imag=2.4 time=800 cy=541 mag=2.1 my=-42 rot=-0.0 accel=3][transex time=200 textoff=0]Rock, [wdash canskip=0][se storage=se091.wav][wait canskip=0 time=800][fadein textoff=0 time=100 rule=走る感じ(右から) storage=white][clfg][fg index=1000 pos=c storage=バゼットイヤリング02f(中)][dash storage=i衛宮邸居間(fd) page=back textoff=0 mx=44 opacity=255 layer=all irot=-0.0 cx=-25 imag=2.4 time=800 cy=256 mag=2.1 my=0 rot=-0.0 accel=3][transex time=200 textoff=0]paper..."[se storage=se090.wav][wdash canskip=0]::
-36329::$$$message_0266_0374_0000$$$::"Tesouras!"[wm canskip=0]::
+36328::$$$message_0266_0373_0002$$$::Estão prontos? [cacheimage storage=バゼットイヤリング02f(中),white][wvl canskip=0 time=400][clfg][fg index=1000 pos=c storage=バゼットイヤリング02f(中)][dash storage=i衛宮邸居間(fd) page=back textoff=0 mx=-34 opacity=255 layer=all irot=-0.0 cx=888 imag=2.4 time=800 cy=541 mag=2.1 my=-42 rot=-0.0 accel=3][transex time=200 textoff=0]Pedra, [wdash canskip=0][se storage=se091.wav][wait canskip=0 time=800][fadein textoff=0 time=100 rule=走る感じ(右から) storage=white][clfg][fg index=1000 pos=c storage=バゼットイヤリング02f(中)][dash storage=i衛宮邸居間(fd) page=back textoff=0 mx=44 opacity=255 layer=all irot=-0.0 cx=-25 imag=2.4 time=800 cy=256 mag=2.1 my=0 rot=-0.0 accel=3][transex time=200 textoff=0]papel..."[se storage=se090.wav][wdash canskip=0]::
+36329::$$$message_0266_0374_0000$$$::"Tesoura!"[wm canskip=0]::
 36330::$$$message_0266_0375_0000$$$::Jogo papel, como declarei.[lr]::
 36331::$$$message_0266_0375_0001$$$::Bazett, lendo três passos à frente, joga pedra...!::
-36332::$$$message_0266_0376_0000$$$::Li-a corretamente. Bazett pensa demais em tudo, [fadein time=800 storage=fd10_ts textoff=0][stopdash]então eu não achei [wait canskip=0 time=200]que [wait canskip=0 time=200]ela [wait canskip=0 time=200]faria [wait canskip=0 time=200]sci[wait canskip=0 time=200]ssors[fadein time=800 storage=fd10c_ts textoff=0][sestop time=1000 nowait=1][se storage=se727.wav][wait canskip=0 time=400]...huh?::
+36332::$$$message_0266_0376_0000$$$::Li-a direitinho. Bazett pensa demais em tudo, [fadein time=800 storage=fd10_ts textoff=0][stopdash]então eu não achei [wait canskip=0 time=200]que [wait canskip=0 time=200]ela [wait canskip=0 time=200]fosse [wait canskip=0 time=200]jogar [wait canskip=0 time=200]te[wait canskip=0 time=200]soura[fadein time=800 storage=fd10c_ts textoff=0][sestop time=1000 nowait=1][se storage=se727.wav][wait canskip=0 time=400]...hã?::
 36333::$$$message_0266_0377_0000$$$::"...A[wvl canskip=0 time=50]n[wvl canskip=0 time=50]s[wvl canskip=0 time=50]w[wvl canskip=0 time=50]e[wvl canskip=0 time=50]r[wvl canskip=0 time=50]e[wvl canskip=0 time=50]r[wvl canskip=0 time=50][wvl canskip=0 time=50][wvl canskip=0 time=50][wvl canskip=0 time=50][wvl canskip=0 time=50]."::
-36334::$$$message_0266_0378_0000$$$::Espere, [wait canskip=0 time=400]que é isso, esse artefato humano murmurando sobre...!?::
-36335::$$$message_0266_0379_0000$$$::"Entendi![lr]::
-36336::$$$message_0266_0379_0001$$$::Pedra, papel, [dash textoff=0 mx=0 opacity=255 layer=base irot=-0.0 cx=725 imag=1 time=800 cy=1 mag=4.7 my=0 storage=fd10c_ts rot=-0.0 accel=2][wdash canskip=0][wvl][se storage=se088.wav][dash textoff=0 mx=733 opacity=60 layer=base irot=0.011 cx=35 imag=3.9 flipud=1 time=200 cy=576 mag=3.4 my=-331 storage=r01ボディーブロウ rot=-0.0 accel=0][wdash canskip=0][dash textoff=0 mx=739 opacity=255 layer=base irot=0.011 cx=35 imag=3.9 flipud=1 time=200 cy=576 mag=1.3 my=-108 storage=r01ボディーブロウ rot=-0.0 accel=2]morrer...!"[wdash canskip=0]::
+36334::$$$message_0266_0378_0000$$$::Espera, o que essa arma humana está resmungando...!?::
+36335::$$$message_0266_0379_0000$$$::"Peguei![lr]::
+36336::$$$message_0266_0379_0001$$$::Pedra, papel, [dash textoff=0 mx=0 opacity=255 layer=base irot=-0.0 cx=725 imag=1 time=800 cy=1 mag=4.7 my=0 storage=fd10c_ts rot=-0.0 accel=2][wdash canskip=0][wvl][se storage=se088.wav][dash textoff=0 mx=733 opacity=60 layer=base irot=0.011 cx=35 imag=3.9 flipud=1 time=200 cy=576 mag=3.4 my=-331 storage=r01ボディーブロウ rot=-0.0 accel=0][wdash canskip=0][dash textoff=0 mx=739 opacity=255 layer=base irot=0.011 cx=35 imag=3.9 flipud=1 time=200 cy=576 mag=1.3 my=-108 storage=r01ボディーブロウ rot=-0.0 accel=2]morra...!"[wdash canskip=0]::
 36337::$$$message_0266_0380_0000$$$::"...Ufa. Eu ganhei, Shirou.[lr]::
 36338::$$$message_0266_0380_0001$$$::Você jogou muito tarde, mesmo que tivesse feito a jogada certa."::
 36339::$$$message_0266_0381_0000$$$::Bem, claro que fiz.[lr]::
@@ -581,7 +581,7 @@ id=qid::label=str::text=lstr::
 36364::$$$message_0266_0399_0000$$$::"Entendi.[lr]::
 36365::$$$message_0266_0399_0001$$$::Isso soa como um bom lugar para começar. Gostaria de encontrar meu próprio apartamento, se possível."::
 36366::$$$message_0266_0400_0000$$$::"Ótimo, isso resolve tudo!"::
-36367::$$$message_0266_0401_0000$$$::Sakura grita "Yay!" [fadein time=400 storage=white textoff=0][clfg][fg index=3000 pos=c storage=凛私服04c(近)][dash storage=i衛宮邸居間(fd) textoff=0 page=back mx=-247 opacity=255 layer=all irot=-0.0 cx=630 imag=1.4 time=3000 cy=230 mag=1.4 my=0 rot=-0.0 accel=0][transex textoff=0 time=300]Tohsaka nods, satisfied.[fadein time=400 storage=white textoff=0][clfg][fg index=5000 pos=c storage=セイバー私服12c(近)][dash storage=i衛宮邸居間(fd) textoff=0 page=back mx=0 opacity=150 layer=all irot=-0.0 cx=400 imag=1.5 time=3000 cy=300 mag=1.2 my=0 rot=-0.0 accel=0][transex textoff=0 time=300][lr]::
+36367::$$$message_0266_0401_0000$$$::Sakura solta um "Eba!" [fadein time=400 storage=white textoff=0][clfg][fg index=3000 pos=c storage=凛私服04c(近)][dash storage=i衛宮邸居間(fd) textoff=0 page=back mx=-247 opacity=255 layer=all irot=-0.0 cx=630 imag=1.4 time=3000 cy=230 mag=1.4 my=0 rot=-0.0 accel=0][transex textoff=0 time=300]Tohsaka assente, satisfeita.[fadein time=400 storage=white textoff=0][clfg][fg index=5000 pos=c storage=セイバー私服12c(近)][dash storage=i衛宮邸居間(fd) textoff=0 page=back mx=0 opacity=150 layer=all irot=-0.0 cx=400 imag=1.5 time=3000 cy=300 mag=1.2 my=0 rot=-0.0 accel=0][transex textoff=0 time=300][lr]::
 36368::$$$message_0266_0401_0001$$$::Saber estava se preparando para lutar caso Bazett dissesse não.::
 36369::$$$message_0266_0402_0000$$$::E assim, o chefe da casa é excluído da decisão.::
 36370::$$$message_0266_0403_0000$$$::"Então, serei seu acompanhante por toda a próxima semana.[lr]::

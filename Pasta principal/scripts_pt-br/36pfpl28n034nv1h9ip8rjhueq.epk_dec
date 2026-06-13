@@ -68,8 +68,8 @@ id=qid::label=str::text=lstr::
 1745::$$$message_0008_0026_0001$$$::Acho que ela foi embora... Oh, por que não vai ver no dojo?"[lr]::
 1746::$$$message_0008_0026_0002$$$::"Você trouxe chá e chocolates para ela, hein..."::
 1747::$$$message_0008_0027_0000$$$::...Ela ignorou eu.[lr]::
-1748::$$$message_0008_0027_0001$$$::Ah, espera. Que dizeria aquele provérbio sobre transformar o desastre em sorte?[lr]::
-1749::$$$message_0008_0027_0002$$$::Tenho esse estojo secreto de trufas de chocolate. É um Fantasma Nobre limitado que é mais que suficiente para distrair a Fuji-nee...!::
+1748::$$$message_0008_0027_0001$$$::Ah, espera. Como é mesmo aquele ditado sobre transformar desastre em sorte?[lr]::
+1749::$$$message_0008_0027_0002$$$::Tenho um estoque secreto de trufas de chocolate. É um Fantasma Nobre limitado, mais do que suficiente para distrair a Fuji-nee...!::
 1750::$$$message_0008_0028_0000$$$::"Eu sei, por que não tomamos chá?[lr]::
 1751::$$$message_0008_0028_0001$$$::Se tivermos chá no terraço, o chocolate pode atrair Saber para fora."[lr]::
 1752::$$$message_0008_0028_0002$$$::"..."::
@@ -103,7 +103,7 @@ id=qid::label=str::text=lstr::
 1780::$$$message_0008_0036_0003$$$::Vamos, silenciosamente!"[lr]::
 1781::$$$message_0008_0036_0004$$$::"Acabei de trazer o chá para ela! Você está entendendo errado!"::
 1782::$$$message_0008_0037_0000$$$::"Ideia errada, shmong ideia!!![lr]::
-1783::$$$message_0008_0037_0001$$$::Você teve algum esquema sujo para fazer Saber tirar suas roupas, [cacheimage storage=藤05b(中)][wvl][chgfg textoff=0 time=300 storage=藤05b(中)]mas eu, servo da justiça, apareci, [cacheimage storage=藤10b(中)][wvl][chgfg textoff=0 time=300 storage=藤10b(中)]e vocês disseram, "Entendi!" e meteram Saber no armário! [cacheimage storage=white,藤07a頬腕b(中),i衛宮邸_セイバー部屋][wvl][fadein time=100 storage=white][shock vmax=30 time=400 count=3][se storage=se106.wav][rep fliplr=0 storages=藤07a頬腕b(中) time=800 flipud=0 poss=c bg=i衛宮邸_セイバー部屋 indexes=1000]Foi óbvio para mim há um minuto e vinte segundos...!"::
+1783::$$$message_0008_0037_0001$$$::Você tramou algum plano sujo para fazer a Saber tirar a roupa, [cacheimage storage=藤05b(中)][wvl][chgfg textoff=0 time=300 storage=藤05b(中)]mas eu, servo da justiça, apareci, [cacheimage storage=藤10b(中)][wvl][chgfg textoff=0 time=300 storage=藤10b(中)]e vocês pensaram: "Já sei!" e enfiaram a Saber no armário! [cacheimage storage=white,藤07a頬腕b(中),i衛宮邸_セイバー部屋][wvl][fadein time=100 storage=white][shock vmax=30 time=400 count=3][se storage=se106.wav][rep fliplr=0 storages=藤07a頬腕b(中) time=800 flipud=0 poss=c bg=i衛宮邸_セイバー部屋 indexes=1000]Isso está óbvio para mim há um minuto e vinte segundos...!"::
 1784::$$$message_0008_0038_0000$$$::Errado! Tudo isso está errado, exceto por você estar certo sobre o armário![lr]::
 1785::$$$message_0008_0038_0001$$$::Também, o que é com a quantidade de tempo tão específica!?::
 1786::$$$message_0008_0039_0000$$$::"Bem, vou checar o armário.[lr]::
@@ -112,7 +112,7 @@ id=qid::label=str::text=lstr::
 1789::$$$message_0008_0039_0003$$$::Pronto para o quê?[lr]::
 1790::$$$message_0008_0039_0004$$$::Urgh, eu queria só sumir...::
 1791::$$$message_0008_0040_0000$$$::"Tudo bem agora, Saber!"[lr]::
-1792::$$$message_0008_0040_0001$$$::Um Servant normal simplesmente desmaterializaria.[lr]::
+1792::$$$message_0008_0040_0001$$$::Um Servo normal simplesmente desmaterializaria.[lr]::
 1793::$$$message_0008_0040_0002$$$::Mas Saber não pode se transformar em forma espiritual, então...::
 1794::$$$message_0008_0041_0000$$$::"Hmm?"[lr]::
 1795::$$$message_0008_0041_0001$$$::Argh, já tô acabado.[line len=2][lr]::

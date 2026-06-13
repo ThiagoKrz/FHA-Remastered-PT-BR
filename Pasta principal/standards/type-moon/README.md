@@ -14,6 +14,14 @@ Para revisão dos scripts `.epk_dec` de Fate/stay night Remastered, leia também
 
 4. `standards/type-moon/PROMPT_REVISAO_FSN_REMASTERED_SCRIPTS.md`
 
+Para Fate/hollow ataraxia Remastered, use como padrão único:
+
+5. `standards/type-moon/PROMPT_TRADUCAO_FHA_REMASTERED_SCRIPTS_QUALIDADE_MAXIMA.md`
+
+CSV canônico de etapas para FHA:
+
+- `etapas_traducao_qwen_codex_prompt_fha_qmax.csv`
+
 Regra de conflito:
 
 - Se houver conflito entre o prompt e o glossário, o glossário vence.
@@ -45,6 +53,7 @@ Documentos:
 - `standards/type-moon/README.md`
 - `standards/type-moon/PROMPT_TRADUCAO_TYPEMOON_EPUB.md`
 - `standards/type-moon/PROMPT_REVISAO_FSN_REMASTERED_SCRIPTS.md`
+- `standards/type-moon/PROMPT_TRADUCAO_FHA_REMASTERED_SCRIPTS_QUALIDADE_MAXIMA.md`
 
 Scripts do pipeline:
 

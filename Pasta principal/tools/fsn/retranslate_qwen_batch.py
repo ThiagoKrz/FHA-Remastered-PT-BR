@@ -469,7 +469,294 @@ PATCH_ROWS = r'''
 56jnklgl3nm34g2h62hpj56khs.epk_dec\t31796\t"oUçam. aLcAncem hEaVeN'S fEEL. haH, KeE, haRGh, GERGH, enterrem o vazio. PAREM. Preencham o Santo Graal. PAREM PAREM. Massacrem todas as possibilidades. PAREM PAREM PAREM, eu não consigo ver, eu não consigo ver, eu não consigo ver nada...! iSSo mEsMo, venham me matar, o verdadeiro monstro, PAREM PAREM, fIquem longe, se vocês vierem me matar eu mato vocês...!!!"
 56jnklgl3nm34g2h62hpj56khs.epk_dec\t31801\t"                            "[lr]
 56jnklgl3nm34g2h62hpj56khs.epk_dec\t31809\tHeaven's Feel. Na Guerra do Santo Graal de meio ano atrás, houve uma garota conhecida por esse nome.[lr]
+50qmkchl5asb5jkk0hvd7bjrua.epk_dec\t$$$message_0367_0001_0001$$$\t"Argh... P-por que a Guerra do Santo Graal tem uma regra dessas..."
+50qmkchl5asb5jkk0hvd7bjrua.epk_dec\t$$$message_0367_0005_0000$$$\t"Ai! [wait canskip=0 time=300][l][hffacechg chara=ブルマイリヤ face=哀 layer=0 time=200][hfangry layer=0][say storage=HSTR2A_BIR_0150 _name=ブルマイリヤ]C-c-como ousa levantar a mão contra sua Mestre!"
+50qmkchl5asb5jkk0hvd7bjrua.epk_dec\t$$$message_0367_0005_0001$$$\t"Mestres e Servos não têm nada a ver com boa educação."
+2pftfl17j19n7gb7grqvgttk7v.epk_dec\t$$$message_0150_0011_0000$$$\t"Illya. O que é a Taça do Céu? É o Santo Graal que está recriando a guerra?"[lr]
+2pftfl17j19n7gb7grqvgttk7v.epk_dec\t$$$message_0150_0012_0000$$$\t"Certo. O Santo Graal que era o prêmio da Guerra do Santo Graal em Fuyuki não passava de um vórtice de energia mágica ao qual as pessoas davam o nome de Santo Graal.[lr]
+2pftfl17j19n7gb7grqvgttk7v.epk_dec\t$$$message_0150_0014_0000$$$\t"Nem preciso dizer: na verdade, ele é um Servo![lr]
+2pftfl17j19n7gb7grqvgttk7v.epk_dec\t$$$message_0150_0014_0001$$$\tFoi alguém invocado na Terceira Guerra do Santo Graal, absorvido pelo Santo Graal, que cresceu com o poder do Graal até se tornar um demônio que concede desejos humanos!"
+2pftfl17j19n7gb7grqvgttk7v.epk_dec\t$$$message_0150_0017_0000$$$\t"E o Santo Graal está lá? Onde?"[lr]
+2pftfl17j19n7gb7grqvgttk7v.epk_dec\t$$$message_0150_0017_0001$$$\t"No ponto mais alto desta cidade. Alguém que não participou da Quinta Guerra do Santo Graal caiu desse lugar até o chão.[lr]
+2pftfl17j19n7gb7grqvgttk7v.epk_dec\t$$$message_0150_0019_0003$$$\tEi, Shirou. O que você acha desta Guerra do Santo Graal?"
+2pftfl17j19n7gb7grqvgttk7v.epk_dec\t$$$message_0150_0023_0001$$$\tEssa pessoa está vestindo a casca de outra pessoa desta cidade e reencenando a Guerra do Santo Graal neste mundo.[lr]
+2pftfl17j19n7gb7grqvgttk7v.epk_dec\t$$$message_0150_0023_0002$$$\tEle está vivenciando uma Quinta Guerra do Santo Graal que não conhece, para continuar a Guerra do Santo Graal como deseja quem o contratou."
+2pftfl17j19n7gb7grqvgttk7v.epk_dec\t$$$message_0150_0024_0002$$$\tEla está usando o roteiro da Terceira Guerra do Santo Graal com os participantes da Quinta para continuar lutando.[lr]
+2pftfl17j19n7gb7grqvgttk7v.epk_dec\t$$$message_0150_0038_0002$$$\tO Servo Avenger ainda não se separou de Todo o Mal do Mundo.[lr]
+2pftfl17j19n7gb7grqvgttk7v.epk_dec\t$$$message_0150_0046_0002$$$\tApenas o corpo principal de Avenger e sua contratante, Bazett, podem ascender ao Santo Graal, porque já estão lá.
+2pftfl17j19n7gb7grqvgttk7v.epk_dec\t$$$message_0150_0050_0000$$$\t"Ei. Está prestes a acabar?"[lr]
+6ki04e3j14a1llprjatdc9sqm6.epk_dec\t$$$message_0034_0028_0001$$$\tQuando tento ver o que está acontecendo com ela, noto que seus olhos, por trás dos Supressores de Olhos Místicos, estão distantes e sem foco.
+6ki04e3j14a1llprjatdc9sqm6.epk_dec\t$$$message_0034_0058_0000$$$\t"P-perdoe-me, Sister. Foi tão conveniente que eu nem pensei[line len=2]"[lr]
+6kvaqm68cp0525uv8jv928csg5.epk_dec\t$$$message_0048_0001_0000$$$\t"Ela me deu um fora da última vez que vim perguntar sobre a Guerra do Santo Graal..."[lr]
+6kvaqm68cp0525uv8jv928csg5.epk_dec\t$$$message_0048_0004_0001$$$\tUm anti-herói consagrado como inimigo da humanidade..."[lr]
+6kvaqm68cp0525uv8jv928csg5.epk_dec\t$$$message_0048_0043_0004$$$\tSe isso está chegando ao fim, então não vou ficar parada... [cacheimage storage=キャスターローブ無し02d(中)][wvl][chgfg textoff=0 time=200 storage=キャスターローブ無し02d(中)]Quero dizer, meu Mestre, claro. Não eu."
+6kvaqm68cp0525uv8jv928csg5.epk_dec\t$$$message_0048_0112_0004$$$\tEntão ele a abraçou e decidiu participar do duelo mortal que ela chamava de Guerra do Santo Graal.[lr]
+6kvaqm68cp0525uv8jv928csg5.epk_dec\t$$$message_0048_0113_0002$$$\tO homem nunca considerou matar algo mau. Não sentiu qualquer hesitação em se tornar o Mestre dela.[lr]
+6kvaqm68cp0525uv8jv928csg5.epk_dec\t$$$message_0048_0114_0005$$$\tPara ele, a Guerra do Santo Graal era anormal, mas não maligna.[lr]
+6kvaqm68cp0525uv8jv928csg5.epk_dec\t$$$message_0048_0117_0001$$$\tUm Servo inimigo derrotou Assassin no portão, e depois o Mestre dela perdeu o duelo de espadas que se seguiu.[lr]
+6kvaqm68cp0525uv8jv928csg5.epk_dec\t$$$message_0048_0122_0005$$$\tSe temia ser atacada de novo, então deveria recuar o mais rápido possível e fazer um pacto com um novo Mestre.
+6kvaqm68cp0525uv8jv928csg5.epk_dec\t$$$message_0048_0123_0002$$$\tUm Servo inimigo destruiu a energia mágica armazenada no Templo Ryuudou e infligiu, com seu Fantasma Nobre, uma ferida amaldiçoada que não podia ser curada.
+5o4tci0s1o1pmih8j941acjgsq.epk_dec\t$$$message_0177_0008_0003$$$\tA causa é clara: [fadein time=100 storage=a03][fadein time=800 storage=iバゼットの隠れ家_内部-(深夜)]a Servo Saber a transpassou pelo coração diante da igreja.[lr]
+5o4tci0s1o1pmih8j941acjgsq.epk_dec\t$$$message_0177_0008_0005$$$\tSó preciso proteger este lugar, como Servo dela.
+5o4tci0s1o1pmih8j941acjgsq.epk_dec\t$$$message_0177_0014_0000$$$\t"Ei. Você acordou, Mestre.[lr]
+5o4tci0s1o1pmih8j941acjgsq.epk_dec\t$$$message_0177_0015_0000$$$\t"...Minha memória está intacta. Eu sei que você é meu Servo, que eu sou uma Mestre e que esta mansão é o nosso esconderijo.[lr]
+5o4tci0s1o1pmih8j941acjgsq.epk_dec\t$$$message_0177_0016_0001$$$\tMinhas lembranças anteriores a este lugar são vagas, mas me recordo do que aconteceu depois. Fomos derrotados... mortos... por uma Mestre inimiga."
+5o4tci0s1o1pmih8j941acjgsq.epk_dec\t$$$message_0177_0018_0001$$$\t...Responda, Servo. Fomos derrotados, então por que ainda estamos vivos?"[lr]
+5o4tci0s1o1pmih8j941acjgsq.epk_dec\t$$$message_0177_0020_0000$$$\t"...Hmph. Se isso for verdade, então tenho um Servo impressionante.[lr]
+5o4tci0s1o1pmih8j941acjgsq.epk_dec\t$$$message_0177_0020_0002$$$\tVocê alega ser um Espírito Heroico com um poder tão milagroso assim?"[lr]
+5o4tci0s1o1pmih8j941acjgsq.epk_dec\t$$$message_0177_0022_0001$$$\tNão sei que Fantasma Nobre é esse, mas você tem a capacidade de reviver à noite... Não, você retrocede o tempo até este momento, quando ainda estamos vivos neste lugar.[lr]
+5o4tci0s1o1pmih8j941acjgsq.epk_dec\t$$$message_0177_0023_0000$$$\t"Deve ser um Fantasma Nobre com o poder de interferir no destino ou alterá-lo. Certamente digno de um Espírito Heroico.[lr]
+5o4tci0s1o1pmih8j941acjgsq.epk_dec\t$$$message_0177_0025_0001$$$\tSeu Fantasma Nobre realmente parece poderoso demais para não ter uma fraqueza dessas."[lr]
+5o4tci0s1o1pmih8j941acjgsq.epk_dec\t$$$message_0177_0026_0002$$$\t"Entendeu. É melhor você também ficar aqui dentro durante o dia. Eu fico muito fraco à luz do dia. Vão me matar se minha Mestre não me proteger."
+5o4tci0s1o1pmih8j941acjgsq.epk_dec\t$$$message_0177_0027_0001$$$\tVocê é de pouca utilidade em combate, mas nunca vi uma habilidade como a sua. Eu cuido de lutar na Guerra do Santo Graal, então tudo o que você precisa fazer é me apoiar com o seu Fantasma Nobre singular."
+5o4tci0s1o1pmih8j941acjgsq.epk_dec\t$$$message_0177_0028_0000$$$\t"Hmm. Isso ajuda muito, mas você não está sendo um pouco extremo, Mestre?[lr]
+5o4tci0s1o1pmih8j941acjgsq.epk_dec\t$$$message_0177_0028_0001$$$\tEu consigo lutar um pouco. Não posso prometer derrotar um Servo, mas ao menos consigo ganhar um pouco de tempo.[line len=2]"
+5o4tci0s1o1pmih8j941acjgsq.epk_dec\t$$$message_0177_0029_0001$$$\t"Haah... Isso facilita para mim, mas não acho que vamos conseguir vencer desse jeito. Também não vai ser tão fácil separar cada Servo de seu Mestre."
+5o4tci0s1o1pmih8j941acjgsq.epk_dec\t$$$message_0177_0030_0000$$$\tNo fim das contas, a Guerra do Santo Graal gira em torno de derrotar os outros Servos.[lr]
+5o4tci0s1o1pmih8j941acjgsq.epk_dec\t$$$message_0177_0030_0001$$$\tBoa sorte tentando matar uma Mestre enquanto o Servo dela ainda estiver de pé.[lr]
+5o4tci0s1o1pmih8j941acjgsq.epk_dec\t$$$message_0177_0030_0002$$$\tMas um Servo não é algo com que um humano possa lidar.[lr]
+5o4tci0s1o1pmih8j941acjgsq.epk_dec\t$$$message_0177_0031_0001$$$\tEu vou derrotar os Servos."[lr]
+5o4tci0s1o1pmih8j941acjgsq.epk_dec\t$$$message_0177_0033_0002$$$\tPor exemplo, isso consome meus Circuitos Mágicos? Existe um limite para o número de vezes que você pode usar seu Fantasma Nobre?"
+5o4tci0s1o1pmih8j941acjgsq.epk_dec\t$$$message_0177_0040_0001$$$\tBem, merda. Para mim não parece nada de especial. Simplesmente acordei me sentindo assim. Talvez seja porque você é humana e eu sou um Servo. Embora..."[lr]
+5o4tci0s1o1pmih8j941acjgsq.epk_dec\t$$$message_0177_0048_0003$$$\t"Avenger. O Servo da vingança."[lr]
+5o4tci0s1o1pmih8j941acjgsq.epk_dec\t$$$message_0177_0056_0002$$$\tEstá claro que existe um oitavo mago agindo, alguém que não é um Mestre... Um mago que ataca pessoas indiscriminadamente com familiares não pode ser ignorado.[lr]
+5o4tci0s1o1pmih8j941acjgsq.epk_dec\t$$$message_0177_0058_0000$$$\t"...Muito bem. Peço desculpas por ter duvidado de você. As anomalias desta cidade devem ser obra do mestre dos monstros, não sua."
+5o4tci0s1o1pmih8j941acjgsq.epk_dec\t$$$message_0177_0061_0000$$$\t"...Pare com isso. Não sei qual Espírito Heroico você é, mas, enquanto for meu Servo, não vou permitir que envolva pessoas comuns."[lr]
+5o4tci0s1o1pmih8j941acjgsq.epk_dec\t$$$message_0177_0063_0001$$$\tEu sei o que seu Fantasma Nobre faz, mas você ainda não me disse seu Nome Verdadeiro.[lr]
+5o4tci0s1o1pmih8j941acjgsq.epk_dec\t$$$message_0177_0065_0002$$$\tVocê me invocou como um Servo e fez um pacto comigo.[lr]
+5o4tci0s1o1pmih8j941acjgsq.epk_dec\t$$$message_0177_0067_0000$$$\t"Isso é absurdo! Você é um Servo, então tem que ser um Espírito Heroico! Não existe herói sem nome!"[lr]
+5o4tci0s1o1pmih8j941acjgsq.epk_dec\t$$$message_0177_0072_0002$$$\tEu era só mais uma pessoa numa aldeia cheia de gente que se empolgava demais com esses ensinamentos. Fui tratado como herói por um pouco de pecado e salvação e, ao que parece, acabei consagrado como Espírito Heroico depois de morrer.[wt canskip=0][wm canskip=0][stopdash][current withback=false]
+5o4tci0s1o1pmih8j941acjgsq.epk_dec\t$$$message_0177_0073_0002$$$\tSou um Espírito Heroico de quinta categoria e, como você sabe, um Servo inútil de terceira classe."
+5o4tci0s1o1pmih8j941acjgsq.epk_dec\t$$$message_0177_0075_0000$$$\t"Ainda... Aŋra Mainiiu. Não, tenho certeza de que o Servo que eu pretendia invocar era..."[lr]
+5o4tci0s1o1pmih8j941acjgsq.epk_dec\t$$$message_0177_0077_0002$$$\tUau, isso me diz tudo o que eu precisava saber. Tem outra pessoa na cabeça... o que eu já sabia, claro, mas quem diria que ela seria tão exigente na escolha de Servos![lr]
+5o4tci0s1o1pmih8j941acjgsq.epk_dec\t$$$message_0177_0092_0000$$$\t"Que altruísta da sua parte. Então esse é o seu desejo? Parece um uso bem banal para o Santo Graal."[lr]
+5o4tci0s1o1pmih8j941acjgsq.epk_dec\t$$$message_0177_0114_0000$$$\t"E então? Vai ficar observando daqui de cima para tentar encontrar o Mestre deles?"[lr]
+5o4tci0s1o1pmih8j941acjgsq.epk_dec\t$$$message_0177_0142_0000$$$\t"É. Vamos continuar com isso até você ficar satisfeita, Mestre.[lr]
+5o4tci0s1o1pmih8j941acjgsq.epk_dec\t$$$message_0177_0155_0001$$$\tA afirmação dele de ser o Servo mais fraco está correta.[lr]
+5o4tci0s1o1pmih8j941acjgsq.epk_dec\t$$$message_0177_0155_0002$$$\t...Está certo, mas será que um Espírito Heroico deveria mesmo penar contra adversários desse nível? Espero que ele não esteja me enganando.
+5o4tci0s1o1pmih8j941acjgsq.epk_dec\t$$$message_0177_0158_0001$$$\tEste Servo é singularmente talentoso quando o assunto é não morrer.[lr]
+5o4tci0s1o1pmih8j941acjgsq.epk_dec\t$$$message_0177_0160_0001$$$\tVejo, pelo canto do olho, o cabelo do meu Servo ondulando ao vento.[lr]
+5o4tci0s1o1pmih8j941acjgsq.epk_dec\t$$$message_0177_0162_0001$$$\tHehe, você é esperta, Mestre. No fim, ainda está me pedindo para matar todos os inimigos que eu encontrar."[lr]
+5o4tci0s1o1pmih8j941acjgsq.epk_dec\t$$$message_0177_0163_0001$$$\tLanço um olhar duro ao meu Servo.[lr]
+5o4tci0s1o1pmih8j941acjgsq.epk_dec\t$$$message_0177_0163_0002$$$\t"Ugh. Desculpa, desculpa. Não vou matar ninguém. Vou atrás só dos Mestres ou dos monstros, então para de me olhar assim... Argh, que saco. Minha Mestre é tão tacanha, diferente do peito dela."
+5o4tci0s1o1pmih8j941acjgsq.epk_dec\t$$$message_0177_0164_0004$$$\tSinto repulsa e desconfiança pelo Servo que luta ao meu lado.[lr]
+5o4tci0s1o1pmih8j941acjgsq.epk_dec\t$$$message_0177_0164_0006$$$\t...Ainda assim, aquele Servo parece um pouco mais amigável do que ontem.
+36pfpl28n034nv1h9ip8rjhueq.epk_dec	1748	Ah, espera. Como é mesmo aquele ditado sobre transformar desastre em sorte?[lr]
+36pfpl28n034nv1h9ip8rjhueq.epk_dec	1749	Tenho um estoque secreto de trufas de chocolate. É um Fantasma Nobre limitado, mais do que suficiente para distrair a Fuji-nee...!
+36pfpl28n034nv1h9ip8rjhueq.epk_dec	1783	Você tramou algum plano sujo para fazer a Saber tirar a roupa, [cacheimage storage=藤05b(中)][wvl][chgfg textoff=0 time=300 storage=藤05b(中)]mas eu, servo da justiça, apareci, [cacheimage storage=藤10b(中)][wvl][chgfg textoff=0 time=300 storage=藤10b(中)]e vocês pensaram: "Já sei!" e enfiaram a Saber no armário! [cacheimage storage=white,藤07a頬腕b(中),i衛宮邸_セイバー部屋][wvl][fadein time=100 storage=white][shock vmax=30 time=400 count=3][se storage=se106.wav][rep fliplr=0 storages=藤07a頬腕b(中) time=800 flipud=0 poss=c bg=i衛宮邸_セイバー部屋 indexes=1000]Isso está óbvio para mim há um minuto e vinte segundos...!"
+277afqp16akppi9k0u21q3pkum.epk_dec	1242	Mas, se você se importa, por favor priorize Sakura acima de mim. Sou apenas a Serva dela."
+277afqp16akppi9k0u21q3pkum.epk_dec	1400	Breaker Gorgon era um Campo Limitado superior combinado ao Forte de Sangue Andrômeda que envolve a Ilha Sem Forma.[lr]
+277afqp16akppi9k0u21q3pkum.epk_dec	1401	Enquanto Forte de Sangue Andrômeda cobre o mundo, Breaker Gorgon o sela.[lr]
+277afqp16akppi9k0u21q3pkum.epk_dec	1403	Ao contrário dos Olhos Místicos, Breaker Gorgon atraía seus alvos apenas ao expô-los à energia mágica da Górgona.[lr]
+277afqp16akppi9k0u21q3pkum.epk_dec	1449	Kibisis era aquele inversor de Campo Limitado que aprisionou Rider dentro de sua própria Breaker Gorgon.[lr]
+28cmm1n0a8rsu6j7hj0o4dsf8r.epk_dec	35034	Estou ligado a Bellerophon, e o coração da minha cavaleira ressoa com o meu.[lr]
+28cmm1n0a8rsu6j7hj0o4dsf8r.epk_dec	35035	Este é um estado de espírito, uma fusão perfeita de cavaleira e montaria induzida por um Fantasma Nobre, e ela usou isso para me aprisionar.
+28cmm1n0a8rsu6j7hj0o4dsf8r.epk_dec	35041	O sonho de Rider[line len=2]não, uma ilusão criada com seu Fantasma Nobre, Breaker Gorgon.[lr]
+28cmm1n0a8rsu6j7hj0o4dsf8r.epk_dec	35043	Não preciso pensar por que ela usou esse Campo Limitado em mim e, de todo modo, já estou preso nele.[lr]
+28cmm1n0a8rsu6j7hj0o4dsf8r.epk_dec	35045	que romperam este Campo Limitado.
+28cmm1n0a8rsu6j7hj0o4dsf8r.epk_dec	35053	Inverto novamente o interior da Górgona, recriando o mito do Fantasma Nobre capaz de inverter um Campo Limitado.[lr]
+3sm4a9irhb2u6bd92d2jd3s0rs.epk_dec	22976	Encontrei o Mestre de Assassin na floresta atrás da escola.[lr]
+3sm4a9irhb2u6bd92d2jd3s0rs.epk_dec	22977	O Mestre era o único inimigo à vista, então entramos em combate.
+3sm4a9irhb2u6bd92d2jd3s0rs.epk_dec	22978	O Mestre inimigo era um especialista em marionetes que comandava vários autômatos. As bonecas francesas, projetadas para matar, deram trabalho, mas conheço bem como esse tipo de boneco é feito.[lr]
+3sm4a9irhb2u6bd92d2jd3s0rs.epk_dec	22953	...Mas o lugar que eu ocupava era sutilmente diferente.[lr]
+3sm4a9irhb2u6bd92d2jd3s0rs.epk_dec	22992	Além disso[line len=2]não, talvez seja justamente isso que o torna um [font italic=true]Assassin[font italic=false][line len=2]o inimigo tinha um Fantasma Nobre que assegurava a morte do alvo.
+3sm4a9irhb2u6bd92d2jd3s0rs.epk_dec	23030	Comigo te atrapalhando desse jeito, tenho que admitir: você ainda conseguiu fazer o inimigo usar o Fantasma Nobre já na primeira batalha."
+3sm4a9irhb2u6bd92d2jd3s0rs.epk_dec	23058	Pego minha mochila, aperto mais uma vez o brinco no bolso e saio para enfrentar mais um dia da Guerra do Santo Graal.
+3sm4a9irhb2u6bd92d2jd3s0rs.epk_dec	23101	Minha Mestre aparentemente não leva jeito para tarefas delicadas. Ela é feita de pura violência.
+3sm4a9irhb2u6bd92d2jd3s0rs.epk_dec	23165	Os únicos inimigos que ainda não enfrentamos diretamente são a Mestra dos Einzbern e seu Servo."
+3sm4a9irhb2u6bd92d2jd3s0rs.epk_dec	23192	Meu Fantasma Nobre é uma versão falsa de Avesta, a Criação Universalmente Transcrita. Vou te contar sobre ele quando chegarmos em casa."
+3sm4a9irhb2u6bd92d2jd3s0rs.epk_dec	23193	Avesta é um Fantasma Nobre de suporte capaz de registrar por conta própria acontecimentos já ocorridos. É como uma máquina de escrever autônoma, então é completamente inútil em combate.[lr]
+3sm4a9irhb2u6bd92d2jd3s0rs.epk_dec	23195	É um documento que registra tudo com precisão[line len=2]um Fantasma Nobre que não fere ninguém, digno do nome que carrega: a escritura sagrada.[lr]
+3sm4a9irhb2u6bd92d2jd3s0rs.epk_dec	23196	E meu Fantasma Nobre é apenas uma falsificação banal.
+3sm4a9irhb2u6bd92d2jd3s0rs.epk_dec	23199	Você seria capaz de derrotar um Servo de mãos nuas se fosse preciso, então por que não confia mais em si mesma?"
+3sm4a9irhb2u6bd92d2jd3s0rs.epk_dec	23200	"Bem, eu... É verdade que não me considero inferior a um Servo, mas tudo o que sei fazer é lutar.[lr]
+3sm4a9irhb2u6bd92d2jd3s0rs.epk_dec	23278	Ela se esforçou tanto dentro da Associação, que na verdade nunca a quis, que suas conquistas acabaram transformando-a numa pária, e passaram a tratá-la como um tumor especialmente visível. No fim, mandaram-na para a linha de frente para tirá-la do caminho.[lr]
+3sm4a9irhb2u6bd92d2jd3s0rs.epk_dec	23300	Minha Mestre recua meio passo.
+3sm4a9irhb2u6bd92d2jd3s0rs.epk_dec	23301	"E-eu tenho experiência por causa do trabalho, então não entendo sua pergunta. O que isso tem a ver com a Guerra do Santo Graal?"[lr]
+3sm4a9irhb2u6bd92d2jd3s0rs.epk_dec	23378	"Entendido, Mestre. E você pode me chamar só de Aŋra. É meio enrolado de dizer, não é?"
+3sm4a9irhb2u6bd92d2jd3s0rs.epk_dec	23381	Soa comum demais. Indigno de um Espírito Heroico."
+3sm4a9irhb2u6bd92d2jd3s0rs.epk_dec	23405	Pensar em de quem é exatamente o desejo não vai mudar nada.:P
+2fhc4l5367q75imm779bfrsfv9.epk_dec	23713	"A-Admito que subestimei a força do inimigo. Não esperava um Servo daquele tipo."
+2fhc4l5367q75imm779bfrsfv9.epk_dec	23717	"Isso não é um Servo. É só um monstro que vive na floresta. Pense nele como um espectro que fracassou em se tornar um Servo."[lr]
+2fhc4l5367q75imm779bfrsfv9.epk_dec	23726	"Vamos encontrar a Mestra dos Einzbern, claro. Não havia sinal dela perto do Servo, então deve estar escondida no castelo."[lr]
+2fhc4l5367q75imm779bfrsfv9.epk_dec	23731	"É-é porque eu interpretei mal o seu poder como um loop temporal. Se você fosse um Servo mais normal, eu não precisaria tomar medidas tão desesperadas."[lr]
+2fhc4l5367q75imm779bfrsfv9.epk_dec	23821	Você ainda precisa falar com a Mestra dos Einzbern, lembra? Vá cuidar disso.[wvl][se volume=60 storage=se158.wav] Vou só voltar na frente."
+2fhc4l5367q75imm779bfrsfv9.epk_dec	23864	Antes disso, preciso encontrar a Mestra dos Einzbern e forçá-la a se render.
+2fhc4l5367q75imm779bfrsfv9.epk_dec	23867	A Mestra dos Einzbern, peça central da Guerra do Santo Graal, sabe mais sobre Espíritos Heroicos do que qualquer outra pessoa. Preciso da ajuda dela para desvendar o mistério destes quatro dias.
+2fhc4l5367q75imm779bfrsfv9.epk_dec	23946	Seu objetivo é derrotar a Mestra dos Einzbern e arrancar alguma informação dela.[lr]
+2fhc4l5367q75imm779bfrsfv9.epk_dec	23977	O Avenger sabia que a Mestra dos Einzbern já havia sido eliminada da guerra.[lr]
+2fhc4l5367q75imm779bfrsfv9.epk_dec	23973	Quatro dias após o início da Guerra do Santo Graal, o Servo da Mestra dos Einzbern foi morto, e ela fracassou.[lr]
+2fhc4l5367q75imm779bfrsfv9.epk_dec	24049	Foi só mais tarde que ele se tornou o "herói" que seu povo desejava. Ele era tão impotente quanto no dia em que primeiro lhe impuseram aquele desejo. Nem sequer conseguia usar um Fantasma Nobre."
+2fhc4l5367q75imm779bfrsfv9.epk_dec	24059	A morte é diferente de perder o próprio Servo.[lr]
+2fhc4l5367q75imm779bfrsfv9.epk_dec	24061	"Já terminamos de falar sobre um Servo que eu nem tenho mais?[lr]
+2fhc4l5367q75imm779bfrsfv9.epk_dec	24062	Quero perguntar sobre o seu Servo, Bazett. A Associação de Magos escolheu você, então deve ter invocado um bem famoso."
+2fhc4l5367q75imm779bfrsfv9.epk_dec	24065	Eu tomei o Servo dela, mas sinto que tem alguma mentira aí no meio.
+2fhc4l5367q75imm779bfrsfv9.epk_dec	24078	...Isso significaria que a Mestra dos Einzbern não sabe nada sobre o Fantasma Nobre do Avenger.[lr]
+5o4tci0s1o1pmih8j941acjgsq.epk_dec	$$$message_0177_0010_0000$$$	Claro que não faria isso com a minha Mestra.[lr]
+5o4tci0s1o1pmih8j941acjgsq.epk_dec	$$$message_0177_0015_0002$$$	"Ótimo. Isso vai nos poupar algum tempo. [l][say storage=snplg02_anr_0021 name=アンリ]Então vamos sair daqui e retomar a Guerra do Santo Graal."
+5o4tci0s1o1pmih8j941acjgsq.epk_dec	$$$message_0177_0027_0001$$$	Você não vale grande coisa em combate, mas nunca vi uma habilidade como a sua. Eu cuido da luta na Guerra do Santo Graal, então tudo o que você precisa fazer é me dar cobertura com o seu Fantasma Nobre incomum."
+5o4tci0s1o1pmih8j941acjgsq.epk_dec	$$$message_0177_0043_0003$$$	Melhor voltarmos para a Guerra do Santo Graal enquanto o sangue ainda está quente."[wvs][clfg textoff=0 pos=all rule=シャッター左から time=400]
+5o4tci0s1o1pmih8j941acjgsq.epk_dec	$$$message_0177_0044_0001$$$	Para ser honesto, estou pouco me lixando para a Guerra do Santo Graal, mas também não gosto da ideia de ficar sentado aceitando tudo isso calado.
+5o4tci0s1o1pmih8j941acjgsq.epk_dec	$$$message_0177_0070_0005$$$	Eu sei como meu nobre Mestre deve estar se sentindo agora. Estou muito longe de fazer jus ao meu nome.
+5o4tci0s1o1pmih8j941acjgsq.epk_dec	$$$message_0177_0074_0001$$$	Hahaha. Você é difícil de impressionar, Mestre.
+5o4tci0s1o1pmih8j941acjgsq.epk_dec	$$$message_0177_0144_0002$$$	Meu Servo desvia o olhar.[lr]
+3sm4a9irhb2u6bd92d2jd3s0rs.epk_dec	23128	"Viu só? É isso que acontece quando você baixa a guarda. Só estou assim porque protegi meu Mestre do perigo.[lr]
+3sm4a9irhb2u6bd92d2jd3s0rs.epk_dec	23154	Bazett está rondando a cidade com dois objetivos: matar os monstros e encontrar Mestres.[lr]
+3sm4a9irhb2u6bd92d2jd3s0rs.epk_dec	23186	Você tem um trunfo capaz de derrotar Servos, certo?[lr]
+3sm4a9irhb2u6bd92d2jd3s0rs.epk_dec	23195	É um documento que registra tudo com exatidão[line len=2]um Fantasma Nobre que não fere ninguém, digno do nome que carrega: a escritura sagrada.[lr]
+3sm4a9irhb2u6bd92d2jd3s0rs.epk_dec	23405	Ficar pensando de quem é esse desejo não vai mudar nada.:P
+2fhc4l5367q75imm779bfrsfv9.epk_dec	23767	"...Haah. Isso não é do seu feitio, Mestre. De que adiantaria eu assumir minha forma espiritual e proteger só a mim mesmo? Se você morrer, eu morro junto. Aja mais como uma comandante e descarte o peso morto para concluir a missão."[lr]
+2fhc4l5367q75imm779bfrsfv9.epk_dec	23916	Ela sabe que sou um Mestre, mas não demonstra a menor cautela comigo.[lr]
+2fhc4l5367q75imm779bfrsfv9.epk_dec	24039	Mm, já que o nome dele ficou de fora da [font italic=true]Avesta,[font italic=false] ao menos ele está livre disso. Mas é fraco demais para ser chamado de Espírito Heroico.[lr]
+2fhc4l5367q75imm779bfrsfv9.epk_dec	24065	Eu tomei o Servo dela, mas tenho a sensação de que tem alguma mentira aí no meio.
+2fhc4l5367q75imm779bfrsfv9.epk_dec	24067	"...Você não é mais uma Mestre, então não tenho obrigação de te contar. Além disso, ele é..."
+6kvaqm68cp0525uv8jv928csg5.epk_dec	$$$message_0048_0001_0000$$$	"Ela me dispensou da última vez que vim perguntar sobre a Guerra do Santo Graal..."[lr]
+6kvaqm68cp0525uv8jv928csg5.epk_dec	$$$message_0048_0043_0004$$$	Se isso está mesmo chegando ao fim, então não vou ficar de braços cruzados... [cacheimage storage=キャスターローブ無し02d(中)][wvl][chgfg textoff=0 time=200 storage=キャスターローブ無し02d(中)]Quer dizer, meu Mestre, claro. Eu não."
+6kvaqm68cp0525uv8jv928csg5.epk_dec	$$$message_0048_0113_0002$$$	O homem nunca viu o ato de matar como algo mau. Não sentiu a menor hesitação em se tornar o Mestre dela.[lr]
+5knkbk3mojgc50o4nq5jcsspab.epk_dec	29348	No entanto, apesar de vigiar um certo Servo de Shinto, ela não tinha obtido pista nenhuma.[lr]
+748p1tmj8ehl3slidp7tcak138.epk_dec	41844	"Mesmo agora, dá para ver como nossas personalidades, roupas e até nossos Servos se sobrepõem. É um belo incômodo, não acha?"
+6dqcshrvriv9p4pnbjr3bfjes0.epk_dec	1182	"Oh? Então você está dizendo que querer uma bicicleta ou uma motocicleta a ponto de sair vestida de atendente de loja não é algo superficial da parte de um Servo?"
+4h3qkekrle62nckfhkn4eu02mc.epk_dec	29028	"Você é forte, Rin. Illyasviel, há algum problema se um Servo tomar isso?"[lr]
+1f83rg6bf2p5la0h6uf8bmrt0r.epk_dec	30075	[dash textoff=0 mx=0 opacity=255 layer=base irot=-0.0 cx=400 imag=3.1 time=200 cy=525 mag=2.7 my=11 storage=44＠残骸(最多) rot=-0.0 accel=3]"EsMAGA,[wdash canskip=0][wait canskip=0 time=100] [dash textoff=0 mx=0 opacity=255 layer=base irot=-0.0 cx=400 imag=2.6 time=200 cy=525 mag=2.1 my=11 storage=44＠残骸(最多) rot=-0.0 accel=3]esmAGA,[wdash canskip=0][wait canskip=0 time=100] [dash mx=0 textoff=0 opacity=255 layer=base irot=-0.0 cx=396 imag=4.1 time=200 cy=142 mag=3.3 my=-50 storage=44＠残骸(最多) rot=-0.0 accel=3]esMAga,[wdash canskip=0] [wait canskip=0 time=100][dash textoff=0 mx=0 opacity=255 layer=base irot=-0.0 cx=400 imag=3.5 time=100 cy=7 mag=1 my=0 storage=44＠残骸(最多) rot=-0.0 accel=3]MATA...!"[wdash canskip=0][rf]
+1f83rg6bf2p5la0h6uf8bmrt0r.epk_dec	30170	Ela estala a língua, decepcionada.[lr]
+1f83rg6bf2p5la0h6uf8bmrt0r.epk_dec	30171	Ela só queria dizer que, se a situação apertasse, seria bom derrubar uma ou duas pontes e sair com estrondo.
+1f83rg6bf2p5la0h6uf8bmrt0r.epk_dec	30172	"Você continua exatamente a mesma, não é?[lr]
+1f83rg6bf2p5la0h6uf8bmrt0r.epk_dec	30173	Achei que, nesses últimos seis meses, você tivesse aprendido um pouco de classe."[lr]
+1f83rg6bf2p5la0h6uf8bmrt0r.epk_dec	30175	"Eu só devolvo o tratamento que recebo. No momento, estou sob contrato com um Mestre que de vez em quando precisa de um aviso amistoso."[lr]
+1f83rg6bf2p5la0h6uf8bmrt0r.epk_dec	30176	"Que coincidência. Eu também tenho um familiar que fala demais."
+1f83rg6bf2p5la0h6uf8bmrt0r.epk_dec	30261	"Chega de besteira, Assassin. Eu já disse que seu dever é apoiar meu Mestre. Se nem isso você consegue fazer, então vou incinerar você junto com esses fracotes."
+1f83rg6bf2p5la0h6uf8bmrt0r.epk_dec	30262	"Haha, se acalme. Eu sei que você quer lutar ao lado de Souichirou. Assim como você, a felicidade do seu Mestre é a minha felicidade. E a sua felicidade também é a minha.[lr]
+1f83rg6bf2p5la0h6uf8bmrt0r.epk_dec	30263	Isso quer dizer que podemos nos soltar um pouco. Você há de entender isso como homem, Souichirou. Dá para ver que hoje você está brandindo esses punhos com um vigor incomum."[lr]
+1f83rg6bf2p5la0h6uf8bmrt0r.epk_dec	30264	"...Desculpe. Diante da minha esposa, não consigo me conter.[lr]
+1f83rg6bf2p5la0h6uf8bmrt0r.epk_dec	30268	Qualquer um que conhecesse Kuzuki entenderia o quão estranhas foram aquelas palavras.
+1f83rg6bf2p5la0h6uf8bmrt0r.epk_dec	30270	Quer vamos defender o Templo Ryuudou, quer cortar isso pela raiz, não há tempo para discutir.[lr]
+1f83rg6bf2p5la0h6uf8bmrt0r.epk_dec	30271	Vou deixar as ordens nas suas mãos. Lute conforme os seus desejos... [wvl canskip=false time=600]Esta oportunidade provavelmente não voltará a surgir."[lr]
+1f83rg6bf2p5la0h6uf8bmrt0r.epk_dec	30275	e a bruxa, incapaz de aceitar o fim desta vida, acolhe a oferta dele com uma tristeza insondável.
+1f83rg6bf2p5la0h6uf8bmrt0r.epk_dec	30276	"...Sim. Entendido, Mestre.[lr]
+1f83rg6bf2p5la0h6uf8bmrt0r.epk_dec	30277	Não hesitarei mais em seguir os meus desejos."[lr]
+1f83rg6bf2p5la0h6uf8bmrt0r.epk_dec	30279	A maga da Era dos Deuses começa a tecer mais um sacramento.
+1f83rg6bf2p5la0h6uf8bmrt0r.epk_dec	30281	"Você logo vai se cansar disso. Por que não vai esmagá-los na origem?"[line len=2][wvs][sestop time=5000 nowait=1][lr]
+1f83rg6bf2p5la0h6uf8bmrt0r.epk_dec	30282	"Tsc. Você tem coragem de sugerir isso, Assassin, quando nem sequer consegue sair do portão.[lr]
+1f83rg6bf2p5la0h6uf8bmrt0r.epk_dec	30285	Eles vêm da parte de trás da montanha, e muitos descem até Miyama, mas a horda é tão grande que alguns dos cadáveres já avançam até o Templo Ryuudou.[lr]
+1f83rg6bf2p5la0h6uf8bmrt0r.epk_dec	30287	Se a ideia fosse apenas preservar a si mesmos, ela poderia simplesmente trancar o Mestre dentro do templo.[lr]
+1f83rg6bf2p5la0h6uf8bmrt0r.epk_dec	30288	Um Campo Limitado para impedir o avanço dos mortos já bastaria para proteger os dois.
+1f83rg6bf2p5la0h6uf8bmrt0r.epk_dec	30417	"I-Illya!? O-o que diabos você está fazendo aqui!?"[lr]
+1f83rg6bf2p5la0h6uf8bmrt0r.epk_dec	30419	Não estou com vontade de tomar o lado de ninguém, mas isso aqui já é injusto demais."[lr]
+1f83rg6bf2p5la0h6uf8bmrt0r.epk_dec	30421	É como se ela estivesse dançando num salão de baile, mesmo enquanto os cadáveres são aniquilados ao seu redor.
+1f83rg6bf2p5la0h6uf8bmrt0r.epk_dec	30422	"I-injusto? Illya, você sabe o que esses inimigos são!?"[lr]
+1f83rg6bf2p5la0h6uf8bmrt0r.epk_dec	30427	As palavras da menina [se volume=60 storage=se736.wav]deixam a mente de Sakura em branco.[lr]
+1f83rg6bf2p5la0h6uf8bmrt0r.epk_dec	30428	Atônita, ainda com o espírito abatido, ela ergue os olhos de repente.
+1f83rg6bf2p5la0h6uf8bmrt0r.epk_dec	30429	"I-Illya, o que você..."[lr]
+1f83rg6bf2p5la0h6uf8bmrt0r.epk_dec	30430	"Estou dizendo que você nunca vai vencer enquanto continuar tão passiva.[lr]
+1f83rg6bf2p5la0h6uf8bmrt0r.epk_dec	30431	Você sabia que, neste exato momento, Rin está na linha de frente, garantindo para si a melhor posição?[lr]
+0t30elgo81ssm8dhe4d5ls5kro.epk_dec	35810	Se é para colocar nos seus termos, eu diria que ele é o senhor desta casa."
+0t30elgo81ssm8dhe4d5ls5kro.epk_dec	35814	Shirou é o senhor desta casa. E eu prefiro que continue assim."
+0t30elgo81ssm8dhe4d5ls5kro.epk_dec	35816	Ela... é diferente do que eu imaginava... Sei lá, eu sempre achei que ela fosse mais assustadora.
+0t30elgo81ssm8dhe4d5ls5kro.epk_dec	35817	"Aham, muito obrigado.[lr]
+0t30elgo81ssm8dhe4d5ls5kro.epk_dec	35844	"D-de [wvl canskip=0 time=400]uma vez só!?"[wm canskip=0]
+0t30elgo81ssm8dhe4d5ls5kro.epk_dec	35940	"Eu não fui clara?[lr]
+0t30elgo81ssm8dhe4d5ls5kro.epk_dec	35943	...Sempre enxerguei a Associação de Magos de forma meio idealizada... mas isso é deprimente demais.
+0t30elgo81ssm8dhe4d5ls5kro.epk_dec	35944	"Hum... Então você quer que a gente te indique algum empregador?"
+0t30elgo81ssm8dhe4d5ls5kro.epk_dec	35947	"O que quer dizer com isso? Por que não pega qualquer bico que aparecer, como o Emiya já faz?"
+0t30elgo81ssm8dhe4d5ls5kro.epk_dec	35949	"Mas... [cacheimage storage=バゼットイヤリング03c(中)][wvl canskip=0 time=400][chgfg time=300 storage=バゼットイヤリング03c(中)]eu, ahn...[cacheimage storage=バゼットイヤリング04g(中)][wvl canskip=0 time=400][chgfg time=300 storage=バゼットイヤリング04g(中)]simplesmente não faço ideia [cacheimage storage=white,セイバー私服12g(遠),桜私服05f(遠),凛私服03f(遠),バゼットイヤリング06c(近),i衛宮邸居間(fd)][wvl canskip=0 time=200][se storage=se023.wav][fadein time=50 storage=white][shock vmax=30 time=400 count=4][rep fliplr=0 tops=133,132,144,6 storages=セイバー私服12g(遠),桜私服05f(遠),凛私服03f(遠),バゼットイヤリング06c(近) time=200 flipud=0 lefts=612,487,-11,181 bg=i衛宮邸居間(fd) indexes=1000,2000,3000,4000]de que tipo de trabalho combina comigo!"[wm canskip=0]
+0t30elgo81ssm8dhe4d5ls5kro.epk_dec	35950	"...É, imagino que isso seja bem complicado."
+0t30elgo81ssm8dhe4d5ls5kro.epk_dec	35957	"Um trabalho em que eu não possa usar minhas habilidades é a opção menos atraente para mim."
+0t30elgo81ssm8dhe4d5ls5kro.epk_dec	35980	Não posso me chamar de Mestre se estiver desempregada."
+0t30elgo81ssm8dhe4d5ls5kro.epk_dec	35982	"Estou falando da própria essência da relação entre Mestre e Servo.[lr]
+0t30elgo81ssm8dhe4d5ls5kro.epk_dec	35983	Um Mestre emprega um Servo. Portanto, é óbvio que cabe a mim fornecer comida, roupas e abrigo."
+0t30elgo81ssm8dhe4d5ls5kro.epk_dec	35984	"Cabe ao Mestre zelar pelo próprio Servo.[lr]
+0t30elgo81ssm8dhe4d5ls5kro.epk_dec	35985	Não faria sentido eu continuar desempregada enquanto ponho meu Servo para trabalhar e bancar minhas despesas de viagem."
+0t30elgo81ssm8dhe4d5ls5kro.epk_dec	35986	"Ah... Entendi. Você está dizendo que ou o Mestre provê, ou o Servo trabalha.[lr]
+0t30elgo81ssm8dhe4d5ls5kro.epk_dec	35987	Então está fora de questão fazer o seu Servo ajudar nas tarefas da casa?"
+0t30elgo81ssm8dhe4d5ls5kro.epk_dec	35988	"Claro que está. Um Mestre deve dar conta da própria vida."
+0t30elgo81ssm8dhe4d5ls5kro.epk_dec	36325	Só para constar, se atrasar na jogada é derrota automática."
+0t30elgo81ssm8dhe4d5ls5kro.epk_dec	36328	Estão prontos? [cacheimage storage=バゼットイヤリング02f(中),white][wvl canskip=0 time=400][clfg][fg index=1000 pos=c storage=バゼットイヤリング02f(中)][dash storage=i衛宮邸居間(fd) page=back textoff=0 mx=-34 opacity=255 layer=all irot=-0.0 cx=888 imag=2.4 time=800 cy=541 mag=2.1 my=-42 rot=-0.0 accel=3][transex time=200 textoff=0]Pedra, [wdash canskip=0][se storage=se091.wav][wait canskip=0 time=800][fadein textoff=0 time=100 rule=走る感じ(右から) storage=white][clfg][fg index=1000 pos=c storage=バゼットイヤリング02f(中)][dash storage=i衛宮邸居間(fd) page=back textoff=0 mx=44 opacity=255 layer=all irot=-0.0 cx=-25 imag=2.4 time=800 cy=256 mag=2.1 my=0 rot=-0.0 accel=3][transex time=200 textoff=0]papel..."[se storage=se090.wav][wdash canskip=0]
+0t30elgo81ssm8dhe4d5ls5kro.epk_dec	36329	"Tesoura!"[wm canskip=0]
+0t30elgo81ssm8dhe4d5ls5kro.epk_dec	36332	Li-a direitinho. Bazett pensa demais em tudo, [fadein time=800 storage=fd10_ts textoff=0][stopdash]então eu não achei [wait canskip=0 time=200]que [wait canskip=0 time=200]ela [wait canskip=0 time=200]fosse [wait canskip=0 time=200]jogar [wait canskip=0 time=200]te[wait canskip=0 time=200]soura[fadein time=800 storage=fd10c_ts textoff=0][sestop time=1000 nowait=1][se storage=se727.wav][wait canskip=0 time=400]...hã?
+0t30elgo81ssm8dhe4d5ls5kro.epk_dec	36334	Espera, o que essa arma humana está resmungando...!?
+0t30elgo81ssm8dhe4d5ls5kro.epk_dec	36335	"Peguei![lr]
+0t30elgo81ssm8dhe4d5ls5kro.epk_dec	36336	Pedra, papel, [dash textoff=0 mx=0 opacity=255 layer=base irot=-0.0 cx=725 imag=1 time=800 cy=1 mag=4.7 my=0 storage=fd10c_ts rot=-0.0 accel=2][wdash canskip=0][wvl][se storage=se088.wav][dash textoff=0 mx=733 opacity=60 layer=base irot=0.011 cx=35 imag=3.9 flipud=1 time=200 cy=576 mag=3.4 my=-331 storage=r01ボディーブロウ rot=-0.0 accel=0][wdash canskip=0][dash textoff=0 mx=739 opacity=255 layer=base irot=0.011 cx=35 imag=3.9 flipud=1 time=200 cy=576 mag=1.3 my=-108 storage=r01ボディーブロウ rot=-0.0 accel=2]morra...!"[wdash canskip=0]
+0t30elgo81ssm8dhe4d5ls5kro.epk_dec	36367	Sakura solta um "Eba!" [fadein time=400 storage=white textoff=0][clfg][fg index=3000 pos=c storage=凛私服04c(近)][dash storage=i衛宮邸居間(fd) textoff=0 page=back mx=-247 opacity=255 layer=all irot=-0.0 cx=630 imag=1.4 time=3000 cy=230 mag=1.4 my=0 rot=-0.0 accel=0][transex textoff=0 time=300]Tohsaka assente, satisfeita.[fadein time=400 storage=white textoff=0][clfg][fg index=5000 pos=c storage=セイバー私服12c(近)][dash storage=i衛宮邸居間(fd) textoff=0 page=back mx=0 opacity=150 layer=all irot=-0.0 cx=400 imag=1.5 time=3000 cy=300 mag=1.2 my=0 rot=-0.0 accel=0][transex textoff=0 time=300][lr]
+0cm8u754487sr1821uoj2at0lh.epk_dec	45925	"Obrigado pela paciência. Agora vamos falar sobre Fantasmas Nobres, o elemento mais marcante de [font italic=true]Rise! Operation Super Space-Time Tiger&Shorts Hanafuda[font italic=false]."
+72isnb7vpt1kco04r749lo7ce4.epk_dec	8798	É só que é difícil conseguir resultados, já que há muitos amadores, eu incluído, mas no ano que vem todo mundo vai reconhecer o valor dela."
+72isnb7vpt1kco04r749lo7ce4.epk_dec	8800	"...O que isso importa para alguém que largou o clube? A capitã Matou não precisa da sua pena. Poxa, você podia ao menos parar de insistir nisso."[lr]
+72isnb7vpt1kco04r749lo7ce4.epk_dec	8802	Quanta hostilidade, hein?[lr]
+72isnb7vpt1kco04r749lo7ce4.epk_dec	8803	Então o irmãozinho da Mitsuzuri ficou incomodado porque eu saí no meio do caminho?
+72isnb7vpt1kco04r749lo7ce4.epk_dec	8804	"Ei, sair assim é mesmo tão errado? Você tem algum problema com isso?"[lr]
+72isnb7vpt1kco04r749lo7ce4.epk_dec	8805	"Não tenho opinião nenhuma sobre isso. Claro, alguém tão bom quanto você devia ter seus motivos para sair.[lr]
+72isnb7vpt1kco04r749lo7ce4.epk_dec	8806	...Quer dizer, eu consigo aprender bastante quando você aparece no clube de arco. E o humor da minha irmã melhora pelo resto do dia também, então não tem nada de tão ruim nisso."
+727t6ki35rcja0cvt0v2csen1q.epk_dec	1618	"...Isso é estranho.[lr]
+727t6ki35rcja0cvt0v2csen1q.epk_dec	1619	Em primeiro lugar, Servos não são facilmente afetados pelas leis físicas do mundo atual. Como Mestre, você devia saber muito bem disso.[lr]
+727t6ki35rcja0cvt0v2csen1q.epk_dec	1622	Para você não acabar perdendo para um Servo tão insensível."[lr]
+727t6ki35rcja0cvt0v2csen1q.epk_dec	1636	"Sou um Servo, então não importa o quanto eu coma...[cacheimage storage=ライダー私服04d(中)][wvl canskip=0 time=400][chgfg time=300 storage=ライダー私服04d(中)]não vou ficar mais alta."[lr]
+727t6ki35rcja0cvt0v2csen1q.epk_dec	1637	Hã? Elas estavam falando de altura?
+727t6ki35rcja0cvt0v2csen1q.epk_dec	1642	"Ultimamente, Sakura vem se petrificando para não entrar em choque."[lr]
+727t6ki35rcja0cvt0v2csen1q.epk_dec	1643	"...Entendi. A constituição física dela está sincronizando com a do Servo?"
+71l2gsndklaujft2ina4sjtj13.epk_dec	43883	"E-e-e-essa é a Mestra loli dos Einzbern de quem ouvi tanto falar!?"
+71l2gsndklaujft2ina4sjtj13.epk_dec	43885	Céus, mesmo depois de virar um Servo você continua com cérebro de pudim."
+71l2gsndklaujft2ina4sjtj13.epk_dec	43898	"E este é o meu Servo, Berserker."
+71l2gsndklaujft2ina4sjtj13.epk_dec	43903	"É o que é. Se minha impostora pode se tornar um Servo, não é surpresa que ela tenha acabado com um Servo de quinta."
+71l2gsndklaujft2ina4sjtj13.epk_dec	43904	"Hmm, rebater com piadinhas era um dos meus talentos como Servo?"
+71l2gsndklaujft2ina4sjtj13.epk_dec	43908	"Ela está dizendo que foi invocada de outro mundo, Taiga. Ao contrário dos Espíritos Heroicos, que transcenderam as linhas do tempo, ela é uma forasteira vinda de um mundo completamente diferente."
+71l2gsndklaujft2ina4sjtj13.epk_dec	43920	"...(suspiro) Achei que conseguiria manter a fachada, mas acabou que também sou um Mestre neste mundo."
+71l2gsndklaujft2ina4sjtj13.epk_dec	43929	[hfchance layer=0]"Ou você não se importa em servir a um Mestre falso?"
+71l2gsndklaujft2ina4sjtj13.epk_dec	43938	"Se isso faz de mim o Servo dela, então tanto faz!"
+71l2gsndklaujft2ina4sjtj13.epk_dec	43943	"Se o nosso for falso, então é só usar o poder do Santo Graal para abrir espaço para outro!"
+71l2gsndklaujft2ina4sjtj13.epk_dec	43953	"Você pode até ser meu Servo, mas eu sempre vou respeitá-lo como mentor!"
+71l2gsndklaujft2ina4sjtj13.epk_dec	43960	"Vamos ver como a minha impostora e o Servo palhaço dela realmente lutam!"
+70vf9j985ueph9i6ibo1c38b9t.epk_dec	40234	"Ah, não, a gente dá um jeito. Temos a Minori, então, no pior dos casos, é só pôr ele para dançar... [cacheimage storage=美綴02d(中)][wvl canskip=0 time=400][chgfg time=200 storage=美綴02d(中)]Não, espera. Se for para fazer uma apresentação, já temos uma mestra bem aqui.[lr]
+70vf9j985ueph9i6ibo1c38b9t.epk_dec	40153	"Q-quêê!? De jeito nenhum, a Saber não disse, [font color=0x9E0326]"Mostre-me a mais linda dessa escola. Heheheh, é você afinal, Kaede Makidera? Vou te matar agora"[rf]!?"[lr]
+70vf9j985ueph9i6ibo1c38b9t.epk_dec	40296	Ele não é mago, mas é o Mestre de Caster.[lr]
+70vf9j985ueph9i6ibo1c38b9t.epk_dec	40469	A Guerra do Santo Graal não vai acabar.[lr]
+70vf9j985ueph9i6ibo1c38b9t.epk_dec	40486	"...É. Vou encerrar esta Guerra do Santo Graal."[lr]
+70vf9j985ueph9i6ibo1c38b9t.epk_dec	40499	Você vai pôr fim à Guerra do Santo Graal. Mesmo que eu tentasse salvá-lo impedindo você, o resultado provavelmente seria o mesmo."
+70mmrb5bemedn6e4c5s6ai472g.epk_dec	20934	"...Isso mesmo. Até que esta reencenação da Guerra do Santo Graal termine, preciso estar na cidade na quarta noite.[lr]
+6tcr5ar0qce4keq8dob7cfsctg.epk_dec	$$$message_9075_0005_0000$$$	"É difícil entrar para a diretoria estudantil?"[r]
+6sqkmetn30125a6i1hjpt638g9.epk_dec	44906	"É. Bem, vou para o vestiário. Não demore muito.[wvl canskip=false time=200][hffacechg2 chara=ランサーprt face=喜 pos=winner time=300 textclear=0][hfpop layer=2] O onsen deve ser a nossa recompensa. Não desperdice isso, está bem?"
+6sqkmetn30125a6i1hjpt638g9.epk_dec	44908	"Ayaka. Um lorde deve recompensar devidamente seus súditos. Não preciso explicar que essa é a marca de um Mestre de primeira linha."
+6sqkmetn30125a6i1hjpt638g9.epk_dec	44909	"Q-q-quê..."
+6sqkmetn30125a6i1hjpt638g9.epk_dec	44922	"É. Certo, vamos demolir isso."
+6sqkmetn30125a6i1hjpt638g9.epk_dec	44924	"Ei! Eu consigo ouvir vocês dois! O que pensam que estão fazendo!?"
+6sqkmetn30125a6i1hjpt638g9.epk_dec	44925	"No meu sinal, então. Nem mesmo uma parede erguida pelo Santo Graal deve ser capaz de resistir a dois Fantasmas Nobres ao mesmo tempo..."[skip_next_tag][br]
+6shr98doje71in3s6j5u8enp4m.epk_dec	15438	Sou eu quem vai te levar, afinal. Seria patético se eu não fizesse ao menos isso para cuidar de você, como sua mentora."
+727t6ki35rcja0cvt0v2csen1q.epk_dec	1618	"...Isso é estranho.[lr]
+727t6ki35rcja0cvt0v2csen1q.epk_dec	1619	Em primeiro lugar, Servos não são facilmente afetados pelas leis físicas do mundo atual. Como Mestre, você devia saber muito bem disso.[lr]
+727t6ki35rcja0cvt0v2csen1q.epk_dec	1622	Para você não acabar perdendo para um Servo tão insensível."[lr]
+727t6ki35rcja0cvt0v2csen1q.epk_dec	1636	"Sou um Servo, então não importa o quanto eu coma...[cacheimage storage=ライダー私服04d(中)][wvl canskip=0 time=400][chgfg time=300 storage=ライダー私服04d(中)]não vou ficar mais alta."[lr]
+727t6ki35rcja0cvt0v2csen1q.epk_dec	1637	Hã? Elas estavam falando de altura?
+727t6ki35rcja0cvt0v2csen1q.epk_dec	1642	"Ultimamente, Sakura vem se petrificando para não entrar em choque."[lr]
+727t6ki35rcja0cvt0v2csen1q.epk_dec	1643	"...Entendi. A constituição física dela está sincronizando com a do Servo?"
+727t6ki35rcja0cvt0v2csen1q.epk_dec	1661	"Tá, mas pelo menos veste alguma coisa...[lr]
+71l2gsndklaujft2ina4sjtj13.epk_dec	43883	"E-e-e-essa é a Mestra loli dos Einzbern de quem ouvi tanto falar!?"
+71l2gsndklaujft2ina4sjtj13.epk_dec	43885	Céus, mesmo depois de virar um Servo você continua com pudim no lugar do cérebro."
+71l2gsndklaujft2ina4sjtj13.epk_dec	43898	"E este é o meu Servo, Berserker."
+71l2gsndklaujft2ina4sjtj13.epk_dec	43903	"É o que é. Se minha impostora pode se tornar um Servo, não é surpresa que ela tenha acabado com um Servo de quinta categoria."
+71l2gsndklaujft2ina4sjtj13.epk_dec	43904	"Hmm, rebater com piadinhas era um dos meus talentos como Servo?"
+71l2gsndklaujft2ina4sjtj13.epk_dec	43905	"Enfim, quem liga?[l][hfchance layer=1][say storage=HSTR6_TIG_0240 _name=藤ねえ] Então você é a versão mais séria e profissional da Illya!"[hffacechg chara=イリヤ face=楽 layer=0 time=200]
+71l2gsndklaujft2ina4sjtj13.epk_dec	43908	"Ela está dizendo que foi invocada de outro mundo, Taiga. Ao contrário dos Espíritos Heroicos, que transcenderam as linhas do tempo, ela é uma forasteira vinda de um mundo completamente diferente."
+71l2gsndklaujft2ina4sjtj13.epk_dec	43920	"...(suspiro) Achei que conseguiria manter a fachada, mas acabou que também sou um Mestre neste mundo."
+71l2gsndklaujft2ina4sjtj13.epk_dec	43929	[hfchance layer=0]"Ou você não se importa em servir a um Mestre falso?"
+71l2gsndklaujft2ina4sjtj13.epk_dec	43938	"Se isso faz de mim o Servo dela, então tanto faz!"
+71l2gsndklaujft2ina4sjtj13.epk_dec	43943	"Se o nosso for falso, então é só usar o poder do Santo Graal para abrir espaço para outro!"
+71l2gsndklaujft2ina4sjtj13.epk_dec	43953	"Você pode ser meu Servo, mas eu sempre vou respeitá-lo como mentor!"
+71l2gsndklaujft2ina4sjtj13.epk_dec	43960	"Vamos ver como a minha impostora e o Servo palhaço dela realmente lutam!"
 '''.strip().splitlines()
+
+
+COMMON_TEXT_REPLACEMENTS = (
+    ("Pergaminho Nobre", "Fantasma Nobre"),
+    ("Blood Fort Andromeda", "Forte de Sangue Andrômeda"),
+    ("Mystic Eye Killers", "Supressores de Olhos Místicos"),
+    ("Campo Limitante", "Campo Limitado"),
+    ("Ilha Formalessa", "Ilha Sem Forma"),
+    ("Ilha Formaless", "Ilha Sem Forma"),
+    ("Gorgon Breaker", "Breaker Gorgon"),
+    ("Einzberns", "Einzbern"),
+    ("summonado", "invocado"),
+    ("Servants", "Servos"),
+    ("Servant", "Servo"),
+    ("Hey.", "Ei."),
+)
 
 
 def build_patches() -> dict[str, dict[str, str]]:
@@ -480,12 +767,18 @@ def build_patches() -> dict[str, dict[str, str]]:
             parts = raw_line.split("\\t", 2)
         if len(parts) != 3:
             raise ValueError(f"Linha de patch inválida: {raw_line!r}")
-        file_name, row_id, text = parts
-        patches.setdefault(file_name, {})[row_id] = text
+        file_name, row_key, text = parts
+        patches.setdefault(file_name, {})[row_key] = text
     return patches
 
 
 PATCHES = build_patches()
+
+
+def normalize_text(text: str) -> str:
+    for old, new in COMMON_TEXT_REPLACEMENTS:
+        text = text.replace(old, new)
+    return text
 
 
 def parse_rows(path: Path) -> tuple[dict[str, str], dict[str, str]]:
@@ -534,11 +827,17 @@ def build_clean_lines(file_name: str) -> list[str]:
         if text is not None:
             unknown_overrides.discard(row_id)
         else:
-            text = pt_by_label.get(label) or pt_by_id.get(row_id)
+            text = overrides.get(label)
+            if text is not None:
+                unknown_overrides.discard(label)
+            else:
+                text = pt_by_label.get(label) or pt_by_id.get(row_id)
 
         if text is None:
             missing.append(f"{file_name}::{row_id}::{label}")
             text = ""
+        else:
+            text = normalize_text(text)
 
         clean_lines.append(f"{row_id}::{label}::{text}::")
 
