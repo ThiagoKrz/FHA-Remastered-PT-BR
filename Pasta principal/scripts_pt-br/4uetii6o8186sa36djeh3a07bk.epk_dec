@@ -28,7 +28,7 @@ id=qid::label=str::text=lstr::
 32529::$$$message_0259_0004_0000$$$::Saber e eu somos os únicos na ponte.[lr]::
 32530::$$$message_0259_0004_0001$$$::Não há carros. Meu cérebro tenso é indiferente ao rugido do oceano e ao vento marinho.::
 32531::$$$message_0259_0005_0000$$$::"Isso me leva de volta. Lembra daquela vez que fomos juntos até a igreja?"::
-32532::$$$message_0259_0006_0000$$$::"Sim. Você ainda não sabia o que significa ser um Mestre, eu ainda não havia aceitado ser seu Servant, e Rin ainda era nossa inimiga.[lr]::
+32532::$$$message_0259_0006_0000$$$::"Sim. Você ainda não sabia o que significa ser um Mestre, eu ainda não havia aceitado ser seu Servo, e Rin ainda era nossa inimiga.[lr]::
 32533::$$$message_0259_0006_0001$$$::Em retrospecto, formamos um trio estranho de fato."::
 32534::$$$message_0259_0007_0000$$$::Ela me dá um sorriso nostálgico.[lr]::
 32535::$$$message_0259_0007_0001$$$::Um momento fragmentado de paz. No entanto, não podemos baixar a guarda.::
@@ -79,7 +79,7 @@ id=qid::label=str::text=lstr::
 32580::$$$message_0259_0022_0004$$$::Depois que Saber bloqueia um tiro, podemos evitar o mesmo destino que antes se nos aproximarmos antes que ele termine de carregar o próximo ataque.::
 32581::$$$message_0259_0023_0000$$$::...Mas como eu posso fazer isso acontecer?[lr]::
 32582::$$$message_0259_0023_0001$$$::Ele está a quatro quilômetros de distância em linha reta. Dobro disso se tivermos que navegar pelas ruas para chegar até ele.[lr]::
-32583::$$$message_0259_0023_0002$$$::Saber poderia retaliar com seu Pergaminho Nobre, mas a área de efeito de Excalibur é muito ampla.::
+32583::$$$message_0259_0023_0002$$$::Saber poderia retaliar com seu Fantasma Nobre, mas a área de efeito de Excalibur é muito ampla.::
 32584::$$$message_0259_0024_0000$$$::Ela poderia arrasar toda a área ao redor do Prédio Central. Além disso, estamos falando de Archer.[lr]::
 32585::$$$message_0259_0024_0001$$$::Alguém que conhece bem a Saber poderia pensar em contramedidas contra Excalibur.::
 32586::$$$message_0259_0025_0000$$$::A tática óbvia para usar contra um artilheiro capaz é forçá-lo a combate corpo a corpo.[lr]::
@@ -122,8 +122,8 @@ id=qid::label=str::text=lstr::
 32623::$$$message_0259_0036_0004$$$::O verdadeiro valor de Shirou Emiya será medido uma vez que ativo meu Selo de Mando.::
 32624::$$$message_0259_0037_0000$$$::[font italic=true]"Trigger, on. (Selo de Mando, carregado.)"[font italic=false]::
 32625::$$$message_0259_0038_0000$$$::Diez segundos.[lr]::
-32626::$$$message_0259_0038_0001$$$::Selos de Mando podem ser usados para temporariamente reforçar um Servant.[lr]::
-32627::$$$message_0259_0038_0002$$$::Sua imensa energia mágica pode ser convertida em poder para um Servant usar. É força bruta pura.[wm canskip=0][wm canskip=0][wsplinemove canskip=0][lr]::
+32626::$$$message_0259_0038_0001$$$::Selos de Mando podem ser usados para temporariamente reforçar um Servo.[lr]::
+32627::$$$message_0259_0038_0002$$$::Sua imensa energia mágica pode ser convertida em poder para um Servo usar. É força bruta pura.[wm canskip=0][wm canskip=0][wsplinemove canskip=0][lr]::
 32628::$$$message_0259_0038_0003$$$::É suficiente para preencher os Circuitos Mágicos excepcionais de Saber.[wm canskip=0][wm canskip=0][wm canskip=0][wsplinemove canskip=0][lr]::
 32629::$$$message_0259_0038_0004$$$::Suficiente para ressuscitar o domínio lendário do Rei dos Cavaleiros no campo de batalha.[wm canskip=0][wm canskip=0][wm canskip=0][wsplinemove canskip=0][sestop time=1000 nowait=true][se storage=se170.wav][shock vmax=20 time=300 count=-3][fadein textoff=0 time=200 storage=B20(FD)]::
 32630::$$$message_0259_0039_0000$$$::Eu uso meu Selo de Mando para ordenar que ela [font italic=true]voe[font italic=false].[lr]::
@@ -134,7 +134,7 @@ id=qid::label=str::text=lstr::
 32635::$$$message_0259_0041_0000$$$::"Conforme meu contrato com o Santo Graal, o sétimo Mestre ordena você."::
 32636::$$$message_0259_0042_0000$$$::Cinco segundos.[lr]::
 32637::$$$message_0259_0042_0001$$$::O oponente é um arqueiro anônimo.[lr]::
-32638::$$$message_0259_0042_0002$$$::Um Espírito Heroico de ferreiro que usa Pergaminhos Nobres projetados como flechas.[lr]::
+32638::$$$message_0259_0042_0002$$$::Um Espírito Heroico de ferreiro que usa Fantasmas Nobres projetados como flechas.[lr]::
 32639::$$$message_0259_0042_0003$$$::Seu dardo se chama Hrunting, o Cão das Planícies Vermelhas. Desta vez, ele pretende atingir sua presa.[lr]::
 32640::$$$message_0259_0042_0004$$$::...Correção. Adicione cinco segundos.[lr]::
 32641::$$$message_0259_0042_0005$$$::Leva mais tempo para recarregar. Ele puxa seu arco ao máximo e alimenta ainda mais energia mágica em sua arma, para resistir à fúria desatada da energia mágica de Saber.[wm canskip=0]::
@@ -204,7 +204,7 @@ id=qid::label=str::text=lstr::
 32705::$$$message_0259_0058_0000$$$::[font italic=true]"…on! (...complete!)"[font italic=false][cacheimage storage=橋決戦04(素材・瓦礫Aブラー),橋決戦04(素材・瓦礫a)][wvs][wdash canskip=0][fg left=32 textoff=0 opacity=0 index=4000 top=102 time=200 storage=橋決戦04(素材・瓦礫Aブラー)][fg left=32 textoff=0 opacity=0 index=5000 top=102 time=200 storage=橋決戦04(素材・瓦礫a)][lr]::
 32706::$$$message_0259_0058_0001$$$::Archer vê tudo se desenrolar, como a própria sorte.[wm canskip=0][wm canskip=0]::
 32707::$$$message_0259_0059_0000$$$::O garoto concentrou toda a força que possuía, até mesmo a vontade de respirar, no braço esquerdo para desferir uma contra-ataque.[wm canskip=0][lr]::
-32708::$$$message_0259_0059_0001$$$::O Pergaminho Nobre Projetado envia faíscas voando pelo ar.[lr]::
+32708::$$$message_0259_0059_0001$$$::O Fantasma Nobre Projetado envia faíscas voando pelo ar.[lr]::
 32709::$$$message_0259_0059_0002$$$::Os músculos dele rasgam por todo o corpo.[lr]::
 32710::$$$message_0259_0059_0003$$$::Cobrindo o medo de morrer, ele conseguiu uma defesa única na vida.[wm canskip=0]::
 32711::$$$message_0259_0060_0000$$$::O arqueiro ainda tem a vantagem nesse combate.[lr]::
@@ -217,7 +217,7 @@ id=qid::label=str::text=lstr::
 32718::$$$message_0259_0061_0002$$$::...Parece que caí um pouco demais de volta para o meu papel original."[lr]::
 32719::$$$message_0259_0061_0003$$$::Quão irônico.[lr]::
 32720::$$$message_0259_0061_0004$$$::O estilo de luta do homem sempre foi totalmente diferente do de um arqueiro.[lr]::
-32721::$$$message_0259_0061_0005$$$::Esse Servant prefere combate corpo a corpo com duas espadas, mas voltou para sua especialidade de alcance da classe, deixando-o despreparado para o contra-ataque da Saber.::
+32721::$$$message_0259_0061_0005$$$::Esse Servo prefere combate corpo a corpo com duas espadas, mas voltou para sua especialidade de alcance da classe, deixando-o despreparado para o contra-ataque da Saber.::
 32722::$$$message_0259_0062_0000$$$::"Essa façanha merecia seu título, Archer.[lr]::
 32723::$$$message_0259_0062_0001$$$::Se seu Mestre estivesse aqui, talvez isso tivesse terminado de forma diferente."::
 32724::$$$message_0259_0063_0000$$$::"...Ha. Não sejas um idiota, Saber.[lr]::
@@ -227,7 +227,7 @@ id=qid::label=str::text=lstr::
 32728::$$$message_0259_0064_0000$$$::"Tsc. Não consigo segurar por muito tempo. Tem mais algo para dizer, Saber? Isso é sua obrigação como vencedor. Faça suas perguntas."[lr]::
 32729::$$$message_0259_0064_0001$$$::Há um som suave de areia se espalhando.[lr]::
 32730::$$$message_0259_0064_0002$$$::Não é algo tão comum quanto sangrar.[lr]::
-32731::$$$message_0259_0064_0003$$$::Enquanto sangue flui pelas veias de um Servant enquanto ele estiver vivo...[lr]::
+32731::$$$message_0259_0064_0003$$$::Enquanto sangue flui pelas veias de um Servo enquanto ele estiver vivo...[lr]::
 32732::$$$message_0259_0064_0004$$$::...Ele retorna à poeira assim que sua vida é cortada.::
 32733::$$$message_0259_0065_0000$$$::"...Não. Não tenho mais nada a pedir.[lr]::
 32734::$$$message_0259_0065_0001$$$::Você deve ter tido seus motivos para pegar novamente seu arco, e eu roubei sua vida em troca. Não há mais nada que eu possa te roubar."::

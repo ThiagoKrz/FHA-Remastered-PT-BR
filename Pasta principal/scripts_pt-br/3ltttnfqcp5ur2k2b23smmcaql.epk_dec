@@ -117,7 +117,7 @@ id=qid::label=str::text=lstr::
 24733::$$$message_0182_0032_0000$$$::Ele verificou o olho de cortina.[lr]::
 24734::$$$message_0182_0032_0001$$$::Por meio do campo de visão arredondado e distorcido, ele não conseguia ver ninguém na entrada.[lr]::
 24735::$$$message_0182_0032_0002$$$::Mas havia alguns pontos vermelhos no piso bege.[line len=2]::
-24736::$$$message_0182_0033_0000$$$::Seus tímpanos estavam prestes a estourar. Não havia ninguém na entrada. [quake vmax=8 hmax=5 time=1500][se volume=100 storage=se637.wav]O barulho não parava. [condoff target=all][noise_back][rep force=1 textoff=0 fliplr=0 tops=0 storages=fk026覗き窓 time=400 flipud=0 lefts=0 bg=fk027マンション内装c indexes=3000]::è£c indexes=3000]Mr. A's eyeball approached the peephole again. There could have been someone there, but he was at the wrong angle to see them. [quake vmax=8 hmax=5 time=1500][se volume=100 storage=se637.wav]The noise wouldn't stop. It was right below the peephole. Something just out of view...[lr]::
+24736::$$$message_0182_0033_0000$$$::Seus tímpanos estavam prestes a estourar. Não havia ninguém na entrada. [quake vmax=8 hmax=5 time=1500][se volume=100 storage=se637.wav]O barulho não parava. [condoff target=all][noise_back][rep force=1 textoff=0 fliplr=0 tops=0 storages=fk026覗き窓 time=400 flipud=0 lefts=0 bg=fk027マンション内装c indexes=3000]::
 24737::$$$message_0182_0033_0001$$$::Algo vestindo vermelho estava preso na porta...[quake vmax=8 hmax=5 time=1500][se volume=100 storage=se637.wav]::
 24738::$$$message_0182_0034_0000$$$::Ele correu de volta pelo longo corredor.[lr]::
 24739::$$$message_0182_0034_0001$$$::O relógio marcava 2:00 da manhã.::
@@ -300,7 +300,7 @@ id=qid::label=str::text=lstr::
 24916::$$$message_0182_0100_0004$$$::Já passou tempo suficiente para que eu possa rememorar tudo com calma.::
 24917::$$$message_0182_0101_0000$$$::A Guerra do Santo Graal está tudo no passado.[lr]::
 24918::$$$message_0182_0101_0001$$$::Fuyuki está livre de qualquer brasa de conflito.[lr]::
-24919::$$$message_0182_0101_0002$$$::A Santa Cúpula foi levada. Os Servants não estão mais entre nós. Os mortos não voltarão a andar. O tempo flui sem contratempos.::
+24919::$$$message_0182_0101_0002$$$::A Santa Cúpula foi levada. Os Servos não estão mais entre nós. Os mortos não voltarão a andar. O tempo flui sem contratempos.::
 24920::$$$message_0182_0102_0000$$$::Meu dia a dia não precisa mudar.[lr]::
 24921::$$$message_0182_0102_0001$$$::Eles estão todos aqui, os diversos fatores que conectam cada um dos meus dias.[lr]::
 24922::$$$message_0182_0102_0002$$$::O modo certo de um humano viver é desfrutando das pequenas mudanças que conectam ontem a hoje, e hoje a amanhã.::
@@ -391,4 +391,4 @@ id=qid::label=str::text=lstr::
 25007::$$$message_0182_0130_0003$$$::Para encerrar o acampamento mais divertido que já estive...[lr]::
 25008::$$$message_0182_0130_0004$$$::"...Aqui vai um longo, então."[lr]::
 25009::$$$message_0182_0130_0005$$$::...Vou sair do personagem e contar uma história pela primeira vez.::
-924954::$$$message_9182_0112_0001$$$::Menino do templo, de fato. Uma vez que você menciona túmulos, corpos mortos e retribuição karmica, ninguém sabe mais do que ele.[r]::��
+924954::$$$message_9182_0112_0001$$$::Menino do templo, de fato. Uma vez que você menciona túmulos, corpos mortos e retribuição karmica, ninguém sabe mais do que ele.[r]::
