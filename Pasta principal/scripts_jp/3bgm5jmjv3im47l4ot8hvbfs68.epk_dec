@@ -1,0 +1,29 @@
+DAT
+id=qid::label=str::text=lstr::
+41319::$$$message_0276_0000_0000$$$::「[ruby text=はらえど char=2]祓戸の[ruby text=おおかみ char=2]大神たち　[ruby text=もろもろ char=2]諸々の[ruby text=まがごと char=2]禍事　[ruby text=つみけがれあ char=3]罪穢有らむをば[br]　[ruby text=はら]祓え[ruby text=たま]給い　[ruby text=きよ]清め[ruby text=たま]給えと[ruby text=もう]白す[ruby text=こと]事を[ruby text=き]聞こし[ruby text=め]食せと[br]　[ruby text=かしこ]恐み[ruby text=かしこ]恐みも[ruby text=もう]白す～～～」::
+41320::$$$message_0276_0001_0000$$$::「遠坂神社へようこそ。[br]　それでは当神社の正式な参拝作法を教えるわね」::
+41321::$$$message_0276_0002_0000$$$::「神様に失礼のないよう、身を清めることは大切です。　拝礼の作法や[ruby text=かしわで char=2]柏手ももちろん大事。[br]　が、なにより大切なのは[line len=3]」::
+41322::$$$message_0276_0003_0000$$$::「『お[ruby text=さいせん char=2]賽銭』！[wvs canskip=0 time=400][say storage=kujifaq_rin_0030b name=凛]　なにはなくとも[wvs canskip=0 time=200][say storage=kujifaq_rin_0030c name=凛][shock vmax=10 time=200 count=2][wait canskip=0 time=200][delay speed=1]『お[shock vmax=10 time=200 count=2][wait canskip=0 time=200][ruby text=さい]賽[shock vmax=10 time=200 count=2][wait canskip=0 time=200][ruby text=せん]銭』[shock vmax=10 time=200 count=2][wait canskip=0 time=200]よ[delay speed=user][shock vmax=10 time=200 count=2][cacheimage storage=凛巫女服01f(近),071_white][wait canskip=0 time=100][chgfg time=100 storage=凛巫女服01f(近)][movefg opacity=255 left=-44 top=-54 time=100 accel=0 storage=071_white textoff=0][wm canskip=0][se storage=hfse013.wav][shock vmax=20 time=500 count=3][movefg opacity=0 left=-44 top=-54 time=200 accel=0 storage=071_white textoff=0 rule=koyama02r][wm canskip=0]！？」::
+41323::$$$message_0276_0004_0000$$$::「画面左下に現在の『所持金』が表示されています。[br]　この所持金を使って『[ruby text=おみくじ char=3]御神籤』と『[ruby text=えま o2o=1]絵馬』が買えます」::
+41324::$$$message_0276_0005_0000$$$::「[ruby text=おみくじ char=3]御神籤は一回につき百円。[br]　運勢は“大吉”から“大凶”まで」::
+41325::$$$message_0276_0006_0000$$$::「くじの内容も仕事、恋愛、学業、旅行、失物と色々。[br]::
+41326::$$$message_0276_0006_0001$$$::　結果が不満なら、所持金の許すかぎり引き直しても[br]　オッケー！」::
+41327::$$$message_0276_0007_0000$$$::「……あまり度が過ぎちゃうのも考えものだけど」::
+41328::$$$message_0276_0008_0000$$$::「絵馬はそれぞれ価格が異なっています。[br]　カーソルを絵馬に重ねると価格が表示されるから、[br]所持金と相談して選ぶといいわ」::
+41329::$$$message_0276_0009_0000$$$::「絵馬には当ファンディスクで使用された立ち絵や設定画、その他色々な画像が描かれています」::
+41330::$$$message_0276_0010_0000$$$::「……なかにはかなり貴重で変わったものもあるみたい。[lr]::
+41331::$$$message_0276_0010_0001$$$::　その[ruby text=あた]辺りは推して知るべし。購入時のショートコメントも必見」::
+41332::$$$message_0276_0011_0000$$$::「購入した絵馬画像は、ギャラリーのアナザーメニューに登録されて、じっくり鑑賞できるようになるから安心してね」::
+41333::$$$message_0276_0012_0000$$$::「購入した絵馬には『済』マークがつきます。[br]　[cacheimage storage=凛巫女服01b(近)][wvl][chgfg time=300 storage=凛巫女服01b(近)]再度選べば購入時のショートコメントを見直すことも出来るわ。この時には所持金は減りません」::
+41334::$$$message_0276_0013_0000$$$::「ゲーム開始時は、絵馬は数枚しか掛かってないけど、冬木市のあちこちに出かけると徐々に増えていく仕組みになっています。[cacheimage storage=凛巫女服01c(近)][wvl canskip=0 time=400][chgfg time=300 storage=凛巫女服01c(近)]う～ん、いやらしい」::
+41335::$$$message_0276_0014_0000$$$::「絵馬は全部で三十八種類。気が向いたら集めてみて。[lr]::
+41336::$$$message_0276_0014_0001$$$::　[cacheimage storage=凛巫女服01f(近)][wvl canskip=0 time=400][chgfg time=300 storage=凛巫女服01f(近)][shock vmax=20 time=300 count=2][se storage=se054.wav]というか是非に。[wvl canskip=0 time=400][shock vmax=20 time=300 count=2][se storage=se054.wav]がっつりと。[br]　[cacheimage storage=凛巫女服01f頬(近)][wvl][chgfg time=300 storage=凛巫女服01f頬(近)][shock vmax=30 time=600 count=6][se storage=se054.wav]我が家の[se storage=se054.wav]家計を助けると思って！」::
+41337::$$$message_0276_0015_0000$$$::「さて肝心の所持金がなくなったらどうなるの？[br]　[cacheimage storage=凛巫女服01c(近)][wvl][chgfg time=300 storage=凛巫女服01c(近)][line len=3]と思った人、[wvl][move textoff=0 opacity=255 storage=048_ピカ cx=79 py=181 px=533 affine=(533,181,-90,1.1,255,79,79)(533,181,-180,1,255,79,79) time=800 cy=79 mag=1 deg=+0.0 accel=-2][se storage=se452.wav][wm canskip=0]スルドイ」::
+41338::$$$message_0276_0016_0000$$$::「所持金は最初は五百円だけど、ゲーム中で増やすこともできます。[cacheimage storage=凛巫女服01m(近)][wvl][chgfg time=300 storage=凛巫女服01m(近)]その方法は[wvl][move textoff=0 time=190 path=(122,46,255)(151,23,255)(174,46,255)(151,23,255)(122,46,255)(151,23,255)(174,46,255)(151,23,255) storage=凛巫女服01m(近) accel=0 spline=1]超遠坂機密！[br]　[wm canskip=0][cacheimage storage=凛巫女服01b(近)][wvl canskip=0 time=400][chgfg time=300 storage=凛巫女服01b(近)][move textoff=0 time=150 path=(151,46,255)(151,23,255)(151,34,255)(151,23,255) storage=凛巫女服01b(近) accel=0]……というのもあんまりなので、[wvl][wm canskip=0]ボーナスヒント」::
+41339::$$$message_0276_0017_0000$$$::「所持金を増やすには幾つか方法があるわ」::
+41340::$$$message_0276_0018_0000$$$::「まずは、ひたすらにストーリーを進める。[br]　[cacheimage storage=凛巫女服01c(近)][wvl][chgfg time=300 storage=凛巫女服01c(近)]お金に関係ありそうなエピソードとかも、狙い目？」::
+41341::$$$message_0276_0019_0000$$$::「それと全く新しいサヴァゲーに挑戦してみたりする、とか！」::
+41342::$$$message_0276_0020_0000$$$::「あと、幸運に恵まれたりしても増える、[cacheimage storage=凛巫女服01c(近)][wvl canskip=0 time=400][chgfg time=300 storage=凛巫女服01c(近)]かも？」::
+41343::$$$message_0276_0021_0000$$$::「所持金は、その都度お知らせを表示したりせずに、こっそり増えてるわ。あしからず。[br]　[cacheimage storage=凛巫女服01b(近)][wvl][chgfg time=300 storage=凛巫女服01b(近)]気になる人は神社に日参して確認してみてね」::
+41344::$$$message_0276_0022_0000$$$::「ではこれで説明はおしまい。[br]　ご静聴ありがとう。どうぞゆっくりしていってね」::
+41345::$$$message_0276_0023_0000$$$::「……私もいるがな」[lr]::�

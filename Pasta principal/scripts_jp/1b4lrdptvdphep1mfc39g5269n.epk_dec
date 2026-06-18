@@ -1,0 +1,52 @@
+DAT
+id=qid::label=str::text=lstr::
+43676::$$$message_0370_0000_0000$$$::「名実ともに最強のコンビ、遠坂凛とそのサーヴァント・アーチャー[wvs][hfchance layer=0][say storage=HSTR4_RIN_0020 _name=凛]ここに参上！」::
+43677::$$$message_0370_0001_0000$$$::「本番はここからよお二人さん！[lr]::
+43678::$$$message_0370_0001_0001$$$::　[se storage=se060.wav]引導を渡してあげるわ！」::
+43679::$$$message_0370_0001_0002$$$::「……って、[l][hfwww layer=0][say storage=HSTR4_RIN_0080 _name=凛]何してんのよアーチャー。[lr]::
+43680::$$$message_0370_0001_0003$$$::　さっき練習したでしょ、ほら決めポーズ決めポーズ」::
+43681::$$$message_0370_0001_0004$$$::「う、うむ……天に明星、地に煉獄。[lr]::
+43682::$$$message_0370_0001_0005$$$::　儘ならぬ界隈を颯爽と世直し巡る赤い旋風」::
+43683::$$$message_0370_0002_0000$$$::「……あー、誰が呼んだか冬木の守護神、ここに参上……[wait canskip=0 time=300][l][hffacechg chara=アーチャー face=哀 layer=0 time=200][say storage=HSTR4_ARC_0040 _name=アーチャー]だよ？」::
+43684::$$$message_0370_0002_0001$$$::「（弱気だ……！）」::
+43685::$$$message_0370_0002_0002$$$::「気合いが入ってなーいっ！[lr]::
+43686::$$$message_0370_0002_0003$$$::　こうよこう、右手はもっと天を突くように、眼光は敵を射抜くよーに！」::
+43687::$$$message_0370_0002_0004$$$::「せっかく高い所にいるんだから、見上げ効果も考える[hfchance layer=0]！[l][say storage=HSTR4_RIN_0140 _name=凛]　視線はやや下方、あごは首もとに合わせるのがベストよ！」::
+43688::$$$message_0370_0002_0005$$$::「………すまんがマスター。キャラ的に、私にはこれが精一杯だ」::
+43689::$$$message_0370_0002_0006$$$::「む。[l][hfwww layer=0][say storage=HSTR4_RIN_0170 _name=凛]じゃああの金ピカの真似でいいから偉そうにしてなさい」::
+43690::$$$message_0370_0002_0007$$$::「そういうわけで[l][hfchance layer=0][say storage=HSTR4_RIN_0200 _name=凛]やり直し、っと[line len=3]」[nolr][p]::
+43691::$$$message_0370_0002_0008$$$::「闇夜を切り裂く赤い閃光！[lr]::
+43692::$$$message_0370_0002_0009$$$::　混乱の冬木を守るウワサのアイツ、心の税金を取り立てるお金の味方！」[wm canskip=0][wm canskip=0]::
+43693::$$$message_0370_0003_0000$$$::「人呼んでさすらい守銭奴、[wm canskip=0][wm canskip=0][movefg textoff=0 opacity=255 left=398 top=27 time=400 accel=3 layer=4][se storage=se084.wav][movefg textoff=0 opacity=255 left=-198 top=33 time=400 accel=3 layer=2][se storage=se085.wav][wvs][say storage=HSTR4_RIN_0250 _name=凛]絶対[wm canskip=0][wm canskip=0][wait canskip=0 time=200][move textoff=0 spread=1 mx=541 magnify=1 time=300 my=605 path=(522,548,255,2) layer=5 accel=-2][move textoff=0 spread=1 mx=541 magnify=1 time=300 my=605 path=(522,548,0,2) layer=4 accel=-2][movefg textoff=0 opacity=0 left=-198 top=33 time=300 accel=3 layer=2][movefg textoff=0 opacity=255 left=-198 top=33 time=300 accel=0 layer=3][se storage=se086.wav][wvs][say storage=HSTR4_RIN_0260 _name=凛]領域[wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][wait canskip=0 time=200][move textoff=0 spread=1 mx=185 magnify=1 time=600 my=320 path=(340,506,255,2) layer=3 accel=3][move textoff=0 spread=1 mx=517 magnify=1.42 time=150 my=563 path=(523,508,255,1.35)(600,339,255,0.71)(604,490,255,0.78)(635,335,255,0.71) layer=5 accel=2 spline=1][se storage=se087.wav][se storage=se088.wav][wvs][say storage=HSTR4_RIN_0270 _name=凛]黙示録……！！！！！」[wm canskip=0][wm canskip=0][se storage=se371.wav][wait canskip=0 time=200][movefg textoff=0 opacity=20 left=390 top=47 time=20 accel=0 layer=5][movefg textoff=0 opacity=20 left=-423 top=-34 time=20 accel=0 layer=3][se storage=se238.wav][se storage=se430.wav][se storage=se276.wav][wm canskip=0][wm canskip=0][movefg textoff=0 opacity=255 left=334 top=-50 time=3300 accel=0 layer=5][movefg textoff=0 opacity=255 left=-440 top=50 time=3300 accel=0 layer=3][dash textoff=0 hidefg=0 mx=0 opacity=100 layer=base irot=-0.0 cx=400 imag=3.15 time=500 cy=300 mag=1 my=0 storage=08魔術・攻撃b rot=-0.0 accel=-2][wdash canskip=0][dash textoff=0 hidefg=0 mx=0 opacity=100 layer=base irot=-0.0 cx=400 imag=3.15 time=500 cy=300 mag=1 my=0 storage=07衝撃 rot=-0.0 accel=-2][wdash canskip=0][dash textoff=0 hidefg=0 mx=0 opacity=255 layer=base irot=-0.0 cx=400 imag=4 time=2800 cy=300 mag=1.8 my=0 storage=08魔術・攻撃b rot=5 accel=-4][wdash canskip=0][wm canskip=0][wm canskip=0]::
+43694::$$$message_0370_0004_0000$$$::[hfu]「[hfl]「[hfu][line len=1][hfl][line len=1][hfu][line len=1][hfl][line len=1][hfu][line len=1][hfl][line len=1][hfu][line len=1][hfl][line len=1][hfu][line len=1][hfl][line len=1][hfu][line len=1][hfl][line len=1][hfu]」[hfl]」[playstop time=6000 nowait=true][wait canskip=0 time=3000][nolr][p]::
+43695::$$$message_0370_0004_0001$$$::「……ちょっと。[lr]::
+43696::$$$message_0370_0004_0002$$$::　なんか言いなさいよ、アンタたち」::
+43697::$$$message_0370_0004_0003$$$::「……え？　あ、[l][hfchance layer=1][say storage=HSTR4_TIG_0020 _name=藤ねえ]やば、思わず何もかも忘れちゃった」::
+43698::$$$message_0370_0004_0004$$$::「えーと、気をつけてイリヤちゃん、今日の遠坂さんはどこかヘンっていうかもはや別人よ……！」::
+43699::$$$message_0370_0004_0005$$$::「コ、コイツはシラフじゃかなわねー！」::
+43700::$$$message_0370_0004_0006$$$::「……タイガもいい勝負だと思うけど……まあ、たしかにリンとは思えないハラキリぶりね」::
+43701::$$$message_0370_0004_0007$$$::「なに、本編でイマイチパッとしなかったから、ここらで巻き返しを図ろうってコト？」::
+43702::$$$message_0370_0004_0008$$$::「あはは。イリヤちゃん、それハリキリハリキリ。でも意味はなんとなく合っているわ！」::
+43703::$$$message_0370_0004_0009$$$::「遠坂さん、ヒロインから降板したからってはやまっちゃダメよー」::
+43704::$$$message_0370_0004_0010$$$::「そんな気はありませんっ！[lr]::
+43705::$$$message_0370_0004_0011$$$::　わたしたちは純粋に、マスターとして貴女たちを叩きのめしに来ただけよ！」::
+43706::$$$message_0370_0004_0012$$$::「べ、別に聖杯の力でロンドン編をねじこもうなんて考えてもいないんだから！」::
+43707::$$$message_0370_0004_0013$$$::「ありゃりゃ。遠坂さんったら無欲なのね。先生ちょっと感動」::
+43708::$$$message_0370_0004_0014$$$::「まさか、冬木市一欲望まみれのリンがそんなワケないじゃない。ね、アーチャー？」::
+43709::$$$message_0370_0004_0015$$$::「いやいや、実現しない欲望は無害だからね」::
+43710::$$$message_0370_0004_0016$$$::「ま、仮に勝ち残ったところで最後の最後でしくじるのがいつものオチだ。冬木市を混乱に陥れるコトはあるまい」::
+43711::$$$message_0370_0004_0017$$$::「あは、さっすがアーチャー、リンのコトよく分かってるー」::
+43712::$$$message_0370_0004_0018$$$::「そこ、敵と和まないっ！」::
+43713::$$$message_0370_0005_0000$$$::[hffacechg chara=凛 face=楽 pos=upper time=200]「[line len=3]ふん、無駄話はここまでよ。貴女たちの実力はだいたい分かったわ」::
+43714::$$$message_0370_0005_0001$$$::「おかしなサーヴァントを連れているけど、固有結界勝負でわたしのアーチャーに勝てると思わないことね」::
+43715::$$$message_0370_0005_0002$$$::「む。言われてみれば、なんとなく親近感が」::
+43716::$$$message_0370_0006_0000$$$::[hffacechg chara=藤ねえ face=まったく2 layer=1 time=200]「……んー、なんだろ、なんか見たことあるような。そこの色黒、前にわたしと会ったコトある？」::
+43717::$$$message_0370_0006_0001$$$::「さて。そちらが覚えていないのなら、面識はないという事だろう。他人のそら似だ、気にせずかかってくるといい」::
+43718::$$$message_0370_0006_0002$$$::「……むー、やっぱりアーチャーはタイガに甘い」::
+43719::$$$message_0370_0006_0003$$$::「わたし知ってるよ。[l][hfpop layer=1][say storage=HSTR4_BIR_0080 _name=ブルマイリヤ]凛ルートでキャスターから逃げた後、凛に『無事か？』って確かめたの、誰に対してだったのかなー？」::
+43720::$$$message_0370_0006_0004$$$::「どうだかな。君の想像にお任せするよ」::
+43721::$$$message_0370_0006_0005$$$::「だから和むなー！[lr]::
+43722::$$$message_0370_0006_0006$$$::　セイバーと桜は脱落、衛宮くんもそこでのびてるし、残るは貴女だけよイリヤ」::
+43723::$$$message_0370_0006_0007$$$::「衛宮邸最強は誰なのか、ここでハッキリさせてあげるわ！」::
+43724::$$$message_0370_0006_0008$$$::「望むところよ[line len=3][l][hffacechg chara=藤ねえ face=うーん layer=1 time=200][hfchance layer=1][say storage=HSTR4_TIG_0120 _name=藤ねえ]って、わたしは！？[lr]::
+43725::$$$message_0370_0006_0009$$$::　[hfwww layer=1]わたしはライバルヒロインの枠に入ってないの遠坂さぁぁあーん！？」[nolr][p]::

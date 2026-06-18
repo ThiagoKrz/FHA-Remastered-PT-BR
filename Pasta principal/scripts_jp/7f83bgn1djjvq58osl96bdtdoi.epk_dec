@@ -1,0 +1,119 @@
+DAT
+id=qid::label=str::text=lstr::
+5600::$$$message_0038_0000_0000$$$::　気が付くと土蔵の中でぼんやりしてた。[lr]::
+5601::$$$message_0038_0000_0001$$$::　昼飯のあと、なんとなく立ち寄ってそのままうたた寝してしまったらしい。[lr]::
+5602::$$$message_0038_0000_0002$$$::「……ふわぁ……なんもないしな、戻るか」::
+5603::$$$message_0038_0001_0000$$$::　……む、俺の部屋に人の気配。[lr]::
+5604::$$$message_0038_0001_0001$$$::「……誰だ？」[lr]::
+5605::$$$message_0038_0001_0002$$$::　部屋の中をひっそりとかきまわしている。[lr]::
+5606::$$$message_0038_0001_0003$$$::　桜が洗濯物を探しているのか[line len=3]いや、違うな。::
+5607::$$$message_0038_0002_0000$$$::「……凛、このような事はよろしくない」[lr]::
+5608::$$$message_0038_0002_0001$$$::「でもね、気にならない？　やっぱり」::
+5609::$$$message_0038_0003_0000$$$::　……何をやっているんだ？[lr]::
+5610::$$$message_0038_0003_0001$$$::　気になるが、いま顔を出しても遠坂はごまかし通すだろう。[lr]::
+5611::$$$message_0038_0003_0002$$$::「……様子を見るか」::
+5612::$$$message_0038_0004_0000$$$::　この距離で気が付かないっていうのは珍しい。[lr]::
+5613::$$$message_0038_0004_0001$$$::　セイバーまで気を取られているのか。::
+5614::$$$message_0038_0005_0000$$$::「気になる、ならないではありません凛。[lr]::
+5615::$$$message_0038_0005_0001$$$::　やはり、シロウに失礼です」[lr]::
+5616::$$$message_0038_0005_0002$$$::「でもねー、衛宮くんだって密かにセイバーの部屋に忍び込んでるかも知れないわよ？」::
+5617::$$$message_0038_0006_0000$$$::「………………」[lr]::
+5618::$$$message_0038_0006_0001$$$::　…………アイツ、コロス。[lr]::
+5619::$$$message_0038_0006_0002$$$::　そりゃ、遠坂が留守の間あいつの部屋に上がりこんだコトはあるけど、あくまで掃除の為であってだな、::
+5620::$$$message_0038_0007_0000$$$::「……シロウに限ってそのような事はありません」[lr]::
+5621::$$$message_0038_0007_0001$$$::「どうかしら。ほら、衛宮くんだって年頃の男の子じゃない。それなのにセイバーみたいな娘と一緒だったらねー、衛宮くんってほら」[lr]::
+5622::$$$message_0038_0007_0002$$$::　コロスゾー？[lr]::
+5623::$$$message_0038_0007_0003$$$::　その先を言ったらホントにコロス[line len=3][chgfg time=200 storage=セイバー私服13c(遠) textoff=0]::
+5624::$$$message_0038_0008_0000$$$::「……とにかく、そのようなものはシロウの部屋にはない筈です」[cacheimage storage=凛私服03b(遠)][wvs][chgfg time=200 storage=凛私服03b(遠) textoff=0][lr]::
+5625::$$$message_0038_0008_0001$$$::「どうかしらね、わたしはある方に賭けるわよ[line len=3]負けたら何か奢ってあげる」[cacheimage storage=セイバー私服01a(遠)][wvs][chgfg time=200 storage=セイバー私服01a(遠) textoff=0][lr]::
+5626::$$$message_0038_0008_0002$$$::「では江戸前屋のどら焼きでお願いします」[lr]::
+5627::$$$message_0038_0008_0003$$$::　[movefg opacity=255 left=-559 top=0 time=600 accel=-2 layer=3 textoff=0][wait canskip=false time=50 textoff=0][movefg opacity=255 left=460 top=0 time=600 accel=-2 layer=4 textoff=0]……セイバーが負けたらどうするんだろう？[wm canskip=0][wm canskip=0]::
+5628::$$$message_0038_0009_0000$$$::　傍目に見ても、遠坂には絶対の自信があるようだ。[lr]::
+5629::$$$message_0038_0009_0001$$$::　[line len=3]というか、何を探してるんだろうか？::
+5630::$$$message_0038_0010_0000$$$::「さってさて、どの辺からいきましょうかねー」[lr]::
+5631::$$$message_0038_0010_0001$$$::「[movefg opacity=255 time=300 pos=r accel=-2 storage=凛私服08a(遠) textoff=0][movefg opacity=255 time=300 pos=c accel=-2 storage=セイバー私服07b(遠) textoff=0][movefg opacity=255 left=-591 top=0 time=400 accel=-2 layer=3 textoff=0][movefg opacity=255 left=599 top=0 time=400 accel=-2 layer=4 textoff=0]……この部屋にはモノを隠す場所は、さほどありませんから」[cacheimage storage=凛私服08a(遠)][wvs][wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][chgfg time=200 storage=凛私服08a(遠) textoff=0][lr]::
+5632::$$$message_0038_0010_0002$$$::「[movefg opacity=255 time=300 pos=rc accel=-2 storage=凛私服08a(遠) textoff=0][movefg opacity=255 time=300 pos=l accel=-2 storage=セイバー私服07b(遠) textoff=0][movefg opacity=255 left=-498 top=0 time=400 accel=-2 layer=3 textoff=0][movefg opacity=255 left=685 top=0 time=400 accel=-2 layer=4 textoff=0]机の下……引き出しの奥、この辺が常道よね」[wvs][wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][lr]::
+5633::$$$message_0038_0010_0003$$$::　[movefg opacity=255 time=300 pos=r accel=-2 storage=凛私服08a(遠) textoff=0][movefg opacity=255 left=-463 top=0 time=400 accel=-2 layer=3 textoff=0][movefg opacity=255 left=633 top=0 time=400 accel=-2 layer=4 textoff=0]まるで宝探しだな、あれは。[lr]::
+5634::$$$message_0038_0010_0004$$$::　隠すようなやましい物なんかないのに。へそくりも無いし。[wm canskip=0][wm canskip=0][wm canskip=0]::
+5635::$$$message_0038_0011_0000$$$::「無いわね。となると、畳の下か押し入れの中か」[cacheimage storage=セイバー私服01a(遠)][wvs][chgfg time=200 storage=セイバー私服01a(遠) textoff=0][lr]::
+5636::$$$message_0038_0011_0001$$$::「[movefg opacity=255 time=300 pos=lc accel=-2 storage=セイバー私服01a(遠) textoff=0][movefg opacity=255 left=-708 top=0 time=400 accel=-2 layer=3 textoff=0][movefg opacity=255 left=522 top=0 time=400 accel=-2 layer=4 textoff=0]私の記憶では、シロウがこの部屋で畳を返していた事はありません」[cacheimage storage=凛私服06e(遠)][wvs][wm canskip=0][wm canskip=0][wm canskip=0][chgfg time=200 storage=凛私服06e(遠) textoff=0][lr]::
+5637::$$$message_0038_0011_0002$$$::「[movefg opacity=255 time=300 pos=rc accel=-2 storage=凛私服06e(遠) textoff=0][movefg opacity=255 left=-484 top=0 time=400 accel=-2 layer=3 textoff=0][movefg opacity=255 left=715 top=0 time=400 accel=-2 layer=4 textoff=0]普通そんなコトしないわよ。でも、士郎なら念入りにやりそうよね」[wvs][wm canskip=0][wm canskip=0][wm canskip=0][lr]::
+5638::$$$message_0038_0011_0003$$$::　……俺は忍者か戦国武将か。[lr]::
+5639::$$$message_0038_0011_0004$$$::　第一、畳の下なんてろくにモノを隠せないぞ。[lr]::
+5640::$$$message_0038_0011_0005$$$::　床下まで潜れば話は別だけど。[chgfg time=300 storage=セイバー私服04a(遠) textoff=0]::
+5641::$$$message_0038_0012_0000$$$::「[movefg opacity=255 left=-675 top=0 time=400 accel=-2 layer=3 textoff=0][movefg opacity=255 left=515 top=0 time=400 accel=-2 layer=4 textoff=0]土蔵の中という可能性もありませんか？」[cacheimage storage=凛私服01e(遠)][wvs][wm canskip=0][wm canskip=0][wm canskip=0][chgfg time=200 storage=凛私服01e(遠) textoff=0][lr]::
+5642::$$$message_0038_0012_0001$$$::「[movefg opacity=255 left=-482 top=0 time=400 accel=-2 layer=3 textoff=0][movefg opacity=255 left=717 top=0 time=400 accel=-2 layer=4 textoff=0]あ[line len=3]あそこなら山ほど隠せそうだし、士郎も毎晩行ってるわね。でも、魔術師は工房に集中の妨げとなるモノは極力排除するわ」[cacheimage storage=セイバー私服01a(遠)][wvs][wm canskip=0][wm canskip=0][chgfg time=200 storage=セイバー私服01a(遠) textoff=0][lr]::
+5643::$$$message_0038_0012_0002$$$::「[movefg opacity=255 left=-712 top=0 time=400 accel=-2 layer=3 textoff=0][movefg opacity=255 left=475 top=0 time=400 accel=-2 layer=4 textoff=0]なるほど、雑念が入ると命取りですね」[wvs][wm canskip=0][wm canskip=0][lr]::
+5644::$$$message_0038_0012_0003$$$::　[movefg opacity=255 left=-585 top=0 time=500 accel=-2 layer=3 textoff=0][movefg opacity=255 left=434 top=0 time=500 accel=-2 layer=4 textoff=0]充分[ruby text=ガラクタ char=2]妨げまみれだけどな、あそこ。[lr]::
+5645::$$$message_0038_0012_0004$$$::　けど、そういう遠坂だって地下室に、体力トレーニング用品を持ち込んでるくせに。::
+5646::$$$message_0038_0013_0000$$$::　……で、集中の妨げになる“何か”を、俺は隠している事になってるんだ？[wm canskip=0][wm canskip=0][chgfg time=200 storage=凛私服01d(遠) textoff=0][lr]::
+5647::$$$message_0038_0013_0001$$$::「[movefg opacity=255 left=-430 top=0 time=100 accel=0 layer=3 textoff=0][movefg opacity=255 left=434 top=0 time=100 accel=0 layer=4 textoff=0][movefg opacity=255 time=100 pos=l accel=0 storage=セイバー私服01a(遠) textoff=0]……[wm canskip=0][wm canskip=0][wm canskip=0][movefg opacity=255 left=-498 top=0 time=600 accel=-2 layer=3 textoff=0][movefg opacity=255 left=708 top=0 time=700 accel=-2 layer=4 textoff=0]これこれ、こういうのを探してたのよ」[cacheimage storage=セイバー私服01c(遠)][wvs][wm canskip=0][wm canskip=0][chgfg time=200 storage=セイバー私服01c(遠) textoff=0][lr]::
+5648::$$$message_0038_0013_0002$$$::「[movefg opacity=255 time=300 pos=r accel=-2 storage=凛私服01d(遠) textoff=0][movefg opacity=255 time=500 pos=lc accel=-2 storage=セイバー私服01c(遠) textoff=0][movefg opacity=255 left=-702 top=0 time=600 accel=-2 layer=3 textoff=0][movefg opacity=255 left=503 top=0 time=600 accel=-2 layer=4 textoff=0]まさか……凛、本当にあったのですか？」[cacheimage storage=凛私服05c(遠)][wvs][wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][chgfg time=200 storage=凛私服05c(遠) textoff=0][lr]::
+5649::$$$message_0038_0013_0003$$$::「[movefg opacity=255 time=500 pos=rc accel=-2 storage=凛私服05c(遠) textoff=0][movefg opacity=255 time=300 pos=l accel=-2 storage=セイバー私服01c(遠) textoff=0][movefg opacity=255 left=-510 top=0 time=500 accel=-2 layer=3 textoff=0][movefg opacity=255 left=673 top=0 time=500 accel=-2 layer=4 textoff=0]衛宮くんがおやつをこんなトコに隠してるわけないしね、これがビンゴよ、きっと」[wvs][wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0]::
+5650::$$$message_0038_0014_0000$$$::　[movefg opacity=255 time=500 top=145 left=480 accel=-2 storage=凛私服05c(遠) textoff=0][movefg opacity=255 left=-512 top=0 time=500 accel=-2 layer=3 textoff=0][movefg opacity=255 left=575 top=0 time=500 accel=-2 layer=4 textoff=0]菓子箱？[lr]::
+5651::$$$message_0038_0014_0001$$$::　あんなもん隠していたか？[lr]::
+5652::$$$message_0038_0014_0002$$$::　……いやまて、思い出せ、たしかそれは……[wm canskip=0][wm canskip=0][wm canskip=0]::
+5653::$$$message_0038_0015_0000$$$::「[movefg opacity=255 time=400 pos=lc accel=-2 storage=セイバー私服10a(遠) textoff=0][movefg opacity=255 left=-650 top=0 time=500 accel=-2 layer=3 textoff=0][movefg opacity=255 left=528 top=0 time=500 accel=-2 layer=4 textoff=0]いえ、まだ中を見てみるまで分かりません」[cacheimage storage=凛私服03b(遠)][wvs][wm canskip=0][wm canskip=0][wm canskip=0][chgfg time=200 storage=凛私服03b(遠) textoff=0][lr]::
+5654::$$$message_0038_0015_0001$$$::「[movefg opacity=255 time=400 pos=rc accel=-2 storage=凛私服03b(遠) textoff=0][movefg opacity=255 time=400 pos=l accel=-2 storage=セイバー私服10a(遠) textoff=0][movefg opacity=255 left=-515 top=0 time=500 accel=-2 layer=3 textoff=0][movefg opacity=255 left=685 top=0 time=500 accel=-2 layer=4 textoff=0]往生際が悪いわよセイバー。さてご開帳ー……[wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][cacheimage storage=凛私服09e(遠)][wvl canskip=false time=300][chgfg time=200 storage=凛私服09e(遠) textoff=0]うわ」[cacheimage storage=セイバー私服06b腕b(遠)][wvs][chgfg time=200 storage=セイバー私服06b腕b(遠) textoff=0][lr]::
+5655::$$$message_0038_0015_0002$$$::「[movefg opacity=255 time=400 pos=lc accel=-2 storage=セイバー私服06b腕b(遠) textoff=0][movefg opacity=255 time=400 pos=r accel=-2 storage=凛私服09e(遠) textoff=0][movefg opacity=255 left=-695 top=0 time=500 accel=-2 layer=3 textoff=0][movefg opacity=255 left=495 top=0 time=500 accel=-2 layer=4 textoff=0]…………このようなものを、シロウが…………」[wvs][wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][lr]::
+5656::$$$message_0038_0015_0003$$$::　[movefg opacity=255 time=400 pos=l accel=-2 storage=セイバー私服06b腕b(遠) textoff=0][movefg opacity=255 left=-538 top=0 time=500 accel=-2 layer=3 textoff=0][movefg opacity=255 left=599 top=0 time=500 accel=-2 layer=4 textoff=0][line len=3]思い出してきた。[wm canskip=0][wm canskip=0][wm canskip=0]::
+5657::$$$message_0038_0016_0000$$$::　そうだ、あんなもの放り出しておくわけにも行かないから、適当な箱に入れたんだ。[lr]::
+5658::$$$message_0038_0016_0001$$$::　さらにセイバーたちが間違えて開けるといけないからって奥に……[lr]::
+5659::$$$message_0038_0016_0002$$$::　で、中に入ってるのは、[shock vmax=10 time=1200 count=10]十八歳未満閲覧禁止の写真集……だ……ぁーーー[wshock canskip=0]::
+5660::$$$message_0038_0017_0000$$$::「[chgfg time=200 storage=凛私服09a(遠) textoff=0][movefg opacity=255 time=400 pos=rc accel=-2 storage=凛私服09a(遠) textoff=0][movefg opacity=255 left=-510 top=0 time=500 accel=-2 layer=3 textoff=0][movefg opacity=255 left=680 top=0 time=500 accel=-2 layer=4 textoff=0]うわ、ずいぶんとまた濃厚ね……。[lr]::
+5661::$$$message_0038_0017_0001$$$::　衛宮くんって密かにマニアックじゃないかと思ってたんだけど、やっぱり[line len=3]」[cacheimage storage=セイバー私服10c頬(遠)][wvs][wm canskip=0][wm canskip=0][wm canskip=0][chgfg time=200 storage=セイバー私服10c頬(遠) textoff=0][lr]::
+5662::$$$message_0038_0017_0002$$$::「[movefg opacity=255 time=400 pos=r accel=-2 storage=凛私服09a(遠) textoff=0][movefg opacity=255 time=400 pos=lc accel=0 storage=セイバー私服10c頬(遠) textoff=0][movefg opacity=255 left=-689 top=0 time=500 accel=-2 layer=3 textoff=0][movefg opacity=255 left=535 top=0 time=500 accel=-2 layer=4 textoff=0]信じられません。シロウがこのような低劣俗悪なものに劣情を抱いているコトなどあり得ない！」[wvs][wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][lr]::
+5663::$$$message_0038_0017_0003$$$::　……高い評価をありがとう、セイバー。[lr]::
+5664::$$$message_0038_0017_0004$$$::　でも[ruby text=ひいき char=2]贔屓の引き倒しに過ぎる気もするし、それの由来もほら……あー、思い出してきた。[se storage=se522.wav][chgfg time=200 storage=凛私服08c(遠) textoff=0]::
+5665::$$$message_0038_0018_0000$$$::「[movefg opacity=255 time=400 pos=l accel=-2 storage=セイバー私服10c頬(遠) textoff=0][movefg opacity=255 time=400 pos=rc accel=-2 storage=凛私服08c(遠) textoff=0][movefg opacity=255 left=-505 top=0 time=500 accel=-2 layer=3 textoff=0][movefg opacity=255 left=709 top=0 time=500 accel=-2 layer=4 textoff=0]ふんふん……傾向が分かってきたわね。[wvs][wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][lr]::
+5666::$$$message_0038_0018_0001$$$::　[chgfg time=300 storage=凛私服08e頬(遠) textoff=0][move time=150 path=(422,151,255)(422,146,255)(426,154,255)(422,146,255)(427,151,255)(419,144,255) storage=凛私服08e頬(遠) accel=-2 textoff=0]お姉さん系が好きなんだ、士郎ってば。あら、こっちには妹っぽいのも。[lr]::
+5667::$$$message_0038_0018_0002$$$::　けど、ブロンドさんはないわねぇ」[wvs][wm canskip=0][lr]::
+5668::$$$message_0038_0018_0003$$$::「[chgfg time=200 storage=セイバー私服07b(遠) textoff=0][movefg opacity=255 left=-662 top=0 time=500 accel=-2 layer=3 textoff=0][movefg opacity=255 time=500 pos=lc accel=-2 storage=セイバー私服07b(遠) textoff=0][movefg opacity=255 left=683 top=0 time=500 accel=-2 layer=4 textoff=0]………………そうなのでしょうか？」[wvs][wm canskip=0][se storage=se522.wav][wm canskip=0][wm canskip=0][wm canskip=0][lr]::
+5669::$$$message_0038_0018_0004$$$::「[chgfg time=300 storage=凛私服06e(遠) textoff=0]やっぱりセイバーも気になってるじゃないの」[lr]::
+5670::$$$message_0038_0018_0005$$$::　[chgfg time=300 storage=セイバー私服05d頬(遠) textoff=0]このままだと何を言われるか分かったものじゃないし、潮時か。[movefg opacity=255 left=-526 top=0 time=800 accel=-2 layer=3 textoff=0][movefg opacity=255 left=516 top=0 time=800 accel=-2 layer=4 textoff=0][lr]::
+5671::$$$message_0038_0018_0006$$$::　誤解は早めに解いておくのが無難だろう。[wm canskip=0][wm canskip=0]::
+5672::$$$message_0038_0019_0000$$$::「[chgfg time=200 storage=凛私服08a(遠),セイバー私服20d(遠) textoff=0][se storage=se188.wav][movefg opacity=255 left=-1010 top=0 time=800 accel=2 layer=3 textoff=0][movefg opacity=255 left=1010 top=0 time=800 accel=2 layer=4 textoff=0]それ、慎二のだ」[wvs][wm canskip=0][wm canskip=0][lr]::
+5673::$$$message_0038_0019_0001$$$::「[line len=8]！！！」::
+5674::$$$message_0038_0020_0000$$$::「[move time=300 path=(144,132,255)(154,136,255)(125,135,255)(132,136,255) storage=セイバー私服10c(遠) accel=-1 textoff=0]シロウ！？」[cacheimage storage=凛私服13a(遠)][wvs][wm canskip=0][chgfg time=300 storage=凛私服13a(遠) textoff=0][lr]::
+5675::$$$message_0038_0020_0001$$$::「慎二のヤツが、衛宮こういうの好きだろうとか言って押しつけてきたんだ。それを晒しておくのも気まずいので、隠してただけ」[lr]::
+5676::$$$message_0038_0020_0002$$$::「な……………」::
+5677::$$$message_0038_0021_0000$$$::　そうそう、[chgfg time=300 storage=セイバー私服01c(遠) textoff=0]なんか時々お節介焼きをしてくるんだよな、慎二。[lr]::
+5678::$$$message_0038_0021_0001$$$::　自分の趣味を人に押しつけてくるのはよろしくないのだが……そっか、あいつお姉さん好きなのか、そーだよな、言われてみれば納得。::
+5679::$$$message_0038_0022_0000$$$::「ずっと仕舞い込んでて忘れてた[line len=3]本当にありがとう、遠坂」[lr]::
+5680::$$$message_0038_0022_0001$$$::　にっこりと、この上ない笑顔でお礼を言う。無論、こめかみには青筋をたてている。[lr]::
+5681::$$$message_0038_0022_0002$$$::　ふっふっふ。たまにはこれぐらいの反撃をしてもいいだろう。::
+5682::$$$message_0038_0023_0000$$$::「あ……」[lr]::
+5683::$$$message_0038_0023_0001$$$::「悪いな、いろいろ期待させたみたいで。[lr]::
+5684::$$$message_0038_0023_0002$$$::　けど俺、こういうの買わないんだ」[lr]::
+5685::$$$message_0038_0023_0003$$$::　金もったいないし。バイト先で貰えるし。[lr]::
+5686::$$$message_0038_0023_0004$$$::　……と、それはホントに秘密なので黙っておく。[lr]::
+5687::$$$message_0038_0023_0005$$$::　自分の早とちりが恥ずかしいのか、遠坂は慎二の秘蔵本を手にふるふると震えていて[line len=3]::
+5688::$$$message_0038_0024_0000$$$::「あっ、アンタなんで、慎二のコレクションなんか拝ませるのよーっ！」[lr]::
+5689::$$$message_0038_0024_0001$$$::　があー、と、まことに身勝手な激昂をなさった。::
+5690::$$$message_0038_0025_0000$$$::「な、なんだよ、勝手に探したのはそっちじゃんか、俺は悪くないぞ俺はっ！」[lr]::
+5691::$$$message_0038_0025_0001$$$::「うるさいっ、魔術師はみな世界に或る秘された真実の探求の徒よ[line len=3]！」[lr]::
+5692::$$$message_0038_0025_0002$$$::　[chgfg time=300 storage=セイバー私服04e(遠) textoff=0]その道理はムリがありすぎるぞー。[lr]::
+5693::$$$message_0038_0025_0003$$$::　[chgfg time=200 storage=凛私服14b(近) textoff=0]仮にそうだとしても、[ruby text=まじゅつし char=4]探求の徒本人が誤爆の覚悟を負うべきだ。::
+5694::$$$message_0038_0026_0000$$$::「凛[line len=3]これは私が賭けに勝ったという事でよろしいのですか？」[lr]::
+5695::$$$message_0038_0026_0001$$$::「でも、士郎は現に持ってたじゃないの」[lr]::
+5696::$$$message_0038_0026_0002$$$::「ですがそれは間桐慎二の所有物であり、シロウの持ち物という訳ではありません。[cacheimage storage=セイバー私服01a(遠)][wvl][chgfg time=300 storage=セイバー私服01a(遠) textoff=0][line len=3]江戸前屋のどらやき、奢って頂きます」::
+5697::$$$message_0038_0027_0000$$$::　有無を言わさぬセイバーの押し出し。[lr]::
+5698::$$$message_0038_0027_0001$$$::　食べ物が絡むから、だけじゃないようだ。::
+5699::$$$message_0038_0028_0000$$$::「ふん[line len=3]分かったわよ、今から買ってくる。[lr]::
+5700::$$$message_0038_0028_0001$$$::　[chgfg time=300 storage=凛私服16c(近) textoff=0]まったくあんなモノ見せられたから、気分転換に行かないともう……」::
+5701::$$$message_0038_0029_0000$$$::　[movefg opacity=0 left=482 top=65 time=300 accel=2 storage=凛私服16c(近) textoff=0]ぶつくさと[ruby text=ぐち o2o=1]愚痴っぽく遠坂が出て行った。[se storage=se444.wav][wm canskip=0][lr]::
+5702::$$$message_0038_0029_0001$$$::　台風一過とはこのコトか。[lr]::
+5703::$$$message_0038_0029_0002$$$::　仮に、ほんっとーに仮に、アレが自分で選んだものだったら、今ごろ死にたいほど情けない目にあわされていただろう。[lr]::
+5704::$$$message_0038_0029_0003$$$::　もっと奥に隠されている真の秘蔵物が見つかったら、そうなってしまったであるように。::
+5705::$$$message_0038_0030_0000$$$::「……紙一重の差だったか……ありがとう、慎二」[lr]::
+5706::$$$message_0038_0030_0001$$$::「[line len=3]安堵しました。やはりシロウは清廉潔白で、高潔なマスターです」[lr]::
+5707::$$$message_0038_0030_0002$$$::「[shock vmax=20 time=300 count=-3]え……！？　あ……いや、これからは誤解を招くような真似は避けるから」[lr]::
+5708::$$$message_0038_0030_0003$$$::「ですがシロウは金髪は……[cacheimage storage=セイバー私服04c(遠)][wvl canskip=false time=300][chgfg time=300 storage=セイバー私服04c(遠) textoff=0]いえ、なんでもありません」::
+5709::$$$message_0038_0031_0000$$$::　……聞かぬが花だろう。[chgfg time=200 storage=セイバー私服04e頬(遠) textoff=0][lr]::
+5710::$$$message_0038_0031_0001$$$::　これ以上この話をしていたら、奥にある第二のパンドラボックスに気づかれてしまう。::
+5711::$$$message_0038_0032_0000$$$::「そ、そろそろ三時だよな。[lr]::
+5712::$$$message_0038_0032_0001$$$::　セイバー、居間に行って遠坂を待っていよう。お茶の用意をして、賭けの報酬を受け取らないと」[lr]::
+5713::$$$message_0038_0032_0002$$$::「そうですね。私たちの完全勝利です」[lr]::
+5714::$$$message_0038_0032_0003$$$::　嬉しそうに笑うセイバー。[lr]::
+5715::$$$message_0038_0032_0004$$$::　……うう、すまんセイバー。本当は『俺たち』じゃなく、『俺』の完全勝利っぽいのだった……。::
+905688::$$$message_9038_0024_0000$$$::「あっ、アンタなんで、[r]慎二のコレクションなんか[r]拝ませるのよーっ！」::�
