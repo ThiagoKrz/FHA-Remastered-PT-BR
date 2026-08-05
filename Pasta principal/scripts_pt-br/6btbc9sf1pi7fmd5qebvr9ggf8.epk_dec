@@ -1,230 +1,230 @@
 DAT
 id=qid::label=str::text=lstr::
-21789::$$$message_0170_0000_0000$$$::[font italic=true]...E o passado?[font italic=false][lr]::
-21790::$$$message_0170_0000_0001$$$::Estou curioso sobre o que ele pensa da situação atual, mas também sou curioso sobre o que ele pensa do passado.[lr]::
-21791::$$$message_0170_0000_0002$$$::Saber tem um forte senso de disciplina.[lr]::
-21792::$$$message_0170_0000_0003$$$::Lancer pode ter alguns arrependimentos do passado, apesar de como ele joga a coisa com frio.::
-21793::$$$message_0170_0001_0000$$$::"Arrependimentos? Sim, certamente, alguns incômodos, mas bem, eu não tenho nenhum arrependimento."[wvs][se storage=se545.wav][lr]::
+21789::$$$message_0170_0000_0000$$$::[font italic=true]...E quanto ao passado?[font italic=false][lr]::
+21790::$$$message_0170_0000_0001$$$::Eu tô curioso sobre o que ele pensa da situação atual, mas também tô curioso sobre o que ele pensa do passado.[lr]::
+21791::$$$message_0170_0000_0002$$$::A Saber tem um forte senso de disciplina.[lr]::
+21792::$$$message_0170_0000_0003$$$::O Lancer pode ter alguns arrependimentos do passado, apesar de agir com tanta frieza.::
+21793::$$$message_0170_0001_0000$$$::"Arrependimentos? Pequenos aborrecimentos, com certeza, mas olha, não tenho nenhum arrependimento."[wvs][se storage=se545.wav][lr]::
 21794::$$$message_0170_0001_0001$$$::E assim...[lr]::
-21795::$$$message_0170_0001_0002$$$::Este herói irlandês bastante subestimado responde, enquanto continua encarando seu anzol de pesca que não está rendendo bem.::
-21796::$$$message_0170_0002_0000$$$::"...Pensei que sim. Você realmente é direto. Outros Servos tendem a saudar a casa no final das contas."::
-21797::$$$message_0170_0003_0000$$$::"Heh, realmente? Eles não parecem ser o tipo de gente que estaria procurando por algum retorno magnífico.[lr]::
-21798::$$$message_0170_0003_0001$$$::...Ah, o Caster tem muitos arrependimentos, né?[lr]::
-21799::$$$message_0170_0003_0002$$$::Ela era originalmente uma princesa protegida; tenho certeza de que seria mais feliz presa em um castelo. Isso seria melhor para você e para o mundo."::
-21800::$$$message_0170_0004_0000$$$::Lancer esboça um suspiro.[lr]::
-21801::$$$message_0170_0004_0001$$$::Ele deve estar ou infeliz por não estar recebendo nenhum acerto, ou simplesmente não gostar de falar sobre o passado.[lr]::
-21802::$$$message_0170_0004_0002$$$::Independente disso, ele já não se importava mais.::
-21803::$$$message_0170_0005_0000$$$::"Então, diga-me, se você obtiver o Santo Graal, não tem nenhum desejo? Tipo, ganhar uma segunda vida como humano ou voltar ao passado?"[lr]::
-21804::$$$message_0170_0005_0001$$$::"Quem sabe? Não consigo pensar em nada assim até que o tempo chegue."::
-21805::$$$message_0170_0006_0000$$$::Assim é ele.[lr]::
-21806::$$$message_0170_0006_0001$$$::Ele é do tipo que vive de mão na boca.[lr]::
-21807::$$$message_0170_0006_0002$$$::Ele consegue a maior parte do que queremos enquanto está vivo. Não há como ele deixar nenhum arrependimento sobre o que deveria ter feito depois que a festa termina.::
-21808::$$$message_0170_0007_0000$$$::"A vida de um herói, acho que... Oh, [wsplinemove canskip=0][splinemove textoff=0 opacity=255 layer=base time=400 path=(9,86,2.000)(295,111,2.000)(533,164,2.000) storage=fd25_ts accel=-2]sim.[wsplinemove canskip=0][lr]::
-21809::$$$message_0170_0007_0001$$$::Ei, Lancer. Se não se importar, pode me contar sua história? Pensei nisso, mas não sei muito sobre seu passado."::
-21810::$$$message_0170_0008_0000$$$::"Hmm? Você não vai ganhar nada disso agora mesmo se escutar algo assim. Ou será que estão mesmo tentando lutar?"::
-21811::$$$message_0170_0009_0000$$$::"Não, Saber e eu não temos intenção de lutar.[lr]::
-21812::$$$message_0170_0009_0001$$$::Não eu não disse que aprecio que você não tente iniciar coisas?"::
-21813::$$$message_0170_0010_0000$$$::"Ah... Sinto que já tenha ouvido isso. Bem, se você diz isso, então provavelmente está certo.[lr]::
-21814::$$$message_0170_0010_0001$$$::Então, o que? Você quer apenas ouvir a história da vida de outra pessoa?"[lr]::
-21815::$$$message_0170_0010_0002$$$::"É isso. Nada de estranho, só que curioso."::
-21816::$$$message_0170_0011_0000$$$::"...Bem.[lr]::
-21817::$$$message_0170_0011_0001$$$::Não tenho golpes, então acho que posso passar o tempo. Também tinha algo que queria bater na sua cabeça."[lr]::
-21818::$$$message_0170_0011_0002$$$::Antes, a expressão do Lancer parecia indiferente e desinteressada, mas algo mudou.[lr]::
-21819::$$$message_0170_0011_0003$$$::Suas ombraças relaxadas ficam ainda mais flácidas, enquanto seu olhar se desvia do mar para fixar vagarosamente o céu.[lr]::
-21820::$$$message_0170_0011_0004$$$::Em outras palavras, ele ficou ainda mais sem motivação.::
-21821::$$$message_0170_0012_0000$$$::Lancer.[lr]::
-21822::$$$message_0170_0012_0001$$$::Cú Chulainn é um herói falado na antiga Irlanda.[lr]::
-21823::$$$message_0170_0012_0002$$$::Seu reino está dividido em cinco países, e Cú Chulainn é um guerreiro que serviu ao rei do norte da Ulster, Rei Conchobar.[lr]::
-21824::$$$message_0170_0012_0003$$$::Pois é uma lenda celta, poucos aqui no Japão conhecem essa história, mas ele é um grande herói que supera o Rei Artur em sua terra natal.::
-21825::$$$message_0170_0013_0000$$$::Seu nascimento é bastante complicado.[lr]::
-21826::$$$message_0170_0013_0001$$$::A mãe de Cú Chulainn, Deichtire, é uma princesa nascida da Maga, consorte do Rei Ross o Vermelho, e de certo druida notável.[lr]::
-21827::$$$message_0170_0013_0002$$$::A princesa Deichtire desapareceu para Tír na noite sem se casar com ninguém e teve um bebê com o deus do sol, Lugh, enquanto estava lá.[lr]::
-21828::$$$message_0170_0013_0003$$$::O bebê era Sétanta[line len=2], que mais tarde seria chamado Cú Chulainn.::
-21829::$$$message_0170_0014_0000$$$::Sétanta foi enviado para ser um escudo para Ulster ao se juntar ao exército de Conchobar, e era para viver uma vida exatamente como seu destino sugere.::
-21830::$$$message_0170_0015_0000$$$::Sétanta começou a ser chamado de Cú Chulainn a partir do momento em que, ainda criança, acidentalmente matou o cão de guarda de Culann, o forjador de espadas.::
-21831::$$$message_0170_0016_0000$$$::Um dia, o rei Conchobar foi convidado para a casa de Culann, o famoso forjador de espadas.[lr]::
-21832::$$$message_0170_0016_0001$$$::O rei tentou chamar Sétanta, que ainda era uma criança, mas Sétanta estava no meio de uma partida de arremesso com seus amigos.[lr]::
-21833::$$$message_0170_0016_0002$$$::"Se eu me retirasse agora, perderia o combate. Vou recuperar o terreno assim que ganhar, então, por favor, vá em frente."[lr]::
-21834::$$$message_0170_0016_0003$$$::O rei, agradado pelas palavras do menino, permitiu que ele viesse depois e partiu para a casa de Culann primeiro.::
-21835::$$$message_0170_0017_0000$$$::A desgraça começou quando o servo de Culann acidentalmente fechou a porta por descuido.[lr]::
-21836::$$$message_0170_0017_0001$$$::Sétanta, que chegou atrasado, foi atacado pelo cão de guarda, então estrangulou-o até a morte.[lr]::
-21837::$$$message_0170_0017_0002$$$::Todos dentro da casa se reuniram após ouvir o barulho. Ao saber que Sétanta derrotou o cão de guarda, todos ficaram surpresos e o elogiaram.::
-21838::$$$message_0170_0018_0000$$$::Mas havia algum sofrimento nos olhos de Culann por ter perdido seu precioso cão de guarda. Sétanta, envergonhado por sua inconsciência, disse a ele:::
-21839::$$$message_0170_0019_0000$$$::"Essa cadela tem filhotes? Se tiver, deixe-me cuidar deles. Vou criar um para torná-lo um excelente cão de guarda que rivalize com seu pai. Enquanto isso, serei seu cão de guarda."[lr]::
-21840::$$$message_0170_0019_0001$$$::Culann, o forjador de espadas, ficou impressionado com a oferta do garoto e respondeu com convicção.::
-21841::$$$message_0170_0020_0000$$$::"Não há necessidade disso. Eu levantarei um cão de guarda que proteja esta casa. Você se treine sozinho. Finalmente, você sem dúvida alguma se tornará o cão de guarda que protege toda a Ulster."[lr]::
-21842::$$$message_0170_0020_0001$$$::Todos os guerreiros que se reuniram concordaram com a cabeça.::
-21843::$$$message_0170_0021_0000$$$::Depois disso, o garoto seria chamado de "Cú Chulainn," ou o cão de guarda de Culann.[lr]::
+21795::$$$message_0170_0001_0002$$$::Esse até que subestimado herói da Irlanda me responde, tudo isso enquanto encara a sua vara de pescar que não tá rendendo nada.::
+21796::$$$message_0170_0002_0000$$$::"...Foi o que eu pensei. Você é bem franco mesmo. Os outros Servos costumam sentir falta de casa no fim das contas."::
+21797::$$$message_0170_0003_0000$$$::"Heh, é mesmo? Eles não parecem ser o tipo de gente que ficaria ansiando por algum retorno magnífico.[lr]::
+21798::$$$message_0170_0003_0001$$$::...Ah, a Caster deve tá cheia de arrependimentos, né?[lr]::
+21799::$$$message_0170_0003_0002$$$::Originalmente ela é uma princesa mimada; aposto que ela é mais feliz trancada num castelo. Isso seria bem melhor pelo seu bem e pelo bem do mundo."::
+21800::$$$message_0170_0004_0000$$$::O Lancer boceja.[lr]::
+21801::$$$message_0170_0004_0001$$$::Ele deve estar chateado por não tá pegando nada, ou não gosta de falar sobre o passado.[lr]::
+21802::$$$message_0170_0004_0002$$$::De qualquer forma, ele não parecia mais se importar.::
+21803::$$$message_0170_0005_0000$$$::"Então, digamos que você consiga o Santo Graal. Você não tem nenhum desejo? Tipo conseguir uma segunda vida como humano ou voltar ao passado?"[lr]::
+21804::$$$message_0170_0005_0001$$$::"Quem sabe? Não consigo pensar em nada desse tipo até a hora chegar."::
+21805::$$$message_0170_0006_0000$$$::Ele é assim mesmo.[lr]::
+21806::$$$message_0170_0006_0001$$$::Ele é do tipo que vive o agora, sem pensar no amanhã.[lr]::
+21807::$$$message_0170_0006_0002$$$::Ele consegue a maior parte do que quer enquanto tá vivo. Não tem como ele deixar nenhum arrependimento sobre o que deveria ter feito depois que a festa acaba.::
+21808::$$$message_0170_0007_0000$$$::"A vida de um herói, eu acho... Ah, [wsplinemove canskip=0][splinemove textoff=0 opacity=255 layer=base time=400 path=(9,86,2.000)(295,111,2.000)(533,164,2.000) storage=fd25_ts accel=-2]é.[wsplinemove canskip=0][lr]::
+21809::$$$message_0170_0007_0001$$$::Aí, Lancer. Se você não se importar, pode me contar a sua história? Parando pra pensar, eu não conheço muito sobre as suas lendas."::
+21810::$$$message_0170_0008_0000$$$::"Hã? Você não vai ganhar nada com isso agora mesmo que ouça uma coisa dessas. Ou o quê, por acaso vocês tão querendo brigar?"::
+21811::$$$message_0170_0009_0000$$$::"Não, a Saber e eu não temos a menor intenção de lutar.[lr]::
+21812::$$$message_0170_0009_0001$$$::Eu não te disse que fico agradecido por você não tentar arrumar encrenca?"::
+21813::$$$message_0170_0010_0000$$$::"Ah... Acho que ouvi alguma coisa assim. Bem, se você diz, então provavelmente tem razão.[lr]::
+21814::$$$message_0170_0010_0001$$$::E aí, qual é a sua? Quer simplesmente ouvir a história de vida de outra pessoa?"[lr]::
+21815::$$$message_0170_0010_0002$$$::"É. Não tem nenhuma segunda intenção, eu só tô curioso mesmo."::
+21816::$$$message_0170_0011_0000$$$::"...Tá legal.[lr]::
+21817::$$$message_0170_0011_0001$$$::Os peixes não tão mordendo mesmo, então acho que posso matar um tempinho. Eu também tinha uma coisa que eu queria enfiar na sua cabeça."[lr]::
+21818::$$$message_0170_0011_0002$$$::Antes, a expressão do Lancer parecia desinteressada e apática, mas algo mudou.[lr]::
+21819::$$$message_0170_0011_0003$$$::Seus ombros que já estavam relaxados parecem ceder ainda mais, enquanto o olhar dele desvia do mar pra encarar o céu com preguiça.[lr]::
+21820::$$$message_0170_0011_0004$$$::Em outras palavras, ele ficou ainda mais desmotivado.::
+21821::$$$message_0170_0012_0000$$$::O Lancer.[lr]::
+21822::$$$message_0170_0012_0001$$$::O Cú Chulainn é um herói das lendas da antiga Irlanda.[lr]::
+21823::$$$message_0170_0012_0002$$$::As terras dele eram divididas em cinco províncias, e o Cú Chulainn é um guerreiro que serviu ao rei do norte de Ulster, o Rei Conchobar.[lr]::
+21824::$$$message_0170_0012_0003$$$::Por ser um mito celta, poucos aqui no Japão o conhecem, mas ele é um grande herói que supera até o Rei Arthur em sua terra natal.::
+21825::$$$message_0170_0013_0000$$$::O nascimento dele é meio complicado.[lr]::
+21826::$$$message_0170_0013_0001$$$::A mãe de Cú Chulainn, Deichtire, é uma princesa nascida de Maga, a consorte do Rei Ross o Vermelho, e um certo druida excepcional.[lr]::
+21827::$$$message_0170_0013_0002$$$::A Princesa Deichtire desapareceu pra Tír na nÓg sem casar com ninguém e teve um bebê lá com o deus do sol, Lugh.[lr]::
+21828::$$$message_0170_0013_0003$$$::O bebê era Sétanta[line len=2]que mais tarde viria a se chamar Cú Chulainn.::
+21829::$$$message_0170_0014_0000$$$::Sétanta foi enviado para ser o escudo de Ulster ao se juntar ao exército do Rei Conchobar e viria a viver a vida exatamente como o seu destino sugeria.::
+21830::$$$message_0170_0015_0000$$$::Sétanta começou a ser chamado de Cú Chulainn depois que ele acidentalmente matou o cão de guarda de Culann, o ferreiro, enquanto ainda era só um garoto.::
+21831::$$$message_0170_0016_0000$$$::Um dia, o Rei Conchobar foi convidado pra ir na casa do Culann, o famoso ferreiro.[lr]::
+21832::$$$message_0170_0016_0001$$$::O rei tentou levar o Sétanta junto, que ainda era um menino, mas ele tava no meio de uma partida de hurling com os amigos.[lr]::
+21833::$$$message_0170_0016_0002$$$::"Se eu sair agora, eu vou perder o jogo. Eu te alcanço assim que eu ganhar, então por favor, pode ir na frente."[lr]::
+21834::$$$message_0170_0016_0003$$$::O rei, impressionado com as palavras do garoto, deixou que ele fosse depois e partiu pra casa do Culann na frente.::
+21835::$$$message_0170_0017_0000$$$::A desgraça começou quando o servo de Culann, por um pequeno descuido, trancou os portões.[lr]::
+21836::$$$message_0170_0017_0001$$$::Sétanta, que chegou mais tarde, foi atacado pelo cão de guarda, e então ele o estrangulou até a morte.[lr]::
+21837::$$$message_0170_0017_0002$$$::Todos que estavam dentro da casa saíram quando ouviram a comoção. Ao saberem que o Sétanta havia derrotado o cão de guarda, ficaram todos surpresos e o encheram de elogios.::
+21838::$$$message_0170_0018_0000$$$::Mas havia uma certa tristeza nos olhos de Culann por ter perdido o seu amado cão de guarda. Sétanta, envergonhado pela sua falta de bom senso, disse a ele: ::
+21839::$$$message_0170_0019_0000$$$::"Esse cachorro tem algum filhote? Se sim, me deixe cuidar deles. Eu vou criar um pra se tornar um excelente cão de guarda, a altura do pai. Até lá, eu serei o seu cão de guarda."[lr]::
+21840::$$$message_0170_0019_0001$$$::Culann, o ferreiro, ficou impressionado com a oferta do menino e respondeu com convicção.::
+21841::$$$message_0170_0020_0000$$$::"Não tem necessidade disso. Eu mesmo vou criar um cão de guarda que protegerá esta casa. Você foque no seu próprio treinamento. Eventualmente, sem sombra de dúvidas, você vai se tornar o cão de guarda que protegerá toda Ulster."[lr]::
+21842::$$$message_0170_0020_0001$$$::Todos os guerreiros que estavam presentes concordaram, assentindo com a cabeça.::
+21843::$$$message_0170_0021_0000$$$::A partir de então, o garoto viria a ser chamado de "Cú Chulainn", ou o cão de guarda de Culann.[lr]::
 21844::$$$message_0170_0021_0001$$$::A primeira batalha do garoto.[lr]::
-21845::$$$message_0170_0021_0002$$$::Em homenagem à nobre oferta que se seguiu.::
-21846::$$$message_0170_0022_0000$$$::"Eu sabia disso, mas... Com quantos anos você tinha naquela época?"[lr]::
-21847::$$$message_0170_0022_0001$$$::"Eu era mais novo do que você é agora. Ainda não era um guerreiro. No nosso país, havia um grupo de treinamento para crianças antes de se tornar um Cavaleiro da Linha Vermelha. Era uma reunião de jovens guerreiros aprendizes, e eu era um deles."::
-21848::$$$message_0170_0023_0000$$$::"Homem. Então, você estrangulou o melhor cão de guarda do país com uns doze ou treze anos?"[lr]::
-21849::$$$message_0170_0023_0001$$$::"Foi a adrenalina. Foi a primeira vez que eu tirava a vida de alguém. Desde então, tornou-se meu Geas nunca mais comer cão."[lr]::
-21850::$$$message_0170_0023_0002$$$::Não sei quão sério ele é, mas ele brinca com uma piada sobre canibalismo.::
-21851::$$$message_0170_0024_0000$$$::"Então, foi um tempo depois que meu nome mudou. O grupo de aprendizes se reunia sob um druida e fazia barulho pedindo que ele previsse se receberiam um bom destino quando se tornassem guerreiros.[lr]::
-21852::$$$message_0170_0024_0001$$$::Aquele druida era, bem, um homem idoso que possuía poderes bastante fortes. Assim, sua sorte era mais como "decidir o futuro" do que "ver o futuro". O homem idoso estava perturbado e decidiu que só adivinharia para aqueles que se tornariam guerreiros naquele dia."::
-21853::$$$message_0170_0025_0000$$$::"Entendi. Então, quais foram os resultados?"[lr]::
-21854::$$$message_0170_0025_0001$$$::"Foi tão ruim, que nenhum dos outros cavaleiros aprendizes tentou passar pelos ritos da cavalaria."[lr]::
-21855::$$$message_0170_0025_0002$$$::"...Hmm. O que estava fazendo?"[lr]::
-21856::$$$message_0170_0025_0003$$$::"Não estava interessado, então estava apoiado em uma árvore de castanha e pescando."[lr]::
-21857::$$$message_0170_0025_0004$$$::"...Desculpe. Qual era o ponto daquela história?"::
-21858::$$$message_0170_0026_0000$$$::"Você não entende?[lr]::
-21859::$$$message_0170_0026_0001$$$::Em outras palavras, passei pelos ritos da cavalaria naquele dia.[lr]::
-21860::$$$message_0170_0026_0002$$$::O rei estava furioso. Dizia algo como: "Por que um garoto como você se tornaria um guerreiro? Deveria crescer saudável até se tornar adulto", ou algo assim.[lr]::
-21861::$$$message_0170_0026_0003$$$::Isso me deixou furioso, então quebrei todas as lanças do castelo, destruí um carro de guerra e o ameacei."::
+21845::$$$message_0170_0021_0002$$$::Em homenagem à nobre oferta que ele fez logo em seguida.::
+21846::$$$message_0170_0022_0000$$$::"Isso eu já sabia, mas... Quantos anos você tinha nessa época?"[lr]::
+21847::$$$message_0170_0022_0001$$$::"Eu era mais novo do que você é agora. Eu não era um guerreiro ainda. No nosso país, tinha um grupo de treinamento pras crianças antes delas se tornarem Cavaleiros do Ramo Vermelho. Era um aglomerado de jovens aprendizes de guerreiro, e eu era um deles."::
+21848::$$$message_0170_0023_0000$$$::"Caraca. E aí, cê foi lá e estrangulou o melhor cão de guarda do país quando tinha uns doze ou treze anos?"[lr]::
+21849::$$$message_0170_0023_0001$$$::"Foi a adrenalina do momento. Foi a minha primeira vez tirando uma vida. Desde então, comer cachorro virou o meu Geas, e eu nunca pude comer a carne deles."[lr]::
+21850::$$$message_0170_0023_0002$$$::Não sei o quão sério ele tá falando, mas ele solta uma piada sobre canibalismo.::
+21851::$$$message_0170_0024_0000$$$::"Aí, passou um tempinho depois que o meu nome tinha mudado. O grupo de aprendizes se reuniu em volta de um druida e ficaram fazendo o maior fuzuê, pedindo pra ele prever se eles iam ter uma boa sorte quando virassem guerreiros.[lr]::
+21852::$$$message_0170_0024_0001$$$::Aquele druida, olha, era um velhote com uns poderes bem fortes. Então as previsões dele pareciam mais com 'decidir o futuro' do que 'ver o futuro'. O velho tava com muita dor de cabeça e decidiu ler a sorte só daqueles que fossem se tornar guerreiros naquele exato dia."::
+21853::$$$message_0170_0025_0000$$$::"Entendi. E aí, quais foram os resultados?"[lr]::
+21854::$$$message_0170_0025_0001$$$::"Foi tão horrível que nenhum dos outros aprendizes de cavaleiro tentou passar pelos ritos de iniciação pra se tornar um guerreiro."[lr]::
+21855::$$$message_0170_0025_0002$$$::"...Hum. E o que você tava fazendo?"[lr]::
+21856::$$$message_0170_0025_0003$$$::"Eu não tava nem aí pra aquilo, então tava encostado numa aveleira, pescando."[lr]::
+21857::$$$message_0170_0025_0004$$$::"...Foi mal. Qual era mesmo o sentido dessa história?"::
+21858::$$$message_0170_0026_0000$$$::"Você não sacou?[lr]::
+21859::$$$message_0170_0026_0001$$$::Em outras palavras, eu passei pelos ritos pra virar guerreiro naquele dia.[lr]::
+21860::$$$message_0170_0026_0002$$$::O rei ficou putaço. Falando umas coisas tipo, 'por que um moleque que nem você ia querer virar guerreiro? Você devia é crescer forte e saudável até chegar à fase adulta' ou algo assim.[lr]::
+21861::$$$message_0170_0026_0003$$$::Aquilo me deixou bem puto, então quebrei todas as lanças do castelo, destruí uma biga e ainda ameacei ele."::
 21862::$$$message_0170_0027_0000$$$::"..."[lr]::
-21863::$$$message_0170_0027_0001$$$::E-e ele ameaçou o rei? Esse homem realmente se tornou muito mais tranquilo do que antes?[lr]::
-21864::$$$message_0170_0027_0002$$$::Segundo Saber, ele tem afinidade com a classe Berserker, mas eu na verdade não acreditei que fosse verdade.::
-21865::$$$message_0170_0028_0000$$$::"Então é assim que você se tornou um guerreiro, hein?[lr]::
-21866::$$$message_0170_0028_0001$$$::...Um, foi o Cavaleiro da Linhagem Vermelha?"::
-21867::$$$message_0170_0029_0000$$$::"É. Se perguntar à Saber, não é nada como sua cavalaria.[lr]::
-21868::$$$message_0170_0029_0001$$$::Apesar de tudo, desde que você não seja desleal, pode lutar como quiser.[lr]::
-21869::$$$message_0170_0029_0002$$$::É comum escolher uma briga em outro território se quiser, fazer uma festa na noite seguinte e depois esquecer tudo.[lr]::
-21870::$$$message_0170_0029_0003$$$::Meu grupo estava cheio de idiotas, então não podia baixar a guarda no meu próprio país mais do que em outros países."::
-21871::$$$message_0170_0030_0000$$$::Ele ri. Devem ser mesmo tão engraçadas para ele.[lr]::
-21872::$$$message_0170_0030_0001$$$::...Entendi. Sua natureza livre espírito é a diferença no mundo que o fez sobreviver.[lr]::
-21873::$$$message_0170_0030_0002$$$::Essa orgulho não é complicado como o de um humano, mas simples como o de uma besta.::
-21874::$$$message_0170_0031_0000$$$::"Então, lutei dia e noite assim que me tornei um guerreiro.[lr]::
-21875::$$$message_0170_0031_0001$$$::Eu me apaixonei a primeira vista por uma dessas princesas, então fui ao castelo para raptá-la. Ela era uma mulher bem esperta, no entanto.[lr]::
-21876::$$$message_0170_0031_0002$$$::Ela disse que não queria ir com algum moleque sem reputação."[lr]::
-21877::$$$message_0170_0031_0003$$$::"Espere. Criança? Com quantos anos você era então?"::
-21878::$$$message_0170_0032_0000$$$::"Ah, acho que tinha uns dezesseis anos. Então, saí em uma jornada em busca de glória.[lr]::
-21879::$$$message_0170_0032_0001$$$::Havia essa guerreira mulher chamada Scáthach nesse lugar chamado Terra das Sombras, que aparentemente era tão forte quanto um monstro. Rumor dizia que ela tinha muitos guerreiros como aprendizes."::
-21880::$$$message_0170_0033_0000$$$::Eu sei o resto.[lr]::
-21881::$$$message_0170_0033_0001$$$::Cú Chulainn chegou à Terra das Sombras, conhecida como um lugar infestado de demônios, e recebeu a lança demoníaca, Gáe Bolg, e os segredos de salto da senhora feminina, Scáthach.::
-21882::$$$message_0170_0034_0000$$$::"Você fala como se fosse fácil. Sua intensidade faria até a sua lady Tohsaka correr descalça se tivesse que.[lr]::
-21883::$$$message_0170_0034_0001$$$::De qualquer forma, ela estava louca e já havia jogado fora sua humanidade até o momento em que cheguei. Veja, o País das Sombras é, bem, um território do além-túmulo. Essa mulher se tornou a guardiã que punha em xeque os fantasmas lá."::
-21884::$$$message_0170_0035_0000$$$::"Havia alguns seres divinos entre aqueles fantasmas.[lr]::
-21885::$$$message_0170_0035_0001$$$::Ela conseguia levar 'em à tarefa com sua lança como humana, então você deveria conseguir imaginar como ela era insana, hein?"::
-21886::$$$message_0170_0036_0000$$$::"É. Me assusta imaginar algo como uma versão potencializada da Tohsaka."[lr]::
-21887::$$$message_0170_0036_0001$$$::"Direito. Então, havia outros aprendizes sob aquele professor assustador.[lr]::
-21888::$$$message_0170_0036_0002$$$::Eram todos guerreiros que vieram aprender com Scáthach, mas havia um que era meu igual.[lr]::
-21889::$$$message_0170_0036_0003$$$::Ele era chamado de Ferdiad. Um guerreiro do país vizinho, Connacht. Enquanto estávamos lutando um contra o outro pelo Gáe Bolg, trocamos o juramento de irmãos antes que eu percebesse."::
-21890::$$$message_0170_0037_0000$$$::"Bem, como eu deveria dizer...[lr]::
-21891::$$$message_0170_0037_0001$$$::Tinha três amigos inestimáveis, mas ele era como um irmão mais velho especial até mesmo entre eles."::
-21892::$$$message_0170_0038_0000$$$::Cú Chulainn então aprendeu diversos tipos de técnicas e taumaturgia.[lr]::
-21893::$$$message_0170_0038_0001$$$::...Mas cara. Não imaginava que todas as histórias heroicas que conhecia fossem realizadas quando ele tinha dezesseis anos.[lr]::
-21894::$$$message_0170_0038_0002$$$::Do que eu ouvi, parece que esse cara estava em um estado de fúria constante, correndo em velocidade máxima todos os dias.[lr]::
-21895::$$$message_0170_0038_0003$$$::Como um cavalo ágil, vivendo rápido e sem cuidado.::
-21896::$$$message_0170_0039_0000$$$::"Isso não é verdade. Eu vivi um tempo na Terra das Sombras.[lr]::
-21897::$$$message_0170_0039_0001$$$::Foi confortável, já que tinha um bom mestre e um bom rival.[lr]::
-21898::$$$message_0170_0039_0002$$$::Então, esse idiota veio atrapalhar esse conforto. Aife, um lord de um país vizinho, começou uma guerra.[lr]::
-21899::$$$message_0170_0039_0003$$$::Scáthach, por algum motivo, não queria me mandar para o campo de batalha, e brigamos muitas vezes."::
-21900::$$$message_0170_0040_0000$$$::"Bem, no fim das contas, Scáthach, Ferdiad e eu nos demos um passeio juntos e capturamos Aífe vivo após uma luta única.[lr]::
-21901::$$$message_0170_0040_0001$$$::Mas bem, como posso dizer? No início, ela era uma inimiga detestável. Mas uma vez que a capturamos, percebi que também era uma mulher excelente.[lr]::
-21902::$$$message_0170_0040_0002$$$::Então eu estava sério, mas Scáthach descobriu e me atirou pedras. Estilo Gáe Bolg."::
-21903::$$$message_0170_0041_0000$$$::Lancer ri nervosamente no meio de seu devaneio. [lr]::
-21904::$$$message_0170_0041_0001$$$::Entendi, então o lord inimigo era essa mulher[line len=2]::
-21905::$$$message_0170_0042_0000$$$::"Espere. Isso é o que você quis dizer quando disse que estava sério!?"[lr]::
-21906::$$$message_0170_0042_0001$$$::"Claro. Se eu me apaixonar, é óbvio que vou dormir com ela."[lr]::
-21907::$$$message_0170_0042_0002$$$::"Gah."[lr]::
-21908::$$$message_0170_0042_0003$$$::...Isso mesmo. Grandes heróis são grandes amantes. Mas cara, esses guerreiros têm zero de inibições!::
-21909::$$$message_0170_0043_0000$$$::"Mas o momento do adeus sempre chega.[lr]::
-21910::$$$message_0170_0043_0001$$$::Eu também terminei com Aife. Se ela tivesse me dado um filho, pedi que ela o chamasse de Connla e o mandasse para a Ulster. Também lhe dei três votos que ele deveria seguir.[lr]::
-21911::$$$message_0170_0043_0002$$$::Primeiro, não responda mesmo que seja solicitado seu nome.[lr]::
-21912::$$$message_0170_0043_0003$$$::Segundo, não mude seu caminho escolhido, por mais que aconteça.[lr]::
-21913::$$$message_0170_0043_0004$$$::Terceiro, não recue quando desafiado a lutar.[lr]::
-21914::$$$message_0170_0043_0005$$$::Bem, essas são as mínimas exigências para meu filho."::
-21915::$$$message_0170_0044_0000$$$::"Então, Ferdiad e eu saímos do País das Sombras no mesmo dia.[lr]::
-21916::$$$message_0170_0044_0001$$$::Quando saí do castelo, nos perguntamos um ao outro: "Você quer vir para meu país?" [wvl canskip=0 time=400][clfg][dash page=back mx=0 opacity=255 layer=base irot=-0.0 cx=463 imag=2 time=100 cy=73 mag=2 my=0 storage=fd25_01e rot=-0.0 accel=0][transex standard=fore time=300]Rimos, entendendo que nenhum de nós ia recuar.[lr]::
-21917::$$$message_0170_0044_0002$$$::E a Scáthach, bem, eu não a vi no dia em que saí. Acho que não havia mais o que dizer depois de me ensinar tudo."::
-21918::$$$message_0170_0045_0000$$$::Essa foi a história do País das Sombras.[lr]::
-21919::$$$message_0170_0045_0001$$$::Com isso, Lancer fica em silêncio por um momento.[lr]::
-21920::$$$message_0170_0045_0002$$$::Voltando para Ulster, Cú Chulainn era uma figura bastante notável no campo de batalha e tornou-se um guerreiro conhecido por toda a Irlanda em um piscar de olhos.[lr]::
-21921::$$$message_0170_0045_0003$$$::Ele conquistou coisas na guerra que ninguém poderia replicar, veio buscar a princesa como prometido enquanto matava o Rei Forgall e qualquer tropa que se opusesse a ele, e conquistou no combate junto aos membros de sua ordem o título de número um guerreiro de Ulster.::
-21922::$$$message_0170_0046_0000$$$::Sua gloriosa carreira também marcou a juventude do herói Cú Chulainn ao mesmo tempo.::
-21923::$$$message_0170_0047_0000$$$::Depois disso...[lr]::
-21924::$$$message_0170_0047_0001$$$::Os combates do Cú Chulainn sempre carregavam um sombrio peso.::
-21925::$$$message_0170_0048_0000$$$::"Há gerações, rainhas detinham o poder no país vizinho de Connacht. Entre elas, a rainha Medb era uma mulher competitiva que amava a guerra. Bem, muita coisa aconteceu e ela marchou contra Ulster."[wm canskip=0]::
-21926::$$$message_0170_0049_0000$$$::"Primeiro de tudo, uma das razões pela qual Connacht invadiu foi porque o tio Fergus se defitiu.[lr]::
-21927::$$$message_0170_0049_0001$$$::Nosso rei também tinha seus problemas, e bem, a causa raiz era que ele matou os filhos do tio Fergus por luxúria por uma jovem mulher."::
-21928::$$$message_0170_0050_0000$$$::"...Ei. Se minha memória não me falha, a princesa Deichtire teve você criado, e Fergus era um dos cavaleiros que fizeram isso, certo?"::
-21929::$$$message_0170_0051_0000$$$::"Sim. Meu tio, orgulho dos Cavaleiros da Rama Vermelha, serviu Connacht por ódio ao Rei da Ulster.[lr]::
-21930::$$$message_0170_0051_0001$$$::Tio Fergus teve um papel na agressão da Rainha Medb.[lr]::
-21931::$$$message_0170_0051_0002$$$::Além disso, havia algo como uma maldição sobre o povo da Ulster. Quando outro país invadia, todos os homens do país ficavam tão fracos que não conseguiam lutar."::
-21932::$$$message_0170_0052_0000$$$::"Hmm!?"[lr]::
-21933::$$$message_0170_0052_0001$$$::[font italic=true]Que merda?[font italic=false][lr]::
-21934::$$$message_0170_0052_0002$$$::[font italic=true]Como você prosperou nessa condição, Irlanda!?[font italic=false]::
-21935::$$$message_0170_0053_0000$$$::"W-w-[wvl][shock vmax=20 time=300 count=-2]o que aconteceu!? Se não conseguirem lutar, seriam roubados e conquistados em questão de tempo!"[lr]::
-21936::$$$message_0170_0053_0001$$$::"É como ser pisado quando já está de joelhos. Mas enfim, tecnicamente, eu não nasci em Ulster. Nasci em uma monte fálica. Por isso fui a única que consegui se mover livremente."::
-21937::$$$message_0170_0054_0000$$$::"Você sabe o resto, né?[lr]::
-21938::$$$message_0170_0054_0001$$$::Todo dia, cortamos as tropas de Medb como se estivéssemos mowing grama. Uma vez que eles começaram a ver o que estava escrito na parede, concordamos em continuar a guerra na forma de duelos individuais."::
-21939::$$$message_0170_0055_0000$$$::"Lutei em um duelo no rio da garganta de Ulster.[lr]::
-21940::$$$message_0170_0055_0001$$$::Dizia que o exército de Connacht poderia avançar apenas enquanto eu estou lutando em um duelo.[lr]::
-21941::$$$message_0170_0055_0002$$$::Ou cinco mil pessoas são mortas em um dia, ou eles avançam um pouco ao custo de uma pessoa.[lr]::
-21942::$$$message_0170_0055_0003$$$::Medb concordou relutante e então minha série de duelos diários começou."::
-21943::$$$message_0170_0056_0000$$$::"Hmm..."[lr]::
-21944::$$$message_0170_0056_0001$$$::Esta é a chamada Runa de Votos do Cú Chulainn.[lr]::
-21945::$$$message_0170_0056_0002$$$::Ath nGabla, cercado por quatro ramos, que promete um duelo com honra em jogo.::
-21946::$$$message_0170_0057_0000$$$::"Boa ideia.[lr]::
-21947::$$$message_0170_0057_0001$$$::Não há jeito de que o cão de guarda de Culann perca um duelo assim, então isso impediria o exército de Connacht."::
-21948::$$$message_0170_0058_0000$$$::"Nah, Medb quebrou o acordo e avançou.[lr]::
-21949::$$$message_0170_0058_0001$$$::Mas bem, foi uma promessa trocada diante de muitos testemunhas.[lr]::
-21950::$$$message_0170_0058_0002$$$::Para que os testemunhas não notassem, apenas uma unidade avançou. Ainda assim, era o melhor modo de os deter."::
-21951::$$$message_0170_0059_0000$$$::"Então, o problema foi meu duelo.[lr]::
-21952::$$$message_0170_0059_0001$$$::Havia guerreiros que eu acreditava serem um desperdício, mandando-os para morrer na minha mão. Depois veio a interferência de uma deusa guerreira estranha. E depois veio a Clan Calatin, o monstro de vinte e oito pessoas. Foi loucura. Pior, havia um tempo em que eu dormia um dia inteiro de cansaço.[lr]::
-21953::$$$message_0170_0059_0002$$$::E, bem, havia um momento em que os jovens da Ulster que ainda não eram considerados guerreiros se uniram para tentar ajudar Cú Chulainn e acabaram sendo massacrados pela Medb. Isso também é culpa minha, no fim das contas."::
+21863::$$$message_0170_0027_0001$$$::E-ele ameaçou o rei? Será que esse cara não tá, tipo, um bocado mais calminho agora do que antes?[lr]::
+21864::$$$message_0170_0027_0002$$$::De acordo com a Saber, ele tem uma certa afinidade pra ser invocado na classe Berserker, mas eu não botava muita fé que isso fosse verdade.::
+21865::$$$message_0170_0028_0000$$$::"Então foi assim que você virou guerreiro, hã?[lr]::
+21866::$$$message_0170_0028_0001$$$::...Hum, foram os Cavaleiros do Ramo Vermelho?"::
+21867::$$$message_0170_0029_0000$$$::"Isso aí. E, se você perguntar pra Saber, não tem nada a ver com o código de cavalheirismo dela.[lr]::
+21868::$$$message_0170_0029_0001$$$::Afinal, desde que você não seja desleal, pode lutar do jeito que bem entender.[lr]::
+21869::$$$message_0170_0029_0002$$$::A gente vivia arrumando briga em outros territórios quando dava na telha, dava uma festança à noite, e esquecia de tudo no dia seguinte.[lr]::
+21870::$$$message_0170_0029_0003$$$::A minha ordem tava infestada de idiotas, então eu não podia baixar a guarda nem no meu próprio país, quem dera nos outros."::
+21871::$$$message_0170_0030_0000$$$::Ele ri. Isso deve ser mesmo muito divertido pra ele.[lr]::
+21872::$$$message_0170_0030_0001$$$::...Entendo. A natureza livre e solta dele mostra o quão diferente era o mundo em que ele viveu.[lr]::
+21873::$$$message_0170_0030_0002$$$::E o orgulho dele não é uma coisa complicada como a de um ser humano, mas sim simples como o de uma besta fera.::
+21874::$$$message_0170_0031_0000$$$::"Daí pra frente, eu lutei dia e noite sem parar desde o dia em que virei um guerreiro.[lr]::
+21875::$$$message_0170_0031_0001$$$::Eu me apaixonei à primeira vista por uma daquelas princesas, então fui até o castelo pra sequestrar ela. Mas a mulher era esperta pra caramba, viu.[lr]::
+21876::$$$message_0170_0031_0002$$$::Ela mandou na lata que não tava nem aí pra fugir com um moleque que não tinha reputação nenhuma."::
+21877::$$$message_0170_0031_0003$$$::"Pera aí. Moleque? Quantos anos cê tinha na época?"::
+21878::$$$message_0170_0032_0000$$$::"Ah, acho que eu devia ter uns dezesseis. Aí, eu saí numa jornada em busca de glória.[lr]::
+21879::$$$message_0170_0032_0001$$$::Tinha essa guerreira chamada Scáthach num lugar conhecido como a Terra das Sombras, que diziam ser forte feito um monstro. Rolava um boato de que ela já tinha treinado uma pá de guerreiros."::
+21880::$$$message_0170_0033_0000$$$::Eu conheço o resto.[lr]::
+21881::$$$message_0170_0033_0001$$$::O Cú Chulainn chegou na Terra das Sombras, lugar famigerado por ser infestado de demônios, e lá recebeu a lança demoníaca, a Gáe Bolg, e os segredos da agilidade da governante, Scáthach.::
+21882::$$$message_0170_0034_0000$$$::"Cê fala isso como se fosse moleza. A fúria dela faria a sua donzela Tohsaka correr descalça se batesse de frente com ela.[lr]::
+21883::$$$message_0170_0034_0001$$$::O fato é que ela era pirada de vez e já tinha jogado a própria humanidade no lixo bem antes de eu chegar lá. Vê só, a Terra das Sombras é, sabe como é, um terreno do além. E aquela mulher se tornou a guardiã encarregada de descer a lenha nos fantasmas daquele lugar."::
+21884::$$$message_0170_0035_0000$$$::"Até rolavam uns caras com nível divino entre aqueles fantasmas.[lr]::
+21885::$$$message_0170_0035_0001$$$::Ela botava eles pra mamar só na base da habilidade dela na lança enquanto era uma mera humana, então já dá pra imaginar o quão insana ela era, né?"::
+21886::$$$message_0170_0036_0000$$$::"É. Dá até medo de imaginar algo como uma versão superpoderosa da Tohsaka."[lr]::
+21887::$$$message_0170_0036_0001$$$::"Pois é. E aí que, tinham outros aprendizes debaixo da asa daquela professora maluca.[lr]::
+21888::$$$message_0170_0036_0002$$$::Eram todos guerreiros que foram até a Scáthach pra aprender, mas tinha um em especial que batia de frente comigo em pé de igualdade.[lr]::
+21889::$$$message_0170_0036_0003$$$::O nome dele era Ferdiad. Um guerreiro do país vizinho, Connacht. Enquanto a gente vivia disputando pela Gáe Bolg, acabamos trocando juramentos de irmandade antes mesmo que eu percebesse."::
+21890::$$$message_0170_0037_0000$$$::"...Bom, como eu vou te dizer.[lr]::
+21891::$$$message_0170_0037_0001$$$::Eu tive três melhores amigos inestimáveis na vida, mas até no meio deles, ele era como uma figura especial de um irmão mais velho pra mim."::
+21892::$$$message_0170_0038_0000$$$::O Cú Chulainn então aprendeu todo o tipo de técnicas e feitiçaria.[lr]::
+21893::$$$message_0170_0038_0001$$$::...Mas nossa. Eu não imaginava que todos os contos heroicos que eu ouvi dele aconteceram enquanto ele tinha dezesseis anos.[lr]::
+21894::$$$message_0170_0038_0002$$$::Pelo que eu tô ouvindo, esse cara devia tocar o terror e aprontar de tudo numa velocidade frenética todos os dias.[lr]::
+21895::$$$message_0170_0038_0003$$$::Igualzinho a um cavalo rápido, vivendo a vida rápida e perigosamente.::
+21896::$$$message_0170_0039_0000$$$::"Nada disso. Eu até que morei na Terra das Sombras por um bom tempo.[lr]::
+21897::$$$message_0170_0039_0001$$$::Lá era tão confortável por ter uma professora tão boa e um baita dum rival.[lr]::
+21898::$$$message_0170_0039_0002$$$::Aí, essa idiota veio acabar com toda a nossa paz. Aífe, uma governante de uma terra vizinha, decidiu começar uma guerra.[lr]::
+21899::$$$message_0170_0039_0003$$$::A Scáthach, não me pergunte o porquê, não queria me deixar pisar no campo de batalha de jeito nenhum, e a gente até chegou a bater boca um monte de vezes por causa disso."::
+21900::$$$message_0170_0040_0000$$$::"Bom, no fim das contas, a Scáthach, o Ferdiad e eu tocamos o terror todos juntos e conseguimos capturar a Aífe viva depois de derrotar ela num combate um a um.[lr]::
+21901::$$$message_0170_0040_0001$$$::Mas sabe, como eu vou explicar? No começo, ela era uma inimiga asquerosa e insuportável. Mas quando pegamos ela de jeito, me toquei que ela também era um pedaço de mau caminho.[lr]::
+21902::$$$message_0170_0040_0002$$$::Aí, eu acabei me envolvendo pra valer. Mas a Scáthach descobriu tudo e ainda meteu umas pedradas na minha cabeça. Totalmente ao estilo Gáe Bolg."::
+21903::$$$message_0170_0041_0000$$$::Lancer dá uma risada sem graça no meio do seu devaneio. [lr]::
+21904::$$$message_0170_0041_0001$$$::Tô vendo, então o tal governante inimigo era essa mulher[line len=2]::
+21905::$$$message_0170_0042_0000$$$::"Pera aí. Foi isso que você quis dizer com se envolver pra valer!?"[lr]::
+21906::$$$message_0170_0042_0001$$$::"É claro, né. Se eu me apaixono, o mínimo a se esperar é eu ir pra cama com ela."[lr]::
+21907::$$$message_0170_0042_0002$$$::"Urgh."[lr]::
+21908::$$$message_0170_0042_0003$$$::...Pois é. Grandes heróis são também grandes amantes. Mas, mano, esses guerreiros realmente não têm nenhum filtro!::
+21909::$$$message_0170_0043_0000$$$::"Só que a hora da despedida sempre chega, mais cedo ou mais tarde.[lr]::
+21910::$$$message_0170_0043_0001$$$::Acabei terminando com a Aífe também. Se ela tivesse um filho meu, pedi que o nomeasse de Connla e o mandasse pra Ulster. Também deixei pra ele três juramentos pra seguir.[lr]::
+21911::$$$message_0170_0043_0002$$$::Primeiro, nunca diga seu nome, nem mesmo se te perguntarem.[lr]::
+21912::$$$message_0170_0043_0003$$$::Segundo, jamais desvie do caminho que você escolheu trilhar, não importa o que aconteça.[lr]::
+21913::$$$message_0170_0043_0004$$$::Terceiro, nunca recuse quando for desafiado para uma luta.[lr]::
+21914::$$$message_0170_0043_0005$$$::Digo, esses são os requisitos mínimos pra um filho meu."::
+21915::$$$message_0170_0044_0000$$$::"Daí então, eu e o Ferdiad partimos da Terra das Sombras no mesmíssimo dia.[lr]::
+21916::$$$message_0170_0044_0001$$$::Assim que nós pisamos fora do castelo, a gente perguntou um pro outro: 'Ei, você não quer vir pro meu país, não?' [wvl canskip=0 time=400][clfg][dash page=back mx=0 opacity=255 layer=base irot=-0.0 cx=463 imag=2 time=100 cy=73 mag=2 my=0 storage=fd25_01e rot=-0.0 accel=0][transex standard=fore time=300]Nós dois caímos na gargalhada quando nos demos conta de que nenhum dos dois tava a fim de dar o braço a torcer.[lr]::
+21917::$$$message_0170_0044_0002$$$::E quanto a Scáthach... bom, não vi nem o sinal dela no dia em que fui embora. Acho que ela não tinha mais nada a dizer depois de ter me ensinado absolutamente tudo."::
+21918::$$$message_0170_0045_0000$$$::Essa foi a lenda da Terra das Sombras.[lr]::
+21919::$$$message_0170_0045_0001$$$::E com isso, o Lancer fica em silêncio por um tempinho.[lr]::
+21920::$$$message_0170_0045_0002$$$::Ao retornar para Ulster, Cú Chulainn se destacou de forma estrondosa no campo de batalha, e se tornou um guerreiro conhecido por toda a Irlanda em um piscar de olhos.[lr]::
+21921::$$$message_0170_0045_0003$$$::Ele conquistou coisas na guerra que ninguém mais poderia reproduzir, foi até a princesa prometida e ainda matou o Rei Forgall junto de todas as tropas que ficaram no seu caminho, e ganhou em batalha junto com os seus companheiros da ordem o título de guerreiro número um de toda Ulster.::
+21922::$$$message_0170_0046_0000$$$::A sua carreira gloriosa e lendária também marcou a juventude do herói Cú Chulainn ao mesmo tempo.::
+21923::$$$message_0170_0047_0000$$$::Mas, depois disso...[lr]::
+21924::$$$message_0170_0047_0001$$$::As lutas do Cú Chulainn sempre trariam o fardo de uma sombra pesada.::
+21925::$$$message_0170_0048_0000$$$::"Por gerações a fio, as rainhas dominaram o poder no país vizinho, Connacht. Dentre elas, a Rainha Medb era uma mulher bem competitiva que adorava arrumar briga. Bem, muita coisa rolou no meio disso e ela resolveu marchar pra cima de Ulster."[wm canskip=0]::
+21926::$$$message_0170_0049_0000$$$::"A começar, uma das razões pra Connacht ter invadido a gente foi porque o tio Fergus meteu o pé e virou a casaca.[lr]::
+21927::$$$message_0170_0049_0001$$$::O nosso rei também tinha seus podres, e olha, a raiz de todo o problema é que ele matou os filhos do tio Fergus só por luxúria em cima de uma donzela."::
+21928::$$$message_0170_0050_0000$$$::"...Espera. Se a minha memória não falha, a Princesa Deichtire botou você pra ser criado por pais adotivos, e o Fergus era um dos cavaleiros encarregados disso, não era?"::
+21929::$$$message_0170_0051_0000$$$::"Pois é. Então o meu tio, que até então era todo o orgulho dos Cavaleiros do Ramo Vermelho, passou a servir a Connacht movido pelo ódio dele contra o Rei de Ulster.[lr]::
+21930::$$$message_0170_0051_0001$$$::O tio Fergus teve uma bela parcela de culpa na agressão da Rainha Medb.[lr]::
+21931::$$$message_0170_0051_0002$$$::Pra piorar tudo, o pessoal de Ulster sofria de uma espécie de maldição. Quando qualquer outro país decidia invadir a gente, todos os homens viravam uns fracotes e mal conseguiam levantar uma espada pra lutar."::
+21932::$$$message_0170_0052_0000$$$::"Hã!?"[lr]::
+21933::$$$message_0170_0052_0001$$$::[font italic=true]Mas o quê?[font italic=false][lr]::
+21934::$$$message_0170_0052_0002$$$::[font italic=true]Como é que você conseguiu prosperar com uma condição dessas, Irlanda!?[font italic=false]::
+21935::$$$message_0170_0053_0000$$$::"O-o-[wvl][shock vmax=20 time=300 count=-2]o que aconteceu!? Se eles não conseguem lutar, seriam saqueados e conquistados em um piscar de olhos!"[lr]::
+21936::$$$message_0170_0053_0001$$$::"É bem como ser chutado quando já tá caído. Mas, de todo jeito, tecnicamente eu não sou nascido em Ulster. Eu nasci num monte das fadas. E foi só por isso que eu era o único no país inteiro que conseguia me mexer sem problemas."::
+21937::$$$message_0170_0054_0000$$$::"O resto você já sabe, não é?[lr]::
+21938::$$$message_0170_0054_0001$$$::Todo santo dia, a gente degolava as tropas da Medb como se estivesse cortando grama. Quando eles sacaram que iam tomar uma surra e bateram em retirada, decidimos continuar aquela brincadeira na base dos duelos individuais."::
+21939::$$$message_0170_0055_0000$$$::"Eu ficava duelando a rodo pelo vau do penhasco de Ulster.[lr]::
+21940::$$$message_0170_0055_0001$$$::Dei a minha palavra de que o exército de Connacht só ia poder avançar enquanto eu estivesse metido num duelo.[lr]::
+21941::$$$message_0170_0055_0002$$$::Ou era um matadouro de cinco mil homens todos os dias, ou eles andavam um pouquinho mais a custo de um único cara.[lr]::
+21942::$$$message_0170_0055_0003$$$::A Medb teve que engolir o acordo, e foi assim que começou a minha maratona de duelos diários."::
+21943::$$$message_0170_0056_0000$$$::"Uau..."[lr]::
+21944::$$$message_0170_0056_0001$$$::Essa é a tal famigerada Runa dos Votos do Cú Chulainn.[lr]::
+21945::$$$message_0170_0056_0002$$$::Ath nGabla, cercada por quatro galhos, a qual promete um duelo colocando a própria honra em jogo.::
+21946::$$$message_0170_0057_0000$$$::"Bela ideia.[lr]::
+21947::$$$message_0170_0057_0001$$$::Não tem como o cão de guarda do Culann perder num simples duelo, então isso ia segurar e atrasar muito bem o exército de Connacht."::
+21948::$$$message_0170_0058_0000$$$::"Que nada, a Medb passou por cima do acordo e avançou sem dó.[lr]::
+21949::$$$message_0170_0058_0001$$$::Mas, qual é, foi um juramento que a gente fez na cara de um bando de testemunhas.[lr]::
+21950::$$$message_0170_0058_0002$$$::Aí, pra galera não perceber o truque deles, eles faziam só uma tropa avançar por vez. Mesmo assim, era o melhor jeito da gente atrasar eles."::
+21951::$$$message_0170_0059_0000$$$::"O maior B.O. foi a minha parte no duelo.[lr]::
+21952::$$$message_0170_0059_0001$$$::Apareceram guerreiros que eu achava que era um puta desperdício morrer pelas minhas mãos. Depois, pintou um perrengue por causa de uma deusa maluca da guerra. E sem contar o Clã Calatin, aquele monstrão feito de vinte e oito cabeças. Foi a maior loucura. Teve uma hora que eu capotei o dia todinho só de tanto cansaço, véi.[lr]::
+21953::$$$message_0170_0059_0002$$$::E também, teve uma hora em que a pivetada de Ulster que ainda nem era guerreira juntou os trapinhos pra tentar dar uma força pro Cú Chulainn e acabou tomando uma sova federal pra Medb. No fim das contas, a culpa disso cair também é toda minha."::
 21954::$$$message_0170_0060_0000$$$::"..."[lr]::
-21955::$$$message_0170_0060_0001$$$::Retiro o que disse.[lr]::
-21956::$$$message_0170_0060_0002$$$::A luta nas margens foi uma armadilha para a morte mesmo para o herói, Cú Chulainn.[lr]::
-21957::$$$message_0170_0060_0003$$$::E no fim desse labirinto de morte uma vez na vida...::
-21958::$$$message_0170_0061_0000$$$::"O mais forte guerreiro de Connacht.[lr]::
-21959::$$$message_0170_0061_0001$$$::O único homem que eu não queria lutar neste mundo."[lr]::
-21960::$$$message_0170_0061_0002$$$::O guerreiro com quem treinou no País das Sombras.[lr]::
-21961::$$$message_0170_0061_0003$$$::O duelo com Ferdiad, ao qual Cú Chulainn respeitava como um figura de irmão mais velho.::
-21962::$$$message_0170_0062_0000$$$::Essa luta não era vontade de Ferdiad, mas parte dos esquemas da Rainha Medb.[lr]::
-21963::$$$message_0170_0062_0001$$$::Lancer não falou sobre o quanto ambos os lados estavam em dilema.[lr]::
-21964::$$$message_0170_0062_0002$$$::Ambos serviram aos seus senhores com suas vidas.[lr]::
-21965::$$$message_0170_0062_0003$$$::Para manter seu honra, algo menos valioso para eles do que sua amizade, tiveram que potencialmente arremessar suas vidas.::
-21966::$$$message_0170_0063_0000$$$::Suas habilidades estavam empatadas, e um Cú Chulainn cercado atingiu o coração de Ferdiad com Gáe Bolg.[lr]::
-21967::$$$message_0170_0063_0001$$$::Ele soltou a lança demoníaca que não usara uma vez desde a Terra das Sombras em seu melhor amigo inesquecível.::
-21968::$$$message_0170_0064_0000$$$::"GÃ¡e Bolg é o honra concedida ao maior guerreiro."[lr]::
-21969::$$$message_0170_0064_0001$$$::Cú Chulainn segurava seu colega desmaiado nos braços.[lr]::
-21970::$$$message_0170_0064_0002$$$::"Nesse ambiente de aprendizado brilhante, [wait canskip=0 time=400]você era nosso orgulho..."[lr]::
-21971::$$$message_0170_0064_0003$$$::E Ferdiad falou sua última palavra ao mundo.::
-21972::$$$message_0170_0065_0000$$$::...Aquele combate terminou com a derrota do país inimigo, Connacht.[lr]::
-21973::$$$message_0170_0065_0001$$$::Os guerreiros da Ulster conseguiram se recuperar da fraqueza maldita que sofriam e atacaram o exército de Connacht, desferindo um golpe devastador.[lr]::
-21974::$$$message_0170_0065_0002$$$::Após a batalha, Cú Chulainn capturou a rainha Medb viva, mas, em vez de matá-la ou humilhá-la, é dito que a devolveu a Connacht com todo o respeito devido a uma rainha.::
-21975::$$$message_0170_0066_0000$$$::"Então você também deixou um general inimigo ir embora aqui também.[lr]::
-21976::$$$message_0170_0066_0001$$$::...Você nunca matou uma mulher, né?"[lr]::
-21977::$$$message_0170_0066_0002$$$::"Acho que sim.[lr]::
-21978::$$$message_0170_0066_0003$$$::Não foi como se eu tivesse planejado assim, foi mesmo um acidente[line len=2]eh, mas acho que não gosto disso, sim."::
-21979::$$$message_0170_0067_0000$$$::Isso não é o problema.[lr]::
-21980::$$$message_0170_0067_0001$$$::Não importa se você os ama ou os odeia.[lr]::
-21981::$$$message_0170_0067_0002$$$::Colocando de lado como ele é agora como Servo, isso significa que Cú Chulainn, como herói, não gostava de matar mulheres em um campo de batalha.::
-21982::$$$message_0170_0068_0000$$$::"E depois disso?"[lr]::
-21983::$$$message_0170_0068_0001$$$::"Não houve grandes guerras depois disso.[lr]::
-21984::$$$message_0170_0068_0002$$$::Oh... A propósito, um garoto estranho veio à praia e começou uma confusão.[lr]::
-21985::$$$message_0170_0068_0003$$$::Ele era esse brat que dava um jeito de esmurrar a cara de todo guerreiro que tentava falar com ele. Até o rei deu uma olhada nele e decidiu que só Cú Chulainn pode derrotar esse moleque."::
-21986::$$$message_0170_0069_0000$$$::"...A única vez em que minha princesa tentou me impedir foi naquele momento, e a outra no fim da minha vida.[lr]::
-21987::$$$message_0170_0069_0001$$$::Ela chorou, dizendo que eu não devia ir. Mas era um ordem do rei e tudo mais, então, eu tive que engolir o gosto amargo de qualquer forma."::
-21988::$$$message_0170_0070_0000$$$::"Então, eu briguei com esse garoto na praia, mas ele era tão forte que não tive escolha a não ser usar Gáe Bolg.[lr]::
-21989::$$$message_0170_0070_0001$$$::Depois que o venci, ele disse "ela não me ensinou isso" antes de morrer. Ele devia ter sido discípulo de Scáthach.[lr]::
-21990::$$$message_0170_0070_0002$$$::É. E o nome daquele garoto era Connla."[lr]::
+21955::$$$message_0170_0060_0001$$$::Eu retiro o que disse.[lr]::
+21956::$$$message_0170_0060_0002$$$::A luta naqueles vaus não passava de uma armadilha mortal até mesmo para o herói, Cú Chulainn.[lr]::
+21957::$$$message_0170_0060_0003$$$::E, no final de tudo, deparando com uma armadilha mortal dessas com o qual se esbarra uma única vez na vida...::
+21958::$$$message_0170_0061_0000$$$::"O guerreiro mais forte de toda Connacht.[lr]::
+21959::$$$message_0170_0061_0001$$$::O único cara desse mundo inteiro com quem eu jamais queria levantar a minha lança pra brigar."[lr]::
+21960::$$$message_0170_0061_0002$$$::O guerreiro com quem ele tinha treinado a vida toda na Terra das Sombras.[lr]::
+21961::$$$message_0170_0061_0003$$$::O derradeiro embate contra Ferdiad, o homem a quem Cú Chulainn respeitava como uma figura de irmão mais velho.::
+21962::$$$message_0170_0062_0000$$$::Esta luta não foi por vontade de Ferdiad, mas sim por mais uma das tramas ardilosas da Rainha Medb.[lr]::
+21963::$$$message_0170_0062_0001$$$::O Lancer não falou sobre o quão pesada e torturante aquela situação foi pros dois lados.[lr]::
+21964::$$$message_0170_0062_0002$$$::Ambos serviram e se dedicaram aos seus mestres com o preço de suas próprias vidas.[lr]::
+21965::$$$message_0170_0062_0003$$$::A fim de honrar a sua palavra e sua moral, mesmo que isso custasse menos do que o elo da amizade deles, no fim das contas tiveram que apostar as próprias vidas.::
+21966::$$$message_0170_0063_0000$$$::Como as habilidades dos dois se emparelhavam de forma equilibrada, Cú Chulainn, sem saída e encurralado, apunhalou o peito de Ferdiad usando a Gáe Bolg.[lr]::
+21967::$$$message_0170_0063_0001$$$::Ele liberou a lança demoníaca maldita, da qual jamais usara desde os tempos da Terra das Sombras, logo contra o seu insubstituível melhor amigo de todas as horas.::
+21968::$$$message_0170_0064_0000$$$::"A Gáe Bolg é a honraria destinada a ser dada aos maiores dos guerreiros."[lr]::
+21969::$$$message_0170_0064_0001$$$::Cú Chulainn segurou aquele veterano desabado em seus braços,[lr]::
+21970::$$$message_0170_0064_0002$$$::"Naquele brilhante e inesquecível ambiente de aprendizado, [wait canskip=0 time=400]você sempre foi e sempre será o nosso grande orgulho..."[lr]::
+21971::$$$message_0170_0064_0003$$$::e então, Ferdiad cuspiu as suas últimas palavras para o mundo.::
+21972::$$$message_0170_0065_0000$$$::...Aquele conflito todo chegou ao fim com a queda e derrota da nação inimiga, Connacht.[lr]::
+21973::$$$message_0170_0065_0001$$$::Os guerreiros de Ulster finalmente conseguiram sacudir a poeira e dar a volta por cima daquela praga maldita de fraqueza, partindo com tudo pra cima do exército de Connacht e aplicando neles um golpe fatal de acabar com qualquer um.[lr]::
+21974::$$$message_0170_0065_0002$$$::Com o cair do pano do espetáculo, dizem as lendas que Cú Chulainn botou a mão na Rainha Medb viva, mas em vez de acabar com a raça dela ou de fazer ela passar vergonha, ele a botou de volta no trem pra Connacht com todos os confetes e o tapete vermelho que uma majestade tinha direito.::
+21975::$$$message_0170_0066_0000$$$::"Então você deixou o general inimigo escapar ileso aqui também.[lr]::
+21976::$$$message_0170_0066_0001$$$::...Você nunca sequer matou uma mulher em toda a vida, hã?"[lr]::
+21977::$$$message_0170_0066_0002$$$::"Pelo visto sim.[lr]::
+21978::$$$message_0170_0066_0003$$$::Não que eu tenha feito isso tudo de caso pensado, mas no final das contas acabou sendo uma coincidência danada[line len=2]é, mas eu confesso que não morro de amores por essa ideia, sem dúvida nenhuma."::
+21979::$$$message_0170_0067_0000$$$::Mas esse nem de perto é o problema da coisa toda.[lr]::
+21980::$$$message_0170_0067_0001$$$::Pelo sim ou pelo não, dar amor ou nutrir o próprio ódio também não faz a menor diferença pra essa equação.[lr]::
+21981::$$$message_0170_0067_0002$$$::Deixando de lado como ele é como um Servo agora, no fundo isso quer dizer que, como o herói que foi, Cú Chulainn simplesmente detestava matar mulheres em pleno campo de batalha.::
+21982::$$$message_0170_0068_0000$$$::"E o que rolou depois de tudo isso?"[lr]::
+21983::$$$message_0170_0068_0001$$$::"Não rolou nenhuma guerra bombástica digna de nota depois de tudo que aconteceu.[lr]::
+21984::$$$message_0170_0068_0002$$$::Ah... Mas puxando da memória aqui, um pivete bem esquisito baixou lá no cais e acabou virando tudo de pernas pro ar com a maior confusão.[lr]::
+21985::$$$message_0170_0068_0003$$$::E aquele fedelho mimado metia porrada sem dó em qualquer guerreiro que ousava puxar papo com ele. Até o rei bateu o olho nele e já sacou de primeira: 'Sabe de uma coisa, o Cú Chulainn é o único peão da parada toda capaz de descer o sarrafo nesse garoto'."::
+21986::$$$message_0170_0069_0000$$$::"...As únicas vezes que a minha amada princesa fez força pra me deter e me parar, foi logo naquela hora, e depois só de novo no apagar das luzes da minha jornada.[lr]::
+21987::$$$message_0170_0069_0001$$$::Ela derramou lágrimas a fio e chorou pra valer, dizendo com todas as letras que eu não devia dar nem mais um passo pra ir. Mas, poxa vida, aquilo lá era uma ordem de ofício do próprio rei e tudo mais, né, não teve jeito; acabei tendo que abaixar a cabeça, morder a língua e ir logo de uma vez."::
+21988::$$$message_0170_0070_0000$$$::"E assim foi, eu fui pros finalmente contra aquele tal moleque atrevido lá na beira-mar, mas caraca, o pingo de gente era forte de um jeito tão surreal que a única saída que me sobrou foi mandar ver usando a Gáe Bolg logo pra fechar a conta de vez.[lr]::
+21989::$$$message_0170_0070_0001$$$::Aí, depois de ter ganhado dele, ele soltou um 'isso aí ela não chegou a me ensinar' num sussurro, bem antes de partir dessa pra uma melhor. Tá na cara que o bendito era mais um daqueles aprendizes perdidos da Scáthach.[lr]::
+21990::$$$message_0170_0070_0002$$$::Pois é. E o nome daquele pobre moleque era ninguém menos do que Connla."[lr]::
 21991::$$$message_0170_0070_0003$$$::"..."::
-21992::$$$message_0170_0071_0000$$$::Isso marca o fim da era dourada para o herói, Cú Chulainn.[lr]::
-21993::$$$message_0170_0071_0001$$$::O resto não precisa ser dito.[lr]::
-21994::$$$message_0170_0071_0002$$$::A rainha Medb buscou vingança e, assim, reuniu lutadores de longe e perto, todos com ressentimentos contra Cú Chulainn, para o cercar com todo tipo de tramas maléficas.[lr]::
-21995::$$$message_0170_0071_0003$$$::E para defender a Ulster outra vez em seu momento de fraqueza, ele assumiu sozinho o exército de Medb, suportando incontáveis armadilhas, até que encontrou um fim inescapável.::
-21996::$$$message_0170_0072_0000$$$::Ele realizou muitas façanhas de valor. Um grande herói. A escudo de Ulster.[lr]::
-21997::$$$message_0170_0072_0001$$$::Comparado a aquela glória, sua vida foi surpreendentemente curta.[lr]::
-21998::$$$message_0170_0072_0002$$$::O cão de guarda de Culann era uma criança guerreira que chegou ao fim da sua vida como se estivesse correndo em direção a ele.::
-21999::$$$message_0170_0073_0000$$$::Isso é a história de Cú Chulainn.[lr]::
-22000::$$$message_0170_0073_0001$$$::Quase é o pôr do sol.[lr]::
-22001::$$$message_0170_0073_0002$$$::Para tanta curiosidade desinteressada, isso certamente levou bastante tempo.::
-22002::$$$message_0170_0074_0000$$$::"Vou começar a voltar. Obrigado pela longa história."[lr]::
-22003::$$$message_0170_0074_0001$$$::Lancer snorta e se vira para longe.[lr]::
-22004::$$$message_0170_0074_0002$$$::Ele provavelmente acha que foi um desperdício de tempo.::
-22005::$$$message_0170_0075_0000$$$::"Ah, sim, quase esqueci.[lr]::
-22006::$$$message_0170_0075_0001$$$::O que era que você queria me bater na cabeça?"::
-22007::$$$message_0170_0076_0000$$$::"Você não consegue perceber? É que eu não matei nenhuma mulher ou lord."[lr]::
-22008::$$$message_0170_0076_0001$$$::"Entendi."[lr]::
-22009::$$$message_0170_0076_0002$$$::Cú Chulainn não desobedeceu um único comando do rei nas muitas batalhas, por mais imprudente que fosse.[lr]::
-22010::$$$message_0170_0076_0003$$$::Sua história também contou aquela verdade.::
-22011::$$$message_0170_0077_0000$$$::"Isso foi muito útil. Retribuirei o favor em outra ocasião."[lr]::
-22012::$$$message_0170_0077_0001$$$::"Vai lá, pega umas bebidas daquela garota Taiga pra mim, tá?"::
-22013::$$$message_0170_0078_0000$$$::Eu saio do porto.[lr]::
-22014::$$$message_0170_0078_0001$$$::...Cara, desculpe por ter subestimado você.[lr]::
-22015::$$$message_0170_0078_0002$$$::Não achei que eles fariam o primeiro movimento nesse momento[line len=3]::
-921922::$$$message_9170_0046_0000$$$::Sua gloriosa carreira também marcou a juventude do herói Cú Chulainn ao mesmo tempo.[r]
+21992::$$$message_0170_0071_0000$$$::Isso então decretou de vez a queda no cair do pano sobre a gloriosa era dourada de glórias daquele herói, o Cú Chulainn.[lr]::
+21993::$$$message_0170_0071_0001$$$::O final dessa tragédia toda já dispensa apresentações e mal precisa ser dito de tão manjado.[lr]::
+21994::$$$message_0170_0071_0002$$$::Como era de se esperar, a tal Rainha Medb jurou vingança amarga e saiu catando qualquer brutamontes dos quatro cantos com qualquer pingo de treta engasgada ou ressentimento mal resolvido contra Cú Chulainn; tudo na tentativa de deixar ele na pior com todo os complôs e maquinações sujas da pior espécie.[lr]::
+21995::$$$message_0170_0071_0003$$$::E pra conseguir proteger Ulster e salvar a pátria mais uma vez logo no pior perrengue da história, ele encarou a tropa da Medb peito a peito de cara limpa e sozinho, topando e comendo o pão que o diabo amassou de tanta ratoeira no meio do caminho, tudo isso até topar cara a cara sem aviso com um fim da picada pra lá de sem piedade ou qualquer pudor.::
+21996::$$$message_0170_0072_0000$$$::Ele concretizou sem medo várias proezas colossais e heroicas dignas de cair o queixo de tão corajosas. Um esplêndido figurão da época que virou até lenda. E se não fosse pouco, se consagrou o pilar impenetrável e protetor de Ulster como escudo.[lr]::
+21997::$$$message_0170_0072_0001$$$::Só que, batendo de frente com essa glória tão cintilante e estrondosa, a corda da vida que ele levou acabou sendo cortada, sem dó nem piedade, num estalo bizarramente mais cedo e bem mais curto do que era o imaginado.[lr]::
+21998::$$$message_0170_0072_0002$$$::Dessa forma, o bendito cão de guarda da terra de Culann não foi nada muito a mais além do que uma pura e ingênua criança enfiada de supetão dentro de um corpo de guerreiro blindado; criança essa a qual deu os seus passos ruma à linha de chegada e encontrou o fim no estopim da vida num piscar de olhos.::
+21999::$$$message_0170_0073_0000$$$::E essa é a longa e tão aclamada epopeia celta sobre quem foi ninguém mais, e ninguém menos do que o Cú Chulainn.[lr]::
+22000::$$$message_0170_0073_0001$$$::A essa hora o sol já tá começando a ir embora do lado de lá do céu e dando adeus pra tarde.[lr]::
+22001::$$$message_0170_0073_0002$$$::E confesso que, pra algo nascido de uma simples bisbilhotice de orelhada e sem compromisso assim de primeira, acabou esgotando e chupando uma porção da nossa paciência e do tempo a rodo por aqui.::
+22002::$$$message_0170_0074_0000$$$::"Eu já vou indo e dando a minha meia-volta. Falando nisso, brigadão de coração por me contar com toda paciência todo esse seu causo compridão aí."[lr]::
+22003::$$$message_0170_0074_0001$$$::O Lancer responde logo com uma fungada um bocado ríspida nas ventas, sem esconder o saco cheio, enquanto vira a cara pro outro lado e esconde qualquer feição das vistas.[lr]::
+22004::$$$message_0170_0074_0002$$$::Ele deve estar, pelo menos em parte, até no fundo da alma convencido que tudo isso aqui foi pra valer a maior das perdas de tempo atoa do dia inteiro, afinal das contas.::
+22005::$$$message_0170_0075_0000$$$::"Nossa que lerdeza. Já tava na tampa aqui, e eu tava quase deixando passar batido pra trás com a cabeça de vento dessa.[lr]::
+22006::$$$message_0170_0075_0001$$$::Vem cá... Qual foi mesmo a história em que cê queria martelar e cravar dentro da minha cabeça aquele hora atrás, hein?"::
+22007::$$$message_0170_0076_0000$$$::"Você ainda não sacou, com aquele tanto que eu falei? É logo ali, no ponto em que eu deixei bem claro a todo o custo de que jamais dei o menor dos pitacos pra chegar a levantar a mão e derramar e tirar uma gota de sangue que fosse não só de qualquer uma das mulheres que trombei pela rua, mas muito menos de qualquer mandachuva de trono."[lr]::
+22008::$$$message_0170_0076_0001$$$::"Entendi. Tô sacando qual é a sua jogada aí."[lr]::
+22009::$$$message_0170_0076_0002$$$::É que assim, Cú Chulainn sempre peitou e jamais recusou sequer ou deu pra trás nem diante a menor e mais esdrúxula das ordens dada pelo rei da época, por meio daquelas incontáveis trincheiras; nem se importava em bater boca se elas pareciam ou não que iam dar num fracasso total e imprudente no meio das guerras.[lr]::
+22010::$$$message_0170_0076_0003$$$::E com a boca toda e aos quatro ventos, aquele causo imenso da lenda em si acabou contando por fim logo toda essa mesma verdade afinal e por sinal.::
+22011::$$$message_0170_0077_0000$$$::"Opa, escuta só, foi bem daora toda essa sua falação. Vou te quebrar o galho do revide aí num repeteco disso em outro tempinho livre e desocupado desses por aí, viu."[lr]::
+22012::$$$message_0170_0077_0001$$$::"Dá pro gasto. Só me faça o favor e dê seus pulos de tirar daquela tal de garota, a Taiga, e encher meus copos aqui com uns troços que dê pro cheiro e que desçam prazerosos pra dar a molhada na garganta, quebra essa pra mim, viu?"::
+22013::$$$message_0170_0078_0000$$$::Eu dou a minha recuada daqui e desço rumo pra longe da área do porto.[lr]::
+22014::$$$message_0170_0078_0001$$$::...Qual é, nossa, cara, me dá um belo dum desconto e um puta dum perdão aí do peito, acabei foi caindo na esparrela pesada e vacilando com a cara te botando aí bem mais pra baixo e lá no subsolo de menosprezo por falta de aviso, sem caô nem meias palavras.[lr]::
+22015::$$$message_0170_0078_0002$$$::Pois de nada adiantou ou pesou muito porque nunca ia chegar nem na casca de passar pela minha mente que os danados iriam dar por fim a pontapé da largada no meio disso de surpresa logo nesse meio-termo de agora pra já, bicho[line len=3]::
+921922::$$$message_9170_0046_0000$$$::A sua carreira gloriosa e lendária também marcou a juventude do herói Cú Chulainn ao mesmo tempo.[r]

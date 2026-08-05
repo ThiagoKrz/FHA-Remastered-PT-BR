@@ -1,230 +1,189 @@
 DAT
 id=qid::label=str::text=lstr::
-17372::$$$message_0131_0000_0000$$$::Chego ao distrito de compras.[lr]::
-17373::$$$message_0131_0000_0001$$$::Ainda é cedo para se preparar para o almoço, mas enquanto olho ao redor para ver se há algum desconto...[lr]::
-17374::$$$message_0131_0000_0002$$$::Acaso encontro a Sakura.[lr]::
-17375::$$$message_0131_0000_0003$$$::Boa timing. Vou perguntar a ela sobre o cardápio de hoje...::
-17376::$$$message_0131_0001_0000$$$::"...Hmm?"[lr]::
-17377::$$$message_0131_0001_0001$$$::Parametro e vejo com quem ela está.[lr]::
-17378::$$$message_0131_0001_0002$$$::Não há dúvida.[lr]::
-17379::$$$message_0131_0001_0003$$$::...É Caster e Sakura.[lr]::
-17380::$$$message_0131_0001_0004$$$::Venho vendo a Caster por aí ultimamente, mas é raro que ela esteja com alguém.::
-17381::$$$message_0131_0002_0000$$$::"Oh, Senpai!"[lr]::
-17382::$$$message_0131_0002_0001$$$::Sakura olha para trás e me chama felizmente.[lr]::
-17383::$$$message_0131_0002_0002$$$::"Bem, se não é o Emiya? Bom dia."::
-17384::$$$message_0131_0003_0000$$$::...Ela não me chamou de "menino."[lr]::
-17385::$$$message_0131_0003_0001$$$::Fico impressionado só com isso, mas além disso, ela está sorrindo ao lado de Sakura.[lr]::
-17386::$$$message_0131_0003_0002$$$::É um cataclismo, ou uma estranha chance de sorte?::
-17387::$$$message_0131_0004_0000$$$::"Olá. Sakura, você conhece o Caster?"[lr]::
-17388::$$$message_0131_0004_0001$$$::"Ah, você também conhece a Senpai Caster?[lr]::
-17389::$$$message_0131_0004_0002$$$::[chgfg textoff=0 storage=桜私服03e(中) time=300]Oh, se ela estiver na casa do senpai Ryuudou, então é claro que você estaria."::
-17390::$$$message_0131_0005_0000$$$::"Não precisamos nos apresentar então.[lr]::
-17391::$$$message_0131_0005_0001$$$::Olá, Emiya. Conheço a senhorita Matou."[lr]::
-17392::$$$message_0131_0005_0002$$$::"O senpai também está cuidando de mim em sua casa."[lr]::
-17393::$$$message_0131_0005_0003$$$::"Sim. Como estamos em situações semelhantes, [cacheimage storage=キャスター私服01c(中)][wvl][chgfg textoff=0 time=300 storage=キャスター私服01c(中)]não conseguimos deixar de nos perder em conversa."::
+17372::$$$message_0131_0000_0000$$$::Eu chego no distrito comercial.[lr]::
+17373::$$$message_0131_0000_0001$$$::Ainda é cedo para preparar o almoço, mas enquanto estou olhando ao redor para ver se tem alguma promoção...[lr]::
+17374::$$$message_0131_0000_0002$$$::Acabo encontrando a Sakura.[lr]::
+17375::$$$message_0131_0000_0003$$$::Ótima hora. Vou perguntar pra ela sobre o cardápio de hoje...::
+17376::$$$message_0131_0001_0000$$$::"...Hã?"[lr]::
+17377::$$$message_0131_0001_0001$$$::Eu paro e vejo com quem ela está.[lr]::
+17378::$$$message_0131_0001_0002$$$::Não há dúvidas.[lr]::
+17379::$$$message_0131_0001_0003$$$::...São a Caster e a Sakura.[lr]::
+17380::$$$message_0131_0001_0004$$$::Tenho visto a Caster por aí ultimamente, mas é raro ela estar com alguém.::
+17381::$$$message_0131_0002_0000$$$::"Ah, Senpai!"[lr]::
+17382::$$$message_0131_0002_0001$$$::A Sakura olha para trás e me chama toda feliz.[lr]::
+17383::$$$message_0131_0002_0002$$$::"Ora, se não é o Emiya? Bom dia."::
+17384::$$$message_0131_0003_0000$$$::...Ela não me chamou de "garoto".[lr]::
+17385::$$$message_0131_0003_0001$$$::Estou impressionado só por isso, mas além de tudo, ela está sorrindo ao lado da Sakura.[lr]::
+17386::$$$message_0131_0003_0002$$$::Isso é um cataclismo ou uma estranha maré de sorte?::
+17387::$$$message_0131_0004_0000$$$::"Oi. Sakura, você conhece a Caster?"[lr]::
+17388::$$$message_0131_0004_0001$$$::"Ah, você também conhece a senhora Caster, Senpai?[lr]::
+17389::$$$message_0131_0004_0002$$$::[chgfg textoff=0 storage=桜私服03e(中) time=300]Ah, se ela está na casa do Ryudou-senpai, então é claro que você a conheceria."::
+17390::$$$message_0131_0005_0000$$$::"Nós não precisamos apresentar ninguém um para o outro então.[lr]::
+17391::$$$message_0131_0005_0001$$$::Olá, Emiya. Sou amiga da senhorita Matou."[lr]::
+17392::$$$message_0131_0005_0002$$$::"O Senpai também cuida de mim lá na casa dele."[lr]::
+17393::$$$message_0131_0005_0003$$$::"Sim. Como estamos em situações parecidas, [cacheimage storage=キャスター私服01c(中)][wvl][chgfg textoff=0 time=300 storage=キャスター私服01c(中)]não pudemos evitar de nos perder na conversa."::
 17394::$$$message_0131_0006_0000$$$::"..."[lr]::
 17395::$$$message_0131_0006_0001$$$::Engulo a objeção que quase saiu da minha garganta.[lr]::
-17396::$$$message_0131_0006_0002$$$::O Caster não é o Caster que eu conheço.[lr]::
-17397::$$$message_0131_0006_0003$$$::Não importa como se olhe, ela parece uma esposa perfeita e bela, daquela que cresceu em uma boa família.[lr]::
-17398::$$$message_0131_0006_0004$$$::Bem, é difícil para mim aceitar essa situação de qualquer forma.::
-17399::$$$message_0131_0007_0000$$$::"...Hmm, oi?[lr]::
-17400::$$$message_0131_0007_0001$$$::Desculpe por perguntar, mas como vocês dois se conheceram?"[lr]::
-17401::$$$message_0131_0007_0002$$$::O choque incrível me faz falar como um repórter de notícia.[lr]::
-17402::$$$message_0131_0007_0003$$$::"Entendi...!"::
-17403::$$$message_0131_0008_0000$$$::"Você é fofo, senhorita.[lr]::
-17404::$$$message_0131_0008_0001$$$::Que, você chama isso de criada hoje em dia? Garotas domésticas são boas.[lr]::
-17405::$$$message_0131_0008_0002$$$::Ei, por que não vem me encontrar depois que terminar as compras? Na verdade, por que não vamos dar uma volta juntos e eu carrego suas coisas?"::
-17406::$$$message_0131_0009_0000$$$::"Hmm, u-um, bem, isso e aquilo..."[lr]::
-17407::$$$message_0131_0009_0001$$$::"Não fique tão assustado, eu não sou rude o suficiente para te repreender. Minha política é aproveitar o presente ao máximo. Não vou te deixar entediado, e vou fazer do seu tempo algo tão doce que você nunca vai ficar com vontade de mais..."::
-17408::$$$message_0131_0010_0000$$$::"Pare ali mesmo, seu animal![rf][lr]::
-17409::$$$message_0131_0010_0001$$$::Este é o distrito comercial de Mount Miyama de todos. Não vou permitir que você aga de forma egoísta e faça o que quiser como Jason; mesmo que a igreja permita, eu não permitirei!"::
+17396::$$$message_0131_0006_0002$$$::A Caster não é a Caster que eu conheço.[lr]::
+17397::$$$message_0131_0006_0003$$$::Não importa como se olhe, ela parece uma esposa perfeita, linda e de boa família.[lr]::
+17398::$$$message_0131_0006_0004$$$::Bom, de qualquer jeito, é difícil para mim aceitar essa situação.::
+17399::$$$message_0131_0007_0000$$$::"...Hum, com licença?[lr]::
+17400::$$$message_0131_0007_0001$$$::Desculpe a pergunta, mas como vocês duas se conheceram?"[lr]::
+17401::$$$message_0131_0007_0002$$$::O choque incrivel me faz falar como um repórter de jornal.[lr]::
+17402::$$$message_0131_0007_0003$$$::"Pois é, veja bem...!"::
+17403::$$$message_0131_0008_0000$$$::"Você é bem fofa, mocinha.[lr]::
+17404::$$$message_0131_0008_0001$$$::Como é que se diz hoje em dia, empregada? Meninas domésticas são ótimas.[lr]::
+17405::$$$message_0131_0008_0002$$$::Ei, por que não sai comigo depois que terminar as compras? Aliás, por que a gente não dá uma volta juntos e eu carrego as suas coisas?"::
+17406::$$$message_0131_0009_0000$$$::"Hã, h-hum, bem, é que..."[lr]::
+17407::$$$message_0131_0009_0001$$$::"Não fique com tanto medo, eu não sou mal educado a ponto de te dar um sermão. Aproveitar o presente o máximo possível é o meu lema. Eu não vou te deixar entediada e vou fazer o seu tempo tão doce que você nunca vai se cansar..."::
+17408::$$$message_0131_0010_0000$$$::"Pare bem aí, seu vira-lata![rf][lr]::
+17409::$$$message_0131_0010_0001$$$::Este é o distrito comercial da Montanha Miyama, e ele é de todo mundo. Não vou deixar você agir como um egocêntrico e fazer o que quiser igual ao Jasão; mesmo que a igreja permita, eu não permitirei!"::
 17410::$$$message_0131_0011_0000$$$::"Guh... é a bruxa das montanhas.[lr]::
-17411::$$$message_0131_0011_0001$$$::Vá lá, a que tenho negócios é a jovem lady [font italic=true]jovem[font italic=false].[lr]::
-17412::$$$message_0131_0011_0002$$$::Entendeu? Não tenho nada para dar a uma velha, então pegue seu saury e flounder e saia daqui!"[lr]::
-17413::$$$message_0131_0011_0003$$$::"Velha... senhora?"::
-17414::$$$message_0131_0012_0000$$$::"Heheheheh. Não ouvi bem, Lancer. Pode repetir?[lr]::
-17415::$$$message_0131_0012_0001$$$::Se fizer isso, vou transformar você em um hot dog correndo ao redor coberto de fogo sem misericórdia!"::
-17416::$$$message_0131_0013_0000$$$::"Você não tem nenhum tipo de restrição, seu idiota! Você também deveria saber seu lugar!"[lr]::
-17417::$$$message_0131_0013_0001$$$::"Pensando bem. [l][say storage=cty0416_cas_0061 name=キャスター]Sou um cliente, e você é o funcionário da loja de peixes, certo? O atendimento ao cliente é aguentar reclamações dos clientes com um sorriso."::
-17418::$$$message_0131_0014_0000$$$::"Khh, você já se acostumou a fazer compras, você essa vadia... ugh, hoje não é o meu dia! [l][say storage=cty0416_ran_0041 name=ランサー]Até logo, não posso mais me dar ao luxo de ser demitido!"[lr]::
-17419::$$$message_0131_0014_0001$$$::"Heheheh, como você é tolo, Lancer.[lr]::
-17420::$$$message_0131_0014_0002$$$::Vocês devem entender que as donas de casa somos as mais fortes nesse bairro de compras...!"::
-17421::$$$message_0131_0015_0000$$$::"...Agora.[lr]::
-17422::$$$message_0131_0015_0001$$$::Desculpe por ter causado um barulho. Eu ultrapassei o limite lá, moça?"[lr]::
-17423::$$$message_0131_0015_0002$$$::"N-Não, obrigado![lr]::
-17424::$$$message_0131_0015_0003$$$::Um, se não se importa, pode me dizer seu nome..."::
-17425::$$$message_0131_0016_0000$$$::"...E assim nos tornamos amigos."[lr]::
-17426::$$$message_0131_0016_0001$$$::"Caster, você tem um minutinho...?"[lr]::
-17427::$$$message_0131_0016_0002$$$::Eu chamo a Caster para o lado.::
-17428::$$$message_0131_0017_0000$$$::"Ei, o que está acontecendo? Agradeço que tenha salvo a Sakura, mas você não está tramando algo, está?"[lr]::
-17429::$$$message_0131_0017_0001$$$::"Não se preocupe, não tenho nenhuma intenção além disso. Apenas não gostei de como Lancer estava dominando aqui.[lr]::
-17430::$$$message_0131_0017_0002$$$::Eu nunca gostei de homens assim."[lr]::
-17431::$$$message_0131_0017_0003$$$::A Caster curva os lábios em um sorriso encantador.[lr]::
+17411::$$$message_0131_0011_0001$$$::Xô, meu negócio é com a [font italic=true]jovem[font italic=false] dama.[lr]::
+17412::$$$message_0131_0011_0002$$$::Entendeu? Não tenho nada para dar pra uma velha, então pegue sua sardinha-agulha e seu linguado e dê o fora daqui!"[lr]::
+17413::$$$message_0131_0011_0003$$$::"Velha...?"::
+17414::$$$message_0131_0012_0000$$$::"Heheheheh. Não consegui ouvir direito, Lancer. Poderia repetir?[lr]::
+17415::$$$message_0131_0012_0001$$$::Se você o fizer, vou te transformar num cachorro-quente correndo por aí coberto de fogo sem a menor piedade!"::
+17416::$$$message_0131_0013_0000$$$::"Você não tem a menor restrição, sua tola! Também devia se colocar no seu lugar!"[lr]::
+17417::$$$message_0131_0013_0001$$$::"Pensando bem. [l][say storage=cty0416_cas_0061 name=キャスター]Eu sou uma cliente, e você é o balconista da peixaria, certo? Atendimento ao cliente é aguentar reclamações dos clientes com um sorriso."::
+17418::$$$message_0131_0014_0000$$$::"Khh, você se acostumou com as compras, sua víbora... ugh, hoje não é meu dia de sorte! [l][say storage=cty0416_ran_0041 name=ランサー]Até mais, eu não posso mais me dar ao luxo de ser demitido!"[lr]::
+17419::$$$message_0131_0014_0001$$$::"Heheheh, que tolo de sua parte, Lancer.[lr]::
+17420::$$$message_0131_0014_0002$$$::Você devia saber que nós donas de casa somos as mais fortes nesse distrito comercial...!"::
+17421::$$$message_0131_0015_0000$$$::"...Muito bem.[lr]::
+17422::$$$message_0131_0015_0001$$$::Desculpe causar essa comoção. Fui além da conta, mocinha?"[lr]::
+17423::$$$message_0131_0015_0002$$$::"N-Não, obrigada![lr]::
+17424::$$$message_0131_0015_0003$$$::Hum, se não se importar, pode me dizer o seu nome..."::
+17425::$$$message_0131_0016_0000$$$::"...E foi assim que viramos amigas."[lr]::
+17426::$$$message_0131_0016_0001$$$::"Caster, você tem um minuto...?"[lr]::
+17427::$$$message_0131_0016_0002$$$::Eu aceno para a Caster vir para o lado.::
+17428::$$$message_0131_0017_0000$$$::"Ei, o que está acontecendo? Agradeço por ter salvo a Sakura, mas você não está armando nada, né?"[lr]::
+17429::$$$message_0131_0017_0001$$$::"Não se preocupe, não tenho outras intenções. Eu só não gostei da forma como o Lancer estava sendo dominador ali.[lr]::
+17430::$$$message_0131_0017_0002$$$::Nunca gostei de homens assim."[lr]::
+17431::$$$message_0131_0017_0003$$$::A Caster curva seus lábios em um sorriso enfeitiçador.[lr]::
 17432::$$$message_0131_0017_0004$$$::Parece que a jovem esposa elegante não mente.::
-17433::$$$message_0131_0018_0000$$$::"Além disso, a senhorita Matou é a aluna de Souichirou, certo?[lr]::
-17434::$$$message_0131_0018_0001$$$::Ela foi gentil o suficiente para me contar tudo sobre a escola."[lr]::
-17435::$$$message_0131_0018_0002$$$::"...Hmm. Você não fala desse tipo de coisa com Issei?"::
-17436::$$$message_0131_0019_0000$$$::"Aquele garoto é... Ele é como um cunhado de Souichirou, então poderia estar um pouco mais ligado a mim."[lr]::
-17437::$$$message_0131_0019_0001$$$::"Então, se você se casar com o Sr. Kuzuki, você seria a sogra de Ryudou-senpai!"[lr]::
-17438::$$$message_0131_0019_0002$$$::Que problema com mulheres Issei tem é seguido por toda a vida!::
-17439::$$$message_0131_0020_0000$$$::"Eu tenho certeza de que vocês dois vão se dar muito bem se isso acontecer.[lr]::
-17440::$$$message_0131_0020_0001$$$::Estou invejoso do senpai Ryudou... [cacheimage storage=桜私服05e(中)][wvl][chgfg textoff=0 storage=桜私服05e(中) pos=r time=400]Direito, senpai?"[lr]::
-17441::$$$message_0131_0020_0002$$$::"Bem, sim."[lr]::
-17442::$$$message_0131_0020_0003$$$::"Que lindo, os recém-casados são tão adoráveis."[lr]::
-17443::$$$message_0131_0020_0004$$$::"Heheheh, oh no, você me está deixando envergonhado."::
+17433::$$$message_0131_0018_0000$$$::"Além do mais, a senhorita Matou é aluna do Souichirou, certo?[lr]::
+17434::$$$message_0131_0018_0001$$$::Ela teve a gentileza de me contar todo o tipo de coisa sobre a escola."[lr]::
+17435::$$$message_0131_0018_0002$$$::"...Hm. Você não conversa sobre esse tipo de coisa com o Issei?"::
+17436::$$$message_0131_0019_0000$$$::"Aquele garoto é... Ele é tipo um cunhado do Souichirou, então ele poderia ser um pouco mais apegado a mim."[lr]::
+17437::$$$message_0131_0019_0001$$$::"Então se você se casar com o senhor Kuzuki, você seria cunhada do Ryudou-senpai!"[lr]::
+17438::$$$message_0131_0019_0002$$$::Uau, o problema que o Issei tem com as mulheres está seguindo ele pela vida inteira!::
+17439::$$$message_0131_0020_0000$$$::"Tenho certeza que vocês vão conseguir se dar muito bem se isso acontecer.[lr]::
+17440::$$$message_0131_0020_0001$$$::Tenho inveja do Ryudou-senpai... [cacheimage storage=桜私服05e(中)][wvl][chgfg textoff=0 storage=桜私服05e(中) pos=r time=400]Né, Senpai?"[lr]::
+17441::$$$message_0131_0020_0002$$$::"...Bom, é."[lr]::
+17442::$$$message_0131_0020_0003$$$::"Que legal, os recém-casados são tão amáveis."[lr]::
+17443::$$$message_0131_0020_0004$$$::"Heheheh, ai não, você me deixa com vergonha."::
 17444::$$$message_0131_0021_0000$$$::A Caster está sendo humilde, mas não consegue esconder sua alegria.[lr]::
-17445::$$$message_0131_0021_0001$$$::Tudo bem, tudo bem, Caster. Não importa quantas vezes você tente parecer calma, sua felicidade está transbordando.::
-17446::$$$message_0131_0022_0000$$$::"Não tem um belo personagem também, senhorita Matou?"[lr]::
-17447::$$$message_0131_0022_0001$$$::"[shock vmax=20 time=300 count=-3]Huh! U-Um!"::
-17448::$$$message_0131_0023_0000$$$::"Bem, um... [cacheimage storage=桜私服05d頬(中)][wvl][chgfg textoff=0 time=300 storage=桜私服05d頬(中)]Nunca estive em um relacionamento de longo prazo com algo assim, como casamento, em mente, [cacheimage storage=桜私服05d頬(中)][wvl][chgfg textoff=0 time=300 storage=桜私服05d頬(中)]e ainda vai demorar até que possamos falar sobre algo tão pessoal...[lr]::
-17449::$$$message_0131_0023_0001$$$::[chgfg textoff=0 storage=桜私服14c(中) pos=r time=300]Aquele pessoa não tem pais, mas me alongo com seu guardião, [cacheimage storage=桜私服02b頬(中)][wvl][chgfg textoff=0 time=300 storage=桜私服02b頬(中)]então eventualmente, [cacheimage storage=桜私服08a頬(中)][wvl][chgfg textoff=0 time=300 storage=桜私服08a頬(中)]um[line len=2]"::
-17450::$$$message_0131_0024_0000$$$::Sakura balança os braços de forma constrangida.[lr]::
-17451::$$$message_0131_0024_0001$$$::"Hehe, que fofo."[lr]::
-17452::$$$message_0131_0024_0002$$$::A Caster observa com um sorriso.[lr]::
+17445::$$$message_0131_0021_0001$$$::Certo, certo, Caster. Por mais que você finja estar calma, sua felicidade está transbordando.::
+17446::$$$message_0131_0022_0000$$$::"Você também não tem uma pessoa adorável, senhorita Matou?"[lr]::
+17447::$$$message_0131_0022_0001$$$::"[shock vmax=20 time=300 count=-3]Hã! H-Hum!"::
+17448::$$$message_0131_0023_0000$$$::"Bem, hum... [cacheimage storage=桜私服05d頬(中)][wvl][chgfg textoff=0 time=300 storage=桜私服05d頬(中)]Eu nunca estive num relacionamento de longo prazo pensando em algo c-como casamento, [cacheimage storage=桜私服05d頬(中)][wvl][chgfg textoff=0 time=300 storage=桜私服05d頬(中)]e vai demorar um pouco até podermos falar sobre algo tão pessoal...[lr]::
+17449::$$$message_0131_0023_0001$$$::[chgfg textoff=0 storage=桜私服14c(中) pos=r time=300]Essa pessoa não tem pais, mas eu me dou bem com a tutora, [cacheimage storage=桜私服02b頬(中)][wvl][chgfg textoff=0 time=300 storage=桜私服02b頬(中)]então quem sabe um dia, [cacheimage storage=桜私服08a頬(中)][wvl][chgfg textoff=0 time=300 storage=桜私服08a頬(中)]hum[line len=2]"::
+17450::$$$message_0131_0024_0000$$$::A Sakura balança os braços, sem jeito.[lr]::
+17451::$$$message_0131_0024_0001$$$::"Hehe, que fofa."[lr]::
+17452::$$$message_0131_0024_0002$$$::A Caster a observa com um sorriso.[lr]::
 17453::$$$message_0131_0024_0003$$$::"..."[lr]::
-17454::$$$message_0131_0024_0004$$$::Para mim, estou envergonhado, não sabendo quem pode estar ouvindo nesse bairro de compras familiar...::
-17455::$$$message_0131_0025_0000$$$::[font italic=true]Hmm, é a Rider...!?![font italic=false][lr]::
+17454::$$$message_0131_0024_0004$$$::Já eu estou cheio de vergonha, sem saber quem poderia estar escutando neste distrito comercial familiar...::
+17455::$$$message_0131_0025_0000$$$::[font italic=true]Guh, aquela é a Rider...!?[font italic=false][lr]::
 17456::$$$message_0131_0025_0001$$$::"..."[lr]::
-17457::$$$message_0131_0025_0002$$$::...Mas. A Rider não está brincando, mas sim olhando para cá como uma serpente que observa sua presa.::
-17458::$$$message_0131_0026_0000$$$::"...Direito? Senpai!"[lr]::
-17459::$$$message_0131_0026_0001$$$::"Hmm?"[lr]::
-17460::$$$message_0131_0026_0002$$$::"Que você foi minha primeira professora de culinária."[lr]::
-17461::$$$message_0131_0026_0003$$$::"Bem, ensinei os primeiros passos a você."::
-17462::$$$message_0131_0027_0000$$$::"De verdade?[lr]::
-17463::$$$message_0131_0027_0001$$$::Cozinhar para Souichirou é bom, mas cozinhar juntos é ainda mais lindo."::
-17464::$$$message_0131_0028_0000$$$::"Souichirou, pode você desfiar esse peixe-rei diretamente enviado de Akashi?"[lr]::
-17465::$$$message_0131_0028_0001$$$::"Hmm, mas não há necessidade de armas."::
+17457::$$$message_0131_0025_0002$$$::...Mas. A Rider não está provocando, em vez disso, está espiando pra cá como uma cobra observando sua presa.::
+17458::$$$message_0131_0026_0000$$$::"...Né? Senpai!"[lr]::
+17459::$$$message_0131_0026_0001$$$::"Hã?"[lr]::
+17460::$$$message_0131_0026_0002$$$::"Que você foi o meu primeiro professor de culinária."[lr]::
+17461::$$$message_0131_0026_0003$$$::"Bom, eu te ensinei os primeiros passos, sim."::
+17462::$$$message_0131_0027_0000$$$::"É mesmo?[lr]::
+17463::$$$message_0131_0027_0001$$$::Cozinhar para o Souichirou é bom, mas cozinhar juntos também é muito adorável."::
+17464::$$$message_0131_0028_0000$$$::"Souichirou, você consegue limpar esse pargo trazido diretamente de Akashi?"[lr]::
+17465::$$$message_0131_0028_0001$$$::"Hm, mas não há a menor necessidade de armas."::
 17466::$$$message_0131_0029_0000$$$::"Oh, Souichirou![lr]::
-17467::$$$message_0131_0029_0001$$$::Que filé de peixe vivo impressionante para sashimi! E com as mãos nuas!"[lr]::
-17468::$$$message_0131_0029_0002$$$::"Embora seja diferente de esquartejar uma pessoa viva..."::
-17469::$$$message_0131_0030_0000$$$::"Pensar que as habilidades que conquistei para levar a vida são usadas para fazer comida que não leva a vida. Agradeço pela experiência preciosa, Caster."::
-17470::$$$message_0131_0031_0000$$$::"Não mereço essas palavras...[lr]::
-17471::$$$message_0131_0031_0001$$$::Ah, quero vê-lo de avental..."[lr]::
-17472::$$$message_0131_0031_0002$$$::...Não sei por que estão fazendo sashimi de peixe-espada num templo zen, mas peguei o tom de que não deveria perguntar uma pergunta tão descortês.::
+17467::$$$message_0131_0029_0001$$$::Que impressionante como você fileta um peixe vivo para sashimi! E com as próprias mãos!"[lr]::
+17468::$$$message_0131_0029_0002$$$::"Ainda que seja diferente de abrir o estômago de uma pessoa viva..."::
+17469::$$$message_0131_0030_0000$$$::"Pensar que as habilidades que eu adquiri para tirar vidas estão fazendo comida que não tiram vidas. Tenho que te agradecer pela experiência valiosa, Caster."::
+17470::$$$message_0131_0031_0000$$$::"Eu não mereço tais palavras...[lr]::
+17471::$$$message_0131_0031_0001$$$::Ah, queria tanto ver ele de avental..."[lr]::
+17472::$$$message_0131_0031_0002$$$::...Eu não sei por que eles estariam fazendo sashimi de pargo num templo zen, mas sinto que é melhor não fazer uma pergunta tão sem tato.::
 17473::$$$message_0131_0032_0000$$$::"No entanto..."[lr]::
-17474::$$$message_0131_0032_0001$$$::Como estou olhando para eles assim, o casal de Sakura e Caster pode não ser tão estranho assim.[lr]::
-17475::$$$message_0131_0032_0002$$$::Uma é uma dona de casa, e uma é uma ajudante doméstica de primeira linha.[lr]::
-17476::$$$message_0131_0032_0003$$$::Eles dois são do tipo que guardam coisas para si, então podem ser bastante semelhantes.::
-17477::$$$message_0131_0033_0000$$$::"...Ambas a Sakura e a Caster também são mágas, também."[lr]::
-17478::$$$message_0131_0033_0001$$$::Estamos em público, então mantenho minha voz especialmente baixa.::
-17479::$$$message_0131_0034_0000$$$::"Que bobagem, eu sou péssimo nisso![lr]::
-17480::$$$message_0131_0034_0001$$$::Mesmo aprendendo com a Rider, eu a incomodo por ela não melhorar em nada. É uma grande diferença em relação a você![lr]::
-17481::$$$message_0131_0034_0002$$$::Não consigo competir com ela!"::
-17482::$$$message_0131_0035_0000$$$::"Não precisa ser humilde, você tem muito potencial... Tem algumas poderes inacreditáveis armazenados."[lr]::
-17483::$$$message_0131_0035_0001$$$::A percepção da Caster é tão forte assim?::
-17484::$$$message_0131_0036_0000$$$::"Ahaha, bem, fui informado por um certo alguém que a única coisa que tenho é meus ativos, então fico preocupado."[lr]::
+17474::$$$message_0131_0032_0001$$$::As vendo assim, a dupla Sakura e Caster talvez nem seja tão estranha.[lr]::
+17475::$$$message_0131_0032_0002$$$::Uma é dona de casa e a outra é uma ajudante doméstica linha dura.[lr]::
+17476::$$$message_0131_0032_0003$$$::Ambas são do tipo que guardam as coisas para si, então podem ser bem parecidas.::
+17477::$$$message_0131_0033_0000$$$::"...Tanto a Sakura quanto a Caster também são magas."[lr]::
+17478::$$$message_0131_0033_0001$$$::Estamos em público, então mantenho minha voz bem baixa.::
+17479::$$$message_0131_0034_0000$$$::"O que foi, eu não sirvo pra nada![lr]::
+17480::$$$message_0131_0034_0001$$$::Mesmo aprendendo com a Rider, dou dor de cabeça a ela por não melhorar em nada. É uma grande diferença pra você![lr]::
+17481::$$$message_0131_0034_0002$$$::Eu não chego nem aos pés dela!"::
+17482::$$$message_0131_0035_0000$$$::"Não precisa ser tão humilde, você tem bastante potencial... Tem uns poderes inacreditáveis acumulados."[lr]::
+17483::$$$message_0131_0035_0001$$$::Será que a percepção da Caster é tão forte assim?::
+17484::$$$message_0131_0036_0000$$$::"Ahaha, bem, me disseram que os únicos bens que eu tenho são meus bens materiais, então eu fico preocupada."[lr]::
 17485::$$$message_0131_0036_0001$$$::...Eu olho ao redor.[lr]::
-17486::$$$message_0131_0036_0002$$$::Há alguma chance de que não só a Rider, mas também a Tohsaka esteja passando por perto...?::
-17487::$$$message_0131_0037_0000$$$::"Além de serem mágas, mulheres como nós têm um caminho árduo pela frente.[lr]::
-17488::$$$message_0131_0037_0001$$$::Mas, admiro você por conseguir construir uma casa feliz apesar disso. [lr]::
-17489::$$$message_0131_0037_0002$$$::Sim, serei eu a seguir seus passos!"[lr]::
-17490::$$$message_0131_0037_0003$$$::Sakura aperta os punhos e afirma.[lr]::
-17491::$$$message_0131_0037_0004$$$::Como se dizesse que seus olhos foram abertos sobre a vida.::
-17492::$$$message_0131_0038_0000$$$::"E mesmo que você seja uma bruxa incrível, respeito como é gentil e humilde."[lr]::
-17493::$$$message_0131_0038_0001$$$::"Ah, é perturbador ser elogiado tanto assim. Mesmo que eu tenha tantas imperfeições."::
-17494::$$$message_0131_0039_0000$$$::Ela ri de leve.[lr]::
-17495::$$$message_0131_0039_0001$$$::Parece que ela está sendo humilde, mas também parece verdade.::
-17496::$$$message_0131_0040_0000$$$::"...Hmm, a proporção de ser um mágico em comparação com a vida cotidiana.[lr]::
-17497::$$$message_0131_0040_0001$$$::E a sua opinião sobre essa situação, Caster?"[lr]::
-17498::$$$message_0131_0040_0002$$$::Não conheço muitos mages, então fiquei um pouco interessado.::
-17499::$$$message_0131_0041_0000$$$::"Assim pensa, menino. Está errado.[lr]::
-17500::$$$message_0131_0041_0001$$$::A taumaturgia e a vida real são mutuamente exclusivas. A própria palavra "proporção" é algo que você não deveria pensar.[lr]::
-17501::$$$message_0131_0041_0002$$$::A raiz da taumaturgia nada mais é do que "distorção, retrogradação". Não importa que tipo de taumaturgia seja, ela distorcerá a norma.[lr]::
-17502::$$$message_0131_0041_0003$$$::Por isso, se quiser viver corretamente, deveria separar a vida real da taumaturgia."::
-17503::$$$message_0131_0042_0000$$$::"...Isso significa que você não consegue equilibrar os dois?"[lr]::
-17504::$$$message_0131_0042_0001$$$::"Isso significa que você tem que equilibrar ambos completamente.[lr]::
-17505::$$$message_0131_0042_0002$$$::Os mages são seres que passam de um lado para o outro da fronteira. É ao usuário decidir qual lado tornará o principal, mas você nunca perderá essa fronteira.[lr]::
-17506::$$$message_0131_0042_0003$$$::Se mergulhar na taumaturgia, você eliminará a vida real.[lr]::
-17507::$$$message_0131_0042_0004$$$::Se quiserem perseguir o caminho da taumaturgia como humanos, devem ser duplos.[lr]::
-17508::$$$message_0131_0042_0005$$$::Além disso, você deve decidir sua forma de viver como pessoa e como mágica."::
-17509::$$$message_0131_0043_0000$$$::"E você?[lr]::
-17510::$$$message_0131_0043_0001$$$::Você é a esposa do Sr. Kuzuki agora, mas o que você é como feiticeira?[line len=3]"::
-17511::$$$message_0131_0044_0000$$$::"Claro, não é diferente do que até agora.[lr]::
-17512::$$$message_0131_0044_0001$$$::Não tenho dúvidas sobre mim mesmo como mágico.[lr]::
-17513::$$$message_0131_0044_0002$$$::Eu uso minha força como quiser.[lr]::
-17514::$$$message_0131_0044_0003$$$::...É só que estou menos minha própria taumaturgia do que antes."::
-17515::$$$message_0131_0045_0000$$$::"Entendi..."[lr]::
-17516::$$$message_0131_0045_0001$$$::"É bem profundo."::
-17517::$$$message_0131_0046_0000$$$::"Agora, tanto eu quanto a senhorita Sakura somos mulheres antes de ser mágicas.[lr]::
-17518::$$$message_0131_0046_0001$$$::Mas, se temos a habilidade de fazer um homem parecer bem, não é isso que você chama de apoio de uma esposa?"[lr]::
-17519::$$$message_0131_0046_0002$$$::"Entendi... Então essa força é algo que faz com que as pessoas que gostamos fiquem felizes.[lr]::
-17520::$$$message_0131_0046_0003$$$::Acho que conseguirei trabalhar tão duro no treinamento quanto na cozinha a partir de agora!"::
-17521::$$$message_0131_0047_0000$$$::Sakura parece estar idolatrando Caster, que dá a impressão de ser sua senpai na vida.[lr]::
-17522::$$$message_0131_0047_0001$$$::...Não sei se devo dizer que estão se dando bem ou que estão tendo um festival de sugestões de si mesmos.::
-17523::$$$message_0131_0048_0000$$$::"Sim, as mulheres deveriam ser assim! [cacheimage storage=桜私服06c(中)][wvl][chgfg textoff=0 storage=桜私服06c(中) pos=r time=300]Alguém como a Perfeita Não É Boa!"[lr]::
-17524::$$$message_0131_0048_0001$$$::"M-Miss Perfeita?[lr]::
-17525::$$$message_0131_0048_0002$$$::Quem é?"[lr]::
-17526::$$$message_0131_0048_0003$$$::Eu sinto que já ouvi isso por aí.::
-17527::$$$message_0131_0049_0000$$$::"Claro que é a Nee-[cacheimage storage=桜私服05f(中)][wvl][chgfg textoff=0 time=300 storage=桜私服05f(中)]T-Toh... T-[cacheimage storage=桜私服08k(中)][wvl canskip=0 time=300][chgfg textoff=0 storage=桜私服08k(中) pos=r time=300]Tohno, uma garota da nossa escola de garotas rivais![lr]::
-17528::$$$message_0131_0049_0001$$$::Pessoas chamam ela de Senhorita Perfeita."::
-17529::$$$message_0131_0050_0000$$$::Ah, então há pelo menos uma pessoa com esse apelido em cada escola... Não pude deixar de pensar que fosse sobre a Tohsaka.[lr]::
-17530::$$$message_0131_0050_0001$$$::Bem, não há jeito de que Sakura fale mal da irmã mais velha dela, Tohsaka.::
-17531::$$$message_0131_0051_0000$$$::"Ah, que tipo de garota ela é?"[lr]::
-17532::$$$message_0131_0051_0001$$$::"A Perfeita é horrível. Todos são enganados por ela."[lr]::
-17533::$$$message_0131_0051_0002$$$::Sakura fala, emanando uma aura de que ela também é uma vítima.[lr]::
-17534::$$$message_0131_0051_0003$$$::...Mrgh. Aquela garota mimada da escola rival certamente tratou Sakura mal.::
-17535::$$$message_0131_0052_0000$$$::"Ela vem de uma família distinta e é muito bonita... Apesar de não ter seios.[lr]::
-17536::$$$message_0131_0052_0001$$$::Ela é a número um da turma em honra e também é boa em taumaturgia, secretamente...[lr]::
-17537::$$$message_0131_0052_0002$$$::Mesmo sendo uma miserável desajeitada no coração, ela se veste de fachada em público como uma menina mimada e fofinha que está fingindo ser calma e composta!"::
-17538::$$$message_0131_0053_0000$$$::"Ah."[lr]::
-17539::$$$message_0131_0053_0001$$$::Não esperava encontrar dois ou três singularidades caminhando neste universo.[lr]::
-17540::$$$message_0131_0053_0002$$$::Devo dizer que o mundo é amplo ou que o Japão é estreito?::
-17541::$$$message_0131_0054_0000$$$::"Mais, ela já tem um emprego marcado como uma empresária cosmopolita que viaja para o exterior e faz o que quiser, como uma canhão de 40 centímetros!"[lr]::
-17542::$$$message_0131_0054_0001$$$::"Hmm... Ela tem um máscara bem forte.[lr]::
-17543::$$$message_0131_0054_0002$$$::Isso é difícil, ter uma garota assim como rival."::
-17544::$$$message_0131_0055_0000$$$::"Y-Yes![lr]::
-17545::$$$message_0131_0055_0001$$$::Ela é ladylike, então todo mundo é enganado, mesmo que ela não tenha seios!"[lr]::
-17546::$$$message_0131_0055_0002$$$::"Sakura, além dos seios, pode continuar...?"[lr]::
-17547::$$$message_0131_0055_0003$$$::"Y-Yes, colocando suas tetas de lado..."::
-17548::$$$message_0131_0056_0000$$$::"Sua personalidade é na verdade como um brinquedo de montanha-russa, e as pessoas ao seu redor ou quem subiu sem pensar acabam em grandes apuros.[lr]::
-17549::$$$message_0131_0056_0001$$$::Mas ela funciona bem sem reclamar, então as pessoas do parque de diversões não podem dizer nada ou acabam chorando até dormir. Elas não conseguem manter a popularidade do parque sem essa pessoa... É esse tipo de medo que todos temos... Quero dizer, todos gostam da Senhorita Perfeita..."::
-17550::$$$message_0131_0057_0000$$$::"...Isso não é mais problema de ninguém mais, hein?"[lr]::
-17551::$$$message_0131_0057_0001$$$::Você está fazendo comparações interessantes, Sakura.::
-17552::$$$message_0131_0058_0000$$$::"B- Mas o maior problema é que ela transformou um menino inocente em um servo desossado![lr]::
-17553::$$$message_0131_0058_0001$$$::Pelo menos uma vez, eu também quero fazer a mesma coisa se puder!"[lr]::
-17554::$$$message_0131_0058_0002$$$::"Ah. Essa garota não é ruim."::
+17486::$$$message_0131_0036_0002$$$::Tem alguma chance de que não seja só a Rider, mas que a Tohsaka também esteja passando por aqui...?::
+17487::$$$message_0131_0037_0000$$$::"Além de sermos magas, mulheres como nós temos um caminho pedregoso pela frente.[lr]::
+17488::$$$message_0131_0037_0001$$$::Mas, eu te admiro por ter conseguido construir um lar feliz apesar disso. [lr]::
+17489::$$$message_0131_0037_0002$$$::Isso mesmo, eu vou seguir os seus passos!"[lr]::
+17490::$$$message_0131_0037_0003$$$::A Sakura cerra os punhos e afirma.[lr]::
+17491::$$$message_0131_0037_0004$$$::Como se dissesse que seus olhos foram abertos para a vida.::
+17492::$$$message_0131_0038_0000$$$::"E por mais que você seja uma maga incrível, eu respeito o quanto você é gentil e modesta."[lr]::
+17493::$$$message_0131_0038_0001$$$::"Oh, fico sem graça de ser tão elogiada. Ainda mais tendo tantas imperfeições."::
+17494::$$$message_0131_0039_0000$$$::Ela dá uma risadinha.[lr]::
+17495::$$$message_0131_0039_0001$$$::Parece estar sendo humilde, mas também parece verdade.::
+17496::$$$message_0131_0040_0000$$$::"...Hm, a proporção de ser maga comparado ao dia a dia delas.[lr]::
+17497::$$$message_0131_0040_0001$$$::O que você acha dessa situação, Caster?"[lr]::
+17498::$$$message_0131_0040_0002$$$::Não conheço muitos magos, então fiquei um pouco interessado.::
+17499::$$$message_0131_0041_0000$$$::"Esse jeito de pensar por si só já está errado, garoto.[lr]::
+17500::$$$message_0131_0041_0001$$$::Magia e vida real são mutuamente excludentes. A própria palavra 'proporção' é algo em que você não devia pensar.[lr]::
+17501::$$$message_0131_0041_0002$$$::A raiz da magia não é outra senão 'distorção, retrocesso.' Não importa que tipo de magia seja, ela vai distorcer o padrão.[lr]::
+17502::$$$message_0131_0041_0003$$$::É por isso que, se você quiser viver de forma correta, você deve separar a vida real da magia."::
+17503::$$$message_0131_0042_0000$$$::"...Isso significa que você não consegue conciliar as duas?"[lr]::
+17504::$$$message_0131_0042_0001$$$::"Significa que você tem que equilibrar as duas perfeitamente.[lr]::
+17505::$$$message_0131_0042_0002$$$::Magos são seres que cruzam a fronteira pra lá e pra cá. O lado que quer usar como o principal fica a cargo do usuário, mas você não pode nunca perder essa fronteira.[lr]::
+17506::$$$message_0131_0042_0003$$$::Mergulhar de cabeça na magia vai eliminar a vida real.[lr]::
+17507::$$$message_0131_0042_0004$$$::Se você quiser trilhar o caminho da magia enquanto humano, tem que ter duas caras.[lr]::
+17508::$$$message_0131_0042_0005$$$::Além do mais, você tem que decidir como vai viver como pessoa e como mago."::
+17509::$$$message_0131_0043_0000$$$::"Então, o que me diz de você?[lr]::
+17551::$$$message_0131_0057_0001$$$::Você está fazendo umas comparações bem interessantes, Sakura.::
+17552::$$$message_0131_0058_0000$$$::"M-Mas o maior problema é que ela transformou um garoto inocente num servo sem espinha dorsal![lr]::
+17553::$$$message_0131_0058_0001$$$::A-Até eu queria fazer o mesmo pelo menos uma vez, se pudesse!"[lr]::
+17554::$$$message_0131_0058_0002$$$::"Oh. Essa garota não é nada boba."::
 17555::$$$message_0131_0059_0000$$$::"N-Não![lr]::
-17556::$$$message_0131_0059_0001$$$::Um, esse garoto parece ter se acostumado com isso ultimamente e parece gostar de ser usado pela Senhorita Perfeita.[lr]::
-17557::$$$message_0131_0059_0002$$$::Mas, forçar não é bom, você sabe! Eu acho que fazer coisas assim é muito ruim!"::
-17558::$$$message_0131_0060_0000$$$::Uma aura de determinação explode de Sakura.[lr]::
-17559::$$$message_0131_0060_0001$$$::Peço-me para dar um passo ou dois para trás.::
-17560::$$$message_0131_0061_0000$$$::"Eu entendi. Sakura, você é, um.[lr]::
-17561::$$$message_0131_0061_0001$$$::Muito gentil."[lr]::
-17562::$$$message_0131_0061_0002$$$::Eu tento forçar um sorriso.::
-17563::$$$message_0131_0062_0000$$$::"Sim! Então, eu também quero me esforçar para ser uma esposa boa e ladylike como você, Caster!"[lr]::
-17564::$$$message_0131_0062_0001$$$::"Entendi. [lr]::
-17565::$$$message_0131_0062_0002$$$::Você quer fazer aquele garoto feliz?"::
-17566::$$$message_0131_0063_0000$$$::"Uh... Um, acho que [cacheimage storage=桜私服08f頬(中)][wvl canskip=0 time=400][chgfg  storage=桜私服08f頬(中) pos=r time=300]que as coisas não podem ficar como estão, então devo fazer algo, mas[line len=2]"[lr]::
-17567::$$$message_0131_0063_0001$$$::"Mas, você tem Emiya."[lr]::
-17568::$$$message_0131_0063_0002$$$::"Oh[wvl canskip=0 time=400]...bem, [cacheimage storage=桜私服13b頬(中)][wvl canskip=0 time=300][chgfg storage=桜私服13b頬(中) pos=r time=300]isso é..."::
-17569::$$$message_0131_0064_0000$$$::"Embora eu aprecie sua determinação para se tornar como eu.[lr]::
-17570::$$$message_0131_0064_0001$$$::[chgfg textoff=0 storage=キャスター私服01b(中) pos=l time=300]Não é bom copiar simplesmente a forma como eu sou."[lr]::
-17571::$$$message_0131_0064_0002$$$::"Oh... Sim."::
-17572::$$$message_0131_0065_0000$$$::"Eu também tenho partes ruins em mim, então use essas como bons exemplos de o que não fazer. Ninguém mais precisa cair em um vilão..."[lr]::
-17573::$$$message_0131_0065_0001$$$::Sento arrepios na nuca por causa do olhar de Caster, aqueles olhos de amêndoa.::
-17574::$$$message_0131_0066_0000$$$::"Você não é um cara ruim, é?"[lr]::
-17575::$$$message_0131_0066_0001$$$::"Um, Senpai é uma pessoa boa! Não há dúvida sobre isso!"[lr]::
-17576::$$$message_0131_0066_0002$$$::"Talvez. Você, menino sortudo, essa garota vai te deixar feliz..."[lr]::
+17556::$$$message_0131_0059_0001$$$::Hum, esse garoto parece ter se acostumado com isso ultimamente e parece gostar de ser usado pela Senhorita Perfeita.[lr]::
+17557::$$$message_0131_0059_0002$$$::Mas, forçar os outros não é bom, sabia! Eu acho que fazer esse tipo de coisa é muito ruim!"::
+17558::$$$message_0131_0060_0000$$$::Uma aura de determinação irrompe da Sakura.[lr]::
+17559::$$$message_0131_0060_0001$$$::Fico instigado a dar um ou dois passos para trás.::
+17560::$$$message_0131_0061_0000$$$::"E-Entendi. Sakura, você é, hum.[lr]::
+17561::$$$message_0131_0061_0001$$$::M-Muito gentil."[lr]::
+17562::$$$message_0131_0061_0002$$$::Tento forçar um sorriso.::
+17563::$$$message_0131_0062_0000$$$::"Sim! Por isso, eu também quero buscar ser uma boa esposa que se porta como uma dama igual a você, Caster!"[lr]::
+17564::$$$message_0131_0062_0001$$$::"Ah, entendo. [lr]::
+17565::$$$message_0131_0062_0002$$$::Você quer fazer esse garoto feliz?"::
+17566::$$$message_0131_0063_0000$$$::"Uh... Hum, acho [cacheimage storage=桜私服08f頬(中)][wvl canskip=0 time=400][chgfg  storage=桜私服08f頬(中) pos=r time=300]que as coisas não podem ficar do jeito que estão, então eu devia fazer alguma coisa, mas[line len=2]"[lr]::
+17567::$$$message_0131_0063_0001$$$::"Mas, você tem o Emiya."[lr]::
+17568::$$$message_0131_0063_0002$$$::"Ah[wvl canskip=0 time=400]...bem, [cacheimage storage=桜私服13b頬(中)][wvl canskip=0 time=300][chgfg storage=桜私服13b頬(中) pos=r time=300]isso..."::
+17569::$$$message_0131_0064_0000$$$::"Apesar de eu apreciar a sua determinação em se tornar como eu.[lr]::
+17570::$$$message_0131_0064_0001$$$::[chgfg textoff=0 storage=キャスター私服01b(中) pos=l time=300]Não é bom simplesmente copiar o meu jeito de ser."[lr]::
+17571::$$$message_0131_0064_0002$$$::"Oh... Certo."::
+17572::$$$message_0131_0065_0000$$$::"Eu também tenho lados ruins, então use-os como bons exemplos do que não fazer. Ninguém merece cair nas garras de um cara mau..."[lr]::
+17573::$$$message_0131_0065_0001$$$::Sinto um calafrio na espinha sendo encarado pelos olhos amendoados da Caster.::
+17574::$$$message_0131_0066_0000$$$::"Você não é um cara mau, não é?"[lr]::
+17575::$$$message_0131_0066_0001$$$::"Hum, o Senpai é uma boa pessoa! Não há dúvidas quanto a isso!"[lr]::
+17576::$$$message_0131_0066_0002$$$::"Talvez. Seu garoto de sorte, essa menina vai te fazer feliz..."[lr]::
 17577::$$$message_0131_0066_0003$$$::"..."[lr]::
-17578::$$$message_0131_0066_0004$$$::Duvido, não sei como responder.::
-17579::$$$message_0131_0067_0000$$$::"Senhora Matou, você não precisa se preocupar com a Senhorita Perfeita.[lr]::
-17580::$$$message_0131_0067_0001$$$::O que importa é você e sua pessoa especial."::
-17581::$$$message_0131_0068_0000$$$::"Y-Yes...![lr]::
-17582::$$$message_0131_0068_0001$$$::Ah, você é mesmo uma esposa linda, Caster. Que diferença imensa em comparação com a Senhorita Perfeita...![lr]::
-17583::$$$message_0131_0068_0002$$$::Ah, você me está fazendo chorar...!"::
-17584::$$$message_0131_0069_0000$$$::Isso é o que você chama de ser movido às lágrimas?[lr]::
-17585::$$$message_0131_0069_0001$$$::Mesmo sem recitar qualquer encantamento, as palavras da Caster têm tanta força destrutiva quanto seu Rule Breaker.[lr]::
-17586::$$$message_0131_0069_0002$$$::De qualquer forma, fico feliz que pareça que as várias preocupações da Sakura tenham sido resolvidas.::
+17578::$$$message_0131_0066_0004$$$::Hesito, incerto de como responder.::
+17579::$$$message_0131_0067_0000$$$::"Senhorita Matou, não há necessidade de se preocupar com a Senhorita Perfeita.[lr]::
+17580::$$$message_0131_0067_0001$$$::O importante é você e a sua pessoa especial."::
+17581::$$$message_0131_0068_0000$$$::"S-Sim...![lr]::
+17582::$$$message_0131_0068_0001$$$::Ah, você é mesmo uma esposa tão amável afinal de contas, Caster. Que baita diferença pra Senhorita Perfeita...![lr]::
+17583::$$$message_0131_0068_0002$$$::Uwaa, você tá me fazendo chorar...!"::
+17584::$$$message_0131_0069_0000$$$::É isso que chamam de ser comovido às lágrimas?[lr]::
+17585::$$$message_0131_0069_0001$$$::Mesmo sem nenhum encantamento, as palavras da Caster têm o mesmo poder destrutivo do seu Rule Breaker.[lr]::
+17586::$$$message_0131_0069_0002$$$::De qualquer forma, fico feliz que parece que as várias preocupações da Sakura tenham sido resolvidas.::
 17587::$$$message_0131_0070_0000$$$::"Posso te chamar de minha irmã mais velha, Caster?"[lr]::
-17588::$$$message_0131_0070_0001$$$::"Ah. Eu ganhei uma irmãzinha linda."::
-17589::$$$message_0131_0071_0000$$$::"S-Sakura... Sua irmã mais velha é [line len=2]"[lr]::
-17590::$$$message_0131_0071_0001$$$::"Senpai, vamos convidar a Caster para nossa casa na próxima vez e ouvir suas úteis dicas![lr]::
+17588::$$$message_0131_0070_0001$$$::"Oh. Ganhei uma irmãzinha fofa."::
+17589::$$$message_0131_0071_0000$$$::"S-Sakura... Sua irmã mais velha é[line len=2]"[lr]::
+17590::$$$message_0131_0071_0001$$$::"Senpai, vamos convidar a Caster lá pra casa na próxima vez e ouvir os seus conselhos úteis![lr]::
 17591::$$$message_0131_0071_0002$$$::Especialmente sobre como lidar com a Senhorita Perfeita!"::
-17592::$$$message_0131_0072_0000$$$::"Que convite agradável. Pensei nisso.[lr]::
-17593::$$$message_0131_0072_0001$$$::Ah, está certo, pode vir comigo ao shopping também, Emiya?"[lr]::
-17594::$$$message_0131_0072_0002$$$::"Isso não soa incrível, Senpai? Vamos decidir o nosso cardápio de almoço!"::
-17595::$$$message_0131_0073_0000$$$::"Y-É, eu estava planejando isso desde o início, então podemos."[lr]::
-17596::$$$message_0131_0073_0001$$$::...Algo não está certo, mas não é um momento em que eu possa dizer não.[lr]::
-17597::$$$message_0131_0073_0002$$$::Sakura, que está em alta forma, e Caster, que parece mais feliz do que nunca.[lr]::
-17598::$$$message_0131_0073_0003$$$::...O tempo pacífico, porém sufocante, que me faz sentir como se estivesse sendo estrangulado por seda de fio, continua...::
-917408::$$$message_9131_0010_0000$$$::"Pare ali mesmo, seu animal![r]::
+17592::$$$message_0131_0072_0000$$$::"Que convite agradável. Eu pensarei a respeito.[lr]::
+17593::$$$message_0131_0072_0001$$$::Ah, é verdade, pode vir fazer as compras comigo também, Emiya?"[lr]::
+17594::$$$message_0131_0072_0002$$$::"Não soa como uma ótima ideia, Senpai? Vamos decidir o cardápio do nosso almoço!"::
+17595::$$$message_0131_0073_0000$$$::"S-Sim, eu estava planejando isso desde o começo, então podemos."[lr]::
+17596::$$$message_0131_0073_0001$$$::...Alguma coisa não parece certa, mas essa não é uma situação em que eu posso dizer não.[lr]::
+17597::$$$message_0131_0073_0002$$$::A Sakura, que está de bom humor, e a Caster, que parece mais feliz do que nunca.[lr]::
+17598::$$$message_0131_0073_0003$$$::...O tempo pacífico, mas ainda sufocante, em que sinto que estou sendo estrangulado por fios de seda, continua...::
+917408::$$$message_9131_0010_0000$$$::"Pare bem aí, seu vira-lata!"[r]::

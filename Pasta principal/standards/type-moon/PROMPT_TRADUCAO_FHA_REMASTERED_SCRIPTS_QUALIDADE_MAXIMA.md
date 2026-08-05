@@ -16,6 +16,12 @@ Para acompanhamento das etapas de FHA, use apenas:
 
 - `etapas_traducao_qwen_codex_prompt_fha_qmax.csv`
 
+**Regras de Abordagem:**
+- Todo lote marcado como `pendente` no CSV deverá ser **totalmente retraduzido**.
+- A base para esta retradução deve ser lida a partir da pasta `scripts_en`.
+- As edições/atualizações da retradução devem ser aplicadas nos arquivos dentro da pasta `scripts_pt-br`.
+- A pasta `scripts_jp` pode ser ignorada por enquanto.
+
 Não mantenha um segundo CSV paralelo de etapas para o mesmo fluxo.
 
 ## Arquivos de apoio obrigatórios
@@ -162,6 +168,15 @@ Você não pode alterar, salvo ordem explícita da tarefa:
 - comandos internos da engine;
 - nomes técnicos dentro das tags.
 
+## Etapa 0 Obrigatória: Varredura Pré-Lote
+
+Antes de iniciar **qualquer lote** de tradução ou retradução, você deve fazer uma varredura nos arquivos base (`scripts_en` e/ou os atuais em `scripts_pt-br`).
+O objetivo é procurar por novos termos, piadas, conceitos ou padrões de escrita que necessitem de padronização prévia.
+Como o projeto é muito grande, algo que aparece no script 10 pode voltar no script 400.
+- Identifique tudo que pode gerar inconsistência.
+- **Registre-os no `GLOSSARIO_TYPEMOON_OPERACIONAL.json` antes** de iniciar a retradução das falas.
+Isso garante que o projeto cresça coeso.
+
 ## Método obrigatório por arquivo
 
 ### Etapa 1. Diagnóstico estrutural
@@ -229,6 +244,8 @@ Faça retradução de bloco, e não só retoque, quando houver:
 - sintaxe brasileira artificial;
 - leitura truncada por calque do inglês.
 
+- **Agressividade Autorizada:** Seja agressivo na reescrita! O foco é a **melhora total** e a fluidez nativa do PT-BR. Desmonte e remonte a frase se necessário para aniquilar qualquer traço de tradução literal.
+
 ### Etapa 5. Polimento literário
 
 Depois da fidelidade e do glossário, faça um passe específico para:
@@ -240,22 +257,38 @@ Depois da fidelidade e do glossário, faça um passe específico para:
 - naturalidade do PT-BR;
 - elegância sem afetação.
 
-### Etapa 6. Passe de voz
+### Etapa 6. Passe de Voz (Teste Cego)
 
-Confirme que cada personagem soa como ele mesmo, e não como o narrador ou como um "português neutro de máquina".
+Faça o "Teste Cego" nas falas: se você ocultar o nome de quem fala, ainda é possível reconhecer o personagem apenas pelo vocabulário, ritmo e tom da frase em PT-BR? 
+- Se a frase soar genérica ou neutra, retraduza para injetar a personalidade correta.
+- O tom não pode ser "português neutro de máquina".
 
-### Etapa 7. Passe antitradutês
+### Etapa 7. Busca de Precedentes (Cross-Reference Leve)
 
-Procure explicitamente:
+Se identificar uma frase de efeito recorrente, golpe ou bordão marcante, faça uma busca rápida nos arquivos já traduzidos em `scripts_pt-br`.
+- O objetivo é manter a consistência simétrica perfeita com a memória do projeto aprovada, sem gastar processamento lendo arquivos irrelevantes. Use buscas focadas.
 
-- sintaxe colada no inglês;
-- escolhas corretas, mas duras;
-- frases com ordem esquisita;
-- excesso de literalidade;
-- pronome estranho;
-- tom deslocado;
-- fala sem personalidade;
-- verbo certo em frase errada.
+### Etapa 8. Passe Antitradutês (Revisão por Pares Simulada)
+
+Assuma a persona de um "Revisor Editorial". Procure agressivamente por:
+- "Tradutês": construções sintáticas coladas no inglês.
+- Escolhas gramaticalmente corretas, mas antinaturais para a fala.
+- Excesso de literalidade que mata o peso dramático ou o humor.
+Lapide a frase para a prosa literária e coloquial brasileira.
+
+### Etapa 9. Integridade Absoluta das Tags (Zero Tag Loss)
+
+O motor Kirikiri usa muitas tags (`[lr]`, `[l]`, `[ruby]`, `[se]`).
+- A quantidade e a ordem lógica das tags estruturais, de clique e sonoras devem ser **exatamente as mesmas** do arquivo inglês.
+- Omitir um `[lr]` quebra o ritmo do jogo.
+- Alterar ou quebrar os caracteres em japonês contidos nas tags (como `[chgfg storage=凛...]`) é uma falha crítica.
+
+### Etapa 10. Salvamento e Formatação Estrita (LF e UTF-8)
+
+Para evitar a quebra do motor Kirikiri e a corrupção das tags originais:
+- **Quebra de Linha:** Salve todos os arquivos **EXCLUSIVAMENTE em LF (`\n`)**. O formato CRLF (`\r\n`) padrão do Windows é estritamente proibido.
+- **Codificação Obrigatória:** Leia e escreva os arquivos **SEMPRE em UTF-8**.
+- **Ferramentas:** Jamais utilize comandos genéricos de terminal (como `Get-Content`/`Add-Content` do PowerShell) sem especificar a codificação, pois usarão ANSI (cp1252) por padrão. Dê preferência absoluta às ferramentas nativas de manipulação de arquivo para manter a integridade.
 
 ## Regras de tradução literária
 
@@ -327,6 +360,8 @@ Erros comuns a evitar em FHA:
 ## Voz por personagem
 
 Use esta orientação como guia de voz. Ajuste com contexto de cena, mas não descaracterize.
+
+**IMPORTANTE:** Qualquer descoberta nova sobre o tom, ritmo, bordão ou limite moral do vocabulário de um personagem (o que ele *pode* e *deve* dizer) para torná-lo autenticamente brasileiro sem perder a essência, **deve ser gravada no `GLOSSARIO_TYPEMOON_OPERACIONAL.json`**, dentro de um bloco de configurações específico para a voz dos personagens. O glossário será a fonte primária de consistência interpretativa.
 
 ### Shirou
 

@@ -1,92 +1,91 @@
 DAT
 id=qid::label=str::text=lstr::
 2222::$$$message_0012_0000_0000$$$::"Saber, você está aí?"[se storage=se252.wav][lr]::
-2223::$$$message_0012_0000_0001$$$::Bato levemente, mas não há resposta da sala.[lr]::
-2224::$$$message_0012_0000_0002$$$::A Saber é muito sensível sobre isso, então ela não pode estar dentro.[lr]::
-2225::$$$message_0012_0000_0003$$$::Acabei de vê-la no living room há pouco tempo, e tenho um pouco de tempo livre, então pensei que podíamos treinar no dojo...::
-2226::$$$message_0012_0001_0000$$$::"Você está procurando pela Saber?"[lr]::
-2227::$$$message_0012_0001_0001$$$::A Rider surge ao meu lado de repente.::
-2228::$$$message_0012_0002_0000$$$::"Já viu ela?"[lr]::
-2229::$$$message_0012_0002_0001$$$::"Não, não tão longe."[lr]::
-2230::$$$message_0012_0002_0002$$$::"Isso está bem."::
-2231::$$$message_0012_0003_0000$$$::Agora, onde ela pode estar... [se storage=se215.wav volume=50][shock vmax=10 hmax=10 time=800 count=2]Enquanto me viro para voltar para o prédio principal, sinto uma arrancada no meu braço.::
-2232::$$$message_0012_0004_0000$$$::"Pelo meio disso, Shirou. Você tem um momento?"[lr]::
-2233::$$$message_0012_0004_0001$$$::"Hmm? O que está a acontecer?"[lr]::
-2234::$$$message_0012_0004_0002$$$::"Bem, ultimamente, o meu bicicleta não tem estado funcionando bem... Os manípulos têm estado inclinando para os lados. É um bastante incômodo. Estava esperando que você pudesse dar uma olhada se tiver tempo."::
-2235::$$$message_0012_0005_0000$$$::Entendi.[lr]::
-2236::$$$message_0012_0005_0001$$$::Na verdade, tenho estado deixando a manutenção um pouco de lado ultimamente. Uma bicicleta normal é muito delicada para Rider usar.[lr]::
-2237::$$$message_0012_0005_0002$$$::Sendo assim, o ciclo pessoal da Rider[line len=2]uma bicicleta de avó, em outras palavras[line len=2]não foi construído para resistir ao estilo de direção e drift da Rider.::
-2238::$$$message_0012_0006_0000$$$::"Okay. Vou dar uma olhada."[lr]::
-2239::$$$message_0012_0006_0001$$$::...Conseguo evitar adicionar "antes que se torne lixo inutilizável."[lr]::
-2240::$$$message_0012_0006_0002$$$::"Obrigado."::
-2241::$$$message_0012_0007_0000$$$::Dou um leve cumprimento [se storage=se188.wav]para ser polido, [clfg time=400 rule=シャッター左から storage=ライダー私服01b(中) textoff=0]e entro no quarto ao lado do de Saber.[lr]::
-2242::$$$message_0012_0007_0001$$$::Agora, vamos dar uma rápida inspecionada na bicicleta...::
-2243::$$$message_0012_0008_0000$$$::"...Hei!"::
-2244::$$$message_0012_0009_0000$$$::Tudo acabou antes que eu recuperasse os sentidos.[lr]::
-2245::$$$message_0012_0009_0001$$$::Sou cumprimentado pelo bicicleta número 2, polida e brilhante.[lr]::
-2246::$$$message_0012_0009_0002$$$::Estava só esperando arrumar a coluna de direção e fazer uma manutenção nos freios e cabos.::
+2223::$$$message_0012_0000_0001$$$::Dou umas batidinhas na porta, mas não há resposta do quarto.[lr]::
+2224::$$$message_0012_0000_0002$$$::A Saber é super atenta a esse tipo de coisa, então ela não deve estar aí dentro.[lr]::
+2225::$$$message_0012_0000_0003$$$::Eu a vi na sala de estar mais cedo, e como estou com um tempo livre, pensei que pudéssemos treinar no dojo...::
+2226::$$$message_0012_0001_0000$$$::"Está procurando pela Saber?"[lr]::
+2227::$$$message_0012_0001_0001$$$::A Rider aparece de repente ao meu lado.::
+2228::$$$message_0012_0002_0000$$$::"Estou sim. Você a viu?"[lr]::
+2229::$$$message_0012_0002_0001$$$::"Não, ainda não."[lr]::
+2230::$$$message_0012_0002_0002$$$::"Ah, tudo bem."::
+2231::$$$message_0012_0003_0000$$$::Bom, onde será que ela se meteu... [se storage=se215.wav volume=50][shock vmax=10 hmax=10 time=800 count=2]Quando me viro para voltar ao casarão principal, sinto um puxão no braço.::
+2232::$$$message_0012_0004_0000$$$::"A propósito, Shirou. Você tem um minuto?"[lr]::
+2233::$$$message_0012_0004_0001$$$::"Hã? O que foi?"[lr]::
+2234::$$$message_0012_0004_0002$$$::"Bem, ultimamente, minha bicicleta não está funcionando direito... O guidão tem puxado para os lados. É bastante incômodo. Eu esperava que você pudesse dar uma olhada nela se tiver um tempinho."::
+2235::$$$message_0012_0005_0000$$$::Ah, entendi.[lr]::
+2236::$$$message_0012_0005_0001$$$::Sendo sincero, andei negligenciando a manutenção recentemente. Uma bicicleta normal é muito frágil para a Rider usar.[lr]::
+2237::$$$message_0012_0005_0002$$$::Sendo mais exato, a bicicleta urbana da Rider[line len=2]aquela velha de senhorinha, em outras palavras[line len=2]não foi feita para aguentar as manobras arriscadas e os derrapes dela.::
+2238::$$$message_0012_0006_0000$$$::"Beleza. Eu dou uma olhada."[lr]::
+2239::$$$message_0012_0006_0001$$$::...Eu me seguro para não adicionar um "antes que vire sucata inutilizável".[lr]::
+2240::$$$message_0012_0006_0002$$$::"Obrigada."::
+2241::$$$message_0012_0007_0000$$$::Faço uma leve reverência [se storage=se188.wav]por educação, [clfg time=400 rule=シャッター左から storage=ライダー私服01b(中) textoff=0]e entro no quarto ao lado do da Saber.[lr]::
+2242::$$$message_0012_0007_0001$$$::Agora, vamos dar uma olhada rápida nessa belezinha...::
+2243::$$$message_0012_0008_0000$$$::"...Uau!"::
+2244::$$$message_0012_0009_0000$$$::Quando percebo o que fiz, já é tarde demais.[lr]::
+2245::$$$message_0012_0009_0001$$$::Sou recebido por uma Bicicleta nº 2 brilhando de tão polida.[lr]::
+2246::$$$message_0012_0009_0002$$$::Eu só queria endireitar a caixa de direção e dar uma regulada nos freios e nos cabos.::
 2247::$$$message_0012_0010_0000$$$::Mas em vez disso...[lr]::
-2248::$$$message_0012_0010_0001$$$::Fiquei envolvido em inspecionar várias partes, pensei para mim mesmo que seria mais rápido consertá-las corretamente em vez de usar atalhos, e me dediquei a desmontar a bicicleta até cada parafuso e porca.::
-2249::$$$message_0012_0011_0000$$$::"...Bem, a Rider deve estar feliz por eu ter chegado até aqui."[lr]::
-2250::$$$message_0012_0011_0001$$$::Substituí as partes que se desgastavam por outras mais duráveis e fiquei satisfeito de que essa bicicleta não precisaria ser consertada por um tempo... Bem, pelo menos uma semana, pelo menos.::
-2251::$$$message_0012_0012_0000$$$::[se storage=se396.wav]Assim que volto para [movefg opacity=255 left=-446 top=34 time=450 accel=-2 storage=藤08e(中) textoff=0][wait canskip=false time=200][movefg opacity=255 time=600 pos=c accel=3 storage=藤01d(中) textoff=0][sestop time=100 nowait=true][seloop storage=se317.wav]tomar um banho para tirar o suor e a graxa, Fuji-nee vem correndo da sala de estar.[wm canskip=0][wm canskip=0][wait canskip=false time=150][sestop time=0 nowait=true]::
-2252::$$$message_0012_0013_0000$$$::"Fuji-nee, a escola não é o único lugar em que você não deveria correr pelo corredor!"[lr]::
-2253::$$$message_0012_0013_0001$$$::"Ah, desculpe, Shirou. Vamos conversar depois!"[lr]::
-2254::$$$message_0012_0013_0002$$$::Ela foge.::
+2248::$$$message_0012_0010_0001$$$::Acabei me empolgando enquanto checava várias peças. Pensei que seria mais rápido consertar tudo direito em vez de fazer gambiarras, e decidi desmontar a bicicleta até o último parafuso.::
+2249::$$$message_0012_0011_0000$$$::"...Bem, a Rider deve ficar feliz com o que eu fiz."[lr]::
+2250::$$$message_0012_0011_0001$$$::Troquei as peças mais desgastadas por outras mais duráveis, e me dei por satisfeito sabendo que essa bike não precisaria de manutenção por um bom tempo... Bom, pelo menos por mais uma semana.::
+2251::$$$message_0012_0012_0000$$$::[se storage=se396.wav]No momento em que estou voltando para tomar um banho e [movefg opacity=255 left=-446 top=34 time=450 accel=-2 storage=藤08e(中) textoff=0][wait canskip=false time=200][movefg opacity=255 time=600 pos=c accel=3 storage=藤01d(中) textoff=0][sestop time=100 nowait=true][seloop storage=se317.wav]tirar esse suor e graxa de mim, a Fuji-nee sai correndo da sala de estar.[wm canskip=0][wm canskip=0][wait canskip=false time=150][sestop time=0 nowait=true]::
+2252::$$$message_0012_0013_0000$$$::"Fuji-nee, não é só na escola que não se deve correr pelos corredores!"[lr]::
+2253::$$$message_0012_0013_0001$$$::"Ah, desculpa Shirou. Nos falamos depois!"[lr]::
+2254::$$$message_0012_0013_0002$$$::Ela sai correndo.::
 2255::$$$message_0012_0014_0000$$$::"Ah, Senpai."[lr]::
-2256::$$$message_0012_0014_0001$$$::Sakura chega, ofegante. Diferente da Fuji-nee, raramente a vejo assim apressada. Não sei como reagir.::
+2256::$$$message_0012_0014_0001$$$::A Sakura chega, ofegante. Diferente da Fuji-nee, raramente a vejo com tanta pressa. Não sei nem como reagir.::
 2257::$$$message_0012_0015_0000$$$::"O que está acontecendo?"[lr]::
-2258::$$$message_0012_0015_0001$$$::"Um, eu estava prestes a preparar um chá, já que Illya estava de visita, mas a senhorita Fujimura começou a comer os petiscos de chá. Ela esvaziou a primeira prateleira, a segunda prateleira, e até os bolinhos do nosso kit de emergência...!"[lr]::
-2259::$$$message_0012_0015_0002$$$::É claro que os perseguiram.::
-2260::$$$message_0012_0016_0000$$$::"Mas normalmente não há tanta confusão mesmo quando um tigre faminto desce sobre nossa aldeia humana..."[lr]::
-2261::$$$message_0012_0016_0001$$$::[chgfg time=300 storage=桜私服02e(中) textoff=0 last=桜私服02d(中)]Normalmente, nós só faríamos um sermão na Fuji-nee e exigiríamos reparação do seu cofrinho antes mesmo que ela conseguisse escapar.::
-2262::$$$message_0012_0017_0000$$$::"Sobre isso, ela comeu a parte de Saber também, e quando Illya apontou isso, ela começou a suar e correu para se esconder até que tudo se acalmasse..."[lr]::
-2263::$$$message_0012_0017_0001$$$::"Pega ela tão rápido quanto puder. [l][say storage=emi0118_shi_0101 name=士郎]Vou pedir desculpas à Illya."[lr]::
-2264::$$$message_0012_0017_0002$$$::"E então, quando comecei a contar para Illya sobre as virtudes do konpeito nos bolinhos secos, ela se tornou muito mais chateada do que eu esperava."[lr]::
-2265::$$$message_0012_0017_0003$$$::"Bem, essas são rações de emergência."::
-2266::$$$message_0012_0018_0000$$$::"Sakura, encontrei a Taiga! Ela está subindo no telhado!"[lr]::
-2267::$$$message_0012_0018_0001$$$::Eu ouço a voz de Illya vindo do quintal... O telhado?::
-2268::$$$message_0012_0019_0000$$$::"[move time=200 path=(292,72,255)(256,56,255)(250,67,255)(229,64,255) accel=-2 storage=桜私服05f(中) spline=1 textoff=0][say storage=emi0118_sak_0040 name=桜]Huh? Ah, estou vindo. [cacheimage storage=桜私服07d(中)][wm canskip=0][wvl canskip=false time=300][chgfg time=200 storage=桜私服07d(中) textoff=0 last=桜私服05f(中)]Vou te ver depois, Senpai... [cacheimage storage=桜私服14c(中)][wvl canskip=false time=200][chgfg time=200 storage=桜私服14c(中) textoff=0 last=桜私服07d(中)][cacheimage storage=桜私服14c(中)][wvl canskip=false time=300][movefg opacity=0 left=-35 top=54 time=300 accel=2 storage=桜私服14c(中) textoff=0 last=桜私服14c(中)]Espere, Rider! O que você está fazendo com essa corda!?"[lr]::
-2269::$$$message_0012_0019_0001$$$::Sakura joga alguns sandálias e vai para o quintal.[lr]::
-2270::$$$message_0012_0019_0002$$$::De qualquer forma, tenho medo do que ela vai fazer, então tento evitar olhar para a Rider.::
+2258::$$$message_0012_0015_0001$$$::"Hum, eu ia preparar um chá já que a Illya está aqui, mas a Professora Fujimura começou a atacar os petiscos. Ela limpou o primeiro armário, o segundo, e até os biscoitos do nosso kit de emergência...!"[lr]::
+2259::$$$message_0012_0015_0002$$$::Não é de admirar que a tenham escorraçado de lá.::
+2260::$$$message_0012_0016_0000$$$::"Mas normalmente não haveria toda essa comoção nem que um tigre faminto invadisse nosso assentamento..."[lr]::
+2261::$$$message_0012_0016_0001$$$::[chgfg time=300 storage=桜私服02e(中) textoff=0 last=桜私服02d(中)]Geralmente, nós só daríamos um sermão na Fuji-nee e exigiríamos reparações da carteira dela antes que pudesse fugir.::
+2262::$$$message_0012_0017_0000$$$::"Sobre isso, ela comeu a parte da Saber também, e quando a Illya apontou isso, ela começou a suar frio e fugiu para se esconder até a poeira baixar..."[lr]::
+2263::$$$message_0012_0017_0001$$$::"Pegue-a o mais rápido que puder. [l][say storage=emi0118_shi_0101 name=士郎]Vou lá pedir desculpas para a Illya."[lr]::
+2264::$$$message_0012_0017_0002$$$::"E então, quando comecei a explicar para a Illya sobre as virtudes do konpeito no meio dos biscoitos secos, ela ficou muito mais chateada do que eu esperava."[lr]::
+2265::$$$message_0012_0017_0003$$$::"Bem, aquilo era ração de emergência."::
+2266::$$$message_0012_0018_0000$$$::"Sakura, achei a Taiga! Ela está subindo no telhado!"[lr]::
+2267::$$$message_0012_0018_0001$$$::Ouço a voz da Illya vindo do quintal... No telhado?::
+2268::$$$message_0012_0019_0000$$$::"[move time=200 path=(292,72,255)(256,56,255)(250,67,255)(229,64,255) accel=-2 storage=桜私服05f(中) spline=1 textoff=0][say storage=emi0118_sak_0040 name=桜]Hã? Ah, já estou indo. [cacheimage storage=桜私服07d(中)][wm canskip=0][wvl canskip=false time=300][chgfg time=200 storage=桜私服07d(中) textoff=0 last=桜私服05f(中)]Até mais tarde, Senpai... [cacheimage storage=桜私服14c(中)][wvl canskip=false time=200][chgfg time=200 storage=桜私服14c(中) textoff=0 last=桜私服07d(中)][cacheimage storage=桜私服14c(中)][wvl canskip=false time=300][movefg opacity=0 left=-35 top=54 time=300 accel=2 storage=桜私服14c(中) textoff=0 last=桜私服14c(中)]Espera, Rider! O que você vai fazer com essa corda!?"[lr]::
+2269::$$$message_0012_0019_0001$$$::A Sakura calça umas sandálias e vai para o quintal.[lr]::
+2270::$$$message_0012_0019_0002$$$::De qualquer forma, temo o que a Rider está prestes a fazer, então tento evitar olhar para ela.::
 2271::$$$message_0012_0020_0000$$$::"Ainda assim..."[lr]::
-2272::$$$message_0012_0020_0001$$$::Parece que estão caçando um animal selvagem.[lr]::
-2273::$$$message_0012_0020_0002$$$::Talvez eu deva ajudar antes que isso saia do controle.::
-2274::$$$message_0012_0021_0000$$$::Finalmente, Fuji-nee é levada para interrogatório.[lr]::
-2275::$$$message_0012_0021_0001$$$::Illya e Sakura a estão repreendendo no living.[lr]::
-2276::$$$message_0012_0021_0002$$$::Pelo meu lado, estou consertando o dano que ela causou no telhado.[lr]::
-2277::$$$message_0012_0021_0003$$$::Eles dizem que ainda devemos esperar por um tufão este ano.::
+2272::$$$message_0012_0020_0001$$$::Parecem estar caçando um animal selvagem.[lr]::
+2273::$$$message_0012_0020_0002$$$::Acho melhor eu ajudar antes que isso saia do controle.::
+2274::$$$message_0012_0021_0000$$$::Finalmente, a Fuji-nee é levada sob custódia.[lr]::
+2275::$$$message_0012_0021_0001$$$::A Illya e a Sakura estão dando uma bronca nela na sala de estar.[lr]::
+2276::$$$message_0012_0021_0002$$$::Por outro lado, eu estou consertando o estrago que ela causou no telhado.[lr]::
+2277::$$$message_0012_0021_0003$$$::Dizem que ainda teremos um tufão este ano.::
 2278::$$$message_0012_0022_0000$$$::"Ainda assim..."[lr]::
-2279::$$$message_0012_0022_0001$$$::Sinto um arrepio de simpatia por Archer. Talvez a razão pela qual ele ficou tão torturado seja por ter sido deixado aqui sozinho.::
-2280::$$$message_0012_0023_0000$$$::"Pois é. Como se fosse algo."[lr]::
-2281::$$$message_0012_0023_0001$$$::Eu não deveria ficar aqui. O que é que eles dizem sobre fumaça e tolos?[lr]::
-2282::$$$message_0012_0023_0002$$$::Bem, ainda tem tempo antes do jantar, então vou encontrar um lugar calmo para descansar.::
-2283::$$$message_0012_0024_0000$$$::Encontro um espaço com piso de madeira sem nenhum objeto ao redor.[lr]::
-2284::$$$message_0012_0024_0001$$$::Ninguém acabou usando esse lugar, nem mesmo depois que o número de moradores nessa casa aumentou.[lr]::
-2285::$$$message_0012_0024_0002$$$::Esqueci de tudo isso desde o início.::
-2286::$$$message_0012_0025_0000$$$::...Acalmarei meus pensamentos confusos.[lr]::
-2287::$$$message_0012_0025_0001$$$::Este lugar me dá uma sensação de nostalgia, como se fosse onde tudo começou.::
+2279::$$$message_0012_0022_0001$$$::Sinto uma pontada de empatia pelo Archer. Talvez a razão pela qual ele seja tão distorcido seja por ter ficado largado aqui em cima sozinho.::
+2280::$$$message_0012_0023_0000$$$::"Brincadeira. Até parece."[lr]::
+2281::$$$message_0012_0023_0001$$$::É melhor eu não ficar por aqui. Como é mesmo aquele ditado sobre fumaça e idiotas?[lr]::
+2282::$$$message_0012_0023_0002$$$::Bom, ainda falta um tempo pro jantar, então vou procurar um lugar tranquilo para descansar.::
+2283::$$$message_0012_0024_0000$$$::Encontro um espaço com chão de madeira, sem nenhuma bagunça por perto.[lr]::
+2284::$$$message_0012_0024_0001$$$::Ninguém acabou usando este lugar, mesmo depois que o número de moradores desta casa aumentou.[lr]::
+2285::$$$message_0012_0024_0002$$$::Eu tinha me esquecido completamente dele.::
+2286::$$$message_0012_0025_0000$$$::...Eu acalmo meus pensamentos embaralhados.[lr]::
+2287::$$$message_0012_0025_0001$$$::Este lugar me traz uma certa nostalgia, como se fosse aqui que tudo começou.::
 2288::$$$message_0012_0026_0000$$$::"..."[lr]::
-2289::$$$message_0012_0026_0001$$$::...Queria ficar aqui mais um pouco.[lr]::
-2290::$$$message_0012_0026_0002$$$::Estou na entrada, em silêncio.::
-2291::$$$message_0012_0027_0000$$$::"Você está aqui, Shirou."[lr]::
-2292::$$$message_0012_0027_0001$$$::Quantos dias estou aqui?[lr]::
-2293::$$$message_0012_0027_0002$$$::A voz de Saber me liberta da minha dissociação.::
-2294::$$$message_0012_0028_0000$$$::"Sim. Quantos dias você já está aqui, Saber?"[lr]::
-2295::$$$message_0012_0028_0001$$$::"Almoço terminou."[lr]::
-2296::$$$message_0012_0028_0002$$$::O que significa que ela já estava aqui por cerca de meio dia.::
-2297::$$$message_0012_0029_0000$$$::"...O que há, Shirou? Tinha algo que queria me perguntar?"[lr]::
+2289::$$$message_0012_0026_0001$$$::...Gostaria de poder ficar aqui um pouco mais.[lr]::
+2290::$$$message_0012_0026_0002$$$::Fico em pé na entrada, em silêncio.::
+2291::$$$message_0012_0027_0000$$$::"Você está aí, Shirou."[lr]::
+2292::$$$message_0012_0027_0001$$$::Há quanto tempo estou aqui?[lr]::
+2293::$$$message_0012_0027_0002$$$::A voz da Saber me tira do meu devaneio.::
+2294::$$$message_0012_0028_0000$$$::"É. Há quanto tempo você está aí, Saber?"[lr]::
+2295::$$$message_0012_0028_0001$$$::"Desde o fim do almoço."[lr]::
+2296::$$$message_0012_0028_0002$$$::O que significa que ela deve estar aqui há quase meio dia.::
+2297::$$$message_0012_0029_0000$$$::"...Qual o problema, Shirou? Queria me perguntar algo?"[lr]::
 2298::$$$message_0012_0029_0001$$$::"Ah, não..."[lr]::
-2299::$$$message_0012_0029_0002$$$::Eu considero pedir a Saber para treinar comigo, mas o sol já está começando a se pôr.[lr]::
+2299::$$$message_0012_0029_0002$$$::Pensei em chamar a Saber para treinar comigo, mas o sol já começou a se pôr.[lr]::
 2300::$$$message_0012_0029_0003$$$::O que podemos fazer agora...::
-2301::$$$message_0012_0030_0000$$$::"Pensei que tomaria uma pausa aqui."[lr]::
-2302::$$$message_0012_0030_0001$$$::"Entendi. Este é um lugar onde você pode relaxar.[lr]::
-2303::$$$message_0012_0030_0002$$$::Eu me retiro então."[lr]::
+2301::$$$message_0012_0030_0000$$$::"Pensei em descansar um pouco por aqui."[lr]::
+2302::$$$message_0012_0030_0001$$$::"Entendo. Este é um lugar onde você pode relaxar.[lr]::
+2303::$$$message_0012_0030_0002$$$::Sendo assim, vou me retirar."[lr]::
 2304::$$$message_0012_0030_0003$$$::"Não, você não precisa..."[lr]::
-2305::$$$message_0012_0030_0004$$$::[chgfg time=300 storage=セイバー私服04a(中) textoff=0]Como estamos aqui, gostaria de passar algum tempo sozinho com a Saber... mas estou muito envergonhado para dizer isso.::
-2306::$$$message_0012_0031_0000$$$::"Tem algo de errado?"[lr]::
-2307::$$$message_0012_0031_0001$$$::"...É nada."[lr]::
-2308::$$$message_0012_0031_0002$$$::Fico sentado em uma posição confortável.[lr]::
-2309::$$$message_0012_0031_0003$$$::Eu provavelmente esquecerei tudo aquilo que conversamos hoje. [l][textoff][clfg][dash page=back mx=0 opacity=180 layer=base irot=-0.0 cx=11 imag=1.5 time=10000 cy=339 mag=1.5 my=-333 storage=a11(fd) rot=-0.0 accel=0][transex time=600][wait canskip=0 time=800]Mas a luz do sol tremulando nas paredes do dojo e o sorriso gentil de Saber ficarão comigo para sempre.::
-902286::$$$message_9012_0025_0000$$$::...Acalmarei meus pensamentos confusos.[r]::
-
+2305::$$$message_0012_0030_0004$$$::[chgfg time=300 storage=セイバー私服04a(中) textoff=0]Já que estamos aqui, gostaria de passar um tempo a sós com a Saber... mas fico com muita vergonha de dizer isso.::
+2306::$$$message_0012_0031_0000$$$::"Aconteceu alguma coisa?"[lr]::
+2307::$$$message_0012_0031_0001$$$::"...Não é nada."[lr]::
+2308::$$$message_0012_0031_0002$$$::Eu me sento em uma posição confortável.[lr]::
+2309::$$$message_0012_0031_0003$$$::Provavelmente vou acabar esquecendo qualquer bobeira sobre a qual conversarmos hoje. [l][textoff][clfg][dash page=back mx=0 opacity=180 layer=base irot=-0.0 cx=11 imag=1.5 time=10000 cy=339 mag=1.5 my=-333 storage=a11(fd) rot=-0.0 accel=0][transex time=600][wait canskip=0 time=800]Mas a luz do sol cintilante nas paredes do dojo e o sorriso gentil da Saber ficarão comigo para sempre.::
+902286::$$$message_9012_0025_0000$$$::...Eu acalmo meus pensamentos embaralhados.[r]::
