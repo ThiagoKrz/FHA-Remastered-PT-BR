@@ -51,9 +51,12 @@ node tools\fsn\fsn-review-tools.mjs scene <arquivo.epk_dec>
 O diagnóstico deve classificar a cena antes da edição:
 
 - `OK ESTRUTURAL`: IDs, labels e ordem batem com `scripts_EN/`; seguir para revisão literária.
+- `OK COM ALERTA HERDADO`: IDs, labels, ordem e tags batem, mas a base EN contém a mesma linha malformada; registrar no CSV como alerta herdado, não como defeito introduzido no PT-BR.
 - `REVISÃO PONTUAL`: estrutura bate, mas há tags, termos, encoding ou linhas suspeitas; corrigir apenas os pontos apontados.
 - `BUG ESTRUTURAL`: cabeçalho, linha malformada, lixo de bytes ou delimitador quebrado; corrigir estrutura antes da revisão literária.
 - `DESSYNC`: contagem, labels ou ordem divergem; não revisar por cima. Usar `scripts_EN/` como esqueleto canônico e reconstruir/remapear a cena.
+
+Ao fechar lotes, se `fsn-review-tools.mjs` apontar `HERDADO EN/base`, confirme também a sincronia de labels, ordem e tags. Se tudo bater, o lote pode ser marcado como concluído com observação explícita de alerta herdado. Só trate como bloqueio quando a malformação existir apenas no PT-BR ou quando quebrar contagem, ordem, labels ou tags.
 
 Regra para cenas dessincronizadas:
 
@@ -186,7 +189,8 @@ Na varredura inicial desta pasta, estes problemas apareceram e devem ser prioriz
 6. Procurar sobras de japonês fora de tags.
 7. Procurar sobras de inglês indevidas.
 8. Procurar `�`, `Ã`, `Â`, `[l][r]` e cabeçalho `iid=`.
-9. Relatar quais linhas foram revisadas e quais problemas estruturais foram corrigidos.
+9. Separar no relatório final defeitos herdados do EN/base de defeitos introduzidos no PT-BR.
+10. Relatar quais linhas foram revisadas e quais problemas estruturais foram corrigidos.
 
 ## Comandos úteis de auditoria
 

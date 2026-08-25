@@ -1,32 +1,31 @@
 DAT
 id=qid::label=str::text=lstr::
-41564::$$$message_0313_0000_0000$$$::"A principal arma de Leysritt é um halberd."[lr]::
-41565::$$$message_0313_0000_0001$$$::É um polearm com uma lâmina de enxada, tipo o que você vê em um RPG.[br][cacheimage storage=凛巫女服02a(中)][wvl canskip=0 time=400][chgfg time=400 storage=凛巫女服02a(中) last=凛巫女服01a(中)]Vou deixar você explicar essa arma estranha."::
+41564::$$$message_0313_0000_0000$$$::"A arma principal da Leysritt é uma alabarda."[lr]::
+41565::$$$message_0313_0000_0001$$$::É uma arma de haste com uma lâmina de machado, como as que se vê em um RPG.[br][cacheimage storage=凛巫女服02a(中)][wvl canskip=0 time=400][chgfg time=400 storage=凛巫女服02a(中) last=凛巫女服01a(中)]Vou deixar você explicar sobre essa arma esquisita."::
 41566::$$$message_0313_0001_0000$$$::"...Você tem certeza?"::
-41567::$$$message_0313_0002_0000$$$::"Você tem essa!"::
-41568::$$$message_0313_0003_0000$$$::"Muito bem. [cacheimage storage=アーチャー神主01g(中)][wvl canskip=0 time=400][chgfg time=300 storage=アーチャー神主01g(中) last=アーチャー神主01i(中)]Aceito esse dever."::
-41569::$$$message_0313_0004_0000$$$::"Como você pode supor, uma pica é capaz de punhir, cortar e golpear com golpes diretos, mas é muito menos eficaz nisso do que armas mais comuns mas especializadas, como lanças, espadas e machados."::
-41570::$$$message_0313_0005_0000$$$::"Essa arma é especializada em quebrar a postura do oponente e arrastá-los ao chão. [wm canskip=0][cacheimage storage=アーチャー神主01a(近)][wvl canskip=0 time=400][chgfg time=300 storage=アーチャー神主01a(近) textoff=0]Essencialmente, ela é projetada para deixar o oponente vulnerável a um golpe de misericórdia."::
-41571::$$$message_0313_0006_0000$$$::"A forma das suas lâminas é adequada para arrancar um inimigo montado de sua montaria. Halberds são concebidos para serem facilmente manipulados para esse fim..."::
-41572::$$$message_0313_0007_0000$$$::"Mas esse haxi vai além dessas considerações.[lr]::
-41573::$$$message_0313_0007_0001$$$::Para um, é muito pesado para um homem carregar. [cacheimage storage=アーチャー神主01b(近)][wvl canskip=0 time=400][chgfg time=300 storage=アーチャー神主01b(近)]É simplesmente uma arma inumana."::
-41574::$$$message_0313_0008_0000$$$::"Se um Servo racional pegasse essa arma, ele a consideraria impraticável e a descartaria imediatamente. Seria melhor lutar [font italic=true]nua[font italic=false]."::
-41575::$$$message_0313_0009_0000$$$::"Mas este falcão é usado por um homúnculo Einzbern."::
-41576::$$$message_0313_0010_0000$$$::"Eles não experimentam fadiga e podem igualar Servos em força muscular pura. Não, eles podem até nos superar... mas seu nível de ameaça é um assunto separado. [wvl canskip=0 time=400]Vamos retornar ao haxi."::
-41577::$$$message_0313_0011_0000$$$::"A primeira vista, esse haxi não se parece muito com um adorno antigo que você poderia ver em uma parede de castelo, mas não há dúvida de que foi criado utilizando a tecnologia de ponta dos Einzbern."::
-41578::$$$message_0313_0012_0000$$$::"Não precisa dizer que eles a encantaram com uma variedade de atributos mágicos.[br][cacheimage storage=アーチャー神主01c(近)][wvl][chgfg time=300 storage=アーチャー神主01c(近)]Se um homúnculo é destinado a enfrentar um oponente com múltiplos armamentos ou um Fantasma Nobre..."::
-41579::$$$message_0313_0013_0000$$$::"Sua arma precisaria priorizar resistência em vez de afiação. Em outras palavras... [br]Ela seria forjada com ênfase em defesa e sobreviver a colisões. É armadura concebida para o ataque."::
-41580::$$$message_0313_0014_0000$$$::"Armadura ofensiva...soa como um oxímoro."::
-41581::$$$message_0313_0015_0000$$$::"...De fato. [cacheimage storage=アーチャー神主01a(近)][wvl canskip=0 time=400][loopmove both=1 time=1200 path=(518,127,255,1000)(537,144,255,1000)(559,144,255,1000)(583,127,255,1000)(559,144,255,1000)(537,144,255,1000)(518,127,255,1000) mover=RestiveMover storage=凛巫女服01m(遠) accel=1 frame=1 decel=2 spline=1][chgfg time=300 storage=アーチャー神主01a(近)]Um material adequado seria o aço tungstênio usado em balas de perfuração, mas há um metal que é ainda melhor: [wvl canskip=0 time=400]rênio."::
-41582::$$$message_0313_0016_0000$$$::"O Rênio é muito mais raro e caro que o Tungstênio, mas isso não é um problema para os Einzbern."::
-41583::$$$message_0313_0017_0000$$$::"Supostamente batizado com o nome do rio Reno, os aços baseados em rênio são mais duráveis que o tungstênio. Armas de rênio são ideais para os homúnculos totalmente desequilibrados."::
-41584::$$$message_0313_0018_0000$$$::"...Isso é pesado?"::
-41585::$$$message_0313_0019_0000$$$::"Extremamente.[br][cacheimage storage=アーチャー神主01e(近)][wvl canskip=0 time=400][chgfg time=300 storage=アーチャー神主01e(近)]É três vezes mais pesado que o ferro, e mais pesado que o chumbo e o ouro..."::
-41586::$$$message_0313_0020_0000$$$::"Você consegue imaginar ser atingido por uma arma assim?[lr]::
-41587::$$$message_0313_0020_0001$$$::Não, você não pode. Apenas isso faz com que seus inimigos os subestimem."::
-41588::$$$message_0313_0021_0000$$$::"Os homúnculos são belos em aparência, mas usam armas nunca vistas na história da guerra. Isso é o que de fato os torna inspirar terror."::
-41589::$$$message_0313_0022_0000$$$::"Você está falando como se tivesse acabado de duelar alguém."::
+41567::$$$message_0313_0002_0000$$$::"Vai nessa!"::
+41568::$$$message_0313_0003_0000$$$::"Muito bem. [cacheimage storage=アーチャー神主01g(中)][wvl canskip=0 time=400][chgfg time=300 storage=アーチャー神主01g(中) last=アーチャー神主01i(中)]Aceito este dever."::
+41569::$$$message_0313_0004_0000$$$::"Como você pode supor, uma alabarda é capaz de perfurar, cortar e dar golpes contundentes, mas é muito menos capaz nisso do que armas mais comuns, porém especializadas, como lanças, espadas e machados."::
+41570::$$$message_0313_0005_0000$$$::"Esta arma é especializada em quebrar a postura do oponente e puxá-lo para o chão. [wm canskip=0][cacheimage storage=アーチャー神主01a(近)][wvl canskip=0 time=400][chgfg time=300 storage=アーチャー神主01a(近) textoff=0]Em essência, foi projetada para tornar o oponente vulnerável a um golpe de misericórdia."::
+41571::$$$message_0313_0006_0000$$$::"O formato de suas lâminas é adequado para puxar um inimigo montado de sua montaria. As alabardas são feitas para serem facilmente empunhadas com esse propósito..."::
+41572::$$$message_0313_0007_0000$$$::"Mas esta alabarda vai além de tais considerações.[lr]::
+41573::$$$message_0313_0007_0001$$$::Em primeiro lugar, é pesada demais para um humano empunhar. [cacheimage storage=アーチャー神主01b(近)][wvl canskip=0 time=400][chgfg time=300 storage=アーチャー神主01b(近)]É simplesmente uma arma inumana."::
+41574::$$$message_0313_0008_0000$$$::"Se um Servo racional pegasse esta arma, ele a consideraria impraticável e a descartaria imediatamente. Seria melhor lutar [font italic=true]de mãos vazias[font italic=false]."::
+41575::$$$message_0313_0009_0000$$$::"Mas esta alabarda é empunhada por um homúnculo dos Einzbern."::
+41576::$$$message_0313_0010_0000$$$::"Elas não sentem fadiga, e podem se equiparar aos Servos em força muscular pura. Não, elas podem até nos superar... mas o nível de ameaça delas é outro assunto. [wvl canskip=0 time=400]Voltemos à alabarda."::
+41577::$$$message_0313_0011_0000$$$::"À primeira vista, esta alabarda não parece diferente de uma decoração antiga que se veria na parede de um castelo, mas não há dúvida de que foi criada usando a tecnologia de ponta dos Einzberns."::
+41578::$$$message_0313_0012_0000$$$::"Não é preciso dizer que eles a encantaram com uma variedade de atributos mágicos.[br][cacheimage storage=アーチャー神主01c(近)][wvl][chgfg time=300 storage=アーチャー神主01c(近)]Se um homúnculo deve enfrentar um oponente com múltiplas armas ou um Fantasma Nobre..."::
+41579::$$$message_0313_0013_0000$$$::"A sua arma precisaria priorizar a durabilidade sobre o corte. Em outras palavras...[br]Seria forjada com ênfase na defesa e na sobrevivência de embates. É uma armadura projetada para a ofensa."::
+41580::$$$message_0313_0014_0000$$$::"Armadura ofensiva... soa como um oximoro."::
+41581::$$$message_0313_0015_0000$$$::"...Certamente. [cacheimage storage=アーチャー神主01a(近)][wvl canskip=0 time=400][loopmove both=1 time=1200 path=(518,127,255,1000)(537,144,255,1000)(559,144,255,1000)(583,127,255,1000)(559,144,255,1000)(537,144,255,1000)(518,127,255,1000) mover=RestiveMover storage=凛巫女服01m(遠) accel=1 frame=1 decel=2 spline=1][chgfg time=300 storage=アーチャー神主01a(近)]Um material adequado seria o aço de tungstênio usado em munições perfurantes, mas há um metal que é ainda melhor: [wvl canskip=0 time=400]o rênio."::
+41582::$$$message_0313_0016_0000$$$::"O rênio é muito mais raro e caro que o tungstênio, mas isso não é uma preocupação para os Einzbern."::
+41583::$$$message_0313_0017_0000$$$::"Supostamente batizadas em homenagem ao Rio Reno, as ligas à base de rênio são mais duráveis que o tungstênio. Armas de rênio são ideais para os homúnculos completamente desbalanceados."::
+41584::$$$message_0313_0018_0000$$$::"...É tão pesada assim?"::
+41585::$$$message_0313_0019_0000$$$::"Extremamente.[br][cacheimage storage=アーチャー神主01e(近)][wvl canskip=0 time=400][chgfg time=300 storage=アーチャー神主01e(近)]É três vezes mais pesado que o ferro, e mais pesado que chumbo e ouro..."::
+41586::$$$message_0313_0020_0000$$$::"Consegue imaginar ser atingido por tal arma?[lr]::
+41587::$$$message_0313_0020_0001$$$::Não, você não consegue. Só isso já faz com que seus inimigos os subestimem."::
+41588::$$$message_0313_0021_0000$$$::"Os homúnculos têm uma aparência bela, mas eles empunham armas nunca antes vistas na história da guerra. É isso que verdadeiramente os faz inspirarem terror."::
+41589::$$$message_0313_0022_0000$$$::"Você está falando como se tivesse acabado de duelar contra um."::
 41590::$$$message_0313_0023_0000$$$::"...Não."::
-41591::$$$message_0313_0024_0000$$$::"Eu sonhei em possuir uma arma assim...[br]Então apenas deixei minha imaginação assumir o controle."::
+41591::$$$message_0313_0024_0000$$$::"Eu tenho sonhado em possuir uma arma dessas...[br]Então eu apenas deixei a minha imaginação tomar conta."::
 41592::$$$message_0313_0025_0000$$$::"...!"[wm canskip=0]::
-

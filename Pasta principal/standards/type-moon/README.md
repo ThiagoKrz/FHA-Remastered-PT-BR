@@ -1,5 +1,8 @@
 # Guia Operacional Type-Moon para EPUBs e Publicação no Site
 
+> **FHA Remastered (scripts .epk_dec):** o prompt canônico atual é
+> `standards/type-moon/PROMPT_AGENTE_FHA_UNIFICADO.md`.
+
 Esta pasta concentra o padrão oficial do projeto para tradução, validação, recompilação e publicação de EPUBs Type-Moon no site.
 
 ## Leitura obrigatória para LLMs

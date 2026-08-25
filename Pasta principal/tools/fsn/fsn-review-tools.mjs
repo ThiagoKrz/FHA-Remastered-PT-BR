@@ -17,6 +17,7 @@ const GLOSSARY_PATH = path.join(
 );
 
 const ROW_RE = /^(\d+)::(\$\$\$[^$]+\$\$\$)::(.*)::$/;
+const RELAXED_ROW_RE = /^(\d+)::(\$\$\$[^$]+\$\$\$)::(.*)$/;
 const TAG_RE = /\[[^\]]+\]/g;
 const JP_RE = /[ぁ-ゟ゠-ヿ一-龯]/;
 const BAD_CHAR_RE = /�|[\x00-\x08\x0B\x0C\x0E-\x1F]/;
@@ -82,7 +83,7 @@ const COMMON_EN = new Set(
 );
 
 const LORE_CASE_RE =
-  /\b(servant|servants|servo|servos|master|masters|mestre|mestres|holy grail|santo graal|guerra do santo graal|noble phantasm|fantasma nobre|fantasmas nobres|true name|nome verdadeiro|command spell|command spells|command seal|command seals|selo de comando|selos de comando|heroic spirit|esp[ií]rito heroico|esp[ií]ritos heroicos|bounded field|campo limitado)\b/i;
+  /\b(?:Servant|Servants|Master|Masters|Holy Grail|Noble Phantasm|True Name|Command Spell|Command Spells|Command Seal|Command Seals|Heroic Spirit|Heroic Spirits|Bounded Field|servant|servants|master|masters|holy grail|noble phantasm|true name|command spell|command spells|command seal|command seals|heroic spirit|heroic spirits|bounded field|servo|servos|mestre|mestres|santo graal|guerra do santo graal|fantasma nobre|fantasmas nobres|nome verdadeiro|selo de comando|selos de comando|esp[ií]rito heroico|esp[ií]ritos heroicos|campo limitado)\b/u;
 
 const WATCH_TERMS = [
   "Alteration",
@@ -298,6 +299,88 @@ function parseDat(filePath) {
   return { exists: true, filePath, header, rows, errors };
 }
 
+function malformedLineNumber(error) {
+  const match = error.match(/^Linha (\d+) malformada$/);
+  return match ? Number(match[1]) : null;
+}
+
+function rawAtLine(parsed, lineNo) {
+  const row = parsed.rows.find((candidate) => candidate.lineNo === lineNo);
+  if (row) return row.raw;
+  return parsed.header[lineNo - 1] ?? null;
+}
+
+function relaxedRowParts(raw) {
+  const match = raw?.match(RELAXED_ROW_RE);
+  if (!match) return null;
+  return { id: match[1], label: match[2], body: match[3] };
+}
+
+function malformedTrailer(raw) {
+  const parts = relaxedRowParts(raw);
+  if (!parts) return null;
+
+  const finalDelimiter = parts.body.lastIndexOf("::");
+  if (finalDelimiter !== -1 && finalDelimiter < parts.body.length - 2) {
+    return parts.body.slice(finalDelimiter + 2);
+  }
+
+  const tags = [...parts.body.matchAll(TAG_RE)];
+  if (!tags.length) return null;
+
+  const lastTag = tags.at(-1);
+  const trailer = parts.body.slice(lastTag.index + lastTag[0].length);
+  if (!trailer) return null;
+  if (/[\x00-\x1F\uFFFD]/u.test(trailer) || BAD_CHAR_RE.test(trailer)) return trailer;
+  return null;
+}
+
+function hasInheritedMalformedTrailer(ptRaw, enRaw) {
+  if (ptRaw === enRaw) return true;
+
+  const ptParts = relaxedRowParts(ptRaw);
+  const enParts = relaxedRowParts(enRaw);
+  if (!ptParts || !enParts) return false;
+  if (ptParts.id !== enParts.id || ptParts.label !== enParts.label) return false;
+
+  const ptTrailer = malformedTrailer(ptRaw);
+  const enTrailer = malformedTrailer(enRaw);
+  return Boolean(ptTrailer && enTrailer && ptTrailer === enTrailer);
+}
+
+function auditStructuralErrors(pt, en) {
+  const inheritedFromEn = [];
+  const introducedInPt = [];
+  const enOnly = [];
+
+  for (const ptError of pt.errors) {
+    const lineNo = malformedLineNumber(ptError);
+    const matchingEnError = en.errors.find((enError) => {
+      if (lineNo !== null) return malformedLineNumber(enError) === lineNo;
+      return enError === ptError;
+    });
+
+    const inherited =
+      Boolean(matchingEnError) &&
+      (lineNo === null ||
+        hasInheritedMalformedTrailer(rawAtLine(pt, lineNo), rawAtLine(en, lineNo)));
+
+    if (inherited) inheritedFromEn.push(ptError);
+    else introducedInPt.push(ptError);
+  }
+
+  for (const enError of en.errors) {
+    const lineNo = malformedLineNumber(enError);
+    const matchingPtError = pt.errors.find((ptError) => {
+      if (lineNo !== null) return malformedLineNumber(ptError) === lineNo;
+      return ptError === enError;
+    });
+    if (!matchingPtError) enOnly.push(enError);
+  }
+
+  return { inheritedFromEn, introducedInPt, enOnly };
+}
+
 function stripTags(text) {
   return text.replace(TAG_RE, "");
 }
@@ -371,12 +454,14 @@ function analyzeScene(fileName, maxItems = 30) {
   const en = parseDat(paths.en);
   const jp = parseDat(paths.jp);
   const issues = [];
+  const structuralErrorAudit = auditStructuralErrors(pt, en);
 
   if (!pt.exists) issues.push("Arquivo PT-BR ausente.");
   if (!en.exists) issues.push("Arquivo EN ausente.");
   if (!jp.exists) issues.push("Arquivo JP ausente.");
-  for (const err of pt.errors) issues.push(`PT-BR: ${err}`);
-  for (const err of en.errors) issues.push(`EN: ${err}`);
+  for (const err of structuralErrorAudit.introducedInPt) issues.push(`PT-BR: ${err}`);
+  for (const err of structuralErrorAudit.inheritedFromEn) issues.push(`HERDADO EN/base: ${err}`);
+  for (const err of structuralErrorAudit.enOnly) issues.push(`EN/base: ${err}`);
 
   let structural = null;
   let suspicious = [];
@@ -423,7 +508,14 @@ function analyzeScene(fileName, maxItems = 30) {
     }
   }
 
-  const classification = classifyScene(pt, en, structural, sameIndexMismatch, suspicious);
+  const classification = classifyScene(
+    pt,
+    en,
+    structural,
+    sameIndexMismatch,
+    suspicious,
+    structuralErrorAudit,
+  );
   return {
     fileName,
     pt,
@@ -431,6 +523,7 @@ function analyzeScene(fileName, maxItems = 30) {
     jp,
     classification,
     issues,
+    structuralErrorAudit,
     structural,
     sameIndexMismatch: sameIndexMismatch.slice(0, maxItems),
     sameIndexMismatchTotal: sameIndexMismatch.length,
@@ -439,9 +532,11 @@ function analyzeScene(fileName, maxItems = 30) {
   };
 }
 
-function classifyScene(pt, en, structural, sameIndexMismatch, suspicious) {
+function classifyScene(pt, en, structural, sameIndexMismatch, suspicious, structuralErrorAudit) {
   if (!pt.exists || !en.exists) return "BLOQUEADO: arquivo de referência ausente";
-  if (pt.errors.length || en.errors.length) return "BUG ESTRUTURAL: cabeçalho ou linhas malformadas";
+  if (structuralErrorAudit?.introducedInPt.length) {
+    return "BUG ESTRUTURAL: cabeçalho ou linhas malformadas no PT-BR";
+  }
   if (
     pt.rows.length !== en.rows.length ||
     structural?.missingInPt.length ||
@@ -451,6 +546,9 @@ function classifyScene(pt, en, structural, sameIndexMismatch, suspicious) {
     return "DESSYNC: revisar/remapear antes de traduzir";
   }
   if (suspicious.length) return "REVISÃO PONTUAL: estrutura bate, mas há linhas suspeitas";
+  if (structuralErrorAudit?.inheritedFromEn.length || structuralErrorAudit?.enOnly.length) {
+    return "OK COM ALERTA HERDADO: base EN possui linhas malformadas preservadas";
+  }
   return "OK ESTRUTURAL: pronto para revisão literária";
 }
 
@@ -520,6 +618,8 @@ function printSceneReport(report) {
     console.log("- Corrigir cabeçalho/linhas malformadas antes de qualquer revisão literária.");
   } else if (report.classification.startsWith("REVISÃO PONTUAL")) {
     console.log("- Corrigir apenas as linhas suspeitas, comparando EN e JP quando o sentido estiver duvidoso.");
+  } else if (report.classification.startsWith("OK COM ALERTA HERDADO")) {
+    console.log("- Pode fechar o lote se labels, ordem e tags batem; registrar o alerta herdado no CSV.");
   } else {
     console.log("- Seguir para revisão literária e aplicação fina do glossário.");
   }

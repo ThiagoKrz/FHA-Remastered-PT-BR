@@ -1,205 +1,204 @@
 DAT
 id=qid::label=str::text=lstr::
-43225::$$$message_0364_0000_0000$$$::Vamos voltar o tempo para pouco mais de meio ano atrás.[lr]::
-43226::$$$message_0364_0000_0001$$$::Isso é uma história de outro mundo, sobre a nascença de um Servo e seu Mestre, e a amizade entre eles.[p][nolr]::
-43227::$$$message_0364_0000_0002$$$::Ouvi meus palavras.::
-43228::$$$message_0364_0000_0003$$$::Minha vontade cria seu corpo, e sua espada cria meu destino.::
-43229::$$$message_0364_0000_0004$$$::Se você atender ao chamado do Graal e seguir este desejo e razão, então responda-me!::
-43230::$$$message_0364_0000_0005$$$::Eu juro aqui...::
+43225::$$$message_0364_0000_0000$$$::Vamos voltar no tempo para pouco mais de meio ano atrás.[lr]::
+43226::$$$message_0364_0000_0001$$$::Este é um conto de um outro mundo, do nascimento de um Servo e Mestra, e da amizade deles.[p][nolr]::
+43227::$$$message_0364_0000_0002$$$::Ouça as minhas palavras.::
+43228::$$$message_0364_0000_0003$$$::A minha vontade cria o seu corpo, e a sua espada cria o meu destino.::
+43229::$$$message_0364_0000_0004$$$::Se você atende ao chamado do Graal e obedece a essa vontade e razão, então me responda!::
+43230::$$$message_0364_0000_0005$$$::Por meio desta eu juro...::
 43231::$$$message_0364_0000_0006$$$::Você que guarda as três palavras de poder,::
-43232::$$$message_0364_0000_0007$$$::Vem à luz do círculo de vinculação, Guardiã das Escalas!::
-43233::$$$message_0364_0000_0008$$$::"Ahhhh, estou caindo!"[nolr][p]::
-43234::$$$message_0364_0000_0009$$$::"...Mmnargh. Sou um dual-wielder que começa hoje, então não me importaria em ter tanto ouro quanto prata."::
-43235::$$$message_0364_0000_0010$$$::"Mmnyargh... Não me importo com nenhuma espada listrada de tigre. Acelera e entrega-a, deusa loli.[wvs][move textoff=0 opacity=255 cx=298 layer=2 py=116 px=488 affine=(489,149,1.848,1,255,298,77)(487,211,9.782,1,255,298,77)(496,447,19.537,1,255,298,77)(500,477,-21.161,1,255,298,77)(549,362,-79.992,1,255,298,77)(782,328,-115.201,1,255,298,77)(854,434,-206.866,1,255,298,77)(893,498,-270,1,255,298,77) time=1000 cy=78 mag=1 deg=+0.0 accel=3 spline=1][move opacity=255 textoff=0 base=hf_ブルマイリヤ-ガーン cx=97 layer=0 py=115 px=134 affine=(166,205,-120,1,255,88,88)(167,354,-360,1,255,88,88)(155,404,-500,1,255,88,88)(155,405,-700,1,255,88,88)(135,406,-900,1,255,88,88)(155,407,-1200,1,255,88,88)(138,353,0,1,255,88,88)(128,341,10,1,150,88,88)(120,351,30,1,255,88,88)(114,364,100,1,255,88,88)(112,382,160,1,255,88,88) time=800 cy=78 mag=1 deg=+0.0 accel=0 spline=1 both=1][sestop storage=se348.wav time=500 nowait=true][se storage=se086.wav][wait canskip=0 time=800][quake vmax=50 hmax=50 time=2000][se storage=se230.wav][se storage=se436.wav][se storage=se152.wav][se storage=se115.wav][fadein textoff=0 noclear=1 time=200 rule=円形(中から外へ) vague=200 storage=爆発a]::
+43232::$$$message_0364_0000_0007$$$::saia do círculo de contenção, Guardião da Balança!::
+43233::$$$message_0364_0000_0008$$$::"Aaahhh, estou caindo!"[nolr][p]::
+43234::$$$message_0364_0000_0009$$$::"...Mmnargh. A partir de hoje eu sou uma usuária de empunhadura dupla, então eu não me importaria em ter tanto de ouro quanto de prata."::
+43235::$$$message_0364_0000_0010$$$::"Mmnyargh... Eu não ligo para nenhuma espada listrada de tigre. Ande logo e me entregue isso, deusa loli[wvs][move textoff=0 opacity=255 cx=298 layer=2 py=116 px=488 affine=(489,149,1.848,1,255,298,77)(487,211,9.782,1,255,298,77)(496,447,19.537,1,255,298,77)(500,477,-21.161,1,255,298,77)(549,362,-79.992,1,255,298,77)(782,328,-115.201,1,255,298,77)(854,434,-206.866,1,255,298,77)(893,498,-270,1,255,298,77) time=1000 cy=78 mag=1 deg=+0.0 accel=3 spline=1][move opacity=255 textoff=0 base=hf_ブルマイリヤ-ガーン cx=97 layer=0 py=115 px=134 affine=(166,205,-120,1,255,88,88)(167,354,-360,1,255,88,88)(155,404,-500,1,255,88,88)(155,405,-700,1,255,88,88)(135,406,-900,1,255,88,88)(155,407,-1200,1,255,88,88)(138,353,0,1,255,88,88)(128,341,10,1,150,88,88)(120,351,30,1,255,88,88)(114,364,100,1,255,88,88)(112,382,160,1,255,88,88) time=800 cy=78 mag=1 deg=+0.0 accel=0 spline=1 both=1][sestop storage=se348.wav time=500 nowait=true][se storage=se086.wav][wait canskip=0 time=800][quake vmax=50 hmax=50 time=2000][se storage=se230.wav][se storage=se436.wav][se storage=se152.wav][se storage=se115.wav][fadein textoff=0 noclear=1 time=200 rule=円形(中から外へ) vague=200 storage=爆発a]::
 43236::$$$message_0364_0000_0011$$$::[line len=2]BLARGH!?"[wait canskip=0 time=1000][stopmove]::
-43237::$$$message_0364_0001_0000$$$::"Isso é algum n-n-novo desastre natural!?"::
-43238::$$$message_0364_0002_0000$$$::"Um par de calções de ginásio surgiu do nada e me deu um chute no umbigo!"::
-43239::$$$message_0364_0003_0000$$$::"Hmm... Desculpe, eu errei.[lr]::
-43240::$$$message_0364_0003_0001$$$::[hffacechg chara=藤ねえ face=うーん layer=1 left=7 top=397 time=200][hfsweat layer=1]Vim voando porque alguém me chamou, mas tropecei nos pés quando cheguei aqui."::
-43241::$$$message_0364_0003_0002$$$::"Ainda assim, devo agradecer.[lr]::
-43242::$$$message_0364_0003_0003$$$::Obrigado por quebrar minha queda, almofada de carne."::
-43243::$$$message_0364_0003_0004$$$::"Hmm, eu não entendo muito, mas foi o meu geschehen."::
-43244::$$$message_0364_0004_0000$$$::"Quem diria que a berraca que caiu do céu era uma menina tão educada com calções de ginásio?"::
-43245::$$$message_0364_0004_0001$$$::"Não me chame de "cushion de carne" novamente.[lr]::
-43246::$$$message_0364_0004_0002$$$::Na verdade, você nem é nada educado!"::
-43247::$$$message_0364_0004_0003$$$::"Ai! Isso dói, [hfchance pos=upper][l][say storage=HSTR1_BIR_0080 _name=ブルマイリヤ]me solta, ugh, minha cabeça vai estourar, [l][say storage=HSTR1_BIR_0090 _name=ブルマイリヤ][hfchance pos=upper]vai se abrir![hfstopquake layer=message0]"[nolr]::
-43248::$$$message_0364_0005_0000$$$::"Ah, entendi! Você é um gorila!"::
-43249::$$$message_0364_0005_0001$$$::"Cavalo e dragão são tais cavalos velhos, mas você é parte da nova onda! O Cavaleiro Gorila!"::
-43250::$$$message_0364_0005_0002$$$::"Ó deus, me mate agora![lr]::
-43251::$$$message_0364_0005_0003$$$::Não quero me unir a um Servo tão envergonhante assim!"::
-43252::$$$message_0364_0005_0004$$$::"Eeek! Não quero lutar contra algo assim também![lr]::
-43253::$$$message_0364_0005_0005$$$::...Espere."::
+43237::$$$message_0364_0001_0000$$$::"Isso é algum d-d-desastre natural moderno!?"::
+43238::$$$message_0364_0002_0000$$$::"Um par de shorts de ginástica apareceu do nada e me deu uma voadora no plexo solar!"::
+43239::$$$message_0364_0003_0000$$$::"Uh... Desculpe por isso. Eu errei.[lr]::
+43240::$$$message_0364_0003_0001$$$::[hffacechg chara=藤ねえ face=うーん layer=1 left=7 top=397 time=200][hfsweat layer=1]Vim voando porque alguém chamou, mas tropecei nos próprios pés quando cheguei aqui."::
+43241::$$$message_0364_0003_0002$$$::"Mesmo assim, eu deveria agradecê-la.[lr]::
+43242::$$$message_0364_0003_0003$$$::Obrigada por amortecer a minha queda, almofada de carne."::
+43243::$$$message_0364_0003_0004$$$::"Hum, eu não entendi muito bem, mas foi o meu geschehen."::
+43244::$$$message_0364_0004_0000$$$::"Quem diria que a aberração caindo do céu seria uma garotinha tão educada de shorts de ginástica?"::
+43245::$$$message_0364_0004_0001$$$::"Mas não me chame mais de 'almofada de carne'.[lr]::
+43246::$$$message_0364_0004_0002$$$::Na verdade, você não é nem um pouco educada!"::
+43247::$$$message_0364_0004_0003$$$::"Ai! Isso dói, [hfchance pos=upper][l][say storage=HSTR1_BIR_0080 _name=ブルマイリヤ]me solta, ai, a minha cabeça vai partir ao meio, [l][say storage=HSTR1_BIR_0090 _name=ブルマイリヤ][hfchance pos=upper]vai rachar![hfstopquake layer=message0]"[nolr]::
+43248::$$$message_0364_0005_0000$$$::"Ah, eu entendi! Você é um gorila!"::
+43249::$$$message_0364_0005_0001$$$::"Cavalos e dragões são montarias tão antiquadas, mas você faz parte da nova onda! A Montadora de Gorilas!"::
+43250::$$$message_0364_0005_0002$$$::"Oh Deus, me mate logo![lr]::
+43251::$$$message_0364_0005_0003$$$::Eu não quero formar uma equipe com um Servo constrangedor como esse!"::
+43252::$$$message_0364_0005_0004$$$::"Eek! Eu não quero lutar contra algo assim também![lr]::
+43253::$$$message_0364_0005_0005$$$::...Espera aí."::
 43254::$$$message_0364_0005_0006$$$::"Que Servo?[lr]::
-43255::$$$message_0364_0005_0007$$$::Você é o que foi convocado. Não isso te torna um Servo?"::
-43256::$$$message_0364_0005_0008$$$::"O que você está falando? Fui convidado aqui como Mestre. Havia uma vaga aberta, então me pediram para preenchê-la como um mágico."::
-43257::$$$message_0364_0005_0009$$$::"Espere, eu achei que havia convocado o Servo que queria ao vir aqui, mas..."::
-43258::$$$message_0364_0005_0010$$$::"Um... (olha ao redor)"::
-43259::$$$message_0364_0005_0011$$$::"Hmm... (cabeça girando)"::
-43260::$$$message_0364_0005_0012$$$::"Ninguém mais está aqui.[lr]::
-43261::$$$message_0364_0005_0013$$$::Isso só faz sentido, já que você é meu Servo."[wm canskip=0]::
-43262::$$$message_0364_0005_0014$$$::"Isso é bobagem![lr]::
-43263::$$$message_0364_0005_0015$$$::Prepotente! Está me dizendo que devo servir essa meninazinha, ó deuses de Babilônia!?"::
-43264::$$$message_0364_0005_0016$$$::"...Não seria melhor se eu fosse o Mestre e a pequena garota fosse o Servo?"::
-43265::$$$message_0364_0005_0017$$$::"Hmm, isso poderia ter voado há um século."::
-43266::$$$message_0364_0005_0018$$$::"Mas agora vivemos em uma era de degeneração.[lr]::
-43267::$$$message_0364_0005_0019$$$::Eles dizem que o pequeno que domina o grande é moe de primeira qualidade. Você entendeu?"::
-43268::$$$message_0364_0005_0020$$$::"Hmm, uma velha como eu não consegue acompanhar vocês, jovens."::
-43270::$$$message_0364_0005_0022$$$::"Não consigo adivinhar sua idade.[lr]::
-43271::$$$message_0364_0005_0023$$$::Não me diga que há uma tampa nas suas costas de onde um velho gato esperto poderia surgir."::
-43272::$$$message_0364_0005_0024$$$::"...Você acha que eu pareço um mascote de parque de diversões com você?"::
-43273::$$$message_0364_0005_0025$$$::"Você não está completamente errado, acho que sim.[lr]::
-43274::$$$message_0364_0005_0026$$$::Nenhum de nós é do tipo que luta de frente para frente, então por que não você simplesmente se comporta e obedece a mim?"::
-43275::$$$message_0364_0005_0027$$$::"Me aside, você é do tipo de pessoa que tem que viver encontrando os ângulos mais estranhos para atacar."::
-43276::$$$message_0364_0005_0028$$$::"Você tem razão.[lr]::
-43277::$$$message_0364_0005_0029$$$::...Você é bem persuasivo, apesar daquela cara de bebê."::
-43278::$$$message_0364_0006_0000$$$::"Você sabe, estou começando a sentir que você também é meu Mestre."::
+43255::$$$message_0364_0005_0007$$$::Você é quem foi convocada. Isso não faz de você a Serva?"::
+43256::$$$message_0364_0005_0008$$$::"Do que você está falando? Fui convidada para cá como uma Mestra. Tinha uma vaga em aberto, então me pediram para preenchê-la como uma maga."::
+43257::$$$message_0364_0005_0009$$$::"Espera, eu achei que tivesse convocado a Serva que eu queria no caminho até aqui, mas..."::
+43258::$$$message_0364_0005_0010$$$::"Hum... (olha ao redor)"::
+43259::$$$message_0364_0005_0011$$$::"Uh... (vira a cabeça)"::
+43260::$$$message_0364_0005_0012$$$::"Não tem mais ninguém aqui.[lr]::
+43261::$$$message_0364_0005_0013$$$::Sendo assim, você deve ser a minha Serva."[wm canskip=0]::
+43262::$$$message_0364_0005_0014$$$::"Isso é um absurdo![lr]::
+43263::$$$message_0364_0005_0015$$$::Inacreditável! Você está me dizendo para servir essa garotinha, ó deuses da Babilônia!?"::
+43264::$$$message_0364_0005_0016$$$::"...Não seria uma cena melhor se eu fosse a Mestra e a garotinha fosse a Serva?"::
+43265::$$$message_0364_0005_0017$$$::"Hum, isso poderia ter colado há um século atrás."::
+43266::$$$message_0364_0005_0018$$$::"Mas agora nós vivemos numa era de degeneração.[lr]::
+43267::$$$message_0364_0005_0019$$$::Dizem que os pequenos governando os grandes é a coisa mais 'moe' que existe. Você me entende?"::
+43268::$$$message_0364_0005_0020$$$::"Hrumm, uma velha coroca como eu não consegue acompanhar vocês, jovens."::
+43270::$$$message_0364_0005_0022$$$::"Eu não consigo decifrar a sua idade.[lr]::
+43271::$$$message_0364_0005_0023$$$::Não me diga que há uma escotilha nas suas costas da qual uma velha raposa astuta pode surgir."::
+43272::$$$message_0364_0005_0024$$$::"...Eu pareço uma mascote de parque temático para você?"::
+43273::$$$message_0364_0005_0025$$$::"Acho que você não está totalmente errada.[lr]::
+43274::$$$message_0364_0005_0026$$$::Nenhuma de nós é do tipo que luta frente a frente, então por que você simplesmente não se comporta e me obedece?"::
+43275::$$$message_0364_0005_0027$$$::"Deixando a mim de lado, você é o tipo de pessoa que tem que viver encontrando os ângulos mais bizarros para atacar."::
+43276::$$$message_0364_0005_0028$$$::"Isso é verdade.[lr]::
+43277::$$$message_0364_0005_0029$$$::...Você é bem persuasiva, apesar desse rosto de bebê."::
+43278::$$$message_0364_0006_0000$$$::"Sabe, estou começando a sentir que você também é a Mestra."::
 43279::$$$message_0364_0006_0001$$$::"Fico feliz que concorde.[lr]::
-43280::$$$message_0364_0006_0002$$$::Vamos nos apresentar, então. Sou Illyasviel. [l][say storage=HSTR1_BIR_0300 _name=ブルマイリヤ][hffacechg chara=ブルマイリヤ face=楽3 layer=0 time=200]Você pode me chamar de Illya por curto."::
-43281::$$$message_0364_0006_0003$$$::"E você? Poderia me dizer apenas sua classe, mas qual é seu Nome Verdadeiro?"::
-43282::$$$message_0364_0006_0004$$$::"Hmm. Hm... [l][hffacechg chara=藤ねえ face=うーん layer=1 time=200][hfsweat layer=1][hfquake layer=message1 wait=0 hmax=3 vmax=4][say storage=HSTR1_TIG_0260 _name=藤ねえ]Hmmmmmm."::
-43283::$$$message_0364_0006_0005$$$::"Espere um momento, não me diga..."::
-43284::$$$message_0364_0006_0006$$$::"De fato. Não me lembro de nada. Mas estou certo de que minha classe é Sa...ber...?[lr]::
-43285::$$$message_0364_0006_0007$$$::E minha especialidade é... charmes femininos...?"::
-43286::$$$message_0364_0006_0008$$$::"Não tem jeito. Você não é Saber, nem é encantador."::
-43287::$$$message_0364_0006_0009$$$::"Você é um Mestre tão cruel, Illya![lr]::
-43288::$$$message_0364_0006_0010$$$::Você não acredita no seu próprio Servo?"::
-43290::$$$message_0364_0006_0012$$$::"Eu acredito em 100% que você [font italic=true]é[font italic=false] um Servo."::
-43291::$$$message_0364_0006_0013$$$::"Mas eu não sei o que você consegue fazer, ainda.[lr]::
-43292::$$$message_0364_0006_0014$$$::Vou confiar em você assim que souber quais habilidades meu Espírito Heroico possui."::
-43293::$$$message_0364_0006_0015$$$::"Você realmente não se lembra de nada? Nem mesmo seu nome?"::
-43294::$$$message_0364_0007_0000$$$::"Isso é bastante incrível... Normalmente as pessoas dizem isso para esconder algo que não querem explicar."::
-43295::$$$message_0364_0007_0001$$$::"Hmm. Você tem um olhar gelado de observação."::
-43296::$$$message_0364_0007_0002$$$::"Mas... [l] [hfchance layer=1] [say storage=HSTR1_TIG_0340 _name=藤ねえ] mas eu realmente não sei! Eu também gostaria de saber qual classe sou!"::
-43297::$$$message_0364_0007_0003$$$::"Hmm, então você nem sabe qual Servo é. ...Hehe, como isso é interessante. Estou ansioso para ver você descobrir."::
+43280::$$$message_0364_0006_0002$$$::Vamos nos apresentar, então. Sou Illyasviel. [l][say storage=HSTR1_BIR_0300 _name=ブルマイリヤ][hffacechg chara=ブルマイリヤ face=楽3 layer=0 time=200]Você pode me chamar de Illya."::
+43281::$$$message_0364_0006_0003$$$::"E você? Poderia me dizer só a sua classe, mas qual é o seu Nome Verdadeiro?"::
+43282::$$$message_0364_0006_0004$$$::"Hum. Hmmm. [l][hffacechg chara=藤ねえ face=うーん layer=1 time=200][hfsweat layer=1][hfquake layer=message1 wait=0 hmax=3 vmax=4][say storage=HSTR1_TIG_0260 _name=藤ねえ]Hmmmmmm."::
+43283::$$$message_0364_0006_0005$$$::"Espere um minuto, não me diga que..."::
+43284::$$$message_0364_0006_0006$$$::"Isso mesmo. Eu não me lembro de nada. Mas tenho certeza de que a minha classe é Sa...ber...?[lr]::
+43285::$$$message_0364_0006_0007$$$::E a minha arma de especialidade são... os charmes femininos...?"::
+43286::$$$message_0364_0006_0008$$$::"De jeito nenhum. Você não é Saber, e nem é charmosa."::
+43287::$$$message_0364_0006_0009$$$::"Você é uma Mestra tão malvada, Illya![lr]::
+43288::$$$message_0364_0006_0010$$$::Você não acredita na sua própria Serva!?"::
+43290::$$$message_0364_0006_0012$$$::"Eu acredito cem por cento que você [font italic=true]é[font italic=false] uma Serva."::
+43291::$$$message_0364_0006_0013$$$::"Mas eu ainda não sei o que você pode fazer.[lr]::
+43292::$$$message_0364_0006_0014$$$::Confiarei em você assim que souber quais habilidades o meu Espírito Heroico tem."::
+43293::$$$message_0364_0006_0015$$$::"Você realmente não se lembra de nada? Nem mesmo do seu nome?"::
+43294::$$$message_0364_0007_0000$$$::"Isso é meio inacreditável... Normalmente as pessoas dizem isso para encobrir algo que não querem explicar."::
+43295::$$$message_0364_0007_0001$$$::"Ufa. Você tem um olhar frio para a observação."::
+43296::$$$message_0364_0007_0002$$$::"Mas...[l][hfchance layer=1][say storage=HSTR1_TIG_0340 _name=藤ねえ]mas eu realmente não sei! Eu também gostaria de saber de que classe eu sou!"::
+43297::$$$message_0364_0007_0003$$$::"Hã, então você nem sabe de qual Servo é. ...Hehe, que interessante. Estou ansiosa para ver você descobrir isso."::
 43298::$$$message_0364_0007_0004$$$::"Você sabe? Então me diga.[lr]::
-43299::$$$message_0364_0007_0005$$$::[hffacechg chara=藤ねえ face=まったく2 layer=1 time=200][hfsigh layer=1]Não importa realmente qual classe eu seja, mas saber isso me faria se sentir melhor."::
-43300::$$$message_0364_0007_0006$$$::"Não! Tudo tem que seguir a troca equivalente.[lr]::
-43301::$$$message_0364_0007_0007$$$::[hffacechg chara=ブルマイリヤ face=ふっ time=200][hfstamp layer=0]Vou te contar uma vez que você me contar o que está escondendo. Vou contar até sua própria carne e sangue."::
-43302::$$$message_0364_0007_0008$$$::"Kuh! Essas malditas charmes não vão funcionar comigo, você essa pequena inferno!"::
-43303::$$$message_0364_0007_0009$$$::"Eu não estou escondendo nada, de verdade![lr]::
-43304::$$$message_0364_0007_0010$$$::Lembro do meu Nome Verdadeiro, mas estou guardando segredo porque totalmente planejo te trair!"::
+43299::$$$message_0364_0007_0005$$$::[hffacechg chara=藤ねえ face=まったく2 layer=1 time=200][hfsigh layer=1]Não importa muito qual classe eu seja, mas saber disso me faria sentir melhor."::
+43300::$$$message_0364_0007_0006$$$::"Não! Tudo tem que seguir uma troca equivalente.[lr]::
+43301::$$$message_0364_0007_0007$$$::[hffacechg chara=ブルマイリヤ face=ふっ time=200][hfstamp layer=0]Eu te conto assim que você me contar o que você está escondendo. Toda a verdade, nua e crua."::
+43302::$$$message_0364_0007_0008$$$::"Guh! Esses charmes diabólicos não vão funcionar em mim, sua diabinha!"::
+43303::$$$message_0364_0007_0009$$$::"E-eu não estou escondendo nada, sério![lr]::
+43304::$$$message_0364_0007_0010$$$::Eu me lembro do meu Nome Verdadeiro, mas estou mantendo isso em segredo porque eu planejo totalmente te trair!"::
 43305::$$$message_0364_0007_0011$$$::"..."::
-43306::$$$message_0364_0007_0012$$$::"Oh [wvs][hfchance layer=1][say storage=HSTR1_TIG_0430 _name=藤ねえ]caralho, eu disse a parte calma em voz alta!"::
-43307::$$$message_0364_0007_0013$$$::"Mas ser muito honesto e não guardar segredos também é uma pequena virtude, então meu Mestre pode se acalmar![heart]"::
-43308::$$$message_0364_0007_0014$$$::"...Você realmente é um Serva sincero."::
-43309::$$$message_0364_0007_0015$$$::"Tudo bem, vou garantir que reserve um Selo de Mando. Meu último comando será fazer você correr em volta de uma árvore para o resto da sua vida.[humming]"::
-43310::$$$message_0364_0007_0016$$$::"Eek![whitestar] Isso é só como meu Mestre responde a piadas sombrias com mais humor sombrio. Muito reconfortante."::
-43311::$$$message_0364_0007_0017$$$::"Gahhh, vou usar todos eles até o último momento se for preciso."::
-43312::$$$message_0364_0007_0018$$$::"...Vá em frente. É assim que é ser Mestre e Servo, de qualquer forma."::
-43313::$$$message_0364_0007_0019$$$::"Ainda que eu não saiba seu nome, não saberia como te chamar, muito menos pensar em estratégias. Você ao menos se lembra do estilo de luta que é bom, ou algo do tipo?"::
-43314::$$$message_0364_0007_0020$$$::"Hmm. Se tivesse que dizer, é Tora.[lr]::
-43315::$$$message_0364_0007_0021$$$::É, você pode me chamar de Servo Tora!"::
-43316::$$$message_0364_0007_0022$$$::"Tora? Oh, como um tigre? Vou chamar você de Taiga então."::
-43317::$$$message_0364_0007_0023$$$::"Gah! Por que você está mudando para japonês!?![lr]::
-43318::$$$message_0364_0007_0024$$$::Você é alemão, então pelo menos diga "der Tiger" como um alemão faria!"::
-43319::$$$message_0364_0007_0025$$$::"Taiga é mais curta e mais doce. Lembra do que eu disse sobre o pequeno governar o grande?"::
-43320::$$$message_0364_0008_0000$$$::"Vamos, Taiga. Primeiro, precisamos nos reportar à igreja conforme combinado."::
-43321::$$$message_0364_0008_0001$$$::"Waaaah![lr]::
+43306::$$$message_0364_0007_0012$$$::"Ah, [wvs][hfchance layer=1][say storage=HSTR1_TIG_0430 _name=藤ねえ]droga, eu falei a parte confidencial em voz alta!"::
+43307::$$$message_0364_0007_0013$$$::"Mas ser honesto demais para guardar segredos também é uma virtude, então a minha Mestra pode ficar tranquila![heart]"::
+43308::$$$message_0364_0007_0014$$$::"...Você realmente é uma Serva honesta."::
+43309::$$$message_0364_0007_0015$$$::"Tudo bem, me certificarei de reservar um Feitiço de Comando. Minha última ordem será para fazer você correr em volta de uma árvore pelo resto da sua vida.[humming]"::
+43310::$$$message_0364_0007_0016$$$::"Eek![whitestar] É bem a cara da minha Mestra responder a piadas de humor negro com mais humor negro. Que reconfortante."::
+43311::$$$message_0364_0007_0017$$$::"Gahhh, eu farei você usar todos eles, mesmo que seja a última coisa que eu faça."::
+43312::$$$message_0364_0007_0018$$$::"...Vá em frente. De qualquer forma, é isso o que significa ser Mestre e Servo."::
+43313::$$$message_0364_0007_0019$$$::"Mesmo assim, se eu não souber o seu nome, não saberei como chamá-la, muito menos bolar estratégias. Pelo menos você se lembra do estilo de luta em que é boa, ou algo assim?"::
+43314::$$$message_0364_0007_0020$$$::"Hum. Se eu tivesse que dizer, é Tora.[lr]::
+43315::$$$message_0364_0007_0021$$$::Sim, você pode me chamar de Serva Tora!"::
+43316::$$$message_0364_0007_0022$$$::"Tora? Ah, tipo tigre? Então eu vou te chamar de Taiga."::
+43317::$$$message_0364_0007_0023$$$::"Gah! Por que você está mudando para o japonês!?[lr]::
+43318::$$$message_0364_0007_0024$$$::Você é alemã, então pelo menos diga 'der tiger' como uma alemã diria!"::
+43319::$$$message_0364_0007_0025$$$::"Taiga é mais curto e mais doce. Lembra do que eu falei sobre os pequenos governarem os grandes?"::
+43320::$$$message_0364_0008_0000$$$::"Vamos lá, Taiga. Primeiro, nós precisamos nos apresentar à igreja conforme o combinado."::
+43321::$$$message_0364_0008_0001$$$::"Waaaaah![lr]::
 43322::$$$message_0364_0008_0002$$$::Não me chame de Taiga!!!"[nolr][p]::
-43323::$$$message_0364_0008_0003$$$::"Entendi.[lr]::
-43324::$$$message_0364_0008_0004$$$::Então só precisamos derrotar as outras seis equipes?"::
-43325::$$$message_0364_0008_0005$$$::"É. Os outros Mestres cada um tem estrelas, então precisamos derrotá-los e tomar as estrelas para nós mesmos."::
-43326::$$$message_0364_0008_0006$$$::"A Santa Cúpula aparecerá para a equipe que possuir os sete estrelas e conceder nosso desejo."::
-43327::$$$message_0364_0008_0007$$$::"Eu [l][hfchance layer=1][say storage=HSTR1_TIG_0570 _name=藤ねえ]inacreditável... Então você quer dizer que se conseguirmos o Santo Graal, não será um sonho impossível conseguir nossos próprios caminhos!?"::
-43328::$$$message_0364_0008_0008$$$::"Claro! Você pode ser uma heroína de escola, uma heroína de mistério criminal ou até mesmo uma heroína que domina o mundo! Tudo está nas palmas da sua mão!"::
-43329::$$$message_0364_0008_0009$$$::"...Heh. Parece que nossos desejos coincidem, Taiga. Tenho certeza de que não nos escolhemos um pelo outro primeiro, mas por que não trabalhamos em um objetivo compartilhado por enquanto?"::
-43330::$$$message_0364_0008_0010$$$::"Seremos um só em mente e corpo até que obtenhamos o Santo Graal. Nada de mentira nisso!"::
-43331::$$$message_0364_0008_0011$$$::"Hehehe. Só até que consigamos o Santo Graal, claro!"::
-43332::$$$message_0364_0008_0012$$$::"Sim, claro. Há apenas um Santo Graal, afinal de contas."[nolr][p]::
-43333::$$$message_0364_0008_0013$$$::"Tudo bem, vamos lá! [l][hfchance layer=1][say storage=HSTR1_TIG_0620 _name=藤ねえ]O objetivo: uma utopia só para nós!"::
-43334::$$$message_0364_0008_0014$$$::"Nenhuma objeção de minha parte! [hfchance layer=0][lr]::
-43335::$$$message_0364_0008_0015$$$::Vamos eliminar quem se meter no nosso caminho!"::
+43323::$$$message_0364_0008_0003$$$::"Entendo.[lr]::
+43324::$$$message_0364_0008_0004$$$::Então nós só precisamos derrotar as outras seis equipes?"::
+43325::$$$message_0364_0008_0005$$$::"Isso mesmo. Cada um dos outros Mestres tem uma estrela, então nós precisamos derrotá-los e tomar as estrelas para nós."::
+43326::$$$message_0364_0008_0006$$$::"O Santo Graal aparecerá para a equipe que tiver todas as sete estrelas e concederá o nosso desejo."::
+43327::$$$message_0364_0008_0007$$$::"I-[l][hfchance layer=1][say storage=HSTR1_TIG_0570 _name=藤ねえ]inacreditável... Então você quer dizer que se nós conseguirmos o Santo Graal, conseguir as nossas próprias rotas não será apenas um sonho inalcançável!?"::
+43328::$$$message_0364_0008_0008$$$::"É claro que não! Você pode ser uma heroína de escola, uma heroína de mistério de assassinato, ou até mesmo uma heroína de dominação mundial! Estará tudo na palma da sua mão!"::
+43329::$$$message_0364_0008_0009$$$::"...Heh. Parece que os nossos desejos se alinham, Taiga. Tenho certeza de que não fomos a primeira escolha uma da outra, mas por que não trabalhamos rumo a um objetivo em comum por enquanto?"::
+43330::$$$message_0364_0008_0010$$$::"Nós teremos uma só mente e um só corpo até conseguirmos o Santo Graal. Sem mentiras!"::
+43331::$$$message_0364_0008_0011$$$::"Hehehe. Ou seja, apenas até nós conseguirmos o Santo Graal!"::
+43332::$$$message_0364_0008_0012$$$::"Sim, claro. Afinal, só existe um Santo Graal."[nolr][p]::
+43333::$$$message_0364_0008_0013$$$::"Tudo bem, vamos fazer isso! [l][hfchance layer=1][say storage=HSTR1_TIG_0620 _name=藤ねえ]O objetivo: uma utopia só para nós!"::
+43334::$$$message_0364_0008_0014$$$::"Sem argumentos da minha parte! [hfchance layer=0][lr]::
+43335::$$$message_0364_0008_0015$$$::Nós vamos varrer qualquer um que se meter no nosso caminho!"::
 43336::$$$message_0364_0009_0000$$$::"Hehe."[nolr][p]::
-43337::$$$message_0364_0009_0001$$$::"Hehehe." [nolr][p][say storage=HSTR1_TWP_0000 _name=ブルマイリヤと藤ねえ][textspeed mul=0.4][hfu][cm][texton]"[hfl]"[hfu]Ele[hfl]Ele[hfu]ele[hfl]ele[hfu]ele[hfl]ele[hfu]ele[hfl]ele[hfu]ele[hfl]ele[hfu]ele[hfl]ele[hfu]ele[hfl]ele[hfu]ele[hfl]ele[hfu]ele[hfl]ele[hfu]ele[hfl]ele[hfu]ele[hfl]ele[hfu]...[hfl]...[hfu]...[hfl]...[hfu]...[hfl]...[hfu]...[hfl]...[hfu]![hfl]![hfu]![hfl]![hfu]![hfl]![hfu]![hfl]![hfu]![hfl]![hfu]"[hfl]"[textspeed][nolr][p]::
-43338::$$$message_0364_0009_0002$$$::"Então, Taiga e eu entraremos como time."::
-43339::$$$message_0364_0010_0000$$$::"Temos Selos de Mando e um Servo, então certamente não há problema."::
-43340::$$$message_0364_0010_0001$$$::"...Não é minha função dizer isso.[lr]::
-43341::$$$message_0364_0010_0002$$$::Os Servos já estão reunidos, e há sempre exceções para todas as regras."::
-43342::$$$message_0364_0010_0003$$$::"Muito bem. Se busca o Santo Graal, então use seu desejo para devorar os desejos dos outros."::
-43343::$$$message_0364_0010_0004$$$::"Hmm? A nossa prece comeu os outros?[lr]::
-43344::$$$message_0364_0010_0005$$$::Um, eu achei que você era suposto dar porrada em outras pessoas numa Guerra do Santo Graal. Que conversa é essa, Shaggy?"::
-43345::$$$message_0364_0010_0006$$$::"Isso é um novo tic de fala?[lr]::
-43346::$$$message_0364_0010_0007$$$::Shaggy... Não é da minha cara, mas pode combinar com você."::
-43347::$$$message_0364_0010_0008$$$::"Não é um tic, Shaggy."::
-43348::$$$message_0364_0011_0000$$$::"Taiga, Kotomine está nos dizendo que podemos ser tão egoístas quanto quisermos e fazer o que quisermos com os outros."::
-43349::$$$message_0364_0011_0001$$$::"De verdade? Huh.[lr]::
-43350::$$$message_0364_0011_0002$$$::Bem, Illya, por que Shaggy está fazendo essa cara?"::
-43351::$$$message_0364_0011_0003$$$::"Parece que algo desafortunado aconteceu com ele.[lr]::
-43352::$$$message_0364_0011_0004$$$::Como se tivesse largado sua carteira, ou nem tivesse aparecido na história principal."::
+43337::$$$message_0364_0009_0001$$$::"Hehehe." [nolr][p][say storage=HSTR1_TWP_0000 _name=ブルマイリヤと藤ねえ][textspeed mul=0.4][hfu][cm][texton]"[hfl]"[hfu]He[hfl]He[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]...[hfl]...[hfu]...[hfl]...[hfu]...[hfl]...[hfu]...[hfl]...[hfu]![hfl]![hfu]![hfl]![hfu]![hfl]![hfu]![hfl]![hfu]![hfl]![hfu]"[hfl]"[textspeed][nolr][p]::
+43338::$$$message_0364_0009_0002$$$::"De qualquer forma, eu e a Taiga entraremos como uma equipe."::
+43339::$$$message_0364_0010_0000$$$::"Nós temos Feitiços de Comando e um Servo, então com certeza não há problema algum."::
+43340::$$$message_0364_0010_0001$$$::"...Não cabe a mim dizer.[lr]::
+43341::$$$message_0364_0010_0002$$$::Os Servos já estão reunidos, e sempre há exceções a toda regra."::
+43342::$$$message_0364_0010_0003$$$::"Muito bem. Se buscam o Santo Graal, então usem o seu desejo para devorar os desejos dos outros."::
+43343::$$$message_0364_0010_0004$$$::"Hã? Fazer o nosso desejo devorar os outros?[lr]::
+43344::$$$message_0364_0010_0005$$$::Hum, eu pensei que deveríamos bater em outras pessoas numa Guerra do Santo Graal. De que diabos cê tá falando, Salsicha?"::
+43345::$$$message_0364_0010_0006$$$::"Isso é um novo tique de fala?[lr]::
+43346::$$$message_0364_0010_0007$$$::Salsicha... Não é do meu gosto, mas talvez combine com você."::
+43347::$$$message_0364_0010_0008$$$::"Não é um tique, Salsicha."::
+43348::$$$message_0364_0011_0000$$$::"Taiga, Kotomine está nos dizendo para sermos tão egoístas quanto nós quisermos e fazermos o que bem entendermos com os outros."::
+43349::$$$message_0364_0011_0001$$$::"Sério? Hã.[lr]::
+43350::$$$message_0364_0011_0002$$$::De qualquer forma, Illya, por que o Salsicha está fazendo essa cara?"::
+43351::$$$message_0364_0011_0003$$$::"Parece que algo azarado aconteceu com ele.[lr]::
+43352::$$$message_0364_0011_0004$$$::Como se ele tivesse deixado a carteira cair, ou como se ele nem pudesse aparecer na história principal."::
 43353::$$$message_0364_0011_0005$$$::"..."::
-43354::$$$message_0364_0011_0006$$$::"Shh! Não diga isso, Taiga. Você não deveria falar assim de pessoas diante deles."::
-43355::$$$message_0364_0011_0007$$$::"Isso é só a cara de repouso do Kotomine. Ele sempre está triste. Você consegue perceber a olhar que ele é o cérebro por trás de tudo. Seu cabelo em pico sempre fica todo desarrumado, não importa o produto que use nele."::
+43354::$$$message_0364_0011_0006$$$::"Shh! Não diga isso, Taiga. Você não deveria falar assim das pessoas na frente delas."::
+43355::$$$message_0364_0011_0007$$$::"Essa é apenas a cara normal do Kotomine. Ele é sempre sombrio. Dá para perceber de relance que ele é o cérebro por trás de tudo. O mullet dele sempre fica todo arrepiado, não importa o produto que ele use."::
 43356::$$$message_0364_0011_0008$$$::"Não que alguém se importe, dada a personalidade dele."::
 43357::$$$message_0364_0011_0009$$$::"..."::
-43358::$$$message_0364_0011_0010$$$::"Viu? Parece que o incomoda um pouco. Devemos abandonar esse assunto."::
-43359::$$$message_0364_0011_0011$$$::"Ohhh. Achei que poderíamos nos unir por sermos alvo de piadas, mas acho que devo parar."::
-43360::$$$message_0364_0011_0012$$$::"É sim, deve ser muito chato pegar o fungo que impede o uso de tela."::
-43361::$$$message_0364_0011_0013$$$::"...Isso é tudo o que você tinha a dizer?[lr]::
-43362::$$$message_0364_0011_0014$$$::Então, saia imediatamente. Tenho certeza de que não preciso explicar as regras para você."::
-43363::$$$message_0364_0011_0015$$$::"Como vocês me mostraram sobre si mesmos, basta vagar pela cidade e escolher brigas com outros Mestres conforme julgarem conveniente."::
-43364::$$$message_0364_0011_0016$$$::"Senhor, sim, senhor![lr]::
-43365::$$$message_0364_0011_0017$$$::Eu gosto do jeito como você pensa!"::
-43366::$$$message_0364_0012_0000$$$::"Eu sabia que você veria do meu jeito, Pai![lr]::
-43367::$$$message_0364_0012_0001$$$::Conversamos só por alguns minutos, mas você me entendeu totalmente!"::
-43368::$$$message_0364_0012_0002$$$::"Você me dá muito crédito.[lr]::
-43369::$$$message_0364_0012_0003$$$::Sou bom em ler pessoas devido à natureza do meu trabalho, mas não consigo avaliar algo que não tem valor."::
-43370::$$$message_0364_0012_0004$$$::"Zero vezes qualquer número continua zero.[lr]::
-43371::$$$message_0364_0012_0005$$$::Eu jamais afirmaria ter a sua medida."::
-43372::$$$message_0364_0012_0006$$$::"Ah, diabos. Você me deixou vermelho."::
-43373::$$$message_0364_0012_0007$$$::"Hmm. Na verdade, você não está tão ruim assim.[br]::
-43374::$$$message_0364_0012_0008$$$::Acho que o meu coração pode pular um batimento."::
-43375::$$$message_0364_0013_0000$$$::"Vamos sair para um drinque em algum momento, como atores de figurino com pouca cena?"::
-43376::$$$message_0364_0013_0001$$$::"Também quero raspar aquele mullet."::
+43358::$$$message_0364_0011_0010$$$::"Viu? Parece que isso o incomoda um pouco. Deveríamos mudar de assunto."::
+43359::$$$message_0364_0011_0011$$$::"Ahhh. Eu pensei que nós poderíamos nos dar bem por sermos o alvo das piadas, mas acho que é melhor eu parar."::
+43360::$$$message_0364_0011_0012$$$::"Sim, deve ser muito chato ser infectado com o fungo da falta de tempo de tela."::
+43361::$$$message_0364_0011_0013$$$::"...É só isso que tinham para dizer?[lr]::
+43362::$$$message_0364_0011_0014$$$::Então vão embora imediatamente. Tenho certeza que não preciso lhes explicar as regras."::
+43363::$$$message_0364_0011_0015$$$::"Como me mostraram que vocês são, basta vocês andarem pela cidade e arranjarem briga com os outros Mestres como bem entenderem."::
+43364::$$$message_0364_0011_0016$$$::"Senhor, sim senhor![lr]::
+43365::$$$message_0364_0011_0017$$$::Gosto da sua maneira de pensar!"::
+43366::$$$message_0364_0012_0000$$$::"Eu sabia que você veria as coisas do meu jeito, Padre![lr]::
+43367::$$$message_0364_0012_0001$$$::Nós nos falamos por apenas alguns minutos, mas você me entende perfeitamente!"::
+43368::$$$message_0364_0012_0002$$$::"Vocês me dão muito crédito.[lr]::
+43369::$$$message_0364_0012_0003$$$::Eu sou habilidoso em ler as pessoas devido à natureza do meu trabalho, mas não posso avaliar algo que não tem valor algum."::
+43370::$$$message_0364_0012_0004$$$::"Zero vezes qualquer número continua sendo zero.[lr]::
+43371::$$$message_0364_0012_0005$$$::Eu nunca afirmaria ser capaz de tomar a medida de vocês."::
+43372::$$$message_0364_0012_0006$$$::"Awn, puxa. Você está me deixando corada."::
+43373::$$$message_0364_0012_0007$$$::"Hum. Na verdade, você não é de se jogar fora.[br]::
+43374::$$$message_0364_0012_0008$$$::Eu acho que o meu coração pode errar uma batida."::
+43375::$$$message_0364_0013_0000$$$::"Por que nós não saímos para tomar uma bebida um dia desses, como colegas figurantes sem tempo de tela?"::
+43376::$$$message_0364_0013_0001$$$::"Além disso, eu quero raspar esse seu mullet."::
 43377::$$$message_0364_0013_0002$$$::"Hahaha. Hahahaha. Hahahahahahahahahaha."::
-43378::$$$message_0364_0014_0000$$$::"Se eu puder, senhorinha...[lr]::
-43379::$$$message_0364_0014_0001$$$::Uma mulher solteira não deveria dizer coisas assim em brincadeira."::
-43380::$$$message_0364_0014_0002$$$::"Putz... Kotomine está esmagando os punhos tão forte que estão sangrando..."::
-43381::$$$message_0364_0015_0000$$$::"Alguém já o tratou assim antes? Acho que não."::
-43382::$$$message_0364_0015_0001$$$::"Agora, embora esta tenha sido uma conversa bastante encantadora, não devemos desperdiçar mais tempo."::
-43383::$$$message_0364_0015_0002$$$::"Há um Mestre facilmente derrotável na residência Emiya.[lr]::
-43384::$$$message_0364_0015_0003$$$::Por que não vai testar seus talentos lá?"::
-43385::$$$message_0364_0015_0004$$$::"Hey, obrigado pela dica.[lr]::
-43386::$$$message_0364_0015_0005$$$::Vamos fazê-lo valer."::
-43387::$$$message_0364_0016_0000$$$::[hffacechg chara=藤ねえ face=楽 layer=1 time=200]"Illya, você está pronto?"::
-43388::$$$message_0364_0016_0001$$$::"Sim. Já decidi atacar lá primeiro. Não precisava que Kotomine nos dissesse."::
-43389::$$$message_0364_0016_0002$$$::"Então! Vamos!"::
-43390::$$$message_0364_0017_0000$$$::"Te vejo depois, Pai! Vou convidar você para a festa assim que conseguirmos o Santo Graal!"::
-43391::$$$message_0364_0017_0001$$$::"Você a ouviu. Às vezes me pergunto se meu Servo é vaidoso ou não. Até nos encontrarmos novamente, Pai."::
-43392::$$$message_0364_0017_0002$$$::"Hmm. Estarei esperando, mas meus expectativos são baixos."[nolr][p]::
-43393::$$$message_0364_0017_0003$$$::"Então vamos primeiro para a casa do Shirou."::
-43394::$$$message_0364_0018_0000$$$::"Sabemos para onde estamos indo, então vamos dar um passeio até lá como um caminhão descarregando lixo fora de controle."::
-43395::$$$message_0364_0018_0001$$$::"Concordo. Sou um tigre, então não importa para mim se Shirou é um pouco meu irmão mais novo ou não. Ainda assim, acho que prefiro resolver isso lá primeiro."::
-43396::$$$message_0364_0018_0002$$$::"De fato, agora é a hora de fazê-lo pagar por desrespeitar sua grande irmã!"::
+43378::$$$message_0364_0014_0000$$$::"Se me permite, senhorita...[lr]::
+43379::$$$message_0364_0014_0001$$$::Uma mulher solteira não deveria dizer tais coisas de brincadeira."::
+43380::$$$message_0364_0014_0002$$$::"Uau... O Kotomine está apertando os punhos com tanta força que eles estão sangrando..."::
+43381::$$$message_0364_0015_0000$$$::"Alguém já lhe deu tanto trabalho antes? Eu acho que não."::
+43382::$$$message_0364_0015_0001$$$::"Agora, embora esta tenha sido uma conversa muito encantadora, nós não devemos perder mais tempo."::
+43383::$$$message_0364_0015_0002$$$::"Há um Mestre na residência Emiya que é facilmente derrotado.[lr]::
+43384::$$$message_0364_0015_0003$$$::Por que vocês não vão testar as suas habilidades lá?"::
+43385::$$$message_0364_0015_0004$$$::"Ei, obrigada pela dica.[lr]::
+43386::$$$message_0364_0015_0005$$$::Nós faremos valer a pena."::
+43387::$$$message_0364_0016_0000$$$::[hffacechg chara=藤ねえ face=楽 layer=1 time=200]"Illya, você está pronta?"::
+43388::$$$message_0364_0016_0001$$$::"Sim. Eu já havia decidido atacar aquele lugar primeiro. Eu não precisava do Kotomine para nos dizer isso."::
+43389::$$$message_0364_0016_0002$$$::"Tudo bem, então! Vamos lá!"::
+43390::$$$message_0364_0017_0000$$$::"Até mais, Padre! Vou convidá-lo para a festa assim que nós conseguirmos o Santo Graal!"::
+43391::$$$message_0364_0017_0001$$$::"Você a ouviu. Às vezes eu me pergunto se a minha Serva é gananciosa ou não. Até a próxima, Padre."::
+43392::$$$message_0364_0017_0002$$$::"Hum. Estarei esperando, mas as minhas expectativas são baixas."[nolr][p]::
+43393::$$$message_0364_0017_0003$$$::"Então nós iremos para a casa do Shirou primeiro."::
+43394::$$$message_0364_0018_0000$$$::"Nós sabemos para onde nós estamos indo, então vamos arrebentar o lugar como um caminhão basculante descontrolado."::
+43395::$$$message_0364_0018_0001$$$::"De acordo. Sou um tigre, então não me importo se o Shirou é um irmãozinho para mim ou não. Mesmo assim, acho que prefiro resolver as coisas lá primeiro."::
+43396::$$$message_0364_0018_0002$$$::"Na verdade, agora é a hora de fazê-lo pagar por desrespeitar a sua irmã mais velha!"::
 43397::$$$message_0364_0018_0003$$$::"Bem dito."::
-43398::$$$message_0364_0019_0000$$$::"Sim, tudo em nome de fazer Shirou aprender sua posição... [l][hffacechg chara=ブルマイリヤ face=ふっ2 layer=0 time=200][play storage=bgm04.ogg][say storage=HSTR1_BIR_0770 _name=ブルマイリヤ]Mas antes disso, por que não começamos com um aquecimento?"::
-43399::$$$message_0364_0019_0001$$$::"Hmm? O que está aí, Illya? Você me assustou um pouco."::
-43400::$$$message_0364_0020_0000$$$::"Seu amor está se torcendo em uma fúria assassina?"::
-43401::$$$message_0364_0020_0001$$$::"Sim. Eu tento simplesmente aproveitar os jogos por si mesmos."::
-43402::$$$message_0364_0021_0000$$$::"Não é mesmo? Pare de se esconder e saia, alga."::
+43398::$$$message_0364_0019_0000$$$::"Sim, tudo em nome de fazer o Shirou aprender o seu lugar... [l][hffacechg chara=ブルマイリヤ face=ふっ2 layer=0 time=200][play storage=bgm04.ogg][say storage=HSTR1_BIR_0770 _name=ブルマイリヤ]Mas antes disso, por que não nos aquecemos?"::
+43399::$$$message_0364_0019_0001$$$::"Hum? O que foi, Illya? Você está me assustando um pouco."::
+43400::$$$message_0364_0020_0000$$$::"Será que o seu amor está se transformando numa fúria assassina?"::
+43401::$$$message_0364_0020_0001$$$::"Sim. Eu tento simplesmente aproveitar os jogos pelo que eles são."::
+43402::$$$message_0364_0021_0000$$$::"Não é mesmo? Pare de se esconder e apareça, alga marinha."::
 43403::$$$message_0364_0021_0001$$$::"Heh... Nada mal, garota.[lr]::
-43404::$$$message_0364_0021_0002$$$::Esperava nada menos de um Mestre escolhido. Você parece um bobo, mas parece que é um feiticeiro de primeira linha por baixo disso tudo."::
-43405::$$$message_0364_0021_0003$$$::"Mas infelizmente. Seu tempo de tela acaba aqui, mesmo que você tenha vindo até o Japão."::
-43406::$$$message_0364_0021_0004$$$::"Porque... estarei levando seu Servo."::
-43407::$$$message_0364_0021_0005$$$::"Agora, entregue o controle ao seu Servo se não quiser se machucar."::
-43408::$$$message_0364_0021_0006$$$::"Hmm? Você conhece esse garoto, Illya? Ele tem um tom de pele estranhamente pálido."::
-43409::$$$message_0364_0021_0007$$$::"Eu não tenho a menor ideia de quem ele é. Acho que seu propósito é ser esmagado. Nem mesmo o coloriram."[fg textoff=0 left=476 index=1000 top=572 time=300 storage=023_notice]::
-43410::$$$message_0364_0022_0000$$$::"É como um tutorial.[lr]::
-43411::$$$message_0364_0022_0001$$$::Ele quase não tem nenhuma linha, então poderíamos ignorá-lo."::
-43412::$$$message_0364_0022_0002$$$::"Ah, ele é só um transeunte! Então não precisamos nos sentir mal por dar um jeito nele!"::
-43413::$$$message_0364_0022_0003$$$::"Que alívio! Ele parece um dos meus alunos, mas isso teria sido um choque, já que o garoto é tão gentil!"::
-43414::$$$message_0364_0022_0004$$$::"É [font italic=true]totalmente[font italic=false] ele, [hfchance layer=0]você, professor sem valor![lr]::
-43415::$$$message_0364_0022_0005$$$::E você está me implicando que ataca pessoas aleatórias na rua!?"::
-43416::$$$message_0364_0022_0006$$$::"...O que você está fazendo aqui, Fujimura? Um personagem secundário como você deveria ficar em casa comendo laranjas na mansão Fujimura que nem mesmo desenharam."::
-43417::$$$message_0364_0022_0007$$$::"Meu negócio é com a moça ali. Não tenho tempo a perder com uma velha meia-idade."::
-43418::$$$message_0364_0022_0008$$$::"Ahahahaha. Ei, Illya, podemos caçar esse cara pra pegar drops?"::
-43419::$$$message_0364_0022_0009$$$::"Claro, o que quiser.[lr]::
-43420::$$$message_0364_0022_0010$$$::Será um bom aquecimento. Mostre-lhe sua força."::
-43421::$$$message_0364_0022_0011$$$::"Rogerado! Heh, cuidado, baby. Se você me observar lutar de perto, pode acabar se tornando meu aluno."::
-43422::$$$message_0364_0022_0012$$$::"...? Espera, [font italic=true]você está[font italic=false] me atacando [font italic=true]mim[font italic=false]? Isso não tem nada a ver com você."::
-43423::$$$message_0364_0023_0000$$$::"Isso é uma Guerra do Santo Graal, não é? Não há lugar aqui para um professor que abuse fisicamente."::
-43424::$$$message_0364_0023_0001$$$::"Hehehehehe. Não sou aquele professor perfeito Taiga Fujimura, oh não!"::
-43425::$$$message_0364_0024_0000$$$::[hfchance layer=1][se storage=se325.wav]"Sou uma tigresa! Um Espírito Heroico feroz que come pessoas para satisfazer seus desejos!"::
-43426::$$$message_0364_0024_0001$$$::"Isso é absurdo! Hey, garota, a [font italic=true]ela[font italic=false] é sua Servo? De verdade? Você não está me brincando?"::
-43427::$$$message_0364_0024_0002$$$::"Ugh, eu não preciso disso!"::
-43428::$$$message_0364_0024_0003$$$::"Awww! Não vou te ordenar a ficar em fila durante a noite para comprar merch por mim mais,[hfwww layer=0], então volta, Rider!!!"[nolr][p]::
-
+43404::$$$message_0364_0021_0002$$$::Eu não esperaria menos de uma Mestra escolhida. Você parece uma piada, mas parece que, no fundo, você é uma maga de primeira categoria."::
+43405::$$$message_0364_0021_0003$$$::"Mas que pena. O seu tempo de tela acaba aqui, mesmo que você tenha vindo até o Japão."::
+43406::$$$message_0364_0021_0004$$$::"Porque... Eu vou ficar com o seu Servo."::
+43407::$$$message_0364_0021_0005$$$::"Agora, entregue as rédeas do seu Servo se não quiser se machucar."::
+43408::$$$message_0364_0021_0006$$$::"Hum? Você conhece esse moleque, Illya? Ele é estranhamente pálido."::
+43409::$$$message_0364_0021_0007$$$::"Não faço a mínima ideia de quem ele é. Aposto que o objetivo dele é ser pisoteado. Eles nem sequer o coloriram."[fg textoff=0 left=476 index=1000 top=572 time=300 storage=023_notice]::
+43410::$$$message_0364_0022_0000$$$::"É tipo um tutorial.[lr]::
+43411::$$$message_0364_0022_0001$$$::Ele mal tem falas, então nós podemos simplesmente ignorá-lo."::
+43412::$$$message_0364_0022_0002$$$::"Ah, ele é só um passante! Então não precisamos nos sentir mal por chutar o traseiro dele!"::
+43413::$$$message_0364_0022_0003$$$::"Graças a Deus! Ele parece com um dos meus alunos, mas isso teria sido um grande choque porque o garoto é tão legal!"::
+43414::$$$message_0364_0022_0004$$$::"E ele com [font italic=true]certeza[font italic=false], [hfchance layer=0]sua professora inútil![lr]::
+43415::$$$message_0364_0022_0005$$$::E você está insinuando que ataca pessoas aleatórias na rua!?"::
+43416::$$$message_0364_0022_0006$$$::"...Afinal, o que você está fazendo aqui, Fujimura? Uma personagem secundária como você deveria apenas ficar em casa e comer tangerinas na mansão Fujimura que eles nem sequer desenharam."::
+43417::$$$message_0364_0022_0007$$$::"O meu assunto é com a garotinha ali. Eu não tenho tempo a perder com uma bruxa de meia-idade."::
+43418::$$$message_0364_0022_0008$$$::"Ahahahaha. Ei Illya, nós podemos farmar esse cara para ele dropar itens?"::
+43419::$$$message_0364_0022_0009$$$::"Claro, o que você quiser.[lr]::
+43420::$$$message_0364_0022_0010$$$::Será um bom aquecimento. Mostre a ele o seu poder."::
+43421::$$$message_0364_0022_0011$$$::"Entendido! Heh, cuidado, docinho. Se me vir lutar de perto, você pode acabar se tornando meu aluno."::
+43422::$$$message_0364_0022_0012$$$::"...? Espera, [font italic=true]você[font italic=false] vai me [font italic=true]atacar[font italic=false]? Isso não tem nada a ver com você."::
+43423::$$$message_0364_0023_0000$$$::"Isso aqui é uma Guerra do Santo Graal, não é? Aqui não tem lugar para uma professora fisicamente abusiva."::
+43424::$$$message_0364_0023_0001$$$::"Hehehehehe. Eu não sou aquela professora perfeita, a Taiga Fujimura, ah, não!"::
+43425::$$$message_0364_0024_0000$$$::[hfchance layer=1][se storage=se325.wav]"Eu sou uma tigresa! Um Espírito Heroico bestial que come pessoas para satisfazer os seus desejos!"::
+43426::$$$message_0364_0024_0001$$$::"Isso é loucura! Ei garota, [font italic=true]ela[font italic=false] é a sua Serva!? É sério? Você não está me zoando?"::
+43427::$$$message_0364_0024_0002$$$::"Argh, eu não preciso disso!"::
+43428::$$$message_0364_0024_0003$$$::"Aaah! Eu não vou mais mandar você ficar na fila durante a noite toda para comprar merchandising para mim,[hfwww layer=0] então volte, Cavaleiro!!!"[nolr][p]::

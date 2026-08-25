@@ -1,5 +1,10 @@
 # Prompt de Tradução FHA Remastered - Qualidade Máxima
 
+> **ATENÇÃO — PROMPT CANONICO ATUAL:** para trabalho de lote em FHA use
+> `standards/type-moon/PROMPT_AGENTE_FHA_UNIFICADO.md`, que funde este arquivo com o
+> prompt de tradutor literário e adiciona o Protocolo Antideriva. Este documento
+> continua válido como referencia de método; em caso de conflito, o unificado vence.
+
 Este é o prompt canônico e único para revisão, retradução e acabamento máximo de **Fate/hollow ataraxia Remastered** neste projeto.
 
 Se houver qualquer dúvida sobre qual prompt usar para FHA, use sempre este arquivo.

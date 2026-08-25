@@ -1,5 +1,9 @@
 # Regras do Projeto FHA-Remastered-PT-BR
 
+> **Prompt canônico de trabalho:** `standards/type-moon/PROMPT_AGENTE_FHA_UNIFICADO.md`
+> (contrato, protocolo antideriva, glossário rápido, vozes e portões de qualidade).
+> Releia o §0 dele antes de cada lote.
+
 ## 1. Integridade de Tags e Codificação (Encoding)
 - **ATENÇÃO MÁXIMA**: Todos os arquivos de script (`.epk_dec`) devem ser lidos e escritos **obrigatoriamente em UTF-8**.
 - **Jamais utilize comandos de terminal PowerShell (como `Get-Content`, `Add-Content`, `Set-Content`) para ler ou escrever arquivos**, pois o PowerShell no Windows usa ANSI (cp1252) por padrão, o que corrompe caracteres japoneses (mojibake) presentes dentro das tags do Kirikiri (ex: `[chgfg storage=凛...]`).

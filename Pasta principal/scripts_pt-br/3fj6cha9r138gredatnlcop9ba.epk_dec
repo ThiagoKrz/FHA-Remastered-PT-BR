@@ -1,80 +1,80 @@
 DAT
 id=qid::label=str::text=lstr::
-8473::$$$message_0061_0000_0000$$$::Antes que vamos para o inverno, termino de inspecionar o aquecedor que não estava funcionando e volto para a sala do conselho estudantil.[lr]::
-8474::$$$message_0061_0000_0001$$$::Estaria normalmente com Issei, mas parece que ele tem algum trabalho da diretoria estudantil, então estava me movendo sozinho.::
-8475::$$$message_0061_0001_0000$$$::"Hey Issei, eu quase terminei[line len=2]"[lr]::
-8476::$$$message_0061_0001_0001$$$::Quando abro a porta, lá está Issei e Mitsuzuri dentro.[lr]::
-8477::$$$message_0061_0001_0002$$$::"...derrubou, mas..."[lr]::
-8478::$$$message_0061_0001_0003$$$::...Hmm. Essa combinação é rara, mas também é raro que estejam sentados tão próximos um do outro que seus ombros estão tocando.::
-8479::$$$message_0061_0002_0000$$$::Uma mão que salva estende-se até meu cérebro congelado. Ela parecia uma bruxa vestida de vermelho, mas não me importa nesse momento. Até mesmo pegaria um pedaço de palha enquanto afundasse.[lr]::
-8480::$$$message_0061_0002_0001$$$::"Olha, Shirou. Quem interfere no romance dos outros não morre mesmo que seja esmagado por um cavalo. Mas a dor ainda permanece."[wm canskip=0][lr]::
-8481::$$$message_0061_0002_0002$$$::[movefg textoff=0 opacity=0 time=600 pos=l accel=2 storage=凛私服04a(近)]Isso é brutal. Depende do tempo e do lugar, mas eu queria poder morrer se tiver um ferimento fatal.[wm canskip=0][clfg textoff=0 storage=凛私服04a(近) time=10]::
-8482::$$$message_0061_0003_0000$$$::"Desculpe interromper."::
-8483::$$$message_0061_0004_0000$$$::Obedeço à revelação e fecho a porta.::
-8484::$$$message_0061_0005_0000$$$::"...Puf, quase morri. Caramba, não imaginava que Issei e Mitsuzuri fossem assim."::
-8485::$$$message_0061_0006_0000$$$::Bem, aqueles dois não fariam nenhum erro.[lr]::
-8486::$$$message_0061_0006_0001$$$::Meu estômago cai [sestop storage=se422.wav time=1000 nowait=true] [se storage=se021 nowait=true] e só quero voltar pra casa direto.::
-8487::$$$message_0061_0007_0000$$$::"Pare um momento, Emiya! Para onde você está pensando em ir!?"[lr]::
-8488::$$$message_0061_0007_0001$$$::"Bem. Estava pensando em voltar para casa, já que terminei o que você me pediu."[lr]::
-8489::$$$message_0061_0007_0002$$$::"Haha, Emiya. [cacheimage storage=美綴01c(中)][wvl canskip=0 time=1000][chgfg time=300 storage=美綴01c(中)]Só volta aqui."[lr]::
-8490::$$$message_0061_0007_0003$$$::"Huh? Mas, não estou interrompendo?"[lr]::
-8491::$$$message_0061_0007_0004$$$::"Cale a boca, não tem argumentos."[lr]::
-8492::$$$message_0061_0007_0005$$$::"Espera, o que?"::
-8493::$$$message_0061_0008_0000$$$::Os dois me puxam[se storage=se021 nowait=true] de volta para a sala do conselho estudantil.::
+8473::$$$message_0061_0000_0000$$$::Antes de entrarmos no inverno, termino de inspecionar o aquecedor que não estava funcionando e volto para a sala do conselho estudantil.[lr]::
+8474::$$$message_0061_0000_0001$$$::Eu geralmente estaria com o Issei, mas parece que ele tem algum trabalho do conselho estudantil, então eu estava dando uma volta sozinho.::
+8475::$$$message_0061_0001_0000$$$::"Ei Issei, eu quase termi[line len=2]"[lr]::
+8476::$$$message_0061_0001_0001$$$::Quando abro a porta, Issei e Mitsuzuri estão lá dentro.[lr]::
+8477::$$$message_0061_0001_0002$$$::"...nei, mas..."[lr]::
+8478::$$$message_0061_0001_0003$$$::...Hm. Essa combinação é rara, mas também é raro eles estarem sentados perto o suficiente um do outro para os seus ombros se tocarem.::
+8479::$$$message_0061_0002_0000$$$::Uma mão salvadora se estende até a minha mente congelada. Ela parecia um demônio em roupas vermelhas, mas eu não me importo nesse ponto. Eu me agarraria até mesmo a um canudo enquanto estivesse me afogando.[lr]::
+8480::$$$message_0061_0002_0001$$$::"Olha, Shirou. Aqueles que interferem no romance dos outros não conseguem morrer, mesmo se forem chutados por um cavalo. Mas a dor ainda permanece."[wm canskip=0][lr]::
+8481::$$$message_0061_0002_0002$$$::[movefg textoff=0 opacity=0 time=600 pos=l accel=2 storage=凛私服04a(近)]Isso é brutal. Depende do momento e do lugar, mas eu gostaria que me permitissem morrer caso eu tivesse um ferimento fatal.[wm canskip=0][clfg textoff=0 storage=凛私服04a(近) time=10]::
+8482::$$$message_0061_0003_0000$$$::"Desculpe por interromper."::
+8483::$$$message_0061_0004_0000$$$::Eu obedeço à revelação e fecho a porta.::
+8484::$$$message_0061_0005_0000$$$::"...Ufa, essa foi por pouco. Cara, eu não achava que o Issei e a Mitsuzuri tivessem um caso assim."::
+8485::$$$message_0061_0006_0000$$$::Bem, aqueles dois não cometeriam nenhum erro.[lr]::
+8486::$$$message_0061_0006_0001$$$::Sinto o meu estômago revirar [sestop storage=se422.wav time=1000 nowait=true][se storage=se021 nowait=true]e eu só quero ir direto para casa.::
+8487::$$$message_0061_0007_0000$$$::"Espera aí, Emiya! Onde você está pensando em ir!?"[lr]::
+8488::$$$message_0061_0007_0001$$$::"Bem. Eu estava pensando em ir para casa, já que terminei o que você me pediu para fazer."[lr]::
+8489::$$$message_0061_0007_0002$$$::"Haha, Emiya. [cacheimage storage=美綴01c(中)][wvl canskip=0 time=1000][chgfg time=300 storage=美綴01c(中)]Apenas volte aqui."[lr]::
+8490::$$$message_0061_0007_0003$$$::"Hã? Mas, eu não estou atrapalhando?"[lr]::
+8491::$$$message_0061_0007_0004$$$::"Cale a boca, sem mas."[lr]::
+8492::$$$message_0061_0007_0005$$$::"Espera, o quê?"::
+8493::$$$message_0061_0008_0000$$$::Os dois me arrastam[se storage=se021 nowait=true] de volta para a sala do conselho estudantil.::
 8494::$$$message_0061_0009_0000$$$::"...Ah, então foi um mal-entendido.[lr]::
-8495::$$$message_0061_0009_0001$$$::Você deveria ter dito isso direto."[lr]::
-8496::$$$message_0061_0009_0002$$$::"Antes que pudéssemos, você foi quem saiu ainda não entendendo. Reflita sobre isso."[lr]::
-8497::$$$message_0061_0009_0003$$$::"...Mrgh. É culpa minha."::
-8498::$$$message_0061_0010_0000$$$::[chgfg time=300 storage=美綴01a(中) textoff=0]Mitsuzuri parece sorrir, mas não sorri em absoluto no fundo.[lr]::
-8499::$$$message_0061_0010_0001$$$::Deve ser por causa deles serem amigos, mas ela é parecida com a Tohsaka.[lr]::
-8500::$$$message_0061_0010_0002$$$::[chgfg time=300 storage=一成01c(中) textoff=0]...Eu sinto que Sakura também tem sorrindo da mesma forma ultimamente.[lr]::
-8501::$$$message_0061_0010_0003$$$::Também deve ser por serem irmãos que ela está começando a se assemelhar à Tohsaka.::
-8502::$$$message_0061_0011_0000$$$::"...Haverá só um monte de Tohsakas ao meu redor?"[lr]::
-8503::$$$message_0061_0011_0001$$$::"E aquele tipo de coisa ominosa que você está murmurando com cara séria?"[lr]::
-8504::$$$message_0061_0011_0002$$$::"É isso mesmo. Acho que isso seria o fim do mundo.[lr]::
-8505::$$$message_0061_0011_0003$$$::...Então. O que vocês estão fazendo?"::
-8506::$$$message_0061_0012_0000$$$::...Então.[lr]::
-8507::$$$message_0061_0012_0001$$$::Quando olho com atenção, há uma grande quantidade de documentos espalhados sobre a mesa.[lr]::
+8495::$$$message_0061_0009_0001$$$::Você deveria simplesmente ter me dito isso."[lr]::
+8496::$$$message_0061_0009_0002$$$::"Antes que pudéssemos, foi você quem saiu, ainda com a ideia errada. Pense sobre isso."[lr]::
+8497::$$$message_0061_0009_0003$$$::"...Mrgh. Então a culpa é minha."::
+8498::$$$message_0061_0010_0000$$$::[chgfg time=300 storage=美綴01a(中) textoff=0]A Mitsuzuri parece que está sorrindo, mas não está sorrindo nem um pouco no fundo.[lr]::
+8499::$$$message_0061_0010_0001$$$::Deve ser porque elas são amigas, mas ela é parecida com a Tohsaka.[lr]::
+8500::$$$message_0061_0010_0002$$$::[chgfg time=300 storage=一成01c(中) textoff=0]...Sinto que a Sakura também tem sorrido do mesmo jeito ultimamente.[lr]::
+8501::$$$message_0061_0010_0003$$$::Também deve ser porque elas são irmãs que ela está começando a ficar parecida com a Tohsaka.::
+8502::$$$message_0061_0011_0000$$$::"...Vai acabar havendo apenas um monte de Tohsakas ao meu redor?"[lr]::
+8503::$$$message_0061_0011_0001$$$::"Que tipo de coisa sinistra você está murmurando com essa cara séria?"[lr]::
+8504::$$$message_0061_0011_0002$$$::"É, eu também acho que isso seria o fim do mundo.[lr]::
+8505::$$$message_0061_0011_0003$$$::...E então. O que vocês estão fazendo?"::
+8506::$$$message_0061_0012_0000$$$::...Eis então.[lr]::
+8507::$$$message_0061_0012_0001$$$::Quando olho de perto, há uma grande quantidade de documentos espalhados na mesa.[lr]::
 8508::$$$message_0061_0012_0002$$$::Parece que eles estavam tendo algum tipo de reunião...?::
-8509::$$$message_0061_0013_0000$$$::"Tínhamos uma reunião para o festival cultural."[lr]::
-8510::$$$message_0061_0013_0001$$$::"Entendi.[lr]::
-8511::$$$message_0061_0013_0002$$$::Mas por que Mitsuzuri está com você? Há algum problema com a sociedade de arcoiro?"[lr]::
-8512::$$$message_0061_0013_0003$$$::"É porque sou membro do comitê executivo do festival cultural."[lr]::
-8513::$$$message_0061_0013_0004$$$::"É mesmo?"::
-8514::$$$message_0061_0014_0000$$$::Os dois suspiram com minha resposta.::
-8515::$$$message_0061_0015_0000$$$::"Pelo jeito, você provavelmente não se lembra desse ritmo, mas também é um dos membros do comitê executivo."[lr]::
-8516::$$$message_0061_0015_0001$$$::"...Me desculpe. [cacheimage storage=一成01c(中)][wvl][chgfg time=300 storage=一成01c(中) textoff=0]Esqueci totalmente."[lr]::
-8517::$$$message_0061_0015_0002$$$::"Bem, ainda não começamos nenhuma atividade, então tudo bem."[lr]::
-8518::$$$message_0061_0015_0003$$$::"Okay."::
-8519::$$$message_0061_0016_0000$$$::O festival cultural... Estranhos podem participar, então Saber e Rider provavelmente podem vir se divertir.[lr]::
-8520::$$$message_0061_0016_0001$$$::Acho que seria a primeira vez dela, então provavelmente vai reclamar a menos que eu a leve.[line len=2]::
-8521::$$$message_0061_0017_0000$$$::"Bem, é isso aí.[lr]::
-8522::$$$message_0061_0017_0001$$$::Eu tenho meus próprios preparativos, então vou pedir que você conserte o equipamento, mas não posso acompanhá-lo. Lamento."[lr]::
-8523::$$$message_0061_0017_0002$$$::"Tudo bem, melhor você se ocupe do seu próprio negócio.[lr]::
-8524::$$$message_0061_0017_0003$$$::Então, a condição dos aquecedores que vi até agora..."::
-8525::$$$message_0061_0018_0000$$$::[chgfg time=300 storage=美綴02c(中) textoff=0]Como estou relatando sobre os aquecedores que chequei, Mitsuzuri está olhando para cá.::
-8526::$$$message_0061_0019_0000$$$::"O que, Mitsuzuri?"[lr]::
-8527::$$$message_0061_0019_0001$$$::"Bem, você tem estado mais distraído do que o normal ultimamente, então estou preocupado de que possa esquecer uma vez que começarmos a nos preparar."[lr]::
+8509::$$$message_0061_0013_0000$$$::"Nós estávamos tendo uma reunião para o festival cultural."[lr]::
+8510::$$$message_0061_0013_0001$$$::"Ah, entendi.[lr]::
+8511::$$$message_0061_0013_0002$$$::Mas por que a Mitsuzuri está com você? Tem algum problema com o clube de arquearia?"[lr]::
+8512::$$$message_0061_0013_0003$$$::"É porque eu sou um membro do comitê executivo do festival cultural."[lr]::
+8513::$$$message_0061_0013_0004$$$::"Ah, sério?"::
+8514::$$$message_0061_0014_0000$$$::Os dois suspiram perante a minha resposta.::
+8515::$$$message_0061_0015_0000$$$::"Aliás, você provavelmente não vai se lembrar a essa altura, mas você também é um dos membros do comitê executivo."[lr]::
+8516::$$$message_0061_0015_0001$$$::"...Foi mal. [cacheimage storage=一成01c(中)][wvl][chgfg time=300 storage=一成01c(中) textoff=0]Eu me esqueci completamente."[lr]::
+8517::$$$message_0061_0015_0002$$$::"Tudo bem, nós ainda não começamos as atividades, então não tem problema."[lr]::
+8518::$$$message_0061_0015_0003$$$::"Ok."::
+8519::$$$message_0061_0016_0000$$$::O festival cultural... Estranhos podem participar, então a Saber e a Rider provavelmente poderão vir curtir...[lr]::
+8520::$$$message_0061_0016_0001$$$::Aposto que seria a primeira vez da Illya, então ela com certeza vai fazer um escândalo, a não ser que eu a traga[line len=2]::
+8521::$$$message_0061_0017_0000$$$::"De qualquer forma, é disso que se trata.[lr]::
+8522::$$$message_0061_0017_0001$$$::Eu tenho os meus próprios preparativos, então vou pedir para você consertar o equipamento, mas eu não vou poder te fazer companhia. Me desculpe."[lr]::
+8523::$$$message_0061_0017_0002$$$::"Está tudo bem, é melhor você dar conta das suas próprias coisas.[lr]::
+8524::$$$message_0061_0017_0003$$$::Então, o estado dos aquecedores que eu vi até agora..."::
+8525::$$$message_0061_0018_0000$$$::[chgfg time=300 storage=美綴02c(中) textoff=0]Enquanto faço um relatório sobre os aquecedores que verifiquei, a Mitsuzuri está olhando para cá.::
+8526::$$$message_0061_0019_0000$$$::"O que foi, Mitsuzuri?"[lr]::
+8527::$$$message_0061_0019_0001$$$::"Bem, você tem ficado mais avoado do que o normal ultimamente, então estou preocupada que você possa esquecer isso assim que começarmos a preparar tudo."[lr]::
 8528::$$$message_0061_0019_0002$$$::"...Mrgh."::
-8529::$$$message_0061_0020_0000$$$::[chgfg time=300 storage=美綴02a(中) textoff=0]Não posso argumentar, já que esqueci do festival cultural e de ser membro do comitê executivo.::
-8530::$$$message_0061_0021_0000$$$::"Hmm, entendi. Suas preocupações são compreensíveis. Emiya, fique comigo no caminho de volta. [cacheimage storage=一成01b腕(中)][wvl][chgfg time=300 storage=一成01b腕(中) textoff=0]Vou te contar sobre o que é o festival cultural então."[lr]::
-8531::$$$message_0061_0021_0001$$$::"Hmm?"[lr]::
-8532::$$$message_0061_0021_0002$$$::"É bom. Faça certeza de que ele não esqueça disso para sempre."[lr]::
-8533::$$$message_0061_0021_0003$$$::"Pode deixar comigo."::
-8534::$$$message_0061_0022_0000$$$::"Um, em outras palavras, você está me dizendo que devo ir pra casa com você hoje?"[lr]::
-8535::$$$message_0061_0022_0001$$$::"É, você não tem trabalho ou nada hoje, né?"[lr]::
-8536::$$$message_0061_0022_0002$$$::"Eu não. [cacheimage storage=一成01a(中)][wvl][chgfg time=300 storage=一成01a(中) textoff=0]Eu não teria vindo aqui para ajudar se tivesse."::
+8529::$$$message_0061_0020_0000$$$::[chgfg time=300 storage=美綴02a(中) textoff=0]Não posso retrucar, já que eu havia me esquecido do festival cultural e do fato de ser um membro do comitê executivo.::
+8530::$$$message_0061_0021_0000$$$::"Hm, entendo. Suas preocupações são compreensíveis. Emiya, me faça companhia no caminho de volta para casa. [cacheimage storage=一成01b腕(中)][wvl][chgfg time=300 storage=一成01b腕(中) textoff=0]Eu vou conversar com você sobre o que é o festival cultural então."[lr]::
+8531::$$$message_0061_0021_0001$$$::"...Hã?"[lr]::
+8532::$$$message_0061_0021_0002$$$::"É, isso é bom. Certifique-se de que ele não esqueça disso de vez."[lr]::
+8533::$$$message_0061_0021_0003$$$::"Sim. Deixe comigo."::
+8534::$$$message_0061_0022_0000$$$::"Hum, em outras palavras, você está me pedindo para ir para casa com você hoje?"[lr]::
+8535::$$$message_0061_0022_0001$$$::"Sim, você não tem trabalho e nem nada para fazer hoje, não é?"[lr]::
+8536::$$$message_0061_0022_0002$$$::"Eu não tenho. [cacheimage storage=一成01a(中)][wvl][chgfg time=300 storage=一成01a(中) textoff=0]Eu não teria vindo ajudar se eu tivesse."::
 8537::$$$message_0061_0023_0000$$$::[rep fliplr=0 textoff=0 storages=美綴01b(中),一成02c(中) time=300 flipudr=0 poss=l,r indexes=2000,3000]Mitsuzuri acena com a cabeça, satisfeita.[lr]::
-8538::$$$message_0061_0023_0001$$$::Bem, não deveria ser como uma aula ou qualquer coisa, e não fui pra casa com Issei há algum tempo, então não me importa...::
-8539::$$$message_0061_0024_0000$$$::"...Então, por que você parece tão feliz, Ryuudou?"::
-8540::$$$message_0061_0025_0000$$$::Entendi. Eu também me perguntei isso.::
-8541::$$$message_0061_0026_0000$$$::"Mrg, isso não é verdade.[lr]::
-8542::$$$message_0061_0026_0001$$$::Bem, você não está errado, mas é porque posso ser útil para o Emiya, que normalmente eu causo problemas.[line len=2]"::
-8543::$$$message_0061_0027_0000$$$::"Tudo bem, tudo bem. Entendi.[lr]::
-8544::$$$message_0061_0027_0001$$$::Então Emiya, pode continuar reparando o equipamento? Aparentemente, tem um ar-condicionado quebrado deixado assim na área de armazenamento esportivo. Ryudou e eu continuaremos pensando no nosso projeto para as associações esportivas.[lr]::
-8545::$$$message_0061_0027_0002$$$::O clube de arco ainda não decidiu sobre uma ideia de projeto..."::
-8546::$$$message_0061_0028_0000$$$::Saio do quarto do conselho estudantil.[lr]::
-8547::$$$message_0061_0028_0001$$$::...Não há o que fazer.[lr]::
-8548::$$$message_0061_0028_0002$$$::Já passou do ponto de não retorno, então vou me concentrar em consertar equipamentos até Issei terminar seu trabalho.::
-908476::$$$message_9061_0001_0001$$$::Quando abro a porta, lá está Issei e Mitsuzuri dentro.[r]::
+8538::$$$message_0061_0023_0001$$$::Bem, não deve ser como um sermão e nem nada, e eu não tenho ido para casa com o Issei ultimamente, então eu não me importo...::
+8539::$$$message_0061_0024_0000$$$::"...Então, por que você parece tão feliz, Ryudou?"::
+8540::$$$message_0061_0025_0000$$$::É. Eu também fiquei me perguntando o mesmo.::
+8541::$$$message_0061_0026_0000$$$::"Mrgh, isso não é verdade.[lr]::
+8542::$$$message_0061_0026_0001$$$::Bom, você não está errada, mas é porque eu posso ser útil ao Emiya, a quem eu geralmente causo problemas[line len=2]"::
+8543::$$$message_0061_0027_0000$$$::"Tá certo, tá certo. Eu entendi.[lr]::
+8544::$$$message_0061_0027_0001$$$::Então Emiya, você pode continuar consertando o equipamento? Aparentemente, tem um ar-condicionado quebrado que foi deixado de lado assim no depósito de esportes. Ryudou e eu continuaremos pensando no nosso projeto para os clubes esportivos.[lr]::
+8545::$$$message_0061_0027_0002$$$::O clube de arquearia ainda não se decidiu sobre nenhuma ideia de projeto..."::
+8546::$$$message_0061_0028_0000$$$::Sou enxotado da sala do conselho estudantil.[lr]::
+8547::$$$message_0061_0028_0001$$$::...Não há nada que eu possa fazer em relação a isso.[lr]::
+8548::$$$message_0061_0028_0002$$$::Já passei do ponto sem volta, então vou focar em consertar equipamentos até o Issei terminar o seu trabalho.::
+908476::$$$message_9061_0001_0001$$$::Quando abro a porta, Issei e Mitsuzuri estão lá dentro.[r]::
 
