@@ -5,7 +5,7 @@ id=qid::label=str::text=lstr::
 13392::$$$message_0109_0001_0000$$$::O parque em um belo dia de outono está tão agitado quanto estaria em um fim de semana.[lr]::
 13393::$$$message_0109_0001_0001$$$::Os bancos instalados estão quase todos ocupados. Procuro um lugar onde eu possa me sentar e caminhar ao longo do rio no parque.::
 13394::$$$message_0109_0002_0000$$$::Uma brisa de outono com cheiro de sal sopra da foz do rio. Começa a ficar ainda mais frio.[lr]::
-13395::$$$message_0109_0002_0001$$$::O céu azul claro e a luz do sol me fazem esquecer disso logo em seguida. É um fim de semana realmente revigorante.::
+13395::$$$message_0109_0002_0001$$$::O céu azul claro e a luz do Sol me fazem esquecer disso logo em seguida. É um fim de semana realmente revigorante.::
 13396::$$$message_0109_0003_0000$$$::Do outro lado da fileira de árvores de ginkgo amarelo vivo que cintilam enquanto balançam[line len=3][lr]::
 13397::$$$message_0109_0003_0001$$$::Eu consigo ouvir os gritos de comemoração de crianças e o som de uma bola quicando.::
 13398::$$$message_0109_0004_0000$$$::Futebol. Me pergunto se estão jogando futebol por diversão.[lr]::
@@ -32,9 +32,9 @@ id=qid::label=str::text=lstr::
 13419::$$$message_0109_0014_0000$$$::Quando tento fazer a Saber, que está completamente imersa, notar a minha presença me levantando e acenando com a mão[line len=3][lr]::
 13420::$$$message_0109_0014_0001$$$::Uma das crianças abandona o jogo e vai em direção a Saber. As outras crianças começam a se reunir também.::
 13421::$$$message_0109_0015_0000$$$::"Oh, já acabaram?"[lr]::
-13422::$$$message_0109_0015_0001$$$::"V-você é uma garota...? Que seja. Você é muito barulhenta, moça!"[lr]::
+13422::$$$message_0109_0015_0001$$$::"V-você é uma garota...? Que seja. Você é muito barulhenta, Nee-chan!"[lr]::
 13423::$$$message_0109_0015_0002$$$::Sendo confrontada pelas crianças, Saber olha para trás de si mesma.[lr]::
-13424::$$$message_0109_0015_0003$$$::"[line len=3]'Moça' é uma referência a mim... [cacheimage storage=寸劇_セイバー03a(通常_中央)][wvl canskip=0 time=500][chgfg textoff=0 time=300 storage=寸劇_セイバー03a(通常_中央)]Suponho eu."::
+13424::$$$message_0109_0015_0003$$$::"[line len=3]'Nee-chan' é uma referência a mim... [cacheimage storage=寸劇_セイバー03a(通常_中央)][wvl canskip=0 time=500][chgfg textoff=0 time=300 storage=寸劇_セイバー03a(通常_中央)]Suponho eu."::
 13425::$$$message_0109_0016_0000$$$::"Não tem mais ninguém aqui! Não nos importamos que você assista, mas você pode fazer mais silêncio?"[lr]::
 13426::$$$message_0109_0016_0001$$$::"É. Você tá atrapalhando a gente."[lr]::
 13427::$$$message_0109_0016_0002$$$::As outras crianças também concordam.[wm canskip=0]::
@@ -51,7 +51,7 @@ id=qid::label=str::text=lstr::
 13438::$$$message_0109_0020_0002$$$::"Ela é estrangeira."[lr]::
 13439::$$$message_0109_0020_0003$$$::"Idiota. Hoje em dia não tem times só com japoneses."[lr]::
 13440::$$$message_0109_0020_0004$$$::"Acho que é verdade."[wvs][say storage=cty0209_bya_0000 name=少年Ａ]"Você sabe jogar futebol?"[lr]::
-13441::$$$message_0109_0020_0005$$$::"Moça, de onde você é? França? Alemanha?"[lr]::
+13441::$$$message_0109_0020_0005$$$::"Nee-chan, de onde você é? França? Alemanha?"[lr]::
 13442::$$$message_0109_0020_0006$$$::"Eu sou da Inglaterra..."[lr]::
 13443::$$$message_0109_0020_0007$$$::As crianças levantam as vozes de surpresa.::
 13444::$$$message_0109_0021_0000$$$::"Futebol é o esporte nacional da Inglaterra, né? Tipo sumô no Japão."[lr]::
@@ -73,7 +73,7 @@ id=qid::label=str::text=lstr::
 13460::$$$message_0109_0024_0000$$$::"Eu sempre tive curiosidade... Mas nunca tive a oportunidade porque estava treinando todos os dias. No entanto, já vi os soldados jogando com frequência. Pretendo aprender as regras de alguma forma."::
 13461::$$$message_0109_0025_0000$$$::"Tudo o que tem que fazer é passar a bola um para o outro e levá-la para o gol que indica o território inimigo, correto?"[lr]::
 13462::$$$message_0109_0025_0001$$$::"É, mas qualquer um sabe disso."[lr]::
-13463::$$$message_0109_0025_0002$$$::"Soldados e treinamento... O que você é, moça? Da área militar?"[lr]::
+13463::$$$message_0109_0025_0002$$$::"Soldados e treinamento... O que você é, Nee-chan? Da área militar?"[lr]::
 13464::$$$message_0109_0025_0003$$$::"Sim, algo do tipo."[lr]::
 13465::$$$message_0109_0025_0004$$$::"Oh, você trabalha no escritório das Forças de Autodefesa?"[lr]::
 13466::$$$message_0109_0025_0005$$$::"Forças de Autodefesa?"::
@@ -83,8 +83,8 @@ id=qid::label=str::text=lstr::
 13470::$$$message_0109_0028_0000$$$::Me sinto aliviado por enquanto.[lr]::
 13471::$$$message_0109_0028_0001$$$::Eu estava prestes a entrar no meio da roda de crianças para perguntar se estavam com algum problema, mas não precisei interrompê-las daquele jeito.[lr]::
 13472::$$$message_0109_0028_0002$$$::Pego os meus hashis de novo e volto a comer o meu almoço. Tento agir de forma lúdica e me escondo na sombra de uma árvore[line len=3]::
-13473::$$$message_0109_0029_0000$$$::"Lá vou eu, moça!"[lr]::
-13474::$$$message_0109_0029_0001$$$::"Eu não me chamo 'moça', eu sou a Saber!"::
+13473::$$$message_0109_0029_0000$$$::"Lá vou eu, Nee-chan!"[lr]::
+13474::$$$message_0109_0029_0001$$$::"Eu não me chamo 'Nee-chan', eu sou a Saber!"::
 13475::$$$message_0109_0030_0000$$$::Mesmo enquanto protesta, ela acompanha com precisão a bola que salta à sua frente.[lr]::
 13476::$$$message_0109_0030_0001$$$::"Domina ela!" A voz de um garoto ecoa nas costas dela.[lr]::
 13477::$$$message_0109_0030_0002$$$::"Hã? Dominar!?"[lr]::
@@ -135,7 +135,7 @@ id=qid::label=str::text=lstr::
 13522::$$$message_0109_0047_0002$$$::"V-Vocês viram? A minha calça jeans está um pouco frouxa..."[lr]::
 13523::$$$message_0109_0047_0003$$$::"N-Não é isso!"[wvs][say storage=cty0209_bya_0050 name=少年Ａ]"Nós nunca que iríamos olhar, sua idiota."[wvs][say storage=cty0209_byb_0030 name=少年Ｂ]"Eu vi."[lr]::
 13524::$$$message_0109_0047_0004$$$::As crianças também são influenciadas, corando enquanto colocam as mãos na testa.::
-13525::$$$message_0109_0048_0000$$$::"Você tá falando sério, moça!? Usar as mãos é só pra jogar futebol americano!"[lr]::
+13525::$$$message_0109_0048_0000$$$::"Você tá falando sério, Nee-chan!? Usar as mãos é só pra jogar futebol americano!"[lr]::
 13526::$$$message_0109_0048_0001$$$::"Hã? O que é 'futebol americano'?"[lr]::
 13527::$$$message_0109_0048_0002$$$::Ela fica nervosa ao ser repreendida. Bem, a Saber é quem está errada.::
 13528::$$$message_0109_0049_0000$$$::"Será que ela não tá confundindo com rúgbi?"[lr]::
@@ -175,7 +175,7 @@ id=qid::label=str::text=lstr::
 13562::$$$message_0109_0057_0000$$$::Elas começam a sussurrar frente a frente, deixando a Saber de fora da roda.[lr]::
 13563::$$$message_0109_0057_0001$$$::Aquele garoto mais enérgico em específico está dizendo alto coisas como, [wvs] [say storage=cty0209_ger_0160 name=ゲロス]"Você tá falando sério!?" [wvs][say storage=cty0209_ger_0170 name=ゲロス]"Eu não vou fazer isso!" ou [wvs][say storage=cty0209_ger_0180 name=ゲロス]"Tá bom! É, eu sou sempre o que está errado!" Que cara mais divertido.[lr]::
 13564::$$$message_0109_0057_0002$$$::A roda se desfaz, e eles se voltam para a Saber de novo.::
-13565::$$$message_0109_0058_0000$$$::"Certo então, moça. Vamos lutar desde o começo de novo! O que me diz!?"[lr]::
+13565::$$$message_0109_0058_0000$$$::"Certo então, Nee-chan. Vamos lutar desde o começo de novo! O que me diz!?"[lr]::
 13566::$$$message_0109_0058_0001$$$::"É uma partida. Muito bem. Eu aceito o desafio. [wvl][move textoff=0 time=120 path=(211,35,255)(211,64,255)(211,35,255)(211,64,255)(211,35,255)(211,64,255) storage=寸劇_セイバー02a(通常_中央) accel=0]Não posso me contentar apenas cometiendo um erro atrás do outro. Mas acima de tudo, não consigo aproveitar o meu jantar terminando assim.[wm canskip=0][lr]::
 13567::$$$message_0109_0058_0002$$$::Eu também senti que nenhum de vocês deram tudo de si ainda."::
 13568::$$$message_0109_0059_0000$$$::Aí está.[lr]::
@@ -187,7 +187,7 @@ id=qid::label=str::text=lstr::
 13574::$$$message_0109_0061_0001$$$::Gritos ecoam pelo campo, e os amigos e inimigos são decididos. Conforme ambos os exércitos se distanciam, Saber olha para tudo com um olhar maravilhado.::
 13575::$$$message_0109_0062_0000$$$::"O número de pessoas está diferente de antes. Tem cinco pessoas ali. Só tem quatro pessoas no meu time, incluindo eu?"[lr]::
 13576::$$$message_0109_0062_0001$$$::"É um handicap."[lr]::
-13577::$$$message_0109_0062_0002$$$::"Você vale por duas pessoas, moça. É por isso que é cinco contra cinco."[lr]::
+13577::$$$message_0109_0062_0002$$$::"Você vale por duas pessoas, Nee-chan. É por isso que é cinco contra cinco."[lr]::
 13578::$$$message_0109_0062_0003$$$::"Não, não vale. Dá na mesma tendo você aqui ou não, Vomit."[lr]::
 13579::$$$message_0109_0062_0004$$$::"...Cala a boca."::
 13580::$$$message_0109_0063_0000$$$::Antes de iniciarem o jogo, as crianças decidem quem vai comprar as bebidas e dizem o que querem beber. A conversa da Saber continua logo ao lado deles.::
@@ -243,7 +243,7 @@ id=qid::label=str::text=lstr::
 13630::$$$message_0109_0077_0000$$$::"E daí se você não consegue fazer nenhum ponto? Você será capaz de fazer isso num piscar de olhos. Vamos dar o nosso melhor. [wm canskip=0]Nós quatro juntos."[lr]::
 13631::$$$message_0109_0077_0001$$$::Saber toma a iniciativa e se levanta.::
 13632::$$$message_0109_0078_0000$$$::"De qualquer forma, a pontuação vai se transformar em algo como 'setenta e sete contra oitenta e oito' no final. Haverá chances para que cada um dos atletas marque um ponto[line len=3]"[lr]::
-13633::$$$message_0109_0078_0001$$$::"Isso é basquete, moça."[lr]::
+13633::$$$message_0109_0078_0001$$$::"Isso é basquete, Nee-chan."[lr]::
 13634::$$$message_0109_0078_0002$$$::"E também não tem gol de três pontos."[lr]::
 13635::$$$message_0109_0078_0003$$$::"Mas que estrangeira mais estranha."[lr]::
 13636::$$$message_0109_0078_0004$$$::"Mrgh."::
@@ -287,8 +287,8 @@ id=qid::label=str::text=lstr::
 13674::$$$message_0109_0093_0001$$$::Os gritos e rugidos de raiva das crianças ecoam pelo céu de outono.[lr]::
 13675::$$$message_0109_0093_0002$$$::A pobre bola foi totalmente rasgada no formato de um trevo de três folhas e está rodando no ar igualzinho a um bumerangue ou um objeto voador não identificado.::
 13676::$$$message_0109_0094_0000$$$::"Caramba, ela estourou a bola do Saegusa!"[lr]::
-13677::$$$message_0109_0094_0001$$$::"Eek! Ela vai matar a gente!"[lr]::
-13678::$$$message_0109_0094_0002$$$::"A culpa não é minha! Você é o único que vai levar bronca, Kota!"[lr]::
+13677::$$$message_0109_0094_0001$$$::"Eek! Ela vai matar a gente, Nee-chan!"[lr]::
+13678::$$$message_0109_0094_0002$$$::"A culpa não é minha! Você é o único que vai levar bronca, Kota, Nii-chan!"[lr]::
 13679::$$$message_0109_0094_0003$$$::"O que a gente vai fazer com o jogo?"[lr]::
 13680::$$$message_0109_0094_0004$$$::"Uau, por favor faz de novo."[wm canskip=0][lr]::
 13681::$$$message_0109_0094_0005$$$::"Mas não tem mais nenhuma bola!"[lr]::
@@ -306,7 +306,7 @@ id=qid::label=str::text=lstr::
 13693::$$$message_0109_0098_0001$$$::"Mas o Saegusa vai ficar sem mesada por um bom tempo."[lr]::
 13694::$$$message_0109_0098_0002$$$::"Sem... chance, e-esqueçam isso."[lr]::
 13695::$$$message_0109_0098_0003$$$::"Eu irei os recompens[line len=3]"[lr]::
-13696::$$$message_0109_0098_0004$$$::"Isso é impossível. Ela não ia aceitar dinheiro de outras pessoas."[lr]::
+13696::$$$message_0109_0098_0004$$$::"Isso é impossível. Ela não ia aceitar dinheiro de outras pessoas, Nee-chan."[lr]::
 13697::$$$message_0109_0098_0005$$$::"Isso é muito infeliz..."::
 13698::$$$message_0109_0099_0000$$$::"Então você devia pegar a sua, Vomit. Você mora aqui por perto, não mora?"[lr]::
 13699::$$$message_0109_0099_0001$$$::"A-A minha bola foi chutada no rio."[lr]::
@@ -318,7 +318,7 @@ id=qid::label=str::text=lstr::
 13705::$$$message_0109_0101_0000$$$::"Peraí, o quê!?"[wvs][say storage=cty0209_byb_0100 name=少年Ｂ]"De onde ela veio?"[lr]::
 13706::$$$message_0109_0101_0001$$$::Mesmo se eles fossem olhar ao redor agora, eu estaria deitado na sombra dos arbustos. As crianças espiam curiosamente para os braços de Saber.::
 13707::$$$message_0109_0102_0000$$$::"Ela tá consertada..."[wvs][say storage=cty0209_bya_0150 name=少年Ａ]"Que assustador."[lr]::
-13708::$$$message_0109_0102_0001$$$::"Mas que surpresa! Moça, você é uma maga!?"[lr]::
+13708::$$$message_0109_0102_0001$$$::"Mas que surpresa! Nee-chan, você é uma maga!?"[lr]::
 13709::$$$message_0109_0102_0002$$$::"N-Não. Não sou muito boa com magias."[lr]::
 13710::$$$message_0109_0102_0003$$$::"Tá vendo, ela voltou! Viu só!?"[wm canskip=0][lr]::
 13711::$$$message_0109_0102_0004$$$::"Ela tá viva? Ou eu deveria dizer que ela ressuscitou?"[lr]::

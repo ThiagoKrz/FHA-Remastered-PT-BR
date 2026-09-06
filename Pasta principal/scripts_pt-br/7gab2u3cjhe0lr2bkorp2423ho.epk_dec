@@ -1,14 +1,14 @@
 DAT
 id=qid::label=str::text=lstr::
 42471::$$$message_0337_0000_0000$$$::"T-Tohsaka!? Que coincidência te encontrar aqui."::
-42472::$$$message_0337_0000_0001$$$::"Nem me fale. A propósito, Emiya. O que você está escondendo aí atrás?"::
+42472::$$$message_0337_0000_0001$$$::"Nem me fale. A propósito, Emiya-kun. O que você está escondendo aí atrás?"::
 42473::$$$message_0337_0000_0002$$$::"Ah, hã, nada...[wait canskip=0 time=300][l][hffacechg chara=士郎 face=怒 layer=0 time=200][hfchance layer=0][say storage=HRIN3_SHI_0030 _name=士郎] Uaaa!"::
 42474::$$$message_0337_0000_0003$$$::"Olha só, Rin. É uma carta sobre o mesmo lugar para onde você está indo."::
 42475::$$$message_0337_0000_0004$$$::"Archer! Quando foi que você apareceu atrás de mim... E por que a Saber não percebeu[line len=2]"::
 42476::$$$message_0337_0000_0005$$$::"Mastiga mastiga mastiga...[lr]::
 42477::$$$message_0337_0000_0006$$$::Este doner kebab está uma delícia, Archer."::
 42478::$$$message_0337_0000_0007$$$::"Como pode ver, ela não perde o ritmo."::
-42479::$$$message_0337_0000_0008$$$::"Faz sentido. Você é meu aprendiz, então eles mandariam uma carta para você também."::
+42479::$$$message_0337_0000_0008$$$::"Faz sentido. Emiya-kun é meu aprendiz, então eles mandariam uma carta para você também."::
 42480::$$$message_0337_0000_0009$$$::"Eu não acho que esse seja o único motivo."::
 42481::$$$message_0337_0000_0010$$$::"O que foi que disse?"::
 42482::$$$message_0337_0000_0011$$$::"Ah, nada... De qualquer forma, não tem saída para vocês dois."::
@@ -20,6 +20,5 @@ id=qid::label=str::text=lstr::
 42488::$$$message_0337_0000_0017$$$::"Tudo bem, não precisa dar desculpas. Sinto que você acabou se envolvendo nisso, mas... [hffacechg chara=凛 face=怒 time=200][hfstamp layer=0]Vamos falar sério, Archer."::
 42489::$$$message_0337_0000_0018$$$::"Entendido.[lr]::
 42490::$$$message_0337_0000_0019$$$::Este é o melhor desfecho que eu poderia esperar, Mestra."::
-42491::$$$message_0337_0000_0020$$$::"Kuh! Parece que vamos ter que fazer isso.[l][hfchance layer=0][say storage=HRIN3_SHI_0100 _name=士郎] Saber!"::
-42492::$$$message_0337_0000_0021$$$::"Nhoc nhoc, glup. [wait canskip=0 time=500][l][hffacechg chara=セイバー face=驚 layer=1 time=200][hfchance layer=1][say storage=HRIN3_SAV_0040 _name=セイバー]Sim. [wait canskip=0 time=500][l][hffacechg chara=セイバー face=怒 layer=1 time=200][hfchance layer=1][say storage=HRIN3_SAV_0050 _name=セイバー]Eu não vou me conter, não importa quem esteja no nosso caminho!"::
-
+42491::$$$message_0337_0000_0020$$$::"Kuh! Parece que não tem jeito.[l][hfchance layer=0][say storage=HRIN3_SHI_0100 _name=士郎] Saber!"::
+42492::$$$message_0337_0000_0021$$$::"Nhac, glup. [wait canskip=0 time=500][l][hffacechg chara=セイバー face=驚 layer=1 time=200][hfchance layer=1][say storage=HRIN3_SAV_0040 _name=セイバー]Sim. [wait canskip=0 time=500][l][hffacechg chara=セイバー face=怒 layer=1 time=200][hfchance layer=1][say storage=HRIN3_SAV_0050 _name=セイバー]Não vou me conter, não importa quem esteja em nosso caminho!"�:�d

@@ -403,7 +403,7 @@ extrato de alta frequência, já conferido contra o glossário e contra o corpus
 
 | EN | PT-BR |
 |---|---|
-| Magecraft | **Magia** (use `taumaturgia` só quando o EN disser *thaumaturgy*) |
+| Magecraft / thaumaturgy | **Magia**; `taumaturgia` é proibido no texto final |
 | Magus / Mage / Magician | Mago (Magician como "Mago" no sentido dos cinco) |
 | True Magic / Magic (as artes verdadeiras) | Magia Verdadeira |
 | Second/Third Magic | Segunda/Terceira Magia |
@@ -455,10 +455,23 @@ Estes vieram de prompts antigos e de modelos fracos. Se aparecerem, são **defei
 ### 7.5 Honoríficos (padrão já consolidado no corpus)
 - Mantidos sem tradução, colados com hífen e em minúscula: `-san`, `-kun`, `-chan`,
   `-senpai`, `-sensei` (`Himuro-senpai`, `Fujimura-san`, `Tamamo-chan`).
-- Vocativo solto vira maiúscula: `Senpai`, `Nee-san`, `Fuji-nee`, `Onii-chan`.
-- `Fuji-nee` é forma fixa (306 ocorrências no corpus). Nunca traduzir para "irmã Fuji".
+- Vocativo solto vira maiúscula: `Senpai`, `Nee-san`, `Fuji-Nee`, `Onii-chan`.
+- `Fuji-Nee` é forma fixa. Nunca traduzir para "irmã Fuji".
+- Se o EN domesticar honorífico japonês (`Big Brother`, `Ms.`, `Miss`,
+  `teacher`, `professor`, `senior` etc.), confirme no `scripts_jp/` e preserve
+  o tratamento japonês no PT-BR quando ele existir no JP: `Onii-chan`,
+  `Nii-san`, `Onii-san`, `Nee-san`, `Onee-chan`, `Onee-san`, `Nome-san`,
+  `Nome-kun`, `Nome-chan`, `Nome-senpai`, `Nome-sensei`.
+- Formas fixas de personagens/tratamentos recorrentes: `Fujimura-Sensei`,
+  `Kuzuki-Sensei`, `Emiya-kun`, `Emiya-senpai`, `Mitsuzuri-senpai`,
+  `Tohsaka-senpai`, `Saber-san`, `Saber-chan`, `Rider-san`, `Caster-san`,
+  `Lancer-san`, `Archer-san`, `Bazett-san`, `Caren-san`.
 - Tratamento por sobrenome (`Tohsaka`, `Emiya`) se mantém como no original; não
   "abrasileire" para primeiro nome.
+- Nomes japoneses em nome completo usam ordem japonesa, sobrenome antes do nome:
+  `Emiya Shirou`, `Tohsaka Rin`, `Matou Sakura`, `Matou Shinji`,
+  `Emiya Kiritsugu`, `Kotomine Kirei`, `Tohsaka Tokiomi`, `Matou Kariya`,
+  `Matou Zouken`, `Fujimura Taiga`, `Kuzuki Souichirou`.
 
 ---
 
@@ -472,18 +485,18 @@ personagem **deve ser gravada no glossário**, no bloco de vozes.
 
 ### 8.1 Elenco FSN/FHA
 
-- **Shirou Emiya** ♂ — narrador em 1ª pessoa. Sincero, direto, idealista, meio duro
+- **Emiya Shirou** ♂ — narrador em 1ª pessoa. Sincero, direto, idealista, meio duro
   quando introspectivo. Monólogo interno denso, tom confessional e urgente, com
   repetição em mantra ("Está certo. Está certo. Isso está certo."). Não é pomposo de
   graça, e em FHA precisa funcionar em cena banal sem virar narrador de drama.
 - **Saber / Artoria** ♀ — firme, digna, econômica, clara; formalidade de realeza
   medieval mesmo no trivial; nada de contração desleixada nem vulgaridade. Em FHA
   está mais relaxada, mas nunca espalhafatosa. Emoção sempre sob controle.
-- **Rin Tohsaka** ♀ — afiada, confiante, sarcástica, orgulhosa da própria competência;
+- **Tohsaka Rin** ♀ — afiada, confiante, sarcástica, orgulhosa da própria competência;
   tsundere clássica, oscila entre frieza e calor genuíno sem perder identidade;
   timing excelente em irritação e vergonha. Em FHA o lado doméstico e constrangido
   aparece mais.
-- **Sakura Matou** ♀ — voz suave, hesitante, afeto reprimido, dor contida; raramente
+- **Matou Sakura** ♀ — voz suave, hesitante, afeto reprimido, dor contida; raramente
   confronta. Em quebra emocional não pode soar só "fofa": precisa de densidade. Em
   cena leve, não infantilize a delicadeza.
 - **Illyasviel** ♀ — doçura e crueldade alternando sem aviso; infantil sem ser
@@ -500,17 +513,17 @@ personagem **deve ser gravada no glossário**, no bloco de vozes.
 - **Assassin / Sasaki Kojirou** ♂ — sereno, filosófico, pausado; a arte do combate
   acima da vitória.
 - **Berserker / Héracles** ♂ — não fala articuladamente; rugidos e grunhidos.
-- **Kirei Kotomine** ♂ — calmo, solene, ritualístico, perturbador; não desperdiça
+- **Kotomine Kirei** ♂ — calmo, solene, ritualístico, perturbador; não desperdiça
   palavra, não usa gíria; encontra prazer clínico na dor alheia. Banalizar a fala
   dele é erro.
 - **Gilgamesh** ♂ — régio, absoluto, narcisista; todos são vermes e insolentes;
   vocabulário grandioso; divertido quando está acima de tudo. Nunca vilão genérico.
-- **Taiga Fujimura (Fuji-nee)** ♀ — expansiva, barulhenta, dramática, calorosa;
+- **Fujimura Taiga (Fuji-Nee)** ♀ — expansiva, barulhenta, dramática, calorosa;
   gíria à vontade, exagera tudo; engraçada sem parecer forçada. Tem de soar gente,
   não alívio cômico robótico.
 - **Issei Ryuudou** ♂ — sério, formal, estudantil.
-- **Zouken Matou** ♂ — ancião sinistro; pausado, calculado, ameaçador.
-- **Souichirou Kuzuki** ♂ — seco, mínimo; só o necessário.
+- **Matou Zouken** ♂ — ancião sinistro; pausado, calculado, ameaçador.
+- **Kuzuki Souichirou** ♂ — seco, mínimo; só o necessário.
 
 ### 8.2 Exclusivos de FHA (coração do fandisc)
 

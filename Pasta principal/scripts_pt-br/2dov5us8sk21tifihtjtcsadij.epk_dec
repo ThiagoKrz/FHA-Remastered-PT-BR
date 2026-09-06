@@ -7,7 +7,7 @@ id=qid::label=str::text=lstr::
 19613::$$$message_0154_0001_0001$$$::Como uma armadilha que cai do teto, espinhos no chão, [wait canskip=0 time=400][dash textoff=0 mx=0 opacity=200 layer=base irot=-0.0 cx=762 imag=1.7 time=8000 cy=582 mag=1.7 my=-272 storage=iアインツ監禁部屋(寝袋b)-(深夜) rot=-0.0 accel=0]paredes que se fecham ou água que inunda o quarto...[lr]::
 19614::$$$message_0154_0001_0002$$$::"...Tudo bem. Estou seguro."[lr]::
 19615::$$$message_0154_0001_0003$$$::Me tranquilizo depois de examinar cada centímetro quadrado do cômodo.::
-19616::$$$message_0154_0002_0000$$$::"Parece que a Sella não é [font italic=true]tão[font italic=false] má assim.[lr]::
+19616::$$$message_0154_0002_0000$$$::"A Sella não é [font italic=true]tão[font italic=false] má assim.[lr]::
 19617::$$$message_0154_0002_0001$$$::...Que bom. Estou cansado, então eu vou..."[lr]::
 19618::$$$message_0154_0002_0002$$$::Dormir.[lr]::
 19619::$$$message_0154_0002_0003$$$::Humanos conseguem dormir quando estão com sono desesperado.::
@@ -62,27 +62,27 @@ id=qid::label=str::text=lstr::
 19668::$$$message_0154_0017_0000$$$::"É. Até mais, Illya."[lr]::
 19669::$$$message_0154_0017_0001$$$::"Tudo bem. Tchau."[lr]::
 19670::$$$message_0154_0017_0002$$$::...Ela não diz boa noite.[lr]::
-19671::$$$message_0154_0017_0003$$$::Este quarto realmente parece desolado demais para ser um quarto de dormir.[lr]::
+19671::$$$message_0154_0017_0003$$$::Este quarto é desolado demais para ser um quarto de dormir.[lr]::
 19672::$$$message_0154_0017_0004$$$::Mas isso não vai me incomodar depois que eu estiver dormindo.::
 19673::$$$message_0154_0018_0000$$$::".........Hum?"[lr]::
 19674::$$$message_0154_0018_0001$$$::Eu ouço as dobradiças da porta rangendo.[lr]::
 19675::$$$message_0154_0018_0002$$$::Logo quando eu estou quase caindo no sono, percebo que tem mais alguém no quarto.::
-19676::$$$message_0154_0019_0000$$$::"Irmãozinho... você ainda está acordado?"[lr]::
+19676::$$$message_0154_0019_0000$$$::"Onii-chan... você ainda está acordado?"[lr]::
 19677::$$$message_0154_0019_0001$$$::"Illya?"[lr]::
 19678::$$$message_0154_0019_0002$$$::Ela veio para cá sozinha tão tarde da noite?::
 19679::$$$message_0154_0020_0000$$$::"Sim, estou acordado. Você está aqui por causa do que aconteceu mais cedo...?"[lr]::
 19680::$$$message_0154_0020_0001$$$::"Sim. A Sella não vai estar por perto agora.[lr]::
-19681::$$$message_0154_0020_0002$$$::Eu sei que a sua intenção era boa, mas eu realmente não quero deixar você dormir num lugar como este."::
+19681::$$$message_0154_0020_0002$$$::Eu sei que a sua intenção era boa, mas não quero deixar você dormir num lugar como este."::
 19682::$$$message_0154_0021_0000$$$::"...Illya."[lr]::
 19683::$$$message_0154_0021_0001$$$::Então é por isso que ela veio para cá sozinha depois das luzes do castelo serem apagadas.[lr]::
 19684::$$$message_0154_0021_0002$$$::Seria rude da minha parte recusar a gentileza dela.::
 19685::$$$message_0154_0022_0000$$$::"É... Eu me sinto um idiota. Eu deveria ter aceitado a sua oferta na hora.[lr]::
 19686::$$$message_0154_0022_0001$$$::[chgfg textoff=0 time=300 storage=イリヤ08d(中)]Então, para onde nós vamos agora?"[lr]::
-19687::$$$message_0154_0022_0002$$$::"Você não vai ter que ir para longe. Vamos dormir juntos no meu quarto."[lr]::
+19687::$$$message_0154_0022_0002$$$::"Você não vai ter que ir para longe. Vamos dormir juntos no meu quarto., Onii-chan"[lr]::
 19688::$$$message_0154_0022_0003$$$::Ah, o quarto da Illya. Isso não soa tão[line len=2]::
 19689::$$$message_0154_0023_0000$$$::Espera, [quake vmax=20 hmax=0 time=800]o quê!?[lr]::
 19690::$$$message_0154_0023_0001$$$::Dormir juntos no quarto dela!?[lr]::
-19691::$$$message_0154_0023_0002$$$::De jeito nenhum. A Illya é como uma irmãzinha para mim. Não, espera. Não tem nada de estranho nisso. Mas não, ela continua sendo uma dama, mesmo sendo baixinha, então estarmos na mesma cama seria problemático. Na verdade, não seria nada além de um problema[line len=2]::
+19691::$$$message_0154_0023_0002$$$::De jeito nenhum. A Illya é como uma irmãzinha para mim. Não, espera. Não tem nada de estranho nisso. Mas não, ela continua sendo uma dama, mesmo sendo baixinha, então dormir na mesma cama seria complicado. Na verdade, seria só problema[line len=2]::
 19692::$$$message_0154_0024_0000$$$::"..."[lr]::
 19693::$$$message_0154_0024_0001$$$::"Qual é o problema, Shirou? Você parece inquieto."[lr]::
 19694::$$$message_0154_0024_0002$$$::Não há nada de errado, e mesmo assim a sensação de que algo está [font italic=true]muito[font italic=false] errado nisso está me atormentando.[lr]::
@@ -106,7 +106,7 @@ id=qid::label=str::text=lstr::
 19712::$$$message_0154_0029_0004$$$::Ah, é verdade. Não é que nem eu.::
 19713::$$$message_0154_0030_0000$$$::"...Hmm?"[lr]::
 19714::$$$message_0154_0030_0001$$$::"O que foi, Illya?"[lr]::
-19715::$$$message_0154_0030_0002$$$::"Você quer me ver trocar de roupa? Eu não me importo em deixar você olhar."[lr]::
+19715::$$$message_0154_0030_0002$$$::"Você quer me ver trocar de roupa? Eu não me importo em deixar você olhar, Onii-chan."[lr]::
 19716::$$$message_0154_0030_0003$$$::Não diga bobagens.[lr]::
 19717::$$$message_0154_0030_0004$$$::Pode não importar na idade da Illya, mas homens e mulheres deveriam observar um mínimo de modéstia.::
 19718::$$$message_0154_0031_0000$$$::"Sim, sim. Você não tem graça nenhuma quando se trata de fazer provocações. Vire o rosto para lá então."[lr]::
@@ -115,7 +115,7 @@ id=qid::label=str::text=lstr::
 19721::$$$message_0154_0032_0000$$$::O silêncio recai sobre o quarto.[lr]::
 19722::$$$message_0154_0032_0001$$$::Ouço o farfalhar do tecido.[lr]::
 19723::$$$message_0154_0032_0002$$$::Posso sentir a Illya escorregando para dentro da cama atrás de mim.[lr]::
-19724::$$$message_0154_0032_0003$$$::"Pode virar agora."::
+19724::$$$message_0154_0032_0003$$$::"Pode virar agora, Onii-chan."::
 19725::$$$message_0154_0033_0000$$$::"..."[lr]::
 19726::$$$message_0154_0033_0001$$$::Estou na cama ao lado da Illya.[lr]::
 19727::$$$message_0154_0033_0002$$$::Tem espaço de sobra para nós dois.::
@@ -146,10 +146,10 @@ id=qid::label=str::text=lstr::
 19752::$$$message_0154_0040_0001$$$::"Eheh. Ninguém nunca me disse isso antes... Hum."[lr]::
 19753::$$$message_0154_0040_0002$$$::O calor do meu corpo está começando a aquecer a Illya.[lr]::
 19754::$$$message_0154_0040_0003$$$::Isso deve fazer com que seja mais fácil para ela dormir.::
-19755::$$$message_0154_0041_0000$$$::"Irmãozinho?"[lr]::
+19755::$$$message_0154_0041_0000$$$::"Onii-chan?"[lr]::
 19756::$$$message_0154_0041_0001$$$::"Hum... O que foi?"[lr]::
 19757::$$$message_0154_0041_0002$$$::"Você alguma vez dormiu com alguém quando era pequeno?"[lr]::
-19758::$$$message_0154_0041_0003$$$::Não tenho nenhuma lembrança disso. Naquela época, o Kiritsugu estava sempre viajando e nunca em casa, e a Fuji-nee não dormia na minha casa.::
+19758::$$$message_0154_0041_0003$$$::Não tenho nenhuma lembrança disso. Naquela época, o Kiritsugu estava sempre viajando e nunca em casa, e a Fuji-Nee não dormia na minha casa.::
 19759::$$$message_0154_0042_0000$$$::"E você, Illya? Você dormia com a sua mãe?"[lr]::
 19760::$$$message_0154_0042_0001$$$::Respondo casualmente.[lr]::
 19761::$$$message_0154_0042_0002$$$::Subitamente, ela aperta o meu peito com força.[lr]::
@@ -158,12 +158,12 @@ id=qid::label=str::text=lstr::
 19764::$$$message_0154_0043_0001$$$::"Hum...hum, [fadein textoff=0 time=400 storage=fd22]hehehehe."[lr]::
 19765::$$$message_0154_0043_0002$$$::Por fim, a Illya começa a relaxar novamente.[lr]::
 19766::$$$message_0154_0043_0003$$$::Eu sinto o seu calor delicado e a sua respiração calma.::
-19767::$$$message_0154_0044_0000$$$::"Sempre foi frio dormir sozinha. Agora que você está aqui, eu me sinto tão quente e confortável..."[lr]::
+19767::$$$message_0154_0044_0000$$$::"Sempre foi frio dormir sozinha. Agora que você está aqui, eu me sinto tão quente e confortável.., Onii-chan."[lr]::
 19768::$$$message_0154_0044_0001$$$::A Illya boceja.[lr]::
 19769::$$$message_0154_0044_0002$$$::"Eu sei que isso é só um sonho.[lr]::
 19770::$$$message_0154_0044_0003$$$::Me pergunto se eu não seria mais feliz se eu dormisse com você todas as noites."::
 19771::$$$message_0154_0045_0000$$$::As suas palavras são metade sinceras, metade afetadas pelo sono.[lr]::
-19772::$$$message_0154_0045_0001$$$::Parece que ela está falando com alguém que não está aqui. Ela deve estar dormindo pela metade já.::
+19772::$$$message_0154_0045_0001$$$::Ela está falando com alguém que não está aqui. Já deve estar meio dormindo.::
 19773::$$$message_0154_0046_0000$$$::"...Entendo. Mas eu não acho que você ia querer isso.[lr]::
 19774::$$$message_0154_0046_0001$$$::Eu talvez me revire demais enquanto estou dormindo. Acho que você ficaria farta de mim."[lr]::
 19775::$$$message_0154_0046_0002$$$::"Eu sei. Mas há várias formas de se consertar isso."::
@@ -175,7 +175,7 @@ id=qid::label=str::text=lstr::
 19781::$$$message_0154_0048_0002$$$::A Illya é tão macia e quentinha quanto um gatinho.::
 19782::$$$message_0154_0049_0000$$$::"Uaah... Nós devíamos dormir, Illya."[lr]::
 19783::$$$message_0154_0049_0001$$$::"Sim. A sua vida cotidiana vai continuar por mais um tempo.[lr]::
-19784::$$$message_0154_0049_0002$$$::Bem... até amanhã, irmãozinho."::
+19784::$$$message_0154_0049_0002$$$::Bem... até amanhã, Onii-chan."::
 19785::$$$message_0154_0050_0000$$$::...A sua voz satisfeita me faz adormecer.[lr]::
 19786::$$$message_0154_0050_0001$$$::Sentindo o calor da Illya, eu deslizo para sonhos efêmeros e aprazíveis.::
 19787::$$$message_0154_0051_0000$$$::A quarta noite vai passando.[lr]::

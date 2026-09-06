@@ -25,7 +25,7 @@ id=qid::label=str::text=lstr::
 23666::$$$message_0180_0006_0002$$$::Minha garganta está a ferver.[lr]::
 23667::$$$message_0180_0006_0003$$$::Meu perna direita está em pedaços, depois de forçá-la a correr além do possível.[lr]::
 23668::$$$message_0180_0006_0004$$$::Usei quase toda a energia mágica que Bazett me dava e estou quase fisicamente exausto.[lr]::
-23669::$$$message_0180_0006_0005$$$::Basicamente, estou correndo a seco, então ele pode fazer o que quiser comigo.[wdash canskip=0]::
+23669::$$$message_0180_0006_0005$$$::Estou no limite, sem combustível nenhum, então ele pode fazer o que quiser comigo.[wdash canskip=0]::
 23670::$$$message_0180_0007_0000$$$::"O que você está fazendo? Corra nessa direção, Avenger!"[lr]::
 23671::$$$message_0180_0007_0001$$$::Um passo à frente, Bazett se vira da casa e se dirige para mim.[lr]::
 23672::$$$message_0180_0007_0002$$$::"Hah... Haah, haah, hah... Entendi!"[lr]::
@@ -67,7 +67,7 @@ id=qid::label=str::text=lstr::
 23708::$$$message_0180_0016_0004$$$::O monstro regenera seus olhos e se dirige diretamente para nós, como se tivesse nosso cheiro.::
 23709::$$$message_0180_0017_0000$$$::"...E assim chegamos até aqui.[lr]::
 23710::$$$message_0180_0017_0001$$$::Todos os sinais apontam para ele nos alcançar e nos matar em minutos.[lr]::
-23711::$$$message_0180_0017_0002$$$::Eu te disse como ele é perigoso, mas você simplesmente teve que tentar de qualquer forma.[lr]::
+23711::$$$message_0180_0017_0002$$$::Eu avisei o quanto ele é perigoso, mas você tinha que tentar mesmo assim.[lr]::
 23712::$$$message_0180_0017_0003$$$::Estou errado, Mestre?"[lr]::
 23713::$$$message_0180_0017_0004$$$::"A-Admito que subestimei a força do inimigo. Não esperava um Servo daquele tipo."::
 23714::$$$message_0180_0018_0000$$$::A resposta de Bazett tem um toque leve de arrependimento.[lr]::
@@ -80,13 +80,13 @@ id=qid::label=str::text=lstr::
 23721::$$$message_0180_0020_0002$$$::Não há sentido em adivinhar qual poderia ter sido sua classe original.[lr]::
 23722::$$$message_0180_0020_0003$$$::O que importa agora é como vamos lidar com isso. Não, já sabemos que não conseguimos vencê-lo, mas precisamos descobrir nosso próximo movimento.::
 23723::$$$message_0180_0021_0000$$$::"E agora, Mestre?[lr]::
-23724::$$$message_0180_0021_0001$$$::Apenas deixe que nos mate e recomece?[lr]::
+23724::$$$message_0180_0021_0001$$$::Deixar que ele nos mate e recomeçar?[lr]::
 23725::$$$message_0180_0021_0002$$$::Ou você quer encontrar seu Mestre?"::
 23726::$$$message_0180_0022_0000$$$::"Vamos encontrar a Mestra dos Einzbern, claro. Não havia sinal dela perto do Servo, então deve estar escondida no castelo."[lr]::
 23727::$$$message_0180_0022_0001$$$::"Concordo, mas como vamos chegar lá com o gigante ainda por aí?[lr]::
 23728::$$$message_0180_0022_0002$$$::Podemos correr ou lutar. O que você tem a intenção de fazer?"::
 23729::$$$message_0180_0023_0000$$$::"...Avenger, para ser franco, não me agrada virar as costas a um inimigo. Quando enfrento um desafio, meu estilo é superá-lo com força bruta."[lr]::
-23730::$$$message_0180_0023_0001$$$::"Eu sei. Já estamos juntos há muito tempo. Você sempre me joga em batalhas que perco, mas que ganhamos apenas pela pele dos dentes."::
+23730::$$$message_0180_0023_0001$$$::"Eu sei. Já estamos juntos há bastante tempo. Você sempre me joga em batalhas perdidas que vencemos por um triz."::
 23731::$$$message_0180_0024_0000$$$::"É-é porque eu interpretei mal o seu poder como um loop temporal. Se você fosse um Servo mais normal, eu não precisaria tomar medidas tão desesperadas."[lr]::
 23732::$$$message_0180_0024_0001$$$::"Você tem certeza disso? Isso é o que vamos fazer dessa vez? De qualquer forma, não dá pra chegar ao castelo sem lidar com o cara grande."::
 23733::$$$message_0180_0025_0000$$$::"...Não. Mesmo eu não sou tão imprudente.[lr]::
@@ -101,24 +101,24 @@ id=qid::label=str::text=lstr::
 23742::$$$message_0180_0028_0000$$$::"Assim, lutar não é opção. O que resta..."[lr]::
 23743::$$$message_0180_0028_0001$$$::"Devemos voltar atrás e rumar para o castelo. As nossas chances não são boas, mas ainda melhor que zero."::
 23744::$$$message_0180_0029_0000$$$::Isso mesmo.[lr]::
-23745::$$$message_0180_0029_0001$$$::Apenas um perigo, porém: [lr]::
+23745::$$$message_0180_0029_0001$$$::Só tem uma armadilha: [lr]::
 23746::$$$message_0180_0029_0002$$$::Não podemos ignorar aquele monstro.[lr]::
 23747::$$$message_0180_0029_0003$$$::Bazett precisa lidar com isso de alguma forma se quiser chegar ao castelo.::
 23748::$$$message_0180_0030_0000$$$::"Isso resolve tudo. Vou ficar aqui e distrair o monstro, enquanto você vai sozinho para o castelo.[lr]::
-23749::$$$message_0180_0030_0001$$$::Okay, que nos dá 50% de chance. Desde que você não se confunda, certamente chegará ao castelo com essas pernas.[lr]::
+23749::$$$message_0180_0030_0001$$$::Certo, isso nos dá cinquenta por cento de chance. Desde que você não se perca, vai chegar ao castelo com essas pernas.[lr]::
 23750::$$$message_0180_0030_0002$$$::O castelo está a cerca de quinze quilômetros para o noroeste.[lr]::
-23751::$$$message_0180_0030_0003$$$::Você ainda tem suas garras de gravar runas? Tem. Então isso deve funcionar. Posso te comprar apenas um minuto, mas você é mais do que capaz de fazer boa velocidade sem mim."::
+23751::$$$message_0180_0030_0003$$$::Você ainda tem suas garras de gravar runas? Tem. Então isso deve funcionar. Só consigo ganhar cerca de um minuto para você, mas você dá conta de correr sem mim."::
 23752::$$$message_0180_0031_0000$$$::"...Avenger, eu nunca ordenei que você fizesse isso. Vamos para o castelo juntos."[lr]::
 23753::$$$message_0180_0031_0001$$$::"Não fique doido. Na verdade, isso é mais difícil para mim.[lr]::
 23754::$$$message_0180_0031_0002$$$::Se eu estou sendo sincero com você, nem consigo acompanhar. Fiz o que pude só para chegar até aqui. Se você tiver que desacelerar por causa de mim, certamente vai te pegar."::
 23755::$$$message_0180_0032_0000$$$::"Isso é só porque seu espírito é fraco.[lr]::
-23756::$$$message_0180_0032_0001$$$::Puxe-se. Você deveria conseguir correr se realmente quiser. Você sempre desiste cedo demais."[lr]::
+23756::$$$message_0180_0032_0001$$$::Se recomponha. Você consegue correr se quiser de verdade. Sempre desiste cedo demais."[lr]::
 23757::$$$message_0180_0032_0002$$$::"Nnn..."[lr]::
 23758::$$$message_0180_0032_0003$$$::Isso atingiu um ponto fraco.[lr]::
 23759::$$$message_0180_0032_0004$$$::Bazett é do tipo de pessoa que aguenta qualquer coisa até o último momento.::
-23760::$$$message_0180_0033_0000$$$::"Okay, fine, eu ainda posso trabalhar se me botar para o chão.[lr]::
+23760::$$$message_0180_0033_0000$$$::"Tá bom, tá bom, ainda consigo funcionar se me forçar um pouco.[lr]::
 23761::$$$message_0180_0033_0001$$$::Mas eu sinceramente não consigo acompanhar seu ritmo."[lr]::
-23762::$$$message_0180_0033_0002$$$::"...Que inferno. Então pare de pensar nisso em termos de luta. Apenas entre na forma espiritual se tiver que ser."::
+23762::$$$message_0180_0033_0002$$$::"...Que inferno. Então pare de pensar em termos de luta. Entre em forma espiritual se for preciso."::
 23763::$$$message_0180_0034_0000$$$::Uma opinião muito racional, mas também não nos ajuda a nenhum de nós.[lr]::
 23764::$$$message_0180_0034_0001$$$::O que fazer...?[lr]::
 23765::$$$message_0180_0034_0002$$$::Os nossos papéis costumam ser muito mais simples.[lr]::
@@ -128,13 +128,13 @@ id=qid::label=str::text=lstr::
 23769::$$$message_0180_0036_0000$$$::"Mas eu vou. De qualquer forma, vou te atrapalhar."[lr]::
 23770::$$$message_0180_0036_0001$$$::Para provar o ponto, estendo o meu pé esquerdo.[lr]::
 23771::$$$message_0180_0036_0002$$$::Uma das minhas pernas ficou paralisada pelo ataque do monstro.[lr]::
-23772::$$$message_0180_0036_0003$$$::Cheguei até aqui apenas porque estava tentando mostrar como é incrível um Espírito Heroico, mesmo que eu seja o fundo do poço.[lr]::
+23772::$$$message_0180_0036_0003$$$::Só cheguei até aqui porque quis mostrar como um Espírito Heroico é incrível, mesmo sendo o último do fundo do poço.[lr]::
 23773::$$$message_0180_0036_0004$$$::Hmm, acho que não posso mais brincar com ela.::
 23774::$$$message_0180_0037_0000$$$::"Não. Então vou ficar com você. Vamos encontrar um jeito de derrotar o Servo aqui.[lr]::
 23775::$$$message_0180_0037_0001$$$::Não vou sair sozinho. Eu... Eu não posso te deixar para trás."::
 23776::$$$message_0180_0038_0000$$$::Determinação incerta.[lr]::
 23777::$$$message_0180_0038_0001$$$::Tenho certeza de que não é por afeto.[lr]::
-23778::$$$message_0180_0038_0002$$$::São apenas os seus usuais equívocos desesperados.::
+23778::$$$message_0180_0038_0002$$$::São os mal-entendidos desesperados de sempre.::
 23779::$$$message_0180_0039_0000$$$::"...Porque você me compadece?"[lr]::
 23780::$$$message_0180_0039_0001$$$::"N-não. Isso não é compaixão.[lr]::
 23781::$$$message_0180_0039_0002$$$::Você se feriu por causa de mim, então pelo menos posso assumir responsabilidade por isso..."::
@@ -145,7 +145,7 @@ id=qid::label=str::text=lstr::
 23786::$$$message_0180_0040_0004$$$::"Obligado...?"::
 23787::$$$message_0180_0041_0000$$$::"É isso. São assim que se sente a compaixão e a misericórdia.[lr]::
 23788::$$$message_0180_0041_0001$$$::Escuta, jovem garota humana. Se queres salvar alguém do desespero, não deverias fazê-lo por compaixão."::
-23789::$$$message_0180_0042_0000$$$::"Apenas o positivo pode cancelar o negativo. Tentar tirar alguém do luto com a sua própria tristeza não os curará em nada.[lr]::
+23789::$$$message_0180_0042_0000$$$::"Só o positivo pode anular o negativo. Tentar arrancar alguém do luto usando a sua própria tristeza não cura ninguém.[lr]::
 23790::$$$message_0180_0042_0001$$$::...Acho que é uma história diferente se a sociedade der a eles algum cuidado depois. Poucos têm tanto tempo livre assim.[lr]::
 23791::$$$message_0180_0042_0002$$$::Se você vai salvar alguém, precisa ganhar algo com isso. Caso contrário, é um perdedor-perdedor."::
 23792::$$$message_0180_0043_0000$$$::Riso.[lr]::
@@ -156,7 +156,7 @@ id=qid::label=str::text=lstr::
 23797::$$$message_0180_0044_0002$$$::Você não pode se envolver com algo do outro lado do mundo. Mesmo que alguém esteja tendo uma maldita sorte em um lugar que não tem nada a ver com você, deveria rir."::
 23798::$$$message_0180_0045_0000$$$::...É isso. Tentar salvar alguém que nem mesmo existe no seu mundo é como negar todo o seu mundo.[lr]::
 23799::$$$message_0180_0045_0001$$$::É uma lei existencial tácita.[lr]::
-23800::$$$message_0180_0045_0002$$$::Pessoas que não têm nada a ver umas com as outras, que não têm conflito com ninguém, afirmam de todos os tipos de azar apenas por existirem.[lr]::
+23800::$$$message_0180_0045_0002$$$::Pessoas sem relação umas com as outras, sem conflito com ninguém, acabam afirmando todo tipo de desgraça só por existirem.[lr]::
 23801::$$$message_0180_0045_0003$$$::Não há como negar essa desigualdade. Como você poderia continuar se não aceitasse o fato de que sua própria sorte tem que vir ao custo de alguém mais?::
 23802::$$$message_0180_0046_0000$$$::Você deveria rir e aceitar a vida bendita que é sua, mesmo que alguém tenha que viver uma vida miserável. Caso contrário, tudo seria um erro.[lr]::
 23803::$$$message_0180_0046_0001$$$::Enfrentar aquela horrível contradição para o resto da sua vida é o que significa ser um ser humano verdadeiro.::
@@ -197,7 +197,7 @@ id=qid::label=str::text=lstr::
 23838::$$$message_0180_0056_0001$$$::Corro sozinho pelo bosque, sabendo que ele certamente vai morrer.::
 23839::$$$message_0180_0057_0000$$$::Não me sinto obrigado a ele.[lr]::
 23840::$$$message_0180_0057_0001$$$::Como ele disse, essa era a escolha óbvia.[lr]::
-23841::$$$message_0180_0057_0002$$$::Um familiar é um peão descartável cujo único propósito é proteger seu mestre. Faz todo sentido usar meu Servo como escudo para sobreviver.[lr]::
+23841::$$$message_0180_0057_0002$$$::Um familiar é um peão descartável criado para proteger seu Mestre. Faz todo sentido usar meu Servo como escudo para sobreviver.[lr]::
 23842::$$$message_0180_0057_0003$$$::Só me sentiria culpado se não conseguisse chegar ao castelo.[lr]::
 23843::$$$message_0180_0057_0004$$$::Provavelmente serei assim no momento em que falhar em responder ao seu sacrifício com sucesso.::
 23844::$$$message_0180_0058_0000$$$::"...Ngh."[lr]::
@@ -212,7 +212,7 @@ id=qid::label=str::text=lstr::
 23853::$$$message_0180_0059_0002$$$::Minha frustração com ele e comigo mesmo me faz querer destruir tudo o que vejo.::
 23854::$$$message_0180_0060_0000$$$::A escuridão da noite, as árvores abundantes e o castelo além deles[line len=2]se eu pudesse me dar ao luxo, quebraria todos eles em pedaços.[lr]::
 23855::$$$message_0180_0060_0001$$$::Mas a coisa que quero destruir mais do que tudo no momento não são essas coisas sem voz, mas sim...[lr]::
-23856::$$$message_0180_0060_0002$$$::"Oh. Então eu também..."::
+23856::$$$message_0180_0060_0002$$$::"Ah. Então eu também..."::
 23857::$$$message_0180_0061_0000$$$::Eu o deixei para trás.::
 23858::$$$message_0180_0062_0000$$$::De repente, quero me desculpar com tudo o que nunca conheci.[lr]::
 23859::$$$message_0180_0062_0001$$$::Mesmo que fosse a escolha óbvia. Mesmo que ele me tivesse sugerido.[lr]::
@@ -251,7 +251,7 @@ id=qid::label=str::text=lstr::
 23892::$$$message_0180_0070_0005$$$::Tomar um único golpe seria suficiente para esmurrar meus ossos.::
 23893::$$$message_0180_0071_0000$$$::Eu dei sete socos enquanto evitava seu halberd.[lr]::
 23894::$$$message_0180_0071_0001$$$::Cada um deles estava conectado firmemente o suficiente para arrancar órgãos de alguém, mas o homúnculo não parecia reagir.[lr]::
-23895::$$$message_0180_0071_0002$$$::Ou seu uniforme de criada é um Mystic Code de excelência, ou ela simplesmente não sente dor.[lr]::
+23895::$$$message_0180_0071_0002$$$::Ou seu uniforme de criada é um Artefato Místico de primeira, ou ela não sente dor.[lr]::
 23896::$$$message_0180_0071_0003$$$::De qualquer forma, terei que imobilizá-la quebrando seus ossos[line len=2]::
 23897::$$$message_0180_0072_0000$$$::"...Ah."[lr]::
 23898::$$$message_0180_0072_0001$$$::...?[lr]::
@@ -269,7 +269,7 @@ id=qid::label=str::text=lstr::
 23910::$$$message_0180_0076_0003$$$::Ela certamente nasceu para ser uma superpessoa contêiner de Circuitos Mágicos.[lr]::
 23911::$$$message_0180_0076_0004$$$::Não há dúvida nenhuma.[lr]::
 23912::$$$message_0180_0076_0005$$$::Essa garota é outro homúnculo Einzbern.::
-23913::$$$message_0180_0077_0000$$$::"Oh. Não cumprimentou, depois que vim até aqui?[lr]::
+23913::$$$message_0180_0077_0000$$$::"Ah. Nem um cumprimento, depois de eu vir até aqui?[lr]::
 23914::$$$message_0180_0077_0001$$$::Parece que os mages que trabalham para a Associação de Mages não são muito educados. Se você não está aqui para conversar, por favor, saia."::
 23915::$$$message_0180_0078_0000$$$::Ela ri de leve.[lr]::
 23916::$$$message_0180_0078_0001$$$::Ela sabe que sou um Mestre, mas não demonstra a menor cautela comigo.[lr]::
@@ -290,7 +290,7 @@ id=qid::label=str::text=lstr::
 23931::$$$message_0180_0082_0004$$$::Ela não é um Mestre...?[lr]::
 23932::$$$message_0180_0082_0005$$$::O que significa[line len=2]::
 23933::$$$message_0180_0083_0000$$$::"Você é dispensado, Leys. Quero falar com Bazett. Vá fechar a porta da frente para que os fantasmas da floresta não entrem aqui."[lr]::
-23934::$$$message_0180_0083_0001$$$::"...Okay. Illya realmente vai ficar bem...?"[lr]::
+23934::$$$message_0180_0083_0001$$$::"...Certo. A Illya vai ficar bem mesmo...?"[lr]::
 23935::$$$message_0180_0083_0002$$$::"Sim. Quero falar com a Bazett em particular.[lr]::
 23936::$$$message_0180_0083_0003$$$::Leys, você tem sido um pouco ousada ultimamente. Pare de responder assim."[lr]::
 23937::$$$message_0180_0083_0004$$$::"...Hmm. Farei o que você disser, Illya."::
@@ -308,20 +308,20 @@ id=qid::label=str::text=lstr::
 23949::$$$message_0180_0087_0001$$$::A garota se acomoda confortavelmente na cadeira, enquanto eu recuso-me a sentar.[lr]::
 23950::$$$message_0180_0087_0002$$$::Isso ainda é território inimigo, mesmo que ela não queira lutar agora.[lr]::
 23951::$$$message_0180_0087_0003$$$::Bastaria um movimento de seu dedo para apagar esse quarto e tudo o que nele estiver.::
-23952::$$$message_0180_0088_0000$$$::"Você é cauteloso, Bazett. Duvido se a Associação ensinou isso a você, ou se é apenas sua personalidade.[lr]::
+23952::$$$message_0180_0088_0000$$$::"Você é cautelosa, Bazett. Fico me perguntando se aprendeu isso na Associação ou se é só da sua personalidade.[lr]::
 23953::$$$message_0180_0088_0001$$$::Você é do tipo que não aceita nem mesmo uma xícara de chá oferecida por um inimigo?"[lr]::
 23954::$$$message_0180_0088_0002$$$::"...Depende, mas não participarei hoje.[lr]::
 23955::$$$message_0180_0088_0003$$$::Como você disse, vim aqui buscar informações, não para ter um papo social."::
-23956::$$$message_0180_0089_0000$$$::"Realmente? Que pena. Vou cancelar a festa de chá então. Você provavelmente só quer continuar com o negócios."[lr]::
+23956::$$$message_0180_0089_0000$$$::"É mesmo? Que pena. Então vou cancelar a festa do chá. Você provavelmente quer ir direto aos negócios."[lr]::
 23957::$$$message_0180_0089_0001$$$::"..."[lr]::
-23958::$$$message_0180_0089_0002$$$::Começando a duvidar se essa garota realmente é a Mestra Einzbern.[lr]::
-23959::$$$message_0180_0089_0003$$$::Não, se o que ela disse sobre não ser mais um Mestre é verdade, então ela realmente não é.::
+23958::$$$message_0180_0089_0002$$$::Começo a duvidar se essa garota é mesmo a Mestra Einzbern.[lr]::
+23959::$$$message_0180_0089_0003$$$::Não, se o que ela disse sobre não ser mais uma Mestra é verdade, então ela não é mesmo.::
 23960::$$$message_0180_0090_0000$$$::"...Illyasviel.[lr]::
 23961::$$$message_0180_0090_0001$$$::Você disse que não é um Mestre. Então o gigante na floresta não é seu Servo?"[lr]::
 23962::$$$message_0180_0090_0002$$$::"Esse fantasma é meu Servo, mas não o Servo dos Einzbern. Cometi um pequeno equívoco e ele ficou louco.[lr]::
-23963::$$$message_0180_0090_0003$$$::Agora é apenas um fantasma que se importa apenas em proteger-me, não em ganhar a Guerra do Santo Graal."::
+23963::$$$message_0180_0090_0003$$$::Agora é um fantasma que só se importa em me proteger, não em vencer a Guerra do Santo Graal."::
 23964::$$$message_0180_0091_0000$$$::"É... diferente dos monstros que aparecem na cidade, mas você pode considerá-los a mesma coisa.[lr]::
-23965::$$$message_0180_0091_0001$$$::Ele não tem nada a ver com a Guerra do Santo Graal. Ele é apenas um monstro que mata Mestres que entram nessa floresta. Uma sombra sem forma que é um Servo, mas que não conseguiu atingir um propósito digno de um Servo."::
+23965::$$$message_0180_0091_0001$$$::Ele não tem nada a ver com a Guerra do Santo Graal. É um monstro que mata os Mestres que entram nesta floresta. Uma sombra sem forma; um Servo que não conseguiu alcançar um propósito digno de um Servo."::
 23966::$$$message_0180_0092_0000$$$::"Ele não conseguia encontrar um propósito...?"[lr]::
 23967::$$$message_0180_0092_0001$$$::"Sim. Não lhe dei um trabalho adequado, então ele nunca teve chance de cumprir seu dever.[lr]::
 23968::$$$message_0180_0092_0002$$$::Se ele tivesse sido um Servo dos Einzbern, isso nunca teria acontecido."::
@@ -351,9 +351,9 @@ id=qid::label=str::text=lstr::
 23992::$$$message_0180_0099_0004$$$::Nunca ouvi falar de uma classe chamada Avenger.[lr]::
 23993::$$$message_0180_0099_0005$$$::Não deveria nem existir um Espírito Heroico chamado Aŋra Mainyu."[lr]::
 23994::$$$message_0180_0099_0006$$$::Eu digo a dúvida que tive desde o início.::
-23995::$$$message_0180_0100_0000$$$::"Sim, claro, o próprio Aŋra Mainyu não existe. A coisa invocada como Cavaleiro é apenas uma pessoa que falsamente assumiu esse nome.[lr]::
-23996::$$$message_0180_0100_0001$$$::Ele é um pessoa normal que não sabe nada sobre taumaturgia ou mágicos, e não tem nada a ver com males mitológicos.[lr]::
-23997::$$$message_0180_0100_0002$$$::Ele era apenas uma vítima humana, escolhido para ser um ícone e odiado como diabo durante toda a sua vida."::
+23995::$$$message_0180_0100_0000$$$::"Sim, claro, o próprio Aŋra Mainyu não existe. A coisa invocada como Avenger é uma pessoa que reivindicou falsamente esse nome.[lr]::
+23996::$$$message_0180_0100_0001$$$::Ele é uma pessoa normal que não sabe nada sobre Magia ou magos, e não tem nada a ver com males mitológicos.[lr]::
+23997::$$$message_0180_0100_0002$$$::Ele era uma vítima humana, escolhida para servir de ícone e odiada como demônio por toda a vida."::
 23998::$$$message_0180_0101_0000$$$::É uma história de um mundo distante.[lr]::
 23999::$$$message_0180_0101_0001$$$::Havia uma vez uma comunidade que rejeitava conflitos mundanos e construiu um mundo isolado nas montanhas.[lr]::
 24000::$$$message_0180_0101_0002$$$::Eles se reuniram para encarnar a bondade humana, mas não conseguiram se livrar do mal.::
@@ -388,7 +388,7 @@ id=qid::label=str::text=lstr::
 24029::$$$message_0180_0108_0003$$$::"...não existe em nenhum lugar do mundo", ele disse sem o menor sinal de ressentimento.[lr]::
 24030::$$$message_0180_0108_0004$$$::E para isso...[wm canskip=0]::
 24031::$$$message_0180_0109_0000$$$::"Vo[font italic=true]cê se tornou ligado ao nome que as pessoas chamaram de herói.[font italic=false][lr]::
-24032::$$$message_0180_0109_0001$$$::[font italic=true]Isso pode ser apenas um título, mas foi uma aclamação dada pelo povo. Faz sentido que você goste disso."[font italic=false][lr]::
+24032::$$$message_0180_0109_0001$$$::[font italic=true]Pode ser só um título, mas foi uma honraria concedida pelo povo. Faz sentido que você goste."[font italic=false][lr]::
 24033::$$$message_0180_0109_0002$$$::...Como eu poderia ter comentado algo assim?::
 24034::$$$message_0180_0110_0000$$$::"...Então é o Avenger.[lr]::
 24035::$$$message_0180_0110_0001$$$::Uma humana escolhida para representar o mal de Aŋra Mainyu."[wm canskip=0]::
@@ -396,15 +396,15 @@ id=qid::label=str::text=lstr::
 24037::$$$message_0180_0111_0001$$$::Eles o trataram como Angra Mainyu, mas a fé sozinha não lhe concedeu nenhum poder especial."::
 24038::$$$message_0180_0112_0000$$$::"Ele era uma pessoa normal antes e depois de morrer.[lr]::
 24039::$$$message_0180_0112_0001$$$::Mm, já que o nome dele ficou de fora da [font italic=true]Avesta,[font italic=false] ao menos ele está livre disso. Mas é fraco demais para ser chamado de Espírito Heroico.[lr]::
-24040::$$$message_0180_0112_0002$$$::Apenas lixo inútil segundo os padrões dos outros Servos."[lr]::
+24040::$$$message_0180_0112_0002$$$::Lixo inútil segundo os padrões dos outros Servos."[lr]::
 24041::$$$message_0180_0112_0003$$$::"Lixo...?"::
 24042::$$$message_0180_0113_0000$$$::"Hmm? O que? Você quer lutar agora? Não há nada a ganhar com me matar.[lr]::
 24043::$$$message_0180_0113_0001$$$::Alguém já disse que você é mais assustador do que parece?"::
 24044::$$$message_0180_0114_0000$$$::Eu percebi que assumi uma postura agressiva.[lr]::
 24045::$$$message_0180_0114_0001$$$::...A garota não está errada.[lr]::
 24046::$$$message_0180_0114_0002$$$::Ele é muito fraco para ser um Espírito Heroico, e no início, achei que ele também fosse inútil.[lr]::
-24047::$$$message_0180_0114_0003$$$::Mas isso é apenas porque não fui perceptivo o suficiente para reconhecer seus pontos fortes, que não são fáceis de compreender.::
-24048::$$$message_0180_0115_0000$$$::"Não, Bazett. Ele realmente foi inútil para mim.[lr]::
+24047::$$$message_0180_0114_0003$$$::Mas isso foi porque eu não tive percepção suficiente para reconhecer os pontos fortes dele, que não são fáceis de compreender.::
+24048::$$$message_0180_0115_0000$$$::"Não, Bazett. No meu caso, ele foi inútil mesmo.[lr]::
 24049::$$$message_0180_0115_0001$$$::Foi só mais tarde que ele se tornou o "herói" que seu povo desejava. Ele era tão impotente quanto no dia em que primeiro lhe impuseram aquele desejo. Nem sequer conseguia usar um Fantasma Nobre."::
 24050::$$$message_0180_0116_0000$$$::"..."[lr]::
 24051::$$$message_0180_0116_0001$$$::Ele não conseguia usar seu Fantasma Nobre...?[lr]::
@@ -439,7 +439,7 @@ id=qid::label=str::text=lstr::
 24080::$$$message_0180_0125_0003$$$::Ninguém diria que era inútil depois de experimentá-lo uma vez.::
 24081::$$$message_0180_0126_0000$$$::"...Entendi. Não precisamos discutir o Avenger, então.[lr]::
 24082::$$$message_0180_0126_0001$$$::Vou ao ponto, Illyasviel. [cacheimage storage=イリヤ01a(中)][wvl][chgfg textoff=0 time=300 storage=イリヤ01a(中)]Como é essa Guerra do Santo Graal para você?"[lr]::
-24083::$$$message_0180_0126_0002$$$::"Isso é difícil de responder. Não sou mais parte disso, e não me interesso por isso. Está muito longe, então estou apenas aproveitando a vista."::
+24083::$$$message_0180_0126_0002$$$::"É difícil responder. Não faço mais parte disso e não tenho interesse. Ficou para trás há muito tempo; agora só estou apreciando a paisagem."::
 24084::$$$message_0180_0127_0000$$$::"Você não sabe nada sobre os familiars que aparecem na cidade?"[lr]::
 24085::$$$message_0180_0127_0001$$$::"Não. Eu te disse, não sou parte disso.[lr]::
 24086::$$$message_0180_0127_0002$$$::Mas... eles não vão voltar depois de hoje. Eles só podem existir do primeiro dia até o quarto dia."::
@@ -458,17 +458,17 @@ id=qid::label=str::text=lstr::
 24099::$$$message_0180_0132_0000$$$::"Você veio aqui para resolver isso. Quer parar a Guerra do Santo Graal e passar do quarto dia."[lr]::
 24100::$$$message_0180_0132_0001$$$::"Hmm? N-não, eu só..."[lr]::
 24101::$$$message_0180_0132_0002$$$::Não tenho nenhum desejo de parar a Guerra do Santo Graal.[lr]::
-24102::$$$message_0180_0132_0003$$$::Quero apenas saber por que estamos limitados a quatro dias.::
+24102::$$$message_0180_0132_0003$$$::Só quero saber por que estamos presos a quatro dias.::
 24103::$$$message_0180_0133_0000$$$::"Estou errado? O que você quer fazer? Quer continuar assim para sempre?"[block len=6][lr]::
 24104::$$$message_0180_0133_0001$$$::Não. Eu só quero vencer essa guerra bizarra e terminar minha missão.::
-24105::$$$message_0180_0134_0000$$$::"Oh. Bem, eu poderia te ajudar se você romper o pacto com seu Servo, mas seu problema está fora da minha jurisdição.[lr]::
+24105::$$$message_0180_0134_0000$$$::"Ah. Bem, eu poderia ajudar se você rompesse o pacto com seu Servo, mas o seu problema está fora da minha jurisdição.[lr]::
 24106::$$$message_0180_0134_0001$$$::Diga-me que não sou mais parte disso.[lr]::
 24107::$$$message_0180_0134_0002$$$::Não me sinto com vontade de sair deste castelo. Você terá que descobrir por si mesmo por que sua Guerra do Santo Graal virou assim, Bazett."::
 24108::$$$message_0180_0135_0000$$$::A garota se levanta.[lr]::
 24109::$$$message_0180_0135_0001$$$::Illyasviel sai do lobby, parecendo cansada de mim.::
 24110::$$$message_0180_0136_0000$$$::"Boa noite, Bazett. Se o que você disse é verdade, então você voltará hoje à noite. Deveria ficar no castelo até então. O fantasma atacará se você voltar para a floresta.[lr]::
 24111::$$$message_0180_0136_0001$$$::...As estrelas estão lindas hoje à noite. Você deveria aproveitar o tempo sozinho para pensar.[lr]::
-24112::$$$message_0180_0136_0002$$$::O que você quer fazer? Você realmente quer consertar o que está errado?"::
+24112::$$$message_0180_0136_0002$$$::O que você quer fazer? Quer mesmo consertar o que está errado?"::
 24113::$$$message_0180_0137_0000$$$::...Deixo o castelo invernal.[lr]::
 24114::$$$message_0180_0137_0001$$$::Rejeitei seu convite.[lr]::
 24115::$$$message_0180_0137_0002$$$::Mesmo que isso signifique que eu vá para a floresta e o monstro me mate, não posso ficar aqui e me relaxar sozinho.::
@@ -484,14 +484,13 @@ id=qid::label=str::text=lstr::
 24125::$$$message_0180_0139_0006$$$::Pergunto a mim mesmo o que, além de um Fantasma Nobre, poderia ter causado um milagre assim...::
 24126::$$$message_0180_0140_0000$$$::...e negar a resposta que vem à mente.::
 24127::$$$message_0180_0141_0000$$$::"...Não posso confiar no Avenger.[lr]::
-24128::$$$message_0180_0141_0001$$$::Eu posso fazer apenas o que está ao meu alcance."[lr]::
+24128::$$$message_0180_0141_0001$$$::Só posso fazer o que está ao meu alcance."[lr]::
 24129::$$$message_0180_0141_0002$$$::...Isso mesmo. Na próxima vez, investigarei a cidade enquanto ele dorme de dia.[lr]::
 24130::$$$message_0180_0141_0003$$$::O Avenger diz que não pode atuar durante o dia, mas eu não tenho tais restrições.[lr]::
 24131::$$$message_0180_0141_0004$$$::Fui só evitando, mas não sou um vampiro nem nada disso.::
-24132::$$$message_0180_0142_0000$$$::"Os mages de Fuyuki são Tohsaka, Matou...e Kiritsugu Emiya, que sobreviveram à última guerra."[lr]::
+24132::$$$message_0180_0142_0000$$$::"Os mages de Fuyuki são Tohsaka, Matou...e Emiya Kiritsugu, que sobreviveram à última guerra."[lr]::
 24133::$$$message_0180_0142_0001$$$::Aí é onde devo começar minha busca.[lr]::
 24134::$$$message_0180_0142_0002$$$::Vou explorar a cidade sem dizer à minha Serva.[lr]::
 24135::$$$message_0180_0142_0003$$$::Uma dor lateja no peito novamente.[lr]::
-24136::$$$message_0180_0142_0004$$$::...Quero que eu realmente não consiga confiar nele, de dentro pra fora.[lr]::
+24136::$$$message_0180_0142_0004$$$::...Eu queria, lá no fundo, não conseguir confiar nele de verdade.[lr]::
 24137::$$$message_0180_0142_0005$$$::Quero confiar nele, mas vou mantê-lo na ignorância e descobrir a verdade.::
-

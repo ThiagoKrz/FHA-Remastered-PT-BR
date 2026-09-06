@@ -1,6 +1,6 @@
 DAT
 id=qid::label=str::text=lstr::
-27794::$$$message_0206_0000_0000$$$::Okay.[lr]::
+27794::$$$message_0206_0000_0000$$$::   Certo.[lr]::
 27795::$$$message_0206_0000_0001$$$::Muito aconteceu, mas é hora de tomar um banho!::
 27796::$$$message_0206_0001_0000$$$::"Hmm. Finalmente, um descanso..."[lr]::
 27797::$$$message_0206_0001_0001$$$::O dia acabou e repouso meu corpo cansado.[lr]::
@@ -86,9 +86,9 @@ id=qid::label=str::text=lstr::
 27877::$$$message_0206_0027_0000$$$::"Desculpe, Shirou."[lr]::
 27878::$$$message_0206_0027_0001$$$::"O espelho está ali! Você está se apoiando em mim!"[lr]::
 27879::$$$message_0206_0027_0002$$$::"Parece que a petrificação está começando a desaparecer... Hmm, que textura estranha."[lr]::
-27880::$$$message_0206_0027_0003$$$::"Isso é o banheiro. Mais importante ainda, seu peito está[line len=2]uwaaah!"[lr]::
+27880::$$$message_0206_0027_0003$$$::"Isso é a banheira. Mais importante, o seu peito está[line len=2]uwaaah!"[lr]::
 27881::$$$message_0206_0027_0004$$$::"Sim, eu sei. Por favor, fique calmo, Shirou."[lr]::
-27882::$$$message_0206_0027_0005$$$::"Isso é a luz[wvl canskip=0 time=400]... [wvl canskip=0 time=400]Hey, você está fazendo isso de propósito?"::
+27882::$$$message_0206_0027_0005$$$::"Aquilo é a luz[wvl canskip=0 time=400]... [wvl canskip=0 time=400]Ei, você está fazendo isso de propósito?"::
 27883::$$$message_0206_0028_0000$$$::Pego a mão fina dela, cuidando para não olhar para seu corpo descoberto.[lr]::
 27884::$$$message_0206_0028_0001$$$::A Rider está franzindo os olhos para mim, mas parece estar focando no lugar errado.::
 27885::$$$message_0206_0029_0000$$$::"Rider, quantos dedos estou segurando?"[lr]::
@@ -114,11 +114,11 @@ id=qid::label=str::text=lstr::
 27905::$$$message_0206_0035_0001$$$::"Claro. Sente-se bem aqui. Vire-se para esse lado para que eu possa ver sua costas inteira."[lr]::
 27906::$$$message_0206_0035_0002$$$::"Mm...[wvl canskip=0 time=400]...[wvl canskip=0 time=400][se storage=se190.wav]... Ah, aqui está a cadeira."::
 27907::$$$message_0206_0036_0000$$$::"Não, não, aquilo é o lavatório... [wvl canskip=0 time=400] Você caiu nele!?"[lr]::
-27908::$$$message_0206_0036_0001$$$::"Ngh...! Está tão confuso."[lr]::
-27909::$$$message_0206_0036_0002$$$::"Vai quebrar se tentar arrancá-lo assim."::
-27910::$$$message_0206_0037_0000$$$::"Então usarei minhas unhas para arrancar a carne do meu traseiro disso."[lr]::
+27908::$$$message_0206_0036_0001$$$::"Ngh...! Isso é confuso demais."[lr]::
+27909::$$$message_0206_0036_0002$$$::"Vai quebrar se você tentar arrancar à força desse jeito."::
+27910::$$$message_0206_0037_0000$$$::"Então vou usar as unhas para arrancar dele a carne das minhas nádegas."[lr]::
 27911::$$$message_0206_0037_0001$$$::"[font italic=true]Por quê!?"[font italic=false][lr]::
-27912::$$$message_0206_0037_0002$$$::"Não há outra forma."[lr]::
+27912::$$$message_0206_0037_0002$$$::"Não há outro jeito."[lr]::
 27913::$$$message_0206_0037_0003$$$::"Não não não não, vamos pensar nisso um pouco mais![lr]::
 27914::$$$message_0206_0037_0004$$$::Eu sei, use o sabonete corporal para lubrificar-se!"::
 27915::$$$message_0206_0038_0000$$$::"Acho que seria mais rápido cortar eu mesmo."[lr]::
@@ -132,14 +132,14 @@ id=qid::label=str::text=lstr::
 27923::$$$message_0206_0040_0001$$$::"Mas sim, para mim! ...Serio, só me mostre a sua costas.[lr]::
 27924::$$$message_0206_0040_0002$$$::E então... hum...?"::
 27925::$$$message_0206_0041_0000$$$::Minha mão hesita sobre a floresta de garrafas.[lr]::
-27926::$$$message_0206_0041_0001$$$::Saber, Tohsaka e Rin usam diferentes xampus. As garrafas pessoais de Illya e Fuji-nee estão misturadas com elas, mesmo que nem vivam aqui.::
+27926::$$$message_0206_0041_0001$$$::Saber, Tohsaka e Rin usam diferentes xampus. As garrafas pessoais de Illya e Fuji-Nee estão misturadas com elas, mesmo que nem vivam aqui.::
 27927::$$$message_0206_0042_0000$$$::"Meu frasco é o bege."[lr]::
 27928::$$$message_0206_0042_0001$$$::"O terceiro da direita?"[wvs][se storage=se712.wav][lr]::
 27929::$$$message_0206_0042_0002$$$::"Isso... esse?"[lr]::
 27930::$$$message_0206_0042_0003$$$::"Não, dois mais à esquerda. Aquela?"[lr]::
-27931::$$$message_0206_0042_0004$$$::"Hmm, isso parece... [wvl] [se storage=se713.wav] Vá em frente."[lr]::
-27932::$$$message_0206_0042_0005$$$::Isso dá a sensação de que estou movendo ela via controle remoto.::
-27933::$$$message_0206_0043_0000$$$::"Okay... Não fique nervoso."[lr]::
+27931::$$$message_0206_0042_0004$$$::"Hm, esse aqui parece mesmo...[wvl][se storage=se713.wav] Pode ir."[lr]::
+27932::$$$message_0206_0042_0005$$$::Tenho quase a sensação de estar movendo ela por controle remoto.::
+27933::$$$message_0206_0043_0000$$$::"Certo... Não fica nervosa."[lr]::
 27934::$$$message_0206_0043_0001$$$::Seu cabelo sedoso e escorregadio está molhado, brilhando como se fosse feito de fios de prata.::
 27935::$$$message_0206_0044_0000$$$::Eles dizem que o cabelo de uma mulher é sua vida. Não é de se estranhar que sejam tão exigentes com o xampu.[lr]::
 27936::$$$message_0206_0044_0001$$$::Como reage com o couro cabeludo, se é hidratante, se tem ingredientes 100% naturais, se é paraben-free...[lr]::
@@ -159,10 +159,10 @@ id=qid::label=str::text=lstr::
 27950::$$$message_0206_0047_0004$$$::Eu vou usar o xampu caro da Tohsaka para lavar bem os cabelos do Rider.::
 27951::$$$message_0206_0048_0000$$$::Eu esguicho os líquidos na minha mão.[lr]::
 27952::$$$message_0206_0048_0001$$$::Acho que devo usar bastante para todo esse cabelo...[lr]::
-27953::$$$message_0206_0048_0002$$$::Bem, não faz mal.::
-27954::$$$message_0206_0049_0000$$$::"Okay, I'm going to start from the top."[lr]::
+27953::$$$message_0206_0048_0002$$$::Bem, um pouco mais não deve fazer mal.::
+27954::$$$message_0206_0049_0000$$$::"Certo, vou começar por cima."[lr]::
 27955::$$$message_0206_0049_0001$$$::"Por favor...[cacheimage storage=fd21b][wvl][se storage=se063.wav][shock vmax=15 time=400 count=2][fadein time=400 storage=fd21b cleardash=1][stopdash]...mm."[lr]::
-27956::$$$message_0206_0049_0002$$$::Rider fica rígido, como se surpreso com o xampu gelado.[lr]::
+27956::$$$message_0206_0049_0002$$$::Rider fica rígida, como se tivesse se surpreendido com o xampu gelado.[lr]::
 27957::$$$message_0206_0049_0003$$$::Eu trabalho nele, cobrindo seu cabelo de forma uniforme, e agito com meus dedos.::
 27958::$$$message_0206_0050_0000$$$::"Agora que estou segurando, você tem muitos cabelos, realmente."[lr]::
 27959::$$$message_0206_0050_0001$$$::"Sim. Vira mais pesado quando está molhado.[lr]::
@@ -239,11 +239,11 @@ id=qid::label=str::text=lstr::
 28030::$$$message_0206_0071_0003$$$::"Você não está movendo essas coisas, está?"::
 28031::$$$message_0206_0072_0000$$$::"Que pensamento![lr]::
 28032::$$$message_0206_0072_0001$$$::Você não está me tocando e tentando culpar o cabelo por isso, espero."[lr]::
-28033::$$$message_0206_0072_0002$$$::"Diga o que...!?"[lr]::
-28034::$$$message_0206_0072_0003$$$::Ela sabe perfeitamente que não sou! Que provocação.::
-28035::$$$message_0206_0073_0000$$$::"Ugh, já basta. Okay..."[lr]::
+28033::$$$message_0206_0072_0002$$$::"O quê...!?"[lr]::
+28034::$$$message_0206_0072_0003$$$::Ela sabe muito bem que não sou! Que provocadora.::
+28035::$$$message_0206_0073_0000$$$::"Ugh, chega. Tá bom..."[lr]::
 28036::$$$message_0206_0073_0001$$$::Pouco a pouco, começo a entender como trabalhar com o cabelo dela.[lr]::
-28037::$$$message_0206_0073_0002$$$::Eu estendo uma mão para segurar onde ele tenta escapar, e evito apertá-lo. [movefg opacity=255 left=0 top=0 time=2500 accel=0 storage=white textoff=0]Deixo que repose, e se começar a cair, agarro-o suavemente com ambas as mãos e o apoio.[lr]::
+28037::$$$message_0206_0073_0002$$$::Estendo a mão para segurar o cabelo onde ele tenta escapar e evito apertar. [movefg opacity=255 left=0 top=0 time=2500 accel=0 storage=white textoff=0]Deixo repousar; se começa a cair, seguro com cuidado e apoio com os dois braços.[lr]::
 28038::$$$message_0206_0073_0003$$$::Como lidar com uma serpente, basicamente.::
 28039::$$$message_0206_0074_0000$$$::"Ai, [wvl canskip=0 time=400][se storage=se063.wav][shock vmax=15 hmax=5 time=500 count=3]ho, [wvl canskip=0 time=400][se storage=se063.wav][shock vmax=-15 hmax=10 time=600 count=3]oh, [wvl canskip=0 time=400][se storage=se063.wav][shock vmax=20 time=700 count=3]ooh...[wvl canskip=0 time=600][se storage=se063.wav][shock vmax=25 time=800 count=4] Como assim?"[lr]::
 28040::$$$message_0206_0074_0001$$$::Não tenho mãos suficientes, então uso as costas para sustentar o cabelo.[lr]::
@@ -301,10 +301,10 @@ id=qid::label=str::text=lstr::
 28092::$$$message_0206_0090_0002$$$::A circulação sanguínea da Rider está ficando mais rápida? Ela está se intoxicando mais?[lr]::
 28093::$$$message_0206_0090_0003$$$::Ela frisa e pressiona a cabeça contra mim.::
 28094::$$$message_0206_0091_0000$$$::"Hmm... Huah... Shirou, exatamente ali... Estou..."[lr]::
-28095::$$$message_0206_0091_0001$$$::Os cabelos da Rider tocam meus dedos espalhados que tentam sustentar seu corpo.[lr]::
-28096::$$$message_0206_0091_0002$$$::Eu tento colocar força neles. É como tentar segurar um fardo de feno.::
+28095::$$$message_0206_0091_0001$$$::O cabelo da Rider toca meus dedos abertos, que tentam sustentar o corpo dela.[lr]::
+28096::$$$message_0206_0091_0002$$$::Tento firmar os dedos. É como tentar segurar um fardo de feno.::
 28097::$$$message_0206_0092_0000$$$::"Shirou... [wvl][se storage=se712.wav]Shirou..."[lr]::
-28098::$$$message_0206_0092_0001$$$::Rider balança a cabeça, como se tentasse relembrar[se storage=se063.wav] sua mente novamente.[lr]::
+28098::$$$message_0206_0092_0001$$$::Rider balança a cabeça, como se tentasse[se storage=se063.wav] se recompor.[lr]::
 28099::$$$message_0206_0092_0002$$$::Sua garganta pálida arqueia para trás. Naturalmente, seus cabelos movem-se em sincronia com sua cabeça.[lr]::
 28100::$$$message_0206_0092_0003$$$::O cabelo que envolve todo o meu corpo escorrega. Pica, ou talvez doa. Não sei mais.::
 28101::$$$message_0206_0093_0000$$$::Meu racional está se apagando.[lr]::
@@ -368,7 +368,7 @@ id=qid::label=str::text=lstr::
 28159::$$$message_0206_0110_0001$$$::"Hmm... isso é estranho."[lr]::
 28160::$$$message_0206_0110_0002$$$::Meu corpo ainda sente um estranho coceito. Não sei se é por causa do cabelo do Rider ou do xampu da Tohsaka.[lr]::
 28161::$$$message_0206_0110_0003$$$::Sinto estranho quando coloco a camisa.::
-28162::$$$message_0206_0111_0000$$$::"Ah, senpai. Você terminou de tomar banho?"[lr]::
+28162::$$$message_0206_0111_0000$$$::"Ah, Senpai. Você terminou de tomar banho?"[lr]::
 28163::$$$message_0206_0111_0001$$$::"AHHHH!"[lr]::
 28164::$$$message_0206_0111_0002$$$::Ela quase toca meu ombro, fazendo centenas de formigas correrem pela minha pele.::
 28165::$$$message_0206_0112_0000$$$::"...!?"[lr]::
@@ -381,7 +381,7 @@ id=qid::label=str::text=lstr::
 28172::$$$message_0206_0114_0001$$$::"Haah, haah...!?"[lr]::
 28173::$$$message_0206_0114_0002$$$::Sakura mete um dedo no meu [shock vmax=30 time=800 count=2][se storage=se042.wav]peito estendido e...[lr]::
 28174::$$$message_0206_0114_0003$$$::"OAHYAAAGH![wvl canskip=0 time=400] Shakuryah!"[lr]::
-28175::$$$message_0206_0114_0004$$$::A linha central do meu corpo coça como se estivesse sendo lentamente aberta por uma lâmina, e solto um grito estrangulado, frenético.::
+28175::$$$message_0206_0114_0004$$$::A linha central do meu corpo coça como se estivesse sendo aberta devagar por um bisturi, e eu solto uma voz sufocada, quase enlouquecida.::
 28176::$$$message_0206_0115_0000$$$::"Haah, haah, Sakura, não me toque, espera..."[lr]::
 28177::$$$message_0206_0115_0001$$$::"O-okay..."[lr]::
 28178::$$$message_0206_0115_0002$$$::"Heeek, heeek, minha pele é super sensível..."[lr]::
@@ -394,10 +394,10 @@ id=qid::label=str::text=lstr::
 28185::$$$message_0206_0116_0004$$$::"Senpai..."[lr]::
 28186::$$$message_0206_0116_0005$$$::"Hmm?"::
 28187::$$$message_0206_0117_0000$$$::"Senpai... Ah... Você é engraçado."[lr]::
-28188::$$$message_0206_0117_0001$$$::A Sakura me está dando um olhar malicioso.::
-28189::$$$message_0206_0118_0000$$$::"Wah, g-good night, Sakura!"[lr]::
-28190::$$$message_0206_0118_0001$$$::"Senpai[line len=2]huh!?"::
-28191::$$$message_0206_0119_0000$$$::"Sniff sniff, eu cheiro sádico.[lr]::
+28188::$$$message_0206_0117_0001$$$::Sakura me olha com um ar travesso.::
+28189::$$$message_0206_0118_0000$$$::"Uah, b-boa noite, Sakura!"[lr]::
+28190::$$$message_0206_0118_0001$$$::"Senpai[line len=2]hã!?"::
+28191::$$$message_0206_0119_0000$$$::"Sniff, sniff, senti cheiro de sadismo.[lr]::
 28192::$$$message_0206_0119_0001$$$::É como quando seu avô, na cama de morte, disse, [cacheimage storage=イリヤ06c(中),藤fd特殊03_右構えb(中),藤fd特殊03_右ジャブb(中),i衛宮邸_渡り廊下-(夜),藤fd特殊02c(中),white][wvl][rep fliplr=0 tops=136,, storages=イリヤ06c(中),藤fd特殊03_右構えb(中),藤fd特殊03_右ジャブb(中) time=300 flipud=0 lefts=598,, poss=,c,c bg=i衛宮邸_渡り廊下-(夜) indexes=1000,2000,3000 opacities=0,255,0][move time=140 path=(215,93,255)(215,61,255)(215,93,255)(215,61,255) storage=藤fd特殊03_右構えb(中) accel=-2][wm canskip=0][rep fliplr=0 tops=136,, storages=イリヤ06c(中),藤fd特殊03_右構えb(中),藤fd特殊03_右ジャブb(中) time=100 flipud=0 lefts=598,, poss=,c,c bg=i衛宮邸_渡り廊下-(夜) indexes=1000,2000,3000 opacities=0,0,255][se storage=se101.wav][move time=100 path=(-50,61,255)(16,61,255)(4,61,0) storage=藤fd特殊03_右ジャブb(中) accel=-2][wait canskip=0 time=100][rep fliplr=0 tops=136,, storages=イリヤ06c(中),藤fd特殊03_右構えb(中),藤fd特殊03_右ジャブb(中) time=100 flipud=0 lefts=598,, poss=,c,c bg=i衛宮邸_渡り廊下-(夜) indexes=1000,2000,3000 opacities=0,255,0][wm canskip=0][rep fliplr=0 tops=136,, storages=イリヤ06c(中),藤fd特殊03_右構えb(中),藤fd特殊03_右ジャブb(中) time=100 flipud=0 lefts=598,, poss=,c,c bg=i衛宮邸_渡り廊下-(夜) indexes=1000,2000,3000 opacities=0,0,255][se storage=se101.wav][move time=150 path=(-50,61,255)(16,61,255)(4,61,0) storage=藤fd特殊03_右ジャブb(中) accel=-2][wait canskip=0 time=100][rep fliplr=0 tops=136,, storages=イリヤ06c(中),藤fd特殊03_右構えb(中),藤fd特殊03_右ジャブb(中) time=100 flipud=0 lefts=598,, poss=,c,c bg=i衛宮邸_渡り廊下-(夜) indexes=1000,2000,3000 opacities=0,255,0][wm canskip=0][move time=180 path=(215,93,255)(215,61,255)(215,93,255)(215,61,255) storage=藤fd特殊03_右構えb(中) accel=-2][wm canskip=0][wait canskip=0 time=400][se storage=se325.wav][shock vmax=25 time=600 count=4][rep fliplr=0 tops=,136, storages=藤fd特殊02c(中),イリヤ06c(中),white time=300 flipud=0 lefts=,593,c poss=c,, bg=i衛宮邸_渡り廊下-(夜) indexes=1000,2000,3000 opacities=255,0,0]'leve o mundo pela mão!' e deixou um estranho herança. Não te lembra do sonho que você teve naquele dia?"::
 28193::$$$message_0206_0120_0000$$$::"Ding [cacheimage storage=イリヤ刻印01c(中)][wvl][se storage=se717.wav][movefg opacity=0 time=200 pos=r accel=0 storage=イリヤ刻印01c(中) textoff=0][wm canskip=0][movefg opacity=180 time=300 pos=r accel=0 storage=イリヤ刻印01c(中) textoff=0][wm canskip=0]ding, [wvl canskip=0 time=600][clfg time=300 storage=イリヤ刻印01c(中) textoff=0]o radar acabou de captar o grito de Shirou. [cacheimage storage=イリヤ06f(中)][wvl][chgfg time=300 storage=イリヤ06f(中)][move time=195 path=(422,167,255)(459,136,255)(494,167,255)(459,136,255) storage=イリヤ06f(中) accel=0 spline=1 textoff=0]O que está acontecendo? O que está acontecendo?"[wm canskip=0][lr]::
 28194::$$$message_0206_0120_0001$$$::"O dueto hilário!? OAHYAAAGH!"::
@@ -405,8 +405,8 @@ id=qid::label=str::text=lstr::
 28196::$$$message_0206_0121_0001$$$::...Ahaha, [cacheimage storage=イリヤ03b(中),イリヤ03b(近)][wvl][chgfg time=300 storage=イリヤ03b(中)][move time=120 path=(350,20,255)(350,0,255)(350,28,255)(350,0,255) storage=イリヤ03b(中) accel=0 textoff=0][wm canskip=0][chgfg time=300 storage=イリヤ03b(近)b textoff=0 left=180][shock vmax=30 time=600 count=3][se storage=se040.wav]oh, Shirou! Pega isso!"[lr]::
 28197::$$$message_0206_0121_0002$$$::"Illya, para aí! YEEAEEAAAAARGH!"::
 28198::$$$message_0206_0122_0000$$$::"E-aí, que barulho absurdo você está fazendo, Shirou![lr]::
-28199::$$$message_0206_0122_0001$$$::Eu não me lembro de ter te ensinado a agir assim!"[lr]::
-28200::$$$message_0206_0122_0002$$$::"Haaagh! Fuji-nee!?"::
+28199::$$$message_0206_0122_0001$$$::Onee-chan, Eu não me lembro de ter te ensinado a agir assim!"[lr]Onee-chan, ::
+28200::$$$message_0206_0122_0002$$$::"Haaagh! Fuji-Nee!?"::
 28201::$$$message_0206_0123_0000$$$::"Ah, Senpai!?"[lr]::
 28202::$$$message_0206_0123_0001$$$::"Hyagh, Sakura, kuh, esses dois..."[lr]::
 28203::$$$message_0206_0123_0002$$$::"Não é justo! Também não é!"[lr]::
@@ -417,9 +417,9 @@ id=qid::label=str::text=lstr::
 28208::$$$message_0206_0124_0003$$$::"Nooo, meu salvador...!"::
 28209::$$$message_0206_0125_0000$$$::"Nufu, você não vai escapar, Shirou! Prepare-se para atirar!"[lr]::
 28210::$$$message_0206_0125_0001$$$::"Vamos com [font italic=true]isso[font italic=false], né, Taiga? Pronto!"::
-28211::$$$message_0206_0126_0000$$$::"Kyudo Club Ultimate Technique! Tope Einzbern!"[lr]::
-28212::$$$message_0206_0126_0001$$$::"Ei-ei! Grande Irmão!"[wvs][wait canskip=0 time=200][lr]::
-28213::$$$message_0206_0126_0002$$$::Fuji-nee agarra os tornozelos de Illya e dá uma virada nela, depois lança-a como se estivesse jogando um martelo.[lr]::
+28211::$$$message_0206_0126_0000$$$::"Técnica Suprema do Clube de Kyudo! Tope Einzbern!"[lr]::
+28212::$$$message_0206_0126_0001$$$::"Iuhu! Onii-chaaan!"[wvs][wait canskip=0 time=200][lr]::
+28213::$$$message_0206_0126_0002$$$::Fuji-Nee agarra os tornozelos de Illya e dá uma virada nela, depois lança-a como se estivesse jogando um martelo.[lr]::
 28214::$$$message_0206_0126_0003$$$::E o kyudo tem a ver com isso!?::
 28215::$$$message_0206_0127_0000$$$::"AAAYHYAAAROOOOGH!"[lr]::
 28216::$$$message_0206_0127_0001$$$::"Consegui! [cacheimage storage=イリヤ04b(近)][wvl][chgfg time=300 storage=イリヤ04b(近)][move time=150 path=(176,174,255)(145,156,255)(176,174,255)(208,156,255)(239,175,255)(271,157,255)(239,175,255)(208,156,255) storage=イリヤ04b(近) accel=0 spline=1 textoff=0]Olha, olha!"[wm canskip=0][lr]::
@@ -428,6 +428,6 @@ id=qid::label=str::text=lstr::
 28219::$$$message_0206_0128_0001$$$::"Mas por quê!"[wm canskip=0][wm canskip=0][lr]::
 28220::$$$message_0206_0128_0002$$$::"Para parar de me copiar, AHYAHYAHYAHYAHYAAAOOH!"[lr]::
 28221::$$$message_0206_0128_0003$$$::Illya se deixa levar e [wm canskip=0][wm canskip=0][wm canskip=0][wait canskip=0 time=300][movefg opacity=200 left=-90 top=-268 time=1500 accel=-2 storage=シネスコw1000a textoff=0][movefg opacity=200 left=-94 top=370 time=1500 accel=-2 storage=シネスコw1000b textoff=0][movefg opacity=180 left=-160 top=0 time=1000 accel=0 storage=特殊白2a textoff=0]pula em cima da minha costas, [wm canskip=0][wm canskip=0][wm canskip=0][wait canskip=0 time=300]começa a me dar o [wait canskip=0 time=100]coochie-coochie-coo[movefg opacity=255 left=-103 top=-200 time=2000 accel=-2 storage=シネスコw1000a textoff=0][movefg opacity=255 left=-94 top=300 time=2000 accel=-2 storage=シネスコw1000b textoff=0][movefg opacity=255 left=-160 top=0 time=1000 accel=0 storage=特殊白2a textoff=0][wait canskip=0 time=300][line len=3]oh [wait canskip=0 time=200]não[wait canskip=0 time=200], [wait canskip=0 time=300]Eu [wait canskip=0 time=200]não[wait canskip=0 time=200]...!::
-28222::$$$message_0206_0129_0000$$$::"Ah... [wvl canskip=0 time=400]Ele parou de se mover."[lr]::
+28222::$$$message_0206_0129_0000$$$::"Ah... [wvl canskip=0 time=400]Ele parou de se mover, Senpai."[lr]::
 28223::$$$message_0206_0129_0001$$$::"KO! Isso é patético, Shirou!"[wvs][se storage=se452.wav][wait canskip=0 time=400]::
 

@@ -5,9 +5,9 @@ id=qid::label=str::text=lstr::
 10281::$$$message_0078_0000_0002$$$::Geralmente, sempre tem uma coisa ou outra que ele ainda não conseguiu resolver.::
 10282::$$$message_0078_0001_0000$$$::"Ah, Shirou!"[rf][lr]::
 10283::$$$message_0078_0001_0001$$$::[font italic=true]...[wait canskip=0 time=800]Que diabos?[font italic=false][lr]::
-10284::$$$message_0078_0001_0002$$$::[font italic=true]Não consigo evitar esfregar os olhos. Será que a Illya realmente se infiltrou? E nem sequer está no campo de visão?[font italic=false]::
+10284::$$$message_0078_0001_0002$$$::[font italic=true]Não consigo parar de esfregar os olhos. Será que Illya entrou escondida? E ainda fora do campo de visão?[font italic=false]::
 10285::$$$message_0078_0002_0000$$$::"I-Illya! O que você está fazendo aqui?"[play storage=bgm105.ogg][lr]::
-10286::$$$message_0078_0002_0001$$$::"Eu vim passar um tempo com meu irmãozão."[lr]::
+10286::$$$message_0078_0002_0001$$$::"Eu vim passar um tempo com Onii-chan."[lr]::
 10287::$$$message_0078_0002_0002$$$::Illya ri enquanto se agarra a mim.[lr]::
 10288::$$$message_0078_0002_0003$$$::Quando olho ao redor, encontro os olhos de todo mundo voltados para mim como se eu fosse um criminoso. Estou sendo abraçado por uma garotinha de cabelos prateados com olhos escarlates[line len=2]::
 10289::$$$message_0078_0003_0000$$$::"Hã?"[lr]::
@@ -18,7 +18,7 @@ id=qid::label=str::text=lstr::
 10294::$$$message_0078_0004_0002$$$::Illya vira o rosto e os olhos e me mostra.::
 10295::$$$message_0078_0005_0000$$$::"Você desvia a linha de visão deles para longe e ao redor. Você pode fazer isso facilmente, mesmo quando lida com muitos alvos."[lr]::
 10296::$$$message_0078_0005_0001$$$::"Eles não conseguem evitar olhar para outro lugar, então ninguém percebe..."[lr]::
-10297::$$$message_0078_0005_0002$$$::Entendi, é uma habilidade de magia. É bem a cara da Illya fazer algo do tipo.[lr]::
+10297::$$$message_0078_0005_0002$$$::Entendi, é uma técnica de Magia. Bem típico da Illya fazer algo assim.[lr]::
 10298::$$$message_0078_0005_0003$$$::Não tem problema se ela estiver no clube de arquearia, mas ela precisaria da aprovação da diretoria ou administração no prédio da escola[line len=2]::
 10299::$$$message_0078_0006_0000$$$::"O que foi, Emiya? Você está causando uma comoção na frente da porta[line len=2]"[lr]::
 10300::$$$message_0078_0006_0001$$$::[chgfg time=300 storage=イリヤ06d(中) textoff=0 last=イリヤ01f(中)]Issei, o chefe da sala do conselho estudantil, faz uma aparição repentina.[lr]::
@@ -32,17 +32,17 @@ id=qid::label=str::text=lstr::
 10308::$$$message_0078_0008_0001$$$::Eu sou Illyasviel. Por favor, perdoe-me por qualquer inconveniência causada pela minha visita repentina."[lr]::
 10309::$$$message_0078_0008_0002$$$::"...Nossa, que saudação educada. Eu sou Issei Ryudou, e tenho a honra de ser o presidente do conselho estudantil desta escola."::
 10310::$$$message_0078_0009_0000$$$::"Sim, eu ouvi falar de você pelo Shirou.[lr]::
-10311::$$$message_0078_0009_0001$$$::[chgfg storage=イリヤ10a(中) pos=r time=300 textoff=0 last=イリヤ06e(中)]Não é, Irmãozão?"[lr]::
+10311::$$$message_0078_0009_0001$$$::[chgfg storage=イリヤ10a(中) pos=r time=300 textoff=0 last=イリヤ06e(中)]Não é, Onii-chan?"[lr]::
 10312::$$$message_0078_0009_0002$$$::Em um piscar de olhos, ela passa de uma apresentação educada para mudar seu tom direto para a Illya maliciosa de sempre.[lr]::
 10313::$$$message_0078_0009_0003$$$::E então ela até joga os braços em volta da minha cintura!::
 10314::$$$message_0078_0010_0000$$$::A suspeita dobrou de uma vez.[lr]::
 10315::$$$message_0078_0010_0001$$$::Enquanto a Illya se agarra a mim, sinto um suor frio começar a se formar.[lr]::
 10316::$$$message_0078_0010_0002$$$::"..."[lr]::
 10317::$$$message_0078_0010_0003$$$::"Issei, hum, é uma longa história, olha, uh..."[lr]::
-10318::$$$message_0078_0010_0004$$$::"Isso mesmo, Issei. O Shirou é meu irmãozão, tá?"::
+10318::$$$message_0078_0010_0004$$$::"Isso mesmo, Issei. O Onii-chan é Onii-chan, tá?"::
 10319::$$$message_0078_0011_0000$$$::[chgfg time=300 storage=イリヤ06e(近) textoff=0]O olhar frio de Issei está em contraste direto com o calor de Illya.[lr]::
 10320::$$$message_0078_0011_0001$$$::E eu estou preso no meio, em perigo de desmaiar com as temperaturas extremas de ambos os lados...::
-10321::$$$message_0078_0012_0000$$$::"Irmãozão, é, Emiya?"[lr]::
+10321::$$$message_0078_0012_0000$$$::"Onii-chan, é, Emiya?"[lr]::
 10322::$$$message_0078_0012_0001$$$::"...É, isso é..."[lr]::
 10323::$$$message_0078_0012_0002$$$::"...Emiya, venha aqui um instante."[cacheimage storage=イリヤ07a(近)][wvs][chgfg time=300 storage=イリヤ07a(近) textoff=0][lr]::
 10324::$$$message_0078_0012_0003$$$::Desta vez, sou puxado para longe de Illya e levado para o canto da sala do conselho estudantil.::
@@ -51,10 +51,10 @@ id=qid::label=str::text=lstr::
 10327::$$$message_0078_0013_0002$$$::Você se lembra que sou adotado, não é, Issei?"[lr]::
 10328::$$$message_0078_0013_0003$$$::"Ah é, desculpe."[lr]::
 10329::$$$message_0078_0013_0004$$$::Ele deve ter pensado que passou dos limites em relação à minha vida pessoal. As relações da família Emiya com certeza são mais complexas do que a maioria.::
-10330::$$$message_0078_0014_0000$$$::"Então ela seria sua irmã adotiva, e portanto você é o irmão mais velho dela."[lr]::
+10330::$$$message_0078_0014_0000$$$::"Então ela seria sua irmã adotiva, e portanto você é o Onii-chan dela."[lr]::
 10331::$$$message_0078_0014_0001$$$::"...É por aí mesmo. Infelizmente."[lr]::
 10332::$$$message_0078_0014_0002$$$::"Não, faz sentido. É difícil imaginar você cometendo um crime. [cacheimage storage=一成02c(近)][wvl][chgfg time=300 storage=一成02c(近) textoff=0]Bom, bom."[lr]::
-10333::$$$message_0078_0014_0003$$$::"Um crime, hã... Bem, eu não posso negar que é suspeito a Illya ficar andando por aí me chamando de 'irmãozão'."::
+10333::$$$message_0078_0014_0003$$$::"Um crime, hã... Bem, eu não posso negar que é suspeito a Illya ficar andando por aí me chamando de 'Onii-chan'."::
 10334::$$$message_0078_0015_0000$$$::"No entanto, Emiya, tenha cuidado.[lr]::
 10335::$$$message_0078_0015_0001$$$::Sinto algo semelhante à Tohsaka nessa sua irmã."[lr]::
 10336::$$$message_0078_0015_0002$$$::...Ele é estranhamente perspicaz.[lr]::
@@ -63,23 +63,23 @@ id=qid::label=str::text=lstr::
 10339::$$$message_0078_0016_0001$$$::Isso não é bom, Emiya. Se você perder de vista o caminho certo, é como caminhar em uma noite escura e nebulosa; é fácil cair nas lacunas das suas ilusões, [cacheimage storage=一成01b腕(近)][wvl][chgfg time=300 storage=一成01b腕(近) textoff=0]então mantenha a purificação das seis raízes da percepção[line len=2]"[lr]::
 10340::$$$message_0078_0016_0002$$$::"Ele está dizendo coisas indelicadas, Shirou."[lr]::
 10341::$$$message_0078_0016_0003$$$::[chgfg time=300 storage=一成03b(近) textoff=0]Illya surge do nada. E de mau humor também.[lr]::
-10342::$$$message_0078_0016_0004$$$::Ela deve estar mais brava com o fato de que foi chamada do mesmo tipo que a Tohsaka, do que com o fato de eu estar sendo alertado sobre meu caminho escorregadio.::
+10342::$$$message_0078_0016_0004$$$::Ela deve estar mais brava por ter sido colocada no mesmo saco que a Tohsaka do que pelo alerta sobre o meu caminho escorregadio.::
 10343::$$$message_0078_0017_0000$$$::"Além disso, Issei, você está enganado.[lr]::
 10344::$$$message_0078_0017_0001$$$::Rin não é especial. Garotas são todas criaturas diabólicas."[lr]::
 10345::$$$message_0078_0017_0002$$$::"L-logo quando eu estava me perguntando o que você ia dizer..."[lr]::
 10346::$$$message_0078_0017_0003$$$::"Aquele Kuzuki que você respeita também está sendo enganado por uma bruxa malvada, sabia? [cacheimage storage=イリヤ02b(中)][wvl canskip=0 time=300][chgfg time=300 storage=イリヤ02b(中) textoff=0]Muahahahaha."[lr]::
 10347::$$$message_0078_0017_0004$$$::A criança diabólica tem até um sorriso relaxado no rosto.[lr]::
 10348::$$$message_0078_0017_0005$$$::Tenho medo de imaginar como ela será quando adulta, se ela já está botando todo o seu charme nessa idade[line len=2]::
-10349::$$$message_0078_0018_0000$$$::"Eu estava me perguntando o que você diria, mas eu não aprovo que você fale mal da Srta. Caster desse jeito, [cacheimage storage=一成02a(近)b][wvl][chgfg time=300 storage=一成02a(近)b textoff=0]e com certeza absoluta não tem como o Souichirou ser enganado tão facilmente."[lr]::
-10350::$$$message_0078_0018_0001$$$::"Bem, não importa, [cacheimage storage=イリヤ11c(中)][wvl][chgfg time=300 storage=イリヤ11c(中) textoff=0]o corpo e a alma do meu irmãozão já são meus da cabeça aos pés!"[lr]::
+10349::$$$message_0078_0018_0000$$$::"Eu estava me perguntando o que você diria, mas eu não aprovo que você fale mal da Caster-san desse jeito, [cacheimage storage=一成02a(近)b][wvl][chgfg time=300 storage=一成02a(近)b textoff=0]e com certeza absoluta não tem como o Souichirou ser enganado tão facilmente."[lr]::
+10350::$$$message_0078_0018_0001$$$::"Bem, não importa, [cacheimage storage=イリヤ11c(中)][wvl][chgfg time=300 storage=イリヤ11c(中) textoff=0]o corpo e a alma do Onii-chan já são meus da cabeça aos pés!"[lr]::
 10351::$$$message_0078_0018_0002$$$::E com essa afirmação ousada e enganosa, Illya joga os braços ao meu redor sem qualquer consideração pela condenação no olhar de Issei!::
 10352::$$$message_0078_0019_0000$$$::"Ei! I-Illya!"[lr]::
 10353::$$$message_0078_0019_0001$$$::"Fala logo! Você se atrai por garotas diabólicas no fim das contas[line len=2]!"[lr]::
-10354::$$$message_0078_0019_0002$$$::"Hehehe, [cacheimage storage=イリヤ03b(近)b][wvl][chgfg time=300 pos=rc storage=イリヤ03b(近)b textoff=0]você já é meu! Eu não vou te dar pra Rin e nem pra Saber!"[lr]::
+10354::$$$message_0078_0019_0002$$$::"Hehehe, [cacheimage storage=イリヤ03b(近)b][wvl][chgfg time=300 pos=rc storage=イリヤ03b(近)b textoff=0]você já é meu! Eu não vou te dar pra Rin e nem pra Saber, Onii-chan!"[lr]::
 10355::$$$message_0078_0019_0003$$$::"Uaaaaa, calma aí!"::
 10356::$$$message_0078_0020_0000$$$::"...Cara, isso foi engraçado. Vale a pena provocar o Issei. [cacheimage storage=イリヤ04b(中)][wvl][chgfg storage=イリヤ04b(中) time=400]Acho que estou começando a entender a Caster e a Rin."::
 10357::$$$message_0078_0021_0000$$$::Illya acena com a cabeça em satisfação.[lr]::
-10358::$$$message_0078_0021_0001$$$::...Depois disso, de alguma forma consegui acalmar um Issei em pânico tomando chá, e a Illya teve permissão para ficar.[lr]::
+10358::$$$message_0078_0021_0001$$$::...Depois disso, consegui acalmar o Issei em pânico com chá, e Illya recebeu permissão para ficar.[lr]::
 10359::$$$message_0078_0021_0002$$$::A Illya é uma bombardeira terrivelmente precisa, explodindo o Issei com uma declaração problemática ou capciosa toda vez.::
 10360::$$$message_0078_0022_0000$$$::"...Ele fica à beira de um colapso nervoso ao lidar com a Tohsaka, então não o intimide. Ele tem uma vida difícil, tá bom?"[lr]::
 10361::$$$message_0078_0022_0001$$$::Illya desfila pela escola com compostura, e os outros não estão olhando para ela.[lr]::
@@ -91,13 +91,13 @@ id=qid::label=str::text=lstr::
 10367::$$$message_0078_0024_0001$$$::Eu não disse nenhuma mentira, e tudo que eu falei para o Issei é verdade."[lr]::
 10368::$$$message_0078_0024_0002$$$::"Verdade? Bem, deixando de lado as opiniões sobre a Saber e a Tohsaka, dizer que eu sou seu é..."[lr]::
 10369::$$$message_0078_0024_0003$$$::Mesmo para demonstrar afeto ao seu irmão, está indo um pouco longe demais.::
-10370::$$$message_0078_0025_0000$$$::"Mas, você é meu irmãozão, não é?[lr]::
+10370::$$$message_0078_0025_0000$$$::"Mas, você é Onii-chan, não é?[lr]::
 10371::$$$message_0078_0025_0001$$$::Então você já é meu há muito tempo.[lr]::
 10372::$$$message_0078_0025_0002$$$::Oh... Ou, será que só eu penso assim...?"::
 10373::$$$message_0078_0026_0000$$$::"Não, isso é..."[lr]::
 10374::$$$message_0078_0026_0001$$$::...De repente, percebo dolorosamente onde me equivoquei em meus pensamentos.[lr]::
 10375::$$$message_0078_0026_0002$$$::A Illya quer dizer que sou dela [font italic=true]nesse[font italic=false] sentido.[lr]::
-10376::$$$message_0078_0026_0003$$$::Mesmo que não estejamos ligados pelo sangue, ela realmente me vê como irmão dela.::
+10376::$$$message_0078_0026_0003$$$::Mesmo sem laço de sangue, ela confia completamente em mim como seu aniki.::
 10377::$$$message_0078_0027_0000$$$::"...Desculpe, Illya.[lr]::
 10378::$$$message_0078_0027_0001$$$::Isso é verdade, eu sou o seu ir[line len=2]"[lr]::
 10379::$$$message_0078_0027_0002$$$::"Te peguei! Você é tão fácil!"[lr]::
@@ -105,26 +105,26 @@ id=qid::label=str::text=lstr::
 10381::$$$message_0078_0027_0004$$$::...Ela me pegou de novo.[lr]::
 10382::$$$message_0078_0027_0005$$$::Será que vou continuar sendo provocado pela Illya pelo resto da minha vida...?::
 10383::$$$message_0078_0028_0000$$$::"Hehe, mas é verdade que eu confio em você.[lr]::
-10384::$$$message_0078_0028_0001$$$::Embora seja engraçado ver o seu rosto preocupado.[lr]::
+10384::$$$message_0078_0028_0001$$$::Embora seja engraçado ver o seu rosto preocupado, Onii-chan.[lr]::
 10385::$$$message_0078_0028_0002$$$::Quando eu te vejo tão preocupado, naturalmente sinto que tenho que te salvar."::
-10386::$$$message_0078_0029_0000$$$::"É por isso que sinto que você também precisa de mim. Nesse sentido, você é meu."[lr]::
+10386::$$$message_0078_0029_0000$$$::"É por isso que sinto que você também precisa de mim. Nesse sentido, você é meu., Onii-chan"[lr]::
 10387::$$$message_0078_0029_0001$$$::"...Haaah."[lr]::
 10388::$$$message_0078_0029_0002$$$::Eu desisto e abaixo os ombros.[lr]::
 10389::$$$message_0078_0029_0003$$$::...Bom... Se for esse o motivo, então ser dela é algo que posso me orgulhar um pouco... eu acho?::
 10390::$$$message_0078_0030_0000$$$::"Hã? Shirou, aonde você está indo?"[lr]::
 10391::$$$message_0078_0030_0001$$$::"No clube de arquearia. Se você for, eles vão te servir um pouco de chá."[lr]::
-10392::$$$message_0078_0030_0002$$$::A Fuji-nee vai apresentar a Illya aos membros do clube de arquearia.[lr]::
+10392::$$$message_0078_0030_0002$$$::A Fuji-Nee vai apresentar a Illya aos membros do clube de arquearia.[lr]::
 10393::$$$message_0078_0030_0003$$$::Ela é uma moça estrangeira, então sem dúvida a tratariam com muita hospitalidade.::
 10394::$$$message_0078_0031_0000$$$::"Ah, onde a Sakura está. Ela é a capitã do clube, não é? Ela se consultou comigo outro dia.[lr]::
 10395::$$$message_0078_0031_0001$$$::Sobre como assumir uma posição de liderança ou como agir como um líder."::
 10396::$$$message_0078_0032_0000$$$::Illya traz à tona algo interessante.[lr]::
 10397::$$$message_0078_0032_0001$$$::Ela é abençoada com um sentimento de nobreza, então a Sakura deve ter querido ouvir o que ela tinha a dizer.::
 10398::$$$message_0078_0033_0000$$$::"Eu agradeço quando você ajuda a Sakura mais ainda do que a mim."[lr]::
-10399::$$$message_0078_0033_0001$$$::"É claro. [cacheimage storage=イリヤ11c(中)][wvl][chgfg storage=イリヤ11c(中) time=400 textoff=0]Preciso cuidar dos meus preciosos irmãos mais novos, como uma irmã mais velha.[lr]::
+10399::$$$message_0078_0033_0001$$$::"É claro. [cacheimage storage=イリヤ11c(中)][wvl][chgfg storage=イリヤ11c(中) time=400 textoff=0]Preciso cuidar dos meus preciosos irmãos mais novos, como uma Nee-san, Onee-san.[lr]::
 10400::$$$message_0078_0033_0002$$$::Com certeza é difícil quando eu também tenho uma irmãzinha crescida no topo de tudo isso."::
-10401::$$$message_0078_0034_0000$$$::Irmã mais velha... O hábito da Illya de agir de forma madura.[lr]::
-10402::$$$message_0078_0034_0001$$$::Além disso, "irmãzinha crescida" deve estar se referindo à Fuji-nee.::
-10403::$$$message_0078_0035_0000$$$::"Oh... Senpai, [cacheimage storage=桜弓道着01b(中)][wvl][chgfg storage=桜弓道着01b(中) pos=r time=400]e a Senhorita Illya também."[lr]::
+10401::$$$message_0078_0034_0000$$$::Nee-san... O hábito da Illya de agir de forma madura, Onee-san.[lr]::
+10402::$$$message_0078_0034_0001$$$::Além disso, "irmãzinha crescida" deve estar se referindo à Fuji-Nee.::
+10403::$$$message_0078_0035_0000$$$::"Oh... Senpai, [cacheimage storage=桜弓道着01b(中)][wvl][chgfg storage=桜弓道着01b(中) pos=r time=400]e a Illya-san também."[lr]::
 10404::$$$message_0078_0035_0001$$$::"Olá, Sakura.[lr]::
 10405::$$$message_0078_0035_0002$$$::Eu vim assistir, mas posso entrar?"[lr]::
 10406::$$$message_0078_0035_0003$$$::"Sim, seja bem-vinda! Que tal você, Senpai?"::
@@ -133,7 +133,7 @@ id=qid::label=str::text=lstr::
 10409::$$$message_0078_0037_0000$$$::"Oh... Não, por favor, cuide da Illya.[lr]::
 10410::$$$message_0078_0037_0001$$$::Eu ainda tenho muito o que fazer."[lr]::
 10411::$$$message_0078_0037_0002$$$::"Ah, ok... [cacheimage storage=桜弓道着03h(中)][wvl][chgfg storage=桜弓道着03h(中) pos=r time=400]Então nos vemos mais tarde."[lr]::
-10412::$$$message_0078_0037_0003$$$::"Até mais, Irmãozão!"::
+10412::$$$message_0078_0037_0003$$$::"Até mais, Onii-chan!"::
 10413::$$$message_0078_0038_0000$$$::Ela se despede de mim com um sorriso.[lr]::
 10414::$$$message_0078_0038_0001$$$::...Agora.[lr]::
 10415::$$$message_0078_0038_0002$$$::Eu estou relutante em ir embora, mas vou fingir que estou indo trabalhar.::

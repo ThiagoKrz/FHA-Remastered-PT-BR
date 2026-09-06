@@ -2,12 +2,12 @@ DAT
 id=qid::label=str::text=lstr::
 13212::$$$message_0107_0000_0000$$$::Vou tentar caminhar pela ponte grande para um passeio tranquilo.[lr]::
 13213::$$$message_0107_0000_0001$$$::O céu está limpo.[lr]::
-13214::$$$message_0107_0000_0002$$$::A luz do sol está levemente quente, e a brisa do oceano resfria meu rosto na medida certa.[lr]::
+13214::$$$message_0107_0000_0002$$$::A luz do Sol está levemente quente, e a brisa do oceano resfria meu rosto na medida certa.[lr]::
 13215::$$$message_0107_0000_0003$$$::Sábado, o primeiro dia do feriado prolongado de três dias, é o dia perfeito para um piquenique.::
 13216::$$$message_0107_0001_0000$$$::"Ah, está bem agitado ali."[lr]::
 13217::$$$message_0107_0001_0001$$$::Tem crianças no parque.[lr]::
 13218::$$$message_0107_0001_0002$$$::Há um bocado delas. Parecem estar divididas em dois times competindo um contra o outro, trazendo tanto equipamento que não daria para usar em um dia só, tipo tacos de beisebol ou bolas de futebol.::
-13219::$$$message_0107_0002_0000$$$::Sinto vontade de tomar um sol e fico assistindo à grande batalha no parque enquanto me apoio no corrimão da ponte.[lr]::
+13219::$$$message_0107_0002_0000$$$::Sinto vontade de tomar um Sol e fico assistindo à grande batalha no parque enquanto me apoio no corrimão da ponte.[lr]::
 13220::$$$message_0107_0002_0001$$$::Depois de muitas idas e vindas, parece que decidiram pelo basquete para a partida da manhã. Cada time escolhe seus melhores jogadores, e começa uma partida de alto nível entre crianças que não podem ser subestimadas.[lr]::
 13221::$$$message_0107_0002_0002$$$::Torcidas, incentivos, agitação, suspiros.[lr]::
 13222::$$$message_0107_0002_0003$$$::Há várias pessoas sentadas na grama do parque, compartilhando as alegrias e tristezas com as crianças. Pelo visto, não sou o único espectador.::
@@ -32,7 +32,7 @@ id=qid::label=str::text=lstr::
 13241::$$$message_0107_0008_0001$$$::"...Sim?"[lr]::
 13242::$$$message_0107_0008_0002$$$::Não pude evitar de dar uma resposta idiota.::
 13243::$$$message_0107_0009_0000$$$::"Ah? Já é 'boa tarde' a essa hora? Então, vou refazer.[lr]::
-13244::$$$message_0107_0009_0001$$$::Olá, boa tarde, senhor!"::
+13244::$$$message_0107_0009_0001$$$::Olá, boa tarde, senhor, Onii-san!"[lr]::
 13245::$$$message_0107_0009_0002$$$::"Ah, sim. [wvl][shock vmax=40 time=500 count=1]Olá."[lr]::
 13246::$$$message_0107_0009_0003$$$::Acabo me deixando levar e o cumprimento de volta.[lr]::
 13247::$$$message_0107_0009_0004$$$::O loirinho sorri alegremente.::
@@ -44,15 +44,15 @@ id=qid::label=str::text=lstr::
 13253::$$$message_0107_0011_0001$$$::"Oh, você não se lembra de mim?"[lr]::
 13254::$$$message_0107_0011_0002$$$::O loirinho fica surpreso.[lr]::
 13255::$$$message_0107_0011_0003$$$::Sinto uma pontada de culpa, mas, infelizmente, nada me vem à mente.::
-13256::$$$message_0107_0012_0000$$$::"Hum, entendo. Você parece meio lerdo, então não tem jeito já que é de repente. Mas já nos encontramos várias vezes. Embora pareça que minha roupa era diferente naquela época."[lr]::
+13256::$$$message_0107_0012_0000$$$::"Hum, entendo. Você parece meio lerdo, então não tem jeito já que é de repente. Mas já nos encontramos várias vezes. Embora pareça que minha roupa era diferente naquela época, Onii-san."[lr]::
 13257::$$$message_0107_0012_0001$$$::"Sua roupa era diferente?"[lr]::
 13258::$$$message_0107_0012_0002$$$::Bem. Só porque a roupa dele era diferente, não teria como eu esquecer um garoto com essas características tão marcantes...::
 13259::$$$message_0107_0013_0000$$$::"Bem, eu diria que era mais a aparência do que a roupa. Bom, quando digo 'parecia que', estou falando de mim mesmo.[lr]::
 13260::$$$message_0107_0013_0001$$$::Tipo, eu sou o mesmo, mas não temos muito em comum."[lr]::
 13261::$$$message_0107_0013_0002$$$::Entendi menos ainda agora.[lr]::
 13262::$$$message_0107_0013_0003$$$::O loirinho franze a testa, como se dissesse que não tem jeito.::
-13263::$$$message_0107_0014_0000$$$::"Então vou te dar uma dica. Eu provavelmente sou quem você mais odeia.[lr]::
-13264::$$$message_0107_0014_0001$$$::Não tem muitas pessoas em quem você possa pensar quando digo isso, certo? Você tem uma quantidade normal de pessoas de quem não gosta, mas não há muitas pessoas que você odeia."::
+13263::$$$message_0107_0014_0000$$$::"Então vou te dar uma dica. Eu provavelmente sou quem você mais odeia, Onii-san.[lr]::
+13264::$$$message_0107_0014_0001$$$::Não tem muitas pessoas em quem você possa pensar quando digo isso, certo? Você tem uma quantidade normal de pessoas de quem não gosta, mas não há muitas pessoas que você odeia, Onii-san."::
 13265::$$$message_0107_0015_0000$$$::Não há sarcasmo na voz do garoto.[lr]::
 13266::$$$message_0107_0015_0001$$$::Ele sabe que é odiado, mas olha para mim com um sorriso inocente.[lr]::
 13267::$$$message_0107_0015_0002$$$::Ele me encara fixamente com olhos vermelhos como sangue[line len=3]espera, segura aí...[wm canskip=0][lr]::
@@ -63,7 +63,7 @@ id=qid::label=str::text=lstr::
 13272::$$$message_0107_0017_0000$$$::"Espera, mas[line len=3]será que ele tem um irmão mais novo...?"[wm canskip=0][lr]::
 13273::$$$message_0107_0017_0001$$$::"Infelizmente, não possuo parentes de sangue. Eu sempre quis ter um irmão ou um parceiro."[lr]::
 13274::$$$message_0107_0017_0002$$$::Um sorriso inocente, como o de um anjo.::
-13275::$$$message_0107_0018_0000$$$::"Ah, mas não se preocupe. A Saber ainda não faz o meu tipo.[lr]::
+13275::$$$message_0107_0018_0000$$$::"Ah, mas não se preocupe. A Saber-san ainda não faz o meu tipo.[lr]::
 13276::$$$message_0107_0018_0001$$$::Bem, eu poderia até me apaixonar por ela se ela me derrotasse agora, mas não a vejo como um objeto de interesse amoroso."::
 13277::$$$message_0107_0019_0000$$$::"..."[lr]::
 13278::$$$message_0107_0019_0001$$$::Minha cabeça está latejando como se eu estivesse desidratado.[lr]::
@@ -75,26 +75,26 @@ id=qid::label=str::text=lstr::
 13284::$$$message_0107_0021_0000$$$::"...Impossível."[lr]::
 13285::$$$message_0107_0021_0001$$$::Não tem como. Realmente não tem como. Mesmo que fosse algum erro, [font italic=true]seriamente[font italic=false] não tem como.[lr]::
 13286::$$$message_0107_0021_0002$$$::Não é possível que ele tenha sido um garoto tão bom quando era pequeno...!::
-13287::$$$message_0107_0022_0000$$$::"Você é tão fácil de ler, senhor. Bem, eu perguntei para todo tipo de pessoa, e todos tiveram a mesma reação, então sei que a culpa é minha.[lr]::
-13288::$$$message_0107_0022_0001$$$::...Puxa vida, eu me pergunto por que eu faria tantas coisas de que as pessoas não gostam."::
+13287::$$$message_0107_0022_0000$$$::"Você é tão fácil de ler, senhor. Bem, eu perguntei para todo tipo de pessoa, e todos tiveram a mesma reação, então sei que a culpa é minha, Onii-san.[lr]::
+13288::$$$message_0107_0022_0001$$$::...Puxa vida, eu me pergunto por que eu faria tantas coisas de que as pessoas não gostam."[lr]::
 13289::$$$message_0107_0022_0002$$$::O loirinho suspira como se fosse um tópico complicado, mesmo sendo sobre si mesmo, não, justamente por ser sobre si mesmo.::
 13290::$$$message_0107_0023_0000$$$::"Ah, estão todos me chamando.[lr]::
-13291::$$$message_0107_0023_0001$$$::Até a próxima, senhor. Você não deveria estar fazendo nada muito perigoso por conta própria, mas, hum, [cacheimage storage=ギル子供01c(中)][wvl][chgfg textoff=0 time=200 storage=ギル子供01c(中)]talvez eu devesse deixar você dar uma olhada por aí, afinal.[lr]::
-13292::$$$message_0107_0023_0002$$$::Se você fizer isso, eu serei capaz de voltar ao normal."::
+13291::$$$message_0107_0023_0001$$$::Até a próxima, senhor. Você não deveria estar fazendo nada muito perigoso por conta própria, mas, hum, [cacheimage storage=ギル子供01c(中)][wvl][chgfg textoff=0 time=200 storage=ギル子供01c(中)]talvez eu devesse deixar você dar uma olhada por aí, afinal, Onii-san.[lr]::
+13292::$$$message_0107_0023_0002$$$::Se você fizer isso, eu serei capaz de voltar ao normal."[lr]::
 13293::$$$message_0107_0023_0003$$$::O loirinho faz uma reverência educada e se prepara para sair.::
 13294::$$$message_0107_0024_0000$$$::"Ei[line len=3]espera, o que isso significa?"[lr]::
 13295::$$$message_0107_0024_0001$$$::"Sinto muito, não posso contar. Meu Mestre me disse que eu não posso te dar a resposta.[lr]::
-13296::$$$message_0107_0024_0002$$$::Sabe, eu tenho antecedentes. O Lancer disse para não causar nenhum problema até eu morrer, mas mesmo assim eu fui ver a Saber.[lr]::
+13296::$$$message_0107_0024_0002$$$::Sabe, eu tenho antecedentes. O Lancer disse para não causar nenhum problema até eu morrer, mas mesmo assim eu fui ver a Saber-san.[lr]::
 13297::$$$message_0107_0024_0003$$$::...Eu me pergunto por que fiz essas coisas."::
 13298::$$$message_0107_0025_0000$$$::"O quê..."[lr]::
 13299::$$$message_0107_0025_0001$$$::Isso deve ser sobre como ele esfaqueou a Caster meio ano atrás na Guerra do Santo Graal.[wm canskip=0][lr]::
 13300::$$$message_0107_0025_0002$$$::Mas[line len=3]::
 13301::$$$message_0107_0026_0000$$$::"Seu Mestre... Kotomine não está mais aqui. Isso é certeza."[lr]::
 13302::$$$message_0107_0026_0001$$$::Sim. Mesmo que todos os Servos tenham ficado, e existam alguns Mestres que não deveriam mais existir.[lr]::
-13303::$$$message_0107_0026_0002$$$::Kirei Kotomine está definitivamente morto.::
+13303::$$$message_0107_0026_0002$$$::Kotomine Kirei está definitivamente morto.::
 13304::$$$message_0107_0027_0000$$$::"Sim, meu Mestre é o Kotomine.[lr]::
 13305::$$$message_0107_0027_0001$$$::Mas o Kotomine está realmente morto. Ele não está mais neste mundo.[lr]::
-13306::$$$message_0107_0027_0002$$$::Então, Kirei Kotomine não tem nada a ver com esta situação. Você deve me ver como um estranho que não tem relação com este jogo. Sim. Eu realmente não tenho nada a ver com este incidente."::
+13306::$$$message_0107_0027_0002$$$::Então, Kotomine Kirei não tem nada a ver com esta situação. Você deve me ver como um estranho que não tem relação com este jogo. Sim. Eu realmente não tenho nada a ver com este incidente."::
 13307::$$$message_0107_0028_0000$$$::O garoto loiro desce as escadas correndo.[lr]::
 13308::$$$message_0107_0028_0001$$$::As crianças estão felizes com o retorno do ídolo.[lr]::
 13309::$$$message_0107_0028_0002$$$::Enquanto o observo perplexo, apenas registro que aquele garoto é realmente ele.[lr]::

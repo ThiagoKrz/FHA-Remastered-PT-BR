@@ -40,9 +40,9 @@ id=qid::label=str::text=lstr::
 3598::$$$message_0026_0015_0000$$$::"Ah, beleza, então é tipo..."[lr]::
 3599::$$$message_0026_0015_0001$$$::Comecei a me sentir como um pai solteiro tendo que encarar o fato de que a única filha dele tá passando pela puberdade.::
 3600::$$$message_0026_0016_0000$$$::Mas, a minha única filha[line len=2][l]Digo, a Saber tá me perguntando essas coisas de peito aberto, então eu não devia zoar com ela, nem fugir desse desafio.[lr]::
-3601::$$$message_0026_0016_0001$$$::...Mesmo que a minha oponente seja uma lingerie.::
+3601::$$$message_0026_0016_0001$$$::...Mesmo que minha adversária seja um sutiã.::
 3602::$$$message_0026_0017_0000$$$::"Hum... Eu acho..."[lr]::
-3603::$$$message_0026_0017_0001$$$::Eu penso na pergunta por um instante, e então chego à uma conclusão do meu próprio jeito.[lr]::
+3603::$$$message_0026_0017_0001$$$::Penso na pergunta por um instante e chego a uma conclusão do meu jeito.[lr]::
 3604::$$$message_0026_0017_0002$$$::"Acho que deve ser o orgulho feminino."::
 3605::$$$message_0026_0018_0000$$$::"Orgulho...?"[lr]::
 3606::$$$message_0026_0018_0001$$$::"É-é."::
@@ -72,24 +72,24 @@ id=qid::label=str::text=lstr::
 3630::$$$message_0026_0029_0000$$$::"Como você sabe, eu sempre escondi o fato de ser mulher, então eu nunca tive nenhuma relação com roupas femininas[line len=3][l][say storage=emi0304_sav_0181 name=セイバー]Mas agora, eu estou prestando uma atenção redobrada a essas vestimentas."::
 3631::$$$message_0026_0030_0000$$$::"Hã... Eu imaginei que você sempre usasse armadura."::
 3632::$$$message_0026_0031_0000$$$::"Sim. Isso era o natural a se fazer como um guerreiro. Mas não era possível usar armadura o tempo todo.[lr]::
-3633::$$$message_0026_0031_0001$$$::Havia momentos em que, como um general, eu tinha que tirar a minha armadura como um gesto de confiança perante aos meus aliados, ou então vestir algo mais rebuscado para reafirmar a minha majestade real como o rei."::
+3633::$$$message_0026_0031_0001$$$::Havia ocasiões em que, como general, eu removia a armadura em sinal de confiança perante meus aliados, ou vestia algo ornamental para afirmar a majestade régia de um rei."::
 3634::$$$message_0026_0032_0000$$$::"Por exemplo...[lr]::
 3635::$$$message_0026_0032_0001$$$::Sim, após o retorno triunfante de uma campanha militar...[lr]::
-3636::$$$message_0026_0032_0002$$$::Eu usava algo que fosse o mais resplandecente e detalhado o possível, para que eu aparentasse ser o rei pelo qual meu povo reverenciava."::
+3636::$$$message_0026_0032_0002$$$::Eu vestia algo tão resplandecente e ornamentado quanto possível, para melhor encarnar o monarca reverenciado pelo povo."::
 3637::$$$message_0026_0033_0000$$$::"Entendi. Os súditos de um rei não vão se sentir tão confortáveis se o rei nunca tirar a sua armadura."[lr]::
 3638::$$$message_0026_0033_0001$$$::A Saber acena, satisfeita com o meu ponto de vista.::
 3639::$$$message_0026_0034_0000$$$::"Não era incomum que trajes daquele tipo acabassem levantando até os meus próprios ânimos.[lr]::
 3640::$$$message_0026_0034_0001$$$::A sua resposta me fez lembrar bem qual era aquela sensação."[lr]::
 3641::$$$message_0026_0034_0002$$$::"Você sentia orgulho de se vestir feito um rei."::
 3642::$$$message_0026_0035_0000$$$::"Sim.[lr]::
-3643::$$$message_0026_0035_0001$$$::Pode até parecer não tão sofisticado para as gerações posteriores, mas, aos meus olhos, as vestimentas que eram feitas para mim pelas habilidosas mãos dos artesãos e tecelões não deixavam de ser nada além de uma brilhante criação.[lr]::
-3644::$$$message_0026_0035_0002$$$::Tinha também a túnica perfeitamente bordada junto ao galante dragão rubro.[lr]::
-3645::$$$message_0026_0035_0003$$$::Tinha aquele manto acolchoado revestido por inteiramente por fios de ouro.[lr]::
+3643::$$$message_0026_0035_0001$$$::Talvez pareçam rústicas às gerações posteriores, mas, aos meus olhos, as peças feitas para mim por artesãos e tecelões habilidosos eram criações esplêndidas.[lr]::
+3644::$$$message_0026_0035_0002$$$::Havia a túnica bordada com um valente dragão rubro.[lr]::
+3645::$$$message_0026_0035_0003$$$::O manto acolchoado, forrado com fios de ouro.[lr]::
 3646::$$$message_0026_0035_0004$$$::Tinha a coroa deslumbrante.[lr]::
-3647::$$$message_0026_0035_0005$$$::Em suma, havia tempos em que envergar esses trajes levantava de fato o meu próprio ânimo e afastava para longe todo o meu cansaço."::
-3648::$$$message_0026_0036_0000$$$::"As mulheres desta era não estão mais fadadas a servirem e obedecerem cegamente a nós homens.[lr]::
-3649::$$$message_0026_0036_0001$$$::[chgfg time=300 storage=セイバー私服12c(中) textoff=1]...Pode-se chegar ao consenso de que elas acabam guardando todo esse orgulho em si a fim de viverem o próprio dia-a-dia.[l][say storage=emi0304_sav_0232 name=セイバー][chgfg time=300 storage=セイバー私服12a(中) textoff=1] E bem, esse é um princípio do qual eu consigo me identificar muito bem.[lr]::
-3650::$$$message_0026_0036_0002$$$::Penso ter adquirido assim, uma modesta compreensão de como alguém pode se sentir ainda mais feminina, mais sincera a si própria, só pelo simples fato de se preocupar um pouquinho mais sobre o que vai vestir sob a roupa."::
+3647::$$$message_0026_0035_0005$$$::De fato, houve ocasiões em que vestir essas peças elevou meu ânimo e me fez esquecer o cansaço."::
+3648::$$$message_0026_0036_0000$$$::"As mulheres desta era já não estão fadadas a obedecer aos homens.[lr]::
+3649::$$$message_0026_0036_0001$$$::[chgfg time=300 storage=セイバー私服12c(中) textoff=1]...É natural que guardem esse orgulho junto ao peito enquanto vivem o cotidiano.[l][say storage=emi0304_sav_0232 name=セイバー][chgfg time=300 storage=セイバー私服12a(中) textoff=1] Isso é algo com que consigo me identificar.[lr]::
+3650::$$$message_0026_0036_0002$$$::Creio ter compreendido um pouco como alguém pode se sentir mais feminina e mais fiel a si mesma ao cuidar da aparência do que veste sob a roupa."::
 3651::$$$message_0026_0037_0000$$$::Saber respira fundo e, em seguida, acrescenta, sem jeito,::
 3652::$$$message_0026_0038_0000$$$::"Obrigada mesmo, Shirou.[lr]::
 3653::$$$message_0026_0038_0001$$$::Sendo bem franca, sinto-me boba por chegar a ser ignorante sobre uma coisa que era tão evidente assim..."::
@@ -101,7 +101,7 @@ id=qid::label=str::text=lstr::
 3659::$$$message_0026_0041_0000$$$::A Saber junta as mãos em sinal de agradecimento após terminar o último andagi.::
 3660::$$$message_0026_0042_0000$$$::"Obrigada pela comida, Shirou.[lr]::
 3661::$$$message_0026_0042_0001$$$::Foi maravilhoso. Esplêndido.[lr]::
-3662::$$$message_0026_0042_0002$$$::Posso lhe garantir de que estes sata andagi são dignos de serem inclusos entre os dez itens permanentes do nosso menu da hora do chá."[lr]::
+3662::$$$message_0026_0042_0002$$$::Acredito que estes sata andagi são dignos de entrar para os dez itens permanentes do nosso menu da hora do chá."[lr]::
 3663::$$$message_0026_0042_0003$$$::"Que bom saber."::
 3664::$$$message_0026_0043_0000$$$::"..."[lr]::
 3665::$$$message_0026_0043_0001$$$::"...O que foi?"[lr]::
@@ -109,37 +109,37 @@ id=qid::label=str::text=lstr::
 3667::$$$message_0026_0044_0000$$$::"Não é isso... Acabei de me tocar do quão inapropriado de minha parte foi discursar durante todo esse tempo sobre orgulho feminino, enquanto bancava a comilona aqui."[lr]::
 3668::$$$message_0026_0044_0001$$$::"Não se preocupa com isso. Na verdade eu que ia me preocupar se você ficasse sem fome, haha."[lr]::
 3669::$$$message_0026_0044_0002$$$::Vamos lá, ria. É só o que eu posso fazer agora.::
-3670::$$$message_0026_0045_0000$$$::"Shirou, se não se importar, acho que a partir de agora também tentarei aprender com a Rin, a Sakura, e a Taiga a refinar a minha própria feminilidade."[lr]::
-3671::$$$message_0026_0045_0001$$$::"N-Não, não tenho muita certeza sobre a Fuji-nee."[lr]::
+3670::$$$message_0026_0045_0000$$$::"Shirou, acho que devo aprender com Rin, Sakura e Taiga a refinar minha feminilidade."[lr]::
+3671::$$$message_0026_0045_0001$$$::"N-Não, não tenho muita certeza sobre a Fuji-Nee."[lr]::
 3672::$$$message_0026_0045_0002$$$::Essa conversa tá tomando um rumo bem estranho.[lr]::
 3673::$$$message_0026_0045_0003$$$::Tô me sentindo meio agitado, por algum motivo.[lr]::
 3674::$$$message_0026_0045_0004$$$::Com o coração um pouco inquieto, começo a recolher os pratos.::
-3675::$$$message_0026_0046_0000$$$::"Oh? Pois a Taiga é mais feminina do que você pensa. Você talvez só seja chegado demais com ela para conseguir enxergar algo além."[lr]::
+3675::$$$message_0026_0046_0000$$$::"Oh? Taiga é mais feminina do que você imagina. Talvez você apenas seja próximo demais dela para perceber."[lr]::
 3676::$$$message_0026_0046_0001$$$::"S-sério?"::
-3677::$$$message_0026_0047_0000$$$::"De passagem..."[lr]::
+3677::$$$message_0026_0047_0000$$$::"A propósito..."[lr]::
 3678::$$$message_0026_0047_0001$$$::"Hm?"::
 3679::$$$message_0026_0048_0000$$$::"Diga-me, você gostaria de me acompanhar a uma dessas lojas de lingerie da próxima vez?"[lr]::
 3680::$$$message_0026_0048_0001$$$::"Hã? Loja d[line len=2][wvl canskip=0 time=500][se storage=se029.wav][shock vmax=20 time=300 count=-3]C-comigo!?"[lr]::
 3681::$$$message_0026_0048_0002$$$::Ah, não.[lr]::
 3682::$$$message_0026_0048_0003$$$::Será que tem algum tipo de droga de efeito rápido nesses donuts?::
-3683::$$$message_0026_0049_0000$$$::"Bem, mesmo eu tendo dito sobre todo esse assunto esbanjando tanta confiança assim, a verdade é que, sendo franca, não tenho a mínima ideia do que me cai bem..."::
-3684::$$$message_0026_0050_0000$$$::"Mas, caso eu use algo que seja de fato a o seu grado, [wvl canskip=0 time=500]acho que eu, [cacheimage storage=セイバー私服20c頬(中)][wvl][chgfg time=800 storage=セイバー私服20c頬(中) textoff=0]hum, [wvl canskip=0 time=800]me sentiria também imensamente feliz..."::
+3683::$$$message_0026_0049_0000$$$::"Apesar da confiança com que falei sobre o assunto, na verdade não faço a menor ideia do que combina comigo..."::
+3684::$$$message_0026_0050_0000$$$::"Mas, se eu usar algo que agrade a você, [wvl canskip=0 time=500]isso também, [cacheimage storage=セイバー私服20c頬(中)][wvl][chgfg time=800 storage=セイバー私服20c頬(中) textoff=0]hum, [wvl canskip=0 time=800]me deixaria feliz..."::
 3685::$$$message_0026_0051_0000$$$::"O quê... [wvl canskip=0 time=400]Foi a Tohsaka que botou essa ideia na sua cabeça? Você tá me pedindo o impossível!"::
-3686::$$$message_0026_0052_0000$$$::"...O meu humilde pedido lhe aborrece tanto assim?[lr]::
-3687::$$$message_0026_0052_0001$$$::Vários daqueles acompanhantes lá dentro da loja também eram homens, sabia? [chgfg time=300 storage=セイバー私服13b(中) textoff=0][wvl canskip=0 time=600]E sem contar de que, acredite, isso também é tão constrangedor e estranho a mim o quanto é pra você."[lr]::
+3686::$$$message_0026_0052_0000$$$::"...Meu pedido o incomoda tanto assim?[lr]::
+3687::$$$message_0026_0052_0001$$$::Havia acompanhantes homens dentro da loja também. [chgfg time=300 storage=セイバー私服13b(中) textoff=0][wvl canskip=0 time=600]Para mim, isso é tão estranho e constrangedor quanto para você."[lr]::
 3688::$$$message_0026_0052_0002$$$::"Não. As nossas posições são totalmente diferentes!"::
-3689::$$$message_0026_0053_0000$$$::"Hrm. Então aquele papo de 'vamos os dois dar o nosso melhor' não passou de uma simples palavra vazia que você me deu!?"[lr]::
+3689::$$$message_0026_0053_0000$$$::"Hrm. Então aquele 'vamos os dois dar o nosso melhor' foi só uma gentileza vazia!?"[lr]::
 3690::$$$message_0026_0053_0001$$$::"Você [font italic=true]tava[font italic=false] ouvindo![lr]::
 3691::$$$message_0026_0053_0002$$$::D-de qualquer jeito, peça pra Tohsaka ou a Sakura se você precisar de ajuda pra escolher roupa de baixo!"::
-3692::$$$message_0026_0054_0000$$$::"Infelizmente não posso. Eu não posso viver de depender para sempre dos ensinamentos delas o tempo todo."::
-3693::$$$message_0026_0055_0000$$$::"Ouvi dizer também que, às vezes, as roupas de baixo também possuem o intuito para serem propositalmente vistas. Então, seja por bem ou por mal, vou ter que o fazer me observar lá."::
+3692::$$$message_0026_0054_0000$$$::"Não. Não posso simplesmente deixar que elas me ensinem tudo para sempre."::
+3693::$$$message_0026_0055_0000$$$::"Disseram-me que algumas roupas íntimas são feitas para serem vistas por outras pessoas. Então, por bem ou por mal, farei com que você olhe."::
 3694::$$$message_0026_0056_0000$$$::"Não. [wvl canskip=0 time=400]Não mesmo. [wvl canskip=0 time=400]Eu me recuso terminantemente a fazer isso."::
 3695::$$$message_0026_0057_0000$$$::"Hrm...?"::
-3696::$$$message_0026_0058_0000$$$::"Pois bem, se de fato é assim o que você impõe, confesso que me restarão outras medidas para lidar com a sua teimosia."[lr]::
+3696::$$$message_0026_0058_0000$$$::"Se insiste, então tenho meus meios de lidar com isso."[lr]::
 3697::$$$message_0026_0058_0001$$$::...Ih, rapaz.::
-3698::$$$message_0026_0059_0000$$$::"Eu juro que nunca mais usarei calcinha a não ser que você venha pessoalmente os escolher para mim!"[lr]::
+3698::$$$message_0026_0059_0000$$$::"Eu nunca mais usarei roupa íntima alguma a menos que você a escolha para mim!"[lr]::
 3699::$$$message_0026_0059_0001$$$::"Mas por que isso tá acontecendo!?"::
-3700::$$$message_0026_0060_0000$$$::"Então eu assumo que você irá me acompanhar nessa busca, não é?"::
+3700::$$$message_0026_0060_0000$$$::"Então você virá comigo, certo?"::
 3701::$$$message_0026_0061_0000$$$::"Urgh... Tá, tá bom, mas eu só vou até a frente da loja! Eu não vou passar da porta!"[lr]::
 3702::$$$message_0026_0061_0001$$$::"Ora, qual seria o ponto nisso!?"::
 3703::$$$message_0026_0062_0000$$$::"Espere só um pouquinho aí, Shirou!"[lr]::

@@ -31,7 +31,7 @@ id=qid::label=str::text=lstr::
 5376::$$$message_0036_0007_0000$$$::"S-Senpai? Há quanto tempo você estava ouvindo!?"[lr]::
 5377::$$$message_0036_0007_0001$$$::"Quanto tempo? Hum, desde que vocês começaram a falar sobre peso."::
 5378::$$$message_0036_0008_0000$$$::Eu não tinha certeza se deveria falar alguma coisa, mas alegar total ignorância não ia colar.[lr]::
-5379::$$$message_0036_0008_0001$$$::"Uh, você me parece a mesma de sempre, Sakura. Eu acho que você não precisa se preocupar.[lr]::
+5379::$$$message_0036_0008_0001$$$::"Er... pra mim você está igual de sempre, Sakura. Não precisa se preocupar.[lr]::
 5380::$$$message_0036_0008_0002$$$::...Não que eu tenha ouvido nenhum número específico, é claro."::
 5381::$$$message_0036_0009_0000$$$::"Eu peso 57 quilos."[lr]::
 5382::$$$message_0036_0009_0001$$$::Ugh, eu não queria saber dessa informação perigosa![lr]::
@@ -47,22 +47,22 @@ id=qid::label=str::text=lstr::
 5392::$$$message_0036_0012_0001$$$::"Não adianta esconder.[lr]::
 5393::$$$message_0036_0012_0002$$$::Sakura, você deveria estar mais ciente dos seus próprios atrativos. Uma tática viável seria se despir de tudo e declarar o seu amor bem aqui."[lr]::
 5394::$$$message_0036_0012_0003$$$::"[shock vmax=30 time=300 count=-3]Isso só vai me colocar em uma situação difícil!"::
-5395::$$$message_0036_0013_0000$$$::"É, com certeza colocaria ele numa situação difícil!"[lr]::
-5396::$$$message_0036_0013_0001$$$::"Oh? Eu acho que ele ficaria radiante, e não chateado. [cacheimage storage=ライダー私服01c(中),ライダー私服01d(中)][wvl canskip=false time=300][chgfg storage=ライダー私服01c(中) time=300 textoff=0]Porém há algumas pessoas que ficariam chateadas com tal desdobramento...[wait canskip=false time=300][chgfg storage=ライダー私服01d(中) time=300 textoff=0]"[lr]::
+5395::$$$message_0036_0013_0000$$$::"É, com certeza colocaria ele numa situação difícil!, Senpai"[lr]::
+5396::$$$message_0036_0013_0001$$$::"Oh? Acho que ele ficaria radiante, não chateado. [cacheimage storage=ライダー私服01c(中),ライダー私服01d(中)][wvl canskip=false time=300][chgfg storage=ライダー私服01c(中) time=300 textoff=0]Mas há pessoas que ficariam chateadas com esse desdobramento...[wait canskip=false time=300][chgfg storage=ライダー私服01d(中) time=300 textoff=0]"[lr]::
 5397::$$$message_0036_0013_0002$$$::Rider dá uma olhada para a parede.[lr]::
 5398::$$$message_0036_0013_0003$$$::Será que ela sabe das outras duas espionando por trás dela?::
-5399::$$$message_0036_0014_0000$$$::"O que... Minha irmã não ficaria chateada com isso."[lr]::
+5399::$$$message_0036_0014_0000$$$::"O que... Nee-san não ficaria chateada com isso."[lr]::
 5400::$$$message_0036_0014_0001$$$::"A Rin é apenas humana.[lr]::
 5401::$$$message_0036_0014_0002$$$::Ela está se perguntando como a sua constituição permite que o seu peito continue crescendo sem ganhar nenhum peso no geral. Ainda mais porque vocês são ligadas por sangue.[lr]::
 5402::$$$message_0036_0014_0003$$$::Para ela, o seu corpo é um desafio que é mais difícil de escalar do que qualquer muralha de castelo."[lr]::
 5403::$$$message_0036_0014_0004$$$::...A Rider casualmente solta algumas palavras provocativas.::
-5404::$$$message_0036_0015_0000$$$::"Ugh... M-mas eu acho que a Saber não se preocuparia."[lr]::
+5404::$$$message_0036_0015_0000$$$::"Ugh... M-mas acho que a Saber não se preocuparia."[lr]::
 5405::$$$message_0036_0015_0001$$$::Desculpe, Tohsaka.[lr]::
 5406::$$$message_0036_0015_0002$$$::Eu não posso te defender nesta situação.::
-5407::$$$message_0036_0016_0000$$$::"S-sim! A Saber também é uma Serva, e ela até já disse antes que a sua figura não importa..."[lr]::
+5407::$$$message_0036_0016_0000$$$::"S-sim! A Saber-san também é uma Serva, e ela até já disse antes que a sua figura não importa..."[lr]::
 5408::$$$message_0036_0016_0001$$$::"Ela só estava escondendo a sua insegurança. Não que eu não possa me relacionar com isso."::
 5409::$$$message_0036_0017_0000$$$::Hahaha... Eu estou ficando com dor de estômago.[lr]::
-5410::$$$message_0036_0017_0001$$$::Parece que uma guerra absurda está prestes a começar se essa fina parede desabar... Eu me pergunto se a minha vida seria sequer suficiente para nos defender.::
+5410::$$$message_0036_0017_0001$$$::Sinto que uma guerra absurda está prestes a começar se essa parede fina desabar... Será que a minha vida seria suficiente para nos defender?::
 5411::$$$message_0036_0018_0000$$$::Ainda assim, eu não posso simplesmente ficar parado aqui suando frio.[lr]::
 5412::$$$message_0036_0018_0001$$$::...E então, eu sinto que a Sakura está prestes a soltar uma segunda bomba.::
 5413::$$$message_0036_0019_0000$$$::"...V-você consegue notar, Senpai?"[lr]::
@@ -70,7 +70,7 @@ id=qid::label=str::text=lstr::
 5415::$$$message_0036_0020_0000$$$::Eu imagino o quão frágil e solitária ela parecia há dois anos.[lr]::
 5416::$$$message_0036_0020_0001$$$::Desde então, ela gradualmente colocou carne naqueles ossos. Talvez o solo desta casa faça bem para ela.[lr]::
 5417::$$$message_0036_0020_0002$$$::Assim como na jardinagem, a nutrição é importante.::
-5418::$$$message_0036_0021_0000$$$::"D-deve ser porque a sua comida é tão deliciosa. Eu ando comendo demais."[lr]::
+5418::$$$message_0036_0021_0000$$$::"D-deve ser porque a sua comida é tão deliciosa. Eu ando comendo demais, Senpai."[lr]::
 5419::$$$message_0036_0021_0001$$$::"Ah, fico feliz em ouvir isso."[lr]::
 5420::$$$message_0036_0021_0002$$$::"Sakura, esse é um motivo a mais para monitorar o seu peso."::
 5421::$$$message_0036_0022_0000$$$::Rider dá uma olhada de relance para a parede novamente.[lr]::
@@ -78,9 +78,9 @@ id=qid::label=str::text=lstr::
 5423::$$$message_0036_0023_0000$$$::"Isso não serve mais... Não tem tantas opções fofinhas neste tamanho."[lr]::
 5424::$$$message_0036_0023_0001$$$::Ahh, entendo. Espera, [se storage=se028 nowait=true]a roupa íntima da Sakura?[lr]::
 5425::$$$message_0036_0023_0002$$$::Eu apressadamente fecho as cortinas dos meus pensamentos e protejo o meu cérebro.[lr]::
-5426::$$$message_0036_0023_0003$$$::Se eu realmente pensar nos sutiãs que adornam aquele peito grande e farto, isso vai superaquecer a minha CPU principal!::
-5427::$$$message_0036_0024_0000$$$::"Estou com inveja. No seu tamanho, tem um monte de opções fofas e bonitas disponíveis, até mesmo no mercado interno. [lr]::
-5428::$$$message_0036_0024_0001$$$::A Saber também tem uma constituição adorável e pequenina..."[lr]::
+5426::$$$message_0036_0023_0003$$$::Se eu parar para pensar nos sutiãs que adornam aquele peito grande e farto, minha CPU principal vai superaquecer!::
+5427::$$$message_0036_0024_0000$$$::"Nee-san, Estou com inveja. No seu tamanho, tem um monte de opções fofas e bonitas disponíveis, até mesmo no mercado interno. [lr]Nee-san, ::
+5428::$$$message_0036_0024_0001$$$::A Saber-san também tem uma constituição adorável e pequenina..."[lr]::
 5429::$$$message_0036_0024_0002$$$::"Sério? Mas roupas importadas não são tão fáceis de encontrar. A Rin disse a mesma coisa."::
 5430::$$$message_0036_0025_0000$$$::...Eu gostaria que elas parassem de continuar com este assunto.[lr]::
 5431::$$$message_0036_0025_0001$$$::Por mais que este lugar tenha se tornado um dormitório feminino em miniatura, ainda tem um jovem saudável vivendo aqui!::
@@ -97,7 +97,7 @@ id=qid::label=str::text=lstr::
 5442::$$$message_0036_0028_0002$$$::Eu encontro as outras duas me esperando, me olhando desse jeito.[lr]::
 5443::$$$message_0036_0028_0003$$$::Eu não fiz nada de errado.[lr]::
 5444::$$$message_0036_0028_0004$$$::Se você tem que culpar alguém, culpe o peito da Sakura por ignorar as leis da física...::
-5445::$$$message_0036_0029_0000$$$::"Emiya? Eu preciso tomar você emprestado por um momento para conversarmos."[lr]::
+5445::$$$message_0036_0029_0000$$$::"Emiya-kun? Eu preciso tomar você emprestado por um momento para conversarmos."[lr]::
 5446::$$$message_0036_0029_0001$$$::"Eu também tenho algo a discutir com você, Shirou."[lr]::
 5447::$$$message_0036_0029_0002$$$::"Ah, nós devemos ter um assunto em comum. Por que não falamos disso juntas?"::
 5448::$$$message_0036_0030_0000$$$::"Uhh, eu estava prestes a levar chá para a Sakura e para a Rider..."[lr]::

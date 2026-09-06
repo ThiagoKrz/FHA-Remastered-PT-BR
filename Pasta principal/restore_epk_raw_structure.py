@@ -12,6 +12,29 @@ def iter_target_files(pt_dir: Path, file_name: str | None) -> list[Path]:
     return sorted(pt_dir.glob("*.epk_dec"))
 
 
+def strip_malformed_trailers_for_edit(path: Path) -> bytes:
+    cleaned_lines: list[bytes] = []
+    for raw_line in path.read_bytes().splitlines():
+        cleaned = raw_line.rstrip(b"\r")
+        try:
+            cleaned.decode("utf-8")
+        except UnicodeDecodeError:
+            if not cleaned[:1].isdigit():
+                continue
+        if cleaned[:1].isdigit():
+            final_delimiter = cleaned.rfind(b"::")
+            if final_delimiter >= 0:
+                candidate = cleaned[: final_delimiter + 2]
+                try:
+                    candidate.decode("utf-8")
+                except UnicodeDecodeError:
+                    pass
+                else:
+                    cleaned = candidate
+        cleaned_lines.append(cleaned)
+    return b"\n".join(cleaned_lines) + b"\n"
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(
         description=(
@@ -33,6 +56,14 @@ def main() -> int:
         action="store_true",
         help="Grava as alterações nos arquivos traduzidos. Sem isso, roda em dry-run.",
     )
+    parser.add_argument(
+        "--prepare-edit",
+        action="store_true",
+        help=(
+            "Remove apenas trailers binários após o :: final e normaliza LF para "
+            "permitir edição manual; não altera o texto lógico traduzido."
+        ),
+    )
     args = parser.parse_args()
     source_dir = args.source_dir or args.pt_dir
 
@@ -53,6 +84,17 @@ def main() -> int:
         if not source_path.exists():
             print(f"[SEM FONTE] {translated_path.name}")
             skipped += 1
+            continue
+
+        if args.prepare_edit:
+            cleaned_bytes = strip_malformed_trailers_for_edit(source_path)
+            current_bytes = translated_path.read_bytes()
+            if cleaned_bytes == current_bytes:
+                continue
+            changed += 1
+            print(f"[PREPARE EDIT] {translated_path.name}")
+            if args.apply:
+                translated_path.write_bytes(cleaned_bytes)
             continue
 
         translated_lines = split_text_lines(

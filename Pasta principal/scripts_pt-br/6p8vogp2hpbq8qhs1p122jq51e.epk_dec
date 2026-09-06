@@ -5,14 +5,14 @@ id=qid::label=str::text=lstr::
 39399::$$$message_0272_0001_0000$$$::"..."[lr]::
 39400::$$$message_0272_0001_0001$$$::Fico parado em frente ao quarto da Saber.[lr]::
 39401::$$$message_0272_0001_0002$$$::...Hmmm.[lr]::
-39402::$$$message_0272_0001_0003$$$::Q-Quando eu paro pra pensar assim, não é uma ideia bem louca ir à piscina com a Saber?::
+39402::$$$message_0272_0001_0003$$$::Q-Quando paro para pensar, ir à piscina com Saber não é uma ideia meio absurda?::
 39403::$$$message_0272_0002_0000$$$::"[shock vmax=10 time=600 count=-3]Hrrk... Tá tudo bem, é fácil, fica calmo..."[lr]::
 39404::$$$message_0272_0002_0001$$$::Respiro fundo e esfrio o calor nas minhas bochechas.[lr]::
 39405::$$$message_0272_0002_0002$$$::Vou agir naturalmente e ser conciso.[lr]::
-39406::$$$message_0272_0002_0003$$$::A Saber ficaria preocupada se a pessoa que a está convidando estivesse toda nervosa.[lr]::
+39406::$$$message_0272_0002_0003$$$::Saber ficaria preocupada se quem a convidou também estivesse todo nervoso.[lr]::
 39407::$$$message_0272_0002_0004$$$::"Certo... Ei, Saber, podemos conversar um pouco?"::
 39408::$$$message_0272_0003_0000$$$::"S-[cacheimage storage=セイバー私服01e(中),i衛宮邸_セイバー部屋][wvl canskip=0 time=500][rep textoff=0 fliplr=0 storages=セイバー私服01e(中) time=100 flipud=0 poss=c bg=i衛宮邸_セイバー部屋 indexes=1000]sim.[lr]::
-39409::$$$message_0272_0003_0001$$$::E-Eu estive esperando por esse assunto, então aceitarei com prazer, Shirou."::
+39409::$$$message_0272_0003_0001$$$::E-Eu estava aguardando esse assunto, então aceitarei com prazer, Shirou."::
 39410::$$$message_0272_0004_0000$$$::E...[lr]::
 39411::$$$message_0272_0004_0001$$$::Depois de dez minutos me debatendo como um idiota...[lr]::
 39412::$$$message_0272_0004_0002$$$::A Saber respondeu de imediato ao convite que eu finalmente consegui fazer.::
@@ -27,9 +27,9 @@ id=qid::label=str::text=lstr::
 39421::$$$message_0272_0006_0003$$$::"O-Ok. Vou te esperar na sala de estar, então."[lr]::
 39422::$$$message_0272_0006_0004$$$::Sou empurrado por alguma força de vontade esquisita e saio para o corredor.[lr]::
 39423::$$$message_0272_0006_0005$$$::...Me pergunto do que a Saber lembrou.::
-39424::$$$message_0272_0007_0000$$$::"Você vai à piscina com a Saber? Que bom, finalmente você está agindo."[lr]::
+39424::$$$message_0272_0007_0000$$$::"Você vai à piscina com a Saber-chan? Que bom, finalmente você está agindo."[lr]::
 39425::$$$message_0272_0007_0001$$$::"..."[lr]::
-39426::$$$message_0272_0007_0002$$$::"Ah, não, Rider, não vá chamar a Sakura. Você pode fazer vista grossa por hoje?"::
+39426::$$$message_0272_0007_0002$$$::"Ah, não, Rider-san, não vá chamar a Sakura-chan. Você pode fazer vista grossa por hoje?"::
 39427::$$$message_0272_0008_0000$$$::"...[wait canskip=0 time=600][say storage=ctyex07_rad_0010 name=ライダー][chgfg textoff=0 time=300 storage=ライダー私服04d(中)]Entendido.[lr]::
 39428::$$$message_0272_0008_0001$$$::Você tem razão; é uma ocasião especial. Eu creio que vocês possam se aproximar mais caso vão individualmente em vez de ir em três."::
 39429::$$$message_0272_0009_0000$$$::...Dessa forma, há dois demônios na sala de estar que não têm nada pra fazer.[lr]::
@@ -40,12 +40,12 @@ id=qid::label=str::text=lstr::
 39434::$$$message_0272_0010_0001$$$::Minha mente fica em branco enquanto mantenho meu rosto erguido.[lr]::
 39435::$$$message_0272_0010_0002$$$::Em resposta à sua aparência diferente...[lr]::
 39436::$$$message_0272_0010_0003$$$::"Ahhh! Yaaa! Hooo![lr]::
-39437::$$$message_0272_0010_0004$$$::S-S-Será que essas roupas são...!?"[lr]::
-39438::$$$message_0272_0010_0005$$$::A Fuji-nee basicamente fala por mim.::
+39437::$$$message_0272_0010_0004$$$::S-S-Será que essas roupas são...!, Saber-chan?"[lr]::
+39438::$$$message_0272_0010_0005$$$::A Fuji-Nee basicamente fala por mim.::
 39439::$$$message_0272_0011_0000$$$::"Sim, essas são as que você comprou para mim.[lr]::
 39440::$$$message_0272_0011_0001$$$::Achei que eu devia aproveitar essa oportunidade para passar o dia vestindo isso."::
 39441::$$$message_0272_0012_0000$$$::A Saber sorri.[lr]::
-39442::$$$message_0272_0012_0001$$$::A Fuji-nee pula de alegria.[lr]::
+39442::$$$message_0272_0012_0001$$$::A Fuji-Nee pula de alegria.[lr]::
 39443::$$$message_0272_0012_0002$$$::A Rider está encarando como se estivesse com ciúmes e fazendo um pouco de bico.[lr]::
 39444::$$$message_0272_0012_0003$$$::"..."[lr]::
 39445::$$$message_0272_0012_0004$$$::...Droga, eu perdi minha chance de me emocionar com isso.::
@@ -57,26 +57,26 @@ id=qid::label=str::text=lstr::
 39451::$$$message_0272_0014_0002$$$::...Essa vai ser uma longa jornada.[lr]::
 39452::$$$message_0272_0014_0003$$$::Se eu estou ficando vermelho só com a roupa da Saber, então eu posso acabar morrendo na piscina...::
 39453::$$$message_0272_0015_0000$$$::"Nós estamos de saída. Tomem conta da casa pra mim."[lr]::
-39454::$$$message_0272_0015_0001$$$::"Pode deixar. Deixe comigo.[lr]::
-39455::$$$message_0272_0015_0002$$$::A Saber também está em seu tão aguardado uniforme, então você pode relaxar por hoje.[lr]::
+39454::$$$message_0272_0015_0001$$$::"Pode deixar. Deixe comigo, Onee-chan.[lr]::
+39455::$$$message_0272_0015_0002$$$::A Saber-chan também está em seu tão aguardado uniforme, então você pode relaxar por hoje.[lr]::
 39456::$$$message_0272_0015_0003$$$::Eu até posso fazer o jantar no seu lugar hoje e esperar vocês voltarem!"::
-39457::$$$message_0272_0016_0000$$$::A Fuji-nee sorri de alegria, cheia de entusiasmo.[lr]::
+39457::$$$message_0272_0016_0000$$$::A Fuji-Nee sorri de alegria, cheia de entusiasmo.[lr]::
 39458::$$$message_0272_0016_0001$$$::Essa consideração me deixa bem feliz.[lr]::
-39459::$$$message_0272_0016_0002$$$::"Certo, estou contando com você, Rider. Garanta que você não vai deixar a Fuji-nee entrar na cozinha não importa o que aconteça."[lr]::
+39459::$$$message_0272_0016_0002$$$::"Certo, estou contando com você, Rider. Faça de tudo para não deixar a Fuji-Nee entrar na cozinha, aconteça o que acontecer."[lr]::
 39460::$$$message_0272_0016_0003$$$::"Eu sei, Shirou."[lr]::
 39461::$$$message_0272_0016_0004$$$::"Guh!? Ei, Shirou, o que isso quer dizer!?"::
 39462::$$$message_0272_0017_0000$$$::"Obrigado por esperar, Saber."[lr]::
 39463::$$$message_0272_0017_0001$$$::"Shirou, você está indo longe demais. É compreensível que a Taiga se sinta magoada."[lr]::
-39464::$$$message_0272_0017_0002$$$::"Uf... B-Bem, eu tenho que dizer isso ou vai ser uma catástrofe. Isso foi para o bem da Fuji-nee também[line len=2]"::
+39464::$$$message_0272_0017_0002$$$::"Uf... B-Bem, eu tenho que dizer isso ou vai ser uma catástrofe. Isso foi para o bem da Fuji-Nee também[line len=2]"::
 39465::$$$message_0272_0018_0000$$$::"O que você quer dizer exatamente com catástrofe?"[lr]::
 39466::$$$message_0272_0018_0001$$$::"...Você já passou por isso, Saber. Seria atrair uma nova tragédia depois do incidente da tigela de okonomiyaki."[lr]::
 39467::$$$message_0272_0018_0002$$$::Daí quando nós voltássemos, a Sakura e os outros estariam caídos no chão como defuntos.[lr]::
-39468::$$$message_0272_0018_0003$$$::"...Fui imprudente da minha parte. Não podemos permitir que uma tragédia como aquela ocorra novamente."[lr]::
+39468::$$$message_0272_0018_0003$$$::"...Fui descuidada. Não podemos permitir que uma tragédia como aquela se repita."[lr]::
 39469::$$$message_0272_0018_0004$$$::Pois é, isso mesmo. Deus tenha piedade de mim.::
 39470::$$$message_0272_0019_0000$$$::"A propósito, é a sua primeira vez indo a uma piscina, né?"[lr]::
 39471::$$$message_0272_0019_0001$$$::"Sim. Que tipo de lugar é a piscina?"[lr]::
 39472::$$$message_0272_0019_0002$$$::"Hã? Saber, você concordou em ir à piscina sem nem saber o que é?"[lr]::
-39473::$$$message_0272_0019_0003$$$::"É um lugar para o qual você me convidou, então não é o tipo de lugar contra o qual eu deva nutrir hostilidade."::
+39473::$$$message_0272_0019_0003$$$::"É um lugar para o qual você me convidou, então não devo nutrir hostilidade contra ele."::
 39474::$$$message_0272_0020_0000$$$::Meu pulso acelera com seu olhar de confiança.[lr]::
 39475::$$$message_0272_0020_0001$$$::Nesse ponto, não tem como eu dizer que é porque eu queria ver a Saber de maiô.::
 39476::$$$message_0272_0021_0000$$$::"O que foi, Shirou? Seu rosto está vermelho."[lr]::
@@ -108,14 +108,14 @@ id=qid::label=str::text=lstr::
 39502::$$$message_0272_0027_0002$$$::"Entendo. Eu tenho um palpite, mas por quem?"[lr]::
 39503::$$$message_0272_0027_0003$$$::"Pela Taiga. Ela disse para te fazer uma surpresa e aproveitar a sua reação."::
 39504::$$$message_0272_0028_0000$$$::"..."[lr]::
-39505::$$$message_0272_0028_0001$$$::Bom, que audácia da parte dela.[lr]::
+39505::$$$message_0272_0028_0001$$$::Bom, que audácia da parte dela, Fuji-Nee.[lr]::
 39506::$$$message_0272_0028_0002$$$::Seja uma surpresa ou não, não sou páreo pro maiô da Saber.::
 39507::$$$message_0272_0029_0000$$$::Em frente ao vestiário...[lr]::
 39508::$$$message_0272_0029_0001$$$::Me separo da Saber, cheio de expectativas.[lr]::
 39509::$$$message_0272_0029_0002$$$::É claro que eu termino de me trocar primeiro já que sou homem, e agora eu tô aqui esperando, mas...::
 39510::$$$message_0272_0030_0000$$$::"...Me pergunto se a Saber está bem."[lr]::
 39511::$$$message_0272_0030_0001$$$::Claro que a Saber é valente, mas eu fico preocupado quando a deixo sozinha num lugar como este.[lr]::
-39512::$$$message_0272_0030_0002$$$::Será que não teria sido melhor trazer a Tohsaka, a Sakura ou a Fuji-nee junto com a gente? Mas isso seria meio que quebrar a nossa promessa.::
+39512::$$$message_0272_0030_0002$$$::Será que não teria sido melhor trazer a Tohsaka, a Sakura ou a Fuji-Nee junto com a gente? Mas isso seria meio que quebrar a nossa promessa.::
 39513::$$$message_0272_0031_0000$$$::"...Não, seria mais do que preocupante se elas viessem junto... É muito mais tranquilo ir só nós dois."[lr]::
 39514::$$$message_0272_0031_0001$$$::O mural de informações do Waku Waku Zabuun está na minha frente.[lr]::
 39515::$$$message_0272_0031_0002$$$::Um redemoinho, uma piscina de ondas, um toboágua grandão, um trampolim super alto, uma piscina para provas de natação, e até uma atração de piscina que eu não saberia nem por onde começar a descrever.::
@@ -149,17 +149,17 @@ id=qid::label=str::text=lstr::
 39543::$$$message_0272_0040_0001$$$::"..."::
 39544::$$$message_0272_0041_0000$$$::"Hm? O que foi, Shirou?"[lr]::
 39545::$$$message_0272_0041_0001$$$::"Bem... não é nada demais, sério."[lr]::
-39546::$$$message_0272_0041_0002$$$::Tô quase desmaiando de como ela está brilhante como o sol.::
+39546::$$$message_0272_0041_0002$$$::Estou quase desmaiando com o brilho dela, claro como o Sol.::
 39547::$$$message_0272_0042_0000$$$::"É mesmo? Espero que não seja anemia."[lr]::
 39548::$$$message_0272_0042_0001$$$::"Uh... Não, vou dar o meu melhor. Ainda não posso desistir."::
 39549::$$$message_0272_0043_0000$$$::"Shirou?"[lr]::
 39550::$$$message_0272_0043_0001$$$::"Não, não se preocupe comigo.[lr]::
 39551::$$$message_0272_0043_0002$$$::Por sinal, Saber, foi você mesma quem escolheu esse maiô?"[lr]::
-39552::$$$message_0272_0043_0003$$$::"Sim. Não entendo muito de maiôs, então deixei isso com a Taiga e a Sakura. Nós fizemos de um jeito onde eu deveria escolher o que eu mais gostasse dentre os que elas selecionaram.[lr]::
+39552::$$$message_0272_0043_0003$$$::"Sim. Não entendo muito de maiôs, então deixei a escolha com Taiga e Sakura. Elas separaram algumas opções, e eu escolheria a que mais gostasse.[lr]::
 39553::$$$message_0272_0043_0004$$$::É que..."[lr]::
 39554::$$$message_0272_0043_0005$$$::Ela hesita.::
 39555::$$$message_0272_0044_0000$$$::"Hã? Aconteceu alguma coisa?"[lr]::
-39556::$$$message_0272_0044_0001$$$::"Não. A princípio, escolhi um que era um maiô de peça única inteiro, mas hum... achei que você ficaria mais feliz com o que estou usando agora..."::
+39556::$$$message_0272_0044_0001$$$::"Não. A princípio, escolhi um maiô inteiro, mas, hum... achei que você ficaria mais feliz com o que estou usando agora..."::
 39557::$$$message_0272_0045_0000$$$::A Saber olha para mim com preocupação.[lr]::
 39558::$$$message_0272_0045_0001$$$::Eu não posso congelar feito idiota com ela fazendo uma carinha dessas.::
 39559::$$$message_0272_0046_0000$$$::"...É, eu tô muito feliz mesmo."[lr]::
@@ -170,7 +170,7 @@ id=qid::label=str::text=lstr::
 39564::$$$message_0272_0047_0001$$$::"Não consigo me decidir mesmo que me pergunte. Por favor, decida, Shirou."[lr]::
 39565::$$$message_0272_0047_0002$$$::"Entendi. Então..."::
 39566::$$$message_0272_0048_0000$$$::Provavelmente é mais seguro não ir num escorregador ou num brinquedo assustador primeiro.[lr]::
-39567::$$$message_0272_0048_0001$$$::Têm os que giram ou que produzem ondas, mas nós deveríamos tentar uma piscina normal para começar.::
+39567::$$$message_0272_0048_0001$$$::Há atrações que giram ou produzem ondas, mas, para começar, é melhor tentarmos uma piscina comum.::
 39568::$$$message_0272_0049_0000$$$::"U-hum, Shirou."[lr]::
 39569::$$$message_0272_0049_0001$$$::"Hm? Achou algum lugar que queira ir?"[lr]::
 39570::$$$message_0272_0049_0002$$$::"Não, não é isso..."[lr]::
@@ -209,6 +209,11 @@ id=qid::label=str::text=lstr::
 39603::$$$message_0272_0058_0000$$$::É por isso que a Saber usou a palavra "provavelmente".[lr]::
 39604::$$$message_0272_0058_0001$$$::Ela nunca nadou antes, então não sabe se consegue.::
 39605::$$$message_0272_0059_0000$$$::"Me desculpe. Eu deveria ter mencionado isso no começo."[lr]::
+39606::$$$message_0272_0059_0001$$$::"Não, a culpa não é sua. Eu é que forcei você a vir comigo em primeiro lugar."[lr]::
+39607::$$$message_0272_0059_0002$$$::"Não, [wvl][shock vmax=20 time=300 count=-3]eu não fui forçada a nada.[lr]::
+39608::$$$message_0272_0059_0003$$$::Fiquei exultante por você ter me convidado, então a culpa é minha por esquecer de comunicar isso!"::
+39609::$$$message_0272_0060_0000$$$::"Espera, você também ficou exultante?"[lr]::
+39610::$$$message_0272_0060_0001$$$::"Hã...? [cacheimage storage=セイバーfd特殊01g(中)][wvl canskip=0 time=700][chgfg textoff=0 time=100 storage=セイバーfd特殊01g(中)][cacheimage storage=セイバーfd特殊05g(中)][wvl canskip=0 time=500][chgfg textoff=0 time=300 storage=セイバーfd特殊05g(中)]Ah, não, foi só modo de dizer![lr]::
 39611::$$$message_0272_0060_0002$$$::Era mais como se eu estivesse me preparando para o desconhecido à minha frente, em vez de estar empolgada!"[lr]::
 39612::$$$message_0272_0060_0003$$$::Ela com certeza já quer muito entrar na piscina.::
 39613::$$$message_0272_0061_0000$$$::"Certo, certo. Então, vamos pular na piscina, Saber!"[lr]::
@@ -216,13 +221,13 @@ id=qid::label=str::text=lstr::
 39615::$$$message_0272_0061_0002$$$::"Hm? Devemos comer antes de nadar?"::
 39616::$$$message_0272_0062_0000$$$::"Não, não é isso. [cacheimage storage=セイバーfd特殊01f(中)][wvl canskip=0 time=400][chgfg time=300 textoff=0 storage=セイバーfd特殊01f(中)]Se tudo bem para você, poderia por favor me ensinar a nadar?"[lr]::
 39617::$$$message_0272_0062_0001$$$::"Como nadar?"::
-39618::$$$message_0272_0063_0000$$$::"Sim. Achei que eu deveria aproveitar essa oportunidade para aprender, para que eu possa usar isso depois."[lr]::
+39618::$$$message_0272_0063_0000$$$::"Sim. Achei que deveria aproveitar esta oportunidade para aprender, para que isso me seja útil depois."[lr]::
 39619::$$$message_0272_0063_0001$$$::"Entendi... É, você vai conseguir se divertir mais na próxima vez que vier."[lr]::
 39620::$$$message_0272_0063_0002$$$::"Então, você me ensina?"::
 39621::$$$message_0272_0064_0000$$$::"Claro. Eu que estou sempre aprendendo a usar a espada com você, então não tem por que hesitar em me pedir qualquer coisa."[lr]::
 39622::$$$message_0272_0064_0001$$$::"Certo. Então eu conto com você, Shirou."[lr]::
 39623::$$$message_0272_0064_0002$$$::"Deixa comigo... Espera, você disse 'depois'. Você planeja vir de novo?"::
-39624::$$$message_0272_0065_0000$$$::"Não tem nada decidido, mas quando nós fomos comprar os maiôs, a Taiga falou que deveríamos todos ir juntos."[lr]::
+39624::$$$message_0272_0065_0000$$$::"Não há nada decidido, mas, quando fomos comprar os maiôs, Taiga disse que todos deveríamos vir juntos."[lr]::
 39625::$$$message_0272_0065_0001$$$::"Entendi."[lr]::
 39626::$$$message_0272_0065_0002$$$::"Sim. Mas, fico feliz por ter conseguido vir com você. Eu aprecio a consideração da Taiga."::
 39627::$$$message_0272_0066_0000$$$::"É. Aposto que seria difícil para você dizer na frente de todo mundo que nunca tinha nadado antes."[lr]::
@@ -230,20 +235,20 @@ id=qid::label=str::text=lstr::
 39629::$$$message_0272_0067_0000$$$::"Hã?"[lr]::
 39630::$$$message_0272_0067_0001$$$::"...Haaah. Eu não sou lá muito esperta, mas eu não chego nem perto do seu nível."[lr]::
 39631::$$$message_0272_0067_0002$$$::"Hã?"[lr]::
-39632::$$$message_0272_0067_0003$$$::Admito que sou lerdo, mas quando que nós começamos a competir pra ver quem é mais tapado?::
+39632::$$$message_0272_0067_0003$$$::Admito que sou lerdo, mas desde quando começamos a competir para ver quem é mais cabeça-dura?::
 39633::$$$message_0272_0068_0000$$$::"...Tudo bem, deixa pra lá.[lr]::
 39634::$$$message_0272_0068_0001$$$::Vamos começar a praticar, Shirou."[lr]::
 39635::$$$message_0272_0068_0002$$$::"E-É. A piscina de prática ali vai servir?"::
 39636::$$$message_0272_0069_0000$$$::"Piscina de prática... Eles também têm um lugar para isso?"[lr]::
-39637::$$$message_0272_0069_0001$$$::"Têm. Tenho certeza de que tem mais pessoas feito você que vêm para praticar natação."[lr]::
+39637::$$$message_0272_0069_0001$$$::"Tem. Tenho certeza de que há outras pessoas como você que vêm praticar natação."[lr]::
 39638::$$$message_0272_0069_0002$$$::Ainda assim, eu não menciono que, na maior parte, são as crianças que a usam.::
-39639::$$$message_0272_0070_0000$$$::"Hum, têm outras piscinas que são como aquelas usadas pra competições, então não é algo exclusivamente voltado só para diversão."::
+39639::$$$message_0272_0070_0000$$$::"Hum, há outras piscinas parecidas com as usadas em competições, então o lugar não é dedicado só à diversão."::
 39640::$$$message_0272_0071_0000$$$::"Ah... Entendi, eles realmente têm uma grande variedade.[lr]::
 39641::$$$message_0272_0071_0001$$$::Aposto que não existe nenhum outro parque aquático que tenha tanto. Deveríamos estar gratos por um lugar tão raro como esse ter sido construído em Fuyuki."::
 39642::$$$message_0272_0072_0000$$$::A Saber está emocionada.[lr]::
-39643::$$$message_0272_0072_0001$$$::...Isso desperta minha vontade de provocar ela... Se ela tá surpresa com essa piscina, fico imaginando o quão surpresa ela não ficaria se eu a levasse praquele parque de diversões grandão lá em Tóquio.::
+39643::$$$message_0272_0072_0001$$$::...Isso desperta minha vontade de provocá-la... Se ela fica surpresa com esta piscina, imagino o quanto se espantaria se eu a levasse àquele parque de diversões enorme em Tóquio.::
 39644::$$$message_0272_0073_0000$$$::Chegamos à piscina de prática.[lr]::
-39645::$$$message_0272_0073_0001$$$::Felizmente, não há crianças pequenas e nem ninguém praticando a sério. Nós temos a piscina toda para nós.::
+39645::$$$message_0272_0073_0001$$$::Por sorte, não há crianças pequenas nem ninguém praticando a sério. Temos a piscina toda para nós.::
 39646::$$$message_0272_0074_0000$$$::"Saber, você não tem medo de água, não é?"[lr]::
 39647::$$$message_0272_0074_0001$$$::"Eu não tenho medo, mas... o que quer dizer com isso?"[lr]::
 39648::$$$message_0272_0074_0002$$$::"Bom, pelo visto tem bastante gente que tem fobia de água.[lr]::
@@ -259,7 +264,7 @@ id=qid::label=str::text=lstr::
 39658::$$$message_0272_0078_0001$$$::Sim, nós podemos falar disso mais tarde. Agora é hora de treinar a nadar! E agora, Shirou, vamos começar a praticar!"[lr]::
 39659::$$$message_0272_0078_0002$$$::"...Ugh. Eu prometi te ensinar, então acho que isso é prioridade."::
 39660::$$$message_0272_0079_0000$$$::Nós entramos na água.[lr]::
-39661::$$$message_0272_0079_0001$$$::Acho melhor fazer ela caminhar pela água primeiro, pra ela aprender como é a sensação de boiar e de sentir a resistência da água.::
+39661::$$$message_0272_0079_0001$$$::Acho melhor fazê-la caminhar pela água primeiro, para aprender a sensação de boiar e sentir a resistência da água.::
 39662::$$$message_0272_0080_0000$$$::"Me siga, Saber.[lr]::
 39663::$$$message_0272_0080_0001$$$::Pra começar, sinta o quão pesada é a água e o quanto ela empurra o seu corpo[cacheimage storage=セイバーfd特殊01l(中)][wvl][playstop time=100 nowait=1][se storage=se589.wav][wait canskip=0 time=400][movefg textoff=0 opacity=255 left=-310 top=79 time=350 accel=0 storage=セイバーfd特殊01l(中)][wait canskip=0 time=200][se storage=se196.wav][se storage=se608.wav][se storage=se160.wav][movefg textoff=0 opacity=255 left=500 top=-13 time=600 accel=-4 layer=2][wait canskip=0 time=90][movefg textoff=0 opacity=255 left=285 top=-13 time=600 accel=-4 layer=3][wait canskip=0 time=90][movefg textoff=0 opacity=255 left=114 top=-13 time=600 accel=-4 layer=4][wait canskip=0 time=90][movefg textoff=0 opacity=255 left=-124 top=-13 time=600 accel=-4 layer=5]..."[lr]::
 39664::$$$message_0272_0080_0002$$$::[font italic=true]...Espera aí.[font italic=false][lr]::
@@ -272,20 +277,28 @@ id=qid::label=str::text=lstr::
 39671::$$$message_0272_0082_0002$$$::A Saber está com um sorriso orgulhoso no rosto.[lr]::
 39672::$$$message_0272_0082_0003$$$::Ela não demonstra nenhum medo na sua primeira vez na água, atravessando a piscina sem a menor dificuldade, mais rápido que eu e quase na velocidade de uma corrida. É como se ela nem precisasse nadar.[lr]::
 39673::$$$message_0272_0082_0004$$$::...Ao que parece, ela é capaz de prever o fluxo ou o caminho mais fácil, então não é tão trabalhoso assim.::
-39674::$$$message_0272_0083_0000$$$::"...Entendi. [flicker time=600 count=1]Aí está quando quem é faz tudo acaba parando o progresso dos outros."::
-39675::$$$message_0272_0084_0000$$$::"Shirou...? P-Por que está me encarando? Eu estava apenas me movendo da maneira que me parecia mais natural."[lr]::
+39674::$$$message_0272_0083_0000$$$::"...Entendi. [flicker time=600 count=1]Então é assim que gente versátil demais acaba travando o progresso dos outros."::
+39675::$$$message_0272_0084_0000$$$::"Shirou...? P-Por que está me encarando? Eu apenas avancei do modo que me parecia natural."[lr]::
+39676::$$$message_0272_0084_0001$$$::"Esse é o problema. Estou acostumado às suas absurdidades, mas acho que isso passou de todos os limites."[lr]::
+39677::$$$message_0272_0084_0002$$$::Pássaros voam naturalmente pelo céu.[lr]::
+39678::$$$message_0272_0084_0003$$$::Então vou arrancar essas penas primeiro.::
+39679::$$$message_0272_0085_0000$$$::"H-hã...? Shirou...?[lr]::
+39680::$$$message_0272_0085_0001$$$::Que movimentos são esses com as mãos? Parece aquele robô assassino que vimos ontem à noite...!"[lr]::
+39681::$$$message_0272_0085_0002$$$::Vou colocá-la no percurso mais difícil.[lr]::
+39682::$$$message_0272_0085_0003$$$::Darei o meu melhor como representante das pessoas comuns que não podem fazer tudo do jeito que querem.::
+39683::$$$message_0272_0086_0000$$$::"E-espere, eu passei um pouco dos limites; peço desculpas! [cacheimage storage=セイバーfd特殊01j(中),o新都_室内プール02(モブ)-(昼)][wvl canskip=0 time=500][clfg][fg left=287 index=2000 top=99 storage=セイバーfd特殊01j(中)][fg left=0 index=1000 top=0 storage=o新都_室内プール02(モブ)-(昼)][dash textoff=0 page=back mx=0 opacity=255 layer=all irot=0.031 cx=400 imag=1.8 time=100 cy=300 mag=1.8 my=0 rot=0.031 accel=0][se storage=se552.wav][transex textoff=0 time=200]Sim, foi imaturo da minha parte correr sobre a água para tentar surpreendê-lo![lr]::
 39684::$$$message_0272_0086_0001$$$::Dedicarei todos os meus esforços para aprender com suas lições[line len=2][cacheimage storage=white][wvl][se storage=se083.wav][se storage=se552.wav][sestop storage=se195.wav time=300 nowait=1][fadein textoff=0 time=300 rule=走る感じ(上から) storage=white]Ah!?"[lr]::
 39685::$$$message_0272_0086_0002$$$::Oba, consegui subir nela!::
 39686::$$$message_0272_0087_0000$$$::"!?!?!?[lr]::
 39687::$$$message_0272_0087_0001$$$::Shirou, m-minhas pernas não estão encostando no chã[line len=2]!?!?!?"[lr]::
 39688::$$$message_0272_0087_0002$$$::A Saber se debate na água, batendo as pernas desesperadamente.[lr]::
-39689::$$$message_0272_0087_0003$$$::Ela se agarra com seu corpo pequeno, e [se storage=se552.wav]eu instigo o medo da água nela. [lr]::
+39689::$$$message_0272_0087_0003$$$::Ela se agarra com seu corpo pequeno, e [se storage=se552.wav]eu gravo nela o medo da água. [lr]::
 39690::$$$message_0272_0087_0004$$$::Certo.[lr]::
 39691::$$$message_0272_0087_0005$$$::Agora eu vou fazer essa supergarota toda-poderosa provar do que é bom de se esforçar devagarzinho.::
 39692::$$$message_0272_0088_0000$$$::"Vamos lá, Saber. Levante mais o traseiro e relaxe a tensão na barriga."[lr]::
 39693::$$$message_0272_0088_0001$$$::"M-Mas, Shirou! Eu vou afundar se eu fizer isso, não vou!?"::
 39694::$$$message_0272_0089_0000$$$::A Saber se debate violentamente.[lr]::
-39695::$$$message_0272_0089_0001$$$::Ao invés de afundar, o Submarino Saber está se inundando a uma velocidade vertiginosa.[lr]::
+39695::$$$message_0272_0089_0001$$$::Em vez de afundar, o Submarino Saber está fazendo água a uma velocidade vertiginosa.[lr]::
 39696::$$$message_0272_0089_0002$$$::Se eu soltar a mão dela, ela vai ser esmagada facilmente. Que Deus tenha piedade.::
 39697::$$$message_0272_0090_0000$$$::"Glub, me puxe mais para cima, Shirou![lr]::
 39698::$$$message_0272_0090_0001$$$::O corpo humano não foi feito para conseguir boiar!"[lr]::
@@ -294,8 +307,8 @@ id=qid::label=str::text=lstr::
 39701::$$$message_0272_0090_0004$$$::"Glub glub...! Eu não acredito! Queria saber quem disse uma coisa tão irresponsável assim...!"::
 39702::$$$message_0272_0091_0000$$$::...Ela deve ser incompatível com a água, ou melhor, talvez ela seja do tipo de pessoa que sempre precisa lutar contra alguma coisa até o fim?[lr]::
 39703::$$$message_0272_0091_0001$$$::A Saber está lutando contra a corrente apenas com sua força.[lr]::
-39704::$$$message_0272_0091_0002$$$::Ela tá tentando se manter acima d'água apenas se contorcendo e suas pernas tonificadas não estão indo a lugar nenhum.[lr]::
-39705::$$$message_0272_0091_0003$$$::Suas batidas de perna perturbam a superfície pacífica da água, tal como uma escavadeira cavando um punhado de terra. ::
+39704::$$$message_0272_0091_0002$$$::Ela está tentando se manter acima d'água apenas se contorcendo, e suas pernas tonificadas não a levam a lugar nenhum.[lr]::
+39705::$$$message_0272_0091_0003$$$::Suas batidas de perna perturbam a superfície pacífica da água, tal como uma escavadeira cavando um punhado de terra.::
 39706::$$$message_0272_0092_0000$$$::"Mm, que bom pra você, Saber.[lr]::
 39707::$$$message_0272_0092_0001$$$::Ainda bem que a Illya não está aqui hoje."[lr]::
 39708::$$$message_0272_0092_0002$$$::A música-tema dela é um poema sobre se afogar.[lr]::
@@ -305,7 +318,7 @@ id=qid::label=str::text=lstr::
 39712::$$$message_0272_0093_0002$$$::"Glub...!?!?!?"::
 39713::$$$message_0272_0094_0000$$$::A Saber começa a afundar de maneira espetacular.[lr]::
 39714::$$$message_0272_0094_0001$$$::Boiar na água e nadar devem ser duas coisas totalmente diferentes para ela.[lr]::
-39715::$$$message_0272_0094_0002$$$::Não importa o quão atlético você seja, não há como demonstrar como é boiar.::
+39715::$$$message_0272_0094_0002$$$::Por mais atlético que alguém seja, não há como demonstrar o que é boiar.::
 39716::$$$message_0272_0095_0000$$$::"Ah. Não, Saber. Você não pode botar os pés no chão. Pare de bater as pernas e relaxe."[lr]::
 39717::$$$message_0272_0095_0001$$$::"E-Eu já estou relaxada! Acho que eu afundaria ainda mais se parasse de bater as minhas pernas!"[lr]::
 39718::$$$message_0272_0095_0002$$$::"Isso é porque você ainda está tensa. Hmm... Vamos ver, você pode fingir que está morta. Você com certeza vai boiar se fizer isso."[lr]::
@@ -317,13 +330,13 @@ id=qid::label=str::text=lstr::
 39724::$$$message_0272_0097_0001$$$::Para explicar o que aconteceu depois disso...::
 39725::$$$message_0272_0098_0000$$$::"E-Entendo, então dá para boiar assim, Shirou?"[lr]::
 39726::$$$message_0272_0098_0001$$$::O som de espirros d'água.[lr]::
-39727::$$$message_0272_0098_0002$$$::A Saber tá meio nervosa mas se acostuma com a água numa rapidez assustadora.[lr]::
+39727::$$$message_0272_0098_0002$$$::Saber está meio nervosa, mas se acostuma com a água numa rapidez assustadora.[lr]::
 39728::$$$message_0272_0098_0003$$$::Suas pernas ainda estão um pouco desajeitadas, mas parece que ela compreendeu perfeitamente bem como não ficar tensa.::
 39729::$$$message_0272_0099_0000$$$::"Isso mesmo, você está indo bem, Saber. Nesse ritmo, você vai conseguir nadar sozinha rapidinho[line len=2]"[lr]::
 39730::$$$message_0272_0099_0001$$$::"E-Espera, é muito cedo pra isso, Shirou...![lr]::
 39731::$$$message_0272_0099_0002$$$::Por favor, você pode caminhar devagarzinho? Como se estivesse só passeando em vez de caminhar mesmo."::
 39732::$$$message_0272_0100_0000$$$::A Saber me agarra como se estivesse prestes a se atracar em mim.[lr]::
-39733::$$$message_0272_0100_0001$$$::Ela praticamente já tá nadando sozinha, mas não solta do meu braço por nada.::
+39733::$$$message_0272_0100_0001$$$::Ela praticamente já está nadando sozinha, mas não larga meu braço por nada.::
 39734::$$$message_0272_0101_0000$$$::"Hnng... Espere, não... em suma, é tudo sobre equilíbrio e respiração. Sim, exatamente como você disse, eu consigo me manter boiando se continuar respirando."::
 39735::$$$message_0272_0102_0000$$$::A Saber avança.[lr]::
 39736::$$$message_0272_0102_0001$$$::Eu acompanho o seu movimento e também recuo lentamente.[lr]::
@@ -339,7 +352,7 @@ id=qid::label=str::text=lstr::
 39746::$$$message_0272_0105_0001$$$::"S-Sim, você pode, Shirou. Eu não me importo se você acelerar um pouco mais do que antes."::
 39747::$$$message_0272_0106_0000$$$::Ela é dedicada até o fim.[lr]::
 39748::$$$message_0272_0106_0001$$$::Ela tá se desafiando mesmo estando com medo, tentando dominar a natação o mais rápido que consegue.[lr]::
-39749::$$$message_0272_0106_0002$$$::Que aluna excelente. Não há espaço para pensamentos profanos, e não tem nada mais gratificante como professor dela.[lr]::
+39749::$$$message_0272_0106_0002$$$::Que aluna excelente. Não há espaço para pensamentos profanos, e nada é mais gratificante do que ser professor dela.[lr]::
 39750::$$$message_0272_0106_0003$$$::No entanto...::
 39751::$$$message_0272_0107_0000$$$::Não importa quão séria a atitude dela com a natação seja...[lr]::
 39752::$$$message_0272_0107_0001$$$::O corpo da Saber invoca pensamentos profanos queira ela ou não.::
@@ -353,10 +366,10 @@ id=qid::label=str::text=lstr::
 39760::$$$message_0272_0110_0001$$$::A Saber bate as pernas.[lr]::
 39761::$$$message_0272_0110_0002$$$::Ou ela quer melhorar mais rápido, ou quer se testar à medida que se acostuma.[lr]::
 39762::$$$message_0272_0110_0003$$$::Seja como for, a voz que me incita a continuar é tão sincera que acaba com os meus pensamentos profanos.::
-39763::$$$message_0272_0111_0000$$$::"Desculpa, eu tava viajando. Você tá se acostumando com isso, então eu vou te puxar um pouco mais rápido."[lr]::
+39763::$$$message_0272_0111_0000$$$::"Desculpa, eu estava distraído. Você está se acostumando, então vou puxá-la um pouco mais rápido."[lr]::
 39764::$$$message_0272_0111_0001$$$::Parece que ela já consegue nadar uns dez, não, vinte e cinco metros agora, mas vou me dedicar a guiá-la até ela ganhar confiança.[lr]::
 39765::$$$message_0272_0111_0002$$$::O dia acabou de começar. Temos muitas oportunidades pra nadar só nós dois depois disso.::
-39766::$$$message_0272_0112_0000$$$::"Oh, parece que fico mais estável quando me movo mais rápido. Boiar é mais difícil do que nadar para mim, Shirou."::
+39766::$$$message_0272_0112_0000$$$::"Ah, parece que fico mais estável quando me movo depressa. Para mim, boiar é mais difícil do que nadar, Shirou."::
 39767::$$$message_0272_0113_0000$$$::A Saber deve estar envergonhada com isso, já que não há força nenhuma na voz dela.[lr]::
 39768::$$$message_0272_0113_0001$$$::Mas... Mesmo que ela consiga nadar desse tanto, boiar ainda é mais difícil?[lr]::
 39769::$$$message_0272_0113_0002$$$::A Saber se sairia melhor mergulhando... E, no exato momento que penso isso,[lr]::
@@ -364,7 +377,7 @@ id=qid::label=str::text=lstr::
 39771::$$$message_0272_0114_0000$$$::"Ha, isso combina com ela até demais."[lr]::
 39772::$$$message_0272_0114_0001$$$::Reprimo o riso para que a Saber não perceba.[lr]::
 39773::$$$message_0272_0114_0002$$$::"Shirou...? A minha forma está estranha?"::
-39774::$$$message_0272_0115_0000$$$::"Ah, não, o seu nado não tá estranho. Eu só estava pensando no porquê de você não conseguir boiar bem."[lr]::
+39774::$$$message_0272_0115_0000$$$::"Ah, não, seu nado não está estranho. Eu só estava pensando por que você não consegue boiar direito."[lr]::
 39775::$$$message_0272_0115_0001$$$::"Hm...? Tem algum motivo de eu não conseguir boiar bem...?"::
 39776::$$$message_0272_0116_0000$$$::"Mm. De acordo com uma teoria, músculos não boiam bem.[lr]::
 39777::$$$message_0272_0116_0001$$$::Você não tem nenhuma gordura sobrando, certo, Saber? Fiquei pensando se é por isso que você boia menos do que uma pessoa normal."[lr]::
@@ -376,7 +389,7 @@ id=qid::label=str::text=lstr::
 39783::$$$message_0272_0118_0001$$$::"..."[lr]::
 39784::$$$message_0272_0118_0002$$$::Meus avisos são em vão, já que a Saber continua afundando.[lr]::
 39785::$$$message_0272_0118_0003$$$::Depois disso, a Saber não voltou à superfície e ficou embaixo da água por um tempo recorde de quase seis minutos.::
-39786::$$$message_0272_0119_0000$$$::Faz uma hora desde que começamos a praticar...[lr]::
+39786::$$$message_0272_0119_0000$$$::Já faz uma hora desde que começamos a praticar...[lr]::
 39787::$$$message_0272_0119_0001$$$::A Saber já se transformou por completo numa nadadora de primeira, e ainda nem é meio-dia.[lr]::
 39788::$$$message_0272_0119_0002$$$::Eu também não sou lá tão bom na natação, mas só posso dizer que é a cara da Saber aprender a nadar tão bem quanto eu num instante.::
 39789::$$$message_0272_0120_0000$$$::"...É quase meio-dia.[lr]::
@@ -389,7 +402,7 @@ id=qid::label=str::text=lstr::
 39796::$$$message_0272_0121_0002$$$::Ela é bonita, chamativa, e está sozinha, então é claro que é fácil pra ela acabar se metendo em confusão.::
 39797::$$$message_0272_0122_0000$$$::"Voltei, Saber... Algum cara esquisito mexeu com você?"[lr]::
 39798::$$$message_0272_0122_0001$$$::"Mexeram sim.[lr]::
-39799::$$$message_0272_0122_0002$$$::Eles foram embora assim que descobriram que eu não estou sozinha, mas teve um cara um tanto inoportuno. Não é como se eu tivesse permitido, mas ele sentou no seu lugar."::
+39799::$$$message_0272_0122_0002$$$::Eles foram embora assim que descobriram que eu não estava sozinha, mas apareceu um cara bem inconveniente. Não é como se eu tivesse permitido, mas ele sentou no seu lugar."::
 39800::$$$message_0272_0123_0000$$$::"Mrgh. O que aconteceu com ele?"[lr]::
 39801::$$$message_0272_0123_0001$$$::Se ele não tá aqui, isso quer dizer que ele tá submerso em algum canto da piscina agora?::
 39802::$$$message_0272_0124_0000$$$::"Não, um outro homem apareceu e o levou embora... Hum, eu sinto que o homem que chegou depois me era familiar."[lr]::
@@ -397,7 +410,7 @@ id=qid::label=str::text=lstr::
 39804::$$$message_0272_0125_0000$$$::"É possível. Eu gostaria de agradecê-lo se descobrirmos a sua identidade."[lr]::
 39805::$$$message_0272_0125_0001$$$::"É. Eu preciso agradecê-lo também."::
 39806::$$$message_0272_0126_0000$$$::Tomo compostura e abro as nossas marmitas.[lr]::
-39807::$$$message_0272_0126_0001$$$::O prato principal é rolinho primavera e sushi, bem como alguns acompanhamentos. Eu preparei potinhos plásticos cheios de frango frito japonês em pedacinhos, e batatas rústicas.[lr]::
+39807::$$$message_0272_0126_0001$$$::O prato principal são rolinhos primavera e sushi, além de alguns acompanhamentos. Preparei potes plásticos cheios de karaage em pedaços e batatas rústicas.[lr]::
 39808::$$$message_0272_0126_0002$$$::A mistura inconsistente da culinária japonesa e ocidental juntas é o que dá o seu charme.::
 39809::$$$message_0272_0127_0000$$$::"Pensei em comprar algo por aqui já que viemos até aqui, mas...[lr]::
 39810::$$$message_0272_0127_0001$$$::Não sabia o que ia acontecer, então tentei cortar gastos."::
@@ -416,7 +429,7 @@ id=qid::label=str::text=lstr::
 39823::$$$message_0272_0132_0001$$$::"É, bom apetite."::
 39824::$$$message_0272_0133_0000$$$::Nós juntamos nossas mãos. Eu respiro fundo em segredo e separo os meus hashis.[lr]::
 39825::$$$message_0272_0133_0001$$$::Então... uma mão aparece do lado e rouba uma fatia de omelete enrolado.::
-39826::$$$message_0272_0134_0000$$$::"Está muito salgado. E também não está cozido o suficiente. Se você tiver em mente que é uma marmita e cozinhar por um pouco mais de tempo, você vai conseguir conservar melhor o sabor."::
+39826::$$$message_0272_0134_0000$$$::"Está muito salgado. E também não cozinhou o bastante. Se lembrar que é uma marmita e cozinhar um pouco mais, vai conseguir preservar melhor o sabor."::
 39827::$$$message_0272_0135_0000$$$::"O que..."[lr]::
 39828::$$$message_0272_0135_0001$$$::Não acredito. No Waku Waku Zabuun, onde parece que só casais felizes têm permissão para entrar, por que...::
 39829::$$$message_0272_0136_0000$$$::"Archer!?[lr]::
@@ -432,12 +445,12 @@ id=qid::label=str::text=lstr::
 39839::$$$message_0272_0139_0000$$$::"...Ei. Por que você tá aqui?"[lr]::
 39840::$$$message_0272_0139_0001$$$::"Eu não preciso de um motivo.[lr]::
 39841::$$$message_0272_0139_0002$$$::Isto aqui é um lugar público. Não acho que seja estranho eu estar aqui."[lr]::
-39842::$$$message_0272_0139_0003$$$::É estranho sim. É super estranho. Não acredito que sou eu quem tá dizendo isso, mas você deveria notar o quão deslocado você está, seu imbecil.::
+39842::$$$message_0272_0139_0003$$$::É estranho sim. Muito estranho. Nem acredito que sou eu quem está dizendo isso, mas você deveria perceber o quanto está deslocado, seu imbecil.::
 39843::$$$message_0272_0140_0000$$$::"...Bem, claro, mas você pagou para entrar?"[lr]::
 39844::$$$message_0272_0140_0001$$$::"Mas é óbvio. Não existe coisa mais rude do que nadar em forma espiritual."[lr]::
 39845::$$$message_0272_0140_0002$$$::"...Entendi. E daí, essa roupa deveria ser um maiô?"::
 39846::$$$message_0272_0141_0000$$$::O Archer não responde.[lr]::
-39847::$$$message_0272_0141_0001$$$::O Archer, que tirou o sobretudo vermelho e tá só de roupas de baixo, poderia argumentar que é um traje de mergulho.[lr]::
+39847::$$$message_0272_0141_0001$$$::Archer, sem o sobretudo vermelho e só de roupa de baixo, poderia até alegar que aquilo é um traje de mergulho.[lr]::
 39848::$$$message_0272_0141_0002$$$::Mas ele parece ter algum tipo de motivo para estar vestindo isso.[lr]::
 39849::$$$message_0272_0141_0003$$$::...Bem, pra mim tanto faz.::
 39850::$$$message_0272_0142_0000$$$::"O qu!? Um novo vilão!?"[lr]::
@@ -481,7 +494,7 @@ id=qid::label=str::text=lstr::
 39888::$$$message_0272_0154_0000$$$::"...Isso foi rápido."[lr]::
 39889::$$$message_0272_0154_0001$$$::O Archer murmura, enquanto tento processar o que acabou de acontecer.[lr]::
 39890::$$$message_0272_0154_0002$$$::"Shirou, já volto. Eu ficaria grata se pudesse deixar um pouco de comida para mim."::
-39891::$$$message_0272_0155_0000$$$::"Uh, [shock vmax=20 time=300 count=2]tá bem."[lr]::
+39891::$$$message_0272_0155_0000$$$::"Uh, [shock vmax=20 time=300 count=2]tudo bem."[lr]::
 39892::$$$message_0272_0155_0001$$$::Tudo que posso fazer é concordar.[lr]::
 39893::$$$message_0272_0155_0002$$$::A Saber vai até o Lancer, que foi arremessado para longe.[lr]::
 39894::$$$message_0272_0155_0003$$$::...Que assustador. Um ataque não foi o bastante?::
@@ -492,7 +505,7 @@ id=qid::label=str::text=lstr::
 39899::$$$message_0272_0156_0004$$$::Argh, eu sabia que detestava esse cara.::
 39900::$$$message_0272_0157_0000$$$::Mudando de assunto, a coisa lá parece bem animada também.[lr]::
 39901::$$$message_0272_0157_0001$$$::Uma tromba d'água se ergue fazendo o maior estardalhaço.[lr]::
-39902::$$$message_0272_0157_0002$$$::A Saber arremessa o Lancer, que tá resmungando alguma coisa, com apenas uma mão.::
+39902::$$$message_0272_0157_0002$$$::Saber arremessa Lancer, que resmunga alguma coisa, com uma só mão.::
 39903::$$$message_0272_0158_0000$$$::"...Eu não sabia que humanos podiam voar tão alto."[lr]::
 39904::$$$message_0272_0158_0001$$$::Pensando bem, eu também voei bastante quando o Lancer me chutou para longe.::
 39905::$$$message_0272_0159_0000$$$::"A Saber está falando sério. Não há piedade alguma no arremesso dela[line len=2]Mrgh.[lr]::
@@ -509,7 +522,7 @@ id=qid::label=str::text=lstr::
 39916::$$$message_0272_0162_0001$$$::...Guh.[lr]::
 39917::$$$message_0272_0162_0002$$$::O Lancer sumiu de frente da Saber num mergulho livre.[lr]::
 39918::$$$message_0272_0162_0003$$$::Mas, naquela direção...[lr]::
-39919::$$$message_0272_0162_0004$$$::A Saber tá correndo sobre as águas feito um jet ski e indo atrás dele!::
+39919::$$$message_0272_0162_0004$$$::Saber está correndo sobre a água como um jet ski e indo atrás dele!::
 39920::$$$message_0272_0163_0000$$$::"Iiiiiiii...!"[lr]::
 39921::$$$message_0272_0163_0001$$$::Isso não é bom.[lr]::
 39922::$$$message_0272_0163_0002$$$::Ouço alguns gritos do pessoal ao redor da piscina também.::
@@ -521,14 +534,14 @@ id=qid::label=str::text=lstr::
 39928::$$$message_0272_0165_0001$$$::Felizmente, a tromba d'água aconteceu bem embaixo da prancha de salto, então consegui parar os dois[line len=2]bem, mais a Saber, no caso[line len=2]antes que aquilo virasse uma comoção de verdade.::
 39929::$$$message_0272_0166_0000$$$::"...Por favor, repense o que você fez. O Lancer é quem está mais errado nisso tudo, mas você também está errada por perder o controle."[lr]::
 39930::$$$message_0272_0166_0001$$$::A Saber se encolhe, envergonhada das suas atitudes.[lr]::
-39931::$$$message_0272_0166_0002$$$::Ela realmente tá arrependida do que fez desta vez.[lr]::
+39931::$$$message_0272_0166_0002$$$::Ela realmente está arrependida do que fez desta vez.[lr]::
 39932::$$$message_0272_0166_0003$$$::Afinal de contas, foi uma confusão generalizada na frente de todo mundo no parque aquático, onde muitas pessoas estão reunidas.::
 39933::$$$message_0272_0167_0000$$$::"Mas tudo bem, foi bom que você tenha dado uma surra no Lancer. Ele merecia isso, no mínimo."::
 39934::$$$message_0272_0168_0000$$$::"Ainda bem...![lr]::
 39935::$$$message_0272_0168_0001$$$::Eu me senti aliviada quando martelei o Lancer na água da rampa!"[lr]::
 39936::$$$message_0272_0168_0002$$$::"Oh..."[lr]::
 39937::$$$message_0272_0168_0003$$$::...Eu retiro o que acabei de dizer.[lr]::
-39938::$$$message_0272_0168_0004$$$::Em vez de estar realmente arrependida, ela só tá um tiquinho arrependida.::
+39938::$$$message_0272_0168_0004$$$::Em vez de arrependida de verdade, ela só está um tiquinho arrependida.::
 39939::$$$message_0272_0169_0000$$$::"Então, o que aconteceu com o Lancer?"[lr]::
 39940::$$$message_0272_0169_0001$$$::"O Archer o levou de volta, dizendo que o enterraria no canteiro de flores da igreja ou algo assim, heheheh."[lr]::
 39941::$$$message_0272_0169_0002$$$::"..."[lr]::
@@ -541,7 +554,7 @@ id=qid::label=str::text=lstr::
 39948::$$$message_0272_0171_0001$$$::"Pode ser, Shirou. Mas... tudo bem mesmo?"[lr]::
 39949::$$$message_0272_0171_0002$$$::"O quê?"::
 39950::$$$message_0272_0172_0000$$$::"Bom, eu causei essa enorme comoção. Isso não causaria problemas aos outros?"[lr]::
-39951::$$$message_0272_0172_0001$$$::Ah, é, uma criança começou a chorar no meio da confusão. Ia ser dureza para a Saber se apontassem o dedo para ela dizendo, "Ah, é aquela garota que estava dando a louca."::
+39951::$$$message_0272_0172_0001$$$::Ah, é, uma criança começou a chorar no meio da confusão. Ia ser dureza para a Saber se apontassem o dedo para ela dizendo, "Ah, é aquela garota que estava dando a louca, Onee-chan."::
 39952::$$$message_0272_0173_0000$$$::"Hmm... Bem, eu acho que você não precisa se preocupar com isso.[lr]::
 39953::$$$message_0272_0173_0001$$$::Todo mundo está vindo pra se divertir, então eles não estão incomodados com o que já aconteceu, especialmente se acharam divertido."::
 39954::$$$message_0272_0174_0000$$$::"...Entendo. Espero que seja esse o caso."[lr]::
@@ -554,9 +567,9 @@ id=qid::label=str::text=lstr::
 39961::$$$message_0272_0176_0000$$$::"Entendi. Que tal a gente voltar a treinar então?"[lr]::
 39962::$$$message_0272_0176_0001$$$::"Sim. Eu irei melhorar ainda mais de tarde, Shirou."[lr]::
 39963::$$$message_0272_0176_0002$$$::A Saber caminha toda feliz em direção à piscina de prática.[lr]::
-39964::$$$message_0272_0176_0003$$$::Pelo seu progresso de manhã, eu tenho certeza que ela poderia muito bem ir pra piscina de competições agora mesmo.::
+39964::$$$message_0272_0176_0003$$$::Pelo progresso da manhã, tenho certeza de que ela já poderia ir para a piscina de competições agora mesmo.::
 39965::$$$message_0272_0177_0000$$$::A partir de então, o progresso da Saber foi tremendo.[lr]::
-39966::$$$message_0272_0177_0001$$$::Ela conseguiu nadar vinte e cinco metros, fez o seu próprio nado crawl de forma impressionante, e suas viradas eram tão limpas quanto às de um atleta de natação.::
+39966::$$$message_0272_0177_0001$$$::Ela conseguiu nadar vinte e cinco metros, criou seu próprio crawl de forma impressionante, e suas viradas eram tão limpas quanto as de uma atleta.::
 39967::$$$message_0272_0178_0000$$$::"Como estou me saindo, Shirou?[lr]::
 39968::$$$message_0272_0178_0001$$$::Acredito que agora há menos momentos de incertezas em comparação a esta manhã."[lr]::
 39969::$$$message_0272_0178_0002$$$::"Não, não há incerteza alguma. Eu não tenho mais nada para te ensinar."::
@@ -581,19 +594,19 @@ id=qid::label=str::text=lstr::
 39988::$$$message_0272_0184_0001$$$::"Hã?"[lr]::
 39989::$$$message_0272_0184_0002$$$::Quando percebi o clima inquietante, já era tarde demais.::
 39990::$$$message_0272_0185_0000$$$::"Eu disse, vamos competir mais uma vez.[lr]::
-39991::$$$message_0272_0185_0001$$$::Ouvi dizer que partidas esportivas não podem ser decididas em apenas uma rodada. Nós deveríamos estipular de quem vencer em melhor de três rodadas ganha em nome da justiça." ::
+39991::$$$message_0272_0185_0001$$$::Ouvi dizer que partidas esportivas não se decidem em uma única rodada. Em nome da justiça, deveríamos estipular que vence quem levar a melhor de três."::
 39992::$$$message_0272_0186_0000$$$::...E foi assim que a Saber me desafiou para uma nova partida.[lr]::
 39993::$$$message_0272_0186_0001$$$::E assim se deu início a pior corrida aquática de todos os tempos, onde a Saber só aumentava sua velocidade a cada partida.[lr]::
 39994::$$$message_0272_0186_0002$$$::A Saber acabou perdendo um total de quinze vezes antes de me derrotar.[lr]::
 39995::$$$message_0272_0186_0003$$$::Isso dá uns três mil metros de distância.[lr]::
-39996::$$$message_0272_0186_0004$$$::E eu tive que perder o mesmo número de vezes sem afrouxar pra conseguir acalmar a Saber...!::
+39996::$$$message_0272_0186_0004$$$::E eu tive que perder o mesmo número de vezes sem afrouxar para conseguir acalmar Saber...!::
 39997::$$$message_0272_0187_0000$$$::"Ah, ah... Eu nunca mais... vou me esquecer... de que você... não aceita perder..."[lr]::
 39998::$$$message_0272_0187_0001$$$::"O-O que está dizendo? Isso soa como se a culpa fosse minha."[lr]::
 39999::$$$message_0272_0187_0002$$$::"É... Heheh, a culpa é minha de ter me esquecido..."::
 40000::$$$message_0272_0188_0000$$$::...Ugh, os meus músculos estão tão cheios de ácido lático que eu não consigo sequer dar um passo.[lr]::
-40001::$$$message_0272_0188_0001$$$::Ainda falta um bom tempo pro sol se pôr, mas eu não vou conseguir ir para as outras piscinas nesse estado.[lr]::
+40001::$$$message_0272_0188_0001$$$::Ainda falta um bom tempo pro Sol se pôr, mas eu não vou conseguir ir para as outras piscinas nesse estado.[lr]::
 40002::$$$message_0272_0188_0002$$$::É uma pena, mas nós vamos ter que pular ondas e competir nos escorregadores outro dia...::
-40003::$$$message_0272_0189_0000$$$::O Waku Waku Zabuun fecha, e quando a multidão já havia se dispersado, nós voltamos pra casa sem pressa alguma.[lr]::
+40003::$$$message_0272_0189_0000$$$::O Waku Waku Zabuun fecha e, depois que a multidão se dispersa, voltamos para casa sem pressa.[lr]::
 40004::$$$message_0272_0189_0001$$$::Até mesmo o céu de verão volta à sua coloração nublada de outono assim que fomos para fora.::
 40005::$$$message_0272_0190_0000$$$::"Shirou, sinto muito por hoje.[lr]::
 40006::$$$message_0272_0190_0001$$$::Eu estraguei o seu dia..."[lr]::
@@ -607,17 +620,17 @@ id=qid::label=str::text=lstr::
 40014::$$$message_0272_0192_0002$$$::...Oh... Mas, sim. Tente não fazer de novo o que fez hoje."[lr]::
 40015::$$$message_0272_0192_0003$$$::"Sem dúvidas. Acredito que vá demorar um pouco, mas vou consertar isso aos pouquinhos!"::
 40016::$$$message_0272_0193_0000$$$::Hahaha. Bom, não é algo para rir a respeito, mas parece que o incidente de hoje foi bem traumático para ela.[lr]::
-40017::$$$message_0272_0193_0001$$$::...E pensar que isso apenas demonstra o quão importante esse dia na piscina significava para ela.[lr]::
+40017::$$$message_0272_0193_0001$$$::...E pensar que isso apenas mostra o quanto esse dia na piscina significava para ela.[lr]::
 40018::$$$message_0272_0193_0002$$$::Ela poupou roupas especialmente para o dia de hoje, e foi a primeira vez dela na piscina.[lr]::
 40019::$$$message_0272_0193_0003$$$::Eu não fui o único nervoso, a Saber deve ter se sentido da mesma forma.::
 40020::$$$message_0272_0194_0000$$$::"...Entendi.[lr]::
 40021::$$$message_0272_0194_0001$$$::Mas foi bem divertido, não foi, Saber?"[lr]::
 40022::$$$message_0272_0194_0002$$$::"Sim.[lr]::
 40023::$$$message_0272_0194_0003$$$::Ter você me ensinando e competirmos juntos foi bem divertido."[lr]::
-40024::$$$message_0272_0194_0004$$$::"Então foi um perfeito dia na piscina.[lr]::
-40025::$$$message_0272_0194_0005$$$::Você não estragou nada. Vai ser difícil encontrar um dia que seja mais divertido do que o de hoje em qualquer lugar que seja."[cacheimage storage=セイバーfd特殊04a頬(中)][wvs][chgfg textoff=0 storage=セイバーfd特殊04a頬(中) time=300]::
-40026::$$$message_0272_0195_0000$$$::O dia acabou como de costume.[lr]::
+40024::$$$message_0272_0194_0004$$$::"Então foi um dia perfeito na piscina.[lr]::
+40025::$$$message_0272_0194_0005$$$::Você não estragou nada. Vai ser difícil encontrar um dia mais divertido do que hoje."[cacheimage storage=セイバーfd特殊04a頬(中)][wvs][chgfg textoff=0 storage=セイバーfd特殊04a頬(中) time=300]::
+40026::$$$message_0272_0195_0000$$$::O dia terminou como sempre.[lr]::
 40027::$$$message_0272_0195_0001$$$::Como num dia qualquer, nós caminhamos para Miyama em vez de pegar um ônibus.[lr]::
 40028::$$$message_0272_0195_0002$$$::Nosso verão artificial chegou ao fim.[lr]::
-40029::$$$message_0272_0195_0003$$$::Ao observarmos o céu do anoitecer, a Saber e eu atravessamos a ponte em meio ao crepúsculo.::
-939542::$$$message_9272_0040_0000$$$::"...Fico feliz. Se é isso que você acha, então não me importo que os outros olhem."[r]:N
+40029::$$$message_0272_0195_0003$$$::Enquanto contemplamos o céu do anoitecer, Saber e eu atravessamos a ponte ao pôr do Sol.::
+939542::$$$message_9272_0040_0000$$$::"...Fico feliz. Se é isso que você pensa, então não me incomoda que os outros olhem."[r]::

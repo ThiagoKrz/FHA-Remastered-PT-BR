@@ -1,12 +1,29 @@
 DAT
 id=qid::label=str::text=lstr::
+3309::$$$message_0023_0000_0000$$$::Vou até a sala para começar a preparar o almoço e, para minha surpresa, encontro Saber ali, lendo.::
+3310::$$$message_0023_0001_0000$$$::"..."[lr]::
+3311::$$$message_0023_0001_0001$$$::Ela parece não ter percebido minha presença e está curvada sobre a mesa, olhos arregalados como uma gata.[lr]::
+3312::$$$message_0023_0001_0002$$$::A revista me deixa curioso, mas não quero interrompê-la, então sigo direto para a cozinha...::
+3313::$$$message_0023_0002_0000$$$::"Shirou, você veio na hora certa."[lr]::
+3314::$$$message_0023_0002_0001$$$::"Hm? Precisa de alguma coisa?"[lr]::
+3315::$$$message_0023_0002_0002$$$::Viro quando ela me chama. Saber ergue os olhos do livro.[lr]::
+3316::$$$message_0023_0002_0003$$$::Ela estende uma revista grande, de capa desbotada. É uma cena inesperada. Achei que Saber estaria lendo algo com aparência mais séria.::
+3317::$$$message_0023_0003_0000$$$::"Shirou, que gosto tem esse tal de ‘foie gras’?"[lr]::
+3318::$$$message_0023_0003_0001$$$::"...Foie gras?"::
+3319::$$$message_0023_0004_0000$$$::"Sim. [cacheimage storage=セイバー私服13b(中)][wvl canskip=false time=400][chgfg time=300 storage=セイバー私服13b(中) textoff=0]E também caviar, [wvl canskip=false time=400]trufas, [wvl canskip=false time=400]barbatana de tubarão, [wvl canskip=false time=400]ninho de andorinha, [wvl canskip=false time=300]matsutake, alfonsino esplêndido, lagosta, presunto Jinhua, pato de Pequim, galinha-d'angola-de-capacete, baiacu, tartaruga-de-carapaça-mole, wasanbon, melão Yubari, carne bovina Matsusaka..."[lr]::
+3320::$$$message_0023_0004_0001$$$::"E-espera, Saber. Do que você está falando?"[lr]::
+3321::$$$message_0023_0004_0002$$$::Saber está tão séria que fico intimidado e perco o fio da conversa.::
+3322::$$$message_0023_0005_0000$$$::"Por que esse interesse repentino nessas coisas?"[lr]::
+3323::$$$message_0023_0005_0001$$$::"Por causa disto."[lr]::
+3324::$$$message_0023_0005_0002$$$::Olho para a capa da revista que ela está segurando.[lr]::
+3325::$$$message_0023_0005_0003$$$::[font italic=true]Ingredientes de Luxo para Provar ao Menos uma Vez[font italic=false]...?::
 3326::$$$message_0023_0006_0000$$$::"Que revista é essa?"[lr]::
 3327::$$$message_0023_0006_0001$$$::Não lembro de ter comprado. E mesmo se a tivesse comprado, eu nem teria utilidade nenhuma para ela.[lr]::
 3328::$$$message_0023_0006_0002$$$::A Sakura lá tem um monte de livros de receitas lá no quarto dela que eu nunca compraria, mas isso aqui tá mais pra um daqueles guias de viagem.::
 3329::$$$message_0023_0007_0000$$$::"Foi a Taiga que deixou aqui mais cedo."[lr]::
 3330::$$$message_0023_0007_0001$$$::Ah, agora sim tô desvendando o mistério.::
 3331::$$$message_0023_0008_0000$$$::Ela com certeza achou que se a largasse jogada na sala de estar, a Sakura ou eu nos sentiríamos inspirados o bastante pra resolvermos preparar uns cogumelos matsutake para a janta, ou o que quer que fosse.[lr]::
-3332::$$$message_0023_0008_0001$$$::...E já dá pra ver que o plano dela obteve sucesso logo pela metade só por ter capturado a Saber de isca.[lr]::
+3332::$$$message_0023_0008_0001$$$::...E já dá pra ver que o plano dela obteve sucesso logo pela metade só por ter capturado a Saber de isca, Fuji-Nee.[lr]::
 3333::$$$message_0023_0008_0002$$$::"...E você tá com curiosidade sobre ela?"::
 3334::$$$message_0023_0009_0000$$$::"Sim. Ela é repleta de ingredientes no qual todo mundo já deveria ter experimentado ao menos uma única vez. Eles devem ser todos esplêndidos."[lr]::
 3335::$$$message_0023_0009_0001$$$::A Saber tá super fascinada pelos ingredientes mais chiques nos quais ela não havia botado os olhos antes.[lr]::
@@ -15,8 +32,8 @@ id=qid::label=str::text=lstr::
 3338::$$$message_0023_0010_0001$$$::Oh não. Para quê que eu fui abrir a matraca. Acabei de enfiar os pés pelas mãos.[lr]::
 3339::$$$message_0023_0010_0002$$$::A Saber de fato morou num castelo e tal, mas essa moda de requinte, etiqueta refinada e luxo à mesa nem existia na era dela.[lr]::
 3340::$$$message_0023_0010_0003$$$::Não preciso nem mencionar que, foram os franceses que vieram descolar uma fama em luxo e sofisticação à mesa... o que quer que seja por muitos séculos mais tardar.::
-3341::$$$message_0023_0011_0000$$$::"...Shirou, eu creio que já lhe revelei isso antes. [l][say storage=emi0235_sav_0071 name=''Ɵ?Ɵ]As refeições em minha era [cacheimage storage=''Ɵ?Ɵ?o?20b()][wvl][chgfg time=300 storage=''Ɵ?Ɵ?o?20b() textoff=0]consistiam-se de carnes asadas em brasa num espeto sendo atiradas diretamente na mesa, não possuíamos sequer pratos ou louças nos quais comer. Então nós costumávamos ter uma faca para raspar e talhar[line len=2]"::
-3342::$$$message_0023_0012_0000$$$::"Foi mal, Saber. [cacheimage storage=''Ɵ?Ɵ?o?20a()][wvl][chgfg time=300 storage=''Ɵ?Ɵ?o?20a() textoff=0]Dei mancada na minha fala...[l][say storage=emi0235_shi_0071 name=Z]Eu só ia tentar me consolar contigo te perguntando se você não iria querer que eu te preparasse e servisse algo de que te deu vontade por olhar nisso, mas..."[lr]::
+3341::$$$message_0023_0011_0000$$$::"...Shirou, eu creio que já lhe revelei isso antes. [l][say storage=emi0235_sav_0071 name=セイバー]As refeições em minha era [cacheimage storage=セイバー私服20b(中)][wvl][chgfg time=300 storage=セイバー私服20b(中) textoff=0]consistiam-se de carnes asadas em brasa num espeto sendo atiradas diretamente na mesa, não possuíamos sequer pratos ou louças nos quais comer. Então nós costumávamos ter uma faca para raspar e talhar[line len=2]"::
+3342::$$$message_0023_0012_0000$$$::"Foi mal, Saber. [cacheimage storage=セイバー私服20a(中)][wvl][chgfg time=300 storage=セイバー私服20a(中) textoff=0]Dei mancada na minha fala...[l][say storage=emi0235_shi_0071 name=士郎]Eu só ia tentar me consolar contigo te perguntando se você não iria querer que eu te preparasse e servisse algo de que te deu vontade por olhar nisso, mas..."[lr]::
 3343::$$$message_0023_0012_0001$$$::A minha despensa não tem milagre algum para suportar ou atender a um pedido casual que arrumasse da revista lá.::
 3344::$$$message_0023_0013_0000$$$::"...Se fosse uma refeição unicamente na cota só para você mesmo, eu talvez arrumaria até de fazer com que desse certo."[lr]::
 3345::$$$message_0023_0013_0001$$$::"Numa [wvl canskip=false time=600]única cota?"::
@@ -26,7 +43,7 @@ id=qid::label=str::text=lstr::
 3349::$$$message_0023_0015_0001$$$::Eu concordo em grau, número e gênero.[lr]::
 3350::$$$message_0023_0015_0002$$$::Não é que eu queira difamar a imagem e chamá-la de barateira, muquirana, ou do tipo avarenta cega de grana até do berço... mas mesmo assim é impensável cogitar que a Tohsaka teria uma mão aberta dessas e seria generosa com a sua grana.::
 3351::$$$message_0023_0016_0000$$$::"Né, não é mesmo? E assim sendo eu amaria em levar todo o povo daqui num canto belíssimo e de burguês, mas enquanto o vento não muda a nossa sorte para um milagre vir bater à porta, vou te pedir na sua paciência para se acostumar com as comidas aqui em casa mesmo e tal."::
-3352::$$$message_0023_0017_0000$$$::"O que você está proferindo, Shirou? [cacheimage storage=''Ɵ?Ɵ?o?05c()][wvl][chgfg time=300 storage=''Ɵ?Ɵ?o?05c() textoff=0]Eu estou imensuravelmente satisfeita ao me alimentar das refeições preparadas nesta casa. E em sequer uma parte ou numa vez no momento da vida achei de me encontrar num estado ou ter um senso da tolerância e ter de ser paciente com as suas comidas."::
+3352::$$$message_0023_0017_0000$$$::"O que você está proferindo, Shirou? [cacheimage storage=セイバー私服05c(中)][wvl][chgfg time=300 storage=セイバー私服05c(中) textoff=0]Eu estou imensuravelmente satisfeita ao me alimentar das refeições preparadas nesta casa. E em sequer uma parte ou numa vez no momento da vida achei de me encontrar num estado ou ter um senso da tolerância e ter de ser paciente com as suas comidas."::
 3353::$$$message_0023_0018_0000$$$::Ela fala toda sincera, de rosto num sorriso amistoso.[lr]::
 3354::$$$message_0023_0018_0001$$$::Isso acabou até de me dar um ânimo para fazer hoje no almoço algo em especial para ela.::
 3355::$$$message_0023_0019_0000$$$::"E por esse motivo... no qual confio com todo meu coração de que algum dia, você adquirirá na conquista destes ingredientes na qual em seguida irá nos servir numa luxuosa refeição da iguaria nessa mesa do jantar."[lr]::
@@ -46,7 +63,7 @@ id=qid::label=str::text=lstr::
 3369::$$$message_0023_0024_0002$$$::"Ou!"::
 3370::$$$message_0023_0025_0000$$$::"Saber, e tu não sabe que é perigoso andar de passo lendo..."::
 3371::$$$message_0023_0026_0000$$$::"Eu finalmente notei de uma coisa, Shirou.[lr]::
-3372::$$$message_0023_0026_0001$$$::Esta mansão é faltante na falta de algo da qual o castelo de minha pátria natal dispunha lá...[se storage=se089.wav][movefg opacity=0 left=200 time=80 accel=-1 storage=''Ɵ?Ɵ?o?01a() textoff=0][wait canskip=false time=120][fg opacity=0 left=0 top=74 time=10 storage=''Ɵ?Ɵ?o?09a(') textoff=0][movefg opacity=255 left=200 top=74 time=300 accel=-2 storage=''Ɵ?Ɵ?o?09a(') textoff=0][se storage=se092.wav][wvl canskip=true time=300]uma plantação de horta e um curral! Sendo da sorte de boa fortuna nossa a de nos darmos os usos e dispor do nosso enorme quintal que é bem espaçoso..."[wait canskip=0 time=500][cltransparent]::
+3372::$$$message_0023_0026_0001$$$::Esta mansão é faltante na falta de algo da qual o castelo de minha pátria natal dispunha lá...[se storage=se089.wav][movefg opacity=0 left=200 time=80 accel=-1 storage=セイバー私服01a(中) textoff=0][wait canskip=false time=120][fg opacity=0 left=0 top=74 time=10 storage=セイバー私服09a(近) textoff=0][movefg opacity=255 left=200 top=74 time=300 accel=-2 storage=セイバー私服09a(近) textoff=0][se storage=se092.wav][wvl canskip=true time=300]uma plantação de horta e um curral! Sendo da sorte de boa fortuna nossa a de nos darmos os usos e dispor do nosso enorme quintal que é bem espaçoso..."[wait canskip=0 time=500][cltransparent]::
 3373::$$$message_0023_0027_0000$$$::"Espera aí, nem vem com essa de não me dizer agora que o Kiritsugu foi num tiro ao alvo ao comprar os hectares de terra duma lida do lote aqui já focando nessas bizarrices!"::
 3374::$$$message_0023_0028_0000$$$::"Não. Eu te falo que te dou e garanto a firme certeza de forma inabalada de que o meu velho nem chegaria do poço da bizarra periculosidade das ideias em inventar tamanha estranheza lá e cheia dos perrengues.[lr]::
 3375::$$$message_0023_0028_0001$$$::Mas é, contudo devo admitir que seria agradável em criar do plantio pra uma horta lá.[lr]::

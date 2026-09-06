@@ -8,7 +8,7 @@ id=qid::label=str::text=lstr::
 11094::$$$message_0088_0001_0002$$$::"Comprar? Nem pensar. Hoje não estou a fim daquela porcaria barata da cantina. Podemos ir ao refeitório ou, melhor ainda, que tal comer fora?"[lr]::
 11095::$$$message_0088_0001_0003$$$::Por "fora", ele deve estar falando do distrito comercial de Miyama.[lr]::
 11096::$$$message_0088_0001_0004$$$::Parece uma ideia imprudente, mas, se nos apressarmos, devemos voltar a tempo da quinta aula.::
-11097::$$$message_0088_0002_0000$$$::"...Por que não? Eu preparei meu almoço, então posso dá-lo ao Gotou como agradecimento."[lr]::
+11097::$$$message_0088_0002_0000$$$::"...Por que não? Eu preparei meu almoço, então posso dá-lo ao Gotou-kun como agradecimento."[lr]::
 11098::$$$message_0088_0002_0001$$$::"Ora, até que enfim você decidiu rápido! Muito bem, em respeito à sua prontidão, vou lhe mostrar um restaurante especial. Descobri um ótimo lugar de massas perto do meu trabalho."::
 11099::$$$message_0088_0003_0000$$$::"Hã? Espere, não vamos voltar a tempo se formos até Shinto. Vamos ao distrito comercial de Miyama."[lr]::
 11100::$$$message_0088_0003_0001$$$::"É só matar aula. Você já tem créditos de sobra, não tem?"::
@@ -50,10 +50,10 @@ id=qid::label=str::text=lstr::
 11136::$$$message_0088_0014_0000$$$::"Alô? Vocês dois?[lr]::
 11137::$$$message_0088_0014_0001$$$::O intervalo não é tão longo, então resolvam isso depois.[lr]::
 11138::$$$message_0088_0014_0002$$$::Por que nós três não vamos ao refeitório? Shinji desiste de comer fora, e Issei desiste da sala do conselho. Assim fica equilibrado, não?"::
-11139::$$$message_0088_0015_0000$$$::"Eu me recuso. Se eu disse que vou comer fora, vou comer fora. [cacheimage storage=慎二制服04b(中)][wvl][chgfg textoff=0 time=300 storage=慎二制服04b(中)]Vamos, eu pago seu almoço, Emiya. Depois, damos uma volta pela cidade. Tenho um encontro com umas garotas do campus Oeste."[lr]::
-11140::$$$message_0088_0015_0001$$$::"Ah! Eu não entendo você, Matou. Estou dizendo para não arrastar Emiya pelo mau caminho. E, se gosta tanto de comida ocidental, mude-se de uma vez para a Europa. Também não convide Emiya para encontros desse tipo."::
+11139::$$$message_0088_0015_0000$$$::"Eu me recuso. Se eu disse que vou comer fora, vou comer fora. [cacheimage storage=慎二制服04b(中)][wvl][chgfg textoff=0 time=300 storage=慎二制服04b(中)]Vamos, eu pago seu almoço, Emiya. Depois damos uma volta pela cidade. Hoje tenho um encontro em grupo com umas garotas do campus Oeste."[lr]::
+11140::$$$message_0088_0015_0001$$$::"Ah! Você não entende nada, Matou. Estou dizendo para não arrastar Emiya pelo mau caminho. E, se gosta tanto de comida ocidental, mude-se de uma vez para a Europa Ocidental. Também não convide Emiya para encontros em grupo."::
 11141::$$$message_0088_0016_0000$$$::"..."[lr]::
-11142::$$$message_0088_0016_0001$$$::Parece que minha tentativa de conciliação também não vai funcionar.[lr]::
+11142::$$$message_0088_0016_0001$$$::Minha tentativa de conciliação também fracassou.[lr]::
 11143::$$$message_0088_0016_0002$$$::Nenhum dos dois parece disposto a ceder um mícron sequer para almoçar com o outro.::
 11144::$$$message_0088_0017_0000$$$::"Chega. Façam o que quiserem. Eu vou comer no refeitório."[lr]::
 11145::$$$message_0088_0017_0001$$$::"Espere, Emiya, isso é cruel demais![cacheimage storage=一成02a(中)][wvl canskip=0 time=200][chgfg textoff=0 time=300 storage=一成02a(中)] Não é seu dever como amigo tomar uma decisão clara?[lr]::
@@ -66,7 +66,7 @@ id=qid::label=str::text=lstr::
 11152::$$$message_0088_0019_0003$$$::Francamente, eu não entendo você, Emiya!"::
 11153::$$$message_0088_0020_0000$$$::"É. Tenho interesse no restaurante e, apesar de não me dar bem nesses encontros, até que gosto deles. Mas o maior problema é..."[lr]::
 11154::$$$message_0088_0020_0001$$$::Aponto para o horário das aulas.[lr]::
-11155::$$$message_0088_0020_0002$$$::Isso mesmo. A quinta aula é com a Fuji-nee.::
+11155::$$$message_0088_0020_0002$$$::Isso mesmo. A quinta aula é com a Fuji-Nee.::
 11156::$$$message_0088_0021_0000$$$::"...É. É um pouco lamentável, [cacheimage storage=一成01b腕(中)][wvl canskip=0 time=200][chgfg textoff=0 time=300 storage=一成01b腕(中)]mas essa é uma razão digna de um estudante. É assim mesmo que Emiya deve ser."[cacheimage storage=慎二制服01g(中)][wvs][chgfg textoff=0 time=300 storage=慎二制服01g(中)][lr]::
 11157::$$$message_0088_0021_0001$$$::"Então desista também, Shinji. Vamos almoçar juntos na sala do conselho estudantil. Se não quiser pão da cantina, divido meu almoço com você."[lr]::
 11158::$$$message_0088_0021_0002$$$::"Heh, não precisa. Depois de toda aquela bravata, não creio que ele vá almoçar em lugar algum da escola.[lr]::
@@ -98,20 +98,19 @@ id=qid::label=str::text=lstr::
 11184::$$$message_0088_0028_0001$$$::Issei fica imóvel, atônito.[lr]::
 11185::$$$message_0088_0028_0002$$$::Shinji faz uma parada ostensiva por um instante.::
 11186::$$$message_0088_0029_0000$$$::"Ora, se não são os coitados que almoçaram sozinhos.[lr]::
-11187::$$$message_0088_0029_0001$$$::E então? O almoço de hoje foi a própria definição da miséria? Nenhuma garota gritou de alegria? Não ouviram um 'meu Deus, você está incrível, Shinji [whitestar] aaah!'?"[lr]::
+11187::$$$message_0088_0029_0001$$$::E então? O almoço de hoje foi a própria definição da miséria? Nenhuma garota gritou de alegria? Não ouviram um 'kyaa, Shinji-sama, você está maravilhoso [whitestar] aaah!'?"[lr]::
 11188::$$$message_0088_0029_0002$$$::Os ombros de Issei tremem violentamente.[lr]::
 11189::$$$message_0088_0029_0003$$$::O bom humor de Shinji atingiu o auge.::
 11190::$$$message_0088_0030_0000$$$::"Eu? [cacheimage storage=慎二制服02c(遠)][wvl canskip=0 time=400][chgfg textoff=0 time=200 storage=慎二制服02c(遠)]Eu me diverti como nunca![wvl][se storage=se664.wav] Foi tão bom que nem consigo expressar em palavras! Que pena. Queria ter dividido toda essa diversão com vocês!"[lr]::
 11191::$$$message_0088_0030_0001$$$::"Seu desgraçado, você é mesmo um livro aberto!"[lr]::
 11192::$$$message_0088_0030_0002$$$::"Ah, [font italic=true]não[font italic=false], temos que fugir, meninas! É o presidente do conselho, aquele velho rabugento. Se ele pegar vocês, vai impor um código de vestimenta sem o menor senso de moda!"::
-11193::$$$message_0088_0031_0000$$$::O circo vespertino de Shinji foge alegremente pelo corredor.[lr]::
-11194::$$$message_0088_0031_0001$$$::A maneira como todos saem correndo parece quase ensaiada.::
-11195::$$$message_0088_0032_0000$$$::"Não vou deixá-lo escapar, Matou...! [wvl][wm canskip=0][cacheimage storage=一成02a(中)][wvl][se storage=se089.wav][chgfg textoff=0 time=200 storage=一成02a(中)]Emiya, diga à professora Fujimura que fui dar cabo de um dos Três Grandes Monstros de Homurahara!"[lr]::
+11193::$$$message_0088_0031_0000$$$::O circo diurno de Shinji foge alegremente pelo corredor.[lr]::
+11194::$$$message_0088_0031_0001$$$::O jeito como todos debandam parece ensaiado.::
+11195::$$$message_0088_0032_0000$$$::"Não vou deixá-lo escapar, Matou...! [wvl][wm canskip=0][cacheimage storage=一成02a(中)][wvl][se storage=se089.wav][chgfg textoff=0 time=200 storage=一成02a(中)]Emiya, diga à Fujimura-Sensei que fui dar cabo de um dos Três Grandes Monstros de Homurahara!"[lr]::
 11196::$$$message_0088_0032_0001$$$::Issei dispara para o corredor a uma velocidade incrível.[lr]::
-11197::$$$message_0088_0032_0002$$$::Mesmo assim, ele não corre pelo corredor. Como esperado do presidente do conselho estudantil.[lr]::
-11198::$$$message_0088_0032_0003$$$::É uma caminhada que supera a corrida.::
-11199::$$$message_0088_0033_0000$$$::"...É, [wvl][se storage=se020.wav]os dois perderam."[lr]::
+11197::$$$message_0088_0032_0002$$$::Ainda assim, ele jamais corre pelo corredor. Digno de um presidente do conselho estudantil.[lr]::
+11198::$$$message_0088_0032_0003$$$::Ali está uma caminhada que supera a corrida.::
+11199::$$$message_0088_0033_0000$$$::"...É, [wvl][se storage=se020.wav]os dois saíram no empate."[lr]::
 11200::$$$message_0088_0033_0001$$$::O sinal da quinta aula toca.[lr]::
 11201::$$$message_0088_0033_0002$$$::A partir de hoje, faltam quatro meses para a formatura.[lr]::
 11202::$$$message_0088_0033_0003$$$::Issei Ryudou faltou à aula pela primeira vez.::
-

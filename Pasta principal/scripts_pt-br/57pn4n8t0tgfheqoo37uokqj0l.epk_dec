@@ -1,36 +1,36 @@
 DAT
 id=qid::label=str::text=lstr::
 43045::$$$message_0356_0000_0000$$$::"...Souichirou, onde você está?"::
-43046::$$$message_0356_0000_0001$$$::"...Hehe. Acho que ele vai ficar surpreso com essa convite."::
-43047::$$$message_0356_0000_0002$$$::"...Não, estou certo de que ele é o único que não seria.[lr]::
+43046::$$$message_0356_0000_0001$$$::"...Hehe. Será que ele vai se surpreender com este convite."::
+43047::$$$message_0356_0000_0002$$$::"...Não. Tenho certeza de que ele é o único homem que não se surpreenderia.[lr]::
 43048::$$$message_0356_0000_0003$$$::[hffacechg chara=キャスター face=楽 layer=0 time=200]Ah, Souichirou...?"::
 43049::$$$message_0356_0001_0000$$$::"..."::
 43050::$$$message_0356_0001_0001$$$::"..."::
-43051::$$$message_0356_0001_0002$$$::"O que está acontecendo... Souichirou e aquele sem graça estão encarando um ao outro!"::
+43051::$$$message_0356_0001_0002$$$::"O-o que está acontecendo... Souichirou e aquele inútil estão se encarando!"::
 43052::$$$message_0356_0001_0003$$$::"...Xeque-mate."::
-43053::$$$message_0356_0001_0004$$$::"...Hmm. Parece que estou em um impasse. Acho que não consigo vencer agora."::
-43054::$$$message_0356_0001_0005$$$::"...W-[hfchance layer=0]o que você acha que está fazendo, Assassino!?"::
-43055::$$$message_0356_0001_0006$$$::"Hm? Você conhece esse homem, Caster?"::
+43053::$$$message_0356_0001_0004$$$::"...Hm. Parece que estou encurralado. Não acho que consiga vencer agora."::
+43054::$$$message_0356_0001_0005$$$::"...O-[hfchance layer=0]o que pensa que está fazendo, Assassin!?"::
+43055::$$$message_0356_0001_0006$$$::"Hm? Você conhece este homem, Caster?"::
 43056::$$$message_0356_0001_0007$$$::"Não exatamente... Mas o que está acontecendo?"::
-43057::$$$message_0356_0001_0008$$$::"Como você pode ver, Souichirou e eu nos conhecemos assim."::
-43058::$$$message_0356_0001_0009$$$::"Sim. Somos "melhores amigas", para usar o termo moderno."::
-43059::$$$message_0356_0001_0010$$$::"...Entendi... (O estrangularei depois.) Bem, Souichirou, você gostaria de sair comigo?"::
-43060::$$$message_0356_0001_0011$$$::"Não me importo. Onde?"::
-43061::$$$message_0356_0001_0012$$$::"O abade recomendou um bom resort de onsen para mim."::
-43062::$$$message_0356_0001_0013$$$::"Onsen? Isso soa bastante elegante, Souichirou."::
-43063::$$$message_0356_0001_0014$$$::"Elegante? ...Tenho dificuldade em entender."::
-43064::$$$message_0356_0001_0015$$$::"Ah, Assassino. Você também gosta de onsen?"::
-43065::$$$message_0356_0001_0016$$$::"Como também nasci nesse país, só posso dizer que é trágico que você não tenha o interesse dos seus compatriotas em banhar-se."::
+43057::$$$message_0356_0001_0008$$$::"Como pode ver, Souichirou e eu temos uma relação dessas."::
+43058::$$$message_0356_0001_0009$$$::"Sim. Somos 'melhores amigos', para usar a linguagem moderna."::
+43059::$$$message_0356_0001_0010$$$::"...Entendo... (Vou estrangulá-lo depois.) Bem, Souichirou, gostaria de sair comigo?"::
+43060::$$$message_0356_0001_0011$$$::"Não me importo. Para onde?"::
+43061::$$$message_0356_0001_0012$$$::"O abade me recomendou uma boa pousada de onsen."::
+43062::$$$message_0356_0001_0013$$$::"Onsen? Isso me parece bem requintado, Souichirou."::
+43063::$$$message_0356_0001_0014$$$::"Requintado? ...Tenho dificuldade para entender."::
+43064::$$$message_0356_0001_0015$$$::"Ah, Assassin. Você também tem interesse em onsen?"::
+43065::$$$message_0356_0001_0016$$$::"Como alguém também nascido nesta terra, só posso chamar de trágica a sua falta de interesse pelo costume dos compatriotas de se banhar."::
 43066::$$$message_0356_0001_0017$$$::"Então você vai nos acompanhar?"::
-43067::$$$message_0356_0001_0018$$$::"Hmm? Que mudança repentina de opinião é essa? Eu pensava que você estivesse contra a ideia de qualquer um interromper seu tempo com seu marido."::
-43068::$$$message_0356_0001_0019$$$::"Ah, às vezes o humor me atinge...[wait canskip=0 time=400][hffacechg chara=キャスター face=不満 layer=0 time=200] Se eu for sorteado, Saber pode vir e atacar."::
+43067::$$$message_0356_0001_0018$$$::"Hm? De onde veio essa mudança repentina? Pensei que fosse contra qualquer um interromper seu tempo com seu marido."::
+43068::$$$message_0356_0001_0019$$$::"Ah, às vezes me dá vontade...[wait canskip=0 time=400][hffacechg chara=キャスター face=不満 layer=0 time=200] Se eu tiver sorte, Saber talvez venha atacar."::
 43069::$$$message_0356_0001_0020$$$::"...O que foi isso?"::
 43070::$$$message_0356_0001_0021$$$::"Não, nada."::
-43071::$$$message_0356_0001_0022$$$::"Mas certamente você não esqueceu que não posso sair da porta do monte."::
-43072::$$$message_0356_0001_0023$$$::"Ah, isso? [wait canskip=0 time=400][se storage=se042.wav][hffacechg chara=キャスター face=喜 time=200][hfchance layer=0] ...Viu lá."::
-43073::$$$message_0356_0001_0024$$$::"Hmm?"::
-43074::$$$message_0356_0001_0025$$$::"Transferei os direitos de seu Mestre do portão para as lentes de Souichirou. Proteja-o até retornarmos."::
-43075::$$$message_0356_0001_0026$$$::"Isso soa ominoso."::
-43076::$$$message_0356_0001_0027$$$::"Então, Souichirou?"::
-43077::$$$message_0356_0001_0028$$$::"Hmm."::
+43071::$$$message_0356_0001_0022$$$::"Mas certamente não esqueceu que não posso deixar o portão da montanha."::
+43072::$$$message_0356_0001_0023$$$::"Ah, isso?[wait canskip=0 time=400][se storage=se042.wav][hffacechg chara=キャスター face=喜 time=200][hfchance layer=0] ...Voilà."::
+43073::$$$message_0356_0001_0024$$$::"...Hm?"::
+43074::$$$message_0356_0001_0025$$$::"Transferi seus direitos de Mestre do portão para os óculos de Souichirou. Proteja-o até voltarmos."::
+43075::$$$message_0356_0001_0026$$$::"Isso soa agourento."::
+43076::$$$message_0356_0001_0027$$$::"Então vamos, Souichirou?"::
+43077::$$$message_0356_0001_0028$$$::"Mm."::
 �

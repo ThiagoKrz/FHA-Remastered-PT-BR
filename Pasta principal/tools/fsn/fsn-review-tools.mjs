@@ -17,11 +17,11 @@ const GLOSSARY_PATH = path.join(
 );
 
 const ROW_RE = /^(\d+)::(\$\$\$[^$]+\$\$\$)::(.*)::$/;
-const RELAXED_ROW_RE = /^(\d+)::(\$\$\$[^$]+\$\$\$)::(.*)$/;
+const RELAXED_ROW_RE = /^(\d+)::(\$\$\$[^$]+\$\$\$)::([\s\S]*)$/;
 const TAG_RE = /\[[^\]]+\]/g;
 const JP_RE = /[ぁ-ゟ゠-ヿ一-龯]/;
 const BAD_CHAR_RE = /�|[\x00-\x08\x0B\x0C\x0E-\x1F]/;
-const MOJIBAKE_RE = /Ã|Â/;
+const MOJIBAKE_RE = /(?:Ã[\u0080-\u00BF]|Â[\u0080-\u00BF])/u;
 const JAPANESE_QUOTES_RE = /[「」『』]/;
 
 const COMMON_EN = new Set(
@@ -326,12 +326,23 @@ function malformedTrailer(raw) {
   }
 
   const tags = [...parts.body.matchAll(TAG_RE)];
-  if (!tags.length) return null;
+  if (tags.length) {
+    const lastTag = tags.at(-1);
+    const trailer = parts.body.slice(lastTag.index + lastTag[0].length);
+    if (!trailer) return null;
+    if (/[\x00-\x1F\uFFFD]/u.test(trailer) || BAD_CHAR_RE.test(trailer)) return trailer;
+  }
 
-  const lastTag = tags.at(-1);
-  const trailer = parts.body.slice(lastTag.index + lastTag[0].length);
-  if (!trailer) return null;
-  if (/[\x00-\x1F\uFFFD]/u.test(trailer) || BAD_CHAR_RE.test(trailer)) return trailer;
+  const lastQuote = parts.body.lastIndexOf('"');
+  if (lastQuote !== -1 && lastQuote < parts.body.length - 1) {
+    const trailer = parts.body.slice(lastQuote + 1);
+    if (finalDelimiter === -1 && trailer) return trailer;
+    if (/[\x00-\x1F\uFFFD]/u.test(trailer) || BAD_CHAR_RE.test(trailer)) return trailer;
+  }
+
+  const badTrailer = parts.body.match(/[:：]?[\x00-\x1F\uFFFD].*$/u);
+  if (badTrailer) return badTrailer[0];
+
   return null;
 }
 
@@ -343,9 +354,15 @@ function hasInheritedMalformedTrailer(ptRaw, enRaw) {
   if (!ptParts || !enParts) return false;
   if (ptParts.id !== enParts.id || ptParts.label !== enParts.label) return false;
 
+  const ptHasFinalDelimiter = /::$/u.test(ptRaw);
+  const enHasFinalDelimiter = /::$/u.test(enRaw);
+  if (!ptHasFinalDelimiter && !enHasFinalDelimiter) return true;
+
   const ptTrailer = malformedTrailer(ptRaw);
   const enTrailer = malformedTrailer(enRaw);
-  return Boolean(ptTrailer && enTrailer && ptTrailer === enTrailer);
+  if (!ptTrailer || !enTrailer) return false;
+  if (ptTrailer === enTrailer) return true;
+  return ptTrailer.replace(/[ \t]+$/u, "") === enTrailer.replace(/[ \t]+$/u, "");
 }
 
 function auditStructuralErrors(pt, en) {

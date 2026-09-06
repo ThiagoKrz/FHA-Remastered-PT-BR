@@ -153,15 +153,15 @@ id=qid::label=str::string=lstr::string_jp=str::
 12019::m_cnfs_vcut_t::LIG::::
 12020::m_cnfs_vcut_f::DESL::::
 12021::m_cnfs_vcnf::Configurações Individuais de Voz::::
-12022::m_cnfs_vc_em::Shirou Emiya::::
+12022::m_cnfs_vc_em::Emiya Shirou::::
 12025::m_cnfs_vc_se::Saber::::
-12028::m_cnfs_vc_ri::Rin Tohsaka::::
-12031::m_cnfs_vc_sa::Sakura Matou::::
+12028::m_cnfs_vc_ri::Tohsaka Rin::::
+12031::m_cnfs_vc_sa::Matou Sakura::::
 12034::m_cnfs_vc_ir::Bazett::::
 12037::m_cnfs_vc_ta::Caren::::
 12040::m_cnfs_vc_ar::Avenger::::
 12043::m_cnfs_vc_la::Illya::::
-12046::m_cnfs_vc_ra::Taiga Fujimura::::
+12046::m_cnfs_vc_ra::Fujimura Taiga::::
 12049::m_cnfs_vc_ca::Archer::::
 12052::m_cnfs_vc_ko::Lancer::::
 12055::m_cnfs_vc_ba::Rider::::
@@ -169,8 +169,8 @@ id=qid::label=str::string=lstr::string_jp=str::
 12061::m_cnfs_vc_as::Sasaki Kojirou::::
 12064::m_cnfs_vc_ek::Berserker::::
 12067::m_cnfs_vc_kk::Gilgamesh::::
-12070::m_cnfs_vc_sh::Shinji Matou::::
-12073::m_cnfs_vc_so::Souichirou Kuzuki::::
+12070::m_cnfs_vc_sh::Matou Shinji::::
+12073::m_cnfs_vc_so::Kuzuki Souichirou::::
 12076::m_cnfs_vc_is::Issei Ryudou::::
 12079::m_cnfs_vc_zo::Ayako Mitsuzuri::::
 12082::m_cnfs_vc_ay::Yukika Saegusa::::
@@ -429,7 +429,7 @@ id=qid::label=str::string=lstr::string_jp=str::
 82001::mp_char_aftschl::Para o Fim da Tarde::::
 82002::mp_place_work::Ir para o trabalho::::
 82003::mp_place_roof::Telhado::::
-82004::mp_place_arch::Dojo de arco e flecha::::
+82004::mp_place_arch::Dojô de arco e flecha::::
 82005::mp_place_scourt::Pátio da escola::::
 82006::mp_place_clsrom::Sala do 3º ano::::
 82007::mp_place_crdr::Corredor do 3º ano::::
@@ -597,7 +597,7 @@ id=qid::label=str::string=lstr::string_jp=str::
 1000706::g_ec_day4_pm::PM    Dia 4::::
 1000707::g_ec_day4_am::AM    Dia 4::::
 1000756::g_016_chuka::Esse ano	tem que	ter	bolinhos de carne chineses::::
-1000757::g_023_notice::※Shinji Matou é intencionalmente não colorido.::::
+1000757::g_023_notice::※Matou Shinji é intencionalmente não colorido.::::
 1000758::g_040_letter1::Toda a região de Shinto está ao meu alcance. Qualquer um que tentar entrar...::::
 1000759::g_040_letter2::Você é uma exceção. Eu vou atirar bem no meio dos seus olhos...::::
 1000760::g_040_letter3::Estou falando sério.	Se a Guerra do Santo Graal voltou,	então farei o que for preciso para matar vocês dois.::::
@@ -629,7 +629,7 @@ id=qid::label=str::string=lstr::string_jp=str::
 1000786::g_090_fish01::※ "Pego" refere-se a um peixe sendo pescado. Não é diferente de "Acerto", "Bingo", ou "Cobra".::::
 1000787::g_093_iriya::Senhorita Illyasviel, vinda da Alemanha::::
 1000788::g_093_sabar::Senhorita Altria, vinda da Bretanha::::
-1000789::g_093_sakura::Senhorita Sakura Matou, vinda de Miyama::::
+1000789::g_093_sakura::Senhorita Matou Sakura, vinda de Miyama::::
 1000790::g_097_luvtext01::※Esta é uma maquete editada.::::
 1000791::g_099_mmcday1_1::DIA 1::::
 1000792::g_099_mmcday1_2::CaixaMágicaEmocionante-BaseTohsaka-CidadeDeDia::::
@@ -717,7 +717,7 @@ id=qid::label=str::string=lstr::string_jp=str::
 1001078::he_name_baz::Bazett Fraga McRemitz::::
 1001079::he_name_gis::Gilgamesh (Pequeno)::::
 1001080::he_name_ha::Hassan-i Sabbah::::
-1001081::he_name_zo::Zouken Matou::::
+1001081::he_name_zo::Matou Zouken::::
 1001082::he_td_t_urd_0::Ilimitado Levantar/Morto	Cascas Infinitas::::
 1001083::he_td_t_urd_1::Custo de MP: :::::
 1001084::he_td_t_urd_2::Pode ser usado no início do seu turno.::::
@@ -761,7 +761,7 @@ id=qid::label=str::string=lstr::string_jp=str::
 1001124::::Task Ohna::::
 1001125::::Hassan-i Sabbah::::
 1001126::::Bazett Fraga	McRemitz::::
-1001127::::Zouken Matou::::
+1001127::::Matou Zouken::::
 1001128::::Gilgamesh::::
 1001130::::Kenji Akahoshi::::
 1001131::::Hisashi Nakamura::::
@@ -862,13 +862,13 @@ id=qid::label=str::string=lstr::string_jp=str::
 1002049::hd_name_lap::Lancer::::
 1002050::hd_name_bal::Berserker::::
 1002051::hd_name_manl::Manaka Sajyou::::
-1002052::hd_name_sal::Sakura Matou::::
+1002052::hd_name_sal::Matou Sakura::::
 1002053::hd_name_ay::Ayaka Sajyou::::
-1002054::hd_name_ka::Kariya Matou::::
-1002055::hd_name_kot4::Kirei Kotomine::::
-1002056::hd_name_to::Tokiomi Tohsaka::::
-1002057::hd_name_sas::Sakura Matou::::
-1002058::hd_name_ki::Kiritsugu Emiya::::
+1002054::hd_name_ka::Matou Kariya::::
+1002055::hd_name_kot4::Kotomine Kirei::::
+1002056::hd_name_to::Tohsaka Tokiomi::::
+1002057::hd_name_sas::Matou Sakura::::
+1002058::hd_name_ki::Emiya Kiritsugu::::
 1002059::hd_name_mi::Miyu::::
 1002060::hd_name_ur::Ryunosuke Uryu::::
 1002062::hd_op::Opções::::
@@ -1005,7 +1005,7 @@ id=qid::label=str::string=lstr::string_jp=str::
 1002304::hd_tm_ko::Kotomine MP::::
 1002305::hd_tm_ki::Kiritsugu AMMO::::
 1002306::hd_tm_mi::Miyu MP ::::
-1002307::g_wm_main00::Fuji-nee::::
+1002307::g_wm_main00::Fuji-Nee::::
 1002308::g_wm_main01::Recepcionista::::
 1002309::g_wm_main02::Rin::::
 1002310::g_wm_main03::Luvia::::
@@ -1162,7 +1162,7 @@ id=qid::label=str::string=lstr::string_jp=str::
 150061::omikuji_061::Caminho: Guruguru Dokkan!::進退　ぐるぐる『突貫』だ::
 150062::omikuji_062::Caminho: Comece a operação::進退　状況を開始せよ::
 150063::omikuji_063::Caminho: Rota da Illya::進退　イリヤルートゥ::
-150064::omikuji_064::Caminho: Para a rota da Fuji-nee::進退　藤ねえルートへ::
+150064::omikuji_064::Caminho: Para a rota da Fuji-Nee::進退　藤ねえルートへ::
 150065::omikuji_065::Direção: Leste OK::方角　東の方よし::
 150066::omikuji_066::Direção: Oeste OK::方角　西の方よし::
 150067::omikuji_067::Direção: Sul OK::方角　南の方よし::
@@ -2789,19 +2789,19 @@ id=qid::label=str::string=lstr::string_jp=str::
 307024::hf_name_ra::Rider::::
 307025::hf_name_la::Lancer::::
 307026::hf_name_lz::Leysritt::::
-307027::hf_name_ku::Souichirou Kuzuki::::
-307028::hf_name_kot::Kirei Kotomine::::
+307027::hf_name_ku::Kuzuki Souichirou::::
+307028::hf_name_kot::Kotomine Kirei::::
 307029::hf_name_bma::A Adorável Makidera::::
 307030::hf_name_bhi::A Esquisita Himuro::::
 307031::hf_name_byu::A Malvada Yukika::::
-307032::hf_name_sa::Sakura Matou::::
-307033::hf_name_shi::Shirou Emiya::::
+307032::hf_name_sa::Matou Sakura::::
+307033::hf_name_shi::Emiya Shirou::::
 307034::hf_name_ma::Kaede Makidera::::
-307035::hf_name_shin::Shinji Matou::::
+307035::hf_name_shin::Matou Shinji::::
 307036::hf_name_ta::Taiga::::
 307037::hf_name_hi::Kane Himuro::::
 307038::hf_name_yu::Yukika Saegusa::::
-307039::hf_name_ri::Rin Tohsaka::::
+307039::hf_name_ri::Tohsaka Rin::::
 307040::hf_frame_p::JOGADOR::::
 307041::hf_frame_c::CPU::::
 307042::hf_vs::VS::::
@@ -2975,10 +2975,10 @@ id=qid::label=str::string=lstr::string_jp=str::
 311116::hf_td_t_ubw_2::Pode ser usado no início do seu turno.::::
 311117::hf_td_t_ubw_3::Pega de 3 a 5 cartas Tane, Tan ou Kasu 	do baralho.	※ Pode não pegar as cartas se não houver cartas suficientes no baralho.::::
 311118::hf_td_t_ubw_4::★Pode ser usado uma vez por rodada::::
-311119::hf_td_t_tig_0::Círculo Mágico do Tigre	Dojo Infinito::::
+311119::hf_td_t_tig_0::Círculo Mágico do Tigre	Dojô Infinito::::
 311120::hf_td_t_tig_1::Custo de MP: 1 mikan::::
 311121::hf_td_t_tig_2::Ativa-se automaticamente durante o combate.::::
-311122::hf_td_t_tig_3::Feitiçaria suprema que temporariamente distorce as regras do mundo	para materializar a paisagem mental do conjurador?::::
+311122::hf_td_t_tig_3::Magia suprema que temporariamente distorce as regras do mundo	para materializar a paisagem mental do conjurador?::::
 311123::hf_td_bg::Detalhes do Fantasma Nobre::::
 312003::hf_map_bg2::OBJETIVO::::
 312004::hf_map_bg3::COMEÇAR::::
@@ -3034,7 +3034,7 @@ id=qid::label=str::string=lstr::string_jp=str::
 320039::HCOM_SIN_0000::"Você reconhece minhas habilidades agora? [br]	Eu vou limpar o chão com você da próxima vez também, então não se esqueça de me dar um bom espetáculo."::::
 320040::HCOM_SIN_0010::"T-tão bonito... [br]	Heh. Acho que vou fazer todas as heroínas chorarem na próxima pesquisa de popularidade..."::::
 320041::HCOM_SIN_0020::"Estou recrutando para o meu harém! [br]	...A propósito, você tem algum plano para esta noite?"::::
-320042::HCOM_TIG_0020::"Wa ha ha! [br]	A Taiga Fujimura não vai perder para os mais jovens ainda!"::::
+320042::HCOM_TIG_0020::"Wa ha ha! [br]	A Fujimura Taiga não vai perder para os mais jovens ainda!"::::
 320043::HCOM_BIR_0020::"He-he! Uma vitória fácil! [br]	...Espera, será que eu sou mais forte quando o Mestre não está por perto?"::::
 320044::HCOM_MAK_0000::"Wahahahaha, contemplem a Pantera Negra de Homurahara acompanhada da Tática Gentil e da Santinha Rolinho de Canela! O clube de atletismo provou seu valor no mundo do hanafuda!"::::
 320045::HCOM_MAK_0010::"Parabéns para mim! Eu sabia que vocês conseguiriam, Kane, Yukicchi! [br]	Uau, toda essa emoção está me dando um sangramento nasal, blargh!"::::
@@ -3054,7 +3054,7 @@ id=qid::label=str::string=lstr::string_jp=str::
 320104::SCE_AIR_0210::"Existem tantos jogos fascinantes no mundo lá fora. Estou feliz que o Kiritsugu tenha me ensinado as regras!"::::
 320105::SCE_SAV_0140::"Não importa a circunstância ou a estratégia, cumprirei sempre meu dever como cavaleira."::::
 320106::SCE_SAV_0150::"Talvez esse conflito possa ajudar a diminuir a distância entre mim e Kiritsugu... Não, eu suponho que seja inútil."::::
-320107::SCE_TOK_0210::"Comporte-se sempre com postura e elegância... Se você deseja superar a feitiçaria dos Tohsaka, preste bem atenção nestas palavras e me desafie novamente."::::
+320107::SCE_TOK_0210::"Comporte-se sempre com postura e elegância... Se você deseja superar a Magia dos Tohsaka, preste bem atenção nestas palavras e me desafie novamente."::::
 320108::SCE_TOK_0220::"A sua derrota estava garantida. Não há necessidade de se sentir frustrado ou envergonhado. Há dignidade até mesmo na derrota."::::
 320109::SCE_GIL_0200::"Se você sequer sabe se ajoelhar e me venerar, então rasteje na terra como a escória que você é. Desapareça, vira-lata."::::
 320110::SCE_GIL_0210_a::"Você deveria saber que deve lutar com toda a sua força contra o Espírito Heroico primordial. Assim, pelo menos, você não se arrependeria dessa derrota."::::
@@ -3094,7 +3094,7 @@ id=qid::label=str::string=lstr::string_jp=str::
 320149::SCE_ESA_0570::"Para a próxima rodada, Casko, Achao! Vamos continuar vencendo e nos gabar disso para o nosso Maestro!"::::
 320150::SCE_ESA_0580::"Este 'hanafuda' não me desagrada. Umu! Eu adoro jogos em que posso ser um sucesso estrondoso!"::::
 320151::SCE_ECA_0410::"Cálice![whitestar] Obrigada pela estrela da vitória! [heart] Vamos continuar acumulando vitórias e esmagar todos os novatos como os fracotes que são![whitestar]"::::
-320152::SCE_ECA_0420::"Quem é a heroína boa e recatada do espaço espiritrônico, você pergunta? Essa sou eu, a bela donzela Caster-[br backlog=0]chan, tão óbvio quanto o sol num dia claro! Vamos manter esse segredinho longe do meu Mestre, tá bom?[whitestar]"::::
+320152::SCE_ECA_0420::"Quem é a heroína boa e recatada do espaço espiritrônico, você pergunta? Essa sou eu, a bela donzela Caster-[br backlog=0]chan, tão óbvio quanto o Sol num dia claro! Vamos manter esse segredinho longe do meu Mestre, tá bom?[whitestar]"::::
 320153::SCE_ECA_0430::"Vamos tirar uma foto para comemorar esta vitória. Saber, se importaria de chegar um pouco mais perto? Archer, fique com as costas retas. Certo, prontos... Digam xis![whitestar]"::::
 320154::SCE_EAR_0330::"Céus, vocês duas dão mais trabalho que lutar numa guerra... Será que eu tenho o pior azar com as mulheres, ou o quê?"::::
 320155::SCE_EAR_0340::"Você está seis anos adiantado para me desafiar no hanafuda. Melhore as suas habilidades e tente novamente. Não me chamam de veterano à toa."::::
@@ -3396,7 +3396,7 @@ id=qid::label=str::string=lstr::string_jp=str::
 321253::HSYS_BMA_0350::Hum... A culpa n-não é minha.::::
 321254::HSYS_BMA_0360::Yukika, Kane, nós conseguimos!::::
 321255::HSYS_BMA_0370::E-eu ainda não tô...::::
-321256::HSYS_BMA_0390::O dojo não! Qualquer lugar menos lá!::::
+321256::HSYS_BMA_0390::O dojô não! Qualquer lugar menos lá!::::
 321257::HSYS_BMA_0400::Eu posso sair mais cedo!?::::
 321258::HSYS_BMA_0410::Go? Shin? N-não sei quanto ao Zan...::::
 321259::HSYS_BMA_0420::Ahh...::::
@@ -3651,7 +3651,7 @@ id=qid::label=str::string=lstr::string_jp=str::
 321509::HSYS_IRI_0390::Puxa, como isso aconteceu?::::
 321510::HSYS_IRI_0400::Como você conseguiu essa!?::::
 321511::HSYS_IRI_0410::Então você estava escondendo isso.::::
-321512::HSYS_IRI_0420::Eu não vou te matar enquanto o sol estiver lá fora.::::
+321512::HSYS_IRI_0420::Eu não vou te matar enquanto o Sol estiver lá fora.::::
 321513::HSYS_IRI_0430::Hehehe. Você pode fugir, se quiser.::::
 321514::HSYS_IRI_0440::Consegue continuar?::::
 321515::HSYS_IRI_0450::Não vai acontecer de novo!::::
@@ -4388,7 +4388,7 @@ id=qid::label=str::string=lstr::string_jp=str::
 322246::HSYS_TIG_0470::Belezaaa, essa já está no papo!::::
 322247::HSYS_TIG_0480::Nnnrgh, você entende do riscado.::::
 322248::HSYS_TIG_0490::Agora eu estou ficando séria!::::
-322249::HSYS_TIG_0500::Eu não vou deixar você ficar com este dojo!::::
+322249::HSYS_TIG_0500::Eu não vou deixar você ficar com este dojô!::::
 322250::HSYS_TIG_0510::Num piscar de olhos, a vitória parece tão distante...::::
 322251::HSYS_TIG_0520::Ugh, eu estou em apuros?::::
 322252::HSYS_TIG_0530::Não vale!::::
@@ -4764,7 +4764,7 @@ id=qid::label=str::string=lstr::string_jp=str::
 324278::SYS_ECA_2001::Hyaaah! Eu não gosto de dor!::::
 324279::SYS_ECA_2002::Ei, o seu nível de poder está caindo!?::::
 324280::SYS_ECA_2101::Hehehe. Isso não é o suficiente para encerrar a partida.::::
-324281::SYS_ECA_2201::A lua invertida ilumina e obscurece o céu... Ou seja lá como essa barreira se chama! Vai!::::
+324281::SYS_ECA_2201::A Lua invertida ilumina e obscurece o céu... Ou seja lá como essa barreira se chama! Vai!::::
 324282::SYS_ECA_2303::Tempo é dinheiro... Que máxima sábia.::::
 324283::SYS_ECA_2304::Huaaah... Eu cochilei...::::
 324284::SYS_ECA_2305::Apresse-se! Sou uma raposa ocupada!::::
@@ -4955,7 +4955,7 @@ id=qid::label=str::string=lstr::string_jp=str::
 324469::SYS_KAR_1900::Não pegue as coisas dos outros!::::
 324470::SYS_KAR_2002::Oh droga, o que é aquilo!? É tão legal!::::
 324471::SYS_KAR_2100::Eu ainda consigo fazer isto! (tosse tosse)::::
-324472::SYS_KAR_2200::Sinta o gosto da minha porca... minha feitiçaria!::::
+324472::SYS_KAR_2200::Sinta o gosto da minha porc... minha Magia!::::
 324473::SYS_KAR_2300::Daria para você se apressar? Não estou me sentindo bem...::::
 324474::SYS_KAR_2301::Eu me pergunto o que a Aoi está fazendo agora... Hehehe.::::
 324475::SYS_KAR_2302::Uma franquia multimídia... Isso soa muito bem.::::
@@ -5019,7 +5019,7 @@ id=qid::label=str::string=lstr::string_jp=str::
 324533::SYS_KRI_0101::Preciso apenas cumprir o meu dever.::::
 324534::SYS_KRI_0105::Mestra, não devemos alimentar pensamentos fúteis no campo de batalha.::::
 324535::SYS_KRI_0204::...E daí?::::
-324536::SYS_KRI_0205::Neste momento, Kiritsugu Emiya iria...::::
+324536::SYS_KRI_0205::Neste momento, Emiya Kiritsugu iria...::::
 324537::SYS_KRI_0302::O que acontece depois que estas cartas forem reunidas?::::
 324538::SYS_KRI_0406::Por algo desse tipo...::::
 324539::SYS_KRI_0407::Será isto o que eu busco?::::
@@ -5047,7 +5047,7 @@ id=qid::label=str::string=lstr::string_jp=str::
 324561::SYS_KRI_1703::Já chega de conversa fiada, Archer.::::
 324562::SYS_KRI_1800::(Oh? Isso frustra tanto a você, minha mestra?)::::
 324563::SYS_KRI_1802::Como eu pensei, não há nada a ser ganho com esta loucura.::::
-324564::SYS_KRI_1803::Kiritsugu Emiya... Ele é o único homem que vale a pena combater.::::
+324564::SYS_KRI_1803::Emiya Kiritsugu... Ele é o único homem que vale a pena combater.::::
 324565::SYS_KRI_1902::O que é que você quer tanto assim?::::
 324566::SYS_KRI_2002::Quanta crueza.::::
 324567::SYS_KRI_2102::Dizem que não se deve perseguir a presa implacavelmente demais...::::
@@ -5558,7 +5558,7 @@ id=qid::label=str::string=lstr::string_jp=str::
 325073::SYS_SAV_1103::Levarei esta.::::
 325074::SYS_SAV_1203::Isto não é o suficiente para me vencer!::::
 325075::SYS_SAV_1303::Parece que subestimei o nosso inimigo.::::
-325076::SYS_SAV_1304::Maldito seja! Que tipo de feitiçaria é esta!?::::
+325076::SYS_SAV_1304::Maldito seja! Que tipo de Magia é esta!?::::
 325077::SYS_SAV_1305::Então chegamos a isto...::::
 325078::SYS_SAV_1403::Sim, eu sei!::::
 325079::SYS_SAV_1501::Oh, não...::::
@@ -5680,7 +5680,7 @@ id=qid::label=str::string=lstr::string_jp=str::
 325195::SYS_TOK_2302::...Talvez seja hora de uma pausa para o chá.::::
 325196::SYS_TOK_2400::Não estou em aflição. O caminho para a vitória jaz diante de mim.::::
 325197::SYS_WAV_0100::Caramba, correndo na minha frente!::::
-325198::SYS_WAV_0101::Argh, isto não tem nada a ver com feitiçaria!::::
+325198::SYS_WAV_0101::Argh, isto não tem nada a ver com Magia!::::
 325199::SYS_WAV_0102::Droga, que tipo de Guerra do Santo Graal é esta!?::::
 325200::SYS_WAV_0103::Tá, eu entendi!::::
 325201::SYS_WAV_0105::E-eu sou Waver Velvet! Eu vou ganhar esta!::::

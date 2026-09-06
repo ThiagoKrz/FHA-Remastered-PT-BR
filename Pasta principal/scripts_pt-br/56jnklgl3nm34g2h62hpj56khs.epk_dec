@@ -26,8 +26,8 @@ id=qid::label=str::text=lstr::
 31533::$$$message_0246_0005_0002$$$::Fragarach não pode ser quebrado.[lr]::
 31534::$$$message_0246_0005_0003$$$::Mesmo enquanto Lancer declarava isso, ele anuncia sua intenção de enfrentá-lo.::
 31535::$$$message_0246_0006_0000$$$::Subimos a colina e chegamos a uma arena improvisada.[lr]::
-31536::$$$message_0246_0006_0001$$$::A luz da lua é fraca. Quando olho para cima, minha visão torna-se levemente turva.[lr]::
-31537::$$$message_0246_0006_0002$$$::A lua está apenas escura hoje à noite, ou as estrelas estão mais próximas?[lr]::
+31536::$$$message_0246_0006_0001$$$::A luz da Lua é fraca. Quando olho para cima, minha visão torna-se levemente turva.[lr]::
+31537::$$$message_0246_0006_0002$$$::A Lua está apenas escura hoje à noite, ou as estrelas estão mais próximas?[lr]::
 31538::$$$message_0246_0006_0003$$$::No céu escuro, a neblina que me parece que eu poderia estender a mão e pegar, duas figuras nos esperam.::
 31539::$$$message_0246_0007_0000$$$::Quantas vezes já vi esse tipo de cena?[lr]::
 31540::$$$message_0246_0007_0001$$$::Com o sombrio Avenger ao lado, a maga observa seus inimigos.[lr]::
@@ -39,7 +39,7 @@ id=qid::label=str::text=lstr::
 31546::$$$message_0246_0008_0003$$$::Lancer caminha até uma distância ideal para lançar sua lança e aponta a ponta no chão.::
 31547::$$$message_0246_0009_0000$$$::"[argz], [nusz], [ansz], [ingz]."[lr]::
 31548::$$$message_0246_0009_0001$$$::Ele está lançando algum tipo de feitiço?[lr]::
-31549::$$$message_0246_0009_0002$$$::Ele gravou runas em quatro direções, mas eu não percebo qualquer taumaturgia evidente.[lr]::
+31549::$$$message_0246_0009_0002$$$::Ele gravou runas nas quatro direções, mas não percebo nenhuma Magia evidente.[lr]::
 31550::$$$message_0246_0009_0003$$$::Sem sair do círculo que desenhou, ele brande sua lança com um movimento elegante.[lr]::
 31551::$$$message_0246_0009_0004$$$::"Vem," ele gesta.[lr]::
 31552::$$$message_0246_0009_0005$$$::Lancer demonstra sua vontade pura de lutar, sem perder tempo com apresentações.::
@@ -80,7 +80,7 @@ id=qid::label=str::text=lstr::
 31587::$$$message_0246_0019_0001$$$::"...Guerreiros que entram no círculo não podem fugir.[lr]::
 31588::$$$message_0246_0019_0002$$$::E os guerreiros que veem o círculo não podem recuar.[lr]::
 31589::$$$message_0246_0019_0003$$$::...É um grande juramento de duelo, transmitido até nós pelos Cavaleiros da Rama Vermelha."::
-31590::$$$message_0246_0020_0000$$$::E então é isso que a inscrição do Lancer realmente faz.[lr]::
+31590::$$$message_0246_0020_0000$$$::Então é isso que a inscrição do Lancer faz de verdade.[lr]::
 31591::$$$message_0246_0020_0001$$$::A maga recupera sua postura de guerreira, e o cavaleiro agarra sua espada com ambas as mãos.::
 31592::$$$message_0246_0021_0000$$$::...O ar congele.[lr]::
 31593::$$$message_0246_0021_0001$$$::O Fantasma Nobre do Lancer aguarda o comando do seu dono.::
@@ -242,7 +242,7 @@ id=qid::label=str::text=lstr::
 31749::$$$message_0246_0056_0003$$$::Agora que perdeu a Mestre, ele provavelmente não é tão forte assim.::
 31750::$$$message_0246_0057_0000$$$::"Muito bem.[lr]::
 31751::$$$message_0246_0057_0001$$$::Você ainda tem algum espírito de batalha para me dar, Lancer?"[lr]::
-31752::$$$message_0246_0057_0002$$$::"Eu realmente faço... ou pelo menos quero dizer isso, mas, bem...[lr]::
+31752::$$$message_0246_0057_0002$$$::"Faço mesmo... ou pelo menos queria dizer isso, mas, bem...[lr]::
 31753::$$$message_0246_0057_0003$$$::Parece que tenho problemas próprios."::
 31754::$$$message_0246_0058_0000$$$::O corpo do Lancer está desaparecendo.[lr]::
 31755::$$$message_0246_0058_0001$$$::O duelo entre Fragarach e Gáe Bolg resultou em um matar mútuo.[lr]::
@@ -250,7 +250,7 @@ id=qid::label=str::text=lstr::
 31757::$$$message_0246_0059_0000$$$::"Desculpe. Vá em frente e faça o que quiser.[lr]::
 31758::$$$message_0246_0059_0001$$$::Meu trabalho aqui está feito de qualquer forma, não é, criança?"[lr]::
 31759::$$$message_0246_0059_0002$$$::Talvez alguém possa chamá-lo de uma saída elegante.[lr]::
-31760::$$$message_0246_0059_0003$$$::Com um murmúrio de despedida sobre não parecer muito elegante, ele deixa a mundo de forma casual.::
+31760::$$$message_0246_0059_0003$$$::Com um murmúrio de despedida sobre não parecer muito elegante, ele deixa o mundo com a mesma naturalidade casual de sempre.::
 31761::$$$message_0246_0060_0000$$$::"..."[lr]::
 31762::$$$message_0246_0060_0001$$$::...Mas o que acontece agora?[lr]::
 31763::$$$message_0246_0060_0002$$$::Derrotamos Bazett, que acreditávamos ter recriado a Guerra do Santo Graal.[lr]::
@@ -262,7 +262,7 @@ id=qid::label=str::text=lstr::
 31769::$$$message_0246_0062_0001$$$::"Calma, não fique tão bravo.[lr]::
 31770::$$$message_0246_0062_0002$$$::Você matou a Bazett, afinal de contas. Tem uma grande apresentação em espera para você."[lr]::
 31771::$$$message_0246_0062_0003$$$::"...!"::
-31772::$$$message_0246_0063_0000$$$::A lua está tingida.[lr]::
+31772::$$$message_0246_0063_0000$$$::A Lua está tingida.[lr]::
 31773::$$$message_0246_0063_0001$$$::Antes que eu perceba, a igreja está cercada por aqueles monstros.::
 31774::$$$message_0246_0064_0000$$$::"FAIled fAIlEd failed!"[rf]::
 31775::$$$message_0246_0065_0000$$$::"Rrgh... [wvl canskip=0 time=800] Espera, o que...[lr]::
@@ -281,7 +281,7 @@ id=qid::label=str::text=lstr::
 31788::$$$message_0246_0069_0001$$$::Ele é só como eles.[lr]::
 31789::$$$message_0246_0069_0002$$$::O Servo chamado Avenger derrete por completo, transformando-se em algo parecido com os monstros.::
 31790::$$$message_0246_0070_0000$$$::"E agora, falhei.[lr]::
-31791::$$$message_0246_0070_0001$$$::Olhe bem, Shirou Emiya. Este é o meu verdadeiro ser. Falho eternamente. Morro eternamente.[lr]::
+31791::$$$message_0246_0070_0001$$$::Olhe bem, Emiya Shirou. Este é o meu verdadeiro ser. Falho eternamente. Morro eternamente.[lr]::
 31792::$$$message_0246_0070_0002$$$::Enquanto eu existir, a Guerra do Santo Graal nunca vai terminar."::
 31793::$$$message_0246_0071_0000$$$::"VOCÊ TAMBÉM, VOCÊ TAMBÉM, VOCÊ TAMBÉM...!"[rf]::
 31794::$$$message_0246_0072_0000$$$::Ele treme, os dentes batendo.[lr]::
@@ -304,4 +304,3 @@ id=qid::label=str::text=lstr::
 31811::$$$message_0246_0077_0004$$$::O amanhecer surge, trazendo o fim do dia.[lr]::
 31812::$$$message_0246_0077_0005$$$::O caminho final é mostrado a mim, no castelo invernal onde a menina espera...::
 931704::$$$message_9246_0045_0002$$$::A agulha trespassou rapidamente sua costela, como relâmpago, e no instante em que atingiu seu coração, transformou-se em mil espinhos, aniquilando o corpo da feiticeira de dentro para fora.::
-

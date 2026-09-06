@@ -21,7 +21,7 @@ id=qid::label=str::text=lstr::
 10201::$$$message_0077_0005_0004$$$::[chgfg time=300 storage=桜制服08l(中) textoff=0]A Sakura estava segurando uma lancheira[line len=2]não, ela estava segurando algo grande demais para uma só pessoa.::
 10202::$$$message_0077_0006_0000$$$::"Senpai, você não gostaria de entrar e almoçar comigo?"[lr]::
 10203::$$$message_0077_0006_0001$$$::"Tem certeza? Você tem lanche para mim também?"[lr]::
-10204::$$$message_0077_0006_0002$$$::"Sim, preparei o seu lanche também.[lr]::
+10204::$$$message_0077_0006_0002$$$::"Sim, preparei o seu lanche também, Senpai.[lr]::
 10205::$$$message_0077_0006_0003$$$::Que ótimo momento, eu estava prestes a convidá-lo."::
 10206::$$$message_0077_0007_0000$$$::"Bem, nesse caso, claro, eu vou comer com você. Obrigado."[lr]::
 10207::$$$message_0077_0007_0001$$$::"Sim! Por favor, entre, Senpai."::
@@ -32,7 +32,7 @@ id=qid::label=str::text=lstr::
 10212::$$$message_0077_0008_0004$$$::No entanto, eu ouvi dizer que a Mitsuzuri e a Tohsaka costumam tomar chá aqui.::
 10213::$$$message_0077_0009_0000$$$::"Ah, Senpai. Deixe-me pegar uma almofada."[lr]::
 10214::$$$message_0077_0009_0001$$$::"Não, tudo bem. Se a Mitsuzuri descobrisse que um ex-membro do clube estivesse relaxando numa almofada assim, eu nunca mais teria paz."[lr]::
-10215::$$$message_0077_0009_0002$$$::"Entendo... Mas você é um convidado, então não tem problema usar uma."[lr]::
+10215::$$$message_0077_0009_0002$$$::"Entendo... Mas você é um convidado, então não tem problema usar uma, Senpai."[lr]::
 10216::$$$message_0077_0009_0003$$$::A Sakura é a atual capitã, então com certeza ela não usará uma.[lr]::
 10217::$$$message_0077_0009_0004$$$::Mesmo assim, ela ainda parece um pouco desconfortável.::
 10218::$$$message_0077_0010_0000$$$::"Que tal a cadeira do árbitro, Senpai?"[lr]::
@@ -48,16 +48,16 @@ id=qid::label=str::text=lstr::
 10228::$$$message_0077_0012_0001$$$::"Não, isso é natural quando se está ocupado e cozinhando. Eu já fiz um monte de refeições para o almoço que eram do café da manhã."[lr]::
 10229::$$$message_0077_0012_0002$$$::[chgfg time=300 storage=桜制服03b(中) textoff=0]Quando chego exausto depois do meu trabalho de meio período, eu não tenho a capacidade extra de bolar coisas para o almoço.[lr]::
 10230::$$$message_0077_0012_0003$$$::Mas isso mudou depois que a Sakura chegou.::
-10231::$$$message_0077_0013_0000$$$::"Tem vezes que a Fuji-nee nem percebe que esteve comendo a mesma coisa em três refeições."[lr]::
-10232::$$$message_0077_0013_0001$$$::"Sério? Eu acho que a Srta. Fujimura é bem sensível quando se trata desse tipo de coisa."[lr]::
-10233::$$$message_0077_0013_0002$$$::"Para a Fuji-nee, o que importa é se ela consegue encher a barriga e ficar satisfeita ou não."::
-10234::$$$message_0077_0014_0000$$$::"Ah... Tem razão, Senpai. Eu devo preparar o almoço da Srta. Fujimura também da próxima vez?"[lr]::
+10231::$$$message_0077_0013_0000$$$::"Tem vezes que a Fuji-Nee nem percebe que esteve comendo a mesma coisa em três refeições."[lr]::
+10232::$$$message_0077_0013_0001$$$::"Sério? A Fujimura-Sensei é bem sensível quando se trata desse tipo de coisa."[lr]::
+10233::$$$message_0077_0013_0002$$$::"Para a Fuji-Nee, o que importa é se ela consegue encher a barriga e ficar satisfeita ou não."::
+10234::$$$message_0077_0014_0000$$$::"Ah... Tem razão, Senpai. Eu devo preparar o almoço da Fujimura-Sensei também da próxima vez?"[lr]::
 10235::$$$message_0077_0014_0001$$$::"Tenho certeza que ela vai ficar feliz, mas você não pode mimá-la. A minha experiência anterior diz que ela a fará fazer isso regularmente."[lr]::
 10236::$$$message_0077_0014_0002$$$::"Haaah... Você também deve ter passado por maus bocados, Senpai."[lr]::
 10237::$$$message_0077_0014_0003$$$::Eu aceno com a cabeça e saboreio o gosto do salmão levemente salgado que enche a minha boca. Para ela preparar um almoço estilo japonês como esse, as habilidades da Sakura são incomensuráveis.::
 10238::$$$message_0077_0015_0000$$$::"Me pergunto se a Rider também conseguirá preparar o almoço."[lr]::
 10239::$$$message_0077_0015_0001$$$::"...Não sei... Tenho certeza que ela tentará o seu melhor se lhe pedirmos, mas ela não vai se divertir se for apenas um trabalho que ela se sinta obrigada a fazer."::
-10240::$$$message_0077_0016_0000$$$::"Seria divertido se nós pudéssemos cozinhar junto da Rider...[cacheimage storage=桜制服05f(中)][wvl canskip=0 time=300][chgfg storage=桜制服05f(中) time=300 textoff=0] Ah, mas eu aprendo melhor quando estou com você, é claro!"[lr]::
+10240::$$$message_0077_0016_0000$$$::"Seria divertido se nós pudéssemos cozinhar junto da Rider...[cacheimage storage=桜制服05f(中)][wvl canskip=0 time=300][chgfg storage=桜制服05f(中) time=300 textoff=0] Ah, mas eu aprendo melhor quando estou com você, é claro, Senpai!"[lr]::
 10241::$$$message_0077_0016_0001$$$::[chgfg time=300 storage=桜制服03e(中) textoff=0]A Sakura dá uma risada nervosa.[lr]::
 10242::$$$message_0077_0016_0002$$$::Mas deve estar tudo bem. Aquela cozinha teria espaço para nós três.::
 10243::$$$message_0077_0017_0000$$$::Conforme nós continuamos a comer as nossas refeições, eu me dou conta de uma coisa.[lr]::
@@ -70,30 +70,30 @@ id=qid::label=str::text=lstr::
 10250::$$$message_0077_0019_0001$$$::"Tudo é igual?"[lr]::
 10251::$$$message_0077_0019_0002$$$::[chgfg time=300 storage=桜制服08l(中) textoff=0]Então não é à toa que parecia grande[line len=2]Espere, isso...::
 10252::$$$message_0077_0020_0000$$$::"Ah... Eu presumi que você comeria porções menores ou algo do tipo."[lr]::
-10253::$$$message_0077_0020_0001$$$::"Ah, haha... Bem, você ficaria com fome à tarde se comesse a mesma porção que eu..."[lr]::
+10253::$$$message_0077_0020_0001$$$::"Ah, haha... Bem, você ficaria com fome à tarde se comesse a mesma porção que eu.., Senpai."[lr]::
 10254::$$$message_0077_0020_0002$$$::"Entendo... Mas, nesse caso, isso não é muito para você?"[lr]::
 10255::$$$message_0077_0020_0003$$$::Mesmo para mim, isto vai me deixar uns 80% cheio, quase estufado.::
 10256::$$$message_0077_0021_0000$$$::"T-tudo bem! Isso não é nada!"[lr]::
 10257::$$$message_0077_0021_0001$$$::"Tudo bem, é? Sério?"[lr]::
 10258::$$$message_0077_0021_0002$$$::Mas ouvi dizer que algumas das outras garotas às vezes pulam o almoço.::
 10259::$$$message_0077_0022_0000$$$::"Tenho certeza. Provavelmente é porque me exercito que eu consigo comer bastante."[lr]::
-10260::$$$message_0077_0022_0001$$$::Hmm, então a chave para a dieta não é comer menos, mas sim gastar a energia. Bem, não parece que a Sakura se importa com isso. Na verdade...::
+10260::$$$message_0077_0022_0001$$$::Hmm, então o segredo da dieta não é comer menos, mas gastar energia. Bem, Sakura não parece se importar com isso. Na verdade...::
 10261::$$$message_0077_0023_0000$$$::"A-além disso, Senpai! Nós ainda estamos em fase de crescimento!"[lr]::
 10262::$$$message_0077_0023_0001$$$::"...?"[lr]::
 10263::$$$message_0077_0023_0002$$$::...A Sakura ainda está em fase de crescimento.[lr]::
 10264::$$$message_0077_0023_0003$$$::Isso me faz pensar qual parte dela que está crescendo.::
 10265::$$$message_0077_0024_0000$$$::Sem pensar, o meu olhar começa a desviar para baixo.[lr]::
 10266::$$$message_0077_0024_0001$$$::...Não, eu não posso. Eu me recuso a perturbar a santidade deste espaço com tais pensamentos.::
-10267::$$$message_0077_0025_0000$$$::"...O salmão estava salgado demais?"[lr]::
+10267::$$$message_0077_0025_0000$$$::"...O salmão estava salgado demais, Senpai?"[lr]::
 10268::$$$message_0077_0025_0001$$$::"Não, o almoço está bom e o seu tempero também. Eu estava apenas pensando em como você disse que ainda estamos em fase de crescimento.[lr]::
-10269::$$$message_0077_0025_0002$$$::Hum, bem, sabe... Eu estava mais pensando se nós realmente ainda estamos crescendo ou não."::
-10270::$$$message_0077_0026_0000$$$::"...[wait canskip=0 time=300][chgfg storage=桜制服03e(中) time=300 textoff=0][say storage=sch0110_sak_0270 name=桜]Você cresceu mais do que antes, não cresceu? Tenho certeza de que você crescerá ainda mais."[lr]::
+10269::$$$message_0077_0025_0002$$$::Hum, bem, sabe... Eu estava mais pensando se a gente ainda está crescendo mesmo."::
+10270::$$$message_0077_0026_0000$$$::"...[wait canskip=0 time=300][chgfg storage=桜制服03e(中) time=300 textoff=0][say storage=sch0110_sak_0270 name=桜]Você cresceu mais do que antes, não cresceu? Tenho certeza de que você crescerá ainda mais, Senpai."[lr]::
 10271::$$$message_0077_0026_0001$$$::"Eu até quero crescer um pouco mais... Mas não que eu possa fazer algo a respeito. Eu [font italic=true]queria[font italic=false] poder simplesmente treinar para ficar mais alto."[lr]::
-10272::$$$message_0077_0026_0002$$$::"Acho que você está se preocupando demais com isso. Para mim você é saudável e forte."::
+10272::$$$message_0077_0026_0002$$$::"Acho que você está se preocupando demais com isso. Para mim você é saudável e forte, Senpai."::
 10273::$$$message_0077_0027_0000$$$::Ouvir isso me deixa feliz, mesmo que seja só para me agradar.[lr]::
-10274::$$$message_0077_0027_0001$$$::[chgfg time=300 storage=桜制服07c(中) textoff=0]...No momento, eu só posso ficar mais forte. Se eu fosse forte o suficiente para carregar a Sakura com uma só mão, eu realmente aceitaria aquele elogio.::
+10274::$$$message_0077_0027_0001$$$::[chgfg time=300 storage=桜制服07c(中) textoff=0]...Agora eu só posso ficar mais forte. Se fosse forte o bastante para carregar a Sakura com uma mão só, aceitaria mesmo aquele elogio.::
 10275::$$$message_0077_0028_0000$$$::"Ah, quer que eu lhe sirva um pouco de chá?"[lr]::
 10276::$$$message_0077_0028_0001$$$::"Sim, por favor.[lr]::
 10277::$$$message_0077_0028_0002$$$::Depois disso eu vou voltar, então."[lr]::
 10278::$$$message_0077_0028_0003$$$::"Tudo bem, Senpai."::
-910236::$$$message_9077_0014_0002$$$::"Haaah... Você também deve ter passado por maus bocados, Senpai."[r]::
+910236::$$$message_9077_0014_0002$$$::"Haaah... Você também deve ter passado por maus bocados, Senpai."[r]�

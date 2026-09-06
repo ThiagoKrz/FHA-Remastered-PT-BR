@@ -7,8 +7,8 @@ id=qid::label=str::text=lstr::
 2340::$$$message_0014_0000_0004$$$::No início, pensei que ela estivesse saindo, mas ela está agindo meio estranho.::
 2341::$$$message_0014_0001_0000$$$::...O que a Rider tá tramando?[lr]::
 2342::$$$message_0014_0001_0001$$$::Subo no andaime e a observo da claraboia.::
-2343::$$$message_0014_0002_0000$$$::Ela parece estar prestando atenção na casa, mas também parece que não quer ser vista.[movefg opacity=0 time=600 pos=rc accel=2 storage=ライダー私服01e(遠) textoff=0][movefg opacity=255 time=600 pos=rc accel=-2 storage=ライダー私服04b(遠) textoff=0][wm canskip=0][wm canskip=0]::
-2344::$$$message_0014_0003_0000$$$::É incomum ver a Rider agindo de forma tão suspeita.[lr]::
+2343::$$$message_0014_0002_0000$$$::Rider parece preocupada com a casa, mas também toma cuidado para não ser vista.[movefg opacity=0 time=600 pos=rc accel=2 storage=ライダー私服01e(遠) textoff=0][movefg opacity=255 time=600 pos=rc accel=-2 storage=ライダー私服04b(遠) textoff=0][wm canskip=0][wm canskip=0]::
+2344::$$$message_0014_0003_0000$$$::Não é comum ver a Rider agindo de um jeito tão suspeito.[lr]::
 2345::$$$message_0014_0003_0001$$$::Será que ela está fugindo de fininho pra fazer compras...?[lr]::
 2346::$$$message_0014_0003_0002$$$::Consigo imaginar a Sakura ou a Saber fazendo isso, mas por que a Rider seria tão cautelosa ao sair de casa...?::
 2347::$$$message_0014_0004_0000$$$::"...Não. Ela não tá tentando sair."[lr]::
@@ -19,7 +19,7 @@ id=qid::label=str::text=lstr::
 2352::$$$message_0014_0005_0001$$$::A Rider tem certos interesses.[lr]::
 2353::$$$message_0014_0005_0002$$$::Tenho certeza de que um deles está no estacionamento de bicicletas.::
 2354::$$$message_0014_0006_0000$$$::"Fala sério, Rider..."[lr]::
-2355::$$$message_0014_0006_0001$$$::Saio do galpão e me apresso em direção ao portão.::
+2355::$$$message_0014_0006_0001$$$::Saio do galpão e corro até o portão.::
 2356::$$$message_0014_0007_0000$$$::"Ei, Rider!"[lr]::
 2357::$$$message_0014_0007_0001$$$::Chamo a atenção dela.[lr]::
 2358::$$$message_0014_0007_0002$$$::Como eu esperava, a Rider está examinando a Bicicleta Nº 1... a minha bicicleta favorita.::
@@ -68,7 +68,7 @@ id=qid::label=str::text=lstr::
 2401::$$$message_0014_0019_0001$$$::Se você não me deixar usar a Nº 1, então vou ter que recorrer a medidas mais drásticas."[lr]::
 2402::$$$message_0014_0019_0002$$$::"...Ugh. Vai roubar a minha Bianchi favorita de mim à força?"::
 2403::$$$message_0014_0020_0000$$$::"Não, isso seria a última alternativa. Eu não sou a Saber."[lr]::
-2404::$$$message_0014_0020_0001$$$::A Rider casualmente deixa escapar o que ela realmente pensa da Saber.::
+2404::$$$message_0014_0020_0001$$$::A Rider deixa escapar, sem querer, o que realmente pensa da Saber.::
 2405::$$$message_0014_0021_0000$$$::"Shirou, a Bicicleta Nº 1 não é o único veículo de qualidade no mundo.[lr]::
 2406::$$$message_0014_0021_0001$$$::Você não precisa me emprestar a Nº 1. Em vez disso, buscarei um corcel mais veloz.[lr]::
 2407::$$$message_0014_0021_0002$$$::Eu começarei pegando a scooter da Taiga emprestada, e então passarei para a grande motocicleta do Grupo Fujimura."::
@@ -80,7 +80,7 @@ id=qid::label=str::text=lstr::
 2413::$$$message_0014_0023_0002$$$::Você ao menos tem uma carteira de moto, Rider?"[lr]::
 2414::$$$message_0014_0023_0003$$$::Se ela for dirigir em vias públicas, terá que seguir as leis rigorosamente.[lr]::
 2415::$$$message_0014_0023_0004$$$::Ninguém pode impedi-la de montar no Pegasus, mas ela tem que obedecer às regras da sociedade numa motocicleta.::
-2416::$$$message_0014_0024_0000$$$::"...Uma carteira de motorista não tem nenhuma correlação com a habilidade de dirigir."[lr]::
+2416::$$$message_0014_0024_0000$$$::"...Carteira de motorista não tem relação nenhuma com saber pilotar."[lr]::
 2417::$$$message_0014_0024_0001$$$::"A resposta é não. Se você quer pilotar uma moto, então vai fazer aulas e tirar a carteira.[lr]::
 2418::$$$message_0014_0024_0002$$$::Além disso, vamos estar metidos numa baita encrenca se a polícia te pegar dirigindo sem carteira. A Sakura vai chorar até dizer chega."[lr]::
 2419::$$$message_0014_0024_0003$$$::"Ah..."[lr]::
@@ -127,7 +127,8 @@ id=qid::label=str::text=lstr::
 2460::$$$message_0014_0038_0000$$$::"Arrgh, droga! Não é nada disso! Não fiz com a Rider nada que eu já não queira fazer com você, Sakura!"[lr]::
 2461::$$$message_0014_0038_0001$$$::"Então o que você quer fazer comigo... [cacheimage storage=桜私服08k(中)][wvl][chgfg time=300 storage=桜私服08k(中) textoff=0]Não consigo acreditar em você, Senpai..."::
 2462::$$$message_0014_0039_0000$$$::"Não é nada disso! Não! Quer dizer, talvez!?[lr]::
-2463::$$$message_0014_0039_0001$$$::Não foi nada de verdade! A Rider que queria usar a Nº 1!"[lr]::
-2464::$$$message_0014_0039_0002$$$::"Sim... Eu entendi como é. Você já tem a sua número dois..."[lr]::
+2463::$$$message_0014_0039_0001$$$::Não foi nada! Foi a Rider que quis usar a Nº 1!"[lr]::
+2464::$$$message_0014_0039_0002$$$::"Ah... entendi. Então você já tem a sua número dois... Senpai."[lr]::
 2465::$$$message_0014_0039_0003$$$::[chgfg time=300 storage=桜私服02d涙(中) textoff=0]Esse mal-entendido é tão bizarro...[lr]::
-2466::$$$message_0014_0039_0004$$$::Ah, Rider... É bom que ela explique isso pra Sakura depois.::
+2466::$$$message_0014_0039_0004$$$::Droga, Rider... É bom que ela explique isso pra Sakura depois.::
+902344::$$$message_9014_0003_0000$$$::Não é comum ver a Rider agindo de um jeito tão suspeito.[r]:�޵

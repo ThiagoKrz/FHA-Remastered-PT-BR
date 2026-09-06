@@ -11,11 +11,11 @@ id=qid::label=str::text=lstr::
 4151::$$$message_0031_0002_0001$$$::Eu ouço a voz da Rider do outro lado da esquina.[lr]::
 4152::$$$message_0031_0002_0002$$$::Estou feliz que ela esteja sendo tão educada.[lr]::
 4153::$$$message_0031_0002_0003$$$::Mas a visitante não parece nem um pouco tão tranquila.::
-4154::$$$message_0031_0003_0000$$$::"Urgh... S-Senhorita Rider?"[lr]::
+4154::$$$message_0031_0003_0000$$$::"Urgh... S-Rider-san?"[lr]::
 4155::$$$message_0031_0003_0001$$$::"Sim. Bom dia para você. Faz um tempo desde que nos encontramos fora do clube de kyudo, Ayako."[lr]::
 4156::$$$message_0031_0003_0002$$$::Mitsuzuri é a visitante.[lr]::
 4157::$$$message_0031_0003_0003$$$::A Sakura está aqui, então se ela precisa falar sobre o clube, faz sentido que ela venha aqui.::
-4158::$$$message_0031_0004_0000$$$::"Ah, você está, uh, muito bonita como de costume.[lr]::
+4158::$$$message_0031_0004_0000$$$::"Ah, Rider-san está, uh, muito bonita como de costume.[lr]::
 4159::$$$message_0031_0004_0001$$$::Aha. Hahaha, ha..."[lr]::
 4160::$$$message_0031_0004_0002$$$::"Obrigada. Mas eu poderia dizer o mesmo de você. De fato, eu diria que você tem uma figura galante.[lr]::
 4161::$$$message_0031_0004_0003$$$::Tanto seu rosto quanto toda a sua aparência são tão encantadoramente andróginos."[lr]::
@@ -29,18 +29,18 @@ id=qid::label=str::text=lstr::
 4169::$$$message_0031_0007_0001$$$::"Ah... [cacheimage storage=美綴私服02e(遠)][wvl][chgfg time=200 storage=美綴私服02e(遠) textoff=0]Hum, eu estou procurando a Matou."[lr]::
 4170::$$$message_0031_0007_0002$$$::"[movefg opacity=255 time=600 pos=rc accel=-2 storage=ライダー私服01d(遠) textoff=0][move time=180 path=(517,160,255)(574,132,255)(607,155,255)(617,132,255) storage=美綴私服02e(遠) accel=-2 spline=1 textoff=0][say storage=emi0316_rad_0040 name=ライダー]Isso é sobre o clube de kyudo?[lr]::
 4171::$$$message_0031_0007_0003$$$::...Você é muito atenciosa com seus calouros. Sinto a necessidade de lhe agradecer em nome da Sakura."[wm canskip=0][wm canskip=0][lr]::
-4172::$$$message_0031_0007_0004$$$::[chgfg time=200 storage=ライダー私服01c(遠),美綴私服02d(遠) textoff=0][movefg opacity=255 left=330 top=79 time=1200 accel=-2 storage=ライダー私服01c(遠) textoff=0][movefg opacity=255 left=637 top=132 time=800 accel=-2 storage=美綴私服02d(遠) textoff=0]A Rider ri enquanto sedutoramente encurrala a Mitsuzuri contra a parede.::
+4172::$$$message_0031_0007_0004$$$::[chgfg time=200 storage=ライダー私服01c(遠),美綴私服02d(遠) textoff=0][movefg opacity=255 left=330 top=79 time=1200 accel=-2 storage=ライダー私服01c(遠) textoff=0][movefg opacity=255 left=637 top=132 time=800 accel=-2 storage=美綴私服02d(遠) textoff=0]A Rider ri baixo e, com um sorriso perigoso, vai encurralando a Mitsuzuri contra a parede.::
 4173::$$$message_0031_0008_0000$$$::"..."[lr]::
-4174::$$$message_0031_0008_0001$$$::Ela está gostando de provocar a Mitsuzuri... eu espero. É difícil dizer o que a Rider está realmente pensando.[lr]::
-4175::$$$message_0031_0008_0002$$$::Ela tem consideração pela Sakura acima de qualquer outra pessoa, então ela pode realmente estar sendo sincera em sua gratidão.[wm canskip=0][wm canskip=0]::
-4176::$$$message_0031_0009_0000$$$::"N-não, eu não mereço seus agradecimentos... Eu só faço isso porque gosto, então não há necessidade de ser tão educada..."[lr]::
-4177::$$$message_0031_0009_0001$$$::"Ora, isso é maravilhoso. Eu estou fazendo isso porque gosto também, então eu espero que aceite minha gratidão."::
+4174::$$$message_0031_0008_0001$$$::Ela está se divertindo provocando a Mitsuzuri... é o que eu espero. Com a Rider, nunca dá para saber o que ela está pensando.[lr]::
+4175::$$$message_0031_0008_0002$$$::Para a Rider, a Sakura vem antes de todo mundo; talvez ela esteja agradecendo de coração mesmo.[wm canskip=0][wm canskip=0]::
+4176::$$$message_0031_0009_0000$$$::"N-não, não precisa agradecer... Eu faço porque gosto, então não precisa se preocupar comigo..."[lr]::
+4177::$$$message_0031_0009_0001$$$::"Ora, que admirável. Eu também faço isso porque gosto, então aceite minha gratidão sem reservas."::
 4178::$$$message_0031_0010_0000$$$::"A propósito, Ayako, você tem tido uma dieta balanceada ultimamente?[lr]::
-4179::$$$message_0031_0010_0001$$$::Parece que você não come muita carne, então não há muita gordura no seu sangue. Pode soar como uma coisa boa, mas me preocupo com a sua riqueza."::
+4179::$$$message_0031_0010_0001$$$::Você parece comer pouca carne, então falta gordura ao seu sangue. Pode soar saudável, mas me preocupa a falta de corpo no sabor."::
 4180::$$$message_0031_0011_0000$$$::"..."[lr]::
 4181::$$$message_0031_0011_0001$$$::Espera.[lr]::
 4182::$$$message_0031_0011_0002$$$::Isso soou muito sinistro, Rider.::
-4183::$$$message_0031_0012_0000$$$::"S-s-sangue!? Do que você está falando, Senhorita Rider!? Por que estamos falando sobre isso, afinal...!?"[lr]::
+4183::$$$message_0031_0012_0000$$$::"S-s-sangue!? Do que você está falando, Rider-san!? Por que estamos falando sobre isso, afinal...!?"[lr]::
 4184::$$$message_0031_0012_0001$$$::"Foi apenas uma metáfora.[lr]::
 4185::$$$message_0031_0012_0002$$$::Se você quiser entender... Já sei, eu poderia lhe explicar no meu quarto."::
 4186::$$$message_0031_0013_0000$$$::"Uh... não, hum...[lr]::
@@ -52,18 +52,18 @@ id=qid::label=str::text=lstr::
 4192::$$$message_0031_0015_0001$$$::"Waah!"[lr]::
 4193::$$$message_0031_0015_0002$$$::E-em algum momento a Sakura também estava assistindo?[lr]::
 4194::$$$message_0031_0015_0003$$$::Eu estava tão absorto assistindo ao apuro da Mitsuzuri que falhei completamente em notá-la.::
-4195::$$$message_0031_0016_0000$$$::"Vocês dois têm péssimo gosto, atiçando ela para cima de mim enquanto sorriem das sombras. Vocês não deveriam ser como a Tohsaka!"[lr]::
+4195::$$$message_0031_0016_0000$$$::"Vocês dois têm péssimo gosto, atiçando ela para cima de mim enquanto sorriem das sombras. Vocês não deveriam ser como a Tohsaka, Rider-san!"[lr]::
 4196::$$$message_0031_0016_0001$$$::"Ah, eu não fiz por mal."[lr]::
-4197::$$$message_0031_0016_0002$$$::"Foi apenas uma coincidência."::
-4198::$$$message_0031_0017_0000$$$::"Ah, parece que fiquei sem tempo."[lr]::
+4197::$$$message_0031_0016_0002$$$::"Foi só coincidência, Mitsuzuri-senpai."::
+4198::$$$message_0031_0017_0000$$$::"Ah, meu tempo acabou."[lr]::
 4199::$$$message_0031_0017_0001$$$::A Rider se afasta assim que a Sakura aparece.[lr]::
 4200::$$$message_0031_0017_0002$$$::É um movimento muito elegante.::
 4201::$$$message_0031_0018_0000$$$::"Não aja tão decepcionada, Rider. [cacheimage storage=美綴私服02c(中)][wvl][chgfg time=300 storage=美綴私服02c(中) textoff=0]Você pode ver a Mitsuzuri no clube de kyudo quando quiser."::
-4202::$$$message_0031_0019_0000$$$::"É verdade. Tenho certeza de que se tornarão amigas rápidas. Então aguente firme, Rider."[lr]::
+4202::$$$message_0031_0019_0000$$$::"É verdade. Tenho certeza de que se tornarão amigas rápidas. Então aguente firme, Rider, Mitsuzuri-senpai."[lr]::
 4203::$$$message_0031_0019_0001$$$::"É verdade... Infelizmente, eu ainda não superei completamente as dores do passado,[cacheimage storage=ライダー私服01a(中)][wvl canskip=false time=300][chgfg time=300 storage=ライダー私服01a(中) textoff=0] e não gostaria de apressar as coisas agora, então eu vou me retirar.[lr]::
 4204::$$$message_0031_0019_0002$$$::Cuide bem da Sakura, Ayako."[lr]::
 4205::$$$message_0031_0019_0003$$$::A Rider sai pela entrada.::
-4206::$$$message_0031_0020_0000$$$::"...Ufa. Não achei que a encontraria aqui. Isso me pegou de surpresa."[lr]::
+4206::$$$message_0031_0020_0000$$$::"...Ufa. Não achei que a encontraria aqui. Isso me pegou de surpresa, Rider-san."[lr]::
 4207::$$$message_0031_0020_0001$$$::"Ah, desculpe Senpai, mas deixe-me te dar as boas-vindas atrasada."[lr]::
 4208::$$$message_0031_0020_0002$$$::"Ei Mitsuzuri, e aí? Entre."::
 4209::$$$message_0031_0021_0000$$$::"Obrigada, com licença."[lr]::
@@ -71,12 +71,12 @@ id=qid::label=str::text=lstr::
 4211::$$$message_0031_0021_0002$$$::"Hã? ...Ok. Obrigada, Sakura."::
 4212::$$$message_0031_0022_0000$$$::"...Hã."[lr]::
 4213::$$$message_0031_0022_0001$$$::"O que?"[lr]::
-4214::$$$message_0031_0022_0002$$$::"Matou. Ela está totalmente como uma amável esposa em uma visita longa agora."[lr]::
-4215::$$$message_0031_0022_0003$$$::Eu não sei o que dizer a isso.[lr]::
+4214::$$$message_0031_0022_0002$$$::"Matou. Agora ela parece uma esposa apaixonada que vive vindo cuidar de você."[lr]::
+4215::$$$message_0031_0022_0003$$$::Nem sei como responder a isso.[lr]::
 4216::$$$message_0031_0022_0004$$$::Argh, ela deve estar dando o troco por causa da Rider.::
-4217::$$$message_0031_0023_0000$$$::"Pare de brincar comigo. Ela não é a única outra pessoa que mora aqui, sabia. Tem a Rider e a Saber, e..."::
-4218::$$$message_0031_0024_0000$$$::"A Tohsaka e a Srta. Fujimura também, né? Que animado. [cacheimage storage=美綴私服01b(中)][wvl][chgfg storage=美綴私服01b(中) time=300 textoff=0]Mas contanto que a Matou esteja feliz em ser sua querida esposa visitante."[lr]::
-4219::$$$message_0031_0024_0001$$$::"Mrgh..."[lr]::
+4217::$$$message_0031_0023_0000$$$::"Para de me provocar. Ela não é a única que mora aqui, sabia? Tem a Rider, a Saber, e..."::
+4218::$$$message_0031_0024_0000$$$::"A Tohsaka e a Fujimura-Sensei também, né? Que casa animada. [cacheimage storage=美綴私服01b(中)][wvl][chgfg storage=美綴私服01b(中) time=300 textoff=0]Mas, se a Matou está feliz sendo sua esposa dedicada que vem aqui todo dia, qual o problema?"[lr]::
+4219::$$$message_0031_0024_0001$$$::"Mgh..."[lr]::
 4220::$$$message_0031_0024_0002$$$::Ela pode ter um ponto, mas não sei.::
 4221::$$$message_0031_0025_0000$$$::"O amor torna as pessoas mais fortes, eh? Talvez eu deva arranjar um namorado também."[lr]::
 4222::$$$message_0031_0025_0001$$$::"Ah... Você ainda não tem um depois daquilo, né?"[lr]::
@@ -102,7 +102,7 @@ id=qid::label=str::text=lstr::
 4242::$$$message_0031_0032_0000$$$::A Sakura muda o assunto para culinária, mas eu sou totalmente a favor.[lr]::
 4243::$$$message_0031_0032_0001$$$::Mitsuzuri suspira para nós e diz.::
 4244::$$$message_0031_0033_0000$$$::"Haaah. Ver vocês dois me deixa com tanto ciúmes que eu quero eu mesma dar a bênção a vocês no altar."[lr]::
-4245::$$$message_0031_0033_0001$$$::"D-d-[wvl][shock vmax=20 time=300 count=-3]do que você está falando, Senpai!? Q-quem está casando com quem!?"::
+4245::$$$message_0031_0033_0001$$$::"D-d-[wvl][shock vmax=20 time=300 count=-3]do que você está falando, Mitsuzuri-senpai!? Q-quem está casando com quem!?"::
 4246::$$$message_0031_0034_0000$$$::"Não seja tão tímida, Matou! Você é fofa."[lr]::
 4247::$$$message_0031_0034_0001$$$::"Por favor, pare de rir também, Senpai!"[lr]::
 4248::$$$message_0031_0034_0002$$$::"Eu não estou rindo! Estou começando a entrar em pânico, também!"[lr]::
@@ -110,7 +110,7 @@ id=qid::label=str::text=lstr::
 4250::$$$message_0031_0035_0000$$$::"Viu? É por isso que eu digo que abril não conta. Se você e a Matou estão assim tão amorosos, [cacheimage storage=桜私服10e頬(中)][wvl][chgfg time=300 storage=桜私服10e頬(中) textoff=0]então as coisas devem estar estranhas com a Tohsaka."[lr]::
 4251::$$$message_0031_0035_0001$$$::"Eu gostaria que você comentasse isso diretamente com ela... Enfim, você queria falar com a Sakura?"::
 4252::$$$message_0031_0036_0000$$$::"Ah, é. Eu me deixei levar provocando vocês. Matou, sobre o torneio que está chegando..."[lr]::
-4253::$$$message_0031_0036_0001$$$::"Sim?"[lr]::
-4254::$$$message_0031_0036_0002$$$::A atmosfera de farsa desaparece e elas vão direto aos negócios.[lr]::
-4255::$$$message_0031_0036_0003$$$::Vou apenas ouvir sem atrapalhar.::
-904150::$$$message_9031_0002_0000$$$::"Bem-vinda e boa tarde. Você veio ver a Sakura ou o Shirou?"[r]::
+4253::$$$message_0031_0036_0001$$$::"Sim, Mitsuzuri-senpai?"[lr]::
+4254::$$$message_0031_0036_0002$$$::A atmosfera de brincadeira se desfaz, e elas passam ao assunto sério.[lr]::
+4255::$$$message_0031_0036_0003$$$::Eu fico ouvindo sem atrapalhar.::
+904150::$$$message_9031_0002_0000$$$::"Bem-vinda e boa tarde. Você veio ver a Sakura ou o Shirou?"[r]::g

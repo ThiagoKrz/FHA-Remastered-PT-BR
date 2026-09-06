@@ -147,7 +147,7 @@ id=qid::label=str::text=lstr::
 32648::$$$message_0259_0044_0001$$$::Não, antes mesmo disso. Vamos explorar a vulnerabilidade dele logo após o tiro.[lr]::
 32649::$$$message_0259_0044_0002$$$::Nós vamos abatê-lo com a espada da Saber.[wm canskip=0]::
 32650::$$$message_0259_0045_0000$$$::A energia mágica de cada combatente uiva.[lr]::
-32651::$$$message_0259_0045_0001$$$::A intensidade do confronto deles parece fazer a lua piscar no céu.::
+32651::$$$message_0259_0045_0001$$$::A intensidade do confronto deles parece fazer a Lua piscar no céu.::
 32652::$$$message_0259_0046_0000$$$::Cinco. [wait canskip=0 time=300][rep textoff=0 fliplr=0 tops=0,0,-7 storages=red,fd04,橋決戦07(素材・ビル窓抜き) time=200 flipud=0 opacities=255,220,150 lefts=0,0,-135 bg=red indexes=2000,1000,4000][movefg textoff=0 opacity=100 left=-135 top=-57 time=1500 accel=-2 storage=橋決戦07(素材・ビル窓抜き)][movefg textoff=0 opacity=0 left=0 top=0 time=1300 accel=0 storage=red]Ainda não.[wm canskip=0][wm canskip=0]::
 32653::$$$message_0259_0047_0000$$$::Três. [seloop volume=60 storage=se351.wav][wait canskip=0 time=300][rep textoff=0 fliplr=0 tops=-77,600,-500,170,0 storages=030_エクスカリバーa,シネスコw1000b,シネスコw1000a,031_セイバーb13up,white time=200 flipud=0 opacities=0,,,0,0 lefts=690,-100,-100,351,0 bg=o冬樹大橋の上(行き)-(深夜) indexes=2000,3000,1000,4000,5000][find storage=030_エクスカリバーa][movefg textoff=0 opacity=255 left=-100 top=-400 time=400 accel=0 storage=シネスコw1000a][movefg textoff=0 opacity=255 left=-100 top=500 time=400 accel=0 storage=シネスコw1000b][move textoff=0 time=280 path=(209,226,100)(150,255,255)(134,266,255)(137,250,255) storage=031_セイバーb13up accel=-2 spline=1][move textoff=0 opacity=0 base=030_エクスカリバーa cx=95 time=1000 storage=030_エクスカリバーa py=227 px=775 affine=(669,250,-18.435,1,55,95,308)(639,268,-12.095,1,100,95,308)(616,285,-7.595,1,155,95,308)(598,311,-6.116,1,255,95,308)(602,250,-1.975,1,255,95,308) cy=308 mag=1 deg=-21.448 accel=0 spline=1][move textoff=0 time=120 path=(0,0,0)(0,0,0)(0,0,0)(0,0,0)(0,0,0)(0,0,230)(0,0,180)(0,0,100)(0,0,0) storage=white accel=0]Estou tão tenso que o meu Feitiço de Comando parece estar prestes a se romper.[wait canskip=0 time=600][se storage=se575.wav][wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0]::
 32654::$$$message_0259_0048_0000$$$::Um. [wait canskip=0 time=300][rep textoff=0 fliplr=0 tops=0 storages=fd04d time=200 flipud=0 opacities=0 lefts=0 bg=fd04c indexes=1000][move textoff=0 spread=1 mx=400 magnify=1.2 time=100 my=300 path=(400,300,50,1.2)(400,300,70,1)(400,300,100,0.9)(400,300,100,1.03) storage=fd04d accel=3][se volume=50 storage=se579.wav]Eu foco nos dedos dele.[wm canskip=0][shock vmax=10 time=200 count=-4]::
@@ -247,11 +247,11 @@ id=qid::label=str::text=lstr::
 32748::$$$message_0259_0068_0002$$$::Archer desaparece, mas não antes de proferir a última provocação de um mau perdedor.::
 32749::$$$message_0259_0069_0000$$$::"......"[lr]::
 32750::$$$message_0259_0069_0001$$$::Saber recolhe a sua espada. Ela morde o lábio.[lr]::
-32751::$$$message_0259_0069_0002$$$::A lua brilha obscuramente acima dela.[lr]::
+32751::$$$message_0259_0069_0002$$$::A Lua brilha obscuramente acima dela.[lr]::
 32752::$$$message_0259_0069_0003$$$::Do seu contorno que se assemelha a um cálice, ela parece gotejar lentamente um veneno com a intenção de corroer o vencedor.::
 32753::$$$message_0259_0070_0000$$$::Levo uma hora para conseguir me encontrar com a Saber.[lr]::
 32754::$$$message_0259_0070_0001$$$::O esforço daquele ataque me deixou exausto, mas eu consigo arrastar o meu corpo cansado até o telhado.[lr]::
-32755::$$$message_0259_0070_0002$$$::A Saber está olhando fixamente para a lua.[lr]::
+32755::$$$message_0259_0070_0002$$$::A Saber está olhando fixamente para a Lua.[lr]::
 32756::$$$message_0259_0070_0003$$$::Ela parece tensa, e eu hesito em chamá-la.::
 32757::$$$message_0259_0071_0000$$$::"...Shirou. Você veio até mim."[lr]::
 32758::$$$message_0259_0071_0001$$$::A voz dela está apática.[lr]::
@@ -276,5 +276,5 @@ id=qid::label=str::text=lstr::
 32777::$$$message_0259_0077_0002$$$::Este assunto está longe de terminar, mas por enquanto, posso descansar tranquilo.[lr]::
 32778::$$$message_0259_0077_0003$$$::Mesmo que o fim ainda não esteja aqui...[lr]::
 32779::$$$message_0259_0077_0004$$$::Ele estará à vista eventualmente, contanto que eu continue seguindo em frente.::
-932722::932722::$$$message_9259_0062_0000$$$::"Esse feito foi digno do seu título, Archer."::
+932722::$$$message_9259_0062_0000$$$::"Esse feito foi digno do seu título, Archer."::
 32781::o

@@ -1,106 +1,106 @@
 DAT
 id=qid::label=str::text=lstr::
-2075::$$$message_0010_0000_0000$$$::"Senpai? Você tem um momento?"[lr]::
-2076::$$$message_0010_0000_0001$$$::Escuto a voz de Sakura enquanto estou descansando no meu quarto.[lr]::
-2077::$$$message_0010_0000_0002$$$::"Entre," [movefg opacity=255 time=400 pos=r accel=0 storage=桜私服01a(中) textoff=0] respondo. Sakura esquiva para dentro.[wm canskip=0]::
-2078::$$$message_0010_0001_0000$$$::"Huh? Esqueci de pendurar a roupa?"[lr]::
-2079::$$$message_0010_0001_0001$$$::"Não, não é isso... [cacheimage storage=桜私服07c(中)][wvl canskip=false time=300][chgfg storage=桜私服07c(中) time=300 textoff=0]O que você vai querer para jantar hoje à noite?"[lr]::
-2080::$$$message_0010_0001_0002$$$::"Eh? Oh, já é essa hora novamente?"::
-2081::$$$message_0010_0002_0000$$$::Pulo em pé.[lr]::
-2082::$$$message_0010_0002_0001$$$::Temos que alimentar muita gente nos finais de semana, então melhor começarmos a preparar ou não teremos tempo suficiente.::
-2083::$$$message_0010_0003_0000$$$::"Foi sua vez de preparar o jantar hoje?"[lr]::
-2084::$$$message_0010_0003_0001$$$::"Sim, então se tiver qualquer pedido... [cacheimage storage=桜私服10g(中)][wvl canskip=false time=500][chgfg storage=桜私服10g(中) time=300 textoff=0]Ah, mas deveria perguntar também a Saber e à senhorita Fujimura."[lr]::
-2085::$$$message_0010_0003_0002$$$::"Okay, I'll help."[lr]::
-2086::$$$message_0010_0003_0003$$$::Comecei a sentir que estava muito preguiçoso só ficando deitado aí.[lr]::
-2087::$$$message_0010_0003_0004$$$::Seria mais proveitoso passar o meu tempo ajudando Sakura.::
-2088::$$$message_0010_0004_0000$$$::"Um, mas você deveria estar descansando..."[lr]::
-2089::$$$message_0010_0004_0001$$$::"Eu tive bastante descanso.[lr]::
-2090::$$$message_0010_0004_0002$$$::...Hmm. Bem, você é bom o suficiente para não precisar de ajuda, então talvez eu não tenha nada para fazer."::
-2091::$$$message_0010_0005_0000$$$::"Isso não é verdade! Ainda não dominei tudo o que você me ensina!"[lr]::
-2092::$$$message_0010_0005_0001$$$::"Pra ver que bom.[lr]::
-2093::$$$message_0010_0005_0002$$$::Bem, vamos aproveitar para cozinhar."[lr]::
-2094::$$$message_0010_0005_0003$$$::"Senpai...aquele sorriso não é justo..."[lr]::
-2095::$$$message_0010_0005_0004$$$::"Hmm?"::
-2096::$$$message_0010_0006_0000$$$::"Nunca mente! Okay! [cacheimage storage=桜私服09a(中)][wvl canskip=false time=200][chgfg storage=桜私服09a(中) time=300 textoff=0]Então, por favor, me ajude da forma que puder!"::
-2097::$$$message_0010_0007_0000$$$::"Hmm? Esta caixa de papelão..."[lr]::
-2098::$$$message_0010_0007_0001$$$::Sakura percebe algo e para.[lr]::
-2099::$$$message_0010_0007_0002$$$::...Ah, as frutas de outono que a Fuji-nee trouxe.::
-2100::$$$message_0010_0008_0000$$$::"Há duas caixas de persimmons dentro. Vamos ter que comer todas de novo juntos."[lr]::
-2101::$$$message_0010_0008_0001$$$::"Eles são um presente da senhorita Fujimura? Agradeço, mas... [cacheimage storage=桜私服08l(中)][wvl canskip=false time=400][se storage=se503.wav][chgfg storage=桜私服08l(中) time=300 textoff=0]Wow."::
-2102::$$$message_0010_0009_0000$$$::"Há tantos... Isso é tudo?"[lr]::
-2103::$$$message_0010_0009_0001$$$::"Aparentemente, ela tem ainda mais em casa."::
-2104::$$$message_0010_0010_0000$$$::"Se fossem maçãs, poderíamos acabar com todas rapidamente usando para fazer bolos e coisas assim... E com pêssegos?"::
-2105::$$$message_0010_0011_0000$$$::Hmm... [chgfg time=300 storage=桜私服08l(中) textoff=0]Talvez eu deva.[lr]::
-2106::$$$message_0010_0011_0001$$$::Começo a tirar os persimmons da caixa. Eles são grandes o suficiente, então deve estar tudo bem.::
-2107::$$$message_0010_0012_0000$$$::"Sakura. Vamos usar essas para cozinhar hoje."[lr]::
-2108::$$$message_0010_0012_0001$$$::"Esses...? Você quer dizer [cacheimage storage=桜私服14c(中)][wvl canskip=false time=400][chgfg storage=桜私服14c(中) time=300 textoff=0]as maçãs-cereja!?"::
-2109::$$$message_0010_0013_0000$$$::"É. Eles são tão versáteis quanto maçãs. Você pode usá-los em saladas, por exemplo. [cacheimage storage=桜私服09b(中)][wvl][chgfg time=300 storage=桜私服09b(中) textoff=0]Então usaremos esses hoje."[lr]::
-2110::$$$message_0010_0013_0001$$$::É a primeira vez que tento, mas é hora de explorar novos menus. Oro pelos deuses da culinária para orientação.::
-2111::$$$message_0010_0014_0000$$$::"Isso parece interessante."[lr]::
-2112::$$$message_0010_0014_0001$$$::"Escolha um monte dessas firmes para cozinhar...[cacheimage storage=桜私服07c(中)][wvl][chgfg time=300 storage=桜私服07c(中) textoff=0]e vamos salvar as mais suaves para o doce."::
-2113::$$$message_0010_0015_0000$$$::"Entendi!"::
-2114::$$$message_0010_0016_0000$$$::Sakura usa sua saia como uma cesta para segurar as persimmons.[lr]::
+2075::$$$message_0010_0000_0000$$$::"Senpai? Tem um minuto?"[lr]::
+2076::$$$message_0010_0000_0001$$$::Ouço a voz de Sakura enquanto descanso no quarto.[lr]::
+2077::$$$message_0010_0000_0002$$$::"Pode entrar", [movefg opacity=255 time=400 pos=r accel=0 storage=桜私服01a(中) textoff=0]respondo. Sakura põe o rosto para dentro.[wm canskip=0]::
+2078::$$$message_0010_0001_0000$$$::"Hã? Esqueci de estender a roupa?"[lr]::
+2079::$$$message_0010_0001_0001$$$::"Não, não é isso... [cacheimage storage=桜私服07c(中)][wvl canskip=false time=300][chgfg storage=桜私服07c(中) time=300 textoff=0]O que gostaria de comer no jantar?"[lr]::
+2080::$$$message_0010_0001_0002$$$::"Hã? Ah, já está na hora?"::
+2081::$$$message_0010_0002_0000$$$::Salto de pé.[lr]::
+2082::$$$message_0010_0002_0001$$$::Nos fins de semana, temos muita gente para alimentar. Se não começarmos logo, o tempo não será suficiente.::
+2083::$$$message_0010_0003_0000$$$::"Hoje é sua vez de fazer o jantar?"[lr]::
+2084::$$$message_0010_0003_0001$$$::"Sim. Então, se tiver algum pedido... [cacheimage storage=桜私服10g(中)][wvl canskip=false time=500][chgfg storage=桜私服10g(中) time=300 textoff=0]Ah, mas também preciso perguntar à Saber-san e à Fujimura-Sensei."[lr]::
+2085::$$$message_0010_0003_0002$$$::"Certo, vou ajudar."[lr]::
+2086::$$$message_0010_0003_0003$$$::De qualquer forma, eu já estava cansando de ficar à toa.[lr]::
+2087::$$$message_0010_0003_0004$$$::Seria muito mais proveitoso passar o tempo ajudando Sakura.::
+2088::$$$message_0010_0004_0000$$$::"Ahn, mas você deveria estar descansando..., Senpai"[lr]::
+2089::$$$message_0010_0004_0001$$$::"Já descansei bastante.[lr]::
+2090::$$$message_0010_0004_0002$$$::...Hum. Pensando bem, você já cozinha tão bem que não precisa mais de ajuda. Talvez eu não tenha nada para fazer."::
+2091::$$$message_0010_0005_0000$$$::"N-não é verdade! Ainda não aprendi tudo o que você tem para me ensinar, Senpai!"[lr]::
+2092::$$$message_0010_0005_0001$$$::"Fico feliz em ouvir isso.[lr]::
+2093::$$$message_0010_0005_0002$$$::Então vamos nos divertir cozinhando."[lr]::
+2094::$$$message_0010_0005_0003$$$::"Senpai... esse sorriso é covardia..."[lr]::
+2095::$$$message_0010_0005_0004$$$::"Hum?"::
+2096::$$$message_0010_0006_0000$$$::"N-não foi nada! Está bem! [cacheimage storage=桜私服09a(中)][wvl canskip=false time=200][chgfg storage=桜私服09a(中) time=300 textoff=0]Então me ajude sem cerimônia, Senpai!"::
+2097::$$$message_0010_0007_0000$$$::"Hã? Esta caixa de papelão..."[lr]::
+2098::$$$message_0010_0007_0001$$$::Sakura nota alguma coisa e para.[lr]::
+2099::$$$message_0010_0007_0002$$$::...Ah, as frutas de outono que Fuji-Nee trouxe.::
+2100::$$$message_0010_0008_0000$$$::"Há duas caixas de caquis aí dentro. Vamos ter que juntar todo mundo para comer de novo."[lr]::
+2101::$$$message_0010_0008_0001$$$::"Foram um presente da Fujimura-Sensei? Eu agradeço, mas... [cacheimage storage=桜私服08l(中)][wvl canskip=false time=400][se storage=se503.wav][chgfg storage=桜私服08l(中) time=300 textoff=0]Nossa."::
+2102::$$$message_0010_0009_0000$$$::"São tantos... Isto é tudo?"[lr]::
+2103::$$$message_0010_0009_0001$$$::"Fuji-Nee, Parece que ela tem ainda mais em casa."::
+2104::$$$message_0010_0010_0000$$$::"Se fossem maçãs, poderíamos dar cabo delas depressa fazendo tortas e coisas do tipo... O que podemos fazer com caquis?"::
+2105::$$$message_0010_0011_0000$$$::Hum... [chgfg time=300 storage=桜私服08l(中) textoff=0]Por que não?[lr]::
+2106::$$$message_0010_0011_0001$$$::Começo a tirar os caquis da caixa. São grandes o bastante, então devem servir.::
+2107::$$$message_0010_0012_0000$$$::"Sakura. Hoje vamos cozinhar com eles."[lr]::
+2108::$$$message_0010_0012_0001$$$::"Com eles...? Quer dizer, [cacheimage storage=桜私服14c(中)][wvl canskip=false time=400][chgfg storage=桜私服14c(中) time=300 textoff=0]os caquis!?"::
+2109::$$$message_0010_0013_0000$$$::"Sim. São tão versáteis quanto maçãs. Podemos usá-los em saladas, por exemplo. [cacheimage storage=桜私服09b(中)][wvl][chgfg time=300 storage=桜私服09b(中) textoff=0]Então serão o ingrediente de hoje."[lr]::
+2110::$$$message_0010_0013_0001$$$::É minha primeira tentativa, mas chegou a hora de explorar novos cardápios. Peço orientação aos deuses da culinária.::
+2111::$$$message_0010_0014_0000$$$::"Parece interessante., Senpai"[lr]::
+2112::$$$message_0010_0014_0001$$$::"Separe vários dos mais firmes para cozinhar...[cacheimage storage=桜私服07c(中)][wvl][chgfg time=300 storage=桜私服07c(中) textoff=0] e guardamos os mais macios para a sobremesa."::
+2113::$$$message_0010_0015_0000$$$::"Certo!"::
+2114::$$$message_0010_0016_0000$$$::Sakura usa a saia como uma cesta para carregar os caquis.[lr]::
 2115::$$$message_0010_0016_0001$$$::...É um gesto tão feminino.[lr]::
-2116::$$$message_0010_0016_0002$$$::Estou um pouco invejoso dos persimmons que conseguem ficar deitados em seu vestido assim.::
+2116::$$$message_0010_0016_0002$$$::Sinto um pouco de inveja dos caquis, acomodados daquele jeito sobre sua saia.::
 2117::$$$message_0010_0017_0000$$$::"Senpai, qual será o cardápio?"[lr]::
-2118::$$$message_0010_0017_0001$$$::Sakura me pergunta enquanto começa a lavar o arroz.[lr]::
-2119::$$$message_0010_0017_0002$$$::Sugeri usei os persimmons, mas agora estou só de braços cruzados diante de uma montanha de frutas no corte.[lr]::
-2120::$$$message_0010_0017_0003$$$::"...Agora que penso nisso, não há tantas receitas de persimmon quanto esperava."::
-2121::$$$message_0010_0018_0000$$$::"Devemos começar com uma salada, então? Temos radish."[lr]::
-2122::$$$message_0010_0018_0001$$$::"Se tivermos daikon e persimsons, poderíamos fazer namasu... Mas não é bom decidir primeiro o prato de acompanhamento."[lr]::
-2123::$$$message_0010_0018_0002$$$::[chgfg time=300 storage=桜私服07c(中) textoff=0]Eu olho para as persimmons, mas nenhuma ideia vem à mente.::
-2124::$$$message_0010_0019_0000$$$::Desisto e fico procurando por ingredientes úteis na geladeira.[lr]::
-2125::$$$message_0010_0019_0001$$$::Quando estou diante de um monte de ingredientes diferentes, começo a combiná-los na minha cabeça.::
-2126::$$$message_0010_0020_0000$$$::"Isso e isso... [wvl][se storage=se250.wav]Podemos usar isso também."[lr]::
-2127::$$$message_0010_0020_0001$$$::"Bacon? [cacheimage storage=桜私服08g(中)][wvl canskip=false time=400][chgfg storage=桜私服08g(中) time=300 textoff=0]Você quer embrulhar e frigir? Como fazemos com aspargos ou batatas?"[lr]::
-2128::$$$message_0010_0020_0002$$$::Fiquei impressionado que Sakura soube imediatamente o que eu estava pensando, mas ela não percebeu os folhos de dumpling e queijo.::
-2129::$$$message_0010_0021_0000$$$::"Vamos embrulhar e frigir essas. Frigam as abóboras com queijo cortado uniformemente usando as folhas de panqueca."[lr]::
-2130::$$$message_0010_0021_0001$$$::"Entendi. Estamos apenas usando sal para temperar?"[lr]::
-2131::$$$message_0010_0021_0002$$$::"É, eles dois têm o seu próprio doçura, então não quero esmagar isso com molho de soja."[lr]::
-2132::$$$message_0010_0021_0003$$$::[chgfg time=300 storage=桜私服08l(中) textoff=0]Ainda assim, são pratos bastante simples.[lr]::
-2133::$$$message_0010_0021_0004$$$::Nenhum deles pode realmente ser considerado um prato principal.::
-2134::$$$message_0010_0022_0000$$$::"Você é incrível, Senpai. Nunca teria pensado nisso.[lr]::
-2135::$$$message_0010_0022_0001$$$::Então, o cardápio de hoje à noite será..."[lr]::
-2136::$$$message_0010_0022_0002$$$::"Salada de persimmons ou mistura de vegetais, dumplings de persimmon frito, persimmons envolvidos em bacon..."::
-2137::$$$message_0010_0023_0000$$$::"Hmm..."[lr]::
-2138::$$$message_0010_0023_0001$$$::Sakura parece achá-lo insuficiente.[lr]::
-2139::$$$message_0010_0023_0002$$$::Eu sei o que ela está pensando. A nossa mesa de jantar não se sente muito completa.::
-2140::$$$message_0010_0024_0000$$$::"Não podemos usar jabuticabas na sopa de miso... [cacheimage storage=桜私服08h(中)][wvl canskip=false time=300][chgfg storage=桜私服08h(中) time=300 textoff=0]Ah, e se misturássemos jabuticabas no arroz para fazer mazusaki?"[lr]::
-2141::$$$message_0010_0024_0001$$$::"Isso poderia funcionar, mas ainda faltamos um prato principal.[lr]::
-2142::$$$message_0010_0024_0002$$$::Então, tenho uma tarefa para você, Chef Matou."[lr]::
-2143::$$$message_0010_0024_0003$$$::Levo minha voz a um tom professoral e Sakura se levanta ereta de repente.::
-2144::$$$message_0010_0025_0000$$$::"À sua disposição, Chef Emiya, senhor!"[lr]::
-2145::$$$message_0010_0025_0001$$$::"You're welcome. Let me know if you need anything else.[lr]::
-2146::$$$message_0010_0025_0002$$$::Então, o conceito do jantar de hoje é "vamos ser egoístas"."[lr]::
-2147::$$$message_0010_0025_0003$$$::"Entendi, senhor! Então, esse é o conceito!"[lr]::
-2148::$$$message_0010_0025_0004$$$::A chef Matou me encara ansiosamente.::
-2149::$$$message_0010_0026_0000$$$::"E eu tenho estado pensando em deixar você desenvolver o prato principal."[lr]::
-2150::$$$message_0010_0026_0001$$$::"Sim, você tem estado pensando[line len=2]espera, o queaaa!?"[lr]::
-2151::$$$message_0010_0026_0002$$$::Sakura fica surpresa com tanta responsabilidade.::
-2152::$$$message_0010_0027_0000$$$::"B-bem... [cacheimage storage=桜私服12a(中)][wvl canskip=false time=300][chgfg storage=桜私服12a(中) time=200 textoff=0]Lamento Senpai, mas não tenho nenhuma ideia..."[lr]::
-2153::$$$message_0010_0027_0001$$$::"Você tem o suficiente para trabalhar, na verdade. Aqui vai um dica: [cacheimage storage=桜私服12b(中)][wvl][chgfg storage=桜私服12b(中) time=200 textoff=0][font italic=true]vamos ser egoístas[font italic=false]."[lr]::
-2154::$$$message_0010_0027_0002$$$::"Hmm... Hmm... [resetwait][fg opacity=0 index=1000 time=200 pos=c storage=桜私服07c(中) textoff=0][wait mode=until canskip=false time=600][chgfg time=200 storage=桜私服12d(中) textoff=0 last=桜私服12a(中)][cacheimage storage=桜私服12d(中)][wvl canskip=false time=400]Oh. [wvl canskip=false time=300][movefg opacity=0 time=300 pos=r accel=1 storage=桜私服12d(中) textoff=0][wait canskip=false time=200][movefg opacity=255 time=400 pos=r accel=-2 storage=桜私服07c(中) textoff=0]Você quer dizer..."[wm canskip=0][wm canskip=0][se storage=se505.wav]::
-2155::$$$message_0010_0028_0000$$$::Sakura parece ter alguma ideia.[lr]::
-2156::$$$message_0010_0028_0001$$$::Ela puxa rapidamente uma caixa de marisco do refrigerador. Isso mesmo, o que eu quis dizer era...::
+2118::$$$message_0010_0017_0001$$$::Sakura pergunta enquanto começa a lavar o arroz.[lr]::
+2119::$$$message_0010_0017_0002$$$::Fui eu quem sugeriu os caquis, mas agora só consigo cruzar os braços diante da montanha de frutas na tábua.[lr]::
+2120::$$$message_0010_0017_0003$$$::"...Pensando bem, há menos receitas com caqui do que eu esperava."::
+2121::$$$message_0010_0018_0000$$$::"Então começamos pela salada? Temos daikon."[lr]::
+2122::$$$message_0010_0018_0001$$$::"Com daikon e caqui, podemos fazer namasu... Mas não é bom decidir o acompanhamento antes do prato principal."[lr]::
+2123::$$$message_0010_0018_0002$$$::[chgfg time=300 storage=桜私服07c(中) textoff=0]Encaro os caquis, mas ideia nenhuma surge.::
+2124::$$$message_0010_0019_0000$$$::Desisto e vasculho a geladeira em busca de ingredientes úteis.[lr]::
+2125::$$$message_0010_0019_0001$$$::Diante de vários ingredientes diferentes, começo a combiná-los mentalmente.::
+2126::$$$message_0010_0020_0000$$$::"Isto com isto... [wvl][se storage=se250.wav]Também podemos usar isto."[lr]::
+2127::$$$message_0010_0020_0001$$$::"Bacon? [cacheimage storage=桜私服08g(中)][wvl canskip=false time=400][chgfg storage=桜私服08g(中) time=300 textoff=0]Quer enrolar e fritar? Como fazemos com aspargos ou batatas?"[lr]::
+2128::$$$message_0010_0020_0002$$$::Fico impressionado por Sakura entender imediatamente o que pensei, embora não tenha percebido a massa para guioza nem o queijo.::
+2129::$$$message_0010_0021_0000$$$::"Vamos envolvê-los na massa e fritar por imersão. Junte pedaços iguais de caqui e queijo em cada trouxinha."[lr]::
+2130::$$$message_0010_0021_0001$$$::"Entendo. Vamos temperar apenas com sal?"[lr]::
+2131::$$$message_0010_0021_0002$$$::"Sim. Os dois já são doces, então não quero encobrir o sabor com molho de soja."[lr]::
+2132::$$$message_0010_0021_0003$$$::[chgfg time=300 storage=桜私服08l(中) textoff=0]Ainda assim, os dois pratos são bem simples.[lr]::
+2133::$$$message_0010_0021_0004$$$::Nenhum deles chega a servir como prato principal.::
+2134::$$$message_0010_0022_0000$$$::"Você é incrível, Senpai. Eu nunca teria pensado nisso.[lr]::
+2135::$$$message_0010_0022_0001$$$::Então, o cardápio desta noite será..."[lr]::
+2136::$$$message_0010_0022_0002$$$::"Salada ou legumes variados com caqui, trouxinhas fritas de caqui com queijo, caquis enrolados em bacon..."::
+2137::$$$message_0010_0023_0000$$$::"Hum..."[lr]::
+2138::$$$message_0010_0023_0001$$$::Sakura parece achar que falta alguma coisa.[lr]::
+2139::$$$message_0010_0023_0002$$$::Sei o que ela está pensando. Nossa mesa ainda não parece completa.::
+2140::$$$message_0010_0024_0000$$$::"Não podemos pôr caqui na sopa de missô... [cacheimage storage=桜私服08h(中)][wvl canskip=false time=300][chgfg storage=桜私服08h(中) time=300 textoff=0]Ah, e se misturarmos caqui ao arroz e fizermos mazegohan?"[lr]::
+2141::$$$message_0010_0024_0001$$$::"Pode funcionar, mas ainda falta o prato principal.[lr]::
+2142::$$$message_0010_0024_0002$$$::Por isso, tenho uma missão para você, chef Matou."[lr]::
+2143::$$$message_0010_0024_0003$$$::Adoto um tom professoral, e Sakura imediatamente endireita a postura.::
+2144::$$$message_0010_0025_0000$$$::"Às suas ordens, chef Emiya, senhor!"[lr]::
+2145::$$$message_0010_0025_0001$$$::"Boa resposta. Obrigado.[lr]::
+2146::$$$message_0010_0025_0002$$$::O conceito do cardápio desta noite é 'vamos sair da concha'."[lr]::
+2147::$$$message_0010_0025_0003$$$::"Entendido, senhor! Então esse é o conceito!"[lr]::
+2148::$$$message_0010_0025_0004$$$::A chef Matou me encara com expectativa.::
+2149::$$$message_0010_0026_0000$$$::"E pensei em deixar o desenvolvimento do prato principal por sua conta."[lr]::
+2150::$$$message_0010_0026_0001$$$::"Sim, você pensou em[line len=2]espere, o quêêê!?"[lr]::
+2151::$$$message_0010_0026_0002$$$::Sakura se espanta com tamanha responsabilidade.::
+2152::$$$message_0010_0027_0000$$$::"B-bem... [cacheimage storage=桜私服12a(中)][wvl canskip=false time=300][chgfg storage=桜私服12a(中) time=200 textoff=0]Desculpe, Senpai, mas não tenho nenhuma ideia..."[lr]::
+2153::$$$message_0010_0027_0001$$$::"Na verdade, você já tem tudo de que precisa. Aqui vai uma pista: [cacheimage storage=桜私服12b(中)][wvl][chgfg storage=桜私服12b(中) time=200 textoff=0][font italic=true]vamos sair da concha[font italic=false]."[lr]::
+2154::$$$message_0010_0027_0002$$$::"Hã... Hum... [resetwait][fg opacity=0 index=1000 time=200 pos=c storage=桜私服07c(中) textoff=0][wait mode=until canskip=false time=600][chgfg time=200 storage=桜私服12d(中) textoff=0 last=桜私服12a(中)][cacheimage storage=桜私服12d(中)][wvl canskip=false time=400]Ah. [wvl canskip=false time=300][movefg opacity=0 time=300 pos=r accel=1 storage=桜私服12d(中) textoff=0][wait canskip=false time=200][movefg opacity=255 time=400 pos=r accel=-2 storage=桜私服07c(中) textoff=0]Quer dizer..."[wm canskip=0][wm canskip=0][se storage=se505.wav]::
+2155::$$$message_0010_0028_0000$$$::Sakura parece ter chegado a uma ideia.[lr]::
+2156::$$$message_0010_0028_0001$$$::Ela tira depressa um pacote de frutos do mar da geladeira. Exato. Eu estava falando de...::
 2157::$$$message_0010_0029_0000$$$::"Ostras?"[lr]::
-2158::$$$message_0010_0029_0001$$$::"Isso mesmo, ostras... Me chame de egoísta por pensar em brincadeiras tão "frutas penduradas", mas, afinal, é um molusco."[lr]::
-2159::$$$message_0010_0029_0002$$$::"Entendi, Senpai. Isso é genial.[lr]::
-2160::$$$message_0010_0029_0003$$$::Pensei que o trocadilho fosse um pouco pastelão, mas é o meu mestre para você!"[lr]::
+2158::$$$message_0010_0029_0001$$$::"Isso, ostras... Pode me chamar de sem-vergonha por escolher um trocadilho tão fácil, mas elas têm concha, afinal."[lr]::
+2159::$$$message_0010_0029_0002$$$::"Entendi, Senpai. Que ideia genial.[lr]::
+2160::$$$message_0010_0029_0003$$$::Achei o trocadilho meio sem graça, mas é isso que espero do meu mestre, Sensei!"[lr]::
 2161::$$$message_0010_0029_0004$$$::"Argh."[lr]::
-2162::$$$message_0010_0029_0005$$$::Meu pupilo aprendeu a me zingar de volta.::
+2162::$$$message_0010_0029_0005$$$::Minha discípula já aprendeu a devolver as provocações.::
 2163::$$$message_0010_0030_0000$$$::"Vamos voltar ao assunto.[lr]::
-2164::$$$message_0010_0030_0001$$$::Você comprou esses ostras da geladeira?"[lr]::
-2165::$$$message_0010_0030_0002$$$::"Sim. Eu sei que os vivos com suas carapicas intactas são melhores, mas..."[lr]::
-2166::$$$message_0010_0030_0003$$$::"Fresh enough to be eaten just with lemon, huh... I guess we can't afford to do that this time. So, como você vai cozinhar essas? Frigideira?"[lr]::
-2167::$$$message_0010_0030_0004$$$::"Ah, eu estava pensando em usá-los em um gratin. Frigir também funcionaria, embora."::
-2168::$$$message_0010_0031_0000$$$::Bom, agora nosso conceito de jantar tem variedade adequada.[lr]::
-2169::$$$message_0010_0031_0001$$$::Ninguém deve reclamar agora. Espero que Fuji-nee celebre, na verdade.::
-2170::$$$message_0010_0032_0000$$$::"Vamos dividir o trabalho. Você faz a salada e o gratin, e eu me ocupo dos pratos fritos."[lr]::
-2171::$$$message_0010_0032_0001$$$::"Mas você vai fazer a maior parte do trabalho, então."[lr]::
-2172::$$$message_0010_0032_0002$$$::"Você tem que fazer uma molha branca, então há bastante trabalho para ser dividido. [cacheimage storage=桜私服05d(中)][wvl][chgfg time=300 storage=桜私服05d(中) textoff=0]Também é mais fácil se apenas uma pessoa controlar o calor."::
-2173::$$$message_0010_0033_0000$$$::[chgfg time=300 storage=桜私服01c(中) textoff=0]Dividimos eficientemente as tarefas e começamos a trabalhar.[lr]::
-2174::$$$message_0010_0033_0001$$$::Quando há várias pessoas na cozinha, você tem que pensar em quem usa o forno em que ordem. Cozinhar com até duas pessoas já não é fácil.::
+2164::$$$message_0010_0030_0001$$$::Foi você quem comprou estas ostras?"[lr]::
+2165::$$$message_0010_0030_0002$$$::"Sim. Sei que vivas e ainda na concha seriam melhores, mas..."[lr]::
+2166::$$$message_0010_0030_0003$$$::"Estão frescas o bastante para comer só com limão... mas desta vez não dá para nos darmos a esse luxo. Então, como pretende prepará-las? Fritas?"[lr]::
+2167::$$$message_0010_0030_0004$$$::"Ah, eu estava pensando num gratinado. Mas fritas também serviriam."::
+2168::$$$message_0010_0031_0000$$$::Ótimo. Agora o cardápio do jantar tem a variedade de que precisava.[lr]::
+2169::$$$message_0010_0031_0001$$$::Agora ninguém terá motivo para reclamar. Na verdade, espero que Fuji-Nee comemore.::
+2170::$$$message_0010_0032_0000$$$::"Então vamos dividir o trabalho. Você cuida da salada e do gratinado; eu, das frituras."[lr]::
+2171::$$$message_0010_0032_0001$$$::"Mas assim você fará a maior parte do trabalho, Senpai."[lr]::
+2172::$$$message_0010_0032_0002$$$::"Você precisa preparar o molho branco, então haverá bastante trabalho para os dois. [cacheimage storage=桜私服05d(中)][wvl][chgfg time=300 storage=桜私服05d(中) textoff=0]Além disso, é mais fácil se uma pessoa só controlar o óleo."::
+2173::$$$message_0010_0033_0000$$$::[chgfg time=300 storage=桜私服01c(中) textoff=0]Dividimos as tarefas com eficiência e começamos o trabalho.[lr]::
+2174::$$$message_0010_0033_0001$$$::Quando há várias pessoas na cozinha, é preciso planejar a ordem de uso do forno. Cozinhar até em dupla tem suas dificuldades.::
 2175::$$$message_0010_0034_0000$$$::"Vamos começar, Senpai!"[lr]::
-2176::$$$message_0010_0034_0001$$$::"Primeiro, descasque as romãs... Ah, elas têm sementes, então certifique-se de cortá-las na direção certa."[lr]::
-2177::$$$message_0010_0034_0002$$$::"Sim! Vou fazer o meu melhor!"::
+2176::$$$message_0010_0034_0001$$$::"Primeiro, descascamos os caquis... Ah, eles têm sementes, então corte-os na direção certa."[lr]::
+2177::$$$message_0010_0034_0002$$$::"Sim! Vou me esforçar!"::
 �

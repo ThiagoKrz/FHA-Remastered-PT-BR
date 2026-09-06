@@ -4,23 +4,23 @@ id=qid::label=str::text=lstr::
 7139::$$$message_0049_0000_0001$$$::Também é um templo bem famoso, pelo visto. Uma vez, eu perguntei ao Issei sobre as suas origens, e ele me mostrou uma lista tão confusa de nomes em kanji que me fez até ficar tonto.[lr]::
 7140::$$$message_0049_0000_0002$$$::...Não que os residentes normais da cidade liguem. Para eles, isso é apenas um local no qual vêm visitar para orarem em feriados ou quando seus perrengues diários podem usar um pouquinho de ajuda espiritual.[lr]::
 7141::$$$message_0049_0000_0003$$$::E hoje, me deparei com uma devota assim.::
-7142::$$$message_0049_0001_0000$$$::"Ei, Fuji-nee. Você tá aqui pra relaxar?"[lr]::
+7142::$$$message_0049_0001_0000$$$::"Ei, Fuji-Nee. Você tá aqui pra relaxar?"[lr]::
 7143::$$$message_0049_0001_0001$$$::"Mrgh. E o que exatamente tem de divertido em escalar todos esses degraus de pedra?"[lr]::
 7144::$$$message_0049_0001_0002$$$::Com certeza é uma longa caminhada desde lá da base da montanha, não resta dúvida.[lr]::
-7145::$$$message_0049_0001_0003$$$::[clfg textoff=0 rule='ƟƟ'Ɵ?<'% pos=all time=300]E o mero fato de que ela tenha subido tudo isso sem perder o fôlego diz muito do vigor da Fuji-nee.::
+7145::$$$message_0049_0001_0003$$$::[clfg textoff=0 rule=シャッター左から pos=all time=300]E o mero fato de que ela tenha subido tudo isso sem perder o fôlego diz muito do vigor da Fuji-Nee.::
 7146::$$$message_0049_0002_0000$$$::"Mas cê sabe, Shirou, aposto que você conseguiria subir pulando esses degraus igual coelho, e sem suar uma gota."[lr]::
 7147::$$$message_0049_0002_0001$$$::"Os meus joelhos iriam ceder muito antes de chegar na metade disso."[lr]::
 7148::$$$message_0049_0002_0002$$$::"Hã? E não é essa criançada de hoje que malha carregando pneus de carro pra cima e pra baixo e veste sandálias de ferro?"[lr]::
 7149::$$$message_0049_0002_0003$$$::E que tipo de doido é que tem sandálias de ferro? É, o Grupo Fujimura lá deve ter.[lr]::
 7150::$$$message_0049_0002_0004$$$::Até consigo visualizar o Vovô Raiga mandando e desmandando naquele lugar tudo calçado com um belo par de sandálias altas de um único dente.::
-7151::$$$message_0049_0003_0000$$$::"Mas e aí o que tu tá fazendo por aqui, Shirou? Eu vou ficar meio preocupada se você me disser que tá vindo aqui orar na sua idade.[l][say storage=ryu0302_tig_0031 name=-??^]::
-7152::$$$message_0049_0003_0001$$$::[chgfg storage=-10a() time=300 textoff=0] Quando foi que eu vim a criar uma criança tão sombria e monótona como você?"[lr]::
-7153::$$$message_0049_0003_0002$$$::"Calma. Nenhuma criança se tornaria tão sem sal sendo criada desse seu jeito aí."[lr]::
+7151::$$$message_0049_0003_0000$$$::"Mas e aí o que tu tá fazendo por aqui, Shirou? Eu vou ficar meio preocupada se você me disser que tá vindo aqui orar na sua idade, Fuji-Nee, Onee-chan.[l][say storage=ryu0302_tig_0031 name=藤ねえ]::
+7152::$$$message_0049_0003_0001$$$::[chgfg storage=藤10a(中) time=300 textoff=0] Quando foi que eu vim a criar uma criança tão sombria e monótona como você?"[lr]::
+7153::$$$message_0049_0003_0002$$$::"Calma. Nenhuma criança se tornaria tão sem sal sendo criada desse seu jeito aí, Fuji-Nee."[lr]::
 7154::$$$message_0049_0003_0003$$$::"Né, verdade? Beleza, hora de seguir com os rituais!"[lr]::
 7155::$$$message_0049_0003_0004$$$::Atravessamos as barreiras juntos e lavamos as nossas mãos num sentido de ritual.::
-7156::$$$message_0049_0004_0000$$$::[clfg textoff=0 rule='ƟƟ'Ɵ?<'% pos=all time=300]Faz muito tempo desde a última vez em que eu e a Fuji-nee fomos a um templo juntos.[lr]::
+7156::$$$message_0049_0004_0000$$$::[clfg textoff=0 rule=シャッター左から pos=all time=300]Faz muito tempo desde a última vez em que eu e a Fuji-Nee fomos a um templo juntos.[lr]::
 7157::$$$message_0049_0004_0001$$$::Acho que foi no ano novo.[lr]::
-7158::$$$message_0049_0004_0002$$$::Ela gosta de vestir um... adorável quimono de mangas compridas para a ocasião, mas essa é uma história pra outra hora.::
+7158::$$$message_0049_0004_0002$$$::Ela gosta de vestir um... adorável quimono de mangas compridas para a ocasião, mas essa é uma história pra outra hora, Fuji-Nee.::
 7159::$$$message_0049_0005_0000$$$::"Ah. Tem uns trocados pra mim?"[lr]::
 7160::$$$message_0049_0005_0001$$$::"...A-acaso aconteceu de eu só ter cinco ienes."[lr]::
 7161::$$$message_0049_0005_0002$$$::"E por favor me diga que você não tem só as de quinhentos caso contrário."[lr]::
@@ -31,31 +31,31 @@ id=qid::label=str::text=lstr::
 7166::$$$message_0049_0006_0000$$$::"..."[lr]::
 7167::$$$message_0049_0006_0001$$$::E agora, orar pra quê?[lr]::
 7168::$$$message_0049_0006_0002$$$::Pra ter segurança num lar? E o percurso de ida e volta do colégio? Ou em ir bem nas provas lá?[lr]::
-7169::$$$message_0049_0006_0003$$$::Dou uma espiada na Fuji-nee pra ver o que ela tá fazendo.::
+7169::$$$message_0049_0006_0003$$$::Dou uma espiada na Fuji-Nee pra ver o que ela tá fazendo.::
 7170::$$$message_0049_0007_0000$$$::"Por favor faça com que o Shirou cresça forte e vigoroso..."[lr]::
 7171::$$$message_0049_0007_0001$$$::...Oh não, isso é meio denso demais.[lr]::
-7172::$$$message_0049_0007_0002$$$::E afinal quando foi que ela andou preocupada sobre isso de mim?::
+7172::$$$message_0049_0007_0002$$$::Fuji-Nee, E afinal quando foi que ela andou preocupada sobre isso de mim?::
 7173::$$$message_0049_0008_0000$$$::"...E também, me faça arrumar um belo dum namorado."[lr]::
-7174::$$$message_0049_0008_0001$$$::Ah... Bem na hora em que eu mesmo tava orando em prol de uma vida mais sã e saudável para ela.[lr]::
-7175::$$$message_0049_0008_0002$$$::Fuji-nee, e esse pedido de cliché barato que cê mandou agora aí.::
-7176::$$$message_0049_0009_0000$$$::"...Sem esquecer também, de salvar o tigre-siberiano da extinção... [cacheimage storage=-10b(')][wvl][chgfg time=300 storage=-10b(') textoff=0]E o tigre-de-bengala, também."[lr]::
-7177::$$$message_0049_0009_0001$$$::E agora ela tá orando lá pelos tigres dela... [l][chgfg time=300 storage=-08f(') textoff=0]Tô tendo uns sentimos embaralhados sobre as minhas preces mais prestimosas com a minha vida sendo comicamente empilhadas junto das dela.::
+7174::$$$message_0049_0008_0001$$$::Ah... Bem na hora em que eu mesmo tava orando em prol de uma vida mais sã e saudável para ela, Fuji-Nee.[lr]::
+7175::$$$message_0049_0008_0002$$$::Fuji-Nee, e esse pedido de cliché barato que cê mandou agora aí.::
+7176::$$$message_0049_0009_0000$$$::"...Sem esquecer também, de salvar o tigre-siberiano da extinção... [cacheimage storage=藤10b(近)][wvl][chgfg time=300 storage=藤10b(近) textoff=0]E o tigre-de-bengala, também."[lr]::
+7177::$$$message_0049_0009_0001$$$::E agora ela tá orando lá pelos tigres dela... [l][chgfg time=300 storage=藤08f(近) textoff=0]Tô tendo uns sentimos embaralhados sobre as minhas preces mais prestimosas com a minha vida sendo comicamente empilhadas junto das dela.::
 7178::$$$message_0049_0010_0000$$$::"O que foi que cê orou, Shirou?"[lr]::
 7179::$$$message_0049_0010_0001$$$::"...Paz no mundo."[lr]::
-7180::$$$message_0049_0010_0002$$$::"Mas você diz isso toda vez. [cacheimage storage=-06b(')][wvl][chgfg storage=-06b(') time=300 textoff=0]Mas por que não pede por uma namoradinha, logo de uma vez?"[lr]::
+7180::$$$message_0049_0010_0002$$$::"Mas você diz isso toda vez. [cacheimage storage=藤06b(近)][wvl][chgfg storage=藤06b(近) time=300 textoff=0]Mas por que não pede por uma namoradinha, logo de uma vez?"[lr]::
 7181::$$$message_0049_0010_0003$$$::Isso ia dar um trabalhão de quebrar cabeça. E não falo nem pra mim, e sim pro deus da montanha. [l]Tendo início na lista que, para os conformes, não é um deus milagreiro focado pra casamento.::
-7182::$$$message_0049_0011_0000$$$::[rep fliplr=0 tops=56,, storages=?^??o?01a(?),?^?."01a(?),-08d(') time=300 flipud=0 lefts=110,, poss=,110,c bg=o.(<)-(~) indexes=1000,2000,3000 opacities=0,0,255]Além do mais... quem será que eu ia querer num relacionamento de namoro comigo?[lr]::
+7182::$$$message_0049_0011_0000$$$::[rep fliplr=0 tops=56,, storages=一成私服01a(遠),一成兄01a(遠),藤08d(近) time=300 flipud=0 lefts=110,, poss=,110,c bg=o境内(秋)-(昼) indexes=1000,2000,3000 opacities=0,0,255]Além do mais... quem será que eu ia querer num relacionamento de namoro comigo?[lr]::
 7183::$$$message_0049_0011_0001$$$::Bem num momento onde as minhas nuvens de pensamentos começaram a vagar, uma voz muito já conhecida vem pra cortar fora os meus transes devaneios.::
-7184::$$$message_0049_0012_0000$$$::"E não é que é o Shirou com a Fujimura Terceira.[lr]::
+7184::$$$message_0049_0012_0000$$$::"E não é que é o Shirou-kun com a Fujimura Terceira.[lr]::
 7185::$$$message_0049_0012_0001$$$::Uma bela manhã para vocês dois. E com certeza um belo dia, hein."[lr]::
-7186::$$$message_0049_0012_0002$$$::"Bom dia, Srta. Fujimura.[lr]::
+7186::$$$message_0049_0012_0002$$$::"Bom dia, Fujimura-Sensei.[lr]::
 7187::$$$message_0049_0012_0003$$$::Bom dia pra você também, Emiya."::
-7188::$$$message_0049_0013_0000$$$::O Issei e o irmão mais velho dele saem por detrás de dentro do templo.[lr]::
-7189::$$$message_0049_0013_0001$$$::A Fuji-nee andava fazendo uma esparro de barulheira que provavalmente vieram ver sobre o que é que era o alvoroço todo ali fora.::
+7188::$$$message_0049_0013_0000$$$::O Issei e o Nii-san dele saem por detrás de dentro do templo, Reikan-san, Onii-san.[lr]::
+7189::$$$message_0049_0013_0001$$$::A Fuji-Nee andava fazendo uma esparro de barulheira que provavalmente vieram ver sobre o que é que era o alvoroço todo ali fora.::
 7190::$$$message_0049_0014_0000$$$::"Alô. Bom dia."[lr]::
-7191::$$$message_0049_0014_0001$$$::"Ah, é o Rei e o seu irmão caçula. Alôo!"[lr]::
-7192::$$$message_0049_0014_0002$$$::A Fuji-nee responde e acena de volta alegremente.[lr]::
-7193::$$$message_0049_0014_0003$$$::Só pra deixar o trocadilho claro, o "Rei" é o Reikan.::
+7191::$$$message_0049_0014_0001$$$::"Ah, é o Rei-chan e o seu irmão caçula. Alôo, Ryuudou-kun!"[lr]::
+7192::$$$message_0049_0014_0002$$$::A Fuji-Nee responde e acena de volta alegremente.[lr]::
+7193::$$$message_0049_0014_0003$$$::Só pra deixar o trocadilho claro, o "Rei-chan" é o Rei-chan, Reikan-san.::
 7194::$$$message_0049_0015_0000$$$::"Ha ha ha. Sou muito grato por saber que você anda vivinha e agitada da silva como tem sido sempre.[lr]::
 7195::$$$message_0049_0015_0001$$$::Vê se então vieram dar aquela bela prestada nos seus respeitos. Hum-rum. Fico grato que tenham se dignado a vir aqui hoje.[lr]::
 7196::$$$message_0049_0015_0002$$$::E ainda deveríamos à família Fujimura o máximo de amparo que tivemos de ajuda no percurso desse verão. Me permitam de agradecer a vocês dois pela mesma parte do meu velho e sábio pai. E se quer saberem mais ele deve vir dar as boas vindas para vocês dois muito em breve também."::
@@ -67,64 +67,64 @@ id=qid::label=str::text=lstr::
 7202::$$$message_0049_0017_0001$$$::Ele disse pra trazer uma carreta cheia de bufunfa viva num cofre nas vésperas de ano novo pra vir estragar e dar uma bela de uma lição nesse velhote caduco daqui de Ryudou."[lr]::
 7203::$$$message_0049_0017_0002$$$::"Ué, mas essa aí me alegra bastante a alma. E já não é mais segredo de ninguém pra nós todos que ele sempre tem sido mesmo de natureza gananciosa do que as pessoas em si na média comum. É, acho que nós poderíamos de certa maneira sermos mais felizes no trabalho em esvaziar todo esse mar de dinheirama dos cofres lá do seu avô também."::
 7204::$$$message_0049_0018_0000$$$::Uma forte onda sonora de risadas de tom calmo e caloroso do Reikan ecoa por todos os rincões do entorno do templo.[lr]::
-7205::$$$message_0049_0018_0001$$$::...O que me enche de espanto assustador é esse simples fato do pai do Issei ser das rodinhas do Vovô Raiga de longa data de uma amizade idosa bem raiz. [l]Sem contar dessa bizarra união que o Vovô fez também que a Fuji-nee, o Reikan, e o Neko terem caído nas mesmas salas e turmas de classe do primário no antigo tempo de ensino fundamental.[lr]::
+7205::$$$message_0049_0018_0001$$$::...O que me enche de espanto assustador é esse simples fato do pai do Issei ser das rodinhas do Vovô Raiga de longa data de uma amizade idosa bem raiz. [l]Sem contar dessa bizarra união que o Vovô fez também que a Fuji-Nee, o Reikan-san, e o Neko-san terem caído nas mesmas salas e turmas de classe do primário no antigo tempo de ensino fundamental.[lr]::
 7206::$$$message_0049_0018_0002$$$::E pelo que os rumores ditam por aí afora, eles por acaso não seriam esse grupo sombrio do tal cabal que dita as leis debaixo dos panos sob Miyama...!::
 7207::$$$message_0049_0019_0000$$$::"...Emiya, e por que os seus dentes andam rangendo e tremendo tanto aí?"[lr]::
 7208::$$$message_0049_0019_0001$$$::"O-O vento gelado daqui, é, pois é isso, só um frio a mais."[lr]::
-7209::$$$message_0049_0019_0002$$$::"Meu vovô e o seu pai ambos também partilham do gosto carinhoso para com o Shirou.[lr]::
-7210::$$$message_0049_0019_0003$$$::[chgfg storage=-05a() time=400]Já sei! Ele poderia muito bem aparecer de surpresa lá em casa pra tomarmos ele numa boa reeducação regida à moda antiga."[lr]::
+7209::$$$message_0049_0019_0002$$$::"Meu vovô e o seu pai ambos também partilham do gosto carinhoso para com o Shirou, Rei-chan.[lr]::
+7210::$$$message_0049_0019_0003$$$::[chgfg storage=藤05a(中) time=400]Já sei! Ele poderia muito bem aparecer de surpresa lá em casa pra tomarmos ele numa boa reeducação regida à moda antiga, Ryuudou-kun."[lr]::
 7211::$$$message_0049_0019_0004$$$::"Nngh...!"[lr]::
 7212::$$$message_0049_0019_0005$$$::Reeducação regida à moda antiga!? E de que [font italic=true]outro[font italic=false] modo vão vir tentar encher a minha cabeça dessa laia de novo!?[lr]::
 7213::$$$message_0049_0019_0006$$$::Seria num estilo mais cavalheiresco envolto de orações zen meditando as virtudes? Ah não, quem eu quero enganar, já é com cereteza jogatina nas máquinas ilegais ou cantarem hinos na batata das costas do Buda!?::
 7214::$$$message_0049_0020_0000$$$::"De forma alguma pare com isso, Terceira.[lr]::
-7215::$$$message_0049_0020_0001$$$::O Shirou está indo no caminho de forma brilhante por si próprio. E eu estenderia em dizer até a ele que este garotão formidável e robusto em um jovem homem tem tido uma proeza com a pena bem afiada tal quanto também nas artes de segurar no punho da espada."::
+7215::$$$message_0049_0020_0001$$$::O Shirou-kun está indo no caminho de forma brilhante por si próprio. E eu estenderia em dizer até a ele que este garotão formidável e robusto em um jovem homem tem tido uma proeza com a pena bem afiada tal quanto também nas artes de segurar no punho da espada."::
 7216::$$$message_0049_0021_0000$$$::"Sério, você mesmo acha isso dele?[lr]::
-7217::$$$message_0049_0021_0001$$$::Pra mim ele só parece não estar com os miolos perfeitamente passados do fogo ainda. Bem que eu adoraria muito saber de que pudesse tomar suas próprias posições com uma boa encorpada, cê não acha? Igual a você, Rei."[lr]::
-7218::$$$message_0049_0021_0002$$$::"Dá um tempo pra mim também vai. Eu tô cursando no colegial do ensino médio! Tu também não me manda essa pra me pôr num comparativo que seja do pé da estampa da idade do Reikan."::
+7217::$$$message_0049_0021_0001$$$::Pra mim ele só parece não estar com os miolos perfeitamente passados do fogo ainda. Bem que eu adoraria muito saber de que pudesse tomar suas próprias posições com uma boa encorpada, cê não acha? Igual a você, Rei-chan."[lr]::
+7218::$$$message_0049_0021_0002$$$::"Dá um tempo pra mim também vai. Eu tô cursando no colegial do ensino médio! Tu também não me manda essa pra me pôr num comparativo que seja do pé da estampa da idade do Reikan-san."::
 7219::$$$message_0049_0022_0000$$$::"Nada disso que cê disse![lr]::
-7220::$$$message_0049_0022_0001$$$::O que não seria lá numa daquelas vezes no ensino médio, e com isso vieram aquele bonde dos parceiros metidos do meu irmão onde foram emboscar num bando em cima do Rei, mas, ele num pingo de suor nenhum, lá e de boa que nem estivesse acontecendo com ele mandou no modo default de 'Ha ha ha'.[lr]::
+7220::$$$message_0049_0022_0001$$$::O que não seria lá numa daquelas vezes no ensino médio, e com isso vieram aquele bonde dos parceiros metidos do Nii-san onde foram emboscar num bando em cima do Rei-chan, mas, ele num pingo de suor nenhum, lá e de boa que nem estivesse acontecendo com ele mandou no modo default de 'Ha ha ha', Onii-san.[lr]::
 7221::$$$message_0049_0022_0002$$$::Ainda que ele levasse um belo de um chute no traseiro muito bem merecido das pancadas neles depois, na verdade."::
 7222::$$$message_0049_0023_0000$$$::"Nessa eles com certeza me pegaram de jeito.[lr]::
 7223::$$$message_0049_0023_0001$$$::E de se perguntar o porquê, eu só acabei descobrindo o que é que era o babado dessa treta aí que queriam arranjar da caça no dia em que a Taiga me deu as caras lá no leito do hospital só pra se certificar de eu estar inteiro![lr]::
 7224::$$$message_0049_0023_0002$$$::Obviamente que, eu também estava em meus caminhos árduos em muito ainda o que tentar aprender a ser em um monge pra ter me levado isso lá como se fosse uma saudação grata e gentil daquela lá de que tudo aquilo ali fosse uma recompensa pelo mérito meu só porque lhe mandei pedir à Taiga que fossemos tentar sair em um belo par de encontro depois da aula!"::
 7225::$$$message_0049_0024_0000$$$::O Monge e a tigresa caem numa gargalhada barulhenta muito alta e calorosa e escandalosa entre si mesmos.[lr]::
 7226::$$$message_0049_0024_0001$$$::...Uau.[lr]::
-7227::$$$message_0049_0024_0002$$$::Acho que acabei de ficar maravilhado sendo espectador dum sujeito que consegue ter uma certa desenvoltura imensamente inusitada perante a Fuji-nee, só que num tipo ou de maneiras inimagináveis do que qualquer um achava.::
-7228::$$$message_0049_0025_0000$$$::"...O Reikan é alguém impressionante. Ele é, tipo, simplesmente... esmagador."[lr]::
-7229::$$$message_0049_0025_0001$$$::E pra falar, se toma é alguém sem tabus e de cabeça pura de verdade ou sem um medo ou uma audácia nas ventas o bastante pra se achar digno de arrumar a cara-de-pau no convite em levar a Fuji-nee sair de braços dados num convite desses aí pra que ela decida namorá-lo à altura.::
+7227::$$$message_0049_0024_0002$$$::Acho que acabei de ficar maravilhado sendo espectador dum sujeito que consegue ter uma certa desenvoltura imensamente inusitada perante a Fuji-Nee, só que num tipo ou de maneiras inimagináveis do que qualquer um achava.::
+7228::$$$message_0049_0025_0000$$$::"...O Reikan-san é alguém impressionante. Ele é, tipo, simplesmente... esmagador."[lr]::
+7229::$$$message_0049_0025_0001$$$::E pra falar, se toma é alguém sem tabus e de cabeça pura de verdade ou sem um medo ou uma audácia nas ventas o bastante pra se achar digno de arrumar a cara-de-pau no convite em levar a Fuji-Nee sair de braços dados num convite desses aí pra que ela decida namorá-lo à altura.::
 7230::$$$message_0049_0026_0000$$$::"É, esse daí sendo o porquê de eu carregar esse espelho formidável nele.[lr]::
 7231::$$$message_0049_0026_0001$$$::E que tal, Emiya? Bota teus pés pra viver na montanha também. Nós dois muito bem juntos um dia vamos desfrutar na honra se inspirando na caminhada formosa tal igual a do Reikan."::
 7232::$$$message_0049_0027_0000$$$::De repente, o Issei me convida a morar com ele.[lr]::
-7233::$$$message_0049_0027_0001$$$::A Fuji-nee também parece pronta pra me leiloar por quem der mais.[lr]::
+7233::$$$message_0049_0027_0001$$$::A Fuji-Nee também parece pronta pra me leiloar por quem der mais.[lr]::
 7234::$$$message_0049_0027_0002$$$::Bom, até que eu cogito que eu viver por esses lados formaria um caráter, mas... Ehn?[lr]::
 7235::$$$message_0049_0027_0003$$$::O Issei, de modo abrupto para de rir e ajeita mais numa postura ereta.::
 7236::$$$message_0049_0028_0000$$$::"Você está aqui, Souichirou."[lr]::
 7237::$$$message_0049_0028_0001$$$::"Foi-me feito para lhes transmitir uma mensagem a seu irmão.[lr]::
-7238::$$$message_0049_0028_0002$$$::...Bom dia, Srta. Fujimura. Emiya."[lr]::
+7238::$$$message_0049_0028_0002$$$::...Bom dia, Fujimura-Sensei. Emiya."[lr]::
 7239::$$$message_0049_0028_0003$$$::"Ah."[lr]::
-7240::$$$message_0049_0028_0004$$$::Ah, pior, eu me esqueci que o Sr. Kuzuki mora aqui também.[lr]::
+7240::$$$message_0049_0028_0004$$$::Ah, pior, eu me esqueci que o Kuzuki-Sensei mora aqui também.[lr]::
 7241::$$$message_0049_0028_0005$$$::Sempre que eu vejo sua forma esguia surgir, ele passa um ar de intimidação que me torna difícil proferir as palavras.::
-7242::$$$message_0049_0029_0000$$$::"Oi, Sr. Kuzuki."[lr]::
+7242::$$$message_0049_0029_0000$$$::"Oi, Kuzuki-Sensei."[lr]::
 7243::$$$message_0049_0029_0001$$$::"Obrigado por suas instruções, como sempre."[lr]::
 7244::$$$message_0049_0029_0002$$$::"Meus agradecimentos a vocês dois também. Fiquem à vontade.[lr]::
 7245::$$$message_0049_0029_0003$$$::Reikan, o seu pai está na linha do telefone."::
 7246::$$$message_0049_0030_0000$$$::"Oh, muito obrigado por ter vindo todo o caminho para me avisar.[lr]::
-7247::$$$message_0049_0030_0001$$$::A gente se vê depois, Terceira e Shirou. Passem bem e tenham um bom dia.[lr]::
+7247::$$$message_0049_0030_0001$$$::A gente se vê depois, Terceira e Shirou-kun. Passem bem e tenham um bom dia.[lr]::
 7248::$$$message_0049_0030_0002$$$::Venha comigo, Issei. Nas prováveis chances ele de tentar que eu resolva algumas irracionalidades avulsas novamente. Não posso cuidar disso sozinho."[lr]::
 7249::$$$message_0049_0030_0003$$$::"S-sim, prestarei na ajuda do máximo que puder.[lr]::
 7250::$$$message_0049_0030_0004$$$::Pois então eu já vou me retirando de imediato."[lr]::
-7251::$$$message_0049_0030_0005$$$::O Issei se curva solenemente de forma respeitosa e vai acompanhando o Reikan, de saída.::
+7251::$$$message_0049_0030_0005$$$::O Issei se curva solenemente de forma respeitosa e vai acompanhando o Reikan-san, de saída.::
 7252::$$$message_0049_0031_0000$$$::"...Ufa."[lr]::
 7253::$$$message_0049_0031_0001$$$::Ainda sem refletir nos pensamentos eu afrouxo relaxando toda a guarda.[lr]::
-7254::$$$message_0049_0031_0002$$$::O Reikan é tão amistoso, mas ele exala uma aura austera.[lr]::
-7255::$$$message_0049_0031_0003$$$::O que não foge de Issei ou do Sr. Kuzuki, na verdade. Por acaso os templos budistas são um ímã pra pessoas como eles?::
-7256::$$$message_0049_0032_0000$$$::"Nós também estamos de saída, Sr. Kuzuki."[lr]::
+7254::$$$message_0049_0031_0002$$$::O Reikan-san é tão amistoso, mas ele exala uma aura austera.[lr]::
+7255::$$$message_0049_0031_0003$$$::O que não foge de Issei ou do Kuzuki-Sensei, na verdade. Por acaso os templos budistas são um ímã pra pessoas como eles, Reikan-san?::
+7256::$$$message_0049_0032_0000$$$::"Nós também estamos de saída, Kuzuki-Sensei."[lr]::
 7257::$$$message_0049_0032_0001$$$::"...Perdoem-me a intromissão nas conversas.[lr]::
 7258::$$$message_0049_0032_0002$$$::Isso foi um momento bastante infeliz, mas sintam-se bem-vindos a retornar novamente. Tenho certeza que isso ia fazer o Issei feliz."[lr]::
 7259::$$$message_0049_0032_0003$$$::"Com certezas. Adeus."[lr]::
-7260::$$$message_0049_0032_0004$$$::Fuji-nee e a mim indo e saindo a descer e deixando a parte principal do templo voltando para o pátio.::
+7260::$$$message_0049_0032_0004$$$::Fuji-Nee e a mim indo e saindo a descer e deixando a parte principal do templo voltando para o pátio.::
 7261::$$$message_0049_0033_0000$$$::"Ahhh... Dessa não vi vindo.[lr]::
-7262::$$$message_0049_0033_0001$$$::O Sr. Kuzuki mora aqui, não é mesmo?"[lr]::
+7262::$$$message_0049_0033_0001$$$::O Kuzuki-Sensei mora aqui, não é mesmo?"[lr]::
 7263::$$$message_0049_0033_0002$$$::"É pois sim. Os três parece até que são irmãos de verdade."[lr]::
 7264::$$$message_0049_0033_0003$$$::"É verdade. E aí, acha que nós parecemos com irmãos de verdade?"::
 7265::$$$message_0049_0034_0000$$$::...Espero que sim. Isso me faria feliz.[lr]::
@@ -134,6 +134,6 @@ id=qid::label=str::text=lstr::
 7269::$$$message_0049_0035_0001$$$::E você, Shirou?"[lr]::
 7270::$$$message_0049_0035_0002$$$::"Vou dar uma andadinha rápida e ralar pra casa. Quero voltar pelas colinas nos fundos daqui."[lr]::
 7271::$$$message_0049_0035_0003$$$::"Nn-rum. Certo. Só não preocupe comigo hoje pelo almoço."::
-7272::$$$message_0049_0036_0000$$$::Fuji-nee e eu nos despedimos e ela vai lá. Sou eu que fico na sozinhez e nos pátios do templo.[lr]::
+7272::$$$message_0049_0036_0000$$$::Fuji-Nee e eu nos despedimos e ela vai lá. Sou eu que fico na sozinhez e nos pátios do templo.[lr]::
 7273::$$$message_0049_0036_0001$$$::E agora, o que fazer em seguida...::
-907194::907194::$$$message_9049_0015_0000$$$::"Ha ha ha. Sou muito grato por saber que você anda vivinha e agitada da silva como tem sido sempre."[r]::
+907194::$$$message_9049_0015_0000$$$::"Ha ha ha. Fico feliz em ver que você continua animada como sempre."[r]::

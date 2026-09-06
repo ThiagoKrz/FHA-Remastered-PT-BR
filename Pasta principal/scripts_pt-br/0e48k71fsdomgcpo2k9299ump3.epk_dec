@@ -12,7 +12,7 @@ id=qid::label=str::text=lstr::
 14720::$$$message_0116_0003_0001$$$::"Hã...? Não precisa... Além disso, você já está no limite, não está?"[lr]::
 14721::$$$message_0116_0003_0002$$$::"É verdade, mas... isso aqui não parece uma parede para mim. Se eu espremer meu corpo para o lado, sinto que consigo ganhar mais esse tantinho de espaço..."::
 14722::$$$message_0116_0004_0000$$$::"O quê...? Ah, não, não se mexa![lr]::
-14723::$$$message_0116_0004_0001$$$::Mesmo que você conseguisse abrir espaço, o tamanho da caixa não vai mudar. Se você se apertar sozinho, o equilíbrio do espaço vai ficar todo bagunçado."::
+14723::$$$message_0116_0004_0001$$$::Mesmo que Emiya-kun conseguisse abrir espaço, o tamanho da caixa não vai mudar. Se você se apertar sozinho, o equilíbrio do espaço vai ficar todo bagunçado."::
 14724::$$$message_0116_0005_0000$$$::"Entendo. Mas você está bem assim?[lr]::
 14725::$$$message_0116_0005_0001$$$::...Você parece estar sofrendo."[lr]::
 14726::$$$message_0116_0005_0002$$$::"...Não precisa se preocupar. Não é como se eu estivesse sofrendo por ser claustrofóbica."[lr]::
@@ -24,7 +24,7 @@ id=qid::label=str::text=lstr::
 14732::$$$message_0116_0006_0003$$$::Eu também estou começando a ficar incapaz de esticar totalmente meus braços e pernas, e não é que esteja particularmente úmido, mas o fato de a temperatura dentro da caixa estar subindo está me deixando preocupado também.::
 14733::$$$message_0116_0007_0000$$$::"Já é quase uma da tarde... Você está bem, Tohsaka?"[lr]::
 14734::$$$message_0116_0007_0001$$$::"E-Eu... [small]não estou nada bem.[rf][lr]::
-14735::$$$message_0116_0007_0002$$$::...Você até que está bem calmo."[lr]::
+14735::$$$message_0116_0007_0002$$$::...Emiya-kun até que está bem calmo."[lr]::
 14736::$$$message_0116_0007_0003$$$::Não há energia nenhuma na resposta dela.[lr]::
 14737::$$$message_0116_0007_0004$$$::...Isso é ruim. Eu estava otimista de que a Saber ou a Sakura viriam se passasse mais uma hora, mas parece que não vai ser o caso.::
 14738::$$$message_0116_0008_0000$$$::"[line len=3]Certo.[lr]::
@@ -36,7 +36,7 @@ id=qid::label=str::text=lstr::
 14744::$$$message_0116_0010_0001$$$::"[line len=3]Dá pra chegar na conclusão logo?"::
 14745::$$$message_0116_0011_0000$$$::"É o oposto do usual.[lr]::
 14746::$$$message_0116_0011_0001$$$::Em outras palavras, você não deve tentar abrir a tampa pelo lado de dentro.[lr]::
-14747::$$$message_0116_0011_0002$$$::If we roll this treasure box and if the lid gets stuck on something, I figured it would open from the outside[line len=3]"::
+14747::$$$message_0116_0011_0002$$$::Se rolarmos esta caixa de tesouro e a tampa prender em alguma coisa, imaginei que ela abriria pelo lado de fora[line len=3]"::
 14748::$$$message_0116_0012_0000$$$::Eu leio o rosto da Tohsaka.[lr]::
 14749::$$$message_0116_0012_0001$$$::Achei que ela ia disparar um motivo atrás do outro para recusar.::
 14750::$$$message_0116_0013_0000$$$::"É, isso seria melhor do que depender [font italic=true]daquilo[font italic=false]."[lr]::
@@ -124,8 +124,8 @@ id=qid::label=str::text=lstr::
 14832::$$$message_0116_0034_0003$$$::"[line len=3]O quê?"::
 14833::$$$message_0116_0035_0000$$$::Tohsaka encara a varinha que emite uma luz vermelha opaca.[lr]::
 14834::$$$message_0116_0035_0001$$$::O Kaleidostick pisca, como se estivesse rindo.::
-14835::$$$message_0116_0036_0000$$$::"Heh[line len=3]heheheh, que excelente, Rin![lr]::
-14836::$$$message_0116_0036_0001$$$::Você amadureceu tanto (e de forma bem irritante) em apenas seis anos! [cacheimage storage=カレイドステッキ(あおり)][wvl canskip=0 time=600][wm canskip=0][se storage=se083.wav][movefg opacity=255 left=2 top=-722 time=300 accel=3 storage=カレイドステッキ(あおり)][wm canskip=0][move time=300 path=(118,49,128)(118,-46,255)(118,28,255)(118,2,255) storage=カレイドステッキ(マイルド)01b accel=-2][wvl canskip=0 time=400][stophaze][se storage=irse003.wav][playstop time=200 nowait=1][sestop storage=se167.wav time=100 nowait=1][dash textoff=0 hidefg=0 mx=0 opacity=255 layer=base irot=-0.0 cx=400 imag=6.1 time=1000 cy=300 mag=1 my=0 storage=ルビーちゃん感激です rot=-0.0 accel=0] A Ruby está impressionada!"::
+14835::$$$message_0116_0036_0000$$$::"Heh[line len=3]heheheh, que excelente, Rin-san![lr]::
+14836::$$$message_0116_0036_0001$$$::Você amadureceu tanto (e de forma bem irritante) em apenas seis anos! [cacheimage storage=カレイドステッキ(あおり)][wvl canskip=0 time=600][wm canskip=0][se storage=se083.wav][movefg opacity=255 left=2 top=-722 time=300 accel=3 storage=カレイドステッキ(あおり)][wm canskip=0][move time=300 path=(118,49,128)(118,-46,255)(118,28,255)(118,2,255) storage=カレイドステッキ(マイルド)01b accel=-2][wvl canskip=0 time=400][stophaze][se storage=irse003.wav][playstop time=200 nowait=1][sestop storage=se167.wav time=100 nowait=1][dash textoff=0 hidefg=0 mx=0 opacity=255 layer=base irot=-0.0 cx=400 imag=6.1 time=1000 cy=300 mag=1 my=0 storage=ルビーちゃん感激です rot=-0.0 accel=0] A Ruby-chan está impressionada!"::
 14837::$$$message_0116_0037_0000$$$::"[line len=3]O quê?"[lr]::
 14838::$$$message_0116_0037_0001$$$::A voz de uma garota[line len=2]alegre porém travessa, madura porém juvenil, e que soa como se ficasse bem de avental[line len=2]ecoa por toda a minha cabeça.::
 14839::$$$message_0116_0038_0000$$$::"...Você não mudou quase nada. Ficou coberta de poeira por seis anos, então podia refletir um pouco mais sobre si mesma."[lr]::
@@ -137,7 +137,7 @@ id=qid::label=str::text=lstr::
 14845::$$$message_0116_0039_0003$$$::Tohsaka. Parece que tem uma varinha falando comigo."::
 14846::$$$message_0116_0040_0000$$$::"Ela está falando. De verdade. Esta é uma varinha falante."[lr]::
 14847::$$$message_0116_0040_0001$$$::"Oh, com licença ali.[lr]::
-14848::$$$message_0116_0040_0002$$$::Prazer em te conhecer, Shirou. Meu nome é Magical Ruby, um espírito natural artificial que pode falar pelas funções, princípios e emoções do Kaleidostick.[lr]::
+14848::$$$message_0116_0040_0002$$$::Prazer em te conhecer, Shirou-san. Meu nome é Magical Ruby, um espírito natural artificial que pode falar pelas funções, princípios e emoções do Kaleidostick.[lr]::
 14849::$$$message_0116_0040_0003$$$::Por favor, sinta-se à vontade para me chamar de Ruby[heart]"::
 14850::$$$message_0116_0041_0000$$$::"...Entendi. Obrigado pela explicação detalhada."[lr]::
 14851::$$$message_0116_0041_0001$$$::...Certo.[lr]::
@@ -147,7 +147,7 @@ id=qid::label=str::text=lstr::
 14855::$$$message_0116_0042_0001$$$::Foi só uma coincidência você ter ficado coberta de sangue.[lr]::
 14856::$$$message_0116_0042_0002$$$::Mesmo que eu ficasse trancado nesta caixa pelo resto da minha vida, não tenho a menor intenção de fazer um contrato com você."::
 14857::$$$message_0116_0043_0000$$$::"Tudo bem, então.[lr]::
-14858::$$$message_0116_0043_0001$$$::Estou ciente do seu pedido."[lr]::
+14858::$$$message_0116_0043_0001$$$::Estou ciente do Rin-san pedido."[lr]::
 14859::$$$message_0116_0043_0002$$$::O Kaleidostick sorri.[lr]::
 14860::$$$message_0116_0043_0003$$$::...Oh, até que ela entende.::
 14861::$$$message_0116_0044_0000$$$::"Então, vamos resolver isso logo com uma negociação![lr]::
@@ -158,7 +158,7 @@ id=qid::label=str::text=lstr::
 14866::$$$message_0116_0045_0000$$$::"Você continua sem função de recepção, sua varinha estúpida... Tanto faz. Eu [font italic=true]nunca, jamais[font italic=false] farei um contrato com você de novo."[lr]::
 14867::$$$message_0116_0045_0001$$$::Tohsaka vira o rosto.[lr]::
 14868::$$$message_0116_0045_0002$$$::Ah, ela deu um chute nela.::
-14869::$$$message_0116_0046_0000$$$::"...Não, mais importante, Tohsaka, por 'de novo' você quer dizer[line len=2]"::
+14869::$$$message_0116_0046_0000$$$::"...Não, mais importante, Tohsaka, por 'de novo' você quer dizer[line len=2]"[lr]::
 14870::$$$message_0116_0046_0001$$$::"Sim. Eu já fiz um contrato com essa coisa antes.[lr]::
 14871::$$$message_0116_0046_0002$$$::É o que você chamaria de erros cometidos na juventude. Depois que meu pai faleceu, encontrei essa coisa enquanto organizava os pertences dele. Tinha um manual, e quando fiz o contrato me perguntando o que era..."[lr]::
 14872::$$$message_0116_0046_0003$$$::"...O que aconteceu quando você fez o contrato?[lr]::
@@ -174,20 +174,20 @@ id=qid::label=str::text=lstr::
 14882::$$$message_0116_0050_0002$$$::Então os únicos que sabem a verdade são os amigos da Tohsaka na época e esta varinha.[lr]::
 14883::$$$message_0116_0050_0003$$$::"...Entendo... De qualquer forma, isso significa que não devemos nos envolver com ela."[lr]::
 14884::$$$message_0116_0050_0004$$$::Essa coisa é definitivamente um item amaldiçoado.::
-14885::$$$message_0116_0051_0000$$$::"Não, é um mal-entendido, Shirou![lr]::
-14886::$$$message_0116_0051_0001$$$::O motivo da Rin ter perdido os amigos foi culpa dela mesma. Isso não foi responsabilidade minha!"[lr]::
+14885::$$$message_0116_0051_0000$$$::"Não, é um mal-entendido, Shirou-san![lr]::
+14886::$$$message_0116_0051_0001$$$::O motivo da Rin-san ter perdido os amigos foi culpa dela mesma. Isso não foi responsabilidade minha!"[lr]::
 14887::$$$message_0116_0051_0002$$$::"Não é uma questão de mal-entendido.[lr]::
 14888::$$$message_0116_0051_0003$$$::Se você vai alegar inocência, então seja clara sobre o que fez comigo e o que aconteceu naquele dia."::
-14889::$$$message_0116_0052_0000$$$::"Tudo o que você fez foi sair pela cidade e subir no palco do parque onde todo mundo se reúne.[lr]::
+14889::$$$message_0116_0052_0000$$$::"Tudo o que Rin-san fez foi sair pela cidade e subir no palco do parque onde todo mundo se reúne.[lr]::
 14890::$$$message_0116_0052_0001$$$::Como uma idol dos anos 80. [cacheimage storage=カレイドステッキ(マイルド)04][wvl canskip=0 time=400][chgfg textoff=0 time=200 storage=カレイドステッキ(マイルド)04]Tipo, 'Oi pessoal, obrigada por se reunirem por mim hoje!' [cacheimage storage=カレイドステッキ(マイルド)02][wvl canskip=0 time=400][chgfg textoff=0 time=200 storage=カレイドステッキ(マイルド)02] Esse tipo de coisa.[lr]::
-14891::$$$message_0116_0052_0002$$$::Todo mundo ficou totalmente desinteressado, mas você parecia estar se divertindo do começo ao fim[heart]"::
+14891::$$$message_0116_0052_0002$$$::Todo mundo ficou totalmente desinteressado, mas Rin-san parecia estar se divertindo do começo ao fim[heart]"::
 14892::$$$message_0116_0053_0000$$$::"..."[lr]::
 14893::$$$message_0116_0053_0001$$$::O que é esse trauma mental que dói só de pensar?::
 14894::$$$message_0116_0054_0000$$$::"...E-Eu sei disso. Eu peguei uma das crianças que estava fugindo e perguntei. O problema é por que eu fiz tal coisa."[lr]::
 14895::$$$message_0116_0054_0001$$$::"Ah, o motivo é claro.[lr]::
-14896::$$$message_0116_0054_0002$$$::Você me usou e se transformou na 'Rin que é boa em cantar'."[lr]::
+14896::$$$message_0116_0054_0002$$$::Você me usou e se transformou na 'Rin-san que é boa em cantar'."[lr]::
 14897::$$$message_0116_0054_0003$$$::"[line len=3]Hã?"::
-14898::$$$message_0116_0055_0000$$$::"Sim. Você estava adorável naquele dia.[lr]::
+14898::$$$message_0116_0055_0000$$$::"Sim. Rin-san estava adorável naquele dia.[lr]::
 14899::$$$message_0116_0055_0001$$$::Você estava se sentindo mal porque riram de você por ter soluçado bem na melhor parte enquanto cantava.[lr]::
 14900::$$$message_0116_0055_0002$$$::'Eu tenho que ser a melhor no canto', [wvl canskip=0 time=400]você disse. Eu fiquei comovida ao ver você chorando enquanto praticava, [cacheimage storage=カレイドステッキ(あおり),カレイドステッキ(マイルド)02][wvl][movefg textoff=0 opacity=255 left=0 top=152 time=200 accel=2 storage=カレイドステッキ(あおり)][movefg textoff=0 opacity=255 left=-594 top=-44 time=200 accel=0 storage=カレイドステッキ(マイルド)02][wm canskip=0][wm canskip=0][movefg textoff=0 opacity=255 left=0 top=-36 time=8000 accel=0 storage=カレイドステッキ(あおり)]então pensei que deveria brincar com você, [wvl canskip=0 time=500]quero dizer, te ajudar."::
 14901::$$$message_0116_0056_0000$$$::"O-Os detalhes não importam![lr]::
@@ -195,11 +195,11 @@ id=qid::label=str::text=lstr::
 14903::$$$message_0116_0057_0000$$$::"Como eu disse, transformar é transformar.[lr]::
 14904::$$$message_0116_0057_0001$$$::Eu sou o Kaleidostick, o Código Místico feliz e sem igual criado pelo Zelretch, que viaja através de mundos paralelos![lr]::
 14905::$$$message_0116_0057_0002$$$::Devo chamar esta habilidade de 'Prism Trance'?[lr]::
-14906::$$$message_0116_0057_0003$$$::Sou um item lírico de pesadelos que permite à usuária, Rin, trocar suas habilidades com outra Rin!"::
+14906::$$$message_0116_0057_0003$$$::Sou um item lírico de pesadelos que permite à usuária, Rin-san, trocar suas habilidades com outra Rin-san!"::
 14907::$$$message_0116_0058_0000$$$::[font italic=true]...Hã?[font italic=false][lr]::
 14908::$$$message_0116_0058_0001$$$::[font italic=true]As habilidades de outra Tohsaka, com esta Tohsaka... O quê?[font italic=false]::
 14909::$$$message_0116_0059_0000$$$::"...Não pode ser. Então, você quer dizer que eu realmente me transformei!?"[lr]::
-14910::$$$message_0116_0059_0001$$$::"Heh heh heh. Como esperado da chefe da família Tohsaka, você entendeu bem a minha explicação. [l][say storage=cty0224_maj_0101 name=マジカルルビー][wm canskip=0][chgfg textoff=0 time=200 storage=カレイドステッキ(マイルド)01b][chgfg textoff=0 time=100 storage=カレイドステッキ(マイルド)01a][chgfg textoff=0 time=200 storage=カレイドステッキ(マイルド)01b]Ruby está surpresa. [l][say storage=cty0224_maj_0102 name=マジカルルビー][chgfg textoff=0 time=300 storage=カレイドステッキ(マイルド)03]Na verdade, eu queria manter isso vago assim. [move textoff=0 time=180 path=(348,36,255)(348,19,255) storage=カレイドステッキ(マイルド)03 accel=-2]Teehee."::
+14910::$$$message_0116_0059_0001$$$::"Heh heh heh. Como esperado da chefe da família Tohsaka, você entendeu bem a minha explicação. [l][say storage=cty0224_maj_0101 name=マジカルルビー][wm canskip=0][chgfg textoff=0 time=200 storage=カレイドステッキ(マイルド)01b][chgfg textoff=0 time=100 storage=カレイドステッキ(マイルド)01a][chgfg textoff=0 time=200 storage=カレイドステッキ(マイルド)01b]Ruby-chan está surpresa. [l][say storage=cty0224_maj_0102 name=マジカルルビー][chgfg textoff=0 time=300 storage=カレイドステッキ(マイルド)03]Na verdade, eu queria manter isso vago assim. [move textoff=0 time=180 path=(348,36,255)(348,19,255) storage=カレイドステッキ(マイルド)03 accel=-2]Teehee."::
 14911::$$$message_0116_0060_0000$$$::Ela sorri dizendo que desiste... Uma voz assim... pertence ao Kaleidostick, não, à Magical Ruby.[lr]::
 14912::$$$message_0116_0060_0001$$$::Eu repito, mas só a voz dela já é catastroficamente adorável.::
 14913::$$$message_0116_0061_0000$$$::"...Não, não se deixe enganar.[lr]::
@@ -208,20 +208,20 @@ id=qid::label=str::text=lstr::
 14916::$$$message_0116_0061_0003$$$::É difícil de acreditar, mas esta varinha... O Kaleidostick é um item que pode transformar a usuária."::
 14917::$$$message_0116_0062_0000$$$::"Por exemplo, eu tento preparar um chá delicioso para você. Mas eu não sei preparar chá direito.[lr]::
 14918::$$$message_0116_0062_0001$$$::Nesse momento, tudo o que eu tenho que fazer é balançar a varinha uma vez e voilà.[lr]::
-14919::$$$message_0116_0062_0002$$$::Eu me transformo na 'Rin Tohsaka que é especialista em preparar chás' que deve estar em algum universo paralelo e serei capaz de preparar um chá delicioso.[lr]::
+14919::$$$message_0116_0062_0002$$$::Eu me transformo na 'Tohsaka Rin que é especialista em preparar chás' que deve estar em algum universo paralelo e serei capaz de preparar um chá delicioso.[lr]::
 14920::$$$message_0116_0062_0003$$$::Não, para ser exata, eu posso pegar emprestada apenas aquela habilidade por um momento."::
 14921::$$$message_0116_0063_0000$$$::"Entendi... Então você pode baixar só a habilidade de que precisa... Certo?"[lr]::
 14922::$$$message_0116_0063_0001$$$::"Hã? Baixar?"::
-14923::$$$message_0116_0064_0000$$$::"Sim. Deixando a Rin que está por fora de tudo de lado, isso mesmo, Shirou.[lr]::
-14924::$$$message_0116_0064_0001$$$::A Rin deste mundo pode ser antiquada, mas pode haver uma Rin de alta tecnologia em outro universo paralelo.[lr]::
-14925::$$$message_0116_0064_0002$$$::Eu pego o exterior da Rin de alta tecnologia e o visto nesta Rin.[lr]::
-14926::$$$message_0116_0064_0003$$$::Como resultado, a Rin pode se tornar uma especialista em eletrônicos em apenas um segundo, sim."::
+14923::$$$message_0116_0064_0000$$$::"Sim. Deixando a Rin-san que está por fora de tudo de lado, isso mesmo, Shirou-san.[lr]::
+14924::$$$message_0116_0064_0001$$$::A Rin-san deste mundo pode ser antiquada, mas pode haver uma Rin-san de alta tecnologia em outro universo paralelo.[lr]::
+14925::$$$message_0116_0064_0002$$$::Eu pego o exterior da Rin-san de alta tecnologia e o visto nesta Rin-san.[lr]::
+14926::$$$message_0116_0064_0003$$$::Como resultado, a Rin-san pode se tornar uma especialista em eletrônicos em apenas um segundo, sim."::
 14927::$$$message_0116_0065_0000$$$::"Uau, isso é..."[lr]::
 14928::$$$message_0116_0065_0001$$$::Incrível.[lr]::
 14929::$$$message_0116_0065_0002$$$::Isso significa que você pode chamar vários 'e se' da Tohsaka, e ela pode se tornar uma especialista naquele campo!::
 14930::$$$message_0116_0066_0000$$$::"[line len=3]No entanto, existem várias regras para isso. [lr]::
 14931::$$$message_0116_0066_0001$$$::As imitações começam pelo estilo.[lr]::
-14932::$$$message_0116_0066_0002$$$::Quando ela usa o Prism Trance, eu faço a Rin usar roupas que sejam adequadas para aquela forma."::
+14932::$$$message_0116_0066_0002$$$::Quando ela usa o Prism Trance, eu faço a Rin-san usar roupas que sejam adequadas para aquela forma."::
 14933::$$$message_0116_0067_0000$$$::"No entanto, por algum motivo, ninguém gosta disso. Graças a isso, tive apenas duas Mestras no passado, presente e futuro."[lr]::
 14934::$$$message_0116_0067_0001$$$::Magical Ruby esconde suas lágrimas com a manga de seu quimono.[lr]::
 14935::$$$message_0116_0067_0002$$$::Bom, o quimono é apenas fruto da minha imaginação.::
@@ -230,13 +230,13 @@ id=qid::label=str::text=lstr::
 14938::$$$message_0116_0068_0002$$$::V-Você não quer dizer que[line len=2]!"::
 14939::$$$message_0116_0069_0000$$$::"Sim. Então, um traje adequado.[lr]::
 14940::$$$message_0116_0069_0001$$$::Se quiser servir chá, então um uniforme de empregada.[lr]::
-14941::$$$message_0116_0069_0002$$$::Se quiser se tornar a Rin Tohsaka anfíbia, então um maiô escolar.[lr]::
+14941::$$$message_0116_0069_0002$$$::Se quiser se tornar a Tohsaka Rin anfíbia, então um maiô escolar.[lr]::
 14942::$$$message_0116_0069_0003$$$::E para a pobrezinha de você que queria ser boa em cantar, eu providenciei um traje de lolita gótica total!"::
 14943::$$$message_0116_0070_0000$$$::"Guh...!"[lr]::
 14944::$$$message_0116_0070_0001$$$::I-Isso significa que ela é inequivocamente uma garota mágica...!!!::
 14945::$$$message_0116_0071_0000$$$::"Ah, a propósito, quanto ao chamado para transformar, escolhi o que seria o mais embaraçoso na hora[heart][lr]::
 14946::$$$message_0116_0071_0001$$$::Puxa vida, todo mundo no parque estava pálido naquela hora."[lr]::
-14947::$$$message_0116_0071_0002$$$::"Y-[wvl][shock vmax=30 time=400 count=-5]You stupid wand, so that's why my friend network got reset!!!"::
+14947::$$$message_0116_0071_0002$$$::"V-[wvl][shock vmax=30 time=400 count=-5]Varinha idiota, então foi por isso que minha rede de amizades zerou!!!"::
 14948::$$$message_0116_0072_0000$$$::...A terrível verdade que acaba de ser revelada.[lr]::
 14949::$$$message_0116_0072_0001$$$::A identidade do item que usa a Segunda Magia Real, a varinha mágica que realiza os desejos das garotas, é uma caixa de figurinos onde você entra no personagem tanto mental quanto fisicamente.[lr]::
 14950::$$$message_0116_0072_0002$$$::Ah, uma magia negra que nunca foi tão fácil de notar apenas olhando.[lr]::
@@ -244,10 +244,10 @@ id=qid::label=str::text=lstr::
 14952::$$$message_0116_0073_0000$$$::"Enfim, vamos pensar em outro método por enquanto.[lr]::
 14953::$$$message_0116_0073_0001$$$::Recomponha-se. Refresque sua mente. Ignore completamente essa coisa barulhenta."[lr]::
 14954::$$$message_0116_0073_0002$$$::"O quêêê? Que maldade. Faça um contrato comigo, Rin. Eu já colhi sua amostra de sangue, então tudo o que você tem que fazer é dizer sim[line len=3]"::
-14955::$$$message_0116_0074_0000$$$::"Olha só. Ignore-a completamente, Emiya.[lr]::
+14955::$$$message_0116_0074_0000$$$::"Olha só. Ignore-a completamente, Emiya-kun.[lr]::
 14956::$$$message_0116_0074_0001$$$::Não importa se é o Código Místico da Segunda Magia Real ou se ela já registrou meu sangue.[lr]::
 14957::$$$message_0116_0074_0002$$$::Contanto que você não a pegue, ela vai desligar depois de um certo tempo, e então tchau. Precisamos selar uma coisa tão perigosa assim no fundo desta caixa para toda a eternidade."[cacheimage storage=ガーンa][wvs][fg textoff=0 opacity=0 left=531 index=3000 top=68 time=100 storage=ガーンa]::
-14958::$$$message_0116_0075_0000$$$::"Nããão. Wahh, que tratamento cruel... Eu só queria lutar pela justiça com a Rin..."[lr]::
+14958::$$$message_0116_0075_0000$$$::"Nããão. Wahh, que tratamento cruel... Eu só queria lutar pela justiça com a Rin-san..."[lr]::
 14959::$$$message_0116_0075_0001$$$::A varinha chora.[lr]::
 14960::$$$message_0116_0075_0002$$$::...Assim como a Tohsaka diz, a varinha voltará a ser o que era originalmente se continuarmos a ignorá-la.::
 14961::$$$message_0116_0076_0000$$$::"...Mas eu me sinto mal.[lr]::
@@ -262,19 +262,19 @@ id=qid::label=str::text=lstr::
 14970::$$$message_0116_0078_0000$$$::[line len=3]Então...[lr]::
 14971::$$$message_0116_0078_0001$$$::"Ugh, você é tão persistente![lr]::
 14972::$$$message_0116_0078_0002$$$::Que tipo de vendedora é você!?"[lr]::
-14973::$$$message_0116_0078_0003$$$::"Não, não, eu não consigo vencer a sua teimosia.[lr]::
-14974::$$$message_0116_0078_0004$$$::Você não diz sim, mesmo eu oferecendo um negócio desses, [cacheimage storage=カレイドステッキ(マイルド)03][wvl][wm canskip=0][chgfg textoff=0 time=300 storage=カレイドステッキ(マイルド)03]a Ruby está extremamente preocupada."::
+14973::$$$message_0116_0078_0003$$$::"Não, não, eu não consigo vencer a Rin-san teimosia.[lr]::
+14974::$$$message_0116_0078_0004$$$::Você não diz sim, mesmo eu oferecendo um negócio desses, [cacheimage storage=カレイドステッキ(マイルド)03][wvl][wm canskip=0][chgfg textoff=0 time=300 storage=カレイドステッキ(マイルド)03]a Ruby-chan está extremamente preocupada."::
 14975::$$$message_0116_0079_0000$$$::"..."[lr]::
 14976::$$$message_0116_0079_0001$$$::A voz da Magical Ruby ecoa dentro da caixa trancada.[lr]::
-14977::$$$message_0116_0079_0002$$$::A temperatura da caixa sobe com a discussão calorosa. O índice de desconforto da Tohsaka, que já estava irritada, está inflando como o sol.::
+14977::$$$message_0116_0079_0002$$$::A temperatura da caixa sobe com a discussão calorosa. O índice de desconforto da Tohsaka, que já estava irritada, está inflando como o Sol.::
 14978::$$$message_0116_0080_0000$$$::"Tudo bem. [wvl][move textoff=0 time=130 path=(349,-4,255)(349,33,255)(349,-18,255)(349,15,255) storage=カレイドステッキ(マイルド)02 accel=0 spline=1]A esta altura, devo dar o meu melhor esforço![lr]::
-14979::$$$message_0116_0080_0001$$$::Eu até te darei a prova de uma garota mágica de primeira classe, um amigo mascote, de graça! [l][say storage=cty0224_maj_0202 name=マジカルルビー][chgfg textoff=0 time=300 storage=カレイドステッキ(マイルド)03,凛私服09d(近)]Você é tão boa em negociar, Rin!"[lr]::
+14979::$$$message_0116_0080_0001$$$::Eu até te darei a prova de uma garota mágica de primeira classe, um amigo mascote, de graça! [l][say storage=cty0224_maj_0202 name=マジカルルビー][chgfg textoff=0 time=300 storage=カレイドステッキ(マイルド)03,凛私服09d(近)]Você é tão boa em negociar, Rin-san!"[lr]::
 14980::$$$message_0116_0080_0002$$$::"Rahhh![lr]::
 14981::$$$message_0116_0080_0003$$$::Eu não estive negociando com você desde o começo!"::
 14982::$$$message_0116_0081_0000$$$::Tohsaka grita histericamente.[lr]::
 14983::$$$message_0116_0081_0001$$$::...Isso definitivamente não é bom. Precisamos pedir ajuda o mais rápido possível.[lr]::
 14984::$$$message_0116_0081_0002$$$::Não para sair desta caixa, mas para fugir desta varinha.::
-14985::$$$message_0116_0082_0000$$$::"Ah, a propósito, que tipo de personalidade você gosta?[lr]::
+14985::$$$message_0116_0082_0000$$$::"Ah, a propósito, que tipo de personalidade Shirou-san gosta?[lr]::
 14986::$$$message_0116_0082_0001$$$::Um tipo animalzinho selvagem, um tipo fada ligeiramente madura,[lr]::
 14987::$$$message_0116_0082_0002$$$::um tipo espírito elegante que guia jovens garotas, [cacheimage storage=カレイドステッキ(あおり)][wvl canskip=0 time=400][chgfg textoff=0 time=200 storage=カレイドステッキ(あおり) last=カレイドステッキ(マイルド)03][move textoff=0 time=250 path=(264,-62,255)(264,20,255) storage=カレイドステッキ(あおり) accel=-2 spline=0][se volume=60 storage=se170.wav]um tipo robô gigante de fusão transformável,[lr]::
 14988::$$$message_0116_0082_0003$$$::e assim por diante. Devo atender às suas várias necessidades?"::
@@ -284,11 +284,11 @@ id=qid::label=str::text=lstr::
 14992::$$$message_0116_0084_0000$$$::"Ora puxa."[lr]::
 14993::$$$message_0116_0084_0001$$$::...Deve ter soado como um elogio, pois Magical Ruby parece feliz.[lr]::
 14994::$$$message_0116_0084_0002$$$::Vou repetir isso persistentemente, mas apenas a voz dela é adorável, sem dúvida alguma.::
-14995::$$$message_0116_0085_0000$$$::"Vamos lá, Rin, o Shirou também está dizendo isso![lr]::
+14995::$$$message_0116_0085_0000$$$::"Vamos lá, Rin-san, o Shirou-san também está dizendo isso![lr]::
 14996::$$$message_0116_0085_0001$$$::Por que você não faz logo um contrato comigo sem se preocupar com nada?[lr]::
 14997::$$$message_0116_0085_0002$$$::Você conseguirá abrir facilmente a caixa que aquele velho gagá... [cacheimage storage=カレイドステッキ(マイルド)03][wvl canskip=0 time=500][wm canskip=0][chgfg textoff=0 time=300 storage=カレイドステッキ(マイルド)03]Ahem, quero dizer, [cacheimage storage=カレイドステッキ(マイルド)04][wvl][chgfg textoff=0 time=300 storage=カレイドステッキ(マイルド)04]Zelretch fez."::
 14998::$$$message_0116_0086_0000$$$::"Ahaha, eu prefiro morrer.[lr]::
-14999::$$$message_0116_0086_0001$$$::Se você quer tanto assim formar um contrato, por que não faz um com seu amado Shirou, que tem falado com você de forma tão amigável?"[lr]::
+14999::$$$message_0116_0086_0001$$$::Se você quer tanto assim formar um contrato, por que não faz um com seu amado Shirou-san, que tem falado com você de forma tão amigável?"[lr]::
 15000::$$$message_0116_0086_0002$$$::"Eu adoraria, mas sou um Código Místico limitado a mulheres. Eu já colhi seu sangue e te registrei como Mestra, [cacheimage storage=カレイドステッキ(マイルド)04][wvl][chgfg textoff=0 time=300 storage=カレイドステッキ(マイルド)04]então sabe, você estaria realmente me resgatando[line len=2]"::
 15001::$$$message_0116_0087_0000$$$::"Cala a boca. Nós é que queremos ser resgatados.[lr]::
 15002::$$$message_0116_0087_0001$$$::Ugh, eu já estou no meu limite...!"[lr]::
@@ -298,8 +298,8 @@ id=qid::label=str::text=lstr::
 15006::$$$message_0116_0087_0005$$$::A temperatura dentro da caixa cai para abaixo de zero.::
 15007::$$$message_0116_0088_0000$$$::"..."[lr]::
 15008::$$$message_0116_0088_0001$$$::"Um pequeno 'acidente', se preferir?[lr]::
-15009::$$$message_0116_0088_0002$$$::É natural para um corpo humano e um sistema inevitável. [cacheimage storage=カレイドステッキ(マイルド)01a][wvl][chgfg lv2off=1 textoff=0 time=300 storage=カレイドステッキ(マイルド)01a]Mas não tem como evitar. Se contar desde antes de estar esperando pelo Shirou, já faz quatro horas que você está segurando."::
-15010::$$$message_0116_0089_0000$$$::"[line len=12]Oh. Oh, oh, oh..."[lr]::
+15009::$$$message_0116_0088_0002$$$::É algo natural do corpo humano e um sistema inevitável. [cacheimage storage=カレイドステッキ(マイルド)01a][wvl][chgfg lv2off=1 textoff=0 time=300 storage=カレイドステッキ(マイルド)01a]Mas não tem jeito. Se contar desde antes de você ficar esperando pelo Shirou-san, já são quatro horas segurando."::
+15010::$$$message_0116_0089_0000$$$::"[line len=12]Ah. Ah, ah, ah..."[lr]::
 15011::$$$message_0116_0089_0001$$$::Tohsaka treme.[lr]::
 15012::$$$message_0116_0089_0002$$$::E ela vai agir violentamente. Vai agir extremamente violentamente em um segundo.::
 15013::$$$message_0116_0090_0000$$$::Eu aposto...[lr]::
@@ -308,7 +308,7 @@ id=qid::label=str::text=lstr::
 15016::$$$message_0116_0090_0003$$$::Ou então...::
 15017::$$$message_0116_0091_0000$$$::"Mas eu não posso morrer sozinha![lr]::
 15018::$$$message_0116_0091_0001$$$::Não, na verdade, adeus humanidade! Se isso acontecer, vou destruir você junto com o resto do mundo...![lr]::
-15019::$$$message_0116_0091_0002$$$::Sim, então por esse motivo, você deve cerrar os dentes, Emiya...!"[lr]::
+15019::$$$message_0116_0091_0002$$$::Sim, então por esse motivo, você deve cerrar os dentes, Emiya-kun...!"[lr]::
 15020::$$$message_0116_0091_0003$$$::Ou algo assim. Não é difícil de imaginar.::
 15021::$$$message_0116_0092_0000$$$::Tohsaka parece estranhamente envergonhada.[lr]::
 15022::$$$message_0116_0092_0001$$$::Eu consigo entender dolorosamente como ela se sente, e eu sou quem deveria se sentir envergonhado.[lr]::
@@ -340,8 +340,8 @@ id=qid::label=str::text=lstr::
 15048::$$$message_0116_0100_0001$$$::V-Você está segurando a varinha!"[lr]::
 15049::$$$message_0116_0100_0002$$$::"P-PUTA QUE PARIU!!! [cacheimage storage=凛私服16e(近)][wvl][chgfg bluroff=1 textoff=0 time=300 storage=凛私服16e(近)]Não consegui evitar de agarrá-la, já que havia algo conveniente por perto[line len=3]!"::
 15050::$$$message_0116_0101_0000$$$::"Heheheh[line len=3]heheheheh, isso foi exatamente como planejei![lr]::
-15051::$$$message_0116_0101_0001$$$::É impressionante o quanto você é tolo, a ponto da Rin não conseguir se conter e te bater com uma arma cega![lr]::
-15052::$$$message_0116_0101_0002$$$::É por isso que você é o parceiro perfeito para a Rin!"::
+15051::$$$message_0116_0101_0001$$$::É impressionante o quanto Shirou-san é tolo, a ponto da Rin não conseguir se conter e te bater com uma arma cega![lr]::
+15052::$$$message_0116_0101_0002$$$::É por isso que você é o parceiro perfeito para a Rin-san!"::
 15053::$$$message_0116_0102_0000$$$::"Khh...! Por causa de algo ridículo assim[line len=3]droga, eu não vou perder...!"[lr]::
 15054::$$$message_0116_0102_0001$$$::"Isso é inútil, eu reuni todos os elementos necessários para um contrato![lr]::
 15055::$$$message_0116_0102_0002$$$::Autenticação de Mestra por sangue, o contrato de utilização por toque e[line len=3]com certeza recebi a energia necessária para ativar![lr]::
@@ -369,7 +369,7 @@ id=qid::label=str::text=lstr::
 15077::$$$message_0116_0107_0003$$$::...Como eu deveria dizer isso?[lr]::
 15078::$$$message_0116_0107_0004$$$::Meu raciocínio também está atingindo seu limite nesta atmosfera absurda.::
 15079::$$$message_0116_0108_0000$$$::"Bem-vindo ao planeta mágico dos sonhos![lr]::
-15080::$$$message_0116_0108_0001$$$::Heheheh, eu te saúdo, Shirou...!"[lr]::
+15080::$$$message_0116_0108_0001$$$::Heheheh, eu te saúdo, Shirou-san...!"[lr]::
 15081::$$$message_0116_0108_0002$$$::O objeto misterioso guincha.::
 15082::$$$message_0116_0109_0000$$$::"..."[lr]::
 15083::$$$message_0116_0109_0001$$$::Agora estou começando a finalmente entender como a Tohsaka se sente.[lr]::
@@ -381,7 +381,7 @@ id=qid::label=str::text=lstr::
 15089::$$$message_0116_0110_0002$$$::"Eu disse que é o planeta mágico.[lr]::
 15090::$$$message_0116_0110_0003$$$::A terra mais distante daqueles que amam a justiça... Parece ser isso, mas na verdade é o interior do Kaleidostick."::
 15091::$$$message_0116_0111_0000$$$::"Ahh. Então é basicamente o seu cenário imaginário, não é?"[lr]::
-15092::$$$message_0116_0111_0001$$$::"Sim [humming] Como esperado de você, você é rápido em entender as coisas quando se trata de Campos Delimitados[heart]"[lr]::
+15092::$$$message_0116_0111_0001$$$::"Sim [humming] Como esperado de Shirou-san, você é rápido em entender as coisas quando se trata de Campos Delimitados[heart]"[lr]::
 15093::$$$message_0116_0111_0002$$$::Isso é horrível.[lr]::
 15094::$$$message_0116_0111_0003$$$::Isso deve ser uma cópia barata da Esfera de Realidade.::
 15095::$$$message_0116_0112_0000$$$::"Eu não sou de falar dos outros, mas isso é de muito mau gosto.[lr]::
@@ -390,15 +390,15 @@ id=qid::label=str::text=lstr::
 15098::$$$message_0116_0112_0003$$$::Wahh, quanta frieza... Eu te convidei porque achei que tínhamos uma conexão."[lr]::
 15099::$$$message_0116_0112_0004$$$::"...Uma conexão?"[lr]::
 15100::$$$message_0116_0112_0005$$$::Pergunto com desgosto.::
-15101::$$$message_0116_0113_0000$$$::"Ora vamos, Shirou. E eu que achei que você já sabia[heart][lr]::
-15102::$$$message_0116_0113_0001$$$::Você é um herói da justiça, e eu sou uma garota mágica da justiça.[lr]::
+15101::$$$message_0116_0113_0000$$$::"Ora vamos, Shirou-san. E eu que achei que você já sabia[heart][lr]::
+15102::$$$message_0116_0113_0001$$$::Shirou-san é um herói da justiça, e eu sou uma garota mágica da justiça.[lr]::
 15103::$$$message_0116_0113_0002$$$::Veja só, nós dois somos seres que amam a justiça.[lr]::
-15104::$$$message_0116_0113_0003$$$::Por isso, quero cooperar e formar uma equipe com você para produzir a Rin Tohsaka, aquele demônio corrompido, como a garota mágica da justiça, mas[line len=2]"::
+15104::$$$message_0116_0113_0003$$$::Por isso, quero cooperar e formar uma equipe com você para produzir a Rin-san, aquele demônio corrompido, como a garota mágica da justiça, mas[line len=2]"::
 15105::$$$message_0116_0114_0000$$$::"..."[lr]::
 15106::$$$message_0116_0114_0001$$$::A saída... não está em lugar nenhum.[lr]::
 15107::$$$message_0116_0114_0002$$$::Mas não tem como esse mundo absurdo durar muito. Ele deve ser capaz de durar apenas mais um minuto.::
 15108::$$$message_0116_0115_0000$$$::"Você aí, por favor não olhe para os lados![lr]::
-15109::$$$message_0116_0115_0001$$$::Olhe, estou dizendo isso pelo bem das pessoas também. Não estou forçando a Rin por interesse próprio.[lr]::
+15109::$$$message_0116_0115_0001$$$::Olhe, estou dizendo isso pelo bem das pessoas também. Não estou forçando a Rin-san por interesse próprio.[lr]::
 15110::$$$message_0116_0115_0002$$$::Eu disse isso antes também, mas o comando que está gravado profundamente dentro de mim é 'amor e poder'!"::
 15111::$$$message_0116_0116_0000$$$::O artefato fora de lugar estufa o peito, dizendo que não é suspeito.[lr]::
 15112::$$$message_0116_0116_0001$$$::"Ei, se você vai dizer isso, não é 'amor e paz'?"[lr]::
@@ -408,27 +408,27 @@ id=qid::label=str::text=lstr::
 15116::$$$message_0116_0117_0000$$$::"..."[lr]::
 15117::$$$message_0116_0117_0001$$$::...É o artigo original.[lr]::
 15118::$$$message_0116_0117_0002$$$::O jeito que ela diz 'poder' em vez de 'paz' é bem apropriado para um item perigoso de classe de Designação de Selo.::
-15119::$$$message_0116_0118_0000$$$::"Por isso, eu gostaria que a Rin se tornasse uma evangelista do amor e do poder em meu nome para a paz das pessoas.[lr]::
+15119::$$$message_0116_0118_0000$$$::"Por isso, eu gostaria que a Rin-san se tornasse uma evangelista do amor e do poder em meu nome para a paz das pessoas.[lr]::
 15120::$$$message_0116_0118_0001$$$::Eu sou apenas um triste item mágico. Não importa quanto poder eu tenha, não posso fazer nada a menos que as pessoas me usem.[lr]::
-15121::$$$message_0116_0118_0002$$$::Além disso, você também não tem um problema com as ações cotidianas da Rin? A Rin deveria usar seu abundante talento (cômico) para todos!"::
+15121::$$$message_0116_0118_0002$$$::Além disso, Shirou-san também não tem um problema com as ações cotidianas da Rin-san? A Rin-san deveria usar seu abundante talento (cômico) para todos!"::
 15122::$$$message_0116_0119_0000$$$::"...Eu queria ser capaz de concordar um pouco com essa opinião, mas..."[lr]::
 15123::$$$message_0116_0119_0001$$$::Eu não consigo confiar nessa coisa, afinal. [wait canskip=0 time=1000]Quero dizer, os verdadeiros sentimentos dela estão vazando completamente![lr]::
 15124::$$$message_0116_0119_0002$$$::Não sei se é porque o Zelretch adicionou essa função às pressas ao perceber que essa coisa é louca, ou se é porque seu método de comunicação é através da telepatia. Mas consigo ouvir claramente os sentimentos verdadeiros e inalterados da Ruby através dos parênteses!::
 15125::$$$message_0116_0120_0000$$$::"Agora, realmente não resta mais tempo! Por favor, deixe-me ouvir sua resposta como um colega camarada que ama a justiça![lr]::
-15126::$$$message_0116_0120_0001$$$::Ruby acredita que você será meu companheiro...!"[lr]::
+15126::$$$message_0116_0120_0001$$$::Ruby-chan acredita que Shirou-san será meu companheiro...!"[lr]::
 15127::$$$message_0116_0120_0002$$$::"...Tá legal. 'Amor e poder', não é? Vamos dizer que isso seja real.[lr]::
 15128::$$$message_0116_0120_0003$$$::Ei, Ruby. Que tipo de coisa é a justiça para você?"::
 15129::$$$message_0116_0121_0000$$$::"O quê? Hum, vejamos...[lr]::
 15130::$$$message_0116_0121_0001$$$::Igualdade no mundo e torná-lo mais divertido (para mim), eu acho."[lr]::
 15131::$$$message_0116_0121_0002$$$::"...Então, o que é o mal para você, Ruby?"::
-15132::$$$message_0116_0122_0000$$$::"Ahaha, ora vamos, Shirou.[lr]::
+15132::$$$message_0116_0122_0000$$$::"Ahaha, ora vamos, Shirou-san.[lr]::
 15133::$$$message_0116_0122_0001$$$::Obviamente qualquer coisa que vá contra mim é malvada."[lr]::
 15134::$$$message_0116_0122_0002$$$::"Guh...!"[lr]::
 15135::$$$message_0116_0122_0003$$$::E-Então essa afirmação é algo que nem precisa ser escondido dentro de si mesma!!!???::
 15136::$$$message_0116_0123_0000$$$::"Ei, paramos de conversar aqui, sua [wvl][shock vmax=20 time=400 count=-3]diabinha![lr]::
 15137::$$$message_0116_0123_0001$$$::Devolva a Tohsaka! Me leve de volta para o mundo original! Não vou mais cair nos seus truques!"::
-15138::$$$message_0116_0124_0000$$$::"...Não... Achei que pudéssemos nos dar bem como heróis da justiça... Mas é tarde demais![lr]::
-15139::$$$message_0116_0124_0001$$$::Neste exato momento, estou fazendo a Rin entender (à força) a grandeza da justiça, e nosso contrato estará completo em mais alguns segundos![lr]::
+15138::$$$message_0116_0124_0000$$$::"...Não... Achei que pudéssemos nos dar bem como heróis da justiça... Mas é tarde demais, Shirou-san![lr]::
+15139::$$$message_0116_0124_0001$$$::Neste exato momento, estou fazendo a Rin-san entender (à força) a grandeza da justiça, e nosso contrato estará completo em mais alguns segundos![lr]::
 15140::$$$message_0116_0124_0002$$$::Ah, mas só para você saber, eu não posso desfazer o contrato.[lr]::
 15141::$$$message_0116_0124_0003$$$::Meu contrato é basicamente uma maldição porque foi endossado pelo velho Zelretch[heart]"::
 15142::$$$message_0116_0125_0000$$$::"Khh...!"[lr]::
@@ -439,14 +439,14 @@ id=qid::label=str::text=lstr::
 15147::$$$message_0116_0126_0002$$$::A maneira mais eficiente de sair de um pesadelo não é fugindo daquele mundo, mas obviamente aniquilando a si mesmo!::
 15148::$$$message_0116_0127_0000$$$::"[line len=3]Tohsaka!"[lr]::
 15149::$$$message_0116_0127_0001$$$::Sou arrancado do pesadelo.[lr]::
-15150::$$$message_0116_0127_0002$$$::A Tohsaka está[line len=3][rep fliplr=0 tops=,37 storages=凛私服16e(近),カレイドステッキ(マイルド)01a time=600 flipud=0 lefts=,-61 poss=rc, bg=i黒背景-(深夜) indexes=1000,2000]como esperado dela, ela ainda está resistindo...!::
+15150::$$$message_0116_0127_0002$$$::A Tohsaka está[line len=3][rep fliplr=0 tops=,37 storages=凛私服16e(近),カレイドステッキ(マイルド)01a time=600 flipud=0 lefts=,-61 poss=rc, bg=i黒背景-(深夜) indexes=1000,2000]como era de se esperar, ainda está aguentando...!::
 15151::$$$message_0116_0128_0000$$$::"Tohsaka, me dá essa varinha...!"[lr]::
 15152::$$$message_0116_0128_0001$$$::Tento arrancar a varinha da mão da Tohsaka... Mas eu não consigo!?[lr]::
 15153::$$$message_0116_0128_0002$$$::"Khh...!"[lr]::
 15154::$$$message_0116_0128_0003$$$::O Kaleidostick brilha.[lr]::
 15155::$$$message_0116_0128_0004$$$::"Heheheh, o contrato está completo!"[lr]::
 15156::$$$message_0116_0128_0005$$$::"Droga, eu não cheguei a tempo...!"::
-15157::$$$message_0116_0129_0000$$$::"Não, não há problema nenhum, Emiya.[lr]::
+15157::$$$message_0116_0129_0000$$$::"Não, não há problema nenhum, Emiya-kun.[lr]::
 15158::$$$message_0116_0129_0001$$$::Magical Ruby é um espírito da justiça. Não há o menor erro em suas ações.[lr]::
 15159::$$$message_0116_0129_0002$$$::Eu sou a garota mágica da justiça. Não há uma única coisa correta em meu comportamento.[lr]::
 15160::$$$message_0116_0129_0003$$$::Sim... Nem sequer contra-ataques serão permitidos para os vilões que desobedecerem."[lr]::
@@ -454,15 +454,15 @@ id=qid::label=str::text=lstr::
 15162::$$$message_0116_0130_0000$$$::"Ugh, solte isso logo![lr]::
 15163::$$$message_0116_0130_0001$$$::Apenas passe essa varinha para mim, Tohsaka!"[lr]::
 15164::$$$message_0116_0130_0002$$$::Vou quebrá-la em pedaços com o meu joelho!::
-15165::$$$message_0116_0131_0000$$$::"[line len=3]Acalme-se, Emiya.[lr]::
+15165::$$$message_0116_0131_0000$$$::"[line len=3]Acalme-se, Emiya-kun.[lr]::
 15166::$$$message_0116_0131_0001$$$::Não há motivo algum para se preocupar. Nós é que fomos imprudentes.[lr]::
 15167::$$$message_0116_0131_0002$$$::É. Uma garota mágica é bom. O que há de vergonhoso em lutar pelo bem do amor e do poder?"[lr]::
 15168::$$$message_0116_0131_0003$$$::"Dorme, que isso é um pesadelo![lr]::
 15169::$$$message_0116_0131_0004$$$::Eu não sou de falar, mas isso é provavelmente embaraçoso!"::
-15170::$$$message_0116_0132_0000$$$::"Pobre Emiya.[lr]::
+15170::$$$message_0116_0132_0000$$$::"Pobre Emiya-kun.[lr]::
 15171::$$$message_0116_0132_0001$$$::Não acredito que você ainda não entende a grandeza do Kaleidostick... Aqueles que só acreditam na justiça não servem para nada, afinal."::
 15172::$$$message_0116_0133_0000$$$::"Mas não se preocupe, eu não vou te abandonar nem nada. Você é meu companheiro importante[heart][lr]::
-15173::$$$message_0116_0133_0001$$$::De agora em diante, seja sendo rejeitado por um Senpai favorito, ou uma garota rica rival sendo transferida para nossa escola do mundo mágico, vamos superar as dificuldades juntos!"::
+15173::$$$message_0116_0133_0001$$$::De agora em diante, seja quando você for rejeitada pelo Senpai de quem gosta ou quando uma rival riquinha vier transferida do mundo mágico para a nossa escola, vamos superar as dificuldades juntas!"::
 15174::$$$message_0116_0134_0000$$$::"Ah[line len=3]Ahh, ahhhhh..."[lr]::
 15175::$$$message_0116_0134_0001$$$::Não tem mais jeito.[lr]::
 15176::$$$message_0116_0134_0002$$$::Não sou capaz de parar esta catástrofe.[lr]::
@@ -488,10 +488,10 @@ id=qid::label=str::text=lstr::
 15196::$$$message_0116_0139_0001$$$::"Bem, eu confirmei com você. Perguntei qual tipo de mascote você preferia.[lr]::
 15197::$$$message_0116_0139_0002$$$::Ah, a propósito, eu reaproveitei o nome que outro Mestre estava usando, então peço minhas sinceras desculpas."::
 15198::$$$message_0116_0140_0000$$$::"Guh, então o 'amigo mascote' não era sobre você!?"[lr]::
-15199::$$$message_0116_0140_0001$$$::"Hã? [cacheimage storage=カレイドステッキ(マイルド)03][wvl canskip=0 time=300][chgfg fliplr=1 bluroff=1 textoff=0 time=300 storage=カレイドステッキ(マイルド)03]Ahaha, claro que não, Shirou.[lr]::
+15199::$$$message_0116_0140_0001$$$::"Hã? [cacheimage storage=カレイドステッキ(マイルド)03][wvl canskip=0 time=300][chgfg fliplr=1 bluroff=1 textoff=0 time=300 storage=カレイドステッキ(マイルド)03]Ahaha, claro que não, Shirou-san.[lr]::
 15200::$$$message_0116_0140_0002$$$::Você achou que eu agiria sob as ordens de alguém?"[lr]::
 15201::$$$message_0116_0140_0003$$$::Que esplêndida autoanálise.::
-15202::$$$message_0116_0141_0000$$$::"Bem, agora que está tudo resolvido, precisamos nos apressar e sair desta caixa![whitestar] O mundo aguarda pelo nosso sucesso! O quanto antes! Com mais força que o sol! Levando um amor banhado em sangue de morango para as crianças problemáticas de todo o mundo!::
+15202::$$$message_0116_0141_0000$$$::"Bem, agora que está tudo resolvido, precisamos nos apressar e sair desta caixa![whitestar] O mundo aguarda pelo nosso sucesso! O quanto antes! Com mais força que o Sol! Levando um amor banhado em sangue de morango para as crianças problemáticas de todo o mundo!::
 15203::$$$message_0116_0142_0000$$$::"Isso mesmo, minha Mestra![lr]::
 15204::$$$message_0116_0142_0001$$$::Na semana que vem, no primeiro episódio do novo programa, 'Garota Mágica Kaleido Ruby',[lr]::
 15205::$$$message_0116_0142_0002$$$::Incendeie, droga ardente! Uma luta até a morte: Crescente Dourado[line len=2]3.000 metros de altura!', um Escapamento Escarlate está decolando!"[lr]::
@@ -508,7 +508,7 @@ id=qid::label=str::text=lstr::
 15216::$$$message_0116_0145_0002$$$::Este é um momento inerentemente imperceptível.[lr]::
 15217::$$$message_0116_0145_0003$$$::A fronteira entre o interior da caixa e o exterior, o único momento onde retornamos do tempo sem sentido para o tempo normal.::
 15218::$$$message_0116_0146_0000$$$::"[line len=3]Obrigado.[lr]::
-15219::$$$message_0116_0146_0001$$$::Graças a você, Shirou, parece que finalmente poderei cumprir o propósito para o qual fui criado."::
+15219::$$$message_0116_0146_0001$$$::Graças a você, Shirou-san, parece que finalmente poderei cumprir o propósito para o qual fui criado."::
 15220::$$$message_0116_0147_0000$$$::Ele me agradece.[lr]::
 15221::$$$message_0116_0147_0001$$$::"...De nada.[lr]::
 15222::$$$message_0116_0147_0002$$$::Então. O que vai acontecer com a Tohsaka?"::
@@ -517,7 +517,7 @@ id=qid::label=str::text=lstr::
 15225::$$$message_0116_0148_0002$$$::De agora em diante, não aparecerei mais dessa forma, e a 'persuasão' do meu contrato desaparecerá completamente no momento em que vocês saírem."::
 15226::$$$message_0116_0149_0000$$$::"Hã? Então você está[line len=2]"::
 15227::$$$message_0116_0150_0000$$$::"Sim, isto é um adeus. Daqui em diante, desfrutarei assistindo ao sucesso de vocês dois como um Kaleidostick.[lr]::
-15228::$$$message_0116_0150_0001$$$::Adeus. Desejo felicidade a ambos."::
+15228::$$$message_0116_0150_0001$$$::Adeus. Desejo felicidade a ambos, Rin-san, Shirou-san."::
 15229::$$$message_0116_0151_0000$$$::"Oh[line len=3]"[lr]::
 15230::$$$message_0116_0151_0001$$$::A presença do Kaleidostick desaparece.[lr]::
 15231::$$$message_0116_0151_0002$$$::...Será que ele não era tão ruim assim afinal?[lr]::
@@ -544,9 +544,9 @@ id=qid::label=str::text=lstr::
 15252::$$$message_0116_0157_0001$$$::Tohsaka, cuja lavagem cerebral foi desfeita e recuperou a consciência, está tremendo.[lr]::
 15253::$$$message_0116_0157_0002$$$::Ela remoe suas ações anteriores e seu estado atual como se estivesse em uma cama de pregos[line len=3][lr]::
 15254::$$$message_0116_0157_0003$$$::"...Tudo bem, vocês podem rir."::
-15255::$$$message_0116_0158_0000$$$::"Guh, gahahahahaha![rf][lr]::
+15255::$$$message_0116_0158_0000$$$::"Guh, hahahahahaha![rf][lr]::
 15256::$$$message_0116_0158_0001$$$::Que porra é essa, Tohsaka, ahahahahahaha!"[lr]::
-15257::$$$message_0116_0158_0002$$$::"...Heh. Como esperado de você, Ayako, não tem misericórdia nenhuma... Heheh, ahaha..."[cacheimage storage=一成私服01b(遠)][wvs][fg textoff=0 left=882 index=1000 top=56 time=100 storage=一成私服01b(遠)]::
+15257::$$$message_0116_0158_0002$$$::"...Heh. Bem típico de você, Ayako, sem piedade nenhuma... Heheh, ahaha..."[cacheimage storage=一成私服01b(遠)][wvs][fg textoff=0 left=882 index=1000 top=56 time=100 storage=一成私服01b(遠)]::
 15258::$$$message_0116_0159_0000$$$::"Tohsaka."[lr]::
 15259::$$$message_0116_0159_0001$$$::"O que foi? Por que você não ri se quiser rir?[lr]::
 15260::$$$message_0116_0159_0002$$$::Na verdade, você deveria rir."::
@@ -560,7 +560,7 @@ id=qid::label=str::text=lstr::
 15268::$$$message_0116_0162_0000$$$::"Hã, festival cultural...?"[lr]::
 15269::$$$message_0116_0162_0001$$$::"Ah é, foi por isso que a gente se reuniu..."[lr]::
 15270::$$$message_0116_0162_0002$$$::Foi um mal que veio para o bem.[lr]::
-15271::$$$message_0116_0162_0003$$$::Parece que conseguimos por um triz despistar o boato da Rin Tohsaka ser uma garota mágica.::
+15271::$$$message_0116_0162_0003$$$::Parece que conseguimos por um triz despistar o boato da Tohsaka Rin ser uma garota mágica.::
 15272::$$$message_0116_0163_0000$$$::"Ter uma sessão de ajuste de figurino só você e o Emiya... Vou ter que te questionar sobre isso mais tarde. [lr]::
 15273::$$$message_0116_0163_0001$$$::É um truque de mágica e tanto dois humanos saírem daquela caixa pequena."::
 15274::$$$message_0116_0164_0000$$$::Os olhos do Issei brilham, cheios de admiração.[lr]::
@@ -574,7 +574,7 @@ id=qid::label=str::text=lstr::
 15282::$$$message_0116_0167_0001$$$::A Matou tem ganhado popularidade nos últimos seis meses, então pode ser que tenhamos uma grande reviravolta."[lr]::
 15283::$$$message_0116_0167_0002$$$::"Hahaha, hahahaha, [cacheimage storage=o遠坂邸外観-(昼)][wvl canskip=0 time=1000][fadein textoff=0 storage=o遠坂邸外観-(昼) time=300][stopdash]hahahahahahahahahahahaha..."::
 15284::$$$message_0116_0168_0000$$$::"Hã, a Sakura é tão popular assim?"[lr]::
-15285::$$$message_0116_0168_0001$$$::"Oh, eu não posso deixar isso passar. Você está do lado da Tohsaka ou da Matou?"[lr]::
+15285::$$$message_0116_0168_0001$$$::"Ah, isso eu não posso deixar passar. Você está do lado da Tohsaka ou da Matou?"[lr]::
 15286::$$$message_0116_0168_0002$$$::"Hã...!?"::
 15287::$$$message_0116_0169_0000$$$::"A Matou é uma caloura importante para você.[lr]::
 15288::$$$message_0116_0169_0001$$$::Como alguém em uma posição neutra, não posso favorecer apenas a Tohsaka.[lr]::
@@ -623,4 +623,4 @@ id=qid::label=str::text=lstr::
 15331::$$$message_0116_0181_0000$$$::"...[wvl canskip=0 time=1500]Quem é você?"[lr]::
 15332::$$$message_0116_0181_0001$$$::Há... uma moça desconhecida vestida de azul segurando o Kaleidostick.::
 15333::$$$message_0116_0182_0000$$$::...A tempestade continua.[lr]::
-15334::$$$message_0116_0182_0001$$$::Os problemas em torno da caixa ainda não terminaram...::
+15334::$$$message_0116_0182_0001$$$::Os problemas em torno da caixa ainda não terminaram...�

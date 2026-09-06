@@ -15,7 +15,7 @@ id=qid::label=str::text=lstr::
 7932::$$$message_0055_0003_0002$$$::Você poderia usar outra coisa, como suas roupas casuais.[lr]::
 7933::$$$message_0055_0003_0003$$$::Isso pareceria normal o suficiente. Agora ela está passando a vibração de um membro da família do templo fazendo tarefas domésticas.::
 7934::$$$message_0055_0004_0000$$$::"O que tem de errado com isso?"[lr]::
-7935::$$$message_0055_0004_0001$$$::"Hum, bem... você não poderia fazer o guardião do portão fazer isso?"[lr]::
+7935::$$$message_0055_0004_0001$$$::"Hum, bem... você não poderia fazer o Guardião do portão fazer isso?"[lr]::
 7936::$$$message_0055_0004_0002$$$::[chgfg time=300 storage=キャスターローブ無し03b(中) textoff=0]O Assassin deveria estar aqui também, não é?::
 7937::$$$message_0055_0005_0000$$$::"...Ugh."[lr]::
 7938::$$$message_0055_0005_0001$$$::Caster solta um suspiro exagerado.::
@@ -49,7 +49,7 @@ id=qid::label=str::text=lstr::
 7966::$$$message_0055_0013_0002$$$::"Haha, que expressão bela. Há um tempo eu não via uma assim. Ultimamente, você tem ficado tão amolecida com sua vida feliz que eu estava começando a ficar entediado."[lr]::
 7967::$$$message_0055_0013_0003$$$::[chgfg time=300 storage=キャスターローブ無し03b頬(中) textoff=0]Kojirou... está zombando dela.[lr]::
 7968::$$$message_0055_0013_0004$$$::Eu sempre soube que ele tinha uma atitude um tanto sarcástica, mas eu não esperava que ele a provocasse tanto.::
-7969::$$$message_0055_0014_0000$$$::"Hmph. Eu não me importo. Apenas faça seu trabalho como guardião do portão. Se você não consegue nem mesmo cumprir seus deveres básicos, vou te rebaixar a zelador em seguida."[lr]::
+7969::$$$message_0055_0014_0000$$$::"Hmph. Eu não me importo. Apenas faça seu trabalho como Guardião do portão. Se você não consegue nem mesmo cumprir seus deveres básicos, vou te rebaixar a zelador em seguida."[lr]::
 7970::$$$message_0055_0014_0001$$$::"Hahaha. Muito bem, eu me dedicarei à tarefa."[lr]::
 7971::$$$message_0055_0014_0002$$$::As observações de Kojirou param.[lr]::
 7972::$$$message_0055_0014_0003$$$::...Eu não consegui dar uma palavra entre eles.::
@@ -68,7 +68,7 @@ id=qid::label=str::text=lstr::
 7985::$$$message_0055_0018_0001$$$::O Issei vai me dar um sermão de novo se ver você me ajudando."[lr]::
 7986::$$$message_0055_0018_0002$$$::"Ah, ok. Que pena."::
 7987::$$$message_0055_0019_0000$$$::"Sim, que pena. Seria bom se o Souichirou estivesse aqui, pelo menos."[lr]::
-7988::$$$message_0055_0019_0001$$$::[chgfg time=300 storage=キャスターローブ無し03c(中) textoff=0]Sr. Kuzuki fazendo tarefas domésticas, hã... Na verdade, é bem fácil imaginá-lo varrendo estoicamente.[lr]::
+7988::$$$message_0055_0019_0001$$$::[chgfg time=300 storage=キャスターローブ無し03c(中) textoff=0]Kuzuki-Sensei fazendo tarefas domésticas, hã... Na verdade, é bem fácil imaginá-lo varrendo estoicamente.[lr]::
 7989::$$$message_0055_0019_0002$$$::Juntos, eles encarnam a imagem de um casal tradicional perfeito.::
 7990::$$$message_0055_0020_0000$$$::"...Heh."[lr]::
 7991::$$$message_0055_0020_0001$$$::[chgfg time=200 storage=キャスターローブ無し03b(中) textoff=0]Uma risada seca vem do topo do portão.::
@@ -86,4 +86,4 @@ id=qid::label=str::text=lstr::
 8003::$$$message_0055_0024_0000$$$::"Desça aqui agora mesmo!"[lr]::
 8004::$$$message_0055_0024_0001$$$::"Não há necessidade de tanta pressa..."::
 8005::$$$message_0055_0025_0000$$$::[wshock canskip=0][movefg opacity=0 left=-87 top=22 time=500 accel=2 storage=キャスターローブ無し03d(近) textoff=0]Eu só vou atrapalhar se ficar aqui.[wm canskip=0][lr]::
-8006::$$$message_0055_0025_0001$$$::Faço uma pequena reverência e sigo para o terreno do templo.::
+8006::$$$message_0055_0025_0001$$$::Faço uma pequena reverência e sigo para o terreno do templo.�

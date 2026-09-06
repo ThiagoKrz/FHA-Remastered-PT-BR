@@ -470,6 +470,28 @@ def split_visible_text_and_suffix(
     selected_marker: str | None = None
     best_end = -1
 
+    # Alguns EPKs terminam a última fala com bytes binários logo após um único
+    # dois-pontos, sem um marcador textual final válido. Nesses casos, a
+    # decodificação com ``errors="replace"`` não permite reencontrar o prefixo
+    # nos bytes originais. O primeiro byte UTF-8 inválido é a fronteira segura
+    # entre o texto visível e o trailer estrutural que precisa ser preservado.
+    try:
+        raw_core.decode("utf-8")
+    except UnicodeDecodeError as error:
+        prefix_bytes = raw_core[: error.start]
+        try:
+            prefix_text = prefix_bytes.decode("utf-8")
+        except UnicodeDecodeError:
+            pass
+        else:
+            suffix = raw_core[error.start :]
+            if prefix_text[:1].isdigit() and suffix:
+                for marker in VISIBLE_END_MARKERS:
+                    if prefix_text.endswith(marker):
+                        selected_marker = marker
+                        break
+                return prefix_text, suffix, line_ending, selected_marker
+
     for marker in VISIBLE_END_MARKERS:
         index = decoded_line.rfind(marker)
         if index < 0:

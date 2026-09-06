@@ -1,52 +1,52 @@
 DAT
 id=qid::label=str::text=lstr::
-43676::$$$message_0370_0000_0000$$$::"Dá pra você o mais forte duo em nome e em realidade: [wvs][hfchance layer=0][say storage=HSTR4_RIN_0020 _name=凛]Rin Tohsaka e seu Servo, Archer!"::
+43676::$$$message_0370_0000_0000$$$::"Apresento a vocês a dupla mais forte, no nome e na prática: [wvs][hfchance layer=0][say storage=HSTR4_RIN_0020 _name=凛]Tohsaka Rin e seu Servo, Archer!"::
 43677::$$$message_0370_0001_0000$$$::"O verdadeiro jogo começa agora, vocês dois![lr]::
-43678::$$$message_0370_0001_0001$$$::[se storage=se060.wav]Oração!"::
-43679::$$$message_0370_0001_0002$$$::"...Um, [l][hfwww layer=0][say storage=HSTR4_RIN_0080 _name=凛]o que você está fazendo, Archer?[lr]::
-43680::$$$message_0370_0001_0003$$$::Vamos, faça a pose como praticamos."::
-43681::$$$message_0370_0001_0004$$$::"R-right... Vênus no céu, purgatório na Terra.[lr]::
-43682::$$$message_0370_0001_0005$$$::Somos a tempestade carmesim que redefinem corajosamente o impossível."::
-43683::$$$message_0370_0002_0000$$$::"...Uhh, nos chamam de Guardiões de Fuyuki...[wait canskip=0 time=300][l][hffacechg chara=アーチャー face=哀 layer=0 time=200][say storage=HSTR4_ARC_0040 _name=アーチャー] Sim."::
-43684::$$$message_0370_0002_0001$$$::"Ele não tem nada a ver com isso!"::
+43678::$$$message_0370_0001_0001$$$::[se storage=se060.wav]Façam suas preces!::
+43679::$$$message_0370_0001_0002$$$::"...Hum, [l][hfwww layer=0][say storage=HSTR4_RIN_0080 _name=凛]o que você está fazendo, Archer?[lr]::
+43680::$$$message_0370_0001_0003$$$::Vamos, faz a pose como a gente ensaiou."::
+43681::$$$message_0370_0001_0004$$$::"C-certo... Vênus no céu, purgatório na Terra.[lr]::
+43682::$$$message_0370_0001_0005$$$::Somos a tempestade carmesim que redefine o impossível com bravura."::
+43683::$$$message_0370_0002_0000$$$::"...Hã, nos chamam de Guardiões de Fuyuki...[wait canskip=0 time=300][l][hffacechg chara=アーチャー face=哀 layer=0 time=200][say storage=HSTR4_ARC_0040 _name=アーチャー] É."::
+43684::$$$message_0370_0002_0001$$$::"(Ele não está nem um pouco no clima!)"::
 43685::$$$message_0370_0002_0002$$$::"Vamos, onde está o [font italic=true]fogo[font italic=false]!?[lr]::
-43686::$$$message_0370_0002_0003$$$::Você precisa gostar, estender sua mão direita para o céu, como se estivesse cravando nossos inimigos em um pilar de luz!"::
-43687::$$$message_0370_0002_0004$$$::"E como temos a vantagem do alto, você tem que maximizar o efeito deles olharem para cima conosco[hfchance layer=0]![l][say storage=HSTR4_RIN_0140 _name=凛] Tente olhar para baixo com um pouco de desdém. É melhor se seu queixo encostar no pescoço!"::
-43688::$$$message_0370_0002_0005$$$::"...Desculpe, Mestre. Já estou fazendo o meu melhor para manter o personagem."::
-43689::$$$message_0370_0002_0006$$$::"Hmm. [l][hfwww layer=0][say storage=HSTR4_RIN_0170 _name=凛]Olha, só copie o Goldy e fique todo alto e mágico. Isso já é perto o suficiente."::
-43690::$$$message_0370_0002_0007$$$::"Okay, vamos tentar um [l][hfchance layer=0][say storage=HSTR4_RIN_0200 _name=凛]take two..."[nolr][p]::
+43686::$$$message_0370_0002_0003$$$::Você tem que, tipo, erguer a mão direita aos céus, como se empalasse nossos inimigos num pilar de luz!"::
+43687::$$$message_0370_0002_0004$$$::"E como temos a vantagem da altura, você precisa maximizar o efeito de fazerem todos olharem para nós[hfchance layer=0]![l][say storage=HSTR4_RIN_0140 _name=凛] Olhe para baixo com um pouco de desprezo. Melhor ainda se o queixo quase encostar no pescoço!"::
+43688::$$$message_0370_0002_0005$$$::"...Desculpe, Mestra. Já estou fazendo o melhor possível para continuar no personagem."::
+43689::$$$message_0370_0002_0006$$$::"Hm. [l][hfwww layer=0][say storage=HSTR4_RIN_0170 _name=凛]Olha, é só copiar o Douradinho e agir todo superior e arrogante. Já chega perto."::
+43690::$$$message_0370_0002_0007$$$::"Certo, vamos tentar uma [l][hfchance layer=0][say storage=HSTR4_RIN_0200 _name=凛]segunda tomada..."[nolr][p]::
 43691::$$$message_0370_0002_0008$$$::"Somos o clarão carmesim rasgando a noite escura![lr]::
-43692::$$$message_0370_0002_0009$$$::Os supostos protetores caóticos de Fuyuki, campeões do dinheiro que cobram o tributo mental!"[wm canskip=0][wm canskip=0]::
+43692::$$$message_0370_0002_0009$$$::Os famosos protetores da caótica Fuyuki, campeões do dinheiro que cobram o imposto mental!"[wm canskip=0][wm canskip=0]::
 43693::$$$message_0370_0003_0000$$$::"Eles nos chamam de mendigos errantes, [wm canskip=0][wm canskip=0][movefg textoff=0 opacity=255 left=398 top=27 time=400 accel=3 layer=4][se storage=se084.wav][movefg textoff=0 opacity=255 left=-198 top=33 time=400 accel=3 layer=2][se storage=se085.wav][wvs][say storage=HSTR4_RIN_0250 _name=凛]ArcheRin Mix [wm canskip=0][wm canskip=0][wait canskip=0 time=200][move textoff=0 spread=1 mx=541 magnify=1 time=300 my=605 path=(522,548,255,2) layer=5 accel=-2][move textoff=0 spread=1 mx=541 magnify=1 time=300 my=605 path=(522,548,0,2) layer=4 accel=-2][movefg textoff=0 opacity=0 left=-198 top=33 time=300 accel=3 layer=2][movefg textoff=0 opacity=255 left=-198 top=33 time=300 accel=0 layer=3][se storage=se086.wav][wvs][say storage=HSTR4_RIN_0260 _name=凛]Remi[wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][wait canskip=0 time=200][move textoff=0 spread=1 mx=185 magnify=1 time=600 my=320 path=(340,506,255,2) layer=3 accel=3][move textoff=0 spread=1 mx=517 magnify=1.42 time=150 my=563 path=(523,508,255,1.35)(600,339,255,0.71)(604,490,255,0.78)(635,335,255,0.71) layer=5 accel=2 spline=1][se storage=se087.wav][se storage=se088.wav][wvs][say storage=HSTR4_RIN_0270 _name=凛] a Revelação...!!!"[wm canskip=0][wm canskip=0][se storage=se371.wav][wait canskip=0 time=200][movefg textoff=0 opacity=20 left=390 top=47 time=20 accel=0 layer=5][movefg textoff=0 opacity=20 left=-423 top=-34 time=20 accel=0 layer=3][se storage=se238.wav][se storage=se430.wav][se storage=se276.wav][wm canskip=0][wm canskip=0][movefg textoff=0 opacity=255 left=334 top=-50 time=3300 accel=0 layer=5][movefg textoff=0 opacity=255 left=-440 top=50 time=3300 accel=0 layer=3][dash textoff=0 hidefg=0 mx=0 opacity=100 layer=base irot=-0.0 cx=400 imag=3.15 time=500 cy=300 mag=1 my=0 storage=08魔術・攻撃b rot=-0.0 accel=-2][wdash canskip=0][dash textoff=0 hidefg=0 mx=0 opacity=100 layer=base irot=-0.0 cx=400 imag=3.15 time=500 cy=300 mag=1 my=0 storage=07衝撃 rot=-0.0 accel=-2][wdash canskip=0][dash textoff=0 hidefg=0 mx=0 opacity=255 layer=base irot=-0.0 cx=400 imag=4 time=2800 cy=300 mag=1.8 my=0 storage=08魔術・攻撃b rot=5 accel=-4][wdash canskip=0][wm canskip=0][wm canskip=0]::
 43694::$$$message_0370_0004_0000$$$::[hfu]"[hfl]"[hfu][line len=1][hfl][line len=1][hfu][line len=1][hfl][line len=1][hfu][line len=1][hfl][line len=1][hfu][line len=1][hfl][line len=1][hfu][line len=1][hfl][line len=1][hfu][line len=1][hfl][line len=1][hfu]"[hfl]"[playstop time=6000 nowait=true][wait canskip=0 time=3000][nolr][p]::
 43695::$$$message_0370_0004_0001$$$::"...Ei.[lr]::
-43696::$$$message_0370_0004_0002$$$::Diga algo, vocês dois."::
-43697::$$$message_0370_0004_0003$$$::"...Hmm? Ué, [l][hfchance layer=1][say storage=HSTR4_TIG_0020 _name=藤ねえ]merda, esqueci tudo."::
-43698::$$$message_0370_0004_0004$$$::"Um, cuidado, Illya. A Tohsaka está estranha hoje. Na verdade, ela está quase uma pessoa completamente diferente...!"::
-43699::$$$message_0370_0004_0005$$$::"Então ela não era uma pessoa direta depois de tudo!"::
-43700::$$$message_0370_0004_0006$$$::"Eu acho que vocês dois poderiam competir por esse honra... Embora sim, Rin está inesperadamente se suicidando."::
-43701::$$$message_0370_0004_0007$$$::"Ela também está aqui para vingança porque não teve tempo suficiente na história principal?"::
-43702::$$$message_0370_0004_0008$$$::"Ahahaha. Você quer dizer [font italic=true]harikiri[font italic=false], Illya. Significa "excitado". Mas tenho que dizer, qualquer um se encaixa!"::
-43703::$$$message_0370_0004_0009$$$::"Tohsaka, não se adianta só porque desceu da condição de heroína."::
+43696::$$$message_0370_0004_0002$$$::Digam alguma coisa, vocês."::
+43697::$$$message_0370_0004_0003$$$::"...Hã? Ah, [l][hfchance layer=1][say storage=HSTR4_TIG_0020 _name=藤ねえ]droga, esqueci tudo, Fuji-Nee."::
+43698::$$$message_0370_0004_0004$$$::"Hum, cuidado, Illya-chan. A Tohsaka-san está estranha hoje. Na verdade, parece quase outra pessoa...!"::
+43699::$$$message_0370_0004_0005$$$::"Então ela não era tão direta assim, no fim das contas!"::
+43700::$$$message_0370_0004_0006$$$::"Acho que vocês duas poderiam disputar essa honra... Embora, sim, a Rin esteja cometendo suicídio social sozinha."::
+43701::$$$message_0370_0004_0007$$$::"Ela também veio se vingar porque não teve tempo de tela suficiente na história principal?"::
+43702::$$$message_0370_0004_0008$$$::"Ahahaha. Você quer dizer [font italic=true]harakiri[font italic=false], Illya-chan. Significa "cortar a barriga". Mas, pensando bem, os dois servem!"::
+43703::$$$message_0370_0004_0009$$$::"Tohsaka-san, não se empolgue só porque desceu do posto de heroína e veio para o campo de batalha."::
 43704::$$$message_0370_0004_0010$$$::"Eu nunca disse que estava fazendo isso![lr]::
-43705::$$$message_0370_0004_0011$$$::Estou aqui só para te dar um jeito como Mestre!"::
-43706::$$$message_0370_0004_0012$$$::"Isso não é como se eu pretendesse usar o Santo Graal para enfiar um subplano de Londres na história!"::
-43707::$$$message_0370_0004_0013$$$::"Bem, bem. Que generoso de você. Como sua ex-professora, fico comovida."::
-43708::$$$message_0370_0004_0014$$$::"Pouco. Ela pode ser a mais gananciosa de todas as pessoas em Fuyuki. Você não acha, Archer?"::
-43709::$$$message_0370_0004_0015$$$::"Agora, agora, ambições impossíveis são inofensivas, você sabe."::
-43710::$$$message_0370_0004_0016$$$::"Além disso, mesmo que ela fosse, de alguma forma, a última mulher de pé, acabaria botando a mão na cara no último minuto. Quase uma ameaça à paz e tranquilidade de Fuyuki."::
-43711::$$$message_0370_0004_0017$$$::"Aha, você conhece bem ela, Archer."::
-43712::$$$message_0370_0004_0018$$$::"Hey, pare de se meter com o inimigo!"::
-43713::$$$message_0370_0005_0000$$$::[hffacechg chara=凛 face=楽 pos=upper time=200]"Hmmf! Já basta de conversa fiada. Eu já sei mais ou menos até que ponto você é forte."::
-43714::$$$message_0370_0005_0001$$$::"Você tem um Servo estranho, mas acho que ela não consegue superar o Archer em uma luta de Marble Fantasma."::
-43715::$$$message_0370_0005_0002$$$::"Mrgh. Agora que você mencionou, eu realmente sinto uma certa afinidade."::
-43716::$$$message_0370_0006_0000$$$::[hffacechg chara=藤ねえ face=まったく2 layer=1 time=200]"Hmm. Você sabe, eu sinto que já tive um encontro com você antes. Já nos vimos em algum lugar, Senhor Alto, Escuro e Bonito?"::
-43717::$$$message_0370_0006_0001$$$::"Bem, se você não se lembra, então talvez não nos conheçamos. Talvez eu só tenha um desses rostos. Não se preocupe e venha para cima de mim."::
-43718::$$$message_0370_0006_0002$$$::"...Sempre tive a sensação de que você era mole com a Taiga."::
-43719::$$$message_0370_0006_0003$$$::"Eu sei tudo sobre isso, você sabe. [l][hfpop layer=1][say storage=HSTR4_BIR_0080 _name=ブルマイリヤ]Depois que você escapou de Caster no caminho de Rin e perguntou se ela estava bem, aquilo realmente era para Rin?"::
+43705::$$$message_0370_0004_0011$$$::Estou aqui só para dar uma surra em vocês como Mestra!"::
+43706::$$$message_0370_0004_0012$$$::"N-não é como se eu pretendesse usar o Santo Graal para enfiar um subenredo de Londres na história!"::
+43707::$$$message_0370_0004_0013$$$::"Ora, ora. Quanta abnegação. Como sua ex-Sensei, fico comovida, Tohsaka-san."::
+43708::$$$message_0370_0004_0014$$$::"Generosa nada. Ela talvez seja a pessoa mais gananciosa de Fuyuki. Não acha, Archer?"::
+43709::$$$message_0370_0004_0015$$$::"Ora, ora, ambições impossíveis são inofensivas, sabe."::
+43710::$$$message_0370_0004_0016$$$::"Além disso, mesmo que por algum milagre ela fosse a última de pé, daria um jeito de estragar tudo no último minuto. Mal chega a ser ameaça à paz de Fuyuki."::
+43711::$$$message_0370_0004_0017$$$::"Aha, você conhece bem a Rin, Archer."::
+43712::$$$message_0370_0004_0018$$$::"Ei, para de confraternizar com o inimigo!"::
+43713::$$$message_0370_0005_0000$$$::[hffacechg chara=凛 face=楽 pos=upper time=200]"Hmph! Chega de conversa fiada. Eu já sei mais ou menos o quanto vocês são fortes."::
+43714::$$$message_0370_0005_0001$$$::"Você tem uma Serva estranha, mas não acho que ela consiga superar Archer numa disputa de Projeções de Realidade."::
+43715::$$$message_0370_0005_0002$$$::"Mrgh. Agora que você mencionou, sinto mesmo certa afinidade."::
+43716::$$$message_0370_0006_0000$$$::[hffacechg chara=藤ねえ face=まったく2 layer=1 time=200]"Hmm. Sabe, tenho a sensação de que já cruzei com você antes. A gente se conhece de algum lugar, senhor alto, moreno e bonito, Fuji-Nee?"::
+43717::$$$message_0370_0006_0001$$$::"Bem, se você não se lembra, talvez não nos conheçamos. Talvez eu só tenha um rosto comum. Não se preocupe e venha com tudo."::
+43718::$$$message_0370_0006_0002$$$::"...Sempre achei que você pegava leve com a Taiga."::
+43719::$$$message_0370_0006_0003$$$::"Eu sei tudinho, sabia. [l][hfpop layer=1][say storage=HSTR4_BIR_0080 _name=ブルマイリヤ]Quando você escapou da Caster na rota da Rin e perguntou se ela estava bem, aquilo era mesmo para a Rin?"::
 43720::$$$message_0370_0006_0004$$$::"Ah, não sei. Deixe para a sua imaginação."::
-43721::$$$message_0370_0006_0005$$$::"Diz, não há fraternização![lr]::
-43722::$$$message_0370_0006_0006$$$::Saber e Sakura estão fora da luta, e Emiya está apenas deitado ali. Você é o único que resta, Illya."::
-43723::$$$message_0370_0006_0007$$$::"É hora de decidir de uma vez por todas quem é o mais forte na casa Emiya!"::
-43724::$$$message_0370_0006_0008$$$::"Você me i[l][hffacechg chara=藤ねえ face=うーん layer=1 time=200][hfchance layer=1][say storage=HSTR4_TIG_0120 _name=藤ねえ]ncluiu?[lr]::
-43725::$$$message_0370_0006_0009$$$::[hfwww layer=1]Como é que eu não conto como rival, Tohsaka!?"[nolr][p]:
+43721::$$$message_0370_0006_0005$$$::"Eu disse: nada de confraternizar![lr]::
+43722::$$$message_0370_0006_0006$$$::Saber e Sakura estão fora da luta, e Emiya-kun está estirado ali. Você é a única que resta, Illya."::
+43723::$$$message_0370_0006_0007$$$::"É hora de decidir de uma vez por todas quem é a mais forte da casa Emiya!"::
+43724::$$$message_0370_0006_0008$$$::"Isso aí! [l][hffacechg chara=藤ねえ face=うーん layer=1 time=200][hfchance layer=1][say storage=HSTR4_TIG_0120 _name=藤ねえ]Espera, e eu!, Fuji-Nee?[lr]::
+43725::$$$message_0370_0006_0009$$$::[hfwww layer=1]Como é que eu não conto como heroína rival, Tohsaka!?"[nolr][p]:��

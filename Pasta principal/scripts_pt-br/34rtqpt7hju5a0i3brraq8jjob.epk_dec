@@ -9,15 +9,15 @@ id=qid::label=str::text=lstr::
 43468::$$$message_0366_0001_0003$$$::"Vamos lá, abra um espaço na mesa. Eu fiz um arroz frito de alface que deve refrescar o seu paladar."::
 43469::$$$message_0366_0001_0004$$$::"Ooh! Este é... um prato tão vívido.[lr]::
 43470::$$$message_0366_0001_0005$$$::O arroz frito e branco cintilante se harmoniza muito bem com os vegetais verdes."::
-43471::$$$message_0366_0001_0006$$$::"Eu acho que poderia, nhom nhom, comer mais duas tigelas, nhom nhom, e não apenas uma."::
-43472::$$$message_0366_0001_0007$$$::"Sério? Então coma. Eu limparei tudo quando você terminar, e aí nós poderemos ir ao dojo."::
+43471::$$$message_0366_0001_0006$$$::"Acho que consigo, nhom nhom, comer mais duas tigelas, nhom nhom, não só uma."::
+43472::$$$message_0366_0001_0007$$$::"Sério? Então coma. Eu limparei tudo quando você terminar, e aí nós poderemos ir ao dojô."::
 43473::$$$message_0366_0001_0008$$$::"Sabe, eu recebi um telefonema da igreja dizendo que a Guerra do Santo Graal começou."::
 43474::$$$message_0366_0001_0009$$$::"A Guerra do Santo Graal...? Pensando bem, eu encontrei isso[l][fg textoff=0 left=327 index=1000 top=227 time=400 storage=星a][say storage=HSTR2_SAV_0080 _name=セイバー] na correspondência desta manhã."::
 43475::$$$message_0366_0001_0010$$$::"O que é isso? Uma bola de cristal manchada...?"::
 43476::$$$message_0366_0001_0011$$$::"Parece um padrão de zebra, mas pode ser algum tipo de relíquia sagrada. Acredito que possa ser isso que os Mestres estão disputando."::
 43477::$$$message_0366_0001_0012$$$::"...A coisa está ficando preta de novo. Talvez eu devesse levá-lo de volta para o Kotomine. Vou dizer para ele não nos inscrever numa guerra que nós nem ao menos pedimos para participar."::
 43478::$$$message_0366_0001_0013$$$::"Hrumf!? I-Isso não é verdade, Shirou.[lr]::
-43479::$$$message_0366_0001_0014$$$::[hffacechg chara=セイバー face=哀2 layer=1 time=200][hfsigh layer=1]Eu penso isso já faz algum tempo, mas você realmente não tem nenhum desejo egoísta."::
+43479::$$$message_0366_0001_0014$$$::[hffacechg chara=セイバー face=哀2 layer=1 time=200][hfsigh layer=1]Já faz algum tempo que penso nisso, mas você não tem nenhum desejo egoísta mesmo."::
 43480::$$$message_0366_0001_0015$$$::"Talvez essa seja uma das suas virtudes, mas certamente você não será punido por desejar coisas melhores."::
 43481::$$$message_0366_0001_0016$$$::"Hã? O q-que você quer dizer, Saber?[lr]::
 43482::$$$message_0366_0001_0017$$$::Eu não vou te dar mais comida se você continuar me olhando feio assim."::
@@ -50,19 +50,19 @@ id=qid::label=str::text=lstr::
 43509::$$$message_0366_0004_0001$$$::"GWAAAAHHH![lr]::
 43510::$$$message_0366_0004_0002$$$::Isso só faz disso um restaurante para reis!"[nolr]::
 43511::$$$message_0366_0005_0000$$$::"Vocês estão me dando diabete, morraaaaaam![lr]::
-43512::$$$message_0366_0005_0001$$$::[nolr]Isso é muito vergonhoso de se assistir!"[wm canskip=0][fg opacity=0 left=71 index=5000 top=558 time=100 storage=hf_ブルマイリヤ-怒][fg opacity=0 left=0 index=500 top=0 time=100 storage=m02タイガーぱんちb][p]::
+43512::$$$message_0366_0005_0001$$$::[nolr]Isso é muito vergonhoso de se assistir, Onee-chan!"[wm canskip=0][fg opacity=0 left=71 index=5000 top=558 time=100 storage=hf_ブルマイリヤ-怒][fg opacity=0 left=0 index=500 top=0 time=100 storage=m02タイガーぱんちb][p]::
 43513::$$$message_0366_0005_0002$$$::"Idem! Como assim você não tem um desejo!? Shirou, seu farsante!"[wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0]::
 43514::$$$message_0366_0006_0000$$$::"Neste exato momento, você não passa de um funcionário de zoológico alimentando um leão enjaulado!"::
 43515::$$$message_0366_0007_0000$$$::"Apresse-se e perceba que a sua Serva está se aproveitando de você!"[wm canskip=0]::
 43516::$$$message_0366_0008_0000$$$::"...? O que está acontecendo, Taiga? Illyasviel? E vocês não estão com frio com esses trajes estranhos?"::
-43517::$$$message_0366_0008_0001$$$::"Não! Eu não sou aquela professora levemente briguenta e estressadinha [skip_next_tag][br]::
-43518::$$$message_0366_0008_0002$$$::que você conhece como Fuji-nee!"::
+43517::$$$message_0366_0008_0001$$$::"Não! Eu não sou a professora levemente brigona e fumegante [skip_next_tag][br]::
+43518::$$$message_0366_0008_0002$$$::que você conhece como Fuji-Nee!"::
 43519::$$$message_0366_0009_0000$$$::"Você e eu somos inimigos inconciliáveis na Guerra do Santo Graal!"::
-43520::$$$message_0366_0009_0001$$$::"E-Estressadinha? Isso soa de alguma forma apetitoso. [wait canskip=0 time=300][l][hffacechg chara=セイバー face=怒 layer=0 time=200][say storage=HSTR2_SAV_0360 _name=セイバー]O que é essa tal de 'estressadinha' da qual ela fala, Shirou!?"::
-43521::$$$message_0366_0009_0002$$$::"Alguma coisa que ela não é, eu acho."::
-43522::$$$message_0366_0009_0003$$$::"Não mesmo! A Fuji-nee não existe mais! Nós somos a Tiger & Gym Shorts! [wm][l][hfchance layer=1][say storage=HSTR2_TIG_0080 _name=藤ねえ]Feras famintas prontas para devorar os casais desatentamente melosos do mundo!"::
-43523::$$$message_0366_0009_0004$$$::"Ah, e, a propósito, 'estressadinha' é como aquele tempero escuro furikake que você joga no arroz branco para sinalizar que é a hora do almoço."::
-43524::$$$message_0366_0009_0005$$$::"...Por mais suspeito que você esteja agindo hoje, obviamente que é você, Fuji-nee."::
+43520::$$$message_0366_0009_0001$$$::"F-fumegante? Isso soa meio apetitoso. [wait canskip=0 time=300][l][hffacechg chara=セイバー face=怒 layer=0 time=200][say storage=HSTR2_SAV_0360 _name=セイバー]Que história é essa de 'fumegante', Shirou!?"::
+43521::$$$message_0366_0009_0002$$$::"Algo que ela não é, eu acho."::
+43522::$$$message_0366_0009_0003$$$::"Não mesmo! A Fuji-Nee não existe mais! Nós somos a Tiger & Gym Shorts! [wm][l][hfchance layer=1][say storage=HSTR2_TIG_0080 _name=藤ねえ]Feras famintas prontas para devorar os casais desatentamente melosos do mundo!"::
+43523::$$$message_0366_0009_0004$$$::"Ah, e, a propósito, 'estressadinha' é como aquele tempero escuro furikake que você joga no arroz branco para sinalizar que é a hora do almoço, Saber-chan."::
+43524::$$$message_0366_0009_0005$$$::"...Por mais suspeito que você esteja agindo hoje, obviamente que é você, Fuji-Nee."::
 43525::$$$message_0366_0009_0006$$$::"Sim. São a Taiga e a Illyasviel usando roupas estranhas."::
 43526::$$$message_0366_0010_0000$$$::"Falando nisso, eu não vejo vocês ultimamente. Vocês estavam viajando?"::
 43527::$$$message_0366_0010_0001$$$::"Nem um pouco! Que droga, ver você agindo normalmente como se nada estivesse acontecendo tira um peso das minhas costas! [seloop time=2000 storage=se347.wav]Agora é hora de destruir a Terra!"::
@@ -70,5 +70,5 @@ id=qid::label=str::text=lstr::
 43529::$$$message_0366_0010_0003$$$::"!?!? Shirou, tem algo errado!"::
 43530::$$$message_0366_0011_0000$$$::"O arroz frito, o delicioso arroz frito de alface que você fez, está se transformando em uma carta bizarra!"::
 43531::$$$message_0366_0011_0001$$$::"Ugh. Isso é mau, Saber.[lr]::
-43532::$$$message_0366_0011_0002$$$::[hffacechg chara=士郎 face=悩 layer=0 time=200]Pode ser que essa Fuji-nee e essa Illya não sejam as que nós conhecemos!"::
+43532::$$$message_0366_0011_0002$$$::[hffacechg chara=士郎 face=悩 layer=0 time=200]Pode ser que essa Fuji-Nee e essa Illya não sejam as que nós conhecemos!"::
 43533::$$$message_0366_0011_0003$$$::"É isso o que eu estou dizendo! Como você consegue ser tão lerdo?"[nolr][p]::

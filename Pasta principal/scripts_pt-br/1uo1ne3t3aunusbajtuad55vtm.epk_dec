@@ -8,17 +8,17 @@ id=qid::label=str::text=lstr::
 44165::$$$message_0378_0003_0000$$$::"Então são as colinas lá atrás.[lr]::
 44166::$$$message_0378_0003_0001$$$::Estamos quase lá, Taiga. Agora nós podemos realizar nosso... [wait canskip=0 time=400][l][hffacechg chara=ブルマイリヤ face=うーん layer=1 time=200][say storage=HSTR8_BIR_0030 _name=ブルマイリヤ]Taiga?"::
 44167::$$$message_0378_0004_0000$$$::"...[hfchance layer=0]Hmph. Esta farsa acabou."::
-44168::$$$message_0378_0005_0000$$$::"Illya, está na hora de pararmos de fingir que somos amigas. Me dê todas as estrelas se quiser viver."::
+44168::$$$message_0378_0005_0000$$$::"Illya-chan, está na hora de pararmos de fingir que somos amigas. Me dê todas as estrelas se quiser viver."::
 44169::$$$message_0378_0005_0001$$$::"Hã...? [l][hffacechg chara=ブルマイリヤ face=哀2 layer=1 time=200][say storage=HSTR8_BIR_0060 _name=ブルマイリヤ]O-o que é isso, uma brincadeira nova?[lr]::
 44170::$$$message_0378_0005_0002$$$::[hffacechg chara=ブルマイリヤ face=楽3 layer=1 time=200][hfchance layer=1]Você tem que melhorar, Taiga. Essa não teve graça[line len=2]"::
 44171::$$$message_0378_0006_0000$$$::"Ah...!?"::
-44172::$$$message_0378_0006_0001$$$::"Você é uma piada, Illya. Sinceramente, por quanto tempo você planeja fingir ser uma Mestre?"::
+44172::$$$message_0378_0006_0001$$$::"Você é uma piada, Illya-chan. Sinceramente, por quanto tempo você planeja fingir ser uma Mestre?"::
 44173::$$$message_0378_0006_0002$$$::"Você já gastou todos os Selos de Comando que me prendiam."::
 44174::$$$message_0378_0006_0003$$$::"Hã...? De jeito nenhum.[lr]::
 44175::$$$message_0378_0006_0004$$$::V-[l][hfchance layer=1][say storage=HSTR8_BIR_0130 _name=ブルマイリヤ]você tá brincando, né, Taiga...?"::
-44176::$$$message_0378_0007_0000$$$::"Nós lutamos juntas esse tempo todo, e nos tornamos mestre e aprendiz..."::
+44176::$$$message_0378_0007_0000$$$::"Nós lutamos juntas até aqui e viramos mestra e discípula..."::
 44177::$$$message_0378_0007_0001$$$::"Kek kek kek kek.[lr]::
-44178::$$$message_0378_0007_0002$$$::[hffacechg chara=藤ねえ face=真剣 layer=0 time=200]Você é ingênua. Muito ingênua, mocinha. Isso explica como você foi expulsa do seu antigo mundo."::
+44178::$$$message_0378_0007_0002$$$::[hffacechg chara=藤ねえ face=真剣 layer=0 time=200]Você é ingênua. Muito ingênua, mocinha. Isso explica como você foi expulsa do seu antigo mundo, Fuji-Nee."::
 44179::$$$message_0378_0007_0003$$$::"Sou a única que terá o desejo concedido. Desde o início isso foi uma disputa onde o vencedor leva tudo."::
 44180::$$$message_0378_0007_0004$$$::"Não... Eu não acredito que você vai me trair[l][hffacechg chara=ブルマイリヤ face=哀 layer=1 time=200][say storage=HSTR8_BIR_0170 _name=ブルマイリヤ] logo no final, Taiga..."::
 44181::$$$message_0378_0007_0005$$$::"Heh heh heh. Ah, doce desespero."::
@@ -28,7 +28,7 @@ id=qid::label=str::text=lstr::
 44185::$$$message_0378_0008_0003$$$::"Heh. Eu preparei um Campo Fechado quando viemos ao Templo Ryudou, pensando que isso poderia acontecer."::
 44186::$$$message_0378_0008_0004$$$::"Eu tinha um palpite de que uma alma perdida tentaria me apunhalar pelas costas de última hora!"::
 44187::$$$message_0378_0008_0005$$$::"...(Ah, merda.)[lr]::
-44188::$$$message_0378_0008_0006$$$::[hffacechg chara=藤ねえ face=楽2 layer=0 time=200][hfpop layer=0]Umm, Illya? A gente pode dizer que era só uma brincadeirinha depois de tudo?"::
+44188::$$$message_0378_0008_0006$$$::[hffacechg chara=藤ねえ face=楽2 layer=0 time=200][hfpop layer=0]Umm, Illya-chan? A gente pode dizer que era só uma brincadeirinha depois de tudo, Fuji-Nee?"::
 44189::$$$message_0378_0008_0007$$$::"Não! Eu sou uma idiota por pensar um pouco melhor sobre você e mudar meus planos!"::
 44190::$$$message_0378_0009_0000$$$::"[hffacechg chara=ブルマイリヤ face=ふっ layer=1 time=200][hfwww layer=1]A primeiríssima coisa que eu planejei foi te espancar pra valer, e eu vou cumprir com isso!"::
 44191::$$$message_0378_0009_0001$$$::"...Heh. Eu sabia que nós éramos como farinha do mesmo saco como Servo e Mestre, mas você é ainda mais parecida comigo do que eu pensava."::

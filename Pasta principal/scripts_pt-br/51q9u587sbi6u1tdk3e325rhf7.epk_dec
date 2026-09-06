@@ -3,7 +3,7 @@ id=qid::label=str::text=lstr::
 26859::$$$message_0200_0000_0000$$$::Vou perguntar a ela sobre nossa situação atual.[lr]::
 26860::$$$message_0200_0000_0001$$$::A Tohsaka voltou pra casa porque soube do que tá rolando na cidade, então vai ser bom a gente escutar a opinião dela.::
 26861::$$$message_0200_0001_0000$$$::"Pois é, eu dei uma vasculhada rápida pela cidade. E no momento a gente não tem muito em que trabalhar.[lr]::
-26862::$$$message_0200_0001_0001$$$::E você sabe de alguma coisa, Emiya?"[lr]::
+26862::$$$message_0200_0001_0001$$$::E você sabe de alguma coisa, Emiya-kun?"[lr]::
 26863::$$$message_0200_0001_0002$$$::Ela já parece ansiosa pra conversar sobre, e atira a pergunta pra mim antes mesmo que eu perguntasse a ela.[lr]::
 26864::$$$message_0200_0001_0003$$$::Por um lado eu fico feliz que a gente não esteja perdendo tempo nenhum, mas pra começo de conversa, eu tenho é uma outra pergunta.::
 26865::$$$message_0200_0002_0000$$$::"Ei, Tohsaka. E o que o Archer tá aprontando? Já que você voltou pra casa, ele deve estar de prontidão em algum lugar por perto?"[lr]::
@@ -20,7 +20,7 @@ id=qid::label=str::text=lstr::
 26876::$$$message_0200_0006_0002$$$::O Archer não tá mais colado por perto, mas ele ainda quebra os galhos da Tohsaka quando ela precisa que ele quebre, só de vez em quando.[lr]::
 26877::$$$message_0200_0006_0003$$$::...Não faço nem ideia do que foi que levou ele a fazer uma escolha dessas, mas parece que é assim mesmo que as coisas têm de ser agora.[lr]::
 26878::$$$message_0200_0006_0004$$$::Se ele continuasse sendo o Servo da Tohsaka, isso poderia acabar gerando um tremendo e sério conflito de algum tipo.::
-26879::$$$message_0200_0007_0000$$$::"Emiya? Sua cara não tá nada boa, tá até me preocupando.[lr]::
+26879::$$$message_0200_0007_0000$$$::"Emiya-kun? Sua cara não tá nada boa, tá até me preocupando.[lr]::
 26880::$$$message_0200_0007_0001$$$::Sei que você não vai nem um pingo com a cara do Archer, mas não suporta nem mesmo escutar falar no nome dele também?"::
 26881::$$$message_0200_0008_0000$$$::"Não, é que eu só me senti um pouco de tontura agora. Foi mal por ter tocado nesse assunto. Eu vou direto ao ponto.[lr]::
 26882::$$$message_0200_0008_0001$$$::O que você acha disso tudo depois de você ter dado essa sua checada pela cidade? Deu pra você sentir algo de errado ou fora do lugar pra você?"::
@@ -30,7 +30,7 @@ id=qid::label=str::text=lstr::
 26886::$$$message_0200_0010_0001$$$::Será que ela tá querendo dizer que a situação se conserta por si só logo de cara sempre que a gente repara que algo tá de errado nela?[lr]::
 26887::$$$message_0200_0010_0002$$$::Dizendo em miúdos, é que a gente achar que ela tá correta já é um erro.[lr]::
 26888::$$$message_0200_0010_0003$$$::E então... [move textoff=0 time=100 path=(0,0,0)(0,0,255)(0,0,255)(0,0,255)(0,0,255)(0,0,255)(0,0,255)(0,0,255)(0,0,0) storage=fd07(背景) accel=0][move textoff=0 time=100 path=(0,0,0)(0,0,255)(0,0,200)(0,0,155)(0,0,100)(0,0,55)(0,0,0)(0,0,255)(0,0,100)(0,0,0)(0,0,0) storage=white accel=0]Se eu for presumir que os eventos que não tão corretos, e os mesmos eventos que em situações normais jamais se sucederiam em Fuyuki [font italic=true]estão[font italic=false] sim corretos...::
-26889::$$$message_0200_0011_0000$$$::"Cara, você tá com uma expressão de que sabe de alguma coisa. O que foi que rolou enquanto eu não tava aqui?"[lr]::
+26889::$$$message_0200_0011_0000$$$::"Cara, Emiya-kun tá com uma expressão de que sabe de alguma coisa. O que foi que rolou enquanto eu não tava aqui?"[lr]::
 26890::$$$message_0200_0011_0001$$$::"Não foi nada. Nada não, mas..."[lr]::
 26891::$$$message_0200_0011_0002$$$::De onde foi que eu adquiri mais esse novo conhecimento?::
 26892::$$$message_0200_0012_0000$$$::"...Tem uma coisa que eu gostaria de contar pra você.[lr]::
@@ -39,29 +39,29 @@ id=qid::label=str::text=lstr::
 26895::$$$message_0200_0012_0003$$$::Dou a ela um relato da minha batalha que eu travei contra o Archer, uma batalha que nem mesmo chegou a acontecer.[lr]::
 26896::$$$message_0200_0012_0004$$$::Descrevo também o de como a Saber foi tombar em uma luta lutando contra um Mestre que nunca cheguei a ver na vida.[lr]::
 26897::$$$message_0200_0012_0005$$$::Até o momento que chego a falar pra ela sobre a história da cidade de Fuyuki, que dá o seu fim daqui a exatos quatro dias.::
-26898::$$$message_0200_0013_0000$$$::"...Mas só pra garantir de que eu entendi direito, você tá me dizendo que apenas [font italic=true]sabe sobre[font italic=false] esses eventos, tô certa? E de que nem mesmo chegou a testemunhar com os seus próprios olhos, ou de que também nem mesmo sequer chegou no quarto dia também."[lr]::
+26898::$$$message_0200_0013_0000$$$::"...Mas só pra garantir de que eu entendi direito, Emiya-kun tá me dizendo que apenas [font italic=true]sabe sobre[font italic=false] esses eventos, tô certa? E de que nem mesmo chegou a testemunhar com os seus próprios olhos, ou de que também nem mesmo sequer chegou no quarto dia também."[lr]::
 26899::$$$message_0200_0013_0001$$$::"Isso mesmo. Eu apenas sei sobre eles. Não é como se eu tivesse sido pego num sonho onde eu os vi acontecer ou coisa do tipo."::
 26900::$$$message_0200_0014_0000$$$::"Mas mesmo assim você sabe. Porque se isso vier a ocorrer de rolar de verdade nessa cidade, você acaba sabendo disso por algum motivo, de alguma maneira ou outra.[lr]::
-26901::$$$message_0200_0014_0001$$$::Porém, de exato momento que se diz respeito a agora, não tem como você se lembrar deles, pelo simples fato de que você [font italic=true]ainda[font italic=false] não os conhece."::
-26902::$$$message_0200_0015_0000$$$::"Mas pensando desse jeito, não é como se você estivesse [font italic=true]começando tudo do zero[font italic=false]. É porque é só você que tá se encontrando nesse estado enquanto eu e a Sakura tamo aqui vivendo normalmente, por isso que isso não deve valer pra todo mundo em Fuyuki.[lr]::
-26903::$$$message_0200_0015_0001$$$::...Não. Será que rola de que as coisas em Fuyuki fiquem do jeito que tão só ao longo desses quatro dias, e de que é só você a única pessoa que se encontra capacitada de assistir a essas mudanças todas com outros olhos...?"::
+26901::$$$message_0200_0014_0001$$$::Porém, de exato momento que se diz respeito a agora, não tem como Emiya-kun se lembrar deles, pelo simples fato de que você [font italic=true]ainda[font italic=false] não os conhece."::
+26902::$$$message_0200_0015_0000$$$::"Mas pensando desse jeito, não é como se Emiya-kun estivesse [font italic=true]começando tudo do zero[font italic=false]. É porque é só Emiya-kun que tá se encontrando nesse estado enquanto eu e a Sakura tamo aqui vivendo normalmente, por isso que isso não deve valer pra todo mundo em Fuyuki.[lr]::
+26903::$$$message_0200_0015_0001$$$::...Não. Será que rola de que as coisas em Fuyuki fiquem do jeito que tão só ao longo desses quatro dias, e de que é só Emiya-kun a única pessoa que se encontra capacitada de assistir a essas mudanças todas com outros olhos...?"::
 26904::$$$message_0200_0016_0000$$$::...Isso que eu soltei pra Tohsaka é exatamente sobre o fim do quarto dia, que por algum motivo eu acabo sabendo de alguma coisa a respeito dele.[lr]::
-26905::$$$message_0200_0016_0001$$$::Mas sendo que não existe nenhum traço de um futuro pro Shirou Emiya depois desse quarto dia.[lr]::
+26905::$$$message_0200_0016_0001$$$::Mas sendo que não existe nenhum traço de um futuro pro Emiya Shirou depois desse quarto dia.[lr]::
 26906::$$$message_0200_0016_0002$$$::De imediato, Tohsaka começa a resmungar pra si mesma o que isso tudo possa significar.::
 26907::$$$message_0200_0017_0000$$$::"...Hum, sim. Agora saquei tudo. Isso de guerra não foi retomada coisa nenhuma não. Na verdade, ela tá é sendo só reencenada. E isso até que explicaria bem o do porquê de que todos os Servos estarem por aqui ainda. Sendo assim, umm... só deve ser uma pessoa que tá metendo o louco aqui nas mentiras, e não todo mundo..."[lr]::
 26908::$$$message_0200_0017_0001$$$::O semblante na cara da Tohsaka se fica bem abismado.[lr]::
 26909::$$$message_0200_0017_0002$$$::O abismado de alguém que bateu na conclusão de alguma coisa desagradável.::
 26910::$$$message_0200_0018_0000$$$::"Tohsaka...? Você pescou sobre o que é que isso tudo trata dessa situação doida que tá rolando?"[lr]::
-26911::$$$message_0200_0018_0001$$$::"...É, pois é. Isso de base de partir de uma [font italic=true]grande[font italic=false] de uma presunção na qual as coisas de que você acabou de me dizer fossem verdadeiras, então creio que já saquei mais ou menos do como as coisas funcionam aqui."[lr]::
+26911::$$$message_0200_0018_0001$$$::"...É, pois é. Isso de base de partir de uma [font italic=true]grande[font italic=false] de uma presunção na qual as coisas de que Emiya-kun acabou de me dizer fossem verdadeiras, então creio que já saquei mais ou menos do como as coisas funcionam aqui."[lr]::
 26912::$$$message_0200_0018_0002$$$::Isso até que parece promissor.[lr]::
 26913::$$$message_0200_0018_0003$$$::Mas a única coisa que me aborrece, é nela não estar botando total fé nas minhas palavras.::
-26914::$$$message_0200_0019_0000$$$::"Certo. Tudo o que eu disser aqui não passará apenas de um pequeno exercício pra mente nas bases do que essa sua grande história pra boi dormir tem a dizer. Por que, de nada nisso aqui isso tem [cacheimage storage=凛私服12a(中)][wvl canskip=0 time=500][chgfg textoff=0 time=200 storage=凛私服12a(中)]absolutamente [cacheimage storage=凛私服14b(中)][wvl canskip=0 time=500][chgfg textoff=0 time=200 storage=凛私服14b(中)]nada [cacheimage storage=凛私服06a(中)][wvl canskip=0 time=500][chgfg textoff=0 time=300 storage=凛私服06a(中)]a ver com a situação atual que a cidade tá passando agora, então peço que por gentileza, preste total atenção em tudo que eu falar agora e escute bem atentamente, ouviu?"[cacheimage storage=凛私服11c(中)][wvs][chgfg textoff=0 time=200 storage=凛私服11c(中)][lr]::
+26914::$$$message_0200_0019_0000$$$::"Certo. Tudo o que eu disser aqui não passará apenas de um pequeno exercício pra mente nas bases do que essa sua grande história pra boi dormir tem a dizer. Por que, de nada nisso aqui isso tem [cacheimage storage=凛私服12a(中)][wvl canskip=0 time=500][chgfg textoff=0 time=200 storage=凛私服12a(中)]absolutamente [cacheimage storage=凛私服14b(中)][wvl canskip=0 time=500][chgfg textoff=0 time=200 storage=凛私服14b(中)]nada [cacheimage storage=凛私服06a(中)][wvl canskip=0 time=500][chgfg textoff=0 time=300 storage=凛私服06a(中)]a ver com a situação atual que a cidade tá passando agora, então peço que por gentileza, preste total atenção em tudo que eu falar agora e escute bem atentamente, ouviu, Emiya-kun?"[cacheimage storage=凛私服11c(中)][wvs][chgfg textoff=0 time=200 storage=凛私服11c(中)][lr]::
 26915::$$$message_0200_0019_0001$$$::"Saquei. Ou seja, no fim das contas é só uma teoria maluca e nada mais que isso."::
-26916::$$$message_0200_0020_0000$$$::"Não, também não é isso. A minha teoria vai te entregar um grande de um belo prato cheio pra poder te trazer respostas coesas pro caso dessa sua louca história.[lr]::
+26916::$$$message_0200_0020_0000$$$::"Não, também não é isso. A minha teoria vai te entregar um grande de um belo prato cheio pra poder te trazer respostas coesas pro caso dessa sua louca história, Emiya-kun.[lr]::
 26917::$$$message_0200_0020_0001$$$::Enfim. Deixa ver aqui, onde é que tão os meus óculos..."[lr]::
-26918::$$$message_0200_0020_0002$$$::Senhorita Tohsaka logo cata um óculos dentre as coisas dela por lá na bolsa e o põe.[lr]::
+26918::$$$message_0200_0020_0002$$$::Sensei Tohsaka logo cata um óculos dentre as coisas dela por lá na bolsa e o põe.[lr]::
 26919::$$$message_0200_0020_0003$$$::Que já faz um tempão desde que eu não via ela dando uma de professora pro meu lado.::
-26920::$$$message_0200_0021_0000$$$::"E então, e indo de acordo com o que você disse, de forma óbvia já há e possui algo de muito esquisito rolando durante esses quatro dias, entre o dia 8 e o dia 11 de outubro.[lr]::
+26920::$$$message_0200_0021_0000$$$::"E então, e indo de acordo com o que Emiya-kun disse, de forma óbvia já há e possui algo de muito esquisito rolando durante esses quatro dias, entre o dia 8 e o dia 11 de outubro.[lr]::
 26921::$$$message_0200_0021_0001$$$::No fato em que tanto a Saber e a Rider disserem que a Guerra do Santo Graal teria sim recomeçado, mas que se você for pensar bem, não faz o menor sentido se fosse.[lr]::
 26922::$$$message_0200_0021_0002$$$::...Eu aposto que você já pescou, não pescou? Porque se isso não passasse de uma mera continuação, estaria faltando umas cabeças por aqui com certeza."::
 26923::$$$message_0200_0022_0000$$$::Pois é.[lr]::
@@ -82,14 +82,14 @@ id=qid::label=str::text=lstr::
 26938::$$$message_0200_0027_0002$$$::Eu falei isso...?::
 26939::$$$message_0200_0028_0000$$$::"...Pera lá. Pensa se a cidade sempre voltar ao modo zero depois de passado esses quatro dias, certo? Então como é que rola de eu saber o que é que vai se suceder depois?[lr]::
 26940::$$$message_0200_0028_0001$$$::É como se a pessoa que sempre retorna logo pro primeiro dia, só de certa a se aplicar no meu caso pra mim."::
-26941::$$$message_0200_0029_0000$$$::"Se esse fosse o esquema da coisa, então você retornaria, porém conservando as suas devidas memórias de cada partida que cê fechava. E de que o mais provável que tem acontecido, é de que as coisas se tratem mais na qual como se você tivesse testemunhando várias versões de si próprio, em que, deixa eu tentar desenhar pra ficar mais claro pra sua cabecinha."::
-26942::$$$message_0200_0030_0000$$$::"Esclarecendo logo, isso de fato não são mundos paralelos em que se tratam, mas de que na verdade o peso de cada probabilidade durante o decorrer desse tempo é totalmente igual em todas. Em tese, que é essa a situação que você se encontra agora.[lr]::
-26943::$$$message_0200_0030_0001$$$::Fazendo as contas em se por de caso e caso, que haja aí um corredor de nome Shirou Emiya onde de cujo reflexos espelhados e infinitos correm de modo exato pela mesma corrida, onde as largadas são dadas nos tempos de maneira não conjunta... Pegou o fio da meada?"::
+26941::$$$message_0200_0029_0000$$$::"Se esse fosse o esquema da coisa, então Emiya-kun retornaria, porém conservando as suas devidas memórias de cada partida que cê fechava. E de que o mais provável que tem acontecido, é de que as coisas se tratem mais na qual como se você tivesse testemunhando várias versões de si próprio, em que, deixa eu tentar desenhar pra ficar mais claro pra sua cabecinha."::
+26942::$$$message_0200_0030_0000$$$::"Esclarecendo logo, isso de fato não são mundos paralelos em que se tratam, mas de que na verdade o peso de cada probabilidade durante o decorrer desse tempo é totalmente igual em todas. Em tese, que é essa a situação que Emiya-kun se encontra agora.[lr]::
+26943::$$$message_0200_0030_0001$$$::Fazendo as contas em se por de caso e caso, que haja aí um corredor de nome Emiya Shirou onde de cujo reflexos espelhados e infinitos correm de modo exato pela mesma corrida, onde as largadas são dadas nos tempos de maneira não conjunta... Pegou o fio da meada?"::
 26944::$$$message_0200_0031_0000$$$::"Umm, teve um joguinho na qual cheguei a jogar quando estive em Londres, que é meio que nesse mesmo nape do que você disse.[lr]::
 26945::$$$message_0200_0031_0001$$$::O gênero eu acho que é Shoot 'em up, não é? Na qual você tem umas três naves te dando as caras pra iniciar, até caso se ela te pocar, aí tu precisa retornar desde o início e dar partida tudo de novo.[lr]::
 26946::$$$message_0200_0031_0002$$$::A mesma coisa em questão de como ela prossegue na qual não dá pra cê conservar as bagagens de cada partida no reset das chances que ele te dá pro caso das naves pocadas em sequência, mas de como tu acaba só vendo a partida se repetindo de cima em uma perspectiva que vem de uma terceira pessoa, aí acaba que a brincadeira que cê se põe a prosseguir no geral se dá como continua no quadro do que acontece."::
 26947::$$$message_0200_0032_0000$$$::"Exatamente, é nessa mesma pegada de exemplo. Do qual as regras de reiniciar do zero de volta do começo caso a nave poque se aplicam de modo perfeito se desde que seja a sua de usar, já que aí nesse esquema tu tens a chance de dar outra repassada pela mesma exata corrida idêntica à que acabou de pocar antes nela, numa nave zero bala na qual se possui os mesmos tipos de status que você tinha desde o início da partida anterior.[lr]::
-26948::$$$message_0200_0032_0001$$$::Isso aí já te dá de fato uma senhora explicação bem na mão cheia pra detalhar desse seu estado do qual está agora."::
+26948::$$$message_0200_0032_0001$$$::Isso aí já te dá de fato uma senhora explicação bem na mão cheia pra detalhar desse seu estado do qual está agora, Emiya-kun."::
 26949::$$$message_0200_0033_0000$$$::"..."[lr]::
 26950::$$$message_0200_0033_0001$$$::Pode ser até bem um tanto da Tohsaka pra usar umas metáforas mais daquelas comigo de mim pra baixo, mas dessa vez, não é que deu pra eu sacar da qual ela quer dizer com isso.[lr]::
 26951::$$$message_0200_0033_0002$$$::Mas assim, pro fato de quando ela soltou dizendo antes pra mim sobre eu tá só assistindo "de camarote", ela pode estar querendo se referir de que eu, sendo o Corredor de pista C da coisa, já teria conseguido bater os meus olhos no Corredor de pista B que tava correndo mais pra frente ali logo na minha dianteira.::
@@ -97,8 +97,8 @@ id=qid::label=str::text=lstr::
 26953::$$$message_0200_0034_0001$$$::Eles que são umas meras vivências à parte de mim na qual não pude sentir na minha própria pele por mim mesmo, mas de que isso na verdade são só eles correndo numas outras pistas com as vivências só deles e afora de mim de eu nem tá na fita junto deles, numa espécie de forma onde, "Ih lá, o Corredor A rodou de base pro chefão, e eu nem tava lá.", eu acho...?::
 26954::$$$message_0200_0035_0000$$$::"Hmmm... Num cheguei a pescar a coisa de cabo a rabo, mas pela consistência eu vou acatar essa parada. E nisso me leva da tese onde se, caso por eu ser paciente e me botar em compasso de espera, se isso vai resolver de fato me dar a chave de passagem pra de lá do quarto dia?"::
 26955::$$$message_0200_0036_0000$$$::"Aí eu diria que isso só depende, mas creio eu e num boto fé nenhuma que não existam versões de onde de fato os seus corres pra arrumar tretas não rolam por lá não. Até porque as chegadas dos quintos dias sempre estariam a vir bater as portas da cidade sem se importarem nenhum se os fatos delas se dessem ou não contigo vivo até lá, de um modo ou de outro.[lr]::
-26956::$$$message_0200_0036_0001$$$::Ao me botar nas equações junto da Sakura e somando ao fato de que, nós que não tamo passando pelo mesmo sufoco que tem te dado nessas visões e desses sonhos, então se dá claro e notório que a cidade inteira nem deve se quer tá presa em loop nenhum também.[lr]::
-26957::$$$message_0200_0036_0002$$$::Dito as cartas da mesa, isso talvez nos leva de que... só apenas à tua pessoa onde tu encarnas em se ser alguém especial nessa equação toda, e de que nela o resultado de modo [font italic=true]tácito se dê que a sua rodada para dar as caras e fechar bater as botas no quarto dia[font italic=false], de que se por acaso se manter passivo perante todas essas tretas, essa seja de fato a sentença que lhe caia pra Guerra do Santo Graal pra te despachar pra sete palmos se acaso não mexer os pausinhos."::
+26956::$$$message_0200_0036_0001$$$::Ao me botar nas equações junto da Sakura e somando ao fato de que, nós que não tamo passando pelo mesmo sufoco que tem te dado nessas visões e desses sonhos, então se dá claro e notório que a cidade inteira nem deve se quer tá presa em loop nenhum também, Emiya-kun.[lr]::
+26957::$$$message_0200_0036_0002$$$::Dito as cartas da mesa, isso talvez nos leva de que... só apenas à tua pessoa onde tu encarnas em se ser alguém especial nessa equação toda, e de que nela o resultado de modo [font italic=true]tácito se dê que a sua rodada para dar as caras e fechar bater as botas no quarto dia[font italic=false], de que se por acaso se manter passivo perante todas essas tretas, essa seja de fato a sentença que lhe caia pra Guerra do Santo Graal pra te despachar pra sete palmos se acaso não mexer os pausinhos, Emiya-kun."::
 26958::$$$message_0200_0037_0000$$$::A que tom sombrio.[lr]::
 26959::$$$message_0200_0037_0001$$$::Mas por um acaso o mais aterrorizante ainda, é o que me bota sob suspeitas de não poder negar de que a tese se torne fato.::
 26960::$$$message_0200_0038_0000$$$::"...Caramba. Bom, agora o do como de fato de como venho a possuir o discernimento pro saber de todas essas bagas de esquisitices esquisitonas tem as suas justificativas abertas pra jogo.[lr]::
@@ -123,7 +123,7 @@ id=qid::label=str::text=lstr::
 26979::$$$message_0200_0044_0002$$$::...Teria por acaso uma solução à espreita pro desvendar os causos disso pra esse caso em questão aqui agora?"::
 26980::$$$message_0200_0045_0000$$$::"...Olha, isso já tá até saturando de um jeito absurdo da minha cota paciência esgotada as perguntas das pautas mirabolantes, só de escutá-las.[lr]::
 26981::$$$message_0200_0045_0001$$$::Então... Se ela acaba sendo morta não importa quantas vezes você a encontre, talvez você não esteja a encontrando da maneira certa."::
-26982::$$$message_0200_0046_0000$$$::"Se você descobrir qual é o encontro mais correto, aquele da primeiríssima vez que você a conheceu, então tente recriar aquelas condições por si mesmo. Você é capaz disso."[lr]::
+26982::$$$message_0200_0046_0000$$$::"Se Emiya-kun descobrir qual é o encontro mais correto, aquele da primeiríssima vez que você a conheceu, então tente recriar aquelas condições por si mesmo. Você é capaz disso."[lr]::
 26983::$$$message_0200_0046_0001$$$::Tudo isso é teórico, claro. Tohsaka fez questão de deixar bem claro que eu entendesse.::
 26984::$$$message_0200_0047_0000$$$::Mas... agora eu entendi.[lr]::
 26985::$$$message_0200_0047_0001$$$::Eu deveria ser capaz de encontrar essa garota num lugar diferente.[lr]::
@@ -132,7 +132,7 @@ id=qid::label=str::text=lstr::
 26988::$$$message_0200_0048_0000$$$::"...Isso ajuda bastante.[lr]::
 26989::$$$message_0200_0048_0001$$$::De qualquer forma, agora tenho um objetivo bem claro em mente."[lr]::
 26990::$$$message_0200_0048_0002$$$::"Sinto-me honrada em ajudar.[lr]::
-26991::$$$message_0200_0048_0003$$$::Então qual é o seu próximo passo, Emiya? Você vai atrás de quem quer que esteja com o Santo Graal?"[lr]::
+26991::$$$message_0200_0048_0003$$$::Então qual é o seu próximo passo, Emiya-kun? Você vai atrás de quem quer que esteja com o Santo Graal?"[lr]::
 26992::$$$message_0200_0048_0004$$$::"Bem, na medida do possível.[lr]::
 26993::$$$message_0200_0048_0005$$$::Isso não está me causando nenhum mal por enquanto, e eu vou começar tudo de novo depois do quarto dia, certo? Eu vou apenas checar isso no meu próprio ritmo."::
 26994::$$$message_0200_0049_0000$$$::Eu me levanto e a agradeço pelo seu tempo.[lr]::
@@ -141,7 +141,7 @@ id=qid::label=str::text=lstr::
 26997::$$$message_0200_0050_0001$$$::Não posso dizer com certeza, já que não estou tendo esses sonhos, mas cheguei a essa resposta depois de pensar seriamente no que você me disse."::
 26998::$$$message_0200_0051_0000$$$::"Se quer saber a verdade, eu preferiria que você me convidasse para ir à piscina da cidade se tem tempo para pensar nessas fantasias bobas.[lr]::
 26999::$$$message_0200_0051_0001$$$::Eu posso ter umas coisinhas a dizer se você se aproveitar demais da minha boa vontade."::
-27000::$$$message_0200_0052_0000$$$::Rin Tohsaka termina com um aviso assustador e um sorriso igualmente assustador.[lr]::
+27000::$$$message_0200_0052_0000$$$::Tohsaka Rin termina com um aviso assustador e um sorriso igualmente assustador.[lr]::
 27001::$$$message_0200_0052_0001$$$::...A piscina. A piscina, hã? Certo.[lr]::
 27002::$$$message_0200_0052_0002$$$::Eu vou retribuir o favor num futuro próximo, então espero que ela seja paciente comigo.[clfg textoff=0 pos=all rule=シャッター左から time=400]::
 27003::$$$message_0200_0053_0000$$$::"Obrigado por tudo isso. Te vejo amanhã, Tohsaka."[lr]::

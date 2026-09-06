@@ -14,7 +14,7 @@ id=qid::label=str::text=lstr::
 42258::$$$message_0332_0000_0011$$$::Geralmente é alguma confusão ridícula que você precisa que eu limpe para você."::
 42259::$$$message_0332_0000_0012$$$::"N-n-não! Eu não estou escondendo nada![lr]::
 42260::$$$message_0332_0000_0013$$$::Eu só não estava falando sobre isso! É sério!"::
-42261::$$$message_0332_0000_0014$$$::"Deixa isso pra lá. Eu só, tipo, acho que essa é uma situação bem maluca. De alguma forma."::
+42261::$$$message_0332_0000_0014$$$::"Deixa isso pra lá. Eu só, tipo, acho que essa situação é bem maluca. Sei lá."::
 42262::$$$message_0332_0000_0015$$$::"...Hm. Bem, nós somos garotas sentadas sozinhas num café durante o dia em um fim de semana. Tem algum problema com isso?"::
 42263::$$$message_0332_0000_0016$$$::"Hã? Não tem nada de errado com isso.[lr]::
 42264::$$$message_0332_0000_0017$$$::Nós sempre ficamos bem quando estamos só nós três."::
@@ -28,11 +28,11 @@ id=qid::label=str::text=lstr::
 42272::$$$message_0332_0000_0025$$$::"É incomum ela se atrasar. Eu me pergunto se ela se meteu em problemas...[wvs][se storage=se548.wav]"::
 42273::$$$message_0332_0000_0026$$$::"Ah, lá está ela.[lr]::
 42274::$$$message_0332_0000_0027$$$::Ei, Yukika! Por aqui! [wvl][hffacechg chara=蒔寺 face=驚 layer=0 time=200]...Espera aí."::
-42275::$$$message_0332_0000_0028$$$::"G-grandes notícias, Maki, Kane! Eu ouvi algo incrível...![wvl canskip=0 time=400][hffacechg chara=由紀香 face=哀 layer=1 time=200][hfsweat layer=1][hfsigh layer=1] E desculpem o meu atraso!"::
+42275::$$$message_0332_0000_0028$$$::"G-grandes notícias, Maki-chan, Kane-chan! Eu ouvi algo incrível...![wvl canskip=0 time=400][hffacechg chara=由紀香 face=哀 layer=1 time=200][hfsweat layer=1][hfsigh layer=1] E desculpem o meu atraso!"::
 42276::$$$message_0332_0000_0029$$$::"E-ei. Tudo bem, nós não esperamos muito.[lr]::
 42277::$$$message_0332_0000_0030$$$::De qualquer forma, tente se acalmar. Quer um pouco de água?"::
 42278::$$$message_0332_0000_0031$$$::"Sim. Obrigada."[wvs canskip=0 time=400][nolr][se storage=se410.wav volume=70][wait canskip=0 time=600][se storage=se410.wav volume=70][wait canskip=0 time=600][se storage=se410.wav volume=70][wait canskip=0 time=600]::
-42279::$$$message_0332_0000_0032$$$::"Parece que você se acalmou.[lr]::
+42279::$$$message_0332_0000_0032$$$::"Você se acalmou.[lr]::
 42280::$$$message_0332_0000_0033$$$::Então que grande notícia é essa, Yukika?"::
 42281::$$$message_0332_0000_0034$$$::"Vocês sabiam que há um onsen atrás do Templo Ryudou?"::
 42282::$$$message_0332_0000_0035$$$::"..."::
@@ -43,7 +43,7 @@ id=qid::label=str::text=lstr::
 42287::$$$message_0332_0000_0040$$$::"N-[wvl canskip=0 time=300]não pode ser. [wvl canskip=0 time=400]Você é tão boba, Yukicchi. As únicas pessoas que acreditariam nisso são garotas puras e inocentes, [wvl][hfpop layer=0]ou goblins gananciosos como eu!"::
 42288::$$$message_0332_0000_0041$$$::"E também, já existe uma história sobre uma fonte termal fantasma secreta."::
 42289::$$$message_0332_0000_0042$$$::"Ah... Sério?[lr]::
-42290::$$$message_0332_0000_0043$$$::Mas eu ouvi isso do pequeno Gil... Ele até me deu ingressos."::
+42290::$$$message_0332_0000_0043$$$::Mas eu ouvi isso do pequeno Gil-kun... Ele até me deu ingressos."::
 42291::$$$message_0332_0000_0044$$$::"Eu não estou te culpando de nada, Yukicchi!"::
 42292::$$$message_0332_0000_0045$$$::"Só estou dizendo que deveríamos deixar as coisas assustadoras para pessoas como a Tohsaka, e que é definitivamente um desperdício do nosso[line len=2]"::
 42293::$$$message_0332_0000_0046$$$::"...Hm. Espera, Maki.[lr]::
@@ -57,14 +57,14 @@ id=qid::label=str::text=lstr::
 42301::$$$message_0332_0000_0054$$$::Por que nós não vamos conferir juntas?"::
 42302::$$$message_0332_0000_0055$$$::"Bem, hum..."::
 42303::$$$message_0332_0000_0056$$$::"É!"::
-42304::$$$message_0332_0000_0057$$$::"Maki, você estava dizendo que estava tão entediada que gostaria que algo tão emocionante quanto renascer acontecesse!"::
+42304::$$$message_0332_0000_0057$$$::"Maki-chan, você estava dizendo que estava tão entediada que gostaria que algo tão emocionante quanto renascer acontecesse!"::
 42305::$$$message_0332_0000_0058$$$::"Ei![lr]::
 42306::$$$message_0332_0000_0059$$$::[small]Eu... não tenho um desejo maluco desses, não..."[nolr]::
-42307::$$$message_0332_0000_0060$$$::"É isso mesmo, Kane. O Gil disse que há outras pessoas tentando chegar ao onsen, e que nós podemos jogar hanafuda contra elas se as encontrarmos."::
+42307::$$$message_0332_0000_0060$$$::"É isso mesmo, Kane-chan. O Gil disse que há outras pessoas tentando chegar ao onsen, e que nós podemos jogar hanafuda contra elas se as encontrarmos."::
 42308::$$$message_0332_0000_0061$$$::"Hanafuda?[lr]::
 42309::$$$message_0332_0000_0062$$$::Isso me parece promissor. Hanafuda é a especialidade da Maki. É a sua hora de brilhar, Kaede."::
 42310::$$$message_0332_0000_0063$$$::"Sério!?[lr]::
-42311::$$$message_0332_0000_0064$$$::Iupi! Nós contamos com você, Maki![lr]::
+42311::$$$message_0332_0000_0064$$$::Iupi! Nós contamos com você, Maki-chan![lr]::
 42312::$$$message_0332_0000_0065$$$::Mostre a eles por que você é chamada de [hfwww layer=1]A Pantera Negra de Homurahara!"::
 42313::$$$message_0332_0000_0066$$$::"Ufa... Você está tão agressiva de repente, Yukicchi."::
 42314::$$$message_0332_0000_0067$$$::"...Como uma companheira donzela inocente, eu não as decepcionarei."::

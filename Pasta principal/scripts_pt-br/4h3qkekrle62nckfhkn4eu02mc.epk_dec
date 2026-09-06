@@ -2,7 +2,7 @@ DAT
 id=qid::label=str::text=lstr::
 28980::$$$message_0208_0000_0000$$$::"Ta-da!"[lr]::
 28981::$$$message_0208_0000_0001$$$::Illya anuncia com alegria sua chegada ao nosso círculo na sala de estar.[lr]::
-28982::$$$message_0208_0000_0002$$$::Será que a Fuji-nee está fazendo escola nela?::
+28982::$$$message_0208_0000_0002$$$::Será que a Fuji-Nee está fazendo escola nela?::
 28983::$$$message_0208_0001_0000$$$::"E aí, Illya?"[lr]::
 28984::$$$message_0208_0001_0001$$$::"Hehehe! Sempre como na sua casa, então hoje estou aqui para retribuir o favor!"[lr]::
 28985::$$$message_0208_0001_0002$$$::"..."::
@@ -19,7 +19,7 @@ id=qid::label=str::text=lstr::
 28996::$$$message_0208_0006_0001$$$::Só de olhar já dá para ver que isso é caro. Tem aquela aura daquelas bebidas com rótulo XO ou VSOP.[lr]::
 28997::$$$message_0208_0006_0002$$$::Espere... qual era o XO novamente? Não é aquele molho chinês?::
 28998::$$$message_0208_0007_0000$$$::"Parece algum tipo de destilado."[lr]::
-28999::$$$message_0208_0007_0001$$$::"É, uísque ou conhaque... A cor é bastante clara."[lr]::
+28999::$$$message_0208_0007_0001$$$::"É, uísque ou conhaque... A cor é bem clara."[lr]::
 29000::$$$message_0208_0007_0002$$$::"É um elixir especial dos Einzbern. É uma delícia!"::
 29001::$$$message_0208_0008_0000$$$::Então não é alcoólico?[lr]::
 29002::$$$message_0208_0008_0001$$$::Illya me puxa repetidamente, pedindo minha opinião. O presente parece tão extravagante que minha primeira reação é recusar.::
@@ -57,27 +57,27 @@ id=qid::label=str::text=lstr::
 29034::$$$message_0208_0021_0000$$$::"Nossa... isso parece ter uma pancada e tanto."[lr]::
 29035::$$$message_0208_0021_0001$$$::"Oh? Tem um cheiro forte, como um tônico. Vamos diluí-lo?"[lr]::
 29036::$$$message_0208_0021_0002$$$::"Tudo bem... Ugh... Oof."[lr]::
-29037::$$$message_0208_0021_0003$$$::"Toma!"::
+29037::$$$message_0208_0021_0003$$$::"Toma, Onii-chan!"::
 29038::$$$message_0208_0022_0000$$$::Eu pego com cuidado o frasco e o despejo em um copo cheio de cubos de gelo que Illya me oferece.[se storage=se561.wav][lr]::
-29039::$$$message_0208_0022_0001$$$::Sinto que estou derramando algum tipo de droga experimental em um béquer. Suponho que não esteja errado, já que ela certamente deve ter usado a taumaturgia para criar esse elixir.[lr]::
+29039::$$$message_0208_0022_0001$$$::Sinto como se estivesse despejando algum tipo de droga experimental num béquer. Suponho que não esteja errado, já que ela certamente usou Magia para criar este elixir.[lr]::
 29040::$$$message_0208_0022_0002$$$::...Ainda assim, só derramar isso está me deixando tonto.::
-29041::$$$message_0208_0023_0000$$$::"Ah-aaa, só o cheiro já te derruba, Emiya."[lr]::
+29041::$$$message_0208_0023_0000$$$::"Ah-aaa, só o cheiro já te derruba, Emiya-kun."[lr]::
 29042::$$$message_0208_0023_0001$$$::"Acho que isso vai pegar pesado para você, Shirou. Com tônicos assim, é importante não forçar seus limites."[lr]::
 29043::$$$message_0208_0023_0002$$$::"Rin, põe gelo. [wvl][se storage=se560.wav]Saber, dilui com água. [cacheimage storage=イリヤ04b(中)][wvl][chgfg time=300 storage=イリヤ04b(中) textoff=0]Heheheheheeeh."[wait canskip=0 time=800][se storage=se561.wav]::
-29044::$$$message_0208_0024_0000$$$::Illya manipula o elixir com facilidade adquirida. Agora realmente parece que ela está mexendo em um béquer de substâncias químicas.[lr]::
+29044::$$$message_0208_0024_0000$$$::Illya manipula o elixir com facilidade de quem já pegou prática. Agora parece mesmo que ela está mexendo num béquer de reagentes químicos.[lr]::
 29045::$$$message_0208_0024_0001$$$::...Começo a me sentir desconfortável. Talvez o cheiro esteja me afetando.::
 29046::$$$message_0208_0025_0000$$$::"E você, Shirou?"[lr]::
 29047::$$$message_0208_0025_0001$$$::"...Você teve o trabalho de trazer isso para nós, [cacheimage storage=凛私服01e(中)][wvl][chgfg time=300 storage=凛私服01e(中) textoff=0]então pelo menos um gole eu vou tomar."[lr]::
-29048::$$$message_0208_0025_0002$$$::"Pronto. Aqui."::
+29048::$$$message_0208_0025_0002$$$::"Pronto. Aqui, Onii-chan."::
 29049::$$$message_0208_0026_0000$$$::Despejo um pouco do elixir no copo que me estendem.[lr]::
 29050::$$$message_0208_0026_0001$$$::O copo da própria Illya só tem água. Hã? Ela não vai beber nada?::
 29051::$$$message_0208_0027_0000$$$::[movefg opacity=0 left=600 top=132 time=300 accel=2 storage=凛私服01e(中) textoff=0][movefg opacity=0 left=-54 top=141 time=300 accel=2 storage=セイバー私服06a腕b(中) textoff=0][movefg opacity=0 left=259 top=266 time=300 accel=2 storage=イリヤ01f(中) textoff=0][resumevoice]"Todo mundo, [cacheimage storage=セイバー私服01b(近),イリヤ11d(近),凛私服05f(近)][wvl canskip=false time=100][movefg opacity=255 left=-86 top=70 time=300 accel=2 storage=セイバー私服01b(近) textoff=0][movefg opacity=255 left=211 top=155 time=300 accel=2 storage=イリヤ11d(近) textoff=0][movefg opacity=255 left=197 top=23 time=300 accel=2 storage=凛私服05f(近) textoff=0]vamos brindar!"[se storage=se562.wav][wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][movefg opacity=255 left=219 top=38 time=500 accel=-2 storage=凛私服05f(近) textoff=0][movefg opacity=255 left=209 top=167 time=500 accel=-2 storage=イリヤ11d(近) textoff=0][movefg opacity=255 left=-106 top=79 time=500 accel=-2 storage=セイバー私服01b(近) textoff=0][wm canskip=0][wm canskip=0][wm canskip=0][rf]::
 29052::$$$message_0208_0028_0000$$$::Eu dou um leve clique no copo contra os outros e o levanto até os lábios...[lr]::
-29053::$$$message_0208_0028_0001$$$::...Me sinto muito relutante em fazer isso. Tenho uma premonição de que isso vai me dar um susto forte. Lembro de tudo o que a Fuji-nee já me enganou para beber ao longo dos anos.[lr]::
+29053::$$$message_0208_0028_0001$$$::...Me sinto muito relutante em fazer isso. Tenho uma premonição de que isso vai me dar um susto forte. Lembro de tudo o que a Fuji-Nee já me enganou para beber ao longo dos anos.[lr]::
 29054::$$$message_0208_0028_0002$$$::Na verdade, tudo isso pode evaporar enquanto eu decido se devo bebê-lo.[lr]::
 29055::$$$message_0208_0028_0003$$$::Essa poção é algo. Ela se torna volátil assim que toca o ar.[lr]::
 29056::$$$message_0208_0028_0004$$$::Bem, se a Tohsaka e a Saber estão bebendo isso, então eu também vou...!::
-29057::$$$message_0208_0029_0000$$$::"Gurgh! Isso é realmente forte, Illya."[lr]::
+29057::$$$message_0208_0029_0000$$$::"Gurgh! Isso é forte mesmo, Illya."[lr]::
 29058::$$$message_0208_0029_0001$$$::Illya vira a cabeça para mim com curiosidade, enquanto as outras duas...::
 29059::$$$message_0208_0030_0000$$$::"Hmm... Tem um gosto estranho, mas nada mal."[lr]::
 29060::$$$message_0208_0030_0001$$$::"Sim. Não se parece com nenhum elixir que eu consiga imaginar... Deve ter passado por um método de produção único."[lr]::
@@ -131,7 +131,7 @@ id=qid::label=str::text=lstr::
 29108::$$$message_0208_0049_0000$$$::"Fiz. Até dei um pouco para a Taiga provar, só por garantia."[lr]::
 29109::$$$message_0208_0049_0001$$$::"Ah. E ela virou um tigre?"[lr]::
 29110::$$$message_0208_0049_0002$$$::"Ela não parecia diferente do habitual, então achei que era seguro."::
-29111::$$$message_0208_0050_0000$$$::Acho que a Fuji-nee é quase um tigre normalmente.[lr]::
+29111::$$$message_0208_0050_0000$$$::Acho que a Fuji-Nee é quase um tigre normalmente.[lr]::
 29112::$$$message_0208_0050_0001$$$::O remédio não funciona em Illya, ou talvez seja tão eficaz que nada mudou...[lr]::
 29113::$$$message_0208_0050_0002$$$::...Espere, a Saber também bebeu.::
 29114::$$$message_0208_0051_0000$$$::"Saber... Você está bem?"[lr]::
@@ -151,7 +151,6 @@ id=qid::label=str::text=lstr::
 29128::$$$message_0208_0055_0004$$$::"Então vai ficar brava com a Illya primeiro! Ela provavelmente viraria uma raposa ou algo assim!"::
 29129::$$$message_0208_0056_0000$$$::Os dois animais selvagens viram-se contra nós.[lr]::
 29130::$$$message_0208_0056_0001$$$::Mas a pequena fada pálida está com a língua para fora, rindo deles.::
-29131::$$$message_0208_0057_0000$$$::"Acho que eles ainda são novos demais para beber, né, Big Brother?"[lr]::
+29131::$$$message_0208_0057_0000$$$::"Acho que eles ainda são novos demais para beber, né, Onii-chan?"[lr]::
 29132::$$$message_0208_0057_0001$$$::"Não se faça de inocente. E vocês duas, se acalmem. Não teria graça nenhuma se eu começasse a latir."[lr]::
 29133::$$$message_0208_0057_0002$$$::WAAAAAHHHH!"[rf]::
-

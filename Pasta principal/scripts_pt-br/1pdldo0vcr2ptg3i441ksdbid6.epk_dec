@@ -1,57 +1,56 @@
 DAT
 id=qid::label=str::text=lstr::
-13158::$$$message_0106_0000_0000$$$::A mansão da Tohsaka está no topo da área residencial.[lr]::
-13159::$$$message_0106_0000_0001$$$::A proprietária está fora, e a mansão mal-assombrada de Fuyuki faz jus ao nome em todos os sentidos.[line len=3][lr]::
-13160::$$$message_0106_0000_0002$$$::"...Não pensei que teria que limpar isso aqui."[lr]::
-13161::$$$message_0106_0000_0003$$$::Murmuro isso sozinho, parado diante da porta.[lr]::
-13162::$$$message_0106_0000_0004$$$::Não há muito o que fazer, já que Tohsaka está viajando pela Inglaterra e me pediu para vir limpar de vez em quando.::
-13163::$$$message_0106_0001_0000$$$::...Acho que ela devia pelo menos deixar as cortinas e a porta fechadas enquanto está fora, mas ordem é ordem.::
-13164::$$$message_0106_0002_0000$$$::"Vamos acabar com isso... Hmm."[lr]::
-13165::$$$message_0106_0002_0001$$$::Pego a chave da casa e recito a fórmula para desfazer o selo.[lr]::
-13166::$$$message_0106_0002_0002$$$::Quando ela não está em casa, a fechadura fica com uma proteção extra, então dá trabalho para qualquer pessoa que não seja a Tohsaka entrar.::
-13167::$$$message_0106_0003_0000$$$::"Abzug Bedienung Mittelstand"[line len=3][wvs][sestop time=1500 nowait=true][lr]::
-13168::$$$message_0106_0003_0001$$$::[font italic=true]...Será que desfez?[font italic=false][lr]::
-13169::$$$message_0106_0003_0002$$$::Abro a porta [se storage=se511.wav]e retiro uma montanha de jornais e cartas da caixa de correio.[lr]::
-13170::$$$message_0106_0003_0003$$$::"Ai, tem um monte de [wvl][se storage=se521.wav][se storage=se359.wav]avisos de tentativa de entrega... Ela devia mandar redirecionarem tudo para o meu endereço."::
-13171::$$$message_0106_0004_0000$$$::Se eu não conseguisse entrar depois disso, viraria[line len=3]uma bela piada.[lr]::
-13172::$$$message_0106_0004_0001$$$::Não, tenho certeza de que Tohsaka me daria uma bronca se eu dissesse que não limpei porque não consegui abrir a porta.::
-13173::$$$message_0106_0005_0000$$$::"Ah,[line len=3]abriu. Com licen?a."::
-13174::$$$message_0106_0006_0000$$$::...Fico parado, surpreso, por alguns instantes.[lr]::
-13175::$$$message_0106_0006_0001$$$::Uma sala cercada por móveis antigos e caros, sobre um tapete macio.::
-13176::$$$message_0106_0007_0000$$$::"Bem... De onde devo começar a limpar?"[lr]::
-13177::$$$message_0106_0007_0001$$$::Eu, acostumado demais com casas em estilo japonês, fico sem saber por onde começar.[lr]::
-13178::$$$message_0106_0007_0002$$$::Parece que vou quebrar algum abajur art nouveau caríssimo se mexer nele do jeito errado. E tem um monte dessas coisas por aqui.[lr]::
-13179::$$$message_0106_0007_0003$$$::Acabo me arrependendo de não ter trazido Sakura, que já estava acostumada a limpar a mansão.::
-13180::$$$message_0106_0008_0000$$$::"Eu renderia bem mais se Rider estivesse aqui... Estou com falta de mão de obra."[lr]::
-13181::$$$message_0106_0008_0001$$$::Pelo menos ventilar a casa e tirar o pó eu devo conseguir.[lr]::
-13182::$$$message_0106_0008_0002$$$::Dou a volta pela sala e abro as cortinas [se volume=30 storage=se263.wav]e as janelas.[lr]::
-13183::$$$message_0106_0008_0003$$$::Hmm, no fim das contas está tudo coberto de poeira.[line len=3]::
-13184::$$$message_0106_0009_0000$$$::"Tudo bem... As ferramentas de limpeza estão no andar de baixo."[lr]::
-13185::$$$message_0106_0009_0001$$$::Deve haver um armário debaixo das escadas.[lr]::
-13186::$$$message_0106_0009_0002$$$::Pensando bem, Tohsaka disse algo terrível, tipo que eu poderia morar no armário debaixo da escada se virasse seu aprendiz residente... Isso é coisa de empregada, ou de algum garoto bruxo genial de história infantil.::
-13187::$$$message_0106_0010_0000$$$::"Tudo bem, vou tentar"[line len=3][lr]::
-13188::$$$message_0106_0010_0001$$$::Eu limpo o pó.[lr]::
-13189::$$$message_0106_0010_0002$$$::Em vez de limpar, [se volume=50 storage=se312.wav] [se volume=50 storage=se190.wav]parece que estou fazendo turismo com um espanador na mão.::
-13190::$$$message_0106_0011_0000$$$::"Ah, sim, tem um porão"[line len=3][lr]::
-13191::$$$message_0106_0011_0001$$$::Procuro no molho de chaves e[line len=3]encontro a chave do porão.[lr]::
-13192::$$$message_0106_0011_0002$$$::Casas de estilo ocidental são mesmo luxuosas, até subsolo elas têm.[lr]::
-13193::$$$message_0106_0011_0003$$$::Nas mansões que aparecem em filmes e livros, sempre tem uma adega ou coisa parecida no porão.[lr]::
-13194::$$$message_0106_0011_0004$$$::...Enquanto penso no que aconteceria se houvesse uma masmorra ali embaixo...::
-13195::$$$message_0106_0012_0000$$$::"...Aqui está."[lr]::
-13196::$$$message_0106_0012_0001$$$::Mesmo tentando pensar nele como o depósito lá de casa, prendo a respiração diante daquela atmosfera misteriosa e secreta.[lr]::
-13197::$$$message_0106_0012_0002$$$::Também me comove profundamente ao pensar que a Tohsaka também...::
-13198::$$$message_0106_0013_0000$$$::Mas, o que me chama mais a atenção do que isso...[lr]::
-13199::$$$message_0106_0013_0001$$$::"Há halteres aqui, é estranho..."[lr]::
-13200::$$$message_0106_0013_0002$$$::É estranho encontrar coisas desse tipo aqui embaixo.[lr]::
-13201::$$$message_0106_0013_0003$$$::Não sei bem se dá para chamar isso de equipamento de treino ou não.[lr]::
-13202::$$$message_0106_0013_0004$$$::Pensando bem, Tohsaka disse que fazia flexões e abdominais todas as noites. Talvez ela tenha acabado juntando equipamentos suficientes para montar uma academia...::
-13203::$$$message_0106_0014_0000$$$::"...Acho que ela não faria tanto."[lr]::
-13204::$$$message_0106_0014_0001$$$::Halteres não combinam com o quarto da Tohsaka, então ela deve tê-los trazido para cá.[lr]::
-13205::$$$message_0106_0014_0002$$$::Mas... sinto que, além do interior do armário dela, acabei vendo outra coisa que não devia.::
-13206::$$$message_0106_0015_0000$$$::"Bem, acho que vou deixar assim."[lr]::
-13207::$$$message_0106_0015_0001$$$::Decido não olhar ao redor.[lr]::
-13208::$$$message_0106_0015_0002$$$::Vou terminar de ventilar, trancar tudo e ir embora logo.::
-13209::$$$message_0106_0016_0000$$$::"Anfung Mittelstand"[line len=3][wvs][sestop time=1500 nowait=true][lr]::
-13210::$$$message_0106_0016_0001$$$::...E lá estou eu, preocupado de novo se tranquei tudo direito.[lr]::
-13211::$$$message_0106_0016_0002$$$::Preciso melhorar na taumaturgia, senão isso ainda vai me deixar preocupado com o futuro.::
-
+13158::$$$message_0106_0000_0000$$$::A mansão da Tohsaka fica bem no topo da área residencial.[lr]::
+13159::$$$message_0106_0000_0001$$$::A dona está fora, e a mansão mal-assombrada de Fuyuki faz jus à fama tanto no nome quanto na realidade[line len=3][lr]::
+13160::$$$message_0106_0000_0002$$$::"...Eu não achei que teria que fazer faxina aqui."[lr]::
+13161::$$$message_0106_0000_0003$$$::Resmungo olhando para cima, parado em frente à porta sozinho.[lr]::
+13162::$$$message_0106_0000_0004$$$::Não tem jeito. A Tohsaka está viajando pela Inglaterra agora, e me pediu para vir dar uma limpada de vez em quando.::
+13163::$$$message_0106_0001_0000$$$::...Acho que ela deveria, no mínimo, manter as persianas e a porta fechadas nesse meio tempo, mas é melhor eu fazer o que mandou.::
+13164::$$$message_0106_0002_0000$$$::"Vamos acabar logo com isso... Hum."[lr]::
+13165::$$$message_0106_0002_0001$$$::Pego a chave da casa e puxo da memória o encantamento para desfazer o selo.[lr]::
+13166::$$$message_0106_0002_0002$$$::A tranca fica reforçada quando ela não está em casa, então é um sufoco entrar para qualquer um que não seja a Tohsaka.::
+13167::$$$message_0106_0003_0000$$$::"Abzug Bedienung Mittelstand[line len=3]"[wvs][sestop time=1500 nowait=true][lr]::
+13168::$$$message_0106_0003_0001$$$::[font italic=true]...Desfez?[font italic=false][lr]::
+13169::$$$message_0106_0003_0002$$$::Destranco a porta [se storage=se511.wav]e tiro a montanha de jornais e cartas da caixa de correio.[lr]::
+13170::$$$message_0106_0003_0003$$$::"Nossa, olha o tanto de [wvl][se storage=se521.wav][se storage=se359.wav]avisos de tentativa de entrega... Ela devia mandar redirecionarem tudo lá pra casa."::
+13171::$$$message_0106_0004_0000$$$::Se eu não conseguisse entrar com isso, a coisa viraria[line len=3]uma bela piada.[lr]::
+13172::$$$message_0106_0004_0001$$$::Não, aposto que levaria uma bronca da Tohsaka se dissesse que não limpei porque não consegui abrir a porta.::
+13173::$$$message_0106_0005_0000$$$::"Ah[line len=3]abriu, com licença."::
+13174::$$$message_0106_0006_0000$$$::...Fico de queixo caído por um tempo.[lr]::
+13175::$$$message_0106_0006_0001$$$::Uma sala cercada de mobílias antigas e caríssimas, tudo em cima de um tapete bem felpudo.::
+13176::$$$message_0106_0007_0000$$$::"Bom... Por onde eu começo a limpar?"[lr]::
+13177::$$$message_0106_0007_0001$$$::Fico meio perdido sobre o que fazer, já que sou tão acostumado com ambientes de estilo japonês tradicional.[lr]::
+13178::$$$message_0106_0007_0002$$$::Dá a impressão de que vou quebrar aquele abajur Art Nouveau hipercaro se mexer nele do jeito errado. E tem um monte desse tipo de coisa por todo lado.[lr]::
+13179::$$$message_0106_0007_0003$$$::Penso com arrependimento que eu deveria ter trazido a Sakura, que já tinha se acostumado a limpar a mansão.::
+13180::$$$message_0106_0008_0000$$$::"Eu conseguiria limpar com mais eficiência se a Rider estivesse aqui... Falta mão de obra."[lr]::
+13181::$$$message_0106_0008_0001$$$::No mínimo, acho que consigo ventilar a casa e tirar o pó.[lr]::
+13182::$$$message_0106_0008_0002$$$::Dou uma volta pelo cômodo e abro as persianas [se volume=30 storage=se263.wav]e as janelas.[lr]::
+13183::$$$message_0106_0008_0003$$$::Hum, afinal, tem bastante poeira mesmo[line len=3]::
+13184::$$$message_0106_0009_0000$$$::"Beleza... As ferramentas de limpeza ficam no andar de baixo."[lr]::
+13185::$$$message_0106_0009_0001$$$::Devia ter um armário debaixo da escada.[lr]::
+13186::$$$message_0106_0009_0002$$$::Pensando bem, a Tohsaka andava dizendo uma barbaridade tipo que eu poderia morar no armário debaixo da escada se eu virasse seu aprendiz residente... Isso é jeito de tratar uma empregada ou um garoto bruxo genial, não eu.::
+13187::$$$message_0106_0010_0000$$$::"Certo, acho melhor eu tentar[line len=3]"[lr]::
+13188::$$$message_0106_0010_0001$$$::Eu tiro o pó.[lr]::
+13189::$$$message_0106_0010_0002$$$::Em vez de limpar, [se volume=50 storage=se312.wav][se volume=50 storage=se190.wav]parece até que estou fazendo turismo segurando um espanador.::
+13190::$$$message_0106_0011_0000$$$::"Ah é, tem o porão[line len=3]"[lr]::
+13191::$$$message_0106_0011_0001$$$::Dou uma olhada no molho de chaves e[line len=3]encontro a chave do porão.[lr]::
+13192::$$$message_0106_0011_0002$$$::Mansões de estilo ocidental são luxuosas mesmo, terem até um porão.[lr]::
+13193::$$$message_0106_0011_0003$$$::Deveria ter uma adega de vinhos ou algo do tipo no porão dessas mansões que aparecem em filmes ou livros.[lr]::
+13194::$$$message_0106_0011_0004$$$::...Enquanto fico imaginando o que vai rolar se houver uma masmorra...::
+13195::$$$message_0106_0012_0000$$$::"...Aqui."[lr]::
+13196::$$$message_0106_0012_0001$$$::Mesmo tentando fingir que é igual ao galpão lá de casa, eu seguro a respiração de nervoso, devido àquela atmosfera misteriosa e secreta.[lr]::
+13197::$$$message_0106_0012_0002$$$::Também fico profundamente comovido quando penso que a Tohsaka também...::
+13198::$$$message_0106_0013_0000$$$::Mas o que mais me chama a atenção do que isso...[lr]::
+13199::$$$message_0106_0013_0001$$$::"Tem halteres aqui, é estranhamente..."[lr]::
+13200::$$$message_0106_0013_0002$$$::Me pergunto por que esse tipo de coisa estaria aqui embaixo.[lr]::
+13201::$$$message_0106_0013_0003$$$::É difícil dizer se tem equipamento de treino ou não.[lr]::
+13202::$$$message_0106_0013_0004$$$::Pensando bem, a Tohsaka disse que estava fazendo flexões ou abdominais toda noite. Talvez vários aparelhos tenham sido trazidos para cá com o tempo, que nem numa academia...::
+13203::$$$message_0106_0014_0000$$$::"...Acho que ela não iria tão longe."[lr]::
+13204::$$$message_0106_0014_0001$$$::Halteres não combinam com o quarto da Tohsaka, então ela deve ter trazido pra cá.[lr]::
+13205::$$$message_0106_0014_0002$$$::Mas... sinto como se tivesse visto algo que não deveria ver, mais do que ver dentro do guarda-roupa dela.::
+13206::$$$message_0106_0015_0000$$$::"...Bom, acho que vou deixar tudo do jeito que está."[lr]::
+13207::$$$message_0106_0015_0001$$$::Decido não dar uma olhada por aí.[lr]::
+13208::$$$message_0106_0015_0002$$$::Vou fechar tudo depois de arejar o ambiente e bater em retirada mais cedo.::
+13209::$$$message_0106_0016_0000$$$::"Anfung Mittelstand[line len=3]"[wvs][sestop time=1500 nowait=true][lr]::
+13210::$$$message_0106_0016_0001$$$::...Fiquei preocupado de novo se fechei tudo direito ou não.[lr]::
+13211::$$$message_0106_0016_0002$$$::Preciso melhorar minha Magia, senão isso vai me deixar preocupado com o futuro.::

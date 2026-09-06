@@ -10,7 +10,7 @@ id=qid::label=str::text=lstr::
 11363::$$$message_0091_0003_0000$$$::"Ora, ora. E pensar que a mais nova das infames irmãs Górgonas está cuidando de uma loja num lugar como esse."[lr]::
 11364::$$$message_0091_0003_0001$$$::"Você é tão infame quanto eu.[lr]::
 11365::$$$message_0091_0003_0002$$$::E, além disso, você está envergonhando a si própria com esse traje volumoso e sufocante."::
-11366::$$$message_0091_0004_0000$$$::"Heh, parece que é difícil compreender a beleza de um roxo tão gracioso através do seu gosto de monstro esfarrapado."[lr]::
+11366::$$$message_0091_0004_0000$$$::"Heh, com esse seu gosto de monstro esfarrapado, é difícil entender a beleza de um roxo tão digno."[lr]::
 11367::$$$message_0091_0004_0001$$$::"Esse é o meu uniforme de trabalho."::
 11368::$$$message_0091_0005_0000$$$::"Sim, ele cai bem na sua figura gigantesca.[lr]::
 11369::$$$message_0091_0005_0001$$$::Credo, me pergunto que tipo de coisas você come para acabar ficando desse jeito."[lr]::
@@ -27,13 +27,13 @@ id=qid::label=str::text=lstr::
 11380::$$$message_0091_0008_0003$$$::Uma atmosfera na qual piadas e elogios não existem de forma alguma.[lr]::
 11381::$$$message_0091_0008_0004$$$::...Ugh, aposto que vou acabar virando um cadáver miserável se eu fizer um movimento em falso.::
 11382::$$$message_0091_0009_0000$$$::"...Aham.[lr]::
-11383::$$$message_0091_0009_0001$$$::Eu estive de olho em vocês duas para que não saíssem faíscas, mas parece que a loja toda pegaria fogo desse jeito.[lr]::
+11383::$$$message_0091_0009_0001$$$::Eu estava de olho em vocês duas para evitar faíscas, mas, desse jeito, a loja inteira vai pegar fogo.[lr]::
 11384::$$$message_0091_0009_0002$$$::Por que vocês duas estão tão ariscas?"[lr]::
 11385::$$$message_0091_0009_0003$$$::O máximo que posso fazer é avisá-las de que não é bom lutar.::
 11386::$$$message_0091_0010_0000$$$::"Eu sou apenas uma cliente. Se houvesse um problema, a culpa não seria dessa atendente mal-educada?"[lr]::
 11387::$$$message_0091_0010_0001$$$::"Então, a culpa é da Rider."::
 11388::$$$message_0091_0011_0000$$$::"Você ouviu ele, Rider. Você diz algumas coisas boas de vez em quando, garoto."[lr]::
-11389::$$$message_0091_0011_0001$$$::"É. Eu entendo como você se sente, mas, já que você é funcionária, você tem que tratar qualquer cliente com respeito, não importa como ele seja. [cacheimage storage=キャスターローブ無し01d(中)][wvl canskip=0 time=300][textoff][chgfg time=200 storage=キャスターローブ無し01d(中)][wait canskip=0 time=300]Apenas pense que você foi aprisionada por algo problemático, suporte-a com um sorriso[line len=2]mrrghgrblrghlrmrhliblrgh!?[se storage=se350.wav][quake vmax=20 hmax=20 time=2000][wvl]"[sestop storage=se350.wav time=1000 nowait=1][wait canskip=0 time=800][clfg][dash page=back mx=27 opacity=255 layer=base irot=0.02 cx=400 imag=1.2 time=400 cy=300 mag=1.6 my=-205 storage=i骨董品店 rot=0.02 accel=2][transex time=300][se volume=40 storage=se072.wav][wdash canskip=0][shock vmax=30 time=600 count=6][se storage=se211.wav]::
+11389::$$$message_0091_0011_0001$$$::"É. Eu entendo como você se sente, mas, como funcionária, você tem que tratar qualquer cliente com respeito, não importa como ele seja. [cacheimage storage=キャスターローブ無し01d(中)][wvl canskip=0 time=300][textoff][chgfg time=200 storage=キャスターローブ無し01d(中)][wait canskip=0 time=300]Pense que caiu nas mãos de uma encrenca e aguente com um sorriso[line len=2]mrrghgrblrghlrmrhliblrgh!?[se storage=se350.wav][quake vmax=20 hmax=20 time=2000][wvl]"[sestop storage=se350.wav time=1000 nowait=1][wait canskip=0 time=800][clfg][dash page=back mx=27 opacity=255 layer=base irot=0.02 cx=400 imag=1.2 time=400 cy=300 mag=1.6 my=-205 storage=i骨董品店 rot=0.02 accel=2][transex time=300][se volume=40 storage=se072.wav][wdash canskip=0][shock vmax=30 time=600 count=6][se storage=se211.wav]::
 11390::$$$message_0091_0012_0000$$$::"Tem razão... Ahh..."[lr]::
 11391::$$$message_0091_0012_0001$$$::"Essa sim é uma boa maneira de se tratar um cliente.[lr]::
 11392::$$$message_0091_0012_0002$$$::Recepcionar um cliente com um suspiro é a especialidade desta loja?"[lr]::
@@ -73,7 +73,7 @@ id=qid::label=str::text=lstr::
 11426::$$$message_0091_0023_0001$$$::"Bem, até mesmo a ex-princesa vem aqui."[lr]::
 11427::$$$message_0091_0023_0002$$$::"Pensando bem, o ex-rei também vem comprar doces."[lr]::
 11428::$$$message_0091_0023_0003$$$::"Isso não é tudo. Há outros clientes problemáticos..."::
-11429::$$$message_0091_0024_0000$$$::"Com licença? Eu acho que este incensário é um celadon da era Meiji, mas você acha que ele é autêntico? Gostaria de saber se há um certificado de autenticidade."[lr]::
+11429::$$$message_0091_0024_0000$$$::"Com licença? Este incensário me parece um celadon da era Meiji, mas você acha que é autêntico? Há certificado de autenticidade?"[lr]::
 11430::$$$message_0091_0024_0001$$$::"...H-hum..."::
 11431::$$$message_0091_0025_0000$$$::"Creio que não. Provavelmente é uma réplica de um período posterior.[lr]::
 11432::$$$message_0091_0025_0001$$$::Além disso, quem o consertou com tinta dourada tem muito mau gosto, e hoje em dia incensários não são mais tão valiosos assim. Embora ainda usemos um para o trabalho."::
@@ -109,22 +109,22 @@ id=qid::label=str::text=lstr::
 11462::$$$message_0091_0035_0002$$$::Você sempre pode apenas confiar no seu gerente quando algo de ruim acontecer."::
 11463::$$$message_0091_0036_0000$$$::"Hrum."[lr]::
 11464::$$$message_0091_0036_0001$$$::"Por outro lado, toda a responsabilidade recai sobre a dona de casa.[lr]::
-11465::$$$message_0091_0036_0002$$$::Ugh, realmente não é nada fácil..."::
-11466::$$$message_0091_0037_0000$$$::"O Sr. Kuzuki faz muitas exigências em casa?"[lr]::
+11465::$$$message_0091_0036_0002$$$::Ugh, não é nada fácil..."::
+11466::$$$message_0091_0037_0000$$$::"O Kuzuki-Sensei faz muitas exigências em casa?"[lr]::
 11467::$$$message_0091_0037_0001$$$::"Com o Souichirou é tranquilo.[lr]::
 11468::$$$message_0091_0037_0002$$$::Aquele homem é comedido e é totalmente confiável como parceiro."[lr]::
 11469::$$$message_0091_0037_0003$$$::"...Eu gostaria que você guardasse o seu orgulho para outro lugar... Mas então qual é o problema?"::
 11470::$$$message_0091_0038_0000$$$::"...............[wait canskip=0 time=500][say storage=cty0104_cas_0180 name=キャスター]O cunhado."::
-11471::$$$message_0091_0039_0000$$$::"Ahh, então quer dizer que o Sr. Kuzuki tem mãe e irmã mais velha."[lr]::
-11472::$$$message_0091_0039_0001$$$::"Uma irmã mais velha... Isso não parece ser nada atrativo."[lr]::
+11471::$$$message_0091_0039_0000$$$::"Ahh, então o Kuzuki-Sensei tem mãe e irmã mais velha."[lr]::
+11472::$$$message_0091_0039_0001$$$::"Uma irmã mais velha... Nada atraente."[lr]::
 11473::$$$message_0091_0039_0002$$$::"Não, o Souichirou não tem família.[lr]::
 11474::$$$message_0091_0039_0003$$$::Mas essa pessoa se parece um pouco com uma cunhada..."::
-11475::$$$message_0091_0040_0000$$$::"Srta. Caster, você tem um minuto?"[lr]::
+11475::$$$message_0091_0040_0000$$$::"Caster-san, você tem um minuto?"[lr]::
 11476::$$$message_0091_0040_0001$$$::"Sim, o que foi?"[lr]::
 11477::$$$message_0091_0040_0002$$$::"Há um acúmulo de poeira neste portal. Eu gostaria que você também limpasse bem aqui.[lr]::
 11478::$$$message_0091_0040_0003$$$::Eu estou encarregando a área do Souichirou a você, então serei respeitoso quanto a isso. Mas se o Emiya tivesse limpado isso, não haveria tamanho descuido."[lr]::
 11479::$$$message_0091_0040_0004$$$::"...Sim."::
-11480::$$$message_0091_0041_0000$$$::"O que é essa sopa de missô, Srta. Caster!?"[lr]::
+11480::$$$message_0091_0041_0000$$$::"O que é essa sopa de missô, Caster-san!?"[lr]::
 11481::$$$message_0091_0041_0001$$$::"O-o que há de errado com ela!?"[lr]::
 11482::$$$message_0091_0041_0002$$$::"A sopa de missô do Souichirou tem que ser de missô branco e com caldo feito de algas.[lr]::
 11483::$$$message_0091_0041_0003$$$::Esse gosto vulgar de missô vermelho e caldo feito com sardinhas secas sem que as vísceras tenham sido removidas? Você está pensando em fazer com que o Souichirou tome uma coisa dessas!?"[lr]::
@@ -133,7 +133,7 @@ id=qid::label=str::text=lstr::
 11486::$$$message_0091_0042_0001$$$::A sopa de missô do Emiya é a pura origem do sabor japonês que combina caldo de peixe, um combinado de missôs e tofu firme![lr]::
 11487::$$$message_0091_0042_0002$$$::Sim, se comparado a isso, essa atrocidade só evidencia essa sua criação como caipira do Mar Negro, beliscando pão de centeio e engolindo sopa de repolho com sal grosso!"[lr]::
 11488::$$$message_0091_0042_0003$$$::"Sim, eu sinto muito..."::
-11489::$$$message_0091_0043_0000$$$::"O que são essas roupas, Caster!?"[lr]::
+11489::$$$message_0091_0043_0000$$$::"O que são essas roupas, Caster-san!?"[lr]::
 11490::$$$message_0091_0043_0001$$$::"U-hum..."[lr]::
 11491::$$$message_0091_0043_0002$$$::"A camisa do Souichirou não deveria ter sequer uma única mancha, e você tem que engomar e passar o colarinho, no entanto, eu acabei encontrando este amassado[line len=2]Que decepcionante, aprenda com o Emiya!"[lr]::
 11492::$$$message_0091_0043_0003$$$::"Uff..."::
@@ -154,7 +154,7 @@ id=qid::label=str::text=lstr::
 11507::$$$message_0091_0049_0001$$$::"Como você se atreve, o bullying dissimulado que aumenta pelas minhas costas é insuportável."::
 11508::$$$message_0091_0050_0000$$$::"Vivenciei esse tipo de ambiente com as minhas duas irmãs mais velhas.[lr]::
 11509::$$$message_0091_0050_0001$$$::Mas é assim que funciona com família."[lr]::
-11510::$$$message_0091_0050_0002$$$::"Não tenho tanta certeza disso. Se eles fossem realmente da minha família, me dariam um apoio. Tipo o meu irmãozinho."[lr]::
+11510::$$$message_0091_0050_0002$$$::"Não sei. Se fossem mesmo da minha família, me dariam apoio. Como o meu irmãozinho."[lr]::
 11511::$$$message_0091_0050_0003$$$::"Oh não, as coisas estão começando a ficar desconfortáveis de novo..."::
 11512::$$$message_0091_0051_0000$$$::...E então, [wait canskip=0 time=500][se storage=se548.wav]naquele momento!::
 11513::$$$message_0091_0052_0000$$$::"Ho awn, woo hoo, nham, nham."[lr]::

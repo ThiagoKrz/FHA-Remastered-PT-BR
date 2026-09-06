@@ -33,8 +33,8 @@ id=qid::label=str::text=lstr::
 14317::$$$message_0112_0007_0001$$$::Ela também não parece estar no quintal.[lr]::
 14318::$$$message_0112_0007_0002$$$::Eu procuro por todo o primeiro andar, o porão e a despensa.[lr]::
 14319::$$$message_0112_0007_0003$$$::Não vejo sinal da Tohsaka.[lr]::
-14320::$$$message_0112_0007_0004$$$::A porta e as janelas também foram deixadas abertas de forma desleixada.::
-14321::$$$message_0112_0008_0000$$$::"...Será que ela tá fazendo alguma coisa no quarto dela...?"[lr]::
+14320::$$$message_0112_0007_0004$$$::A porta e as janelas também foram deixadas abertas de qualquer jeito.::
+14321::$$$message_0112_0008_0000$$$::"...Será que ela está fazendo alguma coisa no quarto dela...?"[lr]::
 14322::$$$message_0112_0008_0001$$$::Ela deve estar ocupada com alguma experiência mágica.[lr]::
 14323::$$$message_0112_0008_0002$$$::Subo as escadas e bato na porta do quarto da Tohsaka.::
 14324::$$$message_0112_0009_0000$$$::Nenhuma resposta.[lr]::
@@ -49,7 +49,7 @@ id=qid::label=str::text=lstr::
 14333::$$$message_0112_0011_0001$$$::A Tohsaka não está no primeiro nem no segundo andar.[lr]::
 14334::$$$message_0112_0011_0002$$$::A dona deste quarto não está aqui[line len=3]as janelas daqui também estão destrancadas.::
 14335::$$$message_0112_0012_0000$$$::"..."[lr]::
-14336::$$$message_0112_0012_0001$$$::Ainda que seja a Tohsaka, custa acreditar que ela sairia correndo deixando as janelas, as portas e o Campo Limitado abertos.[lr]::
+14336::$$$message_0112_0012_0001$$$::Mesmo se tratando de Tohsaka, custa acreditar que ela sairia correndo e deixaria janelas, portas e o Campo Limitado abertos.[lr]::
 14337::$$$message_0112_0012_0002$$$::Há furos demais em tudo isso, mesmo se fosse o pior de seus maus hábitos e falhas.::
 14338::$$$message_0112_0013_0000$$$::"...O que aconteceu...?"[lr]::
 14339::$$$message_0112_0013_0001$$$::A escrivaninha dela foi deixada uma bagunça.[lr]::
@@ -57,15 +57,17 @@ id=qid::label=str::text=lstr::
 14341::$$$message_0112_0013_0003$$$::Em cima da mesa há uma xícara de chá pela metade.[lr]::
 14342::$$$message_0112_0013_0004$$$::"..."[lr]::
 14343::$$$message_0112_0013_0005$$$::Isso é suspeito.[lr]::
-14344::$$$message_0112_0013_0006$$$::Tudo está fora do lugar, mas se há algo antinatural que está diferente do normal[line len=3]::
-14345::$$$message_0112_0014_0000$$$::Me pergunto se ouvi direito.[lr]::
-14346::$$$message_0112_0014_0001$$$::Bem de levinho[line len=3]ouvi uma voz dizendo, "Ah", de algum lugar.::
+14344::$$$message_0112_0013_0006$$$::Tudo está fora do lugar, mas, se há algo antinatural diferente do normal[line len=3]::
+14345::$$$message_0112_0014_0000$$$::Pergunto-me se ouvi direito.[lr]::
+14346::$$$message_0112_0014_0001$$$::Bem baixinho[line len=3]ouvi uma voz dizendo "Ah" em algum lugar.::
 14347::$$$message_0112_0015_0000$$$::"...Não, é impossível..."[lr]::
 14348::$$$message_0112_0015_0001$$$::De jeito nenhum.[lr]::
 14349::$$$message_0112_0015_0002$$$::Mas, eu sinto como se ela estivesse lá dentro... Eu sei que é uma ideia estúpida.[lr]::
 14350::$$$message_0112_0015_0003$$$::A Tohsaka não estaria lá dentro[line len=3][lr]::
 14351::$$$message_0112_0015_0004$$$::...Vou dar uma olhada.[lr]::
 14352::$$$message_0112_0015_0005$$$::Abro a tampa lentamente e dou uma espiada pela fresta.::
+14353::$$$message_0112_0016_0000$$$::"Ah."[lr]::
+14354::$$$message_0112_0016_0001$$$::"..."::
 14355::$$$message_0112_0017_0000$$$::Fecho a tampa.[lr]::
 14356::$$$message_0112_0017_0001$$$::Esfrego meus olhos.[lr]::
 14357::$$$message_0112_0017_0002$$$::Respiro fundo e tento encarar a realidade de frente.[lr]::
@@ -91,26 +93,26 @@ id=qid::label=str::text=lstr::
 14377::$$$message_0112_0023_0002$$$::Olho para a Tohsaka e para o baú do tesouro repetidas vezes.::
 14378::$$$message_0112_0024_0000$$$::"...Ah, hum, hã?"[lr]::
 14379::$$$message_0112_0024_0001$$$::"Hmm... Achei que devia arrumar um pouco, então estava limpando o interior do baú do tesouro.[lr]::
-14380::$$$message_0112_0024_0002$$$::Eu estava segurando a tampa com um suporte para garantir que não fechasse."::
-14381::$$$message_0112_0025_0000$$$::"Um suporte... O que é isso?"[lr]::
+14380::$$$message_0112_0024_0002$$$::Eu estava escorando a tampa para garantir que ela não fechasse."::
+14381::$$$message_0112_0025_0000$$$::"Uma escora... O que é isso?"[lr]::
 14382::$$$message_0112_0025_0001$$$::"...[wait canskip=0 time=300][chgfg textoff=0 storage=凛私服06b(中) time=300][say storage=cty0217_rin_0080 name=凛]De qualquer forma, eu estava lá dentro fazendo um monte de coisas."::
 14383::$$$message_0112_0026_0000$$$::Acho que nem preciso dizer que a aparência daquele baú do tesouro e seu volume são bem diferentes.[lr]::
 14384::$$$message_0112_0026_0001$$$::Então[line len=3]::
-14385::$$$message_0112_0027_0000$$$::"O suporte caiu, e você ficou presa lá dentro?"[lr]::
+14385::$$$message_0112_0027_0000$$$::"A escora caiu e você ficou presa lá dentro?"[lr]::
 14386::$$$message_0112_0027_0001$$$::"[line len=3]Isso mesmo.[lr]::
 14387::$$$message_0112_0027_0002$$$::Tem muita audácia para trair a confiança de sua dona, [cacheimage storage=凛私服06g(中)][wvl][chgfg textoff=0 storage=凛私服06g(中) time=300]vou precisar castigá-lo mais tarde..."[lr]::
 14388::$$$message_0112_0027_0003$$$::Ela está murmurando umas coisas que não fazem o menor sentido.[lr]::
 14389::$$$message_0112_0027_0004$$$::...Então ela ficou quietinha, já que não conseguia abrir por dentro.::
 14390::$$$message_0112_0028_0000$$$::"Bom, foi isso que aconteceu.[lr]::
 14391::$$$message_0112_0028_0001$$$::Ainda bem que você me salvou, eu estava tentando ver se conseguia sair de alguma forma..."::
-14392::$$$message_0112_0029_0000$$$::Esse é o suporte que traiu a Tohsaka[line len=3]isso também deve ser um tesouro, então não ficaria bravo sendo usado pra esse tipo de coisa?[lr]::
+14392::$$$message_0112_0029_0000$$$::Essa é a escora que traiu Tohsaka[line len=3]e, sendo também um tesouro, será que não fica irritada por ser usada desse jeito?[lr]::
 14393::$$$message_0112_0029_0001$$$::Quando o pego, é estranhamente pesado[line len=3]hã? Isso não é de plástico?::
-14394::$$$message_0112_0030_0000$$$::"A parte de cima é redonda, então vai escorregar se você usar isso de suporte. Não tem outra coisa[line len=3]"[lr]::
+14394::$$$message_0112_0030_0000$$$::"A parte de cima é redonda, então vai escorregar se você usá-la como apoio. Não tem outra coisa[line len=3]"[lr]::
 14395::$$$message_0112_0030_0001$$$::"E-Ei! [cacheimage storage=凛私服16b(中)][wvl canskip=0 time=300][chgfg textoff=0 time=300 storage=凛私服16b(中)]O que você tá fazendo, Shirou!?"::
 14396::$$$message_0112_0031_0000$$$::"Ah, foi mal Tohsaka, esse é o seu[line len=3]"[lr]::
 14397::$$$message_0112_0031_0001$$$::"Guarda logo isso!"::
 14398::$$$message_0112_0032_0000$$$::A Tohsaka avança em mim, tentando tomar da minha mão.[lr]::
-14399::$$$message_0112_0032_0001$$$::Ela podia simplesmente ter pedido com calma, mas eu recuo diante daquele olhar furioso[line len=3]tropeço e caio.::
+14399::$$$message_0112_0032_0001$$$::Ela poderia simplesmente ter pedido com calma, mas recuo diante daquele olhar furioso[line len=3]tropeço e caio.::
 14400::$$$message_0112_0033_0000$$$::"E-Espera, Tohsaka, não me empurra tão forte!"[lr]::
 14401::$$$message_0112_0033_0001$$$::Se você fizer isso[line len=3]::
 14402::$$$message_0112_0034_0000$$$::"Opa!"[lr]::
@@ -126,21 +128,21 @@ id=qid::label=str::text=lstr::
 14412::$$$message_0112_0036_0003$$$::É a Tohsaka, sem sombra de dúvida.::
 14413::$$$message_0112_0037_0000$$$::"[line len=5]Ufa."[lr]::
 14414::$$$message_0112_0037_0001$$$::Respiro fundo e tento acalmar meu coração.[lr]::
-14415::$$$message_0112_0037_0002$$$::Com a habilidade de mudar de atitude tão rápido, Shirou Emiya é um homem confiável até mesmo nas horas de aperto.::
+14415::$$$message_0112_0037_0002$$$::Com a habilidade de mudar de atitude tão rápido, Emiya Shirou é um homem confiável até mesmo nas horas de aperto.::
 14416::$$$message_0112_0038_0000$$$::"Certo, eu vou te explicar, Tohsaka.[lr]::
 14417::$$$message_0112_0038_0001$$$::Pode ser difícil de entender, mas parece que nós dois estamos presos aqui dentro."[lr]::
 14418::$$$message_0112_0038_0002$$$::"Guh!"::
-14419::$$$message_0112_0039_0000$$$::"Por que você tá tão calmo!?[lr]::
+14419::$$$message_0112_0039_0000$$$::"Por que você está tão calmo!?[lr]::
 14420::$$$message_0112_0039_0001$$$::Depois de eu bater a cabeça daquele jeito[line len=3]!"[lr]::
-14421::$$$message_0112_0039_0002$$$::"Foi mal, eu tentei pelo menos te tirar daqui.[lr]::
+14421::$$$message_0112_0039_0002$$$::"Desculpa, eu pelo menos tentei tirar você daqui.[lr]::
 14422::$$$message_0112_0039_0003$$$::A culpa é da tampa!"::
-14423::$$$message_0112_0040_0000$$$::Tento convencer a Tohsaka[se storage=se265.wav] que está se debatendo descontrolada em cima do meu peito.[lr]::
-14424::$$$message_0112_0040_0001$$$::[se storage=se232.wav]Deve ter doído pra caramba, [se storage=se138.wav]já que ela tá socando meu estômago como um saco de pancadas com socos de uma polegada[se storage=se121.wav][line len=3]tomara [se storage=se082.wav]que não tenha ficado roxo.::
+14423::$$$message_0112_0040_0000$$$::Tento acalmar Tohsaka[se storage=se265.wav] enquanto ela se debate descontrolada em cima do meu peito.[lr]::
+14424::$$$message_0112_0040_0001$$$::[se storage=se232.wav]Deve ter doído pra caramba, [se storage=se138.wav]já que ela está socando meu estômago como um saco de pancadas com golpes curtíssimos[se storage=se121.wav][line len=3]tomara [se storage=se082.wav]que não vire hematoma.::
 14425::$$$message_0112_0041_0000$$$::"...Ei, Tohsaka. Tá satisfeita?"[lr]::
 14426::$$$message_0112_0041_0001$$$::"Sim, já me acalmei um pouco. Me devolve isso."[lr]::
 14427::$$$message_0112_0041_0002$$$::Ela arranca a varinha da minha mão e a arremessa para longe.[lr]::
 14428::$$$message_0112_0041_0003$$$::Deve ser um item especialmente importante... Será uma lembrança da infância dela?::
-14429::$$$message_0112_0042_0000$$$::"Emiya..."[lr]::
+14429::$$$message_0112_0042_0000$$$::"Emiya-kun..."[lr]::
 14430::$$$message_0112_0042_0001$$$::Ela sussurra perto de mim, e eu fico com dificuldade para respirar.::
 14431::$$$message_0112_0043_0000$$$::"Meu braço meio que... [wvl][shock vmax=10 time=400 count=-4]dói..."[lr]::
 14432::$$$message_0112_0043_0001$$$::"Você torceu?"[lr]::
@@ -156,18 +158,18 @@ id=qid::label=str::text=lstr::
 14442::$$$message_0112_0046_0002$$$::Nós não podemos ficar entrelaçados para sempre... Espera, será que esse baú do tesouro tem espaço pra nós dois...?::
 14443::$$$message_0112_0047_0000$$$::"Tohsaka. Como essa caixa funciona?"[lr]::
 14444::$$$message_0112_0047_0001$$$::"É exatamente como parece.[lr]::
-14445::$$$message_0112_0047_0002$$$::O tamanho não importa, é um espaço refrativo que acomoda qualquer coisa que entrar nele.[lr]::
-14446::$$$message_0112_0047_0003$$$::Uma vez que você é armazenado, acabou. É uma caixa com uma magia da qual você não consegue sair de imediato."::
-14447::$$$message_0112_0048_0000$$$::"Acabou assim que você é armazenado... Não tem jeito de sair?"[lr]::
+14445::$$$message_0112_0047_0002$$$::O tamanho não importa; é um espaço refratado que acomoda qualquer coisa colocada lá dentro.[lr]::
+14446::$$$message_0112_0047_0003$$$::Depois que você é guardado, acabou. É uma caixa com uma magia que impede você de sair de imediato."::
+14447::$$$message_0112_0048_0000$$$::"Depois que você é guardado, acabou... Não tem jeito de sair?"[lr]::
 14448::$$$message_0112_0048_0001$$$::"Não tem problema abri-lo pelo lado de fora, mas é difícil abri-lo por dentro.[lr]::
 14449::$$$message_0112_0048_0002$$$::São as regras."::
 14450::$$$message_0112_0049_0000$$$::"Regras? As regras do baú do tesouro?"[lr]::
 14451::$$$message_0112_0049_0001$$$::"Lógico. É um baú do tesouro, então não seria bom se as coisas saíssem por conta própria.[lr]::
-14452::$$$message_0112_0049_0002$$$::Este é o baú do tesouro que meu mestre, o Zelretch, estimava. Nem preciso dizer que as condições do interior são perfeitas, né?"::
+14452::$$$message_0112_0049_0002$$$::Este é o baú do tesouro que meu mentor, Zelretch, estimava. Nem preciso dizer que as condições do interior são perfeitas, né?"::
 14453::$$$message_0112_0050_0000$$$::"Zelretch... Então, é do mesmo tipo que a sua Espada Joia?"[lr]::
 14454::$$$message_0112_0050_0001$$$::"Isso. É uma caixa mágica feita pela 2ª Magia Verdadeira.[lr]::
 14455::$$$message_0112_0050_0002$$$::O volume da caixa é o mesmo e, em vez de aumentar o espaço interno, ela consegue armazenar as coisas aumentando ou diminuindo o volume delas. Deve ser o efeito dessa aleatoriedade, mas o tempo interno é diferente do mundo exterior.[lr]::
-14456::$$$message_0112_0050_0003$$$::Uma hora dentro da caixa equivale a um dia no mundo exterior. É uma comparação esquisita, mas é tipo um criossono."::
+14456::$$$message_0112_0050_0003$$$::Uma hora dentro da caixa equivale a um dia no mundo exterior. É uma comparação esquisita, mas é como sono criogênico."::
 14457::$$$message_0112_0051_0000$$$::"U-[wvl][shock vmax=20 time=400 count=-4]Uma hora é um dia...!?[lr]::
 14458::$$$message_0112_0051_0001$$$::Então, se[line len=3]"[lr]::
 14459::$$$message_0112_0051_0002$$$::Se ficarmos aqui por três horas, já vai ser domingo.::
@@ -176,27 +178,27 @@ id=qid::label=str::text=lstr::
 14462::$$$message_0112_0052_0002$$$::E com razão, já que ela finalmente tinha conseguido sair, mas acabou voltando para a estaca zero por culpa da minha lerdeza.::
 14463::$$$message_0112_0053_0000$$$::"...Eu entendo que é difícil sair.[lr]::
 14464::$$$message_0112_0053_0001$$$::Mas, não tem nenhum efeito de segurança de dentro para fora, certo? A caixa vai quebrar, mas se nós usarmos magia ofensiva, então ela pode surpreendentemente[line len=3]"::
-14465::$$$message_0112_0054_0000$$$::"Olha, Emiya.[lr]::
-14466::$$$message_0112_0054_0001$$$::Por exemplo, se a gente ficasse preso num cofre, o que você acha que aconteceria se a gente tentasse botar dinamite por dentro pra escapar?"[lr]::
+14465::$$$message_0112_0054_0000$$$::"Olha, Emiya-kun.[lr]::
+14466::$$$message_0112_0054_0001$$$::Por exemplo, se a gente ficasse preso num cofre, o que acha que aconteceria se tentássemos pôr dinamite por dentro para escapar?"[lr]::
 14467::$$$message_0112_0054_0002$$$::"Ah."[lr]::
 14468::$$$message_0112_0054_0003$$$::Não preciso nem dizer que a gente morreria com a explosão antes mesmo da caixa quebrar.::
 14469::$$$message_0112_0055_0000$$$::"Em primeiro lugar, é impossível estourar a tampa com o meu nível de magia.[lr]::
-14470::$$$message_0112_0055_0001$$$::Ainda que seria diferente se a gente tivesse a Espada Joia do meu mestre."[lr]::
-14471::$$$message_0112_0055_0002$$$::"...Ah, tá. Entendi, é por isso que você está com esses óculos."::
+14470::$$$message_0112_0055_0001$$$::Ainda que seria diferente se a gente tivesse a Espada Joia do meu mentor."[lr]::
+14471::$$$message_0112_0055_0002$$$::"...Ah, entendi. Então é por isso que você está com esses óculos."::
 14472::$$$message_0112_0056_0000$$$::"O quê?"[lr]::
 14473::$$$message_0112_0056_0001$$$::"Eles são um item mágico, não são?"[lr]::
 14474::$$$message_0112_0056_0002$$$::"Não, são só óculos falsos."[lr]::
 14475::$$$message_0112_0056_0003$$$::"Hã? Então por que você[line len=2]"::
 14476::$$$message_0112_0057_0000$$$::"Por quê? Me perguntando desse jeito me tira até a vontade de explicar."[lr]::
-14477::$$$message_0112_0057_0001$$$::"...Isso não é uma chave pra escapar?"[lr]::
+14477::$$$message_0112_0057_0001$$$::"...Isso não é uma chave para escapar?"[lr]::
 14478::$$$message_0112_0057_0002$$$::"Lógico que não. Se eu tivesse algo desse tipo, eu já teria saído sozinha."[lr]::
 14479::$$$message_0112_0057_0003$$$::É uma situação desesperadora, mas ela está bem calma e composta.::
 14480::$$$message_0112_0058_0000$$$::"...Então, tipo...[lr]::
-14481::$$$message_0112_0058_0001$$$::A gente tá mesmo[line len=2]"[lr]::
+14481::$$$message_0112_0058_0001$$$::A gente está mesmo[line len=2]"[lr]::
 14482::$$$message_0112_0058_0002$$$::"Sim.[lr]::
-14483::$$$message_0112_0058_0003$$$::Eu não queria dizer, mas a gente tá mesmo preso.[lr]::
-14484::$$$message_0112_0058_0004$$$::Não é minha culpa, mas foi mal por te meter nessa, Emiya."::
+14483::$$$message_0112_0058_0003$$$::Eu não queria dizer, mas a gente está mesmo preso.[lr]::
+14484::$$$message_0112_0058_0004$$$::Não é minha culpa, mas foi mal por te meter nessa, Emiya-kun."::
 14485::$$$message_0112_0059_0000$$$::A voz de desculpa dela é um tanto fraca.[lr]::
 14486::$$$message_0112_0059_0001$$$::Ela geme perante a crise que surgiu do nada.[lr]::
-14487::$$$message_0112_0059_0002$$$::Estamos numa sala trancada confinada, mas ao mesmo tempo espaçosa.[lr]::
-14488::$$$message_0112_0059_0003$$$::A Tohsaka e eu estamos muito preocupados, nos perguntando o que devemos fazer. Àn÷
+14487::$$$message_0112_0059_0002$$$::Estamos numa sala trancada, confinada e ao mesmo tempo ampla.[lr]::
+14488::$$$message_0112_0059_0003$$$::Tohsaka e eu ficamos igualmente aflitos, sem saber o que fazer.::

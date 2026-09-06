@@ -19,7 +19,7 @@ id=qid::label=str::text=lstr::
 37328::$$$message_0268_0009_0000$$$::Sinto alguém ao meu lado no ponto de ônibus e olho para cima[lr]::
 37329::$$$message_0268_0009_0001$$$::para ver um rapaz alto vestindo o uniforme da Homurahara.::
 37330::$$$message_0268_0010_0000$$$::"...Olá, Senpai."::
-37331::$$$message_0268_0011_0000$$$::"Bom dia. Se bem me recordo, você é o Minori, irmão mais novo da Senhorita Mitsuzuri."::
+37331::$$$message_0268_0011_0000$$$::"Bom dia. Se bem me recordo, você é o Minori-kun, irmão mais novo da Minori-kun."::
 37332::$$$message_0268_0012_0000$$$::É a nossa primeira vez nos encontrando — ou será que já o vi no clube de kyudo? Enfim, é a primeira vez que nos falamos. Ele é do primeiro ano enquanto eu sou do terceiro, e estamos em clubes e comitês diferentes.::
 37333::$$$message_0268_0013_0000$$$::"Oi. O tempo está bom hoje."::
 37334::$$$message_0268_0014_0000$$$::Ele me cumprimenta de forma protocolar.[lr]::
@@ -27,13 +27,13 @@ id=qid::label=str::text=lstr::
 37336::$$$message_0268_0015_0000$$$::Ele vem de uma família de artistas marciais como a irmã, então deve ter gasto um bom tempo refinando suas boas maneiras. Afinal, ele tem que conviver com uma irmã tão peculiar.::
 37337::$$$message_0268_0016_0000$$$::   Eu poderia perguntar a ele.[lr]::
 37338::$$$message_0268_0016_0001$$$::Inicialmente, eu tinha descartado o irmão dela como alguém alheio à situação e decidi não perguntar sobre o parceiro romântico dela, mas se ela estiver saindo com alguém de fora da escola, ele pode ser a única outra pessoa que saiba.::
-37339::$$$message_0268_0017_0000$$$::"...Minori, posso lhe perguntar uma coisa?"::
+37339::$$$message_0268_0017_0000$$$::"...Minori-kun, posso lhe perguntar uma coisa?"::
 37340::$$$message_0268_0018_0000$$$::"Hein?"::
 37341::$$$message_0268_0019_0000$$$::"Sou Kane Himuro, do terceiro ano. Sinta-se à vontade para me chamar apenas de Himuro."::
 37342::$$$message_0268_0020_0000$$$::"Eu jamais poderia fazer isso. Mas posso tentar responder à sua pergunta."::
 37343::$$$message_0268_0021_0000$$$::Noto que ele é educado com os veteranos. Vou perguntar.::
 37344::$$$message_0268_0022_0000$$$::"Sua irmã Ayako está namorando alguém?"::
-37345::$$$message_0268_0023_0000$$$::"Hã? Minha irmã?"::
+37345::$$$message_0268_0023_0000$$$::"Hã? Nee-chan?"::
 37346::$$$message_0268_0024_0000$$$::"Homem, mulher... os detalhes não importam. Eu só gostaria de ouvir qualquer coisa que você saiba."::
 37347::$$$message_0268_0025_0000$$$::"Homem ou mulher? O que isso deveria significar?"::
 37348::$$$message_0268_0026_0000$$$::O irmão da Mitsuzuri fica sem fala. Quem não ficaria após uma pergunta súbita dessas? Talvez eu devesse ter puxado um papo furado primeiro.::
@@ -42,13 +42,13 @@ id=qid::label=str::text=lstr::
 37351::$$$message_0268_0029_0000$$$::Ele parece realmente perturbado.[lr]::
 37352::$$$message_0268_0029_0001$$$::Mas tenho a sensação de que ele não está se sentindo mal por não saber de nada.::
 37353::$$$message_0268_0030_0000$$$::"Eu sei que deve ser bem rude alguém que você acabou de conhecer perguntar isso. Peço desculpas."::
-37354::$$$message_0268_0031_0000$$$::"Aah... O namorado da minha irmã? Isso é..."::
+37354::$$$message_0268_0031_0000$$$::"Aah... O namorado da Nee-chan? Isso é..."::
 37355::$$$message_0268_0032_0000$$$::Ele hesita. Será que ele sabe de algo?[chgfg time=300 storage=三法01b(中) textoff=0][lr]::
 37356::$$$message_0268_0032_0001$$$::Eu o encaro. [chgfg time=300 storage=三法01a(中) textoff=0]Ele está evitando meu olhar. Que suspeito.::
 37357::$$$message_0268_0033_0000$$$::"Você sabe de alguma coisa?"::
 37358::$$$message_0268_0034_0000$$$::"Não tem como eu te contar isso."::
 37359::$$$message_0268_0035_0000$$$::"Então você não nega?"::
-37360::$$$message_0268_0036_0000$$$::"Ugh... E-Eu não quero envergonhá-la. [cacheimage storage=三法01a(中)][wvl][chgfg time=300 storage=三法01a(中) textoff=0]Eu já tenho problemas o suficiente, sabe?"::
+37360::$$$message_0268_0036_0000$$$::"Ugh... E-Eu não quero envergonhá-la. [cacheimage storage=三法01a(中)][wvl][chgfg time=300 storage=三法01a(中) textoff=0]Eu já tenho problemas o suficiente, sabe, Nee-chan?"::
 37361::$$$message_0268_0037_0000$$$::Ele se vira emburrado, como se declarasse a conversa encerrada.[lr]::
 37362::$$$message_0268_0037_0001$$$::...Achei que eu o deixaria mais irritado, mas ele é uma pessoa decente demais para me dar um fora. Quase como se dissesse que ele é uma testemunha importante.[lr]::
 37363::$$$message_0268_0037_0002$$$::Ele sabe de algo. Disso eu não tenho dúvida.::
@@ -58,7 +58,7 @@ id=qid::label=str::text=lstr::
 37367::$$$message_0268_0039_0000$$$::"Himuro-senpai, você também vai para Shinto?"::
 37368::$$$message_0268_0040_0000$$$::"Sim. Vou encontrar umas amigas lá. Por algum motivo, acabei indo atrás da Senhorita Tohsaka e do Emiya."::
 37369::$$$message_0268_0041_0000$$$::"...Aquele cara."::
-37370::$$$message_0268_0042_0000$$$::...Ora? Que jeito é esse de se referir a um veterano?[lr]::
+37370::$$$message_0268_0042_0000$$$::...Ora? Que jeito é esse de se referir a um veterano, Senpai?[lr]::
 37371::$$$message_0268_0042_0001$$$::O Emiya e o Minori estão em algum tipo de disputa?[lr]::
 37372::$$$message_0268_0042_0002$$$::Eu pensaria que eles só se viam no clube de kyudo. Não, espere. Algo mais aconteceu.::
 37373::$$$message_0268_0043_0000$$$::O irmão da Mitsuzuri tem pistas importantes, mas eu também não deveria ignorar o problema com a Senhorita Tohsaka e o Emiya.[lr]::
@@ -68,7 +68,7 @@ id=qid::label=str::text=lstr::
 37377::$$$message_0268_0044_0001$$$::Estou bem preocupada com o que terá acontecido quando chegarmos lá.[lr]::
 37378::$$$message_0268_0044_0002$$$::Mas não consigo deixar de estar curiosa sobre o irmão da Mitsuzuri também. O que exatamente ele sabe...?::
 37379::$$$message_0268_0045_0000$$$::"Aqui está ele... Espero que ninguém acabe se atrasando."::
-37380::$$$message_0268_0046_0000$$$::"Você parece estar passando por um aperto também."::
+37380::$$$message_0268_0046_0000$$$::"Você parece estar passando por um aperto também, Himuro-senpai."::
 37381::$$$message_0268_0047_0000$$$::[se storage=se058.wav]Tento subir no ônibus.[rep tops=0 storages=003-バス停 time=300 lefts=600 rule=シャッター左から bg=o交差点(秋)-(昼) indexes=2000 textoff=0][lr]::
 37382::$$$message_0268_0047_0001$$$::Ouço passos apressados vindo de trás. Eu me viro e vejo[line len=3][fg index=1000 time=400 rule=シャッター左から pos=r storage=氷室制服01d(中) textoff=0][sestop time=400 storage=se058.wav]::
 37383::$$$message_0268_0048_0000$$$::"Ainda dá tempo, Sakura!"::
@@ -78,10 +78,10 @@ id=qid::label=str::text=lstr::
 37387::$$$message_0268_0051_0001$$$::Uma beleza de longos cabelos e olhos expressivos corre em nossa direção. Sua beleza não fica atrás daquela da Senhorita Saber — não, ela claramente a supera em termos de uma beleza feminina mais madura.[lr]::
 37388::$$$message_0268_0051_0002$$$::Ela usa óculos e roupas um tanto simples, mas seu rosto mais do que compensa isso. De forma aterrorizante.::
 37389::$$$message_0268_0052_0000$$$::Eu travo quando o olhar dela passa por mim. Que sensação misteriosa.[lr]::
-37390::$$$message_0268_0052_0001$$$::Rider? O Ryudou e a Senhorita Fujimura não mencionaram esse nome?::
-37391::$$$message_0268_0053_0000$$$::Ela vem puxando a Sakura Matou, do segundo ano, logo atrás dela.[lr]::
+37390::$$$message_0268_0052_0001$$$::Rider? O Ryudou e a Fujimura-Sensei não mencionaram esse nome?::
+37391::$$$message_0268_0053_0000$$$::Ela vem puxando a Matou Sakura, do segundo ano, logo atrás dela.[lr]::
 37392::$$$message_0268_0053_0001$$$::A Senhorita Matou me nota — não, ela está olhando para o Minori e abre um largo sorriso.::
-37393::$$$message_0268_0054_0000$$$::"Ah, Minori!"::
+37393::$$$message_0268_0054_0000$$$::"Ah, Minori-kun!"::
 37394::$$$message_0268_0055_0000$$$::"Tudo bem. Você chegou bem na hora, Capitã."::
 37395::$$$message_0268_0056_0000$$$::"Obrigada, Minori."::
 37396::$$$message_0268_0057_0000$$$::A Senhorita Rider e o irmão da Mitsuzuri seguram a porta para a Senhorita Matou entrar.::
@@ -99,7 +99,7 @@ id=qid::label=str::text=lstr::
 37408::$$$message_0268_0063_0000$$$::Durante a viagem de ônibus, meu palpite se torna convicção.[lr]::
 37409::$$$message_0268_0063_0001$$$::[fg opacity=180 index=1000 time=300 pos=rc storage=三法01d頬(近) textoff=0]A Senhorita Matou fala com seu calouro do clube algumas vezes, e ele está claramente consciente da presença dela. Ele tenta disfarçar, mas é inútil.::
 37410::$$$message_0268_0064_0000$$$::É o suficiente para me fazer questionar como a Senhorita Matou ainda não percebeu.[lr]::
-37411::$$$message_0268_0064_0001$$$::Os comentários inocentes dela, como "Obrigada, Minori, você é um anjo", fazem o Minori alternar entre crises de alegria e ansiedade.::
+37411::$$$message_0268_0064_0001$$$::Os comentários inocentes dela, como "Obrigada, Minori-kun, você é um anjo", fazem o Minori-kun alternar entre crises de alegria e ansiedade.::
 37412::$$$message_0268_0065_0000$$$::Um romance florescendo. Esse garoto tem potencial, tenho certeza disso.::
 37413::$$$message_0268_0066_0000$$$::"...É isso que torna tudo tão interessante."::
 37414::$$$message_0268_0067_0000$$$::Murmuro para mim mesma. A bela Senhorita Rider está ao meu lado.[lr]::
@@ -116,11 +116,11 @@ id=qid::label=str::text=lstr::
 37425::$$$message_0268_0074_0000$$$::"São mesmo...?"::
 37426::$$$message_0268_0075_0000$$$::O irmão da Mitsuzuri e a Senhorita Matou caminham alguns passos à nossa frente.[lr]::
 37427::$$$message_0268_0075_0001$$$::Aguço meus ouvidos para escutá-los.::
-37428::$$$message_0268_0076_0000$$$::"Você vai estar na divisão de novatos do torneio de outono, não vai?"::
-37429::$$$message_0268_0077_0000$$$::"Sim. Vou dar o meu melhor pelo clube e pelos veteranos."::
-37430::$$$message_0268_0078_0000$$$::"Minori, você foi rápido em se voluntariar. Realmente é irmão da sua irmã."::
-37431::$$$message_0268_0079_0000$$$::"N-não, você me lisonjeia. Não sou nem de perto tão bom quanto você ou minha irmã. A propósito, para onde você está indo hoje?"::
-37432::$$$message_0268_0080_0000$$$::"Vou fazer compras com a Rider. E você?"::
+37428::$$$message_0268_0076_0000$$$::"Você vai estar na divisão de novatos do torneio de outono, não vai, Minori-kun?"::
+37429::$$$message_0268_0077_0000$$$::"Sim. Vou dar o meu melhor pelo clube e pelos veteranos, Senpai."::
+37430::$$$message_0268_0078_0000$$$::"Minori-kun, você foi rápido em se voluntariar. Realmente é irmão da sua irmã, Senpai."::
+37431::$$$message_0268_0079_0000$$$::"N-não, você me lisonjeia. Não sou nem de perto tão bom quanto você ou Nee-chan. A propósito, para onde você está indo hoje?"::
+37432::$$$message_0268_0080_0000$$$::"Vou fazer compras com a Rider. E você, Minori-kun?"::
 37433::$$$message_0268_0081_0000$$$::"Eu, ah... eu só vou andar por aí, [cacheimage storage=三法01d頬(近)][wvl][chgfg time=300 storage=三法01d頬(近) textoff=0]hum..."::
 37434::$$$message_0268_0082_0000$$$::Ele está se esforçando tanto. Quero encorajá-lo a chamá-la para sair.::
 37435::$$$message_0268_0083_0000$$$::...Espere um pouco, Kane Himuro. Pare de misturar negócios com prazer. Você está esquecendo tudo sobre a Tohsaka e o Emiya.[lr]::
@@ -155,8 +155,8 @@ id=qid::label=str::text=lstr::
 37464::$$$message_0268_0104_0000$$$::"Você tem um gosto péssimo, Himuro-senpai. Parece uma velha fofoqueira que gosta de espiar a vida alheia."::
 37465::$$$message_0268_0105_0000$$$::O irmão da Mitsuzuri não tem muito filtro verbal.::
 37466::$$$message_0268_0106_0000$$$::"...Não pode ao menos me chamar de viúva ou de uma solteirona distinta?"::
-37467::$$$message_0268_0107_0000$$$::"Ha. Acho que minha irmã tentou me matar na última vez que eu disse isso pra ela. Com as próprias mãos."::
-37468::$$$message_0268_0108_0000$$$::"Eu simpatizo com ela, então. De qualquer forma, sua irmã e eu às vezes não somos muito boas em cuidar da nossa própria vida."::
+37467::$$$message_0268_0107_0000$$$::"Ha. Acho que Nee-chan tentou me matar na última vez que eu disse isso pra ela. Com as próprias mãos."::
+37468::$$$message_0268_0108_0000$$$::"Eu simpatizo com ela, então. De qualquer forma, sua irmã e eu às vezes não somos muito boas em cuidar da nossa própria vida, Senpai."::
 37469::$$$message_0268_0109_0000$$$::Sei que ele não pediu por isso, mas ajuda indesejada é o tempero da vida.[lr]::
 37470::$$$message_0268_0109_0001$$$::Se quiser viver uma vida simples e focada sem intrometidos te ajudando, então deveria apenas entrar para um convento. Na verdade, ajudar pessoas que não pediram é tudo o que freiras fazem.::
 37471::$$$message_0268_0110_0000$$$::"Agora, eu disse que te ajudaria com suas preocupações, então eu apreciaria se fizesse o mesmo por mim."::
@@ -164,11 +164,11 @@ id=qid::label=str::text=lstr::
 37473::$$$message_0268_0112_0000$$$::"Você acha que estou te ameaçando, dizendo que vou contar pra ela como você se sente se não me ajudar?"::
 37474::$$$message_0268_0113_0000$$$::Suponho que ele pensaria isso. Estou me tornando uma pessoa terrível apesar de tudo.[lr]::
 37475::$$$message_0268_0113_0001$$$::Eu esperava que o irmão da Mitsuzuri explodisse de raiva, mas ele apenas soltou um gemido.::
-37476::$$$message_0268_0114_0000$$$::"Relaxe. Eu não jogo tão sujo. Só quero te fazer umas perguntas sobre a sua irmã."::
-37477::$$$message_0268_0115_0000$$$::"Já disse que não sei de nada... e seria mais rápido perguntar diretamente pra ela. Ela é do tipo que dá respostas diretas."::
+37476::$$$message_0268_0114_0000$$$::"Relaxe. Eu não jogo tão sujo. Só quero te fazer umas perguntas sobre a Nee-san, Onee-san."::
+37477::$$$message_0268_0115_0000$$$::"Já disse que não sei de nada... e seria mais rápido perguntar diretamente pra ela. Ela é do tipo que dá respostas diretas, Nee-chan."::
 37478::$$$message_0268_0116_0000$$$::"Eu ainda tenho meus motivos para perguntar a você. Agora, por onde começo..."::
 37479::$$$message_0268_0117_0000$$$::Enquanto conversamos, a dupla à nossa frente lança olhares em nossa direção.[lr]::
-37480::$$$message_0268_0117_0001$$$::"Ei... Himuro-senpai. [cacheimage storage=氷室制服01c(遠),三法01c(遠)][wvl canskip=false time=400][chgfg time=300 storage=氷室制服01c(遠),三法01c(遠) textoff=0]Sobre o que você e o Minori estão falando?"::
+37480::$$$message_0268_0117_0001$$$::"Ei... Himuro-senpai. [cacheimage storage=氷室制服01c(遠),三法01c(遠)][wvl canskip=false time=400][chgfg time=300 storage=氷室制服01c(遠),三法01c(遠) textoff=0]Sobre o que você e o Minori-kun estão falando?"::
 37481::$$$message_0268_0118_0000$$$::"É melhor você não saber, Sakura."::
 37482::$$$message_0268_0119_0000$$$::"...Eles estão tão próximos. Puxa, eu não fazia ideia."::
 37483::$$$message_0268_0120_0000$$$::Pego parte da conversa, uma das falantes soando como se fingisse não saber que estava sendo ouvida.[lr]::
@@ -177,7 +177,7 @@ id=qid::label=str::text=lstr::
 37486::$$$message_0268_0121_0001$$$::A Makidera e a Yukika não estão aqui, e eu até ignorei completamente a questão da Tohsaka. Nesse ritmo, sinto que as duas vão me dar uma bronca, me chamando de anafrodisíaca de sangue frio.[lr]::
 37487::$$$message_0268_0121_0002$$$::Vou apenas marcar território com ele agora e retomar isso quando for o momento certo.::
 37488::$$$message_0268_0122_0000$$$::"Irmão da Mitsuzuri. Apenas aceite o fato de que uma bruxa má te capturou."::
-37489::$$$message_0268_0123_0000$$$::"...Sério, qual é o seu problema? Tanto você quanto minha irmã são insuportáveis. [cacheimage storage=三法01a(中)][wvl][chgfg time=300 storage=三法01a(中) textoff=0]Por que você não pode ser mais graciosa, como a Capitã Matou?"::
+37489::$$$message_0268_0123_0000$$$::"...Sério, qual é o seu problema? Tanto você quanto Nee-chan são insuportáveis, Senpai. [cacheimage storage=三法01a(中)][wvl][chgfg time=300 storage=三法01a(中) textoff=0]Por que você não pode ser mais graciosa, como a Capitã Matou?"::
 37490::$$$message_0268_0124_0000$$$::"Ah? Então é desse tipo que você gosta, hein? Dela? Entendo."::
 37491::$$$message_0268_0125_0000$$$::"Ah, Emiya-senpai!"::
 37492::$$$message_0268_0126_0000$$$::Todos se viram ao ouvir a voz da Senhorita Matou.[lr]::
@@ -187,29 +187,29 @@ id=qid::label=str::text=lstr::
 37496::$$$message_0268_0129_0000$$$::"Sakura e Rider. Que coincidência."::
 37497::$$$message_0268_0130_0000$$$::Por quê?[lr]::
 37498::$$$message_0268_0130_0001$$$::...Não é apenas o Emiya. As Senhoritas Tohsaka e Saber estão com ele.[lr]::
-37499::$$$message_0268_0130_0002$$$::[movefg opacity=200 left=238 top=23 time=1000 accel=-3 storage=凛私服05c(近) textoff=0][movefg opacity=200 left=-121 top=70 time=1000 accel=-3 storage=セイバー私服01a(近) textoff=0]Que tipo de feitiçaria aconteceu para fazer todos eles aparecerem juntos?[wm canskip=0][wm canskip=0][lr]::
+37499::$$$message_0268_0130_0002$$$::[movefg opacity=200 left=238 top=23 time=1000 accel=-3 storage=凛私服05c(近) textoff=0][movefg opacity=200 left=-121 top=70 time=1000 accel=-3 storage=セイバー私服01a(近) textoff=0]Que tipo de Magia aconteceu para fazer todos eles aparecerem juntos?[wm canskip=0][wm canskip=0][lr]::
 37500::$$$message_0268_0130_0003$$$::Onde está a Yukika? E quanto à Senhorita Mitsuzuri que deveria estar acompanhando ela? E o que aconteceu com aquela praga da Makidera?::
 37501::$$$message_0268_0131_0000$$$::O que quer que tenha acontecido naquele curto intervalo desafia a compreensão.[lr]::
 37502::$$$message_0268_0131_0001$$$::Além do mais, o Emiya e a Tohsaka estão completamente à vontade um com o outro, sendo que eu pensei que eles tinham brigado.::
-37503::$$$message_0268_0132_0000$$$::"Você veio aqui com o Senpai, Saber?"::
+37503::$$$message_0268_0132_0000$$$::"Você veio aqui com o Senpai, Saber-san?"::
 37504::$$$message_0268_0133_0000$$$::"É uma longa história, que começa com a Taiga causando uma confusão do lado de fora da casa..."::
-37505::$$$message_0268_0134_0000$$$::"Ahaha. Mas parece que falta algo se ela não fizer isso de vez em quando, né?"::
-37506::$$$message_0268_0135_0000$$$::"A Fuji-nee incomodou os vizinhos de novo?"::
+37505::$$$message_0268_0134_0000$$$::"Ahaha. Mas parece que falta algo se ela não fizer isso de vez em quando, né, Fujimura-Sensei?"::
+37506::$$$message_0268_0135_0000$$$::"A Fuji-Nee incomodou os vizinhos de novo?"::
 37507::$$$message_0268_0136_0000$$$::Todos da residência Emiya estão completamente relaxados, engajados em uma conversa agradável.[lr]::
 37508::$$$message_0268_0136_0001$$$::...Enquanto isso, o irmão da Mitsuzuri, a Senhorita Rider e eu permanecemos fora desse círculo.::
 37509::$$$message_0268_0137_0000$$$::Olho de soslaio e vejo que o irmão da Mitsuzuri ficou rígido.[lr]::
 37510::$$$message_0268_0137_0001$$$::...Certo. O Emiya, a pessoa de quem ele não conseguiu nem falar educadamente no ônibus, está aqui.::
 37511::$$$message_0268_0138_0000$$$::"Bem, isso acontece o tempo todo, Senpai."::
-37512::$$$message_0268_0139_0000$$$::"O único jeito de aquietar a Senhorita Fujimura é se o Shirou intervir pessoalmente."::
+37512::$$$message_0268_0139_0000$$$::"O único jeito de aquietar a Fujimura-Sensei é se o Shirou intervir pessoalmente."::
 37513::$$$message_0268_0140_0000$$$::"As pessoas vão entender errado se você disser desse jeito, Rin."::
-37514::$$$message_0268_0141_0000$$$::"Mas, ah... Senpai e minha irmã, vocês já estão..."::
-37515::$$$message_0268_0142_0000$$$::Irmã?[lr]::
-37516::$$$message_0268_0142_0001$$$::...Eu ouvi direito? Por que a Senhorita Matou acabou de chamar a Senhorita Tohsaka de irmã mais velha?[lr]::
+37514::$$$message_0268_0141_0000$$$::"Mas, ah... Senpai e Nee-san, vocês já estão..."::
+37515::$$$message_0268_0142_0000$$$::Nee-san?[lr]::
+37516::$$$message_0268_0142_0001$$$::...Eu ouvi direito? Por que a Senhorita Matou acabou de chamar a Nee-san de Nee-san?[lr]::
 37517::$$$message_0268_0142_0002$$$::Mas mais do que isso, estou curiosa para ouvir o que ela ia dizer.[lr]::
 37518::$$$message_0268_0142_0003$$$::É verdade que as Senhoritas Matou e Saber devem ter uma compreensão melhor do desentendimento entre o Emiya e a Senhorita Tohsaka do que eu. Eu me pergunto se o quebra-cabeça será resolvido bem na frente do[line len=2]::
 37519::$$$message_0268_0143_0000$$$::"Isso mesmo, Rin. Eu também não me sinto bem com o que aconteceu ontem."::
 37520::$$$message_0268_0144_0000$$$::"Desculpe. Digo isso para a Saber e para a Sakura também."::
-37521::$$$message_0268_0145_0000$$$::"Ahaha... [cacheimage storage=凛私服12c(遠),セイバー私服13c(遠)][wvl canskip=false time=400][chgfg time=300 storage=凛私服12c(遠),セイバー私服13c(遠) textoff=0]Bem, acontece. Mas acho que causamos muitos problemas para as pessoas desta vez. [cacheimage storage=凛私服03b(遠),士郎制服01c(遠),セイバー私服04e(遠)][wvl canskip=false time=400][chgfg time=300 storage=凛私服03b(遠),士郎制服01c(遠),セイバー私服04e(遠) textoff=0]Viram? A Senhorita Himuro ali parece bem preocupada."::
+37521::$$$message_0268_0145_0000$$$::"Ahaha... [cacheimage storage=凛私服12c(遠),セイバー私服13c(遠)][wvl canskip=false time=400][chgfg time=300 storage=凛私服12c(遠),セイバー私服13c(遠) textoff=0]Bem, acontece. Mas acho que causamos muitos problemas para as pessoas desta vez. [cacheimage storage=凛私服03b(遠),士郎制服01c(遠),セイバー私服04e(遠)][wvl canskip=false time=400][chgfg time=300 storage=凛私服03b(遠),士郎制服01c(遠),セイバー私服04e(遠) textoff=0]Viram? A Himuro-san ali parece bem preocupada."::
 37522::$$$message_0268_0146_0000$$$::Eu me encolho de medo ao ter meu nome chamado de repente.[lr]::
 37523::$$$message_0268_0146_0001$$$::Oh... Ela estava ciente de nós o tempo todo, tanto no telhado quanto na rua hoje.::
 37524::$$$message_0268_0147_0000$$$::"Ah... Himuro, você veio com a Sakura?"::
@@ -219,7 +219,7 @@ id=qid::label=str::text=lstr::
 37528::$$$message_0268_0150_0000$$$::"Nós nos separamos delas [cacheimage storage=士郎制服01b(中)][wvl][chgfg time=300 storage=士郎制服01b(中) textoff=0]lá no café."::
 37529::$$$message_0268_0151_0000$$$::"Não acredito que o sermão que te dei acabou virando essa bagunça toda. Você deveria refletir um pouco sobre isso."::
 37530::$$$message_0268_0152_0000$$$::"Eu sei que pisei na bola, mas você também. Achei que tivéssemos concordado que ambos os lados estavam errados, não concordamos?"::
-37531::$$$message_0268_0153_0000$$$::"Minha irmã e eu nem sempre concordamos também, então não se culpe por isso, Senpai."::
+37531::$$$message_0268_0153_0000$$$::"Nee-san e eu nem sempre concordamos também, então não se culpe por isso, Senpai."::
 37532::$$$message_0268_0154_0000$$$::A Senhorita Matou interrompe para aliviar a tensão. Mas alguém atingiu seu ponto de ebulição ao ouvi-la falar diretamente com o Emiya.[lr]::
 37533::$$$message_0268_0154_0001$$$::Ao meu lado, uma aura ameaçadora emana.::
 37534::$$$message_0268_0155_0000$$$::"Ei. Olha só como você é popular. O que você está pensando?"::
@@ -231,7 +231,7 @@ id=qid::label=str::text=lstr::
 37540::$$$message_0268_0158_0003$$$::Até eu acho a total falta de noção do Emiya um pouco irritante.::
 37541::$$$message_0268_0159_0000$$$::"Uou, do que se trata isso? Pode ser um pouco mais claro?"::
 37542::$$$message_0268_0160_0000$$$::"Eu não acredito nisso. Precisa que eu soletre pra você? [cacheimage storage=三法01b(近)][wvl][chgfg time=300 storage=三法01b(近) textoff=0]Quanta ingenuidade."::
-37543::$$$message_0268_0161_0000$$$::"M-Minori?"[cacheimage storage=桜私服13i(中)][wvs][chgfg time=300 storage=桜私服13i(中) textoff=0]::
+37543::$$$message_0268_0161_0000$$$::"M-Minori-kun?"[cacheimage storage=桜私服13i(中)][wvs][chgfg time=300 storage=桜私服13i(中) textoff=0]::
 37544::$$$message_0268_0162_0000$$$::Nuvens negras se formam entre o Emiya e o irmão da Mitsuzuri.[lr]::
 37545::$$$message_0268_0162_0001$$$::A Senhorita Matou parece nervosa e, por algum motivo, sua ansiedade parece ter infectado a Rider.[lr]::
 37546::$$$message_0268_0162_0002$$$::[rep tops=44,83,58,6 storages=凛私服08d(中),セイバー私服04e(中),氷室制服02d(中),士郎制服01e(近) time=800 lefts=411,-59,591,98 rule=走る感じ bg=oビル街-(夕) indexes=1000,2000,3000,4000 textoff=0]A Senhorita Tohsaka e a Senhorita Saber não entendem o que está acontecendo. Significa que...::
@@ -245,7 +245,7 @@ id=qid::label=str::text=lstr::
 37554::$$$message_0268_0166_0003$$$::Como esperado, o irmão da Mitsuzuri reage com uma intensidade avassaladora.::
 37555::$$$message_0268_0167_0000$$$::"Himuro-senpai!!!"::
 37556::$$$message_0268_0168_0000$$$::"Eu disse: vamos. Você está agindo de forma bem patética agora. Vou ouvir suas preocupações em um ambiente mais calmo, então apenas tenha paciência por enquanto."::
-37557::$$$message_0268_0169_0000$$$::"O-o quê, S-Senpai!? Você tinha esse tipo de relacionamento com o Minori!?"::
+37557::$$$message_0268_0169_0000$$$::"O-o quê, S-Himuro-senpai!? Você tinha esse tipo de relacionamento com o Mitsuzuri-kun!?"::
 37558::$$$message_0268_0170_0000$$$::Oh, Senhorita Matou. Você está tentando traumatizar esse garoto pelo resto da vida?[lr]::
 37559::$$$message_0268_0170_0001$$$::Ao lado dela, a Rider tenta fazer uma reverência sem levantar suspeitas. Ela parece ter compreendido minha intenção.[lr]::
 37560::$$$message_0268_0170_0002$$$::Como se estivesse grato por eu remover a pessoa que o estava importunando, o Emiya se vira para mim.::
@@ -255,7 +255,7 @@ id=qid::label=str::text=lstr::
 37564::$$$message_0268_0174_0000$$$::Ele deve estar se referindo a mim, à Senhorita Mitsuzuri e à Senhorita Saber. Eu nem sou uma voluntária, apenas uma observadora rancorosa.::
 37565::$$$message_0268_0175_0000$$$::"Acho melhor eu mostrar meu lado 'prestativo' também."::
 37566::$$$message_0268_0176_0000$$$::"Como assim?"::
-37567::$$$message_0268_0177_0000$$$::"Senhorita Himuro, parece que você quer saber sobre a Ayako mais do que eu, certo?"::
+37567::$$$message_0268_0177_0000$$$::"Himuro-san, parece que você quer saber sobre a Ayako mais do que eu, certo?"::
 37568::$$$message_0268_0178_0000$$$::...Ela viu através de mim. Não acho que ela tenha ouvido falar da nossa investigação. Será que nosso comportamento foi tão gritante que ela começou a nos monitorar?::
 37569::$$$message_0268_0179_0000$$$::"Ah, não me olhe assim. Fiquei surpresa quando a Sakura mencionou a vida amorosa da Ayako. Ela disse que você perguntou para ela sobre isso."::
 37570::$$$message_0268_0180_0000$$$::Entendo. Eu não esperava que a Senhorita Tohsaka descobrisse através da Senhorita Matou.[lr]::
@@ -268,7 +268,7 @@ id=qid::label=str::text=lstr::
 37577::$$$message_0268_0183_0002$$$::Este é um desenvolvimento enorme.[lr]::
 37578::$$$message_0268_0183_0003$$$::Estou mais perto da verdade sobre a Mitsuzuri do que nunca.::
 37579::$$$message_0268_0184_0000$$$::"Tem certeza de que quer me contar [cacheimage storage=凛私服05c(中)][wvl][chgfg time=300 storage=凛私服05c(中) textoff=0]isso?"::
-37580::$$$message_0268_0185_0000$$$::"Mas nem a Ayako ia querer outros sondando seus assuntos privados. Ah, e Minori? Estou ansiosa para ver algo interessante na próxima vez também."::
+37580::$$$message_0268_0185_0000$$$::"Mas nem a Ayako ia querer outros sondando seus assuntos privados. Ah, e Minori-kun? Estou ansiosa para ver algo interessante na próxima vez também."::
 37581::$$$message_0268_0186_0000$$$::Vendo como ela está agora, está se tornando cada vez mais difícil acreditar que a Senhorita Tohsaka é aquela estudante de honra impecável na escola.[lr]::
 37582::$$$message_0268_0186_0001$$$::O Emiya suspira. A Senhorita Matou sorri amarelo. A Senhorita Saber continua composta.[lr]::
 37583::$$$message_0268_0186_0002$$$::...Eu vou investigar o ambiente doméstico suspeito do Emiya assim que a poeira baixar.[lr]::
@@ -280,40 +280,40 @@ id=qid::label=str::text=lstr::
 37589::$$$message_0268_0190_0001$$$::Eu o arrasto comigo... talvez devêssemos ir ao Waterfront Park.::
 37590::$$$message_0268_0191_0000$$$::"Já chega. Me solta, Himuro-senpai."::
 37591::$$$message_0268_0192_0000$$$::"Receio que não posso fazer isso. Apenas aceite que uma bruxa má te tem em suas garras. [cacheimage storage=氷室制服01b(中)][wvl][chgfg time=300 storage=氷室制服01b(中) textoff=0]Seja grato por eu não ter feito nada pior por respeito à sua dignidade."::
-37592::$$$message_0268_0193_0000$$$::"Urgh... Esse seu jeito de falar bobagens realmente me lembra a minha irmã."::
+37592::$$$message_0268_0193_0000$$$::"Urgh... Esse seu jeito de falar bobagens realmente me lembra a Nee-chan."::
 37593::$$$message_0268_0194_0000$$$::O que diabos a Senhorita Mitsuzuri andou fazendo com o irmão?[lr]::
 37594::$$$message_0268_0194_0001$$$::Talvez irmãs mais velhas carinhosas como a Yukika sejam raras. Que triste.[lr]::
 37595::$$$message_0268_0194_0002$$$::Agora, a prioridade é calá-lo e levá-lo comigo.::
 37596::$$$message_0268_0195_0000$$$::"Nnnnnrgh! O que você está pensando, sua Himuro-senpai estúpida!"::
 37597::$$$message_0268_0196_0000$$$::"Apenas se acalme e se comporte. Imagine isso como um ensaio."::
-37598::$$$message_0268_0197_0000$$$::O sol de outono se põe cedo, e o parque já está escurecendo.[lr]::
+37598::$$$message_0268_0197_0000$$$::O Sol de outono se põe cedo, e o parque já está escurecendo.[lr]::
 37599::$$$message_0268_0197_0001$$$::É um pouco estranho caminhar pela noite de braços dados com o irmão da Mitsuzuri.[lr]::
 37600::$$$message_0268_0197_0002$$$::Agora, eu deveria acalmá-lo e ouvi-lo[line len=2]::
-37601::$$$message_0268_0198_0000$$$::"Aaaah! Kane!"::
+37601::$$$message_0268_0198_0000$$$::"Aaaah! Kane-chan!"::
 37602::$$$message_0268_0199_0000$$$::Uma voz nostálgica me faz parar. É uma voz gentil que alivia a tensão dos meus ombros.[lr]::
 37603::$$$message_0268_0199_0001$$$::[movefg opacity=255 time=500 pos=l accel=-2 storage=由紀香制服01a(遠) textoff=0][movefg opacity=255 time=600 pos=r accel=0 storage=氷室特殊01a_ab textoff=0]Yukika. Começo a me desculpar pela espera, mas...[wm canskip=0][wm canskip=0]::
-37604::$$$message_0268_0200_0000$$$::"Eeeeeee!? Você está de braços dados com o Minori!"::
+37604::$$$message_0268_0200_0000$$$::"Eeeeeee!? Você está de braços dados com o Mitsuzuri-kun, Kane-chan!"::
 37605::$$$message_0268_0201_0000$$$::"Sim, tornou mais fácil o sequestro. Sem outro motivo."::
 37606::$$$message_0268_0202_0000$$$::"Então me solta, Himuro-senpai. Eu vou me comportar."::
 37607::$$$message_0268_0203_0000$$$::Quando o solto, o irmão da Mitsuzuri recua, com o rosto vermelho.[lr]::
 37608::$$$message_0268_0203_0001$$$::...Será que meu peito estava tão desconfortável assim? Que pena.::
 37609::$$$message_0268_0204_0000$$$::"Boa noite, Saegusa-senpai."::
-37610::$$$message_0268_0205_0000$$$::"Boa noite, Minori. Nunca te vi com a Kane antes."::
+37610::$$$message_0268_0205_0000$$$::"Boa noite, Mitsuzuri-kun. Nunca te vi com a Kane-chan antes."::
 37611::$$$message_0268_0206_0000$$$::O irmão da Mitsuzuri cumprimenta a Saegusa. Ele continua respeitoso como sempre com os veteranos. Percebo que teve uma boa criação.[lr]::
 37612::$$$message_0268_0206_0001$$$::...Agora é minha vez de me desculpar com a Yukika.::
 37613::$$$message_0268_0207_0000$$$::"Sinto muito, Yukika. Não consegui me forçar a ir com você."::
-37614::$$$message_0268_0208_0000$$$::"Não, eu que deveria me desculpar. A Senhorita Tohsaka me pagou um chá, e disse que faria o almoço pra mim amanhã também... [cacheimage storage=由紀香制服01b(中)][wvl][chgfg time=300 storage=由紀香制服01b(中) textoff=0]Também fico feliz que ela tenha feito as pazes com o Emiya."::
+37614::$$$message_0268_0208_0000$$$::"Não, eu que deveria me desculpar. A Tohsaka-san me pagou um chá, e disse que faria o almoço pra mim amanhã também... [cacheimage storage=由紀香制服01b(中)][wvl][chgfg time=300 storage=由紀香制服01b(中) textoff=0]Também fico feliz que ela tenha feito as pazes com o Emiya-kun."::
 37615::$$$message_0268_0209_0000$$$::Yukika sorri suavemente. Ahh, valeu a pena vir aqui só para ver isso.[lr]::
 37616::$$$message_0268_0209_0001$$$::[chgfg time=300 storage=氷室制服01a(中) textoff=0]Agora, a Makidera deve estar por aqui também...::
 37617::$$$message_0268_0210_0000$$$::"O que a Maki está aprontando?"::
-37618::$$$message_0268_0211_0000$$$::"B-Bem... Venha por aqui, Kane. Ela está com a Senhorita Mitsuzuri, e estão tendo problemas."::
+37618::$$$message_0268_0211_0000$$$::"B-Bem... Venha por aqui, Kane-chan. Ela está com a Mitsuzuri-san, e estão tendo problemas."::
 37619::$$$message_0268_0212_0000$$$::"...Percebo que a conversa acabou. Estou indo embora."::
 37620::$$$message_0268_0213_0000$$$::Eu já previa isso.[lr]::
 37621::$$$message_0268_0213_0001$$$::[movefg opacity=0 left=209 top=58 time=300 accel=2 storage=氷室制服01a(中) textoff=0][wm canskip=0][movefg opacity=255 time=300 pos=rc accel=0 storage=氷室制服02a(中) textoff=0]Eu agarro o braço dele com firmeza antes que ele possa sair.[wm canskip=0][se storage=se288.wav][rep tops=,0 storages=由紀香制服01d(中),氷室特殊01a_ab time=300 lefts=,352 poss=l, bg=o冬木大橋袂の公園1(秋)-(夜) indexes=1000,2000 textoff=0][shock vmax=30 time=300 count=-3][lr]::
 37622::$$$message_0268_0213_0002$$$::E então eu o travo firmemente no lugar onde estava antes. Agora ele não conseguirá escapar tão facilmente.[lr]::
 37623::$$$message_0268_0213_0003$$$::"Nnnnnrgh!"::
 37624::$$$message_0268_0214_0000$$$::"Agora, irmãozinho. Você vai ver sua irmã em casa de qualquer jeito, então qual o mal de ela estar aqui?"::
-37625::$$$message_0268_0215_0000$$$::"Nossa, Kane... você é tão atirada."::
+37625::$$$message_0268_0215_0000$$$::"Nossa, Kane-chan... você é tão atirada."::
 37626::$$$message_0268_0216_0000$$$::"Rrgh... Aah. Certo. Já chega...[lr]::
 37627::$$$message_0268_0216_0001$$$::Mas Himuro-senpai... no fim das contas, você até que combina bastante com a Capitã Matou."::
 37628::$$$message_0268_0217_0000$$$::"...? Combina? Em que sentido?"::
@@ -323,7 +323,7 @@ id=qid::label=str::text=lstr::
 37632::$$$message_0268_0220_0000$$$::"Não estamos administrando um serviço de faz-tudo!"[stopquake]::
 37633::$$$message_0268_0221_0000$$$::No parque perto da ponte, ouço duas mulheres uivando em direção ao mar.[lr]::
 37634::$$$message_0268_0221_0001$$$::Uma é a Makidera, enquanto a outra é a Senhorita Mitsuzuri.[lr]::
-37635::$$$message_0268_0221_0002$$$::Elas são famosas por não se darem bem, mas estão amigavelmente uivando juntas para o mar. Combinaria melhor com o pôr do sol na praia.::
+37635::$$$message_0268_0221_0002$$$::Elas são famosas por não se darem bem, mas estão amigavelmente uivando juntas para o mar. Combinaria melhor com o pôr do Sol na praia.::
 37636::$$$message_0268_0222_0000$$$::"Emiya, você é um estraga-prazeres!"::
 37637::$$$message_0268_0223_0000$$$::"Não faça suas amigas se preocuparem com você e depois façam as pazes sem nos avisar!"::
 37638::$$$message_0268_0224_0000$$$::"Só eu tenho o direito de tirar vantagem da Tohsaka!"::
@@ -336,18 +336,18 @@ id=qid::label=str::text=lstr::
 37645::$$$message_0268_0230_0000$$$::Eles tiveram uma briga súbita, [chgfg time=300 storage=蒔寺制服03d(遠),美綴01c(遠) textoff=0]arrastaram todo mundo para ela e depois fizeram as pazes antes mesmo que percebêssemos o que estava acontecendo.[lr]::
 37646::$$$message_0268_0230_0001$$$::Com certeza isso frustraria qualquer um tentando mediar, embora a [chgfg time=300 storage=氷室制服02d(近),蒔寺制服02a(遠),美綴02a(遠) textoff=0]Makidera esteja duplamente irritada por outros motivos.::
 37647::$$$message_0268_0231_0000$$$::Meus pêsames. A sorte da Makidera retornará algum dia.::
-37648::$$$message_0268_0232_0000$$$::"...O que você está fazendo, mana?"::
+37648::$$$message_0268_0232_0000$$$::"...O que você está fazendo, mana, Nee-chan?"::
 37649::$$$message_0268_0233_0000$$$::"Minori!? O que você está fazendo aqui?"::
-37650::$$$message_0268_0234_0000$$$::"É o que eu quero te perguntar... Se o papai e a mamãe te vissem sendo patética assim, [cacheimage storage=三法01c(中)][wvl][chgfg time=300 storage=三法01c(中) textoff=0]você levaria o maior sermão."::
+37650::$$$message_0268_0234_0000$$$::"É o que eu quero te perguntar... Se o papai e a mamãe te vissem sendo patética assim, [cacheimage storage=三法01c(中)][wvl][chgfg time=300 storage=三法01c(中) textoff=0]você levaria o maior sermão, Nee-chan."::
 37651::$$$message_0268_0235_0000$$$::"Ora, vejam só como ele está crescidinho. Me deixa feliz como sua irmã mais velha."::
-37652::$$$message_0268_0236_0000$$$::"Grr... Você é sempre tão..."::
+37652::$$$message_0268_0236_0000$$$::"Grr... Você é sempre tão.., Nee-chan."::
 37653::$$$message_0268_0237_0000$$$::Essa relação entre irmãos é bem divertida.[lr]::
 37654::$$$message_0268_0237_0001$$$::Mas não é hora de ficar apreciando a vista. Tenho uma oportunidade perfeita agora que os dois Mitsuzuris estão no mesmo lugar.[lr]::
 37655::$$$message_0268_0237_0002$$$::A Makidera me nota e se vira com uma expressão exausta.::
 37656::$$$message_0268_0238_0000$$$::"Ei, Himuro. Você demorou, hein. Tudo o que estávamos esperando [cacheimage storage=蒔寺制服03c(近)][wvl][chgfg time=300 storage=蒔寺制服03c(近) textoff=0]já acabou."::
 37657::$$$message_0268_0239_0000$$$::"Fico um pouco decepcionada em ouvir isso, mas a fonte do problema da Senhorita Mitsuzuri [line len=2][cacheimage storage=氷室制服01c(近),蒔寺制服01c(近)][wvl][chgfg time=300 storage=氷室制服01c(近),蒔寺制服01c(近) textoff=0]ainda está presente."::
 37658::$$$message_0268_0240_0000$$$::Os irmãos se viram para mim ao ouvirem o nome da Mitsuzuri.::
-37659::$$$message_0268_0241_0000$$$::"A Himuro quer saber com quem você está saindo?"::
+37659::$$$message_0268_0241_0000$$$::"A Himuro-senpai quer saber com quem você está saindo, Nee-chan?"::
 37660::$$$message_0268_0242_0000$$$::"O quêêê? Por que você quer saber? Foi a Makidera que te instigou?"::
 37661::$$$message_0268_0243_0000$$$::"Eu também estou um pouco curiosa... [cacheimage storage=由紀香制服01e(中)][wvl][chgfg time=300 storage=由紀香制服01e(中) textoff=0]Desculpe."::
 37662::$$$message_0268_0244_0000$$$::A Yukika parece apologética, mesmo não tendo nada pelo que se desculpar.[lr]::
@@ -356,13 +356,13 @@ id=qid::label=str::text=lstr::
 37665::$$$message_0268_0245_0000$$$::"Tivemos uns dois ou três candidatos. Hum, o primeiro foi o Shinji, certo?"::
 37666::$$$message_0268_0246_0000$$$::"Ahaha. Você tem um senso de humor bem perverso. [cacheimage storage=美綴01b(近)][wvl canskip=false time=800][chgfg time=300 storage=美綴01b(近) textoff=0]Tá tentando me matar de rir?"::
 37667::$$$message_0268_0247_0000$$$::Senhorita Mitsuzuri, por favor, não sorria enquanto ameaça nos matar com sua linguagem corporal.::
-37668::$$$message_0268_0248_0000$$$::"E depois o Ryudou, e depois... uh, o Emiya."::
-37669::$$$message_0268_0249_0000$$$::"[font italic=true]O quê!?[font italic=false] É melhor não! Eu preferiria ser deserdado a ter que chamar aquele cara de cunhado!"::
+37668::$$$message_0268_0248_0000$$$::"E depois o Ryuudou-kun, e depois... uh, o Emiya-kun."::
+37669::$$$message_0268_0249_0000$$$::"[font italic=true]O quê!?[font italic=false] É melhor não! Eu preferiria ser deserdado a ter que chamar aquele cara de cunhado, Nee-chan!"::
 37670::$$$message_0268_0250_0000$$$::Ambos os Mitsuzuris desbancam veementemente a teoria do Emiya.[lr]::
 37671::$$$message_0268_0250_0001$$$::O rosto da Mitsuzuri ficou pálido, provavelmente pelo desconforto de ser associada ao Shinji, ao Ryudou ou ao Emiya como parceiros. Honestamente, eu também ficaria sem palavras no lugar dela.::
 37672::$$$message_0268_0251_0000$$$::"Hahaha, pode continuar tentando. [cacheimage storage=美綴01a(中)][wvl][chgfg time=300 storage=美綴01a(中) textoff=0]Mas o Emiya não é uma opção, nem pensar."::
 37673::$$$message_0268_0252_0000$$$::"Então eu considerei a Senhorita Saber. [cacheimage storage=氷室制服01b(中)][wvl][chgfg time=300 storage=氷室制服01b(中) textoff=0]Pensando bem, foi uma escolha estranha."::
-37674::$$$message_0268_0253_0000$$$::"Hã... Ah, [cacheimage storage=美綴01b(近)][wvl][chgfg time=300 storage=美綴01b(近) textoff=0]a Senhorita Saber, é? Ela deve ser um bom partido, é verdade."::
+37674::$$$message_0268_0253_0000$$$::"Hã... Ah, [cacheimage storage=美綴01b(近)][wvl][chgfg time=300 storage=美綴01b(近) textoff=0]a Saber-san, é? Ela deve ser um bom partido, é verdade."::
 37675::$$$message_0268_0254_0000$$$::A Mitsuzuri dá uma risadinha. Ela está falando sério?[lr]::
 37676::$$$message_0268_0254_0001$$$::...Embora eu não saiba se [font italic=true]namoraria[font italic=false] com ela, se ela me convidasse para dividir um quarto, eu aceitaria feliz.[lr]::
 37677::$$$message_0268_0254_0002$$$::Opa, estou me distraindo de novo. Voltando ao assunto...::
@@ -375,7 +375,7 @@ id=qid::label=str::text=lstr::
 37684::$$$message_0268_0258_0002$$$::Também há a relação entre a Senhorita Tohsaka e o Emiya a considerar. Talvez isso estivesse em jogo, ou talvez...[lr]::
 37685::$$$message_0268_0258_0003$$$::Ainda assim, as palavras "desastre" e "vergonha" foram mencionadas, e não sei como elas se encaixam nisso.::
 37686::$$$message_0268_0259_0000$$$::"...Abril? Você quer dizer..."::
-37687::$$$message_0268_0260_0000$$$::"Não vou te perdoar nem se você disser que não lembra."::
+37687::$$$message_0268_0260_0000$$$::"Não vou te perdoar nem se você disser que não lembra, Nee-chan."::
 37688::$$$message_0268_0261_0000$$$::"Hm? O que aconteceu, irmão da Mitsuzuri? [cacheimage storage=蒔寺制服01e(中)][wvl][chgfg time=300 storage=蒔寺制服01e(中) textoff=0]Mitsuzuri, o que você fez ele fazer?"::
 37689::$$$message_0268_0262_0000$$$::A intuição da Makidera é afiada.[lr]::
 37690::$$$message_0268_0262_0001$$$::É isso. A Senhorita Mitsuzuri forçou o irmão a fazer algo, e isso o humilhou.::
@@ -384,7 +384,7 @@ id=qid::label=str::text=lstr::
 37693::$$$message_0268_0265_0000$$$::"Eu não sei sobre isso, mas houve uma aposta... entre a Senhorita Tohsaka e a Senhorita Mitsuzuri. Isso claramente está no centro de tudo."::
 37694::$$$message_0268_0266_0000$$$::Quase todas as peças que faltavam estão no lugar. Ela perdeu a aposta, o que levou à situação atual.[lr]::
 37695::$$$message_0268_0266_0001$$$::O irmão da Mitsuzuri chuta impacientemente uma pedra e resmunga.::
-37696::$$$message_0268_0267_0000$$$::"Por que eu teria que ser seu namorado..."::
+37696::$$$message_0268_0267_0000$$$::"Por que eu teria que ser seu namorado.., Nee-chan."::
 37697::$$$message_0268_0268_0000$$$::"S-seu estúpido! Minori, você...!"::
 37698::$$$message_0268_0269_0000$$$::"O quêêê? Então vocês dois têm um relacionamento [font italic=true]não convencional[font italic=false]!?"::
 37699::$$$message_0268_0270_0000$$$::A Makidera parece horrorizada, mas isso não pode ser verdade. Sem chance.[lr]::
@@ -406,16 +406,16 @@ id=qid::label=str::text=lstr::
 37715::$$$message_0268_0279_0002$$$::Quão incomum da Senhorita Mitsuzuri, agir impacientemente de forma tão imprudente.::
 37716::$$$message_0268_0280_0000$$$::"A Senhorita Tohsaka nunca pareceu ter prospectos também até abril, quando as pessoas começaram a notar que ela e o Emiya estavam ficando próximos. Você achou que a aposta estava empatada, mas entrou em pânico quando sentiu que estava prestes a perder."::
 37717::$$$message_0268_0281_0000$$$::"...Parece que interpretei mal suas ações lá atrás."::
-37718::$$$message_0268_0282_0000$$$::"Então, a Mitsuzuri não começou a namorar ninguém naquela época?"::
+37718::$$$message_0268_0282_0000$$$::"Então, a Mitsuzuri-san não começou a namorar ninguém naquela época?"::
 37719::$$$message_0268_0283_0000$$$::"Ela deve ter ficado desesperada para encontrar alguém para fazer o papel na última hora. [cacheimage storage=蒔寺制服03b(中)][wvl][chgfg time=300 storage=蒔寺制服03b(中) textoff=0]Mas ela estava sem opções."::
-37720::$$$message_0268_0284_0000$$$::"...Simplesmente expondo tudo, não é?"::
+37720::$$$message_0268_0284_0000$$$::"...Simplesmente expondo tudo, não é, Senpai?"::
 37721::$$$message_0268_0285_0000$$$::Heh.[lr]::
 37722::$$$message_0268_0285_0001$$$::[chgfg time=300 storage=美綴01c(中) textoff=0]O irmão da Mitsuzuri parece derrotado.[lr]::
 37723::$$$message_0268_0285_0002$$$::Ele retribui o olhar acusador da irmã com um olhar ressentido dele mesmo.::
-37724::$$$message_0268_0286_0000$$$::"A Tohsaka é uma coisa, mas [font italic=true]ele[font italic=false] também riu de mim. Nunca vou esquecer isso."::
+37724::$$$message_0268_0286_0000$$$::"A Tohsaka-senpai é uma coisa, mas [font italic=true]ele[font italic=false] também riu de mim. Nunca vou esquecer isso."::
 37725::$$$message_0268_0287_0000$$$::"Hahaha, ah, Minori. Foi uma boa experiência, né?"::
 37726::$$$message_0268_0288_0000$$$::"Que irmã terrível... Eu nunca pensei que minha nêmesis fosse tão impiedosa."::
-37727::$$$message_0268_0289_0000$$$::"Nossa, Senhorita Mitsuzuri... Você odiava tanto assim a ideia de perder?"::
+37727::$$$message_0268_0289_0000$$$::"Nossa, Mitsuzuri-san... Você odiava tanto assim a ideia de perder?"::
 37728::$$$message_0268_0290_0000$$$::A Makidera está sem fala, o que diz muito sobre o quão chocada ela está.[lr]::
 37729::$$$message_0268_0290_0001$$$::Ela queria mostrar sua determinação e não desistir no último momento, mas o dano colateral foi severo.[lr]::
 37730::$$$message_0268_0290_0002$$$::Enquanto a Mitsuzuri tenta rir da situação, eu me aproximo para o golpe final.::
@@ -427,7 +427,7 @@ id=qid::label=str::text=lstr::
 37736::$$$message_0268_0294_0000$$$::"Himuro, você realmente queria saber tanto assim?"::
 37737::$$$message_0268_0295_0000$$$::"Bem... como eu deveria responder a isso? [cacheimage storage=氷室制服02d(中)][wvl][chgfg time=300 storage=氷室制服02d(中) textoff=0]É difícil dizer."::
 37738::$$$message_0268_0296_0000$$$::"Você podia ter perguntado logo de cara!"::
-37739::$$$message_0268_0297_0000$$$::"Mas parecia estranho tocar no assunto com você, e parecia que você estava tentando esconder."::
+37739::$$$message_0268_0297_0000$$$::"Mas parecia estranho tocar no assunto com você, e parecia que você estava tentando esconder, Mitsuzuri-san."::
 37740::$$$message_0268_0298_0000$$$::"Essa aposta de abril foi uma história hilária de se desenterrar. [cacheimage storage=蒔寺制服04a(中)][wvl][chgfg time=300 storage=蒔寺制服04a(中) textoff=0]Cara, Mitsuzuri, a Tohsaka te pegou de jeito. [cacheimage storage=蒔寺制服02c(中)][wvl][chgfg time=300 storage=蒔寺制服02c(中) textoff=0]Isso é insano! Que vergonha!"::
 37741::$$$message_0268_0299_0000$$$::A risada estrondosa da Makidera não soa nada como a de uma garota.[lr]::
 37742::$$$message_0268_0299_0001$$$::Minha amiga é uma pessoa terrível.::
@@ -443,14 +443,14 @@ id=qid::label=str::text=lstr::
 37752::$$$message_0268_0306_0000$$$::A Mitsuzuri uiva de ressentimento. Concordo que o Emiya e a Senhorita Tohsaka não formam um casal muito pitoresco.[lr]::
 37753::$$$message_0268_0306_0001$$$::[chgfg time=300 storage=氷室制服02d(近) textoff=0]...Ainda assim, após vê-lo hoje, não consigo dizer com quem ele está realmente saindo.[lr]::
 37754::$$$message_0268_0306_0002$$$::A Mitsuzuri tem motivos para considerar a questão inconclusiva.::
-37755::$$$message_0268_0307_0000$$$::"É, mas você continua solteira."::
+37755::$$$message_0268_0307_0000$$$::"É, mas você continua solteira, Nee-chan."::
 37756::$$$message_0268_0308_0000$$$::"Minori? Devo contar umas coisinhas sobre você para a Matou?"::
-37757::$$$message_0268_0309_0000$$$::"Ei, isso é jogo sujo! Não é à toa que você não tem namorado."::
+37757::$$$message_0268_0309_0000$$$::"Ei, isso é jogo sujo! Não é à toa que você não tem namorado, Nee-chan."::
 37758::$$$message_0268_0310_0000$$$::Ainda há um garoto aqui com problemas amorosos.[lr]::
 37759::$$$message_0268_0310_0001$$$::Incluindo a situação do Emiya, ainda restam muitos palcos para eu atuar.::
-37760::$$$message_0268_0311_0000$$$::"Ei... Hum, Kane?"::
+37760::$$$message_0268_0311_0000$$$::"Ei... Hum, Kane-chan?"::
 37761::$$$message_0268_0312_0000$$$::"O que foi, Yukika?"::
-37762::$$$message_0268_0313_0000$$$::"Você... [cacheimage storage=由紀香制服01a(中)][wvl canskip=false time=500][chgfg time=200 storage=由紀香制服01a(中) textoff=0]já quis namorar alguém?"::
+37762::$$$message_0268_0313_0000$$$::"Você... [cacheimage storage=由紀香制服01a(中)][wvl canskip=false time=500][chgfg time=200 storage=由紀香制服01a(中) textoff=0]já quis namorar alguém, Kane-chan?"::
 37763::$$$message_0268_0314_0000$$$::A Yukika me pergunta timidamente.[lr]::
 37764::$$$message_0268_0314_0001$$$::...Ah, é isso que ela pensa? É só sobre o que temos falado nos últimos dias.::
 37765::$$$message_0268_0315_0000$$$::"Ah, eu só estava um pouco curiosa. E-Eu estou totalmente bem sem ter um namorado, tá bom?"::
@@ -463,27 +463,27 @@ id=qid::label=str::text=lstr::
 37772::$$$message_0268_0319_0003$$$::Oh. É tão surpreendente assim para eles?[lr]::
 37773::$$$message_0268_0319_0004$$$::E então, um grito quebra o silêncio.::
 37774::$$$message_0268_0320_0000$$$::"O QUÊÊÊÊ!? N-NOIVADO!?"[stopquake]::
-37775::$$$message_0268_0321_0000$$$::"O-O-O que você quer dizer com isso, Kane!?"::
+37775::$$$message_0268_0321_0000$$$::"O-O-O que você quer dizer com isso, Kane-chan!?"::
 37776::$$$message_0268_0322_0000$$$::"Estou noiva de alguém que nunca conheci. Meus pais arranjaram isso antes de eu nascer, aparentemente."::
 37777::$$$message_0268_0323_0000$$$::"Não sei se é um primo de primeiro ou segundo grau, nem se é homem ou mulher. Também não acho que meus pais deveriam ter feito algo tão antiquado assim."::
 37778::$$$message_0268_0324_0000$$$::"Urgh... N-Nossa, Himuro. Eu não fazia ideia."::
 37779::$$$message_0268_0325_0000$$$::Claro que não. Nunca mencionei isso a ninguém.[lr]::
 37780::$$$message_0268_0325_0001$$$::O irmãozinho da Mitsuzuri está ali, paralisado. Makidera, Yukika e até a Senhorita Mitsuzuri estão amontoadas, trocando figurinhas.::
 37781::$$$message_0268_0326_0000$$$::"Viu, meu segredo nem era grande coisa."::
-37782::$$$message_0268_0327_0000$$$::"Então, será que o interesse da Kane por romance..."::
+37782::$$$message_0268_0327_0000$$$::"Então, será que o interesse da Kane-chan por romance..."::
 37783::$$$message_0268_0328_0000$$$::"Será que ela anseia por amor porque os pais dela não a deixam namorar? Himuro... [cacheimage storage=蒔寺制服01g(近)][wvl][chgfg time=300 storage=蒔寺制服01g(近) textoff=0]uau."::
-37784::$$$message_0268_0329_0000$$$::"N-Nossa, eu não sabia que a Kane estava lidando com tanta coisa... [cacheimage storage=由紀香制服01c(近)][wvl][chgfg time=300 storage=由紀香制服01c(近) textoff=0]Parece coisa de mangá..."::
+37784::$$$message_0268_0329_0000$$$::"N-Nossa, eu não sabia que a Kane-chan estava lidando com tanta coisa... [cacheimage storage=由紀香制服01c(近)][wvl][chgfg time=300 storage=由紀香制服01c(近) textoff=0]Parece coisa de mangá..."::
 37785::$$$message_0268_0330_0000$$$::"Como esperado da filha de uma figura importante... Um casamento de Estado, hein? [cacheimage storage=蒔寺制服04b(近)][wvl][chgfg time=300 storage=蒔寺制服04b(近) textoff=0]Uau, nem a Tohsaka faria uma coisa dessas."::
 37786::$$$message_0268_0331_0000$$$::"Hã? Espera aí, [cacheimage storage=美綴02e(近)][wvl][chgfg time=200 storage=美綴02e(近) textoff=0]você não acabou de jogar alguém debaixo do ônibus agora mesmo?"::
 37787::$$$message_0268_0332_0000$$$::Eu consigo ouvir vocês. Se vão sussurrar, ao menos falem baixo.[lr]::
 37788::$$$message_0268_0332_0001$$$::A Makidera de repente puxa conversa comigo.::
 37789::$$$message_0268_0333_0000$$$::"Ei, Himuro, não acredito que você guardou segredo até agora. Você é muito fria, cara."::
-37790::$$$message_0268_0334_0000$$$::"Mas a Kane tem uma situação familiar complicada, então ela estava tentando não nos preocupar."::
+37790::$$$message_0268_0334_0000$$$::"Mas a Kane-chan tem uma situação familiar complicada, então ela estava tentando não nos preocupar."::
 37791::$$$message_0268_0335_0000$$$::"Mas Yukicchi, não é legal botar todas as cartas na mesa e contar pras melhores amigas? [cacheimage storage=蒔寺制服04b(中),氷室制服02a(中)][wvl][chgfg time=300 storage=蒔寺制服04b(中),氷室制服02a(中) textoff=0]Se você tivesse nos contado, nós teríamos seriamente..."::
 37792::$$$message_0268_0336_0000$$$::"...Vocês estavam levando isso a sério?"::
 37793::$$$message_0268_0337_0000$$$::Mais uma vez, a atmosfera congela.[lr]::
 37794::$$$message_0268_0337_0001$$$::Os quatro na minha frente estão paralisados, solidificados a ponto de se estilhaçarem se caírem.::
-37795::$$$message_0268_0338_0000$$$::"N-NÃO PODE SEEEER!"::
+37795::$$$message_0268_0338_0000$$$::"M-MENTIRAAA!"::
 37796::$$$message_0268_0339_0000$$$::"[move time=300 path=(489,36,255) accel=0 storage=蒔寺制服01g(中) textoff=0]O-[wm canskip=0][wvl canskip=false time=500][move time=300 path=(510,43,255) accel=0 storage=蒔寺制服01g(中) textoff=0]O-[wm canskip=0][cacheimage storage=蒔寺制服02a(中)][wvl canskip=false time=500][chgfg time=200 storage=蒔寺制服02a(中) textoff=0][quake vmax=30 hmax=10 time=3000][se storage=se565.wav]O QUÊÊÊ! Espera, Himuro, qual dos dois é verdade!?"[stopquake]::
 37797::$$$message_0268_0340_0000$$$::"Bem, há um provérbio que diz: 'O mundo está cheio de mentiras, ganância e amor'. É por isso que esta vida passageira é interessante. Também dizem que o amor é, na verdade, uma forma inesperada de paz."::
 37798::$$$message_0268_0341_0000$$$::"Já chega! Vou confiscar todas as suas almofadas de assento!"::
@@ -492,7 +492,7 @@ id=qid::label=str::text=lstr::
 37801::$$$message_0268_0342_0002$$$::E, além disso, como há prazer em resolver o mistério, não há nada que possa me parar[line len=2]::
 37802::$$$message_0268_0343_0000$$$::"Khh... Estou começando a não entender a Himuro."::
 37803::$$$message_0268_0344_0000$$$::"Ela é na verdade um osso ainda mais duro de roer que a Tohsaka."::
-37804::$$$message_0268_0345_0000$$$::"Kane, você sempre foi misteriosa."::
+37804::$$$message_0268_0345_0000$$$::"Kane-chan, você sempre foi misteriosa."::
 37805::$$$message_0268_0346_0000$$$::"Hum, eu já posso ir embora, Himuro-senpai?"::
 37806::$$$message_0268_0347_0000$$$::O irmãozinho da Mitsuzuri murmura timidamente.[lr]::
 37807::$$$message_0268_0347_0001$$$::Quanta ingenuidade. Para um irmão da Mitsuzuri, ele é ingênuo demais. É por isso que não é páreo para a irmã mais velha.[lr]::
@@ -502,8 +502,8 @@ id=qid::label=str::text=lstr::
 37811::$$$message_0268_0349_0001$$$::[chgfg time=200 storage=氷室特殊01b_d textoff=0]Afinal, eu vim aqui em primeiro lugar justamente para ouvi-lo."::
 37812::$$$message_0268_0350_0000$$$::"Uau... [cacheimage storage=美綴01b(遠)][wvl canskip=false time=400][chgfg time=300 storage=美綴01b(遠) textoff=0]Por favor, cuide do Minori, então. Ele é bem inexperiente e, como irmã mais velha, é problemático pra mim também. O jeito dele de pensar é antiquado, embora ele seja homem."::
 37813::$$$message_0268_0351_0000$$$::"Hohoho, o irmãozinho da Mitsuzuri, hein? Vejamos, eu vou ajudá-lo também!"::
-37814::$$$message_0268_0352_0000$$$::"Oh... Vou contar com você, Mitsuzuri."::
-37815::$$$message_0268_0353_0000$$$::"O-Obrigado, Saegusa-senpai... [cacheimage storage=氷室特殊01e_eb][wvl canskip=false time=500][chgfg time=200 storage=氷室特殊01e_eb]Espera, [wvl][shock vmax=20 time=2000 count=30]Mana, não me abandonaaaaa!"::
+37814::$$$message_0268_0352_0000$$$::"Oh... Vou contar com você, Mitsuzuri-kun."::
+37815::$$$message_0268_0353_0000$$$::"O-Obrigado, Saegusa-senpai... [cacheimage storage=氷室特殊01e_eb][wvl canskip=false time=500][chgfg time=200 storage=氷室特殊01e_eb]Espera, [wvl][shock vmax=20 time=2000 count=30]Mana, não me abandonaaaaa, Nee-chan!"::
 37816::$$$message_0268_0354_0000$$$::                             ...Pois bem, o que aguarda no próximo estágio?[lr]::
 37817::$$$message_0268_0354_0001$$$::                             Isso ficará para outra hora...::
 937408::$$$message_9268_0063_0000$$$::Durante a viagem de ônibus, meu palpite se torna convicção.[r]::

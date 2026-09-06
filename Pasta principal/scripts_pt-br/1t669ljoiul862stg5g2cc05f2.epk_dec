@@ -4,7 +4,7 @@ id=qid::label=str::text=lstr::
 10850::$$$message_0084_0000_0001$$$::Há muito tempo venho me perguntando se a timidez da Sakura afetou ou mudou alguma coisa desde que ela foi apontada capitã.::
 10851::$$$message_0084_0001_0000$$$::Quando me dirijo à porta do estande de arco e flecha, alguém também vem do lado oposto.[lr]::
 10852::$$$message_0084_0001_0001$$$::E eu nunca confundiria a aparência marcante de seu uniforme e cabelo em marias-chiquinhas.::
-10853::$$$message_0084_0002_0000$$$::"Ah, é você, Emiya. Você está de pé cedo sem motivo algum, como sempre."[lr]::
+10853::$$$message_0084_0002_0000$$$::"Ah, é você, Emiya-kun. Você está de pé cedo sem motivo algum, como sempre."[lr]::
 10854::$$$message_0084_0002_0001$$$::"Você também, Tohsaka. Você está tentando entrar para o clube?"[lr]::
 10855::$$$message_0084_0002_0002$$$::"Isso mesmo. Neste meio ano até a formatura, nós precisamos nos certificar de que daremos o que falar de forma a reverberar como lendas nos anos que virão."[lr]::
 10856::$$$message_0084_0002_0003$$$::Mesmo enquanto brinca desse jeito, a Tohsaka parece se preocupar com a Sakura à sua própria maneira.::
@@ -13,18 +13,18 @@ id=qid::label=str::text=lstr::
 10859::$$$message_0084_0004_0000$$$::"Ah, Senpai... E a Tohsaka-senpai também."[lr]::
 10860::$$$message_0084_0004_0001$$$::"Ah, oi, Tohsaka e Emiya. Entrem, entrem!"[lr]::
 10861::$$$message_0084_0004_0002$$$::Os outros membros já haviam terminado a faxina e somente a Sakura e a Mitsuzuri sobraram no estande.[lr]::
-10862::$$$message_0084_0004_0003$$$::[clfg textoff=0 pos=all time=300]Parece que essas duas, por acaso, estavam no meio de uma conversa profunda.::
-10863::$$$message_0084_0005_0000$$$::"Bom dia, Ayako e Senhorita Matou. Peço perdão pela intromissão."[lr]::
-10864::$$$message_0084_0005_0001$$$::[clfg textoff=0 rule=シャッター左から pos=all time=300]A Tohsaka parece confortável o bastante para simplesmente entrar se exibindo.[lr]::
-10865::$$$message_0084_0005_0002$$$::Parece que ela não vinha aqui há um tempo, mas imagino que tudo bem apenas deixá-la assumir a liderança hoje?::
-10866::$$$message_0084_0006_0000$$$::"Eu devo ir para casa, então?"[lr]::
+10862::$$$message_0084_0004_0003$$$::[clfg textoff=0 pos=all time=300]As duas estavam bem no meio de uma conversa séria.::
+10863::$$$message_0084_0005_0000$$$::"Bom dia, Ayako, Matou-san. Com licença."[lr]::
+10864::$$$message_0084_0005_0001$$$::[clfg textoff=0 rule=シャッター左から pos=all time=300]A Tohsaka entra sem cerimônia, como se o lugar fosse dela.[lr]::
+10865::$$$message_0084_0005_0002$$$::Ela fazia tempo que não aparecia no dojô de kyudo... mas hoje talvez seja melhor deixar a Tohsaka tomar a frente.::
+10866::$$$message_0084_0006_0000$$$::"Senpai, devo ir embora primeiro?"[lr]::
 10867::$$$message_0084_0006_0001$$$::"O que você está dizendo?[lr]::
-10868::$$$message_0084_0006_0002$$$::Os VIPs ligados ao clube vieram numa boa hora, então você deveria ficar."[lr]::
-10869::$$$message_0084_0006_0003$$$::"Eh? Esse realmente é o tipo de situação que precisamos enaltecer assim, Ayako?"[lr]::
-10870::$$$message_0084_0006_0004$$$::Todos nós nos sentamos na área de espera.[lr]::
+10868::$$$message_0084_0006_0002$$$::Já que convidados ilustres ligados ao clube chegaram na hora certa, você fica."[lr]::
+10869::$$$message_0084_0006_0003$$$::"Hã? Precisa fazer tanto suspense assim, Ayako?"[lr]::
+10870::$$$message_0084_0006_0004$$$::Sentamo-nos todos na área de espera.[lr]::
 10871::$$$message_0084_0006_0005$$$::[chgfg time=300 storage=桜弓道着03a(中) textoff=0]Há um pouco de rigidez nos ombros da Sakura.::
 10872::$$$message_0084_0007_0000$$$::"Viu só, eu conversei sobre isso com o Emiya, perguntando se ele tinha boas ideias. Mesmo se a gente perguntar para os nossos membros, não conseguiremos nenhuma resposta clara."[lr]::
-10873::$$$message_0084_0007_0001$$$::"...Desculpem incomodar vocês dois."::
+10873::$$$message_0084_0007_0001$$$::"...Desculpem incomodar vocês dois, Senpai."::
 10874::$$$message_0084_0008_0000$$$::"Tudo bem, eu ouvirei suas preocupações se isso significar que eu possa ajudar a Senhorita Matou."[lr]::
 10875::$$$message_0084_0008_0001$$$::Para além de sua postura habitual na escola, a Tohsaka parece ainda mais confiante agora. Imagino que seguir o plano dela foi a escolha certa[line len=2]::
 10876::$$$message_0084_0009_0000$$$::"Então, que tipo de coisa você ouviu, Shirou?"[lr]::
@@ -33,7 +33,7 @@ id=qid::label=str::text=lstr::
 10879::$$$message_0084_0010_0000$$$::É bem óbvio o que estamos fazendo, mas quando a ocasião pede...[lr]::
 10880::$$$message_0084_0010_0001$$$::"A Sakura mencionou que não tem muita confiança em liderar o clube."[lr]::
 10881::$$$message_0084_0010_0002$$$::"Isso tem a cara dela. [cacheimage storage=凛制服06b(近)][wvl][chgfg time=300 storage=凛制服06b(近) textoff=0]Mas, eu ouvi dizer que ficou bem melhor."::
-10882::$$$message_0084_0011_0000$$$::"De quem? Da Fuji-nee?[lr]::
+10882::$$$message_0084_0011_0000$$$::"De quem? Da Fuji-Nee?[lr]::
 10883::$$$message_0084_0011_0001$$$::Os membros que viram como eram as coisas antes do torneio dizem o oposto. A Mitsuzuri não deixa transparecer, mas também está preocupada. A moral do clube e o senso de união está... nada bom."[lr]::
 10884::$$$message_0084_0011_0002$$$::Me dói dizer uma coisa dessas. Mas no fim das contas, não podemos deixar que as coisas continuem assim.[lr]::
 10885::$$$message_0084_0011_0003$$$::A Tohsaka murmura pensativa[chgfg time=300 storage=美綴弓道着01a(遠) textoff=0] enquanto olha para mim.::
@@ -50,12 +50,12 @@ id=qid::label=str::text=lstr::
 10896::$$$message_0084_0015_0004$$$::[chgfg time=300 storage=凛制服03a(中) textoff=0]Por exemplo, têm várias pessoas morando na minha casa, mas se todo mundo comesse em horários diferentes, não haveria um senso de unidade. [fg textoff=0 opacity=0 left=877 index=500 top=120 time=100 storage=蒔寺ジャージ01e(遠)]::
 10897::$$$message_0084_0016_0000$$$::"Nesse caso, um acampamento de treinamento não é uma boa? É a época perfeita para um treinamento intensivo."[lr]::
 10898::$$$message_0084_0016_0001$$$::"Ah... [cacheimage storage=桜弓道着01g(中)][wvl][chgfg time=300 storage=桜弓道着01g(中) textoff=0]Sim, um acampamento de treinamento..."[lr]::
-10899::$$$message_0084_0016_0002$$$::"Certo, se vocês forem fazer um, eu irei ajudar. Você irá também, né, Tohsaka?"[lr]::
-10900::$$$message_0084_0016_0003$$$::Ela não se ofereceu para ir, mas já que ela sugeriu, eu acho que ela deveria.[lr]::
-10901::$$$message_0084_0016_0004$$$::...Embora eu não tenha certeza do porquê dela estar olhando assim pra mim.::
+10899::$$$message_0084_0016_0002$$$::"É, se vocês forem, eu ajudo. Você também vai, né, Tohsaka?"[lr]::
+10900::$$$message_0084_0016_0003$$$::Ela não tinha se oferecido, mas, já que foi quem sugeriu, é claro que a Tohsaka vai junto... foi o que eu quis dizer.[lr]::
+10901::$$$message_0084_0016_0004$$$::...Mas não adianta me olhar desse jeito; eu é que fico sem jeito.::
 10902::$$$message_0084_0017_0000$$$::"Você quer que...[cacheimage storage=凛制服02c(中)][wvl canskip=0 time=400][chgfg time=300 storage=凛制服02c(中) textoff=0]eu vá no acampamento de treinamento?"[lr]::
 10903::$$$message_0084_0017_0001$$$::"O que, você não virá, sendo que até o Emiya já disse que vai? Pessoas de fora do clube são bem-vindas a participar."[lr]::
-10904::$$$message_0084_0017_0002$$$::"Ah... Eu ficaria grata se você viesse também..."::
+10904::$$$message_0084_0017_0002$$$::"Ah... Eu ficaria grata se você viesse também.., Tohsaka-senpai."::
 10905::$$$message_0084_0018_0000$$$::São três contra um pedindo que ela vá.[lr]::
 10906::$$$message_0084_0018_0001$$$::Infelizmente, ela não é do tipo de se curvar à maioria em uma situação dessas...::
 10907::$$$message_0084_0019_0000$$$::"Ehh, eu [font italic=true]acho[font italic=false] que vou junto se tiver um banquete ou um churrasco."[lr]::
