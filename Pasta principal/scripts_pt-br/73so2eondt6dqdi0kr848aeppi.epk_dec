@@ -31,7 +31,7 @@ id=qid::label=str::text=lstr::
 38294::$$$message_0270_0011_0001$$$::A Rider está de pé bem atrás de mim.[lr]::
 38295::$$$message_0270_0011_0002$$$::Eu pulo para trás surpreso.::
 38296::$$$message_0270_0012_0000$$$::"E-então, Rider?[lr]::
-38297::$$$message_0270_0012_0001$$$::Você viu algum anúncio que chamou sua atenção?[lr]::
+38297::$$$message_0270_0012_0001$$$::Você viu algum anúncio que chamou sua atenção?"[lr]::
 38298::$$$message_0270_0012_0002$$$::"...Um, isso é difícil de dizer, mas Shirou..."[lr]::
 38299::$$$message_0270_0012_0003$$$::Ela parece hesitante.[lr]::
 38300::$$$message_0270_0012_0004$$$::Duvido que haja algum problema.[line len=2]::
@@ -133,7 +133,7 @@ id=qid::label=str::text=lstr::
 38396::$$$message_0270_0045_0003$$$::Talvez eu esteja realmente tendo preconceito e Rider pudesse parecer o tipo certo de alguma forma, e eu só tenha um problema.[lr]::
 38397::$$$message_0270_0045_0004$$$::Se a Cavaleira é familiarizada com ser uma irmã mais nova, então ela provavelmente está certa e eu estou errado.::
 38398::$$$message_0270_0046_0000$$$::"A-ahem.[lr]::
-38399::$$$message_0270_0046_0001$$$::...Então, o que devemos fazer depois disso? O que você quer fazer, Rider?[lr]::
+38399::$$$message_0270_0046_0001$$$::...Então, o que devemos fazer depois disso? O que você quer fazer, Rider?"[lr]::
 38400::$$$message_0270_0046_0002$$$::"..."[lr]::
 38401::$$$message_0270_0046_0003$$$::Não acho que seja uma pergunta tão injustificável, mas ela claramente não esperava por isso.::
 38402::$$$message_0270_0047_0000$$$::"O que você quer fazer, Shirou?"[lr]::
@@ -326,7 +326,7 @@ id=qid::label=str::text=lstr::
 38625::$$$message_0270_0131_0001$$$::[chgfg time=200 storage=ライダー私服01b(中) textoff=0]Claro que eu ficaria feliz se tivesse uma namorada como a Rider, mas a ideia de ser tão sortudo me assusta de verdade, e ela não é realmente minha namorada.[lr]::
 38626::$$$message_0270_0131_0002$$$::Mas a realidade está se torcendo e virando, e a Rider continua se encolhendo ao meu lado só para brincar.::
 38627::$$$message_0270_0132_0000$$$::"Ele é fofo, né?[lr]::
-38628::$$$message_0270_0132_0001$$$::Ele está dedicado a mim, mas se envergonha facilmente.[lr]::
+38628::$$$message_0270_0132_0001$$$::Ele está dedicado a mim, mas se envergonha facilmente."[lr]::
 38629::$$$message_0270_0132_0002$$$::A sussurro da Rider não está dirigido ao caixa, mas a mim.::
 38630::$$$message_0270_0133_0000$$$::...Aparentemente, estou apaixonado por ela, mas fico facilmente envergonhado.[lr]::
 38631::$$$message_0270_0133_0001$$$::...É mais eficaz do que um Fantasma Nobre.[lr]::
@@ -417,12 +417,12 @@ id=qid::label=str::text=lstr::
 38716::$$$message_0270_0158_0001$$$::E estou cansado de uma forma diferente.[lr]::
 38717::$$$message_0270_0158_0002$$$::A expressão da Rider quando ela desce do ônibus comigo é a mesma de sempre. Fria e controlada.::
 38718::$$$message_0270_0159_0000$$$::"Shirou. Esse é o meu aviso usual, mas um ratinho preso vai morder o gato.[lr]::
-38719::$$$message_0270_0159_0001$$$::Se continuar a agir com tanta violência assim, você será surpreendido e cairá em momentos inapropriados, como fez hoje.[lr]::
+38719::$$$message_0270_0159_0001$$$::Se continuar a agir com tanta violência assim, você será surpreendido e cairá em momentos inapropriados, como fez hoje."[lr]::
 38720::$$$message_0270_0159_0002$$$::Eu realmente estava sendo sincero ali e queria ver a Rider em um ou dois figurinos fofos. Mas no fim, foi isso que me destruiu, e o contra-ataque inevitavelmente veio.::
 38721::$$$message_0270_0160_0000$$$::"Também não deveria zombar das mulheres tanto.[lr]::
 38722::$$$message_0270_0160_0001$$$::As coisas chegaram até lá só porque foi eu, mas você teria sofrido muito se tivesse sido Sakura ou Rin..."::
 38723::$$$message_0270_0161_0000$$$::Assento enquanto escuto a aula de Rider enquanto caminhamos ao lado um do outro.[lr]::
-38724::$$$message_0270_0161_0001$$$::Mesmo que eu tivesse feito com que ela mudasse para muitas coisas, eu era inútil então nem chegamos a comprar nada. No final, sinto que só consegui dizer "sim, está bom"."::
+38724::$$$message_0270_0161_0001$$$::Mesmo que eu tivesse feito com que ela mudasse para muitas coisas, eu era inútil então nem chegamos a comprar nada. No final, sinto que só consegui dizer "sim, está bom".::
 38725::$$$message_0270_0162_0000$$$::"...Sim. Obrigado por tudo hoje."[lr]::
 38726::$$$message_0270_0162_0001$$$::"Ah, sim..."[lr]::
 38727::$$$message_0270_0162_0002$$$::No caminho de volta, a noite chega antes mesmo que tenhamos percebido.[lr]::
@@ -463,7 +463,7 @@ id=qid::label=str::text=lstr::
 38762::$$$message_0270_0171_0002$$$::"..."[lr]::
 38763::$$$message_0270_0171_0003$$$::...Sou empurrado para o canto novamente. Não consigo vencer a Rider quando é mais crítico.::
 38764::$$$message_0270_0172_0000$$$::"Bem-vindo de volta, Rider. Como foi hoje?[lr]::
-38765::$$$message_0270_0172_0001$$$::Obrigado pelo seu trabalho, Senpai. O jantar está pronto[line len=2][lr]::
+38765::$$$message_0270_0172_0001$$$::Obrigado pelo seu trabalho, Senpai. O jantar está pronto"[line len=2][lr]::
 38766::$$$message_0270_0172_0002$$$::"Voltamos. Foi divertido; eu me diverti por você também..."::
 938640::$$$message_9270_0136_0000$$$::"Certo... Shirou? Você vai cuidar bem de mim?"[r]::
 
