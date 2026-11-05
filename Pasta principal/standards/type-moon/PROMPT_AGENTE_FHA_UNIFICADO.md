@@ -403,7 +403,7 @@ extrato de alta frequência, já conferido contra o glossário e contra o corpus
 
 | EN | PT-BR |
 |---|---|
-| Magecraft / thaumaturgy | **Magia**; `taumaturgia` é proibido no texto final |
+| Magecraft / thaumaturgy (魔術) | **magia** em minúscula (maiúscula só no início de frase ou em nome próprio, como `Magia de Projeção`); `taumaturgia` é proibido no texto final |
 | Magus / Mage / Magician | Mago (Magician como "Mago" no sentido dos cinco) |
 | True Magic / Magic (as artes verdadeiras) | Magia Verdadeira |
 | Second/Third Magic | Segunda/Terceira Magia |
@@ -462,8 +462,8 @@ Estes vieram de prompts antigos e de modelos fracos. Se aparecerem, são **defei
   o tratamento japonês no PT-BR quando ele existir no JP: `Onii-chan`,
   `Nii-san`, `Onii-san`, `Nee-san`, `Onee-chan`, `Onee-san`, `Nome-san`,
   `Nome-kun`, `Nome-chan`, `Nome-senpai`, `Nome-sensei`.
-- Formas fixas de personagens/tratamentos recorrentes: `Fujimura-Sensei`,
-  `Kuzuki-Sensei`, `Emiya-kun`, `Emiya-senpai`, `Mitsuzuri-senpai`,
+- Formas fixas de personagens/tratamentos recorrentes: `Fujimura-sensei`,
+  `Kuzuki-sensei`, `Emiya-kun`, `Emiya-senpai`, `Mitsuzuri-senpai`,
   `Tohsaka-senpai`, `Saber-san`, `Saber-chan`, `Rider-san`, `Caster-san`,
   `Lancer-san`, `Archer-san`, `Bazett-san`, `Caren-san`.
 - Tratamento por sobrenome (`Tohsaka`, `Emiya`) se mantém como no original; não
@@ -471,7 +471,25 @@ Estes vieram de prompts antigos e de modelos fracos. Se aparecerem, são **defei
 - Nomes japoneses em nome completo usam ordem japonesa, sobrenome antes do nome:
   `Emiya Shirou`, `Tohsaka Rin`, `Matou Sakura`, `Matou Shinji`,
   `Emiya Kiritsugu`, `Kotomine Kirei`, `Tohsaka Tokiomi`, `Matou Kariya`,
-  `Matou Zouken`, `Fujimura Taiga`, `Kuzuki Souichirou`.
+  `Matou Zouken`, `Fujimura Taiga`, `Kuzuki Souichirou`, `Mitsuzuri Ayako`,
+  `Mitsuzuri Minori`, `Ryuudou Issei`, `Ryuudou Reikan`, `Himuro Kane`,
+  `Makidera Kaede`, `Saegusa Yukika`, `Fujimura Raiga`, `Kuzuki Medea`,
+  `Hotaruzuka Neko`. Grafia fixa: `Ryuudou` (nunca `Ryudou`).
+  Nomes ocidentais mantêm a ordem própria (`Bazett Fraga McRemitz`,
+  `Caren Hortensia`, `Luviagelita Edelfelt`, `Illyasviel von Einzbern`).
+
+### 7.6 Padrões herdados do FSN (planilha de validação)
+- `弓道部` = `Clube de Arco e Flecha` (maiúsculas); `弓道場` = `dojô de arco e flecha`.
+- `正義の味方` = `Herói da Justiça` / `Heróis da Justiça`.
+- `天の杯` / `テンノサカヅキ` = `Cálice do Céu`; quando o JP usa a leitura
+  `ヘブンズフィール`, manter `Heaven's Feel`.
+- Maiúscula fixa: `Lua`, `Sol`, `Olhos Místicos`, `Brasão Mágico`,
+  `Resistência Mágica`, `Espírito Heroico`, `Selo de Comando`,
+  `Circuito Mágico`, `Campo Limitado`, `Dojô`.
+- Sem plural em nome de família: `os Tohsaka`, `os Matou`, `os Makiri`.
+- Nomes de Fantasmas Nobres seguem a Galeria (ver
+  `glossario_fate_hollow_ataraxia` no glossário): ex. `Tesouros do Rei`,
+  `Criação Infinita de Espadas`, `A Utopia Sempre Distante`.
 
 ---
 

@@ -171,11 +171,11 @@ id=qid::label=str::string=lstr::string_jp=str::
 12067::m_cnfs_vc_kk::Gilgamesh::::
 12070::m_cnfs_vc_sh::Matou Shinji::::
 12073::m_cnfs_vc_so::Kuzuki Souichirou::::
-12076::m_cnfs_vc_is::Issei Ryudou::::
-12079::m_cnfs_vc_zo::Ayako Mitsuzuri::::
-12082::m_cnfs_vc_ay::Yukika Saegusa::::
-12085::m_cnfs_vc_mi::Kaede Makidera::::
-12088::m_cnfs_vc_mk::Kane Himuro::::
+12076::m_cnfs_vc_is::Ryuudou Issei::::
+12079::m_cnfs_vc_zo::Mitsuzuri Ayako::::
+12082::m_cnfs_vc_ay::Saegusa Yukika::::
+12085::m_cnfs_vc_mi::Makidera Kaede::::
+12088::m_cnfs_vc_mk::Himuro Kane::::
 12091::m_cnfs_vc_hi::Sella::::
 12094::m_cnfs_vc_sr::Leysritt::::
 12097::m_cnfs_vc_rz::Luvia::::
@@ -228,7 +228,7 @@ id=qid::label=str::string=lstr::string_jp=str::
 29010::m_sce_tab2_01::Cidade de Fuyuki::::
 29011::m_sce_tab2_02::Mansão Emiya::::
 29012::m_sce_tab2_03::Escola::::
-29013::m_sce_tab2_04::Templo Ryudou::::
+29013::m_sce_tab2_04::Templo Ryuudou::::
 29014::m_sce_tab2_05::Noite::::
 29015::m_sce_tab2_06::Castelo Einzbern::::
 29016::m_sce_tab2_07::Guerra do Santo Graal Noturna::::
@@ -315,7 +315,7 @@ id=qid::label=str::string=lstr::string_jp=str::
 32034::m_fl_name_31::Caren 1::::
 32035::m_fl_name_32::Caren 2::::
 32036::m_fl_name_33::Conto de Fadas::::
-32037::m_fl_name_34::Guardião (Ryudou)::::
+32037::m_fl_name_34::Guardião (Ryuudou)::::
 32038::m_fl_name_35::Encontro S - Escola::::
 32039::m_fl_name_36::O Último Guardião::::
 32040::m_fl_name_37::Braço Invisível::::
@@ -326,7 +326,7 @@ id=qid::label=str::string=lstr::string_jp=str::
 32045::m_fl_name_42::Mansão Gêmea::::
 32046::m_fl_name_43::Assassino na Mansão Gêmea::::
 32047::m_fl_name_44::Cooperação do Lancer::::
-32048::m_fl_name_45::Cálice dos Céus::::
+32048::m_fl_name_45::Cálice do Céu::::
 32049::m_fl_name_46::Guerra do Santo Graal Noturna 7::::
 32050::m_fl_name_47::Caren 4::::
 32051::m_fl_name_48::Guardião (Mago)::::
@@ -341,7 +341,7 @@ id=qid::label=str::string=lstr::string_jp=str::
 40010::m_select_title::Selecionar::::
 40011::m_map_unknown::???::::
 40012::m_map_emiyatei::Ir para o mapa da mansão Emiya::::
-40013::m_map_ryudoji::Ir para o mapa do Templo Ryudou::::
+40013::m_map_ryudoji::Ir para o mapa do Templo Ryuudou::::
 40014::m_map_school::Ir para o mapa da escola::::
 40015::m_map_bridge::Atravesse a ponte para se mover entre Miyama e Shinto::::
 40016::m_quiz_title::Pergunta [num]::::
@@ -405,7 +405,7 @@ id=qid::label=str::string=lstr::string_jp=str::
 80027::mp_place_north::Bairro norte::::
 80028::mp_place_shop::Distrito comercial::::
 80029::mp_place_park::Parque::::
-80030::mp_place_ryudo::Templo Ryudou::::
+80030::mp_place_ryudo::Templo Ryuudou::::
 80031::mp_place_gost1::Mansão Assombrada::::
 80032::mp_place_gost2::Mansão Assombrada::::
 80033::mp_title_huyuki::Cidade de Fuyuki::::
@@ -440,7 +440,7 @@ id=qid::label=str::string=lstr::string_jp=str::
 83002::mp_place_gate::Portão da montanha::::
 83003::mp_place_templ::Interior do templo::::
 83004::mp_place_woods::Floresta dos fundos::::
-83005::mp_title_ryu::Templo Ryudou::::
+83005::mp_title_ryu::Templo Ryuudou::::
 84001::mp_place_salon::Salão::::
 84002::mp_place_lobby::Saguão::::
 84003::mp_place_ccourt::Quintal::::
@@ -695,7 +695,7 @@ id=qid::label=str::string=lstr::string_jp=str::
 1000884::g_rp_btn_main::História Principal::::
 1000885::g_rp_btn_nhgw::Guerra do Santo Graal Noturna::::
 1000886::g_rp_btn_night::Noite::::
-1000887::g_rp_btn_ryudo::Templo Ryudou::::
+1000887::g_rp_btn_ryudo::Templo Ryuudou::::
 1000892::g_gl_back::Voltar::::
 1000909::g_twj_archer::Archer::::
 1000914::g_twj_saber::Saber::::
@@ -726,11 +726,11 @@ id=qid::label=str::string=lstr::string_jp=str::
 1001087::he_td_t_ve_1::Custo de MP: :::::
 1001088::he_td_t_ve_2::Ativa-se automaticamente durante o turno do oponente.::::
 1001089::he_td_t_ve_3::Devolve o dano que você receber ao oponente.	(Pode ser usado apenas uma vez por jogo)::::
-1001090::he_td_t_ge_0::Gáe Bolg	Lança Ascendente que Mergulha com a Morte::::
+1001090::he_td_t_ge_0::Gáe Bolg	Lança Voadora que Perfura com a Morte::::
 1001091::he_td_t_ge_1::Custo de MP: :::::
 1001092::he_td_t_ge_2::Pode ser usado no início do seu turno.::::
 1001093::he_td_t_ge_3::Cria incondicionalmente a mão Gáe Bolg,	valendo de 1 a 2 de dano para cada jogador inimigo.::::
-1001094::he_td_t_za_0::Zabaniya	Batimentos Cardíacos Delirantes::::
+1001094::he_td_t_za_0::Zabaniya	Batimento Delirante::::
 1001095::he_td_t_za_1::Custo de MP: :::::
 1001096::he_td_t_za_2::Pode ser usado no início do seu turno.::::
 1001097::he_td_t_za_3::Rouba uma quantidade aleatória (3–8) de MP de um dos Servos inimigos.	Se o inimigo não tiver essa quantidade de MP, ele recebe a diferença em dano.::::
@@ -766,7 +766,7 @@ id=qid::label=str::string=lstr::string_jp=str::
 1001130::::Kenji Akahoshi::::
 1001131::::Hisashi Nakamura::::
 1001132::he_p_an::Ilimitado Levantar/Morto	Cascas Infinitas::::
-1001133::he_p_ge::Gáe Bolg	Lança Ascendente que Mergulha com a Morte::::
+1001133::he_p_ge::Gáe Bolg	Lança Voadora que Perfura com a Morte::::
 1001134::he_p_fr::Fragarach	A Espada da Devastação do Deus da Guerra::::
 1001135::he_ti_an::Ilimitado Levantar/Morto::::
 1001136::he_ti_ve::Verg Avesta::::
@@ -777,8 +777,8 @@ id=qid::label=str::string=lstr::string_jp=str::
 1001141::he_ti_se::Santo Sudário::::
 1001142::he_tm_an::Ilimitado Levantar/Morto	Cascas Infinitas::::
 1001143::he_tm_ve::Verg Avesta	Criação Falsamente Transcrita::::
-1001144::he_tm_ge::Gáe Bolg	Lança Ascendente que Mergulha com a Morte::::
-1001145::he_tm_za::Zabaniya	Batimentos Cardíacos Delirantes::::
+1001144::he_tm_ge::Gáe Bolg	Lança Voadora que Perfura com a Morte::::
+1001145::he_tm_za::Zabaniya	Batimento Delirante::::
 1001146::he_tm_sh::Sha Naqba Imuru	Estrela Onisciente Onipotente::::
 1001147::he_tm_fr::Fragarach	A Espada da Devastação do Deus da Guerra::::
 1001148::he_tm_wa::Paraíso das Algas Marinhas	Parque de Diversões Verdejante::::
@@ -1847,7 +1847,7 @@ id=qid::label=str::string=lstr::string_jp=str::
 210011::ir_rnk_n_with::Com::::
 210012::ir_rnk_sarvant::Top 5 por Servo::::
 210013::ir_rnk_stage::Top 5 por Estágio::::
-210014::ir_rnk_stgbg_ry::Lago Ryudou::::
+210014::ir_rnk_stgbg_ry::Lago Ryuudou::::
 210015::ir_rnk_stgbg_ki::Kinoko de Pon::::
 210016::ir_rnk_stgbg_se::Estreito Sella-Liz::::
 210017::ir_rnk_stgbg_da::Die Lorelei::::
@@ -2211,27 +2211,27 @@ id=qid::label=str::string=lstr::string_jp=str::
 240019::ir_st5_title18::Die Lorelei	~No imponente castelo de inverno da vingança, uma garota de cabelos prateados canta suavemente uma ode à ruína.	Qual é o desejo oculto dos Einzbern, além dessa dança interminável de morte...!?~::::
 240020::ir_st5_title19::Die Lorelei	~No imponente castelo de inverno da vingança, uma garota de cabelos prateados canta suavemente uma ode à ruína.	Qual é o desejo oculto dos Einzbern, além dessa dança interminável de morte...!?~::::
 240021::ir_st5_title20::Die Lorelei	~No imponente castelo de inverno da vingança, uma garota de cabelos prateados canta suavemente uma ode à ruína.	Qual é o desejo oculto dos Einzbern, além dessa dança interminável de morte...!?~::::
-240022::ir_st1_title00::Lago Ryudou::::
-240023::ir_st1_title01::Lago Ryudou::::
-240024::ir_st1_title02::Lago Ryudou::::
-240025::ir_st1_title03::Lago Ryudou::::
-240026::ir_st1_title04::Lago Ryudou::::
-240027::ir_st1_title05::Lago Ryudou::::
-240028::ir_st1_title06::Lago Ryudou::::
-240029::ir_st1_title07::Lago Ryudou::::
-240030::ir_st1_title08::Lago Ryudou::::
-240031::ir_st1_title09::Lago Ryudou::::
-240032::ir_st1_title10::Lago Ryudou::::
-240033::ir_st1_title11::Lago Ryudou::::
-240034::ir_st1_title12::Lago Ryudou::::
-240035::ir_st1_title13::Lago Ryudou::::
-240036::ir_st1_title14::Lago Ryudou::::
-240037::ir_st1_title15::Lago Ryudou::::
-240038::ir_st1_title16::Lago Ryudou::::
-240039::ir_st1_title17::Lago Ryudou::::
-240040::ir_st1_title18::Lago Ryudou::::
-240041::ir_st1_title19::Lago Ryudou::::
-240042::ir_st1_title20::Lago Ryudou::::
+240022::ir_st1_title00::Lago Ryuudou::::
+240023::ir_st1_title01::Lago Ryuudou::::
+240024::ir_st1_title02::Lago Ryuudou::::
+240025::ir_st1_title03::Lago Ryuudou::::
+240026::ir_st1_title04::Lago Ryuudou::::
+240027::ir_st1_title05::Lago Ryuudou::::
+240028::ir_st1_title06::Lago Ryuudou::::
+240029::ir_st1_title07::Lago Ryuudou::::
+240030::ir_st1_title08::Lago Ryuudou::::
+240031::ir_st1_title09::Lago Ryuudou::::
+240032::ir_st1_title10::Lago Ryuudou::::
+240033::ir_st1_title11::Lago Ryuudou::::
+240034::ir_st1_title12::Lago Ryuudou::::
+240035::ir_st1_title13::Lago Ryuudou::::
+240036::ir_st1_title14::Lago Ryuudou::::
+240037::ir_st1_title15::Lago Ryuudou::::
+240038::ir_st1_title16::Lago Ryuudou::::
+240039::ir_st1_title17::Lago Ryuudou::::
+240040::ir_st1_title18::Lago Ryuudou::::
+240041::ir_st1_title19::Lago Ryuudou::::
+240042::ir_st1_title20::Lago Ryuudou::::
 240043::ir_st2_title00::Kinoko de Pon::::
 240044::ir_st2_title01::Kinoko de Pon::::
 240045::ir_st2_title02::Kinoko de Pon::::
@@ -2340,13 +2340,13 @@ id=qid::label=str::string=lstr::string_jp=str::
 280037::ir_menu03_00::Recomeçar a partir do primeiro estágio?::::
 290001::ir_Ttrl00_00::Tutorial::::
 290002::ir_Ttrl01_00::Controles Básicos::::
-290003::ir_Ttrl01_01::Lago Ryudou::::
+290003::ir_Ttrl01_01::Lago Ryuudou::::
 290004::ir_Ttrl01_02::Kinoko de Pon::::
 290005::ir_Ttrl01_03::Estreito Sella-Liz::::
 290006::ir_Ttrl01_04::Die Lorelei::::
 290007::ir_Ttrl01_05::Voltar::::
 290008::ir_Ttrl02_00::Controles Básicos::::
-290009::ir_Ttrl02_01::Lago Ryudou::::
+290009::ir_Ttrl02_01::Lago Ryuudou::::
 290010::ir_Ttrl02_02::Kinoko de Pon::::
 290011::ir_Ttrl02_03::Estreito Sella-Liz::::
 290012::ir_Ttrl02_04::Die Lorelei::::
@@ -2380,7 +2380,7 @@ id=qid::label=str::string=lstr::string_jp=str::
 295001::ir_help_01_00::As pedras para as quais você pode pular estão marcadas com "PULAR"!	Toque na pedra para pular nela!		Os Servos vão lutar se pularem na mesma pedra!	Toque repetidamente para empurrá-los no lago!		Atravesse as pedras	e vá para o final!	Há pedras que afundam ou explodem,	então tome cuidado!::::
 295002::ir_help_01_01::Você pode usar os Servos que estão se afogando como ponto de apoio!	Sem piedade! Use tudo o que puder!		As pedras que explodem são consideravelmente	indicadas por uma marca de perigo!	Procure um desvio para contorná-las!		Cuidado com os inimigos misteriosos escondidos no lago!	Eles podem não ser tão perigosos, contanto que você fique de olho nos tentáculos!::::
 295003::ir_help_01_02::O truque nesta fase é continuar se movendo sem pensar demais!	É isso. Desejo a todos boa sorte!!!::::
-295004::ir_ttrl03_01::Tutorial: Lago Ryudou::::
+295004::ir_ttrl03_01::Tutorial: Lago Ryuudou::::
 300002::hf_t_story::Modo Tigre&Shorts::::
 300003::hf_t_ttrl::Tutorial::::
 300004::hf_t_norm::Modo Normal::::
@@ -2571,9 +2571,9 @@ id=qid::label=str::string=lstr::string_jp=str::
 301249::hf_ct_end::Fim::::
 301250::hf_ct_challenge::Tentar de Novo!::::
 301251::hf_ct_stigma::Usar um Selo de Comando?::::
-301252::hf_p_av::Avalon	A Utopia Que Sempre Estará Distante::::
+301252::hf_p_av::Avalon	A Utopia Sempre Distante::::
 301253::hf_p_ex::Excalibur	A Espada da Vitória Prometida::::
-301254::hf_p_en::Enuma Elish	A Estrela da Criação que Dividiu o Céu e a Terra::::
+301254::hf_p_en::Enuma Elish	A Estrela da Criação que Dividiu Céu e Terra::::
 301255::hf_p_gh::God Hand	Os Doze Trabalhos::::
 301256::hf_p_sv::Sobreviver::::
 301257::hf_p_bf::Fantasma Quebrado::::
@@ -2582,30 +2582,30 @@ id=qid::label=str::string=lstr::string_jp=str::
 301260::hf_p_la::Rho Aias	Os Sete Anéis Que Cobrem os Céus Ardentes::::
 301261::hf_p_min::-::::
 301262::hf_tm_close::Fechar::::
-301263::hf_tm_av::Avalon	A Utopia Que Sempre Estará Distante::::
-301264::hf_tm_in::Invisible Air	A Barreira do Rei dos Ventos::::
+301263::hf_tm_av::Avalon	A Utopia Sempre Distante::::
+301264::hf_tm_in::Invisible Air	Campo Limitado do Rei do Vento::::
 301265::hf_tm_ex::Excalibur	A Espada da Vitória Prometida::::
-301266::hf_tm_en::Enuma Elish	A Estrela da Criação que Dividiu o Céu e a Terra::::
+301266::hf_tm_en::Enuma Elish	A Estrela da Criação que Dividiu Céu e Terra::::
 301267::hf_tm_os::Presente do Rei	O Incenso de Erguer os Mortos::::
 301268::hf_tm_go::Glass Origin	O Ouro do Reno::::
 301269::hf_tm_gg::Glass Diamond	Tesouro Cultural de Fuyuki: Sino de Gelo Ocular::::
 301270::hf_tm_gb::Gáe Bolg	A Lança Farpada que Perfura com a Morte::::
-301271::hf_tm_gob::Gate of Babylon	O Tesouro do Rei::::
+301271::hf_tm_gob::Gate of Babylon	Tesouros do Rei::::
 301272::hf_tm_gh::God Hand	Os Doze Trabalhos::::
 301273::hf_tm_sv::Sobreviver::::
-301274::hf_tm_bfa::Forte de Sangue Andrômeda	O Templo de Sangue Fechado Externo::::
-301275::hf_tm_bg::Breaker Gorgon	O Templo de Trevas Fechado Interno::::
+301274::hf_tm_bfa::Forte de Sangue Andrômeda	Selo de Outrem, Templo de Sangue::::
+301275::hf_tm_bg::Breaker Gorgon	Autosselo, Templo Sombrio::::
 301276::hf_tm_hg::Hecatic Graeae	Palavras da Fórmula de Magia Divina: Noiva de Cinzas::::
 301277::hf_tm_blr::Bellerophon	A Rédea da Cavalaria::::
 301278::hf_tm_mfv::Senhorita Vitória Voadora	A Vitória Equivocada Preventiva::::
 301279::hf_tm_md::Empregada Dragão	A Arma de Lavagem Cerebral Misteriosa::::
-301280::hf_tm_rb::Rule Breaker	Todos os Feitiços Devem Ser Quebrados::::
+301280::hf_tm_rb::Rule Breaker	Todas as Magias Devem Ser Quebradas::::
 301281::hf_tm_la::Rho Aias	Os Sete Anéis Que Cobrem os Céus Ardentes::::
 301282::hf_tm_tsu::O Voo Retornado da Andorinha::::
 301283::hf_tm_mse::O Inferno de Tapas de Yukika	A Matadora de Makideras EX::::
 301284::hf_tm_mgn::Kane Tudo Vê	A Arrumadinha de Óculos::::
 301285::hf_tm_inu::Vida de Cão, Morte de Cão	A Palmada da Falsa Percepção Prometida::::
-301286::hf_tm_ubw::Unlimited Blade Works	A Forja Infinita de Espadas::::
+301286::hf_tm_ubw::Unlimited Blade Works	Criação Infinita de Espadas::::
 301287::hf_vs_vs::VS::::
 301288::hf_ti_av::Avalon::::
 301289::hf_ti_in::Invisible Air::::
@@ -2796,11 +2796,11 @@ id=qid::label=str::string=lstr::string_jp=str::
 307031::hf_name_byu::A Malvada Yukika::::
 307032::hf_name_sa::Matou Sakura::::
 307033::hf_name_shi::Emiya Shirou::::
-307034::hf_name_ma::Kaede Makidera::::
+307034::hf_name_ma::Makidera Kaede::::
 307035::hf_name_shin::Matou Shinji::::
 307036::hf_name_ta::Taiga::::
-307037::hf_name_hi::Kane Himuro::::
-307038::hf_name_yu::Yukika Saegusa::::
+307037::hf_name_hi::Himuro Kane::::
+307038::hf_name_yu::Saegusa Yukika::::
 307039::hf_name_ri::Tohsaka Rin::::
 307040::hf_frame_p::JOGADOR::::
 307041::hf_frame_c::CPU::::
@@ -2857,7 +2857,7 @@ id=qid::label=str::string=lstr::string_jp=str::
 310007::hf_binta1::Urrah!::::
 310008::hf_binta2::Daah!::::
 310009::hf_ka::Kah!::::
-311001::hf_td_t_av_01::Avalon	A Utopia Que Sempre Estará Distante::::
+311001::hf_td_t_av_01::Avalon	A Utopia Sempre Distante::::
 311002::hf_td_t_av_02::Custo de MP: 15::::
 311003::hf_td_t_av_03::Ativa-se automaticamente durante o turno do oponente.::::
 311004::hf_td_t_av_04::Reduz o dano causado pelo seu oponente à metade de seus pontos restantes ou menos.::::
@@ -2866,7 +2866,7 @@ id=qid::label=str::string=lstr::string_jp=str::
 311007::hf_td_t_av_07::Seus pontos restantes    6 pts::::
 311008::hf_td_t_av_08::Não importa quão alto seja o	dano de ataque do oponente,	reduza-o forçadamente à metade de seus pontos restantes ou menos	(se a sua pontuação restante for 1, todo o dano é anulado).::::
 311009::hf_td_t_av_09::Total de pontos de dano    3 pts::::
-311010::hf_td_t_in_0::Invisible Air	A Barreira do Rei dos Ventos::::
+311010::hf_td_t_in_0::Invisible Air	Campo Limitado do Rei do Vento::::
 311011::hf_td_t_in_1::Custo de MP: 3::::
 311012::hf_td_t_in_2::Pode ser usado apenas no primeiro turno.::::
 311013::hf_td_t_in_3::Suas cartas de pontuação ficam invisíveis para o oponente.::::
@@ -2880,7 +2880,7 @@ id=qid::label=str::string=lstr::string_jp=str::
 311021::hf_td_t_ex_7::Efeito do FN (×2)	10 pontos::::
 311022::hf_td_t_ex_8::'=::::
 311023::hf_td_t_ex_9::Total	15 pontos::::
-311024::hf_td_t_en_0::Enuma Elish	A Estrela da Criação que Dividiu o Céu e a Terra::::
+311024::hf_td_t_en_0::Enuma Elish	A Estrela da Criação que Dividiu Céu e Terra::::
 311025::hf_td_t_en_1::Custo de MP: 20::::
 311026::hf_td_t_en_2::Pode ser usado no início do seu turno.::::
 311027::hf_td_t_en_3::O dano aumenta em 10 pts se você encerrar a partida no turno em que for usado.::::
@@ -2910,7 +2910,7 @@ id=qid::label=str::string=lstr::string_jp=str::
 311051::hf_td_t_gb_1::Custo de MP: 3::::
 311052::hf_td_t_gb_2::Pode ser usado no início do seu turno.::::
 311053::hf_td_t_gb_3::Roube uma carta de pontuação aleatória do oponente.::::
-311054::hf_td_t_gob_0::Gate of Babylon	O Tesouro do Rei::::
+311054::hf_td_t_gob_0::Gate of Babylon	Tesouros do Rei::::
 311055::hf_td_t_gob_1::Custo de MP: 5::::
 311056::hf_td_t_gob_2::Pode ser usado apenas no primeiro turno.::::
 311057::hf_td_t_gob_3::Altera de 1 a 2 cartas Kasu em cartas Ko.	No entanto, quando as cartas Kasu forem de Janeiro, Março, Agosto, Novembro ou Dezembro, e ainda houverem cartas Ko no baralho...::::
@@ -2922,11 +2922,11 @@ id=qid::label=str::string=lstr::string_jp=str::
 311063::hf_td_t_gh_1::Custo de MP: 0::::
 311064::hf_td_t_gh_2::Ativa-se automaticamente no início da partida.::::
 311065::hf_td_t_gh_3::Anula até 11 pontos de dano.	(Adiciona 11 aos pontos possuídos)::::
-311066::hf_td_t_bfa_0::Forte de Sangue Andrômeda	O Templo de Sangue Fechado Externo::::
+311066::hf_td_t_bfa_0::Forte de Sangue Andrômeda	Selo de Outrem, Templo de Sangue::::
 311067::hf_td_t_bfa_1::Custo de MP: 6::::
 311068::hf_td_t_bfa_2::Pode ser usado no início do seu turno.::::
 311069::hf_td_t_bfa_3::Enquanto você estiver em Koi-Koi,	causa 1 ponto de dano ao oponente a cada turno	e restaura 1 de MP por turno.::::
-311070::hf_td_t_bg_0::Breaker Gorgon	O Templo de Trevas Fechado Interno::::
+311070::hf_td_t_bg_0::Breaker Gorgon	Autosselo, Templo Sombrio::::
 311071::hf_td_t_bg_1::Custo de MP: 5::::
 311072::hf_td_t_bg_2::Pode ser usado no início do seu turno.::::
 311073::hf_td_t_bg_3::Força o oponente a pular um turno.::::
@@ -2946,7 +2946,7 @@ id=qid::label=str::string=lstr::string_jp=str::
 311087::hf_td_t_md_1::Custo de MP: 5::::
 311088::hf_td_t_md_2::Ativa-se automaticamente durante o turno do oponente.::::
 311089::hf_td_t_md_3::Força o oponente a entrar no Koi-Koi quando ele estiver prestes a vencer.::::
-311090::hf_td_t_rb_0::Rule Breaker	Todos os Feitiços Devem Ser Quebrados::::
+311090::hf_td_t_rb_0::Rule Breaker	Todas as Magias Devem Ser Quebradas::::
 311091::hf_td_t_rb_1::Custo de MP: 20::::
 311092::hf_td_t_rb_2::Ativa-se automaticamente durante o turno do oponente.::::
 311093::hf_td_t_rb_3::Ativa-se quando você tem zero pontos, contanto que você ainda tenha MP.	1 em 3 chances de converter uma derrota em uma vitória.::::
@@ -2970,7 +2970,7 @@ id=qid::label=str::string=lstr::string_jp=str::
 311111::hf_td_t_inu_1::Custo de MP: :::::
 311112::hf_td_t_inu_2::Pode ser usado no início do seu turno.::::
 311113::hf_td_t_inu_3::Compra uma carta para completar uma mão... talvez.::::
-311114::hf_td_t_ubw_0::Unlimited Blade Works	A Forja Infinita de Espadas::::
+311114::hf_td_t_ubw_0::Unlimited Blade Works	Criação Infinita de Espadas::::
 311115::hf_td_t_ubw_1::Custo de MP: 8::::
 311116::hf_td_t_ubw_2::Pode ser usado no início do seu turno.::::
 311117::hf_td_t_ubw_3::Pega de 3 a 5 cartas Tane, Tan ou Kasu 	do baralho.	※ Pode não pegar as cartas se não houver cartas suficientes no baralho.::::
@@ -3054,7 +3054,7 @@ id=qid::label=str::string=lstr::string_jp=str::
 320104::SCE_AIR_0210::"Existem tantos jogos fascinantes no mundo lá fora. Estou feliz que o Kiritsugu tenha me ensinado as regras!"::::
 320105::SCE_SAV_0140::"Não importa a circunstância ou a estratégia, cumprirei sempre meu dever como cavaleira."::::
 320106::SCE_SAV_0150::"Talvez esse conflito possa ajudar a diminuir a distância entre mim e Kiritsugu... Não, eu suponho que seja inútil."::::
-320107::SCE_TOK_0210::"Comporte-se sempre com postura e elegância... Se você deseja superar a Magia dos Tohsaka, preste bem atenção nestas palavras e me desafie novamente."::::
+320107::SCE_TOK_0210::"Comporte-se sempre com postura e elegância... Se você deseja superar a magia dos Tohsaka, preste bem atenção nestas palavras e me desafie novamente."::::
 320108::SCE_TOK_0220::"A sua derrota estava garantida. Não há necessidade de se sentir frustrado ou envergonhado. Há dignidade até mesmo na derrota."::::
 320109::SCE_GIL_0200::"Se você sequer sabe se ajoelhar e me venerar, então rasteje na terra como a escória que você é. Desapareça, vira-lata."::::
 320110::SCE_GIL_0210_a::"Você deveria saber que deve lutar com toda a sua força contra o Espírito Heroico primordial. Assim, pelo menos, você não se arrependeria dessa derrota."::::
@@ -4955,7 +4955,7 @@ id=qid::label=str::string=lstr::string_jp=str::
 324469::SYS_KAR_1900::Não pegue as coisas dos outros!::::
 324470::SYS_KAR_2002::Oh droga, o que é aquilo!? É tão legal!::::
 324471::SYS_KAR_2100::Eu ainda consigo fazer isto! (tosse tosse)::::
-324472::SYS_KAR_2200::Sinta o gosto da minha porc[line len=1]minha Magia!::::
+324472::SYS_KAR_2200::Sinta o gosto da minha porc[line len=1]minha magia!::::
 324473::SYS_KAR_2300::Daria para você se apressar? Não estou me sentindo bem...::::
 324474::SYS_KAR_2301::Eu me pergunto o que a Aoi está fazendo agora... Hehehe.::::
 324475::SYS_KAR_2302::Uma franquia multimídia... Isso soa muito bem.::::
@@ -5680,7 +5680,7 @@ id=qid::label=str::string=lstr::string_jp=str::
 325195::SYS_TOK_2302::...Talvez seja hora de uma pausa para o chá.::::
 325196::SYS_TOK_2400::Não estou em aflição. O caminho para a vitória jaz diante de mim.::::
 325197::SYS_WAV_0100::Caramba, correndo na minha frente!::::
-325198::SYS_WAV_0101::Argh, isto não tem nada a ver com Magia!::::
+325198::SYS_WAV_0101::Argh, isto não tem nada a ver com magia!::::
 325199::SYS_WAV_0102::Droga, que tipo de Guerra do Santo Graal é esta!?::::
 325200::SYS_WAV_0103::Tá, eu entendi!::::
 325201::SYS_WAV_0105::E-eu sou Waver Velvet! Eu vou ganhar esta!::::
