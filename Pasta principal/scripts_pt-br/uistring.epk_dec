@@ -38,16 +38,16 @@ id=qid::label=str::string=lstr::string_jp=str::
 205264::ir_talk_114::Agora, para a brecha mais uma vez, meus campeões!	Não se segurem! TORNEM-SE A LUZ!::::
 205301::ir_etc_question::PERGUNTA: ::::
 205302::ir_etc_itemcaption::［<CAPTION>］::::
-4::string_title_back_warn::Tem certeza de que deseja	retornar à tela de título?::::
-5::string_save_overwrit_warn::Tem certeza de que deseja	substituir os dados salvos?::::
-36::string_app_reset_confirm1::Tem certeza de que deseja redefinir as configurações de texto para o padrão?::::
-37::string_app_reset_confirm2::Tem certeza de que deseja redefinir as configurações de som para o padrão?::::
+4::string_title_back_warn::Voltar à tela	de título?::::
+5::string_save_overwrit_warn::Sobrescrever	os dados salvos?::::
+36::string_app_reset_confirm1::Restaurar padrões de texto?::::
+37::string_app_reset_confirm2::Restaurar padrões de som?::::
 42::string_back_title_warn::Tem certeza de que deseja	retornar à tela de título?::::
-43::string_save_delete_warn::Tem certeza de que deseja excluir estes dados salvos?::::
+43::string_save_delete_warn::Excluir estes dados salvos?::::
 53::string_msg_newminigame::Um minijogo foi adicionado ao menu Especial.::::
-54::string_exit_warn::Gostaria de sair do jogo?::::
-58::string_msg_sys_save::Salvando dados do sistema...::::
-60::string_qjump_warn::Pular rapidamente para esta linha?::::
+54::string_exit_warn::Sair do jogo?::::
+58::string_msg_sys_save::Salvando dados do sistema.::::
+60::string_qjump_warn::Ir direto para esta linha?::::
 61::string_skip_warn::Pular esta cena?::::
 63::string_scene_replay_confirm::Repetir a cena selecionada?::::
 64::string_scene_replay_end_confirm::Encerrar a repetição da cena?::::
@@ -56,103 +56,103 @@ id=qid::label=str::string=lstr::string_jp=str::
 67::string_save_rewrite_warn::Tem certeza de que deseja	substituir os dados salvos?::::
 68::string_entrance_back_warn::Tem certeza de que deseja retornar	para a entrada?::::
 69::string_eclipse_warn::Você não poderá continuar do seu último ponto salvo.	Prosseguir?::::
-10001::m_cnf_title::CONFIGURAÇÕES::::
-10002::m_cnf_txtspd::Velocidade do texto::::
-10003::m_cnf_txtspd_f::Rápida::::
+10001::m_cnf_title::CONFIG::::
+10002::m_cnf_txtspd::Velocidade do Texto::::
+10003::m_cnf_txtspd_f::Rápido::::
 10004::m_cnf_txtspd_n::Normal::::
-10005::m_cnf_txtspd_s::Lenta::::
-10006::m_cnf_txtspd_c::Personalizada::::
-10007::m_cnf_sound::Mixagem de Volume::::
+10005::m_cnf_txtspd_s::Lento::::
+10006::m_cnf_txtspd_c::Personalizado::::
+10007::m_cnf_sound::Equilíbrio de Volume::::
 10008::m_cnf_sound_v::Vozes::::
 10009::m_cnf_sound_n::Normal::::
 10010::m_cnf_sound_b::Música::::
-10011::m_cnf_sound_c::Personalizada::::
-10013::m_cnf_atsave_t::LIG::::
-10014::m_cnf_atsave_f::DESL::::
-10015::m_cnf_language::Idioma de Exibição::::
+10011::m_cnf_sound_c::Personalizado::::
+10013::m_cnf_atsave_t::LIGADO::::
+10014::m_cnf_atsave_f::DESLIGADO::::
+10015::m_cnf_language::Idioma::::
 10016::m_cnf_lang_j::日本語::::
 10017::m_cnf_lang_e::Português::::
 10018::m_cnf_lang_c::  中文（简体）::::
-10019::m_cnf_screen::Modo de Exibição::::
+10019::m_cnf_screen::Modo de Tela::::
 10020::m_cnf_screen_f::Tela Cheia::::
-10021::m_cnf_screen_w::Modo Janela::::
-10022::m_cnf_reso::Resolução da Tela::::
+10021::m_cnf_screen_w::Janela::::
+10022::m_cnf_reso::Resolução::::
 10023::m_cnf_reso_720::1280×720::::
 10024::m_cnf_reso_900::1600×900::::
 10025::m_cnf_reso_1080::1920×1080::::
 10026::m_cnf_reso_1152::2048×1152::::
 10027::m_cnf_reso_1440::2560×1440::::
 10028::m_cnf_reso_2160::3840×2160::::
-10029::m_cnf_detail::Configurações Avançadas::::
+10029::m_cnf_detail::Avançado::::
 10031::m_cnf_bak::Voltar::::
-10032::m_cnf_gamepad::Configurações de Controle::::
-10033::m_cnf_gamepad_b::Controles a Duas Mãos::::
-10034::m_cnf_gamepad_o::Controles a Uma Mão::::
+10032::m_cnf_gamepad::Controles::::
+10033::m_cnf_gamepad_b::Duas Mãos::::
+10034::m_cnf_gamepad_o::Uma Mão::::
 10036::m_cnf_skip_ar::Pular cenas	já lidas::::
 10037::m_cnf_maphelp::Exibir Ajuda do Mapa::::
 10038::m_cnf_maphelp_t::LIG::::
 10039::m_cnf_maphelp_f::DESL::::
-11001::m_cnft_tab::Configurações de Texto::::
-11002::m_cnft_spd::Velocidade de exibição	do texto::::
-11003::m_cnft_spd_f::Rápida::::
+11001::m_cnft_tab::Texto::::
+11002::m_cnft_spd::Velocidade do Texto::::
+11003::m_cnft_spd_f::Rápido::::
 11004::m_cnft_spd_n::Normal::::
-11005::m_cnft_spd_s::Lenta::::
-11006::m_cnft_spd_c::Personalizada::::
-11007::m_cnft_leterint::Intervalo de Exibição de Texto::::
-11008::m_cnft_lint_fig::Linhas recém-lidas::::
+11005::m_cnft_spd_s::Lento::::
+11006::m_cnft_spd_c::Personalizado::::
+11007::m_cnft_leterint::Intervalo de Exibição::::
+11008::m_cnft_lint_fig::Linhas não lidas::::
 11009::m_cnft_lint_sec::seg::::
 11010::m_cnft_rowint::Auto-play	Atraso da exibição da linha::::
 11011::m_cnft_rint_sec::seg::::
 11012::m_cnft_pageint::Auto-play	Atraso da virada de página::::
 11013::m_cnft_pint_sec::seg::::
-11014::m_cnft_autoskip::Avançar rapidamente cenas já lidas::::
-11015::m_cnft_atskip_t::LIG::::
-11016::m_cnft_atskip_f::DESL::::
+11014::m_cnft_autoskip::Avanço automático	de cenas lidas::::
+11015::m_cnft_atskip_t::LIGADO::::
+11016::m_cnft_atskip_f::DESLIGADO::::
 11017::m_cnft_textcol::Destacar texto	já lido::::
-11018::m_cnft_tcol_t::LIG::::
-11019::m_cnft_tcol_f::DESL::::
-11020::m_cnft_reset::Redefinir configurações para o padrão::::
+11018::m_cnft_tcol_t::LIGADO::::
+11019::m_cnft_tcol_f::DESLIGADO::::
+11020::m_cnft_reset::Restaurar Padrões::::
 11021::m_cnft_guid_bak::Voltar::::
 11022::m_cnft_guid_ent::OK::::
 11024::m_cnft_guid_scl::Rolar::::
 11027::m_cnft_prvwmsg::Ele disse que a noite o assustava.::::
-11028::m_cnft_skipcfg::Avanço rápido de texto::::
-11029::m_cnft_read::Apenas texto já lido::::
-11030::m_cnft_all::Todos::::
-11031::m_cnft_unrd_pch::Velocidade de exibição	para texto não lido::::
-11032::m_cnft_read_pch::Velocidade de exibição	para texto já lido::::
-11033::m_cnft_prnt_all::Página inteira	instantaneamente::::
+11028::m_cnft_skipcfg::Avanço Rápido::::
+11029::m_cnft_read::Apenas texto lido::::
+11030::m_cnft_all::Tudo::::
+11031::m_cnft_unrd_pch::Velocidade do texto	(não lido)::::
+11032::m_cnft_read_pch::Velocidade do texto	(lido)::::
+11033::m_cnft_prnt_all::Exibir pág. instantaneamente::::
 11035::m_cnft_unit_ms::ms::::
 11036::m_cnft_unit_s::s::::
-11043::m_cnft_bg::Opacidade da janela	de texto::::
+11043::m_cnft_bg::Opacidade da Janela::::
 11044::m_cnft_bg_per::%::::
-11045::m_cnft_fig_fd::Surgimento suave	(fade-in) do texto::::
+11045::m_cnft_fig_fd::Aparição gradual	do texto::::
 11046::m_cnft_read_fd::Escurecer texto anterior::::
-11047::m_cnft_tx_wait::Tempo até o texto	avançar automaticamente::::
-11048::m_cnft_shdw::Sombra do texto::::
-11049::m_cnft_shdw_t::LIG::::
-11050::m_cnft_shdw_f::DESL::::
-12001::m_cnfs_tab::Configurações de Som::::
-12002::m_cnfs_master::Volume principal::::
+11047::m_cnft_tx_wait::Espera para avançar	(Modo Auto)::::
+11048::m_cnft_shdw::Sombra do Texto::::
+11049::m_cnft_shdw_t::LIGADO::::
+11050::m_cnft_shdw_f::DESLIGADO::::
+12001::m_cnfs_tab::Som::::
+12002::m_cnfs_master::Volume Principal::::
 12003::m_cnfs_mstr_per::%::::
-12004::m_cnfs_balance::Mixagem de Volume::::
+12004::m_cnfs_balance::Equilíbrio de Volume::::
 12005::m_cnfs_bal_v::Vozes::::
 12006::m_cnfs_bal_n::Normal::::
 12007::m_cnfs_bal_b::Música::::
-12008::m_cnfs_bal_c::Personalizada::::
+12008::m_cnfs_bal_c::Personalizado::::
 12009::m_cnfs_voice::Vozes::::
 12010::m_cnfs_vc_per::%::::
-12011::m_cnfs_se::Efeitos sonoros::::
+12011::m_cnfs_se::Efeitos Sonoros::::
 12012::m_cnfs_se_per::%::::
-12013::m_cnfs_system::Sons do sistema::::
+12013::m_cnfs_system::Sons do Sistema::::
 12014::m_cnfs_sys_per::%::::
-12015::m_cnfs_bgmdec::Abaixar a música	enquanto as vozes tocam::::
-12016::m_cnfs_bdec_t::LIG::::
-12017::m_cnfs_bdec_f::DESL::::
+12015::m_cnfs_bgmdec::Diminuir música	durante as falas::::
+12016::m_cnfs_bdec_t::LIGADO::::
+12017::m_cnfs_bdec_f::DESLIGADO::::
 12018::m_cnfs_voicecut::Pausar vozes	enquanto o texto avança::::
-12019::m_cnfs_vcut_t::LIG::::
-12020::m_cnfs_vcut_f::DESL::::
-12021::m_cnfs_vcnf::Configurações Individuais de Voz::::
+12019::m_cnfs_vcut_t::LIGADO::::
+12020::m_cnfs_vcut_f::DESLIGADO::::
+12021::m_cnfs_vcnf::Volume de Cada Voz::::
 12022::m_cnfs_vc_em::Emiya Shirou::::
 12025::m_cnfs_vc_se::Saber::::
 12028::m_cnfs_vc_ri::Tohsaka Rin::::
@@ -182,19 +182,19 @@ id=qid::label=str::string=lstr::string_jp=str::
 12100::m_cnfs_vc_ot::Outros::::
 12101::m_cnfs_vc_mute::Mudo::::
 12102::m_cnfs_vc_test::Testar::::
-12103::m_cnfs_reset::Redefinir configurações para o padrão::::
+12103::m_cnfs_reset::Restaurar Padrões::::
 12104::m_cnfs_guid_bak::Voltar::::
 12105::m_cnfs_guid_ent::OK::::
 12110::m_cnfs_bgm::Música::::
 12111::m_cnfs_bgm_per::%::::
-12112::m_cnfs_voice_at::Sincronizar auto-play	com reprodução da voz::::
-12113::m_cnfs_voice_wt::Aguardar que as vozes	do auto-play terminem::::
+12112::m_cnfs_voice_at::Sincronizar Modo Auto	com as vozes::::
+12113::m_cnfs_voice_wt::Esperar o fim das falas	(Modo Auto)::::
 20001::m_gal_title::Galeria::::
 20002::m_gal_picture::Imagens::::
 20003::m_gal_movie::Vídeos::::
 20004::m_gal_music::Músicas::::
 20008::m_gal_back::Voltar::::
-20011::m_gal_title2::GALERIA::::
+20011::m_gal_title2::Galeria::::
 21001::m_pic_title::Imagens::::
 21007::m_pic_tab_other::Outros::::
 21008::m_pic_back::Voltar::::
@@ -203,15 +203,15 @@ id=qid::label=str::string=lstr::string_jp=str::
 21011::m_pic_guid_mov::Mover::::
 21013::m_pic_tab_hlw::hollow ataraxia::::
 21014::m_pic_tab_sp::Especial::::
-21015::m_pic_guid_next::Próxima::::
+21015::m_pic_guid_next::Próximo::::
 21016::m_pic_guid_prev::Anterior::::
 22001::m_mov_title::Vídeos::::
 22002::m_mov_bak::Voltar::::
 23001::m_musc_title::Músicas::::
-23002::m_musc_bgm::Música::::
-23003::m_musc_se::Efeitos Sonoros (SE)::::
-23004::m_musc_bgmvol::VOLUME DA MÚSICA::::
-23005::m_musc_sevol::VOLUME DOS EFEITOS SONOROS::::
+23002::m_musc_bgm::Músicas::::
+23003::m_musc_se::Efeitos::::
+23004::m_musc_bgmvol::VOL. MÚSICA::::
+23005::m_musc_sevol::VOL. EFEITOS::::
 23006::m_musc_back::Voltar::::
 23007::m_musc_guid_bak::Voltar::::
 23008::m_musc_guid_ent::OK::::
@@ -240,19 +240,19 @@ id=qid::label=str::string=lstr::string_jp=str::
 29023::m_sce_guid_ent::OK::::
 29024::m_sce_guid_mov::Mover::::
 30001::m_menu_title::MENU::::
-30007::m_menu_config::Configurações::::
+30007::m_menu_config::Config::::
 30008::m_menu_keyguide::Controles::::
 30010::m_menu_back::Voltar::::
 30011::m_menu_flist::Lista de Flags::::
 30012::m_savetitle::Salvar & Título::::
 31001::m_kgd_title::Controles::::
 31002::m_kgd_back::Voltar::::
-31005::m_kgd_fastbak::Retrocesso rápido::::
-31013::m_kgd_fastpg::Avanço rápido::::
-31014::m_kgd_loopswtc::(Alternar Loop)::::
+31005::m_kgd_fastbak::Retroceder rápido::::
+31013::m_kgd_fastpg::Avançar Rápido::::
+31014::m_kgd_loopswtc::(alternar loop)::::
 31022::m_kgd_tap::Tocar na Tela::::
-31044::m_kgd_pgb::Página Anterior::::
-31045::m_kgd_pgf::Próxima Página::::
+31044::m_kgd_pgb::Pág. Anterior::::
+31045::m_kgd_pgf::Próxima Pág.::::
 31046::m_kgd_log::Histórico::::
 31047::m_kgd_send::Avançar Texto::::
 31060::m_kgd_ok1::OK::::
@@ -260,25 +260,25 @@ id=qid::label=str::string=lstr::string_jp=str::
 31063::m_kgd_mh::Mouse::::
 31064::m_kgd_gp::Controle::::
 31067::m_kgd_zoom::Afastar/Aproximar Zoom::::
-31068::m_kgd_pgcng::Mudar de Página::::
+31068::m_kgd_pgcng::Mudar Página::::
 31073::m_kgd_auto1::Modo Automático::::
-31076::m_kgd_auto4::Parar Modo Automático::::
+31076::m_kgd_auto4::Parar Modo Auto::::
 31078::m_kgd_oksend::Avançar Texto, Confirmar::::
 31079::m_kgd_texh::Ocultar Janela de Texto::::
 31098::m_kgd_hld::Segurar::::
 31109::m_kgd_ltr::Arrastar Canto Esquerdo para a Direita::::
 31110::m_kgd_rtl::Arrastar Canto Direito para a Esquerda::::
-31122::m_kgd_exit::Sair do Jogo::::
-31123::m_kgd_scmode::Alternar modo de exibição::::
-31125::m_kgd_crsr_btm::Mover o cursor para o fim da tela::::
-31127::m_kgd_drug_r::Arrastar do centro da tela para a direita::::
-31128::m_kgd_drug_l::Arrastar do centro da tela para a esquerda::::
-31129::m_kgd_swipe::Deslizar na Tela::::
-31131::m_kgd_qjump::Pulo Rápido::::
+31122::m_kgd_exit::Sair do jogo::::
+31123::m_kgd_scmode::Mudar modo de tela::::
+31125::m_kgd_crsr_btm::Mover cursor para o rodapé::::
+31127::m_kgd_drug_r::Arrastar do centro para a direita::::
+31128::m_kgd_drug_l::Arrastar do centro para a esquerda::::
+31129::m_kgd_swipe::Deslizar tela::::
+31131::m_kgd_qjump::Salto rápido::::
 31133::m_kgd_ctl::Controles::::
-31136::m_kgd_openc::Configurações de sistema::::
-31140::m_kgd_drug_r2::Arrastar da Esquerda para a Direita::::
-31141::m_kgd_drug_l2::Arrastar da Direita para a Esquerda::::
+31136::m_kgd_openc::Configurar sistema::::
+31140::m_kgd_drug_r2::Arrastar Esq. p/ Dir.::::
+31141::m_kgd_drug_l2::Arrastar Dir. p/ Esq.::::
 32001::m_fl_title::Lista de Flags::::
 32002::m_fl_bak::Voltar::::
 32003::m_fl_new::NOVO::::
@@ -332,13 +332,13 @@ id=qid::label=str::string=lstr::string_jp=str::
 32051::m_fl_name_48::Guardião (Mago)::::
 32052::m_fl_name_49::A Lua Invertida dos Céus::::
 32053::m_fl_name_50::Caren 5::::
-40004::m_atspd_4::Avanço rápido::::
-40005::m_atspd_5::Retrocesso rápido::::
-40006::m_atspd_6::Automático x1::::
-40007::m_atspd_7::Automático x1.3::::
-40008::m_atspd_8::Automático x2::::
+40004::m_atspd_4::Avanço Rápido::::
+40005::m_atspd_5::Retrocesso Rápido::::
+40006::m_atspd_6::Modo Auto x1::::
+40007::m_atspd_7::Modo Auto x1.3::::
+40008::m_atspd_8::Modo Auto x2::::
 40009::m_atspd_9::Parar::::
-40010::m_select_title::Selecionar::::
+40010::m_select_title::Escolha::::
 40011::m_map_unknown::???::::
 40012::m_map_emiyatei::Ir para o mapa da mansão Emiya::::
 40013::m_map_ryudoji::Ir para o mapa do Templo Ryuudou::::
@@ -349,16 +349,16 @@ id=qid::label=str::string=lstr::string_jp=str::
 42003::m_hs_guid_bak::Voltar::::
 42004::m_hs_guid_ent::Tocar Voz::::
 42005::m_hs_guid_mov::Mover::::
-42007::m_hstry_play::Reproduzir::::
+42007::m_hstry_play::Tocar::::
 70001::m_titl_conti::Continuar::::
 70004::m_titl_gallery::Galeria::::
-70005::m_titl_config::Configurações::::
+70005::m_titl_config::Config::::
 70007::m_titl_start::Iniciar::::
 70008::m_titl_eclipse::Eclipse::::
 70009::m_titl_maruc::©TYPE-MOON::::
-70010::m_titl_anykey::Pressione Qualquer Tecla::::
+70010::m_titl_anykey::Aperte Um Botão::::
 70011::m_titl_exit::Sair::::
-71001::m_boot_caution::Este jogo é uma obra de ficção. Nomes e grupos representados neste jogo são produto da imaginação do autor ou usados de forma fictícia.	Qualquer semelhança com pessoas reais ou grupos, vivos ou mortos, é mera coincidência.		Este jogo contém cenas gráficas que podem ser perturbadoras para alguns jogadores.		A gravação e distribuição de quaisquer imagens, áudio ou vídeo contidos neste jogo sem permissão expressa dos detentores dos direitos autorais é estritamente proibida.	No entanto, gravar ou transmitir o jogo usando a função de gravação dedicada da sua plataforma é permitido, com exceção de sequências no jogo onde tais funções são restritas.	Caso contrário, divirta-se com o jogo dentro dos limites da lei.::::
+71001::m_boot_caution::Este jogo é uma obra de ficção. Os nomes e grupos aqui representados são fruto da imaginação do autor ou usados de forma fictícia.	Qualquer semelhança com pessoas ou grupos reais, vivos ou mortos, é mera coincidência.		Este jogo contém cenas de violência explícita que podem ser perturbadoras para alguns jogadores.		A gravação e a distribuição de imagens, áudio ou vídeo deste jogo sem a permissão expressa dos detentores dos direitos são estritamente proibidas.	No entanto, é permitido gravar ou transmitir o jogo usando a função própria da plataforma, exceto nas sequências em que essas funções estejam bloqueadas.	Nos demais casos, aproveite o jogo dentro dos limites da lei.::::
 72001::m_ent_title::Entrada::::
 72003::m_ent_rate::Concluído::::
 72004::m_ent_percent::%::::
