@@ -455,8 +455,8 @@ Estes vieram de prompts antigos e de modelos fracos. Se aparecerem, são **defei
 ### 7.5 Honoríficos (padrão já consolidado no corpus)
 - Mantidos sem tradução, colados com hífen e em minúscula: `-san`, `-kun`, `-chan`,
   `-senpai`, `-sensei` (`Himuro-senpai`, `Fujimura-san`, `Tamamo-chan`).
-- Vocativo solto vira maiúscula: `Senpai`, `Nee-san`, `Fuji-Nee`, `Onii-chan`.
-- `Fuji-Nee` é forma fixa. Nunca traduzir para "irmã Fuji".
+- Vocativo solto vira maiúscula: `Senpai`, `Nee-san`, `Fuji-nee`, `Onii-chan`.
+- `Fuji-nee` é forma fixa (padrão do FSN). Nunca traduzir para "irmã Fuji".
 - Se o EN domesticar honorífico japonês (`Big Brother`, `Ms.`, `Miss`,
   `teacher`, `professor`, `senior` etc.), confirme no `scripts_jp/` e preserve
   o tratamento japonês no PT-BR quando ele existir no JP: `Onii-chan`,
@@ -536,7 +536,7 @@ personagem **deve ser gravada no glossário**, no bloco de vozes.
   dele é erro.
 - **Gilgamesh** ♂ — régio, absoluto, narcisista; todos são vermes e insolentes;
   vocabulário grandioso; divertido quando está acima de tudo. Nunca vilão genérico.
-- **Fujimura Taiga (Fuji-Nee)** ♀ — expansiva, barulhenta, dramática, calorosa;
+- **Fujimura Taiga (Fuji-nee)** ♀ — expansiva, barulhenta, dramática, calorosa;
   gíria à vontade, exagera tudo; engraçada sem parecer forçada. Tem de soar gente,
   não alívio cômico robótico.
 - **Issei Ryuudou** ♂ — sério, formal, estudantil.

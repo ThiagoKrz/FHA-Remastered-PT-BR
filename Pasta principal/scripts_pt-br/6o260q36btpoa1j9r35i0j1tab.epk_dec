@@ -29,17 +29,17 @@ id=qid::label=str::text=lstr::
 2248::$$$message_0012_0010_0001$$$::Acabei me empolgando enquanto checava várias peças. Pensei que seria mais rápido consertar tudo direito em vez de fazer gambiarras, e decidi desmontar a bicicleta até o último parafuso.::
 2249::$$$message_0012_0011_0000$$$::"...Bem, a Rider deve ficar feliz com o que eu fiz."[lr]::
 2250::$$$message_0012_0011_0001$$$::Troquei as peças mais desgastadas por outras mais duráveis, e me dei por satisfeito sabendo que essa bike não precisaria de manutenção por um bom tempo... Bom, pelo menos por mais uma semana.::
-2251::$$$message_0012_0012_0000$$$::[se storage=se396.wav]No momento em que estou voltando para tomar um banho e [movefg opacity=255 left=-446 top=34 time=450 accel=-2 storage=藤08e(中) textoff=0][wait canskip=false time=200][movefg opacity=255 time=600 pos=c accel=3 storage=藤01d(中) textoff=0][sestop time=100 nowait=true][seloop storage=se317.wav]tirar esse suor e graxa de mim, a Fuji-Nee sai correndo da sala de estar.[wm canskip=0][wm canskip=0][wait canskip=false time=150][sestop time=0 nowait=true]::
-2252::$$$message_0012_0013_0000$$$::"Fuji-Nee, não é só na escola que não se deve correr pelos corredores!"[lr]::
+2251::$$$message_0012_0012_0000$$$::[se storage=se396.wav]No momento em que estou voltando para tomar um banho e [movefg opacity=255 left=-446 top=34 time=450 accel=-2 storage=藤08e(中) textoff=0][wait canskip=false time=200][movefg opacity=255 time=600 pos=c accel=3 storage=藤01d(中) textoff=0][sestop time=100 nowait=true][seloop storage=se317.wav]tirar esse suor e graxa de mim, a Fuji-nee sai correndo da sala de estar.[wm canskip=0][wm canskip=0][wait canskip=false time=150][sestop time=0 nowait=true]::
+2252::$$$message_0012_0013_0000$$$::"Fuji-nee, não é só na escola que não se deve correr pelos corredores!"[lr]::
 2253::$$$message_0012_0013_0001$$$::"Ah, desculpa Shirou. Nos falamos depois!"[lr]::
 2254::$$$message_0012_0013_0002$$$::Ela sai correndo.::
 2255::$$$message_0012_0014_0000$$$::"Ah, Senpai."[lr]::
-2256::$$$message_0012_0014_0001$$$::A Sakura chega, ofegante. Diferente da Fuji-Nee, raramente a vejo com tanta pressa. Não sei nem como reagir.::
+2256::$$$message_0012_0014_0001$$$::A Sakura chega, ofegante. Diferente da Fuji-nee, raramente a vejo com tanta pressa. Não sei nem como reagir.::
 2257::$$$message_0012_0015_0000$$$::"O que está acontecendo?"[lr]::
 2258::$$$message_0012_0015_0001$$$::"Hum, eu ia preparar um chá já que a Illya-san está aqui, mas a Fujimura-sensei começou a atacar os petiscos. Ela limpou o primeiro armário, o segundo, e até os biscoitos do nosso kit de emergência...!"[lr]::
 2259::$$$message_0012_0015_0002$$$::Não é de admirar que a tenham escorraçado de lá.::
 2260::$$$message_0012_0016_0000$$$::"Mas normalmente não haveria toda essa comoção nem que um tigre faminto invadisse nosso assentamento..."[lr]::
-2261::$$$message_0012_0016_0001$$$::[chgfg time=300 storage=桜私服02e(中) textoff=0 last=桜私服02d(中)]Geralmente, nós só daríamos um sermão na Fuji-Nee e exigiríamos reparações da carteira dela antes que pudesse fugir.::
+2261::$$$message_0012_0016_0001$$$::[chgfg time=300 storage=桜私服02e(中) textoff=0 last=桜私服02d(中)]Geralmente, nós só daríamos um sermão na Fuji-nee e exigiríamos reparações da carteira dela antes que pudesse fugir.::
 2262::$$$message_0012_0017_0000$$$::"Sobre isso, ela comeu a parte da Saber-san também, e quando a Illya-san apontou isso, ela começou a suar frio e fugiu para se esconder até a poeira baixar..."[lr]::
 2263::$$$message_0012_0017_0001$$$::"Pegue-a o mais rápido que puder. [l][say storage=emi0118_shi_0101 name=士郎]Vou lá pedir desculpas para a Illya."[lr]::
 2264::$$$message_0012_0017_0002$$$::"E então, quando comecei a explicar para a Illya-san sobre as virtudes do konpeito no meio dos biscoitos secos, ela ficou muito mais chateada do que eu esperava."[lr]::
@@ -52,9 +52,9 @@ id=qid::label=str::text=lstr::
 2271::$$$message_0012_0020_0000$$$::"Ainda assim..."[lr]::
 2272::$$$message_0012_0020_0001$$$::Parecem estar caçando um animal selvagem.[lr]::
 2273::$$$message_0012_0020_0002$$$::Acho melhor eu ajudar antes que isso saia do controle.::
-2274::$$$message_0012_0021_0000$$$::Finalmente, a Fuji-Nee é levada sob custódia.[lr]::
+2274::$$$message_0012_0021_0000$$$::Finalmente, a Fuji-nee é levada sob custódia.[lr]::
 2275::$$$message_0012_0021_0001$$$::A Illya e a Sakura estão dando uma bronca nela na sala de estar.[lr]::
-2276::$$$message_0012_0021_0002$$$::Por outro lado, eu estou consertando o estrago que ela causou no telhado, Fuji-Nee.[lr]::
+2276::$$$message_0012_0021_0002$$$::Por outro lado, eu estou consertando o estrago que ela causou no telhado, Fuji-nee.[lr]::
 2277::$$$message_0012_0021_0003$$$::Dizem que ainda teremos um tufão este ano.::
 2278::$$$message_0012_0022_0000$$$::"Ainda assim..."[lr]::
 2279::$$$message_0012_0022_0001$$$::Sinto uma pontada de empatia pelo Archer. Talvez a razão pela qual ele seja tão distorcido seja por ter ficado largado aqui em cima sozinho.::

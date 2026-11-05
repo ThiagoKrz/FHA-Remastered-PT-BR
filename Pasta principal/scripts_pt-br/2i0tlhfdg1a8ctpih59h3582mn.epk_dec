@@ -15,7 +15,7 @@ id=qid::label=str::text=lstr::
 43237::$$$message_0364_0001_0000$$$::"Isso é algum d-d-desastre natural moderno!?"::
 43238::$$$message_0364_0002_0000$$$::"Um par de shorts de ginástica apareceu do nada e me deu uma voadora no plexo solar!"::
 43239::$$$message_0364_0003_0000$$$::"Uh... Desculpe por isso. Eu errei.[lr]::
-43240::$$$message_0364_0003_0001$$$::[hffacechg chara=藤ねえ face=うーん layer=1 left=7 top=397 time=200][hfsweat layer=1]Vim voando porque alguém chamou, mas tropecei nos próprios pés quando cheguei aqui, Fuji-Nee."::
+43240::$$$message_0364_0003_0001$$$::[hffacechg chara=藤ねえ face=うーん layer=1 left=7 top=397 time=200][hfsweat layer=1]Vim voando porque alguém chamou, mas tropecei nos próprios pés quando cheguei aqui, Fuji-nee."::
 43241::$$$message_0364_0003_0002$$$::"Mesmo assim, eu deveria agradecê-la.[lr]::
 43242::$$$message_0364_0003_0003$$$::Obrigada por amortecer a minha queda, almofada de carne."::
 43243::$$$message_0364_0003_0004$$$::"Hum, eu não entendi muito bem, mas foi o meu geschehen."::
@@ -72,7 +72,7 @@ id=qid::label=str::text=lstr::
 43296::$$$message_0364_0007_0002$$$::"Mas...[l][hfchance layer=1][say storage=HSTR1_TIG_0340 _name=藤ねえ]mas eu não sei! Eu também queria saber qual é a minha classe!"::
 43297::$$$message_0364_0007_0003$$$::"Hã, então você nem sabe de qual Servo é. ...Hehe, que interessante. Estou ansiosa para ver você descobrir isso."::
 43298::$$$message_0364_0007_0004$$$::"Você sabe? Então me diga.[lr]::
-43299::$$$message_0364_0007_0005$$$::[hffacechg chara=藤ねえ face=まったく2 layer=1 time=200][hfsigh layer=1]Não importa muito qual classe eu seja, mas saber disso me faria sentir melhor, Fuji-Nee."::
+43299::$$$message_0364_0007_0005$$$::[hffacechg chara=藤ねえ face=まったく2 layer=1 time=200][hfsigh layer=1]Não importa muito qual classe eu seja, mas saber disso me faria sentir melhor, Fuji-nee."::
 43300::$$$message_0364_0007_0006$$$::"Não! Tudo tem que seguir uma troca equivalente.[lr]::
 43301::$$$message_0364_0007_0007$$$::[hffacechg chara=ブルマイリヤ face=ふっ time=200][hfstamp layer=0]Eu te conto assim que você me contar o que você está escondendo. Toda a verdade, nua e crua."::
 43302::$$$message_0364_0007_0008$$$::"Guh! Esses charmes diabólicos não vão funcionar em mim, sua diabinha!"::
@@ -110,7 +110,7 @@ id=qid::label=str::text=lstr::
 43334::$$$message_0364_0008_0014$$$::"Sem argumentos da minha parte! [hfchance layer=0][lr]::
 43335::$$$message_0364_0008_0015$$$::Nós vamos varrer qualquer um que se meter no nosso caminho!"::
 43336::$$$message_0364_0009_0000$$$::"Hehe."[nolr][p]::
-43337::$$$message_0364_0009_0001$$$::"Hehehe." [nolr][p][say storage=HSTR1_TWP_0000 _name=ブルマイリヤと藤ねえ][textspeed mul=0.4][hfu][cm][texton]"[hfl]"[hfu]He[hfl]He[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]...[hfl]...[hfu]...[hfl]...[hfu]...[hfl]...[hfu]...[hfl]...[hfu]![hfl]![hfu]![hfl]![hfu]![hfl]![hfu]![hfl]![hfu]![hfl]![hfu]"[hfl], Fuji-Nee"[textspeed][nolr][p]::
+43337::$$$message_0364_0009_0001$$$::"Hehehe." [nolr][p][say storage=HSTR1_TWP_0000 _name=ブルマイリヤと藤ねえ][textspeed mul=0.4][hfu][cm][texton]"[hfl]"[hfu]He[hfl]He[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]...[hfl]...[hfu]...[hfl]...[hfu]...[hfl]...[hfu]...[hfl]...[hfu]![hfl]![hfu]![hfl]![hfu]![hfl]![hfu]![hfl]![hfu]![hfl]![hfu]"[hfl], Fuji-nee"[textspeed][nolr][p]::
 43338::$$$message_0364_0009_0002$$$::"De qualquer forma, eu e a Taiga entraremos como uma equipe."::
 43339::$$$message_0364_0010_0000$$$::"Nós temos Feitiços de Comando e um Servo, então com certeza não há problema algum."::
 43340::$$$message_0364_0010_0001$$$::"...Não cabe a mim dizer.[lr]::
@@ -160,7 +160,7 @@ id=qid::label=str::text=lstr::
 43384::$$$message_0364_0015_0003$$$::Por que vocês não vão testar as suas habilidades lá?"::
 43385::$$$message_0364_0015_0004$$$::"Ei, obrigada pela dica.[lr]::
 43386::$$$message_0364_0015_0005$$$::Nós faremos valer a pena."::
-43387::$$$message_0364_0016_0000$$$::[hffacechg chara=藤ねえ face=楽 layer=1 time=200]"Illya-chan, você está pronta, Fuji-Nee?"::
+43387::$$$message_0364_0016_0000$$$::[hffacechg chara=藤ねえ face=楽 layer=1 time=200]"Illya-chan, você está pronta, Fuji-nee?"::
 43388::$$$message_0364_0016_0001$$$::"Sim. Eu já havia decidido atacar aquele lugar primeiro. Eu não precisava do Kotomine para nos dizer isso."::
 43389::$$$message_0364_0016_0002$$$::"Tudo bem, então! Vamos lá!"::
 43390::$$$message_0364_0017_0000$$$::"Até mais, Padre! Vou convidá-lo para a festa assim que nós conseguirmos o Santo Graal!"::
