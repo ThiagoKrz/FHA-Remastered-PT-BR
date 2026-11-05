@@ -38,7 +38,7 @@ id=qid::label=str::text=lstr::
 9363::$$$message_0070_0015_0000$$$::"Sou a ex-capitã. A capitã atual é Matou, bem aqui.[lr]::
 9364::$$$message_0070_0015_0001$$$::O Clube de Arco e Flecha passou para uma nova gestão, então gostaria que parasse de trazer o passado à tona. A nova capitã é uma Senpai gentil que se preocupa com os membros."[lr]::
 9365::$$$message_0070_0015_0002$$$::Mitsuzuri diz isso enquanto toma as rédeas da conversa.::
-9366::$$$message_0070_0016_0000$$$::"Entendo. Sob a liderança da senhorita Matou, o Clube de Arco e Flecha deve ter se tornado muito diferente.[lr]::
+9366::$$$message_0070_0016_0000$$$::"Entendo. Sob a liderança da Matou-san, o Clube de Arco e Flecha deve ter se tornado muito diferente.[lr]::
 9367::$$$message_0070_0016_0001$$$::Mas o que desejam? As apresentações da nova capitã terminaram há muito tempo. Não pretendem pedir um aumento no orçamento do clube nem a troca do professor responsável a esta altura, pretendem?"[lr]::
 9368::$$$message_0070_0016_0002$$$::"N-Não, claro que não.[lr]::
 9369::$$$message_0070_0016_0003$$$::O acordo deste ano já foi definido e acredito que esteja correto."::
@@ -48,7 +48,7 @@ id=qid::label=str::text=lstr::
 9373::$$$message_0070_0017_0003$$$::Quando isso acontece, sua tolerância habitual se cala, e ele se transforma num presidente demoníaco e impiedoso.::
 9374::$$$message_0070_0018_0000$$$::"Ah, senhor presidente do conselho. Que tal não exagerar no sermão? Afinal, com a mudança de gestão, é inevitável que a capacidade organizacional do clube diminua."::
 9375::$$$message_0070_0019_0000$$$::"Fique calado, Emiya.[lr]::
-9376::$$$message_0070_0019_0001$$$::Então, em que posso ajudá-la, senhorita Matou? Para deixar claro desde já, não posso aprovar a extensão dos treinos matinais nem das atividades à tarde. O lema do conselho estudantil é priorizar os estudos acima de tudo."::
+9376::$$$message_0070_0019_0001$$$::Então, em que posso ajudá-la, Matou-san? Para deixar claro desde já, não posso aprovar a extensão dos treinos matinais nem das atividades à tarde. O lema do conselho estudantil é priorizar os estudos acima de tudo."::
 9377::$$$message_0070_0020_0000$$$::"Bem, há algumas exceções.[lr]::
 9378::$$$message_0070_0020_0001$$$::Se a média dos membros do Clube de Arco e Flecha cair muito, consideraremos reduzir o horário das atividades."[lr]::
 9379::$$$message_0070_0020_0002$$$::Ele sorri enquanto profere uma sentença de morte.[lr]::
@@ -69,7 +69,7 @@ id=qid::label=str::text=lstr::
 9394::$$$message_0070_0027_0000$$$::"S-Sim, isso mesmo![lr]::
 9395::$$$message_0070_0027_0001$$$::Então, bem... ouvi dizer que o Templo Ryuudou costumava ceder um salão grande aos alunos de Homurahara..."::
 9396::$$$message_0070_0028_0000$$$::"Que pena.[lr]::
-9397::$$$message_0070_0028_0001$$$::Senhorita Matou, esse sistema foi extinto ontem à noite."[lr]::
+9397::$$$message_0070_0028_0001$$$::Matou-san, esse sistema foi extinto ontem à noite."[lr]::
 9398::$$$message_0070_0028_0002$$$::"Issei. Seu pai disse que podemos ficar no templo pelo tempo que quisermos se prestarmos serviço comunitário. A montanha nos fundos está completamente abandonada, não está?"[lr]::
 9399::$$$message_0070_0028_0003$$$::Repreendo Issei com o olhar, como quem diz que mentir não é certo.::
 9400::$$$message_0070_0029_0000$$$::"Aí está. Senhor presidente do conselho, pode negociar com o Templo Ryuudou?[lr]::
@@ -96,7 +96,7 @@ id=qid::label=str::text=lstr::
 9421::$$$message_0070_0035_0005$$$::O que explica essa mudança súbita de atitude!?::
 9422::$$$message_0070_0036_0000$$$::"É-É sério!? Então, bem, poderemos fazer o retiro assim que terminarem os preparativos!?"::
 9423::$$$message_0070_0037_0000$$$::"Não vejo problema. Falarei com meu pai.[lr]::
-9424::$$$message_0070_0037_0001$$$::Só para confirmar: serão apenas a senhorita Matou, a Mitsuzuri-san e Emiya, correto?"::
+9424::$$$message_0070_0037_0001$$$::Só para confirmar: serão apenas a Matou-san, a Mitsuzuri-san e Emiya, correto?"::
 9425::$$$message_0070_0038_0000$$$::"Sim. Provavelmente mais uma pessoa virá ajudar, mas uma ou duas a mais não fazem diferença, certo?"[lr]::
 9426::$$$message_0070_0038_0001$$$::"Claro. Para nos prepararmos para o retiro oficial, deixarei prontos quartos para cerca de vinte pessoas."::
 9427::$$$message_0070_0039_0000$$$::Os três sorriem em concordância.[lr]::
@@ -132,7 +132,7 @@ id=qid::label=str::text=lstr::
 9457::$$$message_0070_0049_0002$$$::Makidera [wait canskip=0 time=400][movefg textoff=0 opacity=255 left=0 top=0 time=100 accel=0 storage=white][wm canskip=0][se storage=se073.wav][movefg textoff=0 opacity=0 left=0 top=0 time=200 accel=0 storage=white][wm canskip=0][shock vmax=20 time=600 count=7]esperneia ruidosamente de despeito. [wait canskip=0 time=600][movefg textoff=0 opacity=255 left=0 top=0 time=100 accel=0 storage=white][wm canskip=0][se storage=se075.wav][movefg textoff=0 opacity=0 left=0 top=0 time=200 accel=0 storage=white][wm canskip=0][shock vmax=20 time=800 count=9]Sakura a observa com ternura.[lr]::
 9458::$$$message_0070_0049_0003$$$::Entendo. Sakura está acostumada com criaturas desse tipo!::
 9459::$$$message_0070_0050_0000$$$::"...Francamente.[lr]::
-9460::$$$message_0070_0050_0001$$$::Então participe do retiro experimental com a senhorita Matou e os demais, Makidera. Se o clube de atletismo estiver sujeito às mesmas condições, não tenho objeções."[lr]::
+9460::$$$message_0070_0050_0001$$$::Então participe do retiro experimental com a Matou-san e os demais, Makidera. Se o clube de atletismo estiver sujeito às mesmas condições, não tenho objeções."[lr]::
 9461::$$$message_0070_0050_0002$$$::"Argh... Isso significa um retiro conjunto dos Clubes de Arco e Flecha e atletismo?"::
 9462::$$$message_0070_0051_0000$$$::"É o que acontecerá. Mas você não pode ser a única.[lr]::
 9463::$$$message_0070_0051_0001$$$::Para começar, não há garantia de que os membros do clube de atletismo queiram participar. Só permitiremos sua presença se mais da metade apoiar a ideia ou se a capitã atual der sua aprovação.[lr]::

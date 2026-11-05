@@ -61,7 +61,7 @@ id=qid::label=str::text=lstr::
 59::$$$message_0000_0016_0000$$$::"Você deveria se apressar. Vários outros já estão aqui."[lr]::
 60::$$$message_0000_0016_0001$$$::"Sim, senhor. Obrigado por nos receber."[lr]::
 61::$$$message_0000_0016_0002$$$::"Hum."[lr]::
-62::$$$message_0000_0016_0003$$$::"Você vai sair hoje, Souichirou?"::
+62::$$$message_0000_0016_0003$$$::"Você vai sair hoje, Souichirou-sama?"::
 63::$$$message_0000_0017_0000$$$::"Não, eu não tenho negócios lá fora.[lr]::
 64::$$$message_0000_0017_0001$$$::Porém, o Reikan me convidou para uma partida de Go."[lr]::
 65::$$$message_0000_0017_0002$$$::"Entendo..."[lr]::
@@ -91,7 +91,7 @@ id=qid::label=str::text=lstr::
 89::$$$message_0000_0024_0000$$$::"Mmm, o aroma de grama recém-cortada![wvs][shock vmax=15 time=800 count=4][se storage=se040.wav][lr]::
 90::$$$message_0000_0024_0001$$$::Eu reivindico este salão de banquetes em nome do Clube de Arco e Flecha!"[lr]::
 91::$$$message_0000_0024_0002$$$::Rola. Capota. A Mitsuzuri com certeza está de ótimo humor.::
-92::$$$message_0000_0025_0000$$$::"Mitsuzuri, você deveria ouvir a Matou. Isto aqui não é nem um salão de banquetes e nem um saguão. Para ser preciso, é um salão de palestras.[lr]::
+92::$$$message_0000_0025_0000$$$::"Mitsuzuri, você deveria ouvir a Matou-kun. Isto aqui não é nem um salão de banquetes e nem um saguão. Para ser preciso, é um salão de palestras.[lr]::
 93::$$$message_0000_0025_0001$$$::Aqui o Sutra de Lótus é recitado dia e noite. Em outras palavras, é um lugar para se aprender a moral budista, o que o torna uma escola.[lr]::
 94::$$$message_0000_0025_0002$$$::Embora este possa ser um acampamento de treinamento, eu peço que você se comporte com[line len=2]"[lr]::
 95::$$$message_0000_0025_0003$$$::"Olha, olha! Salto mortal invertido de águia aberta!"[lr]::
@@ -314,7 +314,7 @@ id=qid::label=str::text=lstr::
 312::$$$message_0000_0077_0004$$$::"O qu... [cacheimage storage=蒔寺私服04b(中)][wvl canskip=0 time=400][chgfg time=300 storage=蒔寺私服04b(中) textoff=0]Eu passei pela primeira rodada de audições sem nem tentar!?"::
 313::$$$message_0000_0078_0000$$$::"Sim, eu tenho que admitir que você seria a melhor para o papel. Você tem o meu selo de aprovação, Makidera-san."[lr]::
 314::$$$message_0000_0078_0001$$$::"Ergh. Obrigada.[lr]::
-315::$$$message_0000_0078_0002$$$::...Espera aí, não. Quem você pensa que é, Tohsaka!?"[lr]::
+315::$$$message_0000_0078_0002$$$::...Espera aí, não. Quem você pensa que é, Tohsaka-sama!?"[lr]::
 316::$$$message_0000_0078_0003$$$::"É [cacheimage storage=凛私服04c眼鏡(近)][wvl canskip=0 time=400][clfg][fg left=223 index=1000 top=17 storage=凛私服04c眼鏡(近)][dash storage=o柳洞寺_裏(秋)-(昼) page=back textoff=0 mx=-179 opacity=255 layer=all irot=-0.0 cx=626 imag=1.3 time=30 cy=300 mag=1.3 my=0 rot=-0.0 accel=0][transex time=300 textoff=0][font italic=true]Diretora[font italic=false] Tohsaka para você."[lr]::
 317::$$$message_0000_0078_0004$$$::Ela sorri. Ela até mesmo colocou óculos. Hoje, ela é uma aristocrata absoluta.::
 318::$$$message_0000_0079_0000$$$::"Sério!? [wvl canskip=0 time=400]Ah, não, nós não podemos vencer, ela é a mais forte do mundo![lr]::
@@ -581,10 +581,10 @@ id=qid::label=str::text=lstr::
 579::$$$message_0000_0146_0002$$$::"Tchau![lr]::
 580::$$$message_0000_0146_0003$$$::Obrigado pela ajuda, Neko."::
 581::$$$message_0000_0147_0000$$$::"Que incômodo... Como eles podem ser tão barulhentos no meio da noite..."[lr]::
-582::$$$message_0000_0147_0001$$$::"A Matou me pediu para dar as minhas críticas do ensaio amanhã."[lr]::
+582::$$$message_0000_0147_0001$$$::"A Matou-kun me pediu para dar as minhas críticas do ensaio amanhã."[lr]::
 583::$$$message_0000_0147_0002$$$::"...Hã?"::
 584::$$$message_0000_0148_0000$$$::"Fiquei sabendo que você foi convidada para fazer uma pequena participação também. Está disposta a fazer isso?"[lr]::
-585::$$$message_0000_0148_0001$$$::"B-bem, eu não deveria estar apontando os defeitos das crianças... Então se você insiste, Souichirou..."::
+585::$$$message_0000_0148_0001$$$::"B-bem, eu não deveria estar apontando os defeitos das crianças... Então se você insiste, Souichirou-sama..."::
 586::$$$message_0000_0149_0000$$$::Hoje é o dia 11 de outubro.[lr]::
 587::$$$message_0000_0149_0001$$$::O segundo dia do acampamento de treinamento está caótico.::
 588::$$$message_0000_0150_0000$$$::Nós estamos ensaiando uma peça esquisita que é uma fusão do [font italic=true]Momotarou[font italic=false] e [font italic=true]Kintarou,[font italic=false] dois contos de fadas que todo mundo conhece.[lr]::

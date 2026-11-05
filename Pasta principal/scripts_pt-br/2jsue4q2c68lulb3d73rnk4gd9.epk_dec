@@ -53,7 +53,7 @@ id=qid::label=str::text=lstr::
 9554::$$$message_0072_0015_0001$$$::Sella concorda com ela mesma.[lr]::
 9555::$$$message_0072_0015_0002$$$::...Começo a ter um mau pressentimento. A minha precognição para desastres causados pelo homem tem aumentado ultimamente.::
 9556::$$$message_0072_0016_0000$$$::"...Uh, eu vou me retirar então. Eu não vou perguntar o que vocês estão fazendo, mas continuem aproveitando a vista do telhado."[lr]::
-9557::$$$message_0072_0016_0001$$$::"Espere um minuto, Mestre Emiya.[lr]::
+9557::$$$message_0072_0016_0001$$$::"Espere um minuto, Emiya-sama.[lr]::
 9558::$$$message_0072_0016_0002$$$::Isso está fora do assunto, mas essa bolsa que você está segurando é o que você chama de almoço?"::
 9559::$$$message_0072_0017_0000$$$::Isso está totalmente fora do assunto.[lr]::
 9560::$$$message_0072_0017_0001$$$::Deixando isso de lado, o que eu estou segurando é, inegavelmente, uma lancheira. Eu o fiz por capricho antes de sair de casa e acabei o trazendo comigo.::
@@ -105,16 +105,16 @@ id=qid::label=str::text=lstr::
 9606::$$$message_0072_0029_0003$$$::Se eu não escapar dessas duas, não terei uma manhã pacífica.::
 9607::$$$message_0072_0030_0000$$$::"Tudo bem."[wvs][shock vmax=20 time=800 count=2][se storage=se308.wav][lr]::
 9608::$$$message_0072_0030_0001$$$::Eu me levanto.[lr]::
-9609::$$$message_0072_0030_0002$$$::"Mestre Emiya? Você vai procurar por um gravador afinal?"[lr]::
+9609::$$$message_0072_0030_0002$$$::"Emiya-sama? Você vai procurar por um gravador afinal?"[lr]::
 9610::$$$message_0072_0030_0003$$$::"Ah, o bolo de morango jumbo extra-grande classe monstro do Fleur está no pátio da escola!?"::
 9611::$$$message_0072_0031_0000$$$::"Bolo extra-grande classe monstro...!? [wvl][move textoff=0 time=120 path=(306,93,255)(306,74,255)(306,99,255)(306,75,255) storage=セラ01f(近) accel=0]Poderia ser a criatura lendária que atacou a cidade de Atenas!?"[wm canskip=0][lr]::
 9612::$$$message_0072_0031_0001$$$::A Sella corre para a janela e a Leys não para de encarar o meu almoço.::
-9613::$$$message_0072_0032_0000$$$::"Onde![wvl canskip=0 time=400][shock vmax=15 time=400 count=3] Onde ele está, Mestre Emiya!?[lr]::
+9613::$$$message_0072_0032_0000$$$::"Onde![wvl canskip=0 time=400][shock vmax=15 time=400 count=3] Onde ele está, Emiya-sama!?[lr]::
 9614::$$$message_0072_0032_0001$$$::Para ser chamado de jumbo,[movefg opacity=0 left=282 top=65 time=100 accel=0 storage=ハートa textoff=0][movefg opacity=255 left=281 top=56 time=100 accel=0 storage=ハートb textoff=0][cacheimage storage=ハートa,ハートb][wvl] ele precisa ter pelo menos 10 metros de diâmetro ou mais;[movefg opacity=255 left=282 top=75 time=100 accel=0 storage=ハートa textoff=0][movefg opacity=0 left=281 top=56 time=100 accel=0 storage=ハートb textoff=0][cacheimage storage=ハートa,ハートb][wvl] caso contrário, seria enganoso.[movefg opacity=0 left=282 top=75 time=100 accel=0 storage=ハートa textoff=0][movefg opacity=255 left=281 top=56 time=100 accel=0 storage=ハートb textoff=0][cacheimage storage=ハートa,ハートb][wvl] Além disso, o chantilly,[movefg opacity=255 left=282 top=75 time=100 accel=0 storage=ハートa textoff=0][movefg opacity=0 left=281 top=56 time=100 accel=0 storage=ハートb textoff=0][cacheimage storage=ハートa,ハートb][wvl] sem qualquer engenhosidade ou estilo,[movefg opacity=0 left=282 top=75 time=100 accel=0 storage=ハートa textoff=0][movefg opacity=255 left=281 top=56 time=100 accel=0 storage=ハートb textoff=0][cacheimage storage=ハートa,ハートb][wvl] é um trabalho de copiar e colar que continua sem fim, como um trabalho feito às pressas.[movefg opacity=255 left=282 top=75 time=100 accel=0 storage=ハートa textoff=0][movefg opacity=0 left=281 top=56 time=300 accel=0 storage=ハートb textoff=0][cacheimage storage=ハートa,ハートb][wvl] Nem mesmo a defesa da 'simetria' se sustentaria[line len=2][movefg opacity=0 left=282 top=75 time=100 accel=0 storage=ハートa textoff=0][movefg opacity=255 left=281 top=56 time=100 accel=0 storage=ハートb textoff=0][cacheimage storage=ハートa,ハートb,きゃー文字][wvl]é o produto instantâneo definitivo![movefg opacity=255 left=282 top=75 time=100 accel=0 storage=ハートa textoff=0][movefg opacity=0 left=281 top=56 time=100 accel=0 storage=ハートb textoff=0][movefg opacity=255 left=454 top=184 time=10 accel=0 storage=きゃー文字 textoff=0][lr]::
 9615::$$$message_0072_0032_0002$$$::...Aaah, eu sinto como se os fundamentos mágicos de alguém desmoronassem só de imaginar que um bolo tão vulgar e de mau gosto exista!"::
 9616::$$$message_0072_0033_0000$$$::A Sella grita de alegria.[lr]::
 9617::$$$message_0072_0033_0001$$$::...Hum, então. Pode haver algum defeito grave na fundação mágica dos Einzbern.::
-9618::$$$message_0072_0034_0000$$$::"Hã!? Leys, para onde o Mestre Emiya foi!?"[lr]::
+9618::$$$message_0072_0034_0000$$$::"Hã!? Leys, para onde o Emiya-sama foi!?"[lr]::
 9619::$$$message_0072_0034_0001$$$::"Corredor. Fugiu que nem idiota."[lr]::
 9620::$$$message_0072_0034_0002$$$::"Será que essa era a intenção dele...!?[lr]::
 9621::$$$message_0072_0034_0003$$$::Kgh, que engenhoso...![cacheimage storage=セラ02e(遠)][wvl canskip=0 time=200][chgfg textoff=0 time=200 storage=セラ02e(遠)] Nós devemos ir atrás dele, Leysritt! Não podemos deixá-lo escapar!"::
@@ -127,14 +127,14 @@ id=qid::label=str::text=lstr::
 9628::$$$message_0072_0037_0000$$$::Embora eu tenha me livrado completamente do grupo de perseguição, já é quase meio-dia...[lr]::
 9629::$$$message_0072_0037_0001$$$::"Aham. Shirou, bem-vindo de volta."[lr]::
 9630::$$$message_0072_0037_0002$$$::A Leys estava esperando por mim no dojô de arco e flecha.::
-9631::$$$message_0072_0038_0000$$$::"E-eu te alcancei... Haah...[wvl canskip=0 time=400]haah... [wvl canskip=0 time=400]M-[wvl canskip=0 time=400]Mestre Emiya, por favor...[wvl canskip=0 time=400]não...[wvl canskip=0 time=400]se...[wvl canskip=0 time=400]importe...[wvl canskip=0 time=400]conosco."[wm canskip=0][lr]::
+9631::$$$message_0072_0038_0000$$$::"E-eu te alcancei... Haah...[wvl canskip=0 time=400]haah... [wvl canskip=0 time=400]M-[wvl canskip=0 time=400]Emiya-sama, por favor...[wvl canskip=0 time=400]não...[wvl canskip=0 time=400]se...[wvl canskip=0 time=400]importe...[wvl canskip=0 time=400]conosco."[wm canskip=0][lr]::
 9632::$$$message_0072_0038_0001$$$::A Sella chega, ofegante.[lr]::
 9633::$$$message_0072_0038_0002$$$::Ouvi dizer que ela é bastante desengonçada, mas ela tem um bom fôlego para me seguir até aqui. Ela deve ter muita coragem.[lr]::
 9634::$$$message_0072_0038_0003$$$::...De fato, há algo errado com a fundação mágica dos Einzbern afinal de contas.::
 9635::$$$message_0072_0039_0000$$$::"...Tudo bem. Eu desisto. Eu almoçarei obedientemente. E vou dividir com vocês duas, então me deem um tempo."[lr]::
 9636::$$$message_0072_0039_0001$$$::...Entendo.[lr]::
 9637::$$$message_0072_0039_0002$$$::Deixando a Sella de lado, eu poderia ter dado meu almoço para a Leys.::
-9638::$$$message_0072_0040_0000$$$::"Sim, [wvl canskip=0 time=30]você tem razão...[wvl canskip=0 time=300]haah... Eu...[wvl canskip=0 time=300]também... Gostaria de...[wvl canskip=0 time=300]obter alguns nutrientes. [wvl canskip=0 time=300]Ao pesquisar a...[wvl canskip=0 time=300]comida do Mestre Emiya...[wvl canskip=0 time=300]Nós concluiremos a nossa...[wvl canskip=0 time=300]haah...[wvl canskip=0 time=300]nossa...[wvl canskip=0 time=300]haah...[wvl canskip=0 time=300]investigação."[lr]::
+9638::$$$message_0072_0040_0000$$$::"Sim, [wvl canskip=0 time=30]você tem razão...[wvl canskip=0 time=300]haah... Eu...[wvl canskip=0 time=300]também... Gostaria de...[wvl canskip=0 time=300]obter alguns nutrientes. [wvl canskip=0 time=300]Ao pesquisar a...[wvl canskip=0 time=300]comida do Emiya-sama...[wvl canskip=0 time=300]Nós concluiremos a nossa...[wvl canskip=0 time=300]haah...[wvl canskip=0 time=300]nossa...[wvl canskip=0 time=300]haah...[wvl canskip=0 time=300]investigação."[lr]::
 9639::$$$message_0072_0040_0001$$$::Sella se arrasta até o meu almoço e se joga no chão.::
 9640::$$$message_0072_0041_0000$$$::"Sella, não devore.[lr]::
 9641::$$$message_0072_0041_0001$$$::Precisar dividir a do Shirou entre nós."[lr]::
