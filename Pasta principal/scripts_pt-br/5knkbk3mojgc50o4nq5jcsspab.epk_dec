@@ -90,13 +90,13 @@ id=qid::label=str::text=lstr::
 29418::$$$message_0212_0016_0004$$$::Os monstros mataram todo mundo, ou eles nunca existiram para começo de conversa?[lr]::
 29419::$$$message_0212_0016_0005$$$::Deve ser a segunda opção.[lr]::
 29420::$$$message_0212_0016_0006$$$::Os monstros atacam humanos, mas ela nunca viu um deles matando um humano.::
-29421::$$$message_0212_0017_0000$$$::...Eles só tocam aqueles que são como eles.[lr]::
-29422::$$$message_0212_0017_0001$$$::Eles só demonstram algum interesse, algum ódio, por monstros como eles.[rf]::
+29421::$$$message_0212_0017_0000$$$::                  ...Eles só tocam aqueles que são como eles.[lr]::
+29422::$$$message_0212_0017_0001$$$::                  Eles só demonstram algum interesse, algum ódio, por monstros como eles.[rf]::
 29423::$$$message_0212_0018_0000$$$::"...Hmm?"[lr]::
 29424::$$$message_0212_0018_0001$$$::Por isso ela ficou surpresa.[lr]::
 29425::$$$message_0212_0018_0002$$$::Ela assumiu que não haveria humanos sobrando uma vez que os monstros saíssem à noite.[lr]::
 29426::$$$message_0212_0018_0003$$$::Então, quando ela viu uma garota no parque...[lr]::
-29427::$$$message_0212_0018_0004$$$::(ainda que soubesse com um olhar que era humano)[rf][lr]::
+29427::$$$message_0212_0018_0004$$$::                            (ainda que soubesse com um olhar que era humano)[rf][lr]::
 29428::$$$message_0212_0018_0005$$$::...ela não hesitou em empalá-la.::
 29429::$$$message_0212_0019_0000$$$::"Hah."[lr]::
 29430::$$$message_0212_0019_0001$$$::Sua confusão e arrependimento desapareceram imediatamente.[lr]::
@@ -178,10 +178,10 @@ id=qid::label=str::text=lstr::
 29506::$$$message_0212_0034_0002$$$::Mas ela estava tão muito sozinha e triste. Não sabia o que tinha feito de errado.::
 29507::$$$message_0212_0035_0000$$$::"Rider, você choraria se estivesse sozinha.[lr]::
 29508::$$$message_0212_0035_0001$$$::Como sua família, nunca perdoaremos essa vergonha."[lr]::
-29509::$$$message_0212_0035_0002$$$::Depois de um tempo, suas irmãs mais velhas vieram para a ilha, Onee-san.[lr]::
+29509::$$$message_0212_0035_0002$$$::Depois de um tempo, suas irmãs mais velhas vieram para a ilha.[lr]::
 29510::$$$message_0212_0035_0003$$$::"Eu não me importo com o que aconteça com você, Medusa... mas preciso de um Servo."::
 29511::$$$message_0212_0036_0000$$$::Como é maravilhoso.[lr]::
-29512::$$$message_0212_0036_0001$$$::As irmãs da princesa eram amadas por todos, mas elas ainda escolheram viver com ela na ilha, Onee-san.::
+29512::$$$message_0212_0036_0001$$$::As irmãs da princesa eram amadas por todos, mas elas ainda escolheram viver com ela na ilha.::
 29513::$$$message_0212_0037_0000$$$::Sua solidão desapareceu.[lr]::
 29514::$$$message_0212_0037_0001$$$::A ilha ainda estava vazia, mas isso estava bem, desde que suas irmãs estivessem aqui.::
 29515::$$$message_0212_0038_0000$$$::Agora ela só temia os humanos.[lr]::
@@ -311,12 +311,12 @@ id=qid::label=str::text=lstr::
 29639::$$$message_0212_0065_0002$$$::Parece que meus lábios estão ficando soltos porque estou diante do meu fim... Mas na verdade somos nós que nos voltamos para você."[lr]::
 29640::$$$message_0212_0065_0003$$$::Os dias passados nunca voltarão.[lr]::
 29641::$$$message_0212_0065_0004$$$::Euryale acreditava que um dia escapariam desse templo rústico e voltariam para casa. Sorriu como costumava e ergueu a cabeça.::
-29642::$$$message_0212_0066_0000$$$::"STOp...stoP StoP StoP...!"[rf]::
+29642::$$$message_0212_0066_0000$$$::                                              "PAre...paRE PaRE PaRE...!"[rf]::
 29643::$$$message_0212_0067_0000$$$::Milhões de serpentes devoraram as oferendas.[lr]::
 29644::$$$message_0212_0067_0001$$$::Não havia alegria nem tristeza nisso.[lr]::
 29645::$$$message_0212_0067_0002$$$::O monstro os reduziu a nada, como formigas invadindo um pedaço de comida.[lr]::
 29646::$$$message_0212_0067_0003$$$::No fim, as irmãs imortais...[lr]::
-29647::$$$message_0212_0067_0004$$$::(que eram belas irmãs até o fim...)[lr]::
+29647::$$$message_0212_0067_0004$$$::                              (que eram belas irmãs até o fim...)[lr]::
 29648::$$$message_0212_0067_0005$$$::Ambos se tornaram parte viva do monstro.::
 29649::$$$message_0212_0068_0000$$$::Nenhuma traça restou. Eles se tornaram o sangue que manteria o monstro em movimento.[lr]::
 29650::$$$message_0212_0068_0001$$$::As três irmãs de Gorgon[line len=2]o Templo Escuro.[lr]::
@@ -400,8 +400,8 @@ id=qid::label=str::text=lstr::
 29728::$$$message_0212_0084_0002$$$::Não havia como salvá-la desde o início.[lr]::
 29729::$$$message_0212_0084_0003$$$::Então ela não quer nada.[lr]::
 29730::$$$message_0212_0084_0004$$$::Não importa como ela gasta seus dias, no fim ela se tornará uma criatura assassina, devoradora e deixará nada para trás.::
-29731::$$$message_0212_0085_0000$$$::...Mas.[lr]::
-29732::$$$message_0212_0085_0001$$$::Ainda há alguém que eu posso salvar.::
+29731::$$$message_0212_0085_0000$$$::                                 ...Mas.[lr]::
+29732::$$$message_0212_0085_0001$$$::                                 Ainda há alguém que eu posso salvar.::
 29733::$$$message_0212_0086_0000$$$::...Servos são invocados por Mestres parecidos com eles.[lr]::
 29734::$$$message_0212_0086_0001$$$::Isso é ainda mais verdadeiro quando o catalisador da invocação é fraco.[lr]::
 29735::$$$message_0212_0086_0002$$$::Ela respondeu ao convocação da menina porque tinham destinos semelhantes.[lr]::
@@ -444,3 +444,4 @@ id=qid::label=str::text=lstr::
 29772::$$$message_0212_0094_0002$$$::"Vou voltar em breve, então... Por favor, espere por mim, [wvl][se storage=se137.wav]Sakura."[lr]::
 29773::$$$message_0212_0094_0003$$$::...ela fala uma promessa que não consegue cumprir, e sua bela forma desaparece da terra.::
 929610::$$$message_9212_0058_0000$$$::"Que irmãzinha tola..."[r]::
+

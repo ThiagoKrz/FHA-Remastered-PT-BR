@@ -3,15 +3,15 @@ id=qid::label=str::text=lstr::
 43874::$$$message_0374_0000_0000$$$::"Essa floresta vai longe mesmo. Berserker está por aqui?"::
 43875::$$$message_0374_0000_0001$$$::"...Ele está perto, sem dúvida. Consigo senti-lo."::
 43876::$$$message_0374_0000_0002$$$::"É? Então acho melhor continuarmos em linha reta."::
-43877::$$$message_0374_0000_0003$$$::"Ainda não mencionei, mas não estou muito confiante em meu senso de direção...[wvs][hffacechg chara=藤ねえ face=うーん2 layer=1 left=7 top=397 time=200][se storage=se025.wav][hfchance layer=1][hfquake layer=message1 time=800 wait=0 hmax=5 vmax=15][say storage=HSTR6_TIG_0040 _name=藤ねえ]ow, Fuji-Nee!"::
-43878::$$$message_0374_0000_0004$$$::"Isso doeu... [l][hfwww layer=1][say storage=HSTR6_TIG_0070 _name=藤ねえ]Que diabos? Quem plantou essa árvore no meio do caminho? Está bloqueando o tráfego[line len=2], Fuji-Nee"::
+43877::$$$message_0374_0000_0003$$$::"Ainda não mencionei, mas não estou muito confiante em meu senso de direção...[wvs][hffacechg chara=藤ねえ face=うーん2 layer=1 left=7 top=397 time=200][se storage=se025.wav][hfchance layer=1][hfquake layer=message1 time=800 wait=0 hmax=5 vmax=15][say storage=HSTR6_TIG_0040 _name=藤ねえ]ow!"::
+43878::$$$message_0374_0000_0004$$$::"Isso doeu... [l][hfwww layer=1][say storage=HSTR6_TIG_0070 _name=藤ねえ]Que diabos? Quem plantou essa árvore no meio do caminho? Está bloqueando o tráfego[line len=2]"::
 43879::$$$message_0374_0000_0005$$$::"......"::
 43880::$$$message_0374_0000_0006$$$::"GAHHHHHH!"[rf]::
 43881::$$$message_0374_0001_0000$$$::"Macho! Sua aura muscular é tão macha que consegue deixar murchar todas as árvores dentro de meia acre!"::
 43883::$$$message_0374_0001_0002$$$::"E-e-e-essa é a Mestra loli dos Einzbern de quem ouvi tanto falar!?"::
 43884::$$$message_0374_0001_0003$$$::"Claro que não, seu idiota![lr]::
 43885::$$$message_0374_0001_0004$$$::Céus, mesmo depois de virar um Servo você continua com pudim no lugar do cérebro."::
-43886::$$$message_0374_0001_0005$$$::"Hmm? Illya-chan, por que você mudou de roupa de repente? [l][hffeelgood layer=1][say storage=HSTR6_TIG_0130 _name=藤ねえ]O que aconteceu com seu antigo uniforme de P.E., Fuji-Nee?"::
+43886::$$$message_0374_0001_0005$$$::"Hmm? Illya-chan, por que você mudou de roupa de repente? [l][hffeelgood layer=1][say storage=HSTR6_TIG_0130 _name=藤ねえ]O que aconteceu com seu antigo uniforme de P.E.?"::
 43887::$$$message_0374_0001_0006$$$::"Strike, [hfchance layer=0]dummy! Preste atenção! Estou aqui! [hfchance layer=0]Ela é uma farsa."::
 43888::$$$message_0374_0001_0007$$$::"Agora, para de se esconder atrás da Taiga e saia daí, você é um perdedor sem para onde ir."::
 43889::$$$message_0374_0001_0008$$$::"..."::
@@ -29,7 +29,7 @@ id=qid::label=str::text=lstr::
 43902::$$$message_0374_0003_0004$$$::"...Foi fraco, até para você, Taiga."::
 43903::$$$message_0374_0003_0005$$$::"É o que é. Se minha impostora pode se tornar um Servo, não é surpresa que ela tenha acabado com um Servo de quinta categoria."::
 43904::$$$message_0374_0003_0006$$$::"Hmm, rebater com piadinhas era um dos meus talentos como Servo?"::
-43905::$$$message_0374_0003_0007$$$::"Enfim, quem liga?[l][hfchance layer=1][say storage=HSTR6_TIG_0240 _name=藤ねえ] Então você é a versão mais séria e profissional da Illya-chan, Fuji-Nee!"[hffacechg chara=イリヤ face=楽 layer=0 time=200]::
+43905::$$$message_0374_0003_0007$$$::"Enfim, quem liga?[l][hfchance layer=1][say storage=HSTR6_TIG_0240 _name=藤ねえ] Então você é a versão mais séria e profissional da Illya-chan!"[hffacechg chara=イリヤ face=楽 layer=0 time=200]::
 43906::$$$message_0374_0003_0008$$$::"E você quer dizer que minha Illya-chan é uma falsa? Ela é alguém disfarçado como Illya-chan?"::
 43907::$$$message_0374_0003_0009$$$::"Não é disfarce. Eu sou a Illya de verdade. Só... vim de um ambiente diferente, acho..."::
 43908::$$$message_0374_0003_0010$$$::"Ela está dizendo que foi invocada de outro mundo, Taiga. Ao contrário dos Espíritos Heroicos, que transcenderam as linhas do tempo, ela é uma forasteira vinda de um mundo completamente diferente."::
@@ -49,7 +49,7 @@ id=qid::label=str::text=lstr::
 43922::$$$message_0374_0004_0003$$$::"...Bem. Faça isso, Berserker."::
 43923::$$$message_0374_0004_0004$$$::"..."::
 43924::$$$message_0374_0005_0000$$$::"T-[l][hfchance layer=1][say storage=HSTR6_BIR_0100 _name=ブルマイリヤ]Taiga!?"[nolr][p]::
-43925::$$$message_0374_0005_0001$$$::"Hmm. Isso não soa estranho pra você? [l][hffacechg chara=藤ねえ face=うーん2 layer=1 time=200][say storage=HSTR6_TIG_0290 _name=藤ねえ]Mesmo que Illya-chan te mate, só deveria acontecer depois que perdemos, Fuji-Nee."::
+43925::$$$message_0374_0005_0001$$$::"Hmm. Isso não soa estranho pra você? [l][hffacechg chara=藤ねえ face=うーん2 layer=1 time=200][say storage=HSTR6_TIG_0290 _name=藤ねえ]Mesmo que Illya-chan te mate, só deveria acontecer depois que perdemos."::
 43926::$$$message_0374_0005_0002$$$::"Este concurso ainda não terminou."[nolr][p]::
 43927::$$$message_0374_0005_0003$$$::"B-[wait canskip=0 time=200][wvs][hfangry layer=0][say storage=HSTR6_IRI_0270 _name=イリヤ]mas eu já disse isso desde o início: sua Illya é falsa!"::
 43928::$$$message_0374_0005_0004$$$::"Ela não vai conseguir ficar muito tempo, não importa o que aconteça, e ela não é a Illya que você conhece!"::
@@ -58,7 +58,7 @@ id=qid::label=str::text=lstr::
 43931::$$$message_0374_0006_0002$$$::"Eu não aceito isso! Não tenho interesse em imitações!"::
 43932::$$$message_0374_0006_0003$$$::"..."::
 43933::$$$message_0374_0006_0004$$$::"Direito? Então, acalme-se e...[line len=2]"::
-43934::$$$message_0374_0006_0005$$$::"Mas isso não é o problema aqui! [l][hfchance layer=0][say storage=HSTR6_TIG_0340 _name=藤ねえ]Para ser honesto, eu não me importo quem é real ou falso, Fuji-Nee!"::
+43934::$$$message_0374_0006_0005$$$::"Mas isso não é o problema aqui! [l][hfchance layer=0][say storage=HSTR6_TIG_0340 _name=藤ねえ]Para ser honesto, eu não me importo quem é real ou falso!"::
 43935::$$$message_0374_0007_0000$$$::[hffacechg chara=藤ねえ face=まったく layer=0 time=200]"Primeiro, você só acabou de me dizer um monte de coisas que quase não entendo, Fuji-Nee!"::
 43936::$$$message_0374_0007_0001$$$::"Illya-chan é Illya-chan!"::
 43937::$$$message_0374_0007_0002$$$::"Mesmo que ela não venha daqui, ela sabia e me convocou, Illya-chan."::
@@ -78,7 +78,7 @@ id=qid::label=str::text=lstr::
 43951::$$$message_0374_0010_0004$$$::"...Haha. [l][hfwww layer=1][say storage=HSTR6_BIR_0200 _name=ブルマイリヤ]Fico admirado com o quanto você é burro![lr]::
 43952::$$$message_0374_0010_0005$$$::Mas isso me atingiu direto no coração, Mestre! Vou me tornar seu discípulo!"::
 43953::$$$message_0374_0010_0006$$$::"Você pode ser meu Servo, mas eu sempre vou respeitá-lo como mentor!"::
-43954::$$$message_0374_0010_0007$$$::"Hmm? De verdade? [l][hfchance layer=0][say storage=HSTR6_TIG_0500 _name=藤ねえ]Viva! Obrigado, Illya! Fazia anos que não abria o Dojô do Tigre, e finalmente tenho um aluno favorito, Fuji-Nee!"::
+43954::$$$message_0374_0010_0007$$$::"Hmm? De verdade? [l][hfchance layer=0][say storage=HSTR6_TIG_0500 _name=藤ねえ]Viva! Obrigado, Illya! Fazia anos que não abria o Dojô do Tigre, e finalmente tenho um aluno favorito!"::
 43955::$$$message_0374_0010_0008$$$::"......"::
 43956::$$$message_0374_0010_0009$$$::"...[hfchance layer=0]Ei. Por que você está sorrindo, Berserker?"::
 43957::$$$message_0374_0010_0010$$$::"..."::
@@ -89,4 +89,4 @@ id=qid::label=str::text=lstr::
 43962::$$$message_0374_0010_0015$$$::"Vem! Vamos lá, Illya-chan![lr]::
 43963::$$$message_0374_0010_0016$$$::[hffacechg chara=藤ねえ face=怒 layer=1 time=200]Vamos derrubar essa Illya-chan e reduzir o número de heroínas em um, Fuji-Nee!"::
 43964::$$$message_0374_0010_0017$$$::"...Um, eu não acho que esse número vai mudar, não importa quem ganhe."[nolr][p]::
-=
+

@@ -13,7 +13,7 @@ id=qid::label=str::text=lstr::
 2085::$$$message_0010_0003_0002$$$::"Certo, vou ajudar."[lr]::
 2086::$$$message_0010_0003_0003$$$::De qualquer forma, eu já estava cansando de ficar à toa.[lr]::
 2087::$$$message_0010_0003_0004$$$::Seria muito mais proveitoso passar o tempo ajudando Sakura.::
-2088::$$$message_0010_0004_0000$$$::"Ahn, mas você deveria estar descansando..., Senpai"[lr]::
+2088::$$$message_0010_0004_0000$$$::"Ahn, mas você deveria estar descansando, Senpai..."[lr]::
 2089::$$$message_0010_0004_0001$$$::"Já descansei bastante.[lr]::
 2090::$$$message_0010_0004_0002$$$::...Hum. Pensando bem, você já cozinha tão bem que não precisa mais de ajuda. Talvez eu não tenha nada para fazer."::
 2091::$$$message_0010_0005_0000$$$::"N-não é verdade! Ainda não aprendi tudo o que você tem para me ensinar, Senpai!"[lr]::
@@ -28,7 +28,7 @@ id=qid::label=str::text=lstr::
 2100::$$$message_0010_0008_0000$$$::"Há duas caixas de caquis aí dentro. Vamos ter que juntar todo mundo para comer de novo."[lr]::
 2101::$$$message_0010_0008_0001$$$::"Foram um presente da Fujimura-Sensei? Eu agradeço, mas... [cacheimage storage=桜私服08l(中)][wvl canskip=false time=400][se storage=se503.wav][chgfg storage=桜私服08l(中) time=300 textoff=0]Nossa."::
 2102::$$$message_0010_0009_0000$$$::"São tantos... Isto é tudo?"[lr]::
-2103::$$$message_0010_0009_0001$$$::"Fuji-Nee, Parece que ela tem ainda mais em casa."::
+2103::$$$message_0010_0009_0001$$$::"Parece que ela tem ainda mais em casa."::
 2104::$$$message_0010_0010_0000$$$::"Se fossem maçãs, poderíamos dar cabo delas depressa fazendo tortas e coisas do tipo... O que podemos fazer com caquis?"::
 2105::$$$message_0010_0011_0000$$$::Hum... [chgfg time=300 storage=桜私服08l(中) textoff=0]Por que não?[lr]::
 2106::$$$message_0010_0011_0001$$$::Começo a tirar os caquis da caixa. São grandes o bastante, então devem servir.::
@@ -36,7 +36,7 @@ id=qid::label=str::text=lstr::
 2108::$$$message_0010_0012_0001$$$::"Com eles...? Quer dizer, [cacheimage storage=桜私服14c(中)][wvl canskip=false time=400][chgfg storage=桜私服14c(中) time=300 textoff=0]os caquis!?"::
 2109::$$$message_0010_0013_0000$$$::"Sim. São tão versáteis quanto maçãs. Podemos usá-los em saladas, por exemplo. [cacheimage storage=桜私服09b(中)][wvl][chgfg time=300 storage=桜私服09b(中) textoff=0]Então serão o ingrediente de hoje."[lr]::
 2110::$$$message_0010_0013_0001$$$::É minha primeira tentativa, mas chegou a hora de explorar novos cardápios. Peço orientação aos deuses da culinária.::
-2111::$$$message_0010_0014_0000$$$::"Parece interessante., Senpai"[lr]::
+2111::$$$message_0010_0014_0000$$$::"Parece interessante, Senpai."[lr]::
 2112::$$$message_0010_0014_0001$$$::"Separe vários dos mais firmes para cozinhar...[cacheimage storage=桜私服07c(中)][wvl][chgfg time=300 storage=桜私服07c(中) textoff=0] e guardamos os mais macios para a sobremesa."::
 2113::$$$message_0010_0015_0000$$$::"Certo!"::
 2114::$$$message_0010_0016_0000$$$::Sakura usa a saia como uma cesta para carregar os caquis.[lr]::
@@ -103,4 +103,4 @@ id=qid::label=str::text=lstr::
 2175::$$$message_0010_0034_0000$$$::"Vamos começar, Senpai!"[lr]::
 2176::$$$message_0010_0034_0001$$$::"Primeiro, descascamos os caquis... Ah, eles têm sementes, então corte-os na direção certa."[lr]::
 2177::$$$message_0010_0034_0002$$$::"Sim! Vou me esforçar!"::
-�
+

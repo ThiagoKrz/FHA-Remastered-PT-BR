@@ -21,7 +21,7 @@ id=qid::label=str::text=lstr::
 43694::$$$message_0370_0004_0000$$$::[hfu]"[hfl]"[hfu][line len=1][hfl][line len=1][hfu][line len=1][hfl][line len=1][hfu][line len=1][hfl][line len=1][hfu][line len=1][hfl][line len=1][hfu][line len=1][hfl][line len=1][hfu][line len=1][hfl][line len=1][hfu]"[hfl]"[playstop time=6000 nowait=true][wait canskip=0 time=3000][nolr][p]::
 43695::$$$message_0370_0004_0001$$$::"...Ei.[lr]::
 43696::$$$message_0370_0004_0002$$$::Digam alguma coisa, vocês."::
-43697::$$$message_0370_0004_0003$$$::"...Hã? Ah, [l][hfchance layer=1][say storage=HSTR4_TIG_0020 _name=藤ねえ]droga, esqueci tudo, Fuji-Nee."::
+43697::$$$message_0370_0004_0003$$$::"...Hã? Ah, [l][hfchance layer=1][say storage=HSTR4_TIG_0020 _name=藤ねえ]droga, esqueci tudo."::
 43698::$$$message_0370_0004_0004$$$::"Hum, cuidado, Illya-chan. A Tohsaka-san está estranha hoje. Na verdade, parece quase outra pessoa...!"::
 43699::$$$message_0370_0004_0005$$$::"Então ela não era tão direta assim, no fim das contas!"::
 43700::$$$message_0370_0004_0006$$$::"Acho que vocês duas poderiam disputar essa honra... Embora, sim, a Rin esteja cometendo suicídio social sozinha."::
@@ -48,5 +48,6 @@ id=qid::label=str::text=lstr::
 43721::$$$message_0370_0006_0005$$$::"Eu disse: nada de confraternizar![lr]::
 43722::$$$message_0370_0006_0006$$$::Saber e Sakura estão fora da luta, e Emiya-kun está estirado ali. Você é a única que resta, Illya."::
 43723::$$$message_0370_0006_0007$$$::"É hora de decidir de uma vez por todas quem é a mais forte da casa Emiya!"::
-43724::$$$message_0370_0006_0008$$$::"Isso aí! [l][hffacechg chara=藤ねえ face=うーん layer=1 time=200][hfchance layer=1][say storage=HSTR4_TIG_0120 _name=藤ねえ]Espera, e eu!, Fuji-Nee?[lr]::
-43725::$$$message_0370_0006_0009$$$::[hfwww layer=1]Como é que eu não conto como heroína rival, Tohsaka!?"[nolr][p]:��
+43724::$$$message_0370_0006_0008$$$::"Isso aí! [l][hffacechg chara=藤ねえ face=うーん layer=1 time=200][hfchance layer=1][say storage=HSTR4_TIG_0120 _name=藤ねえ]Espera, e eu!?[lr]::
+43725::$$$message_0370_0006_0009$$$::[hfwww layer=1]Como é que eu não conto como heroína rival, Tohsaka!?"[nolr][p]::
+

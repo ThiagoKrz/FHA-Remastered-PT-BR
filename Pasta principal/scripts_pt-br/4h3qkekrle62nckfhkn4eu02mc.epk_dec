@@ -71,7 +71,7 @@ id=qid::label=str::text=lstr::
 29048::$$$message_0208_0025_0002$$$::"Pronto. Aqui, Onii-chan."::
 29049::$$$message_0208_0026_0000$$$::Despejo um pouco do elixir no copo que me estendem.[lr]::
 29050::$$$message_0208_0026_0001$$$::O copo da própria Illya só tem água. Hã? Ela não vai beber nada?::
-29051::$$$message_0208_0027_0000$$$::[movefg opacity=0 left=600 top=132 time=300 accel=2 storage=凛私服01e(中) textoff=0][movefg opacity=0 left=-54 top=141 time=300 accel=2 storage=セイバー私服06a腕b(中) textoff=0][movefg opacity=0 left=259 top=266 time=300 accel=2 storage=イリヤ01f(中) textoff=0][resumevoice]"Todo mundo, [cacheimage storage=セイバー私服01b(近),イリヤ11d(近),凛私服05f(近)][wvl canskip=false time=100][movefg opacity=255 left=-86 top=70 time=300 accel=2 storage=セイバー私服01b(近) textoff=0][movefg opacity=255 left=211 top=155 time=300 accel=2 storage=イリヤ11d(近) textoff=0][movefg opacity=255 left=197 top=23 time=300 accel=2 storage=凛私服05f(近) textoff=0]vamos brindar!"[se storage=se562.wav][wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][movefg opacity=255 left=219 top=38 time=500 accel=-2 storage=凛私服05f(近) textoff=0][movefg opacity=255 left=209 top=167 time=500 accel=-2 storage=イリヤ11d(近) textoff=0][movefg opacity=255 left=-106 top=79 time=500 accel=-2 storage=セイバー私服01b(近) textoff=0][wm canskip=0][wm canskip=0][wm canskip=0][rf]::
+29051::$$$message_0208_0027_0000$$$::                         [movefg opacity=0 left=600 top=132 time=300 accel=2 storage=凛私服01e(中) textoff=0][movefg opacity=0 left=-54 top=141 time=300 accel=2 storage=セイバー私服06a腕b(中) textoff=0][movefg opacity=0 left=259 top=266 time=300 accel=2 storage=イリヤ01f(中) textoff=0][resumevoice]"Todo mundo, [cacheimage storage=セイバー私服01b(近),イリヤ11d(近),凛私服05f(近)][wvl canskip=false time=100][movefg opacity=255 left=-86 top=70 time=300 accel=2 storage=セイバー私服01b(近) textoff=0][movefg opacity=255 left=211 top=155 time=300 accel=2 storage=イリヤ11d(近) textoff=0][movefg opacity=255 left=197 top=23 time=300 accel=2 storage=凛私服05f(近) textoff=0]vamos brindar!"[se storage=se562.wav][wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][movefg opacity=255 left=219 top=38 time=500 accel=-2 storage=凛私服05f(近) textoff=0][movefg opacity=255 left=209 top=167 time=500 accel=-2 storage=イリヤ11d(近) textoff=0][movefg opacity=255 left=-106 top=79 time=500 accel=-2 storage=セイバー私服01b(近) textoff=0][wm canskip=0][wm canskip=0][wm canskip=0][rf]::
 29052::$$$message_0208_0028_0000$$$::Eu dou um leve clique no copo contra os outros e o levanto até os lábios...[lr]::
 29053::$$$message_0208_0028_0001$$$::...Me sinto muito relutante em fazer isso. Tenho uma premonição de que isso vai me dar um susto forte. Lembro de tudo o que a Fuji-Nee já me enganou para beber ao longo dos anos.[lr]::
 29054::$$$message_0208_0028_0002$$$::Na verdade, tudo isso pode evaporar enquanto eu decido se devo bebê-lo.[lr]::
@@ -112,7 +112,7 @@ id=qid::label=str::text=lstr::
 29089::$$$message_0208_0041_0000$$$::[chgfg time=300 storage=イリヤ06e(近) textoff=0]Illya diz "tee-hee" e dá uma batidinha zombeteira na própria cabeça.[lr]::
 29090::$$$message_0208_0041_0001$$$::Ela está reclamando de Leys, que não está aqui.::
 29091::$$$message_0208_0042_0000$$$::"Eu não imaginava que isso fosse acontecer quando tirei isso escondido debaixo do nariz da Sella..."[lr]::
-29092::$$$message_0208_0042_0001$$$::"\"Amostras de teste\", foi isso que você disse?"[lr]::
+29092::$$$message_0208_0042_0001$$$::"'Amostras de teste', foi isso que você disse?"[lr]::
 29093::$$$message_0208_0042_0002$$$::"É. Elas fazem umas coisas engraçadas acontecerem, mas basicamente são inofensivas. Agora a reação da Rin faz sentido."::
 29094::$$$message_0208_0043_0000$$$::"Então para de rodeios, Meowsviel, [cacheimage storage=イリヤ07d(近)][wvl][chgfg time=300 storage=イリヤ07d(近) textoff=0]e conta logo o que você sabe!"[lr]::
 29095::$$$message_0208_0043_0001$$$::[move time=150 path=(123,30,255)(149,23,255)(124,30,255)(153,23,255) storage=凛私服05g(近) accel=0 spline=1 textoff=0][move time=180 path=(9,211,255)(21,200,255)(9,209,255)(24,201,255) storage=イリヤ07d(近) accel=0 spline=1 textoff=0]...Então este é o efeito da amostra de teste.[lr]::
@@ -154,3 +154,4 @@ id=qid::label=str::text=lstr::
 29131::$$$message_0208_0057_0000$$$::"Acho que eles ainda são novos demais para beber, né, Onii-chan?"[lr]::
 29132::$$$message_0208_0057_0001$$$::"Não se faça de inocente. E vocês duas, se acalmem. Não teria graça nenhuma se eu começasse a latir."[lr]::
 29133::$$$message_0208_0057_0002$$$::WAAAAAHHHH!"[rf]::
+

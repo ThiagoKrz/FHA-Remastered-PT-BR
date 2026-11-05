@@ -9,7 +9,7 @@ id=qid::label=str::text=lstr::
 10494::$$$message_0080_0002_0000$$$::"...Isso faz sentido. Não acho que eu conseguiria ir até Shinto e voltar para a escola de novo..."[lr]::
 10495::$$$message_0080_0002_0001$$$::"Hum? O que faz sentido, Senpai?"[lr]::
 10496::$$$message_0080_0002_0002$$$::"Ah, bem, ir até Shinto para almoçar e voltar."[lr]::
-10497::$$$message_0080_0002_0003$$$::"Isso é loucura! Você não pode fazer algo assim!, Senpai[lr]::
+10497::$$$message_0080_0002_0003$$$::"Isso é loucura! Você não pode fazer algo assim, Senpai![lr]::
 10498::$$$message_0080_0002_0004$$$::Não, você não precisa fazer nada desse tipo. Eu tenho o seu almoço também, Senpai!"::
 10499::$$$message_0080_0003_0000$$$::"O qu... Ah, é você, Sakura.[lr]::
 10500::$$$message_0080_0003_0001$$$::Não, eu só estava falando comigo mesmo..."[lr]::
@@ -21,7 +21,7 @@ id=qid::label=str::text=lstr::
 10506::$$$message_0080_0004_0002$$$::Sakura, isso é o almoço?"[lr]::
 10507::$$$message_0080_0004_0003$$$::[chgfg time=300 storage=桜制服08l(中) textoff=0][wait canskip=0 time=400]Quando eu aponto para ele, [chgfg time=300 storage=桜制服09a(中) textoff=0]a Sakura assente com alegria.[lr]::
 10508::$$$message_0080_0004_0004$$$::Humm, é bastante coisa... Então esse foi o resultado dela trabalhar duro na cozinha esta manhã.::
-10509::$$$message_0080_0005_0000$$$::"Sim, eu estava pensando em almoçar com você., Senpai"[lr]::
+10509::$$$message_0080_0005_0000$$$::"Sim, eu estava pensando em almoçar com você, Senpai."[lr]::
 10510::$$$message_0080_0005_0001$$$::"Aí sim. Eu não trouxe almoço também... Espera, todas as três caixas são para nós dois?"[lr]::
 10511::$$$message_0080_0005_0002$$$::"Na verdade, eu estava pensando que a Tohsaka-senpai poderia se juntar a nós também."[lr]::
 10512::$$$message_0080_0005_0003$$$::Entendo, então é por isso que tem o suficiente para três pessoas.::
@@ -31,7 +31,7 @@ id=qid::label=str::text=lstr::
 10516::$$$message_0080_0006_0003$$$::[chgfg time=300 storage=桜制服10g(中) textoff=0]Sakura é a capitã agora, então deve almoçar sempre no estande de arco e flecha...::
 10517::$$$message_0080_0007_0000$$$::"Avisei ao pessoal que eu vou almoçar num outro lugar hoje.[lr]::
 10518::$$$message_0080_0007_0001$$$::Então, com isso resolvido, vamos subir para o telhado!"::
-10519::$$$message_0080_0008_0000$$$::"Nee-san, Fizemos você esperar, mana?"[lr]Nee-san, ::
+10519::$$$message_0080_0008_0000$$$::"Nee-san, fizemos você esperar?"[lr]::
 10520::$$$message_0080_0008_0001$$$::A forma como a Sakura chama a Tohsaka muda quando não tem ninguém olhando.[lr]::
 10521::$$$message_0080_0008_0002$$$::A Tohsaka está esperando no telhado com a sua expressão habitual.[lr]::
 10522::$$$message_0080_0008_0003$$$::Tenho certeza que os outros alunos fugiriam se a vissem com aquele olhar.::
@@ -40,7 +40,7 @@ id=qid::label=str::text=lstr::
 10525::$$$message_0080_0009_0002$$$::"Não tinha como eu recusar o almoço da Sakura.[lr]::
 10526::$$$message_0080_0009_0003$$$::Além disso, eu não ia comer nada de qualquer maneira."[lr]::
 10527::$$$message_0080_0009_0004$$$::"Eu também. A Sakura tomou seu tempo e se esforçou para fazer a comida, então eu tenho que dividir a refeição com ela."::
-10528::$$$message_0080_0010_0000$$$::"Sim, eu me esforcei para poder presentear vocês dois!, Nee-san, Senpai"[lr]::
+10528::$$$message_0080_0010_0000$$$::"Sim, eu me esforcei para poder presentear vocês dois, Senpai!"[lr]::
 10529::$$$message_0080_0010_0001$$$::A Sakura abre alegremente as três marmitas empilhadas.::
 10530::$$$message_0080_0011_0000$$$::...Você pensaria em pratos tradicionais de Ano Novo dentro de uma pilha de caixas laqueadas, mas há uma seleção colorida focada em bolinhos de arroz. O bolo de peixe é branco e vermelho brilhante.[lr]::
 10531::$$$message_0080_0011_0001$$$::Recebemos pauzinhos e pratos para servir antes de circularmos as caixas.::
@@ -73,4 +73,5 @@ id=qid::label=str::text=lstr::
 10558::$$$message_0080_0020_0003$$$::A conversa é animada, sobre as coisas corriqueiras do dia a dia.[lr]::
 10559::$$$message_0080_0020_0004$$$::Embora o laço que foi cortado há onze anos nunca mais volte a ser como era.[lr]::
 10560::$$$message_0080_0020_0005$$$::Mas, mesmo precisando de alguns remendos e um pouco mais de tempo para se curar, é algo a ser valorizado.::
-910528::$$$message_9080_0010_0000$$$::"Sim, eu me esforcei para poder presentear vocês dois!"[r]:, Nee-san, Senpai
+910528::$$$message_9080_0010_0000$$$::"Sim, eu me esforcei para poder presentear vocês dois!"[r]::
+

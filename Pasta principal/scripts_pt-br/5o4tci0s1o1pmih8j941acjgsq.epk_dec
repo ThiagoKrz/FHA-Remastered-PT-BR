@@ -21,7 +21,7 @@ id=qid::label=str::text=lstr::
 22386::$$$message_0177_0004_0003$$$::Por que estou vivo de novo? Por que isso está acontecendo comigo? As respostas para essas perguntas são como um evento distante.::
 22387::$$$message_0177_0005_0000$$$::Eu não tenho senso de autoconsciência.[lr]::
 22388::$$$message_0177_0005_0001$$$::Nem a felicidade nem a tristeza existem nesse paraíso inocente, eternamente frutífero e sem fruto.::
-22389::$$$message_0177_0006_0000$$$::Mas, [wait canskip=0 time=1000]tem uma coisa só [wait canskip=0 time=500]que dói.::
+22389::$$$message_0177_0006_0000$$$::                                    Mas, [wait canskip=0 time=1000]tem uma coisa só [wait canskip=0 time=500]que dói.::
 22390::$$$message_0177_0007_0000$$$::...Rabo de pele.[lr]::
 22391::$$$message_0177_0007_0001$$$::Neste completo, profundo buraco...[lr]::
 22392::$$$message_0177_0007_0002$$$::Por que ainda estou conectado a algo tão belo...?::
@@ -173,7 +173,7 @@ id=qid::label=str::text=lstr::
 22538::$$$message_0177_0054_0001$$$::Duvido muito que tenha levado tanto tempo e esforço para chegar a esse nível. Ela é uma menina, eu digo, uma mulher madura, então ela teria tempo para aprender algo mais? Provavelmente não.[lr]::
 22539::$$$message_0177_0054_0002$$$::Os monstros não têm como competir com essa arma humana.[lr]::
 22540::$$$message_0177_0054_0003$$$::Eles são apenas ovelhas para serem caçadas, presas que buscam segurança em números. Acho que só tiveram um encontro com o destino.[lr]::
-22541::$$$message_0177_0054_0004$$$::Você já se perguntou onde os franceses colocam suas letras silenciosas? Provavelmente no cu.[line len=2]::
+22541::$$$message_0177_0054_0004$$$::Você já se perguntou onde os franceses enfiam as letras mudas? Provavelmente no rab[line len=2]::
 22542::$$$message_0177_0055_0000$$$::"Entendi. Então este é o "grupo estranho" que você mencionou."[lr]::
 22543::$$$message_0177_0055_0001$$$::Bazett expira com força e guarda suas luvas.[lr]::
 22544::$$$message_0177_0055_0002$$$::Não acredito nisso. Ela já eliminou quase vinte dessas coisas, e tudo o que ela diz é "whew"...!?::
@@ -248,8 +248,8 @@ id=qid::label=str::text=lstr::
 22613::$$$message_0177_0078_0000$$$::"Isso é uma cara engraçada. Você também pode ficar assim, né? É um pouco decepcionante, mas eu esperava isso.[lr]::
 22614::$$$message_0177_0078_0001$$$::E aí, qual tipo de cara você gosta?"[lr]::
 22615::$$$message_0177_0078_0002$$$::"E-está falando o que? Não estamos discutindo meu gosto por homens! Eu estava só pensando que você é diferente do herói que eu tinha em mente."::
-22616::$$$message_0177_0079_0000$$$::"É sim, e como ele é? Um familiar é suposto representar a preferência do feiticeiro, então eu esperaria que uma Mestra feminina convocasse algum cara bonito.[lr]::
-22617::$$$message_0177_0079_0001$$$::Ah. Ou você estava tentando invocar uma mulher? __T[wvl canskip=0 time=800]AG0_Isso... é profundo. Não me diga que estava se disfarçando para tanto em negócios quanto em prazer."::
+22616::$$$message_0177_0079_0000$$$::"É sim, e como ele é? Um familiar deveria refletir as preferências do feiticeiro, então eu esperaria que uma Mestra invocasse algum cara bonito.[lr]::
+22617::$$$message_0177_0079_0001$$$::Ah. Ou você estava tentando invocar uma mulher? [wvl canskip=0 time=800]Isso... é profundo. Não me diga que você se vestia de mulher tanto a trabalho quanto por prazer."::
 22618::$$$message_0177_0080_0000$$$::"Não tenho tais inclinações. Fiz um pacto com você porque julguei que era a ação correta. Isso tem nada a ver com qualquer sentimento pelo sexo oposto.[lr]::
 22619::$$$message_0177_0080_0001$$$::...No entanto, admito que o que disse foi enganoso. Sim, estava fixado em um Espírito Heroico diferente de você."::
 22620::$$$message_0177_0081_0000$$$::"É isso. Você pode me contar o resto. Nada a perder, então vamos manter o mínimo de segredos possível.[lr]::
@@ -282,7 +282,7 @@ id=qid::label=str::text=lstr::
 22647::$$$message_0177_0089_0002$$$::Mesmo eu tenho sentimentos semelhantes.[lr]::
 22648::$$$message_0177_0089_0003$$$::Não importa em que forma esse desejo se manifeste, você não pode culpá-la por ao menos sentir assim.[lr]::
 22649::$$$message_0177_0089_0004$$$::No entanto...::
-22650::$$$message_0177_0090_0000$$$::[font italic=true]Será que tenho mesmo permissão para desejar isso?[font italic=false]::
+22650::$$$message_0177_0090_0000$$$::                                     [font italic=true]Será que tenho mesmo permissão para desejar isso?[font italic=false]::
 22651::$$$message_0177_0091_0000$$$::A resposta pode estar clara para o resto de nós, mas não estava para aquela menina.[lr]::
 22652::$$$message_0177_0091_0001$$$::Bazett desejou algo que qualquer um poderia fazer.[lr]::
 22653::$$$message_0177_0091_0002$$$::Ela queria salvar um herói de uma fábula, a única pessoa que alguma vez reconheceu.[lr]::
@@ -558,3 +558,4 @@ id=qid::label=str::text=lstr::
 22923::$$$message_0177_0165_0003$$$::E ainda assim, contraditoriamente...[lr]::
 22924::$$$message_0177_0165_0004$$$::Eu também senti que ele amava o mundo e as pessoas nele.::
 922591::$$$message_9177_0071_0000$$$::Aŋra Mainyu é o nome de um dos maiores demônios da antiga Pérsia.[r]::
+

@@ -56,7 +56,7 @@ id=qid::label=str::text=lstr::
 43279::$$$message_0364_0006_0001$$$::"Fico feliz que concorde.[lr]::
 43280::$$$message_0364_0006_0002$$$::Vamos nos apresentar, então. Sou Illyasviel. [l][say storage=HSTR1_BIR_0300 _name=ブルマイリヤ][hffacechg chara=ブルマイリヤ face=楽3 layer=0 time=200]Você pode me chamar de Illya."::
 43281::$$$message_0364_0006_0003$$$::"E você? Poderia me dizer só a sua classe, mas qual é o seu Nome Verdadeiro?"::
-43282::$$$message_0364_0006_0004$$$::"Hum. Hmmm. [l][hffacechg chara=藤ねえ face=うーん layer=1 time=200][hfsweat layer=1][hfquake layer=message1 wait=0 hmax=3 vmax=4][say storage=HSTR1_TIG_0260 _name=藤ねえ]Hmmmmmm, Fuji-Nee."::
+43282::$$$message_0364_0006_0004$$$::"Hum. Hmmm. [l][hffacechg chara=藤ねえ face=うーん layer=1 time=200][hfsweat layer=1][hfquake layer=message1 wait=0 hmax=3 vmax=4][say storage=HSTR1_TIG_0260 _name=藤ねえ]Hmmmmmm."::
 43283::$$$message_0364_0006_0005$$$::"Espere um minuto, não me diga que..."::
 43284::$$$message_0364_0006_0006$$$::"Isso mesmo. Eu não me lembro de nada. Mas tenho certeza de que a minha classe é Sa...ber...?[lr]::
 43285::$$$message_0364_0006_0007$$$::E a minha arma de especialidade são... os charmes femininos...?"::
@@ -79,7 +79,7 @@ id=qid::label=str::text=lstr::
 43303::$$$message_0364_0007_0009$$$::"E-eu não estou escondendo nada, sério![lr]::
 43304::$$$message_0364_0007_0010$$$::Eu me lembro do meu Nome Verdadeiro, mas estou mantendo isso em segredo porque eu planejo totalmente te trair!"::
 43305::$$$message_0364_0007_0011$$$::"..."::
-43306::$$$message_0364_0007_0012$$$::"Ah, [wvs][hfchance layer=1][say storage=HSTR1_TIG_0430 _name=藤ねえ]droga, eu falei a parte confidencial em voz alta, Fuji-Nee!"::
+43306::$$$message_0364_0007_0012$$$::"Ah, [wvs][hfchance layer=1][say storage=HSTR1_TIG_0430 _name=藤ねえ]droga, eu falei a parte confidencial em voz alta!"::
 43307::$$$message_0364_0007_0013$$$::"Mas ser honesto demais para guardar segredos também é uma virtude, então a minha Mestra pode ficar tranquila![heart]"::
 43308::$$$message_0364_0007_0014$$$::"...Você é honesta mesmo, Serva."::
 43309::$$$message_0364_0007_0015$$$::"Tudo bem, me certificarei de reservar um Feitiço de Comando. Minha última ordem será para fazer você correr em volta de uma árvore pelo resto da sua vida.[humming]"::
@@ -100,13 +100,13 @@ id=qid::label=str::text=lstr::
 43324::$$$message_0364_0008_0004$$$::Então nós só precisamos derrotar as outras seis equipes?"::
 43325::$$$message_0364_0008_0005$$$::"Isso mesmo. Cada um dos outros Mestres tem uma estrela, então nós precisamos derrotá-los e tomar as estrelas para nós."::
 43326::$$$message_0364_0008_0006$$$::"O Santo Graal aparecerá para a equipe que tiver todas as sete estrelas e concederá o nosso desejo."::
-43327::$$$message_0364_0008_0007$$$::"I-[l][hfchance layer=1][say storage=HSTR1_TIG_0570 _name=藤ねえ]inacreditável... Então você quer dizer que se nós conseguirmos o Santo Graal, conseguir as nossas próprias rotas não será apenas um sonho inalcançável!, Fuji-Nee?"::
+43327::$$$message_0364_0008_0007$$$::"I-[l][hfchance layer=1][say storage=HSTR1_TIG_0570 _name=藤ねえ]inacreditável... Então você quer dizer que se nós conseguirmos o Santo Graal, conseguir as nossas próprias rotas não será apenas um sonho inalcançável!?"::
 43328::$$$message_0364_0008_0008$$$::"É claro que não! Você pode ser uma heroína de escola, uma heroína de mistério de assassinato, ou até mesmo uma heroína de dominação mundial! Estará tudo na palma da sua mão!"::
 43329::$$$message_0364_0008_0009$$$::"...Heh. Nossos desejos se alinham, Taiga. Tenho certeza de que não fomos a primeira escolha uma da outra, mas que tal trabalharmos por um objetivo comum por enquanto?"::
 43330::$$$message_0364_0008_0010$$$::"Nós teremos uma só mente e um só corpo até conseguirmos o Santo Graal. Sem mentiras, Illya-chan!"::
 43331::$$$message_0364_0008_0011$$$::"Hehehe. Ou seja, apenas até nós conseguirmos o Santo Graal!"::
 43332::$$$message_0364_0008_0012$$$::"Sim, claro. Afinal, só existe um Santo Graal."[nolr][p]::
-43333::$$$message_0364_0008_0013$$$::"Tudo bem, vamos fazer isso! [l][hfchance layer=1][say storage=HSTR1_TIG_0620 _name=藤ねえ]O objetivo: uma utopia só para nós, Fuji-Nee!"::
+43333::$$$message_0364_0008_0013$$$::"Tudo bem, vamos fazer isso! [l][hfchance layer=1][say storage=HSTR1_TIG_0620 _name=藤ねえ]O objetivo: uma utopia só para nós!"::
 43334::$$$message_0364_0008_0014$$$::"Sem argumentos da minha parte! [hfchance layer=0][lr]::
 43335::$$$message_0364_0008_0015$$$::Nós vamos varrer qualquer um que se meter no nosso caminho!"::
 43336::$$$message_0364_0009_0000$$$::"Hehe."[nolr][p]::
@@ -202,3 +202,4 @@ id=qid::label=str::text=lstr::
 43426::$$$message_0364_0024_0001$$$::"Isso é loucura! Ei garota, [font italic=true]ela[font italic=false] é a sua Serva!? É sério? Você não está me zoando?"::
 43427::$$$message_0364_0024_0002$$$::"Argh, eu não preciso disso!"::
 43428::$$$message_0364_0024_0003$$$::"Aaah! Eu não vou mais mandar você ficar na fila durante a noite toda para comprar merchandising para mim,[hfwww layer=0] então volte, Cavaleiro!!!"[nolr][p]::
+

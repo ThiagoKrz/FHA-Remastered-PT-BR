@@ -10,11 +10,11 @@ id=qid::label=str::text=lstr::
 43646::$$$message_0369_0000_0007$$$::"Desde que reconheça que errou.[lr]::
 43647::$$$message_0369_0000_0008$$$::Aprenda a lição e tente se transformar só uma vez a cada quatro anos. Dá medo."::
 43648::$$$message_0369_0000_0009$$$::"Vou tomar todo o cuidado que puder. Eu não devia ter me transformado só porque me deixaram sozinha e sem poder cozinhar por três dias."::
-43649::$$$message_0369_0000_0010$$$::"Ahh, entendi. [l][hfsigh layer=1][say storage=HSTR3A_TIG_0060 _name=藤ねえ]Então até isso basta para fazer você virar, Fuji-Nee."::
+43649::$$$message_0369_0000_0010$$$::"Ahh, entendi. [l][hfsigh layer=1][say storage=HSTR3A_TIG_0060 _name=藤ねえ]Então até isso basta para fazer você virar."::
 43650::$$$message_0369_0001_0000$$$::"...Aliás, quando será que você vai surtar de novo?"::
 43651::$$$message_0369_0001_0001$$$::"Hum, acho que vai acontecer quando eu vir o resultado da enquete de popularidade. É bem provável."::
 43652::$$$message_0369_0002_0000$$$::"Não sei o que vou fazer se perder até para a Rider."::
-43653::$$$message_0369_0002_0001$$$::"Urgh., Fuji-Nee, Sensei[wait canskip=0 time=500], Fuji-Nee, Sensei[l], Fuji-Nee, Sensei[hffacechg chara=藤ねえ face=うーん2 layer=1 time=200], Fuji-Nee, Sensei[say storage=HSTR3A_TIG_0100 _name=藤ねえ]B-bom, eu gosto de você, Sakura-chan. Sinto mesmo uma ligação entre nós, já que nenhuma das duas consegue o que quer."::
+43653::$$$message_0369_0002_0001$$$::"Urgh.[wait canskip=0 time=500][l][hffacechg chara=藤ねえ face=うーん2 layer=1 time=200][say storage=HSTR3A_TIG_0100 _name=藤ねえ]B-bom, eu gosto de você, Sakura-chan. Sinto mesmo uma ligação entre nós, já que nenhuma das duas consegue o que quer."::
 43654::$$$message_0369_0002_0002$$$::"Só não sei se declarar sorrindo que vai exterminar a humanidade pega bem."::
 43655::$$$message_0369_0002_0003$$$::"...(engole em seco)"::
 43656::$$$message_0369_0002_0004$$$::"Ah, eu não faria isso."::
@@ -36,4 +36,5 @@ id=qid::label=str::text=lstr::
 43672::$$$message_0369_0005_0002$$$::"O quê!? Essa silhueta na parede, fazendo uma pose ridícula que lembra um certo Goldy... não pode ser...!?"[wm canskip=0]::
 43673::$$$message_0369_0005_0003$$$::"Isso mesmo! A equipe suprema em estilo e talento, Tohsaka Rin e seu Servo Archer, [wvs][hfchance layer=0][say storage=HSTR3A_RIN_0030 _name=凛]entrou em cena!"[wm canskip=0]::
 43674::$$$message_0369_0005_0004$$$::"Agora a luta de verdade começa, vocês duas![lr]::
-43675::$$$message_0369_0005_0005$$$::Hora de mostrar o lugar de vocês!"[nolr][p]::��
+43675::$$$message_0369_0005_0005$$$::Hora de mostrar o lugar de vocês!"[nolr][p]::
+

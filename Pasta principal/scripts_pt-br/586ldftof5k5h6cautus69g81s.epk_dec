@@ -15,7 +15,7 @@ id=qid::label=str::text=lstr::
 43755::$$$message_0372_0004_0005$$$::Se a coisa apertar, eu despertarei o meu sétimo sentido!"::
 43756::$$$message_0372_0004_0006$$$::"Heh, isso é bem reconfortante vindo de um inimigo![l][br][hffacechg chara=ブルマイリヤ face=喜2 layer=1 time=200][hfwww layer=1][say storage=HSTR5_BIR_0040 _name=ブルマイリヤ]Ok, vamos manter o ritmo e derrotar mais um casal de pombinhos!"::
 43757::$$$message_0372_0005_0000$$$::"Um momento, garota. E a besta selvagem."::
-43758::$$$message_0372_0005_0001$$$::"O qu-[wait canskip=0 time=300][l][hffacechg chara=藤ねえ face=真剣 layer=1 time=200][hfchance layer=1][say storage=HSTR5_TIG_0060 _name=藤ねえ]quem diabos é você!, Fuji-Nee?"::
+43758::$$$message_0372_0005_0001$$$::"O qu-[wait canskip=0 time=300][l][hffacechg chara=藤ねえ face=真剣 layer=1 time=200][hfchance layer=1][say storage=HSTR5_TIG_0060 _name=藤ねえ]quem diabos é você!?"::
 43759::$$$message_0372_0005_0002$$$::"Não me diga..."[nolr][p]::
 43760::$$$message_0372_0005_0003$$$::"Gorillo Sasaki!!!"::
 43761::$$$message_0372_0005_0004$$$::"O certo é Sasaki Typollo!"[nolr][p]::
@@ -49,7 +49,7 @@ id=qid::label=str::text=lstr::
 43789::$$$message_0372_0012_0000$$$::"O que é toda essa comoção? Ora se não é o Santo Graal e a professora inútil."::
 43790::$$$message_0372_0013_0000$$$::"Não me lembro de tê-las convidado para cá."::
 43791::$$$message_0372_0013_0001$$$::"Nós que nos convidamos."::
-43792::$$$message_0372_0013_0002$$$::"...Mas de qualquer forma, [l][hfwww layer=1][say storage=HSTR5_TIG_0180 _name=藤ねえ]o que você está fazendo, Caster-san, Fuji-Nee?"::
+43792::$$$message_0372_0013_0002$$$::"...Mas de qualquer forma, [l][hfwww layer=1][say storage=HSTR5_TIG_0180 _name=藤ねえ]o que você está fazendo, Caster-san?"::
 43793::$$$message_0372_0014_0000$$$::"A Guerra do Santo Graal começou, sabia.[lr]::
 43794::$$$message_0372_0014_0001$$$::Você não devia estar tramando e manipulando nos bastidores como sempre faz?"::
 43795::$$$message_0372_0014_0002$$$::"Não é como se eu me divertisse fazendo isso."::
@@ -61,7 +61,7 @@ id=qid::label=str::text=lstr::
 43801::$$$message_0372_0015_0004$$$::"Oh, só achei a sua angústia tão lamentável que não consegui evitar de sorrir."::
 43802::$$$message_0372_0015_0005$$$::"Uma personalidade cultivada ao longo de muitos anos pode ser bastante teimosa. O ego é o inimigo da eternidade, afinal de contas."::
 43803::$$$message_0372_0016_0000$$$::"...Haha, não é fácil mudar de personalidade depois de 2X anos."::
-43804::$$$message_0372_0017_0000$$$::"Hã? [l][hfchance layer=1][say storage=HSTR5_TIG_0230 _name=藤ねえ]Sem chance! Caster-san, você tem 2X anos de idade!? Você é mais velha que o Kuzuki-Sensei!, Fuji-Nee?"[nolr]::
+43804::$$$message_0372_0017_0000$$$::"Hã? [l][hfchance layer=1][say storage=HSTR5_TIG_0230 _name=藤ねえ]Sem chance! Caster-san, você tem 2X anos de idade!? Você é mais velha que o Kuzuki-Sensei!?"[nolr]::
 43805::$$$message_0372_0018_0000$$$::"AAAAAAH!"[rf]::
 43806::$$$message_0372_0019_0000$$$::"[large]Sasaki[rf], [large]pare [rf]de falar sobre a minha [large]idade[rf]!!!"::
 43807::$$$message_0372_0019_0001$$$::"Hahaha. Mil perdões. Foi um deslize da minha língua."[nolr]::
@@ -73,7 +73,7 @@ id=qid::label=str::text=lstr::
 43813::$$$message_0372_0020_0005$$$::"É verdade. Apenas use a sua famosa magia para rejuvenescer. Tenho certeza de que uma bruxa como você deve ter alguns truques cosméticos na manga."::
 43814::$$$message_0372_0020_0006$$$::"Heh. [hfquake layer=message0 wait=0 hmax=0 vmax=3]Hehehehehe."::
 43815::$$$message_0372_0021_0000$$$::"Eu decidi que irei lutar nesta Guerra do Santo Graal."::
-43816::$$$message_0372_0021_0001$$$::"Hã? [l][hfwww layer=1][say storage=HSTR5_TIG_0310 _name=藤ねえ]Hum, qual é a dessa tensão esquisita? O clima estava tão reconfortante, mas agora só tô recebendo interferência, Fuji-Nee."::
+43816::$$$message_0372_0021_0001$$$::"Hã? [l][hfwww layer=1][say storage=HSTR5_TIG_0310 _name=藤ねえ]Hum, qual é a dessa tensão esquisita? O clima estava tão reconfortante, mas agora só tô recebendo interferência."::
 43817::$$$message_0372_0021_0002$$$::"Não tenho um desejo em específico, mas de repente me deu vontade de querer o Santo Graal."::
 43818::$$$message_0372_0022_0000$$$::"Também me deu uma vontade de explodir todos vocês e mandá-los de volta para a Floresta dos Einzbern."::
 43819::$$$message_0372_0022_0001$$$::"Souichirou, por favor, vá descansar no templo principal. Eu não vou te causar nenhum problema."::

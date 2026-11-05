@@ -6,7 +6,7 @@ id=qid::label=str::text=lstr::
 43573::$$$message_0368_0000_0003$$$::"Sakura...!"[rf][nolr][p]::
 43574::$$$message_0368_0000_0004$$$::"A senhora derrotou mesmo a Saber-san, Fujimura-Sensei. Não devo subestimá-la."::
 43575::$$$message_0368_0000_0005$$$::"O maior problema sempre foi como arrancar aquela peste de perto do Senpai, mas você resolveu isso por mim."::
-43576::$$$message_0368_0000_0006$$$::"Eeeek! A Sakura-chan está toda escura! [l][hfchance layer=1][say storage=HSTR3_TIG_0030 _name=藤ねえ]Ela foi totalmente para o lado negro da força, Fuji-Nee!"::
+43576::$$$message_0368_0000_0006$$$::"Eeeek! A Sakura-chan está toda escura! [l][hfchance layer=1][say storage=HSTR3_TIG_0030 _name=藤ねえ]Ela foi totalmente para o lado negro da força!"::
 43577::$$$message_0368_0001_0000$$$::"Ninguém me avisou que estaríamos lutando contra o último chefão no segundo round!"::
 43578::$$$message_0368_0001_0001$$$::"Hrrgh...![lr]::
 43579::$$$message_0368_0001_0002$$$::Ela nos pegou. A casa dos Emiya também é território da Sakura!"::
@@ -21,7 +21,7 @@ id=qid::label=str::text=lstr::
 43588::$$$message_0368_0004_0000$$$::"Ou será que vocês pretendem mesmo continuar lutando?"::
 43589::$$$message_0368_0004_0001$$$::"De jeito nenhum. Eu não consigo lidar com fantasmas de forma alguma.[lr]::
 43590::$$$message_0368_0004_0002$$$::Principalmente quando a gente nem sabe o que eles são."::
-43591::$$$message_0368_0004_0003$$$::"Eu não ficaria com medo de zumbis, [l][hfwww layer=1][say storage=HSTR3_TIG_0140 _name=藤ねえ]mas sabe, você usa essa coisa preta esquisita, Sakura-chan, Fuji-Nee."::
+43591::$$$message_0368_0004_0003$$$::"Eu não ficaria com medo de zumbis, [l][hfwww layer=1][say storage=HSTR3_TIG_0140 _name=藤ねえ]mas sabe, você usa essa coisa preta esquisita."::
 43592::$$$message_0368_0005_0000$$$::"É nojento e eu não consigo lidar com isso!"::
 43593::$$$message_0368_0005_0001$$$::"Entendo. Eu sou nojenta, é?[lr]::
 43594::$$$message_0368_0005_0002$$$::Fujimura-Sensei, já ouviu a expressão: 'quem fala demais dá bom dia a cavalo'?"::
@@ -50,7 +50,7 @@ id=qid::label=str::text=lstr::
 43617::$$$message_0368_0009_0010$$$::"Aiii... Eram para ser sombras, mas elas machucam!"::
 43618::$$$message_0368_0009_0011$$$::"Taiga, por que...?[lr]::
 43619::$$$message_0368_0009_0012$$$::Pensei que a Sakura Sombria fosse difícil para você lidar também."::
-43620::$$$message_0368_0009_0013$$$::"É, mas não como uma questão de vida ou morte. Quero dizer, nós ainda somos amigas. [l][hfchance layer=1][say storage=HSTR3_TIG_0270 _name=藤ねえ]Pelo menos até conseguirmos o Santo Graal, Fuji-Nee."::
+43620::$$$message_0368_0009_0013$$$::"É, mas não como uma questão de vida ou morte. Quero dizer, nós ainda somos amigas. [l][hfchance layer=1][say storage=HSTR3_TIG_0270 _name=藤ねえ]Pelo menos até conseguirmos o Santo Graal."::
 43621::$$$message_0368_0009_0014$$$::"Taiga..."::
 43622::$$$message_0368_0009_0015$$$::"Sakura, isso está tendo o efeito contrário. Isso só está cimentando a sua reputação de vilã."::
 43623::$$$message_0368_0009_0016$$$::"E-[hfchance layer=0]Eu sei disso![lr]::
@@ -69,3 +69,4 @@ id=qid::label=str::text=lstr::
 43636::$$$message_0368_0010_0006$$$::[hffacechg chara=桜 face=怒 layer=0 time=200] Vamos lá, Rider!"::
 43637::$$$message_0368_0010_0007$$$::"É assim que se fala![lr]::
 43638::$$$message_0368_0010_0008$$$::Vamos lá, Illya-chan! Vamos dar a elas o troco na mesma moeda!"[nolr][p]::
+
