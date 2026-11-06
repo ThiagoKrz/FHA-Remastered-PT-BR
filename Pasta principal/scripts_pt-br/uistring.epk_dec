@@ -194,7 +194,7 @@ id=qid::label=str::string=lstr::string_jp=str::
 20003::m_gal_movie::Vídeos::::
 20004::m_gal_music::Músicas::::
 20008::m_gal_back::Voltar::::
-20011::m_gal_title2::Galeria::::
+20011::m_gal_title2::GALERIA::::
 21001::m_pic_title::Imagens::::
 21007::m_pic_tab_other::Outros::::
 21008::m_pic_back::Voltar::::
@@ -251,8 +251,8 @@ id=qid::label=str::string=lstr::string_jp=str::
 31013::m_kgd_fastpg::Avançar Rápido::::
 31014::m_kgd_loopswtc::(alternar loop)::::
 31022::m_kgd_tap::Tocar na Tela::::
-31044::m_kgd_pgb::Pág. Anterior::::
-31045::m_kgd_pgf::Próxima Pág.::::
+31044::m_kgd_pgb::Página Anterior::::
+31045::m_kgd_pgf::Próxima Página::::
 31046::m_kgd_log::Histórico::::
 31047::m_kgd_send::Avançar Texto::::
 31060::m_kgd_ok1::OK::::
@@ -261,7 +261,7 @@ id=qid::label=str::string=lstr::string_jp=str::
 31064::m_kgd_gp::Controle::::
 31067::m_kgd_zoom::Afastar/Aproximar Zoom::::
 31068::m_kgd_pgcng::Mudar Página::::
-31073::m_kgd_auto1::Modo Automático::::
+31073::m_kgd_auto1::Modo Auto::::
 31076::m_kgd_auto4::Parar Modo Auto::::
 31078::m_kgd_oksend::Avançar Texto, Confirmar::::
 31079::m_kgd_texh::Ocultar Janela de Texto::::
@@ -365,14 +365,14 @@ id=qid::label=str::string=lstr::string_jp=str::
 72005::m_ent_start::INICIAR::::
 72006::m_ent_delete::EXCLUIR::::
 72007::m_ent_copy::COPIAR::::
-72008::m_ent_playtime::TEMPO DE JOGO::::
+72008::m_ent_playtime::Tempo de Jogo::::
 72014::m_ent_day1::1º DIA::::
 72015::m_ent_day2::2º DIA::::
 72016::m_ent_day3::3º DIA::::
 72017::m_ent_day4::4º DIA::::
 72018::m_ent_morning::Manhã::::
 72019::m_ent_afternoon::Tarde::::
-72020::m_ent_afterschl::Fim da tarde::::
+72020::m_ent_afterschl::Depois da Escola::::
 72021::m_ent_night::Noite::::
 72022::m_ent_time::Hora(s)::::
 72023::m_ent_minutes::Minuto(s)::::
@@ -426,7 +426,7 @@ id=qid::label=str::string=lstr::string_jp=str::
 81010::mp_place_wrhous::Galpão::::
 81011::mp_place_ri::Quarto da Rin::::
 81012::mp_title_emiya::Mansão Emiya::::
-82001::mp_char_aftschl::Para o Fim da Tarde::::
+82001::mp_char_aftschl::Para Depois da Escola::::
 82002::mp_place_work::Ir para o trabalho::::
 82003::mp_place_roof::Telhado::::
 82004::mp_place_arch::Dojô de arco e flecha::::
@@ -435,7 +435,7 @@ id=qid::label=str::string=lstr::string_jp=str::
 82007::mp_place_crdr::Corredor do 3º ano::::
 82008::mp_place_cncl::Sala do conselho estudantil::::
 82009::mp_title_homra::Colégio Homurahara::::
-82010::mp_tz_aftschl::Fim da tarde::::
+82010::mp_tz_aftschl::Depois da Escola::::
 83001::mp_place_kei::Terrenos do templo::::
 83002::mp_place_gate::Portão da montanha::::
 83003::mp_place_templ::Interior do templo::::
@@ -461,22 +461,22 @@ id=qid::label=str::string=lstr::string_jp=str::
 1000343::g_36mgcexp_04::Shirou D::::
 1000344::g_36mgcexp_05::Shirou E::::
 1000346::g_36mgcexp_07::∞::::
-1000347::g_36mgcexp_08::1º Dia::::
-1000348::g_36mgcexp_09::2º Dia::::
-1000349::g_36mgcexp_10::3º Dia::::
-1000350::g_36mgcexp_11::4º Dia::::
-1000351::g_36mgcexp_12::5º Dia::::
+1000347::g_36mgcexp_08::Dia 1::::
+1000348::g_36mgcexp_09::Dia 2::::
+1000349::g_36mgcexp_10::Dia 3::::
+1000350::g_36mgcexp_11::Dia 4::::
+1000351::g_36mgcexp_12::Dia 5::::
 1000352::g_36mgcexp_b01::Shirou A::::
 1000353::g_36mgcexp_b02::Shirou B::::
 1000354::g_36mgcexp_b03::Shirou C::::
 1000355::g_36mgcexp_b04::Shirou D::::
 1000356::g_36mgcexp_b05::Shirou E::::
 1000358::g_36mgcexp_b07::∞::::
-1000359::g_36mgcexp_b08::1º Dia::::
-1000360::g_36mgcexp_b09::2º Dia::::
-1000361::g_36mgcexp_b10::3º Dia::::
-1000362::g_36mgcexp_b11::4º Dia::::
-1000363::g_36mgcexp_b12::5º Dia::::
+1000359::g_36mgcexp_b08::Dia 1::::
+1000360::g_36mgcexp_b09::Dia 2::::
+1000361::g_36mgcexp_b10::Dia 3::::
+1000362::g_36mgcexp_b11::Dia 4::::
+1000363::g_36mgcexp_b12::Dia 5::::
 1000364::g_36mgcexp_b13::Sabe::::
 1000365::g_36mgcexp_c01::Shirou A::::
 1000366::g_36mgcexp_c02::Shirou B::::
@@ -484,11 +484,11 @@ id=qid::label=str::string=lstr::string_jp=str::
 1000368::g_36mgcexp_c04::Shirou D::::
 1000369::g_36mgcexp_c05::Shirou E::::
 1000371::g_36mgcexp_c07::∞::::
-1000372::g_36mgcexp_c08::1º Dia::::
-1000373::g_36mgcexp_c09::2º Dia::::
-1000374::g_36mgcexp_c10::3º Dia::::
-1000375::g_36mgcexp_c11::4º Dia::::
-1000376::g_36mgcexp_c12::5º Dia::::
+1000372::g_36mgcexp_c08::Dia 1::::
+1000373::g_36mgcexp_c09::Dia 2::::
+1000374::g_36mgcexp_c10::Dia 3::::
+1000375::g_36mgcexp_c11::Dia 4::::
+1000376::g_36mgcexp_c12::Dia 5::::
 1000377::g_36mgcexp_c13::Sabe::::
 1000378::g_36mgcexp_c14::×::::
 1000379::g_36mgcexp_c15::Morte::::
@@ -498,11 +498,11 @@ id=qid::label=str::string=lstr::string_jp=str::
 1000383::g_36mgcexp_d04::Shirou D::::
 1000384::g_36mgcexp_d05::Shirou E::::
 1000386::g_36mgcexp_d07::∞::::
-1000387::g_36mgcexp_d08::1º Dia::::
-1000388::g_36mgcexp_d09::2º Dia::::
-1000389::g_36mgcexp_d10::3º Dia::::
-1000390::g_36mgcexp_d11::4º Dia::::
-1000391::g_36mgcexp_d12::5º Dia::::
+1000387::g_36mgcexp_d08::Dia 1::::
+1000388::g_36mgcexp_d09::Dia 2::::
+1000389::g_36mgcexp_d10::Dia 3::::
+1000390::g_36mgcexp_d11::Dia 4::::
+1000391::g_36mgcexp_d12::Dia 5::::
 1000392::g_36mgcexp_d13::×::::
 1000393::g_36mgcexp_d14::Morte::::
 1000394::g_36mgcexp_d15::Paralelização de Todas as Experiências::::
@@ -513,7 +513,7 @@ id=qid::label=str::string=lstr::string_jp=str::
 1000399::g_36mgcexp_e05::Shirou E::::
 1000401::g_36mgcexp_e07::∞::::
 1000402::g_36mgcexp_e08::Guerra do Santo Graal Recriada::::
-1000403::g_36mgcexp_e09::5º Dia::::
+1000403::g_36mgcexp_e09::Dia 5::::
 1000404::g_36mgcexp_e10::×::::
 1000405::g_36mgcexp_e11::Morte::::
 1000406::g_36mgcexp_e12::Paralelização de Todas as Experiências::::
@@ -533,8 +533,8 @@ id=qid::label=str::string=lstr::string_jp=str::
 1000434::g_voice_07::"agORA...Mate, mate, mate, MATE...!"::::
 1000435::g_voice_08_obj::"...Ódio, ódio, QUeM eu ODdeio...!"::::
 1000436::g_voice_08::"...Ódio, ódio, QUeM eu ODdeio...!"::::
-1000443::g_FD_ngtttl_01::1/ O Falso Heaven's Feel Noite I::::
-1000444::g_FD_ngtttl_02::2/ O Falso Heaven's Feel Noite II::::
+1000443::g_FD_ngtttl_01::1/ Heaven's Feel Back Night I::::
+1000444::g_FD_ngtttl_02::2/ Heaven's Feel Back Night II::::
 1000448::g_FD_ngtttl_06::6/ Aŋra Mainiiu::::
 1000452::g_last::Último Interlúdio::::
 1000453::g_next01_1::Próximo/::::
@@ -565,7 +565,7 @@ id=qid::label=str::string=lstr::string_jp=str::
 1000492::g_hmr_03end_1::Himuro, a Detetive do Amor::::
 1000493::g_hmr_03end_2::Himuro, a Detetive do Amor::::
 1000494::g_hmr_03end_3::Final::::
-1000495::g_fk016line_a::Aperte o botão, Irmãozinho.::::
+1000495::g_fk016line_a::Aperte o botão, Onii-chan.::::
 1000496::g_fk025line_b::A noite é assustadora::::
 1000498::g_fk029line_d::abra::::
 1000499::g_fk033scream::EEEEEEEEEEEEEEEEKKKKKK::::
@@ -584,28 +584,28 @@ id=qid::label=str::string=lstr::string_jp=str::
 1000688::g_ec_bar_day3::Rotação da Roleta::::
 1000689::g_ec_bar_day4::Cruzes Infinitas sem Turno::::
 1000690::g_ec_day1::8 de Outubro::::
-1000691::g_ec_day1_pm::PM    Dia 1::::
-1000692::g_ec_day1_am::AM    Dia 1::::
+1000691::g_ec_day1_pm::Tarde    Dia 1::::
+1000692::g_ec_day1_am::Manhã    Dia 1::::
 1000693::g_ec_day1_aftsc::Depois da Escola    Dia 1::::
 1000695::g_ec_day2::9 de Outubro::::
-1000696::g_ec_day2_pm::PM    Dia 2::::
-1000697::g_ec_day2_am::AM    Dia 2::::
+1000696::g_ec_day2_pm::Tarde    Dia 2::::
+1000697::g_ec_day2_am::Manhã    Dia 2::::
 1000700::g_ec_day3::10 de Outubro::::
-1000701::g_ec_day3_pm::PM    Dia 3::::
-1000702::g_ec_day3_am::AM    Dia 3::::
+1000701::g_ec_day3_pm::Tarde    Dia 3::::
+1000702::g_ec_day3_am::Manhã    Dia 3::::
 1000705::g_ec_day4::11 de Outubro::::
-1000706::g_ec_day4_pm::PM    Dia 4::::
-1000707::g_ec_day4_am::AM    Dia 4::::
+1000706::g_ec_day4_pm::Tarde    Dia 4::::
+1000707::g_ec_day4_am::Manhã    Dia 4::::
 1000756::g_016_chuka::Esse ano	tem que	ter	bolinhos de carne chineses::::
-1000757::g_023_notice::※Matou Shinji é intencionalmente não colorido.::::
+1000757::g_023_notice::※Matou Shinji está sem cor de propósito.::::
 1000758::g_040_letter1::Toda a região de Shinto está ao meu alcance. Qualquer um que tentar entrar...::::
 1000759::g_040_letter2::Você é uma exceção. Eu vou atirar bem no meio dos seus olhos...::::
 1000760::g_040_letter3::Estou falando sério.	Se a Guerra do Santo Graal voltou,	então farei o que for preciso para matar vocês dois.::::
 1000761::g_070_slvrtext::Eu ouço uma bela canção prateada.::::
 1000762::g_071_slvrtext2::Eu ouço uma bela canção prateada.::::
-1000763::g_074_anltext01::...Sua diabinha maldita...::::
-1000764::g_074_anltext02::...Leve os olhos dele primeiro...::::
-1000765::g_074_anltext03::...Ei, certifique-se de deixar o olho esquerdo dele...::::
+1000763::g_074_anltext01::...Seu demônio maldito...::::
+1000764::g_074_anltext02::...Arranquem os olhos dele primeiro...::::
+1000765::g_074_anltext03::...Ei, deixem o olho esquerdo dele...::::
 1000766::g_074_anltext04::...Que barulheira. Talvez devêssemos esmagar a garganta dele...::::
 1000767::g_074_anltext05::É, contanto que ele ainda esteja respirando.::::
 1000768::g_074_anltext07::Eu vou te matar.::::
@@ -628,9 +628,9 @@ id=qid::label=str::string=lstr::string_jp=str::
 1000785::g_088_castext06::...No fim das contas, eu quero voltar para a minha terra natal.::::
 1000786::g_090_fish01::※ "Pego" refere-se a um peixe sendo pescado. Não é diferente de "Acerto", "Bingo", ou "Cobra".::::
 1000787::g_093_iriya::Illyasviel-san, vinda da Alemanha::::
-1000788::g_093_sabar::Senhorita Altria, vinda da Bretanha::::
+1000788::g_093_sabar::Senhorita Artoria, vinda da Bretanha::::
 1000789::g_093_sakura::Senhorita Matou Sakura, vinda de Miyama::::
-1000790::g_097_luvtext01::※Esta é uma maquete editada.::::
+1000790::g_097_luvtext01::※Esta é uma montagem editada.::::
 1000791::g_099_mmcday1_1::DIA 1::::
 1000792::g_099_mmcday1_2::CaixaMágicaEmocionante-BaseTohsaka-CidadeDeDia::::
 1000793::g_099_mmcday2_1::DIA 2::::
@@ -654,8 +654,8 @@ id=qid::label=str::string=lstr::string_jp=str::
 1000813::g_118_cob_g::Enquanto você é dominado pela dor,::::
 1000814::g_118_cob_h::Lord Goblin Peyang III aparece diante de você, mesmo que você já tenha o derrotado antes!::::
 1000815::g_118_cob_i::Se você quer lutar, vá para 14. Se você quer voltar, vá para 14.::::
-1000816::g_121_nn::Hmm?::::
-1000817::g_129_name::Medea   Kuzuki::::
+1000816::g_121_nn::Hum?::::
+1000817::g_129_name::Kuzuki   Medea::::
 1000818::g_136_int05txt1::É um caldeirão mágico que realiza desejos.::::
 1000819::g_143_crn06txt1::O céu é alto. A terra é vasta. Cante os louvores da vida.::::
 1000820::g_143_crn06txt2::Uma ode alegre e retumbante,::::
@@ -671,13 +671,13 @@ id=qid::label=str::string=lstr::string_jp=str::
 1000830::g_143_hftext06::......qUE mENtIrA tErrÍvEl::::
 1000831::g_147_baztext01::...Ela esteve em estado de quase morte por um longo tempo.::::
 1000840::g_jpnk_shiro_03::Manual de Assassinato Japunika::::
-1000843::g_jpnk_shiro_06::Revisão / Vingança::::
+1000843::g_jpnk_shiro_06::Revisão / Revanche::::
 1000846::g_jpnk_shiro_09::Sakura::::
 1000847::g_jpnk_shiro_10::Rin::::
 1000848::g_jpnk_shiro_11::Saber::::
 1000849::g_jpnk_shiro_12::Illya::::
 1000852::g_jpnk_shinj_03::Manual de Assassinato Japunika::::
-1000855::g_jpnk_shinj_06::Revisão / Vingança::::
+1000855::g_jpnk_shinj_06::Revisão / Revanche::::
 1000858::g_jpnk_shinj_09::Sakura::::
 1000869::g_rp_btn_10_8::8 de Outubro::::
 1000870::g_rp_btn_10_9::9 de Outubro::::
@@ -686,7 +686,7 @@ id=qid::label=str::string=lstr::string_jp=str::
 1000873::g_rp_btn_eclps::Eclipse::::
 1000874::g_rp_btn_Hollow::Hollow::::
 1000875::g_rp_btn_einz::Castelo Einzbern::::
-1000876::g_rp_btn_other::Outro::::
+1000876::g_rp_btn_other::Outros::::
 1000878::g_rp_btn_emiya::Mansão Emiya::::
 1000879::g_rp_btn_huyuki::Cidade de Fuyuki::::
 1000880::g_rp_btn_school::Escola::::
@@ -702,9 +702,9 @@ id=qid::label=str::string=lstr::string_jp=str::
 1000926::g_twj_rin::Rin::::
 1000927::g_ex_back::Voltar::::
 1000932::g_ex_gallery::Galeria::::
-1000933::g_ex_movie::Filme::::
-1000934::g_ex_music::Música::::
-1000936::g_ex_scene::Cena::::
+1000933::g_ex_movie::Vídeos::::
+1000934::g_ex_music::Músicas::::
+1000936::g_ex_scene::Cenas::::
 1000955::g_sp_back::Voltar::::
 1001070::g_kya::Kyaah♥::::
 1001071::he_team_oka::Equipe	Série da Estrela da Pesca em Terra	Saint Reborn e Seu Bando Alegre::::
@@ -861,16 +861,16 @@ id=qid::label=str::string=lstr::string_jp=str::
 1002048::hd_name_la4::Lancer::::
 1002049::hd_name_lap::Lancer::::
 1002050::hd_name_bal::Berserker::::
-1002051::hd_name_manl::Manaka Sajyou::::
+1002051::hd_name_manl::Sajyou Manaka::::
 1002052::hd_name_sal::Matou Sakura::::
-1002053::hd_name_ay::Ayaka Sajyou::::
+1002053::hd_name_ay::Sajyou Ayaka::::
 1002054::hd_name_ka::Matou Kariya::::
 1002055::hd_name_kot4::Kotomine Kirei::::
 1002056::hd_name_to::Tohsaka Tokiomi::::
 1002057::hd_name_sas::Matou Sakura::::
 1002058::hd_name_ki::Emiya Kiritsugu::::
 1002059::hd_name_mi::Miyu::::
-1002060::hd_name_ur::Ryunosuke Uryu::::
+1002060::hd_name_ur::Uryu Ryunosuke::::
 1002062::hd_op::Opções::::
 1002063::hd_st::Modo História::::
 1002064::hd_ru::Configurações de Regras::::
@@ -1057,7 +1057,7 @@ id=qid::label=str::string=lstr::string_jp=str::
 110011::jj_kj_res_dkich::Muita Sorte::::
 110012::jj_kj_res_dkyou::Muito Azar::::
 110013::jj_kj_res_ckich::Sorte::::
-110014::jj_kj_res_mkich::Sem Sorte::::
+110014::jj_kj_res_mkich::Sorte Futura::::
 110015::jj_disp0::Dinheiro::::
 110016::jj_disp1::Problemas::::
 110017::jj_disp2::Romance::::
@@ -2170,7 +2170,7 @@ id=qid::label=str::string=lstr::string_jp=str::
 220285::ir_sys_dft_n07::CLIQUE PARA DEFENDER::::
 220286::ir_st1_bg00::OBJETIVO!::::
 220287::ir_st3_goal_00::OBJETIVO::::
-220288::ir_st3_start_00::COMEÇAR::::
+220288::ir_st3_start_00::INICIAR::::
 220289::ir_emo_para00::Confundir::::
 220290::ir_emo_para01::Atordoar::::
 220291::ir_emo_para02::Acelerar!::::
