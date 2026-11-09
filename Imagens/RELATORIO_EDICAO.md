@@ -1,5 +1,17 @@
 # Relatório de edição das imagens
 
+<!-- FASE_8_INICIO -->
+## Situação atual — fase 8 concluída nos arquivos em 08/11/2026
+
+**1.065 imagens válidas, zero problemas técnicos.** Foram concluídos quatro ajustes de margem e, com autorização expressa do usuário, a uniformização dos cinco textos em dez arquivos herdados 1x/2x. Backups verificados de todas as substituições.
+
+As outras 143 imagens herdadas continuam intactas. Os pixels fora das linhas uniformizadas, incluindo as setas das listas de armas, foram preservados. Os 1.068 originais e a planilha não foram alterados. Manifesto e mapa de empacotamento atualizados.
+
+**Próximo passo:** montar o pacote de teste e validá-lo dentro do jogo. A revisão dos arquivos está concluída; não houve compilação, instalação ou teste no jogo nesta fase.
+
+Detalhes, evidências e roteiro do teste: [REVISAO_PARTE_1.md](REVISAO_PARTE_1.md).
+<!-- FASE_8_FIM -->
+
 <!-- FASE_7_INICIO -->
 ## Situação atual — fase 7 concluída em 06/11/2026
 
