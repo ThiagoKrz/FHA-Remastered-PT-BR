@@ -1,0 +1,1832 @@
+{
+  "cena": "6qsqunnke4pj339cq93kurfgmu",
+  "titulo": "Cidade: Episódio da União de Sakura e Caster",
+  "rota": "Dia 4",
+  "arquivo": "6qsqunnke4pj339cq93kurfgmu.epk_dec",
+  "linhas": [
+    {
+      "en": "I arrive at the shopping district.[lr]",
+      "jp": "　商店街までやって来た。[lr]",
+      "Pt-br": "Chego ao distrito comercial.[lr]",
+      "id": 20649,
+      "epk_id": "17372",
+      "label": "$$$message_0131_0000_0000$$$"
+    },
+    {
+      "en": "It's still early for preparing for lunch, but as I'm looking around to see if there's any sales...[lr]",
+      "jp": "　昼の準備にはまだ早いが、何かセールになってないか見て回る、と……[lr]",
+      "Pt-br": "Ainda é cedo para preparar o almoço, mas enquanto estou olhando ao redor para ver se tem alguma promoção...[lr]",
+      "id": 20650,
+      "epk_id": "17373",
+      "label": "$$$message_0131_0000_0001$$$"
+    },
+    {
+      "en": "I coincidentally find Sakura.[lr]",
+      "jp": "　偶然にも桜発見。[lr]",
+      "Pt-br": "Acabo encontrando a Sakura.[lr]",
+      "id": 20651,
+      "epk_id": "17374",
+      "label": "$$$message_0131_0000_0002$$$"
+    },
+    {
+      "en": "Good timing. I'll ask her about today's menu...",
+      "jp": "　ちょうどいい。今日はどんなメニューにしようか聞きかけて[line len=3]",
+      "Pt-br": "Ótimo timing. Vou perguntar a ela sobre o cardápio de hoje...",
+      "id": 20652,
+      "epk_id": "17375",
+      "label": "$$$message_0131_0000_0003$$$"
+    },
+    {
+      "en": "\"...Huh?\"[lr]",
+      "jp": "「………え？」[lr]",
+      "Pt-br": "\"...Hã?\"[lr]",
+      "id": 20653,
+      "epk_id": "17376",
+      "label": "$$$message_0131_0001_0000$$$"
+    },
+    {
+      "en": "I stop and see who she's with.[lr]",
+      "jp": "　立ち止まって、相手をよく見る。[lr]",
+      "Pt-br": "Paro e vejo com quem ela está.[lr]",
+      "id": 20654,
+      "epk_id": "17377",
+      "label": "$$$message_0131_0001_0001$$$"
+    },
+    {
+      "en": "There's no doubt.[lr]",
+      "jp": "　間違いない。[lr]",
+      "Pt-br": "Não há dúvidas.[lr]",
+      "id": 20655,
+      "epk_id": "17378",
+      "label": "$$$message_0131_0001_0002$$$"
+    },
+    {
+      "en": "...It's Caster and Sakura.[lr]",
+      "jp": "　……キャスターと桜の組み合わせか。[lr]",
+      "Pt-br": "...São a Caster e a Sakura.[lr]",
+      "id": 20656,
+      "epk_id": "17379",
+      "label": "$$$message_0131_0001_0003$$$"
+    },
+    {
+      "en": "I've been seeing Caster around lately, but it's rare that she's with someone.",
+      "jp": "　最近、たまにキャスターを外で見かけるが、誰かと一緒というのは珍しい。",
+      "Pt-br": "Tenho visto a Caster por aí ultimamente, mas é raro ela estar com alguém.",
+      "id": 20657,
+      "epk_id": "17380",
+      "label": "$$$message_0131_0001_0004$$$"
+    },
+    {
+      "en": "\"Oh, Senpai!\"[lr]",
+      "jp": "「あ、先輩！」[lr]",
+      "Pt-br": "\"Ah, Senpai!\"[lr]",
+      "id": 20658,
+      "epk_id": "17381",
+      "label": "$$$message_0131_0002_0000$$$"
+    },
+    {
+      "en": "Sakura looks back and calls to me happily.[lr]",
+      "jp": "　振り返って嬉しそうに声を上げる桜。[lr]",
+      "Pt-br": "A Sakura olha para trás e me chama toda feliz.[lr]",
+      "id": 20659,
+      "epk_id": "17382",
+      "label": "$$$message_0131_0002_0001$$$"
+    },
+    {
+      "en": "\"Well, if it isn't Emiya? Good day.\"",
+      "jp": "「あら、衛宮くんじゃない？　ごきげんよう」",
+      "Pt-br": "\"Ora, se não é o Emiya-kun? Bom dia.\"",
+      "id": 20660,
+      "epk_id": "17383",
+      "label": "$$$message_0131_0002_0002$$$"
+    },
+    {
+      "en": "...She didn't call me \"boy.\"[lr]",
+      "jp": "　[line len=3]坊や、と呼ばれなかった。[lr]",
+      "Pt-br": "...Ela não me chamou de \"garoto\".[lr]",
+      "id": 20661,
+      "epk_id": "17384",
+      "label": "$$$message_0131_0003_0000$$$"
+    },
+    {
+      "en": "I'm amazed even just by that, but on top of that, she's smiling alongside Sakura.[lr]",
+      "jp": "　その一事だけでも仰天だというのに、[ruby text=か]糅てて加えて桜と並んで頬を緩ませてるなんて。[lr]",
+      "Pt-br": "Estou impressionado só por isso, mas além de tudo, ela está sorrindo ao lado da Sakura.[lr]",
+      "id": 20662,
+      "epk_id": "17385",
+      "label": "$$$message_0131_0003_0001$$$"
+    },
+    {
+      "en": "Is it a cataclysm, or is it a strange chance of fortune?",
+      "jp": "　天変地異か、星の巡り合わせが特殊なのか。",
+      "Pt-br": "Isso é um cataclismo ou uma estranha maré de sorte?",
+      "id": 20663,
+      "epk_id": "17386",
+      "label": "$$$message_0131_0003_0002$$$"
+    },
+    {
+      "en": "\"Hello. Sakura, you know Caster?\"[lr]",
+      "jp": "「こんちは。桜、キャスターと知り合いだったのか？」[lr]",
+      "Pt-br": "\"Oi. Sakura, você conhece a Caster?\"[lr]",
+      "id": 20664,
+      "epk_id": "17387",
+      "label": "$$$message_0131_0004_0000$$$"
+    },
+    {
+      "en": "\"Oh, you also know Mrs. Caster, Senpai?[lr]",
+      "jp": "「あれ、先輩もキャスターさんとお知り合いだったんですか？[lr]",
+      "Pt-br": "\"Ah, você também conhece a Caster-san, Senpai?[lr]",
+      "id": 20665,
+      "epk_id": "17388",
+      "label": "$$$message_0131_0004_0001$$$"
+    },
+    {
+      "en": "[chgfg textoff=0 storage=桜私服03e(中) time=300]Oh, if she's at Ryudou-senpai's house, then of course you would.\"",
+      "jp": "　[chgfg textoff=0 storage=桜私服03e(中) time=300]あ、柳洞先輩のお宅にいらっしゃるんですから、そうですよね」",
+      "Pt-br": "[chgfg textoff=0 storage=桜私服03e(中) time=300]Ah, se ela está na casa do Ryuudou-senpai, então é claro que você a conheceria.\"",
+      "id": 20666,
+      "epk_id": "17389",
+      "label": "$$$message_0131_0004_0002$$$"
+    },
+    {
+      "en": "\"We don't need to introduce anyone to each other then.[lr]",
+      "jp": "「初対面の挨拶はいらないわね。[lr]",
+      "Pt-br": "\"Nós não precisamos apresentar ninguém um para o outro então.[lr]",
+      "id": 20667,
+      "epk_id": "17390",
+      "label": "$$$message_0131_0005_0000$$$"
+    },
+    {
+      "en": "Hello, Emiya. I'm friends with Miss Matou.\"[lr]",
+      "jp": "　こんにちは衛宮くん。間桐さんとは仲良くさせて貰っているわ」[lr]",
+      "Pt-br": "Olá, Emiya-kun. Sou amiga da Matou-san.\"[lr]",
+      "id": 20668,
+      "epk_id": "17391",
+      "label": "$$$message_0131_0005_0001$$$"
+    },
+    {
+      "en": "\"Senpai is also taking care of me at his home.\"[lr]",
+      "jp": "「わたしも衛宮先輩のお家にお世話になってますし」[lr]",
+      "Pt-br": "\"O Emiya-senpai também cuida de mim lá na casa dele.\"[lr]",
+      "id": 20669,
+      "epk_id": "17392",
+      "label": "$$$message_0131_0005_0002$$$"
+    },
+    {
+      "en": "\"Yes. Since we are in similar situations, [cacheimage storage=キャスター私服01c(中)][wvl][chgfg textoff=0 time=300 storage=キャスター私服01c(中)]we couldn't help but get lost in conversation.\"",
+      "jp": "「ええ。境遇が似てるからか、[cacheimage storage=キャスター私服01c(中)][wvl][chgfg textoff=0 time=300 storage=キャスター私服01c(中)]つい話が弾んでしまって」",
+      "Pt-br": "\"Sim. Como estamos em situações parecidas, [cacheimage storage=キャスター私服01c(中)][wvl][chgfg textoff=0 time=300 storage=キャスター私服01c(中)]não pudemos evitar de nos perder na conversa.\"",
+      "id": 20670,
+      "epk_id": "17393",
+      "label": "$$$message_0131_0005_0003$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「………………」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 20671,
+      "epk_id": "17394",
+      "label": "$$$message_0131_0006_0000$$$"
+    },
+    {
+      "en": "I gulp down the objection that almost came out of my throat.[lr]",
+      "jp": "　喉を出かけた[ruby text=つっこみ char=2]抗議を飲み込む。[lr]",
+      "Pt-br": "Engulo a objeção que quase saiu da minha garganta.[lr]",
+      "id": 20672,
+      "epk_id": "17395",
+      "label": "$$$message_0131_0006_0001$$$"
+    },
+    {
+      "en": "Caster is not the Caster I know.[lr]",
+      "jp": "　キャスターは今までのキャスターではない。[lr]",
+      "Pt-br": "A Caster não é a Caster que eu conheço.[lr]",
+      "id": 20673,
+      "epk_id": "17396",
+      "label": "$$$message_0131_0006_0002$$$"
+    },
+    {
+      "en": "No matter how one looks at it, she looks like a perfect and beautiful wife from a good upbringing.[lr]",
+      "jp": "　どこからどう見ても育ちの良い奥様というか、パーフェクト美人妻そのものだ。[lr]",
+      "Pt-br": "Não importa por qual ângulo se olhe: ela parece a esposa perfeita, linda e de boa família.[lr]",
+      "id": 20674,
+      "epk_id": "17397",
+      "label": "$$$message_0131_0006_0003$$$"
+    },
+    {
+      "en": "Well, it's hard for me to accept this situation either way.",
+      "jp": "　まあ、にわかには信じられない状況なのだが。",
+      "Pt-br": "Bom, de qualquer jeito, é difícil para mim aceitar essa situação.",
+      "id": 20675,
+      "epk_id": "17398",
+      "label": "$$$message_0131_0006_0004$$$"
+    },
+    {
+      "en": "\"...Umm, hello?[lr]",
+      "jp": "「……あのー、もしもし。[lr]",
+      "Pt-br": "\"...Hum, com licença?[lr]",
+      "id": 20676,
+      "epk_id": "17399",
+      "label": "$$$message_0131_0007_0000$$$"
+    },
+    {
+      "en": "Excuse me for asking, but how did you two meet?\"[lr]",
+      "jp": "　つかぬ事を尋ねますが、おふたりはどんな馴れ初めだったのでしょうか？」[lr]",
+      "Pt-br": "Desculpe a pergunta, mas como vocês duas se conheceram?\"[lr]",
+      "id": 20677,
+      "epk_id": "17400",
+      "label": "$$$message_0131_0007_0001$$$"
+    },
+    {
+      "en": "The incredible shock makes me talk like a news reporter.[lr]",
+      "jp": "　あまりの衝撃についレポーター口調になる。[lr]",
+      "Pt-br": "O choque incrivel me faz falar como um repórter de jornal.[lr]",
+      "id": 20678,
+      "epk_id": "17401",
+      "label": "$$$message_0131_0007_0002$$$"
+    },
+    {
+      "en": "\"Right, you see...!\"",
+      "jp": "「はい、それはですね！」",
+      "Pt-br": "\"Pois é, veja bem...!\"",
+      "id": 20679,
+      "epk_id": "17402",
+      "label": "$$$message_0131_0007_0003$$$"
+    },
+    {
+      "en": "\"You're cute, young lady.[lr]",
+      "jp": "「かわいいじゃねえかお嬢ちゃん。[lr]",
+      "Pt-br": "\"Você é bem fofa, mocinha.[lr]",
+      "id": 20680,
+      "epk_id": "17403",
+      "label": "$$$message_0131_0008_0000$$$"
+    },
+    {
+      "en": "What, do you call it a maid nowadays? Domestic girls are nice.[lr]",
+      "jp": "　なに、最近はメイドっていうのか？　家庭的な女の子っていうのもいいもんだねぇ。[lr]",
+      "Pt-br": "Como é que se diz hoje em dia, empregada? Meninas domésticas são ótimas.[lr]",
+      "id": 20681,
+      "epk_id": "17404",
+      "label": "$$$message_0131_0008_0001$$$"
+    },
+    {
+      "en": "Hey, why don't you hang out with me once you're done shopping? In fact, why don't we go around together and I carry your stuff?\"",
+      "jp": "　どうだい、買い物が終わったら俺に付き合わないか？　なんだったら一緒に回って荷物持ちを引き受けるぜ？」",
+      "Pt-br": "Ei, por que não sai comigo depois que terminar as compras? Aliás, por que a gente não dá uma volta juntos e eu carrego as suas coisas?\"",
+      "id": 20682,
+      "epk_id": "17405",
+      "label": "$$$message_0131_0008_0002$$$"
+    },
+    {
+      "en": "\"Uh, u-um, well, this and that is...\"[lr]",
+      "jp": "「え、あ、あのその、それとこれとは……」[lr]",
+      "Pt-br": "\"Hã, h-hum, bem, é que...\"[lr]",
+      "id": 20683,
+      "epk_id": "17406",
+      "label": "$$$message_0131_0009_0000$$$"
+    },
+    {
+      "en": "\"Don't be so scared, I'm not rude enough to chew you out. Enjoying the present as much as possible is my policy. I won't make you bored, and I'll make your time so sweet that you'll never be left wanting...\"",
+      "jp": "「そう怖がりなさんな、とって食おうってほど野暮じゃ[br backlog=0]ねえさ。オレぁ出来るだけ今を楽しもうってのがポリシー[br backlog=0]でね。退屈はさせねえし、後を引かない甘い時間をだな[br backlog=0][line len=3]」",
+      "Pt-br": "\"Não fique com tanto medo, eu não sou mal educado a ponto de te dar um sermão. Aproveitar o presente o máximo possível é o meu lema. Eu não vou te deixar entediada e vou fazer o seu tempo tão doce que você nunca vai se cansar...\"",
+      "id": 20684,
+      "epk_id": "17407",
+      "label": "$$$message_0131_0009_0001$$$"
+    },
+    {
+      "en": "\"Stop right there, you mongrel![rf][lr]",
+      "jp": "「お待ちなさいそこの駄犬！[rf][lr]",
+      "Pt-br": "\"Pare bem aí, seu vira-lata![rf][lr]",
+      "id": 20685,
+      "epk_id": "17408",
+      "label": "$$$message_0131_0010_0000$$$"
+    },
+    {
+      "en": "This is everyone's Mount Miyama shopping district. I won't let you act self-centered and do as you please like Jason; even if the church allows it, I won't allow it!\"",
+      "jp": "　ここは天下のマウント深山商店街、イアソンのようにジコチューで好き勝手な振る舞い、[ruby text=てん o2o=1]教会が許してもこの私が許さなくてよ！」",
+      "Pt-br": "Este é o distrito comercial da Montanha Miyama, e ele é de todo mundo. Não vou deixar você agir como um egocêntrico e fazer o que quiser igual ao Jasão; mesmo que a igreja permita, eu não permitirei!\"",
+      "id": 20686,
+      "epk_id": "17409",
+      "label": "$$$message_0131_0010_0001$$$"
+    },
+    {
+      "en": "\"Guh...it's the witch of the mountains.[lr]",
+      "jp": "「げ[line len=3]お山の魔女じゃねえか。[lr]",
+      "Pt-br": "\"Guh... é a bruxa das montanhas.[lr]",
+      "id": 20687,
+      "epk_id": "17410",
+      "label": "$$$message_0131_0011_0000$$$"
+    },
+    {
+      "en": "Shoo, the one I have business with is the [font italic=true]young[font italic=false] lady.[lr]",
+      "jp": "　シッシッ、用があるのは[ruby text=・・・ o2o=1]女の子なんだよ[ruby text=・・・ o2o=1]女の子。[lr]",
+      "Pt-br": "Xô, meu negócio é com a [font italic=true]jovem[font italic=false] dama.[lr]",
+      "id": 20688,
+      "epk_id": "17411",
+      "label": "$$$message_0131_0011_0001$$$"
+    },
+    {
+      "en": "Get it? I have nothing to give to an old lady, so get your saury and flounder and get outta here!\"[lr]",
+      "jp": "　分かるか？　子がつかないおばさんにやるモンはねぇ、さっさとサンマとカレイ買って帰りやがれ！」[lr]",
+      "Pt-br": "Entendeu? Não tenho nada para dar pra uma velha, então pegue sua sardinha-agulha e seu linguado e dê o fora daqui!\"[lr]",
+      "id": 20689,
+      "epk_id": "17412",
+      "label": "$$$message_0131_0011_0002$$$"
+    },
+    {
+      "en": "\"Old...lady?\"",
+      "jp": "「お・ば・さ・ん？」",
+      "Pt-br": "\"Velha...?\"",
+      "id": 20690,
+      "epk_id": "17413",
+      "label": "$$$message_0131_0011_0003$$$"
+    },
+    {
+      "en": "\"Heheheheh. I couldn't hear you well, Lancer. Can you say it again?[lr]",
+      "jp": "「ほほほほほ。よく聞こえなかったわランサー、もう一度言っていただけるかしら？[lr]",
+      "Pt-br": "\"Heheheheh. Não consegui ouvir direito, Lancer. Poderia repetir?[lr]",
+      "id": 20691,
+      "epk_id": "17414",
+      "label": "$$$message_0131_0012_0000$$$"
+    },
+    {
+      "en": "If you do, I'll turn you into a hot dog running around covered in fire without mercy!\"",
+      "jp": "　そうしたら遠慮なく、全身に火がついて走り回るようなホットドッグにしてあげてよ？」",
+      "Pt-br": "Se você o fizer, vou te transformar num cachorro-quente correndo por aí coberto de fogo sem a menor piedade!\"",
+      "id": 20692,
+      "epk_id": "17415",
+      "label": "$$$message_0131_0012_0001$$$"
+    },
+    {
+      "en": "\"You have no restraint at all, you fool! You should also know your place!\"[lr]",
+      "jp": "「バカヤロウ、とっくに遠慮なしじゃねえか！　そっちこそ場所をわきまえろ！」[lr]",
+      "Pt-br": "\"Você não tem a menor restrição, sua tola! Também devia se colocar no seu lugar!\"[lr]",
+      "id": 20693,
+      "epk_id": "17416",
+      "label": "$$$message_0131_0013_0000$$$"
+    },
+    {
+      "en": "\"Come to think of it. [l][say storage=cty0416_cas_0061 name=キャスター]I'm a customer, and you're the store clerk of the fish shop, right? Customer service is enduring complaints from customers with a smile.\"",
+      "jp": "「何を言うかと思えば。[l][say storage=cty0416_cas_0061 name=キャスター]私はお客様、貴方は魚屋の店員でしょう？　クレームには笑顔で堪え忍ぶのが接客というものよ」",
+      "Pt-br": "\"Pensando bem. [l][say storage=cty0416_cas_0061 name=キャスター]Eu sou uma cliente, e você é o balconista da peixaria, certo? Atendimento ao cliente é aguentar reclamações dos clientes com um sorriso.\"",
+      "id": 20694,
+      "epk_id": "17417",
+      "label": "$$$message_0131_0013_0001$$$"
+    },
+    {
+      "en": "\"Khh, you've gotten used to shopping, you vixen...ugh, today's not my day! [l][say storage=cty0416_ran_0041 name=ランサー]So long, I can't afford to get fired anymore!\"[lr]",
+      "jp": "「く、ハンパに買い物慣れしやがってこの女狐[line len=3]ええい、今日は日が悪い！　[l][say storage=cty0416_ran_0041 name=ランサー]あばよ、これ以上クビになってたまるかってのー！」[lr]",
+      "Pt-br": "\"Khh, você se acostumou com as compras, sua víbora... ugh, hoje não é meu dia de sorte! [l][say storage=cty0416_ran_0041 name=ランサー]Até mais, eu não posso mais me dar ao luxo de ser demitido!\"[lr]",
+      "id": 20695,
+      "epk_id": "17418",
+      "label": "$$$message_0131_0014_0000$$$"
+    },
+    {
+      "en": "\"Heheheh, how foolish of you, Lancer.[lr]",
+      "jp": "「ふふふ、愚かねぇランサー。[lr]",
+      "Pt-br": "\"Heheheh, que tolo de sua parte, Lancer.[lr]",
+      "id": 20696,
+      "epk_id": "17419",
+      "label": "$$$message_0131_0014_0001$$$"
+    },
+    {
+      "en": "You should realize that us housewives are the strongest in this shopping district...!\"",
+      "jp": "　この商店街では私たち主婦こそが最強なのだと思い知るといいのだわ……！」",
+      "Pt-br": "Você devia saber que nós donas de casa somos as mais fortes nesse distrito comercial...!\"",
+      "id": 20697,
+      "epk_id": "17420",
+      "label": "$$$message_0131_0014_0002$$$"
+    },
+    {
+      "en": "\"...Now.[lr]",
+      "jp": "「……さて。[lr]",
+      "Pt-br": "\"...Muito bem.[lr]",
+      "id": 20698,
+      "epk_id": "17421",
+      "label": "$$$message_0131_0015_0000$$$"
+    },
+    {
+      "en": "Sorry for causing a commotion. Was I overstepping there, young lady?\"[lr]",
+      "jp": "　騒がせてごめんなさいね。余計なお世話だったかしら、お嬢さん？」[lr]",
+      "Pt-br": "Desculpe causar essa comoção. Fui além da conta, mocinha?\"[lr]",
+      "id": 20699,
+      "epk_id": "17422",
+      "label": "$$$message_0131_0015_0001$$$"
+    },
+    {
+      "en": "\"N-No, thank you![lr]",
+      "jp": "「い、いえ、ありがとうございました！[lr]",
+      "Pt-br": "\"N-Não, obrigada![lr]",
+      "id": 20700,
+      "epk_id": "17423",
+      "label": "$$$message_0131_0015_0002$$$"
+    },
+    {
+      "en": "Um, if you don't mind, can you tell me your name...\"",
+      "jp": "　あの、もしよろしければお名前を[line len=3]」",
+      "Pt-br": "Hum, se não se importar, pode me dizer o seu nome...\"",
+      "id": 20701,
+      "epk_id": "17424",
+      "label": "$$$message_0131_0015_0003$$$"
+    },
+    {
+      "en": "\"...And that's how we became friends.\"[lr]",
+      "jp": "「……という事がありまして、それ以来仲良くさせて頂いてるんですよ？」[lr]",
+      "Pt-br": "\"...E foi assim que viramos amigas.\"[lr]",
+      "id": 20702,
+      "epk_id": "17425",
+      "label": "$$$message_0131_0016_0000$$$"
+    },
+    {
+      "en": "\"Caster, do you have a minute...?\"[lr]",
+      "jp": "「ちょっといいか？　キャスター……」[lr]",
+      "Pt-br": "\"Caster, você tem um minuto...?\"[lr]",
+      "id": 20703,
+      "epk_id": "17426",
+      "label": "$$$message_0131_0016_0001$$$"
+    },
+    {
+      "en": "I motion Caster over to the side.",
+      "jp": "　キャスターを手招きして隅に寄る。",
+      "Pt-br": "Eu aceno para a Caster vir para o lado.",
+      "id": 20704,
+      "epk_id": "17427",
+      "label": "$$$message_0131_0016_0002$$$"
+    },
+    {
+      "en": "\"Hey, what's going on? I appreciate that you saved Sakura, but you're not scheming anything, are you?\"[lr]",
+      "jp": "「ちょい、どういうコトだよ一体。桜を助けてくれたのは感謝するけど、何か企んでるんじゃないだろうな」[lr]",
+      "Pt-br": "\"Ei, o que está acontecendo? Agradeço por ter salvo a Sakura, mas você não está armando nada, né?\"[lr]",
+      "id": 20705,
+      "epk_id": "17428",
+      "label": "$$$message_0131_0017_0000$$$"
+    },
+    {
+      "en": "\"Do not worry, I have no other intentions. I just didn't like how Lancer was being dominating here.[lr]",
+      "jp": "「安心なさい、他意はないわ。ランサーがここに[ruby text=ばっこ char=2]跋扈してるのが気に入らなかっただけよ。[lr]",
+      "Pt-br": "\"Não se preocupe, não tenho segundas intenções. Só não gostei do modo como Lancer estava bancando o dominador ali.[lr]",
+      "id": 20706,
+      "epk_id": "17429",
+      "label": "$$$message_0131_0017_0001$$$"
+    },
+    {
+      "en": "I never liked men like that.\"[lr]",
+      "jp": "　ああいう男は昔から好きになれないから」[lr]",
+      "Pt-br": "Nunca gostei de homens assim.\"[lr]",
+      "id": 20707,
+      "epk_id": "17430",
+      "label": "$$$message_0131_0017_0002$$$"
+    },
+    {
+      "en": "Caster curves her lips into a bewitching smile.[lr]",
+      "jp": "　[ruby text=あで]艶やかなまでに唇を曲げるキャスター。[lr]",
+      "Pt-br": "Caster curva os lábios num sorriso sedutor.[lr]",
+      "id": 20708,
+      "epk_id": "17431",
+      "label": "$$$message_0131_0017_0003$$$"
+    },
+    {
+      "en": "It seems like the elegant young wife doesn't lie.",
+      "jp": "　上品な若奥様に嘘はないようだ。",
+      "Pt-br": "Parece que a jovem esposa elegante não mente.",
+      "id": 20709,
+      "epk_id": "17432",
+      "label": "$$$message_0131_0017_0004$$$"
+    },
+    {
+      "en": "\"Besides, Miss Matou is Souichirou's student, right?[lr]",
+      "jp": "「それに、間桐さんは宗一郎様の教え子でしょう。[lr]",
+      "Pt-br": "\"Além do mais, a Matou-san é aluna do Souichirou, certo?[lr]",
+      "id": 20710,
+      "epk_id": "17433",
+      "label": "$$$message_0131_0018_0000$$$"
+    },
+    {
+      "en": "She's been kind enough to tell me all kinds of things about school.\"[lr]",
+      "jp": "　それで学校での事をいろいろ聞かせて頂いているの」[lr]",
+      "Pt-br": "Ela teve a gentileza de me contar todo tipo de coisa sobre a escola.\"[lr]",
+      "id": 20711,
+      "epk_id": "17434",
+      "label": "$$$message_0131_0018_0001$$$"
+    },
+    {
+      "en": "\"...Hm. You don't talk about that kind of stuff with Issei?\"",
+      "jp": "「……ふうん。一成とはそういうコトを話さないのか？」",
+      "Pt-br": "\"...Hm. Você não conversa sobre esse tipo de coisa com o Issei?\"",
+      "id": 20712,
+      "epk_id": "17435",
+      "label": "$$$message_0131_0018_0002$$$"
+    },
+    {
+      "en": "\"That boy is... He's like a brother-in-law with Souichirou, so he could be a bit more attached to me.\"[lr]",
+      "jp": "「あの子は……宗一郎様とは義理の兄弟のような関係なのだから、もっと私にも懐いてくれればいいのに」[lr]",
+      "Pt-br": "\"Aquele garoto é... quase um cunhado para o Souichirou, então bem que poderia se afeiçoar um pouco mais a mim.\"[lr]",
+      "id": 20713,
+      "epk_id": "17436",
+      "label": "$$$message_0131_0019_0000$$$"
+    },
+    {
+      "en": "\"So if you marry Mr. Kuzuki, you would be Ryudou-senpai's sister-in-law!\"[lr]",
+      "jp": "「じゃあキャスターさんは、葛木先生と結婚されたら、柳洞先輩にとってお義姉さまになるんですね！」[lr]",
+      "Pt-br": "\"Então se Caster-san se casar com o Kuzuki-sensei, você seria cunhada do Ryuudou-senpai!\"[lr]",
+      "id": 20714,
+      "epk_id": "17437",
+      "label": "$$$message_0131_0019_0001$$$"
+    },
+    {
+      "en": "Wow, Issei's trouble with women is following him for life!",
+      "jp": "　うわあ、あいつの女難は一生つきまとうのか！",
+      "Pt-br": "Uau, o problema de Issei com mulheres vai persegui-lo pelo resto da vida!",
+      "id": 20715,
+      "epk_id": "17438",
+      "label": "$$$message_0131_0019_0002$$$"
+    },
+    {
+      "en": "\"I'm sure you two will be able to hit it off more if that happens.[lr]",
+      "jp": "「そうしたらもっと打ち解け合えますよ。[lr]",
+      "Pt-br": "\"Tenho certeza de que vocês dois vão se dar muito bem se isso acontecer.[lr]",
+      "id": 20716,
+      "epk_id": "17439",
+      "label": "$$$message_0131_0020_0000$$$"
+    },
+    {
+      "en": "I'm jealous of Ryudou-senpai... [cacheimage storage=桜私服05e(中)][wvl][chgfg textoff=0 storage=桜私服05e(中) pos=r time=400]Right, Senpai?\"[lr]",
+      "jp": "　羨ましいなあ、柳洞先輩……[cacheimage storage=桜私服05e(中)][wvl][chgfg textoff=0 storage=桜私服05e(中) pos=r time=400]ね、先輩？」[lr]",
+      "Pt-br": "Tenho inveja do Ryuudou-senpai... [cacheimage storage=桜私服05e(中)][wvl][chgfg textoff=0 storage=桜私服05e(中) pos=r time=400]Né, Ryuudou-senpai?\"[lr]",
+      "id": 20717,
+      "epk_id": "17440",
+      "label": "$$$message_0131_0020_0001$$$"
+    },
+    {
+      "en": "\"...Well, yeah.\"[lr]",
+      "jp": "「……ああ、まあな」[lr]",
+      "Pt-br": "\"...Bom, é.\"[lr]",
+      "id": 20718,
+      "epk_id": "17441",
+      "label": "$$$message_0131_0020_0002$$$"
+    },
+    {
+      "en": "\"How nice, newlyweds are so lovely.\"[lr]",
+      "jp": "「いいですよね新婚って、素敵ですよねー」[lr]",
+      "Pt-br": "\"Que lindo. Recém-casados são mesmo encantadores.\"[lr]",
+      "id": 20719,
+      "epk_id": "17442",
+      "label": "$$$message_0131_0020_0003$$$"
+    },
+    {
+      "en": "\"Heheheh, oh no, you're making me embarrassed.\"",
+      "jp": "「ふふふ、いやだわ、そんなに言われると照れるわよ」",
+      "Pt-br": "\"Heheheh, ai não, você me deixa com vergonha.\"",
+      "id": 20720,
+      "epk_id": "17443",
+      "label": "$$$message_0131_0020_0004$$$"
+    },
+    {
+      "en": "Caster is being humble, but she can't hide her joy.[lr]",
+      "jp": "　謙遜するが、喜びを隠しきれないキャスター。[lr]",
+      "Pt-br": "A Caster está sendo humilde, mas não consegue esconder sua alegria.[lr]",
+      "id": 20721,
+      "epk_id": "17444",
+      "label": "$$$message_0131_0021_0000$$$"
+    },
+    {
+      "en": "All right, all right, Caster. No matter how much you pretend to stay calm, your happiness is overflowing.",
+      "jp": "　はいはい。キャスターさん、どんなに冷静をよそおっても幸せがこぼれてますよ。",
+      "Pt-br": "Tudo bem, Caster-san, já entendemos. Por mais que tente parecer calma, sua felicidade está transbordando.",
+      "id": 20722,
+      "epk_id": "17445",
+      "label": "$$$message_0131_0021_0001$$$"
+    },
+    {
+      "en": "\"Don't you also have a lovely person too, Miss Matou?\"[lr]",
+      "jp": "「そういう間桐さんにも、素敵な人がいるんでしょう？」[lr]",
+      "Pt-br": "\"Você também não tem uma pessoa adorável, Matou-san?\"[lr]",
+      "id": 20723,
+      "epk_id": "17446",
+      "label": "$$$message_0131_0022_0000$$$"
+    },
+    {
+      "en": "\"[shock vmax=20 time=300 count=-3]Huh! U-Um!\"",
+      "jp": "「[shock vmax=20 time=300 count=-3]え！　あ、あの！」",
+      "Pt-br": "\"[shock vmax=20 time=300 count=-3]Hã! H-Hum!\"",
+      "id": 20724,
+      "epk_id": "17447",
+      "label": "$$$message_0131_0022_0001$$$"
+    },
+    {
+      "en": "\"Well, um... [cacheimage storage=桜私服05d頬(中)][wvl][chgfg textoff=0 time=300 storage=桜私服05d頬(中)]I've never been in a long-term relationship with something like m-marriage in mind, [cacheimage storage=桜私服05d頬(中)][wvl][chgfg textoff=0 time=300 storage=桜私服05d頬(中)]and it'll be a while until we'll be able to talk about something so personal...[lr]",
+      "jp": "「えーっと、その……[cacheimage storage=桜私服16a頬(中)][wvl][chgfg textoff=0 time=300 storage=桜私服16a頬(中)]け、結婚とかそういう長い視野でのお付き合いは全然できてませんし、[cacheimage storage=桜私服05d頬(中)][wvl][chgfg textoff=0 time=300 storage=桜私服05d頬(中)]そういう立ち入った話はまだまだ先で[line len=3][lr]",
+      "Pt-br": "\"Bem, hum... [cacheimage storage=桜私服05d頬(中)][wvl][chgfg textoff=0 time=300 storage=桜私服05d頬(中)]Eu nunca estive num relacionamento de longo prazo pensando em algo c-como casamento, [cacheimage storage=桜私服05d頬(中)][wvl][chgfg textoff=0 time=300 storage=桜私服05d頬(中)]e vai demorar um pouco até podermos falar sobre algo tão pessoal...[lr]",
+      "id": 20725,
+      "epk_id": "17448",
+      "label": "$$$message_0131_0023_0000$$$"
+    },
+    {
+      "en": "[chgfg textoff=0 storage=桜私服14c(中) pos=r time=300]That person has no parents, but I get along with their guardian, [cacheimage storage=桜私服02b頬(中)][wvl][chgfg textoff=0 time=300 storage=桜私服02b頬(中)]so eventually, [cacheimage storage=桜私服08a頬(中)][wvl][chgfg textoff=0 time=300 storage=桜私服08a頬(中)]um[line len=2]\"",
+      "jp": "　[chgfg textoff=0 storage=桜私服14c(中) pos=r time=300]で、でも、その方にご両親はいらっしゃらないんですが、その保護者の方とは上手くいってますから、[cacheimage storage=桜私服02b頬(中)][wvl][chgfg textoff=0 time=300 storage=桜私服02b頬(中)]いつかは、[cacheimage storage=桜私服08a頬(中)][wvl][chgfg textoff=0 time=300 storage=桜私服08a頬(中)]あの」",
+      "Pt-br": "[chgfg textoff=0 storage=桜私服14c(中) pos=r time=300]Essa pessoa não tem pais, mas eu me dou bem com a tutora, [cacheimage storage=桜私服02b頬(中)][wvl][chgfg textoff=0 time=300 storage=桜私服02b頬(中)]então quem sabe um dia, [cacheimage storage=桜私服08a頬(中)][wvl][chgfg textoff=0 time=300 storage=桜私服08a頬(中)]hum[line len=2]\"",
+      "id": 20726,
+      "epk_id": "17449",
+      "label": "$$$message_0131_0023_0001$$$"
+    },
+    {
+      "en": "Sakura flaps her arms awkwardly.[lr]",
+      "jp": "　パタパタと不思議な動きをする桜。[lr]",
+      "Pt-br": "A Sakura balança os braços, sem jeito.[lr]",
+      "id": 20727,
+      "epk_id": "17450",
+      "label": "$$$message_0131_0024_0000$$$"
+    },
+    {
+      "en": "\"Hehe, how cute.\"[lr]",
+      "jp": "「くすくす、可愛いじゃない」[lr]",
+      "Pt-br": "\"Hehe, que fofa.\"[lr]",
+      "id": 20728,
+      "epk_id": "17451",
+      "label": "$$$message_0131_0024_0001$$$"
+    },
+    {
+      "en": "Caster looks on with a smile.[lr]",
+      "jp": "　それを微笑ましく見守るキャスター。[lr]",
+      "Pt-br": "A Caster a observa com um sorriso.[lr]",
+      "id": 20729,
+      "epk_id": "17452",
+      "label": "$$$message_0131_0024_0002$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「………………」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 20730,
+      "epk_id": "17453",
+      "label": "$$$message_0131_0024_0003$$$"
+    },
+    {
+      "en": "As for me, I'm embarrassed, not knowing who might be listening in this familiar shopping district...",
+      "jp": "　こっちとしては、馴染みの商店街なので誰に聞かれているか気恥ずかしくてどうしたもの、か[line len=3]？",
+      "Pt-br": "Já eu estou cheio de vergonha, sem saber quem poderia estar escutando neste distrito comercial familiar...",
+      "id": 20731,
+      "epk_id": "17454",
+      "label": "$$$message_0131_0024_0004$$$"
+    },
+    {
+      "en": "[font italic=true]Guh, is that Rider...!?[font italic=false][lr]",
+      "jp": "　ぐわ、アレに見えるはライダーかっ……！！？[lr]",
+      "Pt-br": "[font italic=true]Guh, aquela é a Rider...!?[font italic=false][lr]",
+      "id": 20732,
+      "epk_id": "17455",
+      "label": "$$$message_0131_0025_0000$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「[line len=9]」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 20733,
+      "epk_id": "17456",
+      "label": "$$$message_0131_0025_0001$$$"
+    },
+    {
+      "en": "...But. Rider isn't teasing, but instead, she's peering over here like a snake that's gazing at her prey.",
+      "jp": "　……が。ライダーはからかうでもなく、なんかエモノを眺めるヘビみたいな目でこっちを窺っている。",
+      "Pt-br": "...Mas Rider não está provocando; está espiando para cá como uma serpente observando a presa.",
+      "id": 20734,
+      "epk_id": "17457",
+      "label": "$$$message_0131_0025_0002$$$"
+    },
+    {
+      "en": "\"...Right? Senpai!\"[lr]",
+      "jp": "「……なんですよ、ね？　先輩！」[lr]",
+      "Pt-br": "\"...Né? Senpai!\"[lr]",
+      "id": 20735,
+      "epk_id": "17458",
+      "label": "$$$message_0131_0026_0000$$$"
+    },
+    {
+      "en": "\"Huh?\"[lr]",
+      "jp": "「え？」[lr]",
+      "Pt-br": "\"Hã?\"[lr]",
+      "id": 20736,
+      "epk_id": "17459",
+      "label": "$$$message_0131_0026_0001$$$"
+    },
+    {
+      "en": "\"That you were my first cooking teacher.\"[lr]",
+      "jp": "「ですから先輩がわたしのお料理の先生だって」[lr]",
+      "Pt-br": "\"Que você foi o meu primeiro Sensei de culinária, Senpai.\"[lr]",
+      "id": 20737,
+      "epk_id": "17460",
+      "label": "$$$message_0131_0026_0002$$$"
+    },
+    {
+      "en": "\"Well, I did teach you the first steps.\"",
+      "jp": "「まあ、初歩を教えたっていうなら、確かに」",
+      "Pt-br": "\"Bom, eu te ensinei os primeiros passos, sim.\"",
+      "id": 20738,
+      "epk_id": "17461",
+      "label": "$$$message_0131_0026_0003$$$"
+    },
+    {
+      "en": "\"Really?[lr]",
+      "jp": "「そうだったの。[lr]",
+      "Pt-br": "\"É mesmo?[lr]",
+      "id": 20739,
+      "epk_id": "17462",
+      "label": "$$$message_0131_0027_0000$$$"
+    },
+    {
+      "en": "Cooking for Souichirou is nice, but cooking together is lovely, too.\"",
+      "jp": "　宗一郎様のためにお料理するのもいいけど、夫婦そろって食事の支度をするというのも素敵ね」",
+      "Pt-br": "Cozinhar para o Souichirou é bom, mas cozinhar juntos também é muito adorável.\"",
+      "id": 20740,
+      "epk_id": "17463",
+      "label": "$$$message_0131_0027_0001$$$"
+    },
+    {
+      "en": "\"Souichirou, can you gut this sea bream directly shipped from Akashi?\"[lr]",
+      "jp": "「それでは宗一郎様、こちらの明石直送の[ruby text=たい]鯛を[ruby text=さば]捌いていただけますか？」[lr]",
+      "Pt-br": "\"Souichirou-sama, você consegue limpar esse pargo trazido diretamente de Akashi?\"[lr]",
+      "id": 20741,
+      "epk_id": "17464",
+      "label": "$$$message_0131_0028_0000$$$"
+    },
+    {
+      "en": "\"Hm, but there is no need for any weapons.\"",
+      "jp": "「うむ、だが得物は必要ない」",
+      "Pt-br": "\"Hm, mas não há a menor necessidade de armas.\"",
+      "id": 20742,
+      "epk_id": "17465",
+      "label": "$$$message_0131_0028_0001$$$"
+    },
+    {
+      "en": "\"Oh, Souichirou![lr]",
+      "jp": "「ああ、宗一郎様！[lr]",
+      "Pt-br": "\"Ah, Souichirou-sama![lr]",
+      "id": 20743,
+      "epk_id": "17466",
+      "label": "$$$message_0131_0029_0000$$$"
+    },
+    {
+      "en": "What impressive live fish filleting for sashimi! And with your bare hands!\"[lr]",
+      "jp": "　なんて見事な活け作りを、素手で！」[lr]",
+      "Pt-br": "Que impressionante como você fileta um peixe vivo para sashimi! E com as próprias mãos!\"[lr]",
+      "id": 20744,
+      "epk_id": "17467",
+      "label": "$$$message_0131_0029_0001$$$"
+    },
+    {
+      "en": "\"Although it's different from gutting a live person...\"",
+      "jp": "「生者を[ruby text=さば]捌くのとは勝手が違うが……」",
+      "Pt-br": "\"Ainda que seja diferente de abrir o estômago de uma pessoa viva...\"",
+      "id": 20745,
+      "epk_id": "17468",
+      "label": "$$$message_0131_0029_0002$$$"
+    },
+    {
+      "en": "\"To think that the skills I've gained to take away lives is making food that doesn't take away lives. I shall thank you for the precious experience, Caster.\"",
+      "jp": "「命を奪うために培った技術が、命を奪わぬ料理を生むとはな。得難い経験だ、礼を言うぞキャスター」",
+      "Pt-br": "\"Pensar que as habilidades que eu adquiri para tirar vidas estão fazendo comida que não tiram vidas. Tenho que te agradecer pela experiência valiosa, Caster.\"",
+      "id": 20746,
+      "epk_id": "17469",
+      "label": "$$$message_0131_0030_0000$$$"
+    },
+    {
+      "en": "\"I don't deserve those words...[lr]",
+      "jp": "「なんてもったいないお言葉……ぽっ。[lr]",
+      "Pt-br": "\"Eu não mereço tais palavras...[lr]",
+      "id": 20747,
+      "epk_id": "17470",
+      "label": "$$$message_0131_0031_0000$$$"
+    },
+    {
+      "en": "Ah, I want to see him in an apron...\"[lr]",
+      "jp": "　ああ、エプロン姿を見てみたい……」[lr]",
+      "Pt-br": "Ah, queria tanto ver ele de avental...\"[lr]",
+      "id": 20748,
+      "epk_id": "17471",
+      "label": "$$$message_0131_0031_0001$$$"
+    },
+    {
+      "en": "...I don't know why they're making sea bream sashimi at a Zen temple, but I got the vibe that I shouldn't ask such a tactless question.",
+      "jp": "　……なぜ禅寺で鯛を活け作りするのか、そんな無粋なコトを訊いてはいけない雰囲気が漂っていた。",
+      "Pt-br": "...Eu não sei por que eles estariam fazendo sashimi de pargo num templo zen, mas sinto que é melhor não fazer uma pergunta tão sem tato.",
+      "id": 20749,
+      "epk_id": "17472",
+      "label": "$$$message_0131_0031_0002$$$"
+    },
+    {
+      "en": "\"However...\"[lr]",
+      "jp": "「しかし[line len=3]」[lr]",
+      "Pt-br": "\"No entanto...\"[lr]",
+      "id": 20750,
+      "epk_id": "17473",
+      "label": "$$$message_0131_0032_0000$$$"
+    },
+    {
+      "en": "As I'm looking at them like this, the pairing of Sakura and Caster may not be that odd.[lr]",
+      "jp": "　こうして見ると、桜とキャスターの組み合わせはそうおかしなコトでもないのかもしれない。[lr]",
+      "Pt-br": "As vendo assim, a dupla Sakura e Caster talvez nem seja tão estranha.[lr]",
+      "id": 20751,
+      "epk_id": "17474",
+      "label": "$$$message_0131_0032_0001$$$"
+    },
+    {
+      "en": "One is a housewife, and one is a hard-core domestic helper.[lr]",
+      "jp": "　かたや主婦、かたや筋金入りの家事手伝い。[lr]",
+      "Pt-br": "Uma é dona de casa e a outra é uma ajudante doméstica linha dura.[lr]",
+      "id": 20752,
+      "epk_id": "17475",
+      "label": "$$$message_0131_0032_0002$$$"
+    },
+    {
+      "en": "They're both the type to hold things in, so they may be pretty similar.",
+      "jp": "　どちらも色々と内に溜めるタイプっぽいし、わりと似たもの同士なのかも。",
+      "Pt-br": "Ambas são do tipo que guardam as coisas para si, então podem ser bem parecidas.",
+      "id": 20753,
+      "epk_id": "17476",
+      "label": "$$$message_0131_0032_0003$$$"
+    },
+    {
+      "en": "\"...Both Sakura and Caster are mages, too.\"[lr]",
+      "jp": "「……桜もキャスターも魔術師だしなあ」[lr]",
+      "Pt-br": "\"...Tanto a Sakura quanto a Caster também são magas.\"[lr]",
+      "id": 20754,
+      "epk_id": "17477",
+      "label": "$$$message_0131_0033_0000$$$"
+    },
+    {
+      "en": "We're in public, so I keep my voice especially low.",
+      "jp": "　天下の往来なので、殊更に声を低める。",
+      "Pt-br": "Estamos em público, então mantenho minha voz bem baixa.",
+      "id": 20755,
+      "epk_id": "17478",
+      "label": "$$$message_0131_0033_0001$$$"
+    },
+    {
+      "en": "\"What, I'm no good at all![lr]",
+      "jp": "「え、わたしはぜんぜん駄目ですよ！[lr]",
+      "Pt-br": "\"O que foi? Eu não sirvo para nada![lr]",
+      "id": 20756,
+      "epk_id": "17479",
+      "label": "$$$message_0131_0034_0000$$$"
+    },
+    {
+      "en": "Even learning from Rider, I trouble her from not improving at all. It's a big difference from you![lr]",
+      "jp": "　ライダーに教えられても進歩がなくて困らせちゃってる程度です。キャスターさんとは大違いです！[lr]",
+      "Pt-br": "Mesmo aprendendo com Rider, dou dor de cabeça a ela porque não melhoro em nada. A diferença entre nós é enorme, Caster-san![lr]",
+      "id": 20757,
+      "epk_id": "17480",
+      "label": "$$$message_0131_0034_0001$$$"
+    },
+    {
+      "en": "I can't compare to her!\"",
+      "jp": "　並べられるなんて、とんでもない！」",
+      "Pt-br": "Eu não chego nem aos pés dela!\"",
+      "id": 20758,
+      "epk_id": "17481",
+      "label": "$$$message_0131_0034_0002$$$"
+    },
+    {
+      "en": "\"There's no need to be humble, you've got plenty of potential... You have some unbelievable powers stored.\"[lr]",
+      "jp": "「卑下することはないわ、素質は十分……溜めている力ならちょっと信じられないくらいあるもの」[lr]",
+      "Pt-br": "\"Não precisa se rebaixar tanto. Você tem bastante potencial... Há poderes inacreditáveis acumulados aí.\"[lr]",
+      "id": 20759,
+      "epk_id": "17482",
+      "label": "$$$message_0131_0035_0000$$$"
+    },
+    {
+      "en": "Is Caster's perception that strong?",
+      "jp": "　キャスターはそこまで見抜いているのか。",
+      "Pt-br": "Será que a percepção da Caster é tão forte assim?",
+      "id": 20760,
+      "epk_id": "17483",
+      "label": "$$$message_0131_0035_0001$$$"
+    },
+    {
+      "en": "\"Ahaha, well I was told by a certain somebody that the only asset I have is my assets, so I worry.\"[lr]",
+      "jp": "「あはは、お肉とそればっかりは無駄なくらいあるって、どこかの誰かさんに言われて困ってますよー」[lr]",
+      "Pt-br": "\"Ahaha, bem, me disseram que os únicos bens que eu tenho são meus bens materiais, então eu fico preocupada.\"[lr]",
+      "id": 20761,
+      "epk_id": "17484",
+      "label": "$$$message_0131_0036_0000$$$"
+    },
+    {
+      "en": "...I look around.[lr]",
+      "jp": "　……周囲を見渡す。[lr]",
+      "Pt-br": "...Eu olho ao redor.[lr]",
+      "id": 20762,
+      "epk_id": "17485",
+      "label": "$$$message_0131_0036_0001$$$"
+    },
+    {
+      "en": "Is there any chance that not just Rider, but Tohsaka is also passing by...?",
+      "jp": "　ライダーだけでなく、たまたま遠坂が通りがかったりしないよな……？",
+      "Pt-br": "Tem alguma chance de que não seja só a Rider, mas que a Tohsaka também esteja passando por aqui...?",
+      "id": 20763,
+      "epk_id": "17486",
+      "label": "$$$message_0131_0036_0002$$$"
+    },
+    {
+      "en": "\"In addition to being mages, women like us have a rocky road ahead of us.[lr]",
+      "jp": "「魔術のコトもありますが、わたしたちみたいな女の人は色々と前途多難だと思います。[lr]",
+      "Pt-br": "\"Além de sermos magas, mulheres como nós temos um caminho pedregoso pela frente.[lr]",
+      "id": 20764,
+      "epk_id": "17487",
+      "label": "$$$message_0131_0037_0000$$$"
+    },
+    {
+      "en": "But, I admire you for being able to build a happy home despite that. [lr]",
+      "jp": "　けど、それでも幸せな家庭を築くキャスターさんはすごいです。[lr]",
+      "Pt-br": "Mas, eu te admiro por ter conseguido construir um lar feliz apesar disso, Caster-san.[lr]",
+      "id": 20765,
+      "epk_id": "17488",
+      "label": "$$$message_0131_0037_0001$$$"
+    },
+    {
+      "en": "Yes, I will follow in your footsteps!\"[lr]",
+      "jp": "　はい、わたしも後に続きます！」[lr]",
+      "Pt-br": "Isso mesmo, eu vou seguir os seus passos!\"[lr]",
+      "id": 20766,
+      "epk_id": "17489",
+      "label": "$$$message_0131_0037_0002$$$"
+    },
+    {
+      "en": "Sakura grips her fists and asserts.[lr]",
+      "jp": "　ぐっと拳を握って、主張する桜。[lr]",
+      "Pt-br": "A Sakura cerra os punhos e afirma.[lr]",
+      "id": 20767,
+      "epk_id": "17490",
+      "label": "$$$message_0131_0037_0003$$$"
+    },
+    {
+      "en": "As if to say her eyes have been opened about life.",
+      "jp": "　わたしの人生開眼しましたー！とばかりに。",
+      "Pt-br": "Como se dissesse que seus olhos foram abertos para a vida.",
+      "id": 20768,
+      "epk_id": "17491",
+      "label": "$$$message_0131_0037_0004$$$"
+    },
+    {
+      "en": "\"And even though you're an amazing mage, I respect how kind and modest you are.\"[lr]",
+      "jp": "「それにすごい魔術師なのにキャスターさんって、優しくて慎ましくて、尊敬しちゃいます」[lr]",
+      "Pt-br": "\"E por mais que Caster-san seja uma maga incrível, eu respeito o quanto você é gentil e modesta.\"[lr]",
+      "id": 20769,
+      "epk_id": "17492",
+      "label": "$$$message_0131_0038_0000$$$"
+    },
+    {
+      "en": "\"Oh, it troubles me to be complimented that much. Even though I have so many imperfections.\"",
+      "jp": "「あらあら、そこまで褒められると困ってしまうわね。私もいたらないところばかりなのに」",
+      "Pt-br": "\"Ah, fico sem graça com tantos elogios. Ainda mais tendo tantas imperfeições.\"",
+      "id": 20770,
+      "epk_id": "17493",
+      "label": "$$$message_0131_0038_0001$$$"
+    },
+    {
+      "en": "She giggles.[lr]",
+      "jp": "　クスクスと笑う。[lr]",
+      "Pt-br": "Ela dá uma risadinha.[lr]",
+      "id": 20771,
+      "epk_id": "17494",
+      "label": "$$$message_0131_0039_0000$$$"
+    },
+    {
+      "en": "It seems like she's being humble, but it also seems true.",
+      "jp": "　謙遜っぽいが、なんかリアルな気もするなあ。",
+      "Pt-br": "Parece estar sendo humilde, mas também parece verdade.",
+      "id": 20772,
+      "epk_id": "17495",
+      "label": "$$$message_0131_0039_0001$$$"
+    },
+    {
+      "en": "\"...Hm, the proportion of being a mage compared to their everyday life.[lr]",
+      "jp": "「……ふうん、魔術師と実生活の割合か。[lr]",
+      "Pt-br": "\"...Hm, a proporção de ser maga comparado ao dia a dia delas.[lr]",
+      "id": 20773,
+      "epk_id": "17496",
+      "label": "$$$message_0131_0040_0000$$$"
+    },
+    {
+      "en": "What do you think about that situation, Caster?\"[lr]",
+      "jp": "　キャスターはそのあたり、どう思うんだ？」[lr]",
+      "Pt-br": "O que você acha dessa situação, Caster?\"[lr]",
+      "id": 20774,
+      "epk_id": "17497",
+      "label": "$$$message_0131_0040_0001$$$"
+    },
+    {
+      "en": "I don't know many mages, so I got a bit interested.",
+      "jp": "　魔術師の知り合いは少ないので、すこし興味が出た。",
+      "Pt-br": "Não conheço muitos magos, então fiquei um pouco interessado.",
+      "id": 20775,
+      "epk_id": "17498",
+      "label": "$$$message_0131_0040_0002$$$"
+    },
+    {
+      "en": "\"That way of thinking itself is wrong, boy.[lr]",
+      "jp": "「その考え方自体が間違えていてよ坊や。[lr]",
+      "Pt-br": "\"Esse jeito de pensar por si só já está errado, garoto.[lr]",
+      "id": 20776,
+      "epk_id": "17499",
+      "label": "$$$message_0131_0041_0000$$$"
+    },
+    {
+      "en": "Magecraft and real life are mutually exclusive. The word 'proportion' itself is something you shouldn't think about.[lr]",
+      "jp": "“魔術”と“実生活”は相容れないもの。割合なんて言葉自体、考えてはいけないものよ。[lr]",
+      "Pt-br": "Magia e vida real são mutuamente excludentes. A própria palavra 'proporção' é algo em que você não devia pensar.[lr]",
+      "id": 20777,
+      "epk_id": "17500",
+      "label": "$$$message_0131_0041_0001$$$"
+    },
+    {
+      "en": "The root of magecraft is none other than 'distortion, retrogression.' No matter what kind of magecraft it is, it will distort the norm.[lr]",
+      "jp": "　魔術の根本は“歪曲、逆行”に他ならない。どのような魔術であれ、使えば通常の営みをゆがめてしまう。[lr]",
+      "Pt-br": "A raiz da magia não é outra senão 'distorção, retrocesso.' Não importa que tipo de magia seja, ela vai distorcer o padrão.[lr]",
+      "id": 20778,
+      "epk_id": "17501",
+      "label": "$$$message_0131_0041_0002$$$"
+    },
+    {
+      "en": "That is why if you want to live correctly, then you should separate real life from magecraft.\"",
+      "jp": "　ですからね、正しく生きたいと思うなら、実生活から魔術は切り離すべきでしょう」",
+      "Pt-br": "Por isso, se quiser viver corretamente, você precisa separar a vida real da magia.\"",
+      "id": 20779,
+      "epk_id": "17502",
+      "label": "$$$message_0131_0041_0003$$$"
+    },
+    {
+      "en": "\"...Does that mean you can't balance both?\"[lr]",
+      "jp": "「[line len=3]両立はできないってコトか？」[lr]",
+      "Pt-br": "\"...Isso significa que você não consegue conciliar as duas?\"[lr]",
+      "id": 20780,
+      "epk_id": "17503",
+      "label": "$$$message_0131_0042_0000$$$"
+    },
+    {
+      "en": "\"It means you have to balance them both completely.[lr]",
+      "jp": "「完全に両立しろ、という話よ。[lr]",
+      "Pt-br": "\"Significa que você tem que equilibrar as duas perfeitamente.[lr]",
+      "id": 20781,
+      "epk_id": "17504",
+      "label": "$$$message_0131_0042_0001$$$"
+    },
+    {
+      "en": "Mages are beings that go back and forth across the boundary. It's up to the user which side they want to make the main side, but you can never lose this border.[lr]",
+      "jp": "　魔術師は境界を行き来する者。どちら側を主体にするかは術者の自由だけど、この境界を無くそうとしてはいけないわ。[lr]",
+      "Pt-br": "Magos são seres que cruzam a fronteira de um lado para o outro. Qual lado será o principal cabe ao usuário decidir, mas jamais se pode perder essa fronteira.[lr]",
+      "id": 20782,
+      "epk_id": "17505",
+      "label": "$$$message_0131_0042_0002$$$"
+    },
+    {
+      "en": "Immersing yourself into magecraft will eliminate real life.[lr]",
+      "jp": "　魔術に徹するのなら実生活を排除する。[lr]",
+      "Pt-br": "Mergulhar de cabeça na magia vai eliminar a vida real.[lr]",
+      "id": 20783,
+      "epk_id": "17506",
+      "label": "$$$message_0131_0042_0003$$$"
+    },
+    {
+      "en": "If you want to pursue the path of magecraft as a human, you must be two-faced.[lr]",
+      "jp": "　人として魔道を究めようというのなら、表と裏、二つの顔を作りなさい。[lr]",
+      "Pt-br": "Se você quiser trilhar o caminho da magia enquanto humano, tem que ter duas caras.[lr]",
+      "id": 20784,
+      "epk_id": "17507",
+      "label": "$$$message_0131_0042_0004$$$"
+    },
+    {
+      "en": "Furthermore, you must decide your way of living as a person and as a mage.\"",
+      "jp": "　その上で、人としての貴方と、魔術師としての貴方の生き方を決めればいい」",
+      "Pt-br": "Além do mais, você tem que decidir como vai viver como pessoa e como mago.\"",
+      "id": 20785,
+      "epk_id": "17508",
+      "label": "$$$message_0131_0042_0005$$$"
+    },
+    {
+      "en": "\"Then, what about you?[lr]",
+      "jp": "「じゃあ、アンタはどうなんだ。[lr]",
+      "Pt-br": "\"Então, o que me diz de você?[lr]",
+      "id": 20786,
+      "epk_id": "17509",
+      "label": "$$$message_0131_0043_0000$$$"
+    },
+    {
+      "en": "You're Mr. Kuzuki's wife right now, but what about you as a mage[line len=3]\"",
+      "jp": "　今は葛木先生の奥さんだけど、魔術師としてのアンタは[line len=3]」",
+      "Pt-br": "Agora você é esposa do Kuzuki-sensei, mas e você como maga[line len=3]\"",
+      "id": 20787,
+      "epk_id": "17510",
+      "label": "$$$message_0131_0043_0001$$$"
+    },
+    {
+      "en": "\"Of course, it's nothing different from up until now.[lr]",
+      "jp": "「当然、今までと何ら変わりはないわ。[lr]",
+      "Pt-br": "\"Naturalmente, nada mudou em relação a antes.[lr]",
+      "id": 20788,
+      "epk_id": "17511",
+      "label": "$$$message_0131_0044_0000$$$"
+    },
+    {
+      "en": "I have no doubts about myself as a mage.[lr]",
+      "jp": "　魔術師としての私は、魔術師である自分になんの疑いも持たない。[lr]",
+      "Pt-br": "Não tenho dúvidas quanto a mim mesma como maga.[lr]",
+      "id": 20789,
+      "epk_id": "17512",
+      "label": "$$$message_0131_0044_0001$$$"
+    },
+    {
+      "en": "I just use my power on my own terms.[lr]",
+      "jp": "　自らの力を、自らの思うままにふるうだけ。[lr]",
+      "Pt-br": "Apenas uso meu poder segundo meus próprios termos.[lr]",
+      "id": 20790,
+      "epk_id": "17513",
+      "label": "$$$message_0131_0044_0002$$$"
+    },
+    {
+      "en": "...It's just that I'm my mage self less than before.\"",
+      "jp": "　……ただ、最近は魔術師としての自分になる事が、昔に比べて少なくなっただけの話よ」",
+      "Pt-br": "...Só acontece que sou menos \"eu, a maga\" do que antes.\"",
+      "id": 20791,
+      "epk_id": "17514",
+      "label": "$$$message_0131_0044_0003$$$"
+    },
+    {
+      "en": "\"I see...\"[lr]",
+      "jp": "「なるほど……」[lr]",
+      "Pt-br": "\"Entendi...\"[lr]",
+      "id": 20792,
+      "epk_id": "17515",
+      "label": "$$$message_0131_0045_0000$$$"
+    },
+    {
+      "en": "\"It's quite deep.\"",
+      "jp": "「奥が深いですね」",
+      "Pt-br": "\"Isso é bem profundo.\"",
+      "id": 20793,
+      "epk_id": "17516",
+      "label": "$$$message_0131_0045_0001$$$"
+    },
+    {
+      "en": "\"Right now, both me and Miss Sakura are women before being mages.[lr]",
+      "jp": "「今の私や桜さんは魔術師である前に女ですからね。[lr]",
+      "Pt-br": "\"Neste momento, tanto eu quanto a Sakura-san somos mulheres antes de sermos magas.[lr]",
+      "id": 20794,
+      "epk_id": "17517",
+      "label": "$$$message_0131_0046_0000$$$"
+    },
+    {
+      "en": "But, if we have the skills to make a man look good, isn't that what you call the support of a wife?\"[lr]",
+      "jp": "　でも、いざというとき男を立てる技があるのなら、それは内助の功ってものじゃないのかしら」[lr]",
+      "Pt-br": "Mas, se temos habilidade para fazer um homem brilhar, não é isso que se chama apoio de esposa?\"[lr]",
+      "id": 20795,
+      "epk_id": "17518",
+      "label": "$$$message_0131_0046_0001$$$"
+    },
+    {
+      "en": "\"I see... So this power is something to make the people that we like happy.[lr]",
+      "jp": "「そうかあ……この力は好きな人を幸せにするためのものだったんですね。[lr]",
+      "Pt-br": "\"Entendi... Então esse poder existe para deixar felizes as pessoas de quem gostamos.[lr]",
+      "id": 20796,
+      "epk_id": "17519",
+      "label": "$$$message_0131_0046_0002$$$"
+    },
+    {
+      "en": "I think I will be able to work as hard at training as cooking from now on!\"",
+      "jp": "　今度から料理と同じくらい修行に身が入りそうです！」",
+      "Pt-br": "Acho que, de agora em diante, vou conseguir me dedicar ao treino tanto quanto à culinária!\"",
+      "id": 20797,
+      "epk_id": "17520",
+      "label": "$$$message_0131_0046_0003$$$"
+    },
+    {
+      "en": "Sakura seems to be idolizing Caster, who gives off the feeling of being her senpai in life.[lr]",
+      "jp": "　人生の先輩、という風格を漂わせるキャスターに桜は心酔しまくりである。[lr]",
+      "Pt-br": "Sakura parece idolatrar Caster, que tem todo o ar de uma Senpai na vida.[lr]",
+      "id": 20798,
+      "epk_id": "17521",
+      "label": "$$$message_0131_0047_0000$$$"
+    },
+    {
+      "en": "...I don't know whether to say they're getting along or having a self-suggestion fest.",
+      "jp": "　……仲が良いというか、自己暗示大会というか。",
+      "Pt-br": "...Não sei se digo que elas estão se dando bem ou que isso virou um festival de autossugestão.",
+      "id": 20799,
+      "epk_id": "17522",
+      "label": "$$$message_0131_0047_0001$$$"
+    },
+    {
+      "en": "\"Yes, women should be like that! [cacheimage storage=桜私服06c(中)][wvl][chgfg textoff=0 storage=桜私服06c(中) pos=r time=300]Someone like Miss Perfect isn't good!\"[lr]",
+      "jp": "「そうですよね、女の人はそういうのが良いんですよね！　[cacheimage storage=桜私服06c(中)][wvl][chgfg textoff=0 storage=桜私服06c(中) pos=r time=300]ミスパーフェクトみたいなのはダメですよね！」[lr]",
+      "Pt-br": "\"Sim, uma mulher deve ser assim! [cacheimage storage=桜私服06c(中)][wvl][chgfg textoff=0 storage=桜私服06c(中) pos=r time=300]Gente como a Senhorita Perfeita não presta!\"[lr]",
+      "id": 20800,
+      "epk_id": "17523",
+      "label": "$$$message_0131_0048_0000$$$"
+    },
+    {
+      "en": "\"M-Miss Perfect?[lr]",
+      "jp": "「み……みすぱーふぇくと？[lr]",
+      "Pt-br": "\"S-Senhorita Perfeita?[lr]",
+      "id": 20801,
+      "epk_id": "17524",
+      "label": "$$$message_0131_0048_0001$$$"
+    },
+    {
+      "en": "Who's that?\"[lr]",
+      "jp": "　誰だ、それ」[lr]",
+      "Pt-br": "Quem é essa?\"[lr]",
+      "id": 20802,
+      "epk_id": "17525",
+      "label": "$$$message_0131_0048_0002$$$"
+    },
+    {
+      "en": "I feel like I've heard that somewhere.",
+      "jp": "　どこかで聞いたことがあるような。",
+      "Pt-br": "Tenho a impressão de já ter ouvido isso em algum lugar.",
+      "id": 20803,
+      "epk_id": "17526",
+      "label": "$$$message_0131_0048_0003$$$"
+    },
+    {
+      "en": "\"Of course, it's Nee-[cacheimage storage=桜私服05f(中)][wvl][chgfg textoff=0 time=300 storage=桜私服05f(中)]T-Toh... T-[cacheimage storage=桜私服08k(中)][wvl canskip=0 time=300][chgfg textoff=0 storage=桜私服08k(中) pos=r time=300]Tohno, a girl at our rival girls' school![lr]",
+      "jp": "「もちろん、ねっ…………[cacheimage storage=桜私服05f(中)][wvl][chgfg textoff=0 time=300 storage=桜私服05f(中)]と、とっ……と、[cacheimage storage=桜私服08k(中)][wvl canskip=0 time=300][chgfg textoff=0 storage=桜私服08k(中) pos=r time=300]トオノさんですっ、そういう子がライバル女学院に居るんです！[lr]",
+      "Pt-br": "\"Claro, é a Nee-[cacheimage storage=桜私服05f(中)][wvl][chgfg textoff=0 time=300 storage=桜私服05f(中)]T-Toh... T-[cacheimage storage=桜私服08k(中)][wvl canskip=0 time=300][chgfg textoff=0 storage=桜私服08k(中) pos=r time=300]Tohno, uma garota da escola feminina rival![lr]",
+      "id": 20804,
+      "epk_id": "17527",
+      "label": "$$$message_0131_0049_0000$$$"
+    },
+    {
+      "en": "People call her Miss Perfect.\"",
+      "jp": "　人呼んでミスパーフェクトって」",
+      "Pt-br": "As pessoas a chamam de Senhorita Perfeita.\"",
+      "id": 20805,
+      "epk_id": "17528",
+      "label": "$$$message_0131_0049_0001$$$"
+    },
+    {
+      "en": "Ahh, so there's at least one person with that nickname at every school... I couldn't help but think it was about Tohsaka.[lr]",
+      "jp": "　はぁ、そういう[ruby text=あだな char=2]渾名を持つ奴は一校に必ず一人はいるものなんだ……つい、遠坂のコトかと。[lr]",
+      "Pt-br": "Ahh, então existe pelo menos uma pessoa com esse apelido em toda escola... Não consegui evitar pensar na Tohsaka.[lr]",
+      "id": 20806,
+      "epk_id": "17529",
+      "label": "$$$message_0131_0050_0000$$$"
+    },
+    {
+      "en": "Well, there's no way that Sakura would talk bad about her older sister, Tohsaka.",
+      "jp": "　まあ、桜が姉である遠坂の陰口をこぼすハズがないのだがっ。",
+      "Pt-br": "Bem, não tem como Sakura falar mal da própria irmã mais velha, Tohsaka.",
+      "id": 20807,
+      "epk_id": "17530",
+      "label": "$$$message_0131_0050_0001$$$"
+    },
+    {
+      "en": "\"Oh, what kind of girl is she?\"[lr]",
+      "jp": "「あら、どんな娘なの？」[lr]",
+      "Pt-br": "\"Ah, que tipo de garota ela é?\"[lr]",
+      "id": 20808,
+      "epk_id": "17531",
+      "label": "$$$message_0131_0051_0000$$$"
+    },
+    {
+      "en": "\"Miss Perfect is terrible. Everyone is tricked by her.\"[lr]",
+      "jp": "「ひどいんですよミスパーフェクトは、みんな彼女に騙されているんですっ」[lr]",
+      "Pt-br": "\"A Senhorita Perfeita é terrível. Todo mundo é enganado por ela.\"[lr]",
+      "id": 20809,
+      "epk_id": "17532",
+      "label": "$$$message_0131_0051_0001$$$"
+    },
+    {
+      "en": "Sakura talks, giving off the aura that she is also a victim.[lr]",
+      "jp": "　わたしも被害者なんですよ、というオーラを放って話す桜。[lr]",
+      "Pt-br": "Sakura fala com uma aura de quem também é vítima.[lr]",
+      "id": 20810,
+      "epk_id": "17533",
+      "label": "$$$message_0131_0051_0002$$$"
+    },
+    {
+      "en": "...Mrgh. That spoiled girl of that rival school must've treated Sakura badly.",
+      "jp": "　……むう。そのライバル校のお嬢さん、よっぽど桜に酷い仕打ちをしたんだろうなあ。",
+      "Pt-br": "...Mrgh. Aquela garota mimada da escola rival deve ter tratado Sakura muito mal.",
+      "id": 20811,
+      "epk_id": "17534",
+      "label": "$$$message_0131_0051_0003$$$"
+    },
+    {
+      "en": "\"She's from a distinguished family and very pretty... Although she has no boobs.[lr]",
+      "jp": "「名門の出身で、すごい美人で。……胸はないけど。[lr]",
+      "Pt-br": "\"Ela vem de uma família distinta e é muito bonita... embora não tenha peito nenhum.[lr]",
+      "id": 20812,
+      "epk_id": "17535",
+      "label": "$$$message_0131_0052_0000$$$"
+    },
+    {
+      "en": "She's the number one honor student of her grade and secretly good at magecraft...[lr]",
+      "jp": "　学年一の優等生で秘かに魔術にも長けてて、[lr]",
+      "Pt-br": "É a melhor aluna da turma e, em segredo, ainda é boa com magecraft...[lr]",
+      "id": 20813,
+      "epk_id": "17536",
+      "label": "$$$message_0131_0052_0001$$$"
+    },
+    {
+      "en": "Even though she's a clumsy miser at heart, she puts on a façade in public as a cutesy spoiled girl who's pretending to be calm and composed!\"",
+      "jp": "　根はちょっとドジな守銭奴さんなのに、公衆の面前では猫を被って、余裕[ruby text=しゃくしゃく char=2]綽々に振る舞ってるお嬢様ぶりっこなんです！」",
+      "Pt-br": "Mesmo sendo uma avarenta desajeitada por dentro, em público veste a máscara de garota mimada e fofinha que finge ser calma e composta!\"",
+      "id": 20814,
+      "epk_id": "17537",
+      "label": "$$$message_0131_0052_0002$$$"
+    },
+    {
+      "en": "\"Wow.\"[lr]",
+      "jp": "「へえー」[lr]",
+      "Pt-br": "\"Uau.\"[lr]",
+      "id": 20815,
+      "epk_id": "17538",
+      "label": "$$$message_0131_0053_0000$$$"
+    },
+    {
+      "en": "I didn't think there would be two or three walking singularities in this universe.[lr]",
+      "jp": "　そんな歩く宇宙の特異点みたいなヤツが二人も三人もいるのか。[lr]",
+      "Pt-br": "Não achei que houvesse duas ou três singularidades ambulantes neste universo.[lr]",
+      "id": 20816,
+      "epk_id": "17539",
+      "label": "$$$message_0131_0053_0001$$$"
+    },
+    {
+      "en": "Should I say that the world is wide or Japan is narrow?",
+      "jp": "　世界は広いっつーか、日本は狭いっつーか。",
+      "Pt-br": "Devo dizer que o mundo é grande ou que o Japão é pequeno demais?",
+      "id": 20817,
+      "epk_id": "17540",
+      "label": "$$$message_0131_0053_0002$$$"
+    },
+    {
+      "en": "\"Plus, she's got a job lined up as a cosmopolitan businesswoman traveling abroad and doing whatever she wants like a 40-centimeter cannon!\"[lr]",
+      "jp": "「おまけに外国をまたにかける国際派キャリアウーマンの未来が約束されていて、やりたい放題四十センチ砲台とばかりに、ぶいぶい言わせまくるんですよ！？」[lr]",
+      "Pt-br": "\"Além disso, ela já tem emprego encaminhado como uma executiva cosmopolita, viajando para o exterior e fazendo o que bem entende como um canhão de quarenta centímetros!\"[lr]",
+      "id": 20818,
+      "epk_id": "17541",
+      "label": "$$$message_0131_0054_0000$$$"
+    },
+    {
+      "en": "\"Hmm... She's got quite a mask on.[lr]",
+      "jp": "「ふうん……結構な仮面の被りっぷりね。[lr]",
+      "Pt-br": "\"Hmm... Ela usa uma máscara e tanto.[lr]",
+      "id": 20819,
+      "epk_id": "17542",
+      "label": "$$$message_0131_0054_0001$$$"
+    },
+    {
+      "en": "That's rough, having a girl like that as a rival.\"",
+      "jp": "　そんな子がライバルにいるなんて大変ねえ」",
+      "Pt-br": "Deve ser duro ter uma garota dessas como rival.\"",
+      "id": 20820,
+      "epk_id": "17543",
+      "label": "$$$message_0131_0054_0002$$$"
+    },
+    {
+      "en": "\"Y-Yes![lr]",
+      "jp": "「そ、そうなんです！[lr]",
+      "Pt-br": "\"S-Sim![lr]",
+      "id": 20821,
+      "epk_id": "17544",
+      "label": "$$$message_0131_0055_0000$$$"
+    },
+    {
+      "en": "She's ladylike, so everyone gets fooled, even though she doesn't have any boobs!\"[lr]",
+      "jp": "　外面はお淑やかだから、みんな騙されちゃうんです、胸もないのに！」[lr]",
+      "Pt-br": "Ela se comporta como uma dama, então todo mundo cai na dela, mesmo ela não tendo peito nenhum!\"[lr]",
+      "id": 20822,
+      "epk_id": "17545",
+      "label": "$$$message_0131_0055_0001$$$"
+    },
+    {
+      "en": "\"Sakura, her boobs aside, can you continue...?\"[lr]",
+      "jp": "「桜、胸はともかくその、続きを……」[lr]",
+      "Pt-br": "\"Sakura, deixando o peito dela de lado, pode continuar...?\"[lr]",
+      "id": 20823,
+      "epk_id": "17546",
+      "label": "$$$message_0131_0055_0002$$$"
+    },
+    {
+      "en": "\"Y-Yes, putting her boobs aside...\"",
+      "jp": "「は、はい、胸のコトは置いときまして[line len=3]」",
+      "Pt-br": "\"S-Sim, deixando o peito dela de lado...\"",
+      "id": 20824,
+      "epk_id": "17547",
+      "label": "$$$message_0131_0055_0003$$$"
+    },
+    {
+      "en": "\"Her personality is actually like a rollercoaster, and those around her or those who got on without thinking get in big trouble.[lr]",
+      "jp": "「本当はジェットコースターみたいな性格で、まわりにいる人とか、思わず乗っかっちゃった人とか、もうタイヘンなんです。[lr]",
+      "Pt-br": "\"Na verdade, a personalidade dela é como uma montanha-russa, e quem está por perto, ou quem entra sem pensar, acaba em apuros.[lr]",
+      "id": 20825,
+      "epk_id": "17548",
+      "label": "$$$message_0131_0056_0000$$$"
+    },
+    {
+      "en": "But it's high-functioning without a complaint, so the people at the amusement park can't say anything or they cry themselves to sleep. They can't maintain the popularity of the amusement park without that person... It's that kind of fear we all have... I mean, we all like Miss Perfect...\"",
+      "jp": "　でも文句なしに高性能なんで、遊園地の人たちは何も言えないというか、泣き寝入りというか。その人なくして遊園地の人気は保たれないというか……わたしもみんなもそういう姉さ……じゃなくて、ミスパーフェクトが好きっていうか……」",
+      "Pt-br": "Mas ela funciona impecavelmente, então o pessoal do parque de diversões não pode reclamar; só chora até dormir. Sem ela, não conseguem manter a popularidade do parque... É esse tipo de medo que todos nós temos... quer dizer, todos nós gostamos da Senhorita Perfeita...\"",
+      "id": 20826,
+      "epk_id": "17549",
+      "label": "$$$message_0131_0056_0001$$$"
+    },
+    {
+      "en": "\"...That isn't someone else's problem anymore, huh?\"[lr]",
+      "jp": "「……それは、他人事じゃないな」[lr]",
+      "Pt-br": "\"...Isso já não é mais problema dos outros, hein?\"[lr]",
+      "id": 20827,
+      "epk_id": "17550",
+      "label": "$$$message_0131_0057_0000$$$"
+    },
+    {
+      "en": "You're making some interesting comparisons, Sakura.",
+      "jp": "　ところで、さっきから面白い比喩してるね桜。",
+      "Pt-br": "Você está fazendo comparações bem interessantes, Sakura.",
+      "id": 20828,
+      "epk_id": "17551",
+      "label": "$$$message_0131_0057_0001$$$"
+    },
+    {
+      "en": "\"B-But the biggest problem is that she's turned an innocent boy into a deboned servant![lr]",
+      "jp": "「で、でも、いちばん問題なのはですね、ある純真な男の子を骨抜きの召使いにしてるコトなんです！[lr]",
+      "Pt-br": "\"M-Mas o maior problema é que ela transformou um garoto inocente num criado sem espinha dorsal![lr]",
+      "id": 20829,
+      "epk_id": "17552",
+      "label": "$$$message_0131_0058_0000$$$"
+    },
+    {
+      "en": "E-Even I want to do the same thing at least once if I can!\"[lr]",
+      "jp": "　わ、わたしだって、できるなら一度ぐらいしてみたいのに！」[lr]",
+      "Pt-br": "A-Até eu queria fazer o mesmo pelo menos uma vez, se pudesse!\"[lr]",
+      "id": 20830,
+      "epk_id": "17553",
+      "label": "$$$message_0131_0058_0001$$$"
+    },
+    {
+      "en": "\"Oh. That girl's not bad.\"",
+      "jp": "「あら。やるじゃない、その彼女」",
+      "Pt-br": "\"Ah. Essa garota não é nada boba.\"",
+      "id": 20831,
+      "epk_id": "17554",
+      "label": "$$$message_0131_0058_0002$$$"
+    },
+    {
+      "en": "\"N-No![lr]",
+      "jp": "「だ、だめですっ！[lr]",
+      "Pt-br": "\"N-Não![lr]",
+      "id": 20832,
+      "epk_id": "17555",
+      "label": "$$$message_0131_0059_0000$$$"
+    },
+    {
+      "en": "Um, that boy seems to have gotten used to it lately and seems to enjoy being used by Miss Perfect.[lr]",
+      "jp": "　えっと、その男の子も近頃は慣れちゃったといいましょうか、ミスパーフェクトに振り回されてるのになんか楽しんでるみたいなんです。[lr]",
+      "Pt-br": "Hum, esse garoto parece ter se acostumado com isso ultimamente e parece gostar de ser usado pela Senhorita Perfeita.[lr]",
+      "id": 20833,
+      "epk_id": "17556",
+      "label": "$$$message_0131_0059_0001$$$"
+    },
+    {
+      "en": "But, forcing isn't good, you know! I think that doing things like that is very bad!\"",
+      "jp": "　でも、やっぱりムリヤリはよくありません！　そういうのはすごくダメだと思うんですー！」",
+      "Pt-br": "Mas, forçar os outros não é bom, sabia! Eu acho que fazer esse tipo de coisa é muito ruim!\"",
+      "id": 20834,
+      "epk_id": "17557",
+      "label": "$$$message_0131_0059_0002$$$"
+    },
+    {
+      "en": "An aura of determination erupts from Sakura.[lr]",
+      "jp": "　くわっ、っと決意のオーラを噴出する桜。[lr]",
+      "Pt-br": "Uma aura de determinação irrompe da Sakura.[lr]",
+      "id": 20835,
+      "epk_id": "17558",
+      "label": "$$$message_0131_0060_0000$$$"
+    },
+    {
+      "en": "I get prompted to take a step or two back.",
+      "jp": "　煽られて、一歩二歩とたじろいだ。",
+      "Pt-br": "Fico instigado a dar um ou dois passos para trás.",
+      "id": 20836,
+      "epk_id": "17559",
+      "label": "$$$message_0131_0060_0001$$$"
+    },
+    {
+      "en": "\"I-I see. Sakura, you're, um.[lr]",
+      "jp": "「そ、そうか。桜は、その、なんだ。[lr]",
+      "Pt-br": "\"E-Entendi. Sakura, você é, hum.[lr]",
+      "id": 20837,
+      "epk_id": "17560",
+      "label": "$$$message_0131_0061_0000$$$"
+    },
+    {
+      "en": "V-Very kind.\"[lr]",
+      "jp": "　や、優しいん、だな」[lr]",
+      "Pt-br": "M-Muito gentil.\"[lr]",
+      "id": 20838,
+      "epk_id": "17561",
+      "label": "$$$message_0131_0061_0001$$$"
+    },
+    {
+      "en": "I try to force a smile.",
+      "jp": "　ははは、となんとかいい笑顔を作ってみる。",
+      "Pt-br": "Tento forçar um sorriso.",
+      "id": 20839,
+      "epk_id": "17562",
+      "label": "$$$message_0131_0061_0002$$$"
+    },
+    {
+      "en": "\"Yes! So, I also want to aim to be a good, ladylike wife like you, Caster!\"[lr]",
+      "jp": "「はいっ！　ですから、わたしもキャスターさんみたいなお淑やかな良妻賢母を目指したいんです！」[lr]",
+      "Pt-br": "\"Sim! Por isso, eu também quero me tornar uma boa esposa que se porte como uma dama, igual a você, Caster-san!\"[lr]",
+      "id": 20840,
+      "epk_id": "17563",
+      "label": "$$$message_0131_0062_0000$$$"
+    },
+    {
+      "en": "\"Ah, I see. [lr]",
+      "jp": "「ええ、話は分かったわ。[lr]",
+      "Pt-br": "\"Ah, entendo. [lr]",
+      "id": 20841,
+      "epk_id": "17564",
+      "label": "$$$message_0131_0062_0001$$$"
+    },
+    {
+      "en": "Do you want to make that boy happy?\"",
+      "jp": "　間桐さんは、その男の子を助けて幸せにしてあげたいの？」",
+      "Pt-br": "Você quer fazer esse garoto feliz?\"",
+      "id": 20842,
+      "epk_id": "17565",
+      "label": "$$$message_0131_0062_0002$$$"
+    },
+    {
+      "en": "\"Uh... Um, I think [cacheimage storage=桜私服08f頬(中)][wvl canskip=0 time=400][chgfg  storage=桜私服08f頬(中) pos=r time=300]that things can't stay as they are, so I should do something, but[line len=2]\"[lr]",
+      "jp": "「あ……あの、それは、[cacheimage storage=桜私服08f頬(中)][wvl canskip=0 time=400][chgfg  storage=桜私服08f頬(中) pos=r time=300]そのままなのはいけないと思うので、何とかしてあげたいな、と」[lr]",
+      "Pt-br": "\"Uh... Hum, acho [cacheimage storage=桜私服08f頬(中)][wvl canskip=0 time=400][chgfg  storage=桜私服08f頬(中) pos=r time=300]que as coisas não podem ficar do jeito que estão, então eu devia fazer alguma coisa, mas[line len=2]\"[lr]",
+      "id": 20843,
+      "epk_id": "17566",
+      "label": "$$$message_0131_0063_0000$$$"
+    },
+    {
+      "en": "\"But, you have Emiya.\"[lr]",
+      "jp": "「でも、間桐さんには衛宮くんがいるじゃない」[lr]",
+      "Pt-br": "\"Mas, você tem o Emiya-kun.\"[lr]",
+      "id": 20844,
+      "epk_id": "17567",
+      "label": "$$$message_0131_0063_0001$$$"
+    },
+    {
+      "en": "\"Oh[wvl canskip=0 time=400]...well, [cacheimage storage=桜私服13b頬(中)][wvl canskip=0 time=300][chgfg storage=桜私服13b頬(中) pos=r time=300]that is...\"",
+      "jp": "「あ[wvl canskip=0 time=400]……いえ、[cacheimage storage=桜私服13b頬(中)][wvl canskip=0 time=300][chgfg storage=桜私服13b頬(中) pos=r time=300]それは……」",
+      "Pt-br": "\"Ah[wvl canskip=0 time=400]...bem, [cacheimage storage=桜私服13b頬(中)][wvl canskip=0 time=300][chgfg storage=桜私服13b頬(中) pos=r time=300]isso...\"",
+      "id": 20845,
+      "epk_id": "17568",
+      "label": "$$$message_0131_0063_0002$$$"
+    },
+    {
+      "en": "\"Although I appreciate your determination to become like me.[lr]",
+      "jp": "「私のようになる、という決意は嬉しいけど。[lr]",
+      "Pt-br": "\"Apesar de eu apreciar a sua determinação em se tornar como eu.[lr]",
+      "id": 20846,
+      "epk_id": "17569",
+      "label": "$$$message_0131_0064_0000$$$"
+    },
+    {
+      "en": "[chgfg textoff=0 storage=キャスター私服01b(中) pos=l time=300]It is not good to simply copy the way that I am.\"[lr]",
+      "jp": "　[chgfg textoff=0 storage=キャスター私服01b(中) pos=l time=300]そのまま私の在り方をなぞるのはよくないわよ」[lr]",
+      "Pt-br": "[chgfg textoff=0 storage=キャスター私服01b(中) pos=l time=300]Não basta simplesmente copiar meu jeito de ser.\"[lr]",
+      "id": 20847,
+      "epk_id": "17570",
+      "label": "$$$message_0131_0064_0001$$$"
+    },
+    {
+      "en": "\"Oh... Yes.\"",
+      "jp": "「あ……はい」",
+      "Pt-br": "\"Oh... Certo.\"",
+      "id": 20848,
+      "epk_id": "17571",
+      "label": "$$$message_0131_0064_0002$$$"
+    },
+    {
+      "en": "\"I also have parts of me that are bad, so use those as good examples of what not to do. No one else has to fall for a bad guy...\"[lr]",
+      "jp": "「私にも悪いところがあるから、それは反面教師になさい。悪い男に引っかかるのは私だけでいいわ[line len=3]」[lr]",
+      "Pt-br": "\"Eu também tenho lados ruins, então use-os como bons exemplos do que não fazer. Ninguém merece cair nas garras de um cara mau...\"[lr]",
+      "id": 20849,
+      "epk_id": "17572",
+      "label": "$$$message_0131_0065_0000$$$"
+    },
+    {
+      "en": "I feel chills down my spine from being glared at by Caster's almond eyes.",
+      "jp": "　キャスターの切れ長の瞳で軽く舐められると、ぞくっと背筋が冷える。",
+      "Pt-br": "Sinto um calafrio na espinha sendo encarado pelos olhos amendoados da Caster.",
+      "id": 20850,
+      "epk_id": "17573",
+      "label": "$$$message_0131_0065_0001$$$"
+    },
+    {
+      "en": "\"You're not a bad guy, right?\"[lr]",
+      "jp": "「貴方、悪い男じゃないわよね？」[lr]",
+      "Pt-br": "\"Você não é um cara mau, não é?\"[lr]",
+      "id": 20851,
+      "epk_id": "17574",
+      "label": "$$$message_0131_0066_0000$$$"
+    },
+    {
+      "en": "\"Um, Senpai is a good person! There's no doubt about it!\"[lr]",
+      "jp": "「あの、先輩はいい人です！　間違いありません！」[lr]",
+      "Pt-br": "\"Hum, o Senpai é uma boa pessoa! Não há dúvidas quanto a isso!\"[lr]",
+      "id": 20852,
+      "epk_id": "17575",
+      "label": "$$$message_0131_0066_0001$$$"
+    },
+    {
+      "en": "\"Maybe. You lucky boy, this girl will make you happy...\"[lr]",
+      "jp": "「かしらね。果報者よ坊や、貴方はこの娘に幸せにしてもらえるんだから[line len=3]」[lr]",
+      "Pt-br": "\"Talvez. Seu garoto de sorte, essa menina vai te fazer feliz...\"[lr]",
+      "id": 20853,
+      "epk_id": "17576",
+      "label": "$$$message_0131_0066_0002$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「…………」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 20854,
+      "epk_id": "17577",
+      "label": "$$$message_0131_0066_0003$$$"
+    },
+    {
+      "en": "I hesitate, unsure how to answer.",
+      "jp": "　何と答えたらいいのか分からずに、口ごもる。",
+      "Pt-br": "Hesito, incerto de como responder.",
+      "id": 20855,
+      "epk_id": "17578",
+      "label": "$$$message_0131_0066_0004$$$"
+    },
+    {
+      "en": "\"Miss Matou, you have no need to worry about Miss Perfect.[lr]",
+      "jp": "「間桐さんも、ミスパーフェクトなんかを気に病むコトはないわ。[lr]",
+      "Pt-br": "\"Matou-san, não há necessidade de se preocupar com a Senhorita Perfeita.[lr]",
+      "id": 20856,
+      "epk_id": "17579",
+      "label": "$$$message_0131_0067_0000$$$"
+    },
+    {
+      "en": "What's important is you and your special someone.\"",
+      "jp": "　大事なのは貴方と、貴方の大切な人ですからね」",
+      "Pt-br": "O importante é você e a sua pessoa especial.\"",
+      "id": 20857,
+      "epk_id": "17580",
+      "label": "$$$message_0131_0067_0001$$$"
+    },
+    {
+      "en": "\"Y-Yes...![lr]",
+      "jp": "「は……はい……！[lr]",
+      "Pt-br": "\"S-Sim...![lr]",
+      "id": 20858,
+      "epk_id": "17581",
+      "label": "$$$message_0131_0068_0000$$$"
+    },
+    {
+      "en": "Ah, you are such a lovely wife after all, Caster. What a big difference from Miss Perfect...![lr]",
+      "jp": "　ああっ、やっぱり素敵な奥様ですキャスターさん、ミスパーフェクトとは大違いです……！[lr]",
+      "Pt-br": "Ah, você é mesmo uma esposa encantadora, Caster-san. Que diferença enorme em relação à Senhorita Perfeita...![lr]",
+      "id": 20859,
+      "epk_id": "17582",
+      "label": "$$$message_0131_0068_0001$$$"
+    },
+    {
+      "en": "Wahh, you're making me cry...!\"",
+      "jp": "　くぅう、涙がこぼれちゃいますっ……！」",
+      "Pt-br": "Uwaa, você vai me fazer chorar...!\"",
+      "id": 20860,
+      "epk_id": "17583",
+      "label": "$$$message_0131_0068_0002$$$"
+    },
+    {
+      "en": "Is this what you call being moved to tears?[lr]",
+      "jp": "　感涙に[ruby text=むせ]咽ぶとはこのコトか。[lr]",
+      "Pt-br": "É isso que chamam de ser comovido às lágrimas?[lr]",
+      "id": 20861,
+      "epk_id": "17584",
+      "label": "$$$message_0131_0069_0000$$$"
+    },
+    {
+      "en": "Even without any incantations, Caster's words have as much destructive power as her Rule Breaker.[lr]",
+      "jp": "　詠唱なしでもキャスターの言葉には、[ruby text=ルール・ブレイカー o2o=1]破戒すべき全ての符並の破壊力があるようだ。[lr]",
+      "Pt-br": "Mesmo sem nenhum encantamento, as palavras da Caster têm o mesmo poder destrutivo do seu Rule Breaker.[lr]",
+      "id": 20862,
+      "epk_id": "17585",
+      "label": "$$$message_0131_0069_0001$$$"
+    },
+    {
+      "en": "Anyway, I'm glad that it seems like Sakura's various worries have been solved.",
+      "jp": "　とにかく、桜の悩みがいろいろ解消できたようでよかったよかった、と。",
+      "Pt-br": "De qualquer forma, fico feliz que parece que as várias preocupações da Sakura tenham sido resolvidas.",
+      "id": 20863,
+      "epk_id": "17586",
+      "label": "$$$message_0131_0069_0002$$$"
+    },
+    {
+      "en": "\"Can I call you my big sister, Caster?\"[lr]",
+      "jp": "「キャスターさんのこと、お姉様ってお呼びしてもいいですかっ！」[lr]",
+      "Pt-br": "\"Posso te chamar de minha irmã mais velha, Caster-san?\"[lr]",
+      "id": 20864,
+      "epk_id": "17587",
+      "label": "$$$message_0131_0070_0000$$$"
+    },
+    {
+      "en": "\"Oh. I got a cute little sister.\"",
+      "jp": "「あら。可愛い妹が出来たわね」",
+      "Pt-br": "\"Ah. Ganhei uma irmãzinha fofa.\"",
+      "id": 20865,
+      "epk_id": "17588",
+      "label": "$$$message_0131_0070_0001$$$"
+    },
+    {
+      "en": "\"S-Sakura... Your older sister is[line len=2]\"[lr]",
+      "jp": "「さ、桜……おまえの姉ならもう」[lr]",
+      "Pt-br": "\"S-Sakura... Sua irmã mais velha é[line len=2]\"[lr]",
+      "id": 20866,
+      "epk_id": "17589",
+      "label": "$$$message_0131_0071_0000$$$"
+    },
+    {
+      "en": "\"Senpai, let's invite Caster to our home next time and listen to her useful advice![lr]",
+      "jp": "「先輩、今度キャスターさんをうちにご招待して、ためになるお話をゆっくりお伺いしましょう！[lr]",
+      "Pt-br": "\"Senpai, vamos convidar a Caster-san lá pra casa na próxima vez e ouvir os seus conselhos úteis![lr]",
+      "id": 20867,
+      "epk_id": "17590",
+      "label": "$$$message_0131_0071_0001$$$"
+    },
+    {
+      "en": "Especially about how to deal with Miss Perfect!\"",
+      "jp": "　中でもミスパーフェクト対策を主に！」",
+      "Pt-br": "Especialmente sobre como lidar com a Senhorita Perfeita!\"",
+      "id": 20868,
+      "epk_id": "17591",
+      "label": "$$$message_0131_0071_0002$$$"
+    },
+    {
+      "en": "\"What a pleasant invite. I shall think about it.[lr]",
+      "jp": "「嬉しいお誘いね、考えさせて貰うわ。[lr]",
+      "Pt-br": "\"Que convite agradável. Eu pensarei a respeito.[lr]",
+      "id": 20869,
+      "epk_id": "17592",
+      "label": "$$$message_0131_0072_0000$$$"
+    },
+    {
+      "en": "Oh, that's right, can you come shopping with me too, Emiya?\"[lr]",
+      "jp": "　そうだ、衛宮くんも買い物に付き合ってくださる？」[lr]",
+      "Pt-br": "Ah, é verdade, pode vir fazer as compras comigo também, Emiya-kun?\"[lr]",
+      "id": 20870,
+      "epk_id": "17593",
+      "label": "$$$message_0131_0072_0001$$$"
+    },
+    {
+      "en": "\"Doesn't that sound great, Senpai? Let's decide on our lunch menu!\"",
+      "jp": "「いいですよね先輩、お昼のメニューを決めちゃいましょう！」",
+      "Pt-br": "\"Não soa como uma ótima ideia, Senpai? Vamos decidir o cardápio do nosso almoço!\"",
+      "id": 20871,
+      "epk_id": "17594",
+      "label": "$$$message_0131_0072_0002$$$"
+    },
+    {
+      "en": "\"Y-Yeah, I was planning on it from the start, so we can.\"[lr]",
+      "jp": "「あ、ああ、元からそのつもりだったから、なんとか」[lr]",
+      "Pt-br": "\"S-Sim, eu estava planejando isso desde o começo, então podemos.\"[lr]",
+      "id": 20872,
+      "epk_id": "17595",
+      "label": "$$$message_0131_0073_0000$$$"
+    },
+    {
+      "en": "...Something doesn't feel right, but this isn't a situation where I can say no.[lr]",
+      "jp": "　……何かときな臭いのだが、もはやノーと言える状況ではない。[lr]",
+      "Pt-br": "...Alguma coisa não parece certa, mas essa não é uma situação em que eu posso dizer não.[lr]",
+      "id": 20873,
+      "epk_id": "17596",
+      "label": "$$$message_0131_0073_0001$$$"
+    },
+    {
+      "en": "Sakura, who is in high spirits, and Caster, who looks happier than ever.[lr]",
+      "jp": "　喜びいさむ桜と、いつになく楽しそうなキャスター。[lr]",
+      "Pt-br": "Sakura, toda animada, e Caster, mais feliz do que nunca.[lr]",
+      "id": 20874,
+      "epk_id": "17597",
+      "label": "$$$message_0131_0073_0002$$$"
+    },
+    {
+      "en": "...The peaceful yet suffocating time, which feels like I'm being choked by floss silk, continues...",
+      "jp": "　……和やかなのに苦しいという、真綿で首を絞められるような時間はまだまだ続くのだった……。",
+      "Pt-br": "...O tempo pacífico, mas ainda sufocante, em que sinto que estou sendo estrangulado por fios de seda, continua...",
+      "id": 20875,
+      "epk_id": "17598",
+      "label": "$$$message_0131_0073_0003$$$"
+    },
+    {
+      "en": "\"Stop right there, you mongrel!\"[r]",
+      "jp": "「お待ちなさいそこの[r]駄犬！」",
+      "Pt-br": "\"Pare bem aí, seu vira-lata!\"[r]",
+      "id": 20876,
+      "epk_id": "917408",
+      "label": "$$$message_9131_0010_0000$$$"
+    }
+  ]
+}

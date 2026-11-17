@@ -1,0 +1,936 @@
+{
+  "cena": "46vh72l0dcdigg6cq8ne82m58p",
+  "titulo": "Fofoca de Fantasmas",
+  "rota": "Castelo Einzbern",
+  "arquivo": "46vh72l0dcdigg6cq8ne82m58p.epk_dec",
+  "linhas": [
+    {
+      "en": "I'll check out the lobby.[lr]",
+      "jp": "　ロビーの様子を見に行こう。[lr]",
+      "Pt-br": "Vou dar uma olhada no saguão.[lr]",
+      "id": 31224,
+      "epk_id": "18170",
+      "label": "$$$message_0139_0000_0000$$$"
+    },
+    {
+      "en": "Leys and Sella should be there right now.",
+      "jp": "　この時間ならリズとセラがいるだろうし。",
+      "Pt-br": "Leys e Sella devem estar lá agora.",
+      "id": 31225,
+      "epk_id": "18171",
+      "label": "$$$message_0139_0000_0001$$$"
+    },
+    {
+      "en": "\"Leysritt, have you finished organizing the wine cellar!?[lr]",
+      "jp": "「リーゼリット、ワインセラーの整理はどうしたのです！[lr]",
+      "Pt-br": "\"Leysritt, você terminou de organizar a adega de vinhos!?[lr]",
+      "id": 31226,
+      "epk_id": "18172",
+      "label": "$$$message_0139_0001_0000$$$"
+    },
+    {
+      "en": "It hasn't been used for a decade, so it's too late to fix anything that goes wrong. You can repair the walls here later, so hurry up and attend to the cellar!\"",
+      "jp": "　あそこは十年前から使われていない場所、何か不具合が起きてからでは遅いのですよ？　壁の修繕など後にして、早急に調査に行くべきでしょう！」",
+      "Pt-br": "Ela não é usada há uma década, então já é tarde demais para consertar qualquer coisa que dê errado. Você pode consertar as paredes daqui mais tarde, então se apresse e vá cuidar da adega!\"",
+      "id": 31227,
+      "epk_id": "18173",
+      "label": "$$$message_0139_0001_0001$$$"
+    },
+    {
+      "en": "\"...This takes priority. Nobody uses the wine cellar. It won't bother Illya that it's run-down.\"",
+      "jp": "「……優先順度はこっちのが先。ワインセラーは誰も使わないから、崩れてもイリヤは困らないし」",
+      "Pt-br": "\"...Isso é prioridade. Ninguém usa a adega de vinhos. Não vai incomodar a Illya se estiver em ruínas.\"",
+      "id": 31228,
+      "epk_id": "18174",
+      "label": "$$$message_0139_0002_0000$$$"
+    },
+    {
+      "en": "\"D-did the mistress say that herself!? She told you to ignore the cellar!?\"[lr]",
+      "jp": "「ま、まさか、お嬢様がそう仰ったのですか！？　地下はそのままにしておいて良いと！？」[lr]",
+      "Pt-br": "\"A-a senhorita disse isso ela mesma!? Ela disse para você ignorar a adega!?\"[lr]",
+      "id": 31229,
+      "epk_id": "18175",
+      "label": "$$$message_0139_0003_0000$$$"
+    },
+    {
+      "en": "\"...Not really. I'm cleaning places that people can actually see. I think Illya will be sad if she sees the walls falling apart.\"",
+      "jp": "「……別に。見えないところより見えるところをキレイにしてるだけ。壁のひび割れとか見つけると、イリヤ悲しそうにするから」",
+      "Pt-br": "\"...Não exatamente. Estou limpando os lugares que as pessoas realmente podem ver. Acho que a Illya ficará triste se ver as paredes desmoronando.\"",
+      "id": 31230,
+      "epk_id": "18176",
+      "label": "$$$message_0139_0003_0001$$$"
+    },
+    {
+      "en": "\"That much is obvious. She's unhappy staying in this decrepit old castle to begin with.\"",
+      "jp": "「そんな事は当然です。壁のひび割れはもとより、このような古城に逗留する事からして不幸なのですから」",
+      "Pt-br": "\"Isso é óbvio. Ela já está infeliz por ficar neste velho castelo decrépito.\"",
+      "id": 31231,
+      "epk_id": "18177",
+      "label": "$$$message_0139_0004_0000$$$"
+    },
+    {
+      "en": "\"Oh, why must our mistress live in this backwater forest? [cacheimage storage=ã»ã©02e(é )][wvl][chgfg textoff=0 time=300 storage=ã»ã©02e(é )]You have much to answer for, Shirou Emiya!\"",
+      "jp": "「ああ、なぜお嬢様がこのような[ruby text=へんぴ char=2]辺鄙な森に居を構えなければならないのか[line len=3][cacheimage storage=セラ02e(遠)][wvl][chgfg textoff=0 time=300 storage=セラ02e(遠)]ええ、それというのも貴方に寄る所が大きいのですエミヤシロウ！」",
+      "Pt-br": "\"Oh, por que nossa senhorita precisa viver nesta floresta remota? [cacheimage storage=セラ02e(遠)][wvl][chgfg textoff=0 time=300 storage=セラ02e(遠)]Você tem muito a responder, Emiya Shirou!\"",
+      "id": 31232,
+      "epk_id": "18178",
+      "label": "$$$message_0139_0005_0000$$$"
+    },
+    {
+      "en": "\"Huh? Me?\"[lr]",
+      "jp": "「え、俺？」[lr]",
+      "Pt-br": "\"Hã? Eu?\"[lr]",
+      "id": 31233,
+      "epk_id": "18179",
+      "label": "$$$message_0139_0006_0000$$$"
+    },
+    {
+      "en": "She's suddenly pointing at me.[lr]",
+      "jp": "　いきなり名指しである。[lr]",
+      "Pt-br": "Ela de repente aponta para mim.[lr]",
+      "id": 31234,
+      "epk_id": "18180",
+      "label": "$$$message_0139_0006_0001$$$"
+    },
+    {
+      "en": "...I guess Sella noticed me here all along.",
+      "jp": "　……と言うか、セラは入ってきた俺に気が付いていたようだ。",
+      "Pt-br": "...Acho que Sella percebeu que eu estava aqui o tempo todo.",
+      "id": 31235,
+      "epk_id": "18181",
+      "label": "$$$message_0139_0006_0002$$$"
+    },
+    {
+      "en": "\"Shirou? Oh, it's really him.[lr]",
+      "jp": "「シロウ？　あ、ホントだ。[lr]",
+      "Pt-br": "\"Shirou? Ah, é ele mesmo.[lr]",
+      "id": 31236,
+      "epk_id": "18182",
+      "label": "$$$message_0139_0007_0000$$$"
+    },
+    {
+      "en": "Hello, Shirou. [cacheimage storage=ãªãº02a(è¿)][wvl][chgfg textoff=0 time=300 storage=ãªãº02a(è¿)]Guten Tag.\"[lr]",
+      "jp": "　こんにちはシロウ。[cacheimage storage=リズ02a(近)][wvl][chgfg textoff=0 time=300 storage=リズ02a(近)]ぐーてんたーく」[lr]",
+      "Pt-br": "Olá, Shirou. [cacheimage storage=リズ02a(近)][wvl][chgfg textoff=0 time=300 storage=リズ02a(近)]Guten Tag.\"[lr]",
+      "id": 31237,
+      "epk_id": "18183",
+      "label": "$$$message_0139_0007_0001$$$"
+    },
+    {
+      "en": "\"Hello, Leys. [wvl][shock vmax=20 time=800 count=3]Guten Tag.\"",
+      "jp": "「こんにちはリズ。[wvl][shock vmax=20 time=800 count=3]ぐーてんたーく」",
+      "Pt-br": "\"Olá, Leys. [wvl][shock vmax=20 time=800 count=3]Guten Tag.\"",
+      "id": 31238,
+      "epk_id": "18184",
+      "label": "$$$message_0139_0007_0002$$$"
+    },
+    {
+      "en": "We exchange a leisurely greeting.[lr]",
+      "jp": "　二人そろって間の抜けた挨拶をする。[lr]",
+      "Pt-br": "Nós trocamos uma saudação tranquila.[lr]",
+      "id": 31239,
+      "epk_id": "18185",
+      "label": "$$$message_0139_0008_0000$$$"
+    },
+    {
+      "en": "It's a secret greeting between me and Leys,[lr]",
+      "jp": "　リズと俺の秘密の挨拶なのだが、[lr]",
+      "Pt-br": "É uma saudação secreta entre mim e Leys,[lr]",
+      "id": 31240,
+      "epk_id": "18186",
+      "label": "$$$message_0139_0008_0001$$$"
+    },
+    {
+      "en": "but Sella does not look pleased.",
+      "jp": "　セラにはお気に召さないようだ。",
+      "Pt-br": "mas Sella não parece satisfeita.",
+      "id": 31241,
+      "epk_id": "18187",
+      "label": "$$$message_0139_0008_0002$$$"
+    },
+    {
+      "en": "\"Her name is Leysritt to you, Master Emiya. I must ask that you observe propriety and not abbreviate her name.[lr]",
+      "jp": "「彼女の名前はリーゼリットですエミヤ様。節操なく略称を使わないでください。[lr]",
+      "Pt-br": "\"O nome dela é Leysritt para você, Emiya-sama. Peço que observe a decência e não abrevie o nome dela.[lr]",
+      "id": 31242,
+      "epk_id": "18188",
+      "label": "$$$message_0139_0009_0000$$$"
+    },
+    {
+      "en": "Our and our mistress's names are special. It is terribly unpleasant to hear a commoner such as you call us by nicknames.\"[lr]",
+      "jp": "　お嬢様や私たちの名は特別なものです。貴方のような平民に愛称で呼ばれても不愉快なだけで[line len=3]」[lr]",
+      "Pt-br": "Os nossos nomes e os de nossa senhorita são especiais. É terrivelmente desagradável ouvir um plebeu como você nos chamar por apelidos.\"[lr]",
+      "id": 31243,
+      "epk_id": "18189",
+      "label": "$$$message_0139_0009_0001$$$"
+    },
+    {
+      "en": "\"Don't mind her, Shirou. Sella's sad she got left out. She's jealous that her name is too short to have a nickname.\"",
+      "jp": "「シロウ、気にしないでいい。セラは仲間ハズレにされて寂しいだけ。あと、自分は愛称つけられないからひがんでる」",
+      "Pt-br": "\"Não ligue para ela, Shirou. Sella está triste por ter sido deixada de fora. Ela está com inveja porque o nome dela é muito curto para ter um apelido.\"",
+      "id": 31244,
+      "epk_id": "18190",
+      "label": "$$$message_0139_0009_0002$$$"
+    },
+    {
+      "en": "\"Hush, Leysritt...[cacheimage storage=ã»ã©02a(é )][wvl canskip=0 time=300][chgfg textoff=0 time=200 storage=ã»ã©02a(é )] Master Emiya. Leysritt was making a joke. Do not take her at her word.\"",
+      "jp": "「黙りなさいリーゼリット。……[cacheimage storage=セラ02a(遠)][wvl canskip=0 time=300][chgfg textoff=0 time=200 storage=セラ02a(遠)]エミヤ様。今のはリーゼリットの戯言です。あまり真剣に受け取らぬように」",
+      "Pt-br": "\"Silêncio, Leysritt...[cacheimage storage=セラ02a(遠)][wvl canskip=0 time=300][chgfg textoff=0 time=200 storage=セラ02a(遠)] Emiya-sama. Leysritt estava brincando. Não leve a sério o que ela diz.\"",
+      "id": 31245,
+      "epk_id": "18191",
+      "label": "$$$message_0139_0010_0000$$$"
+    },
+    {
+      "en": "\"Really? Then maybe I should call you Ms. Sella. That sounds cuter.\"",
+      "jp": "「そうなの？　じゃあセラさんって呼んだ方がいいのかな。そっちの方が愛称らしいし」",
+      "Pt-br": "\"Sério? Então talvez eu devesse chamá-la de Sella-san. Soa mais fofo.\"",
+      "id": 31246,
+      "epk_id": "18192",
+      "label": "$$$message_0139_0011_0000$$$"
+    },
+    {
+      "en": "\"Be silent, Master Emiya.[lr]",
+      "jp": "「お黙りくださいエミヤ様。[lr]",
+      "Pt-br": "\"Fique em silêncio, Emiya-sama.[lr]",
+      "id": 31247,
+      "epk_id": "18193",
+      "label": "$$$message_0139_0012_0000$$$"
+    },
+    {
+      "en": "We are not well-acquainted enough for you to call me anything!\"",
+      "jp": "　セ、セラさんなどと、そのように気安く呼ばれる関係ではございません！」",
+      "Pt-br": "Não temos intimidade suficiente para que você me chame de qualquer coisa, Sella-san!\"",
+      "id": 31248,
+      "epk_id": "18194",
+      "label": "$$$message_0139_0012_0001$$$"
+    },
+    {
+      "en": "I made her mad.[lr]",
+      "jp": "　怒られた。[lr]",
+      "Pt-br": "Eu a deixei irritada.[lr]",
+      "id": 31249,
+      "epk_id": "18195",
+      "label": "$$$message_0139_0013_0000$$$"
+    },
+    {
+      "en": "I'm actually more comfortable being a little more polite to her, though.",
+      "jp": "『セラ』と呼び捨てにするより『セラさん』と呼べた方がこっちは気が楽なのだが。",
+      "Pt-br": "Na verdade, me sinto mais confortável sendo um pouco mais educado com ela, de qualquer forma, Sella-san.",
+      "id": 31250,
+      "epk_id": "18196",
+      "label": "$$$message_0139_0013_0001$$$"
+    },
+    {
+      "en": "\"...Ahem. [cacheimage storage=ã»ã©01a(é )][wvl][chgfg textoff=0 time=300 storage=ã»ã©01a(é )]Do pardon any offense, Master Emiya. We have been too preoccupied to give you a proper welcome.[lr]",
+      "jp": "「……コホン。[cacheimage storage=セラ01a(遠)][wvl][chgfg textoff=0 time=300 storage=セラ01a(遠)]失礼いたしましたエミヤ様。なにぶん立て込んでいたもので、満足にお出迎えもできませんで。[lr]",
+      "Pt-br": "\"...Ahem. [cacheimage storage=セラ01a(遠)][wvl][chgfg textoff=0 time=300 storage=セラ01a(遠)]Por favor, perdoe qualquer ofensa, Emiya-sama. Temos estado muito ocupadas para lhe dar as devidas boas-vindas.[lr]",
+      "id": 31251,
+      "epk_id": "18197",
+      "label": "$$$message_0139_0014_0000$$$"
+    },
+    {
+      "en": "...May I ask what business you have here today?[lr]",
+      "jp": "　[line len=3]それで、どういった御用向きでしょうか？[lr]",
+      "Pt-br": "...Posso perguntar o que o traz aqui hoje?[lr]",
+      "id": 31252,
+      "epk_id": "18198",
+      "label": "$$$message_0139_0014_0001$$$"
+    },
+    {
+      "en": "I don't believe you have any appointments with my mistress.\"",
+      "jp": "　お嬢様とお会いする約束はなかった筈ですが」",
+      "Pt-br": "Não acredito que você tenha algum compromisso com minha senhorita.\"",
+      "id": 31253,
+      "epk_id": "18199",
+      "label": "$$$message_0139_0014_0002$$$"
+    },
+    {
+      "en": "\"I don't have an appointment, but I just came here to see what's going on.\"",
+      "jp": "「いや、約束はしてないんだ。なんとなく足が向いたんで、こっちの様子を見に来ただけでさ」",
+      "Pt-br": "\"Não tenho um compromisso, mas só vim aqui ver o que está acontecendo.\"",
+      "id": 31254,
+      "epk_id": "18200",
+      "label": "$$$message_0139_0015_0000$$$"
+    },
+    {
+      "en": "\"...Oh. Shirou, you're like a policeman on patrol to make sure Illya's safe?\"[lr]",
+      "jp": "「……そっか。シロウ、お[ruby text=まわ]巡りさん。イリヤが無事か確かめに来た？」[lr]",
+      "Pt-br": "\"...Ah. Shirou, você é como um policial em patrulha para garantir que Illya está segura?\"[lr]",
+      "id": 31255,
+      "epk_id": "18201",
+      "label": "$$$message_0139_0016_0000$$$"
+    },
+    {
+      "en": "\"Hm... You could say that, but you already have Berserker here.[lr]",
+      "jp": "「ん……まあ、そんなところだけど、ここにはバーサーカーがいるだろ。[lr]",
+      "Pt-br": "\"Hm... Pode-se dizer isso, mas vocês já têm o Berserker aqui.[lr]",
+      "id": 31256,
+      "epk_id": "18202",
+      "label": "$$$message_0139_0016_0001$$$"
+    },
+    {
+      "en": "I know she's way safer here than in the city. I'm more here to hang out than to patrol the area.\"",
+      "jp": "　街の何倍も安全だって分かってるからな。パトロールって言うよりは、やっぱり遊び気分かな」",
+      "Pt-br": "Sei que ela está muito mais segura aqui do que na cidade. Estou mais aqui para passar o tempo do que para patrulhar a área.\"",
+      "id": 31257,
+      "epk_id": "18203",
+      "label": "$$$message_0139_0016_0002$$$"
+    },
+    {
+      "en": "\"Hmph. See, Leysritt? This is all humans amount to. They care about no one but each other. We can hardly expect one to show genuine concern for our mistress.\"[lr]",
+      "jp": "「ふん。そら見なさいリーゼリット、人間なんてこの程度の物なのです。同じ[ruby text=もの o2o=1]人間しか愛せない生き物が、お嬢様の心配などするものですか」[lr]",
+      "Pt-br": "\"Hmph. Viu, Leysritt? É a isso que os humanos se resumem. Eles não se importam com ninguém além de si mesmos. Dificilmente podemos esperar que alguém mostre uma preocupação genuína com nossa senhorita.\"[lr]",
+      "id": 31258,
+      "epk_id": "18204",
+      "label": "$$$message_0139_0017_0000$$$"
+    },
+    {
+      "en": "\"...I think Shirou's shy. You're too mean to humans, Sella.\"",
+      "jp": "「…………シロウは照れてるだけだと思うけど。セラは人間を嫌いすぎ」",
+      "Pt-br": "\"...Eu acho que Shirou é tímido. Você é muito má com os humanos, Sella.\"",
+      "id": 31259,
+      "epk_id": "18205",
+      "label": "$$$message_0139_0017_0001$$$"
+    },
+    {
+      "en": "\"That is my job. Our duty is to protect the mistress, is it not? I defend her pride, while you guard her from physical threats.\"",
+      "jp": "「それが私の役割です。お嬢様をお守りするのは私たちの役目でしょう。私はお嬢様の誇りを、貴女はお体を守る為にいるのです」",
+      "Pt-br": "\"Esse é o meu trabalho. Nosso dever é proteger a senhorita, não é? Eu defendo o orgulho dela, enquanto você a protege de ameaças físicas.\"",
+      "id": 31260,
+      "epk_id": "18206",
+      "label": "$$$message_0139_0018_0000$$$"
+    },
+    {
+      "en": "\"How can you expect me to let down my guard around humans, much less exchange courtesies with the son of Kiritsugu Emiya? I thought you despised that villain.\"",
+      "jp": "「それが何ですか。人間に気を許すばかりか、よりにもよってエミヤキリツグの息子と親しげに挨拶を交わすなど。貴女とて、かの罪人をあれほど嫌っていたではないですか」",
+      "Pt-br": "\"Como você pode esperar que eu baixe a guarda perto de humanos, muito menos que troque cortesias com o filho de Emiya Kiritsugu? Achei que você desprezasse aquele vilão.\"",
+      "id": 31261,
+      "epk_id": "18207",
+      "label": "$$$message_0139_0019_0000$$$"
+    },
+    {
+      "en": "\"...I do. I hate Kiritsugu. Sorry, Shirou, but Kiritsugu was horrible.\"",
+      "jp": "「…………うん。わたし、キリツグは嫌い。シロウには悪いけど、キリツグはひどい人間」",
+      "Pt-br": "\"...Eu o desprezo. Eu odeio o Kiritsugu. Desculpe, Shirou, mas Kiritsugu era horrível.\"",
+      "id": 31262,
+      "epk_id": "18208",
+      "label": "$$$message_0139_0020_0000$$$"
+    },
+    {
+      "en": "I don't pick up any hatred from her faltering words.[lr]",
+      "jp": "　辿々しい言葉に憎しみは感じられない。[lr]",
+      "Pt-br": "Não percebo nenhum ódio em suas palavras hesitantes.[lr]",
+      "id": 31263,
+      "epk_id": "18209",
+      "label": "$$$message_0139_0021_0000$$$"
+    },
+    {
+      "en": "Leys only dislikes Kiritsugu Emiya because he made Illya cry.[lr]",
+      "jp": "　リズが衛宮切嗣を嫌っているのは、[ruby text=ひとえ]偏にイリヤを泣かせたからだ。[lr]",
+      "Pt-br": "Leys só não gosta de Emiya Kiritsugu porque ele fez a Illya chorar.[lr]",
+      "id": 31264,
+      "epk_id": "18210",
+      "label": "$$$message_0139_0021_0001$$$"
+    },
+    {
+      "en": "...I can't defend him for that. It makes me upset, too.",
+      "jp": "　……その点に関して、俺は何の反論も持たない。リズと同じく反感だって持っている。",
+      "Pt-br": "...Eu não posso defendê-lo por isso. Fico chateado com isso também.",
+      "id": 31265,
+      "epk_id": "18211",
+      "label": "$$$message_0139_0021_0002$$$"
+    },
+    {
+      "en": "\"It's okay, Leys. You're right to hold it against my old man, and it makes sense that you'd blame his son, too.\"[lr]",
+      "jp": "「いいんだリズ。イリヤたちが親父を許せないのは当然の事で、息子の俺が責められるのも当然だ」[lr]",
+      "Pt-br": "\"Tudo bem, Leys. Você tem o direito de guardar rancor contra o meu velho, e faz sentido que você culpe o filho dele também.\"[lr]",
+      "id": 31266,
+      "epk_id": "18212",
+      "label": "$$$message_0139_0022_0000$$$"
+    },
+    {
+      "en": "\"...Hmph. Perhaps you aren't as graceless as you look. I'm glad you're aware of that, at least.\"",
+      "jp": "「……ふん。見た目ほど浅慮ではないようですね。物分かりはよろしくていらっしゃる」",
+      "Pt-br": "\"...Hmph. Talvez você não seja tão grosseiro quanto parece. Fico feliz que você tenha consciência disso, ao menos.\"",
+      "id": 31267,
+      "epk_id": "18213",
+      "label": "$$$message_0139_0022_0001$$$"
+    },
+    {
+      "en": "\"Yeah. I'm my father's son. I have to carry on his responsibilities.[lr]",
+      "jp": "「ああ。俺は親父の息子だから、親父の残した責任はちゃんと引き継ぎたいんだ。[lr]",
+      "Pt-br": "\"É. Sou filho do meu pai. Tenho que arcar com as responsabilidades dele.[lr]",
+      "id": 31268,
+      "epk_id": "18214",
+      "label": "$$$message_0139_0023_0000$$$"
+    },
+    {
+      "en": "So I'll accept your dislike for him, too.[lr]",
+      "jp": "　そんなワケで、セラが俺を嫌いなのも引き受ける。[lr]",
+      "Pt-br": "Então, eu aceito o seu desgosto por ele também.[lr]",
+      "id": 31269,
+      "epk_id": "18215",
+      "label": "$$$message_0139_0023_0001$$$"
+    },
+    {
+      "en": "But if you feel that way about all humans who have nothing to do with this...\"",
+      "jp": "　けど、それと関係なしに人間全部が嫌いっていうのなら[line len=3]」",
+      "Pt-br": "Mas se você se sente dessa forma em relação a todos os humanos que não têm nada a ver com isso...\"",
+      "id": 31270,
+      "epk_id": "18216",
+      "label": "$$$message_0139_0023_0002$$$"
+    },
+    {
+      "en": "\"...If I feel that way about humans, then what? You won't allow it?\"[lr]",
+      "jp": "「……人間すべてが嫌いなら、どうするというのです。私を許せませんか？」[lr]",
+      "Pt-br": "\"...Se eu me sinto dessa forma em relação aos humanos, e daí? Você não vai permitir?\"[lr]",
+      "id": 31271,
+      "epk_id": "18217",
+      "label": "$$$message_0139_0024_0000$$$"
+    },
+    {
+      "en": "\"No. I guess I'd ask you to reconsider your opinion. It isn't like you.\"",
+      "jp": "「いや。できれば考え直していってほしいな、と。そういうのはセラらしくないし」",
+      "Pt-br": "\"Não. Eu acho que só pediria para você reconsiderar a sua opinião. Isso não combina com você.\"",
+      "id": 31272,
+      "epk_id": "18218",
+      "label": "$$$message_0139_0024_0001$$$"
+    },
+    {
+      "en": "\"How insincere. How is it not like me?\"[lr]",
+      "jp": "「心にもない事を。それのどこが私らしくないというのです」[lr]",
+      "Pt-br": "\"Quanta hipocrisia. Como não combina comigo?\"[lr]",
+      "id": 31273,
+      "epk_id": "18219",
+      "label": "$$$message_0139_0025_0000$$$"
+    },
+    {
+      "en": "\"It just isn't. It's like saying you hate all fruits because you don't like apples. It's so extreme.\"",
+      "jp": "「らしくないだろ。リンゴが嫌いだから果物は全部嫌いって言ってるようなもんだ。そんなの大雑把すぎる」",
+      "Pt-br": "\"Simplesmente não combina. É como dizer que você odeia todas as frutas porque não gosta de maçãs. É muito extremo.\"",
+      "id": 31274,
+      "epk_id": "18220",
+      "label": "$$$message_0139_0025_0001$$$"
+    },
+    {
+      "en": "\"...Extreme, [cacheimage storage=ãªãº01e(è¿)][wvl][chgfg textoff=0 opacity=0 time=500 storage=ãªãº01e(è¿)]you say?\"[lr]",
+      "jp": "「[line len=3]大雑把、[cacheimage storage=リズ01e(近)][wvl][chgfg textoff=0 opacity=0 time=500 storage=リズ01e(近)]でしょうか？」[lr]",
+      "Pt-br": "\"...Extrema, [cacheimage storage=リズ01e(近)][wvl][chgfg textoff=0 opacity=0 time=500 storage=リズ01e(近)]você diz?\"[lr]",
+      "id": 31275,
+      "epk_id": "18221",
+      "label": "$$$message_0139_0026_0000$$$"
+    },
+    {
+      "en": "\"Yeah, Sella. You're extreme.\"[lr]",
+      "jp": "「うん。セラ、大雑把」[lr]",
+      "Pt-br": "\"É, Sella. Você é extrema.\"[lr]",
+      "id": 31276,
+      "epk_id": "18222",
+      "label": "$$$message_0139_0026_0001$$$"
+    },
+    {
+      "en": "We both nod.",
+      "jp": "　二人して頷く。",
+      "Pt-br": "Nós dois assentimos.",
+      "id": 31277,
+      "epk_id": "18223",
+      "label": "$$$message_0139_0026_0002$$$"
+    },
+    {
+      "en": "\"...I see. It does go against my sense of aesthetics, I suppose.[lr]",
+      "jp": "「[line len=3]そうですね。たしかに私の美学に反します。[lr]",
+      "Pt-br": "\"...Entendo. Isso vai contra meu senso de estética, creio eu.[lr]",
+      "id": 31278,
+      "epk_id": "18224",
+      "label": "$$$message_0139_0027_0000$$$"
+    },
+    {
+      "en": "...I will be more precise and merited in my dislikes in the future.\"",
+      "jp": "　……これからはもっときめ細かく、正当な理由をもって嫌う事にしましょう」",
+      "Pt-br": "...Serei mais precisa e merecida em meus desgostos no futuro.\"",
+      "id": 31279,
+      "epk_id": "18225",
+      "label": "$$$message_0139_0027_0001$$$"
+    },
+    {
+      "en": "\"...Then, if you'll excuse us, Master Emiya, we have other duties to attend to.\"[lr]",
+      "jp": "「……それでは失礼しますエミヤ様。私どもは仕事が残っておりますので」[lr]",
+      "Pt-br": "\"...Então, se nos der licença, Emiya-sama, temos outras tarefas a cumprir.\"[lr]",
+      "id": 31280,
+      "epk_id": "18226",
+      "label": "$$$message_0139_0028_0000$$$"
+    },
+    {
+      "en": "\"What? But this was our last job. You're lying, Sella. We need to serve Shirou tea.\"[lr]",
+      "jp": "「？？　今日の仕事、これで終わり。セラ、嘘ついてる。ちゃんとシロウにお茶出してあげないと」[lr]",
+      "Pt-br": "\"O quê? Mas este era o nosso último trabalho. Você está mentindo, Sella. Precisamos servir o chá para o Shirou.\"[lr]",
+      "id": 31281,
+      "epk_id": "18227",
+      "label": "$$$message_0139_0028_0001$$$"
+    },
+    {
+      "en": "\"Listen to yourself![lr]",
+      "jp": "「何を聞いていたのですか貴女は！[lr]",
+      "Pt-br": "\"Olha o que está dizendo![lr]",
+      "id": 31282,
+      "epk_id": "18228",
+      "label": "$$$message_0139_0028_0002$$$"
+    },
+    {
+      "en": "Have you already forgotten that I just asked you to clean up the wine cellar!?\"",
+      "jp": "　ワインセラーの整理をしなさいとあれほど言ったでしょうに、もう忘れたのですか！」",
+      "Pt-br": "Já se esqueceu que acabei de pedir para você arrumar a adega de vinhos!?\"",
+      "id": 31283,
+      "epk_id": "18229",
+      "label": "$$$message_0139_0028_0003$$$"
+    },
+    {
+      "en": "\"...Sella, you're mixing private and professional matters. If you want to clean up the cellar so badly, you can do it yourself.\"[lr]",
+      "jp": "「……セラ、それ公私混同。そんなに整理したいのなら、自分でやればいい」[lr]",
+      "Pt-br": "\"...Sella, você está misturando assuntos pessoais e profissionais. Se quer tanto limpar a adega, pode fazer isso você mesma.\"[lr]",
+      "id": 31284,
+      "epk_id": "18230",
+      "label": "$$$message_0139_0029_0000$$$"
+    },
+    {
+      "en": "\"I [font italic=true]am[font italic=false] doing what I can, but brute manual labor is your responsibility. My thin arms couldn't possibly move the heavy wine barrels around.\"",
+      "jp": "「私に出来る事ならやっています。力仕事は貴女の分担でしょう。ワイン樽の整理など、私の細腕では出来ません」",
+      "Pt-br": "\"Eu [font italic=true]estou[font italic=false] fazendo o que posso, mas o trabalho manual pesado é sua responsabilidade. Meus braços finos jamais conseguiriam mover os pesados barris de vinho.\"",
+      "id": 31285,
+      "epk_id": "18231",
+      "label": "$$$message_0139_0029_0001$$$"
+    },
+    {
+      "en": "\"You're lying again, Sella. You don't go underground because you don't want to go to the wine cellar.[lr]",
+      "jp": "「嘘、二回目。セラが地下に行きたがらないのは、ワインセラーに行きたくないから。[lr]",
+      "Pt-br": "\"Você está mentindo de novo, Sella. Você não vai ao subsolo porque não quer ir à adega.[lr]",
+      "id": 31286,
+      "epk_id": "18232",
+      "label": "$$$message_0139_0030_0000$$$"
+    },
+    {
+      "en": "I know you actually[line len=2]\"[lr]",
+      "jp": "　セラ、本当は[line len=3]」[lr]",
+      "Pt-br": "Eu sei que, na verdade, você[line len=2]\"[lr]",
+      "id": 31287,
+      "epk_id": "18233",
+      "label": "$$$message_0139_0030_0001$$$"
+    },
+    {
+      "en": "\"H-hold your tongue, Leysritt! We are in front of a guest. Don't say anything that[line len=2]\"",
+      "jp": "「ま、待ちなさいリーゼリット！　お客様の前です、バカなコトを口にしな、」",
+      "Pt-br": "\"S-Segure sua língua, Leysritt! Estamos na frente de um convidado. Não diga nada que[line len=2]\"",
+      "id": 31288,
+      "epk_id": "18234",
+      "label": "$$$message_0139_0030_0002$$$"
+    },
+    {
+      "en": "\"Hey Shirou, did you know, Sella acts tough, but she's afraid of gho[line len=2]\"",
+      "jp": "「聞いてシロウ。セラね、いつも威張ってるのに、お化けがこわ[line len=3]」",
+      "Pt-br": "\"Ei Shirou, você sabia, Sella se faz de durona, mas tem medo de fan[line len=2]\"",
+      "id": 31289,
+      "epk_id": "18235",
+      "label": "$$$message_0139_0031_0000$$$"
+    },
+    {
+      "en": "\"AAAAAAAAAHHH! No, that's not true at all![lr]",
+      "jp": "「きゃあーーーーーーーー！　違います違います、そのようなコトはありませんっ……！[lr]",
+      "Pt-br": "\"AAAAAAAAAHHH! Não, isso não é verdade de jeito nenhum![lr]",
+      "id": 31290,
+      "epk_id": "18236",
+      "label": "$$$message_0139_0032_0000$$$"
+    },
+    {
+      "en": "Forget you heard that, Shirou Emiya. You never heard any of this!\"",
+      "jp": "　忘れなさいエミヤシロウ、今のタワゴトを忘れなさい！」",
+      "Pt-br": "Esqueça que ouviu isso, Emiya Shirou. Você nunca ouviu nada disso!\"",
+      "id": 31291,
+      "epk_id": "18237",
+      "label": "$$$message_0139_0032_0001$$$"
+    },
+    {
+      "en": "Sella doesn't make a move against me, despite how flustered she is. What a professional.[lr]",
+      "jp": "　混乱しながらもセラは決して手を出さない。見事なまでの職業意識だ。[lr]",
+      "Pt-br": "Sella não faz nenhum movimento contra mim, apesar de quão nervosa está. Que profissional.[lr]",
+      "id": 31292,
+      "epk_id": "18238",
+      "label": "$$$message_0139_0033_0000$$$"
+    },
+    {
+      "en": "I'm impressed. If this was Tohsaka, she'd be caving my skull in by now.[fg textoff=0 opacity=0 left=398 index=1500 top=102 time=100 storage=ãªãº01b(è¿)]",
+      "jp": "　凄いなあ。これが遠坂だったらパカパカと頭を叩かれてるぞ、きっと。[fg textoff=0 opacity=0 left=398 index=1500 top=102 time=100 storage=リズ01b(近)]",
+      "Pt-br": "Estou impressionado. Se fosse a Tohsaka, ela já estaria esmagando meu crânio a essa hora.[fg textoff=0 opacity=0 left=398 index=1500 top=102 time=100 storage=リズ01b(近)]",
+      "id": 31293,
+      "epk_id": "18239",
+      "label": "$$$message_0139_0033_0001$$$"
+    },
+    {
+      "en": "\"Leysritt, give a proper explanation! You're just spewing baseless fantasies![lr]",
+      "jp": "「リーゼリット、貴方もきちんと釈明なさい！　今のは根拠のない、ただの妄想にすぎないというコトを！[lr]",
+      "Pt-br": "\"Leysritt, dê uma explicação adequada! Você está apenas vomitando fantasias sem fundamento![lr]",
+      "id": 31294,
+      "epk_id": "18240",
+      "label": "$$$message_0139_0034_0000$$$"
+    },
+    {
+      "en": "And we are going to the wine cellar, right now!\"[lr]",
+      "jp": "　そしてすぐにワインセラーに行くのです！」[lr]",
+      "Pt-br": "E nós vamos para a adega de vinhos, agora mesmo!\"[lr]",
+      "id": 31295,
+      "epk_id": "18241",
+      "label": "$$$message_0139_0034_0001$$$"
+    },
+    {
+      "en": "\"...Okay. I'll go with you. Then you won't be scared, right?\"",
+      "jp": "「……いいよ、一緒に行ってあげる。セラ、それなら怖くないでしょ？」",
+      "Pt-br": "\"...Tá. Eu vou com você. Assim você não fica com medo, certo?\"",
+      "id": 31296,
+      "epk_id": "18242",
+      "label": "$$$message_0139_0034_0002$$$"
+    },
+    {
+      "en": "\"I just told you I'm not scared of ghosts![lr]",
+      "jp": "「ですからもとより怖くなどないのですっ……！[lr]",
+      "Pt-br": "\"Eu acabei de dizer que não tenho medo de fantasmas![lr]",
+      "id": 31297,
+      "epk_id": "18243",
+      "label": "$$$message_0139_0035_0000$$$"
+    },
+    {
+      "en": "...Fine, I don't need you! I'll tidy up the wine cellar on my own![lr]",
+      "jp": "　……結構、もう貴女になど頼みません！　ワインセラーの整理ぐらい私一人でやってみせますとも！[lr]",
+      "Pt-br": "...Tudo bem, não preciso de você! Vou arrumar a adega sozinha![lr]",
+      "id": 31298,
+      "epk_id": "18244",
+      "label": "$$$message_0139_0035_0001$$$"
+    },
+    {
+      "en": "...It's all right, I'm not scared. I'm one of the few perfected homunculi on this earth. Ghosts are nothing to be afraid of!\"",
+      "jp": "　……大丈夫、怖くない怖くない、私は地上で数少ない完成された自然の[ruby text=ホムンクルス char=2]嬰児なのです、亡霊など怖いものですかっ！」",
+      "Pt-br": "...Está tudo bem, não estou com medo. Sou um dos poucos homúnculos aperfeiçoados nesta terra. Fantasmas não são nada a se temer!\"",
+      "id": 31299,
+      "epk_id": "18245",
+      "label": "$$$message_0139_0035_0002$$$"
+    },
+    {
+      "en": "Sella's shouting in a rare display of emotion.[lr]",
+      "jp": "　ぐっ、と珍しく感情を露わにするセラ。[lr]",
+      "Pt-br": "Sella está gritando em uma rara demonstração de emoção.[lr]",
+      "id": 31300,
+      "epk_id": "18246",
+      "label": "$$$message_0139_0036_0000$$$"
+    },
+    {
+      "en": "She's trying so hard that I feel a little bad for her.",
+      "jp": "　その頑張りようは、ちょっと哀れを誘う。",
+      "Pt-br": "Ela está se esforçando tanto que sinto um pouco de pena dela.",
+      "id": 31301,
+      "epk_id": "18247",
+      "label": "$$$message_0139_0036_0001$$$"
+    },
+    {
+      "en": "\"Uh...so there are ghosts here?\"[lr]",
+      "jp": "「……あー……なに、お化けが出るのかここ？」[lr]",
+      "Pt-br": "\"Uh... então há fantasmas aqui?\"[lr]",
+      "id": 31302,
+      "epk_id": "18248",
+      "label": "$$$message_0139_0037_0000$$$"
+    },
+    {
+      "en": "\"...Yeah. They showed up in the forest a while ago. Then Illya said that she saw a ghost that looked like a demon underground when she was playing at night.\"",
+      "jp": "「……そうなの。ちょっと前から森の方で、たまにお化けが出るようになって。その後、イリヤが夜遊んでたら、地下で悪魔みたいなお化けを見たって」",
+      "Pt-br": "\"...Sim. Eles apareceram na floresta há um tempo atrás. Aí a Illya disse que viu um fantasma que parecia um demônio no subsolo quando estava brincando à noite.\"",
+      "id": 31303,
+      "epk_id": "18249",
+      "label": "$$$message_0139_0037_0001$$$"
+    },
+    {
+      "en": "\"No such thing ever happened! Temporary lodging it might be, but this is still a castle of the Einzberns! While I can't rule out Elementals, lesser spirits like wraiths shouldn't be able to enter![lr]",
+      "jp": "「そのようなコトはありません！　仮にもここはアインツベルンの城、精霊ならいざ知らず、幽霊のような下級霊が立ち[ruby text=い]入る筈がないのです！[lr]",
+      "Pt-br": "\"Não aconteceu nada disso! Pode ser uma habitação temporária, mas ainda é um castelo dos Einzbern! Embora eu não possa descartar os Elementais, espíritos menores como aparições não deveriam conseguir entrar![lr]",
+      "id": 31304,
+      "epk_id": "18250",
+      "label": "$$$message_0139_0038_0000$$$"
+    },
+    {
+      "en": "I-I'll prove it to you right now!\"",
+      "jp": "　そ、それをこれから私が証明して見せましょう！」",
+      "Pt-br": "E-Eu provarei isso a você agora mesmo!\"",
+      "id": 31305,
+      "epk_id": "18251",
+      "label": "$$$message_0139_0038_0001$$$"
+    },
+    {
+      "en": "\"Oooh. Good girl, Sella.\"[lr]",
+      "jp": "「おー。セラ、偉い偉い」[lr]",
+      "Pt-br": "\"Oooh. Boa garota, Sella.\"[lr]",
+      "id": 31306,
+      "epk_id": "18252",
+      "label": "$$$message_0139_0039_0000$$$"
+    },
+    {
+      "en": "\"Hardly. I'm only going to check on the wine cellar.\"",
+      "jp": "「偉くもなんともありません。ただワインセラーの様子を見てくるだけなのですからね」",
+      "Pt-br": "\"Dificilmente. Só vou dar uma olhada na adega de vinhos.\"",
+      "id": 31307,
+      "epk_id": "18253",
+      "label": "$$$message_0139_0039_0001$$$"
+    },
+    {
+      "en": "The wine cellar is underground?[lr]",
+      "jp": "　ワインセラーは地下にあるのか。[lr]",
+      "Pt-br": "A adega de vinhos fica no subsolo?[lr]",
+      "id": 31308,
+      "epk_id": "18254",
+      "label": "$$$message_0139_0040_0000$$$"
+    },
+    {
+      "en": "So it's a castle dungeon... That does sound scary.[lr]",
+      "jp": "　城の地下室かあ……そりゃあ確かに怖そうだ。[lr]",
+      "Pt-br": "Então é um calabouço de castelo... Isso sim parece assustador.[lr]",
+      "id": 31309,
+      "epk_id": "18255",
+      "label": "$$$message_0139_0040_0001$$$"
+    },
+    {
+      "en": "Sella must be pretty brave to go down there by herself.[lr]",
+      "jp": "　一人で見にいく、というセラは中々の気丈夫だろう。[lr]",
+      "Pt-br": "Sella deve ser bem corajosa para descer lá sozinha.[lr]",
+      "id": 31310,
+      "epk_id": "18256",
+      "label": "$$$message_0139_0040_0002$$$"
+    },
+    {
+      "en": "Still, though...",
+      "jp": "　でもなあ。",
+      "Pt-br": "Mesmo assim, porém...",
+      "id": 31311,
+      "epk_id": "18257",
+      "label": "$$$message_0139_0040_0003$$$"
+    },
+    {
+      "en": "\"...What? You look like you have something to say, Master Emiya.\"[lr]",
+      "jp": "「……なんですか、エミヤ様。何か一言ありそうなお顔ですが」[lr]",
+      "Pt-br": "\"...O quê? Você parece ter algo a dizer, Emiya-sama.\"[lr]",
+      "id": 31312,
+      "epk_id": "18258",
+      "label": "$$$message_0139_0041_0000$$$"
+    },
+    {
+      "en": "\"I was just thinking that if you're going to look for ghosts, then there's no point in going right now.[lr]",
+      "jp": "「いや、お化けがいるかどうか見にいくんなら、いま行っても意味ないんじゃないかって。[lr]",
+      "Pt-br": "\"Eu só estava pensando que, se você vai procurar fantasmas, então não faz sentido ir agora.[lr]",
+      "id": 31313,
+      "epk_id": "18259",
+      "label": "$$$message_0139_0041_0001$$$"
+    },
+    {
+      "en": "Illya saw it at night, didn't she? So they're not going to show up unless you go down there late at night.\"",
+      "jp": "　イリヤは夜見たんだろ？　なら、深夜に行かないとお化けは出てこないんじゃないか？」",
+      "Pt-br": "A Illya o viu à noite, não foi? Então eles não vão aparecer a menos que você vá lá tarde da noite.\"",
+      "id": 31314,
+      "epk_id": "18260",
+      "label": "$$$message_0139_0041_0002$$$"
+    },
+    {
+      "en": "\"Aaaah, [cacheimage storage=ã»ã©01i(ä¸­)][wvl canskip=0 time=400][shock vmax=10 time=400 count=-4][chgfg pos=l time=200 storage=ã»ã©01i(ä¸­)]what manner of devil are you!? You demand that I do something so terrifying!? What am I supposed to do if I actually run into a ghost!?\"[lr]",
+      "jp": "「あああ、[cacheimage storage=セラ01i(中)][wvl canskip=0 time=400][shock vmax=10 time=400 count=-4][chgfg pos=l time=200 storage=セラ01i(中)]悪魔ですか貴方は！　そのような恐ろしいコトを私にしろと！？　そんなコトをしてお化けと鉢合わせたらどうしろと言うのですっ！」[lr]",
+      "Pt-br": "\"Aaaah, [cacheimage storage=セラ01i(中)][wvl canskip=0 time=400][shock vmax=10 time=400 count=-4][chgfg pos=l time=200 storage=セラ01i(中)]que tipo de demônio é você!? Você exige que eu faça algo tão aterrorizante!? O que eu deveria fazer se realmente encontrasse um fantasma!?\"[lr]",
+      "id": 31315,
+      "epk_id": "18261",
+      "label": "$$$message_0139_0042_0000$$$"
+    },
+    {
+      "en": "\"I knew it. You're afraid of ghosts, aren't you?\"[lr]",
+      "jp": "「やっぱり。お化け、怖いの？」[lr]",
+      "Pt-br": "\"Eu sabia. Você tem medo de fantasmas, não tem?\"[lr]",
+      "id": 31316,
+      "epk_id": "18262",
+      "label": "$$$message_0139_0042_0001$$$"
+    },
+    {
+      "en": "\"Ack.\"[lr]",
+      "jp": "「あ」[lr]",
+      "Pt-br": "\"Ack.\"[lr]",
+      "id": 31317,
+      "epk_id": "18263",
+      "label": "$$$message_0139_0042_0002$$$"
+    },
+    {
+      "en": "Sella freezes in her tracks.",
+      "jp": "　ピタリ、と停止させられるセラ。",
+      "Pt-br": "Sella gela onde está.",
+      "id": 31318,
+      "epk_id": "18264",
+      "label": "$$$message_0139_0042_0003$$$"
+    },
+    {
+      "en": "\"Rrgh, I misjudged you, Shirou Emiya![lr]",
+      "jp": "「っ、見損ないましたよエミヤシロウ……！[lr]",
+      "Pt-br": "\"Rrgh, eu me enganei sobre você, Emiya Shirou![lr]",
+      "id": 31319,
+      "epk_id": "18265",
+      "label": "$$$message_0139_0043_0000$$$"
+    },
+    {
+      "en": "You've poisoned Leysritt against me!\"[lr]",
+      "jp": "　リーゼリットを扇動して、私にあらぬ疑いをかけようとするなんて……！」[lr]",
+      "Pt-br": "Você envenenou Leysritt contra mim!\"[lr]",
+      "id": 31320,
+      "epk_id": "18266",
+      "label": "$$$message_0139_0043_0001$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「………………」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 31321,
+      "epk_id": "18267",
+      "label": "$$$message_0139_0043_0002$$$"
+    },
+    {
+      "en": "I'm pretty sure Sella did that herself. In fact, she landed herself in this entire situation.",
+      "jp": "　扇動したというのならセラ本人をであり、さらに正確に言うのなら自爆以外の何物でもない。",
+      "Pt-br": "Tenho quase certeza de que a Sella fez isso a si mesma. Na verdade, ela mesma se meteu em toda essa situação.",
+      "id": 31322,
+      "epk_id": "18268",
+      "label": "$$$message_0139_0043_0003$$$"
+    },
+    {
+      "en": "\"...Very well. If you insist, then I will venture underground at midnight to acquire concrete proof, even if it is outside of the scope of my duties.[lr]",
+      "jp": "「……いいでしょう。そこまで言うのでしたら、深夜零時、私一人で地下の様子を見てまいります。私の管轄外の仕事ですが、これも潔白を証明する為。[lr]",
+      "Pt-br": "\"...Muito bem. Se você insiste, então me aventurarei pelo subsolo à meia-noite para conseguir provas concretas, mesmo que isso esteja fora das minhas obrigações.[lr]",
+      "id": 31323,
+      "epk_id": "18269",
+      "label": "$$$message_0139_0044_0000$$$"
+    },
+    {
+      "en": "Just you watch, Shirou Emiya! As Lady Illyasviel's[line len=2]no, as an Einzbern homunculus, I will prove to you[cacheimage storage=ã»ã©02e(ä¸­)][wvl][movefg textoff=0 opacity=128 left=-377 top=44 time=500 accel=3 storage=ã»ã©02e(ä¸­)] that I am without flaw!\"",
+      "jp": "　ええ、見ていなさいエミヤシロウ！　イリヤスフィール様の、いえアインツベルンのホムンクルスとして、私に欠点などないと[cacheimage storage=セラ02e(中)][wvl][movefg textoff=0 opacity=128 left=-377 top=44 time=500 accel=3 storage=セラ02e(中)]思い知るといいのだわ……！」",
+      "Pt-br": "Apenas observe, Emiya Shirou! Como [line len=2]não, como um homúnculo dos Einzbern e subordinada de Illyasviel-sama, provarei a você[cacheimage storage=セラ02e(中)][wvl][movefg textoff=0 opacity=128 left=-377 top=44 time=500 accel=3 storage=セラ02e(中)] que não tenho falhas!\"",
+      "id": 31324,
+      "epk_id": "18270",
+      "label": "$$$message_0139_0044_0001$$$"
+    },
+    {
+      "en": "\"...And off she goes. Are you really okay letting Sella go by herself?\"[lr]",
+      "jp": "「……行っちまった。いいのかリズ、セラの事だからホントに一人で行っちゃうぞ？」[lr]",
+      "Pt-br": "\"...E lá vai ela. Você está mesmo bem em deixar a Sella ir sozinha?\"[lr]",
+      "id": 31325,
+      "epk_id": "18271",
+      "label": "$$$message_0139_0045_0000$$$"
+    },
+    {
+      "en": "What if she passes out in the cellar?",
+      "jp": "　そしてワインセラーで気絶しちゃうぞ？",
+      "Pt-br": "E se ela desmaiar na adega?",
+      "id": 31326,
+      "epk_id": "18272",
+      "label": "$$$message_0139_0045_0001$$$"
+    },
+    {
+      "en": "\"It's okay. Sella isn't as strong as you think. She'll come crying back to us.\"[lr]",
+      "jp": "「大丈夫。セラ、シロウが思ってるほど強くないから。きっと泣きついてくる」[lr]",
+      "Pt-br": "\"Está tudo bem. Sella não é tão forte quanto você pensa. Ela vai voltar chorando para nós.\"[lr]",
+      "id": 31327,
+      "epk_id": "18273",
+      "label": "$$$message_0139_0046_0000$$$"
+    },
+    {
+      "en": "Leys smiles happily, for some reason.[lr]",
+      "jp": "　どこか嬉しそうに微笑む。[lr]",
+      "Pt-br": "Leys sorri alegremente, por algum motivo.[lr]",
+      "id": 31328,
+      "epk_id": "18274",
+      "label": "$$$message_0139_0046_0001$$$"
+    },
+    {
+      "en": "\"Huh?\"[lr]",
+      "jp": "「？」[lr]",
+      "Pt-br": "\"Hã?\"[lr]",
+      "id": 31329,
+      "epk_id": "18275",
+      "label": "$$$message_0139_0046_0002$$$"
+    },
+    {
+      "en": "I wonder who the smile is meant for.",
+      "jp": "　はて。その笑顔は何に対して向けられたものなんだろーか。",
+      "Pt-br": "Me pergunto a quem esse sorriso foi destinado.",
+      "id": 31330,
+      "epk_id": "18276",
+      "label": "$$$message_0139_0046_0003$$$"
+    },
+    {
+      "en": "\"Anyway, it's teatime. I'll go call Illya, so go wait in the salon.\"[lr]",
+      "jp": "「それよりシロウ、ティータイム。イリヤも呼んでくるから、サロンに行ってて」[lr]",
+      "Pt-br": "\"De qualquer forma, é a hora do chá. Vou chamar a Illya, então vá esperar no salão.\"[lr]",
+      "id": 31331,
+      "epk_id": "18277",
+      "label": "$$$message_0139_0047_0000$$$"
+    },
+    {
+      "en": "\"Okay. Thanks, Leys.\"[lr]",
+      "jp": "「ああ、ありがとうリズ。じゃ遠慮なく」[lr]",
+      "Pt-br": "\"Tudo bem. Obrigado, Leys.\"[lr]",
+      "id": 31332,
+      "epk_id": "18278",
+      "label": "$$$message_0139_0047_0001$$$"
+    },
+    {
+      "en": "\"Yeah. I like how honest you are.\"[lr]",
+      "jp": "「うん。シロウは素直でタイヘンいい」[lr]",
+      "Pt-br": "\"É. Gosto de como você é honesto.\"[lr]",
+      "id": 31333,
+      "epk_id": "18279",
+      "label": "$$$message_0139_0047_0002$$$"
+    },
+    {
+      "en": "Leys goes up the center stairs.[lr]",
+      "jp": "　中央の階段を上っていくリズ。[lr]",
+      "Pt-br": "Leys sobe as escadas centrais.[lr]",
+      "id": 31334,
+      "epk_id": "18280",
+      "label": "$$$message_0139_0047_0003$$$"
+    },
+    {
+      "en": "She's probably gone off to find Illya.",
+      "jp": "　イリヤを呼びに行ったのだろう。",
+      "Pt-br": "Ela provavelmente foi procurar a Illya.",
+      "id": 31335,
+      "epk_id": "18281",
+      "label": "$$$message_0139_0047_0004$$$"
+    },
+    {
+      "en": "I head to the salon.[lr]",
+      "jp": "　サロンに向かう。[lr]",
+      "Pt-br": "Eu vou para o salão.[lr]",
+      "id": 31336,
+      "epk_id": "18282",
+      "label": "$$$message_0139_0048_0000$$$"
+    },
+    {
+      "en": "It took a lot of stamina to come out here. Tea with Illya and Leys is exactly what I need.[lr]",
+      "jp": "　ここまで来るのに体力を使ったし、イリヤとリズと三人でお茶をするのは願ったりである。[lr]",
+      "Pt-br": "Exigiu muita resistência vir até aqui. Chá com Illya e Leys é exatamente o que eu preciso.[lr]",
+      "id": 31337,
+      "epk_id": "18283",
+      "label": "$$$message_0139_0048_0001$$$"
+    },
+    {
+      "en": "Sella will be back soon enough, I'm sure. Looks like it's going to be a lively afternoon.",
+      "jp": "　セラも結局やってくるだろうし、賑やかな午後になりそうだな[line len=3]",
+      "Pt-br": "Sella voltará logo, tenho certeza. Parece que vai ser uma tarde animada.",
+      "id": 31338,
+      "epk_id": "18284",
+      "label": "$$$message_0139_0048_0002$$$"
+    },
+    {
+      "en": "\"D-did the mistress say that herself!? She told you to ignore the cellar!?\"[r]",
+      "jp": "「ま、まさか、お嬢様が[r]そう仰ったのですか！？[r]地下はそのままにして[r]おいて良いと！？」",
+      "Pt-br": "\"A-a senhorita disse isso ela mesma!? Ela disse para você ignorar a adega!?\"[r]",
+      "id": 31339,
+      "epk_id": "918175",
+      "label": "$$$message_9139_0003_0000$$$"
+    }
+  ]
+}

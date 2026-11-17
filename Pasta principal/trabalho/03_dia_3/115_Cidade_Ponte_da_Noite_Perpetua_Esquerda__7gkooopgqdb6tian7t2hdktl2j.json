@@ -1,0 +1,944 @@
+{
+  "cena": "7gkooopgqdb6tian7t2hdktl2j",
+  "titulo": "Cidade: Ponte da Noite Perpétua / Esquerda",
+  "rota": "Dia 3",
+  "arquivo": "7gkooopgqdb6tian7t2hdktl2j.epk_dec",
+  "linhas": [
+    {
+      "en": "\"Hã...?\"[lr]",
+      "jp": "ãã[line len=3]ï¼ã[lr]",
+      "Pt-br": "\"Hã...?\"[lr]",
+      "id": 16969,
+      "epk_id": "16135",
+      "label": "$$$message_0126_0000_0000$$$"
+    },
+    {
+      "en": "No caminho para a ponte, algo estranho surge no meu campo de visão.[lr]",
+      "jp": "ãæ©ã®éä¸­ãå¦ãªãã®ãè¦çãããããã[lr]",
+      "Pt-br": "No caminho para a ponte, algo estranho surge no meu campo de visão.[lr]",
+      "id": 16970,
+      "epk_id": "16136",
+      "label": "$$$message_0126_0000_0001$$$"
+    },
+    {
+      "en": "Paro e observo, mas tenho dificuldade em compreender o que ela está fazendo ou qual é a sua intenção.[lr]",
+      "jp": "ãè¶³ãæ­¢ãã¦è¦³å¯ããããä½ããã¦ããã®ããä½ã®æå³ããã£ã¦ã®ã³ããªã®ãçè§£ã«è¦ããã[lr]",
+      "Pt-br": "Paro e observo, mas tenho dificuldade em compreender o que ela está fazendo ou qual é a sua intenção.[lr]",
+      "id": 16971,
+      "epk_id": "16137",
+      "label": "$$$message_0126_0000_0002$$$"
+    },
+    {
+      "en": "\"...O que ela está fazendo?\"[lr]",
+      "jp": "ãâ¦â¦â¦â¦ãªã«ãã£ã¦ãã ãã¢ã¤ãã[lr]",
+      "Pt-br": "\"...O que ela está fazendo?\"[lr]",
+      "id": 16972,
+      "epk_id": "16138",
+      "label": "$$$message_0126_0000_0003$$$"
+    },
+    {
+      "en": "Mesmo que eu a deixe em paz, tenho medo do que está por vir.[lr]",
+      "jp": "ãæ¾ã£ã¦ããã¦ãå¾ãæãã[lr]",
+      "Pt-br": "Mesmo que eu a deixe em paz, tenho medo do que está por vir.[lr]",
+      "id": 16973,
+      "epk_id": "16139",
+      "label": "$$$message_0126_0000_0004$$$"
+    },
+    {
+      "en": "Talvez eu devesse pelo menos alertá-la como um amigo.",
+      "jp": "ãåäººã¨ãã¦æ³¨æãããã¯ãã¦ãããã",
+      "Pt-br": "Talvez eu devesse pelo menos alertá-la como um amigo.",
+      "id": 16974,
+      "epk_id": "16140",
+      "label": "$$$message_0126_0000_0005$$$"
+    },
+    {
+      "en": "\"Oh. Eu pensei que algo suspeito estava subindo feito uma aranha, mas se não é você, Shirou.[lr]",
+      "jp": "ãããããè¦ãããã«ä¸å¯©ãªã®ãã¯ã¢ã¿ããã«ããç»ã£ã¦ãããã¨æãã°ãè¡å®®ããå®¶ã®å£«éã¯ã³ãããªãã[lr]",
+      "Pt-br": "\"Oh. Eu pensei que algo suspeito estava subindo feito uma aranha, mas se não é você, Shirou.[lr]",
+      "id": 16975,
+      "epk_id": "16141",
+      "label": "$$$message_0126_0001_0000$$$"
+    },
+    {
+      "en": "O que foi? Vindo para um lugar como este[cacheimage storage=凛私服05b(遠)]. [wvl][chgfg textoff=0 time=300 storage=凛私服05b(遠)]Estamos em uma rua, então é perigoso. Oh, você estava tentando pular?\"",
+      "jp": "ãã©ãããã®ããããªæã«ãã£ã¦ãã¦[cacheimage storage=åç§æ05b(é )]ã[wvl][chgfg textoff=0 time=300 storage=åç§æ05b(é )]ããè»éã ããå±ãªãããï¼ãããããã¨ã[ruby text=ãã¤ã char=4]é£ã³è¾¼ã¿ï¼ã",
+      "Pt-br": "O que foi? Vindo para um lugar como este[cacheimage storage=凛私服05b(遠)]. [wvl][chgfg textoff=0 time=300 storage=凛私服05b(遠)]Estamos em uma rua, então é perigoso. Oh, você estava tentando pular?\"",
+      "id": 16976,
+      "epk_id": "16142",
+      "label": "$$$message_0126_0001_0001$$$"
+    },
+    {
+      "en": "\"...Aah.\"[lr]",
+      "jp": "ãâ¦â¦â¦â¦â¦ã¯ãã[lr]",
+      "Pt-br": "\"...Aah.\"[lr]",
+      "id": 16977,
+      "epk_id": "16143",
+      "label": "$$$message_0126_0002_0000$$$"
+    },
+    {
+      "en": "Sinto-me esgotado de repente.[lr]",
+      "jp": "ãã©ã£ã¨åãæããã[lr]",
+      "Pt-br": "Sinto-me esgotado de repente.[lr]",
+      "id": 16978,
+      "epk_id": "16144",
+      "label": "$$$message_0126_0002_0001$$$"
+    },
+    {
+      "en": "Pelo fato de a Tohsaka genuinamente achar que precisava se preocupar com a possibilidade de eu pular.",
+      "jp": "ãä½ãã£ã¦ãä¿ºãé£ã³è¾¼ãã³ããæ¬æ°ã§å¿é\nãã¦ããé åã®æèåè·¯ã«ã ã",
+      "Pt-br": "Pelo fato de a Tohsaka genuinamente achar que precisava se preocupar com a possibilidade de eu pular.",
+      "id": 16979,
+      "epk_id": "16145",
+      "label": "$$$message_0126_0002_0002$$$"
+    },
+    {
+      "en": "\"Ei, Tohsaka. Não acho que você devesse reagir assim com alguém que está preocupado com a segurança de uma amiga.[lr]",
+      "jp": "ããã®ãªãé åãåäººã®èº«ãæ¡ãã¦ãã£ã¦ããäººéã«ããã®åå¿ã¯ãªãããããªãã®ãã[lr]",
+      "Pt-br": "\"Ei, Tohsaka. Não acho que você devesse reagir assim com alguém que está preocupado com a segurança de uma amiga.[lr]",
+      "id": 16980,
+      "epk_id": "16146",
+      "label": "$$$message_0126_0003_0000$$$"
+    },
+    {
+      "en": "Além disso, é você quem está em perigo.\"[lr]",
+      "jp": "ããã¨ãå±ãªãã®ã¯ãã£ã¡ã®æ¹ã ã[lr]",
+      "Pt-br": "Além disso, é você quem está em perigo.\"[lr]",
+      "id": 16981,
+      "epk_id": "16147",
+      "label": "$$$message_0126_0003_0001$$$"
+    },
+    {
+      "en": "\"Hã? Não brinca, você estava me observando, Emiya!?\"",
+      "jp": "ããï¼ãããããã£ãã®è¦ã¦ãã®è¡å®®ããï¼ï¼ã",
+      "Pt-br": "\"Hã? Não brinca, você estava me observando, Emiya-kun!?\"",
+      "id": 16982,
+      "epk_id": "16148",
+      "label": "$$$message_0126_0003_0002$$$"
+    },
+    {
+      "en": "\"Então você viu...? [cacheimage storage=凛fd特殊03c頬(遠)][wvl][chgfg textoff=0 time=200 storage=凛fd特殊03c頬(遠)]Você esteve me observando o tempo todo...? [cacheimage storage=凛fd特殊03a(遠)][wvl][chgfg textoff=0 time=200 storage=凛fd特殊03a(遠)]Não, você com certeza estava me observando, [cacheimage storage=凛私服17a頬(遠)][wvl][chgfg textoff=0 time=200 storage=凛私服17a頬(遠) last=凛fd特殊03a(遠)]seu maldito!\"[lr]",
+      "jp": "ãã£ããããè¦ãã¡ãã£ãâ¦â¦ï¼ã[cacheimage storage=åfdç¹æ®03cé ¬(é )][wvl][chgfg textoff=0 time=200 storage=åfdç¹æ®03cé ¬(é )]ãã£ã¨è¦ã¦ãâ¦â¦ï¼ã[cacheimage storage=åfdç¹æ®03a(é )][wvl][chgfg textoff=0 time=200 storage=åfdç¹æ®03a(é )]ããããããããªè¦ã¦ãã®ã­[cacheimage storage=åç§æ17aé ¬(é )][wvl][chgfg textoff=0 time=200 storage=åç§æ17aé ¬(é ) last=åfdç¹æ®03a(é )]ã³ã³ãã¯ã·ã§ã¼ã£ï¼ã[lr]",
+      "Pt-br": "\"Então você viu...? [cacheimage storage=凛fd特殊03c頬(遠)][wvl][chgfg textoff=0 time=200 storage=凛fd特殊03c頬(遠)]Você esteve me observando o tempo todo...? [cacheimage storage=凛fd特殊03a(遠)][wvl][chgfg textoff=0 time=200 storage=凛fd特殊03a(遠)]Não, você com certeza estava me observando, [cacheimage storage=凛私服17a頬(遠)][wvl][chgfg textoff=0 time=200 storage=凛私服17a頬(遠) last=凛fd特殊03a(遠)]seu maldito!\"[lr]",
+      "id": 16983,
+      "epk_id": "16149",
+      "label": "$$$message_0126_0004_0000$$$"
+    },
+    {
+      "en": "\"Hã?\"[lr]",
+      "jp": "ãã¯ï¼ã[lr]",
+      "Pt-br": "\"Hã?\"[lr]",
+      "id": 16984,
+      "epk_id": "16150",
+      "label": "$$$message_0126_0004_0001$$$"
+    },
+    {
+      "en": "Inclino a cabeça por 0,2 segundos diante do comportamento errático da Tohsaka.[lr]",
+      "jp": "ãé åã®å¥è¡ã«é¦ãããããã³ãï¼ï¼ï¼ç§ã[lr]",
+      "Pt-br": "Inclino a cabeça por 0,2 segundos diante do comportamento errático da Tohsaka.[lr]",
+      "id": 16985,
+      "epk_id": "16151",
+      "label": "$$$message_0126_0004_0002$$$"
+    },
+    {
+      "en": "Ela desfere um soco em meu rosto inclinado, como um contra-ataque.",
+      "jp": "ãããã£ã¨å¾ããé¡å´é¢ã«ãã«ã¦ã³ã¿ã¼ã£ã½ãã¯ã³ãã³ããç¸è£ããã",
+      "Pt-br": "Ela desfere um soco em meu rosto inclinado, como um contra-ataque.",
+      "id": 16986,
+      "epk_id": "16152",
+      "label": "$$$message_0126_0004_0003$$$"
+    },
+    {
+      "en": "\"...Desculpe, foi um mal-entendido.\"[lr]",
+      "jp": "ã[line len=3]ãã¿ã¾ãããèª¤è§£ã§ããã[lr]",
+      "Pt-br": "\"...Desculpe, foi um mal-entendido.\"[lr]",
+      "id": 16987,
+      "epk_id": "16153",
+      "label": "$$$message_0126_0005_0000$$$"
+    },
+    {
+      "en": "Ela abaixa os braços que estavam cruzados em frente ao peito e se curva.[lr]",
+      "jp": "ãã©ããã£ããã¨è¸ã«çµãã ä¸¡è\nãä¸ããªããä¸ç¤¼ããã[lr]",
+      "Pt-br": "Ela abaixa os braços que estavam cruzados em frente ao peito e se curva.[lr]",
+      "id": 16988,
+      "epk_id": "16154",
+      "label": "$$$message_0126_0005_0001$$$"
+    },
+    {
+      "en": "Parece que ela começou a lutar karatê, além das artes marciais chinesas.",
+      "jp": "ãä¸­å½æ³æ³ã®ã¿ãªãããç©ºæã¾ã§å§ãããããã",
+      "Pt-br": "Parece que ela começou a lutar karatê, além das artes marciais chinesas.",
+      "id": 16989,
+      "epk_id": "16155",
+      "label": "$$$message_0126_0005_0002$$$"
+    },
+    {
+      "en": "\"...Cara. Aquilo foi impressionante, Tohsaka. Foi um gancho de direita ideal, em que você usou o corpo todo. Pode haver uma rachadura na minha maçã do rosto.\"[lr]",
+      "jp": "ãâ¦â¦ãããããããé åãå\n¨èº«ãä½¿ãåã£ãçæ³çãªå³ããã¯ã ã£ããé ¬éª¨ã«ããå\n¥ã£ã¦ããããããªãã[lr]",
+      "Pt-br": "\"...Cara. Aquilo foi impressionante, Tohsaka. Foi um gancho de direita ideal, em que você usou o corpo todo. Pode haver uma rachadura na minha maçã do rosto.\"[lr]",
+      "id": 16990,
+      "epk_id": "16156",
+      "label": "$$$message_0126_0006_0000$$$"
+    },
+    {
+      "en": "[font italic=true]Heheheh.[font italic=false][lr]",
+      "jp": "ããµã£ãµã£ãµã[lr]",
+      "Pt-br": "[font italic=true]Heheheh.[font italic=false][lr]",
+      "id": 16991,
+      "epk_id": "16157",
+      "label": "$$$message_0126_0006_0001$$$"
+    },
+    {
+      "en": "Não direi isso em voz alta, mas deixarei claro para ela com meu olhar de que seus sentimentos não são suficientes.",
+      "jp": "ãå£ã«ã¯ããªãããæ°æã¡ã ãããåå¼ã§ãã­ã¼ã¨è¦ç·ã§ã¢ãã¼ã«ã",
+      "Pt-br": "Não direi isso em voz alta, mas deixarei claro para ela com meu olhar de que seus sentimentos não são suficientes.",
+      "id": 16992,
+      "epk_id": "16158",
+      "label": "$$$message_0126_0006_0002$$$"
+    },
+    {
+      "en": "\"E-Eu disse que sinto muito.[lr]",
+      "jp": "ãã ãã ããã´ã¡ã³ã£ã¦ã°ã£ã[lr]",
+      "Pt-br": "\"E-Eu disse que sinto muito.[lr]",
+      "id": 16993,
+      "epk_id": "16159",
+      "label": "$$$message_0126_0007_0000$$$"
+    },
+    {
+      "en": "Isso foi completamente culpa minha. Foi total descuido meu.\"",
+      "jp": "ãä»ã®ã¯å\n¨é¢çã«ããããæªãã£ãã§ãã£ãæ±è¥¿ååãä¸ããä¸ã¾ã§ä¸æ³¨æã§ããã£ã",
+      "Pt-br": "Isso foi completamente culpa minha. Foi total descuido meu.\"",
+      "id": 16994,
+      "epk_id": "16160",
+      "label": "$$$message_0126_0007_0001$$$"
+    },
+    {
+      "en": "A Tohsaka, por um milagre, pede desculpas sinceras.[lr]",
+      "jp": "ãçããå¹³è¬ããªé ååã[lr]",
+      "Pt-br": "A Tohsaka, por um milagre, pede desculpas sinceras.[lr]",
+      "id": 16995,
+      "epk_id": "16161",
+      "label": "$$$message_0126_0008_0000$$$"
+    },
+    {
+      "en": "O hobby deste diabinho vermelho é incomodar os outros, mas, por outro lado, no momento em que incomoda as pessoas acidentalmente, ela se transforma em uma personagem fraca.[lr]",
+      "jp": "ããã®èµ¤ãããã¾ã¯äººãå°ãããã³ããè¶£å³ã¨ãã¦ããããåé¢ããã£ãããã¹ã§äººãå°ããã¦ãã¾ãã¨éç«¯ã«å¼±ã­ã£ã©ã«å¤è²ããã[lr]",
+      "Pt-br": "O hobby deste diabinho vermelho é incomodar os outros, mas, por outro lado, no momento em que incomoda as pessoas acidentalmente, ela se transforma em uma personagem fraca.[lr]",
+      "id": 16996,
+      "epk_id": "16162",
+      "label": "$$$message_0126_0008_0001$$$"
+    },
+    {
+      "en": "...Eu posso ser tão egoísta quanto quiser com a Tohsaka quando ela está assim, mas, infelizmente, há duas faixas de trânsito, com limite de velocidade de sessenta quilômetros por hora, onde eu poderia ser atropelado se baixasse a guarda, mesmo que por um instante.",
+      "jp": "ãâ¦â¦ããããæã®é åã«ã¯ã©ããªã¯ã¬ããããæ¾é¡ãªã®ã§ãããã[ruby text=ããã«ã char=2]çæãããã¯ã¡ãã£ã¨ã®æ²¹æ­ã§è½¢ãé£ã°ãããå¶ééåº¦å\n­åã­ã­è»éãäºè»ç·ã§ããã",
+      "Pt-br": "...Eu posso ser tão egoísta quanto quiser com a Tohsaka quando ela está assim, mas, infelizmente, há duas faixas de trânsito, com limite de velocidade de sessenta quilômetros por hora, onde eu poderia ser atropelado se baixasse a guarda, mesmo que por um instante.",
+      "id": 16997,
+      "epk_id": "16163",
+      "label": "$$$message_0126_0008_0002$$$"
+    },
+    {
+      "en": "\"...Bem, tente controlar um pouco mais as suas ações de agora em diante. Preocupo-me com o seu futuro se continuar dando socos sem pensar.\"[lr]",
+      "jp": "ãâ¦â¦ã¾ããä»å¾ã¯ããã¡ããè¡åãé\nããããã«ãèãå³æ®´ãã§ã¯ãã¢ãã¿ã®ä»å¾ãå¿é\nã§ãã[lr]",
+      "Pt-br": "\"...Bem, tente controlar um pouco mais as suas ações de agora em diante. Preocupo-me com o seu futuro se continuar dando socos sem pensar.\"[lr]",
+      "id": 16998,
+      "epk_id": "16164",
+      "label": "$$$message_0126_0009_0000$$$"
+    },
+    {
+      "en": "Não sobre a Tohsaka em si, mas sobre as pessoas de bem que possam estar ao seu redor.",
+      "jp": "ãé åèªèº«ã§ã¯ãªããå¨å²ã«ããã§ãããåè¯ãªäººã\nãã",
+      "Pt-br": "Não sobre a Tohsaka em si, mas sobre as pessoas de bem que possam estar ao seu redor.",
+      "id": 16999,
+      "epk_id": "16165",
+      "label": "$$$message_0126_0009_0001$$$"
+    },
+    {
+      "en": "\"I-Isso é rude. Eu geralmente sou mais calma.[lr]",
+      "jp": "ãããå¤±ç¤¼ã­ãæ®æ®µã¯ãã£ã¨å·éãã[lr]",
+      "Pt-br": "\"I-Isso é rude. Eu geralmente sou mais calma.[lr]",
+      "id": 17000,
+      "epk_id": "16166",
+      "label": "$$$message_0126_0010_0000$$$"
+    },
+    {
+      "en": "Eu teria me segurado se não fosse você me observando.\"[lr]",
+      "jp": "ãä»ã®ã ã£ã¦ãè¦ã¦ãã®ãå£«éãããªãã£ããã¹ãããããã£ããã[lr]",
+      "Pt-br": "Eu teria me segurado se não fosse você me observando.\"[lr]",
+      "id": 17001,
+      "epk_id": "16167",
+      "label": "$$$message_0126_0010_0001$$$"
+    },
+    {
+      "en": "\"O quê!? E-Então, eu sou incondicionalmente o culpado para você!?\"",
+      "jp": "ããªã«ï¼ï¼ãã¨ãé åã®ä¸­ããããä¿ºã¯ç¡æ¡ä»¶ã§æç½ªæ±ããªã®ãï¼ï¼ã",
+      "Pt-br": "\"O quê!? E-Então, eu sou incondicionalmente o culpado para você!?\"",
+      "id": 17002,
+      "epk_id": "16168",
+      "label": "$$$message_0126_0010_0002$$$"
+    },
+    {
+      "en": "\"Hã? Não, não é isso, eu não teria entrado em pânico se fosse outra pessoa, ou não teria sido tão vergonhoso assim... Ah, não, qualquer um teria sido o culpado não importa quem fosse, mas é.\"",
+      "jp": "ããï¼ããããããããããªãã¦ãä»ã®äººã ã£ããæ\nã¦ãªãã£ãã¨ãããããããªã«æ¥ãããããªãã£ãã¨ãããâ¦â¦ãããããèª°ã§ãããã¨æç½ªãªã®ã¯ç¢ºããªãã ãã©ãããã",
+      "Pt-br": "\"Hã? Não, não é isso, eu não teria entrado em pânico se fosse outra pessoa, ou não teria sido tão vergonhoso assim... Ah, não, qualquer um teria sido o culpado não importa quem fosse, mas é.\"",
+      "id": 17003,
+      "epk_id": "16169",
+      "label": "$$$message_0126_0011_0000$$$"
+    },
+    {
+      "en": "\"...Não entendi muito bem.[lr]",
+      "jp": "ãâ¦â¦ãã¾ãã¡è¦é ãå¾ãªããªã[lr]",
+      "Pt-br": "\"...Não entendi muito bem.[lr]",
+      "id": 17004,
+      "epk_id": "16170",
+      "label": "$$$message_0126_0012_0000$$$"
+    },
+    {
+      "en": "Então, você está dizendo que apenas eu sou o culpado por aquele mal-entendido de agora pouco?\"[lr]",
+      "jp": "ãã¤ã¾ãããã£ãã®èª¤è§£ã«ããã¦ã¯ä¿ºã ãç½ªãéãã¨ï¼ã[lr]",
+      "Pt-br": "Então, você está dizendo que apenas eu sou o culpado por aquele mal-entendido de agora pouco?\"[lr]",
+      "id": 17005,
+      "epk_id": "16171",
+      "label": "$$$message_0126_0012_0001$$$"
+    },
+    {
+      "en": "\"I-Isso mesmo. Hum... S-sim![cacheimage storage=凛私服07a頬腕a(中)][wvl][chgfg textoff=0 time=300 storage=凛私服07a頬腕a(中)] Você tem... olhos bons.\"",
+      "jp": "ããããããããã¼ã¨â¦â¦ããããï¼[cacheimage storage=åç§æ07aé ¬è\na(ä¸­)][wvl][chgfg textoff=0 time=300 storage=åç§æ07aé ¬è\na(ä¸­)]ãã ã£ã¦å£«éãç®ããããããªãã",
+      "Pt-br": "\"I-Isso mesmo. Hum... S-sim![cacheimage storage=凛私服07a頬腕a(中)][wvl][chgfg textoff=0 time=300 storage=凛私服07a頬腕a(中)] Você tem... olhos bons.\"",
+      "id": 17006,
+      "epk_id": "16172",
+      "label": "$$$message_0126_0012_0002$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "ãâ¦â¦â¦â¦ã[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 17007,
+      "epk_id": "16173",
+      "label": "$$$message_0126_0013_0000$$$"
+    },
+    {
+      "en": "Entendo.[lr]",
+      "jp": "ããªãã»ã©ã[lr]",
+      "Pt-br": "Entendo.[lr]",
+      "id": 17008,
+      "epk_id": "16174",
+      "label": "$$$message_0126_0013_0001$$$"
+    },
+    {
+      "en": "Até mesmo eu estou começando a compreender a situação neste ponto.[lr]",
+      "jp": "ãããã¾ã§ããã°ä¿ºã«ãäºæ\nãåã¿è¾¼ãã¦ããã[lr]",
+      "Pt-br": "Até mesmo eu estou começando a compreender a situação neste ponto.[lr]",
+      "id": 17009,
+      "epk_id": "16175",
+      "label": "$$$message_0126_0013_0002$$$"
+    },
+    {
+      "en": "Depois que levei o soco, quando expliquei que tinha acabado de chegar, a Tohsaka ficou de mau humor.[lr]",
+      "jp": "ãã¯ã³ãã³ããé£ãã£ãå¾ããã¾æ¥ãã°ãããªãã ããã¨èª¬æããã¨ãé åã¯èªå·±å«æªã¢ã¼ãã«å\n¥ã£ã¦ãã¾ã£ãã[lr]",
+      "Pt-br": "Depois que levei o soco, quando expliquei que tinha acabado de chegar, a Tohsaka ficou de mau humor.[lr]",
+      "id": 17010,
+      "epk_id": "16176",
+      "label": "$$$message_0126_0013_0003$$$"
+    },
+    {
+      "en": "Depois disso, por mais que eu perguntasse, ela insistiu teimosamente que eu não deveria perguntar o motivo.",
+      "jp": "ãä»¥å¾ãä½ãè¨ã£ã¦ããçç±ã¯è¨ããªãã§ãã®ä¸ç¹å¼µãã ã£ãã®ã ãâ¦â¦",
+      "Pt-br": "Depois disso, por mais que eu perguntasse, ela insistiu teimosamente que eu não deveria perguntar o motivo.",
+      "id": 17011,
+      "epk_id": "16177",
+      "label": "$$$message_0126_0013_0004$$$"
+    },
+    {
+      "en": "\"...Eu não entendo. Por que você estava subindo em cima da estrutura de aço? Uma rua normal é chata para você?\"[lr]",
+      "jp": "ãâ¦â¦ãããããªãããªãã§ééª¨ã®ä¸ã«ãªãã¦ç»ã£ã¦ããã ï¼ããããªã«æ®éã®è»éã¯éå±ãï¼ã[lr]",
+      "Pt-br": "\"...Eu não entendo. Por que você estava subindo em cima da estrutura de aço? Uma rua normal é chata para você?\"[lr]",
+      "id": 17012,
+      "epk_id": "16178",
+      "label": "$$$message_0126_0014_0000$$$"
+    },
+    {
+      "en": "Na mosca.[lr]",
+      "jp": "ãå³æãã[lr]",
+      "Pt-br": "Na mosca.[lr]",
+      "id": 17013,
+      "epk_id": "16179",
+      "label": "$$$message_0126_0014_0001$$$"
+    },
+    {
+      "en": "Parece que, antes de eu chegar, a Tohsaka estava observando a cidade tranquilamente de cima daquela estrutura de aço em arco.",
+      "jp": "ãã©ãããä¿ºãæ¥ãããåãé åã¯ãã®ã¢ã¼ãç¶ã®ééª¨ã®ä¸ã§ãåªé\nã«è¡ãè¦ä¸ããã¦ãããããã",
+      "Pt-br": "Parece que, antes de eu chegar, a Tohsaka estava observando a cidade tranquilamente de cima daquela estrutura de aço em arco.",
+      "id": 17014,
+      "epk_id": "16180",
+      "label": "$$$message_0126_0014_0002$$$"
+    },
+    {
+      "en": "\"V-Você está mais afiado do que o normal, Emiya.[lr]",
+      "jp": "ããããã¤ã«ãªãé­ããããªãè¡å®®ããã[lr]",
+      "Pt-br": "\"V-Você está mais afiado do que o normal, Emiya-kun.[lr]",
+      "id": 17015,
+      "epk_id": "16181",
+      "label": "$$$message_0126_0015_0000$$$"
+    },
+    {
+      "en": "...Você estava me observando desde o início, afinal...?\"",
+      "jp": "ãâ¦â¦ãã£ã±ããåãããè¦ã¦ãâ¦â¦ï¼ã",
+      "Pt-br": "...Você estava me observando desde o início, afinal...?\"",
+      "id": 17016,
+      "epk_id": "16182",
+      "label": "$$$message_0126_0015_0001$$$"
+    },
+    {
+      "en": "\"Eu teria te impedido imediatamente se estivesse te observando desde o início.[lr]",
+      "jp": "ãåãããè¦ã¦ããªãããã«æ­¢ãã¦ãã[lr]",
+      "Pt-br": "\"Eu teria te impedido imediatamente se estivesse te observando desde o início.[lr]",
+      "id": 17017,
+      "epk_id": "16183",
+      "label": "$$$message_0126_0016_0000$$$"
+    },
+    {
+      "en": "É imprudente subir lá, até mesmo para você. Não é como se estivesse no circo, e não terá graça nenhuma se você cair de lá.[lr]",
+      "jp": "ããããé åã§ãããããç»ã£ã¦ããã®ã¯ç¡è¶ã ããµã¼ã«ã¹ããããã¾ãããè½ã¡ããã·ã£ã¬ãããã¾ãªããã[lr]",
+      "Pt-br": "É imprudente subir lá, até mesmo para você. Não é como se estivesse no circo, e não terá graça nenhuma se você cair de lá.[lr]",
+      "id": 17018,
+      "epk_id": "16184",
+      "label": "$$$message_0126_0016_0001$$$"
+    },
+    {
+      "en": "...Céus, não me faça me preocupar tanto.\"[lr]",
+      "jp": "ãâ¦â¦ã¾ã£ãããããã¾ãå¿é\nãããªãã§ããã[lr]",
+      "Pt-br": "...Céus, não me faça me preocupar tanto.\"[lr]",
+      "id": 17019,
+      "epk_id": "16185",
+      "label": "$$$message_0126_0016_0002$$$"
+    },
+    {
+      "en": "[shock vmax=10 hmax=10 time=600 count=2][chgfg textoff=0 pos=c time=300 storage=凛私服12e(中)]Dou um peteleco na cabeça dela por fazer algo tão estúpido.",
+      "jp": "ã[shock vmax=10 hmax=10 time=600 count=2][chgfg textoff=0 pos=c time=300 storage=åç§æ12e(ä¸­)]ãã«ã¢ããã¨è»½ãé åã®é ­ããã¥ãã",
+      "Pt-br": "[shock vmax=10 hmax=10 time=600 count=2][chgfg textoff=0 pos=c time=300 storage=凛私服12e(中)]Dou um peteleco na cabeça dela por fazer algo tão estúpido.",
+      "id": 17020,
+      "epk_id": "16186",
+      "label": "$$$message_0126_0016_0003$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "ãâ¦â¦â¦â¦â¦â¦ã[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 17021,
+      "epk_id": "16187",
+      "label": "$$$message_0126_0017_0000$$$"
+    },
+    {
+      "en": "A Tohsaka aceita o meu golpe de karatê de propósito.[lr]",
+      "jp": "ãä¿ºã®[ruby text=ãã§ãã char=2]æåããã¾ããã¦åããé åã[lr]",
+      "Pt-br": "A Tohsaka aceita o meu golpe de karatê de propósito.[lr]",
+      "id": 17022,
+      "epk_id": "16188",
+      "label": "$$$message_0126_0017_0001$$$"
+    },
+    {
+      "en": "...Bem, isso pode soar inapropriado, mas esse tipo de Tohsaka submissa também não é nada mal. ",
+      "jp": "ãâ¦â¦ã¾ãããªãã ãä¸è¬¹æ\nã§ã¯ããããããããæ®åãªé åãæªããªãã",
+      "Pt-br": "...Bem, isso pode soar inapropriado, mas esse tipo de Tohsaka submissa também não é nada mal. ",
+      "id": 17023,
+      "epk_id": "16189",
+      "label": "$$$message_0126_0017_0002$$$"
+    },
+    {
+      "en": "\"Não sei o que você está tentando fazer, mas, por favor, caminhe normalmente da próxima vez. Se fizer isso, esquecerei aquele gancho de direita.\"[lr]",
+      "jp": "ãä½ã®ã¤ãããã¯ç¥ããªããã©ãæ¬¡ã¯æ®éã«æ­©ãã¦ãããããã§ãã£ãã®å³ããã¯ã¯å¸³æ¶ãã«ãããã[lr]",
+      "Pt-br": "\"Não sei o que você está tentando fazer, mas, por favor, caminhe normalmente da próxima vez. Se fizer isso, esquecerei aquele gancho de direita.\"[lr]",
+      "id": 17024,
+      "epk_id": "16190",
+      "label": "$$$message_0126_0018_0000$$$"
+    },
+    {
+      "en": "\"...Sim. Não posso prometer, mas vou me conter quando não precisar.[lr]",
+      "jp": "ãâ¦â¦ããã­ãç´æã¯ã§ããªããã©ããããã¨ããæä»¥å¤ã¯æ§ãã¨ãã[lr]",
+      "Pt-br": "\"...Sim. Não posso prometer, mas vou me conter quando não precisar.[lr]",
+      "id": 17025,
+      "epk_id": "16191",
+      "label": "$$$message_0126_0018_0001$$$"
+    },
+    {
+      "en": "Bem, já fiz uma pesquisa preliminar o suficiente.\"",
+      "jp": "ãã¾ãä¸èª¿ã¹ã¯ããå\n\nåã ãã­ã",
+      "Pt-br": "Bem, já fiz uma pesquisa preliminar o suficiente.\"",
+      "id": 17026,
+      "epk_id": "16192",
+      "label": "$$$message_0126_0018_0002$$$"
+    },
+    {
+      "en": "É tão a cara da Tohsaka não conseguir prometer isso.[lr]",
+      "jp": "ãç´æã¯ã§ããªããã¨ããã®ãé åãããã[lr]",
+      "Pt-br": "É tão a cara da Tohsaka não conseguir prometer isso.[lr]",
+      "id": 17027,
+      "epk_id": "16193",
+      "label": "$$$message_0126_0019_0000$$$"
+    },
+    {
+      "en": "Isso significa que há a possibilidade de ela subir naquele arco pelo menos mais uma vez.",
+      "jp": "ãå°ãªãã¨ããã¨ä¸åã¯ãã®ã¢ã¼ãã«ç»ãå¯è½æ§ãããã¨ããã³ãã ã",
+      "Pt-br": "Isso significa que há a possibilidade de ela subir naquele arco pelo menos mais uma vez.",
+      "id": 17028,
+      "epk_id": "16194",
+      "label": "$$$message_0126_0019_0001$$$"
+    },
+    {
+      "en": "\"Ei. Será que você está investigando os monstros dos quais conversamos?\"[lr]",
+      "jp": "ããªããããããã¦é åãä¿ºãè©±ããæªç©ãã¡ãèª¿ã¹ã¦ãã®ãï¼ã[lr]",
+      "Pt-br": "\"Ei. Será que você está investigando os monstros dos quais conversamos?\"[lr]",
+      "id": 17029,
+      "epk_id": "16195",
+      "label": "$$$message_0126_0020_0000$$$"
+    },
+    {
+      "en": "\"Hrrk...! Ei, o que deu em você?[lr]",
+      "jp": "ãâ¦â¦ï¼ãâ¦â¦ã¡ãã£ã¨ãã©ãããã®ãä¸ä½ã[lr]",
+      "Pt-br": "\"Hrrk...! Ei, o que deu em você?[lr]",
+      "id": 17030,
+      "epk_id": "16196",
+      "label": "$$$message_0126_0020_0001$$$"
+    },
+    {
+      "en": "Seus instintos estão terrivelmente bons justamente hoje. Deixando o fato de eu estar em cima da estrutura de aço de lado, por que isso se conecta a esses familiares?\"[lr]",
+      "jp": "ãä»æ¥ã«ããã£ã¦ãããåããããããªããééª¨ã®ä¸ã«ããã®ã¯ã¨ãããããªãã§ãããä½¿ãé­ãã¡ã¨ç¹ããã®ãã[lr]",
+      "Pt-br": "Seus instintos estão terrivelmente bons justamente hoje. Deixando o fato de eu estar em cima da estrutura de aço de lado, por que isso se conecta a esses familiares?\"[lr]",
+      "id": 17031,
+      "epk_id": "16197",
+      "label": "$$$message_0126_0020_0002$$$"
+    },
+    {
+      "en": "\"Bem. Não sei, é que[line len=2]\"",
+      "jp": "ãããããªãã¦ããããããã¯ã",
+      "Pt-br": "\"Bem. Não sei, é que[line len=2]\"",
+      "id": 17032,
+      "epk_id": "16198",
+      "label": "$$$message_0126_0020_0003$$$"
+    },
+    {
+      "en": "...Estou com problemas.[lr]",
+      "jp": "ãâ¦â¦å°ã£ãã[lr]",
+      "Pt-br": "...Estou com problemas.[lr]",
+      "id": 17033,
+      "epk_id": "16199",
+      "label": "$$$message_0126_0021_0000$$$"
+    },
+    {
+      "en": "É porque teve alguém que fez algo semelhante antes, mas eu tenho permissão para dizer isso?",
+      "jp": "ãåã«ä¸äººãé åã¨åããããªã³ãããã¦ããã¤ãããããããªã®ã ããã¯ããã¦å£ã«ãã¦ãããã®ãã",
+      "Pt-br": "É porque teve alguém que fez algo semelhante antes, mas eu tenho permissão para dizer isso?",
+      "id": 17034,
+      "epk_id": "16200",
+      "label": "$$$message_0126_0021_0001$$$"
+    },
+    {
+      "en": "\"É que?\"[lr]",
+      "jp": "ãããã¯ï¼ã[lr]",
+      "Pt-br": "\"É que?\"[lr]",
+      "id": 17035,
+      "epk_id": "16201",
+      "label": "$$$message_0126_0022_0000$$$"
+    },
+    {
+      "en": "\"É que o Archer fez algo semelhante.\"[cacheimage storage=凛私服09e(近)][wvs][chgfg textoff=0 time=300 storage=凛私服09e(近)]",
+      "jp": "ãããã¯ãã¢ã¼ãã£ã¼ã®ã¤ããä¼¼ããããªã³ããã£ã¦ãããã[cacheimage storage=åç§æ09e(è¿)][wvs][chgfg textoff=0 time=300 storage=åç§æ09e(è¿)]",
+      "Pt-br": "\"É que o Archer fez algo semelhante.\"[cacheimage storage=凛私服09e(近)][wvs][chgfg textoff=0 time=300 storage=凛私服09e(近)]",
+      "id": 17036,
+      "epk_id": "16202",
+      "label": "$$$message_0126_0022_0001$$$"
+    },
+    {
+      "en": "...Eu imaginei que seria assim.[lr]",
+      "jp": "ãâ¦â¦ãã£ã±ããããªããã[lr]",
+      "Pt-br": "...Eu imaginei que seria assim.[lr]",
+      "id": 17037,
+      "epk_id": "16203",
+      "label": "$$$message_0126_0023_0000$$$"
+    },
+    {
+      "en": "A relação da Tohsaka e do Archer não é algo que pode ser resumida facilmente.[lr]",
+      "jp": "ãé åã¨ã¢ã¼ãã£ã¼ã®é¢ä¿ã¯ãã©ããä¸ç­ç¸ã§ãããããããªç©ã§ã¯ãªãã[lr]",
+      "Pt-br": "A relação da Tohsaka e do Archer não é algo que pode ser resumida facilmente.[lr]",
+      "id": 17038,
+      "epk_id": "16204",
+      "label": "$$$message_0126_0023_0001$$$"
+    },
+    {
+      "en": "O contrato foi cancelado, mas não parece que nenhum dos dois o rompeu.[lr]",
+      "jp": "ãå¥ç´ã¯è§£é¤ããã¦ãããã®ã®ãã©ã¡ãããç ´æ£ããæ§å­ããªãã[lr]",
+      "Pt-br": "O contrato foi cancelado, mas não parece que nenhum dos dois o rompeu.[lr]",
+      "id": 17039,
+      "epk_id": "16205",
+      "label": "$$$message_0126_0023_0002$$$"
+    },
+    {
+      "en": "É óbvio que ambos tentam não se importar um com o outro, mas mesmo com essa relação de toma lá, dá cá, eles se interessam pelas mesmas coisas.",
+      "jp": "ããäºãæè­ããªãããã«ãã¦ããã®ããã¬ãã¬ãªè¨³ã§ãã®ãã¢ã³ããã¤ã¯ã®é¢ä¿ã¨è¨ããªããããããã¦åãäºã«èå³ãæã£ãããã¦ããã",
+      "Pt-br": "É óbvio que ambos tentam não se importar um com o outro, mas mesmo com essa relação de toma lá, dá cá, eles se interessam pelas mesmas coisas.",
+      "id": 17040,
+      "epk_id": "16206",
+      "label": "$$$message_0126_0023_0003$$$"
+    },
+    {
+      "en": "\"...Heh. Eu estava pensando que ele nem tinha vindo me cumprimentar, mas pelo visto está se metendo em assuntos triviais de novo.[lr]",
+      "jp": "ãâ¦â¦ãµããæ¨æ¶ã«ããæ¥ãªãã¨æã£ãããã¾ãã¤ã¾ããªããç¯ä»ãç¼ãã¦ãã¯ã±ã­ã[lr]",
+      "Pt-br": "\"...Heh. Eu estava pensando que ele nem tinha vindo me cumprimentar, mas pelo visto está se metendo em assuntos triviais de novo.[lr]",
+      "id": 17041,
+      "epk_id": "16207",
+      "label": "$$$message_0126_0024_0000$$$"
+    },
+    {
+      "en": "Então. O que ele disse, Emiya?\"",
+      "jp": "ãããã§ãã¢ã¤ãã¯ãªãã¦è¨ã£ã¦ãã®ãè¡å®®ããã",
+      "Pt-br": "Então. O que ele disse, Emiya-kun?\"",
+      "id": 17042,
+      "epk_id": "16208",
+      "label": "$$$message_0126_0024_0001$$$"
+    },
+    {
+      "en": "\"Bem, vejamos... Ele não disse nada em especial. Disse que, mesmo ele os considerando inimigos, não tem fim mesmo que você os derrote, ou para deixá-los em paz já que são inofensivos.\"[lr]",
+      "jp": "ãä½ã£ã¦ãããã ãªâ¦â¦å\n·ä½çã«ã¯ä½ãããã®æªç©ãã¡ãæµè¦ãã¦ããã¯ã»ã«ãã¢ã¬ã¯åãã¦ãããããªãã¨ããç¡å®³ã ããæ¾ã£ã¦ããã¨ãã[lr]",
+      "Pt-br": "\"Bem, vejamos... Ele não disse nada em especial. Disse que, mesmo ele os considerando inimigos, não tem fim mesmo que você os derrote, ou para deixá-los em paz já que são inofensivos.\"[lr]",
+      "id": 17043,
+      "epk_id": "16209",
+      "label": "$$$message_0126_0025_0000$$$"
+    },
+    {
+      "en": "\"O que mais? Parecia que ele geralmente sabia o que eram aqueles monstros dos quais você estava falando?\"",
+      "jp": "ãâ¦â¦â¦â¦ä»ã«ã¯ï¼ãè¡å®®ããã®è¨ãæªç©ãã¡ã®å¤§æ¬ãä½ã§ããããç¥ã£ã¦ãç´ æ¯ãã ã£ãï¼ã",
+      "Pt-br": "\"O que mais? Parecia que ele geralmente sabia o que eram aqueles monstros dos quais Emiya-kun estava falando?\"",
+      "id": 17044,
+      "epk_id": "16210",
+      "label": "$$$message_0126_0025_0001$$$"
+    },
+    {
+      "en": "\"Acho que não. Ele estava na fase em que queria saber qual era o objetivo daqueles monstros.\"[lr]",
+      "jp": "ãããã¯ãªãã¨æããæªç©ãã¡ã®ç®çããªãã§ãããç¥ãããã¨ãããããªæ®µéã ã£ãã[lr]",
+      "Pt-br": "\"Acho que não. Ele estava na fase em que queria saber qual era o objetivo daqueles monstros.\"[lr]",
+      "id": 17045,
+      "epk_id": "16211",
+      "label": "$$$message_0126_0026_0000$$$"
+    },
+    {
+      "en": "\"Hã? Mesmo fazendo uma pesquisa preliminar, ele ainda não percebeu algo do tipo? [cacheimage storage=凛私服06a(近)][wvl][chgfg textoff=0 time=300 storage=凛私服06a(近)]Eles têm apenas um objetivo!\"[lr]",
+      "jp": "ãã¯ï¼ããããä¸èª¿ã¹ãã¦ãã®ã«ãã¾ã ãããªã³ãã«æ°ä»ãã¦ãªãã®ï¼ã[cacheimage storage=åç§æ06a(è¿)][wvl][chgfg textoff=0 time=300 storage=åç§æ06a(è¿)]ããã¤ãã®ç®çãªãã¦ä¸ã¤ã ããããªãï¼ã[lr]",
+      "Pt-br": "\"Hã? Mesmo fazendo uma pesquisa preliminar, ele ainda não percebeu algo do tipo? [cacheimage storage=凛私服06a(近)][wvl][chgfg textoff=0 time=300 storage=凛私服06a(近)]Eles têm apenas um objetivo!\"[lr]",
+      "id": 17046,
+      "epk_id": "16212",
+      "label": "$$$message_0126_0026_0001$$$"
+    },
+    {
+      "en": "\"...Espere aí. Agora quem está surpreso sou eu.[lr]",
+      "jp": "ã[line len=3]å¾\nã£ããé©ãã®ã¯ãã£ã¡ã®æ¹ã ã[lr]",
+      "Pt-br": "\"...Espere aí. Agora quem está surpreso sou eu.[lr]",
+      "id": 17047,
+      "epk_id": "16213",
+      "label": "$$$message_0126_0026_0002$$$"
+    },
+    {
+      "en": "Você sabe qual é o objetivo daqueles monstros?\"",
+      "jp": "ãé åã¯ãã®æªç©ãã¡ã®ç®çãåããã®ãï¼ã",
+      "Pt-br": "Você sabe qual é o objetivo daqueles monstros?\"",
+      "id": 17048,
+      "epk_id": "16214",
+      "label": "$$$message_0126_0026_0003$$$"
+    },
+    {
+      "en": "\"Sim. Não sei o motivo, mas o objetivo deles é claro.[lr]",
+      "jp": "ããããçç±ã¯åãããªããã©ãç®çãªãæç½ãããªãã[lr]",
+      "Pt-br": "\"Sim. Não sei o motivo, mas o objetivo deles é claro.[lr]",
+      "id": 17049,
+      "epk_id": "16215",
+      "label": "$$$message_0126_0027_0000$$$"
+    },
+    {
+      "en": "Emiya. Com base no que você disse, esses monstros só mataram você, certo?\"[lr]",
+      "jp": "ãè¡å®®ãããè²´æ¹ããèããè©±ããããã®æªç©ãã¡ã¯è²´æ¹ããæ®ºãã¦ããªããã§ãããï¼ã[lr]",
+      "Pt-br": "Emiya-kun. Com base no que você disse, esses monstros só mataram você, certo?\"[lr]",
+      "id": 17050,
+      "epk_id": "16216",
+      "label": "$$$message_0126_0027_0001$$$"
+    },
+    {
+      "en": "\"Ah[line len=4]bem, é verdade, mas[line len=2]\"",
+      "jp": "ãã[line len=4]ã¾ããããã¯ãããã ãã©ã",
+      "Pt-br": "\"Ah[line len=4]bem, é verdade, mas[line len=2]\"",
+      "id": 17051,
+      "epk_id": "16217",
+      "label": "$$$message_0126_0027_0002$$$"
+    },
+    {
+      "en": "\"Então é fácil. Eles são monstros que só aparecem na quarta noite e só têm como alvo você, o único que consegue sentir as anormalidades dos quatro dias.[lr]",
+      "jp": "ããªãè©±ã¯ç°¡åããåæ¥ç®ã®å¤ã«ã ãç¾ãã¦ãåæ¥éã®ç°ç¶ãæãåã£ã¦ãè¡å®®ããã ããçãæªç©ã[lr]",
+      "Pt-br": "\"Então é fácil. Eles são monstros que só aparecem na quarta noite e só têm como alvo Emiya-kun, o único que consegue sentir as anormalidades dos quatro dias.[lr]",
+      "id": 17052,
+      "epk_id": "16218",
+      "label": "$$$message_0126_0028_0000$$$"
+    },
+    {
+      "en": "Eles estão se unindo para garantir que você não chegue ao fim.\"",
+      "jp": "ãããã¤ãã¯ã­ãè²´æ¹ã«[ruby text=ã»ã»ã»ã»ã»ã»ã»ã» o2o=1]ã¯ãªã¢ãããªãçºã«éã¾ã£ã¦ãã¦ãã®ãã",
+      "Pt-br": "Eles estão se unindo para garantir que você não chegue ao fim.\"",
+      "id": 17053,
+      "epk_id": "16219",
+      "label": "$$$message_0126_0028_0001$$$"
+    },
+    {
+      "en": "...Não sei o porquê, mas sinto calafrios percorrendo a minha espinha.[lr]",
+      "jp": "ãâ¦â¦ã©ããã¦ããèç­ãå¯ããªã£ãã[lr]",
+      "Pt-br": "...Não sei o porquê, mas sinto calafrios percorrendo a minha espinha.[lr]",
+      "id": 17054,
+      "epk_id": "16220",
+      "label": "$$$message_0126_0029_0000$$$"
+    },
+    {
+      "en": "A razão para esses monstros estarem matando só a mim pode ser apenas essa, então não é algo surpreendente.[lr]",
+      "jp": "ããã®æªç©ãã¡ãä¿ºã ããæ®ºãã¦ããã¨ããã®ã¯ãè¨ããã¦ã¿ãã°ãã®éããªã®ã§é©ãäºãããªãã[lr]",
+      "Pt-br": "A razão para esses monstros estarem matando só a mim pode ser apenas essa, então não é algo surpreendente.[lr]",
+      "id": 17055,
+      "epk_id": "16221",
+      "label": "$$$message_0126_0029_0001$$$"
+    },
+    {
+      "en": "Mas... garantirem que eu não chegue ao fim... essa expressão é aterrorizante e me dá náuseas.",
+      "jp": "ãã ã[line len=3]ã¯ãªã¢ãããªãçº[line len=3]ãã®è¡¨ç¾ã¯ãã©ããããã¾ããã¦åãæ°ãããã®ã ã",
+      "Pt-br": "Mas... garantirem que eu não chegue ao fim... essa expressão é aterrorizante e me dá náuseas.",
+      "id": 17056,
+      "epk_id": "16222",
+      "label": "$$$message_0126_0029_0002$$$"
+    },
+    {
+      "en": "\"Bem, é tipo, 'e daí?', mas... Quero ver esses monstros, contudo não os encontro por mais que eu procure.[lr]",
+      "jp": "ããã£ã¨ããã ããä½ã£ã¦æãã ãã©ããã®æªç©ãè¦ãããã ãã©ããããæ¢ãã¦ãè¦ã¤ãããªããã[lr]",
+      "Pt-br": "\"Bem, é tipo, 'e daí?', mas... Quero ver esses monstros, contudo não os encontro por mais que eu procure.[lr]",
+      "id": 17057,
+      "epk_id": "16223",
+      "label": "$$$message_0126_0030_0000$$$"
+    },
+    {
+      "en": "...Como será que o Archer os encontrou...\"",
+      "jp": "ãâ¦â¦ã¢ã¼ãã£ã¼ã®ã¤ããã©ããã£ã¦è¦ã¤ããã®ãããã­â¦â¦ã",
+      "Pt-br": "...Como será que o Archer os encontrou...\"",
+      "id": 17058,
+      "epk_id": "16224",
+      "label": "$$$message_0126_0030_0001$$$"
+    },
+    {
+      "en": "O Archer estava posicionado no telhado do Edifício Central de Shinto e atirava naqueles monstros que tentavam invadir Shinto.[lr]",
+      "jp": "ãã¢ã¼ãã£ã¼ã¯æ°é½ã»ã³ã¿ã¼ãã«ã®å±ä¸ã«é£åããæ°é½ã«ä¾µå\n¥ãããã¨ããæªç©ãã¡ãçæãã¦ããã[lr]",
+      "Pt-br": "O Archer estava posicionado no telhado do Edifício Central de Shinto e atirava naqueles monstros que tentavam invadir Shinto.[lr]",
+      "id": 17059,
+      "epk_id": "16225",
+      "label": "$$$message_0126_0031_0000$$$"
+    },
+    {
+      "en": "Portanto, isso significa que é difícil encontrá-los sem a boa visão do telhado do edifício e os olhos de falcão do Archer.",
+      "jp": "ããã®ãã«ã®å±ä¸ã¨ããè¦çã®è¯ããã¢ã¼ãã£ã¼ã®é·¹ã®ç®ããã®äºã¤ããªããã°çºè¦ã¯å°é£ã¨ããäºãªã®ãã",
+      "Pt-br": "Portanto, isso significa que é difícil encontrá-los sem a boa visão do telhado do edifício e os olhos de falcão do Archer.",
+      "id": 17060,
+      "epk_id": "16226",
+      "label": "$$$message_0126_0031_0001$$$"
+    },
+    {
+      "en": "\"...Então, ele disse mais alguma coisa?[lr]",
+      "jp": "ãâ¦â¦ããã§ãä»ã«ã¯ä½ãè¨ã£ã¦ãï¼[lr]",
+      "Pt-br": "\"...Então, ele disse mais alguma coisa?[lr]",
+      "id": 17061,
+      "epk_id": "16227",
+      "label": "$$$message_0126_0032_0000$$$"
+    },
+    {
+      "en": "Tipo, que não consegue mais fazer isso sozinho, ou que iria logo procurar ajuda de alguém, ou coisas assim?\"[lr]",
+      "jp": "ãä¸äººããããç¡çã¨ããããããèª°ãã®æãåãã«è¡ãã¨ããããããã®ã[lr]",
+      "Pt-br": "Tipo, que não consegue mais fazer isso sozinho, ou que iria logo procurar ajuda de alguém, ou coisas assim?\"[lr]",
+      "id": 17062,
+      "epk_id": "16228",
+      "label": "$$$message_0126_0032_0001$$$"
+    },
+    {
+      "en": "\"Ele não disse nada do tipo.[lr]",
+      "jp": "ãããããã®ã¯ãªãã£ããªã[lr]",
+      "Pt-br": "\"Ele não disse nada do tipo.[lr]",
+      "id": 17063,
+      "epk_id": "16229",
+      "label": "$$$message_0126_0032_0002$$$"
+    },
+    {
+      "en": "Oh, ele não disse nada em voz alta, mas ele estava apenas olhando feio para o Templo Ryudou.\"",
+      "jp": "ãããå£ã«ã¯ããªããã©æ³æ´å¯ºãç¨ãã§ãã£ãã",
+      "Pt-br": "Oh, ele não disse nada em voz alta, mas ele estava apenas olhando feio para o Templo Ryuudou.\"",
+      "id": 17064,
+      "epk_id": "16230",
+      "label": "$$$message_0126_0032_0003$$$"
+    },
+    {
+      "en": "\"Templo Ryudou...? [cacheimage storage=凛私服11c(近)][wvl canskip=0 time=500]...[chgfg textoff=0 time=300 storage=凛私服11c(近)]Entendo, então os familiares estão vazando daquela direção.\"[wvs][clfg textoff=0 pos=all rule=シャッター左から time=400]",
+      "jp": "ãæ³æ´å¯ºâ¦â¦ï¼ã[cacheimage storage=åç§æ11c(è¿)][wvl canskip=0 time=500]â¦â¦[chgfg textoff=0 time=300 storage=åç§æ11c(è¿)]ãã£ããä½¿ãé­ãã¡ãæº¢ãåºãã®ã¯ãã£ã¡ã®æ¹è§ãªã¯ã±ã­ã[wvs][clfg textoff=0 pos=all rule=ã·ã£ãã¿ã¼å·¦ãã time=400]",
+      "Pt-br": "\"Templo Ryuudou...? [cacheimage storage=凛私服11c(近)][wvl canskip=0 time=500]...[chgfg textoff=0 time=300 storage=凛私服11c(近)]Entendo, então os familiares estão vazando daquela direção.\"[wvs][clfg textoff=0 pos=all rule=シャッター左から time=400]",
+      "id": 17065,
+      "epk_id": "16231",
+      "label": "$$$message_0126_0033_0000$$$"
+    },
+    {
+      "en": "Lembro-me da história assustadora de Issei.[lr]",
+      "jp": "ãä¸æã®æªè«ãæãåºããã[lr]",
+      "Pt-br": "Lembro-me da história assustadora de Issei.[lr]",
+      "id": 17066,
+      "epk_id": "16232",
+      "label": "$$$message_0126_0034_0000$$$"
+    },
+    {
+      "en": "O cemitério de entranhas em Kageyama. Não uma montanha de senicídio, mas uma montanha de corpos onde pessoas mortas eram abandonadas sem serem enterradas.[lr]",
+      "jp": "ãæ¯å±±ã®èç©å¢å ´ãå§¥æ¨ã¦å±±ãªãã¬ãæ­»è\nãåè¬ãããã«æ¾ç½®ããèæ¨ã¦å±±ã[lr]",
+      "Pt-br": "O cemitério de entranhas em Kageyama. Não uma montanha de senicídio, mas uma montanha de corpos onde pessoas mortas eram abandonadas sem serem enterradas.[lr]",
+      "id": 17067,
+      "epk_id": "16233",
+      "label": "$$$message_0126_0034_0001$$$"
+    },
+    {
+      "en": "Na realidade, aquele local seria um local de descarte adequado para aqueles monstros.",
+      "jp": "ã[ruby text=ã¾ãã¨]çããã®æªç©ãã¡ã®å»æ£å ´ã«ã¯ç¸å¿ããã",
+      "Pt-br": "Na realidade, aquele local seria um local de descarte adequado para aqueles monstros.",
+      "id": 17068,
+      "epk_id": "16234",
+      "label": "$$$message_0126_0034_0002$$$"
+    },
+    {
+      "en": "\"Ok, já tenho uma ideia geral da situação. É uma pena que eu não consiga encontrar os monstros, mas, bem, eu posso testemunhá-los bem no final.\"[lr]",
+      "jp": "ããªã¼ã±ã¼ãã ãããã®ç¶æ³ã¯åã¿è¾¼ããããæªç©ãè¦ã¤ããããªãã®ã¯çããã©ãã¾ãæå¾ã®æå¾ã«ã¯ç®ã®å½ããã«ããã ãããã[lr]",
+      "Pt-br": "\"Ok, já tenho uma ideia geral da situação. É uma pena que eu não consiga encontrar os monstros, mas, bem, eu posso testemunhá-los bem no final.\"[lr]",
+      "id": 17069,
+      "epk_id": "16235",
+      "label": "$$$message_0126_0035_0000$$$"
+    },
+    {
+      "en": "A Tohsaka se espreguiça, como se dissesse que seria inútil investigar mais fundo.",
+      "jp": "ãããä»¥ä¸ãããèª¿ã¹ã¦ãç¡é§ãããã¨æãããã«èä¼¸ã³ãããé åã",
+      "Pt-br": "A Tohsaka se espreguiça, como se dissesse que seria inútil investigar mais fundo.",
+      "id": 17070,
+      "epk_id": "16236",
+      "label": "$$$message_0126_0035_0001$$$"
+    },
+    {
+      "en": "\"Estou indo embora, mas o que você vai fazer? Quer ir para casa juntos?\"[lr]",
+      "jp": "ããããã¯å¸°ããã©ãè¡å®®ããã¯ã©ãããã®ï¼ãä¸ç·ã«å¸°ãï¼ã[lr]",
+      "Pt-br": "\"Estou indo embora, mas o que Emiya-kun vai fazer? Quer ir para casa juntos?\"[lr]",
+      "id": 17071,
+      "epk_id": "16237",
+      "label": "$$$message_0126_0036_0000$$$"
+    },
+    {
+      "en": "\"Hmm... Não, eu ainda tenho algumas coisas para fazer na cidade. Vamos nos separar aqui.\"[lr]",
+      "jp": "ããã¼â¦â¦ãããã¾ã è¡ã«ç¨äºããããããã§å¥ãããã[lr]",
+      "Pt-br": "\"Hmm... Não, eu ainda tenho algumas coisas para fazer na cidade. Vamos nos separar aqui.\"[lr]",
+      "id": 17072,
+      "epk_id": "16238",
+      "label": "$$$message_0126_0036_0001$$$"
+    },
+    {
+      "en": "\"Ok. A gente se vê mais tarde então. Certifique-se de voltar para casa sem fazer muitos desvios.\"[wvs][clfg textoff=0 pos=all rule=シャッター左から time=400]",
+      "jp": "ããããããã¾ãå¾ã§ãããã¾ãå¯ãéããªãã§å¸°ã£ã¦ããã®ãã[wvs][clfg textoff=0 pos=all rule=ã·ã£ãã¿ã¼å·¦ãã time=400]",
+      "Pt-br": "\"Ok. A gente se vê mais tarde então. Certifique-se de voltar para casa sem fazer muitos desvios.\"[wvs][clfg textoff=0 pos=all rule=シャッター左から time=400]",
+      "id": 17073,
+      "epk_id": "16239",
+      "label": "$$$message_0126_0036_0002$$$"
+    },
+    {
+      "en": "A Tohsaka se dirige para a passarela de pedestres.[lr]",
+      "jp": "ãæ­©éæ©ã«åããé åã[lr]",
+      "Pt-br": "A Tohsaka se dirige para a passarela de pedestres.[lr]",
+      "id": 17074,
+      "epk_id": "16240",
+      "label": "$$$message_0126_0037_0000$$$"
+    },
+    {
+      "en": "Pular para lá é, bem, não é um problema para a destreza física da Tohsaka, mas... ela precisa levar em consideração um pouco mais o quanto ela é ativa.[lr]",
+      "jp": "ãè·³ã³ç§»ãã®ã¯ãã¾ããé åã®éåç¥çµãªãåé¡ãªãã ãããâ¦â¦ã¢ã¤ãã¯ããã¡ãã£ã¨ãèªåã®ã¢ã¯ãã£ãããèæ\n®ããæ ¼å¥½ãããã¹ãã ã[lr]",
+      "Pt-br": "Pular para lá é, bem, não é um problema para a destreza física da Tohsaka, mas... ela precisa levar em consideração um pouco mais o quanto ela é ativa.[lr]",
+      "id": 17075,
+      "epk_id": "16241",
+      "label": "$$$message_0126_0037_0001$$$"
+    },
+    {
+      "en": "...Bem, de qualquer modo...",
+      "jp": "ãâ¦â¦ã¨ã¾ããããã¯ã¨ãããã",
+      "Pt-br": "...Bem, de qualquer modo...",
+      "id": 17076,
+      "epk_id": "16242",
+      "label": "$$$message_0126_0037_0002$$$"
+    },
+    {
+      "en": "\"Ei. Você não precisa saber mais sobre o Archer?\"[lr]",
+      "jp": "ããã¼ããã¢ã¼ãã£ã¼ã®äºã¯ããã®ãã¼ï¼ã[lr]",
+      "Pt-br": "\"Ei. Você não precisa saber mais sobre o Archer?\"[lr]",
+      "id": 17077,
+      "epk_id": "16243",
+      "label": "$$$message_0126_0038_0000$$$"
+    },
+    {
+      "en": "\"Está tudo bem. O que ele está fazendo não me diz respeito. Você não deveria esperar muito dele, Emiya. Ele sempre te enrola e nunca faz nada quando você precisa.\"",
+      "jp": "ãå¥ã«ãããããã¢ã¤ããä½ãã¦ãããã¨ãããã«ã¯é¢ä¿ãªãããè¡å®®ãããã¢ã¤ãã«æå¾\nãªãããã¡ããã¡ããæããã¶ããªè¡åã°ã£ããã§ãããã£ã¦æã¯ä½ãããªãã¤ããªãã ããã",
+      "Pt-br": "\"Está tudo bem. O que ele está fazendo não me diz respeito. Você não deveria esperar muito dele, Emiya-kun. Ele sempre te enrola e nunca faz nada quando você precisa.\"",
+      "id": 17078,
+      "epk_id": "16244",
+      "label": "$$$message_0126_0038_0001$$$"
+    },
+    {
+      "en": "\"...Hmm. É certo eu ter altas expectativas em você, Tohsaka?\"[lr]",
+      "jp": "ãâ¦â¦ãã¼ããããé åã«ã¯æå¾\nãã¦ããã®ãã¼ï¼ã[lr]",
+      "Pt-br": "\"...Hmm. É certo eu ter altas expectativas em você, Tohsaka?\"[lr]",
+      "id": 17079,
+      "epk_id": "16245",
+      "label": "$$$message_0126_0039_0000$$$"
+    },
+    {
+      "en": "\"Claro. Eu já fui longe demais para voltar atrás.[lr]",
+      "jp": "ããã£ã¡ãããä¹ãããã£ãè¹ã ãã®ã[lr]",
+      "Pt-br": "\"Claro. Eu já fui longe demais para voltar atrás.[lr]",
+      "id": 17080,
+      "epk_id": "16246",
+      "label": "$$$message_0126_0039_0001$$$"
+    },
+    {
+      "en": "Se você vai ver algo até o fim, então eu farei o meu melhor para te ajudar. Em troca daquele gancho de direita.\"[lr]",
+      "jp": "ãè²´æ¹ãæå¾ã¾ã§è¾¿ãçãã®ãªãããã®æã¯åºæ¥ãéãåãè²¸ãããå³ããã¯ã®ãè¿ãã«ã­ã[lr]",
+      "Pt-br": "Se você vai ver algo até o fim, então eu farei o meu melhor para te ajudar. Em troca daquele gancho de direita.\"[lr]",
+      "id": 17081,
+      "epk_id": "16247",
+      "label": "$$$message_0126_0039_0002$$$"
+    },
+    {
+      "en": "Ela salta para a passarela de pedestres sem hesitação.",
+      "jp": "ãã¨ã¼ããã¨[ruby text=ã¡ã\nãã¡ã char=2]èºèºãªãæ­©éæ©ã¸é£ã³ç§»ãã",
+      "Pt-br": "Ela salta para a passarela de pedestres sem hesitação.",
+      "id": 17082,
+      "epk_id": "16248",
+      "label": "$$$message_0126_0039_0003$$$"
+    },
+    {
+      "en": "É diferente do Archer.[lr]",
+      "jp": "ãã¢ã¼ãã£ã¼ã®æã¨ã¯éãã[lr]",
+      "Pt-br": "É diferente do Archer.[lr]",
+      "id": 17083,
+      "epk_id": "16249",
+      "label": "$$$message_0126_0040_0000$$$"
+    },
+    {
+      "en": "Ela deixa para trás algo revigorante, e a maga de vermelho parte com vivacidade.",
+      "jp": "ãæ¸\næ¶¼ãªç©ãæ®ããèµ¤ãé­è¡å¸«ã¯é®®ããã«éå ´ããã",
+      "Pt-br": "Ela deixa para trás algo revigorante, e a maga de vermelho parte com vivacidade.",
+      "id": 17084,
+      "epk_id": "16250",
+      "label": "$$$message_0126_0040_0001$$$"
+    },
+    {
+      "en": "\"O que foi? Vindo para um lugar como este. Estamos em uma rua, então é perigoso. Oh, você estava tentando pular?\"[r]",
+      "jp": "ãã©ãããã®ããããªæã«[r]ãã£ã¦ãã¦ã[r]ããè»éã ããå±ãªãããï¼[r]ããããã¨ãé£ã³è¾¼ã¿ï¼ã`",
+      "Pt-br": "\"O que foi? Vindo para um lugar como este. Estamos em uma rua, então é perigoso. Oh, você estava tentando pular?\"[r]",
+      "id": 17085,
+      "epk_id": "916142",
+      "label": "$$$message_9126_0001_0001$$$"
+    }
+  ]
+}

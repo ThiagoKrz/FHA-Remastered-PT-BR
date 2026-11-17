@@ -1,0 +1,544 @@
+{
+  "cena": "2uqrnpq5kjjs5hucjtsvnk8nka",
+  "titulo": "Templo Ryuudou: Moradia por Radiestesia",
+  "rota": "Dia 2",
+  "arquivo": "2uqrnpq5kjjs5hucjtsvnk8nka.epk_dec",
+  "linhas": [
+    {
+      "en": "\"[humming]\"[lr]",
+      "jp": "「～♪」[lr]",
+      "Pt-br": "\"[humming]\"[lr]",
+      "id": 10053,
+      "epk_id": "6333",
+      "label": "$$$message_0045_0000_0000$$$"
+    },
+    {
+      "en": "It's a bright and clear morning. I leisurely make my way up the mountain steps.[lr]",
+      "jp": "　清々しい午前中、のんびりと山道を行く。[lr]",
+      "Pt-br": "É uma manhã clara e brilhante. Sem pressa, subo os degraus da montanha.[lr]",
+      "id": 10054,
+      "epk_id": "6334",
+      "label": "$$$message_0045_0000_0001$$$"
+    },
+    {
+      "en": "The sunlight filtering through the trees and the refreshing, cool mountain air imparts a sense of calm.[lr]",
+      "jp": "　木立からこぼれる陽射しと、ほのかに冷たい山の空気が見事なまでに調和している。[lr]",
+      "Pt-br": "A luz do Sol filtrando por entre as árvores e o ar fresco e agradável da montanha transmitem uma sensação de calma.[lr]",
+      "id": 10055,
+      "epk_id": "6335",
+      "label": "$$$message_0045_0000_0002$$$"
+    },
+    {
+      "en": "Today is a perfect day for a stroll through the woods. I even find myself whistling cheerfully.",
+      "jp": "　まさに絶好の森林浴[ruby text=び]日より、柄にもなく口笛の一つも吹くってものだ。",
+      "Pt-br": "Hoje é um dia perfeito para um passeio pela floresta. Eu até me pego assobiando alegremente.",
+      "id": 10056,
+      "epk_id": "6336",
+      "label": "$$$message_0045_0000_0003$$$"
+    },
+    {
+      "en": "Just as I'm thinking that...[lr]",
+      "jp": "　と。[lr]",
+      "Pt-br": "Exatamente quando estou pensando nisso...[lr]",
+      "id": 10057,
+      "epk_id": "6337",
+      "label": "$$$message_0045_0001_0000$$$"
+    },
+    {
+      "en": "I come across an unexpected person who doesn't match the atmosphere at all.",
+      "jp": "　そんな平和な林道にミスマッチな人影発見。",
+      "Pt-br": "Encontro uma pessoa inesperada que não combina nem um pouco com o clima.",
+      "id": 10058,
+      "epk_id": "6338",
+      "label": "$$$message_0045_0001_0001$$$"
+    },
+    {
+      "en": "\"Leys? What are you doing all the way out here?\"[lr]",
+      "jp": "「あれ、リズ……？　裏山で何やってんだ？」[lr]",
+      "Pt-br": "\"Leys? O que você está fazendo aqui longe?\"[lr]",
+      "id": 10059,
+      "epk_id": "6339",
+      "label": "$$$message_0045_0002_0000$$$"
+    },
+    {
+      "en": "Just ahead of me are the woods behind Ryudou Temple, and a plateau with an expansive view of the forest on the outskirts of Fuyuki.[lr]",
+      "jp": "　この先は柳洞寺の裏、郊外の森を見渡せる高台に通じている。[lr]",
+      "Pt-br": "Logo à minha frente está o bosque atrás do Templo Ryuudou, e um planalto com uma vista ampla da floresta nos arredores de Fuyuki.[lr]",
+      "id": 10060,
+      "epk_id": "6340",
+      "label": "$$$message_0045_0002_0001$$$"
+    },
+    {
+      "en": "Surely, she didn't walk all the way here from the castle...",
+      "jp": "　……まさか、城から直接やってきた、なんて事はないと思うのだが……。",
+      "Pt-br": "Com certeza ela não caminhou até aqui vindo do castelo...",
+      "id": 10061,
+      "epk_id": "6341",
+      "label": "$$$message_0045_0002_0002$$$"
+    },
+    {
+      "en": "\"Hellooo? Morning, Leys!\"[lr]",
+      "jp": "「おーい。おはようリズー！」[lr]",
+      "Pt-br": "\"Oláaa? Bom dia, Leys!\"[lr]",
+      "id": 10062,
+      "epk_id": "6342",
+      "label": "$$$message_0045_0003_0000$$$"
+    },
+    {
+      "en": "\"...Ah. Good morning, Shirou.\"[lr]",
+      "jp": "「……あ。おはよう、シロウ」[lr]",
+      "Pt-br": "\"...Ah. Bom dia, Shirou.\"[lr]",
+      "id": 10063,
+      "epk_id": "6343",
+      "label": "$$$message_0045_0003_0001$$$"
+    },
+    {
+      "en": "Leysritt walks intently over to me.[lr]",
+      "jp": "　テクテクとやってくる。[lr]",
+      "Pt-br": "A Leysritt caminha em minha direção atenciosamente.[lr]",
+      "id": 10064,
+      "epk_id": "6344",
+      "label": "$$$message_0045_0003_0002$$$"
+    },
+    {
+      "en": "Her words sound blunt, but the way she moves reminds me of a child.[lr]",
+      "jp": "　言葉遣いこそ無愛想だが、その仕草は子ガモを連想させる。[lr]",
+      "Pt-br": "As palavras dela parecem ríspidas, mas o modo como ela se move me lembra de uma criança.[lr]",
+      "id": 10065,
+      "epk_id": "6345",
+      "label": "$$$message_0045_0003_0003$$$"
+    },
+    {
+      "en": "Like the kind of kid who warms up to anyone she meets.",
+      "jp": "　こう、無条件に懐いてきてくれる感じが特に。",
+      "Pt-br": "Como aquele tipo de criança que se aproxima de qualquer um que encontre.",
+      "id": 10066,
+      "epk_id": "6346",
+      "label": "$$$message_0045_0003_0004$$$"
+    },
+    {
+      "en": "\"Hey. Funny seeing you here.\"[lr]",
+      "jp": "「や。珍しい所で会ったな」[lr]",
+      "Pt-br": "\"Ei. Engraçado ver você por aqui.\"[lr]",
+      "id": 10067,
+      "epk_id": "6347",
+      "label": "$$$message_0045_0004_0000$$$"
+    },
+    {
+      "en": "\"...Yeah. It's my first time at the temple... Do you come here a lot?\"[lr]",
+      "jp": "「……うん。わたし、お寺に来るのは初めて。……シロウはよく来る？」[lr]",
+      "Pt-br": "\"...É. É a minha primeira vez no templo... Você vem muito aqui?\"[lr]",
+      "id": 10068,
+      "epk_id": "6348",
+      "label": "$$$message_0045_0004_0001$$$"
+    },
+    {
+      "en": "\"Hmm... More often than not, I guess. A friend lives here, so I come hang out even when I don't have any business.[lr]",
+      "jp": "「んー……ま、よく来てる方かな。友達がいるんで、寺向きの用がなくても遊びに来るし。[lr]",
+      "Pt-br": "\"Hrum... Na maioria das vezes, eu acho. Um amigo mora aqui, então venho passar um tempo mesmo quando não tenho nada para fazer.[lr]",
+      "id": 10069,
+      "epk_id": "6349",
+      "label": "$$$message_0045_0004_0002$$$"
+    },
+    {
+      "en": "What about you, Leys? I know you said it's your first time here. Are you on an errand?\"",
+      "jp": "　リズは？　初めてって言ったけど、何か用があったのか？」",
+      "Pt-br": "E você, Leys? Eu sei que você disse que é a sua primeira vez aqui. Veio fazer alguma tarefa?\"",
+      "id": 10070,
+      "epk_id": "6350",
+      "label": "$$$message_0045_0004_0003$$$"
+    },
+    {
+      "en": "\"...Not an errand, but I sensed something bad here, so I stopped by to take care of it.\"[lr]",
+      "jp": "「……用はないけど。このあたりでよくない感じがしたから、ちょっと」[lr]",
+      "Pt-br": "\"...Não é uma tarefa, mas eu senti algo ruim por aqui, então dei uma passada para dar um jeito nisso.\"[lr]",
+      "id": 10071,
+      "epk_id": "6351",
+      "label": "$$$message_0045_0005_0000$$$"
+    },
+    {
+      "en": "\"Take care of it?\"[lr]",
+      "jp": "「ちょっと？」[lr]",
+      "Pt-br": "\"Dar um jeito nisso?\"[lr]",
+      "id": 10072,
+      "epk_id": "6352",
+      "label": "$$$message_0045_0005_0001$$$"
+    },
+    {
+      "en": "\"...Yeah. To put it in its place.\"",
+      "jp": "「…………うん。よくない物を、こら[ruby text=し]絞めに」",
+      "Pt-br": "\"...É. Para colocar isso no seu devido lugar.\"",
+      "id": 10073,
+      "epk_id": "6353",
+      "label": "$$$message_0045_0005_0002$$$"
+    },
+    {
+      "en": "The maid gestures as if strangling a bird in her hands.[lr]",
+      "jp": "　こうクイッとね、と鳥を絞めるジェスチャーをするメイドさん。[lr]",
+      "Pt-br": "A empregada gesticula como se estivesse estrangulando um pássaro em suas mãos.[lr]",
+      "id": 10074,
+      "epk_id": "6354",
+      "label": "$$$message_0045_0006_0000$$$"
+    },
+    {
+      "en": "Terrifying.[lr]",
+      "jp": "　恐ろしい。[lr]",
+      "Pt-br": "Aterrorizante.[lr]",
+      "id": 10075,
+      "epk_id": "6355",
+      "label": "$$$message_0045_0006_0001$$$"
+    },
+    {
+      "en": "What's scary is that she doesn't sound like she's joking.",
+      "jp": "　何が恐ろしいかと言うと、このメイドさんはあまり冗談を口にしないのです。",
+      "Pt-br": "O que é assustador é que ela não parece estar brincando.",
+      "id": 10076,
+      "epk_id": "6356",
+      "label": "$$$message_0045_0006_0002$$$"
+    },
+    {
+      "en": "\"...Uh, hold on. What exactly is this bad thing?\"[lr]",
+      "jp": "「……あー、ちょっと待った。そのよくない物ってどんなんだろう？」[lr]",
+      "Pt-br": "\"...Hã, espera aí. O que exatamente é essa coisa ruim?\"[lr]",
+      "id": 10077,
+      "epk_id": "6357",
+      "label": "$$$message_0045_0007_0000$$$"
+    },
+    {
+      "en": "\"...............[wait canskip=0 time=1600][say storage=ryu0204_riz_0040 name=ãªãº]Want to see?\"[lr]",
+      "jp": "「…………………………………………[wait canskip=0 time=1600][say storage=ryu0204_riz_0040 name=リズ]見る？」[lr]",
+      "Pt-br": "\"...............[wait canskip=0 time=1600][say storage=ryu0204_riz_0040 name=リズ]Quer ver?\"[lr]",
+      "id": 10078,
+      "epk_id": "6358",
+      "label": "$$$message_0045_0007_0001$$$"
+    },
+    {
+      "en": "The conversation skips a step ahead...![lr]",
+      "jp": "　会話が一足飛びだ……っ！[lr]",
+      "Pt-br": "A conversa pula um passo à frente...![lr]",
+      "id": 10079,
+      "epk_id": "6359",
+      "label": "$$$message_0045_0007_0002$$$"
+    },
+    {
+      "en": "Urgh, before you show me, I'd like to know what exactly this dangerous thing is.",
+      "jp": "　うう、出来れば見る前に、その危険物がどんな物なのかを聞きたかったのだが。",
+      "Pt-br": "Urgh, antes de você me mostrar, eu gostaria de saber o que exatamente é essa coisa perigosa.",
+      "id": 10080,
+      "epk_id": "6360",
+      "label": "$$$message_0045_0007_0003$$$"
+    },
+    {
+      "en": "\"Um...is it something I can see?\"[lr]",
+      "jp": "「えーと。……その、見られるの？」[lr]",
+      "Pt-br": "\"Hum... É algo que eu consiga ver?\"[lr]",
+      "id": 10081,
+      "epk_id": "6361",
+      "label": "$$$message_0045_0008_0000$$$"
+    },
+    {
+      "en": "\"...............[wait canskip=0 time=1600][say storage=ryu0204_riz_0050 name=ãªãº]Want it?\"[lr]",
+      "jp": "「……………………………………………[wait canskip=0 time=1600][say storage=ryu0204_riz_0050 name=リズ]欲しい？」[lr]",
+      "Pt-br": "\"...............[wait canskip=0 time=1600][say storage=ryu0204_riz_0050 name=リズ]Você quer?\"[lr]",
+      "id": 10082,
+      "epk_id": "6362",
+      "label": "$$$message_0045_0008_0001$$$"
+    },
+    {
+      "en": "Leysritt skips the conversation another, no, two steps ahead.[lr]",
+      "jp": "　更に一足、いや二足飛んだ。[lr]",
+      "Pt-br": "A Leysritt pula a conversa um, não, dois passos à frente.[lr]",
+      "id": 10083,
+      "epk_id": "6363",
+      "label": "$$$message_0045_0008_0002$$$"
+    },
+    {
+      "en": "We're already at the top of the figurative stairs. There's nowhere else to take this discussion.",
+      "jp": "　すでに最上階、これ以上行き着く所のない崖っぷちのコミュニケーション。",
+      "Pt-br": "Nós já estamos no topo da escada figurativa. Não há outro lugar para onde levar esta discussão.",
+      "id": 10084,
+      "epk_id": "6364",
+      "label": "$$$message_0045_0008_0003$$$"
+    },
+    {
+      "en": "\"Umm... Do you have it with you now?\"[lr]",
+      "jp": "「あーと。……その、持ってるの？」[lr]",
+      "Pt-br": "\"Humm... Você a tem com você agora?\"[lr]",
+      "id": 10085,
+      "epk_id": "6365",
+      "label": "$$$message_0045_0009_0000$$$"
+    },
+    {
+      "en": "\"I found it over there.[lr]",
+      "jp": "「そこで見つけたから。[lr]",
+      "Pt-br": "\"A encontrei ali.[lr]",
+      "id": 10086,
+      "epk_id": "6366",
+      "label": "$$$message_0045_0009_0001$$$"
+    },
+    {
+      "en": "I was looking for it because I thought it might be Illya's enemy, but it smells like Illya, too.[cacheimage storage=ãªãº01b(ä¸­),ãªãº01a(ä¸­)][wvl][chgfg textoff=0 time=100 storage=ãªãº01b(ä¸­)][chgfg textoff=0 time=200 storage=ãªãº01a(ä¸­)] How mysterious.\"[lr]",
+      "jp": "　イリヤの敵かと思って探したけど、イリヤの匂いもする。[cacheimage storage=リズ01b(中),リズ01a(中)][wvl][chgfg textoff=0 time=100 storage=リズ01b(中)][chgfg textoff=0 time=200 storage=リズ01a(中)]不思議」[lr]",
+      "Pt-br": "Eu estava procurando por isso porque pensei que pudesse ser algum inimigo da Illya, mas isso também tem o cheiro da Illya.[cacheimage storage=リズ01b(中),リズ01a(中)][wvl][chgfg textoff=0 time=100 storage=リズ01b(中)][chgfg textoff=0 time=200 storage=リズ01a(中)] Que misterioso.\"[lr]",
+      "id": 10087,
+      "epk_id": "6367",
+      "label": "$$$message_0045_0009_0002$$$"
+    },
+    {
+      "en": "Leys extends a hand.[lr]",
+      "jp": "　はい、と手を出すリズ。[lr]",
+      "Pt-br": "A Leys estende a mão.[lr]",
+      "id": 10088,
+      "epk_id": "6368",
+      "label": "$$$message_0045_0009_0003$$$"
+    },
+    {
+      "en": "\"Oh, thanks.\"[lr]",
+      "jp": "「あ、ども」[lr]",
+      "Pt-br": "\"Ah, obrigado.\"[lr]",
+      "id": 10089,
+      "epk_id": "6369",
+      "label": "$$$message_0045_0009_0004$$$"
+    },
+    {
+      "en": "I grab it reflexively.",
+      "jp": "　反射的に受け取ってしまう自分。",
+      "Pt-br": "Pego por reflexo.",
+      "id": 10090,
+      "epk_id": "6370",
+      "label": "$$$message_0045_0009_0005$$$"
+    },
+    {
+      "en": "\"...?\"[lr]",
+      "jp": "「……？」[lr]",
+      "Pt-br": "\"...?\"[lr]",
+      "id": 10091,
+      "epk_id": "6371",
+      "label": "$$$message_0045_0010_0000$$$"
+    },
+    {
+      "en": "Is this a...hanafuda card?[lr]",
+      "jp": "　絵札……だろうか？[lr]",
+      "Pt-br": "Isso é uma... Carta hanafuda?[lr]",
+      "id": 10092,
+      "epk_id": "6372",
+      "label": "$$$message_0045_0010_0001$$$"
+    },
+    {
+      "en": "I've acquired something like a tarot card made from cloth.",
+      "jp": "　布で出来たタロットカードのような物をゲットしてしまった。",
+      "Pt-br": "Acabei de adquirir algo parecido com uma carta de tarô feita de pano.",
+      "id": 10093,
+      "epk_id": "6373",
+      "label": "$$$message_0045_0010_0002$$$"
+    },
+    {
+      "en": "\"Did you find this around here?\"[lr]",
+      "jp": "「これ、このあたりで見つけたのか？」[lr]",
+      "Pt-br": "\"Você a encontrou por aqui?\"[lr]",
+      "id": 10094,
+      "epk_id": "6374",
+      "label": "$$$message_0045_0011_0000$$$"
+    },
+    {
+      "en": "\"It was buried. A long time ago, I'm sure. At least two hundred years ago.\"[lr]",
+      "jp": "「地面に埋まってた。きっと、すごく昔のもの。二百年以上前」[lr]",
+      "Pt-br": "\"Ela estava enterrada. Há muito tempo, tenho certeza. Há pelo menos duzentos anos atrás.\"[lr]",
+      "id": 10095,
+      "epk_id": "6375",
+      "label": "$$$message_0045_0011_0001$$$"
+    },
+    {
+      "en": "\"Wow. That's older than the Holy Grail War!\"[lr]",
+      "jp": "「なんと。聖杯戦争より前からか！」[lr]",
+      "Pt-br": "\"Nossa. Isso é mais antigo que a Guerra do Santo Graal!\"[lr]",
+      "id": 10096,
+      "epk_id": "6376",
+      "label": "$$$message_0045_0011_0002$$$"
+    },
+    {
+      "en": "Doesn't that make this an important archaeological find?[lr]",
+      "jp": "　それはなんていうか、とても貴重な発掘品なのでは。[lr]",
+      "Pt-br": "Isso não a torna uma descoberta arqueológica importante?[lr]",
+      "id": 10097,
+      "epk_id": "6377",
+      "label": "$$$message_0045_0011_0003$$$"
+    },
+    {
+      "en": "Actually, I have my doubts it could be more than two centuries old, but I'll come back to that later.",
+      "jp": "　……いや、二百年以上前ってあたりに不穏なものを感じるのだが、それはそれとしておこう。",
+      "Pt-br": "Na verdade, tenho as minhas dúvidas de que isso possa ter mais de dois séculos de idade, mas volto a esse assunto mais tarde.",
+      "id": 10098,
+      "epk_id": "6378",
+      "label": "$$$message_0045_0011_0004$$$"
+    },
+    {
+      "en": "\"Thanks, Leys. I'll take it, but...are you sure you want to give me this?\"[lr]",
+      "jp": "「サンキュ、リズ。ありがたく貰っておくけど……いいのか、ホントに俺で？」[lr]",
+      "Pt-br": "\"Obrigado, Leys. Vou ficar com ela, mas... Você tem certeza de que quer me dar isso?\"[lr]",
+      "id": 10099,
+      "epk_id": "6379",
+      "label": "$$$message_0045_0012_0000$$$"
+    },
+    {
+      "en": "\"It's okay. I think it was destiny that we met here.[lr]",
+      "jp": "「いい。シロウと会ったのも、きっと運命。[lr]",
+      "Pt-br": "\"Tudo bem. Acredito que o nosso encontro aqui foi obra do destino.[lr]",
+      "id": 10100,
+      "epk_id": "6380",
+      "label": "$$$message_0045_0012_0001$$$"
+    },
+    {
+      "en": "I'm glad you like it, Shirou.\"[lr]",
+      "jp": "　シロウに喜んでもらえて、よかった」[lr]",
+      "Pt-br": "Fico feliz que você tenha gostado dela, Shirou.\"[lr]",
+      "id": 10101,
+      "epk_id": "6381",
+      "label": "$$$message_0045_0012_0002$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「[line len=6]」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 10102,
+      "epk_id": "6382",
+      "label": "$$$message_0045_0012_0003$$$"
+    },
+    {
+      "en": "That catches me a little off guard.[lr]",
+      "jp": "　ちょい不意をつかれた。[lr]",
+      "Pt-br": "Isso me pega um pouco de surpresa.[lr]",
+      "id": 10103,
+      "epk_id": "6383",
+      "label": "$$$message_0045_0012_0004$$$"
+    },
+    {
+      "en": "It's super-effective, coming from Leys, who isn't very expressive.",
+      "jp": "　表情に乏しいリズだけに、こういうのは破壊力がある。",
+      "Pt-br": "Isso é super efetivo vindo da Leys, que não é muito expressiva.",
+      "id": 10104,
+      "epk_id": "6384",
+      "label": "$$$message_0045_0012_0005$$$"
+    },
+    {
+      "en": "\"I'm going back to the castle. You should come over to play sometime, Shirou.\"[lr]",
+      "jp": "「それじゃわたしはお城にバック。シロウも、今度お城に遊びに来るといい」[lr]",
+      "Pt-br": "\"Vou voltar para o castelo. Você deveria ir lá jogar um pouco algum dia, Shirou.\"[lr]",
+      "id": 10105,
+      "epk_id": "6385",
+      "label": "$$$message_0045_0013_0000$$$"
+    },
+    {
+      "en": "Leys turns back the way we[line len=2]No, she steps into the forest.[lr]",
+      "jp": "　来た道を引き返す……じゃなくて、林の中に踏み入ろうとするリズ。[lr]",
+      "Pt-br": "A Leys vira de costas e pelo caminho onde nós[line len=2]Não, ela adentra na floresta.[lr]",
+      "id": 10106,
+      "epk_id": "6386",
+      "label": "$$$message_0045_0013_0001$$$"
+    },
+    {
+      "en": "...I didn't want to think about it, but it seems like she really walked all the way here from the castle.",
+      "jp": "　…………考えたくないが、やはり城から歩いて来たらしい。",
+      "Pt-br": "...Eu não queria pensar nisso, mas ela veio andando até aqui desde o castelo.",
+      "id": 10107,
+      "epk_id": "6387",
+      "label": "$$$message_0045_0013_0002$$$"
+    },
+    {
+      "en": "\"Okay. See ya later, Leys.\"[lr]",
+      "jp": "「ああ。じゃあまたな、リズ」[lr]",
+      "Pt-br": "\"Okay. Até mais, Leys.\"[lr]",
+      "id": 10108,
+      "epk_id": "6388",
+      "label": "$$$message_0045_0014_0000$$$"
+    },
+    {
+      "en": "\"Yeah... Be careful, Shirou.[lr]",
+      "jp": "「うん。……でも気をつけてシロウ。[lr]",
+      "Pt-br": "\"É... Tome cuidado, Shirou.[lr]",
+      "id": 10109,
+      "epk_id": "6389",
+      "label": "$$$message_0045_0014_0001$$$"
+    },
+    {
+      "en": "Misfortune will befall you if you keep that with you.\"[lr]",
+      "jp": "　それ、持ってると確実に不幸になるから」[lr]",
+      "Pt-br": "O infortúnio se abaterá sobre você se você continuar com isso.\"[lr]",
+      "id": 10110,
+      "epk_id": "6390",
+      "label": "$$$message_0045_0014_0002$$$"
+    },
+    {
+      "en": "\"Wha[line len=2]you gave me a cursed item!?\"[lr]",
+      "jp": "「って、けっきょく呪いのアイテムかよ！」[lr]",
+      "Pt-br": "\"O qu[line len=2]Você me deu um item amaldiçoado!?\"[lr]",
+      "id": 10111,
+      "epk_id": "6391",
+      "label": "$$$message_0045_0014_0003$$$"
+    },
+    {
+      "en": "\"Fu... [wvl][move textoff=0 time=140 path=(371,124,255)(371,107,255)(371,126,255)(371,107,255)(383,126,255)(388,110,255)(398,126,255)(411,112,255)(427,125,255)(434,112,255)(449,125,255)(459,113,255)(475,125,255)(485,113,200)(501,122,155)(511,113,100)(524,120,0) storage=ãªãº02a(é ) accel=0]Fu fu fu fu.\"[lr]",
+      "jp": "「ふ[line len=3][wvl][move textoff=0 time=140 path=(371,124,255)(371,107,255)(371,126,255)(371,107,255)(383,126,255)(388,110,255)(398,126,255)(411,112,255)(427,125,255)(434,112,255)(449,125,255)(459,113,255)(475,125,255)(485,113,200)(501,122,155)(511,113,100)(524,120,0) storage=リズ02a(遠) accel=0]ふっふっふっふ」[lr]",
+      "Pt-br": "\"Fu... [wvl][move textoff=0 time=140 path=(371,124,255)(371,107,255)(371,126,255)(371,107,255)(383,126,255)(388,110,255)(398,126,255)(411,112,255)(427,125,255)(434,112,255)(449,125,255)(459,113,255)(475,125,255)(485,113,200)(501,122,155)(511,113,100)(524,120,0) storage=リズ02a(遠) accel=0]Fu fu fu fu.\"[lr]",
+      "id": 10112,
+      "epk_id": "6392",
+      "label": "$$$message_0045_0014_0004$$$"
+    },
+    {
+      "en": "Leys fades into the forest, leaving me with a chuckle that's anything but pleasant.",
+      "jp": "　楽しげのカケラもない笑いを残し、リズは林の中へ消えていった。",
+      "Pt-br": "A Leys desaparece na floresta, me deixando com uma risadinha que não tem nada de agradável.",
+      "id": 10113,
+      "epk_id": "6393",
+      "label": "$$$message_0045_0014_0005$$$"
+    },
+    {
+      "en": "\"...What the heck do I do with this?\"[lr]",
+      "jp": "「………………どうしたもんかな、これ」[lr]",
+      "Pt-br": "\"...O que diabos eu vou fazer com isso?\"[lr]",
+      "id": 10114,
+      "epk_id": "6394",
+      "label": "$$$message_0045_0015_0000$$$"
+    },
+    {
+      "en": "I look at the mysterious card.[lr]",
+      "jp": "　謎の絵札を眺める。[lr]",
+      "Pt-br": "Olho para a misteriosa carta.[lr]",
+      "id": 10115,
+      "epk_id": "6395",
+      "label": "$$$message_0045_0015_0001$$$"
+    },
+    {
+      "en": "It could come in handy...maybe.[lr]",
+      "jp": "　……まあ、何かの役には立つ……のかな？[lr]",
+      "Pt-br": "Ela pode ser útil... Talvez.[lr]",
+      "id": 10116,
+      "epk_id": "6396",
+      "label": "$$$message_0045_0015_0002$$$"
+    },
+    {
+      "en": "I can imagine the disaster that might befall me if I toss it here and she comes back.[lr]",
+      "jp": "　どうせ捨てても災厄二倍増しで戻ってくるのは目に見えているし。[lr]",
+      "Pt-br": "Posso imaginar o desastre que poderá me acontecer se eu a jogar aqui e ela voltar.[lr]",
+      "id": 10117,
+      "epk_id": "6397",
+      "label": "$$$message_0045_0015_0003$$$"
+    },
+    {
+      "en": "I'll just stick it in my back pocket for now. Out of sight, out of mind.",
+      "jp": "　ほどよく忘れられるよう、後ろのポケットにしまっておくか[line len=3]",
+      "Pt-br": "Vou apenas guardá-la no meu bolso de trás por enquanto. O que os olhos não veem, o coração não sente.",
+      "id": 10118,
+      "epk_id": "6398",
+      "label": "$$$message_0045_0015_0004$$$"
+    },
+    {
+      "en": "\"...Ah. Good morning, Shirou.\"[r]TÄ\u0015A",
+      "jp": "「……あ。[r]おはよう、シロウ」",
+      "Pt-br": "\"...Ah. Bom dia, Shirou.\"[r]",
+      "id": 10119,
+      "epk_id": "906343",
+      "label": "$$$message_9045_0003_0001$$$"
+    }
+  ]
+}

@@ -1,0 +1,608 @@
+{
+  "cena": "7n0fcromg8i3k79dg0vrrrg0pp",
+  "titulo": "Hanafuda: história (final 2)",
+  "rota": "Hanafuda",
+  "arquivo": "7n0fcromg8i3k79dg0vrrrg0pp.epk_dec",
+  "linhas": [
+    {
+      "en": "\"Hah, haah, haaah... We won, but... Taiga, that was...\"",
+      "jp": "「は、はぁ、はぁ……勝った、けど……タイガ、今の[line len=3]」",
+      "Pt-br": "\"Hah, haah, haaah... Nós vencemos, mas... Taiga, aquilo foi...\"",
+      "id": 44502,
+      "epk_id": "44292",
+      "label": "$$$message_0380_0000_0000$$$"
+    },
+    {
+      "en": "\"Heh. A ruthless coup de grace... You've grown strong, Illya...\"[nolr][p]",
+      "jp": "「フ[line len=3]情け容赦のないトドメの一撃……強くなったわね、イリヤちゃん[line len=3]」[nolr][p]",
+      "Pt-br": "\"Heh. Um golpe de misericórdia implacável... Você ficou forte, Illya-chan...\"[nolr][p]",
+      "id": 44503,
+      "epk_id": "44293",
+      "label": "$$$message_0380_0000_0001$$$"
+    },
+    {
+      "en": "\"I knew it...! Hang in there, Taiga! Why did you hold back!?\"",
+      "jp": "「やっぱり……！　しっかりしてタイガ、どうして手を抜いたりしたの……！？」",
+      "Pt-br": "\"Eu sabia...! Aguenta firme, Taiga! Por que você pegou leve!?\"",
+      "id": 44504,
+      "epk_id": "44294",
+      "label": "$$$message_0380_0000_0002$$$"
+    },
+    {
+      "en": "\"The Taiga I know would never die!\"",
+      "jp": "「いつものタイガならこんなんじゃ絶対死なない！」",
+      "Pt-br": "\"A Taiga que eu conheço nunca morreria!\"",
+      "id": 44505,
+      "epk_id": "44295",
+      "label": "$$$message_0380_0001_0000$$$"
+    },
+    {
+      "en": "\"I mean, seriously, you never die no matter what happens! I bet you'd give cockroaches a run for their money in sheer survival ability, so why...!?\"",
+      "jp": "「つーか何やっても絶対死なない！　黒害虫と生存競争しても勝てるのがタイガの味なのに、どうして……！？」",
+      "Pt-br": "\"Sério mesmo, você não morre não importa o que aconteça! Aposto que você daria trabalho até pras baratas no quesito sobrevivência, então por que...!?\"",
+      "id": 44506,
+      "epk_id": "44296",
+      "label": "$$$message_0380_0001_0001$$$"
+    },
+    {
+      "en": "\"Oof, that cuts me deep...[l][hffacechg chara=藤ねえ face=まったく2 layer=0 time=200][say storage=HSTRE2_TIG_0030 _name=藤ねえ] But it's okay, Illya. You fought well.\"",
+      "jp": "「うう、ものすごい言われよう……[l][hffacechg chara=藤ねえ face=まったく2 layer=0 time=200][say storage=HSTRE2_TIG_0030 _name=藤ねえ]でもいいのイリヤちゃん、よくここまで戦ったわ」",
+      "Pt-br": "\"Oof, essa doeu na alma...[l][hffacechg chara=藤ねえ face=まったく2 layer=0 time=200][say storage=HSTRE2_TIG_0030 _name=藤ねえ] Mas tudo bem, Illya-chan. Você lutou bem.\"",
+      "id": 44507,
+      "epk_id": "44297",
+      "label": "$$$message_0380_0001_0002$$$"
+    },
+    {
+      "en": "\"You don't need my help anymore.\"",
+      "jp": "「……もうわたしの力は必要ないわね」",
+      "Pt-br": "\"Você não precisa mais da minha ajuda.\"",
+      "id": 44508,
+      "epk_id": "44298",
+      "label": "$$$message_0380_0001_0003$$$"
+    },
+    {
+      "en": "\"Servants disappear when the Holy Grail War ends. So before the end, as your master, I just wanted to be the bedrock for...your growth...\"",
+      "jp": "「聖杯戦争が終わればサーヴァントは消えてしまう。だからその前に、師匠として、貴方の成長の礎になりた、かった[line len=3]」",
+      "Pt-br": "\"Os Servos desaparecem quando a Guerra do Santo Graal termina. Então, antes do fim, como sua Mestre, eu só queria ser o alicerce para... o seu crescimento...\"",
+      "id": 44509,
+      "epk_id": "44299",
+      "label": "$$$message_0380_0001_0004$$$"
+    },
+    {
+      "en": "\"No...! [l][hfwww layer=1][say storage=HSTRE2_BIR_0060 _name=ブルマイリヤ]It's all wrong, Taiga! You aren't supposed to be this cool of a character!\"",
+      "jp": "「そんな……！[l]　[hfwww layer=1][say storage=HSTRE2_BIR_0060 _name=ブルマイリヤ]違うよぅタイガ、タイガはそんなカッコイイキャラじゃないよぅ！」",
+      "Pt-br": "\"Não...! [l][hfwww layer=1][say storage=HSTRE2_BIR_0060 _name=ブルマイリヤ]Tá tudo errado, Taiga! Você não deveria ser uma personagem tão legal assim!\"",
+      "id": 44510,
+      "epk_id": "44300",
+      "label": "$$$message_0380_0001_0005$$$"
+    },
+    {
+      "en": "\"Also, [l][hfchance layer=1][say storage=HSTRE2_BIR_0090 _name=ブルマイリヤ]I don't understand![lr]",
+      "jp": "「あと、[l][hfchance layer=1][say storage=HSTRE2_BIR_0090 _name=ブルマイリヤ]難しくてよく分かんない！[lr]",
+      "Pt-br": "\"Além disso, [l][hfchance layer=1][say storage=HSTRE2_BIR_0090 _name=ブルマイリヤ]eu não entendo![lr]",
+      "id": 44511,
+      "epk_id": "44301",
+      "label": "$$$message_0380_0001_0006$$$"
+    },
+    {
+      "en": "[hffacechg chara=ブルマイリヤ face=哀2 layer=1 time=200]Are you telling me that you turned into experience points for me to level up?\"",
+      "jp": "　[hffacechg chara=ブルマイリヤ face=哀2 layer=1 time=200]要するにレベルアップの為の経験値になったってコト？」",
+      "Pt-br": "[hffacechg chara=ブルマイリヤ face=哀2 layer=1 time=200]Você tá me dizendo que virou pontos de experiência para eu subir de nível?\"",
+      "id": 44512,
+      "epk_id": "44302",
+      "label": "$$$message_0380_0001_0007$$$"
+    },
+    {
+      "en": "\"...Heh. That's the dead simple truth. Hehe...\"",
+      "jp": "「……フフフ、夢も希望もない真実、フフフ……」",
+      "Pt-br": "\"...Heh. Essa é a mais pura verdade. Hehe...\"",
+      "id": 44513,
+      "epk_id": "44303",
+      "label": "$$$message_0380_0001_0008$$$"
+    },
+    {
+      "en": "\"But it's okay, Illya.[lr]",
+      "jp": "「でもそれでいいのイリヤちゃん。[lr]",
+      "Pt-br": "\"Mas tudo bem, Illya-chan.[lr]",
+      "id": 44514,
+      "epk_id": "44304",
+      "label": "$$$message_0380_0001_0009$$$"
+    },
+    {
+      "en": "Let's just say you can be my dream now...\"",
+      "jp": "　まあなんだ、つまるところわたしの夢になってＹＯ……」",
+      "Pt-br": "Digamos apenas que você pode ser o meu sonho agora...\"",
+      "id": 44515,
+      "epk_id": "44305",
+      "label": "$$$message_0380_0001_0010$$$"
+    },
+    {
+      "en": "\"That sounds like it would be a huge pain in the butt. [l][hfchance layer=1][say storage=HSTRE2_BIR_0140 _name=ブルマイリヤ]I don't want this at all![lr]",
+      "jp": "「なにか色々と面倒な事になりそうだし[l][hfchance layer=1][say storage=HSTRE2_BIR_0140 _name=ブルマイリヤ]絶対にイヤ！[lr]",
+      "Pt-br": "\"Isso parece que vai ser um pé no saco gigante. [l][hfchance layer=1][say storage=HSTRE2_BIR_0140 _name=ブルマイリヤ]Eu não quero isso de jeito nenhum![lr]",
+      "id": 44516,
+      "epk_id": "44306",
+      "label": "$$$message_0380_0001_0011$$$"
+    },
+    {
+      "en": "[hfwww layer=1]And I have no idea what you're talking about!\"",
+      "jp": "　[hfwww layer=1]ていうか全然訳わかんないし！」",
+      "Pt-br": "[hfwww layer=1]E eu não faço ideia do que você tá falando!\"",
+      "id": 44517,
+      "epk_id": "44307",
+      "label": "$$$message_0380_0001_0012$$$"
+    },
+    {
+      "en": "\"Hurgh...[l][hffeelblue layer=0][say storage=HSTRE2_TIG_0110 _name=藤ねえ]blargh.\"",
+      "jp": "「ふ[line len=3][l][hffeelblue layer=0][say storage=HSTRE2_TIG_0110 _name=藤ねえ]がくり」",
+      "Pt-br": "\"Urgh...[l][hffeelblue layer=0][say storage=HSTRE2_TIG_0110 _name=藤ねえ]blargh.\"",
+      "id": 44518,
+      "epk_id": "44308",
+      "label": "$$$message_0380_0001_0013$$$"
+    },
+    {
+      "en": "\"TAIGAAAAAA!\"[rf][nolr][p]",
+      "jp": "「タイガぁあああ……！」[rf][nolr][p]",
+      "Pt-br": "\"TAIGAAAAAA!\"[rf][nolr][p]",
+      "id": 44519,
+      "epk_id": "44309",
+      "label": "$$$message_0380_0001_0014$$$"
+    },
+    {
+      "en": "\"The stars are moving on their own... Is that the Holy Grail...?\"[nolr][p]",
+      "jp": "「星が勝手に……アレが聖杯……？」[nolr][p]",
+      "Pt-br": "\"As estrelas estão se movendo sozinhas... Aquilo é o Santo Graal...?\"[nolr][p]",
+      "id": 44520,
+      "epk_id": "44310",
+      "label": "$$$message_0380_0001_0015$$$"
+    },
+    {
+      "en": "\"You've done well to arrive here, traveler from another world. In the name of celestial motion, I shall grant you one wish.\"",
+      "jp": "「よくぞここまで辿り着いた、異世界の旅人よ。星辰の[ruby text=めぐり]巡のもと、願いを一つだけ叶えてやろう」",
+      "Pt-br": "\"Você fez bem em chegar até aqui, viajante de outro mundo. Em nome do movimento celestial, concederei a você um desejo.\"",
+      "id": 44521,
+      "epk_id": "44311",
+      "label": "$$$message_0380_0001_0016$$$"
+    },
+    {
+      "en": "\"A wish...? My wish?\"",
+      "jp": "「願い……？　わたしの願い……？」",
+      "Pt-br": "\"Um desejo...? O meu desejo?\"",
+      "id": 44522,
+      "epk_id": "44312",
+      "label": "$$$message_0380_0001_0017$$$"
+    },
+    {
+      "en": "\"Right! Make the whole world into a gym...!\"[wait canskip=0 time=800]",
+      "jp": "「そうだ、全世界にブル……！」[wait canskip=0 time=800]",
+      "Pt-br": "\"Certo! Transforme o mundo inteiro numa academia...!\"[wait canskip=0 time=800]",
+      "id": 44523,
+      "epk_id": "44313",
+      "label": "$$$message_0380_0001_0018$$$"
+    },
+    {
+      "en": "\"...No, I don't care about that anymore. If you're a god, then bring Taiga back to life.\"[wm canskip=0]",
+      "jp": "「……ううん、そんなのどうでもいいわ。あなたが神様ならお願い。タイガを生き返らせてあげて」[wm canskip=0]",
+      "Pt-br": "\"...Não, eu não ligo mais pra isso. Se você é um deus, então traga a Taiga de volta à vida.\"[wm canskip=0]",
+      "id": 44524,
+      "epk_id": "44314",
+      "label": "$$$message_0380_0001_0019$$$"
+    },
+    {
+      "en": "\"...Oh? [l][hfwww layer=0][say storage=HSTRE2_HSI_0030 _name=星神]You could ask me to make you the heroine of your own storyline, you know.\"",
+      "jp": "「……なんと。[l][hfwww layer=0][say storage=HSTRE2_HSI_0030 _name=星神]おまえがヒロインのシナリオを作る事も出来るのだぞ？」",
+      "Pt-br": "\"...Oh? [l][hfwww layer=0][say storage=HSTRE2_HSI_0030 _name=星神]Você poderia me pedir para transformá-la na heroína da sua própria história, sabia.\"",
+      "id": 44525,
+      "epk_id": "44315",
+      "label": "$$$message_0380_0001_0020$$$"
+    },
+    {
+      "en": "\"Sadly, that won't happen... And if it was going to be all official, then that wish would belong to the Illya of this world.\"",
+      "jp": "「残念だけどしょうがないわ。……それに、そういう正式っぽいのはこっちの世界のイリヤの願いだもの」",
+      "Pt-br": "\"Infelizmente, isso não vai rolar... E se fosse para ser algo oficial, então esse desejo pertenceria à Illya deste mundo.\"",
+      "id": 44526,
+      "epk_id": "44316",
+      "label": "$$$message_0380_0001_0021$$$"
+    },
+    {
+      "en": "\"I'm the Master of this strange Servant. I have to look after her.\"",
+      "jp": "「わたしは、このヘンなサーヴァントのマスターだから。ちゃんと面倒みてあげないと」",
+      "Pt-br": "\"Eu sou a Mestra desta Serva esquisita. Tenho que cuidar dela.\"",
+      "id": 44527,
+      "epk_id": "44317",
+      "label": "$$$message_0380_0001_0022$$$"
+    },
+    {
+      "en": "\"...Are you sure?\"",
+      "jp": "「……本当によいのか？」",
+      "Pt-br": "\"...Tem certeza?\"",
+      "id": 44528,
+      "epk_id": "44318",
+      "label": "$$$message_0380_0001_0023$$$"
+    },
+    {
+      "en": "\"At this rate, both of you will take on peculiar character traits...\"",
+      "jp": "「このままだと、おまえはタイガと共によく分からないキャラ属性になって、」",
+      "Pt-br": "\"Nesse ritmo, vocês duas assumirão traços de caráter peculiares...\"",
+      "id": 44529,
+      "epk_id": "44319",
+      "label": "$$$message_0380_0002_0000$$$"
+    },
+    {
+      "en": "\"And you'll be destined to play nothing but peculiar roles in peculiar worlds.\"",
+      "jp": "「よく分からない世界でよく分からない役どころばっかり与えられるのだぞ？」",
+      "Pt-br": "\"E estarão destinadas a desempenhar nada além de papéis peculiares em mundos peculiares.\"",
+      "id": 44530,
+      "epk_id": "44320",
+      "label": "$$$message_0380_0003_0000$$$"
+    },
+    {
+      "en": "\"I'll be blunt. A harsh fate lies in store for you.\"",
+      "jp": "「ハッキリいって辛いぞ？」",
+      "Pt-br": "\"Serei franco. Um destino cruel a aguarda.\"",
+      "id": 44531,
+      "epk_id": "44321",
+      "label": "$$$message_0380_0003_0001$$$"
+    },
+    {
+      "en": "\"...Yeah. I think I know what you mean.\"",
+      "jp": "「……そうね。わたしもなんとなく先が分かっちゃった」",
+      "Pt-br": "\"...É. Acho que sei o que você quer dizer.\"",
+      "id": 44532,
+      "epk_id": "44322",
+      "label": "$$$message_0380_0003_0002$$$"
+    },
+    {
+      "en": "\"Taiga and I are going to learn about a lot of events, and we won't get to interact with any normal timelines' stories because we know them all.\"",
+      "jp": "「わたしとタイガはこれから色んな出来事を知って、全部知っちゃったコトで、ちゃんとした時間軸の物語には関われなくなる」",
+      "Pt-br": "\"A Taiga e eu vamos aprender sobre muitos eventos, e não poderemos interagir com nenhuma história de linhas do tempo normais porque já conheceremos todas elas.\"",
+      "id": 44533,
+      "epk_id": "44323",
+      "label": "$$$message_0380_0003_0003$$$"
+    },
+    {
+      "en": "\"Um, it's like we'll be ghosts haunting a bunch of different worlds, right?\"",
+      "jp": "「えーと、色んな世界をさまよう幽霊みたいになっちゃうのよね？」",
+      "Pt-br": "\"Hum, é como se fôssemos fantasmas assombrando um monte de mundos diferentes, certo?\"",
+      "id": 44534,
+      "epk_id": "44324",
+      "label": "$$$message_0380_0003_0004$$$"
+    },
+    {
+      "en": "\"Correct. Scene shifters, if you will.\"",
+      "jp": "「そうだ。人それを裏方と言う」",
+      "Pt-br": "\"Correto. Trocadoras de cena, por assim dizer.\"",
+      "id": 44535,
+      "epk_id": "44325",
+      "label": "$$$message_0380_0003_0005$$$"
+    },
+    {
+      "en": "\"Yeah. But that also means anything could happen. While we won't have a home to go back to, we can go anywhere.\"",
+      "jp": "「うん。でも、それってなんでもありって事でしょう？　何処にも居場所はないけど、かわりに何処にでも行けるんだわ」",
+      "Pt-br": "\"Sim. Mas isso também significa que qualquer coisa pode acontecer. Embora a gente não tenha um lar para onde voltar, podemos ir a qualquer lugar.\"",
+      "id": 44536,
+      "epk_id": "44326",
+      "label": "$$$message_0380_0003_0006$$$"
+    },
+    {
+      "en": "\"It would be lonely all by myself, but I won't be bored with that loud idiot around. It's actually a happy ending, if you think about it.\"",
+      "jp": "「一人なら寂しい時もあるけど、騒がしいおバカと一緒なら退屈はしないだろうし。それって、わりとハッピーじゃない？」",
+      "Pt-br": "\"Seria solitário ficar sozinha, mas não vou ficar entediada com aquela idiota barulhenta por perto. Na verdade, é um final feliz, se você parar pra pensar.\"",
+      "id": 44537,
+      "epk_id": "44327",
+      "label": "$$$message_0380_0003_0007$$$"
+    },
+    {
+      "en": "\"I see... Then I will question you no further.[lr]",
+      "jp": "「そうか……ならば何も言うまい。[lr]",
+      "Pt-br": "\"Entendo... Então não a questionarei mais.[lr]",
+      "id": 44538,
+      "epk_id": "44328",
+      "label": "$$$message_0380_0003_0008$$$"
+    },
+    {
+      "en": "[hfwww layer=0][nolr]Return to life, Servant. Use your power to spread chaos through the world!\"[p]",
+      "jp": "　[hfwww layer=0][nolr]蘇るがいいサーヴァントよ。その力、今一度世の混乱の為に揮うのだー」[p]",
+      "Pt-br": "[hfwww layer=0][nolr]Retorne à vida, Serva. Use seu poder para espalhar o caos pelo mundo!\"[p]",
+      "id": 44539,
+      "epk_id": "44329",
+      "label": "$$$message_0380_0003_0009$$$"
+    },
+    {
+      "en": "\"Farewell. If we are still fated to meet again, let it be in a hundred years!\"[nolr][p]",
+      "jp": "「さらばだ。縁が残っているのなら、百年後に会おうぞー」[nolr][p]",
+      "Pt-br": "\"Adeus. Se ainda estivermos fadados a nos encontrar novamente, que seja daqui a cem anos!\"[nolr][p]",
+      "id": 44540,
+      "epk_id": "44330",
+      "label": "$$$message_0380_0003_0010$$$"
+    },
+    {
+      "en": "\"Mm...\"",
+      "jp": "「……ん……」",
+      "Pt-br": "\"Mm...\"",
+      "id": 44541,
+      "epk_id": "44331",
+      "label": "$$$message_0380_0003_0011$$$"
+    },
+    {
+      "en": "\"Taiga! [hffacechg chara=ブルマイリヤ face=感動 layer=1 left=7 top=397 time=200][l][say storage=HSTRE2_BIR_0320 _name=ブルマイリヤ]Thank goodness, you woke up!\"",
+      "jp": "「タイガ！　[hffacechg chara=ブルマイリヤ face=感動 layer=1 left=7 top=397 time=200][l][say storage=HSTRE2_BIR_0320 _name=ブルマイリヤ]良かった、気が付いたのね！」",
+      "Pt-br": "\"Taiga! [hffacechg chara=ブルマイリヤ face=感動 layer=1 left=7 top=397 time=200][l][say storage=HSTRE2_BIR_0320 _name=ブルマイリヤ]Graças a Deus, você acordou!\"",
+      "id": 44542,
+      "epk_id": "44332",
+      "label": "$$$message_0380_0003_0012$$$"
+    },
+    {
+      "en": "\"Guagh! Is this some next-generation natural disaster!?\"",
+      "jp": "「ごぱっ！？　次世代の天変地異！？」",
+      "Pt-br": "\"Guagh! Isso é algum tipo de desastre natural de nova geração!?\"",
+      "id": 44543,
+      "epk_id": "44333",
+      "label": "$$$message_0380_0004_0000$$$"
+    },
+    {
+      "en": "\"[hfwww layer=0]The first thing I see when I wake up is Gym Shorts elbowing me in the stomach!\"",
+      "jp": "「[hfwww layer=0]気が付けば目の前にいたブルマが、わたしの鳩尾に渾身のエルボーをぉ！？」",
+      "Pt-br": "\"[hfwww layer=0]A primeira coisa que vejo quando acordo é a Shorts de Ginástica me dando uma cotovelada no estômago!\"",
+      "id": 44544,
+      "epk_id": "44334",
+      "label": "$$$message_0380_0005_0000$$$"
+    },
+    {
+      "en": "\"Oh, sorry. I tripped and my elbow just ended up there.\"",
+      "jp": "「あ、ごめんごめん、つまずいた拍子に肘めりこませちゃった」",
+      "Pt-br": "\"Ah, foi mal. Eu tropecei e meu cotovelo acabou indo parar aí.\"",
+      "id": 44545,
+      "epk_id": "44335",
+      "label": "$$$message_0380_0005_0001$$$"
+    },
+    {
+      "en": "\"...You did that on purpose. [l][hfchance layer=0][say storage=HSTRE2_TIG_0190 _name=藤ねえ]Totally.\"",
+      "jp": "「……ワザとね。いまの、[l][hfchance layer=0][say storage=HSTRE2_TIG_0190 _name=藤ねえ]絶対ワザと」",
+      "Pt-br": "\"...Você fez isso de propósito. [l][hfchance layer=0][say storage=HSTRE2_TIG_0190 _name=藤ねえ]Com certeza.\"",
+      "id": 44546,
+      "epk_id": "44336",
+      "label": "$$$message_0380_0006_0000$$$"
+    },
+    {
+      "en": "\"Yeah. It's a little punishment for a Servant who went AWOL.\"",
+      "jp": "「まあね。勝手なコトしたサーヴァントにちょっとお仕置きしたの」",
+      "Pt-br": "\"É. É um pequeno castigo pra uma Serva que desertou do posto.\"",
+      "id": 44547,
+      "epk_id": "44337",
+      "label": "$$$message_0380_0006_0001$$$"
+    },
+    {
+      "en": "\"I have a lot of words for you, but that makes us even, my meat cushion.\"",
+      "jp": "「文句はいっぱいあるけど、さっきのはこれで全部チャラにしてあげるわ、肉布団さん」",
+      "Pt-br": "\"Eu tenho muita coisa pra te dizer, mas estamos quites, minha almofada de carne.\"",
+      "id": 44548,
+      "epk_id": "44338",
+      "label": "$$$message_0380_0006_0002$$$"
+    },
+    {
+      "en": "\"Hmm. This feels familiar.[lr]",
+      "jp": "「むー。どこか覚えのある展開。[lr]",
+      "Pt-br": "\"Hmm. Isso parece familiar.[lr]",
+      "id": 44549,
+      "epk_id": "44339",
+      "label": "$$$message_0380_0006_0003$$$"
+    },
+    {
+      "en": "But I'm happy, so I won't use the Bear Claw on you.\"",
+      "jp": "　けど嬉しいんでベアクローはしないであげるわ」",
+      "Pt-br": "Mas eu tô feliz, então não vou usar a Garra de Urso em você.\"",
+      "id": 44550,
+      "epk_id": "44340",
+      "label": "$$$message_0380_0006_0004$$$"
+    },
+    {
+      "en": "\"Then I'll treat you like a bed pillow and look up at the stars while hugging you.\"",
+      "jp": "「布団は布団らしく、イリヤちゃんを抱えたままキレイな星空を見上げるのであった」",
+      "Pt-br": "\"Então vou te usar como travesseiro e olhar para as estrelas enquanto te abraço, Illya-chan.\"",
+      "id": 44551,
+      "epk_id": "44341",
+      "label": "$$$message_0380_0006_0005$$$"
+    },
+    {
+      "en": "\"Yeah. The sky's so big.[lr]",
+      "jp": "「うん。空、おっきいね。[lr]",
+      "Pt-br": "\"É. O céu é tão grande.[lr]",
+      "id": 44552,
+      "epk_id": "44342",
+      "label": "$$$message_0380_0007_0000$$$"
+    },
+    {
+      "en": "When I lie down and stare up at it, it feels like it's going to swallow me up.\"[nolr][p]",
+      "jp": "　こうやって寝そべったまま見上げてると、吸い込まれちゃいそうよ」[nolr][p]",
+      "Pt-br": "Quando eu deito e fico olhando pra ele, sinto como se fosse me engolir.\"[nolr][p]",
+      "id": 44553,
+      "epk_id": "44343",
+      "label": "$$$message_0380_0007_0001$$$"
+    },
+    {
+      "en": "\"You mean you're scared of it, Illya?\"[nolr][p]",
+      "jp": "「むむむ。それは怖いって意味かしらイリヤちゃん」[nolr][p]",
+      "Pt-br": "\"Quer dizer que você tem medo, Illya-chan?\"[nolr][p]",
+      "id": 44554,
+      "epk_id": "44344",
+      "label": "$$$message_0380_0007_0002$$$"
+    },
+    {
+      "en": "\"On the contrary.[lr]",
+      "jp": "「その逆。[lr]",
+      "Pt-br": "\"Pelo contrário.[lr]",
+      "id": 44555,
+      "epk_id": "44345",
+      "label": "$$$message_0380_0007_0003$$$"
+    },
+    {
+      "en": "I'm not holding any stars anymore, but I can see that there are still plenty more out there.\"[nolr][p]",
+      "jp": "　手持ちの星はなくなっちゃったけど、まだまだ星はいっぱいあるんだなって」[nolr][p]",
+      "Pt-br": "Eu não tô segurando mais nenhuma estrela, mas consigo ver que ainda tem muitas outras lá fora.\"[nolr][p]",
+      "id": 44556,
+      "epk_id": "44346",
+      "label": "$$$message_0380_0007_0004$$$"
+    },
+    {
+      "en": "\"As long as the sky is still there, I don't think our Holy Grail War will be ending anytime soon.\"[nolr][p]",
+      "jp": "「この空があるかぎり、わたしたちの聖杯戦争は終わりそうにないってコト」[nolr][p]",
+      "Pt-br": "\"Enquanto o céu ainda estiver lá, não acho que a nossa Guerra do Santo Graal vai acabar tão cedo.\"[nolr][p]",
+      "id": 44557,
+      "epk_id": "44347",
+      "label": "$$$message_0380_0007_0005$$$"
+    },
+    {
+      "en": "\"...Yeah? So where are we off to next?[lr]",
+      "jp": "「……そっか。じゃあ次は何処に行く？[lr]",
+      "Pt-br": "\"...É? E pra onde a gente vai agora?[lr]",
+      "id": 44558,
+      "epk_id": "44348",
+      "label": "$$$message_0380_0007_0006$$$"
+    },
+    {
+      "en": "If the war's still going, then I have to protect you.\"[nolr][p]",
+      "jp": "　聖杯戦争が続いてるんなら、わたしはイリヤちゃんを守らないとね」[nolr][p]",
+      "Pt-br": "Se a guerra ainda tá rolando, então eu tenho que te proteger, Illya-chan.\"[nolr][p]",
+      "id": 44559,
+      "epk_id": "44349",
+      "label": "$$$message_0380_0007_0007$$$"
+    },
+    {
+      "en": "\"I'm your Servant and your master, so I'll stick with you until you're tired of it all.\"[nolr][p]",
+      "jp": "「サーヴァントかつ師匠なんだから、イリヤちゃんがへこたれるまで付き合ってあげるわ」[nolr][p]",
+      "Pt-br": "\"Eu sou a sua Serva e a sua Mestre, então vou grudar em você até você se cansar disso tudo, Illya-chan.\"[nolr][p]",
+      "id": 44560,
+      "epk_id": "44350",
+      "label": "$$$message_0380_0007_0008$$$"
+    },
+    {
+      "en": "\"Thanks, Taiga.[lr]",
+      "jp": "「ありがとタイガ。[lr]",
+      "Pt-br": "\"Valeu, Taiga.[lr]",
+      "id": 44561,
+      "epk_id": "44351",
+      "label": "$$$message_0380_0007_0009$$$"
+    },
+    {
+      "en": "Then let's head to the Atlantic. We'll look for the first star which flew off in that direction.\"",
+      "jp": "　それじゃ次は大西洋、飛び去った一つ目の星を見つけに行くわ」",
+      "Pt-br": "Então vamos para o Atlântico. Vamos procurar a primeira estrela que voou naquela direção.\"",
+      "id": 44562,
+      "epk_id": "44352",
+      "label": "$$$message_0380_0007_0010$$$"
+    },
+    {
+      "en": "\"But we can start tomorrow.[lr]",
+      "jp": "「けど、それは明日になってからの話。[lr]",
+      "Pt-br": "\"Mas podemos começar amanhã.[lr]",
+      "id": 44563,
+      "epk_id": "44353",
+      "label": "$$$message_0380_0008_0000$$$"
+    },
+    {
+      "en": "Tonight, I just want to watch the stars.\"[nolr][p]",
+      "jp": "　今夜はこのまま、ぼけっと空を見上げてましょ」[nolr][p]",
+      "Pt-br": "Esta noite, eu só quero olhar para as estrelas.\"[nolr][p]",
+      "id": 44564,
+      "epk_id": "44354",
+      "label": "$$$message_0380_0008_0001$$$"
+    },
+    {
+      "en": "\"Sure thing. So, the Atlantic Ocean, eh? Going from a fight in one city to a globetrotting adventure is a heck of a step up.\"",
+      "jp": "「いいわよー。そっかー、次は大西洋かぁ。ご町内の戦いから世界規模なんて、一気に風呂敷広げたものね」",
+      "Pt-br": "\"Pode apostar. Então, Oceano Atlântico, hein? Sair de uma briga numa única cidade para uma aventura pelo mundo todo é um belo salto.\"",
+      "id": 44565,
+      "epk_id": "44355",
+      "label": "$$$message_0380_0008_0002$$$"
+    },
+    {
+      "en": "\"Oh, getting cold feet?\"",
+      "jp": "「あら。怖じ気付いたのタイガ？」",
+      "Pt-br": "\"Oh, tá amarelando?\"",
+      "id": 44566,
+      "epk_id": "44356",
+      "label": "$$$message_0380_0008_0003$$$"
+    },
+    {
+      "en": "\"Wahahaha! I'm getting chills all right, from sheer excitement! All right, let's go conquer the world!\"",
+      "jp": "「わははは、寒気は寒気でもワクワクして震えてるのだ！　よーし、いっちょ世界征服でもやらかすかー！」",
+      "Pt-br": "\"Wahahaha! Eu tô tendo calafrios sim, de pura empolgação! Beleza, vamos conquistar o mundo!\"",
+      "id": 44567,
+      "epk_id": "44357",
+      "label": "$$$message_0380_0008_0004$$$"
+    },
+    {
+      "en": "\"That's the spirit, Taiga![lr]",
+      "jp": "「ええ、その意気よタイガ！[lr]",
+      "Pt-br": "\"Esse é o espírito, Taiga![lr]",
+      "id": 44568,
+      "epk_id": "44358",
+      "label": "$$$message_0380_0008_0005$$$"
+    },
+    {
+      "en": "[hfwww layer=1]Our battle's just begun!\"",
+      "jp": "　[hfwww layer=1]わたしたちの戦いはまだまだ続くんだからー！」",
+      "Pt-br": "[hfwww layer=1]Nossa batalha só começou!\"",
+      "id": 44569,
+      "epk_id": "44359",
+      "label": "$$$message_0380_0008_0006$$$"
+    },
+    {
+      "en": "And that's how our Holy Grail War ended, for now.",
+      "jp": "「こうして、わたしたちの聖杯戦争はとりあえず終わりました。」",
+      "Pt-br": "\"E foi assim que a nossa Guerra do Santo Graal terminou, por enquanto.\"",
+      "id": 44570,
+      "epk_id": "44360",
+      "label": "$$$message_0380_0009_0000$$$"
+    },
+    {
+      "en": "Taiga and I set off on a merry tour of the world with no destination.",
+      "jp": "「わたしとタイガは陽気に仲良く、ゴールもないまま世界を巡っていくのです。」",
+      "Pt-br": "Taiga e eu partimos em uma turnê alegre pelo mundo, sem destino.",
+      "id": 44571,
+      "epk_id": "44361",
+      "label": "$$$message_0380_0010_0000$$$"
+    },
+    {
+      "en": "But even that will end eventually.[lr]",
+      "jp": "「でも、それにだって終わりはあるわ。[lr]",
+      "Pt-br": "Mas até isso vai acabar, eventualmente.[lr]",
+      "id": 44572,
+      "epk_id": "44362",
+      "label": "$$$message_0380_0010_0001$$$"
+    },
+    {
+      "en": "It might be an aimless journey, but I'm sure we'll find a place to call home, someday.",
+      "jp": "　アテのない旅だけど、こうやっていればいつか居場所が見つかるわよね。」",
+      "Pt-br": "Pode ser uma jornada sem rumo, mas tenho certeza que encontraremos um lugar para chamar de lar, algum dia.",
+      "id": 44573,
+      "epk_id": "44363",
+      "label": "$$$message_0380_0010_0002$$$"
+    },
+    {
+      "en": "We can only shine behind the scenes, but that's an opportunity all its own. We'll help those who fall off the stage get back on their feet.",
+      "jp": "「舞台裏にしか出番はないけど、それならそれで開き直って、舞台から転がり落ちた人たちの役に立ってあげましょう[line len=3]」",
+      "Pt-br": "\"Nós só podemos brilhar nos bastidores, mas essa já é uma oportunidade por si só. Vamos ajudar aqueles que caírem do palco a se levantarem de novo.\"",
+      "id": 44574,
+      "epk_id": "44364",
+      "label": "$$$message_0380_0011_0000$$$"
+    },
+    {
+      "en": "This tale is over for now.",
+      "jp": "「というワケで、これにて一件落着。」",
+      "Pt-br": "\"Este conto acabou por agora.\"",
+      "id": 44575,
+      "epk_id": "44365",
+      "label": "$$$message_0380_0011_0001$$$"
+    },
+    {
+      "en": "The story of how they would open a strange dojo in a strange place comes just an itty bitty while later.[nolr][whitestar][p]",
+      "jp": "「戦いの末、二人がおかしな場所でおかしな道場を開くのはもうちょっと後、もうずっと後のお話なのでした[line len=3]☆」[nolr][p]",
+      "Pt-br": "\"A história de como elas abririam um dojô estranho em um lugar estranho vem só mais um pouquinho depois.\"[nolr][whitestar][p]",
+      "id": 44576,
+      "epk_id": "44366",
+      "label": "$$$message_0380_0012_0000$$$"
+    }
+  ]
+}

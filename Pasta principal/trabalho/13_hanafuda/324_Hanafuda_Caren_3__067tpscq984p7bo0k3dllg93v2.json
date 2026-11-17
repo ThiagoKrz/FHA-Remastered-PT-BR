@@ -1,0 +1,744 @@
+{
+  "cena": "067tpscq984p7bo0k3dllg93v2",
+  "titulo": "Hanafuda: Caren 3",
+  "rota": "Hanafuda",
+  "arquivo": "067tpscq984p7bo0k3dllg93v2.epk_dec",
+  "linhas": [
+    {
+      "en": "\"The hell?[lr]",
+      "jp": "ãããï¼[lr]",
+      "Pt-br": "\"Mas que diabos?[lr]",
+      "id": 41926,
+      "epk_id": "19599",
+      "label": "$$$message_0214_0000_0000$$$"
+    },
+    {
+      "en": "Oi, the hot springs are in the mountains. What are we going to the temple for?\"",
+      "jp": "ããªãã ããæ¸©æ³ãªãå±±ã®æ¹ã ããå¯ºã«ç¨ã¯ã­ãã ããã",
+      "Pt-br": "Ei, o onsen fica nas montanhas. Por que estamos indo ao templo?\"",
+      "id": 41927,
+      "epk_id": "19600",
+      "label": "$$$message_0214_0000_0001$$$"
+    },
+    {
+      "en": "\"The hot springs are important, but there is something I must attend to here.\"",
+      "jp": "ããããæ¸©æ³ãå¤§äºã§ããããã¡ããæ¨ã¦ã¦ã¯ããã¾ããã",
+      "Pt-br": "\"O onsen é importante, mas há um assunto do qual preciso cuidar aqui.\"",
+      "id": 41928,
+      "epk_id": "19601",
+      "label": "$$$message_0214_0000_0002$$$"
+    },
+    {
+      "en": "\"Terminate your next opponent with extreme prejudice, Lancer, Archer.\"",
+      "jp": "ãæ¬¡ã®ç¸æã¯ç¹å¥å¿µå\n¥ãã«ä»çããªãããã©ã³ãµã¼ãã¢ã¼ãã£ã¼ã",
+      "Pt-br": "\"Eliminem seus próximos adversários sem a menor piedade, Lancer, Archer.\"",
+      "id": 41929,
+      "epk_id": "19602",
+      "label": "$$$message_0214_0000_0003$$$"
+    },
+    {
+      "en": "[hfu][cm]\"[hfl]\"[hfu]?[hfl]?[hfu]?[hfl]?[hfu]\"[hfl]\"",
+      "jp": "[hfu][cm]ã[hfl]ã[hfu]ï¼[hfl]ï¼[hfu]ï¼[hfl]ï¼[hfu]ã[hfl]ã",
+      "Pt-br": "[hfu][cm]\"[hfl]\"[hfu]?[hfl]?[hfu]?[hfl]?[hfu]\"[hfl]\"",
+      "id": 41930,
+      "epk_id": "19603",
+      "label": "$$$message_0214_0001_0000$$$"
+    },
+    {
+      "en": "\"Is there a problem?\"",
+      "jp": "ãä½ãçåã§ãï¼ã",
+      "Pt-br": "\"Há algum problema?\"",
+      "id": 41931,
+      "epk_id": "19604",
+      "label": "$$$message_0214_0001_0001$$$"
+    },
+    {
+      "en": "\"Well, you being batshit crazy is nothing new, so I won't pry.[lr]",
+      "jp": "ãããããªãã¨ã®çä¸å°½ãã¯ä»ã«å§ã¾ã£ãã³ãããã­ãããè¨ãã­ãããã[lr]",
+      "Pt-br": "\"Bem, você ser completamente maluca não é novidade, então não vou perguntar.[lr]",
+      "id": 41932,
+      "epk_id": "19605",
+      "label": "$$$message_0214_0001_0002$$$"
+    },
+    {
+      "en": "But what's so special about this one?\"",
+      "jp": "ããªãã ã£ã¦ç¹å¥å¿µå\n¥ããªãã ï¼ã",
+      "Pt-br": "Mas o que esses dois têm de tão especial?\"",
+      "id": 41933,
+      "epk_id": "19606",
+      "label": "$$$message_0214_0001_0003$$$"
+    },
+    {
+      "en": "\"It's just that they've looked so terribly happy lately.\"",
+      "jp": "ãã¯ããæè¿ã®ãã®æ¹ãè¦ãç®ãã¨ã¦ãå¹¸ãããã§ãããã",
+      "Pt-br": "\"É que eles andam parecendo felizes demais.\"",
+      "id": 41934,
+      "epk_id": "19607",
+      "label": "$$$message_0214_0001_0004$$$"
+    },
+    {
+      "en": "\"Ahh, so that's it.[lr]",
+      "jp": "ããã¼ãããããã³ãã­ã[lr]",
+      "Pt-br": "\"Ah, então é isso.[lr]",
+      "id": 41935,
+      "epk_id": "19608",
+      "label": "$$$message_0214_0001_0005$$$"
+    },
+    {
+      "en": "...Good grief, you truly are a devil.\"",
+      "jp": "ãâ¦â¦ã£ãããæ¬å½ã¯æªé­ã ãããªãã¨ã",
+      "Pt-br": "...Francamente, você é mesmo um demônio.\"",
+      "id": 41936,
+      "epk_id": "41713",
+      "label": "$$$message_0214_0001_0006$$$"
+    },
+    {
+      "en": "\"Souichirou... Are you going to work even on your day off...?\"",
+      "jp": "ãå®ä¸éæ§[line len=3]ãã®ãæ®ãã®ä¼ã¿ããã¾ãåºå¤ãªã®ã§ããããâ¦â¦ï¼ã",
+      "Pt-br": "\"Souichirou-sama... Você vai trabalhar mesmo no seu dia de folga...?\"",
+      "id": 41937,
+      "epk_id": "41714",
+      "label": "$$$message_0214_0002_0000$$$"
+    },
+    {
+      "en": "\"Yes. The principal asked me to fill in during winter break.\"",
+      "jp": "ããããæ ¡é·ã«é ¼ã¾ãã¦ãããå¬ã®ä¼ã¿ã¯è¨æåºå¤ãã¦ã»ããããã ã",
+      "Pt-br": "\"Sim. O diretor pediu que eu o substituísse durante as férias de inverno.\"",
+      "id": 41938,
+      "epk_id": "41715",
+      "label": "$$$message_0214_0002_0001$$$"
+    },
+    {
+      "en": "\"I-[wait canskip=0 time=300]I see... [wait canskip=0 time=200][hffacechg chara=キャスター face=喜 layer=0 time=200]Yes, [hfsweat layer=0]I understand, of course! [hfwww leyer=0]I'm not against it. I'm a good wife, after all!\"",
+      "jp": "ããã[wait canskip=0 time=300]ããã§ããã­â¦â¦[wait canskip=0 time=200][hffacechg chara=ã­ã£ã¹ã¿ã¼ face=å layer=0 time=200]ããããã[hfsweat layer=0]ãã¡ããåãã£ã¦ãã¾ãã¨ãï¼ã[hfwww leyer=0]åå¯¾ãªã©ãããã¾ãããç§ã¯ã§ããå¦»ã§ãããï¼ã",
+      "Pt-br": "\"E-[wait canskip=0 time=300]entendo... [wait canskip=0 time=200][hffacechg chara=キャスター face=喜 layer=0 time=200]Sim, [hfsweat layer=0]claro que entendo! [hfwww leyer=0]Não sou contra. Afinal, sou uma boa esposa!\"",
+      "id": 41939,
+      "epk_id": "41716",
+      "label": "$$$message_0214_0002_0002$$$"
+    },
+    {
+      "en": "\"If your workplace needs you, then I should support you [hfchance layer=0]as your wife... [wait canskip=0 time=300][hffacechg chara=キャスター face=哀 layer=0 time=200][hfsigh layer=0]I should...[wait canskip=0 time=500][hffacechg chara=キャスター face=哀2 layer=0 time=200][se storage=se422.wav][hfangry layer=0] Waaaaahhhhh!\"",
+      "jp": "ãå®ä¸éæ§ã¯è·å ´ã«å¿\nè¦ã¨ããã¦ããã®ã§ããããå¦»ã¨ãã¦ã[hfchance layer=0]ç§ãå¿æ´ããªãã¦ã¯ã[wait canskip=0 time=300][hffacechg chara=ã­ã£ã¹ã¿ã¼ face=å layer=0 time=200][hfsigh layer=0]ããªãã¦ã¯ã[wait canskip=0 time=500][hffacechg chara=ã­ã£ã¹ã¿ã¼ face=å2 layer=0 time=200][se storage=se422.wav][hfangry layer=0]ããããããâ¦â¦ï¼ã",
+      "Pt-br": "\"Se precisam de você no trabalho, devo apoiá-lo [hfchance layer=0]como sua esposa... [wait canskip=0 time=300][hffacechg chara=キャスター face=哀 layer=0 time=200][hfsigh layer=0]Eu devo...[wait canskip=0 time=500][hffacechg chara=キャスター face=哀2 layer=0 time=200][se storage=se422.wav][hfangry layer=0] Uaaaaaah!\"",
+      "id": 41940,
+      "epk_id": "41717",
+      "label": "$$$message_0214_0002_0003$$$"
+    },
+    {
+      "en": "\"...\"",
+      "jp": "ãâ¦â¦â¦â¦â¦â¦â¦â¦ã",
+      "Pt-br": "\"...\"",
+      "id": 41941,
+      "epk_id": "41718",
+      "label": "$$$message_0214_0002_0004$$$"
+    },
+    {
+      "en": "\"Hm, hm. Caster's grown a bit.\"",
+      "jp": "ããµããµããå°ãã¯æé·ãããªã­ã£ã¹ã¿ã¼ã",
+      "Pt-br": "\"Hum, hum. Caster amadureceu um pouco.\"",
+      "id": 41942,
+      "epk_id": "41719",
+      "label": "$$$message_0214_0002_0005$$$"
+    },
+    {
+      "en": "\"Last summer, she would've been tempted to lay waste to the school, but look how calm she is now. I think this might end in her merely cursing the principal, Souichirou.\"",
+      "jp": "ãå¤ã¯å¢ããã¾ã£ã¦å­¦æ ¡ãå£ãæåã ã£ãããä»åã¯å·éã§ã¯ãªãããã©ãããæ ¡é·ãåªãç¨åº¦ã§æ¸ã¿ããã ãå®ä¸éï¼ã",
+      "Pt-br": "\"No verão passado, ela teria arrasado a escola. Veja como está calma agora. Creio que desta vez se limitará a amaldiçoar o diretor, Souichirou.\"",
+      "id": 41943,
+      "epk_id": "41720",
+      "label": "$$$message_0214_0002_0006$$$"
+    },
+    {
+      "en": "\"...[lr]",
+      "jp": "ãâ¦â¦â¦â¦ã[lr]",
+      "Pt-br": "\"...[lr]",
+      "id": 41944,
+      "epk_id": "41721",
+      "label": "$$$message_0214_0002_0007$$$"
+    },
+    {
+      "en": "Yes, maybe I'll do that now.\"",
+      "jp": "ãããã­ãããããæ©éåªãããããã",
+      "Pt-br": "Sim. Talvez eu faça isso agora mesmo.\"",
+      "id": 41945,
+      "epk_id": "41722",
+      "label": "$$$message_0214_0002_0008$$$"
+    },
+    {
+      "en": "\"Watch this, Master. I learned a few Japanese-style curses recently.\"",
+      "jp": "ããè¦§ä¸ãããã¹ã¿ã¼ãç§ãæè¿ã¯æ¥æ¬é¢¨ã®åªè¡ãä¿®å¾ãã¾ããã®ãï¼ã",
+      "Pt-br": "\"Observe, Mestre. Aprendi algumas maldições japonesas recentemente.\"",
+      "id": 41946,
+      "epk_id": "41723",
+      "label": "$$$message_0214_0002_0009$$$"
+    },
+    {
+      "en": "\"First, you take a straw effigy and inscribe [se storage=se048.wav][se storage=se313.wav]your impudent target's name on it...\"",
+      "jp": "ãã¾ãã¯ãã®ã¯ã©äººå½¢ã«å°æããã[se storage=se048.wav][se storage=se313.wav]ç¸æã®ååãæ¸ãã¦â¦â¦ã",
+      "Pt-br": "\"Primeiro, pega-se um boneco de palha e nele se inscreve [se storage=se048.wav][se storage=se313.wav]o nome do insolente que será o alvo...\"",
+      "id": 41947,
+      "epk_id": "41724",
+      "label": "$$$message_0214_0002_0010$$$"
+    },
+    {
+      "en": "\"Hm? Well, you don't see that every day.[lr]",
+      "jp": "ããï¼ãçãããããããäºãããã®ã ãªã[lr]",
+      "Pt-br": "\"Hm? Bem, isso não se vê todos os dias.[lr]",
+      "id": 41948,
+      "epk_id": "41725",
+      "label": "$$$message_0214_0002_0011$$$"
+    },
+    {
+      "en": "Souichirou, it appears your principal and I share the same[line len=2]\"",
+      "jp": "ãå®ä¸éãã¬ãã®å­¦é·ã®åå­ã¯ç§ã¨åºã ããããªãã",
+      "Pt-br": "Souichirou, parece que seu diretor e eu temos o mesmo[line len=2]\"",
+      "id": 41949,
+      "epk_id": "41726",
+      "label": "$$$message_0214_0002_0012$$$"
+    },
+    {
+      "en": "\"All finished.[lr]",
+      "jp": "ãã¯ãå®æã[lr]",
+      "Pt-br": "\"Pronto.[lr]",
+      "id": 41950,
+      "epk_id": "41727",
+      "label": "$$$message_0214_0002_0013$$$"
+    },
+    {
+      "en": "Voila, [wait canskip=0 time=200][hffacechg chara=キャスター face=やっておしまい layer=0 time=200][se storage=se041.wav][se storage=se150.wav][se storage=se265.wav][hfstamp layer=0]divine punishment.\"",
+      "jp": "ããã¼ã®ã[wait canskip=0 time=200][hffacechg chara=ã­ã£ã¹ã¿ã¼ face=ãã£ã¦ããã¾ã layer=0 time=200][se storage=se041.wav][se storage=se150.wav][se storage=se265.wav][hfstamp layer=0]å¤©èª\nã",
+      "Pt-br": "Voilà, [wait canskip=0 time=200][hffacechg chara=キャスター face=やっておしまい layer=0 time=200][se storage=se041.wav][se storage=se150.wav][se storage=se265.wav][hfstamp layer=0]castigo divino.\"",
+      "id": 41951,
+      "epk_id": "41728",
+      "label": "$$$message_0214_0002_0014$$$"
+    },
+    {
+      "en": "\"It's Tsuda Kojirou!\"[nolr]",
+      "jp": "ãããã³ã¸ã­ã¦ã§ãï¼ã[nolr]",
+      "Pt-br": "\"É o Tsuda Kojirou!\"[nolr]",
+      "id": 41952,
+      "epk_id": "41729",
+      "label": "$$$message_0214_0002_0015$$$"
+    },
+    {
+      "en": "\"Oh, my mistake. I've mastered Japanese curses, but my grasp of your language could still use some work. I missed one character.\"[nolr]",
+      "jp": "ããããããããªãããæ¥æ¬ã®åªè¡ã¯ãã¹ã¿ã¼ãããã©ãæ¥æ¬èªã¯ã¾ã ã¾ã ã¿ãããä¸æå­ééãã¦ãã¾ã£ããã[nolr]",
+      "Pt-br": "\"Ah, que descuido. Dominei as maldições japonesas, mas ainda preciso melhorar o idioma. Errei um ideograma.\"[nolr]",
+      "id": 41953,
+      "epk_id": "41730",
+      "label": "$$$message_0214_0002_0016$$$"
+    },
+    {
+      "en": "\"...Caster. I wasn't finished speaking.[lr]",
+      "jp": "ãâ¦â¦ã­ã£ã¹ã¿ã¼ãè©±ã«ã¯ç¶ããããã[lr]",
+      "Pt-br": "\"...Caster. Eu ainda não havia terminado.[lr]",
+      "id": 41954,
+      "epk_id": "41731",
+      "label": "$$$message_0214_0002_0017$$$"
+    },
+    {
+      "en": "While it was a rare invitation, I declined.\"",
+      "jp": "ãæè§ã®èªãã ããæ­ã£ãã",
+      "Pt-br": "Embora fosse um convite raro, recusei.\"",
+      "id": 41955,
+      "epk_id": "41732",
+      "label": "$$$message_0214_0002_0018$$$"
+    },
+    {
+      "en": "\"Eh? Souichirou...?\"",
+      "jp": "ããï¼ãå®ä¸éãæ§â¦â¦ï¼ã",
+      "Pt-br": "\"Eh? Souichirou...?\"",
+      "id": 41956,
+      "epk_id": "41733",
+      "label": "$$$message_0214_0002_0019$$$"
+    },
+    {
+      "en": "\"I turned the principal down.[lr]",
+      "jp": "ãæ ¡é·ã®è©±ã¯æ­ã£ããã¨è¨ã£ãã®ã ã[lr]",
+      "Pt-br": "\"Recusei o pedido do diretor.[lr]",
+      "id": 41957,
+      "epk_id": "41734",
+      "label": "$$$message_0214_0002_0020$$$"
+    },
+    {
+      "en": "Few students visit the school during the new year. They can do without me.\"",
+      "jp": "ãå¹´è¶ãã«ç»æ ¡ããçå¾ãå°ãªãã ãããç§ãæ¬ ããã¨ããã§å¤§äºã¯ãªãã",
+      "Pt-br": "Poucos alunos vão à escola no Ano-Novo. Não precisam de mim.\"",
+      "id": 41958,
+      "epk_id": "41735",
+      "label": "$$$message_0214_0002_0021$$$"
+    },
+    {
+      "en": "\"I have permission to go on leave.\"",
+      "jp": "ãä¼æã¯è¨±å¯ããã¦ããã",
+      "Pt-br": "\"Recebi permissão para tirar uma folga.\"",
+      "id": 41959,
+      "epk_id": "41736",
+      "label": "$$$message_0214_0002_0022$$$"
+    },
+    {
+      "en": "\"When I told the principal that I wanted to spend time with my wife, he recommended a resort we could stay at.\"",
+      "jp": "ãä¼ã¿ä¸­ã¯å¦»ã¨éããã®ã§ãã¨ä¼ããã¨ãããæ ¡é·ããªãã¿ã®æ\né¤¨ãç´¹ä»ãã¦ããã¦ãªã",
+      "Pt-br": "\"Quando disse ao diretor que desejava passar algum tempo com minha esposa, ele recomendou uma pousada.\"",
+      "id": 41960,
+      "epk_id": "41737",
+      "label": "$$$message_0214_0003_0000$$$"
+    },
+    {
+      "en": "\"We'll be traveling to Hokuriku. That isn't a problem, I take it?\"",
+      "jp": "ãè¡ãå\nã¯åé¸ã¨æ±ºãã¦ãã¾ã£ãããåé¡ã¯ãããï¼ã",
+      "Pt-br": "\"Viajaremos para Hokuriku. Suponho que não haja problema.\"",
+      "id": 41961,
+      "epk_id": "41738",
+      "label": "$$$message_0214_0003_0001$$$"
+    },
+    {
+      "en": "\"N-no, not at all![wait canskip=0 time=400][lr]",
+      "jp": "ãããããããããâ¦â¦ï¼[wait canskip=0 time=400][lr]",
+      "Pt-br": "\"N-não, nem um pouco![wait canskip=0 time=400][lr]",
+      "id": 41962,
+      "epk_id": "41739",
+      "label": "$$$message_0214_0003_0002$$$"
+    },
+    {
+      "en": "In fact, I'm ecstatic! [hfpop layer=0]Principal Goroumaru, I'm sorry for trying to curse you!\"",
+      "jp": "ãããããµã¤ã³ã¼ã§ãï¼[hfpop layer=0]ãæ ¡é·ã®ã´ã­ã¦ãã«ãããåªããã¨ãã¦ããããªãã¼ãï¼ã",
+      "Pt-br": "Na verdade, estou radiante! [hfpop layer=0]Diretor Goroumaru, perdoe-me por tentar amaldiçoá-lo!\"",
+      "id": 41963,
+      "epk_id": "41740",
+      "label": "$$$message_0214_0003_0003$$$"
+    },
+    {
+      "en": "\"Hehe, hehehe...our names...aren't the same at all...\"[nolr]",
+      "jp": "ããµãµããµãµãµ[line len=3]ä¸æå­ãããã£ã¦ãªããã[nolr]",
+      "Pt-br": "\"Hehe, hehehe... nossos nomes... não têm nada a ver...\"[nolr]",
+      "id": 41964,
+      "epk_id": "41741",
+      "label": "$$$message_0214_0003_0004$$$"
+    },
+    {
+      "en": "\"...Wait.[lr]",
+      "jp": "ã[line len=3]å¾\nã¦ã[lr]",
+      "Pt-br": "\"...Espere.[lr]",
+      "id": 41965,
+      "epk_id": "41742",
+      "label": "$$$message_0214_0003_0005$$$"
+    },
+    {
+      "en": "Caster, outside.\"",
+      "jp": "ãã­ã£ã¹ã¿ã¼ãå¤ã ã",
+      "Pt-br": "Caster, fora.\"",
+      "id": 41966,
+      "epk_id": "41743",
+      "label": "$$$message_0214_0003_0006$$$"
+    },
+    {
+      "en": "\"...![lr]",
+      "jp": "ãâ¦â¦ã£ï¼[lr]",
+      "Pt-br": "\"...![lr]",
+      "id": 41967,
+      "epk_id": "41744",
+      "label": "$$$message_0214_0003_0007$$$"
+    },
+    {
+      "en": "(Way to spoil the mood! What's this spooky, gloomy aura that's ruining the moment!?)\"",
+      "jp": "ï¼ããã¨ããã«â¦â¦ï¼ããªã«ãããã®æªè«ãã¿ãé°é¬±ã¨ããéªé­è\nãªã¼ã©ã¯â¦â¦ï¼ï¼ã",
+      "Pt-br": "(Que maneira de acabar com o clima! Que aura sombria e sinistra é essa, estragando um momento tão perfeito!?)\"",
+      "id": 41968,
+      "epk_id": "41745",
+      "label": "$$$message_0214_0003_0008$$$"
+    },
+    {
+      "en": "\"Who's there!?[lr]",
+      "jp": "ãèª°ï¼ï¼[lr]",
+      "Pt-br": "\"Quem está aí!?[lr]",
+      "id": 41969,
+      "epk_id": "41746",
+      "label": "$$$message_0214_0003_0009$$$"
+    },
+    {
+      "en": "The newspaper delivery already came today!\"[nolr]",
+      "jp": "ãæ°èãªãããéã«åã£ã¦ãã¦ãï¼ï¼ã[nolr]",
+      "Pt-br": "O entregador de jornal já passou por aqui hoje!\"[nolr]",
+      "id": 41970,
+      "epk_id": "41747",
+      "label": "$$$message_0214_0003_0010$$$"
+    },
+    {
+      "en": "\"My name is hardly worthy of introductions.[lr]",
+      "jp": "ã[line len=3]åä¹ãç¨ã®è\nã§ã¯ããã¾ããã[lr]",
+      "Pt-br": "\"Meu nome mal merece uma apresentação.[lr]",
+      "id": 41971,
+      "epk_id": "41748",
+      "label": "$$$message_0214_0004_0000$$$"
+    },
+    {
+      "en": "If I had to say, I'm simply an ordinary debt collector, here to collect my due on your happiness.\"",
+      "jp": "ãããã¦è¨ãã®ãªãç§ã¯ä¸ä»ã®åãç«ã¦äººãä»æ¥ã¯ãè²´å¥³ã®å¹¸ããééã«åãã¾ããã",
+      "Pt-br": "Se é preciso me definir, sou uma cobradora comum, aqui para receber a dívida contraída por sua felicidade.\"",
+      "id": 41972,
+      "epk_id": "41749",
+      "label": "$$$message_0214_0004_0001$$$"
+    },
+    {
+      "en": "\"Now, Lancer, Archer...[lr]",
+      "jp": "ãããã©ã³ãµã¼ãã¢ã¼ãã£ã¼ã[lr]",
+      "Pt-br": "\"Agora, Lancer, Archer...[lr]",
+      "id": 41973,
+      "epk_id": "41750",
+      "label": "$$$message_0214_0005_0000$$$"
+    },
+    {
+      "en": "There's no need to hold back. Destroy them utterly.\"[nolr]",
+      "jp": "ãé æ\n®ã¯ããã¾ãããããã¨ãã«ãã£ã¦ãã¾ããªããã[nolr]",
+      "Pt-br": "Não precisam se conter. Destruam os dois por completo.\"[nolr]",
+      "id": 41974,
+      "epk_id": "41751",
+      "label": "$$$message_0214_0005_0001$$$"
+    },
+    {
+      "en": "\"If it isn't the exorcist from the church.[lr]",
+      "jp": "ãèª°ãã¨æãã°æä¼ã®æªé­æããããªãã[lr]",
+      "Pt-br": "\"Ora, se não é a exorcista da igreja.[lr]",
+      "id": 41975,
+      "epk_id": "41752",
+      "label": "$$$message_0214_0006_0000$$$"
+    },
+    {
+      "en": "...I don't recall inviting you.\"",
+      "jp": "ã[line len=3]ãå¼ã³ãããªãã¦ãã",
+      "Pt-br": "...Não me recordo de tê-la convidado.\"",
+      "id": 41976,
+      "epk_id": "41753",
+      "label": "$$$message_0214_0006_0001$$$"
+    },
+    {
+      "en": "\"I believe a wraith like you, who drains the Luck of everyone merely in her presence, is well-suited to be shut away in an underground church.\"",
+      "jp": "ãè²´å¥³ã®ãããªãåã«ããã ãã§ï¼¬ï¼µï¼«å¤ããã¬ã¤ã³ããããããª[ruby text=ã¬ã¤ã¹ char=2]äº¡éã¯å°ä¸èå ã§å¼ãããã£ã¦ããã®ããä¼¼åããï¼ã",
+      "Pt-br": "\"Uma aparição como você, capaz de drenar a Sorte de todos só com sua presença, ficaria muito bem trancada numa igreja subterrânea.\"",
+      "id": 41977,
+      "epk_id": "41754",
+      "label": "$$$message_0214_0006_0002$$$"
+    },
+    {
+      "en": "\"Oh, don't be like that, Caster.[lr]",
+      "jp": "ããã ãªãã­ã£ã¹ã¿ã¼ããã[lr]",
+      "Pt-br": "\"Ora, não seja assim, Caster-san.[lr]",
+      "id": 41978,
+      "epk_id": "41755",
+      "label": "$$$message_0214_0006_0003$$$"
+    },
+    {
+      "en": "That makes her sound positively adorable. I wouldn't call her a wraith. She's more like a li[line len=2]\"",
+      "jp": "ããã®äººããããªå¯æããããããªãã§ãããã¬ã¤ã¹ã¨ãããããªã[line len=3]ã",
+      "Pt-br": "Falando desse jeito, você a faz parecer encantadora. Eu não diria que é uma aparição. Está mais para uma li[line len=2]\"",
+      "id": 41979,
+      "epk_id": "41756",
+      "label": "$$$message_0214_0006_0004$$$"
+    },
+    {
+      "en": "\"...How unfortunate.[lr]",
+      "jp": "ã[line len=3]æ®å¿µã§ãã[lr]",
+      "Pt-br": "\"...Que decepção.[lr]",
+      "id": 41980,
+      "epk_id": "41757",
+      "label": "$$$message_0214_0007_0000$$$"
+    },
+    {
+      "en": "You've gone soft, Caster.\"",
+      "jp": "ãããã¶ãè\næããããã§ãã­ã­ã£ã¹ã¿ã¼ã",
+      "Pt-br": "Você ficou branda, Caster.\"",
+      "id": 41981,
+      "epk_id": "41758",
+      "label": "$$$message_0214_0007_0001$$$"
+    },
+    {
+      "en": "\"I can't believe you're being tempted by the happiness dangling in front of you, when there's an onsen that can grant your wish so close by.[lr]",
+      "jp": "ããããªè¿ãã«é¡ããå¶ããæ¸©æ³ãããã¨ããã®ã«ãç®å\nã®å¹¸ç¦ã«è¸ãããããªãã¦ã[lr]",
+      "Pt-br": "\"Não acredito que se deixe seduzir pela felicidade diante de seus olhos quando há, tão perto, um onsen capaz de realizar seu desejo.[lr]",
+      "id": 41982,
+      "epk_id": "41759",
+      "label": "$$$message_0214_0007_0002$$$"
+    },
+    {
+      "en": "It's a stain on your name as a witch.\"",
+      "jp": "ãé­å¥³ã®äºã¤åãæ³£ãã¾ããã",
+      "Pt-br": "Isso desonra seu nome de feiticeira.\"",
+      "id": 41983,
+      "epk_id": "41760",
+      "label": "$$$message_0214_0007_0003$$$"
+    },
+    {
+      "en": "\"...Hmph. I suppose I wasn't clear enough the first time.\"",
+      "jp": "ãâ¦â¦ãµããããã§äºåº¦ç®ã ãã©ç­ãã¦ããããã",
+      "Pt-br": "\"...Hmph. Parece que não fui clara o bastante.\"",
+      "id": 41984,
+      "epk_id": "41761",
+      "label": "$$$message_0214_0007_0004$$$"
+    },
+    {
+      "en": "\"Listen, little girl. I've [hfwww layer=0]graduated from all that. You loners are free to wage that awful war amongst yourselves.\"",
+      "jp": "ããããå¬¢ããï¼ãç§ã¯ã­ã[hfwww layer=0]ããããã®ã¯åæ¥­ããã®ãéãäºãã¯å¯ããè\nã ãã§ãã£ã¦ã¡ããã ãã",
+      "Pt-br": "\"Escute, garotinha. Eu já [hfwww layer=0]superei tudo isso. Vocês, solitários, podem continuar travando essa guerra horrenda entre si.\"",
+      "id": 41985,
+      "epk_id": "41762",
+      "label": "$$$message_0214_0007_0005$$$"
+    },
+    {
+      "en": "\"Besides, I no longer have anything to wish for. [hfpop layer=0]Magecraft, war...I don't need them anymore.\"",
+      "jp": "ãã ãããé¡ãäºãªãã¦ãããç§ã«ã¯ããã¾ããã[hfpop layer=0]é­è¡ã¨ãæ¦äºã¨ããç§ã«ã¯ä¸è¦ã ã£ããã§ãã",
+      "Pt-br": "\"Além disso, já não tenho desejo algum. [hfpop layer=0]Magia, guerra... Não preciso mais dessas coisas.\"",
+      "id": 41986,
+      "epk_id": "41763",
+      "label": "$$$message_0214_0007_0006$$$"
+    },
+    {
+      "en": "\"What a surprise.[lr]",
+      "jp": "ãã¾ããããã¯é©ãã¾ããã[lr]",
+      "Pt-br": "\"Que surpreendente.[lr]",
+      "id": 41987,
+      "epk_id": "41764",
+      "label": "$$$message_0214_0007_0007$$$"
+    },
+    {
+      "en": "Kuzuki, does your Servant truly not use magecraft for personal gain anymore?\"",
+      "jp": "ãèæ¨ãè²´æ¹ã®ãµã¼ã´ã¡ã³ãã¯ãããç§æ¬²ã§é­è¡ãä½¿ã£ã¦ããªãã®ã§ããï¼ã",
+      "Pt-br": "Kuzuki, sua Serva realmente deixou de usar magia em benefício próprio?\"",
+      "id": 41988,
+      "epk_id": "41765",
+      "label": "$$$message_0214_0007_0008$$$"
+    },
+    {
+      "en": "\"Apparently. I haven't forbidden her from doing so, but I won't object if that's what Caster has decided for herself.\"",
+      "jp": "ããã®ããã ãç¦ãã¦ããè¨³ã§ã¯ãªãããã­ã£ã¹ã¿ã¼ãããæ±ºããã®ãªãæ­¢ããè¬ããã¯ãªãã",
+      "Pt-br": "\"Ao que parece. Nunca a proibi, mas, se foi uma decisão da própria Caster, não farei objeções.\"",
+      "id": 41989,
+      "epk_id": "41766",
+      "label": "$$$message_0214_0007_0009$$$"
+    },
+    {
+      "en": "\"I see.[lr]",
+      "jp": "ããªãã»ã©ã[lr]",
+      "Pt-br": "\"Entendi.[lr]",
+      "id": 41990,
+      "epk_id": "41767",
+      "label": "$$$message_0214_0007_0010$$$"
+    },
+    {
+      "en": "[playstop time=2000 nowait=1]...Then I take it you still haven't told Kuzuki, Caster.\"",
+      "jp": "ã[playstop time=2000 nowait=1][line len=3]ã§ã¯ãèæ¨ã«ã¯ãã®äºãä¼ãã¦ããªãã®ã§ãã­ã­ã£ã¹ã¿ã¼ã",
+      "Pt-br": "[playstop time=2000 nowait=1]...Então suponho que ainda não tenha contado a Kuzuki, Caster.\"",
+      "id": 41991,
+      "epk_id": "41768",
+      "label": "$$$message_0214_0007_0011$$$"
+    },
+    {
+      "en": "\"Wha...![lr]",
+      "jp": "ããªã£â¦â¦ï¼[lr]",
+      "Pt-br": "\"O quê...!?[lr]",
+      "id": 41992,
+      "epk_id": "41769",
+      "label": "$$$message_0214_0007_0012$$$"
+    },
+    {
+      "en": "T-told him about what?\"",
+      "jp": "ããããã®äºã£ã¦ãã©ã®äºãããï¼ã",
+      "Pt-br": "C-contado o quê?\"",
+      "id": 41993,
+      "epk_id": "41770",
+      "label": "$$$message_0214_0007_0013$$$"
+    },
+    {
+      "en": "\"Your credit card.[lr]",
+      "jp": "ãã«ã¼ãã[lr]",
+      "Pt-br": "\"Seu cartão de crédito.[lr]",
+      "id": 41994,
+      "epk_id": "41771",
+      "label": "$$$message_0214_0007_0014$$$"
+    },
+    {
+      "en": "Is completely.[lr]",
+      "jp": "ãä¸æ¬ã[lr]",
+      "Pt-br": "Está completamente.[lr]",
+      "id": 41995,
+      "epk_id": "41772",
+      "label": "$$$message_0214_0007_0015$$$"
+    },
+    {
+      "en": "Maxed out.\"",
+      "jp": "ãéåº¦é¡ãªã¼ãã¼ã",
+      "Pt-br": "Estourado.\"",
+      "id": 41996,
+      "epk_id": "41773",
+      "label": "$$$message_0214_0007_0016$$$"
+    },
+    {
+      "en": "\"W-w-w-what...!?\"",
+      "jp": "ããªãªãªãªâ¦â¦ï¼ã",
+      "Pt-br": "\"C-c-c-como...!?\"",
+      "id": 41997,
+      "epk_id": "41774",
+      "label": "$$$message_0214_0007_0017$$$"
+    },
+    {
+      "en": "\"How did you know about that[se storage=se251.wav]!?\"",
+      "jp": "ããªãã§ã¢ã³ã¿ãããç¥ã£ã¦ãã®ãã¼[se storage=se251.wav]ï¼ï¼ã",
+      "Pt-br": "\"Como você sabia disso[se storage=se251.wav]!?\"",
+      "id": 41998,
+      "epk_id": "41775",
+      "label": "$$$message_0214_0007_0018$$$"
+    },
+    {
+      "en": "\"Well, my company owns the stores you shop at.\"",
+      "jp": "ãã¾ããã­ã£ã¹ã¿ã¼ãããè²·ãç©ããã®ã£ã¦ããã«ãã¯ã®ä¼ç¤¾ã§ãããã",
+      "Pt-br": "\"Ora, minha empresa é dona das lojas onde Caster-san faz compras.\"",
+      "id": 41999,
+      "epk_id": "41776",
+      "label": "$$$message_0214_0007_0019$$$"
+    },
+    {
+      "en": "\"We did have a rush of new product releases this month, and you actually bought them all just because you had nothing better to do. Way to support the modeling hobby.\"",
+      "jp": "ãä»æã¯æ°ååã©ãã·ã¥ã§ããããã­ã¼ããããæ¥ä¸­ããã ããã£ã¦å\n¨é¨è²·ããªãã¦ããããã¢ãã©ã¼ããããã®ã§ãã",
+      "Pt-br": "\"Este mês houve uma enxurrada de lançamentos, e você comprou todos só porque não tinha nada melhor para fazer. Que dedicação ao modelismo.\"",
+      "id": 42000,
+      "epk_id": "41777",
+      "label": "$$$message_0214_0007_0020$$$"
+    },
+    {
+      "en": "\"That's... That's a secret.[lr]",
+      "jp": "ããª[line len=3]ãªããªãããã[lr]",
+      "Pt-br": "\"I-isso... Isso é segredo.[lr]",
+      "id": 42001,
+      "epk_id": "41778",
+      "label": "$$$message_0214_0007_0021$$$"
+    },
+    {
+      "en": "I'll do whatever you want, so keep it a [wait canskip=0 time=600]secret...\"",
+      "jp": "ãè¨ããã¨ããã¦ãããããããªãããã[wait canskip=0 time=600]ã«ã",
+      "Pt-br": "Faço o que você quiser, mas guarde [wait canskip=0 time=600]segredo...\"",
+      "id": 42002,
+      "epk_id": "41779",
+      "label": "$$$message_0214_0007_0022$$$"
+    },
+    {
+      "en": "\"...You really have lost your edge, Caster.[lr]",
+      "jp": "ã[line len=3]æ¬å½ã«éã£ããã®ã­ã­ã£ã¹ã¿ã¼ã[lr]",
+      "Pt-br": "\"...Você realmente perdeu o seu encanto, Caster.[lr]",
+      "id": 42003,
+      "epk_id": "41780",
+      "label": "$$$message_0214_0007_0023$$$"
+    },
+    {
+      "en": "Do you really take me for a girl who'd just sit on such delicious gossip?\"",
+      "jp": "ãç§ãããããªç¾å³ããè©±ããé»ã£ã¦ããããå¥³ã ã¨æã£ã¦ããã®ï¼ã",
+      "Pt-br": "Acha mesmo que eu deixaria uma fofoca tão deliciosa apodrecer em silêncio?\"",
+      "id": 42004,
+      "epk_id": "41781",
+      "label": "$$$message_0214_0007_0024$$$"
+    },
+    {
+      "en": "\"Argh...! Then it looks like I'll have to silence you by force!\"",
+      "jp": "ããã£â¦â¦ï¼ãã©ãããåããã§é»ããããããªãããã­â¦â¦ï¼ã",
+      "Pt-br": "\"Argh...! Então terei de calar sua boca à força!\"",
+      "id": 42005,
+      "epk_id": "41782",
+      "label": "$$$message_0214_0007_0025$$$"
+    },
+    {
+      "en": "\"I only need 20,000 yen to pay off my balance![lr]",
+      "jp": "ãè¿æ¸ã¾ã§ãã¨ãã£ãäºä¸åï¼[lr]",
+      "Pt-br": "\"Só preciso de vinte mil ienes para quitar a fatura![lr]",
+      "id": 42006,
+      "epk_id": "41783",
+      "label": "$$$message_0214_0007_0026$$$"
+    },
+    {
+      "en": "I'll be in the clear as long as I incapacitate you here!\"",
+      "jp": "ãããã§è²´å¥³ãã¡ãåèµ·ä¸è½ã«ããã°ä½ã®åé¡ããªããï¼ã",
+      "Pt-br": "Se eu acabar com você aqui, fico livre da dívida!\"",
+      "id": 42007,
+      "epk_id": "41784",
+      "label": "$$$message_0214_0007_0027$$$"
+    },
+    {
+      "en": "\"Anyone from the countryside would make the same mistake with a new credit card. Next time, I'll do better!\"",
+      "jp": "ãä»åã®ã¯ã«ã¼ãæ\n£ããã¦ããªãç°èè\nã«ããããã³ããæ¬¡ããã¯ãã£ã¨ãã¾ãè²·ãç©ã§ãããã§ãããã­ï¼ã",
+      "Pt-br": "\"Qualquer pessoa do interior cometeria o mesmo erro com seu primeiro cartão de crédito. Da próxima vez, não vou falhar!\"",
+      "id": 42008,
+      "epk_id": "41785",
+      "label": "$$$message_0214_0007_0028$$$"
+    },
+    {
+      "en": "\"...\"",
+      "jp": "ãâ¦â¦â¦â¦â¦â¦ã",
+      "Pt-br": "\"...\"",
+      "id": 42009,
+      "epk_id": "41786",
+      "label": "$$$message_0214_0007_0029$$$"
+    },
+    {
+      "en": "\"I think it's far too late for that now, Caster.\"",
+      "jp": "ããããããæé\nãã ã¨æããªãã[ruby text=ã­ã£ã¹ã¿ã¼ char=3]å¥å¤©çã",
+      "Pt-br": "\"Creio que seja tarde demais para isso, Caster.\"",
+      "id": 42010,
+      "epk_id": "41787",
+      "label": "$$$message_0214_0007_0030$$$"
+    },
+    {
+      "en": "\"You wannabe samurai![lr]",
+      "jp": "ããã®ãã¡ä¾â¦â¦ï¼[lr]",
+      "Pt-br": "\"Seu samurai de araque![lr]",
+      "id": 42011,
+      "epk_id": "41788",
+      "label": "$$$message_0214_0007_0031$$$"
+    },
+    {
+      "en": "This is all because you didn't do your job and guard the gate!\"",
+      "jp": "ãããããè²´æ¹ããã£ã¡ãéçªãæããã¦ããªãããã§ãããï¼ã",
+      "Pt-br": "A culpa é toda sua por não cumprir o dever de vigiar o portão!\"",
+      "id": 42012,
+      "epk_id": "41789",
+      "label": "$$$message_0214_0007_0032$$$"
+    },
+    {
+      "en": "\"Oh, don't be like that, Major.[lr]",
+      "jp": "ããããããã¯è¨ãããªå°ä½ã[lr]",
+      "Pt-br": "\"Ora, não seja assim, Major.[lr]",
+      "id": 42013,
+      "epk_id": "41790",
+      "label": "$$$message_0214_0007_0033$$$"
+    },
+    {
+      "en": "I suppose an unreasonable curse struck me in the chest and hampered my duties.\"",
+      "jp": "ããªãã¨ããããçä¸å°½ãªåªããè¸ã«ããããã¦åããªãã ã",
+      "Pt-br": "Suponho que uma maldição muito injusta tenha me atingido no peito e prejudicado o exercício de minhas funções.\"",
+      "id": 42014,
+      "epk_id": "41791",
+      "label": "$$$message_0214_0007_0034$$$"
+    },
+    {
+      "en": "\"Tch! This is the problem with handsome men...!\"",
+      "jp": "ããããããã ããé¡ãããç·ã¯â¦â¦ï¼ã",
+      "Pt-br": "\"Tsc! Esse é o problema dos homens bonitos...!\"",
+      "id": 42015,
+      "epk_id": "41792",
+      "label": "$$$message_0214_0007_0035$$$"
+    },
+    {
+      "en": "\"...Fine, then. I accept your challenge, little witch-in-training.\"",
+      "jp": "ã[line len=3]ããã¦ããææ¦ã«å¿ãã¦ãããããããªãé­å¥³è¦ç¿ãã",
+      "Pt-br": "\"...Muito bem. Aceito o desafio, bruxinha aprendiz.\"",
+      "id": 42016,
+      "epk_id": "41793",
+      "label": "$$$message_0214_0007_0036$$$"
+    },
+    {
+      "en": "\"Get ready for me to feed you some lethally toxic bubuzuke distilled from your repeated failures!\"",
+      "jp": "ãè¦æããã®ã­ããã®å¤±æã«å¤±æãéã­ãè´æ­»æ§ã®æ¯ç©é¢¨å³ã«ãªã£ãã¶ã¶æ¼¬ãããã¡ãããã¦ããããâ¦â¦ï¼ã\u0006ýç",
+      "Pt-br": "\"Prepare-se para engolir um bubuzuke de toxicidade letal, destilado de todos os seus fracassos!\"",
+      "id": 42017,
+      "epk_id": "41794",
+      "label": "$$$message_0214_0007_0037$$$"
+    }
+  ]
+}

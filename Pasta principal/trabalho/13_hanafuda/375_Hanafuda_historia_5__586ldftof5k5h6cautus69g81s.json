@@ -1,0 +1,744 @@
+{
+  "cena": "586ldftof5k5h6cautus69g81s",
+  "titulo": "Hanafuda: história 5",
+  "rota": "Hanafuda",
+  "arquivo": "586ldftof5k5h6cautus69g81s.epk_dec",
+  "linhas": [
+    {
+      "en": "\"And with that,[lr]",
+      "jp": "「[line len=3]さてさて。[lr]",
+      "Pt-br": "\"E com isso,[lr]",
+      "id": 43958,
+      "epk_id": "43743",
+      "label": "$$$message_0372_0000_0000$$$"
+    },
+    {
+      "en": "our heroines, Gym Shorts and Taiga, have defeated the three ogres plaguing the Emiya residence.\"",
+      "jp": "　衛宮邸に潜む三人の鬼を打ちのめした我らがヒロイン、ブルマとタイガ」",
+      "Pt-br": "as nossas heroínas, Short de Ginástica e Taiga, derrotaram os três ogros que assolavam a residência Emiya.\"",
+      "id": 43959,
+      "epk_id": "43744",
+      "label": "$$$message_0372_0000_0001$$$"
+    },
+    {
+      "en": "\"There are three Servants left.\"",
+      "jp": "「サーヴァントは残り三人」",
+      "Pt-br": "\"Ainda restam três Servos.\"",
+      "id": 43960,
+      "epk_id": "43745",
+      "label": "$$$message_0372_0001_0000$$$"
+    },
+    {
+      "en": "\"To defeat Assassin, Lancer, and Berserker, Loli Gym Shorts must hurry to the peak of Ryudou Temple and take down the Young Wife.\"",
+      "jp": "「アサシン、ランサー、バーサーカーを倒す為、ブルマは柳洞宮最上階・若奥様の間を目指すのであった」",
+      "Pt-br": "\"Para derrotar Assassin, Lancer, e Berserker, a Loli de Short de Ginástica precisa se apressar rumo ao pico do Templo Ryuudou e derrotar a Jovem Esposa.\"",
+      "id": 43961,
+      "epk_id": "43746",
+      "label": "$$$message_0372_0002_0000$$$"
+    },
+    {
+      "en": "\"Hurry, Gym Shorts. Save your friends laid low by the assassin's bullets![lr]",
+      "jp": "「急げブルマ。凶弾に倒れた仲間を救う為！[lr]",
+      "Pt-br": "\"Se apresse, Short de Ginástica. Salve seus amigos que foram abatidos pelas balas do assassino![lr]",
+      "id": 43962,
+      "epk_id": "43747",
+      "label": "$$$message_0372_0003_0000$$$"
+    },
+    {
+      "en": "There are three hours left until sunset![lr]",
+      "jp": "　日が沈むまであと三時間！[lr]",
+      "Pt-br": "Restam apenas três horas para o pôr do Sol![lr]",
+      "id": 43963,
+      "epk_id": "43748",
+      "label": "$$$message_0372_0003_0001$$$"
+    },
+    {
+      "en": "[hffacechg chara=ぞうけん face=哀 layer=1 time=200]I only have three hours left to live...\"",
+      "jp": "　[hffacechg chara=ぞうけん face=哀 layer=1 time=200]ワシの命はあと三時間……！」",
+      "Pt-br": "[hffacechg chara=ぞうけん face=哀 layer=1 time=200]Eu só tenho mais três horas de vida...\"",
+      "id": 43964,
+      "epk_id": "43749",
+      "label": "$$$message_0372_0003_0002$$$"
+    },
+    {
+      "en": "\"...Hey, Illya. There's an old guy in the woods next to us labeled 'Muttering Saint[whitestar]Arrow.' Is he a friend of yours?\"[nolr][p]",
+      "jp": "「……ねえイリヤちゃん。なんか、横の林でブツブツ前回までのおさらいを解説しているお爺ちゃんがいるんだけど、知り合い？」[nolr][p]",
+      "Pt-br": "\"...Ei, Illya-chan. Tem um velhote na floresta ao nosso lado rotulado como 'Santo Murmurante[whitestar]Arrow'. Ele é amigo seu?\"[nolr][p]",
+      "id": 43965,
+      "epk_id": "43750",
+      "label": "$$$message_0372_0004_0000$$$"
+    },
+    {
+      "en": "\"Nope, I've never heard of someone like that in my whole life.\"",
+      "jp": "「いや、一ミクロンも存在知らないッス」",
+      "Pt-br": "\"Não, nunca ouvi falar de alguém assim em toda a minha vida.\"",
+      "id": 43966,
+      "epk_id": "43751",
+      "label": "$$$message_0372_0004_0001$$$"
+    },
+    {
+      "en": "\"Anyway, the next temple is in sight! Don't get sloppy now, Taiga!\"",
+      "jp": "「それより次のキリング・フィールドが見えてきたぞ！　油断するなよタイガ！」",
+      "Pt-br": "\"Enfim, já consigo ver o próximo templo! Não vá ser desleixada agora, Taiga!\"",
+      "id": 43967,
+      "epk_id": "43752",
+      "label": "$$$message_0372_0004_0002$$$"
+    },
+    {
+      "en": "\"You can count on me, Gym Shorts. However it is, I'll whack 'em to smithereens with this Tiger Bamboo Sword.\"",
+      "jp": "「任せておけブルマ。どんな相手だろうとこの虎竹刀で蹴散らすまでよ」",
+      "Pt-br": "\"Pode contar comigo, Short de Ginástica. Seja o que for, eu vou esmagá-los em pedacinhos com esta Espada de Bambu da Tigresa.\"",
+      "id": 43968,
+      "epk_id": "43753",
+      "label": "$$$message_0372_0004_0003$$$"
+    },
+    {
+      "en": "\"Fuuushshshshshsh (note: laughter).[lr]",
+      "jp": "「フーシュシュシュ（注・笑い）。[lr]",
+      "Pt-br": "\"Fuuushshshshshsh (nota: risada).[lr]",
+      "id": 43969,
+      "epk_id": "43754",
+      "label": "$$$message_0372_0004_0004$$$"
+    },
+    {
+      "en": "If push comes to shove, I'll awaken my seventh sense!\"",
+      "jp": "　いざとなればパキーンと弾けてパワーアップだぜっ！」",
+      "Pt-br": "Se a coisa apertar, eu despertarei o meu sétimo sentido!\"",
+      "id": 43970,
+      "epk_id": "43755",
+      "label": "$$$message_0372_0004_0005$$$"
+    },
+    {
+      "en": "\"Heh, that's pretty reassuring coming from an enemy![l][br][hffacechg chara=ブルマイリヤ face=喜2 layer=1 time=200][hfwww layer=1][say storage=HSTR5_BIR_0040 _name=ブルマイリヤ]Okay, let's keep up that rhythm and beat up another lovey-dovey couple!\"",
+      "jp": "「フ、敵ながら頼もしいヤツ……！[l][br]　[hffacechg chara=ブルマイリヤ face=喜2 layer=1 time=200][hfwww layer=1][say storage=HSTR5_BIR_0040 _name=ブルマイリヤ]よぅし、この勢いでバカップルに殴り込みだぁー！」",
+      "Pt-br": "\"Heh, isso é bem reconfortante vindo de um inimigo![l][br][hffacechg chara=ブルマイリヤ face=喜2 layer=1 time=200][hfwww layer=1][say storage=HSTR5_BIR_0040 _name=ブルマイリヤ]Ok, vamos manter o ritmo e derrotar mais um casal de pombinhos!\"",
+      "id": 43971,
+      "epk_id": "43756",
+      "label": "$$$message_0372_0004_0006$$$"
+    },
+    {
+      "en": "\"A moment, girl. And the feral beast.\"",
+      "jp": "「待たれよ娘。そして野獣」",
+      "Pt-br": "\"Um momento, garota. E a besta selvagem.\"",
+      "id": 43972,
+      "epk_id": "43757",
+      "label": "$$$message_0372_0005_0000$$$"
+    },
+    {
+      "en": "\"Wh-[wait canskip=0 time=300][l][hffacechg chara=藤ねえ face=真剣 layer=1 time=200][hfchance layer=1][say storage=HSTR5_TIG_0060 _name=藤ねえ]who the heck are you!?\"",
+      "jp": "「な、[wait canskip=0 time=300][l][hffacechg chara=藤ねえ face=真剣 layer=1 time=200][hfchance layer=1][say storage=HSTR5_TIG_0060 _name=藤ねえ]何ィお前は……！」",
+      "Pt-br": "\"O qu-[wait canskip=0 time=300][l][hffacechg chara=藤ねえ face=真剣 layer=1 time=200][hfchance layer=1][say storage=HSTR5_TIG_0060 _name=藤ねえ]quem diabos é você!?\"",
+      "id": 43973,
+      "epk_id": "43758",
+      "label": "$$$message_0372_0005_0001$$$"
+    },
+    {
+      "en": "\"Don't tell me...\"[nolr][p]",
+      "jp": "「まさか……！」[nolr][p]",
+      "Pt-br": "\"Não me diga...\"[nolr][p]",
+      "id": 43974,
+      "epk_id": "43759",
+      "label": "$$$message_0372_0005_0002$$$"
+    },
+    {
+      "en": "\"Sasaki Gorillo!!!\"",
+      "jp": "「佐々木五四六ーッ！！」",
+      "Pt-br": "\"Gorillo Sasaki!!!\"",
+      "id": 43975,
+      "epk_id": "43760",
+      "label": "$$$message_0372_0005_0003$$$"
+    },
+    {
+      "en": "\"That's a Sasaki Typollo!\"[nolr][p]",
+      "jp": "「それ佐々木誤字よーッ！！」[nolr][p]",
+      "Pt-br": "\"O certo é Sasaki Typollo!\"[nolr][p]",
+      "id": 43976,
+      "epk_id": "43761",
+      "label": "$$$message_0372_0005_0004$$$"
+    },
+    {
+      "en": "\"...You're sure running on full throttle today.[lr]",
+      "jp": "「………………全開だな。[lr]",
+      "Pt-br": "\"...Vocês certamente estão a todo vapor hoje.[lr]",
+      "id": 43977,
+      "epk_id": "43762",
+      "label": "$$$message_0372_0005_0005$$$"
+    },
+    {
+      "en": "Whatever. Strange one, this gate is not meant for a single woman like you to pass through.\"",
+      "jp": "　まあよい。傾きモノよ、この門はおぬしらのような独り者が通るものではない」",
+      "Pt-br": "Que seja. Sua garota estranha, este portão não é para ser atravessado por uma mulher solteira como você.\"",
+      "id": 43978,
+      "epk_id": "43763",
+      "label": "$$$message_0372_0005_0006$$$"
+    },
+    {
+      "en": "\"If you have time for such amusements, consider making time for a marriage interview.\"",
+      "jp": "「遊んでいる閑があるなら、お見合いの一つでもするのだな」",
+      "Pt-br": "\"Se você tem tempo para tais diversões, considere arranjar um tempo para uma entrevista de casamento.\"",
+      "id": 43979,
+      "epk_id": "43764",
+      "label": "$$$message_0372_0006_0000$$$"
+    },
+    {
+      "en": "\"Gah, that got me right where it hurts...!\"",
+      "jp": "「うぎゃ、胸に痛いその言葉……！」",
+      "Pt-br": "\"Gah, essa pegou bem onde dói...!\"",
+      "id": 43980,
+      "epk_id": "43765",
+      "label": "$$$message_0372_0006_0001$$$"
+    },
+    {
+      "en": "\"That was better left unsaid! Now one of us has to die!\"[nolr]",
+      "jp": "「アンタいま口にしちゃあいけねぇコトを言ったよ！　もうどちらかが死ぬしかありえねー！」[nolr]",
+      "Pt-br": "\"Seria melhor se não tivesse dito isso! Agora um de nós vai ter que morrer!\"[nolr]",
+      "id": 43981,
+      "epk_id": "43766",
+      "label": "$$$message_0372_0006_0002$$$"
+    },
+    {
+      "en": "\"H-hold on, Taiga! Don't be hasty![lr]",
+      "jp": "「ま、待てタイガ、早まるなーー！[lr]",
+      "Pt-br": "\"E-espera aí, Taiga! Não seja precipitada![lr]",
+      "id": 43982,
+      "epk_id": "43767",
+      "label": "$$$message_0372_0007_0000$$$"
+    },
+    {
+      "en": "[nolr]Everyone knows that one of the mysterious rules in shonen manga is that whoever moves first loses!!!\"",
+      "jp": "　[nolr]少年漫画の法則その一、先に手を出した方が負けちゃう不思議ーーーーー！！！」",
+      "Pt-br": "[nolr]Todo mundo sabe que uma das regras misteriosas dos mangás shonen é que quem ataca primeiro, perde!!!\"",
+      "id": 43983,
+      "epk_id": "43768",
+      "label": "$$$message_0372_0007_0001$$$"
+    },
+    {
+      "en": "\"Souichirou... Your tea is ready.\"[nolr]",
+      "jp": "「宗一郎様……お茶が入りました」[nolr]",
+      "Pt-br": "\"Souichirou-sama... O seu chá está pronto.\"[nolr]",
+      "id": 43984,
+      "epk_id": "43769",
+      "label": "$$$message_0372_0007_0002$$$"
+    },
+    {
+      "en": "\"... (nods slightly)\"",
+      "jp": "「[line len=6]（かすかに頷く）」",
+      "Pt-br": "\"... (assente de leve com a cabeça)\"",
+      "id": 43985,
+      "epk_id": "43770",
+      "label": "$$$message_0372_0008_0000$$$"
+    },
+    {
+      "en": "\"...Is it still not to your taste after all? I roasted it the way Issei showed me...\"",
+      "jp": "「…………やはり、まだお口に合わないでしょうか？　一成くんに教わって煎れてみたのですけど……」",
+      "Pt-br": "\"...Ainda não está ao seu gosto, afinal? Eu torrei do jeito que o Issei me ensinou...\"",
+      "id": 43986,
+      "epk_id": "43771",
+      "label": "$$$message_0372_0008_0001$$$"
+    },
+    {
+      "en": "\"...Your tea's flavor is unique to you. It is incomparable to anything else.\"",
+      "jp": "「……。おまえの茶はおまえだけの味がある。他のものと比べる事はできない」",
+      "Pt-br": "\"...O sabor do seu chá é algo único seu. Não se compara a mais nada.\"",
+      "id": 43987,
+      "epk_id": "43772",
+      "label": "$$$message_0372_0008_0002$$$"
+    },
+    {
+      "en": "\"But...if I had to state my personal preference, I do enjoy this heat.\"",
+      "jp": "「しかし……個人的な嗜好で言うのなら、この熱さは私好みだ」",
+      "Pt-br": "\"Mas... se eu tivesse que dizer a minha preferência, eu gosto deste calor.\"",
+      "id": 43988,
+      "epk_id": "43773",
+      "label": "$$$message_0372_0008_0003$$$"
+    },
+    {
+      "en": "\"...!\"",
+      "jp": "「……！」",
+      "Pt-br": "\"...!\"",
+      "id": 43989,
+      "epk_id": "43774",
+      "label": "$$$message_0372_0008_0004$$$"
+    },
+    {
+      "en": "\"(This! This is what I've wanted! Thank you, great Buddha! I despise the gods, but I love you!)\"",
+      "jp": "「（これよ！　求めていたのはこれなのよ！　ありがとうホトケさま、神々なんて嫌いだけど貴方たちは大好きよー！）」",
+      "Pt-br": "\"(Isso! Era isso que eu queria ouvir! Obrigada, grande Buda! Eu desprezo os deuses, mas eu amo você!)\"",
+      "id": 43990,
+      "epk_id": "43775",
+      "label": "$$$message_0372_0008_0005$$$"
+    },
+    {
+      "en": "\"U-keh-keh-keh-keh. Then give me your offerings![lr]",
+      "jp": "「ウケケケ、ならばお布施を払えぃ！[lr]",
+      "Pt-br": "\"U-keh-keh-keh-keh. Então me entreguem as suas oferendas![lr]",
+      "id": 43991,
+      "epk_id": "43776",
+      "label": "$$$message_0372_0008_0006$$$"
+    },
+    {
+      "en": "For now, I'll have you convert that happiness to Japanese yen and serve me a pork bowl with egg on top!\"",
+      "jp": "　とりあえずその幸福、日本円に換算して豚丼並たまご付きーーー！」",
+      "Pt-br": "Por enquanto, farei com que converta essa sua felicidade para ienes japoneses, e que me sirva uma tigela de porco com ovo por cima!\"",
+      "id": 43992,
+      "epk_id": "43777",
+      "label": "$$$message_0372_0008_0007$$$"
+    },
+    {
+      "en": "\"That's so cheap!\"[nolr][p]",
+      "jp": "「安っ！」[nolr][p]",
+      "Pt-br": "\"Isso é muito barato!\"[nolr][p]",
+      "id": 43993,
+      "epk_id": "43778",
+      "label": "$$$message_0372_0008_0008$$$"
+    },
+    {
+      "en": "\"I mean, what's the meaning of this!?\"[nolr]",
+      "jp": "「じゃなくて、いったい何事です……！」[nolr]",
+      "Pt-br": "\"Digo, qual é o significado disso!?\"[nolr]",
+      "id": 43994,
+      "epk_id": "43779",
+      "label": "$$$message_0372_0008_0009$$$"
+    },
+    {
+      "en": "\"A-ha-ha. Sorry, Caster. I screwed up.\"[nolr]",
+      "jp": "「あっはっは。すまんキャスター、しくじったー」[nolr]",
+      "Pt-br": "\"A-ha-ha. Desculpe, Caster. Estraguei tudo.\"[nolr]",
+      "id": 43995,
+      "epk_id": "43780",
+      "label": "$$$message_0372_0009_0000$$$"
+    },
+    {
+      "en": "\"Dammit, Sasakiiii!\"[nolr]",
+      "jp": "「お前か佐々木ィィィ！！」[nolr]",
+      "Pt-br": "\"Maldito, Sasakiiii!\"[nolr]",
+      "id": 43996,
+      "epk_id": "43781",
+      "label": "$$$message_0372_0010_0000$$$"
+    },
+    {
+      "en": "\"Ahhh, the tea and (failed) chestnut cake, dashed! Just like my brother!\"",
+      "jp": "「ああ、せっかく煎れたお茶とお手製（失敗作）のマロンケーキが私の弟のように……！」",
+      "Pt-br": "\"Ahhh, o meu chá e o bolo de castanha (falho), tudo destruído! Igualzinho ao meu irmão!\"",
+      "id": 43997,
+      "epk_id": "43782",
+      "label": "$$$message_0372_0011_0000$$$"
+    },
+    {
+      "en": "\"...\"",
+      "jp": "「[line len=6]」",
+      "Pt-br": "\"...\"",
+      "id": 43998,
+      "epk_id": "43783",
+      "label": "$$$message_0372_0011_0001$$$"
+    },
+    {
+      "en": "\"Ahh, it's all over Souichirou! I mean, Souichirou is smothered in tea and...cake...[wait time=600][wvs][skip_next_tag][br]",
+      "jp": "「あぁ、お茶とケーキは宗一郎様に、いえ、宗一郎様がお茶とケーキにまみれ、て[line len=3][wait time=600][wvs][br]",
+      "Pt-br": "\"Ahhh, acabou tudo para o Souichirou! Digo, o Souichirou está todo coberto de chá e... bolo...[wait time=600][wvs][skip_next_tag][br]",
+      "id": 43999,
+      "epk_id": "43784",
+      "label": "$$$message_0372_0011_0002$$$"
+    },
+    {
+      "en": "...[hfsigh layer=1]oh.\"",
+      "jp": "[line len=3][hfsigh layer=1]ぽ」",
+      "Pt-br": "...[hfsigh layer=1]oh.\"",
+      "id": 44000,
+      "epk_id": "43785",
+      "label": "$$$message_0372_0011_0003$$$"
+    },
+    {
+      "en": "\"...Why is she blushing?\"",
+      "jp": "「[line len=4]なぜ照れる？」",
+      "Pt-br": "\"...Por que ela tá corada?\"",
+      "id": 44001,
+      "epk_id": "43786",
+      "label": "$$$message_0372_0011_0004$$$"
+    },
+    {
+      "en": "\"Mrgh. The yen exchange rate goes up again![lr]",
+      "jp": "「ぬぬ、日本円換算率さらにアップ……！[lr]",
+      "Pt-br": "\"Mrgh. A taxa de câmbio do iene sobe novamente![lr]",
+      "id": 44002,
+      "epk_id": "43787",
+      "label": "$$$message_0372_0011_0005$$$"
+    },
+    {
+      "en": "[se storage=se197.wav]Hold it, pointy-ears. I won't stand for a lunch that costs more than 500 yen!\"",
+      "jp": "　[se storage=se197.wav]待ちなそこのトンガリ耳、五百円以上の昼飯なんてこのあたいが許さねえぜ！」",
+      "Pt-br": "[se storage=se197.wav]Espera um pouco aí, orelha pontuda. Eu não vou aceitar um almoço que custe mais de 500 ienes!\"",
+      "id": 44003,
+      "epk_id": "43788",
+      "label": "$$$message_0372_0011_0006$$$"
+    },
+    {
+      "en": "\"What is all this commotion? Well, if it isn't the Holy Grail and the useless teacher.\"",
+      "jp": "「なによ、さっきからうるさいわね。誰かと思えば聖杯もどきとダメ教師じゃない」",
+      "Pt-br": "\"O que é toda essa comoção? Ora se não é o Santo Graal e a professora inútil.\"",
+      "id": 44004,
+      "epk_id": "43789",
+      "label": "$$$message_0372_0012_0000$$$"
+    },
+    {
+      "en": "\"I don't remember inviting you here.\"",
+      "jp": "「私、貴方たちを呼んだ覚えはありませんけど」",
+      "Pt-br": "\"Não me lembro de tê-las convidado para cá.\"",
+      "id": 44005,
+      "epk_id": "43790",
+      "label": "$$$message_0372_0013_0000$$$"
+    },
+    {
+      "en": "\"We invited ourselves.\"",
+      "jp": "「そっちになくてもこっちにはあるのよこれが」",
+      "Pt-br": "\"Nós que nos convidamos.\"",
+      "id": 44006,
+      "epk_id": "43791",
+      "label": "$$$message_0372_0013_0001$$$"
+    },
+    {
+      "en": "\"...But anyway, [l][hfwww layer=1][say storage=HSTR5_TIG_0180 _name=藤ねえ]what are you doing, Caster?\"",
+      "jp": "「……というより、[l][hfwww layer=1][say storage=HSTR5_TIG_0180 _name=藤ねえ]どうしちゃったのキャスターさん」",
+      "Pt-br": "\"...Mas de qualquer forma, [l][hfwww layer=1][say storage=HSTR5_TIG_0180 _name=藤ねえ]o que você está fazendo, Caster-san?\"",
+      "id": 44007,
+      "epk_id": "43792",
+      "label": "$$$message_0372_0013_0002$$$"
+    },
+    {
+      "en": "\"The Holy Grail War's started, you know.[lr]",
+      "jp": "「聖杯戦争が始まったのよ？[lr]",
+      "Pt-br": "\"A Guerra do Santo Graal começou, sabia.[lr]",
+      "id": 44008,
+      "epk_id": "43793",
+      "label": "$$$message_0372_0014_0000$$$"
+    },
+    {
+      "en": "Shouldn't you be scheming and manipulating behind the scenes like you always do?\"",
+      "jp": "　いつもみたいに裏から手を回して好き勝手やらないの？」",
+      "Pt-br": "Você não devia estar tramando e manipulando nos bastidores como sempre faz?\"",
+      "id": 44009,
+      "epk_id": "43794",
+      "label": "$$$message_0372_0014_0001$$$"
+    },
+    {
+      "en": "\"It's not as if I enjoy doing that.\"",
+      "jp": "「別に、そんなの興味ないわ」",
+      "Pt-br": "\"Não é como se eu me divertisse fazendo isso.\"",
+      "id": 44010,
+      "epk_id": "43795",
+      "label": "$$$message_0372_0014_0002$$$"
+    },
+    {
+      "en": "\"I've graduated from stealing and tricking people.\"",
+      "jp": "「奪ったり騙したり、そういうのはもう卒業したんですの」",
+      "Pt-br": "\"Eu já me graduei em roubar e enganar as pessoas.\"",
+      "id": 44011,
+      "epk_id": "43796",
+      "label": "$$$message_0372_0014_0003$$$"
+    },
+    {
+      "en": "\"I've found my happiness right here. Why should I push myself?\"",
+      "jp": "「幸福はここにあるんですから、もう無理をする必要はないでしょう？」",
+      "Pt-br": "\"Eu encontrei a minha felicidade bem aqui. Por que eu haveria de me forçar a isso?\"",
+      "id": 44012,
+      "epk_id": "43797",
+      "label": "$$$message_0372_0015_0000$$$"
+    },
+    {
+      "en": "\"Besides, I'm not suited to the Holy Grail War. If you want this star, you can have it.\"",
+      "jp": "「そもそも、聖杯戦争なんて私には合わないものだったし。星が欲しいのなら喜んで差し上げるわ」",
+      "Pt-br": "\"Além disso, eu não sirvo para a Guerra do Santo Graal. Se quiser essa estrela, pode ficar com ela.\"",
+      "id": 44013,
+      "epk_id": "43798",
+      "label": "$$$message_0372_0015_0001$$$"
+    },
+    {
+      "en": "\"Huh.\"",
+      "jp": "「は」",
+      "Pt-br": "\"Hã.\"",
+      "id": 44014,
+      "epk_id": "43799",
+      "label": "$$$message_0372_0015_0002$$$"
+    },
+    {
+      "en": "\"...What is it, Assassin? I do not appreciate such a face.\"",
+      "jp": "「……なにかしらねアサシン。その、人の神経を逆なでしまくるイヤな笑いは」",
+      "Pt-br": "\"...O que foi, Assassin? Não gosto nada dessa sua cara.\"",
+      "id": 44015,
+      "epk_id": "43800",
+      "label": "$$$message_0372_0015_0003$$$"
+    },
+    {
+      "en": "\"Oh, I just found your anguish so pitiable I couldn't help but smile.\"",
+      "jp": "「いや、おぬしの苦労がいじらしくてな、つい微笑んでしまったのだ」",
+      "Pt-br": "\"Oh, só achei a sua angústia tão lamentável que não consegui evitar de sorrir.\"",
+      "id": 44016,
+      "epk_id": "43801",
+      "label": "$$$message_0372_0015_0004$$$"
+    },
+    {
+      "en": "\"A personality cultivated over many years can be quite stubborn. The ego is the enemy of eternity, after all.\"",
+      "jp": "「長年培った性格は頑丈だ。とかく、自我というものは永遠の仇敵である」",
+      "Pt-br": "\"Uma personalidade cultivada ao longo de muitos anos pode ser bastante teimosa. O ego é o inimigo da eternidade, afinal de contas.\"",
+      "id": 44017,
+      "epk_id": "43802",
+      "label": "$$$message_0372_0015_0005$$$"
+    },
+    {
+      "en": "\"...Haha, it isn't easy to change one's personality after 2X years.\"",
+      "jp": "「[line len=3]はは、齢二十ウン歳を越えての性根変えは辛かろう」",
+      "Pt-br": "\"...Haha, não é fácil mudar de personalidade depois de 2X anos.\"",
+      "id": 44018,
+      "epk_id": "43803",
+      "label": "$$$message_0372_0016_0000$$$"
+    },
+    {
+      "en": "\"Huh? [l][hfchance layer=1][say storage=HSTR5_TIG_0230 _name=藤ねえ]No way! Caster, you're 2X years old!? You're older than Mr. Kuzuki!?\"[nolr]",
+      "jp": "「え、[l][hfchance layer=1][say storage=HSTR5_TIG_0230 _name=藤ねえ]うそ！？　キャスターさん二十ウン歳だったの！？　葛木先生より年上！？」[nolr]",
+      "Pt-br": "\"Hã? [l][hfchance layer=1][say storage=HSTR5_TIG_0230 _name=藤ねえ]Sem chance! Caster-san, você tem 2X anos de idade!? Você é mais velha que o Kuzuki-sensei!?\"[nolr]",
+      "id": 44019,
+      "epk_id": "43804",
+      "label": "$$$message_0372_0017_0000$$$"
+    },
+    {
+      "en": "\"AAAAAAH!\"[rf]",
+      "jp": "「きゃーーーーー！」[rf]",
+      "Pt-br": "\"AAAAAAH!\"[rf]",
+      "id": 44020,
+      "epk_id": "43805",
+      "label": "$$$message_0372_0018_0000$$$"
+    },
+    {
+      "en": "\"[large]Sasaki[rf], [large]stop [rf]talking about my [large]age[rf]!!!\"",
+      "jp": "「[large]佐々木[rf]ぃ、[large]歳[rf]の[large]コト[rf]は言うなーーーー！」",
+      "Pt-br": "\"[large]Sasaki[rf], [large]pare [rf]de falar sobre a minha [large]idade[rf]!!!\"",
+      "id": 44021,
+      "epk_id": "43806",
+      "label": "$$$message_0372_0019_0000$$$"
+    },
+    {
+      "en": "\"Hahaha. My apologies. It was a slip of the tongue.\"[nolr]",
+      "jp": "「はっはっは。これはすまぬ、うっかり口を滑らせてしまった」[nolr]",
+      "Pt-br": "\"Hahaha. Mil perdões. Foi um deslize da minha língua.\"[nolr]",
+      "id": 44022,
+      "epk_id": "43807",
+      "label": "$$$message_0372_0019_0001$$$"
+    },
+    {
+      "en": "\"Still, don't let that dampen your spirits, Caster. [nolr]Souichirou isn't concerned about your age. What's wrong with being thought of as a wife of ripe age?\"[p]",
+      "jp": "「だがそう気に病むなキャスター。[nolr]宗一郎はおぬしの歳など気にはすまい。姉さん女房というのも中々にいいものだぞ？」[p]",
+      "Pt-br": "\"Ainda assim, não deixe que isso acabe com o seu ânimo, Caster. [nolr]Souichirou não se importa com a sua idade. Qual o problema de ser vista como uma esposa de idade madura, Nee-san?\"[p]",
+      "id": 44023,
+      "epk_id": "43808",
+      "label": "$$$message_0372_0020_0000$$$"
+    },
+    {
+      "en": "\"Well said, Sasaki![lr]",
+      "jp": "「お、いま佐々木がいいコト言った！[lr]",
+      "Pt-br": "\"Muito bem dito, Sasaki![lr]",
+      "id": 44024,
+      "epk_id": "43809",
+      "label": "$$$message_0372_0020_0001$$$"
+    },
+    {
+      "en": "[hfwww layer=1]That's right. Age difference doesn't matter, Caster!\"",
+      "jp": "　[hfwww layer=1]そうそう、年の差なんてあんまし関係ないわよキャスターさん！」",
+      "Pt-br": "[hfwww layer=1]É isso mesmo. A diferença de idade não importa, Caster-san!\"",
+      "id": 44025,
+      "epk_id": "43810",
+      "label": "$$$message_0372_0020_0002$$$"
+    },
+    {
+      "en": "\"Mr. Kuzuki is surrounded by young girls every day, so you've got nothing to worry about! Show them how an older woman fights!\"",
+      "jp": "「葛木先生は毎日若い女の子たちに囲まれてるけど大丈夫！　年上は年上なりの戦い方を見せてちょうだい！」",
+      "Pt-br": "\"O Kuzuki-sensei fica cercado por garotinhas jovens todos os dias, então você não precisa se preocupar com isso! Mostre a eles como uma mulher mais velha luta!\"",
+      "id": 44026,
+      "epk_id": "43811",
+      "label": "$$$message_0372_0020_0003$$$"
+    },
+    {
+      "en": "\"I guess you can't be a heroine at age 2X, though!\"",
+      "jp": "「まあ、二十ウン歳にもなっちゃ間違ってもヒロインにはなれないけどね！」",
+      "Pt-br": "\"Mas, eu acho que não dá para ser uma heroína na idade dos 2X anos!\"",
+      "id": 44027,
+      "epk_id": "43812",
+      "label": "$$$message_0372_0020_0004$$$"
+    },
+    {
+      "en": "\"Indeed. Just use your vaunted magecraft to de-age yourself. I'm sure a witch like you has some cosmetic tricks to her name.\"",
+      "jp": "「うむ。自慢の魔術で若作りに励むがよい。魔女としての面目躍如というところであろう」",
+      "Pt-br": "\"É verdade. Apenas use a sua famosa magia para rejuvenescer. Tenho certeza de que uma bruxa como você deve ter alguns truques cosméticos na manga.\"",
+      "id": 44028,
+      "epk_id": "43813",
+      "label": "$$$message_0372_0020_0005$$$"
+    },
+    {
+      "en": "\"Heh. [hfquake layer=message0 wait=0 hmax=0 vmax=3]Hehehehehe.\"",
+      "jp": "「ふ。[hfquake layer=message0 wait=0 hmax=0 vmax=3]ふふふふふ」",
+      "Pt-br": "\"Heh. [hfquake layer=message0 wait=0 hmax=0 vmax=3]Hehehehehe.\"",
+      "id": 44029,
+      "epk_id": "43814",
+      "label": "$$$message_0372_0020_0006$$$"
+    },
+    {
+      "en": "\"I've decided that I'm going to fight in this Holy Grail War.\"",
+      "jp": "「[line len=3]決めました。私、聖杯戦争に参加します」",
+      "Pt-br": "\"Eu decidi que irei lutar nesta Guerra do Santo Graal.\"",
+      "id": 44030,
+      "epk_id": "43815",
+      "label": "$$$message_0372_0021_0000$$$"
+    },
+    {
+      "en": "\"Huh? [l][hfwww layer=1][say storage=HSTR5_TIG_0310 _name=藤ねえ]Um, what's up with this weird tension? It was all heartwarming, and now I'm just getting static.\"",
+      "jp": "「へ？[l]　[hfwww layer=1][say storage=HSTR5_TIG_0310 _name=藤ねえ]なに、この異様な空気。暖かいのにピリピリするよ？」",
+      "Pt-br": "\"Hã? [l][hfwww layer=1][say storage=HSTR5_TIG_0310 _name=藤ねえ]Hum, qual é a dessa tensão esquisita? O clima estava tão reconfortante, mas agora só tô recebendo interferência.\"",
+      "id": 44031,
+      "epk_id": "43816",
+      "label": "$$$message_0372_0021_0001$$$"
+    },
+    {
+      "en": "\"I don't particularly have a wish, but I suddenly want the Holy Grail.\"",
+      "jp": "「別に願い事なんてありませんが、唐突に聖杯が欲しくなりました」",
+      "Pt-br": "\"Não tenho um desejo em específico, mas de repente me deu vontade de querer o Santo Graal.\"",
+      "id": 44032,
+      "epk_id": "43817",
+      "label": "$$$message_0372_0021_0002$$$"
+    },
+    {
+      "en": "\"I also have an urge to blast you all back to the Einzbern Forest.\"",
+      "jp": "「あと貴方たちをアインツベルンの森までふっ飛ばしてあげたくなりました」",
+      "Pt-br": "\"Também me deu uma vontade de explodir todos vocês e mandá-los de volta para a Floresta dos Einzbern.\"",
+      "id": 44033,
+      "epk_id": "43818",
+      "label": "$$$message_0372_0022_0000$$$"
+    },
+    {
+      "en": "\"Souichirou, please go rest in the main temple. I won't cause any trouble for you.\"",
+      "jp": "「さ、宗一郎様はお堂の方でお休みください。貴方に迷惑はかけません」",
+      "Pt-br": "\"Souichirou-sama, por favor, vá descansar no templo principal. Eu não vou te causar nenhum problema.\"",
+      "id": 44034,
+      "epk_id": "43819",
+      "label": "$$$message_0372_0022_0001$$$"
+    },
+    {
+      "en": "\"...No, if I'm going to rest, then it should be with you. I know what my role is in the Holy Grail War.\"",
+      "jp": "「[line len=3]いや、休むのならおまえも一緒だ。事が聖杯戦争というのなら、私の役割は決まっている」",
+      "Pt-br": "\"...Não, se eu for descansar, tem que ser com você. Eu sei muito bem qual é o meu papel na Guerra do Santo Graal.\"",
+      "id": 44035,
+      "epk_id": "43820",
+      "label": "$$$message_0372_0022_0002$$$"
+    },
+    {
+      "en": "\"Let's do this, Caster. I have to at least repay you for the tea and snacks.\"",
+      "jp": "「行くぞキャスター。少なくとも、茶と洋菓子の借りは返さねばなるまい」",
+      "Pt-br": "\"Vamos fazer isso, Caster. Preciso pelo menos recompensá-la pelo chá e pelos lanches.\"",
+      "id": 44036,
+      "epk_id": "43821",
+      "label": "$$$message_0372_0022_0003$$$"
+    },
+    {
+      "en": "\"Souichirou...\"",
+      "jp": "「宗一郎様……」",
+      "Pt-br": "\"Souichirou-sama...\"",
+      "id": 44037,
+      "epk_id": "43822",
+      "label": "$$$message_0372_0022_0004$$$"
+    },
+    {
+      "en": "\"Heh, hehe, [wm][l][hfwww layer=0][say storage=HSTR5_CAS_0280 _name=キャスター]hehehehehehehehe![lr]",
+      "jp": "「ふ、ふふ、[wm][l][hfwww layer=0][say storage=HSTR5_CAS_0280 _name=キャスター]ふふふふふふふふ！[lr]",
+      "Pt-br": "\"Heh, hehe, [wm][l][hfwww layer=0][say storage=HSTR5_CAS_0280 _name=キャスター]hehehehehehehehe![lr]",
+      "id": 44038,
+      "epk_id": "43823",
+      "label": "$$$message_0372_0022_0005$$$"
+    },
+    {
+      "en": "Are you ready for this, you dunce duo!? Assassin, take care of them!\"",
+      "jp": "　さあ、覚悟はいいかしらおバカコンビ！　アサシン、とりあえずやっておしまい！」",
+      "Pt-br": "Vocês estão prontas pra isso, sua dupla de panacas!? Assassin, cuide delas!\"",
+      "id": 44039,
+      "epk_id": "43824",
+      "label": "$$$message_0372_0022_0006$$$"
+    },
+    {
+      "en": "\"There it is. Sorry, tiger girl. I held back earlier, but I'm going to give it an earnest effort this time.\"",
+      "jp": "「そうこなくては。すまんな虎娘。先ほどは加減したが、今度は本気でやらせてもらうぞ」",
+      "Pt-br": "\"Aí está. Desculpe, garota tigresa. Eu me contive antes, mas vou tentar lutar com seriedade desta vez.\"",
+      "id": 44040,
+      "epk_id": "43825",
+      "label": "$$$message_0372_0022_0007$$$"
+    },
+    {
+      "en": "\"Now that Caster's back, there are more battles in store after this.\"",
+      "jp": "「キャスターが復活した以上、この後も戦いが控えているのでな」",
+      "Pt-br": "\"Agora que a Caster voltou, mais batalhas estão por vir depois desta.\"",
+      "id": 44041,
+      "epk_id": "43826",
+      "label": "$$$message_0372_0022_0008$$$"
+    },
+    {
+      "en": "\"...I see, you used us.[lr]",
+      "jp": "「……そう、利用されたってワケね。[lr]",
+      "Pt-br": "\"...Entendi, você nos usou.[lr]",
+      "id": 44042,
+      "epk_id": "43827",
+      "label": "$$$message_0372_0022_0009$$$"
+    },
+    {
+      "en": "It's three on two... What should we do, Taiga? We're at a disadvantage. We could fall back and re[line len=2]\"",
+      "jp": "　三対二……どうしようタイガ、さすがに不利よ。ここは態勢を立て直して[line len=3]」",
+      "Pt-br": "É três contra duas... O que deveríamos fazer, Taiga? Nós estamos em desvantagem. Nós podíamos recuar e re[line len=2]\"",
+      "id": 44043,
+      "epk_id": "43828",
+      "label": "$$$message_0372_0022_0010$$$"
+    },
+    {
+      "en": "\"No need for that, Illya. I won't lose no matter how many we're fighting, and I won't let them hurt you, either.\"",
+      "jp": "「その必要はないわイリヤちゃん。相手が何人だろうとわたしは負けないし、イリヤちゃんを傷つけさせないから」",
+      "Pt-br": "\"Não tem necessidade, Illya-chan. Eu não vou perder, não importa com quantos lutaremos, e também não vou deixar que machuquem você.\"",
+      "id": 44044,
+      "epk_id": "43829",
+      "label": "$$$message_0372_0022_0011$$$"
+    },
+    {
+      "en": "\"Just trust the Servant you chose, Master.\"",
+      "jp": "「どどーんと、自分が選んだサーヴァントを信じなさいマスター」",
+      "Pt-br": "\"Apenas confie no Servo que escolheu, Mestra.\"",
+      "id": 44045,
+      "epk_id": "43830",
+      "label": "$$$message_0372_0022_0012$$$"
+    },
+    {
+      "en": "\"Taiga... [l][hfchance layer=1][say storage=HSTR5_BIR_0130 _name=ブルマイリヤ]Oh no, that actually made me tear up a little.\"",
+      "jp": "「タイガ[line len=3][l][hfchance layer=1][say storage=HSTR5_BIR_0130 _name=ブルマイリヤ]やば、ちょっと感動しちゃった」",
+      "Pt-br": "\"Taiga... [l][hfchance layer=1][say storage=HSTR5_BIR_0130 _name=ブルマイリヤ]Oh não, isso de verdade me fez chorar um pouco agora.\"",
+      "id": 44046,
+      "epk_id": "43831",
+      "label": "$$$message_0372_0022_0013$$$"
+    },
+    {
+      "en": "\"Well, it sounds like the perfect handicap for me! Let's do this, Caster! I'll show you how much difference X years can make...!\"",
+      "jp": "「ええ、これくらいのハンデ、わたしにはちょうどいいわ！　行くわよキャスター、歳の差ってヤツを思い知らせてあげる……！」",
+      "Pt-br": "\"Bem, parece que isso seria o desafio perfeito pra mim! Vamos nessa, Caster! Vou te mostrar a grande diferença que X anos podem fazer...!\"",
+      "id": 44047,
+      "epk_id": "43833",
+      "label": "$$$message_0372_0022_0015$$$"
+    },
+    {
+      "en": "\"ARRRRRRGH![lr]",
+      "jp": "「きぃぃぃいいーーーー！[lr]",
+      "Pt-br": "\"ARRRRRRGH![lr]",
+      "id": 44048,
+      "epk_id": "43834",
+      "label": "$$$message_0372_0022_0016$$$"
+    },
+    {
+      "en": "What does my age have to do with it!?\"[nolr][p]",
+      "jp": "　歳は関係ないでしょ歳はーーー！」[nolr][p]",
+      "Pt-br": "O que a minha idade tem a ver com isso!?\"[nolr][p]",
+      "id": 44049,
+      "epk_id": "43835",
+      "label": "$$$message_0372_0022_0017$$$"
+    }
+  ]
+}

@@ -1,0 +1,592 @@
+{
+  "cena": "0lchvv1q8e6scujflnbgias90e",
+  "titulo": "Escola: Mentoria de Vida",
+  "rota": "Dia 1",
+  "arquivo": "0lchvv1q8e6scujflnbgias90e.epk_dec",
+  "linhas": [
+    {
+      "en": "The afternoon homeroom period ends and we all head out.[lr]",
+      "jp": "　帰りのホームルームが終わって、ぞろぞろと家路につく。[lr]",
+      "Pt-br": "A reunião de classe da tarde termina, e todos começam a sair.[lr]",
+      "id": 6452,
+      "epk_id": "10416",
+      "label": "$$$message_0079_0000_0000$$$"
+    },
+    {
+      "en": "Students who go straight home, students who hurry to their club practice, students who are just talking[line len=2]the hallway is almost as lively as lunch break.[lr]",
+      "jp": "　直帰する生徒、部活棟に急ぐ生徒、なんとなくダベっている生徒と、廊下は昼休みに次ぐ騒がしさだ。[lr]",
+      "Pt-br": "Uns vão direto para casa, outros correm para os clubes, outros ficam conversando[line len=2]o corredor está quase tão animado quanto no intervalo do almoço.[lr]",
+      "id": 6453,
+      "epk_id": "10417",
+      "label": "$$$message_0079_0000_0001$$$"
+    },
+    {
+      "en": "I don't have any plans, and I don't have work.[lr]",
+      "jp": "　今日はどこかに寄っていく約束も、アルバイトも入っていない。[lr]",
+      "Pt-br": "Não tenho planos nem trabalho hoje.[lr]",
+      "id": 6454,
+      "epk_id": "10418",
+      "label": "$$$message_0079_0000_0002$$$"
+    },
+    {
+      "en": "So I'm part of the straight home group, and[line len=2]",
+      "jp": "　寄り道をせず直帰するだけなのだが[line len=3]",
+      "Pt-br": "Então faço parte do grupo que vai direto para casa e[line len=2]",
+      "id": 6455,
+      "epk_id": "10419",
+      "label": "$$$message_0079_0000_0003$$$"
+    },
+    {
+      "en": "\"Emiya, I have something to talk about. Stay behind, please.\"[lr]",
+      "jp": "「衛宮くん、ちょっと。話がありますから教室に残りなさい」[lr]",
+      "Pt-br": "\"Emiya-kun, preciso falar com você. Por favor, fique um pouco.\"[lr]",
+      "id": 6456,
+      "epk_id": "10420",
+      "label": "$$$message_0079_0001_0000$$$"
+    },
+    {
+      "en": "\"Hm?\"[lr]",
+      "jp": "「？」[lr]",
+      "Pt-br": "\"Hmm?\"[lr]",
+      "id": 6457,
+      "epk_id": "10421",
+      "label": "$$$message_0079_0001_0001$$$"
+    },
+    {
+      "en": "Fuji-nee stops me with a serious expression.[lr]",
+      "jp": "　真面目な顔で藤ねえに呼び止められた。[lr]",
+      "Pt-br": "Fuji-nee me detém com uma expressão séria.[lr]",
+      "id": 6458,
+      "epk_id": "10422",
+      "label": "$$$message_0079_0001_0002$$$"
+    },
+    {
+      "en": "She's \"Ms. Fujimura\" at times like this, so I have to respond seriously as a student.",
+      "jp": "　ああいう時は“藤村先生”なので、こっちも生徒として真面目に応えなくてはいけない。",
+      "Pt-br": "Nessas horas, ela é a \"Fujimura-sensei\". Então preciso responder com a devida seriedade de aluno.",
+      "id": 6459,
+      "epk_id": "10423",
+      "label": "$$$message_0079_0001_0003$$$"
+    },
+    {
+      "en": "\"What is it, Ms. Fujimura?\"[lr]",
+      "jp": "「話って何ですか、藤村先生」[lr]",
+      "Pt-br": "\"O que foi, Fujimura-sensei?\"[lr]",
+      "id": 6460,
+      "epk_id": "10424",
+      "label": "$$$message_0079_0002_0000$$$"
+    },
+    {
+      "en": "\"Don't 'what is it' me.[lr]",
+      "jp": "「なんですか、じゃありません。[lr]",
+      "Pt-br": "\"Nada de 'o que foi'.[lr]",
+      "id": 6461,
+      "epk_id": "10425",
+      "label": "$$$message_0079_0002_0001$$$"
+    },
+    {
+      "en": "Emiya, you haven't decided where you want to go after graduation, have you? Did you forget that I said to turn it in by this week?\"",
+      "jp": "　衛宮くん、まだ進学先決めてないでしょ。今週中に提出しなさいって言ったの、忘れたの？」",
+      "Pt-br": "Emiya-kun, você ainda não decidiu o que fará depois de se formar, não é? Esqueceu que eu mandei entregar o formulário esta semana?\"",
+      "id": 6462,
+      "epk_id": "10426",
+      "label": "$$$message_0079_0002_0002$$$"
+    },
+    {
+      "en": "\"Oh.\"[lr]",
+      "jp": "「あ」[lr]",
+      "Pt-br": "\"Oh.\"[lr]",
+      "id": 6463,
+      "epk_id": "10427",
+      "label": "$$$message_0079_0003_0000$$$"
+    },
+    {
+      "en": "I did forget.[lr]",
+      "jp": "　忘れてた。[lr]",
+      "Pt-br": "Eu tinha esquecido mesmo.[lr]",
+      "id": 6464,
+      "epk_id": "10428",
+      "label": "$$$message_0079_0003_0001$$$"
+    },
+    {
+      "en": "...Wait. It's October already. I haven't narrowed everything down by now?[lr]",
+      "jp": "　……というか、もう十月だって言うのに進路を絞り込めていないのか俺は。[lr]",
+      "Pt-br": "...Espera. Já estamos em outubro. Como ainda não consegui reduzir minhas opções?[lr]",
+      "id": 6465,
+      "epk_id": "10429",
+      "label": "$$$message_0079_0003_0002$$$"
+    },
+    {
+      "en": "I suppose it's only natural for this Ms. Fujimura persona to make her appearance now.",
+      "jp": "　藤ねえが藤村先生になるのも当然である。",
+      "Pt-br": "Fujimura-sensei, É natural que a persona de \"Fuji-nee\" dê as caras a esta altura.",
+      "id": 6466,
+      "epk_id": "10430",
+      "label": "$$$message_0079_0003_0003$$$"
+    },
+    {
+      "en": "\"I'm sorry. Um, I would like some more time, is that possible?\"[lr]",
+      "jp": "「すみません。えーと、もう少し時間がほしいんですけど、ダメでしょうか？」[lr]",
+      "Pt-br": "\"Desculpe. Ahn... seria possível me dar mais um pouco de tempo?\"[lr]",
+      "id": 6467,
+      "epk_id": "10431",
+      "label": "$$$message_0079_0004_0000$$$"
+    },
+    {
+      "en": "\"It is not. Turn it in by today. It is only you and Miss Makidera that have not decided as third years. Decide before Miss Makidera beats you to it.[lr]",
+      "jp": "「ダメです。今日中に提出しなさい。三年で決めてないのは衛宮くんと蒔寺さんだけなんですからね。蒔寺さんに先を越される前に決めちゃいなさい。[lr]",
+      "Pt-br": "\"Não. Entregue hoje. Entre os alunos do terceiro ano, só Emiya-kun e a Makidera-san ainda não decidiram. Resolva isso antes que ela passe à sua frente.[lr]",
+      "id": 6468,
+      "epk_id": "10432",
+      "label": "$$$message_0079_0004_0001$$$"
+    },
+    {
+      "en": "Well, I'll cut you some slack since it's so last minute.\"[lr]",
+      "jp": "　まあ、少しぐらいその場しのぎでも大目に見ますから」[lr]",
+      "Pt-br": "Bem, como deixamos para a última hora, vou facilitar um pouco para você.\"[lr]",
+      "id": 6469,
+      "epk_id": "10433",
+      "label": "$$$message_0079_0004_0002$$$"
+    },
+    {
+      "en": "Ms. Fujimura takes out the student path survey report.",
+      "jp": "　はい、と進路希望の報告書を取り出す藤村先生。",
+      "Pt-br": "A Fujimura-sensei tira o formulário de orientação vocacional.",
+      "id": 6470,
+      "epk_id": "10434",
+      "label": "$$$message_0079_0004_0003$$$"
+    },
+    {
+      "en": "\"...So I just have to fill in the spaces since it's last minute?\"[lr]",
+      "jp": "「……。その場しのぎでもいいって、とりあえず欄を埋めろってコトですか？」[lr]",
+      "Pt-br": "\"...Como é em cima da hora, basta preencher os campos?\"[lr]",
+      "id": 6471,
+      "epk_id": "10435",
+      "label": "$$$message_0079_0005_0000$$$"
+    },
+    {
+      "en": "\"Yes. [cacheimage storage=è—¤10b(ä¸­)][wvl canskip=0 time=400][chgfg time=300 storage=è—¤10b(ä¸­)]It's a headache as your homeroom teacher and guardian, but you'll be called to the faculty room if you don't.\"[lr]",
+      "jp": "「そういうコトです。[cacheimage storage=藤10b(中)][wvl canskip=0 time=400][chgfg time=300 storage=藤10b(中)]担任としても保護者としても頭が痛いですが、それを書いてもらわないと次は職員室に呼び出しだからねー」[lr]",
+      "Pt-br": "\"Sim. [cacheimage storage=藤10b(中)][wvl canskip=0 time=400][chgfg time=300 storage=藤10b(中)]Já me dá dor de cabeça ser sua professora e sua responsável, mas, se não fizer isso, vão chamá-lo à sala dos professores.\"[lr]",
+      "id": 6472,
+      "epk_id": "10436",
+      "label": "$$$message_0079_0005_0001$$$"
+    },
+    {
+      "en": "Ms. Fujimura[line len=2]no, Fuji-nee[line len=2]sighs dramatically.",
+      "jp": "　はあ、と大げさにため息をつく藤村先生、いや藤ねえ。",
+      "Pt-br": "A Fujimura-sensei[line len=2]não, Fuji-nee[line len=2]solta um suspiro teatral, Sensei.",
+      "id": 6473,
+      "epk_id": "10437",
+      "label": "$$$message_0079_0005_0002$$$"
+    },
+    {
+      "en": "\"Understood. Then give me a bit of time.\"[lr]",
+      "jp": "「わかりました。じゃ、ちょっと考えます」[lr]",
+      "Pt-br": "\"Entendido. Então me dê um pouco de tempo.\"[lr]",
+      "id": 6474,
+      "epk_id": "10438",
+      "label": "$$$message_0079_0006_0000$$$"
+    },
+    {
+      "en": "\"Very well. I have time, so I'll keep you company until the sun sets.\"[lr]",
+      "jp": "「よろしい。時間はあるからね、日が沈むまでは付き合ってあげます」[lr]",
+      "Pt-br": "\"Muito bem. Estou livre, então faço companhia até o Sol se pôr.\"[lr]",
+      "id": 6475,
+      "epk_id": "10439",
+      "label": "$$$message_0079_0006_0001$$$"
+    },
+    {
+      "en": "So she says.[lr]",
+      "jp": "　とのコトだ。[lr]",
+      "Pt-br": "É o que ela diz.[lr]",
+      "id": 6476,
+      "epk_id": "10440",
+      "label": "$$$message_0079_0006_0002$$$"
+    },
+    {
+      "en": "I was thinking of going to a local college up until last year, but plans have taken a dramatic turn as of late.[lr]",
+      "jp": "　去年までは地元で進学するのを考えていたが、今は大きく変動している。[lr]",
+      "Pt-br": "Até o ano passado, eu pensava em cursar uma faculdade daqui mesmo. Ultimamente, porém, meus planos mudaram por completo.[lr]",
+      "id": 6477,
+      "epk_id": "10441",
+      "label": "$$$message_0079_0006_0003$$$"
+    },
+    {
+      "en": "She says it's fine since this is last minute, but I really ought to be thinking about this carefully, right...?",
+      "jp": "　藤ねえはその場しのぎでいいと言うけど、ここはちゃんと報告しておくべきだろうか……？",
+      "Pt-br": "Ela disse que podia ser algo simples, já que ficou para a última hora, mas uma decisão dessas merece reflexão...",
+      "id": 6478,
+      "epk_id": "10442",
+      "label": "$$$message_0079_0006_0004$$$"
+    },
+    {
+      "en": "After debating for a while, I did my best to fill out the student path survey seriously.",
+      "jp": "　散々迷った末、出来るだけ本気の進路希望として用紙を埋めた。",
+      "Pt-br": "Depois de ponderar por algum tempo, preencho o formulário com toda a seriedade que consigo reunir.",
+      "id": 6479,
+      "epk_id": "10443",
+      "label": "$$$message_0079_0007_0000$$$"
+    },
+    {
+      "en": "\"Thank you for waiting. Here, Ms. Fujimura.\"[lr]",
+      "jp": "「お待たせしました。はい、藤村先生」[lr]",
+      "Pt-br": "\"Obrigado por esperar. Aqui está, Fujimura-sensei.\"[lr]",
+      "id": 6480,
+      "epk_id": "10444",
+      "label": "$$$message_0079_0008_0000$$$"
+    },
+    {
+      "en": "\"Okay, good work. Hmm, let's see.[lr]",
+      "jp": "「はーい、ごくろうさま。んー、どれどれ？[lr]",
+      "Pt-br": "\"Certo, bom trabalho. Hum, vejamos.[lr]",
+      "id": 6481,
+      "epk_id": "10445",
+      "label": "$$$message_0079_0008_0001$$$"
+    },
+    {
+      "en": "...So, your first choice is undecided.[lr]",
+      "jp": "　……って、第一志望は未定。[lr]",
+      "Pt-br": "...Sua primeira opção continua em aberto.[lr]",
+      "id": 6482,
+      "epk_id": "10446",
+      "label": "$$$message_0079_0008_0002$$$"
+    },
+    {
+      "en": "Your second choice is...studying abroad? Third choice is law and politics, huh?[lr]",
+      "jp": "　第二志望は……外国留学？　第三志望は法政方面かぁ。[lr]",
+      "Pt-br": "A segunda é... estudar no exterior? E a terceira, direito e política, não é?[lr]",
+      "id": 6483,
+      "epk_id": "10447",
+      "label": "$$$message_0079_0008_0003$$$"
+    },
+    {
+      "en": "Your goal until last year has dropped to third, is there any reason for that, Shirou?\"",
+      "jp": "　去年までの目標が三位に転落してるけど、何か理由があるの士郎？」",
+      "Pt-br": "O que era sua meta até o ano passado caiu para terceiro lugar. Há algum motivo, Shirou?\"",
+      "id": 6484,
+      "epk_id": "10448",
+      "label": "$$$message_0079_0008_0004$$$"
+    },
+    {
+      "en": "\"It's not that I lost interest, but rather, I have higher priorities now.[lr]",
+      "jp": "「興味がなくなったワケじゃなくて、他の優先順位が高くなったと言うか。[lr]",
+      "Pt-br": "\"Não perdi o interesse. É só que agora tenho outras prioridades.[lr]",
+      "id": 6485,
+      "epk_id": "10449",
+      "label": "$$$message_0079_0009_0000$$$"
+    },
+    {
+      "en": "Can they not all be the same priority...for now?\"[lr]",
+      "jp": "　一応、限りなく同率ってのはダメ……かな？」[lr]",
+      "Pt-br": "Por enquanto... elas não podem ter todas o mesmo peso?\"[lr]",
+      "id": 6486,
+      "epk_id": "10450",
+      "label": "$$$message_0079_0009_0001$$$"
+    },
+    {
+      "en": "\"That's an inarticulate answer for you, Shirou. But undecided as the same priority? Does that mean you'll work after graduating?\"[lr]",
+      "jp": "「士郎にしては歯切れが悪い回答ね。けど未定も同率なの？　卒業したら働くってコト？」[lr]",
+      "Pt-br": "\"Que resposta vaga, ainda mais vindo de você, Shirou. Mas, se todas têm o mesmo peso, quer dizer que pretende trabalhar depois de se formar?\"[lr]",
+      "id": 6487,
+      "epk_id": "10451",
+      "label": "$$$message_0079_0009_0002$$$"
+    },
+    {
+      "en": "\"I would want to work if I can find a good place. Somewhere I can actually be of help and be able to reach people.\"",
+      "jp": "「いい職場があれば働きたいけど。自分がちゃんと役に立てて、きちんとみんなに行き渡るような」",
+      "Pt-br": "\"Se encontrar um bom lugar, sim. Algum trabalho em que eu possa realmente ser útil e ajudar as pessoas.\"",
+      "id": 6488,
+      "epk_id": "10452",
+      "label": "$$$message_0079_0009_0003$$$"
+    },
+    {
+      "en": "\"Mrgh... Then, what about your second choice of studying abroad? Your grades in English are average, right, Shirou? Putting listening aside, pronunciation is pretty tough.[lr]",
+      "jp": "「むー……じゃあ二番目の外国留学っていうのは？　士郎、英語の成績普通でしょ。ヒアリングはともかく発音はかなり厳しいわよ？[lr]",
+      "Pt-br": "\"Hmpf... E quanto à segunda opção, estudar no exterior? Suas notas em inglês são medianas, não são, Shirou? Mesmo deixando a compreensão de lado, sua pronúncia deixa a desejar.[lr]",
+      "id": 6489,
+      "epk_id": "10453",
+      "label": "$$$message_0079_0010_0000$$$"
+    },
+    {
+      "en": "I don't know. Why are you bringing up studying abroad? Is it Tohsaka's influence?\"",
+      "jp": "　わかんないなあ。どうして留学なんて言い出すのよ。遠坂さんの影響？」",
+      "Pt-br": "Não entendo. Por que estudar no exterior? Influência da Tohsaka-san?\"",
+      "id": 6490,
+      "epk_id": "10454",
+      "label": "$$$message_0079_0010_0001$$$"
+    },
+    {
+      "en": "\"No, it's more like resolution instead of influence. I can't rely on Tohsaka forever if I'm going to study seriously. I thought I'd also need to be thrown into the real place.\"[lr]",
+      "jp": "「いや、影響というより覚悟みたいなものなんだ。本気で勉強するならいつまでも遠坂に甘えていられない。俺も本場でもまれないといけないなって」[lr]",
+      "Pt-br": "\"Não. Mais que influência, é uma decisão. Se quero estudar a sério, não posso depender da Tohsaka para sempre. Achei que também precisava me lançar no lugar onde tudo acontece de verdade.\"[lr]",
+      "id": 6491,
+      "epk_id": "10455",
+      "label": "$$$message_0079_0011_0000$$$"
+    },
+    {
+      "en": "\"Mm. 'Seriously,' like Kiritsugu?\"[lr]",
+      "jp": "「ふーん。本気って、切嗣さんみたいなコト？」[lr]",
+      "Pt-br": "\"Hum. 'A sério', como o Kiritsugu?\"[lr]",
+      "id": 6492,
+      "epk_id": "10456",
+      "label": "$$$message_0079_0011_0001$$$"
+    },
+    {
+      "en": "\"...\"",
+      "jp": "「[line len=6]」",
+      "Pt-br": "\"...\"",
+      "id": 6493,
+      "epk_id": "10457",
+      "label": "$$$message_0079_0011_0002$$$"
+    },
+    {
+      "en": "For a moment, I'm at a loss for words.[lr]",
+      "jp": "　一瞬、言葉を失った。[lr]",
+      "Pt-br": "Por um instante, não sei o que responder.[lr]",
+      "id": 6494,
+      "epk_id": "10458",
+      "label": "$$$message_0079_0012_0000$$$"
+    },
+    {
+      "en": "What she means is if I want to wander around foreign countries like my old man.[lr]",
+      "jp": "　藤ねえが口にしたのは、[ruby text=オヤジ char=2]親父のように外国を渡り歩くのか、という意味だ。[lr]",
+      "Pt-br": "Ela quer saber se pretendo vagar por países estrangeiros como meu velho fazia.[lr]",
+      "id": 6495,
+      "epk_id": "10459",
+      "label": "$$$message_0079_0012_0001$$$"
+    },
+    {
+      "en": "Fuji-nee knows more than anyone else of my admiration for the man. That's what she's picking up from the abroad option, completely putting aside Tohsaka's influence.",
+      "jp": "　俺が切嗣に憧れていた事を、藤ねえは誰よりも知っている。だから遠坂の事とは関係なしで『外国に行く』、という言葉の意味を察している。",
+      "Pt-br": "Fuji-nee conhece melhor que ninguém a admiração que sinto por ele. É isso que ela enxerga na opção de estudar fora, deixando de lado qualquer influência da Tohsaka.",
+      "id": 6496,
+      "epk_id": "10460",
+      "label": "$$$message_0079_0012_0002$$$"
+    },
+    {
+      "en": "\"I don't know. I don't know about the future, but I think it will be a different path from my old man.\"[lr]",
+      "jp": "「どうだろう。先のことは分からないけど、[ruby text=オヤジ char=2]親父とは違う道になるとは思う」[lr]",
+      "Pt-br": "\"Não sei. Não sei o que o futuro reserva, mas acho que meu caminho será diferente do caminho do meu velho.\"[lr]",
+      "id": 6497,
+      "epk_id": "10461",
+      "label": "$$$message_0079_0013_0000$$$"
+    },
+    {
+      "en": "\"...Mm. I see, so you've decided already.\"[lr]",
+      "jp": "「……んー。そっか、もう決まってるんだ」[lr]",
+      "Pt-br": "\"...Hum. Entendo. Então você já se decidiu.\"[lr]",
+      "id": 6498,
+      "epk_id": "10462",
+      "label": "$$$message_0079_0013_0001$$$"
+    },
+    {
+      "en": "So, the second choice.[lr]",
+      "jp": "　じゃあ二番目ね、と。[lr]",
+      "Pt-br": "Nesse caso, a segunda opção.[lr]",
+      "id": 6499,
+      "epk_id": "10463",
+      "label": "$$$message_0079_0013_0002$$$"
+    },
+    {
+      "en": "Fuji-nee casually circles the second column of the survey form in red.",
+      "jp": "　藤ねえはあっさりと、進学用紙の第二欄に赤マルをつけた。",
+      "Pt-br": "Com toda a naturalidade, Fuji-nee circula em vermelho a segunda coluna do formulário.",
+      "id": 6500,
+      "epk_id": "10464",
+      "label": "$$$message_0079_0013_0003$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「[line len=6]」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 6501,
+      "epk_id": "10465",
+      "label": "$$$message_0079_0014_0000$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「[line len=6]」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 6502,
+      "epk_id": "10466",
+      "label": "$$$message_0079_0014_0001$$$"
+    },
+    {
+      "en": "I hear the commotion of the club activities from the schoolyard.[lr]",
+      "jp": "　校庭から部活動のざわめきが響いてくる。[lr]",
+      "Pt-br": "Do pátio, ouço a agitação das atividades dos clubes.[lr]",
+      "id": 6503,
+      "epk_id": "10467",
+      "label": "$$$message_0079_0014_0002$$$"
+    },
+    {
+      "en": "The classroom is quiet, as if there are no people.[lr]",
+      "jp": "　教室は人がいないかのように静かだ。[lr]",
+      "Pt-br": "A sala permanece quieta, como se estivesse vazia.[lr]",
+      "id": 6504,
+      "epk_id": "10468",
+      "label": "$$$message_0079_0014_0003$$$"
+    },
+    {
+      "en": "Fuji-nee, staring at the podium in front, and me sitting at the desk makes for a quiet, empty scene.",
+      "jp": "　実際には机に座った俺と、教壇で進学用紙を見つめている藤ねえがいるが、無人のように静かだった。",
+      "Pt-br": "Fuji-nee contempla o estrado à frente, enquanto eu continuo sentado à carteira. Uma cena silenciosa, deserta.",
+      "id": 6505,
+      "epk_id": "10469",
+      "label": "$$$message_0079_0014_0004$$$"
+    },
+    {
+      "en": "\"Um. I can't stop a student's autonomy as a teacher, but can I ask one thing?\"[lr]",
+      "jp": "「えーとさ。教師として、生徒の自主性は止められないんだけど、一つだけ聞いていいかな」[lr]",
+      "Pt-br": "\"Bem... Como professora, não posso interferir na autonomia de um aluno. Mas posso lhe pedir uma coisa?\"[lr]",
+      "id": 6506,
+      "epk_id": "10470",
+      "label": "$$$message_0079_0015_0000$$$"
+    },
+    {
+      "en": "\"Yeah, what?\"[lr]",
+      "jp": "「うん、なに」[lr]",
+      "Pt-br": "\"Claro. O quê?\"[lr]",
+      "id": 6507,
+      "epk_id": "10471",
+      "label": "$$$message_0079_0015_0001$$$"
+    },
+    {
+      "en": "That is...[lr]",
+      "jp": "　それは[lr]",
+      "Pt-br": "O pedido é...[lr]",
+      "id": 6508,
+      "epk_id": "10472",
+      "label": "$$$message_0079_0015_0002$$$"
+    },
+    {
+      "en": "\"Shirou, will you come back?\"[lr]",
+      "jp": "「士郎、ちゃんと帰ってくる？」[lr]",
+      "Pt-br": "\"Shirou, você vai voltar?\"[lr]",
+      "id": 6509,
+      "epk_id": "10473",
+      "label": "$$$message_0079_0015_0003$$$"
+    },
+    {
+      "en": "...words hinting at a time to come, as if to secure a promise for the future, or perhaps a promise of days long past.",
+      "jp": "　明日の約束をとりつけるような、昨日の約束をとりつけるような、遠くを見据える言葉だった。",
+      "Pt-br": "...palavras voltadas para o tempo que virá, como se quisessem arrancar uma promessa para o futuro — ou talvez renovar uma promessa de dias muito distantes.",
+      "id": 6510,
+      "epk_id": "10474",
+      "label": "$$$message_0079_0015_0004$$$"
+    },
+    {
+      "en": "\"...I'll come back. Multiple times a year. I have to take care of the house, right?\"[lr]",
+      "jp": "「……帰ってくるよ。一年に何回でも。うちの手入れ、しなくちゃいけないだろ」[lr]",
+      "Pt-br": "\"...Vou voltar. Várias vezes por ano. Alguém precisa cuidar da casa, não é?\"[lr]",
+      "id": 6511,
+      "epk_id": "10475",
+      "label": "$$$message_0079_0016_0000$$$"
+    },
+    {
+      "en": "\"Oh, okay. Well, I'll have to make sure to be there for you then![lr]",
+      "jp": "「なーんだ、じゃあ待っててあげなくちゃダメねー！[lr]",
+      "Pt-br": "\"Ah, certo. Então vou me certificar de estar aqui quando você voltar![lr]",
+      "id": 6512,
+      "epk_id": "10476",
+      "label": "$$$message_0079_0016_0001$$$"
+    },
+    {
+      "en": "I'll protect the house while you're not here, so you can go anywhere you wish!\"",
+      "jp": "　士郎がいない間はわたしが守っててあげるから、ドーンとどっか行ってきていいわよー！」",
+      "Pt-br": "Eu protejo a casa enquanto estiver fora. Assim, pode ir aonde quiser!\"",
+      "id": 6513,
+      "epk_id": "10477",
+      "label": "$$$message_0079_0016_0002$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「[line len=6]」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 6514,
+      "epk_id": "10478",
+      "label": "$$$message_0079_0017_0000$$$"
+    },
+    {
+      "en": "A radiant smile.[lr]",
+      "jp": "　きらめくような笑顔。[lr]",
+      "Pt-br": "Um sorriso radiante.[lr]",
+      "id": 6515,
+      "epk_id": "10479",
+      "label": "$$$message_0079_0017_0001$$$"
+    },
+    {
+      "en": "Even if I were to go somewhere far...[lr]",
+      "jp": "　もし、本当に遠い土地に行く事になった時。[lr]",
+      "Pt-br": "Mesmo que eu vá para muito longe...[lr]",
+      "id": 6516,
+      "epk_id": "10480",
+      "label": "$$$message_0079_0017_0002$$$"
+    },
+    {
+      "en": "Where else in the world could I ever find a smile as strong as that?",
+      "jp": "　この笑顔に勝る応援が、この世の何処にあるだろう。",
+      "Pt-br": "Em que outro lugar do mundo eu encontraria um sorriso tão cheio de força?",
+      "id": 6517,
+      "epk_id": "10481",
+      "label": "$$$message_0079_0017_0003$$$"
+    },
+    {
+      "en": "\"...Thanks, Fuji-nee.[lr]",
+      "jp": "「[line len=3]ありがと藤ねえ。[lr]",
+      "Pt-br": "\"...Obrigado, Fuji-nee.[lr]",
+      "id": 6518,
+      "epk_id": "10482",
+      "label": "$$$message_0079_0018_0000$$$"
+    },
+    {
+      "en": "I don't think it'll happen, but please look after the house in that case.\"[lr]",
+      "jp": "　確率低いけど、もしそうなったら留守は頼んだからな」[lr]",
+      "Pt-br": "Não acho que vá acontecer, mas, se acontecer, cuide da casa por mim.\"[lr]",
+      "id": 6519,
+      "epk_id": "10483",
+      "label": "$$$message_0079_0018_0001$$$"
+    },
+    {
+      "en": "\"You too, Shirou. If you're going to go somewhere else, you better come back bigger.\"[lr]",
+      "jp": "「士郎もね。外に出るからには、一回りおっきくなって帰ってくるのよ」[lr]",
+      "Pt-br": "\"E você, Shirou. Se vai partir para algum lugar, trate de voltar um homem maior.\"[lr]",
+      "id": 6520,
+      "epk_id": "10484",
+      "label": "$$$message_0079_0018_0002$$$"
+    },
+    {
+      "en": "She replies with unwavering warmth.[lr]",
+      "jp": "　変わらない温かさで返される。[lr]",
+      "Pt-br": "Ela responde com uma ternura inabalável.[lr]",
+      "id": 6521,
+      "epk_id": "10485",
+      "label": "$$$message_0079_0018_0003$$$"
+    },
+    {
+      "en": "This is the last autumn before my route will drastically change.[lr]",
+      "jp": "　もうじき大きく路線が切り替わる最後の秋。[lr]",
+      "Pt-br": "Este é o último outono antes que meu caminho mude por completo.[lr]",
+      "id": 6522,
+      "epk_id": "10486",
+      "label": "$$$message_0079_0018_0004$$$"
+    },
+    {
+      "en": "Another promise that cannot be broken was made in this classroom with just the two of us.",
+      "jp": "　二人きりの教室で、また一つ、破れない約束が出来てくれた。",
+      "Pt-br": "Naquela sala de aula onde restamos apenas nós dois, nasce mais uma promessa que jamais poderá ser quebrada.",
+      "id": 6523,
+      "epk_id": "10487",
+      "label": "$$$message_0079_0018_0005$$$"
+    },
+    {
+      "en": "\"I'm sorry. Um, I would like some more time, is that possible?\"[r]",
+      "jp": "「すみません。[r]えーと、もう少し時間が[r]ほしいんですけど、ダメ[r]でしょうか？」<\u0016(",
+      "Pt-br": "\"Lamento. Um, eu gostaria de mais tempo, é possível?[r]",
+      "id": 6524,
+      "epk_id": "910431",
+      "label": "$$$message_9079_0004_0000$$$"
+    }
+  ]
+}

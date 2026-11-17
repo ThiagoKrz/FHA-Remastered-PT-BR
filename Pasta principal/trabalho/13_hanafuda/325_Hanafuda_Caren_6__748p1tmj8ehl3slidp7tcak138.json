@@ -1,0 +1,552 @@
+{
+  "cena": "748p1tmj8ehl3slidp7tcak138",
+  "titulo": "Hanafuda: Caren 6",
+  "rota": "Hanafuda",
+  "arquivo": "748p1tmj8ehl3slidp7tcak138.epk_dec",
+  "linhas": [
+    {
+      "en": "\"Thou hast finally arrived.[lr]",
+      "jp": "「よくぞ辿り着いた。[lr]",
+      "Pt-br": "\"Por fim, chegaste.[lr]",
+      "id": 42018,
+      "epk_id": "41795",
+      "label": "$$$message_0223_0000_0000$$$"
+    },
+    {
+      "en": "Bearer of the Holy Grail, wretched yet beautiful, devoted to thy wish...[playstop time=400 nowait=1]\"[nolr]",
+      "jp": "　己が願いに執心する、浅ましくも美しい、聖杯の担い手[line len=3][playstop time=400 nowait=1]」[nolr]",
+      "Pt-br": "Portadora do Santo Graal, miserável e bela, devotada ao teu desejo...[playstop time=400 nowait=1]\"[nolr]",
+      "id": 42019,
+      "epk_id": "41796",
+      "label": "$$$message_0223_0000_0001$$$"
+    },
+    {
+      "en": "\"...\"",
+      "jp": "「[line len=9]」",
+      "Pt-br": "\"...\"",
+      "id": 42020,
+      "epk_id": "41797",
+      "label": "$$$message_0223_0000_0002$$$"
+    },
+    {
+      "en": "\"...\"",
+      "jp": "「[line len=18]」",
+      "Pt-br": "\"...\"",
+      "id": 42021,
+      "epk_id": "41798",
+      "label": "$$$message_0223_0000_0003$$$"
+    },
+    {
+      "en": "\"...\"",
+      "jp": "「[line len=18]」",
+      "Pt-br": "\"...\"",
+      "id": 42022,
+      "epk_id": "41799",
+      "label": "$$$message_0223_0000_0004$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「[line len=18]」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 42023,
+      "epk_id": "41800",
+      "label": "$$$message_0223_0000_0005$$$"
+    },
+    {
+      "en": "\"...This is taking a while. [wait canskip=0 time=300]I guess it's what they say about people who are too alike to get along. It was never going to be that easy... Wait, [wait canskip=0 time=400][hffacechg chara=ランサー face=怒 layer=0 time=200][hfstamp layer=0][se volume=80 storage=se564.wav]whoa!\"",
+      "jp": "「……長えな。[wait canskip=0 time=300]ま、似た者同士は仲が悪いって言うしな。そう簡単にはいかねえか……って、[wait canskip=0 time=400][hffacechg chara=ランサー face=怒 layer=0 time=200][hfstamp layer=0][se volume=80 storage=se564.wav]おお！？」",
+      "Pt-br": "\"...Isso está demorando. [wait canskip=0 time=300]Acho que é aquilo que dizem sobre pessoas parecidas demais não se darem bem. Nunca ia ser tão fácil... Espera, [wait canskip=0 time=400][hffacechg chara=ランサー face=怒 layer=0 time=200][hfstamp layer=0][se volume=80 storage=se564.wav]opa!\"",
+      "id": 42024,
+      "epk_id": "41801",
+      "label": "$$$message_0223_0000_0006$$$"
+    },
+    {
+      "en": "\"There's a fine man here who's the spitting image, no, a little less good-looking than me but who clearly knows my pain!\"",
+      "jp": "「オレとうり二つ、いや、若干落ちるもののオレと同レベルの苦みほとばしったイイ男がいやがるぞ！？」",
+      "Pt-br": "\"Tem um belo sujeito aqui, minha cara cuspida e escarrada... não, um pouco menos bonito do que eu, mas que claramente entende a minha dor!\"",
+      "id": 42025,
+      "epk_id": "41802",
+      "label": "$$$message_0223_0000_0007$$$"
+    },
+    {
+      "en": "\"Would ya look at that. Wow, when did this turn into a heavenly otome game!?\"",
+      "jp": "「なんてこった。すげえな、いつからここは[ruby text=ガールズサイド char=3]ヘブンになったんだ！？」",
+      "Pt-br": "\"Vejam só. Quando foi que isto virou um otome game celestial!?\"",
+      "id": 42026,
+      "epk_id": "41803",
+      "label": "$$$message_0223_0000_0008$$$"
+    },
+    {
+      "en": "\"...[lr]",
+      "jp": "「………………。[lr]",
+      "Pt-br": "\"...[lr]",
+      "id": 42027,
+      "epk_id": "41804",
+      "label": "$$$message_0223_0000_0009$$$"
+    },
+    {
+      "en": "No, you're just a moron.\"",
+      "jp": "　いや。バカだろ、オマエ」",
+      "Pt-br": "Não, você é só um idiota.\"",
+      "id": 42028,
+      "epk_id": "41805",
+      "label": "$$$message_0223_0000_0010$$$"
+    },
+    {
+      "en": "\"No, I'm not!\"",
+      "jp": "「バカじゃないですよー！」",
+      "Pt-br": "\"Não, não sou!\"",
+      "id": 42029,
+      "epk_id": "41806",
+      "label": "$$$message_0223_0000_0011$$$"
+    },
+    {
+      "en": "\"I'm kidding.[lr]",
+      "jp": "「分かれよな、冗談だよ冗談。[lr]",
+      "Pt-br": "\"Estou brincando.[lr]",
+      "id": 42030,
+      "epk_id": "41807",
+      "label": "$$$message_0223_0000_0012$$$"
+    },
+    {
+      "en": "We're not monkeys staring into a mirror. We both know what's up.\"",
+      "jp": "　鏡に映ったサルじゃねーんだからよ、お互いがなんであるか分かるっての」",
+      "Pt-br": "Não somos macacos olhando para um espelho. Nós dois sabemos do que se trata.\"",
+      "id": 42031,
+      "epk_id": "41808",
+      "label": "$$$message_0223_0000_0013$$$"
+    },
+    {
+      "en": "\"Wow, how unusual for two of the same Heroic Spirit to be summoned into the same era.\"",
+      "jp": "「うわあ、珍しい。同じ時代に一人の英霊が二体召喚されるなんて」",
+      "Pt-br": "\"Que raro. Dois Espíritos Heroicos idênticos serem invocados na mesma era.\"",
+      "id": 42032,
+      "epk_id": "41809",
+      "label": "$$$message_0223_0000_0014$$$"
+    },
+    {
+      "en": "\"It's certainly possible with the Servant system. So are we looking at a good Cú Chulainn and an evil one?\"",
+      "jp": "「サーヴァントのシステム上こういうのもアリですけどね。善のクーフーリンと悪のクーフーリンってところですか」",
+      "Pt-br": "\"Isso é perfeitamente possível dentro do sistema dos Servos. Então estamos vendo um Cú Chulainn do bem e outro do mal?\"",
+      "id": 42033,
+      "epk_id": "41810",
+      "label": "$$$message_0223_0000_0015$$$"
+    },
+    {
+      "en": "\"Pretty much. Though I'm neutral, so it's not like I'd split into good and evil halves.\"",
+      "jp": "「おうよ。まあ、オレの性格は中庸だから善悪に分かれるコトはねえんだけどよ」",
+      "Pt-br": "\"Mais ou menos. Só que eu sou neutro, então não é como se me dividisse em um lado bom e outro mau.\"",
+      "id": 42034,
+      "epk_id": "41811",
+      "label": "$$$message_0223_0000_0016$$$"
+    },
+    {
+      "en": "\"If there's subtle differences in how I manifest, it would come down to the difference between Masters.\"",
+      "jp": "「在り方に細かい違いがあるとしたら、そりゃマスターの違いぐらいさ」",
+      "Pt-br": "\"Se há alguma diferença sutil em como me manifesto, ela deve vir da diferença entre os Mestres.\"",
+      "id": 42035,
+      "epk_id": "41812",
+      "label": "$$$message_0223_0000_0017$$$"
+    },
+    {
+      "en": "\"Oh, piss off. Don't lump us together when you're obviously meant purely for comic relief.\"",
+      "jp": "「まさか。そっちはどう見てもコメディ専用だ。一緒にされちゃ困るな」",
+      "Pt-br": "\"Ah, cala a boca. Não nos ponha no mesmo saco quando você claramente só serve de alívio cômico.\"",
+      "id": 42036,
+      "epk_id": "41813",
+      "label": "$$$message_0223_0000_0018$$$"
+    },
+    {
+      "en": "\"You wot, mate!?[lr]",
+      "jp": "「なんですとー！？[lr]",
+      "Pt-br": "\"Como é que é, parceiro!?[lr]",
+      "id": 42037,
+      "epk_id": "41814",
+      "label": "$$$message_0223_0000_0019$$$"
+    },
+    {
+      "en": "What's so funny about me!?\"",
+      "jp": "　オレのどこがコメディ専用だっていうのよー！」",
+      "Pt-br": "O que é tão engraçado em mim!?\"",
+      "id": 42038,
+      "epk_id": "41815",
+      "label": "$$$message_0223_0000_0020$$$"
+    },
+    {
+      "en": "\"Wha?\"",
+      "jp": "「な？」",
+      "Pt-br": "\"Hã?\"",
+      "id": 42039,
+      "epk_id": "41816",
+      "label": "$$$message_0223_0000_0021$$$"
+    },
+    {
+      "en": "\"Uh, let's chalk it up to a question of nurture over nature.[lr]",
+      "jp": "「あー……[ruby text=うじ]氏より育ちってヤツですね。[lr]",
+      "Pt-br": "\"Hum, vamos dizer que isso é uma questão de criação em vez de natureza.[lr]",
+      "id": 42040,
+      "epk_id": "41817",
+      "label": "$$$message_0223_0000_0022$$$"
+    },
+    {
+      "en": "...You do have my sympathies.\"",
+      "jp": "　……同情します」",
+      "Pt-br": "...Você tem a minha simpatia.\"",
+      "id": 42041,
+      "epk_id": "41818",
+      "label": "$$$message_0223_0000_0023$$$"
+    },
+    {
+      "en": "\"Lancer, I never thought that you could be such a straight man. He must be blessed with a particularly rare colleague and boss[line len=2]\"",
+      "jp": "「ランサーさんがあそこまでツッコミ体質になるなんて、よっぽどアレな[ruby text=マスター char=2]上司と、よっぽどレアな同僚に恵まれ[line len=3]」",
+      "Pt-br": "\"Lancer-san, nunca imaginei que você pudesse ser o sensato da dupla. Ele deve ter sido abençoado com um colega e um chefe especialmente raros[line len=2]\"",
+      "id": 42042,
+      "epk_id": "41819",
+      "label": "$$$message_0223_0000_0024$$$"
+    },
+    {
+      "en": "\"What are you doing? Wrap this up so we can take a[line len=2][wait canskip=0 time=400][hffacechg chara=ギルガメッシュ face=ポカーン layer=0 time=100]Wh-[wait canskip=0 time=600][hffacechg chara=ギルガメッシュ face=喜 layer=0 time=100][play storage=bgm143.ogg][hfquake time=1000 vmax=8 hmax=8 layer=0 wait=0][hfquake layer=message0 time=1000 wait=0 vmax=8 hmax=8]WHOA!\"",
+      "jp": "「なにをしている。手早く片付けて一休みといこうではない、か[line len=3][wait canskip=0 time=400][hffacechg chara=ギルガメッシュ face=ポカーン layer=0 time=100]お、[wait canskip=0 time=600][hffacechg chara=ギルガメッシュ face=喜 layer=0 time=100][play storage=bgm143.ogg][hfquake time=1000 vmax=8 hmax=8 layer=0 wait=0][hfquake layer=message0 time=1000 wait=0 vmax=8 hmax=8]おおおおおおおおおおお！！！！？？」",
+      "Pt-br": "\"O que vocês estão fazendo? Acabem logo com isso para podermos dar um[line len=2][wait canskip=0 time=400][hffacechg chara=ギルガメッシュ face=ポカーン layer=0 time=100]Q-[wait canskip=0 time=600][hffacechg chara=ギルガメッシュ face=喜 layer=0 time=100][play storage=bgm143.ogg][hfquake time=1000 vmax=8 hmax=8 layer=0 wait=0][hfquake layer=message0 time=1000 wait=0 vmax=8 hmax=8]UAU!\"",
+      "id": 42043,
+      "epk_id": "41820",
+      "label": "$$$message_0223_0000_0025$$$"
+    },
+    {
+      "en": "\"This mixer is so absolutely destined it's blinding me![lr]",
+      "jp": "「眩しすぎるほど絶対運命合コン圏！[lr]",
+      "Pt-br": "\"Essa combinação está tão escancaradamente fadada pelo destino que chega a me cegar![lr]",
+      "id": 42044,
+      "epk_id": "41821",
+      "label": "$$$message_0223_0000_0026$$$"
+    },
+    {
+      "en": "Who is that stunningly lovely child, Lancer!?[lr]",
+      "jp": "[nr]　なんだランサーあの愛くるしい子供は！？[lr]",
+      "Pt-br": "Quem é essa criança estonteantemente adorável, Lancer!?[lr]",
+      "id": 42045,
+      "epk_id": "41822",
+      "label": "$$$message_0223_0000_0027$$$"
+    },
+    {
+      "en": "A god!?\"",
+      "jp": "　神か！？」",
+      "Pt-br": "Um deus!?\"",
+      "id": 42046,
+      "epk_id": "41823",
+      "label": "$$$message_0223_0000_0028$$$"
+    },
+    {
+      "en": "\"...\"",
+      "jp": "「[line len=9]」",
+      "Pt-br": "\"...\"",
+      "id": 42047,
+      "epk_id": "41824",
+      "label": "$$$message_0223_0000_0029$$$"
+    },
+    {
+      "en": "\"I should have expected that you'd go for anyone as long as they were childish and blond.[lr]",
+      "jp": "「さすがは英雄王。金髪で幼児体型ならなんでもいいのですね。[lr]",
+      "Pt-br": "\"Eu já devia esperar que você se atirasse em qualquer um desde que fosse jovem e loiro.[lr]",
+      "id": 42048,
+      "epk_id": "41825",
+      "label": "$$$message_0223_0000_0030$$$"
+    },
+    {
+      "en": "But he's a boy, you know.\"",
+      "jp": "　ですが、彼は男の子ですよ？」",
+      "Pt-br": "Mas ele é um menino, sabia.\"",
+      "id": 42049,
+      "epk_id": "41826",
+      "label": "$$$message_0223_0000_0031$$$"
+    },
+    {
+      "en": "\"Nrgh. Don't mock me, fool![lr]",
+      "jp": "「ぬ。たわけめ、侮るな下郎！[lr]",
+      "Pt-br": "\"Nrgh. Não zombe de mim, tolo![lr]",
+      "id": 42050,
+      "epk_id": "41827",
+      "label": "$$$message_0223_0000_0032$$$"
+    },
+    {
+      "en": "Anything cute is A-okay in my royal register. Know that [font italic=true]true[font italic=false] heroes don't discriminate based on gender!\"",
+      "jp": "　我的には可愛ければオールオッケー。真の英雄に男も女も関係ないと知れ！」",
+      "Pt-br": "No meu registro real, qualquer coisa fofa está aprovada. Saiba que os [font italic=true]verdadeiros[font italic=false] heróis não discriminam por gênero!\"",
+      "id": 42051,
+      "epk_id": "41828",
+      "label": "$$$message_0223_0000_0033$$$"
+    },
+    {
+      "en": "\"Oh, my. To think that you were a narcissist on top of being self-righteous, elitist, self-centered, and an incorrigible monarchist...[wait canskip=0 time=400][hffacechg chara=カレン face=喜2 layer=1 time=200] (spellbound)\"",
+      "jp": "「まあ。独善的で排他的で自己中心的でどうしようもない帝王主義にくわえて、ナルシストだったなんて[line len=3][wait canskip=0 time=400][hffacechg chara=カレン face=喜2 layer=1 time=200]（うっとり）」",
+      "Pt-br": "\"Ora, essa. E pensar que, além de moralista, elitista, autocentrado e um monarquista incurável, você ainda é narcisista...[wait canskip=0 time=400][hffacechg chara=カレン face=喜2 layer=1 time=200] (fascinada)\"",
+      "id": 42052,
+      "epk_id": "41829",
+      "label": "$$$message_0223_0000_0034$$$"
+    },
+    {
+      "en": "\"Ahahahaha.[lr]",
+      "jp": "「あはははは。[lr]",
+      "Pt-br": "\"Ahahahaha.[lr]",
+      "id": 42053,
+      "epk_id": "41830",
+      "label": "$$$message_0223_0000_0035$$$"
+    },
+    {
+      "en": "Hey everyone, let's kill him first.\"",
+      "jp": "　[line len=3]皆さん、アレ一番はじめに始末しましょう」",
+      "Pt-br": "Pessoal, vamos matar esse cara primeiro.\"",
+      "id": 42054,
+      "epk_id": "41831",
+      "label": "$$$message_0223_0000_0036$$$"
+    },
+    {
+      "en": "\"Hm, another check failed.[lr]",
+      "jp": "「む、またもやフラグ立て失敗。[lr]",
+      "Pt-br": "\"Hm, outra verificação falhou.[lr]",
+      "id": 42055,
+      "epk_id": "41832",
+      "label": "$$$message_0223_0000_0037$$$"
+    },
+    {
+      "en": "Where did I go wrong, Lancer? I didn't even get a dialogue choice.\"",
+      "jp": "　選択肢すら出現しなかったのに、我はどこを間違えたのだランサー？」",
+      "Pt-br": "Onde foi que eu errei, Lancer? Nem tive uma opção de diálogo.\"",
+      "id": 42056,
+      "epk_id": "41833",
+      "label": "$$$message_0223_0000_0038$$$"
+    },
+    {
+      "en": "\"Probably from the moment you sprang into existence... Hey, Kotomine. Say something.\"",
+      "jp": "「存在自体が間違いとしか言えねえが……おいコトミネ。黙ってないでなんとか言えよ」",
+      "Pt-br": "\"Provavelmente no instante em que você surgiu no mundo... Ei, Kotomine. Diga alguma coisa.\"",
+      "id": 42057,
+      "epk_id": "41834",
+      "label": "$$$message_0223_0000_0039$$$"
+    },
+    {
+      "en": "\"...Yes, well...[lr]",
+      "jp": "「……そうだな。[lr]",
+      "Pt-br": "\"...É, bem...[lr]",
+      "id": 42058,
+      "epk_id": "41835",
+      "label": "$$$message_0223_0000_0040$$$"
+    },
+    {
+      "en": "This is an unexpected gathering, but the fact remains that only the victor may proceed.\"",
+      "jp": "　少しばかり意外な顔ぶれだが、ここまで勝ち残った勝者に変わりはない」",
+      "Pt-br": "Esta é uma reunião inesperada, mas o fato continua sendo que só o vencedor pode seguir adiante.\"",
+      "id": 42059,
+      "epk_id": "41836",
+      "label": "$$$message_0223_0000_0041$$$"
+    },
+    {
+      "en": "\"However...girl.[lr]",
+      "jp": "「しかし[line len=3]娘。[lr]",
+      "Pt-br": "\"Mas... garota.[lr]",
+      "id": 42060,
+      "epk_id": "41837",
+      "label": "$$$message_0223_0000_0042$$$"
+    },
+    {
+      "en": "You don't seem to have a wish of your own. Why are you here?\"",
+      "jp": "　見たところ、おまえに願いはないようだが。ここまで何をしに来たのかな？」",
+      "Pt-br": "Você não parece ter um desejo próprio. O que faz aqui?\"",
+      "id": 42061,
+      "epk_id": "41838",
+      "label": "$$$message_0223_0000_0043$$$"
+    },
+    {
+      "en": "\"...I suppose you could say there is something I want, even if I don't have a wish.\"",
+      "jp": "「……そうですね。願いはありませんが、欲しいものはあるのです」",
+      "Pt-br": "\"...Suponho que se possa dizer que existe algo que eu quero, ainda que eu não tenha um desejo.\"",
+      "id": 42062,
+      "epk_id": "41839",
+      "label": "$$$message_0223_0000_0044$$$"
+    },
+    {
+      "en": "\"Although, I suppose I could obtain it without the power of the onsen.\"",
+      "jp": "「まあ、それは温泉の力など借りずとも、もうすぐ手に入るのですが」",
+      "Pt-br": "\"Embora, pensando bem, talvez eu pudesse obtê-lo sem o poder do onsen.\"",
+      "id": 42063,
+      "epk_id": "41840",
+      "label": "$$$message_0223_0000_0045$$$"
+    },
+    {
+      "en": "\"Oh? Would you mind sharing what that is?[lr]",
+      "jp": "「ほう。差し支えなければ教えてもらいたいものだ。[lr]",
+      "Pt-br": "\"Oh? Se importaria de me dizer o que é?[lr]",
+      "id": 42064,
+      "epk_id": "41841",
+      "label": "$$$message_0223_0000_0046$$$"
+    },
+    {
+      "en": "What could an inhuman being like yourself desire?\"",
+      "jp": "　おまえのような非人間が何を望むと？」",
+      "Pt-br": "O que um ser inumano como você poderia desejar?\"",
+      "id": 42065,
+      "epk_id": "41842",
+      "label": "$$$message_0223_0000_0047$$$"
+    },
+    {
+      "en": "\"For the time being, I'd like to solidify my position.\"",
+      "jp": "「はい。さしあたっては、私の位置付けを盤石なものにしたいのです」",
+      "Pt-br": "\"Por ora, eu gostaria de firmar a minha posição.\"",
+      "id": 42066,
+      "epk_id": "41843",
+      "label": "$$$message_0223_0000_0048$$$"
+    },
+    {
+      "en": "\"Even now, you can see how our personalities, clothes, and even Servants overlap. It's quite a nuisance, don't you think?\"",
+      "jp": "「ほら。キャラが被っていたり、服装が被っていたり、同じサーヴァントを連れていたり、目障りな人がいるでしょう？」",
+      "Pt-br": "\"Mesmo agora, dá para ver como nossas personalidades, roupas e até nossos Servos se sobrepõem. É um belo incômodo, não acha?\"",
+      "id": 42067,
+      "epk_id": "41844",
+      "label": "$$$message_0223_0000_0049$$$"
+    },
+    {
+      "en": "\"So you use conflict to eliminate threats, rather than build your own foundation.[lr]",
+      "jp": "「争いにおいて、地盤固めではなく外敵排除から始めるタイプか。[lr]",
+      "Pt-br": "\"Então você usa o conflito para eliminar ameaças, em vez de construir a sua própria base.[lr]",
+      "id": 42068,
+      "epk_id": "41845",
+      "label": "$$$message_0223_0000_0050$$$"
+    },
+    {
+      "en": "And you consider your predecessor a nuisance?\"",
+      "jp": "　それで、前任者が邪魔と？」",
+      "Pt-br": "E considera sua predecessora um incômodo?\"",
+      "id": 42069,
+      "epk_id": "41846",
+      "label": "$$$message_0223_0000_0051$$$"
+    },
+    {
+      "en": "\"Yes, and I have a long list of grievances, to boot.[lr]",
+      "jp": "「はい。積年の恨み言もありますし。[lr]",
+      "Pt-br": "\"Sim, e ainda por cima tenho uma longa lista de ressentimentos.[lr]",
+      "id": 42070,
+      "epk_id": "41847",
+      "label": "$$$message_0223_0000_0052$$$"
+    },
+    {
+      "en": "I do want it so very badly...[se storage=se452.wav]your life.\"",
+      "jp": "　とても欲しいです[se storage=se452.wav]、命」",
+      "Pt-br": "O que eu tanto quero...[se storage=se452.wav]é a sua vida.\"",
+      "id": 42071,
+      "epk_id": "41848",
+      "label": "$$$message_0223_0000_0053$$$"
+    },
+    {
+      "en": "\"Such a twisted child you are.[lr]",
+      "jp": "「なんというねじ曲がった子供だ。[lr]",
+      "Pt-br": "\"Que criança retorcida você é.[lr]",
+      "id": 42072,
+      "epk_id": "41849",
+      "label": "$$$message_0223_0000_0054$$$"
+    },
+    {
+      "en": "It saddens me to see, as a married man. I wish I could see your father react to this.\"",
+      "jp": "　妻帯者として悲しいよ。いや、父親の顔が見てみたいものだ」",
+      "Pt-br": "Entristece-me ver isso, como homem casado. Gostaria de ver a reação do seu pai.\"",
+      "id": 42073,
+      "epk_id": "41850",
+      "label": "$$$message_0223_0000_0055$$$"
+    },
+    {
+      "en": "\"On that, we agree. I'd love to know what the absentee father who 'raised' me this way thinks.\"",
+      "jp": "「ええ。わたしも、こんな性格に育てた放任主義の顔を見てみたいものです」",
+      "Pt-br": "\"Quanto a isso, concordamos. Eu adoraria saber o que pensa o pai ausente que me 'criou' assim.\"",
+      "id": 42074,
+      "epk_id": "41851",
+      "label": "$$$message_0223_0000_0056$$$"
+    },
+    {
+      "en": "\"...Though I'm sure I'd feel an overwhelming urge to vomit upon seeing his face.\"",
+      "jp": "「[line len=3]まあ、見た瞬間に唾でも吐きかけてしまいそうですが」",
+      "Pt-br": "\"...Embora eu tenha certeza de que sentiria uma vontade irresistível de vomitar ao ver o rosto dele.\"",
+      "id": 42075,
+      "epk_id": "41852",
+      "label": "$$$message_0223_0000_0057$$$"
+    },
+    {
+      "en": "\"Heh.\"",
+      "jp": "「くく」",
+      "Pt-br": "\"Heh.\"",
+      "id": 42076,
+      "epk_id": "41853",
+      "label": "$$$message_0223_0000_0058$$$"
+    },
+    {
+      "en": "\"Hehe.\"[lr]",
+      "jp": "「ふふ」[lr]",
+      "Pt-br": "\"Hehe.\"[lr]",
+      "id": 42077,
+      "epk_id": "41854",
+      "label": "$$$message_0223_0000_0059$$$"
+    },
+    {
+      "en": "[hfu][cm]\"[hfl]\"He[hfu]He[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]![hfl]![hfu]\"[hfl]\"[nolr]",
+      "jp": "[hfu][cm]「[hfl]「[hfu]く[hfl]う[hfu]く[hfl]ふ[hfu]く[hfl]ふ[hfu]く[hfl]ふ[hfu]く[hfl]ふ[hfu]く[hfl]ふ[hfu]く[hfl]ふ[hfu]く[hfl]ふ[hfu]く[hfl]ふ[hfu]く[hfl]ふ[hfu]く[hfl]ふ[hfu]く[hfl]ふ[hfu]く[hfl]ふ[hfu]く[hfl]ふ[hfu]く[hfl]ふ[hfu]く[hfl]ふ[hfu]！[hfl]！[hfu]」[hfl]」[nolr]",
+      "Pt-br": "[hfu][cm]\"[hfl]\"He[hfu]He[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]he[hfl]he[hfu]![hfl]![hfu]\"[hfl]\"[nolr]",
+      "id": 42078,
+      "epk_id": "41855",
+      "label": "$$$message_0223_0000_0060$$$"
+    },
+    {
+      "en": "\"Hahahahahahahahahahahahahahahaha!\"[nolr]",
+      "jp": "「はははははははははははははははは！」[nolr]",
+      "Pt-br": "\"Hahahahahahahahahahahahahahahaha!\"[nolr]",
+      "id": 42079,
+      "epk_id": "41856",
+      "label": "$$$message_0223_0001_0000$$$"
+    },
+    {
+      "en": "\"Good![lr]",
+      "jp": "「うむ！[lr]",
+      "Pt-br": "\"Ótimo![lr]",
+      "id": 42080,
+      "epk_id": "41857",
+      "label": "$$$message_0223_0002_0000$$$"
+    },
+    {
+      "en": "This looks fun! Count me in!\"",
+      "jp": "　楽しそうだ、我も仲間に入れるがいい！」",
+      "Pt-br": "Isso parece divertido! Tô dentro!\"",
+      "id": 42081,
+      "epk_id": "41858",
+      "label": "$$$message_0223_0002_0001$$$"
+    },
+    {
+      "en": "\"People who can't read the room are so...headstrong.\"",
+      "jp": "「……空気読めないヤツは強いねぇ……」",
+      "Pt-br": "\"Quem não sabe ler o ambiente é mesmo... cabeça-dura.\"",
+      "id": 42082,
+      "epk_id": "41859",
+      "label": "$$$message_0223_0002_0002$$$"
+    },
+    {
+      "en": "\"Ahahahahaha.[lr]",
+      "jp": "「あははははは。[lr]",
+      "Pt-br": "\"Ahahahahaha.[lr]",
+      "id": 42083,
+      "epk_id": "41860",
+      "label": "$$$message_0223_0002_0003$$$"
+    },
+    {
+      "en": "I genuinely want him dead.\"",
+      "jp": "　本気で死んでくれませんかねあの人」",
+      "Pt-br": "Eu quero muito ver esse homem morto.\"",
+      "id": 42084,
+      "epk_id": "41861",
+      "label": "$$$message_0223_0002_0004$$$"
+    },
+    {
+      "en": "\"Oh, but there's no point in killing him here... The future is so cruel... I don't want to grow up...\"",
+      "jp": "「あ、でもここで殺しても意味ないんですよね……未来って残酷だなあ……オトナになりたくないなあ……」",
+      "Pt-br": "\"Ah, mas não adianta matá-lo aqui... O futuro é cruel demais... Não quero crescer...\"",
+      "id": 42085,
+      "epk_id": "41862",
+      "label": "$$$message_0223_0002_0005$$$"
+    }
+  ]
+}

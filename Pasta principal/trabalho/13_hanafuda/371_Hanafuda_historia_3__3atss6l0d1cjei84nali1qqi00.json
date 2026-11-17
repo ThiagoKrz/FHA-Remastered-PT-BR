@@ -1,0 +1,560 @@
+{
+  "cena": "3atss6l0d1cjei84nali1qqi00",
+  "titulo": "Hanafuda: história 3",
+  "rota": "Hanafuda",
+  "arquivo": "3atss6l0d1cjei84nali1qqi00.epk_dec",
+  "linhas": [
+    {
+      "en": "\"Matou...!\"[nolr]",
+      "jp": "「間桐ッ……！」[nolr]",
+      "Pt-br": "\"Matou...!\"[nolr]",
+      "id": 43785,
+      "epk_id": "43570",
+      "label": "$$$message_0368_0000_0000$$$"
+    },
+    {
+      "en": "\"...That was a wonderful battle.[lr]",
+      "jp": "「[line len=3]素晴らしい戦いぶりでした。[lr]",
+      "Pt-br": "\"...Essa foi uma batalha maravilhosa.[lr]",
+      "id": 43786,
+      "epk_id": "43571",
+      "label": "$$$message_0368_0000_0001$$$"
+    },
+    {
+      "en": "Well fought, Ms. Fujimura and Illya.\"",
+      "jp": "　お見事でしたよ、藤村先生とイリヤさん」",
+      "Pt-br": "Lutaram bem, Fujimura-sensei e Illya-san.\"",
+      "id": 43787,
+      "epk_id": "43572",
+      "label": "$$$message_0368_0000_0002$$$"
+    },
+    {
+      "en": "\"Sakura...!\"[rf][nolr][p]",
+      "jp": "「桜ッ……！」[rf][nolr][p]",
+      "Pt-br": "\"Sakura...!\"[rf][nolr][p]",
+      "id": 43788,
+      "epk_id": "43573",
+      "label": "$$$message_0368_0000_0003$$$"
+    },
+    {
+      "en": "\"You actually defeated Saber, Ms. Fujimura. Looks like I shouldn't underestimate you.\"",
+      "jp": "「セイバーさんを倒してしまうなんて、藤村先生も隅に置けませんね」",
+      "Pt-br": "\"A senhora derrotou mesmo a Saber-san, Fujimura-sensei. Não devo subestimá-la.\"",
+      "id": 43789,
+      "epk_id": "43574",
+      "label": "$$$message_0368_0000_0004$$$"
+    },
+    {
+      "en": "\"The biggest problem was always how to pry that pest off Senpai, but you've solved it for me.\"",
+      "jp": "「[line len=3]あの邪魔者をどうやって先輩から引き離すかが一番の難問だったんですけど。ふふ、お二人のおかげで得しちゃいました」",
+      "Pt-br": "\"O maior problema sempre foi como arrancar aquela peste de perto do Senpai, mas você resolveu isso por mim.\"",
+      "id": 43790,
+      "epk_id": "43575",
+      "label": "$$$message_0368_0000_0005$$$"
+    },
+    {
+      "en": "\"Yeeeek! Sakura's all dark! [l][hfchance layer=1][say storage=HSTR3_TIG_0030 _name=藤ねえ]She's totally gone over to the dark side!\"",
+      "jp": "「ひぃぃい！　桜ちゃん黒い！[l][hfchance layer=1][say storage=HSTR3_TIG_0030 _name=藤ねえ]　すごく黒い！」",
+      "Pt-br": "\"Eeeek! A Sakura-chan está toda escura! [l][hfchance layer=1][say storage=HSTR3_TIG_0030 _name=藤ねえ]Ela foi totalmente para o lado negro da força!\"",
+      "id": 43791,
+      "epk_id": "43576",
+      "label": "$$$message_0368_0000_0006$$$"
+    },
+    {
+      "en": "\"No one told me we'd be fighting the last boss in round two!\"",
+      "jp": "「つーか二戦目にしてラスボスなんて聞いてなーい！」",
+      "Pt-br": "\"Ninguém me avisou que estaríamos lutando contra o último chefão no segundo round!\"",
+      "id": 43792,
+      "epk_id": "43577",
+      "label": "$$$message_0368_0001_0000$$$"
+    },
+    {
+      "en": "\"Rrgh...![lr]",
+      "jp": "「っ……！[lr]",
+      "Pt-br": "\"Hrrgh...![lr]",
+      "id": 43793,
+      "epk_id": "43578",
+      "label": "$$$message_0368_0001_0001$$$"
+    },
+    {
+      "en": "He got us. The Emiya house is Sakura's territory, too!\"",
+      "jp": "　謀られたわ、衛宮邸って言えばサクラのフィールドでもあるじゃない……！」",
+      "Pt-br": "Ela nos pegou. A casa dos Emiya também é território da Sakura!\"",
+      "id": 43794,
+      "epk_id": "43579",
+      "label": "$$$message_0368_0001_0002$$$"
+    },
+    {
+      "en": "\"This is why you can't trust Kotomine!\"",
+      "jp": "「もう、コトミネはこれだから信用ならないのよ！」",
+      "Pt-br": "\"É por isso que não se pode confiar no Kotomine!\"",
+      "id": 43795,
+      "epk_id": "43580",
+      "label": "$$$message_0368_0002_0000$$$"
+    },
+    {
+      "en": "\"W-w-what do we do, Illya!?[lr]",
+      "jp": "「どどどうしようイリヤちゃん……！[lr]",
+      "Pt-br": "\"O q-q-que a gente faz, Illya-chan!?[lr]",
+      "id": 43796,
+      "epk_id": "43581",
+      "label": "$$$message_0368_0002_0001$$$"
+    },
+    {
+      "en": "Sakura's closing in on us like a predator!\"",
+      "jp": "　桜ちゃん、黒いまんま近づいてくるわよぅ……！」",
+      "Pt-br": "A Sakura-chan está se aproximando de nós como um predador!\"",
+      "id": 43797,
+      "epk_id": "43582",
+      "label": "$$$message_0368_0002_0002$$$"
+    },
+    {
+      "en": "\"Urgh, the rumor that all of her pent-up downer energy explodes once a year and turns her into a monster was true all along!\"",
+      "jp": "「うぅ、年に一度溜まりに溜まった欝パワーが爆発して怪獣化するって噂はホントだったのね……」",
+      "Pt-br": "\"Urgh, o boato de que toda a energia reprimida de depressão dela explode uma vez por ano e a transforma num monstro era verdade esse tempo todo!\"",
+      "id": 43798,
+      "epk_id": "43583",
+      "label": "$$$message_0368_0002_0003$$$"
+    },
+    {
+      "en": "\"Poor Shirou, surrounded by a black-hearted kouhai, hungry foreigner, mean-spirited idol, and an evil loli...\"",
+      "jp": "「可愛そうな士郎、腹ぐろ後輩に腹ぺこ外国人、意地悪アイドルに邪悪ロリっ娘……」",
+      "Pt-br": "\"Pobre Shirou, cercado por uma caloura de coração negro, uma estrangeira faminta, uma ídola maldosa e uma loli maligna...\"",
+      "id": 43799,
+      "epk_id": "43584",
+      "label": "$$$message_0368_0002_0004$$$"
+    },
+    {
+      "en": "\"Is the only upstanding heroine the beautiful older teacher!?\"",
+      "jp": "「ああ、まともなヒロインは年上の美人教師だけなのかっ」",
+      "Pt-br": "\"Será que a única heroína de respeito é a linda e mais velha professora!?\"",
+      "id": 43800,
+      "epk_id": "43585",
+      "label": "$$$message_0368_0003_0000$$$"
+    },
+    {
+      "en": "\"Well, it sounds like you're confident enough to talk, Ms. Fujimura.\"",
+      "jp": "「あら。お喋りをする余裕はあるんですね、藤村先生」",
+      "Pt-br": "\"Bem, a senhora está confiante o bastante para falar, Fujimura-sensei.\"",
+      "id": 43801,
+      "epk_id": "43586",
+      "label": "$$$message_0368_0003_0001$$$"
+    },
+    {
+      "en": "\"I thought you'd surrender right away if I did this. Aren't you afraid of ghosts?\"[nolr]",
+      "jp": "「お化けが怖い先生のことだから、こうしてあげればすぐに降参してくれると思ったのに」[nolr]",
+      "Pt-br": "\"Eu achei que vocês fossem se render de imediato se eu fizesse isso. Vocês não têm medo de fantasmas, Sensei?\"[nolr]",
+      "id": 43802,
+      "epk_id": "43587",
+      "label": "$$$message_0368_0003_0002$$$"
+    },
+    {
+      "en": "\"Or do you actually intend to keep fighting?\"",
+      "jp": "「もしかして、まだ戦う気あります？」",
+      "Pt-br": "\"Ou será que vocês pretendem mesmo continuar lutando?\"",
+      "id": 43803,
+      "epk_id": "43588",
+      "label": "$$$message_0368_0004_0000$$$"
+    },
+    {
+      "en": "\"Nope. I can't handle ghosts at all.[lr]",
+      "jp": "「ない。お化けは大の苦手でござる。[lr]",
+      "Pt-br": "\"De jeito nenhum. Eu não consigo lidar com fantasmas de forma alguma.[lr]",
+      "id": 43804,
+      "epk_id": "43589",
+      "label": "$$$message_0368_0004_0001$$$"
+    },
+    {
+      "en": "Especially when you don't know what they are.\"",
+      "jp": "　というか、正体のないのがダメ」",
+      "Pt-br": "Principalmente quando a gente nem sabe o que eles são.\"",
+      "id": 43805,
+      "epk_id": "43590",
+      "label": "$$$message_0368_0004_0002$$$"
+    },
+    {
+      "en": "\"I wouldn't be scared against zombies, [l][hfwww layer=1][say storage=HSTR3_TIG_0140 _name=藤ねえ]but y'know, you use that weird black stuff.\"",
+      "jp": "「相手がゾンビとかなら怖くないんだけど、[l][hfwww layer=1][say storage=HSTR3_TIG_0140 _name=藤ねえ]桜ちゃんってほら、よく分かんない黒いの使うじゃない」",
+      "Pt-br": "\"Eu não ficaria com medo de zumbis, [l][hfwww layer=1][say storage=HSTR3_TIG_0140 _name=藤ねえ]mas sabe, você usa essa coisa preta esquisita.\"",
+      "id": 43806,
+      "epk_id": "43591",
+      "label": "$$$message_0368_0004_0003$$$"
+    },
+    {
+      "en": "\"It's yucky and I can't handle it!\"",
+      "jp": "「アレ、気持ち悪くてダメなのよぅ」",
+      "Pt-br": "\"É nojento e eu não consigo lidar com isso!\"",
+      "id": 43807,
+      "epk_id": "43592",
+      "label": "$$$message_0368_0005_0000$$$"
+    },
+    {
+      "en": "\"I see. I'm yucky, am I?[lr]",
+      "jp": "「そうですか、私は気持ちが悪いですか。[lr]",
+      "Pt-br": "\"Entendo. Eu sou nojenta, é?[lr]",
+      "id": 43808,
+      "epk_id": "43593",
+      "label": "$$$message_0368_0005_0001$$$"
+    },
+    {
+      "en": "Ms. Fujimura, have you ever heard the expression, 'loose lips sink ships'?\"",
+      "jp": "　[line len=3]藤村先生。口は災いのもと、というのはご存じですか？」",
+      "Pt-br": "Fujimura-sensei, já ouviu a expressão: 'quem fala demais dá bom dia a cavalo'?\"",
+      "id": 43809,
+      "epk_id": "43594",
+      "label": "$$$message_0368_0005_0002$$$"
+    },
+    {
+      "en": "\"Eeeek! H-h-help, Illya!\"",
+      "jp": "「ひぃ、たた助けてイリヤちゃん！」",
+      "Pt-br": "\"Eeeek! S-s-socorro, Illya-chan!\"",
+      "id": 43810,
+      "epk_id": "43595",
+      "label": "$$$message_0368_0005_0003$$$"
+    },
+    {
+      "en": "\"Ngh... I'm sorry, Taiga. I can't protect you. Like you, I have a hard time dealing with Sakura, too.\"",
+      "jp": "「っ……ごめんなさいタイガ、わたしじゃ庇ってあげられないわ。タイガ同様、わたしもあの桜は苦手なの」",
+      "Pt-br": "\"Ngh... Desculpa, Taiga. Eu não posso te proteger. Assim como você, também tenho dificuldade em lidar com a Sakura.\"",
+      "id": 43811,
+      "epk_id": "43596",
+      "label": "$$$message_0368_0005_0004$$$"
+    },
+    {
+      "en": "\"...No, you could call her my natural enemy.\"",
+      "jp": "「……ううん、天敵とさえ言っていいわ」",
+      "Pt-br": "\"...Não, eu poderia dizer que ela é a minha inimiga natural.\"",
+      "id": 43812,
+      "epk_id": "43597",
+      "label": "$$$message_0368_0005_0005$$$"
+    },
+    {
+      "en": "\"Sakura won't take any damage if I touch her, but if she touches me, it'll corrupt me.\"",
+      "jp": "「わたしが桜に触れても向こうはノーダメージだけど、わたしは触れただけで汚れちゃうから」",
+      "Pt-br": "\"A Sakura não vai sofrer nenhum dano se eu tocar nela, mas se ela tocar em mim, vai me corromper.\"",
+      "id": 43813,
+      "epk_id": "43598",
+      "label": "$$$message_0368_0006_0000$$$"
+    },
+    {
+      "en": "\"Mrgh.\"",
+      "jp": "「む」",
+      "Pt-br": "\"Hrrgh.\"",
+      "id": 43814,
+      "epk_id": "43599",
+      "label": "$$$message_0368_0006_0001$$$"
+    },
+    {
+      "en": "\"Hehe. That's right.\"",
+      "jp": "「ふふ、そういうコトです」",
+      "Pt-br": "\"Hehe. É isso mesmo.\"",
+      "id": 43815,
+      "epk_id": "43600",
+      "label": "$$$message_0368_0006_0002$$$"
+    },
+    {
+      "en": "\"I applaud your skills for defeating Saber, but I bet you can't keep up such a flashy show.\"",
+      "jp": "「セイバーさんを倒した手腕は見事でしたが、あれだけの大技、続けては使えませんよね？」",
+      "Pt-br": "\"Eu aplaudo as suas habilidades por derrotarem a Saber-san, mas aposto que vocês não conseguem manter um show tão espalhafatoso.\"",
+      "id": 43816,
+      "epk_id": "43601",
+      "label": "$$$message_0368_0007_0000$$$"
+    },
+    {
+      "en": "\"Illya can't beat me, so I think the outcome will be obvious if we fight. [hfchance layer=0]Yes, in a single gulp, I'll beat you black and blue.\"",
+      "jp": "「イリヤさんもわたしには勝てないし、戦えば結果は明らかです。[hfchance layer=0]ええ、一呑みに、一瞬でこてんぱんにしてあげます」",
+      "Pt-br": "\"A Illya-san não pode me derrotar, então acho que o resultado será óbvio se lutarmos. [hfchance layer=0]Sim, com uma única mordida, eu vou dar uma surra em vocês.\"",
+      "id": 43817,
+      "epk_id": "43602",
+      "label": "$$$message_0368_0007_0001$$$"
+    },
+    {
+      "en": "\"Oh no, she's so evil![lr]",
+      "jp": "「うう、なんという邪悪っぷり。[lr]",
+      "Pt-br": "\"Oh não, ela é tão maligna![lr]",
+      "id": 43818,
+      "epk_id": "43603",
+      "label": "$$$message_0368_0007_0002$$$"
+    },
+    {
+      "en": "From where I'm standing, it's like something bad is possessing her.\"",
+      "jp": "　なーんか、見たところ良くないモノに取り憑かれてるっぽいなあ」",
+      "Pt-br": "Daqui de onde estou, parece até que alguma coisa ruim a está possuindo.\"",
+      "id": 43819,
+      "epk_id": "43604",
+      "label": "$$$message_0368_0007_0003$$$"
+    },
+    {
+      "en": "\"Anything to say, Rider?\"",
+      "jp": "「そこんとこどうなのよ、ライダーさん？」",
+      "Pt-br": "\"Algo a dizer, Rider-san?\"",
+      "id": 43820,
+      "epk_id": "43605",
+      "label": "$$$message_0368_0008_0000$$$"
+    },
+    {
+      "en": "\"...She is possessed.\"",
+      "jp": "「[line len=3]取り憑かれています」",
+      "Pt-br": "\"...Ela está possuída.\"",
+      "id": 43821,
+      "epk_id": "43606",
+      "label": "$$$message_0368_0008_0001$$$"
+    },
+    {
+      "en": "\"I told her that this wasn't her style and that she should stop, but Sakura insisted that this was her last chance.\"",
+      "jp": "「似合わないので止めるべきだ、と進言したのですが、桜はこれが最後のチャンスだと張りきってしまいまして」",
+      "Pt-br": "\"Eu disse a ela que isso não faz o estilo dela e que ela deveria parar, mas a Sakura insistiu que esta era a última chance dela.\"",
+      "id": 43822,
+      "epk_id": "43607",
+      "label": "$$$message_0368_0009_0000$$$"
+    },
+    {
+      "en": "\"Sh-shh![lr]",
+      "jp": "「し、しぃー……！[lr]",
+      "Pt-br": "\"X-xiu![lr]",
+      "id": 43823,
+      "epk_id": "43608",
+      "label": "$$$message_0368_0009_0001$$$"
+    },
+    {
+      "en": "That's supposed to be a secret, Rider!\"",
+      "jp": "　ライダー、それ内緒……！」",
+      "Pt-br": "Isso era para ser um segredo, Rider!\"",
+      "id": 43824,
+      "epk_id": "43609",
+      "label": "$$$message_0368_0009_0002$$$"
+    },
+    {
+      "en": "\"I-I joined this Holy Grail War of my own will! I won't hold back against any Master, no matter who they are!\"",
+      "jp": "「わ、わたしは自分の意志で聖杯戦争に参加したんですっ！　相手が誰であれ、マスターなら手加減しません！」",
+      "Pt-br": "\"E-Eu entrei nesta Guerra do Santo Graal por vontade própria! Eu não vou pegar leve com nenhum Mestre, não importa quem sejam!\"",
+      "id": 43825,
+      "epk_id": "43610",
+      "label": "$$$message_0368_0009_0003$$$"
+    },
+    {
+      "en": "\"Aiyah, she really is possessed.\"",
+      "jp": "「あやー、やっぱり取り憑かれてますか」",
+      "Pt-br": "\"Aiya, ela está mesmo possuída.\"",
+      "id": 43826,
+      "epk_id": "43611",
+      "label": "$$$message_0368_0009_0004$$$"
+    },
+    {
+      "en": "\"You're after our star, right?[lr]",
+      "jp": "「桜ちゃんの目的はわたしたちの星よね？[lr]",
+      "Pt-br": "\"Você está atrás do nosso astro, né, Sakura-chan?[lr]",
+      "id": 43827,
+      "epk_id": "43612",
+      "label": "$$$message_0368_0009_0005$$$"
+    },
+    {
+      "en": "Would you at least tell us what your wish is before we take you out?\"",
+      "jp": "　いちおう、やられる前に何が望みなのか教えてくれないかなー」",
+      "Pt-br": "Você poderia ao menos nos dizer qual é o seu desejo antes de darmos um fim em você?\"",
+      "id": 43828,
+      "epk_id": "43613",
+      "label": "$$$message_0368_0009_0006$$$"
+    },
+    {
+      "en": "\"That's obvious. My wish is to expunge the image that the main story created of me!\"",
+      "jp": "「そんなの決まっています。わたしの望みは、本編のイメージの払拭です！」",
+      "Pt-br": "\"Isso é óbvio. O meu desejo é apagar a imagem que a história principal criou de mim!\"",
+      "id": 43829,
+      "epk_id": "43614",
+      "label": "$$$message_0368_0009_0007$$$"
+    },
+    {
+      "en": "\"This time, I'll use the power of the Grail to remake the story into a super cute and pure Sakura love story!\"",
+      "jp": "「聖杯の力で、今度こそ桜激萌え純愛シナリオを作り直してもらうんですからっ！」",
+      "Pt-br": "\"Desta vez, eu usarei o poder do Graal para refazer a história em uma história de amor super fofa e pura da Sakura!\"",
+      "id": 43830,
+      "epk_id": "43615",
+      "label": "$$$message_0368_0009_0008$$$"
+    },
+    {
+      "en": "\"Ahhh!?\"[nolr][p]",
+      "jp": "「きゃっ……！？」[nolr][p]",
+      "Pt-br": "\"Ahhh!?\"[nolr][p]",
+      "id": 43831,
+      "epk_id": "43616",
+      "label": "$$$message_0368_0009_0009$$$"
+    },
+    {
+      "en": "\"Owww... They're supposed to be shadows, but they hurt!\"",
+      "jp": "「あいたたた……影っていっても叩かれると効くぅー」",
+      "Pt-br": "\"Aiii... Eram para ser sombras, mas elas machucam!\"",
+      "id": 43832,
+      "epk_id": "43617",
+      "label": "$$$message_0368_0009_0010$$$"
+    },
+    {
+      "en": "\"Taiga, why...?[lr]",
+      "jp": "「タイガ、どうして……？[lr]",
+      "Pt-br": "\"Taiga, por que...?[lr]",
+      "id": 43833,
+      "epk_id": "43618",
+      "label": "$$$message_0368_0009_0011$$$"
+    },
+    {
+      "en": "I thought Dark Sakura was hard for you to handle, too.\"",
+      "jp": "　貴方も黒桜は苦手なんでしょ……？」",
+      "Pt-br": "Pensei que a Sakura Sombria fosse difícil para você lidar também.\"",
+      "id": 43834,
+      "epk_id": "43619",
+      "label": "$$$message_0368_0009_0012$$$"
+    },
+    {
+      "en": "\"Yeah, but not as a matter of life or death. I mean, we're still friends. [l][hfchance layer=1][say storage=HSTR3_TIG_0270 _name=藤ねえ]Until we get the Holy Grail, at least.\"",
+      "jp": "「んー、苦手だけど死活問題じゃないし。聖杯を手に入れるまでは仲間だもんね、[l][hfchance layer=1][say storage=HSTR3_TIG_0270 _name=藤ねえ]わたしたち」",
+      "Pt-br": "\"É, mas não como uma questão de vida ou morte. Quero dizer, nós ainda somos amigas. [l][hfchance layer=1][say storage=HSTR3_TIG_0270 _name=藤ねえ]Pelo menos até conseguirmos o Santo Graal.\"",
+      "id": 43835,
+      "epk_id": "43620",
+      "label": "$$$message_0368_0009_0013$$$"
+    },
+    {
+      "en": "\"Taiga...\"",
+      "jp": "「タイガ[line len=3]」",
+      "Pt-br": "\"Taiga...\"",
+      "id": 43836,
+      "epk_id": "43621",
+      "label": "$$$message_0368_0009_0014$$$"
+    },
+    {
+      "en": "\"Sakura, this is having the opposite effect. It's only cementing your villainous reputation.\"",
+      "jp": "「桜、これでは逆効果ですね。悪役のイメージが固まる一方です」",
+      "Pt-br": "\"Sakura, isso está tendo o efeito contrário. Isso só está cimentando a sua reputação de vilã.\"",
+      "id": 43837,
+      "epk_id": "43622",
+      "label": "$$$message_0368_0009_0015$$$"
+    },
+    {
+      "en": "\"I-[hfchance layer=0]I know that![lr]",
+      "jp": "「わ、[hfchance layer=0]わかってます……！[lr]",
+      "Pt-br": "\"E-[hfchance layer=0]Eu sei disso![lr]",
+      "id": 43838,
+      "epk_id": "43623",
+      "label": "$$$message_0368_0009_0016$$$"
+    },
+    {
+      "en": "I can't let my stock drop any further! I'll just swallow up the entire...[wait canskip=0 time=400][hffacechg chara=桜 face=哀 layer=0 left=7 top=27 time=200]house...?\"[nolr][p]",
+      "jp": "　これ以上わたしの株を下げさせません、屋敷ごと呑み込んでやるんだか、[wait canskip=0 time=400][hffacechg chara=桜 face=哀 layer=0 left=7 top=27 time=200]ら……？」[nolr][p]",
+      "Pt-br": "Eu não posso deixar o meu prestígio cair ainda mais! Vou apenas engolir a casa...[wait canskip=0 time=400][hffacechg chara=桜 face=哀 layer=0 left=7 top=27 time=200] inteira...?\"[nolr][p]",
+      "id": 43839,
+      "epk_id": "43624",
+      "label": "$$$message_0368_0009_0017$$$"
+    },
+    {
+      "en": "\"No way! The Cursed Boundary Layer got dispelled!?\"",
+      "jp": "「そんな、呪層界が解呪された……！？」",
+      "Pt-br": "\"De jeito nenhum! A Camada de Limite Amaldiçoado foi dissipada!?\"",
+      "id": 43840,
+      "epk_id": "43625",
+      "label": "$$$message_0368_0009_0018$$$"
+    },
+    {
+      "en": "\"Another Reality Marble...[lr]",
+      "jp": "「また固有結界[line len=3][lr]",
+      "Pt-br": "\"Outro Mármore de Realidade...[lr]",
+      "id": 43841,
+      "epk_id": "43626",
+      "label": "$$$message_0368_0009_0019$$$"
+    },
+    {
+      "en": "[hffacechg chara=ブルマイリヤ face=真剣 time=200][hfchance layer=1]Don't, Taiga! Your body won't hold out if you keep doing that!\"",
+      "jp": "　[hffacechg chara=ブルマイリヤ face=真剣 time=200][hfchance layer=1]ダメよタイガ、続けて使ったら貴女の体が壊れちゃう……！」",
+      "Pt-br": "[hffacechg chara=ブルマイリヤ face=真剣 time=200][hfchance layer=1]Não faça isso, Taiga! O seu corpo não vai aguentar se você continuar fazendo isso!\"",
+      "id": 43842,
+      "epk_id": "43627",
+      "label": "$$$message_0368_0009_0020$$$"
+    },
+    {
+      "en": "\"Huh? Why?[lr]",
+      "jp": "「なんでー？[lr]",
+      "Pt-br": "\"Hã? Por quê?[lr]",
+      "id": 43843,
+      "epk_id": "43628",
+      "label": "$$$message_0368_0009_0021$$$"
+    },
+    {
+      "en": "Sakura keeps saying that, but it's no big deal, you know.\"",
+      "jp": "　さっき桜ちゃんもそんなコト言ってたけど、別になんともないよー？」",
+      "Pt-br": "A Sakura-chan não para de dizer isso, mas não é nada de mais, sabe.\"",
+      "id": 43844,
+      "epk_id": "43629",
+      "label": "$$$message_0368_0009_0022$$$"
+    },
+    {
+      "en": "\"The only hard thing about this is keeping up with all your acting.\"",
+      "jp": "「辛いっていったら、みんなの芸風に合わせてる方が辛いし」",
+      "Pt-br": "\"A única coisa difícil nisso é acompanhar toda a sua atuação.\"",
+      "id": 43845,
+      "epk_id": "43630",
+      "label": "$$$message_0368_0010_0000$$$"
+    },
+    {
+      "en": "\"...\"",
+      "jp": "「[line len=6]」",
+      "Pt-br": "\"...\"",
+      "id": 43846,
+      "epk_id": "43631",
+      "label": "$$$message_0368_0010_0001$$$"
+    },
+    {
+      "en": "\"...\"",
+      "jp": "「[line len=6]」",
+      "Pt-br": "\"...\"",
+      "id": 43847,
+      "epk_id": "43632",
+      "label": "$$$message_0368_0010_0002$$$"
+    },
+    {
+      "en": "\"...[hfsweat layer=0]That's rather absurd.[lr]",
+      "jp": "「……[hfsweat layer=0]デタラメですね。[lr]",
+      "Pt-br": "\"...[hfsweat layer=0]Isso é um tanto absurdo.[lr]",
+      "id": 43848,
+      "epk_id": "43633",
+      "label": "$$$message_0368_0010_0003$$$"
+    },
+    {
+      "en": "Sakura, prepare to do battle. It appears we'll have to settle this fair and square.\"",
+      "jp": "　桜、戦闘の準備を。どうやら真っ向勝負をしなければならないようです」",
+      "Pt-br": "Sakura, prepare-se para lutar. Pelo visto, teremos que resolver isso de forma justa e honesta.\"",
+      "id": 43849,
+      "epk_id": "43634",
+      "label": "$$$message_0368_0010_0004$$$"
+    },
+    {
+      "en": "\"Oh... R-right![lr]",
+      "jp": "「ぁ[line len=3]う、うん！[lr]",
+      "Pt-br": "\"Oh... C-Certo![lr]",
+      "id": 43850,
+      "epk_id": "43635",
+      "label": "$$$message_0368_0010_0005$$$"
+    },
+    {
+      "en": "[hffacechg chara=桜 face=怒 layer=0 time=200] Let's do this, Rider!\"",
+      "jp": "[hffacechg chara=桜 face=怒 layer=0 time=200]　行くねライダー……！」",
+      "Pt-br": "[hffacechg chara=桜 face=怒 layer=0 time=200] Vamos lá, Rider!\"",
+      "id": 43851,
+      "epk_id": "43636",
+      "label": "$$$message_0368_0010_0006$$$"
+    },
+    {
+      "en": "\"That's the spirit![lr]",
+      "jp": "「その意気やよしっ！[lr]",
+      "Pt-br": "\"É assim que se fala![lr]",
+      "id": 43852,
+      "epk_id": "43637",
+      "label": "$$$message_0368_0010_0007$$$"
+    },
+    {
+      "en": "Come on, Illya! Let's give 'em a taste of their own medicine!\"[nolr][p]",
+      "jp": "　さあイリヤちゃん、がっつーんとやり返すわよ！」[nolr][p]",
+      "Pt-br": "Vamos lá, Illya-chan! Vamos dar a elas o troco na mesma moeda!\"[nolr][p]",
+      "id": 43853,
+      "epk_id": "43638",
+      "label": "$$$message_0368_0010_0008$$$"
+    }
+  ]
+}

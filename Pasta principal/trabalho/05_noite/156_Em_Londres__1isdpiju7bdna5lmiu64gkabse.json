@@ -1,0 +1,2768 @@
+{
+  "cena": "1isdpiju7bdna5lmiu64gkabse",
+  "titulo": "Em Londres",
+  "rota": "Noite",
+  "arquivo": "1isdpiju7bdna5lmiu64gkabse.epk_dec",
+  "linhas": [
+    {
+      "en": "Oh yeah, I should ask her about her time in England.[lr]",
+      "jp": "　そうだ、せっかくイギリスに行ってたんだから、あっちで何があったのかを聞いてみよう。[lr]",
+      "Pt-br": "Ah, verdade. Eu devia perguntar a ela como foi na Inglaterra.[lr]",
+      "id": 21866,
+      "epk_id": "27008",
+      "label": "$$$message_0201_0000_0000$$$"
+    },
+    {
+      "en": "Even [font italic=true]I'm[font italic=false] a small-time spellcaster. I'm curious what the Clock Tower, the headquarters of the Mage's Association in London, is like.",
+      "jp": "　俺だって魔術遣いのはしくれだ。魔術協会の総本山、ロンドンの“時計塔”がどんな場所なのか興味はある。",
+      "Pt-br": "Mesmo [font italic=true]eu[font italic=false] sendo um mago de meia-tigela, fico curioso sobre a Torre do Relógio, a sede da Associação dos Magos em Londres.",
+      "id": 21867,
+      "epk_id": "27009",
+      "label": "$$$message_0201_0000_0001$$$"
+    },
+    {
+      "en": "\"It's just a museum.[lr]",
+      "jp": "「どんな場所かって、ただの博物館だけど？[lr]",
+      "Pt-br": "\"Não passa de um museu.[lr]",
+      "id": 21868,
+      "epk_id": "27010",
+      "label": "$$$message_0201_0001_0000$$$"
+    },
+    {
+      "en": "Oh, did you want a souvenir?\"[lr]",
+      "jp": "　あ、お土産いる？」[lr]",
+      "Pt-br": "Ah, você queria um souvenir?\"[lr]",
+      "id": 21869,
+      "epk_id": "27011",
+      "label": "$$$message_0201_0001_0001$$$"
+    },
+    {
+      "en": "Tohsaka hands me a thick book.[lr]",
+      "jp": "　はい、とぶ厚い本を取り出す遠坂。[lr]",
+      "Pt-br": "A Tohsaka me entrega um livro grosso.[lr]",
+      "id": 21870,
+      "epk_id": "27012",
+      "label": "$$$message_0201_0001_0002$$$"
+    },
+    {
+      "en": "It's a catalog she bought on discount at the British Museum. It doesn't look very valuable.",
+      "jp": "　大英博物館のディスカウントで買える、お高くてあんまりありがたみのないカタログである。",
+      "Pt-br": "É um catálogo que ela comprou com desconto no Museu Britânico. Não parece muito valioso.",
+      "id": 21871,
+      "epk_id": "27013",
+      "label": "$$$message_0201_0001_0003$$$"
+    },
+    {
+      "en": "\"...Well, I'll take it.\"[lr]",
+      "jp": "「……まあ、貰っておくけど」[lr]",
+      "Pt-br": "\"...Bem, eu vou aceitar.\"[lr]",
+      "id": 21872,
+      "epk_id": "27014",
+      "label": "$$$message_0201_0002_0000$$$"
+    },
+    {
+      "en": "With thanks, I take the book.[lr]",
+      "jp": "　ありがとう、とお礼を返しつつ受け取る。[lr]",
+      "Pt-br": "Agradecendo, pego o livro.[lr]",
+      "id": 21873,
+      "epk_id": "27015",
+      "label": "$$$message_0201_0002_0001$$$"
+    },
+    {
+      "en": "\"You're welcome. I might ask you for help if I'm ever having money trouble, so get ready to Project stuff other than weapons. If sculptures are too bulky, we could try paintings.\"[lr]",
+      "jp": "「どういたしまして。お金に困ったら衛宮くんには頑張ってもらうんだから、いまのうちに武器以外も投影できるよう予習しといてね。彫刻はかさばるから絵画あたりねらい目よ？」[lr]",
+      "Pt-br": "\"De nada. Eu posso pedir a sua ajuda se algum dia estiver com problemas financeiros, então se prepare para Projetar outras coisas além de armas. Se as esculturas forem grandes demais, podemos tentar pinturas, Emiya-kun.\"[lr]",
+      "id": 21874,
+      "epk_id": "27016",
+      "label": "$$$message_0201_0002_0002$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「[line len=6]」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 21875,
+      "epk_id": "27017",
+      "label": "$$$message_0201_0002_0003$$$"
+    },
+    {
+      "en": "It's just like Tohsaka to treat even souvenirs as an investment.",
+      "jp": "　さすが遠坂、お土産すら先行投資なのですか。",
+      "Pt-br": "É a cara da Tohsaka tratar até mesmo os souvenirs como um investimento.",
+      "id": 21876,
+      "epk_id": "27018",
+      "label": "$$$message_0201_0002_0004$$$"
+    },
+    {
+      "en": "\"...I won't help you commit crimes.[lr]",
+      "jp": "「……犯罪には荷担しないぞ。[lr]",
+      "Pt-br": "\"...Eu não vou te ajudar a cometer crimes.[lr]",
+      "id": 21877,
+      "epk_id": "27019",
+      "label": "$$$message_0201_0003_0000$$$"
+    },
+    {
+      "en": "I bet there are appraisers who use magecraft. They'd be able to pick out my counterfeits with one look.\"",
+      "jp": "　第一、あっちにも魔術よりの鑑定士がいるんだろ。俺の贋作なんて一発で見抜かれるぞ」",
+      "Pt-br": "Aposto que existem avaliadores que usam magia. Eles identificariam minhas falsificações num piscar de olhos.\"",
+      "id": 21878,
+      "epk_id": "27020",
+      "label": "$$$message_0201_0003_0001$$$"
+    },
+    {
+      "en": "\"Oh, you still don't know how unique your skills are. There isn't really anyone who can tell your Projections aren't original upon initial examination.[lr]",
+      "jp": "「あら、まだ自分の特技が分かってないみたいね。衛宮くんの投影を初見で見抜けるヤツはそういないわ。[lr]",
+      "Pt-br": "\"Ah, Emiya-kun ainda não entendeu como as suas habilidades são únicas. Na verdade, numa primeira inspeção, não existe ninguém capaz de dizer que as suas Projeções não são originais.[lr]",
+      "id": 21879,
+      "epk_id": "27021",
+      "label": "$$$message_0201_0004_0000$$$"
+    },
+    {
+      "en": "Practitioners who examine the structure would fail. Spirit mediums might sense something off, but that department only studies items with interesting histories. If we're just after money, we could make a killing.\"",
+      "jp": "　構成でチェックする術者じゃまずアウト。霊媒系の術者なら違和感に気付くだろうけど、曰く付きのモノしか霊媒科にはいかないのよね。売り逃げが目的なら巨万の富が築けるわよ」",
+      "Pt-br": "Praticantes que examinassem a estrutura falhariam. Espiritualistas talvez sentissem algo estranho, mas esse departamento só estuda itens com histórias interessantes. Se estivéssemos atrás apenas de dinheiro, poderíamos fazer uma fortuna.\"",
+      "id": 21880,
+      "epk_id": "27022",
+      "label": "$$$message_0201_0004_0001$$$"
+    },
+    {
+      "en": "\"Huh, really?\"[lr]",
+      "jp": "「え、ほんとか……？」[lr]",
+      "Pt-br": "\"Hã, sério?\"[lr]",
+      "id": 21881,
+      "epk_id": "27023",
+      "label": "$$$message_0201_0005_0000$$$"
+    },
+    {
+      "en": "\"Really. I'm proud of you, as your mentor.\"[lr]",
+      "jp": "「ホントもホント。師匠としてわたしも鼻が高いぐらい」[lr]",
+      "Pt-br": "\"Sério. Estou orgulhosa de você, como sua mentora.\"[lr]",
+      "id": 21882,
+      "epk_id": "27024",
+      "label": "$$$message_0201_0005_0001$$$"
+    },
+    {
+      "en": "Ugh. I have mixed feelings about this, but the compliment makes me happy. I think.",
+      "jp": "　う。内容が内容だけに複雑だが、真剣に嬉しい、かも。",
+      "Pt-br": "Ugh. Tenho sentimentos mistos sobre isso, mas o elogio me deixa feliz. Acho.",
+      "id": 21883,
+      "epk_id": "27025",
+      "label": "$$$message_0201_0005_0002$$$"
+    },
+    {
+      "en": "\"Though the fallout could be pretty scary.[lr]",
+      "jp": "「ま、そんなコトしたら後が怖いんだけどね。[lr]",
+      "Pt-br": "\"Embora as consequências pudessem ser bem assustadoras.[lr]",
+      "id": 21884,
+      "epk_id": "27026",
+      "label": "$$$message_0201_0006_0000$$$"
+    },
+    {
+      "en": "We aren't Bonnie and Clyde. I'd hate for us to make the wanted list instead of money.\"[lr]",
+      "jp": "　ボニーとクライドじゃあるまいし、大金の代わりに指名手配なんかされたらたまらないわ」[lr]",
+      "Pt-br": "Nós não somos Bonnie e Clyde. Eu odiaria acabar na lista de procurados em vez de ganhar dinheiro.\"[lr]",
+      "id": 21885,
+      "epk_id": "27027",
+      "label": "$$$message_0201_0006_0001$$$"
+    },
+    {
+      "en": "\"No thanks. I value my life over money.\"[lr]",
+      "jp": "「そりゃ俺もたまらない。お金より命だよな」[lr]",
+      "Pt-br": "\"Não, obrigado. Eu valorizo a minha vida mais que o dinheiro.\"[lr]",
+      "id": 21886,
+      "epk_id": "27028",
+      "label": "$$$message_0201_0006_0002$$$"
+    },
+    {
+      "en": "Also, I wouldn't want to be labeled her accomplice when she threatened me into it.",
+      "jp": "　あと、脅迫されただけなのに共犯者にされてるあたりもたまらない。",
+      "Pt-br": "Além disso, eu não queria ser carimbado como cúmplice depois de ela me forçar a isso sob ameaça.",
+      "id": 21887,
+      "epk_id": "27029",
+      "label": "$$$message_0201_0006_0003$$$"
+    },
+    {
+      "en": "\"Yeah. It could be fun to boldly make some quick cash, but there's no point if we get found out right away. It's not like the method costs us any capital, so let's just take it one step at a time.\"[lr]",
+      "jp": "「そうね。派手に稼ぐのは楽しそうだけど、すぐに見つかっちゃ意味がないわ。元手のかからない商売だし、地味にコツコツいきましょう」[lr]",
+      "Pt-br": "\"Sim. Poderia ser divertido audaciosamente ganhar uma grana rápida, mas não tem sentido se formos descobertos logo de cara. Não é como se o método nos custasse algum capital, então vamos dar um passo de cada vez.\"[lr]",
+      "id": 21888,
+      "epk_id": "27030",
+      "label": "$$$message_0201_0007_0000$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「………………」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 21889,
+      "epk_id": "27031",
+      "label": "$$$message_0201_0007_0001$$$"
+    },
+    {
+      "en": "She's joking. This must be one of Tohsaka's best jokes.[lr]",
+      "jp": "　冗談。これは遠坂一流の冗談。[lr]",
+      "Pt-br": "Ela está brincando. Esta deve ser uma das melhores piadas da Tohsaka.[lr]",
+      "id": 21890,
+      "epk_id": "27032",
+      "label": "$$$message_0201_0007_0002$$$"
+    },
+    {
+      "en": "I repeat it to myself three times and decide to change the subject.",
+      "jp": "　心の中で三度繰り返して、話題をスッパリ変えるコトにした。",
+      "Pt-br": "Eu repito isso para mim mesmo três vezes e decido mudar de assunto.",
+      "id": 21891,
+      "epk_id": "27033",
+      "label": "$$$message_0201_0007_0003$$$"
+    },
+    {
+      "en": "\"Let's discuss business prospects another time.[lr]",
+      "jp": "「商売の話はまた後ほど。[lr]",
+      "Pt-br": "\"Vamos discutir os prospectos de negócios em outra hora.[lr]",
+      "id": 21892,
+      "epk_id": "27034",
+      "label": "$$$message_0201_0008_0000$$$"
+    },
+    {
+      "en": "About London, did anything memorable happen? [cacheimage storage=凛私服03g(中)][wvl][chgfg textoff=0 time=300 storage=凛私服03g(中)]Were the prices good, was the food bad, did you make any new friends, and stuff like that?\"",
+      "jp": "　ロンドンでの話だけど、何か印象的なコトなかったか？[cacheimage storage=凛私服03g(中)][wvl][chgfg textoff=0 time=300 storage=凛私服03g(中)]　物価が安いとか、料理がまずいとか、新しい友人が出来たとか」",
+      "Pt-br": "Sobre Londres, algo memorável aconteceu? [cacheimage storage=凛私服03g(中)][wvl][chgfg textoff=0 time=300 storage=凛私服03g(中)]Os preços eram bons, a comida era ruim, você fez novos amigos e coisas do tipo?\"",
+      "id": 21893,
+      "epk_id": "27035",
+      "label": "$$$message_0201_0008_0001$$$"
+    },
+    {
+      "en": "\"You want stories instead of souvenirs?[lr]",
+      "jp": "「お土産じゃなくて土産話でいいの？[lr]",
+      "Pt-br": "\"Você quer histórias em vez de souvenirs?[lr]",
+      "id": 21894,
+      "epk_id": "27036",
+      "label": "$$$message_0201_0009_0000$$$"
+    },
+    {
+      "en": "...Well, the Clock Tower is exactly what it sounds like, but most of the workshops are underground.[lr]",
+      "jp": "　……そうね、時計塔っていうのはそのまんまの意味なんだけど、工房のほとんどは地下にあったかな。[lr]",
+      "Pt-br": "...Bem, a Torre do Relógio é exatamente o que o nome indica, mas a maior parte das oficinas são subterrâneas.[lr]",
+      "id": 21895,
+      "epk_id": "27037",
+      "label": "$$$message_0201_0009_0001$$$"
+    },
+    {
+      "en": "It's a dungeon that gets crazier the lower you go.[lr]",
+      "jp": "　下に行けば行くほど狂気度があがっていくダンジョンそのものよ。[lr]",
+      "Pt-br": "É uma masmorra que fica mais louca quanto mais fundo você desce.[lr]",
+      "id": 21896,
+      "epk_id": "27038",
+      "label": "$$$message_0201_0009_0002$$$"
+    },
+    {
+      "en": "They call the Egyptian branch of the Association a pit, but the Clock Tower's no less mole-like.\"",
+      "jp": "　エジプトの協会を穴蔵呼ばわりしてるけど、モグラ度なら負けてないんじゃない、時計塔も」",
+      "Pt-br": "Eles chamam a filial egípcia da Associação de buraco, mas a Torre do Relógio não é menos como uma toupeira.\"",
+      "id": 21897,
+      "epk_id": "27039",
+      "label": "$$$message_0201_0009_0003$$$"
+    },
+    {
+      "en": "\"...Huh. What else? Anything more serious?\"[lr]",
+      "jp": "「……ふぅん。で、他には？　もちっとマトモな話とかないのか？」[lr]",
+      "Pt-br": "\"...Hã. O que mais? Algo mais sério?\"[lr]",
+      "id": 21898,
+      "epk_id": "27040",
+      "label": "$$$message_0201_0010_0000$$$"
+    },
+    {
+      "en": "\"Hey, I didn't have time to be a tourist.[lr]",
+      "jp": "「他って、観光なんてしてる暇なかったわよ。[lr]",
+      "Pt-br": "\"Ei, eu não tive tempo para ser uma turista.[lr]",
+      "id": 21899,
+      "epk_id": "27041",
+      "label": "$$$message_0201_0010_0001$$$"
+    },
+    {
+      "en": "I was scraping together the ingredients to dispose of the Jeweled Sword, reserving laboratories, greeting the Mineralogy higher-ups over and over, schmoozing with nobles who might sponsor me, finding an apartment to live in next year, checking out a student dorm that might let me stay for cheap...\"[cacheimage storage=凛私服09a(中)][wvs][chgfg textoff=0 time=300 storage=凛私服09a(中)]",
+      "jp": "　宝石剣の後始末用の材料をかき集めて、実験室の予約もして、鉱石科のお偉いさんに何度も挨拶して、スポンサーになってくれそうなお貴族さまを絞り込んで、来年から使うアパートメントを探して、一応、格安で貸してくれるっていう学生寮の様子を見に行って[line len=3]」[cacheimage storage=凛私服09a(中)][wvs][chgfg textoff=0 time=300 storage=凛私服09a(中)]",
+      "Pt-br": "Eu estava juntando os ingredientes para me livrar da Espada Joia, reservando laboratórios, cumprimentando os superiores de Mineralogia de novo e de novo, bajulando nobres que poderiam me patrocinar, procurando um apartamento para o ano que vem, checando um dormitório estudantil onde talvez me deixassem ficar pagando barato...\"[cacheimage storage=凛私服09a(中)][wvs][chgfg textoff=0 time=300 storage=凛私服09a(中)]",
+      "id": 21900,
+      "epk_id": "27042",
+      "label": "$$$message_0201_0010_0002$$$"
+    },
+    {
+      "en": "\"What's wrong? You look like you just swallowed a bug.\"[lr]",
+      "jp": "「どうした？　苦虫かみつぶしたような顔して」[lr]",
+      "Pt-br": "\"O que foi? Você parece que acabou de engolir um inseto.\"[lr]",
+      "id": 21901,
+      "epk_id": "27043",
+      "label": "$$$message_0201_0011_0000$$$"
+    },
+    {
+      "en": "\"...Well, when I went to tour the dorms, I met an unpleasant girl.[lr]",
+      "jp": "「[line len=3]ちょっとね。学生寮の下見に行った時、イヤな女と知り合ったの。[lr]",
+      "Pt-br": "\"...Bem, quando fui fazer um tour pelos dormitórios, eu encontrei uma garota desagradável.[lr]",
+      "id": 21902,
+      "epk_id": "27044",
+      "label": "$$$message_0201_0011_0001$$$"
+    },
+    {
+      "en": "Thanks to her, I've been banned from the dorms, so I have to find an actual apartment now.\"[lr]",
+      "jp": "　そいつのおかげで学生寮は出禁になって、本格的にアパートメント探しをする事になったのよ、わたし」[lr]",
+      "Pt-br": "Graças a ela, eu fui banida dos dormitórios, então eu tenho que achar um apartamento de verdade agora.\"[lr]",
+      "id": 21903,
+      "epk_id": "27045",
+      "label": "$$$message_0201_0011_0002$$$"
+    },
+    {
+      "en": "I see a blood vessel twitch on her temple.[lr]",
+      "jp": "　ビキ、とこめかみに血管が浮き出ている。[lr]",
+      "Pt-br": "Eu vejo uma veia pulsar na sua têmpora.[lr]",
+      "id": 21904,
+      "epk_id": "27046",
+      "label": "$$$message_0201_0011_0003$$$"
+    },
+    {
+      "en": "Tohsaka never minces words, but I think this might be the first time I've heard her describe someone that way.",
+      "jp": "　口厳しい遠坂だが、人を“イヤな女”と明言するのは初めてではなかろうか。",
+      "Pt-br": "A Tohsaka nunca mede palavras, mas acho que é a primeira vez que a ouço descrever alguém desse jeito.",
+      "id": 21905,
+      "epk_id": "27047",
+      "label": "$$$message_0201_0011_0004$$$"
+    },
+    {
+      "en": "\"Is this unpleasant girl our age?\"[lr]",
+      "jp": "「イヤな女って、もしかして俺たちと同い年？」[lr]",
+      "Pt-br": "\"Essa garota desagradável tem a nossa idade?\"[lr]",
+      "id": 21906,
+      "epk_id": "27048",
+      "label": "$$$message_0201_0012_0000$$$"
+    },
+    {
+      "en": "\"Huh? W-why?\"[lr]",
+      "jp": "「え[line len=3]ど、どうして？」[lr]",
+      "Pt-br": "\"Hã? P-por quê?\"[lr]",
+      "id": 21907,
+      "epk_id": "27049",
+      "label": "$$$message_0201_0012_0001$$$"
+    },
+    {
+      "en": "\"Just wondering. It feels rare for you to describe someone like that.\"[lr]",
+      "jp": "「いや、なんとなく。遠坂がそういう風に言うのは、ほら」[lr]",
+      "Pt-br": "\"Só por curiosidade. É raro você descrever alguém dessa forma.\"[lr]",
+      "id": 21908,
+      "epk_id": "27050",
+      "label": "$$$message_0201_0012_0002$$$"
+    },
+    {
+      "en": "Her vicious tone made this person sound like her equal, or to be blunt, someone just like her.",
+      "jp": "　対等の相手というか、ぶっちゃけ似た者同士がする悪口に聞こえたのであった。",
+      "Pt-br": "O tom venenoso dela fazia essa pessoa parecer sua igual ou, falando francamente, alguém exatamente igual a ela.",
+      "id": 21909,
+      "epk_id": "27051",
+      "label": "$$$message_0201_0012_0003$$$"
+    },
+    {
+      "en": "\"...Yeah, she is.[lr]",
+      "jp": "「……まあ、士郎の言う通りだけど。[lr]",
+      "Pt-br": "\"...Sim, ela tem.[lr]",
+      "id": 21910,
+      "epk_id": "27052",
+      "label": "$$$message_0201_0013_0000$$$"
+    },
+    {
+      "en": "I ran into her at reception. We just made small talk at first. She was polite and witty, so she gave off a good first impression.[lr]",
+      "jp": "　そいつとは受付でバッタリ会ってね。初めは普通に話してたのよ。挨拶も礼儀正しかったし、会話もキレがあって心地よかったしね。[lr]",
+      "Pt-br": "Cruzei com ela na recepção. No começo, só conversamos um pouco. Ela era educada e espirituosa, então me causou uma boa primeira impressão.[lr]",
+      "id": 21911,
+      "epk_id": "27053",
+      "label": "$$$message_0201_0013_0001$$$"
+    },
+    {
+      "en": "I could say something about her fashion sense, but she was obviously rich. I didn't think she had such bad taste [font italic=true]yet[font italic=false].\"",
+      "jp": "　まあ、あの服装はどうかと思ったけど、見るからにお金持ちだったし、[ruby text=・・ o2o=1]まだ悪趣味とは思わなかったわ」",
+      "Pt-br": "Eu poderia dizer algo sobre o seu senso de moda, mas ela era obviamente rica. Eu não achei que ela tivesse um gosto tão ruim [font italic=true]ainda[font italic=false].\"",
+      "id": 21912,
+      "epk_id": "27054",
+      "label": "$$$message_0201_0013_0002$$$"
+    },
+    {
+      "en": "I can sense the hatred behind that \"yet.\"[lr]",
+      "jp": "　まだ、という部分に憎しみを感じる。[lr]",
+      "Pt-br": "Eu consigo sentir o ódio por trás desse \"ainda\".[lr]",
+      "id": 21913,
+      "epk_id": "27055",
+      "label": "$$$message_0201_0014_0000$$$"
+    },
+    {
+      "en": "The voltage of Tohsaka's annoyance rises, and I can even feel her magical energy rising, not just her veins. She's tense.[lr]",
+      "jp": "　遠坂の苛立ちはボルテージをあげていき、今では青筋ばかりか魔力さえ立ち昇っていた。気炎万丈というヤツである。[lr]",
+      "Pt-br": "A irritação da Tohsaka sobe de tensão, e eu quase consigo sentir não só as veias dela, mas também a sua energia mágica se avolumando. Ela está tensa.[lr]",
+      "id": 21914,
+      "epk_id": "27056",
+      "label": "$$$message_0201_0014_0001$$$"
+    },
+    {
+      "en": "Now...[lr]",
+      "jp": "　……さて。[lr]",
+      "Pt-br": "Agora...[lr]",
+      "id": 21915,
+      "epk_id": "27057",
+      "label": "$$$message_0201_0014_0002$$$"
+    },
+    {
+      "en": "Tohsaka's account from here contains a bunch of foul language, so let's visualize how it happened, instead.",
+      "jp": "　ここからの遠坂の話はちょっとばかり聞き汚いフレーズの連続なので、イメージ再生でお送りしよう。",
+      "Pt-br": "O relato da Tohsaka daqui em diante contém linguagem de baixo calão demais, então é melhor mostrar como aconteceu.",
+      "id": 21916,
+      "epk_id": "27058",
+      "label": "$$$message_0201_0014_0003$$$"
+    },
+    {
+      "en": "\"...It was the worst incident in our dorm's history.[sestop time=200 storage=se666.wav][lr]",
+      "jp": "『……あれは我が学生寮史上、最悪の事件でした。[sestop time=200 storage=se666.wav][lr]",
+      "Pt-br": "\"...Foi o pior incidente na história do nosso dormitório.[sestop time=200 storage=se666.wav][lr]",
+      "id": 21917,
+      "epk_id": "27059",
+      "label": "$$$message_0201_0015_0000$$$"
+    },
+    {
+      "en": "Miss Tohsaka and Lady Luviagelita.[sestop time=200 storage=se666.wav][lr]",
+      "jp": "　ミス・トオサカとレディ・ルヴィアゼリッタ。[sestop time=200 storage=se666.wav][lr]",
+      "Pt-br": "Senhorita Tohsaka e Lady Luviagelita.[sestop time=200 storage=se666.wav][lr]",
+      "id": 21918,
+      "epk_id": "27060",
+      "label": "$$$message_0201_0015_0001$$$"
+    },
+    {
+      "en": "This has gone far beyond the point of debating whose fault it was.[sestop time=200 storage=se666.wav][se storage=se667.wav][lr]",
+      "jp": "　いったい、このどちらが犯人なのかは論ずるところではありません。[sestop time=200 storage=se666.wav][se storage=se667.wav][lr]",
+      "Pt-br": "Isso já passou muito do ponto de debater de quem foi a culpa.[sestop time=200 storage=se666.wav][se storage=se667.wav][lr]",
+      "id": 21919,
+      "epk_id": "27061",
+      "label": "$$$message_0201_0015_0002$$$"
+    },
+    {
+      "en": "The lesson that future generations must learn is to never, ever put them in the same room...\"[sestop time=200 storage=se666.wav][lr]",
+      "jp": "　私たちが後生に伝えるべき事は、彼女たちを決して同席させてはならない、という事実のみであり[line len=3]』[sestop time=200 storage=se666.wav][lr]",
+      "Pt-br": "A lição que as gerações futuras devem aprender é a nunca, jamais colocá-las no mesmo quarto...\"[sestop time=200 storage=se666.wav][lr]",
+      "id": 21920,
+      "epk_id": "27062",
+      "label": "$$$message_0201_0015_0003$$$"
+    },
+    {
+      "en": "-Testimony of receptionist Octavia Reyland, August 8, 200x.[sestop time=200 storage=se666.wav][se storage=se667.wav]",
+      "jp": "　８　Ａｕｇ　２００×．　受付嬢　オクタヴィア・レイランドの証言より。[sestop time=200 storage=se666.wav][se storage=se667.wav]",
+      "Pt-br": "–Testemunho da recepcionista Octavia Reyland, 8 de agosto de 200x.[sestop time=200 storage=se666.wav][se storage=se667.wav]",
+      "id": 21921,
+      "epk_id": "27063",
+      "label": "$$$message_0201_0015_0004$$$"
+    },
+    {
+      "en": "\"I can take that application for you.[lr]",
+      "jp": "「はい、それではお預かりします。[lr]",
+      "Pt-br": "\"Eu posso pegar essa ficha para você.[lr]",
+      "id": 21922,
+      "epk_id": "27064",
+      "label": "$$$message_0201_0016_0000$$$"
+    },
+    {
+      "en": "Please wait while I find a room that can accommodate your request.\"",
+      "jp": "　条件にあった部屋を問い合わせますので、しばらくお待ちになってください」",
+      "Pt-br": "Por favor, aguarde enquanto encontro um quarto que possa acomodar o seu pedido.\"",
+      "id": 21923,
+      "epk_id": "27065",
+      "label": "$$$message_0201_0016_0001$$$"
+    },
+    {
+      "en": "\"Haah, I made it.[lr]",
+      "jp": "「はあ、なんとか間に合ったかあ。[lr]",
+      "Pt-br": "\"Aah, eu consegui.[lr]",
+      "id": 21924,
+      "epk_id": "27066",
+      "label": "$$$message_0201_0017_0000$$$"
+    },
+    {
+      "en": "Now, I just have to wait for the assessment... [cacheimage storage=凛私服06b(中)][wvl canskip=0 time=300][chgfg time=200 storage=凛私服06b(中)]Hm?\"",
+      "jp": "　あとは査定を待つだけ……[cacheimage storage=凛私服06b(中)][wvl canskip=0 time=300][chgfg time=200 storage=凛私服06b(中)]ん？」",
+      "Pt-br": "Agora, eu só tenho que esperar pela avaliação... [cacheimage storage=凛私服06b(中)][wvl canskip=0 time=300][chgfg time=200 storage=凛私服06b(中)]Hm?\"",
+      "id": 21925,
+      "epk_id": "27067",
+      "label": "$$$message_0201_0017_0001$$$"
+    },
+    {
+      "en": "\"Pardon me. May I?[lr]",
+      "jp": "「失礼、[ruby text=ワタクシ]私もよろしい？[lr]",
+      "Pt-br": "\"Perdão. Eu posso?[lr]",
+      "id": 21926,
+      "epk_id": "27068",
+      "label": "$$$message_0201_0018_0000$$$"
+    },
+    {
+      "en": "This is the counter for next year's applications, yes?\"",
+      "jp": "　来年度の入居受付はこちらでしょう？」",
+      "Pt-br": "Este é o balcão para as inscrições do ano que vem, sim?\"",
+      "id": 21927,
+      "epk_id": "27069",
+      "label": "$$$message_0201_0018_0001$$$"
+    },
+    {
+      "en": "\"Y-yes, go ahead. I'm sorry for standing in your way. If you want to apply, you should hurry[line len=2]\"",
+      "jp": "「え、ええ、どうぞ、邪魔をしてしまってごめんなさい。入居の受付なら急いだ方が[line len=3]」",
+      "Pt-br": "\"S-sim, vá em frente. Desculpe por ficar no seu caminho. Se você quiser se inscrever, você deve se apressar[line len=2]\"",
+      "id": 21928,
+      "epk_id": "27070",
+      "label": "$$$message_0201_0019_0000$$$"
+    },
+    {
+      "en": "\"I'm well aware. It ends in seven minutes, correct?[lr]",
+      "jp": "「存じています、あと七分で終了でしょう？[lr]",
+      "Pt-br": "\"Eu estou ciente. Termina em sete minutos, certo?[lr]",
+      "id": 21929,
+      "epk_id": "27071",
+      "label": "$$$message_0201_0020_0000$$$"
+    },
+    {
+      "en": "It seems neither of us has adjusted to the time here yet.\"",
+      "jp": "　貴方も[ruby text=ワタクシ]私も、こちらの時間には慣れていないようですね」",
+      "Pt-br": "Parece que nenhuma de nós se acostumou com o fuso daqui ainda.\"",
+      "id": 21930,
+      "epk_id": "27072",
+      "label": "$$$message_0201_0020_0001$$$"
+    },
+    {
+      "en": "\"You there. Are these all the documents I need?\"",
+      "jp": "「貴女。必要な書類はこれでよろしくて？」",
+      "Pt-br": "\"Você aí. Estes são todos os documentos de que preciso?\"",
+      "id": 21931,
+      "epk_id": "27073",
+      "label": "$$$message_0201_0021_0000$$$"
+    },
+    {
+      "en": "\"Ah yes, that will do, lady.[lr]",
+      "jp": "「あ、はい、十分ですレディ。[lr]",
+      "Pt-br": "\"Ah, sim, isso servirá, senhorita.[lr]",
+      "id": 21932,
+      "epk_id": "27074",
+      "label": "$$$message_0201_0022_0000$$$"
+    },
+    {
+      "en": "I'll accept your application, so you can come back in[line len=2]Ah, I believe our capacity increased by one.\"",
+      "jp": "　それでは受理いたしますので、今日はお帰り……あっと、定員が一人増えたんでしたっけ」",
+      "Pt-br": "Vou aceitar sua solicitação, então você pode voltar em[line len=2]Ah, parece que nossa capacidade aumentou em uma vaga.\"",
+      "id": 21933,
+      "epk_id": "27075",
+      "label": "$$$message_0201_0022_0001$$$"
+    },
+    {
+      "en": "\"I apologize. Please wait a moment.[lr]",
+      "jp": "「申し訳ありませんがしばらくお待ちください。[lr]",
+      "Pt-br": "\"Eu peço desculpas. Por favor, espere um momento.[lr]",
+      "id": 21934,
+      "epk_id": "27076",
+      "label": "$$$message_0201_0023_0000$$$"
+    },
+    {
+      "en": "I'll double check this right away.\"",
+      "jp": "　すぐに確認をとりますので」",
+      "Pt-br": "Eu vou dar uma verificada nisso agora mesmo.\"",
+      "id": 21935,
+      "epk_id": "27077",
+      "label": "$$$message_0201_0023_0001$$$"
+    },
+    {
+      "en": "\"...\"",
+      "jp": "「………………」",
+      "Pt-br": "\"...\"",
+      "id": 21936,
+      "epk_id": "27078",
+      "label": "$$$message_0201_0024_0000$$$"
+    },
+    {
+      "en": "\"...\"",
+      "jp": "「………………」",
+      "Pt-br": "\"...\"",
+      "id": 21937,
+      "epk_id": "27079",
+      "label": "$$$message_0201_0025_0000$$$"
+    },
+    {
+      "en": "\"......\"",
+      "jp": "「…………………………」",
+      "Pt-br": "\"......\"",
+      "id": 21938,
+      "epk_id": "27080",
+      "label": "$$$message_0201_0026_0000$$$"
+    },
+    {
+      "en": "\"......\"",
+      "jp": "「…………………………」",
+      "Pt-br": "\"......\"",
+      "id": 21939,
+      "epk_id": "27081",
+      "label": "$$$message_0201_0027_0000$$$"
+    },
+    {
+      "en": "\"......Um...\"[wvs][nolr][wait canskip=0 time=300]",
+      "jp": "「…………………………あの、」[wvs][nolr][wait canskip=0 time=300]",
+      "Pt-br": "\"......Hm...\"[wvs][nolr][wait canskip=0 time=300]",
+      "id": 21940,
+      "epk_id": "27082",
+      "label": "$$$message_0201_0028_0000$$$"
+    },
+    {
+      "en": "\"......Hey...\"",
+      "jp": "「…………………………ねえ、」",
+      "Pt-br": "\"......Ei...\"",
+      "id": 21941,
+      "epk_id": "27083",
+      "label": "$$$message_0201_0028_0001$$$"
+    },
+    {
+      "en": "\"Sorry, go ahead.[lr]",
+      "jp": "「ごめんなさい、お先にどうぞ。[lr]",
+      "Pt-br": "\"Desculpe, vá em frente.[lr]",
+      "id": 21942,
+      "epk_id": "27084",
+      "label": "$$$message_0201_0029_0000$$$"
+    },
+    {
+      "en": "Or should I speak first?\"",
+      "jp": "　それともわたしからの方がいいかしら？」",
+      "Pt-br": "Ou eu devo falar primeiro?\"",
+      "id": 21943,
+      "epk_id": "27085",
+      "label": "$$$message_0201_0029_0001$$$"
+    },
+    {
+      "en": "\"It's all right. I appreciate your thoughtfulness.[lr]",
+      "jp": "「いえ、せっかくの心遣い、謹んで受け取ります。[lr]",
+      "Pt-br": "\"Está tudo bem. Agradeço a sua consideração.[lr]",
+      "id": 21944,
+      "epk_id": "27086",
+      "label": "$$$message_0201_0030_0000$$$"
+    },
+    {
+      "en": "May I ask you a question?\"",
+      "jp": "　[ruby text=ワタクシ]私から質問をしますけど、よろしい？」",
+      "Pt-br": "Posso fazer uma pergunta?\"",
+      "id": 21945,
+      "epk_id": "27087",
+      "label": "$$$message_0201_0030_0001$$$"
+    },
+    {
+      "en": "\"Of course.[lr]",
+      "jp": "「もちろん。[lr]",
+      "Pt-br": "\"Claro.[lr]",
+      "id": 21946,
+      "epk_id": "27088",
+      "label": "$$$message_0201_0031_0000$$$"
+    },
+    {
+      "en": "We both have nothing else to do. Perhaps it's fate that we met each other today.\"",
+      "jp": "　お互い退屈しているようですし、こうして知り合えたのも何かの縁でしょうし」",
+      "Pt-br": "Ambas não temos mais nada para fazer. Talvez seja o destino que nós nos encontramos hoje.\"",
+      "id": 21947,
+      "epk_id": "27089",
+      "label": "$$$message_0201_0031_0001$$$"
+    },
+    {
+      "en": "\"I agree... Hehe. This is just a hunch, but I thought from first glance that we'd get along.\"",
+      "jp": "「同感です。……ふふ。これはただの勘なのですけど、一目見た時から貴女とは気が合うと思ったの」",
+      "Pt-br": "\"Concordo... Hehe. É só um palpite, mas, à primeira vista, achei que nós nos daríamos bem.\"",
+      "id": 21948,
+      "epk_id": "27090",
+      "label": "$$$message_0201_0032_0000$$$"
+    },
+    {
+      "en": "\"For those of us engaged in magecraft, the intuition of a first impression can be as concrete as foreknowledge.\"",
+      "jp": "「第一印象の直感だけなんて、魔術に携わる者としては根拠にかける予知ですけど」",
+      "Pt-br": "\"Para nós, que lidamos com magia, a intuição de uma primeira impressão pode ser tão concreta quanto a presciência.\"",
+      "id": 21949,
+      "epk_id": "27091",
+      "label": "$$$message_0201_0033_0000$$$"
+    },
+    {
+      "en": "\"Oh my. If we're talking foreknowledge and not prediction, then your intuition must be impressive, indeed.\"",
+      "jp": "「まさか。予測ではなく予知であるのなら、直感によるものは大きいわ」",
+      "Pt-br": "\"Nossa. Se estamos falando de presciência, e não de previsão, então a sua intuição deve ser mesmo impressionante.\"",
+      "id": 21950,
+      "epk_id": "27092",
+      "label": "$$$message_0201_0034_0000$$$"
+    },
+    {
+      "en": "\"Besides...I doubt that your instincts have been wrong so far.\"",
+      "jp": "「それに[line len=3]貴女の勘は、今まで外れた事がないと思いますけど？」",
+      "Pt-br": "\"Além disso... eu duvido que os seus instintos tenham estado errados até agora.\"",
+      "id": 21951,
+      "epk_id": "27093",
+      "label": "$$$message_0201_0035_0000$$$"
+    },
+    {
+      "en": "\"Oh? Does your own intuition tell you that?\"",
+      "jp": "「あら。それは貴女の勘、かしら？」",
+      "Pt-br": "\"Ah? A sua própria intuição lhe diz isso?\"",
+      "id": 21952,
+      "epk_id": "27094",
+      "label": "$$$message_0201_0036_0000$$$"
+    },
+    {
+      "en": "\"Yes. We sensed that we were kindred spirits and opened up to each other, so we can't both be wrong.[lr]",
+      "jp": "「ええ。わたしたちが同じものを感じて気を許そうというのなら、そうでなくてはおかしいもの。[lr]",
+      "Pt-br": "\"Sim. Nós sentimos que éramos espíritos semelhantes e nos abrimos uma com a outra, então não podemos as duas estar erradas.[lr]",
+      "id": 21953,
+      "epk_id": "27095",
+      "label": "$$$message_0201_0037_0000$$$"
+    },
+    {
+      "en": "After all, I also...\"",
+      "jp": "　だって、わたしも」",
+      "Pt-br": "Afinal de contas, eu também...\"",
+      "id": 21954,
+      "epk_id": "27096",
+      "label": "$$$message_0201_0037_0001$$$"
+    },
+    {
+      "en": "\"Have an intuition that doesn't miss?\"",
+      "jp": "「外れない直感を持っている、とおっしゃるのね？」",
+      "Pt-br": "\"Tem uma intuição que não erra?\"",
+      "id": 21955,
+      "epk_id": "27097",
+      "label": "$$$message_0201_0038_0000$$$"
+    },
+    {
+      "en": "\"...Hehe. Yes, your instincts are correct.[lr]",
+      "jp": "「……ふふ。ええ、貴女の勘に間違いはありませんわ。[lr]",
+      "Pt-br": "\"...Hehe. Sim, os seus instintos estão corretos.[lr]",
+      "id": 21956,
+      "epk_id": "27098",
+      "label": "$$$message_0201_0039_0000$$$"
+    },
+    {
+      "en": "I've never misjudged someone's character upon the first meeting.\"",
+      "jp": "　[ruby text=ワタクシ]私、初対面でも人柄を見誤った事はありませんの」",
+      "Pt-br": "Eu nunca julguei mal o caráter de alguém no primeiro encontro.\"",
+      "id": 21957,
+      "epk_id": "27099",
+      "label": "$$$message_0201_0039_0001$$$"
+    },
+    {
+      "en": "\"How confident of you.[lr]",
+      "jp": "「ずいぶんな自信ね。[lr]",
+      "Pt-br": "\"Quanta confiança a sua.[lr]",
+      "id": 21958,
+      "epk_id": "27100",
+      "label": "$$$message_0201_0040_0000$$$"
+    },
+    {
+      "en": "And what's your impression of me?[lr]",
+      "jp": "　じゃあ、貴女の感想はどう？[lr]",
+      "Pt-br": "E qual é a sua impressão de mim?[lr]",
+      "id": 21959,
+      "epk_id": "27101",
+      "label": "$$$message_0201_0040_0001$$$"
+    },
+    {
+      "en": "What sort of person am I in your eyes?\"",
+      "jp": "　わたしはどんな人間に映るのかしら？」",
+      "Pt-br": "Que tipo de pessoa eu sou aos seus olhos?\"",
+      "id": 21960,
+      "epk_id": "27102",
+      "label": "$$$message_0201_0040_0002$$$"
+    },
+    {
+      "en": "\"A formidable competitor worthy of respect, shall we say.\"",
+      "jp": "「手強いけれど、尊敬にたる競争相手[line len=3]というところかしら」",
+      "Pt-br": "\"Uma concorrente formidável e digna de respeito, por assim dizer.\"",
+      "id": 21961,
+      "epk_id": "27103",
+      "label": "$$$message_0201_0041_0000$$$"
+    },
+    {
+      "en": "\"You also seem to be a new student. This is my first time speaking to someone from the Orient.[lr]",
+      "jp": "「見たところ同じ新入生のようですけど、[ruby text=ワタクシ]私、東洋系の方とお話をするのは初めてですの。[lr]",
+      "Pt-br": "\"Você também parece ser uma nova aluna. Esta é a primeira vez que falo com alguém do Oriente.[lr]",
+      "id": 21962,
+      "epk_id": "27104",
+      "label": "$$$message_0201_0042_0000$$$"
+    },
+    {
+      "en": "Pardon my rudeness, but are you Chinese?\"",
+      "jp": "　失礼だけど、貴女チャイニーズ？」",
+      "Pt-br": "Perdoe a minha grosseria, mas você é chinesa?\"",
+      "id": 21963,
+      "epk_id": "27105",
+      "label": "$$$message_0201_0042_0001$$$"
+    },
+    {
+      "en": "\"You're just guessing. What makes you think that?\"",
+      "jp": "「本当に根拠なしね。どうしてそう思うの？」",
+      "Pt-br": "\"Você está só chutando. O que a faz pensar isso?\"",
+      "id": 21964,
+      "epk_id": "27106",
+      "label": "$$$message_0201_0043_0000$$$"
+    },
+    {
+      "en": "\"The way you walk and move your center of gravity, perhaps. I received lessons in such things long ago.[lr]",
+      "jp": "「足の運びと重心移動、かしら。昔、そういった雰囲気の方にレッスンをしていただきました。[lr]",
+      "Pt-br": "\"O seu jeito de caminhar e mover seu centro de gravidade, talvez. Eu recebi aulas sobre tais coisas muito tempo atrás.[lr]",
+      "id": 21965,
+      "epk_id": "27107",
+      "label": "$$$message_0201_0044_0000$$$"
+    },
+    {
+      "en": "From a master in my homeland, of course.\"",
+      "jp": "　もっとも、その方は祖国の名手でしたが」",
+      "Pt-br": "Com um instrutor da minha terra natal, é claro.\"",
+      "id": 21966,
+      "epk_id": "27108",
+      "label": "$$$message_0201_0044_0001$$$"
+    },
+    {
+      "en": "\"I see.[lr]",
+      "jp": "「なるほど。[lr]",
+      "Pt-br": "\"Entendo.[lr]",
+      "id": 21967,
+      "epk_id": "27109",
+      "label": "$$$message_0201_0045_0000$$$"
+    },
+    {
+      "en": "But your homeland is... Apologies. Let me answer your question first.\"",
+      "jp": "　けど貴女の祖国って……失礼、こっちの答えがまだだったわね」",
+      "Pt-br": "Mas sua terra natal é... Minhas desculpas. Deixe-me responder à sua pergunta primeiro.\"",
+      "id": 21968,
+      "epk_id": "27110",
+      "label": "$$$message_0201_0045_0001$$$"
+    },
+    {
+      "en": "\"Sorry to disappoint, but I'm Japanese.[lr]",
+      "jp": "「残念、日本人よ。[lr]",
+      "Pt-br": "\"Desculpe desapontá-la, mas eu sou japonesa.[lr]",
+      "id": 21969,
+      "epk_id": "27111",
+      "label": "$$$message_0201_0046_0000$$$"
+    },
+    {
+      "en": "Only by a quarter, though.\"",
+      "jp": "　純血じゃなくてクオーターだけど」",
+      "Pt-br": "Só um quarto, na verdade.\"",
+      "id": 21970,
+      "epk_id": "27112",
+      "label": "$$$message_0201_0046_0001$$$"
+    },
+    {
+      "en": "\"...You're Japanese, then.[lr]",
+      "jp": "「……日本人でしたの。[lr]",
+      "Pt-br": "\"...Você é japonesa, então.[lr]",
+      "id": 21971,
+      "epk_id": "27113",
+      "label": "$$$message_0201_0047_0000$$$"
+    },
+    {
+      "en": "I suppose I can't always be right. I'll take it as a sign that I should perhaps get to know you better.\"",
+      "jp": "　まあ、そういう事もありますわね。これを期にもう一度友好を深めるべき、という神託なのかも」",
+      "Pt-br": "Suponho que nem sempre eu posso estar certa. Entenderei isso como um sinal de que talvez eu deva conhecê-la melhor.\"",
+      "id": 21972,
+      "epk_id": "27114",
+      "label": "$$$message_0201_0047_0001$$$"
+    },
+    {
+      "en": "\"A pleasure to meet you, new student from the Orient.[lr]",
+      "jp": "「よろしく、東洋の新入生さん。[lr]",
+      "Pt-br": "\"É um prazer conhecê-la, nova aluna do Oriente.[lr]",
+      "id": 21973,
+      "epk_id": "27115",
+      "label": "$$$message_0201_0048_0000$$$"
+    },
+    {
+      "en": "My homeland happens to be Finland.\"",
+      "jp": "　[ruby text=ワタクシ]私の祖国はフィンランドです」",
+      "Pt-br": "Por acaso, a minha terra natal é a Finlândia.\"",
+      "id": 21974,
+      "epk_id": "27116",
+      "label": "$$$message_0201_0048_0001$$$"
+    },
+    {
+      "en": "\"It's just a stone's throw from here, compared to yours.[lr]",
+      "jp": "「貴女に比べれば目と鼻の先ね。[lr]",
+      "Pt-br": "\"Comparado ao seu país, fica logo ali.[lr]",
+      "id": 21975,
+      "epk_id": "27117",
+      "label": "$$$message_0201_0049_0000$$$"
+    },
+    {
+      "en": "Japan is at the far edge of the world, right? [cacheimage storage=ルヴィア01f(中)][wvl][chgfg time=300 storage=ルヴィア01f(中)]Did you come here all by yourself?\"",
+      "jp": "　日本というのは地の果てにあるのでしょう？[cacheimage storage=ルヴィア01f(中)][wvl][chgfg time=300 storage=ルヴィア01f(中)]　貴女、まさか一人でここまで？」",
+      "Pt-br": "O Japão fica no extremo limite do mundo, não é? [cacheimage storage=ルヴィア01f(中)][wvl][chgfg time=300 storage=ルヴィア01f(中)]Você veio para cá completamente sozinha?\"",
+      "id": 21976,
+      "epk_id": "27118",
+      "label": "$$$message_0201_0049_0001$$$"
+    },
+    {
+      "en": "\"My parents are deceased. I don't completely lack for next of kin, but I plan to enroll at the Clock Tower next year.[lr]",
+      "jp": "「両親は鬼籍に入っているわ。身よりがないってワケじゃないけど、来年からは時計塔に籍を置くの。[lr]",
+      "Pt-br": "\"Os meus pais são falecidos. Eu não careço completamente de parentes próximos, mas eu planejo me matricular na Torre do Relógio no ano que vem.[lr]",
+      "id": 21977,
+      "epk_id": "27119",
+      "label": "$$$message_0201_0050_0000$$$"
+    },
+    {
+      "en": "Is it unusual to see Asians in London?\"",
+      "jp": "　[ruby text=ロンドン char=3]時計塔で東洋系は珍しい？」",
+      "Pt-br": "É incomum ver asiáticos em Londres?\"",
+      "id": 21978,
+      "epk_id": "27120",
+      "label": "$$$message_0201_0050_0001$$$"
+    },
+    {
+      "en": "\"I hear there aren't many, but they're all renowned as first-rate mages.[lr]",
+      "jp": "「多くはないと聞きます。けれど、名を残している方達はみな一線級の魔術師だとか。[lr]",
+      "Pt-br": "\"Ouço dizer que não há muitos, mas todos eles são renomados como magos de primeira linha.[lr]",
+      "id": 21979,
+      "epk_id": "27121",
+      "label": "$$$message_0201_0051_0000$$$"
+    },
+    {
+      "en": "Proof enough that race is no handicap.\"",
+      "jp": "　人種によるハンデはないと見るべきでしょうね」",
+      "Pt-br": "Prova mais que suficiente de que raça nenhuma é obstáculo.\"",
+      "id": 21980,
+      "epk_id": "27122",
+      "label": "$$$message_0201_0051_0001$$$"
+    },
+    {
+      "en": "\"I'm glad to hear that.[lr]",
+      "jp": "「そう、良かった。[lr]",
+      "Pt-br": "\"Fico feliz em ouvir isso.[lr]",
+      "id": 21981,
+      "epk_id": "27123",
+      "label": "$$$message_0201_0052_0000$$$"
+    },
+    {
+      "en": "If I'm being honest, I feel a little lonely.\"",
+      "jp": "　ホント言うと、少しだけ心細かったの」",
+      "Pt-br": "Para ser honesta, me sinto um pouco solitária.\"",
+      "id": 21982,
+      "epk_id": "27124",
+      "label": "$$$message_0201_0052_0001$$$"
+    },
+    {
+      "en": "\"I'm only visiting for a month to get the lay of the land, but everyone I meet is a monster.\"",
+      "jp": "「こっちには一ヶ月だけ様子見に来ただけなんだけど、会う人会う人化け物揃いでしょ？」",
+      "Pt-br": "\"Eu só estou de visita por um mês para reconhecer o território, mas todos que eu encontro são um monstro.\"",
+      "id": 21983,
+      "epk_id": "27125",
+      "label": "$$$message_0201_0053_0000$$$"
+    },
+    {
+      "en": "\"Even a tengu's nose would break... Oh, sorry. You probably don't understand that idiom.\"",
+      "jp": "「天狗の鼻も折れる……って、こんなコト言ってもわからないか」",
+      "Pt-br": "\"Até o nariz de um tengu se quebraria... Ah, desculpe. Você provavelmente não entende essa expressão.\"",
+      "id": 21984,
+      "epk_id": "27126",
+      "label": "$$$message_0201_0054_0000$$$"
+    },
+    {
+      "en": "\"I do know what a tengu is, though. [wvs][wait canskip=0 time=400][lr]",
+      "jp": "「あら、テングなら知っていてよ？[wvs][wait canskip=0 time=400][lr]",
+      "Pt-br": "\"Eu sei o que é um tengu, no entanto. [wvs][wait canskip=0 time=400][lr]",
+      "id": 21985,
+      "epk_id": "27127",
+      "label": "$$$message_0201_0055_0000$$$"
+    },
+    {
+      "en": "It's a type of horned Japanese hermit, right?\"",
+      "jp": "　ニホンの仙人、独角でしょう？」",
+      "Pt-br": "É um tipo de eremita com chifres japonês, certo?\"",
+      "id": 21986,
+      "epk_id": "27128",
+      "label": "$$$message_0201_0055_0001$$$"
+    },
+    {
+      "en": "\"I would interpret that idiom to describe someone powerful feeling humbled before an even greater power... Is that correct?\"",
+      "jp": "「テングのハナが折れる、という格言は、強力な才能が更に大きな力を前にしてお辞儀をする……というコトだったかしら？」",
+      "Pt-br": "\"Eu interpretaria essa expressão para descrever alguém poderoso se sentindo humilhado perante a um poder ainda maior... Isso está correto?\"",
+      "id": 21987,
+      "epk_id": "27129",
+      "label": "$$$message_0201_0056_0000$$$"
+    },
+    {
+      "en": "\"Yeah. Your interpretation isn't wrong.[lr]",
+      "jp": "「そうね、意味合い的には間違ってないわ。[lr]",
+      "Pt-br": "\"Sim. A sua interpretação não está errada.[lr]",
+      "id": 21988,
+      "epk_id": "27130",
+      "label": "$$$message_0201_0057_0000$$$"
+    },
+    {
+      "en": "It means that I was confident in my hometown, but I've had to adjust my attitude since leaving home.\"",
+      "jp": "　故郷じゃ自信満々だったけど、外に出て覚悟を決め直したって感じ」",
+      "Pt-br": "Isso significa que eu era confiante na minha cidade natal, mas eu tive que ajustar a minha atitude desde que saí de casa.\"",
+      "id": 21989,
+      "epk_id": "27131",
+      "label": "$$$message_0201_0057_0001$$$"
+    },
+    {
+      "en": "\"You too?[lr]",
+      "jp": "「貴女も？[lr]",
+      "Pt-br": "\"Você também?[lr]",
+      "id": 21990,
+      "epk_id": "27132",
+      "label": "$$$message_0201_0058_0000$$$"
+    },
+    {
+      "en": "I've actually been feeling the same way.[lr]",
+      "jp": "　実は[ruby text=ワタクシ]私も同じことを考えていましたの。[lr]",
+      "Pt-br": "Na verdade, eu venho sentindo o mesmo.[lr]",
+      "id": 21991,
+      "epk_id": "27133",
+      "label": "$$$message_0201_0058_0001$$$"
+    },
+    {
+      "en": "...We really do see eye to eye.\"",
+      "jp": "　……本当に気が合うのね」",
+      "Pt-br": "...Nisso nós concordamos.\"",
+      "id": 21992,
+      "epk_id": "27134",
+      "label": "$$$message_0201_0058_0002$$$"
+    },
+    {
+      "en": "\"Hey, you're moving out here alone, right?[lr]",
+      "jp": "「ねえ、貴女も[ruby text=ひとり char=2]単身でこちらに留学するのでしょう？[lr]",
+      "Pt-br": "\"Ei, você vai se mudar para cá sozinha, certo?[lr]",
+      "id": 21993,
+      "epk_id": "27135",
+      "label": "$$$message_0201_0059_0000$$$"
+    },
+    {
+      "en": "In that case...\"",
+      "jp": "　でしたら[line len=3]」",
+      "Pt-br": "Nesse caso...\"",
+      "id": 21994,
+      "epk_id": "27136",
+      "label": "$$$message_0201_0059_0001$$$"
+    },
+    {
+      "en": "\"Thank you for waiting.[lr]",
+      "jp": "「失礼します。[lr]",
+      "Pt-br": "\"Obrigada por esperar.[lr]",
+      "id": 21995,
+      "epk_id": "27137",
+      "label": "$$$message_0201_0060_0000$$$"
+    },
+    {
+      "en": "Lady Luviagelita Edelfelt, might I have a moment?\"",
+      "jp": "　ルヴィアゼリッタ・エーデルフェルト様、少しよろしいでしょうか？」",
+      "Pt-br": "Lady Luviagelita Edelfelt, posso ter um momento?\"",
+      "id": 21996,
+      "epk_id": "27138",
+      "label": "$$$message_0201_0060_0001$$$"
+    },
+    {
+      "en": "\"...What terrible timing.[lr]",
+      "jp": "「……いいところで邪魔をして。[lr]",
+      "Pt-br": "\"...Que péssima hora.[lr]",
+      "id": 21997,
+      "epk_id": "27139",
+      "label": "$$$message_0201_0061_0000$$$"
+    },
+    {
+      "en": "Did I forget to fill something out?\"",
+      "jp": "　なに、書類に不備でもありましたの？」",
+      "Pt-br": "Eu me esqueci de preencher algo?\"",
+      "id": 21998,
+      "epk_id": "27140",
+      "label": "$$$message_0201_0061_0001$$$"
+    },
+    {
+      "en": "\"No, there was no problem with the documents...but circumstances have changed in the last seven days.\"",
+      "jp": "「いえ、書類に不備はございませんが……その、七日前とは事情が変わりまして」",
+      "Pt-br": "\"Não, não houve nenhum problema com os documentos... mas as circunstâncias mudaram nos últimos sete dias.\"",
+      "id": 21999,
+      "epk_id": "27141",
+      "label": "$$$message_0201_0062_0000$$$"
+    },
+    {
+      "en": "\"To be brief, we cannot honor your request.[lr]",
+      "jp": "「率直に言えば、貴女の希望は通りません。[lr]",
+      "Pt-br": "\"Para ser breve, não podemos honrar seu pedido.[lr]",
+      "id": 22000,
+      "epk_id": "27142",
+      "label": "$$$message_0201_0063_0000$$$"
+    },
+    {
+      "en": "You wrote that you wanted to use the entire top floor, but we just received an application to move in there...\"",
+      "jp": "　最上階を全て使用したい、との事でしたが、新たに一人、入室希望者がありまして……」",
+      "Pt-br": "Você escreveu que gostaria de usar o último andar inteiro, mas nós acabamos de receber uma aplicação para mudar para lá...\"",
+      "id": 22001,
+      "epk_id": "27143",
+      "label": "$$$message_0201_0063_0001$$$"
+    },
+    {
+      "en": "\"An application to move in?[lr]",
+      "jp": "「入室希望がある……？[lr]",
+      "Pt-br": "\"Uma aplicação para se mudar?[lr]",
+      "id": 22002,
+      "epk_id": "27144",
+      "label": "$$$message_0201_0064_0000$$$"
+    },
+    {
+      "en": "I thought it was well-known that the Edelfelts have claimed this dormitory.\"",
+      "jp": "　エーデルフェルトがこの寮を選んだ、という話はとうに知れ渡っているでしょう」",
+      "Pt-br": "Eu pensei que fosse bem conhecido que os Edelfelt haviam reivindicado este dormitório.\"",
+      "id": 22003,
+      "epk_id": "27145",
+      "label": "$$$message_0201_0064_0001$$$"
+    },
+    {
+      "en": "\"What backwater garden mage would come all this way to submit an application and ruin my day?\"",
+      "jp": "「いったいどこの田舎者が、わざわざ、この[ruby text=ワタクシ]私の機嫌を損ねる為に入居希望を出したというのです？」",
+      "Pt-br": "\"Que maga jardineira ignorante percorreria todo esse caminho para submeter uma aplicação e arruinar o meu dia?\"",
+      "id": 22004,
+      "epk_id": "27146",
+      "label": "$$$message_0201_0065_0000$$$"
+    },
+    {
+      "en": "\"Um... That young lady there.[lr]",
+      "jp": "「その……そちらのお嬢様です。[lr]",
+      "Pt-br": "\"Um... Aquela jovem senhorita ali.[lr]",
+      "id": 22005,
+      "epk_id": "27147",
+      "label": "$$$message_0201_0066_0000$$$"
+    },
+    {
+      "en": "She's been admitted on a Lord's recommendation half a year ago, and the Edelfelts' authority can't overrule that.\"",
+      "jp": "　推薦もロードの方から半年前にいただいておりますので、エーデルフェルト家の権限では[ruby text=キャンセル char=2]消去できないかと」",
+      "Pt-br": "Ela foi admitida por recomendação de um Lorde há meio ano atrás, e a autoridade dos Edelfelts não pode anular isso.\"",
+      "id": 22006,
+      "epk_id": "27148",
+      "label": "$$$message_0201_0066_0001$$$"
+    },
+    {
+      "en": "\"...[cacheimage storage=ルヴィア01e(中)][wvl canskip=0 time=800][chgfg time=300 storage=ルヴィア01e(中)]Very well.[lr]",
+      "jp": "「…………[cacheimage storage=ルヴィア01e(中)][wvl canskip=0 time=800][chgfg time=300 storage=ルヴィア01e(中)]いいでしょう。[lr]",
+      "Pt-br": "\"...[cacheimage storage=ルヴィア01e(中)][wvl canskip=0 time=800][chgfg time=300 storage=ルヴィア01e(中)]Muito bem.[lr]",
+      "id": 22007,
+      "epk_id": "27149",
+      "label": "$$$message_0201_0067_0000$$$"
+    },
+    {
+      "en": "While I cannot overlook this insult to my house, I won't dismiss the idea of a roommate.\"",
+      "jp": "　我が家紋が劣る、というのは聞き捨てなりませんが、相部屋が彼女でしたら考えない事もありません」",
+      "Pt-br": "Embora eu não possa tolerar esse insulto a minha família, não descartarei a ideia de ter uma colega de quarto.\"",
+      "id": 22008,
+      "epk_id": "27150",
+      "label": "$$$message_0201_0067_0001$$$"
+    },
+    {
+      "en": "\"Um...you wouldn't need to share a room. She would only be using one of the 28 rooms that you reserved...\"",
+      "jp": "「あのー……相部屋ではなくですね、ルヴィアゼリッタ様が契約した二十八部屋のうち、一部屋だけ彼女が使うだけでして[line len=3]」",
+      "Pt-br": "\"Hm... vocês não precisariam compartilhar o quarto. Ela só estaria utilizando um dos 28 quartos que você reservou...\"",
+      "id": 22009,
+      "epk_id": "27151",
+      "label": "$$$message_0201_0068_0000$$$"
+    },
+    {
+      "en": "\"Yes? Isn't that what a roommate is?\"",
+      "jp": "「？　ですから、それを相部屋というのでしょう？」",
+      "Pt-br": "\"Sim? Não é isso que uma colega de quarto é?\"",
+      "id": 22010,
+      "epk_id": "27152",
+      "label": "$$$message_0201_0069_0000$$$"
+    },
+    {
+      "en": "\"When two people share a common living space, what else are they but roommates?[lr]",
+      "jp": "「一つの[ruby text=フロア char=2]空間に二人の人間が住むのですから、それを相部屋と言わず何と言うのです。[lr]",
+      "Pt-br": "\"Quando duas pessoas compartilham um espaço de vida em comum, o que mais elas são além de colegas de quarto?[lr]",
+      "id": 22011,
+      "epk_id": "27153",
+      "label": "$$$message_0201_0070_0000$$$"
+    },
+    {
+      "en": "She isn't my personal servant.\"",
+      "jp": "　彼女は[ruby text=ワタクシ]私付きの使用人ではないのですよ？」",
+      "Pt-br": "Ela não é minha serva pessoal.\"",
+      "id": 22012,
+      "epk_id": "27154",
+      "label": "$$$message_0201_0070_0001$$$"
+    },
+    {
+      "en": "\"Ah... Haha, ha...\"",
+      "jp": "「あ……はは、は……」",
+      "Pt-br": "\"Ah... Haha, ha...\"",
+      "id": 22013,
+      "epk_id": "27155",
+      "label": "$$$message_0201_0071_0000$$$"
+    },
+    {
+      "en": "\"...Well, it can't be helped.[lr]",
+      "jp": "「……まあ、それも致し方ありません。[lr]",
+      "Pt-br": "\"...Bem, não se pode evitar.[lr]",
+      "id": 22014,
+      "epk_id": "27156",
+      "label": "$$$message_0201_0072_0000$$$"
+    },
+    {
+      "en": "I would normally never allow it, but fortunately I've gained a chance to deepen our friendship.\"",
+      "jp": "　本来なら許されない事ですが、幸いにも[ruby text=ワタクシ]私たちはこうして親交を深める機会を得ました」",
+      "Pt-br": "Normalmente eu nunca permitiria isso, mas felizmente eu ganhei a chance de aprofundar a nossa amizade.\"",
+      "id": 22015,
+      "epk_id": "27157",
+      "label": "$$$message_0201_0072_0001$$$"
+    },
+    {
+      "en": "\"So? Not a bad proposition is it, being my roommate?\"",
+      "jp": "「どう？　[ruby text=ワタクシ]私、貴女となら相部屋も悪くはないと思うのですけど？」",
+      "Pt-br": "\"Então? Não é uma proposta nada ruim, ser a minha colega de quarto?\"",
+      "id": 22016,
+      "epk_id": "27158",
+      "label": "$$$message_0201_0073_0000$$$"
+    },
+    {
+      "en": "\"Not at all... I don't have a problem with it... You must be quite wealthy.\"",
+      "jp": "「どうも何も……わたしはなんの文句もないって言うか……随分とお金持ちなのね、貴女」",
+      "Pt-br": "\"De jeito nenhum... Eu não tenho problemas com isso... Você deve ser bem rica.\"",
+      "id": 22017,
+      "epk_id": "27159",
+      "label": "$$$message_0201_0074_0000$$$"
+    },
+    {
+      "en": "\"Of course.[lr]",
+      "jp": "「決まりですわね。[lr]",
+      "Pt-br": "\"Claro.[lr]",
+      "id": 22018,
+      "epk_id": "27160",
+      "label": "$$$message_0201_0075_0000$$$"
+    },
+    {
+      "en": "You there. Mark us down as roommates... [cacheimage storage=ルヴィア03b(中)][wvl][chgfg time=300 storage=ルヴィア03b(中)]Ah, we haven't introduced ourselves yet.\"",
+      "jp": "　貴女。[ruby text=ワタクシ]私と彼女を相部屋に……[cacheimage storage=ルヴィア03b(中)][wvl][chgfg time=300 storage=ルヴィア03b(中)]ああ、そういえば自己紹介がまだでした」",
+      "Pt-br": "Você aí. Nos marque como colegas de quarto... [cacheimage storage=ルヴィア03b(中)][wvl][chgfg time=300 storage=ルヴィア03b(中)]Ah, ainda não nos apresentamos.\"",
+      "id": 22019,
+      "epk_id": "27161",
+      "label": "$$$message_0201_0075_0001$$$"
+    },
+    {
+      "en": "\"I am Luviagelita Edelfelt. And you are?\"",
+      "jp": "「[ruby text=ワタクシ]私はルヴィアゼリッタ・エーデルフェルト。貴女は？」",
+      "Pt-br": "\"Eu sou Luviagelita Edelfelt. E você é?\"",
+      "id": 22020,
+      "epk_id": "27162",
+      "label": "$$$message_0201_0076_0000$$$"
+    },
+    {
+      "en": "\"Rin Tohsaka, from Japan. I'll be joining the Mineralogy department.\"",
+      "jp": "「遠坂凛。日本から来た鉱石学科の魔術師よ」",
+      "Pt-br": "\"Tohsaka Rin, do Japão. Eu me juntarei ao departamento de Mineralogia.\"",
+      "id": 22021,
+      "epk_id": "27163",
+      "label": "$$$message_0201_0077_0000$$$"
+    },
+    {
+      "en": "\"Tohsaka...?[lr]",
+      "jp": "「……トオサカ……？[lr]",
+      "Pt-br": "\"Tohsaka...?[lr]",
+      "id": 22022,
+      "epk_id": "27164",
+      "label": "$$$message_0201_0078_0000$$$"
+    },
+    {
+      "en": "Wait, if I recall, that sounds like...\"",
+      "jp": "　待ちなさい、その響きは、確か[line len=3]」",
+      "Pt-br": "Espere, se bem me lembro, isso parece com...\"",
+      "id": 22023,
+      "epk_id": "27165",
+      "label": "$$$message_0201_0078_0001$$$"
+    },
+    {
+      "en": "\"Miss Tohsaka, please sign here.\"",
+      "jp": "「ではミス・トオサカ、書類にサインを」",
+      "Pt-br": "\"Senhorita Tohsaka, por favor assine aqui.\"",
+      "id": 22024,
+      "epk_id": "27166",
+      "label": "$$$message_0201_0079_0000$$$"
+    },
+    {
+      "en": "\"!? W-wait, [cacheimage storage=ルヴィア01f(中)][wvl][movefg textoff=0 opacity=0 left=594 top=45 time=300 accel=3 storage=ルヴィア01f(中)]let me see that contract!\"[se storage=se521.wav]",
+      "jp": "「！？　ま、待ちなさい、[cacheimage storage=ルヴィア01f(中)][wvl][movefg textoff=0 opacity=0 left=594 top=45 time=300 accel=3 storage=ルヴィア01f(中)]その契約書……！」[se storage=se521.wav]",
+      "Pt-br": "\"!? E-espere, [cacheimage storage=ルヴィア01f(中)][wvl][movefg textoff=0 opacity=0 left=594 top=45 time=300 accel=3 storage=ルヴィア01f(中)]me deixe ver esse contrato!\"[se storage=se521.wav]",
+      "id": 22025,
+      "epk_id": "27167",
+      "label": "$$$message_0201_0080_0000$$$"
+    },
+    {
+      "en": "\"Whoa, what are you doing? That's my...!\"",
+      "jp": "「ちょっ、なにするのよ、それわたしの……！」",
+      "Pt-br": "\"Opa, o que você está fazendo? Essa é a minha...!\"",
+      "id": 22026,
+      "epk_id": "27168",
+      "label": "$$$message_0201_0081_0000$$$"
+    },
+    {
+      "en": "\"Tohsaka... Japan... Fuyuki... Rin Tohsaka...[cacheimage storage=凛私服03f(中),11爆発,ルヴィア01h(近),iイギリス女子寮][wvl][wm canskip=0][wm canskip=0][stoplquake layer=all][se volume=80 storage=se160.wav][rep rule=走る感じ(下から) fliplr=0 tops=,0, storages=凛私服03f(中),11爆発,ルヴィア01h(近) time=200 flipud=0 opacities=,200, lefts=,0, poss=l,,rc bg=iイギリス女子寮 indexes=1000,2000,3000][quake vmax=30 hmax=10 time=1200] T-Tohsaka!?\"[skip_next_tag][br]",
+      "jp": "「トオサカ……ニホン……フユキ……トオサカリン……[cacheimage storage=凛私服03f(中),11爆発,ルヴィア01h(近),iイギリス女子寮][wvl][wm canskip=0][wm canskip=0][stoplquake layer=all][se volume=80 storage=se160.wav][rep rule=走る感じ(下から) fliplr=0 tops=,0, storages=凛私服03f(中),11爆発,ルヴィア01h(近) time=200 flipud=0 opacities=,200, lefts=,0, poss=l,,rc bg=iイギリス女子寮 indexes=1000,2000,3000][quake vmax=30 hmax=10 time=1200][br]　ト、トオサカですって[line len=3]！？」",
+      "Pt-br": "\"Tohsaka... Japão... Fuyuki... Tohsaka Rin...[cacheimage storage=凛私服03f(中),11爆発,ルヴィア01h(近),iイギリス女子寮][wvl][wm canskip=0][wm canskip=0][stoplquake layer=all][se volume=80 storage=se160.wav][rep rule=走る感じ(下から) fliplr=0 tops=,0, storages=凛私服03f(中),11爆発,ルヴィア01h(近) time=200 flipud=0 opacities=,200, lefts=,0, poss=l,,rc bg=iイギリス女子寮 indexes=1000,2000,3000][quake vmax=30 hmax=10 time=1200] T-Tohsaka!?\"[skip_next_tag][br]",
+      "id": 22027,
+      "epk_id": "27169",
+      "label": "$$$message_0201_0082_0000$$$"
+    },
+    {
+      "en": "\"Hey...seriously, what's wrong?[lr]",
+      "jp": "「ちょ……ホントにどうしたのよ一体。[lr]",
+      "Pt-br": "\"Ei... sério, o que há de errado?[lr]",
+      "id": 22028,
+      "epk_id": "27170",
+      "label": "$$$message_0201_0083_0000$$$"
+    },
+    {
+      "en": "I've been thinking you don't have much common sense, but why are you[line len=2]\"",
+      "jp": "　そりゃさっきからちょいぶっ飛んだ子だなって思ってたけど、何もそこまで[line len=3]」",
+      "Pt-br": "Eu venho pensando que você não tem muito bom senso, mas por que você[line len=2]\"",
+      "id": 22029,
+      "epk_id": "27171",
+      "label": "$$$message_0201_0083_0001$$$"
+    },
+    {
+      "en": "\"Silence![lr]",
+      "jp": "「お黙りなさいっ！[lr]",
+      "Pt-br": "\"Silêncio![lr]",
+      "id": 22030,
+      "epk_id": "27172",
+      "label": "$$$message_0201_0084_0000$$$"
+    },
+    {
+      "en": "H-h-h-h-how dare you try such a dastardly plot!\"",
+      "jp": "　よ、よよよよくも謀ってくれましたわね！」",
+      "Pt-br": "C-c-c-c-como se atreve a tentar uma trama tão covarde!\"",
+      "id": 22031,
+      "epk_id": "27173",
+      "label": "$$$message_0201_0084_0001$$$"
+    },
+    {
+      "en": "\"To think that you were the daughter of those cowardly, cowardly, cowardly Tohsakas who used a so-called Holy Grail to lure mages to your land and betrayed them all...!\"",
+      "jp": "「まさか貴女があのトオサカ[line len=3]聖杯などというデマをエサに、魔術師を呼びよせては騙し討ちにする卑怯かつ卑劣かつ卑小なトオサカの娘だなんて……！」",
+      "Pt-br": "\"Pensar que você era a filha daqueles covardes, covardes, covardes Tohsaka que usaram um suposto Santo Graal para atrair magos para as suas terras e depois traiu a todos eles...!\"",
+      "id": 22032,
+      "epk_id": "27174",
+      "label": "$$$message_0201_0085_0000$$$"
+    },
+    {
+      "en": "\"Hold on, what did you just say?[lr]",
+      "jp": "「ちょっと、アンタいまなんて言った？[lr]",
+      "Pt-br": "\"Espera aí, o que você acabou de dizer?[lr]",
+      "id": 22033,
+      "epk_id": "27175",
+      "label": "$$$message_0201_0086_0000$$$"
+    },
+    {
+      "en": "Do you know about the Fuyuki Holy Grail War?\"",
+      "jp": "　もしかして冬木の聖杯戦争を知ってるの？」",
+      "Pt-br": "Você sabe sobre a Guerra do Santo Graal de Fuyuki?\"",
+      "id": 22034,
+      "epk_id": "27176",
+      "label": "$$$message_0201_0086_0001$$$"
+    },
+    {
+      "en": "\"Oh yes, I know about Fuyuki, all right.[lr]",
+      "jp": "「ええ、フユキの事はよく知っているわ。[lr]",
+      "Pt-br": "\"Ah sim, eu sei sobre Fuyuki, muito bem.[lr]",
+      "id": 22035,
+      "epk_id": "27177",
+      "label": "$$$message_0201_0087_0000$$$"
+    },
+    {
+      "en": "I've looked into the caliber of Japanese mages, including your ancestors.\"",
+      "jp": "　貴女の先祖の事も、ニホンの魔術師のレベルも調べ上げていてよ」",
+      "Pt-br": "Eu já dei uma olhada no calibre dos magos japoneses, incluindo os seus ancestrais.\"",
+      "id": 22036,
+      "epk_id": "27178",
+      "label": "$$$message_0201_0087_0001$$$"
+    },
+    {
+      "en": "\"And I was utterly disappointed.[lr]",
+      "jp": "「結果は最悪。[lr]",
+      "Pt-br": "\"E eu fiquei totalmente desapontada.[lr]",
+      "id": 22037,
+      "epk_id": "27179",
+      "label": "$$$message_0201_0088_0000$$$"
+    },
+    {
+      "en": "Occasionally, you produce a rare specimen, but otherwise you're an inferior race, unworthy to study Mystics.\"",
+      "jp": "　たまに希少種が現れるようだけど、それ以外は神秘を学ぶには足りない劣等人種でしたわ」",
+      "Pt-br": "Ocasionalmente, vocês produzem um espécime raro, mas no mais vocês são uma raça inferior, indigna de estudar a Mística.\"",
+      "id": 22038,
+      "epk_id": "27180",
+      "label": "$$$message_0201_0088_0001$$$"
+    },
+    {
+      "en": "\"What?[lr]",
+      "jp": "「[line len=3]なんですって？[lr]",
+      "Pt-br": "\"O quê?[lr]",
+      "id": 22039,
+      "epk_id": "27181",
+      "label": "$$$message_0201_0089_0000$$$"
+    },
+    {
+      "en": "I don't care what aristocrat you are, but I can't let that slide.\"",
+      "jp": "　どこのお貴族さまか知らないけど、今のは聞き捨てならないわね」",
+      "Pt-br": "Eu não me importo com qual aristocrata você seja, mas não posso deixar isso passar.\"",
+      "id": 22040,
+      "epk_id": "27182",
+      "label": "$$$message_0201_0089_0001$$$"
+    },
+    {
+      "en": "\"Nor should you.[lr]",
+      "jp": "「聞き捨てさせるつもりなどありません。[lr]",
+      "Pt-br": "\"E nem devia.[lr]",
+      "id": 22041,
+      "epk_id": "27183",
+      "label": "$$$message_0201_0090_0000$$$"
+    },
+    {
+      "en": "Know this[line len=2]there isn't a drop of noble blood in your veins.\"",
+      "jp": "　いいこと、貴女たちには貴い血など一滴たりとも流れてはいないのです」",
+      "Pt-br": "Saiba disso[line len=2]não existe uma gota sequer de sangue nobre nas suas veias.\"",
+      "id": 22042,
+      "epk_id": "27184",
+      "label": "$$$message_0201_0090_0001$$$"
+    },
+    {
+      "en": "\"I don't know what folly led to your clan learning magecraft, but you need to learn your place.\"",
+      "jp": "「なんの間違いで魔術を学び始めたか知りませんが、身の程を[ruby text=わきま]弁えなさい」",
+      "Pt-br": "\"Não sei que tolice levou ao seu clã aprender magia, mas você precisa aprender o seu lugar.\"",
+      "id": 22043,
+      "epk_id": "27185",
+      "label": "$$$message_0201_0091_0000$$$"
+    },
+    {
+      "en": "\"You there. Cancel what I said.[lr]",
+      "jp": "「そこの貴女。今の話はなしです。[lr]",
+      "Pt-br": "\"Você aí. Cancele o que eu disse.[lr]",
+      "id": 22044,
+      "epk_id": "27186",
+      "label": "$$$message_0201_0092_0000$$$"
+    },
+    {
+      "en": "There is no place for her on my floor.\"",
+      "jp": "　この女の部屋は[ruby text=ワタクシ]私の最上階にはありません」",
+      "Pt-br": "Não há lugar para ela no meu andar.\"",
+      "id": 22045,
+      "epk_id": "27187",
+      "label": "$$$message_0201_0092_0001$$$"
+    },
+    {
+      "en": "\"You hear me?[lr]",
+      "jp": "「いいこと？[lr]",
+      "Pt-br": "\"Está me ouvindo?[lr]",
+      "id": 22046,
+      "epk_id": "27188",
+      "label": "$$$message_0201_0093_0000$$$"
+    },
+    {
+      "en": "In the name of the Edelfelts, I declare this document...\"",
+      "jp": "　こんな書類、我がエーデルフェルトの名の下に[line len=3]」",
+      "Pt-br": "Em nome dos Edelfelts, declaro este documento...\"",
+      "id": 22047,
+      "epk_id": "27189",
+      "label": "$$$message_0201_0093_0001$$$"
+    },
+    {
+      "en": "\"Ah. Eh. Huh?\"",
+      "jp": "「あ。え。へ？」",
+      "Pt-br": "\"Ah. Eh. Hã?\"",
+      "id": 22048,
+      "epk_id": "27190",
+      "label": "$$$message_0201_0094_0000$$$"
+    },
+    {
+      "en": "\"...utter [wvl][se storage=se672.wav]rubbish!\"",
+      "jp": "「こうしてゴミにして[wvl][se storage=se672.wav]さしあげますわ！」",
+      "Pt-br": "\"...completamente [wvl][se storage=se672.wav]imprestável!\"",
+      "id": 22049,
+      "epk_id": "27191",
+      "label": "$$$message_0201_0095_0000$$$"
+    },
+    {
+      "en": "\"Eek! Lady Edelfelt, what are you doing!?[wvs][se storage=se672.wav][lr]",
+      "jp": "「ひ、エーデルフェルト様なにをなさるですか！？[wvs][se storage=se672.wav][lr]",
+      "Pt-br": "\"Eek! Lady Edelfelt, o que você está fazendo!?[wvs][se storage=se672.wav][lr]",
+      "id": 22050,
+      "epk_id": "27192",
+      "label": "$$$message_0201_0096_0000$$$"
+    },
+    {
+      "en": "No one has ever destroyed a recommendation letter from a Lord in this dormitory's history!\"",
+      "jp": "　ロードの推薦文を破るなんて、我が寮始まって以来の出来事ですぅーーー！」",
+      "Pt-br": "Ninguém jamais destruiu uma carta de recomendação de um Lorde na história deste dormitório!\"",
+      "id": 22051,
+      "epk_id": "27193",
+      "label": "$$$message_0201_0096_0001$$$"
+    },
+    {
+      "en": "\"...(shock)\"",
+      "jp": "「[line len=6]（ぽかーん）」",
+      "Pt-br": "\"...(em choque)\"",
+      "id": 22052,
+      "epk_id": "27194",
+      "label": "$$$message_0201_0097_0000$$$"
+    },
+    {
+      "en": "\"Ohohohoho![lr]",
+      "jp": "「ほほほほほ！[lr]",
+      "Pt-br": "\"Ohohohoho![lr]",
+      "id": 22053,
+      "epk_id": "27195",
+      "label": "$$$message_0201_0098_0000$$$"
+    },
+    {
+      "en": "What do you have to say now, self-declared mage!?\"",
+      "jp": "　ぐうの音も出ないようね辺境の自称魔術師さん！」",
+      "Pt-br": "O que você tem a dizer agora, auto-declarada maga!?\"",
+      "id": 22054,
+      "epk_id": "27196",
+      "label": "$$$message_0201_0098_0001$$$"
+    },
+    {
+      "en": "\"You aren't worthy of this place! [cacheimage storage=ルヴィア01i(中)][wvl canskip=0 time=300][chgfg time=300 storage=ルヴィア01i(中)]Why don't you go back to your dirty, tiny island?\"",
+      "jp": "「ここは貴方のガラではなくてよ、[cacheimage storage=ルヴィア01i(中)][wvl canskip=0 time=300][chgfg time=300 storage=ルヴィア01i(中)]さっさと汚くて狭苦しい島国にお帰りになられたら？」",
+      "Pt-br": "\"Você não é digna deste lugar! [cacheimage storage=ルヴィア01i(中)][wvl canskip=0 time=300][chgfg time=300 storage=ルヴィア01i(中)]Por que não volta para a sua ilhazinha minúscula e suja?\"",
+      "id": 22055,
+      "epk_id": "27197",
+      "label": "$$$message_0201_0099_0000$$$"
+    },
+    {
+      "en": "\"Y-you anachronistic ringlets![lr]",
+      "jp": "「こ、この時代錯誤縦巻ロール……！[lr]",
+      "Pt-br": "\"S-sua garota de cachos anacrônicos![lr]",
+      "id": 22056,
+      "epk_id": "27198",
+      "label": "$$$message_0201_0100_0000$$$"
+    },
+    {
+      "en": "Did I mishear you when you claimed you weren't a racist!?\"",
+      "jp": "　なに、人種差別はしないとか言ってたの、わたしの空耳だったのかしらねぇ……！？」",
+      "Pt-br": "Eu ouvi mal quando você afirmou que não era racista!?\"",
+      "id": 22057,
+      "epk_id": "27199",
+      "label": "$$$message_0201_0100_0001$$$"
+    },
+    {
+      "en": "\"Hmph! You may be Oriental, but Japanese people are a different story.\"",
+      "jp": "「ふん、東洋人でも日本人だけは別でしてよ」",
+      "Pt-br": "\"Hmph! Você pode ser Oriental, mas o povo japonês é uma história diferente.\"",
+      "id": 22058,
+      "epk_id": "27200",
+      "label": "$$$message_0201_0101_0000$$$"
+    },
+    {
+      "en": "\"This whole time, you've looked so lonely, like an abandoned field mouse. I simply took [font italic=true]pity[font italic=false] on you.\"",
+      "jp": "「先ほどは貴女があまりにも、[ruby text=・・・ o2o=1]一人で、[ruby text=・・・・・・・・・・・・・ o2o=1]捨てられた野ネズミのように、[ruby text=・・・・・・・ o2o=1]さも寂しそうに見えたので、情けをかけてあげただけですわ」",
+      "Pt-br": "\"Você passou esse tempo todo parecendo tão solitária, feito um ratinho do campo abandonado. Eu só senti [font italic=true]pena[font italic=false] de você.\"",
+      "id": 22059,
+      "epk_id": "27201",
+      "label": "$$$message_0201_0102_0000$$$"
+    },
+    {
+      "en": "\"But that ends here.[lr]",
+      "jp": "「ですがそれもここまで。[lr]",
+      "Pt-br": "\"Mas isso termina aqui.[lr]",
+      "id": 22060,
+      "epk_id": "27202",
+      "label": "$$$message_0201_0103_0000$$$"
+    },
+    {
+      "en": "Now that I know you're the spawn of those inhuman Tohsakas, all you'll get from me is boiling water and Gandr.\"",
+      "jp": "　貴女があのトオサカ特産の非人間と判った今、かけるのは熱湯とガンドだけでしてよ？」",
+      "Pt-br": "Agora que sei que é a cria daqueles Tohsaka desumanos, tudo o que você receberá de mim será água fervendo e Gandr.\"",
+      "id": 22061,
+      "epk_id": "27203",
+      "label": "$$$message_0201_0103_0001$$$"
+    },
+    {
+      "en": "\"...That's quite the mouth on you, but it helped me remember who you are.\"",
+      "jp": "「……言ってくれるじゃない。おかげでわたしも思い出したわ」",
+      "Pt-br": "\"...Você tem uma boca e tanto, mas isso me ajudou a lembrar quem você é.\"",
+      "id": 22062,
+      "epk_id": "27204",
+      "label": "$$$message_0201_0104_0000$$$"
+    },
+    {
+      "en": "\"Edelfelt.[lr]",
+      "jp": "「エーデルフェルト。[lr]",
+      "Pt-br": "\"Edelfelt.[lr]",
+      "id": 22063,
+      "epk_id": "27205",
+      "label": "$$$message_0201_0105_0000$$$"
+    },
+    {
+      "en": "Right, it sounded familiar. Those Edelfelts.\"",
+      "jp": "　そう、どこかで聞いた響きだと思ったら、あのエーデルフェルトね」",
+      "Pt-br": "Certo, isso soou familiar. Aqueles Edelfelts.\"",
+      "id": 22064,
+      "epk_id": "27206",
+      "label": "$$$message_0201_0105_0001$$$"
+    },
+    {
+      "en": "\"The Edelfelts from the third war. Those idiotic nobles who dropped out early after infighting, was it?\"",
+      "jp": "「第三回目のエーデルフェルト。仲間割れで早々に退散したバカ貴族でしたっけ？」",
+      "Pt-br": "\"Os Edelfelts da terceira guerra. Aqueles nobres idiotas que desistiram cedo devido às lutas internas, foi isso?\"",
+      "id": 22065,
+      "epk_id": "27207",
+      "label": "$$$message_0201_0106_0000$$$"
+    },
+    {
+      "en": "\"Given how personally you're taking this, they must have taught their kids to hate and fear the scary Tohsakas.\"",
+      "jp": "「その私怨ぶりからすると、逃げ出した後にトオサカ怖い、トオサカ憎いって子供たちに伝えていたってコトかしら？」",
+      "Pt-br": "\"Considerando o quão para o lado pessoal você está levando isso, eles devem ter ensinado seus filhos a odiar e temer os assustadores Tohsaka.\"",
+      "id": 22066,
+      "epk_id": "27208",
+      "label": "$$$message_0201_0107_0000$$$"
+    },
+    {
+      "en": "\"Rrgh...![lr]",
+      "jp": "「っ……！[lr]",
+      "Pt-br": "\"Rrgh...![lr]",
+      "id": 22067,
+      "epk_id": "27209",
+      "label": "$$$message_0201_0108_0000$$$"
+    },
+    {
+      "en": "It seems your only skill is telling terrible jokes.[lr]",
+      "jp": "　笑えない冗談だけは達者のようね。[lr]",
+      "Pt-br": "Parece que a sua única habilidade é contar piadas terríveis.[lr]",
+      "id": 22068,
+      "epk_id": "27210",
+      "label": "$$$message_0201_0108_0001$$$"
+    },
+    {
+      "en": "There's no taking back what you just said.\"",
+      "jp": "　今の発言、もう取り消せませんわよ？」",
+      "Pt-br": "Não há volta para o que você acabou de dizer.\"",
+      "id": 22069,
+      "epk_id": "27211",
+      "label": "$$$message_0201_0108_0002$$$"
+    },
+    {
+      "en": "\"That's my line.[lr]",
+      "jp": "「こっちの台詞よ。[lr]",
+      "Pt-br": "\"Essa é a minha fala.[lr]",
+      "id": 22070,
+      "epk_id": "27212",
+      "label": "$$$message_0201_0109_0000$$$"
+    },
+    {
+      "en": "I won't forgive you even if you get on your knees and beg, you pure, innocent rich girl.\"",
+      "jp": "　土下座くらいじゃカンベンしないわよ、純粋培養のお嬢様？」",
+      "Pt-br": "Não vou perdoar você nem que fique de joelhos e implore, sua garota rica pura e inocente.\"",
+      "id": 22071,
+      "epk_id": "27213",
+      "label": "$$$message_0201_0109_0001$$$"
+    },
+    {
+      "en": "\"...You've lit a fire in me.[lr]",
+      "jp": "「[line len=3]燃えましたわ。[lr]",
+      "Pt-br": "\"...Você acendeu um fogo dentro de mim.[lr]",
+      "id": 22072,
+      "epk_id": "27214",
+      "label": "$$$message_0201_0110_0000$$$"
+    },
+    {
+      "en": "It can't be extinguished.[lr]",
+      "jp": "　もう消火できませんわ。[lr]",
+      "Pt-br": "Ele não pode ser extinto.[lr]",
+      "id": 22073,
+      "epk_id": "27215",
+      "label": "$$$message_0201_0110_0001$$$"
+    },
+    {
+      "en": "Do you have the mettle to take up the glove!?\"",
+      "jp": "　貴女！　手袋を受け取る度胸はあって！？」",
+      "Pt-br": "Você tem a coragem de aceitar a luva!?\"",
+      "id": 22074,
+      "epk_id": "27216",
+      "label": "$$$message_0201_0110_0002$$$"
+    },
+    {
+      "en": "\"Bring it on. I'll take that tacky dress while we're at it.\"",
+      "jp": "「上等。貰えるならその趣味の悪いドレスまるごと貰ってあげるわ」",
+      "Pt-br": "\"Manda ver. Eu vou arrancar esse vestido cafona de você enquanto estou nisso.\"",
+      "id": 22075,
+      "epk_id": "27217",
+      "label": "$$$message_0201_0111_0000$$$"
+    },
+    {
+      "en": "\"Well said.[lr]",
+      "jp": "「[line len=3]その意気や良し。[lr]",
+      "Pt-br": "\"Bem dito.[lr]",
+      "id": 22076,
+      "epk_id": "27218",
+      "label": "$$$message_0201_0112_0000$$$"
+    },
+    {
+      "en": "We have one room and two residents.[lr]",
+      "jp": "　部屋は一つ、住人は二人。[lr]",
+      "Pt-br": "Temos um quarto e duas residentes.[lr]",
+      "id": 22077,
+      "epk_id": "27219",
+      "label": "$$$message_0201_0112_0001$$$"
+    },
+    {
+      "en": "There's only one thing left to do now.\"",
+      "jp": "　もはや取るべき手段は一つだけですわね？」",
+      "Pt-br": "Só há uma coisa a se fazer agora.\"",
+      "id": 22078,
+      "epk_id": "27220",
+      "label": "$$$message_0201_0112_0002$$$"
+    },
+    {
+      "en": "\"Yeah. The loser gives way to the winner.[lr]",
+      "jp": "「ええ。敗者は勝者に道を譲る。[lr]",
+      "Pt-br": "\"Sim. O perdedor cede o lugar ao vencedor.[lr]",
+      "id": 22079,
+      "epk_id": "27221",
+      "label": "$$$message_0201_0113_0000$$$"
+    },
+    {
+      "en": "That's a universal rule in every country.\"",
+      "jp": "　万国共通、あったりまえのルールよね」",
+      "Pt-br": "Essa é uma regra universal em todo país.\"",
+      "id": 22080,
+      "epk_id": "27222",
+      "label": "$$$message_0201_0113_0001$$$"
+    },
+    {
+      "en": "\"D-d-d-d-don't burn this place down!!![lr]",
+      "jp": "「かかかかってに燃え上がらないでーー！[lr]",
+      "Pt-br": "\"N-n-n-n-não queimem este lugar!!![lr]",
+      "id": 22081,
+      "epk_id": "27223",
+      "label": "$$$message_0201_0114_0000$$$"
+    },
+    {
+      "en": "Not in here! It's absolutely not allowed!\"",
+      "jp": "　マイルール禁止！　すごく禁止！」",
+      "Pt-br": "Não aqui! É estritamente proibido!\"",
+      "id": 22082,
+      "epk_id": "27224",
+      "label": "$$$message_0201_0114_0001$$$"
+    },
+    {
+      "en": "\"What are you two thinking!? This is the Norwich Dormitory, a place of peace and propriety! Magecraft activities are forbidden, to say nothing of personal duels!\"",
+      "jp": "「何を考えているですか貴女たちは、ここは礼節と和睦を重んじるノーリッジ学生寮ですよ！？　寮内では私闘はおろか、魔術行為は一切禁止ですのーーーー！」",
+      "Pt-br": "\"O que vocês duas estão pensando!? Este é o Dormitório Norwich, um lugar de paz e decoro! Atividades mágicas são proibidas, sem falar em duelos pessoais!\"",
+      "id": 22083,
+      "epk_id": "27225",
+      "label": "$$$message_0201_0115_0000$$$"
+    },
+    {
+      "en": "\"Relax. I'm the proud matriarch of the Edelfelts.\"",
+      "jp": "「安心なさい、[ruby text=ワタクシ]私は誇り高きエーデルフェルト家の当主です」",
+      "Pt-br": "\"Relaxe. Eu sou a orgulhosa matriarca dos Edelfelts.\"",
+      "id": 22084,
+      "epk_id": "27226",
+      "label": "$$$message_0201_0116_0000$$$"
+    },
+    {
+      "en": "\"No matter who I face, I can deal with them with flesh alone. No need for magecraft.[lr]",
+      "jp": "「相手が何者であろうとも、魔術を使わぬのならこちらも肉体のみで応えます。[lr]",
+      "Pt-br": "\"Não importa quem eu enfrente, posso lidar com qualquer adversária apenas com força física. Não preciso de magia.[lr]",
+      "id": 22085,
+      "epk_id": "27227",
+      "label": "$$$message_0201_0117_0000$$$"
+    },
+    {
+      "en": "Is that agreeable to you, Miss Tohsaka?\"",
+      "jp": "　[line len=3]貴女もそれでよろしくて、ミス・トオサカ？」",
+      "Pt-br": "Isso lhe parece aceitável, Senhorita Tohsaka?\"",
+      "id": 22086,
+      "epk_id": "27228",
+      "label": "$$$message_0201_0117_0001$$$"
+    },
+    {
+      "en": "\"You asked for it.[lr]",
+      "jp": "「望むところよ。[lr]",
+      "Pt-br": "\"Você que pediu.[lr]",
+      "id": 22087,
+      "epk_id": "27229",
+      "label": "$$$message_0201_0118_0000$$$"
+    },
+    {
+      "en": "So you're going to fight me in close quarters without magecraft, in that dress?\"",
+      "jp": "　けどそんなドレス姿で、魔術なしの格闘戦をやろうっての？」",
+      "Pt-br": "Então você vai lutar comigo a curta distância sem usar magia, com esse vestido?\"",
+      "id": 22088,
+      "epk_id": "27230",
+      "label": "$$$message_0201_0118_0001$$$"
+    },
+    {
+      "en": "\"I don't mind if you even use your vaunted Gandr.[lr]",
+      "jp": "「別にいいのよ、得意のガンドに頼っても。[lr]",
+      "Pt-br": "\"Não me importo mesmo se você usar seu tão vangloriado Gandr.[lr]",
+      "id": 22089,
+      "epk_id": "27231",
+      "label": "$$$message_0201_0119_0000$$$"
+    },
+    {
+      "en": "I'm happy to fight bare-handed like a proper mage.\"",
+      "jp": "　わたしはちゃんと、礼節ある魔術師らしく徒手空拳で戦ってあげるから」",
+      "Pt-br": "Fico feliz em lutar de mãos nuas, como uma maga de verdade.\"",
+      "id": 22090,
+      "epk_id": "27232",
+      "label": "$$$message_0201_0119_0001$$$"
+    },
+    {
+      "en": "\"That's a good attitude, for a Tohsaka.[lr]",
+      "jp": "「[line len=3]その忠告、トオサカにしてはいい心がけね。[lr]",
+      "Pt-br": "\"Essa é uma atitude boa, para uma Tohsaka.[lr]",
+      "id": 22091,
+      "epk_id": "27233",
+      "label": "$$$message_0201_0120_0000$$$"
+    },
+    {
+      "en": "I've slightly changed my opinion of you.\"",
+      "jp": "　少し見直してあげます」",
+      "Pt-br": "Mudei um pouco a minha opinião sobre você.\"",
+      "id": 22092,
+      "epk_id": "27234",
+      "label": "$$$message_0201_0120_0001$$$"
+    },
+    {
+      "en": "\"But don't worry.[lr]",
+      "jp": "「ですが安心なさい。[lr]",
+      "Pt-br": "\"Mas não se preocupe.[lr]",
+      "id": 22093,
+      "epk_id": "27235",
+      "label": "$$$message_0201_0121_0000$$$"
+    },
+    {
+      "en": "A dress like this, in my hands...\"",
+      "jp": "　この程度のドレス、[ruby text=ワタクシ]私にかかれば[line len=3]」",
+      "Pt-br": "Um vestido como este, em minhas mãos...\"",
+      "id": 22094,
+      "epk_id": "27236",
+      "label": "$$$message_0201_0121_0001$$$"
+    },
+    {
+      "en": "\"!?\"",
+      "jp": "「！？」",
+      "Pt-br": "\"!?\"",
+      "id": 22095,
+      "epk_id": "27237",
+      "label": "$$$message_0201_0122_0000$$$"
+    },
+    {
+      "en": "\"Fuh, [cacheimage storage=white,iイギリス女子寮,ルヴィア02a(近)][wvl][fadein textoff=0 time=200 storage=white][clfg][se storage=se673.wav][fg index=1000 pos=c storage=iイギリス女子寮][fg index=2000 pos=rc storage=ルヴィア02a(近)][dash textoff=0 mx=-111 page=back opacity=255 layer=all irot=-0.0 cx=239 imag=2.4 time=300 cy=570 mag=1.4 my=-173 rot=-0.0 accel=3][shock vmax=20 time=800 count=-10][transex textoff=0 time=200][se storage=se673.wav]sei!!!\"",
+      "jp": "「ふ、[cacheimage storage=white,iイギリス女子寮,ルヴィア02a(近)][wvl][fadein textoff=0 time=200 storage=white][clfg][se storage=se673.wav][fg index=1000 pos=c storage=iイギリス女子寮][fg index=2000 pos=rc storage=ルヴィア02a(近)][dash textoff=0 mx=-111 page=back opacity=255 layer=all irot=-0.0 cx=239 imag=2.4 time=300 cy=570 mag=1.4 my=-173 rot=-0.0 accel=3][shock vmax=20 time=800 count=-10][transex textoff=0 time=200][se storage=se673.wav]せい……！！！！」",
+      "Pt-br": "\"Hah, [cacheimage storage=white,iイギリス女子寮,ルヴィア02a(近)][wvl][fadein textoff=0 time=200 storage=white][clfg][se storage=se673.wav][fg index=1000 pos=c storage=iイギリス女子寮][fg index=2000 pos=rc storage=ルヴィア02a(近)][dash textoff=0 mx=-111 page=back opacity=255 layer=all irot=-0.0 cx=239 imag=2.4 time=300 cy=570 mag=1.4 my=-173 rot=-0.0 accel=3][shock vmax=20 time=800 count=-10][transex textoff=0 time=200][se storage=se673.wav]toma!!!\"",
+      "id": 22096,
+      "epk_id": "27238",
+      "label": "$$$message_0201_0123_0000$$$"
+    },
+    {
+      "en": "\"What do you think? As you can see, it's easy to convert it for combat use, I must say!\"",
+      "jp": "「どう？　ごらんの通り、戦闘用にするのは造作もないコトですわ！」",
+      "Pt-br": "\"O que achou? Como pode ver, é fácil adaptá-lo para combate, devo dizer!\"",
+      "id": 22097,
+      "epk_id": "27239",
+      "label": "$$$message_0201_0124_0000$$$"
+    },
+    {
+      "en": "\"W-what the heck is that dress!?[lr]",
+      "jp": "「で、ですわって何そのドレス！？[lr]",
+      "Pt-br": "\"M-mas que diabos de vestido é esse!?[lr]",
+      "id": 22098,
+      "epk_id": "27240",
+      "label": "$$$message_0201_0125_0000$$$"
+    },
+    {
+      "en": "I-it had attachments and could go sleeveless all along...!?\"",
+      "jp": "　は、はじめからアタッチメントでノースリーブになるようになってるの……！？」",
+      "Pt-br": "E-ele tinha peças removíveis e podia ficar sem mangas desde o começo...!?\"",
+      "id": 22099,
+      "epk_id": "27241",
+      "label": "$$$message_0201_0125_0001$$$"
+    },
+    {
+      "en": "\"Of course. A lady has her tastes to uphold.\"",
+      "jp": "「もちろん。このぐらいは淑女の嗜みです」",
+      "Pt-br": "\"Claro. Uma dama tem seus gostos a zelar.\"",
+      "id": 22100,
+      "epk_id": "27242",
+      "label": "$$$message_0201_0126_0000$$$"
+    },
+    {
+      "en": "\"You could search the whole world and not find anyone else with tastes like that.\"",
+      "jp": "「ない。世界中探してもそんな嗜みないから」",
+      "Pt-br": "\"Você poderia procurar pelo mundo inteiro e não encontraria mais ninguém com gostos como esses.\"",
+      "id": 22101,
+      "epk_id": "27243",
+      "label": "$$$message_0201_0127_0000$$$"
+    },
+    {
+      "en": "\"I just said they're [font italic=true]my[font italic=false] tastes![lr]",
+      "jp": "「[ruby text=ワタクシ]私があると言ったらあるのです！[lr]",
+      "Pt-br": "\"Eu acabei de dizer que são os [font italic=true]meus[font italic=false] gostos![lr]",
+      "id": 22102,
+      "epk_id": "27244",
+      "label": "$$$message_0201_0128_0000$$$"
+    },
+    {
+      "en": "Do you know how much the tailoring fees would be if I tore my dress every time I get into a fight!?\"",
+      "jp": "　第一、ケンカの度にいちいちドレスを破っていては仕立て代がもったいないじゃないですかっ！」",
+      "Pt-br": "Você sabe quanto eu gastaria com costura se rasgasse meu vestido toda vez que entrasse numa briga!?\"",
+      "id": 22103,
+      "epk_id": "27245",
+      "label": "$$$message_0201_0128_0001$$$"
+    },
+    {
+      "en": "\"...Were you tearing it off every time?\"",
+      "jp": "「……アンタ。もしかして、ケンカのたびにドレス破いてたワケ？」",
+      "Pt-br": "\"...Você rasgava o vestido toda vez?\"",
+      "id": 22104,
+      "epk_id": "27246",
+      "label": "$$$message_0201_0129_0000$$$"
+    },
+    {
+      "en": "\"Ah...no, ahem.[lr]",
+      "jp": "「あ……いえ、こほんこほん。[lr]",
+      "Pt-br": "\"Ah... não, ahem.[lr]",
+      "id": 22105,
+      "epk_id": "27247",
+      "label": "$$$message_0201_0130_0000$$$"
+    },
+    {
+      "en": "The head of a noble family never knows when she might be ambushed.\"",
+      "jp": "　いいですか、当主たる者いつどこで悪漢に襲われるともかぎりませんでしょう？」",
+      "Pt-br": "A líder de uma família nobre nunca sabe quando pode ser emboscada.\"",
+      "id": 22106,
+      "epk_id": "27248",
+      "label": "$$$message_0201_0130_0001$$$"
+    },
+    {
+      "en": "\"This is just my way of staying prepared.\"",
+      "jp": "「これはですね、そうなった時に備えたものなのです」",
+      "Pt-br": "\"É assim que eu me mantenho preparada.\"",
+      "id": 22107,
+      "epk_id": "27249",
+      "label": "$$$message_0201_0131_0000$$$"
+    },
+    {
+      "en": "\"...\"",
+      "jp": "「……………」",
+      "Pt-br": "\"...\"",
+      "id": 22108,
+      "epk_id": "27250",
+      "label": "$$$message_0201_0132_0000$$$"
+    },
+    {
+      "en": "\"W-what is that incredulous look you're giving me...![lr]",
+      "jp": "「な、なんですその“超信じられねー”といった顔は…！[lr]",
+      "Pt-br": "\"Q-que olhar incrédulo é esse que você está me lançando...![lr]",
+      "id": 22109,
+      "epk_id": "27251",
+      "label": "$$$message_0201_0133_0000$$$"
+    },
+    {
+      "en": "Fine, if you don't believe me, then I'll make you understand!\"",
+      "jp": "　いいわ、信じないというのでしたら、その体に直接教え込んでさしあげます……！」",
+      "Pt-br": "Tudo bem, se não acredita em mim, então eu farei você entender!\"",
+      "id": 22110,
+      "epk_id": "27252",
+      "label": "$$$message_0201_0133_0001$$$"
+    },
+    {
+      "en": "\"(She took a stance![lr]",
+      "jp": "「（構えた……！[lr]",
+      "Pt-br": "\"(Ela entrou em guarda![lr]",
+      "id": 22111,
+      "epk_id": "27253",
+      "label": "$$$message_0201_0134_0000$$$"
+    },
+    {
+      "en": "That stability and forward-leaning stance...she's got skills!)\"",
+      "jp": "　あの安定感と前傾姿勢……こいつ、やる……！）」",
+      "Pt-br": "Aquela estabilidade e base curvada para frente... ela tem habilidades!)\"",
+      "id": 22112,
+      "epk_id": "27254",
+      "label": "$$$message_0201_0134_0001$$$"
+    },
+    {
+      "en": "\"Hmph. Looks like you know a thing or two, Luviagelita.[lr]",
+      "jp": "「ふん[line len=3]少しはやるようじゃないルヴィアゼリッタ。[lr]",
+      "Pt-br": "\"Hmph. Parece que você sabe uma coisa ou duas, Luviagelita.[lr]",
+      "id": 22113,
+      "epk_id": "27255",
+      "label": "$$$message_0201_0135_0000$$$"
+    },
+    {
+      "en": "Your fashion sense aside, this means I don't have to hold back when I kick your butt.\"",
+      "jp": "　ドレスの趣味はともかく、それなら遠慮なく叩きのめせるわ」",
+      "Pt-br": "Seu senso de moda à parte, isso significa que não terei de me conter quando chutar a sua bunda.\"",
+      "id": 22114,
+      "epk_id": "27256",
+      "label": "$$$message_0201_0135_0001$$$"
+    },
+    {
+      "en": "\"The feeling is mutual.[lr]",
+      "jp": "「同感ね。[lr]",
+      "Pt-br": "\"O sentimento é mútuo.[lr]",
+      "id": 22115,
+      "epk_id": "27257",
+      "label": "$$$message_0201_0136_0000$$$"
+    },
+    {
+      "en": "You're lucky this is a wooden floor, Miss Tohsaka.\"",
+      "jp": "　板張りの廊下に感謝なさい、ミス・トオサカ」",
+      "Pt-br": "Você tem sorte disso aqui ser chão de madeira, Senhorita Tohsaka.\"",
+      "id": 22116,
+      "epk_id": "27258",
+      "label": "$$$message_0201_0136_0001$$$"
+    },
+    {
+      "en": "\"Eeeek! Hello, hello, Mister Anthony? Mayday! Something dangerous has appeared in the dormitory! I-I don't want another pay cut. My salary is low enough!\"",
+      "jp": "「ひぃぃい！　ハロー、ハロー、ミスターアンソニー？　メーデー、学生寮に危険物が現れました！　わ、わたしの残り少ないお給料がさらに減っていくですのー！」",
+      "Pt-br": "\"Eeeek! Alô, alô, senhor Anthony? Socorro! Algo perigoso apareceu no dormitório! E-eu não quero outro corte no salário. Já ganho pouco demais!\"",
+      "id": 22117,
+      "epk_id": "27259",
+      "label": "$$$message_0201_0137_0000$$$"
+    },
+    {
+      "en": "\"I apologize, Miss Octavia.[lr]",
+      "jp": "「申し訳ありませんオクタヴィアさん。[lr]",
+      "Pt-br": "\"Eu me desculpo, Senhorita Octavia.[lr]",
+      "id": 22118,
+      "epk_id": "27260",
+      "label": "$$$message_0201_0138_0000$$$"
+    },
+    {
+      "en": "But there's no need to worry. [cacheimage storage=凛私服16b(近),ルヴィア02g(中)][wvl][se storage=se083.wav][movefg textoff=0 opacity=0 left=625 top=65 time=300 accel=3 storage=凛私服16b(近)][movefg textoff=0 opacity=0 left=-123 top=45 time=300 accel=0 storage=ルヴィア02g(中)]I'll end this with the first strike!\"",
+      "jp": "　けど心配は無用、[cacheimage storage=凛私服16b(近),ルヴィア02g(中)][wvl][se storage=se083.wav][movefg textoff=0 opacity=0 left=625 top=65 time=300 accel=3 storage=凛私服16b(近)][movefg textoff=0 opacity=0 left=-123 top=45 time=300 accel=0 storage=ルヴィア02g(中)]勝負はこの一撃で終わりますから！」",
+      "Pt-br": "Mas não há motivo para se preocupar. [cacheimage storage=凛私服16b(近),ルヴィア02g(中)][wvl][se storage=se083.wav][movefg textoff=0 opacity=0 left=625 top=65 time=300 accel=3 storage=凛私服16b(近)][movefg textoff=0 opacity=0 left=-123 top=45 time=300 accel=0 storage=ルヴィア02g(中)]Eu terminarei isto com o primeiro golpe!\"",
+      "id": 22119,
+      "epk_id": "27261",
+      "label": "$$$message_0201_0138_0001$$$"
+    },
+    {
+      "en": "\"Kyaaaah!? M-Miss Tohsaka, where did you learn such wonderful kung fu at your age!?\"",
+      "jp": "「きゃああーーー！？　ト、トオサカさん、年に似合わずなんて見事なコンフー！？」",
+      "Pt-br": "\"Kyaaaah!? S-Senhorita Tohsaka, onde aprendeu um kung fu tão esplêndido nessa idade!?\"",
+      "id": 22120,
+      "epk_id": "27262",
+      "label": "$$$message_0201_0139_0000$$$"
+    },
+    {
+      "en": "\"Marvelous! Your personal twist on it is fearsome, but you've achieved an amazing bengquan with your stature!\"",
+      "jp": "「マーベラス！　自己流のアレンジが強すぎますけど、貴女の体格にあった見事な崩拳ですー！」",
+      "Pt-br": "\"Magnífico! O seu toque pessoal é assustador, mas, com essa estatura, você executou um bengquan admirável!\"",
+      "id": 22121,
+      "epk_id": "27263",
+      "label": "$$$message_0201_0140_0000$$$"
+    },
+    {
+      "en": "\"(Got her![lr]",
+      "jp": "「（貰った……！[lr]",
+      "Pt-br": "\"(Peguei ela![lr]",
+      "id": 22122,
+      "epk_id": "27264",
+      "label": "$$$message_0201_0141_0000$$$"
+    },
+    {
+      "en": "At this range, victory is mine!)\"",
+      "jp": "　この間合いなら、完全にこっちの勝ち……！）」",
+      "Pt-br": "Dessa distância, a vitória é minha!)\"",
+      "id": 22123,
+      "epk_id": "27265",
+      "label": "$$$message_0201_0141_0001$$$"
+    },
+    {
+      "en": "\"...Heh. How naïve, Miss Tohsaka!\"",
+      "jp": "「[line len=3]フ。甘いですわね、ミス・トオサカ！」",
+      "Pt-br": "\"...Heh. Quanta ingenuidade, Senhorita Tohsaka!\"",
+      "id": 22124,
+      "epk_id": "27266",
+      "label": "$$$message_0201_0142_0000$$$"
+    },
+    {
+      "en": "\"Huh!? No way. From behind!?\"",
+      "jp": "「！？　そんな、後ろ[line len=3]！？」",
+      "Pt-br": "\"Hã!? Não é possível. Por trás!?\"",
+      "id": 22125,
+      "epk_id": "27267",
+      "label": "$$$message_0201_0143_0000$$$"
+    },
+    {
+      "en": "\"Say whaaaat!?[lr]",
+      "jp": "「なにぃぃい、アレはーーー！？[lr]",
+      "Pt-br": "\"O queeeeé!?[lr]",
+      "id": 22126,
+      "epk_id": "27268",
+      "label": "$$$message_0201_0144_0000$$$"
+    },
+    {
+      "en": "Luviagelita just assumed a low battle stance, sinking her hips to the ground![lr]",
+      "jp": "　どっしりと腰をおろした地を這うが如き戦闘態勢！[lr]",
+      "Pt-br": "Luviagelita acaba de assumir uma postura baixa de combate, afundando os quadris até perto do chão![lr]",
+      "id": 22127,
+      "epk_id": "27269",
+      "label": "$$$message_0201_0144_0001$$$"
+    },
+    {
+      "en": "That's unmistakably catch-as-catch-can!\"",
+      "jp": "　あれこそはまさにキャッチアズ・キャッチキャン！」",
+      "Pt-br": "Isso é, sem dúvida, catch-as-catch-can!\"",
+      "id": 22128,
+      "epk_id": "27270",
+      "label": "$$$message_0201_0144_0002$$$"
+    },
+    {
+      "en": "\"The ancient English grappling techniques from Lancashire!\"",
+      "jp": "「イングランドいにしえの捕縛術、ランカシャースタイルだあー！」",
+      "Pt-br": "\"As antigas técnicas inglesas de combate corpo-a-corpo de Lancashire!\"",
+      "id": 22129,
+      "epk_id": "27271",
+      "label": "$$$message_0201_0145_0000$$$"
+    },
+    {
+      "en": "\"Wha[line len=2]\"",
+      "jp": "「[line len=3]、な[line len=3]」",
+      "Pt-br": "\"O que[line len=2]\"",
+      "id": 22130,
+      "epk_id": "27272",
+      "label": "$$$message_0201_0146_0000$$$"
+    },
+    {
+      "en": "\"Your back is mine!\"",
+      "jp": "「バック、取りましたわ！」",
+      "Pt-br": "\"Suas costas são minhas!\"",
+      "id": 22131,
+      "epk_id": "27273",
+      "label": "$$$message_0201_0147_0000$$$"
+    },
+    {
+      "en": "\"No way... Pro wrestling!? You're insane!\"",
+      "jp": "「そんな[line len=3]プロレスなんて、アンタなんてマニアックなあーーーー！！！？」",
+      "Pt-br": "\"Não me diga... Luta livre profissional!? Você é louca!\"",
+      "id": 22132,
+      "epk_id": "27274",
+      "label": "$$$message_0201_0148_0000$$$"
+    },
+    {
+      "en": "\"She lands it! The rising star of Finland, the hound of the ring, the lady forklift, LUVIAGELITA EDELFELT!\"",
+      "jp": "「やりました！　フィンランド期待の星、リングの狩猟犬、淑女のフォークリフト、ルヴィアゼリッタ・エーデルフェルト……！」",
+      "Pt-br": "\"Ela encaixou o golpe! A estrela em ascensão da Finlândia, a fera do ringue, a empilhadeira aristocrata, LUVIAGELITA EDELFELT!\"",
+      "id": 22133,
+      "epk_id": "27275",
+      "label": "$$$message_0201_0149_0000$$$"
+    },
+    {
+      "en": "\"There we have it, a knockout in the first round, in 13 seconds![lr]",
+      "jp": "「なんと１ラウンド１３秒ＫＯ勝ち！[lr]",
+      "Pt-br": "\"E está decidido: nocaute no primeiro assalto, em 13 segundos![lr]",
+      "id": 22134,
+      "epk_id": "27276",
+      "label": "$$$message_0201_0150_0000$$$"
+    },
+    {
+      "en": "An unbelievable fighter has appeared!!!\"",
+      "jp": "　こ、これはとんでもない選手が現れたァーーー！」",
+      "Pt-br": "Uma lutadora inacreditável acaba de aparecer!!!\"",
+      "id": 22135,
+      "epk_id": "27277",
+      "label": "$$$message_0201_0150_0001$$$"
+    },
+    {
+      "en": "\"...It's a three-count.[lr]",
+      "jp": "「[line len=3]スリーカウントですわね。[lr]",
+      "Pt-br": "\"...Foram três contagens.[lr]",
+      "id": 22136,
+      "epk_id": "27278",
+      "label": "$$$message_0201_0151_0000$$$"
+    },
+    {
+      "en": "Miss Tohsaka, you lost because you showed your hand too soon. The fight doesn't begin until the gong sounds, you know.\"",
+      "jp": "　ミス・トオサカ、貴女の敗因は自らの手を明かしたコトです。戦いはゴングの前から始まっていてよ？」",
+      "Pt-br": "Senhorita Tohsaka, você perdeu porque abriu a mão cedo demais. Sabe, a luta não começa até o gongo soar.\"",
+      "id": 22137,
+      "epk_id": "27279",
+      "label": "$$$message_0201_0151_0001$$$"
+    },
+    {
+      "en": "\"Huurgh... Stars... I see stars...\"",
+      "jp": "「きゅうぅ…………星……星が見えるスター……」",
+      "Pt-br": "\"Huurgh... Estrelas... Eu vejo estrelas...\"",
+      "id": 22138,
+      "epk_id": "27280",
+      "label": "$$$message_0201_0152_0000$$$"
+    },
+    {
+      "en": "\"Uh... [wvl canskip=0 time=500]Damn.\"[lr]",
+      "jp": "「あー………[wvl canskip=0 time=500]すごいな、そりゃ」[lr]",
+      "Pt-br": "\"Uh... [wvl canskip=0 time=500]Droga.\"[lr]",
+      "id": 22139,
+      "epk_id": "27281",
+      "label": "$$$message_0201_0153_0000$$$"
+    },
+    {
+      "en": "Her opponent sounds amazing, but so is Tohsaka for not hesitating to pick a fight.[lr]",
+      "jp": "　相手も凄いが、躊躇なくケンカする遠坂も。[lr]",
+      "Pt-br": "A adversária dela parece incrível, mas a Tohsaka também, por não hesitar em comprar uma briga.[lr]",
+      "id": 22140,
+      "epk_id": "27282",
+      "label": "$$$message_0201_0153_0001$$$"
+    },
+    {
+      "en": "You can tell she's got a record.[lr]",
+      "jp": "　さすがは前科持ち。[lr]",
+      "Pt-br": "Dá para perceber que ela tem um histórico.[lr]",
+      "id": 22141,
+      "epk_id": "27283",
+      "label": "$$$message_0201_0153_0002$$$"
+    },
+    {
+      "en": "A dormitory is different from our school campus, but it clearly isn't Tohsaka's first time fighting at school.",
+      "jp": "　校舎と学生寮という違いはあるが、学舎で暴れるコトは一度目ではない遠坂だった。",
+      "Pt-br": "Um dormitório não é o campus da nossa escola, mas fica claro que essa não foi a primeira briga escolar da Tohsaka.",
+      "id": 22142,
+      "epk_id": "27284",
+      "label": "$$$message_0201_0153_0003$$$"
+    },
+    {
+      "en": "\"Then you went for round two, which just turned into a dirty fight.[lr]",
+      "jp": "「で、そのまま第二試合に突入して泥仕合か。[lr]",
+      "Pt-br": "\"Aí você partiu para o segundo assalto, que acabou virando uma briga suja.[lr]",
+      "id": 22143,
+      "epk_id": "27285",
+      "label": "$$$message_0201_0154_0000$$$"
+    },
+    {
+      "en": "When you calmed down, the lobby was trashed, and both of you got punished... You know, it sounds like you got yourself banned from that dorm.\"[lr]",
+      "jp": "　気が付けば受付は崩壊、ケンカ両成敗と。……あのさあ。それ、立ち入り禁止になったの遠坂のせいじゃんか」[lr]",
+      "Pt-br": "Quando vocês se acalmaram, o saguão estava destruído, e as duas receberam punições... Sabe, parece que você mesma se baniu daquele dormitório.\"[lr]",
+      "id": 22144,
+      "epk_id": "27286",
+      "label": "$$$message_0201_0154_0001$$$"
+    },
+    {
+      "en": "\"It wasn't my fault![lr]",
+      "jp": "「わたしだけのせいじゃないわよっ。[lr]",
+      "Pt-br": "\"Não foi culpa minha![lr]",
+      "id": 22145,
+      "epk_id": "27287",
+      "label": "$$$message_0201_0154_0002$$$"
+    },
+    {
+      "en": "If Luvia hadn't come at me, I wouldn't have gotten a dishonorable nickname before even starting school!\"",
+      "jp": "　ルヴィアさえつっかかってこなかったら、入学前から不名誉なあだ名はつけられなかったわ！」",
+      "Pt-br": "Se a Luvia não tivesse vindo pra cima de mim, eu não teria ganho um apelido desonroso antes mesmo de começar as aulas!\"",
+      "id": 22146,
+      "epk_id": "27288",
+      "label": "$$$message_0201_0154_0003$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「………………」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 22147,
+      "epk_id": "27289",
+      "label": "$$$message_0201_0155_0000$$$"
+    },
+    {
+      "en": "While I'm curious about this nickname, I can already tell it has something to do with beasts or typhoons.[lr]",
+      "jp": "　不名誉なあだ名とやらには興味があるが、まあ、こっちで言うところの怪獣とか台風とかそういうものだろう。[lr]",
+      "Pt-br": "Embora eu esteja curioso sobre esse apelido, já posso dizer que ele tem algo a ver com feras ou tufões.[lr]",
+      "id": 22148,
+      "epk_id": "27290",
+      "label": "$$$message_0201_0155_0001$$$"
+    },
+    {
+      "en": "\"...What are you grinning at? Got something to say to me?\"",
+      "jp": "「……なによ、ニヤニヤしちゃって。言いたいコトあるなら言いなさいよ」",
+      "Pt-br": "\"...Por que você está sorrindo? Tem algo a me dizer?\"",
+      "id": 22149,
+      "epk_id": "27291",
+      "label": "$$$message_0201_0155_0002$$$"
+    },
+    {
+      "en": "\"Yeah. But don't get mad. I'm just saying what I feel.[lr]",
+      "jp": "「うん。けど怒るなよ。感じたままのコトだからな。[lr]",
+      "Pt-br": "\"Sim. Mas não fique brava. Estou só dizendo o que sinto.[lr]",
+      "id": 22150,
+      "epk_id": "27292",
+      "label": "$$$message_0201_0156_0000$$$"
+    },
+    {
+      "en": "Um, this Luvia girl sounds like a good match for you.[lr]",
+      "jp": "　えっと、ルヴィアだっけ？　その子、遠坂と合いそうじゃないか。[lr]",
+      "Pt-br": "Um, essa Luvia parece combinar bem com você.[lr]",
+      "id": 22151,
+      "epk_id": "27293",
+      "label": "$$$message_0201_0156_0001$$$"
+    },
+    {
+      "en": "Like you met a friend you get along with, [cacheimage storage=凛fd特殊04a(中),m02タイガーぱんちb][wvl][se storage=se101.wav][chgfg textoff=0 pos=c time=200 storage=凛fd特殊04a(中) last=凛私服12b(中)]ow!\"[se storage=se229.wav][se storage=se230.wav][quake vmax=30 hmax=10 time=1200][fadein time=200 storage=m02タイガーぱんちb][texton][lr]",
+      "jp": "　仲の良い友達って感じがす、[cacheimage storage=凛fd特殊04a(中),m02タイガーぱんちb][wvl][se storage=se101.wav][chgfg textoff=0 pos=c time=200 storage=凛fd特殊04a(中) last=凛私服12b(中)]あいたぁ！？」[se storage=se229.wav][se storage=se230.wav][quake vmax=30 hmax=10 time=1200][fadein time=200 storage=m02タイガーぱんちb][texton][lr]",
+      "Pt-br": "Como se você tivesse conhecido uma amiga com quem se deu bem, [cacheimage storage=凛fd特殊04a(中),m02タイガーぱんちb][wvl][se storage=se101.wav][chgfg textoff=0 pos=c time=200 storage=凛fd特殊04a(中) last=凛私服12b(中)]ai!\"[se storage=se229.wav][se storage=se230.wav][quake vmax=30 hmax=10 time=1200][fadein time=200 storage=m02タイガーぱんちb][texton][lr]",
+      "id": 22152,
+      "epk_id": "27294",
+      "label": "$$$message_0201_0156_0002$$$"
+    },
+    {
+      "en": "I can see them![lr]",
+      "jp": "　見えた！[lr]",
+      "Pt-br": "Estou vendo estrelas![lr]",
+      "id": 22153,
+      "epk_id": "27295",
+      "label": "$$$message_0201_0156_0003$$$"
+    },
+    {
+      "en": "I haven't seen stars like that in a while!",
+      "jp": "　久しぶりに星が見えたスター！",
+      "Pt-br": "Fazia tempo que eu não via tantas estrelas assim!",
+      "id": 22154,
+      "epk_id": "27296",
+      "label": "$$$message_0201_0156_0004$$$"
+    },
+    {
+      "en": "\"...Argh, I nailed that so well.[lr]",
+      "jp": "「……く、あまりにも決まりすぎたわ。[lr]",
+      "Pt-br": "\"...Argh, acertei em cheio.[lr]",
+      "id": 22155,
+      "epk_id": "27297",
+      "label": "$$$message_0201_0157_0000$$$"
+    },
+    {
+      "en": "If only I pulled this off back then, I wouldn't have eaten that back drop...!\"[lr]",
+      "jp": "　この一撃があの時だせていれば、あんなバックドロップなんかくらわなかったのに……！」[lr]",
+      "Pt-br": "Se eu tivesse conseguido encaixar isso naquela época, não teria engolido aquele suplex...!\"[lr]",
+      "id": 22156,
+      "epk_id": "27298",
+      "label": "$$$message_0201_0157_0001$$$"
+    },
+    {
+      "en": "She shakes her fist.[lr]",
+      "jp": "　ふるふると会心の拳を震わせる。[lr]",
+      "Pt-br": "Ela balança os punhos.[lr]",
+      "id": 22157,
+      "epk_id": "27299",
+      "label": "$$$message_0201_0157_0002$$$"
+    },
+    {
+      "en": "Oh, so this Luvia lady finished her off with a back drop...",
+      "jp": "　そっかー、ルヴィア嬢の決め技はバックドロップかぁ。",
+      "Pt-br": "Ah, então foi com um suplex que essa Luvia acabou com ela...",
+      "id": 22158,
+      "epk_id": "27300",
+      "label": "$$$message_0201_0157_0003$$$"
+    },
+    {
+      "en": "\"And why did you just hit me with that?\"[lr]",
+      "jp": "「で。なんでその一撃を俺に見舞う」[lr]",
+      "Pt-br": "\"E por que diabos você me bateu assim?\"[lr]",
+      "id": 22159,
+      "epk_id": "27301",
+      "label": "$$$message_0201_0158_0000$$$"
+    },
+    {
+      "en": "\"Hehe. My body just reacted when you said the one thing I didn't want to hear.\"[lr]",
+      "jp": "「ふふ。一番言われたくない言葉だったから、体が勝手に反応したのね」[lr]",
+      "Pt-br": "\"Hehe. Meu corpo reagiu sozinho quando você disse justamente o que eu não queria ouvir.\"[lr]",
+      "id": 22160,
+      "epk_id": "27302",
+      "label": "$$$message_0201_0158_0001$$$"
+    },
+    {
+      "en": "...They do say we're defined by the people we associate with.[lr]",
+      "jp": "　……朱に交われば赤くなるというが。[lr]",
+      "Pt-br": "...Dizem mesmo que somos definidos pelas pessoas com quem convivemos.[lr]",
+      "id": 22161,
+      "epk_id": "27303",
+      "label": "$$$message_0201_0158_0002$$$"
+    },
+    {
+      "en": "Tohsaka's violence score has clearly gone up since meeting Luvia.",
+      "jp": "　そのルヴィア嬢と知り合ったコトで、遠坂のバイオレンス値が大幅にあがったようだ。",
+      "Pt-br": "O índice de violência da Tohsaka claramente subiu desde que ela conheceu a Luvia.",
+      "id": 22162,
+      "epk_id": "27304",
+      "label": "$$$message_0201_0158_0003$$$"
+    },
+    {
+      "en": "\"...Hmph. Just to be clear before you get the wrong idea, I'll never be friends with Luvia.[lr]",
+      "jp": "「……ふん。ヘンな誤解をする前に断っておくけど、ルヴィアとは絶対に仲良くなんかならないから。[lr]",
+      "Pt-br": "\"...Hmph. Só para deixar claro antes de você ter a ideia errada, eu nunca serei amiga da Luvia.[lr]",
+      "id": 22163,
+      "epk_id": "27305",
+      "label": "$$$message_0201_0159_0000$$$"
+    },
+    {
+      "en": "She hates Japanese people, and her hobby is bullying Japanese people. She threw a glove at me in the end.\"[lr]",
+      "jp": "　あの娘の嫌いなものは日本人で、好きな事は日本人いじめだそうよ。わたし、最後に手袋投げられたし」[lr]",
+      "Pt-br": "Ela odeia japoneses, e o hobby dela é implicar com japoneses. No fim, até jogou uma luva em mim.\"[lr]",
+      "id": 22164,
+      "epk_id": "27306",
+      "label": "$$$message_0201_0159_0001$$$"
+    },
+    {
+      "en": "\"Wow, a glove? That's so old school.\"[lr]",
+      "jp": "「うわ。手袋って、前時代的な」[lr]",
+      "Pt-br": "\"Nossa, uma luva? Que antiquada.\"[lr]",
+      "id": 22165,
+      "epk_id": "27307",
+      "label": "$$$message_0201_0159_0002$$$"
+    },
+    {
+      "en": "Still, she does sound like a straightforward sort.[lr]",
+      "jp": "　けどまあ、聞いたかぎりじゃ素でやりそうな人物ではある。[lr]",
+      "Pt-br": "Ainda assim, ela parece ser do tipo direto.[lr]",
+      "id": 22166,
+      "epk_id": "27308",
+      "label": "$$$message_0201_0159_0003$$$"
+    },
+    {
+      "en": "If Tohsaka had been raised in England, I have no doubt she would have thrown a glove at me at some point.",
+      "jp": "　遠坂もイギリスで育っていれば間違いなく俺に投げつけてただろうし。",
+      "Pt-br": "Se a Tohsaka tivesse crescido na Inglaterra, não tenho dúvidas de que em algum momento ela também me jogaria uma luva.",
+      "id": 22167,
+      "epk_id": "27309",
+      "label": "$$$message_0201_0159_0004$$$"
+    },
+    {
+      "en": "\"That's kind of extreme. Does she have a grudge against Japan?\"",
+      "jp": "「しかし、ちょい極端すぎないか？　日本に恨みでもあるのかその娘」",
+      "Pt-br": "\"Isso é meio pesado. Ela tem algum rancor contra o Japão?\"",
+      "id": 22168,
+      "epk_id": "27310",
+      "label": "$$$message_0201_0160_0000$$$"
+    },
+    {
+      "en": "\"Yeah. She... Her name's Luviagelita Edelfelt. Edelfelt is a famous, noble house.[lr]",
+      "jp": "「ええ。その娘……ルヴィアゼリッタ・エーデルフェルトって言うんだけど、エーデルフェルトって言ったらわりと有名な名門貴族なのよ。[lr]",
+      "Pt-br": "\"Sim. Ela... o nome dela é Luviagelita Edelfelt. Edelfelt é uma famosa família nobre.[lr]",
+      "id": 22169,
+      "epk_id": "27311",
+      "label": "$$$message_0201_0161_0000$$$"
+    },
+    {
+      "en": "They're aristocrats, but they train their people like mercenaries. They always happily show up when there's conflict, and they're feared as 'the world's most beautiful hyenas' for being glory hounds.\"",
+      "jp": "　貴族のクセに傭兵みたいな家訓を持っていてね、争いがあれば喜んで顔を出し、おいしい所をかっさらう“地上で最も優美なハイエナ”と恐れられているとか」",
+      "Pt-br": "Elas são aristocratas, mas treinam seu povo como se fossem mercenários. Sempre aparecem felizes quando há um conflito, e são temidas como as \"hienas mais elegantes do mundo\" por serem ávidas por glória.\"",
+      "id": 22170,
+      "epk_id": "27312",
+      "label": "$$$message_0201_0161_0001$$$"
+    },
+    {
+      "en": "\"...[wait canskip=0 time=800][say storage=emimp15_shi_0180 name=士郎]You know...those descriptions are starting to sound familiar.\"[lr]",
+      "jp": "「…………[wait canskip=0 time=800][say storage=emimp15_shi_0180 name=士郎]なんかさあ。ますます他人の気がしないんじゃない、遠坂？」[lr]",
+      "Pt-br": "\"...[wait canskip=0 time=800][say storage=emimp15_shi_0180 name=士郎]Sabe... essas descrições estão começando a soar familiares.\"[lr]",
+      "id": 22171,
+      "epk_id": "27313",
+      "label": "$$$message_0201_0162_0000$$$"
+    },
+    {
+      "en": "\"Shut up and listen![wm canskip=0][lr]",
+      "jp": "「黙って話を聞く！[wm canskip=0][lr]",
+      "Pt-br": "\"Cala a boca e escuta![wm canskip=0][lr]",
+      "id": 22172,
+      "epk_id": "27314",
+      "label": "$$$message_0201_0162_0001$$$"
+    },
+    {
+      "en": "Since they love fighting, they joined a ritual on an island country in the Far East out of curiosity.[lr]",
+      "jp": "　でね。そんな戦い好きの連中だから、物好きにも極東の島国の儀式に参加したのよ。[lr]",
+      "Pt-br": "Por amarem lutas, elas participaram de um ritual numa nação insular no Extremo Oriente por pura curiosidade.[lr]",
+      "id": 22173,
+      "epk_id": "27315",
+      "label": "$$$message_0201_0162_0002$$$"
+    },
+    {
+      "en": "It was sixty years ago. The Edelfelts were led by twin sisters at the time. They were renowned mages, but they suffered a crushing defeat. Only one of the sisters survived.\"",
+      "jp": "　今から六十年前の話ね。エーデルフェルトの当主は双子の姉妹で、名の通った魔術師だったらしいけど結果は惨敗。妹は戦死、姉はなんとか生還したんだって」",
+      "Pt-br": "Foi há sessenta anos. Na época, as Edelfelts eram lideradas por irmãs gêmeas. Elas eram magas renomadas, mas sofreram uma derrota esmagadora. Só uma das irmãs sobreviveu.\"",
+      "id": 22174,
+      "epk_id": "27316",
+      "label": "$$$message_0201_0162_0003$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「………………」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 22175,
+      "epk_id": "27317",
+      "label": "$$$message_0201_0163_0000$$$"
+    },
+    {
+      "en": "The light-hearted story suddenly becomes grim.[lr]",
+      "jp": "　愉快だった話が、一瞬にして違ったものに切り替わる。[lr]",
+      "Pt-br": "A história leve, de repente, fica sombria.[lr]",
+      "id": 22176,
+      "epk_id": "27318",
+      "label": "$$$message_0201_0163_0001$$$"
+    },
+    {
+      "en": "Edelfelt.[lr]",
+      "jp": "　エーデルフェルト。[lr]",
+      "Pt-br": "Edelfelt.[lr]",
+      "id": 22177,
+      "epk_id": "27319",
+      "label": "$$$message_0201_0163_0002$$$"
+    },
+    {
+      "en": "Twin matriarchs.[lr]",
+      "jp": "　双子の当主。[lr]",
+      "Pt-br": "Matriarcas gêmeas.[lr]",
+      "id": 22178,
+      "epk_id": "27320",
+      "label": "$$$message_0201_0163_0003$$$"
+    },
+    {
+      "en": "And, a ritual on an island in the Far East, sixty years ago.",
+      "jp": "　そして、極東の島国で行われたという、六十年前のある儀式。",
+      "Pt-br": "E um ritual em uma ilha no Extremo Oriente, sessenta anos atrás.",
+      "id": 22179,
+      "epk_id": "27321",
+      "label": "$$$message_0201_0163_0004$$$"
+    },
+    {
+      "en": "\"Tohsaka, you mean...\"[lr]",
+      "jp": "「遠坂、それって」[lr]",
+      "Pt-br": "\"Tohsaka, você quer dizer...\"[lr]",
+      "id": 22180,
+      "epk_id": "27322",
+      "label": "$$$message_0201_0164_0000$$$"
+    },
+    {
+      "en": "\"The Third Holy Grail War. That's why Luvia hates Japanese people.[lr]",
+      "jp": "「第三次聖杯戦争の事よ。それでルヴィアは大の日本人嫌いってワケ。[lr]",
+      "Pt-br": "\"A Terceira Guerra do Santo Graal. É por isso que a Luvia odeia japoneses.[lr]",
+      "id": 22181,
+      "epk_id": "27323",
+      "label": "$$$message_0201_0164_0001$$$"
+    },
+    {
+      "en": "But they really underestimated us. Those twin matriarchs hated each other's guts, apparently. I heard rumors that the younger sister's death was due to the sisters falling out.\"",
+      "jp": "　けど私たちも甘く見られたものね。その双子当主、尋常じゃないぐらい仲が悪かったって話だもの。妹が死んだのも、結局姉妹同士の争いが元だって噂だし」",
+      "Pt-br": "Mas elas nos subestimaram feio. Aparentemente, aquelas matriarcas gêmeas se odiavam. Ouvi rumores de que a morte da irmã mais nova aconteceu depois de um rompimento entre as duas.\"",
+      "id": 22182,
+      "epk_id": "27324",
+      "label": "$$$message_0201_0164_0002$$$"
+    },
+    {
+      "en": "\"...Oh yeah. If I recall correctly, they built mansions here to spite the Einzberns. Like a hideout in a forest.[lr]",
+      "jp": "「……そうだ。たしかアインツベルンへの当てつけでこっちに洋館を建てたのよ。森の中に隠れ家っぽくね。[lr]",
+      "Pt-br": "\"...Ah, é. Se me lembro bem, elas construíram mansões aqui só para afrontar os Einzberns. Como um esconderijo numa floresta.[lr]",
+      "id": 22183,
+      "epk_id": "27325",
+      "label": "$$$message_0201_0165_0000$$$"
+    },
+    {
+      "en": "Apparently, the sisters built them separately. I wonder if they couldn't stand to breathe the same air.\"",
+      "jp": "　それも姉妹別々に作ったらしいわ。姉妹なのに、同じ空気を吸うのもイヤだったのかしらね」",
+      "Pt-br": "Aparentemente, as irmãs construíram as mansões separadamente. Fico pensando se elas não suportavam nem respirar o mesmo ar.\"",
+      "id": 22184,
+      "epk_id": "27326",
+      "label": "$$$message_0201_0165_0001$$$"
+    },
+    {
+      "en": "Hideout in a forest...?[lr]",
+      "jp": "　……森の中の隠れ家……？[lr]",
+      "Pt-br": "Esconderijo numa floresta...?[lr]",
+      "id": 22185,
+      "epk_id": "27327",
+      "label": "$$$message_0201_0166_0000$$$"
+    },
+    {
+      "en": "And separate houses...?",
+      "jp": "　……それも、姉妹別々に建てた、だって……？",
+      "Pt-br": "E mansões separadas...?",
+      "id": 22186,
+      "epk_id": "27328",
+      "label": "$$$message_0201_0166_0001$$$"
+    },
+    {
+      "en": "\"Mansions built sixty years ago... Then this Luvia has a house somewhere in Fuyuki?\"[lr]",
+      "jp": "「六十年前に建てられた洋館……じゃあ、そのルヴィアって娘、こっちに別荘を持ってるんだ？」[lr]",
+      "Pt-br": "\"Mansões construídas há sessenta anos... Então essa Luvia tem uma casa em algum lugar de Fuyuki?\"[lr]",
+      "id": 22187,
+      "epk_id": "27329",
+      "label": "$$$message_0201_0167_0000$$$"
+    },
+    {
+      "en": "\"Oh. That makes sense.[lr]",
+      "jp": "「あ。そっか、そういう事になるわね。[lr]",
+      "Pt-br": "\"Ah. Isso faz sentido.[lr]",
+      "id": 22188,
+      "epk_id": "27330",
+      "label": "$$$message_0201_0167_0001$$$"
+    },
+    {
+      "en": "But it's been long abandoned. Apparently, the Edelfelts were said to have never set foot in Japan again, and I think they handed the buildings over to the Mage's Association.\"",
+      "jp": "　けどあそこ、とっくに空き家よ？　エーデルフェルトは二度と日本の土は踏まないって言ったらしいし、洋館そのものは魔術協会に譲渡したと思うわ」",
+      "Pt-br": "Mas elas estão abandonadas há muito tempo. Ao que parece, dizem que os Edelfelts nunca mais pisaram no Japão, e acho que entregaram as mansões à Associação dos Magos.\"",
+      "id": 22189,
+      "epk_id": "27331",
+      "label": "$$$message_0201_0167_0002$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「[line len=6]」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 22190,
+      "epk_id": "27332",
+      "label": "$$$message_0201_0168_0000$$$"
+    },
+    {
+      "en": "It falls into place.[lr]",
+      "jp": "　はまった。[lr]",
+      "Pt-br": "As peças se encaixam.[lr]",
+      "id": 22191,
+      "epk_id": "27333",
+      "label": "$$$message_0201_0168_0001$$$"
+    },
+    {
+      "en": "I don't know exactly what just fell into place, but it's a big piece of a puzzle.",
+      "jp": "　何がはまったのか分からないが、とにかく、大事なピースが今、埋まった。",
+      "Pt-br": "Não sei exatamente o que acabou de se encaixar, mas é uma peça enorme do quebra-cabeça.",
+      "id": 22192,
+      "epk_id": "27334",
+      "label": "$$$message_0201_0168_0002$$$"
+    },
+    {
+      "en": "\"...I think I know where that mage hideout is.[lr]",
+      "jp": "「……魔術師の隠れ家って、あれかな。[lr]",
+      "Pt-br": "\"...Acho que sei onde fica esse esconderijo dos magos.[lr]",
+      "id": 22193,
+      "epk_id": "27335",
+      "label": "$$$message_0201_0169_0000$$$"
+    },
+    {
+      "en": "In the war half a year ago, Kotomine backstabbed a Master, right?\"",
+      "jp": "　半年前の聖杯戦争で、言峰に騙し討ちされたっていうマスターの事か？」",
+      "Pt-br": "Na guerra de meio ano atrás, o Kotomine apunhalou um Mestre pelas costas, não foi?\"",
+      "id": 22194,
+      "epk_id": "27336",
+      "label": "$$$message_0201_0169_0001$$$"
+    },
+    {
+      "en": "\"Yeah. The Association sent a mage, and Kirei stole their Command Spells.[lr]",
+      "jp": "「そうよ。魔術協会から派遣されて、綺礼に令呪を奪われた魔術師ね。[lr]",
+      "Pt-br": "\"Sim. A Associação enviou uma maga, e o Kirei roubou os seus Selos de Comando.[lr]",
+      "id": 22195,
+      "epk_id": "27337",
+      "label": "$$$message_0201_0170_0000$$$"
+    },
+    {
+      "en": "We found a hideout when we were trying to find Lancer's Master, remember?\"",
+      "jp": "　ランサーのマスターが誰か、を捜しているうちに隠れ家を見つけたって話、衛宮くんなら知ってるでしょ？」",
+      "Pt-br": "Nós encontramos um esconderijo quando estávamos tentando achar o Mestre do Lancer, lembra, Emiya-kun?\"",
+      "id": 22196,
+      "epk_id": "27338",
+      "label": "$$$message_0201_0170_0001$$$"
+    },
+    {
+      "en": "\"Yeah. There were bloodstains and a severed arm missing its Command Spells on the floor. If that mansion belonged to the Edelfelts...that would make it the second one.\"",
+      "jp": "「ああ。血痕と、令呪を抜き取られた片腕が転がってたんだってな。……で。その洋館がエーデルフェルトの洋館だとすると、それは[ruby text=・・・・・・・ o2o=1]二つあるんだな？」",
+      "Pt-br": "\"Sim. Havia manchas de sangue e um braço decepado sem os seus Selos de Comando no chão. Se aquela mansão pertencesse aos Edelfelts... ela seria a segunda.\"",
+      "id": 22197,
+      "epk_id": "27339",
+      "label": "$$$message_0201_0171_0000$$$"
+    },
+    {
+      "en": "\"It would. The sisters were outsiders who built mansions on a foreign battlefield. It almost sounds like a famous landmark if you call them the Edelfelt Twin Mansions.[lr]",
+      "jp": "「そういう事になるわね。例の姉妹は余所様の戦場に出向いては洋館を建ててたから、エーデルフェルトの双子館って言えば有名みたい。[lr]",
+      "Pt-br": "\"Exatamente. As irmãs eram forasteiras que construíram mansões em um campo de batalha estrangeiro. Até parece ponto turístico famoso quando você chama aquilo de Mansões Gêmeas Edelfelt.[lr]",
+      "id": 22198,
+      "epk_id": "27340",
+      "label": "$$$message_0201_0172_0000$$$"
+    },
+    {
+      "en": "The one I found was close to my house. I don't know where the other one is.\"[lr]",
+      "jp": "　ま、わたしが探し当てたのは[ruby text=うち char=3]遠坂邸の近くにある方で、もう一つの洋館が何処にあるかは知らないけど」[lr]",
+      "Pt-br": "A que eu achei ficava perto da minha casa. Não sei onde a outra está.\"[lr]",
+      "id": 22199,
+      "epk_id": "27341",
+      "label": "$$$message_0201_0172_0001$$$"
+    },
+    {
+      "en": "\"Hang on. Near your house? In Miyama, then?\"",
+      "jp": "「待った。遠坂の家の近くって、つまり深山町にあるのか？」",
+      "Pt-br": "\"Espera aí. Perto da sua casa? Em Miyama, então?\"",
+      "id": 22200,
+      "epk_id": "27342",
+      "label": "$$$message_0201_0172_0002$$$"
+    },
+    {
+      "en": "\"Yeah. Right under my nose. [cacheimage storage=凛私服06g(中)][wvl][chgfg textoff=0 time=300 storage=凛私服06g(中)]They've got a lot of nerve, building mansions on Tohsaka turf.\"[lr]",
+      "jp": "「そ。灯台もと暗しよね。[cacheimage storage=凛私服06g(中)][wvl][chgfg textoff=0 time=300 storage=凛私服06g(中)]管理者である遠坂の鼻先に洋館を建てるなんていい度胸ってもんよ」[lr]",
+      "Pt-br": "\"Sim. Bem debaixo do meu nariz. [cacheimage storage=凛私服06g(中)][wvl][chgfg textoff=0 time=300 storage=凛私服06g(中)]Elas têm muita audácia de construir mansões no território dos Tohsaka.\"[lr]",
+      "id": 22201,
+      "epk_id": "27343",
+      "label": "$$$message_0201_0173_0000$$$"
+    },
+    {
+      "en": "   She's right.[lr]",
+      "jp": "　[line len=3]その通りだ。[lr]",
+      "Pt-br": "Ela tem razão.[lr]",
+      "id": 22202,
+      "epk_id": "27344",
+      "label": "$$$message_0201_0173_0001$$$"
+    },
+    {
+      "en": "Looking back, this mistake was [font italic=true]someone's[font italic=false] biggest misdirection.",
+      "jp": "　振り返れば。この間違いこそが、“誰か”にとって唯一にして最大のミスリード。",
+      "Pt-br": "Olhando para trás, esse erro foi a maior cortina de fumaça de [font italic=true]alguém[font italic=false].",
+      "id": 22203,
+      "epk_id": "27345",
+      "label": "$$$message_0201_0173_0002$$$"
+    },
+    {
+      "en": "\"You seem interested, Emiya.[lr]",
+      "jp": "「あれ、興味あるの衛宮くん？[lr]",
+      "Pt-br": "\"Parece interessado, Emiya-kun.[lr]",
+      "id": 22204,
+      "epk_id": "27346",
+      "label": "$$$message_0201_0174_0000$$$"
+    },
+    {
+      "en": "Should we go check it out next week on our time off?\"[lr]",
+      "jp": "　なんなら来週の休みにでも二人で見にいってみる？」[lr]",
+      "Pt-br": "Vamos dar uma olhada lá na semana que vem, quando tivermos uma folga?\"[lr]",
+      "id": 22205,
+      "epk_id": "27347",
+      "label": "$$$message_0201_0174_0001$$$"
+    },
+    {
+      "en": "\"...Yeah. That sounds like it wouldn't be a bad idea, once this mess is over.\"",
+      "jp": "「[line len=3]そうだな。ゴタゴタが全部済んだら、一緒に見に行くのも悪くない」",
+      "Pt-br": "\"...É. Não parece uma má ideia, quando toda essa confusão acabar.\"",
+      "id": 22206,
+      "epk_id": "27348",
+      "label": "$$$message_0201_0174_0002$$$"
+    },
+    {
+      "en": "I answer absently, fighting the dizziness.[lr]",
+      "jp": "　目眩を堪えながら空返事をする。[lr]",
+      "Pt-br": "Respondo meio no automático, lutando contra a tontura.[lr]",
+      "id": 22207,
+      "epk_id": "27349",
+      "label": "$$$message_0201_0175_0000$$$"
+    },
+    {
+      "en": "Tohsaka continues her travel stories.[lr]",
+      "jp": "　遠坂の土産話は続く。[lr]",
+      "Pt-br": "A Tohsaka continua as suas histórias de viagem.[lr]",
+      "id": 22208,
+      "epk_id": "27350",
+      "label": "$$$message_0201_0175_0001$$$"
+    },
+    {
+      "en": "The story of the Edelfelts was no longer brought up.",
+      "jp": "　エーデルフェルトの話は、それきり出る事はなかった。",
+      "Pt-br": "A história dos Edelfelts não foi mais mencionada.",
+      "id": 22209,
+      "epk_id": "27351",
+      "label": "$$$message_0201_0175_0002$$$"
+    },
+    {
+      "en": "\"...utter rubbish!\"[r]",
+      "jp": "「こうしてゴミにして[r]さしあげますわ！」~<8",
+      "Pt-br": "\"...completamente imprestável!\"[r]",
+      "id": 22210,
+      "epk_id": "927191",
+      "label": "$$$message_9201_0095_0000$$$"
+    }
+  ]
+}

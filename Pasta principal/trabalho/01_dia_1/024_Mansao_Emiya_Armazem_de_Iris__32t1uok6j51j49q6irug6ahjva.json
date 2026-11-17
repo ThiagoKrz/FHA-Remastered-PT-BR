@@ -1,0 +1,1272 @@
+{
+  "cena": "32t1uok6j51j49q6irug6ahjva",
+  "titulo": "Mansão Emiya: Armazém de Íris",
+  "rota": "Dia 1",
+  "arquivo": "32t1uok6j51j49q6irug6ahjva.epk_dec",
+  "linhas": [
+    {
+      "en": "In the yard of my house, there is a shed and a dojo.[lr]",
+      "jp": "　我が家の庭には、土蔵と道場がある。[lr]",
+      "Pt-br": "No quintal da minha casa, tem um galpão e um dojô.[lr]",
+      "id": 5669,
+      "epk_id": "2467",
+      "label": "$$$message_0015_0000_0000$$$"
+    },
+    {
+      "en": "I'm not sure if they were here before Kiritsugu moved in, or if he built them after he acquired the property.[lr]",
+      "jp": "　切嗣が住みつく前からあったのか、切嗣が屋敷を譲り受けてから造ったのか。[lr]",
+      "Pt-br": "Não tenho certeza se eles já estavam aqui antes de o Kiritsugu se mudar ou se ele os construiu depois que adquiriu a propriedade.[lr]",
+      "id": 5670,
+      "epk_id": "2468",
+      "label": "$$$message_0015_0000_0001$$$"
+    },
+    {
+      "en": "In any case, whoever built them had bold taste.",
+      "jp": "　どちらにせよ、剛胆な趣味と言えるだろう。",
+      "Pt-br": "De qualquer forma, quem quer que os tenha construído tinha um gosto ousado.",
+      "id": 5671,
+      "epk_id": "2469",
+      "label": "$$$message_0015_0000_0002$$$"
+    },
+    {
+      "en": "\"Dojo aside, that shed... It feels like it was meant to be a brewery or a pawnshop.\"[lr]",
+      "jp": "「……道場はともかく、土蔵はなあ……造酒屋か質屋みたいだ」[lr]",
+      "Pt-br": "\"Tirando o dojô, esse galpão... Ele tem cara de ter sido feito para ser uma cervejaria ou uma loja de penhores.\"[lr]",
+      "id": 5672,
+      "epk_id": "2470",
+      "label": "$$$message_0015_0001_0000$$$"
+    },
+    {
+      "en": "\"Brewery? Pawnshop?\"[lr]",
+      "jp": "「ツクリザカヤ？　シチヤ？」[lr]",
+      "Pt-br": "\"Cervejaria? Loja de penhores?\"[lr]",
+      "id": 5673,
+      "epk_id": "2471",
+      "label": "$$$message_0015_0001_0001$$$"
+    },
+    {
+      "en": "\"Hm?\"[lr]",
+      "jp": "「ん？」[lr]",
+      "Pt-br": "\"Hum?\"[lr]",
+      "id": 5674,
+      "epk_id": "2472",
+      "label": "$$$message_0015_0001_0002$$$"
+    },
+    {
+      "en": "I turn to the sudden voice and see Illya looking puzzled.",
+      "jp": "　突然の声に振り向くと、イリヤが首を傾げていた。",
+      "Pt-br": "Viro-me para a voz repentina e vejo a Illya com um olhar confuso.",
+      "id": 5675,
+      "epk_id": "2473",
+      "label": "$$$message_0015_0001_0003$$$"
+    },
+    {
+      "en": "\"A pawnshop is a pfandhaus, right?\"[lr]",
+      "jp": "「シチヤっていうのはプファンドハウスのことよね」[lr]",
+      "Pt-br": "\"Uma loja de penhores é uma pfandhaus, não é?\"[lr]",
+      "id": 5676,
+      "epk_id": "2474",
+      "label": "$$$message_0015_0002_0000$$$"
+    },
+    {
+      "en": "\"Yeah. I've never been to one. I heard there's a well-known one in one of the back alleys of the shopping district, though.\"[lr]",
+      "jp": "「ああ。俺はお世話になってないけどな。商店街の裏路地の方に、名物的な質屋があるって話だけど」[lr]",
+      "Pt-br": "\"Sim. Eu nunca fui a uma. Mas eu ouvi dizer que tem uma bem conhecida em um dos becos do distrito comercial.\"[lr]",
+      "id": 5677,
+      "epk_id": "2475",
+      "label": "$$$message_0015_0002_0001$$$"
+    },
+    {
+      "en": "\"I know it. The person at the fish store said that 'little Miss Tohsaka loves going there.'\"",
+      "jp": "「知ってるわ。トオサカのお嬢さんが愛用してるって、魚屋の店員が言ってたもの」",
+      "Pt-br": "\"Eu a conheço. A pessoa da peixaria disse que a 'senhorita Tohsaka adora ir lá'.\"",
+      "id": 5678,
+      "epk_id": "2476",
+      "label": "$$$message_0015_0002_0002$$$"
+    },
+    {
+      "en": "\"What...?\"[lr]",
+      "jp": "「なに……？」[lr]",
+      "Pt-br": "\"O quê...?\"[lr]",
+      "id": 5679,
+      "epk_id": "2477",
+      "label": "$$$message_0015_0003_0000$$$"
+    },
+    {
+      "en": "Tohsaka goes to a pawnshop...?[lr]",
+      "jp": "　遠坂が質屋に通っている……？[lr]",
+      "Pt-br": "A Tohsaka vai a uma loja de penhores...?[lr]",
+      "id": 5680,
+      "epk_id": "2478",
+      "label": "$$$message_0015_0003_0001$$$"
+    },
+    {
+      "en": "Don't tell me she's been pinching pennies so hard that she's resorted to pawning off the family jewels...",
+      "jp": "　まさか、遠坂は爪に火を灯し、先祖代々の宝石を質に入れて日々のたつきを[line len=3]",
+      "Pt-br": "Não me diga que ela está economizando tanto dinheiro a ponto de ter que penhorar as joias da família...",
+      "id": 5681,
+      "epk_id": "2479",
+      "label": "$$$message_0015_0003_0002$$$"
+    },
+    {
+      "en": "\"No, not like that, Shirou.[lr]",
+      "jp": "「ううん、そっちの方じゃないわシロウ。[lr]",
+      "Pt-br": "\"Não, não é desse jeito, Shirou.[lr]",
+      "id": 5682,
+      "epk_id": "2480",
+      "label": "$$$message_0015_0004_0000$$$"
+    },
+    {
+      "en": "Rin is looking for unclaimed jewels. It goes against custom, but old jewels abandoned by their former owners are more effective in magecraft.\"",
+      "jp": "　リンの狙いは質流れの宝石なんでしょうね。流儀に反するけど、魔術の用途によっては“前の持ち主が手放した”古い宝石の方が効果があるし」",
+      "Pt-br": "A Rin está procurando por joias não reclamadas. Vai contra o costume, mas joias velhas abandonadas pelos seus antigos donos são mais eficazes na magia.\"",
+      "id": 5683,
+      "epk_id": "2481",
+      "label": "$$$message_0015_0004_0001$$$"
+    },
+    {
+      "en": "\"Hm... Like going to the shrine when the spiritual energy is strongest?\"[lr]",
+      "jp": "「むむ。……それは、丑の刻参りとか、そういうたぐいの用途だろうか……？」[lr]",
+      "Pt-br": "\"Hrum... Tipo ir ao santuário quando a energia espiritual está mais forte?\"[lr]",
+      "id": 5684,
+      "epk_id": "2482",
+      "label": "$$$message_0015_0005_0000$$$"
+    },
+    {
+      "en": "\"I'll leave it to your imagination. But imagine how strong the jewels of an old madam who died a violent death would be.\"",
+      "jp": "「ご想像にお任せするわ。どうせなら非業の死を遂げた貴婦人の持ち物とか最高だけど？」",
+      "Pt-br": "\"Vou deixar isso para a sua imaginação. Mas imagine o quão forte seriam as joias de uma velha madame que teve uma morte violenta.\"",
+      "id": 5685,
+      "epk_id": "2483",
+      "label": "$$$message_0015_0005_0001$$$"
+    },
+    {
+      "en": "...That does sound terrifying.[lr]",
+      "jp": "　……恐ろしい話を聞いてしまった。[lr]",
+      "Pt-br": "...Isso soa aterrorizante mesmo.[lr]",
+      "id": 5686,
+      "epk_id": "2484",
+      "label": "$$$message_0015_0006_0000$$$"
+    },
+    {
+      "en": "But, I see.[lr]",
+      "jp": "　しかし、そうか。[lr]",
+      "Pt-br": "Mas, entendo.[lr]",
+      "id": 5687,
+      "epk_id": "2485",
+      "label": "$$$message_0015_0006_0001$$$"
+    },
+    {
+      "en": "I sometimes wonder where Tohsaka gets all those precious gems from. She even uses pawn shops, huh... I might end up there sometime, too...",
+      "jp": "　時々、どっからあれだけの宝石を仕入れてくるのかと思っていたが、質屋まで利用していたのか……そのうち俺も貢がされそうだ……。",
+      "Pt-br": "Às vezes me pergunto de onde a Tohsaka tira todas aquelas joias preciosas. Então ela também usa lojas de penhores... Posso acabar parando por lá também alguma hora...",
+      "id": 5688,
+      "epk_id": "2486",
+      "label": "$$$message_0015_0006_0002$$$"
+    },
+    {
+      "en": "\"Hey, by the way,[lr]",
+      "jp": "「ねね、ところでシロウ？[lr]",
+      "Pt-br": "\"Ei, por falar nisso,[lr]",
+      "id": 5689,
+      "epk_id": "2487",
+      "label": "$$$message_0015_0007_0000$$$"
+    },
+    {
+      "en": "what's a brewery?\"[lr]",
+      "jp": "　ツクリザカヤって何？」[lr]",
+      "Pt-br": "o que é uma cervejaria?\"[lr]",
+      "id": 5690,
+      "epk_id": "2488",
+      "label": "$$$message_0015_0007_0001$$$"
+    },
+    {
+      "en": "\"Huh? Oh, the thing you make sake in. A manufacturer of alcohol.\"[lr]",
+      "jp": "「え？　ああ、酒造家のことだよ。アルコール製造業者」[lr]",
+      "Pt-br": "\"Hã? Ah, aquilo em que você faz saquê. Uma fabricante de álcool.\"[lr]",
+      "id": 5691,
+      "epk_id": "2489",
+      "label": "$$$message_0015_0007_0002$$$"
+    },
+    {
+      "en": "\"Oh, like a weinkellerei or a brennerei. [cacheimage storage=イリヤ11c(中)][wvl][chgfg time=300 storage=イリヤ11c(中) textoff=0]You use rice to make alcohol in this country, right?\"",
+      "jp": "「なるほど、ヴァインケラーライやブレンネライのことね。[cacheimage storage=イリヤ11c(中)][wvl][chgfg time=300 storage=イリヤ11c(中) textoff=0]この国ではライスアルコホールを作ってるんだよね」",
+      "Pt-br": "\"Ah, tipo uma weinkellerei ou uma brennerei. [cacheimage storage=イリヤ11c(中)][wvl][chgfg time=300 storage=イリヤ11c(中) textoff=0]Vocês usam arroz para fazer álcool neste país, não é?\"",
+      "id": 5692,
+      "epk_id": "2490",
+      "label": "$$$message_0015_0007_0003$$$"
+    },
+    {
+      "en": "Illya must be talking about nihonshu, or \"sake,\" as it's often called abroad.[lr]",
+      "jp": "　イリヤのいってるのは日本酒のことか。[lr]",
+      "Pt-br": "A Illya deve estar falando sobre nihonshu, ou \"saquê\", como costuma ser chamado no exterior.[lr]",
+      "id": 5693,
+      "epk_id": "2491",
+      "label": "$$$message_0015_0008_0000$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=イリヤ05a(中) textoff=0]Rice alcohol... It sounds like pickling rice in shochu, like when you make plum liqueur.",
+      "jp": "　[chgfg time=300 storage=イリヤ05a(中) textoff=0]ライスアルコホール……っていわれると、梅酒みたいに米が焼酎に漬けられてるみたいに聞こえる。",
+      "Pt-br": "[chgfg time=300 storage=イリヤ05a(中) textoff=0]Álcool de arroz... Parece com conservar arroz no shochu, como quando você faz licor de ameixa.",
+      "id": 5694,
+      "epk_id": "2492",
+      "label": "$$$message_0015_0008_0001$$$"
+    },
+    {
+      "en": "\"There's shochu too, not just refined rice wine.\"[lr]",
+      "jp": "「清酒だけじゃなくて、焼酎とかもあるけど」[lr]",
+      "Pt-br": "\"Tem o shochu também, e não apenas o vinho de arroz refinado.\"[lr]",
+      "id": 5695,
+      "epk_id": "2493",
+      "label": "$$$message_0015_0009_0000$$$"
+    },
+    {
+      "en": "\"Huh... So the shed was meant to be used that way.\"[lr]",
+      "jp": "「ふーん……蔵ってやっぱりそういうコトに使うのね」[lr]",
+      "Pt-br": "\"Hã... Então o galpão foi feito para ser usado desse jeito.\"[lr]",
+      "id": 5696,
+      "epk_id": "2494",
+      "label": "$$$message_0015_0009_0001$$$"
+    },
+    {
+      "en": "Illya sounds oddly impressed.[lr]",
+      "jp": "　イリヤが妙に感心して頷いている。[lr]",
+      "Pt-br": "A Illya parece estranhamente impressionada.[lr]",
+      "id": 5697,
+      "epk_id": "2495",
+      "label": "$$$message_0015_0009_0002$$$"
+    },
+    {
+      "en": "...She does own a castle. Maybe the Einzbern house...",
+      "jp": "　……あのお城の主だからな、もしかするとアインツベルン一族は……",
+      "Pt-br": "...Ela possui um castelo, afinal. Talvez a casa dos Einzbern...",
+      "id": 5698,
+      "epk_id": "2496",
+      "label": "$$$message_0015_0009_0003$$$"
+    },
+    {
+      "en": "\"Hey... [cacheimage storage=イリヤ07a(中)][wvl][chgfg time=300 storage=イリヤ07a(中) textoff=0]Do you have a wine cellar or a brewery in your castle, Illya?\"[lr]",
+      "jp": "「なぁ……[cacheimage storage=イリヤ07a(中)][wvl][chgfg time=300 storage=イリヤ07a(中) textoff=0]イリヤの城にもそういう、蔵とか醸造所ってあるのか？」[lr]",
+      "Pt-br": "\"Ei... [cacheimage storage=イリヤ07a(中)][wvl][chgfg time=300 storage=イリヤ07a(中) textoff=0]Você tem uma adega de vinhos ou uma cervejaria no seu castelo, Illya?\"[lr]",
+      "id": 5699,
+      "epk_id": "2497",
+      "label": "$$$message_0015_0010_0000$$$"
+    },
+    {
+      "en": "\"Huh? Which castle are you talking about?\"[lr]",
+      "jp": "「え？　こっちのお城？　あっちのお城？」[lr]",
+      "Pt-br": "\"Hã? De qual castelo você está falando?\"[lr]",
+      "id": 5700,
+      "epk_id": "2498",
+      "label": "$$$message_0015_0010_0001$$$"
+    },
+    {
+      "en": "Argh, this is the problem with talking to mega-rich people.",
+      "jp": "　こっちあっちって[line len=3]ああもう、大富豪様のちびっこの仰ることは違う。",
+      "Pt-br": "Argh, esse é o problema de se conversar com pessoas super ricas.",
+      "id": 5701,
+      "epk_id": "2499",
+      "label": "$$$message_0015_0010_0002$$$"
+    },
+    {
+      "en": "\"The castle in Fuyuki is a vacation home. We do have an underground weinkeller, but it isn't used at all.\"[lr]",
+      "jp": "「こっちのお城は別荘だから、地下にヴァインケラー[line len=3]つまりはワインセラーがあるだけね。それも全然使ってないけど」[lr]",
+      "Pt-br": "\"O castelo em Fuyuki é uma casa de férias. Nós temos um weinkeller subterrâneo, mas ele não é usado de forma alguma.\"[lr]",
+      "id": 5702,
+      "epk_id": "2500",
+      "label": "$$$message_0015_0011_0000$$$"
+    },
+    {
+      "en": "\"What about the one in your country?\"[lr]",
+      "jp": "「じゃあイリヤのお国の方にはあるのか？」[lr]",
+      "Pt-br": "\"E quanto àquele no seu país?\"[lr]",
+      "id": 5703,
+      "epk_id": "2501",
+      "label": "$$$message_0015_0011_0001$$$"
+    },
+    {
+      "en": "\"We don't have the climate for winemaking...but we do have a distillery.\"[lr]",
+      "jp": "「あそこはワインが作れるような気候じゃないから……でも、蒸留所はあったわ」[lr]",
+      "Pt-br": "\"Nós não temos o clima para fazer vinhos... Mas nós temos uma destilaria.\"[lr]",
+      "id": 5704,
+      "epk_id": "2502",
+      "label": "$$$message_0015_0011_0002$$$"
+    },
+    {
+      "en": "\"Huh. You make whisky or something?\"",
+      "jp": "「へぇ、ウィスキーとか作ってたのか？」",
+      "Pt-br": "\"Hrum. Vocês fazem uísque ou algo do tipo?\"",
+      "id": 5705,
+      "epk_id": "2503",
+      "label": "$$$message_0015_0011_0003$$$"
+    },
+    {
+      "en": "\"I think it would be more accurate to call it an eau de vie.[lr]",
+      "jp": "「オ・ド・ヴィって意味なら正解[line len=3]かな？[lr]",
+      "Pt-br": "\"Seria mais preciso chamá-lo de eau de vie.[lr]",
+      "id": 5706,
+      "epk_id": "2504",
+      "label": "$$$message_0015_0012_0000$$$"
+    },
+    {
+      "en": "We supply a lot of magical reagents, and we can never create enough alcohols to satisfy the demand.\"[lr]",
+      "jp": "　魔術用の素材は自前で調達するから、アルコール類はどれだけあっても足りないんだし」[lr]",
+      "Pt-br": "Nós fornecemos muitos reagentes mágicos, e nós nunca conseguimos criar álcool suficiente para satisfazer a demanda.\"[lr]",
+      "id": 5707,
+      "epk_id": "2505",
+      "label": "$$$message_0015_0012_0001$$$"
+    },
+    {
+      "en": "\"Huh. So it's a factory for experimental reagents.\"[lr]",
+      "jp": "「そうか、そういう実験材料の工房だったのか」[lr]",
+      "Pt-br": "\"Hrum. Então é uma fábrica de reagentes experimentais.\"[lr]",
+      "id": 5708,
+      "epk_id": "2506",
+      "label": "$$$message_0015_0012_0002$$$"
+    },
+    {
+      "en": "Researchers would need a lot of chemicals to preserve specimens, among other things.",
+      "jp": "　標本のアルコール漬けとか、やたらに薬品を使うからな。",
+      "Pt-br": "Os pesquisadores precisam de muitos produtos químicos para preservar espécimes, entre outras coisas.",
+      "id": 5709,
+      "epk_id": "2507",
+      "label": "$$$message_0015_0012_0003$$$"
+    },
+    {
+      "en": "\"You don't use your cellar to store any spirits.\"[lr]",
+      "jp": "「シロウの蔵もお酒には関係ないわよね」[lr]",
+      "Pt-br": "\"Vocês não usam a adega de vocês para armazenar nenhuma bebida alcoólica.\"[lr]",
+      "id": 5710,
+      "epk_id": "2508",
+      "label": "$$$message_0015_0013_0000$$$"
+    },
+    {
+      "en": "\"Even if I made it I don't really drink alcohol. It's just for storage now.\"[lr]",
+      "jp": "「俺、作れても酒は飲まないし、あそこは物置だから」[lr]",
+      "Pt-br": "\"Mesmo que eu fizesse, não costumo beber álcool. Serve apenas para armazenamento agora.\"[lr]",
+      "id": 5711,
+      "epk_id": "2509",
+      "label": "$$$message_0015_0013_0001$$$"
+    },
+    {
+      "en": "\"Well, it's your workshop... [cacheimage storage=イリヤ05a(中)][wvl][movefg opacity=0 left=368 top=146 time=380 accel=2 storage=イリヤ05a(中) textoff=0][wait canskip=false time=300][move time=230 path=(374,210,255)(307,185,255) accel=2 storage=イリヤ11a(中) spline=1 textoff=0][wm canskip=0][wm canskip=0][move time=230 path=(278,222,255)(230,185,255) accel=2 storage=イリヤ11a(中) spline=1 textoff=0][wvl]Right, Big Brother?[wm canskip=0]\"",
+      "jp": "「シロウの工房なんだよね[line len=3][cacheimage storage=イリヤ05a(中)][wvl][movefg opacity=0 left=368 top=146 time=380 accel=2 storage=イリヤ05a(中) textoff=0][wait canskip=false time=300][move time=230 path=(374,210,255)(307,185,255) accel=2 storage=イリヤ11a(中) spline=1 textoff=0][wm canskip=0][wm canskip=0][move time=230 path=(278,222,255)(230,185,255) accel=2 storage=イリヤ11a(中) spline=1 textoff=0][wvl]ね、おにいちゃん？[wm canskip=0]」",
+      "Pt-br": "\"Bem, essa é a sua oficina... [cacheimage storage=イリヤ05a(中)][wvl][movefg opacity=0 left=368 top=146 time=380 accel=2 storage=イリヤ05a(中) textoff=0][wait canskip=false time=300][move time=230 path=(374,210,255)(307,185,255) accel=2 storage=イリヤ11a(中) spline=1 textoff=0][wm canskip=0][wm canskip=0][move time=230 path=(278,222,255)(230,185,255) accel=2 storage=イリヤ11a(中) spline=1 textoff=0][wvl]Certo, Onii-chan?[wm canskip=0]\"",
+      "id": 5712,
+      "epk_id": "2510",
+      "label": "$$$message_0015_0013_0002$$$"
+    },
+    {
+      "en": "\"Ngh...\"[lr]",
+      "jp": "「っ[line len=3]」[lr]",
+      "Pt-br": "\"Ngh...\"[lr]",
+      "id": 5713,
+      "epk_id": "2511",
+      "label": "$$$message_0015_0014_0000$$$"
+    },
+    {
+      "en": "I'm startled by the unexpected change in the way she addresses me.[lr]",
+      "jp": "　不意に呼び方が変わるとびっくりする。[lr]",
+      "Pt-br": "Fico surpreso com a mudança repentina na forma como ela se dirige a mim.[lr]",
+      "id": 5714,
+      "epk_id": "2512",
+      "label": "$$$message_0015_0014_0001$$$"
+    },
+    {
+      "en": "And with that smile, too... She could convince me to do anything with that.",
+      "jp": "　おまけにあの笑顔。……どんなワガママにも頷いてしまいそうだ。",
+      "Pt-br": "E com esse sorriso também... Ela poderia me convencer a fazer qualquer coisa com isso.",
+      "id": 5715,
+      "epk_id": "2513",
+      "label": "$$$message_0015_0014_0002$$$"
+    },
+    {
+      "en": "\"Can I look at your shed?\"[lr]",
+      "jp": "「おにいちゃんの土蔵、お邪魔して良いかな？」[lr]",
+      "Pt-br": "\"Posso dar uma olhada no seu galpão?\"[lr]",
+      "id": 5716,
+      "epk_id": "2514",
+      "label": "$$$message_0015_0015_0000$$$"
+    },
+    {
+      "en": "\"...Sure. It isn't anything interesting, though.\"[lr]",
+      "jp": "「…………いいけど。面白いもの、ないぞ？」[lr]",
+      "Pt-br": "\"...Claro. Não tem nada de interessante, no entanto.\"[lr]",
+      "id": 5717,
+      "epk_id": "2515",
+      "label": "$$$message_0015_0015_0001$$$"
+    },
+    {
+      "en": "\"Hehehe. Don't worry about it. I just wanted to take a look at your workshop!\"",
+      "jp": "「ふふふ、いいのいいの、もうちょっとシロウの工房を観察したかったからねー」",
+      "Pt-br": "\"Hehehe. Não se preocupe com isso. Eu só queria dar uma olhada na sua oficina!\"",
+      "id": 5718,
+      "epk_id": "2516",
+      "label": "$$$message_0015_0015_0002$$$"
+    },
+    {
+      "en": "\"Then go ahead. It's a little dusty.\"[lr]",
+      "jp": "「どうぞ、ちょっと埃っぽいけどな」[lr]",
+      "Pt-br": "\"Então vá em frente. É um pouco empoeirado.\"[lr]",
+      "id": 5719,
+      "epk_id": "2517",
+      "label": "$$$message_0015_0016_0000$$$"
+    },
+    {
+      "en": "\"Yay! Thanks, Shirou!\"[lr]",
+      "jp": "「わーい、ありがとう、シロウ！」[lr]",
+      "Pt-br": "\"Eba! Obrigada, Shirou!\"[lr]",
+      "id": 5720,
+      "epk_id": "2518",
+      "label": "$$$message_0015_0016_0001$$$"
+    },
+    {
+      "en": "Her joy is infectious.[lr]",
+      "jp": "　こんな風に喜ばれると、こっちも嬉しくなる。[lr]",
+      "Pt-br": "A alegria dela é contagiante.[lr]",
+      "id": 5721,
+      "epk_id": "2519",
+      "label": "$$$message_0015_0016_0002$$$"
+    },
+    {
+      "en": "I'm glad to see someone else likes my workshop, no matter how shoddy it is.",
+      "jp": "　どんなに不出来でも、自分の工房で喜んでもらえるのは嬉しいのだ。",
+      "Pt-br": "Fico feliz em ver que outra pessoa gosta da minha oficina, não importa o quão precária ela seja.",
+      "id": 5722,
+      "epk_id": "2520",
+      "label": "$$$message_0015_0016_0003$$$"
+    },
+    {
+      "en": "\"Wow.\"[lr]",
+      "jp": "「うわ」[lr]",
+      "Pt-br": "\"Uau.\"[lr]",
+      "id": 5723,
+      "epk_id": "2521",
+      "label": "$$$message_0015_0017_0000$$$"
+    },
+    {
+      "en": "Illya runs inside.[lr]",
+      "jp": "　中に駆け込むイリヤ。[lr]",
+      "Pt-br": "A Illya entra correndo.[lr]",
+      "id": 5724,
+      "epk_id": "2522",
+      "label": "$$$message_0015_0017_0001$$$"
+    },
+    {
+      "en": "She stares at the piles of junk.",
+      "jp": "　積んであるガラクタの山をしげしげと眺めている。",
+      "Pt-br": "Ela olha para as pilhas de lixo.",
+      "id": 5725,
+      "epk_id": "2523",
+      "label": "$$$message_0015_0017_0002$$$"
+    },
+    {
+      "en": "\"Did you collect all this stuff?\"[lr]",
+      "jp": "「これ、シロウが全部集めてきたの？」[lr]",
+      "Pt-br": "\"Você colecionou todas essas coisas?\"[lr]",
+      "id": 5726,
+      "epk_id": "2524",
+      "label": "$$$message_0015_0018_0000$$$"
+    },
+    {
+      "en": "\"Half of it is mine, and half of it is Fuji-nee's. The random stuff is [font italic=true]all[font italic=false] hers. It keeps growing every time I see it.\"[lr]",
+      "jp": "「半分俺、半分藤ねえってところかな。関係ないものはもっぱら藤ねえ。気が付くと増えてる」[lr]",
+      "Pt-br": "\"Metade disso é meu e metade da Fuji-nee. As coisas aleatórias são [font italic=true]todas[font italic=false] dela. Elas continuam crescendo cada vez que eu as vejo.\"[lr]",
+      "id": 5727,
+      "epk_id": "2525",
+      "label": "$$$message_0015_0018_0001$$$"
+    },
+    {
+      "en": "\"I can totally imagine Taiga having a habit like that, [cacheimage storage=イリヤ06e(遠)][wvl][chgfg storage=イリヤ06e(遠) time=300 textoff=0]yeah.\"",
+      "jp": "「タイガだったらそういう習性があってもおかしくなさそうよね、[cacheimage storage=イリヤ06e(遠)][wvl][chgfg storage=イリヤ06e(遠) time=300 textoff=0]うんうん」",
+      "Pt-br": "\"Eu consigo muito bem imaginar a Taiga com um hábito desses, [cacheimage storage=イリヤ06e(遠)][wvl][chgfg storage=イリヤ06e(遠) time=300 textoff=0]é.\"",
+      "id": 5728,
+      "epk_id": "2526",
+      "label": "$$$message_0015_0018_0002$$$"
+    },
+    {
+      "en": "[se storage=se422.wav]Illya starts rifling [se storage=se250.wav]through the junk[se storage=se406.wav].[lr]",
+      "jp": "　[se storage=se422.wav]がさがさとガラクタを[se storage=se250.wav]漁り出すイリヤ[se storage=se406.wav]。[lr]",
+      "Pt-br": "[se storage=se422.wav]A Illya começa a vasculhar [se storage=se250.wav]pelo lixo[se storage=se406.wav].[lr]",
+      "id": 5729,
+      "epk_id": "2527",
+      "label": "$$$message_0015_0019_0000$$$"
+    },
+    {
+      "en": "[se storage=se359.wav]There's a lot of dust, so [se storage=se286.wav]I'm worried she'll get her clothes dirty.",
+      "jp": "　[se storage=se359.wav]埃が多いんで、イリヤの[se storage=se286.wav]服が汚れないか心配だ。",
+      "Pt-br": "[se storage=se359.wav]Tem muita poeira, então [se storage=se286.wav]estou preocupado que ela suje as roupas dela.",
+      "id": 5730,
+      "epk_id": "2528",
+      "label": "$$$message_0015_0019_0001$$$"
+    },
+    {
+      "en": "\"Illya, I have gloves if you want to look through them.\"[lr]",
+      "jp": "「イリヤ、探検するなら軍手があるけど」[lr]",
+      "Pt-br": "\"Illya, tenho umas luvas se você quiser dar uma olhada neles.\"[lr]",
+      "id": 5731,
+      "epk_id": "2529",
+      "label": "$$$message_0015_0020_0000$$$"
+    },
+    {
+      "en": "\"It's okay... [cacheimage storage=イリヤ10c(遠)][wvl][chgfg time=200 storage=イリヤ10c(遠) textoff=0 last=イリヤ11d(遠)]Oooh, [cacheimage storage=イリヤ10c(遠)][wvl canskip=false time=300][movefg opacity=255 left=379 top=202 time=300 accel=3 storage=イリヤ10c(遠) textoff=0]what's this?[wm canskip=0]\"",
+      "jp": "「大丈夫よ……[cacheimage storage=イリヤ10c(遠)][wvl][chgfg time=200 storage=イリヤ10c(遠) textoff=0 last=イリヤ11d(遠)]おおー、[cacheimage storage=イリヤ10c(遠)][wvl canskip=false time=300][movefg opacity=255 left=379 top=202 time=300 accel=3 storage=イリヤ10c(遠) textoff=0]これなに？　シロウ[wm canskip=0]」",
+      "Pt-br": "\"Tudo bem... [cacheimage storage=イリヤ10c(遠)][wvl][chgfg time=200 storage=イリヤ10c(遠) textoff=0 last=イリヤ11d(遠)]Oooh, [cacheimage storage=イリヤ10c(遠)][wvl canskip=false time=300][movefg opacity=255 left=379 top=202 time=300 accel=3 storage=イリヤ10c(遠) textoff=0]o que é isso?[wm canskip=0]\"",
+      "id": 5732,
+      "epk_id": "2530",
+      "label": "$$$message_0015_0020_0001$$$"
+    },
+    {
+      "en": "[move time=200 path=(348,240,255)(321,345,255) accel=-2 storage=イリヤ10c(遠) spline=1 textoff=0]With a \"heave-[wm canskip=0][movefg opacity=0 left=379 top=202 time=300 accel=3 storage=イリヤ10c(遠) textoff=0][movefg opacity=255 left=369 top=172 time=300 accel=4 storage=イリヤ08d(遠) textoff=0]ho,\" [wm canskip=0][wm canskip=0]Illya pulls out something round.",
+      "jp": "　[move time=200 path=(348,240,255)(321,345,255) accel=-2 storage=イリヤ10c(遠) spline=1 textoff=0]よっこら[wm canskip=0][movefg opacity=0 left=379 top=202 time=300 accel=3 storage=イリヤ10c(遠) textoff=0][movefg opacity=255 left=369 top=172 time=300 accel=4 storage=イリヤ08d(遠) textoff=0]しょ、[wm canskip=0][wm canskip=0]とイリヤが丸いモノを引きずり出す。",
+      "Pt-br": "[move time=200 path=(348,240,255)(321,345,255) accel=-2 storage=イリヤ10c(遠) spline=1 textoff=0]Com um esforço [wm canskip=0][movefg opacity=0 left=379 top=202 time=300 accel=3 storage=イリヤ10c(遠) textoff=0][movefg opacity=255 left=369 top=172 time=300 accel=4 storage=イリヤ08d(遠) textoff=0], [wm canskip=0][wm canskip=0]a Illya arranca algo redondo.",
+      "id": 5733,
+      "epk_id": "2531",
+      "label": "$$$message_0015_0021_0000$$$"
+    },
+    {
+      "en": "\"It's a shichirin... Why would Fuji-nee put this here?\"[lr]",
+      "jp": "「それは七輪だ……藤ねえ、なんだってそんな物を」[lr]",
+      "Pt-br": "\"É um shichirin... Por que a Fuji-nee colocaria isso aqui?\"[lr]",
+      "id": 5734,
+      "epk_id": "2532",
+      "label": "$$$message_0015_0022_0000$$$"
+    },
+    {
+      "en": "\"A shichirin? [cacheimage storage=イリヤ02a(遠)][wvl canskip=false time=400][chgfg time=300 storage=イリヤ02a(遠) textoff=0]Is that like a stove?\"[lr]",
+      "jp": "「シチリン？　[cacheimage storage=イリヤ02a(遠)][wvl canskip=false time=400][chgfg time=300 storage=イリヤ02a(遠) textoff=0]コンロの仲間？」[lr]",
+      "Pt-br": "\"Um shichirin? [cacheimage storage=イリヤ02a(遠)][wvl canskip=false time=400][chgfg time=300 storage=イリヤ02a(遠) textoff=0]É tipo um fogão?\"[lr]",
+      "id": 5735,
+      "epk_id": "2533",
+      "label": "$$$message_0015_0022_0001$$$"
+    },
+    {
+      "en": "\"Yeah. You burn charcoal inside, then cover it with a grill and cook on that. I don't own any charcoal, though.\"",
+      "jp": "「そう、その中に練炭を入れて上に網を被せて料理をする……にしても練炭なんか持ってないぞ、俺」",
+      "Pt-br": "\"Sim. Você queima o carvão lá dentro, depois cobre ele com uma grelha e cozinha em cima dela. No entanto, eu não possuo nenhum carvão.\"",
+      "id": 5736,
+      "epk_id": "2534",
+      "label": "$$$message_0015_0022_0002$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=イリヤ06d(遠) textoff=0]She was probably thinking we could grill some squid on it.[lr]",
+      "jp": "　[chgfg time=300 storage=イリヤ06d(遠) textoff=0]これでスルメでも焼こうと思っていたのだろう。[lr]",
+      "Pt-br": "[chgfg time=300 storage=イリヤ06d(遠) textoff=0]Ela devia estar pensando que nós poderíamos grelhar lulas nisso.[lr]",
+      "id": 5737,
+      "epk_id": "2535",
+      "label": "$$$message_0015_0023_0000$$$"
+    },
+    {
+      "en": "Well...it isn't broken so we could use it any time. And it's fall right now. Pacific saury might be a better idea than squid.",
+      "jp": "　まあ……割れていないからすぐ使えるな。秋だし。どっちかって言うと、スルメより[ruby text=さんま o2o=1]秋刀魚がいい。",
+      "Pt-br": "Bem... Ele não está quebrado, então podemos usá-lo a qualquer momento. E agora é outono. Sauro do Pacífico seria uma ideia melhor do que lula.",
+      "id": 5738,
+      "epk_id": "2536",
+      "label": "$$$message_0015_0023_0001$$$"
+    },
+    {
+      "en": "\"Hmm... [cacheimage storage=イリヤ06g(遠)][wvl][chgfg time=300 storage=イリヤ06g(遠) textoff=0]Woooow, [cacheimage storage=イリヤ04a(遠)][wvl canskip=false time=400][chgfg time=300 storage=イリヤ04a(遠) textoff=0]there's so much stuff here.\"",
+      "jp": "「ふーん……[cacheimage storage=イリヤ06g(遠)][wvl][chgfg time=300 storage=イリヤ06g(遠) textoff=0]わわわ、[cacheimage storage=イリヤ04a(遠)][wvl canskip=false time=400][chgfg time=300 storage=イリヤ04a(遠) textoff=0]いろいろあるー」",
+      "Pt-br": "\"Hmm... [cacheimage storage=イリヤ06g(遠)][wvl][chgfg time=300 storage=イリヤ06g(遠) textoff=0]Uaaaaau, [cacheimage storage=イリヤ04a(遠)][wvl canskip=false time=400][chgfg time=300 storage=イリヤ04a(遠) textoff=0]tem tanta coisa aqui.\"",
+      "id": 5739,
+      "epk_id": "2537",
+      "label": "$$$message_0015_0024_0000$$$"
+    },
+    {
+      "en": "[clfg time=300 rule=シャッター左から storage=イリヤ04a(遠) textoff=0]Illya puts down the shichirin [se storage=se422.wav]and resumes exploring the shed.[lr]",
+      "jp": "　[clfg time=300 rule=シャッター左から storage=イリヤ04a(遠) textoff=0]イリヤは七輪を下ろすと、[se storage=se422.wav]また探索を始める。[lr]",
+      "Pt-br": "[clfg time=300 rule=シャッター左から storage=イリヤ04a(遠) textoff=0]A Illya guarda o shichirin [se storage=se422.wav]e retoma a exploração pelo galpão.[lr]",
+      "id": 5740,
+      "epk_id": "2538",
+      "label": "$$$message_0015_0025_0000$$$"
+    },
+    {
+      "en": "...A hot water bottle, the heater portion of a kotatsu, [se storage=se300.wav]a vacuum cleaner nozzle... Even I'm impressed at the sheer variety of random junk.",
+      "jp": "　……湯たんぽ、コタツのヒーターだけ、[se storage=se300.wav]掃除機のノズル、一体何がここにあるのかと我ながら感心する。",
+      "Pt-br": "...Uma bolsa de água quente, a parte aquecida de um kotatsu, [se storage=se300.wav]o bocal de um aspirador de pó... Até eu estou impressionado com a imensa variedade de lixo aleatório.",
+      "id": 5741,
+      "epk_id": "2539",
+      "label": "$$$message_0015_0025_0001$$$"
+    },
+    {
+      "en": "\"Do you fix and use everything here?\"[lr]",
+      "jp": "「これ、全部を直して使うの？」[lr]",
+      "Pt-br": "\"Você conserta e usa tudo o que está aqui?\"[lr]",
+      "id": 5742,
+      "epk_id": "2540",
+      "label": "$$$message_0015_0026_0000$$$"
+    },
+    {
+      "en": "\"Not necessarily...but I want to try to repurpose as much as possible.\"[lr]",
+      "jp": "「そうでもないけど……出来る限り使い回したいと思ってる」[lr]",
+      "Pt-br": "\"Não necessariamente... Mas eu quero tentar reaproveitar o máximo possível.\"[lr]",
+      "id": 5743,
+      "epk_id": "2541",
+      "label": "$$$message_0015_0026_0001$$$"
+    },
+    {
+      "en": "\"Whew... Still, though.\"",
+      "jp": "「ふう……それにしても」",
+      "Pt-br": "\"Ufa... Mesmo assim.\"",
+      "id": 5744,
+      "epk_id": "2542",
+      "label": "$$$message_0015_0026_0002$$$"
+    },
+    {
+      "en": "\"So this is your workshop... Hmm.\"[lr]",
+      "jp": "「これがシロウの工房なのね……うーん」[lr]",
+      "Pt-br": "\"Então esta é a sua oficina... Hrum.\"[lr]",
+      "id": 5745,
+      "epk_id": "2543",
+      "label": "$$$message_0015_0027_0000$$$"
+    },
+    {
+      "en": "Illya walks around, examining everything.[lr]",
+      "jp": "　ぐるぐると辺りを見回すイリヤ。[lr]",
+      "Pt-br": "A Illya anda por ali, examinando tudo.[lr]",
+      "id": 5746,
+      "epk_id": "2544",
+      "label": "$$$message_0015_0027_0001$$$"
+    },
+    {
+      "en": "Complicated emotions flash across her face; at times she seems dissatisfied, other times she looks as if she wants to complain, but then becomes emotional.",
+      "jp": "　不満そうな、文句がありそうな、それでいて妙に感じ入っているような、複雑な顔をする。",
+      "Pt-br": "Emoções complicadas passam por seu rosto; às vezes ela parece insatisfeita, em outras vezes ela parece querer reclamar, mas depois fica emocionada.",
+      "id": 5747,
+      "epk_id": "2545",
+      "label": "$$$message_0015_0027_0002$$$"
+    },
+    {
+      "en": "\"What's this feeling... It isn't like her at all, but at the same time, it's really similar... Could it be...\"[lr]",
+      "jp": "「……なんだろ、この感じ……ぜんぜん似てないのに、すごく似てる……これって、もしかして……」[lr]",
+      "Pt-br": "\"Que sensação é essa... Não parece com ela de forma alguma, mas ao mesmo tempo é tão parecido... Poderia ser...\"[lr]",
+      "id": 5748,
+      "epk_id": "2546",
+      "label": "$$$message_0015_0028_0000$$$"
+    },
+    {
+      "en": "\"Illya...? Did you find something odd?\"[lr]",
+      "jp": "「イリヤ……？　何かおかしな所があるのか？」[lr]",
+      "Pt-br": "\"Illya...? Achou alguma coisa estranha?\"[lr]",
+      "id": 5749,
+      "epk_id": "2547",
+      "label": "$$$message_0015_0028_0001$$$"
+    },
+    {
+      "en": "\"...I don't know.[lr]",
+      "jp": "「……知らない、けど。[lr]",
+      "Pt-br": "\"...Não sei.[lr]",
+      "id": 5750,
+      "epk_id": "2548",
+      "label": "$$$message_0015_0028_0002$$$"
+    },
+    {
+      "en": "Hey Shirou, what happened here? Did some big magecraft take place here?\"",
+      "jp": "　ねえシロウ、ここって何かあった？　以前、おっきな魔術を使ったとか」",
+      "Pt-br": "Ei, Shirou, o que aconteceu aqui? Alguma magia grande ocorreu por aqui?\"",
+      "id": 5751,
+      "epk_id": "2549",
+      "label": "$$$message_0015_0028_0003$$$"
+    },
+    {
+      "en": "\"...? I practice Strengthening here, but I've never done anything big.[lr]",
+      "jp": "「……？　いや、強化の鍛錬はしているけど、大きな魔術を使ったコトなんてないぞ。[lr]",
+      "Pt-br": "\"...? Eu treino Reforço aqui, mas nunca fiz nada de grandioso.[lr]",
+      "id": 5752,
+      "epk_id": "2550",
+      "label": "$$$message_0015_0029_0000$$$"
+    },
+    {
+      "en": "If I had to say... Oh right, I think this is where Saber first showed up.\"",
+      "jp": "　あると言ったら……そうだ、セイバーが出てきたのはここだったっけ」",
+      "Pt-br": "Se fosse para apontar um lugar... Ah, é. Foi aqui que a Saber apareceu pela primeira vez.\"",
+      "id": 5753,
+      "epk_id": "2551",
+      "label": "$$$message_0015_0029_0001$$$"
+    },
+    {
+      "en": "\"So you summoned Saber here.[lr]",
+      "jp": "「セイバーの召喚場所だったんだ。[lr]",
+      "Pt-br": "\"Então você invocou a Saber aqui.[lr]",
+      "id": 5754,
+      "epk_id": "2552",
+      "label": "$$$message_0015_0030_0000$$$"
+    },
+    {
+      "en": "...That makes sense. You would be able to summon her here. Either the shed was built on top of a summoning circle, or it was placed here away from prying eyes. Only the previous summoner would know for sure, though.\"[lr]",
+      "jp": "　…………なるほどね。たしかにここでならセイバーを呼び出せるわ。召喚陣を刻んでから建てたのか、それとも人目につかない[ruby text=ここ o2o=1]土蔵を選んだのか。もう、前回の召喚者しか知らないコトでしょうけど」[lr]",
+      "Pt-br": "...Faz sentido. Você seria capaz de invocá-la aqui. Ou o galpão foi construído em cima de um círculo de invocação, ou foi colocado aqui longe de olhos curiosos. No entanto, só o invocador anterior saberia com certeza.\"[lr]",
+      "id": 5755,
+      "epk_id": "2553",
+      "label": "$$$message_0015_0030_0001$$$"
+    },
+    {
+      "en": "\"...?\"[lr]",
+      "jp": "「……？」[lr]",
+      "Pt-br": "\"...?\"[lr]",
+      "id": 5756,
+      "epk_id": "2554",
+      "label": "$$$message_0015_0030_0002$$$"
+    },
+    {
+      "en": "Illya sighs and mumbles in a quiet voice.",
+      "jp": "　イリヤは溜息をつくように、小声でぼそぼそと呟いている。",
+      "Pt-br": "A Illya suspira e murmura num tom baixo.",
+      "id": 5757,
+      "epk_id": "2555",
+      "label": "$$$message_0015_0030_0003$$$"
+    },
+    {
+      "en": "\"Well, it happened a long time ago. It doesn't matter now.[lr]",
+      "jp": "「ま、そんな昔話はどうでもいいわ。[lr]",
+      "Pt-br": "\"Bem, aconteceu muito tempo atrás. Não importa mais.[lr]",
+      "id": 5758,
+      "epk_id": "2556",
+      "label": "$$$message_0015_0031_0000$$$"
+    },
+    {
+      "en": "As for your grade... I'll give it a 10 out of 100.[lr]",
+      "jp": "　それより採点だけど……ま、十点ってところかな。[lr]",
+      "Pt-br": "Quanto à sua nota... Eu darei 10 em 100.[lr]",
+      "id": 5759,
+      "epk_id": "2557",
+      "label": "$$$message_0015_0031_0001$$$"
+    },
+    {
+      "en": "It's an interesting place, but you need to build up your workshop properly. Right now it's just a storage room.\"[lr]",
+      "jp": "　いろいろ面白かったけど、工房はもっとしっかりしなきゃダメよ。これじゃまるっきり物置じゃない」[lr]",
+      "Pt-br": "É um lugar interessante, mas você precisa montar a sua oficina adequadamente. Do jeito que está, é apenas um depósito de armazenamento.\"[lr]",
+      "id": 5760,
+      "epk_id": "2558",
+      "label": "$$$message_0015_0031_0002$$$"
+    },
+    {
+      "en": "\"Ugh, I know... It's just an old habit, but I think I've always thought training room and storage just go together.\"",
+      "jp": "「う、面目ない……昔からの習慣か、なんとなく物置と鍛錬場所は同義な気がして」",
+      "Pt-br": "\"Ugh, eu sei... É só um velho hábito, mas acho que eu sempre pensei que uma sala de treinamento e um depósito pudessem se misturar de boas.\"",
+      "id": 5761,
+      "epk_id": "2559",
+      "label": "$$$message_0015_0031_0003$$$"
+    },
+    {
+      "en": "\"Haah, that sounds like you, Shirou... Maybe I'll give you a hand.\"[lr]",
+      "jp": "「はぁ、やっぱりシロウはシロウよね……わたしが一肌脱がなきゃいけないのかしら」[lr]",
+      "Pt-br": "\"Haaah, isso é bem a sua cara, Shirou... Talvez eu te dê uma ajudinha.\"[lr]",
+      "id": 5762,
+      "epk_id": "2560",
+      "label": "$$$message_0015_0032_0000$$$"
+    },
+    {
+      "en": "\"...Wait, [cacheimage storage=イリヤ11a(遠)][wvl][chgfg time=300 storage=イリヤ11a(遠) textoff=0]you mean to renovate it?\"",
+      "jp": "「[line len=3]というと、[cacheimage storage=イリヤ11a(遠)][wvl][chgfg time=300 storage=イリヤ11a(遠) textoff=0]改造するとか？」",
+      "Pt-br": "\"...Espera, [cacheimage storage=イリヤ11a(遠)][wvl][chgfg time=300 storage=イリヤ11a(遠) textoff=0]você quer dizer reformá-lo?\"",
+      "id": 5763,
+      "epk_id": "2561",
+      "label": "$$$message_0015_0032_0001$$$"
+    },
+    {
+      "en": "\"Yeah. We'll have to move a lot of stuff around, but I can at least make it like my bedroom.\"[lr]",
+      "jp": "「そうよ。いろいろモノは運ぶけど、すぐにわたしの部屋くらいにはできるわ」[lr]",
+      "Pt-br": "\"Sim. Nós teremos que mudar muita coisa de lugar, mas eu posso pelo menos deixá-lo igual ao meu quarto.\"[lr]",
+      "id": 5764,
+      "epk_id": "2562",
+      "label": "$$$message_0015_0033_0000$$$"
+    },
+    {
+      "en": "Illya sounds confident.[lr]",
+      "jp": "　自信満々にイリヤは言う。[lr]",
+      "Pt-br": "A Illya soa confiante.[lr]",
+      "id": 5765,
+      "epk_id": "2563",
+      "label": "$$$message_0015_0033_0001$$$"
+    },
+    {
+      "en": "But her bedroom would mean...[lr]",
+      "jp": "　しかしイリヤの部屋って……[lr]",
+      "Pt-br": "Mas o quarto dela significaria...[lr]",
+      "id": 5766,
+      "epk_id": "2564",
+      "label": "$$$message_0015_0033_0002$$$"
+    },
+    {
+      "en": "Um, that bedroom?",
+      "jp": "　あの、イリヤの部屋ですか？",
+      "Pt-br": "Hum, aquele quarto?",
+      "id": 5767,
+      "epk_id": "2565",
+      "label": "$$$message_0015_0033_0003$$$"
+    },
+    {
+      "en": "\"I'll call Sella and Leys here to clean the place up and refurnish it. Yeah, it should take about three days...\"[lr]",
+      "jp": "「セラとリズを呼んでここを片づけて内装を変えて、そうね三日もあれば……」[lr]",
+      "Pt-br": "\"Vou chamar a Sella e a Leys para cá para que limpem este lugar e comprem móveis novos. É, deve levar uns três dias...\"[lr]",
+      "id": 5768,
+      "epk_id": "2566",
+      "label": "$$$message_0015_0034_0000$$$"
+    },
+    {
+      "en": "\"Hold on. [cacheimage storage=イリヤ07a(遠)][wvl][chgfg time=300 storage=イリヤ07a(遠) textoff=0]If we make this place look like your castle, I won't be able to relax.\"",
+      "jp": "「待った。[cacheimage storage=イリヤ07a(遠)][wvl][chgfg time=300 storage=イリヤ07a(遠) textoff=0]ここをあのお城の中みたいにされると、俺はすごく落ち着かない」",
+      "Pt-br": "\"Espera aí. [cacheimage storage=イリヤ07a(遠)][wvl][chgfg time=300 storage=イリヤ07a(遠) textoff=0]Se nós deixarmos esse lugar com a cara do seu castelo, eu não conseguirei relaxar.\"",
+      "id": 5769,
+      "epk_id": "2567",
+      "label": "$$$message_0015_0034_0001$$$"
+    },
+    {
+      "en": "It would be surreal to have the inside of this shed become all European, in the middle of a traditional Japanese mansion.[lr]",
+      "jp": "　こんな純和風の屋敷なのに、土蔵の中だけあんな西洋風になってるというのは冗談としか思えない。[lr]",
+      "Pt-br": "Seria surreal o interior deste galpão se tornar totalmente europeu no meio de uma mansão japonesa tradicional.[lr]",
+      "id": 5770,
+      "epk_id": "2568",
+      "label": "$$$message_0015_0035_0000$$$"
+    },
+    {
+      "en": "Imagine opening the shed door and being greeted with carpeting...",
+      "jp": "　土蔵を開けたら中に[ruby text=じゅうたん char=2]絨毯張りだった、なんて[line len=3]",
+      "Pt-br": "Imagine abrir a porta do galpão e ser recebido com um tapete felpudo...",
+      "id": 5771,
+      "epk_id": "2569",
+      "label": "$$$message_0015_0035_0001$$$"
+    },
+    {
+      "en": "\"I'll take that into account, of course. [cacheimage storage=イリヤ10b(遠)][wvl][chgfg time=300 storage=イリヤ10b(遠) textoff=0]But first!\"[lr]",
+      "jp": "「もちろんその辺は配慮するわよ。[cacheimage storage=イリヤ10b(遠)][wvl][chgfg time=300 storage=イリヤ10b(遠) textoff=0]とにかく！」[lr]",
+      "Pt-br": "\"Eu levarei isso em conta, é claro. [cacheimage storage=イリヤ10b(遠)][wvl][chgfg time=300 storage=イリヤ10b(遠) textoff=0]Mas antes!\"[lr]",
+      "id": 5772,
+      "epk_id": "2570",
+      "label": "$$$message_0015_0036_0000$$$"
+    },
+    {
+      "en": "\"Yes, ma'am.\"[lr]",
+      "jp": "「はい」[lr]",
+      "Pt-br": "\"S-sim, senhora.\"[lr]",
+      "id": 5773,
+      "epk_id": "2571",
+      "label": "$$$message_0015_0036_0001$$$"
+    },
+    {
+      "en": "I reflexively bob my head at her lecturing tone.",
+      "jp": "　イリヤの説教口調に、思わず首を竦める。",
+      "Pt-br": "Eu instintivamente balanço a minha cabeça ao tom professoral dela.",
+      "id": 5774,
+      "epk_id": "2572",
+      "label": "$$$message_0015_0036_0002$$$"
+    },
+    {
+      "en": "\"If you want to be a full-fledged mage, then you need to organize your own environment. Building a workshop is a fundamental step of being a mage.\"[lr]",
+      "jp": "「シロウも一人前になりたいと思ったら、まずその辺の形から整えるのも重要なの。工房は魔術師の基礎なんだから」[lr]",
+      "Pt-br": "\"Se você quer se tornar um mago completo, precisa organizar o próprio ambiente. Construir uma oficina é um passo fundamental para ser um mago.\"[lr]",
+      "id": 5775,
+      "epk_id": "2573",
+      "label": "$$$message_0015_0037_0000$$$"
+    },
+    {
+      "en": "\"I'm very sorry, I'll take that to heart...\"",
+      "jp": "「重ねて面目ございません[line len=3]」",
+      "Pt-br": "\"Peço muito perdão, eu levarei isso a sério...\"",
+      "id": 5776,
+      "epk_id": "2574",
+      "label": "$$$message_0015_0037_0001$$$"
+    },
+    {
+      "en": "\"What has Rin been teaching you? [cacheimage storage=イリヤ07d(遠)][wvl canskip=false time=400][chgfg time=300 storage=イリヤ07d(遠) textoff=0]Honestly, I'm not sure if Tohsaka respects your autonomy too much, or if she's just going hands-off.\"[lr]",
+      "jp": "「それもこれも、リンの仕込みがわるいのよ[line len=3][cacheimage storage=イリヤ07d(遠)][wvl canskip=false time=400][chgfg time=300 storage=イリヤ07d(遠) textoff=0]まったく、トオサカは放任主義というか、自主性を尊重しすぎというか」[lr]",
+      "Pt-br": "\"O que a Rin tem te ensinado? [cacheimage storage=イリヤ07d(遠)][wvl canskip=false time=400][chgfg time=300 storage=イリヤ07d(遠) textoff=0]Honestamente, eu não sei se a Tohsaka respeita a sua autonomia um pouco demais ou se ela só não está nem aí mesmo.\"[lr]",
+      "id": 5777,
+      "epk_id": "2575",
+      "label": "$$$message_0015_0038_0000$$$"
+    },
+    {
+      "en": "Illya is unhappy with what she sees as Tohsaka's negligence. It's true that she's my current mentor, but...",
+      "jp": "　イリヤは遠坂の管理不行き届きを怒っている。確かに今の師匠は遠坂になるんだけど……",
+      "Pt-br": "A Illya está insatisfeita com o que ela enxerga como a negligência da Tohsaka. É verdade que ela é a minha mentora atual, mas...",
+      "id": 5778,
+      "epk_id": "2576",
+      "label": "$$$message_0015_0038_0001$$$"
+    },
+    {
+      "en": "\"No, I don't think that has anything [cacheimage storage=イリヤ01a(遠)][wvl][chgfg time=300 storage=イリヤ01a(遠) textoff=0]to do with...\"[lr]",
+      "jp": "「いや、それとこれは関係ない、[cacheimage storage=イリヤ01a(遠)][wvl][chgfg time=300 storage=イリヤ01a(遠) textoff=0]のでは」[lr]",
+      "Pt-br": "\"Não, eu não acho que isso tenha algo a [cacheimage storage=イリヤ01a(遠)][wvl][chgfg time=300 storage=イリヤ01a(遠) textoff=0]ver com...\"[lr]",
+      "id": 5779,
+      "epk_id": "2577",
+      "label": "$$$message_0015_0039_0000$$$"
+    },
+    {
+      "en": "\"Of course it does. [cacheimage storage=イリヤ10b(遠)][wvl canskip=false time=200][chgfg time=300 storage=イリヤ10b(遠) textoff=0]If the master doesn't monitor the way her apprentice builds his workshop, how is she going to know if he goes down the wrong path? [cacheimage storage=イリヤ02a(遠),イリヤ02b(遠)][wvl canskip=false time=400][chgfg storage=イリヤ02a(遠) time=400 textoff=0][wvl canskip=false time=800][chgfg storage=イリヤ02b(遠) time=400 textoff=0]Hmm?\"[lr]",
+      "jp": "「ないわけないわよ、[cacheimage storage=イリヤ10b(遠)][wvl canskip=false time=200][chgfg time=300 storage=イリヤ10b(遠) textoff=0]師匠は弟子の工房の作製の監視をしないと、どんな邪道に迷うか分かったものじゃないのに[line len=3][cacheimage storage=イリヤ02a(遠),イリヤ02b(遠)][wvl canskip=false time=400][chgfg storage=イリヤ02a(遠) time=400 textoff=0][wvl canskip=false time=800][chgfg storage=イリヤ02b(遠) time=400 textoff=0]ふーん」[lr]",
+      "Pt-br": "\"É claro que tem. [cacheimage storage=イリヤ10b(遠)][wvl canskip=false time=200][chgfg time=300 storage=イリヤ10b(遠) textoff=0]Se a mentora não supervisionar como o aprendiz constrói a própria oficina, como ela vai saber se ele se desviar do caminho? [cacheimage storage=イリヤ02a(遠),イリヤ02b(遠)][wvl canskip=false time=400][chgfg storage=イリヤ02a(遠) time=400 textoff=0][wvl canskip=false time=800][chgfg storage=イリヤ02b(遠) time=400 textoff=0]Hrum?\"[lr]",
+      "id": 5780,
+      "epk_id": "2578",
+      "label": "$$$message_0015_0039_0001$$$"
+    },
+    {
+      "en": "...I have a strange hunch about all this.",
+      "jp": "　……なんか妙な予感がするな、本能的に。",
+      "Pt-br": "...Tenho um palpite esquisito com relação a tudo isso.",
+      "id": 5781,
+      "epk_id": "2579",
+      "label": "$$$message_0015_0039_0002$$$"
+    },
+    {
+      "en": "\"Yeah, I'll have to keep an eye on you.[lr]",
+      "jp": "「そうね、やっぱりシロウはわたしが見てあげないと。[lr]",
+      "Pt-br": "\"É, eu vou ter que ficar de olho em você.[lr]",
+      "id": 5782,
+      "epk_id": "2580",
+      "label": "$$$message_0015_0040_0000$$$"
+    },
+    {
+      "en": "I can't leave my big brother to the likes of Rin.\"",
+      "jp": "　リンなんかに、お兄ちゃんは任せられないし」",
+      "Pt-br": "Não posso deixar o Onii-chan à mercê de pessoas como a Rin.\"",
+      "id": 5783,
+      "epk_id": "2581",
+      "label": "$$$message_0015_0040_0001$$$"
+    },
+    {
+      "en": "[noise opacity=130]She's wearing a broad, smug, impish grin[stopnoise].[lr]",
+      "jp": "　[noise opacity=130]にんまり、ともにたり、とも取れない悪魔の笑み[stopnoise]。[lr]",
+      "Pt-br": "[noise opacity=130]Ela abre um grande sorriso malicioso, presunçoso e diabólico[stopnoise].[lr]",
+      "id": 5784,
+      "epk_id": "2582",
+      "label": "$$$message_0015_0041_0000$$$"
+    },
+    {
+      "en": "[noise opacity=200]Her red eyes [stopnoise]start creeping toward me.[lr]",
+      "jp": "　[noise opacity=200]じりじりっと寄って[stopnoise]くる赤い瞳。[lr]",
+      "Pt-br": "[noise opacity=200]Os olhos vermelhos dela [stopnoise]começam a ir em minha direção.[lr]",
+      "id": 5785,
+      "epk_id": "2583",
+      "label": "$$$message_0015_0041_0001$$$"
+    },
+    {
+      "en": "[noise opacity=80]...A strong, musky scent [stopnoise]fills the dark shed...",
+      "jp": "　[noise opacity=80]……ジャコウのような強い香気が、[stopnoise]暗い土蔵に満ちていく[line len=3]",
+      "Pt-br": "[noise opacity=80]...Um aroma forte e almiscarado [stopnoise]preenche o galpão escuro...",
+      "id": 5786,
+      "epk_id": "2584",
+      "label": "$$$message_0015_0041_0002$$$"
+    },
+    {
+      "en": "Steadily, a mirage begins to infiltrate my brain.[lr]",
+      "jp": "　じりじりと脳を浸食する蜃気楼。[lr]",
+      "Pt-br": "Aos poucos, uma miragem começa a penetrar no meu cérebro.[lr]",
+      "id": 5787,
+      "epk_id": "2585",
+      "label": "$$$message_0015_0042_0000$$$"
+    },
+    {
+      "en": "...I'm like a moth drawn to flame.[lr]",
+      "jp": "　……明かりに魅了される虫のようだ。[lr]",
+      "Pt-br": "...Sou como uma mariposa atraída pela chama.[lr]",
+      "id": 5788,
+      "epk_id": "2586",
+      "label": "$$$message_0015_0042_0001$$$"
+    },
+    {
+      "en": "I could move whatever part of my body I want, [noise opacity=128]but I feel tense, like lifting even a finger will cause something big to fall apart...[stopnoise]",
+      "jp": "　体はどこでも動かせるのに、[noise opacity=128]指一本でも動かせば、何かが大きく壊れてしまいそうな緊張感[line len=3][stopnoise]",
+      "Pt-br": "Eu poderia mexer qualquer parte do corpo que eu quisesse, [noise opacity=128]mas eu me sinto tenso, como se o simples fato de mexer um dedo fosse fazer com que algo grandioso desmoronasse...[stopnoise]",
+      "id": 5789,
+      "epk_id": "2587",
+      "label": "$$$message_0015_0042_0002$$$"
+    },
+    {
+      "en": "\"Heheh... Hey, [cacheimage storage=イリヤ06b(近)][wvl][chgfg time=300 opacity=60 storage=イリヤ06b(近) textoff=0]Shi[wvl][noise opacity=150]rou?[lr]",
+      "jp": "「ふふふ……ね、[cacheimage storage=イリヤ06b(近)][wvl][chgfg time=300 opacity=60 storage=イリヤ06b(近) textoff=0]シ[wvl][noise opacity=150]ロウ？[lr]",
+      "Pt-br": "\"Heheh... Ei, [cacheimage storage=イリヤ06b(近)][wvl][chgfg time=300 opacity=60 storage=イリヤ06b(近) textoff=0]Shi[wvl][noise opacity=150]rou?[lr]",
+      "id": 5790,
+      "epk_id": "2588",
+      "label": "$$$message_0015_0043_0000$$$"
+    },
+    {
+      "en": "I'll [wvl][stopnoise]make sure [wvl][noise opacity=255]to raise you so you grow up right.[wvl][stopnoise]\"[lr]",
+      "jp": "　シロウはわたしが[wvl][stopnoise]ちゃんと[wvl][noise opacity=255]面倒を見て立派に育ててあげる[wvl][stopnoise]」[lr]",
+      "Pt-br": "Eu me [wvl][stopnoise]certificarei [wvl][noise opacity=255]de te criar para que você cresça direito.[wvl][stopnoise]\"[lr]",
+      "id": 5791,
+      "epk_id": "2589",
+      "label": "$$$message_0015_0043_0001$$$"
+    },
+    {
+      "en": "\"Wait... Illya, calm down, you're...\"[lr]",
+      "jp": "「ちょ……イリヤ、落ち着け、それは」[lr]",
+      "Pt-br": "\"Espera... Illya, se acalme, você está...\"[lr]",
+      "id": 5792,
+      "epk_id": "2590",
+      "label": "$$$message_0015_0043_0002$$$"
+    },
+    {
+      "en": "\"You're the one [wvl][noise opacity=200]who needs to calm down and think, Big Brother.[wvl][stopnoise][lr]",
+      "jp": "「お兄ちゃん[wvl][noise opacity=200]こそちゃんと落ちついて考えなきゃ。[wvl][stopnoise][lr]",
+      "Pt-br": "\"É você [wvl][noise opacity=200]quem precisa se acalmar e pensar a respeito, Onii-chan.[wvl][stopnoise][lr]",
+      "id": 5793,
+      "epk_id": "2591",
+      "label": "$$$message_0015_0043_0003$$$"
+    },
+    {
+      "en": "[chgfg time=300 opacity=60 storage=イリヤ11a(近) textoff=0]Look...\"",
+      "jp": "　[chgfg time=300 opacity=60 storage=イリヤ11a(近) textoff=0]ほら……」",
+      "Pt-br": "[chgfg time=300 opacity=60 storage=イリヤ11a(近) textoff=0]Veja...\"",
+      "id": 5794,
+      "epk_id": "2592",
+      "label": "$$$message_0015_0043_0004$$$"
+    },
+    {
+      "en": "Illya's eyes [noise opacity=200]and lips drift closer[wait canskip=false time=400]...[stopnoise][lr]",
+      "jp": "　イリヤの瞳が、[noise opacity=200]唇が近づいてきて[line len=3][wait canskip=false time=400]。[stopnoise][lr]",
+      "Pt-br": "Os olhos [noise opacity=200]e lábios da Illya se aproximam[wait canskip=false time=400]...[stopnoise][lr]",
+      "id": 5795,
+      "epk_id": "2593",
+      "label": "$$$message_0015_0044_0000$$$"
+    },
+    {
+      "en": "She's sitting on my lap, feeling as light as a feather.[wshock canskip=0]",
+      "jp": "　膝の上に乗っかった体は、羽のように軽すぎた。[wshock canskip=0]",
+      "Pt-br": "Ela se senta no meu colo, leve como uma pena.[wshock canskip=0]",
+      "id": 5796,
+      "epk_id": "2594",
+      "label": "$$$message_0015_0044_0001$$$"
+    },
+    {
+      "en": "\"Shirou... Big Brother, do you dislike me?\"[lr]",
+      "jp": "「シロウ……お兄ちゃんはわたしのこと、キライ？」[lr]",
+      "Pt-br": "\"Shirou... Onii-chan, você não gosta de mim?\"[lr]",
+      "id": 5797,
+      "epk_id": "2595",
+      "label": "$$$message_0015_0045_0000$$$"
+    },
+    {
+      "en": "\"No, I just...\"[lr]",
+      "jp": "「そんなことはない[line len=3]けど」[lr]",
+      "Pt-br": "\"Não, é só que eu...\"[lr]",
+      "id": 5798,
+      "epk_id": "2596",
+      "label": "$$$message_0015_0045_0001$$$"
+    },
+    {
+      "en": "\"[noise opacity=100]If you like me, then I'll make you into one of my precious things.[lr]",
+      "jp": "「[noise opacity=100]好きなら、大切なわたしのモノにしてあげる。[lr]",
+      "Pt-br": "\"[noise opacity=100]Se você gostar de mim, então eu farei de você uma das minhas coisas mais preciosas.[lr]",
+      "id": 5799,
+      "epk_id": "2597",
+      "label": "$$$message_0015_0045_0002$$$"
+    },
+    {
+      "en": "I'll turn you into the ultimate dessert, and you won't have to think about Saber or anyone else anymore...\"[stopnoise]",
+      "jp": "　セイバーのコトも、他の誰のコトも考えられなくなるぐらい、極上のデザートにしてあげる[line len=3]」[stopnoise]",
+      "Pt-br": "Eu te transformarei na sobremesa definitiva, e você nunca mais precisará pensar na Saber ou em qualquer outra pessoa...\"[stopnoise]",
+      "id": 5800,
+      "epk_id": "2598",
+      "label": "$$$message_0015_0045_0003$$$"
+    },
+    {
+      "en": "\"Ah...\"[lr]",
+      "jp": "「あ[line len=3]」[lr]",
+      "Pt-br": "\"Ah...\"[lr]",
+      "id": 5801,
+      "epk_id": "2599",
+      "label": "$$$message_0015_0046_0000$$$"
+    },
+    {
+      "en": "...Suddenly, the fog lifts from my mind.[lr]",
+      "jp": "　[line len=3]途端、頭の中の霧が晴れた。[lr]",
+      "Pt-br": "...De repente, a névoa na minha mente se dissipa.[lr]",
+      "id": 5802,
+      "epk_id": "2600",
+      "label": "$$$message_0015_0046_0001$$$"
+    },
+    {
+      "en": "Maybe I'm stronger the second time, but the experience of my first failure turns the tables.",
+      "jp": "　二度目の強みか、一度目の失敗の経験が、ぐるっと立場を逆転させる。",
+      "Pt-br": "Talvez eu esteja mais forte na segunda vez, mas a experiência do meu primeiro fracasso inverte o jogo.",
+      "id": 5803,
+      "epk_id": "2601",
+      "label": "$$$message_0015_0046_0002$$$"
+    },
+    {
+      "en": "\"...Heh. You're soft, Illya. The same trick won't work on me again.\"[lr]",
+      "jp": "「……ふ、甘いぞイリヤ。いくら俺でもおんなじ手は食わない」[lr]",
+      "Pt-br": "\"...Heh. Você pegou leve, Illya. O mesmo truque não vai funcionar comigo de novo.\"[lr]",
+      "id": 5804,
+      "epk_id": "2602",
+      "label": "$$$message_0015_0047_0000$$$"
+    },
+    {
+      "en": "\"Hey, Shirou... [cacheimage storage=イリヤ08e(近)][wvl canskip=0 time=400][chgfg textoff=0 pos=c time=200 storage=イリヤ08e(近)]Wait, what?\"[lr]",
+      "jp": "「ね、シロウ[line len=3][cacheimage storage=イリヤ08e(近)][wvl canskip=0 time=400][chgfg textoff=0 pos=c time=200 storage=イリヤ08e(近)]って、え？」[lr]",
+      "Pt-br": "\"Ei, Shirou... [cacheimage storage=イリヤ08e(近)][wvl canskip=0 time=400][chgfg textoff=0 pos=c time=200 storage=イリヤ08e(近)]Espera, o quê?\"[lr]",
+      "id": 5805,
+      "epk_id": "2603",
+      "label": "$$$message_0015_0047_0001$$$"
+    },
+    {
+      "en": "I regain the freedom bound by those crimson eyes.",
+      "jp": "　赤い眼で縛られていた自由が戻る。",
+      "Pt-br": "Recupero a liberdade que havia sido atada àqueles olhos carmesins.",
+      "id": 5806,
+      "epk_id": "2604",
+      "label": "$$$message_0015_0047_0002$$$"
+    },
+    {
+      "en": "\"Now it's my turn to ask you. If you like me, will you become mine?\"[lr]",
+      "jp": "「じゃあ逆に質問。俺が好きなら、イリヤは俺のモノになるか？」[lr]",
+      "Pt-br": "\"Agora é a minha vez de perguntar a você. Se você gosta de mim, você se tornará minha?\"[lr]",
+      "id": 5807,
+      "epk_id": "2605",
+      "label": "$$$message_0015_0048_0000$$$"
+    },
+    {
+      "en": "\"E-ehhh!?\"[lr]",
+      "jp": "「え、ええ……！？」[lr]",
+      "Pt-br": "\"E-Ehhh!?\"[lr]",
+      "id": 5808,
+      "epk_id": "2606",
+      "label": "$$$message_0015_0048_0001$$$"
+    },
+    {
+      "en": "\"...Got you, you're wide open!\"[lr]",
+      "jp": "「[line len=3]よし、スキあり！」[lr]",
+      "Pt-br": "\"...Te peguei, você está com a guarda toda aberta!\"[lr]",
+      "id": 5809,
+      "epk_id": "2607",
+      "label": "$$$message_0015_0048_0002$$$"
+    },
+    {
+      "en": "I pick up Illya in my arms.",
+      "jp": "　ぐっとイリヤを抱え上げる。",
+      "Pt-br": "Eu pego a Illya nos braços.",
+      "id": 5810,
+      "epk_id": "2608",
+      "label": "$$$message_0015_0048_0003$$$"
+    },
+    {
+      "en": "\"W-w-w-what are you doing, Shirou, you dummy!\"[stopquake][lr]",
+      "jp": "「ば、ばばば、ばか何するのシロウー！」[stopquake][lr]",
+      "Pt-br": "\"O-o-o-o que você está fazendo, Shirou, seu bobão!\"[stopquake][lr]",
+      "id": 5811,
+      "epk_id": "2609",
+      "label": "$$$message_0015_0049_0000$$$"
+    },
+    {
+      "en": "\"I'm teaching a naughty girl a lesson for playing with other people like a cat does.\"[lr]",
+      "jp": "「なにって、ネコみたいに気紛れで人をオモチャにしようとしたイタズラ娘にお仕置きをしようかと」[lr]",
+      "Pt-br": "\"Estou ensinando uma lição a uma garota travessa por brincar com os outros como um gato brinca.\"[lr]",
+      "id": 5812,
+      "epk_id": "2610",
+      "label": "$$$message_0015_0049_0001$$$"
+    },
+    {
+      "en": "\"I-I'm not naughty, and I'm not a cat![lr]",
+      "jp": "「イ、イタズラ娘じゃないしネコなんかじゃないもん！[lr]",
+      "Pt-br": "\"E-eu não sou travessa, e muito menos uma gata![lr]",
+      "id": 5813,
+      "epk_id": "2611",
+      "label": "$$$message_0015_0049_0002$$$"
+    },
+    {
+      "en": "G-get your hands off me, I'm a lady!\"",
+      "jp": "　そ、それにレディを担ぎ上げないでよ！」",
+      "Pt-br": "T-tire essas suas mãos de mim, eu sou uma dama!\"",
+      "id": 5814,
+      "epk_id": "2612",
+      "label": "$$$message_0015_0049_0003$$$"
+    },
+    {
+      "en": "[chgfg time=200 storage=イリヤ09a(近) textoff=0]She pounds her little fists in my back, [chgfg time=200 storage=イリヤ03a(近)b textoff=0]but I don't care.[lr]",
+      "jp": "　[chgfg time=200 storage=イリヤ09a(近) textoff=0]背中をぽかぽか叩かれるが[chgfg time=200 storage=イリヤ03a(近)b textoff=0]気にしない。[lr]",
+      "Pt-br": "[chgfg time=200 storage=イリヤ09a(近) textoff=0]Ela bate os seus punhozinhos nas minhas costas, [chgfg time=200 storage=イリヤ03a(近)b textoff=0]mas eu não dou a mínima para isso.[lr]",
+      "id": 5815,
+      "epk_id": "2613",
+      "label": "$$$message_0015_0050_0000$$$"
+    },
+    {
+      "en": "[chgfg time=200 storage=イリヤ10b(近) textoff=0]I almost fell for that, [chgfg time=300 storage=イリヤ09b(近) textoff=0]but this reminds me that Illya really is just a child.",
+      "jp": "　[chgfg time=200 storage=イリヤ10b(近) textoff=0]一時は本気で陥落するところだったが、[chgfg time=300 storage=イリヤ09b(近) textoff=0]やっぱりイリヤも子供だなー、と思う。",
+      "Pt-br": "[chgfg time=200 storage=イリヤ10b(近) textoff=0]Quase caí nessa de novo, [chgfg time=300 storage=イリヤ09b(近) textoff=0]mas isso me lembra que Illya ainda é só uma criança.",
+      "id": 5816,
+      "epk_id": "2614",
+      "label": "$$$message_0015_0050_0001$$$"
+    },
+    {
+      "en": "\"Yeah, try again in ten years.\"[lr]",
+      "jp": "「うんうん、十年早い」[lr]",
+      "Pt-br": "\"Ahãm, tente de novo em dez anos.\"[lr]",
+      "id": 5817,
+      "epk_id": "2615",
+      "label": "$$$message_0015_0051_0000$$$"
+    },
+    {
+      "en": "\"That's too long! In fact, after ten years you'll want to become mine so badly you can't stand it!\"[lr]",
+      "jp": "「そんなの遅すぎ！　だいたい、十年も経ったらお兄ちゃんの方がイリヤのモノになりたくて堪らないようになってるんだから！」[lr]",
+      "Pt-br": "\"Isso é muito tempo! Na verdade, depois de dez anos, você vai querer tanto se tornar meu que não conseguirá nem suportar, Onii-chan!\"[lr]",
+      "id": 5818,
+      "epk_id": "2616",
+      "label": "$$$message_0015_0051_0001$$$"
+    },
+    {
+      "en": "\"Haha. Yeah, I might be in trouble if you try this again ten years from now.\"",
+      "jp": "「はは。うん、その時に同じコト言われたら不味いかもなー」",
+      "Pt-br": "\"Haha. É, eu posso ficar em apuros se você tentar isso de novo daqui a dez anos.\"",
+      "id": 5819,
+      "epk_id": "2617",
+      "label": "$$$message_0015_0051_0002$$$"
+    },
+    {
+      "en": "\"Just you watch, Shirou! I'll be all plump and bouncy so that Sakura can't even hold a candle to me, never mind Rin!\"[lr]",
+      "jp": "「み、見てなさいよシロウ！　リンはおろかサクラなんか目じゃないほど、むちむちのぱつんぱつんになるんだからー！」[lr]",
+      "Pt-br": "\"Apenas me observe, Shirou! Eu vou estar tão cheinha e saltitante que a Sakura não vai nem chegar aos meus pés, quanto menos a Rin!\"[lr]",
+      "id": 5820,
+      "epk_id": "2618",
+      "label": "$$$message_0015_0052_0000$$$"
+    },
+    {
+      "en": "\"...Hm. That would make me a little sad.\"[lr]",
+      "jp": "「……む。それはそれで何か寂しい」[lr]",
+      "Pt-br": "\"...Hrum. Isso me deixaria um pouco triste.\"[lr]",
+      "id": 5821,
+      "epk_id": "2619",
+      "label": "$$$message_0015_0052_0001$$$"
+    },
+    {
+      "en": "I want Illya to remain a pure, innocent princess[line len=2][chgfg time=300 storage=イリヤ08g(近) textoff=0]wait, what the heck am I mumbling!?",
+      "jp": "　イリヤには清楚なお嬢様でいてほしい[chgfg time=300 storage=イリヤ08g(近) textoff=0]って、なにを呟いているのか俺はっ……！？",
+      "Pt-br": "Eu quero que a Illya continue a ser uma princesa pura e inocente[line len=2][chgfg time=300 storage=イリヤ08g(近) textoff=0]Espera, o que raios eu estou murmurando!?",
+      "id": 5822,
+      "epk_id": "2620",
+      "label": "$$$message_0015_0052_0002$$$"
+    },
+    {
+      "en": "\"Let me go! Put me down! Shirou, you dummy!\"[stopquake][lr]",
+      "jp": "「はなせー！　おろせー！　シロウのばかー！」[stopquake][lr]",
+      "Pt-br": "\"Me solta! Me coloca no chão! Shirou, seu bobão!\"[stopquake][lr]",
+      "id": 5823,
+      "epk_id": "2621",
+      "label": "$$$message_0015_0053_0000$$$"
+    },
+    {
+      "en": "\"Hahaha, I appreciate the compliment. Okay, let's have tea. We have some dorayaki from Edomaeya, too.\"[lr]",
+      "jp": "「ははは、お褒めにあずかり恐悦至極。よし、お茶にしよう、江戸前屋のどら焼きがあったし」[lr]",
+      "Pt-br": "\"Hahaha, fico agradecido pelo elogio. Okay, vamos tomar chá. Nós também temos alguns dorayakis da Edomaeya.\"[lr]",
+      "id": 5824,
+      "epk_id": "2622",
+      "label": "$$$message_0015_0053_0001$$$"
+    },
+    {
+      "en": "\"Huh? Really? [cacheimage storage=イリヤ03a(近)b][wvl canskip=false time=800][chgfg storage=イリヤ03a(近)b time=200 textoff=0][quake vmax=10 hmax=20]...As if that would win me over! Shirou, you dumb dummy!\"",
+      "jp": "「え？　ほんと？　[cacheimage storage=イリヤ03a(近)b][wvl canskip=false time=800][chgfg storage=イリヤ03a(近)b time=200 textoff=0][quake vmax=10 hmax=20][line len=3]ってそんな事じゃ懐柔されないんだからー！　シロウのばかばかばかー！」",
+      "Pt-br": "\"Hã? Sério? [cacheimage storage=イリヤ03a(近)b][wvl canskip=false time=800][chgfg storage=イリヤ03a(近)b time=200 textoff=0][quake vmax=10 hmax=20]...Como se isso fosse me convencer! Shirou, seu burro bobão!\"",
+      "id": 5825,
+      "epk_id": "2623",
+      "label": "$$$message_0015_0053_0002$$$"
+    },
+    {
+      "en": "\"W-w-w-what are you doing, Shirou, you dummy!\"[r]",
+      "jp": "「ば、ばばば、ばか[r]何するのシロウー！」",
+      "Pt-br": "\"O-o-o-o que você está fazendo, Shirou, seu bobão!\"[r]",
+      "id": 5826,
+      "epk_id": "902609",
+      "label": "$$$message_9015_0049_0000$$$"
+    }
+  ]
+}

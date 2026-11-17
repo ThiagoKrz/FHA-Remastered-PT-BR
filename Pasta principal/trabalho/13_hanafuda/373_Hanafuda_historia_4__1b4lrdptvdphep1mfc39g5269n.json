@@ -1,0 +1,408 @@
+{
+  "cena": "1b4lrdptvdphep1mfc39g5269n",
+  "titulo": "Hanafuda: história 4",
+  "rota": "Hanafuda",
+  "arquivo": "1b4lrdptvdphep1mfc39g5269n.epk_dec",
+  "linhas": [
+    {
+      "en": "\"I give you the strongest duo in both name and reality: [wvs][hfchance layer=0][say storage=HSTR4_RIN_0020 _name=å]Rin Tohsaka and her Servant, Archer!\"",
+      "jp": "「名実ともに最強のコンビ、遠坂凛とそのサーヴァント・アーチャー[wvs][hfchance layer=0][say storage=HSTR4_RIN_0020 _name=凛]ここに参上！」",
+      "Pt-br": "\"Apresento a vocês a dupla mais forte, no nome e na prática: [wvs][hfchance layer=0][say storage=HSTR4_RIN_0020 _name=凛]Tohsaka Rin e seu Servo, Archer!\"",
+      "id": 43891,
+      "epk_id": "43676",
+      "label": "$$$message_0370_0000_0000$$$"
+    },
+    {
+      "en": "\"The real game starts now, you two![lr]",
+      "jp": "「本番はここからよお二人さん！[lr]",
+      "Pt-br": "\"O verdadeiro jogo começa agora, vocês dois![lr]",
+      "id": 43892,
+      "epk_id": "43677",
+      "label": "$$$message_0370_0001_0000$$$"
+    },
+    {
+      "en": "[se storage=se060.wav]Say your prayers!\"",
+      "jp": "　[se storage=se060.wav]引導を渡してあげるわ！」",
+      "Pt-br": "[se storage=se060.wav]Façam suas preces!\"",
+      "id": 43893,
+      "epk_id": "43678",
+      "label": "$$$message_0370_0001_0001$$$"
+    },
+    {
+      "en": "\"...Um, [l][hfwww layer=0][say storage=HSTR4_RIN_0080 _name=å]what are you doing, Archer?[lr]",
+      "jp": "「……って、[l][hfwww layer=0][say storage=HSTR4_RIN_0080 _name=凛]何してんのよアーチャー。[lr]",
+      "Pt-br": "\"...Hum, [l][hfwww layer=0][say storage=HSTR4_RIN_0080 _name=凛]o que você está fazendo, Archer?[lr]",
+      "id": 43894,
+      "epk_id": "43679",
+      "label": "$$$message_0370_0001_0002$$$"
+    },
+    {
+      "en": "Come on, do the pose like we practiced.\"",
+      "jp": "　さっき練習したでしょ、ほら決めポーズ決めポーズ」",
+      "Pt-br": "Vamos, faz a pose como a gente ensaiou.\"",
+      "id": 43895,
+      "epk_id": "43680",
+      "label": "$$$message_0370_0001_0003$$$"
+    },
+    {
+      "en": "\"R-right... Venus in the sky, purgatory on Earth.[lr]",
+      "jp": "「う、うむ……天に明星、地に煉獄。[lr]",
+      "Pt-br": "\"C-certo... Vênus no céu, purgatório na Terra.[lr]",
+      "id": 43896,
+      "epk_id": "43681",
+      "label": "$$$message_0370_0001_0004$$$"
+    },
+    {
+      "en": "We are the crimson tempest who gallantly redefine the impossible.\"",
+      "jp": "　儘ならぬ界隈を颯爽と世直し巡る赤い旋風」",
+      "Pt-br": "Somos a tempestade carmesim que redefine o impossível com bravura.\"",
+      "id": 43897,
+      "epk_id": "43682",
+      "label": "$$$message_0370_0001_0005$$$"
+    },
+    {
+      "en": "\"...Uhh, they call us the Guardians of Fuyuki...[wait canskip=0 time=300][l][hffacechg chara=ã¢ã¼ãã£ã¼ face=å layer=0 time=200][say storage=HSTR4_ARC_0040 _name=ã¢ã¼ãã£ã¼] Yeah.\"",
+      "jp": "「……あー、誰が呼んだか冬木の守護神、ここに参上……[wait canskip=0 time=300][l][hffacechg chara=アーチャー face=哀 layer=0 time=200][say storage=HSTR4_ARC_0040 _name=アーチャー]だよ？」",
+      "Pt-br": "\"...Hã, nos chamam de Guardiões de Fuyuki...[wait canskip=0 time=300][l][hffacechg chara=アーチャー face=哀 layer=0 time=200][say storage=HSTR4_ARC_0040 _name=アーチャー] É.\"",
+      "id": 43898,
+      "epk_id": "43683",
+      "label": "$$$message_0370_0002_0000$$$"
+    },
+    {
+      "en": "\"(He's so not into it!)\"",
+      "jp": "「（弱気だ……！）」",
+      "Pt-br": "\"(Ele não está nem um pouco no clima!)\"",
+      "id": 43899,
+      "epk_id": "43684",
+      "label": "$$$message_0370_0002_0001$$$"
+    },
+    {
+      "en": "\"C'mon, where's the [font italic=true]fire[font italic=false]!?[lr]",
+      "jp": "「気合いが入ってなーいっ！[lr]",
+      "Pt-br": "\"Vamos, onde está o [font italic=true]fogo[font italic=false]!?[lr]",
+      "id": 43900,
+      "epk_id": "43685",
+      "label": "$$$message_0370_0002_0002$$$"
+    },
+    {
+      "en": "You need to like, thrust your right hand toward the heavens, as if impaling our foes on a pillar of light!\"",
+      "jp": "　こうよこう、右手はもっと天を突くように、眼光は敵を射抜くよーに！」",
+      "Pt-br": "Você tem que, tipo, erguer a mão direita aos céus, como se empalasse nossos inimigos num pilar de luz!\"",
+      "id": 43901,
+      "epk_id": "43686",
+      "label": "$$$message_0370_0002_0003$$$"
+    },
+    {
+      "en": "\"And since we've got the high ground, you've gotta maximize the effect of having them look up at us[hfchance layer=0]![l][say storage=HSTR4_RIN_0140 _name=å] Try to peer down your nose at them a little. It's best if your chin dips into your neck!\"",
+      "jp": "「せっかく高い所にいるんだから、見上げ効果も考える[hfchance layer=0]！[l][say storage=HSTR4_RIN_0140 _name=凛]　視線はやや下方、あごは首もとに合わせるのがベストよ！」",
+      "Pt-br": "\"E como temos a vantagem da altura, você precisa maximizar o efeito de fazerem todos olharem para nós[hfchance layer=0]![l][say storage=HSTR4_RIN_0140 _name=凛] Olhe para baixo com um pouco de desprezo. Melhor ainda se o queixo quase encostar no pescoço!\"",
+      "id": 43902,
+      "epk_id": "43687",
+      "label": "$$$message_0370_0002_0004$$$"
+    },
+    {
+      "en": "\"...Sorry, Master. I'm already doing the best I can to stay in character.\"",
+      "jp": "「………すまんがマスター。キャラ的に、私にはこれが精一杯だ」",
+      "Pt-br": "\"...Desculpe, Mestra. Já estou fazendo o melhor possível para continuar no personagem.\"",
+      "id": 43903,
+      "epk_id": "43688",
+      "label": "$$$message_0370_0002_0005$$$"
+    },
+    {
+      "en": "\"Hm. [l][hfwww layer=0][say storage=HSTR4_RIN_0170 _name=å]Look, just copy Goldy and act all high and mighty. That's close enough.\"",
+      "jp": "「む。[l][hfwww layer=0][say storage=HSTR4_RIN_0170 _name=凛]じゃああの金ピカの真似でいいから偉そうにしてなさい」",
+      "Pt-br": "\"Hm. [l][hfwww layer=0][say storage=HSTR4_RIN_0170 _name=凛]Olha, é só copiar o Douradinho e agir todo superior e arrogante. Já chega perto.\"",
+      "id": 43904,
+      "epk_id": "43689",
+      "label": "$$$message_0370_0002_0006$$$"
+    },
+    {
+      "en": "\"Okay, let's try a [l][hfchance layer=0][say storage=HSTR4_RIN_0200 _name=å]take two...\"[nolr][p]",
+      "jp": "「そういうわけで[l][hfchance layer=0][say storage=HSTR4_RIN_0200 _name=凛]やり直し、っと[line len=3]」[nolr][p]",
+      "Pt-br": "\"Certo, vamos tentar uma [l][hfchance layer=0][say storage=HSTR4_RIN_0200 _name=凛]segunda tomada...\"[nolr][p]",
+      "id": 43905,
+      "epk_id": "43690",
+      "label": "$$$message_0370_0002_0007$$$"
+    },
+    {
+      "en": "\"We are the crimson flash cleaving through the dark night![lr]",
+      "jp": "「闇夜を切り裂く赤い閃光！[lr]",
+      "Pt-br": "\"Somos o clarão carmesim rasgando a noite escura![lr]",
+      "id": 43906,
+      "epk_id": "43691",
+      "label": "$$$message_0370_0002_0008$$$"
+    },
+    {
+      "en": "The rumored protectors of chaotic Fuyuki, champions of money who collect the mental tax!\"[wm canskip=0][wm canskip=0]",
+      "jp": "　混乱の冬木を守るウワサのアイツ、心の税金を取り立てるお金の味方！」[wm canskip=0][wm canskip=0]",
+      "Pt-br": "Os famosos protetores da caótica Fuyuki, campeões do dinheiro que cobram o imposto mental!\"[wm canskip=0][wm canskip=0]",
+      "id": 43907,
+      "epk_id": "43692",
+      "label": "$$$message_0370_0002_0009$$$"
+    },
+    {
+      "en": "\"They call us the wandering misers, [wm canskip=0][wm canskip=0][movefg textoff=0 opacity=255 left=398 top=27 time=400 accel=3 layer=4][se storage=se084.wav][movefg textoff=0 opacity=255 left=-198 top=33 time=400 accel=3 layer=2][se storage=se085.wav][wvs][say storage=HSTR4_RIN_0250 _name=å]ArcheRin Mix [wm canskip=0][wm canskip=0][wait canskip=0 time=200][move textoff=0 spread=1 mx=541 magnify=1 time=300 my=605 path=(522,548,255,2) layer=5 accel=-2][move textoff=0 spread=1 mx=541 magnify=1 time=300 my=605 path=(522,548,0,2) layer=4 accel=-2][movefg textoff=0 opacity=0 left=-198 top=33 time=300 accel=3 layer=2][movefg textoff=0 opacity=255 left=-198 top=33 time=300 accel=0 layer=3][se storage=se086.wav][wvs][say storage=HSTR4_RIN_0260 _name=å]Remi[wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][wait canskip=0 time=200][move textoff=0 spread=1 mx=185 magnify=1 time=600 my=320 path=(340,506,255,2) layer=3 accel=3][move textoff=0 spread=1 mx=517 magnify=1.42 time=150 my=563 path=(523,508,255,1.35)(600,339,255,0.71)(604,490,255,0.78)(635,335,255,0.71) layer=5 accel=2 spline=1][se storage=se087.wav][se storage=se088.wav][wvs][say storage=HSTR4_RIN_0270 _name=å] the Revelation...!!!\"[wm canskip=0][wm canskip=0][se storage=se371.wav][wait canskip=0 time=200][movefg textoff=0 opacity=20 left=390 top=47 time=20 accel=0 layer=5][movefg textoff=0 opacity=20 left=-423 top=-34 time=20 accel=0 layer=3][se storage=se238.wav][se storage=se430.wav][se storage=se276.wav][wm canskip=0][wm canskip=0][movefg textoff=0 opacity=255 left=334 top=-50 time=3300 accel=0 layer=5][movefg textoff=0 opacity=255 left=-440 top=50 time=3300 accel=0 layer=3][dash textoff=0 hidefg=0 mx=0 opacity=100 layer=base irot=-0.0 cx=400 imag=3.15 time=500 cy=300 mag=1 my=0 storage=08é­è¡ã»æ»æb rot=-0.0 accel=-2][wdash canskip=0][dash textoff=0 hidefg=0 mx=0 opacity=100 layer=base irot=-0.0 cx=400 imag=3.15 time=500 cy=300 mag=1 my=0 storage=07è¡æ rot=-0.0 accel=-2][wdash canskip=0][dash textoff=0 hidefg=0 mx=0 opacity=255 layer=base irot=-0.0 cx=400 imag=4 time=2800 cy=300 mag=1.8 my=0 storage=08é­è¡ã»æ»æb rot=5 accel=-4][wdash canskip=0][wm canskip=0][wm canskip=0]",
+      "jp": "「人呼んでさすらい守銭奴、[wm canskip=0][wm canskip=0][movefg textoff=0 opacity=255 left=398 top=27 time=400 accel=3 layer=4][se storage=se084.wav][movefg textoff=0 opacity=255 left=-198 top=33 time=400 accel=3 layer=2][se storage=se085.wav][wvs][say storage=HSTR4_RIN_0250 _name=凛]絶対[wm canskip=0][wm canskip=0][wait canskip=0 time=200][move textoff=0 spread=1 mx=541 magnify=1 time=300 my=605 path=(522,548,255,2) layer=5 accel=-2][move textoff=0 spread=1 mx=541 magnify=1 time=300 my=605 path=(522,548,0,2) layer=4 accel=-2][movefg textoff=0 opacity=0 left=-198 top=33 time=300 accel=3 layer=2][movefg textoff=0 opacity=255 left=-198 top=33 time=300 accel=0 layer=3][se storage=se086.wav][wvs][say storage=HSTR4_RIN_0260 _name=凛]領域[wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][wait canskip=0 time=200][move textoff=0 spread=1 mx=185 magnify=1 time=600 my=320 path=(340,506,255,2) layer=3 accel=3][move textoff=0 spread=1 mx=517 magnify=1.42 time=150 my=563 path=(523,508,255,1.35)(600,339,255,0.71)(604,490,255,0.78)(635,335,255,0.71) layer=5 accel=2 spline=1][se storage=se087.wav][se storage=se088.wav][wvs][say storage=HSTR4_RIN_0270 _name=凛]黙示録……！！！！！」[wm canskip=0][wm canskip=0][se storage=se371.wav][wait canskip=0 time=200][movefg textoff=0 opacity=20 left=390 top=47 time=20 accel=0 layer=5][movefg textoff=0 opacity=20 left=-423 top=-34 time=20 accel=0 layer=3][se storage=se238.wav][se storage=se430.wav][se storage=se276.wav][wm canskip=0][wm canskip=0][movefg textoff=0 opacity=255 left=334 top=-50 time=3300 accel=0 layer=5][movefg textoff=0 opacity=255 left=-440 top=50 time=3300 accel=0 layer=3][dash textoff=0 hidefg=0 mx=0 opacity=100 layer=base irot=-0.0 cx=400 imag=3.15 time=500 cy=300 mag=1 my=0 storage=08魔術・攻撃b rot=-0.0 accel=-2][wdash canskip=0][dash textoff=0 hidefg=0 mx=0 opacity=100 layer=base irot=-0.0 cx=400 imag=3.15 time=500 cy=300 mag=1 my=0 storage=07衝撃 rot=-0.0 accel=-2][wdash canskip=0][dash textoff=0 hidefg=0 mx=0 opacity=255 layer=base irot=-0.0 cx=400 imag=4 time=2800 cy=300 mag=1.8 my=0 storage=08魔術・攻撃b rot=5 accel=-4][wdash canskip=0][wm canskip=0][wm canskip=0]",
+      "Pt-br": "\"Eles nos chamam de mendigos errantes, [wm canskip=0][wm canskip=0][movefg textoff=0 opacity=255 left=398 top=27 time=400 accel=3 layer=4][se storage=se084.wav][movefg textoff=0 opacity=255 left=-198 top=33 time=400 accel=3 layer=2][se storage=se085.wav][wvs][say storage=HSTR4_RIN_0250 _name=凛]ArcheRin Mix [wm canskip=0][wm canskip=0][wait canskip=0 time=200][move textoff=0 spread=1 mx=541 magnify=1 time=300 my=605 path=(522,548,255,2) layer=5 accel=-2][move textoff=0 spread=1 mx=541 magnify=1 time=300 my=605 path=(522,548,0,2) layer=4 accel=-2][movefg textoff=0 opacity=0 left=-198 top=33 time=300 accel=3 layer=2][movefg textoff=0 opacity=255 left=-198 top=33 time=300 accel=0 layer=3][se storage=se086.wav][wvs][say storage=HSTR4_RIN_0260 _name=凛]Remi[wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][wait canskip=0 time=200][move textoff=0 spread=1 mx=185 magnify=1 time=600 my=320 path=(340,506,255,2) layer=3 accel=3][move textoff=0 spread=1 mx=517 magnify=1.42 time=150 my=563 path=(523,508,255,1.35)(600,339,255,0.71)(604,490,255,0.78)(635,335,255,0.71) layer=5 accel=2 spline=1][se storage=se087.wav][se storage=se088.wav][wvs][say storage=HSTR4_RIN_0270 _name=凛] a Revelação...!!!\"[wm canskip=0][wm canskip=0][se storage=se371.wav][wait canskip=0 time=200][movefg textoff=0 opacity=20 left=390 top=47 time=20 accel=0 layer=5][movefg textoff=0 opacity=20 left=-423 top=-34 time=20 accel=0 layer=3][se storage=se238.wav][se storage=se430.wav][se storage=se276.wav][wm canskip=0][wm canskip=0][movefg textoff=0 opacity=255 left=334 top=-50 time=3300 accel=0 layer=5][movefg textoff=0 opacity=255 left=-440 top=50 time=3300 accel=0 layer=3][dash textoff=0 hidefg=0 mx=0 opacity=100 layer=base irot=-0.0 cx=400 imag=3.15 time=500 cy=300 mag=1 my=0 storage=08魔術・攻撃b rot=-0.0 accel=-2][wdash canskip=0][dash textoff=0 hidefg=0 mx=0 opacity=100 layer=base irot=-0.0 cx=400 imag=3.15 time=500 cy=300 mag=1 my=0 storage=07衝撃 rot=-0.0 accel=-2][wdash canskip=0][dash textoff=0 hidefg=0 mx=0 opacity=255 layer=base irot=-0.0 cx=400 imag=4 time=2800 cy=300 mag=1.8 my=0 storage=08魔術・攻撃b rot=5 accel=-4][wdash canskip=0][wm canskip=0][wm canskip=0]",
+      "id": 43908,
+      "epk_id": "43693",
+      "label": "$$$message_0370_0003_0000$$$"
+    },
+    {
+      "en": "[hfu]\"[hfl]\"[hfu][line len=1][hfl][line len=1][hfu][line len=1][hfl][line len=1][hfu][line len=1][hfl][line len=1][hfu][line len=1][hfl][line len=1][hfu][line len=1][hfl][line len=1][hfu][line len=1][hfl][line len=1][hfu]\"[hfl]\"[playstop time=6000 nowait=true][wait canskip=0 time=3000][nolr][p]",
+      "jp": "[hfu]「[hfl]「[hfu][line len=1][hfl][line len=1][hfu][line len=1][hfl][line len=1][hfu][line len=1][hfl][line len=1][hfu][line len=1][hfl][line len=1][hfu][line len=1][hfl][line len=1][hfu][line len=1][hfl][line len=1][hfu]」[hfl]」[playstop time=6000 nowait=true][wait canskip=0 time=3000][nolr][p]",
+      "Pt-br": "[hfu]\"[hfl]\"[hfu][line len=1][hfl][line len=1][hfu][line len=1][hfl][line len=1][hfu][line len=1][hfl][line len=1][hfu][line len=1][hfl][line len=1][hfu][line len=1][hfl][line len=1][hfu][line len=1][hfl][line len=1][hfu]\"[hfl]\"[playstop time=6000 nowait=true][wait canskip=0 time=3000][nolr][p]",
+      "id": 43909,
+      "epk_id": "43694",
+      "label": "$$$message_0370_0004_0000$$$"
+    },
+    {
+      "en": "\"...Hey.[lr]",
+      "jp": "「……ちょっと。[lr]",
+      "Pt-br": "\"...Ei.[lr]",
+      "id": 43910,
+      "epk_id": "43695",
+      "label": "$$$message_0370_0004_0001$$$"
+    },
+    {
+      "en": "Say something, you lot.\"",
+      "jp": "　なんか言いなさいよ、アンタたち」",
+      "Pt-br": "Digam alguma coisa, vocês.\"",
+      "id": 43911,
+      "epk_id": "43696",
+      "label": "$$$message_0370_0004_0002$$$"
+    },
+    {
+      "en": "\"...Huh? Uh, [l][hfchance layer=1][say storage=HSTR4_TIG_0020 _name=è¤ã­ã]crap, I forgot everything.\"",
+      "jp": "「……え？　あ、[l][hfchance layer=1][say storage=HSTR4_TIG_0020 _name=藤ねえ]やば、思わず何もかも忘れちゃった」",
+      "Pt-br": "\"...Hã? Ah, [l][hfchance layer=1][say storage=HSTR4_TIG_0020 _name=藤ねえ]droga, esqueci tudo.\"",
+      "id": 43912,
+      "epk_id": "43697",
+      "label": "$$$message_0370_0004_0003$$$"
+    },
+    {
+      "en": "\"Um, look out, Illya. Tohsaka's being weird today. Actually, she's practically a whole different person...!\"",
+      "jp": "「えーと、気をつけてイリヤちゃん、今日の遠坂さんはどこかヘンっていうかもはや別人よ……！」",
+      "Pt-br": "\"Hum, cuidado, Illya-chan. A Tohsaka-san está estranha hoje. Na verdade, parece quase outra pessoa...!\"",
+      "id": 43913,
+      "epk_id": "43698",
+      "label": "$$$message_0370_0004_0004$$$"
+    },
+    {
+      "en": "\"So she wasn't a straight shooter after all!\"",
+      "jp": "「コ、コイツはシラフじゃかなわねー！」",
+      "Pt-br": "\"Então ela não era tão direta assim, no fim das contas!\"",
+      "id": 43914,
+      "epk_id": "43699",
+      "label": "$$$message_0370_0004_0005$$$"
+    },
+    {
+      "en": "\"I think you could both compete for that honor... Though yeah, Rin's unexpectedly hara-kiri.\"",
+      "jp": "「……タイガもいい勝負だと思うけど……まあ、たしかにリンとは思えないハラキリぶりね」",
+      "Pt-br": "\"Acho que vocês duas poderiam disputar essa honra... Embora, sim, a Rin esteja cometendo suicídio social sozinha.\"",
+      "id": 43915,
+      "epk_id": "43700",
+      "label": "$$$message_0370_0004_0006$$$"
+    },
+    {
+      "en": "\"Is she here for payback too because she didn't get enough screen time in the main story?\"",
+      "jp": "「なに、本編でイマイチパッとしなかったから、ここらで巻き返しを図ろうってコト？」",
+      "Pt-br": "\"Ela também veio se vingar porque não teve tempo de tela suficiente na história principal?\"",
+      "id": 43916,
+      "epk_id": "43701",
+      "label": "$$$message_0370_0004_0007$$$"
+    },
+    {
+      "en": "\"Ahahaha. You mean [font italic=true]harikiri[font italic=false], Illya. It means 'excited.' But I gotta say, either one fits!\"",
+      "jp": "「あはは。イリヤちゃん、それハリキリハリキリ。でも意味はなんとなく合っているわ！」",
+      "Pt-br": "\"Ahahaha. Você quer dizer [font italic=true]harakiri[font italic=false], Illya-chan. Significa \"cortar a barriga\". Mas, pensando bem, os dois servem!\"",
+      "id": 43917,
+      "epk_id": "43702",
+      "label": "$$$message_0370_0004_0008$$$"
+    },
+    {
+      "en": "\"Tohsaka, don't get ahead of yourself just because you've stepped down from being a heroine.\"",
+      "jp": "「遠坂さん、ヒロインから降板したからってはやまっちゃダメよー」",
+      "Pt-br": "\"Tohsaka-san, não se empolgue só porque desceu do posto de heroína e veio para o campo de batalha.\"",
+      "id": 43918,
+      "epk_id": "43703",
+      "label": "$$$message_0370_0004_0009$$$"
+    },
+    {
+      "en": "\"I never said I was doing that![lr]",
+      "jp": "「そんな気はありませんっ！[lr]",
+      "Pt-br": "\"Eu nunca disse que estava fazendo isso![lr]",
+      "id": 43919,
+      "epk_id": "43704",
+      "label": "$$$message_0370_0004_0010$$$"
+    },
+    {
+      "en": "I'm just here to beat you up as a Master!\"",
+      "jp": "　わたしたちは純粋に、マスターとして貴女たちを叩きのめしに来ただけよ！」",
+      "Pt-br": "Estou aqui só para dar uma surra em vocês como Mestra!\"",
+      "id": 43920,
+      "epk_id": "43705",
+      "label": "$$$message_0370_0004_0011$$$"
+    },
+    {
+      "en": "\"I-it's not as if I intend to use the Holy Grail to cram a London subplot into the story!\"",
+      "jp": "「べ、別に聖杯の力でロンドン編をねじこもうなんて考えてもいないんだから！」",
+      "Pt-br": "\"N-não é como se eu pretendesse usar o Santo Graal para enfiar um subenredo de Londres na história!\"",
+      "id": 43921,
+      "epk_id": "43706",
+      "label": "$$$message_0370_0004_0012$$$"
+    },
+    {
+      "en": "\"Well, well. How selfless of you. As your former teacher, I'm touched.\"",
+      "jp": "「ありゃりゃ。遠坂さんったら無欲なのね。先生ちょっと感動」",
+      "Pt-br": "\"Ora, ora. Quanta abnegação. Como sua ex-sensei, fico comovida, Tohsaka-san.\"",
+      "id": 43922,
+      "epk_id": "43707",
+      "label": "$$$message_0370_0004_0013$$$"
+    },
+    {
+      "en": "\"Hardly. She might be the greediest person in all of Fuyuki. Wouldn't you say, Archer?\"",
+      "jp": "「まさか、冬木市一欲望まみれのリンがそんなワケないじゃない。ね、アーチャー？」",
+      "Pt-br": "\"Generosa nada. Ela talvez seja a pessoa mais gananciosa de Fuyuki. Não acha, Archer?\"",
+      "id": 43923,
+      "epk_id": "43708",
+      "label": "$$$message_0370_0004_0014$$$"
+    },
+    {
+      "en": "\"Now now, impossible ambitions are harmless, you know.\"",
+      "jp": "「いやいや、実現しない欲望は無害だからね」",
+      "Pt-br": "\"Ora, ora, ambições impossíveis são inofensivas, sabe.\"",
+      "id": 43924,
+      "epk_id": "43709",
+      "label": "$$$message_0370_0004_0015$$$"
+    },
+    {
+      "en": "\"Besides, even if she was somehow the last woman standing, she'd bungle it at the last minute somehow. Hardly a threat to Fuyuki's peace and quiet.\"",
+      "jp": "「ま、仮に勝ち残ったところで最後の最後でしくじるのがいつものオチだ。冬木市を混乱に陥れるコトはあるまい」",
+      "Pt-br": "\"Além disso, mesmo que por algum milagre ela fosse a última de pé, daria um jeito de estragar tudo no último minuto. Mal chega a ser ameaça à paz de Fuyuki.\"",
+      "id": 43925,
+      "epk_id": "43710",
+      "label": "$$$message_0370_0004_0016$$$"
+    },
+    {
+      "en": "\"Aha, you sure know her well, Archer.\"",
+      "jp": "「あは、さっすがアーチャー、リンのコトよく分かってるー」",
+      "Pt-br": "\"Aha, você conhece bem a Rin, Archer.\"",
+      "id": 43926,
+      "epk_id": "43711",
+      "label": "$$$message_0370_0004_0017$$$"
+    },
+    {
+      "en": "\"Hey, stop fraternizing with the enemy!\"",
+      "jp": "「そこ、敵と和まないっ！」",
+      "Pt-br": "\"Ei, para de confraternizar com o inimigo!\"",
+      "id": 43927,
+      "epk_id": "43712",
+      "label": "$$$message_0370_0004_0018$$$"
+    },
+    {
+      "en": "[hffacechg chara=å face=æ¥½ pos=upper time=200]\"Hmph! That's enough chitchat. I more or less know how strong you are.\"",
+      "jp": "[hffacechg chara=凛 face=楽 pos=upper time=200]「[line len=3]ふん、無駄話はここまでよ。貴女たちの実力はだいたい分かったわ」",
+      "Pt-br": "[hffacechg chara=凛 face=楽 pos=upper time=200]\"Hmph! Chega de conversa fiada. Eu já sei mais ou menos o quanto vocês são fortes.\"",
+      "id": 43928,
+      "epk_id": "43713",
+      "label": "$$$message_0370_0005_0000$$$"
+    },
+    {
+      "en": "\"You've got an odd Servant, but I don't think she can outdo Archer in a match of Reality Marbles.\"",
+      "jp": "「おかしなサーヴァントを連れているけど、固有結界勝負でわたしのアーチャーに勝てると思わないことね」",
+      "Pt-br": "\"Você tem uma Serva estranha, mas não acho que ela consiga superar Archer numa disputa de Projeções de Realidade.\"",
+      "id": 43929,
+      "epk_id": "43714",
+      "label": "$$$message_0370_0005_0001$$$"
+    },
+    {
+      "en": "\"Mrgh. Now that you mention it, I do feel a certain kinship.\"",
+      "jp": "「む。言われてみれば、なんとなく親近感が」",
+      "Pt-br": "\"Mrgh. Agora que você mencionou, sinto mesmo certa afinidade.\"",
+      "id": 43930,
+      "epk_id": "43715",
+      "label": "$$$message_0370_0005_0002$$$"
+    },
+    {
+      "en": "[hffacechg chara=è¤ã­ã face=ã¾ã£ãã2 layer=1 time=200]\"Hmm. You know, I feel like I've seen you somewhere before. Have we met somewhere, Mister Tall, Dark, and Handsome?\"",
+      "jp": "[hffacechg chara=藤ねえ face=まったく2 layer=1 time=200]「……んー、なんだろ、なんか見たことあるような。そこの色黒、前にわたしと会ったコトある？」",
+      "Pt-br": "[hffacechg chara=藤ねえ face=まったく2 layer=1 time=200]\"Hmm. Sabe, tenho a sensação de que já cruzei com você antes. A gente se conhece de algum lugar, senhor alto, moreno e bonito, Fuji-nee?\"",
+      "id": 43931,
+      "epk_id": "43716",
+      "label": "$$$message_0370_0006_0000$$$"
+    },
+    {
+      "en": "\"Well, if you don't remember, then we must not be acquainted. Maybe I just have one of those faces. Don't worry about it and come at me.\"",
+      "jp": "「さて。そちらが覚えていないのなら、面識はないという事だろう。他人のそら似だ、気にせずかかってくるといい」",
+      "Pt-br": "\"Bem, se você não se lembra, talvez não nos conheçamos. Talvez eu só tenha um rosto comum. Não se preocupe e venha com tudo.\"",
+      "id": 43932,
+      "epk_id": "43717",
+      "label": "$$$message_0370_0006_0001$$$"
+    },
+    {
+      "en": "\"...I've always had a feeling you were soft on Taiga.\"",
+      "jp": "「……むー、やっぱりアーチャーはタイガに甘い」",
+      "Pt-br": "\"...Sempre achei que você pegava leve com a Taiga.\"",
+      "id": 43933,
+      "epk_id": "43718",
+      "label": "$$$message_0370_0006_0002$$$"
+    },
+    {
+      "en": "\"I know all about it, you know. [l][hfpop layer=1][say storage=HSTR4_BIR_0080 _name=ãã«ãã¤ãªã¤]After you escaped from Caster in Rin's route and asked if she was okay, was that really directed at Rin?\"",
+      "jp": "「わたし知ってるよ。[l][hfpop layer=1][say storage=HSTR4_BIR_0080 _name=ブルマイリヤ]凛ルートでキャスターから逃げた後、凛に『無事か？』って確かめたの、誰に対してだったのかなー？」",
+      "Pt-br": "\"Eu sei tudinho, sabia. [l][hfpop layer=1][say storage=HSTR4_BIR_0080 _name=ブルマイリヤ]Quando você escapou da Caster na rota da Rin e perguntou se ela estava bem, aquilo era mesmo para a Rin?\"",
+      "id": 43934,
+      "epk_id": "43719",
+      "label": "$$$message_0370_0006_0003$$$"
+    },
+    {
+      "en": "\"Oh, I don't know. I'll leave it to your imagination.\"",
+      "jp": "「どうだかな。君の想像にお任せするよ」",
+      "Pt-br": "\"Ah, não sei. Deixe para a sua imaginação.\"",
+      "id": 43935,
+      "epk_id": "43720",
+      "label": "$$$message_0370_0006_0004$$$"
+    },
+    {
+      "en": "\"I said, no fraternizing![lr]",
+      "jp": "「だから和むなー！[lr]",
+      "Pt-br": "\"Eu disse: nada de confraternizar![lr]",
+      "id": 43936,
+      "epk_id": "43721",
+      "label": "$$$message_0370_0006_0005$$$"
+    },
+    {
+      "en": "Saber and Sakura are out of the fight, and Emiya's just laid out over there. You're the only one left, Illya.\"",
+      "jp": "　セイバーと桜は脱落、衛宮くんもそこでのびてるし、残るは貴女だけよイリヤ」",
+      "Pt-br": "Saber e Sakura estão fora da luta, e Emiya-kun está estirado ali. Você é a única que resta, Illya.\"",
+      "id": 43937,
+      "epk_id": "43722",
+      "label": "$$$message_0370_0006_0006$$$"
+    },
+    {
+      "en": "\"It's time to settle once and for all who's the strongest in the Emiya household!\"",
+      "jp": "「衛宮邸最強は誰なのか、ここでハッキリさせてあげるわ！」",
+      "Pt-br": "\"É hora de decidir de uma vez por todas quem é a mais forte da casa Emiya!\"",
+      "id": 43938,
+      "epk_id": "43723",
+      "label": "$$$message_0370_0006_0007$$$"
+    },
+    {
+      "en": "\"You got it! [l][hffacechg chara=è¤ã­ã face=ãã¼ã layer=1 time=200][hfchance layer=1][say storage=HSTR4_TIG_0120 _name=è¤ã­ã]Wait, what about me!?[lr]",
+      "jp": "「望むところよ[line len=3][l][hffacechg chara=藤ねえ face=うーん layer=1 time=200][hfchance layer=1][say storage=HSTR4_TIG_0120 _name=藤ねえ]って、わたしは！？[lr]",
+      "Pt-br": "\"Isso aí! [l][hffacechg chara=藤ねえ face=うーん layer=1 time=200][hfchance layer=1][say storage=HSTR4_TIG_0120 _name=藤ねえ]Espera, e eu!?[lr]",
+      "id": 43939,
+      "epk_id": "43724",
+      "label": "$$$message_0370_0006_0008$$$"
+    },
+    {
+      "en": "[hfwww layer=1]How come I don't count as a rival heroine, Tohsaka!?\"[nolr][p]:Ý\u0011",
+      "jp": "　[hfwww layer=1]わたしはライバルヒロインの枠に入ってないの遠坂さぁぁあーん！？」[nolr][p]",
+      "Pt-br": "[hfwww layer=1]Como é que eu não conto como heroína rival, Tohsaka!?\"[nolr][p]",
+      "id": 43940,
+      "epk_id": "43725",
+      "label": "$$$message_0370_0006_0009$$$"
+    }
+  ]
+}

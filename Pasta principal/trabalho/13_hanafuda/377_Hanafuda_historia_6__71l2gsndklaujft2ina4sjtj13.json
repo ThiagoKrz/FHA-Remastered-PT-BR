@@ -1,0 +1,720 @@
+{
+  "cena": "71l2gsndklaujft2ina4sjtj13",
+  "titulo": "Hanafuda: história 6",
+  "rota": "Hanafuda",
+  "arquivo": "71l2gsndklaujft2ina4sjtj13.epk_dec",
+  "linhas": [
+    {
+      "en": "\"This forest sure runs deep. Is Berserker around?\"",
+      "jp": "ããã£ããæ·±ãæ£®ã­ã¼ããããªã¨ããã«ãã¼ãµã¼ã«ã¼ãããã®ãããã",
+      "Pt-br": "\"Essa floresta vai longe mesmo. Berserker está por aqui?\"",
+      "id": 44088,
+      "epk_id": "43874",
+      "label": "$$$message_0374_0000_0000$$$"
+    },
+    {
+      "en": "\"...He's definitely close. I can sense him.\"",
+      "jp": "ãâ¦â¦è¿ãã«ããã®ã¯ééããªãããããã¤ã®æ°é\nãæãããã®ã",
+      "Pt-br": "\"...Ele está perto, sem dúvida. Consigo senti-lo.\"",
+      "id": 44089,
+      "epk_id": "43875",
+      "label": "$$$message_0374_0000_0001$$$"
+    },
+    {
+      "en": "\"Really? Then I guess we'll just keep heading in a straight line.\"",
+      "jp": "ãããï¼ããªããã®ã¾ã¾ã©ãã¾ã§ãçã£ç´ãè¡ãã°ãªãã±ã¼ã­ã",
+      "Pt-br": "\"É? Então acho melhor continuarmos em linha reta.\"",
+      "id": 44090,
+      "epk_id": "43876",
+      "label": "$$$message_0374_0000_0002$$$"
+    },
+    {
+      "en": "\"I haven't mentioned it yet, but I'm not very confident in my sense of direction...[wvs][hffacechg chara=藤ねえ face=うーん2 layer=1 left=7 top=397 time=200][se storage=se025.wav][hfchance layer=1][hfquake layer=message1 time=800 wait=0 hmax=5 vmax=15][say storage=HSTR6_TIG_0040 _name=藤ねえ]ow!\"",
+      "jp": "ãä»ã¾ã§é»ã£ã¦ããã©ããããæ¹åæè¦ã«èªä¿¡ããªãäººãªã®ã§ãã£ãã£ã¦ã[wvs][hffacechg chara=è¤ã­ã face=ãã¼ã2 layer=1 left=7 top=397 time=200][se storage=se025.wav][hfchance layer=1][hfquake layer=message1 time=800 wait=0 hmax=5 vmax=15][say storage=HSTR6_TIG_0040 _name=è¤ã­ã]ãçã£ã",
+      "Pt-br": "\"Ainda não mencionei, mas não estou muito confiante em meu senso de direção...[wvs][hffacechg chara=藤ねえ face=うーん2 layer=1 left=7 top=397 time=200][se storage=se025.wav][hfchance layer=1][hfquake layer=message1 time=800 wait=0 hmax=5 vmax=15][say storage=HSTR6_TIG_0040 _name=藤ねえ]ow!\"",
+      "id": 44091,
+      "epk_id": "43877",
+      "label": "$$$message_0374_0000_0003$$$"
+    },
+    {
+      "en": "\"That hurt... [l][hfwww layer=1][say storage=HSTR6_TIG_0070 _name=藤ねえ]What the heck? Who planted this tree in the middle of the path? It's obstructing traf[line len=2]\"",
+      "jp": "ããã£ããâ¦â¦[l][hfwww layer=1][say storage=HSTR6_TIG_0070 _name=è¤ã­ã]ãªã«ãã\nãããéã®çãä¸­ã«æ¨ãªããæ¤ãã¦ãéè¡ã®éªé­ã«[line len=3]ã",
+      "Pt-br": "\"Isso doeu... [l][hfwww layer=1][say storage=HSTR6_TIG_0070 _name=藤ねえ]Que diabos? Quem plantou essa árvore no meio do caminho? Está bloqueando o tráfego[line len=2]\"",
+      "id": 44092,
+      "epk_id": "43878",
+      "label": "$$$message_0374_0000_0004$$$"
+    },
+    {
+      "en": "\"......\"",
+      "jp": "ã[line len=9]ã",
+      "Pt-br": "\"......\"",
+      "id": 44093,
+      "epk_id": "43879",
+      "label": "$$$message_0374_0000_0005$$$"
+    },
+    {
+      "en": "\"GAHHHHHH!\"[rf]",
+      "jp": "ããããã¼ã¼ã¼ã¼ã¼ã¼ã¼ï¼ã[rf]",
+      "Pt-br": "\"GAHHHHHH!\"[rf]",
+      "id": 44094,
+      "epk_id": "43880",
+      "label": "$$$message_0374_0000_0006$$$"
+    },
+    {
+      "en": "\"Macho! His muscle aura is macho enough to wither all the trees within half an acre!\"",
+      "jp": "ããããã§ï¼ãããã¹ã«ãªã¼ã©ã ãã§åã¨ã¼ã«ã¼ã®ä½ç©ãæ¯æ¸ããããããã®ãããã§ï¼ã",
+      "Pt-br": "\"Macho! Sua aura muscular é tão macha que consegue deixar murchar todas as árvores dentro de meia acre!\"",
+      "id": 44095,
+      "epk_id": "43881",
+      "label": "$$$message_0374_0001_0000$$$"
+    },
+    {
+      "en": "\"I-i-i-is this the Einzberns' loli Master I've heard so much about!?\"",
+      "jp": "ããããããããã¦ã¯ãµã®ãã¢ã¤ã³ããã«ã³ã®ã­ãªã£å¨ãã¹ã¿ã¼ããï¼ï¼ï¼ï¼ï¼ã",
+      "Pt-br": "\"E-e-e-essa é a Mestra loli dos Einzbern de quem ouvi tanto falar!?\"",
+      "id": 44096,
+      "epk_id": "43883",
+      "label": "$$$message_0374_0001_0002$$$"
+    },
+    {
+      "en": "\"Obviously not, you moron![lr]",
+      "jp": "ããããªã¯ã±ãªãã§ããããã«ã¿ã¤ã¬ï¼[lr]",
+      "Pt-br": "\"Claro que não, seu idiota![lr]",
+      "id": 44097,
+      "epk_id": "43884",
+      "label": "$$$message_0374_0001_0003$$$"
+    },
+    {
+      "en": "Goodness, you've still got pudding for brains even after becoming a Servant.\"",
+      "jp": "ãã¾ã£ããããµã¼ã´ã¡ã³ãã«ãªã£ã¦ããè³ã¯ãã«ãã«ãªãã ããã",
+      "Pt-br": "Céus, mesmo depois de virar um Servo você continua com pudim no lugar do cérebro.\"",
+      "id": 44098,
+      "epk_id": "43885",
+      "label": "$$$message_0374_0001_0004$$$"
+    },
+    {
+      "en": "\"Huh? Illya, why'd you suddenly change clothes? [l][hffeelgood layer=1][say storage=HSTR6_TIG_0130 _name=藤ねえ]What happened to your old-fashioned P.E. outfit?\"",
+      "jp": "ãããï¼ãã©ãããã®ã¤ãªã¤ã¡ããããããªãçæ¿ãã¡ãã£ã¦ã[l][hffeelgood layer=1][say storage=HSTR6_TIG_0130 _name=è¤ã­ã]ãã£ãã¾ã§ã®æ§æä»£çãªä½ææã¯ã©ããã£ãã¼ï¼ã",
+      "Pt-br": "\"Hmm? Illya-chan, por que você mudou de roupa de repente? [l][hffeelgood layer=1][say storage=HSTR6_TIG_0130 _name=藤ねえ]O que aconteceu com seu antigo uniforme de P.E.?\"",
+      "id": 44099,
+      "epk_id": "43886",
+      "label": "$$$message_0374_0001_0005$$$"
+    },
+    {
+      "en": "\"Strike, [hfchance layer=0]dummy! Look carefully! I'm over here! [hfchance layer=0]She's a fake.\"",
+      "jp": "ãã¹ãã©ã¤ã¯[hfchance layer=0]ã»ãã«ï¼ãããè¦ãªããããããã¯ãã£ã¡ã[hfchance layer=0]å½ç©ã¯ãã£ã¡ãã",
+      "Pt-br": "\"Strike, [hfchance layer=0]dummy! Preste atenção! Estou aqui! [hfchance layer=0]Ela é uma farsa.\"",
+      "id": 44100,
+      "epk_id": "43887",
+      "label": "$$$message_0374_0001_0006$$$"
+    },
+    {
+      "en": "\"Now, stop hiding behind Taiga and come out, you loser with nowhere to go.\"",
+      "jp": "ãã»ããã¿ã¤ã¬ã®èä¸­ã«é ãã¦ãªãã§åºã¦ããªãããå±\nå ´æããªãããè² ãç¬ããã",
+      "Pt-br": "\"Agora, para de se esconder atrás da Taiga e saia daí, você é um perdedor sem para onde ir.\"",
+      "id": 44101,
+      "epk_id": "43888",
+      "label": "$$$message_0374_0001_0007$$$"
+    },
+    {
+      "en": "\"...\"",
+      "jp": "ã[line len=6]ã",
+      "Pt-br": "\"...\"",
+      "id": 44102,
+      "epk_id": "43889",
+      "label": "$$$message_0374_0001_0008$$$"
+    },
+    {
+      "en": "\"Oh, Illya.[lr]",
+      "jp": "ãããã¤ãªã¤ã¡ããã[lr]",
+      "Pt-br": "\"Oh, Illya-chan.[lr]",
+      "id": 44103,
+      "epk_id": "43890",
+      "label": "$$$message_0374_0001_0009$$$"
+    },
+    {
+      "en": "[hffeelgood layer=1]Um. What's going on? Why are there two of you?\"",
+      "jp": "ã[hffeelgood layer=1]ãããï¼ãã©ãããã³ãããªãã§ã¤ãªã¤ã¡ãããäºäººãããã®ï¼ã",
+      "Pt-br": "[hffeelgood layer=1]Um. O que está acontecendo? Por que há duas de vocês, Illya-chan?\"",
+      "id": 44104,
+      "epk_id": "43891",
+      "label": "$$$message_0374_0001_0010$$$"
+    },
+    {
+      "en": "\"Actually, who's that human fortress who's been standing there, stiff as a tree?\"",
+      "jp": "ãã¤ã¼ãããã£ãããããã§åºã¾ã£ã¦ãäººéåå¡ã¯èª°ããªããï¼ã",
+      "Pt-br": "\"Na verdade, quem é aquele ser humano fortaleza que tem estado ali, rígido como uma árvore?\"",
+      "id": 44105,
+      "epk_id": "43892",
+      "label": "$$$message_0374_0001_0011$$$"
+    },
+    {
+      "en": "\"...\"",
+      "jp": "ã[line len=6]ã",
+      "Pt-br": "\"...\"",
+      "id": 44106,
+      "epk_id": "43893",
+      "label": "$$$message_0374_0001_0012$$$"
+    },
+    {
+      "en": "\"Urgh. I can tell he's on a whole different level from anyone else we've faced.\"",
+      "jp": "ãããä»ã¾ã§ã®ç¸æã¨ã¯æ¬¡å\néãã®ãã®è¿«åã",
+      "Pt-br": "\"Ugh. Posso sentir que ele está em um nível completamente diferente de qualquer um que já enfrentamos.\"",
+      "id": 44107,
+      "epk_id": "43894",
+      "label": "$$$message_0374_0001_0013$$$"
+    },
+    {
+      "en": "\"Are you telling me we pulled the guy who doesn't have a sprite in the original game?\"",
+      "jp": "ããããâ¦â¦ãã¾ãã®è¦æ ¼å¤ãããFateæ¬ç·¨ã§ç«ã¡çµµã®ãªãã£ããã®ãæ¹â¦â¦ï¼ã",
+      "Pt-br": "\"Você está me dizendo que pegamos o cara que não tem um sprite no jogo original?\"",
+      "id": 44108,
+      "epk_id": "43895",
+      "label": "$$$message_0374_0002_0000$$$"
+    },
+    {
+      "en": "\"That's right. I'm the real Illyasviel von Einzbern.\"",
+      "jp": "ãããããããããæ­£çæ­£éã®ã¤ãªã¤ã¹ãã£ã¼ã«ã»ãã©ã³ã»ã¢ã¤ã³ããã«ã³ã",
+      "Pt-br": "\"Isso mesmo. Sou a verdadeira Illyasviel von Einzbern.\"",
+      "id": 44109,
+      "epk_id": "43896",
+      "label": "$$$message_0374_0002_0001$$$"
+    },
+    {
+      "en": "\"And this is my Servant, Berserker.\"",
+      "jp": "ãããã¦ããããããã®ãµã¼ã´ã¡ã³ãããã¼ãµã¼ã«ã¼ã",
+      "Pt-br": "\"E este é o meu Servo, Berserker.\"",
+      "id": 44110,
+      "epk_id": "43898",
+      "label": "$$$message_0374_0003_0000$$$"
+    },
+    {
+      "en": "\"Unlike a certain duo just coasting on their popularity, [l][hfchance layer=0][say storage=HSTR6_IRI_0110 _name=イリヤ]we're the actual strongest team.\"",
+      "jp": "ãäººæ°ã ãã§æå¼·ãé¨ã£ã¦ããã©ã£ãã®ã³ã³ãã¨ã¯éãã[l][hfchance layer=0][say storage=HSTR6_IRI_0110 _name=ã¤ãªã¤]æ¬å½ã®æå¼·ã³ã³ããªãã ããã",
+      "Pt-br": "\"Contrário a certa dupla que só se apoia na popularidade, [l][hfchance layer=0][say storage=HSTR6_IRI_0110 _name=イリヤ]somos a equipe de fato mais forte.\"",
+      "id": 44111,
+      "epk_id": "43899",
+      "label": "$$$message_0374_0003_0001$$$"
+    },
+    {
+      "en": "\"The real Illya? So...from the way this is going[fadebgm time=200 volume=40][seloop storage=se253 nowait=true][line len=3][wvl canskip=0 time=3300][nolr]",
+      "jp": "ãæ­£çæ­£éâ¦â¦ï¼ããã¼ã¨ããªãã ãä»ã¾ã§ã®æµããå¯ããã¨ã§ãã­[fadebgm time=200 volume=40][seloop storage=se253 nowait=true][line len=3][wvl canskip=0 time=3300][nolr]",
+      "Pt-br": "\"A Illya real? Então... da forma como isso está indo[fadebgm time=200 volume=40][seloop storage=se253 nowait=true][line len=3][wvl canskip=0 time=3300][nolr]",
+      "id": 44112,
+      "epk_id": "43900",
+      "label": "$$$message_0374_0003_0002$$$"
+    },
+    {
+      "en": "Are you one of those identical twin characters that are so popular lately?\"",
+      "jp": "ã¤ãªã¤ã¡ããããã¾[ruby text=ã¯ãã char=2]æµè¡ã®åå­ã­ã£ã©ï¼ã",
+      "Pt-br": "Você é um dos personagens gêmeos idênticos que estão tão populares ultimamente, Illya-chan?\"",
+      "id": 44113,
+      "epk_id": "43901",
+      "label": "$$$message_0374_0003_0003$$$"
+    },
+    {
+      "en": "\"...That was weak, even for you, Taiga.\"",
+      "jp": "ãâ¦â¦â¦â¦ã¿ã¤ã¬ã«ãã¦ã¯å¼±ããã±ã­ã",
+      "Pt-br": "\"...Foi fraco, até para você, Taiga.\"",
+      "id": 44114,
+      "epk_id": "43902",
+      "label": "$$$message_0374_0003_0004$$$"
+    },
+    {
+      "en": "\"It is what it is. If my imposter can become a Servant, then no wonder she'd get a bottom-barrel Servant.\"",
+      "jp": "ãã¾ãããããããããªããããããªå½ç©ããã¹ã¿ã¼ã«ãªã£ã¦ããã ããããµã¼ã´ã¡ã³ãã¨ãã¦ç²¾åº¦ãè½ã¡ãã®ãå½ç¶ãã­ã",
+      "Pt-br": "\"É o que é. Se minha impostora pode se tornar um Servo, não é surpresa que ela tenha acabado com um Servo de quinta categoria.\"",
+      "id": 44115,
+      "epk_id": "43903",
+      "label": "$$$message_0374_0003_0005$$$"
+    },
+    {
+      "en": "\"Hmm, was making silly comebacks one of my Servant skills?\"",
+      "jp": "ããããç§ã®ã¹ã­ã«ã¯ãã±ã ã£ãã®ã§ããã",
+      "Pt-br": "\"Hmm, rebater com piadinhas era um dos meus talentos como Servo?\"",
+      "id": 44116,
+      "epk_id": "43904",
+      "label": "$$$message_0374_0003_0006$$$"
+    },
+    {
+      "en": "\"Anyway, who cares?[l][hfchance layer=1][say storage=HSTR6_TIG_0240 _name=藤ねえ] Okay, so you're the more serious business version of Illya!\"[hffacechg chara=イリヤ face=楽 layer=0 time=200]",
+      "jp": "ãããã¯ã¾ãã©ãã§ãããã¨ãã¦ã[l][hfchance layer=1][say storage=HSTR6_TIG_0240 _name=è¤ã­ã]ãã£ã¨ããã£ã¡ã®ãã¸ã¡ãªæ¹ã®ã¤ãªã¤ã¡ããï¼ã[hffacechg chara=ã¤ãªã¤ face=æ¥½ layer=0 time=200]",
+      "Pt-br": "\"Enfim, quem liga?[l][hfchance layer=1][say storage=HSTR6_TIG_0240 _name=藤ねえ] Então você é a versão mais séria e profissional da Illya-chan!\"[hffacechg chara=イリヤ face=楽 layer=0 time=200]",
+      "id": 44117,
+      "epk_id": "43905",
+      "label": "$$$message_0374_0003_0007$$$"
+    },
+    {
+      "en": "\"What do you mean my Illya is an imposter? Is she someone disguised as Illya?\"",
+      "jp": "ããã£ã¡ã®ã¤ãªã¤ã¡ãããå½ç©ã£ã¦ã©ãããã³ãï¼ãããããã¦ããã£ã¡ã®ã¤ãªã¤ã¡ããã¯èª°ããå¤è£\nãã¦ããã®ï¼ã",
+      "Pt-br": "\"E você quer dizer que minha Illya-chan é uma falsa? Ela é alguém disfarçado como Illya-chan?\"",
+      "id": 44118,
+      "epk_id": "43906",
+      "label": "$$$message_0374_0003_0008$$$"
+    },
+    {
+      "en": "\"It's not a disguise. I'm the real Illya. I just...came from a different environment, I guess...\"",
+      "jp": "ãå¤è£\nãªãã¦ãã¦ãªããããããã¯æ¬ç©ã®ã¤ãªã¤ããâ¦â¦ãã©ããã£ã¡ã®ã¤ãªã¤ã¨ã¯éã£ã¦ããç°å¢ãéãã¨ãããâ¦â¦ã",
+      "Pt-br": "\"Não é disfarce. Eu sou a Illya de verdade. Só... vim de um ambiente diferente, acho...\"",
+      "id": 44119,
+      "epk_id": "43907",
+      "label": "$$$message_0374_0003_0009$$$"
+    },
+    {
+      "en": "\"She's saying that she got summoned from another world, Taiga. Unlike Heroic Spirits who have transcended timelines, she's an outsider from a completely different world.\"",
+      "jp": "ãããããã«ä»ã®ä¸çããå¼ã°ãããããã£ã¦ã³ãããã¿ã¤ã¬ãæéè»¸ãè¶\nè¶ããè±éã¨ã¯éããå®å\n¨ã«ä½æã®ä¸çã®é¨å¤è\nãªã®ã",
+      "Pt-br": "\"Ela está dizendo que foi invocada de outro mundo, Taiga. Ao contrário dos Espíritos Heroicos, que transcenderam as linhas do tempo, ela é uma forasteira vinda de um mundo completamente diferente.\"",
+      "id": 44120,
+      "epk_id": "43908",
+      "label": "$$$message_0374_0003_0010$$$"
+    },
+    {
+      "en": "\"Isn't that right, imposter? I'd be the fake if I traveled to your world, but you're in mine.\"",
+      "jp": "ããããã­å½ç©ããï¼ãããããè²´æ¹ã®ä¸çã«è¡ãã°å½ç©ã¯ãã£ã¡ã ãã©ãããã¯ããããã¡ã®ä¸çãã",
+      "Pt-br": "\"Isso mesmo, imitador? Eu seria o falso se tivesse viajado para seu mundo, mas você está no meu.\"",
+      "id": 44121,
+      "epk_id": "43909",
+      "label": "$$$message_0374_0003_0011$$$"
+    },
+    {
+      "en": "\"Sorry, but you were chased out of your own world and don't belong here. Just disappear like the fake you are.\"",
+      "jp": "ãæªããã©ãèªåã®ä¸çããè¿½ãåºãããè²´æ¹ã«å±\nå ´æãªãã¦ãªãããå½ç©ã¯å½ç©ããããããã§æ¶ãå»ã£ã¦ãã¾ããªããã",
+      "Pt-br": "\"Desculpe, mas você foi expulso do seu próprio mundo e não pertence aqui. Só desapareça como o falso que é.\"",
+      "id": 44122,
+      "epk_id": "43910",
+      "label": "$$$message_0374_0003_0012$$$"
+    },
+    {
+      "en": "\"Wait, what!? Hold on, Illya is Illya but she's gonna kill Illya?\"",
+      "jp": "ãããï¼ï¼ãã¡ãã£ã¨å¾\nã£ããã¤ãªã¤ã¡ããã¯ã¤ãªã¤ã¡ãããªã®ã«ã¤ãªã¤ã¡ãããæ®ºãã¨ããã®ï¼ã",
+      "Pt-br": "\"Espere, o que? Pára aí, Illya-chan é Illya-chan, mas ela vai matar Illya-chan?\"",
+      "id": 44123,
+      "epk_id": "43911",
+      "label": "$$$message_0374_0003_0013$$$"
+    },
+    {
+      "en": "\"...That's right. If this world has two Illyas, it'll eventually split in two.\"",
+      "jp": "ãâ¦â¦â¦â¦ããããä¸ã¤ã®ä¸çã«ã¤ãªã¤ãäºäººããããããããä¸çãã®ãã®ãäºã¤ã«åããã³ãã«ãªãã",
+      "Pt-br": "\"...Isso mesmo. Se este mundo tiver duas Illyas, ele acabará se dividindo em dois.\"",
+      "id": 44124,
+      "epk_id": "43912",
+      "label": "$$$message_0374_0003_0014$$$"
+    },
+    {
+      "en": "\"You know as well as I do what's more important if a version of oneself from another universe shows up.\"",
+      "jp": "ãè²´æ¹ãããã£ã¦ããç­ãã­ãä¸¦è¡ä¸çã®èªåãç¾ãããããã®ä¸çã®èªåã¯ä½ãå°éãã¹ããã£ã¦ã",
+      "Pt-br": "\"Você sabe tão bem quanto eu o que é mais importante se uma versão de si mesmo de outro universo aparecer.\"",
+      "id": 44125,
+      "epk_id": "43913",
+      "label": "$$$message_0374_0003_0015$$$"
+    },
+    {
+      "en": "\"...You'd prioritize yourself, first.[lr]",
+      "jp": "ãâ¦â¦èªå·±ã®åªå\nã[lr]",
+      "Pt-br": "\"...Você priorizaria a si mesmo em primeiro lugar.[lr]",
+      "id": 44126,
+      "epk_id": "43914",
+      "label": "$$$message_0374_0003_0016$$$"
+    },
+    {
+      "en": "In order for me to keep being me, I wouldn't tolerate the presence of any other selves...\"",
+      "jp": "ããããã¯ãããã§ããçºã«ãä»ã®ããããè¨±ãã¦ã¯ãªããªã[line len=3]ã",
+      "Pt-br": "Para que eu continue sendo eu, não toleraria a presença de nenhum outro eu...\"",
+      "id": 44127,
+      "epk_id": "43915",
+      "label": "$$$message_0374_0003_0017$$$"
+    },
+    {
+      "en": "\"Yeah. The Illya of this world has no choice but to kill an intruder like me..\"",
+      "jp": "ããããã­ããã®ä¸çã®ã¤ãªã¤ã¯ãä½æã®ããããæ®ºããªãã¨ãããªããã­â¦â¦ã",
+      "Pt-br": "\"Sim. A Illya deste mundo não tem escolha a não ser matar um intruso como eu.\"",
+      "id": 44128,
+      "epk_id": "43916",
+      "label": "$$$message_0374_0003_0018$$$"
+    },
+    {
+      "en": "\"...I'm glad to hear that. [l][hffacechg chara=イリヤ face=楽 layer=0 time=200][say storage=HSTR6_IRI_0210 _name=イリヤ]Even in another world, it sounds like I'm still someone who respects logic.\"",
+      "jp": "ãâ¦â¦è¯ãã£ãã[l][hffacechg chara=ã¤ãªã¤ face=æ¥½ layer=0 time=200][say storage=HSTR6_IRI_0210 _name=ã¤ãªã¤]ãããããã¡ããã¨éçãéãããããäººéã§ã",
+      "Pt-br": "\"...Fico feliz em ouvir isso. [l][hffacechg chara=イリヤ face=楽 layer=0 time=200][say storage=HSTR6_IRI_0210 _name=イリヤ]Mesmo em outro mundo, parece que ainda sou alguém que respeita a lógica.\"",
+      "id": 44129,
+      "epk_id": "43917",
+      "label": "$$$message_0374_0003_0019$$$"
+    },
+    {
+      "en": "\"I won't ask what you've experienced or how you left your world.\"",
+      "jp": "ãè²´æ¹ãèªåã®ä¸çã§ã©ããªçµé¨ãç©ãã§ãã©ããã£ã¦å¤ã«åºããã¯èããªããã",
+      "Pt-br": "\"Não perguntarei o que você experimentou ou como deixou seu mundo.\"",
+      "id": 44130,
+      "epk_id": "43918",
+      "label": "$$$message_0374_0003_0020$$$"
+    },
+    {
+      "en": "\"But to protect this reality, you need to disappear, Illyasviel.\"",
+      "jp": "ãç§©åºãç¶­æããçºãããã§æ¶ããªããã¤ãªã¤ã¹ãã£ã¼ã«ã",
+      "Pt-br": "\"Mas para proteger esta realidade, você precisa desaparecer, Illyasviel.\"",
+      "id": 44131,
+      "epk_id": "43919",
+      "label": "$$$message_0374_0004_0000$$$"
+    },
+    {
+      "en": "\"...(sigh) I thought I could keep up the facade, but it turned out I'm a Master in this world, too.\"",
+      "jp": "ãâ¦â¦ã¯ãããªãã¨ãèª¤é­åããã¨æã£ããã©ããã£ã±ããã£ã¡ã®ãããããã¹ã¿ã¼ã ã£ããã ã",
+      "Pt-br": "\"...(suspiro) Achei que conseguiria manter a fachada, mas acabou que também sou um Mestre neste mundo.\"",
+      "id": 44132,
+      "epk_id": "43920",
+      "label": "$$$message_0374_0004_0001$$$"
+    },
+    {
+      "en": "\"Sorry, Taiga. This is the end of the line for me. Give up on the Grail.\"",
+      "jp": "ããããã­ã¿ã¤ã¬ããããã¯ããã¾ã§ãèæ¯ã¯è«¦ãã¦ã",
+      "Pt-br": "\"Desculpe, Taiga. Isso é o fim da linha para mim. Abandone a Pedra Sagrada.\"",
+      "id": 44133,
+      "epk_id": "43921",
+      "label": "$$$message_0374_0004_0002$$$"
+    },
+    {
+      "en": "\"...All right. Do it, Berserker.\"",
+      "jp": "ãâ¦â¦â¦â¦â¦â¦ãããããã£ã¦ããã¼ãµã¼ã«ã¼ã",
+      "Pt-br": "\"...Bem. Faça isso, Berserker.\"",
+      "id": 44134,
+      "epk_id": "43922",
+      "label": "$$$message_0374_0004_0003$$$"
+    },
+    {
+      "en": "\"...\"",
+      "jp": "ã[line len=6]ã",
+      "Pt-br": "\"...\"",
+      "id": 44135,
+      "epk_id": "43923",
+      "label": "$$$message_0374_0004_0004$$$"
+    },
+    {
+      "en": "\"T-[l][hfchance layer=1][say storage=HSTR6_BIR_0100 _name=ブルマイリヤ]Taiga!?\"[nolr][p]",
+      "jp": "ããã[l][hfchance layer=1][say storage=HSTR6_BIR_0100 _name=ãã«ãã¤ãªã¤]ã¿ã¤ã¬â¦â¦ï¼ï¼ã[nolr][p]",
+      "Pt-br": "\"T-[l][hfchance layer=1][say storage=HSTR6_BIR_0100 _name=ブルマイリヤ]Taiga!?\"[nolr][p]",
+      "id": 44136,
+      "epk_id": "43924",
+      "label": "$$$message_0374_0005_0000$$$"
+    },
+    {
+      "en": "\"Hmm. Doesn't that sound off to you? [l][hffacechg chara=藤ねえ face=うーん2 layer=1 time=200][say storage=HSTR6_TIG_0290 _name=藤ねえ]Even if Illya kills you, it's only supposed to happen once we lose.\"",
+      "jp": "ããã¼ããªãããããããªãï¼[l]ã[hffacechg chara=è¤ã­ã face=ãã¼ã2 layer=1 time=200][say storage=HSTR6_TIG_0290 _name=è¤ã­ã]ã¤ãªã¤ã¡ãããããããã«ãã¦ããããã£ã¦ããããã¡ãè² ããå ´åã§ããï¼ã",
+      "Pt-br": "\"Hmm. Isso não soa estranho pra você? [l][hffacechg chara=藤ねえ face=うーん2 layer=1 time=200][say storage=HSTR6_TIG_0290 _name=藤ねえ]Mesmo que Illya-chan te mate, só deveria acontecer depois que perdemos.\"",
+      "id": 44137,
+      "epk_id": "43925",
+      "label": "$$$message_0374_0005_0001$$$"
+    },
+    {
+      "en": "\"This contest isn't over yet.\"[nolr][p]",
+      "jp": "ãã¾ã åè² ããã¦ãªãã®ã«ãã³ããè²´æ¹ãã¡ã[nolr][p]",
+      "Pt-br": "\"Este concurso ainda não terminou.\"[nolr][p]",
+      "id": 44138,
+      "epk_id": "43926",
+      "label": "$$$message_0374_0005_0002$$$"
+    },
+    {
+      "en": "\"B-[wait canskip=0 time=200][wvs][hfangry layer=0][say storage=HSTR6_IRI_0270 _name=イリヤ]but I've been saying this whole time that your Illya is fake!\"",
+      "jp": "ãã ã[wait canskip=0 time=200][wvs][hfangry layer=0][say storage=HSTR6_IRI_0270 _name=ã¤ãªã¤]ã ãããã£ã¡ã®ã¤ãªã¤ã¯å½ç©ã ã£ã¦è¨ã£ã¦ããããªãï¼ã",
+      "Pt-br": "\"B-[wait canskip=0 time=200][wvs][hfangry layer=0][say storage=HSTR6_IRI_0270 _name=イリヤ]mas eu já disse isso desde o início: sua Illya é falsa!\"",
+      "id": 44139,
+      "epk_id": "43927",
+      "label": "$$$message_0374_0005_0003$$$"
+    },
+    {
+      "en": "\"She won't be able to stay long no matter what happens, and she isn't the Illya you know!\"",
+      "jp": "ãã©ã®ã¿ã¡ãã£ã¡ã®ã¤ãªã¤ã¯é·ãã¯æ®ããªãããã¿ã¤ã¬ãç¥ã£ã¦ãã¤ãªã¤ãããªãã®ãï¼ï¼ã",
+      "Pt-br": "\"Ela não vai conseguir ficar muito tempo, não importa o que aconteça, e ela não é a Illya que você conhece!\"",
+      "id": 44140,
+      "epk_id": "43928",
+      "label": "$$$message_0374_0005_0004$$$"
+    },
+    {
+      "en": "[hfchance layer=0]\"Or are you okay with serving a fake Master?\"",
+      "jp": "[hfchance layer=0]ãããã¨ããã¿ã¤ã¬ã¯å½ç©ããã¹ã¿ã¼ã§ãããã®ï¼ã",
+      "Pt-br": "[hfchance layer=0]\"Ou você não se importa em servir a um Mestre falso?\"",
+      "id": 44141,
+      "epk_id": "43929",
+      "label": "$$$message_0374_0006_0000$$$"
+    },
+    {
+      "en": "\"...\"",
+      "jp": "ãâ¦â¦â¦â¦â¦â¦â¦â¦ã",
+      "Pt-br": "\"...\"",
+      "id": 44142,
+      "epk_id": "43930",
+      "label": "$$$message_0374_0006_0001$$$"
+    },
+    {
+      "en": "\"I'm not okay with it! I'm not interested in knock-offs!\"",
+      "jp": "ããããªãã£ï¼ãããã¿ããã«èå³ãªãï¼ã",
+      "Pt-br": "\"Eu não aceito isso! Não tenho interesse em imitações!\"",
+      "id": 44143,
+      "epk_id": "43931",
+      "label": "$$$message_0374_0006_0002$$$"
+    },
+    {
+      "en": "\"...\"",
+      "jp": "ãâ¦â¦â¦â¦â¦â¦â¦â¦ã",
+      "Pt-br": "\"...\"",
+      "id": 44144,
+      "epk_id": "43932",
+      "label": "$$$message_0374_0006_0003$$$"
+    },
+    {
+      "en": "\"Right? So settle down and[line len=2]\"",
+      "jp": "ãã§ãããï¼ããªãå¤§äººãã[line len=3]ã",
+      "Pt-br": "\"Direito? Então, acalme-se e...[line len=2]\"",
+      "id": 44145,
+      "epk_id": "43933",
+      "label": "$$$message_0374_0006_0004$$$"
+    },
+    {
+      "en": "\"But that's not the issue here! [l][hfchance layer=0][say storage=HSTR6_TIG_0340 _name=藤ねえ]To be honest, I don't care who's real or fake!\"",
+      "jp": "ãã§ãããã¨ããã¯å¥åé¡ãï¼[l]ã[hfchance layer=0][say storage=HSTR6_TIG_0340 _name=è¤ã­ã]æ­£ç´ãæ¬ç©ã¨ãå½ç©ã¨ãã©ãã§ãããããï¼ã",
+      "Pt-br": "\"Mas isso não é o problema aqui! [l][hfchance layer=0][say storage=HSTR6_TIG_0340 _name=藤ねえ]Para ser honesto, eu não me importo quem é real ou falso!\"",
+      "id": 44146,
+      "epk_id": "43934",
+      "label": "$$$message_0374_0006_0005$$$"
+    },
+    {
+      "en": "[hffacechg chara=藤ねえ face=まったく layer=0 time=200]\"To begin with, you've just been spouting a bunch of stuff at me I barely understand!\"",
+      "jp": "[hffacechg chara=è¤ã­ã face=ã¾ã£ãã layer=0 time=200]ãã¤ã¼ãããããªé£ããã³ããããã«è¨ããã¦ãå°ãã®ã§ããï¼ã",
+      "Pt-br": "[hffacechg chara=藤ねえ face=まったく layer=0 time=200]\"Primeiro, você só acabou de me dizer um monte de coisas que quase não entendo, Fuji-nee!\"",
+      "id": 44147,
+      "epk_id": "43935",
+      "label": "$$$message_0374_0007_0000$$$"
+    },
+    {
+      "en": "\"Illya is Illya!\"",
+      "jp": "ãã¤ãªã¤ã¡ããã¯ã¤ãªã¤ã¡ããï¼ã",
+      "Pt-br": "\"Illya-chan é Illya-chan!\"",
+      "id": 44148,
+      "epk_id": "43936",
+      "label": "$$$message_0374_0007_0001$$$"
+    },
+    {
+      "en": "\"Even if she isn't from here, she knew and summoned me.\"",
+      "jp": "ããã¨ãä½æã®ã¤ãªã¤ã¡ããã§ããããããç¥ã£ã¦ã¦ããããå¼ãã§ãã",
+      "Pt-br": "\"Mesmo que ela não venha daqui, ela sabia e me convocou, Illya-chan.\"",
+      "id": 44149,
+      "epk_id": "43937",
+      "label": "$$$message_0374_0007_0002$$$"
+    },
+    {
+      "en": "\"If that makes me her Servant, then I don't care!\"",
+      "jp": "ããããããµã¼ã´ã¡ã³ãã¨è¨ãã®ãªãããã§ã©ãã§ãããã®ã§ãï¼ã",
+      "Pt-br": "\"Se isso faz de mim o Servo dela, então tanto faz!\"",
+      "id": 44150,
+      "epk_id": "43938",
+      "label": "$$$message_0374_0008_0000$$$"
+    },
+    {
+      "en": "\"Yeah, even if every single person in the world was Illya, it wouldn't really bother me!\"[p][nolr]",
+      "jp": "ããããå\n¨äººé¡ãã¤ãªã¤ã¡ããã§ããããã¯ãã¾ãå°ãã¾ããï¼ã[p][nolr]",
+      "Pt-br": "\"É, mesmo que todas as pessoas no mundo fossem Illya-chan, isso não me incomodaria muito!\"[p][nolr]",
+      "id": 44151,
+      "epk_id": "43939",
+      "label": "$$$message_0374_0008_0001$$$"
+    },
+    {
+      "en": "\"Wha... [l][hfchance layer=0][say storage=HSTR6_BIR_0150 _name=ブルマイリヤ]Taiga, you're not making any sense! Why are you trying so hard to protect me!?\"[hffacechg chara=ブルマイリヤ face=うーん layer=1 time=200]",
+      "jp": "ããªã£[line len=3][l][hfchance layer=0][say storage=HSTR6_BIR_0150 _name=ãã«ãã¤ãªã¤]ã¿ã¤ã¬ãè¨ã£ã¦ãã³ãã¡ãã£ã¯ãã£ãï¼ï¼ããããªã«ã¾ã§ãã¦ããããåºãã®ï¼ï¼ã[hffacechg chara=ãã«ãã¤ãªã¤ face=ãã¼ã layer=1 time=200]",
+      "Pt-br": "\"Ei... [l][hfchance layer=0][say storage=HSTR6_BIR_0150 _name=ブルマイリヤ]Taiga, você não está fazendo sentido nenhum! Por que está tentando tanto proteger eu!?\"[hffacechg chara=ブルマイリヤ face=うーん layer=1 time=200]",
+      "id": 44152,
+      "epk_id": "43940",
+      "label": "$$$message_0374_0008_0002$$$"
+    },
+    {
+      "en": "\"Because I'll disappear if I don't!\"",
+      "jp": "ãã ã£ã¦ããããªãã¨ãããæ¶ãã¡ãããããï¼ã",
+      "Pt-br": "\"Porque vou desaparecer se não fizer!\"",
+      "id": 44153,
+      "epk_id": "43941",
+      "label": "$$$message_0374_0008_0003$$$"
+    },
+    {
+      "en": "\"Also, the other Illya is Illya, too!\"",
+      "jp": "ããã¨ããã£ã¡ã®ã¤ãªã¤ã¡ãããã¤ãªã¤ã¡ãããï¼ã",
+      "Pt-br": "\"Também a outra Illya-chan é Illya-chan, sim!\"",
+      "id": 44154,
+      "epk_id": "43942",
+      "label": "$$$message_0374_0008_0004$$$"
+    },
+    {
+      "en": "\"If ours is fake, then we can just use the Holy Grail's power to make room for another one!\"",
+      "jp": "ããã£ã¡ã ã¨å½ç©ã ã£ã¦ãããªããèæ¯ã®åã§ããä¸äººåãããèªåã®å¸­ãä½ãä¸ããªããï¼ã",
+      "Pt-br": "\"Se o nosso for falso, então é só usar o poder do Santo Graal para abrir espaço para outro!\"",
+      "id": 44155,
+      "epk_id": "43943",
+      "label": "$$$message_0374_0009_0000$$$"
+    },
+    {
+      "en": "\"B-but... I can never beat the real Illya... We're going to lose, Taiga.\"",
+      "jp": "ãã§ãã§ãâ¦â¦ããããããã©ããã£ã¦ãæ¬ç©ã«ã¯åã¦ãªããâ¦â¦ã¿ã¤ã¬ãè² ãã¡ãããâ¦â¦ï¼ã",
+      "Pt-br": "\"P- mas... Eu nunca conseguirei vencer a Illya real... Vamos perder, Taiga.\"",
+      "id": 44156,
+      "epk_id": "43944",
+      "label": "$$$message_0374_0009_0001$$$"
+    },
+    {
+      "en": "\"It's A-OK. Whom we're fighting doesn't matter to me!\"",
+      "jp": "ãã ããããã¶ããããã¯èª°ãç¸æã§ãæ°ã«ããªãããï¼ã",
+      "Pt-br": "\"Isso está certo. Quem estamos lutando não importa para mim!\"",
+      "id": 44157,
+      "epk_id": "43945",
+      "label": "$$$message_0374_0009_0002$$$"
+    },
+    {
+      "en": "\"I wasn't born to live a boring, ordinary life, anyway! If you're fine with that, then stick with me!\"",
+      "jp": "ããããã©ãããããã¯ããã¼ã«ã¯çããããªãå¥³ï¼ãããã§ãããªãä»ãã¦ããªããï¼ã",
+      "Pt-br": "\"Eu não nasci para viver uma vida chata e ordinária, então! Se você está de acordo com isso, fique comigo!\"",
+      "id": 44158,
+      "epk_id": "43946",
+      "label": "$$$message_0374_0009_0003$$$"
+    },
+    {
+      "en": "[hffacechg chara=藤ねえ face=まったく layer=0 time=200]\"I'll make you live a life that nobody else would dare emulate!\"",
+      "jp": "[hffacechg chara=è¤ã­ã face=ã¾ã£ãã layer=0 time=200]ãèª°ãçä¼¼ãããããªãçãæ¹ãããã¦ããããï¼ã",
+      "Pt-br": "[hffacechg chara=藤ねえ face=まったく layer=0 time=200]\"Vou fazer você viver uma vida que ninguém mais ousaria imitar, Fuji-nee!\"",
+      "id": 44159,
+      "epk_id": "43947",
+      "label": "$$$message_0374_0010_0000$$$"
+    },
+    {
+      "en": "\"T-Taiga...! That sounds like some martial arts manga line, but are you sure about this...?\"",
+      "jp": "ãã¿ãã¿ã¤ã¬â¦â¦ï¼ããªãã[ruby text=ãã¶ã]æ³ãã¹ã¿ã¼ãã¿ãããªå°è©ã ãã©ããã³ãã«ãããã§ããã®â¦â¦ï¼ã",
+      "Pt-br": "\"T-Taiga...! Isso soa como uma linha de mangá de artes marciais, mas você tem certeza disso...?\"",
+      "id": 44160,
+      "epk_id": "43948",
+      "label": "$$$message_0374_0010_0001$$$"
+    },
+    {
+      "en": "\"Yup! I actually prefer the gym shorts version of you!\"",
+      "jp": "ãããï¼ãããããã®ãã«ããããï¼ã",
+      "Pt-br": "\"É! Na verdade prefiro a versão de você com os shorts de academia!\"",
+      "id": 44161,
+      "epk_id": "43949",
+      "label": "$$$message_0374_0010_0002$$$"
+    },
+    {
+      "en": "\"So much that I burn with hatred at the sheer moe power radiating from your exposed thighs!\"",
+      "jp": "ãé²éª¨ãããèããã¯ã¼ã«æãã¿ãæããã»ã©ã«ï¼ã",
+      "Pt-br": "\"Tanto que ardo de ódio pelo poder de moe absurdo que irradia de suas pernas expostas!\"",
+      "id": 44162,
+      "epk_id": "43950",
+      "label": "$$$message_0374_0010_0003$$$"
+    },
+    {
+      "en": "\"...Haha. [l][hfwww layer=1][say storage=HSTR6_BIR_0200 _name=ブルマイリヤ]I'm amazed at how dumb you are![lr]",
+      "jp": "ãâ¦â¦ã¯ã¯ã[l][hfwww layer=1][say storage=HSTR6_BIR_0200 _name=ãã«ãã¤ãªã¤]ãã«ãããããã«ï¼[lr]",
+      "Pt-br": "\"...Haha. [l][hfwww layer=1][say storage=HSTR6_BIR_0200 _name=ブルマイリヤ]Fico admirado com o quanto você é burro![lr]",
+      "id": 44163,
+      "epk_id": "43951",
+      "label": "$$$message_0374_0010_0004$$$"
+    },
+    {
+      "en": "But that got me right in the feels, Master! I'll become your disciple!\"",
+      "jp": "ãã§ãæåããã£ãå¸«ããã¼ï¼ããããå¼å­å\n¥ãããï¼ã",
+      "Pt-br": "Mas isso me atingiu direto no coração, Mestre! Vou me tornar seu discípulo!\"",
+      "id": 44164,
+      "epk_id": "43952",
+      "label": "$$$message_0374_0010_0005$$$"
+    },
+    {
+      "en": "\"You may be my Servant, but I'll always respect you as a mentor!\"",
+      "jp": "ãã¿ã¤ã¬ã¯ãµã¼ã´ã¡ã³ãã ãã©ããã£ã¨å¸«ããã¼ã¨ãã¦å°æ¬ããã£ãï¼ã",
+      "Pt-br": "\"Você pode ser meu Servo, mas eu sempre vou respeitá-lo como mentor!\"",
+      "id": 44165,
+      "epk_id": "43953",
+      "label": "$$$message_0374_0010_0006$$$"
+    },
+    {
+      "en": "\"Huh? Really? [l][hfchance layer=0][say storage=HSTR6_TIG_0500 _name=藤ねえ]Yay! Thanks, Illya! It's been years since I opened the Tiger Dojo, and I finally have a favorite student!\"",
+      "jp": "ãããã»ãã¨ï¼[l]ã[hfchance layer=0][say storage=HSTR6_TIG_0500 _name=è¤ã­ã]ãã£ãããããã¨ãã¤ãªã¤ã¡ãã¼ãï¼ãã¿ã¤ã¬ã¼éå ´ãéãã¦å¹¾æ°å¹´ãããããæå¼å­ãã§ããããï¼ã",
+      "Pt-br": "\"Hmm? De verdade? [l][hfchance layer=0][say storage=HSTR6_TIG_0500 _name=藤ねえ]Viva! Obrigado, Illya! Fazia anos que não abria o Dojô da Tigresa, e finalmente tenho um aluno favorito!\"",
+      "id": 44166,
+      "epk_id": "43954",
+      "label": "$$$message_0374_0010_0007$$$"
+    },
+    {
+      "en": "\"......\"",
+      "jp": "ã[line len=9]ã",
+      "Pt-br": "\"......\"",
+      "id": 44167,
+      "epk_id": "43955",
+      "label": "$$$message_0374_0010_0008$$$"
+    },
+    {
+      "en": "\"...[hfchance layer=0]Hey. What are you smiling for, Berserker?\"",
+      "jp": "ãâ¦â¦[hfchance layer=0]ã¡ãã£ã¨ããªã«ç¬ã£ã¦ãã®ããã¼ãµã¼ã«ã¼ã",
+      "Pt-br": "\"...[hfchance layer=0]Ei. Por que você está sorrindo, Berserker?\"",
+      "id": 44168,
+      "epk_id": "43956",
+      "label": "$$$message_0374_0010_0009$$$"
+    },
+    {
+      "en": "\"...\"",
+      "jp": "ã[line len=6]ã",
+      "Pt-br": "\"...\"",
+      "id": 44169,
+      "epk_id": "43957",
+      "label": "$$$message_0374_0010_0010$$$"
+    },
+    {
+      "en": "\"...Hmph. Go ahead and say it, but you've got the wrong idea.\"",
+      "jp": "ãâ¦â¦ãµããè¨ã£ã¦ãªããããããªã®è²´æ¹ã®åéããªãã ããã",
+      "Pt-br": "\"...Hmmf. Diga o que quiser, mas você tem a ideia errada.\"",
+      "id": 44170,
+      "epk_id": "43958",
+      "label": "$$$message_0374_0010_0011$$$"
+    },
+    {
+      "en": "\"And you [hfchance layer=0]two dummies! Enough of this farce! If you're going to fight, then I'll take you on.\"",
+      "jp": "ãããã®[hfchance layer=0]ãã«äºäººï¼ãè¶çªã¯ããã¾ã§ããæ¦ãã£ã¦ãããªãç¸æããã¦ããããã",
+      "Pt-br": "\"E vocês [hfchance layer=0]dois idiotas! Chega dessa farsa! Se querem lutar, eu enfrento vocês.\"",
+      "id": 44171,
+      "epk_id": "43959",
+      "label": "$$$message_0374_0010_0012$$$"
+    },
+    {
+      "en": "\"Let's see how well my imposter and her clown of a Servant can really fight!\"",
+      "jp": "ãå½ç©ã®ãããã¨ãç¬ããµã¼ã´ã¡ã³ããã©ãã¾ã§æ¦ããããç¢ºããã¦ãããï¼ã",
+      "Pt-br": "\"Vamos ver do que a minha impostora e o Servo palhaço dela são capazes!\"",
+      "id": 44172,
+      "epk_id": "43960",
+      "label": "$$$message_0374_0010_0013$$$"
+    },
+    {
+      "en": "\"H-here they come, Master! Are we good to go!?\"",
+      "jp": "ãããæ¥ãã£ãå¸«ããã¼ï¼ãæºåã¯ãªãã±ã¼ã§ããã¾ããï¼ï¼ã",
+      "Pt-br": "\"E-eles estão aqui, Mestre! Estamos prontos para ir?!\"",
+      "id": 44173,
+      "epk_id": "43961",
+      "label": "$$$message_0374_0010_0014$$$"
+    },
+    {
+      "en": "\"Bring it! Let's do this, Illya![lr]",
+      "jp": "ãä¸ç­ã£ï¼ãè¡ãããã¤ãªã¤ã¡ããï¼[lr]",
+      "Pt-br": "\"Vem! Vamos lá, Illya-chan![lr]",
+      "id": 44174,
+      "epk_id": "43962",
+      "label": "$$$message_0374_0010_0015$$$"
+    },
+    {
+      "en": "[hffacechg chara=藤ねえ face=怒 layer=1 time=200]We'll take this Illya down and reduce the number of heroines by one!\"",
+      "jp": "ã[hffacechg chara=è¤ã­ã face=æ layer=1 time=200]ããã§ã¤ãªã¤ã¡ãããåãã¦ããã­ã¤ã³ãä¸äººæ¸ããã¦ããããï¼ã",
+      "Pt-br": "[hffacechg chara=藤ねえ face=怒 layer=1 time=200]Vamos derrubar essa Illya-chan e reduzir o número de heroínas em um, Fuji-nee!\"",
+      "id": 44175,
+      "epk_id": "43963",
+      "label": "$$$message_0374_0010_0016$$$"
+    },
+    {
+      "en": "\"...Um, I don't think that number's going to change, no matter who wins.\"[nolr][p]",
+      "jp": "ãâ¦â¦ããããã©ã£ã¡ã«è»¢ãã§ããã­ã¤ã³ã¯æ¸ããªããããªã[nolr][p{á\u0019\u001a",
+      "Pt-br": "\"...Um, eu não acho que esse número vai mudar, não importa quem ganhe.\"[nolr][p]",
+      "id": 44176,
+      "epk_id": "43964",
+      "label": "$$$message_0374_0010_0017$$$"
+    }
+  ]
+}

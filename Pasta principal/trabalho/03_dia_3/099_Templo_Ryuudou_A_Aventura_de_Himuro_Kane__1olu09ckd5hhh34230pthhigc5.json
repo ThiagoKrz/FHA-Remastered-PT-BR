@@ -1,0 +1,696 @@
+{
+  "cena": "1olu09ckd5hhh34230pthhigc5",
+  "titulo": "Templo Ryuudou: A Aventura de Himuro Kane",
+  "rota": "Dia 3",
+  "arquivo": "1olu09ckd5hhh34230pthhigc5.epk_dec",
+  "linhas": [
+    {
+      "en": "[cacheimage storage=æ°·å®¤ç§æ02a(ä¸­)]",
+      "jp": "[cacheimage storage=æ°·å®¤ç§æ02a(ä¸­)]",
+      "Pt-br": "[cacheimage storage=氷室私服02a(中)]",
+      "id": 15456,
+      "epk_id": "7362",
+      "label": "$$$message_0051_0000_0000$$$"
+    },
+    {
+      "en": "[dash mx=0 opacity=80 layer=base irot=-0.0 cx=411 imag=2 time=2000 cy=9 mag=2 my=100 storage=oå±±ééæ®µ(ã¢ãã)(ç§)-(æ2) rot=-0.0 accel=-2 textoff=0]The long, long stairway to Ryudou Temple terminates at the mountain gate.[wdash canskip=0][lr]",
+      "jp": "ã[dash mx=0 opacity=80 layer=base irot=-0.0 cx=411 imag=2 time=2000 cy=9 mag=2 my=100 storage=oå±±ééæ®µ(ã¢ãã)(ç§)-(æ2) rot=-0.0 accel=-2 textoff=0]æ³æ´å¯ºã®é·ãé·ãéæ®µã¨ããã®ä¸ã®å±±éã[wdash canskip=0][lr]",
+      "Pt-br": "[dash mx=0 opacity=80 layer=base irot=-0.0 cx=411 imag=2 time=2000 cy=9 mag=2 my=100 storage=o山門階段(アップ)(秋)-(曇2) rot=-0.0 accel=-2 textoff=0]A longa, longa escadaria do Templo Ryuudou termina no portão da montanha.[wdash canskip=0][lr]",
+      "id": 15457,
+      "epk_id": "7363",
+      "label": "$$$message_0051_0000_0001$$$"
+    },
+    {
+      "en": "[dash mx=0 opacity=55 layer=base irot=-0.0 cx=400 imag=1.203 time=1600 cy=42 mag=1 my=258 storage=oå±±ééæ®µ(é æ¯)(ç§)-(æ2) rot=-0.0 accel=-2 textoff=0]Its gatekeeper[line len=2]Sasaki Kojirou, the swordsman assassin of a different time[line len=2]is nowhere to be seen.[wdash canskip=0][lr]",
+      "jp": "ã[dash mx=0 opacity=55 layer=base irot=-0.0 cx=400 imag=1.203 time=1600 cy=42 mag=1 my=258 storage=oå±±ééæ®µ(é æ¯)(ç§)-(æ2) rot=-0.0 accel=-2 textoff=0]ããã®éçªã¯é¡ãåºãã¦ããªããæä»£é¯èª¤ãªå£å£«ã®å§¿ããã¦ããã¢ãµã·ã³ã®å°æ¬¡éã[wdash canskip=0][lr]",
+      "Pt-br": "[dash mx=0 opacity=55 layer=base irot=-0.0 cx=400 imag=1.203 time=1600 cy=42 mag=1 my=258 storage=o山門階段(遠景)(秋)-(曇2) rot=-0.0 accel=-2 textoff=0]Seu Guardião[line len=2]Sasaki Kojirou, o assassino espadachim de uma época distante[line len=2]não está em lugar nenhum.[wdash canskip=0][lr]",
+      "id": 15458,
+      "epk_id": "7364",
+      "label": "$$$message_0051_0000_0002$$$"
+    },
+    {
+      "en": "Instead... [wait canskip=0 time=600][chgfg time=200 storage=æ°·å®¤ç§æ02a(ä¸­) textoff=0]Cool eyes appreciate the gate. They belong to the person everyone calls the lady scholar.",
+      "jp": "ããã®ä»£ããã«å±±éãè¦ã¤ããã®ã¯[line len=3][wait canskip=0 time=600][chgfg time=200 storage=æ°·å®¤ç§æ02a(ä¸­) textoff=0]ã¿ããªã«å¥³å²ã¨è¨ãããç±ç¸ã®ãã¯ã¼ã«ãªç³ã ã£ãã",
+      "Pt-br": "Em vez disso... [wait canskip=0 time=600][chgfg time=200 storage=氷室私服02a(中) textoff=0]Olhos frios admiram o portão. Eles pertencem à pessoa que todos chamam de acadêmica do colégio.",
+      "id": 15459,
+      "epk_id": "7365",
+      "label": "$$$message_0051_0000_0003$$$"
+    },
+    {
+      "en": "\"...So he really isn't here at this time of day.\"[lr]",
+      "jp": "ãâ¦â¦ãã¯ãããããªæéã«ã¯ããªããã[lr]",
+      "Pt-br": "\"...Então ele não está mesmo aqui a essa hora do dia.\"[lr]",
+      "id": 15460,
+      "epk_id": "7366",
+      "label": "$$$message_0051_0001_0000$$$"
+    },
+    {
+      "en": "[cacheimage storage=æ°·å®¤ç§æ01a(ä¸­)]",
+      "jp": "[cacheimage storage=æ°·å®¤ç§æ01a(ä¸­)]",
+      "Pt-br": "[cacheimage storage=氷室私服01a(中)]",
+      "id": 15461,
+      "epk_id": "7367",
+      "label": "$$$message_0051_0001_0001$$$"
+    },
+    {
+      "en": "\"Are you talking about Issei, Himuro?\"[lr]",
+      "jp": "ãããã£ã¦â¦â¦ä¸æã®ãã¨ããæ°·å®¤ï¼ã[lr]",
+      "Pt-br": "\"Você está falando do Issei, Himuro?\"[lr]",
+      "id": 15462,
+      "epk_id": "7368",
+      "label": "$$$message_0051_0001_0002$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=æ°·å®¤ç§æ01a(ä¸­) textoff=0]I can't imagine what business she would have with Issei, though. Himuro isn't on the student council.",
+      "jp": "ã[chgfg time=300 storage=æ°·å®¤ç§æ01a(ä¸­) textoff=0]ã¨ã¯ãããçå¾ä¼ãããªãå½¼å¥³ãä¸æã«ç¨ãããã¨ã¯æããªãã",
+      "Pt-br": "[chgfg time=300 storage=氷室私服01a(中) textoff=0]Mas não consigo imaginar o que ela teria para tratar com o Issei. Himuro não é do conselho estudantil.",
+      "id": 15463,
+      "epk_id": "7369",
+      "label": "$$$message_0051_0001_0003$$$"
+    },
+    {
+      "en": "\"Ah, Emiya. If I recall, you're close with the temple boy.\"[lr]",
+      "jp": "ããããè¡å®®ããå¯ºã®å­ã¨ã¯è¦ªããã®ã§ãã£ããªã[lr]",
+      "Pt-br": "\"Ah, Emiya. Se bem me lembro, você é bem próximo do garoto do templo.\"[lr]",
+      "id": 15464,
+      "epk_id": "7370",
+      "label": "$$$message_0051_0002_0000$$$"
+    },
+    {
+      "en": "\"More like I can't get rid of him... Did you have some business at the temple?\"[lr]",
+      "jp": "ãè\nãç¸ã¨è¨ããä½ã¨ãããâ¦â¦æ°·å®¤ããå¯ºã«ç¨ãããã®ãã[lr]",
+      "Pt-br": "\"É mais que eu não consigo me livrar dele... Você veio tratar de algum assunto no templo?\"[lr]",
+      "id": 15465,
+      "epk_id": "7371",
+      "label": "$$$message_0051_0002_0001$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=æ°·å®¤ç§æ02d(ä¸­) textoff=0]I feel like she was looking at the gate itself.[lr]",
+      "jp": "ã[chgfg time=300 storage=æ°·å®¤ç§æ02d(ä¸­) textoff=0]å½¼å¥³ãå±±éãè¦ã¦ããã®ãæ°ã«ãªã£ãã[lr]",
+      "Pt-br": "[chgfg time=300 storage=氷室私服02d(中) textoff=0]Fico com a impressão de que ela estava olhando para o próprio portão.[lr]",
+      "id": 15466,
+      "epk_id": "7372",
+      "label": "$$$message_0051_0002_0002$$$"
+    },
+    {
+      "en": "I wonder if she's going to suddenly discern that the pair of Aun guardian statues were carved by a famous Buddhist sculptor in the Kamakura-era...",
+      "jp": "ãããããã¦ãã®[ruby text=ããã char=2]é¿å½åã¯éåæä»£ã®æåãªä»å¸«ã«ãã£ã¦â¦â¦ãªãã¦è¦è§£ãããã®ãï¼",
+      "Pt-br": "Eu me pergunto se ela vai concluir de repente que as duas estátuas dos guardiões de Agyou e Ungyou foram esculpidas por algum escultor budista famoso da era Kamakura...",
+      "id": 15467,
+      "epk_id": "7373",
+      "label": "$$$message_0051_0002_0003$$$"
+    },
+    {
+      "en": "\"Yukika said she saw him.\"[lr]",
+      "jp": "ãç±ç´é¦ãè¦ãã¨è¨ã£ã¦ããã®ã ãã[lr]",
+      "Pt-br": "\"Yukika disse que o viu.\"[lr]",
+      "id": 15468,
+      "epk_id": "7374",
+      "label": "$$$message_0051_0003_0000$$$"
+    },
+    {
+      "en": "\"Saw who?\"[lr]",
+      "jp": "ãè¦ãï¼ã[lr]",
+      "Pt-br": "\"Viu quem?\"[lr]",
+      "id": 15469,
+      "epk_id": "7375",
+      "label": "$$$message_0051_0003_0001$$$"
+    },
+    {
+      "en": "\"When she said he looked like a samurai...Makidera was terrified that he might be a ghost, but I have my suspicions.\"[lr]",
+      "jp": "ããä¾ã®å§¿ãããäººãããã¨[line len=3]èå¯ºã¯å¹½éãã¨æ¯ãã¦ããããæªãããã®ã ã[lr]",
+      "Pt-br": "\"Quando ela disse que ele parecia um samurai... a Makidera ficou morrendo de medo achando que seria um fantasma, mas eu tenho minhas suspeitas.\"[lr]",
+      "id": 15470,
+      "epk_id": "7376",
+      "label": "$$$message_0051_0003_0002$$$"
+    },
+    {
+      "en": "[fadein noclear=1 time=400 rule=æ³¢ storage=a13 textoff=0]...She's talking about Kojirou.[lr]",
+      "jp": "ã[fadein noclear=1 time=400 rule=æ³¢ storage=a13 textoff=0]â¦â¦ãããå°æ¬¡éã ã[lr]",
+      "Pt-br": "[fadein noclear=1 time=400 rule=波 storage=a13 textoff=0]...Ela está falando do Kojirou.[lr]",
+      "id": 15471,
+      "epk_id": "7377",
+      "label": "$$$message_0051_0003_0003$$$"
+    },
+    {
+      "en": "[fadein noclear=1 time=400 rule=æ³¢ storage=oå±±ééæ®µ(ã¢ãã)(ç§)-(æ2) textoff=0]Though I obviously can't tell her the truth, it isn't exactly wrong to call him a ghost.[lr]",
+      "jp": "ã[fadein noclear=1 time=400 rule=æ³¢ storage=oå±±ééæ®µ(ã¢ãã)(ç§)-(æ2) textoff=0]æããè¨³ã«ãè¡ããªãããå¹½éã ã¨ããã®ãããééãã§ã¯ãªãã[lr]",
+      "Pt-br": "[fadein noclear=1 time=400 rule=波 storage=o山門階段(アップ)(秋)-(曇2) textoff=0]Embora seja óbvio que eu não posso contar a verdade, não é totalmente errado chamá-lo de fantasma.[lr]",
+      "id": 15472,
+      "epk_id": "7378",
+      "label": "$$$message_0051_0003_0004$$$"
+    },
+    {
+      "en": "But how can Saegusa see him...?",
+      "jp": "ããããããªãã§[ruby text=ãããã char=2]ä¸æã«è¦ããã®ãâ¦â¦ï¼",
+      "Pt-br": "Mas como a Saegusa consegue vê-lo...?",
+      "id": 15473,
+      "epk_id": "7379",
+      "label": "$$$message_0051_0003_0005$$$"
+    },
+    {
+      "en": "\"Still, a ghost at the temple? I doubt he inhabits the gate itself. If he did, it would demonstrate that the temple lacks virtue.\"[lr]",
+      "jp": "ãã ããå¯ºã«å¹½éããããæ­£éã«å®¿ããªã©èããããªããããå±\nãã®ãªãããã®å¯ºã®åå¾³ãè¶³ããªãè¨¼æ ã ã[lr]",
+      "Pt-br": "\"Ainda assim, um fantasma no templo? Duvido que ele habite o portão em si. Se fosse o caso, isso só demonstraria que o templo carece de virtude.\"[lr]",
+      "id": 15474,
+      "epk_id": "7380",
+      "label": "$$$message_0051_0004_0000$$$"
+    },
+    {
+      "en": "\"Maybe this temple just doesn't specialize in driving malignant spirits away.\"[lr]",
+      "jp": "ããã£ã¡åããããªãããããããå æç¥ç¥·ãéé­æä¼ã¯ä¸å¾æã¨ãã[lr]",
+      "Pt-br": "\"Talvez este templo só não seja especializado em afastar espíritos malignos.\"[lr]",
+      "id": 15475,
+      "epk_id": "7381",
+      "label": "$$$message_0051_0004_0001$$$"
+    },
+    {
+      "en": "\"Regardless of their sect, if a monk of sufficient virtue is present, then no vengeful or mischievous ghost would dare approach.\"[lr]",
+      "jp": "ãå®æ´¾ã¯ã¨ãããé«å¾³ã®å§ãããã°ãæ¨éã[ruby text=ãããã char=2]æªæ¯ã«è¿ã¥ãã¾ãã[lr]",
+      "Pt-br": "\"Independentemente da seita, se houver um monge de virtude suficiente presente, nenhum fantasma vingativo ou travesso ousaria se aproximar.\"[lr]",
+      "id": 15476,
+      "epk_id": "7382",
+      "label": "$$$message_0051_0004_0002$$$"
+    },
+    {
+      "en": "\"Maybe you can only see ghosts at night.\"",
+      "jp": "ãå¹½éãªããå¤æ¥ãªãã¨è¦ããªãããããªãã®ãï¼ã",
+      "Pt-br": "\"Talvez você só consiga ver fantasmas à noite.\"",
+      "id": 15477,
+      "epk_id": "7383",
+      "label": "$$$message_0051_0004_0003$$$"
+    },
+    {
+      "en": "\"Quite the opposite, I think. It's possible to mistake other things for ghosts in the darkness.[lr]",
+      "jp": "ãéã ãå¤ã®æããã§ä½ããè¦ééãã°å¹½éã¨é¯è¦ããã[lr]",
+      "Pt-br": "\"Pelo contrário, eu diria. É possível confundir outras coisas com fantasmas no escuro.[lr]",
+      "id": 15478,
+      "epk_id": "7384",
+      "label": "$$$message_0051_0005_0000$$$"
+    },
+    {
+      "en": "But in broad daylight, you would easily catch such a mistake... [cacheimage storage=æ°·å®¤ç§æ02a(ä¸­)][wvl][chgfg storage=æ°·å®¤ç§æ02a(ä¸­) time=300 textoff=0]And perhaps, discover that there's a far more mundane explanation.\"[lr]",
+      "jp": "ãã§ããã°ãé½ã®å\nã®ä¸ã§ãªãè¦ééãä½ããåãã[line len=3][cacheimage storage=æ°·å®¤ç§æ02a(ä¸­)][wvl][chgfg storage=æ°·å®¤ç§æ02a(ä¸­) time=300 textoff=0]å¹½éã®æ­£ä½è¦ããæ¯ãå°¾è±ãã ã[lr]",
+      "Pt-br": "Mas em plena luz do dia, você perceberia esse engano facilmente... [cacheimage storage=氷室私服02a(中)][wvl][chgfg storage=氷室私服02a(中) time=300 textoff=0]E talvez descobrisse que existe uma explicação muito mais mundana.\"[lr]",
+      "id": 15479,
+      "epk_id": "7385",
+      "label": "$$$message_0051_0005_0001$$$"
+    },
+    {
+      "en": "I nod. That makes sense. Very rational.[lr]",
+      "jp": "ããªãã»ã©ãããã¯éçã ã£ãã[lr]",
+      "Pt-br": "Assinto com a cabeça. Faz sentido. Bem racional.[lr]",
+      "id": 15480,
+      "epk_id": "7386",
+      "label": "$$$message_0051_0005_0002$$$"
+    },
+    {
+      "en": "[dash mx=-472 opacity=100 layer=base irot=-0.079 cx=669 imag=3 time=3000 cy=124 mag=3 my=-72 storage=oå±±ééæ®µ(ã¢ãã)(ç§)-(æ2) rot=0.01 accel=-2]I hate to break it to you, Himuro, but he really does exist.[lr]",
+      "jp": "ã[dash mx=-472 opacity=100 layer=base irot=-0.079 cx=669 imag=3 time=3000 cy=124 mag=3 my=-72 storage=oå±±ééæ®µ(ã¢ãã)(ç§)-(æ2) rot=0.01 accel=-2]ãããªçç¥çãªæ°·å®¤ã«ã¯æªãã®ã ããæ¬å½ã«å±\nããã ããªãããã«ã¯ã[lr]",
+      "Pt-br": "[dash mx=-472 opacity=100 layer=base irot=-0.079 cx=669 imag=3 time=3000 cy=124 mag=3 my=-72 storage=o山門階段(アップ)(秋)-(曇2) rot=0.01 accel=-2]Más notícias, Himuro: ele existe mesmo.[lr]",
+      "id": 15481,
+      "epk_id": "7387",
+      "label": "$$$message_0051_0005_0003$$$"
+    },
+    {
+      "en": "Himuro scans the gate again.[wdash canskip=0]",
+      "jp": "ãæ°·å®¤ã¯ã¾ãå±±éãããããè¦åãã¦[line len=3][wdash canskip=0]",
+      "Pt-br": "Himuro analisa o portão novamente.[wdash canskip=0]",
+      "id": 15482,
+      "epk_id": "7388",
+      "label": "$$$message_0051_0005_0004$$$"
+    },
+    {
+      "en": "\"And yet, there's nothing to mistake for a ghost here. [cacheimage storage=æ°·å®¤ç§æ01a(ä¸­)][wvl][chgfg storage=æ°·å®¤ç§æ01a(ä¸­) time=300 textoff=0]What an enigma.\"[lr]",
+      "jp": "ããã ãè¦ééããããªä½ãããªãã£ãã[cacheimage storage=æ°·å®¤ç§æ01a(ä¸­)][wvl][chgfg storage=æ°·å®¤ç§æ01a(ä¸­) time=300 textoff=0]ããããªããã®ã ã[lr]",
+      "Pt-br": "\"E, no entanto, não tem nada aqui que possa ser confundido com um fantasma. [cacheimage storage=氷室私服01a(中)][wvl][chgfg storage=氷室私服01a(中) time=300 textoff=0]Que enigma.\"[lr]",
+      "id": 15483,
+      "epk_id": "7389",
+      "label": "$$$message_0051_0006_0000$$$"
+    },
+    {
+      "en": "Clearly, [chgfg time=300 storage=æ°·å®¤ç§æ02d(ä¸­) textoff=0]Himuro's at a loss. She's pondering how to reconcile the eyewitness account with her observations.",
+      "jp": "ããããªé¢¨ã«ã[chgfg time=300 storage=æ°·å®¤ç§æ02d(ä¸­) textoff=0]èããè©±ã¨ç¾ç¶ãå·§ãèª¬æããããªãã¯ããªãäºãæãæ©ãã§ããã",
+      "Pt-br": "Fica claro que a [chgfg time=300 storage=氷室私服02d(中) textoff=0]Himuro está quebrando a cabeça. Ela tenta encontrar um truque que concilie o relato com o que vê diante de si.",
+      "id": 15484,
+      "epk_id": "7390",
+      "label": "$$$message_0051_0006_0001$$$"
+    },
+    {
+      "en": "\"Maybe he really exists. There could be a legend about a deserter or a fallen soldier here at the temple.\"[lr]",
+      "jp": "ãæ¬å½ã«ããããç¥ããªããããã®å¯ºã«[ruby text=ããã¯ã char=2]è½å¥ããè½ã¡æ­¦è\nãããä¼æ¿ãããã¨ãã[lr]",
+      "Pt-br": "\"Talvez ele exista mesmo. Pode haver alguma lenda sobre um desertor ou um soldado caído aqui no templo.\"[lr]",
+      "id": 15485,
+      "epk_id": "7391",
+      "label": "$$$message_0051_0007_0000$$$"
+    },
+    {
+      "en": "\"Are you the type to believe in such beings, Emiya?\"[lr]",
+      "jp": "ãè¡å®®ã¯ããããå­å¨ãä¿¡ããã¿ã¤ããªã®ã[line len=3]ã[lr]",
+      "Pt-br": "\"Você é do tipo que acredita nesse tipo de ser, Emiya?\"[lr]",
+      "id": 15486,
+      "epk_id": "7392",
+      "label": "$$$message_0051_0007_0001$$$"
+    },
+    {
+      "en": "\"I can't exactly prove they [font italic=true]don't[font italic=false] exist at all.\"[lr]",
+      "jp": "ãå\n¨ãããªããã¨è¨¼æããã®ãé£ãããããªã[lr]",
+      "Pt-br": "\"É que eu não posso exatamente provar que eles [font italic=true]não[font italic=false] existem.\"[lr]",
+      "id": 15487,
+      "epk_id": "7393",
+      "label": "$$$message_0051_0007_0002$$$"
+    },
+    {
+      "en": "I bet Illya or Tohsaka could come up with plenty of counterpoints.[lr]",
+      "jp": "ãã¤ãªã¤ãé åãªãå­å¨ãããã¢ãã«ãªããå±±ã»ã©èª¬æã§ããã ãããã[lr]",
+      "Pt-br": "Aposto que a Illya ou a Tohsaka teriam uma porção de contra-argumentos.[lr]",
+      "id": 15488,
+      "epk_id": "7394",
+      "label": "$$$message_0051_0007_0003$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=æ°·å®¤ç§æ01a(ä¸­) textoff=0]Himuro gives off an intellectual air that paints a sharp contrast between herself and those who consider themselves versed in magecraft, however.",
+      "jp": "ã[chgfg time=300 storage=æ°·å®¤ç§æ01a(ä¸­) textoff=0]æ°·å®¤ã¯æ°·å®¤ã§ãé­è¡å·§è\nã®é¢ã\nã¨ä¸ç·ãç»ãçè«ã®äººãã¨ããé°å²æ°ãããã",
+      "Pt-br": "[chgfg time=300 storage=氷室私服01a(中) textoff=0]No entanto, a Himuro exala um ar intelectual que cria um contraste enorme entre ela e aqueles que se consideram versados em magia.",
+      "id": 15489,
+      "epk_id": "7395",
+      "label": "$$$message_0051_0007_0004$$$"
+    },
+    {
+      "en": "\"So you don't believe he exists. Are you an atheist? A materialist?\"[lr]",
+      "jp": "ãæ°·å®¤ã¯å±\nãªãã£ã¦æã£ã¦ããã ããç¡ç¥è«è\nã¨ãããå¯ç©è«è\nãï¼ã[lr]",
+      "Pt-br": "\"Então você não acredita que ele exista. É ateia? Materialista?\"[lr]",
+      "id": 15490,
+      "epk_id": "7396",
+      "label": "$$$message_0051_0008_0000$$$"
+    },
+    {
+      "en": "\"That's quite uncharitable of you. I simply want to find a reason for him to exist... [l][say storage=ryu0311_him_0091 name=æ°·å®¤][chgfg storage=æ°·å®¤ç§æ02d(ä¸­) time=300 textoff=0]Regardless of whether the gods or Buddha desires it.\"",
+      "jp": "ãã²ã©ãè¨ããããã ãªãç§ã¯ããã®ãªãããçç±ãæ¬²ããã ãã [line len=3][l][say storage=ryu0311_him_0091 name=æ°·å®¤][chgfg storage=æ°·å®¤ç§æ02d(ä¸­) time=300 textoff=0]ç¥ä»ãããæãã ããããªãã®ã§ãæ§ãã¯ããªãã",
+      "Pt-br": "\"Isso é um tanto indelicado da sua parte. Eu simplesmente quero encontrar um motivo para ele existir... [l][say storage=ryu0311_him_0091 name=氷室][chgfg storage=氷室私服02d(中) time=300 textoff=0]Independentemente de os deuses ou Buda desejarem.\"",
+      "id": 15491,
+      "epk_id": "7397",
+      "label": "$$$message_0051_0008_0001$$$"
+    },
+    {
+      "en": "I consider her words.[lr]",
+      "jp": "ãã¯ããã¨æ°·å®¤ã®è¨èãèãã[lr]",
+      "Pt-br": "Fico matutando sobre as palavras dela.[lr]",
+      "id": 15492,
+      "epk_id": "7398",
+      "label": "$$$message_0051_0009_0000$$$"
+    },
+    {
+      "en": "I nod along, as if listening to a chemistry or physics teacher's lecture.[lr]",
+      "jp": "ãã¾ãã§åå­¦ãç©çã®å\nçã«èª¬æãããã¿ããã«é¦ãåããããªãã[lr]",
+      "Pt-br": "Assinto, como se estivesse prestando atenção à aula de um Sensei de física ou química.[lr]",
+      "id": 15493,
+      "epk_id": "7399",
+      "label": "$$$message_0051_0009_0001$$$"
+    },
+    {
+      "en": "She probably doesn't get approached by guys much, considering how she talks.[lr]",
+      "jp": "ããã®è©±ãå£ã§è¿å¯ã£ã¦ããç·ã¯ããªãã ããã[lr]",
+      "Pt-br": "Provavelmente nenhum cara chega nela, considerando como ela fala.[lr]",
+      "id": 15494,
+      "epk_id": "7400",
+      "label": "$$$message_0051_0009_0002$$$"
+    },
+    {
+      "en": "Though I'm pretty interested in what she has to say.",
+      "jp": "ããããä¿ºã¯ããã¶ãå½¼å¥³ã¨è©±ãè¾¼ãã§ãããã©ã",
+      "Pt-br": "Mas admito que estou bem interessado no que ela tem a dizer.",
+      "id": 15495,
+      "epk_id": "7401",
+      "label": "$$$message_0051_0009_0003$$$"
+    },
+    {
+      "en": "\"Supposing he does exist, it might be possible to deduce his identity from local histories or temple records.\"[lr]",
+      "jp": "ãå®éã«å±\nãã¨ä»®å®ããé·åå²ãæ³æ´å¯ºã®éå»å¸³ããæ­£ä½ãæ¨æ¸¬ããã¨ããæãããã[lr]",
+      "Pt-br": "\"Supondo que ele exista de fato, talvez seja possível deduzir sua identidade a partir da história local ou dos registros do templo.\"[lr]",
+      "id": 15496,
+      "epk_id": "7402",
+      "label": "$$$message_0051_0010_0000$$$"
+    },
+    {
+      "en": "\"You think a corresponding historical figure would be his identity?\"[lr]",
+      "jp": "ãè©²å½ããæ­´å²ä¸ã®äººç©ãããã°ããããæ­£ä½ã ã¨ï¼ã[lr]",
+      "Pt-br": "\"Você acha que a identidade dele corresponderia a alguma figura histórica?\"[lr]",
+      "id": 15497,
+      "epk_id": "7403",
+      "label": "$$$message_0051_0010_0001$$$"
+    },
+    {
+      "en": "\"It would make me feel slightly better, at least.\"[lr]",
+      "jp": "ãããããã°ãããããªãããå¿ã®æ\n°ãã«ã¯ãªããã[lr]",
+      "Pt-br": "\"Pelo menos isso me deixaria um pouquinho melhor.\"[lr]",
+      "id": 15498,
+      "epk_id": "7404",
+      "label": "$$$message_0051_0010_0002$$$"
+    },
+    {
+      "en": "I see. She's uncomfortable because she can't explain this phenomenon.",
+      "jp": "ããªãã»ã©[line len=3]å½¼å¥³ã¯å¤ããªãã¾ã¾ã§ããã®ãæ°åãæªãã®ãã",
+      "Pt-br": "Ah, sei. Ela está incomodada porque não consegue explicar o fenômeno.",
+      "id": 15499,
+      "epk_id": "7405",
+      "label": "$$$message_0051_0010_0003$$$"
+    },
+    {
+      "en": "\"In the end, I still don't have the answer to Yukika's curiosity. I'm ashamed to admit it.\"[lr]",
+      "jp": "ãç±ç´é¦ãä¸æè­°ãã£ã¦ããããçµå±åãããªãã¾ã¾ã ãä¸ç²æãªãã[lr]",
+      "Pt-br": "\"No fim, eu ainda não tenho uma resposta para a curiosidade da Yukika. Fico com vergonha de admitir isso.\"[lr]",
+      "id": 15500,
+      "epk_id": "7406",
+      "label": "$$$message_0051_0011_0000$$$"
+    },
+    {
+      "en": "If Saegusa saw a ghost... I doubt she'd just calmly accept it.[lr]",
+      "jp": "ãä¸æãªãè¦ã¦ããã®ã»ã»ãâ¦â¦ã£ã¦å¹³ç¶ã¨ã¯ãã¦ãããªãããã ã[lr]",
+      "Pt-br": "Se a Saegusa visse um fantasma... Duvido que ela fosse só aceitar calmamente.[lr]",
+      "id": 15501,
+      "epk_id": "7407",
+      "label": "$$$message_0051_0011_0001$$$"
+    },
+    {
+      "en": "I can see Makidera making a fuss about it, but what about Himuro?",
+      "jp": "ãèå¯ºã¯å¤§é¨ããããã§ãæ°·å®¤ã¯ã©ããªãã ï¼",
+      "Pt-br": "Consigo até ver a Makidera fazendo um estardalhaço por causa disso, mas e a Himuro?",
+      "id": 15502,
+      "epk_id": "7408",
+      "label": "$$$message_0051_0011_0002$$$"
+    },
+    {
+      "en": "\"What if you really find the ghost?\"[lr]",
+      "jp": "ãããæ°·å®¤ããæ¬å½ã«å¹½éãè¦ä»ãããï¼ã[lr]",
+      "Pt-br": "\"E se você acabar encontrando o fantasma?\"[lr]",
+      "id": 15503,
+      "epk_id": "7409",
+      "label": "$$$message_0051_0012_0000$$$"
+    },
+    {
+      "en": "\"...I haven't thought that far ahead.\"[lr]",
+      "jp": "ãâ¦â¦ããã¾ã§ã¯èãã¦ããªãã£ãã[lr]",
+      "Pt-br": "\"...Ainda não pensei tão longe.\"[lr]",
+      "id": 15504,
+      "epk_id": "7410",
+      "label": "$$$message_0051_0012_0001$$$"
+    },
+    {
+      "en": "...Is it unreasonable to ask her to imagine a situation where she encounters something she isn't sure exists?[lr]",
+      "jp": "ãâ¦â¦å±\nããã©ããåãããªãã¢ãã«é­éããã±ã¼ã¹ãæ³å®ãããã¨ããã®ã¯é\n·ãªæ³¨æãªã®ãã[lr]",
+      "Pt-br": "...Será que é pedir demais que ela imagine uma situação onde se depara com algo que nem tem certeza de que existe?[lr]",
+      "id": 15505,
+      "epk_id": "7411",
+      "label": "$$$message_0051_0012_0002$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=æ°·å®¤ç§æ02b(ä¸­) textoff=0]Himuro seems to consider the question.",
+      "jp": "ã[chgfg time=300 storage=æ°·å®¤ç§æ02b(ä¸­) textoff=0]æ°·å®¤ã¯ãã°ãããã©ãããããèãã¦ããããã ã£ãã",
+      "Pt-br": "[chgfg time=300 storage=氷室私服02b(中) textoff=0]Himuro parece considerar a pergunta.",
+      "id": 15506,
+      "epk_id": "7412",
+      "label": "$$$message_0051_0012_0003$$$"
+    },
+    {
+      "en": "\"I suppose there's no use dwelling on a question I can't answer.[lr]",
+      "jp": "ããããæ©ãã§ãåããäºã§ã¯ãªããã[lr]",
+      "Pt-br": "\"Acho que não adianta ficar quebrando a cabeça com uma pergunta que não sei responder.[lr]",
+      "id": 15507,
+      "epk_id": "7413",
+      "label": "$$$message_0051_0013_0000$$$"
+    },
+    {
+      "en": "I'll just have to consult a specialist.\"[lr]",
+      "jp": "ããã®æã¯å°éå®¶ã«ã§ããé¡ããããã[lr]",
+      "Pt-br": "Vou ter que consultar um especialista.\"[lr]",
+      "id": 15508,
+      "epk_id": "7414",
+      "label": "$$$message_0051_0013_0001$$$"
+    },
+    {
+      "en": "\"Like Tohsaka?\"[lr]",
+      "jp": "ãé åã¨ãï¼ã[lr]",
+      "Pt-br": "\"Alguém como a Tohsaka?\"[lr]",
+      "id": 15509,
+      "epk_id": "7415",
+      "label": "$$$message_0051_0013_0002$$$"
+    },
+    {
+      "en": "\"What are you talking about? They're right here[line len=2]someone who we can ask about ghosts right under their noses.\"",
+      "jp": "ãä½ãããããã®ä¸­ã«ã¯æ¬è·ãããã§ã¯ãªãã[line len=3]è¶³ä¸ã«åºãå¹½éãªãä½ã¨ããããã¨ãªã",
+      "Pt-br": "\"Do que você está falando? Temos um profissional bem aqui[line len=2]se é um fantasma aos pés dele, ele que resolva.\"",
+      "id": 15510,
+      "epk_id": "7416",
+      "label": "$$$message_0051_0013_0003$$$"
+    },
+    {
+      "en": "Oh, that's where she's going with this.[lr]",
+      "jp": "ããªãã»ã©ãããæ¥ããã[lr]",
+      "Pt-br": "Ah, então é aí que ela quer chegar.[lr]",
+      "id": 15511,
+      "epk_id": "7417",
+      "label": "$$$message_0051_0014_0000$$$"
+    },
+    {
+      "en": "Didn't Issei say that there isn't anyone with actual dharmic power in the Ryudou clan? [l]On the other hand, I remember hearing there used to be people like that in the Tohsaka line.",
+      "jp": "ãæ³æ´ä¸æã¨ãã®ãå¯ºã«ã¯æ³åã¿ãããªå®åãæã£ãäººéã¯ããªãã£ã¦è¨ã£ã¦ãªãã£ãããªï¼[l]ãé åããããä»¥åã«å®åæ´¾ã¯äºã\nãã¨ãã",
+      "Pt-br": "Issei não tinha dito que não há ninguém com algo parecido com poder dhármico no clã Ryuudou? [l]Por outro lado, lembro de ouvir que antigamente havia gente assim na linhagem da Tohsaka.",
+      "id": 15512,
+      "epk_id": "7418",
+      "label": "$$$message_0051_0014_0001$$$"
+    },
+    {
+      "en": "\"I'm going to take a look around the temple grounds. I'll ask the temple boy to catch the ghost if I see him.\"[lr]",
+      "jp": "ããã¦ãç§ã¯å°ãå¢å\nãå·¡ã£ã¦ãããå¯ºã®å­ã§ãè¦ããæã¾ãã¦è©±ãèããã[lr]",
+      "Pt-br": "\"Vou dar uma olhada pelo pátio do templo. Se encontrar o garoto do templo, peço que ele capture o fantasma.\"[lr]",
+      "id": 15513,
+      "epk_id": "7419",
+      "label": "$$$message_0051_0015_0000$$$"
+    },
+    {
+      "en": "\"I don't think Issei knows anything about ghosts.\"",
+      "jp": "ãä¸æã¯å¹½éã®äºã¯ç¥ããªãã¨æããã©ãªã",
+      "Pt-br": "\"Eu não acho que o Issei entenda de fantasmas.\"",
+      "id": 15514,
+      "epk_id": "7420",
+      "label": "$$$message_0051_0015_0001$$$"
+    },
+    {
+      "en": "\"The solution could be right under our noses, you know. It might not be a bad idea to pray to the mountain for aid while I'm here.\"[lr]",
+      "jp": "ãç¯å°ãã¨æããããããããªè©±ã ããããªãã°å¤§äººããããã®å±±ã«é¡ãæããã®ãæªãã¯ãªãã[lr]",
+      "Pt-br": "\"A solução pode estar bem na nossa cara, sabe. Talvez não seja uma má ideia fazer uma oração para a montanha enquanto estou aqui.\"[lr]",
+      "id": 15515,
+      "epk_id": "7421",
+      "label": "$$$message_0051_0016_0000$$$"
+    },
+    {
+      "en": "\"What, for good grades?\"[lr]",
+      "jp": "ãå­¦æ¥­æå°±ã¨ãï¼ã[lr]",
+      "Pt-br": "\"Para quê, tirar notas boas?\"[lr]",
+      "id": 15516,
+      "epk_id": "7422",
+      "label": "$$$message_0051_0016_0001$$$"
+    },
+    {
+      "en": "That sounds like something Himuro would do.[lr]",
+      "jp": "ãæ°·å®¤ãªãæå \nããã®è¾ºã ããªã[lr]",
+      "Pt-br": "Só podia ser coisa da Himuro.[lr]",
+      "id": 15517,
+      "epk_id": "7423",
+      "label": "$$$message_0051_0016_0002$$$"
+    },
+    {
+      "en": "But then, she turns to me.",
+      "jp": "ããããããããã¨æ¯ãè¿ã£ãå½¼å¥³ã¯[line len=3]",
+      "Pt-br": "Mas então, ela se vira pra mim.",
+      "id": 15518,
+      "epk_id": "7424",
+      "label": "$$$message_0051_0016_0003$$$"
+    },
+    {
+      "en": "\"...For a relationship.\"[lr]",
+      "jp": "ã[line len=3]ç¸çµã³ã ã[lr]",
+      "Pt-br": "\"...Para um romance.\"[lr]",
+      "id": 15519,
+      "epk_id": "7425",
+      "label": "$$$message_0051_0017_0000$$$"
+    },
+    {
+      "en": "\"Eh?\"[lr]",
+      "jp": "ããï¼ã[lr]",
+      "Pt-br": "\"Hã?\"[lr]",
+      "id": 15520,
+      "epk_id": "7426",
+      "label": "$$$message_0051_0017_0001$$$"
+    },
+    {
+      "en": "She utters something I never imagined I'd hear from her.[lr]",
+      "jp": "ãèããããªããããªè¨èãé£ã³åºã¦ããã[lr]",
+      "Pt-br": "Ela solta algo que eu jamais pensei que ouviria dela.[lr]",
+      "id": 15521,
+      "epk_id": "7427",
+      "label": "$$$message_0051_0017_0002$$$"
+    },
+    {
+      "en": "Himuro wants a relationship? With whom?",
+      "jp": "ãæ°·å®¤ã«ç¸çµã³ï¼ããããªãã ãã¨ï¼",
+      "Pt-br": "A Himuro quer um romance? Com quem?",
+      "id": 15522,
+      "epk_id": "7428",
+      "label": "$$$message_0051_0017_0003$$$"
+    },
+    {
+      "en": "\"You look surprised again, Emiya.[lr]",
+      "jp": "ãã¾ãæå¤ãããªé¡ããã¦ãããªãè¡å®®ã[lr]",
+      "Pt-br": "\"Você parece surpreso de novo, Emiya.[lr]",
+      "id": 15523,
+      "epk_id": "7429",
+      "label": "$$$message_0051_0018_0000$$$"
+    },
+    {
+      "en": "[chgfg storage=æ°·å®¤ç§æ01b(ä¸­) time=300 textoff=0]Does the thought of me meeting a good partner offend you?\"[lr]",
+      "jp": "ã[chgfg storage=æ°·å®¤ç§æ01b(ä¸­) time=300 textoff=0]ç§ãè¯ç¸ãé¡ãã®ãè¡å®®ã«å·®ãéããããã®ãï¼ã[lr]",
+      "Pt-br": "[chgfg storage=氷室私服01b(中) time=300 textoff=0]A ideia de eu encontrar um bom parceiro lhe ofende?\"[lr]",
+      "id": 15524,
+      "epk_id": "7430",
+      "label": "$$$message_0051_0018_0001$$$"
+    },
+    {
+      "en": "\"No, but...\"",
+      "jp": "ããããªãã¨ã¯ãªãããã©ã",
+      "Pt-br": "\"Não, mas...\"",
+      "id": 15525,
+      "epk_id": "7431",
+      "label": "$$$message_0051_0018_0002$$$"
+    },
+    {
+      "en": "\"Back at the park, you looked like you wanted to make a remark when I mentioned romance. Do you have something to say?\"[lr]",
+      "jp": "ããã®å\n¬åã®ã¨ãããç§ãè²æã®è©±ãããã®ãããããã¨è¨ããããã§ãã£ããªãå®éã¯ã©ããªã®ã ï¼ã[lr]",
+      "Pt-br": "\"Lá no parque, você ficou com cara de quem queria comentar algo quando mencionei romance. Você tem alguma coisa a dizer?\"[lr]",
+      "id": 15526,
+      "epk_id": "7432",
+      "label": "$$$message_0051_0019_0000$$$"
+    },
+    {
+      "en": "I was just surprised. It was a bolt out of the blue.[lr]",
+      "jp": "ããã®æã¯èªããæ£ã§ã³ã£ããããã ãã[lr]",
+      "Pt-br": "Eu só fiquei surpreso. Caiu como uma bomba do nada.[lr]",
+      "id": 15527,
+      "epk_id": "7433",
+      "label": "$$$message_0051_0019_0001$$$"
+    },
+    {
+      "en": "That's also true this time, though.",
+      "jp": "ããããä»ãèªããæ£ã§ããã®ã¯éããªãã®ã ãã",
+      "Pt-br": "Mas também não deixa de ser verdade agora.",
+      "id": 15528,
+      "epk_id": "7434",
+      "label": "$$$message_0051_0019_0002$$$"
+    },
+    {
+      "en": "\"...I hope you don't get the wrong idea. Just because I'm asking doesn't mean I'm interested in you.\"[lr]",
+      "jp": "ãâ¦â¦èª¤è§£ãã¦è²°ã£ã¦ã¯å°ããããã®æ§ãªè³ªåããã¦ããå¥ã«ç§ã¯åã«æ°ãããã¯ã±ã§ã¯ãªããã[lr]",
+      "Pt-br": "\"...Espero que não tenha a ideia errada. O fato de eu estar perguntando não quer dizer que estou interessada em você.\"[lr]",
+      "id": 15529,
+      "epk_id": "7435",
+      "label": "$$$message_0051_0020_0000$$$"
+    },
+    {
+      "en": "\"It's all right. We're just chatting without any undertones, I get it.\"",
+      "jp": "ãå¤§ä¸å¤«ãã¨ãããããå³ãè²æ°ããªãä¼è©±ã ã£ã¦ã³ãã¯çè§£ãã¦ãã",
+      "Pt-br": "\"Está tudo bem. Nós só estamos conversando sem segundas intenções, eu entendo.\"",
+      "id": 15530,
+      "epk_id": "7436",
+      "label": "$$$message_0051_0020_0001$$$"
+    },
+    {
+      "en": "\"Very good.[lr]",
+      "jp": "ããçè§£ããã¿ããã[lr]",
+      "Pt-br": "\"Muito bem.[lr]",
+      "id": 15531,
+      "epk_id": "7437",
+      "label": "$$$message_0051_0021_0000$$$"
+    },
+    {
+      "en": "Still, ghosts and romance aren't so different. Such nuanced topics fascinate me.[lr]",
+      "jp": "ãã¾ããææãå¹½éãåãã ãç§ã¯ãããããé°å½±ã®å¤ãäºæã«å¿ãæ¹ãããã[lr]",
+      "Pt-br": "\"Ainda assim, fantasmas e romance não são tão diferentes. Tópicos cheios de nuances como esses me fascinam.\"[lr]",
+      "id": 15532,
+      "epk_id": "7438",
+      "label": "$$$message_0051_0021_0001$$$"
+    },
+    {
+      "en": "They're so picturesque.\"[lr]",
+      "jp": "ãã©ã¡ããçµµã«ãªããããªã[lr]",
+      "Pt-br": "São tão pitorescos.\"[lr]",
+      "id": 15533,
+      "epk_id": "7439",
+      "label": "$$$message_0051_0021_0002$$$"
+    },
+    {
+      "en": "\"Huh?\"",
+      "jp": "ãï¼ã",
+      "Pt-br": "\"Hã?\"",
+      "id": 15534,
+      "epk_id": "7440",
+      "label": "$$$message_0051_0021_0003$$$"
+    },
+    {
+      "en": "\"Don't inquire any further.[lr]",
+      "jp": "ãããä»¥ä¸ã¯è©®ç´¢ãããªã[lr]",
+      "Pt-br": "\"Não faça mais perguntas.[lr]",
+      "id": 15535,
+      "epk_id": "7441",
+      "label": "$$$message_0051_0022_0000$$$"
+    },
+    {
+      "en": "Even if I prayed for romance, it would be for the future of the lovers I'll observe... To be clear, I've never given any thought to my own romance. [cacheimage storage=æ°·å®¤ç§æ01a(ä¸­)][wvl][chgfg time=300 storage=æ°·å®¤ç§æ01a(ä¸­) textoff=0]Though I can throw in a prayer for your benefit, while I'm at it.\"[lr]",
+      "jp": "ããã®å¯ºã«ç¸çµã³ãé¡ã£ãã¨ãã¦ããç§ã®è¦³å¯ããæäººãã¡ã®æªæ¥ã®çºã [line len=3]ç§èªèº«ã®ç¸çµã³ã¯èããäºããªãã[cacheimage storage=æ°·å®¤ç§æ01a(ä¸­)][wvl][chgfg time=300 storage=æ°·å®¤ç§æ01a(ä¸­) textoff=0]ã§ã¯ãè¡å®®ã®è¯ç¸ãä¸ç·ã«é¡ã£ã¦æ¥ããã[lr]",
+      "Pt-br": "Mesmo que eu fizesse uma oração por romance, seria para o futuro dos amantes que vou observar... Que fique claro, nunca dei qualquer pensamento para os meus próprios romances. [cacheimage storage=氷室私服01a(中)][wvl][chgfg time=300 storage=氷室私服01a(中) textoff=0]Embora eu até possa botar você no meio de uma oração, já que estou no embalo.\"[lr]",
+      "id": 15536,
+      "epk_id": "7442",
+      "label": "$$$message_0051_0022_0001$$$"
+    },
+    {
+      "en": "[clfg textoff=0 rule=ã·ã£ãã¿ã¼å·¦ãã pos=all time=300]With that parting remark, Himuro leaves briskly through the temple gate.",
+      "jp": "ã[clfg textoff=0 rule=ã·ã£ãã¿ã¼å·¦ãã pos=all time=300]ãªãã¦è¨ãæ®ããæ°·å®¤ã¯ããããã¨éã®åããã«å»ã£ã¦ãã£ãã",
+      "Pt-br": "[clfg textoff=0 rule=シャッター左から pos=all time=300]Com essa observação de despedida, Himuro vai embora a passos firmes pelo portão do templo.",
+      "id": 15537,
+      "epk_id": "7443",
+      "label": "$$$message_0051_0022_0002$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "ãâ¦â¦â¦â¦â¦â¦ã[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 15538,
+      "epk_id": "7444",
+      "label": "$$$message_0051_0023_0000$$$"
+    },
+    {
+      "en": "I gotta say...[lr]",
+      "jp": "ããªãã¨ãããã[lr]",
+      "Pt-br": "Como posso dizer...[lr]",
+      "id": 15539,
+      "epk_id": "7445",
+      "label": "$$$message_0051_0023_0001$$$"
+    },
+    {
+      "en": "Our school sure has a lot of odd characters.",
+      "jp": "ãããã¨å¤ãã£ãã¤ããå¤ãããªããã¡ã®å­¦æ ¡ã£ã¦ã",
+      "Pt-br": "Nossa escola tem um bocado de gente estranha.",
+      "id": 15540,
+      "epk_id": "7446",
+      "label": "$$$message_0051_0023_0002$$$"
+    },
+    {
+      "en": "\"...So he really isn't here at this time of day.\"[r]:ZÜo",
+      "jp": "ãâ¦â¦ãã¯ãã[r]ãããªæéã«ã¯ããªããã",
+      "Pt-br": "\"...Então ele não aparece mesmo nesse horário.\"[r]",
+      "id": 15541,
+      "epk_id": "907366",
+      "label": "$$$message_9051_0001_0000$$$"
+    }
+  ]
+}

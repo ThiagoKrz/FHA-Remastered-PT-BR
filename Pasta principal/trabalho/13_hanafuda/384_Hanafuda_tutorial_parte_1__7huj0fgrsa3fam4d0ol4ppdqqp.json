@@ -1,0 +1,1128 @@
+{
+  "cena": "7huj0fgrsa3fam4d0ol4ppdqqp",
+  "titulo": "Hanafuda: tutorial (parte 1)",
+  "rota": "Hanafuda",
+  "arquivo": "7huj0fgrsa3fam4d0ol4ppdqqp.epk_dec",
+  "linhas": [
+    {
+      "en": "\"É hora da sua aula particular.[br]Por favor, seja paciente conosco.[br]O tópico da aula é o hanafuda, é claro.\"[stoptrans]",
+      "jp": "「[ruby text=チュートリアル char=4]個別指導のお時間です。[br]　どうか、しばらくおつきあいください。[br]　講義はもちろん『花札』について」[stoptrans]",
+      "Pt-br": "\"É hora da sua aula particular.[br]Por favor, seja paciente conosco.[br]O tópico da aula é o hanafuda, é claro.\"[stoptrans]",
+      "id": 44577,
+      "epk_id": "44367",
+      "label": "$$$message_0381_0000_0000$$$"
+    },
+    {
+      "en": "\"É bom que você escute também, Leysritt.\"",
+      "jp": "「リーゼリットもよく聞くように」",
+      "Pt-br": "\"É bom que você escute também, Leysritt.\"",
+      "id": 44578,
+      "epk_id": "44368",
+      "label": "$$$message_0381_0000_0001$$$"
+    },
+    {
+      "en": "\"Tá.\"",
+      "jp": "「うん、わかった」",
+      "Pt-br": "\"Tá.\"",
+      "id": 44579,
+      "epk_id": "44369",
+      "label": "$$$message_0381_0000_0002$$$"
+    },
+    {
+      "en": "\"Hanafuda é um tipo de jogo de cartas no qual os jogadores formam mãos usando cartas decoradas com a flora associada a cada um dos doze meses. Cada mês tem 4 cartas, num total de 48 cartas.\"[stoptrans]",
+      "jp": "「『花札』は1月から12月の各月にちなむ草花が描かれた、それぞれ4枚ずつ、計48枚の札から成り立つ、かるたの一種です」[stoptrans]",
+      "Pt-br": "\"Hanafuda é um tipo de jogo de cartas no qual os jogadores formam mãos usando cartas decoradas com a flora associada a cada um dos doze meses. Cada mês tem 4 cartas, num total de 48 cartas.\"[stoptrans]",
+      "id": 44580,
+      "epk_id": "44370",
+      "label": "$$$message_0381_0000_0003$$$"
+    },
+    {
+      "en": "\"Diz-se que se desenvolveu a partir do jogo de combinação de conchas kai'ooi do período Heian e do jogo de cartas Tenshou karuta de inspiração portuguesa do período Edo.\"",
+      "jp": "「平安時代の貴族の遊戯『[ruby text=かいおお char=2]貝覆い』と、江戸時代に流行した天正かるたが元になって作られたと云われています」",
+      "Pt-br": "\"Diz-se que se desenvolveu a partir do jogo de combinação de conchas kai'ooi do período Heian e do jogo de cartas Tenshou karuta de inspiração portuguesa do período Edo.\"",
+      "id": 44581,
+      "epk_id": "44371",
+      "label": "$$$message_0381_0000_0004$$$"
+    },
+    {
+      "en": "\"...Tipo as cartas de baralho que vão do ás à rainha?\"",
+      "jp": "「……エースからクイーンまでのトランプ？」",
+      "Pt-br": "\"...Tipo as cartas de baralho que vão do ás à rainha?\"",
+      "id": 44582,
+      "epk_id": "44372",
+      "label": "$$$message_0381_0000_0005$$$"
+    },
+    {
+      "en": "\"Sim, bem próximo.\"",
+      "jp": "「ええ。そう捉えても構わないでしょう」",
+      "Pt-br": "\"Sim, bem próximo.\"",
+      "id": 44583,
+      "epk_id": "44373",
+      "label": "$$$message_0381_0000_0006$$$"
+    },
+    {
+      "en": "\"As diferenças em relação às cartas de baralho comuns são que elas são ilustradas com temas da natureza para cada estação e que cada carta tem um valor em pontos.\"",
+      "jp": "「トランプと異なるのは、四季折々・花鳥風月の絵が描かれ、札に点数がついていることです」",
+      "Pt-br": "\"As diferenças em relação às cartas de baralho comuns são que elas são ilustradas com temas da natureza para cada estação e que cada carta tem um valor em pontos.\"",
+      "id": 44584,
+      "epk_id": "44374",
+      "label": "$$$message_0381_0000_0007$$$"
+    },
+    {
+      "en": "\"Quem comer mais cartas ganha.[br]As cartas de animais valem o dobro do dobro de pontos!\"[stoptrans]",
+      "jp": "「たくさん札を食べた人がかち。[br]　どうぶつ札はポイント２倍２倍！」[stoptrans]",
+      "Pt-br": "\"Quem comer mais cartas ganha.[br]As cartas de animais valem o dobro do dobro de pontos!\"[stoptrans]",
+      "id": 44585,
+      "epk_id": "44375",
+      "label": "$$$message_0381_0000_0008$$$"
+    },
+    {
+      "en": "\"Isso está completamente errado.[lr]",
+      "jp": "「全然ちがいます。[lr]",
+      "Pt-br": "\"Isso está completamente errado.[lr]",
+      "id": 44586,
+      "epk_id": "44376",
+      "label": "$$$message_0381_0000_0009$$$"
+    },
+    {
+      "en": "Deixe-me mostrar como se joga.\"[stoptrans]",
+      "jp": "　正しい遊び方をご紹介します」[stoptrans]",
+      "Pt-br": "Deixe-me mostrar como se joga.\"[stoptrans]",
+      "id": 44587,
+      "epk_id": "44377",
+      "label": "$$$message_0381_0000_0010$$$"
+    },
+    {
+      "en": "\"Começarei com o jogo mais conhecido:[br][movefg opacity=255 left=186 top=16 time=300 accel=2 storage=こいこいとはタイトル textoff=0 nowait=1]Koi-Koi.\"",
+      "jp": "「それでは代表的な遊び方の一つ、[br][movefg opacity=255 left=186 top=16 time=300 accel=2 storage=こいこいとはタイトル textoff=0 nowait=1]　『こいこい』をお教えしましょう」",
+      "Pt-br": "\"Começarei com o jogo mais conhecido:[br][movefg opacity=255 left=186 top=16 time=300 accel=2 storage=こいこいとはタイトル textoff=0 nowait=1]Koi-Koi.\"",
+      "id": 44588,
+      "epk_id": "44378",
+      "label": "$$$message_0381_0000_0011$$$"
+    },
+    {
+      "en": "\"Koi-Koi é um jogo para dois jogadores.[br]Conforme cada jogador joga as cartas, eles as combinam em mãos.\"",
+      "jp": "「こいこいは２人で遊ぶゲームです。[br]　お互いに札を出し合いながら、複数の札を組み合わせて役を作っていきます」",
+      "Pt-br": "\"Koi-Koi é um jogo para dois jogadores.[br]Conforme cada jogador joga as cartas, eles as combinam em mãos.\"",
+      "id": 44589,
+      "epk_id": "44379",
+      "label": "$$$message_0381_0000_0012$$$"
+    },
+    {
+      "en": "\"As mãos têm pontuações variadas e, após várias rodadas, o jogador que pegar todos os pontos de seu oponente vence.\"",
+      "jp": "「役にはそれぞれ得点があり、勝負を繰り返しながら、先に相手の持ち点すべてを奪った者が勝利します」",
+      "Pt-br": "\"As mãos têm pontuações variadas e, após várias rodadas, o jogador que pegar todos os pontos de seu oponente vence.\"",
+      "id": 44590,
+      "epk_id": "44380",
+      "label": "$$$message_0381_0000_0013$$$"
+    },
+    {
+      "en": "\"...Esse resumo serve?\"",
+      "jp": "「[line len=3]と、概略はよろしいですか？」",
+      "Pt-br": "\"...Esse resumo serve?\"",
+      "id": 44591,
+      "epk_id": "44381",
+      "label": "$$$message_0381_0000_0014$$$"
+    },
+    {
+      "en": "\"Serve sim.\"",
+      "jp": "「だいたいは」",
+      "Pt-br": "\"Serve sim.\"",
+      "id": 44592,
+      "epk_id": "44382",
+      "label": "$$$message_0381_0000_0015$$$"
+    },
+    {
+      "en": "\"Então prosseguirei.\"",
+      "jp": "「では順を追って説明しましょう」",
+      "Pt-br": "\"Então prosseguirei.\"",
+      "id": 44593,
+      "epk_id": "44383",
+      "label": "$$$message_0381_0000_0016$$$"
+    },
+    {
+      "en": "\"O primeiro passo é decidir quem será o carteador.[lr]",
+      "jp": "「まず親を決めます[line len=3][lr]",
+      "Pt-br": "\"O primeiro passo é decidir quem será o carteador.[lr]",
+      "id": 44594,
+      "epk_id": "44384",
+      "label": "$$$message_0381_0000_0017$$$"
+    },
+    {
+      "en": "Cada jogador saca uma carta, e o jogador que sacar o mês mais antigo é o carteador. O carteador é o primeiro a jogar.\"",
+      "jp": "　最初に札を１枚引き、早い月を引いた人が親です。親は先攻になります」",
+      "Pt-br": "Cada jogador saca uma carta, e o jogador que sacar o mês mais antigo é o carteador. O carteador é o primeiro a jogar.\"",
+      "id": 44595,
+      "epk_id": "44385",
+      "label": "$$$message_0381_0000_0018$$$"
+    },
+    {
+      "en": "\"Então, se um jogador saca Maio e o outro saca Novembro, [wait time=400 canskip=true][hfchance pos=lower]o jogador que sacou Maio é o carteador.\"[br]",
+      "jp": "「５月と11月の札をひいたら、[wait time=400 canskip=true][br][hfchance pos=lower]　５月の人が親で、先攻」",
+      "Pt-br": "\"Então, se um jogador saca Maio e o outro saca Novembro, [wait time=400 canskip=true][hfchance pos=lower]o jogador que sacou Maio é o carteador.\"[br]",
+      "id": 44596,
+      "epk_id": "44386",
+      "label": "$$$message_0381_0000_0019$$$"
+    },
+    {
+      "en": "\"Isso mesmo.\"",
+      "jp": "「そうです」",
+      "Pt-br": "\"Isso mesmo.\"",
+      "id": 44597,
+      "epk_id": "44387",
+      "label": "$$$message_0381_0000_0020$$$"
+    },
+    {
+      "en": "\"Uma vez que o carteador é definido, as cartas são distribuídas.[br][fig left=188 index=1000 top=64 time=300 storage=山札配置]Quanto ao número de cartas que são distribuídas...\"[stoptrans]",
+      "jp": "「親が決まったら、次に札を配ります。[br][fig left=188 index=1000 top=64 time=300 storage=山札配置]　配る枚数のうちわけは[line len=3]」[stoptrans]",
+      "Pt-br": "\"Uma vez que o carteador é definido, as cartas são distribuídas.[br][fig left=188 index=1000 top=64 time=300 storage=山札配置]Quanto ao número de cartas que são distribuídas...\"[stoptrans]",
+      "id": 44598,
+      "epk_id": "44388",
+      "label": "$$$message_0381_0000_0021$$$"
+    },
+    {
+      "en": "\"Cada jogador recebe 8 cartas na sua [hfkw]mão[hfekw].[br]8 cartas vão viradas para cima na [hfkw]mesa[hfekw].[br]As 24 restantes ficam viradas para baixo no [hfkw]baralho[hfekw].\"[stoptrans]",
+      "jp": "「各人の[hfkw]手札[hfekw]として８枚。[br]　[hfkw]場[hfekw]に表にして８枚。[br]　残り２４枚は裏のまま[hfkw]山札[hfekw]になります」[stoptrans]",
+      "Pt-br": "\"Cada jogador recebe 8 cartas na sua [hfkw]mão[hfekw].[br]8 cartas vão viradas para cima na [hfkw]mesa[hfekw].[br]As 24 restantes ficam viradas para baixo no [hfkw]baralho[hfekw].\"[stoptrans]",
+      "id": 44599,
+      "epk_id": "44389",
+      "label": "$$$message_0381_0000_0022$$$"
+    },
+    {
+      "en": "\"Quando todas as cartas forem distribuídas, você estará pronto para jogar.\"[stoptrans]",
+      "jp": "「くばり終えたらゲーム準備完了です」[stoptrans]",
+      "Pt-br": "\"Quando todas as cartas forem distribuídas, você estará pronto para jogar.\"[stoptrans]",
+      "id": 44600,
+      "epk_id": "44390",
+      "label": "$$$message_0381_0000_0023$$$"
+    },
+    {
+      "en": "\"Que comece a tragédia, seus vermes!\"",
+      "jp": "「やろうども、さんげきのまくあけだ」",
+      "Pt-br": "\"Que comece a tragédia, seus vermes!\"",
+      "id": 44601,
+      "epk_id": "44391",
+      "label": "$$$message_0381_0000_0024$$$"
+    },
+    {
+      "en": "\"...Vamos começar o jogo.[lr][hfstopsweat][hffacechg2 chara=セラ face=楽 layer=1 time=200][say storage=htut2_ser_0230 _name=セラ]O carteador joga primeiro.\"[fig left=188 index=1000 top=64 time=800 storage=プレイヤーターン ][stoptrans]",
+      "jp": "「……ゲームを開始しましょう。[hfstopsweat][lr][hffacechg2 chara=セラ face=楽 layer=1 time=200][say storage=htut2_ser_0230 _name=セラ]　まずは先攻の親の番です」[fig left=188 index=1000 top=64 time=800 storage=プレイヤーターン ][stoptrans]",
+      "Pt-br": "\"...Vamos começar o jogo.[lr][hfstopsweat][hffacechg2 chara=セラ face=楽 layer=1 time=200][say storage=htut2_ser_0230 _name=セラ]O carteador joga primeiro.\"[fig left=188 index=1000 top=64 time=800 storage=プレイヤーターン ][stoptrans]",
+      "id": 44602,
+      "epk_id": "44392",
+      "label": "$$$message_0381_0000_0025$$$"
+    },
+    {
+      "en": "\"Escolha uma carta da sua [hfkw]mão[hfekw] para jogar na [hfkw]mesa[hfekw].\"[fig left=188 index=1000 top=64 time=500 storage=プレイヤーターン2][stoptrans]",
+      "jp": "「[hfkw]手札[hfekw]の中から１枚を選んで[hfkw]場[hfekw]に出します」[fig left=188 index=1000 top=64 time=500 storage=プレイヤーターン2][stoptrans]",
+      "Pt-br": "\"Escolha uma carta da sua [hfkw]mão[hfekw] para jogar na [hfkw]mesa[hfekw].\"[fig left=188 index=1000 top=64 time=500 storage=プレイヤーターン2][stoptrans]",
+      "id": 44603,
+      "epk_id": "44393",
+      "label": "$$$message_0381_0000_0026$$$"
+    },
+    {
+      "en": "\"Se houver cartas do mesmo mês presentes, pegue-as da mesa. [wait canskip=true time=2000][l][say storage=HTUT2_SER_0270 _name=セラ]As cartas que você pega são separadas, não devolvidas para a sua [hfkw]mão[hfekw].\"[fig left=188 index=1000 top=64 time=500 storage=プレイヤーターン3][stoptrans]",
+      "jp": "「この時に、同じ月の札があれば自分のものとなります。[wait canskip=true time=2000][l][say storage=HTUT2_SER_0270 _name=セラ]取った札は[hfkw]手札[hfekw]には戻らず、自分の脇に置きます」[fig left=188 index=1000 top=64 time=500 storage=プレイヤーターン3][stoptrans]",
+      "Pt-br": "\"Se houver cartas do mesmo mês presentes, pegue-as da mesa. [wait canskip=true time=2000][l][say storage=HTUT2_SER_0270 _name=セラ]As cartas que você pega são separadas, não devolvidas para a sua [hfkw]mão[hfekw].\"[fig left=188 index=1000 top=64 time=500 storage=プレイヤーターン3][stoptrans]",
+      "id": 44604,
+      "epk_id": "44394",
+      "label": "$$$message_0381_0000_0027$$$"
+    },
+    {
+      "en": "\"Em seguida, saque 1 carta do [hfkw]baralho[hfekw] [fig left=188 index=1000 top=64 time=500 storage=プレイヤーターン4][wait canskip=true time=2000][l][say storage=HTUT2_SER_0300 _name=セラ]e jogue-a na mesa. [fig left=188 index=1000 top=64 time=500 storage=プレイヤーターン5][wait canskip=true time=2000][l][say storage=HTUT2_SER_0310 _name=セラ]Se ela pertencer ao mesmo mês de qualquer outra carta, pegue as cartas da mesa.\"[fig left=188 index=1000 top=64 time=500 storage=プレイヤーターン6][stoptrans]",
+      "jp": "「続けてさらに[hfkw]山札[hfekw]から１枚を引いて[fig left=188 index=1000 top=64 time=500 storage=プレイヤーターン4][wait canskip=true time=2000][l][say storage=HTUT2_SER_0300 _name=セラ]場に出します。[fig left=188 index=1000 top=64 time=500 storage=プレイヤーターン5][wait canskip=true time=2000][l][say storage=HTUT2_SER_0310 _name=セラ]やはり同じ月の札があれば、自分のものになります」[fig left=188 index=1000 top=64 time=500 storage=プレイヤーターン6][stoptrans]",
+      "Pt-br": "\"Em seguida, saque 1 carta do [hfkw]baralho[hfekw] [fig left=188 index=1000 top=64 time=500 storage=プレイヤーターン4][wait canskip=true time=2000][l][say storage=HTUT2_SER_0300 _name=セラ]e jogue-a na mesa. [fig left=188 index=1000 top=64 time=500 storage=プレイヤーターン5][wait canskip=true time=2000][l][say storage=HTUT2_SER_0310 _name=セラ]Se ela pertencer ao mesmo mês de qualquer outra carta, pegue as cartas da mesa.\"[fig left=188 index=1000 top=64 time=500 storage=プレイヤーターン6][stoptrans]",
+      "id": 44605,
+      "epk_id": "44395",
+      "label": "$$$message_0381_0000_0028$$$"
+    },
+    {
+      "en": "\"Em outras palavras, você pode ganhar 4 cartas de uma só vez se tiver sorte, mas também pode não ganhar nada.\"",
+      "jp": "「つまり、運がよければ１回で４枚の札が自分のものとなりますが、運が悪ければ１枚も得られません」",
+      "Pt-br": "\"Em outras palavras, você pode ganhar 4 cartas de uma só vez se tiver sorte, mas também pode não ganhar nada.\"",
+      "id": 44606,
+      "epk_id": "44396",
+      "label": "$$$message_0381_0000_0029$$$"
+    },
+    {
+      "en": "\"Se nem a carta que você jogar da sua [hfkw]mão[hfekw] nem a carta que comprar do [hfkw]baralho[hfekw] forem do mesmo mês, as cartas na [hfkw]mesa[hfekw] ficarão onde estão.\"",
+      "jp": "「出した[hfkw]手札[hfekw]、[hfkw]山札[hfekw]から引いた札、どちらも同じ月の札がなければ、[hfkw]場札[hfekw]としてそのまま残ります」",
+      "Pt-br": "\"Se nem a carta que você jogar da sua [hfkw]mão[hfekw] nem a carta que comprar do [hfkw]baralho[hfekw] forem do mesmo mês, as cartas na [hfkw]mesa[hfekw] ficarão onde estão.\"",
+      "id": 44607,
+      "epk_id": "44397",
+      "label": "$$$message_0381_0000_0030$$$"
+    },
+    {
+      "en": "\"O turno do carteador acaba aí?\"[stoptrans]",
+      "jp": "「それで親の人の番はおしまい？」[stoptrans]",
+      "Pt-br": "\"O turno do carteador acaba aí?\"[stoptrans]",
+      "id": 44608,
+      "epk_id": "44398",
+      "label": "$$$message_0381_0000_0031$$$"
+    },
+    {
+      "en": "\"Não, ainda há um pouco mais para explicar.[br]Você adquiriu algumas cartas, mas ainda não pontuou.\"",
+      "jp": "「いえ、もうすこし続きます。[br]　札を自分のものにしただけでは、まだ得点にはつながりません」",
+      "Pt-br": "\"Não, ainda há um pouco mais para explicar.[br]Você adquiriu algumas cartas, mas ainda não pontuou.\"",
+      "id": 44609,
+      "epk_id": "44399",
+      "label": "$$$message_0381_0000_0032$$$"
+    },
+    {
+      "en": "\"Você precisa combinar as cartas em [hfkw]mãos de pontuação[hfekw] para ganhar pontos.\"",
+      "jp": "「得点にするには[hfkw]役[hfekw]を作っていく必要があります」",
+      "Pt-br": "\"Você precisa combinar as cartas em [hfkw]mãos de pontuação[hfekw] para ganhar pontos.\"",
+      "id": 44610,
+      "epk_id": "44400",
+      "label": "$$$message_0381_0000_0033$$$"
+    },
+    {
+      "en": "\"Que tipo de mãos?[br]  Daquelas que fazem borboletas voarem [lr][stopmove][hfsigh pos=lower][say storage=HTUT2_RIZ_0110 _name=リズ]e te deixam chapada com água mágica?\"[stoptrans]",
+      "jp": "「どんなヤク？[br]　ちょうちょがヒラヒラしたり、[stopmove][lr][hfsigh pos=lower][say storage=HTUT2_RIZ_0110 _name=リズ]　イノシシが突撃したり」[stoptrans]",
+      "Pt-br": "\"Que tipo de mãos?[br]  Daquelas que fazem borboletas voarem [lr][stopmove][hfsigh pos=lower][say storage=HTUT2_RIZ_0110 _name=リズ]e te deixam chapada com água mágica?\"[stoptrans]",
+      "id": 44611,
+      "epk_id": "44401",
+      "label": "$$$message_0381_0000_0034$$$"
+    },
+    {
+      "en": "\"...O que é que passa nessa sua cabeça?[lr][hfstopsweat][hffacechg chara=セラ face=楽 layer=1 time=200][say storage=HTUT2_SER_0380 _name=セラ]Aqui está uma visão geral das combinações. Começaremos com as mais simples.\"",
+      "jp": "「……そういう役もございますが。[hfstopsweat][lr][hffacechg chara=セラ face=楽 layer=1 time=200][say storage=HTUT2_SER_0380 _name=セラ]　役については、こちらの一覧をご覧ください。まずは簡単に」",
+      "Pt-br": "\"...O que é que passa nessa sua cabeça?[lr][hfstopsweat][hffacechg chara=セラ face=楽 layer=1 time=200][say storage=HTUT2_SER_0380 _name=セラ]Aqui está uma visão geral das combinações. Começaremos com as mais simples.\"",
+      "id": 44612,
+      "epk_id": "44402",
+      "label": "$$$message_0381_0000_0035$$$"
+    },
+    {
+      "en": "\"...[wait canskip=true time=400]...[wait canskip=true time=400][resumevoice]Eu não consigo memorizar tudo isso.\"",
+      "jp": "「…[wait canskip=true time=400]…[wait canskip=true time=400][resumevoice]おぼえられない」",
+      "Pt-br": "\"...[wait canskip=true time=400]...[wait canskip=true time=400][resumevoice]Eu não consigo memorizar tudo isso.\"",
+      "id": 44613,
+      "epk_id": "44403",
+      "label": "$$$message_0381_0001_0000$$$"
+    },
+    {
+      "en": "\"É verdade, é muita coisa para assimilar de uma vez. As combinações podem parecer complicadas no começo, mas você as aprenderá gradualmente conforme for jogando.\"",
+      "jp": "「そうですね。たしかに。役はまだ複雑に見えるかもしれませんが、少しずつおぼえていけばよろしいでしょう」",
+      "Pt-br": "\"É verdade, é muita coisa para assimilar de uma vez. As combinações podem parecer complicadas no começo, mas você as aprenderá gradualmente conforme for jogando.\"",
+      "id": 44614,
+      "epk_id": "44404",
+      "label": "$$$message_0381_0001_0001$$$"
+    },
+    {
+      "en": "\"Mas não se preocupe[line len=2]o jogo avisará quando você tiver uma mão de pontuação ou quando faltar apenas uma carta para formar uma.\"[stoptrans]",
+      "jp": "「とはいえゲーム中は『役が揃ったもの』『あと１枚で揃うもの』があれば、下にその役名が表示されるので問題ありません」[stoptrans]",
+      "Pt-br": "\"Mas não se preocupe[line len=2]o jogo avisará quando você tiver uma mão de pontuação ou quando faltar apenas uma carta para formar uma.\"[stoptrans]",
+      "id": 44615,
+      "epk_id": "44405",
+      "label": "$$$message_0381_0001_0002$$$"
+    },
+    {
+      "en": "\"Bom saber.\"",
+      "jp": "「それならあんしん」",
+      "Pt-br": "\"Bom saber.\"",
+      "id": 44616,
+      "epk_id": "44406",
+      "label": "$$$message_0381_0001_0003$$$"
+    },
+    {
+      "en": "Se você completar uma mão de pontuação com as cartas que adquiriu, poderá [hfkw]encerrar a partida[hfekw][stoptrans][fg left=655 absindex=65281 top=52 time=600 storage=勝負 textoff=0 layer=4 nowait=1].[stoptrans]",
+      "jp": "「もし、自分の取った札の中で、役が完成していれば[hfkw]勝負[hfekw][stoptrans][fg left=655 absindex=65281 top=52 time=600 storage=勝負 textoff=0 layer=4 nowait=1]をすることができます」[stoptrans]",
+      "Pt-br": "Se você completar uma mão de pontuação com as cartas que adquiriu, poderá [hfkw]encerrar a partida[hfekw][stoptrans][fg left=655 absindex=65281 top=52 time=600 storage=勝負 textoff=0 layer=4 nowait=1].[stoptrans]",
+      "id": 44617,
+      "epk_id": "44407",
+      "label": "$$$message_0381_0001_0004$$$"
+    },
+    {
+      "en": "\"...E se eu não quiser encerrar ainda?\"",
+      "jp": "「……勝負したくないときは？」",
+      "Pt-br": "\"...E se eu não quiser encerrar ainda?\"",
+      "id": 44618,
+      "epk_id": "44408",
+      "label": "$$$message_0381_0001_0005$$$"
+    },
+    {
+      "en": "\"Se optar por continuar o jogo sem [hfkw]encerrar a partida[hfekw], isso resultará num [hfkw]Koi-Koi[hfekw][stoptrans][fg left=106 absindex=65281 top=47 time=500 storage=こいこい textoff=0 layer=4 nowait=1].\"[stoptrans]",
+      "jp": "「[hfkw]勝負[hfekw]せずに、ゲームを続けたい時は[hfkw]こいこい[hfekw][stoptrans][fg left=106 absindex=65281 top=47 time=500 storage=こいこい textoff=0 layer=4 nowait=1]をします」[stoptrans]",
+      "Pt-br": "\"Se optar por continuar o jogo sem [hfkw]encerrar a partida[hfekw], isso resultará num [hfkw]Koi-Koi[hfekw][stoptrans][fg left=106 absindex=65281 top=47 time=500 storage=こいこい textoff=0 layer=4 nowait=1].\"[stoptrans]",
+      "id": 44619,
+      "epk_id": "44409",
+      "label": "$$$message_0381_0001_0006$$$"
+    },
+    {
+      "en": "\"Koi-Koi!\"",
+      "jp": "「こいこい！」",
+      "Pt-br": "\"Koi-Koi!\"",
+      "id": 44620,
+      "epk_id": "44410",
+      "label": "$$$message_0381_0001_0007$$$"
+    },
+    {
+      "en": "\"Se você estiver buscando uma [hfkw]mão[hfekw] de pontuação alta e quiser causar um dano pesado ao seu oponente, então o [hfkw]Koi-Koi[hfekw] pode ser eficaz.\"",
+      "jp": "「点数の高い[hfkw]役[hfekw]をねらって、相手により大きなダメージを与えたい時には[hfkw]こいこい[hfekw]が有効です」",
+      "Pt-br": "\"Se você estiver buscando uma [hfkw]mão[hfekw] de pontuação alta e quiser causar um dano pesado ao seu oponente, então o [hfkw]Koi-Koi[hfekw] pode ser eficaz.\"",
+      "id": 44621,
+      "epk_id": "44411",
+      "label": "$$$message_0381_0001_0008$$$"
+    },
+    {
+      "en": "\"Koi-Koi!\"",
+      "jp": "「こいこい！」",
+      "Pt-br": "\"Koi-Koi!\"",
+      "id": 44622,
+      "epk_id": "44412",
+      "label": "$$$message_0381_0001_0009$$$"
+    },
+    {
+      "en": "\"Se você ainda não tiver uma mão de pontuação e não puder [hfkw]encerrar a partida[hfekw], ou se escolher fazer o [hfkw]Koi-Koi[hfekw], o turno terminará.\"",
+      "jp": "「役がまだそろわず[hfkw]勝負[hfekw]できないか、あるいは[hfkw]こいこい[hfekw]した場合は、順番を交代します」",
+      "Pt-br": "\"Se você ainda não tiver uma mão de pontuação e não puder [hfkw]encerrar a partida[hfekw], ou se escolher fazer o [hfkw]Koi-Koi[hfekw], o turno terminará.\"",
+      "id": 44623,
+      "epk_id": "44413",
+      "label": "$$$message_0381_0001_0010$$$"
+    },
+    {
+      "en": "\"Koi-Koi!\"",
+      "jp": "「こいこい！」",
+      "Pt-br": "\"Koi-Koi!\"",
+      "id": 44624,
+      "epk_id": "44414",
+      "label": "$$$message_0381_0001_0011$$$"
+    },
+    {
+      "en": "\"Sim, sim.\"[stoptrans]",
+      "jp": "「ハイハイ」[stoptrans]",
+      "Pt-br": "\"Sim, sim.\"[stoptrans]",
+      "id": 44625,
+      "epk_id": "44415",
+      "label": "$$$message_0381_0001_0012$$$"
+    },
+    {
+      "en": "\"O turno do outro jogador é exatamente igual ao do carteador.\"",
+      "jp": "「子の番も、することは親とまったく同じです」",
+      "Pt-br": "\"O turno do outro jogador é exatamente igual ao do carteador.\"",
+      "id": 44626,
+      "epk_id": "44416",
+      "label": "$$$message_0381_0001_0013$$$"
+    },
+    {
+      "en": "\"Os jogadores se revezam em turnos até que alguém [hfkw]encerre a partida[hfekw] ou fique sem cartas na mão.\"",
+      "jp": "「こうしてどちらかが[hfkw]勝負[hfekw]をするか、手札がすべてなくなってしまうまで、交互に手番を繰り返します」",
+      "Pt-br": "\"Os jogadores se revezam em turnos até que alguém [hfkw]encerre a partida[hfekw] ou fique sem cartas na mão.\"",
+      "id": 44627,
+      "epk_id": "44417",
+      "label": "$$$message_0381_0001_0014$$$"
+    },
+    {
+      "en": "\"Entendi.\"",
+      "jp": "「りょうかい」",
+      "Pt-br": "\"Entendi.\"",
+      "id": 44628,
+      "epk_id": "44418",
+      "label": "$$$message_0381_0001_0015$$$"
+    },
+    {
+      "en": "\"...E se nenhum dos jogadores conseguir formar uma mão de pontuação?\"",
+      "jp": "「……でも、両方とも役ができないまま、終わったらどうなるの？」",
+      "Pt-br": "\"...E se nenhum dos jogadores conseguir formar uma mão de pontuação?\"",
+      "id": 44629,
+      "epk_id": "44419",
+      "label": "$$$message_0381_0001_0016$$$"
+    },
+    {
+      "en": "\"Então as cartas serão distribuídas novamente e o jogo recomeçará.[br]Mesmo se os jogadores tiverem pontos restantes, vocês podem distribuir as cartas e continuar jogando.\"",
+      "jp": "「また札をくばりなおして再開です。[br]　両方にまだ得点が残っている時も、また札を配り直してゲームを続けます」",
+      "Pt-br": "\"Então as cartas serão distribuídas novamente e o jogo recomeçará.[br]Mesmo se os jogadores tiverem pontos restantes, vocês podem distribuir as cartas e continuar jogando.\"",
+      "id": 44630,
+      "epk_id": "44420",
+      "label": "$$$message_0381_0001_0017$$$"
+    },
+    {
+      "en": "\"No Koi-Koi,[br]o contador de pontos chama-se 'mon'.\"",
+      "jp": "「この『こいこい』では、[br]　持ち点を１文、２文……と数えます」",
+      "Pt-br": "\"No Koi-Koi,[br]o contador de pontos chama-se 'mon'.\"",
+      "id": 44631,
+      "epk_id": "44421",
+      "label": "$$$message_0381_0001_0018$$$"
+    },
+    {
+      "en": "\"Ambos os jogadores começam o jogo com 12 pontos, e o jogador que tiver a partida encerrada contra si perderá pontos de acordo com a mão de pontuação.\"[stoptrans]",
+      "jp": "「お互いに１２文を持ってゲームを開始し、勝負をいどまれた側は、その役に応じた文数を失います」[stoptrans]",
+      "Pt-br": "\"Ambos os jogadores começam o jogo com 12 pontos, e o jogador que tiver a partida encerrada contra si perderá pontos de acordo com a mão de pontuação.\"[stoptrans]",
+      "id": 44632,
+      "epk_id": "44422",
+      "label": "$$$message_0381_0001_0019$$$"
+    },
+    {
+      "en": "\"Se os pontos de qualquer um dos jogadores chegarem a zero, o jogo termina. Quem tiver pelo menos 1 ponto vencerá, é claro.\"",
+      "jp": "「どちらかの持ち点がゼロになるとゲームは終了。もちろん１文以上得点を残しているほうが勝者です」",
+      "Pt-br": "\"Se os pontos de qualquer um dos jogadores chegarem a zero, o jogo termina. Quem tiver pelo menos 1 ponto vencerá, é claro.\"",
+      "id": 44633,
+      "epk_id": "44423",
+      "label": "$$$message_0381_0001_0020$$$"
+    },
+    {
+      "en": "\"O meu nome é Morte. Heh heh heh.\"[stoptrans]",
+      "jp": "「はいぼくは死をいみするフフッフッフ」[stoptrans]",
+      "Pt-br": "\"O meu nome é Morte. Heh heh heh.\"[stoptrans]",
+      "id": 44634,
+      "epk_id": "44424",
+      "label": "$$$message_0381_0001_0021$$$"
+    },
+    {
+      "en": "\"Saiba que, se você for o [hfkw]segundo jogador[hfekw] e a última carta que obtiver completar uma mão de pontuação, a partida será [hfkw]encerrada[hfekw] automaticamente.\"",
+      "jp": "「もしあなたが[hfkw]子[hfekw]で、最後の１枚を取った時に役が完成したなら、自動的に[hfkw]勝負[hfekw]となりますから驚かれないように」",
+      "Pt-br": "\"Saiba que, se você for o [hfkw]segundo jogador[hfekw] e a última carta que obtiver completar uma mão de pontuação, a partida será [hfkw]encerrada[hfekw] automaticamente.\"",
+      "id": 44635,
+      "epk_id": "44425",
+      "label": "$$$message_0381_0001_0022$$$"
+    },
+    {
+      "en": "\"Ou seja, você não pode fazer o Koi-Koi.\"",
+      "jp": "「こいこいできないのね」",
+      "Pt-br": "\"Ou seja, você não pode fazer o Koi-Koi.\"",
+      "id": 44636,
+      "epk_id": "44426",
+      "label": "$$$message_0381_0001_0023$$$"
+    },
+    {
+      "en": "\"Você já compreendeu o fluxo geral do jogo?\"",
+      "jp": "「おおよその流れは掴めましたか？」",
+      "Pt-br": "\"Você já compreendeu o fluxo geral do jogo?\"",
+      "id": 44637,
+      "epk_id": "44427",
+      "label": "$$$message_0381_0001_0024$$$"
+    },
+    {
+      "en": "\"Sim. Totalmente. [lr][hfsigh pos=lower][say storage=HTUT2_RIZ_0270 _name=リズ]A maior parte. Provavelmente. Entendi.\"",
+      "jp": "「うん。すごく。[lr][hfsigh pos=lower][say storage=HTUT2_RIZ_0270 _name=リズ]　だいたい。たぶん。ばっちり」",
+      "Pt-br": "\"Sim. Totalmente. [lr][hfsigh pos=lower][say storage=HTUT2_RIZ_0270 _name=リズ]A maior parte. Provavelmente. Entendi.\"",
+      "id": 44638,
+      "epk_id": "44428",
+      "label": "$$$message_0381_0001_0025$$$"
+    },
+    {
+      "en": "\"...Acreditarei nas suas palavras e prosseguirei.[cl time=400 layer=3][movefg opacity=255 left=185 top=17 time=300 accel=0 storage=役･札について layer=5 textoff=0][lr][lr]",
+      "jp": "「……気にせず次の説明に移ります。[cl time=400 layer=3][movefg opacity=255 left=185 top=17 time=300 accel=0 storage=役･札について layer=5 textoff=0][lr]",
+      "Pt-br": "\"...Acreditarei nas suas palavras e prosseguirei.[cl time=400 layer=3][movefg opacity=255 left=185 top=17 time=300 accel=0 storage=役･札について layer=5 textoff=0][lr][lr]",
+      "id": 44639,
+      "epk_id": "44429",
+      "label": "$$$message_0381_0001_0026$$$"
+    },
+    {
+      "en": "[hfstopsweat][hffacechg2 chara=セラ face=楽 layer=1 time=200] Além dos meses supracitados, as cartas são divididas em quatro tipos.\"",
+      "jp": "[hfstopsweat][hffacechg2 chara=セラ face=楽 layer=1 time=200]　札には先ほどのべた月のほかに、４種類の札の区別があります」",
+      "Pt-br": "[hfstopsweat][hffacechg2 chara=セラ face=楽 layer=1 time=200] Além dos meses supracitados, as cartas são divididas em quatro tipos.\"",
+      "id": 44640,
+      "epk_id": "44430",
+      "label": "$$$message_0381_0001_0027$$$"
+    },
+    {
+      "en": "\"Hmm, as [hfkw]Ko[hfekw][fg left=118 index=1000 top=130 time=300 storage=コウ札 layer=6], as [hfkw][l][say storage=HTUT2_RIZ_0300 _name=リズ]Tane[hfekw][fg left=264 index=1000 top=130 time=300 storage=タネ札 layer=7], as [hfkw][l][say storage=HTUT2_RIZ_0310 _name=リズ]Tan[hfekw][fg left=412 index=1000 top=130 time=300 storage=タン札 layer=8] e as [hfkw][l][say storage=HTUT2_RIZ_0320 _name=リズ]Kasu[hfekw][fg left=560 index=1000 top=130 time=300 storage=カス札 layer=9][l][say storage=HTUT2_RIZ_0330 _name=リズ]... São quatro, não são?[lr]",
+      "jp": "「えーと[hfkw]コウ札[hfekw][fg left=118 index=1000 top=130 time=300 storage=コウ札 layer=6]、[hfkw][l][say storage=HTUT2_RIZ_0300 _name=リズ]タネ札[hfekw][fg left=264 index=1000 top=130 time=300 storage=タネ札 layer=7]、[hfkw][l][say storage=HTUT2_RIZ_0310 _name=リズ]タン札[hfekw][fg left=412 index=1000 top=130 time=300 storage=タン札 layer=8]、[hfkw][l][say storage=HTUT2_RIZ_0320 _name=リズ]カス札[hfekw][fg left=560 index=1000 top=130 time=300 storage=カス札 layer=9][l][say storage=HTUT2_RIZ_0330 _name=リズ]……の４種類。[lr]",
+      "Pt-br": "\"Hmm, as [hfkw]Ko[hfekw][fg left=118 index=1000 top=130 time=300 storage=コウ札 layer=6], as [hfkw][l][say storage=HTUT2_RIZ_0300 _name=リズ]Tane[hfekw][fg left=264 index=1000 top=130 time=300 storage=タネ札 layer=7], as [hfkw][l][say storage=HTUT2_RIZ_0310 _name=リズ]Tan[hfekw][fg left=412 index=1000 top=130 time=300 storage=タン札 layer=8] e as [hfkw][l][say storage=HTUT2_RIZ_0320 _name=リズ]Kasu[hfekw][fg left=560 index=1000 top=130 time=300 storage=カス札 layer=9][l][say storage=HTUT2_RIZ_0330 _name=リズ]... São quatro, não são?[lr]",
+      "id": 44641,
+      "epk_id": "44431",
+      "label": "$$$message_0381_0001_0028$$$"
+    },
+    {
+      "en": "As cartas legais são as mais fortes?\"",
+      "jp": "　カッコイイ札ほどつよいの？」",
+      "Pt-br": "As cartas legais são as mais fortes?\"",
+      "id": 44642,
+      "epk_id": "44432",
+      "label": "$$$message_0381_0001_0029$$$"
+    },
+    {
+      "en": "\"Isso não está tão longe da verdade.[br]Se você conseguir memorizar as 5 [hfkw]cartas Ko[hfekw], fica fácil diferenciar as outras.\"",
+      "jp": "「ええ、当たらずとも遠からじ。[br]　５枚の[hfkw]コウ札[hfekw]をおぼえれば、あとは見分けるのは簡単です」",
+      "Pt-br": "\"Isso não está tão longe da verdade.[br]Se você conseguir memorizar as 5 [hfkw]cartas Ko[hfekw], fica fácil diferenciar as outras.\"",
+      "id": 44643,
+      "epk_id": "44433",
+      "label": "$$$message_0381_0001_0030$$$"
+    },
+    {
+      "en": "\"Janeiro, março, agosto, novembro e dezembro têm, cada um, uma [hfkw]carta Ko[hfekw]. As suas ilustrações são particularmente vibrantes.\"[stoptrans]",
+      "jp": "「[hfkw]コウ札[hfekw]は、１月、３月、８月、１１月、１２月にそれぞれ１枚ずつある、特に華やかな絵柄の札です」[stoptrans]",
+      "Pt-br": "\"Janeiro, março, agosto, novembro e dezembro têm, cada um, uma [hfkw]carta Ko[hfekw]. As suas ilustrações são particularmente vibrantes.\"[stoptrans]",
+      "id": 44644,
+      "epk_id": "44434",
+      "label": "$$$message_0381_0001_0031$$$"
+    },
+    {
+      "en": "\"As [hfkw]cartas Ko[hfekw] permitem formar mãos de pontuação bem altas, do [hfkw]Sanko[hfekw] ao [hfkw]Goko[hfekw].\"",
+      "jp": "「[hfkw]コウ札[hfekw]は、[hfkw]三光[hfekw]から[hfkw]五光[hfekw]までの、なかなか得点の高い役が望めます」",
+      "Pt-br": "\"As [hfkw]cartas Ko[hfekw] permitem formar mãos de pontuação bem altas, do [hfkw]Sanko[hfekw] ao [hfkw]Goko[hfekw].\"",
+      "id": 44645,
+      "epk_id": "44435",
+      "label": "$$$message_0381_0001_0032$$$"
+    },
+    {
+      "en": "\"As [hfkw]cartas Tane[hfekw] são decoradas principalmente com animais. Você pode lembrá-las como as cartas que não são [hfkw]Ko[hfekw] e que possuem cores fortes sem as faixas retangulares.\"[stoptrans]",
+      "jp": "「[hfkw]タネ札[hfekw]はおもに動物などが描かれた札です。[hfkw]コウ札[hfekw]以外の、短冊の描かれていない派手な札、と憶えてもよいですね」[stoptrans]",
+      "Pt-br": "\"As [hfkw]cartas Tane[hfekw] são decoradas principalmente com animais. Você pode lembrá-las como as cartas que não são [hfkw]Ko[hfekw] e que possuem cores fortes sem as faixas retangulares.\"[stoptrans]",
+      "id": 44646,
+      "epk_id": "44436",
+      "label": "$$$message_0381_0001_0033$$$"
+    },
+    {
+      "en": "\"As [hfkw]cartas Tane[hfekw] podem ser usadas para formar [hfkw]mãos de pontuação[hfekw] como [hfkw]Tane[hfekw] ou [hfkw]Inoshikacho[hfekw].\"",
+      "jp": "「[hfkw]タネ札[hfekw]では、[hfkw]タネ[hfekw]や[hfkw]猪鹿蝶[hfekw]などの[hfkw]役[hfekw]が作れます」",
+      "Pt-br": "\"As [hfkw]cartas Tane[hfekw] podem ser usadas para formar [hfkw]mãos de pontuação[hfekw] como [hfkw]Tane[hfekw] ou [hfkw]Inoshikacho[hfekw].\"",
+      "id": 44647,
+      "epk_id": "44437",
+      "label": "$$$message_0381_0001_0034$$$"
+    },
+    {
+      "en": "\"As [hfkw]cartas Tan[hfekw] são ilustradas com faixas vermelhas e azuis. Você pode usá-las para formar mãos como [hfkw]Tan[hfekw], [hfkw]Akatan[hfekw] ou [hfkw]Aotan[hfekw].\"[stoptrans]",
+      "jp": "「[hfkw]タン札[hfekw]はその名の通り、赤青の短冊が描かれた札です。[hfkw]たん[hfekw]や[hfkw]赤短[hfekw]、[hfkw]青短[hfekw]などの役が作れます」[stoptrans]",
+      "Pt-br": "\"As [hfkw]cartas Tan[hfekw] são ilustradas com faixas vermelhas e azuis. Você pode usá-las para formar mãos como [hfkw]Tan[hfekw], [hfkw]Akatan[hfekw] ou [hfkw]Aotan[hfekw].\"[stoptrans]",
+      "id": 44648,
+      "epk_id": "44438",
+      "label": "$$$message_0381_0001_0035$$$"
+    },
+    {
+      "en": "\"Embora haja 3 [hfkw]cartas Tan[hfekw] azuis, atente-se de que há 7 [hfkw]cartas Tan[hfekw] vermelhas: 3 com texto e 4 sem texto.\"",
+      "jp": "「青い[hfkw]タン札[hfekw]は３枚ですが、赤い[hfkw]タン札[hfekw]は文字の書かれた３枚と、書かれていない４枚の、計７枚あることにご注意を」",
+      "Pt-br": "\"Embora haja 3 [hfkw]cartas Tan[hfekw] azuis, atente-se de que há 7 [hfkw]cartas Tan[hfekw] vermelhas: 3 com texto e 4 sem texto.\"",
+      "id": 44649,
+      "epk_id": "44439",
+      "label": "$$$message_0381_0001_0036$$$"
+    },
+    {
+      "en": "\"Nesta aqui, eu escrevi 'Espero que a Illya apareça mais na tela'.\"",
+      "jp": "「イリヤ　に　でばん　を……と」",
+      "Pt-br": "\"Nesta aqui, eu escrevi 'Espero que a Illya apareça mais na tela'.\"",
+      "id": 44650,
+      "epk_id": "44440",
+      "label": "$$$message_0381_0001_0037$$$"
+    },
+    {
+      "en": "\"Elas não foram feitas para você escrever seus desejos.[lr]",
+      "jp": "「勝手に札に願い事を書かないように。[lr]",
+      "Pt-br": "\"Elas não foram feitas para você escrever seus desejos.[lr]",
+      "id": 44651,
+      "epk_id": "44441",
+      "label": "$$$message_0381_0001_0038$$$"
+    },
+    {
+      "en": "[hfstopsweat][hffacechg2 chara=セラ face=喜 layer=1 time=200][hfsigh pos=lower]...Embora eu deva admitir que a sua preocupação com a nossa senhora é exemplar.\"",
+      "jp": "[hfstopsweat][hffacechg2 chara=セラ face=喜 layer=1 time=200][hfsigh pos=lower]　……しかし、その気遣いはメイドの鑑です」",
+      "Pt-br": "[hfstopsweat][hffacechg2 chara=セラ face=喜 layer=1 time=200][hfsigh pos=lower]...Embora eu deva admitir que a sua preocupação com a nossa senhora é exemplar.\"",
+      "id": 44652,
+      "epk_id": "44442",
+      "label": "$$$message_0381_0001_0039$$$"
+    },
+    {
+      "en": "\"As cartas com ilustrações simples, que não são [hfkw]Ko[hfekw], [hfkw]Tane[hfekw] nem [hfkw]Tan[hfekw], são as cartas Kasu.\"[stoptrans]",
+      "jp": "「以上の[hfkw]コウ[hfekw]、[hfkw]タネ[hfekw]、[hfkw]タン[hfekw]のどれにもあてはまらない、ごくシンプルな絵柄の札が[hfkw]カス札[hfekw]です」[stoptrans]",
+      "Pt-br": "\"As cartas com ilustrações simples, que não são [hfkw]Ko[hfekw], [hfkw]Tane[hfekw] nem [hfkw]Tan[hfekw], são as cartas Kasu.\"[stoptrans]",
+      "id": 44653,
+      "epk_id": "44443",
+      "label": "$$$message_0381_0001_0040$$$"
+    },
+    {
+      "en": "\"Ainda assim, as próprias [hfkw]cartas Kasu[hfekw] podem ser usadas para criar mãos [hfkw]Kasu[hfekw]. Não as subestime; afinal de contas, as partidas podem ser ganhas ou perdidas por um único ponto.\"",
+      "jp": "「しかしながら[hfkw]カス札[hfekw]であろうとも[hfkw]かす[hfekw]という役を作れます。１点を競う勝負では、なかなか馬鹿にならないのですよ？」",
+      "Pt-br": "\"Ainda assim, as próprias [hfkw]cartas Kasu[hfekw] podem ser usadas para criar mãos [hfkw]Kasu[hfekw]. Não as subestime; afinal de contas, as partidas podem ser ganhas ou perdidas por um único ponto.\"",
+      "id": 44654,
+      "epk_id": "44446",
+      "label": "$$$message_0381_0002_0000$$$"
+    },
+    {
+      "en": "\"É! Elas são tão espertinhas, mas as pessoas as chamam de lixo, idiotas, tão planas quanto o horizonte...\"",
+      "jp": "「そうだそうだ、奴はこんなにえらいのに。カスだの、馬鹿だの、水平線のごとくマッタイラだの」",
+      "Pt-br": "\"É! Elas são tão espertinhas, mas as pessoas as chamam de lixo, idiotas, tão planas quanto o horizonte...\"",
+      "id": 44655,
+      "epk_id": "44447",
+      "label": "$$$message_0381_0002_0001$$$"
+    },
+    {
+      "en": "\"...Como é que é? Para o seu governo, o horizonte é ligeiramente curvo.\"",
+      "jp": "「……なんですって？　だいたい水平線はちゃんと丸いでしょう。まったく」",
+      "Pt-br": "\"...Como é que é? Para o seu governo, o horizonte é ligeiramente curvo.\"",
+      "id": 44656,
+      "epk_id": "44448",
+      "label": "$$$message_0381_0002_0002$$$"
+    },
+    {
+      "en": "\"Isso abrange os tipos de cartas. A seguir, explicarei as [hfkw]mãos de pontuação[hfekw].\"[stoptrans]",
+      "jp": "「以上で札の説明はおわりです。次は[hfkw]役[hfekw]についてです」[stoptrans]",
+      "Pt-br": "\"Isso abrange os tipos de cartas. A seguir, explicarei as [hfkw]mãos de pontuação[hfekw].\"[stoptrans]",
+      "id": 44657,
+      "epk_id": "44449",
+      "label": "$$$message_0381_0002_0003$$$"
+    },
+    {
+      "en": "\"Ainda não acabamos?\"",
+      "jp": "「まだあるの？」",
+      "Pt-br": "\"Ainda não acabamos?\"",
+      "id": 44658,
+      "epk_id": "44450",
+      "label": "$$$message_0381_0002_0004$$$"
+    },
+    {
+      "en": "\"Certamente que não. Tudo começa pelos fundamentos.\"",
+      "jp": "「当然です。なにごとも基本です」",
+      "Pt-br": "\"Certamente que não. Tudo começa pelos fundamentos.\"",
+      "id": 44659,
+      "epk_id": "44451",
+      "label": "$$$message_0381_0002_0005$$$"
+    },
+    {
+      "en": "\"Dito isso, você aprenderá sobre as [hfkw]mãos[hfekw] rapidamente enquanto joga o jogo, portanto, pegaremos leve com isso.\"",
+      "jp": "「とはいえ[hfkw]役[hfekw]については、遊んでいるうちにすぐおぼえるでしょうから、ここではほんのさわり程度で」",
+      "Pt-br": "\"Dito isso, você aprenderá sobre as [hfkw]mãos[hfekw] rapidamente enquanto joga o jogo, portanto, pegaremos leve com isso.\"",
+      "id": 44660,
+      "epk_id": "44452",
+      "label": "$$$message_0381_0002_0006$$$"
+    },
+    {
+      "en": "\"Hm.\"",
+      "jp": "「ほう」",
+      "Pt-br": "\"Hm.\"",
+      "id": 44661,
+      "epk_id": "44453",
+      "label": "$$$message_0381_0002_0007$$$"
+    },
+    {
+      "en": "\"Existem 12 [hfkw]mãos de pontuação[hfekw] no Koi-Koi. Essencialmente, reunir o mesmo tipo de carta formará uma [hfkw]mão[hfekw].\"[stoptrans]",
+      "jp": "「『こいこい』には１２の[hfkw]役[hfekw]があります。基本的には同じ種類の札を集めれば[hfkw]役[hfekw]になります」[stoptrans]",
+      "Pt-br": "\"Existem 12 [hfkw]mãos de pontuação[hfekw] no Koi-Koi. Essencialmente, reunir o mesmo tipo de carta formará uma [hfkw]mão[hfekw].\"[stoptrans]",
+      "id": 44662,
+      "epk_id": "44454",
+      "label": "$$$message_0381_0002_0008$$$"
+    },
+    {
+      "en": "\"Uma série de [hfkw]cartas Ko[hfekw] formará a [hfkw]Sanko[hfekw], a [hfkw]Shiko[hfekw] ou a [hfkw]Goko[hfekw], a depender da quantidade de cartas.\"[stoptrans]",
+      "jp": "「[hfkw]コウ札[hfekw]を集めると、その枚数に応じて[hfkw]三光[hfekw]、[hfkw]四光[hfekw]、[hfkw]五光[hfekw]という役になります」[stoptrans]",
+      "Pt-br": "\"Uma série de [hfkw]cartas Ko[hfekw] formará a [hfkw]Sanko[hfekw], a [hfkw]Shiko[hfekw] ou a [hfkw]Goko[hfekw], a depender da quantidade de cartas.\"[stoptrans]",
+      "id": 44663,
+      "epk_id": "44455",
+      "label": "$$$message_0381_0002_0009$$$"
+    },
+    {
+      "en": "\"Como exceção, a [hfkw]Ame[hfekw], a carta da 'Chuva', não pode ser parte da [hfkw]Sanko[hfekw], e a [hfkw]Ameshiko[hfekw] pontuará 7 pontos em vez de 8.\"",
+      "jp": "「例外として[hfkw]雨[hfekw]は[hfkw]三光[hfekw]に入れることはできず、[hfkw]雨四光[hfekw]の場合は得点が８文から１文下がって７文になります」",
+      "Pt-br": "\"Como exceção, a [hfkw]Ame[hfekw], a carta da 'Chuva', não pode ser parte da [hfkw]Sanko[hfekw], e a [hfkw]Ameshiko[hfekw] pontuará 7 pontos em vez de 8.\"",
+      "id": 44664,
+      "epk_id": "44456",
+      "label": "$$$message_0381_0002_0010$$$"
+    },
+    {
+      "en": "\"Por quê?\"",
+      "jp": "「どうして？」",
+      "Pt-br": "\"Por quê?\"",
+      "id": 44665,
+      "epk_id": "44457",
+      "label": "$$$message_0381_0002_0011$$$"
+    },
+    {
+      "en": "\"Porque essa é a regra...[wait time=600 canskip=true][lr][say storage=HTUT2_SER_0760 _name=セラ]  Suponho que lhe deva uma explicação melhor do que essa.\"",
+      "jp": "「それがルールだから……[wait time=600 canskip=true][lr][say storage=HTUT2_SER_0760 _name=セラ]　では少々、味気ないですね」",
+      "Pt-br": "\"Porque essa é a regra...[wait time=600 canskip=true][lr][say storage=HTUT2_SER_0760 _name=セラ]  Suponho que lhe deva uma explicação melhor do que essa.\"",
+      "id": 44666,
+      "epk_id": "44458",
+      "label": "$$$message_0381_0002_0012$$$"
+    },
+    {
+      "en": "\"Se me permite recorrer à minha educação...\"[stoptrans]",
+      "jp": "「すこしばかりウンチクを傾けますと[line len=2]」[stoptrans]",
+      "Pt-br": "\"Se me permite recorrer à minha educação...\"[stoptrans]",
+      "id": 44667,
+      "epk_id": "44459",
+      "label": "$$$message_0381_0002_0013$$$"
+    },
+    {
+      "en": "\"A figura representada na [hfkw]Ame[hfekw][line len=2]que é a carta Ko de novembro[line len=2]baseia-se em Ono-no-Toufuu, um famoso calígrafo do período Heian...\"[stoptrans]",
+      "jp": "「[hfkw]雨[hfekw]、すなわち１１月の[hfkw]コウ札[hfekw]に描かれた人物は、[ruby text=おののとうふう char=4]小野道風という平安時代の名筆家がモデルになっています」[stoptrans]",
+      "Pt-br": "\"A figura representada na [hfkw]Ame[hfekw][line len=2]que é a carta Ko de novembro[line len=2]baseia-se em Ono-no-Toufuu, um famoso calígrafo do período Heian...\"[stoptrans]",
+      "id": 44668,
+      "epk_id": "44460",
+      "label": "$$$message_0381_0002_0014$$$"
+    },
+    {
+      "en": "\"Há uma história que descreve como Toufuu superou seu bloqueio criativo ao ver um sapo pulando em um salgueiro, o qual também o advertiu sobre uma ameaça ao trono imperial.\"",
+      "jp": "「この道風が、柳に飛びつく蛙をみてスランプを脱したとか、その逆に、帝位の危機を予感したなどの逸話が残っています」",
+      "Pt-br": "\"Há uma história que descreve como Toufuu superou seu bloqueio criativo ao ver um sapo pulando em um salgueiro, o qual também o advertiu sobre uma ameaça ao trono imperial.\"",
+      "id": 44669,
+      "epk_id": "44461",
+      "label": "$$$message_0381_0002_0015$$$"
+    },
+    {
+      "en": "\"Além disso, dado que as outras [hfkw]cartas Ko[hfekw] retratam as flores de cerejeira e a lua, há quem diga que a [hfkw][hfsigh pos=lower][l][say storage=HTUT2_SER_0820 _name=セラ]Chuva[hfekw] estragaria a sua beleza.\"",
+      "jp": "「また、他の[hfkw]コウ札[hfekw]が桜や月ですので、[hfkw][hfsigh pos=lower][l][say storage=HTUT2_SER_0820 _name=セラ]雨[hfekw]が降ると台無しになる……という捉え方もアリでしょう」",
+      "Pt-br": "\"Além disso, dado que as outras [hfkw]cartas Ko[hfekw] retratam as flores de cerejeira e a Lua, há quem diga que a [hfkw][hfsigh pos=lower][l][say storage=HTUT2_SER_0820 _name=セラ]Chuva[hfekw] estragaria a sua beleza.\"",
+      "id": 44670,
+      "epk_id": "44462",
+      "label": "$$$message_0381_0002_0016$$$"
+    },
+    {
+      "en": "\"Ah. Então eu só preciso lembrar que ela é uma carta especial.\"",
+      "jp": "「ふうん。なんとなく特別なカードとおもえばいいのかな」",
+      "Pt-br": "\"Ah. Então eu só preciso lembrar que ela é uma carta especial.\"",
+      "id": 44671,
+      "epk_id": "44463",
+      "label": "$$$message_0381_0002_0017$$$"
+    },
+    {
+      "en": "\"Exatamente.\"[stoptrans]",
+      "jp": "「ですね」[stoptrans]",
+      "Pt-br": "\"Exatamente.\"[stoptrans]",
+      "id": 44672,
+      "epk_id": "44464",
+      "label": "$$$message_0381_0002_0018$$$"
+    },
+    {
+      "en": "\"Agora, as cartas [hfkw]Ko[hfekw] e [hfkw]Tane[hfekw] podem ser combinadas para as mãos [wvl][hfkw]Hanamizake[hfekw], que significa 'Saquê de Contemplação de Flores',[fg left=160 index=1000 top=134 time=500 storage=花見酒 layer=6 nowait=1] e [hfkw]Tsukimizake[hfekw], que significa 'Saquê de Contemplação da Lua'.[fg left=458 index=1000 top=135 time=500 storage=月見酒 layer=7 nowait=1]\"[stoptrans]",
+      "jp": "「さて、この[hfkw]コウ札[hfekw]と[hfkw]タネ札[hfekw]を組み合わせて出来る役が[wvl][hfkw]花見酒[hfekw][fg left=160 index=1000 top=134 time=500 storage=花見酒 layer=6 nowait=1][hfkw]と月見酒[hfekw][fg left=458 index=1000 top=135 time=500 storage=月見酒 layer=7 nowait=1]です」[stoptrans]",
+      "Pt-br": "\"Agora, as cartas [hfkw]Ko[hfekw] e [hfkw]Tane[hfekw] podem ser combinadas para as mãos [wvl][hfkw]Hanamizake[hfekw], que significa 'Saquê de Contemplação de Flores',[fg left=160 index=1000 top=134 time=500 storage=花見酒 layer=6 nowait=1] e [hfkw]Tsukimizake[hfekw], que significa 'Saquê de Contemplação da Lua'.[fg left=458 index=1000 top=135 time=500 storage=月見酒 layer=7 nowait=1]\"[stoptrans]",
+      "id": 44673,
+      "epk_id": "44465",
+      "label": "$$$message_0381_0002_0019$$$"
+    },
+    {
+      "en": "\"Embora sejam [hfkw]combinações[hfekw] exclusivas, não devem ser muito difíceis de se lembrar, graças aos significados de seus nomes. [hffacechg2 chara=セラ face=喜 layer=1 time=200][hfpop pos=lower][l][say storage=HTUT2_SER_0900 _name=セラ]Têm uma temática de certa forma elegante.\"",
+      "jp": "「特殊な[hfkw]役[hfekw]ですけれど役名の意味するところ思い浮かべれば、おぼえやすいでしょう。[hffacechg2 chara=セラ face=喜 layer=1 time=200][hfpop pos=lower][l][say storage=HTUT2_SER_0900 _name=セラ]とても風雅な[hfkw]役[hfekw]と言えます」",
+      "Pt-br": "\"Embora sejam [hfkw]combinações[hfekw] exclusivas, não devem ser muito difíceis de se lembrar, graças aos significados de seus nomes. [hffacechg2 chara=セラ face=喜 layer=1 time=200][hfpop pos=lower][l][say storage=HTUT2_SER_0900 _name=セラ]Têm uma temática de certa forma elegante.\"",
+      "id": 44674,
+      "epk_id": "44466",
+      "label": "$$$message_0381_0002_0020$$$"
+    },
+    {
+      "en": "\"A próxima é a [hfkw]Inoshikacho[hfekw]. Ela pode ser acrescentada a outras [hfkw]cartas Tane[hfekw] para alcançar uma combinação de pontuação ainda mais alta. [hffeelgood pos=lower][l][say storage=HTUT2_SER_0930 _name=セラ]Não é nada fácil conseguir formá-la.\"[stoptrans]",
+      "jp": "「次に[hfkw]猪鹿蝶[hfekw]。これは他の[hfkw]タネ札[hfekw]が加わることで、さらに高得点を狙える[hfkw]役[hfekw]です。[hffeelgood pos=lower][l][say storage=HTUT2_SER_0930 _name=セラ]実際にはなかなか難しいですよ」[stoptrans]",
+      "Pt-br": "\"A próxima é a [hfkw]Inoshikacho[hfekw]. Ela pode ser acrescentada a outras [hfkw]cartas Tane[hfekw] para alcançar uma combinação de pontuação ainda mais alta. [hffeelgood pos=lower][l][say storage=HTUT2_SER_0930 _name=セラ]Não é nada fácil conseguir formá-la.\"[stoptrans]",
+      "id": 44675,
+      "epk_id": "44467",
+      "label": "$$$message_0381_0002_0021$$$"
+    },
+    {
+      "en": "\"Na sequência, o [hfkw]Akatan[hfekw][fg left=109 index=1000 top=135 time=500 storage=赤短 layer=6 nowait=1] e o [hfkw]Aotan[hfekw] [fg left=429 index=1000 top=135 time=500 storage=青短 layer=7 nowait=1]também podem ser combinadas com outras [hfkw]cartas Tan[hfekw] para uma pontuação alta.\"",
+      "jp": "「次に[hfkw]赤短[hfekw][fg left=109 index=1000 top=135 time=500 storage=赤短 layer=6 nowait=1]、[hfkw]青短[hfekw][fg left=429 index=1000 top=135 time=500 storage=青短 layer=7 nowait=1]もやはり他の[hfkw]タン札[hfekw]が加わることで高得点になります」",
+      "Pt-br": "\"Na sequência, o [hfkw]Akatan[hfekw][fg left=109 index=1000 top=135 time=500 storage=赤短 layer=6 nowait=1] e o [hfkw]Aotan[hfekw] [fg left=429 index=1000 top=135 time=500 storage=青短 layer=7 nowait=1]também podem ser combinadas com outras [hfkw]cartas Tan[hfekw] para uma pontuação alta.\"",
+      "id": 44676,
+      "epk_id": "44468",
+      "label": "$$$message_0381_0002_0022$$$"
+    },
+    {
+      "en": "\"Você tem que colecionar todas as cartas do [hfkw]Akatan[hfekw] com texto nelas?\"",
+      "jp": "「[hfkw]赤短[hfekw]は字が書いてあるのを集めないとダメなの？」",
+      "Pt-br": "\"Você tem que colecionar todas as cartas do [hfkw]Akatan[hfekw] com texto nelas?\"",
+      "id": 44677,
+      "epk_id": "44469",
+      "label": "$$$message_0381_0002_0023$$$"
+    },
+    {
+      "en": "\"Isso mesmo. O [hfkw]Aotan[hfekw] e o [hfkw]Akatan[hfekw] concedem um total de 10 pontos quando ambas são inteiramente reunidas.\"",
+      "jp": "「その通りです。[hfkw]青短[hfekw]と[hfkw]赤短[hfekw]の両方を集めると合計で１０文になります」",
+      "Pt-br": "\"Isso mesmo. O [hfkw]Aotan[hfekw] e o [hfkw]Akatan[hfekw] concedem um total de 10 pontos quando ambas são inteiramente reunidas.\"",
+      "id": 44678,
+      "epk_id": "44470",
+      "label": "$$$message_0381_0002_0024$$$"
+    },
+    {
+      "en": "\"Por exemplo, imagine os cupons de fidelidade da loja de sobremesas Fleur. Você continua os colecionando, mas eles continuam vencendo, e você nunca alcança os 10 cupons de que precisa para um brinde grátis. Um paraíso agridoce.\"",
+      "jp": "「たとえるならそれはフルール洋菓子店のサービス券。集めても集めても期限切れ。えいえんに10枚に届かない、甘く切ないトウゲンキョウ」",
+      "Pt-br": "\"Por exemplo, imagine os cupons de fidelidade da loja de sobremesas Fleur. Você continua os colecionando, mas eles continuam vencendo, e você nunca alcança os 10 cupons de que precisa para um brinde grátis. Um paraíso agridoce.\"",
+      "id": 44679,
+      "epk_id": "44471",
+      "label": "$$$message_0381_0002_0025$$$"
+    },
+    {
+      "en": "\"Chega disso.\"",
+      "jp": "「おだまり」",
+      "Pt-br": "\"Chega disso.\"",
+      "id": 44680,
+      "epk_id": "44472",
+      "label": "$$$message_0381_0002_0026$$$"
+    },
+    {
+      "en": "\"Onde eu estava?[br][fg left=133 index=1000 top=79 time=500 storage=たね layer=6 nowait=1] Ah, claro. Ao se reunir 5 [hfkw]cartas Tane[hfekw], a mão [hfkw]Tane[hfekw] é criada.\"[stoptrans]",
+      "jp": "「ええと、どこまででしたか。[br][fg left=133 index=1000 top=79 time=500 storage=たね layer=6 nowait=1]　あっそうそう[hfkw]タネ札[hfekw]を５枚集めると[hfkw]たね[hfekw]という役になります」[stoptrans]",
+      "Pt-br": "\"Onde eu estava?[br][fg left=133 index=1000 top=79 time=500 storage=たね layer=6 nowait=1] Ah, claro. Ao se reunir 5 [hfkw]cartas Tane[hfekw], a mão [hfkw]Tane[hfekw] é criada.\"[stoptrans]",
+      "id": 44681,
+      "epk_id": "44473",
+      "label": "$$$message_0381_0003_0000$$$"
+    },
+    {
+      "en": "\"Além disso, 5 [hfkw]cartas Tan[hfekw] criarão a mão [hfkw]Tan[hfekw], mesmo que você não tenha o conjunto completo do [hfkw]Akatan[hfekw] ou do [hfkw]Aotan[hfekw].\"[stoptrans]",
+      "jp": "「また、[hfkw]赤短[hfekw]や[hfkw]青短[hfekw]にならずとも、とにかく５枚の[hfkw]タン札[hfekw]を集めれば[hfkw]たん[hfekw]という役になります」[stoptrans]",
+      "Pt-br": "\"Além disso, 5 [hfkw]cartas Tan[hfekw] criarão a mão [hfkw]Tan[hfekw], mesmo que você não tenha o conjunto completo do [hfkw]Akatan[hfekw] ou do [hfkw]Aotan[hfekw].\"[stoptrans]",
+      "id": 44682,
+      "epk_id": "44474",
+      "label": "$$$message_0381_0003_0001$$$"
+    },
+    {
+      "en": "\"Você disse que se houver mais [hfkw]Tane[hfekw] ou [hfkw]Tan[hfekw] extras, o jogador ganha mais pontos, não é?\"[stoptrans]",
+      "jp": "「[hfkw]たね[hfekw]も[hfkw]たん[hfekw]も、どっちもさらに１枚ふえると、１文プラスなのね」[stoptrans]",
+      "Pt-br": "\"Você disse que se houver mais [hfkw]Tane[hfekw] ou [hfkw]Tan[hfekw] extras, o jogador ganha mais pontos, não é?\"[stoptrans]",
+      "id": 44683,
+      "epk_id": "44475",
+      "label": "$$$message_0381_0003_0002$$$"
+    },
+    {
+      "en": "\"Sim. 6 ou 7 cartas concederão 2 ou 3 pontos, respectivamente.\"",
+      "jp": "「ええ。６枚、７枚となるたび、２文、３文となるわけです」",
+      "Pt-br": "\"Sim. 6 ou 7 cartas concederão 2 ou 3 pontos, respectivamente.\"",
+      "id": 44684,
+      "epk_id": "44476",
+      "label": "$$$message_0381_0003_0003$$$"
+    },
+    {
+      "en": "\"Por fim, como eu mencionei antes, você pode criar uma mão [hfkw]Kasu[hfekw] com 10 [hfkw]cartas Kasu[hfekw].\"[stoptrans]",
+      "jp": "「そして最後に、さきほども言いましたが[hfkw]カス札[hfekw]を１０枚あつめると[hfkw]かす[hfekw]になります」[stoptrans]",
+      "Pt-br": "\"Por fim, como eu mencionei antes, você pode criar uma mão [hfkw]Kasu[hfekw] com 10 [hfkw]cartas Kasu[hfekw].\"[stoptrans]",
+      "id": 44685,
+      "epk_id": "44477",
+      "label": "$$$message_0381_0003_0004$$$"
+    },
+    {
+      "en": "\"10 cartas renderão 1 ponto. Não é muito, mas um ponto é um ponto.\"",
+      "jp": "「１０枚あつめてたった１文と、得点は低いですけれど[hfkw]役[hfekw]は[hfkw]役[hfekw]です」",
+      "Pt-br": "\"10 cartas renderão 1 ponto. Não é muito, mas um ponto é um ponto.\"",
+      "id": 44686,
+      "epk_id": "44478",
+      "label": "$$$message_0381_0003_0005$$$"
+    },
+    {
+      "en": "\"Isso conclui minha apresentação dos fundamentos do hanafuda e as regras do Koi-Koi.\"[stoptrans]",
+      "jp": "「さて、ここまでで花札の基本と『こいこい』のルールについては一通り説明を終えました」[stoptrans]",
+      "Pt-br": "\"Isso conclui minha apresentação dos fundamentos do hanafuda e as regras do Koi-Koi.\"[stoptrans]",
+      "id": 44687,
+      "epk_id": "44481",
+      "label": "$$$message_0381_0003_0008$$$"
+    },
+    {
+      "en": "\"Ufa. Estou cheia.\"",
+      "jp": "「ふうー。もうおなかいっぱい」",
+      "Pt-br": "\"Ufa. Estou cheia.\"",
+      "id": 44688,
+      "epk_id": "44482",
+      "label": "$$$message_0381_0003_0009$$$"
+    },
+    {
+      "en": "\"É mesmo? Então considere que o nosso próximo assunto será a sobremesa.\"",
+      "jp": "「そうですか。ではあとはデザートと思ってお聞きくださるよう」",
+      "Pt-br": "\"É mesmo? Então considere que o nosso próximo assunto será a sobremesa.\"",
+      "id": 44689,
+      "epk_id": "44483",
+      "label": "$$$message_0381_0003_0010$$$"
+    },
+    {
+      "en": "\"A-ah.\"",
+      "jp": "「わ、わかった」",
+      "Pt-br": "\"A-ah.\"",
+      "id": 44690,
+      "epk_id": "44484",
+      "label": "$$$message_0381_0003_0011$$$"
+    },
+    {
+      "en": "\"A seguir, eu explicarei sobre o jogo principal: 'Diário de Viagem do Tigre&Shorts Hanafuda'.\"[stoptrans]",
+      "jp": "「ここからは本ゲーム『トラぶる花札道中記』についての説明です」[stoptrans]",
+      "Pt-br": "\"A seguir, eu explicarei sobre o jogo principal: 'Diário de Viagem do Tigre&Shorts Hanafuda'.\"[stoptrans]",
+      "id": 44691,
+      "epk_id": "44485",
+      "label": "$$$message_0381_0003_0012$$$"
+    },
+    {
+      "en": "\"Selecione 'Regras' no menu inicial para ver os detalhes de como compor mãos de pontuação.\"[stoptrans]",
+      "jp": "「タイトル画面の『ルール』を選ぶと、役の細かな成立条件が選択できます」[stoptrans]",
+      "Pt-br": "\"Selecione 'Regras' no menu inicial para ver os detalhes de como compor mãos de pontuação.\"[stoptrans]",
+      "id": 44692,
+      "epk_id": "44486",
+      "label": "$$$message_0381_0003_0013$$$"
+    },
+    {
+      "en": "\"Dê uma chance para o jogo e aprenda enquanto joga, até que você pegue o jeito da coisa.\"",
+      "jp": "「一通り遊んで、やりこみ態勢に入るまでは、ひとまずそのままで構いません」",
+      "Pt-br": "\"Dê uma chance para o jogo e aprenda enquanto joga, até que você pegue o jeito da coisa.\"",
+      "id": 44693,
+      "epk_id": "44487",
+      "label": "$$$message_0381_0003_0014$$$"
+    },
+    {
+      "en": "\"Sim, senhora.\"",
+      "jp": "「はーい」",
+      "Pt-br": "\"Sim, senhora.\"",
+      "id": 44694,
+      "epk_id": "44488",
+      "label": "$$$message_0381_0003_0015$$$"
+    },
+    {
+      "en": "\"Você pode fazer os devidos ajustes na sua experiência de jogo selecionando 'Opções' no menu inicial ou 'Configurações' no lado esquerdo da tela durante uma partida.\"[stoptrans]",
+      "jp": "「タイトル画面、もしくはゲーム中に『設定』を選ぶと、ゲームのプレイ環境をこまかく調整できます」[stoptrans]",
+      "Pt-br": "\"Você pode fazer os devidos ajustes na sua experiência de jogo selecionando 'Opções' no menu inicial ou 'Configurações' no lado esquerdo da tela durante uma partida.\"[stoptrans]",
+      "id": 44695,
+      "epk_id": "44489",
+      "label": "$$$message_0381_0003_0016$$$"
+    },
+    {
+      "en": "\"Perfeito para alguém tão neurótica quanto você.\"",
+      "jp": "「しんけいしつなあなたにぴったり」",
+      "Pt-br": "\"Perfeito para alguém tão neurótica quanto você.\"",
+      "id": 44696,
+      "epk_id": "44490",
+      "label": "$$$message_0381_0003_0017$$$"
+    },
+    {
+      "en": "\"Você também pode achar os menus de [hfkw]Ver Mãos[hfekw] e [hfkw]Ver Cartas[hfekw] bastante proveitosos. Não se esqueça de usá-los devidamente.\"[clfig][stoptrans]",
+      "jp": "「同じく[hfkw]『役一覧』[hfekw][hfkw]『札一覧』[hfekw]もプレイの助けになるでしょう。どうぞ活用してください」[clfig][stoptrans]",
+      "Pt-br": "\"Você também pode achar os menus de [hfkw]Ver Mãos[hfekw] e [hfkw]Ver Cartas[hfekw] bastante proveitosos. Não se esqueça de usá-los devidamente.\"[clfig][stoptrans]",
+      "id": 44697,
+      "epk_id": "44491",
+      "label": "$$$message_0381_0003_0018$$$"
+    },
+    {
+      "en": "\"E com isso...\"[stoptrans]",
+      "jp": "「さて……」[stoptrans]",
+      "Pt-br": "\"E com isso...\"[stoptrans]",
+      "id": 44698,
+      "epk_id": "44492",
+      "label": "$$$message_0381_0003_0019$$$"
+    },
+    {
+      "en": "\"...?\"",
+      "jp": "「……？」",
+      "Pt-br": "\"...?\"",
+      "id": 44699,
+      "epk_id": "44493",
+      "label": "$$$message_0381_0003_0020$$$"
+    },
+    {
+      "en": "\"Chegamos ao aspecto mais peculiar de 'Diário de Viagem do Tigre&Shorts Hanafuda': os [hfkw]Fantasmas Nobres[hfekw]!\"",
+      "jp": "「『トラぶる花札道中記』最大の特徴が　[hfkw]『宝具』[hfekw]の存在です！」",
+      "Pt-br": "\"Chegamos ao aspecto mais peculiar de 'Diário de Viagem do Tigre&Shorts Hanafuda': os [hfkw]Fantasmas Nobres[hfekw]!\"",
+      "id": 44700,
+      "epk_id": "44494",
+      "label": "$$$message_0381_0003_0021$$$"
+    },
+    {
+      "en": "\"[hfkw]Fantasmas Nobres[hfekw]?\"",
+      "jp": "「[hfkw]『宝具』[hfekw]？」",
+      "Pt-br": "\"[hfkw]Fantasmas Nobres[hfekw]?\"",
+      "id": 44701,
+      "epk_id": "44495",
+      "label": "$$$message_0381_0003_0022$$$"
+    },
+    {
+      "en": "\"Cada personagem deste jogo possui um movimento decisivo e único chamado [hfkw]Fantasma Nobre[hfekw]!\"[br]",
+      "jp": "「[hfkw]『宝具』[hfekw]とはこのゲームにおける、[br]　キャラクター固有の必殺技です！」",
+      "Pt-br": "\"Cada personagem deste jogo possui um movimento decisivo e único chamado [hfkw]Fantasma Nobre[hfekw]!\"[br]",
+      "id": 44702,
+      "epk_id": "44496",
+      "label": "$$$message_0381_0003_0023$$$"
+    },
+    {
+      "en": "\"Gh...!\"",
+      "jp": "「！」",
+      "Pt-br": "\"Gh...!\"",
+      "id": 44703,
+      "epk_id": "44497",
+      "label": "$$$message_0381_0003_0024$$$"
+    },
+    {
+      "en": "\"Os personagens dispõem de [hfkw]Pontos de Magia (MP)[hfekw] que eles podem gastar para mudar o rumo de uma batalha.\"",
+      "jp": "「キャラクターにはそれぞれ[hfkw][ruby text=マジックポイント char=2]ＭＰ[hfekw]があります。この[hfkw]ＭＰ[hfekw]を消費することで、戦況を大きく一変させることが可能なのです」",
+      "Pt-br": "\"Os personagens dispõem de [hfkw]Pontos de Magia (MP)[hfekw] que eles podem gastar para mudar o rumo de uma batalha.\"",
+      "id": 44704,
+      "epk_id": "44498",
+      "label": "$$$message_0381_0003_0025$$$"
+    },
+    {
+      "en": "\"Como eu consigo mais MP?[lr]",
+      "jp": "「どうすればＭＰはふえるの？[lr]",
+      "Pt-br": "\"Como eu consigo mais MP?[lr]",
+      "id": 44705,
+      "epk_id": "44499",
+      "label": "$$$message_0381_0003_0026$$$"
+    },
+    {
+      "en": "[hffacechg2 chara=リズ face=喜 layer=1 time=200][hfpop pos=lower] Encontros sensuais cheios de romance?\"",
+      "jp": "[hffacechg2 chara=リズ face=喜 layer=1 time=200][hfpop pos=lower]　のうこうラブラブ？」",
+      "Pt-br": "[hffacechg2 chara=リズ face=喜 layer=1 time=200][hfpop pos=lower] Encontros sensuais cheios de romance?\"",
+      "id": 44706,
+      "epk_id": "44500",
+      "label": "$$$message_0381_0003_0027$$$"
+    },
+    {
+      "en": "\"Não! Essencialmente, obtendo-se [hfkw]cartas Ko[hfekw]. Não basta apenas ter as cartas em suas mãos. Garanta jogá-las na [hfkw]mesa[hfekw] para adquirir MP.\"[stoptrans]",
+      "jp": "「ノー！　ただ手札に持っているだけではダメです。一度[hfkw]場[hfekw]に出してお取りください」[stoptrans]",
+      "Pt-br": "\"Não! Essencialmente, obtendo-se [hfkw]cartas Ko[hfekw]. Não basta apenas ter as cartas em suas mãos. Garanta jogá-las na [hfkw]mesa[hfekw] para adquirir MP.\"[stoptrans]",
+      "id": 44707,
+      "epk_id": "44501",
+      "label": "$$$message_0381_0003_0028$$$"
+    },
+    {
+      "en": "\"Ademais, cada personagem [hfkw]adquire MP de certas cartas[hfekw], mas as especificidades disso são em segredo.\"",
+      "jp": "「さらに、キャラクターごとに[hfkw]ＭＰが増加する札[hfekw]が決まっております。が、これは秘密です」",
+      "Pt-br": "\"Ademais, cada personagem [hfkw]adquire MP de certas cartas[hfekw], mas as especificidades disso são em segredo.\"",
+      "id": 44708,
+      "epk_id": "44502",
+      "label": "$$$message_0381_0003_0029$$$"
+    },
+    {
+      "en": "\"O quê!?\"",
+      "jp": "「え！」",
+      "Pt-br": "\"O quê!?\"",
+      "id": 44709,
+      "epk_id": "44503",
+      "label": "$$$message_0381_0003_0030$$$"
+    },
+    {
+      "en": "\"Hehehe. Os [hfkw]Fantasmas Nobres[hfekw] não devem ser revelados levianamente.[stopmove][hfsigh pos=lower][l][say storage=HTUT2_SER_1200 _name=セラ] Tente e faça o seu melhor para descobri-los à medida que o seu progresso no jogo avança.\"",
+      "jp": "「ふふふ。仮にも[hfkw]『宝具』[hfekw]に関して、そうやたら開陳するわけにはまいりません。[stopmove][hfsigh pos=lower][l][say storage=HTUT2_SER_1200 _name=セラ]どうぞ、やり込みながら学んでくださいな」",
+      "Pt-br": "\"Hehehe. Os [hfkw]Fantasmas Nobres[hfekw] não devem ser revelados levianamente.[stopmove][hfsigh pos=lower][l][say storage=HTUT2_SER_1200 _name=セラ] Tente e faça o seu melhor para descobri-los à medida que o seu progresso no jogo avança.\"",
+      "id": 44710,
+      "epk_id": "44504",
+      "label": "$$$message_0381_0003_0031$$$"
+    },
+    {
+      "en": "\"Ahh...\"",
+      "jp": "「えー」",
+      "Pt-br": "\"Ahh...\"",
+      "id": 44711,
+      "epk_id": "44505",
+      "label": "$$$message_0381_0003_0032$$$"
+    },
+    {
+      "en": "\"Temos uma variedade enorme de [hfkw]Fantasmas Nobres[hfekw]. Se quiser saber mais sobre eles, dê uma lida no painel [hfkw]Detalhes do Fantasma Nobre[hfekw] na guia 'Opções'.\"",
+      "jp": "「[hfkw]『宝具』[hfekw]の範囲はひじょうに多岐にわたります。詳しくは[hfkw]『設定』[hfekw]パネル内の[hfkw]『宝具詳細』[hfekw]をお読みくださいますよう」",
+      "Pt-br": "\"Temos uma variedade enorme de [hfkw]Fantasmas Nobres[hfekw]. Se quiser saber mais sobre eles, dê uma lida no painel [hfkw]Detalhes do Fantasma Nobre[hfekw] na guia 'Opções'.\"",
+      "id": 44712,
+      "epk_id": "44506",
+      "label": "$$$message_0381_0003_0033$$$"
+    },
+    {
+      "en": "\"...Parece difícil arranjar mais MP.[br]Esse jogo é difícil de verdade?\"",
+      "jp": "「……ＭＰってあんまり増えなさそう。[br]　意外とむつかしい？」",
+      "Pt-br": "\"...Parece difícil arranjar mais MP.[br]Esse jogo é difícil de verdade?\"",
+      "id": 44713,
+      "epk_id": "44508",
+      "label": "$$$message_0381_0003_0035$$$"
+    },
+    {
+      "en": "\"A prática leva à perfeição. Aprenda o momento perfeito para jogar suas cartas e Fantasmas Nobres e gere um impacto abalador.\"",
+      "jp": "「要は慣れです。タイミングをよくみはからいながら、ここぞという場面で炸裂させてください」",
+      "Pt-br": "\"A prática leva à perfeição. Aprenda o momento perfeito para jogar suas cartas e Fantasmas Nobres e gere um impacto abalador.\"",
+      "id": 44714,
+      "epk_id": "44509",
+      "label": "$$$message_0381_0003_0036$$$"
+    },
+    {
+      "en": "\"Agora, vamos pôr o seu aprendizado em prática em uma partida real.\"",
+      "jp": "「それでは仕上げの実践練習とまいりましょう」",
+      "Pt-br": "\"Agora, vamos pôr o seu aprendizado em prática em uma partida real.\"",
+      "id": 44715,
+      "epk_id": "44510",
+      "label": "$$$message_0381_0003_0037$$$"
+    },
+    {
+      "en": "\"É, bora.\"",
+      "jp": "「うん」",
+      "Pt-br": "\"É, bora.\"",
+      "id": 44716,
+      "epk_id": "44511",
+      "label": "$$$message_0381_0003_0038$$$"
+    }
+  ]
+}

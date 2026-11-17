@@ -1,0 +1,944 @@
+{
+  "cena": "7f83bgn1djjvq58osl96bdtdoi",
+  "titulo": "Mansão Emiya: Tropa de Expedição Tohsaka",
+  "rota": "Dia 4",
+  "arquivo": "7f83bgn1djjvq58osl96bdtdoi.epk_dec",
+  "linhas": [
+    {
+      "en": "I've been spacing out in the shed.[lr]",
+      "jp": "ãæ°ãä»ãã¨åèµã®ä¸­ã§ã¼ããããã¦ãã[lr]",
+      "Pt-br": "Eu andei viajando aqui no galpão.[lr]",
+      "id": 17791,
+      "epk_id": "5600",
+      "label": "$$$message_0038_0000_0000$$$"
+    },
+    {
+      "en": "It seems that I fell asleep here after lunch.[lr]",
+      "jp": "ãæ¼é£¯ã®ãã¨ããªãã¨ãªãç«ã¡å¯ã£ã¦ãã®ã¾ã¾ãããå¯ãã¦ãã¾ã£ããããã[lr]",
+      "Pt-br": "Parece que acabei pegando no sono depois do almoço.[lr]",
+      "id": 17792,
+      "epk_id": "5601",
+      "label": "$$$message_0038_0000_0001$$$"
+    },
+    {
+      "en": "\"Mmm... There's nothing here, so I may as well go back.\"",
+      "jp": "ãâ¦â¦ãµããâ¦â¦ãªãããªãããªãæ»ããã",
+      "Pt-br": "\"Mmm... Não tem nada pra fazer aqui, então é melhor eu voltar.\"",
+      "id": 17793,
+      "epk_id": "5602",
+      "label": "$$$message_0038_0000_0002$$$"
+    },
+    {
+      "en": "...Hm. I sense someone in my room.[lr]",
+      "jp": "ãâ¦â¦ããä¿ºã®é¨å±ã«äººã®æ°é\nã[lr]",
+      "Pt-br": "...Hm. Sinto alguém no meu quarto.[lr]",
+      "id": 17794,
+      "epk_id": "5603",
+      "label": "$$$message_0038_0001_0000$$$"
+    },
+    {
+      "en": "\"...Who's there?\"[lr]",
+      "jp": "ãâ¦â¦èª°ã ï¼ã[lr]",
+      "Pt-br": "\"...Quem está aí?\"[lr]",
+      "id": 17795,
+      "epk_id": "5604",
+      "label": "$$$message_0038_0001_0001$$$"
+    },
+    {
+      "en": "Something is quietly shifting inside.[lr]",
+      "jp": "ãé¨å±ã®ä¸­ãã²ã£ããã¨ããã¾ããã¦ããã[lr]",
+      "Pt-br": "Algo está se mexendo silenciosamente lá dentro.[lr]",
+      "id": 17796,
+      "epk_id": "5605",
+      "label": "$$$message_0038_0001_0002$$$"
+    },
+    {
+      "en": "Is Sakura looking for laundry...? No that isn't her.",
+      "jp": "ãæ¡ãæ´æ¿¯ç©ãæ¢ãã¦ããã®ã[line len=3]ãããéããªã",
+      "Pt-br": "Será a Sakura procurando roupa suja...? Não, não é ela.",
+      "id": 17797,
+      "epk_id": "5606",
+      "label": "$$$message_0038_0001_0003$$$"
+    },
+    {
+      "en": "\"...Rin. This isn't right.\"[lr]",
+      "jp": "ãâ¦â¦åããã®ãããªäºã¯ãããããªãã[lr]",
+      "Pt-br": "\"...Rin. Isso não está certo.\"[lr]",
+      "id": 17798,
+      "epk_id": "5607",
+      "label": "$$$message_0038_0002_0000$$$"
+    },
+    {
+      "en": "\"But aren't you curious?\"",
+      "jp": "ãã§ãã­ãæ°ã«ãªããªãï¼ããã£ã±ãã",
+      "Pt-br": "\"Mas você não está curiosa?\"",
+      "id": 17799,
+      "epk_id": "5608",
+      "label": "$$$message_0038_0002_0001$$$"
+    },
+    {
+      "en": "...What are they doing?[lr]",
+      "jp": "ãâ¦â¦ä½ããã£ã¦ãããã ï¼[lr]",
+      "Pt-br": "...O que elas estão aprontando?[lr]",
+      "id": 17800,
+      "epk_id": "5609",
+      "label": "$$$message_0038_0003_0000$$$"
+    },
+    {
+      "en": "I'm curious, but if I showed myself now, Tohsaka would just try to hide it.[lr]",
+      "jp": "ãæ°ã«ãªããããã¾é¡ãåºãã¦ãé åã¯ãã¾ããéãã ããã[lr]",
+      "Pt-br": "Estou curioso, mas se eu aparecer agora, a Tohsaka só vai tentar esconder.[lr]",
+      "id": 17801,
+      "epk_id": "5610",
+      "label": "$$$message_0038_0003_0001$$$"
+    },
+    {
+      "en": "\"...I'll just watch.\"",
+      "jp": "ãâ¦â¦æ§å­ãè¦ããã",
+      "Pt-br": "\"...Vou só observar.\"",
+      "id": 17802,
+      "epk_id": "5611",
+      "label": "$$$message_0038_0003_0002$$$"
+    },
+    {
+      "en": "It's unusual that they haven't noticed me at this distance.[lr]",
+      "jp": "ããã®è·é¢ã§æ°ãä»ããªãã£ã¦ããã®ã¯çããã[lr]",
+      "Pt-br": "É estranho elas não terem me notado a essa distância.[lr]",
+      "id": 17803,
+      "epk_id": "5612",
+      "label": "$$$message_0038_0004_0000$$$"
+    },
+    {
+      "en": "Saber must be distracted, too.",
+      "jp": "ãã»ã¤ãã¼ã¾ã§æ°ãåããã¦ããã®ãã",
+      "Pt-br": "A Saber deve estar distraída também.",
+      "id": 17804,
+      "epk_id": "5613",
+      "label": "$$$message_0038_0004_0001$$$"
+    },
+    {
+      "en": "\"It doesn't matter whether I'm curious or not.[lr]",
+      "jp": "ãæ°ã«ãªãããªããªãã§ã¯ããã¾ããåã[lr]",
+      "Pt-br": "\"Não importa se estou curiosa ou não.[lr]",
+      "id": 17805,
+      "epk_id": "5614",
+      "label": "$$$message_0038_0005_0000$$$"
+    },
+    {
+      "en": "This is rude to Shirou.\"[lr]",
+      "jp": "ããã¯ããã·ã­ã¦ã«å¤±ç¤¼ã§ãã[lr]",
+      "Pt-br": "Isso é falta de educação com o Shirou.\"[lr]",
+      "id": 17806,
+      "epk_id": "5615",
+      "label": "$$$message_0038_0005_0001$$$"
+    },
+    {
+      "en": "\"But he might be sneaking into your room without you knowing, too.\"",
+      "jp": "ãã§ãã­ã¼ãè¡å®®ããã ã£ã¦å¯ãã«ã»ã¤ãã¼ã®é¨å±ã«å¿ã³è¾¼ãã§ãããç¥ããªãããï¼ã",
+      "Pt-br": "\"Mas ele também pode estar entrando de fininho no seu quarto sem Emiya-kun saber, sabia?\"",
+      "id": 17807,
+      "epk_id": "5616",
+      "label": "$$$message_0038_0005_0002$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "ãâ¦â¦â¦â¦â¦â¦ã[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 17808,
+      "epk_id": "5617",
+      "label": "$$$message_0038_0006_0000$$$"
+    },
+    {
+      "en": "...I'm gonna murder her.[lr]",
+      "jp": "ãâ¦â¦â¦â¦ã¢ã¤ããã³ã­ã¹ã[lr]",
+      "Pt-br": "...Eu vou matar ela.[lr]",
+      "id": 17809,
+      "epk_id": "5618",
+      "label": "$$$message_0038_0006_0001$$$"
+    },
+    {
+      "en": "I've been in Tohsaka's room while she was abroad, but only to clean.",
+      "jp": "ãããããé åãçå®ã®éããã¤ã®é¨å±ã«ä¸ããããã ã³ãã¯ãããã©ãããã¾ã§æé¤ã®çºã§ãã£ã¦ã ãªã",
+      "Pt-br": "Eu estive no quarto da Tohsaka enquanto ela estava fora, mas foi só pra limpar tudo.",
+      "id": 17810,
+      "epk_id": "5619",
+      "label": "$$$message_0038_0006_0002$$$"
+    },
+    {
+      "en": "\"...I'm sure he'd do no such thing.\"[lr]",
+      "jp": "ãâ¦â¦ã·ã­ã¦ã«éã£ã¦ãã®ãããªäºã¯ããã¾ããã[lr]",
+      "Pt-br": "\"...Tenho certeza de que ele não faria uma coisa dessas.\"[lr]",
+      "id": 17811,
+      "epk_id": "5620",
+      "label": "$$$message_0038_0007_0000$$$"
+    },
+    {
+      "en": "\"I dunno... Emiya's a boy at that age, you know. And if he's living with a girl like you, there's no telling what he might try.\"[lr]",
+      "jp": "ãã©ãããããã»ããè¡å®®ããã ã£ã¦å¹´é ã®ç·ã®å­ãããªãããããªã®ã«ã»ã¤ãã¼ã¿ãããªå¨ã¨ä¸ç·ã ã£ããã­ã¼ãè¡å®®ããã£ã¦ã»ãã[lr]",
+      "Pt-br": "\"Sei lá... O Emiya-kun é um garoto nessa idade, entende. E vivendo com uma garota como você, não se sabe o que ele pode tentar aprontar.\"[lr]",
+      "id": 17812,
+      "epk_id": "5621",
+      "label": "$$$message_0038_0007_0001$$$"
+    },
+    {
+      "en": "[font italic=true]Murder.[font italic=false][lr]",
+      "jp": "ãã³ã­ã¹ã¾ã¼ï¼[lr]",
+      "Pt-br": "[font italic=true]Morte.[font italic=false][lr]",
+      "id": 17813,
+      "epk_id": "5622",
+      "label": "$$$message_0038_0007_0002$$$"
+    },
+    {
+      "en": "One more word, and you're dead meat.[chgfg time=200 storage=セイバー私服13c(遠) textoff=0]",
+      "jp": "ããã®å\nãè¨ã£ãããã³ãã«ã³ã­ã¹[line len=3][chgfg time=200 storage=ã»ã¤ãã¼ç§æ13c(é ) textoff=0]",
+      "Pt-br": "Mais uma palavra e você vira presunto. [chgfg time=200 storage=セイバー私服13c(遠) textoff=0]",
+      "id": 17814,
+      "epk_id": "5623",
+      "label": "$$$message_0038_0007_0003$$$"
+    },
+    {
+      "en": "\"...Anyway, I don't think it would be in his room.\"[cacheimage storage=凛私服03b(遠)][wvs][chgfg time=200 storage=凛私服03b(遠) textoff=0][lr]",
+      "jp": "ãâ¦â¦ã¨ã«ããããã®ãããªãã®ã¯ã·ã­ã¦ã®é¨å±ã«ã¯ãªãç­ã§ãã[cacheimage storage=åç§æ03b(é )][wvs][chgfg time=200 storage=åç§æ03b(é ) textoff=0][lr]",
+      "Pt-br": "\"...Enfim, não acho que estaria no quarto dele.\"[cacheimage storage=凛私服03b(遠)][wvs][chgfg time=200 storage=凛私服03b(遠) textoff=0][lr]",
+      "id": 17815,
+      "epk_id": "5624",
+      "label": "$$$message_0038_0008_0000$$$"
+    },
+    {
+      "en": "\"I'd bet that it is, actually... And if I lose this wager, I'll treat you to a meal.\"[cacheimage storage=セイバー私服01a(遠)][wvs][chgfg time=200 storage=セイバー私服01a(遠) textoff=0][lr]",
+      "jp": "ãã©ããããã­ããããã¯ããæ¹ã«è³­ãããã[line len=3]è² ãããä½ãå¥¢ã£ã¦ãããã[cacheimage storage=ã»ã¤ãã¼ç§æ01a(é )][wvs][chgfg time=200 storage=ã»ã¤ãã¼ç§æ01a(é ) textoff=0][lr]",
+      "Pt-br": "\"Eu aposto que está, na verdade... E se eu perder a aposta, eu te pago uma janta.\"[cacheimage storage=セイバー私服01a(遠)][wvs][chgfg time=200 storage=セイバー私服01a(遠) textoff=0][lr]",
+      "id": 17816,
+      "epk_id": "5625",
+      "label": "$$$message_0038_0008_0001$$$"
+    },
+    {
+      "en": "\"In that case, please buy me some dorayaki from Edomaeya.\"[lr]",
+      "jp": "ãã§ã¯æ±æ¸åå±ã®ã©ãç¼ãã§ãé¡ããã¾ãã[lr]",
+      "Pt-br": "\"Nesse caso, por favor, me compre alguns dorayakis da Edomaeya.\"[lr]",
+      "id": 17817,
+      "epk_id": "5626",
+      "label": "$$$message_0038_0008_0002$$$"
+    },
+    {
+      "en": "[movefg opacity=255 left=-559 top=0 time=600 accel=-2 layer=3 textoff=0][wait canskip=false time=50 textoff=0][movefg opacity=255 left=460 top=0 time=600 accel=-2 layer=4 textoff=0]...What does Saber have to give up if she loses?[wm canskip=0][wm canskip=0]",
+      "jp": "ã[movefg opacity=255 left=-559 top=0 time=600 accel=-2 layer=3 textoff=0][wait canskip=false time=50 textoff=0][movefg opacity=255 left=460 top=0 time=600 accel=-2 layer=4 textoff=0]â¦â¦ã»ã¤ãã¼ãè² ãããã©ããããã ããï¼[wm canskip=0][wm canskip=0]",
+      "Pt-br": "[movefg opacity=255 left=-559 top=0 time=600 accel=-2 layer=3 textoff=0][wait canskip=false time=50 textoff=0][movefg opacity=255 left=460 top=0 time=600 accel=-2 layer=4 textoff=0]...E o que a Saber tem que entregar se perder? [wm canskip=0][wm canskip=0]",
+      "id": 17818,
+      "epk_id": "5627",
+      "label": "$$$message_0038_0008_0003$$$"
+    },
+    {
+      "en": "Tohsaka seems completely confident from where I'm standing.[lr]",
+      "jp": "ãåç®ã«è¦ã¦ããé åã«ã¯çµ¶å¯¾ã®èªä¿¡ãããããã ã[lr]",
+      "Pt-br": "A Tohsaka parece totalmente confiante daqui de onde estou.[lr]",
+      "id": 17819,
+      "epk_id": "5628",
+      "label": "$$$message_0038_0009_0000$$$"
+    },
+    {
+      "en": "...What are they looking for, anyway?",
+      "jp": "ã[line len=3]ã¨ããããä½ãæ¢ãã¦ããã ãããï¼",
+      "Pt-br": "...Mas o que diabos elas estão procurando?",
+      "id": 17820,
+      "epk_id": "5629",
+      "label": "$$$message_0038_0009_0001$$$"
+    },
+    {
+      "en": "\"Okay, let's start over here...\"[lr]",
+      "jp": "ããã£ã¦ãã¦ãã©ã®è¾ºããããã¾ããããã­ã¼ã[lr]",
+      "Pt-br": "\"Certo, vamos começar por aqui...\"[lr]",
+      "id": 17821,
+      "epk_id": "5630",
+      "label": "$$$message_0038_0010_0000$$$"
+    },
+    {
+      "en": "\"[movefg opacity=255 time=300 pos=r accel=-2 storage=凛私服08a(遠) textoff=0][movefg opacity=255 time=300 pos=c accel=-2 storage=セイバー私服07b(遠) textoff=0][movefg opacity=255 left=-591 top=0 time=400 accel=-2 layer=3 textoff=0][movefg opacity=255 left=599 top=0 time=400 accel=-2 layer=4 textoff=0]...There isn't really anywhere to hide things in this room.\"[cacheimage storage=凛私服08a(遠)][wvs][wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][chgfg time=200 storage=凛私服08a(遠) textoff=0][lr]",
+      "jp": "ã[movefg opacity=255 time=300 pos=r accel=-2 storage=åç§æ08a(é ) textoff=0][movefg opacity=255 time=300 pos=c accel=-2 storage=ã»ã¤ãã¼ç§æ07b(é ) textoff=0][movefg opacity=255 left=-591 top=0 time=400 accel=-2 layer=3 textoff=0][movefg opacity=255 left=599 top=0 time=400 accel=-2 layer=4 textoff=0]â¦â¦ãã®é¨å±ã«ã¯ã¢ããé ãå ´æã¯ããã»ã©ããã¾ããããã[cacheimage storage=åç§æ08a(é )][wvs][wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][chgfg time=200 storage=åç§æ08a(é ) textoff=0][lr]",
+      "Pt-br": "\"[movefg opacity=255 time=300 pos=r accel=-2 storage=凛私服08a(遠) textoff=0][movefg opacity=255 time=300 pos=c accel=-2 storage=セイバー私服07b(遠) textoff=0][movefg opacity=255 left=-591 top=0 time=400 accel=-2 layer=3 textoff=0][movefg opacity=255 left=599 top=0 time=400 accel=-2 layer=4 textoff=0]...Não tem muitos lugares pra esconder coisas neste quarto.\"[cacheimage storage=凛私服08a(遠)][wvs][wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][chgfg time=200 storage=凛私服08a(遠) textoff=0][lr]",
+      "id": 17822,
+      "epk_id": "5631",
+      "label": "$$$message_0038_0010_0001$$$"
+    },
+    {
+      "en": "\"[movefg opacity=255 time=300 pos=rc accel=-2 storage=凛私服08a(遠) textoff=0][movefg opacity=255 time=300 pos=l accel=-2 storage=セイバー私服07b(遠) textoff=0][movefg opacity=255 left=-498 top=0 time=400 accel=-2 layer=3 textoff=0][movefg opacity=255 left=685 top=0 time=400 accel=-2 layer=4 textoff=0]Under the desk, in the back of the drawer...looks fine over here.\"[wvs][wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][lr]",
+      "jp": "ã[movefg opacity=255 time=300 pos=rc accel=-2 storage=åç§æ08a(é ) textoff=0][movefg opacity=255 time=300 pos=l accel=-2 storage=ã»ã¤ãã¼ç§æ07b(é ) textoff=0][movefg opacity=255 left=-498 top=0 time=400 accel=-2 layer=3 textoff=0][movefg opacity=255 left=685 top=0 time=400 accel=-2 layer=4 textoff=0]æºã®ä¸â¦â¦å¼ãåºãã®å¥¥ããã®è¾ºãå¸¸éãã­ã[wvs][wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][lr]",
+      "Pt-br": "\"[movefg opacity=255 time=300 pos=rc accel=-2 storage=凛私服08a(遠) textoff=0][movefg opacity=255 time=300 pos=l accel=-2 storage=セイバー私服07b(遠) textoff=0][movefg opacity=255 left=-498 top=0 time=400 accel=-2 layer=3 textoff=0][movefg opacity=255 left=685 top=0 time=400 accel=-2 layer=4 textoff=0]Embaixo da escrivaninha, no fundo da gaveta... aqui parece estar limpo.\"[wvs][wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][lr]",
+      "id": 17823,
+      "epk_id": "5632",
+      "label": "$$$message_0038_0010_0002$$$"
+    },
+    {
+      "en": "[movefg opacity=255 time=300 pos=r accel=-2 storage=凛私服08a(遠) textoff=0][movefg opacity=255 left=-463 top=0 time=400 accel=-2 layer=3 textoff=0][movefg opacity=255 left=633 top=0 time=400 accel=-2 layer=4 textoff=0]It's like they're on a treasure hunt.[lr]",
+      "jp": "ã[movefg opacity=255 time=300 pos=r accel=-2 storage=åç§æ08a(é ) textoff=0][movefg opacity=255 left=-463 top=0 time=400 accel=-2 layer=3 textoff=0][movefg opacity=255 left=633 top=0 time=400 accel=-2 layer=4 textoff=0]ã¾ãã§å®æ¢ãã ãªãããã¯ã[lr]",
+      "Pt-br": "[movefg opacity=255 time=300 pos=r accel=-2 storage=凛私服08a(遠) textoff=0][movefg opacity=255 left=-463 top=0 time=400 accel=-2 layer=3 textoff=0][movefg opacity=255 left=633 top=0 time=400 accel=-2 layer=4 textoff=0]Parece até que estão numa caça ao tesouro.[lr]",
+      "id": 17824,
+      "epk_id": "5633",
+      "label": "$$$message_0038_0010_0003$$$"
+    },
+    {
+      "en": "Even though I don't have anything shameful to hide. No hidden savings, either.[wm canskip=0][wm canskip=0][wm canskip=0]",
+      "jp": "ãé ããããªãã¾ããç©ãªãããªãã®ã«ãã¸ããããç¡ããã[wm canskip=0][wm canskip=0][wm canskip=0]",
+      "Pt-br": "Sendo que eu não tenho nada vergonhoso pra esconder. Nem economias secretas.[wm canskip=0][wm canskip=0][wm canskip=0]",
+      "id": 17825,
+      "epk_id": "5634",
+      "label": "$$$message_0038_0010_0004$$$"
+    },
+    {
+      "en": "\"Nothing. Then it might be under the tatami mats or in the closet.\"[cacheimage storage=セイバー私服01a(遠)][wvs][chgfg time=200 storage=セイバー私服01a(遠) textoff=0][lr]",
+      "jp": "ãç¡ããã­ãã¨ãªãã¨ãç³ã®ä¸ãæ¼ãå\n¥ãã®ä¸­ãã[cacheimage storage=ã»ã¤ãã¼ç§æ01a(é )][wvs][chgfg time=200 storage=ã»ã¤ãã¼ç§æ01a(é ) textoff=0][lr]",
+      "Pt-br": "\"Nada. Então talvez esteja debaixo dos tatames ou no armário.\"[cacheimage storage=セイバー私服01a(遠)][wvs][chgfg time=200 storage=セイバー私服01a(遠) textoff=0][lr]",
+      "id": 17826,
+      "epk_id": "5635",
+      "label": "$$$message_0038_0011_0000$$$"
+    },
+    {
+      "en": "\"[movefg opacity=255 time=300 pos=lc accel=-2 storage=セイバー私服01a(遠) textoff=0][movefg opacity=255 left=-708 top=0 time=400 accel=-2 layer=3 textoff=0][movefg opacity=255 left=522 top=0 time=400 accel=-2 layer=4 textoff=0]To my recollection, Shirou has never pulled up the tatami mats in this room.\"[cacheimage storage=凛私服06e(遠)][wvs][wm canskip=0][wm canskip=0][wm canskip=0][chgfg time=200 storage=凛私服06e(遠) textoff=0][lr]",
+      "jp": "ã[movefg opacity=255 time=300 pos=lc accel=-2 storage=ã»ã¤ãã¼ç§æ01a(é ) textoff=0][movefg opacity=255 left=-708 top=0 time=400 accel=-2 layer=3 textoff=0][movefg opacity=255 left=522 top=0 time=400 accel=-2 layer=4 textoff=0]ç§ã®è¨æ¶ã§ã¯ãã·ã­ã¦ããã®é¨å±ã§ç³ãè¿ãã¦ããäºã¯ããã¾ããã[cacheimage storage=åç§æ06e(é )][wvs][wm canskip=0][wm canskip=0][wm canskip=0][chgfg time=200 storage=åç§æ06e(é ) textoff=0][lr]",
+      "Pt-br": "\"[movefg opacity=255 time=300 pos=lc accel=-2 storage=セイバー私服01a(遠) textoff=0][movefg opacity=255 left=-708 top=0 time=400 accel=-2 layer=3 textoff=0][movefg opacity=255 left=522 top=0 time=400 accel=-2 layer=4 textoff=0]Pelo que eu me lembre, o Shirou nunca levantou os tatames deste quarto.\"[cacheimage storage=凛私服06e(遠)][wvs][wm canskip=0][wm canskip=0][wm canskip=0][chgfg time=200 storage=凛私服06e(遠) textoff=0][lr]",
+      "id": 17827,
+      "epk_id": "5636",
+      "label": "$$$message_0038_0011_0001$$$"
+    },
+    {
+      "en": "\"[movefg opacity=255 time=300 pos=rc accel=-2 storage=凛私服06e(遠) textoff=0][movefg opacity=255 left=-484 top=0 time=400 accel=-2 layer=3 textoff=0][movefg opacity=255 left=715 top=0 time=400 accel=-2 layer=4 textoff=0]Yeah, normally nobody would do that. But you know what a stickler for details he is.\"[wvs][wm canskip=0][wm canskip=0][wm canskip=0][lr]",
+      "jp": "ã[movefg opacity=255 time=300 pos=rc accel=-2 storage=åç§æ06e(é ) textoff=0][movefg opacity=255 left=-484 top=0 time=400 accel=-2 layer=3 textoff=0][movefg opacity=255 left=715 top=0 time=400 accel=-2 layer=4 textoff=0]æ®éãããªã³ãããªããããã§ããå£«éãªãå¿µå\n¥ãã«ãããããã­ã[wvs][wm canskip=0][wm canskip=0][wm canskip=0][lr]",
+      "Pt-br": "\"[movefg opacity=255 time=300 pos=rc accel=-2 storage=凛私服06e(遠) textoff=0][movefg opacity=255 left=-484 top=0 time=400 accel=-2 layer=3 textoff=0][movefg opacity=255 left=715 top=0 time=400 accel=-2 layer=4 textoff=0]É, normalmente ninguém faria isso. Mas você sabe como ele é perfeccionista com os detalhes.\"[wvs][wm canskip=0][wm canskip=0][wm canskip=0][lr]",
+      "id": 17828,
+      "epk_id": "5637",
+      "label": "$$$message_0038_0011_0002$$$"
+    },
+    {
+      "en": "...What am I, a feudal-era ninja?[lr]",
+      "jp": "ãâ¦â¦ä¿ºã¯å¿è\nãæ¦å½æ­¦å°ãã[lr]",
+      "Pt-br": "...O que eu sou, um ninja da era feudal?[lr]",
+      "id": 17829,
+      "epk_id": "5638",
+      "label": "$$$message_0038_0011_0003$$$"
+    },
+    {
+      "en": "First, you can't really hide much under a tatami mat.[lr]",
+      "jp": "ãç¬¬ä¸ãç³ã®ä¸ãªãã¦ããã«ã¢ããé ããªããã[lr]",
+      "Pt-br": "Primeiro que nem dá pra esconder muita coisa embaixo de um tatame.[lr]",
+      "id": 17830,
+      "epk_id": "5639",
+      "label": "$$$message_0038_0011_0004$$$"
+    },
+    {
+      "en": "Though it's a different story if you pull up the actual floorboards.[chgfg time=300 storage=セイバー私服04a(遠) textoff=0]",
+      "jp": "ãåºä¸ã¾ã§æ½ãã°è©±ã¯å¥ã ãã©ã[chgfg time=300 storage=ã»ã¤ãã¼ç§æ04a(é ) textoff=0]",
+      "Pt-br": "Embora a história seja outra se você levantar o assoalho de verdade. [chgfg time=300 storage=セイバー私服04a(遠) textoff=0]",
+      "id": 17831,
+      "epk_id": "5640",
+      "label": "$$$message_0038_0011_0005$$$"
+    },
+    {
+      "en": "\"[movefg opacity=255 left=-675 top=0 time=400 accel=-2 layer=3 textoff=0][movefg opacity=255 left=515 top=0 time=400 accel=-2 layer=4 textoff=0]Could it possibly be in the shed?\"[cacheimage storage=凛私服01e(遠)][wvs][wm canskip=0][wm canskip=0][wm canskip=0][chgfg time=200 storage=凛私服01e(遠) textoff=0][lr]",
+      "jp": "ã[movefg opacity=255 left=-675 top=0 time=400 accel=-2 layer=3 textoff=0][movefg opacity=255 left=515 top=0 time=400 accel=-2 layer=4 textoff=0]åèµã®ä¸­ã¨ããå¯è½æ§ãããã¾ãããï¼ã[cacheimage storage=åç§æ01e(é )][wvs][wm canskip=0][wm canskip=0][wm canskip=0][chgfg time=200 storage=åç§æ01e(é ) textoff=0][lr]",
+      "Pt-br": "\"[movefg opacity=255 left=-675 top=0 time=400 accel=-2 layer=3 textoff=0][movefg opacity=255 left=515 top=0 time=400 accel=-2 layer=4 textoff=0]Seria possível que estivesse no galpão?\"[cacheimage storage=凛私服01e(遠)][wvs][wm canskip=0][wm canskip=0][wm canskip=0][chgfg time=200 storage=凛私服01e(遠) textoff=0][lr]",
+      "id": 17832,
+      "epk_id": "5641",
+      "label": "$$$message_0038_0012_0000$$$"
+    },
+    {
+      "en": "\"[movefg opacity=255 left=-482 top=0 time=400 accel=-2 layer=3 textoff=0][movefg opacity=255 left=717 top=0 time=400 accel=-2 layer=4 textoff=0]Oh... There's plenty of space to hide it, and Shirou does go in there every night. But a mage would try his best to avoid placing anything in his workshop that might distract from his focus.\"[cacheimage storage=セイバー私服01a(遠)][wvs][wm canskip=0][wm canskip=0][chgfg time=200 storage=セイバー私服01a(遠) textoff=0][lr]",
+      "jp": "ã[movefg opacity=255 left=-482 top=0 time=400 accel=-2 layer=3 textoff=0][movefg opacity=255 left=717 top=0 time=400 accel=-2 layer=4 textoff=0]ã[line len=3]ããããªãå±±ã»ã©é ãããã ããå£«éãæ¯æ©è¡ã£ã¦ããã­ãã§ããé­è¡å¸«ã¯å·¥æ¿ã«éä¸­ã®å¦¨ãã¨ãªãã¢ãã¯æ¥µåæé¤ãããã[cacheimage storage=ã»ã¤ãã¼ç§æ01a(é )][wvs][wm canskip=0][wm canskip=0][chgfg time=200 storage=ã»ã¤ãã¼ç§æ01a(é ) textoff=0][lr]",
+      "Pt-br": "\"[movefg opacity=255 left=-482 top=0 time=400 accel=-2 layer=3 textoff=0][movefg opacity=255 left=717 top=0 time=400 accel=-2 layer=4 textoff=0]Ah... Tem bastante espaço pra esconder lá, e o Shirou vai lá toda noite. Mas um mago tentaria ao máximo evitar colocar qualquer coisa na sua oficina que pudesse distrair seu foco.\"[cacheimage storage=セイバー私服01a(遠)][wvs][wm canskip=0][wm canskip=0][chgfg time=200 storage=セイバー私服01a(遠) textoff=0][lr]",
+      "id": 17833,
+      "epk_id": "5642",
+      "label": "$$$message_0038_0012_0001$$$"
+    },
+    {
+      "en": "\"[movefg opacity=255 left=-712 top=0 time=400 accel=-2 layer=3 textoff=0][movefg opacity=255 left=475 top=0 time=400 accel=-2 layer=4 textoff=0]I see. Distractions can be deadly.\"[wvs][wm canskip=0][wm canskip=0][lr]",
+      "jp": "ã[movefg opacity=255 left=-712 top=0 time=400 accel=-2 layer=3 textoff=0][movefg opacity=255 left=475 top=0 time=400 accel=-2 layer=4 textoff=0]ãªãã»ã©ãéå¿µãå\n¥ãã¨å½åãã§ãã­ã[wvs][wm canskip=0][wm canskip=0][lr]",
+      "Pt-br": "\"[movefg opacity=255 left=-712 top=0 time=400 accel=-2 layer=3 textoff=0][movefg opacity=255 left=475 top=0 time=400 accel=-2 layer=4 textoff=0]Entendo. Distrações podem ser mortais.\"[wvs][wm canskip=0][wm canskip=0][lr]",
+      "id": 17834,
+      "epk_id": "5643",
+      "label": "$$$message_0038_0012_0002$$$"
+    },
+    {
+      "en": "[movefg opacity=255 left=-585 top=0 time=500 accel=-2 layer=3 textoff=0][movefg opacity=255 left=434 top=0 time=500 accel=-2 layer=4 textoff=0]There's plenty of junk to distract me, though.[lr]",
+      "jp": "ã[movefg opacity=255 left=-585 top=0 time=500 accel=-2 layer=3 textoff=0][movefg opacity=255 left=434 top=0 time=500 accel=-2 layer=4 textoff=0]å\n\nå[ruby text=ã¬ã©ã¯ã¿ char=2]å¦¨ãã¾ã¿ãã ãã©ãªããããã[lr]",
+      "Pt-br": "[movefg opacity=255 left=-585 top=0 time=500 accel=-2 layer=3 textoff=0][movefg opacity=255 left=434 top=0 time=500 accel=-2 layer=4 textoff=0]Mas tem um monte de tralha pra me distrair lá.[lr]",
+      "id": 17835,
+      "epk_id": "5644",
+      "label": "$$$message_0038_0012_0003$$$"
+    },
+    {
+      "en": "And that's rich coming from Tohsaka, who's moved strength training equipment into her basement.",
+      "jp": "ããã©ãããããé åã ã£ã¦å°ä¸å®¤ã«ãä½åãã¬ã¼ãã³ã°ç¨åãæã¡è¾¼ãã§ãããã«ã",
+      "Pt-br": "E isso é muita hipocrisia vindo da Tohsaka, que levou aparelhos de musculação pro porão dela.",
+      "id": 17836,
+      "epk_id": "5645",
+      "label": "$$$message_0038_0012_0004$$$"
+    },
+    {
+      "en": "...But seriously, what are they looking for that could be so distracting to me?[wm canskip=0][wm canskip=0][chgfg time=200 storage=凛私服01d(遠) textoff=0][lr]",
+      "jp": "ãâ¦â¦ã§ãéä¸­ã®å¦¨ãã«ãªãâä½ãâããä¿ºã¯é ãã¦ããäºã«ãªã£ã¦ããã ï¼[wm canskip=0][wm canskip=0][chgfg time=200 storage=åç§æ01d(é ) textoff=0][lr]",
+      "Pt-br": "...Mas falando sério, o que elas estão procurando que poderia me distrair tanto? [wm canskip=0][wm canskip=0][chgfg time=200 storage=凛私服01d(遠) textoff=0][lr]",
+      "id": 17837,
+      "epk_id": "5646",
+      "label": "$$$message_0038_0013_0000$$$"
+    },
+    {
+      "en": "\"[movefg opacity=255 left=-430 top=0 time=100 accel=0 layer=3 textoff=0][movefg opacity=255 left=434 top=0 time=100 accel=0 layer=4 textoff=0][movefg opacity=255 time=100 pos=l accel=0 storage=セイバー私服01a(遠) textoff=0]……[wm canskip=0][wm canskip=0][wm canskip=0][movefg opacity=255 left=-498 top=0 time=600 accel=-2 layer=3 textoff=0][movefg opacity=255 left=708 top=0 time=700 accel=-2 layer=4 textoff=0]Here! This is what I've been looking for.\"[cacheimage storage=セイバー私服01c(遠)][wvs][wm canskip=0][wm canskip=0][chgfg time=200 storage=セイバー私服01c(遠) textoff=0][lr]",
+      "jp": "ã[movefg opacity=255 left=-430 top=0 time=100 accel=0 layer=3 textoff=0][movefg opacity=255 left=434 top=0 time=100 accel=0 layer=4 textoff=0][movefg opacity=255 time=100 pos=l accel=0 storage=ã»ã¤ãã¼ç§æ01a(é ) textoff=0]â¦â¦[wm canskip=0][wm canskip=0][wm canskip=0][movefg opacity=255 left=-498 top=0 time=600 accel=-2 layer=3 textoff=0][movefg opacity=255 left=708 top=0 time=700 accel=-2 layer=4 textoff=0]ãããããããããã®ãæ¢ãã¦ãã®ãã[cacheimage storage=ã»ã¤ãã¼ç§æ01c(é )][wvs][wm canskip=0][wm canskip=0][chgfg time=200 storage=ã»ã¤ãã¼ç§æ01c(é ) textoff=0][lr]",
+      "Pt-br": "\"[movefg opacity=255 left=-430 top=0 time=100 accel=0 layer=3 textoff=0][movefg opacity=255 left=434 top=0 time=100 accel=0 layer=4 textoff=0][movefg opacity=255 time=100 pos=l accel=0 storage=セイバー私服01a(遠) textoff=0]……[wm canskip=0][wm canskip=0][wm canskip=0][movefg opacity=255 left=-498 top=0 time=600 accel=-2 layer=3 textoff=0][movefg opacity=255 left=708 top=0 time=700 accel=-2 layer=4 textoff=0]Aqui! Era isso que eu estava procurando.\"[cacheimage storage=セイバー私服01c(遠)][wvs][wm canskip=0][wm canskip=0][chgfg time=200 storage=セイバー私服01c(遠) textoff=0][lr]",
+      "id": 17838,
+      "epk_id": "5647",
+      "label": "$$$message_0038_0013_0001$$$"
+    },
+    {
+      "en": "\"[movefg opacity=255 time=300 pos=r accel=-2 storage=凛私服01d(遠) textoff=0][movefg opacity=255 time=500 pos=lc accel=-2 storage=セイバー私服01c(遠) textoff=0][movefg opacity=255 left=-702 top=0 time=600 accel=-2 layer=3 textoff=0][movefg opacity=255 left=503 top=0 time=600 accel=-2 layer=4 textoff=0]Don't tell me he really had it, Rin!?\"[cacheimage storage=凛私服05c(遠)][wvs][wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][chgfg time=200 storage=凛私服05c(遠) textoff=0][lr]",
+      "jp": "ã[movefg opacity=255 time=300 pos=r accel=-2 storage=åç§æ01d(é ) textoff=0][movefg opacity=255 time=500 pos=lc accel=-2 storage=ã»ã¤ãã¼ç§æ01c(é ) textoff=0][movefg opacity=255 left=-702 top=0 time=600 accel=-2 layer=3 textoff=0][movefg opacity=255 left=503 top=0 time=600 accel=-2 layer=4 textoff=0]ã¾ããâ¦â¦åãæ¬å½ã«ãã£ãã®ã§ããï¼ã[cacheimage storage=åç§æ05c(é )][wvs][wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][chgfg time=200 storage=åç§æ05c(é ) textoff=0][lr]",
+      "Pt-br": "\"[movefg opacity=255 time=300 pos=r accel=-2 storage=凛私服01d(遠) textoff=0][movefg opacity=255 time=500 pos=lc accel=-2 storage=セイバー私服01c(遠) textoff=0][movefg opacity=255 left=-702 top=0 time=600 accel=-2 layer=3 textoff=0][movefg opacity=255 left=503 top=0 time=600 accel=-2 layer=4 textoff=0]Não me diga que ele realmente tinha isso, Rin!?\"[cacheimage storage=凛私服05c(遠)][wvs][wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][chgfg time=200 storage=凛私服05c(遠) textoff=0][lr]",
+      "id": 17839,
+      "epk_id": "5648",
+      "label": "$$$message_0038_0013_0002$$$"
+    },
+    {
+      "en": "\"[movefg opacity=255 time=500 pos=rc accel=-2 storage=凛私服05c(遠) textoff=0][movefg opacity=255 time=300 pos=l accel=-2 storage=セイバー私服01c(遠) textoff=0][movefg opacity=255 left=-510 top=0 time=500 accel=-2 layer=3 textoff=0][movefg opacity=255 left=673 top=0 time=500 accel=-2 layer=4 textoff=0]Emiya wouldn't hide food in a place like this, so I'm sure we've hit bingo.\"[wvs][wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0]",
+      "jp": "ã[movefg opacity=255 time=500 pos=rc accel=-2 storage=åç§æ05c(é ) textoff=0][movefg opacity=255 time=300 pos=l accel=-2 storage=ã»ã¤ãã¼ç§æ01c(é ) textoff=0][movefg opacity=255 left=-510 top=0 time=500 accel=-2 layer=3 textoff=0][movefg opacity=255 left=673 top=0 time=500 accel=-2 layer=4 textoff=0]è¡å®®ãããããã¤ããããªãã³ã«é ãã¦ããããªããã­ãããããã³ã´ãããã£ã¨ã[wvs][wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0]",
+      "Pt-br": "\"[movefg opacity=255 time=500 pos=rc accel=-2 storage=凛私服05c(遠) textoff=0][movefg opacity=255 time=300 pos=l accel=-2 storage=セイバー私服01c(遠) textoff=0][movefg opacity=255 left=-510 top=0 time=500 accel=-2 layer=3 textoff=0][movefg opacity=255 left=673 top=0 time=500 accel=-2 layer=4 textoff=0]O Emiya-kun não esconderia comida num lugar desses, então com certeza acertamos em cheio.\"[wvs][wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0]",
+      "id": 17840,
+      "epk_id": "5649",
+      "label": "$$$message_0038_0013_0003$$$"
+    },
+    {
+      "en": "[movefg opacity=255 time=500 top=145 left=480 accel=-2 storage=凛私服05c(遠) textoff=0][movefg opacity=255 left=-512 top=0 time=500 accel=-2 layer=3 textoff=0][movefg opacity=255 left=575 top=0 time=500 accel=-2 layer=4 textoff=0]A candy box?[lr]",
+      "jp": "ã[movefg opacity=255 time=500 top=145 left=480 accel=-2 storage=åç§æ05c(é ) textoff=0][movefg opacity=255 left=-512 top=0 time=500 accel=-2 layer=3 textoff=0][movefg opacity=255 left=575 top=0 time=500 accel=-2 layer=4 textoff=0]èå­ç®±ï¼[lr]",
+      "Pt-br": "[movefg opacity=255 time=500 top=145 left=480 accel=-2 storage=凛私服05c(遠) textoff=0][movefg opacity=255 left=-512 top=0 time=500 accel=-2 layer=3 textoff=0][movefg opacity=255 left=575 top=0 time=500 accel=-2 layer=4 textoff=0]Uma caixa de doces?[lr]",
+      "id": 17841,
+      "epk_id": "5650",
+      "label": "$$$message_0038_0014_0000$$$"
+    },
+    {
+      "en": "Was I hiding something like that?[lr]",
+      "jp": "ããããªããé ãã¦ãããï¼[lr]",
+      "Pt-br": "Eu andei escondendo algo assim?[lr]",
+      "id": 17842,
+      "epk_id": "5651",
+      "label": "$$$message_0038_0014_0001$$$"
+    },
+    {
+      "en": "...Wait, try and remember. If I recall...[wm canskip=0][wm canskip=0][wm canskip=0]",
+      "jp": "ãâ¦â¦ããã¾ã¦ãæãåºãããããããã¯â¦â¦[wm canskip=0][wm canskip=0][wm canskip=0]",
+      "Pt-br": "...Espera, deixa eu tentar lembrar. Se não me engano... [wm canskip=0][wm canskip=0][wm canskip=0]",
+      "id": 17843,
+      "epk_id": "5652",
+      "label": "$$$message_0038_0014_0002$$$"
+    },
+    {
+      "en": "\"[movefg opacity=255 time=400 pos=lc accel=-2 storage=セイバー私服10a(遠) textoff=0][movefg opacity=255 left=-650 top=0 time=500 accel=-2 layer=3 textoff=0][movefg opacity=255 left=528 top=0 time=500 accel=-2 layer=4 textoff=0]No, we can't determine that until we look inside.\"[cacheimage storage=凛私服03b(遠)][wvs][wm canskip=0][wm canskip=0][wm canskip=0][chgfg time=200 storage=凛私服03b(遠) textoff=0][lr]",
+      "jp": "ã[movefg opacity=255 time=400 pos=lc accel=-2 storage=ã»ã¤ãã¼ç§æ10a(é ) textoff=0][movefg opacity=255 left=-650 top=0 time=500 accel=-2 layer=3 textoff=0][movefg opacity=255 left=528 top=0 time=500 accel=-2 layer=4 textoff=0]ãããã¾ã ä¸­ãè¦ã¦ã¿ãã¾ã§åããã¾ããã[cacheimage storage=åç§æ03b(é )][wvs][wm canskip=0][wm canskip=0][wm canskip=0][chgfg time=200 storage=åç§æ03b(é ) textoff=0][lr]",
+      "Pt-br": "\"[movefg opacity=255 time=400 pos=lc accel=-2 storage=セイバー私服10a(遠) textoff=0][movefg opacity=255 left=-650 top=0 time=500 accel=-2 layer=3 textoff=0][movefg opacity=255 left=528 top=0 time=500 accel=-2 layer=4 textoff=0]Não, não podemos ter certeza até olharmos o que tem dentro.\"[cacheimage storage=凛私服03b(遠)][wvs][wm canskip=0][wm canskip=0][wm canskip=0][chgfg time=200 storage=凛私服03b(遠) textoff=0][lr]",
+      "id": 17844,
+      "epk_id": "5653",
+      "label": "$$$message_0038_0015_0000$$$"
+    },
+    {
+      "en": "\"[movefg opacity=255 time=400 pos=rc accel=-2 storage=凛私服03b(遠) textoff=0][movefg opacity=255 time=400 pos=l accel=-2 storage=セイバー私服10a(遠) textoff=0][movefg opacity=255 left=-515 top=0 time=500 accel=-2 layer=3 textoff=0][movefg opacity=255 left=685 top=0 time=500 accel=-2 layer=4 textoff=0]You don't know when to give up, Saber... Okay, let's see.[wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][cacheimage storage=凛私服09e(遠)][wvl canskip=false time=300][chgfg time=200 storage=凛私服09e(遠) textoff=0] Wow.\"[cacheimage storage=セイバー私服06b腕b(遠)][wvs][chgfg time=200 storage=セイバー私服06b腕b(遠) textoff=0][lr]",
+      "jp": "ã[movefg opacity=255 time=400 pos=rc accel=-2 storage=åç§æ03b(é ) textoff=0][movefg opacity=255 time=400 pos=l accel=-2 storage=ã»ã¤ãã¼ç§æ10a(é ) textoff=0][movefg opacity=255 left=-515 top=0 time=500 accel=-2 layer=3 textoff=0][movefg opacity=255 left=685 top=0 time=500 accel=-2 layer=4 textoff=0]å¾çéãæªãããã»ã¤ãã¼ããã¦ãéå¸³ã¼â¦â¦[wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][cacheimage storage=åç§æ09e(é )][wvl canskip=false time=300][chgfg time=200 storage=åç§æ09e(é ) textoff=0]ããã[cacheimage storage=ã»ã¤ãã¼ç§æ06bè\nb(é )][wvs][chgfg time=200 storage=ã»ã¤ãã¼ç§æ06bè\nb(é ) textoff=0][lr]",
+      "Pt-br": "\"[movefg opacity=255 time=400 pos=rc accel=-2 storage=凛私服03b(遠) textoff=0][movefg opacity=255 time=400 pos=l accel=-2 storage=セイバー私服10a(遠) textoff=0][movefg opacity=255 left=-515 top=0 time=500 accel=-2 layer=3 textoff=0][movefg opacity=255 left=685 top=0 time=500 accel=-2 layer=4 textoff=0]Você não sabe a hora de desistir, Saber... Certo, vamos ver.[wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][cacheimage storage=凛私服09e(遠)][wvl canskip=false time=300][chgfg time=200 storage=凛私服09e(遠) textoff=0] Nossa.\"[cacheimage storage=セイバー私服06b腕b(遠)][wvs][chgfg time=200 storage=セイバー私服06b腕b(遠) textoff=0][lr]",
+      "id": 17845,
+      "epk_id": "5654",
+      "label": "$$$message_0038_0015_0001$$$"
+    },
+    {
+      "en": "\"[movefg opacity=255 time=400 pos=lc accel=-2 storage=セイバー私服06b腕b(遠) textoff=0][movefg opacity=255 time=400 pos=r accel=-2 storage=凛私服09e(遠) textoff=0][movefg opacity=255 left=-695 top=0 time=500 accel=-2 layer=3 textoff=0][movefg opacity=255 left=495 top=0 time=500 accel=-2 layer=4 textoff=0]Shirou has something like this...\"[wvs][wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][lr]",
+      "jp": "ã[movefg opacity=255 time=400 pos=lc accel=-2 storage=ã»ã¤ãã¼ç§æ06bè\nb(é ) textoff=0][movefg opacity=255 time=400 pos=r accel=-2 storage=åç§æ09e(é ) textoff=0][movefg opacity=255 left=-695 top=0 time=500 accel=-2 layer=3 textoff=0][movefg opacity=255 left=495 top=0 time=500 accel=-2 layer=4 textoff=0]â¦â¦â¦â¦ãã®ãããªãã®ããã·ã­ã¦ãâ¦â¦â¦â¦ã[wvs][wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][lr]",
+      "Pt-br": "\"[movefg opacity=255 time=400 pos=lc accel=-2 storage=セイバー私服06b腕b(遠) textoff=0][movefg opacity=255 time=400 pos=r accel=-2 storage=凛私服09e(遠) textoff=0][movefg opacity=255 left=-695 top=0 time=500 accel=-2 layer=3 textoff=0][movefg opacity=255 left=495 top=0 time=500 accel=-2 layer=4 textoff=0]O Shirou tem uma coisa dessas...\"[wvs][wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][lr]",
+      "id": 17846,
+      "epk_id": "5655",
+      "label": "$$$message_0038_0015_0002$$$"
+    },
+    {
+      "en": "[movefg opacity=255 time=400 pos=l accel=-2 storage=セイバー私服06b腕b(遠) textoff=0][movefg opacity=255 left=-538 top=0 time=500 accel=-2 layer=3 textoff=0][movefg opacity=255 left=599 top=0 time=500 accel=-2 layer=4 textoff=0][line len=3]I remember now.[wm canskip=0][wm canskip=0][wm canskip=0]",
+      "jp": "ã[movefg opacity=255 time=400 pos=l accel=-2 storage=ã»ã¤ãã¼ç§æ06bè\nb(é ) textoff=0][movefg opacity=255 left=-538 top=0 time=500 accel=-2 layer=3 textoff=0][movefg opacity=255 left=599 top=0 time=500 accel=-2 layer=4 textoff=0][line len=3]æãåºãã¦ããã[wm canskip=0][wm canskip=0][wm canskip=0]",
+      "Pt-br": "[movefg opacity=255 time=400 pos=l accel=-2 storage=セイバー私服06b腕b(遠) textoff=0][movefg opacity=255 left=-538 top=0 time=500 accel=-2 layer=3 textoff=0][movefg opacity=255 left=599 top=0 time=500 accel=-2 layer=4 textoff=0][line len=3]Lembrei agora. [wm canskip=0][wm canskip=0][wm canskip=0]",
+      "id": 17847,
+      "epk_id": "5656",
+      "label": "$$$message_0038_0015_0003$$$"
+    },
+    {
+      "en": "I didn't want to leave it lying around, so I put it in a random box.[lr]",
+      "jp": "ãããã ããããªãã®æ¾ãåºãã¦ããããã«ãè¡ããªããããé©å½ãªç®±ã«å\n¥ãããã ã[lr]",
+      "Pt-br": "Eu não queria deixar aquilo jogado por aí, então botei numa caixa qualquer.[lr]",
+      "id": 17848,
+      "epk_id": "5657",
+      "label": "$$$message_0038_0016_0000$$$"
+    },
+    {
+      "en": "And I put it all the way inside in case Saber or someone else opened it by accident...[lr]",
+      "jp": "ãããã«ã»ã¤ãã¼ãã¡ãééãã¦éããã¨ãããªãããã£ã¦å¥¥ã«â¦â¦[lr]",
+      "Pt-br": "E enfiei bem no fundo pra caso a Saber ou mais alguém abrisse por acidente...[lr]",
+      "id": 17849,
+      "epk_id": "5658",
+      "label": "$$$message_0038_0016_0001$$$"
+    },
+    {
+      "en": "It was a[shock vmax=10 time=1200 count=10] photo album...for viewers aged 18 and up...[wshock canskip=0]",
+      "jp": "ãã§ãä¸­ã«å\n¥ã£ã¦ãã®ã¯ã[shock vmax=10 time=1200 count=10]åå\n«æ­³æªæºé²è¦§ç¦æ­¢ã®åçéâ¦â¦ã â¦â¦ãã¼ã¼ã¼[wshock canskip=0]",
+      "Pt-br": "Era um [shock vmax=10 time=1200 count=10]álbum de fotos... proibido para menores... [wshock canskip=0]",
+      "id": 17850,
+      "epk_id": "5659",
+      "label": "$$$message_0038_0016_0002$$$"
+    },
+    {
+      "en": "\"[chgfg time=200 storage=凛私服09a(遠) textoff=0][movefg opacity=255 time=400 pos=rc accel=-2 storage=凛私服09a(遠) textoff=0][movefg opacity=255 left=-510 top=0 time=500 accel=-2 layer=3 textoff=0][movefg opacity=255 left=680 top=0 time=500 accel=-2 layer=4 textoff=0]Wow, this is pretty intense...[lr]",
+      "jp": "ã[chgfg time=200 storage=åç§æ09a(é ) textoff=0][movefg opacity=255 time=400 pos=rc accel=-2 storage=åç§æ09a(é ) textoff=0][movefg opacity=255 left=-510 top=0 time=500 accel=-2 layer=3 textoff=0][movefg opacity=255 left=680 top=0 time=500 accel=-2 layer=4 textoff=0]ãããããã¶ãã¨ã¾ãæ¿åã­â¦â¦ã[lr]",
+      "Pt-br": "\"[chgfg time=200 storage=凛私服09a(遠) textoff=0][movefg opacity=255 time=400 pos=rc accel=-2 storage=凛私服09a(遠) textoff=0][movefg opacity=255 left=-510 top=0 time=500 accel=-2 layer=3 textoff=0][movefg opacity=255 left=680 top=0 time=500 accel=-2 layer=4 textoff=0]Uau, isso aqui é bem pesado...[lr]",
+      "id": 17851,
+      "epk_id": "5660",
+      "label": "$$$message_0038_0017_0000$$$"
+    },
+    {
+      "en": "I always thought Emiya might be some closet freak...\"[cacheimage storage=セイバー私服10c頬(遠)][wvs][wm canskip=0][wm canskip=0][wm canskip=0][chgfg time=200 storage=セイバー私服10c頬(遠) textoff=0][lr]",
+      "jp": "ãè¡å®®ããã£ã¦å¯ãã«ããã¢ãã¯ãããªããã¨æã£ã¦ããã ãã©ããã£ã±ã[line len=3]ã[cacheimage storage=ã»ã¤ãã¼ç§æ10cé ¬(é )][wvs][wm canskip=0][wm canskip=0][wm canskip=0][chgfg time=200 storage=ã»ã¤ãã¼ç§æ10cé ¬(é ) textoff=0][lr]",
+      "Pt-br": "Sempre achei que o Emiya-kun pudesse ser um tarado de armário...\"[cacheimage storage=セイバー私服10c頬(遠)][wvs][wm canskip=0][wm canskip=0][wm canskip=0][chgfg time=200 storage=セイバー私服10c頬(遠) textoff=0][lr]",
+      "id": 17852,
+      "epk_id": "5661",
+      "label": "$$$message_0038_0017_0001$$$"
+    },
+    {
+      "en": "\"[movefg opacity=255 time=400 pos=r accel=-2 storage=凛私服09a(遠) textoff=0][movefg opacity=255 time=400 pos=lc accel=0 storage=セイバー私服10c頬(遠) textoff=0][movefg opacity=255 left=-689 top=0 time=500 accel=-2 layer=3 textoff=0][movefg opacity=255 left=535 top=0 time=500 accel=-2 layer=4 textoff=0]I refuse to believe it. Shirou would never have such vulgar feelings for obscene material like this!\"[wvs][wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][lr]",
+      "jp": "ã[movefg opacity=255 time=400 pos=r accel=-2 storage=åç§æ09a(é ) textoff=0][movefg opacity=255 time=400 pos=lc accel=0 storage=ã»ã¤ãã¼ç§æ10cé ¬(é ) textoff=0][movefg opacity=255 left=-689 top=0 time=500 accel=-2 layer=3 textoff=0][movefg opacity=255 left=535 top=0 time=500 accel=-2 layer=4 textoff=0]ä¿¡ãããã¾ãããã·ã­ã¦ããã®ãããªä½å£ä¿æªãªãã®ã«å£æ\nãæ±ãã¦ããã³ããªã©ããå¾ãªãï¼ã[wvs][wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][lr]",
+      "Pt-br": "\"[movefg opacity=255 time=400 pos=r accel=-2 storage=凛私服09a(遠) textoff=0][movefg opacity=255 time=400 pos=lc accel=0 storage=セイバー私服10c頬(遠) textoff=0][movefg opacity=255 left=-689 top=0 time=500 accel=-2 layer=3 textoff=0][movefg opacity=255 left=535 top=0 time=500 accel=-2 layer=4 textoff=0]Recuso-me a acreditar. O Shirou jamais teria sentimentos tão vulgares por materiais obscenos como este!\"[wvs][wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][lr]",
+      "id": 17853,
+      "epk_id": "5662",
+      "label": "$$$message_0038_0017_0002$$$"
+    },
+    {
+      "en": "...Thanks for believing in me, Saber.[lr]",
+      "jp": "ãâ¦â¦é«ãè©ä¾¡ããããã¨ããã»ã¤ãã¼ã[lr]",
+      "Pt-br": "...Obrigado por acreditar em mim, Saber.[lr]",
+      "id": 17854,
+      "epk_id": "5663",
+      "label": "$$$message_0038_0017_0003$$$"
+    },
+    {
+      "en": "But you're giving me too much credit. And...ah, I remember how I got it now.[se storage=se522.wav][chgfg time=200 storage=凛私服08c(遠) textoff=0]",
+      "jp": "ãã§ã[ruby text=ã²ãã char=2]è´å±ã®å¼ãåãã«éããæ°ãããããããã®ç±æ¥ãã»ãâ¦â¦ãã¼ãæãåºãã¦ããã[se storage=se522.wav][chgfg time=200 storage=åç§æ08c(é ) textoff=0]",
+      "Pt-br": "Mas você está me dando crédito demais. E... ah, lembrei agora como eu consegui isso. [se storage=se522.wav][chgfg time=200 storage=凛私服08c(遠) textoff=0]",
+      "id": 17855,
+      "epk_id": "5664",
+      "label": "$$$message_0038_0017_0004$$$"
+    },
+    {
+      "en": "\"[movefg opacity=255 time=400 pos=l accel=-2 storage=セイバー私服10c頬(遠) textoff=0][movefg opacity=255 time=400 pos=rc accel=-2 storage=凛私服08c(遠) textoff=0][movefg opacity=255 left=-505 top=0 time=500 accel=-2 layer=3 textoff=0][movefg opacity=255 left=709 top=0 time=500 accel=-2 layer=4 textoff=0]Ah-ha... I know what he's into now.[wvs][wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][lr]",
+      "jp": "ã[movefg opacity=255 time=400 pos=l accel=-2 storage=ã»ã¤ãã¼ç§æ10cé ¬(é ) textoff=0][movefg opacity=255 time=400 pos=rc accel=-2 storage=åç§æ08c(é ) textoff=0][movefg opacity=255 left=-505 top=0 time=500 accel=-2 layer=3 textoff=0][movefg opacity=255 left=709 top=0 time=500 accel=-2 layer=4 textoff=0]ãµããµãâ¦â¦å¾åãåãã£ã¦ãããã­ã[wvs][wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][lr]",
+      "Pt-br": "\"[movefg opacity=255 time=400 pos=l accel=-2 storage=セイバー私服10c頬(遠) textoff=0][movefg opacity=255 time=400 pos=rc accel=-2 storage=凛私服08c(遠) textoff=0][movefg opacity=255 left=-505 top=0 time=500 accel=-2 layer=3 textoff=0][movefg opacity=255 left=709 top=0 time=500 accel=-2 layer=4 textoff=0]Ah-ha... Agora eu sei do que ele gosta.[wvs][wm canskip=0][wm canskip=0][wm canskip=0][wm canskip=0][lr]",
+      "id": 17856,
+      "epk_id": "5665",
+      "label": "$$$message_0038_0018_0000$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=凛私服08e頬(遠) textoff=0][move time=150 path=(422,151,255)(422,146,255)(426,154,255)(422,146,255)(427,151,255)(419,144,255) storage=凛私服08e頬(遠) accel=-2 textoff=0]Shirou likes big sister types. Oh, this one's more little sister-like.[lr]",
+      "jp": "ã[chgfg time=300 storage=åç§æ08eé ¬(é ) textoff=0][move time=150 path=(422,151,255)(422,146,255)(426,154,255)(422,146,255)(427,151,255)(419,144,255) storage=åç§æ08eé ¬(é ) accel=-2 textoff=0]ãå§ããç³»ãå¥½ããªãã ãå£«éã£ã¦ã°ãããããã£ã¡ã«ã¯å¦¹ã£ã½ãã®ãã[lr]",
+      "Pt-br": "[chgfg time=300 storage=凛私服08e頬(遠) textoff=0][move time=150 path=(422,151,255)(422,146,255)(426,154,255)(422,146,255)(427,151,255)(419,144,255) storage=凛私服08e頬(遠) accel=-2 textoff=0]O Shirou gosta do tipo \"Nee-san\". Ah, esta aqui parece mais uma irmãzinha.[lr]",
+      "id": 17857,
+      "epk_id": "5666",
+      "label": "$$$message_0038_0018_0001$$$"
+    },
+    {
+      "en": "I don't see any blondes, though...\"[wvs][wm canskip=0][lr]",
+      "jp": "ããã©ããã­ã³ãããã¯ãªããã­ãã[wvs][wm canskip=0][lr]",
+      "Pt-br": "Mas não estou vendo nenhuma loira...\"[wvs][wm canskip=0][lr]",
+      "id": 17858,
+      "epk_id": "5667",
+      "label": "$$$message_0038_0018_0002$$$"
+    },
+    {
+      "en": "\"[chgfg time=200 storage=セイバー私服07b(遠) textoff=0][movefg opacity=255 left=-662 top=0 time=500 accel=-2 layer=3 textoff=0][movefg opacity=255 time=500 pos=lc accel=-2 storage=セイバー私服07b(遠) textoff=0][movefg opacity=255 left=683 top=0 time=500 accel=-2 layer=4 textoff=0]...Is that true?\"[wvs][wm canskip=0][se storage=se522.wav][wm canskip=0][wm canskip=0][wm canskip=0][lr]",
+      "jp": "ã[chgfg time=200 storage=ã»ã¤ãã¼ç§æ07b(é ) textoff=0][movefg opacity=255 left=-662 top=0 time=500 accel=-2 layer=3 textoff=0][movefg opacity=255 time=500 pos=lc accel=-2 storage=ã»ã¤ãã¼ç§æ07b(é ) textoff=0][movefg opacity=255 left=683 top=0 time=500 accel=-2 layer=4 textoff=0]â¦â¦â¦â¦â¦â¦ãããªã®ã§ããããï¼ã[wvs][wm canskip=0][se storage=se522.wav][wm canskip=0][wm canskip=0][wm canskip=0][lr]",
+      "Pt-br": "\"[chgfg time=200 storage=セイバー私服07b(遠) textoff=0][movefg opacity=255 left=-662 top=0 time=500 accel=-2 layer=3 textoff=0][movefg opacity=255 time=500 pos=lc accel=-2 storage=セイバー私服07b(遠) textoff=0][movefg opacity=255 left=683 top=0 time=500 accel=-2 layer=4 textoff=0]...É verdade?\"[wvs][wm canskip=0][se storage=se522.wav][wm canskip=0][wm canskip=0][wm canskip=0][lr]",
+      "id": 17859,
+      "epk_id": "5668",
+      "label": "$$$message_0038_0018_0003$$$"
+    },
+    {
+      "en": "\"[chgfg time=300 storage=凛私服06e(遠) textoff=0]See, I knew you'd be curious.\"[lr]",
+      "jp": "ã[chgfg time=300 storage=åç§æ06e(é ) textoff=0]ãã£ã±ãã»ã¤ãã¼ãæ°ã«ãªã£ã¦ããããªãã®ã[lr]",
+      "Pt-br": "\"[chgfg time=300 storage=凛私服06e(遠) textoff=0]Viu só, eu sabia que você ficaria curiosa.\"[lr]",
+      "id": 17860,
+      "epk_id": "5669",
+      "label": "$$$message_0038_0018_0004$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=セイバー私服05d頬(遠) textoff=0]I don't know what else she's going to insinuate about me, so I'd better step in.[movefg opacity=255 left=-526 top=0 time=800 accel=-2 layer=3 textoff=0][movefg opacity=255 left=516 top=0 time=800 accel=-2 layer=4 textoff=0][lr]",
+      "jp": "ã[chgfg time=300 storage=ã»ã¤ãã¼ç§æ05dé ¬(é ) textoff=0]ãã®ã¾ã¾ã ã¨ä½ãè¨ããããåãã£ããã®ãããªãããæ½®æãã[movefg opacity=255 left=-526 top=0 time=800 accel=-2 layer=3 textoff=0][movefg opacity=255 left=516 top=0 time=800 accel=-2 layer=4 textoff=0][lr]",
+      "Pt-br": "[chgfg time=300 storage=セイバー私服05d頬(遠) textoff=0]Não sei mais o que ela vai insinuar sobre mim, então é melhor eu intervir. [movefg opacity=255 left=-526 top=0 time=800 accel=-2 layer=3 textoff=0][movefg opacity=255 left=516 top=0 time=800 accel=-2 layer=4 textoff=0][lr]",
+      "id": 17861,
+      "epk_id": "5670",
+      "label": "$$$message_0038_0018_0005$$$"
+    },
+    {
+      "en": "It would be safest to clear up this misunderstanding as soon as I can.[wm canskip=0][wm canskip=0]",
+      "jp": "ãèª¤è§£ã¯æ©ãã«è§£ãã¦ããã®ãç¡é£ã ããã[wm canskip=0][wm canskip=0]",
+      "Pt-br": "O mais seguro é esclarecer logo esse mal-entendido. [wm canskip=0][wm canskip=0]",
+      "id": 17862,
+      "epk_id": "5671",
+      "label": "$$$message_0038_0018_0006$$$"
+    },
+    {
+      "en": "\"[chgfg time=200 storage=凛私服08a(遠),セイバー私服20d(遠) textoff=0][se storage=se188.wav][movefg opacity=255 left=-1010 top=0 time=800 accel=2 layer=3 textoff=0][movefg opacity=255 left=1010 top=0 time=800 accel=2 layer=4 textoff=0]That's Shinji's.\"[wvs][wm canskip=0][wm canskip=0][lr]",
+      "jp": "ã[chgfg time=200 storage=åç§æ08a(é ),ã»ã¤ãã¼ç§æ20d(é ) textoff=0][se storage=se188.wav][movefg opacity=255 left=-1010 top=0 time=800 accel=2 layer=3 textoff=0][movefg opacity=255 left=1010 top=0 time=800 accel=2 layer=4 textoff=0]ãããæ\näºã®ã ã[wvs][wm canskip=0][wm canskip=0][lr]",
+      "Pt-br": "\"[chgfg time=200 storage=凛私服08a(遠),セイバー私服20d(遠) textoff=0][se storage=se188.wav][movefg opacity=255 left=-1010 top=0 time=800 accel=2 layer=3 textoff=0][movefg opacity=255 left=1010 top=0 time=800 accel=2 layer=4 textoff=0]Isso é do Shinji.\"[wvs][wm canskip=0][wm canskip=0][lr]",
+      "id": 17863,
+      "epk_id": "5672",
+      "label": "$$$message_0038_0019_0000$$$"
+    },
+    {
+      "en": "\"[line len=8]!!!\"",
+      "jp": "ã[line len=8]ï¼ï¼ï¼ã",
+      "Pt-br": "\"[line len=8]!!!\" ",
+      "id": 17864,
+      "epk_id": "5673",
+      "label": "$$$message_0038_0019_0001$$$"
+    },
+    {
+      "en": "\"[move time=300 path=(144,132,255)(154,136,255)(125,135,255)(132,136,255) storage=セイバー私服10c(遠) accel=-1 textoff=0]Shirou!?\"[cacheimage storage=凛私服13a(遠)][wvs][wm canskip=0][chgfg time=300 storage=凛私服13a(遠) textoff=0][lr]",
+      "jp": "ã[move time=300 path=(144,132,255)(154,136,255)(125,135,255)(132,136,255) storage=ã»ã¤ãã¼ç§æ10c(é ) accel=-1 textoff=0]ã·ã­ã¦ï¼ï¼ã[cacheimage storage=åç§æ13a(é )][wvs][wm canskip=0][chgfg time=300 storage=åç§æ13a(é ) textoff=0][lr]",
+      "Pt-br": "\"[move time=300 path=(144,132,255)(154,136,255)(125,135,255)(132,136,255) storage=セイバー私服10c(遠) accel=-1 textoff=0]Shirou!?\"[cacheimage storage=凛私服13a(遠)][wvs][wm canskip=0][chgfg time=300 storage=凛私服13a(遠) textoff=0][lr]",
+      "id": 17865,
+      "epk_id": "5674",
+      "label": "$$$message_0038_0020_0000$$$"
+    },
+    {
+      "en": "\"Shinji said I would like those and pushed them onto me. I knew it would be awkward to have them out in the open, so I only hid them.\"[lr]",
+      "jp": "ãæ\näºã®ã¤ãããè¡å®®ããããã®å¥½ãã ããã¨ãè¨ã£ã¦æ¼ãã¤ãã¦ãããã ããããæãã¦ããã®ãæ°ã¾ããã®ã§ãé ãã¦ãã ãã[lr]",
+      "Pt-br": "\"O Shinji disse que eu ia gostar dessas coisas e me empurrou tudo. Eu sabia que ia ser estranho ter isso à vista, então eu só escondi.\"[lr]",
+      "id": 17866,
+      "epk_id": "5675",
+      "label": "$$$message_0038_0020_0001$$$"
+    },
+    {
+      "en": "\"Wha...\"",
+      "jp": "ããªâ¦â¦â¦â¦â¦ã",
+      "Pt-br": "\"O quê...\" ",
+      "id": 17867,
+      "epk_id": "5676",
+      "label": "$$$message_0038_0020_0002$$$"
+    },
+    {
+      "en": "Yeah. [chgfg time=300 storage=セイバー私服01c(遠) textoff=0]Shinji's such a busybody from time to time.[lr]",
+      "jp": "ãããããã[chgfg time=300 storage=ã»ã¤ãã¼ç§æ01c(é ) textoff=0]ãªããæã\nãç¯ä»ç¼ãããã¦ãããã ããªãæ\näºã[lr]",
+      "Pt-br": "Pois é. [chgfg time=300 storage=セイバー私服01c(遠) textoff=0]O Shinji é um intrometido de vez em quando.[lr]",
+      "id": 17868,
+      "epk_id": "5677",
+      "label": "$$$message_0038_0021_0000$$$"
+    },
+    {
+      "en": "It isn't good to push your hobbies on other people... But if you told me he likes older girls, I'd believe you.",
+      "jp": "ãèªåã®è¶£å³ãäººã«æ¼ãã¤ãã¦ããã®ã¯ãããããªãã®ã ãâ¦â¦ãã£ããããã¤ãå§ããå¥½ããªã®ãããã¼ã ããªãè¨ããã¦ã¿ãã°ç´å¾ã",
+      "Pt-br": "Não é legal empurrar seus hobbies pros outros... Mas se você me dissesse que ele gosta de mulheres mais velhas, eu acreditaria.",
+      "id": 17869,
+      "epk_id": "5678",
+      "label": "$$$message_0038_0021_0001$$$"
+    },
+    {
+      "en": "\"I totally forgot about them. Thanks, Tohsaka.\"[lr]",
+      "jp": "ããã£ã¨ä»èãè¾¼ãã§ã¦å¿ãã¦ã[line len=3]æ¬å½ã«ãããã¨ããé åã[lr]",
+      "Pt-br": "\"Eu tinha esquecido totalmente disso. Valeu, Tohsaka.\"[lr]",
+      "id": 17870,
+      "epk_id": "5679",
+      "label": "$$$message_0038_0022_0000$$$"
+    },
+    {
+      "en": "I thank her and flash the biggest grin I can manage. Of course, the veins are bulging in my temples.[lr]",
+      "jp": "ãã«ã£ããã¨ããã®ä¸ãªãç¬é¡ã§ãç¤¼ãè¨ããç¡è«ããããã¿ã«ã¯éç­ããã¦ã¦ããã[lr]",
+      "Pt-br": "Agradeço a ela e abro o maior sorriso que consigo. É claro que as veias estão saltando nas minhas têmporas.[lr]",
+      "id": 17871,
+      "epk_id": "5680",
+      "label": "$$$message_0038_0022_0001$$$"
+    },
+    {
+      "en": "Heh heh heh. She needs a taste of her own medicine sometimes.",
+      "jp": "ããµã£ãµã£ãµããã¾ã«ã¯ãããããã®åæããã¦ãããã ããã",
+      "Pt-br": "Heh heh heh. Ela precisa provar do próprio veneno às vezes. ",
+      "id": 17872,
+      "epk_id": "5681",
+      "label": "$$$message_0038_0022_0002$$$"
+    },
+    {
+      "en": "\"Ah...\"[lr]",
+      "jp": "ããâ¦â¦ã[lr]",
+      "Pt-br": "\"Ah...\"[lr]",
+      "id": 17873,
+      "epk_id": "5682",
+      "label": "$$$message_0038_0023_0000$$$"
+    },
+    {
+      "en": "\"Sorry. I guess I got your hopes up.[lr]",
+      "jp": "ãæªããªãããããæå¾\nãããã¿ããã§ã[lr]",
+      "Pt-br": "\"Desculpe. Acho que te deixei na expectativa.[lr]",
+      "id": 17874,
+      "epk_id": "5683",
+      "label": "$$$message_0038_0023_0001$$$"
+    },
+    {
+      "en": "But I wouldn't buy stuff like this.\"[lr]",
+      "jp": "ããã©ä¿ºãããããã®è²·ããªããã ã[lr]",
+      "Pt-br": "Mas eu não compraria coisas desse tipo.\"[lr]",
+      "id": 17875,
+      "epk_id": "5684",
+      "label": "$$$message_0038_0023_0002$$$"
+    },
+    {
+      "en": "It's a waste of money. And I could get them for free at work.[lr]",
+      "jp": "ãéãã£ãããªããããã¤ãå\nã§è²°ãããã[lr]",
+      "Pt-br": "É desperdício de dinheiro. E eu consigo essas coisas de graça no trabalho.[lr]",
+      "id": 17876,
+      "epk_id": "5685",
+      "label": "$$$message_0038_0023_0003$$$"
+    },
+    {
+      "en": "...That last part's really a secret, though, so I won't mention it.[lr]",
+      "jp": "ãâ¦â¦ã¨ãããã¯ãã³ãã«ç§å¯ãªã®ã§é»ã£ã¦ããã[lr]",
+      "Pt-br": "...Essa última parte é segredo absoluto, então não vou comentar.[lr]",
+      "id": 17877,
+      "epk_id": "5686",
+      "label": "$$$message_0038_0023_0004$$$"
+    },
+    {
+      "en": "Tohsaka's hands shake, as if embarrassed she jumped to conclusions.",
+      "jp": "ãèªåã®æ©ã¨ã¡ããæ¥ããããã®ããé åã¯æ\näºã®ç§èµæ¬ãæã«ãµããµãã¨éãã¦ãã¦[line len=3]",
+      "Pt-br": "As mãos da Tohsaka tremem, como se estivesse com vergonha de ter tirado conclusões precipitadas. ",
+      "id": 17878,
+      "epk_id": "5687",
+      "label": "$$$message_0038_0023_0005$$$"
+    },
+    {
+      "en": "\"W-why do you have something from Shinji's collection!?\"[lr]",
+      "jp": "ããã£ãã¢ã³ã¿ãªãã§ãæ\näºã®ã³ã¬ã¯ã·ã§ã³ãªããæã¾ããã®ãã¼ã£ï¼ã[lr]",
+      "Pt-br": "\"P-Por que você tem algo da coleção do Shinji!?\"[lr]",
+      "id": 17879,
+      "epk_id": "5688",
+      "label": "$$$message_0038_0024_0000$$$"
+    },
+    {
+      "en": "She flies into a rage all on her own.",
+      "jp": "ãããã¼ãã¨ãã¾ãã¨ã«èº«åæãªæ¿æããªãã£ãã",
+      "Pt-br": "Ela entra em fúria sozinha. ",
+      "id": 17880,
+      "epk_id": "5689",
+      "label": "$$$message_0038_0024_0001$$$"
+    },
+    {
+      "en": "\"W-what? You're the one who snuck in here to look for it. I didn't do anything wrong!\"[lr]",
+      "jp": "ããªããªãã ããåæã«æ¢ããã®ã¯ãã£ã¡ãããããä¿ºã¯æªããªããä¿ºã¯ã£ï¼ã[lr]",
+      "Pt-br": "\"O-o quê? Foi você quem entrou de fininho aqui pra procurar. Eu não fiz nada de errado!\"[lr]",
+      "id": 17881,
+      "epk_id": "5690",
+      "label": "$$$message_0038_0025_0000$$$"
+    },
+    {
+      "en": "\"Shut up! All mages are on a quest for hidden truths!\"[lr]",
+      "jp": "ãããããã£ãé­è¡å¸«ã¯ã¿ãªä¸çã«æãç§ãããçå®ã®æ¢æ±ã®å¾ã[line len=3]ï¼ã[lr]",
+      "Pt-br": "\"Cala a boca! Todos os magos estão em busca de verdades ocultas!\"[lr]",
+      "id": 17882,
+      "epk_id": "5691",
+      "label": "$$$message_0038_0025_0001$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=セイバー私服04e(遠) textoff=0]That is some impressive mental gymnastics.[lr]",
+      "jp": "ã[chgfg time=300 storage=ã»ã¤ãã¼ç§æ04e(é ) textoff=0]ãã®éçã¯ã ãªãããããããã¼ã[lr]",
+      "Pt-br": "[chgfg time=300 storage=セイバー私服04e(遠) textoff=0]Esse é um malabarismo mental bem impressionante.[lr]",
+      "id": 17883,
+      "epk_id": "5692",
+      "label": "$$$message_0038_0025_0002$$$"
+    },
+    {
+      "en": "[chgfg time=200 storage=凛私服14b(近) textoff=0]And if it were true, then all such seekers of the known would need to worry about friendly fire.",
+      "jp": "ã[chgfg time=200 storage=åç§æ14b(è¿) textoff=0]ä»®ã«ããã ã¨ãã¦ãã[ruby text=ã¾ãã\nã¤ã char=4]æ¢æ±ã®å¾æ¬äººãèª¤çã®è¦æãè² ãã¹ãã ã",
+      "Pt-br": "[chgfg time=200 storage=凛私服14b(近) textoff=0]E se fosse verdade, então todos esses buscadores do conhecido teriam que se preocupar com fogo amigo. ",
+      "id": 17884,
+      "epk_id": "5693",
+      "label": "$$$message_0038_0025_0003$$$"
+    },
+    {
+      "en": "\"Rin... Does this mean I won our wager?\"[lr]",
+      "jp": "ãå[line len=3]ããã¯ç§ãè³­ãã«åã£ãã¨ããäºã§ããããã®ã§ããï¼ã[lr]",
+      "Pt-br": "\"Rin... Isso significa que eu venci a nossa aposta?\"[lr]",
+      "id": 17885,
+      "epk_id": "5694",
+      "label": "$$$message_0038_0026_0000$$$"
+    },
+    {
+      "en": "\"But we just caught Shirou with them.\"[lr]",
+      "jp": "ãã§ããå£«éã¯ç¾ã«æã£ã¦ããããªãã®ã[lr]",
+      "Pt-br": "\"Mas nós acabamos de pegar o Shirou com elas.\"[lr]",
+      "id": 17886,
+      "epk_id": "5695",
+      "label": "$$$message_0038_0026_0001$$$"
+    },
+    {
+      "en": "\"He said that these belong to Shinji Matou, not him. [cacheimage storage=セイバー私服01a(遠)][wvl][chgfg time=300 storage=セイバー私服01a(遠) textoff=0][line len=3]Please treat me to dorayaki from Edomaeya.\"",
+      "jp": "ãã§ããããã¯éæ¡æ\näºã®ææç©ã§ãããã·ã­ã¦ã®æã¡ç©ã¨ããè¨³ã§ã¯ããã¾ããã[cacheimage storage=ã»ã¤ãã¼ç§æ01a(é )][wvl][chgfg time=300 storage=ã»ã¤ãã¼ç§æ01a(é ) textoff=0][line len=3]æ±æ¸åå±ã®ã©ããããå¥¢ã£ã¦é ãã¾ãã",
+      "Pt-br": "\"Ele disse que estas pertencem ao Matou Shinji, não a ele. [cacheimage storage=セイバー私服01a(遠)][wvl][chgfg time=300 storage=セイバー私服01a(遠) textoff=0][line len=3]Por favor, pague-me o dorayaki da Edomaeya.\"",
+      "id": 17887,
+      "epk_id": "5696",
+      "label": "$$$message_0038_0026_0002$$$"
+    },
+    {
+      "en": "Saber's tone doesn't leave room for disagreement.[lr]",
+      "jp": "ãæç¡ãè¨ããã¬ã»ã¤ãã¼ã®æ¼ãåºãã[lr]",
+      "Pt-br": "O tom da Saber não deixa margem pra discordância.[lr]",
+      "id": 17888,
+      "epk_id": "5697",
+      "label": "$$$message_0038_0027_0000$$$"
+    },
+    {
+      "en": "It doesn't seem to be just because food is involved either.",
+      "jp": "ãé£ã¹ç©ãçµ¡ããããã ããããªãããã ã",
+      "Pt-br": "E não parece ser só porque tem comida envolvida. ",
+      "id": 17889,
+      "epk_id": "5698",
+      "label": "$$$message_0038_0027_0001$$$"
+    },
+    {
+      "en": "\"Hmph. Fine, I'll go buy it right now.[lr]",
+      "jp": "ããµã[line len=3]åãã£ããããä»ããè²·ã£ã¦ããã[lr]",
+      "Pt-br": "\"Hmph. Tá bom, eu vou comprar agora mesmo.[lr]",
+      "id": 17890,
+      "epk_id": "5699",
+      "label": "$$$message_0038_0028_0000$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=凛私服16c(近) textoff=0]Ugh, I need some fresh air after seeing that...\"",
+      "jp": "ã[chgfg time=300 storage=åç§æ16c(è¿) textoff=0]ã¾ã£ãããããªã¢ãè¦ãããããããæ°åè»¢æã«è¡ããªãã¨ããâ¦â¦ã",
+      "Pt-br": "[chgfg time=300 storage=凛私服16c(近) textoff=0]Ugh, preciso de um ar puro depois de ver aquilo...\" ",
+      "id": 17891,
+      "epk_id": "5700",
+      "label": "$$$message_0038_0028_0001$$$"
+    },
+    {
+      "en": "[movefg opacity=0 left=482 top=65 time=300 accel=2 storage=凛私服16c(近) textoff=0]Tohsaka leaves, grumbling all the while.[se storage=se444.wav][wm canskip=0][lr]",
+      "jp": "ã[movefg opacity=0 left=482 top=65 time=300 accel=2 storage=åç§æ16c(è¿) textoff=0]ã¶ã¤ããã¨[ruby text=ãã¡ o2o=1]æç´ã£ã½ãé åãåºã¦è¡ã£ãã[se storage=se444.wav][wm canskip=0][lr]",
+      "Pt-br": "[movefg opacity=0 left=482 top=65 time=300 accel=2 storage=凛私服16c(近) textoff=0]A Tohsaka vai embora resmungando o tempo todo. [se storage=se444.wav][wm canskip=0][lr]",
+      "id": 17892,
+      "epk_id": "5701",
+      "label": "$$$message_0038_0029_0000$$$"
+    },
+    {
+      "en": "The typhoon has passed.[lr]",
+      "jp": "ãå°é¢¨ä¸éã¨ã¯ãã®ã³ããã[lr]",
+      "Pt-br": "O tufão passou.[lr]",
+      "id": 17893,
+      "epk_id": "5702",
+      "label": "$$$message_0038_0029_0001$$$"
+    },
+    {
+      "en": "If[line len=2]and I mean this purely hypothetically[line len=2]I had chosen those myself, I would've felt so ashamed of myself I'd want to die.[lr]",
+      "jp": "ãä»®ã«ãã»ãã£ã¨ã¼ã«ä»®ã«ãã¢ã¬ãèªåã§é¸ãã ãã®ã ã£ãããä»ããæ­»ã«ããã»ã©æ\nããªãç®ã«ããããã¦ããã ããã[lr]",
+      "Pt-br": "Se[line len=2]e digo isso puramente no campo das hipóteses[line len=2]eu mesmo tivesse escolhido aquilo, eu estaria com tanta vergonha de mim mesmo que ia querer morrer.[lr]",
+      "id": 17894,
+      "epk_id": "5703",
+      "label": "$$$message_0038_0029_0002$$$"
+    },
+    {
+      "en": "The same way I'd feel if they found my [font italic=true]actual[font italic=false] secret stash even deeper in my drawers.",
+      "jp": "ããã£ã¨å¥¥ã«é ããã¦ããçã®ç§èµç©ãè¦ã¤ãã£ããããããªã£ã¦ãã¾ã£ãã§ããããã«ã",
+      "Pt-br": "Do mesmo jeito que eu me sentiria se encontrassem o meu estoque [font italic=true]realmente[font italic=false] secreto, ainda mais fundo nas gavetas. ",
+      "id": 17895,
+      "epk_id": "5704",
+      "label": "$$$message_0038_0029_0003$$$"
+    },
+    {
+      "en": "\"Saved by the skin of my teeth... Thanks, Shinji.\"[lr]",
+      "jp": "ãâ¦â¦ç´ä¸éã®å·®ã ã£ããâ¦â¦ãããã¨ããæ\näºã[lr]",
+      "Pt-br": "\"Essa foi por pouco... Valeu, Shinji.\"[lr]",
+      "id": 17896,
+      "epk_id": "5705",
+      "label": "$$$message_0038_0030_0000$$$"
+    },
+    {
+      "en": "\"I'm relieved. I was sure that you're a pure and virtuous Master, Shirou.\"[lr]",
+      "jp": "ã[line len=3]å®å µãã¾ããããã¯ãã·ã­ã¦ã¯æ¸\nå»æ½ç½ã§ãé«æ½ãªãã¹ã¿ã¼ã§ãã[lr]",
+      "Pt-br": "\"Estou aliviada. Eu tinha certeza de que você era um Mestre puro e virtuoso, Shirou.\"[lr]",
+      "id": 17897,
+      "epk_id": "5706",
+      "label": "$$$message_0038_0030_0001$$$"
+    },
+    {
+      "en": "\"[shock vmax=20 time=300 count=-3]Huh!? Uh...yeah, I'll do my best to avoid misunderstandings like that.\"[lr]",
+      "jp": "ã[shock vmax=20 time=300 count=-3]ãâ¦â¦ï¼ï¼ããâ¦â¦ãããããããã¯èª¤è§£ãæããããªçä¼¼ã¯é¿ããããã[lr]",
+      "Pt-br": "\"[shock vmax=20 time=300 count=-3]Hã!? Ah... é, vou dar o meu melhor pra evitar mal-entendidos desse tipo.\"[lr]",
+      "id": 17898,
+      "epk_id": "5707",
+      "label": "$$$message_0038_0030_0002$$$"
+    },
+    {
+      "en": "\"But you don't find blonde hair...[cacheimage storage=セイバー私服04c(遠)][wvl canskip=false time=300][chgfg time=300 storage=セイバー私服04c(遠) textoff=0]no, never mind.\"",
+      "jp": "ãã§ããã·ã­ã¦ã¯éé«ªã¯â¦â¦[cacheimage storage=ã»ã¤ãã¼ç§æ04c(é )][wvl canskip=false time=300][chgfg time=300 storage=ã»ã¤ãã¼ç§æ04c(é ) textoff=0]ããããªãã§ãããã¾ããã",
+      "Pt-br": "\"Mas você não gosta de cabelos loiros... [cacheimage storage=セイバー私服04c(遠)][wvl canskip=false time=300][chgfg time=300 storage=セイバー私服04c(遠) textoff=0]não, deixa pra lá.\"",
+      "id": 17899,
+      "epk_id": "5708",
+      "label": "$$$message_0038_0030_0003$$$"
+    },
+    {
+      "en": "...Best to drop the subject.[chgfg time=200 storage=セイバー私服04e頬(遠) textoff=0][lr]",
+      "jp": "ãâ¦â¦èãã¬ãè±ã ããã[chgfg time=200 storage=ã»ã¤ãã¼ç§æ04eé ¬(é ) textoff=0][lr]",
+      "Pt-br": "...Melhor mudar de assunto. [chgfg time=200 storage=セイバー私服04e頬(遠) textoff=0][lr]",
+      "id": 17900,
+      "epk_id": "5709",
+      "label": "$$$message_0038_0031_0000$$$"
+    },
+    {
+      "en": "If this goes on any further, they might catch on about my second Pandora's box.",
+      "jp": "ãããä»¥ä¸ãã®è©±ããã¦ããããå¥¥ã«ããç¬¬äºã®ãã³ãã©ããã¯ã¹ã«æ°ã¥ããã¦ãã¾ãã",
+      "Pt-br": "Se isso for mais longe, elas podem acabar descobrindo a minha segunda caixa de Pandora. ",
+      "id": 17901,
+      "epk_id": "5710",
+      "label": "$$$message_0038_0031_0001$$$"
+    },
+    {
+      "en": "\"I-it's almost three o'clock.[lr]",
+      "jp": "ãããããããä¸æã ããªã[lr]",
+      "Pt-br": "\"J-Já são quase três horas.[lr]",
+      "id": 17902,
+      "epk_id": "5711",
+      "label": "$$$message_0038_0032_0000$$$"
+    },
+    {
+      "en": "Let's go wait for Tohsaka in the living room. I'll brew you some tea to go along with your prize.\"[lr]",
+      "jp": "ãã»ã¤ãã¼ãå±\néã«è¡ã£ã¦é åãå¾\nã£ã¦ãããããè¶ã®ç¨æããã¦ãè³­ãã®å ±é\n¬ãåãåããªãã¨ã[lr]",
+      "Pt-br": "Vamos esperar a Tohsaka na sala. Eu preparo um chá pra acompanhar o seu prêmio.\"[lr]",
+      "id": 17903,
+      "epk_id": "5712",
+      "label": "$$$message_0038_0032_0001$$$"
+    },
+    {
+      "en": "\"Yes. It's our complete victory.\"[lr]",
+      "jp": "ãããã§ãã­ãç§ãã¡ã®å®å\n¨åå©ã§ãã[lr]",
+      "Pt-br": "\"Sim. É a nossa vitória completa.\"[lr]",
+      "id": 17904,
+      "epk_id": "5713",
+      "label": "$$$message_0038_0032_0002$$$"
+    },
+    {
+      "en": "Saber smiles happily.[lr]",
+      "jp": "ãå¬ãããã«ç¬ãã»ã¤ãã¼ã[lr]",
+      "Pt-br": "A Saber sorri feliz.[lr]",
+      "id": 17905,
+      "epk_id": "5714",
+      "label": "$$$message_0038_0032_0003$$$"
+    },
+    {
+      "en": "Urgh, sorry, Saber. I think [font italic=true]I'm[font italic=false] the only one who truly won here...",
+      "jp": "ãâ¦â¦ããããã¾ãã»ã¤ãã¼ãæ¬å½ã¯ãä¿ºãã¡ããããªãããä¿ºãã®å®å\n¨åå©ã£ã½ãã®ã ã£ãâ¦â¦ã",
+      "Pt-br": "Urgh, desculpa, Saber. Acho que [font italic=true]eu[font italic=false] fui o único que realmente saiu ganhando aqui...",
+      "id": 17906,
+      "epk_id": "5715",
+      "label": "$$$message_0038_0032_0004$$$"
+    },
+    {
+      "en": "\"W-why do you have something from Shinji's collection!?\"[r]",
+      "jp": "ããã£ãã¢ã³ã¿ãªãã§ã[r]æ\näºã®ã³ã¬ã¯ã·ã§ã³ãªãã[r]æã¾ããã®ãã¼ã£ï¼ã",
+      "Pt-br": "\"P-Por que você tem algo da coleção do Shinji!?\"[r]",
+      "id": 17907,
+      "epk_id": "905688",
+      "label": "$$$message_9038_0024_0000$$$"
+    }
+  ]
+}

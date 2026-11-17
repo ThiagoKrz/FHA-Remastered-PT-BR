@@ -1,0 +1,208 @@
+{
+  "cena": "790rm4f54fc2n19uf8k6acjc3o",
+  "titulo": "Hanafuda: Rin 6",
+  "rota": "Hanafuda",
+  "arquivo": "790rm4f54fc2n19uf8k6acjc3o.epk_dec",
+  "linhas": [
+    {
+      "en": "\"Welcome.[lr]",
+      "jp": "「ようこそ。[lr]",
+      "Pt-br": "\"Seja bem-vinda.[lr]",
+      "id": 42716,
+      "epk_id": "42493",
+      "label": "$$$message_0338_0000_0000$$$"
+    },
+    {
+      "en": "You've done well to reach this place, Rin.\"",
+      "jp": "　よくぞここまでたどり着いた、凛」",
+      "Pt-br": "Você fez bem em chegar a este lugar, Rin.\"",
+      "id": 42717,
+      "epk_id": "42494",
+      "label": "$$$message_0338_0000_0001$$$"
+    },
+    {
+      "en": "\"Ugh. [wait canskip=0 time=400][l][say storage=HRIN6_RIN_0020 _name=凛]And now Kirei's here, of all people...\"",
+      "jp": "「げ、[wait canskip=0 time=400][l][say storage=HRIN6_RIN_0020 _name=凛]よりによってこんな所で綺礼と会うだなんて……」",
+      "Pt-br": "\"Ugh. [wait canskip=0 time=400][l][say storage=HRIN6_RIN_0020 _name=凛]E agora o Kirei está aqui, logo ele...\"",
+      "id": 42718,
+      "epk_id": "42495",
+      "label": "$$$message_0338_0000_0002$$$"
+    },
+    {
+      "en": "\"I have unfortunate news for you.[lr]",
+      "jp": "「さて、ここで残念なお知らせです。[lr]",
+      "Pt-br": "\"Tenho más notícias para você.[lr]",
+      "id": 42719,
+      "epk_id": "42496",
+      "label": "$$$message_0338_0000_0003$$$"
+    },
+    {
+      "en": "This onsen's special trait has only one use left.\"",
+      "jp": "　ここの温泉の効能はあと一回きりなのです」",
+      "Pt-br": "O efeito especial deste onsen só tem mais um uso restando.\"",
+      "id": 42720,
+      "epk_id": "42497",
+      "label": "$$$message_0338_0000_0004$$$"
+    },
+    {
+      "en": "\"...Huh? Why do you know about it? You're from the Church.\"",
+      "jp": "「[line len=2]は？　そ、それよりもなんで教会側のアンタが、ここの温泉を知っているのよ」",
+      "Pt-br": "\"...Hã? Por que você sabe disso? Você é da Igreja.\"",
+      "id": 42721,
+      "epk_id": "42498",
+      "label": "$$$message_0338_0000_0005$$$"
+    },
+    {
+      "en": "\"Hm. What do you mean by that, Rin?\"",
+      "jp": "「ん、それはどういう意味かな凛」",
+      "Pt-br": "\"Hm. O que você quer dizer com isso, Rin?\"",
+      "id": 42722,
+      "epk_id": "42499",
+      "label": "$$$message_0338_0000_0006$$$"
+    },
+    {
+      "en": "\"What do [font italic=true]you[font italic=false] mean, what do I mean[line len=2][wait canskip=0 time=400][l][hffacechg chara=凛 face=楽 time=200][say storage=HRIN6_RIN_0060 _name=凛]Hey, Archer. Why are you smiling?\"",
+      "jp": "「どういうも何も[line len=2][wait canskip=0 time=400][l][hffacechg chara=凛 face=楽 time=200][say storage=HRIN6_RIN_0060 _name=凛]ちょっとアーチャー。なにアンタは笑ってるのよ」",
+      "Pt-br": "\"Como assim '[font italic=true]eu[font italic=false] quero dizer'[line len=2][wait canskip=0 time=400][l][hffacechg chara=凛 face=楽 time=200][say storage=HRIN6_RIN_0060 _name=凛]Ei, Archer. Por que você está sorrindo?\"",
+      "id": 42723,
+      "epk_id": "42500",
+      "label": "$$$message_0338_0000_0007$$$"
+    },
+    {
+      "en": "\"You still haven't realized that he sent the letter.\"",
+      "jp": "「やはり気がついていなかったのだな、君は。この手紙の差出人はそこにいる男だぞ」",
+      "Pt-br": "\"Você ainda não percebeu que foi ele quem enviou a carta.\"",
+      "id": 42724,
+      "epk_id": "42501",
+      "label": "$$$message_0338_0000_0008$$$"
+    },
+    {
+      "en": "\"Huh? [l][hfchance layer=1][say storage=HRIN6_RIN_0090 _name=凛]No way...\"",
+      "jp": "「え、[l][hfchance layer=1][say storage=HRIN6_RIN_0090 _name=凛]嘘[line len=4]」",
+      "Pt-br": "\"Hã? [l][hfchance layer=1][say storage=HRIN6_RIN_0090 _name=凛]Não pode ser...\"",
+      "id": 42725,
+      "epk_id": "42502",
+      "label": "$$$message_0338_0000_0009$$$"
+    },
+    {
+      "en": "\"Look at the signature on the back of the second page. The fact that it was sent to Shirou Emiya can only mean it was the priest's doing.\"",
+      "jp": "「ほら、二枚目の裏にある署名を見たまえ。衛宮士郎の所に手紙が行っていたのも、あの男の差し金に間違いあるまい」",
+      "Pt-br": "\"Olhe a assinatura no verso da segunda página. O fato de ter sido enviada para o Emiya Shirou só pode significar que foi obra do padre.\"",
+      "id": 42726,
+      "epk_id": "42503",
+      "label": "$$$message_0338_0000_0010$$$"
+    },
+    {
+      "en": "\"...Ah.\"",
+      "jp": "「……あ」",
+      "Pt-br": "\"...Ah.\"",
+      "id": 42727,
+      "epk_id": "42504",
+      "label": "$$$message_0338_0000_0011$$$"
+    },
+    {
+      "en": "\"Honestly. That's why you always...\"",
+      "jp": "「やれやれ[line len=2]そんな事だから君は」",
+      "Pt-br": "\"Sinceramente. É por isso que você sempre...\"",
+      "id": 42728,
+      "epk_id": "42505",
+      "label": "$$$message_0338_0000_0012$$$"
+    },
+    {
+      "en": "\"Oi, what's this now? So the lass's team was the first to get here, eh?\"",
+      "jp": "「おーなんだ。やっぱり一番乗りは嬢ちゃん達か」",
+      "Pt-br": "\"Opa, o que temos aqui? Então o time da mocinha foi o primeiro a chegar, hein?\"",
+      "id": 42729,
+      "epk_id": "42506",
+      "label": "$$$message_0338_0000_0013$$$"
+    },
+    {
+      "en": "\"Well, well. You're faster than I expected.\"",
+      "jp": "「ほう、思ったより早かったではないか」",
+      "Pt-br": "\"Ora, ora. Vocês foram mais rápidos do que eu esperava.\"",
+      "id": 42730,
+      "epk_id": "42507",
+      "label": "$$$message_0338_0000_0014$$$"
+    },
+    {
+      "en": "\"...Why are you both coming out of the bath?\"",
+      "jp": "「……なんであんた達が温泉から出てくるのよ」",
+      "Pt-br": "\"...Por que vocês dois estão saindo do banho?\"",
+      "id": 42731,
+      "epk_id": "42508",
+      "label": "$$$message_0338_0000_0015$$$"
+    },
+    {
+      "en": "\"Because I told them to. Now, once I enter, its power will be used up... But before that, there is a show to enjoy.\"",
+      "jp": "「無論、私がそう命じたからだ。さて、あとは私が入れば今回の温泉の効能は終了という訳だが[line len=2]その前に一つ余興がある」",
+      "Pt-br": "\"Porque eu ordenei. Agora, assim que eu entrar, o poder dele vai se esgotar... Mas antes disso, há um espetáculo para apreciar.\"",
+      "id": 42732,
+      "epk_id": "42509",
+      "label": "$$$message_0338_0000_0016$$$"
+    },
+    {
+      "en": "\"Meaning?\"",
+      "jp": "「どういう意味よ」",
+      "Pt-br": "\"Como assim?\"",
+      "id": 42733,
+      "epk_id": "42510",
+      "label": "$$$message_0338_0000_0017$$$"
+    },
+    {
+      "en": "\"Once we've beaten you, your anguish will make that bathwater ever so slightly sweeter. I'm sure your rage will soothe these tired bones.\"",
+      "jp": "「君たち二人を打ち負かした後、その悔しさを肴に湯に浸からせてもらうという事だ。その憤りはさぞかし心地よいものだろう」",
+      "Pt-br": "\"Assim que derrotarmos vocês, sua angústia deixará a água deste banho um pouquinho mais doce. Tenho certeza de que sua raiva suavizará estes ossos cansados.\"",
+      "id": 42734,
+      "epk_id": "42511",
+      "label": "$$$message_0338_0000_0018$$$"
+    },
+    {
+      "en": "\"Wow. You're a real piece of work.\"",
+      "jp": "「うわ、相変わらず素敵ねアンタ」",
+      "Pt-br": "\"Nossa. Você não presta mesmo.\"",
+      "id": 42735,
+      "epk_id": "42512",
+      "label": "$$$message_0338_0000_0019$$$"
+    },
+    {
+      "en": "\"You got that right.\"",
+      "jp": "「俺もそう思う」",
+      "Pt-br": "\"Pode apostar que não.\"",
+      "id": 42736,
+      "epk_id": "42513",
+      "label": "$$$message_0338_0000_0020$$$"
+    },
+    {
+      "en": "\"She knows what she's talking about.\"",
+      "jp": "「分かりきっていた事ではあったがな」",
+      "Pt-br": "\"Ela sabe bem do que está falando.\"",
+      "id": 42737,
+      "epk_id": "42514",
+      "label": "$$$message_0338_0000_0021$$$"
+    },
+    {
+      "en": "\"Heh. Ah, sweet nectar.[lr]",
+      "jp": "「ふふ、甘露甘露。[lr]",
+      "Pt-br": "\"Heh. Ah, doce néctar.[lr]",
+      "id": 42738,
+      "epk_id": "42515",
+      "label": "$$$message_0338_0000_0022$$$"
+    },
+    {
+      "en": "Now, can you defeat us now that we've raised our Luck stats, Rin?\"",
+      "jp": "　さて、温泉の効果でＬｕｋが上がった我らに勝てるかな凛？」",
+      "Pt-br": "Agora, será que você consegue nos derrotar depois de termos aumentado nossos atributos de Sorte, Rin?\"",
+      "id": 42739,
+      "epk_id": "42516",
+      "label": "$$$message_0338_0000_0023$$$"
+    },
+    {
+      "en": "\"Hmph. You've made a huge mistake if you think that's enough to beat me!\"",
+      "jp": "「ふん、お生憎。その程度でわたしに勝てると思ったら大間違いよ」",
+      "Pt-br": "\"Hmph. Você cometeu um erro enorme se acha que isso é o suficiente para me vencer!\"",
+      "id": 42740,
+      "epk_id": "42517",
+      "label": "$$$message_0338_0000_0024$$$"
+    }
+  ]
+}

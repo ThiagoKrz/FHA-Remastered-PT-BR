@@ -1,0 +1,968 @@
+{
+  "cena": "0jjed3vps4t28e0nev4g18jdcf",
+  "titulo": "Cidade: Boatos Sobre os Dois",
+  "rota": "Dia 4",
+  "arquivo": "0jjed3vps4t28e0nev4g18jdcf.epk_dec",
+  "linhas": [
+    {
+      "en": "There are no people by the riverside for a change.[lr]",
+      "jp": "　珍しく[ruby text=かわべり char=2]川縁には[ruby text=ひとけ char=2]人気がない。[lr]",
+      "Pt-br": "Para variar, não há ninguém à beira do rio.[lr]",
+      "id": 20979,
+      "epk_id": "17700",
+      "label": "$$$message_0133_0000_0000$$$"
+    },
+    {
+      "en": "There are only two people at the most beloved spot for relaxation in the city.[lr]",
+      "jp": "　市民にもっとも愛されている憩いの場にはただ二人、[lr]",
+      "Pt-br": "Só duas pessoas ocupam o ponto de descanso mais querido da cidade.[lr]",
+      "id": 20980,
+      "epk_id": "17701",
+      "label": "$$$message_0133_0000_0001$$$"
+    },
+    {
+      "en": "A rare pairing that obviously stands out.",
+      "jp": "　とんでもなく目立つ、怪しい組み合わせがあった。",
+      "Pt-br": "Uma dupla tão improvável que salta aos olhos.",
+      "id": 20981,
+      "epk_id": "17702",
+      "label": "$$$message_0133_0000_0002$$$"
+    },
+    {
+      "en": "\"...[wait canskip=0 time=1000][say storage=cty0419_shi_0000 name=士郎]How rare.\"[lr]",
+      "jp": "「…………………[wait canskip=0 time=1000][say storage=cty0419_shi_0000 name=士郎]レアだ」[lr]",
+      "Pt-br": "\"...[wait canskip=0 time=1000][say storage=cty0419_shi_0000 name=士郎]Que coisa rara.\"[lr]",
+      "id": 20982,
+      "epk_id": "17703",
+      "label": "$$$message_0133_0001_0000$$$"
+    },
+    {
+      "en": "No, it's not just the pairing that's rare.[lr]",
+      "jp": "　いや、レアなのは組み合わせだけではない。[lr]",
+      "Pt-br": "Não. Não é só a dupla que é rara.[lr]",
+      "id": 20983,
+      "epk_id": "17704",
+      "label": "$$$message_0133_0001_0001$$$"
+    },
+    {
+      "en": "They're originally like cat and dog; if they didn't have the same Master, they would kill each other first thing, but they're eating ice cream together while chatting...!",
+      "jp": "　本来なら犬猿の仲、マスターが同じでなければ真っ先に殺し合う二人が、だべりながらアイスクリームを食べているのである……！",
+      "Pt-br": "Eles sempre foram como cão e gato. Se não tivessem o mesmo Mestre, tentariam se matar à primeira vista — e agora estão ali, conversando enquanto tomam sorvete...!",
+      "id": 20984,
+      "epk_id": "17705",
+      "label": "$$$message_0133_0001_0002$$$"
+    },
+    {
+      "en": "\"Oh, it's on me this time.\"[lr]",
+      "jp": "「あ、彼のはボクのおごりです」[lr]",
+      "Pt-br": "\"Ah, desta vez eu pago.\"[lr]",
+      "id": 20985,
+      "epk_id": "17706",
+      "label": "$$$message_0133_0002_0000$$$"
+    },
+    {
+      "en": "And a shocking truth is revealed.[lr]",
+      "jp": "　そして明かされる衝撃の事実。[lr]",
+      "Pt-br": "E assim vem à tona uma verdade chocante.[lr]",
+      "id": 20986,
+      "epk_id": "17707",
+      "label": "$$$message_0133_0002_0001$$$"
+    },
+    {
+      "en": "\"Hahaha. Man, Berry Berry Strong is the best ice cream flavor after all!\"[lr]",
+      "jp": "「はっはっは。やはりアイスはベリーベリーストロングーが一番だねぇ！」[lr]",
+      "Pt-br": "\"Hahaha! Cara, no fim das contas, Berry Berry Strong é mesmo o melhor sabor de sorvete!\"[lr]",
+      "id": 20987,
+      "epk_id": "17708",
+      "label": "$$$message_0133_0002_0002$$$"
+    },
+    {
+      "en": "Additionally, a useless opinion is also revealed.[lr]",
+      "jp": "　さらに明かされるどうでもいい意見。[lr]",
+      "Pt-br": "E, de quebra, uma opinião completamente inútil.[lr]",
+      "id": 20988,
+      "epk_id": "17709",
+      "label": "$$$message_0133_0002_0003$$$"
+    },
+    {
+      "en": "By the way, what Lancer is eating is strawberry flavored gelato.",
+      "jp": "　ちなみに、ランサーが食べているのはイチゴ味のジェラートである。",
+      "Pt-br": "Aliás, Lancer está tomando um gelato de morango.",
+      "id": 20989,
+      "epk_id": "17710",
+      "label": "$$$message_0133_0002_0004$$$"
+    },
+    {
+      "en": "\"Oh, Mister is shocked.[lr]",
+      "jp": "「あ、お兄さん呆れてる。[lr]",
+      "Pt-br": "\"Ora, o senhor ficou espantado.[lr]",
+      "id": 20990,
+      "epk_id": "17711",
+      "label": "$$$message_0133_0003_0000$$$"
+    },
+    {
+      "en": "Is it weird for me and him to be together?\"[lr]",
+      "jp": "　おかしいですか、ボクと彼が一緒にいるのって？」[lr]",
+      "Pt-br": "É tão estranho assim nos ver juntos?\"[lr]",
+      "id": 20991,
+      "epk_id": "17712",
+      "label": "$$$message_0133_0003_0001$$$"
+    },
+    {
+      "en": "\"Well, it is actually weird. It's natural for the kid to freeze up.\"",
+      "jp": "「いや、マジメな話おかしいだろ。坊主が固まるのも当然だ」",
+      "Pt-br": "\"Na verdade, é bem estranho. Não dá pra culpar o garoto por travar.\"",
+      "id": 20992,
+      "epk_id": "17713",
+      "label": "$$$message_0133_0003_0002$$$"
+    },
+    {
+      "en": "\"First of all, it's weird for you to even be remotely lovable.[lr]",
+      "jp": "「そもそもな、テメエに可愛げがある時点でおかしい。[lr]",
+      "Pt-br": "\"Pra começar, já é estranho você ter qualquer traço de simpatia.[lr]",
+      "id": 20993,
+      "epk_id": "17714",
+      "label": "$$$message_0133_0004_0000$$$"
+    },
+    {
+      "en": "You're a totally different person. There's too many mysteries in your growth process. It's even more of a blank space than from an ape to a person.\"",
+      "jp": "　別人じゃねえのかホント。成長過程に謎がありすぎんだよ。猿から人以上の空白だね」",
+      "Pt-br": "Você vira outra pessoa por completo. Seu processo de crescimento tem mistérios demais. É um elo perdido maior que o existente entre o macaco e o homem.\"",
+      "id": 20994,
+      "epk_id": "17715",
+      "label": "$$$message_0133_0004_0001$$$"
+    },
+    {
+      "en": "\"Oh? I really am disliked. I want to get along as those who have the same Master.[lr]",
+      "jp": "「あやや。嫌われてるなあ、同じマスターを持つ仲間同士仲良くやっていきたいんだけどなあ。[lr]",
+      "Pt-br": "\"Oh? Então sou mesmo detestado. Eu queria me dar bem com alguém que compartilha o mesmo Mestre.[lr]",
+      "id": 20995,
+      "epk_id": "17716",
+      "label": "$$$message_0133_0005_0000$$$"
+    },
+    {
+      "en": "Well, looking back, it can't be helped since I've been doing a ton of things that would cause a misunderstanding.\"",
+      "jp": "　ま、ふりかえってみると誤解を招くコトばっかりしてるから仕方ないんですけどね」",
+      "Pt-br": "Bem, pensando no que fiz, não posso reclamar. Dei motivos de sobra para ser mal interpretado.\"",
+      "id": 20996,
+      "epk_id": "17717",
+      "label": "$$$message_0133_0005_0001$$$"
+    },
+    {
+      "en": "\"You ain't causing any misunderstandings. That's totally acting like a tyrant. There ain't nothing good about it no matter how you look at it. [cacheimage storage=ランサーアロハ01b(中)][wvl canskip=0 time=300][chgfg textoff=0 time=300 storage=ランサーアロハ01b(中)]You wouldn't be able to mend your ways unless you destroy it and fix it from the root.\"[cacheimage storage=020_溜息][wvs][fg textoff=0 opacity=0 left=480 index=2000 top=270 time=100 storage=020_溜息]",
+      "jp": "「誤解なんか招いてねえだろ。ありゃ間違いようのねえ暴君ぶりじゃねえか。どっからどう見てもいいトコなんざねえ。[cacheimage storage=ランサーアロハ01b(中)][wvl canskip=0 time=300][chgfg textoff=0 time=300 storage=ランサーアロハ01b(中)]一度ブッ壊して根本から直さねえと改心しねえよ」[cacheimage storage=020_溜息][wvs][fg textoff=0 opacity=0 left=480 index=2000 top=270 time=100 storage=020_溜息]",
+      "Pt-br": "\"Não tem mal-entendido nenhum. Aquilo é tirania pura. Não há ângulo que faça parecer bom. [cacheimage storage=ランサーアロハ01b(中)][wvl canskip=0 time=300][chgfg textoff=0 time=300 storage=ランサーアロハ01b(中)]Pra você tomar jeito, só destruindo tudo e refazendo desde a raiz.\"[cacheimage storage=020_溜息][wvs][fg textoff=0 opacity=0 left=480 index=2000 top=270 time=100 storage=020_溜息]",
+      "id": 20997,
+      "epk_id": "17718",
+      "label": "$$$message_0133_0006_0000$$$"
+    },
+    {
+      "en": "\"That is true. I wonder why I turned into such an adult. But I can't change the future. Ahh, is it this depressing to know the future?\"[lr]",
+      "jp": "「そうなんですよねー。なんであんなオトナになっちゃったんでしょうねー。でも将来は変えられないんですよねー。ああ、未来が分かってるのってこんなに鬱なんですねー」[lr]",
+      "Pt-br": "\"É verdade. Como será que me tornei um adulto assim? Mas não posso mudar o futuro. Ah... Saber o que o futuro reserva é tão deprimente?\"[lr]",
+      "id": 20998,
+      "epk_id": "17719",
+      "label": "$$$message_0133_0007_0000$$$"
+    },
+    {
+      "en": "[chgfg textoff=0 time=200 storage=ランサーアロハ01c(中)]The blond child drops his shoulders in disappointment.",
+      "jp": "　[chgfg textoff=0 time=200 storage=ランサーアロハ01c(中)]がっかりと肩を落とす金髪子供。",
+      "Pt-br": "[chgfg textoff=0 time=200 storage=ランサーアロハ01c(中)]O menino loiro deixa os ombros caírem, abatido.",
+      "id": 20999,
+      "epk_id": "17720",
+      "label": "$$$message_0133_0007_0001$$$"
+    },
+    {
+      "en": "\"I understand. I can kinda get how you feel.\"[lr]",
+      "jp": "「分かる。その気持ち、少し分かる」[lr]",
+      "Pt-br": "\"Eu entendo. Acho que sei mais ou menos como você se sente.\"[lr]",
+      "id": 21000,
+      "epk_id": "17721",
+      "label": "$$$message_0133_0008_0000$$$"
+    },
+    {
+      "en": "\"Really? I'm glad, I'll be able to get along with you then.[lr]",
+      "jp": "「ホントですか？　良かった、ならお兄さんとは仲良しになれますね。[lr]",
+      "Pt-br": "\"Sério? Que bom. Então talvez consigamos nos dar bem, Onii-san.[lr]",
+      "id": 21001,
+      "epk_id": "17722",
+      "label": "$$$message_0133_0008_0001$$$"
+    },
+    {
+      "en": "I'm happy, I finally met someone that could become friends with me even when I grow up!\"[lr]",
+      "jp": "　嬉しいなあ、ようやくオトナになっても友達になってくれそうな人に会えました！」[lr]",
+      "Pt-br": "Estou feliz! Finalmente encontrei alguém capaz de continuar meu amigo mesmo depois que eu crescer!\"[lr]",
+      "id": 21002,
+      "epk_id": "17723",
+      "label": "$$$message_0133_0008_0002$$$"
+    },
+    {
+      "en": "\"Oh. Sorry, that's not possible. I can't get along with the grown-up you. We fundamentally have different tastes.\"",
+      "jp": "「あ。すまん、それは無理。育ちきったおまえとは付き合えない。根本から嗜好が合わないというか」",
+      "Pt-br": "\"Ah. Desculpa, isso não vai acontecer. Não consigo me dar bem com você adulto. Nossos gostos são incompatíveis na raiz.\"",
+      "id": 21003,
+      "epk_id": "17724",
+      "label": "$$$message_0133_0008_0003$$$"
+    },
+    {
+      "en": "\"I see... I'm in shock. So you're also saying, with a straight face, that you prefer me as a kid... How twisted of you to say that I'm not your taste once I grow up.\"",
+      "jp": "「そうですか……ショックです、マトモそうな顔してお兄さんも子供の方がいいって言うんですね……育ちきったら趣味じゃないなんて、なんて[ruby text=かたよ]偏った人なんだろう」",
+      "Pt-br": "\"Entendo... Estou chocado. Então você admite, com a maior naturalidade, que me prefere criança... Que perversidade dizer que deixo de fazer seu tipo quando cresço, Onii-san.\"",
+      "id": 21004,
+      "epk_id": "17725",
+      "label": "$$$message_0133_0009_0000$$$"
+    },
+    {
+      "en": "\"...Mrgh. Kid, are you one of those kinds of people?[cacheimage storage=ランサーアロハ01a(中)][wvl canskip=0 time=300][chgfg textoff=0 time=200 storage=ランサーアロハ01a(中)] ...I see, so that's why. [cacheimage storage=ランサーアロハ01g(中)b][wvl canskip=0 time=300][chgfg textoff=0 time=200 storage=ランサーアロハ01g(中)b]Well, I did think it was weird that you summoned a little kid out of the many Heroic Spirits of the sword.\"",
+      "jp": "「……む。小僧、そっちの人間だったのか？[cacheimage storage=ランサーアロハ01a(中)][wvl canskip=0 time=300][chgfg textoff=0 time=200 storage=ランサーアロハ01a(中)]　……なるほど、それでか。[cacheimage storage=ランサーアロハ01g(中)b][wvl canskip=0 time=300][chgfg textoff=0 time=200 storage=ランサーアロハ01g(中)b]いや、数いる[ruby text=つるぎ]剣の英霊の中からあそこまでチビっ子の英霊を召喚するなんておかしいと」",
+      "Pt-br": "\"...Argh. Garoto, você é desse tipo?[cacheimage storage=ランサーアロハ01a(中)][wvl canskip=0 time=300][chgfg textoff=0 time=200 storage=ランサーアロハ01a(中)] ...Entendi. Então é por isso. [cacheimage storage=ランサーアロハ01g(中)b][wvl canskip=0 time=300][chgfg textoff=0 time=200 storage=ランサーアロハ01g(中)b]Eu já achava estranho você ter invocado uma garotinha dentre tantos Espíritos Heroicos da espada.\"",
+      "id": 21005,
+      "epk_id": "17726",
+      "label": "$$$message_0133_0010_0000$$$"
+    },
+    {
+      "en": "\"A-AS IF!!!!![lr]",
+      "jp": "「わ、ワケあるかーーーーっ！！[lr]",
+      "Pt-br": "\"C-CLARO QUE NÃO!!!!![lr]",
+      "id": 21006,
+      "epk_id": "17727",
+      "label": "$$$message_0133_0011_0000$$$"
+    },
+    {
+      "en": "My interests have always been respectable! Don't lump me in with that Goldy with weird preferences!!!!!\"[lr]",
+      "jp": "　俺の趣味はずっともっと真っ当だっ！　偏愛趣味がすぎる金ピカと一緒にすんなっーーーー！！！」[lr]",
+      "Pt-br": "Meus interesses sempre foram respeitáveis! Não me compare àquele Goldy de gostos esquisitos!!!!!\"[lr]",
+      "id": 21007,
+      "epk_id": "17728",
+      "label": "$$$message_0133_0011_0001$$$"
+    },
+    {
+      "en": "\"How rude. I don't want to be told that by you.[lr]",
+      "jp": "「失礼ですね。お兄さんにだけは言われたくありません。[lr]",
+      "Pt-br": "\"Que grosseria. E logo você não tem o direito de dizer isso, Onii-san.[lr]",
+      "id": 21008,
+      "epk_id": "17729",
+      "label": "$$$message_0133_0011_0002$$$"
+    },
+    {
+      "en": "You became a felon from the moment that you blushed at Illya in her swimsuit.\"",
+      "jp": "　イリヤさんの水着姿に赤面した時点で重罪です」",
+      "Pt-br": "Virou criminoso no instante em que corou ao ver Illya-san de maiô.\"",
+      "id": 21009,
+      "epk_id": "17730",
+      "label": "$$$message_0133_0011_0003$$$"
+    },
+    {
+      "en": "\"Guh, why do you know that, (young) King of Heroes...!!![lr]",
+      "jp": "「ぐっ、なぜそれを知っている英雄王（小）……！！！[lr]",
+      "Pt-br": "\"Argh, como sabe disso, (jovem) Rei dos Heróis...!?[lr]",
+      "id": 21010,
+      "epk_id": "17731",
+      "label": "$$$message_0133_0012_0000$$$"
+    },
+    {
+      "en": "Well, um, however, this matter and that matter are completely separate. First of all, Saber isn't a little kid.\"[lr]",
+      "jp": "　あ、いや、しかしですね、この件に関してはそういうのとは別件かと。そもそもセイバーはちびっ子ではありません」[lr]",
+      "Pt-br": "Bem, ahn, enfim, uma coisa não tem nada a ver com a outra. Para começar, Saber não é uma garotinha.\"[lr]",
+      "id": 21011,
+      "epk_id": "17732",
+      "label": "$$$message_0133_0012_0001$$$"
+    },
+    {
+      "en": "Unfortunately.",
+      "jp": "　残念ながら。",
+      "Pt-br": "Infelizmente.",
+      "id": 21012,
+      "epk_id": "17733",
+      "label": "$$$message_0133_0012_0002$$$"
+    },
+    {
+      "en": "\"Huh? She's enough of a kid. Compared to Rider, I think she's more like a young girl than a woman.\"[lr]",
+      "jp": "「ああ？　ありゃ十分子供だろ。ライダーあたりと比べたら、女っていうより幼女扱いだと思うがねぇ」[lr]",
+      "Pt-br": "\"Hã? Ela é criança o bastante. Comparada à Rider, parece bem mais menina que mulher.\"[lr]",
+      "id": 21013,
+      "epk_id": "17734",
+      "label": "$$$message_0133_0013_0000$$$"
+    },
+    {
+      "en": "\"Shh, that is not good, Lancer. You'll be turning Rider into an enemy with that wild remark, too.\"[lr]",
+      "jp": "「シッ、ダメですよランサーさん。その暴論だとライダーさんも敵に回します」[lr]",
+      "Pt-br": "\"Psiu, não diga isso, Lancer-san. Com uma declaração dessas, vai transformar Rider-san em inimiga também.\"[lr]",
+      "id": 21014,
+      "epk_id": "17735",
+      "label": "$$$message_0133_0013_0001$$$"
+    },
+    {
+      "en": "\"Agreed. Please don't say something too scary, Lancer. A rocket might come flying here from over there if you say something wrong.\"",
+      "jp": "「同感。お願いだからあんまり怖いコト言わないでくれランサー。下手なコト言うとあっちの方からロケットが飛んでくるぞ？」",
+      "Pt-br": "\"Concordo. Não diga algo tão assustador, Lancer. Uma palavra errada e um foguete pode vir voando de lá.\"",
+      "id": 21015,
+      "epk_id": "17736",
+      "label": "$$$message_0133_0013_0002$$$"
+    },
+    {
+      "en": "\"Over there? Over where?\"[lr]",
+      "jp": "「あっち？　あっちってどっちよ」[lr]",
+      "Pt-br": "\"De lá? De onde?\"[lr]",
+      "id": 21016,
+      "epk_id": "17737",
+      "label": "$$$message_0133_0014_0000$$$"
+    },
+    {
+      "en": "\"I said over there. I can also call one with a Command Spell, though.\"",
+      "jp": "「だからあっち。令呪で呼んでもいいけど」",
+      "Pt-br": "\"Eu disse de lá. Embora também possa chamar um usando um Selo de Comando.\"",
+      "id": 21017,
+      "epk_id": "17738",
+      "label": "$$$message_0133_0014_0001$$$"
+    },
+    {
+      "en": "\"Don't call one! That's a missile, not a rocket!\"[lr]",
+      "jp": "「呼ぶな！　そりゃロケットじゃなくてミサイルだ！」[lr]",
+      "Pt-br": "\"Nem pense nisso! Aquilo é um míssil, não um foguete!\"[lr]",
+      "id": 21018,
+      "epk_id": "17739",
+      "label": "$$$message_0133_0015_0000$$$"
+    },
+    {
+      "en": "\"Ahaha, and a nuclear one at that.\"[lr]",
+      "jp": "「あはは。しかも核が付く方ですねー」[lr]",
+      "Pt-br": "\"Ahaha, e nuclear ainda por cima.\"[lr]",
+      "id": 21019,
+      "epk_id": "17740",
+      "label": "$$$message_0133_0015_0001$$$"
+    },
+    {
+      "en": "\"Yeah. That's what you call giving a knife to a madman. That mistress is merciless towards her enemies.\"",
+      "jp": "「だよなー。ありゃなんとかにハモノだぜ。敵には容赦ねえからなあ、あのお嬢ちゃんは」",
+      "Pt-br": "\"Pois é. Isso é o que chamam de dar uma faca a um louco. Aquela patroa não tem piedade dos inimigos.\"",
+      "id": 21020,
+      "epk_id": "17741",
+      "label": "$$$message_0133_0015_0002$$$"
+    },
+    {
+      "en": "The blond child laughs, and Mr. Aloha Shirt shrugs his shoulders.[lr]",
+      "jp": "　楽しげに笑う金髪子供と肩をすくめるアロハ男。[lr]",
+      "Pt-br": "O menino loiro ri, e o Senhor Camisa Havaiana dá de ombros.[lr]",
+      "id": 21021,
+      "epk_id": "17742",
+      "label": "$$$message_0133_0016_0000$$$"
+    },
+    {
+      "en": "[font italic=true]......Hmm.[font italic=false][lr]",
+      "jp": "　……ふーむ。[lr]",
+      "Pt-br": "[font italic=true]......Hmm.[font italic=false][lr]",
+      "id": 21022,
+      "epk_id": "17743",
+      "label": "$$$message_0133_0016_0001$$$"
+    },
+    {
+      "en": "It must also be because it's at the park on a weekend, but isn't this pairing pretty heartwarming?",
+      "jp": "　休日の公園というのもあるんだろうけど、このコンビ、けっこう微笑ましい組み合わせなのではないだろーか？",
+      "Pt-br": "Talvez seja porque estamos num parque em pleno fim de semana, mas essa dupla não parece até enternecedora?",
+      "id": 21023,
+      "epk_id": "17744",
+      "label": "$$$message_0133_0016_0002$$$"
+    },
+    {
+      "en": "\"So. What are you two doing here?\"[lr]",
+      "jp": "「で。こんな所で何してんだよ、二人とも」[lr]",
+      "Pt-br": "\"Então. O que vocês dois estão fazendo aqui?\"[lr]",
+      "id": 21024,
+      "epk_id": "17745",
+      "label": "$$$message_0133_0017_0000$$$"
+    },
+    {
+      "en": "Mr. Aloha Shirt makes a blatantly disgusted face.[lr]",
+      "jp": "　露骨にイヤな顔をするアロハ男。[lr]",
+      "Pt-br": "O Senhor Camisa Havaiana faz uma careta de franco desgosto.[lr]",
+      "id": 21025,
+      "epk_id": "17746",
+      "label": "$$$message_0133_0017_0001$$$"
+    },
+    {
+      "en": "The blond child looks away sadly.",
+      "jp": "　悲しげに目を伏せる金髪子供。",
+      "Pt-br": "O menino loiro desvia o olhar, abatido.",
+      "id": 21026,
+      "epk_id": "17747",
+      "label": "$$$message_0133_0017_0002$$$"
+    },
+    {
+      "en": "\"That's unlike you guys. It's rare for you guys to be reluctant about something.[lr]",
+      "jp": "「らしくないな。アンタたちが嫌がる事なんて滅多にないのに。[lr]",
+      "Pt-br": "\"Isso não combina com vocês. É raro vê-los hesitar diante de alguma coisa.[lr]",
+      "id": 21027,
+      "epk_id": "17748",
+      "label": "$$$message_0133_0018_0000$$$"
+    },
+    {
+      "en": "...Oh, could it be related to the Holy Grail War?\"",
+      "jp": "　……あ、もしかして聖杯戦争が関係してるのか？」",
+      "Pt-br": "...Ah, será que tem relação com a Guerra do Santo Graal?\"",
+      "id": 21028,
+      "epk_id": "17749",
+      "label": "$$$message_0133_0018_0001$$$"
+    },
+    {
+      "en": "\"Hah, don't be ridiculous, as if I would worry about something like the battle. There's a different cause for this headache. Compared to this worry, the Holy Grail War would be in the fun category.\"[lr]",
+      "jp": "「ハ、馬鹿言っちゃいけねえ、こと戦いでオレが悩むかよ。頭痛のタネは別にある。この悩みに比べたら聖杯戦争なんざ楽しい部類に入るぜ」[lr]",
+      "Pt-br": "\"Ha! Não seja ridículo. Como se eu fosse perder sono por causa da batalha. Minha dor de cabeça vem de outra coisa. Perto dessa preocupação, a Guerra do Santo Graal até parece diversão.\"[lr]",
+      "id": 21029,
+      "epk_id": "17750",
+      "label": "$$$message_0133_0019_0000$$$"
+    },
+    {
+      "en": "\"...Hmm, it's the opposite for me. Compared to participating in the Holy Grail War, well, I can endure it enough...\"",
+      "jp": "「……んー、ボクは逆ですね。聖杯戦争に参加するのに比べたら、まあ、十分我慢できるんですけど……」",
+      "Pt-br": "\"...Hum, comigo é o contrário. Comparado a participar da Guerra do Santo Graal, bem... isto ainda dá para suportar.\"",
+      "id": 21030,
+      "epk_id": "17751",
+      "label": "$$$message_0133_0019_0001$$$"
+    },
+    {
+      "en": "\"You think so? Compared to that insidiousness, a head-on fight is better. You also prefer a physical battle, right? Since you're the type to make it clear where you stand, win or lose, more than me.\"",
+      "jp": "「そうかあ？　あの陰湿さに比べたら真っ向勝負のがマシじゃねえか。テメェも力勝負のが好きだろう？　オレ以上に勝ち負けをハッキリさせたがる[ruby text=タチ o2o=1]性質なんだからよ」",
+      "Pt-br": "\"Acha mesmo? Perto daquela perfídia, prefiro uma luta de frente. Você também é mais chegado ao combate direto, não? Ainda mais que eu, você gosta de deixar claro quem ganhou e quem perdeu.\"",
+      "id": 21031,
+      "epk_id": "17752",
+      "label": "$$$message_0133_0020_0000$$$"
+    },
+    {
+      "en": "\"A physical battle isn't smart. If possible, I would like to win without fighting, [cacheimage storage=ギル子供01d(中)][wvl canskip=0 time=300][chgfg textoff=0 time=200 storage=ギル子供01d(中)]but well, putting aside our differences in strategy and tactics...[lr]",
+      "jp": "「力勝負はスマートじゃありません。できれば勝負しないで勝ちたいものですが、[cacheimage storage=ギル子供01d(中)][wvl canskip=0 time=300][chgfg textoff=0 time=200 storage=ギル子供01d(中)]まあ、戦略と戦術の違いは置いておいて。[lr]",
+      "Pt-br": "\"Combate direto não é inteligente. Se possível, prefiro vencer sem lutar, [cacheimage storage=ギル子供01d(中)][wvl canskip=0 time=300][chgfg textoff=0 time=200 storage=ギル子供01d(中)]mas deixemos de lado nossas diferenças de estratégia e tática...[lr]",
+      "id": 21032,
+      "epk_id": "17753",
+      "label": "$$$message_0133_0021_0000$$$"
+    },
+    {
+      "en": "If you want me to make things clear, then let me tell you this: that person is straightforward, Lancer. There's no hesitation in their plan.\"",
+      "jp": "　ハッキリさせたいって言うなら、あの人はハッキリしてますよランサーさん。方針に迷いがありませんからね」",
+      "Pt-br": "Se quer que eu seja claro, direi isto: aquela pessoa é objetiva, Lancer-san. Não existe hesitação alguma em seus planos.\"",
+      "id": 21033,
+      "epk_id": "17754",
+      "label": "$$$message_0133_0021_0001$$$"
+    },
+    {
+      "en": "\"That depends on the plan. Not hesitating to push people around is a questionable trait for someone to have.\"[lr]",
+      "jp": "「そりゃ方針次第だ。人をこき使うのに迷いがないなんざ、人間としてどうかって話だろ」[lr]",
+      "Pt-br": "\"Depende do plano. Não hesitar em mandar nos outros é uma qualidade bastante questionável.\"[lr]",
+      "id": 21034,
+      "epk_id": "17755",
+      "label": "$$$message_0133_0022_0000$$$"
+    },
+    {
+      "en": "\"I think it's questionable, but isn't it fine for someone who leads others?\"",
+      "jp": "「人としてどうかと思いますが、上に立つ者としてはいいんじゃないですか？」",
+      "Pt-br": "\"Também acho questionável, mas não é apropriada a alguém que lidera os demais?\"",
+      "id": 21035,
+      "epk_id": "17756",
+      "label": "$$$message_0133_0022_0001$$$"
+    },
+    {
+      "en": "\"Well, that's not for me, though.[lr]",
+      "jp": "「まあ、ボクはそういうの性に合わないんですけどね。[lr]",
+      "Pt-br": "\"Bem, não serve pra mim.[lr]",
+      "id": 21036,
+      "epk_id": "17757",
+      "label": "$$$message_0133_0023_0000$$$"
+    },
+    {
+      "en": "Kings should have the same outlook as everyone else, aside from his own.\"",
+      "jp": "　王様っていうのは自分だけの視野の他に、ちゃんとみんなと同じ視野を持ってなくちゃいけません」",
+      "Pt-br": "Um rei deve enxergar o mundo pelos olhos de todos, não apenas pelos próprios.\"",
+      "id": 21037,
+      "epk_id": "17758",
+      "label": "$$$message_0133_0023_0001$$$"
+    },
+    {
+      "en": "\"Wow, how splendid.[lr]",
+      "jp": "「はーん、そりゃご立派なコトで。[lr]",
+      "Pt-br": "\"Nossa, que nobre.[lr]",
+      "id": 21038,
+      "epk_id": "17759",
+      "label": "$$$message_0133_0024_0000$$$"
+    },
+    {
+      "en": "...Yo, kid. This is changing the subject, but there's a super selfish king that I know.[lr]",
+      "jp": "　…………よう坊主。話は変わるが、オレの知り合いにトンデモねえワガママな王がいてな。[lr]",
+      "Pt-br": "...Ei, garoto. Mudando de assunto, conheço um rei egoísta pra caramba.[lr]",
+      "id": 21039,
+      "epk_id": "17760",
+      "label": "$$$message_0133_0024_0001$$$"
+    },
+    {
+      "en": "He looks down on every other human, calling them mongrels, thinks it's natural for everything in this world to serve him, yet hates humans who become just like that. Do you know him?\"",
+      "jp": "　自分以外の人間を雑種呼ばわりして見下すは、この世の全ては自分に奉仕するのが当然と思い上がっているは、そのクセその通りになる人間ってのをたまらなく嫌っているヤツなんだが、知ってるか？」",
+      "Pt-br": "Ele olha todos os outros humanos de cima, chama-os de mestiços, considera natural que tudo no mundo o sirva, mas odeia os humanos que agem da mesma forma. Conhece alguém assim?\"",
+      "id": 21040,
+      "epk_id": "17761",
+      "label": "$$$message_0133_0024_0002$$$"
+    },
+    {
+      "en": "\"I do. He doesn't listen to what people have to say, thinks he'll get whatever he wants as long as he pays, and completely forgets the wrongdoings he did the day before.[lr]",
+      "jp": "「知ってるよ。人の話はまったく聞かないわ、金さえ出せばなんでも手に入ると思ってるわ、一日前の悪事をキレイさっぱり忘れてるわ。[lr]",
+      "Pt-br": "\"Conheço. Ele não escuta ninguém, acha que pode conseguir tudo o que deseja pagando e esquece por completo os abusos que cometeu no dia anterior.[lr]",
+      "id": 21041,
+      "epk_id": "17762",
+      "label": "$$$message_0133_0025_0000$$$"
+    },
+    {
+      "en": "He's always running after women and getting dumped almost every day, yet he continues to make passes at them. 'It's not whether you like me or not, it's whether I like you or not; that's everything!' Saying stuff like that.\"",
+      "jp": "　女癖も悪くて、毎日のようにフラれているのに懲りずにコナかけに来るんだ。おまえが[ruby text=オレ]我を好きなのかではない、[ruby text=オレ]我がおまえを好んでいるか、それが全てなのだ！　とかなんとか」",
+      "Pt-br": "Vive correndo atrás de mulheres e leva um fora quase todo dia, mas nunca desiste de assediá-las. 'Não importa se você gosta de mim; só importa se eu gosto de você!' Ele diz coisas assim.\"",
+      "id": 21042,
+      "epk_id": "17763",
+      "label": "$$$message_0133_0025_0001$$$"
+    },
+    {
+      "en": "\"Yup. Plus, he doesn't remember the favors that people have done for him.[lr]",
+      "jp": "「そうそう。くわえて受けた恩も覚えちゃいねえ。[lr]",
+      "Pt-br": "\"Exato. E também não se lembra dos favores que recebe.[lr]",
+      "id": 21043,
+      "epk_id": "17764",
+      "label": "$$$message_0133_0026_0000$$$"
+    },
+    {
+      "en": "Instead of running off without paying off his debt, he thinks the debt is a natural tribute. And plus...\"[lr]",
+      "jp": "　借金を踏み倒すんじゃなくてよ、借金を当然の貢ぎ物だと思いこんでやがる。んで、おまけに」[lr]",
+      "Pt-br": "Em vez de reconhecer a dívida e pagá-la, trata tudo como um tributo que lhe é devido. E ainda...\"[lr]",
+      "id": 21044,
+      "epk_id": "17765",
+      "label": "$$$message_0133_0026_0001$$$"
+    },
+    {
+      "en": "\"He doesn't work at all for others. He's unemployed. Even though he's fooling around every day, he acts cocky and confiscates the property of people who are properly working.\"",
+      "jp": "「何一つ他人の為に働かないんだよな。無職だよ無職。毎日遊んでるクセに、マジメに働いている人たちから財産を没収してふんぞり返ってるんだ」",
+      "Pt-br": "\"Ele nunca trabalha pelos outros. É um desocupado. Passa os dias se divertindo, mas se acha superior e confisca os bens de quem trabalha honestamente.\"",
+      "id": 21045,
+      "epk_id": "17766",
+      "label": "$$$message_0133_0026_0002$$$"
+    },
+    {
+      "en": "\"Exactly. Such a troublesome guy.[lr]",
+      "jp": "「その通り。ホント困ったもんだった。[lr]",
+      "Pt-br": "\"Exatamente. Um sujeito insuportável.[lr]",
+      "id": 21046,
+      "epk_id": "17767",
+      "label": "$$$message_0133_0027_0000$$$"
+    },
+    {
+      "en": "So. This is off topic, but what do you think about a guy like that?\"",
+      "jp": "　でよ。話は変わるが、テメェはそういうのをどう思う？」",
+      "Pt-br": "Então, mudando de assunto: o que acha de um homem assim?\"",
+      "id": 21047,
+      "epk_id": "17768",
+      "label": "$$$message_0133_0027_0001$$$"
+    },
+    {
+      "en": "There isn't anything to think about.[lr]",
+      "jp": "　どう思うも何もない。[lr]",
+      "Pt-br": "Não há nem o que pensar.[lr]",
+      "id": 21048,
+      "epk_id": "17769",
+      "label": "$$$message_0133_0028_0000$$$"
+    },
+    {
+      "en": "From the bottom of his heart, the blond child says...[lr]",
+      "jp": "　金髪子供は心底から、[lr]",
+      "Pt-br": "Do fundo do coração, o menino loiro responde...[lr]",
+      "id": 21049,
+      "epk_id": "17770",
+      "label": "$$$message_0133_0028_0001$$$"
+    },
+    {
+      "en": "\"Wow, what a terrible person. Is there actually someone like that!?\"[lr]",
+      "jp": "「うわっ、ひどい人ですね、そんな人ホントにいるんですか！？」[lr]",
+      "Pt-br": "\"Nossa, que pessoa horrível. Alguém assim existe mesmo!?\"[lr]",
+      "id": 21050,
+      "epk_id": "17771",
+      "label": "$$$message_0133_0028_0002$$$"
+    },
+    {
+      "en": "Yeah, it's you.",
+      "jp": "　うん、おまえだよ。",
+      "Pt-br": "É você.",
+      "id": 21051,
+      "epk_id": "17772",
+      "label": "$$$message_0133_0028_0003$$$"
+    },
+    {
+      "en": "\"Oh. We were just on the same page, kid.\"[lr]",
+      "jp": "「お。いま心が通じ合ったな小僧」[lr]",
+      "Pt-br": "\"Ah. Pensamos a mesma coisa, garoto.\"[lr]",
+      "id": 21052,
+      "epk_id": "17773",
+      "label": "$$$message_0133_0029_0000$$$"
+    },
+    {
+      "en": "\"Yeah. If there were other people here, I think everyone would be on the same page.\"[lr]",
+      "jp": "「ああ。この場に他の連中がいたら、みんな通じ合えたと思う」[lr]",
+      "Pt-br": "\"Sim. Se houvesse mais gente aqui, acho que todos concordariam.\"[lr]",
+      "id": 21053,
+      "epk_id": "17774",
+      "label": "$$$message_0133_0029_0001$$$"
+    },
+    {
+      "en": "The two of us nod.[lr]",
+      "jp": "　うんうん、と頷く二人。[lr]",
+      "Pt-br": "Nós dois assentimos.[lr]",
+      "id": 21054,
+      "epk_id": "17775",
+      "label": "$$$message_0133_0029_0002$$$"
+    },
+    {
+      "en": "The child king gazes at us in wonder.",
+      "jp": "　そんな俺たちを不思議そうに眺める子供の王さま。",
+      "Pt-br": "O rei menino nos contempla, intrigado.",
+      "id": 21055,
+      "epk_id": "17776",
+      "label": "$$$message_0133_0029_0003$$$"
+    },
+    {
+      "en": "\"So. What are you guys seriously doing here anyway? I have no idea since you guys keep on omitting the main subject.\"[lr]",
+      "jp": "「で。結局のところ、ホントに何してんだよ。主語抜いてばっかりで話がわかんないぞ」[lr]",
+      "Pt-br": "\"Então, o que vocês estão realmente fazendo aqui? Não dá para entender se continuam evitando o assunto principal.\"[lr]",
+      "id": 21056,
+      "epk_id": "17777",
+      "label": "$$$message_0133_0030_0000$$$"
+    },
+    {
+      "en": "\"Huh? We were saying we don't want to go back to our hideout.\"[lr]",
+      "jp": "「ん？　だからよ、アジトに戻りたくねえって話」[lr]",
+      "Pt-br": "\"Hã? Estávamos dizendo que não queremos voltar ao esconderijo.\"[lr]",
+      "id": 21057,
+      "epk_id": "17778",
+      "label": "$$$message_0133_0030_0001$$$"
+    },
+    {
+      "en": "\"Yes. Our Master is oppressive.\"[lr]",
+      "jp": "「そうなんです。マスターがね、横暴なんですよ」[lr]",
+      "Pt-br": "\"Sim. Nosso Mestre é opressivo.\"[lr]",
+      "id": 21058,
+      "epk_id": "17779",
+      "label": "$$$message_0133_0030_0002$$$"
+    },
+    {
+      "en": "\"Master...?\"",
+      "jp": "「マスター……？」",
+      "Pt-br": "\"Mestre...?\"",
+      "id": 21059,
+      "epk_id": "17780",
+      "label": "$$$message_0133_0030_0003$$$"
+    },
+    {
+      "en": "Kotomine...isn't their Master.[lr]",
+      "jp": "　マスターって言峰……じゃないよな。[lr]",
+      "Pt-br": "Kotomine... não é o Mestre deles.[lr]",
+      "id": 21060,
+      "epk_id": "17781",
+      "label": "$$$message_0133_0031_0000$$$"
+    },
+    {
+      "en": "He died half a year ago. There's another contractor keeping these two in the current world.[lr]",
+      "jp": "　アイツは半年前に死んでいる。今この二人を現世に留めている契約者は別にいるのだ。[lr]",
+      "Pt-br": "Ele morreu seis meses atrás. Outro contratante mantém os dois neste mundo.[lr]",
+      "id": 21061,
+      "epk_id": "17782",
+      "label": "$$$message_0133_0031_0001$$$"
+    },
+    {
+      "en": "About what kind of person they are...[lr]",
+      "jp": "　それがどんな人間か、[lr]",
+      "Pt-br": "Quanto à identidade dessa pessoa...[lr]",
+      "id": 21062,
+      "epk_id": "17783",
+      "label": "$$$message_0133_0031_0002$$$"
+    },
+    {
+      "en": "I'm not sure whether I know them or not.",
+      "jp": "　俺は知っているような、まだ知らないような。",
+      "Pt-br": "Não sei dizer se a conheço ou não.",
+      "id": 21063,
+      "epk_id": "17784",
+      "label": "$$$message_0133_0031_0003$$$"
+    },
+    {
+      "en": "\"Wow. What kind of person are they?\"[lr]",
+      "jp": "「へえ。どんなヤツなんだよ一体」[lr]",
+      "Pt-br": "\"Nossa. E que tipo de pessoa é?\"[lr]",
+      "id": 21064,
+      "epk_id": "17785",
+      "label": "$$$message_0133_0032_0000$$$"
+    },
+    {
+      "en": "\"We're the ones who want to know. The only thing we know is that they're as reckless when it comes to using Servants as the last one.[lr]",
+      "jp": "「そんなのこっちが知りてえぜ。分かるのは前と同じぐらいサーヴァント使いが荒いってコトだけよ。[lr]",
+      "Pt-br": "\"Nós é que queremos saber. A única certeza é que ela é tão irresponsável com o uso dos Servos quanto o Mestre anterior.[lr]",
+      "id": 21065,
+      "epk_id": "17786",
+      "label": "$$$message_0133_0032_0001$$$"
+    },
+    {
+      "en": "What about you? You're treated with more care than me, right?\"",
+      "jp": "　そっちはどうだ？　俺より重宝されてるんだろ？」",
+      "Pt-br": "E você? É tratado com mais cuidado do que eu, não é?\"",
+      "id": 21066,
+      "epk_id": "17787",
+      "label": "$$$message_0133_0032_0002$$$"
+    },
+    {
+      "en": "\"I don't know the details either.[lr]",
+      "jp": "「詳しいコトはボクも知りません。[lr]",
+      "Pt-br": "\"Também não conheço os detalhes.[lr]",
+      "id": 21067,
+      "epk_id": "17788",
+      "label": "$$$message_0133_0033_0000$$$"
+    },
+    {
+      "en": "All I know is that she was sent from the church to a convent and found her calling there.[lr]",
+      "jp": "　なんでも、“教会から修道院にたらい回しにされ、そこで天職を得たのです”だとか。[lr]",
+      "Pt-br": "Só sei que a Igreja a mandou para um convento, e foi lá que ela encontrou sua vocação.[lr]",
+      "id": 21068,
+      "epk_id": "17789",
+      "label": "$$$message_0133_0033_0001$$$"
+    },
+    {
+      "en": "I don't know how to react when she brags about her questionable past.\"",
+      "jp": "　そんな微妙な経歴、自慢げに語られても困るんですけどねー」",
+      "Pt-br": "Não sei como reagir quando ela se gaba desse passado duvidoso.\"",
+      "id": 21069,
+      "epk_id": "17790",
+      "label": "$$$message_0133_0033_0002$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「[line len=6]」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 21070,
+      "epk_id": "17791",
+      "label": "$$$message_0133_0034_0000$$$"
+    },
+    {
+      "en": "All right. I'm not able to tell right away what they're talking about, but there's one thing that I can tell in the current situation.[lr]",
+      "jp": "　さて。話はてんで読めないのだが、現状で分かったコトは一つ。[lr]",
+      "Pt-br": "Certo. Ainda não consigo entender de imediato do que estão falando, mas uma coisa ficou clara na situação atual.[lr]",
+      "id": 21071,
+      "epk_id": "17792",
+      "label": "$$$message_0133_0034_0001$$$"
+    },
+    {
+      "en": "These two have a mutual nemesis, and their sense of camaraderie is stronger than ever.",
+      "jp": "　この二人には共通の天敵がいて、それが以前とは比べものにならない仲間意識をもたらしている、というコトだ。",
+      "Pt-br": "Os dois agora têm uma inimiga em comum, e o sentimento de camaradagem nunca foi tão forte.",
+      "id": 21072,
+      "epk_id": "17793",
+      "label": "$$$message_0133_0034_0002$$$"
+    },
+    {
+      "en": "\"...In other words... You two are running away from your Master?\"[lr]",
+      "jp": "「……つまり。二人してマスターから逃げてると？」[lr]",
+      "Pt-br": "\"...Em outras palavras... Vocês estão fugindo da própria Mestre?\"[lr]",
+      "id": 21073,
+      "epk_id": "17794",
+      "label": "$$$message_0133_0035_0000$$$"
+    },
+    {
+      "en": "\"We're not running away. We're just disappearing so that we don't get any impossible orders again.\"[lr]",
+      "jp": "「逃げてるワケじゃねえ。また無理な注文をされないよう、行方をくらましているだけだ」[lr]",
+      "Pt-br": "\"Não estamos fugindo. Só sumimos de vista para não receber outra ordem impossível.\"[lr]",
+      "id": 21074,
+      "epk_id": "17795",
+      "label": "$$$message_0133_0035_0001$$$"
+    },
+    {
+      "en": "\"You have it easy, Lancer. The bind of your Command Spell is weak. Mine is strong, so I get a good scolding just from backing you up a bit.\"",
+      "jp": "「ランサーさんはいいですよ、令呪の縛りが薄いんですから。ボクなんてガッチリですからね、ちょっとお兄さんに肩入れすると後で大目玉です」",
+      "Pt-br": "\"Você tem sorte, Lancer-san. A compulsão do seu Selo de Comando é fraca. A minha é forte; basta eu ajudar você um pouco e já levo uma bronca daquelas, Onii-san.\"",
+      "id": 21075,
+      "epk_id": "17796",
+      "label": "$$$message_0133_0035_0002$$$"
+    },
+    {
+      "en": "\"Damn, really? That's tough. She would keep us nearby but wouldn't say a word all day.[lr]",
+      "jp": "「マジかよ。ありゃあ辛いよな、近くに控えさせといて一日中無言だもんな。[lr]",
+      "Pt-br": "\"Droga, é sério? Que dureza. Ela nos mantém por perto, mas passa o dia inteiro sem abrir a boca.[lr]",
+      "id": 21076,
+      "epk_id": "17797",
+      "label": "$$$message_0133_0036_0000$$$"
+    },
+    {
+      "en": "Rider might get along with her, but it's a bed of nails for us.\"",
+      "jp": "　ライダーあたりには気が合いそうだけどよ、オレたちには針の[ruby text=むしろ]筵だよなあ」",
+      "Pt-br": "Rider talvez se dê bem com ela, mas pra nós é como sentar num monte de pregos.\"",
+      "id": 21077,
+      "epk_id": "17798",
+      "label": "$$$message_0133_0036_0001$$$"
+    },
+    {
+      "en": "The two are both listless.[lr]",
+      "jp": "　がっくりと脱力する二人。[lr]",
+      "Pt-br": "Os dois parecem esgotados.[lr]",
+      "id": 21078,
+      "epk_id": "17799",
+      "label": "$$$message_0133_0037_0000$$$"
+    },
+    {
+      "en": "So they're not scared of her ability as a mage, but they don't like her as a person.",
+      "jp": "　魔術師としての実力を恐れているのではなく、人間として苦手なタイプというコトか。",
+      "Pt-br": "Então não temem sua capacidade como maga; simplesmente não gostam dela como pessoa.",
+      "id": 21079,
+      "epk_id": "17800",
+      "label": "$$$message_0133_0037_0001$$$"
+    },
+    {
+      "en": "\"Oh... I just remembered.[lr]",
+      "jp": "「あー……思い出したんだけど。[lr]",
+      "Pt-br": "\"Ah... Acabei de lembrar.[lr]",
+      "id": 21080,
+      "epk_id": "17801",
+      "label": "$$$message_0133_0038_0000$$$"
+    },
+    {
+      "en": "I got captured by a red cloth when I was walking here before. She asked if I saw a suspicious duo around here...\"",
+      "jp": "　前にさ、ここ歩いてたら赤い布にとっつかまったコトがある。そいつ、怪しい二人組を見なかったかって訊いてきたんだけど[line len=3]」",
+      "Pt-br": "Da última vez que passei por aqui, um pano vermelho me capturou. Ela perguntou se eu tinha visto uma dupla suspeita nas redondezas...\"",
+      "id": 21081,
+      "epk_id": "17802",
+      "label": "$$$message_0133_0038_0001$$$"
+    },
+    {
+      "en": "\"See ya, kid. I just remembered something I have to do.[lr]",
+      "jp": "「じゃあな小僧。急用を思い出した。[lr]",
+      "Pt-br": "\"Até mais, garoto. Lembrei que tenho uma coisa pra fazer.[lr]",
+      "id": 21082,
+      "epk_id": "17803",
+      "label": "$$$message_0133_0039_0000$$$"
+    },
+    {
+      "en": "If the same thing happens to you, tell her you don't know the blue one, but you see the golden one playing here often.\"",
+      "jp": "　もし同じ目にあったら、青い方は知らないが金色の方はよくここの公園で遊んでいる、と伝えてくれ」",
+      "Pt-br": "Se acontecer o mesmo com você, diga que não conhece o sujeito de azul, mas vive vendo o dourado brincar por aqui.\"",
+      "id": 21083,
+      "epk_id": "17804",
+      "label": "$$$message_0133_0039_0001$$$"
+    },
+    {
+      "en": "\"I can't stay still either.[lr]",
+      "jp": "「ボクもいてもたってもいられなくなりました。[lr]",
+      "Pt-br": "\"Eu também não posso ficar parado.[lr]",
+      "id": 21084,
+      "epk_id": "17805",
+      "label": "$$$message_0133_0040_0000$$$"
+    },
+    {
+      "en": "If the same thing happens, please tell her that you don't know the golden one, but the blue one is at the port.\"",
+      "jp": "　もし同じような目にあったら、金色の方は知らないけど青い方は港にいる、と教えてあげてください」",
+      "Pt-br": "Se acontecer o mesmo, diga que não conhece o dourado, mas que o azul está no porto.\"",
+      "id": 21085,
+      "epk_id": "17806",
+      "label": "$$$message_0133_0040_0001$$$"
+    },
+    {
+      "en": "The Servants exchange nihilistic glances at each other.[lr]",
+      "jp": "　フッ、とニヒルに視線を交わすサーヴァントたち。[lr]",
+      "Pt-br": "Os dois Servos trocam olhares resignados.[lr]",
+      "id": 21086,
+      "epk_id": "17807",
+      "label": "$$$message_0133_0041_0000$$$"
+    },
+    {
+      "en": "As expected of soldiers who have survived several battles together.[lr]",
+      "jp": "　さすがは幾重もの戦いをくぐり抜けてきた戦士である。[lr]",
+      "Pt-br": "É o que se espera de guerreiros que sobreviveram juntos a tantas batalhas.[lr]",
+      "id": 21087,
+      "epk_id": "17808",
+      "label": "$$$message_0133_0041_0001$$$"
+    },
+    {
+      "en": "No matter how close they are, they're totally trying to kick each other down at the starting line!",
+      "jp": "　どんなに仲が良くなっても、根っこの部分で蹴落とす気満々なのであった！",
+      "Pt-br": "Por mais próximos que sejam, os dois tentam passar uma rasteira no outro antes mesmo da largada!",
+      "id": 21088,
+      "epk_id": "17809",
+      "label": "$$$message_0133_0041_0002$$$"
+    },
+    {
+      "en": "\"Bye! You also seriously watch out, kid!\"[lr]",
+      "jp": "「あばよー！　オマエも本気で気をつけろよ小僧ー！」[lr]",
+      "Pt-br": "\"Até mais! E abra o olho de verdade, garoto!\"[lr]",
+      "id": 21089,
+      "epk_id": "17810",
+      "label": "$$$message_0133_0042_0000$$$"
+    },
+    {
+      "en": "Lancer runs towards the port.[lr]",
+      "jp": "　シュタッと港方面へ走り去るランサー。[lr]",
+      "Pt-br": "Lancer corre em direção ao porto.[lr]",
+      "id": 21090,
+      "epk_id": "17811",
+      "label": "$$$message_0133_0042_0001$$$"
+    },
+    {
+      "en": "\"See you.[lr]",
+      "jp": "「それじゃあまた。[lr]",
+      "Pt-br": "\"Até logo.[lr]",
+      "id": 21091,
+      "epk_id": "17812",
+      "label": "$$$message_0133_0042_0002$$$"
+    },
+    {
+      "en": "Please care for that person when you feel up to it.\"[lr]",
+      "jp": "　気が向いたらでいいですから、あの人にはお兄さんの方から構ってあげてくださいねー！」[lr]",
+      "Pt-br": "Quando tiver disposição, faça companhia àquela pessoa, Onii-san.\"[lr]",
+      "id": 21092,
+      "epk_id": "17813",
+      "label": "$$$message_0133_0042_0003$$$"
+    },
+    {
+      "en": "The blond child disappears towards Miyama with a speed that could rival Lancer.",
+      "jp": "　シュタタッとランサーに負けず劣らずのスピードで深山町方面へ消えていく金髪子供。",
+      "Pt-br": "O menino loiro desaparece rumo a Miyama numa velocidade capaz de rivalizar com Lancer.",
+      "id": 21093,
+      "epk_id": "17814",
+      "label": "$$$message_0133_0042_0004$$$"
+    },
+    {
+      "en": "...Now.[lr]",
+      "jp": "　……さて。[lr]",
+      "Pt-br": "...Bem.[lr]",
+      "id": 21094,
+      "epk_id": "17815",
+      "label": "$$$message_0133_0043_0000$$$"
+    },
+    {
+      "en": "Servants who fool around as they wish, and a Master that forces dull work on them.[lr]",
+      "jp": "　気ままに遊び回るサーヴァントと地味な労働を強いるマスター。[lr]",
+      "Pt-br": "Servos que fazem o que bem entendem e uma Mestre que os obriga a trabalhos tediosos.[lr]",
+      "id": 21095,
+      "epk_id": "17816",
+      "label": "$$$message_0133_0043_0001$$$"
+    },
+    {
+      "en": "As a third party looking in, I don't know which side has it worse, but...[lr]",
+      "jp": "　恵まれていないのはどちらなのか、第三者である自分には分からないが[line len=3][lr]",
+      "Pt-br": "Como observador externo, não sei qual dos lados sofre mais, mas...[lr]",
+      "id": 21096,
+      "epk_id": "17817",
+      "label": "$$$message_0133_0043_0002$$$"
+    },
+    {
+      "en": "\"That seems fun as is.\"[lr]",
+      "jp": "「面白そうかな、あれはあれで」[lr]",
+      "Pt-br": "\"Do jeito que está, parece divertido.\"[lr]",
+      "id": 21097,
+      "epk_id": "17818",
+      "label": "$$$message_0133_0043_0003$$$"
+    },
+    {
+      "en": "It's like a new love triangle.",
+      "jp": "　あれはあれで、新しい三角関係というコトで。:r",
+      "Pt-br": "É como um novo triângulo amoroso.",
+      "id": 21098,
+      "epk_id": "17819",
+      "label": "$$$message_0133_0043_0004$$$"
+    }
+  ]
+}

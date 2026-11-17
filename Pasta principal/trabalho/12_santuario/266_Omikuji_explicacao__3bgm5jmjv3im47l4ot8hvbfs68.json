@@ -1,0 +1,224 @@
+{
+  "cena": "3bgm5jmjv3im47l4ot8hvbfs68",
+  "titulo": "Omikuji: explicação",
+  "rota": "Santuário",
+  "arquivo": "3bgm5jmjv3im47l4ot8hvbfs68.epk_dec",
+  "linhas": [
+    {
+      "en": "\"The great gods of the shrine,[br]if various disasters and bad or impure events were to happen,[br]we graciously ask you to remove and purify us.\" ",
+      "jp": "ã[ruby text=ã¯ããã© char=2]ç¥æ¸ã®[ruby text=ãããã¿ char=2]å¤§ç¥ãã¡ã[ruby text=ãããã char=2]è«¸ã\nã®[ruby text=ã¾ããã¨ char=2]ç¦äºã[ruby text=ã¤ã¿ãããã char=3]ç½ªç©¢æãããã°[br]ã[ruby text=ã¯ã]ç¥ã[ruby text=ãã¾]çµ¦ãã[ruby text=ãã]æ¸\nã[ruby text=ãã¾]çµ¦ãã¨[ruby text=ãã]ç½ã[ruby text=ãã¨]äºã[ruby text=ã]èãã[ruby text=ã]é£ãã¨[br]ã[ruby text=ããã]æã¿[ruby text=ããã]æã¿ã[ruby text=ãã]ç½ãï½ï½ï½ã",
+      "Pt-br": "\"Os grandes deuses do santuário,[br]caso vários desastres e eventos ruins ou impuros acontecessem,[br]nós gentilmente pedimos que nos purificassem.\" ",
+      "id": 41397,
+      "epk_id": "41319",
+      "label": "$$$message_0276_0000_0000$$$"
+    },
+    {
+      "en": "\"Welcome to Tohsaka Shrine.[br]Here, I will teach you the proper worship etiquette of this shrine.\"",
+      "jp": "ãé åç¥ç¤¾ã¸ããããã[br]ãããã§ã¯å½ç¥ç¤¾ã®æ­£å¼ãªåæä½æ³ãæãããã­ã",
+      "Pt-br": "\"Bem-vindo ao Santuário Tohsaka.[br]Aqui, eu ensinarei a você a etiqueta adequada de adoração neste santuário.\"",
+      "id": 41398,
+      "epk_id": "41320",
+      "label": "$$$message_0276_0001_0000$$$"
+    },
+    {
+      "en": "\"It is important to cleanse your body so you do not appear rude before the gods. Of course your worship etiquette and clapping your hands together in a prayer is also important. But, what's more important is...\"[skip_next_tag][br]",
+      "jp": "ãç¥æ§ã«å¤±ç¤¼ã®ãªããããèº«ãæ¸\nãããã¨ã¯å¤§åã§ãããæç¤¼ã®ä½æ³ã[ruby text=ãããã§ char=2]ææããã¡ããå¤§äºã[br]ããããªã«ããå¤§åãªã®ã¯[line len=3]ã",
+      "Pt-br": "\"É importante purificar o seu corpo para não parecer rude diante dos deuses. Claro, a sua etiqueta de adoração e bater palmas em uma oração também são importantes. Mas, o que é mais importante é...\"[skip_next_tag][br]",
+      "id": 41399,
+      "epk_id": "41321",
+      "label": "$$$message_0276_0002_0000$$$"
+    },
+    {
+      "en": "\"Offering money![wvs canskip=0 time=400][say storage=kujifaq_rin_0030b name=凛] You need[wvs canskip=0 time=200][say storage=kujifaq_rin_0030c name=凛][delay speed=1] to[shock vmax=10 time=200 count=2][wait canskip=0 time=200] offer[shock vmax=10 time=200 count=2][wait canskip=0 time=200] money[shock vmax=10 time=200 count=2][wait canskip=0 time=200] no[shock vmax=10 time=200 count=2][wait canskip=0 time=200] matter what[delay speed=user][shock vmax=10 time=200 count=2][cacheimage storage=凛巫女服01f(近),071_white][wait canskip=0 time=100][chgfg time=100 storage=凛巫女服01f(近)][movefg opacity=255 left=-44 top=-54 time=100 accel=0 storage=071_white textoff=0][wm canskip=0][se storage=hfse013.wav][shock vmax=20 time=500 count=3][movefg opacity=0 left=-44 top=-54 time=200 accel=0 storage=071_white textoff=0 rule=koyama02r][wm canskip=0]!\"",
+      "jp": "ããã[ruby text=ãããã char=2]è³½é­ãï¼[wvs canskip=0 time=400][say storage=kujifaq_rin_0030b name=å]ããªã«ã¯ãªãã¨ã[wvs canskip=0 time=200][say storage=kujifaq_rin_0030c name=å][shock vmax=10 time=200 count=2][wait canskip=0 time=200][delay speed=1]ãã[shock vmax=10 time=200 count=2][wait canskip=0 time=200][ruby text=ãã]è³½[shock vmax=10 time=200 count=2][wait canskip=0 time=200][ruby text=ãã]é­ã[shock vmax=10 time=200 count=2][wait canskip=0 time=200]ã[delay speed=user][shock vmax=10 time=200 count=2][cacheimage storage=åå·«å¥³æ01f(è¿),071_white][wait canskip=0 time=100][chgfg time=100 storage=åå·«å¥³æ01f(è¿)][movefg opacity=255 left=-44 top=-54 time=100 accel=0 storage=071_white textoff=0][wm canskip=0][se storage=hfse013.wav][shock vmax=20 time=500 count=3][movefg opacity=0 left=-44 top=-54 time=200 accel=0 storage=071_white textoff=0 rule=koyama02r][wm canskip=0]ï¼ï¼ã",
+      "Pt-br": "\"Oferta em dinheiro![wvs canskip=0 time=400][say storage=kujifaq_rin_0030b name=凛] Você precisa[wvs canskip=0 time=200][say storage=kujifaq_rin_0030c name=凛][delay speed=1] doar[shock vmax=10 time=200 count=2][wait canskip=0 time=200] dinheiro[shock vmax=10 time=200 count=2][wait canskip=0 time=200] custe[shock vmax=10 time=200 count=2][wait canskip=0 time=200] o[shock vmax=10 time=200 count=2][wait canskip=0 time=200] que custar[delay speed=user][shock vmax=10 time=200 count=2][cacheimage storage=凛巫女服01f(近),071_white][wait canskip=0 time=100][chgfg time=100 storage=凛巫女服01f(近)][movefg opacity=255 left=-44 top=-54 time=100 accel=0 storage=071_white textoff=0][wm canskip=0][se storage=hfse013.wav][shock vmax=20 time=500 count=3][movefg opacity=0 left=-44 top=-54 time=200 accel=0 storage=071_white textoff=0 rule=koyama02r][wm canskip=0]!\"",
+      "id": 41400,
+      "epk_id": "41322",
+      "label": "$$$message_0276_0003_0000$$$"
+    },
+    {
+      "en": "[nr]\"The amount of money you possess will be displayed on the bottom left of the screen.[br]Using the money you have, you can buy omikuji, which are slips of paper with random fortunes, and ema, which are wooden plaques that wishes are written on.\"",
+      "jp": "ãç»é¢å·¦ä¸ã«ç¾å¨ã®ãææéããè¡¨ç¤ºããã¦ãã¾ãã[br]ããã®ææéãä½¿ã£ã¦ã[ruby text=ãã¿ãã char=3]å¾¡ç¥ç±¤ãã¨ã[ruby text=ãã¾ o2o=1]çµµé¦¬ããè²·ãã¾ãã",
+      "Pt-br": "[nr]\"A quantia de dinheiro que você possui será exibida no canto inferior esquerdo da tela.[br]Com o dinheiro que tem, você pode comprar omikuji, que são tiras de papel com sortes aleatórias, e ema, que são placas de madeira nas quais os desejos são escritos.\"",
+      "id": 41401,
+      "epk_id": "41323",
+      "label": "$$$message_0276_0004_0000$$$"
+    },
+    {
+      "en": "\"Omikuji is a hundred yen per pull. The fortune ranges from 'very lucky' to 'great misfortune.'\"[skip_next_tag][br]",
+      "jp": "ã[ruby text=ãã¿ãã char=3]å¾¡ç¥ç±¤ã¯ä¸åã«ã¤ãç¾åã[br]ãéå¢ã¯âå¤§åâããâå¤§å¶âã¾ã§ã",
+      "Pt-br": "\"Omikuji custa cem ienes cada. A sorte varia de 'muito sortudo' a 'grande infortúnio'.\"[skip_next_tag][br]",
+      "id": 41402,
+      "epk_id": "41324",
+      "label": "$$$message_0276_0005_0000$$$"
+    },
+    {
+      "en": "\"The topic of the draw includes career, love, studies, travel, lost items, etc.[br]",
+      "jp": "ãããã®å\nå®¹ãä»äºãææãå­¦æ¥­ãæ\nè¡ãå¤±ç©ã¨è²ã\nã[br]",
+      "Pt-br": "\"O tema do sorteio inclui carreira, amor, estudos, viagens, itens perdidos, etc.[br]",
+      "id": 41403,
+      "epk_id": "41325",
+      "label": "$$$message_0276_0006_0000$$$"
+    },
+    {
+      "en": "If you're not satisfied with the results, you can redraw as many times as your budget allows!\"[skip_next_tag][br]",
+      "jp": "ãçµæãä¸æºãªããææéã®è¨±ããããå¼ãç´ãã¦ã[br]ããªãã±ã¼ï¼ã",
+      "Pt-br": "Se não estiver satisfeito com os resultados, você pode sortear novamente quantas vezes o seu orçamento permitir!\"[skip_next_tag][br]",
+      "id": 41404,
+      "epk_id": "41326",
+      "label": "$$$message_0276_0006_0001$$$"
+    },
+    {
+      "en": "\"...Although it's debatable whether it would be worth doing so many times.\"",
+      "jp": "ãâ¦â¦ãã¾ãåº¦ãéãã¡ããã®ãèããã®ã ãã©ã",
+      "Pt-br": "\"...Embora seja discutível se valeria a pena fazer isso tantas vezes.\"",
+      "id": 41405,
+      "epk_id": "41327",
+      "label": "$$$message_0276_0007_0000$$$"
+    },
+    {
+      "en": "\"The price of each ema varies.[br]It will show the price if you hover the cursor over the ema, so you should discuss with your wallet and choose.\"[skip_next_tag][br]",
+      "jp": "ãçµµé¦¬ã¯ããããä¾¡æ ¼ãç°ãªã£ã¦ãã¾ãã[br]ãã«ã¼ã½ã«ãçµµé¦¬ã«éã­ãã¨ä¾¡æ ¼ãè¡¨ç¤ºãããããã[br]ææéã¨ç¸è«ãã¦é¸ã¶ã¨ãããã",
+      "Pt-br": "\"O preço de cada ema varia.[br]Ele mostrará o preço se você passar o cursor sobre o ema, então você deve consultar a sua carteira e escolher.\"[skip_next_tag][br]",
+      "id": 41406,
+      "epk_id": "41328",
+      "label": "$$$message_0276_0008_0000$$$"
+    },
+    {
+      "en": "\"The tachi-e, or standing art, along with model sheets and other images that are used in this fan disc, are drawn on the ema.\"",
+      "jp": "ãçµµé¦¬ã«ã¯å½ãã¡ã³ãã£ã¹ã¯ã§ä½¿ç¨ãããç«ã¡çµµãè¨­å®ç»ããã®ä»è²ã\nãªç»åãæããã¦ãã¾ãã",
+      "Pt-br": "\"A tachi-e, ou arte vertical, junto com as fichas de personagens e outras imagens que são usadas neste fan disc, são desenhadas no ema.\"",
+      "id": 41407,
+      "epk_id": "41329",
+      "label": "$$$message_0276_0009_0000$$$"
+    },
+    {
+      "en": "\"...It seems like there are some very rare and unique things as well.[lr]",
+      "jp": "ãâ¦â¦ãªãã«ã¯ããªãè²´éã§å¤ãã£ããã®ãããã¿ããã[lr]",
+      "Pt-br": "\"...Também tem umas coisas bem raras e únicas por aqui.[lr]",
+      "id": 41408,
+      "epk_id": "41330",
+      "label": "$$$message_0276_0010_0000$$$"
+    },
+    {
+      "en": "You should have an idea of what they might be. The short commentaries that play after every purchase are also a must-see.\"",
+      "jp": "ããã®[ruby text=ãã]è¾ºãã¯æ¨ãã¦ç¥ãã¹ããè³¼å\n¥æã®ã·ã§ã¼ãã³ã¡ã³ããå¿\nè¦ã",
+      "Pt-br": "Você deve ter uma ideia de quais poderiam ser. Os breves comentários que tocam após cada compra também são imperdíveis.\"",
+      "id": 41409,
+      "epk_id": "41331",
+      "label": "$$$message_0276_0010_0001$$$"
+    },
+    {
+      "en": "\"The purchased ema images will be saved under the \"Another\" tab in the gallery, so you can rest assured that you can take your time looking at them.\"",
+      "jp": "ãè³¼å\n¥ããçµµé¦¬ç»åã¯ãã®ã£ã©ãªã¼ã®ã¢ãã¶ã¼ã¡ãã¥ã¼ã«ç»é²ããã¦ããã£ããéè³ã§ããããã«ãªãããå®å¿ãã¦ã­ã",
+      "Pt-br": "\"As imagens do ema compradas serão salvas na aba \"Another\" na galeria, então pode ter certeza de que você poderá olhar para elas quando quiser.\"",
+      "id": 41410,
+      "epk_id": "41332",
+      "label": "$$$message_0276_0011_0000$$$"
+    },
+    {
+      "en": "\"The purchased ema will have a 'paid' mark.[br][cacheimage storage=凛巫女服01b(近)][wvl][chgfg time=300 storage=凛巫女服01b(近)]If you select it again, you can rewatch the short commentary. Your money will not decrease at this time.\"",
+      "jp": "ãè³¼å\n¥ããçµµé¦¬ã«ã¯ãæ¸ããã¼ã¯ãã¤ãã¾ãã[br]ã[cacheimage storage=åå·«å¥³æ01b(è¿)][wvl][chgfg time=300 storage=åå·«å¥³æ01b(è¿)]ååº¦é¸ã¹ã°è³¼å\n¥æã®ã·ã§ã¼ãã³ã¡ã³ããè¦ç´ããã¨ãåºæ¥ããããã®æã«ã¯ææéã¯æ¸ãã¾ããã",
+      "Pt-br": "\"A ema comprada terá uma marca de 'pago'.[br][cacheimage storage=凛巫女服01b(近)][wvl][chgfg time=300 storage=凛巫女服01b(近)]Se você selecioná-la novamente, poderá assistir de novo ao breve comentário. O seu dinheiro não diminuirá desta vez.\"",
+      "id": 41411,
+      "epk_id": "41333",
+      "label": "$$$message_0276_0012_0000$$$"
+    },
+    {
+      "en": "\"There are only a few ema hung up when the game starts, but they will gradually increase as you travel to different places in Fuyuki City.[cacheimage storage=凛巫女服01c(近)][wvl canskip=0 time=400][chgfg time=300 storage=凛巫女服01c(近)] Hmm, sneaky.\"",
+      "jp": "ãã²ã¼ã éå§æã¯ãçµµé¦¬ã¯æ°æããæãã£ã¦ãªããã©ãå¬æ¨å¸ã®ãã¡ãã¡ã«åºãããã¨å¾ã\nã«å¢ãã¦ããä»çµã¿ã«ãªã£ã¦ãã¾ãã[cacheimage storage=åå·«å¥³æ01c(è¿)][wvl canskip=0 time=400][chgfg time=300 storage=åå·«å¥³æ01c(è¿)]ãï½ãããããããã",
+      "Pt-br": "\"Há apenas alguns emas pendurados quando o jogo começa, mas eles aumentarão gradualmente à medida que você for a lugares diferentes na Cidade de Fuyuki.[cacheimage storage=凛巫女服01c(近)][wvl canskip=0 time=400][chgfg time=300 storage=凛巫女服01c(近)] Hmm, bem sorrateiro.\"",
+      "id": 41412,
+      "epk_id": "41334",
+      "label": "$$$message_0276_0013_0000$$$"
+    },
+    {
+      "en": "\"There are thirty-eight types of ema in total. Try collecting them if you feel up to it.[lr]",
+      "jp": "ãçµµé¦¬ã¯å\n¨é¨ã§ä¸åå\n«ç¨®é¡ãæ°ãåãããéãã¦ã¿ã¦ã[lr]",
+      "Pt-br": "\"Há trinta e oito tipos de ema no total. Tente colecionar todos se sentir que consegue.[lr]",
+      "id": 41413,
+      "epk_id": "41335",
+      "label": "$$$message_0276_0014_0000$$$"
+    },
+    {
+      "en": "[cacheimage storage=凛巫女服01f(近)][wvl canskip=0 time=400][chgfg time=300 storage=凛巫女服01f(近)][shock vmax=20 time=300 count=2][se storage=se054.wav]I mean, please do. [wvl canskip=0 time=400][shock vmax=20 time=300 count=2][se storage=se054.wav]With all your might.[br][cacheimage storage=凛巫女服01f頬(近)][wvl][chgfg time=300 storage=凛巫女服01f頬(近)][shock vmax=30 time=600 count=6][se storage=se054.wav]As if to save[se storage=se054.wav] your family!\"",
+      "jp": "ã[cacheimage storage=åå·«å¥³æ01f(è¿)][wvl canskip=0 time=400][chgfg time=300 storage=åå·«å¥³æ01f(è¿)][shock vmax=20 time=300 count=2][se storage=se054.wav]ã¨ãããæ¯éã«ã[wvl canskip=0 time=400][shock vmax=20 time=300 count=2][se storage=se054.wav]ãã£ã¤ãã¨ã[br]ã[cacheimage storage=åå·«å¥³æ01fé ¬(è¿)][wvl][chgfg time=300 storage=åå·«å¥³æ01fé ¬(è¿)][shock vmax=30 time=600 count=6][se storage=se054.wav]æãå®¶ã®[se storage=se054.wav]å®¶è¨ãå©ããã¨æã£ã¦ï¼ã",
+      "Pt-br": "[cacheimage storage=凛巫女服01f(近)][wvl canskip=0 time=400][chgfg time=300 storage=凛巫女服01f(近)][shock vmax=20 time=300 count=2][se storage=se054.wav]E quando eu digo isso, por favor, o faça. [wvl canskip=0 time=400][shock vmax=20 time=300 count=2][se storage=se054.wav]Com todas as suas forças.[br][cacheimage storage=凛巫女服01f頬(近)][wvl][chgfg time=300 storage=凛巫女服01f頬(近)][shock vmax=30 time=600 count=6][se storage=se054.wav]Como se a sua vida[se storage=se054.wav] dependesse disso!\"",
+      "id": 41414,
+      "epk_id": "41336",
+      "label": "$$$message_0276_0014_0001$$$"
+    },
+    {
+      "en": "\"So what happens once you're out of money?[br][cacheimage storage=凛巫女服01c(近)][wvl][chgfg time=300 storage=凛巫女服01c(近)] ...For those who thought that,[wvl][move textoff=0 opacity=255 storage=048_ピカ cx=79 py=181 px=533 affine=(533,181,-90,1.1,255,79,79)(533,181,-180,1,255,79,79) time=800 cy=79 mag=1 deg=+0.0 accel=-2][se storage=se452.wav][wm canskip=0] you're clever.\"",
+      "jp": "ããã¦èå¿ã®ææéããªããªã£ããã©ããªãã®ï¼[br]ã[cacheimage storage=åå·«å¥³æ01c(è¿)][wvl][chgfg time=300 storage=åå·«å¥³æ01c(è¿)][line len=3]ã¨æã£ãäººã[wvl][move textoff=0 opacity=255 storage=048_ãã« cx=79 py=181 px=533 affine=(533,181,-90,1.1,255,79,79)(533,181,-180,1,255,79,79) time=800 cy=79 mag=1 deg=+0.0 accel=-2][se storage=se452.wav][wm canskip=0]ã¹ã«ãã¤ã",
+      "Pt-br": "\"Então o que acontece se você ficar sem dinheiro?[br][cacheimage storage=凛巫女服01c(近)][wvl][chgfg time=300 storage=凛巫女服01c(近)] ...Para aqueles que pensaram isso,[wvl][move textoff=0 opacity=255 storage=048_ピカ cx=79 py=181 px=533 affine=(533,181,-90,1.1,255,79,79)(533,181,-180,1,255,79,79) time=800 cy=79 mag=1 deg=+0.0 accel=-2][se storage=se452.wav][wm canskip=0] vocês são espertos.\"",
+      "id": 41415,
+      "epk_id": "41337",
+      "label": "$$$message_0276_0015_0000$$$"
+    },
+    {
+      "en": "\"You will start with 500 yen, but you can earn more during the game.[cacheimage storage=凛巫女服01m(近)][wvl][chgfg time=300 storage=凛巫女服01m(近)] As for how...[wvl][move textoff=0 time=190 path=(122,46,255)(151,23,255)(174,46,255)(151,23,255)(122,46,255)(151,23,255)(174,46,255)(151,23,255) storage=凛巫女服01m(近) accel=0 spline=1] That's a Tohsaka secret![br][wm canskip=0][cacheimage storage=凛巫女服01b(近)][wvl canskip=0 time=400][chgfg time=300 storage=凛巫女服01b(近)][move textoff=0 time=150 path=(151,46,255)(151,23,255)(151,34,255)(151,23,255) storage=凛巫女服01b(近) accel=0]...Well, maybe that's going too far,[wvl][wm canskip=0] so here's a little bonus hint instead.\"",
+      "jp": "ãææéã¯æåã¯äºç¾åã ãã©ãã²ã¼ã ä¸­ã§å¢ãããã¨ãã§ãã¾ãã[cacheimage storage=åå·«å¥³æ01m(è¿)][wvl][chgfg time=300 storage=åå·«å¥³æ01m(è¿)]ãã®æ¹æ³ã¯[wvl][move textoff=0 time=190 path=(122,46,255)(151,23,255)(174,46,255)(151,23,255)(122,46,255)(151,23,255)(174,46,255)(151,23,255) storage=åå·«å¥³æ01m(è¿) accel=0 spline=1]è¶\né åæ©å¯ï¼[br]ã[wm canskip=0][cacheimage storage=åå·«å¥³æ01b(è¿)][wvl canskip=0 time=400][chgfg time=300 storage=åå·«å¥³æ01b(è¿)][move textoff=0 time=150 path=(151,46,255)(151,23,255)(151,34,255)(151,23,255) storage=åå·«å¥³æ01b(è¿) accel=0]â¦â¦ã¨ããã®ãããã¾ããªã®ã§ã[wvl][wm canskip=0]ãã¼ãã¹ãã³ãã",
+      "Pt-br": "\"Você começará com 500 ienes, mas poderá ganhar mais durante o jogo.[cacheimage storage=凛巫女服01m(近)][wvl][chgfg time=300 storage=凛巫女服01m(近)] Quanto ao como...[wvl][move textoff=0 time=190 path=(122,46,255)(151,23,255)(174,46,255)(151,23,255)(122,46,255)(151,23,255)(174,46,255)(151,23,255) storage=凛巫女服01m(近) accel=0 spline=1] Esse é um segredo dos Tohsaka![br][wm canskip=0][cacheimage storage=凛巫女服01b(近)][wvl canskip=0 time=400][chgfg time=300 storage=凛巫女服01b(近)][move textoff=0 time=150 path=(151,46,255)(151,23,255)(151,34,255)(151,23,255) storage=凛巫女服01b(近) accel=0]...Bem, talvez isso seja ir longe demais,[wvl][wm canskip=0] então aqui está uma pequena dica como bônus.\"",
+      "id": 41416,
+      "epk_id": "41338",
+      "label": "$$$message_0276_0016_0000$$$"
+    },
+    {
+      "en": "\"There are several ways to increase the amount of money in your possession.\"",
+      "jp": "ãææéãå¢ããã«ã¯å¹¾ã¤ãæ¹æ³ããããã",
+      "Pt-br": "\"Existem várias maneiras de aumentar a quantia de dinheiro em sua posse.\"",
+      "id": 41417,
+      "epk_id": "41339",
+      "label": "$$$message_0276_0017_0000$$$"
+    },
+    {
+      "en": "\"First off, just get through the story.[br][cacheimage storage=凛巫女服01c(近)][wvl][chgfg time=300 storage=凛巫女服01c(近)]Episodes that are related to money might be your chance!\"",
+      "jp": "ãã¾ãã¯ãã²ãããã«ã¹ãã¼ãªã¼ãé²ããã[br]ã[cacheimage storage=åå·«å¥³æ01c(è¿)][wvl][chgfg time=300 storage=åå·«å¥³æ01c(è¿)]ãéã«é¢ä¿ãããããªã¨ãã½ã¼ãã¨ãããçãç®ï¼ã",
+      "Pt-br": "\"Primeiro de tudo, apenas avance na história.[br][cacheimage storage=凛巫女服01c(近)][wvl][chgfg time=300 storage=凛巫女服01c(近)]Os episódios relacionados a dinheiro podem ser a sua chance!\"",
+      "id": 41418,
+      "epk_id": "41340",
+      "label": "$$$message_0276_0018_0000$$$"
+    },
+    {
+      "en": "\"And you can try challenging yourself with completely new Servant games!\"",
+      "jp": "ãããã¨å\n¨ãæ°ãããµã´ã¡ã²ã¼ã«ææ¦ãã¦ã¿ãããããã¨ãï¼ã",
+      "Pt-br": "\"E você pode tentar se desafiar com minigames completamente novos dos Servos!\"",
+      "id": 41419,
+      "epk_id": "41341",
+      "label": "$$$message_0276_0019_0000$$$"
+    },
+    {
+      "en": "\"Also, you might earn money if you are blessed with good luck[cacheimage storage=凛巫女服01c(近)][wvl canskip=0 time=400][chgfg time=300 storage=凛巫女服01c(近)] too!\"",
+      "jp": "ããã¨ãå¹¸éã«æµã¾ããããã¦ãå¢ããã[cacheimage storage=åå·«å¥³æ01c(è¿)][wvl canskip=0 time=400][chgfg time=300 storage=åå·«å¥³æ01c(è¿)]ããï¼ã",
+      "Pt-br": "\"E também, você pode ganhar dinheiro se for abençoado com boa sorte[cacheimage storage=凛巫女服01c(近)][wvl canskip=0 time=400][chgfg time=300 storage=凛巫女服01c(近)] também!\"",
+      "id": 41420,
+      "epk_id": "41342",
+      "label": "$$$message_0276_0020_0000$$$"
+    },
+    {
+      "en": "\"In those cases, you won't get a notification saying that you've earned any money, I'm afraid.[br][cacheimage storage=凛巫女服01b(近)][wvl][chgfg time=300 storage=凛巫女服01b(近)]For those who are curious, go ahead and pay daily visits to the shrine to check for yourself!\"",
+      "jp": "ãææéã¯ããã®é½åº¦ãç¥ãããè¡¨ç¤ºãããããã«ããã£ããå¢ãã¦ããããããããã[br]ã[cacheimage storage=åå·«å¥³æ01b(è¿)][wvl][chgfg time=300 storage=åå·«å¥³æ01b(è¿)]æ°ã«ãªãäººã¯ç¥ç¤¾ã«æ¥åãã¦ç¢ºèªãã¦ã¿ã¦ã­ã",
+      "Pt-br": "\"Nesses casos, me temo que você não receberá uma notificação informando que ganhou dinheiro.[br][cacheimage storage=凛巫女服01b(近)][wvl][chgfg time=300 storage=凛巫女服01b(近)]Para aqueles que estão curiosos, sintam-se à vontade para fazer visitas diárias ao santuário e verificar por si mesmos!\"",
+      "id": 41421,
+      "epk_id": "41343",
+      "label": "$$$message_0276_0021_0000$$$"
+    },
+    {
+      "en": "\"Now that's it for the explanation.[br]Thank you for listening. Enjoy your stay.\"",
+      "jp": "ãã§ã¯ããã§èª¬æã¯ããã¾ãã[br]ããéè´ãããã¨ããã©ãããã£ãããã¦ãã£ã¦ã­ã",
+      "Pt-br": "\"Agora, isso é tudo para a explicação.[br]Obrigada por ouvirem. Aproveitem a sua estadia.\"",
+      "id": 41422,
+      "epk_id": "41344",
+      "label": "$$$message_0276_0022_0000$$$"
+    },
+    {
+      "en": "\"...I'm here too.\"[lr]",
+      "jp": "ãâ¦â¦ç§ãããããªã[lr]",
+      "Pt-br": "\"...Eu estou aqui também.\"[lr]",
+      "id": 41423,
+      "epk_id": "41345",
+      "label": "$$$message_0276_0023_0000$$$"
+    }
+  ]
+}

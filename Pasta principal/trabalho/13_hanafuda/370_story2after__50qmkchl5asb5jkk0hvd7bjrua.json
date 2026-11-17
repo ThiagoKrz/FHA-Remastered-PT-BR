@@ -1,0 +1,296 @@
+{
+  "cena": "50qmkchl5asb5jkk0hvd7bjrua",
+  "titulo": "花札-story2after",
+  "rota": "Hanafuda",
+  "arquivo": "50qmkchl5asb5jkk0hvd7bjrua.epk_dec",
+  "linhas": [
+    {
+      "en": "\"Another point! Saber and Shirou, you lose!\"[nolr][p]",
+      "jp": "「合わせて一本！　セイバーちゃんと士郎、敗れたりー！」[nolr][p]",
+      "Pt-br": "\"Outro ponto! Saber-chan e Shirou, vocês perdem!\"[nolr][p]",
+      "id": 43749,
+      "epk_id": "43534",
+      "label": "$$$message_0367_0000_0000$$$"
+    },
+    {
+      "en": "\"Blarg.\"",
+      "jp": "「ごべきゅー」",
+      "Pt-br": "\"Blarg.\"",
+      "id": 43750,
+      "epk_id": "43535",
+      "label": "$$$message_0367_0000_0001$$$"
+    },
+    {
+      "en": "\"...I'm surprised. Taiga, we really won.\"",
+      "jp": "「……びっくり。タイガ、ほんとに勝っちゃった」",
+      "Pt-br": "\"...Estou surpresa. Taiga, nós vencemos mesmo.\"",
+      "id": 43751,
+      "epk_id": "43536",
+      "label": "$$$message_0367_0000_0002$$$"
+    },
+    {
+      "en": "[hffacechg chara=ブルマイリヤ face=真剣 time=200][hfchance layer=1]\"No, that's not what surprises me...\"",
+      "jp": "[hffacechg chara=ブルマイリヤ face=真剣 time=200][hfchance layer=1]「ううん、驚くのはそうじゃなくて[line len=3]」",
+      "Pt-br": "[hffacechg chara=ブルマイリヤ face=真剣 time=200][hfchance layer=1]\"Não, isso não é o que me surpreende...\"",
+      "id": 43752,
+      "epk_id": "43537",
+      "label": "$$$message_0367_0001_0000$$$"
+    },
+    {
+      "en": "\"Argh... W-why does the Holy Grail War have such a rule...\"",
+      "jp": "「くっ……な、なぜ、聖杯戦争がこのようなルールに……」",
+      "Pt-br": "\"Argh... P-por que a Guerra do Santo Graal tem uma regra dessas...\"",
+      "id": 43753,
+      "epk_id": "43538",
+      "label": "$$$message_0367_0001_0001$$$"
+    },
+    {
+      "en": "\"Because it's more fun that way!\"",
+      "jp": "「なぜって、そっちの方が楽しいからネ！」",
+      "Pt-br": "\"Porque assim é mais divertido!\"",
+      "id": 43754,
+      "epk_id": "43539",
+      "label": "$$$message_0367_0001_0002$$$"
+    },
+    {
+      "en": "\"You just don't get it, Saber. I'm all about the fun factor first and foremost, [wait canskip=0 time=400][l][hffacechg chara=藤ねえ face=怒 layer=1 time=200][hfchance layer=1][large][say storage=HSTR2A_TIG_0040 _name=藤ねえ]yo![rf]\"",
+      "jp": "「理解が足りなかったわねセイバーちゃん、わたしはわたしが楽しければ他の[ruby text=コト o2o=1]設定なんてどうでもいい性格なの[wait canskip=0 time=400][l][hffacechg chara=藤ねえ face=怒 layer=1 time=200][hfchance layer=1][large][say storage=HSTR2A_TIG_0040 _name=藤ねえ]ＹＯ！[rf]」",
+      "Pt-br": "\"Você não entende nada, Saber-chan. O mais importante de tudo é o fator diversão, [wait canskip=0 time=400][l][hffacechg chara=藤ねえ face=怒 layer=1 time=200][hfchance layer=1][large][say storage=HSTR2A_TIG_0040 _name=藤ねえ]sacou![rf]\"",
+      "id": 43755,
+      "epk_id": "43540",
+      "label": "$$$message_0367_0001_0003$$$"
+    },
+    {
+      "en": "\"Right, now that you mention it... [l][hffacechg chara=セイバー face=哀2 layer=0 time=200][say storage=HSTR2A_SAV_0030 _name=セイバー]You are a terrifying foe, Taiga Fujimura. [l][hffeelblue layer=0][say storage=HSTR2A_SAV_0040 _name=セイバー] (keels over)\"[nolr][p]",
+      "jp": "「……ああ、言われてみればそうでした……[l][hffacechg chara=セイバー face=哀2 layer=0 time=200][say storage=HSTR2A_SAV_0030 _name=セイバー]恐るべし、藤村タイガ[l][hffeelblue layer=0][say storage=HSTR2A_SAV_0040 _name=セイバー]（ガク）」[nolr][p]",
+      "Pt-br": "\"Agora que você mencionou... [l][hffacechg chara=セイバー face=哀2 layer=0 time=200][say storage=HSTR2A_SAV_0030 _name=セイバー]Você é uma adversária terrível, Fujimura Taiga. [l][hffeelblue layer=0][say storage=HSTR2A_SAV_0040 _name=セイバー] (desaba)\"[nolr][p]",
+      "id": 43756,
+      "epk_id": "43541",
+      "label": "$$$message_0367_0002_0000$$$"
+    },
+    {
+      "en": "\"Wow... [l][hffacechg chara=ブルマイリヤ face=喜2 layer=0 time=200][hfchance layer=0][say storage=HSTR2A_BIR_0040 _name=ブルマイリヤ]That was incredible, Taiga!\"",
+      "jp": "「すごい……[l][hffacechg chara=ブルマイリヤ face=喜2 layer=0 time=200][hfchance layer=0][say storage=HSTR2A_BIR_0040 _name=ブルマイリヤ]すごいすごいタイガ！」",
+      "Pt-br": "\"Uau... [l][hffacechg chara=ブルマイリヤ face=喜2 layer=0 time=200][hfchance layer=0][say storage=HSTR2A_BIR_0040 _name=ブルマイリヤ]Isso foi incrível, Taiga!\"",
+      "id": 43757,
+      "epk_id": "43542",
+      "label": "$$$message_0367_0002_0001$$$"
+    },
+    {
+      "en": "\"Wasn't that a Reality Marble just now!?[lr]",
+      "jp": "「今の固有結界じゃない！[lr]",
+      "Pt-br": "\"Aquilo não foi uma Projeção de Realidade agora há pouco!?[lr]",
+      "id": 43758,
+      "epk_id": "43543",
+      "label": "$$$message_0367_0003_0000$$$"
+    },
+    {
+      "en": "Where have you been hiding a secret move like that!?\"",
+      "jp": "　あんな大技隠し持ってるなんて、いったいどうしちゃったのよぅ！」",
+      "Pt-br": "Onde você estava escondendo um movimento tão secreto assim!?\"",
+      "id": 43759,
+      "epk_id": "43544",
+      "label": "$$$message_0367_0003_0001$$$"
+    },
+    {
+      "en": "\"Hmm? What's a Reality Marble?\"",
+      "jp": "「んー？　固有結界ってなにー？」",
+      "Pt-br": "\"Hmm? O que é uma Projeção de Realidade?\"",
+      "id": 43760,
+      "epk_id": "43545",
+      "label": "$$$message_0367_0003_0002$$$"
+    },
+    {
+      "en": "\"It's a grand magecraft that temporarily materializes the caster's mental world and overwrites the real world with it.\"",
+      "jp": "「なにって、術者の心象世界を具現化させて、一時的に世界のルールをねじ曲げる大魔術よ」",
+      "Pt-br": "\"É uma magia grandiosa que materializa temporariamente o mundo mental do feiticeiro e sobrescreve o mundo real com ele.\"",
+      "id": 43761,
+      "epk_id": "43546",
+      "label": "$$$message_0367_0003_0003$$$"
+    },
+    {
+      "en": "\"You just applied it to competitive hanafuda.\"",
+      "jp": "「いま、それを使って勝負形式を花札にしたじゃない」",
+      "Pt-br": "\"Você acabou de aplicar isso ao hanafuda competitivo.\"",
+      "id": 43762,
+      "epk_id": "43547",
+      "label": "$$$message_0367_0004_0000$$$"
+    },
+    {
+      "en": "\"Oh, so that's what it's called. I always use that on New Year's. It's pretty simple once you get the hang of it.\"",
+      "jp": "「あ、今のを固有結界って言うんだ。へー。わたし、お正月はいつも使ってるけどなー。コツさえ掴めばわりと簡単よ？」",
+      "Pt-br": "\"Ah, então é assim que isso se chama. Eu uso todo Ano Novo. Depois que você pega o jeito, é bem simples.\"",
+      "id": 43763,
+      "epk_id": "43548",
+      "label": "$$$message_0367_0004_0001$$$"
+    },
+    {
+      "en": "\"Really!? [l][hfchance layer=0][say storage=HSTR2A_BIR_0110 _name=ブルマイリヤ]That's so awesome!\"",
+      "jp": "「ほんと！？[l]　[hfchance layer=0][say storage=HSTR2A_BIR_0110 _name=ブルマイリヤ]すっごーい！」",
+      "Pt-br": "\"Sério!? [l][hfchance layer=0][say storage=HSTR2A_BIR_0110 _name=ブルマイリヤ]Isso é incrível!\"",
+      "id": 43764,
+      "epk_id": "43549",
+      "label": "$$$message_0367_0004_0002$$$"
+    },
+    {
+      "en": "\"I wanna use it too! I want to unfold a wonderland just the way I like it! And stuff Shirou into a world of sexy times!\"",
+      "jp": "「わたしもつかいたーい！　自分好みの不思議空間を展開したーい！　そしてラブラブな世界にシロウを引き込みたーい！」",
+      "Pt-br": "\"Eu também quero usar! Quero abrir um país das maravilhas do meu jeitinho! E jogar o Shirou num mundo cheio de coisas indecentes!\"",
+      "id": 43765,
+      "epk_id": "43550",
+      "label": "$$$message_0367_0004_0003$$$"
+    },
+    {
+      "en": "\"Wahahahahaha[line len=3][l][hffacechg chara=藤ねえ face=真剣 layer=1 time=200][hfchance layer=1][say storage=HSTR2A_TIG_0090 _name=藤ねえ]Haiyah.\"",
+      "jp": "「わははははは。[line len=3][l][hffacechg chara=藤ねえ face=真剣 layer=1 time=200][hfchance layer=1][say storage=HSTR2A_TIG_0090 _name=藤ねえ]てりゃ」",
+      "Pt-br": "\"Wahahahahaha[line len=3][l][hffacechg chara=藤ねえ face=真剣 layer=1 time=200][hfchance layer=1][say storage=HSTR2A_TIG_0090 _name=藤ねえ]Haiyah.\"",
+      "id": 43766,
+      "epk_id": "43551",
+      "label": "$$$message_0367_0004_0004$$$"
+    },
+    {
+      "en": "\"Ow! [wait canskip=0 time=300][l][hffacechg chara=ブルマイリヤ face=哀 layer=0 time=200][hfangry layer=0][say storage=HSTR2A_BIR_0150 _name=ブルマイリヤ]H-h-how dare you raise a fist to your Master!\"",
+      "jp": "「痛っ！　[wait canskip=0 time=300][l][hffacechg chara=ブルマイリヤ face=哀 layer=0 time=200][hfangry layer=0][say storage=HSTR2A_BIR_0150 _name=ブルマイリヤ]なななによタイガ、サーヴァントのクセにマスターに手を上げるなんて！」",
+      "Pt-br": "\"Ai! [wait canskip=0 time=300][l][hffacechg chara=ブルマイリヤ face=哀 layer=0 time=200][hfangry layer=0][say storage=HSTR2A_BIR_0150 _name=ブルマイリヤ]C-c-como ousa levantar a mão contra sua Mestre!\"",
+      "id": 43767,
+      "epk_id": "43552",
+      "label": "$$$message_0367_0005_0000$$$"
+    },
+    {
+      "en": "\"Master and Servants have nothing to do with a proper education.\"",
+      "jp": "「教育的指導にマスターもサーヴァントも関係ないわ」",
+      "Pt-br": "\"Mestres e Servos não têm nada a ver com boa educação.\"",
+      "id": 43768,
+      "epk_id": "43553",
+      "label": "$$$message_0367_0005_0001$$$"
+    },
+    {
+      "en": "\"Listen, Illya. You might be able to skate by because you're a loli in gym shorts, but get cocky and you'll lose it.\"",
+      "jp": "「いいことイリヤちゃん。貴方は存在自体スレスレなんだから、あんまり調子にのってると[ruby text=は]刎ねるわよ？」",
+      "Pt-br": "\"Escuta, Illya-chan. Você pode passar por isso porque é uma loli de shortinhos de ginásio, mas fique presunçosa e perderá.\"",
+      "id": 43769,
+      "epk_id": "43554",
+      "label": "$$$message_0367_0005_0002$$$"
+    },
+    {
+      "en": "\"Urgh. I'm afraid to ask what exactly I'll lose.\"[hffacechg chara=ブルマイリヤ face=うーん layer=0 time=200]",
+      "jp": "「う、何がハネ対象なのか聞けない迫力」[hffacechg chara=ブルマイリヤ face=うーん layer=0 time=200]",
+      "Pt-br": "\"Urgh. Até tenho medo de perguntar exatamente o que eu perderia.\"[hffacechg chara=ブルマイリヤ face=うーん layer=0 time=200]",
+      "id": 43770,
+      "epk_id": "43555",
+      "label": "$$$message_0367_0005_0003$$$"
+    },
+    {
+      "en": "\"...Tch. Fine, never mind for now. Can you really use a Reality Marble that simply, though?\"",
+      "jp": "「……ちぇっ、いいわ、今回は引いてあげる。それより固有結界が簡単に使えるってホント？」",
+      "Pt-br": "\"...Tsc. Tudo bem, deixa isso para depois. Mas você consegue usar uma Projeção de Realidade com essa facilidade?\"",
+      "id": 43771,
+      "epk_id": "43556",
+      "label": "$$$message_0367_0006_0000$$$"
+    },
+    {
+      "en": "\"Sure. I just swung my practice sword every day and picked it up at some point. Hm, let me think...\"",
+      "jp": "「使えるわよ？　わたし、毎日竹刀振ってたらいつのまにか使えてたもん。んー、そうねぇー」",
+      "Pt-br": "\"Claro. Eu balançava minha espada de treino todo dia e, em algum momento, peguei o jeito. Hmm, deixa eu pensar...\"",
+      "id": 43772,
+      "epk_id": "43557",
+      "label": "$$$message_0367_0006_0001$$$"
+    },
+    {
+      "en": "\"If you insist, I can consider it. Illya, if you'll become my student, then I don't mind teaching you how.\"",
+      "jp": "「どうしてもって言うなら考えてもいいかな。イリヤちゃんがぁ、わたしに弟子入りするなら教えてあげてもいいわよ？」",
+      "Pt-br": "\"Se insistir, posso considerar. Illya-chan, se você se tornar minha aluna, então não me importa ensinar você como.\"",
+      "id": 43773,
+      "epk_id": "43558",
+      "label": "$$$message_0367_0006_0002$$$"
+    },
+    {
+      "en": "\"...Gah. [l][hfchance layer=0][say storage=HSTR2A_BIR_0200 _name=ブルマイリヤ]Are you serious?\"",
+      "jp": "「[line len=3]げ。[l][hfchance layer=0][say storage=HSTR2A_BIR_0200 _name=ブルマイリヤ]マジっすか」",
+      "Pt-br": "\"...Hmm. [l][hfchance layer=0][say storage=HSTR2A_BIR_0200 _name=ブルマイリヤ]Você está falando sério?\"",
+      "id": 43774,
+      "epk_id": "43559",
+      "label": "$$$message_0367_0006_0003$$$"
+    },
+    {
+      "en": "\"...Urgh. That's terribly tempting, but I want to believe that I won't sell out my pride that easily.[lr]",
+      "jp": "「……うう、すごく魅力的だけど、簡単にプライド売り渡せない自分が好き。[lr]",
+      "Pt-br": "\"...Ugh. Isso é extremamente tentador, mas quero acreditar que não vou vender minha orgulho tão facilmente.[lr]",
+      "id": 43775,
+      "epk_id": "43560",
+      "label": "$$$message_0367_0006_0004$$$"
+    },
+    {
+      "en": "[hffacechg chara=ブルマイリヤ face=楽3 layer=0 time=200]Um. Let me think about it.\"",
+      "jp": "　[hffacechg chara=ブルマイリヤ face=楽3 layer=0 time=200]あー、それはちょっと考えさせて」",
+      "Pt-br": "[hffacechg chara=ブルマイリヤ face=楽3 layer=0 time=200]Um. Vou pensar sobre isso.\"",
+      "id": 43776,
+      "epk_id": "43561",
+      "label": "$$$message_0367_0006_0005$$$"
+    },
+    {
+      "en": "\"Boo. I thought I finally found a pupil worth training. [l][hffacechg chara=藤ねえ face=楽 layer=1 time=200][say storage=HSTR2A_TIG_0160 _name=藤ねえ]Well, feel free to come apologizing if you ever change your mind.\"",
+      "jp": "「ちぇっ。鍛え甲斐のある弟子が出来ると思ったのになあ。[l][hffacechg chara=藤ねえ face=楽 layer=1 time=200][say storage=HSTR2A_TIG_0160 _name=藤ねえ]ま、気が変わったらいつでも頭を下げに来なさい」",
+      "Pt-br": "\"Boa. Pensei que finalmente encontrara um aluno digno de ser treinado. [l][hffacechg chara=藤ねえ face=楽 layer=1 time=200][say storage=HSTR2A_TIG_0160 _name=藤ねえ]Bem, sinta-se à vontade para vir pedir desculpas se algum dia mudar de ideia.\"",
+      "id": 43777,
+      "epk_id": "43562",
+      "label": "$$$message_0367_0006_0006$$$"
+    },
+    {
+      "en": "\"Anyway, who are we fighting next?[lr]",
+      "jp": "「それよりイリヤちゃん、次の相手は誰？[lr]",
+      "Pt-br": "\"Bem, quem vamos enfrentar a seguir, Illya-chan?[lr]",
+      "id": 43778,
+      "epk_id": "43563",
+      "label": "$$$message_0367_0006_0007$$$"
+    },
+    {
+      "en": "We've finally dealt out some well-deserved punishment to Shirou...[playstop time=3000 nowait=true]\"",
+      "jp": "　とりあえず士郎には天誅を与えたけど[playstop time=3000 nowait=true][line len=2]」",
+      "Pt-br": "Agora demos finalmente uma punição bem merecida a Shirou...[playstop time=3000 nowait=true]\"",
+      "id": 43779,
+      "epk_id": "43564",
+      "label": "$$$message_0367_0006_0008$$$"
+    },
+    {
+      "en": "\"...Hehehe.\"",
+      "jp": "「………………クスクスクス」",
+      "Pt-br": "\"Hmm.\"",
+      "id": 43780,
+      "epk_id": "43565",
+      "label": "$$$message_0367_0006_0009$$$"
+    },
+    {
+      "en": "\"No need to go hunting, Ms. Fujimura.[lr]",
+      "jp": "「捜す必要はありませんよ藤村先生。[lr]",
+      "Pt-br": "\"Não precisa sair caçando, Fujimura-sensei.[lr]",
+      "id": 43781,
+      "epk_id": "43566",
+      "label": "$$$message_0367_0007_0000$$$"
+    },
+    {
+      "en": "If it's an enemy you want, I'll face you myself.\"",
+      "jp": "　敵が欲しいのなら、わたしから出て行ってさしあげます」",
+      "Pt-br": "Se quiser um inimigo, enfrentarei você sozinho.\"",
+      "id": 43782,
+      "epk_id": "43567",
+      "label": "$$$message_0367_0007_0001$$$"
+    },
+    {
+      "en": "\"W-what is this dark pressure she can't hide no matter how hard she tries...![lr]",
+      "jp": "「な、この隠しても隠しきれない暗黒のプレッシャー……！[lr]",
+      "Pt-br": "\"E-essa pressão escura que ela não consegue esconder, não importa o quanto tente...![lr]",
+      "id": 43783,
+      "epk_id": "43568",
+      "label": "$$$message_0367_0008_0000$$$"
+    },
+    {
+      "en": "[hffacechg chara=藤ねえ face=真剣2 layer=1 time=200][hfchance layer=1]It's you...!\"[nolr][p]",
+      "jp": "　[hffacechg chara=藤ねえ face=真剣2 layer=1 time=200][hfchance layer=1]おまえは[line len=3]！」[nolr][p]",
+      "Pt-br": "[hffacechg chara=藤ねえ face=真剣2 layer=1 time=200][hfchance layer=1]É você, Fuji-nee...!\"[nolr][p]",
+      "id": 43784,
+      "epk_id": "43569",
+      "label": "$$$message_0367_0008_0001$$$"
+    }
+  ]
+}

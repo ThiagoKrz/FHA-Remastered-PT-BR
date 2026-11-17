@@ -1,0 +1,928 @@
+{
+  "cena": "0cm8u754487sr1821uoj2at0lh",
+  "titulo": "Hanafuda Zero: tutorial (parte 1)",
+  "rota": "Hanafuda",
+  "arquivo": "0cm8u754487sr1821uoj2at0lh.epk_dec",
+  "linhas": [
+    {
+      "en": "\"We are legion, yet one... One, yet legion.\"",
+      "jp": "「我ら群にして個[line len=3]個にして群[line len=3]」",
+      "Pt-br": "\"Somos uma legião, porém um... Um, porém uma legião.\"",
+      "id": 45999,
+      "epk_id": "45822",
+      "label": "$$$message_0442_0000_0000$$$"
+    },
+    {
+      "en": "\"Pine, plum, cherry, wisteria, iris. The phoenix in the paulownia, the moon over the monk, the red of Miyoshino in boar, deer, and butterfly...\"",
+      "jp": "「松梅桜藤菖蒲、桐に鳳凰、坊主に月、みよしのあかよろし猪鹿蝶[line len=3]」",
+      "Pt-br": "\"Pinho, cerejeira, ameixa, wisteria, íris. O fênix na paulownia, a Lua sobre o monge, o vermelho de Miyoshino em porco, cervo e borboleta...\"",
+      "id": 46000,
+      "epk_id": "45823",
+      "label": "$$$message_0442_0000_0001$$$"
+    },
+    {
+      "en": "\"It is I, Asako: the quickest Hassan to pick up hanafuda among the Hundred Personas.\"",
+      "jp": "「百の貌のハサンの中でも花札をそらんじれば最速のハサン、アサ子です」",
+      "Pt-br": "\"Sou eu, Asako: a Hassan mais rápida em pegar hanafuda entre as Cem Personas.\"",
+      "id": 46001,
+      "epk_id": "45824",
+      "label": "$$$message_0442_0000_0002$$$"
+    },
+    {
+      "en": "\"In this tutorial, I would like to teach you about hanafuda and the unique rules of [font italic=true]Rise! Operation Super Space-Time Tiger&Shorts Hanafuda[font italic=false].\"",
+      "jp": "「皆様にはこのチュートリアルにて、花札のなんたるかと、この『とびたて！超時空トラぶる花札大作戦』独自のルールをお教えしたい」",
+      "Pt-br": "\"Neste tutorial, gostaria de ensinar sobre hanafuda e as regras únicas de [font italic=true]Rise! Operation Super Space-Time Tiger&Shorts Hanafuda[font italic=false].\"",
+      "id": 46002,
+      "epk_id": "45825",
+      "label": "$$$message_0442_0000_0003$$$"
+    },
+    {
+      "en": "\"Thank you for your time today.\"",
+      "jp": "「少しばかり時間を頂くが、よろしくお付き合い願いたく」",
+      "Pt-br": "\"Obrigado pelo seu tempo hoje.\"",
+      "id": 46003,
+      "epk_id": "45826",
+      "label": "$$$message_0442_0000_0004$$$"
+    },
+    {
+      "en": "\"I should note that my outfit [hfwww layer=2]is neither a Brazilian swimsuit, pectoral posture support, nor a Middle Eastern belly dancer costume.\"",
+      "jp": "「ちなみに私のこれ[hfwww layer=2]は、ブラジル水着でも、大胸筋矯正サポーターでもなく、中東のベリーダンス衣装なのであしからず」",
+      "Pt-br": "\"O meu traje [hfwww layer=2]não é um biquini brasileiro, um suporte para postura torácica, nem um vestido de dançarina do Oriente Médio.\"",
+      "id": 46004,
+      "epk_id": "45827",
+      "label": "$$$message_0442_0000_0005$$$"
+    },
+    {
+      "en": "\"My assistant will be another Hassan, Mini Assassin.\"",
+      "jp": "「そしてアシスタントを務めるもう一人のハサンは、ちびアサシン」",
+      "Pt-br": "\"Meu assistente será outro Hassan, Mini Assassin.\"",
+      "id": 46005,
+      "epk_id": "45828",
+      "label": "$$$message_0442_0000_0006$$$"
+    },
+    {
+      "en": "\"...\"",
+      "jp": "「……………………」",
+      "Pt-br": "\"...\"",
+      "id": 46006,
+      "epk_id": "45829",
+      "label": "$$$message_0442_0000_0007$$$"
+    },
+    {
+      "en": "\"...Mini-Asa here is a fearsome Hassan all her own, capable of delivering an instant cat-punch to painstakingly built hanafuda card towers.\"",
+      "jp": "「……このちびアサもまた、人が作った花札タワーを見るや、０秒で猫パンチという恐ろしきハサン」",
+      "Pt-br": "\"...Mini-Asa aqui é uma Hassan assustadora em si mesma, capaz de dar um soco de gato instantâneo em torres de cartas hanafuda cuidadosamente construídas.\"",
+      "id": 46007,
+      "epk_id": "45830",
+      "label": "$$$message_0442_0000_0008$$$"
+    },
+    {
+      "en": "\"She does not speak due to her tragic past... But that won't pose a problem. Show her your respect.\"",
+      "jp": "「いたましき過去から心を閉ざした彼女が言葉を発する事はなく……されど進行に支障はない。これまたあしからず」",
+      "Pt-br": "\"Ela não fala devido ao seu passado trágico... Mas isso não será um problema. Mostre-lhe seu respeito.\"",
+      "id": 46008,
+      "epk_id": "45831",
+      "label": "$$$message_0442_0000_0009$$$"
+    },
+    {
+      "en": "\"...Miss Asako, I need to go potty.\"",
+      "jp": "「……アサ子お姉ちゃん、おしっこ」",
+      "Pt-br": "\"...Onee-chan Asako, preciso ir ao banheiro.\"",
+      "id": 46009,
+      "epk_id": "45832",
+      "label": "$$$message_0442_0000_0010$$$"
+    },
+    {
+      "en": "\"I told you to go before we start! Oh...[wvl][hffacechg2 chara=アサ子 face=哀 pos=winner time=400 textclear=0][hfsweat layer=2 ox=-150 oy=30] So now you talk? Breaking character already?\"",
+      "jp": "「だから本番前に済ませなさい、って……[wvl][hffacechg2 chara=アサ子 face=哀 pos=winner time=400 textclear=0][hfsweat layer=2 ox=-150 oy=30]えー、いきなり喋りますかキャラ崩壊ですか？」",
+      "Pt-br": "\"Eu disse para ir antes de começarmos! Ah...[wvl][hffacechg2 chara=アサ子 face=哀 pos=winner time=400 textclear=0][hfsweat layer=2 ox=-150 oy=30] Então agora você fala? Já saiu do personagem?\"",
+      "id": 46010,
+      "epk_id": "45833",
+      "label": "$$$message_0442_0000_0011$$$"
+    },
+    {
+      "en": "\"F-fine, then. It's hardly an issue compared to that famished king's Cambrian explosion...\"",
+      "jp": "「ま、まあいいでしょう。某はらペコ王のカンブリア大爆発に比べればこの程度の誤差は……」",
+      "Pt-br": "\"Bem, então. É quase um problema comparado ao explosivo cambriano daquele rei faminto...\"",
+      "id": 46011,
+      "epk_id": "45834",
+      "label": "$$$message_0442_0000_0012$$$"
+    },
+    {
+      "en": "\"Miss Asako...\"",
+      "jp": "「お姉ちゃん……」",
+      "Pt-br": "\"Onee-chan Asako...\"",
+      "id": 46012,
+      "epk_id": "45835",
+      "label": "$$$message_0442_0000_0013$$$"
+    },
+    {
+      "en": "\"Go already. Make sure you wash your hands, okay? Don't just wipe them on your clothes.\"",
+      "jp": "「サッといってらっしゃい、サッと。お手々洗いなさいね。服で拭いちゃだめよ」",
+      "Pt-br": "\"Vai logo. Lave bem as mãos, certo? Nada de só limpar na roupa.\"",
+      "id": 46013,
+      "epk_id": "45836",
+      "label": "$$$message_0442_0000_0014$$$"
+    },
+    {
+      "en": "\"Okay! (totters away)\"",
+      "jp": "「はぁい（ぽてぽてぽて）」",
+      "Pt-br": "\"Certo! (sai cambaleando)\"",
+      "id": 46014,
+      "epk_id": "45837",
+      "label": "$$$message_0442_0000_0015$$$"
+    },
+    {
+      "en": "\"Now, where were we?\"",
+      "jp": "「では、あらためて[line len=3]」",
+      "Pt-br": "\"Aonde estávamos?\"",
+      "id": 46015,
+      "epk_id": "45838",
+      "label": "$$$message_0442_0000_0016$$$"
+    },
+    {
+      "en": "\"Hanafuda is a card game played with 48 cards illustrated with flora representing the twelve months.\"",
+      "jp": "「『花札』とは１月から12月の草花が描かれた、計48枚の札を使って遊ぶ、かるたの一種」",
+      "Pt-br": "\"Hanafuda é um jogo de cartas jogado com 48 cartas ilustradas com flora representando os doze meses.\"",
+      "id": 46016,
+      "epk_id": "45839",
+      "label": "$$$message_0442_0000_0017$$$"
+    },
+    {
+      "en": "\"I'm told it's based on the kai'ooi shell-matching game from the Heian period and Tenshou karuta, which was imported from the Portuguese and popularized during the Edo period...\"",
+      "jp": "「平安時代の遊戯『貝覆い』と、江戸時代に流行した天正かるたとが元になって作られたとか……」",
+      "Pt-br": "\"Dizem que é baseado no jogo de correspondência de conchas kai'ooi do período Heian e no karuta Tenshou, que foi importado dos portugueses e popularizado durante o período Edo...\"",
+      "id": 46017,
+      "epk_id": "45840",
+      "label": "$$$message_0442_0000_0018$$$"
+    },
+    {
+      "en": "\"Anyway, go read a wiki if you want to know more.\"",
+      "jp": "「まあこの辺はウィキでも読んで頂くということで」",
+      "Pt-br": "\"De qualquer forma, vai ler um wiki se quiser saber mais.\"",
+      "id": 46018,
+      "epk_id": "45841",
+      "label": "$$$message_0442_0000_0019$$$"
+    },
+    {
+      "en": "\"Wicky?\"",
+      "jp": "「うぃき？」",
+      "Pt-br": "\"Wicky?\"",
+      "id": 46019,
+      "epk_id": "45842",
+      "label": "$$$message_0442_0000_0020$$$"
+    },
+    {
+      "en": "\"Welcome back. Whoa, that was fast! [wvl][hfwww layer=2]W-w-we'll keep going, then. All right?\"",
+      "jp": "「おかえりー、って早っ。[wvl][hfwww layer=2]じゃじゃじゃじゃあ続けますからね。いいね？」",
+      "Pt-br": "\"Bem-vindo de volta. Uau, foi rápido! [wvl][hfwww layer=2]N-n-nós vamos continuar, então. Tá certo?\"",
+      "id": 46020,
+      "epk_id": "45843",
+      "label": "$$$message_0442_0000_0021$$$"
+    },
+    {
+      "en": "\"Yeah.\"",
+      "jp": "「うん」",
+      "Pt-br": "\"É.\"",
+      "id": 46021,
+      "epk_id": "45844",
+      "label": "$$$message_0442_0000_0022$$$"
+    },
+    {
+      "en": "\"First, we'll cover the most well-known way to play hanafuda: Koi-Koi. That's the basis of [font italic=true]Rise! Operation Super Space-Time Tiger&Shorts Hanafuda[font italic=false].\"",
+      "jp": "「当チュートリアルでは、まず代表的な遊び方の一つ『こいこい』について説明する。これが『とびたて！超時空トラぶる花札大作戦』の基本となる」",
+      "Pt-br": "\"Primeiro, vamos abordar a forma mais conhecida de jogar hanafuda: o Koi-Koi. É a base de [font italic=true]Rise! Operation Super Space-Time Tiger&Shorts Hanafuda[font italic=false].\"",
+      "id": 46022,
+      "epk_id": "45845",
+      "label": "$$$message_0442_0000_0023$$$"
+    },
+    {
+      "en": "\"Koi-Koi is a 2-player game. Each person plays cards and tries to build scoring hands.\"",
+      "jp": "「こいこいは２人で遊ぶゲーム。お互いに札を出し合い、複数の札を組み合わせて『役』を作る」",
+      "Pt-br": "\"Koi-Koi é um jogo de 2 jogadores. Cada pessoa joga cartas e tenta formar mãos com pontos.\"",
+      "id": 46023,
+      "epk_id": "45846",
+      "label": "$$$message_0442_0000_0024$$$"
+    },
+    {
+      "en": "\"Hands are worth various amounts of points. Players repeat matches until the victor takes all points from the other player.\"",
+      "jp": "「『役』にはそれぞれ得点があり、勝負を繰り返しながら、先に相手の持ち点すべてを奪った者が勝利する」",
+      "Pt-br": "\"As mãos valem diversos pontos. Os jogadores repetem as partidas até que o vencedor retire todos os pontos do outro jogador.\"",
+      "id": 46024,
+      "epk_id": "45847",
+      "label": "$$$message_0442_0000_0025$$$"
+    },
+    {
+      "en": "\"At least remember this common wisdom, even if you have to nap on it. Got it?\"",
+      "jp": "「この程度の常識は昼寝しながらでも憶えていただきたい。よろしいか？」",
+      "Pt-br": "\"Lembre-se ao menos disso, essa sabedoria comum, mesmo que tenha que dormir sobre ela. Entendeu?\"",
+      "id": 46025,
+      "epk_id": "45848",
+      "label": "$$$message_0442_0000_0026$$$"
+    },
+    {
+      "en": "\"(Trembles)\"",
+      "jp": "「（ぷるぷるぷる）」",
+      "Pt-br": "\"(Treme)\"",
+      "id": 46026,
+      "epk_id": "45849",
+      "label": "$$$message_0442_0000_0027$$$"
+    },
+    {
+      "en": "\"Aww. You're cute, so I'll forgive you. It's okay, you can learn as you play.\"",
+      "jp": "「うーんそっか。可愛いから許す。だいじょーぶ、やってるうちに解るからねー」",
+      "Pt-br": "\"Aww. Você é fofo, então vou te perdoar. Está tudo bem, você pode aprender enquanto brinca.\"",
+      "id": 46027,
+      "epk_id": "45850",
+      "label": "$$$message_0442_0000_0028$$$"
+    },
+    {
+      "en": "\"Now, I'll explain the topics in order.\"",
+      "jp": "「では、順を追って説明する」",
+      "Pt-br": "\"Agora, explicarei os tópicos na ordem correta.\"",
+      "id": 46028,
+      "epk_id": "45851",
+      "label": "$$$message_0442_0000_0029$$$"
+    },
+    {
+      "en": "\"The first step is to determine who the dealer is. Each player draws a card, and whoever draws the earliest month is the dealer and goes first.\"",
+      "jp": "「まず、親を決める[line len=3]最初に札を１枚引き、早い月を引いた人が親。親は先攻になる」",
+      "Pt-br": "\"O primeiro passo é determinar quem é o distribuidor. Cada jogador pega uma carta, e quem tirar o mês mais cedo será o distribuidor e começará primeiro.\"",
+      "id": 46029,
+      "epk_id": "45852",
+      "label": "$$$message_0442_0000_0030$$$"
+    },
+    {
+      "en": "\"Okay, Mini-Asa. If we draw May and November, who goes first?\"",
+      "jp": "「はい、ちびアサ。５月と11月の札を引いたら、どっちが親かな？」",
+      "Pt-br": "\"Certo, Mini-Asa. Se tirarmos Maio e Novembro, quem começa?\"",
+      "id": 46030,
+      "epk_id": "45853",
+      "label": "$$$message_0442_0000_0031$$$"
+    },
+    {
+      "en": "\"...Asako, because you're my mommy.\"",
+      "jp": "「……アサ子お姉ちゃん」",
+      "Pt-br": "\"...Asako, porque você é minha mãe, Onee-chan.\"",
+      "id": 46031,
+      "epk_id": "45854",
+      "label": "$$$message_0442_0000_0032$$$"
+    },
+    {
+      "en": "\"Whoa whoa WHOA I am not your mother. May goes first, right?\"",
+      "jp": "「いやいやいや私は親じゃないでしょ違うでしょ。５月と11月、どっちが先かなぁ？」",
+      "Pt-br": "\"Caramba caramba CARALHOO eu não sou sua mãe. May vai primeiro, certo?\"",
+      "id": 46032,
+      "epk_id": "45855",
+      "label": "$$$message_0442_0000_0033$$$"
+    },
+    {
+      "en": "\"...May?\"",
+      "jp": "「……５月ぅ？」",
+      "Pt-br": "\"...May?\"",
+      "id": 46033,
+      "epk_id": "45856",
+      "label": "$$$message_0442_0000_0034$$$"
+    },
+    {
+      "en": "\"Yeah, yeah! Whoever draws May is the dealer, so they go first.\"",
+      "jp": "「そーそーそーそ。５月の人が親で先攻になります」",
+      "Pt-br": "\"É, é! Quem desenhou o May é o dealer, então ele vai primeiro.\"",
+      "id": 46034,
+      "epk_id": "45857",
+      "label": "$$$message_0442_0000_0035$$$"
+    },
+    {
+      "en": "\"Once you know who the dealer is, it's time to deal out the cards. As for how many to deal...\"",
+      "jp": "「親が決まれば、次に札を配る。配る枚数のうちわけは[line len=3]」",
+      "Pt-br": "\"Assim que você souber quem é o dealer, é hora de distribuir as cartas. E quanto distribuir...\"",
+      "id": 46035,
+      "epk_id": "45858",
+      "label": "$$$message_0442_0000_0036$$$"
+    },
+    {
+      "en": "\"Each player is dealt 8 cards for their hand. 8 cards are placed face-up on the field. The remaining 24 go face-down to form the deck.\"",
+      "jp": "「各人の手札として、８枚。場に表にして、８枚。残り24枚は裏のまま山札となる」",
+      "Pt-br": "\"Cada jogador recebe 8 cartas para sua mão. 8 cartas são colocadas de frente para cima no campo. As restantes 24 ficam de frente para baixo para formar o baralho.\"",
+      "id": 46036,
+      "epk_id": "45859",
+      "label": "$$$message_0442_0000_0037$$$"
+    },
+    {
+      "en": "\"Once that's done, you're ready to play. So far, so good.\"",
+      "jp": "「配り終えたら準備は完了……。ここまでは簡単」",
+      "Pt-br": "\"Assim que isso estiver feito, você está pronto para jogar. Até agora, tudo bem.\"",
+      "id": 46037,
+      "epk_id": "45860",
+      "label": "$$$message_0442_0000_0038$$$"
+    },
+    {
+      "en": "\"Too easy.\"",
+      "jp": "「たわいない」",
+      "Pt-br": "\"Muito fácil.\"",
+      "id": 46038,
+      "epk_id": "45861",
+      "label": "$$$message_0442_0000_0039$$$"
+    },
+    {
+      "en": "\"Too easy.\"",
+      "jp": "「たわいない」",
+      "Pt-br": "\"Muito fácil.\"",
+      "id": 46039,
+      "epk_id": "45862",
+      "label": "$$$message_0442_0000_0040$$$"
+    },
+    {
+      "en": "\"Now the game starts. The dealer goes first.\"[skip_next_tag][br]",
+      "jp": "「ではゲーム開始。[br]　まずは先攻の親の番[line len=3]」",
+      "Pt-br": "\"Agora o jogo começa. O dealer vai primeiro.\"[skip_next_tag][br]",
+      "id": 46040,
+      "epk_id": "45863",
+      "label": "$$$message_0442_0000_0041$$$"
+    },
+    {
+      "en": "\"Play one card from your hand onto the field.\"",
+      "jp": "「手札から１枚を選んで場に出す」",
+      "Pt-br": "\"Jogue uma carta da sua mão no campo.\"",
+      "id": 46041,
+      "epk_id": "45864",
+      "label": "$$$message_0442_0000_0042$$$"
+    },
+    {
+      "en": "\"If there are any field cards of the same month, they become yours. The cards you acquire are set aside and don't go directly into your hand.\"",
+      "jp": "「このとき同じ月の札があれば自分のものに。取った札は手札には戻らず、自分の脇におく」",
+      "Pt-br": "\"Se houver quaisquer cartas de campo do mesmo mês, elas tornam-se suas. As cartas que você adquirir são colocadas de lado e não vão diretamente para sua mão.\"",
+      "id": 46042,
+      "epk_id": "45865",
+      "label": "$$$message_0442_0000_0043$$$"
+    },
+    {
+      "en": "\"Next, a card is played from the deck onto the field. [wvl canskip=false time=600][fg left=160 index=8000 top=5 time=500 storage=hf_tutorial_プレイヤーターン5 laye=4]If there are any cards of the same month, they become yours.\"",
+      "jp": "「続けて、さらに山札から１枚を引いて場に出す。[wvl canskip=false time=600][fg left=160 index=8000 top=5 time=500 storage=hf_tutorial_プレイヤーターン5 laye=4]やはり同じ月の札があれば、自分のものになる」",
+      "Pt-br": "\"Em seguida, uma carta é jogada do baralho para o campo. [wvl canskip=false time=600][fg left=160 index=8000 top=5 time=500 storage=hf_tutorial_プレイヤーターン5 laye=4]Se houver quaisquer cartas do mesmo mês, elas tornam-se suas.\"",
+      "id": 46043,
+      "epk_id": "45866",
+      "label": "$$$message_0442_0000_0044$$$"
+    },
+    {
+      "en": "\"In other words, if you're lucky, you could acquire up to 4 cards in a single turn. But you might gain nothing at all, too.\"",
+      "jp": "「つまり運がよければ、１回の手番で合計４枚の札が自分のものになる。……が、運が悪ければ１枚も得られない」",
+      "Pt-br": "\"Em outras palavras, se você for sorteado, pode adquirir até 4 cartas em um único turno. Mas também pode ganhar nada em absoluto.\"",
+      "id": 46044,
+      "epk_id": "45867",
+      "label": "$$$message_0442_0000_0045$$$"
+    },
+    {
+      "en": "\"If none of the cards from your hand or the deck share the same month as the cards on the field, they all remain on the field.\"",
+      "jp": "「出した手札、山札から引いた札、どちらも同じ月の札がなければ、場札となってそのまま残る」",
+      "Pt-br": "\"Se nenhuma das cartas em sua mão ou no baralho compartilha o mesmo mês das cartas no campo, todas permanecem no campo.\"",
+      "id": 46045,
+      "epk_id": "45868",
+      "label": "$$$message_0442_0000_0046$$$"
+    },
+    {
+      "en": "\"...Is it over yet?\"",
+      "jp": "「……おしまい？」",
+      "Pt-br": "\"...Acabou já?\"",
+      "id": 46046,
+      "epk_id": "45869",
+      "label": "$$$message_0442_0000_0047$$$"
+    },
+    {
+      "en": "\"No, not yet.\"",
+      "jp": "「いや。まだまだ」",
+      "Pt-br": "\"Não, ainda não.\"",
+      "id": 46047,
+      "epk_id": "45870",
+      "label": "$$$message_0442_0000_0048$$$"
+    },
+    {
+      "en": "\"Then we destroy them?\"",
+      "jp": "「じゃあ、こわす？」",
+      "Pt-br": "\"Então destruímos eles?\"",
+      "id": 46048,
+      "epk_id": "45871",
+      "label": "$$$message_0442_0000_0049$$$"
+    },
+    {
+      "en": "\"You won't get any points by destroying or killing the opponent.\"",
+      "jp": "「相手を壊しても殺しても、得点にはなりませんよー」",
+      "Pt-br": "\"Você não ganha pontos destruindo ou matando o oponente.\"",
+      "id": 46049,
+      "epk_id": "45872",
+      "label": "$$$message_0442_0000_0050$$$"
+    },
+    {
+      "en": "\"Simply acquiring cards doesn't earn you any points. You have to combine them into scoring hands.\"",
+      "jp": "「札を自分のものにしても、それだけで得点にはならない。必ず『役』を作る必要がある」",
+      "Pt-br": "\"Só pegar cartas não dá pontos. Você precisa combiná-las em mãos que pontuam.\"",
+      "id": 46050,
+      "epk_id": "45873",
+      "label": "$$$message_0442_0000_0051$$$"
+    },
+    {
+      "en": "\"There are a variety of combinations.\"",
+      "jp": "「役にはこれだけの種類が存在する」",
+      "Pt-br": "\"Há uma variedade de combinações.\"",
+      "id": 46051,
+      "epk_id": "45874",
+      "label": "$$$message_0442_0000_0052$$$"
+    },
+    {
+      "en": "\"It's a catalog.\"",
+      "jp": "「いちらんひょう、です」",
+      "Pt-br": "\"É um catálogo.\"",
+      "id": 46052,
+      "epk_id": "45875",
+      "label": "$$$message_0442_0000_0053$$$"
+    },
+    {
+      "en": "\"If you have any scoring hands, or are one card away from one, they'll be displayed at the bottom of the screen.\"",
+      "jp": "「『役が揃ったもの』、および『あと１枚で揃うもの』については、下に役名が表示される」",
+      "Pt-br": "\"Se tiver qualquer mão com pontuação, ou estiver uma carta abaixo de uma, elas serão exibidas na parte inferior da tela.\"",
+      "id": 46053,
+      "epk_id": "45876",
+      "label": "$$$message_0442_0000_0054$$$"
+    },
+    {
+      "en": "\"Once you complete hands using the cards you've acquired, you can call the match.\"",
+      "jp": "「取った札の中で、役が完成していれば『勝負』ができる」",
+      "Pt-br": "\"Assim que completar as mãos usando as cartas que adquiriu, pode chamar a partida.\"",
+      "id": 46054,
+      "epk_id": "45877",
+      "label": "$$$message_0442_0000_0055$$$"
+    },
+    {
+      "en": "\"...Do you have to?\"",
+      "jp": "「……しょうぶしなくても、いいの？」",
+      "Pt-br": "\"...Você tem que?\"",
+      "id": 46055,
+      "epk_id": "45878",
+      "label": "$$$message_0442_0000_0056$$$"
+    },
+    {
+      "en": "\"Nope, you can keep playing. Calling the match with a weak hand could actually put you at a disadvantage.\"",
+      "jp": "「そう。しなくとも構わない。実は弱い役で勝負をかけると、かえって不利なことがある」",
+      "Pt-br": "\"Não, você pode continuar jogando. Chamar a partida com uma mão fraca pode, na verdade, colocá-lo em desvantagem.\"",
+      "id": 46056,
+      "epk_id": "45879",
+      "label": "$$$message_0442_0000_0057$$$"
+    },
+    {
+      "en": "\"In this case, you can 'Koi-Koi' without calling the match.\"",
+      "jp": "「そんな時は、勝負をせず『こいこい』をする」",
+      "Pt-br": "\"Neste caso, você pode \"Koi-Koi\" sem chamar o combate.\"",
+      "id": 46057,
+      "epk_id": "45880",
+      "label": "$$$message_0442_0000_0058$$$"
+    },
+    {
+      "en": "\"Tweet tweet tweet, koi koi koi koi!\"",
+      "jp": "「ちっちっちっち、こーいこいこいこいこい」",
+      "Pt-br": "\"Tweet tweet tweet, koi koi koi koi!\"",
+      "id": 46058,
+      "epk_id": "45881",
+      "label": "$$$message_0442_0000_0059$$$"
+    },
+    {
+      "en": "\"Spin round and round! (makes a racket)\"",
+      "jp": "「ぐるぐるにゃあーん（どたんばたんふーっ）」",
+      "Pt-br": "\"Gira e gira! (faz barulho)\"",
+      "id": 46059,
+      "epk_id": "45882",
+      "label": "$$$message_0442_0000_0060$$$"
+    },
+    {
+      "en": "\"R-right...\"",
+      "jp": "「で、ではなく[line len=3]」",
+      "Pt-br": "\"R-right...\"",
+      "id": 46060,
+      "epk_id": "45883",
+      "label": "$$$message_0442_0000_0061$$$"
+    },
+    {
+      "en": "\"Koi-Koi can be the right move if you're aiming to build high-scoring hands and want to deal more damage to the opponent.\"",
+      "jp": "「より点数の高い役を狙い、相手に深手を負わせたい時には『こいこい』が有効だ」",
+      "Pt-br": "\"Koi-Koi pode ser a jogada certa se você quer construir mãos de alta pontuação e deseja causar mais dano ao oponente.\"",
+      "id": 46061,
+      "epk_id": "45884",
+      "label": "$$$message_0442_0000_0062$$$"
+    },
+    {
+      "en": "\"If you can't call the match because you don't have a hand, or you decide to Koi-Koi, the other player's turn begins. Everything else is done the same way, in the same order.\"",
+      "jp": "「役がそろわず勝負出来ない、あるいは『こいこい』をした場合は、子と順番を交代する。子の番でも、することは親と同じだ」",
+      "Pt-br": "\"Se você não consegue chamar o combate porque não tem uma mão, ou decide Koi-Koi, a vez do outro jogador começa. Tudo o resto é feito da mesma forma, na mesma ordem.\"",
+      "id": 46062,
+      "epk_id": "45885",
+      "label": "$$$message_0442_0000_0063$$$"
+    },
+    {
+      "en": "\"Both players continue to alternate turns until someone calls the match or runs out of hand cards.\"",
+      "jp": "「こうして、どちらかが勝負をかけるか、手札がすべて失くなるまで、交互に手番を繰り返す」",
+      "Pt-br": "\"Os jogadores continuam alternando as rodadas até que alguém declare o jogo ou esgote suas cartas de mão.\"",
+      "id": 46063,
+      "epk_id": "45886",
+      "label": "$$$message_0442_0000_0064$$$"
+    },
+    {
+      "en": "\"If you run out of hand cards without completing a scoring hand, the cards are re-dealt and the game starts over. This will happen as long as both players have points.\"",
+      "jp": "「役が完成しないまま手札が失くなったら、札をくばりなおして再開する。両方にまだ得点が残っている時も同様にして再開する」",
+      "Pt-br": "\"Se você esgotar as cartas de mão sem completar uma mão de pontuação, as cartas são re-distribuídas e o jogo começa do zero. Isso acontecerá enquanto ambos os jogadores tiverem pontos.\"",
+      "id": 46064,
+      "epk_id": "45887",
+      "label": "$$$message_0442_0000_0065$$$"
+    },
+    {
+      "en": "\"Now, in Koi-Koi, the rule is that points are counted in increments of 'mon'[line len=2]one mon, two mon...\"",
+      "jp": "「さて、このこいこいでは、持ち点を１文、２文……と数えるのが掟だ」",
+      "Pt-br": "\"Agora, no Koi-Koi, a regra é que os pontos são contados em incrementos de 'mon'[line len=2]um mon, dois mon...\"",
+      "id": 46065,
+      "epk_id": "45888",
+      "label": "$$$message_0442_0000_0066$$$"
+    },
+    {
+      "en": "\"Each player begins the game with 12 points, and the player who gets the match called on them loses points according to the challenger's hand.\"",
+      "jp": "「お互いに12文を持ってゲームを開始し、勝負を挑まれた側は、その役に応じた文数を失う」",
+      "Pt-br": "\"Cada jogador começa o jogo com 12 pontos, e o jogador que recebe o desafio perde pontos conforme a mão do desafiante.\"",
+      "id": 46066,
+      "epk_id": "45889",
+      "label": "$$$message_0442_0000_0067$$$"
+    },
+    {
+      "en": "\"The game ends once a player has zero points. The player who still has points remaining wins.\"",
+      "jp": "「どちらかの持ち点がゼロになるとゲームは終了。１文以上の得点を残したほうが勝者だ」",
+      "Pt-br": "\"O jogo termina quando um jogador atinge zero pontos. O jogador que ainda tiver pontos restantes vence.\"",
+      "id": 46067,
+      "epk_id": "45890",
+      "label": "$$$message_0442_0000_0068$$$"
+    },
+    {
+      "en": "\"...If the player who isn't the dealer manages to create a hand with the last card they gain, the match will automatically be called. Be aware of that.\"",
+      "jp": "「……仮に、子の立場で最後の１枚を取った時にちょうど役が完成したのなら、自動的に勝負となるので、そこは驚かれぬよう」",
+      "Pt-br": "\"...Se o jogador que não é o distribuidor conseguir formar uma mão com a última carta que ganhar, o jogo será automaticamente declarado. Esteja ciente disso.\"",
+      "id": 46068,
+      "epk_id": "45891",
+      "label": "$$$message_0442_0000_0069$$$"
+    },
+    {
+      "en": "\"Is that understood?\"",
+      "jp": "「ご理解されたか？」",
+      "Pt-br": "\"Isso foi entendido?\"",
+      "id": 46069,
+      "epk_id": "45892",
+      "label": "$$$message_0442_0000_0070$$$"
+    },
+    {
+      "en": "\"Too easy.\"",
+      "jp": "「たわいない」",
+      "Pt-br": "\"Muito fácil.\"",
+      "id": 46070,
+      "epk_id": "45893",
+      "label": "$$$message_0442_0000_0071$$$"
+    },
+    {
+      "en": "\"Too easy.\"",
+      "jp": "「たわいない」",
+      "Pt-br": "\"Muito fácil.\"",
+      "id": 46071,
+      "epk_id": "45894",
+      "label": "$$$message_0442_0000_0072$$$"
+    },
+    {
+      "en": "\"Now to discuss the cards themselves. In addition to the months, each card has four types:\"",
+      "jp": "「では札についてだ。札には『月』のほかに、４種類の札の区別がある」",
+      "Pt-br": "\"Agora vamos falar das cartas em si. Além dos meses, cada carta possui quatro tipos:\"",
+      "id": 46072,
+      "epk_id": "45895",
+      "label": "$$$message_0442_0000_0073$$$"
+    },
+    {
+      "en": "\"Ko, Tane, Tan, and Kasu.\"",
+      "jp": "「コウ札、タネ札、タン札、カス札の４種類」",
+      "Pt-br": "\"Ko, Tane, Tan e Kasu.\"",
+      "id": 46073,
+      "epk_id": "45896",
+      "label": "$$$message_0442_0000_0074$$$"
+    },
+    {
+      "en": "\"There are 5 Ko cards with vivid illustrations corresponding to January, March, August, November, and December.\"",
+      "jp": "「コウ札は５枚。１月、３月、８月、11月、12月に含まれる華やかな絵柄の札がそうだ」",
+      "Pt-br": "\"Há 5 cartas Ko com ilustrações vivas correspondentes a janeiro, março, agosto, novembro e dezembro.\"",
+      "id": 46074,
+      "epk_id": "45897",
+      "label": "$$$message_0442_0000_0075$$$"
+    },
+    {
+      "en": "\"You can use Ko cards to create high-scoring hands ranging from Sanko to Goko.\"",
+      "jp": "「このコウ札では、三光から五光までの、特に高得点の役が望める」",
+      "Pt-br": "\"Você pode usar as cartas Ko para criar mãos de alta pontuação, que variam desde Sanko até Goko.\"",
+      "id": 46075,
+      "epk_id": "45898",
+      "label": "$$$message_0442_0000_0076$$$"
+    },
+    {
+      "en": "\"Tane cards are illustrated mainly with animals.\"",
+      "jp": "「タネ札は、おもに動物などが描かれた札だ」",
+      "Pt-br": "\"As cartas Tane são ilustradas principalmente com animais.\"",
+      "id": 46076,
+      "epk_id": "45899",
+      "label": "$$$message_0442_0000_0077$$$"
+    },
+    {
+      "en": "\"You can create hands such as Tane or Inoshikacho with them.\"",
+      "jp": "「このタネ札では、タネや猪鹿蝶などの役が作れる」",
+      "Pt-br": "\"Você pode criar mãos como Tane ou Inoshikacho com elas.\"",
+      "id": 46077,
+      "epk_id": "45900",
+      "label": "$$$message_0442_0000_0078$$$"
+    },
+    {
+      "en": "\"Kitty, deer, butterfly?\"",
+      "jp": "「ねこしかちょう？」",
+      "Pt-br": "\"Gatos, cervos, borboletas?\"",
+      "id": 46078,
+      "epk_id": "45901",
+      "label": "$$$message_0442_0000_0079$$$"
+    },
+    {
+      "en": "\"No cats here. Sorry!\"",
+      "jp": "「猫さんはありません。ごめんねー」",
+      "Pt-br": "\"Nenhum gato aqui. Desculpe!\"",
+      "id": 46079,
+      "epk_id": "45902",
+      "label": "$$$message_0442_0000_0080$$$"
+    },
+    {
+      "en": "\"Moving on... The Tan cards have red and blue ribbons on them. They can form the Tan, Akatan, and Aotan hands.\"",
+      "jp": "「続いて[line len=3]タン札はその名の通り、赤青の短冊が描かれた札。たんや赤短、青短などの役が作れる」",
+      "Pt-br": "\"Prosseguindo... As cartas Tan têm fitas vermelhas e azuis nelas. Elas podem formar as mãos Tan, Akatan e Aotan.\"",
+      "id": 46080,
+      "epk_id": "45903",
+      "label": "$$$message_0442_0000_0081$$$"
+    },
+    {
+      "en": "\"There are three blue Ribbon cards. However, there are 3 red Ribbon cards with text, and 4 red Ribbon cards without text, for a total of 7.\"",
+      "jp": "「青いタン札は３枚。だが、赤いタン札は文字の書かれた３枚と、書かれていない４枚の、計７枚あることに注意されたい」",
+      "Pt-br": "\"Há três cartas Ribbon azuis. No entanto, há 3 cartas Ribbon vermelhas com texto e 4 cartas Ribbon vermelhas sem texto, totalizando 7.\"",
+      "id": 46081,
+      "epk_id": "45904",
+      "label": "$$$message_0442_0000_0082$$$"
+    },
+    {
+      "en": "\"Cards that are neither Ko, Tane, nor Tan cards fall under the Kasu category.\"",
+      "jp": "「以上のコウ札、タネ札、タン札のどれにもあてはまらない札が、すなわち、カス札」",
+      "Pt-br": "\"Cartas que não são Ko, Tane nem Tan caem na categoria Kasu.\"",
+      "id": 46082,
+      "epk_id": "45905",
+      "label": "$$$message_0442_0000_0083$$$"
+    },
+    {
+      "en": "\"Even among us, there are those who cannot grasp their merits...\"",
+      "jp": "「あのふだは　われらのなかでも　とりたててとりえのないふだ……」",
+      "Pt-br": "\"Mesmo entre nós, há aqueles que não conseguem compreender seus méritos...\"",
+      "id": 46083,
+      "epk_id": "45906",
+      "label": "$$$message_0442_0000_0084$$$"
+    },
+    {
+      "en": "\"Even Kasu cards can form Kasu hands.\"",
+      "jp": "「カス札でも『かす』という役がある」",
+      "Pt-br": "\"Mesmo que as cartas Kasu possam formar mãos Kasu.\"",
+      "id": 46084,
+      "epk_id": "45907",
+      "label": "$$$message_0442_0000_0085$$$"
+    },
+    {
+      "en": "\"Only a fool might try to win a battle one point at a time... a fool...[wvl canskip=false time=400][hffacechg2 chara=アサ子 face=哀 pos=winner time=400 textclear=0][hfsweat layer=2 ox=-150 oy=30][hfangry layer=2]Zayd... I'm sorry, so sorry...\"",
+      "jp": "「１点を競う勝負では、なかなか馬鹿には……馬鹿に……[wvl canskip=false time=400][hffacechg2 chara=アサ子 face=哀 pos=winner time=400 textclear=0][hfsweat layer=2 ox=-150 oy=30][hfangry layer=2]ザイードさん……スンマセンホントスンマセン……」",
+      "Pt-br": "\"Só um idiota tentaria vencer uma batalha um ponto de cada vez... um idiota...[wvl canskip=false time=400][hffacechg2 chara=アサ子 face=哀 pos=winner time=400 textclear=0][hfsweat layer=2 ox=-150 oy=30][hfangry layer=2]Zayd-san... Me desculpe, me desculpe mesmo...\"",
+      "id": 46085,
+      "epk_id": "45908",
+      "label": "$$$message_0442_0000_0086$$$"
+    },
+    {
+      "en": "\"That should do for the cards. Now let's move on to the hands.\"",
+      "jp": "「以上で札の説明を終わる。気を取り直して、次は役について」",
+      "Pt-br": "\"Isso deve resolver as cartas. Vamos agora para as mãos.\"",
+      "id": 46086,
+      "epk_id": "45909",
+      "label": "$$$message_0442_0000_0087$$$"
+    },
+    {
+      "en": "\"There are 12 scoring hands in Koi-Koi. Essentially, you can create hands by collecting the same type of card.\"",
+      "jp": "「『こいこい』には12の役がある。基本的には同じ種類の札を集めれば役になる」",
+      "Pt-br": "\"Há 12 mãos de pontuação no Koi-Koi. Em essência, você forma mãos reunindo cartas do mesmo tipo.\"",
+      "id": 46087,
+      "epk_id": "45910",
+      "label": "$$$message_0442_0000_0088$$$"
+    },
+    {
+      "en": "\"Collect Ko cards to form the Sanko, Shiko, or Goko hands.\"",
+      "jp": "「コウ札を集めれば、その枚数に応じて三光、四光、五光という役になる」",
+      "Pt-br": "\"Colete cartas Ko para formar as mãos Sanko, Shiko ou Goko.\"",
+      "id": 46088,
+      "epk_id": "45911",
+      "label": "$$$message_0442_0000_0089$$$"
+    },
+    {
+      "en": "\"Ame, the 'Rain' card, cannot be part of Sanko, and Ameshiko is worth only 7 points, instead of 8.\"",
+      "jp": "「例外として雨は三光に入れることはできず、雨四光の場合は得点が８文から１文下がって７文となる」",
+      "Pt-br": "\"Ame, a carta 'Chuva', não pode fazer parte do Sanko, e Ameshiko vale só 7 pontos, em vez de 8.\"",
+      "id": 46089,
+      "epk_id": "45912",
+      "label": "$$$message_0442_0000_0090$$$"
+    },
+    {
+      "en": "\"Ko cards can also be combined with a Tane card to form the Hanamizake and Tsukimizake hands, as you can see.\"",
+      "jp": "「また、このコウ札とタネ札を組み合わせて出来る役が、花見酒と月見酒。……見たままだな」",
+      "Pt-br": "\"As cartas Ko também podem ser combinadas com uma carta Tane para formar as mãos Hanamizake e Tsukimizake, como você pode ver.\"",
+      "id": 46090,
+      "epk_id": "45913",
+      "label": "$$$message_0442_0000_0091$$$"
+    },
+    {
+      "en": "\"Next is Inoshikacho. You can add other Tane cards to this hand to achieve an even higher score. It isn't easy, though.\"",
+      "jp": "「次に猪鹿蝶。これは他のタネ札が加わることで、さらに高得点の狙える役だ。狙っていくのはなかなか難しいが」",
+      "Pt-br": "\"Próximo é Inoshikacho. Você pode adicionar outras cartas Tane a essa mão para obter uma pontuação ainda maior. Não é fácil, porém.\"",
+      "id": 46091,
+      "epk_id": "45914",
+      "label": "$$$message_0442_0000_0092$$$"
+    },
+    {
+      "en": "\"The Akatan and Aotan hands can also be combined with other Tan cards for extra points.\"",
+      "jp": "「次に赤短、青短もやはり他のタン札が加わることで高得点になる」",
+      "Pt-br": "\"As mãos Akatan e Aotan também podem ser combinadas com outras cartas Tan para obter pontos extras.\"",
+      "id": 46092,
+      "epk_id": "45915",
+      "label": "$$$message_0442_0000_0093$$$"
+    },
+    {
+      "en": "\"Akatan requires Tan cards with text on them, so be careful. If both Aotan and Akatan are present, they are worth a total of 10 points.\"",
+      "jp": "「赤短は字の書かれた札を集める必要があるので注意されたし。青短と赤短の両方を集めた時は、合計で10文になる」",
+      "Pt-br": "\"Akatan exige cartas Tan com texto nelas, então cuidado. Se tanto Aotan quanto Akatan estiverem presentes, eles valem um total de 10 pontos.\"",
+      "id": 46093,
+      "epk_id": "45916",
+      "label": "$$$message_0442_0000_0094$$$"
+    },
+    {
+      "en": "\"Collect all five Tane cards to form the Tane hand.\"",
+      "jp": "「タネ札を５枚集めるとたねという役になる」",
+      "Pt-br": "\"Cole todas as cinco cartas Tane para formar a mão Tane.\"",
+      "id": 46094,
+      "epk_id": "45917",
+      "label": "$$$message_0442_0000_0095$$$"
+    },
+    {
+      "en": "\"Similarly, collecting any five Tan cards will form the Tan hand, even if you lack enough for Aotan or Akatan.\"",
+      "jp": "「また、赤短や青短の役にならずとも、とにかく５枚のタン札を集めればたんという役になる」",
+      "Pt-br": "\"Da mesma forma, coletar qualquer cinco cartas Tan formará a mão Tan, mesmo que você não tenha suficientes para Aotan ou Akatan.\"",
+      "id": 46095,
+      "epk_id": "45918",
+      "label": "$$$message_0442_0000_0096$$$"
+    },
+    {
+      "en": "\"For each additional card, you gain 1 extra point. With 6 cards, you get 2 points, and 7 cards give 3 points.\" ",
+      "jp": "「この役は、１枚ふえるごとに、１文プラス。６枚なら２文、７枚なら３文だね」",
+      "Pt-br": "\"Por cada carta adicional, você ganha 1 ponto extra. Com 6 cartas, você recebe 2 pontos, e 7 cartas dão 3 pontos.\"",
+      "id": 46096,
+      "epk_id": "45919",
+      "label": "$$$message_0442_0000_0097$$$"
+    },
+    {
+      "en": "\"Finally, you can form a Kasu hand by collecting 10 Kasu cards. It's only worth 1 point...\"",
+      "jp": "「最後に、カス札を10枚あつめると『かす』という役になる。得点は１文……」",
+      "Pt-br": "\"Finalmente, você pode formar uma mão de Kasu coletando 10 cartas de Kasu. Só vale 1 ponto...\"",
+      "id": 46097,
+      "epk_id": "45920",
+      "label": "$$$message_0442_0000_0098$$$"
+    },
+    {
+      "en": "\"That covers the rules of Koi-Koi. Now I'll explain how the main game [font italic=true]Rise! Operation Super Space-Time Tiger&Shorts Hanafuda[font italic=false] works.\"",
+      "jp": "「『こいこい』のルールは以上。ここからようやく本ゲーム『とびたて！超時空トラぶる花札大作戦』についての説明となる」",
+      "Pt-br": "\"Isso cobre as regras do Koi-Koi. Agora explicarei como funciona o jogo principal [font italic=true]Rise! Operation Super Space-Time Tiger&Shorts Hanafuda[font italic=false].\"",
+      "id": 46098,
+      "epk_id": "45921",
+      "label": "$$$message_0442_0000_0099$$$"
+    },
+    {
+      "en": "\"Select 'Rules' from the title screen to view detailed conditions for creating hands.\"",
+      "jp": "「役の細かな成立条件は、タイトル画面の『ルール』から選択できる」",
+      "Pt-br": "\"Selecione \"Regras\" na tela de título para visualizar as condições detalhadas para a criação das mãos.\"",
+      "id": 46099,
+      "epk_id": "45922",
+      "label": "$$$message_0442_0000_0100$$$"
+    },
+    {
+      "en": "\"Select 'Options' from the title screen to adjust your play environment.\"",
+      "jp": "「タイトル画面の『おぷしょん』を選ぶと、ゲームのプレイ環境を調整できる」",
+      "Pt-br": "\"Selecione \"Opções\" na tela de título para ajustar seu ambiente de jogo.\"",
+      "id": 46100,
+      "epk_id": "45923",
+      "label": "$$$message_0442_0000_0101$$$"
+    },
+    {
+      "en": "\"'View Hands' and 'View Cards' should be helpful as you play.\"",
+      "jp": "「『役一覧』や『札一覧』もプレイの助けになることだろう」",
+      "Pt-br": "\"'View Hands' e 'View Cards' devem ser úteis enquanto você joga.\"",
+      "id": 46101,
+      "epk_id": "45924",
+      "label": "$$$message_0442_0000_0102$$$"
+    },
+    {
+      "en": "\"Thanks for bearing with me. Now let's talk about Noble Phantasms, the most unique aspect of [font italic=true]Rise! Operation Super Space-Time Tiger&Shorts Hanafuda[font italic=false].\"",
+      "jp": "「さて、お待たせした。『とびたて！超時空トラぶる花札大作戦』最大の特徴が『宝具』の存在」",
+      "Pt-br": "\"Obrigado pela paciência. Agora vamos falar sobre Fantasmas Nobres, o elemento mais marcante de [font italic=true]Rise! Operation Super Space-Time Tiger&Shorts Hanafuda[font italic=false].\"",
+      "id": 46102,
+      "epk_id": "45925",
+      "label": "$$$message_0442_0000_0103$$$"
+    },
+    {
+      "en": "\"Noble Phantasms are ultimate moves unique to each character in this game.\"",
+      "jp": "「『宝具』とはすなわち、このゲームにおける、キャラクター固有の必殺技」",
+      "Pt-br": "\"Nobres Fantasmas são movimentos supremos únicos para cada personagem neste jogo.\"",
+      "id": 46103,
+      "epk_id": "45926",
+      "label": "$$$message_0442_0000_0104$$$"
+    },
+    {
+      "en": "\"Each team has MP that can be spent to activate Noble Phantasms, which can quickly turn the tide of battle.\"",
+      "jp": "「各チームはＭＰを保有している。このＭＰを消費することで、宝具を発動させ、戦況を大きく一変させることが可能となる」",
+      "Pt-br": "\"Cada equipe possui MP que pode ser gasto para ativar Fantasmas Nobres, que podem virar rapidamente o rumo da batalha.\"",
+      "id": 46104,
+      "epk_id": "45927",
+      "label": "$$$message_0442_0000_0105$$$"
+    },
+    {
+      "en": "\"Acquire Ko cards to increase your MP. You can't just have them in your hand. You need to play them on the field to collect them.\"",
+      "jp": "「ＭＰをふやすには、まずコウ札の獲得だ。手札に持っているだけではダメだ。一度場に出して取ること」",
+      "Pt-br": "\"Adquira cartas Ko para aumentar seu MP. Não basta tê-las na mão. Você precisa jogá-las no campo para coletá-las.\"",
+      "id": 46105,
+      "epk_id": "45928",
+      "label": "$$$message_0442_0000_0106$$$"
+    },
+    {
+      "en": "\"Additionally, each team has certain cards that increase MP, but I'll keep that a secret for now.\"",
+      "jp": "「さらに加えて、チームごとにＭＰの増加する札というものがある。が、これは内密ということにしておこう」",
+      "Pt-br": "\"Cada equipe possui certas cartas que aumentam o MP, mas eu vou manter isso em segredo por enquanto.\"",
+      "id": 46106,
+      "epk_id": "45929",
+      "label": "$$$message_0442_0000_0107$$$"
+    },
+    {
+      "en": "\"Noble Phantasms have wide-ranging effects. Select 'NP Details' from the 'Options' menu to learn more.\"",
+      "jp": "「『宝具』の効果範囲は広い。詳しくは『おぷしょん』内の『宝具詳細』を読まれたし」",
+      "Pt-br": "\"Nobres Pergaminhos têm efeitos de amplo alcance. Selecione \"Detalhes de NP\" no menu \"Opções\" para saber mais.\"",
+      "id": 46107,
+      "epk_id": "45930",
+      "label": "$$$message_0442_0000_0108$$$"
+    },
+    {
+      "en": "\"What about Mini-Asa's Noble Phantasm?\"",
+      "jp": "「ちびアサのはぁ？」",
+      "Pt-br": "\"E sobre o Fantasma Nobre de Mini-Asa?\"",
+      "id": 46108,
+      "epk_id": "45932",
+      "label": "$$$message_0442_0000_0110$$$"
+    },
+    {
+      "en": "\"Hmm. We don't have one. Actually, we're only in the tutorial this time.\"",
+      "jp": "「んー、我らの宝具はありません。ていうか今回の出番はこのチュートリアルだけかもです」",
+      "Pt-br": "\"Hmm. Não temos um. Na verdade, só estamos no tutorial dessa vez.\"",
+      "id": 46109,
+      "epk_id": "45933",
+      "label": "$$$message_0442_0000_0111$$$"
+    },
+    {
+      "en": "\"Weeeh... Why did Zayd die so quickly...\"",
+      "jp": "「ふぇ……（じわぁ）なんでザイードさんすぐしんでしまうん……」",
+      "Pt-br": "\"Weeeh... Por que Zayd-san morreu tão rápido...\"",
+      "id": 46110,
+      "epk_id": "45934",
+      "label": "$$$message_0442_0000_0112$$$"
+    },
+    {
+      "en": "\"I-I'm sure he'll get his time to shine in the fifth war! Look forward to our exploits in [font italic=true]Fate/stay night![font italic=false]\"",
+      "jp": "「だ、第五次では！　第五次ではそれなりに大活躍しますんで！　Fate/stay night本編をどうかお楽しみください！」",
+      "Pt-br": "\"Eu tenho certeza de que ele vai ter sua vez na quinta guerra! Espero ansiosamente por nossas aventuras em [font italic=true]Fate/stay night![font italic=false]\"",
+      "id": 46111,
+      "epk_id": "45935",
+      "label": "$$$message_0442_0000_0113$$$"
+    },
+    {
+      "en": "\"Let's try out a practice game, then.\"",
+      "jp": "「では気を取り直して、仕上げの実践練習といこうか」",
+      "Pt-br": "\"Vamos tentar um jogo de prática, então.\"",
+      "id": 46112,
+      "epk_id": "45936",
+      "label": "$$$message_0442_0000_0114$$$"
+    },
+    {
+      "en": "\"Okay!\"",
+      "jp": "「はぁい」",
+      "Pt-br": "\"Certo!\"",
+      "id": 46113,
+      "epk_id": "45937",
+      "label": "$$$message_0442_0000_0115$$$"
+    }
+  ]
+}

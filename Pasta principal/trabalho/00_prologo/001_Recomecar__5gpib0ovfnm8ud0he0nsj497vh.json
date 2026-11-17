@@ -1,0 +1,544 @@
+{
+  "cena": "5gpib0ovfnm8ud0he0nsj497vh",
+  "titulo": "Recomeçar",
+  "rota": "Prólogo",
+  "arquivo": "5gpib0ovfnm8ud0he0nsj497vh.epk_dec",
+  "linhas": [
+    {
+      "en": "   I had such a dream.[wait canskip=0 time=1000]",
+      "jp": "　[line len=3]そんな夢を見た。[wait canskip=0 time=1000]",
+      "Pt-br": "   Eu tive um sonho assim.[wait canskip=0 time=1000]",
+      "id": 1,
+      "epk_id": "22301",
+      "label": "$$$message_0176_0000_0000$$$"
+    },
+    {
+      "en": "It still isn't 6:00 AM when I wake up.[lr]",
+      "jp": "　目覚めれば朝の六時前。[lr]",
+      "Pt-br": "Ainda não são 6 da manhã quando acordo.[lr]",
+      "id": 2,
+      "epk_id": "22302",
+      "label": "$$$message_0176_0001_0000$$$"
+    },
+    {
+      "en": "The light filtering through the window is somewhat strong, and the air coming between the panel's seams is somewhat cold.[lr]",
+      "jp": "　窓越しの光はやや強く、隙間から差し込んでくる空気もやや冷たい。[lr]",
+      "Pt-br": "A luz que entra pela janela está um tanto forte, e o ar que entra pelas frestas do painel é bem gelado.[lr]",
+      "id": 3,
+      "epk_id": "22303",
+      "label": "$$$message_0176_0001_0001$$$"
+    },
+    {
+      "en": "\"...Damn it. I did it again.\"[lr]",
+      "jp": "「…………しまった。またやっちまった」[lr]",
+      "Pt-br": "\"...Droga. Eu fiz de novo.\"[lr]",
+      "id": 4,
+      "epk_id": "22304",
+      "label": "$$$message_0176_0001_0002$$$"
+    },
+    {
+      "en": "The summer heat is over. I remember it's already October.[lr]",
+      "jp": "　暑かった夏も過ぎ去り、気がつけばもう十月。[lr]",
+      "Pt-br": "O calor do verão acabou. Lembro que já estamos em outubro.[lr]",
+      "id": 5,
+      "epk_id": "22305",
+      "label": "$$$message_0176_0001_0003$$$"
+    },
+    {
+      "en": "It's now the season where it's uncomfortable to sleep without a blanket.",
+      "jp": "　毛布なしで眠りこけるには辛い季節になってきた。",
+      "Pt-br": "Agora é a estação onde é desconfortável dormir sem um cobertor.",
+      "id": 6,
+      "epk_id": "22306",
+      "label": "$$$message_0176_0001_0004$$$"
+    },
+    {
+      "en": "\"Last night, um...\"[lr]",
+      "jp": "「昨日の夜は、えーと[line len=3]」[lr]",
+      "Pt-br": "\"Ontem à noite, hum...\"[lr]",
+      "id": 7,
+      "epk_id": "22307",
+      "label": "$$$message_0176_0002_0000$$$"
+    },
+    {
+      "en": "I spur my not-quite-awake brain to action.[lr]",
+      "jp": "　まだ目覚めきっていない頭を動かす。[lr]",
+      "Pt-br": "Incentivo meu cérebro, ainda não totalmente desperto, a funcionar.[lr]",
+      "id": 8,
+      "epk_id": "22308",
+      "label": "$$$message_0176_0002_0001$$$"
+    },
+    {
+      "en": "Last night, I think I did maintenance on Bicycle No.1, changed the chain on Bicycle No.2, and then drifted off to sleep with nothing better to do.",
+      "jp": "　昨夜は自転車一号の手入れをして、ついでに二号のチェーンを新品に替えて、やる事がなくなったんでのんびりしていたら眠ってしまったらしい。",
+      "Pt-br": "Ontem à noite, acho que fiz manutenção na Bicicleta N°1, troquei a corrente da Bicicleta N°2, e então adormeci por não ter nada melhor para fazer.",
+      "id": 9,
+      "epk_id": "22309",
+      "label": "$$$message_0176_0002_0002$$$"
+    },
+    {
+      "en": "\"...Ow. Shouldn't have gone to sleep on the floor... It's already winter, so I need to start using the entire futon set.\"[lr]",
+      "jp": "「……いたた、さすがに地べたで寝るときついな……もうじき冬だし、布団一式運んでおかないと」[lr]",
+      "Pt-br": "\"...Ai. Não deveria ter dormido no chão... Já é inverno, então preciso começar a usar o conjunto completo do futon.\"[lr]",
+      "id": 10,
+      "epk_id": "22310",
+      "label": "$$$message_0176_0003_0000$$$"
+    },
+    {
+      "en": "I roll my shoulder and breathe.[se storage=se288.wav]",
+      "jp": "　筋張った肩を回して一息つく。[se storage=se288.wav]",
+      "Pt-br": "Giro meu ombro e respiro fundo.[se storage=se288.wav]",
+      "id": 11,
+      "epk_id": "22311",
+      "label": "$$$message_0176_0003_0001$$$"
+    },
+    {
+      "en": "Breakfast in the Emiya household begins at 6:30.[lr]",
+      "jp": "　衛宮邸の朝食は六時半から始まる。[lr]",
+      "Pt-br": "O café da manhã na residência Emiya começa às 6:30.[lr]",
+      "id": 12,
+      "epk_id": "22312",
+      "label": "$$$message_0176_0004_0000$$$"
+    },
+    {
+      "en": "There's still plenty of time until then, but only if you aren't the one cooking.[lr]",
+      "jp": "　まだ十分時間はあるが、それは食べる側の事情だ。[lr]",
+      "Pt-br": "Ainda tem bastante tempo até lá, mas apenas se você não for a pessoa que vai cozinhar.[lr]",
+      "id": 13,
+      "epk_id": "22313",
+      "label": "$$$message_0176_0004_0001$$$"
+    },
+    {
+      "en": "I have to get up at least thirty minutes before breakfast to have enough time to make it.",
+      "jp": "　朝食を準備する側はもう三十分早く起きなければいけない。",
+      "Pt-br": "Tenho que levantar pelo menos trinta minutos antes do café da manhã para ter tempo suficiente para prepará-lo.",
+      "id": 14,
+      "epk_id": "22314",
+      "label": "$$$message_0176_0004_0002$$$"
+    },
+    {
+      "en": "\"Lately, Sakura's been waking me up after she makes breakfast... When did she become someone who likes taking a guy's hobbies away from him?\"",
+      "jp": "「桜のヤツ、最近メシ作り終わってから起こしに来るんだもんなあ……まったく、いつから人の趣味を面白おかしく奪うような性格になったんだろ」",
+      "Pt-br": "\"Ultimamente, a Sakura tem me acordado depois de preparar o café da manhã... Quando foi que ela se tornou alguém que gosta de tirar os hobbies de um cara dele?\"",
+      "id": 15,
+      "epk_id": "22315",
+      "label": "$$$message_0176_0005_0000$$$"
+    },
+    {
+      "en": "It can only be her sister's influence.[lr]",
+      "jp": "　間違いなく姉の影響である。[lr]",
+      "Pt-br": "Só pode ser influência da irmã dela.[lr]",
+      "id": 16,
+      "epk_id": "22316",
+      "label": "$$$message_0176_0006_0000$$$"
+    },
+    {
+      "en": "Anyway, it means I have to get up before six if I want to make breakfast myself.[lr]",
+      "jp": "　ともかく、この家で朝食を作りたいのなら朝の六時に起きないと先を越されてしまうのだ。[lr]",
+      "Pt-br": "Enfim, isso significa que tenho que me levantar antes das seis se quiser preparar o café da manhã sozinho.[lr]",
+      "id": 17,
+      "epk_id": "22317",
+      "label": "$$$message_0176_0006_0001$$$"
+    },
+    {
+      "en": "As the man of the house[line len=2]no, as her cooking instructor, I can't let my pupil get ahead of me.",
+      "jp": "　家主として、いや師匠としてまだ弟子に席を譲る訳にはいかない。",
+      "Pt-br": "Como o homem da casa[line len=2]não, como seu instrutor de culinária, não posso deixar minha pupila me superar.",
+      "id": 18,
+      "epk_id": "22318",
+      "label": "$$$message_0176_0006_0002$$$"
+    },
+    {
+      "en": "As soon as I go into the hallway, I smell breakfast.[lr]",
+      "jp": "　縁側にあがると[ruby text=あさげ char=2]朝餉の匂いがした。[lr]",
+      "Pt-br": "Assim que chego no corredor, sinto o cheiro do café da manhã.[lr]",
+      "id": 19,
+      "epk_id": "22319",
+      "label": "$$$message_0176_0007_0000$$$"
+    },
+    {
+      "en": "I also hear the studied, rhythmic chopping of a kitchen knife.[lr]",
+      "jp": "　調子のいい包丁の音が聞こえてくる。[lr]",
+      "Pt-br": "Também ouço o som ritmado e preciso de uma faca de cozinha picando algo.[lr]",
+      "id": 20,
+      "epk_id": "22320",
+      "label": "$$$message_0176_0007_0001$$$"
+    },
+    {
+      "en": "It looks like breakfast is already eighty percent complete.",
+      "jp": "　朝食の準備は、もう八割方終わっているようだ。",
+      "Pt-br": "Parece que o café da manhã já está oitenta por cento pronto.",
+      "id": 21,
+      "epk_id": "22321",
+      "label": "$$$message_0176_0007_0002$$$"
+    },
+    {
+      "en": "It's a pleasant morning and a typical scene.[lr]",
+      "jp": "　気持ちのいい朝の、いつも通りの風景。[lr]",
+      "Pt-br": "É uma manhã agradável e uma cena típica.[lr]",
+      "id": 22,
+      "epk_id": "22322",
+      "label": "$$$message_0176_0008_0000$$$"
+    },
+    {
+      "en": "I decide to roll with it.[lr]",
+      "jp": "　それを当然のように噛みしめて、[lr]",
+      "Pt-br": "Decido apenas aceitar a situação.[lr]",
+      "id": 23,
+      "epk_id": "22323",
+      "label": "$$$message_0176_0008_0001$$$"
+    },
+    {
+      "en": "\"Oh, good morning, Shirou. You slept in a bit today.\"[lr]",
+      "jp": "「おや。おはようございますシロウ。今朝は少し寝坊ですか」[lr]",
+      "Pt-br": "\"Ah, bom dia, Shirou. Você dormiu um pouco mais hoje.\"[lr]",
+      "id": 24,
+      "epk_id": "22324",
+      "label": "$$$message_0176_0008_0002$$$"
+    },
+    {
+      "en": "I see her smile.",
+      "jp": "　彼女の笑顔を、見つめていた。",
+      "Pt-br": "Eu vejo o seu sorriso.",
+      "id": 25,
+      "epk_id": "22325",
+      "label": "$$$message_0176_0008_0003$$$"
+    },
+    {
+      "en": "\"Shirou? What's wrong? You're very quiet.[lr]",
+      "jp": "「シロウ？　どうしたのです、黙りこくって。[lr]",
+      "Pt-br": "\"Shirou? Qual é o problema? Você está bem quieto.[lr]",
+      "id": 26,
+      "epk_id": "22326",
+      "label": "$$$message_0176_0009_0000$$$"
+    },
+    {
+      "en": "Is there something on my face?\"[lr]",
+      "jp": "　私の顔に何か？」[lr]",
+      "Pt-br": "Tem alguma coisa no meu rosto?\"[lr]",
+      "id": 27,
+      "epk_id": "22327",
+      "label": "$$$message_0176_0009_0001$$$"
+    },
+    {
+      "en": "Half a year ago...[lr]",
+      "jp": "　半年前。[lr]",
+      "Pt-br": "Há meio ano...[lr]",
+      "id": 28,
+      "epk_id": "22328",
+      "label": "$$$message_0176_0009_0002$$$"
+    },
+    {
+      "en": "Something like this happened, when the weather was still cold.[lr]",
+      "jp": "　まだ寒かった頃に、こういうコトもあった。[lr]",
+      "Pt-br": "Algo assim aconteceu, quando o clima ainda estava frio.[lr]",
+      "id": 29,
+      "epk_id": "22329",
+      "label": "$$$message_0176_0009_0003$$$"
+    },
+    {
+      "en": "I...",
+      "jp": "　それを、",
+      "Pt-br": "Eu...",
+      "id": 30,
+      "epk_id": "22330",
+      "label": "$$$message_0176_0009_0004$$$"
+    },
+    {
+      "en": "\"...You look pale. [cacheimage storage=セイバー私服02c(中)][wvl][chgfg textoff=0 time=300 storage=セイバー私服02c(中)]Don't tell me you went to sleep in the shed again.[lr]",
+      "jp": "「……顔色が優れませんね。[cacheimage storage=セイバー私服02c(中)][wvl][chgfg textoff=0 time=300 storage=セイバー私服02c(中)]まったく、また土蔵で夜を明かしたのですか。[lr]",
+      "Pt-br": "\"...Você parece pálido. [cacheimage storage=セイバー私服02c(中)][wvl][chgfg textoff=0 time=300 storage=セイバー私服02c(中)]Não me diga que você foi dormir no galpão de novo.[lr]",
+      "id": 31,
+      "epk_id": "22331",
+      "label": "$$$message_0176_0010_0000$$$"
+    },
+    {
+      "en": "Shirou, I admire your dedication to your training, but only a neophyte does it to the detriment of his health.\"[lr]",
+      "jp": "　シロウ、鍛錬を欠かさぬ心構えは立派ですが、それで体を壊しては半人前だ」[lr]",
+      "Pt-br": "Shirou, eu admiro sua dedicação ao seu treinamento, mas apenas um iniciante faz isso em detrimento de sua própria saúde.\"[lr]",
+      "id": 32,
+      "epk_id": "22332",
+      "label": "$$$message_0176_0010_0001$$$"
+    },
+    {
+      "en": "Yeah. I'm still a rookie, after all.[lr]",
+      "jp": "　ああ。だって俺はまだ半人前なんだよ。[lr]",
+      "Pt-br": "É. Eu ainda sou um novato, afinal.[lr]",
+      "id": 33,
+      "epk_id": "22333",
+      "label": "$$$message_0176_0010_0002$$$"
+    },
+    {
+      "en": "It's been half a year since the Holy Grail War.[lr]",
+      "jp": "　聖杯戦争からまだ半年。[lr]",
+      "Pt-br": "Já se passou meio ano desde a Guerra do Santo Graal.[lr]",
+      "id": 34,
+      "epk_id": "22334",
+      "label": "$$$message_0176_0010_0003$$$"
+    },
+    {
+      "en": "People don't grow up that easily.",
+      "jp": "　人間、そう容易く成長はできないんだ。",
+      "Pt-br": "As pessoas não crescem tão facilmente assim.",
+      "id": 35,
+      "epk_id": "22335",
+      "label": "$$$message_0176_0010_0004$$$"
+    },
+    {
+      "en": "\"Did you hear me, Shirou? Look, now that Rin is away, I have the responsibility of looking after you.[lr]",
+      "jp": "「聞いているのですかシロウっ。いいですか、凛に留守を任されている以上、私には貴方を監督する義務がある。[lr]",
+      "Pt-br": "\"Você me ouviu, Shirou? Veja, agora que a Rin está fora, eu tenho a responsabilidade de cuidar de você.[lr]",
+      "id": 36,
+      "epk_id": "22336",
+      "label": "$$$message_0176_0011_0000$$$"
+    },
+    {
+      "en": "And I have a few thoughts about your unhealthy lifestyle.\"[lr]",
+      "jp": "　不摂生が続くようでは私にも考えがあります」[lr]",
+      "Pt-br": "E eu tenho algumas opiniões sobre esse seu estilo de vida pouco saudável.\"[lr]",
+      "id": 37,
+      "epk_id": "22337",
+      "label": "$$$message_0176_0011_0001$$$"
+    },
+    {
+      "en": "That's right.[lr]",
+      "jp": "　そうだった。[lr]",
+      "Pt-br": "É verdade.[lr]",
+      "id": 38,
+      "epk_id": "22338",
+      "label": "$$$message_0176_0011_0002$$$"
+    },
+    {
+      "en": "Tohsaka isn't here, so Saber's in charge of maintaining discipline in our house.[lr]",
+      "jp": "　遠坂がいない今、我が家の風紀はセイバーが監督しているのだった。[lr]",
+      "Pt-br": "A Tohsaka não está aqui, então a Saber está encarregada de manter a disciplina na nossa casa.[lr]",
+      "id": 39,
+      "epk_id": "22339",
+      "label": "$$$message_0176_0011_0003$$$"
+    },
+    {
+      "en": "Anyway...",
+      "jp": "　それは、ともかく。",
+      "Pt-br": "De qualquer forma...",
+      "id": 40,
+      "epk_id": "22340",
+      "label": "$$$message_0176_0011_0004$$$"
+    },
+    {
+      "en": "\"What kind of thoughts?\"[lr]",
+      "jp": "「セイバーの考えって、どんな？」[lr]",
+      "Pt-br": "\"Que tipo de opiniões?\"[lr]",
+      "id": 41,
+      "epk_id": "22341",
+      "label": "$$$message_0176_0012_0000$$$"
+    },
+    {
+      "en": "\"It's the thing you dislike most. If you can't keep verbal promises, then someone needs to be physically nearby to guide you.[lr]",
+      "jp": "「シロウが一番苦手な事を。いくら言っても守らないのですから、監督として身近で指導をするしかない。[lr]",
+      "Pt-br": "\"É sobre a coisa que você mais detesta. Se você não consegue manter promessas verbais, então alguém precisa estar fisicamente por perto para te guiar.[lr]",
+      "id": 42,
+      "epk_id": "22342",
+      "label": "$$$message_0176_0012_0001$$$"
+    },
+    {
+      "en": "If you refuse to learn your lesson, then I will start sleeping next to you, in your room.\"[lr]",
+      "jp": "　シロウが悔い改めないというのなら、今日からでも部屋をシロウの隣りに移しましょう」[lr]",
+      "Pt-br": "Se você se recusar a aprender a lição, então começarei a dormir ao seu lado, no seu quarto.\"[lr]",
+      "id": 43,
+      "epk_id": "22343",
+      "label": "$$$message_0176_0012_0002$$$"
+    },
+    {
+      "en": "\"Mrgh.\"[lr]",
+      "jp": "「む」[lr]",
+      "Pt-br": "\"Guh.\"[lr]",
+      "id": 44,
+      "epk_id": "22344",
+      "label": "$$$message_0176_0012_0003$$$"
+    },
+    {
+      "en": "She utters a terrifying suggestion with a smile.",
+      "jp": "　笑顔で恐ろしいコトを言う。",
+      "Pt-br": "Ela profere uma sugestão aterrorizante com um sorriso no rosto.",
+      "id": 45,
+      "epk_id": "22345",
+      "label": "$$$message_0176_0012_0004$$$"
+    },
+    {
+      "en": "Saber sleeps in the guesthouse's Japanese-style room.[lr]",
+      "jp": "　セイバーの部屋は離れの和室にある。[lr]",
+      "Pt-br": "A Saber dorme no quarto de estilo japonês da casa de hóspedes.[lr]",
+      "id": 46,
+      "epk_id": "22346",
+      "label": "$$$message_0176_0013_0000$$$"
+    },
+    {
+      "en": "Back when I asked her to move out of the room next to mine...[lr]",
+      "jp": "　俺の部屋の隣りから引っ越す際、[lr]",
+      "Pt-br": "Na época em que pedi para ela sair do quarto ao lado do meu...[lr]",
+      "id": 47,
+      "epk_id": "22347",
+      "label": "$$$message_0176_0013_0001$$$"
+    },
+    {
+      "en": "\"I refuse. There is no reason for me to change my lodgings.\"[lr]",
+      "jp": "「お断りします。住居を変える理由がありません」[lr]",
+      "Pt-br": "\"Eu recuso. Não há motivos para eu mudar meus aposentos.\"[lr]",
+      "id": 48,
+      "epk_id": "22348",
+      "label": "$$$message_0176_0013_0002$$$"
+    },
+    {
+      "en": "...she was pretty stubborn about it. In the end, I convinced her that a bodyguard wasn't necessary now that the war was over.",
+      "jp": "　なんて頑固ぶりを発揮したが、戦いは終わったのだし、身辺警護の必要なし、というコトで承諾してもらったのだ。",
+      "Pt-br": "...ela foi bem teimosa sobre o assunto. No fim, convenci ela de que um guarda-costas não era necessário agora que a guerra havia acabado.",
+      "id": 49,
+      "epk_id": "22349",
+      "label": "$$$message_0176_0013_0003$$$"
+    },
+    {
+      "en": "That happened a little while ago.[lr]",
+      "jp": "　それがちょっと前の話。[lr]",
+      "Pt-br": "Isso aconteceu há pouco tempo.[lr]",
+      "id": 50,
+      "epk_id": "22350",
+      "label": "$$$message_0176_0014_0000$$$"
+    },
+    {
+      "en": "Since then, I recovered the composure every healthy young man should have.",
+      "jp": "　以来、俺は健全な青年男子にふさわしき心の平穏を取り戻したのである。",
+      "Pt-br": "Desde então, recuperei a compostura que todo jovem saudável deveria ter.",
+      "id": 51,
+      "epk_id": "22351",
+      "label": "$$$message_0176_0014_0001$$$"
+    },
+    {
+      "en": "\"...I regret what I did. Starting tomorrow, I'll make sure to sleep in my bedroom.\"[lr]",
+      "jp": "「[line len=3]反省した。明日からきちんと自分の部屋で寝る」[lr]",
+      "Pt-br": "\"...Eu me arrependo do que fiz. A partir de amanhã, vou me certificar de dormir no meu quarto.\"[lr]",
+      "id": 52,
+      "epk_id": "22352",
+      "label": "$$$message_0176_0015_0000$$$"
+    },
+    {
+      "en": "\"Very good... Well, I have mixed feelings about forcing this so immediately, but it's for your own health.[lr]",
+      "jp": "「結構です。……まあ、この条件が効果[ruby text=てきめん char=2]覿面というのは私としては複雑ですが、これもシロウの健康の為。[lr]",
+      "Pt-br": "\"Muito bom... Bem, tenho sentimentos mistos sobre forçar isso de forma tão repentina, mas é pela sua própria saúde.[lr]",
+      "id": 53,
+      "epk_id": "22353",
+      "label": "$$$message_0176_0015_0001$$$"
+    },
+    {
+      "en": "While I would feel more comfortable protecting you at your side, concessions must be made to let you sleep soundly.\"",
+      "jp": "　身近で警護できないのが不安ではありますが、シロウが安眠できないのでは仕方がない」",
+      "Pt-br": "Embora eu me sentisse mais confortável te protegendo ao seu lado, concessões devem ser feitas para deixar você dormir profundamente.\"",
+      "id": 54,
+      "epk_id": "22354",
+      "label": "$$$message_0176_0015_0002$$$"
+    },
+    {
+      "en": "Saber heads off to the living room.[lr]",
+      "jp": "　セイバーはあっさりと居間に向かう。[lr]",
+      "Pt-br": "Saber se dirige para a sala de estar.[lr]",
+      "id": 55,
+      "epk_id": "22355",
+      "label": "$$$message_0176_0016_0000$$$"
+    },
+    {
+      "en": "It's only natural. Who would feel yearning for a typical morning conversation?[lr]",
+      "jp": "　当然だ。いつも通りの朝の会話に、名残を惜しむヤツはいない。[lr]",
+      "Pt-br": "É natural. Quem sentiria saudades de uma conversa matinal tão típica?[lr]",
+      "id": 56,
+      "epk_id": "22356",
+      "label": "$$$message_0176_0016_0001$$$"
+    },
+    {
+      "en": "But I forgot to greet her.[lr]",
+      "jp": "　でも、挨拶を忘れていた。[lr]",
+      "Pt-br": "Mas me esqueci de cumprimentá-la.[lr]",
+      "id": 57,
+      "epk_id": "22357",
+      "label": "$$$message_0176_0016_0002$$$"
+    },
+    {
+      "en": "I need to make sure to do that here.",
+      "jp": "　ここで、きちんと口にしておかないと。",
+      "Pt-br": "Preciso ter a certeza de fazer isso aqui.",
+      "id": 58,
+      "epk_id": "22358",
+      "label": "$$$message_0176_0016_0003$$$"
+    },
+    {
+      "en": "\"Saber.\"",
+      "jp": "「セイバー」",
+      "Pt-br": "\"Saber.\"",
+      "id": 59,
+      "epk_id": "22359",
+      "label": "$$$message_0176_0017_0000$$$"
+    },
+    {
+      "en": "\"Good morning. I hope you have a good day.\"[lr]",
+      "jp": "「おはよう。今日も一日よろしくな」[lr]",
+      "Pt-br": "\"Bom dia. Espero que você tenha um bom dia.\"[lr]",
+      "id": 60,
+      "epk_id": "22360",
+      "label": "$$$message_0176_0018_0000$$$"
+    },
+    {
+      "en": "\"Yes. You too, Shirou.\"",
+      "jp": "「はい。シロウも気をつけて」",
+      "Pt-br": "\"Sim. Você também, Shirou.\"",
+      "id": 61,
+      "epk_id": "22361",
+      "label": "$$$message_0176_0018_0001$$$"
+    },
+    {
+      "en": "I go to the living room with Saber.[lr]",
+      "jp": "　セイバーと一緒に居間へ向かう。[lr]",
+      "Pt-br": "Vou para a sala de estar junto com a Saber.[lr]",
+      "id": 62,
+      "epk_id": "22362",
+      "label": "$$$message_0176_0019_0000$$$"
+    },
+    {
+      "en": "For some reason, my vision feels foggy, [shock hmax=20 time=1200 count=5]and I rub my eyes.[lr]",
+      "jp": "　なぜだか視界がぼやけて、[shock hmax=20 time=1200 count=5]何事かと目をこする。[lr]",
+      "Pt-br": "Por algum motivo, minha visão está embaçada, [shock hmax=20 time=1200 count=5]e eu esfrego os olhos.[lr]",
+      "id": 63,
+      "epk_id": "22363",
+      "label": "$$$message_0176_0019_0001$$$"
+    },
+    {
+      "en": "\"...Huh?\"[lr]",
+      "jp": "「[line len=6]あれ」[lr]",
+      "Pt-br": "\"...Hã?\"[lr]",
+      "id": 64,
+      "epk_id": "22364",
+      "label": "$$$message_0176_0019_0002$$$"
+    },
+    {
+      "en": "My eyes are a little wet.[lr]",
+      "jp": "　少しだけ目が潤んでいた。[lr]",
+      "Pt-br": "Meus olhos estão um pouco marejados.[lr]",
+      "id": 65,
+      "epk_id": "22365",
+      "label": "$$$message_0176_0019_0003$$$"
+    },
+    {
+      "en": "It's a pleasant, typical morning I've seen countless times.[lr]",
+      "jp": "　気持ちのいい朝の、いつも通りの風景。[lr]",
+      "Pt-br": "É uma manhã agradável e típica, que já presenciei inúmeras vezes.[lr]",
+      "id": 66,
+      "epk_id": "22366",
+      "label": "$$$message_0176_0019_0004$$$"
+    },
+    {
+      "en": "I must be so happy that I yawned.",
+      "jp": "　きっと[ruby text=たいくつ char=2]幸福すぎて、あくびでもしたのだろう。",
+      "Pt-br": "Eu devo estar tão feliz a ponto de ter bocejado.",
+      "id": 67,
+      "epk_id": "22367",
+      "label": "$$$message_0176_0019_0005$$$"
+    }
+  ]
+}

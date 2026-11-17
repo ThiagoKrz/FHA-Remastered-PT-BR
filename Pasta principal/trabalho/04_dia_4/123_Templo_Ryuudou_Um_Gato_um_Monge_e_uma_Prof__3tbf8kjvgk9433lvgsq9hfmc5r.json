@@ -1,0 +1,1616 @@
+{
+  "cena": "3tbf8kjvgk9433lvgsq9hfmc5r",
+  "titulo": "Templo Ryuudou: Um Gato, um Monge e uma Professora Teimosa",
+  "rota": "Dia 4",
+  "arquivo": "3tbf8kjvgk9433lvgsq9hfmc5r.epk_dec",
+  "linhas": [
+    {
+      "en": "\"Fwaahh...\"[lr]",
+      "jp": "ããµãã¼ãâ¦â¦ã[lr]",
+      "Pt-br": "\"Fwaahh...\"[lr]",
+      "id": 18282,
+      "epk_id": "7575",
+      "label": "$$$message_0053_0000_0000$$$"
+    },
+    {
+      "en": "I stretch in the temple courtyard. It's a beautiful day.[lr]",
+      "jp": "ãè¦æ´ããã®ããå¢å\nã§ä¼¸ã³ãããã[lr]",
+      "Pt-br": "Eu me espreguiço no pátio do templo. É um dia lindo.[lr]",
+      "id": 18283,
+      "epk_id": "7576",
+      "label": "$$$message_0053_0000_0001$$$"
+    },
+    {
+      "en": "As I'm wondering what to do with the rest of my morning...[lr]",
+      "jp": "ããã¦ãååä¸­ã¯ä½ãããããã¨æ©ãã§ããã¨ã[lr]",
+      "Pt-br": "Enquanto penso no que fazer com o resto da minha manhã...[lr]",
+      "id": 18284,
+      "epk_id": "7577",
+      "label": "$$$message_0053_0000_0002$$$"
+    },
+    {
+      "en": "\"Oh, Emiyan. What's up? Here for some early morning prayer?\"[lr]",
+      "jp": "ããããã¨ãã¤ããã©ããããæããç¥é ¼ã¿ï¼ã[lr]",
+      "Pt-br": "\"Ah, Emiyan. E aí? Veio para a oração matinal?\"[lr]",
+      "id": 18285,
+      "epk_id": "7578",
+      "label": "$$$message_0053_0000_0003$$$"
+    },
+    {
+      "en": "Neko enters through the temple gate with a clatter.",
+      "jp": "ããã¡ããã¡ãã¨é³ããã¦ã¦ããã³ãããå±±éãããã£ã¦æ¥ãã",
+      "Pt-br": "A Neko-san entra pelo portão do templo fazendo barulho.",
+      "id": 18286,
+      "epk_id": "7579",
+      "label": "$$$message_0053_0000_0004$$$"
+    },
+    {
+      "en": "\"Good morning, Neko.[lr]",
+      "jp": "ããã¯ãããããã¾ããã³ããã[lr]",
+      "Pt-br": "\"Bom dia, Neko-san.[lr]",
+      "id": 18287,
+      "epk_id": "7580",
+      "label": "$$$message_0053_0001_0000$$$"
+    },
+    {
+      "en": "Um, is today...\"[lr]",
+      "jp": "ããã£ã¨ãä»æ¥ã¯[line len=3]ã[lr]",
+      "Pt-br": "Hum, por acaso hoje...\"[lr]",
+      "id": 18288,
+      "epk_id": "7581",
+      "label": "$$$message_0053_0001_0001$$$"
+    },
+    {
+      "en": "I don't need to finish the question.[lr]",
+      "jp": "ãâ¦â¦è¨ãã¾ã§ããªãã[lr]",
+      "Pt-br": "Eu não preciso terminar a pergunta.[lr]",
+      "id": 18289,
+      "epk_id": "7582",
+      "label": "$$$message_0053_0001_0002$$$"
+    },
+    {
+      "en": "Neko is hauling a large package with both hands.[lr]",
+      "jp": "ããã³ããã¯ä¸¡æã«å¤§è·ç©ãæã£ã¦ããã[lr]",
+      "Pt-br": "A Neko-san está carregando um pacote enorme com as duas mãos.[lr]",
+      "id": 18290,
+      "epk_id": "7583",
+      "label": "$$$message_0053_0001_0003$$$"
+    },
+    {
+      "en": "It's a mountain of beer bottles and sake, possibly twenty kilos' worth at a glance.",
+      "jp": "ããã£ã¨è¦ã¦ãäºåã­ã­ã¯ãããããªããã¼ã«ç¶ã¨æ¥æ¬é\nã®å±±ã§ããã",
+      "Pt-br": "É uma montanha de garrafas de cerveja e saquê, de bater o olho, acho que deve pesar uns vinte quilos.",
+      "id": 18291,
+      "epk_id": "7584",
+      "label": "$$$message_0053_0001_0004$$$"
+    },
+    {
+      "en": "\"...Did you haul all that here yourself?\"[lr]",
+      "jp": "ãâ¦â¦ãããä¸äººã§æã£ã¦ãããã§ããï¼ã[lr]",
+      "Pt-br": "\"...Você carregou tudo isso pra cá sozinha?\"[lr]",
+      "id": 18292,
+      "epk_id": "7585",
+      "label": "$$$message_0053_0002_0000$$$"
+    },
+    {
+      "en": "\"Yeah? Who else was gonna do it?[lr]",
+      "jp": "ããã ãï¼ãã ã£ã¦ã¢ã¿ã·ããããªããããã[lr]",
+      "Pt-br": "\"Sim? Quem mais faria isso?[lr]",
+      "id": 18293,
+      "epk_id": "7586",
+      "label": "$$$message_0053_0002_0001$$$"
+    },
+    {
+      "en": "It's not like we've got a delivery driver on call.\"[lr]",
+      "jp": "ããã¡ã®ã«é\néãªããã§ããã¯ã±ãªããã[lr]",
+      "Pt-br": "Não é que a gente tenha um entregador à disposição.\"[lr]",
+      "id": 18294,
+      "epk_id": "7587",
+      "label": "$$$message_0053_0002_0002$$$"
+    },
+    {
+      "en": "She looks genuinely confused that I asked.[lr]",
+      "jp": "ããªãã§ãããªã³ãèããï¼ã¨é¦ããããããã³ããã[lr]",
+      "Pt-br": "Ela parece genuinamente confusa por eu ter perguntado.[lr]",
+      "id": 18295,
+      "epk_id": "7588",
+      "label": "$$$message_0053_0002_0003$$$"
+    },
+    {
+      "en": "Maybe this is just business as usual for her.",
+      "jp": "ããããæ¥å¸¸è¶é£¯äºãªã®ããããã",
+      "Pt-br": "Talvez seja algo normal pra ela.",
+      "id": 18296,
+      "epk_id": "7589",
+      "label": "$$$message_0053_0002_0004$$$"
+    },
+    {
+      "en": "\"...Neko. Please ask me to deliver to Ryudou Temple going forward. It's too much for one person.\"[lr]",
+      "jp": "ãâ¦â¦ãã³ãããããããæ³æ´å¯ºã¸ã®é\néããã£ããä¿ºã«åãã¦ãã ãããä¸äººããã­ãã¤ã§ãããã[lr]",
+      "Pt-br": "\"...Neko-san. Por favor, de agora em diante pode me pedir pra fazer as entregas pro Templo Ryuudou. É muita coisa pra uma pessoa só.\"[lr]",
+      "id": 18297,
+      "epk_id": "7590",
+      "label": "$$$message_0053_0003_0000$$$"
+    },
+    {
+      "en": "\"That's mighty considerate of you, Emiyan.[lr]",
+      "jp": "ããããã¨ãã¤ãã¯æ°ãå©ããªãã[lr]",
+      "Pt-br": "\"Que consideração a sua, Emiyan.[lr]",
+      "id": 18298,
+      "epk_id": "7591",
+      "label": "$$$message_0053_0003_0001$$$"
+    },
+    {
+      "en": "But it's okay. I'm used to this, and lately I've been taking a car until the base of the stairs, so it's no biggie.[lr]",
+      "jp": "ããã©å¥ã«ãããããæã£ããæ\n£ãã£ãã ããæè¿ã¯ä¸ã¾ã§è»ã§æ¥ãããããæ¥½ã¡ãã[lr]",
+      "Pt-br": "Mas tudo bem. Eu tô acostumada com isso e ultimamente tenho vindo de carro até o pé da escadaria, então não é grande coisa.[lr]",
+      "id": 18299,
+      "epk_id": "7592",
+      "label": "$$$message_0053_0003_0002$$$"
+    },
+    {
+      "en": "Still, I'm happy you're so considerate. So happy that I want to give you a 10-yen raise next pay period.\"",
+      "jp": "ãããããã¢ã¿ã·ã¯ãã¼ããåã®æ°é£ããå¬ãããæ¨©éããã£ããæçµ¦ãååã¢ããããããããã",
+      "Pt-br": "Ainda assim, fico feliz por ser tão compreensivo. Tão feliz que me dá vontade de te dar um aumento de 10 ienes no próximo salário.\"",
+      "id": 18300,
+      "epk_id": "7593",
+      "label": "$$$message_0053_0003_0003$$$"
+    },
+    {
+      "en": "\"See ya,\" she says, as she walks off to the temple building.[lr]",
+      "jp": "ããããã­ã¼ãã¨ãå ã«åãããã³ããã[lr]",
+      "Pt-br": "\"Até mais,\" diz ela, indo para o salão do templo.[lr]",
+      "id": 18301,
+      "epk_id": "7594",
+      "label": "$$$message_0053_0004_0000$$$"
+    },
+    {
+      "en": "\"I'll take that. You just need to bring them to the kitchen, right?\"[lr]",
+      "jp": "ãããããã£ã¡æã¡ã¾ãããã¨ã¯å¨æ¿ã¾ã§æã£ã¦ããã ãã§ããã[lr]",
+      "Pt-br": "\"Deixa comigo. É só levar tudo pra cozinha, certo?\"[lr]",
+      "id": 18302,
+      "epk_id": "7595",
+      "label": "$$$message_0053_0004_0001$$$"
+    },
+    {
+      "en": "\"Yeah. You don't have to. [cacheimage storage=ネコ01b(中)][wvl][chgfg textoff=0 time=300 storage=ネコ01b(中)]Does make it easier on me, so okay.\"[lr]",
+      "jp": "ãããã ãã©ãå¥ã«ããã®ã«ã[cacheimage storage=ãã³01b(ä¸­)][wvl][chgfg textoff=0 time=300 storage=ãã³01b(ä¸­)]ã¾ãæ¥½ã ãããã£ãã[lr]",
+      "Pt-br": "\"É. Você não precisa. [cacheimage storage=ネコ01b(中)][wvl][chgfg textoff=0 time=300 storage=ネコ01b(中)]Embora isso facilite a minha vida, então tudo bem.\"[lr]",
+      "id": 18303,
+      "epk_id": "7596",
+      "label": "$$$message_0053_0004_0002$$$"
+    },
+    {
+      "en": "I take the case of beer to her left.",
+      "jp": "ãã§ã¯ãã¨ãã¼ã«ã±ã¼ã¹ã®å·¦ç«¯ãæã¤ã",
+      "Pt-br": "Pego a caixa de cerveja à sua esquerda.",
+      "id": 18304,
+      "epk_id": "7597",
+      "label": "$$$message_0053_0004_0003$$$"
+    },
+    {
+      "en": "\"Whoa, this is way more than twenty kilos![lr]",
+      "jp": "ããããäºåã­ã­ã©ãããããªããã³ã¬ï¼ï¼[lr]",
+      "Pt-br": "\"Uau, isso pesa bem mais que vinte quilos![lr]",
+      "id": 18305,
+      "epk_id": "7598",
+      "label": "$$$message_0053_0005_0000$$$"
+    },
+    {
+      "en": "What did you put in here, Neko!?\"[lr]",
+      "jp": "ããã³ããããªã«å\n¥ã£ã¦ãã§ããã³ã¬ï¼ã[lr]",
+      "Pt-br": "O que tem aqui dentro, Neko-san!?\"[lr]",
+      "id": 18306,
+      "epk_id": "7599",
+      "label": "$$$message_0053_0005_0001$$$"
+    },
+    {
+      "en": "\"We run a bar, remember? Beer, nihonshu, whisky, brandy... Oh, they ordered some laojiu, too.[lr]",
+      "jp": "ããªã«ã£ã¦ããã¡ã¯é\nå±ã§ããããã¼ã«æ¥æ¬é\nã¦ã¤ã¹ã­ã¼ã«ãã©ã³ãã¼ãããèé\nãé ¼ã¾ãããã[lr]",
+      "Pt-br": "\"Nós somos donos de um bar, não lembra? Cerveja, nihonshu, uísque, conhaque... Ah, eles pediram um pouco de laojiu também.[lr]",
+      "id": 18307,
+      "epk_id": "7600",
+      "label": "$$$message_0053_0005_0002$$$"
+    },
+    {
+      "en": "The trick is to carry no more than your body weight. That way you can spread the weight easily, and even a girl like me can manage with a bit of effort.\"",
+      "jp": "ãã³ãããã£ã¦ã­ãä¸äººã§æã¤åã«ã¯èªåã®ä½éãããã¾ã§ã¯æã¦ããããã§ãæ¯ç¹ãåæ£ããã¨ããã®éãã¢ã¿ã·ãã¡ããè¾ãã",
+      "Pt-br": "O truque é nunca carregar mais que o próprio peso do seu corpo. Dessa forma, você consegue distribuir o peso com facilidade e até mesmo uma garota como eu consegue dar conta com um pouco de esforço.\"",
+      "id": 18308,
+      "epk_id": "7601",
+      "label": "$$$message_0053_0005_0003$$$"
+    },
+    {
+      "en": "Chatting side by side, we head for the temple kitchen.[lr]",
+      "jp": "ããããããããã¨äºäººãã¦æ¨ªæ­©ãã§å¨æ¿ã«åããã[lr]",
+      "Pt-br": "Seguimos lado a lado, conversando, até a cozinha do templo.[lr]",
+      "id": 18309,
+      "epk_id": "7602",
+      "label": "$$$message_0053_0006_0000$$$"
+    },
+    {
+      "en": "From afar, we might resemble crabs.",
+      "jp": "ãé ãããè¦ããã«ãã«è¦ãããããããªãã",
+      "Pt-br": "De longe, devíamos estar parecendo dois caranguejos.",
+      "id": 18310,
+      "epk_id": "7603",
+      "label": "$$$message_0053_0006_0001$$$"
+    },
+    {
+      "en": "We set our load down in the kitchen.[lr]",
+      "jp": "ãå¯ºã®å¨æ¿ã«è·ç©ãç½®ãã[lr]",
+      "Pt-br": "Deixamos a nossa carga na cozinha.[lr]",
+      "id": 18311,
+      "epk_id": "7604",
+      "label": "$$$message_0053_0007_0000$$$"
+    },
+    {
+      "en": "\"Good work. Thanks, Emiyan.\"[lr]",
+      "jp": "ããç²ãããããããã¨ã­ãã¨ãã¤ãã[lr]",
+      "Pt-br": "\"Bom trabalho. Valeu, Emiyan.\"[lr]",
+      "id": 18312,
+      "epk_id": "7605",
+      "label": "$$$message_0053_0007_0001$$$"
+    },
+    {
+      "en": "\"You're welcome... Wait, this isn't the whole delivery, is it? If you came by car, there's probably more in the trunk.\"[lr]",
+      "jp": "ãã©ããããã¾ãã¦ãâ¦â¦ã¨ãè·ç©ããã ããããªãã§ãããè»ã§æ¥ãããªããã¾ã è·å°ã«ããããããªãã§ããï¼ã[lr]",
+      "Pt-br": "\"De nada... Espera, essa não é a entrega inteira, né? Se você veio de carro, provavelmente tem mais no porta-malas.\"[lr]",
+      "id": 18313,
+      "epk_id": "7606",
+      "label": "$$$message_0053_0007_0002$$$"
+    },
+    {
+      "en": "\"Yep, there is. Two more just like these.\"[lr]",
+      "jp": "ããããããããããã¨åãã®ããã¨äºã¤ã[lr]",
+      "Pt-br": "\"Sim, tem. Mais duas caixas iguaizinhas a essas.\"[lr]",
+      "id": 18314,
+      "epk_id": "7607",
+      "label": "$$$message_0053_0007_0003$$$"
+    },
+    {
+      "en": "\"...I'll help.[lr]",
+      "jp": "ã[line len=3]æä¼ãã¾ãã[lr]",
+      "Pt-br": "\"...Eu ajudo.[lr]",
+      "id": 18315,
+      "epk_id": "7608",
+      "label": "$$$message_0053_0007_0004$$$"
+    },
+    {
+      "en": "Do you always handle it like this, though? Furumi could just ask someone from the temple to pick it up.\"",
+      "jp": "ãã¨ããããæ®æ®µããããªãã§ããï¼ãå¤æµ·ããã¨ãããå¯ºã®äººã«åãã«æ¥ã¦ãããã°ããã®ã«ã",
+      "Pt-br": "Mas, é sempre assim que você lida com as coisas? O Furumi poderia simplesmente pedir pra alguém do templo buscar.\"",
+      "id": 18316,
+      "epk_id": "7609",
+      "label": "$$$message_0053_0007_0005$$$"
+    },
+    {
+      "en": "\"It wouldn't be a good look to ask them.[lr]",
+      "jp": "ããå¯ºã«é ¼ãã®ã¯ã¾ãããªãã[lr]",
+      "Pt-br": "\"Não pegaria bem pedir a eles.[lr]",
+      "id": 18317,
+      "epk_id": "7610",
+      "label": "$$$message_0053_0008_0000$$$"
+    },
+    {
+      "en": "The temple monks feel awkward going out to buy alcohol themselves. It would be like Elliot Ness going on a bender. Drinking that much would ruin the taste of the liquor, too.\"[lr]",
+      "jp": "ãå¯ºã®åä¸»ãããèªåããé\nãåãã«æ¥ã¡ãã¾ããã§ãããã¨ãªãªããã»ãã¹ãããé\nãããããã¾ãããããããããããé\nã¯ä¸å³ããã­ã[lr]",
+      "Pt-br": "Os monges do templo se sentem meio mal ao sair pra comprar álcool. Seria tipo ver o Elliot Ness numa bebedeira. Sem falar que beber tanto assim também estragaria o sabor da bebida.\"[lr]",
+      "id": 18318,
+      "epk_id": "7611",
+      "label": "$$$message_0053_0008_0001$$$"
+    },
+    {
+      "en": "Neko cackles.[lr]",
+      "jp": "ãã±ã©ã±ã©ã¨ç¬ããã³ããã[lr]",
+      "Pt-br": "A Neko-san solta uma gargalhada.[lr]",
+      "id": 18319,
+      "epk_id": "7612",
+      "label": "$$$message_0053_0008_0002$$$"
+    },
+    {
+      "en": "Now that she mentions it, they aren't supposed to consume alcohol here.",
+      "jp": "ãè¨ããã¦è¦ãã°ãããã¯ç¦é\næ³ã®ä¸çãªã®ã ã£ãã",
+      "Pt-br": "Agora que ela mencionou, eles não devem consumir bebidas alcoólicas por aqui.",
+      "id": 18320,
+      "epk_id": "7613",
+      "label": "$$$message_0053_0008_0003$$$"
+    },
+    {
+      "en": "\"...Haah. Why don't we get Issei's permission to build a railcar? It shouldn't be too hard to make one that can carry things from the parking lot to the gate.\"[lr]",
+      "jp": "ãâ¦â¦ã¯ããä»åº¦ä¸æã«è¨±å¯ããã£ã¦ã¬ã¼ã«ã«ã¼ã§ãä½ãã¾ããããï¼ãç°¡åãªè·ç©ãéã¶ããããªããé§è»å ´ããå±±éã¾ã§éãã¾ããã[lr]",
+      "Pt-br": "\"...Haah. Por que não pedimos a permissão do Issei pra construir um carrinho elétrico? Não deve ser tão difícil de fazer um que transporte as coisas do estacionamento até o portão.\"[lr]",
+      "id": 18321,
+      "epk_id": "7614",
+      "label": "$$$message_0053_0009_0000$$$"
+    },
+    {
+      "en": "\"A railcar? Sounds cool! But won't that look bad to visitors if it goes right up to the gate?\"[lr]",
+      "jp": "ãã¬ã¼ã«ã«ã¼ã£ã¦ããããã«ãã³ã¤ã¤ãªãããã©å±±éã«ããããã®ãã£ãããåæå®¢ãé¡ããããããããªãï¼ã[lr]",
+      "Pt-br": "\"Um carrinho elétrico? Parece legal! Mas não pegaria mal pros visitantes verem isso indo direto pro portão?\"[lr]",
+      "id": 18322,
+      "epk_id": "7615",
+      "label": "$$$message_0053_0009_0001$$$"
+    },
+    {
+      "en": "\"We'll build it through the forest so it goes around to the rear gate.\"",
+      "jp": "ããã¡ããæ£®ã®ä¸­ã«ä½ããã§ããæ³æ´å¯ºã®è£éã«çãããã«ã",
+      "Pt-br": "\"Nós construiríamos pela floresta, para dar a volta até o portão dos fundos.\"",
+      "id": 18323,
+      "epk_id": "7616",
+      "label": "$$$message_0053_0009_0002$$$"
+    },
+    {
+      "en": "\"Wow. You're full of little tricks.[lr]",
+      "jp": "ãããããããã¨æªå·§ã¿å¥½ããªãã ã[lr]",
+      "Pt-br": "\"Uau. Você é cheio de truquezinhos.[lr]",
+      "id": 18324,
+      "epk_id": "7617",
+      "label": "$$$message_0053_0010_0000$$$"
+    },
+    {
+      "en": "That does sound nice, like a little freight trolley. I don't really mind either way, but it would help the granny who runs the rice store.\"[lr]",
+      "jp": "ããã©ãæ£®ã«èµ°ãã¬ã¼ã«ã«ã¼ã£ã¦ã®ã¯ããã­ããã­ãã³ã¿ããã§é¢¨æ\nããããã¾ããã¢ã¿ã·ã«ã¯ã©ãã§ããããã©ãç²¾ç±³åºã®ãã°ã¡ããã¨ãå©ããã ããã­ã[lr]",
+      "Pt-br": "Isso até que soa bem legal, como um pequeno vagão de carga. Eu não me importo de um jeito ou de outro, mas isso com certeza ajudaria a vovó da loja de arroz.\"[lr]",
+      "id": 18325,
+      "epk_id": "7618",
+      "label": "$$$message_0053_0010_0001$$$"
+    },
+    {
+      "en": "...Hm.[lr]",
+      "jp": "ãâ¦â¦ããã[lr]",
+      "Pt-br": "...Hm.[lr]",
+      "id": 18326,
+      "epk_id": "7619",
+      "label": "$$$message_0053_0010_0002$$$"
+    },
+    {
+      "en": "It sounds like Neko isn't too interested in modernizing her delivery system.",
+      "jp": "ããã³ããã¯ããã¾ãè·ç©éã³ã®è¿ä»£åã«ã¯èå³ããªãæ§å­ã",
+      "Pt-br": "A Neko-san não parece muito interessada em modernizar o sistema de entregas dela.",
+      "id": 18327,
+      "epk_id": "7620",
+      "label": "$$$message_0053_0010_0003$$$"
+    },
+    {
+      "en": "\"I think we can get it done in one more trip. Let's hop to it!\"[lr]",
+      "jp": "ãã¾ããã¨ãã¤ããæä¼ã£ã¦ããããªããã¨ä¸å¾å¾©ã ã­ãäºäººã§ä»²è¯ãéã¼ã£ãã[lr]",
+      "Pt-br": "\"Acho que a gente resolve em mais uma viagem. Bora!\"[lr]",
+      "id": 18328,
+      "epk_id": "7621",
+      "label": "$$$message_0053_0011_0000$$$"
+    },
+    {
+      "en": "\"Not two trips?\"[lr]",
+      "jp": "ãäºå¾å¾©ãããªãï¼ã[lr]",
+      "Pt-br": "\"Não seriam duas viagens?\"[lr]",
+      "id": 18329,
+      "epk_id": "7622",
+      "label": "$$$message_0053_0011_0001$$$"
+    },
+    {
+      "en": "\"Nope. We'll each take a load.[lr]",
+      "jp": "ããã ããã¢ã¿ã·ãä¸ã¤ãã¨ãã¤ããä¸ã¤ã§ãä¸å¾å¾©ã[lr]",
+      "Pt-br": "\"Não. Vamos levar uma caixa cada.[lr]",
+      "id": 18330,
+      "epk_id": "7623",
+      "label": "$$$message_0053_0011_0002$$$"
+    },
+    {
+      "en": "Thirty kilos is no big deal for you, is it?\"[lr]",
+      "jp": "ãä¸åã­ã­ç¨åº¦ãã¨ãã¤ãæ¥½åã§ããï¼ã[lr]",
+      "Pt-br": "Trinta quilos não é nada pra você, né?\"[lr]",
+      "id": 18331,
+      "epk_id": "7624",
+      "label": "$$$message_0053_0011_0003$$$"
+    },
+    {
+      "en": "\"...I can handle the weight, at least.\"",
+      "jp": "ãâ¦â¦ã¾ããç´ç²ãªéãã ããªãã",
+      "Pt-br": "\"...O peso eu consigo aguentar, pelo menos.\"",
+      "id": 18332,
+      "epk_id": "7625",
+      "label": "$$$message_0053_0011_0004$$$"
+    },
+    {
+      "en": "But the packages are big enough for the need to wrap both arms around to hold.[lr]",
+      "jp": "ããããç©ã¯ä¸¡æã§æ±ãããããã»ã©ã®å¤§è·ç©ã[lr]",
+      "Pt-br": "Mas os pacotes são tão grandes que precisa dar a volta com os dois braços para segurá-los.[lr]",
+      "id": 18333,
+      "epk_id": "7626",
+      "label": "$$$message_0053_0012_0000$$$"
+    },
+    {
+      "en": "And we've got to climb that hellish set of stairs, too.[lr]",
+      "jp": "ããããã¦æ³æ´å¯ºã®å°çã®éæ®µã§ããã[lr]",
+      "Pt-br": "E ainda temos que subir aquele lance de escadas infernal.[lr]",
+      "id": 18334,
+      "epk_id": "7627",
+      "label": "$$$message_0053_0012_0001$$$"
+    },
+    {
+      "en": "...Actually, this would explain why Neko's always seemed unusually muscular.",
+      "jp": "ãâ¦â¦ãªãã»ã©ããã³ãããå¦ã«è\nåãããªãã£ã¦æã£ããã©ãããããä¸å°ããã£ãã®ãâ¦â¦",
+      "Pt-br": "...Bem, pelo menos isso explica por que a Neko-san sempre me pareceu tão musculosa.",
+      "id": 18335,
+      "epk_id": "7628",
+      "label": "$$$message_0053_0012_0002$$$"
+    },
+    {
+      "en": "\"...?\"[lr]",
+      "jp": "ãâ¦â¦ï¼ã[lr]",
+      "Pt-br": "\"...?\"[lr]",
+      "id": 18336,
+      "epk_id": "7629",
+      "label": "$$$message_0053_0013_0000$$$"
+    },
+    {
+      "en": "While on the way back to the temple courtyard from the kitchen,[lr]",
+      "jp": "ãå¨æ¿ããå¢å\nã«åããéä¸­ã[lr]",
+      "Pt-br": "Enquanto voltamos pro pátio do templo, vindo da cozinha,[lr]",
+      "id": 18337,
+      "epk_id": "7630",
+      "label": "$$$message_0053_0013_0001$$$"
+    },
+    {
+      "en": "we come across something unbelievable.",
+      "jp": "ãå¯ºã®è£ã§ãã¨ãã§ããªããã®ãè¦ã¦ãã¾ã£ãã",
+      "Pt-br": "nos deparamos com uma cena inacreditável.",
+      "id": 18338,
+      "epk_id": "7631",
+      "label": "$$$message_0053_0013_0002$$$"
+    },
+    {
+      "en": "Fist violently meets fist.[lr]",
+      "jp": "ãæ¿çªããæ³ã¨æ³ã[lr]",
+      "Pt-br": "Punhos se chocando violentamente.[lr]",
+      "id": 18339,
+      "epk_id": "7632",
+      "label": "$$$message_0053_0014_0000$$$"
+    },
+    {
+      "en": "Two tall figures clash quietly yet swiftly.[lr]",
+      "jp": "ãéãã«ããããè¿\néã«äº¤å·®ããäºã¤ã®é·èº«ã[lr]",
+      "Pt-br": "Duas figuras altas se enfrentando de maneira silenciosa, porém veloz.[lr]",
+      "id": 18340,
+      "epk_id": "7633",
+      "label": "$$$message_0053_0014_0001$$$"
+    },
+    {
+      "en": "An incredible sparring match is happening in the rear garden.",
+      "jp": "ãè£åº­ã§ããªã«ããã¨ãã§ããªãçµã¿æãè¡ããã¦ããã",
+      "Pt-br": "Uma incrível luta de treino acontecendo no jardim dos fundos.",
+      "id": 18341,
+      "epk_id": "7634",
+      "label": "$$$message_0053_0014_0002$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "ã[line len=6]ã[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 18342,
+      "epk_id": "7635",
+      "label": "$$$message_0053_0015_0000$$$"
+    },
+    {
+      "en": "Neko is awestruck.[lr]",
+      "jp": "ãã½ãã¼ããã¨ãã®å\næ¯ãçºãããã³ããã[lr]",
+      "Pt-br": "A Neko-san fica embasbacada.[lr]",
+      "id": 18343,
+      "epk_id": "7636",
+      "label": "$$$message_0053_0015_0001$$$"
+    },
+    {
+      "en": "It's only to be expected.[lr]",
+      "jp": "ãç¡çããªãã[lr]",
+      "Pt-br": "É de se esperar.[lr]",
+      "id": 18344,
+      "epk_id": "7637",
+      "label": "$$$message_0053_0015_0002$$$"
+    },
+    {
+      "en": "[font italic=true]He's[font italic=false] one of the sparrers.[lr]",
+      "jp": "ãçµã¿æãè¡ã£ã¦ããä¸æ¹ã¯ãã®ã[lr]",
+      "Pt-br": "[font italic=true]Ele[font italic=false] é um dos lutadores.[lr]",
+      "id": 18345,
+      "epk_id": "7638",
+      "label": "$$$message_0053_0015_0003$$$"
+    },
+    {
+      "en": "Even if there were unique conditions that made it possible, in our first battle, Souichirou Kuzuki held his own, barehanded, against a Servant.",
+      "jp": "ãåæ¦ã ããã¨ããéå®æ¡ä»¶ä»ãã§ã¯ããããç´ æã§ãµã¼ã´ã¡ã³ãã¨æ¸¡ãåããèæ¨å®ä¸éãªã®ã ã",
+      "Pt-br": "Mesmo com condições tão únicas a seu favor, em nossa primeira batalha, Kuzuki Souichirou conseguiu lutar de igual para igual, de mãos nuas, contra uma Serva.",
+      "id": 18346,
+      "epk_id": "7639",
+      "label": "$$$message_0053_0015_0004$$$"
+    },
+    {
+      "en": "\"Hm. That's enough![lr]",
+      "jp": "ãããããã¾ã§ï¼[lr]",
+      "Pt-br": "\"Hm. Já chega![lr]",
+      "id": 18347,
+      "epk_id": "7640",
+      "label": "$$$message_0053_0016_0000$$$"
+    },
+    {
+      "en": "I must say, that was terrifying, Souichirou, even if you were pulling your punches.\"[lr]",
+      "jp": "ããããã¾ãã£ããå¯¸æ­¢ãã¨ã¯ããæããã®ã¯æããªããå®ä¸éæ®¿ã[lr]",
+      "Pt-br": "Devo dizer que isso foi assustador, Souichirou, mesmo você segurando a sua força.\"[lr]",
+      "id": 18348,
+      "epk_id": "7641",
+      "label": "$$$message_0053_0016_0001$$$"
+    },
+    {
+      "en": "\"...I had a strong opponent.[lr]",
+      "jp": "ãâ¦â¦å¾¡åã[ruby text=ããã]å¼·ãã ãªã[lr]",
+      "Pt-br": "\"...Eu lutei contra um oponente forte.[lr]",
+      "id": 18349,
+      "epk_id": "7642",
+      "label": "$$$message_0053_0016_0002$$$"
+    },
+    {
+      "en": "While I did restrain myself, you didn't at all. Next time, consider stopping once you grab hold of my sleeve.\"",
+      "jp": "ããã¡ãã¯å¯¸æ­¢ãã ãããã¡ãã¯å¯¸æ­¢ããä½ããªããæ¬¡ããã¯è¥ãæ´ãã æç¹ã§æ­¢ãããã¨ããã®ã¯ã©ããã",
+      "Pt-br": "Embora eu tenha me contido, você não se conteve nem um pouco. Da próxima vez, considere parar assim que agarrar a minha manga.\"",
+      "id": 18350,
+      "epk_id": "7643",
+      "label": "$$$message_0053_0016_0003$$$"
+    },
+    {
+      "en": "The two men straighten their clothes as they talk.[lr]",
+      "jp": "ãè¡£ãæ­£ããªããè©±ãåãäºäººçµã[lr]",
+      "Pt-br": "Os dois homens ajeitam as suas roupas enquanto conversam.[lr]",
+      "id": 18351,
+      "epk_id": "7644",
+      "label": "$$$message_0053_0017_0000$$$"
+    },
+    {
+      "en": "One is Kuzuki. The other is...[lr]",
+      "jp": "ãä¸äººã¯èæ¨ãããã¦ããä¸äººã¯ã[lr]",
+      "Pt-br": "Um deles é o Kuzuki. O outro é...[lr]",
+      "id": 18352,
+      "epk_id": "7645",
+      "label": "$$$message_0053_0017_0001$$$"
+    },
+    {
+      "en": "\"Oh, good morning,[lr]",
+      "jp": "ãããããã¯ããã[lr]",
+      "Pt-br": "\"Ah, bom dia,[lr]",
+      "id": 18353,
+      "epk_id": "7646",
+      "label": "$$$message_0053_0017_0002$$$"
+    },
+    {
+      "en": "Shirou, Neko. I don't see you two together often.\"[lr]",
+      "jp": "ãå£«éããã¨ãã³ããã¨ã¯çããçµã¿åããã ã[lr]",
+      "Pt-br": "Shirou-kun, Neko-kun. Não vejo vocês dois juntos com frequência.\"[lr]",
+      "id": 18354,
+      "epk_id": "7647",
+      "label": "$$$message_0053_0017_0003$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "ãâ¦â¦â¦â¦â¦â¦ã[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 18355,
+      "epk_id": "7648",
+      "label": "$$$message_0053_0017_0004$$$"
+    },
+    {
+      "en": "...I think we make a perfectly normal duo, compared to you two.",
+      "jp": "ãâ¦â¦ããã[ruby text=ãã¡ã char=2]ä¸¡åã«æ¯ã¹ãã°ããã£ã¦æ®éã ã¨èªè² ãã¦ããã¾ãã",
+      "Pt-br": "...Comparados a vocês dois, a nossa dupla é perfeitamente normal.",
+      "id": 18356,
+      "epk_id": "7649",
+      "label": "$$$message_0053_0017_0005$$$"
+    },
+    {
+      "en": "\"Good morning, Reikan, Mr. Kuzuki.[lr]",
+      "jp": "ããã¯ãããããã¾ããé¶è¦³ãããèæ¨å\nçã[lr]",
+      "Pt-br": "\"Bom dia, Reikan-san, Kuzuki-sensei.[lr]",
+      "id": 18357,
+      "epk_id": "7650",
+      "label": "$$$message_0053_0018_0000$$$"
+    },
+    {
+      "en": "Were you...sparring?\"[lr]",
+      "jp": "ãâ¦â¦ã§ãä»ã®ã¯ããã®â¦â¦çµã¿æãã§ããï¼ã[lr]",
+      "Pt-br": "Vocês estavam... lutando?\"[lr]",
+      "id": 18358,
+      "epk_id": "7651",
+      "label": "$$$message_0053_0018_0001$$$"
+    },
+    {
+      "en": "\"No, more like playing at it.[lr]",
+      "jp": "ãããããã®çä¼¼äºããªã[lr]",
+      "Pt-br": "\"Não, foi mais como uma brincadeira.[lr]",
+      "id": 18359,
+      "epk_id": "7652",
+      "label": "$$$message_0053_0018_0002$$$"
+    },
+    {
+      "en": "I was dead serious, but Souichirou was pulling his punches just before hitting me. It looks like I'll need to train another ten years before I'm ready to spar with him.\"",
+      "jp": "ãç§ã¯æ¬æ°ã ããå®ä¸éæ®¿ã¯å¯¸åã§æ­¢ãã¦ãã¾ãããã®ã§ãªãçµã¿æã«ãªãã®ã¯ããã¦ãæå§ããã¨åå¹´ã»ã©ä¿®è¡ããå¾ã§ãããã",
+      "Pt-br": "Eu estava falando seríssimo, mas Souichirou segurava os golpes bem antes de me acertar. Desse jeito, vou precisar treinar mais uns dez anos antes de estar pronto pra um combate com ele.\"",
+      "id": 18360,
+      "epk_id": "7653",
+      "label": "$$$message_0053_0018_0003$$$"
+    },
+    {
+      "en": "Reikan gives me a hearty chuckle.[lr]",
+      "jp": "ãã¯ã£ã¯ã£ã¯ãã¨æ¥½ããã«ç¬ãé¶è¦³ããã[lr]",
+      "Pt-br": "O Reikan-san dá uma risada contagiante.[lr]",
+      "id": 18361,
+      "epk_id": "7654",
+      "label": "$$$message_0053_0019_0000$$$"
+    },
+    {
+      "en": "This paragon of tolerance is none other than Issei's older brother.",
+      "jp": "ããã®è±ªæ¾ç£è½ãçµµã«æãããããªäººããä½ãé ããä¸æã®å®ã®å\nã§ãã£ããããã",
+      "Pt-br": "Esse homem de tamanha tolerância não é ninguém menos que o irmão mais velho do Issei.",
+      "id": 18362,
+      "epk_id": "7655",
+      "label": "$$$message_0053_0019_0001$$$"
+    },
+    {
+      "en": "\"Wow. That's the first time I've ever seen you fail to throw someone, Rei. Is he from the temple?\"[lr]",
+      "jp": "ãé©ãããããé¶ãããæããããªãã£ãäººãåãã¦è¦ãããã¡ãã®æ¹ããå¯ºã®äººãªã®ï¼ã[lr]",
+      "Pt-br": "\"Uau. É a primeira vez que te vejo fracassando em derrubar alguém, Rei-kun. Ele é aqui do templo?\"[lr]",
+      "id": 18363,
+      "epk_id": "7656",
+      "label": "$$$message_0053_0020_0000$$$"
+    },
+    {
+      "en": "\"No, Souichirou Kuzuki here is a guest of the head monk.[lr]",
+      "jp": "ãããããã¡ãã¯æ¨©å§æ­£ã®å®¢äººãèæ¨å®ä¸éæ®¿ã ã[lr]",
+      "Pt-br": "\"Não, Kuzuki Souichirou aqui é um convidado do monge chefe.[lr]",
+      "id": 18364,
+      "epk_id": "7657",
+      "label": "$$$message_0053_0020_0001$$$"
+    },
+    {
+      "en": "He's a teacher at Shirou's school.\"",
+      "jp": "ãå£«éããã®å­¦æ ¡ã§ã¯æè·ã«ã¤ããã¦ããã",
+      "Pt-br": "Ele é um professor da escola do Shirou-kun.\"",
+      "id": 18365,
+      "epk_id": "7658",
+      "label": "$$$message_0053_0020_0002$$$"
+    },
+    {
+      "en": "\"Really? ...He doesn't exactly look respectable to me. Emiyan, do you know him?\"[lr]",
+      "jp": "ããããªãï¼ãâ¦â¦ã¡ããå \næ°ã«ã¯è¦ããªããã©â¦â¦ã¨ãã¤ããèæ¨ããã¯ç¥ã£ã¦ããï¼ã[lr]",
+      "Pt-br": "\"Sério? ...Ele não me parece muito respeitável. Emiyan, você conhece ele?\"[lr]",
+      "id": 18366,
+      "epk_id": "7659",
+      "label": "$$$message_0053_0021_0000$$$"
+    },
+    {
+      "en": "\"Of course. Mr. Kuzuki teaches modern society and ethics at our school. A lot of people call him the conscience of Homurahara, and he helps Fuji-nee out a lot, too.\"[lr]",
+      "jp": "ããã¡ãããèæ¨å\nçã¯ãã¡ã®ç¾ä»£ç¤¾ä¼ã¨å«çã®å\nçã§ããè¤ã­ããé ¼ãã«ãããç©ç¾¤åã®è¯å¿ã¨è¨ããã¦ãã¾ãã[lr]",
+      "Pt-br": "\"Claro que sim. O Kuzuki-sensei ensina sociedade moderna e ética na nossa escola. Muita gente chama ele de a consciência da Homurahara, e ele também ajuda muito a Fuji-nee.\"[lr]",
+      "id": 18367,
+      "epk_id": "7660",
+      "label": "$$$message_0053_0021_0001$$$"
+    },
+    {
+      "en": "\"Ugh. Oh, Fujimura knows him too.[lr]",
+      "jp": "ããããã£ããè¤æãç¥ã£ã¦ãããã­ã[lr]",
+      "Pt-br": "\"Ugh. Ah, a Fujimura também conhece ele.[lr]",
+      "id": 18368,
+      "epk_id": "7661",
+      "label": "$$$message_0053_0021_0002$$$"
+    },
+    {
+      "en": "Sure, okay. Hello, I'm Neko Hotaruzuka. Nice to meet you.\"[lr]",
+      "jp": "ãã¾ãããããã¯ããã¾ãã¦ãèå¡ãã³ã¨è¨ãã¾ãã[lr]",
+      "Pt-br": "Certo, tudo bem. Olá, sou a Hotaruzuka Neko. Muito prazer.\"[lr]",
+      "id": 18369,
+      "epk_id": "7662",
+      "label": "$$$message_0053_0021_0003$$$"
+    },
+    {
+      "en": "\"Likewise. I am Souichirou Kuzuki.\"",
+      "jp": "ããã¡ããããèæ¨å®ä¸éã¨è¨ãã¾ãã",
+      "Pt-br": "\"O prazer é meu. Sou Kuzuki Souichirou.\"",
+      "id": 18370,
+      "epk_id": "7663",
+      "label": "$$$message_0053_0021_0004$$$"
+    },
+    {
+      "en": "They greet each other politely.[lr]",
+      "jp": "ãç¤¼åæ­£ããæ¨æ¶ãããäºäººã[lr]",
+      "Pt-br": "Eles se cumprimentam educadamente.[lr]",
+      "id": 18371,
+      "epk_id": "7664",
+      "label": "$$$message_0053_0022_0000$$$"
+    },
+    {
+      "en": "\"Hm? Wait, Mr. Kuzuki, you've been living at the temple for a while now, but this is only your first time meeting Neko?\"[lr]",
+      "jp": "ããï¼ããããèæ¨å\nçã£ã¦ãã£ããåãããå¯ºã«ãããã§ããã­ããªã®ã«ãã³ããã¨ã¯åå¯¾é¢ãªãã§ããï¼ã[lr]",
+      "Pt-br": "\"Hm? Espera, Kuzuki-sensei, você já mora no templo há um tempo, mas é a sua primeira vez conhecendo a Neko-san?\"[lr]",
+      "id": 18372,
+      "epk_id": "7665",
+      "label": "$$$message_0053_0022_0001$$$"
+    },
+    {
+      "en": "\"...Yes. I have occasionally seen her around, but we've never spoken before.[lr]",
+      "jp": "ãâ¦â¦ããã ãªãé¡ã ããªãæããè¦ããã¦ã¯ãããããããã¦è©±ãããã®ã¯ãããåãã¦ã ã[lr]",
+      "Pt-br": "\"...Sim. Às vezes, eu a via pelas redondezas, mas nunca conversamos antes.[lr]",
+      "id": 18373,
+      "epk_id": "7666",
+      "label": "$$$message_0053_0022_0002$$$"
+    },
+    {
+      "en": "I will make sure to greet her from now on.\"",
+      "jp": "ãä»å¾ã¯ãç©æ¥µçã«æ¨æ¶ããããã¨æãã",
+      "Pt-br": "Garantirei em cumprimentá-la a partir de agora.\"",
+      "id": 18374,
+      "epk_id": "7667",
+      "label": "$$$message_0053_0022_0003$$$"
+    },
+    {
+      "en": "His grim voice carries a ring of remorse.[lr]",
+      "jp": "ãå³ããªå£°ã¯ãåçã®é¿ããããã[lr]",
+      "Pt-br": "A sua voz sombria carrega um tom de remorso.[lr]",
+      "id": 18375,
+      "epk_id": "7668",
+      "label": "$$$message_0053_0023_0000$$$"
+    },
+    {
+      "en": "...I see. Souichirou Kuzuki isn't the sort of person to make new acquaintances on his own.[lr]",
+      "jp": "ãâ¦â¦ããããèæ¨å®ä¸éã¨ããäººç©ã¯ãèªåããç¥ãåããä½ãäººéã§ã¯ãªãã£ãã[lr]",
+      "Pt-br": "...Entendi. O Kuzuki Souichirou não é o tipo de pessoa que faz novas amizades por conta própria.[lr]",
+      "id": 18376,
+      "epk_id": "7669",
+      "label": "$$$message_0053_0023_0001$$$"
+    },
+    {
+      "en": "From his perspective, he had no reason to involve himself with the woman delivering liquor.[lr]",
+      "jp": "ãå½¼ãããã¦ã¿ãã°ããé\nãå±ãã«æ¥ããã³ããã¯é¢ããã¯æã¤ã¹ãç¸æã§ã¯ãªãã£ãã®ã ã[lr]",
+      "Pt-br": "Da perspectiva dele, ele não tem motivo nenhum para se envolver com a mulher que entrega bebidas alcoólicas, Neko-san.[lr]",
+      "id": 18377,
+      "epk_id": "7670",
+      "label": "$$$message_0053_0023_0002$$$"
+    },
+    {
+      "en": "But that's only true for now.",
+      "jp": "ããã¡ãããä»ã¾ã§ã¯ãã®è©±ã§ã¯ããã",
+      "Pt-br": "Mas isso é apenas por enquanto.",
+      "id": 18378,
+      "epk_id": "7671",
+      "label": "$$$message_0053_0023_0003$$$"
+    },
+    {
+      "en": "\"You're amazing though, Mr. Kuzuki.[lr]",
+      "jp": "ããã©èæ¨ãããåããªãã[lr]",
+      "Pt-br": "\"Mesmo assim, você é impressionante, Kuzuki-san.[lr]",
+      "id": 18379,
+      "epk_id": "7672",
+      "label": "$$$message_0053_0024_0000$$$"
+    },
+    {
+      "en": "Rei's been to the judo nationals, and he even trains the police. He couldn't keep up with you at all.\"",
+      "jp": "ãé¶ãããæéã§å\n¨å½å¤§ä¼ã¾ã§è¡ã£ãã³ããããããä»ãè­¦å¯ã«æå°å¡ã¨ãã¦æãããè\nåãªãã ãã©ãªããããã£ããæ­¯ãç«ã£ã¦ãªãã£ããã",
+      "Pt-br": "O Rei-kun já esteve nas nacionais de judô, e ele até mesmo treina a polícia. Ele não conseguiu acompanhar o seu ritmo de jeito nenhum.\"",
+      "id": 18380,
+      "epk_id": "7673",
+      "label": "$$$message_0053_0024_0001$$$"
+    },
+    {
+      "en": "\"He sure is amazing.[lr]",
+      "jp": "ããããåãã ããã[lr]",
+      "Pt-br": "\"E é mesmo impressionante.[lr]",
+      "id": 18381,
+      "epk_id": "7674",
+      "label": "$$$message_0053_0025_0000$$$"
+    },
+    {
+      "en": "Souichirou is no ordinary man. He claims his skills have declined year by year, but I wonder what would have happened if he'd fought with me when he first arrived five years ago. My goodness.\"[lr]",
+      "jp": "ãå®ä¸éæ®¿ã¯åªè\nã§ã¯ãªããããã§å¹´ã\nè\nãè½ã¡ã¦ããã¨ããã®ã ãããå½å±±ã«ãã£ã¦ããäºå¹´åã«çµã¿åã£ã¦ãããã©ããªã£ã¦ããããããã¯ãã[lr]",
+      "Pt-br": "O Souichirou não é um homem comum. Ele diz que as suas habilidades pioraram com o passar dos anos, mas eu me pergunto o que teria acontecido se eu lutasse com ele quando ele chegou, cinco anos atrás. Minha nossa.\"[lr]",
+      "id": 18382,
+      "epk_id": "7675",
+      "label": "$$$message_0053_0025_0001$$$"
+    },
+    {
+      "en": "Reikan chuckles, adding that he probably would have died.[lr]",
+      "jp": "ãæ®ºããã¦ããããªããã¯ã£ã¯ã£ã¯ãã¨ç¬ãé¶è¦³ããã[lr]",
+      "Pt-br": "O Reikan-san ri, acrescentando que provavelmente teria morrido.[lr]",
+      "id": 18383,
+      "epk_id": "7676",
+      "label": "$$$message_0053_0025_0002$$$"
+    },
+    {
+      "en": "...It's plausible enough to make me break into a cold sweat.",
+      "jp": "ãâ¦â¦ããã¨ã·ã£ã¬ã«ãªã£ã¦ãªããã§ããã£ã¡ã¯å·ãæ±ãã®ã ã",
+      "Pt-br": "...Isso é tão plausível ao ponto de me dar um suor frio.",
+      "id": 18384,
+      "epk_id": "7677",
+      "label": "$$$message_0053_0025_0003$$$"
+    },
+    {
+      "en": "\"No, I'm only trained in one technique. You would dominate me in a grappling match, Reikan.[lr]",
+      "jp": "ããããç§ã¯ä¸è¸ã«ç§ã§ã¦ããã ãã ãçµã¿ä¼ãããã¨ããã«ã¼ã«ãªãé¶è¦³ã®ç¬å£å ´ã ããã[lr]",
+      "Pt-br": "\"Não, eu só fui treinado em uma técnica. Você me dominaria facilmente numa luta corpo a corpo, Reikan.[lr]",
+      "id": 18385,
+      "epk_id": "7678",
+      "label": "$$$message_0053_0026_0000$$$"
+    },
+    {
+      "en": "You should give it a try sometime, Emiya. It would be a good learning experience for you.\"[lr]",
+      "jp": "ãè¡å®®ãæ©ä¼ãããã°æåãããããã¨ããããã¾ãã«ã¯ããçµé¨ã«ãªãç­ã ã[lr]",
+      "Pt-br": "Você devia experimentar isso uma vez, Emiya. Seria uma boa experiência de aprendizado pra você.\"[lr]",
+      "id": 18386,
+      "epk_id": "7679",
+      "label": "$$$message_0053_0026_0001$$$"
+    },
+    {
+      "en": "\"Y-yes, sir.[lr]",
+      "jp": "ãã¯ãã¯ãã[lr]",
+      "Pt-br": "\"S-Sim, senhor.[lr]",
+      "id": 18387,
+      "epk_id": "7680",
+      "label": "$$$message_0053_0026_0002$$$"
+    },
+    {
+      "en": "Oh, this is also my first time seeing you spar, Reikan. I normally see you meditating or cleaning.\"",
+      "jp": "ããããã©é¶è¦³ãããçµã¿æãã¦ãã®ãè¦ãã®ããããåãã¦ã§ããããã¤ãã¯åº§ç¦\nã¨ãéå·¾æãã¨ãã°ã£ããã ã£ããã",
+      "Pt-br": "Ah, e essa também é a primeira vez que eu vejo você lutando, Reikan-san. Geralmente, eu vejo você meditando ou limpando.\"",
+      "id": 18388,
+      "epk_id": "7681",
+      "label": "$$$message_0053_0026_0003$$$"
+    },
+    {
+      "en": "\"That's a shame.[lr]",
+      "jp": "ããããããã¯ãã¾ãªãã[lr]",
+      "Pt-br": "\"É uma pena.[lr]",
+      "id": 18389,
+      "epk_id": "7682",
+      "label": "$$$message_0053_0027_0000$$$"
+    },
+    {
+      "en": "My restraining techniques are a family tradition, actually. They're not something I can test out on people at a moment's notice, and moreover...\"[lr]",
+      "jp": "ãä¸å¿ãæå§ã®æç¸è¡ã¯å®¶å®ã§ãªãããããã¨äººã«è©¦ããã®ã§ããªãããããã[line len=3]ã[lr]",
+      "Pt-br": "A minha técnica de imobilização é uma tradição de família, na verdade. Não é algo que eu possa testar nas pessoas do nada, além disso...\"[lr]",
+      "id": 18390,
+      "epk_id": "7683",
+      "label": "$$$message_0053_0027_0001$$$"
+    },
+    {
+      "en": "\"They're meant to be used on the dragon god, right?[lr]",
+      "jp": "ãé¾ç¥ãã¾ç¸æã®ç¹å¥åãã§ããï¼[lr]",
+      "Pt-br": "\"Elas são feitas pra serem usadas num deus dragão, né?[lr]",
+      "id": 18391,
+      "epk_id": "7684",
+      "label": "$$$message_0053_0027_0002$$$"
+    },
+    {
+      "en": "Back when we were students, you used to say that when you were drunk. That idiot Fujimura would take the bait and yell, 'oh yeah, well here's my ultimate sword technique for catching tigers!'\"",
+      "jp": "ãå­¦çã®é ãé\nã£ã¦ããè¬³ã£ã¦ããé¶ããããã«è¤æãå¼µãåã£ã¦ããªããã£ã¡ã¯èãæã¾ããå¿\næ®ºå£ã ã¼ãã¨ãé¨ãã§ããã©ã",
+      "Pt-br": "Quando éramos estudantes, você costumava dizer isso quando tava bêbado. A idiota da Fujimura comprava a ideia e começava a berrar 'ah, é mesmo? Pois essa aqui é a minha técnica de espada suprema pra capturar tigres!', Rei-kun\"",
+      "id": 18392,
+      "epk_id": "7685",
+      "label": "$$$message_0053_0027_0003$$$"
+    },
+    {
+      "en": "Neko nods nostalgically.[lr]",
+      "jp": "ããããããã¨æãããã«é ·ããã³ããã[lr]",
+      "Pt-br": "A Neko-san acena de forma saudosa.[lr]",
+      "id": 18393,
+      "epk_id": "7686",
+      "label": "$$$message_0053_0028_0000$$$"
+    },
+    {
+      "en": "Also, Fuji-nee...swords aren't for [font italic=true]catching[font italic=false] tigers.",
+      "jp": "ããã¨è¤ã­ããæã¾ããã®ã«å¿\næ®ºå£ã¯ãããããªãã",
+      "Pt-br": "Além disso, Fuji-nee... espadas não servem pra [font italic=true]capturar[font italic=false] tigres.",
+      "id": 18394,
+      "epk_id": "7687",
+      "label": "$$$message_0053_0028_0001$$$"
+    },
+    {
+      "en": "\"...It was meant to combat a dragon?[lr]",
+      "jp": "ãâ¦â¦é¾ç¥ãç¸æã«ããããã[lr]",
+      "Pt-br": "\"...Isso foi feito para combater um dragão?[lr]",
+      "id": 18395,
+      "epk_id": "7688",
+      "label": "$$$message_0053_0029_0000$$$"
+    },
+    {
+      "en": "Is it related to the festival for the dragon god of Mion River, in your local traditions?\"[lr]",
+      "jp": "ãããã¯é·åå²ã«ããã[ruby text=ã¿ãã char=2]æªé å·ã®é¾ç¥ç¥­ã«é¢é£ãï¼ã[lr]",
+      "Pt-br": "Isso está relacionado ao festival para o deus dragão do Rio Mion, nas suas tradições locais?\"[lr]",
+      "id": 18396,
+      "epk_id": "7689",
+      "label": "$$$message_0053_0029_0001$$$"
+    },
+    {
+      "en": "\"A Dragon God Festival?\"",
+      "jp": "ãé¾ç¥ç¥­ï¼ã",
+      "Pt-br": "\"Festival do Deus Dragão?\"",
+      "id": 18397,
+      "epk_id": "7690",
+      "label": "$$$message_0053_0029_0002$$$"
+    },
+    {
+      "en": "\"Oh, you didn't know, Emiyan?[lr]",
+      "jp": "ããããã¨ãã¤ãã¯ç¥ããªããã[lr]",
+      "Pt-br": "\"Ué, cê não sabia dessa, Emiyan?[lr]",
+      "id": 18398,
+      "epk_id": "7691",
+      "label": "$$$message_0053_0030_0000$$$"
+    },
+    {
+      "en": "Mion River is the river that divides the town in half. Up until we were kids, they used to have this fall festival for it.[lr]",
+      "jp": "ãã»ããçºãäºåããå·ããã§ãããããæªé å·ã£ã¦è¨ããã ãã©ãã¢ã¿ã·ããå­ä¾ã®é ãããã¾ã§ã¯ç§ã«ãç¥­ãããã£ã¦ãã®ãã[lr]",
+      "Pt-br": "O Rio Mion é o rio que divide a cidade ao meio. Até a época que éramos crianças, sempre faziam esse festival de outono em homenagem a ele.[lr]",
+      "id": 18399,
+      "epk_id": "7692",
+      "label": "$$$message_0053_0030_0001$$$"
+    },
+    {
+      "en": "Apparently, once upon a time, there was a raging dragon god who laid waste to Fuyuki, and an itinerant monk subjugated it. After that, the locals would hold festivals to appease the dragon every summer and fall. These days, we only hold the summer festival though.\"",
+      "jp": "ããªãã§ããå¤§æã«å¬æ¨ãèããé¾ç¥ãã¾ããã¦ãæ\nã®å§ä¾¶ããããé®ããã£ã¦è©±ããã£ã¦ããä»¥æ¥ãé¾ç¥ãã¾ãå¥ã£ã¦å¤ã¨ç§ã«ãç¥­ãããã£ã¦ãã®ããä»ããå¤ãããã£ã¦ãªããã©ã­ãã¾ããããã©ã",
+      "Pt-br": "Aparentemente, era uma vez, tinha um deus dragão furioso que destruiu Fuyuki, e um monge itinerante que o subjugou. Depois disso, os moradores locais começaram a realizar festivais pra apaziguar o dragão todo verão e outono. Mas hoje em dia, nós só comemoramos o festival de verão.\"",
+      "id": 18400,
+      "epk_id": "7693",
+      "label": "$$$message_0053_0030_0002$$$"
+    },
+    {
+      "en": "\"Huh... Wait, don't tell me Ryudou Temple...\"[lr]",
+      "jp": "ãã¸ãâ¦â¦ãããããæ³æ´å¯ºã£ã¦ãããããã¦ã[lr]",
+      "Pt-br": "\"Ué... Espera, não me diga que o Templo Ryuudou...\"[lr]",
+      "id": 18401,
+      "epk_id": "7694",
+      "label": "$$$message_0053_0031_0000$$$"
+    },
+    {
+      "en": "Did the monk build it on top of the dragon god's resting place?",
+      "jp": "ããã®é¾ç¥ãé®ããå§ä¾¶ãå»ºã¦ãå¯ºãã ã£ããããã®ã ãããâ¦â¦ï¼",
+      "Pt-br": "O monge o construiu em cima do local de descanso do deus dragão?",
+      "id": 18402,
+      "epk_id": "7695",
+      "label": "$$$message_0053_0031_0001$$$"
+    },
+    {
+      "en": "\"I'm not sure.[lr]",
+      "jp": "ãã©ãã ãããªãã[lr]",
+      "Pt-br": "\"Não tenho muita certeza.[lr]",
+      "id": 18403,
+      "epk_id": "7696",
+      "label": "$$$message_0053_0032_0000$$$"
+    },
+    {
+      "en": "At the very least, that great monk's teachings were passed down.[lr]",
+      "jp": "ãç¢ºãã«ãå°ãªãããé«å§ã®æãã¯ä¼ãã£ã¦ã¯ããã[lr]",
+      "Pt-br": "Por fim, os ensinamentos daquele grande monge foram passados adiante.[lr]",
+      "id": 18404,
+      "epk_id": "7697",
+      "label": "$$$message_0053_0032_0001$$$"
+    },
+    {
+      "en": "But we believe that that temple existed before that monk appeared here.[lr]",
+      "jp": "ããã[ruby text=ãã ã]ä»¶ã®é«å§ãç¾ããåããå½å±±ã¯ééãã¦ãã£ãã®ã ãã¨ããã®ããã¡ã®è§¦ãè¾¼ã¿ã§ã­ã[lr]",
+      "Pt-br": "Mas, nós acreditamos que esse templo existia bem antes daquele monge dar as caras por aqui.[lr]",
+      "id": 18405,
+      "epk_id": "7698",
+      "label": "$$$message_0053_0032_0002$$$"
+    },
+    {
+      "en": "It's that old chicken-or-egg question.\"",
+      "jp": "ãåµãå\nãé¶ãå\nãã«ãªããããã®ãããã¯æªãããªãã",
+      "Pt-br": "É aquele velho dilema de quem veio primeiro: o ovo ou a galinha.\"",
+      "id": 18406,
+      "epk_id": "7699",
+      "label": "$$$message_0053_0032_0003$$$"
+    },
+    {
+      "en": "\"Uh-huh... Then, what if that monk used jiu-jitsu to beat the dragon and then settled down at Ryudou Temple afterward?\"[lr]",
+      "jp": "ãã¯ãâ¦â¦ããããæ\nã®ãåããã¯é¾ç¥ãæè¡ã§éæ²»ããå¾ã§æ³æ´å¯ºã«è½ã¡çããâ¦â¦ãã§ããï¼ã[lr]",
+      "Pt-br": "\"Aham... Então, e se o monge usou jiu-jitsu pra derrotar o dragão e aí se estabeleceu no Templo Ryuudou depois disso?\"[lr]",
+      "id": 18407,
+      "epk_id": "7700",
+      "label": "$$$message_0053_0033_0000$$$"
+    },
+    {
+      "en": "\"That could be it.[lr]",
+      "jp": "ãããããããã­ã¼ã[lr]",
+      "Pt-br": "\"Pode ser que seja isso.[lr]",
+      "id": 18408,
+      "epk_id": "7701",
+      "label": "$$$message_0053_0033_0001$$$"
+    },
+    {
+      "en": "Who knows the actual truth, but this was supposedly a monk strong enough to beat a god. He must have been a virtuous monk with some serious dharmic power.\"",
+      "jp": "ãæ¬ç©ãã©ããã¯ã¨ããããç¥ãã¾ããã£ã¤ãããããã®åä¸»ã ããããã[ruby text=ã¨ã]å¾³é«ããæ³åç¡åã ã£ããã§ããï¼ã",
+      "Pt-br": "Quem sabe a verdade de tudo, né? Mas dizem que esse monge era forte o bastante pra derrotar um deus. Ele deve ter sido um monge virtuoso com um sério poder dhármico.\"",
+      "id": 18409,
+      "epk_id": "7702",
+      "label": "$$$message_0053_0033_0002$$$"
+    },
+    {
+      "en": "\"No, no. Dharmic power isn't something to strive for.[lr]",
+      "jp": "ããããããæ³åãªãæãã¹ãããªãã[lr]",
+      "Pt-br": "\"Não, não. Poder dhármico não é algo pelo qual se deve lutar.[lr]",
+      "id": 18410,
+      "epk_id": "7703",
+      "label": "$$$message_0053_0034_0000$$$"
+    },
+    {
+      "en": "Apparently, he talked the dragon down. The monk used his powers of eloquence to trick the dragon.\"[lr]",
+      "jp": "ãä½ãé ãããæ±ºãæã¯å£è»ã ã£ãããããæ\nã®å§ä¾¶ã¯å£å\n«ä¸æå\n«ä¸ã§ãç´æ´ãªé¾ç¥ãé¨ããããããã ã[lr]",
+      "Pt-br": "Aparentemente, ele convenceu o dragão a ceder. O monge usou a sua eloquência para enganar o dragão.\"[lr]",
+      "id": 18411,
+      "epk_id": "7704",
+      "label": "$$$message_0053_0034_0001$$$"
+    },
+    {
+      "en": "Reikan sighs with adoration.[lr]",
+      "jp": "ããããæãæããããªããã¨ããããããé¶è¦³ããã[lr]",
+      "Pt-br": "O Reikan-san solta um suspiro de adoração.[lr]",
+      "id": 18412,
+      "epk_id": "7705",
+      "label": "$$$message_0053_0034_0002$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "ãâ¦â¦â¦â¦â¦â¦ã[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 18413,
+      "epk_id": "7706",
+      "label": "$$$message_0053_0034_0003$$$"
+    },
+    {
+      "en": "He seems rather taken with the idea of winning without violence.",
+      "jp": "ãæ¦ãããã¦åã¤ãã¨ããæã«æãå\n¥ã£ã¦ããã®ã ãã¼ãã",
+      "Pt-br": "Ele parece estar bastante envolvido com a ideia de vencer sem violência.",
+      "id": 18414,
+      "epk_id": "7707",
+      "label": "$$$message_0053_0034_0004$$$"
+    },
+    {
+      "en": "\"That's news to me. So you just practice judo as a hobby?\"[lr]",
+      "jp": "ãããã¯åè³ã ã£ããããããé¶ããã®æéã£ã¦ããã ã®è¶£å³ã ã£ããï¼ã[lr]",
+      "Pt-br": "\"Essa é novidade pra mim. Então você só pratica judô como um passatempo, Rei-kun?\"[lr]",
+      "id": 18415,
+      "epk_id": "7708",
+      "label": "$$$message_0053_0035_0000$$$"
+    },
+    {
+      "en": "\"Yeah. It's said that the dragon taught the temple residents martial arts as a pastime, but I wonder how much of that is true. It could be a tall tale.[lr]",
+      "jp": "ããããæªé å·ã«é®ã¾ã£ãé¾ç¥ãéå±ãã®ãã«å¯ºã®è\nã«æããã¨è¨ããããã¦ãã©ãã¾ã§æ¬å½ãªã®ãã¯çå¾ããªãã[lr]",
+      "Pt-br": "\"É. Dizem que o dragão ensinou artes marciais aos moradores do templo pra passar o tempo, mas não sei até onde isso é verdade. Pode ser só uma história inventada.[lr]",
+      "id": 18416,
+      "epk_id": "7709",
+      "label": "$$$message_0053_0035_0001$$$"
+    },
+    {
+      "en": "Even if it were true, it would run counter to Buddhist teachings. Though I don't deny that we're a corrupt bunch here.\"[lr]",
+      "jp": "ãä»®ã«æ¬å½ã ã¨ãã¦ããããã¯ããã§ä»éã«ããã¾ããè¡çºã ããã­ãããããã¡ãçè­ã§ããäºã¯çãããããªãã®ã ãã[lr]",
+      "Pt-br": "E mesmo que fosse verdade, seria o oposto dos ensinamentos budistas. Embora eu não negue que somos um bando de devassos aqui.\"[lr]",
+      "id": 18417,
+      "epk_id": "7710",
+      "label": "$$$message_0053_0035_0002$$$"
+    },
+    {
+      "en": "His good-natured chortling echoes through the temple again.",
+      "jp": "ãã¯ã£ã¯ã£ã¯ãã¨ã¾ããç½ãããªå£°ãæ¨éããã",
+      "Pt-br": "Sua risada afável ecoa mais uma vez pelo templo.",
+      "id": 18418,
+      "epk_id": "7711",
+      "label": "$$$message_0053_0035_0003$$$"
+    },
+    {
+      "en": "\"You can say that again.[lr]",
+      "jp": "ããããããã ãã­ã¼ã[lr]",
+      "Pt-br": "\"Pode apostar.[lr]",
+      "id": 18419,
+      "epk_id": "7712",
+      "label": "$$$message_0053_0036_0000$$$"
+    },
+    {
+      "en": "Yeah, Ryudou Temple's always been one of our regulars. I bet we'll be seeing more of your brother soon enough.\"[lr]",
+      "jp": "ãããæ³æ´å¯ºã¯æã£ãããã¡ã®ãå¾æãã¾ã ãããã®ã¾ã¾å¼ãããåãã¹ãã«ãã¦ãã£ã¦ãã[lr]",
+      "Pt-br": "É, o Templo Ryuudou sempre foi um dos nossos clientes fixos. Aposto que em breve vamos ver o seu irmão muito mais por aqui.\"[lr]",
+      "id": 18420,
+      "epk_id": "7713",
+      "label": "$$$message_0053_0036_0001$$$"
+    },
+    {
+      "en": "\"I wonder about that.[lr]",
+      "jp": "ããããããã¯ã©ãã ãããªãã[lr]",
+      "Pt-br": "\"Ah, quanto a isso, eu tenho as minhas dúvidas.[lr]",
+      "id": 18421,
+      "epk_id": "7714",
+      "label": "$$$message_0053_0036_0002$$$"
+    },
+    {
+      "en": "Issei's practically an incarnation of our precepts. He doesn't even have it in him to break the rules. Even if I wanted to, I'd have a hard time steering him down the wrong path.\"",
+      "jp": "ãä¸æã¯å\n·è¶³æã®æ¨©åã§ãªãç¾½ç®ãå¤ãè¡ãç¥ããªãã ãããã¤ãåããã®ã¯ãç§ã§ã¯é£ããã",
+      "Pt-br": "O Issei é praticamente uma reencarnação dos nossos preceitos. Ele não tem estômago nenhum pra quebrar as regras. Mesmo se eu quisesse, teria muita dificuldade em levar ele pro mau caminho.\"",
+      "id": 18422,
+      "epk_id": "7715",
+      "label": "$$$message_0053_0036_0003$$$"
+    },
+    {
+      "en": "\"Hmm, so your brother's a straight shooter, huh? No wonder he's so popular with the Miyama shopping center association. [cacheimage storage=ネコ01b(中)][wvl][chgfg textoff=0 time=300 storage=ネコ01b(中)]You should be on top of things a little more too, Rei. Well, whatever.[lr]",
+      "jp": "ããµã¼ããå¼ããã¯å¤§çé¢ç®ã£ã¦ã¯ã±ã­ãæ·±å±±ã®ååºè¡çµåã§äººæ°ãããã¯ã±ã ã[cacheimage storage=ãã³01b(ä¸­)][wvl][chgfg textoff=0 time=300 storage=ãã³01b(ä¸­)]é¶ããããããããã¦ãããªãã­ã¼ãã¾ããããã©ã[lr]",
+      "Pt-br": "\"Hmm, então o seu irmão é do tipo certinho, hã? Não me espanta que ele seja tão popular com o centro comercial de Miyama. [cacheimage storage=ネコ01b(中)][wvl][chgfg textoff=0 time=300 storage=ネコ01b(中)]Você deveria assumir o controle da situação um pouquinho mais, Rei-kun. Bom, que seja.[lr]",
+      "id": 18423,
+      "epk_id": "7716",
+      "label": "$$$message_0053_0037_0000$$$"
+    },
+    {
+      "en": "We're dropping off your order in the kitchen. We've gotta make one more trip, but I'd appreciate it if you could start opening the boxes in the meantime.\"",
+      "jp": "ããããããæ³¨æã®åã¯å¨æ¿ã«å±ããããå¾ã¯ãããããä¸ã¾ã§ããä¸åè¡ã£ã¦ãããã©ããã®éã«ãã³ç©ºãã¦ããã¦ãããã¨å©ãããªãã",
+      "Pt-br": "Vou deixar a sua encomenda ali na cozinha. Ainda temos que fazer mais uma viagem, mas agradeceria se pudessem já ir abrindo as caixas por enquanto.\"",
+      "id": 18424,
+      "epk_id": "7717",
+      "label": "$$$message_0053_0037_0001$$$"
+    },
+    {
+      "en": "\"All right, got it. I'll hide them before the other scoundrels see them.[lr]",
+      "jp": "ããããä»»ããããä»ã®çè­ã©ãã«è¦ã¤ããåã«é ãã¦ãã¾ããã[lr]",
+      "Pt-br": "\"Certo, entendido. Eu vou esconder as caixas antes que os outros canalhas as vejam.[lr]",
+      "id": 18425,
+      "epk_id": "7718",
+      "label": "$$$message_0053_0038_0000$$$"
+    },
+    {
+      "en": "And Neko, about what I asked before...\"[lr]",
+      "jp": "ãã§ããã³ããããã®åã®ç¸è«ã ãã[lr]",
+      "Pt-br": "E Neko-kun, sobre aquilo que eu pedi antes...\"[lr]",
+      "id": 18426,
+      "epk_id": "7719",
+      "label": "$$$message_0053_0038_0001$$$"
+    },
+    {
+      "en": "\"I know, I threw in some extra.[lr]",
+      "jp": "ãããã£ã¦ã¾ããä¸æ¬ä½åã«ç´åããã£ã¦ã°ã[lr]",
+      "Pt-br": "\"Eu sei, eu coloquei uns a mais.[lr]",
+      "id": 18427,
+      "epk_id": "7720",
+      "label": "$$$message_0053_0038_0002$$$"
+    },
+    {
+      "en": "A lot of Demon Kings, too.\"[lr]",
+      "jp": "ããã¨ãé­çå¤ãã[lr]",
+      "Pt-br": "Tem muito Rei Demônio também.\"[lr]",
+      "id": 18428,
+      "epk_id": "7721",
+      "label": "$$$message_0053_0038_0003$$$"
+    },
+    {
+      "en": "\"I knew I could count on you. That's good stuff.\"[lr]",
+      "jp": "ãããããã³ããã¯é ¼ãã«ãªããªããé\nã¯ãããªãã[lr]",
+      "Pt-br": "\"Eu sabia que podia contar com você. Isso que é produto do bom, Neko-kun.\"[lr]",
+      "id": 18429,
+      "epk_id": "7722",
+      "label": "$$$message_0053_0038_0004$$$"
+    },
+    {
+      "en": "Demon King is a relatively expensive brand of shochu.[lr]",
+      "jp": "ãé­çã¯ããã¨é«ããªç¼é\nã®éæã ã[lr]",
+      "Pt-br": "Rei Demônio é uma marca de shochu relativamente cara.[lr]",
+      "id": 18430,
+      "epk_id": "7723",
+      "label": "$$$message_0053_0038_0005$$$"
+    },
+    {
+      "en": "But...",
+      "jp": "ããããâ¦â¦",
+      "Pt-br": "Mas...",
+      "id": 18431,
+      "epk_id": "7724",
+      "label": "$$$message_0053_0038_0006$$$"
+    },
+    {
+      "en": "\"Um, Reikan. Are you sure you should be saying that so openly at the temple? I thought you were supposed to use code words like 'blessed water.'\"[lr]",
+      "jp": "ããã®ãé¶è¦³ããããããã§ããããå¯ºã§ãã®åèªå£ã«ãã¡ãã£ã¦ããããé èªã§ãè¬è¥æ¹¯ã£ã¦è¨ãããããªãã£ãã§ããã£ãï¼ã[lr]",
+      "Pt-br": "\"Hum, Reikan-san. Tem certeza de que pode falar sobre isso de forma tão aberta no templo? Achei que você fosse usar um termo camuflado do tipo 'água sagrada'.\"[lr]",
+      "id": 18432,
+      "epk_id": "7725",
+      "label": "$$$message_0053_0039_0000$$$"
+    },
+    {
+      "en": "\"True, but it's no big deal. Either way, drinking won't get anyone excommunicated.\"",
+      "jp": "ãããã¨ãè¨ããã¾ãç´°ããäºã ãã©ã¡ãã«ãããé£²ãã°ç ´éã¨ãããã®ã§ããªãããã­ã",
+      "Pt-br": "\"Verdade, mas não é grande coisa. De qualquer modo, ninguém vai ser excomungado por beber.\"",
+      "id": 18433,
+      "epk_id": "7726",
+      "label": "$$$message_0053_0039_0001$$$"
+    },
+    {
+      "en": "\"That's right. Even the chief monk holds banquets.[lr]",
+      "jp": "ããããªãããä½è·ãé\nå®´éããã[lr]",
+      "Pt-br": "\"Isso aí. Até o monge chefe tem os seus banquetes.[lr]",
+      "id": 18434,
+      "epk_id": "7727",
+      "label": "$$$message_0053_0040_0000$$$"
+    },
+    {
+      "en": "Maybe drinking helps you achieve that no-self state. I bet it's faster than scourging yourself to get that endorphin hit.\"[lr]",
+      "jp": "ãããããªãç¡æã«éããæä¼ãã¨ãã¦é£²ãã®ãã­ããèªåããããã¦è³å\néº»è¬åºãããã¦ã£ã¨ãæ©ããã[lr]",
+      "Pt-br": "Quem sabe beber te ajude a atingir o estado de anatta. Aposto que é muito mais rápido do que se espancar pra ter aquele pico de endorfina.\"[lr]",
+      "id": 18435,
+      "epk_id": "7728",
+      "label": "$$$message_0053_0040_0001$$$"
+    },
+    {
+      "en": "Neko's completely misunderstood what Buddhist temples practice.",
+      "jp": "ããã³ããã¯ãå¯ºã®ä¿®è¡ãåéããã¦ããã",
+      "Pt-br": "A Neko-san não entendeu nada sobre as práticas dos templos budistas.",
+      "id": 18436,
+      "epk_id": "7729",
+      "label": "$$$message_0053_0040_0002$$$"
+    },
+    {
+      "en": "\"Now now, Neko. We don't have any acolytes who are [font italic=true]that[font italic=false] wasteful.[lr]",
+      "jp": "ããªãã¨ããã®ãããªå¿ä½ãªãã³ããããæªçè\nã¯æãéã«ã¯ããã¬ããã³ããã[lr]",
+      "Pt-br": "\"Ora ora, Neko-kun. Não temos novatos que sejam [font italic=true]tão[font italic=false] irresponsáveis assim.[lr]",
+      "id": 18437,
+      "epk_id": "7730",
+      "label": "$$$message_0053_0041_0000$$$"
+    },
+    {
+      "en": "If you want to become enlightened, then work towards enlightenment. Separately, one should enjoy good liquor for what it is.\"[lr]",
+      "jp": "ãæããããã°åã\nãã£ã¦ã«æãã°ãããé\nãé£²ãæã¯é\nãæ¥½ãã¾ã­ã°ããããããã[lr]",
+      "Pt-br": "Se deseja se tornar iluminado, então dedique-se a se tornar um iluminado. Mas, de forma separada a isso, deveriam aproveitar do que há de bom numa boa bebida.\"[lr]",
+      "id": 18438,
+      "epk_id": "7731",
+      "label": "$$$message_0053_0041_0001$$$"
+    },
+    {
+      "en": "And as we can see, Reikan isn't exactly the paragon of monkhood, either.",
+      "jp": "ããã§ãé¶è¦³ããã¯ãåããã¨ãã¦ã©ã£ãééã£ã¦ããäººã ã£ãã",
+      "Pt-br": "E como podemos ver, o Reikan-san também não é lá um exemplo de monge.",
+      "id": 18439,
+      "epk_id": "7732",
+      "label": "$$$message_0053_0041_0002$$$"
+    },
+    {
+      "en": "\"...Brother. Is this to be kept private from the rest of the monks here?\"[lr]",
+      "jp": "ãâ¦â¦å¾¡åãä»ã®è©±ã¯ãä½è·ã«ã¯å\nå¯ã«ãããã®ããªã[lr]",
+      "Pt-br": "\"...Irmão. Devemos manter isso em segredo do resto dos monges daqui?\"[lr]",
+      "id": 18440,
+      "epk_id": "7733",
+      "label": "$$$message_0053_0042_0000$$$"
+    },
+    {
+      "en": "\"Yes, it's a secret. Shirou, don't tell Issei, either.[lr]",
+      "jp": "ããããé ãäºã ãå£«éãããä¸æã«ã¯å\nå¯ã«ãªã[lr]",
+      "Pt-br": "\"Sim, é segredo. Shirou-kun, não conte ao Issei também.[lr]",
+      "id": 18441,
+      "epk_id": "7734",
+      "label": "$$$message_0053_0042_0001$$$"
+    },
+    {
+      "en": "So, how about it, Souichirou? We can drink this extra shipment tonight.[lr]",
+      "jp": "ãã§ãã©ãããªå®ä¸éæ®¿ããã®ä½åã§ä»å¤ã²ã¨ã¤ã[lr]",
+      "Pt-br": "E então, o que acha, Souichirou? Nós podemos beber esse carregamento extra hoje à noite.[lr]",
+      "id": 18442,
+      "epk_id": "7735",
+      "label": "$$$message_0053_0042_0002$$$"
+    },
+    {
+      "en": "The other monks would raise a ruckus if they knew, so why don't we go moon-watching in the hills behind the temple?\"",
+      "jp": "ãä»ã®åä¸»ã©ããã¡ã¨ããããã§ãªãè£å±±ã§æè¦ãªã©ã",
+      "Pt-br": "Os outros monges fariam um escândalo se soubessem, então que tal a gente ir apreciar o luar nas colinas atrás do templo?\"",
+      "id": 18443,
+      "epk_id": "7736",
+      "label": "$$$message_0053_0042_0003$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "ã[line len=3]ã[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 18444,
+      "epk_id": "7737",
+      "label": "$$$message_0053_0043_0000$$$"
+    },
+    {
+      "en": "Reikan casually invites Mr. Kuzuki out for a drink.[lr]",
+      "jp": "ãé¶è¦³ããã¯ããã¥ã©ã«ã«èæ¨å\nçãé\nã«èªã£ã¦ããã[lr]",
+      "Pt-br": "O Reikan-san convida casualmente o Kuzuki-sensei para beber.[lr]",
+      "id": 18445,
+      "epk_id": "7738",
+      "label": "$$$message_0053_0043_0001$$$"
+    },
+    {
+      "en": "But Mr. Kuzuki seems like he'd be even more of a straight-edge than Issei...",
+      "jp": "ãããããä¸æä»¥ä¸ã«ä¸æ¬²ãæ­ã£ã¦ããããªèæ¨å\nçãé¦ãç¸¦ã«æ¯ãç­ãâ¦â¦",
+      "Pt-br": "Mas o Kuzuki-sensei me parece ser mais do tipo certinho do que o Issei...",
+      "id": 18446,
+      "epk_id": "7739",
+      "label": "$$$message_0053_0043_0002$$$"
+    },
+    {
+      "en": "\"I don't object, but my wife, you see...\"[lr]",
+      "jp": "ãâ¦â¦æ§ããªãã®ã§ããâ¦â¦å¦»ããã§ããªâ¦â¦ã[lr]",
+      "Pt-br": "\"Eu não me oponho, mas a minha esposa, sabe...\"[lr]",
+      "id": 18447,
+      "epk_id": "7740",
+      "label": "$$$message_0053_0044_0000$$$"
+    },
+    {
+      "en": "Why is he putting his glasses back on for that...?",
+      "jp": "ãã£ã¦ããªãã§ããã§ç¼é¡ããããã â¦â¦ï¼",
+      "Pt-br": "Por que ele tá colocando os óculos pra dizer isso...?",
+      "id": 18448,
+      "epk_id": "7741",
+      "label": "$$$message_0053_0044_0001$$$"
+    },
+    {
+      "en": "\"I'd prefer to keep it from her, too.[lr]",
+      "jp": "ãããã¯å\nç·ã«ããããªãã[lr]",
+      "Pt-br": "\"Eu prefiro esconder isso dela também.[lr]",
+      "id": 18449,
+      "epk_id": "7742",
+      "label": "$$$message_0053_0045_0000$$$"
+    },
+    {
+      "en": "I get pretty nervous when Caster is around. The wine doesn't taste the same.\"[lr]",
+      "jp": "ãã­ã£ã¹ã¿ã¼ãããããã¨ç·å¼µãã¦ãã¾ã£ã¦ãªãé\nããã¾ãå\n¥ããã®ã§ãã[lr]",
+      "Pt-br": "Fico bastante nervoso quando a Caster-san tá por perto. O vinho perde até o sabor.\"[lr]",
+      "id": 18450,
+      "epk_id": "7743",
+      "label": "$$$message_0053_0045_0001$$$"
+    },
+    {
+      "en": "\"...Understood. Let us talk more later.\"[lr]",
+      "jp": "ãâ¦â¦â¦â¦â¦â¦äºè§£ãã¾ãããè©³ããã¯å¾ã»ã©ã[lr]",
+      "Pt-br": "\"...Compreendo. Falaremos mais sobre isso mais tarde.\"[lr]",
+      "id": 18451,
+      "epk_id": "7744",
+      "label": "$$$message_0053_0045_0002$$$"
+    },
+    {
+      "en": "He agreed!",
+      "jp": "ããããäºè§£ãã¡ãã£ãããã®äººï¼",
+      "Pt-br": "Ele topou!",
+      "id": 18452,
+      "epk_id": "7745",
+      "label": "$$$message_0053_0045_0003$$$"
+    },
+    {
+      "en": "\"Well, I'll let you handle this, Neko.[lr]",
+      "jp": "ãããããã³ããããã¡ãã¯ä»»ãããã[lr]",
+      "Pt-br": "\"Bom, vou deixar isso com você, Neko-kun.[lr]",
+      "id": 18453,
+      "epk_id": "7746",
+      "label": "$$$message_0053_0046_0000$$$"
+    },
+    {
+      "en": "Thanks for bringing up the rest.\"[lr]",
+      "jp": "ãæ®ãã®è·ç©ãããããã[lr]",
+      "Pt-br": "Obrigado por trazer o resto das coisas.\"[lr]",
+      "id": 18454,
+      "epk_id": "7747",
+      "label": "$$$message_0053_0046_0001$$$"
+    },
+    {
+      "en": "\"And thanks for your business![lr]",
+      "jp": "ãã¯ãæ¯åº¦ï½ã[lr]",
+      "Pt-br": "\"E obrigada por comprar com a gente![lr]",
+      "id": 18455,
+      "epk_id": "7748",
+      "label": "$$$message_0053_0046_0002$$$"
+    },
+    {
+      "en": "Um... I'll see you around, Mr. Kuzuki.\"[lr]",
+      "jp": "ããã¼ã¨â¦â¦èæ¨ããããã¾ãä»åº¦ã­ã[lr]",
+      "Pt-br": "Ah... A gente se vê por aí, Kuzuki-san.\"[lr]",
+      "id": 18456,
+      "epk_id": "7749",
+      "label": "$$$message_0053_0046_0003$$$"
+    },
+    {
+      "en": "\"Yes. Until next time.\"",
+      "jp": "ãã¯ããããã§ã¯ã",
+      "Pt-br": "\"Sim. Até a próxima.\"",
+      "id": 18457,
+      "epk_id": "7750",
+      "label": "$$$message_0053_0046_0004$$$"
+    },
+    {
+      "en": "We leave for the front gate, while Reikan and Kuzuki head towards the kitchen.[lr]",
+      "jp": "ããã£ã¡ã¯å±±éã¸ãé¶è¦³ãããã¡ã¯å¨æ¿ã«åãã£ã¦ããã[lr]",
+      "Pt-br": "Saímos rumo ao portão da frente, enquanto Reikan-san e Kuzuki-sensei vão para a cozinha.[lr]",
+      "id": 18458,
+      "epk_id": "7751",
+      "label": "$$$message_0053_0047_0000$$$"
+    },
+    {
+      "en": "Neko thoughtfully watches them leave.[lr]",
+      "jp": "ãã§ããã³ããã¯ã¼ãããã¨äºäººãè¦éã£ã¦ãããããã[lr]",
+      "Pt-br": "A Neko-san observa os dois se afastarem, pensativa.[lr]",
+      "id": 18459,
+      "epk_id": "7752",
+      "label": "$$$message_0053_0047_0001$$$"
+    },
+    {
+      "en": "\"Neko? We're going to pick up the rest of the goods, right?\"[lr]",
+      "jp": "ããã³ããï¼ãæ®ãã®è·ç©ãåãã«è¡ããã§ããã­ï¼ã[lr]",
+      "Pt-br": "\"Neko-san? A gente ainda ia pegar o resto das coisas, certo?\"[lr]",
+      "id": 18460,
+      "epk_id": "7753",
+      "label": "$$$message_0053_0047_0002$$$"
+    },
+    {
+      "en": "\"Yeah, I'm coming. Sorry, I was just wondering about that guy.\"[lr]",
+      "jp": "ããããè¡ããããããã­ãã¡ãããã®[ruby text=ã²ã¨]äººæ°ã«ãªã£ã¦ãã¼ã[lr]",
+      "Pt-br": "\"Sim, tô indo. Desculpe, só tava me perguntando sobre ele.\"[lr]",
+      "id": 18461,
+      "epk_id": "7754",
+      "label": "$$$message_0053_0047_0003$$$"
+    },
+    {
+      "en": "\"You mean Mr. Kuzuki?\"[lr]",
+      "jp": "ãï¼ããã®äººã£ã¦ãèæ¨å\nçã®ã³ãã§ããï¼ã[lr]",
+      "Pt-br": "\"Se refere ao Kuzuki-sensei?\"[lr]",
+      "id": 18462,
+      "epk_id": "7755",
+      "label": "$$$message_0053_0047_0004$$$"
+    },
+    {
+      "en": "\"Yeah, him. I hate to admit it, but he's totally my type. That's the sort of man I'm into.\"[lr]",
+      "jp": "ããããããã¾ãã£ãããã£ã¡ãã¿ã¤ããã¢ã¿ã·ããããäººå¥½ããªããã[lr]",
+      "Pt-br": "\"Sim, ele mesmo. Eu odeio admitir, mas ele com certeza faz o meu tipo. Esse é o tipo de homem que me atrai.\"[lr]",
+      "id": 18463,
+      "epk_id": "7756",
+      "label": "$$$message_0053_0047_0005$$$"
+    },
+    {
+      "en": "\"...What?\"",
+      "jp": "ã[line len=3]ãã¯ãï¼ã",
+      "Pt-br": "\"...O quê?\"",
+      "id": 18464,
+      "epk_id": "7757",
+      "label": "$$$message_0053_0047_0006$$$"
+    },
+    {
+      "en": "Neko starts walking, as if she didn't just drop a bombshell.[lr]",
+      "jp": "ãä½äºããªãã£ãããã«æ­©ãåºããã³ããã[lr]",
+      "Pt-br": "A Neko-san começa a caminhar, como se não tivesse acabado de soltar uma bomba.[lr]",
+      "id": 18465,
+      "epk_id": "7758",
+      "label": "$$$message_0053_0048_0000$$$"
+    },
+    {
+      "en": "\"Uh...\"[lr]",
+      "jp": "ãâ¦â¦ãã¼â¦â¦ã[lr]",
+      "Pt-br": "\"Ehr...\"[lr]",
+      "id": 18466,
+      "epk_id": "7759",
+      "label": "$$$message_0053_0048_0001$$$"
+    },
+    {
+      "en": "I think this requires further explanation.[lr]",
+      "jp": "ãä¸å¿ãå¿µã®ãããè§£èª¬ãããªãã¦ã¯ãªãã¾ãã[lr]",
+      "Pt-br": "Acho que isso exige mais explicações.[lr]",
+      "id": 18467,
+      "epk_id": "7760",
+      "label": "$$$message_0053_0048_0002$$$"
+    },
+    {
+      "en": "\"Neko. Mr. Kuzuki has a wife, you know.\"[lr]",
+      "jp": "ããã³ãããèæ¨å\nçã«ã¯å¥¥ããããããã ã[lr]",
+      "Pt-br": "\"Neko-san. O Kuzuki-sensei é casado, sabia?\"[lr]",
+      "id": 18468,
+      "epk_id": "7761",
+      "label": "$$$message_0053_0048_0003$$$"
+    },
+    {
+      "en": "\"I heard him. What about it?\"[lr]",
+      "jp": "ãããè¨ã£ã¦ãã­ããããã©ããããï¼ã[lr]",
+      "Pt-br": "\"Eu ouvi. O que tem de mais nisso?\"[lr]",
+      "id": 18469,
+      "epk_id": "7762",
+      "label": "$$$message_0053_0048_0004$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "ãâ¦â¦â¦â¦ã[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 18470,
+      "epk_id": "7763",
+      "label": "$$$message_0053_0048_0005$$$"
+    },
+    {
+      "en": "I don't even know where to begin...",
+      "jp": "ããããã©ãããããã¨è¨ãããã¨ãã£ã¡ãè¿ç­ãããããªãã¨ãããâ¦â¦",
+      "Pt-br": "Não sei nem por onde começar...",
+      "id": 18471,
+      "epk_id": "7764",
+      "label": "$$$message_0053_0048_0006$$$"
+    },
+    {
+      "en": "\"I just admire people like that. I bet he could hold his drink and earnestly listen to what I have to say. Makes me wish I could join them for that evening drink.\"[lr]",
+      "jp": "ãããããäººããããªããéãã«é\né£²ãããã ãããã£ã¡ã®è©±çå£ã«èãã¦ããããã ããã¢ã¿ã·ãæè¦é\nã«ä¹±å\n¥ããããããã[lr]",
+      "Pt-br": "\"Eu apenas admiro pessoas como ele. Aposto que ele poderia segurar a sua bebida e prestar atenção em tudo o que eu dissesse com a maior seriedade. Me faz desejar que eu pudesse me juntar a eles na bebedeira de hoje à noite.\"[lr]",
+      "id": 18472,
+      "epk_id": "7765",
+      "label": "$$$message_0053_0049_0000$$$"
+    },
+    {
+      "en": "Neko laughs good-naturedly.[lr]",
+      "jp": "ããã£ã¯ã£ã¯ãã¨ç¬ããã³ããã[lr]",
+      "Pt-br": "A Neko-san dá uma risada contagiante.[lr]",
+      "id": 18473,
+      "epk_id": "7766",
+      "label": "$$$message_0053_0049_0001$$$"
+    },
+    {
+      "en": "\"I see...\"[lr]",
+      "jp": "ããªãã»ã©â¦â¦ã[lr]",
+      "Pt-br": "\"Entendi...\"[lr]",
+      "id": 18474,
+      "epk_id": "7767",
+      "label": "$$$message_0053_0049_0002$$$"
+    },
+    {
+      "en": "So that's what she meant.[lr]",
+      "jp": "ãããããã³ããã[lr]",
+      "Pt-br": "Então era isso que ela queria dizer.[lr]",
+      "id": 18475,
+      "epk_id": "7768",
+      "label": "$$$message_0053_0049_0003$$$"
+    },
+    {
+      "en": "I don't think that's problematic...right?[lr]",
+      "jp": "ãâ¦â¦ã¾ãããããªãåé¡ã¯ãªãâ¦â¦ããªï¼[lr]",
+      "Pt-br": "Acho que isso não chega a ser problema... né?[lr]",
+      "id": 18476,
+      "epk_id": "7769",
+      "label": "$$$message_0053_0049_0004$$$"
+    },
+    {
+      "en": "Mr. Kuzuki can be her new drinking buddy.",
+      "jp": "ãèæ¨å\nçããæ°ããé\né£²ã¿åéãã§ããã¯ã±ã ãã",
+      "Pt-br": "Kuzuki-sensei pode virar o novo parceiro de bebida dela.",
+      "id": 18477,
+      "epk_id": "7770",
+      "label": "$$$message_0053_0049_0005$$$"
+    },
+    {
+      "en": "\"Let's go, Emiyan.[lr]",
+      "jp": "ãè¡ããã¼ãã¨ãã¤ãã[lr]",
+      "Pt-br": "\"Vamos lá, Emiyan.[lr]",
+      "id": 18478,
+      "epk_id": "7771",
+      "label": "$$$message_0053_0050_0000$$$"
+    },
+    {
+      "en": "We'd better get this done quick, after wasting all that time.\"[lr]",
+      "jp": "ãç¡é§è©±ããåãããã£ã¨æ¸ã¾ããªãã¨ã­ã¼ã[lr]",
+      "Pt-br": "É melhor a gente terminar isso logo, depois de todo o tempo que a gente perdeu.\"[lr]",
+      "id": 18479,
+      "epk_id": "7772",
+      "label": "$$$message_0053_0050_0001$$$"
+    },
+    {
+      "en": "We head back for the entrance.[lr]",
+      "jp": "ãå±±éã«åããã[lr]",
+      "Pt-br": "Voltamos para a entrada.[lr]",
+      "id": 18480,
+      "epk_id": "7773",
+      "label": "$$$message_0053_0050_0002$$$"
+    },
+    {
+      "en": "I think I'll be able to finish helping Neko before noon.",
+      "jp": "ãã¨ãããããååä¸­ã¯ãã³ããã®ãæä¼ãã§çµããããã ã",
+      "Pt-br": "Acho que vou conseguir terminar de ajudar a Neko-san antes do meio-dia.",
+      "id": 18481,
+      "epk_id": "7774",
+      "label": "$$$message_0053_0050_0003$$$"
+    },
+    {
+      "en": "\"Wow. That's the first time I've ever seen you fail to throw someone, Rei. Is he from the temple?\"[r]",
+      "jp": "ãé©ãããããé¶ããã[r]æããããªãã£ãäººã[r]åãã¦è¦ãããã¡ãã®æ¹ã[r]ãå¯ºã®äººãªã®ï¼ã:ó\u0004",
+      "Pt-br": "\"Uau. É a primeira vez que vejo o Rei-kun não conseguir arremessar alguém. Ele é do templo?\"[r]",
+      "id": 18482,
+      "epk_id": "907656",
+      "label": "$$$message_9053_0020_0000$$$"
+    }
+  ]
+}

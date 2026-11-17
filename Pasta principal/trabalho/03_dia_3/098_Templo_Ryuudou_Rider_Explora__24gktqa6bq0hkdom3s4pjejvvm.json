@@ -1,0 +1,720 @@
+{
+  "cena": "24gktqa6bq0hkdom3s4pjejvvm",
+  "titulo": "Templo Ryuudou: Rider Explora",
+  "rota": "Dia 3",
+  "arquivo": "24gktqa6bq0hkdom3s4pjejvvm.epk_dec",
+  "linhas": [
+    {
+      "en": "I leave the main temple and make for the forest behind it.[lr]",
+      "jp": "　お堂を背にして、裏の林に向かう。[lr]",
+      "Pt-br": "Saio do templo principal e sigo para a floresta nos fundos.[lr]",
+      "id": 15367,
+      "epk_id": "7274",
+      "label": "$$$message_0050_0000_0000$$$"
+    },
+    {
+      "en": "I'm fond of taking walks on this back road.[lr]",
+      "jp": "　この裏参道はお気に入りの散歩道だ。[lr]",
+      "Pt-br": "Gosto de passear por essa trilha.[lr]",
+      "id": 15368,
+      "epk_id": "7275",
+      "label": "$$$message_0050_0000_0001$$$"
+    },
+    {
+      "en": "I avoid the route that leads to the large cemetery, taking the scenic route.[lr]",
+      "jp": "　広い墓地をよぎる道は避けて、周囲を散策する。[lr]",
+      "Pt-br": "Evito o caminho que leva ao grande cemitério e pego a rota mais agradável.[lr]",
+      "id": 15369,
+      "epk_id": "7276",
+      "label": "$$$message_0050_0000_0002$$$"
+    },
+    {
+      "en": "When, suddenly...[lr]",
+      "jp": "　……と、不意に、[lr]",
+      "Pt-br": "Até que, de repente...[lr]",
+      "id": 15370,
+      "epk_id": "7277",
+      "label": "$$$message_0050_0000_0003$$$"
+    },
+    {
+      "en": "\"...[wait canskip=0 time=1000][say storage=ryu0304_rad_0000 name=ライダー]Is that really you, Shirou?\"[lr]",
+      "jp": "「[line len=3][wait canskip=0 time=1000][say storage=ryu0304_rad_0000 name=ライダー]そこにいるのは、本当に士郎ですか」[lr]",
+      "Pt-br": "\"...[wait canskip=0 time=1000][say storage=ryu0304_rad_0000 name=ライダー]É você mesmo, Shirou?\"[lr]",
+      "id": 15371,
+      "epk_id": "7278",
+      "label": "$$$message_0050_0000_0004$$$"
+    },
+    {
+      "en": "...a familiar voice calls out to me.",
+      "jp": "　聞き覚えのある声に呼び止められた。",
+      "Pt-br": "...uma voz familiar me chama.",
+      "id": 15372,
+      "epk_id": "7279",
+      "label": "$$$message_0050_0000_0005$$$"
+    },
+    {
+      "en": "\"Huh, Rider? Why are you here?\"[wvs][se storage=se048.wav][lr]",
+      "jp": "「あれ、ライダー？　どうして？」[wvs][se storage=se048.wav][lr]",
+      "Pt-br": "\"Ué, Rider? O que você está fazendo aqui?\"[wvs][se storage=se048.wav][lr]",
+      "id": 15373,
+      "epk_id": "7280",
+      "label": "$$$message_0050_0001_0000$$$"
+    },
+    {
+      "en": "\"...I came to check out something I was curious about.\"[lr]",
+      "jp": "「…………気になる事があって調べに来たのですが」[lr]",
+      "Pt-br": "\"...Vim verificar uma coisa que estava me intrigando.\"[lr]",
+      "id": 15374,
+      "epk_id": "7281",
+      "label": "$$$message_0050_0001_0001$$$"
+    },
+    {
+      "en": "Rider appears from the other side of a thicket.[lr]",
+      "jp": "　繁みの向こうからライダーが現れる。[lr]",
+      "Pt-br": "Rider surge do outro lado de uma moita.[lr]",
+      "id": 15375,
+      "epk_id": "7282",
+      "label": "$$$message_0050_0001_0002$$$"
+    },
+    {
+      "en": "...I unconsciously stiffen at the sight of her familiar black dress.[lr]",
+      "jp": "　……見覚えある黒衣に、思わず身が硬くなる。[lr]",
+      "Pt-br": "...Meu corpo se retesa sem querer ao ver aquele traje preto tão familiar.[lr]",
+      "id": 15376,
+      "epk_id": "7283",
+      "label": "$$$message_0050_0001_0003$$$"
+    },
+    {
+      "en": "Given past experience, I tense up on reflex.",
+      "jp": "　かつての経験からか、つい反射的に緊張してしまった。",
+      "Pt-br": "Pelas experiências passadas, fico tenso por reflexo.",
+      "id": 15377,
+      "epk_id": "7284",
+      "label": "$$$message_0050_0001_0004$$$"
+    },
+    {
+      "en": "\"...Shirou, what are you doing here?\"[lr]",
+      "jp": "「…………士郎。貴方は、なぜこの場所に？」[lr]",
+      "Pt-br": "\"...Shirou, o que está fazendo aqui?\"[lr]",
+      "id": 15378,
+      "epk_id": "7285",
+      "label": "$$$message_0050_0002_0000$$$"
+    },
+    {
+      "en": "\"Huh? I was just taking a walk... Issei lives at the temple, and I've always taken walks back here.[lr]",
+      "jp": "「え？　いや、単なる散歩なんだけど……柳洞寺には一成がいるし、ここは昔から使ってるし。[lr]",
+      "Pt-br": "\"Hã? Só estava dando uma volta... O Issei mora no templo, e eu sempre passeio por aqui nos fundos.[lr]",
+      "id": 15379,
+      "epk_id": "7286",
+      "label": "$$$message_0050_0002_0001$$$"
+    },
+    {
+      "en": "What were you curious about, Rider...?\"",
+      "jp": "　それよりライダー、気になる事って……？」",
+      "Pt-br": "O que deixou você curiosa, Rider...?\"",
+      "id": 15380,
+      "epk_id": "7287",
+      "label": "$$$message_0050_0002_0002$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「………………」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 15381,
+      "epk_id": "7288",
+      "label": "$$$message_0050_0003_0000$$$"
+    },
+    {
+      "en": "Rider goes silent.[lr]",
+      "jp": "　押し黙るライダー。[lr]",
+      "Pt-br": "Rider fica em silêncio.[lr]",
+      "id": 15382,
+      "epk_id": "7289",
+      "label": "$$$message_0050_0003_0001$$$"
+    },
+    {
+      "en": "...I can feel her gaze boring into me intently from behind her blindfold.[lr]",
+      "jp": "　……何か思うところがあるのか、マスク越しの視線が刺さる。[lr]",
+      "Pt-br": "...Mesmo por trás da venda, sinto o olhar dela me perfurando.[lr]",
+      "id": 15383,
+      "epk_id": "7290",
+      "label": "$$$message_0050_0003_0002$$$"
+    },
+    {
+      "en": "It isn't exactly murderous, but it's cold, bordering on hostile.[lr]",
+      "jp": "　殺意こそないが、彼女の視線の冷たさは敵意に近い。[lr]",
+      "Pt-br": "Não chega a ser uma intenção assassina, mas é um olhar frio, quase hostil.[lr]",
+      "id": 15384,
+      "epk_id": "7291",
+      "label": "$$$message_0050_0003_0003$$$"
+    },
+    {
+      "en": "...What is it they say about walking into a lion's den? I feel pinned by her gaze, even though she isn't using her Mystic Eyes on me.",
+      "jp": "　……ヘビに睨まれたなんとやらだ。石化の魔眼を使われずとも、金縛りにあっている。",
+      "Pt-br": "...Como é mesmo aquela história de entrar na toca do leão? Sinto o olhar dela me prender, embora nem esteja usando os Olhos Místicos.",
+      "id": 15385,
+      "epk_id": "7292",
+      "label": "$$$message_0050_0003_0004$$$"
+    },
+    {
+      "en": "\"...Nothing. I must have misunderstood the situation. You would leave traces of your presence here if you frequented this path.\"[lr]",
+      "jp": "「………………いえ、私の勘違いでしょう。ここが士郎の散歩道なら、気配も残っているでしょうし」[lr]",
+      "Pt-br": "\"...Não foi nada. Acho que interpretei mal a situação. Se você passasse sempre por aqui, teria deixado vestígios da sua presença.\"[lr]",
+      "id": 15386,
+      "epk_id": "7293",
+      "label": "$$$message_0050_0004_0000$$$"
+    },
+    {
+      "en": "\"Rider...?\"[lr]",
+      "jp": "「ライダー……？」[lr]",
+      "Pt-br": "\"Rider...?\"[lr]",
+      "id": 15387,
+      "epk_id": "7294",
+      "label": "$$$message_0050_0004_0001$$$"
+    },
+    {
+      "en": "\"Pardon me, Shirou.[lr]",
+      "jp": "「失礼しました士郎。[lr]",
+      "Pt-br": "\"Desculpe-me, Shirou.[lr]",
+      "id": 15388,
+      "epk_id": "7295",
+      "label": "$$$message_0050_0004_0002$$$"
+    },
+    {
+      "en": "...I hope you'll forget this incident.\"",
+      "jp": "　[line len=3]今のは忘れてくださると助かります」",
+      "Pt-br": "...Espero que esqueça o que aconteceu.\"",
+      "id": 15389,
+      "epk_id": "7296",
+      "label": "$$$message_0050_0004_0003$$$"
+    },
+    {
+      "en": "The tension slowly drains from my body.[lr]",
+      "jp": "　ピリピリとした緊張が薄れていく。[lr]",
+      "Pt-br": "A tensão abandona meu corpo aos poucos.[lr]",
+      "id": 15390,
+      "epk_id": "7297",
+      "label": "$$$message_0050_0005_0000$$$"
+    },
+    {
+      "en": "Rider smiles softly, as if to move on from that awkward moment.[lr]",
+      "jp": "　ライダーは先ほどの敵意を誤魔化すように、優しげに微笑んだ。[lr]",
+      "Pt-br": "Rider dá um sorriso suave, como se quisesse deixar aquele momento constrangedor para trás.[lr]",
+      "id": 15391,
+      "epk_id": "7298",
+      "label": "$$$message_0050_0005_0001$$$"
+    },
+    {
+      "en": "\"...I won't forget it just because you asked.[lr]",
+      "jp": "「……忘れろって言うなら聞かないけど。[lr]",
+      "Pt-br": "\"Não vou esquecer só porque você pediu.[lr]",
+      "id": 15392,
+      "epk_id": "7299",
+      "label": "$$$message_0050_0005_0002$$$"
+    },
+    {
+      "en": "But I guess I shouldn't ask what you're doing here.\"",
+      "jp": "　じゃあ、ライダーがここにいたコトも聞かない方がいいのかな」",
+      "Pt-br": "Mas acho melhor não perguntar o que veio fazer aqui.\"",
+      "id": 15393,
+      "epk_id": "7300",
+      "label": "$$$message_0050_0005_0003$$$"
+    },
+    {
+      "en": "\"No, I don't mind.[lr]",
+      "jp": "「いえ、そちらは問題ありません。[lr]",
+      "Pt-br": "\"Não, não me importo.[lr]",
+      "id": 15394,
+      "epk_id": "7301",
+      "label": "$$$message_0050_0006_0000$$$"
+    },
+    {
+      "en": "...I came here because I sensed a disruption in the leylines. This is Caster's territory, and accordingly fraught with her magecraft, but the distortion I sensed isn't one of her workings.[lr]",
+      "jp": "　……私がここに訪れたのは、地脈の乱れを感知したからです。この地はキャスターの領域ですので様々な魔術の手が加えられていますが、この捻れは彼女の魔術によるものではない。[lr]",
+      "Pt-br": "...Vim porque senti uma perturbação nas linhas de mana. Este é o território de Caster e, portanto, está impregnado da magia dela, mas a distorção que senti não é obra sua.[lr]",
+      "id": 15395,
+      "epk_id": "7302",
+      "label": "$$$message_0050_0006_0001$$$"
+    },
+    {
+      "en": "I suspected it might be the doing of another Master or Servant, but that also doesn't seem to be the case.\"",
+      "jp": "　他のマスターやサーヴァントの干渉も疑ったのですが、どうやらそれも異なる」",
+      "Pt-br": "Suspeitei que pudesse ser obra de outro Mestre ou Servo, mas também não parece ser o caso.\"",
+      "id": 15396,
+      "epk_id": "7303",
+      "label": "$$$message_0050_0006_0002$$$"
+    },
+    {
+      "en": "\"Another Servant... Did you end up fighting Assassin at the gate?\"[lr]",
+      "jp": "「他のサーヴァント……まさか山門のアサシンとやりあったのか？」[lr]",
+      "Pt-br": "\"Outro Servo... Você acabou enfrentando Assassin no portão?\"[lr]",
+      "id": 15397,
+      "epk_id": "7304",
+      "label": "$$$message_0050_0007_0000$$$"
+    },
+    {
+      "en": "\"No. He simply greeted me and allowed me to pass.\"[lr]",
+      "jp": "「いえ、山門でしたら普通に挨拶をして通りました」[lr]",
+      "Pt-br": "\"Não. Ele apenas me cumprimentou e permitiu que eu passasse.\"[lr]",
+      "id": 15398,
+      "epk_id": "7305",
+      "label": "$$$message_0050_0007_0001$$$"
+    },
+    {
+      "en": "\"Greeted you? Like, with a 'hello'?\"[lr]",
+      "jp": "「挨拶って[line len=3]『こんにちは』って？」[lr]",
+      "Pt-br": "\"Cumprimentou? Tipo, com um 'olá'?\"[lr]",
+      "id": 15399,
+      "epk_id": "7306",
+      "label": "$$$message_0050_0007_0002$$$"
+    },
+    {
+      "en": "Rider nods.[lr]",
+      "jp": "　ライダーはこくりとうなずく。[lr]",
+      "Pt-br": "Rider confirma com a cabeça.[lr]",
+      "id": 15400,
+      "epk_id": "7307",
+      "label": "$$$message_0050_0007_0003$$$"
+    },
+    {
+      "en": "...That's some gatekeeper.[lr]",
+      "jp": "　……それはまたずいぶんな門番だ。[lr]",
+      "Pt-br": "...Belo Guardião de portão.[lr]",
+      "id": 15401,
+      "epk_id": "7308",
+      "label": "$$$message_0050_0007_0004$$$"
+    },
+    {
+      "en": "Assassin must be pretty confident in his ability to sense killing intent.",
+      "jp": "　邪気殺気を感じとる己の技量に、相当に自信があるんだろうなアサシンは。",
+      "Pt-br": "Assassin deve confiar muito no próprio instinto para sentir intenção assassina.",
+      "id": 15402,
+      "epk_id": "7309",
+      "label": "$$$message_0050_0007_0005$$$"
+    },
+    {
+      "en": "\"...I'm sorry.[l][say storage=ryu0304_rad_0081 name=ライダー]",
+      "jp": "「……すみません。[l][say storage=ryu0304_rad_0081 name=ライダー]",
+      "Pt-br": "\"...Perdoe-me.[l][say storage=ryu0304_rad_0081 name=ライダー]",
+      "id": 15403,
+      "epk_id": "7310",
+      "label": "$$$message_0050_0008_0000$$$"
+    },
+    {
+      "en": " My appearance must be making you uneasy, Shirou.[l][say storage=ryu0304_rad_0082 name=ライダー]",
+      "jp": "この姿は士郎にプレッシャーを与えているようですね。[l][say storage=ryu0304_rad_0082 name=ライダー]",
+      "Pt-br": " Minha aparência deve estar deixando você inquieto, Shirou.[l][say storage=ryu0304_rad_0082 name=ライダー]",
+      "id": 15404,
+      "epk_id": "7311",
+      "label": "$$$message_0050_0008_0001$$$"
+    },
+    {
+      "en": " This helps me focus on my work, but if it bothers you, should I change back into my usual outfit?\"[lr]",
+      "jp": "こちらの方が集中できるのですが、士郎が気になるというのでしたら普段着に戻りましょうか？」[lr]",
+      "Pt-br": " Este traje me ajuda a me concentrar no trabalho, mas, se isso incomoda você, devo voltar a usar minhas roupas de sempre?\"[lr]",
+      "id": 15405,
+      "epk_id": "7312",
+      "label": "$$$message_0050_0008_0002$$$"
+    },
+    {
+      "en": "\"Oh, uh, no need for that.[l][say storage=ryu0304_shi_0061 name=士郎]",
+      "jp": "「あ、いや、それには及ばない。[l][say storage=ryu0304_shi_0061 name=士郎]",
+      "Pt-br": "\"Ah, não, não precisa.[l][say storage=ryu0304_shi_0061 name=士郎]",
+      "id": 15406,
+      "epk_id": "7313",
+      "label": "$$$message_0050_0008_0003$$$"
+    },
+    {
+      "en": " More importantly, what kind of leyline distortion are we talking about?\"[lr]",
+      "jp": "……それより、地脈の乱れってどんな乱れを察したんだ？」[lr]",
+      "Pt-br": " Mais importante: que tipo de distorção nas linhas de mana você sentiu?\"[lr]",
+      "id": 15407,
+      "epk_id": "7314",
+      "label": "$$$message_0050_0008_0004$$$"
+    },
+    {
+      "en": "\"...Can't you feel it, Shirou?\"",
+      "jp": "「……士郎は感じませんか？」",
+      "Pt-br": "\"...Você não consegue senti-la, Shirou?\"",
+      "id": 15408,
+      "epk_id": "7315",
+      "label": "$$$message_0050_0008_0005$$$"
+    },
+    {
+      "en": "At her suggestion, I sharpen my senses.[lr]",
+      "jp": "　うながされるままに神経を研ぎ澄ます。[lr]",
+      "Pt-br": "Seguindo a sugestão dela, aguço os sentidos.[lr]",
+      "id": 15409,
+      "epk_id": "7316",
+      "label": "$$$message_0050_0009_0000$$$"
+    },
+    {
+      "en": "...I can't sense magical energy, but I'm confident in my ability to notice changes in my surroundings and the seams in the world.[lr]",
+      "jp": "　……俺は魔力感知こそできないが、周囲の異常、世界の綻びの感知には自信がある。[lr]",
+      "Pt-br": "...Não consigo sentir energia mágica, mas confio no meu instinto para perceber mudanças ao redor e nas costuras do mundo.[lr]",
+      "id": 15410,
+      "epk_id": "7317",
+      "label": "$$$message_0050_0009_0001$$$"
+    },
+    {
+      "en": "With senses, not spells[line len=2]with instinct, not theory[line len=2]I feel the entire structure of the mountain.",
+      "jp": "　術式ではなく感覚、理論ではなく本能で、お山の全体構造を感じ取る。",
+      "Pt-br": "Com os sentidos, não com feitiços[line len=2]com o instinto, não com a teoria[line len=2]sinto toda a estrutura da montanha.",
+      "id": 15411,
+      "epk_id": "7318",
+      "label": "$$$message_0050_0009_0002$$$"
+    },
+    {
+      "en": "\"...First, I can feel a dense spiritual aura covering the entire mountain. That's to be expected, thanks to Fuyuki's leylines...but there's a different current that seems to overlap with it. It's cleverly concealed, but I'm guessing this is Caster's Bounded Field.[lr]",
+      "jp": "「……まず、お山全体に濃い霊気を感じる。冬木の霊脈だから、これは当然として……それに重なるように違う動脈が走っている。巧妙に偽装してるけど、これがキャスターの結界か。[lr]",
+      "Pt-br": "\"...Primeiro, sinto uma aura espiritual densa cobrindo toda a montanha. É de se esperar, por causa das linhas de mana de Fuyuki... mas há outra corrente que parece se sobrepor a ela. Está muito bem oculta, mas suponho que seja o Campo Limitado de Caster.[lr]",
+      "id": 15412,
+      "epk_id": "7319",
+      "label": "$$$message_0050_0010_0000$$$"
+    },
+    {
+      "en": "Other than that...I don't feel anything else abnormal.\"",
+      "jp": "　後は……もう異常らしきものは感じない」",
+      "Pt-br": "Fora isso... não sinto nenhuma outra anormalidade.\"",
+      "id": 15413,
+      "epk_id": "7320",
+      "label": "$$$message_0050_0010_0001$$$"
+    },
+    {
+      "en": "I look up.[lr]",
+      "jp": "　顔を上げる。[lr]",
+      "Pt-br": "Ergo os olhos.[lr]",
+      "id": 15414,
+      "epk_id": "7321",
+      "label": "$$$message_0050_0011_0000$$$"
+    },
+    {
+      "en": "...Rider pauses to think. She looks frustrated.",
+      "jp": "　……思案気に顔を伏せたライダーは、苛ついているように見えた。",
+      "Pt-br": "...Rider se detém para pensar. Parece frustrada.",
+      "id": 15415,
+      "epk_id": "7322",
+      "label": "$$$message_0050_0011_0001$$$"
+    },
+    {
+      "en": "\"...I see.[lr]",
+      "jp": "「……そうですか。[lr]",
+      "Pt-br": "\"...Entendo.[lr]",
+      "id": 15416,
+      "epk_id": "7323",
+      "label": "$$$message_0050_0012_0000$$$"
+    },
+    {
+      "en": "If you cannot perceive it, then the problem may lie with me, rather than the mountain.[lr]",
+      "jp": "　士郎に感じ取れない、というのなら、おかしいのはこの山ではなく私自身という事になる。[lr]",
+      "Pt-br": "Se você não consegue perceber, então talvez o problema esteja em mim, não na montanha.[lr]",
+      "id": 15417,
+      "epk_id": "7324",
+      "label": "$$$message_0050_0012_0001$$$"
+    },
+    {
+      "en": "...I am an aberrant being, so I must be closer to this side than I imagined.\"",
+      "jp": "　……異質なのは私の方で、思っているよりこちら側に近づいているのでしょう」",
+      "Pt-br": "...Sou uma existência anômala. Devo estar mais próxima deste lado do que imaginava.\"",
+      "id": 15418,
+      "epk_id": "7325",
+      "label": "$$$message_0050_0012_0002$$$"
+    },
+    {
+      "en": "Closer to this side.[lr]",
+      "jp": "　こちら側。[lr]",
+      "Pt-br": "Mais próxima deste lado.[lr]",
+      "id": 15419,
+      "epk_id": "7326",
+      "label": "$$$message_0050_0013_0000$$$"
+    },
+    {
+      "en": "That sounds...ominous.[lr]",
+      "jp": "　……その響きは、不吉な風を連想させる。[lr]",
+      "Pt-br": "Isso soa... agourento.[lr]",
+      "id": 15420,
+      "epk_id": "7327",
+      "label": "$$$message_0050_0013_0001$$$"
+    },
+    {
+      "en": "Rider bites her lip for a second, then lightly shakes her head and turns back to me.",
+      "jp": "　ライダーはかすかに歯を噛んだ後、否定するように軽く頭を振ってこちらに向き直った。",
+      "Pt-br": "Rider morde o lábio por um instante, balança de leve a cabeça e volta a olhar para mim.",
+      "id": 15421,
+      "epk_id": "7328",
+      "label": "$$$message_0050_0013_0002$$$"
+    },
+    {
+      "en": "\"There's no need to concern yourself with it, Shirou. It has nothing to do with you.[lr]",
+      "jp": "「お気になさらずに、士郎には関わりのない事です。[lr]",
+      "Pt-br": "\"Não precisa se preocupar com isso, Shirou. Não tem nada a ver com você.[lr]",
+      "id": 15422,
+      "epk_id": "7329",
+      "label": "$$$message_0050_0014_0000$$$"
+    },
+    {
+      "en": "I was originally a divinity related to the earth, so I am sensitive to leyline disruptions. I must have overreacted to my unease this time.[lr]",
+      "jp": "　私はもともと大地に関わる神性ですので、地脈の乱れには敏感なのです。今回はそれがいきすぎて、細かな違和感に過剰反応をしてしまったのでしょう。[lr]",
+      "Pt-br": "Originalmente, eu era uma divindade ligada à terra, por isso sou sensível a perturbações nas linhas de mana. Desta vez, devo ter exagerado por estar apreensiva.[lr]",
+      "id": 15423,
+      "epk_id": "7330",
+      "label": "$$$message_0050_0014_0001$$$"
+    },
+    {
+      "en": "...Yes, if I consider it calmly, it really is not worth mentioning. It is a small, insignificant discomfort, like a mosquito landing on one's shoulder... Even if it were to harm me, I could dispel it in an instant.\"",
+      "jp": "　……ええ、冷静になればどうという事のない違和感でした。肩に降りた蚊ほどの、小さな、取るに足りない不快感です。……仮に、これが[ruby text=のち]後に障害になったとしても、一息で吹き飛ばせる」",
+      "Pt-br": "...Sim. Pensando com calma, não é nada digno de nota. É um incômodo pequeno e insignificante, como um mosquito pousando no ombro... Mesmo que me fizesse mal, eu poderia dissipá-lo num instante.\"",
+      "id": 15424,
+      "epk_id": "7331",
+      "label": "$$$message_0050_0014_0002$$$"
+    },
+    {
+      "en": "...Rider's unusually talkative.[lr]",
+      "jp": "　……珍しく饒舌なライダーだった。[lr]",
+      "Pt-br": "...Rider está mais falante que o normal.[lr]",
+      "id": 15425,
+      "epk_id": "7332",
+      "label": "$$$message_0050_0015_0000$$$"
+    },
+    {
+      "en": "It almost sounds like she's trying to convince herself to forget her worries.",
+      "jp": "　まるで、そう自分に言い聞かせる事で、不安を払おうとしているかのように。",
+      "Pt-br": "Parece até que está tentando convencer a si mesma a esquecer suas preocupações.",
+      "id": 15426,
+      "epk_id": "7333",
+      "label": "$$$message_0050_0015_0001$$$"
+    },
+    {
+      "en": "\"...But it still feels wrong, doesn't it? Is it...because the Holy Grail War has resumed?\"",
+      "jp": "「……でも、どんなに些細なものでも違和感はあるんだろう？　それが……聖杯戦争を再開させたヤツじゃないのか？」",
+      "Pt-br": "\"...Mas ainda parece errado, não é? Será que... a Guerra do Santo Graal recomeçou?\"",
+      "id": 15427,
+      "epk_id": "7334",
+      "label": "$$$message_0050_0016_0000$$$"
+    },
+    {
+      "en": "\"Don't worry. This is a personal problem. It won't bring harm to you or Sakura.[lr]",
+      "jp": "「ご心配なく、これは私の問題です。士郎やサクラには害をおよぼしません。[lr]",
+      "Pt-br": "\"Não se preocupe. Este é um problema pessoal. Não vai fazer mal a você nem a Sakura.[lr]",
+      "id": 15428,
+      "epk_id": "7335",
+      "label": "$$$message_0050_0017_0000$$$"
+    },
+    {
+      "en": "...And even if it does, as one of its ilk, I will...\"[lr]",
+      "jp": "　……いえ。もしそうなったとしたら、同じものとして、私は今度こそ[line len=3]」[lr]",
+      "Pt-br": "...E, mesmo que faça, como um ser da mesma natureza, eu vou...\"[lr]",
+      "id": 15429,
+      "epk_id": "7336",
+      "label": "$$$message_0050_0017_0001$$$"
+    },
+    {
+      "en": "She's saying she'll protect us.[lr]",
+      "jp": "　貴方たちを、守らなければ、と。[lr]",
+      "Pt-br": "Ela está dizendo que vai nos proteger.[lr]",
+      "id": 15430,
+      "epk_id": "7337",
+      "label": "$$$message_0050_0017_0002$$$"
+    },
+    {
+      "en": "As if in penance for past sins, Rider muttered.",
+      "jp": "　過去の罪を懺悔するように、ライダーは呟いた。",
+      "Pt-br": "Como que para expiar os pecados do passado, Rider murmura essas palavras.",
+      "id": 15431,
+      "epk_id": "7338",
+      "label": "$$$message_0050_0017_0003$$$"
+    },
+    {
+      "en": "\"...Rider? You're acting weird. Are you all right?[lr]",
+      "jp": "「……ライダー？　なんだよ、さっきからヘンだぞ？[lr]",
+      "Pt-br": "\"...Rider? Você está estranha. Está tudo bem?[lr]",
+      "id": 15432,
+      "epk_id": "7339",
+      "label": "$$$message_0050_0018_0000$$$"
+    },
+    {
+      "en": "If something's bothering you...well, everyone has their own troubles, so I won't pressure you to tell me. But if there's anything you want to talk about, I'll do my best to help.\"",
+      "jp": "　悩み事は……まあ、人それぞれあるだろうから、無理に明かせとは言えないけど。何か相談に乗れる事があるなら、できるかぎり力になりたい」",
+      "Pt-br": "Se alguma coisa está incomodando você... Bem, todo mundo tem seus próprios problemas, então não vou pressioná-la a falar. Mas, se quiser conversar, farei o possível para ajudar.\"",
+      "id": 15433,
+      "epk_id": "7340",
+      "label": "$$$message_0050_0018_0001$$$"
+    },
+    {
+      "en": "\"Huh? ...Ah, no, I was just thinking out loud. It only affects me, not you or Sakura, and it isn't your problem, so...\"",
+      "jp": "「え[line len=3]あ、いえ、今のは、その、私の勝手な思いこみで、士郎やサクラには関係がないというか、私が貴方たちに自分を投影しているだけというか、」",
+      "Pt-br": "\"Hã? ...Ah, não. Eu só estava pensando em voz alta. Isso só afeta a mim, não a você ou Sakura, e não é problema seu, então...\"",
+      "id": 15434,
+      "epk_id": "7341",
+      "label": "$$$message_0050_0019_0000$$$"
+    },
+    {
+      "en": "Rider trips over her own words, flustered.[lr]",
+      "jp": "　あたふたと言葉を濁すライダー。[lr]",
+      "Pt-br": "Atrapalhada, Rider tropeça nas próprias palavras.[lr]",
+      "id": 15435,
+      "epk_id": "7342",
+      "label": "$$$message_0050_0020_0000$$$"
+    },
+    {
+      "en": "...Seeing her this way makes me smile, even if I feel a little guilty about it.[lr]",
+      "jp": "　……慌てているライダーには悪いのだが、なんかああいうライダーは微笑ましい。[lr]",
+      "Pt-br": "...Vê-la assim me faz sorrir, embora eu me sinta um pouco culpado.[lr]",
+      "id": 15436,
+      "epk_id": "7343",
+      "label": "$$$message_0050_0020_0001$$$"
+    },
+    {
+      "en": "She normally feels so much older than me, but right now, I could see her as a girl my age.",
+      "jp": "　いつもはずっと年上に感じるライダーが、なんとなく同い年の女の子に思える。",
+      "Pt-br": "Normalmente, ela parece muito mais velha que eu, mas agora consigo enxergá-la como uma garota da minha idade.",
+      "id": 15437,
+      "epk_id": "7344",
+      "label": "$$$message_0050_0020_0002$$$"
+    },
+    {
+      "en": "\"A-anyway, you can count on me to protect Sakura.\"[lr]",
+      "jp": "「と、とにかくですね、サクラの護衛はお任せください士郎」[lr]",
+      "Pt-br": "\"D-De qualquer forma, pode contar comigo para proteger Sakura.\"[lr]",
+      "id": 15438,
+      "epk_id": "7345",
+      "label": "$$$message_0050_0021_0000$$$"
+    },
+    {
+      "en": "\"...Yeah. Thanks, Rider.\"[lr]",
+      "jp": "「[line len=3]ああ。よろしく、ライダー」[lr]",
+      "Pt-br": "\"...Sim. Obrigado, Rider.\"[lr]",
+      "id": 15439,
+      "epk_id": "7346",
+      "label": "$$$message_0050_0021_0001$$$"
+    },
+    {
+      "en": "The gesture of trust makes me smile despite myself.[lr]",
+      "jp": "　絶対の信頼を寄せているからだろう、つい微笑んでしまった。[lr]",
+      "Pt-br": "Esse gesto de confiança me faz sorrir sem querer.[lr]",
+      "id": 15440,
+      "epk_id": "7347",
+      "label": "$$$message_0050_0021_0002$$$"
+    },
+    {
+      "en": "If Sakura has Rider with her, she will be fine no matter what.",
+      "jp": "　ライダーがいてくれるなら、何が起ころうと桜は大丈夫だろう。",
+      "Pt-br": "Com Rider ao seu lado, Sakura ficará bem, aconteça o que acontecer.",
+      "id": 15441,
+      "epk_id": "7348",
+      "label": "$$$message_0050_0021_0003$$$"
+    },
+    {
+      "en": "\"No, thank [font italic=true]you.[font italic=false][lr]",
+      "jp": "「ありがとうございます。[lr]",
+      "Pt-br": "\"Não, quem agradece sou [font italic=true]eu.[font italic=false][lr]",
+      "id": 15442,
+      "epk_id": "7349",
+      "label": "$$$message_0050_0022_0000$$$"
+    },
+    {
+      "en": "...Also, I wasn't supposed to say this, but Sakura isn't the only one I intend to protect. You're included as well, Shirou.\"[lr]",
+      "jp": "　……それと、本来口にすべき事ではないのですが、私の護衛対象はサクラだけではありません。士郎も、私の守護対象です」[lr]",
+      "Pt-br": "...E eu não deveria dizer isso, mas Sakura não é a única que pretendo proteger. Você também está incluído, Shirou.\"[lr]",
+      "id": 15443,
+      "epk_id": "7350",
+      "label": "$$$message_0050_0022_0001$$$"
+    },
+    {
+      "en": "\"Huh? But why?\"[lr]",
+      "jp": "「へ？　なんでさ？」[lr]",
+      "Pt-br": "\"Hã? Mas por quê?\"[lr]",
+      "id": 15444,
+      "epk_id": "7351",
+      "label": "$$$message_0050_0022_0002$$$"
+    },
+    {
+      "en": "Rider's supposed to be Sakura's Servant.",
+      "jp": "　ライダーは桜のサーヴァントなのに？",
+      "Pt-br": "Rider deveria ser o Servo de Sakura.",
+      "id": 15445,
+      "epk_id": "7352",
+      "label": "$$$message_0050_0022_0003$$$"
+    },
+    {
+      "en": "\"......[lr]",
+      "jp": "「…………………………。[lr]",
+      "Pt-br": "\"......[lr]",
+      "id": 15446,
+      "epk_id": "7353",
+      "label": "$$$message_0050_0023_0000$$$"
+    },
+    {
+      "en": "Never mind. I just meant that I can protect you while I protect Sakura, too.\"[lr]",
+      "jp": "　まあいいでしょう。サクラを守るという事は士郎を守る事にも繋がる、という事です」[lr]",
+      "Pt-br": "Esqueça. Só quis dizer que também posso proteger você enquanto protejo Sakura.\"[lr]",
+      "id": 15447,
+      "epk_id": "7354",
+      "label": "$$$message_0050_0023_0001$$$"
+    },
+    {
+      "en": "Rider turns away, looking unhappy.[lr]",
+      "jp": "　不機嫌そうに顔を背けるライダー。[lr]",
+      "Pt-br": "Rider desvia o rosto, contrariada.[lr]",
+      "id": 15448,
+      "epk_id": "7355",
+      "label": "$$$message_0050_0023_0002$$$"
+    },
+    {
+      "en": "That's weird... Did I say anything to upset her?",
+      "jp": "　おかしいな……気を悪くさせるコトを言ったっけ……？",
+      "Pt-br": "Que estranho... Será que eu disse alguma coisa que a incomodou?",
+      "id": 15449,
+      "epk_id": "7356",
+      "label": "$$$message_0050_0023_0003$$$"
+    },
+    {
+      "en": "\"I think it's about time I take my leave now. What will you do, Shirou?\"[lr]",
+      "jp": "「さて、私の方はこれくらいで切りあげる事にします。士郎、貴方は？」[lr]",
+      "Pt-br": "\"Acho que está na hora de eu ir. O que fará, Shirou?\"[lr]",
+      "id": 15450,
+      "epk_id": "7357",
+      "label": "$$$message_0050_0024_0000$$$"
+    },
+    {
+      "en": "\"I'm going to walk a little longer around the temple. [l][say storage=ryu0304_shi_0121 name=士郎]Oh, do you want to come pay your respects?\"",
+      "jp": "「もう少し寺を散歩していくよ。[l][say storage=ryu0304_shi_0121 name=士郎]あ、ライダーもお参りするか？」",
+      "Pt-br": "\"Vou caminhar mais um pouco pelo templo. [l][say storage=ryu0304_shi_0121 name=士郎]Ah, quer vir fazer uma prece?\"",
+      "id": 15451,
+      "epk_id": "7358",
+      "label": "$$$message_0050_0024_0001$$$"
+    },
+    {
+      "en": "\"...Would my prayer for Sakura's safety not offend the spirits enshrined here?\"[lr]",
+      "jp": "「…………私がサクラの安全を祈願してもこちらの霊格は機嫌を害しませんか？」[lr]",
+      "Pt-br": "\"...Minha prece pela segurança de Sakura não ofenderia os espíritos venerados aqui?\"[lr]",
+      "id": 15452,
+      "epk_id": "7359",
+      "label": "$$$message_0050_0025_0000$$$"
+    },
+    {
+      "en": "\"Why would it? Come on, I'll teach you the proper way to do it.\"[lr]",
+      "jp": "「いいんじゃないのか？　どうせなら、正しいお参りの礼儀作法も教えるよ」[lr]",
+      "Pt-br": "\"Por que ofenderia? Venha, vou ensinar o jeito certo.\"[lr]",
+      "id": 15453,
+      "epk_id": "7360",
+      "label": "$$$message_0050_0025_0001$$$"
+    },
+    {
+      "en": "\"I'd appreciate that. [cacheimage storage=ライダー私服01c(中)][wvl canskip=0 time=400][chgfg time=500 storage=ライダー私服01c(中) textoff=1]Then, if you wouldn't mind giving me a tour of the temple...\"",
+      "jp": "「であれば助かります[line len=3][cacheimage storage=ライダー私服01c(中)][wvl canskip=0 time=400][chgfg time=500 storage=ライダー私服01c(中) textoff=1]では、あらためて境内を見てまわらせて頂きましょう」",
+      "Pt-br": "\"Agradeço. [cacheimage storage=ライダー私服01c(中)][wvl canskip=0 time=400][chgfg time=500 storage=ライダー私服01c(中) textoff=1]Então, se não se importar em me mostrar o templo...\"",
+      "id": 15454,
+      "epk_id": "7361",
+      "label": "$$$message_0050_0025_0002$$$"
+    },
+    {
+      "en": "\"Huh, Rider? Why are you here?\"[r]",
+      "jp": "「あれ、ライダー？[r]どうして？」",
+      "Pt-br": "\"Ué, Rider? O que você está fazendo aqui?\"[r]",
+      "id": 15455,
+      "epk_id": "907280",
+      "label": "$$$message_9050_0001_0000$$$"
+    }
+  ]
+}

@@ -1,0 +1,848 @@
+{
+  "cena": "19p5t7i0kg8knkms1nl2errqbj",
+  "titulo": "Templo Ryuudou: Um Sonho Logo Antes",
+  "rota": "Dia 1",
+  "arquivo": "19p5t7i0kg8knkms1nl2errqbj.epk_dec",
+  "linhas": [
+    {
+      "en": "...That's unusual.[lr]",
+      "jp": "　……珍しいな。[lr]",
+      "Pt-br": "...Isso é raro.[lr]",
+      "id": 5894,
+      "epk_id": "6132",
+      "label": "$$$message_0043_0000_0000$$$"
+    },
+    {
+      "en": "Caster's just standing there, seemingly lost in thought.",
+      "jp": "　キャスターのヤツ、何をするでもなく物思いにふけっている。",
+      "Pt-br": "A Caster está apenas parada ali, como se estivesse perdida em pensamentos.",
+      "id": 5895,
+      "epk_id": "6133",
+      "label": "$$$message_0043_0000_0001$$$"
+    },
+    {
+      "en": "Good timing.[lr]",
+      "jp": "　ちょうどいい。[lr]",
+      "Pt-br": "Boa hora.[lr]",
+      "id": 5896,
+      "epk_id": "6134",
+      "label": "$$$message_0043_0001_0000$$$"
+    },
+    {
+      "en": "There's no one else around, so I'll ask her about the restarted Holy Grail War.[lr]",
+      "jp": "　周りには誰もいないし、再開した聖杯戦争について訊いてみよう。[lr]",
+      "Pt-br": "Não há mais ninguém por perto, então vou perguntar a ela sobre a Guerra do Santo Graal reiniciada.[lr]",
+      "id": 5897,
+      "epk_id": "6135",
+      "label": "$$$message_0043_0001_0001$$$"
+    },
+    {
+      "en": "Caster's settled down for now, but she did cast a Bounded Field on the entire town before.[lr]",
+      "jp": "　今は落ち着いたが、キャスターには町中に結界を張った前例がある。[lr]",
+      "Pt-br": "A Caster se acalmou por enquanto, mas ela lançou um Campo Limitado sobre toda a cidade antes.[lr]",
+      "id": 5898,
+      "epk_id": "6136",
+      "label": "$$$message_0043_0001_0002$$$"
+    },
+    {
+      "en": "I should make sure she isn't up to no good again, even if it's unlikely.",
+      "jp": "　まさかとは思うが、一応、最近何か企んでいないか確認はとっておかないと。",
+      "Pt-br": "É melhor garantir que ela não esteja aprontando de novo, por mais improvável que seja.",
+      "id": 5899,
+      "epk_id": "6137",
+      "label": "$$$message_0043_0001_0003$$$"
+    },
+    {
+      "en": "\"Caster. Do you mind if we talk a bit?\"[lr]",
+      "jp": "「キャスター。ちょっと話をしていいか？」[lr]",
+      "Pt-br": "\"Caster. Se importa se conversarmos um pouco?\"[lr]",
+      "id": 5900,
+      "epk_id": "6138",
+      "label": "$$$message_0043_0002_0000$$$"
+    },
+    {
+      "en": "She removes her gloomy hood and shoots me an icy look.",
+      "jp": "　ばさっと重っくるしいフードを取って、ちらり、と冷たく[ruby text=いちべつ char=2]一瞥された。",
+      "Pt-br": "Ela remove seu capuz sombrio e me lança um olhar gelado.",
+      "id": 5901,
+      "epk_id": "6139",
+      "label": "$$$message_0043_0002_0001$$$"
+    },
+    {
+      "en": "\"About what? I doubt it's anything good, coming from you.\"[lr]",
+      "jp": "「なにかしら。貴方の方から話しかけてくる以上、いい話ではないでしょうけど」[lr]",
+      "Pt-br": "\"Sobre o quê? Duvido que seja algo bom, vindo de você.\"[lr]",
+      "id": 5902,
+      "epk_id": "6140",
+      "label": "$$$message_0043_0003_0000$$$"
+    },
+    {
+      "en": "...I feel like she's on her guard. [l]She was so sociable when I ran into her in town, but now it's like she's back to half a year ago.",
+      "jp": "　……なんか警戒されている気がする。[l]街で会う時はわりと愛想いいのに、まるで半年前に戻ったようだ。",
+      "Pt-br": "...Sinto que ela está na defensiva. [l]Ela estava tão sociável quando encontrei com ela na cidade, mas agora parece ter voltado a meio ano atrás.",
+      "id": 5903,
+      "epk_id": "6141",
+      "label": "$$$message_0043_0003_0001$$$"
+    },
+    {
+      "en": "\"Well, that depends on you.[lr]",
+      "jp": "「いいか悪いかはアンタ次第だ。[lr]",
+      "Pt-br": "\"Bem, isso depende de você.[lr]",
+      "id": 5904,
+      "epk_id": "6142",
+      "label": "$$$message_0043_0004_0000$$$"
+    },
+    {
+      "en": "I'll get straight to the point. You aren't up to anything lately, are you? [l][say storage=ryu0117_shi_0012 name=å£«éƒŽ]I hope cloistered temple life hasn't been so stressful for you that you've fallen back on old habits.\"[lr]",
+      "jp": "　単刀直入に訊くけど、最近裏で何かやってないか？[l][say storage=ryu0117_shi_0012 name=士郎]　こう、禁欲的な寺の生活でストレスたまって、つい昔のクセが戻ったとか」[lr]",
+      "Pt-br": "Vou direto ao ponto. Você não anda aprontando nada, anda? [l][say storage=ryu0117_shi_0012 name=士郎]Espero que a vida reclusa no templo não tenha sido tão estressante a ponto de você voltar aos velhos hábitos.\"[lr]",
+      "id": 5905,
+      "epk_id": "6143",
+      "label": "$$$message_0043_0004_0001$$$"
+    },
+    {
+      "en": "We seem to have gotten off on the wrong foot, so I try to phrase it delicately without offending Caster.",
+      "jp": "　なんとなく場が重いんで、できるだけ穏便に、キャスターを刺激しないように訊いてみた。",
+      "Pt-br": "Parece que começamos com o pé esquerdo, então tento formular a pergunta com delicadeza para não ofender Caster.",
+      "id": 5906,
+      "epk_id": "6144",
+      "label": "$$$message_0043_0004_0002$$$"
+    },
+    {
+      "en": "\"Ohoho. What an interesting question, boy.[lr]",
+      "jp": "「ほほほ、面白いコトを訊くのね坊や。[lr]",
+      "Pt-br": "\"Ohoho. Que pergunta interessante, garoto.[lr]",
+      "id": 5907,
+      "epk_id": "6145",
+      "label": "$$$message_0043_0005_0000$$$"
+    },
+    {
+      "en": "Did you come all this way to ask me that so I could murder and bury you without anyone ever finding out?\"",
+      "jp": "　なぁに、こんなところで話しかけてくるなんて、誰にも見つからず殺されて埋められたりしたいのかしら？」",
+      "Pt-br": "Você veio até aqui só para me perguntar isso e me dar a chance de assassiná-lo e enterrá-lo sem que ninguém jamais descubra?\"",
+      "id": 5908,
+      "epk_id": "6146",
+      "label": "$$$message_0043_0005_0001$$$"
+    },
+    {
+      "en": "\"My mistake. Have you noticed anything strange going on in town recently?\"[lr]",
+      "jp": "「間違えた。最近街の様子がおかしいコトに心当たりはありませんか」[lr]",
+      "Pt-br": "\"Erro meu. Você notou algo estranho acontecendo na cidade ultimamente?\"[lr]",
+      "id": 5909,
+      "epk_id": "6147",
+      "label": "$$$message_0043_0006_0000$$$"
+    },
+    {
+      "en": "Sorry, ma'am. You scared me straight. The most cunning strategist of the Servants flashes me a devilish smile, showing me she hasn't lost her edge after six months of domestic life after all. Lesson learned.",
+      "jp": "　ごめんなさい背筋凍りました、半年間なまっていただろうに尋常ならざる笑顔が健在とは流石サーヴァント中最高の策士、恐れ入りました。",
+      "Pt-br": "Desculpe, senhora. A senhora me botou medo. A estrategista mais astuta entre os Servos me lança um sorriso diabólico, mostrando que não perdeu o fio da lâmina mesmo após seis meses de vida doméstica. Lição aprendida.",
+      "id": 5910,
+      "epk_id": "6148",
+      "label": "$$$message_0043_0006_0001$$$"
+    },
+    {
+      "en": "\"Start with that next time.[lr]",
+      "jp": "「はじめからそう言いなさい。[lr]",
+      "Pt-br": "\"Comece com isso na próxima vez.[lr]",
+      "id": 5911,
+      "epk_id": "6149",
+      "label": "$$$message_0043_0007_0000$$$"
+    },
+    {
+      "en": "And no, I am not feeling any particular stress.\"[lr]",
+      "jp": "　それとストレスなんてたまっていません」[lr]",
+      "Pt-br": "E não, não estou sentindo nenhum tipo de estresse.\"[lr]",
+      "id": 5912,
+      "epk_id": "6150",
+      "label": "$$$message_0043_0007_0001$$$"
+    },
+    {
+      "en": "...It's like hearing a drunk person insist that they're not drunk.[lr]",
+      "jp": "　……それは酔っぱらいによる『わたし酔ってないですよ』発言と同じなのであった。[lr]",
+      "Pt-br": "...É como ouvir uma pessoa bêbada insistindo que não está bêbada.[lr]",
+      "id": 5913,
+      "epk_id": "6151",
+      "label": "$$$message_0043_0007_0002$$$"
+    },
+    {
+      "en": "...I sure hope things are okay at Ryudou Temple.",
+      "jp": "　……ホントに大丈夫なのかな、柳洞寺。",
+      "Pt-br": "...Espero que tudo esteja bem no Templo Ryuudou.",
+      "id": 5914,
+      "epk_id": "6152",
+      "label": "$$$message_0043_0007_0003$$$"
+    },
+    {
+      "en": "\"Oh. Well, some exercise might be good for you. You could run a marathon, fix the temple stairs, even put on a light show in the Einzbern Forest.\"[lr]",
+      "jp": "「そっか。けど、たまには運動してみるのもいいもんだぞ。マラソンとか、柳洞寺の階段を往復したりとか、アインツベルンの森で火力演習したりとか」[lr]",
+      "Pt-br": "\"Ah. Bem, um pouco de exercício talvez te faça bem. Você poderia correr uma maratona, consertar as escadas do templo, até montar um show de luz na Floresta Einzbern.\"[lr]",
+      "id": 5915,
+      "epk_id": "6153",
+      "label": "$$$message_0043_0008_0000$$$"
+    },
+    {
+      "en": "The mountain woods would be a more than sufficient proving ground for Caster to blow off some steam. Plus, Berserker might even be willing to play along for a mock battle.",
+      "jp": "　あの森ならキャスターが当たり散らせる演習場の一つや二つありそうだし、ともすればバーサーカーが仮想敵として手伝ってくれるやもしれん。",
+      "Pt-br": "A mata da montanha seria um campo de provas mais que suficiente para Caster extravasar. Além disso, Berserker talvez até aceitasse participar de uma luta simulada.",
+      "id": 5916,
+      "epk_id": "6154",
+      "label": "$$$message_0043_0008_0001$$$"
+    },
+    {
+      "en": "\"Why, thank you for thinking of me. But I don't need to go all the way to the forest, you know. I could start with a warm-up right here.[lr]",
+      "jp": "「心遣いは感謝するわ。けど、わざわざ森に出る必要もなくてよ？　ここでも軽い運動はできるもの。[lr]",
+      "Pt-br": "\"Ora, obrigada por pensar em mim. Mas não preciso ir até a floresta, sabe. Eu poderia começar com um aquecimento aqui mesmo.[lr]",
+      "id": 5917,
+      "epk_id": "6155",
+      "label": "$$$message_0043_0009_0000$$$"
+    },
+    {
+      "en": "...Though, I wouldn't be the one doing the running.\"[lr]",
+      "jp": "　[line len=3]まあ、走り回るのは私じゃなく貴方になるでしょうけど」[lr]",
+      "Pt-br": "...Embora não fosse eu quem correria.\"[lr]",
+      "id": 5918,
+      "epk_id": "6156",
+      "label": "$$$message_0043_0009_0001$$$"
+    },
+    {
+      "en": "\"Urgh.\"[lr]",
+      "jp": "「ぐ」[lr]",
+      "Pt-br": "\"Urgh.\"[lr]",
+      "id": 5919,
+      "epk_id": "6157",
+      "label": "$$$message_0043_0009_0002$$$"
+    },
+    {
+      "en": "Uh-oh. We really are getting off on the wrong foot.[lr]",
+      "jp": "　いかん。どうも俺とキャスターは相性が悪い。[lr]",
+      "Pt-br": "Ah, não. Estamos mesmo começando com o pé esquerdo de novo.[lr]",
+      "id": 5920,
+      "epk_id": "6158",
+      "label": "$$$message_0043_0009_0003$$$"
+    },
+    {
+      "en": "At this rate, the war really will just repeat itself. I should stick to business.",
+      "jp": "　このままでは半年前を再現しかねないんで、用件のみを口にしなければ。",
+      "Pt-br": "Nesse ritmo, a guerra vai acabar se repetindo de verdade. Melhor ficar no assunto.",
+      "id": 5921,
+      "epk_id": "6159",
+      "label": "$$$message_0043_0009_0004$$$"
+    },
+    {
+      "en": "\"Maybe another time.[lr]",
+      "jp": "「いや、ストレス発散の話はまた今度にしよう。[lr]",
+      "Pt-br": "\"Talvez outro dia.[lr]",
+      "id": 5922,
+      "epk_id": "6160",
+      "label": "$$$message_0043_0010_0000$$$"
+    },
+    {
+      "en": "So, about what's going on...\"[lr]",
+      "jp": "　で、街の様子のコトなんだけど、」[lr]",
+      "Pt-br": "Então, sobre o que está acontecendo...\"[lr]",
+      "id": 5923,
+      "epk_id": "6161",
+      "label": "$$$message_0043_0010_0001$$$"
+    },
+    {
+      "en": "\"I haven't the slightest clue. [l][say storage=ryu0117_cas_0041 name=ã‚­ãƒ£ã‚¹ã‚¿ãƒ¼]I have noticed that something feels strange about the city, but its cause is unknown to me, nor am I interested.\"",
+      "jp": "「心当たりはないわね。[l][say storage=ryu0117_cas_0041 name=キャスター]街の様子がおかしい事は気づいているけれど、その意図も原理も私の知るところではないし、興味もありませんから」",
+      "Pt-br": "\"Não faço a menor ideia. [l][say storage=ryu0117_cas_0041 name=キャスター]Percebi que há algo estranho na cidade, mas desconheço a causa e tampouco tenho interesse.\"",
+      "id": 5924,
+      "epk_id": "6162",
+      "label": "$$$message_0043_0010_0002$$$"
+    },
+    {
+      "en": "\"...I see.[lr]",
+      "jp": "「……そうか。[lr]",
+      "Pt-br": "\"Entendi.[lr]",
+      "id": 5925,
+      "epk_id": "6163",
+      "label": "$$$message_0043_0011_0000$$$"
+    },
+    {
+      "en": "I guess you wouldn't know right away, though.\"[lr]",
+      "jp": "　まあ、すぐに判るなんて思ってなかったけど」[lr]",
+      "Pt-br": "Imagino que você não fosse saber de imediato, mesmo.\"[lr]",
+      "id": 5926,
+      "epk_id": "6164",
+      "label": "$$$message_0043_0011_0001$$$"
+    },
+    {
+      "en": "If I asked Caster, it might not take her much effort to figure out exactly what's happening.[lr]",
+      "jp": "　キャスターにお願いすれば、あるいは事態なんてあっさりと究明できるのかもしれない。[lr]",
+      "Pt-br": "Se eu perguntasse a Caster, talvez ela descobrisse exatamente o que está acontecendo sem muito esforço.[lr]",
+      "id": 5927,
+      "epk_id": "6165",
+      "label": "$$$message_0043_0011_0002$$$"
+    },
+    {
+      "en": "The Holy Grail War has restarted.[lr]",
+      "jp": "　再開された聖杯戦争。[lr]",
+      "Pt-br": "A Guerra do Santo Graal foi reiniciada.[lr]",
+      "id": 5928,
+      "epk_id": "6166",
+      "label": "$$$message_0043_0011_0003$$$"
+    },
+    {
+      "en": "All of the Servants are present.[lr]",
+      "jp": "　欠ける事なく存在するサーヴァントたち。[lr]",
+      "Pt-br": "Todos os Servos estão presentes.[lr]",
+      "id": 5929,
+      "epk_id": "6167",
+      "label": "$$$message_0043_0011_0004$$$"
+    },
+    {
+      "en": "And I have this odd sense of...dÃ©jÃ  vu.",
+      "jp": "　それと[line len=3]この、よく分からない既視感も。",
+      "Pt-br": "E eu tenho essa estranha sensação de... déjà vu.",
+      "id": 5930,
+      "epk_id": "6168",
+      "label": "$$$message_0043_0011_0005$$$"
+    },
+    {
+      "en": "\"Setting that aside...[lr]",
+      "jp": "「まあ、それはいいとして。[lr]",
+      "Pt-br": "\"Colocando isso de lado...[lr]",
+      "id": 5931,
+      "epk_id": "6169",
+      "label": "$$$message_0043_0012_0000$$$"
+    },
+    {
+      "en": "Can I take that to mean you have nothing to do with it?\"[lr]",
+      "jp": "　キャスターはこの件には関わってないって事でいいんだよな」[lr]",
+      "Pt-br": "Posso entender que você não tem nada a ver com isso?\"[lr]",
+      "id": 5932,
+      "epk_id": "6170",
+      "label": "$$$message_0043_0012_0001$$$"
+    },
+    {
+      "en": "\"Yes. You can choose to believe me, or not.\"",
+      "jp": "「ええ。信じる信じないは貴方次第ですけどね」",
+      "Pt-br": "\"Sim. Você pode acreditar em mim ou não.\"",
+      "id": 5933,
+      "epk_id": "6171",
+      "label": "$$$message_0043_0012_0002$$$"
+    },
+    {
+      "en": "\"I believe you. You like to scheme, but you don't lie.\"[lr]",
+      "jp": "「信じるよ。キャスター、色々と企みごとはするけど嘘は言わないだろ」[lr]",
+      "Pt-br": "\"Eu acredito. Você gosta de tramar, mas não mente.\"[lr]",
+      "id": 5934,
+      "epk_id": "6172",
+      "label": "$$$message_0043_0013_0000$$$"
+    },
+    {
+      "en": "Actually, Caster never lies.[lr]",
+      "jp": "　というか、サーヴァントは決まって嘘をつかない。[lr]",
+      "Pt-br": "Na verdade, a Caster nunca mente.[lr]",
+      "id": 5935,
+      "epk_id": "6173",
+      "label": "$$$message_0043_0013_0001$$$"
+    },
+    {
+      "en": "I wonder if it's her idea of virtue or fairness.",
+      "jp": "　そのあたり高潔と言うかフェアというか。",
+      "Pt-br": "Fico pensando se isso é a ideia dela de virtude ou de justiça.",
+      "id": 5936,
+      "epk_id": "6174",
+      "label": "$$$message_0043_0013_0002$$$"
+    },
+    {
+      "en": "\"So this situation doesn't matter to you.[lr]",
+      "jp": "「キャスターは今の状況には何の関心もない、と。[lr]",
+      "Pt-br": "\"Essa situação não importa para você.[lr]",
+      "id": 5937,
+      "epk_id": "6175",
+      "label": "$$$message_0043_0014_0000$$$"
+    },
+    {
+      "en": "You won't try and fight any of the other Servants, then?\"",
+      "jp": "　関心がないって事は、他のサーヴァントとやりあう気はないって事だよな？」",
+      "Pt-br": "Você não vai tentar lutar contra nenhum dos outros Servos, então?\"",
+      "id": 5938,
+      "epk_id": "6176",
+      "label": "$$$message_0043_0014_0001$$$"
+    },
+    {
+      "en": "\"Of course not. No mage would expend magical energy with nothing to gain for it.[lr]",
+      "jp": "「当然でしょう。得るモノがないのに魔力を消費するなんて、魔術師にあるまじき行為ですもの。[lr]",
+      "Pt-br": "\"Claro que não. Nenhum mago gastaria energia mágica sem nada a ganhar com isso.[lr]",
+      "id": 5939,
+      "epk_id": "6177",
+      "label": "$$$message_0043_0015_0000$$$"
+    },
+    {
+      "en": "That goes for you as[line len=2][lr]",
+      "jp": "　それは貴方にも[line len=3][lr]",
+      "Pt-br": "Isso também vale para você[line len=2][lr]",
+      "id": 5940,
+      "epk_id": "6178",
+      "label": "$$$message_0043_0015_0001$$$"
+    },
+    {
+      "en": "No, I suppose that wouldn't be important to you.\"",
+      "jp": "　いいえ、坊やにはそんな観念はなかったわね」",
+      "Pt-br": "Não, suponho que isso não seria importante para você.\"",
+      "id": 5941,
+      "epk_id": "6179",
+      "label": "$$$message_0043_0015_0002$$$"
+    },
+    {
+      "en": "Caster chuckles.[lr]",
+      "jp": "　くすくすと笑う。[lr]",
+      "Pt-br": "Caster ri baixinho.[lr]",
+      "id": 5942,
+      "epk_id": "6180",
+      "label": "$$$message_0043_0016_0000$$$"
+    },
+    {
+      "en": "I can tell she's making fun of me, but not in a mean-spirited way.[lr]",
+      "jp": "　馬鹿にされているのだが、これっぽっちも悪い気はしない。[lr]",
+      "Pt-br": "Dá para perceber que ela está zombando de mim, mas sem maldade.[lr]",
+      "id": 5943,
+      "epk_id": "6181",
+      "label": "$$$message_0043_0016_0001$$$"
+    },
+    {
+      "en": "She sounds bright and cheerful.[lr]",
+      "jp": "　キャスターの声には明るい響きしかないからだ。[lr]",
+      "Pt-br": "Ela soa leve e alegre.[lr]",
+      "id": 5944,
+      "epk_id": "6182",
+      "label": "$$$message_0043_0016_0002$$$"
+    },
+    {
+      "en": "Anyway, it's clear she has no intention of helping me figure this out. She might even prefer things to stay as they are.",
+      "jp": "　なんにせよ、キャスターには事態を究明する気がまったくないようだ。今の状態が気に入っているような節さえある。",
+      "Pt-br": "De qualquer forma, está claro que ela não tem intenção de me ajudar a resolver isso. Ela pode até preferir que as coisas fiquem como estão.",
+      "id": 5945,
+      "epk_id": "6183",
+      "label": "$$$message_0043_0016_0003$$$"
+    },
+    {
+      "en": "\"All right, I get it. So you won't pull any funny business?\"[lr]",
+      "jp": "「分かったよ。ようするに、アンタは何もしないんだな？」[lr]",
+      "Pt-br": "\"Tudo bem, entendi. Então você não vai aprontar nada?\"[lr]",
+      "id": 5946,
+      "epk_id": "6184",
+      "label": "$$$message_0043_0017_0000$$$"
+    },
+    {
+      "en": "\"No. Sorry to disappoint you, but I won't lift a finger.[lr]",
+      "jp": "「ええ。坊やには悪いけど、私は一切介入しない。[lr]",
+      "Pt-br": "\"Não. Lamento te decepcionar, mas não vou fazer nada.[lr]",
+      "id": 5947,
+      "epk_id": "6185",
+      "label": "$$$message_0043_0017_0001$$$"
+    },
+    {
+      "en": "If you want to find whoever restarted the Holy Grail War, you'll have to do it on your own.\"[lr]",
+      "jp": "　聖杯戦争を再開させた犯人を捜すというのなら、自分一人でおやりなさい」[lr]",
+      "Pt-br": "Se quiser encontrar quem reiniciou a Guerra do Santo Graal, terá que fazê-lo sozinho.\"[lr]",
+      "id": 5948,
+      "epk_id": "6186",
+      "label": "$$$message_0043_0017_0002$$$"
+    },
+    {
+      "en": "Sounds about right.",
+      "jp": "　ま、そうなるよな。",
+      "Pt-br": "Faz sentido.",
+      "id": 5949,
+      "epk_id": "6187",
+      "label": "$$$message_0043_0017_0003$$$"
+    },
+    {
+      "en": "\"Oh? You're taking this quite well. I thought you would try harder to convince me.\"[lr]",
+      "jp": "「あら。あっさりと納得するのね。貴方の事だから、頭をさげてお願いしてくると思ったのに」[lr]",
+      "Pt-br": "\"Oh? Você aceitou isso com bastante calma. Achei que tentaria me convencer com mais afinco.\"[lr]",
+      "id": 5950,
+      "epk_id": "6188",
+      "label": "$$$message_0043_0018_0000$$$"
+    },
+    {
+      "en": "\"Even I know better than to ask the impossible.[lr]",
+      "jp": "「いくら俺でも無理なコトは頼まないよ。[lr]",
+      "Pt-br": "\"Até eu sei que não adianta pedir o impossível.[lr]",
+      "id": 5951,
+      "epk_id": "6189",
+      "label": "$$$message_0043_0018_0001$$$"
+    },
+    {
+      "en": "You don't want to help, right? Then I'll do it myself... I might come by again if I run out of options, but I can cross that bridge when I come to it.\"[lr]",
+      "jp": "　キャスター、調べる気はないんだろ？　なら自分でやるさ。……それでどうしようもなくなったらまた来るから、そん時は根比べだ」[lr]",
+      "Pt-br": "Você não quer ajudar, certo? Então faço eu mesmo... Talvez volte se ficar sem opções, mas atravesso essa ponte quando chegar nela.\"[lr]",
+      "id": 5952,
+      "epk_id": "6190",
+      "label": "$$$message_0043_0018_0002$$$"
+    },
+    {
+      "en": "Then I'll just have to do whatever it takes to persuade her, as she just alluded to.",
+      "jp": "　キャスターの嫌がっている通り、キャスターがいいと言うまで拝み倒して手を貸してもらうだけである。",
+      "Pt-br": "Então, serei obrigado a fazer o que for preciso para convencê-la, como ela acabou de sugerir.",
+      "id": 5953,
+      "epk_id": "6191",
+      "label": "$$$message_0043_0018_0003$$$"
+    },
+    {
+      "en": "Huh.[lr]",
+      "jp": "　あれ。[lr]",
+      "Pt-br": "Hmm.[lr]",
+      "id": 5954,
+      "epk_id": "6192",
+      "label": "$$$message_0043_0019_0000$$$"
+    },
+    {
+      "en": "Was she looking forward to turning me down?[lr]",
+      "jp": "　よっぽど意外だったのか、頼み込む俺をどう断ろうか楽しもうって算段だったのか。[lr]",
+      "Pt-br": "Será que ela estava ansiosa para me recusar?[lr]",
+      "id": 5955,
+      "epk_id": "6193",
+      "label": "$$$message_0043_0019_0001$$$"
+    },
+    {
+      "en": "Caster looks disappointed.",
+      "jp": "　キャスター、アテが外れた顔をしてるな。",
+      "Pt-br": "A Caster parece decepcionada.",
+      "id": 5956,
+      "epk_id": "6194",
+      "label": "$$$message_0043_0019_0002$$$"
+    },
+    {
+      "en": "\"...Are you feeling all right? Did someone hit you with a curse of debilitation when you weren't paying attention?[lr]",
+      "jp": "「……貴方、大丈夫？　気づかないうちに衰弱死する呪いでもかけられたんじゃない？[lr]",
+      "Pt-br": "\"...Você está se sentindo bem? Alguém o atingiu com uma maldição de debilitação quando você não estava prestando atenção?[lr]",
+      "id": 5957,
+      "epk_id": "6195",
+      "label": "$$$message_0043_0020_0000$$$"
+    },
+    {
+      "en": "This isn't like you. Where did your usual stubbornness go?\"",
+      "jp": "　らしくないわ、いつものしつこさはどうしたのよ」",
+      "Pt-br": "Isso não parece você. Para onde foi sua teimosia de sempre?\"",
+      "id": 5958,
+      "epk_id": "6196",
+      "label": "$$$message_0043_0020_0001$$$"
+    },
+    {
+      "en": "...Mrgh. Gotta hand it to a world-renowned witch. When it comes to being a worrywart, she's on a different level than Tohsaka.[lr]",
+      "jp": "　……む。さすが希代の魔女、心配のレベルが遠坂より[ruby text=ワン]一グレード上だ。[lr]",
+      "Pt-br": "...Mrgh. Tenho que reconhecer: uma bruxa mundialmente famosa é outro nível quando resolve se preocupar, bem acima da Tohsaka.[lr]",
+      "id": 5959,
+      "epk_id": "6197",
+      "label": "$$$message_0043_0021_0000$$$"
+    },
+    {
+      "en": "Actually, if she wanted to make me give up, I wish she'd use some of her broad magical repertoire to neutralize or hypnotize me. It feels like a waste to weaken me with verbal discouragement.[lr]",
+      "jp": "　というか、仮に俺からやる気を奪う時がくるのなら、せめて無気力化する暗示とかで済ませてほしい。気合いを削ぐだけで衰弱死させられてはたまらない。[lr]",
+      "Pt-br": "Na verdade, se ela queria me fazer desistir, eu preferia que usasse seu vasto repertório mágico para me neutralizar ou hipnotizar. Parece desperdício me enfraquecer com desânimo verbal.[lr]",
+      "id": 5960,
+      "epk_id": "6198",
+      "label": "$$$message_0043_0021_0001$$$"
+    },
+    {
+      "en": "Anyway...",
+      "jp": "　まあ、それはともかく。",
+      "Pt-br": "Bem...",
+      "id": 5961,
+      "epk_id": "6199",
+      "label": "$$$message_0043_0021_0002$$$"
+    },
+    {
+      "en": "\"Nobody cursed me. You're the only one who would.[lr]",
+      "jp": "「呪いなんてかけられていないよ。アンタ以外にそんなコトできるヤツはいないだろ。[lr]",
+      "Pt-br": "\"Ninguém me amaldiçoou. Você é a única que faria isso.[lr]",
+      "id": 5962,
+      "epk_id": "6200",
+      "label": "$$$message_0043_0022_0000$$$"
+    },
+    {
+      "en": "Besides...I bet I'm a pest, from your point of view.\"[lr]",
+      "jp": "　それよりさ。アンタから見ると、俺はやっぱり目障りだったんだな」[lr]",
+      "Pt-br": "Além disso... acho que sou um incômodo, do seu ponto de vista.\"[lr]",
+      "id": 5963,
+      "epk_id": "6201",
+      "label": "$$$message_0043_0022_0001$$$"
+    },
+    {
+      "en": "I say what I think, without any ill intent behind it.[lr]",
+      "jp": "　嫌味でもなんでもなく、思った事が口に出た。[lr]",
+      "Pt-br": "Digo o que penso, sem nenhuma má intenção por trás.[lr]",
+      "id": 5964,
+      "epk_id": "6202",
+      "label": "$$$message_0043_0022_0002$$$"
+    },
+    {
+      "en": "Once again, Caster looks taken aback.[lr]",
+      "jp": "　またも面食らうキャスター。[lr]",
+      "Pt-br": "Mais uma vez, Caster parece surpresa.[lr]",
+      "id": 5965,
+      "epk_id": "6203",
+      "label": "$$$message_0043_0022_0003$$$"
+    },
+    {
+      "en": "She sighs, looking like my remark threw her off-balance.",
+      "jp": "　今度は更に無防備さを増しております。",
+      "Pt-br": "Ela suspira, parecendo que minha observação a deixou desequilibrada.",
+      "id": 5966,
+      "epk_id": "6204",
+      "label": "$$$message_0043_0022_0004$$$"
+    },
+    {
+      "en": "\"...Good grief. [font italic=true]That's[font italic=false] what you say next?[lr]",
+      "jp": "「……はあ。まったく、何を言い出すかと思えば今更でしょうに。[lr]",
+      "Pt-br": "\"Francamente. [font italic=true]É isso[font italic=false] que você diz em seguida?[lr]",
+      "id": 5967,
+      "epk_id": "6205",
+      "label": "$$$message_0043_0023_0000$$$"
+    },
+    {
+      "en": "Yes, to be blunt, you are an eyesore. You won the war, while we lost. No matter how peaceful life may seem now, it's hard to forget the shame of failure.[lr]",
+      "jp": "　ええ、はっきり言って坊やは目障りよ。貴方は勝者で私たちは敗者ですもの。どう落ち着いたところで、敗れた時の屈辱は忘れがたいわ。[lr]",
+      "Pt-br": "Sim, sendo direta: você é uma presença incômoda. Você venceu a guerra, enquanto nós perdemos. Por mais pacífica que a vida pareça agora, é difícil esquecer a vergonha do fracasso.[lr]",
+      "id": 5968,
+      "epk_id": "6206",
+      "label": "$$$message_0043_0023_0001$$$"
+    },
+    {
+      "en": "...I also can't relax when you're around.[lr]",
+      "jp": "　……それに、貴方がいると私は安心できない。[lr]",
+      "Pt-br": "...Eu também não consigo relaxar quando você está por perto.[lr]",
+      "id": 5969,
+      "epk_id": "6207",
+      "label": "$$$message_0043_0023_0002$$$"
+    },
+    {
+      "en": "When I'm in a bad mood, I don't want to think about your naÃ¯ve righteousness, nor how you won the war with it.\"",
+      "jp": "　聖杯戦争の勝者も、貴方の青臭い正義感も、気分が悪い時には見たくないわね」",
+      "Pt-br": "Quando estou de mau humor, não quero pensar na sua retidão ingênua, nem em como você venceu a guerra com ela.\"",
+      "id": 5970,
+      "epk_id": "6208",
+      "label": "$$$message_0043_0023_0003$$$"
+    },
+    {
+      "en": "Caster's hostility is genuine. I really do annoy her.[lr]",
+      "jp": "　キャスターの敵意は本物だ。あいつは本気で俺を邪魔だと思っている。[lr]",
+      "Pt-br": "A hostilidade da Caster é genuína. De fato, a incomodo muito.[lr]",
+      "id": 5971,
+      "epk_id": "6209",
+      "label": "$$$message_0043_0024_0000$$$"
+    },
+    {
+      "en": "Still, though...[lr]",
+      "jp": "　……しかし、なんだ。[lr]",
+      "Pt-br": "Ainda assim...[lr]",
+      "id": 5972,
+      "epk_id": "6210",
+      "label": "$$$message_0043_0024_0001$$$"
+    },
+    {
+      "en": "She doesn't dislike me for her own sake. I can see that she's wary of me for another reason.[lr]",
+      "jp": "　それはキャスター本人の為ではなく、もっと違うものの為に、俺を敵視しているような節がある。[lr]",
+      "Pt-br": "Ela não desgosta de mim por causa dela mesma. Dá para ver que está cautelosa comigo por outro motivo.[lr]",
+      "id": 5973,
+      "epk_id": "6211",
+      "label": "$$$message_0043_0024_0002$$$"
+    },
+    {
+      "en": "I've gotten a good look at what that is already, so I just nod. [wait canskip=0 time=800]No need to get hung up on it.",
+      "jp": "　そんな事がガラにもなく分かってしまったので、キャスターの悪言にそっかー、と頷いた。[wait canskip=0 time=800]柳に風とも言う。",
+      "Pt-br": "Eu já enxerguei bem qual é esse motivo, então apenas aceno. [wait canskip=0 time=800]Não preciso ficar preso nisso.",
+      "id": 5974,
+      "epk_id": "6212",
+      "label": "$$$message_0043_0024_0003$$$"
+    },
+    {
+      "en": "\"...Hmph. Do be careful, boy.[lr]",
+      "jp": "「……ふん。せいぜい気をつけなさい坊や。[lr]",
+      "Pt-br": "\"...Hmmf. Cuide-se, garoto.[lr]",
+      "id": 5975,
+      "epk_id": "6213",
+      "label": "$$$message_0043_0025_0000$$$"
+    },
+    {
+      "en": "When I see you all alone like this, I'm liable to want to squish you like a bug. Though I can't if Saber is with you.\"[lr]",
+      "jp": "　一人でいる時に貴方を見かけるとね、いっそ握り潰してやろうと思う事もあるわ。セイバーがいる以上、そんな事はできないのだけど」[lr]",
+      "Pt-br": "Quando o vejo sozinho assim, fico tentada a esmagá-lo como um inseto. Embora eu não possa fazer isso se Saber estiver com você.\"[lr]",
+      "id": 5976,
+      "epk_id": "6214",
+      "label": "$$$message_0043_0025_0001$$$"
+    },
+    {
+      "en": "\"Liar. You wouldn't pull your punches just because of Saber. You're staying out of a fight because you have more important things to worry about.\"[lr]",
+      "jp": "「嘘つけ。セイバーの報復が怖くて手を緩める性格じゃないだろ、アンタは。周りに手を出さないのは、それ以上に大事なものがあるからだ」[lr]",
+      "Pt-br": "\"Mentira. Você não pegaria leve só por causa da Saber. Você está evitando lutar porque tem coisas mais importantes com que se preocupar.\"[lr]",
+      "id": 5977,
+      "epk_id": "6215",
+      "label": "$$$message_0043_0025_0002$$$"
+    },
+    {
+      "en": "Like her peaceful life at Ryudou Temple, for example.",
+      "jp": "　それはたとえば、柳洞寺の平穏な生活とか。",
+      "Pt-br": "Como sua vida pacífica no Templo Ryuudou, por exemplo.",
+      "id": 5978,
+      "epk_id": "6216",
+      "label": "$$$message_0043_0025_0003$$$"
+    },
+    {
+      "en": "\"...Think whatever you wish.[lr]",
+      "jp": "「[line len=3]勝手に言ってなさい。[lr]",
+      "Pt-br": "\"...Pense o que quiser.[lr]",
+      "id": 5979,
+      "epk_id": "6217",
+      "label": "$$$message_0043_0026_0000$$$"
+    },
+    {
+      "en": "Believe me, if you were even slightly unscrupulous, I would have already paid you back for what you did to me.[lr]",
+      "jp": "　いいこと、貴方があと少しでも汚い人間になったら、その時は容赦なく借りを返してあげるわ。[lr]",
+      "Pt-br": "Acredite, se você fosse minimamente inescrupuloso, eu já teria lhe dado o troco pelo que fez comigo.[lr]",
+      "id": 5980,
+      "epk_id": "6218",
+      "label": "$$$message_0043_0026_0001$$$"
+    },
+    {
+      "en": "If you ever feel like dying of self-loathing, then give in to your greed. I'd be more than happy to grant you a bewitching death.\"",
+      "jp": "　自己嫌悪で死にたくなったのなら、欲望に負けて堕落なさいな。私が[ruby text=とろ]蕩けるように殺してあげてよ」",
+      "Pt-br": "Se algum dia sentir vontade de morrer de autodesprezo, então ceda à sua ganância. Eu teria muito prazer em lhe conceder uma morte enfeitiçante.\"",
+      "id": 5981,
+      "epk_id": "6219",
+      "label": "$$$message_0043_0026_0002$$$"
+    },
+    {
+      "en": "The extraordinary witch smirks.[lr]",
+      "jp": "　ニヤリと笑う希代の魔女。[lr]",
+      "Pt-br": "A bruxa extraordinária sorri com desdém.[lr]",
+      "id": 5982,
+      "epk_id": "6220",
+      "label": "$$$message_0043_0027_0000$$$"
+    },
+    {
+      "en": "We really can't get along after all. She's all but declared war on me, even after claiming she doesn't want to fight.",
+      "jp": "　やはり俺たち二人きりだと相性が悪い。やる気はないのに宣戦布告らしきものを受けてしまった。",
+      "Pt-br": "No fim, nós realmente não conseguimos nos entender. Ela quase declarou guerra contra mim logo depois de dizer que não queria lutar.",
+      "id": 5983,
+      "epk_id": "6221",
+      "label": "$$$message_0043_0027_0001$$$"
+    },
+    {
+      "en": "\"...All in good time.[lr]",
+      "jp": "「……このあたりが潮時か。[lr]",
+      "Pt-br": "\"...Tudo no seu tempo.[lr]",
+      "id": 5984,
+      "epk_id": "6222",
+      "label": "$$$message_0043_0028_0000$$$"
+    },
+    {
+      "en": "Would you tell me something, though?[lr]",
+      "jp": "　っと、あと一つ教えてくれるかな。[lr]",
+      "Pt-br": "Mas poderia me dizer uma coisa?[lr]",
+      "id": 5985,
+      "epk_id": "6223",
+      "label": "$$$message_0043_0028_0001$$$"
+    },
+    {
+      "en": "The way things are now isn't exactly harmful, is it? Will it get worse?\"",
+      "jp": "　今の街の様子って、別に害はないんだろ？　で、これから悪化する事ってあるか？」",
+      "Pt-br": "Do jeito que está agora, não é exatamente prejudicial, é? Vai piorar?\"",
+      "id": 5986,
+      "epk_id": "6224",
+      "label": "$$$message_0043_0028_0002$$$"
+    },
+    {
+      "en": "\"That's right. It isn't harmful and it won't worsen. I guarantee it.[lr]",
+      "jp": "「ええ、害もないし悪化する事もないわ。それは私が保証してあげる。[lr]",
+      "Pt-br": "\"Isso mesmo. Não é prejudicial e não vai piorar. Garanto.[lr]",
+      "id": 5987,
+      "epk_id": "6225",
+      "label": "$$$message_0043_0029_0000$$$"
+    },
+    {
+      "en": "...Yes, this is like a fleeting dream. In the end, nothing of consequence will happen, and all will return to as it was.\"",
+      "jp": "　……そう。こんなもの、一時の夢ですもの、最後まで何も起こらず、元通りになるだけよ」",
+      "Pt-br": "...Sim, isto é como um sonho efêmero. No fim, nada de relevante acontecerá, e tudo voltará a ser como era.\"",
+      "id": 5988,
+      "epk_id": "6226",
+      "label": "$$$message_0043_0029_0001$$$"
+    },
+    {
+      "en": "...Good.[lr]",
+      "jp": "　……ならいい。[lr]",
+      "Pt-br": "...Bom.[lr]",
+      "id": 5989,
+      "epk_id": "6227",
+      "label": "$$$message_0043_0030_0000$$$"
+    },
+    {
+      "en": "I'll continue my investigation the old-fashioned way.[lr]",
+      "jp": "　地道に調査を続けよう。[lr]",
+      "Pt-br": "Vou continuar investigando do jeito antigo.[lr]",
+      "id": 5990,
+      "epk_id": "6228",
+      "label": "$$$message_0043_0030_0001$$$"
+    },
+    {
+      "en": "It's enough to know that Caster isn't involved and has no plans to do so.",
+      "jp": "　キャスターは何もしておらず、この先関わる気がないと判っただけでも収穫だ。",
+      "Pt-br": "Basta saber que Caster não está envolvida e não pretende se envolver.",
+      "id": 5991,
+      "epk_id": "6229",
+      "label": "$$$message_0043_0030_0002$$$"
+    },
+    {
+      "en": "\"Bye, then. I'll come calling the next time you're in a better mood.\"[lr]",
+      "jp": "「じゃあな。次は機嫌がいい時に声をかけるよ」[lr]",
+      "Pt-br": "\"Então até mais. Volto para conversar quando você estiver de melhor humor.\"[lr]",
+      "id": 5992,
+      "epk_id": "6230",
+      "label": "$$$message_0043_0031_0000$$$"
+    },
+    {
+      "en": "\"You do that. I'd like to avoid making enemies of Saber and Rider, as well.[lr]",
+      "jp": "「そうなさい。私も、セイバーとライダーの二人を敵に回すのは避けたいわ。[lr]",
+      "Pt-br": "\"Faça isso. Eu também gostaria de evitar transformar Saber e Rider em inimigas.[lr]",
+      "id": 5993,
+      "epk_id": "6231",
+      "label": "$$$message_0043_0031_0001$$$"
+    },
+    {
+      "en": "...Allow me to give you a warning, before you go.[lr]",
+      "jp": "　……それと、一つだけ忠告してあげる。[lr]",
+      "Pt-br": "...Permita-me lhe dar um aviso antes de ir.[lr]",
+      "id": 5994,
+      "epk_id": "6232",
+      "label": "$$$message_0043_0031_0002$$$"
+    },
+    {
+      "en": "Don't go near the church at night. You can't handle who you'll find there.\"[lr]",
+      "jp": "　いい、夜の教会には近づいちゃダメよ。あれは貴方の手に負える相手じゃないわ」[lr]",
+      "Pt-br": "Não se aproxime da igreja à noite. Você não consegue lidar com quem encontrará lá.\"[lr]",
+      "id": 5995,
+      "epk_id": "6233",
+      "label": "$$$message_0043_0031_0003$$$"
+    },
+    {
+      "en": "...She puts on her hood and leaves.[lr]",
+      "jp": "　……フードを被って去っていく。[lr]",
+      "Pt-br": "...Ela coloca seu capuz e sai.[lr]",
+      "id": 5996,
+      "epk_id": "6234",
+      "label": "$$$message_0043_0031_0004$$$"
+    },
+    {
+      "en": "Oh. Did she take it off during our conversation just to be nice...?",
+      "jp": "　あ。さっきまで素顔をさらしてたのは、もしかして気を遣ってくれてたんだろうか……？",
+      "Pt-br": "Ah. Será que ela tirou o capuz durante a conversa só por gentileza...?",
+      "id": 5997,
+      "epk_id": "6235",
+      "label": "$$$message_0043_0031_0005$$$"
+    },
+    {
+      "en": "Caster's just standing there, seemingly lost in thought.[r]M~˜à",
+      "jp": "キャスターのヤツ、[r]何をするでもなく物思いに[r]ふけっている。",
+      "Pt-br": "Caster está apenas parada ali, aparentemente perdida em pensamentos.[r]",
+      "id": 5998,
+      "epk_id": "906133",
+      "label": "$$$message_9043_0000_0001$$$"
+    }
+  ]
+}

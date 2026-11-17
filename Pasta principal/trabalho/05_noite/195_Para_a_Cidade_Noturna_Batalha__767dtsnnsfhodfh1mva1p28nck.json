@@ -1,0 +1,400 @@
+{
+  "cena": "767dtsnnsfhodfh1mva1p28nck",
+  "titulo": "Para a Cidade Noturna (Batalha)",
+  "rota": "Noite",
+  "arquivo": "767dtsnnsfhodfh1mva1p28nck.epk_dec",
+  "linhas": [
+    {
+      "en": "I'll go out on patrol with Saber.[lr]",
+      "jp": "　セイバーと巡回に行こう。[lr]",
+      "Pt-br": "Vou sair em patrulha com a Saber.[lr]",
+      "id": 26690,
+      "epk_id": "31813",
+      "label": "$$$message_0247_0000_0000$$$"
+    },
+    {
+      "en": "The town doesn't require my immediate attention, but I might as well take a look around if I have nothing else to do.",
+      "jp": "　町の様子は急を要する訳でもないが、やる事がないのなら調べて回るぐらいはするべきだ。",
+      "Pt-br": "A cidade não exige minha atenção imediata, mas bem que eu poderia dar uma olhada em volta se não tenho mais nada para fazer.",
+      "id": 26691,
+      "epk_id": "31814",
+      "label": "$$$message_0247_0000_0001$$$"
+    },
+    {
+      "en": "\"Do you have some time, Saber? I wanted to go patrol the town.\"",
+      "jp": "「セイバー、ちょっといいか？　町の見回りに行きたいんだけど」",
+      "Pt-br": "\"Você tem um tempo, Saber? Eu queria patrulhar a cidade.\"",
+      "id": 26692,
+      "epk_id": "31815",
+      "label": "$$$message_0247_0001_0000$$$"
+    },
+    {
+      "en": "\"Yes, I'm ready to leave.[lr]",
+      "jp": "「はい、準備はできています。[lr]",
+      "Pt-br": "\"Sim, estou pronta para partir.[lr]",
+      "id": 26693,
+      "epk_id": "31816",
+      "label": "$$$message_0247_0002_0000$$$"
+    },
+    {
+      "en": "We can investigate the situation, or wait and see what happens.[lr]",
+      "jp": "　事態を究明するか、もうしばらく様子を見るか。[lr]",
+      "Pt-br": "Podemos investigar a situação, ou esperar para ver o que acontece.[lr]",
+      "id": 26694,
+      "epk_id": "31817",
+      "label": "$$$message_0247_0002_0001$$$"
+    },
+    {
+      "en": "The rest is up to you, Shirou.\"",
+      "jp": "　後は貴方次第です、シロウ」",
+      "Pt-br": "O resto depende de você, Shirou.\"",
+      "id": 26695,
+      "epk_id": "31818",
+      "label": "$$$message_0247_0002_0002$$$"
+    },
+    {
+      "en": "Saber appears immediately, as if she read my thoughts.[lr]",
+      "jp": "　俺の考えが伝わっていたのか、セイバーは即座に出てきてくれた。[lr]",
+      "Pt-br": "Saber surge imediatamente, como se tivesse lido meus pensamentos.[lr]",
+      "id": 26696,
+      "epk_id": "31819",
+      "label": "$$$message_0247_0003_0000$$$"
+    },
+    {
+      "en": "I appreciate that, but...",
+      "jp": "　それは頼もしいのだが。",
+      "Pt-br": "Eu agradeço por isso, mas...",
+      "id": 26697,
+      "epk_id": "31820",
+      "label": "$$$message_0247_0003_0001$$$"
+    },
+    {
+      "en": "\"Well, I'm not sure what you expect from me.[lr]",
+      "jp": "「いや、俺次第って言われてもなぁ。[lr]",
+      "Pt-br": "\"Bem, não tenho certeza do que você espera de mim.[lr]",
+      "id": 26698,
+      "epk_id": "31821",
+      "label": "$$$message_0247_0004_0000$$$"
+    },
+    {
+      "en": "I was just going to ask if you wanted to join me on patrol, but I would have stayed home if you didn't want to go.\"[lr]",
+      "jp": "　巡回に行くからセイバーに声をかけたんであって、行く気がないなら大人しくしてるだろ」[lr]",
+      "Pt-br": "Eu ia apenas perguntar se você queria se juntar a mim na patrulha, mas eu teria ficado em casa se você não quisesse ir.\"[lr]",
+      "id": 26699,
+      "epk_id": "31822",
+      "label": "$$$message_0247_0004_0001$$$"
+    },
+    {
+      "en": "There's something odd about the way Saber phrased that.[lr]",
+      "jp": "　セイバーの言い回しは微妙にヘンだ。[lr]",
+      "Pt-br": "Há algo estranho na maneira como a Saber formulou aquilo.[lr]",
+      "id": 26700,
+      "epk_id": "31823",
+      "label": "$$$message_0247_0004_0002$$$"
+    },
+    {
+      "en": "She seems to realize it too, and catches herself.",
+      "jp": "　それは彼女自身も感じたのか、あ、なんて驚いていたりする。",
+      "Pt-br": "Ela parece perceber também, e se corrige.",
+      "id": 26701,
+      "epk_id": "31824",
+      "label": "$$$message_0247_0004_0003$$$"
+    },
+    {
+      "en": "\"...Yes. I want to join you, if you are going out on patrol.[lr]",
+      "jp": "「……そうですね。シロウが巡回に行くのなら、と同行を願ったのは私の方でした。[lr]",
+      "Pt-br": "\"...Sim. Eu desejo acompanhá-lo, se o senhor for sair em patrulha.[lr]",
+      "id": 26702,
+      "epk_id": "31825",
+      "label": "$$$message_0247_0005_0000$$$"
+    },
+    {
+      "en": "It was not my intention to sound as if I was questioning your resolve.\"",
+      "jp": "　シロウの覚悟を試すつもりなどなかったのですが、自然に確認をとってしまった」",
+      "Pt-br": "Não foi minha intenção soar como se eu estivesse questionando sua determinação.\"",
+      "id": 26703,
+      "epk_id": "31826",
+      "label": "$$$message_0247_0005_0001$$$"
+    },
+    {
+      "en": "She dips her head in apology.[lr]",
+      "jp": "　すまない、と頭を下げるセイバー。[lr]",
+      "Pt-br": "Ela inclina a cabeça em pedido de desculpas.[lr]",
+      "id": 26704,
+      "epk_id": "31827",
+      "label": "$$$message_0247_0006_0000$$$"
+    },
+    {
+      "en": "Hey, there's no need for that.[lr]",
+      "jp": "　いや、そんなのは別にいいけど。[lr]",
+      "Pt-br": "Ei, não precisa disso.[lr]",
+      "id": 26705,
+      "epk_id": "31828",
+      "label": "$$$message_0247_0006_0001$$$"
+    },
+    {
+      "en": "I'm not exactly feeling up to it either, so it felt good to have someone remind me of that.",
+      "jp": "　俺だっていまいち乗り気じゃないんだから、念を押してもらってスッキリしたし。",
+      "Pt-br": "Eu também não estou exatamente no clima, então foi bom ter alguém para me lembrar disso.",
+      "id": 26706,
+      "epk_id": "31829",
+      "label": "$$$message_0247_0006_0002$$$"
+    },
+    {
+      "en": "\"Maybe you've been getting complacent too, Saber. Are you feeling relaxed because nothing really happened over summer break?\"[lr]",
+      "jp": "「セイバーも平和ボケしたのかな。夏休みはこれといった事件もなかったし、少し気がゆるんでたんじゃないか？」[lr]",
+      "Pt-br": "\"Talvez você também esteja ficando complacente, Saber. Está se sentindo relaxada porque nada aconteceu de verdade nas férias de verão?\"[lr]",
+      "id": 26707,
+      "epk_id": "31830",
+      "label": "$$$message_0247_0007_0000$$$"
+    },
+    {
+      "en": "\"Not at all! I am your sword, Shirou. I would never make such a blunder as long as you need me!\"",
+      "jp": "「そのような事はありませんっ。私は貴方の剣だ。シロウがまだ私を必要とする限り、決して不覚など取りませんっ」",
+      "Pt-br": "\"De modo algum! Eu sou a sua espada, Shirou. Eu jamais cometeria tal erro enquanto o senhor precisar de mim!\"",
+      "id": 26708,
+      "epk_id": "31831",
+      "label": "$$$message_0247_0007_0001$$$"
+    },
+    {
+      "en": "Saber is as sharp as ever, it seems.[lr]",
+      "jp": "　セイバーの心構えは隙なしらしい。[lr]",
+      "Pt-br": "Saber continua afiada como sempre, pelo visto.[lr]",
+      "id": 26709,
+      "epk_id": "31832",
+      "label": "$$$message_0247_0008_0000$$$"
+    },
+    {
+      "en": "[chgfg textoff=0 time=200 storage=セイバー私服10b(中)]That's reassuring, but...",
+      "jp": "　[chgfg textoff=0 time=200 storage=セイバー私服10b(中)]それもまた頼もしいのだが、しかし。",
+      "Pt-br": "[chgfg textoff=0 time=200 storage=セイバー私服10b(中)]Isso é tranquilizador, mas...",
+      "id": 26710,
+      "epk_id": "31833",
+      "label": "$$$message_0247_0008_0001$$$"
+    },
+    {
+      "en": "\"I'm happy to hear that, but it means that you can't relax as long as I can't take care of myself.[lr]",
+      "jp": "「嬉しいけど、それって俺が半人前でいるかぎり気が休まらないってことだよな。[lr]",
+      "Pt-br": "\"Fico feliz em ouvir isso, mas significa que você não consegue relaxar enquanto eu não puder cuidar de mim mesmo.[lr]",
+      "id": 26711,
+      "epk_id": "31834",
+      "label": "$$$message_0247_0009_0000$$$"
+    },
+    {
+      "en": "...Haah. You must see me as an apprentice you still have to fuss over.\"",
+      "jp": "　……はあ。セイバーにとっちゃ、俺はまだ手のかかる弟子ってコトなのか」",
+      "Pt-br": "...Haah. Você deve me ver como um aprendiz que ainda precisa de supervisão.\"",
+      "id": 26712,
+      "epk_id": "31835",
+      "label": "$$$message_0247_0009_0001$$$"
+    },
+    {
+      "en": "\"Huh? No, I wasn't criticizing you, I was just explaining my state of mind... [cacheimage storage=セイバー私服04c(中)][wvl][chgfg textoff=0 time=300 storage=セイバー私服04c(中)]I haven't said this to you, but I think you're doing a good...\"",
+      "jp": "「え、いえ、シロウを責めている訳ではなく、あくまで私の心構えを口にしただけであってですね、[cacheimage storage=セイバー私服04c(中)][wvl][chgfg textoff=0 time=300 storage=セイバー私服04c(中)]言葉にはしませんが、私はシロウはよくやっていると[line len=3]」",
+      "Pt-br": "\"Hã? Não, eu não estava lhe criticando, eu estava apenas explicando meu estado de espírito... [cacheimage storage=セイバー私服04c(中)][wvl][chgfg textoff=0 time=300 storage=セイバー私服04c(中)]Eu não lhe disse isso, mas eu acho que você está fazendo um bom...\"",
+      "id": 26713,
+      "epk_id": "31836",
+      "label": "$$$message_0247_0010_0000$$$"
+    },
+    {
+      "en": "Saber hastily corrects herself.[lr]",
+      "jp": "　あたふたと言い直すセイバー。[lr]",
+      "Pt-br": "Saber se corrige apressadamente.[lr]",
+      "id": 26714,
+      "epk_id": "31837",
+      "label": "$$$message_0247_0011_0000$$$"
+    },
+    {
+      "en": "[chgfg textoff=0 time=300 storage=セイバー私服10b汗(中)]I'd like to continue this conversation, but if we make a commotion in the hallway, it'll invite unwanted attention.",
+      "jp": "　[chgfg textoff=0 time=300 storage=セイバー私服10b汗(中)]もうしばらくこの話を続けたい気もするが、廊下で騒いでいたら要らぬ第三者を招いてしまう。",
+      "Pt-br": "[chgfg textoff=0 time=300 storage=セイバー私服10b汗(中)]Eu gostaria de continuar esta conversa, mas se fizermos um alvoroço no corredor, vamos atrair atenção indesejada.",
+      "id": 26715,
+      "epk_id": "31838",
+      "label": "$$$message_0247_0011_0001$$$"
+    },
+    {
+      "en": "\"In fact, I'm more and more grateful to you each day[line len=2][cacheimage storage=セイバー私服13c(中)][wvl][chgfg textoff=0 time=200 storage=セイバー私服13c(中)]Are you listening, Shirou!?\"[lr]",
+      "jp": "「いえ、むしろ日が経つごとに感謝の念が増す一方であって[line len=3][cacheimage storage=セイバー私服13c(中)][wvl][chgfg textoff=0 time=200 storage=セイバー私服13c(中)]と、聞いているのですかシロウ！」[lr]",
+      "Pt-br": "\"Na verdade, sou cada vez mais grata ao senhor a cada dia[line len=2][cacheimage storage=セイバー私服13c(中)][wvl][chgfg textoff=0 time=200 storage=セイバー私服13c(中)]Você está ouvindo, Shirou!?\"[lr]",
+      "id": 26716,
+      "epk_id": "31839",
+      "label": "$$$message_0247_0012_0000$$$"
+    },
+    {
+      "en": "\"Sorry, Saber. We'll have a long chat about it next time.\"[lr]",
+      "jp": "「わるいなセイバー。その話はまた、今度ゆっくり聞かせてくれ」[lr]",
+      "Pt-br": "\"Desculpa, Saber. A gente conversa melhor sobre isso na próxima vez.\"[lr]",
+      "id": 26717,
+      "epk_id": "31840",
+      "label": "$$$message_0247_0012_0001$$$"
+    },
+    {
+      "en": "\"Uh...!\"[lr]",
+      "jp": "「！」[lr]",
+      "Pt-br": "\"Uh...!\"[lr]",
+      "id": 26718,
+      "epk_id": "31841",
+      "label": "$$$message_0247_0012_0002$$$"
+    },
+    {
+      "en": "I end the conversation and take Saber's hand.[lr]",
+      "jp": "　会話を遮ってセイバーの手を握る。[lr]",
+      "Pt-br": "Encerro a conversa e pego a mão da Saber.[lr]",
+      "id": 26719,
+      "epk_id": "31842",
+      "label": "$$$message_0247_0012_0003$$$"
+    },
+    {
+      "en": "[clfg textoff=0 pos=all rule=走る感じ time=400][playstop time=3000 nowait=true]We quickly leave the hallway before the other residents spot us.",
+      "jp": "　[clfg textoff=0 pos=all rule=走る感じ time=400][playstop time=3000 nowait=true]他の住人に見つかる前に、スタスタと廊下を後にした。",
+      "Pt-br": "[clfg textoff=0 pos=all rule=走る感じ time=400][playstop time=3000 nowait=true]Saímos rapidamente do corredor antes que os outros moradores nos vejam.",
+      "id": 26720,
+      "epk_id": "31843",
+      "label": "$$$message_0247_0012_0004$$$"
+    },
+    {
+      "en": "We leave the house as inconspicuously as possible.[lr]",
+      "jp": "　出来るだけ目立たないよう外へ出る。[lr]",
+      "Pt-br": "Saímos de casa da maneira mais discreta possível.[lr]",
+      "id": 26721,
+      "epk_id": "31844",
+      "label": "$$$message_0247_0013_0000$$$"
+    },
+    {
+      "en": "The area around the Emiya residence is quiet. Nothing suspicious in sight.",
+      "jp": "　衛宮邸の周囲はいたって平穏だ。これといって怪しい影は見られない。",
+      "Pt-br": "A área ao redor da residência Emiya está silenciosa. Nada suspeito à vista.",
+      "id": 26722,
+      "epk_id": "31845",
+      "label": "$$$message_0247_0013_0001$$$"
+    },
+    {
+      "en": "\"Let's take a quick look around town. There isn't really a goal to the patrol, though, so I don't know what we're looking for or where to look for it.\"[lr]",
+      "jp": "「さて[line len=3]それじゃ軽く町を見て回ろう。どこが怪しいのか、そもそも何がおかしいのかさえ不明だからな、要領を得ない巡回になるだろうけど」[lr]",
+      "Pt-br": "\"Vamos dar uma olhada rápida pela cidade. Mas a patrulha não tem exatamente um objetivo, então não sei o que estamos procurando ou onde procurar.\"[lr]",
+      "id": 26723,
+      "epk_id": "31846",
+      "label": "$$$message_0247_0014_0000$$$"
+    },
+    {
+      "en": "We'll just have to scout it out the old-fashioned way... Wait.",
+      "jp": "　そのあたりは足で稼げばいい……ん、だけど。",
+      "Pt-br": "Teremos que fazer o reconhecimento do jeito antigo... Espera.",
+      "id": 26724,
+      "epk_id": "31847",
+      "label": "$$$message_0247_0014_0001$$$"
+    },
+    {
+      "en": "\"Saber?\"[lr]",
+      "jp": "「セイバー？」[lr]",
+      "Pt-br": "\"Saber?\"[lr]",
+      "id": 26725,
+      "epk_id": "31848",
+      "label": "$$$message_0247_0015_0000$$$"
+    },
+    {
+      "en": "\"Yes? What is it, Shirou?\"[lr]",
+      "jp": "「はい。なんでしょう、シロウ」[lr]",
+      "Pt-br": "\"Sim? O que foi, Shirou?\"[lr]",
+      "id": 26726,
+      "epk_id": "31849",
+      "label": "$$$message_0247_0015_0001$$$"
+    },
+    {
+      "en": "Why is she so enthusiastic?",
+      "jp": "　どうしてこうやる気満々なのだろう？",
+      "Pt-br": "Por que ela está tão entusiasmada?",
+      "id": 26727,
+      "epk_id": "31850",
+      "label": "$$$message_0247_0015_0002$$$"
+    },
+    {
+      "en": "\"...Um, I don't think you need to go fully armed.[lr]",
+      "jp": "「……あのさ、町中で武装するのはどうかと思うぞ。[lr]",
+      "Pt-br": "\"...Er, não acho que você precise ir totalmente armada.[lr]",
+      "id": 26728,
+      "epk_id": "31851",
+      "label": "$$$message_0247_0016_0000$$$"
+    },
+    {
+      "en": "It isn't even ten o'clock yet. Someone could spot you. Can't you just gear up once an enemy shows up?\"[lr]",
+      "jp": "　まだ十時前だし、人に見られたらどうするんだ。やる気になるのは敵が出てきた時でいいじゃないか」[lr]",
+      "Pt-br": "Ainda não são nem dez horas. Alguém pode te ver. Você não pode simplesmente se equipar quando um inimigo aparecer?\"[lr]",
+      "id": 26729,
+      "epk_id": "31852",
+      "label": "$$$message_0247_0016_0001$$$"
+    },
+    {
+      "en": "\"No. It's because the enemy is unknown that I must ensure my defenses are complete.[lr]",
+      "jp": "「いいえ。敵が分かっていない状況だからこそ、防御だけでも万全を期しておくべきです。[lr]",
+      "Pt-br": "\"Não. É justamente porque o inimigo é desconhecido que devo garantir que minhas defesas estejam completas.[lr]",
+      "id": 26730,
+      "epk_id": "31853",
+      "label": "$$$message_0247_0016_0002$$$"
+    },
+    {
+      "en": "Shirou, you can worry about what people think of you once you are able to defend yourself.\"",
+      "jp": "　シロウ。人の目を気にするのは、自分で自分の身を守れるようになってからにしてください」",
+      "Pt-br": "Shirou, o senhor pode se preocupar com o que as pessoas pensam de você assim que for capaz de se defender sozinho.\"",
+      "id": 26731,
+      "epk_id": "31854",
+      "label": "$$$message_0247_0016_0003$$$"
+    },
+    {
+      "en": "\"Rrgh.\"[lr]",
+      "jp": "「ぐ」[lr]",
+      "Pt-br": "\"Rrgh.\"[lr]",
+      "id": 26732,
+      "epk_id": "31855",
+      "label": "$$$message_0247_0017_0000$$$"
+    },
+    {
+      "en": "Oof. It's been a while since she got mad at me.[lr]",
+      "jp": "　うう、久しぶりに怒られた。[lr]",
+      "Pt-br": "Uf. Fazia tempo que ela não ficava brava comigo.[lr]",
+      "id": 26733,
+      "epk_id": "31856",
+      "label": "$$$message_0247_0017_0001$$$"
+    },
+    {
+      "en": "[chgfg textoff=0 time=300 storage=セイバー鎧01a(中)]I can't quite disregard public attention, but Saber's intuition for battle is always spot-on.[lr]",
+      "jp": "　[chgfg textoff=0 time=300 storage=セイバー鎧01a(中)]世間の目なんか気にするな、というお言葉には頷けないが、戦時におけるセイバーの直感に間違いはない。[lr]",
+      "Pt-br": "[chgfg textoff=0 time=300 storage=セイバー鎧01a(中)]Eu não consigo simplesmente ignorar a atenção do público, mas a intuição de batalha da Saber é sempre certeira.[lr]",
+      "id": 26734,
+      "epk_id": "31857",
+      "label": "$$$message_0247_0017_0002$$$"
+    },
+    {
+      "en": "In fact, her extra caution could cause this patrol to end in more than a simple nighttime stroll.",
+      "jp": "　逆に言えば彼女が警戒心を強めている以上、この巡回は“夜の散歩”程度では終わらないという事だ。",
+      "Pt-br": "Na verdade, o excesso de cautela dela pode fazer com que esta patrulha termine em algo mais do que um simples passeio noturno.",
+      "id": 26735,
+      "epk_id": "31858",
+      "label": "$$$message_0247_0017_0003$$$"
+    },
+    {
+      "en": "\"...All right, I'll be counting on you. But take off the armor if anyone we know is about to see us.\"[lr]",
+      "jp": "「……分かった、セイバーに任せる。けど、知ってる人が視界に入ったら即座に武装解除してくれよ」[lr]",
+      "Pt-br": "\"...Tudo bem, vou contar com você. Mas tire a armadura se alguém que conhecemos estiver prestes a nos ver.\"[lr]",
+      "id": 26736,
+      "epk_id": "31859",
+      "label": "$$$message_0247_0018_0000$$$"
+    },
+    {
+      "en": "\"Yes. I'll do my best given the circumstances.\"",
+      "jp": "「はい。状況によりますが、可能なかぎり善処します」",
+      "Pt-br": "\"Sim. Farei o meu melhor dadas as circunstâncias.\"",
+      "id": 26737,
+      "epk_id": "31860",
+      "label": "$$$message_0247_0018_0001$$$"
+    },
+    {
+      "en": "\"Yes? What is it, Shirou?\"[r]",
+      "jp": "「はい。なんでしょう、[r]シロウ」",
+      "Pt-br": "\"Sim? O que foi, Shirou?\"[r]",
+      "id": 26738,
+      "epk_id": "931849",
+      "label": "$$$message_9247_0015_0001$$$"
+    }
+  ]
+}

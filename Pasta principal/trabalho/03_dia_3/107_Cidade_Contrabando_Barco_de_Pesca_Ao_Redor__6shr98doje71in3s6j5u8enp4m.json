@@ -1,0 +1,600 @@
+{
+  "cena": "6shr98doje71in3s6j5u8enp4m",
+  "titulo": "Cidade: Contrabando, Barco de Pesca, Ao Redor do Mundo",
+  "rota": "Dia 3",
+  "arquivo": "6shr98doje71in3s6j5u8enp4m.epk_dec",
+  "linhas": [
+    {
+      "en": "\"Oh, Tohsaka?\"",
+      "jp": "「あれ、遠坂？」",
+      "Pt-br": "\"Ah, Tohsaka?\"",
+      "id": 16222,
+      "epk_id": "15393",
+      "label": "$$$message_0118_0000_0000$$$"
+    },
+    {
+      "en": "I spot Tohsaka at the port that I stopped by during my walk.[lr]",
+      "jp": "　散歩がてらに立ち寄った港で遠坂を見つけた。[lr]",
+      "Pt-br": "Vejo Tohsaka no porto por onde passei durante a caminhada.[lr]",
+      "id": 16223,
+      "epk_id": "15394",
+      "label": "$$$message_0118_0001_0000$$$"
+    },
+    {
+      "en": "Tohsaka at the wharf is a rare combination.",
+      "jp": "　波止場に遠坂、という組み合わせは珍しい。",
+      "Pt-br": "Tohsaka no cais é uma combinação rara.",
+      "id": 16224,
+      "epk_id": "15395",
+      "label": "$$$message_0118_0001_0001$$$"
+    },
+    {
+      "en": "\"Yo, Tohsaka...are you waiting for someone?\"[lr]",
+      "jp": "「よう、遠坂[line len=3]待ち人か？」[lr]",
+      "Pt-br": "\"Ei, Tohsaka... você está esperando por alguém?\"[lr]",
+      "id": 16225,
+      "epk_id": "15396",
+      "label": "$$$message_0118_0002_0000$$$"
+    },
+    {
+      "en": "\"...My fortune said, 'Excellent Luck: the person I'm waiting for will come even if they are late.'\"[lr]",
+      "jp": "「……運勢は大吉、待ち人遅くとも来るべし」[lr]",
+      "Pt-br": "\"...Meu horóscopo dizia: 'Sorte excelente: a pessoa por quem espero virá, mesmo atrasada.'\"[lr]",
+      "id": 16226,
+      "epk_id": "15397",
+      "label": "$$$message_0118_0002_0001$$$"
+    },
+    {
+      "en": "\"Huh?\"[lr]",
+      "jp": "「へ？」[lr]",
+      "Pt-br": "\"Hmm?\"[lr]",
+      "id": 16227,
+      "epk_id": "15398",
+      "label": "$$$message_0118_0002_0002$$$"
+    },
+    {
+      "en": "\"Oh, no, it's nothing. [cacheimage storage=凛私服05d(中)][wvl][chgfg time=300 storage=凛私服05d(中) textoff=0]Hello, Emiya. So, why did you think I was waiting for someone?\"[lr]",
+      "jp": "「ああいや、なんでもないわよ、[cacheimage storage=凛私服05d(中)][wvl][chgfg time=300 storage=凛私服05d(中) textoff=0]こんにちは衛宮くん。で、どうしてわたしが人を待ってると思ったの？」[lr]",
+      "Pt-br": "\"Ah, não, não é nada. [cacheimage storage=凛私服05d(中)][wvl][chgfg time=300 storage=凛私服05d(中) textoff=0]Olá, Emiya-kun. Então, por que achou que eu estava esperando por alguém?\"[lr]",
+      "id": 16228,
+      "epk_id": "15399",
+      "label": "$$$message_0118_0002_0003$$$"
+    },
+    {
+      "en": "Tohsaka murmured something like fortune-telling just now.[chgfg time=300 storage=凛私服06b(中) textoff=0]",
+      "jp": "　一瞬おみくじみたいなコトを呟いたな、遠坂は。[chgfg time=300 storage=凛私服06b(中) textoff=0]",
+      "Pt-br": "Tohsaka acabou de murmurar algo parecido com leitura da sorte.[chgfg time=300 storage=凛私服06b(中) textoff=0]",
+      "id": 16229,
+      "epk_id": "15400",
+      "label": "$$$message_0118_0002_0004$$$"
+    },
+    {
+      "en": "\"Well, you're at the port, right? I thought you might be waiting for either some luggage or a visitor.\"[lr]",
+      "jp": "「いや、遠坂で港だろ？　だから荷物か客かどっちかを待ってるのかと」[lr]",
+      "Pt-br": "\"Bem, você está no porto, né? Achei que talvez estivesse esperando alguma bagagem ou algum visitante.\"[lr]",
+      "id": 16230,
+      "epk_id": "15401",
+      "label": "$$$message_0118_0003_0000$$$"
+    },
+    {
+      "en": "\"This is a regional port. There aren't any eccentric visitors who would come directly.\"[lr]",
+      "jp": "「ここ、地方港じゃない。直に来るような物好きなお客はいないわよ」[lr]",
+      "Pt-br": "\"Este é um porto regional. Não aparece nenhum visitante excêntrico vindo direto para cá.\"[lr]",
+      "id": 16231,
+      "epk_id": "15402",
+      "label": "$$$message_0118_0003_0001$$$"
+    },
+    {
+      "en": "Yeah... But.",
+      "jp": "　だよな……いやでも。",
+      "Pt-br": "É... Mas.",
+      "id": 16232,
+      "epk_id": "15403",
+      "label": "$$$message_0118_0003_0002$$$"
+    },
+    {
+      "en": "\"Kiritsugu departed abroad from here.\"[lr]",
+      "jp": "「切嗣、ここから海外に旅立ってたぞ」[lr]",
+      "Pt-br": "\"Kiritsugu partiu para o exterior daqui.\"[lr]",
+      "id": 16233,
+      "epk_id": "15404",
+      "label": "$$$message_0118_0004_0000$$$"
+    },
+    {
+      "en": "\"...No way, what kind of person was your dad... [cacheimage storage=凛私服08a(中)][wvl][chgfg storage=凛私服08a(中) time=300 textoff=0]Oh, I see.\"",
+      "jp": "「……うそ、アンタのお父さんって一体どういう……[cacheimage storage=凛私服08a(中)][wvl][chgfg storage=凛私服08a(中) time=300 textoff=0]あ、なるほど」",
+      "Pt-br": "\"...De jeito nenhum, que tipo de pessoa era o seu pai... [cacheimage storage=凛私服08a(中)][wvl][chgfg storage=凛私服08a(中) time=300 textoff=0]Ah, entendi.\"",
+      "id": 16234,
+      "epk_id": "15405",
+      "label": "$$$message_0118_0004_0001$$$"
+    },
+    {
+      "en": "\"Your dad was... [cacheimage storage=凛私服06f(中)][wvl][chgfg storage=凛私服06f(中) time=300 textoff=0]Yeah, by going through the international airport, it's like asking to be found, so you would normally be smuggling yourself.\"[lr]",
+      "jp": "「衛宮くんのお父さんは……[cacheimage storage=凛私服06f(中)][wvl][chgfg storage=凛私服06f(中) time=300 textoff=0]そうよね、国際空港なんか見つけてくださいって言ってるようなものだし、たいていは密入国よね」[lr]",
+      "Pt-br": "\"Seu pai era... [cacheimage storage=凛私服06f(中)][wvl][chgfg storage=凛私服06f(中) time=300 textoff=0]É, passar pelo aeroporto internacional seria praticamente pedir para ser encontrado, então o normal seria entrar escondido em algum lugar, Emiya-kun.\"[lr]",
+      "id": 16235,
+      "epk_id": "15406",
+      "label": "$$$message_0118_0005_0000$$$"
+    },
+    {
+      "en": "\"...That's some dangerous talk all of a sudden. I thought it was my old man's preference to use a boat.\"",
+      "jp": "「……いきなり物騒な話になったな。船を使うのは親父の趣味だと思ってたんだが」",
+      "Pt-br": "\"...Que conversa perigosa de repente. Achei que usar barco fosse só preferência do meu velho.\"",
+      "id": 16236,
+      "epk_id": "15407",
+      "label": "$$$message_0118_0005_0001$$$"
+    },
+    {
+      "en": "\"No, mages don't waste anything in their actions. Even if it looks meaningless, there is some meaning... [cacheimage storage=凛私服06b(中)][wvl][chgfg storage=凛私服06b(中) time=300 textoff=0]Yeah, if you think of it that way, this port could be used too.\"[lr]",
+      "jp": "「いえ、魔術師の行動に無駄はないものよ。無駄に見えても何かしらの意味はある……[cacheimage storage=凛私服06b(中)][wvl][chgfg storage=凛私服06b(中) time=300 textoff=0]そうね、そう考えればこの港も使えるわね」[lr]",
+      "Pt-br": "\"Não, magos não desperdiçam nada em suas ações. Mesmo que pareça sem sentido, sempre há algum propósito... [cacheimage storage=凛私服06b(中)][wvl][chgfg storage=凛私服06b(中) time=300 textoff=0]É, pensando assim, este porto também poderia ser usado.\"[lr]",
+      "id": 16237,
+      "epk_id": "15408",
+      "label": "$$$message_0118_0006_0000$$$"
+    },
+    {
+      "en": "Tohsaka nods with great interest.[lr]",
+      "jp": "　うんうん、と興味深そうに頷く遠坂。[lr]",
+      "Pt-br": "Tohsaka assente, muito interessada.[lr]",
+      "id": 16238,
+      "epk_id": "15409",
+      "label": "$$$message_0118_0006_0001$$$"
+    },
+    {
+      "en": "Am I going to end up having to watch over another departure from here?",
+      "jp": "　また、俺はここから旅立ちを見守る羽目になるんだろうか。",
+      "Pt-br": "Será que vou acabar tendo que acompanhar outra partida daqui?",
+      "id": 16239,
+      "epk_id": "15410",
+      "label": "$$$message_0118_0006_0002$$$"
+    },
+    {
+      "en": "\"Yeah... Airplane fares are expensive and a hassle.\"[lr]",
+      "jp": "「そうよね……飛行機は運賃が高くて大変なのよ」[lr]",
+      "Pt-br": "\"É... Passagens aéreas são caras e um incômodo.\"[lr]",
+      "id": 16240,
+      "epk_id": "15411",
+      "label": "$$$message_0118_0007_0000$$$"
+    },
+    {
+      "en": "\"...Huh?\"[lr]",
+      "jp": "「……へ？」[lr]",
+      "Pt-br": "\"...Hmm?\"[lr]",
+      "id": 16241,
+      "epk_id": "15412",
+      "label": "$$$message_0118_0007_0001$$$"
+    },
+    {
+      "en": "\"I said, airfare, do you get it?[lr]",
+      "jp": "「だから、航空料金、分かる？[lr]",
+      "Pt-br": "\"Eu disse passagem aérea, entendeu?[lr]",
+      "id": 16242,
+      "epk_id": "15413",
+      "label": "$$$message_0118_0007_0002$$$"
+    },
+    {
+      "en": "A roundtrip to London is a lot, so even if you reserve it beforehand and get the cheapest plane ticket, it's still a lot. [cacheimage storage=凛私服05d(中)][wvl][chgfg time=300 storage=凛私服05d(中) textoff=0]If I'm able to, it makes me want to blend in with an off-season package tour and run away in the middle of it.\"",
+      "jp": "　ロンドンまで往復って大変なんだから、事前予約して格安航空券を押さえてもまだまだ。[cacheimage storage=凛私服05d(中)][wvl][chgfg time=300 storage=凛私服05d(中) textoff=0]出来ることなら季節はずれのパックツアーに紛れ込んで途中逃亡したくなるほどよ」",
+      "Pt-br": "Ida e volta para Londres pesa bastante, então, mesmo reservando com antecedência e pegando a passagem mais barata, ainda sai caro. [cacheimage storage=凛私服05d(中)][wvl][chgfg time=300 storage=凛私服05d(中) textoff=0]Se desse, até daria vontade de me misturar a um pacote fora de temporada e fugir no meio da viagem.\"",
+      "id": 16243,
+      "epk_id": "15414",
+      "label": "$$$message_0118_0007_0003$$$"
+    },
+    {
+      "en": "When I hear Tohsaka's dangerous transportation plan, I'm at a loss for how I should interject.[lr]",
+      "jp": "　遠坂の物騒な移動計画を耳にすると、どう突っ込んだものか閉口する。[lr]",
+      "Pt-br": "Quando ouço o plano perigoso de transporte da Tohsaka, fico sem saber como intervir.[lr]",
+      "id": 16244,
+      "epk_id": "15415",
+      "label": "$$$message_0118_0008_0000$$$"
+    },
+    {
+      "en": "I get the vibe that she might actually do it, and the fact that she might not be picky about how she could get even a one yen discount scares me.",
+      "jp": "　実際にやりかねないこの雰囲気、一円でも安く上がるのならえり好みしなさそうなのが恐い。",
+      "Pt-br": "O pior é que ela parece capaz de fazer isso, e me assusta pensar que talvez não seja nada exigente quando o assunto é conseguir até um desconto de um iene.",
+      "id": 16245,
+      "epk_id": "15416",
+      "label": "$$$message_0118_0008_0001$$$"
+    },
+    {
+      "en": "\"It's not good to do things that cause people trouble like that.\"[lr]",
+      "jp": "「そういう人に迷惑がかかるのは良くない」[lr]",
+      "Pt-br": "\"Não é certo fazer esse tipo de coisa e dar trabalho para os outros.\"[lr]",
+      "id": 16246,
+      "epk_id": "15417",
+      "label": "$$$message_0118_0009_0000$$$"
+    },
+    {
+      "en": "I bet the tour guide woman would cry.[lr]",
+      "jp": "　きっとツアーのお姉さんが泣いてしまう。[lr]",
+      "Pt-br": "A guia da excursão provavelmente choraria.[lr]",
+      "id": 16247,
+      "epk_id": "15418",
+      "label": "$$$message_0118_0009_0001$$$"
+    },
+    {
+      "en": "\"I know. When I go over there, I get mileage, but it makes me wonder just how much I would have to get to ride for free...[cacheimage storage=凛私服07a腕b(中),凛私服07a腕a(中)][wvl][chgfg time=200 storage=凛私服07a腕b(中) textoff=0][chgfg time=300 storage=凛私服07a腕a(中) textoff=0]so!\"[lr]",
+      "jp": "「分かってるわよ。あっちまで行くとマイレージは貯まるけど、それでただになるほど乗ろうと思ったら一体どれほど……[cacheimage storage=凛私服07a腕b(中),凛私服07a腕a(中)][wvl][chgfg time=200 storage=凛私服07a腕b(中) textoff=0][chgfg time=300 storage=凛私服07a腕a(中) textoff=0]だから！」[lr]",
+      "Pt-br": "\"Eu sei. Quando vou lá, ganho milhas, mas fico pensando em quantas teria de juntar para viajar de graça...[cacheimage storage=凛私服07a腕b(中),凛私服07a腕a(中)][wvl][chgfg time=200 storage=凛私服07a腕b(中) textoff=0][chgfg time=300 storage=凛私服07a腕a(中) textoff=0]sim!\"[lr]",
+      "id": 16248,
+      "epk_id": "15419",
+      "label": "$$$message_0118_0009_0002$$$"
+    },
+    {
+      "en": "As if to say it's a good idea, a troubled Tohsaka says,",
+      "jp": "　悩める遠坂は、さも名案といわんがばかりに。",
+      "Pt-br": "Como se dissesse que aquilo era uma boa ideia, uma Tohsaka preocupada continua: ",
+      "id": 16249,
+      "epk_id": "15420",
+      "label": "$$$message_0118_0009_0003$$$"
+    },
+    {
+      "en": "\"I was thinking it would be cheaper if I could go by boat from here.\"[lr]",
+      "jp": "「ここから船で行けば安くなるかなー、とか」[lr]",
+      "Pt-br": "\"Eu estava pensando que talvez saísse mais barato ir de barco daqui.\"[lr]",
+      "id": 16250,
+      "epk_id": "15421",
+      "label": "$$$message_0118_0010_0000$$$"
+    },
+    {
+      "en": "\"...Tohsaka. I think a passenger boat would be way more expensive than going by plane.\"[lr]",
+      "jp": "「……遠坂。客船って普通、飛行機を使うより遙かに高くなると思う」[lr]",
+      "Pt-br": "\"...Tohsaka. Acho que um barco de passageiros seria muito mais caro do que ir de avião.\"[lr]",
+      "id": 16251,
+      "epk_id": "15422",
+      "label": "$$$message_0118_0010_0001$$$"
+    },
+    {
+      "en": "Because the number of days is fundamentally different.[lr]",
+      "jp": "　だって、日数が根本的に違うんだから。[lr]",
+      "Pt-br": "Porque o número de dias é fundamentalmente diferente.[lr]",
+      "id": 16252,
+      "epk_id": "15423",
+      "label": "$$$message_0118_0010_0002$$$"
+    },
+    {
+      "en": "On top of that, a journey on a passenger boat is a luxury in this day and age.",
+      "jp": "　さらに客船の旅なんて、今のご時世では贅沢である。",
+      "Pt-br": "Além disso, hoje em dia uma viagem de navio de passageiros é um luxo.",
+      "id": 16253,
+      "epk_id": "15424",
+      "label": "$$$message_0118_0010_0003$$$"
+    },
+    {
+      "en": "\"Oh... That's right...\"[lr]",
+      "jp": "「あー……そうだった……」[lr]",
+      "Pt-br": "\"Ah... Isso mesmo...\"[lr]",
+      "id": 16254,
+      "epk_id": "15425",
+      "label": "$$$message_0118_0011_0000$$$"
+    },
+    {
+      "en": "\"Besides, my old man would board fishing boats or cargo ships.\"[lr]",
+      "jp": "「それに、親父はなんか漁船とか貨物船とか、そんなもんに乗り込んでいったぞ」[lr]",
+      "Pt-br": "\"Além disso, meu pai embarcava em barcos de pesca ou navios de carga.\"[lr]",
+      "id": 16255,
+      "epk_id": "15426",
+      "label": "$$$message_0118_0011_0001$$$"
+    },
+    {
+      "en": "\"...[wait canskip=0 time=400][chgfg time=300 storage=凛私服10c(中) textoff=0][say storage=cty0308_rin_0110 name=凛]That's a good idea, [cacheimage storage=凛私服08a(中)][wvl][chgfg storage=凛私服08a(中) time=300 textoff=0]it would be killing two birds with one stone if I make you work on a fishing boat and send you to London...\"[lr]",
+      "jp": "「……[wait canskip=0 time=400][chgfg time=300 storage=凛私服10c(中) textoff=0][say storage=cty0308_rin_0110 name=凛]それは良いアイデアじゃない、[cacheimage storage=凛私服08a(中)][wvl][chgfg storage=凛私服08a(中) time=300 textoff=0]士郎を漁船で働かせてロンドンまで送れば一石二鳥……」[lr]",
+      "Pt-br": "\"...[wait canskip=0 time=400][chgfg time=300 storage=凛私服10c(中) textoff=0][say storage=cty0308_rin_0110 name=凛][cacheimage storage=凛私服08a(中)][wvl][chgfg storage=凛私服08a(中) time=300 textoff=0]Essa é uma boa ideia. Seria matar dois coelhos com uma cajadada só se eu fizesse você trabalhar num barco de pesca e ainda o mandasse para Londres...\"[lr]",
+      "id": 16256,
+      "epk_id": "15427",
+      "label": "$$$message_0118_0011_0002$$$"
+    },
+    {
+      "en": "\"Hold on. That's not possible.\"[lr]",
+      "jp": "「ちょっと待った。それ無理」[lr]",
+      "Pt-br": "\"Espera. Isso não é possível.\"[lr]",
+      "id": 16257,
+      "epk_id": "15428",
+      "label": "$$$message_0118_0011_0003$$$"
+    },
+    {
+      "en": "Can she stop casually talking about things like sending me off to work long hours on a fishing boat?[lr]",
+      "jp": "　さらっと人を漁船の長期就労に[ruby text=あっせん char=2]斡旋するような言い分はやめてほしい。[lr]",
+      "Pt-br": "Será que ela poderia parar de falar tão casualmente em me mandar para jornadas exaustivas num barco de pesca?[lr]",
+      "id": 16258,
+      "epk_id": "15429",
+      "label": "$$$message_0118_0011_0004$$$"
+    },
+    {
+      "en": "Also, can she stop being so serious about it?",
+      "jp": "　あと、かなり本気っぽいのもやめてほしい。",
+      "Pt-br": "E, além disso, parar de levar a ideia tão a sério?",
+      "id": 16259,
+      "epk_id": "15430",
+      "label": "$$$message_0118_0011_0005$$$"
+    },
+    {
+      "en": "\"No way! I thought it was a good idea!\"[lr]",
+      "jp": "「うそ！？　いいアイデアだと思ったのに！？」[lr]",
+      "Pt-br": "\"Como não!? Eu achei que era uma boa ideia!\"[lr]",
+      "id": 16260,
+      "epk_id": "15431",
+      "label": "$$$message_0118_0012_0000$$$"
+    },
+    {
+      "en": "\"...I'm the one that should be surprised.[lr]",
+      "jp": "「……驚きたいのはこっちだ。[lr]",
+      "Pt-br": "\"...Sou eu que deveria estar surpreso.[lr]",
+      "id": 16261,
+      "epk_id": "15432",
+      "label": "$$$message_0118_0012_0001$$$"
+    },
+    {
+      "en": "First of all, wouldn't it take like half a year to get there if I do that?\"",
+      "jp": "　だいたいな、そんなのやったら現地到着まで半年ぐらいかからないか？」",
+      "Pt-br": "Antes de tudo, isso não levaria tipo meio ano para chegar lá?\"",
+      "id": 16262,
+      "epk_id": "15433",
+      "label": "$$$message_0118_0012_0002$$$"
+    },
+    {
+      "en": "\"...I overlooked that. All that's left is a cargo ship or riding as a stowaway...\"[lr]",
+      "jp": "「……抜かったわね。後は貨物船で密航か……」[lr]",
+      "Pt-br": "\"...Eu deixei isso passar. Então só resta um navio de carga ou viajar como clandestino...\"[lr]",
+      "id": 16263,
+      "epk_id": "15434",
+      "label": "$$$message_0118_0013_0000$$$"
+    },
+    {
+      "en": "\"Please get away from the idea of being a stowaway. If I'm going with you, I want to go normally. I can at least work and save up for my own flight.\"",
+      "jp": "「たのむ、密航から離れてくれ。遠坂と一緒に行くんだったら普通に行きたい。自分の飛行機代ぐらい、バイトして貯めておくから」",
+      "Pt-br": "\"Por favor, afaste-se da ideia de viajar como clandestina. Se eu for com você, quero ir de um jeito normal. Posso ao menos trabalhar e juntar dinheiro para minha própria passagem.\"",
+      "id": 16264,
+      "epk_id": "15435",
+      "label": "$$$message_0118_0013_0001$$$"
+    },
+    {
+      "en": "\"...[lr]",
+      "jp": "「[line len=6]。[lr]",
+      "Pt-br": "\"...[lr]",
+      "id": 16265,
+      "epk_id": "15436",
+      "label": "$$$message_0118_0014_0000$$$"
+    },
+    {
+      "en": "I take what I said back, I'll cover the travel cost.[lr]",
+      "jp": "　前言撤回、旅費は全部わたしが出すわ。[lr]",
+      "Pt-br": "Retiro o que disse. Eu cubro o custo da viagem.[lr]",
+      "id": 16266,
+      "epk_id": "15437",
+      "label": "$$$message_0118_0014_0001$$$"
+    },
+    {
+      "en": "I'm the one taking you anyway. It would be pathetic if I don't do that much to take care of you as your mentor.\"",
+      "jp": "　衛宮くんを連れて行くのはわたしなんだもの。師匠として、それくらい面倒見れなきゃ情けないわよね」",
+      "Pt-br": "Sou eu quem vai levar Emiya-kun, afinal. Seria patético se eu não fizesse ao menos isso para cuidar de você como sua mentora.\"",
+      "id": 16267,
+      "epk_id": "15438",
+      "label": "$$$message_0118_0014_0002$$$"
+    },
+    {
+      "en": "\"Huh?\"[lr]",
+      "jp": "「？」[lr]",
+      "Pt-br": "\"Hmm?\"[lr]",
+      "id": 16268,
+      "epk_id": "15439",
+      "label": "$$$message_0118_0015_0000$$$"
+    },
+    {
+      "en": "She rephrases it, as if she's regretful about something.[lr]",
+      "jp": "　どこか反省するように言い直す。[lr]",
+      "Pt-br": "Ela reformula a frase, como se estivesse arrependida de algo.[lr]",
+      "id": 16269,
+      "epk_id": "15440",
+      "label": "$$$message_0118_0015_0001$$$"
+    },
+    {
+      "en": "...Mrgh. It seems like that struck a chord with Tohsaka.",
+      "jp": "　……むう。なんか、遠坂の琴線に触れたらしい。",
+      "Pt-br": "...Mrgh. Parece que isso mexeu com a Tohsaka.",
+      "id": 16270,
+      "epk_id": "15441",
+      "label": "$$$message_0118_0015_0002$$$"
+    },
+    {
+      "en": "\"...I was being thoughtless.[lr]",
+      "jp": "「……わたしが浅はかだったわ。[lr]",
+      "Pt-br": "\"...Estava sendo inconsequente.[lr]",
+      "id": 16271,
+      "epk_id": "15442",
+      "label": "$$$message_0118_0016_0000$$$"
+    },
+    {
+      "en": "I should leave that kind of urgent mode of transportation as a trump card for when I get sloppy and end up being interrogated.\"[lr]",
+      "jp": "　そういう緊急移動手段は、不手際で査問される時の奥の手として残しておきましょう。そっちの方が高くつきそうだし」[lr]",
+      "Pt-br": "Vou deixar esse tipo de transporte emergencial como trunfo para quando eu me descuidar e acabar sendo interrogada.\"[lr]",
+      "id": 16272,
+      "epk_id": "15443",
+      "label": "$$$message_0118_0016_0001$$$"
+    },
+    {
+      "en": "\"Please do that. Rather than a fishing boat or a cargo ship, I want to have a normal and luxurious trip if possible.\"[lr]",
+      "jp": "「そうしてくれ。漁船だの貨物船だのじゃなく、普通の、できれば豪華な旅がしたい」[lr]",
+      "Pt-br": "\"Faça isso, por favor. Se possível, prefiro uma viagem normal e luxuosa a um barco de pesca ou navio de carga.\"[lr]",
+      "id": 16273,
+      "epk_id": "15444",
+      "label": "$$$message_0118_0016_0002$$$"
+    },
+    {
+      "en": "...Even while saying that, I bet we'd be cramped in economy class if we were to go to London together.[lr]",
+      "jp": "　……そうは言っても、ロンドンに二人で行くとなったら、狭いエコノミー席だろうな。[lr]",
+      "Pt-br": "...Mesmo dizendo isso, acho que ficaríamos apertados na classe econômica se fosse para irmos juntos a Londres.[lr]",
+      "id": 16274,
+      "epk_id": "15445",
+      "label": "$$$message_0118_0016_0003$$$"
+    },
+    {
+      "en": "Business class would be a distant dream, let alone first class.",
+      "jp": "　ファーストはおろか、ビジネスも夢のまた夢……",
+      "Pt-br": "Classe executiva já seria um sonho distante, quanto mais primeira classe.",
+      "id": 16275,
+      "epk_id": "15446",
+      "label": "$$$message_0118_0016_0004$$$"
+    },
+    {
+      "en": "\"...Yeah, if we're able to become successful and live comfortably.\"[lr]",
+      "jp": "「……そうよねー、もっとこう、がーっと成功して左うちわになったら」[lr]",
+      "Pt-br": "\"...É, se conseguirmos ser bem-sucedidos e viver confortavelmente.\"[lr]",
+      "id": 16276,
+      "epk_id": "15447",
+      "label": "$$$message_0118_0017_0000$$$"
+    },
+    {
+      "en": "Tohsaka makes a grand gesture and then suddenly...[lr]",
+      "jp": "　そういって豪快な仕草をする遠坂がふっと[line len=3][lr]",
+      "Pt-br": "Tohsaka faz um gesto grandioso e então, de repente...[lr]",
+      "id": 16277,
+      "epk_id": "15448",
+      "label": "$$$message_0118_0017_0001$$$"
+    },
+    {
+      "en": "\"Going on a leisurely cruise together also wouldn't be bad.\"[lr]",
+      "jp": "「二人でのんびりクルージングっていうのも悪くないんじゃない？」[lr]",
+      "Pt-br": "\"Fazer um cruzeiro tranquilo juntos também não seria nada mau.\"[lr]",
+      "id": 16278,
+      "epk_id": "15449",
+      "label": "$$$message_0118_0017_0002$$$"
+    },
+    {
+      "en": "\"Sounds luxurious. This is because we're on a budget, huh?\"",
+      "jp": "「豪勢だな。やっぱりせせこましいのの反動か」",
+      "Pt-br": "\"Parece luxuoso. É porque estamos no modo economia, né?\"",
+      "id": 16279,
+      "epk_id": "15450",
+      "label": "$$$message_0118_0017_0003$$$"
+    },
+    {
+      "en": "\"Maybe. Let's cut down and endure a frugal life until then.[lr]",
+      "jp": "「そうかもね。それまでは切りつめて、爪に火をともして我慢しましょ。[lr]",
+      "Pt-br": "\"Talvez. Vamos cortar gastos e suportar uma vida frugal até lá.[lr]",
+      "id": 16280,
+      "epk_id": "15451",
+      "label": "$$$message_0118_0018_0000$$$"
+    },
+    {
+      "en": "[chgfg storage=凛私服04c(中) time=300 textoff=0]Imagining that we're going to hang out under the Caribbean sun in seats that make our legs go numb.\"[lr]",
+      "jp": "　[chgfg storage=凛私服04c(中) time=300 textoff=0]足が痺れそうなシートで、いつかカリブの太陽の下で遊んでやるんだからー！って思いながら」[lr]",
+      "Pt-br": "[chgfg storage=凛私服04c(中) time=300 textoff=0]Imaginando que vamos relaxar sob o Sol do Caribe em assentos que deixam nossas pernas dormentes.\"[lr]",
+      "id": 16281,
+      "epk_id": "15452",
+      "label": "$$$message_0118_0018_0001$$$"
+    },
+    {
+      "en": "What a dream.[lr]",
+      "jp": "　夢のある話だ。[lr]",
+      "Pt-br": "Que sonho.[lr]",
+      "id": 16282,
+      "epk_id": "15453",
+      "label": "$$$message_0118_0018_0002$$$"
+    },
+    {
+      "en": "A luxurious liner, sailing on a massive yacht and resort... To be honest, it's too luxurious to even imagine.",
+      "jp": "　豪華客船、大型ヨットで航海とリゾート……正直、豪華すぎて想像も付かないのだが。",
+      "Pt-br": "Um transatlântico de luxo, navegando por um imenso resort marítimo... Para ser sincero, é luxuoso demais até para imaginar.",
+      "id": 16283,
+      "epk_id": "15454",
+      "label": "$$$message_0118_0018_0003$$$"
+    },
+    {
+      "en": "\"We can only work hard now for that, Emiya.\"[lr]",
+      "jp": "「その為には今から努力あるのみよ、衛宮くん」[lr]",
+      "Pt-br": "\"Então só nos resta trabalhar duro por isso agora, Emiya-kun.\"[lr]",
+      "id": 16284,
+      "epk_id": "15455",
+      "label": "$$$message_0118_0019_0000$$$"
+    },
+    {
+      "en": "\"Got it, I'll do my best so that I can take you on a vacation.\"[lr]",
+      "jp": "「わかった、遠坂をなんとかバカンスの旅行に連れて行けるように頑張る」[lr]",
+      "Pt-br": "\"Entendi. Vou dar o meu melhor para poder levar você numa viagem.\"[lr]",
+      "id": 16285,
+      "epk_id": "15456",
+      "label": "$$$message_0118_0019_0001$$$"
+    },
+    {
+      "en": "\"Well, I'll probably be taking you before that.\"[lr]",
+      "jp": "「ま、わたしが士郎を連れていく方が先になりそうだけどね」[lr]",
+      "Pt-br": "\"Bem, provavelmente vou te levar antes disso.\"[lr]",
+      "id": 16286,
+      "epk_id": "15457",
+      "label": "$$$message_0118_0019_0002$$$"
+    },
+    {
+      "en": "It's a difficult task, but it's worth the effort...huh.[lr]",
+      "jp": "　難しい課題だけど、努力する甲斐はある[line len=3]か。[lr]",
+      "Pt-br": "É uma tarefa difícil, mas vale o esforço... hein.[lr]",
+      "id": 16287,
+      "epk_id": "15458",
+      "label": "$$$message_0118_0019_0003$$$"
+    },
+    {
+      "en": "[se volume=60 storage=se545.wav]In the middle of talking about such a dream, the sea breeze starts blowing.",
+      "jp": "　[se volume=60 storage=se545.wav]そんな夢を語っていた最中に、潮風が吹き始めてきた。",
+      "Pt-br": "[se volume=60 storage=se545.wav]No meio de tanto falar sobre esse sonho, o vento do mar começa a soprar.",
+      "id": 16288,
+      "epk_id": "15459",
+      "label": "$$$message_0118_0019_0004$$$"
+    },
+    {
+      "en": "\"The wind is getting strong again.[lr]",
+      "jp": "「風、強くなってきたわね。[lr]",
+      "Pt-br": "\"O vento está ficando forte de novo.[lr]",
+      "id": 16289,
+      "epk_id": "15460",
+      "label": "$$$message_0118_0020_0000$$$"
+    },
+    {
+      "en": "...I just came here to hang out, but what about you? Are you going to fish or something?\"[lr]",
+      "jp": "　……わたしはここまでぶらぶらしに来ただけなんだけど、そっちはどう？　釣りでもするの？」[lr]",
+      "Pt-br": "...Eu só vim passar o tempo, mas e você? Vai pescar ou coisa assim?\"[lr]",
+      "id": 16290,
+      "epk_id": "15461",
+      "label": "$$$message_0118_0020_0001$$$"
+    },
+    {
+      "en": "\"No, I don't have any reason to be here. Why don't we go back to Shinto?\"[lr]",
+      "jp": "「いや、俺も目的はない。新都まで戻るか」[lr]",
+      "Pt-br": "\"Não, não tenho nenhum motivo para estar aqui. Que tal voltarmos para Shinto?\"[lr]",
+      "id": 16291,
+      "epk_id": "15462",
+      "label": "$$$message_0118_0020_0002$$$"
+    },
+    {
+      "en": "\"Yeah... Oh, I have some shopping to do. [cacheimage storage=凛私服03g(中)][wvl][chgfg storage=凛私服03g(中) time=300 textoff=0]Keep me company, Emiya.\"",
+      "jp": "「そうね……あ、買い物あるんだった。[cacheimage storage=凛私服03g(中)][wvl][chgfg storage=凛私服03g(中) time=300 textoff=0]ちょっと付き合ってよ、衛宮くん」",
+      "Pt-br": "\"É... Ah, preciso fazer algumas compras. [cacheimage storage=凛私服03g(中)][wvl][chgfg storage=凛私服03g(中) time=300 textoff=0]Me acompanhe, Emiya-kun.\"",
+      "id": 16292,
+      "epk_id": "15463",
+      "label": "$$$message_0118_0020_0003$$$"
+    },
+    {
+      "en": "By keeping her company, does she mean holding her things at Shinto?[lr]",
+      "jp": "　付き合え、というのは新都での荷物持ちか。[lr]",
+      "Pt-br": "Quando ela diz para acompanhá-la, quer dizer carregar as compras em Shinto?[lr]",
+      "id": 16293,
+      "epk_id": "15464",
+      "label": "$$$message_0118_0021_0000$$$"
+    },
+    {
+      "en": "That much is a piece of cake.[lr]",
+      "jp": "　それくらいならおやすい御用だ。[lr]",
+      "Pt-br": "Isso é moleza.[lr]",
+      "id": 16294,
+      "epk_id": "15465",
+      "label": "$$$message_0118_0021_0001$$$"
+    },
+    {
+      "en": "\"Got it, [cacheimage storage=凛私服01b(中)][wvl][chgfg time=300 storage=凛私服01b(中) textoff=0]I'll keep you company no matter where we go...\"",
+      "jp": "「了解、[cacheimage storage=凛私服01b(中)][wvl][chgfg time=300 storage=凛私服01b(中) textoff=0]ドコだろうと付き合うよ[line len=3]」",
+      "Pt-br": "\"Entendi, [cacheimage storage=凛私服01b(中)][wvl][chgfg time=300 storage=凛私服01b(中) textoff=0]vou acompanhar você aonde quer que a gente vá...\"",
+      "id": 16295,
+      "epk_id": "15466",
+      "label": "$$$message_0118_0021_0002$$$"
+    }
+  ]
+}

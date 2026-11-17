@@ -1,0 +1,184 @@
+{
+  "cena": "78evcnri4hip13dt6voic7ga4m",
+  "titulo": "Hanafuda: Kuzuki 6",
+  "rota": "Hanafuda",
+  "arquivo": "78evcnri4hip13dt6voic7ga4m.epk_dec",
+  "linhas": [
+    {
+      "en": "\"I've found you, Caster. Are you prepared for the consequences?\"",
+      "jp": "「見つけましたキャスター。覚悟は出来ていますか？」",
+      "Pt-br": "\"Eu te encontrei, Caster. Está preparada para as consequências?\"",
+      "id": 43318,
+      "epk_id": "43100",
+      "label": "$$$message_0358_0000_0000$$$"
+    },
+    {
+      "en": "\"Actually, I don't care. I'm going to show you anyway.\"",
+      "jp": "「いえ、出来ていないのなら構いません。今から私が教えて差し上げましょう」",
+      "Pt-br": "\"Na verdade, eu não me importo. Vou te mostrar de qualquer jeito.\"",
+      "id": 43319,
+      "epk_id": "43101",
+      "label": "$$$message_0358_0001_0000$$$"
+    },
+    {
+      "en": "\"Oh, she is indeed a bit more feisty than usual...\"",
+      "jp": "「ほう、今日の騎士王は随分と気迫の入りが違うようだな……」",
+      "Pt-br": "\"Ora, ela está mesmo um pouco mais esquentadinha do que o normal...\"",
+      "id": 43320,
+      "epk_id": "43102",
+      "label": "$$$message_0358_0001_0001$$$"
+    },
+    {
+      "en": "\"Ugh, we wasted too much time on Archer and the girl...\"",
+      "jp": "「く、アーチャー達に時間をかけすぎてしまったようね[line len=2]」",
+      "Pt-br": "\"Argh, perdemos tempo demais com o Archer e aquela garota...\"",
+      "id": 43321,
+      "epk_id": "43103",
+      "label": "$$$message_0358_0001_0002$$$"
+    },
+    {
+      "en": "\"...Emiya. Can you tell us what happened?\"",
+      "jp": "「……衛宮。一体何があったのか、話せるか？」",
+      "Pt-br": "\"...Emiya. Pode nos contar o que aconteceu?\"",
+      "id": 43322,
+      "epk_id": "43104",
+      "label": "$$$message_0358_0001_0003$$$"
+    },
+    {
+      "en": "\"Y-yeah. Caster kidnapped me the other day...and because of that, Saber...\"",
+      "jp": "「あ、ああ。それが……この間、俺がキャスターに捕まって[line len=3]そのせいでセイバーが……」",
+      "Pt-br": "\"S-sim. A Caster me sequestrou outro dia... e por causa disso, a Saber...\"",
+      "id": 43323,
+      "epk_id": "43105",
+      "label": "$$$message_0358_0001_0004$$$"
+    },
+    {
+      "en": "\"Hm. Our vixen ravished her, did she? How unrestrained for a married woman.\"",
+      "jp": "「ふむ。そこでこの女狐が騎士王相手に、口に出せないようなイタズラでもしたか？　夫の居る身でありながらなんとも大人げないことよ」",
+      "Pt-br": "\"Hm. Aquela raposa a atacou, não foi? Quanta falta de compostura para uma mulher casada.\"",
+      "id": 43324,
+      "epk_id": "43106",
+      "label": "$$$message_0358_0001_0005$$$"
+    },
+    {
+      "en": "\"Th-that's not what happened! [wait canskip=0 time=500][hffacechg chara=キャスター face=哀 layer=1 time=200]I just have all these cute outfits I've been saving up... [wait canskip=0 time=500][hffacechg chara=キャスター face=照 layer=1 time=200][hffeelgood layer=1]So I...\"",
+      "jp": "「ち、違うわよ！　[wait canskip=0 time=500][hffacechg chara=キャスター face=哀 layer=1 time=200]ただ、折角買い揃えた可愛い服を……[wait canskip=0 time=500][hffacechg chara=キャスター face=照 layer=1 time=200][hffeelgood layer=1]その」",
+      "Pt-br": "\"N-não foi isso que aconteceu! [wait canskip=0 time=500][hffacechg chara=キャスター face=哀 layer=1 time=200]É que eu tenho todas essas roupas fofas que andei guardando... [wait canskip=0 time=500][hffacechg chara=キャスター face=照 layer=1 time=200][hffeelgood layer=1]Então eu...\"",
+      "id": 43325,
+      "epk_id": "43107",
+      "label": "$$$message_0358_0001_0006$$$"
+    },
+    {
+      "en": "\"She took me hostage so Saber couldn't say no, and had the time of her life treating her like a dress-up doll...\"",
+      "jp": "「俺が人質になってて逆らえないのを良いことにセイバーを着せ替え人形みたいにして楽しんでたんだ……」",
+      "Pt-br": "\"Ela me fez de refém para que a Saber não pudesse recusar, e se divertiu horrores tratando ela como se fosse uma boneca de vestir...\"",
+      "id": 43326,
+      "epk_id": "43108",
+      "label": "$$$message_0358_0001_0007$$$"
+    },
+    {
+      "en": "\"There was nothing I could do at the time because you were holding Shirou captive. [l][wait canskip=0 time=300][hffacechg chara=セイバー face=怒 time=200][hfchance layer=0][say storage=HKUZ6_SAV_0040 _name=セイバー]But did you really think I would let this slight go unpunished?\"",
+      "jp": "「[line len=2]あの時はシロウが捕われていたので手を出す事は出来なかったが……[l][wait canskip=0 time=300][hffacechg chara=セイバー face=怒 time=200][hfchance layer=0][say storage=HKUZ6_SAV_0040 _name=セイバー]私に屈辱を与えたまま逃げおおせると思ったか？」",
+      "Pt-br": "\"Não havia nada que eu pudesse fazer na época, já que você mantinha o Shirou cativo. [l][wait canskip=0 time=300][hffacechg chara=セイバー face=怒 time=200][hfchance layer=0][say storage=HKUZ6_SAV_0040 _name=セイバー]Mas você realmente achou que eu deixaria essa afronta impune?\"",
+      "id": 43327,
+      "epk_id": "43109",
+      "label": "$$$message_0358_0001_0008$$$"
+    },
+    {
+      "en": "\"W-what's the big deal!? You're so cute, it would've been a waste not to!\"",
+      "jp": "「な、なによ！　折角可愛いのにもったいないでしょ！」",
+      "Pt-br": "\"Q-qual é o problema!? Você é tão fofa que seria um desperdício não fazer isso!\"",
+      "id": 43328,
+      "epk_id": "43110",
+      "label": "$$$message_0358_0001_0009$$$"
+    },
+    {
+      "en": "\"Hm. I understand now. By the way, Emiya.\"",
+      "jp": "「ふむ、事情は分かった。ところで衛宮」",
+      "Pt-br": "\"Hm. Já entendi. A propósito, Emiya.\"",
+      "id": 43329,
+      "epk_id": "43111",
+      "label": "$$$message_0358_0001_0010$$$"
+    },
+    {
+      "en": "\"W-what?\"",
+      "jp": "「な、なにさ」",
+      "Pt-br": "\"O-que foi?\"",
+      "id": 43330,
+      "epk_id": "43112",
+      "label": "$$$message_0358_0001_0011$$$"
+    },
+    {
+      "en": "\"Be honest with me. When you saw Saber being dressed up, how did that make you feel?\"",
+      "jp": "「正直なところだ。キャスターに着飾られるセイバーを見ていて、どう思った？」",
+      "Pt-br": "\"Seja sincero comigo. Quando você viu a Saber toda produzida, como se sentiu?\"",
+      "id": 43331,
+      "epk_id": "43113",
+      "label": "$$$message_0358_0001_0012$$$"
+    },
+    {
+      "en": "\"The adorable, frilly dresses made me feel joy from the bottom of my heart. No doubt about that.\"",
+      "jp": "「フリフリで可愛くて心の底から幸せだった。これだけは間違いなんかじゃない」",
+      "Pt-br": "\"Aqueles vestidos fofos e cheios de babados me trouxeram uma alegria do fundo do coração. Sem a menor dúvida.\"",
+      "id": 43332,
+      "epk_id": "43114",
+      "label": "$$$message_0358_0001_0013$$$"
+    },
+    {
+      "en": "\"...Shirou?\"",
+      "jp": "「[line len=2]シロウ？」",
+      "Pt-br": "\"...Shirou?\"",
+      "id": 43333,
+      "epk_id": "43115",
+      "label": "$$$message_0358_0001_0014$$$"
+    },
+    {
+      "en": "\"Oh, uh, never mind! Yeah, Caster totally did you wrong there.\"",
+      "jp": "「あ、いや、なんでもない！　うん。あれはほら、キャスターが悪いんだ。全部」",
+      "Pt-br": "\"Ah, er, deixa pra lá! É, a Caster errou feio com você.\"",
+      "id": 43334,
+      "epk_id": "43116",
+      "label": "$$$message_0358_0001_0015$$$"
+    },
+    {
+      "en": "\"Hehe. I see. It looks like I'll have to lecture you overnight... Now it's your turn, Caster.\"",
+      "jp": "「ふふ、そうでしたね。シロウへの説教は一晩かけて済ませました……さあキャスター、次は貴女の番ですよ」",
+      "Pt-br": "\"Hehe. Entendi. Pelo visto vou ter que te dar um sermão a noite toda... Agora é sua vez, Caster.\"",
+      "id": 43335,
+      "epk_id": "43117",
+      "label": "$$$message_0358_0001_0016$$$"
+    },
+    {
+      "en": "\"...Honestly, this is the very definition of reaping what you sow.\"",
+      "jp": "「……やれやれ、身から出た錆とはこの事ではないか」",
+      "Pt-br": "\"...Sinceramente, esta é a própria definição de colher o que se planta.\"",
+      "id": 43336,
+      "epk_id": "43118",
+      "label": "$$$message_0358_0001_0017$$$"
+    },
+    {
+      "en": "\"...Very well. If you are coming at us, then I will not hold back.\"",
+      "jp": "「……よかろう。向かってくるというのであれば、私とて容赦はしない」",
+      "Pt-br": "\"...Muito bem. Se vocês pretendem nos enfrentar, eu não vou me conter.\"",
+      "id": 43337,
+      "epk_id": "43119",
+      "label": "$$$message_0358_0001_0018$$$"
+    },
+    {
+      "en": "\"Oh, Souichirou, you're doing this for me...?\"",
+      "jp": "「ああ、宗一郎様が私の為に……」",
+      "Pt-br": "\"Ah, Souichirou-sama, você está fazendo isso por mim...?\"",
+      "id": 43338,
+      "epk_id": "43120",
+      "label": "$$$message_0358_0001_0019$$$"
+    },
+    {
+      "en": "\"I'm not so sure about that, Caster.\"",
+      "jp": "「いや……違うと思うぞキャスター」",
+      "Pt-br": "\"Eu não teria tanta certeza disso, Caster.\"",
+      "id": 43339,
+      "epk_id": "43121",
+      "label": "$$$message_0358_0001_0020$$$"
+    }
+  ]
+}

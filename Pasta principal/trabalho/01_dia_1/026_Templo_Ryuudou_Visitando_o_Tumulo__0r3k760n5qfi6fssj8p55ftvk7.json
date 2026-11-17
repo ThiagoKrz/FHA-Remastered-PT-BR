@@ -1,0 +1,376 @@
+{
+  "cena": "0r3k760n5qfi6fssj8p55ftvk7",
+  "titulo": "Templo Ryuudou: Visitando o Túmulo",
+  "rota": "Dia 1",
+  "arquivo": "0r3k760n5qfi6fssj8p55ftvk7.epk_dec",
+  "linhas": [
+    {
+      "en": "I head around to the hills behind Ryudou Temple.[lr]",
+      "jp": "　柳洞寺の裏山に回る。[lr]",
+      "Pt-br": "Sigo até as colinas nos fundos do Templo Ryuudou.[lr]",
+      "id": 5848,
+      "epk_id": "6087",
+      "label": "$$$message_0042_0000_0000$$$"
+    },
+    {
+      "en": "The splendid main building is nestled in a dense forest.[lr]",
+      "jp": "　本堂の[ruby text=がらん char=2]伽藍は立派だけど、裏は深い林。[lr]",
+      "Pt-br": "O imponente salão principal fica aninhado em meio à mata fechada.[lr]",
+      "id": 5849,
+      "epk_id": "6088",
+      "label": "$$$message_0042_0000_0001$$$"
+    },
+    {
+      "en": "I'm rather fond of these hills, so I occasionally take walks this way.[lr]",
+      "jp": "　そんな裏山を結構気に入ってるので、偶にこうして散歩をしに来たりする。[lr]",
+      "Pt-br": "Gosto bastante destas colinas, por isso às vezes venho caminhar por aqui.[lr]",
+      "id": 5850,
+      "epk_id": "6089",
+      "label": "$$$message_0042_0000_0002$$$"
+    },
+    {
+      "en": "\"Huh...?\"[lr]",
+      "jp": "「あれ……」[lr]",
+      "Pt-br": "\"Hã...?\"[lr]",
+      "id": 5851,
+      "epk_id": "6090",
+      "label": "$$$message_0042_0000_0003$$$"
+    },
+    {
+      "en": "\"Gah.\"[play storage=bgm106.ogg][lr]",
+      "jp": "「ありゃ」[play storage=bgm106.ogg][lr]",
+      "Pt-br": "\"Argh.\"[play storage=bgm106.ogg][lr]",
+      "id": 5852,
+      "epk_id": "6091",
+      "label": "$$$message_0042_0000_0004$$$"
+    },
+    {
+      "en": "I run into Fuji-nee.",
+      "jp": "　ばったりこんなところで、藤ねえと出会った。",
+      "Pt-br": "Dou de cara com Fuji-nee.",
+      "id": 5853,
+      "epk_id": "6092",
+      "label": "$$$message_0042_0000_0005$$$"
+    },
+    {
+      "en": "\"Out for a hike, Shirou?\"[lr]",
+      "jp": "「士郎、来てたの？　お山に」[lr]",
+      "Pt-br": "\"Veio fazer uma caminhada, Shirou?\"[lr]",
+      "id": 5854,
+      "epk_id": "6093",
+      "label": "$$$message_0042_0001_0000$$$"
+    },
+    {
+      "en": "\"I came to hang out with Issei...\"[lr]",
+      "jp": "「一成のとこに遊びに来たんだけどな……」[lr]",
+      "Pt-br": "\"Vim visitar o Issei...\"[lr]",
+      "id": 5855,
+      "epk_id": "6094",
+      "label": "$$$message_0042_0001_0001$$$"
+    },
+    {
+      "en": "I expected to find Issei in the main hall, but when I didn't, I started looking around and still haven't found him even out here. Would that work as an excuse?",
+      "jp": "　一成なら本堂にいるはずで、この裏の林まで一成を探して歩き回ることはない。言い訳にしては少しおかしかったか？",
+      "Pt-br": "Eu esperava encontrar Issei no salão principal. Como ele não estava lá, comecei a procurar e ainda não o achei, nem aqui fora. Será que essa desculpa cola?",
+      "id": 5856,
+      "epk_id": "6095",
+      "label": "$$$message_0042_0001_0002$$$"
+    },
+    {
+      "en": "\"Huh, okay. But I wouldn't think the temple is so strict that they'd send him into the forest.\"[lr]",
+      "jp": "「ふーん。でもお山にいる間の柳洞くんって真面目一徹じゃない？」[lr]",
+      "Pt-br": "\"Ah, tá. Mas o templo não deve ser tão rígido a ponto de mandarem o Ryuudou-kun para o meio do mato.\"[lr]",
+      "id": 5857,
+      "epk_id": "6096",
+      "label": "$$$message_0042_0002_0000$$$"
+    },
+    {
+      "en": "\"I wouldn't really be surprised if his parents or Mr. Kuzuki told him to.\"[lr]",
+      "jp": "「親御さんも葛木先生もいるから、その辺りは仕方ないんじゃないのかな」[lr]",
+      "Pt-br": "\"Eu nem me surpreenderia se os pais dele ou o Kuzuki-sensei mandassem.\"[lr]",
+      "id": 5858,
+      "epk_id": "6097",
+      "label": "$$$message_0042_0002_0001$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=藤01b(中) textoff=0]There's Caster and Reikan, too.[lr]",
+      "jp": "　[chgfg time=300 storage=藤01b(中) textoff=0]キャスターもいるし、あの零観兄さんもいるから。[lr]",
+      "Pt-br": "[chgfg time=300 storage=藤01b(中) textoff=0]Também tem a Caster e o Reikan.[lr]",
+      "id": 5859,
+      "epk_id": "6098",
+      "label": "$$$message_0042_0002_0002$$$"
+    },
+    {
+      "en": "Now that I think about it, Ryudou Temple's got a motley household that rivals my own.",
+      "jp": "　ふと考えてみれば、この柳洞寺も我が家並に不思議な住人が多いような気がしていた。",
+      "Pt-br": "Pensando bem, o Templo Ryuudou abriga uma turma tão variada quanto a minha casa.",
+      "id": 5860,
+      "epk_id": "6099",
+      "label": "$$$message_0042_0002_0003$$$"
+    },
+    {
+      "en": "\"What about you, Fuji[line len=2]Ah.\"[wvs][playstop time=1000 nowait=true][lr]",
+      "jp": "「藤ねえは……ああ」[wvs][playstop time=1000 nowait=true][lr]",
+      "Pt-br": "\"E você, Fuji[line len=2]Ah.\"[wvs][playstop time=1000 nowait=true][lr]",
+      "id": 5861,
+      "epk_id": "6100",
+      "label": "$$$message_0042_0003_0000$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=藤01a(中) textoff=0]I hesitate before finishing my question.[lr]",
+      "jp": "　[chgfg time=300 storage=藤01a(中) textoff=0]聞きかけて、なんとなく言い淀んでしまう。[lr]",
+      "Pt-br": "[chgfg time=300 storage=藤01a(中) textoff=0]Hesito antes de terminar a pergunta.[lr]",
+      "id": 5862,
+      "epk_id": "6101",
+      "label": "$$$message_0042_0003_0001$$$"
+    },
+    {
+      "en": "The bucket and ladle she's carrying more or less tells me what she's doing out here.",
+      "jp": "　藤ねえが下ろしている水桶と柄杓で、この奥で何をしてたのかが分かった。",
+      "Pt-br": "O balde e a concha que ela carrega já dizem mais ou menos o que veio fazer aqui.",
+      "id": 5863,
+      "epk_id": "6102",
+      "label": "$$$message_0042_0003_0002$$$"
+    },
+    {
+      "en": "\"I went to visit Kiritsugu.\"[lr]",
+      "jp": "「ちょっと切嗣さんのところに行ってたの」[lr]",
+      "Pt-br": "\"Fui visitar Kiritsugu.\"[lr]",
+      "id": 5864,
+      "epk_id": "6103",
+      "label": "$$$message_0042_0004_0000$$$"
+    },
+    {
+      "en": "\"Right.\"[lr]",
+      "jp": "「そっか」[lr]",
+      "Pt-br": "\"Entendi.\"[lr]",
+      "id": 5865,
+      "epk_id": "6104",
+      "label": "$$$message_0042_0004_0001$$$"
+    },
+    {
+      "en": "Kiritsugu is buried in the cemetery behind the temple.[lr]",
+      "jp": "　柳洞寺の墓地に切嗣の墓があった。[lr]",
+      "Pt-br": "Kiritsugu está enterrado no cemitério atrás do templo.[lr]",
+      "id": 5866,
+      "epk_id": "6105",
+      "label": "$$$message_0042_0004_0002$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=藤09a腕b(中) textoff=0]The Fujimura patriarch and Issei's father really pulled out the stops for the funeral, and decided to bury him up here.[lr]",
+      "jp": "　[chgfg time=300 storage=藤09a腕b(中) textoff=0]藤村の爺さんや一成の親父さんがずいぶん熱心に段取りをして、葬式の後に墓地もこの山に決まった。[lr]",
+      "Pt-br": "[chgfg time=300 storage=藤09a腕b(中) textoff=0]O patriarca da família Fujimura e o pai de Issei não pouparam esforços no funeral e decidiram enterrá-lo aqui.[lr]",
+      "id": 5867,
+      "epk_id": "6106",
+      "label": "$$$message_0042_0004_0003$$$"
+    },
+    {
+      "en": "I barely ever[line len=2]no, I never visit.",
+      "jp": "　しかし俺が訪れることは稀、いや、なかった。",
+      "Pt-br": "Eu quase nunca[line len=2]não, nunca venho visitá-lo.",
+      "id": 5868,
+      "epk_id": "6107",
+      "label": "$$$message_0042_0004_0004$$$"
+    },
+    {
+      "en": "\"I'll tend to his grave, Shirou. You don't have to worry about it.\"[lr]",
+      "jp": "「切嗣さんのところの手入れはわたしがするから、士郎はそんなに気にしなくていいのよ」[lr]",
+      "Pt-br": "\"Eu cuido do túmulo dele, Shirou. Não precisa se preocupar.\"[lr]",
+      "id": 5869,
+      "epk_id": "6108",
+      "label": "$$$message_0042_0005_0000$$$"
+    },
+    {
+      "en": "Fuji-nee smiles and forgives me, like she always does.",
+      "jp": "　なんて、藤ねえはいつも笑って許してくれる。",
+      "Pt-br": "Fuji-nee sorri e, como sempre, me perdoa.",
+      "id": 5870,
+      "epk_id": "6109",
+      "label": "$$$message_0042_0005_0001$$$"
+    },
+    {
+      "en": "\"It might not mean much to you yet... [cacheimage storage=藤01a(中)][wvl canskip=0 time=300][chgfg time=300 storage=藤01a(中) textoff=0]But it might make Kiritsugu happy if you came to say hi once in a while.\"[lr]",
+      "jp": "「士郎はまだ仕方ないわよ[line len=3][cacheimage storage=藤01a(中)][wvl canskip=0 time=300][chgfg time=300 storage=藤01a(中) textoff=0]でも、時々顔を見せると切嗣さんは喜ぶかもね」[lr]",
+      "Pt-br": "\"Talvez ainda não signifique muito para você... [cacheimage storage=藤01a(中)][wvl canskip=0 time=300][chgfg time=300 storage=藤01a(中) textoff=0]Mas acho que Kiritsugu ficaria feliz se viesse dar um oi de vez em quando.\"[lr]",
+      "id": 5871,
+      "epk_id": "6110",
+      "label": "$$$message_0042_0006_0000$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「…………」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 5872,
+      "epk_id": "6111",
+      "label": "$$$message_0042_0006_0001$$$"
+    },
+    {
+      "en": "\"Knowing him, though, he'd probably tell us not to bother him with our troubles in the afterlife.[lr]",
+      "jp": "「でも切嗣さんの事だから、死んだ後の事でいろいろ聞かせて僕を困らせてくれるなって言いそうよねー。[lr]",
+      "Pt-br": "\"Embora, conhecendo ele, provavelmente diria para não irmos importuná-lo com nossos problemas nem depois de morto.[lr]",
+      "id": 5873,
+      "epk_id": "6112",
+      "label": "$$$message_0042_0006_0002$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=藤08d(中) textoff=0]That's just the kind of guy he was.\"",
+      "jp": "　[chgfg time=300 storage=藤08d(中) textoff=0]ま、あの人そういう人だったから」",
+      "Pt-br": "[chgfg time=300 storage=藤08d(中) textoff=0]Ele era bem assim.\"",
+      "id": 5874,
+      "epk_id": "6113",
+      "label": "$$$message_0042_0006_0003$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「……………」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 5875,
+      "epk_id": "6114",
+      "label": "$$$message_0042_0007_0000$$$"
+    },
+    {
+      "en": "\"Have you told Saber and Illya that he's buried here, by the way?\"[lr]",
+      "jp": "「そういえば、セイバーちゃんやイリヤちゃんに切嗣さんのお墓のこと、教えた？」[lr]",
+      "Pt-br": "\"Por falar nisso, já contou à Saber-chan e à Illya-chan que ele está enterrado aqui?\"[lr]",
+      "id": 5876,
+      "epk_id": "6115",
+      "label": "$$$message_0042_0007_0001$$$"
+    },
+    {
+      "en": "\"I haven't, no.\"",
+      "jp": "「いや……言ってない」",
+      "Pt-br": "\"Não, ainda não.\"",
+      "id": 5877,
+      "epk_id": "6116",
+      "label": "$$$message_0042_0007_0002$$$"
+    },
+    {
+      "en": "\"Oh, okay... Well, it would probably be better coming from you, not me.\"[lr]",
+      "jp": "「そうかー……ま、それはわたしが言うよりも、士郎から改めて教えてあげた方がいいと思うわよ」[lr]",
+      "Pt-br": "\"Ah, entendi... Bom, seria melhor você contar do que eu.\"[lr]",
+      "id": 5878,
+      "epk_id": "6117",
+      "label": "$$$message_0042_0008_0000$$$"
+    },
+    {
+      "en": "They have an even stronger connection to Kiritsugu than I do.[lr]",
+      "jp": "　二人とも、切嗣との縁は俺以上に濃いのだろう。[lr]",
+      "Pt-br": "As duas têm uma ligação ainda mais forte com Kiritsugu do que eu.[lr]",
+      "id": 5879,
+      "epk_id": "6118",
+      "label": "$$$message_0042_0008_0001$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=藤01b(中) textoff=0]Still, though...I doubt Illya and Saber would visit his grave.",
+      "jp": "　[chgfg time=300 storage=藤01b(中) textoff=0]それでもイリヤもセイバーもこの裏の林の切嗣の墓地に訪れる事は[line len=3]ない気がする。",
+      "Pt-br": "[chgfg time=300 storage=藤01b(中) textoff=0]Mesmo assim... duvido que Illya e Saber visitassem o túmulo dele.",
+      "id": 5880,
+      "epk_id": "6119",
+      "label": "$$$message_0042_0008_0002$$$"
+    },
+    {
+      "en": "\"Sorry, did I make you uncomfortable?\"[lr]",
+      "jp": "「あれ、気分悪くしちゃった？」[lr]",
+      "Pt-br": "\"Desculpa. Deixei você sem jeito?\"[lr]",
+      "id": 5881,
+      "epk_id": "6120",
+      "label": "$$$message_0042_0009_0000$$$"
+    },
+    {
+      "en": "\"Nah, I'm fine.\"[lr]",
+      "jp": "「いや、全然？」[lr]",
+      "Pt-br": "\"Não. Tudo bem.\"[lr]",
+      "id": 5882,
+      "epk_id": "6121",
+      "label": "$$$message_0042_0009_0001$$$"
+    },
+    {
+      "en": "\"'Kay. I'm going to put these back. What about you?\"[lr]",
+      "jp": "「そ、ならいいか[line len=3]わたしはこれ返しに行って下りるけど、士郎はどうするの？」[lr]",
+      "Pt-br": "\"'Tá bom. Vou guardar estas coisas. E você?\"[lr]",
+      "id": 5883,
+      "epk_id": "6122",
+      "label": "$$$message_0042_0009_0002$$$"
+    },
+    {
+      "en": "If I keep walking the way I'm going, I'll arrive at the cemetery Fuji-nee just came from.[lr]",
+      "jp": "　このまま歩いて奥に行くと、入れ違いで藤ねえがやってきた墓地に着く。[lr]",
+      "Pt-br": "Se eu continuar por este caminho, vou chegar ao cemitério de onde Fuji-nee acabou de voltar.[lr]",
+      "id": 5884,
+      "epk_id": "6123",
+      "label": "$$$message_0042_0009_0003$$$"
+    },
+    {
+      "en": "But I still don't have anything to tell my old man.[lr]",
+      "jp": "　そこに行っても、親父に告げられる事はまだ何もない。[lr]",
+      "Pt-br": "Mas ainda não tenho nada para dizer ao velho.[lr]",
+      "id": 5885,
+      "epk_id": "6124",
+      "label": "$$$message_0042_0009_0004$$$"
+    },
+    {
+      "en": "I should go back to the temple with her, then.",
+      "jp": "　なら、藤ねえと一緒に境内に戻ろう。",
+      "Pt-br": "Então é melhor eu voltar ao templo com ela, Fuji-nee.",
+      "id": 5886,
+      "epk_id": "6125",
+      "label": "$$$message_0042_0009_0005$$$"
+    },
+    {
+      "en": "\"I'll go with you. I can take this.\"[lr]",
+      "jp": "「俺も戻るから。これ持つ」[lr]",
+      "Pt-br": "\"Vou com você. Eu levo isso.\"[lr]",
+      "id": 5887,
+      "epk_id": "6126",
+      "label": "$$$message_0042_0010_0000$$$"
+    },
+    {
+      "en": "\"Oh... [cacheimage storage=藤01c(中)][wvl canskip=0 time=400][chgfg time=300 storage=藤01c(中) textoff=0]Okay, let's go.\"[lr]",
+      "jp": "「あ……[cacheimage storage=藤01c(中)][wvl canskip=0 time=400][chgfg time=300 storage=藤01c(中) textoff=0]うん、じゃ行こうか」[lr]",
+      "Pt-br": "\"Ah... [cacheimage storage=藤01c(中)][wvl canskip=0 time=400][chgfg time=300 storage=藤01c(中) textoff=0]Tá bom. Vamos.\"[lr]",
+      "id": 5888,
+      "epk_id": "6127",
+      "label": "$$$message_0042_0010_0001$$$"
+    },
+    {
+      "en": "I take the bucket from Fuji-nee and start walking.[lr]",
+      "jp": "　水桶を藤ねえの代わりに持って、歩き出す。[lr]",
+      "Pt-br": "Pego o balde das mãos de Fuji-nee e começo a andar.[lr]",
+      "id": 5889,
+      "epk_id": "6128",
+      "label": "$$$message_0042_0010_0002$$$"
+    },
+    {
+      "en": "...I look back at the forest one last time.[lr]",
+      "jp": "　……振り返ってもう一度だけ、林を見た。[lr]",
+      "Pt-br": "...Antes de ir, olho uma última vez para a mata.[lr]",
+      "id": 5890,
+      "epk_id": "6129",
+      "label": "$$$message_0042_0010_0003$$$"
+    },
+    {
+      "en": "I can't see his grave from here.[lr]",
+      "jp": "　ここからでは切嗣の墓は見えない。[lr]",
+      "Pt-br": "Não dá para ver o túmulo dele daqui.[lr]",
+      "id": 5891,
+      "epk_id": "6130",
+      "label": "$$$message_0042_0010_0004$$$"
+    },
+    {
+      "en": "\"Hey. See you later, Pops.\"",
+      "jp": "「おーい。いつかまたな、爺さん」",
+      "Pt-br": "\"Ei. Até mais, velho.\"",
+      "id": 5892,
+      "epk_id": "6131",
+      "label": "$$$message_0042_0010_0005$$$"
+    },
+    {
+      "en": "Kiritsugu is buried in the cemetery behind the temple.[r]",
+      "jp": "柳洞寺の墓地に[r]切嗣の墓があった。:S\u0001",
+      "Pt-br": "Kiritsugu está enterrado no cemitério atrás do templo.[r]",
+      "id": 5893,
+      "epk_id": "906105",
+      "label": "$$$message_9042_0004_0002$$$"
+    }
+  ]
+}

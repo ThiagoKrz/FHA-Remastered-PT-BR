@@ -1,0 +1,720 @@
+{
+  "cena": "288ffrbpak7lqbjkgmroaf4gjc",
+  "titulo": "Mansão Emiya: O Banquete de Caqui da Fuji-nee",
+  "rota": "Dia 1",
+  "arquivo": "288ffrbpak7lqbjkgmroaf4gjc.epk_dec",
+  "linhas": [
+    {
+      "en": "Well.[lr]",
+      "jp": "　さて。[lr]",
+      "Pt-br": "Bom.[lr]",
+      "id": 4144,
+      "epk_id": "951",
+      "label": "$$$message_0004_0000_0000$$$"
+    },
+    {
+      "en": "I have some time, so I'll clean my room.[lr]",
+      "jp": "　時間もあるし、部屋の片づけをしよう。[lr]",
+      "Pt-br": "Tenho um tempinho, então vou arrumar meu quarto.[lr]",
+      "id": 4145,
+      "epk_id": "952",
+      "label": "$$$message_0004_0000_0001$$$"
+    },
+    {
+      "en": "It shouldn't be much work. I don't actually own a lot.[lr]",
+      "jp": "　もともと私物は少ないので余り手間はかからない。[lr]",
+      "Pt-br": "Não deve dar muito trabalho. Eu na verdade não tenho muita coisa.[lr]",
+      "id": 4146,
+      "epk_id": "953",
+      "label": "$$$message_0004_0000_0002$$$"
+    },
+    {
+      "en": "\"Still, though...\"[lr]",
+      "jp": "「しかしなぁ……」[lr]",
+      "Pt-br": "\"Mas, ainda assim...\"[lr]",
+      "id": 4147,
+      "epk_id": "954",
+      "label": "$$$message_0004_0000_0003$$$"
+    },
+    {
+      "en": "Strangely, my things have piled up day by day.[lr]",
+      "jp": "　不思議なコトにモノは日々増殖していく。[lr]",
+      "Pt-br": "Estranhamente, as minhas coisas têm se acumulado dia após dia.[lr]",
+      "id": 4148,
+      "epk_id": "955",
+      "label": "$$$message_0004_0000_0004$$$"
+    },
+    {
+      "en": "It's like having a rabbit that gives birth to a litter every time you take your eyes off it.",
+      "jp": "　それこそ、目を離すと子供を産む兎のように。",
+      "Pt-br": "É como ter um coelho que dá à luz uma ninhada toda vez que você tira os olhos dele.",
+      "id": 4149,
+      "epk_id": "956",
+      "label": "$$$message_0004_0000_0005$$$"
+    },
+    {
+      "en": "\"...Was it a rabbit or a mouse? Anyway...\"[lr]",
+      "jp": "「……兎だっけ、鼠だっけ、とにかく」[lr]",
+      "Pt-br": "\"...Isso acontecia com um coelho ou com um camundongo? Enfim...\"[lr]",
+      "id": 4150,
+      "epk_id": "957",
+      "label": "$$$message_0004_0001_0000$$$"
+    },
+    {
+      "en": "I know the cause.[lr]",
+      "jp": "　増えていく原因は分かっている。[lr]",
+      "Pt-br": "Eu conheço a causa.[lr]",
+      "id": 4151,
+      "epk_id": "958",
+      "label": "$$$message_0004_0001_0001$$$"
+    },
+    {
+      "en": "I know it very well, and there's nothing I can do to stop it.",
+      "jp": "　分かっていてもこればっかりはいかんともしがたい。",
+      "Pt-br": "Eu a conheço muito bem, e não tem nada que eu possa fazer para impedi-la.",
+      "id": 4152,
+      "epk_id": "959",
+      "label": "$$$message_0004_0001_0002$$$"
+    },
+    {
+      "en": "\"Eh, I can at least vacuum the place.\"[lr]",
+      "jp": "「ま、軽く掃除機をかけよう」[lr]",
+      "Pt-br": "\"Eh, eu posso pelo menos passar um aspirador de pó por aqui.\"[lr]",
+      "id": 4153,
+      "epk_id": "960",
+      "label": "$$$message_0004_0002_0000$$$"
+    },
+    {
+      "en": "But I already know that if I get out the vacuum cleaner, I'll want to vacuum the neighboring rooms and won't be content until I've covered the entire building.[lr]",
+      "jp": "　しかし一度掃除機を用意すると、自然と隣や他の部屋も掃除したくなり、結局母屋すべてをやらないと満足できなくなる。[lr]",
+      "Pt-br": "Mas já sei que se eu pegar o aspirador de pó, vou querer passar nos cômodos vizinhos e não vou me contentar até ter limpado o prédio inteiro.[lr]",
+      "id": 4154,
+      "epk_id": "961",
+      "label": "$$$message_0004_0002_0001$$$"
+    },
+    {
+      "en": "...This is supposed to be relaxing. I need to be sure to draw the line and stop somewhere.",
+      "jp": "　……息抜きの掃除なのだ。適当なところで切り上げるよう気をつけていこう。",
+      "Pt-br": "...Essa hora é para ser relaxante. Eu tenho que me certificar de impor um limite e parar em algum momento.",
+      "id": 4155,
+      "epk_id": "962",
+      "label": "$$$message_0004_0002_0002$$$"
+    },
+    {
+      "en": "I push the vacuum cleaner around.[se storage=se502.wav][lr]",
+      "jp": "　ごろごろと掃除機を従えて歩く。[se storage=se502.wav][lr]",
+      "Pt-br": "Eu empurro o aspirador de pó de um lado para o outro.[se storage=se502.wav][lr]",
+      "id": 4156,
+      "epk_id": "963",
+      "label": "$$$message_0004_0003_0000$$$"
+    },
+    {
+      "en": "Ahh, I've found the cause of the increasing stuff, or rather, the hoarding.[lr]",
+      "jp": "　ああ、モノが増える、いや増やす元凶発見。[lr]",
+      "Pt-br": "Ahh, encontrei a causa de cada vez ter mais coisas no meu quarto, ou melhor, o acúmulo compulsivo.[lr]",
+      "id": 4157,
+      "epk_id": "964",
+      "label": "$$$message_0004_0003_0001$$$"
+    },
+    {
+      "en": "Just as I was wondering what she brought today...",
+      "jp": "　今日もまた何を持ってきたのかと思えば[line len=3]",
+      "Pt-br": "Justo quando eu estava me perguntando o que ela tinha trazido hoje...",
+      "id": 4158,
+      "epk_id": "965",
+      "label": "$$$message_0004_0003_0002$$$"
+    },
+    {
+      "en": "\"Hey! Whatcha doing, Shirou?\"[lr]",
+      "jp": "「ありゃ？　士郎、何してるの？」[lr]",
+      "Pt-br": "\"Ei! O que tá fazendo, Shirou?\"[lr]",
+      "id": 4159,
+      "epk_id": "966",
+      "label": "$$$message_0004_0004_0000$$$"
+    },
+    {
+      "en": "\"Vacuuming.\"[lr]",
+      "jp": "「掃除しようと思って」[lr]",
+      "Pt-br": "\"Passando o aspirador.\"[lr]",
+      "id": 4160,
+      "epk_id": "967",
+      "label": "$$$message_0004_0004_0001$$$"
+    },
+    {
+      "en": "\"Got it, well I'll see you later[line len=2]\"[lr]",
+      "jp": "「了解、じゃあ後のことはよろしく[line len=3]」[lr]",
+      "Pt-br": "\"Saquei, bom, te vejo depois[line len=2]\"[lr]",
+      "id": 4161,
+      "epk_id": "968",
+      "label": "$$$message_0004_0004_0002$$$"
+    },
+    {
+      "en": "\"Hold it.\"[lr]",
+      "jp": "「ちょいと待て」[lr]",
+      "Pt-br": "\"Espera aí.\"[lr]",
+      "id": 4162,
+      "epk_id": "969",
+      "label": "$$$message_0004_0004_0003$$$"
+    },
+    {
+      "en": "Don't just drop a box of junk in my room and then leave.",
+      "jp": "　俺の部屋にガラクタを、ダンボール単位で置いて逃げるな。",
+      "Pt-br": "Não vá simplesmente largando uma caixa de lixo no meu quarto e depois indo embora.",
+      "id": 4163,
+      "epk_id": "970",
+      "label": "$$$message_0004_0004_0004$$$"
+    },
+    {
+      "en": "\"What's that, Fuji-nee?\"[lr]",
+      "jp": "「それはなんだ、藤ねえ」[lr]",
+      "Pt-br": "\"O que é isso, Fuji-nee?\"[lr]",
+      "id": 4164,
+      "epk_id": "971",
+      "label": "$$$message_0004_0005_0000$$$"
+    },
+    {
+      "en": "\"Huh? Oh, just something I thought you'd need for your winter hibernation.\"",
+      "jp": "「え？　だってほら、士郎が冬眠するときに必要かなーと思って」",
+      "Pt-br": "\"Hã? Ah, é só algo que eu achei que você iria precisar pra sua hibernação de inverno.\"",
+      "id": 4165,
+      "epk_id": "972",
+      "label": "$$$message_0004_0005_0001$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「[line len=6]」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 4166,
+      "epk_id": "973",
+      "label": "$$$message_0004_0006_0000$$$"
+    },
+    {
+      "en": "Ha ha. Do I look like I'm really that type?[lr]",
+      "jp": "　ふふふ、ワタクシはそんな器用なコトが出来る生物ではありません。[lr]",
+      "Pt-br": "Ha ha. Eu por acaso pareço ser desse tipo de pessoa?[lr]",
+      "id": 4167,
+      "epk_id": "974",
+      "label": "$$$message_0004_0006_0001$$$"
+    },
+    {
+      "en": "Also, junk wouldn't help someone hibernate.",
+      "jp": "　あと、ガラクタは冬眠において何の役にも立ちません。",
+      "Pt-br": "Além disso, lixo não ajudaria ninguém a hibernar.",
+      "id": 4168,
+      "epk_id": "975",
+      "label": "$$$message_0004_0006_0002$$$"
+    },
+    {
+      "en": "\"...Fuji-nee. This is my bedroom, not a beaver's dam... Mm, maybe a crow's nest would be a better metaphor.\"",
+      "jp": "「……藤ねえ。この部屋は俺のねぐらであって、ビーバーのダムか何かじゃない。……いや、むしろカラスの巣の方が的確か」",
+      "Pt-br": "\"...Fuji-nee. Este é o meu quarto, não uma represa de castores... Mm, talvez um ninho de corvos seja uma metáfora melhor.\"",
+      "id": 4169,
+      "epk_id": "976",
+      "label": "$$$message_0004_0007_0000$$$"
+    },
+    {
+      "en": "\"It does look just like one, now that you mention it.[lr]",
+      "jp": "「むう、言われて見ればそっくりね。[lr]",
+      "Pt-br": "\"Agora que você falou, de fato, tá parecendo um mesmo.[lr]",
+      "id": 4170,
+      "epk_id": "977",
+      "label": "$$$message_0004_0008_0000$$$"
+    },
+    {
+      "en": "Crows these days are no joke, though. They're [font italic=true]wild[font italic=false] in every sense of the word, and they even build their nests out of laundry hangers.\"",
+      "jp": "　けど士郎、最近のカラスはバカにできないわよ？　バイタリティ溢れるワイルドぶりで、洗濯物のハンガーでも巣を作るんだから」",
+      "Pt-br": "Só que hoje em dia, não dá pra brincar com corvos. Eles são [font italic=true]selvagens[font italic=false] em todos os sentidos da palavra, e eles até constroem os ninhos deles usando cabides.\"",
+      "id": 4171,
+      "epk_id": "978",
+      "label": "$$$message_0004_0008_0001$$$"
+    },
+    {
+      "en": "Huh. They even use hangers in their nests? That reminds me of a puzzle game.[lr]",
+      "jp": "　へえ。ハンガーで巣を作るなんて、まるでパズルだ。[lr]",
+      "Pt-br": "Hã. Eles até usam cabides nos ninhos deles? Isso me lembra um jogo de quebra-cabeça.[lr]",
+      "id": 4172,
+      "epk_id": "979",
+      "label": "$$$message_0004_0009_0000$$$"
+    },
+    {
+      "en": "Crows are supposed to be smart, but they're adaptable too.[lr]",
+      "jp": "　カラスは賢いと言うが、連中の順応力はたいしたものである。[lr]",
+      "Pt-br": "É de se supor que corvos sejam inteligentes, mas eles também são bem adaptáveis.[lr]",
+      "id": 4173,
+      "epk_id": "980",
+      "label": "$$$message_0004_0009_0001$$$"
+    },
+    {
+      "en": "\"Anyway, my point is...\"",
+      "jp": "「まあ、それはともかく」",
+      "Pt-br": "\"Enfim, onde eu quero chegar é...\"",
+      "id": 4174,
+      "epk_id": "981",
+      "label": "$$$message_0004_0009_0002$$$"
+    },
+    {
+      "en": "My bedroom is not a storage space.[lr]",
+      "jp": "　俺の部屋は物置ではない。[lr]",
+      "Pt-br": "O meu quarto não é um espaço de armazenamento.[lr]",
+      "id": 4175,
+      "epk_id": "982",
+      "label": "$$$message_0004_0010_0000$$$"
+    },
+    {
+      "en": "The shed in the yard has already turned into one of Fuji-nee's storerooms. I won't let her take over this space, too. I wish she'd build a nest in her own house...",
+      "jp": "　庭の土蔵すら藤ねえの手によって物置と化しているのだ。こんな所まで藤ねえの私物置き場にされてたまるものか。巣作りは自分の家でやってほしいのだが……。",
+      "Pt-br": "O galpão no quintal já virou um dos depósitos da Fuji-nee. Eu não vou deixar ela se apropriar desse espaço também. Queria eu que ela construísse um ninho na casa dela...",
+      "id": 4176,
+      "epk_id": "983",
+      "label": "$$$message_0004_0010_0001$$$"
+    },
+    {
+      "en": "\"...Mgh. Are you planning to hibernate in my room?\"[lr]",
+      "jp": "「……む。もしや俺の部屋で冬眠する気か藤ねえ」[lr]",
+      "Pt-br": "\"...Mgh. Você está planejando hibernar no meu quarto, Fuji-nee?\"[lr]",
+      "id": 4177,
+      "epk_id": "984",
+      "label": "$$$message_0004_0011_0000$$$"
+    },
+    {
+      "en": "\"Huh? Do tigers hibernate?\"[lr]",
+      "jp": "「うん？　虎って冬眠したっけ？」[lr]",
+      "Pt-br": "\"Hã? Tigres hibernam, por acaso?\"[lr]",
+      "id": 4178,
+      "epk_id": "985",
+      "label": "$$$message_0004_0011_0001$$$"
+    },
+    {
+      "en": "\"Bears do, but tigers don't...I think.\"[lr]",
+      "jp": "「熊は冬眠するけども……どうかな、しない気がする」[lr]",
+      "Pt-br": "\"Os ursos sim, mas os tigres não... eu acho.\"[lr]",
+      "id": 4179,
+      "epk_id": "986",
+      "label": "$$$message_0004_0011_0002$$$"
+    },
+    {
+      "en": "Is she saying she'd hibernate if she found out that tigers do?[lr]",
+      "jp": "　虎が冬眠するのなら、藤ねえも冬眠する気だったんだろうか？[lr]",
+      "Pt-br": "Ela está querendo dizer que hibernaria se descobrisse que os tigres fazem isso, Fuji-nee?[lr]",
+      "id": 4180,
+      "epk_id": "987",
+      "label": "$$$message_0004_0011_0003$$$"
+    },
+    {
+      "en": "...Actually, I can imagine her trying to pull it off.",
+      "jp": "　……まあ、この人なら真似事ぐらいは平気でやりそうだが。",
+      "Pt-br": "...Para falar a verdade, eu consigo muito bem imaginá-la tentando fazer isso.",
+      "id": 4181,
+      "epk_id": "988",
+      "label": "$$$message_0004_0011_0004$$$"
+    },
+    {
+      "en": "\"Hibernating like an animal sounds nice. I wonder what it's like to spend the whooole winter sleeping in a cave.\"[lr]",
+      "jp": "「いいよねぇ、冬眠できる動物は。冬の間ずーっと穴蔵で寝ていればいいんだから、ちょっと憧れてみたり」[lr]",
+      "Pt-br": "\"Hibernar como um animal parece ser muito bom. Eu me pergunto como deve ser passar o inverno tooodo dormindo numa caverna.\"[lr]",
+      "id": 4182,
+      "epk_id": "989",
+      "label": "$$$message_0004_0012_0000$$$"
+    },
+    {
+      "en": "\"Well, you'd have to eat a lot in the fall, and you would be all skin and bones come spring.\"",
+      "jp": "「冬眠って……秋にはたくさん喰わないといけないし、春先はガリガリになるし」",
+      "Pt-br": "\"Bom, você teria que comer muito no outono, e estaria só pele e osso quando chegasse a primavera.\"",
+      "id": 4183,
+      "epk_id": "990",
+      "label": "$$$message_0004_0012_0001$$$"
+    },
+    {
+      "en": "\"So you mean I'd get to scarf down as much as I can during fall when everything's ripe for the taking, and wake up in the spring with a successful diet!?\"[lr]",
+      "jp": "「それっていわゆる一つの、天高く馬肥ゆる秋に食欲の限りを尽くして、おまけに春先にはダイエットも達成ってこと！？」[lr]",
+      "Pt-br": "\"Então quer dizer que eu poderia me empanturrar o quanto aguentasse durante o outono, quando tem de tudo para pegar, e acordaria na primavera com a dieta sendo um sucesso!?\"[lr]",
+      "id": 4184,
+      "epk_id": "991",
+      "label": "$$$message_0004_0013_0000$$$"
+    },
+    {
+      "en": "Man, I sometimes wish she'd hand over some of whatever it is that keeps her so upbeat.",
+      "jp": "　すげえな。そういう考え方になるんだポジティブにシンキングする人って。",
+      "Pt-br": "Caramba, às vezes eu queria que ela me passasse um pouco seja lá do que for que a mantém tão otimista desse jeito.",
+      "id": 4185,
+      "epk_id": "992",
+      "label": "$$$message_0004_0013_0001$$$"
+    },
+    {
+      "en": "\"Now I actually want to try it.\"[lr]",
+      "jp": "「ますますしたくなってきたわね、冬眠」[lr]",
+      "Pt-br": "\"Agora fiquei com vontade de testar isso.\"[lr]",
+      "id": 4186,
+      "epk_id": "993",
+      "label": "$$$message_0004_0014_0000$$$"
+    },
+    {
+      "en": "\"...What about your job?\"[lr]",
+      "jp": "「[line len=3]仕事どうするんだよ」[lr]",
+      "Pt-br": "\"...E o seu trabalho?\"[lr]",
+      "id": 4187,
+      "epk_id": "994",
+      "label": "$$$message_0004_0014_0001$$$"
+    },
+    {
+      "en": "\"I can just take winter hibernation leave... That doesn't exist, huh.\"[lr]",
+      "jp": "「冬眠休暇制度は[line len=3]無いか」[lr]",
+      "Pt-br": "\"Eu posso simplesmente tirar uma licença de hibernação de inverno... Ah é, isso não existe, né.\"[lr]",
+      "id": 4188,
+      "epk_id": "995",
+      "label": "$$$message_0004_0014_0002$$$"
+    },
+    {
+      "en": "Just use your paid time off during winter break.[lr]",
+      "jp": "　冬休みに有給を使い切ってしまえばいい。[lr]",
+      "Pt-br": "Apenas use as suas folgas remuneradas durante as férias de inverno.[lr]",
+      "id": 4189,
+      "epk_id": "996",
+      "label": "$$$message_0004_0014_0003$$$"
+    },
+    {
+      "en": "And then bury yourself under the kotatsu. I hear it turns people into lazy bums.",
+      "jp": "　そしてコタツで法楽三昧。人それをダメ人間と言う。",
+      "Pt-br": "E depois se enterre embaixo do kotatsu. Ouvi dizer que ele transforma as pessoas em uns vagabundos preguiçosos.",
+      "id": 4190,
+      "epk_id": "997",
+      "label": "$$$message_0004_0014_0004$$$"
+    },
+    {
+      "en": "\"So, Fuji-nee... That looks like a box for persimmons, but what exactly are you keeping in there?\"[lr]",
+      "jp": "「で、藤ねえ……それは柿のダンボールに見えるけど、どんなガラクタが入ってるんだ？」[lr]",
+      "Pt-br": "\"Então, Fuji-nee... Isso aí parece uma caixa de caquis, mas o que exatamente você tá guardando nela?\"[lr]",
+      "id": 4191,
+      "epk_id": "998",
+      "label": "$$$message_0004_0015_0000$$$"
+    },
+    {
+      "en": "\"Huh? Persimmons, obviously.\"[lr]",
+      "jp": "「え？　柿に決まってるじゃない、士郎」[lr]",
+      "Pt-br": "\"Hã? Caquis, óbvio.\"[lr]",
+      "id": 4192,
+      "epk_id": "999",
+      "label": "$$$message_0004_0015_0001$$$"
+    },
+    {
+      "en": "Well, I suppo[line len=2]Wait, no.[lr]",
+      "jp": "　ほう、そう来たか[line len=3]じゃなくって。[lr]",
+      "Pt-br": "Bem, eu supo[line len=2]Espera, não.[lr]",
+      "id": 4193,
+      "epk_id": "1000",
+      "label": "$$$message_0004_0015_0002$$$"
+    },
+    {
+      "en": "Are they actually persimmons?",
+      "jp": "　本当に？　本当に柿？",
+      "Pt-br": "Será que eles são de fato caquis?",
+      "id": 4194,
+      "epk_id": "1001",
+      "label": "$$$message_0004_0015_0003$$$"
+    },
+    {
+      "en": "\"It was SUCH a pain to haul them over here!\"[lr]",
+      "jp": "「ここまで持ってくるのは大変だったわよー」[lr]",
+      "Pt-br": "\"Foi UM sufoco arrastar isso tudo pra cá!\"[lr]",
+      "id": 4195,
+      "epk_id": "1002",
+      "label": "$$$message_0004_0016_0000$$$"
+    },
+    {
+      "en": "\"Thanks for doing that...but why are you putting them in my room?\"[lr]",
+      "jp": "「ご苦労様……で、何で俺の部屋に？」[lr]",
+      "Pt-br": "\"Obrigado por ter feito isso... mas por que você tá colocando isso no meu quarto?\"[lr]",
+      "id": 4196,
+      "epk_id": "1003",
+      "label": "$$$message_0004_0016_0001$$$"
+    },
+    {
+      "en": "\"The kitchen's too cramped, so I was looking for a place to park 'em. But I also don't want to leave them where nobody's around. They'd get forgotten, right? So I decided your room was the best place for them.\"",
+      "jp": "「台所が手狭だったから、適当に置き場所探してたのよ。でもほら、誰もいない所に置いて忘れられちゃうと勿体ないじゃない？　なら士郎の部屋が丁度良いかなーって」",
+      "Pt-br": "\"A cozinha tá muito apertada, aí eu tava procurando um lugar pra estacionar eles. Só que também não queria deixá-los onde não tem ninguém por perto. Eles iriam acabar sendo esquecidos, concorda? Então eu decidi que o seu quarto era o melhor lugar pra eles.\"",
+      "id": 4197,
+      "epk_id": "1004",
+      "label": "$$$message_0004_0016_0002$$$"
+    },
+    {
+      "en": "\"...Haah. I see.[lr]",
+      "jp": "「……はあ、そうですか。[lr]",
+      "Pt-br": "\"...Haah. Entendi.[lr]",
+      "id": 4198,
+      "epk_id": "1005",
+      "label": "$$$message_0004_0017_0000$$$"
+    },
+    {
+      "en": "But Fuji-nee, didn't you put a bunch of mandarins and watermelons in the living room before?\"[lr]",
+      "jp": "　けど藤ねえ、前は居間にどどーんと蜜柑とかスイカとか置いてたじゃないか」[lr]",
+      "Pt-br": "Mas, Fuji-nee, você já não colocou um monte de tangerinas e melancias na sala de estar antes?\"[lr]",
+      "id": 4199,
+      "epk_id": "1006",
+      "label": "$$$message_0004_0017_0001$$$"
+    },
+    {
+      "en": "\"I did... But now that Saber and Sakura are around, I feel bad making a mess of the living room.\"",
+      "jp": "「そうなんだけどねー。最近はセイバーちゃんとか桜ちゃんとかいるし。散らかしちゃ悪いじゃない」",
+      "Pt-br": "\"Coloquei... Mas, agora que a Saber-chan e a Sakura-chan estão por aqui, eu me sinto mal em bagunçar a sala de estar.\"",
+      "id": 4200,
+      "epk_id": "1007",
+      "label": "$$$message_0004_0017_0002$$$"
+    },
+    {
+      "en": "\"How incredibly thoughtful of you. So what made you think it's okay to make a mess of my room?[lr]",
+      "jp": "「……実に素晴らしい心遣いですが、その思いやりがどうしてココには適用されないのか。[lr]",
+      "Pt-br": "\"Mas que consideração inacreditável da sua parte. Então o que te fez pensar que não tem problema bagunçar o meu quarto?[lr]",
+      "id": 4201,
+      "epk_id": "1008",
+      "label": "$$$message_0004_0018_0000$$$"
+    },
+    {
+      "en": "...Hah!\"[lr]",
+      "jp": "　[line len=3]ええい」[lr]",
+      "Pt-br": "...Hah!\"[lr]",
+      "id": 4202,
+      "epk_id": "1009",
+      "label": "$$$message_0004_0018_0001$$$"
+    },
+    {
+      "en": "I use the vacuum cleaner as a tool to open the box.[lr]",
+      "jp": "　掃除機を片隅にのけ、ダンボールを開く。[lr]",
+      "Pt-br": "Eu uso o aspirador de pó como ferramenta para abrir a caixa.[lr]",
+      "id": 4203,
+      "epk_id": "1010",
+      "label": "$$$message_0004_0018_0002$$$"
+    },
+    {
+      "en": "...Inside, I see rows of bright, glossy persimmons.",
+      "jp": "　……中につやつやの柿が整列している。",
+      "Pt-br": "...Lá dentro, vejo fileiras de caquis brilhantes e lustrosos.",
+      "id": 4204,
+      "epk_id": "1011",
+      "label": "$$$message_0004_0018_0003$$$"
+    },
+    {
+      "en": "\"I figured you'd need some feed if you're going to hibernate.\"[lr]",
+      "jp": "「士郎が冬眠するなら、やっぱり餌が要るかなーって」[lr]",
+      "Pt-br": "\"Eu imaginei que você iria precisar de um pouco de ração pra hibernar.\"[lr]",
+      "id": 4205,
+      "epk_id": "1012",
+      "label": "$$$message_0004_0019_0000$$$"
+    },
+    {
+      "en": "\"I already said I don't hibernate... Is this another gift from the Fujimura Group?\"[lr]",
+      "jp": "「いや、俺はしないから……またこれ藤村組のお裾分けなのか？」[lr]",
+      "Pt-br": "\"Eu já disse que eu não hiberno... Isso por acaso é mais um presente do Grupo Fujimura?\"[lr]",
+      "id": 4206,
+      "epk_id": "1013",
+      "label": "$$$message_0004_0019_0001$$$"
+    },
+    {
+      "en": "\"Yep. We've got a TON of them.\"",
+      "jp": "「そうそう、もうウチにどどどーん！って」",
+      "Pt-br": "\"Aham. Nós recebemos UMA TONELADA deles.\"",
+      "id": 4207,
+      "epk_id": "1014",
+      "label": "$$$message_0004_0019_0002$$$"
+    },
+    {
+      "en": "They must have really gotten a big shipment in, then.[lr]",
+      "jp": "　そう言うからにはかなりの量が来たんだろう。[lr]",
+      "Pt-br": "Eles devem ter recebido um baita de um carregamento, então.[lr]",
+      "id": 4208,
+      "epk_id": "1015",
+      "label": "$$$message_0004_0020_0000$$$"
+    },
+    {
+      "en": "For whatever reason, they get so much fruit every season that I wonder if they're bound for some farmer's market.[lr]",
+      "jp": "　どうしたものか、シーズン毎に青果市場の出先か？と思うほどに果物が届く。[lr]",
+      "Pt-br": "Por algum motivo, eles recebem tanta fruta a cada estação que eu fico imaginando se aquilo tudo vai parar em alguma feira de produtores.[lr]",
+      "id": 4209,
+      "epk_id": "1016",
+      "label": "$$$message_0004_0020_0001$$$"
+    },
+    {
+      "en": "Grandpa Raiga once said it was the price for being part of the family.",
+      "jp": "　雷画じーさん曰く付き合いの必需品らしいのだが。",
+      "Pt-br": "O vovô Raiga disse uma vez que esse era o preço por fazer parte da família.",
+      "id": 4210,
+      "epk_id": "1017",
+      "label": "$$$message_0004_0020_0002$$$"
+    },
+    {
+      "en": "\"We had so many that I thought about drying them outside.\"[lr]",
+      "jp": "「あれくらいあるんなら、軒先で干し柿にしようかってほど」[lr]",
+      "Pt-br": "\"Tinha tantos que eu até pensei em secar eles lá fora.\"[lr]",
+      "id": 4211,
+      "epk_id": "1018",
+      "label": "$$$message_0004_0021_0000$$$"
+    },
+    {
+      "en": "\"Dried persimmons are sour, you know. What kind of prank were they thinking, sending them to someone raw...\"",
+      "jp": "「干し柿は渋柿だぞ、それを生で送りつけるのはどんな嫌がらせだ……はぁ」",
+      "Pt-br": "\"Caquis secos são azedos, sabia. Que tipo de pegadinha eles estavam pensando em fazer, enviando tudo cru assim...\"",
+      "id": 4212,
+      "epk_id": "1019",
+      "label": "$$$message_0004_0021_0001$$$"
+    },
+    {
+      "en": "Anyway, we have two boxes of persimmons.[lr]",
+      "jp": "　とりあえず二箱分、柿がある。[lr]",
+      "Pt-br": "De qualquer forma, nós temos duas caixas de caquis.[lr]",
+      "id": 4213,
+      "epk_id": "1020",
+      "label": "$$$message_0004_0022_0000$$$"
+    },
+    {
+      "en": "I pick one up and find that it's rather ripe and plump.",
+      "jp": "　一個手に取ってみると結構熟して柔らかい。",
+      "Pt-br": "Pego um e noto que ele está bem maduro e rechonchudo.",
+      "id": 4214,
+      "epk_id": "1021",
+      "label": "$$$message_0004_0022_0001$$$"
+    },
+    {
+      "en": "\"We'd better eat this soon.\"[lr]",
+      "jp": "「これ、早々に喰いきらないとまずいな」[lr]",
+      "Pt-br": "\"É melhor comermos isso logo.\"[lr]",
+      "id": 4215,
+      "epk_id": "1022",
+      "label": "$$$message_0004_0023_0000$$$"
+    },
+    {
+      "en": "\"I know, right!?[lr]",
+      "jp": "「でしょでしょ！？[lr]",
+      "Pt-br": "\"Né, não!?[lr]",
+      "id": 4216,
+      "epk_id": "1023",
+      "label": "$$$message_0004_0023_0001$$$"
+    },
+    {
+      "en": "Might as well be a persimmon festival at my house. Persimmons for breakfast, lunch, and dinner! I wanted to share some of the fall spirit with you! That's how considerate I am.\"",
+      "jp": "　もうあっちは朝に柿、昼に柿、夜に柿の、柿の大盤振舞でさあ。士郎にもこの秋の風情をお裾分けしてあげたーい！という温かいお姉ちゃんの配慮なワケ」",
+      "Pt-br": "Pode muito bem virar um festival de caqui lá em casa. Caqui pro café da manhã, almoço e jantar! Eu queria compartilhar um pouco do espírito de outono com você! Olha o tamanho da minha consideração, Onee-chan.\"",
+      "id": 4217,
+      "epk_id": "1024",
+      "label": "$$$message_0004_0023_0002$$$"
+    },
+    {
+      "en": "Considerate. Rather than dumping what you can't finish on me. Uh huh.[lr]",
+      "jp": "　余り物を押しつけた、と言わないか、それは。[lr]",
+      "Pt-br": "Consideração. Em vez de despejar no meu quarto o que você não consegue dar conta de comer. Sei.[lr]",
+      "id": 4218,
+      "epk_id": "1025",
+      "label": "$$$message_0004_0024_0000$$$"
+    },
+    {
+      "en": "Still, they aren't bad as far as persimmons go. Actually, these are great quality.",
+      "jp": "　しかしモノとしては悪くない、というか良い柿なんだよなこれ[line len=3]",
+      "Pt-br": "Ainda assim, eles não estão ruins para caquis. Na verdade, são de ótima qualidade.",
+      "id": 4219,
+      "epk_id": "1026",
+      "label": "$$$message_0004_0024_0001$$$"
+    },
+    {
+      "en": "\"It would be a waste if these spoiled.\"[lr]",
+      "jp": "「もったいないなぁ、このまま傷むのは」[lr]",
+      "Pt-br": "\"Seria um desperdício se eles estragassem.\"[lr]",
+      "id": 4220,
+      "epk_id": "1027",
+      "label": "$$$message_0004_0025_0000$$$"
+    },
+    {
+      "en": "\"I think it'll be okay. They'll be gone soon if everyone eats some.\"[lr]",
+      "jp": "「大丈夫じゃないの？　みんなで手分けすればあっという間に無くなるわよー」[lr]",
+      "Pt-br": "\"Acho que não vai dar problema. Se todo mundo comer um pouco, eles acabam logo.\"[lr]",
+      "id": 4221,
+      "epk_id": "1028",
+      "label": "$$$message_0004_0025_0001$$$"
+    },
+    {
+      "en": "\"We had just enough people for the mandarins, but persimmons, huh... The peaches and pears went quickly enough, true.\"",
+      "jp": "「蜜柑でもノルマがあったけど、今度は柿か……桃と梨は早く無くなったんだけどな」",
+      "Pt-br": "\"Tinha gente o suficiente pra dar conta das tangerinas, mas caquis, hein... Tudo bem que os pêssegos e as peras acabaram rápido.\"",
+      "id": 4222,
+      "epk_id": "1029",
+      "label": "$$$message_0004_0025_0002$$$"
+    },
+    {
+      "en": "I recall the assortment of fruits that have gone through our house.[lr]",
+      "jp": "　我が家を巡っていった果物たちを思い出す。[lr]",
+      "Pt-br": "Relembro da variedade de frutas que já passaram pela nossa casa.[lr]",
+      "id": 4223,
+      "epk_id": "1030",
+      "label": "$$$message_0004_0026_0000$$$"
+    },
+    {
+      "en": "We have a lot more people to consume them than half a year ago, so they should go quickly.",
+      "jp": "　半年前に比べれば消費者も多いので早く無くなるだろう。",
+      "Pt-br": "Nós temos muito mais pessoas para consumi-las do que tínhamos há meio ano, então elas devem acabar rapidinho.",
+      "id": 4224,
+      "epk_id": "1031",
+      "label": "$$$message_0004_0026_0001$$$"
+    },
+    {
+      "en": "\"I've still got mandarins and apples waiting to be brought over... I think Saber can eat a lot of them.\"[lr]",
+      "jp": "「これから蜜柑とリンゴが待ちかまえてるのにねぇ……セイバーちゃんならたくさん食べそうだし」[lr]",
+      "Pt-br": "\"Ainda tenho tangerinas e maçãs esperando para serem trazidas pra cá... Acho que a Saber-chan consegue comer um monte delas.\"[lr]",
+      "id": 4225,
+      "epk_id": "1032",
+      "label": "$$$message_0004_0027_0000$$$"
+    },
+    {
+      "en": "\"...At least we can use persimmons and apples in cooking. Anyway, I'm putting these somewhere else.\"",
+      "jp": "「……リンゴと柿は料理に使えるから何とかなるかな……とにかくこれ、別の場所に持ってくぞ」",
+      "Pt-br": "\"...Pelo menos nós podemos usar caquis e maçãs na cozinha. Enfim, vou colocar isso em outro lugar.\"",
+      "id": 4226,
+      "epk_id": "1033",
+      "label": "$$$message_0004_0027_0001$$$"
+    },
+    {
+      "en": "I can't clean my room with these in the way.[lr]",
+      "jp": "　このままだとろくに掃除もできない。[lr]",
+      "Pt-br": "Não consigo limpar o meu quarto com isso no caminho.[lr]",
+      "id": 4227,
+      "epk_id": "1034",
+      "label": "$$$message_0004_0028_0000$$$"
+    },
+    {
+      "en": "The room on the north side is open, so I can just set it down in the hall around there.",
+      "jp": "　北側の部屋が空いているんで、その辺の廊下に置いておけばいいだろう。",
+      "Pt-br": "O quarto no lado norte está livre, então eu posso muito bem deixar isso pelo corredor daquela parte.",
+      "id": 4228,
+      "epk_id": "1035",
+      "label": "$$$message_0004_0028_0001$$$"
+    },
+    {
+      "en": "\"You should at least keep one box for your hiber...\"[lr]",
+      "jp": "「一箱くらい士郎の冬眠用……」[lr]",
+      "Pt-br": "\"Você deveria guardar pelo menos uma caixa pra sua hiber...\"[lr]",
+      "id": 4229,
+      "epk_id": "1036",
+      "label": "$$$message_0004_0029_0000$$$"
+    },
+    {
+      "en": "\"I really don't need that many! Come on, help.\"[lr]",
+      "jp": "「そんなにたくさん要らないってば、ほら藤ねえも」[lr]",
+      "Pt-br": "\"Eu não preciso de tantos assim! Qual é, ajuda aqui, Fuji-nee.\"[lr]",
+      "id": 4230,
+      "epk_id": "1037",
+      "label": "$$$message_0004_0029_0001$$$"
+    },
+    {
+      "en": "\"Okay, okay. [wvl][shock vmax=20 time=800 count=3]Hup!\"",
+      "jp": "「わかったわよー、[wvl][shock vmax=20 time=800 count=3]よっこらしょー」",
+      "Pt-br": "\"Tá bom, tá bom. [wvl][shock vmax=20 time=800 count=3]Opa!\"",
+      "id": 4231,
+      "epk_id": "1038",
+      "label": "$$$message_0004_0029_0002$$$"
+    },
+    {
+      "en": "\"Now I actually want to try it.\"[r]",
+      "jp": "「ますますしたくなって[r]きたわね、冬眠」",
+      "Pt-br": "\"Agora fiquei com vontade de testar isso.\"[r]",
+      "id": 4232,
+      "epk_id": "900993",
+      "label": "$$$message_9004_0014_0000$$$"
+    }
+  ]
+}

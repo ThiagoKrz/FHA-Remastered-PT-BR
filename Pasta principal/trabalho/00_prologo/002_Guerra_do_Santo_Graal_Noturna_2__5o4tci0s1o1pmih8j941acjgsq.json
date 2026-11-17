@@ -1,0 +1,4472 @@
+{
+  "cena": "5o4tci0s1o1pmih8j941acjgsq",
+  "titulo": "Guerra do Santo Graal Noturna 2",
+  "rota": "Prólogo",
+  "arquivo": "5o4tci0s1o1pmih8j941acjgsq.epk_dec",
+  "linhas": [
+    {
+      "en": "I always wake up in pain.[lr]",
+      "jp": "　目覚めは、常に苦痛から始まった。[lr]",
+      "Pt-br": "Eu sempre acordo em dor.[lr]",
+      "id": 68,
+      "epk_id": "22368",
+      "label": "$$$message_0177_0000_0000$$$"
+    },
+    {
+      "en": "It's a journey where I fall from a lightless abyss to the sunlit surface.[lr]",
+      "jp": "　日の当たらぬ暗い淵から、日の当たる地上まで落ちていく行程。[lr]",
+      "Pt-br": "É uma jornada em que cai de um abismo sem luz para a superfície iluminada.[lr]",
+      "id": 69,
+      "epk_id": "22369",
+      "label": "$$$message_0177_0000_0001$$$"
+    },
+    {
+      "en": "From dark to light, not unlike the loud trip from womb to birth.[lr]",
+      "jp": "　暗から明へ。産道を経由して誕生を[ruby text=うた]叫う過程によく似ている。[lr]",
+      "Pt-br": "Do escuro para a luz, não muito diferente da brusca transição do útero para o nascimento.[lr]",
+      "id": 70,
+      "epk_id": "22370",
+      "label": "$$$message_0177_0000_0002$$$"
+    },
+    {
+      "en": "My battered body and withering life are lit aflame, and my mind returns to the bright world of the living.",
+      "jp": "　ボロボロの体、死に[ruby text=ひん]瀕する命になんとか火をつけて、再びこの世に意識を灯す。",
+      "Pt-br": "Meu corpo ferido e minha vida murchando são iluminados por uma chama, e minha mente retorna ao mundo brilhante dos vivos.",
+      "id": 71,
+      "epk_id": "22371",
+      "label": "$$$message_0177_0000_0003$$$"
+    },
+    {
+      "en": "\"[font color=0x000000][block len=9][resetfont]\"[lr]",
+      "jp": "「[font color=0x000000][block len=9][resetfont]」[lr]",
+      "Pt-br": "\"\"[font color=0x000000][block len=9][resetfont][lr]",
+      "id": 72,
+      "epk_id": "22372",
+      "label": "$$$message_0177_0001_0000$$$"
+    },
+    {
+      "en": "I writhe in agony.[lr]",
+      "jp": "　激痛にのたうちまわる。[lr]",
+      "Pt-br": "Eu me contorço em agonia.[lr]",
+      "id": 73,
+      "epk_id": "22373",
+      "label": "$$$message_0177_0001_0001$$$"
+    },
+    {
+      "en": "The instant I revive, my blood flow, skeletal structure, nervous synapses, and organ operations[line len=2]all of my vital functions[line len=2]give birth to pain.",
+      "jp": "　甦った途端、血液の循環、骨の繋がり、神経の接続、内臓の運営、あらゆる生命活動が“痛み”を生み出した。",
+      "Pt-br": "O instante em que revivo, meu fluxo sanguíneo, estrutura óssea, sinapses nervosas e operações orgânicas [line len=2]todas as minhas funções vitais [line len=2]geram dor.",
+      "id": 74,
+      "epk_id": "22374",
+      "label": "$$$message_0177_0001_0002$$$"
+    },
+    {
+      "en": "\"[font color=0x000000][block len=9][resetfont]\"[lr]",
+      "jp": "「[font color=0x000000][block len=9][resetfont]」[lr]",
+      "Pt-br": "\"\"[font color=0x000000][block len=9][resetfont][lr]",
+      "id": 75,
+      "epk_id": "22375",
+      "label": "$$$message_0177_0002_0000$$$"
+    },
+    {
+      "en": "I live in order to suffer.[lr]",
+      "jp": "　苦しむ為に生きている。[lr]",
+      "Pt-br": "Vivo para sofrer.[lr]",
+      "id": 76,
+      "epk_id": "22376",
+      "label": "$$$message_0177_0002_0001$$$"
+    },
+    {
+      "en": "My burned-out brain gropes around for its destroyed normality, and the pain restarts my functions.[lr]",
+      "jp": "　とうに焼き切れた脳髄は破損しているなりの正常を模索して、痛みによって再動する機能を獲得した。[lr]",
+      "Pt-br": "Meu cérebro queimado arrasta-se em busca da normalidade destruída, e a dor reinicia meus funcionamentos.[lr]",
+      "id": 77,
+      "epk_id": "22377",
+      "label": "$$$message_0177_0002_0002$$$"
+    },
+    {
+      "en": "In other words, the pain in my body allows me to start thinking like a human.",
+      "jp": "　つまり。この体は痛みがあってようやく、人としての思考を持つに至れるのだ。",
+      "Pt-br": "Outra forma de dizer, a dor no meu corpo me permite começar a pensar como um humano.",
+      "id": 78,
+      "epk_id": "22378",
+      "label": "$$$message_0177_0002_0003$$$"
+    },
+    {
+      "en": "\"[font color=0x000000][block len=9][resetfont]\"[lr]",
+      "jp": "「[font color=0x000000][block len=9][resetfont]」[lr]",
+      "Pt-br": "\"\"[font color=0x000000][block len=9][resetfont][lr]",
+      "id": 79,
+      "epk_id": "22379",
+      "label": "$$$message_0177_0003_0000$$$"
+    },
+    {
+      "en": "There are hundreds of me now, swarming on top of a pallet.[lr]",
+      "jp": "　もう何百人と増殖した自分が、パレットの上でかき回されている感じ。[lr]",
+      "Pt-br": "Há centenas de mim agora, invadindo um pallet.[lr]",
+      "id": 80,
+      "epk_id": "22380",
+      "label": "$$$message_0177_0003_0001$$$"
+    },
+    {
+      "en": "I no longer have a clear sense of self. Countless indistinguishable mes are melting together.[lr]",
+      "jp": "　もはや明確な自己などなく、数えきれず区別できなくなった自分たちがドロドロと溶け合っている。[lr]",
+      "Pt-br": "Não tenho mais um senso claro de si mesmo. Incontáveis versões indistinguíveis de mim estão se fundindo.[lr]",
+      "id": 81,
+      "epk_id": "22381",
+      "label": "$$$message_0177_0003_0002$$$"
+    },
+    {
+      "en": "There's a commensurate cost to being resurrected from nothing.",
+      "jp": "　ゼロからの蘇生とは、それほどの代価を必要とする。",
+      "Pt-br": "Há um custo correspondente a ser ressuscitado do nada.",
+      "id": 82,
+      "epk_id": "22382",
+      "label": "$$$message_0177_0003_0003$$$"
+    },
+    {
+      "en": "That disorder...[lr]",
+      "jp": "　その混濁。[lr]",
+      "Pt-br": "Essa desordem...[lr]",
+      "id": 83,
+      "epk_id": "22383",
+      "label": "$$$message_0177_0004_0000$$$"
+    },
+    {
+      "en": "That feeling of nothingness fuses with the torment.[lr]",
+      "jp": "　もはや何物でもなくなった感覚に、苦痛すら混ざり合い同一化していく。[lr]",
+      "Pt-br": "Essa sensação de nada se funde com o tormento.[lr]",
+      "id": 84,
+      "epk_id": "22384",
+      "label": "$$$message_0177_0004_0001$$$"
+    },
+    {
+      "en": "I no longer have a self.[lr]",
+      "jp": "　もはや我などない。[lr]",
+      "Pt-br": "Eu não tenho mais um eu.[lr]",
+      "id": 85,
+      "epk_id": "22385",
+      "label": "$$$message_0177_0004_0002$$$"
+    },
+    {
+      "en": "Why am I alive again? Why is this happening to me? The answers to those questions are like a distant event.",
+      "jp": "　なぜ甦るのか、なぜこのような目にあっているかさえ、遠い彼岸の出来事だ。",
+      "Pt-br": "Por que estou vivo de novo? Por que isso está acontecendo comigo? As respostas para essas perguntas são como um evento distante.",
+      "id": 86,
+      "epk_id": "22386",
+      "label": "$$$message_0177_0004_0003$$$"
+    },
+    {
+      "en": "I lack a sense of self-awareness.[lr]",
+      "jp": "　無我の境地。[lr]",
+      "Pt-br": "Eu não tenho senso de autoconsciência.[lr]",
+      "id": 87,
+      "epk_id": "22387",
+      "label": "$$$message_0177_0005_0000$$$"
+    },
+    {
+      "en": "Neither happiness nor sadness exist in this innocent, eternally fruitless paradise.",
+      "jp": "　ここは喜びも悲しみもない、永遠に実らない無垢の楽土。",
+      "Pt-br": "Nem a felicidade nem a tristeza existem nesse paraíso inocente, eternamente frutífero e sem fruto.",
+      "id": 88,
+      "epk_id": "22388",
+      "label": "$$$message_0177_0005_0001$$$"
+    },
+    {
+      "en": "                                    But, [wait canskip=0 time=1000]there's just one thing [wait canskip=0 time=500]that hurts.",
+      "jp": "　　 [line len=3]でも。[wait canskip=0 time=1000]まだ一つだけ、[wait canskip=0 time=500]それが苦しい。",
+      "Pt-br": "                                    Mas, [wait canskip=0 time=1000]tem uma coisa só [wait canskip=0 time=500]que dói.",
+      "id": 89,
+      "epk_id": "22389",
+      "label": "$$$message_0177_0006_0000$$$"
+    },
+    {
+      "en": "...I scratch my cheek.[lr]",
+      "jp": "　……ほほをつたう。[lr]",
+      "Pt-br": "...Rabo de pele.[lr]",
+      "id": 90,
+      "epk_id": "22390",
+      "label": "$$$message_0177_0007_0000$$$"
+    },
+    {
+      "en": "In this complete, deep pit...[lr]",
+      "jp": "　この完成された地の底において。[lr]",
+      "Pt-br": "Neste completo, profundo buraco...[lr]",
+      "id": 91,
+      "epk_id": "22391",
+      "label": "$$$message_0177_0007_0001$$$"
+    },
+    {
+      "en": "Why am I still connected to something so beautiful...?",
+      "jp": "　どうしてワタシは、まだ、あんなキレイなものと繋がっているのだろう[line len=3]",
+      "Pt-br": "Por que ainda estou conectado a algo tão belo...?",
+      "id": 92,
+      "epk_id": "22392",
+      "label": "$$$message_0177_0007_0002$$$"
+    },
+    {
+      "en": "The first day begins anew.[lr]",
+      "jp": "　また一日目が始まった。[lr]",
+      "Pt-br": "O primeiro dia começa de novo.[lr]",
+      "id": 93,
+      "epk_id": "22393",
+      "label": "$$$message_0177_0008_0000$$$"
+    },
+    {
+      "en": "The woman leaves, and my beautiful Master Bazett is asleep on the sofa.[lr]",
+      "jp": "　女は去り、我が麗しのマスター・バゼット嬢はソファーで眠りこけている。[lr]",
+      "Pt-br": "A mulher sai, e minha linda Mestra Bazett está dormindo no sofá.[lr]",
+      "id": 94,
+      "epk_id": "22394",
+      "label": "$$$message_0177_0008_0001$$$"
+    },
+    {
+      "en": "She looks dead.[lr]",
+      "jp": "　ように見えて死んでいる。[lr]",
+      "Pt-br": "Ela parece morta.[lr]",
+      "id": 95,
+      "epk_id": "22395",
+      "label": "$$$message_0177_0008_0002$$$"
+    },
+    {
+      "en": "The cause is clear: [fadein time=100 storage=a03][fadein time=800 storage=iバゼットの隠れ家_内部-(深夜)]the Servant Saber ran her through the heart in front of the church.[lr]",
+      "jp": "　理由は明白。[fadein time=100 storage=a03][fadein time=800 storage=iバゼットの隠れ家_内部-(深夜)]教会を目前にして、セイバーのサーヴァントに心臓を貫かれたからである。[lr]",
+      "Pt-br": "A causa é clara: [fadein time=100 storage=a03][fadein time=800 storage=iバゼットの隠れ家_内部-(深夜)]a Servo Saber a transpassou pelo coração diante da igreja.[lr]",
+      "id": 96,
+      "epk_id": "22396",
+      "label": "$$$message_0177_0008_0003$$$"
+    },
+    {
+      "en": "She'll start breathing again soon enough, so there's no need to wake or bury her.[lr]",
+      "jp": "　いずれ息を吹き返すので、無理に起こしたり埋めたりする必要はない。[lr]",
+      "Pt-br": "Ela vai começar a respirar novamente em breve, então não há necessidade de acordá-la ou enterrá-la.[lr]",
+      "id": 97,
+      "epk_id": "22397",
+      "label": "$$$message_0177_0008_0004$$$"
+    },
+    {
+      "en": "I just need to protect this place, as her Servant.",
+      "jp": "　オレはただ、彼女のサーヴァントとしてここを守っていればいい。",
+      "Pt-br": "Só preciso proteger este lugar, como Servo dela.",
+      "id": 98,
+      "epk_id": "22398",
+      "label": "$$$message_0177_0008_0005$$$"
+    },
+    {
+      "en": "\"But man, I'm bored. Maybe I should play a prank on her.\"[lr]",
+      "jp": "「でもなー。タイクツだなー。イタズラしちゃおうかなー」[lr]",
+      "Pt-br": "\"Mas cara, estou com tédio. Talvez eu deva brincar um pouco com ela.\"[lr]",
+      "id": 99,
+      "epk_id": "22399",
+      "label": "$$$message_0177_0009_0000$$$"
+    },
+    {
+      "en": "I'm pretty frank with myself where others ignore the intrusive thoughts.[lr]",
+      "jp": "　自分の欲望には正直に、他人の欲望には徹底抗戦。[lr]",
+      "Pt-br": "Sou bem franco comigo mesmo onde os outros ignoram os pensamentos intrusivos.[lr]",
+      "id": 100,
+      "epk_id": "22400",
+      "label": "$$$message_0177_0009_0001$$$"
+    },
+    {
+      "en": "As a Servant, I put top billing on my own desires. I can't ignore her.[lr]",
+      "jp": "　オレは自己快楽を最優先とするサーヴァントなので、バゼットを見逃さない。[lr]",
+      "Pt-br": "Como Serva, coloco em primeiro plano meus próprios desejos. Não posso ignorar ela.[lr]",
+      "id": 101,
+      "epk_id": "22401",
+      "label": "$$$message_0177_0009_0002$$$"
+    },
+    {
+      "en": "Normally, I'd assault and devour her without thinking, leaving the room a mess.",
+      "jp": "　本来のオレなら何も考えずに襲い、食らいつき、気が付けば部屋を散らかしている。",
+      "Pt-br": "Normalmente, atacaria e devoraria ela sem pensar, deixando o quarto um caos.",
+      "id": 102,
+      "epk_id": "22402",
+      "label": "$$$message_0177_0009_0003$$$"
+    },
+    {
+      "en": "Of course, I wouldn't do that to my Master.[lr]",
+      "jp": "　無論、[ruby text=バゼット char=2]彼女がマスターでなかったらの話。[lr]",
+      "Pt-br": "Claro que não faria isso com a minha Mestra.[lr]",
+      "id": 103,
+      "epk_id": "22403",
+      "label": "$$$message_0177_0010_0000$$$"
+    },
+    {
+      "en": "It would be a real hassle if she woke up in the middle of it.[lr]",
+      "jp": "　やってる最中に目覚められたら後々面倒だ。[lr]",
+      "Pt-br": "Seria um verdadeiro incômodo se ela acordasse no meio disso.[lr]",
+      "id": 104,
+      "epk_id": "22404",
+      "label": "$$$message_0177_0010_0001$$$"
+    },
+    {
+      "en": "I'm used to being hated and killed, but crying faces are a turn-off.",
+      "jp": "　憎まれるのも殺されるのも慣れっこだが、泣かれるのは愛ではない。",
+      "Pt-br": "Estou acostumado a ser odiado e morto, mas rostos chorando são um desencanto.",
+      "id": 105,
+      "epk_id": "22405",
+      "label": "$$$message_0177_0010_0002$$$"
+    },
+    {
+      "en": "Too bad. Gotta find a simpler way to kill the time.[lr]",
+      "jp": "　仕方なく、簡単な暇潰しを始めてみる。[lr]",
+      "Pt-br": "Pena. Vou ter que achar um jeito mais simples de matar o tempo.[lr]",
+      "id": 106,
+      "epk_id": "22406",
+      "label": "$$$message_0177_0011_0000$$$"
+    },
+    {
+      "en": "Click. Click. Click. Click.[lr]",
+      "jp": "　カッチ、カッチ、カッチ、カッチ。[lr]",
+      "Pt-br": "Clipe. Clipe. Clipe. Clipe.[lr]",
+      "id": 107,
+      "epk_id": "22407",
+      "label": "$$$message_0177_0011_0001$$$"
+    },
+    {
+      "en": "C-click. C-click. C-click.[sestop storage=se600.wav time=400 nowait=1][lr]",
+      "jp": "　カッチッチ、カッチッチ、カッチッチ。[sestop storage=se600.wav time=400 nowait=1][lr]",
+      "Pt-br": "C-clic. C-clic. C-clic.[sestop storage=se600.wav time=400 nowait=1][lr]",
+      "id": 108,
+      "epk_id": "22408",
+      "label": "$$$message_0177_0011_0002$$$"
+    },
+    {
+      "en": "I slide the panel in time with the second hand on the clock.[lr]",
+      "jp": "　秒針に合わせてパネルをスライドさせる。[lr]",
+      "Pt-br": "Deslizo o painel em sincronia com o segundo ponteiro do relógio.[lr]",
+      "id": 109,
+      "epk_id": "22409",
+      "label": "$$$message_0177_0011_0003$$$"
+    },
+    {
+      "en": "Immersed in the game, I increase the tempo.",
+      "jp": "　拍子を一つ増やすタイミングで、それなりに真剣にゲームに没頭する。",
+      "Pt-br": "Imerso no jogo, aumento o tempo.",
+      "id": 110,
+      "epk_id": "22410",
+      "label": "$$$message_0177_0011_0004$$$"
+    },
+    {
+      "en": "\"...ah...\"[lr]",
+      "jp": "「[line len=3]、ぁ[line len=3]」[lr]",
+      "Pt-br": "\"...ah...\"[lr]",
+      "id": 111,
+      "epk_id": "22411",
+      "label": "$$$message_0177_0012_0000$$$"
+    },
+    {
+      "en": "I hear her coquettish breathing from the sofa.",
+      "jp": "　ソファーから艶めかしい呼吸が聞こえた。",
+      "Pt-br": "Escuto o respirar coquete da ela vindo da sofá.",
+      "id": 112,
+      "epk_id": "22412",
+      "label": "$$$message_0177_0012_0001$$$"
+    },
+    {
+      "en": "Bazett lightly shakes her head and then glares at me like an enemy.",
+      "jp": "　バゼットは軽く頭を振りながら、敵を見据えるようにオレと対峙する。",
+      "Pt-br": "Bazett balança levemente a cabeça e depois me encara como se eu fosse inimiga.",
+      "id": 113,
+      "epk_id": "22413",
+      "label": "$$$message_0177_0013_0000$$$"
+    },
+    {
+      "en": "\"Hey. You're awake, Master.[lr]",
+      "jp": "「よ。目が覚めたかマスター。[lr]",
+      "Pt-br": "\"Ei. Você acordou, Mestre.[lr]",
+      "id": 114,
+      "epk_id": "22414",
+      "label": "$$$message_0177_0014_0000$$$"
+    },
+    {
+      "en": "I hope you're not going to tell me again that your memories are foggy.\"",
+      "jp": "　まさか今度も記憶が曖昧だ、なんて言い出すんじゃないだろうな」",
+      "Pt-br": "Espero que não vá me dizer de novo que suas memórias estão nebulosas.\"",
+      "id": 115,
+      "epk_id": "22415",
+      "label": "$$$message_0177_0014_0001$$$"
+    },
+    {
+      "en": "\"...My memory is fine. I know that you're my Servant, I'm a Master, and that this mansion is our hideout.[lr]",
+      "jp": "「……記憶は確かです。貴方が私のサーヴァントである事も、私がこの洋館を隠れ家にしているマスターである事も知っている。[lr]",
+      "Pt-br": "\"...Minha memória está intacta. Eu sei que você é meu Servo, que eu sou uma Mestre e que esta mansão é o nosso esconderijo.[lr]",
+      "id": 116,
+      "epk_id": "22416",
+      "label": "$$$message_0177_0015_0000$$$"
+    },
+    {
+      "en": "I also remember that my memory was unclear when I woke up here before.\"[lr]",
+      "jp": "　以前ここで目を覚ました時、私の記憶が不確かだった事も覚えています」[lr]",
+      "Pt-br": "Eu também me lembro de que minha memória estava confusa quando acordei aqui antes.\"[lr]",
+      "id": 117,
+      "epk_id": "22417",
+      "label": "$$$message_0177_0015_0001$$$"
+    },
+    {
+      "en": "\"Good. That will save us some time. [l][say storage=snplg02_anr_0021 name=アンリ]Then, let's get out of here and continue the Holy Grail War.\"",
+      "jp": "「結構、話が早くていい。[l][say storage=snplg02_anr_0021 name=アンリ]んじゃあまあ、さっそく外に出て聖杯戦争の続きといこう」",
+      "Pt-br": "\"Ótimo. Isso vai nos poupar algum tempo. [l][say storage=snplg02_anr_0021 name=アンリ]Então vamos sair daqui e retomar a Guerra do Santo Graal.\"",
+      "id": 118,
+      "epk_id": "22418",
+      "label": "$$$message_0177_0015_0002$$$"
+    },
+    {
+      "en": "\"...Wait.[lr]",
+      "jp": "「……待ちなさい。[lr]",
+      "Pt-br": "\"...Espere.[lr]",
+      "id": 119,
+      "epk_id": "22419",
+      "label": "$$$message_0177_0016_0000$$$"
+    },
+    {
+      "en": "My memories before this place are vague, but I recall what's happened since. We were defeated, killed, by an enemy Master.\"",
+      "jp": "　この洋館以前の事は曖昧ですが、その後の事は全て覚えている。私と貴方が敵マスターに敗れ、殺された事もだ」",
+      "Pt-br": "Minhas lembranças anteriores a este lugar são vagas, mas me recordo do que aconteceu depois. Fomos derrotados... mortos... por uma Mestre inimiga.\"",
+      "id": 120,
+      "epk_id": "22420",
+      "label": "$$$message_0177_0016_0001$$$"
+    },
+    {
+      "en": "\"...Well, well. You don't remember the important parts, but you do remember something crazy.[lr]",
+      "jp": "「[line len=3]それはそれは。肝心な事は覚えてないクセに、どうでもいい事は覚えてるんだな。[lr]",
+      "Pt-br": "\"...Bem, bem. Você não lembra das partes importantes, mas lembra de algo louco.[lr]",
+      "id": 121,
+      "epk_id": "22421",
+      "label": "$$$message_0177_0017_0000$$$"
+    },
+    {
+      "en": "So what? It's good enough that you're alive [font italic=true]now[font italic=false]. Don't sweat the details.\"",
+      "jp": "　で、それがどうした？　いま生きてるんだからいいじゃねえか。細かいコトは気にすんなよ」",
+      "Pt-br": "Então? Está bom o suficiente que você esteja vivo [font italic=true]agora[font italic=false]. Não se preocupe com os detalhes.\"",
+      "id": 122,
+      "epk_id": "22422",
+      "label": "$$$message_0177_0017_0001$$$"
+    },
+    {
+      "en": "\"It's not good at all. It's illogical. How can I ignore it?[lr]",
+      "jp": "「よくはない。こんな不条理、放っておいたままでいられるものですか。[lr]",
+      "Pt-br": "\"Não é nada bom. É irracional. Como posso ignorar isso?[lr]",
+      "id": 123,
+      "epk_id": "22423",
+      "label": "$$$message_0177_0018_0000$$$"
+    },
+    {
+      "en": "...Answer me, Servant. We were defeated, so why are we still alive?\"[lr]",
+      "jp": "　……答えなさいサーヴァント。私たちは[ruby text=たお]斃された。それがなぜ、こうして生きているのです」[lr]",
+      "Pt-br": "...Responda, Servo. Fomos derrotados, então por que ainda estamos vivos?\"[lr]",
+      "id": 124,
+      "epk_id": "22424",
+      "label": "$$$message_0177_0018_0001$$$"
+    },
+    {
+      "en": "\"Well, we came back to life, obviously. To be precise, we're back at the first night.\"",
+      "jp": "「どうしてって、生き返ったからだろ。ま、厳密に言うと一日目の夜に戻ってるってコトだけどな」",
+      "Pt-br": "\"Bem, voltamos à vida, evidentemente. Para ser preciso, estamos de volta à primeira noite.\"",
+      "id": 125,
+      "epk_id": "22425",
+      "label": "$$$message_0177_0018_0002$$$"
+    },
+    {
+      "en": "Bazett doesn't look surprised.[lr]",
+      "jp": "　バゼットに驚いた様子はない。[lr]",
+      "Pt-br": "Bazett não parece surpresa.[lr]",
+      "id": 126,
+      "epk_id": "22426",
+      "label": "$$$message_0177_0019_0000$$$"
+    },
+    {
+      "en": "She must have been thinking furiously since she woke up.[lr]",
+      "jp": "　目が覚めた時点で彼女なりに考えを巡らしていたようだ。[lr]",
+      "Pt-br": "Ela devia estar pensando furiosamente desde que acordou.[lr]",
+      "id": 127,
+      "epk_id": "22427",
+      "label": "$$$message_0177_0019_0001$$$"
+    },
+    {
+      "en": "Her mental adaptability is anything but ordinary.[lr]",
+      "jp": "　その順応力は非凡と言わざるを得ない。[lr]",
+      "Pt-br": "Sua capacidade de adaptação mental é longe de ser ordinária.[lr]",
+      "id": 128,
+      "epk_id": "22428",
+      "label": "$$$message_0177_0019_0002$$$"
+    },
+    {
+      "en": "The problem is that she's either unaware or ashamed of that talent.[lr]",
+      "jp": "　問題は、その才覚を本人が気づいていないというか、卑下しているというか。[lr]",
+      "Pt-br": "O problema é que ela ou não sabe disso ou é tímida em relação a esse talento.[lr]",
+      "id": 129,
+      "epk_id": "22429",
+      "label": "$$$message_0177_0019_0003$$$"
+    },
+    {
+      "en": "It isn't my place to say anything about it, though.",
+      "jp": "　ま、そのあたりはオレがとやかく言うコトじゃないが。",
+      "Pt-br": "Não é minha vez de dizer algo a respeito.",
+      "id": 130,
+      "epk_id": "22430",
+      "label": "$$$message_0177_0019_0004$$$"
+    },
+    {
+      "en": "\"...Hmph. If that's true, then I have an impressive Servant.[lr]",
+      "jp": "「……ふん。それが事実なら私のサーヴァントは大したものだ。[lr]",
+      "Pt-br": "\"...Hmph. Se isso for verdade, então tenho um Servo impressionante.[lr]",
+      "id": 131,
+      "epk_id": "22431",
+      "label": "$$$message_0177_0020_0000$$$"
+    },
+    {
+      "en": "Raising the dead is a feat of True Magic, like time travel, operation of parallel worlds, or denial of nothingness.[lr]",
+      "jp": "　死者の蘇生には時間旅行、並行世界の運営、無の否定、いずれかの魔法が絡む。[lr]",
+      "Pt-br": "Ressuscitar os mortos é um feito da Magia Verdadeira, como viajar no tempo, operar mundos paralelos ou negar o nada.[lr]",
+      "id": 132,
+      "epk_id": "22432",
+      "label": "$$$message_0177_0020_0001$$$"
+    },
+    {
+      "en": "Do you claim to be a Heroic Spirit with such miraculous power?\"[lr]",
+      "jp": "　貴方は、その奇跡を可能とする英霊だと言うのですか」[lr]",
+      "Pt-br": "Você alega ser um Espírito Heroico com um poder tão milagroso assim?\"[lr]",
+      "id": 133,
+      "epk_id": "22433",
+      "label": "$$$message_0177_0020_0002$$$"
+    },
+    {
+      "en": "Why is she looking at me like that?[lr]",
+      "jp": "　なにあの顔。[lr]",
+      "Pt-br": "Por que ela está me olhando desse jeito?[lr]",
+      "id": 134,
+      "epk_id": "22434",
+      "label": "$$$message_0177_0020_0003$$$"
+    },
+    {
+      "en": "It's clearly a look of doubt. Mockery, even.[lr]",
+      "jp": "　まるで信じてねえ、つーかバカにしてるよな間違いなく。[lr]",
+      "Pt-br": "É claramente uma expressão de dúvida. Até de zombaria.[lr]",
+      "id": 135,
+      "epk_id": "22435",
+      "label": "$$$message_0177_0020_0004$$$"
+    },
+    {
+      "en": "Do I look like a guy who would make outrageous claims like that?",
+      "jp": "　はいはい、そうですよ、そんな大それた真似はオレなんかにゃできませんよ。",
+      "Pt-br": "Pareço com um cara que faria afirmações tão exageradas assim?",
+      "id": 136,
+      "epk_id": "22436",
+      "label": "$$$message_0177_0020_0005$$$"
+    },
+    {
+      "en": "\"You can just think of what I do as something emulating it.[lr]",
+      "jp": "「まあ、その真似事をしてると思ってくれればいい。[lr]",
+      "Pt-br": "\"Pense no que eu faço como uma imitação disso.[lr]",
+      "id": 137,
+      "epk_id": "22437",
+      "label": "$$$message_0177_0021_0000$$$"
+    },
+    {
+      "en": "You'll come back to life even if you die. You can redo things as long as we have a pact. No matter who beats you, you can start over from here.\"",
+      "jp": "　アンタは死んでも生き返れる。オレと契約している限り何度だってやり直せる。誰に敗れようが、こうして、ここから仕切り直しが出来るってワケだ」",
+      "Pt-br": "Você voltará à vida mesmo que morra. Pode reencontrar o que foi perdido enquanto tivermos um pacto. Não importa quem te derrotar, você pode recomeçar a partir daqui.\"",
+      "id": 138,
+      "epk_id": "22438",
+      "label": "$$$message_0177_0021_0001$$$"
+    },
+    {
+      "en": "\"...I don't understand the theory behind it, but you're saying that we can reset...no, that we're in a loop.[lr]",
+      "jp": "「……原理は判りませんが、リセット……いえ、ループしているという事ね。[lr]",
+      "Pt-br": "\"...Não entendo a teoria por trás disso, mas você está dizendo que podemos reiniciar... não, que estamos em um loop.[lr]",
+      "id": 139,
+      "epk_id": "22439",
+      "label": "$$$message_0177_0022_0000$$$"
+    },
+    {
+      "en": "I don't know what Noble Phantasm that is, but you have the ability to revive at night... No, you skip time back to this moment in which we are still alive in this place.[lr]",
+      "jp": "　どんな宝具かは見当がつかないけど、とにかく、貴方は夜になれば蘇生[line len=3]いえ、死んだ場合、生きていた頃のこの場所にスキップしてしまう。[lr]",
+      "Pt-br": "Não sei que Fantasma Nobre é esse, mas você tem a capacidade de reviver à noite... Não, você retrocede o tempo até este momento, quando ainda estamos vivos neste lugar.[lr]",
+      "id": 140,
+      "epk_id": "22440",
+      "label": "$$$message_0177_0022_0001$$$"
+    },
+    {
+      "en": "So we revive back in time.\"",
+      "jp": "　結果、私たちはまだ生きているから死から蘇生する」",
+      "Pt-br": "Assim, revivemos no tempo.\"",
+      "id": 141,
+      "epk_id": "22441",
+      "label": "$$$message_0177_0022_0002$$$"
+    },
+    {
+      "en": "\"It must a Noble Phantasm with the power to interfere or modify destiny. Certainly worthy of a Heroic Spirit.[lr]",
+      "jp": "「運命に介入・[ruby text=かいざん char=2]改竄するタイプの宝具ですか[line len=3]確かに、英霊を名乗るに相応しい力だわ。[lr]",
+      "Pt-br": "\"Deve ser um Fantasma Nobre com o poder de interferir no destino ou alterá-lo. Certamente digno de um Espírito Heroico.[lr]",
+      "id": 142,
+      "epk_id": "22442",
+      "label": "$$$message_0177_0023_0000$$$"
+    },
+    {
+      "en": "I can believe that no matter how weak you seem.\"[lr]",
+      "jp": "　これなら、本人がどんなに弱くても納得がいく」[lr]",
+      "Pt-br": "Eu posso acreditar nisso, não importa como pareça fraco.\"[lr]",
+      "id": 143,
+      "epk_id": "22443",
+      "label": "$$$message_0177_0023_0001$$$"
+    },
+    {
+      "en": "Which means she didn't believe me before.[lr]",
+      "jp": "　納得いってなかったんだね。[lr]",
+      "Pt-br": "O que quer dizer que ela não me acreditava antes.[lr]",
+      "id": 144,
+      "epk_id": "22444",
+      "label": "$$$message_0177_0023_0002$$$"
+    },
+    {
+      "en": "I guess anyone would be fed up with me, after getting slaughtered without anything to show for it.",
+      "jp": "　まあ、あんだけいいトコなしでやられちゃあ愛想尽かされるのも当然だが。",
+      "Pt-br": "Acho que qualquer um estaria cansado de mim, depois de ter sido esmagado sem nada a mostrar.",
+      "id": 145,
+      "epk_id": "22445",
+      "label": "$$$message_0177_0023_0003$$$"
+    },
+    {
+      "en": "\"That's right. So relax.[lr]",
+      "jp": "「そういうワケだ。だから安心してやられてくれ。[lr]",
+      "Pt-br": "\"Isso mesmo. Então, relaxe.[lr]",
+      "id": 146,
+      "epk_id": "22446",
+      "label": "$$$message_0177_0024_0000$$$"
+    },
+    {
+      "en": "Yeah, night is a good time for getting killed. I can't fight when it isn't nighttime. I just don't feel like it during the day.\"",
+      "jp": "　ああ、けど殺されるのはなるたけ夜がいい。オレは夜でないと戦えないんだ。昼間はあんまり調子がでないタチでさ」",
+      "Pt-br": "É, a noite é um bom momento para ser morto. Não consigo lutar quando não é noite. Só não me sinto com vontade de fazê-lo durante o dia.\"",
+      "id": 147,
+      "epk_id": "22447",
+      "label": "$$$message_0177_0024_0001$$$"
+    },
+    {
+      "en": "\"...So you're saying that your time loop can only activate at night.[lr]",
+      "jp": "「……。[ruby text=ループ char=2]蘇生の条件は夜中でなければならない、という事ですね。[lr]",
+      "Pt-br": "\"...Então você está dizendo que seu loop de tempo só pode ativar à noite.[lr]",
+      "id": 148,
+      "epk_id": "22448",
+      "label": "$$$message_0177_0025_0000$$$"
+    },
+    {
+      "en": "Your Noble Phantasm does sound too powerful to not have such a weakness.\"[lr]",
+      "jp": "　たしかに、それぐらいの弱点がなければ強力すぎる宝具だわ」[lr]",
+      "Pt-br": "Seu Fantasma Nobre parece poderoso demais para não ter uma fraqueza dessas.\"[lr]",
+      "id": 149,
+      "epk_id": "22449",
+      "label": "$$$message_0177_0025_0001$$$"
+    },
+    {
+      "en": "Actually, she's wrong about a lot of that.[lr]",
+      "jp": "　や、ところどころ違うけど。[lr]",
+      "Pt-br": "Na verdade, ela está errada em muita coisa disso.[lr]",
+      "id": 150,
+      "epk_id": "22450",
+      "label": "$$$message_0177_0025_0002$$$"
+    },
+    {
+      "en": "...Whatever. It still works out the same.",
+      "jp": "　……まあいいか、最終的な結論は一緒だし。",
+      "Pt-br": "...Qualquer coisa. Ainda assim dá no mesmo.",
+      "id": 151,
+      "epk_id": "22451",
+      "label": "$$$message_0177_0025_0003$$$"
+    },
+    {
+      "en": "\"...Very well. We will only act at night.[lr]",
+      "jp": "「……いいでしょう、行動を起こすのは夜中だけとします。[lr]",
+      "Pt-br": "\"...Muito bem. Agiremos somente à noite.[lr]",
+      "id": 152,
+      "epk_id": "22452",
+      "label": "$$$message_0177_0026_0000$$$"
+    },
+    {
+      "en": "I'll sleep here during the day, so control yourself during that time.\"[lr]",
+      "jp": "　日中はここで眠りますから、貴方も勝手な行動は控えるように」[lr]",
+      "Pt-br": "Eu vou dormir aqui durante o dia, então controle-se nesse período.\"[lr]",
+      "id": 153,
+      "epk_id": "22453",
+      "label": "$$$message_0177_0026_0001$$$"
+    },
+    {
+      "en": "\"You got it. You'd better stay inside during the day, too. I'm really weak during daytime. I'll get killed unless my Master protects me.\"",
+      "jp": "「あいよー。けどアンタこそさ、昼間は決して外に出てくれるな。オレ、日中はホントに弱いんだ。マスターが守ってくれなきゃ簡単に殺されちまうからな」",
+      "Pt-br": "\"Entendeu. É melhor você também ficar aqui dentro durante o dia. Eu fico muito fraco à luz do dia. Vão me matar se minha Mestre não me proteger.\"",
+      "id": 154,
+      "epk_id": "22454",
+      "label": "$$$message_0177_0026_0002$$$"
+    },
+    {
+      "en": "\"...I understand. I feel that our positions should be reversed, but I've begun to grasp your abilities.[lr]",
+      "jp": "「……分かりました。何か、著しく立場が逆な気がしますが、貴方の特性は把握しましたから。[lr]",
+      "Pt-br": "\"...Entendi. Sinto que nossas posições devem ser invertidas, mas comecei a compreender suas habilidades.[lr]",
+      "id": 155,
+      "epk_id": "22455",
+      "label": "$$$message_0177_0027_0000$$$"
+    },
+    {
+      "en": "You're of negligible use in combat, but I haven't seen an ability like yours before. I will handle fighting the Holy Grail War, so you just need to back me up with your unique Noble Phantasm.\"",
+      "jp": "　戦闘能力こそ皆無ですが、特殊能力は他に類を見ないものです。戦闘は私が行いますから、貴方はその特異な宝具で聖杯戦争をフォローしてくれればいい」",
+      "Pt-br": "Você não vale grande coisa em combate, mas nunca vi uma habilidade como a sua. Eu cuido da luta na Guerra do Santo Graal, então tudo o que você precisa fazer é me dar cobertura com o seu Fantasma Nobre incomum.\"",
+      "id": 156,
+      "epk_id": "22456",
+      "label": "$$$message_0177_0027_0001$$$"
+    },
+    {
+      "en": "\"Hmm. That's a lifesaver, but aren't you being a little extreme, Master?[lr]",
+      "jp": "「むむ。そりゃ助かるけど、極端すぎないかマスター？[lr]",
+      "Pt-br": "\"Hmm. Isso ajuda muito, mas você não está sendo um pouco extremo, Mestre?[lr]",
+      "id": 157,
+      "epk_id": "22457",
+      "label": "$$$message_0177_0028_0000$$$"
+    },
+    {
+      "en": "I can fight a little. I can't promise to defeat a Servant, but I can at least buy some ti[line len=2]\"",
+      "jp": "　オレだって少しは戦える。サーヴァントには勝てないと断言できるが、その気になれば足留めぐらい、」",
+      "Pt-br": "Eu consigo lutar um pouco. Não posso prometer derrotar um Servo, mas ao menos consigo ganhar um pouco de tempo.[line len=2]\"",
+      "id": 158,
+      "epk_id": "22458",
+      "label": "$$$message_0177_0028_0001$$$"
+    },
+    {
+      "en": "\"After it ended that way? I expect nothing from you, at least in combat. You can just stay there and watch.\"[lr]",
+      "jp": "「あの結果でですか？　戦闘面において貴方には何も期待していません。貴方はそこにいるだけでいい」[lr]",
+      "Pt-br": "\"Depois que terminou assim? Não espero nada de você, pelo menos em combate. Você pode ficar ali e assistir.\"[lr]",
+      "id": 159,
+      "epk_id": "22459",
+      "label": "$$$message_0177_0029_0000$$$"
+    },
+    {
+      "en": "\"Haah... That's easier for me, but I don't think we'll be able to win that way. It won't be that easy to separate each Servant from their Master, either.\"",
+      "jp": "「はあ。……楽でいいけど、それじゃいつまでたっても勝てないぜ。マスターからサーヴァントを引き離すのも、何度もうまくいくとは思えないし」",
+      "Pt-br": "\"Haah... Isso facilita para mim, mas não acho que vamos conseguir vencer desse jeito. Também não vai ser tão fácil separar cada Servo de seu Mestre.\"",
+      "id": 160,
+      "epk_id": "22460",
+      "label": "$$$message_0177_0029_0001$$$"
+    },
+    {
+      "en": "In the end, the Holy Grail War is about defeating other Servants.[lr]",
+      "jp": "　結局のところ、聖杯戦争における戦闘はサーヴァントを倒す、という事になる。[lr]",
+      "Pt-br": "No fim das contas, a Guerra do Santo Graal gira em torno de derrotar os outros Servos.[lr]",
+      "id": 161,
+      "epk_id": "22461",
+      "label": "$$$message_0177_0030_0000$$$"
+    },
+    {
+      "en": "Good luck killing a Master while their Servant's still kicking.[lr]",
+      "jp": "　サーヴァント打倒なくして、マスター殺しは成立しない。[lr]",
+      "Pt-br": "Boa sorte tentando matar uma Mestre enquanto o Servo dela ainda estiver de pé.[lr]",
+      "id": 162,
+      "epk_id": "22462",
+      "label": "$$$message_0177_0030_0001$$$"
+    },
+    {
+      "en": "But a Servant isn't something a human can handle.[lr]",
+      "jp": "　だがサーヴァントは人間がどうこう出来る相手じゃない。[lr]",
+      "Pt-br": "Mas um Servo não é algo com que um humano possa lidar.[lr]",
+      "id": 163,
+      "epk_id": "22463",
+      "label": "$$$message_0177_0030_0002$$$"
+    },
+    {
+      "en": "That's why I'm offering to help, even if I'm not really feeling up to it.[lr]",
+      "jp": "　だからこそ、オレだって本気で乗り気じゃないワケだが手を貸すと言っているのだ。[lr]",
+      "Pt-br": "É por isso que estou oferecendo minha ajuda, mesmo sem muita vontade.[lr]",
+      "id": 164,
+      "epk_id": "22464",
+      "label": "$$$message_0177_0030_0003$$$"
+    },
+    {
+      "en": "And yet...",
+      "jp": "　が。",
+      "Pt-br": "E ainda assim...",
+      "id": 165,
+      "epk_id": "22465",
+      "label": "$$$message_0177_0030_0004$$$"
+    },
+    {
+      "en": "\"There's no need to separate them.[lr]",
+      "jp": "「いえ、マスターとサーヴァントを引き離す必要などありません。[lr]",
+      "Pt-br": "\"Não há necessidade de separá-los.[lr]",
+      "id": 166,
+      "epk_id": "22466",
+      "label": "$$$message_0177_0031_0000$$$"
+    },
+    {
+      "en": "I will defeat the Servants.\"[lr]",
+      "jp": "　サーヴァントなら、私が倒します」[lr]",
+      "Pt-br": "Eu vou derrotar os Servos.\"[lr]",
+      "id": 167,
+      "epk_id": "22467",
+      "label": "$$$message_0177_0031_0001$$$"
+    },
+    {
+      "en": "Bazett declares with unshakable confidence.",
+      "jp": "　揺るぎのない自信と根拠で、バゼットは断言した。",
+      "Pt-br": "Bazett declara com confiança inabalável.",
+      "id": 168,
+      "epk_id": "22468",
+      "label": "$$$message_0177_0031_0002$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「[line len=6]」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 169,
+      "epk_id": "22469",
+      "label": "$$$message_0177_0032_0000$$$"
+    },
+    {
+      "en": "...Well, damn.[lr]",
+      "jp": "　……驚いたな。[lr]",
+      "Pt-br": "Pois bem, maldição.[lr]",
+      "id": 170,
+      "epk_id": "22470",
+      "label": "$$$message_0177_0032_0001$$$"
+    },
+    {
+      "en": "I like to think of myself as unflappable most of the time, but that sent a chill up my spine.",
+      "jp": "　たいていの事には免疫がついたつもりだったんだが、背筋が寒くなっちまった。",
+      "Pt-br": "Gosto de me considerar calmo a maior parte do tempo, mas aquilo me deu um arrepio na espinha.",
+      "id": 171,
+      "epk_id": "22471",
+      "label": "$$$message_0177_0032_0002$$$"
+    },
+    {
+      "en": "\"More importantly, I have questions for you.[lr]",
+      "jp": "「それより質問があります。[lr]",
+      "Pt-br": "\"Mais importante ainda, tenho perguntas para você.[lr]",
+      "id": 172,
+      "epk_id": "22472",
+      "label": "$$$message_0177_0033_0000$$$"
+    },
+    {
+      "en": "You said that you can revive us as many times as needed at night, but what is the price?[lr]",
+      "jp": "　殺されたのが夜なら何度でも甦る、と言いましたが、それは何らかの代償が必要なのですか？[lr]",
+      "Pt-br": "Você disse que pode nos reviver tantas vezes quanto precisarmos à noite, mas qual é o preço?[lr]",
+      "id": 173,
+      "epk_id": "22473",
+      "label": "$$$message_0177_0033_0001$$$"
+    },
+    {
+      "en": "For example, does it consume my Magic Circuits? Is there a limit on the number of times you can use your Noble Phantasm?\"",
+      "jp": "　たとえば、私の魔術回路が失われていくとか、貴方の宝具には使用回数が決まっているとか」",
+      "Pt-br": "Por exemplo, isso consome meus Circuitos Mágicos? Existe um limite para o número de vezes que você pode usar seu Fantasma Nobre?\"",
+      "id": 174,
+      "epk_id": "22474",
+      "label": "$$$message_0177_0033_0002$$$"
+    },
+    {
+      "en": "\"Hm? No, it's free. You don't need to give anything up. I'm aligned with the nothingness of the void. I can come back to life, so long as I'm nothing.[lr]",
+      "jp": "「ん？　いや、代償はないよ。アンタから取り立てる物は一切ない。我が属性は虚無。無がある限り何度でも甦る。[lr]",
+      "Pt-br": "\"Hmm? Não, é livre. Você não precisa renunciar a nada. Estou alinhado com a nada do vácuo. Posso voltar à vida, desde que eu seja nada.[lr]",
+      "id": 175,
+      "epk_id": "22475",
+      "label": "$$$message_0177_0034_0000$$$"
+    },
+    {
+      "en": "You can rest easy and just keep trying until you believe me.\"",
+      "jp": "　アンタは安心して、納得いくまで続ければいい」",
+      "Pt-br": "Você pode se acalmar e continuar tentando até acreditar em mim.\"",
+      "id": 176,
+      "epk_id": "22476",
+      "label": "$$$message_0177_0034_0001$$$"
+    },
+    {
+      "en": "\"...I've verified that as long as I'm contracted with you, I cannot lose.\"[lr]",
+      "jp": "「……確認しました。貴方と契約しているかぎり、私は負けないという事ですね」[lr]",
+      "Pt-br": "\"...Verifiquei que, enquanto estou contratado com você, não posso perder.\"[lr]",
+      "id": 177,
+      "epk_id": "22477",
+      "label": "$$$message_0177_0035_0000$$$"
+    },
+    {
+      "en": "Yep. Though you can't win, either.",
+      "jp": "　そうそう。ま、勝てもしないんだがね。",
+      "Pt-br": "Yep. Embora você não consiga vencer, também.",
+      "id": 178,
+      "epk_id": "22478",
+      "label": "$$$message_0177_0035_0001$$$"
+    },
+    {
+      "en": "\"That just leaves one question... [cacheimage storage=バゼット04g(中)][wvl canskip=0 time=400][chgfg time=300 storage=バゼット04g(中)]No, why am I complaining when circumstances are already this favorable?\"[lr]",
+      "jp": "「となると、残る問題は一つだけですが……[cacheimage storage=バゼット04g(中)][wvl canskip=0 time=400][chgfg time=300 storage=バゼット04g(中)]いえ、ここまで好条件だというのにそんな不満を口にするなど、何を考えているのか私は」[lr]",
+      "Pt-br": "\"Isso deixa apenas uma pergunta... [cacheimage storage=バゼット04g(中)][wvl canskip=0 time=400][chgfg time=300 storage=バゼット04g(中)]Não, por que estou reclamando quando as circunstâncias já são tão favoráveis?\"[lr]",
+      "id": 179,
+      "epk_id": "22479",
+      "label": "$$$message_0177_0036_0000$$$"
+    },
+    {
+      "en": "\"Hm? What's the matter now? Did you want to ask something else?\"",
+      "jp": "「？　なんだよいきなり。他に聞きたいコトでもあんのか？」",
+      "Pt-br": "\"Hmm? O que há de errado agora? Queria perguntar algo mais?\"",
+      "id": 180,
+      "epk_id": "22480",
+      "label": "$$$message_0177_0036_0001$$$"
+    },
+    {
+      "en": "\"Ngh... This might be a silly question...[lr]",
+      "jp": "「っ……。その、つまらない事を訊くのですが。[lr]",
+      "Pt-br": "\"Ngh... Isso pode ser uma pergunta idiota...[lr]",
+      "id": 181,
+      "epk_id": "22481",
+      "label": "$$$message_0177_0037_0000$$$"
+    },
+    {
+      "en": "It's amazing that you can resurrect me when I die. One might even say it breaks the rules.\"",
+      "jp": "　死亡した場合、こうして蘇生できるのは素晴らしい。反則と言っていい特典でしょう」",
+      "Pt-br": "É incrível que você possa me ressuscitar quando morrer. Um até poderia dizer que isso quebra as regras.\"",
+      "id": 182,
+      "epk_id": "22482",
+      "label": "$$$message_0177_0037_0001$$$"
+    },
+    {
+      "en": "\"But, um...[lr]",
+      "jp": "「ですが、その。[lr]",
+      "Pt-br": "\"Mas, um...[lr]",
+      "id": 183,
+      "epk_id": "22483",
+      "label": "$$$message_0177_0038_0000$$$"
+    },
+    {
+      "en": "Will it always hurt that much every time? I know I get to escape death, but the thought of that agony makes me think twice...\"[lr]",
+      "jp": "　蘇生する際の、あの痛みは消せないものなのでしょうか？　いくら死から逃れる為とは言え、この先もあの痛みを通過するかと思うと、二の足を踏むというか、」[lr]",
+      "Pt-br": "Vai doer sempre assim toda vez? Eu sei que consigo escapar da morte, mas o pensamento desse sofrimento me faz hesitar...\"[lr]",
+      "id": 184,
+      "epk_id": "22484",
+      "label": "$$$message_0177_0038_0001$$$"
+    },
+    {
+      "en": "\"Huh? What, are you afraid of coming back to life?\"",
+      "jp": "「は？　なにそれ、蘇生するとき怖い思いでもしてんのアンタ？」",
+      "Pt-br": "\"Hmm? O que? Você está com medo de voltar a viver?\"",
+      "id": 185,
+      "epk_id": "22485",
+      "label": "$$$message_0177_0038_0002$$$"
+    },
+    {
+      "en": "\"I'm not a-afraid! I'm just saying that it feels unpleasant![lr]",
+      "jp": "「こ、怖い訳ではありません……！　不快で気味が悪いだけです！[lr]",
+      "Pt-br": "\"Eu não estou com medo! Estou só dizendo que isso me deixa desconfortável![lr]",
+      "id": 186,
+      "epk_id": "22486",
+      "label": "$$$message_0177_0039_0000$$$"
+    },
+    {
+      "en": "...I don't know if 'hell' is the right word for it, but it made me feel filthy.[lr]",
+      "jp": "　……ええ。あれが地獄と呼ばれる地点なのかは分からない。ただ、おぞましく汚らしかった。[lr]",
+      "Pt-br": "...Não sei se \"inferno\" é a palavra certa para descrever isso, mas me deixou com a sensação de estar sujo.[lr]",
+      "id": 187,
+      "epk_id": "22487",
+      "label": "$$$message_0177_0039_0001$$$"
+    },
+    {
+      "en": "The dead aren't supposed to be conscious. A regular dead person wouldn't feel anything about it, but someone conscious would feel utter torment.\"",
+      "jp": "　本来、死者に意識はない。通常の死者なら不快に思わないのでしょうが、意識のある者には、アレは最低のドブクズです」",
+      "Pt-br": "Os mortos não deveriam ser conscientes. Uma pessoa morta comum não sentiria nada sobre isso, mas alguém consciente sentiria um tormento absoluto.\"",
+      "id": 188,
+      "epk_id": "22488",
+      "label": "$$$message_0177_0039_0002$$$"
+    },
+    {
+      "en": "\"Ahh... [wvl canskip=false time=800]You're right.[lr]",
+      "jp": "「ああ[line len=6][wvl canskip=false time=800]そうなんだ。[lr]",
+      "Pt-br": "\"Ahh... [wvl canskip=false time=800]Você tem razão.[lr]",
+      "id": 189,
+      "epk_id": "22489",
+      "label": "$$$message_0177_0040_0000$$$"
+    },
+    {
+      "en": "Well, shit. It doesn't feel like anything special to me. I just woke up feeling this way. It might be because you're human, and I'm a Servant. Though...\"[lr]",
+      "jp": "　まいったな、オレは特別感じないけど。気が付いたらここにいるって感じで。人間とサーヴァントの違いかね。けどまあ、」[lr]",
+      "Pt-br": "Bem, merda. Para mim não parece nada de especial. Acordei me sentindo assim e pronto. Talvez seja porque você é humana e eu sou um Servo. Embora...\"[lr]",
+      "id": 190,
+      "epk_id": "22490",
+      "label": "$$$message_0177_0040_0001$$$"
+    },
+    {
+      "en": "Gotta at least put up with this much.[lr]",
+      "jp": "　それぐらいは我慢してもらわないとなあ。[lr]",
+      "Pt-br": "Tem que aguentar pelo menos isso.[lr]",
+      "id": 191,
+      "epk_id": "22491",
+      "label": "$$$message_0177_0040_0002$$$"
+    },
+    {
+      "en": "After all, she's basically a dead woman walking.",
+      "jp": "　なんたって、本当なら死んじゃってるワケだし。",
+      "Pt-br": "No fim das contas, ela é uma morta caminhando.",
+      "id": 192,
+      "epk_id": "22492",
+      "label": "$$$message_0177_0040_0003$$$"
+    },
+    {
+      "en": "\"Ain't you a little demanding right now?\"",
+      "jp": "「その、なんだ。アンタ、そりゃワガママってもんですよ？」",
+      "Pt-br": "\"Você não está um pouco exigente agora?\"",
+      "id": 193,
+      "epk_id": "22493",
+      "label": "$$$message_0177_0041_0000$$$"
+    },
+    {
+      "en": "\"Ngh... I-I know. It's just how I feel.[lr]",
+      "jp": "「っ……わ、わかっています、言ってみただけですっ。[lr]",
+      "Pt-br": "\"Ngh... Eu sei. É só como me sinto.[lr]",
+      "id": 194,
+      "epk_id": "22494",
+      "label": "$$$message_0177_0042_0000$$$"
+    },
+    {
+      "en": "If this torture is the price for resurrection, then I'll just have to pay it.\"[lr]",
+      "jp": "　蘇生の代償なんですから、あの程度の責め苦、耐え抜いてみせましょう」[lr]",
+      "Pt-br": "Se esse sofrimento é o preço pela ressurreição, então serei obrigado a pagar.\"[lr]",
+      "id": 195,
+      "epk_id": "22495",
+      "label": "$$$message_0177_0042_0001$$$"
+    },
+    {
+      "en": "\"Yeah! It won't be the last time, so get used to it.\"",
+      "jp": "「そうそう。この先何度もお世話になるだろうし、今のうちに受け属性つくっとけよ」",
+      "Pt-br": "\"É! Não será a última vez, então se acostume.\"",
+      "id": 196,
+      "epk_id": "22496",
+      "label": "$$$message_0177_0042_0002$$$"
+    },
+    {
+      "en": "\"Hmph. As if I would die that many times.[r]",
+      "jp": "「ふん、そう何度も殺されてたまるものですか。[r]",
+      "Pt-br": "\"Hmm. Como se eu morresse tantas vezes.[r]",
+      "id": 197,
+      "epk_id": "22497",
+      "label": "$$$message_0177_0043_0000$$$"
+    },
+    {
+      "en": "Saber will be the next to die. I'll impale her through the chest, just like she did to me.\"[lr]",
+      "jp": "次に殺されるのはセイバーのサーヴァントだ。私がされたように、あの胸を貫いてみせます」[lr]",
+      "Pt-br": "Saber será a próxima a morrer. Eu vou espinhar ela no peito, assim como ela fez comigo.\"[lr]",
+      "id": 198,
+      "epk_id": "22498",
+      "label": "$$$message_0177_0043_0001$$$"
+    },
+    {
+      "en": "\"Yep, that's my Master.[lr]",
+      "jp": "「ああ、それでこそオレのマスターだ。[lr]",
+      "Pt-br": "\"É, esse é meu Mestre.[lr]",
+      "id": 199,
+      "epk_id": "22499",
+      "label": "$$$message_0177_0043_0002$$$"
+    },
+    {
+      "en": "Guess we'd better get back to the Holy Grail War while we're still fired up.\"[wvs][clfg textoff=0 pos=all rule=シャッター左から time=400]",
+      "jp": "　んじゃあまあ、そのやる気が燃えてる内に聖杯戦争を続けるとしようか」[wvs][clfg textoff=0 pos=all rule=シャッター左から time=400]",
+      "Pt-br": "Melhor voltarmos para a Guerra do Santo Graal enquanto o sangue ainda está quente.\"[wvs][clfg textoff=0 pos=all rule=シャッター左から time=400]",
+      "id": 200,
+      "epk_id": "22500",
+      "label": "$$$message_0177_0043_0003$$$"
+    },
+    {
+      "en": "I head for the exit.[lr]",
+      "jp": "　話を切って玄関へ向かう。[lr]",
+      "Pt-br": "Vou para a saída.[lr]",
+      "id": 201,
+      "epk_id": "22501",
+      "label": "$$$message_0177_0044_0000$$$"
+    },
+    {
+      "en": "To be honest, I couldn't give a rat's ass about the Holy Grail War, but I don't like the idea of just sitting and taking it, either.",
+      "jp": "　正直、聖杯戦争なんてどうでもいいのだが、オレもやられっぱなしというのは性に合わない。",
+      "Pt-br": "Para ser honesto, estou pouco me lixando para a Guerra do Santo Graal, mas também não gosto da ideia de ficar sentado aceitando tudo isso calado.",
+      "id": 202,
+      "epk_id": "22502",
+      "label": "$$$message_0177_0044_0001$$$"
+    },
+    {
+      "en": "Gotta find an enemy to kill as soon as I can.[lr]",
+      "jp": "　早く、一刻も早く敵を見つけて殺したい。[lr]",
+      "Pt-br": "Preciso encontrar um inimigo para matar assim que puder.[lr]",
+      "id": 203,
+      "epk_id": "22503",
+      "label": "$$$message_0177_0045_0000$$$"
+    },
+    {
+      "en": "I'll kill whoever hurts me.[lr]",
+      "jp": "　オレはオレを傷つけたヤツを殺す。[lr]",
+      "Pt-br": "Eu matarei quem me machucar.[lr]",
+      "id": 204,
+      "epk_id": "22504",
+      "label": "$$$message_0177_0045_0001$$$"
+    },
+    {
+      "en": "I'll kill whoever didn't stop themselves from hurting me.[lr]",
+      "jp": "　オレが傷つけられていたのを止めなかったヤツを殺す。[lr]",
+      "Pt-br": "Mataria quem não se impediu de me machucar.[lr]",
+      "id": 205,
+      "epk_id": "22505",
+      "label": "$$$message_0177_0045_0002$$$"
+    },
+    {
+      "en": "Anyone I see'll die. I'll kill any humans that are alive.[lr]",
+      "jp": "　生き続けている人間を殺す、この視界に入る全ての人間を死に至らしめる。[lr]",
+      "Pt-br": "Qualquer um que eu veja morrerá. Eu matarei qualquer humano que esteja vivo.[lr]",
+      "id": 206,
+      "epk_id": "22506",
+      "label": "$$$message_0177_0045_0003$$$"
+    },
+    {
+      "en": "Otherwise, I can't stay insane.[lr]",
+      "jp": "　そうでもしなければ、とても狂気を保てない。[lr]",
+      "Pt-br": "Senão, não consigo ficar insano.[lr]",
+      "id": 207,
+      "epk_id": "22507",
+      "label": "$$$message_0177_0045_0004$$$"
+    },
+    {
+      "en": "Otherwise, I'll lose my mind.",
+      "jp": "　そうでもしなければ、とても正気に耐えられない。",
+      "Pt-br": "Senão, perco a cabeça.",
+      "id": 208,
+      "epk_id": "22508",
+      "label": "$$$message_0177_0045_0005$$$"
+    },
+    {
+      "en": "\"What's up? Aren't we going, Master?\"[lr]",
+      "jp": "「ドウシタ。いかなイのカ、[stopnoise]マスター」[lr]",
+      "Pt-br": "\"E aí? Não vamos, Mestre?\"[lr]",
+      "id": 209,
+      "epk_id": "22509",
+      "label": "$$$message_0177_0046_0000$$$"
+    },
+    {
+      "en": "I swallow my heart that threatens to leap out of my mouth, and turn back to Bazett, who's just standing there.[lr]",
+      "jp": "　吐き出しそうな心臓を呑み込んで、つっ立ったままのバゼットに振り向く。[lr]",
+      "Pt-br": "Engulo o coração que ameaça sair pela boca e volto para Bazett, que está apenas parada ali.[lr]",
+      "id": 210,
+      "epk_id": "22510",
+      "label": "$$$message_0177_0046_0001$$$"
+    },
+    {
+      "en": "Did she remember my bloodlust?[lr]",
+      "jp": "　[ruby text=オレ]今の殺気で思い出したのか。[lr]",
+      "Pt-br": "Ela lembrou da minha sede de sangue?[lr]",
+      "id": 211,
+      "epk_id": "22511",
+      "label": "$$$message_0177_0046_0002$$$"
+    },
+    {
+      "en": "She's making the same face she did when I attacked those bloody houses.",
+      "jp": "　バゼットは、血まみれの民家でオレを糾弾した時と同じ目をしていた。",
+      "Pt-br": "Ela está fazendo a mesma cara que fez quando ataquei aquelas casas sangrentas.",
+      "id": 212,
+      "epk_id": "22512",
+      "label": "$$$message_0177_0046_0003$$$"
+    },
+    {
+      "en": "\"...I still have much to learn. Why didn't I remember the most important question?\"[lr]",
+      "jp": "「……やはり、私は半人前だ。一番大事な質問を、どうして思い出さなかったのか」[lr]",
+      "Pt-br": "\"...Ainda tenho muito a aprender. Por que não me lembrei da pergunta mais importante?\"[lr]",
+      "id": 213,
+      "epk_id": "22513",
+      "label": "$$$message_0177_0047_0000$$$"
+    },
+    {
+      "en": "It's obvious.[lr]",
+      "jp": "　何故もない。[lr]",
+      "Pt-br": "Isso é óbvio.[lr]",
+      "id": 214,
+      "epk_id": "22514",
+      "label": "$$$message_0177_0047_0001$$$"
+    },
+    {
+      "en": "You didn't remember because you don't want to remember.",
+      "jp": "　思い出さないのは、思い出したくないからだ。",
+      "Pt-br": "Você não se lembrou porque não queria se lembrar.",
+      "id": 215,
+      "epk_id": "22515",
+      "label": "$$$message_0177_0047_0002$$$"
+    },
+    {
+      "en": "\"Answer me. What Servant are you?\"[lr]",
+      "jp": "「答えろ。おまえは、一体何のサーヴァントだ」[lr]",
+      "Pt-br": "\"Diga-me. Qual Servent você é?\"[lr]",
+      "id": 216,
+      "epk_id": "22516",
+      "label": "$$$message_0177_0048_0000$$$"
+    },
+    {
+      "en": "Hostility taints the question.[lr]",
+      "jp": "　敵意の籠もった質問。[lr]",
+      "Pt-br": "Hostilidade tinta a pergunta.[lr]",
+      "id": 217,
+      "epk_id": "22517",
+      "label": "$$$message_0177_0048_0001$$$"
+    },
+    {
+      "en": "Then, I grin like a girl waiting for her lover, and say...[current withback=false][wt canskip=0][stopdash][lr]",
+      "jp": "　それに、オレは[line len=3]ようやく、恋人を待ちこがれた少女のようにニヤリと笑って、[current withback=false][wt canskip=0][stopdash][lr]",
+      "Pt-br": "Então, sorrio como uma garota esperando pelo seu amado e digo...[current withback=false][wt canskip=0][stopdash][lr]",
+      "id": 218,
+      "epk_id": "22518",
+      "label": "$$$message_0177_0048_0002$$$"
+    },
+    {
+      "en": "\"Avenger. The Servant of vengeance.\"[lr]",
+      "jp": "「アヴェンジャー[line len=3]復讐のサーヴァントだよ」[lr]",
+      "Pt-br": "\"Avenger. O Servo da vingança.\"[lr]",
+      "id": 219,
+      "epk_id": "22519",
+      "label": "$$$message_0177_0048_0003$$$"
+    },
+    {
+      "en": "With hatred and joy, I declare a class which doesn't exist.",
+      "jp": "　憎しみと歓喜を以て、存在しない[ruby text=クラス char=2]呼称を告げた。",
+      "Pt-br": "Com ódio e alegria, declaro uma classe que não existe.",
+      "id": 220,
+      "epk_id": "22520",
+      "label": "$$$message_0177_0048_0004$$$"
+    },
+    {
+      "en": "It's a high-speed combo.[lr]",
+      "jp": "　高速のコンビネーション。[lr]",
+      "Pt-br": "É uma combinação de alta velocidade.[lr]",
+      "id": 221,
+      "epk_id": "22521",
+      "label": "$$$message_0177_0049_0000$$$"
+    },
+    {
+      "en": "The right straight mercilessly crushes a monster's skull with inhuman savagery, enough to make one pity the enemy.[lr]",
+      "jp": "　人間技とは思えない、むしろ敵に同情したくなるような右ストレートが、容赦なく怪物の頭蓋を打ち砕く。[lr]",
+      "Pt-br": "O direito desencadeia uma brutalidade inumana, esmagando a cabeça de um monstro com feroceza indomável, o que é suficiente para fazer alguém compadecer do inimigo.[lr]",
+      "id": 222,
+      "epk_id": "22522",
+      "label": "$$$message_0177_0049_0001$$$"
+    },
+    {
+      "en": "Ten of their number have already died to vengeance, but more prey rise to meet her.[lr]",
+      "jp": "　既に十体もの仲間を殺された復讐か、新たな獲物が躍りかかる。[lr]",
+      "Pt-br": "Dez deles já morreram pela vingança, mas mais presas levantam-se para encontrá-la.[lr]",
+      "id": 223,
+      "epk_id": "22523",
+      "label": "$$$message_0177_0049_0002$$$"
+    },
+    {
+      "en": "Venomous, cursed claws target her during the brief instant after she pulls her right fist back, hoping to wound her before she regains her balance!",
+      "jp": "　右拳を打ち抜いた直後の隙、動きようのない体勢の崩れを狙う[ruby text=もうどく char=2]呪詛の爪[line len=3]！",
+      "Pt-br": "Clawas venenosas e malditas atacam ela durante o breve instante após ela recuar o punho direito, esperando feri-la antes que ela recupere o equilíbrio!",
+      "id": 224,
+      "epk_id": "22524",
+      "label": "$$$message_0177_0049_0003$$$"
+    },
+    {
+      "en": "She evades them with a light shake of the head, simultaneously lashing out at another monster's temple with her right foot.[lr]",
+      "jp": "　軽く頭を振るだけでかわし、同時に右足を怪物の側頭部に叩き込む。[lr]",
+      "Pt-br": "Ela evita com um leve balanço da cabeça, ao mesmo tempo que ataca a cabeça de outro monstro com o pé direito.[lr]",
+      "id": 225,
+      "epk_id": "22525",
+      "label": "$$$message_0177_0050_0000$$$"
+    },
+    {
+      "en": "Sharp and heavy.[lr]",
+      "jp": "　シャープ＆ヘヴィ。[lr]",
+      "Pt-br": "Agudo e pesado.[lr]",
+      "id": 226,
+      "epk_id": "22526",
+      "label": "$$$message_0177_0050_0001$$$"
+    },
+    {
+      "en": "A head, wet like a tomato, goes flying.[lr]",
+      "jp": "　トマトか何かのように吹き飛ぶ頭。[lr]",
+      "Pt-br": "Uma cabeça, molhada como um tomate, voa para o alto.[lr]",
+      "id": 227,
+      "epk_id": "22527",
+      "label": "$$$message_0177_0050_0002$$$"
+    },
+    {
+      "en": "Without visually confirming the kill, Bazett whirls on another prey approaching from behind, intercepting it with lethal timing.",
+      "jp": "　それを視認する事もなく、バゼットは背後に迫る新たな獲物に振り向き、またも必殺のタイミングで迎撃する。",
+      "Pt-br": "Sem confirmar visualmente a morte, Bazett gira-se para outro preso que se aproxima por trás, interceptando-o com timing letal.",
+      "id": 228,
+      "epk_id": "22528",
+      "label": "$$$message_0177_0050_0003$$$"
+    },
+    {
+      "en": "    She's like a bladed comet.[lr]",
+      "jp": "　[line len=3]まるでブレードのついたコマだ。[lr]",
+      "Pt-br": "Ela é como um cometa cortante.[lr]",
+      "id": 229,
+      "epk_id": "22529",
+      "label": "$$$message_0177_0051_0000$$$"
+    },
+    {
+      "en": "She cuts down attackers from every direction like a ruthless, four-handed danse macabre.",
+      "jp": "　あらゆる方向に対応し、襲い来るものを切り払い、向かう先に容赦なく連弾を叩き込むダンスマカブル。",
+      "Pt-br": "Ela corta os atacantes de todas as direções como uma dança macabra implacável, com quatro mãos.",
+      "id": 230,
+      "epk_id": "22530",
+      "label": "$$$message_0177_0051_0001$$$"
+    },
+    {
+      "en": "\"Hot damn. I barely get to show off at all.\"[wvs][wsplinemove canskip=0][shock vmax=20 hmax=20 time=600 count=3][se storage=se094.wav][lr]",
+      "jp": "「呆れた。出番ないじゃん、オレ」[wvs][wsplinemove canskip=0][shock vmax=20 hmax=20 time=600 count=3][se storage=se094.wav][lr]",
+      "Pt-br": "\"Maldito. Quase não tenho oportunidade de brilhar.\"[wvs][wsplinemove canskip=0][shock vmax=20 hmax=20 time=600 count=3][se storage=se094.wav][lr]",
+      "id": 231,
+      "epk_id": "22531",
+      "label": "$$$message_0177_0052_0000$$$"
+    },
+    {
+      "en": "I'm doing all right in my corner, but for every one beast I kill, Bazett pulverizes three.[lr]",
+      "jp": "　見とれながらも、こっちはこっちでそれなりに善戦するが、なんとか一匹バラしている間に、バゼットは三匹ほど粉砕していた。[lr]",
+      "Pt-br": "Estou fazendo bem no meu canto, mas por cada um que eu matar, Bazett reduz três a pó.[lr]",
+      "id": 232,
+      "epk_id": "22532",
+      "label": "$$$message_0177_0052_0001$$$"
+    },
+    {
+      "en": "I mean, she [font italic=true]literally[font italic=false] pulverizes them. She's a walking meat grinder despite those thin arms and legs.",
+      "jp": "　粉砕ってのは文字通りの意味で、あのほっそい足と拳で物の見事に肉をブチ撒け骨をブチ折る。",
+      "Pt-br": "Quero dizer, ela os pulveriza [font italic=true]literalmente[font italic=false]. Mesmo com aqueles braços e pernas finos, é um moedor de carne ambulante.",
+      "id": 233,
+      "epk_id": "22533",
+      "label": "$$$message_0177_0052_0002$$$"
+    },
+    {
+      "en": "I really underestimated her. Who thought that humans could take unarmed combat to this level?[lr]",
+      "jp": "　いや、お見それした。人間の格闘技術はここまで向上していたのか。[lr]",
+      "Pt-br": "Eu a subestimei feio. Quem diria que humanos podiam levar o combate desarmado a esse nível?[lr]",
+      "id": 234,
+      "epk_id": "22534",
+      "label": "$$$message_0177_0053_0000$$$"
+    },
+    {
+      "en": "Her fists, feet, knees, and elbows appear to be inscribed with Runes of hardening, but her basic fighting moves must be based on refined fighting techniques meant for humans to use.[lr]",
+      "jp": "　拳と足、膝やつま先には硬化のルーンが刻んであるようだが、それにしたって基本となる体さばきは“人間”が使う為に練り上げられた理論だろう。[lr]",
+      "Pt-br": "As mãos, pés, joelhos e cotovelos dela parecem estar inscritos com Runas de endurecimento, mas seus movimentos básicos de luta devem estar baseados em técnicas refinadas de combate destinadas aos humanos usar.[lr]",
+      "id": 235,
+      "epk_id": "22535",
+      "label": "$$$message_0177_0053_0001$$$"
+    },
+    {
+      "en": "It's nothing like the way I give myself over to my instincts to lash out at my enemies.",
+      "jp": "　直感に任せて暴れ回っていた頃のオレたちとはワケが違う。",
+      "Pt-br": "Não é nada como entregar-me aos meus instintos para atacar meus inimigos.",
+      "id": 236,
+      "epk_id": "22536",
+      "label": "$$$message_0177_0053_0002$$$"
+    },
+    {
+      "en": "Bazett's moves are the result of generations of blood and sweat.[lr]",
+      "jp": "　バゼットの技は、人々が積み上げてきた血と汗の遺産だ。[lr]",
+      "Pt-br": "Os movimentos de Bazett são o resultado de gerações de sangue e suor.[lr]",
+      "id": 237,
+      "epk_id": "22537",
+      "label": "$$$message_0177_0054_0000$$$"
+    },
+    {
+      "en": "I wonder how much time and effort it took to hone them to this level. She's a young girl, I mean, a mature woman, so has she even had time to learn anything else? Probably not.[lr]",
+      "jp": "　それを身につける為にどれほどの時間と労力を費やしたのか。年頃の女の子、もとい、成熟した大人の女だっていうのに、他に習う事はなかったのか。なかったんだろうな。[lr]",
+      "Pt-br": "Duvido muito que tenha levado tanto tempo e esforço para chegar a esse nível. Ela é uma menina, eu digo, uma mulher madura, então ela teria tempo para aprender algo mais? Provavelmente não.[lr]",
+      "id": 238,
+      "epk_id": "22538",
+      "label": "$$$message_0177_0054_0001$$$"
+    },
+    {
+      "en": "The monsters are no match for this human weapon.[lr]",
+      "jp": "　そんな[ruby text=バゼット o2o=1]人間凶器にとって怪物は敵ではない。[lr]",
+      "Pt-br": "Os monstros não têm como competir com essa arma humana.[lr]",
+      "id": 239,
+      "epk_id": "22539",
+      "label": "$$$message_0177_0054_0002$$$"
+    },
+    {
+      "en": "They're just sheep to be hunted, prey trying to find safety in numbers. I guess they've just got a rendezvous with fate.[lr]",
+      "jp": "　もはや狩られるだけの羊、徒党をなした獲物と同じ。ああスケサンや、そのぐらいで許しておやりなさい。[lr]",
+      "Pt-br": "Eles são apenas ovelhas para serem caçadas, presas que buscam segurança em números. Acho que só tiveram um encontro com o destino.[lr]",
+      "id": 240,
+      "epk_id": "22540",
+      "label": "$$$message_0177_0054_0003$$$"
+    },
+    {
+      "en": "You ever wonder where the French put their silent letters? Probably up their a[line len=2]",
+      "jp": "　ところでスケサンってなんだ。",
+      "Pt-br": "Você já se perguntou onde os franceses enfiam as letras mudas? Provavelmente no rab[line len=2]",
+      "id": 241,
+      "epk_id": "22541",
+      "label": "$$$message_0177_0054_0004$$$"
+    },
+    {
+      "en": "\"I see. So this is the 'bizarre bunch' you mentioned.\"[lr]",
+      "jp": "「[line len=3]なるほど。これが貴方の言っていた“得体の知れない連中”ですか」[lr]",
+      "Pt-br": "\"Entendi. Então este é o \"grupo estranho\" que você mencionou.\"[lr]",
+      "id": 242,
+      "epk_id": "22542",
+      "label": "$$$message_0177_0055_0000$$$"
+    },
+    {
+      "en": "Bazett exhales loudly and puts away her gloves.[lr]",
+      "jp": "　ふう、と大きく息をついて、革手袋を仕舞うバゼット。[lr]",
+      "Pt-br": "Bazett expira com força e guarda suas luvas.[lr]",
+      "id": 243,
+      "epk_id": "22543",
+      "label": "$$$message_0177_0055_0001$$$"
+    },
+    {
+      "en": "I can't believe it. She's taken out nearly twenty of those things, and all she has to say is 'whew'...!?",
+      "jp": "　信じられねえ、二十体近くの怪物を撲殺しておいて、ふう、の一つで済ませたよこの人間凶器……！",
+      "Pt-br": "Não acredito nisso. Ela já eliminou quase vinte dessas coisas, e tudo o que ela diz é \"whew\"...!?",
+      "id": 244,
+      "epk_id": "22544",
+      "label": "$$$message_0177_0055_0002$$$"
+    },
+    {
+      "en": "\"...They must be familiars of some kind.[lr]",
+      "jp": "「……使い魔の[ruby text=たぐい]類、でしょうね。[lr]",
+      "Pt-br": "\"...Devem ser algum tipo de familiar.[lr]",
+      "id": 245,
+      "epk_id": "22545",
+      "label": "$$$message_0177_0056_0000$$$"
+    },
+    {
+      "en": "They seem unintelligent and specialized at killing humans, but are suited to be commanded en masse.[lr]",
+      "jp": "　知性は乏しく、人間を殺すという単一性能しかありませんが、大量に使役するには適している。[lr]",
+      "Pt-br": "Parecem não ter inteligência e são especializados em matar humanos, mas servem bem para receber ordens em massa.[lr]",
+      "id": 246,
+      "epk_id": "22546",
+      "label": "$$$message_0177_0056_0001$$$"
+    },
+    {
+      "en": "Clearly, there is an eighth mage at work who is not a Master... A mage who attacks people indiscriminately with familiars can't be ignored.[lr]",
+      "jp": "　私たちの知らない、マスターではない八人目の魔術師がいるのは確かなようだ。……こんな使い魔を使って無差別に人を襲う魔術師など放置できない。[lr]",
+      "Pt-br": "Está claro que existe um oitavo mago agindo, alguém que não é um Mestre... Um mago que ataca pessoas indiscriminadamente com familiares não pode ser ignorado.[lr]",
+      "id": 247,
+      "epk_id": "22547",
+      "label": "$$$message_0177_0056_0002$$$"
+    },
+    {
+      "en": "Do you have any idea who they might be?\"[lr]",
+      "jp": "　貴方は、何か心当たりがありますか？」[lr]",
+      "Pt-br": "Você tem alguma ideia de quem eles possam ser?\"[lr]",
+      "id": 248,
+      "epk_id": "22548",
+      "label": "$$$message_0177_0056_0003$$$"
+    },
+    {
+      "en": "\"Huh? Me?\"",
+      "jp": "「え、オレ？」",
+      "Pt-br": "\"Hmm? Eu?\"",
+      "id": 249,
+      "epk_id": "22549",
+      "label": "$$$message_0177_0056_0004$$$"
+    },
+    {
+      "en": "\"Hmm. No one comes to mind. We'll probably run into them sooner or later, though.\"[lr]",
+      "jp": "「うーん。マスターの言うようなヤツは知らない。ま、そのうち出会うんじゃないか？」[lr]",
+      "Pt-br": "\"Hmm. Ninguém vem à cabeça. Provavelmente nos encontraremos com eles cedo ou tarde, mesmo assim.\"[lr]",
+      "id": 250,
+      "epk_id": "22550",
+      "label": "$$$message_0177_0057_0000$$$"
+    },
+    {
+      "en": "After all, we've got all the time in the world.[lr]",
+      "jp": "　なにしろ時間は山ほどある。[lr]",
+      "Pt-br": "Depois de tudo, temos todo o tempo do mundo.[lr]",
+      "id": 251,
+      "epk_id": "22551",
+      "label": "$$$message_0177_0057_0001$$$"
+    },
+    {
+      "en": "It won't end no matter what we do, so we're bound to encounter them at some point.",
+      "jp": "　何をしたって終わらないんだから、[ruby text=いずれ char=2]偶然出会う事だってあるだろうさ。",
+      "Pt-br": "Isso não vai acabar, não importa o que façamos, então certamente vamos nos deparar com eles em algum momento.",
+      "id": 252,
+      "epk_id": "22552",
+      "label": "$$$message_0177_0057_0002$$$"
+    },
+    {
+      "en": "\"...Very well. I apologize for doubting you. The abnormalities in this city must be the work of the monsters' master, not you.\"",
+      "jp": "「……いいでしょう。それと、貴方を疑った事を謝ります。町の異状はこの怪物たちの主の仕業で、貴方の仕業ではなかった」",
+      "Pt-br": "\"...Muito bem. Peço desculpas por ter duvidado de você. As anomalias desta cidade devem ser obra de quem controla os monstros, não sua.\"",
+      "id": 253,
+      "epk_id": "22553",
+      "label": "$$$message_0177_0058_0000$$$"
+    },
+    {
+      "en": "\"It's fine. I'm used to false accusations, and we're two birds of a feather anyway.[lr]",
+      "jp": "「いいさ。[ruby text=えんざい char=2]冤罪は慣れっこだし、同じ穴のムジナなんだ。[lr]",
+      "Pt-br": "\"Tudo bem. Já estou acostumado a ser acusado injustamente, e no fundo nós dois somos farinha do mesmo saco.[lr]",
+      "id": 254,
+      "epk_id": "22554",
+      "label": "$$$message_0177_0059_0000$$$"
+    },
+    {
+      "en": "It's just a matter of whether they acted first or me.[lr]",
+      "jp": "　コイツらが先かオレが先かの違いだよ。[lr]",
+      "Pt-br": "É só questão de quem agiu primeiro: eles ou eu.[lr]",
+      "id": 255,
+      "epk_id": "22555",
+      "label": "$$$message_0177_0059_0001$$$"
+    },
+    {
+      "en": "These things have been killing people all over the city, leaving me with nothing to do.\"",
+      "jp": "　コイツらが町の人間たちを殺して回ってるもんで、オレの仕事がまったく無いだけだ」",
+      "Pt-br": "Essas coisas têm matando pessoas por todo o centro da cidade, deixando-me sem nada para fazer.\"",
+      "id": 256,
+      "epk_id": "22556",
+      "label": "$$$message_0177_0059_0002$$$"
+    },
+    {
+      "en": "I'm glad they saved me the work, but it's never a good feeling to have someone steal your job. It impinges on my raison d'etre. I can't bear the thought of being a deadbeat.",
+      "jp": "　手間が省けて楽できるのはいいが、やはり仕事をとられるのはよろしくない。ワタクシの存在意義に関わる。無職になったら生きていけない。",
+      "Pt-br": "Fico feliz que tenham me evitado o trabalho, mas nunca é bom ter alguém roubar seu emprego. Isso invade minha razão de existir. Não consigo suportar a ideia de ser um vagabundo.",
+      "id": 257,
+      "epk_id": "22557",
+      "label": "$$$message_0177_0060_0000$$$"
+    },
+    {
+      "en": "\"...Stop that. I don't know what Heroic Spirit you are, but as long as you're my Servant, I will not allow you to involve ordinary people.\"[lr]",
+      "jp": "「[line len=3]そんな仕事はやめなさい。貴方が何処の英霊かは知りませんが、私のサーヴァントである以上、一般人を巻き込む事は許しません」[lr]",
+      "Pt-br": "\"...Pare com isso. Não sei qual Espírito Heroico você é, mas, enquanto for meu Servo, não vou permitir que envolva pessoas comuns.\"[lr]",
+      "id": 258,
+      "epk_id": "22558",
+      "label": "$$$message_0177_0061_0000$$$"
+    },
+    {
+      "en": "\"Like I said, I didn't kill anyone today. I was drooling over that street stall guy earlier but I still didn't touch him, you know.[lr]",
+      "jp": "「だからー、今日は誰も殺してないだろ。さっきの屋台の兄ちゃんなんてよだれ垂らしながら見送ったんだぜ？[lr]",
+      "Pt-br": "\"Como eu disse, não matei ninguém hoje. Estava babando no Nii-chan da barraca de rua antes, mas ainda não toquei nele, você sabe.[lr]",
+      "id": 259,
+      "epk_id": "22559",
+      "label": "$$$message_0177_0061_0001$$$"
+    },
+    {
+      "en": "I sure wanted some of that oden and meat. But I'm a dog who does what he's told. C'mon, tell me I'm a good boy.\"",
+      "jp": "　オデンも肉も食いたかったなー。けど言われたコトはなんとか守る優秀な[ruby text=オレ]犬。ほら、褒めて褒めて」",
+      "Pt-br": "Eu queria muito um pouco daquele od e carne. Mas sou um cão que faz o que é dito. Vamos, me diga que sou um bom menino.\"",
+      "id": 260,
+      "epk_id": "22560",
+      "label": "$$$message_0177_0061_0002$$$"
+    },
+    {
+      "en": "\"That's expected of you. I don't need to compliment you for it.\"[lr]",
+      "jp": "「それが普通なのです。褒められる事ではありません」[lr]",
+      "Pt-br": "\"Isso é esperado de você. Não preciso elogiar você por isso.\"[lr]",
+      "id": 261,
+      "epk_id": "22561",
+      "label": "$$$message_0177_0062_0000$$$"
+    },
+    {
+      "en": "Got me a hard-to-please owner.[lr]",
+      "jp": "　オレの飼い主は厳しい。[lr]",
+      "Pt-br": "Me dá um dono difícil de agradar.[lr]",
+      "id": 262,
+      "epk_id": "22562",
+      "label": "$$$message_0177_0062_0001$$$"
+    },
+    {
+      "en": "Makes me wanna rebel at any moment.",
+      "jp": "　いつ反発してやろうかしらん。",
+      "Pt-br": "Me faz querer me rebelar a qualquer momento.",
+      "id": 263,
+      "epk_id": "22563",
+      "label": "$$$message_0177_0062_0002$$$"
+    },
+    {
+      "en": "\"More importantly, we need to make something clear.[lr]",
+      "jp": "「それより、いい加減はっきりさせる事がある。[lr]",
+      "Pt-br": "\"Mais importante ainda, precisamos deixar algo claro.[lr]",
+      "id": 264,
+      "epk_id": "22564",
+      "label": "$$$message_0177_0063_0000$$$"
+    },
+    {
+      "en": "I know what your Noble Phantasm does, but you still haven't told me your True Name.[lr]",
+      "jp": "　貴方の宝具がなんであるかは分かりましたが、まだ真名を聞いていない。[lr]",
+      "Pt-br": "Eu sei o que seu Fantasma Nobre faz, mas você ainda não me disse seu Nome Verdadeiro.[lr]",
+      "id": 265,
+      "epk_id": "22565",
+      "label": "$$$message_0177_0063_0001$$$"
+    },
+    {
+      "en": "Where is your legend from? What Heroic Spirit are you?\"[lr]",
+      "jp": "　今更ですが、貴方は何処の英雄なのです」[lr]",
+      "Pt-br": "De onde vem sua lenda? Qual Espírito Heroico você é?\"[lr]",
+      "id": 266,
+      "epk_id": "22566",
+      "label": "$$$message_0177_0063_0002$$$"
+    },
+    {
+      "en": "\"I told you that right away.[l][say storage=snplg02_anr_0251 name=アンリ] It's your fault for not remembering, but oh yeah, your memory is still foggy.\"",
+      "jp": "「そんなものは初めに言ったんだがね。[l][say storage=snplg02_anr_0251 name=アンリ]覚えていないアンタの落ち度だと思うんだが、そうか[line len=3]まだ、記憶とやらは曖昧なままなのか」",
+      "Pt-br": "\"Diga isso a mim logo de cara.[l][say storage=snplg02_anr_0251 name=アンリ] É culpa sua por não se lembrar, mas enfim, sua memória ainda está nebulosa.\"",
+      "id": 267,
+      "epk_id": "22567",
+      "label": "$$$message_0177_0063_0003$$$"
+    },
+    {
+      "en": "\"I... Yes, I may as well admit it.[lr]",
+      "jp": "「それは[line len=3]そうですね、こうなっては隠していても仕方がありません。[lr]",
+      "Pt-br": "\"Eu... Sim, talvez eu deva admitir isso.[lr]",
+      "id": 268,
+      "epk_id": "22568",
+      "label": "$$$message_0177_0064_0000$$$"
+    },
+    {
+      "en": "Avenger, I don't remember making a pact with you. I thought my memory would recover given time, but the situation appears to be worse than I thought. I don't know how long it will take for my memories to return.\"",
+      "jp": "　アヴェンジャー。私は貴方と契約した時の事を思い出せない。時間をおけば回復すると踏んでいましたが、状況は私が思っていたより厳しいようだ。何時になるか分からない記憶の回復など待っていられない」",
+      "Pt-br": "Avenger, não me lembro de ter feito um pacto com você. Achei que minha memória voltaria ao longo do tempo, mas a situação parece estar pior do que eu imaginava. Não sei por quanto tempo minha memória voltará.\"",
+      "id": 269,
+      "epk_id": "22569",
+      "label": "$$$message_0177_0064_0001$$$"
+    },
+    {
+      "en": "\"So you want me to explain again.[lr]",
+      "jp": "「で、てっとり早くオレにもう一度説明しろ、と。[lr]",
+      "Pt-br": "\"Então você quer que eu explique novamente.[lr]",
+      "id": 270,
+      "epk_id": "22570",
+      "label": "$$$message_0177_0065_0000$$$"
+    },
+    {
+      "en": "Still, I don't know much.[lr]",
+      "jp": "　そう言われても、オレが知ってる事なんてたかが知れてるぜ？[lr]",
+      "Pt-br": "Ainda assim, não sei muito.[lr]",
+      "id": 271,
+      "epk_id": "22571",
+      "label": "$$$message_0177_0065_0001$$$"
+    },
+    {
+      "en": "You summoned me as a Servant and made a pact with me.[lr]",
+      "jp": "　アンタはオレをサーヴァントとして召喚して契約した。[lr]",
+      "Pt-br": "Você me invocou como um Servo e fez um pacto comigo.[lr]",
+      "id": 272,
+      "epk_id": "22572",
+      "label": "$$$message_0177_0065_0002$$$"
+    },
+    {
+      "en": "When I came to, I was in the mansion, and you had me collared and doing your bidding.[lr]",
+      "jp": "　気が付けばオレはあの洋館にいて、アンタに首輪つけられてこき使われてたワケだ。[lr]",
+      "Pt-br": "Quando acordei, estava na mansão e você me tinha colocado um collar e estava me mandando fazer o que queria.[lr]",
+      "id": 273,
+      "epk_id": "22573",
+      "label": "$$$message_0177_0065_0003$$$"
+    },
+    {
+      "en": "That's when I told you my True Name... Well, it's not like it matters if you ask.\"",
+      "jp": "　そん時に真名は名乗ったが[line len=3]まあ、別にいいか、誰に聞かれてもどうってコトない」",
+      "Pt-br": "Aí é quando eu te dei meu Nome Verdadeiro... Bem, não importa se você perguntar.\"",
+      "id": 274,
+      "epk_id": "22574",
+      "label": "$$$message_0177_0065_0004$$$"
+    },
+    {
+      "en": "\"Not like it matters? What do you mean[line len=2]\"[lr]",
+      "jp": "「どうというコトはない……？　それはどういう[line len=3]」[lr]",
+      "Pt-br": "\"Não é como se importasse? O que você quer dizer\"[line len=2][lr]",
+      "id": 275,
+      "epk_id": "22575",
+      "label": "$$$message_0177_0066_0000$$$"
+    },
+    {
+      "en": "\"I don't have a name of my own. I don't know what my name was when I was alive.\"",
+      "jp": "「オレ、自分の名前はないんだ。生前どんな名前だったのかなんて知らねえのさ」",
+      "Pt-br": "\"Eu não tenho um nome próprio. Não sei qual era o meu nome quando estava vivo.\"",
+      "id": 276,
+      "epk_id": "22576",
+      "label": "$$$message_0177_0066_0001$$$"
+    },
+    {
+      "en": "\"That's absurd! You're a Servant, so you must be a Heroic Spirit! There's no such thing as a nameless hero!\"[lr]",
+      "jp": "「そんな馬鹿な……！？　サーヴァントである以上、貴方は英霊だ！　名称のない英雄など存在しない……！」[lr]",
+      "Pt-br": "\"Isso é absurdo! Você é um Servo, então tem que ser um Espírito Heroico! Não existe herói sem nome!\"[lr]",
+      "id": 277,
+      "epk_id": "22577",
+      "label": "$$$message_0177_0067_0000$$$"
+    },
+    {
+      "en": "\"Yeah. So I have a name, but it wasn't my name as a human. I can tell you what people called me, if you want.\"",
+      "jp": "「ああ。だから名称はある。オレには人間としての名前がないだけだ。周りが呼んでいた名称でいいなら教えられるけど、それでいい？」",
+      "Pt-br": "\"Sim. Então eu tenho um nome, mas não era o meu nome como humano. Posso te dizer como as pessoas me chamavam, se quiser.\"",
+      "id": 278,
+      "epk_id": "22578",
+      "label": "$$$message_0177_0067_0001$$$"
+    },
+    {
+      "en": "\"...Of course I want that. I should have heard your name when we made the contract.[lr]",
+      "jp": "「……もちろんです。契約する時、私は貴方の名前を聞いている筈だ。[lr]",
+      "Pt-br": "\"...Claro que quero isso. Deveria ter ouvido seu nome quando fizemos o contrato.[lr]",
+      "id": 279,
+      "epk_id": "22579",
+      "label": "$$$message_0177_0068_0000$$$"
+    },
+    {
+      "en": "That's why I trust... No, that's how I decided that you were suitable to help me win the Holy Grail War.[lr]",
+      "jp": "　結果、貴方を信頼……いえ、聖杯戦争を勝ち抜くに相応しい力を持っていると判断した。[lr]",
+      "Pt-br": "É por isso que confio... Não, é assim que decidi que você era adequado para me ajudar a ganhar a Guerra do Santo Graal.[lr]",
+      "id": 280,
+      "epk_id": "22580",
+      "label": "$$$message_0177_0068_0001$$$"
+    },
+    {
+      "en": "So, what name did you give me?\"[lr]",
+      "jp": "　その、私が認めた名称はなんというのです」[lr]",
+      "Pt-br": "Então, qual nome me deu?\"[lr]",
+      "id": 281,
+      "epk_id": "22581",
+      "label": "$$$message_0177_0068_0002$$$"
+    },
+    {
+      "en": "\"Aŋra Mainiiu. It's a name from an old tradition, in some faraway land.\"[cacheimage storage=バゼット02b(中)][wvs][chgfg textoff=0 time=300 storage=バゼット02b(中)]",
+      "jp": "「アンリマユ。どこぞの、古びた風習の名前だよ」[cacheimage storage=バゼット02b(中)][wvs][chgfg textoff=0 time=300 storage=バゼット02b(中)]",
+      "Pt-br": "\"Angra Mainyu. É um nome de uma antiga tradição, em algum lugar muito distante.\"[cacheimage storage=バゼット02b(中)][wvs][chgfg textoff=0 time=300 storage=バゼット02b(中)]",
+      "id": 282,
+      "epk_id": "22582",
+      "label": "$$$message_0177_0068_0003$$$"
+    },
+    {
+      "en": "No point hiding it.[lr]",
+      "jp": "　隠していても仕方がない。[lr]",
+      "Pt-br": "Nada a esconder.[lr]",
+      "id": 283,
+      "epk_id": "22583",
+      "label": "$$$message_0177_0069_0000$$$"
+    },
+    {
+      "en": "It's nothing to be pretentious about, so I just tell her.",
+      "jp": "　第一もったいぶる程のものでもないんで、スッパリと答えてやった。",
+      "Pt-br": "Não é nada para fazer pose, então digo logo.",
+      "id": 284,
+      "epk_id": "22584",
+      "label": "$$$message_0177_0069_0001$$$"
+    },
+    {
+      "en": "\"Aŋra Mainiiu... That name is...\"[lr]",
+      "jp": "「アンリマユ[line len=3]そんな、その名は」[lr]",
+      "Pt-br": "\"Aŋra Mainyu... Esse nome é...\"[lr]",
+      "id": 285,
+      "epk_id": "22585",
+      "label": "$$$message_0177_0070_0000$$$"
+    },
+    {
+      "en": "That isn't a hero's name.[lr]",
+      "jp": "　英雄の名前ではないとか、[lr]",
+      "Pt-br": "Isso não é um nome de herói.[lr]",
+      "id": 286,
+      "epk_id": "22586",
+      "label": "$$$message_0177_0070_0001$$$"
+    },
+    {
+      "en": "It isn't worthy of a hero.[lr]",
+      "jp": "　英雄には相応しくないとか、[lr]",
+      "Pt-br": "Não é digno de um herói.[lr]",
+      "id": 287,
+      "epk_id": "22587",
+      "label": "$$$message_0177_0070_0002$$$"
+    },
+    {
+      "en": "It isn't even something you should call a person.[lr]",
+      "jp": "　そもそも人間に付けられる名前じゃないとか、[lr]",
+      "Pt-br": "Não é mesmo algo que você deveria chamar de pessoa.[lr]",
+      "id": 288,
+      "epk_id": "22588",
+      "label": "$$$message_0177_0070_0003$$$"
+    },
+    {
+      "en": "Her face says it all, and more.[lr]",
+      "jp": "　あの顔はそういう反応だ。[lr]",
+      "Pt-br": "Seu rosto diz tudo e mais.[lr]",
+      "id": 289,
+      "epk_id": "22589",
+      "label": "$$$message_0177_0070_0004$$$"
+    },
+    {
+      "en": "I know how my noble Master must feel right now. I totally fail to live up to my name.",
+      "jp": "　我がマスター殿の気持ちも分かる。完全に名前負けしてるからな。",
+      "Pt-br": "Eu sei como meu nobre Mestre deve estar se sentindo agora. Estou muito longe de fazer jus ao meu nome.",
+      "id": 290,
+      "epk_id": "22590",
+      "label": "$$$message_0177_0070_0005$$$"
+    },
+    {
+      "en": "Aŋra Mainiiu is the name of one of the greatest devils of ancient Persia.[lr]",
+      "jp": "　アンリマユ。古代ペルシャにおける、最も強大な悪魔の名称。[lr]",
+      "Pt-br": "Aŋra Mainyu é o nome de um dos maiores demônios da antiga Pérsia.[lr]",
+      "id": 291,
+      "epk_id": "22591",
+      "label": "$$$message_0177_0071_0000$$$"
+    },
+    {
+      "en": "It was the biggest antagonist of Zoroastrianism, an advocate of evil said to be fighting the light god and guardian of human benevolence for nine thousand years.[lr]",
+      "jp": "　拝火教における最大の敵対者であり、人間の善性を守護する光明神と九千年の間戦い続けるという悪性の容認者。[lr]",
+      "Pt-br": "Era o maior antagonista do zoroastrismo, um defensor do mal dito estar lutando contra o deus da luz e Guardião da benevolência humana por nove mil anos.[lr]",
+      "id": 292,
+      "epk_id": "22592",
+      "label": "$$$message_0177_0071_0001$$$"
+    },
+    {
+      "en": "In short, a god of evil.[lr]",
+      "jp": "　言ってしまえば悪の神様である。[lr]",
+      "Pt-br": "Em resumo, um deus do mal.[lr]",
+      "id": 293,
+      "epk_id": "22593",
+      "label": "$$$message_0177_0071_0002$$$"
+    },
+    {
+      "en": "On top of that, its domain encompasses half of the entire world. Just the fact that I was named thusly invites trouble.[lr]",
+      "jp": "　しかもこの世の半分を肯定するスケールのでかさ。名付けられたこっちはいい迷惑だ。[lr]",
+      "Pt-br": "Além disso, seu domínio abrange metade do mundo inteiro. Apenas o fato de ter sido nomeado assim me atrai problemas.[lr]",
+      "id": 294,
+      "epk_id": "22594",
+      "label": "$$$message_0177_0071_0003$$$"
+    },
+    {
+      "en": "...Honestly, I'd feel a lot less inadequate if it was something more modest, like the god of desks or jars.",
+      "jp": "　……ホント、もっと[ruby text=こま]細いジャンルで机とか壺の神さまだったら、まだ分相応ってもんなんだが。",
+      "Pt-br": "...Sinceramente, me sentiria muito menos inadequado se fosse algo mais modesto, como o deus dos armários ou das garrafas.",
+      "id": 295,
+      "epk_id": "22595",
+      "label": "$$$message_0177_0071_0004$$$"
+    },
+    {
+      "en": "Zoroastrianism revolves around the conflict between the gods of good and evil. It's one of the world's first religions which inspired the duality between angels and demons.[lr]",
+      "jp": "　拝火教はこの善悪二神による確執が主軸になる物語で、天使と悪魔の二元論を形にした最初の宗教だ。[lr]",
+      "Pt-br": "Zoroastrismo gira em torno da conflito entre os deuses do bem e do mal. É uma das primeiras religiões do mundo, que inspirou a dualidade entre anjos e demônios.[lr]",
+      "id": 296,
+      "epk_id": "22596",
+      "label": "$$$message_0177_0072_0000$$$"
+    },
+    {
+      "en": "Of course, I've never seen any angels or known any demons.[lr]",
+      "jp": "　もっとも、オレは天使など見たこともないし悪魔ともお知り合いじゃない。[lr]",
+      "Pt-br": "Claro, nunca vi nenhum anjo nem conheci nenhum demônio.[lr]",
+      "id": 297,
+      "epk_id": "22597",
+      "label": "$$$message_0177_0072_0001$$$"
+    },
+    {
+      "en": "I was just one person in a village of people who got all hot and bothered about those teachings. They treated me as a hero for just a bit of sin and salvation, and apparently, enshrined me as a Heroic Spirit after I died.[wt canskip=0][wm canskip=0][stopdash][current withback=false]",
+      "jp": "　オレはただ、そういった教えに心酔していた村の一員にすぎず、ちょっとした救罪行為をしたら英雄扱いされ、死後、英霊として奉られるようになったモノらしい。[wt canskip=0][wm canskip=0][stopdash][current withback=false]",
+      "Pt-br": "Eu era só mais uma pessoa numa aldeia cheia de gente que se empolgava demais com esses ensinamentos. Fui tratado como herói por um pouco de pecado e salvação e, ao que parece, acabei consagrado como Espírito Heroico depois de morrer.[wt canskip=0][wm canskip=0][stopdash][current withback=false]",
+      "id": 298,
+      "epk_id": "22598",
+      "label": "$$$message_0177_0072_0002$$$"
+    },
+    {
+      "en": "\"Don't get the wrong idea. I'm not an actual god.[lr]",
+      "jp": "「勘違いするなよ。別に神様本人ってワケじゃない。[lr]",
+      "Pt-br": "\"Não tenha a ideia errada. Eu não sou um deus real.[lr]",
+      "id": 299,
+      "epk_id": "22599",
+      "label": "$$$message_0177_0073_0000$$$"
+    },
+    {
+      "en": "I probably just happened to have a similar attribute to it, so they gave me that name.[lr]",
+      "jp": "　たまたま持ってる属性がそいつに近かったから、[ruby text=かめい char=2]仮名として付けられただけだろう。[lr]",
+      "Pt-br": "Provavelmente eu calhei de ter um atributo parecido com o dela, então me deram esse nome.[lr]",
+      "id": 300,
+      "epk_id": "22600",
+      "label": "$$$message_0177_0073_0001$$$"
+    },
+    {
+      "en": "I'm a low-caliber Heroic Spirit, and as you know, a useless third-rate Servant.\"",
+      "jp": "　英霊としての格は低いし、知っての通りあまり役に立たない三流だ」",
+      "Pt-br": "Sou um Espírito Heroico de quinta categoria e, como você sabe, um Servo inútil de terceira classe.\"",
+      "id": 301,
+      "epk_id": "22601",
+      "label": "$$$message_0177_0073_0002$$$"
+    },
+    {
+      "en": "\"I'm well aware. I won't ask you to defend yourself now.\"[lr]",
+      "jp": "「それはとっくに承知しています。今更弁解してもらうコトでもありません」[lr]",
+      "Pt-br": "\"Eu bem sei. Não vou te pedir para se defender agora.\"[lr]",
+      "id": 302,
+      "epk_id": "22602",
+      "label": "$$$message_0177_0074_0000$$$"
+    },
+    {
+      "en": "Hahaha. You really are a tough audience, Master.",
+      "jp": "　ははは。[line len=3]なにげに辛辣だねマスター。",
+      "Pt-br": "Hahaha. Você é difícil de impressionar, Mestre.",
+      "id": 303,
+      "epk_id": "22603",
+      "label": "$$$message_0177_0074_0001$$$"
+    },
+    {
+      "en": "\"Still...Aŋra Mainiiu. No, I'm sure the Servant I meant to summon was...\"[lr]",
+      "jp": "「しかし[line len=3]アンリマユ[line len=3]いいえ、私の呼び出したサーヴァントは、たしか[line len=3]」[lr]",
+      "Pt-br": "\"Ainda... Aŋra Mainiiu. Não, tenho certeza de que o Servo que eu pretendia invocar era...\"[lr]",
+      "id": 304,
+      "epk_id": "22604",
+      "label": "$$$message_0177_0075_0000$$$"
+    },
+    {
+      "en": "She mumbles about how it feels like someone that was important to her.[lr]",
+      "jp": "　もっと違った、親愛なる響きだったような、と。[lr]",
+      "Pt-br": "Ela murmura sobre como sente que alguém importante para ela.[lr]",
+      "id": 305,
+      "epk_id": "22605",
+      "label": "$$$message_0177_0075_0001$$$"
+    },
+    {
+      "en": "Bazett Fraga McRemitz questions herself.",
+      "jp": "　バゼット・フラガ・マクレミッツは自問した。",
+      "Pt-br": "Bazett Fraga McRemitz se questiona.",
+      "id": 306,
+      "epk_id": "22606",
+      "label": "$$$message_0177_0075_0002$$$"
+    },
+    {
+      "en": "\"Hmm. Someone dear to you.[lr]",
+      "jp": "「……ふうん、親愛なる響きねえ。[lr]",
+      "Pt-br": "\"Hmm. Alguém que você ama.[lr]",
+      "id": 307,
+      "epk_id": "22607",
+      "label": "$$$message_0177_0076_0000$$$"
+    },
+    {
+      "en": "Were you trying to call some other Heroic Spirit? Not me, but some really strong, magnificent hero?\"",
+      "jp": "　なに、アンタ他に呼び出したい英霊がいたの？　オレなんかじゃなく、もっと強くて立派な英雄にアテがあったとか」",
+      "Pt-br": "Você estava tentando chamar outro Espírito Heroico? Não eu, mas algum herói forte de verdade, magnífico?\"",
+      "id": 308,
+      "epk_id": "22608",
+      "label": "$$$message_0177_0076_0001$$$"
+    },
+    {
+      "en": "\"Huh...? [cacheimage storage=バゼット04g(中)][wvl canskip=0 time=500][chgfg textoff=0 time=300 storage=バゼット04g(中)]N-no, not really...\"[lr]",
+      "jp": "「え[line len=3][cacheimage storage=バゼット04g(中)][wvl canskip=0 time=500][chgfg textoff=0 time=300 storage=バゼット04g(中)]い、いいえ、そんなコトは、あまり」[lr]",
+      "Pt-br": "\"Hmm...? [cacheimage storage=バゼット04g(中)][wvl canskip=0 time=500][chgfg textoff=0 time=300 storage=バゼット04g(中)]N-não, não é bem isso...\"[lr]",
+      "id": 309,
+      "epk_id": "22609",
+      "label": "$$$message_0177_0077_0000$$$"
+    },
+    {
+      "en": "I hear her whisper \"...well.\"[lr]",
+      "jp": "　ありませんが、などと小さく付け足す。[lr]",
+      "Pt-br": "Eu ouvi sua sussurro \"...bem.\"[lr]",
+      "id": 310,
+      "epk_id": "22610",
+      "label": "$$$message_0177_0077_0001$$$"
+    },
+    {
+      "en": "Wow, that tells me everything I need to know. She's got someone else on her mind...which I knew, but who knew she'd be this picky about Servants![lr]",
+      "jp": "　なにその丸わかりのリアクション。意中の相手が他にいる……ってのは知っていたが、まさかサーヴァントもえり好みしていたとは！[lr]",
+      "Pt-br": "Uau, isso me diz tudo o que eu precisava saber. Tem outra pessoa na cabeça... o que eu já sabia, claro, mas quem diria que ela seria tão exigente na escolha de Servos![lr]",
+      "id": 311,
+      "epk_id": "22611",
+      "label": "$$$message_0177_0077_0002$$$"
+    },
+    {
+      "en": "Tch. So she compromised to get me. [l]And here I was pretty serious. [l]Well, whatever.",
+      "jp": "　ちぇー、オレとの[ruby text=かんけい char=2]契約は妥協で出来たもんだったんだ。[l]わりと真剣だったのに。[l]まあいいけど。",
+      "Pt-br": "Tsc. Ela cedeu para me ganhar. [l]E eu estava tão sério. [l]Bem, o que for.",
+      "id": 312,
+      "epk_id": "22612",
+      "label": "$$$message_0177_0077_0003$$$"
+    },
+    {
+      "en": "\"That's a funny face. You can look like that too, huh? It's kinda a let down, but I expected this.[lr]",
+      "jp": "「面白いなあその顔。アンタでもそんな顔するんだ。拍子抜けではあるが、まあ予想通りでもある。[lr]",
+      "Pt-br": "\"Isso é uma cara engraçada. Você também pode ficar assim, né? É um pouco decepcionante, mas eu esperava isso.[lr]",
+      "id": 313,
+      "epk_id": "22613",
+      "label": "$$$message_0177_0078_0000$$$"
+    },
+    {
+      "en": "So, what kind of guy is your type?\"[lr]",
+      "jp": "　で、どんな男が好みなんだアンタ？」[lr]",
+      "Pt-br": "E aí, qual tipo de cara você gosta?\"[lr]",
+      "id": 314,
+      "epk_id": "22614",
+      "label": "$$$message_0177_0078_0001$$$"
+    },
+    {
+      "en": "\"W-what are you talking about? We aren't discussing my taste in men! I was just thinking that you're different from the hero I had in mind.\"",
+      "jp": "「な、何を言いだしますか、男性の好みなんて[ruby text=はな]話していなかったでしょう！　私はただ、貴方と彼の英霊との違いを考えていただけです」",
+      "Pt-br": "\"E-está falando o que? Não estamos discutindo meu gosto por homens! Eu estava só pensando que você é diferente do herói que eu tinha em mente.\"",
+      "id": 315,
+      "epk_id": "22615",
+      "label": "$$$message_0177_0078_0002$$$"
+    },
+    {
+      "en": "\"Yeah, and what's he like? A familiar is supposed to represent the spellcaster's preference, so I'd expect a female Master to summon some hot guy.[lr]",
+      "jp": "「だからぁ、それが男の話だっていうの。使い魔なんざ術者の好みが第一なんだから、女のマスターが色男を呼ぶのは当然じゃねえか。[lr]",
+      "Pt-br": "\"É sim, e como ele é? Um familiar deveria refletir as preferências do feiticeiro, então eu esperaria que uma Mestra invocasse algum cara bonito.[lr]",
+      "id": 316,
+      "epk_id": "22616",
+      "label": "$$$message_0177_0079_0000$$$"
+    },
+    {
+      "en": "Oh. Or were you trying to summon a woman? [wvl canskip=0 time=800]That's...deep. Don't tell me you were cross-dressing for both business and pleasure.\"",
+      "jp": "　あ。なに、それとも女の英霊でも呼ぶ気だったとか？[wvl canskip=0 time=800]　…………そりゃ深いな。まさか、趣味と実益を兼ねた男装だったとは」",
+      "Pt-br": "Ah. Ou você estava tentando invocar uma mulher? [wvl canskip=0 time=800]Isso... é profundo. Não me diga que você se vestia de mulher tanto a trabalho quanto por prazer.\"",
+      "id": 317,
+      "epk_id": "22617",
+      "label": "$$$message_0177_0079_0001$$$"
+    },
+    {
+      "en": "\"I have no such proclivities. I made a pact with you because I judged it the correct course of action. It has nothing to do with any feeling for the opposite sex.[lr]",
+      "jp": "「私はそのような私情は挟みません。貴方と契約したのは、それが正しいと私が判断したからです。そこに異性への感情など挟まない。[lr]",
+      "Pt-br": "\"Não tenho tais inclinações. Fiz um pacto com você porque julguei que era a ação correta. Isso tem nada a ver com qualquer sentimento pelo sexo oposto.[lr]",
+      "id": 318,
+      "epk_id": "22618",
+      "label": "$$$message_0177_0080_0000$$$"
+    },
+    {
+      "en": "...However, I admit that what I said was misleading. Yes, I was fixated on a Heroic Spirit other than you.\"",
+      "jp": "　……ですが、誤解を招く物言いだった事も認めましょう。私は確かに、貴方以外の英霊に執着していた」",
+      "Pt-br": "...No entanto, admito que o que disse foi enganoso. Sim, estava fixado em um Espírito Heroico diferente de você.\"",
+      "id": 319,
+      "epk_id": "22619",
+      "label": "$$$message_0177_0080_0001$$$"
+    },
+    {
+      "en": "\"Yeah, that. You might as well tell me the rest. Nothing to lose, so let's keep as few secrets as we can.[lr]",
+      "jp": "「そう、それそれ。そこまで白状したなら聞かせろよ。減るもんじゃなし、隠し事は極力潰していこう。[lr]",
+      "Pt-br": "\"É isso. Você pode me contar o resto. Nada a perder, então vamos manter o mínimo de segredos possível.[lr]",
+      "id": 320,
+      "epk_id": "22620",
+      "label": "$$$message_0177_0081_0000$$$"
+    },
+    {
+      "en": "So, Master. Which Heroic Spirit were you trying to summon?\"",
+      "jp": "　で、マスター。アンタもともと何処の英霊を呼び出そうとしてたんだ？」",
+      "Pt-br": "Então, Mestre. Qual Espírito Heroico você estava tentando invocar?\"",
+      "id": 321,
+      "epk_id": "22621",
+      "label": "$$$message_0177_0081_0001$$$"
+    },
+    {
+      "en": "\"...I wasn't exactly trying to summon him.[lr]",
+      "jp": "「……呼び出そう、というのは正しくはありません。[lr]",
+      "Pt-br": "\"...Não estava exatamente tentando invocar ele.[lr]",
+      "id": 322,
+      "epk_id": "22622",
+      "label": "$$$message_0177_0082_0000$$$"
+    },
+    {
+      "en": "There was no guarantee I could summon him, since I didn't believe he actually existed.\"[lr]",
+      "jp": "　私には[ruby text=か]彼の英霊を召喚できる保証はなかったし、私自身、彼の存在を信じてはいなかったのですから」[lr]",
+      "Pt-br": "Não havia garantia de que eu conseguiria invocá-lo, já que nem acreditava que ele existisse de verdade.\"[lr]",
+      "id": 323,
+      "epk_id": "22623",
+      "label": "$$$message_0177_0082_0001$$$"
+    },
+    {
+      "en": "Her voice grows timid, uncertain.[lr]",
+      "jp": "　語尾が弱々しく霞む。[lr]",
+      "Pt-br": "A voz dela fica tímida, incerta.[lr]",
+      "id": 324,
+      "epk_id": "22624",
+      "label": "$$$message_0177_0082_0002$$$"
+    },
+    {
+      "en": "She must be reliving an old memory.[lr]",
+      "jp": "　昔の思い出にいるのだろう。[lr]",
+      "Pt-br": "Ela deve estar revivendo uma antiga memória.[lr]",
+      "id": 325,
+      "epk_id": "22625",
+      "label": "$$$message_0177_0082_0003$$$"
+    },
+    {
+      "en": "She shrinks back, as if admonishing herself.",
+      "jp": "　目の前の女の心が、自戒するように退行する。",
+      "Pt-br": "Ela recua, como se se admoestasse a si mesma.",
+      "id": 326,
+      "epk_id": "22626",
+      "label": "$$$message_0177_0082_0004$$$"
+    },
+    {
+      "en": "\"I see. You can't summon a hero you don't believe in. But you wanted to meet him.\"[lr]",
+      "jp": "「なるほど。信じていない英雄は呼び出せない。けど、アンタはその英雄に会いたかったワケか」[lr]",
+      "Pt-br": "\"Entendi. Você não consegue invocar um herói que não acredita. Mas você queria conhecê-lo.\"[lr]",
+      "id": 327,
+      "epk_id": "22627",
+      "label": "$$$message_0177_0083_0000$$$"
+    },
+    {
+      "en": "\"...I'm not sure. It's embarrassing to talk about, but I'm not sure myself.\"",
+      "jp": "「……どうでしょう。恥ずかしい話ですが、自分でも分からない」",
+      "Pt-br": "\"...Não tenho certeza. É envergonhante falar disso, mas nem mesmo eu tenho certeza.\"",
+      "id": 328,
+      "epk_id": "22628",
+      "label": "$$$message_0177_0083_0001$$$"
+    },
+    {
+      "en": "\"...This is about my childhood.[lr]",
+      "jp": "「……子供の頃の話です。[lr]",
+      "Pt-br": "\"...Isso é sobre minha infância.[lr]",
+      "id": 329,
+      "epk_id": "22629",
+      "label": "$$$message_0177_0084_0000$$$"
+    },
+    {
+      "en": "I was, um, a cold child, towards everything.[lr]",
+      "jp": "　私はその、何に対しても冷めた子供だった。[lr]",
+      "Pt-br": "Eu era, hum, uma criança fria, em relação a tudo.[lr]",
+      "id": 330,
+      "epk_id": "22630",
+      "label": "$$$message_0177_0084_0001$$$"
+    },
+    {
+      "en": "I couldn't really understand what people around me called 'fun,' and I often troubled my parents.[lr]",
+      "jp": "　まわりの言う『楽しみ』というものがうまく呑み込めず、よく両親を困惑させたものです。[lr]",
+      "Pt-br": "Eu não conseguia entender muito bem o que as pessoas ao meu redor chamavam de \"diversão,\" e muitas vezes preocupava meus pais.[lr]",
+      "id": 331,
+      "epk_id": "22631",
+      "label": "$$$message_0177_0084_0002$$$"
+    },
+    {
+      "en": "...My father once said that I spent my entire day like I was working. He often apologized to me, all while looking guilty.\"[wt canskip=0][current withback=false]",
+      "jp": "　……父は言いました。おまえは作業のように一日を過ごすのだな、と。済まなそうな目をして、いつも私に謝っていた」[wt canskip=0][current withback=false]",
+      "Pt-br": "...Meu pai uma vez disse que eu passava todo o dia como se estivesse trabalhando. Ele se desculpava comigo o tempo todo, enquanto olhava culpado.\"[wt canskip=0][current withback=false]",
+      "id": 332,
+      "epk_id": "22632",
+      "label": "$$$message_0177_0084_0003$$$"
+    },
+    {
+      "en": "\"I think only my parents felt any guilt.[lr]",
+      "jp": "「負い目があったのは両親だけだったのでしょうね。[lr]",
+      "Pt-br": "\"Acho que só meus pais sentiram algum arrependimento.[lr]",
+      "id": 333,
+      "epk_id": "22633",
+      "label": "$$$message_0177_0085_0000$$$"
+    },
+    {
+      "en": "I never sensed the way my father felt, and the days passed in tedium, like they do now.[lr]",
+      "jp": "　私はそういった父の罪悪感も感じ取れず、今と同じつまらない毎日を過ごしていた。[lr]",
+      "Pt-br": "Nunca senti como meu pai se sentia, e os dias passavam em tédio, como fazem agora.[lr]",
+      "id": 334,
+      "epk_id": "22634",
+      "label": "$$$message_0177_0085_0001$$$"
+    },
+    {
+      "en": "Most of my memories are of those bland days.[lr]",
+      "jp": "　思い出の大部分は、そういった淡々とした日々です。[lr]",
+      "Pt-br": "A maioria dos meus lembretes são de aqueles dias monótonos.[lr]",
+      "id": 335,
+      "epk_id": "22635",
+      "label": "$$$message_0177_0085_0002$$$"
+    },
+    {
+      "en": "But there was one thing I was obsessed with.[lr]",
+      "jp": "　……けれど、一つだけ夢中になったものがあった。[lr]",
+      "Pt-br": "Mas havia uma coisa em que eu estava obcecado.[lr]",
+      "id": 336,
+      "epk_id": "22636",
+      "label": "$$$message_0177_0085_0003$$$"
+    },
+    {
+      "en": "Even now, I'm not sure if it was really that special. I read a storybook I happened to find in my family's library, about an old story of my country, and it made me very sad.\"",
+      "jp": "　本当に、どうしてそれだけが特別だったのか、今でも分からない。家の書斎でたまたま手にした、私の国なら何処にでもある昔話を読んだ時、私はとても悲しかった」",
+      "Pt-br": "Mesmo agora, não sei dizer se aquilo foi tão especial assim. Li por acaso, na biblioteca da minha família, um livro sobre uma antiga história do meu país, e isso me deixou muito triste.\"",
+      "id": 337,
+      "epk_id": "22637",
+      "label": "$$$message_0177_0085_0004$$$"
+    },
+    {
+      "en": "\"...An old story. So that's it.\"[lr]",
+      "jp": "「[line len=3]昔話ねぇ。ふうん、それが」[lr]",
+      "Pt-br": "\"...Uma antiga história. Então, é isso.\"[lr]",
+      "id": 338,
+      "epk_id": "22638",
+      "label": "$$$message_0177_0086_0000$$$"
+    },
+    {
+      "en": "It's hard to believe, but that's who she wanted to meet.[lr]",
+      "jp": "　信じていないけれど、会いたいと思った誰か。[lr]",
+      "Pt-br": "É difícil de acreditar, mas foi com quem ela queria se encontrar.[lr]",
+      "id": 339,
+      "epk_id": "22639",
+      "label": "$$$message_0177_0086_0001$$$"
+    },
+    {
+      "en": "A young girl dreamed and forgot it as she grew up. Just one of life's many abandoned fantasies.",
+      "jp": "　幼い子供が夢に見て、成長すると共に忘れてしまう、この世に数多と廃棄される幻想か。",
+      "Pt-br": "Uma menina sonhou e esqueceu o sonho ao crescer. Só mais uma entre as muitas fantasias abandonadas da vida.",
+      "id": 340,
+      "epk_id": "22640",
+      "label": "$$$message_0177_0086_0002$$$"
+    },
+    {
+      "en": "\"...Yes. Just during this short period of my childhood, I was like the other children my age. A heroic tale captured my heart.[lr]",
+      "jp": "「……ええ。その童話にいる時だけ、私は同じ年頃の子たちと同じになれた。子供心にも眩しく映った、ある英雄の物語です。[lr]",
+      "Pt-br": "\"...Sim. Só durante aquele breve período da infância eu fui como as outras crianças da minha idade. Uma história heroica conquistou meu coração.[lr]",
+      "id": 341,
+      "epk_id": "22641",
+      "label": "$$$message_0177_0087_0000$$$"
+    },
+    {
+      "en": "But the tale didn't have a pretty ending. It certainly wasn't a story worth praising.\"",
+      "jp": "　けど、その話の最後は華やかなものではなかった。決して、褒め称えていい物語なんかじゃなかった」",
+      "Pt-br": "Mas a história não teve um final bonito. Certamente não era uma história merecedora de elogios.\"",
+      "id": 342,
+      "epk_id": "22642",
+      "label": "$$$message_0177_0087_0001$$$"
+    },
+    {
+      "en": "\"...Everyone said it was a tale of valor, but I couldn't see it that way. That's when I began to think that I wanted to save him.[lr]",
+      "jp": "「……そう。みんなは勇ましい話だと言うけれど、私には違った話にしか見えなかった。その時に思ったのです。私が、彼を救ってあげたいと。[lr]",
+      "Pt-br": "\"...Todo mundo disse que era uma história de valor, mas eu não conseguia ver assim. Foi então que comecei a pensar que queria salvá-lo.[lr]",
+      "id": 343,
+      "epk_id": "22643",
+      "label": "$$$message_0177_0088_0000$$$"
+    },
+    {
+      "en": "...It's not as if I could actually do anything, but I wished that it could be so.\"",
+      "jp": "　……何もできない私だけど、もし許されるのなら、彼を救いたいと願ってもいいのでしょうか、と」",
+      "Pt-br": "...Não é como se eu pudesse fazer alguma coisa, mas desejei que fosse assim.\"",
+      "id": 344,
+      "epk_id": "22644",
+      "label": "$$$message_0177_0088_0001$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「……………………」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 345,
+      "epk_id": "22645",
+      "label": "$$$message_0177_0089_0000$$$"
+    },
+    {
+      "en": "Generally, humans have an urge to save things, and most of 'em like that idea.[lr]",
+      "jp": "　[ruby text=あまね]遍く公平に、人間には“何かを救いたい”という欲求が存在し、容認されている。[lr]",
+      "Pt-br": "Geralmente, os humanos têm um desejo de salvar coisas, e a maioria gosta da ideia.[lr]",
+      "id": 346,
+      "epk_id": "22646",
+      "label": "$$$message_0177_0089_0001$$$"
+    },
+    {
+      "en": "Even I harbor similar feelings.[lr]",
+      "jp": "　なにしろこのオレにすらある。[lr]",
+      "Pt-br": "Mesmo eu tenho sentimentos semelhantes.[lr]",
+      "id": 347,
+      "epk_id": "22647",
+      "label": "$$$message_0177_0089_0002$$$"
+    },
+    {
+      "en": "No matter what form that desire takes, you can't blame her for at least feeling that way.[lr]",
+      "jp": "　どのように救うかは別にしても、それが願望である内は誰に咎められる事でもない。[lr]",
+      "Pt-br": "Não importa em que forma esse desejo se manifeste, você não pode culpá-la por ao menos sentir assim.[lr]",
+      "id": 348,
+      "epk_id": "22648",
+      "label": "$$$message_0177_0089_0003$$$"
+    },
+    {
+      "en": "However...",
+      "jp": "　だが、",
+      "Pt-br": "No entanto...",
+      "id": 349,
+      "epk_id": "22649",
+      "label": "$$$message_0177_0089_0004$$$"
+    },
+    {
+      "en": "                                     [font italic=true]Am I really allowed to wish for that?[font italic=false]",
+      "jp": "　　　　救いたいと、願ってもいいのでしょうか。",
+      "Pt-br": "                                     [font italic=true]Será que tenho mesmo permissão para desejar isso?[font italic=false]",
+      "id": 350,
+      "epk_id": "22650",
+      "label": "$$$message_0177_0090_0000$$$"
+    },
+    {
+      "en": "The answer might be clear to the rest of us, but it wasn't for that little girl.[lr]",
+      "jp": "　その当たり前を、幼い少女は持っていなかった。[lr]",
+      "Pt-br": "A resposta pode estar clara para o resto de nós, mas não estava para aquela menina.[lr]",
+      "id": 351,
+      "epk_id": "22651",
+      "label": "$$$message_0177_0091_0000$$$"
+    },
+    {
+      "en": "Bazett wished for something that anyone could do.[lr]",
+      "jp": "　誰にでも出来る事を『願い』にしたバゼット。[lr]",
+      "Pt-br": "Bazett desejou algo que qualquer um poderia fazer.[lr]",
+      "id": 352,
+      "epk_id": "22652",
+      "label": "$$$message_0177_0091_0001$$$"
+    },
+    {
+      "en": "She wanted to save a hero from a fairy tale, the only person she ever acknowledged.[lr]",
+      "jp": "　そんな少女に唯一認められた、おとぎ話の英雄さま。[lr]",
+      "Pt-br": "Ela queria salvar um herói de uma fábula, a única pessoa que alguma vez reconheceu.[lr]",
+      "id": 353,
+      "epk_id": "22653",
+      "label": "$$$message_0177_0091_0002$$$"
+    },
+    {
+      "en": "\"...Ha.\"[lr]",
+      "jp": "「[line len=6]ハ」[lr]",
+      "Pt-br": "\"...Ha.\"[lr]",
+      "id": 354,
+      "epk_id": "22654",
+      "label": "$$$message_0177_0091_0003$$$"
+    },
+    {
+      "en": "No \"whatever\" from me this time.[lr]",
+      "jp": "　まあいいけど、じゃねえや。[lr]",
+      "Pt-br": "Pois bem.[lr]",
+      "id": 355,
+      "epk_id": "22655",
+      "label": "$$$message_0177_0091_0004$$$"
+    },
+    {
+      "en": "[noise opacity=90]Bastard, I'll kill you if I ever see you.[stopnoise]",
+      "jp": "　[noise opacity=90]ヤロウ、今度会ったら殺してやる。[stopnoise]",
+      "Pt-br": "[noise opacity=90]Imbecil, eu te matarei se algum dia te vir de novo.[stopnoise]",
+      "id": 356,
+      "epk_id": "22656",
+      "label": "$$$message_0177_0091_0005$$$"
+    },
+    {
+      "en": "\"Awfully selfless of you. So is that your wish? Seems like a pretty cheap thing to use the Holy Grail on.\"[lr]",
+      "jp": "「欲がないな。それがアンタの望みってワケ？　聖杯もずいぶん安く使われるもんだ」[lr]",
+      "Pt-br": "\"Que altruísta da sua parte. Então esse é o seu desejo? Parece um uso bem banal para o Santo Graal.\"[lr]",
+      "id": 357,
+      "epk_id": "22657",
+      "label": "$$$message_0177_0092_0000$$$"
+    },
+    {
+      "en": "I snicker.[lr]",
+      "jp": "　ケラケラと笑う。[lr]",
+      "Pt-br": "Riso.[lr]",
+      "id": 358,
+      "epk_id": "22658",
+      "label": "$$$message_0177_0092_0001$$$"
+    },
+    {
+      "en": "It's pretty funny, actually. Like pitting two fairy tales against each other.",
+      "jp": "　実際なかなか面白い。[ruby text=おとぎ char=2]英雄話には[ruby text=おとぎ char=2]聖杯話で対抗なのだ。",
+      "Pt-br": "É até engraçado, na verdade. Como colocar dois contos de fadas um contra o outro.",
+      "id": 359,
+      "epk_id": "22659",
+      "label": "$$$message_0177_0092_0002$$$"
+    },
+    {
+      "en": "\"I-I told you, that was just while I was a child. I was only saying that's the Heroic Spirit I would choose to summon now.[lr]",
+      "jp": "「だ、だからそれは子供の頃の話です。今のは英霊を召喚するとしたら誰を選ぶか、という話でしょう。[lr]",
+      "Pt-br": "\"Eu te disse, aquilo foi só quando eu era criança. Eu estava apenas dizendo que é o Espírito Heroico que eu escolheria invocar agora.[lr]",
+      "id": 360,
+      "epk_id": "22660",
+      "label": "$$$message_0177_0093_0000$$$"
+    },
+    {
+      "en": "It would be my motive for summoning him, if I had a catalyst that could call him forth.\"[lr]",
+      "jp": "　もし[ruby text=か]彼の英雄を呼び出せる触媒があったのなら、私には召喚する動機があった、という話です」[lr]",
+      "Pt-br": "Seria o meu motivo para invocá-lo, se eu tivesse um catalisador que pudesse chamá-lo.\"[lr]",
+      "id": 361,
+      "epk_id": "22661",
+      "label": "$$$message_0177_0093_0001$$$"
+    },
+    {
+      "en": "\"Hahaha. But you got a punk like me, instead. You've got rotten luck with men, Master!\"",
+      "jp": "「ははは。でも結局、呼び出したのはオレみたいなハンパ者だったワケだ。マスターも男運ねえなあ！」",
+      "Pt-br": "\"Hahaha. Mas você recebeu um punk como eu, em vez disso. Você tem azar com homens, Mestre!\"",
+      "id": 362,
+      "epk_id": "22662",
+      "label": "$$$message_0177_0093_0002$$$"
+    },
+    {
+      "en": "I cackle.[lr]",
+      "jp": "　ゲラゲラ笑う。[lr]",
+      "Pt-br": "Eu rio debochado.[lr]",
+      "id": 363,
+      "epk_id": "22663",
+      "label": "$$$message_0177_0094_0000$$$"
+    },
+    {
+      "en": "Seriously, she's one unlucky lady.",
+      "jp": "　ホント、コイツ男運なさすぎ。",
+      "Pt-br": "Serio, ela é uma senhora muito azarada.",
+      "id": 364,
+      "epk_id": "22664",
+      "label": "$$$message_0177_0094_0001$$$"
+    },
+    {
+      "en": "\"Avenger. My desire is to secure the Holy Grail and bring it back to the Mage's Association. I have no wish to use on the Grail itself.\"[lr]",
+      "jp": "「アヴェンジャー。今の私の望みは聖杯を確保し、魔術協会に持ち帰る事です。私自身、聖杯にかける願いなどありません」[lr]",
+      "Pt-br": "\"Avenger. Meu desejo é garantir o Santo Graal e trazê-lo de volta à Associação de Magos. Não tenho vontade de usá-lo em si mesmo.\"[lr]",
+      "id": 365,
+      "epk_id": "22665",
+      "label": "$$$message_0177_0095_0000$$$"
+    },
+    {
+      "en": "\"I know. You aren't cunning enough for that.\"[lr]",
+      "jp": "「知ってるよ。アンタ、そこまで器用な人間じゃないからな」[lr]",
+      "Pt-br": "\"Eu sei. Você não é esperto o suficiente para isso.\"[lr]",
+      "id": 366,
+      "epk_id": "22666",
+      "label": "$$$message_0177_0095_0001$$$"
+    },
+    {
+      "en": "You can't wish for what doesn't exist, anyway.[lr]",
+      "jp": "　なにしろ、無いものはかけられない。[lr]",
+      "Pt-br": "Você não pode desejar o que não existe, de qualquer forma.[lr]",
+      "id": 367,
+      "epk_id": "22667",
+      "label": "$$$message_0177_0095_0002$$$"
+    },
+    {
+      "en": "Zero times anything is still zero.",
+      "jp": "　ゼロには何をかけてもゼロだ。",
+      "Pt-br": "Zero vezes qualquer coisa continua zero.",
+      "id": 368,
+      "epk_id": "22668",
+      "label": "$$$message_0177_0095_0003$$$"
+    },
+    {
+      "en": "\"...Now it's your turn, Avenger. I answered your questions. Tell me what your wish is.\"[lr]",
+      "jp": "「……。次は貴方の番よアヴェンジャー。私が答えたのだから教えなさい。貴方の望みは何なのです」[lr]",
+      "Pt-br": "\"...Agora é a sua vez, Avenger. Respondi às suas perguntas. Diga-me qual é seu desejo.\"[lr]",
+      "id": 369,
+      "epk_id": "22669",
+      "label": "$$$message_0177_0096_0000$$$"
+    },
+    {
+      "en": "\"Eh?\"[lr]",
+      "jp": "「へ？」[lr]",
+      "Pt-br": "\"Eh?\"[lr]",
+      "id": 370,
+      "epk_id": "22670",
+      "label": "$$$message_0177_0096_0001$$$"
+    },
+    {
+      "en": "Damn, she turned the tables on me.[lr]",
+      "jp": "　困った、形勢逆転だ。[lr]",
+      "Pt-br": "Maldição, ela virou a mesa contra mim.[lr]",
+      "id": 371,
+      "epk_id": "22671",
+      "label": "$$$message_0177_0096_0002$$$"
+    },
+    {
+      "en": "The truth is, I don't have a wish for the Holy Grail, just like my Master.[lr]",
+      "jp": "　実はマスター同様、オレも聖杯にかけるような願いはない。[lr]",
+      "Pt-br": "A verdade é que eu não tenho um desejo pelo Santo Graal, assim como meu Mestre.[lr]",
+      "id": 372,
+      "epk_id": "22672",
+      "label": "$$$message_0177_0096_0003$$$"
+    },
+    {
+      "en": "I think it's a little tragic that there's only one thing I'm obsessed with right now.",
+      "jp": "　いま自発的に夢中になっているモノなんて、悲しいかな一つだけだ。",
+      "Pt-br": "Acho triste que só haja uma coisa em que estou obcecado no momento.",
+      "id": 373,
+      "epk_id": "22673",
+      "label": "$$$message_0177_0096_0004$$$"
+    },
+    {
+      "en": "\"My wish?[lr]",
+      "jp": "「オレの望み？[lr]",
+      "Pt-br": "\"Meu desejo?[lr]",
+      "id": 374,
+      "epk_id": "22674",
+      "label": "$$$message_0177_0097_0000$$$"
+    },
+    {
+      "en": "Hmm, if I had to say, I guess I want to finish a picture.\"[lr]",
+      "jp": "　んー、しいて言うと絵を完成させたいってところか」[lr]",
+      "Pt-br": "Hmm, se tivesse que dizer, acho que quero terminar um desenho.\"[lr]",
+      "id": 375,
+      "epk_id": "22675",
+      "label": "$$$message_0177_0097_0001$$$"
+    },
+    {
+      "en": "Heh heh. Her face says she has no idea what I'm talking about.[lr]",
+      "jp": "　ケケケ、なんのコトだか分からないって顔してやがる。[lr]",
+      "Pt-br": "Heh heh. Sua cara diz que ela não tem a mínima ideia do que estou falando.[lr]",
+      "id": 376,
+      "epk_id": "22676",
+      "label": "$$$message_0177_0097_0002$$$"
+    },
+    {
+      "en": "After this, when we go back to the hideout and she finds the unfinished sliding puzzle I'm working on, she'll get pissed off and tell me to answer the question.",
+      "jp": "　この後、隠れ家に帰ってやりかけのパズルを発見され、もっと真面目に答えなさい、と激怒されるオレであった。",
+      "Pt-br": "Depois disso, quando voltarmos para o esconderijo e ela encontrar o quebra-cabeça desmontado que estou trabalhando, ela vai se meter e me pedir para responder à pergunta.",
+      "id": 377,
+      "epk_id": "22677",
+      "label": "$$$message_0177_0097_0003$$$"
+    },
+    {
+      "en": "\"...Wait. Did you feel that wave of strong magical energy?\"[lr]",
+      "jp": "「[line len=3]待って。いま、強い魔力を感じなかった？」[lr]",
+      "Pt-br": "\"...Espere. Você sentiu aquela onda de energia mágica forte?\"[lr]",
+      "id": 378,
+      "epk_id": "22678",
+      "label": "$$$message_0177_0098_0000$$$"
+    },
+    {
+      "en": "\"Sorry, I can't detect magical energy. But I saw where it came from. Something just lit up on top of that building.\"[lr]",
+      "jp": "「わりぃ、魔力感知なんざ持ってない。けど発信源なら見たぜ。あのビルの屋上で何か光った」[lr]",
+      "Pt-br": "\"Desculpe, não consigo detectar energia mágica. Mas vi de onde veio. Algo acaba de acender-se no topo dessa construção.\"[lr]",
+      "id": 379,
+      "epk_id": "22679",
+      "label": "$$$message_0177_0098_0001$$$"
+    },
+    {
+      "en": "Bazett reacts quickly.[lr]",
+      "jp": "　バゼットの反応は早い。[lr]",
+      "Pt-br": "Bazett reage rapidamente.[lr]",
+      "id": 380,
+      "epk_id": "22680",
+      "label": "$$$message_0177_0098_0002$$$"
+    },
+    {
+      "en": "She shoulders the pack that was resting at her feet, tells me to keep up, and starts running for the Center Building.",
+      "jp": "　足下に転がしたラックを背負い、付いてきなさい、の一言もなしでセンタービルへ走り出した。",
+      "Pt-br": "Ela assume o saco que estava descansando aos seus pés, me diz para acompanhar e começa a correr em direção ao Prédio Central.",
+      "id": 381,
+      "epk_id": "22681",
+      "label": "$$$message_0177_0098_0003$$$"
+    },
+    {
+      "en": "I follow her dutifully.[lr]",
+      "jp": "　律儀にバゼットを追いかける。[lr]",
+      "Pt-br": "Segui-a fielmente.[lr]",
+      "id": 382,
+      "epk_id": "22682",
+      "label": "$$$message_0177_0099_0000$$$"
+    },
+    {
+      "en": "Still...[lr]",
+      "jp": "　……しかし。[lr]",
+      "Pt-br": "Ainda...[lr]",
+      "id": 383,
+      "epk_id": "22683",
+      "label": "$$$message_0177_0099_0001$$$"
+    },
+    {
+      "en": "I'm a little curious.[lr]",
+      "jp": "　やっぱり気になる、なんだアレ。[lr]",
+      "Pt-br": "Estou um pouco curioso.[lr]",
+      "id": 384,
+      "epk_id": "22684",
+      "label": "$$$message_0177_0099_0002$$$"
+    },
+    {
+      "en": "I wanna know what that tube on her back is.[lr]",
+      "jp": "　バゼットは筒を背負っている。[lr]",
+      "Pt-br": "Quero saber o que é esse tubo na costas dela.[lr]",
+      "id": 385,
+      "epk_id": "22685",
+      "label": "$$$message_0177_0099_0003$$$"
+    },
+    {
+      "en": "It's gotta have some kinda weapon, but she tossed it on the ground and didn't use it during the fight earlier.[lr]",
+      "jp": "　てっきり武器が入っているのかと思ったが、さっきの乱戦では足下に捨てて立ち振る舞っていた。[lr]",
+      "Pt-br": "Tem que ter algum tipo de arma, mas ela jogou no chão e não usou durante a luta anterior.[lr]",
+      "id": 386,
+      "epk_id": "22686",
+      "label": "$$$message_0177_0099_0004$$$"
+    },
+    {
+      "en": "You can't blame me for being curious after seeing her pick it back up.",
+      "jp": "　あんな面白げな荷物、目の前で背負われたら気になって仕方がない。",
+      "Pt-br": "Você não pode me culpar por estar curioso depois de vê-la pegar de volta.",
+      "id": 387,
+      "epk_id": "22687",
+      "label": "$$$message_0177_0099_0005$$$"
+    },
+    {
+      "en": "\"Hey, what's that?\"[lr]",
+      "jp": "「ねー、それなに」[lr]",
+      "Pt-br": "\"Ei, o que é isso?\"[lr]",
+      "id": 388,
+      "epk_id": "22688",
+      "label": "$$$message_0177_0100_0000$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「…………」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 389,
+      "epk_id": "22689",
+      "label": "$$$message_0177_0100_0001$$$"
+    },
+    {
+      "en": "Bazett searches for a back entrance to the building. She looks very tense.[lr]",
+      "jp": "　ビルの裏口を探すバゼット。見た目、とても緊迫している。[lr]",
+      "Pt-br": "Bazett procura por uma entrada de serviço no prédio. Ela parece muito tensa.[lr]",
+      "id": 390,
+      "epk_id": "22690",
+      "label": "$$$message_0177_0100_0002$$$"
+    },
+    {
+      "en": "\"Hey, hey. What's that you're carrying?\"[lr]",
+      "jp": "「ねーねー。それなんなんだよー」[lr]",
+      "Pt-br": "\"Ei, ei. O que é que você está carregando?\"[lr]",
+      "id": 391,
+      "epk_id": "22691",
+      "label": "$$$message_0177_0100_0003$$$"
+    },
+    {
+      "en": "I pester her just as tenaciously.[lr]",
+      "jp": "　こっちも執拗に訊いてみる。[lr]",
+      "Pt-br": "Eu a importuno tão tenaciously.[lr]",
+      "id": 392,
+      "epk_id": "22692",
+      "label": "$$$message_0177_0100_0004$$$"
+    },
+    {
+      "en": "\"...Haah.\"[lr]",
+      "jp": "「[line len=6]はあ」[lr]",
+      "Pt-br": "\"...Haaah.\"[lr]",
+      "id": 393,
+      "epk_id": "22693",
+      "label": "$$$message_0177_0100_0005$$$"
+    },
+    {
+      "en": "Maybe it worked, because she stops and shows me the tube.",
+      "jp": "　誠意が通じたのか、足を止めて荷物を見せてくれるバゼット。",
+      "Pt-br": "Talvez tenha funcionado, porque ela para e me mostra o tubo.",
+      "id": 394,
+      "epk_id": "22694",
+      "label": "$$$message_0177_0100_0006$$$"
+    },
+    {
+      "en": "I examine it for about one minute.[lr]",
+      "jp": "　観察時間、約一分。[lr]",
+      "Pt-br": "Examo-lo por cerca de um minuto.[lr]",
+      "id": 395,
+      "epk_id": "22695",
+      "label": "$$$message_0177_0101_0000$$$"
+    },
+    {
+      "en": "After waiting for me to get a good look, she says,[lr]",
+      "jp": "　バゼットはこちらに筒を見せたあと、[lr]",
+      "Pt-br": "Depois de me deixar observar com calma, ela diz,[lr]",
+      "id": 396,
+      "epk_id": "22696",
+      "label": "$$$message_0177_0101_0001$$$"
+    },
+    {
+      "en": "\"So? Do you know now?\"[lr]",
+      "jp": "「どう、判った？」[lr]",
+      "Pt-br": "\"Entendeu?\"[lr]",
+      "id": 397,
+      "epk_id": "22697",
+      "label": "$$$message_0177_0101_0002$$$"
+    },
+    {
+      "en": "\"Yeah, got it. There's probably a tea set in there.\"[lr]",
+      "jp": "「ああ、わかった。たぶんティーセットが入ってる」[lr]",
+      "Pt-br": "\"Sim, entendi. Provavelmente tem um conjunto de chá lá dentro.\"[lr]",
+      "id": 398,
+      "epk_id": "22698",
+      "label": "$$$message_0177_0101_0003$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「…………………………」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 399,
+      "epk_id": "22699",
+      "label": "$$$message_0177_0101_0004$$$"
+    },
+    {
+      "en": "Oh, she mad.[lr]",
+      "jp": "　あ、怒った。[lr]",
+      "Pt-br": "Ah, ela está braba.[lr]",
+      "id": 400,
+      "epk_id": "22700",
+      "label": "$$$message_0177_0101_0005$$$"
+    },
+    {
+      "en": "Bazett's brow furrows, and she reluctantly removes a lid from the cylinder.",
+      "jp": "　バゼットは眉間に皺を寄せて、不本意そうに筒のフタを開ける。",
+      "Pt-br": "A testa de Bazett se fratura, e ela remove com relutância a tampa do cilindro.",
+      "id": 401,
+      "epk_id": "22701",
+      "label": "$$$message_0177_0101_0006$$$"
+    },
+    {
+      "en": "Balls roll out of it.[lr]",
+      "jp": "　ごろん、と転がり出る玉。[lr]",
+      "Pt-br": "Bolas rolam para fora dele.[lr]",
+      "id": 402,
+      "epk_id": "22702",
+      "label": "$$$message_0177_0102_0000$$$"
+    },
+    {
+      "en": "They're about as big and heavy as shot put balls. The tube looks like it could fit up to five, but there's only three inside.",
+      "jp": "　大きさ的には陸上競技の砲丸ぐらい。重さも同じぐらいだろう。最大五つ入るらしいが、今は三つしか入ってないそうだ。",
+      "Pt-br": "Eles são tão grandes e pesados quanto bolas de halterofilismo. O tubo parece caber até cinco, mas só há três dentro.",
+      "id": 403,
+      "epk_id": "22703",
+      "label": "$$$message_0177_0102_0001$$$"
+    },
+    {
+      "en": "I see. Now I understand everything.[lr]",
+      "jp": "　なるほど、こうして中身を見せてもらえばハッキリする。[lr]",
+      "Pt-br": "Entendi. Agora entendo tudo.[lr]",
+      "id": 404,
+      "epk_id": "22704",
+      "label": "$$$message_0177_0103_0000$$$"
+    },
+    {
+      "en": "Bazett Fraga McRemitz is someone to be feared, if she's carrying [font italic=true]these[font italic=false] things around.[lr]",
+      "jp": "　まさかこんな品物を背負っていたとは、恐るべしバゼット・フラガ・マクレミッツ。[lr]",
+      "Pt-br": "Bazett Fraga McRemitz é alguém a ser temida, se ela estiver carregando [font italic=true]essas[font italic=false] coisas por aí.[lr]",
+      "id": 405,
+      "epk_id": "22705",
+      "label": "$$$message_0177_0103_0001$$$"
+    },
+    {
+      "en": "By the way,[lr]",
+      "jp": "　ところで。[lr]",
+      "Pt-br": "Pois bem,[lr]",
+      "id": 406,
+      "epk_id": "22706",
+      "label": "$$$message_0177_0103_0002$$$"
+    },
+    {
+      "en": "\"What are these?\"[lr]",
+      "jp": "「なにこれ？」[lr]",
+      "Pt-br": "\"O que são essas?\"[lr]",
+      "id": 407,
+      "epk_id": "22707",
+      "label": "$$$message_0177_0103_0003$$$"
+    },
+    {
+      "en": "The mystery only deepens.",
+      "jp": "　謎はますます深まったのであった。",
+      "Pt-br": "O mistério só se aprofunda.",
+      "id": 408,
+      "epk_id": "22708",
+      "label": "$$$message_0177_0103_0004$$$"
+    },
+    {
+      "en": "\"I won't explain it to you. I just wanted you to know that it isn't a tea set.\"[lr]",
+      "jp": "「貴方には説明しません。少なくとも、ティーセットでない事は確認していただけたかと」[lr]",
+      "Pt-br": "\"Eu não vou explicar pra você. Só queria que você soubesse que não é um conjunto de chá.\"[lr]",
+      "id": 409,
+      "epk_id": "22709",
+      "label": "$$$message_0177_0104_0000$$$"
+    },
+    {
+      "en": "She puts the balls back into the tube and shoulders it again.[lr]",
+      "jp": "　球体を仕舞って背負いなおすバゼット。[lr]",
+      "Pt-br": "Ela coloca as bolas de volta no tubo e o pega novamente.[lr]",
+      "id": 410,
+      "epk_id": "22710",
+      "label": "$$$message_0177_0104_0001$$$"
+    },
+    {
+      "en": "Probably doesn't wanna put all her cards on the table with someone she doesn't trust.[lr]",
+      "jp": "　信用できない相手に切り札は教えない、という事だろう。[lr]",
+      "Pt-br": "Provavelmente não quer colocar todas as suas cartas na mesa com alguém que não confia.[lr]",
+      "id": 411,
+      "epk_id": "22711",
+      "label": "$$$message_0177_0104_0002$$$"
+    },
+    {
+      "en": "That's fine.",
+      "jp": "　それはともかく。",
+      "Pt-br": "Isso está certo.",
+      "id": 412,
+      "epk_id": "22712",
+      "label": "$$$message_0177_0104_0003$$$"
+    },
+    {
+      "en": "\"You're pretty brawny. What, are your shoulder muscles strong because your boobs are so heavy? Man, it's such a waste since you don't flaunt whatcha got.\"[cacheimage storage=バゼット02d(遠)][wvs][fg opacity=0 textoff=0 left=234 index=2000 top=83 time=100 storage=バゼット02d(遠)][lr]",
+      "jp": "「力持ちだな。なに、胸が重いぶん肩に負担かかって筋肉あるとか？　使いもしねえクセに無駄にでかいもんな、アンタの」[cacheimage storage=バゼット02d(遠)][wvs][fg opacity=0 textoff=0 left=234 index=2000 top=83 time=100 storage=バゼット02d(遠)][lr]",
+      "Pt-br": "\"Você é bem musculoso. Achei que fosse porque os seios são pesados, hein? Que desperdício, já que não exibe o que tem.\"[cacheimage storage=バゼット02d(遠)][wvs][fg opacity=0 textoff=0 left=234 index=2000 top=83 time=100 storage=バゼット02d(遠)][lr]",
+      "id": 413,
+      "epk_id": "22713",
+      "label": "$$$message_0177_0105_0000$$$"
+    },
+    {
+      "en": "I state the objective facts, with my well-honed eye for beauty.[lr]",
+      "jp": "　研ぎ澄まされた観察眼をもって、客観的真実を述べる。[lr]",
+      "Pt-br": "Eu declaro os fatos objetivos, com meu olhar bem afinado para a beleza.[lr]",
+      "id": 414,
+      "epk_id": "22714",
+      "label": "$$$message_0177_0105_0001$$$"
+    },
+    {
+      "en": "Bazett skids to a halt, and slowly turns around like a rusty mechanical doll.[wm canskip=0]",
+      "jp": "　バゼットはピタリと止まった後、錆びた人形のようにゆっくりと振り向いて、[wm canskip=0]",
+      "Pt-br": "Bazett freia bruscamente e se vira lentamente, como uma boneca mecânica enferrujada.[wm canskip=0]",
+      "id": 415,
+      "epk_id": "22715",
+      "label": "$$$message_0177_0105_0002$$$"
+    },
+    {
+      "en": "\"...How delightful. Your rapier wit can be so bold that it makes me want to kill someone.\"[lr]",
+      "jp": "「[line len=3]微笑ましい。貴方の洒脱さは、時に殺意を覚えるほど的確で勇敢だ」[lr]",
+      "Pt-br": "\"...Que delicioso. Sua agudeza pode ser tão ousada que me faz querer matar alguém.\"[lr]",
+      "id": 416,
+      "epk_id": "22716",
+      "label": "$$$message_0177_0106_0000$$$"
+    },
+    {
+      "en": "I like the edge in her voice.[lr]",
+      "jp": "　いい緊張感だ。[lr]",
+      "Pt-br": "Gosto da veia que tem na sua voz.[lr]",
+      "id": 417,
+      "epk_id": "22717",
+      "label": "$$$message_0177_0106_0001$$$"
+    },
+    {
+      "en": "This is how a Master and Servant should be.[lr]",
+      "jp": "　マスターとサーヴァントはこうでなくてはいけない。[lr]",
+      "Pt-br": "Assim deveria ser um Mestre e um Servo.[lr]",
+      "id": 418,
+      "epk_id": "22718",
+      "label": "$$$message_0177_0106_0002$$$"
+    },
+    {
+      "en": "Her tension practically spells out how she's going to murder me if we survive the night.",
+      "jp": "　この緊縛感、どうせ生き返るからってそのうちオレを殺しかねない殺意なのであった。",
+      "Pt-br": "A tensão dela quase escreve como ela vai me matar se sobrevivermos à noite.",
+      "id": 419,
+      "epk_id": "22719",
+      "label": "$$$message_0177_0106_0003$$$"
+    },
+    {
+      "en": "There's nobody on the rooftop.[lr]",
+      "jp": "　ビルの屋上には誰もいない。[lr]",
+      "Pt-br": "Não há ninguém no telhado.[lr]",
+      "id": 420,
+      "epk_id": "22720",
+      "label": "$$$message_0177_0107_0000$$$"
+    },
+    {
+      "en": "We take in the howling wind.",
+      "jp": "　強い風の音だけがオレたちを迎え入れる。",
+      "Pt-br": "A gente absorve o vento que rugia.",
+      "id": 421,
+      "epk_id": "22721",
+      "label": "$$$message_0177_0107_0001$$$"
+    },
+    {
+      "en": "\"...We're too late. There are clear signs that someone was here, but it won't be possible to locate them on foot.\"[lr]",
+      "jp": "「……遅かったか。確かに何者かがいた痕跡はありますが、ここから足取りを探るのは不可能だ」[lr]",
+      "Pt-br": "\"...Estamos atrasados. Há sinais claros de que alguém esteve aqui, mas não será possível localizá-los a pé.\"[lr]",
+      "id": 422,
+      "epk_id": "22722",
+      "label": "$$$message_0177_0108_0000$$$"
+    },
+    {
+      "en": "Bazett walks to the edge and looks down, looking for clues.",
+      "jp": "　何か思うところがあるのか、バゼットは屋上の端から町を見下ろしている。",
+      "Pt-br": "Bazett caminha até a beira e olha para baixo, procurando pistas.",
+      "id": 423,
+      "epk_id": "22723",
+      "label": "$$$message_0177_0108_0001$$$"
+    },
+    {
+      "en": "As for me...[lr]",
+      "jp": "　オレはと言うと、[lr]",
+      "Pt-br": "E quanto a mim...[lr]",
+      "id": 424,
+      "epk_id": "22724",
+      "label": "$$$message_0177_0109_0000$$$"
+    },
+    {
+      "en": "I rub out the bloodstains on the ground with my feet.",
+      "jp": "　地面に残った血の跡を、げしげしと足で消したりしている。",
+      "Pt-br": "Eu apago as manchas de sangue no chão com os pés.",
+      "id": 425,
+      "epk_id": "22725",
+      "label": "$$$message_0177_0109_0001$$$"
+    },
+    {
+      "en": "This is the highest vantage point in Shinto.[lr]",
+      "jp": "　ここは新都で一番高い場所。[lr]",
+      "Pt-br": "Este é o ponto mais alto no Shinto.[lr]",
+      "id": 426,
+      "epk_id": "22726",
+      "label": "$$$message_0177_0110_0000$$$"
+    },
+    {
+      "en": "The moon seems closer here, so much so that it feels like you could reach it with a ladder or a set of stairs.",
+      "jp": "　月は幾らか低く、ハシゴか階段でもあれば手が届きそうだ。",
+      "Pt-br": "A Lua parece mais perto aqui, tanto que dá a impressão de que você poderia alcançá-la com uma escada ou um conjunto de degraus.",
+      "id": 427,
+      "epk_id": "22727",
+      "label": "$$$message_0177_0110_0001$$$"
+    },
+    {
+      "en": "The city is mostly empty by now, but is still lit up.[lr]",
+      "jp": "　もうほとんどの人間はいなくなったというのに、町の明かりは途絶えない。[lr]",
+      "Pt-br": "A cidade está quase vazia agora, mas ainda está iluminada.[lr]",
+      "id": 428,
+      "epk_id": "22728",
+      "label": "$$$message_0177_0111_0000$$$"
+    },
+    {
+      "en": "I gaze out at the dazzling indicator of prosperity.[lr]",
+      "jp": "　煌びやかな、繁栄に埋もれた営みを眺める。[lr]",
+      "Pt-br": "Olho para o indicador brilhante de prosperidade.[lr]",
+      "id": 429,
+      "epk_id": "22729",
+      "label": "$$$message_0177_0111_0001$$$"
+    },
+    {
+      "en": "   This won't be boring, no.[lr]",
+      "jp": "　[line len=3]退屈はしない。[lr]",
+      "Pt-br": "Isso não vai ser chato, não.[lr]",
+      "id": 430,
+      "epk_id": "22730",
+      "label": "$$$message_0177_0111_0002$$$"
+    },
+    {
+      "en": "It's nothing special, but I have nothing bad to say about this vista.",
+      "jp": "　特別感じ入るものはあってはならないが、とりあえず、この風景に罪はない。",
+      "Pt-br": "Não é nada especial, mas não tenho nada de ruim para dizer sobre essa vista.",
+      "id": 431,
+      "epk_id": "22731",
+      "label": "$$$message_0177_0111_0003$$$"
+    },
+    {
+      "en": "\"...Avenger.\"[lr]",
+      "jp": "「[line len=4]アヴェンジャー」[lr]",
+      "Pt-br": "\"...Avinger.\"[lr]",
+      "id": 432,
+      "epk_id": "22732",
+      "label": "$$$message_0177_0112_0000$$$"
+    },
+    {
+      "en": "Her voice cuts through the night.[lr]",
+      "jp": "　ふと。[lr]",
+      "Pt-br": "A voz dela corta a noite.[lr]",
+      "id": 433,
+      "epk_id": "22733",
+      "label": "$$$message_0177_0112_0001$$$"
+    },
+    {
+      "en": "Bazett walks up next to me.",
+      "jp": "　隣りに、バゼットがやってきていた。",
+      "Pt-br": "Bazett caminha até ao meu lado.",
+      "id": 434,
+      "epk_id": "22734",
+      "label": "$$$message_0177_0112_0002$$$"
+    },
+    {
+      "en": "\"What? Find anything useful?\"[lr]",
+      "jp": "「なんだよ。なにかイイモノでも見つけたのか」[lr]",
+      "Pt-br": "\"O que? Encontrou algo útil?\"[lr]",
+      "id": 435,
+      "epk_id": "22735",
+      "label": "$$$message_0177_0113_0000$$$"
+    },
+    {
+      "en": "\"I just identified several more monsters. I think I can spot any familiars in Shinto with the naked eye from here.\"[lr]",
+      "jp": "「先ほどの怪物を何体か確認しました。この場所からなら、新都にいる使い魔は肉眼で発見できそうです」[lr]",
+      "Pt-br": "\"Acabei de identificar vários monstros a mais. Acho que consigo reconhecer qualquer familiar shinto com os olhos nus a partir daqui.\"[lr]",
+      "id": 436,
+      "epk_id": "22736",
+      "label": "$$$message_0177_0113_0001$$$"
+    },
+    {
+      "en": "She gives me a meaningful glance.[lr]",
+      "jp": "　思い詰めた目をしている。[lr]",
+      "Pt-br": "Ela me dá um olhar significativo.[lr]",
+      "id": 437,
+      "epk_id": "22737",
+      "label": "$$$message_0177_0113_0002$$$"
+    },
+    {
+      "en": "Apparently, she was watching the monsters roaming the city, not taking in the sights.",
+      "jp": "　町を眺めていたのではなく、新都を徘徊する怪物たちを睨んでいたらしい。",
+      "Pt-br": "Aparentemente, ela estava observando os monstros que se moviam pela cidade, sem se distrair com a paisagem.",
+      "id": 438,
+      "epk_id": "22738",
+      "label": "$$$message_0177_0113_0003$$$"
+    },
+    {
+      "en": "\"So what? Are you going to stake them out from up here and try to find their master?\"[lr]",
+      "jp": "「それがなに？　ここで一晩中観察して、使い魔の主人を捜してみるとか？」[lr]",
+      "Pt-br": "\"E então? Vai ficar observando daqui de cima para tentar encontrar o Mestre deles?\"[lr]",
+      "id": 439,
+      "epk_id": "22739",
+      "label": "$$$message_0177_0114_0000$$$"
+    },
+    {
+      "en": "\"Realistically, no. The familiars are expendable. They won't return to their owner, so we won't be able to find their home base from here.\"[lr]",
+      "jp": "「現実的ではありませんね。使[ruby text=ア]い魔[ruby text=レ]たちは使い捨てのようだ。主人の下には戻りませんから、ここで監視したところで本拠地は割り出せない」[lr]",
+      "Pt-br": "\"Realisticamente, não. Os familiars são dispensáveis. Eles não retornarão ao seu dono, então não conseguiremos encontrar sua base a partir daqui.\"[lr]",
+      "id": 440,
+      "epk_id": "22740",
+      "label": "$$$message_0177_0114_0001$$$"
+    },
+    {
+      "en": "\"Yeah. Let's not waste time. I'm glad to have such a wise Master. But if you're saying that...\"",
+      "jp": "「だろうな。無駄なコトはしないにかぎる。マスターが賢明で助かった。けど、そのもの言いだと、アンタさ」",
+      "Pt-br": "\"Sim. Vamos deixar de perder tempo. Estou feliz em ter um Mestre tão sábio. Mas se você está dizendo isso...\"",
+      "id": 441,
+      "epk_id": "22741",
+      "label": "$$$message_0177_0114_0002$$$"
+    },
+    {
+      "en": "\"Avenger, I want to purge the city of those monsters.[lr]",
+      "jp": "「アヴェンジャー。私はあの怪物たちを一掃したい。[lr]",
+      "Pt-br": "\"Avenger, quero purgar a cidade desses monstros.[lr]",
+      "id": 442,
+      "epk_id": "22742",
+      "label": "$$$message_0177_0115_0000$$$"
+    },
+    {
+      "en": "I need your help to do that.\"[lr]",
+      "jp": "　その為に、貴方の力を貸しなさい」[lr]",
+      "Pt-br": "Preciso da sua ajuda.\"[lr]",
+      "id": 443,
+      "epk_id": "22743",
+      "label": "$$$message_0177_0115_0001$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「[line len=6]」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 444,
+      "epk_id": "22744",
+      "label": "$$$message_0177_0115_0002$$$"
+    },
+    {
+      "en": "There it is.[lr]",
+      "jp": "　やはりそうきたか。[lr]",
+      "Pt-br": "Lá está.[lr]",
+      "id": 445,
+      "epk_id": "22745",
+      "label": "$$$message_0177_0115_0003$$$"
+    },
+    {
+      "en": "Good god, this is the problem with overachievers.[lr]",
+      "jp": "　まったく、生真面目な優等生はしょうがねえよなあ。[lr]",
+      "Pt-br": "Meu Deus, esse é o problema dos certinhos demais.[lr]",
+      "id": 446,
+      "epk_id": "22746",
+      "label": "$$$message_0177_0115_0004$$$"
+    },
+    {
+      "en": "Makes me want to tear her limb from limb.",
+      "jp": "　たまらず八つ裂きにしたくなっちまう。",
+      "Pt-br": "Me faz querer arrancar seus membros um a um.",
+      "id": 447,
+      "epk_id": "22747",
+      "label": "$$$message_0177_0115_0005$$$"
+    },
+    {
+      "en": "\"It's an easier order to follow than telling me not to involve bystanders. Are you sure, Master? I thought your goal was to win the war.[lr]",
+      "jp": "「一般人を巻き込むな、なんて命令に比べればオレ向きだけどな。いいのかよマスター。アンタ、聖杯戦争に勝つ事が目的なんだろ。[lr]",
+      "Pt-br": "\"É uma ordem mais fácil de cumprir do que me mandar não envolver inocentes. Tem certeza, Mestre? Achei que seu objetivo fosse vencer a guerra.[lr]",
+      "id": 448,
+      "epk_id": "22748",
+      "label": "$$$message_0177_0116_0000$$$"
+    },
+    {
+      "en": "I get that their master is an obstacle. But it doesn't make sense to get rid of them just because they're killing people. First you talk like you're some bad bitch, and now you want to be a goody-two-shoes. Pretty self-serving.\"",
+      "jp": "　連中の主人が邪魔だってんなら分かる。けどヤツラが人間を殺して回ってるから一掃する、なんてのは矛盾している。悪い子でいようと決めたのにいい子でもいたいなんて、そりゃ都合が良すぎるだろ」",
+      "Pt-br": "Entendo que o dono deles é um obstáculo. Mas não faz sentido eliminá-los só porque estão matando gente. Primeiro você fala como uma durona sem escrúpulos, e agora quer bancar a santinha. Bem conveniente.\"",
+      "id": 449,
+      "epk_id": "22749",
+      "label": "$$$message_0177_0116_0001$$$"
+    },
+    {
+      "en": "This time, I don't bother hiding my bloodlust, making it clear that this could turn into a bloodbath.[lr]",
+      "jp": "　さて、オレも敵意を隠してないんで、このまま殺し合いになるのは明白だった。[lr]",
+      "Pt-br": "Desta vez, nem tento esconder minha sede de sangue, deixando claro que aquilo pode virar uma carnificina.[lr]",
+      "id": 450,
+      "epk_id": "22750",
+      "label": "$$$message_0177_0117_0000$$$"
+    },
+    {
+      "en": "I move my hand behind me and summon my favorite dagger.[lr]",
+      "jp": "　手を後ろに回して、愛用の短剣を[ruby text=とり char=3]具現化だす。[lr]",
+      "Pt-br": "Levo a mão para trás e invoco minha adaga favorita.[lr]",
+      "id": 451,
+      "epk_id": "22751",
+      "label": "$$$message_0177_0117_0001$$$"
+    },
+    {
+      "en": "My prediction[line len=2]that we'd end up trying to kill each other at least once[line len=2]looks about to come true. Someone call me a prophet.",
+      "jp": "　さっきの予想……一回ぐらい殺し合っとく……が十分後に実現するなんて予言者になれそうだ。",
+      "Pt-br": "Minha previsão[line len=2]de que acabaríamos tentando nos matar ao menos uma vez[line len=2]parece prestes a se realizar. Alguém me chama de profeta.",
+      "id": 452,
+      "epk_id": "22752",
+      "label": "$$$message_0177_0117_0002$$$"
+    },
+    {
+      "en": "I won't be the one to start it, but I'll answer if she comes at me. That's my style.[lr]",
+      "jp": "　オレから切り出す事はないが、あっちが仕掛けてくるなら応えるのがオレの方針である。[lr]",
+      "Pt-br": "Não vou começar, mas respondo se ela vier para cima de mim. Esse é o meu estilo.[lr]",
+      "id": 453,
+      "epk_id": "22753",
+      "label": "$$$message_0177_0118_0000$$$"
+    },
+    {
+      "en": "Very regrettable, but it had to happen at[line len=2]huh?",
+      "jp": "　まことに遺憾ではあるが、一度ぐらいはこうして殺しあっておくのが[line len=3]れ？",
+      "Pt-br": "Muito lamentável, mas tivera que acontecer em [line len=2]huh?",
+      "id": 454,
+      "epk_id": "22754",
+      "label": "$$$message_0177_0118_0001$$$"
+    },
+    {
+      "en": "\"You're right.[lr]",
+      "jp": "「貴方の言う通りだ。[lr]",
+      "Pt-br": "\"Você tem razão.[lr]",
+      "id": 455,
+      "epk_id": "22755",
+      "label": "$$$message_0177_0119_0000$$$"
+    },
+    {
+      "en": "My goal isn't to save people.\"[lr]",
+      "jp": "　確かに、人助けが目的ではありません」[lr]",
+      "Pt-br": "Meu objetivo não é salvar as pessoas.\"[lr]",
+      "id": 456,
+      "epk_id": "22756",
+      "label": "$$$message_0177_0119_0001$$$"
+    },
+    {
+      "en": "She shows a moment's hesitation.[lr]",
+      "jp": "　小さな惑い。[lr]",
+      "Pt-br": "Ela demonstra um momento de hesitação.[lr]",
+      "id": 457,
+      "epk_id": "22757",
+      "label": "$$$message_0177_0119_0002$$$"
+    },
+    {
+      "en": "Then wisely swallows it.[lr]",
+      "jp": "　それを賢明に呑み込み、[lr]",
+      "Pt-br": "Então engole com sabedoria.[lr]",
+      "id": 458,
+      "epk_id": "22758",
+      "label": "$$$message_0177_0119_0003$$$"
+    },
+    {
+      "en": "\"But I want to right this wrong.[lr]",
+      "jp": "「ですが、間違っている事は正したい。[lr]",
+      "Pt-br": "\"Mas quero corrigir esse erro.[lr]",
+      "id": 459,
+      "epk_id": "22759",
+      "label": "$$$message_0177_0119_0004$$$"
+    },
+    {
+      "en": "I can't ignore this now that I've seen it.\"[lr]",
+      "jp": "　知った以上、私には見て見ぬフリはできません」[lr]",
+      "Pt-br": "Não posso ignorar isso agora que o vi.\"[lr]",
+      "id": 460,
+      "epk_id": "22760",
+      "label": "$$$message_0177_0119_0005$$$"
+    },
+    {
+      "en": "She sounds like she's trying to convince herself.",
+      "jp": "　自分に言い聞かせるように、女は言った。",
+      "Pt-br": "Ela soa como se estivesse tentando se convencer.",
+      "id": 461,
+      "epk_id": "22761",
+      "label": "$$$message_0177_0119_0006$$$"
+    },
+    {
+      "en": "\"...Hmm. What for?[lr]",
+      "jp": "「…………ふうん。それはどんな理由で？[lr]",
+      "Pt-br": "\"Hmm. Para quê?[lr]",
+      "id": 462,
+      "epk_id": "22762",
+      "label": "$$$message_0177_0120_0000$$$"
+    },
+    {
+      "en": "You don't wanna let them kill people?[lr]",
+      "jp": "　連中が人を殺すのがいけないってコト？[lr]",
+      "Pt-br": "Você não quer que eles matem pessoas?[lr]",
+      "id": 463,
+      "epk_id": "22763",
+      "label": "$$$message_0177_0120_0001$$$"
+    },
+    {
+      "en": "You don't wanna be someone who lets that happen?[lr]",
+      "jp": "　それを見逃す自分がいけないってコト？[lr]",
+      "Pt-br": "Você não quer ser alguém que deixa isso acontecer?[lr]",
+      "id": 464,
+      "epk_id": "22764",
+      "label": "$$$message_0177_0120_0002$$$"
+    },
+    {
+      "en": "Or...[l][say storage=snplg02_anr_0554 name=アンリ]you care more about helping people than winning the Holy Grail War?\"",
+      "jp": "　[line len=3]それとも。[l][say storage=snplg02_anr_0554 name=アンリ]聖杯戦争より、人助けの方が大切だってコト？」",
+      "Pt-br": "Ou... [l] [say storage=snplg02_anr_0554 name=アンリ] você se importa mais em ajudar as pessoas do que em ganhar a Guerra do Santo Graal?\"",
+      "id": 465,
+      "epk_id": "22765",
+      "label": "$$$message_0177_0120_0003$$$"
+    },
+    {
+      "en": "All of the above, probably.[lr]",
+      "jp": "　おそらくはその全てだろう。[lr]",
+      "Pt-br": "Tudo o que acima, provavelmente.[lr]",
+      "id": 466,
+      "epk_id": "22766",
+      "label": "$$$message_0177_0121_0000$$$"
+    },
+    {
+      "en": "That's why Bazett's bound by all these contradictory desires.[lr]",
+      "jp": "　だからこそ、バゼットはがんじがらめの矛盾に責められている。[lr]",
+      "Pt-br": "Por isso é que Bazett está presa por todos esses desejos contraditórios.[lr]",
+      "id": 467,
+      "epk_id": "22767",
+      "label": "$$$message_0177_0121_0001$$$"
+    },
+    {
+      "en": "If she believed she was right, she wouldn't be struggling this much. She's desperately trying to repress the side of her that's a mage.",
+      "jp": "　自分が正しいと思うのなら、あんな苦しそうな顔はしまい。彼女は必死に、魔術師として矛盾した自分を抑えつけながら、",
+      "Pt-br": "Se ela acreditasse que estava certa, não estaria lutando tanto. Ela está tentando desesperadamente reprimir a parte dela que é uma mágica.",
+      "id": 468,
+      "epk_id": "22768",
+      "label": "$$$message_0177_0121_0002$$$"
+    },
+    {
+      "en": "\"I have no reason to believe I'm correct.[lr]",
+      "jp": "「正しいと思える行動に理由はありません。[lr]",
+      "Pt-br": "\"Não tenho razão para acreditar que estou certo.[lr]",
+      "id": 469,
+      "epk_id": "22769",
+      "label": "$$$message_0177_0122_0000$$$"
+    },
+    {
+      "en": "...But I think there has to be a reason. I feel like it's the right thing to do, so...\"[lr]",
+      "jp": "　……いえ、理由があってはいけないと思う。それを正しいと感じたのなら、」[lr]",
+      "Pt-br": "...Mas acho que tem que haver um motivo. Sinto que é a coisa certa a fazer, então...\"[lr]",
+      "id": 470,
+      "epk_id": "22770",
+      "label": "$$$message_0177_0122_0001$$$"
+    },
+    {
+      "en": "She probably wants to say that there isn't a contradiction between the benefit and her motives.",
+      "jp": "　理由、利益なんて言葉を盾にするべきではない、と言いたいんだろう。",
+      "Pt-br": "Ela provavelmente quer dizer que não há contradição entre o benefício e suas motivações.",
+      "id": 471,
+      "epk_id": "22771",
+      "label": "$$$message_0177_0122_0002$$$"
+    },
+    {
+      "en": "\"...Wow. Talk about self-righteous. That's crazy talk.\"[lr]",
+      "jp": "「……うわ。独善だねー、やばいぜーその考え」[lr]",
+      "Pt-br": "\"...Wow. Fala-se em justiça própria. Isso é loucura.\"[lr]",
+      "id": 472,
+      "epk_id": "22772",
+      "label": "$$$message_0177_0123_0000$$$"
+    },
+    {
+      "en": "\"Yes. I'm well aware.\"[lr]",
+      "jp": "「ええ。貴方に言われなくとも承知している」[lr]",
+      "Pt-br": "\"Sim. Eu sei disso.\"[lr]",
+      "id": 473,
+      "epk_id": "22773",
+      "label": "$$$message_0177_0123_0001$$$"
+    },
+    {
+      "en": "She's clapping back.[lr]",
+      "jp": "　開き直りやがった。[lr]",
+      "Pt-br": "Ela está batendo palmas.[lr]",
+      "id": 474,
+      "epk_id": "22774",
+      "label": "$$$message_0177_0123_0002$$$"
+    },
+    {
+      "en": "That's probably the idea of righteousness she wants to believe in.[lr]",
+      "jp": "　それが彼女の信じたい“正しい”在り方なんだろうさ。[lr]",
+      "Pt-br": "Isso provavelmente é a ideia de justiça que ela quer acreditar.[lr]",
+      "id": 475,
+      "epk_id": "22775",
+      "label": "$$$message_0177_0123_0003$$$"
+    },
+    {
+      "en": "On the other hand, as she is right now, Bazett Fraga McRemitz is a slave to the Association's motives.[lr]",
+      "jp": "　反面、今のバゼット・フラガ・マクレミッツは[ruby text=りゆう char=2]協会に隷属している身でもある。[lr]",
+      "Pt-br": "Por outro lado, como ela está agora, Bazett Fraga McRemitz é escrava aos motivos da Associação.[lr]",
+      "id": 476,
+      "epk_id": "22776",
+      "label": "$$$message_0177_0123_0004$$$"
+    },
+    {
+      "en": "I wonder how long she can keep playing both sides.",
+      "jp": "　そんなどっちも取ってます、なんてバランスがとれるほど頑丈ならいいんだが。",
+      "Pt-br": "Duvido que ela consiga manter essa posição por muito tempo.",
+      "id": 477,
+      "epk_id": "22777",
+      "label": "$$$message_0177_0123_0005$$$"
+    },
+    {
+      "en": "\"Very noble and all, but do you really have to take the moral high ground here?[lr]",
+      "jp": "「まあ、ご立派な思想はいいけどさ。なにもそこまで正義に付き合ってやるコトはないだろ。[lr]",
+      "Pt-br": "\"Muito nobre e tudo, mas você precisa mesmo subir nesse pedestal moral?[lr]",
+      "id": 478,
+      "epk_id": "22778",
+      "label": "$$$message_0177_0124_0000$$$"
+    },
+    {
+      "en": "It doesn't have a shape. No matter how much you woo it, it won't put out. Why don't you just throw in with a faction that'll treat you better?\"",
+      "jp": "　ありゃあ、もとからカタチのないものだ。どんなに求愛しても、向こうから返ってくるものはないよ。それよりさ、もっといい目を見せてくれる勢力と付き合った方がよくないか？」",
+      "Pt-br": "Não tem forma. Não importa quantas vezes você a seduza, ela não vai acender. Por que não se joga com um grupo que te trate melhor?\"",
+      "id": 479,
+      "epk_id": "22779",
+      "label": "$$$message_0177_0124_0001$$$"
+    },
+    {
+      "en": "\"...As I said, I belong to the Mage's Association.[lr]",
+      "jp": "「……ですから、私も魔術協会に所属している。[lr]",
+      "Pt-br": "\"...Como eu disse, pertenço à Associação dos Magos.[lr]",
+      "id": 480,
+      "epk_id": "22780",
+      "label": "$$$message_0177_0125_0000$$$"
+    },
+    {
+      "en": "I want to be compensated. [l][say storage=snplg02_baz_0632 name=バゼット]But separately from that, I also want to make the right choices, when I can.\"",
+      "jp": "　私だって見返りは欲しい。[l][say storage=snplg02_baz_0632 name=バゼット]それとは別に、出来るかぎり正しくありたいと思うだけです」",
+      "Pt-br": "Quero ser recompensado. [l][say storage=snplg02_baz_0632 name=バゼット]Mas, separadamente disso, também quero fazer as escolhas certas quando puder.\"",
+      "id": 481,
+      "epk_id": "22781",
+      "label": "$$$message_0177_0125_0001$$$"
+    },
+    {
+      "en": "Wonder why she feels that way.[lr]",
+      "jp": "　正しくありたいと思うのは何故か。[lr]",
+      "Pt-br": "Pensando por que ela sente assim.[lr]",
+      "id": 482,
+      "epk_id": "22782",
+      "label": "$$$message_0177_0126_0000$$$"
+    },
+    {
+      "en": "It implies that there are times when she thinks she's in the wrong.[lr]",
+      "jp": "　それはその人間が、自分を正しいと思ってはいない時だ。[lr]",
+      "Pt-br": "Isso implica que há momentos em que ela pensa que está errada.[lr]",
+      "id": 483,
+      "epk_id": "22783",
+      "label": "$$$message_0177_0126_0001$$$"
+    },
+    {
+      "en": "She's trying to clean the dirty parts of herself by making better choices.",
+      "jp": "　だから正しい行動をして、汚い自分を少しでもキレイに見せようともがいている。",
+      "Pt-br": "Ela está tentando limpar as partes sujas de si mesma fazendo escolhas melhores.",
+      "id": 484,
+      "epk_id": "22784",
+      "label": "$$$message_0177_0126_0002$$$"
+    },
+    {
+      "en": "Man...[lr]",
+      "jp": "　まったく[line len=3][lr]",
+      "Pt-br": "Man...[lr]",
+      "id": 485,
+      "epk_id": "22785",
+      "label": "$$$message_0177_0127_0000$$$"
+    },
+    {
+      "en": "\"...You sure sound like a straight shooter.[lr]",
+      "jp": "「[line len=3]生真面目なアンタらしい。[lr]",
+      "Pt-br": "\"...Você parece bem direto.[lr]",
+      "id": 486,
+      "epk_id": "22786",
+      "label": "$$$message_0177_0127_0001$$$"
+    },
+    {
+      "en": "Aiming to be a paragon of virtue.\"[lr]",
+      "jp": "　ようするに徳の高い人間になりたいんだ」[lr]",
+      "Pt-br": "Sendo um exemplo de virtude.\"[lr]",
+      "id": 487,
+      "epk_id": "22787",
+      "label": "$$$message_0177_0127_0002$$$"
+    },
+    {
+      "en": "What an awkward, pathetic life she must live.",
+      "jp": "　不器用に[line len=3]無様に生きてるんだな、この人間は。",
+      "Pt-br": "Que vida tão constrangedora e patética ela deve viver.",
+      "id": 488,
+      "epk_id": "22788",
+      "label": "$$$message_0177_0127_0003$$$"
+    },
+    {
+      "en": "\"...Yes, perhaps.[lr]",
+      "jp": "「……そう、なのかもしれませんね。[lr]",
+      "Pt-br": "\"Sim, talvez.[lr]",
+      "id": 489,
+      "epk_id": "22789",
+      "label": "$$$message_0177_0128_0000$$$"
+    },
+    {
+      "en": "But that's a wish that won't come true. All I do is destroy, and no one will thank me for it. Virtue is reserved for those who can befriend and be befriended by others.[lr]",
+      "jp": "　けれど私には叶わない願いだ。私は壊す事でしか感謝されない人間です。人徳とは他人に親しまれる、他人に与える事ができる人間が持ち得るもの。[lr]",
+      "Pt-br": "Mas essa é uma esperança que não se realizará. Tudo o que faço é destruir, e ninguém me agradecerá por isso. A virtude é reservada a quem pode se tornar amigo e ser amado por outros.[lr]",
+      "id": 490,
+      "epk_id": "22790",
+      "label": "$$$message_0177_0128_0001$$$"
+    },
+    {
+      "en": "It's something I'll never have.\"",
+      "jp": "　決して、私に与えられるものではありません」",
+      "Pt-br": "É algo que nunca terei.\"",
+      "id": 491,
+      "epk_id": "22791",
+      "label": "$$$message_0177_0128_0002$$$"
+    },
+    {
+      "en": "Virtue is about contributing to society and helping other people.[lr]",
+      "jp": "　世間に貢献する事。人々を救う事が徳である。[lr]",
+      "Pt-br": "A virtude é sobre contribuir para a sociedade e ajudar outras pessoas.[lr]",
+      "id": 492,
+      "epk_id": "22792",
+      "label": "$$$message_0177_0129_0000$$$"
+    },
+    {
+      "en": "She says that she can only destroy.[lr]",
+      "jp": "　彼女は壊す事しかできない。[lr]",
+      "Pt-br": "Ela diz que só consegue destruir.[lr]",
+      "id": 493,
+      "epk_id": "22793",
+      "label": "$$$message_0177_0129_0001$$$"
+    },
+    {
+      "en": "She's convinced that someone who can't mend or create can never truly earn the trust of others.",
+      "jp": "　[ruby text=つくろ]繕う手を持たない人間には、真の意味で信頼は勝ち得ないのだと、彼女の目が訴える。",
+      "Pt-br": "Ela acredita que alguém incapaz de reparar ou criar jamais poderá conquistar de verdade a confiança dos outros.",
+      "id": 494,
+      "epk_id": "22794",
+      "label": "$$$message_0177_0129_0002$$$"
+    },
+    {
+      "en": "\"I think you're wrong about that.\"[lr]",
+      "jp": "「それは誤認だと思うけどね」[lr]",
+      "Pt-br": "\"Eu acho que você está errado sobre isso.\"[lr]",
+      "id": 495,
+      "epk_id": "22795",
+      "label": "$$$message_0177_0130_0000$$$"
+    },
+    {
+      "en": "\"No. I can't relinquish my wealth to help the poor, nor can I create a new organization. I can't escape the fact that I'm just a puny, single gear in a machine.[lr]",
+      "jp": "「いいえ。私には私財をなげうって貧窮の民を救う事も、新しい組織を作る事もできない。あくまで歯車の一つで、いつまでもちっぽけな一個人から抜け出せない。[lr]",
+      "Pt-br": "\"Não. Não posso ceder minha riqueza para ajudar os pobres, nem posso criar uma nova organização. Não consigo escapar do fato de ser apenas uma pequena engrenagem em uma máquina.[lr]",
+      "id": 496,
+      "epk_id": "22796",
+      "label": "$$$message_0177_0130_0001$$$"
+    },
+    {
+      "en": "...There's no way someone like me can ever gain virtue.\"",
+      "jp": "　……そんな人間に、高い徳なんて得られる筈がないでしょう」",
+      "Pt-br": "...Não há como alguém como eu possa algum dia ganhar virtude.\"",
+      "id": 497,
+      "epk_id": "22797",
+      "label": "$$$message_0177_0130_0002$$$"
+    },
+    {
+      "en": "\"No way.\"[lr]",
+      "jp": "「[line len=3]まさか」[lr]",
+      "Pt-br": "\"Nem pensar.\"[lr]",
+      "id": 498,
+      "epk_id": "22798",
+      "label": "$$$message_0177_0131_0000$$$"
+    },
+    {
+      "en": "Hell, I'm actually getting mad now.[lr]",
+      "jp": "　やば、思わず本気で怒っちまった。[lr]",
+      "Pt-br": "Maldição, estou mesmo ficando bravo agora.[lr]",
+      "id": 499,
+      "epk_id": "22799",
+      "label": "$$$message_0177_0131_0001$$$"
+    },
+    {
+      "en": "Ugh. I'm taking this way too seriously.",
+      "jp": "　まずいなあ、本気になってるかなあ、オレ。",
+      "Pt-br": "Ugh. Estou levando isso demais a sério.",
+      "id": 500,
+      "epk_id": "22800",
+      "label": "$$$message_0177_0131_0002$$$"
+    },
+    {
+      "en": "\"That's a load of horse shit. Money can't buy virtue.[lr]",
+      "jp": "「それだけは完璧に間違いだ。金で徳は買えねえよ。[lr]",
+      "Pt-br": "\"Isso é um monte de bobagem. Dinheiro não compra virtude.[lr]",
+      "id": 501,
+      "epk_id": "22801",
+      "label": "$$$message_0177_0132_0000$$$"
+    },
+    {
+      "en": "Virtue is a quality of the soul. It isn't something you acquire. You cultivate it while you suffer.\"[lr]",
+      "jp": "　徳ってのは魂の質だ。それは得るものじゃない。苦しみながら、自分の中で[ruby text=つちか]培うものだろ」[lr]",
+      "Pt-br": "A virtude é uma qualidade da alma. Não é algo que você adquire. Cultiva-a enquanto sofre.\"[lr]",
+      "id": 502,
+      "epk_id": "22802",
+      "label": "$$$message_0177_0132_0001$$$"
+    },
+    {
+      "en": "\"...\"",
+      "jp": "「[line len=9]」",
+      "Pt-br": "\"...\"",
+      "id": 503,
+      "epk_id": "22803",
+      "label": "$$$message_0177_0132_0002$$$"
+    },
+    {
+      "en": "That's true of every human, no matter how insignificant, powerless, or worthless one is.[lr]",
+      "jp": "　どんなに矮小な人間にも、どんなに無力な人間にも、どんなに無価値な人間にも。[lr]",
+      "Pt-br": "Isso é verdade de todo humano, não importa quão insignificante, impotente ou sem valor alguém seja.[lr]",
+      "id": 504,
+      "epk_id": "22804",
+      "label": "$$$message_0177_0133_0000$$$"
+    },
+    {
+      "en": "It's a function everyone possesses equally at birth, a radiance that grows according to one's will to move forward.[lr]",
+      "jp": "　それは誕生から共にある平等の機能、前に進もうとする意志によって磨かれる輝きだ。[lr]",
+      "Pt-br": "É uma função que todos possuem igualmente ao nascer, uma luminosidade que cresce conforme a vontade de cada um avançar.[lr]",
+      "id": 505,
+      "epk_id": "22805",
+      "label": "$$$message_0177_0133_0001$$$"
+    },
+    {
+      "en": "...It doesn't distinguish between good or evil.[lr]",
+      "jp": "　……善悪の区別なく。[lr]",
+      "Pt-br": "...Não faz distinção entre o bem e o mal.[lr]",
+      "id": 506,
+      "epk_id": "22806",
+      "label": "$$$message_0177_0133_0002$$$"
+    },
+    {
+      "en": "It's like a greater understanding you can only gain on your own, available to only those who aim for ever greater heights as living creatures.",
+      "jp": "　生き物として高みを目指すモノのみに、唯我の悟りが開けるように。",
+      "Pt-br": "É como uma compreensão maior que só se consegue alcançar por si mesmo, disponível apenas para aqueles que buscam sempre atingir alturas ainda maiores como seres vivos.",
+      "id": 507,
+      "epk_id": "22807",
+      "label": "$$$message_0177_0133_0003$$$"
+    },
+    {
+      "en": "\"Are you saying that virtue is...a personal value, not something others assign to you?\"[lr]",
+      "jp": "「徳は[line len=3]自らの価値は、外的評価によるものではないと言うのですか」[lr]",
+      "Pt-br": "\"Você está dizendo que a virtude é... um valor pessoal, não algo que os outros atribuem a você?\"[lr]",
+      "id": 508,
+      "epk_id": "22808",
+      "label": "$$$message_0177_0134_0000$$$"
+    },
+    {
+      "en": "\"Huh? No, if we're talking 'value,' then that all comes from the outside.[lr]",
+      "jp": "「あ？　いや、価値って話なら外的評価が全てだよ。[lr]",
+      "Pt-br": "\"Hmm? Não, se estamos falando de \"valor,\" então tudo isso vem do exterior.[lr]",
+      "id": 509,
+      "epk_id": "22809",
+      "label": "$$$message_0177_0134_0001$$$"
+    },
+    {
+      "en": "It's [font italic=true]why[font italic=false] we try to cultivate our own virtue. Virtue is a parameter we try to raise as high as possible, to hang around people who act like they're better than they really are.\"",
+      "jp": "　その為の徳、その為の自己錬磨だ。せいぜい高値ふっかけて、自分を自分以上に買ってくれるヤツとくっつく為のパラメーターだよ」",
+      "Pt-br": "É [font italic=true]por isso[font italic=false] que tentamos cultivar nossa própria virtude. Virtude é um parâmetro que buscamos elevar ao máximo, para ficarmos perto de pessoas que agem como se fossem melhores do que são de fato.\"",
+      "id": 510,
+      "epk_id": "22810",
+      "label": "$$$message_0177_0134_0002$$$"
+    },
+    {
+      "en": "Elevating your inner world influences your presence in the outer world.[lr]",
+      "jp": "　内的宇宙の向上は、結果的に外的宇宙の向上に繋がる。[lr]",
+      "Pt-br": "Elevar seu mundo interno influencia sua presença no mundo externo.[lr]",
+      "id": 511,
+      "epk_id": "22811",
+      "label": "$$$message_0177_0135_0000$$$"
+    },
+    {
+      "en": "Lonely show-offs are obsessed with being seen as \"good people.\" What a wretched, shameful way to live.[lr]",
+      "jp": "　見栄っぱりで寂しがり屋な人間ほど『いい人』である事に固執し、その浅ましさに恥じ入るのだ。[lr]",
+      "Pt-br": "Show-offs solitários são obsedados em serem vistos como \"pessoas boas.\" Que forma miserável e vergonhosa de viver.[lr]",
+      "id": 512,
+      "epk_id": "22812",
+      "label": "$$$message_0177_0135_0001$$$"
+    },
+    {
+      "en": "How self-serving it must be to try to be a good person so that other people won't hate you.[lr]",
+      "jp": "　嫌われたくないからいい人であろうとするなんて、自分はなんて利己的なのだろう、と。[lr]",
+      "Pt-br": "Como pode ser egoísta tentar ser uma boa pessoa apenas para que os outros não te odeiem.[lr]",
+      "id": 513,
+      "epk_id": "22813",
+      "label": "$$$message_0177_0135_0002$$$"
+    },
+    {
+      "en": "But...",
+      "jp": "　だが。",
+      "Pt-br": "Mas...",
+      "id": 514,
+      "epk_id": "22814",
+      "label": "$$$message_0177_0135_0003$$$"
+    },
+    {
+      "en": "\"...And what's wrong with that? The desire to be acknowledged is actually worth something. [l][say storage=snplg02_anr_0631 name=アンリ]Someone who feels that way can recognize the value of someone else.[lr]",
+      "jp": "「[line len=3]それでいいじゃねえか。誰かに認められたいって気持ちはな、誇っていい事なんだよ。[l][say storage=snplg02_anr_0631 name=アンリ]その気持ちがあるヤツは、同じように、きっと誰かを認めてやれる。[lr]",
+      "Pt-br": "\"...E o que há de errado com isso? O desejo de ser reconhecido tem de fato algum valor. [l][say storage=snplg02_anr_0631 name=アンリ]Alguém que sente assim pode reconhecer o valor de alguém else.[lr]",
+      "id": 515,
+      "epk_id": "22815",
+      "label": "$$$message_0177_0136_0000$$$"
+    },
+    {
+      "en": "I don't think it's wrong for your values to also benefit you.\"",
+      "jp": "　アンタの方針が結局は自分の為だって言うんなら、間違ってなんかいねえってコト」",
+      "Pt-br": "Não acho que seja errado que seus valores também lhe tragam benefícios.\"",
+      "id": 516,
+      "epk_id": "22816",
+      "label": "$$$message_0177_0136_0001$$$"
+    },
+    {
+      "en": "That's where the beauty of love is; the desire to enjoy life together.[lr]",
+      "jp": "　共に楽しもうっていう、愛情の美点がそこにある。[lr]",
+      "Pt-br": "Aí está a beleza do amor; o desejo de viver juntos.[lr]",
+      "id": 517,
+      "epk_id": "22817",
+      "label": "$$$message_0177_0137_0000$$$"
+    },
+    {
+      "en": "She hasn't reached that understanding yet, and it's doubtful she ever will.[lr]",
+      "jp": "　まだ彼女はその域に達してないし、死ぬまで気づくかどうか怪しいもんだが。[lr]",
+      "Pt-br": "Ela ainda não chegou a esse entendimento, e é duvidoso que chegue a ele algum dia.[lr]",
+      "id": 518,
+      "epk_id": "22818",
+      "label": "$$$message_0177_0137_0001$$$"
+    },
+    {
+      "en": "She just doesn't have the knack for it.[lr]",
+      "jp": "　この女、とにかく要領が悪いのだ。[lr]",
+      "Pt-br": "Ela não tem jeito para isso.[lr]",
+      "id": 519,
+      "epk_id": "22819",
+      "label": "$$$message_0177_0137_0002$$$"
+    },
+    {
+      "en": "But she's dabbled in everything, making her a jack-of-all-trades.",
+      "jp": "　そのクセなまじ器用だから、こんな風に何でもできる風になっちまった。",
+      "Pt-br": "Mas ela já experimentou tudo, tornando-se uma especialista em tudo.",
+      "id": 520,
+      "epk_id": "22820",
+      "label": "$$$message_0177_0137_0003$$$"
+    },
+    {
+      "en": "She's reactionary. And shameless.[lr]",
+      "jp": "　鉄面皮で後ろ向き。[lr]",
+      "Pt-br": "Ela é reacionária. E sem vergonha.[lr]",
+      "id": 521,
+      "epk_id": "22821",
+      "label": "$$$message_0177_0138_0000$$$"
+    },
+    {
+      "en": "Trying to better herself by single-mindedly taking the long way around.[lr]",
+      "jp": "　ひたすら回り道をする自己改革。[lr]",
+      "Pt-br": "Tentando melhorar a si mesma com uma dedicação obstinada, pelo caminho mais longo.[lr]",
+      "id": 522,
+      "epk_id": "22822",
+      "label": "$$$message_0177_0138_0001$$$"
+    },
+    {
+      "en": "She's got herself an inkling that she's in the wrong, but curses herself as nothing special, stuck in a purgatory and clawing her way to something brighter.[lr]",
+      "jp": "　間違っていると分かっていながら、大したもんじゃないと毒づきながら、ジタバタあがいて、明るい方に向かっていく。[lr]",
+      "Pt-br": "Ela tem uma suspeita de que está errada, mas maldiz-se por nada especial, presa em um purgatório e se arrastando para algo mais brilhante.[lr]",
+      "id": 523,
+      "epk_id": "22823",
+      "label": "$$$message_0177_0138_0002$$$"
+    },
+    {
+      "en": "Ahhh... So this is the kind of person I'm helping.",
+      "jp": "　ああ[line len=3]そういう人間に、オレは手を貸したのか。",
+      "Pt-br": "Ahhh... Então é assim que é a pessoa que estou ajudando.",
+      "id": 524,
+      "epk_id": "22824",
+      "label": "$$$message_0177_0138_0003$$$"
+    },
+    {
+      "en": "\"...Erm.[lr]",
+      "jp": "「…………その。[lr]",
+      "Pt-br": "\"...Hmm.[lr]",
+      "id": 525,
+      "epk_id": "22825",
+      "label": "$$$message_0177_0139_0000$$$"
+    },
+    {
+      "en": "Can I interpret your uncharacteristic sermon to mean that you don't have a problem with my direction?\"[lr]",
+      "jp": "　貴方らしからぬ高説でしたが、結論として今後の方針に文句はない、という解釈でいいのですか？」[lr]",
+      "Pt-br": "Posso interpretar seu sermão inusitado como significando que você não tem problema com minha direção?\"[lr]",
+      "id": 526,
+      "epk_id": "22826",
+      "label": "$$$message_0177_0139_0001$$$"
+    },
+    {
+      "en": "\"Yeah. Why not champion justice, and all that?[lr]",
+      "jp": "「ああ。いいんじゃない、正義の味方ってのも？[lr]",
+      "Pt-br": "\"É isso. Por que não ser o Herói da Justiça e tudo mais?[lr]",
+      "id": 527,
+      "epk_id": "22827",
+      "label": "$$$message_0177_0139_0002$$$"
+    },
+    {
+      "en": "I bet it's satisfying, swooping in to save people from senseless death.\"[lr]",
+      "jp": "　気持ち良さそうだし。たまには理不尽な死から人々を守るのも悪くない」[lr]",
+      "Pt-br": "Acho que é satisfatório, voar até lá para salvar as pessoas da morte sem sentido.\"[lr]",
+      "id": 528,
+      "epk_id": "22828",
+      "label": "$$$message_0177_0139_0003$$$"
+    },
+    {
+      "en": "That justice stuff is gross and sounds like something out of a comic book or whatever...but it can sound kinda neat, I guess.",
+      "jp": "　正義の味方なんて響きには[ruby text=ヘド o2o=1]反吐がでるが、ここはそれが一番適切だろう。",
+      "Pt-br": "Essa história de Herói da Justiça é nojenta e soa como algo de um quadrinho ou qualquer coisa... mas pode soar meio legal, acho.",
+      "id": 529,
+      "epk_id": "22829",
+      "label": "$$$message_0177_0139_0004$$$"
+    },
+    {
+      "en": "\"...I'm surprised. I thought that you would despise the concept more than anything.\"[lr]",
+      "jp": "「……意外ですね。正義なんて言葉、貴方が最も嫌うものだと感じていましたが」[lr]",
+      "Pt-br": "\"...Estou surpreso. Achei que você detestaria o conceito mais do que qualquer outra coisa.\"[lr]",
+      "id": 530,
+      "epk_id": "22830",
+      "label": "$$$message_0177_0140_0000$$$"
+    },
+    {
+      "en": "\"I do. But I like where it leads.\"[lr]",
+      "jp": "「嫌いだよ。けど、そういう方向性は好きなんだ」[lr]",
+      "Pt-br": "\"Eu faço. Mas gosto de onde leva.\"[lr]",
+      "id": 531,
+      "epk_id": "22831",
+      "label": "$$$message_0177_0140_0001$$$"
+    },
+    {
+      "en": "\"Huh?\"[lr]",
+      "jp": "「は？」[lr]",
+      "Pt-br": "\"Hmm?\"[lr]",
+      "id": 532,
+      "epk_id": "22832",
+      "label": "$$$message_0177_0140_0002$$$"
+    },
+    {
+      "en": "First off, it doesn't change what we have to do.[lr]",
+      "jp": "　第一、やる事に変わりはない。[lr]",
+      "Pt-br": "Primeiro, isso não muda o que temos que fazer.[lr]",
+      "id": 533,
+      "epk_id": "22833",
+      "label": "$$$message_0177_0140_0003$$$"
+    },
+    {
+      "en": "We're going to patrol the city at night, kill the other Masters, and kill the monsters. The only difference is that they now have the same priority. And I'm still more than capable of either.",
+      "jp": "　オレたちは夜の町を徘徊し、他のマスターを殺し、あの怪物どもも殺す。優先順度が等価になっただけだ。まだ、十分にオレの範囲内と言える。",
+      "Pt-br": "Vamos patrulhar a cidade à noite, matar os outros Mestres e os monstros. A única diferença é que agora eles têm a mesma prioridade. E eu ainda sou mais do que capaz de fazer qualquer uma das duas.",
+      "id": 534,
+      "epk_id": "22834",
+      "label": "$$$message_0177_0140_0004$$$"
+    },
+    {
+      "en": "Fuyuki is still full of life.[lr]",
+      "jp": "　冬木の街には、まだ十分な生命がある。[lr]",
+      "Pt-br": "Fuyuki ainda está cheia de vida.[lr]",
+      "id": 535,
+      "epk_id": "22835",
+      "label": "$$$message_0177_0141_0000$$$"
+    },
+    {
+      "en": "The cup won't run dry until my Master is sated.[lr]",
+      "jp": "　マスターが満腹になるまで杯が乾ききる事はない。[lr]",
+      "Pt-br": "A taça não secará até que meu Mestre esteja saciado.[lr]",
+      "id": 536,
+      "epk_id": "22836",
+      "label": "$$$message_0177_0141_0001$$$"
+    },
+    {
+      "en": "While we'll never see victory, we also won't know death, and we'll overcome failure.",
+      "jp": "　死を知らないオレたちは勝利を知らぬまま、敗北だけを飛び越える。",
+      "Pt-br": "Enquanto nunca veremos a vitória, também não conheceremos a morte e superaremos o fracasso.",
+      "id": 537,
+      "epk_id": "22837",
+      "label": "$$$message_0177_0141_0002$$$"
+    },
+    {
+      "en": "\"Yeah. Let's do this until you're satisfied, Master.[lr]",
+      "jp": "「そう、アンタの気が済むまでやろうぜマスター。[lr]",
+      "Pt-br": "\"É. Vamos continuar com isso até você ficar satisfeita, Mestre.[lr]",
+      "id": 538,
+      "epk_id": "22838",
+      "label": "$$$message_0177_0142_0000$$$"
+    },
+    {
+      "en": "Everything's a learning experience. Just enjoy this until you get bored of it.\"[lr]",
+      "jp": "　何事も経験だ。飽きるまで楽しめばいい」[lr]",
+      "Pt-br": "Tudo é uma experiência de aprendizado. Aproveite isso até que fique cansado de tanto.\"[lr]",
+      "id": 539,
+      "epk_id": "22839",
+      "label": "$$$message_0177_0142_0001$$$"
+    },
+    {
+      "en": "The wind whistles a higher note.[lr]",
+      "jp": "　ひとり、吹きすさぶ風を数える。[lr]",
+      "Pt-br": "O vento sussurra uma nota mais alta.[lr]",
+      "id": 540,
+      "epk_id": "22840",
+      "label": "$$$message_0177_0142_0002$$$"
+    },
+    {
+      "en": "Of course, from up here, so close to the heavens, the city lights may as well be a pipe dream.",
+      "jp": "　最も[ruby text=そこ]天に近いこの塔からでは、街の明かりは絵空事のように思える。",
+      "Pt-br": "Claro, daqui em cima, tão perto dos céus, as luzes da cidade podem até ser um sonho distante.",
+      "id": 541,
+      "epk_id": "22841",
+      "label": "$$$message_0177_0142_0003$$$"
+    },
+    {
+      "en": "The Holy Grail War will continue as long as it takes.[lr]",
+      "jp": "　聖杯戦争はいつまでも続いていく。[lr]",
+      "Pt-br": "A Guerra do Santo Graal continuará enquanto for preciso.[lr]",
+      "id": 542,
+      "epk_id": "22842",
+      "label": "$$$message_0177_0143_0000$$$"
+    },
+    {
+      "en": "My murderous pleasure will, too.[lr]",
+      "jp": "　オレの[ruby text=ごらく char=2]殺人はいつまでも続いていく。[lr]",
+      "Pt-br": "Meu prazer assassino também será assim.[lr]",
+      "id": 543,
+      "epk_id": "22843",
+      "label": "$$$message_0177_0143_0001$$$"
+    },
+    {
+      "en": "Most likely, we'll lose to another Master tomorrow and revive again.[lr]",
+      "jp": "　おそらく、明日にでもオレたちは他のマスターに敗れ、また蘇るだろう。[lr]",
+      "Pt-br": "Mais provavelmente, perderemos para outro Mestre amanhã e reviveremos de novo.[lr]",
+      "id": 544,
+      "epk_id": "22844",
+      "label": "$$$message_0177_0143_0002$$$"
+    },
+    {
+      "en": "I'll stick with her a while longer, until Bazett changes her mind.[lr]",
+      "jp": "　その時まで、バゼットが方針を変える時まで、しばらくは付き合おう。[lr]",
+      "Pt-br": "Vou ficar com ela por um tempo ainda, até Bazett mudar de ideia.[lr]",
+      "id": 545,
+      "epk_id": "22845",
+      "label": "$$$message_0177_0143_0003$$$"
+    },
+    {
+      "en": "The sky here is distant, deep, and hollow.[lr]",
+      "jp": "　ここは遠く深い虚ろなソラ。[lr]",
+      "Pt-br": "O céu aqui é distante, profundo e vazio.[lr]",
+      "id": 546,
+      "epk_id": "22846",
+      "label": "$$$message_0177_0143_0004$$$"
+    },
+    {
+      "en": "Ultimately, there are only illusions to be gained.",
+      "jp": "　得るモノなど、どうせ、全て幻に他ならない。",
+      "Pt-br": "No fim, só há ilusões a serem conquistadas.",
+      "id": 547,
+      "epk_id": "22847",
+      "label": "$$$message_0177_0143_0005$$$"
+    },
+    {
+      "en": "\"Let's do this until you're satisfied, Master.[lr]",
+      "jp": "「アンタの気が済むまでやろうぜマスター。[lr]",
+      "Pt-br": "\"Vamos fazer isso até você estiver satisfeito, Mestre.[lr]",
+      "id": 548,
+      "epk_id": "22848",
+      "label": "$$$message_0177_0144_0000$$$"
+    },
+    {
+      "en": "Everything's a learning experience. Just enjoy this until you get bored of it.\"[lr]",
+      "jp": "　何事も経験だ。飽きるまで楽しめばいい」[lr]",
+      "Pt-br": "Tudo é uma experiência de aprendizado. Aproveite isso até que fique cansado de tanto.\"[lr]",
+      "id": 549,
+      "epk_id": "22849",
+      "label": "$$$message_0177_0144_0001$$$"
+    },
+    {
+      "en": "My Servant breaks eye contact with me.[lr]",
+      "jp": "　そう言って、サーヴァントは私から視線をきった。[lr]",
+      "Pt-br": "Meu Servo desvia o olhar.[lr]",
+      "id": 550,
+      "epk_id": "22850",
+      "label": "$$$message_0177_0144_0002$$$"
+    },
+    {
+      "en": "I wonder what changed his mind. With that last casual remark, he goes quiet and looks out at the night landscape.",
+      "jp": "　どんな心境の変化か、あの軽口を塞いでおとなしく夜景を眺めている。",
+      "Pt-br": "Duvido que algo tenha mudado sua mente. Com aquela última observação casual, ele fica calado e olha para o paisagem noturna.",
+      "id": 551,
+      "epk_id": "22851",
+      "label": "$$$message_0177_0144_0003$$$"
+    },
+    {
+      "en": "...The Servant Avenger.[lr]",
+      "jp": "　……サーヴァント、アヴェンジャー。[lr]",
+      "Pt-br": "...O Serva Vingador.[lr]",
+      "id": 552,
+      "epk_id": "22852",
+      "label": "$$$message_0177_0145_0000$$$"
+    },
+    {
+      "en": "I've heard that on occasion, classes other than the original seven appear during the Holy Grail War. Avenger must be one of them.",
+      "jp": "　七つのクラスに該当しないクラスだが、聖杯戦争は時に例外を生んできたという。アヴェンジャーもその一つだろう。",
+      "Pt-br": "Já ouvi dizer que, às vezes, classes além das sete originais aparecem durante a Guerra do Santo Graal. Avenger deve ser uma delas.",
+      "id": 553,
+      "epk_id": "22853",
+      "label": "$$$message_0177_0145_0001$$$"
+    },
+    {
+      "en": "A Heroic Spirit of vengeance sounds contradictory, but more than that, his name Aŋra Mainiiu is an enigma.[lr]",
+      "jp": "　復讐者を意味する英霊というのは矛盾しているが、そもそもアンリマユという名称そのものが不可思議だ。[lr]",
+      "Pt-br": "Um Espírito Heroico de vingança soa contraditório, mas mais do que isso, seu nome Aŋra Mainiiu é um enigma.[lr]",
+      "id": 554,
+      "epk_id": "22854",
+      "label": "$$$message_0177_0146_0000$$$"
+    },
+    {
+      "en": "There are many cases of heroes later being assigned names that they weren't born with.[lr]",
+      "jp": "　英雄の中には生まれつきの名前ではなく、後に得られる称号で記録される者も多い。[lr]",
+      "Pt-br": "Há muitos casos de heróis que posteriormente recebem nomes que não nasceram com.[lr]",
+      "id": 555,
+      "epk_id": "22855",
+      "label": "$$$message_0177_0146_0001$$$"
+    },
+    {
+      "en": "The childhood hero I described is one of them.",
+      "jp": "　私が彼に語った故郷の英雄の話も、そういった例の一つだった。",
+      "Pt-br": "O herói da infância que descrevi é um deles.",
+      "id": 556,
+      "epk_id": "22856",
+      "label": "$$$message_0177_0146_0002$$$"
+    },
+    {
+      "en": "But still, Aŋra Mainiiu is just too sinister.[lr]",
+      "jp": "　しかし、何にせよアンリマユという響きは不吉すぎる。[lr]",
+      "Pt-br": "Mas ainda assim, Aŋra Mainyu é muito sinistro.[lr]",
+      "id": 557,
+      "epk_id": "22857",
+      "label": "$$$message_0177_0147_0000$$$"
+    },
+    {
+      "en": "One day, I'll need to get him to tell me his birth name, not this wicked title.",
+      "jp": "　いずれそんな忌み名ではない、生まれた時に与えられた名前を聞き出してあげなければ。",
+      "Pt-br": "Um dia, vou precisar fazê-lo dizer o nome de nascimento, não esse título maldito.",
+      "id": 558,
+      "epk_id": "22858",
+      "label": "$$$message_0177_0147_0001$$$"
+    },
+    {
+      "en": "Dark shadows roam here and there in the city below.[lr]",
+      "jp": "　見下ろす街には、所々に暗い影が徘徊している。[lr]",
+      "Pt-br": "Sombras escuras se movem por aí na cidade abaixo.[lr]",
+      "id": 559,
+      "epk_id": "22859",
+      "label": "$$$message_0177_0148_0000$$$"
+    },
+    {
+      "en": "Even with Kenaz, the Rune of Far-Sight, I can only see as far as the urban Shinto area's borders.[lr]",
+      "jp": "　[ruby text=ケーナズ char=2]遠見のルーンを用いても、ここからでは新都の様子しか見て取れない。[lr]",
+      "Pt-br": "Mesmo com Kenaz, a Runa de Visão de Longe, só consigo ver até os limites da área urbana shintoista.[lr]",
+      "id": 560,
+      "epk_id": "22860",
+      "label": "$$$message_0177_0148_0001$$$"
+    },
+    {
+      "en": "The Mion River divides Fuyuki in two. I can't find out what's happening across the bridge in Miyama unless I go there myself.[lr]",
+      "jp": "　冬木を二分する未遠川。大橋を越えた先の深山町がどうなっているかは、直接足を運ばなければ分からない。[lr]",
+      "Pt-br": "O rio Mion divide Fuyuki ao meio. Não consigo descobrir o que está acontecendo do outro lado da ponte, em Miyama, a menos que eu vá lá pessoalmente.[lr]",
+      "id": 561,
+      "epk_id": "22861",
+      "label": "$$$message_0177_0148_0002$$$"
+    },
+    {
+      "en": "The black monsters must be lurking out there, too.",
+      "jp": "　あの黒い怪物は、深山町にも潜伏しているだろう。",
+      "Pt-br": "Os monstros negros também devem estar à espreita por lá.",
+      "id": 562,
+      "epk_id": "22862",
+      "label": "$$$message_0177_0148_0003$$$"
+    },
+    {
+      "en": "...I wonder what magecraft was used to create such familiars.[lr]",
+      "jp": "　……あの怪物は、どのような術式でくくられた使い魔なのか。[lr]",
+      "Pt-br": "...Que tipo de Magia será que usaram para criar familiares assim?[lr]",
+      "id": 563,
+      "epk_id": "22863",
+      "label": "$$$message_0177_0149_0000$$$"
+    },
+    {
+      "en": "I've never seen their type at the Association.[lr]",
+      "jp": "　協会でもあんなタイプの使い魔は見た事がない。[lr]",
+      "Pt-br": "Nunca vi esse tipo na Associação.[lr]",
+      "id": 564,
+      "epk_id": "22864",
+      "label": "$$$message_0177_0149_0001$$$"
+    },
+    {
+      "en": "Cryptically, they do seem to be controlled. They lack intellect, but the way they appear and reappear feels deliberate.",
+      "jp": "　不思議と統率がとれていて、知性がないようでいながら目的らしきものが見え隠れしている。",
+      "Pt-br": "Por mais estranho que pareça, eles dão sinais de estar sob controle. Falta-lhes inteligência, mas o modo como aparecem e desaparecem parece deliberado.",
+      "id": 565,
+      "epk_id": "22865",
+      "label": "$$$message_0177_0149_0002$$$"
+    },
+    {
+      "en": "Individually, their combat strength is relatively high. They resemble a hybrid of large canines and feral, oversized primates.[lr]",
+      "jp": "　戦闘能力はそれなりに高い。大型の狩猟犬、野生化した野猿を人型に増幅させたようなものだ。[lr]",
+      "Pt-br": "Individualmente, sua força de combate é relativamente alta. Parecem um híbrido de grandes caninos com primatas selvagens e enormes.[lr]",
+      "id": 566,
+      "epk_id": "22866",
+      "label": "$$$message_0177_0150_0000$$$"
+    },
+    {
+      "en": "A human without any combat experience would die instantly against one.[lr]",
+      "jp": "　戦闘経験のない人間なら抵抗もできず即死、[lr]",
+      "Pt-br": "Um humano sem experiência em combate morreria instantaneamente contra um.[lr]",
+      "id": 567,
+      "epk_id": "22867",
+      "label": "$$$message_0177_0150_0001$$$"
+    },
+    {
+      "en": "Someone with at least a decade's training in martial arts or sports might be able to resist for a few seconds or even escape, given favorable conditions.",
+      "jp": "　武術、スポーツと十年以上向かい合ってきた人間なら、条件が良ければ数秒ほど抗戦が可能、ないし逃げ出せる可能性もあるだろう。",
+      "Pt-br": "Alguém com pelo menos uma década de treinamento em artes marciais ou esportes poderia resistir por alguns segundos ou até mesmo escapar, dadas condições favoráveis.",
+      "id": 568,
+      "epk_id": "22868",
+      "label": "$$$message_0177_0150_0002$$$"
+    },
+    {
+      "en": "But they're also numerous.[lr]",
+      "jp": "　だが、とにかく数が多い。[lr]",
+      "Pt-br": "Mas também são numerosos.[lr]",
+      "id": 569,
+      "epk_id": "22869",
+      "label": "$$$message_0177_0151_0000$$$"
+    },
+    {
+      "en": "And their physical appearance evokes a primal revulsion, with wicked claws and hide as tough as tree bark.[lr]",
+      "jp": "　くわえてあの容姿だ。生理的に嫌悪感を呼ぶフォルム、剥き出しの刃物そのものの爪、樹皮めいた堅い体。[lr]",
+      "Pt-br": "E sua aparência física evoca um repúdio primitivo, com garras maléficas e pelagem tão resistente quanto a casca de uma árvore.[lr]",
+      "id": 570,
+      "epk_id": "22870",
+      "label": "$$$message_0177_0151_0001$$$"
+    },
+    {
+      "en": "If multiple of them attacked a person, it would be impossible to survive without firearms.[lr]",
+      "jp": "　複数のアレが人間を襲えば、火器でもないかぎり生き延びる事はできない。[lr]",
+      "Pt-br": "Se vários deles atacassem uma pessoa, seria impossível sobreviver sem armas de fogo.[lr]",
+      "id": 571,
+      "epk_id": "22871",
+      "label": "$$$message_0177_0151_0002$$$"
+    },
+    {
+      "en": "And yet...",
+      "jp": "　それに、",
+      "Pt-br": "E ainda assim...",
+      "id": 572,
+      "epk_id": "22872",
+      "label": "$$$message_0177_0151_0003$$$"
+    },
+    {
+      "en": "\"[font color=0x000000][block len=9][resetfont]\"",
+      "jp": "「[font color=0x000000][block len=9][resetfont]」",
+      "Pt-br": "\"[font color=0x000000][block len=9][resetfont]\"",
+      "id": 573,
+      "epk_id": "22873",
+      "label": "$$$message_0177_0152_0000$$$"
+    },
+    {
+      "en": "Those howls are sickening.[lr]",
+      "jp": "　……あの叫び声が不快すぎる。[lr]",
+      "Pt-br": "Esses uivos são insuportáveis.[lr]",
+      "id": 574,
+      "epk_id": "22874",
+      "label": "$$$message_0177_0153_0000$$$"
+    },
+    {
+      "en": "They're unbearable and grating, nothing like the roar of a majestic beast.[lr]",
+      "jp": "　雄々しい獣の咆哮とはまったく異なった、聴くに堪えない金切り声。[lr]",
+      "Pt-br": "Eles são insuportáveis e irritantes, nada como o rugido de uma fera majestosa.[lr]",
+      "id": 575,
+      "epk_id": "22875",
+      "label": "$$$message_0177_0153_0001$$$"
+    },
+    {
+      "en": "If insect pests had vocal cords, I bet they would sound like that.",
+      "jp": "　日陰で群をなす害虫が発声器官を持っていたら、あんな鳴き声をあげるに違いない。",
+      "Pt-br": "Se os pragas inseto tivessem cordas vocais, eu apostaria que soariam assim.",
+      "id": 576,
+      "epk_id": "22876",
+      "label": "$$$message_0177_0153_0002$$$"
+    },
+    {
+      "en": "He... Avenger doesn't seem to like the sound.[lr]",
+      "jp": "　彼……アヴェンジャーはあの声が気にならないらしい。[lr]",
+      "Pt-br": "Ele... o Avenger não parece gostar do som.[lr]",
+      "id": 577,
+      "epk_id": "22877",
+      "label": "$$$message_0177_0154_0000$$$"
+    },
+    {
+      "en": "In our earlier battle, I saw him exchange blows with the monsters in a businesslike manner.",
+      "jp": "　先ほどの戦闘も、淡々と作業をこなすように怪物たちと渡り合っていた。",
+      "Pt-br": "Na nossa batalha anterior, vi o jeito impessoal com que ele trocava golpes com os monstros.",
+      "id": 578,
+      "epk_id": "22878",
+      "label": "$$$message_0177_0154_0001$$$"
+    },
+    {
+      "en": "Of course, there isn't much to say about his skills.[lr]",
+      "jp": "　もっとも、彼の実力はそう評価できるものではない。[lr]",
+      "Pt-br": "Claro que não há muito a dizer sobre seus talentos.[lr]",
+      "id": 579,
+      "epk_id": "22879",
+      "label": "$$$message_0177_0155_0000$$$"
+    },
+    {
+      "en": "His claim to be the weakest Servant is correct.[lr]",
+      "jp": "　自称、最弱のサーヴァントというのは正しい。[lr]",
+      "Pt-br": "A afirmação dele de ser o Servo mais fraco está correta.[lr]",
+      "id": 580,
+      "epk_id": "22880",
+      "label": "$$$message_0177_0155_0001$$$"
+    },
+    {
+      "en": "...It's correct, but should a Heroic Spirit really struggle against that level of fodder? I hope he isn't scamming me.",
+      "jp": "　……正しいのだが、英霊ともあろう者があの程度の雑兵に苦戦するなんて[ruby text=さぎ o2o=1]詐欺ではないのか。",
+      "Pt-br": "...Está certo, mas será que um Espírito Heroico deveria mesmo penar contra adversários desse nível? Espero que ele não esteja me enganando.",
+      "id": 581,
+      "epk_id": "22881",
+      "label": "$$$message_0177_0155_0002$$$"
+    },
+    {
+      "en": "\"It's not a scam. I told you right off the bat that I'm the weakest.\"[lr]",
+      "jp": "「[ruby text=さぎ o2o=1]詐欺じゃないだろ。はじめっから最弱だって断ってんだから」[lr]",
+      "Pt-br": "\"Não é um golpe. Eu te disse logo de cara que sou a mais fraca.\"[lr]",
+      "id": 582,
+      "epk_id": "22882",
+      "label": "$$$message_0177_0156_0000$$$"
+    },
+    {
+      "en": "\"...Wait. You can read my mind?\"[lr]",
+      "jp": "「[line len=3]待って。貴方、私の考えが読めるの？」[lr]",
+      "Pt-br": "\"...Espere. Você consegue ler minha mente?\"[lr]",
+      "id": 583,
+      "epk_id": "22883",
+      "label": "$$$message_0177_0156_0001$$$"
+    },
+    {
+      "en": "\"Nope. I was just responding to that ugly look you gave me. It'd be pretty funny if I could read minds, though. I bet you're a mess both inside and out.\"",
+      "jp": "「読めねえよ。そんなふうな[ruby text=つら]顔してたから言っただけだ。ま、読めたらさぞ面白いだろうよ。アンタは中身と外見がチグハグだからな」",
+      "Pt-br": "\"Não. Só respondi a essa cara horrorosa que você fez. Seria engraçado se eu lesse pensamentos, mas aposto que você é uma bagunça por dentro e por fora.\"",
+      "id": 584,
+      "epk_id": "22884",
+      "label": "$$$message_0177_0156_0002$$$"
+    },
+    {
+      "en": "My Servant laughs shamelessly.[lr]",
+      "jp": "　無遠慮にサーヴァントは笑う。[lr]",
+      "Pt-br": "Meu Serva ri sem vergonha.[lr]",
+      "id": 585,
+      "epk_id": "22885",
+      "label": "$$$message_0177_0157_0000$$$"
+    },
+    {
+      "en": "He's so boorish and not suited to me at all. Plus he's weak. [l]And all talk. [l]I'll have to do the heavy lifting in our rematch with Saber.",
+      "jp": "　この男のこういう野卑なところが私には合わなすぎる。弱いし。[l]口だけだし。[l]セイバーへの復讐戦は私が詰めるしかないだろう。",
+      "Pt-br": "Ele é tão grosseiro e nem me combina em nada. Além disso, é fraco. [l]E só fala. [l]Vou ter que fazer o trabalho pesado na nossa revanche contra a Saber.",
+      "id": 586,
+      "epk_id": "22886",
+      "label": "$$$message_0177_0157_0001$$$"
+    },
+    {
+      "en": "...Still, it isn't all bad.[lr]",
+      "jp": "　……しかし、そう悪い事だらけではない。[lr]",
+      "Pt-br": "...Ainda assim, não é tudo ruim.[lr]",
+      "id": 587,
+      "epk_id": "22887",
+      "label": "$$$message_0177_0158_0000$$$"
+    },
+    {
+      "en": "This Servant is singularly talented at not dying.[lr]",
+      "jp": "　このサーヴァントは死なない事に関しては特化している。[lr]",
+      "Pt-br": "Este Servo é singularmente talentoso quando o assunto é não morrer.[lr]",
+      "id": 588,
+      "epk_id": "22888",
+      "label": "$$$message_0177_0158_0001$$$"
+    },
+    {
+      "en": "He'll revive on death, so he can't be permanently killed, but his mental fortitude makes him good in a defensive fight.",
+      "jp": "　死んでも甦るのだからそもそも“殺せない”のだが、そういった心の余裕からか、防戦はとてつもなく上手いのだ。",
+      "Pt-br": "Ele revive ao morrer, então não pode ser morto permanentemente, mas sua força mental o torna bom em lutas defensivas.",
+      "id": 589,
+      "epk_id": "22889",
+      "label": "$$$message_0177_0158_0002$$$"
+    },
+    {
+      "en": "In the brawl earlier, for example...[lr]",
+      "jp": "　先ほどの乱戦。[lr]",
+      "Pt-br": "No embate anterior, por exemplo...[lr]",
+      "id": 590,
+      "epk_id": "22890",
+      "label": "$$$message_0177_0159_0000$$$"
+    },
+    {
+      "en": "I was eliminating the enemies enveloping me at a rate of one per second.[lr]",
+      "jp": "　私は敵の包囲網を秒単位で一つずつ崩していく事で立ち回った。[lr]",
+      "Pt-br": "Estava eliminando os inimigos que me envolviam a uma taxa de um por segundo.[lr]",
+      "id": 591,
+      "epk_id": "22891",
+      "label": "$$$message_0177_0159_0001$$$"
+    },
+    {
+      "en": "He, on the other hand, held out against the enemies around him until I could come over to back him up.[lr]",
+      "jp": "　が、彼は囲まれたままで、私が応援に駆けつけるまで[ruby text=しの]凌ぎきったのだ。[lr]",
+      "Pt-br": "Ele, por outro lado, resistiu aos inimigos ao seu redor até que eu pudesse chegar para apoia-lo.[lr]",
+      "id": 592,
+      "epk_id": "22892",
+      "label": "$$$message_0177_0159_0002$$$"
+    },
+    {
+      "en": "His fighting style is about neither winning nor losing.[lr]",
+      "jp": "　勝てはしないが負けもしない戦闘スタイル。[lr]",
+      "Pt-br": "Seu estilo de luta não se trata de ganhar nem de perder.[lr]",
+      "id": 593,
+      "epk_id": "22893",
+      "label": "$$$message_0177_0159_0003$$$"
+    },
+    {
+      "en": "I hate to admit it, but our tactics are exceedingly compatible.",
+      "jp": "　それは[line len=3]その、あまり認めたくないのだけど、私の戦闘方針と、抜群に、相性がいい。",
+      "Pt-br": "Eu odeio admitir, mas nossas táticas são extremamente compatíveis.",
+      "id": 594,
+      "epk_id": "22894",
+      "label": "$$$message_0177_0159_0004$$$"
+    },
+    {
+      "en": "The wind picks up again.[lr]",
+      "jp": "　一際、強い風が吹き抜けた。[lr]",
+      "Pt-br": "O vento volta a aumentar.[lr]",
+      "id": 595,
+      "epk_id": "22895",
+      "label": "$$$message_0177_0160_0000$$$"
+    },
+    {
+      "en": "I see my Servant's hair wafting in the corner of my eye.[lr]",
+      "jp": "　視界の隅、傍らに立つサーヴァントの髪がたなびく。[lr]",
+      "Pt-br": "Vejo, pelo canto do olho, o cabelo do meu Servo ondulando ao vento.[lr]",
+      "id": 596,
+      "epk_id": "22896",
+      "label": "$$$message_0177_0160_0001$$$"
+    },
+    {
+      "en": "\"...Huh?\"[lr]",
+      "jp": "「[line len=3]え？」[lr]",
+      "Pt-br": "\"...Hmm?\"[lr]",
+      "id": 597,
+      "epk_id": "22897",
+      "label": "$$$message_0177_0160_0002$$$"
+    },
+    {
+      "en": "The primitive shaman accepts the wind wafting up from the wasteland.[lr]",
+      "jp": "　荒野から吹き上げる風を受ける、原始の[ruby text=シャーマン char=3]祈祷師。[lr]",
+      "Pt-br": "O xamã primitivo aceita o vento que sobe da planície desolada.[lr]",
+      "id": 598,
+      "epk_id": "22898",
+      "label": "$$$message_0177_0160_0003$$$"
+    },
+    {
+      "en": "I see a vision of him taking in nature for what it is, simply choosing to live and die with it.",
+      "jp": "　あるがままの自然を受け入れ、共に生き、共に滅びる純朴な姿を幻視した。",
+      "Pt-br": "Vejo a imagem dele aceitando a natureza como ela é, escolhendo viver e morrer junto dela.",
+      "id": 599,
+      "epk_id": "22899",
+      "label": "$$$message_0177_0160_0004$$$"
+    },
+    {
+      "en": "\"...Avenger, just now...\"[lr]",
+      "jp": "「[line len=3]アヴェンジャー、今の、」[lr]",
+      "Pt-br": "\"...Avenger, há pouco...\"[lr]",
+      "id": 600,
+      "epk_id": "22900",
+      "label": "$$$message_0177_0161_0000$$$"
+    },
+    {
+      "en": "\"Let's get going. You know where they're grouped up, right? You'll feel better once we find and take 'em out.\"[lr]",
+      "jp": "「そろそろ行こうぜ。連中がたむろしている場所は把握しただろ？　あんなんでも生き物だからな、バラせば気晴らしにはなってくれる」[lr]",
+      "Pt-br": "\"Vamos logo. Você sabe onde eles estão agrupados, certo? Vai se sentir melhor uma vez que encontrarmos e os eliminarmos.\"[lr]",
+      "id": 601,
+      "epk_id": "22901",
+      "label": "$$$message_0177_0161_0001$$$"
+    },
+    {
+      "en": "...I must have imagined it.[lr]",
+      "jp": "　……気の迷いだ。[lr]",
+      "Pt-br": "...Deve ter imaginado.[lr]",
+      "id": 602,
+      "epk_id": "22902",
+      "label": "$$$message_0177_0161_0002$$$"
+    },
+    {
+      "en": "Avenger was looking for a gathering of the monsters.",
+      "jp": "　アヴェンジャーは怪物たちの集まりを探していただけである。",
+      "Pt-br": "O Avenger estava procurando por um encontro dos monstros.",
+      "id": 603,
+      "epk_id": "22903",
+      "label": "$$$message_0177_0161_0003$$$"
+    },
+    {
+      "en": "\"Yeah, no point overthinking it.[lr]",
+      "jp": "「ああ。そうか、難しく考えるこたぁなかったんだ。[lr]",
+      "Pt-br": "\"É, não adianta pensar demais.[lr]",
+      "id": 604,
+      "epk_id": "22904",
+      "label": "$$$message_0177_0162_0000$$$"
+    },
+    {
+      "en": "Hehe, you're a sly one, Master. In the end, you're still asking me to kill all the enemies I see.\"[lr]",
+      "jp": "　ひひ、アンタも人が悪いぜマスター。結局さ、目につく敵はすべて殺せってコトじゃねえか」[lr]",
+      "Pt-br": "Hehe, você é esperta, Mestre. No fim, ainda está me pedindo para matar todos os inimigos que eu encontrar.\"[lr]",
+      "id": 605,
+      "epk_id": "22905",
+      "label": "$$$message_0177_0162_0001$$$"
+    },
+    {
+      "en": "Twirling his wicked knives, Avenger's lips curl into a genuine smile of delight.[lr]",
+      "jp": "　凶悪な[ruby text=ナイフ char=2]刃物を器用に回しながら、彼は心底愉快そうに口元をつり上げる。[lr]",
+      "Pt-br": "Girando seus terríveis punhais, o Avenger sorri com um verdadeiro sorriso de prazer.[lr]",
+      "id": 606,
+      "epk_id": "22906",
+      "label": "$$$message_0177_0162_0002$$$"
+    },
+    {
+      "en": "He just needs to kill.[lr]",
+      "jp": "　生き物を殺せればそれでいい、と。[lr]",
+      "Pt-br": "Ele só precisa matar.[lr]",
+      "id": 607,
+      "epk_id": "22907",
+      "label": "$$$message_0177_0162_0003$$$"
+    },
+    {
+      "en": "It doesn't matter if they're humans or animals.[lr]",
+      "jp": "　人間も動物も変わらない。[lr]",
+      "Pt-br": "Não importa se são humanos ou animais.[lr]",
+      "id": 608,
+      "epk_id": "22908",
+      "label": "$$$message_0177_0162_0004$$$"
+    },
+    {
+      "en": "They're all beasts in the end.",
+      "jp": "　ソレらは、もともと同じケモノであると。",
+      "Pt-br": "Eles todos são animais no fim.",
+      "id": 609,
+      "epk_id": "22909",
+      "label": "$$$message_0177_0162_0005$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「[line len=6]」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 610,
+      "epk_id": "22910",
+      "label": "$$$message_0177_0163_0000$$$"
+    },
+    {
+      "en": "I glare at my Servant.[lr]",
+      "jp": "　サーヴァントを睨み付ける。[lr]",
+      "Pt-br": "Lanço um olhar duro ao meu Servo.[lr]",
+      "id": 611,
+      "epk_id": "22911",
+      "label": "$$$message_0177_0163_0001$$$"
+    },
+    {
+      "en": "\"Ugh. Sorry, sorry. I won't kill any people. I'll only go after the Masters or monsters, so stop giving me that look... Argh, what a drag. My Master is so small-minded, unlike her chest.\"",
+      "jp": "「げ。間違い間違い、人間は殺しません。やるのはマスターと怪物たちだけにするから、そう怖い顔しないでください。……ああもうつまんねえの、うちのマスターは器量小せえんだからさー。でかいのは胸だけかよー」",
+      "Pt-br": "\"Ugh. Desculpa, desculpa. Não vou matar ninguém. Vou atrás só dos Mestres ou dos monstros, então para de me olhar assim... Argh, que saco. Minha Mestre é tão tacanha, diferente do peito dela.\"",
+      "id": 612,
+      "epk_id": "22912",
+      "label": "$$$message_0177_0163_0002$$$"
+    },
+    {
+      "en": "He disappears into the building, making his crude jokes all the while.[lr]",
+      "jp": "　軽口を叩きながら、彼はビルの中に消えていった。[lr]",
+      "Pt-br": "Ele desaparece no prédio, fazendo seus piados grosseiros o tempo todo.[lr]",
+      "id": 613,
+      "epk_id": "22913",
+      "label": "$$$message_0177_0164_0000$$$"
+    },
+    {
+      "en": "\"...He's awful. He's always like that, no matter what he says.\"[lr]",
+      "jp": "「[line len=3]最低ですね。アレは、何を言ってもあのままだ」[lr]",
+      "Pt-br": "\"...Ele é horrível. Ele sempre é assim, não importa o que diga.\"[lr]",
+      "id": 614,
+      "epk_id": "22914",
+      "label": "$$$message_0177_0164_0001$$$"
+    },
+    {
+      "en": "I sigh and leave the rooftop.[lr]",
+      "jp": "　溜息をついて、私も屋上を後にする。[lr]",
+      "Pt-br": "Suspiro e deixo o telhado.[lr]",
+      "id": 615,
+      "epk_id": "22915",
+      "label": "$$$message_0177_0164_0002$$$"
+    },
+    {
+      "en": "Above me, the moon is ominous. Below me, the city resembles the ocean abyss.[lr]",
+      "jp": "　頭上には不吉な月、眼下には深海の街。[lr]",
+      "Pt-br": "Acima de mim, a Lua é ominosa. Abaixo de mim, a cidade parece o abismo do oceano.[lr]",
+      "id": 616,
+      "epk_id": "22916",
+      "label": "$$$message_0177_0164_0003$$$"
+    },
+    {
+      "en": "I feel loathing and suspicion for the Servant fighting with me.[lr]",
+      "jp": "　共に戦うサーヴァントには嫌悪と不審。[lr]",
+      "Pt-br": "Sinto repulsa e desconfiança pelo Servo que luta ao meu lado.[lr]",
+      "id": 617,
+      "epk_id": "22917",
+      "label": "$$$message_0177_0164_0004$$$"
+    },
+    {
+      "en": "The variables just keep piling up in this Holy Grail War.[lr]",
+      "jp": "　不安材料ばかりが積もっていく聖杯戦争。[lr]",
+      "Pt-br": "As variáveis só seguem se acumulando nessa Guerra do Santo Graal.[lr]",
+      "id": 618,
+      "epk_id": "22918",
+      "label": "$$$message_0177_0164_0005$$$"
+    },
+    {
+      "en": "...Regardless, that Servant feels slightly friendlier than yesterday.",
+      "jp": "　……にも[ruby text=かか]拘わらず、私はあのサーヴァントに、昨日よりほんの少しだけ、愛着らしきものを持っていた。",
+      "Pt-br": "...Ainda assim, aquele Servo parece um pouco mais amigável do que ontem.",
+      "id": 619,
+      "epk_id": "22919",
+      "label": "$$$message_0177_0164_0006$$$"
+    },
+    {
+      "en": "   He was gazing out at the city.[lr]",
+      "jp": "　[line len=3]街を眺めていたサーヴァント。[lr]",
+      "Pt-br": "Ele estava olhando para a cidade.[lr]",
+      "id": 620,
+      "epk_id": "22920",
+      "label": "$$$message_0177_0165_0000$$$"
+    },
+    {
+      "en": "When I saw his indifferent expression, I couldn't help but think[lr]",
+      "jp": "　冷淡なその姿を見て、理由もなく思ってしまった。[lr]",
+      "Pt-br": "Quando vi seu olhar indiferente, não pude deixar de pensar[lr]",
+      "id": 621,
+      "epk_id": "22921",
+      "label": "$$$message_0177_0165_0001$$$"
+    },
+    {
+      "en": "that he was incorrigibly evil.[lr]",
+      "jp": "　あの男はどうしようもないほどの悪だ。[lr]",
+      "Pt-br": "que ele era incorrigivelmente mal.[lr]",
+      "id": 622,
+      "epk_id": "22922",
+      "label": "$$$message_0177_0165_0002$$$"
+    },
+    {
+      "en": "And yet, contradictorily...[lr]",
+      "jp": "　……けれど。[lr]",
+      "Pt-br": "E ainda assim, contraditoriamente...[lr]",
+      "id": 623,
+      "epk_id": "22923",
+      "label": "$$$message_0177_0165_0003$$$"
+    },
+    {
+      "en": "I also felt that he loved the world and the people in it.",
+      "jp": "　同時に彼は、同じぐらい[ruby text=せかい char=2]人間を愛しているのではないか、なんて、矛盾した考えを。",
+      "Pt-br": "Eu também senti que ele amava o mundo e as pessoas nele.",
+      "id": 624,
+      "epk_id": "22924",
+      "label": "$$$message_0177_0165_0004$$$"
+    },
+    {
+      "en": "Aŋra Mainiiu is the name of one of the greatest devils of ancient Persia.[r]",
+      "jp": "アンリマユ。[r]古代ペルシャにおける、[r]最も強大な悪魔の名称。",
+      "Pt-br": "Aŋra Mainyu é o nome de um dos maiores demônios da antiga Pérsia.[r]",
+      "id": 625,
+      "epk_id": "922591",
+      "label": "$$$message_9177_0071_0000$$$"
+    }
+  ]
+}

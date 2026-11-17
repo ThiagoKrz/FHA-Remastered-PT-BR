@@ -1,0 +1,920 @@
+{
+  "cena": "1vjsbaa79jadb3chc24qnee54t",
+  "titulo": "Mansão Emiya: A Visita da Mitsuzuri",
+  "rota": "Dia 3",
+  "arquivo": "1vjsbaa79jadb3chc24qnee54t.epk_dec",
+  "linhas": [
+    {
+      "en": "\"Hm?\"[lr]",
+      "jp": "「ん？」[lr]",
+      "Pt-br": "\"Hm?\"[lr]",
+      "id": 14475,
+      "epk_id": "4143",
+      "label": "$$$message_0031_0000_0000$$$"
+    },
+    {
+      "en": "Huh, the doorbell? I'm not expecting any visitors. Maybe it's a delivery, or a newspaper salesperson.",
+      "jp": "　あれ、チャイム？　来客の予定はないから、宅配便か郵便配達か、あるいは新聞の集金か。",
+      "Pt-br": "Huh, a campainha? Não estou esperando visitas. Talvez seja uma entrega, ou um vendedor de jornal.",
+      "id": 14476,
+      "epk_id": "4144",
+      "label": "$$$message_0031_0000_0001$$$"
+    },
+    {
+      "en": "I get up and go to the front door.[lr]",
+      "jp": "　腰を上げて玄関に向かう。[lr]",
+      "Pt-br": "Eu me levanto e vou para a porta da frente.[lr]",
+      "id": 14477,
+      "epk_id": "4145",
+      "label": "$$$message_0031_0001_0000$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「…………」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 14478,
+      "epk_id": "4146",
+      "label": "$$$message_0031_0001_0001$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「…………」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 14479,
+      "epk_id": "4147",
+      "label": "$$$message_0031_0001_0002$$$"
+    },
+    {
+      "en": "...I hear voices talking.[lr]",
+      "jp": "　……話し声が聞こえる。[lr]",
+      "Pt-br": "...Ouço vozes conversando.[lr]",
+      "id": 14480,
+      "epk_id": "4148",
+      "label": "$$$message_0031_0001_0003$$$"
+    },
+    {
+      "en": "Someone arrived to greet the visitor before I could.",
+      "jp": "　玄関口には誰かいたのか、俺より先に来訪者を迎えていた。",
+      "Pt-br": "Alguém chegou para cumprimentar o visitante antes de mim.",
+      "id": 14481,
+      "epk_id": "4149",
+      "label": "$$$message_0031_0001_0004$$$"
+    },
+    {
+      "en": "\"Welcome and well met. Are you here to see Sakura or Shirou?\"[lr]",
+      "jp": "「ようこそいらっしゃいました。サクラか士郎に会いに来たのですか？」[lr]",
+      "Pt-br": "\"Bem-vinda e boa tarde. Você veio ver a Sakura ou o Shirou?\"[lr]",
+      "id": 14482,
+      "epk_id": "4150",
+      "label": "$$$message_0031_0002_0000$$$"
+    },
+    {
+      "en": "I hear Rider's voice around the corner.[lr]",
+      "jp": "　角の向こうから、ライダーの声が聞こえる。[lr]",
+      "Pt-br": "Eu ouço a voz da Rider do outro lado da esquina.[lr]",
+      "id": 14483,
+      "epk_id": "4151",
+      "label": "$$$message_0031_0002_0001$$$"
+    },
+    {
+      "en": "I'm glad she's being so polite.[lr]",
+      "jp": "　丁寧な応対が頼もしい。[lr]",
+      "Pt-br": "Estou feliz que ela esteja sendo tão educada.[lr]",
+      "id": 14484,
+      "epk_id": "4152",
+      "label": "$$$message_0031_0002_0002$$$"
+    },
+    {
+      "en": "But the visitor doesn't seem nearly as composed.",
+      "jp": "　なのに、お客の声が何故か落ち着かない様子。",
+      "Pt-br": "Mas a visitante não parece nem um pouco tão tranquila.",
+      "id": 14485,
+      "epk_id": "4153",
+      "label": "$$$message_0031_0002_0003$$$"
+    },
+    {
+      "en": "\"Urgh... M-Miss Rider?\"[lr]",
+      "jp": "「う……ら、ライダーさん？」[lr]",
+      "Pt-br": "\"Urgh... S-Rider-san?\"[lr]",
+      "id": 14486,
+      "epk_id": "4154",
+      "label": "$$$message_0031_0003_0000$$$"
+    },
+    {
+      "en": "\"Yes. Good day to you. It has been a while since we met outside the kyudo club, Ayako.\"[lr]",
+      "jp": "「はい、ご機嫌麗しゅう。弓道部の外で会うのは久しぶりですね、アヤコ」[lr]",
+      "Pt-br": "\"Sim. Bom dia para você. Faz um tempo desde que nos encontramos fora do Clube de Arco e Flecha, Ayako.\"[lr]",
+      "id": 14487,
+      "epk_id": "4155",
+      "label": "$$$message_0031_0003_0001$$$"
+    },
+    {
+      "en": "Mitsuzuri is the visitor.[lr]",
+      "jp": "　来客は美綴だった。[lr]",
+      "Pt-br": "Mitsuzuri é a visitante.[lr]",
+      "id": 14488,
+      "epk_id": "4156",
+      "label": "$$$message_0031_0003_0002$$$"
+    },
+    {
+      "en": "Sakura is here, so if she needs to speak about the club, it makes sense that she'd come here.",
+      "jp": "　ここには桜がいるのだ。弓道部の話もあるだろうし、あいつがやってくるのも珍しい事ではなくなっているのか。",
+      "Pt-br": "A Sakura está aqui, então se ela precisa falar sobre o clube, faz sentido que ela venha aqui.",
+      "id": 14489,
+      "epk_id": "4157",
+      "label": "$$$message_0031_0003_0003$$$"
+    },
+    {
+      "en": "\"Oh, you're just, uh, so pretty as usual.[lr]",
+      "jp": "「や、ライダーさんこそ……その、いつもおきれいで。[lr]",
+      "Pt-br": "\"Ah, Rider-san está, uh, muito bonita como de costume.[lr]",
+      "id": 14490,
+      "epk_id": "4158",
+      "label": "$$$message_0031_0004_0000$$$"
+    },
+    {
+      "en": "Aha. Hahaha, ha...\"[lr]",
+      "jp": "　あは。ははは、は……」[lr]",
+      "Pt-br": "Aha. Hahaha, ha...\"[lr]",
+      "id": 14491,
+      "epk_id": "4159",
+      "label": "$$$message_0031_0004_0001$$$"
+    },
+    {
+      "en": "\"Thank you. But I could say the same for you. In fact, I'd say you strike a gallant figure.[lr]",
+      "jp": "「ありがとうございます。ですが、そう言う貴女も美しい。いえ、凛々しいと言うべきでしょうか。[lr]",
+      "Pt-br": "\"Obrigada. Mas eu poderia dizer o mesmo de você. De fato, eu diria que você tem uma figura galante.[lr]",
+      "id": 14492,
+      "epk_id": "4160",
+      "label": "$$$message_0031_0004_0002$$$"
+    },
+    {
+      "en": "Both your face and your whole appearance are so charmingly androgynous.\"[lr]",
+      "jp": "　顔立ちのみならず佇まいも中性的で、思わず見とれてしまう程です」[lr]",
+      "Pt-br": "Tanto seu rosto quanto toda a sua aparência são tão encantadoramente andróginos.\"[lr]",
+      "id": 14493,
+      "epk_id": "4161",
+      "label": "$$$message_0031_0004_0003$$$"
+    },
+    {
+      "en": "\"Eh? [cacheimage storage=美綴私服02e(遠)][wvl canskip=false time=300][chgfg storage=美綴私服02e(遠) pos=r time=300 textoff=0]A-aw, you're making me blush...\"",
+      "jp": "「え？　[cacheimage storage=美綴私服02e(遠)][wvl canskip=false time=300][chgfg storage=美綴私服02e(遠) pos=r time=300 textoff=0]そ、そういわれると照れ……」",
+      "Pt-br": "\"Eh? [cacheimage storage=美綴私服02e(遠)][wvl canskip=false time=300][chgfg storage=美綴私服02e(遠) pos=r time=300 textoff=0]A-aw, você está me fazendo corar...\"",
+      "id": 14494,
+      "epk_id": "4162",
+      "label": "$$$message_0031_0004_0004$$$"
+    },
+    {
+      "en": "...What a suspicious atmosphere.[lr]",
+      "jp": "　……なんとなく雰囲気が怪しい。[lr]",
+      "Pt-br": "...Que atmosfera suspeita.[lr]",
+      "id": 14495,
+      "epk_id": "4163",
+      "label": "$$$message_0031_0005_0000$$$"
+    },
+    {
+      "en": "No, Rider's the only one acting suspicious. She's being so friendly it gives me chills, compared to her usual unreadable demeanor.",
+      "jp": "　いや、怪しくしているのはライダーだけで、いつもは難しい顔をしているのに、今は寒気がするほど笑顔の安売りだ。",
+      "Pt-br": "Não, a Rider é a única agindo de forma suspeita. Ela está sendo tão amigável que me dá calafrios, comparado ao seu comportamento ilegível de sempre.",
+      "id": 14496,
+      "epk_id": "4164",
+      "label": "$$$message_0031_0005_0001$$$"
+    },
+    {
+      "en": "\"...She's like a snake eyeing a mouse.\"[lr]",
+      "jp": "「……鼠を睨む蛇だな、ありゃ」[lr]",
+      "Pt-br": "\"...Ela é como uma cobra de olho em um rato.\"[lr]",
+      "id": 14497,
+      "epk_id": "4165",
+      "label": "$$$message_0031_0006_0000$$$"
+    },
+    {
+      "en": "Mitsuzuri's a skilled martial artist, so she must instinctively sense the threat.[lr]",
+      "jp": "　武芸達者の美綴のことだ、本能的に危険を感じとっているんだろう。[lr]",
+      "Pt-br": "A Mitsuzuri é uma artista marcial habilidosa, então ela deve sentir a ameaça instintivamente.[lr]",
+      "id": 14498,
+      "epk_id": "4166",
+      "label": "$$$message_0031_0006_0001$$$"
+    },
+    {
+      "en": "I remember she said she wasn't good at dealing with Rider, so she must feel utterly cornered right now...",
+      "jp": "　前々からライダーが苦手だと言っていたから、今の状況はまさに絶体絶命なのだが……",
+      "Pt-br": "Lembro que ela disse que não era boa em lidar com a Rider, então ela deve estar se sentindo completamente encurralada agora...",
+      "id": 14499,
+      "epk_id": "4167",
+      "label": "$$$message_0031_0006_0002$$$"
+    },
+    {
+      "en": "\"Now, what business do you have here today?\"[lr]",
+      "jp": "「さて。それで、今日はどのようなご用件で？」[lr]",
+      "Pt-br": "\"Agora, que negócios você tem aqui hoje?\"[lr]",
+      "id": 14500,
+      "epk_id": "4168",
+      "label": "$$$message_0031_0007_0000$$$"
+    },
+    {
+      "en": "\"Ah... [cacheimage storage=美綴私服02e(遠)][wvl][chgfg time=200 storage=美綴私服02e(遠) textoff=0]Um, I'm looking for Matou.\"[lr]",
+      "jp": "「あ……[cacheimage storage=美綴私服02e(遠)][wvl][chgfg time=200 storage=美綴私服02e(遠) textoff=0]その、間桐に用があって」[lr]",
+      "Pt-br": "\"Ah... [cacheimage storage=美綴私服02e(遠)][wvl][chgfg time=200 storage=美綴私服02e(遠) textoff=0]Hum, eu estou procurando a Matou.\"[lr]",
+      "id": 14501,
+      "epk_id": "4169",
+      "label": "$$$message_0031_0007_0001$$$"
+    },
+    {
+      "en": "\"[movefg opacity=255 time=600 pos=rc accel=-2 storage=ライダー私服01d(遠) textoff=0][move time=180 path=(517,160,255)(574,132,255)(607,155,255)(617,132,255) storage=美綴私服02e(遠) accel=-2 spline=1 textoff=0][say storage=emi0316_rad_0040 name=ライダー]Is this regarding the kyudo club?[lr]",
+      "jp": "「[movefg opacity=255 time=600 pos=rc accel=-2 storage=ライダー私服01d(遠) textoff=0][move time=180 path=(517,160,255)(574,132,255)(607,155,255)(617,132,255) storage=美綴私服02e(遠) accel=-2 spline=1 textoff=0][say storage=emi0316_rad_0040 name=ライダー]弓道部の件ですね？[lr]",
+      "Pt-br": "\"[movefg opacity=255 time=600 pos=rc accel=-2 storage=ライダー私服01d(遠) textoff=0][move time=180 path=(517,160,255)(574,132,255)(607,155,255)(617,132,255) storage=美綴私服02e(遠) accel=-2 spline=1 textoff=0][say storage=emi0316_rad_0040 name=ライダー]Isso é sobre o Clube de Arco e Flecha?[lr]",
+      "id": 14502,
+      "epk_id": "4170",
+      "label": "$$$message_0031_0007_0002$$$"
+    },
+    {
+      "en": "...You're very thoughtful of your juniors. I feel a need to thank you on behalf of Sakura.\"[wm canskip=0][wm canskip=0][lr]",
+      "jp": "　……アヤコは本当に後輩思いだ。サクラに代わって礼をしなければ、私の気が済みそうにないほどに」[wm canskip=0][wm canskip=0][lr]",
+      "Pt-br": "...Você é muito atenciosa com seus calouros. Sinto a necessidade de lhe agradecer em nome da Sakura.\"[wm canskip=0][wm canskip=0][lr]",
+      "id": 14503,
+      "epk_id": "4171",
+      "label": "$$$message_0031_0007_0003$$$"
+    },
+    {
+      "en": "[chgfg time=200 storage=ライダー私服01c(遠),美綴私服02d(遠) textoff=0][movefg opacity=255 left=330 top=79 time=1200 accel=-2 storage=ライダー私服01c(遠) textoff=0][movefg opacity=255 left=637 top=132 time=800 accel=-2 storage=美綴私服02d(遠) textoff=0]Rider chuckles while seductively backing Mitsuzuri up against the wall.",
+      "jp": "　[chgfg time=200 storage=ライダー私服01c(遠),美綴私服02d(遠) textoff=0][movefg opacity=255 left=330 top=79 time=1200 accel=-2 storage=ライダー私服01c(遠) textoff=0][movefg opacity=255 left=637 top=132 time=800 accel=-2 storage=美綴私服02d(遠) textoff=0]ふふふ、と怪しく微笑みながら美綴を壁に追い詰めていくライダー。",
+      "Pt-br": "[chgfg time=200 storage=ライダー私服01c(遠),美綴私服02d(遠) textoff=0][movefg opacity=255 left=330 top=79 time=1200 accel=-2 storage=ライダー私服01c(遠) textoff=0][movefg opacity=255 left=637 top=132 time=800 accel=-2 storage=美綴私服02d(遠) textoff=0]A Rider ri baixo e, com um sorriso perigoso, vai encurralando a Mitsuzuri contra a parede.",
+      "id": 14504,
+      "epk_id": "4172",
+      "label": "$$$message_0031_0007_0004$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「………………」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 14505,
+      "epk_id": "4173",
+      "label": "$$$message_0031_0008_0000$$$"
+    },
+    {
+      "en": "She's enjoying teasing Mitsuzuri...I hope. It's hard to tell what Rider's really thinking.[lr]",
+      "jp": "　美綴をからかって楽しんでいる……と思いたいのだが、ライダーの本音は推し量れない。[lr]",
+      "Pt-br": "Ela está se divertindo provocando a Mitsuzuri... é o que eu espero. Com a Rider, nunca dá para saber o que ela está pensando.[lr]",
+      "id": 14506,
+      "epk_id": "4174",
+      "label": "$$$message_0031_0008_0001$$$"
+    },
+    {
+      "en": "She regards Sakura above anyone else, so she might actually be sincere in her gratitude.[wm canskip=0][wm canskip=0]",
+      "jp": "　ライダーはサクラ至上主義者なんで、本気で美綴に感謝しているかもしんないし。[wm canskip=0][wm canskip=0]",
+      "Pt-br": "Para a Rider, a Sakura vem antes de todo mundo; talvez ela esteja agradecendo de coração mesmo.[wm canskip=0][wm canskip=0]",
+      "id": 14507,
+      "epk_id": "4175",
+      "label": "$$$message_0031_0008_0002$$$"
+    },
+    {
+      "en": "\"N-no, I don't deserve your thanks... I just do it because I like it, so there's no need to be so polite...\"[lr]",
+      "jp": "「い、いえ、お礼とかは結構っていうか……ほら、あたしも好きでやってるコトだから、気兼ねしないでほしいなあー、とか……」[lr]",
+      "Pt-br": "\"N-não, não precisa agradecer... Eu faço porque gosto, então não precisa se preocupar comigo...\"[lr]",
+      "id": 14508,
+      "epk_id": "4176",
+      "label": "$$$message_0031_0009_0000$$$"
+    },
+    {
+      "en": "\"Why, that's wonderful. I'm doing this because I like it too, so I hope you'll accept my gratitude.\"",
+      "jp": "「それは素晴らしい。私も好きでやっているのですから、どうぞ気兼ねなく受け入れてほしい」",
+      "Pt-br": "\"Ora, que admirável. Eu também faço isso porque gosto, então aceite minha gratidão sem reservas.\"",
+      "id": 14509,
+      "epk_id": "4177",
+      "label": "$$$message_0031_0009_0001$$$"
+    },
+    {
+      "en": "\"By the way, Ayako, have you been eating a balanced diet lately?[lr]",
+      "jp": "「ところでアヤコ、最近はバランスのいい食生活を送っていますか？[lr]",
+      "Pt-br": "\"A propósito, Ayako, você tem tido uma dieta balanceada ultimamente?[lr]",
+      "id": 14510,
+      "epk_id": "4178",
+      "label": "$$$message_0031_0010_0000$$$"
+    },
+    {
+      "en": "It appears you don't eat much meat, so there isn't much fat content in your blood. That may sound like a good thing, but I worry for your richness.\"",
+      "jp": "　貴女はあまり肉を摂らないようですが、それでは血液に脂が乗らない。口あたりはいいのですが、あまりコクがないのもどうかと思います」",
+      "Pt-br": "Você parece comer pouca carne, então falta gordura ao seu sangue. Pode soar saudável, mas me preocupa a falta de corpo no sabor.\"",
+      "id": 14511,
+      "epk_id": "4179",
+      "label": "$$$message_0031_0010_0001$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「[line len=6]」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 14512,
+      "epk_id": "4180",
+      "label": "$$$message_0031_0011_0000$$$"
+    },
+    {
+      "en": "Hold on.[lr]",
+      "jp": "　……待て。[lr]",
+      "Pt-br": "Espera.[lr]",
+      "id": 14513,
+      "epk_id": "4181",
+      "label": "$$$message_0031_0011_0001$$$"
+    },
+    {
+      "en": "That sounded awfully sinister, Rider.",
+      "jp": "　なんか、良からぬコト口走らなかったかライダー。",
+      "Pt-br": "Isso soou muito sinistro, Rider.",
+      "id": 14514,
+      "epk_id": "4182",
+      "label": "$$$message_0031_0011_0002$$$"
+    },
+    {
+      "en": "\"B-b-blood!? What are you talking about, Miss Rider!? Why are we talking about this, anyway...!?\"[lr]",
+      "jp": "「ちちち、血って何の話ですかライダーさん！　な、なんでいきなりそんな話をするんでしょう……！」[lr]",
+      "Pt-br": "\"S-s-sangue!? Do que você está falando, Rider-san!? Por que estamos falando sobre isso, afinal...!?\"[lr]",
+      "id": 14515,
+      "epk_id": "4183",
+      "label": "$$$message_0031_0012_0000$$$"
+    },
+    {
+      "en": "\"It was just a metaphor.[lr]",
+      "jp": "「ただの喩え話です。[lr]",
+      "Pt-br": "\"Foi apenas uma metáfora.[lr]",
+      "id": 14516,
+      "epk_id": "4184",
+      "label": "$$$message_0031_0012_0001$$$"
+    },
+    {
+      "en": "If you'd like to understand... I know, I could explain in my room.\"",
+      "jp": "　何の喩え話なのかは[line len=3]そうですね、私の部屋でゆっくり説明いたしましょう」",
+      "Pt-br": "Se você quiser entender... Já sei, eu poderia lhe explicar no meu quarto.\"",
+      "id": 14517,
+      "epk_id": "4185",
+      "label": "$$$message_0031_0012_0002$$$"
+    },
+    {
+      "en": "\"Uh...no, um...[lr]",
+      "jp": "「あ……いえ、それは……[lr]",
+      "Pt-br": "\"Uh... não, hum...[lr]",
+      "id": 14518,
+      "epk_id": "4186",
+      "label": "$$$message_0031_0013_0000$$$"
+    },
+    {
+      "en": "Hey Emiya, Matou, I know you're watching! Help!\"",
+      "jp": "　って、衛宮、間桐、見てるんだろ、助けろー！」",
+      "Pt-br": "Ei Emiya, Matou, eu sei que vocês estão assistindo! Socorro!\"",
+      "id": 14519,
+      "epk_id": "4187",
+      "label": "$$$message_0031_0013_0001$$$"
+    },
+    {
+      "en": "Busted.[lr]",
+      "jp": "　ギクリ。[lr]",
+      "Pt-br": "Fui pego.[lr]",
+      "id": 14520,
+      "epk_id": "4188",
+      "label": "$$$message_0031_0014_0000$$$"
+    },
+    {
+      "en": "N-nah, she was just throwing that out there.[lr]",
+      "jp": "　い、いや、当てずっぽうで言ってるだけだ。[lr]",
+      "Pt-br": "N-não, ela só jogou isso no ar.[lr]",
+      "id": 14521,
+      "epk_id": "4189",
+      "label": "$$$message_0031_0014_0001$$$"
+    },
+    {
+      "en": "After all, it's just me here, not Sakura.",
+      "jp": "　だって俺はともかく、桜はいないぞ。",
+      "Pt-br": "Afinal, sou só eu aqui, e não a Sakura.",
+      "id": 14522,
+      "epk_id": "4190",
+      "label": "$$$message_0031_0014_0002$$$"
+    },
+    {
+      "en": "\"I'm impressed, Senpai. You noticed me.\"[lr]",
+      "jp": "「さすがです先輩、気付かれちゃいましたか」[lr]",
+      "Pt-br": "\"Estou impressionada, Senpai. Você me notou.\"[lr]",
+      "id": 14523,
+      "epk_id": "4191",
+      "label": "$$$message_0031_0015_0000$$$"
+    },
+    {
+      "en": "\"Waah!\"[lr]",
+      "jp": "「わぁっ！」[lr]",
+      "Pt-br": "\"Waah!\"[lr]",
+      "id": 14524,
+      "epk_id": "4192",
+      "label": "$$$message_0031_0015_0001$$$"
+    },
+    {
+      "en": "A-at some point Sakura was watching too?[lr]",
+      "jp": "　い、いつの間に桜まで覗いてたんだ？[lr]",
+      "Pt-br": "E-em algum momento a Sakura também estava assistindo?[lr]",
+      "id": 14525,
+      "epk_id": "4193",
+      "label": "$$$message_0031_0015_0002$$$"
+    },
+    {
+      "en": "I was so engrossed in watching Mitsuzuri's predicament that I completely failed to notice her.",
+      "jp": "　美綴のピンチに夢中になりすぎて、気が付かなかった。",
+      "Pt-br": "Eu estava tão absorto assistindo ao apuro da Mitsuzuri que falhei completamente em notá-la.",
+      "id": 14526,
+      "epk_id": "4194",
+      "label": "$$$message_0031_0015_0003$$$"
+    },
+    {
+      "en": "\"You two have really bad taste, siccing her on me while grinning from the shadows. You aren't supposed to be like Tohsaka!\"[lr]",
+      "jp": "「おまえらな、ライダーさんをけしかけて、にやにや覗き見なんて趣味悪いぞ。遠坂じゃないんだから！」[lr]",
+      "Pt-br": "\"Vocês dois têm péssimo gosto, atiçando ela para cima de mim enquanto sorriem das sombras. Vocês não deveriam ser como a Tohsaka, Rider-san!\"[lr]",
+      "id": 14527,
+      "epk_id": "4195",
+      "label": "$$$message_0031_0016_0000$$$"
+    },
+    {
+      "en": "\"Aw, I didn't mean to do that.\"[lr]",
+      "jp": "「えー。そんな計画してないぞー？」[lr]",
+      "Pt-br": "\"Ah, eu não fiz por mal.\"[lr]",
+      "id": 14528,
+      "epk_id": "4196",
+      "label": "$$$message_0031_0016_0001$$$"
+    },
+    {
+      "en": "\"It was just a coincidence.\"",
+      "jp": "「偶然ですよ、美綴先輩」",
+      "Pt-br": "\"Foi só coincidência, Mitsuzuri-senpai.\"",
+      "id": 14529,
+      "epk_id": "4197",
+      "label": "$$$message_0031_0016_0002$$$"
+    },
+    {
+      "en": "\"Oh, looks like I'm out of time.\"[lr]",
+      "jp": "「おや。とっくに時間切れでしたか」[lr]",
+      "Pt-br": "\"Ah, meu tempo acabou.\"[lr]",
+      "id": 14530,
+      "epk_id": "4198",
+      "label": "$$$message_0031_0017_0000$$$"
+    },
+    {
+      "en": "Rider pulls back once Sakura shows up.[lr]",
+      "jp": "　桜の登場でササッと身を引くライダー。[lr]",
+      "Pt-br": "A Rider se afasta assim que a Sakura aparece.[lr]",
+      "id": 14531,
+      "epk_id": "4199",
+      "label": "$$$message_0031_0017_0001$$$"
+    },
+    {
+      "en": "It's a very graceful movement.",
+      "jp": "　鮮やかな身の引き方である。",
+      "Pt-br": "É um movimento muito elegante.",
+      "id": 14532,
+      "epk_id": "4200",
+      "label": "$$$message_0031_0017_0002$$$"
+    },
+    {
+      "en": "\"Don't act so disappointed, Rider. [cacheimage storage=美綴私服02c(中)][wvl][chgfg time=300 storage=美綴私服02c(中) textoff=0]You can see Mitsuzuri at the kyudo club whenever you want.\"",
+      "jp": "「がっかりするなライダー。[cacheimage storage=美綴私服02c(中)][wvl][chgfg time=300 storage=美綴私服02c(中) textoff=0]美綴とは弓道部でいつでも会えるんだから」",
+      "Pt-br": "\"Não aja tão decepcionada, Rider. [cacheimage storage=美綴私服02c(中)][wvl][chgfg time=300 storage=美綴私服02c(中) textoff=0]Você pode ver a Mitsuzuri no Clube de Arco e Flecha quando quiser.\"",
+      "id": 14533,
+      "epk_id": "4201",
+      "label": "$$$message_0031_0018_0000$$$"
+    },
+    {
+      "en": "\"That's right. I'm sure you'll become fast friends. So hang in there, Rider.\"[lr]",
+      "jp": "「そうですよ、すぐにライダーも美綴先輩と仲良くなれますよー。だからしっかりして、ライダー」[lr]",
+      "Pt-br": "\"É verdade. Tenho certeza de que se tornarão amigas rápidas. Então aguente firme, Rider, Mitsuzuri-senpai.\"[lr]",
+      "id": 14534,
+      "epk_id": "4202",
+      "label": "$$$message_0031_0019_0000$$$"
+    },
+    {
+      "en": "\"True... Unfortunately, I still haven't completely moved on from past pains,[cacheimage storage=ライダー私服01a(中)][wvl canskip=false time=300][chgfg time=300 storage=ライダー私服01a(中) textoff=0] and I wouldn't want to rush things now, so I'll take my leave.[lr]",
+      "jp": "「そうですね……残念ですが、今はまだ過去のしこりが拭えないようです。[cacheimage storage=ライダー私服01a(中)][wvl canskip=false time=300][chgfg time=300 storage=ライダー私服01a(中) textoff=0]急いては事をし損じるとも言いますし、私はこれで。[lr]",
+      "Pt-br": "\"É verdade... Infelizmente, eu ainda não superei completamente as dores do passado,[cacheimage storage=ライダー私服01a(中)][wvl canskip=false time=300][chgfg time=300 storage=ライダー私服01a(中) textoff=0] e não gostaria de apressar as coisas agora, então eu vou me retirar.[lr]",
+      "id": 14535,
+      "epk_id": "4203",
+      "label": "$$$message_0031_0019_0001$$$"
+    },
+    {
+      "en": "Take good care of Sakura, Ayako.\"[lr]",
+      "jp": "　サクラをよろしくお願いします、アヤコ」[lr]",
+      "Pt-br": "Cuide bem da Sakura, Ayako.\"[lr]",
+      "id": 14536,
+      "epk_id": "4204",
+      "label": "$$$message_0031_0019_0002$$$"
+    },
+    {
+      "en": "Rider leaves the entrance.",
+      "jp": "　では、とライダーは玄関から出て行った。",
+      "Pt-br": "A Rider sai pela entrada.",
+      "id": 14537,
+      "epk_id": "4205",
+      "label": "$$$message_0031_0019_0003$$$"
+    },
+    {
+      "en": "\"...Whew. I didn't think I'd run into her here. That threw me for a loop.\"[lr]",
+      "jp": "「……ふー、まさかライダーさんが居合わせるとはね。まいったねこりゃ」[lr]",
+      "Pt-br": "\"...Ufa. Não achei que a encontraria aqui. Isso me pegou de surpresa, Rider-san.\"[lr]",
+      "id": 14538,
+      "epk_id": "4206",
+      "label": "$$$message_0031_0020_0000$$$"
+    },
+    {
+      "en": "\"Ah, sorry Senpai, but let me give you a belated welcome.\"[lr]",
+      "jp": "「あ、遅くなりましたけど、いらっしゃいませ、先輩」[lr]",
+      "Pt-br": "\"Ah, desculpe Senpai, mas deixe-me te dar as boas-vindas atrasada.\"[lr]",
+      "id": 14539,
+      "epk_id": "4207",
+      "label": "$$$message_0031_0020_0001$$$"
+    },
+    {
+      "en": "\"Hey Mitsuzuri, what's up? Come on in.\"",
+      "jp": "「よう、こんちは美綴。あがれよ、立ち話もなんだろ」",
+      "Pt-br": "\"Ei Mitsuzuri, e aí? Entre.\"",
+      "id": 14540,
+      "epk_id": "4208",
+      "label": "$$$message_0031_0020_0002$$$"
+    },
+    {
+      "en": "\"Thanks, pardon the intrusion.\"[lr]",
+      "jp": "「はいよ。んじゃ遠慮なく」[lr]",
+      "Pt-br": "\"Obrigada, com licença.\"[lr]",
+      "id": 14541,
+      "epk_id": "4209",
+      "label": "$$$message_0031_0021_0000$$$"
+    },
+    {
+      "en": "\"Ah, [cacheimage storage=桜私服04b(中)][wvl][movefg opacity=255 time=600 pos=l accel=-2 storage=桜私服04b(中) textoff=0]I'll make some tea.\"[wm canskip=0][lr]",
+      "jp": "「あ、[cacheimage storage=桜私服04b(中)][wvl][movefg opacity=255 time=600 pos=l accel=-2 storage=桜私服04b(中) textoff=0]わたし、お茶淹れてきますね」[wm canskip=0][lr]",
+      "Pt-br": "\"Ah, [cacheimage storage=桜私服04b(中)][wvl][movefg opacity=255 time=600 pos=l accel=-2 storage=桜私服04b(中) textoff=0]eu farei um pouco de chá.\"[wm canskip=0][lr]",
+      "id": 14542,
+      "epk_id": "4210",
+      "label": "$$$message_0031_0021_0001$$$"
+    },
+    {
+      "en": "\"Huh? ...Okay. Thanks, Sakura.\"",
+      "jp": "「え？　……まあいっか、よろしく桜」",
+      "Pt-br": "\"Hã? ...Ok. Obrigada, Sakura.\"",
+      "id": 14543,
+      "epk_id": "4211",
+      "label": "$$$message_0031_0021_0002$$$"
+    },
+    {
+      "en": "\"...Huh.\"[lr]",
+      "jp": "「…………へぇ」[lr]",
+      "Pt-br": "\"...Hã.\"[lr]",
+      "id": 14544,
+      "epk_id": "4212",
+      "label": "$$$message_0031_0022_0000$$$"
+    },
+    {
+      "en": "\"What?\"[lr]",
+      "jp": "「なんだよ」[lr]",
+      "Pt-br": "\"O que?\"[lr]",
+      "id": 14545,
+      "epk_id": "4213",
+      "label": "$$$message_0031_0022_0001$$$"
+    },
+    {
+      "en": "\"Matou. She's totally like a loving commuter wife now.\"[lr]",
+      "jp": "「間桐のコトだよ。すっかり恋女房というか通い妻だね」[lr]",
+      "Pt-br": "\"Matou. Agora ela parece uma esposa apaixonada que vive vindo cuidar de você.\"[lr]",
+      "id": 14546,
+      "epk_id": "4214",
+      "label": "$$$message_0031_0022_0002$$$"
+    },
+    {
+      "en": "   I don't know what to say to that.[lr]",
+      "jp": "　[line len=3]返答に窮する発言だった。[lr]",
+      "Pt-br": "Nem sei como responder a isso.[lr]",
+      "id": 14547,
+      "epk_id": "4215",
+      "label": "$$$message_0031_0022_0003$$$"
+    },
+    {
+      "en": "Argh, she must be getting me back for Rider.",
+      "jp": "　く、ライダーのことの仕返しか。",
+      "Pt-br": "Argh, ela deve estar dando o troco por causa da Rider.",
+      "id": 14548,
+      "epk_id": "4216",
+      "label": "$$$message_0031_0022_0004$$$"
+    },
+    {
+      "en": "\"Stop pulling my leg. She isn't the only other one who lives here, you know. There's Rider and Saber, and...\"",
+      "jp": "「からかうなよ。この家にいるのは桜だけじゃないぞ。ライダーもセイバーもだな、」",
+      "Pt-br": "\"Para de me provocar. Ela não é a única que mora aqui, sabia? Tem a Rider, a Saber, e...\"",
+      "id": 14549,
+      "epk_id": "4217",
+      "label": "$$$message_0031_0023_0000$$$"
+    },
+    {
+      "en": "\"Tohsaka and Ms. Fujimura too, right? How lively. [cacheimage storage=美綴私服01b(中)][wvl][chgfg storage=美綴私服01b(中) time=300 textoff=0]But as long as Matou's happy to be your dear visiting wife.\"[lr]",
+      "jp": "「あと遠坂と藤村先生だっけ、賑やかだねぇ。[cacheimage storage=美綴私服01b(中)][wvl][chgfg storage=美綴私服01b(中) time=300 textoff=0]けど間桐は楽しそうだからいいじゃないか、衛宮の通い妻でも恋女房でもなんでもさ」[lr]",
+      "Pt-br": "\"A Tohsaka e a Fujimura-sensei também, né? Que casa animada. [cacheimage storage=美綴私服01b(中)][wvl][chgfg storage=美綴私服01b(中) time=300 textoff=0]Mas, se a Matou está feliz sendo sua esposa dedicada que vem aqui todo dia, qual o problema?\"[lr]",
+      "id": 14550,
+      "epk_id": "4218",
+      "label": "$$$message_0031_0024_0000$$$"
+    },
+    {
+      "en": "\"Mrgh...\"[lr]",
+      "jp": "「む……」[lr]",
+      "Pt-br": "\"Mgh...\"[lr]",
+      "id": 14551,
+      "epk_id": "4219",
+      "label": "$$$message_0031_0024_0001$$$"
+    },
+    {
+      "en": "She might have a point, but I don't know.",
+      "jp": "　一理あるような、ないような。",
+      "Pt-br": "Ela pode ter um ponto, mas não sei.",
+      "id": 14552,
+      "epk_id": "4220",
+      "label": "$$$message_0031_0024_0002$$$"
+    },
+    {
+      "en": "\"Love makes people stronger, eh? Maybe I really should get myself a boyfriend.\"[lr]",
+      "jp": "「恋は人を強くするか。あーあ、あたしもやっぱり彼氏つくろーかなー」[lr]",
+      "Pt-br": "\"O amor torna as pessoas mais fortes, eh? Talvez eu deva arranjar um namorado também.\"[lr]",
+      "id": 14553,
+      "epk_id": "4221",
+      "label": "$$$message_0031_0025_0000$$$"
+    },
+    {
+      "en": "\"Ah... You still don't have one after that, huh?\"[lr]",
+      "jp": "「あー……まだ居ないんだったっけ、アレから」[lr]",
+      "Pt-br": "\"Ah... Você ainda não tem um depois daquilo, né?\"[lr]",
+      "id": 14554,
+      "epk_id": "4222",
+      "label": "$$$message_0031_0025_0001$$$"
+    },
+    {
+      "en": "\"Nope. As an aftereffect from that whole thing, I avoided guys for a while, until now. All the ones around me are busy thinking about their futures, too.\"",
+      "jp": "「そりゃいないわよ。アレの後遺症でね、しばらく男を遠ざけてたらこの時期だろ。まわりの男なんざ進路で忙しいって言うの」",
+      "Pt-br": "\"Não. Como um efeito colateral de toda aquela história, eu evitei os garotos por um tempo, até agora. Todos os que estão ao meu redor também estão ocupados pensando no futuro deles.\"",
+      "id": 14555,
+      "epk_id": "4223",
+      "label": "$$$message_0031_0025_0002$$$"
+    },
+    {
+      "en": "\"That time\" must be referring to the incident in April.[lr]",
+      "jp": "　アレというのは、やっぱり四月のアレか。[lr]",
+      "Pt-br": "\"Aquela época\" deve estar se referindo ao incidente de abril.[lr]",
+      "id": 14556,
+      "epk_id": "4224",
+      "label": "$$$message_0031_0026_0000$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=美綴私服01a(中) textoff=0]I miss those days a little, but they were also a nightmare I have trouble forgetting. I can't believe she went that far...",
+      "jp": "　[chgfg time=300 storage=美綴私服01a(中) textoff=0]……懐かしいというか、忘れがたいと言うか、悪夢というか。まさか俺の知らないところであんな事をやってるとは[line len=3]",
+      "Pt-br": "[chgfg time=300 storage=美綴私服01a(中) textoff=0]Sinto um pouco de falta daqueles dias, mas eles também foram um pesadelo que tenho dificuldade em esquecer. Não acredito que ela foi tão longe...",
+      "id": 14557,
+      "epk_id": "4225",
+      "label": "$$$message_0031_0026_0001$$$"
+    },
+    {
+      "en": "\"I'll say it as many times as I have to, but that didn't count. Why do I have to go along with what Tohsaka says in this situation?\"[lr]",
+      "jp": "「何度も言うけどな、あれはノーゲームだぞ？　第一こんな状況なのに遠坂の主張が呑めるもんか」[lr]",
+      "Pt-br": "\"Vou dizer isso quantas vezes for preciso, mas aquilo não contou. Por que eu tenho que concordar com o que a Tohsaka diz nessa situação?\"[lr]",
+      "id": 14558,
+      "epk_id": "4226",
+      "label": "$$$message_0031_0027_0000$$$"
+    },
+    {
+      "en": "\"You have to admit, what you did wasn't a great look.\"",
+      "jp": "「とはいうものの、美綴のあの手もひどいと思うぞ」",
+      "Pt-br": "\"Você tem que admitir que o que você fez não pegou muito bem.\"",
+      "id": 14559,
+      "epk_id": "4227",
+      "label": "$$$message_0031_0027_0001$$$"
+    },
+    {
+      "en": "\"Even you turned a blind eye to her schemes.[lr]",
+      "jp": "「あんただって遠坂の作戦を見過ごしてたじゃないか。[lr]",
+      "Pt-br": "\"Até você fez vista grossa para os esquemas dela.[lr]",
+      "id": 14560,
+      "epk_id": "4228",
+      "label": "$$$message_0031_0028_0000$$$"
+    },
+    {
+      "en": "Honestly, there's something at your core that's so cold or robotic. I never figured you for such a stone-hearted, friendless person.\"[lr]",
+      "jp": "　ほーんと、根っこの部分で衛宮は冷たいっていうかロボットって言うか、そこまで友達甲斐のないヤツだと思わなかったね」[lr]",
+      "Pt-br": "Honestamente, tem algo no seu íntimo que é tão frio ou robótico. Eu nunca imaginei você como uma pessoa com o coração de pedra e sem amigos.\"[lr]",
+      "id": 14561,
+      "epk_id": "4229",
+      "label": "$$$message_0031_0028_0001$$$"
+    },
+    {
+      "en": "\"Uh, what is she talking about, [cacheimage storage=美綴私服02a(中)][wvl][chgfg time=300 storage=美綴私服02a(中) textoff=0]Senpai?\"",
+      "jp": "「あ、なんのお話ですか？[cacheimage storage=美綴私服02a(中)][wvl][chgfg time=300 storage=美綴私服02a(中) textoff=0]　先輩」",
+      "Pt-br": "\"Uh, do que ela está falando, [cacheimage storage=美綴私服02a(中)][wvl][chgfg time=300 storage=美綴私服02a(中) textoff=0]Senpai?\"",
+      "id": 14562,
+      "epk_id": "4230",
+      "label": "$$$message_0031_0028_0002$$$"
+    },
+    {
+      "en": "\"Ahaha... Just a battle I lost. Sorry, Matou. I'd rather not talk about it now.\"[lr]",
+      "jp": "「あはは、いや……過去の敗戦の話。悪いね間桐、この話はできればカンベンしてくれ」[lr]",
+      "Pt-br": "\"Ahaha... Apenas uma batalha que eu perdi. Desculpe, Matou. Prefiro não falar sobre isso agora.\"[lr]",
+      "id": 14563,
+      "epk_id": "4231",
+      "label": "$$$message_0031_0029_0000$$$"
+    },
+    {
+      "en": "\"Yeah, it ended in a winner-takes-all outcome for Tohsaka.\"[lr]",
+      "jp": "「そう、勝ったのは遠坂だけっていう親の総取り」[lr]",
+      "Pt-br": "\"É, terminou num resultado em que a Tohsaka levou tudo.\"[lr]",
+      "id": 14564,
+      "epk_id": "4232",
+      "label": "$$$message_0031_0029_0001$$$"
+    },
+    {
+      "en": "\"Haah... Were you playing mahjong or something?\"[lr]",
+      "jp": "「はぁ……麻雀でもされたんですか？」[lr]",
+      "Pt-br": "\"Haah... Vocês estavam jogando mahjong ou algo assim?\"[lr]",
+      "id": 14565,
+      "epk_id": "4233",
+      "label": "$$$message_0031_0029_0002$$$"
+    },
+    {
+      "en": "If only it was that harmless.[lr]",
+      "jp": "　そう思ってくれるなら助かる。[lr]",
+      "Pt-br": "Se ao menos fosse tão inofensivo assim.[lr]",
+      "id": 14566,
+      "epk_id": "4234",
+      "label": "$$$message_0031_0029_0003$$$"
+    },
+    {
+      "en": "It was so incredibly embarrassing and pathetic that I don't feel comfortable talking about it to other people.",
+      "jp": "　いろいろ恥ずかしくて情けなくて、とても人に話せたものじゃない。",
+      "Pt-br": "Foi tão incrivelmente embaraçoso e patético que não me sinto à vontade falando sobre isso com as outras pessoas.",
+      "id": 14567,
+      "epk_id": "4235",
+      "label": "$$$message_0031_0029_0004$$$"
+    },
+    {
+      "en": "\"Anyway! Thanks for the tea, Matou.\"[lr]",
+      "jp": "「とにかく！　お茶はありがたく頂くよ、間桐」[lr]",
+      "Pt-br": "\"De qualquer forma! Obrigada pelo chá, Matou.\"[lr]",
+      "id": 14568,
+      "epk_id": "4236",
+      "label": "$$$message_0031_0030_0000$$$"
+    },
+    {
+      "en": "\"Yes, please take your time to enjoy it.\"[lr]",
+      "jp": "「はい、ゆっくりしてください」[lr]",
+      "Pt-br": "\"Sim, por favor, tome o seu tempo para apreciá-lo.\"[lr]",
+      "id": 14569,
+      "epk_id": "4237",
+      "label": "$$$message_0031_0030_0001$$$"
+    },
+    {
+      "en": "\"Um... Would you like some bubuzuke? Don't let the door hit you on the way out...\"",
+      "jp": "「えーっとこういう時は確か……ぶぶづけでもいかがどすか……」",
+      "Pt-br": "\"Hum... Gostaria de um pouco de bubuzuke? Cuidado para a porta não bater em você na saída...\"",
+      "id": 14570,
+      "epk_id": "4238",
+      "label": "$$$message_0031_0030_0002$$$"
+    },
+    {
+      "en": "\"Funny joke, Emiya. That's what you say to get someone out of your house, not welcome them.\"[lr]",
+      "jp": "「たいそうなボケだな。衛宮、それは歓迎の言葉じゃなくて追い出しの文句だってば」[lr]",
+      "Pt-br": "\"Piada engraçada, Emiya. É isso que você diz para fazer alguém sair da sua casa, não para dar boas-vindas.\"[lr]",
+      "id": 14571,
+      "epk_id": "4239",
+      "label": "$$$message_0031_0031_0000$$$"
+    },
+    {
+      "en": "\"Ochazuke with salmon and plum in it does sound quite tasteful.\"[lr]",
+      "jp": "「でも鮭と梅お茶漬けって風情ありますよね」[lr]",
+      "Pt-br": "\"Ochazuke com salmão e ameixa dentro parece bem saboroso.\"[lr]",
+      "id": 14572,
+      "epk_id": "4240",
+      "label": "$$$message_0031_0031_0001$$$"
+    },
+    {
+      "en": "\"Yeah, if we made it with bonito stock instead of tea, [cacheimage storage=桜私服09a(中)][wvl][chgfg time=300 storage=桜私服09a(中) textoff=0]it would be quite light.\"",
+      "jp": "「うむ、お茶ではなく鰹出汁でこう、[cacheimage storage=桜私服09a(中)][wvl][chgfg time=300 storage=桜私服09a(中) textoff=0]さらさらっと」",
+      "Pt-br": "\"É, se a gente fizesse com caldo de peixe-bonito no lugar de chá, [cacheimage storage=桜私服09a(中)][wvl][chgfg time=300 storage=桜私服09a(中) textoff=0]ficaria bem leve.\"",
+      "id": 14573,
+      "epk_id": "4241",
+      "label": "$$$message_0031_0031_0002$$$"
+    },
+    {
+      "en": "Sakura drifts off-topic to cooking, but I'm all for it.[lr]",
+      "jp": "　つい桜が料理の話に脱線したので、乗ってしまう。[lr]",
+      "Pt-br": "A Sakura muda o assunto para culinária, mas eu sou totalmente a favor.[lr]",
+      "id": 14574,
+      "epk_id": "4242",
+      "label": "$$$message_0031_0032_0000$$$"
+    },
+    {
+      "en": "Mitsuzuri sighs at us and says.",
+      "jp": "　そんな俺たちを美綴は溜息交じりに眺めて一言。",
+      "Pt-br": "Mitsuzuri suspira para nós e diz.",
+      "id": 14575,
+      "epk_id": "4243",
+      "label": "$$$message_0031_0032_0001$$$"
+    },
+    {
+      "en": "\"Haaah. Watching you two makes me so jealous I want to bless you at the altar myself.\"[lr]",
+      "jp": "「はぁ。まったく微笑ましいほどに[ruby text=おみき o2o=1]御神酒[ruby text=どくり char=2]徳利で夫婦善哉だな、おまえたちは」[lr]",
+      "Pt-br": "\"Haaah. Ver vocês dois me deixa com tanto ciúmes que eu quero eu mesma dar a bênção a vocês no altar.\"[lr]",
+      "id": 14576,
+      "epk_id": "4244",
+      "label": "$$$message_0031_0033_0000$$$"
+    },
+    {
+      "en": "\"Wha-[wvl][shock vmax=20 time=300 count=-3]what are you talking about, Senpai!? W-who is marrying whom!?\"",
+      "jp": "「な、[wvl][shock vmax=20 time=300 count=-3]何を言うんですか美綴先輩！　わ、わたしとだ、だれがめ、めおとなんですか！」",
+      "Pt-br": "\"D-d-[wvl][shock vmax=20 time=300 count=-3]do que você está falando, Mitsuzuri-senpai!? Q-quem está casando com quem!?\"",
+      "id": 14577,
+      "epk_id": "4245",
+      "label": "$$$message_0031_0033_0001$$$"
+    },
+    {
+      "en": "\"Don't be so shy, Matou! You're cute.\"[lr]",
+      "jp": "「照れるな照れるなー、可愛いぞ間桐ー」[lr]",
+      "Pt-br": "\"Não seja tão tímida, Matou! Você é fofa.\"[lr]",
+      "id": 14578,
+      "epk_id": "4246",
+      "label": "$$$message_0031_0034_0000$$$"
+    },
+    {
+      "en": "\"Please stop laughing too, Senpai!\"[lr]",
+      "jp": "「先輩も笑わないでください！」[lr]",
+      "Pt-br": "\"Por favor, pare de rir também, Senpai!\"[lr]",
+      "id": 14579,
+      "epk_id": "4247",
+      "label": "$$$message_0031_0034_0001$$$"
+    },
+    {
+      "en": "\"I'm not laughing! I'm starting to panic, too!\"[lr]",
+      "jp": "「笑ってないって、俺もほらこんなに慌ててる！」[lr]",
+      "Pt-br": "\"Eu não estou rindo! Estou começando a entrar em pânico, também!\"[lr]",
+      "id": 14580,
+      "epk_id": "4248",
+      "label": "$$$message_0031_0034_0002$$$"
+    },
+    {
+      "en": "I don't mean to brag, but the hand holding my teacup is trembling violently.",
+      "jp": "　自慢じゃないが、湯飲みを持つ手ががくがくと揺れている。",
+      "Pt-br": "Não quero me gabar, mas a mão que segura minha xícara de chá está tremendo violentamente.",
+      "id": 14581,
+      "epk_id": "4249",
+      "label": "$$$message_0031_0034_0003$$$"
+    },
+    {
+      "en": "\"See? That's why I say April doesn't count. If you and Matou are this lovey-dovey, [cacheimage storage=桜私服10e頬(中)][wvl][chgfg time=300 storage=桜私服10e頬(中) textoff=0]then things must be off with Tohsaka.\"[lr]",
+      "jp": "「ほらな。こんなのだからノーゲームだっての、まったくもう。衛宮と間桐で夫婦善哉なら、[cacheimage storage=桜私服10e頬(中)][wvl][chgfg time=300 storage=桜私服10e頬(中) textoff=0]遠坂とは金色夜叉かね」[lr]",
+      "Pt-br": "\"Viu? É por isso que eu digo que abril não conta. Se você e a Matou estão assim tão amorosos, [cacheimage storage=桜私服10e頬(中)][wvl][chgfg time=300 storage=桜私服10e頬(中) textoff=0]então as coisas devem estar estranhas com a Tohsaka.\"[lr]",
+      "id": 14582,
+      "epk_id": "4250",
+      "label": "$$$message_0031_0035_0000$$$"
+    },
+    {
+      "en": "\"I'd like you to bring that up to her directly... Anyway, you wanted to talk to Sakura?\"",
+      "jp": "「そういう愚痴は遠坂に直接頼む……なんだ、今日は桜に話あるんだろ、美綴？」",
+      "Pt-br": "\"Eu gostaria que você comentasse isso diretamente com ela... Enfim, você queria falar com a Sakura?\"",
+      "id": 14583,
+      "epk_id": "4251",
+      "label": "$$$message_0031_0035_0001$$$"
+    },
+    {
+      "en": "\"Right, right. I got carried away teasing you. Matou, about the tournament coming up...\"[lr]",
+      "jp": "「そうだったそうだった、からかうのに夢中で忘れてたよ。間桐、今度の大会のことで……」[lr]",
+      "Pt-br": "\"Ah, é. Eu me deixei levar provocando vocês. Matou, sobre o torneio que está chegando...\"[lr]",
+      "id": 14584,
+      "epk_id": "4252",
+      "label": "$$$message_0031_0036_0000$$$"
+    },
+    {
+      "en": "\"Yes?\"[lr]",
+      "jp": "「はい、美綴先輩」[lr]",
+      "Pt-br": "\"Sim, Mitsuzuri-senpai?\"[lr]",
+      "id": 14585,
+      "epk_id": "4253",
+      "label": "$$$message_0031_0036_0001$$$"
+    },
+    {
+      "en": "   The farcical atmosphere vanishes, and they get down to business.[lr]",
+      "jp": "　[line len=3]さっきまでのおちゃらけた雰囲気は消えて、真面目に話し合いが始まる。[lr]",
+      "Pt-br": "A atmosfera de brincadeira se desfaz, e elas passam ao assunto sério.[lr]",
+      "id": 14586,
+      "epk_id": "4254",
+      "label": "$$$message_0031_0036_0002$$$"
+    },
+    {
+      "en": "I'll just listen without getting in the way.",
+      "jp": "　さて、俺も邪魔にならない様に話を聞くか。",
+      "Pt-br": "Eu fico ouvindo sem atrapalhar.",
+      "id": 14587,
+      "epk_id": "4255",
+      "label": "$$$message_0031_0036_0003$$$"
+    },
+    {
+      "en": "\"Welcome and well met. Are you here to see Sakura or Shirou?\"[r]",
+      "jp": "「ようこそいらっしゃい[r]ました。サクラか士郎に[r]会いに来たのですか？」",
+      "Pt-br": "\"Bem-vinda e boa tarde. Você veio ver a Sakura ou o Shirou?\"[r]",
+      "id": 14588,
+      "epk_id": "904150",
+      "label": "$$$message_9031_0002_0000$$$"
+    }
+  ]
+}

@@ -1,0 +1,920 @@
+{
+  "cena": "63nnqhr9l8mp6m9jk0rli737p4",
+  "titulo": "Fim das Quatro Noites",
+  "rota": "Noite",
+  "arquivo": "63nnqhr9l8mp6m9jk0rli737p4.epk_dec",
+  "linhas": [
+    {
+      "en": "The moment I decide to step outside, I feel unwell.[lr]",
+      "jp": "　外に出よう、と決めた途端、気分が悪くなった。[lr]",
+      "Pt-br": "No instante em que decido sair, sinto-me mal.[lr]",
+      "id": 26136,
+      "epk_id": "31264",
+      "label": "$$$message_0239_0000_0000$$$"
+    },
+    {
+      "en": "Is it a gut feeling, or familiar terror?[lr]",
+      "jp": "　虫の知らせか、既知故の恐怖心か。[lr]",
+      "Pt-br": "Pressentimento, ou um terror familiar?[lr]",
+      "id": 26137,
+      "epk_id": "31265",
+      "label": "$$$message_0239_0000_0001$$$"
+    },
+    {
+      "en": "I know it's time to leave, but I feel a little timid.[lr]",
+      "jp": "　もう時間だというのに、少し臆病になっている。[lr]",
+      "Pt-br": "Sei que é hora de ir, mas me sinto um pouco acuado.[lr]",
+      "id": 26138,
+      "epk_id": "31266",
+      "label": "$$$message_0239_0000_0002$$$"
+    },
+    {
+      "en": "\"...Better go see what's happening around town.\"[lr]",
+      "jp": "「[line len=3]さて、町の様子を見に行かないと」[lr]",
+      "Pt-br": "\"...Melhor eu ir lá fora ver o que está acontecendo pela cidade.\"[lr]",
+      "id": 26139,
+      "epk_id": "31267",
+      "label": "$$$message_0239_0000_0003$$$"
+    },
+    {
+      "en": "I get up and reach for the sliding door.",
+      "jp": "　重い腰をあげて障子に手をかける。",
+      "Pt-br": "Eu me levanto e estico a mão para a porta deslizante.",
+      "id": 26140,
+      "epk_id": "31268",
+      "label": "$$$message_0239_0000_0004$$$"
+    },
+    {
+      "en": "Just before I depart...[lr]",
+      "jp": "　……最後に。[lr]",
+      "Pt-br": "Logo antes da minha partida...[lr]",
+      "id": 26141,
+      "epk_id": "31269",
+      "label": "$$$message_0239_0001_0000$$$"
+    },
+    {
+      "en": "I take one look back at my room and engrave its sight into my memory.",
+      "jp": "　一度だけ振り返って、部屋の様子をよく覚えておく事にした。",
+      "Pt-br": "Lanço um último olhar de volta para o meu quarto e gravo a imagem na memória.",
+      "id": 26142,
+      "epk_id": "31270",
+      "label": "$$$message_0239_0001_0001$$$"
+    },
+    {
+      "en": "The night is frigid.[lr]",
+      "jp": "　凍てついた夜だった。[lr]",
+      "Pt-br": "A noite está gélida.[lr]",
+      "id": 26143,
+      "epk_id": "31271",
+      "label": "$$$message_0239_0002_0000$$$"
+    },
+    {
+      "en": "As soon as I step outside, I feel as if I've been thrust into a different world.[lr]",
+      "jp": "　外に出た途端、違う世界に投げ出された気がする。[lr]",
+      "Pt-br": "Assim que piso lá fora, sinto como se tivesse sido lançado em outro mundo.[lr]",
+      "id": 26144,
+      "epk_id": "31272",
+      "label": "$$$message_0239_0002_0001$$$"
+    },
+    {
+      "en": "The only part of it that feels real is the Emiya house, while the rest of Fuyuki flickers like a mirage.",
+      "jp": "　衛宮の家だけが確かな現実で、冬木市は幻のように揺らいでいる。",
+      "Pt-br": "A única parte que parece real é a própria residência Emiya, enquanto o resto de Fuyuki tremeluz como uma miragem.",
+      "id": 26145,
+      "epk_id": "31273",
+      "label": "$$$message_0239_0002_0002$$$"
+    },
+    {
+      "en": "                                 \"DiSAppEAR [wait canskip=0 time=400][se volume=60 storage=se620.wav]diSApPeAr [wait canskip=0 time=300]dISAppEar\"[rf]",
+      "jp": "“オマエモ消エロ　[wait canskip=0 time=400][se volume=60 storage=se620.wav]オマエモ消エロ　[wait canskip=0 time=300]オマエモ消エロ”[rf]",
+      "Pt-br": "                                 \"DeSApArecER [wait canskip=0 time=400][se volume=60 storage=se620.wav]desApaRecEr [wait canskip=0 time=300]dEsapaRecEr\"[rf]",
+      "id": 26146,
+      "epk_id": "31274",
+      "label": "$$$message_0239_0003_0000$$$"
+    },
+    {
+      "en": "I can hear bestial panting through the mist.[lr]",
+      "jp": "　霧に乗って獣の息づかいが聞こえてくる。[lr]",
+      "Pt-br": "Ouço uma respiração bestial atravessando a névoa.[lr]",
+      "id": 26147,
+      "epk_id": "31275",
+      "label": "$$$message_0239_0004_0000$$$"
+    },
+    {
+      "en": "...There's no sign of anyone in town. I don't know who's responsible for this situation, but they've finally shown their true colors.",
+      "jp": "　……町からは人間の気配が一切しない。この状況を作ったのが何者かは知らないが、ついに尻尾を出してきた。",
+      "Pt-br": "...Não há sinal de ninguém na cidade. Não sei quem é responsável por isto, mas finalmente mostrou sua verdadeira face.",
+      "id": 26148,
+      "epk_id": "31276",
+      "label": "$$$message_0239_0004_0001$$$"
+    },
+    {
+      "en": "                                        \"kill yoU [wait canskip=0 time=400][se volume=60 storage=se623.wav]KILL yOu [wait canskip=0 time=300]kIll You\"[rf]",
+      "jp": "　　　“殺シテヤル　[wait canskip=0 time=400][se volume=60 storage=se623.wav]殺シテヤル　[wait canskip=0 time=300]殺シテヤル”[rf]",
+      "Pt-br": "                                        \"matAr vOcÊ [wait canskip=0 time=400][se volume=60 storage=se623.wav]MATAr VOcê [wait canskip=0 time=300]maTAr Você\"[rf]",
+      "id": 26149,
+      "epk_id": "31277",
+      "label": "$$$message_0239_0005_0000$$$"
+    },
+    {
+      "en": "\"Nobody's here... It's really like...\"[lr]",
+      "jp": "「人がいない……これじゃ、ホントに」[lr]",
+      "Pt-br": "\"Não tem ninguém aqui... É mesmo como...\"[lr]",
+      "id": 26150,
+      "epk_id": "31278",
+      "label": "$$$message_0239_0006_0000$$$"
+    },
+    {
+      "en": "A world where everything's died.[lr]",
+      "jp": "　何もかも死に絶えた世界だ。[lr]",
+      "Pt-br": "Um mundo onde tudo morreu.[lr]",
+      "id": 26151,
+      "epk_id": "31279",
+      "label": "$$$message_0239_0006_0001$$$"
+    },
+    {
+      "en": "All I see are ruined houses.[lr]",
+      "jp": "　目に映る民家はことごとく荒らされている。[lr]",
+      "Pt-br": "Só vejo casas em ruínas.[lr]",
+      "id": 26152,
+      "epk_id": "31280",
+      "label": "$$$message_0239_0006_0002$$$"
+    },
+    {
+      "en": "Broken doors.[lr]",
+      "jp": "　壊された玄関。[lr]",
+      "Pt-br": "Portas destruídas.[lr]",
+      "id": 26153,
+      "epk_id": "31281",
+      "label": "$$$message_0239_0006_0003$$$"
+    },
+    {
+      "en": "Smashed windows.[lr]",
+      "jp": "　割られた窓。[lr]",
+      "Pt-br": "Janelas esmigalhadas.[lr]",
+      "id": 26154,
+      "epk_id": "31282",
+      "label": "$$$message_0239_0006_0004$$$"
+    },
+    {
+      "en": "Bloodied gardens.[lr]",
+      "jp": "　血塗られた庭。[lr]",
+      "Pt-br": "Jardins ensanguentados.[lr]",
+      "id": 26155,
+      "epk_id": "31283",
+      "label": "$$$message_0239_0006_0005$$$"
+    },
+    {
+      "en": "And when I look inside...[lr]",
+      "jp": "　中を[ruby text=み]覗れば、[lr]",
+      "Pt-br": "E, quando olho para dentro...[lr]",
+      "id": 26156,
+      "epk_id": "31284",
+      "label": "$$$message_0239_0006_0006$$$"
+    },
+    {
+      "en": "I see the remains of utter butchery.",
+      "jp": "　解体現場そのものだ。[wm canskip=0]",
+      "Pt-br": "Vejo os restos de uma carnificina completa.",
+      "id": 26157,
+      "epk_id": "31285",
+      "label": "$$$message_0239_0006_0007$$$"
+    },
+    {
+      "en": "Everything's wrong.[lr]",
+      "jp": "　何もかもおかしい。[lr]",
+      "Pt-br": "Está tudo errado.[lr]",
+      "id": 26158,
+      "epk_id": "31286",
+      "label": "$$$message_0239_0007_0000$$$"
+    },
+    {
+      "en": "What's especially off is how there isn't a single dismembered hunk of flesh or dead person in sight.[lr]",
+      "jp": "　特におかしいのは、バラされた肉片もコロされた命も見あたらないというコト。[lr]",
+      "Pt-br": "O mais estranho é não haver um único pedaço de carne mutilada, nem cadáver algum à vista.[lr]",
+      "id": 26159,
+      "epk_id": "31287",
+      "label": "$$$message_0239_0007_0001$$$"
+    },
+    {
+      "en": "Still, it's crystal clear what happened here.[lr]",
+      "jp": "　だが、ここで何が行われたのかは明白だ。[lr]",
+      "Pt-br": "Ainda assim, é perfeitamente claro o que aconteceu aqui.[lr]",
+      "id": 26160,
+      "epk_id": "31288",
+      "label": "$$$message_0239_0007_0002$$$"
+    },
+    {
+      "en": "\"......\"[lr]",
+      "jp": "「[line len=6]」[lr]",
+      "Pt-br": "\"......\"[lr]",
+      "id": 26161,
+      "epk_id": "31289",
+      "label": "$$$message_0239_0007_0003$$$"
+    },
+    {
+      "en": "Unknown emotions irritate my brain.[lr]",
+      "jp": "　未知の感情が脳を刺激している。[lr]",
+      "Pt-br": "Emoções desconhecidas irritam meu cérebro.[lr]",
+      "id": 26162,
+      "epk_id": "31290",
+      "label": "$$$message_0239_0007_0004$$$"
+    },
+    {
+      "en": "An exquisite balance of rage and disgust fills my mind.[lr]",
+      "jp": "　怒りと嫌悪がバランスよく混ざり合っている。[lr]",
+      "Pt-br": "Um equilíbrio preciso de raiva e repulsa toma minha mente.[lr]",
+      "id": 26163,
+      "epk_id": "31291",
+      "label": "$$$message_0239_0007_0005$$$"
+    },
+    {
+      "en": "I despise a mass murderer I've yet to lay eyes on.",
+      "jp": "　俺は、まだ見ぬ殺戮者を憎悪している。",
+      "Pt-br": "Eu desprezo um assassino em massa que ainda nem vi.",
+      "id": 26164,
+      "epk_id": "31292",
+      "label": "$$$message_0239_0007_0006$$$"
+    },
+    {
+      "en": "                 \"CAN'T SEe [wait canskip=0 time=400]cAN't SEe [wait canskip=0 time=300]i CAN't sEE aNything ANyMORE!\"[rf]",
+      "jp": "　　“見エナイ　[wait canskip=0 time=400]見エナイ　[wait canskip=0 time=300]モウナニモ見エナイ！”[rf]",
+      "Pt-br": "                 \"NAO CONsIGO ver [wait canskip=0 time=400]nAO cONSIGO Ver [wait canskip=0 time=300]eu NAO conSIgo VEr MAis NADA!\"[rf]",
+      "id": 26165,
+      "epk_id": "31293",
+      "label": "$$$message_0239_0008_0000$$$"
+    },
+    {
+      "en": "\"...Who are you? What the hell are you!?\"[lr]",
+      "jp": "「……誰だ。おまえは何だ……！」[lr]",
+      "Pt-br": "\"...Quem é você? Que diabos é você!?\"[lr]",
+      "id": 26166,
+      "epk_id": "31294",
+      "label": "$$$message_0239_0009_0000$$$"
+    },
+    {
+      "en": "I follow the echoing rasps.[lr]",
+      "jp": "　反響する息づかいを[ruby text=トレース char=2]追跡する。[lr]",
+      "Pt-br": "Sigo os rangidos que ecoam.[lr]",
+      "id": 26167,
+      "epk_id": "31295",
+      "label": "$$$message_0239_0009_0001$$$"
+    },
+    {
+      "en": "The howls are a voiceless voice, directed at me.[lr]",
+      "jp": "　遠吠えは俺に宛てた声なき声だった。[lr]",
+      "Pt-br": "Os uivos são uma voz sem voz, dirigida a mim.[lr]",
+      "id": 26168,
+      "epk_id": "31296",
+      "label": "$$$message_0239_0009_0002$$$"
+    },
+    {
+      "en": "Animosity and appeal are directed at me from all sides. Enmity and envy.[lr]",
+      "jp": "　全方位から向けられる敵意と懇願　嫌悪と羨望。[lr]",
+      "Pt-br": "Hostilidade e apelo vêm de todos os lados. Inimizade e inveja.[lr]",
+      "id": 26169,
+      "epk_id": "31297",
+      "label": "$$$message_0239_0009_0003$$$"
+    },
+    {
+      "en": "I feel so revolted, I want to vomit.",
+      "jp": "　気持ち悪くて吐き気がする。",
+      "Pt-br": "Sinto tanto nojo que quero vomitar.",
+      "id": 26170,
+      "epk_id": "31298",
+      "label": "$$$message_0239_0009_0004$$$"
+    },
+    {
+      "en": "     \"I hAte/eNVY YOu [wait canskip=0 time=100]i HATE/EnVY You [wait canskip=0 time=100]i HAte/eNVY you [wait canskip=0 time=100]i Hate/ENvY YoU\"[rf]",
+      "jp": "　　　　　　“[ruby text=ニク]妬イ　[wait canskip=0 time=100][ruby text=ニク]妬イ　[wait canskip=0 time=100][ruby text=ニク]妬イ　[wait canskip=0 time=100][ruby text=ニク]妬イ”[rf]",
+      "Pt-br": "     \"Eu te ODeIO/inVeJO VOcê [wait canskip=0 time=100]eU ODeio/inVEJO Você [wait canskip=0 time=100]eU OdEiO/INVEJO vocÊ [wait canskip=0 time=100]Eu OdeIo/INVeJO VoCÊ\"[rf]",
+      "id": 26171,
+      "epk_id": "31299",
+      "label": "$$$message_0239_0010_0000$$$"
+    },
+    {
+      "en": "Howls turn into roars.[lr]",
+      "jp": "　遠吠えが咆哮に変わる。[lr]",
+      "Pt-br": "Os uivos viram rugidos.[lr]",
+      "id": 26172,
+      "epk_id": "31300",
+      "label": "$$$message_0239_0011_0000$$$"
+    },
+    {
+      "en": "As much as I want to deny it, the thing that's howling is right in front of me.",
+      "jp": "　信じがたいが疑いようがない。目の前には遠吠えの主がうずくまる。[se storage=se624.wav]",
+      "Pt-br": "Por mais que eu queira negar, a coisa que uiva está bem diante de mim.",
+      "id": 26173,
+      "epk_id": "31301",
+      "label": "$$$message_0239_0011_0001$$$"
+    },
+    {
+      "en": "\"What...the hell...\"[lr]",
+      "jp": "「なんだ[line len=3]コイツ」[lr]",
+      "Pt-br": "\"Mas que... diabos...\"[lr]",
+      "id": 26174,
+      "epk_id": "31302",
+      "label": "$$$message_0239_0012_0000$$$"
+    },
+    {
+      "en": "I've seen this somewhere before, but I can't recall where right now.[lr]",
+      "jp": "　どこかで見たのだが、今は思い出せない。[lr]",
+      "Pt-br": "Já vi isto em algum lugar, mas agora não consigo lembrar onde.[lr]",
+      "id": 26175,
+      "epk_id": "31303",
+      "label": "$$$message_0239_0012_0001$$$"
+    },
+    {
+      "en": "Just a little longer. Once midnight passes, I'll remember if someone tells me.",
+      "jp": "　あと少し。日付が変わる瞬間になるか、誰かに教えて貰えれば思い出せる筈なのだが。",
+      "Pt-br": "Só mais um pouco. Quando passar da meia-noite, vou lembrar se alguém me disser.",
+      "id": 26176,
+      "epk_id": "31304",
+      "label": "$$$message_0239_0012_0002$$$"
+    },
+    {
+      "en": "\"                \"[wvs][se storage=se622.wav][rf][lr]",
+      "jp": "『　　　　　　　　』[wvs][se storage=se622.wav][rf][lr]",
+      "Pt-br": "\"                \"[wvs][se storage=se622.wav][rf][lr]",
+      "id": 26177,
+      "epk_id": "31305",
+      "label": "$$$message_0239_0013_0000$$$"
+    },
+    {
+      "en": "It creaks[stopnoise] and howls.[lr]",
+      "jp": "　ギシギシと軋みながら[stopnoise]ソレは吠えた。[lr]",
+      "Pt-br": "Ela range[stopnoise] e uiva.[lr]",
+      "id": 26178,
+      "epk_id": "31306",
+      "label": "$$$message_0239_0013_0001$$$"
+    },
+    {
+      "en": "It's in a frequency outside of audible range. [noise opacity=100]The thing howls in a voice no human can hear.[stopnoise]",
+      "jp": "　可聴域外の周波数。[noise opacity=100]人間には聞き取れない声で、ソレは確かにうねり吠えた。[stopnoise]",
+      "Pt-br": "Está numa frequência fora do alcance audível. [noise opacity=100]A coisa uiva com uma voz que humano nenhum pode ouvir.[stopnoise]",
+      "id": 26179,
+      "epk_id": "31307",
+      "label": "$$$message_0239_0013_0002$$$"
+    },
+    {
+      "en": "                            \"...do You OnLY wANt [wait canskip=0 time=200]tO SaVe yoUrselF?\"[rf]",
+      "jp": "　　　“[line len=3]ジブンダケ、[wait canskip=0 time=200]助カルツモリカ”[rf]",
+      "Pt-br": "                            \"...VOcê pOr acaSo quEr APenAs [wait canskip=0 time=200]sALvar a sI meSMo?\"[rf]",
+      "id": 26180,
+      "epk_id": "31308",
+      "label": "$$$message_0239_0014_0000$$$"
+    },
+    {
+      "en": "The beast rears its head.[lr]",
+      "jp": "　獣が頭を上げる。[lr]",
+      "Pt-br": "A fera ergue a cabeça.[lr]",
+      "id": 26181,
+      "epk_id": "31309",
+      "label": "$$$message_0239_0015_0000$$$"
+    },
+    {
+      "en": "It looks at me and charges with a shrieking rake of its claws.",
+      "jp": "　俺を見つけてギチギチと爪を鳴らし、這うように襲いかかってきた。",
+      "Pt-br": "Ela olha para mim e avança, as garras raspando num guincho.",
+      "id": 26182,
+      "epk_id": "31310",
+      "label": "$$$message_0239_0015_0001$$$"
+    },
+    {
+      "en": "\"Ngh!\"[lr]",
+      "jp": "「っ[line len=3]！」[lr]",
+      "Pt-br": "\"Ngh!\"[lr]",
+      "id": 26183,
+      "epk_id": "31311",
+      "label": "$$$message_0239_0016_0000$$$"
+    },
+    {
+      "en": "I leap backwards out of the way.[lr]",
+      "jp": "　後ろに跳んでやり過ごす。[lr]",
+      "Pt-br": "Salto para trás e saio do caminho.[lr]",
+      "id": 26184,
+      "epk_id": "31312",
+      "label": "$$$message_0239_0016_0001$$$"
+    },
+    {
+      "en": "The beast wildly swipes at me.[lr]",
+      "jp": "　獣はメチャクチャに爪を振り回す。[lr]",
+      "Pt-br": "A fera balança selvagemente suas garras em mim.[lr]",
+      "id": 26185,
+      "epk_id": "31313",
+      "label": "$$$message_0239_0016_0002$$$"
+    },
+    {
+      "en": "If those guillotine-like claws get me, I'm finished.[lr]",
+      "jp": "　あんな裁断機みたいな爪を食らえば命はない。[lr]",
+      "Pt-br": "Se aquelas garras de guilhotina me pegarem, acabou.[lr]",
+      "id": 26186,
+      "epk_id": "31314",
+      "label": "$$$message_0239_0016_0003$$$"
+    },
+    {
+      "en": "But this isn't my first rodeo.[lr]",
+      "jp": "　俺だって経験を積んでいる。[lr]",
+      "Pt-br": "Mas esta não é minha primeira vez.[lr]",
+      "id": 26187,
+      "epk_id": "31315",
+      "label": "$$$message_0239_0016_0004$$$"
+    },
+    {
+      "en": "Compared to sparring with Saber, this is child's play.",
+      "jp": "　セイバーとの打ち合いに比べれば、こんなもの子供のお稽古と変わらない。",
+      "Pt-br": "Comparado aos treinos com Saber, isto é brincadeira de criança.",
+      "id": 26188,
+      "epk_id": "31316",
+      "label": "$$$message_0239_0016_0005$$$"
+    },
+    {
+      "en": "It has little chance of hitting me, [se storage=se095.wav]but the beast keeps attacking obsessively.[lr]",
+      "jp": "　当たる筈もないのに、[se storage=se095.wav]獣は執拗に繰り返す。[lr]",
+      "Pt-br": "Ela tem pouca chance de me acertar, [se storage=se095.wav]mas continua atacando obsessivamente.[lr]",
+      "id": 26189,
+      "epk_id": "31317",
+      "label": "$$$message_0239_0017_0000$$$"
+    },
+    {
+      "en": "With each attack, [se storage=se614.wav]the swings become fiercer, and it seems like there's no end to them.[se storage=se620.wav][wm canskip=0][wm canskip=0][se storage=se094.wav][lr]",
+      "jp": "　一撃ごとに[se storage=se614.wav]激しさを増していく剣戟は、それこそ際限がないように思え、[se storage=se620.wav][wm canskip=0][wm canskip=0][se storage=se094.wav][lr]",
+      "Pt-br": "A cada ataque, [se storage=se614.wav]os golpes ficam mais ferozes, como se não fossem terminar nunca.[se storage=se620.wav][wm canskip=0][wm canskip=0][se storage=se094.wav][lr]",
+      "id": 26190,
+      "epk_id": "31318",
+      "label": "$$$message_0239_0017_0001$$$"
+    },
+    {
+      "en": "                                 \"oNLY yOU, onlY YOU, oNlY yoU...!\"[rf][lr]",
+      "jp": "　　“ジブンダケ、ジブンダケ、ジブンダケ……！”[rf][lr]",
+      "Pt-br": "                                 \"Só VOcÊ, só VOcê, Só vOcÊ...!\"[rf][lr]",
+      "id": 26191,
+      "epk_id": "31319",
+      "label": "$$$message_0239_0017_0002$$$"
+    },
+    {
+      "en": "It spits its words, [se storage=se612.wav]voice darkening by the moment.[wsplinemove canskip=0][wm canskip=0][wm canskip=0][shock vmax=25 time=300 count=-3][se storage=se092.wav]",
+      "jp": "　吐き出される声は、[se storage=se612.wav]同じようにドス黒さを深めていく。[wsplinemove canskip=0][wm canskip=0][wm canskip=0][shock vmax=25 time=300 count=-3][se storage=se092.wav]",
+      "Pt-br": "Ela cospe as palavras, [se storage=se612.wav]a voz escurecendo a cada instante.[wsplinemove canskip=0][wm canskip=0][wm canskip=0][shock vmax=25 time=300 count=-3][se storage=se092.wav]",
+      "id": 26192,
+      "epk_id": "31320",
+      "label": "$$$message_0239_0017_0003$$$"
+    },
+    {
+      "en": "\"Hah... Crap, I[line len=2]\"[lr]",
+      "jp": "「は[line len=3]しまった、つい」[lr]",
+      "Pt-br": "\"Hah... Que merda, eu[line len=2]\"[lr]",
+      "id": 26193,
+      "epk_id": "31321",
+      "label": "$$$message_0239_0018_0000$$$"
+    },
+    {
+      "en": "I counterattack on reflex, even though I could've kept evading it no problem. I sidestep the beast's claws and kick its exposed belly with full force.[lr]",
+      "jp": "　まだ十分やりすごせたのに、怖くなって反撃してしまった。大振りの爪を横にかわし、ガラ空きの横っ腹を全力で蹴りつけたのだが……[lr]",
+      "Pt-br": "Contra-ataco por reflexo, embora pudesse continuar desviando sem problema. Escapo das garras da fera e chuto com força total sua barriga exposta.[lr]",
+      "id": 26194,
+      "epk_id": "31322",
+      "label": "$$$message_0239_0018_0001$$$"
+    },
+    {
+      "en": "...It isn't much of a threat after all.[lr]",
+      "jp": "　……やっぱり、大した脅威じゃない。[lr]",
+      "Pt-br": "...No fim, não é uma ameaça tão grande.[lr]",
+      "id": 26195,
+      "epk_id": "31323",
+      "label": "$$$message_0239_0018_0002$$$"
+    },
+    {
+      "en": "The unknown beast writhes on all fours, unable to get up.",
+      "jp": "　正体不明の獣はガフガフと苦しみながら、四つんばいのまま立ち上がれない。",
+      "Pt-br": "A fera desconhecida se retorce de quatro, incapaz de levantar.",
+      "id": 26196,
+      "epk_id": "31324",
+      "label": "$$$message_0239_0018_0003$$$"
+    },
+    {
+      "en": "                                                   \"...Gr...ant...\"[rf]",
+      "jp": "　　　　　　　 “…………叶…ろ”[rf]",
+      "Pt-br": "                                                   \"...Con...ceda...\"[rf]",
+      "id": 26197,
+      "epk_id": "31325",
+      "label": "$$$message_0239_0019_0000$$$"
+    },
+    {
+      "en": "\"Hey, if you understand me, then answer. Are you the one who did this to the town?\"[lr]",
+      "jp": "「おい、言葉が分かるなら答えろ。町をこんなにしたのはオマエの仕業か」[lr]",
+      "Pt-br": "\"Ei, se me entende, responda. Foi você que fez isso com a cidade?\"[lr]",
+      "id": 26198,
+      "epk_id": "31326",
+      "label": "$$$message_0239_0020_0000$$$"
+    },
+    {
+      "en": "That can't be possible.[lr]",
+      "jp": "　そんな筈はない。[lr]",
+      "Pt-br": "Isso não pode ser possível.[lr]",
+      "id": 26199,
+      "epk_id": "31327",
+      "label": "$$$message_0239_0020_0001$$$"
+    },
+    {
+      "en": "Most people would be helpless to defend themselves against this thing, yes.[lr]",
+      "jp": "　こんなカタチの獣と出会ったら、たいていの人間は無抵抗に殺される。[lr]",
+      "Pt-br": "A maioria das pessoas não teria como se defender desta coisa, sim.[lr]",
+      "id": 26200,
+      "epk_id": "31328",
+      "label": "$$$message_0239_0020_0002$$$"
+    },
+    {
+      "en": "But there's only so much it can do.[lr]",
+      "jp": "　だがそれは局地的な事だ。[lr]",
+      "Pt-br": "Mas o que ela pode fazer tem limite.[lr]",
+      "id": 26201,
+      "epk_id": "31329",
+      "label": "$$$message_0239_0020_0003$$$"
+    },
+    {
+      "en": "It wouldn't be possible for this thing to depopulate the entire town in the span of an hour.",
+      "jp": "　わずか一時間で町中を無人にする、なんて事はこいつには出来はしない。",
+      "Pt-br": "Não seria possível esta coisa esvaziar a cidade inteira em uma hora.",
+      "id": 26202,
+      "epk_id": "31330",
+      "label": "$$$message_0239_0020_0004$$$"
+    },
+    {
+      "en": "                                                   [noise opacity=80]\"...Grr...ant...\"[rf]",
+      "jp": "　　　　　　　[noise opacity=80]“…………叶…ろ”[rf]",
+      "Pt-br": "                                                   [noise opacity=80]\"...Grr...conceda...\"[rf]",
+      "id": 26203,
+      "epk_id": "31331",
+      "label": "$$$message_0239_0021_0000$$$"
+    },
+    {
+      "en": "\"...You still don't get it. That's not what I'm asking you. I want to know[line len=2]\"[lr]",
+      "jp": "「……わからねえヤツだな。そんなコト訊いちゃいねえよ。俺はおまえが何者なのかって事を、」[lr]",
+      "Pt-br": "\"...Você ainda não entendeu. Não é isso que estou perguntando. Quero saber[line len=2]\"[lr]",
+      "id": 26204,
+      "epk_id": "31332",
+      "label": "$$$message_0239_0022_0000$$$"
+    },
+    {
+      "en": "Just as I'm about to say \"who you are\"...[lr]",
+      "jp": "　訊きたいんだ、と唱える寸前。[lr]",
+      "Pt-br": "Bem quando estou prestes a dizer \"quem você é\"...[lr]",
+      "id": 26205,
+      "epk_id": "31333",
+      "label": "$$$message_0239_0022_0001$$$"
+    },
+    {
+      "en": "\"...Huh?\"[lr]",
+      "jp": "「[line len=3]え？」[lr]",
+      "Pt-br": "\"...Hã?\"[lr]",
+      "id": 26206,
+      "epk_id": "31334",
+      "label": "$$$message_0239_0022_0002$$$"
+    },
+    {
+      "en": "I realize that it's smothering everything around me.",
+      "jp": "　自分の周りが、ソレに埋め尽くされている事に気が付いた。",
+      "Pt-br": "Percebo que ela está sufocando tudo ao meu redor.",
+      "id": 26207,
+      "epk_id": "31335",
+      "label": "$$$message_0239_0022_0003$$$"
+    },
+    {
+      "en": "                                                          [se storage=se627.wav]\"...!\"[nolr][br]                                                          [se storage=se623.wav]\"...!\"[nolr][br]                                                          [se storage=se629.wav]\"...!\"[wdash canskip=0][rf]",
+      "jp": "　　　　　　　　　[se storage=se627.wav]“………！”[nolr][br]　　　　　　　　　[se storage=se623.wav]“………！”[nolr][br]　　　　　　　　　[se storage=se629.wav]“………！”[wdash canskip=0][rf]",
+      "Pt-br": "                                                          [se storage=se627.wav]\"...!\"[nolr][br]                                                          [se storage=se623.wav]\"...!\"[nolr][br]                                                          [se storage=se629.wav]\"...!\"[wdash canskip=0][rf]",
+      "id": 26208,
+      "epk_id": "31336",
+      "label": "$$$message_0239_0023_0000$$$"
+    },
+    {
+      "en": "Myriad malign voices moan in unison.[se storage=se625.wav][lr]",
+      "jp": "　怨恨が合唱される。[se storage=se625.wav][lr]",
+      "Pt-br": "Miríades de vozes malignas gemem em uníssono.[se storage=se625.wav][lr]",
+      "id": 26209,
+      "epk_id": "31337",
+      "label": "$$$message_0239_0024_0000$$$"
+    },
+    {
+      "en": "A swarm of beasts has overrun the park.[se storage=se629.wav][lr]",
+      "jp": "　公園を埋め尽くす獣の群れ。[se storage=se629.wav][lr]",
+      "Pt-br": "Um enxame de feras tomou o parque.[se storage=se629.wav][lr]",
+      "id": 26210,
+      "epk_id": "31338",
+      "label": "$$$message_0239_0024_0001$$$"
+    },
+    {
+      "en": "...Damn it. If there's this many of them, [se storage=se624.wav]it would take them twenty minutes to clean out the entire town, never mind an hour.[wdash canskip=0]",
+      "jp": "　……くそったれ。これだけ増えていたんなら、[se storage=se624.wav]一時間と言わず二十分で町中を掃除できる。[wdash canskip=0]",
+      "Pt-br": "...Droga. Com tantas delas assim, [se storage=se624.wav]vinte minutos bastariam para limpar a cidade inteira, quanto mais uma hora.[wdash canskip=0]",
+      "id": 26211,
+      "epk_id": "31339",
+      "label": "$$$message_0239_0024_0002$$$"
+    },
+    {
+      "en": "                                                          [se storage=se627.wav]\"...!\"[nolr][br]                                                          [se storage=se624.wav]\"...!\"[nolr][br]                                                          [se storage=se629.wav]\"...!\"[wdash canskip=0][rf]",
+      "jp": "　　　　　　　　　[se storage=se624.wav]“…………！”[nolr][br]　　　　　　　　　[se storage=se627.wav]“…………！”[nolr][br]　　　　　　　　　[se storage=se629.wav]“…………！”[rf]",
+      "Pt-br": "                                                          [se storage=se627.wav]\"...!\"[nolr][br]                                                          [se storage=se624.wav]\"...!\"[nolr][br]                                                          [se storage=se629.wav]\"...!\"[wdash canskip=0][rf]",
+      "id": 26212,
+      "epk_id": "31340",
+      "label": "$$$message_0239_0025_0000$$$"
+    },
+    {
+      "en": "...The snarling tsunami rushes in at me.[lr]",
+      "jp": "　……津波がジリジリと押し寄せてくる。[lr]",
+      "Pt-br": "...O tsunami rosnante avança contra mim.[lr]",
+      "id": 26213,
+      "epk_id": "31341",
+      "label": "$$$message_0239_0026_0000$$$"
+    },
+    {
+      "en": "It evokes an image of a corpse overrun by ants, or a dead man dropped onto the Buddhist hell of a mountain of needles.[lr]",
+      "jp": "　蟻にたかられる死骸、針の山に落とされる亡者を思う。[lr]",
+      "Pt-br": "Evoca a imagem de um cadáver tomado por formigas, ou de um morto lançado no inferno budista da montanha de agulhas.[lr]",
+      "id": 26214,
+      "epk_id": "31342",
+      "label": "$$$message_0239_0026_0001$$$"
+    },
+    {
+      "en": "\"...Rrgh.\"[lr]",
+      "jp": "「…………っ」[lr]",
+      "Pt-br": "\"...Rrgh.\"[lr]",
+      "id": 26215,
+      "epk_id": "31343",
+      "label": "$$$message_0239_0026_0002$$$"
+    },
+    {
+      "en": "Those claws will tear me to ribbons.[lr]",
+      "jp": "　あの爪で俺は八つ裂きにされる。[lr]",
+      "Pt-br": "Aquelas garras vão me rasgar em tiras.[lr]",
+      "id": 26216,
+      "epk_id": "31344",
+      "label": "$$$message_0239_0026_0003$$$"
+    },
+    {
+      "en": "They'll skewer every inch of my body, from my skull to my eyeballs.[lr]",
+      "jp": "　体も目玉も頭蓋もザクザクと串刺しにされる。[lr]",
+      "Pt-br": "Vão atravessar cada centímetro do meu corpo, do crânio aos globos oculares.[lr]",
+      "id": 26217,
+      "epk_id": "31345",
+      "label": "$$$message_0239_0026_0004$$$"
+    },
+    {
+      "en": "I press my hands together in prayer.[se storage=se623.wav][lr]",
+      "jp": "　合掌。[se storage=se623.wav][lr]",
+      "Pt-br": "Junto as mãos em prece.[se storage=se623.wav][lr]",
+      "id": 26218,
+      "epk_id": "31346",
+      "label": "$$$message_0239_0026_0005$$$"
+    },
+    {
+      "en": "There's nothing [se storage=se625.wav]left I can do now.[se storage=se624.wav]",
+      "jp": "　それは、[se storage=se625.wav]もうどうしようもない事としてもだ。[se storage=se624.wav]",
+      "Pt-br": "Não há nada [se storage=se625.wav]mais que eu possa fazer agora.[se storage=se624.wav]",
+      "id": 26219,
+      "epk_id": "31347",
+      "label": "$$$message_0239_0026_0006$$$"
+    },
+    {
+      "en": "                                                         \"..., !\"[nolr][br]",
+      "jp": "　　　　　　　　　“………、！”[nolr][br]",
+      "Pt-br": "                                                         \"..., !\"[nolr][br]",
+      "id": 26220,
+      "epk_id": "31348",
+      "label": "$$$message_0239_0027_0000$$$"
+    },
+    {
+      "en": "                                                         \"..., !\"[nolr][br]",
+      "jp": "　　　　　　　　　“………、！”[nolr][br]",
+      "Pt-br": "                                                         \"..., !\"[nolr][br]",
+      "id": 26221,
+      "epk_id": "31349",
+      "label": "$$$message_0239_0027_0001$$$"
+    },
+    {
+      "en": "                                                   \"...our...wish!\"[rf][se storage=se620.wav][se storage=se623.wav]",
+      "jp": "　　　　　　　　　“…叶…ろ！”[rf][se storage=se620.wav][se storage=se623.wav]",
+      "Pt-br": "                                                   \"...nosso...desejo!\"[rf][se storage=se620.wav][se storage=se623.wav]",
+      "id": 26222,
+      "epk_id": "31350",
+      "label": "$$$message_0239_0027_0002$$$"
+    },
+    {
+      "en": "Ugh, shut up. If you're gonna kill me, just do it already.[se storage=se628.wav][lr]",
+      "jp": "　ああうるせえ。殺すならサッサとしろ。[se storage=se628.wav][lr]",
+      "Pt-br": "Argh, calem a boca. Se vão me matar, matem logo.[se storage=se628.wav][lr]",
+      "id": 26223,
+      "epk_id": "31351",
+      "label": "$$$message_0239_0028_0000$$$"
+    },
+    {
+      "en": "You just keep flailing around[se storage=se629.wav] like an idiot! [se storage=se624.wav]If you've got something to say, say it![se storage=se624.wav]",
+      "jp": "　さっきからバカみたいに[se storage=se629.wav]繰り返しやがって、[se storage=se624.wav]言いたい事があるならハッキリ言えば[line len=3][se storage=se624.wav]",
+      "Pt-br": "Vocês só ficam se debatendo[se storage=se629.wav] feito idiotas! [se storage=se624.wav]Se têm algo a dizer, digam![se storage=se624.wav]",
+      "id": 26224,
+      "epk_id": "31352",
+      "label": "$$$message_0239_0028_0001$$$"
+    },
+    {
+      "en": "\"Can't you understand them?[lr]",
+      "jp": "「分かりませんか？[lr]",
+      "Pt-br": "\"Você não consegue entender o que estão dizendo?[lr]",
+      "id": 26225,
+      "epk_id": "31353",
+      "label": "$$$message_0239_0029_0000$$$"
+    },
+    {
+      "en": "They're telling you to grant their wishes.\"",
+      "jp": "　彼らは、“願いを叶えろ”と言っているのです」",
+      "Pt-br": "Eles estão lhe dizendo para conceder os desejos deles.\"",
+      "id": 26226,
+      "epk_id": "31354",
+      "label": "$$$message_0239_0029_0001$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「[line len=6]」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 26227,
+      "epk_id": "31355",
+      "label": "$$$message_0239_0030_0000$$$"
+    },
+    {
+      "en": "                                                          I reflexively look up at[lr]",
+      "jp": "　　　　　　　　　　反射的に顔をあげる。[lr]",
+      "Pt-br": "                                                          Ergui os olhos por reflexo ao[lr]",
+      "id": 26228,
+      "epk_id": "31356",
+      "label": "$$$message_0239_0030_0001$$$"
+    },
+    {
+      "en": "                                                          the sound of a beautiful silver voice.[lr]",
+      "jp": "　　　　　　　　　　美しく響く銀色の声。[lr]",
+      "Pt-br": "                                                          som de uma bela voz prateada.[lr]",
+      "id": 26229,
+      "epk_id": "31357",
+      "label": "$$$message_0239_0030_0002$$$"
+    },
+    {
+      "en": "              In the midst of a savage sea that threatens to bury the world,[lr]",
+      "jp": "　　　　　　世界を埋め尽くす獣の中心に、[lr]",
+      "Pt-br": "              Em meio a um mar selvagem que ameaça soterrar o mundo,[lr]",
+      "id": 26230,
+      "epk_id": "31358",
+      "label": "$$$message_0239_0030_0003$$$"
+    },
+    {
+      "en": "                                         stands a primordial figure.",
+      "jp": "　　　　　　事の、始まりの姿があった。",
+      "Pt-br": "                                         ergue-se uma figura primordial.",
+      "id": 26231,
+      "epk_id": "31359",
+      "label": "$$$message_0239_0030_0004$$$"
+    },
+    {
+      "en": "\"You...\"[lr]",
+      "jp": "「[line len=3]おまえ」[lr]",
+      "Pt-br": "\"Você...\"[lr]",
+      "id": 26232,
+      "epk_id": "31360",
+      "label": "$$$message_0239_0031_0000$$$"
+    },
+    {
+      "en": "I know her. I know this woman.[lr]",
+      "jp": "　知っている。俺はあの女を知っている。[lr]",
+      "Pt-br": "Eu a conheço. Conheço esta mulher.[lr]",
+      "id": 26233,
+      "epk_id": "31361",
+      "label": "$$$message_0239_0031_0001$$$"
+    },
+    {
+      "en": "But that isn't for another hour from now.[lr]",
+      "jp": "　だがそれはあと一時間後の話だ。[lr]",
+      "Pt-br": "Mas isso só deveria acontecer daqui a uma hora.[lr]",
+      "id": 26234,
+      "epk_id": "31362",
+      "label": "$$$message_0239_0031_0002$$$"
+    },
+    {
+      "en": "I feel vexed. It doesn't line up.[lr]",
+      "jp": "　整合性がとれていない。[lr]",
+      "Pt-br": "Sinto-me contrariado. Não se encaixa.[lr]",
+      "id": 26235,
+      "epk_id": "31363",
+      "label": "$$$message_0239_0031_0003$$$"
+    },
+    {
+      "en": "Everything's shut off, even though everything's in place. ",
+      "jp": "　全てが揃っているのに全てを閉じているもどかしさ。",
+      "Pt-br": "Tudo se desligou, embora tudo estivesse no lugar. ",
+      "id": 26236,
+      "epk_id": "31364",
+      "label": "$$$message_0239_0031_0004$$$"
+    },
+    {
+      "en": "\"But you failed.[lr]",
+      "jp": "「でも貴方は失敗した。[lr]",
+      "Pt-br": "\"Mas você falhou.[lr]",
+      "id": 26237,
+      "epk_id": "31365",
+      "label": "$$$message_0239_0032_0000$$$"
+    },
+    {
+      "en": "It seems it's still too early for you to be here.\"[lr]",
+      "jp": "　まだ、ここに来るのは早かったようね」[lr]",
+      "Pt-br": "Parece que ainda é cedo demais para você estar aqui.\"[lr]",
+      "id": 26238,
+      "epk_id": "31366",
+      "label": "$$$message_0239_0032_0001$$$"
+    },
+    {
+      "en": "The horde of beasts closes in.[lr]",
+      "jp": "　獣の群れが迫る。[lr]",
+      "Pt-br": "A horda de feras se fecha ao meu redor.[lr]",
+      "id": 26239,
+      "epk_id": "31367",
+      "label": "$$$message_0239_0032_0002$$$"
+    },
+    {
+      "en": "Inescapable death approaches.[lr]",
+      "jp": "　逃れられない死が訪れる。[lr]",
+      "Pt-br": "A morte inevitável se aproxima.[lr]",
+      "id": 26240,
+      "epk_id": "31368",
+      "label": "$$$message_0239_0032_0003$$$"
+    },
+    {
+      "en": "Though, even if I did run, it wouldn't change my fate.",
+      "jp": "　まあ[line len=3]何処に逃げても同じ事ではあるのだが。",
+      "Pt-br": "Ainda assim, mesmo que eu corresse, meu destino não mudaria.",
+      "id": 26241,
+      "epk_id": "31369",
+      "label": "$$$message_0239_0032_0004$$$"
+    },
+    {
+      "en": "\"Begone, sinner.[lr]",
+      "jp": "「消え去りなさい罪人。[lr]",
+      "Pt-br": "\"Desapareça, pecador.[lr]",
+      "id": 26242,
+      "epk_id": "31370",
+      "label": "$$$message_0239_0033_0000$$$"
+    },
+    {
+      "en": "There is no longer any place for you on this earth.\"[lr]",
+      "jp": "　貴方には、もう何処にも居場所はない」[lr]",
+      "Pt-br": "Já não há lugar para você nesta terra.\"[lr]",
+      "id": 26243,
+      "epk_id": "31371",
+      "label": "$$$message_0239_0033_0001$$$"
+    },
+    {
+      "en": "The girl utters a final notice, like a prayer.[lr]",
+      "jp": "　祈りに似た最後通牒。[lr]",
+      "Pt-br": "A garota profere a sentença final, como uma prece.[lr]",
+      "id": 26244,
+      "epk_id": "31372",
+      "label": "$$$message_0239_0033_0002$$$"
+    },
+    {
+      "en": "She closes her eyes. Overjoyed, the chorus of beasts pulls Shirou Emiya's body apart.",
+      "jp": "　少女は目蓋を閉じ、獣たちは福音を合唱しながら、衛宮士郎の肉体を解体した。",
+      "Pt-br": "Ela fecha os olhos. Exultante, o coro de feras despedaça o corpo de Emiya Shirou.",
+      "id": 26245,
+      "epk_id": "31373",
+      "label": "$$$message_0239_0033_0003$$$"
+    },
+    {
+      "en": "...And so the proliferation of wickedness continues.[lr]",
+      "jp": "　……こうして増殖し続ける悪意の束。[lr]",
+      "Pt-br": "...E assim a proliferação da maldade continua.[lr]",
+      "id": 26246,
+      "epk_id": "31374",
+      "label": "$$$message_0239_0034_0000$$$"
+    },
+    {
+      "en": "The night of October 11th.[lr]",
+      "jp": "　１０月１１日の夜。[lr]",
+      "Pt-br": "A noite de 11 de outubro.[lr]",
+      "id": 26247,
+      "epk_id": "31375",
+      "label": "$$$message_0239_0034_0001$$$"
+    },
+    {
+      "en": "Fuyuki City has come to its end under a mountain of corpses.",
+      "jp": "　積み重ねられた死骸の山によって、冬木市は終末を迎えた。",
+      "Pt-br": "A Cidade de Fuyuki chegou ao fim sob uma montanha de cadáveres.",
+      "id": 26248,
+      "epk_id": "31376",
+      "label": "$$$message_0239_0034_0002$$$"
+    },
+    {
+      "en": "I know her. I know this woman.[r]",
+      "jp": "知っている。[r]俺はあの女を知っている。",
+      "Pt-br": "Eu a conheço. Eu sei muito bem quem é essa mulher.[r]",
+      "id": 26249,
+      "epk_id": "931361",
+      "label": "$$$message_9239_0031_0001$$$"
+    }
+  ]
+}

@@ -1,0 +1,1112 @@
+{
+  "cena": "6m4v71sn3ank620lr3m5qkro58",
+  "titulo": "Mansão Emiya: Lembranças com a Sakura",
+  "rota": "Dia 3",
+  "arquivo": "6m4v71sn3ank620lr3m5qkro58.epk_dec",
+  "linhas": [
+    {
+      "en": "I'll go talk to Sakura about lunch.[lr]",
+      "jp": "　[line len=3]桜に昼食の相談をしに行こう。[lr]",
+      "Pt-br": "Vou falar com a Sakura sobre o almoço.[lr]",
+      "id": 14123,
+      "epk_id": "3794",
+      "label": "$$$message_0028_0000_0000$$$"
+    },
+    {
+      "en": "We have a big family to feed. It's a lot easier when we both work at it together.",
+      "jp": "　この大所帯だ。二人がかりで取り掛かるとずいぶんと楽になる。",
+      "Pt-br": "Temos muita boca pra alimentar. Fica bem mais fácil quando nós dois cozinhamos juntos.",
+      "id": 14124,
+      "epk_id": "3795",
+      "label": "$$$message_0028_0000_0001$$$"
+    },
+    {
+      "en": "Sakura normally lives at the Matou residence, but she stays at my house on weekends and long holidays.[lr]",
+      "jp": "　普段は間桐邸で暮らす桜だが、週末や連休は衛宮邸で暮らしている。[lr]",
+      "Pt-br": "A Sakura normalmente mora na casa dos Matou, mas ela fica aqui em casa nos finais de semana e feriados prolongados.[lr]",
+      "id": 14125,
+      "epk_id": "3796",
+      "label": "$$$message_0028_0001_0000$$$"
+    },
+    {
+      "en": "Rider and Saber prefer the Japanese-style rooms in the main building, while Sakura and Tohsaka prefer the Western-style rooms in the guesthouse.[lr]",
+      "jp": "　ライダーとセイバーは本邸の和室を気に入って、桜と遠坂は離れの洋室を気に入ったのだ。[lr]",
+      "Pt-br": "A Rider e a Saber preferem os quartos estilo japonês do casarão principal, enquanto a Sakura e a Tohsaka ficam com os quartos ocidentais no anexo.[lr]",
+      "id": 14126,
+      "epk_id": "3797",
+      "label": "$$$message_0028_0001_0001$$$"
+    },
+    {
+      "en": "On top of that, Fuji-nee and Illya show up sometimes for meals, so the population of the Emiya household has exploded.",
+      "jp": "　これに加えて、食事時は藤ねえやイリヤがやってくるのだから、衛宮家の人口は爆発的に増えたと言えよう。",
+      "Pt-br": "Para completar, Fuji-nee e Illya aparecem para comer sempre que dá na telha, então a população da residência Emiya simplesmente explodiu.",
+      "id": 14127,
+      "epk_id": "3798",
+      "label": "$$$message_0028_0001_0002$$$"
+    },
+    {
+      "en": "\"Sakura, you there?\"[lr]",
+      "jp": "「桜、いるかー？」[lr]",
+      "Pt-br": "\"Sakura, está aí?\"[lr]",
+      "id": 14128,
+      "epk_id": "3799",
+      "label": "$$$message_0028_0002_0000$$$"
+    },
+    {
+      "en": "\"Huh? Ah, Senpai!?[lr]",
+      "jp": "「え？　あ、先輩ですか！？[lr]",
+      "Pt-br": "\"Hã? Ah, Senpai!?[lr]",
+      "id": 14129,
+      "epk_id": "3800",
+      "label": "$$$message_0028_0002_0001$$$"
+    },
+    {
+      "en": "Hold on, no, fine, yes!\"",
+      "jp": "　ちょっとだめ、いや、いいです、はい！」",
+      "Pt-br": "Espera, não, tudo bem, sim!\"",
+      "id": 14130,
+      "epk_id": "3801",
+      "label": "$$$message_0028_0002_0002$$$"
+    },
+    {
+      "en": "[se storage=se422.wav]...I have no idea if it's okay to go in or not.[lr]",
+      "jp": "　[se storage=se422.wav]……良いのか悪いのかさっぱりな返事があがる。[lr]",
+      "Pt-br": "[se storage=se422.wav]...Não faço ideia se posso entrar ou não.[lr]",
+      "id": 14131,
+      "epk_id": "3802",
+      "label": "$$$message_0028_0003_0000$$$"
+    },
+    {
+      "en": "I think the \"fine\" gave me permission[se storage=se288.wav] to enter, or maybe she was telling me she's fine for now and I should come back later[se storage=se406.wav]...[se storage=se217.wav][lr]",
+      "jp": "　いいというのはイエス[se storage=se288.wav]の意味なのか、それとも遠慮しますというコトなのか[se storage=se406.wav]……[se storage=se217.wav][lr]",
+      "Pt-br": "Acho que o \"tudo bem\" foi uma permissão[se storage=se288.wav] para entrar, ou talvez ela estivesse dizendo que está tudo bem por agora e que era para eu voltar mais tarde[se storage=se406.wav]...[se storage=se217.wav][lr]",
+      "id": 14132,
+      "epk_id": "3803",
+      "label": "$$$message_0028_0003_0001$$$"
+    },
+    {
+      "en": "I did suddenly intrude on her, so maybe I should leave and come back after all.",
+      "jp": "　いきなりお邪魔したワケだし、これは後で出直した方がいいのだろうか……？",
+      "Pt-br": "Eu realmente apareci do nada para incomodá-la, então talvez seja melhor dar meia-volta e voltar depois.",
+      "id": 14133,
+      "epk_id": "3804",
+      "label": "$$$message_0028_0003_0002$$$"
+    },
+    {
+      "en": "\"Hey, it can wait if you're busy.\"[lr]",
+      "jp": "「おーい。忙しいなら後にするけどー」[lr]",
+      "Pt-br": "\"Ei, eu posso voltar depois se você estiver ocupada.\"[lr]",
+      "id": 14134,
+      "epk_id": "3805",
+      "label": "$$$message_0028_0004_0000$$$"
+    },
+    {
+      "en": "\"I'm not busy! Please come in!\"[lr]",
+      "jp": "「そんなことはありません！　はい、どうぞ！」[lr]",
+      "Pt-br": "\"Não tô ocupada não! Por favor, pode entrar!\"[lr]",
+      "id": 14135,
+      "epk_id": "3806",
+      "label": "$$$message_0028_0004_0001$$$"
+    },
+    {
+      "en": "\"...All right, I will then.\"",
+      "jp": "「？　……それじゃ、お邪魔します」",
+      "Pt-br": "\"...Beleza, tô entrando.\"",
+      "id": 14136,
+      "epk_id": "3807",
+      "label": "$$$message_0028_0004_0002$$$"
+    },
+    {
+      "en": "\"S-sorry to keep you waiting![lr]",
+      "jp": "「お、お待たせしましたっ！[lr]",
+      "Pt-br": "\"D-desculpa fazer você esperar![lr]",
+      "id": 14137,
+      "epk_id": "3808",
+      "label": "$$$message_0028_0005_0000$$$"
+    },
+    {
+      "en": "Um, what did you need, Senpai?\"",
+      "jp": "　あの……先輩、どんな御用ですか？」",
+      "Pt-br": "Hum, o que você queria, Senpai?\"",
+      "id": 14138,
+      "epk_id": "3809",
+      "label": "$$$message_0028_0005_0001$$$"
+    },
+    {
+      "en": "\"I wanted to talk to you about lunch.[lr]",
+      "jp": "「ああ。その、昼の相談にきたんだ。[lr]",
+      "Pt-br": "\"Queria falar com você sobre o almoço.[lr]",
+      "id": 14139,
+      "epk_id": "3810",
+      "label": "$$$message_0028_0006_0000$$$"
+    },
+    {
+      "en": "It's a little early, but I thought I could hang out with you for a little while first.\"[lr]",
+      "jp": "　ちょっと早いけど、早めにくれば桜とのんびりできるかと思って」[lr]",
+      "Pt-br": "Tá meio cedo, mas achei que a gente podia passar um tempinho juntos antes.\"[lr]",
+      "id": 14140,
+      "epk_id": "3811",
+      "label": "$$$message_0028_0006_0001$$$"
+    },
+    {
+      "en": "\"Ah...[wait canskip=false time=400][chgfg storage=桜私服10e(中) time=200 textoff=0][cacheimage storage=桜私服10b頬(中)][wvl canskip=false time=200][chgfg time=200 storage=桜私服10b頬(中) textoff=0] I-I appreciate that.\"[lr]",
+      "jp": "「あ……[wait canskip=false time=400][chgfg storage=桜私服10e(中) time=200 textoff=0][cacheimage storage=桜私服10b頬(中)][wvl canskip=false time=200][chgfg time=200 storage=桜私服10b頬(中) textoff=0]そ、それは、ありがとうございます」[lr]",
+      "Pt-br": "\"Ah...[wait canskip=false time=400][chgfg storage=桜私服10e(中) time=200 textoff=0][cacheimage storage=桜私服10b頬(中)][wvl canskip=false time=200][chgfg time=200 storage=桜私服10b頬(中) textoff=0] E-eu adoraria.\"[lr]",
+      "id": 14141,
+      "epk_id": "3812",
+      "label": "$$$message_0028_0006_0002$$$"
+    },
+    {
+      "en": "\"So... Wait, I haven't done anything for you to thank me yet.\"",
+      "jp": "「と……いや、お礼を言われるようなコトじゃない、けど」",
+      "Pt-br": "\"Então... Espera, eu ainda nem fiz nada para você me agradecer.\"",
+      "id": 14142,
+      "epk_id": "3813",
+      "label": "$$$message_0028_0006_0003$$$"
+    },
+    {
+      "en": "I feel bashful now, too.[lr]",
+      "jp": "　つられて照れてしまった。[lr]",
+      "Pt-br": "Agora eu também fiquei com vergonha.[lr]",
+      "id": 14143,
+      "epk_id": "3814",
+      "label": "$$$message_0028_0007_0000$$$"
+    },
+    {
+      "en": "...How pathetic. I should be used to being around her, but I start to feel shy whenever we're alone together.",
+      "jp": "　……情けない。慣れているつもりなのに、こうして二人きりになると気恥ずかしくなってしまう。",
+      "Pt-br": "...Que patético. Eu já devia estar acostumado a ficar perto dela, mas sempre fico sem jeito quando estamos a sós.",
+      "id": 14144,
+      "epk_id": "3815",
+      "label": "$$$message_0028_0007_0001$$$"
+    },
+    {
+      "en": "\"...Right. Then please make yourself at home.\"[lr]",
+      "jp": "「……はい。それじゃあ、ゆっくり[ruby text=くつろ]寛いでいってください、先輩」[lr]",
+      "Pt-br": "\"...Certo. Então sinta-se em casa, Senpai.\"[lr]",
+      "id": 14145,
+      "epk_id": "3816",
+      "label": "$$$message_0028_0008_0000$$$"
+    },
+    {
+      "en": "\"...Thanks. I feel like I'm imposing, though.\"",
+      "jp": "「……悪い。なんか、たてこんでたみたいだけど」",
+      "Pt-br": "\"...Valeu. Mas sinto que tô incomodando.\"",
+      "id": 14146,
+      "epk_id": "3817",
+      "label": "$$$message_0028_0008_0001$$$"
+    },
+    {
+      "en": "\"Ahaha, not at all. I actually slept in.[lr]",
+      "jp": "「あはは。違うんです、ちょっと二度寝しちゃって。[lr]",
+      "Pt-br": "\"Ahaha, de jeito nenhum. Na verdade, eu acabei dormindo demais.[lr]",
+      "id": 14147,
+      "epk_id": "3818",
+      "label": "$$$message_0028_0009_0000$$$"
+    },
+    {
+      "en": "But now I'm awake, thanks to you. I managed not to be lazy today![lr]",
+      "jp": "　でもですね、先輩のおかげで目が覚めましたから、ぐうたらさんにならずにすみました！[lr]",
+      "Pt-br": "Mas agora tô bem acordada, graças a você. Consegui não ser preguiçosa hoje![lr]",
+      "id": 14148,
+      "epk_id": "3819",
+      "label": "$$$message_0028_0009_0001$$$"
+    },
+    {
+      "en": "...Um, that's what I wanted to thank you for...is that okay?\"[lr]",
+      "jp": "　……えっと。その意味でありがとうございました……というのはどうでしょうか……？」[lr]",
+      "Pt-br": "...Hum, era por isso que eu queria agradecer... tudo bem?\"[lr]",
+      "id": 14149,
+      "epk_id": "3820",
+      "label": "$$$message_0028_0009_0002$$$"
+    },
+    {
+      "en": "\"Oh, that's what you mean. Then, don't mind if I do...\"",
+      "jp": "「あ、そういうコトか。なら遠慮なく」",
+      "Pt-br": "\"Ah, foi isso que você quis dizer. Então, com licença...\"",
+      "id": 14150,
+      "epk_id": "3821",
+      "label": "$$$message_0028_0009_0003$$$"
+    },
+    {
+      "en": "I have no reason to refuse now.[lr]",
+      "jp": "　そう言われれば断る理由もない。[lr]",
+      "Pt-br": "Não tenho mais motivo para recusar.[lr]",
+      "id": 14151,
+      "epk_id": "3822",
+      "label": "$$$message_0028_0010_0000$$$"
+    },
+    {
+      "en": "I enter and sit down in Sakura's bedroom. There's a faint, sweet aroma in the air.[lr]",
+      "jp": "　ほんの少し甘い香りのする、桜の部屋で座る。[lr]",
+      "Pt-br": "Entro e me sento no quarto de Sakura. Um aroma doce e bem suave paira no ar.[lr]",
+      "id": 14152,
+      "epk_id": "3823",
+      "label": "$$$message_0028_0010_0001$$$"
+    },
+    {
+      "en": "Huh...is that perfume or air freshener?",
+      "jp": "　あれ……これ、香水か芳香剤か？",
+      "Pt-br": "Ué... isso é perfume ou bom ar?",
+      "id": 14153,
+      "epk_id": "3824",
+      "label": "$$$message_0028_0010_0002$$$"
+    },
+    {
+      "en": "\"Ah... Is it too strong?\"[lr]",
+      "jp": "「あ……少し強すぎました？」[lr]",
+      "Pt-br": "\"Ah... Tá muito forte?\"[lr]",
+      "id": 14154,
+      "epk_id": "3825",
+      "label": "$$$message_0028_0011_0000$$$"
+    },
+    {
+      "en": "\"Huh? I don't think the AC or heater are on...\"",
+      "jp": "「え？　別に冷房も暖房も……」",
+      "Pt-br": "\"Hã? Não acho que o ar-condicionado ou o aquecedor estejam ligados...\"",
+      "id": 14155,
+      "epk_id": "3826",
+      "label": "$$$message_0028_0011_0001$$$"
+    },
+    {
+      "en": "\"No, it seems like you noticed the scent... [cacheimage storage=桜私服02e頬(中)][wvl][chgfg storage=桜私服02e頬(中) time=300 textoff=0]I used a little bit of fragrance.\"",
+      "jp": "「いえ、先輩も香りに気が付いたみたいで[line len=3][cacheimage storage=桜私服02e頬(中)][wvl][chgfg storage=桜私服02e頬(中) time=300 textoff=0]少しフレグランスを使ったんですけど」",
+      "Pt-br": "\"Não, é que parece que você notou o cheirinho, Senpai... [cacheimage storage=桜私服02e頬(中)][wvl][chgfg storage=桜私服02e頬(中) time=300 textoff=0]Eu passei um pouquinho de perfume.\"",
+      "id": 14156,
+      "epk_id": "3827",
+      "label": "$$$message_0028_0012_0000$$$"
+    },
+    {
+      "en": "So it was perfume.[lr]",
+      "jp": "　やっぱり香水だったのか。[lr]",
+      "Pt-br": "Então era perfume mesmo.[lr]",
+      "id": 14157,
+      "epk_id": "3828",
+      "label": "$$$message_0028_0013_0000$$$"
+    },
+    {
+      "en": "...I don't know what brand it is, but it smells good. So, Sakura uses it too.",
+      "jp": "　[line len=3]銘柄は分からないけども、確かに良い薫りがした。そうか、するんだな……桜も。",
+      "Pt-br": "...Não manjo de marcas, mas é um cheiro bom. Então a Sakura também usa essas coisas.",
+      "id": 14158,
+      "epk_id": "3829",
+      "label": "$$$message_0028_0013_0001$$$"
+    },
+    {
+      "en": "\"Um, I thought it would be good to put some on.\"[lr]",
+      "jp": "「その……ちょっと付けたほうがいいかな、って」[lr]",
+      "Pt-br": "\"Hum, eu achei que seria uma boa passar um pouco.\"[lr]",
+      "id": 14159,
+      "epk_id": "3830",
+      "label": "$$$message_0028_0014_0000$$$"
+    },
+    {
+      "en": "\"Well... I think it suits you.\"[lr]",
+      "jp": "「いや、まぁ……似合うと思う」[lr]",
+      "Pt-br": "\"Bem... Eu acho que combina com você.\"[lr]",
+      "id": 14160,
+      "epk_id": "3831",
+      "label": "$$$message_0028_0014_0001$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=桜私服10b頬(中) textoff=0]The person who uses perfume most often in our household is...[chgfg time=300 storage=桜私服02b頬(中) textoff=0]Tohsaka, I think. She's pretty conscious about using different scents for different situations.",
+      "jp": "　[chgfg time=300 storage=桜私服10b頬(中) textoff=0]実際、我が家の面々で香水を使うのは[line len=3][chgfg time=300 storage=桜私服02b頬(中) textoff=0]遠坂か。結構細かく使い分けているみたいだけどな。",
+      "Pt-br": "[chgfg time=300 storage=桜私服10b頬(中) textoff=0]A pessoa que mais usa perfume aqui em casa é...[chgfg time=300 storage=桜私服02b頬(中) textoff=0] Acho que é Tohsaka. Ela é bem metódica ao escolher fragrâncias diferentes para situações diferentes.",
+      "id": 14161,
+      "epk_id": "3832",
+      "label": "$$$message_0028_0014_0002$$$"
+    },
+    {
+      "en": "\"Tohsaka uses perfume to hide the strange scent of the medicine she uses, but yours is different.\"[lr]",
+      "jp": "「遠坂の場合は変な薬の匂いを誤魔化すために付けてるけど、桜は違うんだろ」[lr]",
+      "Pt-br": "\"Tohsaka usa perfume para esconder o cheiro esquisito das poções dela, mas o seu é diferente.\"[lr]",
+      "id": 14162,
+      "epk_id": "3833",
+      "label": "$$$message_0028_0015_0000$$$"
+    },
+    {
+      "en": "\"I just learned by watching others.[lr]",
+      "jp": "「わたしは見よう見まねです。[lr]",
+      "Pt-br": "\"Eu só aprendi observando os outros.[lr]",
+      "id": 14163,
+      "epk_id": "3834",
+      "label": "$$$message_0028_0015_0001$$$"
+    },
+    {
+      "en": "My sister uses a lot of different products. It isn't easy.\"[lr]",
+      "jp": "　姉さんは色々やってますから大変ですよ」[lr]",
+      "Pt-br": "A Nee-san usa vários produtos diferentes. Não é nada fácil.\"[lr]",
+      "id": 14164,
+      "epk_id": "3835",
+      "label": "$$$message_0028_0015_0002$$$"
+    },
+    {
+      "en": "Huh... Have they been giving each other makeup lessons?[lr]",
+      "jp": "　へえ……すると、姉妹でメイクの事を教わったりするんだろうか？[lr]",
+      "Pt-br": "Ué... Elas andam dando dicas de maquiagem uma pra outra?[lr]",
+      "id": 14165,
+      "epk_id": "3836",
+      "label": "$$$message_0028_0015_0003$$$"
+    },
+    {
+      "en": "What a harmonious sibling relationship.",
+      "jp": "　仲睦まじくていい事だ。",
+      "Pt-br": "Que relação entre irmãs mais harmoniosa.",
+      "id": 14166,
+      "epk_id": "3837",
+      "label": "$$$message_0028_0015_0004$$$"
+    },
+    {
+      "en": "\"I see. I don't think it would be a good fit for me. It sounds really elegant, the way you two talk about it, though.\"[lr]",
+      "jp": "「なるほど。けど、俺には似合わない話かな。桜と遠坂がしてる分には、聞いてて華やかだけど」[lr]",
+      "Pt-br": "\"Entendi. Acho que não faz muito meu estilo. Mas soa bem elegante o jeito como vocês duas falam disso.\"[lr]",
+      "id": 14167,
+      "epk_id": "3838",
+      "label": "$$$message_0028_0016_0000$$$"
+    },
+    {
+      "en": "\"Really? I think it's wonderful when men use cologne effectively.\"[lr]",
+      "jp": "「そうですか？　男性でもコロンとかちゃんと使うと素敵ですよ？」[lr]",
+      "Pt-br": "\"Sério? Eu acho maravilhoso quando os homens sabem usar colônia direito.\"[lr]",
+      "id": 14168,
+      "epk_id": "3839",
+      "label": "$$$message_0028_0016_0001$$$"
+    },
+    {
+      "en": "\"Oof... If I do, I feel like Saber or Mitsuzuri would get mad and call me weak for using perfume.\"",
+      "jp": "「う……付けたらセイバーや美綴あたりに、男が香水臭いなんて惰弱だ、と怒られそうだ」",
+      "Pt-br": "\"Ixi... Se eu usar, sinto que a Saber ou a Mitsuzuri iam ficar bravas e me chamar de frouxo por usar perfume.\"",
+      "id": 14169,
+      "epk_id": "3840",
+      "label": "$$$message_0028_0016_0002$$$"
+    },
+    {
+      "en": "\"Mitsuzuri-senpai probably would be upset. She practically worships you.[lr]",
+      "jp": "「美綴先輩は怒りそうですね。美綴先輩、先輩のコト神格化してますから。[lr]",
+      "Pt-br": "\"A Mitsuzuri-senpai provavelmente ficaria chateada. Ela praticamente te venera.[lr]",
+      "id": 14170,
+      "epk_id": "3841",
+      "label": "$$$message_0028_0017_0000$$$"
+    },
+    {
+      "en": "But I think cologne would suit you.[lr]",
+      "jp": "　でも似合うと思いますよ。[lr]",
+      "Pt-br": "Mas eu acho que colônia cairia bem em você.[lr]",
+      "id": 14171,
+      "epk_id": "3842",
+      "label": "$$$message_0028_0017_0001$$$"
+    },
+    {
+      "en": "...I'd like to buy some for Rider's personal use, but she doesn't seem interested...\"",
+      "jp": "　……ライダーもちゃんと専用のにしたいんですけどね、あんまり気を遣わないからなぁ……」",
+      "Pt-br": "...Eu adoraria comprar um pouco pro uso pessoal da Rider, mas ela não parece muito interessada...\"",
+      "id": 14172,
+      "epk_id": "3843",
+      "label": "$$$message_0028_0017_0002$$$"
+    },
+    {
+      "en": "\"You've got a lot to worry about. But...\"[lr]",
+      "jp": "「いろいろ大変だな……しかし」[lr]",
+      "Pt-br": "\"Você tem muitas coisas com o que se preocupar. Mas...\"[lr]",
+      "id": 14173,
+      "epk_id": "3844",
+      "label": "$$$message_0028_0018_0000$$$"
+    },
+    {
+      "en": "As I sit in Sakura's room, I remember.[lr]",
+      "jp": "　ふと桜の部屋の中で、思い返す。[lr]",
+      "Pt-br": "Enquanto estou sentado no quarto da Sakura, eu me lembro.[lr]",
+      "id": 14174,
+      "epk_id": "3845",
+      "label": "$$$message_0028_0018_0001$$$"
+    },
+    {
+      "en": "All the members of our household who came up as we were talking.",
+      "jp": "　こうして桜と話をして出てくる、我が家の面々。",
+      "Pt-br": "Todos os membros da nossa casa foram mencionados nessa nossa conversa.",
+      "id": 14175,
+      "epk_id": "3846",
+      "label": "$$$message_0028_0018_0002$$$"
+    },
+    {
+      "en": "\"...A lot of people live in this house now.\"[lr]",
+      "jp": "「……増えたな、この家も住人が」[lr]",
+      "Pt-br": "\"...Tem muita gente morando nessa casa agora.\"[lr]",
+      "id": 14176,
+      "epk_id": "3847",
+      "label": "$$$message_0028_0019_0000$$$"
+    },
+    {
+      "en": "\"That's true. I thought it was lively when I began staying over, but I never thought we'd have so many people here.\"",
+      "jp": "「そうですよね、わたしがこっちにお邪魔する時には賑やかで良いな、と思ったんですけど。ここまで増えるなんて思いませんでした」",
+      "Pt-br": "\"É verdade. Eu já achava animado quando comecei a dormir aqui, mas nunca imaginei que teríamos tantas pessoas.\"",
+      "id": 14177,
+      "epk_id": "3848",
+      "label": "$$$message_0028_0019_0001$$$"
+    },
+    {
+      "en": "Sakura laughs.[lr]",
+      "jp": "　なんて桜が笑っている。[lr]",
+      "Pt-br": "A Sakura ri.[lr]",
+      "id": 14178,
+      "epk_id": "3849",
+      "label": "$$$message_0028_0020_0000$$$"
+    },
+    {
+      "en": "...Right, only she and Fuji-nee know what this house used to be like.[lr]",
+      "jp": "　……そうか、昔の衛宮邸を知っているのは藤ねえと桜だけだもんな。[lr]",
+      "Pt-br": "...Verdade, só ela e a Fuji-nee sabem como essa casa era antigamente.[lr]",
+      "id": 14179,
+      "epk_id": "3850",
+      "label": "$$$message_0028_0020_0001$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=桜私服07c(中) textoff=0]It's changed a lot in a short time. I'm not sure whether to be impressed or shocked.",
+      "jp": "　[chgfg time=300 storage=桜私服07c(中) textoff=0]短い間にずいぶんとまた変わったものだ[line len=3]と感心するやら呆れるやら。",
+      "Pt-br": "[chgfg time=300 storage=桜私服07c(中) textoff=0]As coisas mudaram muito em pouco tempo. Não sei se fico impressionado ou em choque.",
+      "id": 14180,
+      "epk_id": "3851",
+      "label": "$$$message_0028_0020_0002$$$"
+    },
+    {
+      "en": "\"It used to feel so empty whenever anyone left the house. This part of it, too.\"[lr]",
+      "jp": "「誰か出かけるとあっという間に誰もいなくなる家だったな、ここも」[lr]",
+      "Pt-br": "\"Antes, sempre ficava um vazio enorme quando qualquer um saía de casa. Especialmente aqui no anexo.\"[lr]",
+      "id": 14181,
+      "epk_id": "3852",
+      "label": "$$$message_0028_0021_0000$$$"
+    },
+    {
+      "en": "She nods.[lr]",
+      "jp": "　うん、と頷く。[lr]",
+      "Pt-br": "Ela assente.[lr]",
+      "id": 14182,
+      "epk_id": "3853",
+      "label": "$$$message_0028_0021_0001$$$"
+    },
+    {
+      "en": "Fuji-nee comes and goes, but doesn't live here. Sakura came over to help with breakfast and dinner, but she didn't used to stay over during the day.[lr]",
+      "jp": "　藤ねえは出入りするけど住んではいないし、桜も朝晩通ってくれていたが、こうして昼も一緒にいた訳じゃない。[lr]",
+      "Pt-br": "A Fuji-nee entra e sai, mas não mora aqui. A Sakura vinha ajudar com o café da manhã e o jantar, mas ela não costumava passar o dia todo.[lr]",
+      "id": 14183,
+      "epk_id": "3854",
+      "label": "$$$message_0028_0021_0002$$$"
+    },
+    {
+      "en": "For a long time, I was the only person who lived here.[lr]",
+      "jp": "　長く、ここには俺しか住んでいなかった。[lr]",
+      "Pt-br": "Por um longo tempo, eu era o único morador daqui.[lr]",
+      "id": 14184,
+      "epk_id": "3855",
+      "label": "$$$message_0028_0021_0003$$$"
+    },
+    {
+      "en": "It didn't make me feel lonely, but now that I look back, that was rather...",
+      "jp": "　それを寂しいとは思わなかったが、今からすると随分と……",
+      "Pt-br": "Eu não me sentia solitário, mas, olhando para trás agora, aquilo era meio...",
+      "id": 14185,
+      "epk_id": "3856",
+      "label": "$$$message_0028_0021_0004$$$"
+    },
+    {
+      "en": "\"Yeah, I remember being surprised that you lived in this huge estate all by yourself.\"[lr]",
+      "jp": "「そうですね、こんな広いお屋敷に先輩一人なんだ、って最初は結構びっくりしちゃいました」[lr]",
+      "Pt-br": "\"É, lembro que fiquei surpresa por você morar nessa propriedade gigantesca completamente sozinho, Senpai.\"[lr]",
+      "id": 14186,
+      "epk_id": "3857",
+      "label": "$$$message_0028_0022_0000$$$"
+    },
+    {
+      "en": "...It was over two years ago.[lr]",
+      "jp": "　……もう二年以上前のことだ。[lr]",
+      "Pt-br": "...Isso faz mais de dois anos.[lr]",
+      "id": 14187,
+      "epk_id": "3858",
+      "label": "$$$message_0028_0022_0001$$$"
+    },
+    {
+      "en": "Back then, Sakura was a serious girl who never smiled. She showed up one day with a brooding look and said she wanted to start coming here.",
+      "jp": "　あの頃の桜は全然笑わない真面目な娘で、思い詰めた顔で、ここに通いたいと言ってきた[line len=3]",
+      "Pt-br": "Naquela época, a Sakura era uma garota séria que nunca sorria. Um dia ela apareceu com um olhar cabisbaixo e disse que queria começar a vir aqui.",
+      "id": 14188,
+      "epk_id": "3859",
+      "label": "$$$message_0028_0022_0002$$$"
+    },
+    {
+      "en": "\"...Really? Your house is pretty big, too.\"[lr]",
+      "jp": "「……そうだったか？　桜の家も随分と広いけど」[lr]",
+      "Pt-br": "\"...Sério? A sua casa também é bem grande.\"[lr]",
+      "id": 14189,
+      "epk_id": "3860",
+      "label": "$$$message_0028_0023_0000$$$"
+    },
+    {
+      "en": "\"No, our homes are spacious in different ways.[lr]",
+      "jp": "「いいえ。先輩の家の広さと、わたしの家の広さは違います。[lr]",
+      "Pt-br": "\"Não, nossas casas são espaçosas de jeitos diferentes, Senpai.[lr]",
+      "id": 14190,
+      "epk_id": "3861",
+      "label": "$$$message_0028_0023_0001$$$"
+    },
+    {
+      "en": "The Matou house has always been uninviting. But these rooms feel like they want to be filled.\"",
+      "jp": "　間桐の家は初めから人嫌いです。けどここの部屋たちは、すごく満たされたがっていました」",
+      "Pt-br": "A casa dos Matou sempre foi meio assustadora. Mas estes cômodos... parecem pedir para ser habitados.\"",
+      "id": 14191,
+      "epk_id": "3862",
+      "label": "$$$message_0028_0023_0002$$$"
+    },
+    {
+      "en": "\"Even Rider seems happier and more at ease here. I'm sure Saber feels the same way.\"",
+      "jp": "「ライダーも[ruby text=こっち o2o=1]衛宮邸の方が落ち着くって喜んでくれましたし、セイバーさんだって、きっとそう感じ取っているはずです」",
+      "Pt-br": "\"Até a Rider parece mais feliz e relaxada aqui. Tenho certeza que a Saber-san sente o mesmo.\"",
+      "id": 14192,
+      "epk_id": "3863",
+      "label": "$$$message_0028_0024_0000$$$"
+    },
+    {
+      "en": "\"Really...huh.[lr]",
+      "jp": "「そうなのか……なぁ。[lr]",
+      "Pt-br": "\"Sério... hã.[lr]",
+      "id": 14193,
+      "epk_id": "3864",
+      "label": "$$$message_0028_0025_0000$$$"
+    },
+    {
+      "en": "At the time, I felt like this place turned into a boardinghouse, and also that we had more hands to help with the housework.\"[lr]",
+      "jp": "　俺は合宿所みたいになったとか、分担するようになって掃除の手間が省けたかな、とか思ってたけど」[lr]",
+      "Pt-br": "Na época, senti como se este lugar tivesse virado uma pensão, e também que tínhamos mais mãos para ajudar na limpeza.\"[lr]",
+      "id": 14194,
+      "epk_id": "3865",
+      "label": "$$$message_0028_0025_0001$$$"
+    },
+    {
+      "en": "\"It really was hard cleaning the entire house.\"",
+      "jp": "「昔は大変でしたよね、先輩の家の大掃除」",
+      "Pt-br": "\"Dava um baita trabalho limpar a casa inteira, Senpai.\"",
+      "id": 14195,
+      "epk_id": "3866",
+      "label": "$$$message_0028_0025_0002$$$"
+    },
+    {
+      "en": "Sakura smiles, fondly remembering the past.[lr]",
+      "jp": "　昔のことを思い出して桜が笑う。[lr]",
+      "Pt-br": "A Sakura abre um sorriso, lembrando do passado com carinho.[lr]",
+      "id": 14196,
+      "epk_id": "3867",
+      "label": "$$$message_0028_0026_0000$$$"
+    },
+    {
+      "en": "...There are still a lot of unused rooms, but before most of them were used for storage.[lr]",
+      "jp": "　……今でもまだ使われてない部屋が多いが、昔は今に輪をかけて物置部屋が多かった。[lr]",
+      "Pt-br": "...Ainda tem muito quarto sem uso, mas antes a maioria servia de depósito.[lr]",
+      "id": 14197,
+      "epk_id": "3868",
+      "label": "$$$message_0028_0026_0001$$$"
+    },
+    {
+      "en": "Buildings quickly fall into ruin when people don't live in them.[lr]",
+      "jp": "　人が住まない建物はすぐに古びてしまう。[lr]",
+      "Pt-br": "Construções entram em ruínas bem rápido quando não têm ninguém morando.[lr]",
+      "id": 14198,
+      "epk_id": "3869",
+      "label": "$$$message_0028_0026_0002$$$"
+    },
+    {
+      "en": "It was quite an undertaking to clean the entire compound.",
+      "jp": "　屋敷全部を掃除する時は、中々の大仕事だったのだ。",
+      "Pt-br": "Foi uma verdadeira odisseia limpar a propriedade toda.",
+      "id": 14199,
+      "epk_id": "3870",
+      "label": "$$$message_0028_0026_0003$$$"
+    },
+    {
+      "en": "\"...Yeah. I think our next end-of-year cleaning will go a lot smoother.\"[lr]",
+      "jp": "「……ああ。今年の年末の大掃除は、ずいぶん楽が出来そうだ」[lr]",
+      "Pt-br": "\"...É. Acho que nossa próxima faxina de fim de ano vai ser muito mais suave.\"[lr]",
+      "id": 14200,
+      "epk_id": "3871",
+      "label": "$$$message_0028_0027_0000$$$"
+    },
+    {
+      "en": "\"Rider's good at cleaning, you know.[lr]",
+      "jp": "「ライダーはお掃除得意ですよ？[lr]",
+      "Pt-br": "\"Sabia que a Rider é boa em limpeza?[lr]",
+      "id": 14201,
+      "epk_id": "3872",
+      "label": "$$$message_0028_0027_0001$$$"
+    },
+    {
+      "en": "So we can rest easy!\"[lr]",
+      "jp": "　だから大船に乗ったつもりでどーんと！」[lr]",
+      "Pt-br": "Então a gente pode ficar de boa!\"[lr]",
+      "id": 14202,
+      "epk_id": "3873",
+      "label": "$$$message_0028_0027_0002$$$"
+    },
+    {
+      "en": "Sakura looks as proud as if she were talking about herself.[lr]",
+      "jp": "　我がことのように胸を張る桜。[lr]",
+      "Pt-br": "A Sakura parece tão orgulhosa como se estivesse falando dela mesma.[lr]",
+      "id": 14203,
+      "epk_id": "3874",
+      "label": "$$$message_0028_0027_0003$$$"
+    },
+    {
+      "en": "Rider does like keeping things tidy, but her bigger asset would be her strength, I guess.",
+      "jp": "　ライダーが整理整頓好き、というよりも腕力があるという事なんだろうな、それ[line len=3]",
+      "Pt-br": "A Rider realmente gosta de manter tudo em ordem, mas o maior trunfo dela deve ser a força bruta, eu acho.",
+      "id": 14204,
+      "epk_id": "3875",
+      "label": "$$$message_0028_0027_0004$$$"
+    },
+    {
+      "en": "\"But...\"[lr]",
+      "jp": "「しかし……」[lr]",
+      "Pt-br": "\"Mas...\"[lr]",
+      "id": 14205,
+      "epk_id": "3876",
+      "label": "$$$message_0028_0028_0000$$$"
+    },
+    {
+      "en": "\"Yes?\"[lr]",
+      "jp": "「はい？」[lr]",
+      "Pt-br": "\"Sim?\"[lr]",
+      "id": 14206,
+      "epk_id": "3877",
+      "label": "$$$message_0028_0028_0001$$$"
+    },
+    {
+      "en": "\"Don't you get nostalgic for when things used to be quieter?\"",
+      "jp": "「昔みたいに、静かなのが懐かしいと思ったことはないか？」",
+      "Pt-br": "\"Você não sente saudade de quando as coisas eram mais quietas?\"",
+      "id": 14207,
+      "epk_id": "3878",
+      "label": "$$$message_0028_0028_0002$$$"
+    },
+    {
+      "en": "The question slips out.[lr]",
+      "jp": "　なんとなく、つい訊ねていた。[lr]",
+      "Pt-br": "A pergunta simplesmente escapa.[lr]",
+      "id": 14208,
+      "epk_id": "3879",
+      "label": "$$$message_0028_0029_0000$$$"
+    },
+    {
+      "en": "No reason for it; it's just what I'm wondering in the moment.",
+      "jp": "　理由のない、本当に降って湧いた質問である。",
+      "Pt-br": "Sem motivo algum; foi só o que me veio à mente na hora.",
+      "id": 14209,
+      "epk_id": "3880",
+      "label": "$$$message_0028_0029_0001$$$"
+    },
+    {
+      "en": "\"...I do think it's a shame that I can't be alone with you anymore.\"[lr]",
+      "jp": "「……先輩と二人っきりになれないのは、ちょっと残念かなって思います」[lr]",
+      "Pt-br": "\"...Eu acho uma pena não poder mais ficar a sós com você, Senpai.\"[lr]",
+      "id": 14210,
+      "epk_id": "3881",
+      "label": "$$$message_0028_0030_0000$$$"
+    },
+    {
+      "en": "\"...\"",
+      "jp": "「[line len=6]」",
+      "Pt-br": "\"...\"",
+      "id": 14211,
+      "epk_id": "3882",
+      "label": "$$$message_0028_0030_0001$$$"
+    },
+    {
+      "en": "She's right.[lr]",
+      "jp": "　そうだった。[lr]",
+      "Pt-br": "Ela tem razão.[lr]",
+      "id": 14212,
+      "epk_id": "3883",
+      "label": "$$$message_0028_0031_0000$$$"
+    },
+    {
+      "en": "We used to be the only ones in the house before Fuji-nee came over for breakfast, and she often used to wake me in the shed.[lr]",
+      "jp": "　朝なんかは藤ねえが来る前は二人っきりだったし、よく土蔵で起こしてくれたりとか。[lr]",
+      "Pt-br": "Éramos só nós dois na casa antes da Fuji-nee chegar pro café, e ela sempre costumava me acordar no galpão.[lr]",
+      "id": 14213,
+      "epk_id": "3884",
+      "label": "$$$message_0028_0031_0001$$$"
+    },
+    {
+      "en": "Is she saying that she wishes she could be alone with me now?",
+      "jp": "　残念かな[line len=3]というのは、今でも俺と二人っきりになりたいってコトなのか？",
+      "Pt-br": "Ela está dizendo que queria poder ficar sozinha comigo agora?",
+      "id": 14214,
+      "epk_id": "3885",
+      "label": "$$$message_0028_0031_0002$$$"
+    },
+    {
+      "en": "\"...O-oh.\"[lr]",
+      "jp": "「……そ、そうか」[lr]",
+      "Pt-br": "\"...A-ah.\"[lr]",
+      "id": 14215,
+      "epk_id": "3886",
+      "label": "$$$message_0028_0032_0000$$$"
+    },
+    {
+      "en": "The realization takes me by surprise.[lr]",
+      "jp": "　不意に慌てる。[lr]",
+      "Pt-br": "Cair na real me pega totalmente de surpresa.[lr]",
+      "id": 14216,
+      "epk_id": "3887",
+      "label": "$$$message_0028_0032_0001$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「[line len=6]」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 14217,
+      "epk_id": "3888",
+      "label": "$$$message_0028_0032_0002$$$"
+    },
+    {
+      "en": "I used to see her as a little sister, but she's matured so much that I have mixed feelings about staying as a brother figure...",
+      "jp": "　昔は妹みたいだったのに、今はこんなに成熟してしまって、兄貴分としては複雑なのだが……。",
+      "Pt-br": "Eu costumava enxergar ela como uma irmãzinha, mas ela amadureceu tanto que tô com sentimentos conflitantes sobre continuar sendo a figura de irmão mais velho...",
+      "id": 14218,
+      "epk_id": "3889",
+      "label": "$$$message_0028_0032_0003$$$"
+    },
+    {
+      "en": "\"...Mrgh.\"[lr]",
+      "jp": "「……………む」[lr]",
+      "Pt-br": "\"...Hrmm.\"[lr]",
+      "id": 14219,
+      "epk_id": "3890",
+      "label": "$$$message_0028_0033_0000$$$"
+    },
+    {
+      "en": "In an attempt to avoid eye contact, my eyes wander over to the bed.",
+      "jp": "　目線を逸らそうとして、ベッドを見てしまったりする。",
+      "Pt-br": "Tentando evitar contato visual, meus olhos acabam vagando para a cama.",
+      "id": 14220,
+      "epk_id": "3891",
+      "label": "$$$message_0028_0033_0001$$$"
+    },
+    {
+      "en": "\"B-but you know, it's good that the house is so lively! We get to cook a lot, too.\"[lr]",
+      "jp": "「で、でもですね先輩！　賑やかなのがやっぱりいいです！　お料理もたくさん作れますし」[lr]",
+      "Pt-br": "\"M-mas sabe, é bom que a casa esteja tão animada! A gente pode cozinhar bastante também, Senpai.\"[lr]",
+      "id": 14221,
+      "epk_id": "3892",
+      "label": "$$$message_0028_0034_0000$$$"
+    },
+    {
+      "en": "\"Y-[wvl][shock vmax=15 time=300 count=-3]yeah!\"",
+      "jp": "「そ、[wvl][shock vmax=15 time=300 count=-3]そうだな！」",
+      "Pt-br": "\"É-[wvl][shock vmax=15 time=300 count=-3]é!\"",
+      "id": 14222,
+      "epk_id": "3893",
+      "label": "$$$message_0028_0034_0001$$$"
+    },
+    {
+      "en": "\"It's a bit of a hassle having to take turns in the bath, and there's a lot of laundry to do, but I'm totally fine with it!\"[lr]",
+      "jp": "「ちょっとお風呂の順番が大変だったり、お洗濯物が多かったりしますけど全然平気です！」[lr]",
+      "Pt-br": "\"É meio chato ter que revezar para usar o banho, e há uma montanha de roupa para lavar, mas eu estou totalmente bem com isso!\"[lr]",
+      "id": 14223,
+      "epk_id": "3894",
+      "label": "$$$message_0028_0035_0000$$$"
+    },
+    {
+      "en": "\"Yeah, let's do our best to make it work. [wvl][shock vmax=15 time=300 count=-3]Together!\"",
+      "jp": "「ああ、その辺も善処しよう、[wvl][shock vmax=15 time=300 count=-3]二人で！」",
+      "Pt-br": "\"É, vamos dar o nosso melhor pra fazer dar certo. [wvl][shock vmax=15 time=300 count=-3]Juntos!\"",
+      "id": 14224,
+      "epk_id": "3895",
+      "label": "$$$message_0028_0035_0001$$$"
+    },
+    {
+      "en": "We both rush to agree with each other.[lr]",
+      "jp": "　お互い、大慌てで確認しあう。[lr]",
+      "Pt-br": "Nós dois nos apressamos em concordar um com o outro.[lr]",
+      "id": 14225,
+      "epk_id": "3896",
+      "label": "$$$message_0028_0036_0000$$$"
+    },
+    {
+      "en": "I wonder if Sakura's trying as hard to hide her pounding heart as I am.",
+      "jp": "　俺と同じように、桜も気取られないように鼓動を押し隠している……のだろうか？",
+      "Pt-br": "Fico me perguntando se Sakura está tentando esconder o coração disparado com a mesma força que eu.",
+      "id": 14226,
+      "epk_id": "3897",
+      "label": "$$$message_0028_0036_0001$$$"
+    },
+    {
+      "en": "\"...Um,[lr]",
+      "jp": "「…………あの。[lr]",
+      "Pt-br": "\"...Hum,[lr]",
+      "id": 14227,
+      "epk_id": "3898",
+      "label": "$$$message_0028_0037_0000$$$"
+    },
+    {
+      "en": "do you miss how quiet it used to be, Senpai?\"[lr]",
+      "jp": "　先輩は、昔の静かなのが懐かしいんですか？」[lr]",
+      "Pt-br": "você sente saudade do silêncio que costumava ser, Senpai?\"[lr]",
+      "id": 14228,
+      "epk_id": "3899",
+      "label": "$$$message_0028_0037_0001$$$"
+    },
+    {
+      "en": "\"Ah... [wvl canskip=0 time=600]No, not necessarily.[lr]",
+      "jp": "「ぁ[line len=3][wvl canskip=0 time=600]いや、そうでもない、かな。[lr]",
+      "Pt-br": "\"Ah... [wvl canskip=0 time=600]Não, não necessariamente.[lr]",
+      "id": 14229,
+      "epk_id": "3900",
+      "label": "$$$message_0028_0037_0002$$$"
+    },
+    {
+      "en": "The past is the past, and the present is the present. Each have their pros and cons.\"[lr]",
+      "jp": "　昔は昔で、今は今だし。良いところ、悪いところは半々だろう」[lr]",
+      "Pt-br": "O passado é o passado, e o presente é o presente. Cada um tem seus prós e contras.\"[lr]",
+      "id": 14230,
+      "epk_id": "3901",
+      "label": "$$$message_0028_0037_0003$$$"
+    },
+    {
+      "en": "No, that isn't true.[lr]",
+      "jp": "　いや、それも間違いだ。[lr]",
+      "Pt-br": "Não, isso é mentira.[lr]",
+      "id": 14231,
+      "epk_id": "3902",
+      "label": "$$$message_0028_0037_0004$$$"
+    },
+    {
+      "en": "I don't have a single bad thing to say about life right now.",
+      "jp": "　今の悪いところなんて、それこそ一つもありはしない。",
+      "Pt-br": "Não tenho sequer meia reclamação a fazer da minha vida agora.",
+      "id": 14232,
+      "epk_id": "3903",
+      "label": "$$$message_0028_0037_0005$$$"
+    },
+    {
+      "en": "\"Yeah... I think things could stand to be a little more exciting, actually.\"[lr]",
+      "jp": "「ですねー……わたしももっと賑やかでもいいかなって」[lr]",
+      "Pt-br": "\"É... Para falar a verdade, acho que as coisas poderiam ser até um pouco mais animadas.\"[lr]",
+      "id": 14233,
+      "epk_id": "3904",
+      "label": "$$$message_0028_0038_0000$$$"
+    },
+    {
+      "en": "\"Haha. I wonder who's going to move in next...\"[lr]",
+      "jp": "「はは。今度は誰が来るんだ、誰が……」[lr]",
+      "Pt-br": "\"Haha. Será que vai ter um próximo morador...\"[lr]",
+      "id": 14234,
+      "epk_id": "3905",
+      "label": "$$$message_0028_0038_0001$$$"
+    },
+    {
+      "en": "Issei? It's hard to imagine him coming all the way down from the mountain.[lr]",
+      "jp": "　一成あたりか？　さすがにお山から下りてきて転がり込むようなコトはないと思うが。[lr]",
+      "Pt-br": "O Issei? Difícil imaginar ele descendo lá do topo da montanha.[lr]",
+      "id": 14235,
+      "epk_id": "3906",
+      "label": "$$$message_0028_0038_0002$$$"
+    },
+    {
+      "en": "...You never know. Even Tohsaka's been coming over recently.",
+      "jp": "　[line len=3]わからんぞ、遠坂までこっちに来る昨今は。",
+      "Pt-br": "...Nunca se sabe. Até a Tohsaka anda vindo aqui ultimamente.",
+      "id": 14236,
+      "epk_id": "3907",
+      "label": "$$$message_0028_0038_0003$$$"
+    },
+    {
+      "en": "\"Do you think Illya or Ms. Fujimura would move in?\"[lr]",
+      "jp": "「イリヤちゃんと藤村先生がこっちにお引っ越ししてきませんかね？」[lr]",
+      "Pt-br": "\"Você acha que Illya-chan ou a Fujimura-sensei vão se mudar para cá?\"[lr]",
+      "id": 14237,
+      "epk_id": "3908",
+      "label": "$$$message_0028_0039_0000$$$"
+    },
+    {
+      "en": "\"Urgh... Illya would have a hard time.\"[lr]",
+      "jp": "「う……イリヤは大変そうだ」[lr]",
+      "Pt-br": "\"Urgh... Com a Illya seria complicado.\"[lr]",
+      "id": 14238,
+      "epk_id": "3909",
+      "label": "$$$message_0028_0039_0001$$$"
+    },
+    {
+      "en": "Her maids would have to come with her, so we'd have to suddenly accommodate three more people. We're almost at capacity as it is.",
+      "jp": "　そうするとあのメイドさんたちが来るから、一気に三名追加になってしまう。そろそろそれでキャパシティは一杯だ。",
+      "Pt-br": "As empregadas teriam que vir com ela, então do nada teríamos que acomodar mais três pessoas. Já tamo quase na lotação máxima.",
+      "id": 14239,
+      "epk_id": "3910",
+      "label": "$$$message_0028_0039_0002$$$"
+    },
+    {
+      "en": "Then, I lightly slap my thigh in realization.[lr]",
+      "jp": "　ぽんと、膝を打って桜に話しかける。[lr]",
+      "Pt-br": "Aí, dou um leve tapinha na minha perna, me tocando.[lr]",
+      "id": 14240,
+      "epk_id": "3911",
+      "label": "$$$message_0028_0040_0000$$$"
+    },
+    {
+      "en": "\"Either way, Sakura...\"[lr]",
+      "jp": "「しかし。どちらにしてもだ、桜」[lr]",
+      "Pt-br": "\"De qualquer forma, Sakura...\"[lr]",
+      "id": 14241,
+      "epk_id": "3912",
+      "label": "$$$message_0028_0040_0001$$$"
+    },
+    {
+      "en": "\"Yes?\"",
+      "jp": "「はい」",
+      "Pt-br": "\"Sim?\"",
+      "id": 14242,
+      "epk_id": "3913",
+      "label": "$$$message_0028_0040_0002$$$"
+    },
+    {
+      "en": "\"Our kitchen team has a big responsibility no matter how many people live here. Let's give it our all.\"[lr]",
+      "jp": "「人数が増えても減っても、我々台所組に対しての期待と責任は大きいからな、努力しよう」[lr]",
+      "Pt-br": "\"Nossa equipe da cozinha tem uma responsabilidade enorme, não importa quanta gente more aqui. Vamos dar o nosso melhor.\"[lr]",
+      "id": 14243,
+      "epk_id": "3914",
+      "label": "$$$message_0028_0041_0000$$$"
+    },
+    {
+      "en": "The number of cooks won't increase, even if the residents do.[lr]",
+      "jp": "　これだけ増えても、料理人の数は増えない。[lr]",
+      "Pt-br": "O número de cozinheiros não vai aumentar, mesmo se os residentes aumentarem.[lr]",
+      "id": 14244,
+      "epk_id": "3915",
+      "label": "$$$message_0028_0041_0001$$$"
+    },
+    {
+      "en": "We actually used to have too many cooks compared to residents.",
+      "jp": "　いや、昔は食う人間に対して作り手が多すぎたのだし。",
+      "Pt-br": "Na verdade, antes havia cozinheiros demais para pouca gente.",
+      "id": 14245,
+      "epk_id": "3916",
+      "label": "$$$message_0028_0041_0002$$$"
+    },
+    {
+      "en": "\"Yeah, it's a good chance to show off our skills.\"[lr]",
+      "jp": "「ええ、やっぱり腕のふるい甲斐があります」[lr]",
+      "Pt-br": "\"É, é uma boa chance pra mostrarmos do que somos capazes.\"[lr]",
+      "id": 14246,
+      "epk_id": "3917",
+      "label": "$$$message_0028_0042_0000$$$"
+    },
+    {
+      "en": "\"They say appetites grow in the fall.\"",
+      "jp": "「食欲の秋だしな、今は」",
+      "Pt-br": "\"Dizem que o apetite aumenta no outono.\"",
+      "id": 14247,
+      "epk_id": "3918",
+      "label": "$$$message_0028_0042_0001$$$"
+    },
+    {
+      "en": "\"...Yeah.[lr]",
+      "jp": "「……そうですね。[lr]",
+      "Pt-br": "\"...É.[lr]",
+      "id": 14248,
+      "epk_id": "3919",
+      "label": "$$$message_0028_0043_0000$$$"
+    },
+    {
+      "en": "Please teach me even more, Senpai.\"[lr]",
+      "jp": "　まだまだ、わたしに教えてくださいね。先輩」[lr]",
+      "Pt-br": "Por favor, me ensine ainda mais, Senpai.\"[lr]",
+      "id": 14249,
+      "epk_id": "3920",
+      "label": "$$$message_0028_0043_0001$$$"
+    },
+    {
+      "en": "I'm starting to get a little hungry after this chat.[lr]",
+      "jp": "　そんな話をしていると、小腹が減ってきた。[lr]",
+      "Pt-br": "Estou começando a ficar com fome depois de tanta conversa.[lr]",
+      "id": 14250,
+      "epk_id": "3921",
+      "label": "$$$message_0028_0043_0002$$$"
+    },
+    {
+      "en": "Maybe it's about time.",
+      "jp": "　そろそろいい時間らしい。",
+      "Pt-br": "Acho que já deu a hora.",
+      "id": 14251,
+      "epk_id": "3922",
+      "label": "$$$message_0028_0043_0003$$$"
+    },
+    {
+      "en": "\"Sakura, what should we do for lunch?\"[lr]",
+      "jp": "「桜。昼食、どうしようか？」[lr]",
+      "Pt-br": "\"Sakura, o que a gente deveria fazer de almoço?\"[lr]",
+      "id": 14252,
+      "epk_id": "3923",
+      "label": "$$$message_0028_0044_0000$$$"
+    },
+    {
+      "en": "\"Let's think about it in the kitchen.[lr]",
+      "jp": "「台所にいってから考えましょう。[lr]",
+      "Pt-br": "\"Vamos pensar nisso lá na cozinha.[lr]",
+      "id": 14253,
+      "epk_id": "3924",
+      "label": "$$$message_0028_0044_0001$$$"
+    },
+    {
+      "en": "I'm sure we can make anything together.\"[lr]",
+      "jp": "　先輩と二人なら、どんなお料理もできちゃいますから」[lr]",
+      "Pt-br": "Tenho certeza de que podemos fazer qualquer coisa juntos.\"[lr]",
+      "id": 14254,
+      "epk_id": "3925",
+      "label": "$$$message_0028_0044_0002$$$"
+    },
+    {
+      "en": "\"O-oh, sure.[lr]",
+      "jp": "「そ、そっか。[lr]",
+      "Pt-br": "\"A-ah, claro.[lr]",
+      "id": 14255,
+      "epk_id": "3926",
+      "label": "$$$message_0028_0044_0003$$$"
+    },
+    {
+      "en": "I'll check who else will be having lunch with us.\"",
+      "jp": "　じゃ、他の昼食メンバーがだれか確かめてくるか」",
+      "Pt-br": "Vou checar quem mais vai almoçar com a gente.\"",
+      "id": 14256,
+      "epk_id": "3927",
+      "label": "$$$message_0028_0044_0004$$$"
+    },
+    {
+      "en": "We stand up and leave Sakura's room together.[lr]",
+      "jp": "　立ち上がって、桜と一緒に部屋を出る。[lr]",
+      "Pt-br": "A gente se levanta e sai do quarto da Sakura juntos.[lr]",
+      "id": 14257,
+      "epk_id": "3928",
+      "label": "$$$message_0028_0045_0000$$$"
+    },
+    {
+      "en": "It's a typical, unremarkable morning.[lr]",
+      "jp": "　何というコトはない、いつも通りの午前中。[lr]",
+      "Pt-br": "É uma manhã normal e perfeitamente pacata.[lr]",
+      "id": 14258,
+      "epk_id": "3929",
+      "label": "$$$message_0028_0045_0001$$$"
+    },
+    {
+      "en": "Our warm uneventful days have been passing in peace and quiet.",
+      "jp": "　平穏で安閑としていて、特筆すべきコトもない、温かい日常が過ぎていく。",
+      "Pt-br": "Nossos dias pacíficos e sem incidentes vêm passando no maior sossego.",
+      "id": 14259,
+      "epk_id": "3930",
+      "label": "$$$message_0028_0045_0002$$$"
+    },
+    {
+      "en": "\"Ah... I-I appreciate that.\"[r]",
+      "jp": "「あ……そ、それは、[r]ありがとうございます」",
+      "Pt-br": "\"Ah... E-eu adoraria.\"[r]",
+      "id": 14260,
+      "epk_id": "903812",
+      "label": "$$$message_9028_0006_0002$$$"
+    }
+  ]
+}

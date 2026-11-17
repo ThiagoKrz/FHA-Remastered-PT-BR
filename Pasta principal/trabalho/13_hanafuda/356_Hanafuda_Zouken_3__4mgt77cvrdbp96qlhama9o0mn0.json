@@ -1,0 +1,368 @@
+{
+  "cena": "4mgt77cvrdbp96qlhama9o0mn0",
+  "titulo": "Hanafuda: Zouken 3",
+  "rota": "Hanafuda",
+  "arquivo": "4mgt77cvrdbp96qlhama9o0mn0.epk_dec",
+  "linhas": [
+    {
+      "en": "\"Hm? Did I take a wrong turn?[lr]",
+      "jp": "ããã\nï¼ãéãééãããã®ã[lr]",
+      "Pt-br": "\"Hm? Será que virei na rua errada?[lr]",
+      "id": 43060,
+      "epk_id": "42842",
+      "label": "$$$message_0353_0000_0000$$$"
+    },
+    {
+      "en": "I seem to have wandered into the old Edelfelt den...\"",
+      "jp": "ããªãã¨ã¯ãªãã«ã¨ã¼ãã«ãã§ã«ããã®å¤å·£ã«æ¥ã¦ãã¾ã£ããâ¦â¦ã",
+      "Pt-br": "Parece que eu perambulei para o antigo covil dos Edelfelt...\"",
+      "id": 43061,
+      "epk_id": "42843",
+      "label": "$$$message_0353_0000_0001$$$"
+    },
+    {
+      "en": "\"Is this the mansion of those famous twin mages?[lr]",
+      "jp": "ãããã[ruby text=ã]å½¼ã®åå­é­è¡å¸«ã®å¥èã¨ï¼[lr]",
+      "Pt-br": "\"Esta é a mansão daquelas famosas magas gêmeas?[lr]",
+      "id": 43062,
+      "epk_id": "42844",
+      "label": "$$$message_0353_0000_0002$$$"
+    },
+    {
+      "en": "I sense something ominous... As if your granddaughter spent some time here.\"",
+      "jp": "ãâ¦â¦ä½ããéªæ°ãæããâ¦â¦ãã®å­«å¨ãä½æ¥ãããããã ã",
+      "Pt-br": "Eu sinto algo sinistro... Como se sua neta tivesse passado algum tempo aqui.\"",
+      "id": 43063,
+      "epk_id": "42845",
+      "label": "$$$message_0353_0000_0003$$$"
+    },
+    {
+      "en": "\"Hm. She was here. I can feel it in my bones.\"",
+      "jp": "ããµããããã«ç«ã¡å¯ã£ã¦ãã¾ã£ãã¯è«ã®ç¥ããã¨ããã¤ããã®ã\nã",
+      "Pt-br": "\"Hm. Ela esteve aqui. Posso sentir isso em meus ossos.\"",
+      "id": 43064,
+      "epk_id": "42846",
+      "label": "$$$message_0353_0000_0004$$$"
+    },
+    {
+      "en": "\"Oh, well. This was an error. Let us go to the dragon cave, Assassin.\"",
+      "jp": "ãã¾ããããããã¯ããºã¬ãããç«æ´ã®å±±ã«åãããã¢ãµã·ã³ã",
+      "Pt-br": "\"Bom, fazer o quê. Isto foi um erro. Vamos para a caverna do dragão, Assassin.\"",
+      "id": 43065,
+      "epk_id": "42847",
+      "label": "$$$message_0353_0000_0005$$$"
+    },
+    {
+      "en": "\"Once we deal with that nuisance of a knight, that is.\"[nolr]",
+      "jp": "ãç¡è«[line len=3]ããã«ãããç®éããªå¥³é¨å£«ãå§æ«ãã¦ããã®ã[nolr]",
+      "Pt-br": "\"Isto é, assim que lidarmos com aquele estorvo de cavaleira.\"[nolr]",
+      "id": 43066,
+      "epk_id": "42848",
+      "label": "$$$message_0353_0000_0006$$$"
+    },
+    {
+      "en": "\"So you've noticed me.[lr]",
+      "jp": "ãæ°ã¥ãã¦ãã¾ãããã[lr]",
+      "Pt-br": "\"Então você me notou.[lr]",
+      "id": 43067,
+      "epk_id": "42849",
+      "label": "$$$message_0353_0000_0007$$$"
+    },
+    {
+      "en": "You haven't lost your edge despite your age, Zolgen Makiri.\"",
+      "jp": "ãèãããã¨ã¯ããç²¾åº¦ã¯è½ã¡ã¦ããªãããã§ãã­ããã­ãªï¼ã¾ã©ã«ã±ã³ã",
+      "Pt-br": "Você não perdeu o seu toque apesar da sua idade, Zolgen Makiri.\"",
+      "id": 43068,
+      "epk_id": "42850",
+      "label": "$$$message_0353_0000_0008$$$"
+    },
+    {
+      "en": "\"Now that's a name I've not heard in many years.[lr]",
+      "jp": "ããããæãããåãè¨ãã¦ãããã[lr]",
+      "Pt-br": "\"Olha, mas que nome que eu não escuto a muitos anos.[lr]",
+      "id": 43069,
+      "epk_id": "42851",
+      "label": "$$$message_0353_0000_0009$$$"
+    },
+    {
+      "en": "That must make you one of the Red Branch...\"",
+      "jp": "ããããããã¾ãæ§ã¯ããã¯ã[ruby text=ãããã  char=2]èµ¤æã®[line len=2]ã",
+      "Pt-br": "Isso deve fazer de você alguém do Ramo Vermelho...\"",
+      "id": 43070,
+      "epk_id": "42852",
+      "label": "$$$message_0353_0000_0010$$$"
+    },
+    {
+      "en": "\"Hm? Mm? Hmmm?\"",
+      "jp": "ããï¼ããããï¼ããããããï¼ã",
+      "Pt-br": "\"Hm? Mm? Hmmm?\"",
+      "id": 43071,
+      "epk_id": "42853",
+      "label": "$$$message_0353_0000_0011$$$"
+    },
+    {
+      "en": "\"W-what?[lr]",
+      "jp": "ããªããªãã§ãããããªãã[lr]",
+      "Pt-br": "\"O-o quê?[lr]",
+      "id": 43072,
+      "epk_id": "42854",
+      "label": "$$$message_0353_0000_0012$$$"
+    },
+    {
+      "en": "Why are you staring at my face?\"",
+      "jp": "ãäººã®é¡ãããããã¨ã",
+      "Pt-br": "Por que está encarando o meu rosto?\"",
+      "id": 43073,
+      "epk_id": "42855",
+      "label": "$$$message_0353_0000_0013$$$"
+    },
+    {
+      "en": "\"Hmm. You seem familiar... Where have I seen you... It was recent, I think...\"",
+      "jp": "ããã¼ãã©ããã§è¦è¦ããããã®ãããâ¦â¦ã©ãããã£ããã®ã\nãããã¨æè¿ããããããªâ¦â¦ã",
+      "Pt-br": "\"Hmm. Você me parece familiar... Onde é que eu te vi... Foi recentemente, acho eu...\"",
+      "id": 43074,
+      "epk_id": "42856",
+      "label": "$$$message_0353_0000_0014$$$"
+    },
+    {
+      "en": "\"You there,[hfwww layer=1] young man. Give me a hint.\"",
+      "jp": "ãã»ãã[hfwww layer=1]ããã®ããã³ãããããã³ãã",
+      "Pt-br": "\"Você aí, [hfwww layer=1]jovem. Dê-me uma dica.\"",
+      "id": 43075,
+      "epk_id": "42857",
+      "label": "$$$message_0353_0001_0000$$$"
+    },
+    {
+      "en": "\"Man, what a drag... I'm gonna melt.\"",
+      "jp": "ãâ¦â¦ãã¼ãã ã£ããã¼â¦â¦ã¾ã æ¼éãããããã\nãæº¶ããããã³ãã¼ã",
+      "Pt-br": "\"Cara, que chatice... Eu vou derreter.\"",
+      "id": 43076,
+      "epk_id": "42858",
+      "label": "$$$message_0353_0001_0001$$$"
+    },
+    {
+      "en": "\"Oh, you talkin' to me, grandpa?[lr]",
+      "jp": "ãã£ã¦ãªã¬ã«è¨ã£ã¦ãã®ãçºããã[lr]",
+      "Pt-br": "\"Ah, cê tá falando comigo, vovô?[lr]",
+      "id": 43077,
+      "epk_id": "42859",
+      "label": "$$$message_0353_0001_0002$$$"
+    },
+    {
+      "en": "Hm, isn't he...[lr]",
+      "jp": "ããããã¢ã¬ããã­ï¼[lr]",
+      "Pt-br": "Ué, ele não é...[lr]",
+      "id": 43078,
+      "epk_id": "42860",
+      "label": "$$$message_0353_0001_0003$$$"
+    },
+    {
+      "en": "One of the regulars at the maid cafe near the station?\"[seloop storage=se254.wav]",
+      "jp": "ãã¢ã³ã¿é§\nåã®ã¡ã¤ãå«è¶ã®å¸¸é£ãããï¼ã[seloop storage=se254.wav]",
+      "Pt-br": "Um dos clientes regulares do maid cafe perto da estação?\"[seloop storage=se254.wav]",
+      "id": 43079,
+      "epk_id": "42861",
+      "label": "$$$message_0353_0001_0004$$$"
+    },
+    {
+      "en": "\"Yes, that's it! I remember, Assassin! [hfwww layer=1]That lady knight is the clumsy maid I mentioned before!\"",
+      "jp": "ããããããããããããï¼ãæãåºãããã¢ãµã·ã³ï¼[hfwww layer=1]ãã®å¥³é¨å£«ã¯ã¢ã¬ãããåã«è©±ãããã¸ã£å¨ã¡ã¤ãããï¼ã",
+      "Pt-br": "\"Sim, é isso mesmo! Eu me lembrei, Assassin! [hfwww layer=1]Aquela senhora cavaleira é a maid desastrada que eu mencionei antes!\"",
+      "id": 43080,
+      "epk_id": "42862",
+      "label": "$$$message_0353_0001_0005$$$"
+    },
+    {
+      "en": "\"What!? Ah, ahhh![lr]",
+      "jp": "ããªã£â¦â¦ï¼ï¼ããããã¼ã¼ã¼ã¼ï¼[lr]",
+      "Pt-br": "\"O quê!? Ah, ahhh![lr]",
+      "id": 43081,
+      "epk_id": "42863",
+      "label": "$$$message_0353_0001_0006$$$"
+    },
+    {
+      "en": "Now that you mention it, you're from that one time...!\"",
+      "jp": "ãããããããã°ãè²´æ§ã¯ãã®æã®ã¼ã¼ï¼ã",
+      "Pt-br": "Agora que você mencionou, você é daquela vez...!\"",
+      "id": 43082,
+      "epk_id": "42864",
+      "label": "$$$message_0353_0001_0007$$$"
+    },
+    {
+      "en": "\"Oh? So you're saying she put on a maid outfit that didn't match her womanly character at all...\"",
+      "jp": "ãã»ããããã¨ããã¤ããå§ããç³»ã®ã­ã£ã©ã®ã¯ã»ã«ãã¡ã¤ãæãªã©ã¨ä¼¼åããªãæ ¼å¥½ãããã",
+      "Pt-br": "\"Oh? Então você está dizendo que ela colocou uma roupa de maid que não combinava nem um pouco com o seu caráter feminino...\"",
+      "id": 43083,
+      "epk_id": "42865",
+      "label": "$$$message_0353_0001_0008$$$"
+    },
+    {
+      "en": "\"Like a hostess at a club who instantly transforms an innocent, floral space into an erotic cosplay pub for old men.\"[nolr]",
+      "jp": "ããã¥ã¢ã§ãã­ã¼ã©ã«ãªç©ºéãä¸ç¬ã«ãã¦ã¨ã­ã¹ã¨ãªã¤ã¸æº¢ããã³ã¹ãã¬ããã«å¤ãã¦ãã¾ã£ãã­ã£ãå¬¢ãã[nolr]",
+      "Pt-br": "\"Tal como uma anfitriã de um clube que instantaneamente transforma um inocente espaço floral num pub de cosplay erótico para velhos.\"[nolr]",
+      "id": 43084,
+      "epk_id": "42866",
+      "label": "$$$message_0353_0001_0009$$$"
+    },
+    {
+      "en": "[hfl][cm][hfu][cm]\"N[hfl]\"[hfu]n[hfl]N[hfu]n[hfl]ngh[hfu]ngh[hfl]...[hfu]...[hfl]...[hfu]...[hfl]...[hfu]...[hfl]...[hfu]...[hfl]...[hfu]...[hfl]...[hfu]...[hfl]...[hfu]...[hfl]...[hfu]![hfl]![hfu]\"[hfl]\"[lr]",
+      "jp": "[hfl][cm][hfu][cm]ãã£[hfl]ã[hfu]ã£[hfl]ã£[hfu]ã£[hfl]â¦[hfu]ã£[hfl]â¦[hfu]ã£[hfl]â¦[hfu]ã£[hfl]â¦[hfu]ã£[hfl]â¦[hfu]â¦[hfl]â¦[hfu]â¦[hfl]â¦[hfu]â¦[hfl]â¦[hfu]â¦[hfl]â¦[hfu]ï¼[hfl]ï¼[hfu]ã[hfl]ã[lr]",
+      "Pt-br": "[hfl][cm][hfu][cm]\"N[hfl]\"[hfu]n[hfl]N[hfu]n[hfl]ngh[hfu]ngh[hfl]...[hfu]...[hfl]...[hfu]...[hfl]...[hfu]...[hfl]...[hfu]...[hfl]...[hfu]...[hfl]...[hfu]...[hfl]...[hfu]...[hfl]...[hfu]![hfl]![hfu]\"[hfl]\"[lr]",
+      "id": 43085,
+      "epk_id": "42867",
+      "label": "$$$message_0353_0002_0000$$$"
+    },
+    {
+      "en": "[hfu][br backlog=0](t[hfl](t[hfu]re[hfl]re[hfu]mb[hfl]mb[hfu]le[hfl]le[hfu]s[hfl]s [hfu] [hfl]vi[hfu]vi[hfl]ol[hfu]ol[hfl]en[hfu]en[hfl]tl[hfu]tl[hfl]y[hfu]y[hfl][hfu])[hfl])[nolr]",
+      "jp": "[hfu][br backlog=0]ï¼[hfl]ï¼[hfu]â»[hfl]â»[hfu]ã·[hfl]ã·[hfu]ã[hfl]ã[hfu]ã·[hfl]ã·[hfu]ã[hfl]ã[hfu]é[hfl]é[hfu]ã[hfl]ã[hfu]ã¦[hfl]ã¦[hfu]ã[hfl]ã[hfu]ã[hfl]ã[hfu]ï¼[hfl]ï¼[nolr]",
+      "Pt-br": "[hfu][br backlog=0](t[hfl](t[hfu]re[hfl]re[hfu]me[hfl]me[hfu] [hfl] [hfu]vi[hfl]vi[hfu]ol[hfl]ol[hfu]en[hfl]en[hfu]ta[hfl]ta[hfu]me[hfl]me[hfu]nt[hfl]nt[hfu]e[hfl]e[hfu])[hfl])[nolr]",
+      "id": 43086,
+      "epk_id": "42868",
+      "label": "$$$message_0353_0002_0001$$$"
+    },
+    {
+      "en": "\"Ah, now that was a sight to behold![lr]",
+      "jp": "ããããã¢ã¬ã¯è¦ç©ããã£ããï¼[lr]",
+      "Pt-br": "\"Ah, aquilo sim que era uma visão para se apreciar![lr]",
+      "id": 43087,
+      "epk_id": "42869",
+      "label": "$$$message_0353_0002_0002$$$"
+    },
+    {
+      "en": "You stood out, surrounded by all those lovely young things!\"",
+      "jp": "ãå¨ããã¿ãªæãããããªãã ã£ãã®ã§ãªãä½è¨ã«ç®ç«ã£ã¦ãã£ãï¼ã",
+      "Pt-br": "Você se destacou muito, cercada por todas aquelas coisinhas jovens e amáveis!\"",
+      "id": 43088,
+      "epk_id": "42870",
+      "label": "$$$message_0353_0002_0003$$$"
+    },
+    {
+      "en": "\"Like Tokyo Tower, or Tsutenkaku![lr]",
+      "jp": "ãããªããæ±äº¬ã¿ã¯ã¼ãéå¤©é£ãï¼[lr]",
+      "Pt-br": "\"Tipo a Tokyo Tower, ou a Tsutenkaku![lr]",
+      "id": 43089,
+      "epk_id": "42871",
+      "label": "$$$message_0353_0002_0004$$$"
+    },
+    {
+      "en": "Y'know, red all over!\"",
+      "jp": "ãã»ããå\n¨ä½çã«èµ¤ããã®ï¼ã",
+      "Pt-br": "Cê sabe, toda vermelha!\"",
+      "id": 43090,
+      "epk_id": "42872",
+      "label": "$$$message_0353_0002_0005$$$"
+    },
+    {
+      "en": "\"So...[lr]",
+      "jp": "ã[line len=3]ã§ã[lr]",
+      "Pt-br": "\"Então...[lr]",
+      "id": 43091,
+      "epk_id": "42873",
+      "label": "$$$message_0353_0002_0006$$$"
+    },
+    {
+      "en": "You were fired, if I'm not mistaken?\"",
+      "jp": "ãèãã¾ã§ããªããããã¯ãã¯ãã«ãªã£ãã®ãã®ã\nã",
+      "Pt-br": "Você foi demitida, se não me engano?\"",
+      "id": 43092,
+      "epk_id": "42874",
+      "label": "$$$message_0353_0002_0007$$$"
+    },
+    {
+      "en": "\"Yeah. She came home crying after two days. Still, though, that's actually a pretty good run for my Master.\"",
+      "jp": "ããããäºæ¥ã§æ³£ããªããå¸°ã£ã¦ãããï¼ããããããè¨ã£ã¦ããããªããã¡ã®ãã¹ã¿ã¼ã«ãã¡ããé·ç¶ãããæ¹[line len=3]ã",
+      "Pt-br": "\"É. Ela voltou pra casa chorando depois de dois dias. Mas ainda assim, essa foi uma temporada muito boa pra minha Mestra.\"",
+      "id": 43093,
+      "epk_id": "42875",
+      "label": "$$$message_0353_0002_0008$$$"
+    },
+    {
+      "en": "\"Don't bite your tongue, Avenger!\"",
+      "jp": "ãã¢ã´ã§ã³ã¸ã£ã¼ãè\n¹ã¨å¥¥æ­¯ãé£ããã°ããªããï¼ã",
+      "Pt-br": "\"Não morda a língua, Avenger!\"",
+      "id": 43094,
+      "epk_id": "42876",
+      "label": "$$$message_0353_0002_0009$$$"
+    },
+    {
+      "en": "\"Five tons[line len=2]hurgh!?\"[rf][p][hfmsg2layer src=0 dest=2][nolr]",
+      "jp": "ãäºããã³ï¼ï¼ã[rf][p][hfmsg2layer src=0 dest=2][nolr]",
+      "Pt-br": "\"Cinco toneladas[line len=2]hurgh!?\"[rf][p][hfmsg2layer src=0 dest=2][nolr]",
+      "id": 43095,
+      "epk_id": "42877",
+      "label": "$$$message_0353_0002_0010$$$"
+    },
+    {
+      "en": "\"(That Master has it rough...)\"",
+      "jp": "ãâ¦â¦ï¼ããããä¸»äººã¯ã¿ã¤ãã³ã§ãã­â¦â¦ï¼ã",
+      "Pt-br": "\"(Essa Mestra tem passado por poucas e boas...)\"",
+      "id": 43096,
+      "epk_id": "42878",
+      "label": "$$$message_0353_0002_0011$$$"
+    },
+    {
+      "en": "\"What's so funny!?\"",
+      "jp": "ããããä½ãããããï¼ã",
+      "Pt-br": "\"Qual é a graça!?\"",
+      "id": 43097,
+      "epk_id": "42879",
+      "label": "$$$message_0353_0002_0012$$$"
+    },
+    {
+      "en": "\"I-I'm not laughing.\"",
+      "jp": "ãããç¬ã£ã¦ã¾ãããã",
+      "Pt-br": "\"E-eu não estou rindo.\"",
+      "id": 43098,
+      "epk_id": "42880",
+      "label": "$$$message_0353_0002_0013$$$"
+    },
+    {
+      "en": "\"Owwww... [wait canskip=0 time=400][hffacechg chara=ã‚¢ãƒ´ã‚§ãƒ³ã‚¸ãƒ£ãƒ¼ face=å–œ layer=0 time=300]Oh yeah, Master. That's just what his face looks like. [hfwww layer=0]You shouldn't make fun of people's looks.\"",
+      "jp": "ããããããããâ¦â¦[wait canskip=0 time=400][hffacechg chara=ã¢ã´ã§ã³ã¸ã£ã¼ face=å layer=0 time=300]ãããããã ããã¹ã¿ã¼ãããããããã[ruby text=ã¡ã³]é¢ãªãã ãã[hfwww layer=0]å¤è¦çç¹å¾´ãæªãè¨ã£ã¡ãããã­ã¼ãï¼ã",
+      "Pt-br": "\"Aiiii... [wait canskip=0 time=400][hffacechg chara=アヴェンジャー face=喜 layer=0 time=300]Aí Mestra. Esse é só o jeito que é a cara dele. [hfwww layer=0]Você não deveria tirar sarro da aparência das pessoas.\"",
+      "id": 43099,
+      "epk_id": "42881",
+      "label": "$$$message_0353_0002_0014$$$"
+    },
+    {
+      "en": "\"...![lr]",
+      "jp": "ãâ¦â¦â¦â¦ï¼[lr]",
+      "Pt-br": "\"...![lr]",
+      "id": 43100,
+      "epk_id": "42882",
+      "label": "$$$message_0353_0002_0015$$$"
+    },
+    {
+      "en": "(I think we can be friends!)\"",
+      "jp": "ï¼ãã®äººã¨ã¯åéã«ãªããããªæ°ãããâ¦â¦ï¼ï¼ã",
+      "Pt-br": "(Eu acho que nós podemos ser amigos!)\"",
+      "id": 43101,
+      "epk_id": "42883",
+      "label": "$$$message_0353_0002_0016$$$"
+    },
+    {
+      "en": "\"Th-they insulted us first! Let's go, Avenger!\"",
+      "jp": "ãããå\nã«ä¾®è¾±ãã¦ããã®ã¯ãã¡ãã§ãï¼ãããã¾ããã¢ã´ã§ã³ã¸ã£ã¼ï¼ã",
+      "Pt-br": "\"E-eles nos insultaram primeiro! Vamos nessa, Avenger!\"",
+      "id": 43102,
+      "epk_id": "42884",
+      "label": "$$$message_0353_0002_0017$$$"
+    },
+    {
+      "en": "\"I'm going to beat the memory out of every single customer who saw me at that maid cafe!\"",
+      "jp": "ããã®ã¡ã¤ãå«è¶ã«ããå®¢ã¯ãå\n¨å¡æ®´ã£ã¦è¨æ¶ãåªå¤±ããã¾ãï¼ã",
+      "Pt-br": "\"Eu vou arrancar, na base da porrada, a memória de todos os clientes que me viram naquele maid cafe!\"",
+      "id": 43103,
+      "epk_id": "42885",
+      "label": "$$$message_0353_0003_0000$$$"
+    },
+    {
+      "en": "\"...Damn. She's attacking people for another crazy reason.\"\u0013£Pi",
+      "jp": "ãâ¦â¦ããããã¾ããããçç±ã§è¥²ãããã£ã¦ãããªãããã®äººã:üM",
+      "Pt-br": "\"...Droga. Ela tá atacando as pessoas por outro motivo maluco.\"",
+      "id": 43104,
+      "epk_id": "42886",
+      "label": "$$$message_0353_0003_0001$$$"
+    }
+  ]
+}

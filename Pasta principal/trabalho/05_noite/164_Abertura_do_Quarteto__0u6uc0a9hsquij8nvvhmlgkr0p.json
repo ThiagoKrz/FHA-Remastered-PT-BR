@@ -1,0 +1,784 @@
+{
+  "cena": "0u6uc0a9hsquij8nvvhmlgkr0p",
+  "titulo": "Abertura do Quarteto",
+  "rota": "Noite",
+  "arquivo": "0u6uc0a9hsquij8nvvhmlgkr0p.epk_dec",
+  "linhas": [
+    {
+      "en": "\"Illya, want anything?\"[lr]",
+      "jp": "「イリヤー、何かいるか？」[lr]",
+      "Pt-br": "\"Illya, quer algo?\"[lr]",
+      "id": 23997,
+      "epk_id": "29134",
+      "label": "$$$message_0209_0000_0000$$$"
+    },
+    {
+      "en": "\"Hmm...if you still have any tea, sure.\"",
+      "jp": "「んー……お茶もまだあるから、いい」",
+      "Pt-br": "\"Hmm... se ainda tiver chá, eu aceito.\"",
+      "id": 23998,
+      "epk_id": "29135",
+      "label": "$$$message_0209_0000_0001$$$"
+    },
+    {
+      "en": "We're watching TV together.[lr]",
+      "jp": "　二人してテレビを観る。[lr]",
+      "Pt-br": "Estamos assistindo TV juntos.[lr]",
+      "id": 23999,
+      "epk_id": "29136",
+      "label": "$$$message_0209_0001_0000$$$"
+    },
+    {
+      "en": "The others have already finished taking baths and gone off to their rooms.[lr]",
+      "jp": "　他の面々は早々に風呂を済ませて部屋に戻っていった。[lr]",
+      "Pt-br": "Os outros já terminaram de tomar banho e foram para seus quartos.[lr]",
+      "id": 24000,
+      "epk_id": "29137",
+      "label": "$$$message_0209_0001_0001$$$"
+    },
+    {
+      "en": "Illya and I are the only ones in the living room at this hour. She's watching an uninteresting news program.",
+      "jp": "　夜の居間にいるのはイリヤと俺だけで、イリヤが見ているのは面白みのないニュース番組である。",
+      "Pt-br": "A esta hora, só eu e Illya estamos na sala. Ela assiste a um programa de notícias sem graça.",
+      "id": 24001,
+      "epk_id": "29138",
+      "label": "$$$message_0209_0001_0002$$$"
+    },
+    {
+      "en": "\"Is this interesting, Illya?\"[lr]",
+      "jp": "「イリヤ、面白いか？」[lr]",
+      "Pt-br": "\"Isso está interessante, Illya?\"[lr]",
+      "id": 24002,
+      "epk_id": "29139",
+      "label": "$$$message_0209_0002_0000$$$"
+    },
+    {
+      "en": "\"Not really. But I need to know what's going on in the world, don't I?\"[lr]",
+      "jp": "「あんまり。でもちゃんと世情に詳しくなっておかないといけないじゃない」[lr]",
+      "Pt-br": "\"Não muito. Mas preciso saber o que está acontecendo no mundo, não é?\"[lr]",
+      "id": 24003,
+      "epk_id": "29140",
+      "label": "$$$message_0209_0002_0001$$$"
+    },
+    {
+      "en": "\"It's entertainment news, though... [cacheimage storage=イリヤ01a(中)][wvl][chgfg time=300 storage=イリヤ01a(中) textoff=0]Just a bunch of stuff that doesn't matter, like who married or divorced whom...\"",
+      "jp": "「芸能関係とかなぁ……[cacheimage storage=イリヤ01a(中)][wvl][chgfg time=300 storage=イリヤ01a(中) textoff=0]別に誰が結婚して誰が離婚して、なんてどうでもいいって言えば…」",
+      "Pt-br": "\"Mas é notícia de entretenimento... [cacheimage storage=イリヤ01a(中)][wvl][chgfg time=300 storage=イリヤ01a(中) textoff=0]Um monte de coisa que não importa, tipo quem casou ou se divorciou de quem...\"",
+      "id": 24004,
+      "epk_id": "29141",
+      "label": "$$$message_0209_0002_0002$$$"
+    },
+    {
+      "en": "\"Shirou? I'm done with the bath.\"[lr]",
+      "jp": "「シロウ？　お風呂を上がりましたが」[lr]",
+      "Pt-br": "\"Shirou? Já terminei o banho.\"[lr]",
+      "id": 24005,
+      "epk_id": "29142",
+      "label": "$$$message_0209_0003_0000$$$"
+    },
+    {
+      "en": "Saber appears, freshly bathed.[lr]",
+      "jp": "　湯上がりのセイバーがやってくる。[lr]",
+      "Pt-br": "Saber aparece, recém-saída do banho.[lr]",
+      "id": 24006,
+      "epk_id": "29143",
+      "label": "$$$message_0209_0003_0001$$$"
+    },
+    {
+      "en": "Oh, I guess they're all done. That makes me the last one left.",
+      "jp": "　そうか、セイバーがラスト前で、俺が最後か。",
+      "Pt-br": "Ah, então todo mundo já terminou. Isso me deixa por último.",
+      "id": 24007,
+      "epk_id": "29144",
+      "label": "$$$message_0209_0003_0002$$$"
+    },
+    {
+      "en": "\"Was it a good bath, Saber?\"[lr]",
+      "jp": "「いい湯だったか？　セイバー」[lr]",
+      "Pt-br": "\"O banho estava bom, Saber?\"[lr]",
+      "id": 24008,
+      "epk_id": "29145",
+      "label": "$$$message_0209_0004_0000$$$"
+    },
+    {
+      "en": "\"Yes.\"",
+      "jp": "「はい」",
+      "Pt-br": "\"Sim.\"",
+      "id": 24009,
+      "epk_id": "29146",
+      "label": "$$$message_0209_0004_0001$$$"
+    },
+    {
+      "en": "Saber adeptly braids her hair in front of me, returning to her usual appearance.[lr]",
+      "jp": "　セイバーが目の前で手際よく髪を結って、いつものセイバーに戻る。[lr]",
+      "Pt-br": "Saber trança o cabelo com habilidade diante de mim, voltando à aparência de sempre.[lr]",
+      "id": 24010,
+      "epk_id": "29147",
+      "label": "$$$message_0209_0005_0000$$$"
+    },
+    {
+      "en": "I think she looks a little childish when her hair is down...",
+      "jp": "　髪を下ろしてる方が子供っぽく見えるな、とか思っていると……",
+      "Pt-br": "Acho que ela parece um pouco infantil quando deixa o cabelo solto...",
+      "id": 24011,
+      "epk_id": "29148",
+      "label": "$$$message_0209_0005_0001$$$"
+    },
+    {
+      "en": "\"Okay. Why don't we take a bath together, Shirou?\"[lr]",
+      "jp": "「そ。じゃあ一緒に入りましょ？　シロウ」[lr]",
+      "Pt-br": "\"Certo. Por que não tomamos banho juntos, Shirou?\"[lr]",
+      "id": 24012,
+      "epk_id": "29149",
+      "label": "$$$message_0209_0006_0000$$$"
+    },
+    {
+      "en": "\"Yeah... Huh?\"[lr]",
+      "jp": "「ああ……え？」[lr]",
+      "Pt-br": "\"É... Hã?\"[lr]",
+      "id": 24013,
+      "epk_id": "29150",
+      "label": "$$$message_0209_0006_0001$$$"
+    },
+    {
+      "en": "\"What?\"[lr]",
+      "jp": "「はい？」[lr]",
+      "Pt-br": "\"O quê?\"[lr]",
+      "id": 24014,
+      "epk_id": "29151",
+      "label": "$$$message_0209_0006_0002$$$"
+    },
+    {
+      "en": "I freeze half a second after starting to get up.[lr]",
+      "jp": "　いわれるままに腰を上げそうになって、そのまま凍り付く。[lr]",
+      "Pt-br": "Congelo meio segundo depois de começar a me levantar.[lr]",
+      "id": 24015,
+      "epk_id": "29152",
+      "label": "$$$message_0209_0006_0003$$$"
+    },
+    {
+      "en": "Illya...wants to take a bath together?",
+      "jp": "　イリヤが……一緒に入りましょう？",
+      "Pt-br": "Illya... quer tomar banho comigo?",
+      "id": 24016,
+      "epk_id": "29153",
+      "label": "$$$message_0209_0006_0004$$$"
+    },
+    {
+      "en": "\"...What are you talking about, Illyasviel?\"[lr]",
+      "jp": "「……何を言うのですか？　イリヤスフィール」[lr]",
+      "Pt-br": "\"...Do que está falando, Illyasviel?\"[lr]",
+      "id": 24017,
+      "epk_id": "29154",
+      "label": "$$$message_0209_0007_0000$$$"
+    },
+    {
+      "en": "\"I'm asking Shirou to take a bath with me.[lr]",
+      "jp": "「だから、シロウと一緒にお風呂に入りましょうって。[lr]",
+      "Pt-br": "\"Estou perguntando se Shirou quer tomar banho comigo.[lr]",
+      "id": 24018,
+      "epk_id": "29155",
+      "label": "$$$message_0209_0007_0001$$$"
+    },
+    {
+      "en": "I know it could be taken the wrong way if I leave out the subject.\"[lr]",
+      "jp": "　そうね、目的語がなかったから聞き間違えるかも知れないわね」[lr]",
+      "Pt-br": "Eu sei que, se eu omitir o sujeito, isso pode soar errado.\"[lr]",
+      "id": 24019,
+      "epk_id": "29156",
+      "label": "$$$message_0209_0007_0002$$$"
+    },
+    {
+      "en": "\"Wait, hold on. What's going on?\"",
+      "jp": "「ま、待ってくれ。何事だそれ」",
+      "Pt-br": "\"Espera, calma. O que está acontecendo?\"",
+      "id": 24020,
+      "epk_id": "29157",
+      "label": "$$$message_0209_0007_0003$$$"
+    },
+    {
+      "en": "I check to see if Illya is joking.[lr]",
+      "jp": "　いったい何の冗談かと、イリヤに確認する。[lr]",
+      "Pt-br": "Confiro se Illya está brincando.[lr]",
+      "id": 24021,
+      "epk_id": "29158",
+      "label": "$$$message_0209_0008_0000$$$"
+    },
+    {
+      "en": "The idea of bathing with her sounds incredibly dangerous...",
+      "jp": "　イリヤと一緒にお風呂だなんて、すさまじく危険なような……",
+      "Pt-br": "A ideia de tomar banho com ela soa incrivelmente perigosa...",
+      "id": 24022,
+      "epk_id": "29159",
+      "label": "$$$message_0209_0008_0001$$$"
+    },
+    {
+      "en": "\"N...\"[lr]",
+      "jp": "「だ[line len=4]」[lr]",
+      "Pt-br": "\"N...\"[lr]",
+      "id": 24023,
+      "epk_id": "29160",
+      "label": "$$$message_0209_0009_0000$$$"
+    },
+    {
+      "en": "\"Not allowed![rf][lr]",
+      "jp": "「だめです！[rf][lr]",
+      "Pt-br": "\"Não permitido![rf][lr]",
+      "id": 24024,
+      "epk_id": "29161",
+      "label": "$$$message_0209_0009_0001$$$"
+    },
+    {
+      "en": "What are you thinking, Illyasviel!?\"[lr]",
+      "jp": "　何を考えているのですかイリヤスフィール！」[lr]",
+      "Pt-br": "O que você está pensando, Illyasviel!?\"[lr]",
+      "id": 24025,
+      "epk_id": "29162",
+      "label": "$$$message_0209_0009_0002$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=イリヤ11a(中) textoff=0]Saber loses her temper before I can.",
+      "jp": "　[chgfg time=300 storage=イリヤ11a(中) textoff=0]俺よりも先に激怒したのはセイバーだった。",
+      "Pt-br": "[chgfg time=300 storage=イリヤ11a(中) textoff=0]Saber perde a paciência antes de mim.",
+      "id": 24026,
+      "epk_id": "29163",
+      "label": "$$$message_0209_0009_0003$$$"
+    },
+    {
+      "en": "\"Heheeeh, you're insecure, are you?\"[lr]",
+      "jp": "「ふふーん、セイバーったら不安なんだ」[lr]",
+      "Pt-br": "\"Heheeeh, você está insegura, é?\"[lr]",
+      "id": 24027,
+      "epk_id": "29164",
+      "label": "$$$message_0209_0010_0000$$$"
+    },
+    {
+      "en": "\"What are you implying?\"[lr]",
+      "jp": "「何を言いたいのですか？」[lr]",
+      "Pt-br": "\"O que está insinuando?\"[lr]",
+      "id": 24028,
+      "epk_id": "29165",
+      "label": "$$$message_0209_0010_0001$$$"
+    },
+    {
+      "en": "\"You're worried I'm going to do something weird with my big brother in the bath, right? [cacheimage storage=イリヤ10a(中)][wvl][chgfg storage=イリヤ10a(中) pos=l time=300 textoff=0]It's okay, I trust him.\"",
+      "jp": "「お兄ちゃんがわたしにヘンなコトしちゃうんじゃないのかなって不安なんでしょ？　[cacheimage storage=イリヤ10a(中)][wvl][chgfg storage=イリヤ10a(中) pos=l time=300 textoff=0]私はお兄ちゃんのこと信頼しているから平気だもんねー」",
+      "Pt-br": "\"Está preocupada que eu faça alguma coisa estranha com Onii-chan no banho, não está? [cacheimage storage=イリヤ10a(中)][wvl][chgfg storage=イリヤ10a(中) pos=l time=300 textoff=0]Tudo bem, eu confio nele.\"",
+      "id": 24029,
+      "epk_id": "29166",
+      "label": "$$$message_0209_0010_0002$$$"
+    },
+    {
+      "en": "She laughs innocently.[lr]",
+      "jp": "　なんて、邪気無く笑っているイリヤ。[lr]",
+      "Pt-br": "Ela ri com inocência.[lr]",
+      "id": 24030,
+      "epk_id": "29167",
+      "label": "$$$message_0209_0011_0000$$$"
+    },
+    {
+      "en": "...I'm pretty sure she's laughing [font italic=true]at[font italic=false] Saber.",
+      "jp": "　……それは暗にセイバーを笑っているのだろう。",
+      "Pt-br": "...Tenho quase certeza de que ela está rindo [font italic=true]da[font italic=false] Saber.",
+      "id": 24031,
+      "epk_id": "29168",
+      "label": "$$$message_0209_0011_0001$$$"
+    },
+    {
+      "en": "\"...No, Shirou wouldn't do something like that.[lr]",
+      "jp": "「……いえ、シロウはそのような人ではない。[lr]",
+      "Pt-br": "\"...Não, Shirou não faria algo assim.[lr]",
+      "id": 24032,
+      "epk_id": "29169",
+      "label": "$$$message_0209_0012_0000$$$"
+    },
+    {
+      "en": "He would not lose himself to untoward desires.\"[lr]",
+      "jp": "　彼があらぬ情欲に身を誤ることはありません」[lr]",
+      "Pt-br": "Ele não se deixaria levar por desejos impróprios.\"[lr]",
+      "id": 24033,
+      "epk_id": "29170",
+      "label": "$$$message_0209_0012_0001$$$"
+    },
+    {
+      "en": "\"Yeah. Nothing happened when you took a bath with him, after all.\"",
+      "jp": "「そうだよね。セイバーとシロウは一緒にお風呂に入ってもなんにもなかったんだから」",
+      "Pt-br": "\"É. Afinal, nada aconteceu quando você tomou banho com ele.\"",
+      "id": 24034,
+      "epk_id": "29171",
+      "label": "$$$message_0209_0012_0002$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=セイバー私服06b腕b(中) pos=r textoff=0]What?[lr]",
+      "jp": "　[chgfg time=300 storage=セイバー私服06b腕b(中) pos=r textoff=0]何？[lr]",
+      "Pt-br": "[chgfg time=300 storage=セイバー私服06b腕b(中) pos=r textoff=0]O quê?[lr]",
+      "id": 24035,
+      "epk_id": "29172",
+      "label": "$$$message_0209_0013_0000$$$"
+    },
+    {
+      "en": "H-how do you know that!?",
+      "jp": "　な、なんでそんなこと知ってるんだイリヤ！？",
+      "Pt-br": "C-como você sabe disso!?",
+      "id": 24036,
+      "epk_id": "29173",
+      "label": "$$$message_0209_0013_0001$$$"
+    },
+    {
+      "en": "\"Th-that was an accident, wasn't it, Shirou?\"[lr]",
+      "jp": "「あ、あれは事故です、そうでしょうシロウ！」[lr]",
+      "Pt-br": "\"A-aquilo foi um acidente, não foi, Shirou?\"[lr]",
+      "id": 24037,
+      "epk_id": "29174",
+      "label": "$$$message_0209_0014_0000$$$"
+    },
+    {
+      "en": "\"An accident. Spontaneous troubles are what we call accidents.\"",
+      "jp": "「事故だ。偶発的なトラブルは総じて事故と呼ぶべきだ」",
+      "Pt-br": "\"Um acidente. Problemas espontâneos são o que chamamos de acidentes.\"",
+      "id": 24038,
+      "epk_id": "29175",
+      "label": "$$$message_0209_0014_0001$$$"
+    },
+    {
+      "en": "\"But you wouldn't stay to warm up together if it was an accident, would you? You're more mature than me, so I'm sure nothing will happen if I do it.[cacheimage storage=イリヤ01f(中)][wvl][chgfg time=300 storage=イリヤ01f(中) textoff=0] Right, Big Brother?\"",
+      "jp": "「あら、事故でも一緒にお風呂で温まったりしないわよね？　わたしよりオトナなセイバーが入ってもそうだったんだから、私じゃ何もないよねー？　[cacheimage storage=イリヤ01f(中)][wvl][chgfg time=300 storage=イリヤ01f(中) textoff=0]おにいちゃん？」",
+      "Pt-br": "\"Mas, se foi acidente, vocês não ficariam se aquecendo juntos depois, ficariam? Você é mais madura do que eu, então tenho certeza de que nada vai acontecer se eu fizer o mesmo.[cacheimage storage=イリヤ01f(中)][wvl][chgfg time=300 storage=イリヤ01f(中) textoff=0] Né, Onii-chan?\"",
+      "id": 24039,
+      "epk_id": "29176",
+      "label": "$$$message_0209_0015_0000$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=セイバー私服20d(中) textoff=0]She ignores Saber's flustered reaction and laughs at me.[lr]",
+      "jp": "　[chgfg time=300 storage=セイバー私服20d(中) textoff=0]なんて、当惑するセイバーをよそに俺に笑いかけてくる。[lr]",
+      "Pt-br": "[chgfg time=300 storage=セイバー私服20d(中) textoff=0]Ela ignora a reação atrapalhada da Saber e ri para mim.[lr]",
+      "id": 24040,
+      "epk_id": "29177",
+      "label": "$$$message_0209_0016_0000$$$"
+    },
+    {
+      "en": "Still, I can't answer that question.",
+      "jp": "　そんなことを言われても答えようがない。",
+      "Pt-br": "Ainda assim, não consigo responder a essa pergunta.",
+      "id": 24041,
+      "epk_id": "29178",
+      "label": "$$$message_0209_0016_0001$$$"
+    },
+    {
+      "en": "\"I-it can't happen, Illyasviel!\"[lr]",
+      "jp": "「……い、いけませんイリヤスフィール！」[lr]",
+      "Pt-br": "\"I-isso não pode acontecer, Illyasviel!\"[lr]",
+      "id": 24042,
+      "epk_id": "29179",
+      "label": "$$$message_0209_0017_0000$$$"
+    },
+    {
+      "en": "\"Why not? Do you want to be the only one that got to bathe with Shirou alone that badly? [cacheimage storage=イリヤ11c(中)][wvl][chgfg storage=イリヤ11c(中) pos=l time=400 textoff=0]Saber, you naughty girl...\"",
+      "jp": "「なんで？　そんなにお兄ちゃんとのお風呂をセイバーが一人で独占したいって？　[cacheimage storage=イリヤ11c(中)][wvl][chgfg storage=イリヤ11c(中) pos=l time=400 textoff=0]セイバーったらもー」",
+      "Pt-br": "\"Por quê? Você quer tanto assim ser a única que tomou banho sozinha com Onii-chan? [cacheimage storage=イリヤ11c(中)][wvl][chgfg storage=イリヤ11c(中) pos=l time=400 textoff=0]Saber, sua danadinha...\"",
+      "id": 24043,
+      "epk_id": "29180",
+      "label": "$$$message_0209_0017_0001$$$"
+    },
+    {
+      "en": "\"That's not it at all! B-but men and women bathing together disrupts public morals, [cacheimage storage=セイバー私服06c腕a(中)][wvl][chgfg time=300 storage=セイバー私服06c腕a(中) textoff=0]and that's not good!\"",
+      "jp": "「そんなことはありません！　で、ですが男女が混浴など風紀の[ruby text=びんらん char=2]紊乱です、[cacheimage storage=セイバー私服06c腕a(中)][wvl][chgfg time=300 storage=セイバー私服06c腕a(中) textoff=0]よくありません！」",
+      "Pt-br": "\"Não é nada disso! M-mas homens e mulheres tomando banho juntos atentam contra a moral pública, [cacheimage storage=セイバー私服06c腕a(中)][wvl][chgfg time=300 storage=セイバー私服06c腕a(中) textoff=0]e isso não é bom!\"",
+      "id": 24044,
+      "epk_id": "29181",
+      "label": "$$$message_0209_0018_0000$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=イリヤ11a(中) textoff=0]It's true that things would get crazy if we allowed mixed bathing. Even if we wouldn't have to worry about the order people use the bath anymore, my mental health couldn't take it.",
+      "jp": "　[chgfg time=300 storage=イリヤ11a(中) textoff=0]確かに混浴解禁とかいったらとんでもないコトになる。風呂順の混乱解消になっても、こちらの精神が保たない。",
+      "Pt-br": "[chgfg time=300 storage=イリヤ11a(中) textoff=0]É verdade que as coisas ficariam caóticas se permitíssemos banho misto. Mesmo que não precisássemos mais nos preocupar com a ordem do banho, minha saúde mental não aguentaria.",
+      "id": 24045,
+      "epk_id": "29182",
+      "label": "$$$message_0209_0019_0000$$$"
+    },
+    {
+      "en": "\"Let's say you and I are fine. But what would he do if it was Rin or Sakura?\"[lr]",
+      "jp": "「私やイリヤスフィールならいい、ですが凛や桜であれば一体どうするのですか？」[lr]",
+      "Pt-br": "\"Digamos que você e eu não tenhamos problema. Mas o que ele faria se fosse Rin ou Sakura?\"[lr]",
+      "id": 24046,
+      "epk_id": "29183",
+      "label": "$$$message_0209_0020_0000$$$"
+    },
+    {
+      "en": "\"What would you do, Shirou?\"",
+      "jp": "「どうするの？　シロウ？」",
+      "Pt-br": "\"O que você faria, Shirou?\"",
+      "id": 24047,
+      "epk_id": "29184",
+      "label": "$$$message_0209_0020_0001$$$"
+    },
+    {
+      "en": "\"Ugh...\"[lr]",
+      "jp": "「う…………」[lr]",
+      "Pt-br": "\"Ugh...\"[lr]",
+      "id": 24048,
+      "epk_id": "29185",
+      "label": "$$$message_0209_0021_0000$$$"
+    },
+    {
+      "en": "I mean, you ask me, but...this is a situation where the man needs to keep his mouth shut and keep drinking tea. Honestly, I want to just roll on the floor all the way back to my bedroom.",
+      "jp": "　いや、どうと言われましても……こういう状況において、男は黙ってお茶を飲み続けるぐらいしかコメントしようがないワケであり、正直なところゴロゴロと転がって自分の部屋に撤退したいのであった。",
+      "Pt-br": "Quer dizer, ela me pergunta, mas... esta é uma situação em que o homem deve calar a boca e continuar tomando chá. Sinceramente, eu queria rolar pelo chão até o quarto.",
+      "id": 24049,
+      "epk_id": "29186",
+      "label": "$$$message_0209_0021_0001$$$"
+    },
+    {
+      "en": "\"See? Shirou also doesn't want mixed bathing.\"[lr]",
+      "jp": "「どうです。このように、シロウも混浴は望んでいません」[lr]",
+      "Pt-br": "\"Viu? Shirou também não quer banho misto.\"[lr]",
+      "id": 24050,
+      "epk_id": "29187",
+      "label": "$$$message_0209_0022_0000$$$"
+    },
+    {
+      "en": "\"You really think so? How can you tell unless you peek inside him?",
+      "jp": "「そうなのかな？　ちゃんと中身を覗いてみないと判らないわよ？」",
+      "Pt-br": "\"Você acha mesmo? Como vai saber sem espiar dentro dele?",
+      "id": 24051,
+      "epk_id": "29188",
+      "label": "$$$message_0209_0022_0001$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=イリヤ02b(中) textoff=0]Illya grins as she says something sinister.[lr]",
+      "jp": "　[chgfg time=300 storage=イリヤ02b(中) textoff=0]にっこりしながら怖いことを言うイリヤ。[lr]",
+      "Pt-br": "[chgfg time=300 storage=イリヤ02b(中) textoff=0]Illya sorri ao dizer algo sinistro.[lr]",
+      "id": 24052,
+      "epk_id": "29189",
+      "label": "$$$message_0209_0023_0000$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=セイバー私服13c(中) textoff=0]What does she mean by \"peek\"? Just looking, right? I know that might not be a challenge for Illya, but I'd prefer it if she didn't.[lr]",
+      "jp": "　[chgfg time=300 storage=セイバー私服13c(中) textoff=0]覗くってなにするんだ……覗くんだよな。イリヤには物の数じゃないだろうけど、出来れば止めて欲しい。[lr]",
+      "Pt-br": "[chgfg time=300 storage=セイバー私服13c(中) textoff=0]O que ela quer dizer com \"espiar\"? Só olhar, certo? Sei que isso talvez não seja difícil para Illya, mas eu preferia que ela não fizesse.[lr]",
+      "id": 24053,
+      "epk_id": "29190",
+      "label": "$$$message_0209_0023_0001$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=イリヤ07b(中) textoff=0]When I shake my head, Illya glares at me unhappily.",
+      "jp": "　[chgfg time=300 storage=イリヤ07b(中) textoff=0]俺が首を振ると、イリヤは不満そうに睨んできた。",
+      "Pt-br": "[chgfg time=300 storage=イリヤ07b(中) textoff=0]Quando balanço a cabeça, Illya me encara, contrariada.",
+      "id": 24054,
+      "epk_id": "29191",
+      "label": "$$$message_0209_0023_0002$$$"
+    },
+    {
+      "en": "\"[move time=120 path=(-50,26,255)(-50,3,255)(-50,29,255)(-50,5,255)(-50,32,255)(-50,0,255) storage=イリヤ03a(中) accel=0 textoff=0]Boo. No fair that only Saber gets to bathe with you. I want to go together, too!\"[wm canskip=0][lr]",
+      "jp": "「[move time=120 path=(-50,26,255)(-50,3,255)(-50,29,255)(-50,5,255)(-50,32,255)(-50,0,255) storage=イリヤ03a(中) accel=0 textoff=0]ぶーぶー。そんなセイバーだけシロウと一緒なんてずるいー、わたしも一緒に入るー」[wm canskip=0][lr]",
+      "Pt-br": "\"[move time=120 path=(-50,26,255)(-50,3,255)(-50,29,255)(-50,5,255)(-50,32,255)(-50,0,255) storage=イリヤ03a(中) accel=0 textoff=0]Buu. Não é justo só a Saber poder tomar banho com você. Eu também quero ir junto!\"[wm canskip=0][lr]",
+      "id": 24055,
+      "epk_id": "29192",
+      "label": "$$$message_0209_0024_0000$$$"
+    },
+    {
+      "en": "\"No. In any case, mixed bathing is prohibited.\"[lr]",
+      "jp": "「いけません、とにかく混浴は禁止です」[lr]",
+      "Pt-br": "\"Não. De qualquer modo, banho misto é proibido.\"[lr]",
+      "id": 24056,
+      "epk_id": "29193",
+      "label": "$$$message_0209_0024_0001$$$"
+    },
+    {
+      "en": "\"Hm, then what if I wear a swimsuit? That's okay, right?\"",
+      "jp": "「む、じゃあ水着つければいいでしょ？　ね？」",
+      "Pt-br": "\"Hm, então e se eu usar maiô? Aí tudo bem, não é?\"",
+      "id": 24057,
+      "epk_id": "29194",
+      "label": "$$$message_0209_0024_0002$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=セイバー私服06b腕b(中) textoff=0]...This is starting to turn into some hot springs comedy.[lr]",
+      "jp": "　[chgfg time=300 storage=セイバー私服06b腕b(中) textoff=0]……どっかの温泉番組みたいだな。[lr]",
+      "Pt-br": "[chgfg time=300 storage=セイバー私服06b腕b(中) textoff=0]...Isso está começando a virar comédia de águas termais.[lr]",
+      "id": 24058,
+      "epk_id": "29195",
+      "label": "$$$message_0209_0025_0000$$$"
+    },
+    {
+      "en": "However, forget swimsuits, you can't even wear bath towels when going into the water at a hot spring.[lr]",
+      "jp": "　もっとも、水着はともかくバスタオルを巻いて温泉にはいるのは頂けない。[lr]",
+      "Pt-br": "Só que, em fontes termais, esqueça maiôs: não se entra na água nem de toalha.[lr]",
+      "id": 24059,
+      "epk_id": "29196",
+      "label": "$$$message_0209_0025_0001$$$"
+    },
+    {
+      "en": "I do remember bringing a towel into the bathtub when I was a kid... Wait, Illya's swimsuit?",
+      "jp": "　子供の頃から湯船にタオルを入れるなと[line len=3]いや、イリヤの水着？",
+      "Pt-br": "Lembro que, quando criança, eu levava uma toalha para dentro da banheira... Espera, o maiô da Illya?",
+      "id": 24060,
+      "epk_id": "29197",
+      "label": "$$$message_0209_0025_0002$$$"
+    },
+    {
+      "en": "\"When everyone's in swimsuits at the pool, that doesn't count as mixed bathing. So you can't complain about that, right?\"[lr]",
+      "jp": "「プールならみんな水着で混浴じゃない、これなら文句ないわよね？　セイバー」[lr]",
+      "Pt-br": "\"Quando todo mundo está de maiô na piscina, isso não conta como banho misto. Então você não pode reclamar, certo?\"[lr]",
+      "id": 24061,
+      "epk_id": "29198",
+      "label": "$$$message_0209_0026_0000$$$"
+    },
+    {
+      "en": "\"Going there, are you... That is true, but...\"[lr]",
+      "jp": "「そう来ましたか……たしかにそうなれば……ですが」[lr]",
+      "Pt-br": "\"Vai por esse caminho...? É verdade, mas...\"[lr]",
+      "id": 24062,
+      "epk_id": "29199",
+      "label": "$$$message_0209_0026_0001$$$"
+    },
+    {
+      "en": "\"And you got to go to the pool with Shirou, too. You've already got a double lead on me....\"",
+      "jp": "「だって、セイバーだってシロウと一緒にプールに行ったんだよねー、わたしセイバーに二つもリードされてるじゃないー」",
+      "Pt-br": "\"E você também foi à piscina com Shirou. Já tem uma vantagem dupla sobre mim...\"",
+      "id": 24063,
+      "epk_id": "29200",
+      "label": "$$$message_0209_0026_0002$$$"
+    },
+    {
+      "en": "Illya seems to find that upsetting.[lr]",
+      "jp": "　イリヤはどうも、そのことがお気に召さないらしい。[lr]",
+      "Pt-br": "Illya parece incomodada com isso.[lr]",
+      "id": 24064,
+      "epk_id": "29201",
+      "label": "$$$message_0209_0027_0000$$$"
+    },
+    {
+      "en": "...Illya had a swimsuit too, huh?",
+      "jp": "　……そうか、イリヤも水着持ってたのか。",
+      "Pt-br": "...Illya também tinha um maiô, hein?",
+      "id": 24065,
+      "epk_id": "29202",
+      "label": "$$$message_0209_0027_0001$$$"
+    },
+    {
+      "en": "\"Illya, why don't we go to the pool, then?\"[lr]",
+      "jp": "「イリヤ、それならプールの方がいい」[lr]",
+      "Pt-br": "\"Illya, então por que não vamos à piscina?\"[lr]",
+      "id": 24066,
+      "epk_id": "29203",
+      "label": "$$$message_0209_0028_0000$$$"
+    },
+    {
+      "en": "\"Really?\"[lr]",
+      "jp": "「そう？」[lr]",
+      "Pt-br": "\"Sério?\"[lr]",
+      "id": 24067,
+      "epk_id": "29204",
+      "label": "$$$message_0209_0028_0001$$$"
+    },
+    {
+      "en": "\"You can't show off your swimsuit in the bathroom... It'd be a waste. I want to get a proper look at it by the pool.\"",
+      "jp": "「うちの風呂場の中でイリヤの水着を見てもぱっとしないからなぁ……それはもったいない、それならちゃんとプールで見たい」",
+      "Pt-br": "\"Você não pode exibir o maiô no banheiro... Seria desperdício. Quero ver direito na piscina.\"",
+      "id": 24068,
+      "epk_id": "29205",
+      "label": "$$$message_0209_0028_0002$$$"
+    },
+    {
+      "en": "Yeah, it would be a waste in that cramped bathroom. Best to appreciate it with the summer vibes of the poolside.[lr]",
+      "jp": "　うん、あの狭い風呂場の中だと勿体ない。あのプールで夏の雰囲気で見られれば良い感じだ。[lr]",
+      "Pt-br": "É, seria desperdício naquele banheiro apertado. Melhor apreciar com o clima de verão à beira da piscina.[lr]",
+      "id": 24069,
+      "epk_id": "29206",
+      "label": "$$$message_0209_0029_0000$$$"
+    },
+    {
+      "en": "And even if we took a bath together, I'd like it to be in a more hot springs-y setting, like an open-air stone bath...[lr]",
+      "jp": "　もしお風呂で一緒に入ることになったとしても、もっと温泉然としたのがいい、こう、岩場の露天風呂……[lr]",
+      "Pt-br": "E, mesmo que fôssemos tomar banho juntos, eu preferiria algo mais com cara de águas termais, tipo uma banheira de pedra ao ar livre...[lr]",
+      "id": 24070,
+      "epk_id": "29207",
+      "label": "$$$message_0209_0029_0001$$$"
+    },
+    {
+      "en": "Why Fuji-nee?",
+      "jp": "　なぜ藤ねえ？",
+      "Pt-br": "Por que Fuji-nee?",
+      "id": 24071,
+      "epk_id": "29208",
+      "label": "$$$message_0209_0029_0002$$$"
+    },
+    {
+      "en": "\"Then, do you want to go to the pool with me, Shirou?\"[lr]",
+      "jp": "「じゃ、わたしと一緒にプールにいこ？　シロウ？」[lr]",
+      "Pt-br": "\"Então você quer ir à piscina comigo, Shirou?\"[lr]",
+      "id": 24072,
+      "epk_id": "29209",
+      "label": "$$$message_0209_0030_0000$$$"
+    },
+    {
+      "en": "\"You mean Waku Waku Zabuun in Shinto?\"[lr]",
+      "jp": "「あの、新都のわくわくざぶーんですか？」[lr]",
+      "Pt-br": "\"Você quer dizer o Waku Waku Zabuun, em Shinto?\"[lr]",
+      "id": 24073,
+      "epk_id": "29210",
+      "label": "$$$message_0209_0030_0001$$$"
+    },
+    {
+      "en": "\"Is that what it was called? [cacheimage storage=イリヤ06f(中)][wvl][chgfg storage=イリヤ06f(中) pos=l time=300 textoff=0]Anyway, I'm going! Shirou, you are too, right?\"",
+      "jp": "「[line len=3]そんな名前だったかしら、[cacheimage storage=イリヤ06f(中)][wvl][chgfg storage=イリヤ06f(中) pos=l time=300 textoff=0]とにかく、わたしも行くんだからー、シロウ、いいわね！」",
+      "Pt-br": "\"Era esse o nome? [cacheimage storage=イリヤ06f(中)][wvl][chgfg storage=イリヤ06f(中) pos=l time=300 textoff=0]Enfim, eu vou! Shirou, você também vai, certo?\"",
+      "id": 24074,
+      "epk_id": "29211",
+      "label": "$$$message_0209_0030_0002$$$"
+    },
+    {
+      "en": "\"...Yeah. But when we go, let's invite everyone else, too. The more, the merrier.\"[lr]",
+      "jp": "「……そうだな。けど、その時はイリヤだけじゃなくて他のみんなも誘おう。どうせならそれくらい賑やかな方がいい」[lr]",
+      "Pt-br": "\"...Sim. Mas, quando formos, vamos chamar todo mundo também. Quanto mais gente, melhor.\"[lr]",
+      "id": 24075,
+      "epk_id": "29212",
+      "label": "$$$message_0209_0031_0000$$$"
+    },
+    {
+      "en": "\"Hmm... Then can I bring Leys and Sella?\"",
+      "jp": "「ふーん……じゃ、リズとセラも連れてこよっか？」",
+      "Pt-br": "\"Hmm... Então posso levar Leys e Sella?\"",
+      "id": 24076,
+      "epk_id": "29213",
+      "label": "$$$message_0209_0031_0001$$$"
+    },
+    {
+      "en": "\"The maids? Wow...\"[lr]",
+      "jp": "「あのメイドさんたち？　うわ………」[lr]",
+      "Pt-br": "\"As empregadas? Nossa...\"[lr]",
+      "id": 24077,
+      "epk_id": "29214",
+      "label": "$$$message_0209_0032_0000$$$"
+    },
+    {
+      "en": "Those two maids in swimsuits?[lr]",
+      "jp": "　あの二人のメイドさんの水着姿？[lr]",
+      "Pt-br": "Aquelas duas empregadas de maiô?[lr]",
+      "id": 24078,
+      "epk_id": "29215",
+      "label": "$$$message_0209_0032_0001$$$"
+    },
+    {
+      "en": "[movefg opacity=255 left=400 top=106 time=800 accel=0 storage=リズ01b(遠) textoff=0][movefg opacity=160 left=530 top=104 time=1000 accel=0 storage=リズfd特殊01a(遠) textoff=0][movefg opacity=255 left=137 top=97 time=800 accel=0 storage=セラ01a(遠) textoff=0][movefg opacity=160 left=71 top=98 time=1000 accel=0 storage=セラfd特殊01a(遠) textoff=0]I've never even imagined how they might look before... In fact, I can't imagine them looking like anything [font italic=true]but[font italic=false] maids.",
+      "jp": "　[movefg opacity=255 left=400 top=106 time=800 accel=0 storage=リズ01b(遠) textoff=0][movefg opacity=160 left=530 top=104 time=1000 accel=0 storage=リズfd特殊01a(遠) textoff=0][movefg opacity=255 left=137 top=97 time=800 accel=0 storage=セラ01a(遠) textoff=0][movefg opacity=160 left=71 top=98 time=1000 accel=0 storage=セラfd特殊01a(遠) textoff=0]それはぜんぜん想像したこと無いな……そもそもメイドさんたちの別の格好というのが見当も付かない。",
+      "Pt-br": "[movefg opacity=255 left=400 top=106 time=800 accel=0 storage=リズ01b(遠) textoff=0][movefg opacity=160 left=530 top=104 time=1000 accel=0 storage=リズfd特殊01a(遠) textoff=0][movefg opacity=255 left=137 top=97 time=800 accel=0 storage=セラ01a(遠) textoff=0][movefg opacity=160 left=71 top=98 time=1000 accel=0 storage=セラfd特殊01a(遠) textoff=0]Nunca tinha sequer imaginado como elas ficariam... Na verdade, não consigo imaginá-las parecendo qualquer coisa [font italic=true]além[font italic=false] de empregadas.",
+      "id": 24079,
+      "epk_id": "29216",
+      "label": "$$$message_0209_0032_0002$$$"
+    },
+    {
+      "en": "\"Oh, that's a good idea.[lr]",
+      "jp": "「そうですか、それはいい話です。[lr]",
+      "Pt-br": "\"Ah, é uma boa ideia.[lr]",
+      "id": 24080,
+      "epk_id": "29217",
+      "label": "$$$message_0209_0033_0000$$$"
+    },
+    {
+      "en": "That way I can come, too.\"[lr]",
+      "jp": "　それであれば私も一緒に行かせて頂きます」[lr]",
+      "Pt-br": "Assim eu também posso ir.\"[lr]",
+      "id": 24081,
+      "epk_id": "29218",
+      "label": "$$$message_0209_0033_0001$$$"
+    },
+    {
+      "en": "\"Heheheeeh, you're that worried about Shirou, huh?\"[lr]",
+      "jp": "「ふふふーん、セイバーってそんなにシロウのことが心配なんだ」[lr]",
+      "Pt-br": "\"Heheheeeh, você está tão preocupada assim com o Shirou, é?\"[lr]",
+      "id": 24082,
+      "epk_id": "29219",
+      "label": "$$$message_0209_0033_0002$$$"
+    },
+    {
+      "en": "\"...It is my duty.\"",
+      "jp": "「……それが私の務めですから」",
+      "Pt-br": "\"...É meu dever.\"",
+      "id": 24083,
+      "epk_id": "29220",
+      "label": "$$$message_0209_0033_0003$$$"
+    },
+    {
+      "en": "\"All right. So, I'm off to the bath...\"[lr]",
+      "jp": "「わかった。じゃ、俺は風呂入ってくる……」[lr]",
+      "Pt-br": "\"Tudo bem. Então, vou para o banho...\"[lr]",
+      "id": 24084,
+      "epk_id": "29221",
+      "label": "$$$message_0209_0034_0000$$$"
+    },
+    {
+      "en": "This conversation went awfully off the rails, even though it was originally just about me taking a bath.[lr]",
+      "jp": "　俺の風呂の話だったのに、随分と大きな話になっている。[lr]",
+      "Pt-br": "A conversa saiu terrivelmente dos trilhos, mesmo tendo começado só com a minha ida ao banho.[lr]",
+      "id": 24085,
+      "epk_id": "29222",
+      "label": "$$$message_0209_0034_0001$$$"
+    },
+    {
+      "en": "...But I am looking forward to bringing Illya to the pool...",
+      "jp": "　……けど、イリヤをプールに連れて行ってあげるのは楽しそうだなあ……。",
+      "Pt-br": "...Mas estou ansioso para levar Illya à piscina...",
+      "id": 24086,
+      "epk_id": "29223",
+      "label": "$$$message_0209_0034_0002$$$"
+    },
+    {
+      "en": "\"Yeah. So let's both go in, Shirou.\"[lr]",
+      "jp": "「うん、じゃ、一緒に入ろ？　シロウ」[lr]",
+      "Pt-br": "\"Sim. Então vamos entrar juntos, Shirou.\"[lr]",
+      "id": 24087,
+      "epk_id": "29224",
+      "label": "$$$message_0209_0035_0000$$$"
+    },
+    {
+      "en": "\"Wha... Illyasviel! Weren't you listening to a word we said!?\"[lr]",
+      "jp": "「な……イリヤスフィール！　貴女は人の話を聞いていませんね！？」[lr]",
+      "Pt-br": "\"Q-quê... Illyasviel! Você não ouviu uma palavra do que dissemos!?\"[lr]",
+      "id": 24088,
+      "epk_id": "29225",
+      "label": "$$$message_0209_0035_0001$$$"
+    },
+    {
+      "en": "\"Just because we decided to go to the pool together doesn't mean I can't bathe with Shirou.\"",
+      "jp": "「ふふん、一緒にプールに行く約束をしても、まだシロウと一緒にお風呂は諦めた訳じゃないんだからねー？」",
+      "Pt-br": "\"Só porque decidimos ir à piscina juntos não quer dizer que eu não possa tomar banho com Shirou.\"",
+      "id": 24089,
+      "epk_id": "29226",
+      "label": "$$$message_0209_0035_0002$$$"
+    },
+    {
+      "en": "\"...\"[wvs][se storage=se075.wav][lr]",
+      "jp": "「………………」[wvs][se storage=se075.wav][lr]",
+      "Pt-br": "\"...\"[wvs][se storage=se075.wav][lr]",
+      "id": 24090,
+      "epk_id": "29227",
+      "label": "$$$message_0209_0036_0000$$$"
+    },
+    {
+      "en": "[se storage=se073.wav]Seriously, if Illya goes into the bath with me, [se storage=se268.wav]my life will be at risk in more ways than one.[lr]",
+      "jp": "　[se storage=se073.wav]本当にイリヤが入っ[se storage=se268.wav]てきたら色んな意味で命が危ない。[lr]",
+      "Pt-br": "[se storage=se073.wav]Sério, se Illya entrar no banho comigo, [se storage=se268.wav]minha vida estará em risco de mais de uma forma.[lr]",
+      "id": 24091,
+      "epk_id": "29228",
+      "label": "$$$message_0209_0036_0001$$$"
+    },
+    {
+      "en": "I'd better [se storage=se057.wav]get in there [se storage=se065.wav]while Saber's still slowing her [se storage=se044.wav]down.",
+      "jp": "　セイバーが[se storage=se057.wav]足止めしてく[se storage=se065.wav]れる間に、ちゃっちゃと入って上がって[se storage=se044.wav]しまおう。",
+      "Pt-br": "É melhor [se storage=se057.wav]eu entrar logo [se storage=se065.wav]enquanto Saber ainda está segurando [se storage=se044.wav]ela.",
+      "id": 24092,
+      "epk_id": "29229",
+      "label": "$$$message_0209_0036_0002$$$"
+    },
+    {
+      "en": "\"Was it a good bath, Saber?\"[r]",
+      "jp": "「いい湯だったか？[r]セイバー」",
+      "Pt-br": "\"Foi um bom banho, Saber?\"[r]",
+      "id": 24093,
+      "epk_id": "929145",
+      "label": "$$$message_9209_0004_0000$$$"
+    }
+  ]
+}

@@ -1,0 +1,632 @@
+{
+  "cena": "436bh182hmctta3b6hfnqdcs4l",
+  "titulo": "Escola: Servo Invisível",
+  "rota": "Dia 3",
+  "arquivo": "436bh182hmctta3b6hfnqdcs4l.epk_dec",
+  "linhas": [
+    {
+      "en": "It's the schoolyard in the afternoon.[lr]",
+      "jp": "　午後の校庭。[lr]",
+      "Pt-br": "É o pátio da escola à tarde.[lr]",
+      "id": 16003,
+      "epk_id": "9098",
+      "label": "$$$message_0066_0000_0000$$$"
+    },
+    {
+      "en": "It must be downtime, as there are no club activities going on.[lr]",
+      "jp": "　ちょうどエアポケットなのか、部活動の姿はない。[lr]",
+      "Pt-br": "Deve ser hora de descanso, já que não há atividades de clube em andamento.[lr]",
+      "id": 16004,
+      "epk_id": "9099",
+      "label": "$$$message_0066_0000_0001$$$"
+    },
+    {
+      "en": "As I'm gazing at the quiet schoolyard, I feel like I see a familiar back from afar.[lr]",
+      "jp": "　閑散とした校庭を眺めていると、小さく誰かの後ろ姿が見えた様な気がした。[lr]",
+      "Pt-br": "Enquanto olho para o pátio silencioso da escola, sinto que vejo umas costas familiares de longe.[lr]",
+      "id": 16005,
+      "epk_id": "9100",
+      "label": "$$$message_0066_0000_0002$$$"
+    },
+    {
+      "en": "\"No... That's...\"",
+      "jp": "「いや……あれは」",
+      "Pt-br": "\"Não... Essa é a...\"",
+      "id": 16006,
+      "epk_id": "9101",
+      "label": "$$$message_0066_0000_0003$$$"
+    },
+    {
+      "en": "I catch up to them.[lr]",
+      "jp": "　追いかけてここまで来た。[lr]",
+      "Pt-br": "Eu os alcanço.[lr]",
+      "id": 16007,
+      "epk_id": "9102",
+      "label": "$$$message_0066_0001_0000$$$"
+    },
+    {
+      "en": "\"Huh? No, it really is her.\"[lr]",
+      "jp": "「ん？　やっぱり、だ」[lr]",
+      "Pt-br": "\"Hã? Não, realmente é ela.\"[lr]",
+      "id": 16008,
+      "epk_id": "9103",
+      "label": "$$$message_0066_0001_0001$$$"
+    },
+    {
+      "en": "I thought I was seeing things, but it's Rider after all.",
+      "jp": "　見間違いかと思ったけど、やっぱりライダーだ。",
+      "Pt-br": "Achei que estivesse vendo coisas, mas é a Rider afinal.",
+      "id": 16009,
+      "epk_id": "9104",
+      "label": "$$$message_0066_0001_0002$$$"
+    },
+    {
+      "en": "\"Hey, Rider.\"[lr]",
+      "jp": "「おーい、ライダー？」[lr]",
+      "Pt-br": "\"Ei, Rider.\"[lr]",
+      "id": 16010,
+      "epk_id": "9105",
+      "label": "$$$message_0066_0002_0000$$$"
+    },
+    {
+      "en": "\"...Oh, Shirou.\"[lr]",
+      "jp": "「……ああ、士郎ですか」[lr]",
+      "Pt-br": "\"...Ah, Shirou.\"[lr]",
+      "id": 16011,
+      "epk_id": "9106",
+      "label": "$$$message_0066_0002_0001$$$"
+    },
+    {
+      "en": "[clfg textoff=0 pos=all time=300]I call after her and walk on the dry grass.[lr]",
+      "jp": "　[clfg textoff=0 pos=all time=300]声をかけて、枯れ草を踏んで歩く。[lr]",
+      "Pt-br": "[clfg textoff=0 pos=all time=300]Eu a chamo e caminho sobre a grama seca.[lr]",
+      "id": 16012,
+      "epk_id": "9107",
+      "label": "$$$message_0066_0002_0002$$$"
+    },
+    {
+      "en": "My footsteps are noisy, so Rider probably would've noticed even if I had approached quietly.",
+      "jp": "　がさがさと足音がするから、黙って近づいてもライダーは気付いただろう。",
+      "Pt-br": "Meus passos são barulhentos, então a Rider provavelmente teria notado mesmo se eu tivesse me aproximado silenciosamente.",
+      "id": 16013,
+      "epk_id": "9108",
+      "label": "$$$message_0066_0002_0003$$$"
+    },
+    {
+      "en": "\"It's rare for you to come to the school on a weekend.\"[lr]",
+      "jp": "「ライダーが休日の学校に来るなんて、珍しいな」[lr]",
+      "Pt-br": "\"É raro você vir à escola no final de semana.\"[lr]",
+      "id": 16014,
+      "epk_id": "9109",
+      "label": "$$$message_0066_0003_0000$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「…………」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 16015,
+      "epk_id": "9110",
+      "label": "$$$message_0066_0003_0001$$$"
+    },
+    {
+      "en": "\"Do you have business with Sakura?\"[lr]",
+      "jp": "「桜に何か用事か？」[lr]",
+      "Pt-br": "\"Você tem negócios com a Sakura?\"[lr]",
+      "id": 16016,
+      "epk_id": "9111",
+      "label": "$$$message_0066_0003_0002$$$"
+    },
+    {
+      "en": "When Rider comes to school, it often has to do with Sakura.[lr]",
+      "jp": "　ライダーが学校に来るのは、桜に関係する事が多い。[lr]",
+      "Pt-br": "Quando a Rider vem à escola, geralmente tem a ver com a Sakura.[lr]",
+      "id": 16017,
+      "epk_id": "9112",
+      "label": "$$$message_0066_0003_0003$$$"
+    },
+    {
+      "en": "Rider has no business if it isn't about Sakura.",
+      "jp": "　まず桜の事でないと、ライダーは用がないからな。",
+      "Pt-br": "A Rider não tem negócios se não for sobre a Sakura.",
+      "id": 16018,
+      "epk_id": "9113",
+      "label": "$$$message_0066_0003_0004$$$"
+    },
+    {
+      "en": "\"Yes, however, I have already finished my business with Sakura. I was just waiting around here.\"[lr]",
+      "jp": "「はい、しかしサクラへの用事はもう終わりました。この辺りでぶらぶらと帰りを待っているだけです」[lr]",
+      "Pt-br": "\"Sim, no entanto, eu já terminei meus negócios com a Sakura. Eu só estava esperando por aqui.\"[lr]",
+      "id": 16019,
+      "epk_id": "9114",
+      "label": "$$$message_0066_0004_0000$$$"
+    },
+    {
+      "en": "\"At such a lonesome place? Wouldn't you feel better out front?\"[lr]",
+      "jp": "「こんな寂しい場所で？　もっと表の方が気が晴れないか？」[lr]",
+      "Pt-br": "\"Em um lugar tão solitário? Você não se sentiria melhor lá na frente?\"[lr]",
+      "id": 16020,
+      "epk_id": "9115",
+      "label": "$$$message_0066_0004_0001$$$"
+    },
+    {
+      "en": "\"It would cause Sakura trouble if I were loitering around the archery range or places that would attract people's attention.\"",
+      "jp": "「射場や人目のあるところを徘徊しては、サクラに迷惑がかかります」",
+      "Pt-br": "\"Causaria problemas para a Sakura se eu ficasse perambulando perto do campo de arco e flecha ou em lugares que chamassem a atenção das pessoas.\"",
+      "id": 16021,
+      "epk_id": "9116",
+      "label": "$$$message_0066_0004_0002$$$"
+    },
+    {
+      "en": "I see, so that's the reason.[lr]",
+      "jp": "　なるほど、そういう理由か。[lr]",
+      "Pt-br": "Entendo, então esse é o motivo.[lr]",
+      "id": 16022,
+      "epk_id": "9117",
+      "label": "$$$message_0066_0005_0000$$$"
+    },
+    {
+      "en": "But... It's not good to be waiting for Sakura forever in a place like this.[lr]",
+      "jp": "　しかし……こんな所でずっと桜を待っている、というのはよろしくない。[lr]",
+      "Pt-br": "Mas... Não é bom ficar esperando a Sakura para sempre em um lugar como este.[lr]",
+      "id": 16023,
+      "epk_id": "9118",
+      "label": "$$$message_0066_0005_0001$$$"
+    },
+    {
+      "en": "It would be good if Rider could go inside the archery range, but... Hmm, I wonder if there's a way to get outsiders into the range...",
+      "jp": "　ライダーも弓道場に入れればいいのだが……ううむ、部外者が違和感なく道場にいられる方法か……。",
+      "Pt-br": "Seria bom se a Rider pudesse entrar no dojô de arco e flecha, mas... Hmm, me pergunto se há uma maneira de colocar gente de fora no dojô sem que fique estranho...",
+      "id": 16024,
+      "epk_id": "9119",
+      "label": "$$$message_0066_0005_0002$$$"
+    },
+    {
+      "en": "\"Oh, yeah. Do you want to try shooting a bow, Rider?\"[lr]",
+      "jp": "「あ、そうだ。ライダーもやってみるか、弓？」[lr]",
+      "Pt-br": "\"Ah, sim. Você quer tentar atirar com um arco, Rider?\"[lr]",
+      "id": 16025,
+      "epk_id": "9120",
+      "label": "$$$message_0066_0006_0000$$$"
+    },
+    {
+      "en": "\"Me? [cacheimage storage=ライダー私服04g(中)][wvl][chgfg storage=ライダー私服04g(中) time=300 textoff=0]I am not good with projectiles, but...\"",
+      "jp": "「私がですか？　[cacheimage storage=ライダー私服04g(中)][wvl][chgfg storage=ライダー私服04g(中) time=300 textoff=0]飛び道具は得意ではないのですが」",
+      "Pt-br": "\"Eu? [cacheimage storage=ライダー私服04g(中)][wvl][chgfg storage=ライダー私服04g(中) time=300 textoff=0]Não sou boa com projéteis, mas...\"",
+      "id": 16026,
+      "epk_id": "9121",
+      "label": "$$$message_0066_0006_0001$$$"
+    },
+    {
+      "en": "Is it because her class is Rider?[lr]",
+      "jp": "　クラスがライダーだからだろうか。[lr]",
+      "Pt-br": "Será porque a classe dela é Rider?[lr]",
+      "id": 16027,
+      "epk_id": "9122",
+      "label": "$$$message_0066_0007_0000$$$"
+    },
+    {
+      "en": "But depending on the hero, there are some who have a varied ability that corresponds to multiple classes.[lr]",
+      "jp": "　しかし英雄によっては、ひとりでいくつかのクラスに該当する、多彩な能力を有する者もいるという。[lr]",
+      "Pt-br": "Mas dependendo do herói, existem alguns que têm uma habilidade variada que corresponde a múltiplas classes.[lr]",
+      "id": 16028,
+      "epk_id": "9123",
+      "label": "$$$message_0066_0007_0001$$$"
+    },
+    {
+      "en": "I look at Rider up and down.[lr]",
+      "jp": "　上から下までライダーを眺め回す。[lr]",
+      "Pt-br": "Eu olho a Rider de cima a baixo.[lr]",
+      "id": 16029,
+      "epk_id": "9124",
+      "label": "$$$message_0066_0007_0002$$$"
+    },
+    {
+      "en": "She's strong and has a taste for martial arts, so I think it would be good to start kyudo.",
+      "jp": "　力もあるし、武芸の嗜みはあるし、弓道を始めるにはいいと思うけど。",
+      "Pt-br": "Ela é forte e tem gosto por artes marciais, então acho que seria bom começar kyudo.",
+      "id": 16030,
+      "epk_id": "9125",
+      "label": "$$$message_0066_0007_0003$$$"
+    },
+    {
+      "en": "\"...You seem like you would have a good aptitude, and I would think that Sakura would be happy to teach you a lot of things. That way, it won't be weird for you to be at the archery range either.\"[lr]",
+      "jp": "「……筋は良さそうだし、桜も教えることが多くて喜ぶと思うぞ。そうすれば弓道場にいてもおかしくないし」[lr]",
+      "Pt-br": "\"...Parece que você teria uma boa aptidão, e eu acharia que a Sakura ficaria feliz em lhe ensinar muitas coisas. Desse jeito, não vai ser estranho você estar no dojô de arco e flecha também.\"[lr]",
+      "id": 16031,
+      "epk_id": "9126",
+      "label": "$$$message_0066_0008_0000$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=ライダー私服01a(中)]Rider teaches Sakura magecraft, but it'd be nice for her to be the one being taught at times. It should be motivating for Sakura too.",
+      "jp": "　[chgfg time=300 storage=ライダー私服01a(中)]ライダーは桜に魔術を教えているが、時には逆に教えてもらうのもいいだろう。桜もいい励みになる。",
+      "Pt-br": "[chgfg time=300 storage=ライダー私服01a(中)]A Rider ensina magias à Sakura, mas seria legal se ela fosse a aluna às vezes. Isso deve ser motivador para a Sakura também.",
+      "id": 16032,
+      "epk_id": "9127",
+      "label": "$$$message_0066_0008_0001$$$"
+    },
+    {
+      "en": "\"...Will you teach me then?\"[lr]",
+      "jp": "「[line len=3]それでは、士郎が教えてくれますか？」[lr]",
+      "Pt-br": "\"...Então você me ensinaria?\"[lr]",
+      "id": 16033,
+      "epk_id": "9128",
+      "label": "$$$message_0066_0009_0000$$$"
+    },
+    {
+      "en": "\"Huh?\"[lr]",
+      "jp": "「え？」[lr]",
+      "Pt-br": "\"Hã?\"[lr]",
+      "id": 16034,
+      "epk_id": "9129",
+      "label": "$$$message_0066_0009_0001$$$"
+    },
+    {
+      "en": "\"You're Sakura's teacher, right?[lr]",
+      "jp": "「サクラの師が士郎なのでしょう？[lr]",
+      "Pt-br": "\"Você é o professor da Sakura, certo?[lr]",
+      "id": 16035,
+      "epk_id": "9130",
+      "label": "$$$message_0066_0009_0002$$$"
+    },
+    {
+      "en": "The secret to improvement when learning the arts is to learn from the best.\"[lr]",
+      "jp": "　諸芸の習得は上々の師につくことが上達の秘訣です」[lr]",
+      "Pt-br": "O segredo para melhorar ao aprender as artes é aprender com o melhor.\"[lr]",
+      "id": 16036,
+      "epk_id": "9131",
+      "label": "$$$message_0066_0009_0003$$$"
+    },
+    {
+      "en": "\"N-No, that's a bit troubling.\"",
+      "jp": "「い、いや、それはちょっと困る」",
+      "Pt-br": "\"N-Não, isso é um pouco problemático.\"",
+      "id": 16037,
+      "epk_id": "9132",
+      "label": "$$$message_0066_0009_0004$$$"
+    },
+    {
+      "en": "A private lesson with Rider sounds tempting, but because it's so tempting, there's a problem.",
+      "jp": "　ライダーと個人授業、というのは魅力的なのだが、魅力的であるが故に、問題があるというか。",
+      "Pt-br": "Uma aula particular com a Rider soa tentadora, mas por ser tão tentadora, há um problema.",
+      "id": 16038,
+      "epk_id": "9133",
+      "label": "$$$message_0066_0010_0000$$$"
+    },
+    {
+      "en": "\"See, the captain of the kyudo club is Sakura, and she's pretty good at teaching. I can shoot arrows, but I'm bad at instructing[line len=3]\"[lr]",
+      "jp": "「ほら、弓道部の部長は桜で、結構教えるの上手いんだよ。俺は射こそ出来るけど指導は下手で[line len=3]」[lr]",
+      "Pt-br": "\"Olha, a capitã do Clube de Arco e Flecha é a Sakura, e ela é muito boa em ensinar. Eu consigo atirar flechas, mas sou ruim ensinando[line len=3]\"[lr]",
+      "id": 16039,
+      "epk_id": "9134",
+      "label": "$$$message_0066_0011_0000$$$"
+    },
+    {
+      "en": "\"Is that really the case?[lr]",
+      "jp": "「そうでしょうか。[lr]",
+      "Pt-br": "\"Isso é verdade?[lr]",
+      "id": 16040,
+      "epk_id": "9135",
+      "label": "$$$message_0066_0011_0001$$$"
+    },
+    {
+      "en": "You do lack words. However, it is thanks to you that Sakura was able to acquire the skills to make such wonderful food.\"",
+      "jp": "　確かに、士郎は言葉が足りない。しかしサクラがあれだけ素晴らしい料理の腕を身につけられたのは、貴方のおかげでしょう」",
+      "Pt-br": "Lhe faltam palavras sim. Porém, é graças a você que a Sakura conseguiu adquirir as habilidades para fazer comidas tão maravilhosas.\"",
+      "id": 16041,
+      "epk_id": "9136",
+      "label": "$$$message_0066_0011_0002$$$"
+    },
+    {
+      "en": "\"I appreciate you saying that, but...you see, Sakura will also be happy if you start learning how to shoot a bow, and it's not good for me to intrude.\"",
+      "jp": "「そういってくれるのは有り難いけど……ほら、桜もライダーが弓を習い始めれば喜ぶだろうし、それに俺が横入りするのはよくない」",
+      "Pt-br": "\"Eu agradeço por você dizer isso, mas... veja bem, a Sakura também ficará feliz se você começar a aprender a atirar com arco, e não é bom eu me intrometer.\"",
+      "id": 16042,
+      "epk_id": "9137",
+      "label": "$$$message_0066_0012_0000$$$"
+    },
+    {
+      "en": "\"I see... [cacheimage storage=ライダー私服04g(中)][wvl canskip=0 time=800][chgfg storage=ライダー私服04g(中) time=300 textoff=0]Then, I shall discuss with Sakura next time.[lr]",
+      "jp": "「そうですか……[cacheimage storage=ライダー私服04g(中)][wvl canskip=0 time=800][chgfg storage=ライダー私服04g(中) time=300 textoff=0]では、今度サクラと相談してみます。[lr]",
+      "Pt-br": "\"Entendo... [cacheimage storage=ライダー私服04g(中)][wvl canskip=0 time=800][chgfg storage=ライダー私服04g(中) time=300 textoff=0]Então, discutirei com a Sakura na próxima vez.[lr]",
+      "id": 16043,
+      "epk_id": "9138",
+      "label": "$$$message_0066_0013_0000$$$"
+    },
+    {
+      "en": "Sakura told me to cook, but I think I am more cut out for the bow.\"",
+      "jp": "　サクラには料理をするように言われているのですが、たしかに、私には弓の方が合っている」",
+      "Pt-br": "Sakura me disse para cozinhar, mas acho que tenho mais aptidão para o arco.\"",
+      "id": 16044,
+      "epk_id": "9139",
+      "label": "$$$message_0066_0013_0001$$$"
+    },
+    {
+      "en": "\"Oh. Um, it might be better to learn both at the same time...\"[lr]",
+      "jp": "「あ。いや、料理も並行して習った方が……」[lr]",
+      "Pt-br": "\"Oh. Ahm, pode ser melhor aprender os dois ao mesmo tempo...\"[lr]",
+      "id": 16045,
+      "epk_id": "9140",
+      "label": "$$$message_0066_0014_0000$$$"
+    },
+    {
+      "en": "\"No. I am not skillful enough to be able to improve at two things at once.[lr]",
+      "jp": "「いえ。二つのコトを同時に進められるほど私は器用ではありませんので。[lr]",
+      "Pt-br": "\"Não. Eu não sou habilidosa o suficiente para conseguir melhorar em duas coisas de uma vez.[lr]",
+      "id": 16046,
+      "epk_id": "9141",
+      "label": "$$$message_0066_0014_0001$$$"
+    },
+    {
+      "en": "I will tell Sakura that you said to learn the bow rather than cooking.\"",
+      "jp": "　サクラには、士郎が料理より弓を習えと言ってくれた、と報告します」",
+      "Pt-br": "Direi à Sakura que você disse para eu aprender arco em vez de cozinhar.\"",
+      "id": 16047,
+      "epk_id": "9142",
+      "label": "$$$message_0066_0014_0002$$$"
+    },
+    {
+      "en": "\"Oof...\"[lr]",
+      "jp": "「う……」[lr]",
+      "Pt-br": "\"Uf...\"[lr]",
+      "id": 16048,
+      "epk_id": "9143",
+      "label": "$$$message_0066_0015_0000$$$"
+    },
+    {
+      "en": "...That was literally stirring up a hornet's nest... Oh well, I'll think of how to follow up on this later...[lr]",
+      "jp": "　……文字通りやぶ蛇だったか……まあいい、このフォローは後ほど考えるとして、[lr]",
+      "Pt-br": "...Isso foi literalmente atiçar um vespeiro... Ah, bem, pensarei em como lidar com isso depois...[lr]",
+      "id": 16049,
+      "epk_id": "9144",
+      "label": "$$$message_0066_0015_0001$$$"
+    },
+    {
+      "en": "\"Also, another way for you to be at Homurahara without it being weird is... How about becoming a transfer student?\"",
+      "jp": "「あと、ライダーが穂群原にいてもおかしくないと言ったら……転入生になってみるとか？」",
+      "Pt-br": "\"Além disso, outra maneira de você estar em Homurahara sem ser estranho é... Que tal se tornar uma estudante transferida?\"",
+      "id": 16050,
+      "epk_id": "9145",
+      "label": "$$$message_0066_0015_0002$$$"
+    },
+    {
+      "en": "\"...[wait canskip=0 time=800][chgfg storage=ライダー私服04e(中) time=300][say storage=sch0336_rad_0100 name=ライダー]No, I do not think that is realistic.[lr]",
+      "jp": "「…………[wait canskip=0 time=800][chgfg storage=ライダー私服04e(中) time=300][say storage=sch0336_rad_0100 name=ライダー]いえ、それは無理があるかと。[lr]",
+      "Pt-br": "\"...[wait canskip=0 time=800][chgfg storage=ライダー私服04e(中) time=300][say storage=sch0336_rad_0100 name=ライダー]Não, não creio que isso seja realista.[lr]",
+      "id": 16051,
+      "epk_id": "9146",
+      "label": "$$$message_0066_0016_0000$$$"
+    },
+    {
+      "en": "Maybe if it were Saber, but I could not possibly look good in those uniforms.\"[lr]",
+      "jp": "　セイバーならまだしも、私には到底あの服は似合いません」[lr]",
+      "Pt-br": "Talvez se fosse a Saber, mas eu possivelmente não ficaria bem naqueles uniformes.\"[lr]",
+      "id": 16052,
+      "epk_id": "9147",
+      "label": "$$$message_0066_0016_0001$$$"
+    },
+    {
+      "en": "That kind of dress-up would be fun too, but... Wait, hold on.[lr]",
+      "jp": "　そういう着せ替えが面白いのだが……いや、待て。[lr]",
+      "Pt-br": "Esse tipo de fantasia seria divertido também, mas... Espera aí.[lr]",
+      "id": 16053,
+      "epk_id": "9148",
+      "label": "$$$message_0066_0016_0002$$$"
+    },
+    {
+      "en": "The Homurahara uniforms aren't the only costumes here.",
+      "jp": "　穂群原の制服だけがここの衣装ではない。",
+      "Pt-br": "Os uniformes de Homurahara não são as únicas roupas aqui.",
+      "id": 16054,
+      "epk_id": "9149",
+      "label": "$$$message_0066_0016_0003$$$"
+    },
+    {
+      "en": "\"That's right, Rider. You should become the school nurse.\"[lr]",
+      "jp": "「そうだライダー、養護教諭になるんだ」[lr]",
+      "Pt-br": "\"É isso, Rider. Você deveria se tornar a enfermeira da escola.\"[lr]",
+      "id": 16055,
+      "epk_id": "9150",
+      "label": "$$$message_0066_0017_0000$$$"
+    },
+    {
+      "en": "\"Pardon?\"[lr]",
+      "jp": "「はい？」[lr]",
+      "Pt-br": "\"Perdão?\"[lr]",
+      "id": 16056,
+      "epk_id": "9151",
+      "label": "$$$message_0066_0017_0001$$$"
+    },
+    {
+      "en": "\"The nurse's office teacher. You'd look good in a white coat, Rider.\"",
+      "jp": "「保健室の先生。ライダーに白衣、似合うぞ？」",
+      "Pt-br": "\"A Sensei da enfermaria. Você ficaria bem num jaleco branco, Rider.\"",
+      "id": 16057,
+      "epk_id": "9152",
+      "label": "$$$message_0066_0017_0002$$$"
+    },
+    {
+      "en": "If Rider became the school nurse...[lr]",
+      "jp": "　もしライダーが保健の先生になったら？[lr]",
+      "Pt-br": "Se a Rider se tornasse a enfermeira da escola...[lr]",
+      "id": 16058,
+      "epk_id": "9153",
+      "label": "$$$message_0066_0018_0000$$$"
+    },
+    {
+      "en": "I bet there would be a long line at the nurse's office. The boys would go insane if there was such a beautiful school nurse.[lr]",
+      "jp": "　きっと保健室には長蛇の列が出来るだろう。こんな美人の保健教諭がいたら男子生徒は大変なコトになる。[lr]",
+      "Pt-br": "Aposto que haveria uma longa fila na enfermaria. Os garotos enlouqueceriam se houvesse uma enfermeira tão linda na escola.[lr]",
+      "id": 16059,
+      "epk_id": "9154",
+      "label": "$$$message_0066_0018_0001$$$"
+    },
+    {
+      "en": "Rider wearing a white coat on top of that tight-fitting costume, crossing her legs.[lr]",
+      "jp": "　あのボディ・コンシャスの衣装の上に白衣を纏い、足を組むライダー。[lr]",
+      "Pt-br": "A Rider vestindo um jaleco branco por cima daquela roupa justa, cruzando as pernas.[lr]",
+      "id": 16060,
+      "epk_id": "9155",
+      "label": "$$$message_0066_0018_0002$$$"
+    },
+    {
+      "en": "Yeah, it's perfect.",
+      "jp": "　うむ、完璧だ。",
+      "Pt-br": "Sim, é perfeito.",
+      "id": 16061,
+      "epk_id": "9156",
+      "label": "$$$message_0066_0018_0003$$$"
+    },
+    {
+      "en": "\"...Shirou. Unfortunately, I do not have the qualifications.[lr]",
+      "jp": "「……士郎。残念ながら、私にはその資格がありません。[lr]",
+      "Pt-br": "\"...Shirou. Infelizmente, eu não tenho as qualificações.[lr]",
+      "id": 16062,
+      "epk_id": "9157",
+      "label": "$$$message_0066_0019_0000$$$"
+    },
+    {
+      "en": "On top of that, it is out of character for me to teach people things. I do not think it fundamentally fits me.\"[lr]",
+      "jp": "　くわえて人に物を教える柄でもない。根本的にあっていないかと」[lr]",
+      "Pt-br": "Além disso, não é do meu feitio ensinar coisas às pessoas. Não acho que, fundamentalmente, isso combine comigo.\"[lr]",
+      "id": 16063,
+      "epk_id": "9158",
+      "label": "$$$message_0066_0019_0001$$$"
+    },
+    {
+      "en": "Rider gives me a cold, sidelong glance.[lr]",
+      "jp": "　冷たく流し目を送ってくるライダー。[lr]",
+      "Pt-br": "A Rider me dá um olhar gélido de soslaio.[lr]",
+      "id": 16064,
+      "epk_id": "9159",
+      "label": "$$$message_0066_0019_0002$$$"
+    },
+    {
+      "en": "That's it. Perfect beyond perfect.[lr]",
+      "jp": "　それだ。完璧の上を行く完璧。[lr]",
+      "Pt-br": "É isso. Perfeito além da perfeição.[lr]",
+      "id": 16065,
+      "epk_id": "9160",
+      "label": "$$$message_0066_0019_0003$$$"
+    },
+    {
+      "en": "She has natural talent for being a nurse, and the title of Ultimate Woman Doctor is far from simply being a dream.",
+      "jp": "　保健医としての天性は最高というか、キング、いや、クイーン・オブ・ジョイの称号もユメではあるまい。",
+      "Pt-br": "Ela tem um talento natural para ser enfermeira, e o título de Maior Doutora Mulher está longe de ser apenas um sonho.",
+      "id": 16066,
+      "epk_id": "9161",
+      "label": "$$$message_0066_0019_0004$$$"
+    },
+    {
+      "en": "\"...Wait, no, no. That's not it.[lr]",
+      "jp": "「……と、いかんいかん、そういうコトじゃなくて。[lr]",
+      "Pt-br": "\"...Espera, não, não. Não é isso.[lr]",
+      "id": 16067,
+      "epk_id": "9162",
+      "label": "$$$message_0066_0020_0000$$$"
+    },
+    {
+      "en": "Rider. Even Fuji-nee has a teaching degree in English. I think you being a school nurse is a lot more convincing.\"[lr]",
+      "jp": "　ライダー。藤ねえだって英語の教職資格を持ってるんだ。ライダーが保健教諭の方がよっぽど説得力があると思うぞ」[lr]",
+      "Pt-br": "Rider. Até a Fuji-nee tem um diploma de professora de inglês. Acho que você ser uma enfermeira escolar é muito mais convincente.\"[lr]",
+      "id": 16068,
+      "epk_id": "9163",
+      "label": "$$$message_0066_0020_0001$$$"
+    },
+    {
+      "en": "Although it's not like you can get a degree from looks alone.[lr]",
+      "jp": "　外見で資格が貰える訳ではないが。[lr]",
+      "Pt-br": "Embora não seja possível conseguir um diploma apenas pela aparência.[lr]",
+      "id": 16069,
+      "epk_id": "9164",
+      "label": "$$$message_0066_0020_0002$$$"
+    },
+    {
+      "en": "I think Rider being in the nurse's office is a pretty good idea, considering it was just off the top of my head.",
+      "jp": "　ライダーに保健室、思いつきにしてはいいところをいっているのでは[line len=3]",
+      "Pt-br": "Acho que a Rider na enfermaria é uma ideia muito boa, considerando que foi a primeira coisa que me veio à cabeça.",
+      "id": 16070,
+      "epk_id": "9165",
+      "label": "$$$message_0066_0020_0003$$$"
+    },
+    {
+      "en": "\"...It's difficult after all, huh?\"[lr]",
+      "jp": "「……やっぱり難しいか」[lr]",
+      "Pt-br": "\"...Afinal de contas, é difícil, né?\"[lr]",
+      "id": 16071,
+      "epk_id": "9166",
+      "label": "$$$message_0066_0021_0000$$$"
+    },
+    {
+      "en": "\"Yes, I am worried about Sakura, but we must both have constraints being together twenty-four seven.[lr]",
+      "jp": "「そうですね、サクラのことは気にかかるのですが、四六時中共にいればお互い気兼ねもあるでしょう。[lr]",
+      "Pt-br": "\"Sim, estou preocupada com a Sakura, mas nós duas devemos ter restrições ao ficarmos juntas vinte e quatro horas por dia, sete dias por semana.[lr]",
+      "id": 16072,
+      "epk_id": "9167",
+      "label": "$$$message_0066_0021_0001$$$"
+    },
+    {
+      "en": "She should live freely away from the world of magecraft when at school.\"",
+      "jp": "　学校では魔術の世界から離れ、のびのびと気軽に過ごしたほうがいい」",
+      "Pt-br": "Ela deveria viver livremente, longe do mundo da magia quando está na escola.\"",
+      "id": 16073,
+      "epk_id": "9168",
+      "label": "$$$message_0066_0021_0002$$$"
+    },
+    {
+      "en": "[clfg pos=all textoff=0 rule=シャッター左から time=300]Rider starts walking, stepping on the crunchy fallen leaves. There's no need to prolong the conversation any longer in a forest like this.",
+      "jp": "　[clfg pos=all textoff=0 rule=シャッター左から time=300]かさかさと足下の落ち葉を踏んで、ライダーが歩き始める。こんな林の中でこれ以上長話をしている事もない。",
+      "Pt-br": "[clfg pos=all textoff=0 rule=シャッター左から time=300]Rider começa a andar, pisando nas folhas caídas e crocantes. Não há necessidade de prolongar mais a conversa numa floresta como essa.",
+      "id": 16074,
+      "epk_id": "9169",
+      "label": "$$$message_0066_0022_0000$$$"
+    },
+    {
+      "en": "\"Then I will go take a bit of a walk. I am also curious about the nurse's office that you were talking about.\"[lr]",
+      "jp": "「では少し散歩してきます。士郎の言っていた保健室も気になりますので」[lr]",
+      "Pt-br": "\"Então vou dar uma volta. Também estou curiosa sobre a enfermaria da qual você estava falando.\"[lr]",
+      "id": 16075,
+      "epk_id": "9170",
+      "label": "$$$message_0066_0023_0000$$$"
+    },
+    {
+      "en": "\"Yeah. I don't think anyone is there since it's a weekend, but it'd be nice if you took an interest in it.\"[lr]",
+      "jp": "「ああ。休日だから誰もいないと思うけど、興味を持ってくれたら嬉しいな」[lr]",
+      "Pt-br": "\"Sim. Não acho que tenha alguém lá já que é fim de semana, mas seria legal se você se interessasse.\"[lr]",
+      "id": 16076,
+      "epk_id": "9171",
+      "label": "$$$message_0066_0023_0001$$$"
+    },
+    {
+      "en": "\"...I shall give it some thought.[lr]",
+      "jp": "「…………一考しておきましょう。[lr]",
+      "Pt-br": "\"...Eu vou pensar sobre isso.[lr]",
+      "id": 16077,
+      "epk_id": "9172",
+      "label": "$$$message_0066_0023_0002$$$"
+    },
+    {
+      "en": "I will see you later then. I will be waiting at the gate, so let us go home with Sakura.\"",
+      "jp": "　それでは後ほど。門のところで待っていますので、サクラと三人で帰りましょう」",
+      "Pt-br": "Então vejo você mais tarde. Estarei esperando no portão, para que possamos ir para casa com a Sakura.\"",
+      "id": 16078,
+      "epk_id": "9173",
+      "label": "$$$message_0066_0023_0003$$$"
+    },
+    {
+      "en": "[clfg pos=all textoff=0 rule=シャッター左から time=300]Rider says, as she leaves.[lr]",
+      "jp": "　[clfg pos=all textoff=0 rule=シャッター左から time=300]そう言い残してライダーは去っていく。[lr]",
+      "Pt-br": "[clfg pos=all textoff=0 rule=シャッター左から time=300]Rider diz, ao ir embora.[lr]",
+      "id": 16079,
+      "epk_id": "9174",
+      "label": "$$$message_0066_0024_0000$$$"
+    },
+    {
+      "en": "...Maybe I'll go to the student council room and kill some time...",
+      "jp": "　……俺のほうはそれまで生徒会室にでも行って、少し時間を潰すとするか[line len=3]",
+      "Pt-br": "...Talvez eu vá para a sala do conselho estudantil matar um tempo...",
+      "id": 16080,
+      "epk_id": "9175",
+      "label": "$$$message_0066_0024_0001$$$"
+    }
+  ]
+}

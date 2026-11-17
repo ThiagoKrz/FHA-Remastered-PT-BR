@@ -1,0 +1,440 @@
+{
+  "cena": "1pdldo0vcr2ptg3i441ksdbid6",
+  "titulo": "Cidade: Limpando Sozinho",
+  "rota": "Dia 2",
+  "arquivo": "1pdldo0vcr2ptg3i441ksdbid6.epk_dec",
+  "linhas": [
+    {
+      "en": "Tohsaka's mansion is at the very top of the residential area.[lr]",
+      "jp": "　住宅街の一番上の、遠坂の邸宅。[lr]",
+      "Pt-br": "A mansão da Tohsaka fica bem no topo da área residencial.[lr]",
+      "id": 11624,
+      "epk_id": "13158",
+      "label": "$$$message_0106_0000_0000$$$"
+    },
+    {
+      "en": "The owner is away, and Fuyuki's haunted mansion is just that in both name and reality[line len=3][lr]",
+      "jp": "　今は主の不在で、冬木の幽霊屋敷の名を名実共に[line len=3][lr]",
+      "Pt-br": "A dona está fora, e a mansão mal-assombrada de Fuyuki faz jus à fama tanto no nome quanto na realidade[line len=3][lr]",
+      "id": 11625,
+      "epk_id": "13159",
+      "label": "$$$message_0106_0000_0001$$$"
+    },
+    {
+      "en": "\"...I didn't think I'd have to clean up here.\"[lr]",
+      "jp": "「……そこを俺が掃除するコトになるとは」[lr]",
+      "Pt-br": "\"...Eu não achei que teria que fazer faxina aqui.\"[lr]",
+      "id": 11626,
+      "epk_id": "13160",
+      "label": "$$$message_0106_0000_0002$$$"
+    },
+    {
+      "en": "I mutter as I look up, in front of the door by myself.[lr]",
+      "jp": "　門前で一人、上を眺めて呟く。[lr]",
+      "Pt-br": "Resmungo olhando para cima, parado em frente à porta sozinho.[lr]",
+      "id": 11627,
+      "epk_id": "13161",
+      "label": "$$$message_0106_0000_0003$$$"
+    },
+    {
+      "en": "It can't be helped since Tohsaka, who's traveling to England right now, asked me to come clean up sometimes.",
+      "jp": "　英国旅行中の遠坂から、時々掃除しておいてね、と頼まれたので仕方ない。",
+      "Pt-br": "Não tem jeito. A Tohsaka está viajando pela Inglaterra agora, e me pediu para vir dar uma limpada de vez em quando.",
+      "id": 11628,
+      "epk_id": "13162",
+      "label": "$$$message_0106_0000_0004$$$"
+    },
+    {
+      "en": "...I think she should at least keep the shutter and door closed during that time, but I should do as I was told.",
+      "jp": "　……その間くらい、鎧戸もドアも閉めっぱなしでもいいじゃないかって思うのだが、頼まれた以上しっかりこなそう。",
+      "Pt-br": "...Acho que ela deveria, no mínimo, manter as persianas e a porta fechadas nesse meio tempo, mas é melhor eu fazer o que mandou.",
+      "id": 11629,
+      "epk_id": "13163",
+      "label": "$$$message_0106_0001_0000$$$"
+    },
+    {
+      "en": "\"Let's get this over with... Umm.\"[lr]",
+      "jp": "「手早く終わらせるか……えーっと」[lr]",
+      "Pt-br": "\"Vamos acabar logo com isso... Hum.\"[lr]",
+      "id": 11630,
+      "epk_id": "13164",
+      "label": "$$$message_0106_0002_0000$$$"
+    },
+    {
+      "en": "I get the house key out and recall the incantation to lift the seal.[lr]",
+      "jp": "　家の鍵を取り出し、封印解除の呪文を思い出す。[lr]",
+      "Pt-br": "Pego a chave da casa e puxo da memória o encantamento para desfazer o selo.[lr]",
+      "id": 11631,
+      "epk_id": "13165",
+      "label": "$$$message_0106_0002_0001$$$"
+    },
+    {
+      "en": "The lock is doubled when she's not home, so it's a struggle when someone other than Tohsaka tries to go in.",
+      "jp": "　不在の間は二重に鍵がしてあるので、遠坂以外の人間が入ろうとすると苦労が多い。",
+      "Pt-br": "A tranca fica reforçada quando ela não está em casa, então é um sufoco entrar para qualquer um que não seja a Tohsaka.",
+      "id": 11632,
+      "epk_id": "13166",
+      "label": "$$$message_0106_0002_0002$$$"
+    },
+    {
+      "en": "\"Abzug Bedienung Mittelstand[line len=3]\"[wvs][sestop time=1500 nowait=true][lr]",
+      "jp": "「Abzug　Bedienung　Mittelstand[line len=3]」[wvs][sestop time=1500 nowait=true][lr]",
+      "Pt-br": "\"Abzug Bedienung Mittelstand[line len=3]\"[wvs][sestop time=1500 nowait=true][lr]",
+      "id": 11633,
+      "epk_id": "13167",
+      "label": "$$$message_0106_0003_0000$$$"
+    },
+    {
+      "en": "[font italic=true]...Did it get lifted?[font italic=false][lr]",
+      "jp": "　……解けたんだろうか？[lr]",
+      "Pt-br": "[font italic=true]...Desfez?[font italic=false][lr]",
+      "id": 11634,
+      "epk_id": "13168",
+      "label": "$$$message_0106_0003_0001$$$"
+    },
+    {
+      "en": "I unlock the door [se storage=se511.wav]and take out the mountain of newspapers and letters from the mailbox.[lr]",
+      "jp": "　門の鍵を開けて、[se storage=se511.wav]郵便受けに山と詰まった新聞と手紙を取り出す。[lr]",
+      "Pt-br": "Destranco a porta [se storage=se511.wav]e tiro a montanha de jornais e cartas da caixa de correio.[lr]",
+      "id": 11635,
+      "epk_id": "13169",
+      "label": "$$$message_0106_0003_0002$$$"
+    },
+    {
+      "en": "\"Woah, there are so many [wvl][se storage=se521.wav][se storage=se359.wav]attempted delivery notices... She should just forward them to my place.\"",
+      "jp": "「うわ、宅配便と郵便[wvl][se storage=se521.wav][se storage=se359.wav]の不在票がこんなに……俺の家に転送しておけばいいのに」",
+      "Pt-br": "\"Nossa, olha o tanto de [wvl][se storage=se521.wav][se storage=se359.wav]avisos de tentativa de entrega... Ela devia mandar redirecionarem tudo lá pra casa.\"",
+      "id": 11636,
+      "epk_id": "13170",
+      "label": "$$$message_0106_0003_0003$$$"
+    },
+    {
+      "en": "If I can't get in with this, this would become[line len=3]a big joke.[lr]",
+      "jp": "　これで入れなかったら大笑い[line len=3]になってしまう。[lr]",
+      "Pt-br": "Se eu não conseguisse entrar com isso, a coisa viraria[line len=3]uma bela piada.[lr]",
+      "id": 11637,
+      "epk_id": "13171",
+      "label": "$$$message_0106_0004_0000$$$"
+    },
+    {
+      "en": "No, I bet I'd get scolded by Tohsaka if I told her that I couldn't clean because I couldn't unlock the door.",
+      "jp": "　いや、鍵が開かなくて掃除できなかった、なんて後で言ったら遠坂に叱られるだろう。",
+      "Pt-br": "Não, aposto que levaria uma bronca da Tohsaka se dissesse que não limpei porque não consegui abrir a porta.",
+      "id": 11638,
+      "epk_id": "13172",
+      "label": "$$$message_0106_0004_0001$$$"
+    },
+    {
+      "en": "\"Oh[line len=3]it opened, excuse me.\"",
+      "jp": "「お[line len=3]開いた開いた、おじゃましまーす、と」",
+      "Pt-br": "\"Ah[line len=3]abriu, com licença.\"",
+      "id": 11639,
+      "epk_id": "13173",
+      "label": "$$$message_0106_0005_0000$$$"
+    },
+    {
+      "en": "...I'm stunned for a while.[lr]",
+      "jp": "　……しばし呆然。[lr]",
+      "Pt-br": "...Fico de queixo caído por um tempo.[lr]",
+      "id": 11640,
+      "epk_id": "13174",
+      "label": "$$$message_0106_0006_0000$$$"
+    },
+    {
+      "en": "A room surrounded with expensive-looking antique household furnishing on top of a fluffy carpet.",
+      "jp": "　ふかふかの[ruby text=じゅうたん char=2]絨毯張りの上に、高そうなアンティーク家具調度で囲まれた部屋。",
+      "Pt-br": "Uma sala cercada de mobílias antigas e caríssimas, tudo em cima de um tapete bem felpudo.",
+      "id": 11641,
+      "epk_id": "13175",
+      "label": "$$$message_0106_0006_0001$$$"
+    },
+    {
+      "en": "\"Well... Where should I start cleaning from?\"[lr]",
+      "jp": "「やあー……どこから掃除すればいいんだ、これ」[lr]",
+      "Pt-br": "\"Bom... Por onde eu começo a limpar?\"[lr]",
+      "id": 11642,
+      "epk_id": "13176",
+      "label": "$$$message_0106_0007_0000$$$"
+    },
+    {
+      "en": "I'm at a loss for what to do, as someone who is so used to a traditional Japanese-style environment.[lr]",
+      "jp": "　純和風の環境に慣れた俺には、辺り一面手も足も出ない感じだ。[lr]",
+      "Pt-br": "Fico meio perdido sobre o que fazer, já que sou tão acostumado com ambientes de estilo japonês tradicional.[lr]",
+      "id": 11643,
+      "epk_id": "13177",
+      "label": "$$$message_0106_0007_0001$$$"
+    },
+    {
+      "en": "I feel like I'm going to break that totally expensive-looking Art Nouveau light stand if I mess up how to handle it. There's a bunch of those kinds of things all around.[lr]",
+      "jp": "　あの辺の如何にも高そうなヌーボー風のライトスタンドとか、扱いを間違えれば壊してしまいそうで怖い。周りにはそんなものばかりが溢れている。[lr]",
+      "Pt-br": "Dá a impressão de que vou quebrar aquele abajur Art Nouveau hipercaro se mexer nele do jeito errado. E tem um monte desse tipo de coisa por todo lado.[lr]",
+      "id": 11644,
+      "epk_id": "13178",
+      "label": "$$$message_0106_0007_0002$$$"
+    },
+    {
+      "en": "I regretfully think that I should've brought Sakura, who had gotten used to cleaning the mansion.",
+      "jp": "　洋館の掃除に慣れた桜をつれてくれば良かった、と後悔した。",
+      "Pt-br": "Penso com arrependimento que eu deveria ter trazido a Sakura, que já tinha se acostumado a limpar a mansão.",
+      "id": 11645,
+      "epk_id": "13179",
+      "label": "$$$message_0106_0007_0003$$$"
+    },
+    {
+      "en": "\"I could've cleaned more efficiently if Rider was here... I'm shorthanded.\"[lr]",
+      "jp": "「ライダーもいれば効率よく掃除できるしな……人手が足りないな」[lr]",
+      "Pt-br": "\"Eu conseguiria limpar com mais eficiência se a Rider estivesse aqui... Falta mão de obra.\"[lr]",
+      "id": 11646,
+      "epk_id": "13180",
+      "label": "$$$message_0106_0008_0000$$$"
+    },
+    {
+      "en": "I should at least be able to ventilate and brush away the dust.[lr]",
+      "jp": "　とりあえずは風を通して埃を払うくらいでいいだろう。[lr]",
+      "Pt-br": "No mínimo, acho que consigo ventilar a casa e tirar o pó.[lr]",
+      "id": 11647,
+      "epk_id": "13181",
+      "label": "$$$message_0106_0008_0001$$$"
+    },
+    {
+      "en": "I go around the room and open the shutters [se volume=30 storage=se263.wav]and the windows.[lr]",
+      "jp": "　部屋を回って鎧戸を開け、[se volume=30 storage=se263.wav]窓を開いていく。[lr]",
+      "Pt-br": "Dou uma volta pelo cômodo e abro as persianas [se volume=30 storage=se263.wav]e as janelas.[lr]",
+      "id": 11648,
+      "epk_id": "13182",
+      "label": "$$$message_0106_0008_0002$$$"
+    },
+    {
+      "en": "Hmm, it's dusty after all[line len=3]",
+      "jp": "　んー、やっぱり埃っぽくなってるな[line len=3]",
+      "Pt-br": "Hum, afinal, tem bastante poeira mesmo[line len=3]",
+      "id": 11649,
+      "epk_id": "13183",
+      "label": "$$$message_0106_0008_0003$$$"
+    },
+    {
+      "en": "\"All right... The cleaning tools are downstairs.\"[lr]",
+      "jp": "「さて……掃除道具は下か」[lr]",
+      "Pt-br": "\"Beleza... As ferramentas de limpeza ficam no andar de baixo.\"[lr]",
+      "id": 11650,
+      "epk_id": "13184",
+      "label": "$$$message_0106_0009_0000$$$"
+    },
+    {
+      "en": "There should be a cupboard under the stairs.[lr]",
+      "jp": "　階段下の物置にあったはず。[lr]",
+      "Pt-br": "Devia ter um armário debaixo da escada.[lr]",
+      "id": 11651,
+      "epk_id": "13185",
+      "label": "$$$message_0106_0009_0001$$$"
+    },
+    {
+      "en": "Come to think of it, Tohsaka was saying something horrible like I could live in the cupboard under the stairs if I become her live-in apprentice... That's like how you would treat a maid or a genius boy mage or something.",
+      "jp": "　そういえば、もし俺が遠坂の住み込みの徒弟になれば部屋は階段下物置だから、とかひどいコトを言ってたよな……その扱いはメイドか天才少年魔術師か何かか、と。",
+      "Pt-br": "Pensando bem, a Tohsaka andava dizendo uma barbaridade tipo que eu poderia morar no armário debaixo da escada se eu virasse seu aprendiz residente... Isso é jeito de tratar uma empregada ou um garoto bruxo genial, não eu.",
+      "id": 11652,
+      "epk_id": "13186",
+      "label": "$$$message_0106_0009_0002$$$"
+    },
+    {
+      "en": "\"All right, I should give it a try[line len=3]\"[lr]",
+      "jp": "「さて、軽くやってみるか[line len=3]」[lr]",
+      "Pt-br": "\"Certo, acho melhor eu tentar[line len=3]\"[lr]",
+      "id": 11653,
+      "epk_id": "13187",
+      "label": "$$$message_0106_0010_0000$$$"
+    },
+    {
+      "en": "I brush away the dust.[lr]",
+      "jp": "　ぱたぱたと埃を払っていく。[lr]",
+      "Pt-br": "Eu tiro o pó.[lr]",
+      "id": 11654,
+      "epk_id": "13188",
+      "label": "$$$message_0106_0010_0001$$$"
+    },
+    {
+      "en": "Rather than cleaning, [se volume=50 storage=se312.wav][se volume=50 storage=se190.wav]it's like I'm sightseeing while holding a duster.",
+      "jp": "　掃除と言うより、[se volume=50 storage=se312.wav][se volume=50 storage=se190.wav]煤払いを持って遠坂の家を見物してるみたいだった。",
+      "Pt-br": "Em vez de limpar, [se volume=50 storage=se312.wav][se volume=50 storage=se190.wav]parece até que estou fazendo turismo segurando um espanador.",
+      "id": 11655,
+      "epk_id": "13189",
+      "label": "$$$message_0106_0010_0002$$$"
+    },
+    {
+      "en": "\"Oh yeah, there's a basement[line len=3]\"[lr]",
+      "jp": "「そうだ、地下室あったよな[line len=3]」[lr]",
+      "Pt-br": "\"Ah é, tem o porão[line len=3]\"[lr]",
+      "id": 11656,
+      "epk_id": "13190",
+      "label": "$$$message_0106_0011_0000$$$"
+    },
+    {
+      "en": "I look through the bundle of keys and[line len=3]find the basement key.[lr]",
+      "jp": "　鍵束を調べて、地下室の鍵が[line len=3]あった。[lr]",
+      "Pt-br": "Dou uma olhada no molho de chaves e[line len=3]encontro a chave do porão.[lr]",
+      "id": 11657,
+      "epk_id": "13191",
+      "label": "$$$message_0106_0011_0001$$$"
+    },
+    {
+      "en": "Western-style mansions are so luxurious, having a basement.[lr]",
+      "jp": "　地下室もあるというのは、西洋風の屋敷は豪勢だ。[lr]",
+      "Pt-br": "Mansões de estilo ocidental são luxuosas mesmo, terem até um porão.[lr]",
+      "id": 11658,
+      "epk_id": "13192",
+      "label": "$$$message_0106_0011_0002$$$"
+    },
+    {
+      "en": "There would be a wine cellar or something in the basement in the mansions that appear in movies or books.[lr]",
+      "jp": "　映画や小説に出てくる曰くありげな屋敷だとワインセラーとか地下室にある。[lr]",
+      "Pt-br": "Deveria ter uma adega de vinhos ou algo do tipo no porão dessas mansões que aparecem em filmes ou livros.[lr]",
+      "id": 11659,
+      "epk_id": "13193",
+      "label": "$$$message_0106_0011_0003$$$"
+    },
+    {
+      "en": "...As I wonder what will happen if there's a dungeon...",
+      "jp": "　……地下牢とかあったらどうしよう、とか思いつつ。",
+      "Pt-br": "...Enquanto fico imaginando o que vai rolar se houver uma masmorra...",
+      "id": 11660,
+      "epk_id": "13194",
+      "label": "$$$message_0106_0011_0004$$$"
+    },
+    {
+      "en": "\"...Here it is.\"[lr]",
+      "jp": "「…………ここか」[lr]",
+      "Pt-br": "\"...Aqui.\"[lr]",
+      "id": 11661,
+      "epk_id": "13195",
+      "label": "$$$message_0106_0012_0000$$$"
+    },
+    {
+      "en": "Even if I pretend that it's something like the shed at my house, I nervously hold my breath from the mysterious and secretive atmosphere.[lr]",
+      "jp": "　我が家の土蔵と同じ様なものだと思っても、やっぱり秘儀の空間故の緊張に息を呑む。[lr]",
+      "Pt-br": "Mesmo tentando fingir que é igual ao galpão lá de casa, eu seguro a respiração de nervoso, devido àquela atmosfera misteriosa e secreta.[lr]",
+      "id": 11662,
+      "epk_id": "13196",
+      "label": "$$$message_0106_0012_0001$$$"
+    },
+    {
+      "en": "I'm also deeply moved when I think that Tohsaka also...",
+      "jp": "　遠坂がかつてここで……と思うと感慨もある。",
+      "Pt-br": "Também fico profundamente comovido quando penso que a Tohsaka também...",
+      "id": 11663,
+      "epk_id": "13197",
+      "label": "$$$message_0106_0012_0002$$$"
+    },
+    {
+      "en": "But, what catches my eye more than that...[lr]",
+      "jp": "　だけど、それより目につくのは。[lr]",
+      "Pt-br": "Mas o que mais me chama a atenção do que isso...[lr]",
+      "id": 11664,
+      "epk_id": "13198",
+      "label": "$$$message_0106_0013_0000$$$"
+    },
+    {
+      "en": "\"There are dumbbells here, it's weirdly...\"[lr]",
+      "jp": "「ダンベルとか、妙にこう、なんつーか」[lr]",
+      "Pt-br": "\"Tem halteres aqui, é estranhamente...\"[lr]",
+      "id": 11665,
+      "epk_id": "13199",
+      "label": "$$$message_0106_0013_0001$$$"
+    },
+    {
+      "en": "I wonder why this sort of stuff would be down here.[lr]",
+      "jp": "　アスレチックなのは何故だろう。[lr]",
+      "Pt-br": "Me pergunto por que esse tipo de coisa estaria aqui embaixo.[lr]",
+      "id": 11666,
+      "epk_id": "13200",
+      "label": "$$$message_0106_0013_0002$$$"
+    },
+    {
+      "en": "It's hard to say whether there's training equipment or not.[lr]",
+      "jp": "　トレーニング用具まで置いてあるのがどうにもコメントしづらい。[lr]",
+      "Pt-br": "É difícil dizer se tem equipamento de treino ou não.[lr]",
+      "id": 11667,
+      "epk_id": "13201",
+      "label": "$$$message_0106_0013_0003$$$"
+    },
+    {
+      "en": "Come to think of it, Tohsaka said she was doing push-ups or sit-ups every night. Maybe eventually various devices got brought in like a gym...",
+      "jp": "　そういえば遠坂、毎晩腕立て伏せと腹筋をしてるって言ってたよな。そのうち様々な器具が導入されて、ジムみたいに……。",
+      "Pt-br": "Pensando bem, a Tohsaka disse que estava fazendo flexões ou abdominais toda noite. Talvez vários aparelhos tenham sido trazidos para cá com o tempo, que nem numa academia...",
+      "id": 11668,
+      "epk_id": "13202",
+      "label": "$$$message_0106_0013_0004$$$"
+    },
+    {
+      "en": "\"...I guess she wouldn't do that much.\"[lr]",
+      "jp": "「……さすがにしないか、そこまでは」[lr]",
+      "Pt-br": "\"...Acho que ela não iria tão longe.\"[lr]",
+      "id": 11669,
+      "epk_id": "13203",
+      "label": "$$$message_0106_0014_0000$$$"
+    },
+    {
+      "en": "Dumbbells don't match Tohsaka's room, so she must have brought them here.[lr]",
+      "jp": "　ダンベルは遠坂の部屋に似合わないから、ここに置いているだけだろう。[lr]",
+      "Pt-br": "Halteres não combinam com o quarto da Tohsaka, então ela deve ter trazido pra cá.[lr]",
+      "id": 11670,
+      "epk_id": "13204",
+      "label": "$$$message_0106_0014_0001$$$"
+    },
+    {
+      "en": "But... I feel like I saw something that I shouldn't be seeing more than the inside of her dresser.",
+      "jp": "　しかし……遠坂の[ruby text=たんす char=2]箪笥の中よりも、見てはいけないものを見てしまった気がする。",
+      "Pt-br": "Mas... sinto como se tivesse visto algo que não deveria ver, mais do que ver dentro do guarda-roupa dela.",
+      "id": 11671,
+      "epk_id": "13205",
+      "label": "$$$message_0106_0014_0002$$$"
+    },
+    {
+      "en": "\"...Well, I guess I'll leave this how it is.\"[lr]",
+      "jp": "「……まあ、とりあえずここはこのままで」[lr]",
+      "Pt-br": "\"...Bom, acho que vou deixar tudo do jeito que está.\"[lr]",
+      "id": 11672,
+      "epk_id": "13206",
+      "label": "$$$message_0106_0015_0000$$$"
+    },
+    {
+      "en": "I decide not to look around.[lr]",
+      "jp": "　いろいろ見なかったコトにした。[lr]",
+      "Pt-br": "Decido não dar uma olhada por aí.[lr]",
+      "id": 11673,
+      "epk_id": "13207",
+      "label": "$$$message_0106_0015_0001$$$"
+    },
+    {
+      "en": "I'll close up after ventilating and retreat early.",
+      "jp": "　換気が終わったら戸締まりして、早めに退散するか。",
+      "Pt-br": "Vou fechar tudo depois de arejar o ambiente e bater em retirada mais cedo.",
+      "id": 11674,
+      "epk_id": "13208",
+      "label": "$$$message_0106_0015_0002$$$"
+    },
+    {
+      "en": "\"Anfung Mittelstand[line len=3]\"[wvs][sestop time=1500 nowait=true][lr]",
+      "jp": "「Anfung　Mittelstand　[line len=3]と」[wvs][sestop time=1500 nowait=true][lr]",
+      "Pt-br": "\"Anfung Mittelstand[line len=3]\"[wvs][sestop time=1500 nowait=true][lr]",
+      "id": 11675,
+      "epk_id": "13209",
+      "label": "$$$message_0106_0016_0000$$$"
+    },
+    {
+      "en": "...I got worried again about whether or not I closed it properly.[lr]",
+      "jp": "　……上手く鍵がかかったのか、また不安だった。[lr]",
+      "Pt-br": "...Fiquei preocupado de novo se fechei tudo direito ou não.[lr]",
+      "id": 11676,
+      "epk_id": "13210",
+      "label": "$$$message_0106_0016_0001$$$"
+    },
+    {
+      "en": "I need to get better at magecraft, or else it'll make me worried about the future.",
+      "jp": "　やっぱり魔術ももっと上達しないと、いろいろ先が思いやられる。:7B",
+      "Pt-br": "Preciso melhorar minha Magia, senão isso vai me deixar preocupado com o futuro.",
+      "id": 11677,
+      "epk_id": "13211",
+      "label": "$$$message_0106_0016_0002$$$"
+    }
+  ]
+}

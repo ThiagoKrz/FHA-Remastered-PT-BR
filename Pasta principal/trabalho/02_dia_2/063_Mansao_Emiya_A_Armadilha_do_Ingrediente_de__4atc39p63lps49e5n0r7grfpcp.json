@@ -1,0 +1,616 @@
+{
+  "cena": "4atc39p63lps49e5n0r7grfpcp",
+  "titulo": "Mansão Emiya: A Armadilha do Ingrediente de Luxo",
+  "rota": "Dia 2",
+  "arquivo": "4atc39p63lps49e5n0r7grfpcp.epk_dec",
+  "linhas": [
+    {
+      "en": "I go to the living room to start setting up for lunch, when to my surprise I find Saber in there, reading.",
+      "jp": "ãæ¼é£¯ã®ä»è¾¼ã¿ããã¦ãããã¨å±\néã«è¡ãã¨ãçããã»ã¤ãã¼ãèª­æ¸ã«ãµãã£ã¦ããã",
+      "Pt-br": "Vou até a sala para começar a preparar o almoço e, para minha surpresa, encontro Saber lendo.",
+      "id": 9784,
+      "epk_id": "3309",
+      "label": "$$$message_0023_0000_0000$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "ã[line len=8]ã[lr]",
+      "Pt-br": "\"... \"[lr]",
+      "id": 9785,
+      "epk_id": "3310",
+      "label": "$$$message_0023_0001_0000$$$"
+    },
+    {
+      "en": "She doesn't seem to have noticed me, and is hunched over a desk with eyes wide, like a cat.[lr]",
+      "jp": "ãä¿ºã«æ°ã¥ããæ§å­ããªããç«ç§ã®ç£ã®ããã«ç®ãè¦éãã¦æºã«èº«ãä¹ãåºãã¦ããã[lr]",
+      "Pt-br": "Ela parece não ter me notado e está curvada sobre a mesa, com os olhos arregalados como os de um gato.[lr]",
+      "id": 9786,
+      "epk_id": "3311",
+      "label": "$$$message_0023_0001_0001$$$"
+    },
+    {
+      "en": "I'm curious about the magazine, but I don't want to interrupt her, so I head straight towards the kitchen...",
+      "jp": "ãéèªã®å\nå®¹ãæ°ã«ãªã£ãããéªé­ãããã®ãæªãã®ã§ãã®ã¾ã¾å°æã¸[line len=3]",
+      "Pt-br": "Fico curioso sobre a revista, mas não quero interrompê-la, então sigo direto para a cozinha...",
+      "id": 9787,
+      "epk_id": "3312",
+      "label": "$$$message_0023_0001_0002$$$"
+    },
+    {
+      "en": "\"Shirou, you came at just the right time.\"[lr]",
+      "jp": "ãã·ã­ã¦ãã¡ããã©è¯ãã¨ããã«ã[lr]",
+      "Pt-br": "\"Shirou, você chegou bem na hora.\"[lr]",
+      "id": 9788,
+      "epk_id": "3313",
+      "label": "$$$message_0023_0002_0000$$$"
+    },
+    {
+      "en": "\"Hm? What do you need?\"[lr]",
+      "jp": "ããããªããç¨ãï¼ã[lr]",
+      "Pt-br": "\"Hm? O que você precisa?\"[lr]",
+      "id": 9789,
+      "epk_id": "3314",
+      "label": "$$$message_0023_0002_0001$$$"
+    },
+    {
+      "en": "I turn when she calls me. Saber's looking up from her book.[lr]",
+      "jp": "ãå¼ã°ãã¦æ¯ãè¿ãã¨ãã»ã¤ãã¼ã¯æ¬ããé¡ãèµ·ããã¦ããã[lr]",
+      "Pt-br": "Viro-me quando ela me chama. Saber ergue os olhos do livro.[lr]",
+      "id": 9790,
+      "epk_id": "3315",
+      "label": "$$$message_0023_0002_0002$$$"
+    },
+    {
+      "en": "She holds out a large magazine with a faded cover. It's an unexpected sight. I thought Saber would be reading something more serious-looking.",
+      "jp": "ãè¸ã®åã§ã²ããã¦ããã®ã¯ãåè²ã®å¤§è¦åºããã¡ãã¤ãå¤§å¤ã®éèªããããæå¤ãªåãåããã ãã»ã¤ãã¼ãèª­ãã®ã¯ãã£ã¨çé¢ç®ãããªéèªãã¨æãããã§ããã",
+      "Pt-br": "Ela estende uma revista grande, com a capa desbotada. É uma visão inesperada. Achei que Saber estaria lendo algo com uma aparência mais séria.",
+      "id": 9791,
+      "epk_id": "3316",
+      "label": "$$$message_0023_0002_0003$$$"
+    },
+    {
+      "en": "\"Shirou, what does this 'foie gras' thing taste like?\"[lr]",
+      "jp": "ãã·ã­ã¦ããã®ãã©ã¢ã°ã©ã¨ããã®ã¯ã©ã®ãããªå³ãããã®ã§ããã[lr]",
+      "Pt-br": "\"Shirou, qual é o sabor desse tal de 'foie gras'?\"[lr]",
+      "id": 9792,
+      "epk_id": "3317",
+      "label": "$$$message_0023_0003_0000$$$"
+    },
+    {
+      "en": "\"...Foie gras?\"",
+      "jp": "ãâ¦â¦ãã©ã¢ã°ã©ï¼ã",
+      "Pt-br": "\"...Foie gras?\"",
+      "id": 9793,
+      "epk_id": "3318",
+      "label": "$$$message_0023_0003_0001$$$"
+    },
+    {
+      "en": "\"Yes. [cacheimage storage=ã»ã¤ãã¼ç§æ13b(ä¸­)][wvl canskip=false time=400][chgfg time=300 storage=ã»ã¤ãã¼ç§æ13b(ä¸­) textoff=0]Also, caviar, [wvl canskip=false time=400]truffles, [wvl canskip=false time=400]shark fin, [wvl canskip=false time=400]swallow's nest, [wvl canskip=false time=300]matsutake, splendid alfonsino, spiny lobster, Jinhua ham, Peking duck, helmeted Guineafowl,Â pufferfish, softshell turtle, wasanbon, Yubari melon, Matsusaka beef...\"[lr]",
+      "jp": "ããããããã§ãã[cacheimage storage=ã»ã¤ãã¼ç§æ13b(ä¸­)][wvl canskip=false time=400][chgfg time=300 storage=ã»ã¤ãã¼ç§æ13b(ä¸­) textoff=0]ãã¨ä»ã«ãã­ã£ãã¢ã[wvl canskip=false time=400]ããªã¥ãã[wvl canskip=false time=400]ãã«ãã¬ã[wvl canskip=false time=400]ããã¡ã®å·£ã[wvl canskip=false time=300]æ¾è¸ãéç®é¯ãä¼å¢æµ·èãéè¯ãã ãåäº¬ããã¯ãã»ãã»ãé³¥ãæ²³è±ãã¹ããã³ãåä¸çãå¤å¼µã¡ã­ã³ãæ¾éªç[line len=5]ã[lr]",
+      "Pt-br": "\"Sim. [cacheimage storage=セイバー私服13b(中)][wvl canskip=false time=400][chgfg time=300 storage=セイバー私服13b(中) textoff=0]E também caviar, [wvl canskip=false time=400]trufas, [wvl canskip=false time=400]barbatana de tubarão, [wvl canskip=false time=400]ninho de andorinha, [wvl canskip=false time=300]matsutake, alfonsim, lagosta-espinhosa, presunto de Jinhua, pato à Pequim, galinha-d'angola, baiacu, tartaruga-de-casco-mole, wasanbon, melão de Yubari, carne bovina de Matsusaka...\"[lr]",
+      "id": 9794,
+      "epk_id": "3319",
+      "label": "$$$message_0023_0004_0000$$$"
+    },
+    {
+      "en": "\"W-wait, Saber. What are you talking about?\"[lr]",
+      "jp": "ãã¾ãå¾\nã¦ã»ã¤ãã¼ãä¸ä½ãªãã®è©±ã ã[lr]",
+      "Pt-br": "\"E-espera, Saber. Do que você está falando?\"[lr]",
+      "id": 9795,
+      "epk_id": "3320",
+      "label": "$$$message_0023_0004_0001$$$"
+    },
+    {
+      "en": "Saber looks so serious that I'm intimidated and lose track of the conversation.",
+      "jp": "ãã»ã¤ãã¼ã®ç®ããã¾ãã«ãçå£ãªã®ã§ãã¤ãæããªã£ã¦è©±ããããã£ã¦ãã¾ãã",
+      "Pt-br": "Saber parece tão séria que fico intimidado e perco o fio da conversa.",
+      "id": 9796,
+      "epk_id": "3321",
+      "label": "$$$message_0023_0004_0002$$$"
+    },
+    {
+      "en": "\"Why are you suddenly interested in these things?\"[lr]",
+      "jp": "ããªãã§æ¥ã«ãããªãã®ãæ°ã«ãªãï¼ã[lr]",
+      "Pt-br": "\"Por que você se interessou por essas coisas de repente?\"[lr]",
+      "id": 9797,
+      "epk_id": "3322",
+      "label": "$$$message_0023_0005_0000$$$"
+    },
+    {
+      "en": "\"Because of this.\"[lr]",
+      "jp": "ãããã§ãã[lr]",
+      "Pt-br": "\"Por causa disto.\"[lr]",
+      "id": 9798,
+      "epk_id": "3323",
+      "label": "$$$message_0023_0005_0001$$$"
+    },
+    {
+      "en": "I look at the cover of the magazine she's holding.[lr]",
+      "jp": "ãã¨ãã»ã¤ãã¼ã¯æã£ã¦ããæ¬ã®è¡¨ç´ããã£ã¡ã«åããã[lr]",
+      "Pt-br": "Olho para a capa da revista que ela está segurando.[lr]",
+      "id": 9799,
+      "epk_id": "3324",
+      "label": "$$$message_0023_0005_0002$$$"
+    },
+    {
+      "en": "[font italic=true]High-Class Ingredients to Try at Least Once[font italic=false]...?",
+      "jp": "ãä¸åº¦ã¯é£ã¹ã¦ã¿ããé«ç´é£æãâ¦â¦ï¼",
+      "Pt-br": "[font italic=true]Ingredientes de Luxo que Você Precisa Experimentar ao Menos uma Vez[font italic=false]...?",
+      "id": 9800,
+      "epk_id": "3325",
+      "label": "$$$message_0023_0005_0003$$$"
+    },
+    {
+      "en": "\"What's this magazine?\"[lr]",
+      "jp": "ããªãã ããã®æ¬ã[lr]",
+      "Pt-br": "\"Que revista é essa?\"[lr]",
+      "id": 9801,
+      "epk_id": "3326",
+      "label": "$$$message_0023_0006_0000$$$"
+    },
+    {
+      "en": "I don't remember buying it. Even if I did buy it, I'd have no way to use it.[lr]",
+      "jp": "ããããªæ¬ã¯è²·ã£ãè¦ãããªããã¨ããããæã£ã¦ããã¨ããã§ä½¿ãéããªãã[lr]",
+      "Pt-br": "Não me lembro de tê-la comprado. E, mesmo que tivesse comprado, não teria como usar aquilo.[lr]",
+      "id": 9802,
+      "epk_id": "3327",
+      "label": "$$$message_0023_0006_0001$$$"
+    },
+    {
+      "en": "Sakura has a bunch of cookbooks I wouldn't buy in her room, but this is more of a travel guide.",
+      "jp": "ãæ¡ã®é¨å±ã«ãä¿ºãè²·ããªããããªã¬ã·ãéãä¸¦ãã§ãããã©ãããã¯ã¬ã¤ãããã¯ã®é¡ã ã",
+      "Pt-br": "Sakura tem vários livros de culinária no quarto, que eu jamais compraria, mas isto parece mais um guia de viagens.",
+      "id": 9803,
+      "epk_id": "3328",
+      "label": "$$$message_0023_0006_0002$$$"
+    },
+    {
+      "en": "\"Taiga left it here earlier.\"[lr]",
+      "jp": "ãå\nã»ã©å¤§æ²³ãç½®ãã¦ããã¾ããã[lr]",
+      "Pt-br": "\"Taiga deixou aqui mais cedo.\"[lr]",
+      "id": 9804,
+      "epk_id": "3329",
+      "label": "$$$message_0023_0007_0000$$$"
+    },
+    {
+      "en": "Ah, I see the hidden agenda now.",
+      "jp": "ããªãã»ã©ãé­èãèª­ããã",
+      "Pt-br": "Ah, agora entendi a intenção por trás disso.",
+      "id": 9805,
+      "epk_id": "3330",
+      "label": "$$$message_0023_0007_0001$$$"
+    },
+    {
+      "en": "She probably thought that if she dropped the magazine in the living room, Sakura or I would be inspired to make matsutake mushrooms for dinner, or something.[lr]",
+      "jp": "ãå¤§æ¹ããããã£ã¦å±\néã«ã§ãè»¢ããã¦ããã°ãä¿ºãæ¡ãç®ãéãã¦ããããä»æ¥ã®ãé£¯ã¯æ¾è¸ã§ãã¨ãè¨ãåºãã¨æã£ãã®ã ããã[lr]",
+      "Pt-br": "Provavelmente ela pensou que, se deixasse a revista na sala, Sakura ou eu ficaríamos inspirados a preparar cogumelos matsutake para o jantar ou algo assim.[lr]",
+      "id": 9806,
+      "epk_id": "3331",
+      "label": "$$$message_0023_0008_0000$$$"
+    },
+    {
+      "en": "...And her plan's already halfway succeeded just by captivating Saber.[lr]",
+      "jp": "ã[line len=3]ããã¦è¤ã­ãã®ä½æ¦ã¯ã»ã¤ãã¼ãç³ãè¼ããã¦ãæç¹ã§ããã§ã«äºå²æ¹ã¯æåããã¨ããã¾ãããã[lr]",
+      "Pt-br": "...E seu plano já está meio caminho andado só por ter encantado Saber.[lr]",
+      "id": 9807,
+      "epk_id": "3332",
+      "label": "$$$message_0023_0008_0001$$$"
+    },
+    {
+      "en": "\"...And you're curious about it?\"",
+      "jp": "ãâ¦â¦ã§ãã»ã¤ãã¼ã¯ãããæ°ã«ãªã£ãã¨ã",
+      "Pt-br": "\"...E você ficou curiosa?\"",
+      "id": 9808,
+      "epk_id": "3333",
+      "label": "$$$message_0023_0008_0002$$$"
+    },
+    {
+      "en": "\"Yes. It's full of ingredients that everyone ought to try at least once. They must all be delicious.\"[lr]",
+      "jp": "ããããçãä¸åº¦ã¯é£ã¹ã¦ã¿ããã¨æããããªé£æã§ããããããç¾å³ã§ããäºã§ãããã[lr]",
+      "Pt-br": "\"Sim. Está cheia de ingredientes que todos deveriam experimentar ao menos uma vez. Devem ser todos deliciosos.\"[lr]",
+      "id": 9809,
+      "epk_id": "3334",
+      "label": "$$$message_0023_0009_0000$$$"
+    },
+    {
+      "en": "Saber's fascinated by the expensive ingredients she's never seen before.[lr]",
+      "jp": "ããã¾ã è¦ã¬é«ç´é£æã«æããã¯ããã»ã¤ãã¼ã[lr]",
+      "Pt-br": "Saber está fascinada pelos ingredientes caros que nunca viu antes.[lr]",
+      "id": 9810,
+      "epk_id": "3335",
+      "label": "$$$message_0023_0009_0001$$$"
+    },
+    {
+      "en": "They might be expensive for a normal person, but people of high status probably see these things on the dinner table often enough.",
+      "jp": "ããããä¸è¬å¸æ°ã«ã¯é«ç´åã§ããèº«åããå¾¡ä»ã ã£ãããããªãã«é£åã«ã®ã¼ãã¢ããªã®ã§ã¯ãªãã®ã ãããã",
+      "Pt-br": "Podem ser caros para uma pessoa comum, mas gente de posição elevada provavelmente encontra essas coisas à mesa com bastante frequência.",
+      "id": 9811,
+      "epk_id": "3336",
+      "label": "$$$message_0023_0009_0002$$$"
+    },
+    {
+      "en": "\"Saber, you were a king who lived in a castle, right? You would've eaten expensive[line len=2]\"[lr]",
+      "jp": "ãã»ã¤ãã¼ã ã£ã¦çæ§ã¨ãã¦ãåã«ä½ãã§ããã ãï¼ãããããé«ç´ãª[line len=3]ã[lr]",
+      "Pt-br": "\"Saber, você era uma rainha que vivia num castelo, certo? Deve ter comido coisas caras[line len=2]\"[lr]",
+      "id": 9812,
+      "epk_id": "3337",
+      "label": "$$$message_0023_0010_0000$$$"
+    },
+    {
+      "en": "Oh no. Don't say that. I just screwed up.[lr]",
+      "jp": "ããããªãããããããªããå¤±è¨ã ã[lr]",
+      "Pt-br": "Ah, não. Não diga isso. Acabei de fazer besteira.[lr]",
+      "id": 9813,
+      "epk_id": "3338",
+      "label": "$$$message_0023_0010_0001$$$"
+    },
+    {
+      "en": "Saber did live in a royal palace, but luxurious court cuisine and formal table manners didn't exist in her era.[lr]",
+      "jp": "ãç¢ºãã«ã»ã¤ãã¼ã¯å®®å»·æ®ããã ã£ããããã©ãããã³ãããªå®®å»·æçããããããããé£åããã¼ã®ç¿æ\n£èªä½ãå½æã¯ãªãã£ããã ã[lr]",
+      "Pt-br": "Saber realmente viveu num palácio real, mas a culinária luxuosa da corte e os modos formais à mesa ainda não existiam em sua época.[lr]",
+      "id": 9814,
+      "epk_id": "3339",
+      "label": "$$$message_0023_0010_0002$$$"
+    },
+    {
+      "en": "Not to mention, it was the French who made that kind of fine dining famous...however many centuries later.",
+      "jp": "ãããããé«ç´é£æã¨ãã¯ãã©ã³ã¹æçãå°é ­ãã¦ãã¦ããã ããâ¦â¦ä½ä¸ç´å¾ã®è©±ã ï¼",
+      "Pt-br": "Além disso, foram os franceses que tornaram esse tipo de alta gastronomia famoso... muitos séculos depois.",
+      "id": 9815,
+      "epk_id": "3340",
+      "label": "$$$message_0023_0010_0003$$$"
+    },
+    {
+      "en": "\"...Shirou, I believe I said it before. [l][say storage=emi0235_sav_0071 name=ã»ã¤ãã¼]The meals in my time [cacheimage storage=ã»ã¤ãã¼ç§æ20b(ä¸­)][wvl][chgfg time=300 storage=ã»ã¤ãã¼ç§æ20b(ä¸­) textoff=0]consisted of meat cooked on a spit and thrown onto the table, without even plates to eat on. We'd then use a knife to carve[line len=2]\"",
+      "jp": "ãâ¦â¦ã·ã­ã¦ãåã«ãè¨ã£ãã¯ãã§ãã[l][say storage=emi0235_sav_0071 name=ã»ã¤ãã¼]ç§ã®æä»£ã®é£äºã¨è¨ãã°ã[cacheimage storage=ã»ã¤ãã¼ç§æ20b(ä¸­)][wvl][chgfg time=300 storage=ã»ã¤ãã¼ç§æ20b(ä¸­) textoff=0]ç¿ããªããã ç¼ããã ãã®èãæºã«æãåºããããããã¤ãã§åãåã£ã¦[line len=3]ã",
+      "Pt-br": "\"...Shirou, creio que já lhe disse antes. [l][say storage=emi0235_sav_0071 name=セイバー]As refeições do meu tempo [cacheimage storage=セイバー私服20b(中)][wvl][chgfg time=300 storage=セイバー私服20b(中) textoff=0]consistiam em carne assada no espeto e jogada sobre a mesa, sem sequer termos pratos para comer. Depois usávamos uma faca para cortar[line len=2]\"",
+      "id": 9816,
+      "epk_id": "3341",
+      "label": "$$$message_0023_0011_0000$$$"
+    },
+    {
+      "en": "\"Sorry, Saber. [cacheimage storage=ã»ã¤ãã¼ç§æ20a(ä¸­)][wvl][chgfg time=300 storage=ã»ã¤ãã¼ç§æ20a(ä¸­) textoff=0]That was my fault...[l][say storage=emi0235_shi_0071 name=å£«é]I was going to make it up to you by asking if there's anything in there you want to eat, but...\"[lr]",
+      "jp": "ããã¾ããã»ã¤ãã¼ã[cacheimage storage=ã»ã¤ãã¼ç§æ20a(ä¸­)][wvl][chgfg time=300 storage=ã»ã¤ãã¼ç§æ20a(ä¸­) textoff=0]ä¿ºãæªãã£ã[line len=3][l][say storage=emi0235_shi_0071 name=å£«é]ãè©«ã³ã«ä½ãé£ã¹ããç©ãã£ã¦è¨ãããæã§ã¯ãããã ãã©[line len=3]ã[lr]",
+      "Pt-br": "\"Desculpe, Saber. [cacheimage storage=セイバー私服20a(中)][wvl][chgfg time=300 storage=セイバー私服20a(中) textoff=0]A culpa foi minha...[l][say storage=emi0235_shi_0071 name=士郎]Eu ia compensar perguntando se havia algo na revista que você gostaria de comer, mas...\"[lr]",
+      "id": 9817,
+      "epk_id": "3342",
+      "label": "$$$message_0023_0012_0000$$$"
+    },
+    {
+      "en": "There's no way my pantry can accommodate a casual request to try anything from that magazine.",
+      "jp": "ããããã«ãã¡ã®è²¡æ¿ã§ã¯ããã£ãè¨ã£ããããªã¡ãã¥ã¼ãããããã¡ãã£ã¨é£ã¹ã«è¡ã£ã¦ã¿ãããï¼ããªãã¦è¨³ã«ã¯ãããªãã®ã ã",
+      "Pt-br": "Não há como minha despensa atender a um pedido casual para experimentar qualquer coisa daquela revista.",
+      "id": 9818,
+      "epk_id": "3343",
+      "label": "$$$message_0023_0012_0001$$$"
+    },
+    {
+      "en": "\"...If it's a single portion just for you, I might be able to make it work.\"[lr]",
+      "jp": "ã[line len=3]å¼·ãã¦è¨ãã°ã»ã¤ãã¼ã²ã¨ãããããªãããªãã¨ãã[lr]",
+      "Pt-br": "\"...Se for uma porção individual, só para você, talvez eu consiga dar um jeito.\"[lr]",
+      "id": 9819,
+      "epk_id": "3344",
+      "label": "$$$message_0023_0013_0000$$$"
+    },
+    {
+      "en": "\"A single [wvl canskip=false time=600]portion?\"",
+      "jp": "ãã²ã¨ãã[wvl canskip=false time=600]ã§ããã",
+      "Pt-br": "\"Uma [wvl canskip=false time=600]porção?\"",
+      "id": 9820,
+      "epk_id": "3345",
+      "label": "$$$message_0023_0013_0001$$$"
+    },
+    {
+      "en": "\"Yeah, but that's the best I can do.[lr]",
+      "jp": "ãããããããéçã ãªã[lr]",
+      "Pt-br": "\"É, mas é o máximo que posso fazer.[lr]",
+      "id": 9821,
+      "epk_id": "3346",
+      "label": "$$$message_0023_0014_0000$$$"
+    },
+    {
+      "en": "Also, if Tohsaka could stay off the jewels and chip in here instead, we might be able to take everyone to a fancy restaurant in Shinto, but...\"",
+      "jp": "ããã¨ã¯ãé åããããå®ç³ãªããã«æãåºãããã½ã¼ãã¨ãã£ã¡ã«æè³ãã¦ãããã°ãçã§æ°é½ã®é«ç´åºã«ç¹°ãåºãããåºæ¥ããããããªããã©[line len=3]ã",
+      "Pt-br": "Além disso, se Tohsaka parasse de gastar com joias e ajudasse por aqui, talvez pudéssemos levar todo mundo a um restaurante chique em Shinto, mas...\"",
+      "id": 9822,
+      "epk_id": "3347",
+      "label": "$$$message_0023_0014_0001$$$"
+    },
+    {
+      "en": "\"...With Rin I doubt that will ever happen.\"[lr]",
+      "jp": "ãâ¦â¦åãç¸æã§ã¯ããã®ãããª[ruby text=ããããã char=2]å¥åã«ãããããå ´é¢ã¯èµ·ããããªãã§ãããã[lr]",
+      "Pt-br": "\"...Com Rin, duvido que isso aconteça.\"[lr]",
+      "id": 9823,
+      "epk_id": "3348",
+      "label": "$$$message_0023_0015_0000$$$"
+    },
+    {
+      "en": "I completely agree.[lr]",
+      "jp": "ãã¾ã£ããåæã ã[lr]",
+      "Pt-br": "Concordo plenamente.[lr]",
+      "id": 9824,
+      "epk_id": "3349",
+      "label": "$$$message_0023_0015_0001$$$"
+    },
+    {
+      "en": "It's not that I want to call her a cheapskate, a scrooge, or a miser from birth...but I just can't imagine Tohsaka ever being that generous with her money.",
+      "jp": "ãå¥ã«ããã¤ãã±ãã ã¨ããæ¸ã¡ãã ã¨ããçã¾ãã¤ãã¦ã®å®é­å¥´ã ã¨ããããããæå¥ãåãããããã§ã¯ãªã[line len=3]ããããããããªæ°åã®ããé åèªä½ãæ³åã§ããªãã",
+      "Pt-br": "Não é que eu queira chamá-la de mão de vaca, pão-dura ou mesquinha desde o nascimento... mas simplesmente não consigo imaginar Tohsaka sendo tão generosa com o próprio dinheiro.",
+      "id": 9825,
+      "epk_id": "3350",
+      "label": "$$$message_0023_0015_0002$$$"
+    },
+    {
+      "en": "\"Right? So I'd love to take you all to a bougie place like that, but until that happens, I need you to be patient with what I can make at home.\"",
+      "jp": "ãã ãªãããããããã§ããã¤ãã¯ãããªãªããã§ã»ã¬ããªæã«ãé£ãã¦ã£ã¦ãããããã©ãããã¾ã§ã¯ä¿ºã®ä½ã[ruby text=ã¡ã·]é£¯ã§ææ\n¢ãã¦ããã",
+      "Pt-br": "\"Pois é. Eu adoraria levar todos vocês a um lugar sofisticado desses, mas, até lá, preciso que tenham paciência com a comida que preparo em casa.\"",
+      "id": 9826,
+      "epk_id": "3351",
+      "label": "$$$message_0023_0016_0000$$$"
+    },
+    {
+      "en": "\"What are you talking about, Shirou? [cacheimage storage=ã»ã¤ãã¼ç§æ05c(ä¸­)][wvl][chgfg time=300 storage=ã»ã¤ãã¼ç§æ05c(ä¸­) textoff=0]I am very satisfied with my meals in this house. I've never once felt I needed to be patient or tolerant of your food.\"",
+      "jp": "ãä½ãè¨ãã®ã§ããã·ã­ã¦ã[cacheimage storage=ã»ã¤ãã¼ç§æ05c(ä¸­)][wvl][chgfg time=300 storage=ã»ã¤ãã¼ç§æ05c(ä¸­) textoff=0]ç§ã¯ãã®å®¶ã§ã®é£äºã«ã¯ã¨ã¦ãæºè¶³ãã¦ãããææ\n¢ãè¾æ±ãªã©ã¨ãä¸åº¦ãèãããã¨ã¯ããã¾ããã",
+      "Pt-br": "\"Do que está falando, Shirou? [cacheimage storage=セイバー私服05c(中)][wvl][chgfg time=300 storage=セイバー私服05c(中) textoff=0]Estou muito satisfeita com as refeições desta casa. Nunca senti que precisasse ter paciência ou tolerar sua comida.\"",
+      "id": 9827,
+      "epk_id": "3352",
+      "label": "$$$message_0023_0017_0000$$$"
+    },
+    {
+      "en": "She says it with an earnest, pleasant smile.[lr]",
+      "jp": "ãçé¡ã§å¬ãããã¨ãè¨ã£ã¦ãããã[lr]",
+      "Pt-br": "Ela diz isso com um sorriso sincero e agradável.[lr]",
+      "id": 9828,
+      "epk_id": "3353",
+      "label": "$$$message_0023_0018_0000$$$"
+    },
+    {
+      "en": "It motivates me to make today's lunch extra special.",
+      "jp": "ããããªãµãã«è¨ãããããæ¼é£¯ã®æºåã«ã ã£ã¦æ°åãå\n¥ãã£ã¦ãã®ã ã",
+      "Pt-br": "Isso me dá ainda mais vontade de preparar um almoço especial hoje.",
+      "id": 9829,
+      "epk_id": "3354",
+      "label": "$$$message_0023_0018_0001$$$"
+    },
+    {
+      "en": "\"That's why... I trust that one day, you will acquire those ingredients and serve us a luxurious meal at this dinner table.\"[lr]",
+      "jp": "ãã§ãããâ¦â¦ãã¤ããã£ã¨ã·ã­ã¦ã®æã§ãããããã«åç©«ãããè¦äºã«èª¿çãããé«ç´é£æããã®é£åãé£¾ãã®ã ã¨ãä¿¡ãã¦ãã¾ãã[lr]",
+      "Pt-br": "\"Por isso... acredito que um dia você conseguirá esses ingredientes e nos servirá uma refeição luxuosa nesta mesa de jantar.\"[lr]",
+      "id": 9830,
+      "epk_id": "3355",
+      "label": "$$$message_0023_0019_0000$$$"
+    },
+    {
+      "en": "\"...Huh?\"[lr]",
+      "jp": "ã[line len=3]ã¸ï¼ã[lr]",
+      "Pt-br": "\"...Hã?\"[lr]",
+      "id": 9831,
+      "epk_id": "3356",
+      "label": "$$$message_0023_0019_0001$$$"
+    },
+    {
+      "en": "\"I believe.\"",
+      "jp": "ãä¿¡ãã¦ããã¾ãããã",
+      "Pt-br": "\"Eu acredito.\"",
+      "id": 9832,
+      "epk_id": "3357",
+      "label": "$$$message_0023_0019_0002$$$"
+    },
+    {
+      "en": "B-believe in what?[lr]",
+      "jp": "ããªãä½ãä¿¡ããã£ã¦ï¼[lr]",
+      "Pt-br": "A-acredita em quê?[lr]",
+      "id": 9833,
+      "epk_id": "3358",
+      "label": "$$$message_0023_0020_0000$$$"
+    },
+    {
+      "en": "Saber places wild expectations on me.[lr]",
+      "jp": "ãç¡è¬ã¨ããããæå¾\nã®è¨èãæããããã»ã¤ãã¼ã[lr]",
+      "Pt-br": "Saber deposita expectativas absurdas em mim.[lr]",
+      "id": 9834,
+      "epk_id": "3359",
+      "label": "$$$message_0023_0020_0001$$$"
+    },
+    {
+      "en": "Then, she flips through the magazine and stops on the page she's looking for.",
+      "jp": "ãããã¦ã¾ãæã®éèªããã©ã©ã©ã¨ããããç®çã®ãã¼ã¸ã§ã´ããã¨æ­¢ã¾ãã",
+      "Pt-br": "Então, ela folheia a revista e para na página que estava procurando.",
+      "id": 9835,
+      "epk_id": "3360",
+      "label": "$$$message_0023_0020_0002$$$"
+    },
+    {
+      "en": "\"Foie is goose. So why don't we begin by raising a goose?\"[lr]",
+      "jp": "ããããã¬ãã§ã¦ã§ãããã©ã¢ã¨ããã°ã¬ã¼ãã¾ãã¯ã¬ãã§ã¦ãé£¼ãã¨ããããå§ãããã¦ã¯å¦ä½ã§ããï¼ã[lr]",
+      "Pt-br": "\"Foie significa ganso. Então, por que não começamos criando um ganso?\"[lr]",
+      "id": 9836,
+      "epk_id": "3361",
+      "label": "$$$message_0023_0021_0000$$$"
+    },
+    {
+      "en": "\"And gras is...No, hold on one second[line len=2]\"",
+      "jp": "ãã¬ã¼ã£ã¦ãããå¾\nã¦ã»ã¤ãã¼ã",
+      "Pt-br": "\"E gras é... Não, espere um instante[line len=2]\"",
+      "id": 9837,
+      "epk_id": "3362",
+      "label": "$$$message_0023_0021_0001$$$"
+    },
+    {
+      "en": "\"If a goose is too much trouble, then we could raise a pig. Pigs are the ideal livestock.[lr]",
+      "jp": "ãã¬ãã§ã¦ã«æãããã®ã§ããã°ãè±ã¨ããæãããã¾ããè±ã¯é£¼ãã«ã¯æè¯ã®å®¶çã§ãã[lr]",
+      "Pt-br": "\"Se criar um ganso der muito trabalho, podemos criar um porco. Porcos são os animais ideais para criação.[lr]",
+      "id": 9838,
+      "epk_id": "3363",
+      "label": "$$$message_0023_0022_0000$$$"
+    },
+    {
+      "en": "Shirou, did you know that this magazine says that only sows can find Mediterranean truffles?[lr]",
+      "jp": "ããããããå­ç¥ã§ããã·ã­ã¦ï¼ããã®æ¬ã«ããã¨å°ä¸­ã®ããªã¥ããçºè¦ã§ããã®ã¯éè±ã«éãããã®ã ããã§ãã[lr]",
+      "Pt-br": "Shirou, sabia que esta revista diz que só as porcas conseguem encontrar trufas do Mediterrâneo?[lr]",
+      "id": 9839,
+      "epk_id": "3364",
+      "label": "$$$message_0023_0022_0001$$$"
+    },
+    {
+      "en": "Of course, we could also make ham from one. There's no need to be fixated on a particular delicacy.\"",
+      "jp": "ãããããã ã¨ããé¸æè¢ãããã¾ããããåç¨®ã«ã¯ãã ããã­ã°ãªãã¾ããã­ã",
+      "Pt-br": "Claro que também podemos fazer presunto com um deles. Não precisamos nos fixar em uma iguaria específica.\"",
+      "id": 9840,
+      "epk_id": "3365",
+      "label": "$$$message_0023_0022_0002$$$"
+    },
+    {
+      "en": "\"Give me that magazine. I'm sending it back where it came from!\"",
+      "jp": "ãã¡ãã£ã¨ãã®æ¬ãããã[ruby text=ãã«ãã© char=3]æã¡ä¸»ã«çªã£è¿ãã¦ããï¼ã",
+      "Pt-br": "\"Me dê essa revista. Vou devolvê-la de onde veio!\"",
+      "id": 9841,
+      "epk_id": "3366",
+      "label": "$$$message_0023_0023_0000$$$"
+    },
+    {
+      "en": "Saber quickly stands up and evades my outstretched hand.[lr]",
+      "jp": "ãä¼¸ã°ããæã®å\nã§ãã»ã¤ãã¼ã¯ãããã¨ç«ã¡ä¸ãããèº«ããããã[lr]",
+      "Pt-br": "Saber se levanta rapidamente e desvia da minha mão estendida.[lr]",
+      "id": 9842,
+      "epk_id": "3367",
+      "label": "$$$message_0023_0024_0000$$$"
+    },
+    {
+      "en": "Then she briskly makes her way into the hallway, dons sandals, and goes out into the yard.[lr]",
+      "jp": "ããã®ã¾ã¾ç¸å´ã¸è»½ãè¶³åãã§åãããã¤ã£ããã°ãã§åº­å\nã¸åºã¦è¡ãã[lr]",
+      "Pt-br": "Em seguida, caminha decididamente até o corredor, calça as sandálias e sai para o quintal.[lr]",
+      "id": 9843,
+      "epk_id": "3368",
+      "label": "$$$message_0023_0024_0001$$$"
+    },
+    {
+      "en": "\"Hey!\"",
+      "jp": "ããã¼ãï¼ã",
+      "Pt-br": "\"Ei!\"",
+      "id": 9844,
+      "epk_id": "3369",
+      "label": "$$$message_0023_0024_0002$$$"
+    },
+    {
+      "en": "\"Saber, it's dangerous to walk around while reading...\"",
+      "jp": "ãã»ã¤ãã¼ãä¸è¦ãªããæ­©ãã¨å±ãªãã£ã¦[line len=3]ã",
+      "Pt-br": "\"Saber, é perigoso andar por aí enquanto lê...\"",
+      "id": 9845,
+      "epk_id": "3370",
+      "label": "$$$message_0023_0025_0000$$$"
+    },
+    {
+      "en": "\"I've finally noticed something, Shirou.[lr]",
+      "jp": "ãããããæ°ã¥ããã®ã§ããã·ã­ã¦ã[lr]",
+      "Pt-br": "\"Finalmente percebi uma coisa, Shirou.[lr]",
+      "id": 9846,
+      "epk_id": "3371",
+      "label": "$$$message_0023_0026_0000$$$"
+    },
+    {
+      "en": "This mansion is missing something the castle in my homeland had...[se storage=se089.wav][movefg opacity=0 left=200 time=80 accel=-1 storage=ã»ã¤ãã¼ç§æ01a(ä¸­) textoff=0][wait canskip=false time=120][fg opacity=0 left=0 top=74 time=10 storage=ã»ã¤ãã¼ç§æ09a(è¿) textoff=0][movefg opacity=255 left=200 top=74 time=300 accel=-2 storage=ã»ã¤ãã¼ç§æ09a(è¿) textoff=0][se storage=se092.wav][wvl canskip=true time=300]a vegetable garden and an animal pen! Fortunately, our yard is very spacious...\"[wait canskip=0 time=500][cltransparent]",
+      "jp": "ã[ruby text=ã¯ããã­ã£ã¡ã­ãã char=6]æ\né·ã®æãåã«å¨ãã¦ããã®è¡å®®ã®å±æ·ã«ã¯æ¬ ãã¦ãããã®ã[line len=3][se storage=se089.wav][movefg opacity=0 left=200 time=80 accel=-1 storage=ã»ã¤ãã¼ç§æ01a(ä¸­) textoff=0][wait canskip=false time=120][fg opacity=0 left=0 top=74 time=10 storage=ã»ã¤ãã¼ç§æ09a(è¿) textoff=0][movefg opacity=255 left=200 top=74 time=300 accel=-2 storage=ã»ã¤ãã¼ç§æ09a(è¿) textoff=0][se storage=se092.wav][wvl canskip=true time=300]ããã¯èåã¨å®¶çå°å±ã§ãï¼ãããããåº­ã«ã¯ãããªã«ãç©ºéãâ¦â¦â¦â¦ã[wait canskip=0 time=500][cltransparent]",
+      "Pt-br": "Esta mansão não tem algo que existia no castelo da minha terra natal...[se storage=se089.wav][movefg opacity=0 left=200 time=80 accel=-1 storage=セイバー私服01a(中) textoff=0][wait canskip=false time=120][fg opacity=0 left=0 top=74 time=10 storage=セイバー私服09a(近) textoff=0][movefg opacity=255 left=200 top=74 time=300 accel=-2 storage=セイバー私服09a(近) textoff=0][se storage=se092.wav][wvl canskip=true time=300]uma horta e um cercado para animais! Felizmente, nosso quintal é bem espaçoso...\"[wait canskip=0 time=500][cltransparent]",
+      "id": 9847,
+      "epk_id": "3372",
+      "label": "$$$message_0023_0026_0001$$$"
+    },
+    {
+      "en": "\"Wait, don't tell me Kiritsugu chose this plot of land with that in mind!\"",
+      "jp": "ãããï¼ããããåå£ã¯ããããè¦è¶ãã¦ãã®ãããªæ·å°ãç¢ºä¿ããã®ã§ã¯ï¼ï¼ã",
+      "Pt-br": "\"Espera, não me diga que Kiritsugu escolheu este terreno pensando nisso!\"",
+      "id": 9848,
+      "epk_id": "3373",
+      "label": "$$$message_0023_0027_0000$$$"
+    },
+    {
+      "en": "\"Nope. I guarantee you that my old man wasn't that weirdly resourceful.[lr]",
+      "jp": "ããªããèªã£ã¦[ruby text=ãªã¤ã¸ char=2]åå£ã«ãããªãããããç²ææ§ã¯ãªãã[lr]",
+      "Pt-br": "\"Não. Garanto que meu velho não era tão estranhamente previdente assim.[lr]",
+      "id": 9849,
+      "epk_id": "3374",
+      "label": "$$$message_0023_0028_0000$$$"
+    },
+    {
+      "en": "I'll admit that it could be nice to grow a vegetable garden, though.[lr]",
+      "jp": "ãã¾ããç¾æ­©ããã£ã¦å®¶åº­èåãããã¯æãæãã¦ã¿ã¦ããããã©ããã»ã¤ãã¼ã[lr]",
+      "Pt-br": "Admito que seria bom ter uma horta, porém.[lr]",
+      "id": 9850,
+      "epk_id": "3375",
+      "label": "$$$message_0023_0028_0001$$$"
+    },
+    {
+      "en": "But we aren't raising any pigs or geese or soft-shelled turtles. Our hands are already full with one she-tiger!\"",
+      "jp": "ãã ãã©éè±ãã¬ãã§ã¦ãã¹ããã³ãé£¼ããªãããåç©ã¯éèä¸å¹ã§å\n\nåã ï¼ã",
+      "Pt-br": "Mas não vamos criar porcos, gansos ou tartarugas-de-casco-mole. Já temos trabalho suficiente com uma tigresa!\"",
+      "id": 9851,
+      "epk_id": "3376",
+      "label": "$$$message_0023_0028_0002$$$"
+    },
+    {
+      "en": "\"A tiger...[lr]",
+      "jp": "ãèã§ããâ¦â¦[lr]",
+      "Pt-br": "\"Uma tigresa...[lr]",
+      "id": 9852,
+      "epk_id": "3377",
+      "label": "$$$message_0023_0029_0000$$$"
+    },
+    {
+      "en": "In ancient times, tiger meat was prized as 'bamboo' to the 'cherry blossom' of horse meat. I wonder how it would taste... Hmm... With butter...?\"",
+      "jp": "ãèã®èã¯å¤æ¥ãé¦¬èã®âæ¡âã«å¯¾ãã¦âç«¹âã¨å¼ã°ãçéãããã¨ã®ãã¨ããã£ããã©ããªå³ãªã®ã§ããããâ¦â¦ãµããâ¦â¦ãã¿ã¡â¦â¦ï¼ã",
+      "Pt-br": "Na Antiguidade, a carne de tigre era apreciada como o 'bambu' da carne de cavalo, chamada de 'flor de cerejeira'. Fico imaginando qual seria o sabor... Hmm... Com manteiga...?\"",
+      "id": 9853,
+      "epk_id": "3378",
+      "label": "$$$message_0023_0029_0001$$$"
+    },
+    {
+      "en": "Saber spaces out in the middle of the yard. There's a filter on her ears that only lets through what she wants to hear.[lr]",
+      "jp": "ãåº­ã®ã¾ããªãã§ãã£ã¨ãããã»ã¤ãã¼ã®è³ã«ã¯ããã¯ãä¿ºã®å£°ã¯é½åã®ãããã£ã«ã¿ã¼è¶ãã«ããå±ããªãã[lr]",
+      "Pt-br": "Saber fica aérea no meio do quintal. Há um filtro em seus ouvidos que só permite a entrada daquilo que ela quer ouvir.[lr]",
+      "id": 9854,
+      "epk_id": "3379",
+      "label": "$$$message_0023_0030_0000$$$"
+    },
+    {
+      "en": "\"Heyyy! Come home, Your Majesty! Your Grace!\"",
+      "jp": "ããï½ããå¸°ã£ã¦æ¥ï½ããçæ§ï½ãéä¸ï½ã",
+      "Pt-br": "\"Eeei! Volte para casa, Majestade! Vossa Alteza!\"",
+      "id": 9855,
+      "epk_id": "3380",
+      "label": "$$$message_0023_0030_0001$$$"
+    },
+    {
+      "en": "\"There's still hope, even if it can't be done in this yard. We're fortunate that Fuyuki is abundant in natural wealth.[lr]",
+      "jp": "ããã¨ãåº­ãç¡çã§ããã¾ã å¸æãæ¨ã¦ãã«ã¯è³ãã¾ãããä½ã¨ãã£ã¦ãå¬æ¨å¸ã¯èªç¶ã®å®åº«ã§ãã[lr]",
+      "Pt-br": "\"Ainda há esperança, mesmo que não possamos fazer isso neste quintal. Temos a sorte de Fuyuki ser rica em recursos naturais.[lr]",
+      "id": 9856,
+      "epk_id": "3381",
+      "label": "$$$message_0023_0031_0000$$$"
+    },
+    {
+      "en": "It is a fertile land blessed by God with the bounties of the mountains, the forest, and the sea. Ahh...a dream come true.\"",
+      "jp": "ãå±±ã®å¹¸ãæ£®ã®å¹¸ãæµ·ã®å¹¸ã«æµã¾ãããç¥ã«ç¥ç¦ãããè¥æ²ãªåå°ãªã®ã§ããããããâ¦â¦å¤¢ãåºããã¾ãã",
+      "Pt-br": "É uma terra fértil, abençoada por Deus com as dádivas das montanhas, das florestas e do mar. Ahh... um sonho realizado.\"",
+      "id": 9857,
+      "epk_id": "3382",
+      "label": "$$$message_0023_0031_0001$$$"
+    },
+    {
+      "en": "\"Okay, but wipe your drool first, Saber.\"[lr]",
+      "jp": "ããã®åã«ãã ãæ­ããã»ã¤ãã¼ã[lr]",
+      "Pt-br": "\"Tudo bem, mas primeiro limpe a baba, Saber.\"[lr]",
+      "id": 9858,
+      "epk_id": "3383",
+      "label": "$$$message_0023_0032_0000$$$"
+    },
+    {
+      "en": "Saber gazes out into the autumn sky, clutching that devilish rag to her chest and dreaming of an ever-distant kingdom of food.",
+      "jp": "ãæªé­ã®æ¸ãè¸ã«ããæ±ããªãããã»ã¤ãã¼ã¯ã©ãã¾ã§ãæ¾ãã ç§ã®ç©ºã«ãå\n¨ã¦é ãé£ã¹ç©çå½ãå¤¢è¦ãã®ã ã£ãã:è\u0013",
+      "Pt-br": "Saber contempla o céu de outono, apertando aquele trapo diabólico contra o peito e sonhando com um reino gastronômico cada vez mais distante.",
+      "id": 9859,
+      "epk_id": "3384",
+      "label": "$$$message_0023_0032_0001$$$"
+    }
+  ]
+}

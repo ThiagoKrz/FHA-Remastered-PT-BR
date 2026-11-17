@@ -1,0 +1,824 @@
+{
+  "cena": "44qj2fgbonviholuhag8pu8ng9",
+  "titulo": "Cidade: Uma Aventura Sobre Empregadas",
+  "rota": "Dia 4",
+  "arquivo": "44qj2fgbonviholuhag8pu8ng9.epk_dec",
+  "linhas": [
+    {
+      "en": "\"...All right, I think this is it.\"[lr]",
+      "jp": "「[line len=3]よし、こんなところか」[lr]",
+      "Pt-br": "\"...Certo, acho que é isso.\"[lr]",
+      "id": 20877,
+      "epk_id": "17599",
+      "label": "$$$message_0132_0000_0000$$$"
+    },
+    {
+      "en": "As I brew tea in the kitchen, I murmur the usual line. It's disappointing, but I still can't brew tea that she would be satisfied with.",
+      "jp": "　キッチンでお茶を淹れつつ、いつもながらの台詞を呟く。無念だが、未だにあいつが満足するようなお茶は淹れられない。",
+      "Pt-br": "Enquanto preparo o chá na cozinha, murmuro a frase de sempre. É decepcionante, mas ainda não consigo preparar um chá com o qual ela fique satisfeita.",
+      "id": 20878,
+      "epk_id": "17600",
+      "label": "$$$message_0132_0000_0001$$$"
+    },
+    {
+      "en": "\"She's fired up today too...\"[lr]",
+      "jp": "「今日はあいつもやる気だからなぁ……」[lr]",
+      "Pt-br": "\"Ela está a todo vapor hoje também...\"[lr]",
+      "id": 20879,
+      "epk_id": "17601",
+      "label": "$$$message_0132_0001_0000$$$"
+    },
+    {
+      "en": "She's reorganizing her closet for the new season.[lr]",
+      "jp": "　なんでも衣替えだそうだ。[lr]",
+      "Pt-br": "Ela está reorganizando seu armário para a nova estação.[lr]",
+      "id": 20880,
+      "epk_id": "17602",
+      "label": "$$$message_0132_0001_0001$$$"
+    },
+    {
+      "en": "She's causing a big commotion, turning her closet inside out, saying she couldn't get her clothes ready because she was traveling.[lr]",
+      "jp": "　私服の方は旅行があったので出来なかった、とクローゼットの中をひっくり返しての大騒ぎである。[lr]",
+      "Pt-br": "Ela está causando um grande alvoroço, virando seu armário do avesso, dizendo que não conseguiu arrumar suas roupas porque estava viajando.[lr]",
+      "id": 20881,
+      "epk_id": "17603",
+      "label": "$$$message_0132_0001_0002$$$"
+    },
+    {
+      "en": "What a big difference compared to me as a guy where I'm done right after switching the top and bottom drawer of the dresser.",
+      "jp": "　[ruby text=たんす char=2]箪笥の上の段と下の段を交換即終了、みたいな男の俺とは大違いだ。",
+      "Pt-br": "Que grande diferença comparado a mim como garoto, que termino logo depois de trocar as gavetas de cima e de baixo da cômoda.",
+      "id": 20882,
+      "epk_id": "17604",
+      "label": "$$$message_0132_0001_0003$$$"
+    },
+    {
+      "en": "\"...Well, I'm not able to help when it comes to that...\"[lr]",
+      "jp": "「……まあ、あれだけは俺も付き合うワケには行かないからな……」[lr]",
+      "Pt-br": "\"...Bem, não sou capaz de ajudar no que diz respeito a isso...\"[lr]",
+      "id": 20883,
+      "epk_id": "17605",
+      "label": "$$$message_0132_0002_0000$$$"
+    },
+    {
+      "en": "If I try to forcibly help, I'll end up falling from the second floor with the Gandrs.[lr]",
+      "jp": "　無理に手伝ったりしたら、ガンドと共に二階から転落する羽目になる。[lr]",
+      "Pt-br": "Se eu tentar ajudar à força, acabarei caindo do segundo andar com os Gandrs.[lr]",
+      "id": 20884,
+      "epk_id": "17606",
+      "label": "$$$message_0132_0002_0001$$$"
+    },
+    {
+      "en": "That's why I was having a staring contest with Tohsaka's complicated textbook downstairs until she gave the signal... And she called me earlier, so that's why I'm brewing tea right now.",
+      "jp": "　なので、合図があるまで下で小難しい遠坂のテキストとにらめっこしていたのだが……先程お呼ばれがかかり、こうしてお茶を淹れていた。",
+      "Pt-br": "Foi por isso que fiquei brincando de quem pisca primeiro com o livro didático complicado da Tohsaka lá embaixo até ela dar o sinal... E ela me chamou mais cedo, então é por isso que estou preparando o chá agora.",
+      "id": 20885,
+      "epk_id": "17607",
+      "label": "$$$message_0132_0002_0002$$$"
+    },
+    {
+      "en": "\"Tohsaka, I'm coming in.\"[lr]",
+      "jp": "「遠坂、入るぞ」[lr]",
+      "Pt-br": "\"Tohsaka, estou entrando.\"[lr]",
+      "id": 20886,
+      "epk_id": "17608",
+      "label": "$$$message_0132_0003_0000$$$"
+    },
+    {
+      "en": "\"Sure... Ahh, I'm tired.\"",
+      "jp": "「いいわよー……はぁ、疲れちゃった」",
+      "Pt-br": "\"Claro... Aah, estou cansada.\"",
+      "id": 20887,
+      "epk_id": "17609",
+      "label": "$$$message_0132_0003_0001$$$"
+    },
+    {
+      "en": "\"Thank you. Mm, it feels good to have a cup of tea after doing manual labor.\"[lr]",
+      "jp": "「はい、ご苦労さまでした。んー、やっぱり労働の後の一服はありがたいわよねー」[lr]",
+      "Pt-br": "\"Obrigada. Mm, é bom tomar uma xícara de chá depois de fazer trabalho manual.\"[lr]",
+      "id": 20888,
+      "epk_id": "17610",
+      "label": "$$$message_0132_0004_0000$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=凛私服03a(中) textoff=0]Tohsaka takes the cup of tea and takes a sip.[lr]",
+      "jp": "　[chgfg time=300 storage=凛私服03a(中) textoff=0]カップを受け取り、唇を付ける遠坂。[lr]",
+      "Pt-br": "[chgfg time=300 storage=凛私服03a(中) textoff=0]Tohsaka pega a xícara de chá e dá um gole.[lr]",
+      "id": 20889,
+      "epk_id": "17611",
+      "label": "$$$message_0132_0004_0001$$$"
+    },
+    {
+      "en": "Did she really want the tea that badly?[lr]",
+      "jp": "　それほどに紅茶を待ちかねていたのだろうか。[lr]",
+      "Pt-br": "Ela realmente queria tanto assim o chá?[lr]",
+      "id": 20890,
+      "epk_id": "17612",
+      "label": "$$$message_0132_0004_0002$$$"
+    },
+    {
+      "en": "Before Tohsaka could evaluate my tea, I notice the clothes on top of the bed.",
+      "jp": "　遠坂の紅茶への点数評価の前に、ベッドの上の服に気付いた。",
+      "Pt-br": "Antes que Tohsaka pudesse avaliar o meu chá, percebo as roupas em cima da cama.",
+      "id": 20891,
+      "epk_id": "17613",
+      "label": "$$$message_0132_0004_0003$$$"
+    },
+    {
+      "en": "\"...Huh?\"[lr]",
+      "jp": "「……ん？」[lr]",
+      "Pt-br": "\"...Hã?\"[lr]",
+      "id": 20892,
+      "epk_id": "17614",
+      "label": "$$$message_0132_0005_0000$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=凛私服01a(中) textoff=0]They're rather unfamiliar.[lr]",
+      "jp": "　[chgfg time=300 storage=凛私服01a(中) textoff=0]ずいぶん見慣れない洋服だ。[lr]",
+      "Pt-br": "[chgfg time=300 storage=凛私服01a(中) textoff=0]Elas não me são familiares.[lr]",
+      "id": 20893,
+      "epk_id": "17615",
+      "label": "$$$message_0132_0005_0001$$$"
+    },
+    {
+      "en": "A black dress with a white apron.[lr]",
+      "jp": "　黒のワンピースに揃いになった白いエプロン。[lr]",
+      "Pt-br": "Um vestido preto com um avental branco.[lr]",
+      "id": 20894,
+      "epk_id": "17616",
+      "label": "$$$message_0132_0005_0002$$$"
+    },
+    {
+      "en": "This is almost like...",
+      "jp": "　まるでこれは……",
+      "Pt-br": "Isso é quase como...",
+      "id": 20895,
+      "epk_id": "17617",
+      "label": "$$$message_0132_0005_0003$$$"
+    },
+    {
+      "en": "\"It's like a maid's outfit.\"[lr]",
+      "jp": "「メイドの服みたいだ」[lr]",
+      "Pt-br": "\"Parece uma roupa de empregada.\"[lr]",
+      "id": 20896,
+      "epk_id": "17618",
+      "label": "$$$message_0132_0006_0000$$$"
+    },
+    {
+      "en": "\"Not 'it's like,' it is the uniform of a servant of course.[lr]",
+      "jp": "「みたいだ、じゃなくてズバリ使用人のお仕着せよ。[lr]",
+      "Pt-br": "\"Não 'parece', esse é o uniforme de uma empregada, é claro.[lr]",
+      "id": 20897,
+      "epk_id": "17619",
+      "label": "$$$message_0132_0006_0001$$$"
+    },
+    {
+      "en": "I don't know how it ended up at my place.\"[lr]",
+      "jp": "　なんでわたしのところに入ってたんだか」[lr]",
+      "Pt-br": "Não sei como isso foi parar na minha casa.\"[lr]",
+      "id": 20898,
+      "epk_id": "17620",
+      "label": "$$$message_0132_0006_0002$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=凛私服03d(中) textoff=0]While sipping on her tea, Tohsaka is also looking at the maid outfit.[lr]",
+      "jp": "　[chgfg time=300 storage=凛私服03d(中) textoff=0]紅茶を啜りながら、遠坂もメイド服を見ている。[lr]",
+      "Pt-br": "[chgfg time=300 storage=凛私服03d(中) textoff=0]Enquanto toma um gole de seu chá, Tohsaka também olha para a roupa de empregada.[lr]",
+      "id": 20899,
+      "epk_id": "17621",
+      "label": "$$$message_0132_0006_0003$$$"
+    },
+    {
+      "en": "Servant... Oh yeah, Tohsaka lives by herself, but come to think of it...",
+      "jp": "　使用人……そうか、今でこそ遠坂一人しか住んでいないが、考えてみれば[line len=3]",
+      "Pt-br": "Empregada... Ah é, a Tohsaka mora sozinha, mas pensando bem...",
+      "id": 20900,
+      "epk_id": "17622",
+      "label": "$$$message_0132_0006_0004$$$"
+    },
+    {
+      "en": "\"Was there a maid at your house?\"[lr]",
+      "jp": "「いたのか？　遠坂の家にメイドって」[lr]",
+      "Pt-br": "\"Tinha alguma empregada na sua casa?\"[lr]",
+      "id": 20901,
+      "epk_id": "17623",
+      "label": "$$$message_0132_0007_0000$$$"
+    },
+    {
+      "en": "\"...When my father was around. The housekeeper that was working until I was in middle school went back home.\"",
+      "jp": "「……お父様の頃はね。わたしが中学に入る頃までずっと勤めた家政婦さんも実家に帰っちゃって」",
+      "Pt-br": "\"...Quando meu pai estava por perto. A governanta que trabalhou até eu estar no ensino fundamental voltou para a casa dela.\"",
+      "id": 20902,
+      "epk_id": "17624",
+      "label": "$$$message_0132_0007_0001$$$"
+    },
+    {
+      "en": "\"I thought I got rid of this uniform then, but it came out.[lr]",
+      "jp": "「このお仕着せもその時に処分したと思ったんだけど、ひょっこり出てきたの。[lr]",
+      "Pt-br": "\"Achei que tivesse me livrado desse uniforme naquela época, mas ele apareceu.[lr]",
+      "id": 20903,
+      "epk_id": "17625",
+      "label": "$$$message_0132_0008_0000$$$"
+    },
+    {
+      "en": "I did find it, but I was wondering what I should do with it.\"[lr]",
+      "jp": "　せっかく見付けたけど、どうしようかと思ってね」[lr]",
+      "Pt-br": "Eu o encontrei, mas fiquei me perguntando o que deveria fazer com ele.\"[lr]",
+      "id": 20904,
+      "epk_id": "17626",
+      "label": "$$$message_0132_0008_0001$$$"
+    },
+    {
+      "en": "\"What you should do with it... Are you gonna wear it?\"[lr]",
+      "jp": "「どうしようかって……着るのか？」[lr]",
+      "Pt-br": "\"O que você deveria fazer com ele... Você vai vesti-lo?\"[lr]",
+      "id": 20905,
+      "epk_id": "17627",
+      "label": "$$$message_0132_0008_0002$$$"
+    },
+    {
+      "en": "As long as they're clothes, that's the only way to use them.",
+      "jp": "　服である以上、用途はそれしかない。",
+      "Pt-br": "Desde que sejam roupas, essa é a única maneira de usá-las.",
+      "id": 20906,
+      "epk_id": "17628",
+      "label": "$$$message_0132_0008_0003$$$"
+    },
+    {
+      "en": "\"...Ohh, so you're into that kind of stuff.\"[lr]",
+      "jp": "「……ふーん、衛宮くんってそういう好みなんだー」[lr]",
+      "Pt-br": "\"...Aah, então Emiya-kun curte esse tipo de coisa.\"[lr]",
+      "id": 20907,
+      "epk_id": "17629",
+      "label": "$$$message_0132_0009_0000$$$"
+    },
+    {
+      "en": "\"How did you come to that conclusion?[lr]",
+      "jp": "「なんでそんな話になるんだよ。[lr]",
+      "Pt-br": "\"Como você chegou a essa conclusão?[lr]",
+      "id": 20908,
+      "epk_id": "17630",
+      "label": "$$$message_0132_0009_0001$$$"
+    },
+    {
+      "en": "What else would you do with it? Are you gonna frame it?\"",
+      "jp": "　服なら着るしかないだろ。飾っておいてどうするんだ」",
+      "Pt-br": "O que mais se faz com isso? Você vai colocar numa moldura?\"",
+      "id": 20909,
+      "epk_id": "17631",
+      "label": "$$$message_0132_0009_0002$$$"
+    },
+    {
+      "en": "\"Hehehe, I wonder. You were looking at Illyasviel's maids strangely, [cacheimage storage=凛私服01d(中)][wvl][chgfg time=300 storage=凛私服01d(中) textoff=0]but are you sure that was because they're homunculi, and not because you liked their maid outfits?\"",
+      "jp": "「ふふふ、どうだか。イリヤスフィールのメイドたちに違和感たっぷりの目を向けてたの、[cacheimage storage=凛私服01d(中)][wvl][chgfg time=300 storage=凛私服01d(中) textoff=0]あれはホムンクルスだったからじゃなくて、あのメイド服が気に入らなかったからじゃないのぅ？」",
+      "Pt-br": "\"Hehehe, me pergunto. Você estava olhando estranhamente para as empregadas da Illyasviel, [cacheimage storage=凛私服01d(中)][wvl][chgfg time=300 storage=凛私服01d(中) textoff=0]mas tem certeza de que foi porque elas são homúnculos, e não porque você gostou das roupas de empregada delas?\"",
+      "id": 20910,
+      "epk_id": "17632",
+      "label": "$$$message_0132_0010_0000$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「…………」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 20911,
+      "epk_id": "17633",
+      "label": "$$$message_0132_0011_0000$$$"
+    },
+    {
+      "en": "What an annoying smile.[lr]",
+      "jp": "　実にイヤなニヤニヤである。[lr]",
+      "Pt-br": "Que sorriso irritante.[lr]",
+      "id": 20912,
+      "epk_id": "17634",
+      "label": "$$$message_0132_0011_0001$$$"
+    },
+    {
+      "en": "I-I was simply impressed at their thoroughness of wearing a hood on top of their white clothing.[lr]",
+      "jp": "　あ、あれは単に、白装束に頭巾まで被るっていう、徹底ぶりに感心しただけであってだなっ。[lr]",
+      "Pt-br": "E-eu só fiquei impressionado com o rigor delas em usar um capuz por cima das roupas brancas.[lr]",
+      "id": 20913,
+      "epk_id": "17635",
+      "label": "$$$message_0132_0011_0002$$$"
+    },
+    {
+      "en": "\"T-Then, are you gonna wear it, Tohsaka?\"",
+      "jp": "「な、ならおまえが着るのかよ、遠坂」",
+      "Pt-br": "\"E-então, você vai vestir isso, Tohsaka?\"",
+      "id": 20914,
+      "epk_id": "17636",
+      "label": "$$$message_0132_0011_0003$$$"
+    },
+    {
+      "en": "\"You're joking. Why do I have to wear a servant's clothes as the head of the Tohsaka household!?\"[lr]",
+      "jp": "「冗談でしょう。遠坂の当主であるわたしが、どうして、使用人の服を、着なきゃいけないってのよっ！」[lr]",
+      "Pt-br": "\"Você está brincando. Por que eu tenho que usar roupas de empregada sendo a líder da família Tohsaka!?\"[lr]",
+      "id": 20915,
+      "epk_id": "17637",
+      "label": "$$$message_0132_0012_0000$$$"
+    },
+    {
+      "en": "I get yelled at.[lr]",
+      "jp": "　怒られた。[lr]",
+      "Pt-br": "Levo uma bronca.[lr]",
+      "id": 20916,
+      "epk_id": "17638",
+      "label": "$$$message_0132_0012_0001$$$"
+    },
+    {
+      "en": "That seems to be her pride that she can't give up.[lr]",
+      "jp": "　そのヘン、譲れないプライドがあるらしい。[lr]",
+      "Pt-br": "Parece que isso é o seu orgulho que ela não pode abandonar.[lr]",
+      "id": 20917,
+      "epk_id": "17639",
+      "label": "$$$message_0132_0012_0002$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「…………」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 20918,
+      "epk_id": "17640",
+      "label": "$$$message_0132_0012_0003$$$"
+    },
+    {
+      "en": "I don't care about the rest as long as she looks good in it.",
+      "jp": "　俺なんかは、似合ってさえいれば後はどうでもいいんだが。",
+      "Pt-br": "Não me importo com o resto, desde que ela fique bem com a roupa.",
+      "id": 20919,
+      "epk_id": "17641",
+      "label": "$$$message_0132_0012_0004$$$"
+    },
+    {
+      "en": "\"...But, yeah. Clothes are to be worn.[lr]",
+      "jp": "「……でも、そうね。服は着せてこそ華だし。[lr]",
+      "Pt-br": "\"...Mas, é. Roupas são para serem usadas.[lr]",
+      "id": 20920,
+      "epk_id": "17642",
+      "label": "$$$message_0132_0013_0000$$$"
+    },
+    {
+      "en": "If I had a choice, I would want Saber to wear it, I think.\"[lr]",
+      "jp": "　どうせならセイバーに着せてみたいかな、なんとなく」[lr]",
+      "Pt-br": "Se eu tivesse escolha, acho que gostaria que a Saber a vestisse.\"[lr]",
+      "id": 20921,
+      "epk_id": "17643",
+      "label": "$$$message_0132_0013_0001$$$"
+    },
+    {
+      "en": "\"Huh... Saber? That's also...\"[lr]",
+      "jp": "「え……セイバーにか？　それもまた……」[lr]",
+      "Pt-br": "\"Hã... A Saber? Isso também...\"[lr]",
+      "id": 20922,
+      "epk_id": "17644",
+      "label": "$$$message_0132_0013_0002$$$"
+    },
+    {
+      "en": "I'm not sure whether she would look good in it or not.[lr]",
+      "jp": "　似合うような、似合わないような。[lr]",
+      "Pt-br": "Não tenho certeza se ficaria bem nela ou não.[lr]",
+      "id": 20923,
+      "epk_id": "17645",
+      "label": "$$$message_0132_0013_0003$$$"
+    },
+    {
+      "en": "No, first of all, she'll probably get more mad than Tohsaka.[lr]",
+      "jp": "　いや、そもそも遠坂以上に怒りそうだ。[lr]",
+      "Pt-br": "Não, antes de mais nada, ela provavelmente ficaria mais brava que a Tohsaka.[lr]",
+      "id": 20924,
+      "epk_id": "17646",
+      "label": "$$$message_0132_0013_0004$$$"
+    },
+    {
+      "en": "Saying, \"What are you and Rin making me wear!?\"[lr]",
+      "jp": "　シロウも凛も私に何を着せるのですかっ、と。[lr]",
+      "Pt-br": "Dizendo: \"O que você e a Rin estão me fazendo vestir!?\"[lr]",
+      "id": 20925,
+      "epk_id": "17647",
+      "label": "$$$message_0132_0013_0005$$$"
+    },
+    {
+      "en": "But that is...",
+      "jp": "　しかしそれは[line len=3]",
+      "Pt-br": "Mas isso é...",
+      "id": 20926,
+      "epk_id": "17648",
+      "label": "$$$message_0132_0013_0006$$$"
+    },
+    {
+      "en": "\"She's a Servant, so a Maid Servant?\"[lr]",
+      "jp": "「サーヴァントだからメイドサーヴァント、と？」[lr]",
+      "Pt-br": "\"Ela é uma Serva (Servant), então seria uma Maid Servant?\"[lr]",
+      "id": 20927,
+      "epk_id": "17649",
+      "label": "$$$message_0132_0014_0000$$$"
+    },
+    {
+      "en": "\"Yeah, it's a bit cliché, so I was trying not to say it, but I'm relieved that you said it just as I expected.\"",
+      "jp": "「うん、ちょっとベタだから言わないようにしてたけど、予想通り言ってくれて安心したわ」",
+      "Pt-br": "\"É, isso é um pouco clichê, então eu estava tentando não dizer, mas estou aliviada que você disse bem como eu esperava.\"",
+      "id": 20928,
+      "epk_id": "17650",
+      "label": "$$$message_0132_0014_0001$$$"
+    },
+    {
+      "en": "...Just as expected, huh?[lr]",
+      "jp": "　[line len=3]予想通り、だったのか。[lr]",
+      "Pt-br": "...Como você esperava, né?[lr]",
+      "id": 20929,
+      "epk_id": "17651",
+      "label": "$$$message_0132_0015_0000$$$"
+    },
+    {
+      "en": "I almost hug my knees and start sulking, but I suggest another candidate to wear the maid outfit without getting discouraged.",
+      "jp": "　膝を抱えて[ruby text=じゅうたん char=2]絨毯にのの字を書きそうになるが、いじけずに他のメイド服着用候補を口にする。",
+      "Pt-br": "Quase abraço meus joelhos e começo a ficar emburrado, mas sugiro outra candidata para vestir a roupa de empregada sem desanimar.",
+      "id": 20930,
+      "epk_id": "17652",
+      "label": "$$$message_0132_0015_0001$$$"
+    },
+    {
+      "en": "\"If you won't wear it, then what about Sakura?\"[lr]",
+      "jp": "「遠坂が着ないのなら、桜とか」[lr]",
+      "Pt-br": "\"Se você não vai vestir, então e a Sakura?\"[lr]",
+      "id": 20931,
+      "epk_id": "17653",
+      "label": "$$$message_0132_0016_0000$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「[line len=4]」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 20932,
+      "epk_id": "17654",
+      "label": "$$$message_0132_0016_0001$$$"
+    },
+    {
+      "en": "Why are you making such a serious face?[lr]",
+      "jp": "　なんでそんなに深刻な顔をする？[lr]",
+      "Pt-br": "Por que você está fazendo uma cara tão séria?[lr]",
+      "id": 20933,
+      "epk_id": "17655",
+      "label": "$$$message_0132_0016_0002$$$"
+    },
+    {
+      "en": "I thought she would say things like, \"What are you trying to make my little sister wear!?\" Or like, \"You shameless idiot Senpai!\"",
+      "jp": "　わたしの妹にその服でなにさせる気よ、この恥知らずのバカ先輩が、と注意されると思ったのだが……。",
+      "Pt-br": "Achei que ela diria coisas como: \"O que você está tentando fazer a minha irmãzinha vestir!?\" Ou como: \"Seu Senpai idiota e sem vergonha!\"",
+      "id": 20934,
+      "epk_id": "17656",
+      "label": "$$$message_0132_0016_0003$$$"
+    },
+    {
+      "en": "\"That girl seems like she would gladly wear it... And call you master... [cacheimage storage=凛私服11f(中)][wvl][chgfg time=300 storage=凛私服11f(中) textoff=0]How dangerous, I can't show this to Sakura...\"[lr]",
+      "jp": "「あの娘だったら喜んで着そうね……それで士郎を旦那さまとか……[cacheimage storage=凛私服11f(中)][wvl][chgfg time=300 storage=凛私服11f(中) textoff=0]危ないわね、これは桜には見せちゃいけないわ……」[lr]",
+      "Pt-br": "\"Aquela garota parece que vestiria de bom grado... E te chamaria de mestre... [cacheimage storage=凛私服11f(中)][wvl][chgfg time=300 storage=凛私服11f(中) textoff=0]Que perigo, não posso mostrar isso para a Sakura...\"[lr]",
+      "id": 20935,
+      "epk_id": "17657",
+      "label": "$$$message_0132_0017_0000$$$"
+    },
+    {
+      "en": "...A shameless, no-good big sister that mutters in a quiet voice.",
+      "jp": "　……ぶつぶつと小声で呟く恥知らずのダメ姉貴。",
+      "Pt-br": "...Uma irmãzona sem vergonha e nada boa que murmura em voz baixa.",
+      "id": 20936,
+      "epk_id": "17658",
+      "label": "$$$message_0132_0017_0001$$$"
+    },
+    {
+      "en": "\"What do you mean by 'master'? There's no way Sakura would do something like that.\"[lr]",
+      "jp": "「旦那さまって、なんだそれ。桜がそんなコトするワケないだろ」[lr]",
+      "Pt-br": "\"Como assim 'mestre'? Não tem como a Sakura fazer algo assim.\"[lr]",
+      "id": 20937,
+      "epk_id": "17659",
+      "label": "$$$message_0132_0018_0000$$$"
+    },
+    {
+      "en": "\"Huh? Oh, did you hear me...?[cacheimage storage=凛私服13a(中)][wvl][chgfg storage=凛私服13a(中) time=300 textoff=0] Ahahahaha.\"",
+      "jp": "「え？　あ、聞こえちゃった……？[cacheimage storage=凛私服13a(中)][wvl][chgfg storage=凛私服13a(中) time=300 textoff=0]　あはははは」",
+      "Pt-br": "\"Hã? Ah, você me ouviu...?[cacheimage storage=凛私服13a(中)][wvl][chgfg storage=凛私服13a(中) time=300 textoff=0] Ahahahaha.\"",
+      "id": 20938,
+      "epk_id": "17660",
+      "label": "$$$message_0132_0018_0001$$$"
+    },
+    {
+      "en": "\"...Well, it's fine. If Sakura won't work, then Rider's up next.[lr]",
+      "jp": "「……いいけど。じゃあ次、桜が駄目ならライダーだ。[lr]",
+      "Pt-br": "\"...Bem, tudo bem. Se a Sakura não der certo, a próxima é a Rider.[lr]",
+      "id": 20939,
+      "epk_id": "17661",
+      "label": "$$$message_0132_0019_0000$$$"
+    },
+    {
+      "en": "Temperament and looks wise, I feel like it would suit her well.\"[lr]",
+      "jp": "　気性といい外見といい、すごく似合う気がする」[lr]",
+      "Pt-br": "Em termos de temperamento e aparência, sinto que combinaria bem com ela.\"[lr]",
+      "id": 20940,
+      "epk_id": "17662",
+      "label": "$$$message_0132_0019_0001$$$"
+    },
+    {
+      "en": "\"...That's also so perfect that it's scary.\"[lr]",
+      "jp": "「[line len=3]申し分無さ過ぎて怖いわね、それもまた」[lr]",
+      "Pt-br": "\"...Isso também é tão perfeito que chega a ser assustador.\"[lr]",
+      "id": 20941,
+      "epk_id": "17663",
+      "label": "$$$message_0132_0019_0002$$$"
+    },
+    {
+      "en": "If it's the reserved and devoted Rider, I feel like being a maid with Sakura as her mistress would totally fit her.[lr]",
+      "jp": "　あの控えめで献身的なライダーなら、桜お嬢様付きの侍女ってスタイルが完璧に似合う気がする。[lr]",
+      "Pt-br": "Por ser a Rider, reservada e devota, sinto que ser uma empregada com a Sakura como sua senhora combinaria totalmente com ela.[lr]",
+      "id": 20942,
+      "epk_id": "17664",
+      "label": "$$$message_0132_0019_0003$$$"
+    },
+    {
+      "en": "Since she's not particular about clothes, I feel like Rider wouldn't hesitate to wear the maid outfit.",
+      "jp": "　服に拘りのないライダーはメイド服を見ても抵抗なく袖を通しそうだ。",
+      "Pt-br": "Como não é exigente com roupas, sinto que a Rider não hesitaria em vestir a roupa de empregada.",
+      "id": 20943,
+      "epk_id": "17665",
+      "label": "$$$message_0132_0019_0004$$$"
+    },
+    {
+      "en": "\"But Rider... Even though she looks like that, she likes to play with fire so situation wise... Hmm...\"[lr]",
+      "jp": "「でもライダーも……ああ見えて火遊び好きでシチュエーション的に……うーん……」[lr]",
+      "Pt-br": "\"Mas a Rider... Mesmo parecendo assim, ela gosta de brincar com fogo, então no que se refere a situações... Hmm...\"[lr]",
+      "id": 20944,
+      "epk_id": "17666",
+      "label": "$$$message_0132_0020_0000$$$"
+    },
+    {
+      "en": "\"I can't understand your muttering at all.[lr]",
+      "jp": "「さっきからおまえの呟きがまったく理解できないんだが。[lr]",
+      "Pt-br": "\"Não consigo entender os seus murmúrios de jeito nenhum.[lr]",
+      "id": 20945,
+      "epk_id": "17667",
+      "label": "$$$message_0132_0020_0001$$$"
+    },
+    {
+      "en": "That aside, the one who's left that would look good in it is...\"",
+      "jp": "　それはともかく、あと似合うといったら……」",
+      "Pt-br": "Deixando isso de lado, a única pessoa que resta e que ficaria bem nisso é...\"",
+      "id": 20946,
+      "epk_id": "17668",
+      "label": "$$$message_0132_0020_0002$$$"
+    },
+    {
+      "en": "\"Ahahahahahaha!\"[lr]",
+      "jp": "「あはははははは！」[lr]",
+      "Pt-br": "\"Ahahahahahaha!\"[lr]",
+      "id": 20947,
+      "epk_id": "17669",
+      "label": "$$$message_0132_0021_0000$$$"
+    },
+    {
+      "en": "Tohsaka suddenly laughs out loud.[lr]",
+      "jp": "　突如爆笑する遠坂。[lr]",
+      "Pt-br": "A Tohsaka começa a rir alto de repente.[lr]",
+      "id": 20948,
+      "epk_id": "17670",
+      "label": "$$$message_0132_0021_0001$$$"
+    },
+    {
+      "en": "It seems like the person that popped up in our heads is the same person, but her reaction is the complete opposite of mine.",
+      "jp": "　脳裏に浮かんだ人物は同じだったようだが、その反応は俺とは正反対だった。",
+      "Pt-br": "Parece que a pessoa que nos veio à mente é a mesma, mas a reação dela é o completo oposto da minha.",
+      "id": 20949,
+      "epk_id": "17671",
+      "label": "$$$message_0132_0021_0002$$$"
+    },
+    {
+      "en": "\"That's hilarious! Ms. Fujimura might be overjoyed![lr]",
+      "jp": "「傑作よそれ、藤村先生は大喜びかもねー！[lr]",
+      "Pt-br": "\"Isso é hilário! A Fujimura-sensei pode ficar radiante![lr]",
+      "id": 20950,
+      "epk_id": "17672",
+      "label": "$$$message_0132_0022_0000$$$"
+    },
+    {
+      "en": "She'll probably go to school like that. And, you'll have to do your best to explain why she's in a maid outfit!\"[lr]",
+      "jp": "　きっとそのまま学校に出てくるわ。それで、なぜ先生がメイド服なのか衛宮くんが一生懸命説明するのよ！」[lr]",
+      "Pt-br": "Ela provavelmente iria para a escola assim. E Emiya-kun teria que se esforçar ao máximo para explicar o porquê de ela estar com roupa de empregada, Sensei!\"[lr]",
+      "id": 20951,
+      "epk_id": "17673",
+      "label": "$$$message_0132_0022_0001$$$"
+    },
+    {
+      "en": "She really talks like she's having fun.[lr]",
+      "jp": "　実に楽しそうに語るなぁ。[lr]",
+      "Pt-br": "Ela fala como se realmente estivesse se divertindo.[lr]",
+      "id": 20952,
+      "epk_id": "17674",
+      "label": "$$$message_0132_0022_0002$$$"
+    },
+    {
+      "en": "...But, I'm also starting to feel like that'll happen.",
+      "jp": "　……けど、俺もそんな気がしてきたなぁ。",
+      "Pt-br": "...Mas também estou começando a sentir que isso vai acontecer.",
+      "id": 20953,
+      "epk_id": "17675",
+      "label": "$$$message_0132_0022_0003$$$"
+    },
+    {
+      "en": "\"...It was stupid of me to think that it would be good for a moment.[lr]",
+      "jp": "「……一瞬でもいいと思った俺がバカだった。[lr]",
+      "Pt-br": "\"...Foi idiotice minha achar por um momento que isso seria uma boa ideia.[lr]",
+      "id": 20954,
+      "epk_id": "17676",
+      "label": "$$$message_0132_0023_0000$$$"
+    },
+    {
+      "en": "This has to be absolutely off-limits for Fuji-nee.\"[lr]",
+      "jp": "　これは、藤ねえには絶対禁止だ」[lr]",
+      "Pt-br": "Isso tem que ser absolutamente proibido para a Fuji-nee.\"[lr]",
+      "id": 20955,
+      "epk_id": "17677",
+      "label": "$$$message_0132_0023_0001$$$"
+    },
+    {
+      "en": "\"Yes, I would be troubled if I saw Ms. Fujimura like that at school, too. The sight of her in that outfit would make my abs hurt from laughing too much.[lr]",
+      "jp": "「ええ、わたしも学校でそんな藤村先生に会ったら困るわ。腹筋つかれるし。[lr]",
+      "Pt-br": "\"É, eu ficaria em apuros se visse a Fujimura-sensei assim na escola, também. Vê-la com essa roupa faria meu abdômen doer de tanto rir.[lr]",
+      "id": 20956,
+      "epk_id": "17678",
+      "label": "$$$message_0132_0023_0002$$$"
+    },
+    {
+      "en": "But, it's certain that we can play a lot with this.\"",
+      "jp": "　けど、これで色々遊べそうなことは確かね」",
+      "Pt-br": "Mas é certo que podemos brincar bastante com isso.\"",
+      "id": 20957,
+      "epk_id": "17679",
+      "label": "$$$message_0132_0023_0003$$$"
+    },
+    {
+      "en": "Tohsaka picks up the maid outfit from the bed.[lr]",
+      "jp": "　ベッドの上のメイド服を取り上げる遠坂。[lr]",
+      "Pt-br": "Tohsaka pega a roupa de empregada da cama.[lr]",
+      "id": 20958,
+      "epk_id": "17680",
+      "label": "$$$message_0132_0024_0000$$$"
+    },
+    {
+      "en": "She must mean that she'll put it away without disposing of it.[lr]",
+      "jp": "　処分せずにしまっておく、という事なんだろう。[lr]",
+      "Pt-br": "Isso deve significar que ela a guardará sem descartá-la.[lr]",
+      "id": 20959,
+      "epk_id": "17681",
+      "label": "$$$message_0132_0024_0001$$$"
+    },
+    {
+      "en": "But, I can't help but think about it when I see it...",
+      "jp": "　しかし、やっぱり見てしまうと気になる……",
+      "Pt-br": "Mas eu não consigo evitar pensar sobre isso quando a vejo...",
+      "id": 20960,
+      "epk_id": "17682",
+      "label": "$$$message_0132_0024_0002$$$"
+    },
+    {
+      "en": "\"...Heheheheh.\"[lr]",
+      "jp": "「[line len=3]ふふふん」[lr]",
+      "Pt-br": "\"...Heheheheh.\"[lr]",
+      "id": 20961,
+      "epk_id": "17683",
+      "label": "$$$message_0132_0025_0000$$$"
+    },
+    {
+      "en": "\"W-What is it, Tohsaka?\"[lr]",
+      "jp": "「な、なんだよ遠坂」[lr]",
+      "Pt-br": "\"O-o que foi, Tohsaka?\"[lr]",
+      "id": 20962,
+      "epk_id": "17684",
+      "label": "$$$message_0132_0025_0001$$$"
+    },
+    {
+      "en": "\"Do you want to see me wear it after all?\"[lr]",
+      "jp": "「やっぱりわたしが着てるのを見たい？」[lr]",
+      "Pt-br": "\"Você afinal quer me ver vestindo isso?\"[lr]",
+      "id": 20963,
+      "epk_id": "17685",
+      "label": "$$$message_0132_0025_0002$$$"
+    },
+    {
+      "en": "\"Hrk...\"[lr]",
+      "jp": "「っ[line len=3]」[lr]",
+      "Pt-br": "\"Hrk...\"[lr]",
+      "id": 20964,
+      "epk_id": "17686",
+      "label": "$$$message_0132_0025_0003$$$"
+    },
+    {
+      "en": "There's no way I wouldn't want to see it.[lr]",
+      "jp": "　見たくないワケがないっ。[lr]",
+      "Pt-br": "Não tem como eu não querer ver.[lr]",
+      "id": 20965,
+      "epk_id": "17687",
+      "label": "$$$message_0132_0025_0004$$$"
+    },
+    {
+      "en": "But, it makes me hesitate to say that in a loud voice.[lr]",
+      "jp": "　が、大声で主張するのも[ruby text=はばか]憚られる。[lr]",
+      "Pt-br": "Mas hesito em dizer isso em voz alta.[lr]",
+      "id": 20966,
+      "epk_id": "17688",
+      "label": "$$$message_0132_0025_0005$$$"
+    },
+    {
+      "en": "...Also, who knows what she'll ask for in return if I become indebted to her?",
+      "jp": "　……あと、そんな借りを作ったらどんな見返りを求められるか。",
+      "Pt-br": "...Além disso, quem sabe o que ela pedirá em troca se eu ficar em dívida com ela?",
+      "id": 20967,
+      "epk_id": "17689",
+      "label": "$$$message_0132_0025_0006$$$"
+    },
+    {
+      "en": "\"But, well... I still want to see it, I think.\"[lr]",
+      "jp": "「でも、まあ……それでも見たい、かな」[lr]",
+      "Pt-br": "\"Mas, bem... Acho que eu ainda quero ver isso.\"[lr]",
+      "id": 20968,
+      "epk_id": "17690",
+      "label": "$$$message_0132_0026_0000$$$"
+    },
+    {
+      "en": "\"Good boy, I shall reward you someday for being honest...\"[lr]",
+      "jp": "「えらいえらい、正直者の衛宮くんにはいつかご褒美をあげましょう[line len=3]っと」[lr]",
+      "Pt-br": "\"Bom garoto, eu te recompensarei algum dia por ser honesto, Emiya-kun...\"[lr]",
+      "id": 20969,
+      "epk_id": "17691",
+      "label": "$$$message_0132_0026_0001$$$"
+    },
+    {
+      "en": "She closes the closet and the maid outfit disappears into the darkness.[lr]",
+      "jp": "　ばたん、とクローゼットが閉じて、暗闇の中にメイド服は消えていった。[lr]",
+      "Pt-br": "Ela fecha o armário e a roupa de empregada desaparece na escuridão.[lr]",
+      "id": 20970,
+      "epk_id": "17692",
+      "label": "$$$message_0132_0026_0002$$$"
+    },
+    {
+      "en": "Ahh... Goodbye, the one other great possibility.",
+      "jp": "　ああ……さよなら、もう一つの偉大なる可能性。",
+      "Pt-br": "Aah... Adeus, a única outra grande possibilidade.",
+      "id": 20971,
+      "epk_id": "17693",
+      "label": "$$$message_0132_0026_0003$$$"
+    },
+    {
+      "en": "\"All right, all done.\"[lr]",
+      "jp": "「さ、これでおしまいっと」[lr]",
+      "Pt-br": "\"Certo, tudo pronto.\"[lr]",
+      "id": 20972,
+      "epk_id": "17694",
+      "label": "$$$message_0132_0027_0000$$$"
+    },
+    {
+      "en": "\"Tsk, good work.[lr]",
+      "jp": "「ちぇっ、ご苦労さまでしたーだ。[lr]",
+      "Pt-br": "\"Tsk, bom trabalho.[lr]",
+      "id": 20973,
+      "epk_id": "17695",
+      "label": "$$$message_0132_0027_0001$$$"
+    },
+    {
+      "en": "...Oh yeah. There was a part I didn't get in the textbook I was reading downstairs.\"[lr]",
+      "jp": "　……と、そうだ。下で読んでたテキストで判らないところがあったんだ」[lr]",
+      "Pt-br": "...Ah é. Teve uma parte que não entendi no livro que eu estava lendo lá embaixo.\"[lr]",
+      "id": 20974,
+      "epk_id": "17696",
+      "label": "$$$message_0132_0027_0002$$$"
+    },
+    {
+      "en": "\"Oh, I have time, so I'll teach you.[lr]",
+      "jp": "「あらそう、時間もあるから教えてあげるわよ。[lr]",
+      "Pt-br": "\"Oh, eu tenho tempo, então vou te ensinar.[lr]",
+      "id": 20975,
+      "epk_id": "17697",
+      "label": "$$$message_0132_0027_0003$$$"
+    },
+    {
+      "en": "Bring it here.\"[lr]",
+      "jp": "　こっちに持ってきなさい」[lr]",
+      "Pt-br": "Traga para cá.\"[lr]",
+      "id": 20976,
+      "epk_id": "17698",
+      "label": "$$$message_0132_0027_0004$$$"
+    },
+    {
+      "en": "\"Thanks, Tohsaka. Looking forward to your guidance as always...\"",
+      "jp": "「さんきゅ、遠坂。じゃ、いつもの指導、よろしくお願いします、と[line len=3]」",
+      "Pt-br": "\"Obrigado, Tohsaka. Esperando por sua orientação como sempre...\"",
+      "id": 20977,
+      "epk_id": "17699",
+      "label": "$$$message_0132_0027_0005$$$"
+    },
+    {
+      "en": "\"That's hilarious! Ms. Fujimura might be overjoyed!\"",
+      "jp": "「傑作よそれ、藤村先生は大喜びかもねー！」:\u0004q",
+      "Pt-br": "\"Isso é hilário! A Fujimura-sensei pode ficar radiante!\"",
+      "id": 20978,
+      "epk_id": "917672",
+      "label": "$$$message_9132_0022_0000$$$"
+    }
+  ]
+}

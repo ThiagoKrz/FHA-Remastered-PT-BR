@@ -1,0 +1,920 @@
+{
+  "cena": "1quacuji991hqrduv0klhrijl7",
+  "titulo": "Escola: Vamos Almoçar!",
+  "rota": "Dia 1",
+  "arquivo": "1quacuji991hqrduv0klhrijl7.epk_dec",
+  "linhas": [
+    {
+      "en": "\"Emiya, let's have lunch.\"[lr]",
+      "jp": "「衛宮ー、昼にしようぜー」[lr]",
+      "Pt-br": "\"Emiya, vamos almoçar juntos.\"[lr]",
+      "id": 7130,
+      "epk_id": "11089",
+      "label": "$$$message_0088_0000_0000$$$"
+    },
+    {
+      "en": "I don't know if something strange happened to him, but Shinji invited me to have lunch.[lr]",
+      "jp": "　何か不思議なコトでもあったのか、慎二が昼食の誘いに来たのコト。[lr]",
+      "Pt-br": "Não sei se aconteceu alguma coisa estranha com ele, mas Shinji me convidou para almoçar.[lr]",
+      "id": 7131,
+      "epk_id": "11090",
+      "label": "$$$message_0088_0000_0001$$$"
+    },
+    {
+      "en": "It's sudden, but it happens a few times a year so it's not that surprising.",
+      "jp": "　突然のコトだが、年に数回はこういうコトがあるので驚くほどのコトでもない。",
+      "Pt-br": "Foi do nada, mas isso acontece algumas vezes por ano, então não chega a ser surpresa.",
+      "id": 7132,
+      "epk_id": "11091",
+      "label": "$$$message_0088_0000_0002$$$"
+    },
+    {
+      "en": "\"Sure, but I have lunch.[lr]",
+      "jp": "「いいけど、俺弁当だぞ。[lr]",
+      "Pt-br": "\"Claro, mas eu trouxe almoço.[lr]",
+      "id": 7133,
+      "epk_id": "11092",
+      "label": "$$$message_0088_0001_0000$$$"
+    },
+    {
+      "en": "What about you? Are you going to go buy something?\"[lr]",
+      "jp": "　慎二は？　購買いってパン買ってくるか？」[lr]",
+      "Pt-br": "E você? Vai comprar alguma coisa?\"[lr]",
+      "id": 7134,
+      "epk_id": "11093",
+      "label": "$$$message_0088_0001_0001$$$"
+    },
+    {
+      "en": "\"Buying something, huh? Nah, I'm not in the mood for cheap deli crap. Either the cafeteria, or better yet, do you want to go out to eat?\"[lr]",
+      "jp": "「購買かあ。いや、安っぽい総菜パンって気分じゃないね。学食か、いっそ外まで食べに行かない？」[lr]",
+      "Pt-br": "\"Comprar? Nem pensar. Hoje não estou a fim daquela porcaria barata da cantina. Podemos ir ao refeitório ou, melhor ainda, que tal comer fora?\"[lr]",
+      "id": 7135,
+      "epk_id": "11094",
+      "label": "$$$message_0088_0001_0002$$$"
+    },
+    {
+      "en": "By \"out,\" he must mean the Miyama shopping district.[lr]",
+      "jp": "　外、と言ったら深山の商店街か。[lr]",
+      "Pt-br": "Por \"fora\", ele deve estar falando do distrito comercial de Miyama.[lr]",
+      "id": 7136,
+      "epk_id": "11095",
+      "label": "$$$message_0088_0001_0003$$$"
+    },
+    {
+      "en": "It sounds reckless, but we should be able to make it back by fifth period if we hurry.",
+      "jp": "　無謀にも聞こえるが、急げば五時限目に間に合わないコトもない。",
+      "Pt-br": "Parece uma ideia imprudente, mas, se nos apressarmos, devemos voltar a tempo da quinta aula.",
+      "id": 7137,
+      "epk_id": "11096",
+      "label": "$$$message_0088_0001_0004$$$"
+    },
+    {
+      "en": "\"...Why not. I made my lunch, so I can give it to Gotou as a token of my appreciation.\"[lr]",
+      "jp": "「……たまにはいいかな。今日の弁当は俺が作ったもんだし、弁当は日頃のお礼をかねて後藤くんに貰ってもらえばいいし」[lr]",
+      "Pt-br": "\"...Por que não? Eu preparei meu almoço, então posso dá-lo ao Gotou-kun como agradecimento.\"[lr]",
+      "id": 7138,
+      "epk_id": "11097",
+      "label": "$$$message_0088_0002_0000$$$"
+    },
+    {
+      "en": "\"Oh, you're fast for once! All right, I'll introduce a special restaurant to you out of respect for your quick deference. I found this good pasta place near my work.\"",
+      "jp": "「お、珍しく話が早いじゃんか！　よし、その素直さに免じて今日はとっておきの店を紹介してやるよ。バイト先の近くに美味しいパスタ屋を見つけてさぁ」",
+      "Pt-br": "\"Ora, até que enfim você decidiu rápido! Muito bem, em respeito à sua prontidão, vou lhe mostrar um restaurante especial. Descobri um ótimo lugar de massas perto do meu trabalho.\"",
+      "id": 7139,
+      "epk_id": "11098",
+      "label": "$$$message_0088_0002_0001$$$"
+    },
+    {
+      "en": "\"Huh? Wait, we won't make it back to class on time if we go all the way to Shinto. Let's go to the shopping district in Miyama.\"[lr]",
+      "jp": "「？　待った、新都まで行ってたら授業に間に合わないぞ。深山の商店街にしておこうぜ」[lr]",
+      "Pt-br": "\"Hã? Espere, não vamos voltar a tempo se formos até Shinto. Vamos ao distrito comercial de Miyama.\"[lr]",
+      "id": 7140,
+      "epk_id": "11099",
+      "label": "$$$message_0088_0003_0000$$$"
+    },
+    {
+      "en": "\"We can just ditch. You have enough credits, right?\"",
+      "jp": "「そんなのサボッちゃえばいいじゃん。単位足りてるだろ？」",
+      "Pt-br": "\"É só matar aula. Você já tem créditos de sobra, não tem?\"",
+      "id": 7141,
+      "epk_id": "11100",
+      "label": "$$$message_0088_0003_0001$$$"
+    },
+    {
+      "en": "He pesters me like there's no time to waste.[lr]",
+      "jp": "　行こうぜ行こうぜ、と待ったなしでせがまれる。[lr]",
+      "Pt-br": "Ele insiste como se não houvesse um segundo a perder.[lr]",
+      "id": 7142,
+      "epk_id": "11101",
+      "label": "$$$message_0088_0004_0000$$$"
+    },
+    {
+      "en": "...I have my reservations, but there's just something irresistible about the phrase \"good pasta.\"[lr]",
+      "jp": "　……抵抗はあるが、美味しいパスタ、というフレーズは聞き捨てならない。[lr]",
+      "Pt-br": "...Tenho minhas ressalvas, mas há algo irresistível nas palavras \"ótimo lugar de massas\".[lr]",
+      "id": 7143,
+      "epk_id": "11102",
+      "label": "$$$message_0088_0004_0001$$$"
+    },
+    {
+      "en": "Shinji, who is fussy about food, is going out of his way to bring this up. I might be able to discover a[line len=2]",
+      "jp": "　味にうるさい慎二がここまで言うんだから、何か発見があるかも[line len=3]",
+      "Pt-br": "Shinji é exigente com comida e fez questão de tocar no assunto. Talvez eu descubra um[line len=2]",
+      "id": 7144,
+      "epk_id": "11103",
+      "label": "$$$message_0088_0004_0002$$$"
+    },
+    {
+      "en": "\"You cretin! It isn't enough that you wallow in your own corruption, but you see fit to spread it further!\"[lr]",
+      "jp": "「たわけっ！　自分だけでは飽きたらず学友まで堕落させようとは見下げ果てたぞ間桐！」[lr]",
+      "Pt-br": "\"Seu cretino! Não basta chafurdar na própria corrupção, ainda pretende espalhá-la aos outros!\"[lr]",
+      "id": 7145,
+      "epk_id": "11104",
+      "label": "$$$message_0088_0005_0000$$$"
+    },
+    {
+      "en": "Issei must've been eavesdropping on us as he swoops in on our conversation like an embodiment of justice.",
+      "jp": "　と。後ろで話を（盗み）聞いていた一成が、正義の化身の如く割って入った。",
+      "Pt-br": "Issei devia estar ouvindo nossa conversa às escondidas, pois irrompe nela como a própria encarnação da justiça.",
+      "id": 7146,
+      "epk_id": "11105",
+      "label": "$$$message_0088_0005_0001$$$"
+    },
+    {
+      "en": "\"What now, Ryudou? Where we eat is none of your business. Mind your own business and we'll do as we see fit.\"[lr]",
+      "jp": "「なんだよ柳洞。ボクたちが何処で昼食をとるかなんておまえに関係ないだろ。部外者は黙ってろよ、部外者は」[lr]",
+      "Pt-br": "\"O que foi agora, Ryuudou? Onde vamos comer não é da sua conta. Cuide da própria vida e nós faremos o que bem entendermos.\"[lr]",
+      "id": 7147,
+      "epk_id": "11106",
+      "label": "$$$message_0088_0006_0000$$$"
+    },
+    {
+      "en": "\"This does concern me. I cannot sit by while a friend is deceived[line len=2]no, [font italic=true]seduced[font italic=false] even[line len=2]by a bad influence of a friend. It is only natural I protect him.[lr]",
+      "jp": "「関係はある。学友が悪友にいいように[ruby text=たぶら]誑かされ、素行を乱そうとしているのだ。注意をするのは当然だろう。[lr]",
+      "Pt-br": "\"É da minha conta, sim. Não posso ficar de braços cruzados enquanto um amigo é enganado[line len=2]não, até [font italic=true]seduzido[font italic=false][line len=2]pela má influência de outro. É natural que eu o proteja.[lr]",
+      "id": 7148,
+      "epk_id": "11107",
+      "label": "$$$message_0088_0006_0001$$$"
+    },
+    {
+      "en": "And besides, I'm the one who made plans with Emiya first. Right, Emiya?\"",
+      "jp": "　だいたいだな、衛宮と約束をしたのはこちらが先なのだ。そうだろう衛宮？」",
+      "Pt-br": "Além disso, fui eu quem combinou de almoçar com Emiya primeiro. Não é, Emiya?\"",
+      "id": 7149,
+      "epk_id": "11108",
+      "label": "$$$message_0088_0006_0002$$$"
+    },
+    {
+      "en": "\"Huh... Sorry, I don't recall...\"[lr]",
+      "jp": "「え……わるい、覚えがない……けど」[lr]",
+      "Pt-br": "\"Hã...? Desculpe, não me lembro...\"[lr]",
+      "id": 7150,
+      "epk_id": "11109",
+      "label": "$$$message_0088_0007_0000$$$"
+    },
+    {
+      "en": "Though, if Issei says so, it must be true.[lr]",
+      "jp": "　けど、一成がそう言うからにはそうなのだろう。[lr]",
+      "Pt-br": "Mas, se Issei está dizendo, deve ser verdade.[lr]",
+      "id": 7151,
+      "epk_id": "11110",
+      "label": "$$$message_0088_0007_0001$$$"
+    },
+    {
+      "en": "Lately, I can't remember things clearly.[lr]",
+      "jp": "　ここ最近、どことなく記憶が曖昧になってるし。[lr]",
+      "Pt-br": "Ultimamente, minhas lembranças andam nebulosas.[lr]",
+      "id": 7152,
+      "epk_id": "11111",
+      "label": "$$$message_0088_0007_0002$$$"
+    },
+    {
+      "en": "We must've made plans at the student council room in the morning.[lr]",
+      "jp": "　きっと朝のうちに生徒会室に行く約束をしたのだ。[lr]",
+      "Pt-br": "Devemos ter combinado isso de manhã, na sala do conselho estudantil.[lr]",
+      "id": 7153,
+      "epk_id": "11112",
+      "label": "$$$message_0088_0007_0003$$$"
+    },
+    {
+      "en": "But I really don't remember anything.",
+      "jp": "　いや、ほんとに覚えはないけど。",
+      "Pt-br": "Ainda assim, não me lembro de absolutamente nada.",
+      "id": 7154,
+      "epk_id": "11113",
+      "label": "$$$message_0088_0007_0004$$$"
+    },
+    {
+      "en": "\"Right? ...Good grief, I was waiting for you to point it out, but he's extremely pushy.[lr]",
+      "jp": "「そら見たコトか。……まったく、どうせ断られるだろうと黙って聞いていれば強引なコト[ruby text=はなは]甚だしい。[lr]",
+      "Pt-br": "\"Não é? ...Francamente, eu estava esperando você se tocar, mas ele é insistente demais.[lr]",
+      "id": 7155,
+      "epk_id": "11114",
+      "label": "$$$message_0088_0008_0000$$$"
+    },
+    {
+      "en": "Let's go, Emiya. I shall get some special tea leaves out today. Some Italian place in Shinto won't even compare to them.\"[lr]",
+      "jp": "　さあ行くぞ衛宮。今日はとっておきの茶葉を出そう。新都のイタメシ屋など比較にならん」[lr]",
+      "Pt-br": "Vamos, Emiya. Hoje vou tirar umas folhas de chá especiais. Nenhum restaurante italiano de Shinto chega aos pés delas.\"[lr]",
+      "id": 7156,
+      "epk_id": "11115",
+      "label": "$$$message_0088_0008_0001$$$"
+    },
+    {
+      "en": "\"Oh.\"[lr]",
+      "jp": "「あ」[lr]",
+      "Pt-br": "\"Ah.\"[lr]",
+      "id": 7157,
+      "epk_id": "11116",
+      "label": "$$$message_0088_0008_0002$$$"
+    },
+    {
+      "en": "He pulls my arm and starts to drag me to the student council room.",
+      "jp": "　手を引かれて生徒会室へ連行される。",
+      "Pt-br": "Ele me agarra pelo braço e começa a me arrastar para a sala do conselho estudantil.",
+      "id": 7158,
+      "epk_id": "11117",
+      "label": "$$$message_0088_0008_0003$$$"
+    },
+    {
+      "en": "\"Ha, get a load of this guy.[lr]",
+      "jp": "「はぁ、なに言ってんだかね。[lr]",
+      "Pt-br": "\"Ha, vejam só este sujeito.[lr]",
+      "id": 7159,
+      "epk_id": "11118",
+      "label": "$$$message_0088_0009_0000$$$"
+    },
+    {
+      "en": "It's the usual 'come to the student council room if you're so free,' right?[lr]",
+      "jp": "　どーせ、暇なら生徒会室に来いっていつものヤツだろ？[lr]",
+      "Pt-br": "É aquele velho 'se está tão desocupado, venha à sala do conselho estudantil', não é?[lr]",
+      "id": 7160,
+      "epk_id": "11119",
+      "label": "$$$message_0088_0009_0001$$$"
+    },
+    {
+      "en": "That doesn't count as 'lunch plans.' Sounds more like an order to me. Since when is it school policy to eat in the student council room if you have nothing better to do, Mr. Student President?\"",
+      "jp": "　そんなの約束でもなんでもないよ。いや、むしろ命令に近いんじゃない？　予定がない時は生徒会室で昼食をとるコト、なんて学則いつ作ったのさ生徒会長さまは？」",
+      "Pt-br": "Isso não conta como 'combinar de almoçar'. Para mim, parece mais uma ordem. Desde quando a escola obriga quem não tem nada melhor para fazer a comer na sala do conselho estudantil, senhor presidente?\"",
+      "id": 7161,
+      "epk_id": "11120",
+      "label": "$$$message_0088_0009_0002$$$"
+    },
+    {
+      "en": "\"As if I would make such a rule![lr]",
+      "jp": "「そんな学則など誰が作るかっ。[lr]",
+      "Pt-br": "\"Como se eu fosse criar uma regra dessas![lr]",
+      "id": 7162,
+      "epk_id": "11121",
+      "label": "$$$message_0088_0010_0000$$$"
+    },
+    {
+      "en": "We agreed to have lunch in the office. Tell him, Emiya. We clearly made plans this morning.\"[lr]",
+      "jp": "　生徒会室での昼食は合意の上だ。衛宮からも言ってやれ。今朝もきちんと約束をした、と」[lr]",
+      "Pt-br": "Nós combinamos de almoçar na sala. Diga a ele, Emiya. Fizemos o acordo claramente esta manhã.\"[lr]",
+      "id": 7163,
+      "epk_id": "11122",
+      "label": "$$$message_0088_0010_0001$$$"
+    },
+    {
+      "en": "\"Huh...did we?\"[lr]",
+      "jp": "「え[line len=3]したっけ、今朝？」[lr]",
+      "Pt-br": "\"Hã...? Fizemos?\"[lr]",
+      "id": 7164,
+      "epk_id": "11123",
+      "label": "$$$message_0088_0010_0002$$$"
+    },
+    {
+      "en": "\"We did. Our eyes met at the end of homeroom period.[lr]",
+      "jp": "「した。ホームルームの終わりに目が合ったじゃないか。[lr]",
+      "Pt-br": "\"Fizemos. Nossos olhares se cruzaram ao fim da chamada.[lr]",
+      "id": 7165,
+      "epk_id": "11124",
+      "label": "$$$message_0088_0010_0003$$$"
+    },
+    {
+      "en": "Come on, we have an agreement to eat in the student council room if I cough, and if you cough, we eat in the classroom.\"",
+      "jp": "　その後に俺が咳払いをすれば生徒会室、衛宮が咳払いをすれば教室という決まりだろうに」",
+      "Pt-br": "Ora, temos um acordo: se eu tossir, comemos na sala do conselho; se você tossir, comemos na sala de aula.\"",
+      "id": 7166,
+      "epk_id": "11125",
+      "label": "$$$message_0088_0010_0004$$$"
+    },
+    {
+      "en": "He shakes his head.[lr]",
+      "jp": "　やれやれ、と首を振る。[lr]",
+      "Pt-br": "Ele balança a cabeça.[lr]",
+      "id": 7167,
+      "epk_id": "11126",
+      "label": "$$$message_0088_0011_0000$$$"
+    },
+    {
+      "en": "\"...Ah...\"[lr]",
+      "jp": "「……………………、あー……」[lr]",
+      "Pt-br": "\"...Ah...\"[lr]",
+      "id": 7168,
+      "epk_id": "11127",
+      "label": "$$$message_0088_0011_0001$$$"
+    },
+    {
+      "en": "...Sorry, I didn't realize we had such a rule for three years.[lr]",
+      "jp": "　…………申し訳ない、そんなルールがあったなんて三年間気づかなかった。[lr]",
+      "Pt-br": "...Desculpe, passei três anos sem perceber que tínhamos uma regra dessas.[lr]",
+      "id": 7169,
+      "epk_id": "11128",
+      "label": "$$$message_0088_0011_0002$$$"
+    },
+    {
+      "en": "I thought that he sometimes coughs unnaturally, but I see, so that's how he decided our meeting spot.",
+      "jp": "　ときどき不自然に咳をするなあ、とは思っていたが、そうか、そうやって決めてたんだ、待ち合わせ場所って。",
+      "Pt-br": "Eu já havia notado que às vezes ele tossia de um jeito forçado, mas entendo. Era assim que decidia nosso ponto de encontro.",
+      "id": 7170,
+      "epk_id": "11129",
+      "label": "$$$message_0088_0011_0003$$$"
+    },
+    {
+      "en": "\"...Hey.[lr]",
+      "jp": "「[line len=4]あのさ。[lr]",
+      "Pt-br": "\"...Ei.[lr]",
+      "id": 7171,
+      "epk_id": "11130",
+      "label": "$$$message_0088_0012_0000$$$"
+    },
+    {
+      "en": "I've thought this before, but are you a square, Ryudou?\"[lr]",
+      "jp": "　前からちょっと思ってたけど、柳洞って紙一重？」[lr]",
+      "Pt-br": "Já pensei nisso antes, mas você não é careta demais, Ryuudou?\"[lr]",
+      "id": 7172,
+      "epk_id": "11131",
+      "label": "$$$message_0088_0012_0001$$$"
+    },
+    {
+      "en": "\"That's rude. I don't want to be called that by you, who easily crosses the line.\"",
+      "jp": "「失礼な。たやすく突破しているおまえに言われたくはないぞ」",
+      "Pt-br": "\"Que grosseria. Não quero ouvir isso de alguém que ultrapassa os limites com tanta facilidade.\"",
+      "id": 7173,
+      "epk_id": "11132",
+      "label": "$$$message_0088_0012_0002$$$"
+    },
+    {
+      "en": "Sparks fly from both sides.[lr]",
+      "jp": "　パチパチと火花を散らす両者。[lr]",
+      "Pt-br": "Faíscas voam dos dois lados.[lr]",
+      "id": 7174,
+      "epk_id": "11133",
+      "label": "$$$message_0088_0013_0000$$$"
+    },
+    {
+      "en": "It's not showy, but it's still a tense battle.[lr]",
+      "jp": "　派手さこそないが、これはこれで手に汗にぎる戦いだ。[lr]",
+      "Pt-br": "Não é uma batalha espalhafatosa, mas a tensão não deixa de ser intensa.[lr]",
+      "id": 7175,
+      "epk_id": "11134",
+      "label": "$$$message_0088_0013_0001$$$"
+    },
+    {
+      "en": "I even want to open my lunch and enjoy the show, but then I would be the only one that would get full.",
+      "jp": "　いっそ弁当を広げて観戦したいところではあるが、それだとお腹いっぱいになるのは俺一人だけなのだった。",
+      "Pt-br": "Dá até vontade de abrir meu almoço e apreciar o espetáculo, mas assim só eu acabaria de barriga cheia.",
+      "id": 7176,
+      "epk_id": "11135",
+      "label": "$$$message_0088_0013_0002$$$"
+    },
+    {
+      "en": "\"Ah, hello, both of you?[lr]",
+      "jp": "「あー、もしもし二人とも。[lr]",
+      "Pt-br": "\"Alô? Vocês dois?[lr]",
+      "id": 7177,
+      "epk_id": "11136",
+      "label": "$$$message_0088_0014_0000$$$"
+    },
+    {
+      "en": "Lunch break isn't that long, so settle this later.[lr]",
+      "jp": "　昼休みもそう長くないんで、決着は後にしてくれ。[lr]",
+      "Pt-br": "O intervalo não é tão longo, então resolvam isso depois.[lr]",
+      "id": 7178,
+      "epk_id": "11137",
+      "label": "$$$message_0088_0014_0001$$$"
+    },
+    {
+      "en": "Why don't we just go to the cafeteria with the three of us? Shinji will give up going out to eat, and Issei will give up eating at the student council room. That will balance things out, right?\"",
+      "jp": "　要するに三人で学食行けばいいんだろ？　慎二は外食を諦めて、一成は生徒会室を諦める。それで釣り合いはとれるよな」",
+      "Pt-br": "Por que nós três não vamos ao refeitório? Shinji desiste de comer fora, e Issei desiste da sala do conselho. Assim fica equilibrado, não?\"",
+      "id": 7179,
+      "epk_id": "11138",
+      "label": "$$$message_0088_0014_0002$$$"
+    },
+    {
+      "en": "\"I refuse. I'm gonna go eat out if I say I'm eating out. [cacheimage storage=慎二制服04b(中)][wvl][chgfg textoff=0 time=300 storage=慎二制服04b(中)]Come on, I'll treat you to lunch so let's go, Emiya. Let's hit town afterwards. I have plans to go to a mixer with girls from West campus.\"[lr]",
+      "jp": "「お断りだね。外に食べに行くったら食べに行くんだよ。[cacheimage storage=慎二制服04b(中)][wvl][chgfg textoff=0 time=300 storage=慎二制服04b(中)]ほら、奢ってやるから行こうぜ衛宮。終わったらそのまま街にくりだそう。今日さ、ちょうど西校の女の子と合コンの予定が」[lr]",
+      "Pt-br": "\"Eu me recuso. Se eu disse que vou comer fora, vou comer fora. [cacheimage storage=慎二制服04b(中)][wvl][chgfg textoff=0 time=300 storage=慎二制服04b(中)]Vamos, eu pago seu almoço, Emiya. Depois damos uma volta pela cidade. Hoje tenho um encontro em grupo com umas garotas do campus Oeste.\"[lr]",
+      "id": 7180,
+      "epk_id": "11139",
+      "label": "$$$message_0088_0015_0000$$$"
+    },
+    {
+      "en": "\"Ah! I don't get you, Matou. I'm telling you not to get Emiya involved down the wrong path. Also, if you like Western food that much, just move to Western Europe forever. And don't invite Emiya to a mixer.\"",
+      "jp": "「ええい、分からんヤツだな間桐。衛宮を悪の道に巻き込むなと言っているんだ。そんなに洋食が好きなら西欧にでも永住してしまえ。あと衛宮を合コンに誘うな」",
+      "Pt-br": "\"Ah! Você não entende nada, Matou. Estou dizendo para não arrastar Emiya pelo mau caminho. E, se gosta tanto de comida ocidental, mude-se de uma vez para a Europa Ocidental. Também não convide Emiya para encontros em grupo.\"",
+      "id": 7181,
+      "epk_id": "11140",
+      "label": "$$$message_0088_0015_0001$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「………………」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 7182,
+      "epk_id": "11141",
+      "label": "$$$message_0088_0016_0000$$$"
+    },
+    {
+      "en": "It seems like my compromise won't work either.[lr]",
+      "jp": "　折衷案もダメらしい。[lr]",
+      "Pt-br": "Minha tentativa de conciliação também fracassou.[lr]",
+      "id": 7183,
+      "epk_id": "11142",
+      "label": "$$$message_0088_0016_0001$$$"
+    },
+    {
+      "en": "It seems like neither of them will budge even a micron to eat lunch with the other.",
+      "jp": "　二人とも、三人でメシを食うという選択肢は一ミクロンもなさそうだ。",
+      "Pt-br": "Nenhum dos dois parece disposto a ceder um mícron sequer para almoçar com o outro.",
+      "id": 7184,
+      "epk_id": "11143",
+      "label": "$$$message_0088_0016_0002$$$"
+    },
+    {
+      "en": "\"Whatever. Do what you want. I'm going to go eat at the cafeteria.\"[lr]",
+      "jp": "「もういい。好きにしろ。俺、学食で食べてくるから」[lr]",
+      "Pt-br": "\"Chega. Façam o que quiserem. Eu vou comer no refeitório.\"[lr]",
+      "id": 7185,
+      "epk_id": "11144",
+      "label": "$$$message_0088_0017_0000$$$"
+    },
+    {
+      "en": "\"Hold on, Emiya, that's too heartless![cacheimage storage=一成02a(中)][wvl canskip=0 time=200][chgfg textoff=0 time=300 storage=一成02a(中)] Isn't it your duty as a friend to make a clear decision?[lr]",
+      "jp": "「待て衛宮、それではあまりにも情がない！[cacheimage storage=一成02a(中)][wvl canskip=0 time=200][chgfg textoff=0 time=300 storage=一成02a(中)]　ここはキッパリと決断を下すのが友人としての責務ではないか？[lr]",
+      "Pt-br": "\"Espere, Emiya, isso é cruel demais![cacheimage storage=一成02a(中)][wvl canskip=0 time=200][chgfg textoff=0 time=300 storage=一成02a(中)] Não é seu dever como amigo tomar uma decisão clara?[lr]",
+      "id": 7186,
+      "epk_id": "11145",
+      "label": "$$$message_0088_0017_0001$$$"
+    },
+    {
+      "en": "It goes against justice to throw either one away, but you should show your ironclad sincerity now!\"",
+      "jp": "　どちらかを切り捨てるのは主義に反するだろうが、今は鉄の誠意を見せるべきだ！」",
+      "Pt-br": "Abandonar qualquer um de nós contraria a justiça, mas agora você deve demonstrar sua sinceridade inabalável!\"",
+      "id": 7187,
+      "epk_id": "11146",
+      "label": "$$$message_0088_0017_0002$$$"
+    },
+    {
+      "en": "\"I agree! It makes me want to throw up that my opinion matches Ryudou, but I completely agree![lr]",
+      "jp": "「同感だね！　柳洞と意見があうなんて吐きそうだけどまったく同感だね！[lr]",
+      "Pt-br": "\"Concordo! Só de minha opinião coincidir com a de Ryuudou me dá vontade de vomitar, mas concordo plenamente![lr]",
+      "id": 7188,
+      "epk_id": "11147",
+      "label": "$$$message_0088_0018_0000$$$"
+    },
+    {
+      "en": "Come on, hurry up and tell us, Emiya! Tell him who you're picking, and the other will lonesomely eat lunch by themselves!\"",
+      "jp": "　ほら、さっさと教えてやれよ衛宮、一人で寂しく昼食をとるのはどっちかってコトをさ！」",
+      "Pt-br": "Vamos, diga logo, Emiya! Diga quem escolheu, e o outro vai almoçar sozinho e abandonado!\"",
+      "id": 7189,
+      "epk_id": "11148",
+      "label": "$$$message_0088_0018_0001$$$"
+    },
+    {
+      "en": "\"Then, Issei.\"[lr]",
+      "jp": "「じゃあ一成」[lr]",
+      "Pt-br": "\"Então, Issei.\"[lr]",
+      "id": 7190,
+      "epk_id": "11149",
+      "label": "$$$message_0088_0019_0000$$$"
+    },
+    {
+      "en": "\"Why!? It's a pasta place in Shinto![lr]",
+      "jp": "「なんで！？　新都のパスタ屋だよ！？[lr]",
+      "Pt-br": "\"Por quê?! É um restaurante de massas em Shinto![lr]",
+      "id": 7191,
+      "epk_id": "11150",
+      "label": "$$$message_0088_0019_0001$$$"
+    },
+    {
+      "en": "And there's a mixer after! It's a dreamy three hours with girls that even I rate as good! It's obvious this one's more fun![lr]",
+      "jp": "　その後に合コンだよ！？　ボクから見てもイケてる女の子たちと夢の三時間だよ！？　こっちのが楽しいに決まってんじゃん！[lr]",
+      "Pt-br": "E ainda tem o encontro depois! Serão três horas de sonho com garotas que até eu considero bonitas! É óbvio que minha opção é mais divertida![lr]",
+      "id": 7192,
+      "epk_id": "11151",
+      "label": "$$$message_0088_0019_0002$$$"
+    },
+    {
+      "en": "Geez, I really don't get you, Emiya!\"",
+      "jp": "　うっわ、衛宮マジわかんねー！」",
+      "Pt-br": "Francamente, eu não entendo você, Emiya!\"",
+      "id": 7193,
+      "epk_id": "11152",
+      "label": "$$$message_0088_0019_0003$$$"
+    },
+    {
+      "en": "\"Yeah. I'm interested in the pasta place, and I'm not good with mixers, but I actually kinda like them. But the biggest problem is...\"[lr]",
+      "jp": "「うん。パスタ屋には興味があるし、合コンは苦手だけどわりと好きだ。けど最大の問題はだな、」[lr]",
+      "Pt-br": "\"É. Tenho interesse no restaurante e, apesar de não me dar bem nesses encontros, até que gosto deles. Mas o maior problema é...\"[lr]",
+      "id": 7194,
+      "epk_id": "11153",
+      "label": "$$$message_0088_0020_0000$$$"
+    },
+    {
+      "en": "I point at the class schedule.[lr]",
+      "jp": "　ちょい、と時間割を指さす。[lr]",
+      "Pt-br": "Aponto para o horário das aulas.[lr]",
+      "id": 7195,
+      "epk_id": "11154",
+      "label": "$$$message_0088_0020_0001$$$"
+    },
+    {
+      "en": "Yes. Fifth period is our Fuji-nee's class.",
+      "jp": "　そう。五時限目は我らの藤ねえの授業なのだった。",
+      "Pt-br": "Isso mesmo. A quinta aula é com a Fuji-nee.",
+      "id": 7196,
+      "epk_id": "11155",
+      "label": "$$$message_0088_0020_0002$$$"
+    },
+    {
+      "en": "\"...Yeah. It's a bit unfortunate, [cacheimage storage=一成01b腕(中)][wvl canskip=0 time=200][chgfg textoff=0 time=300 storage=一成01b腕(中)]but that's a very student-like reason. Emiya needs to be like that, yes.\"[cacheimage storage=慎二制服01g(中)][wvs][chgfg textoff=0 time=300 storage=慎二制服01g(中)][lr]",
+      "jp": "「……そうだな。少々残念ではあるが、[cacheimage storage=一成01b腕(中)][wvl canskip=0 time=200][chgfg textoff=0 time=300 storage=一成01b腕(中)]実に学生らしい理由だ。衛宮はそうでなくてはならん。喝」[cacheimage storage=慎二制服01g(中)][wvs][chgfg textoff=0 time=300 storage=慎二制服01g(中)][lr]",
+      "Pt-br": "\"...É. É um pouco lamentável, [cacheimage storage=一成01b腕(中)][wvl canskip=0 time=200][chgfg textoff=0 time=300 storage=一成01b腕(中)]mas essa é uma razão digna de um estudante. É assim mesmo que Emiya deve ser.\"[cacheimage storage=慎二制服01g(中)][wvs][chgfg textoff=0 time=300 storage=慎二制服01g(中)][lr]",
+      "id": 7197,
+      "epk_id": "11156",
+      "label": "$$$message_0088_0021_0000$$$"
+    },
+    {
+      "en": "\"That's why, so you should give it up too, Shinji. Let's eat lunch together in the student council room. I'll share my lunch with you if you don't want deli bread.\"[lr]",
+      "jp": "「そういうワケだから慎二も止めとけよ。生徒会室で一緒にメシ食おうぜ。総菜パンがいやなら弁当わけてやるから」[lr]",
+      "Pt-br": "\"Então desista também, Shinji. Vamos almoçar juntos na sala do conselho estudantil. Se não quiser pão da cantina, divido meu almoço com você.\"[lr]",
+      "id": 7198,
+      "epk_id": "11157",
+      "label": "$$$message_0088_0021_0001$$$"
+    },
+    {
+      "en": "\"Heh, no need for that. He's so full of bluster; I wouldn't think that he would have lunch anywhere in school.[lr]",
+      "jp": "「ふ、その必要はあるまい。あれほどのタンカを切ったのだ、よもや校内で食事をとろうとは思うまいよ。[lr]",
+      "Pt-br": "\"Heh, não precisa. Depois de toda aquela bravata, não creio que ele vá almoçar em lugar algum da escola.[lr]",
+      "id": 7199,
+      "epk_id": "11158",
+      "label": "$$$message_0088_0021_0002$$$"
+    },
+    {
+      "en": "Isn't that right, Matou?\"",
+      "jp": "　なあ、そうだろう間桐？」",
+      "Pt-br": "Não é mesmo, Matou?\"",
+      "id": 7200,
+      "epk_id": "11159",
+      "label": "$$$message_0088_0021_0003$$$"
+    },
+    {
+      "en": "\"H-humph, that's right, Ryudou. I won't go to the student council room even if you begged me to.[lr]",
+      "jp": "「ふ、ふん、その通りだよ柳洞、頼まれたって生徒会室になんか行くもんか。[lr]",
+      "Pt-br": "\"H-humpf, é isso mesmo, Ryuudou. Eu não iria à sala do conselho nem que você implorasse.[lr]",
+      "id": 7201,
+      "epk_id": "11160",
+      "label": "$$$message_0088_0022_0000$$$"
+    },
+    {
+      "en": "Whatever, you guys can spend a lowly mediocre lunch break like usual. But don't get me wrong, I'll show you guys who the real winner is!\"[lr]",
+      "jp": "　いいさーだ、おまえたちはいつも通り、低俗で平凡な昼休みを過ごせばいい。けど勘違いするなよ、本当の勝者は誰なのかすぐに思い知らせてやるぅ！」[lr]",
+      "Pt-br": "Tanto faz, passem o intervalo medíocre e insignificante de sempre. Mas não se enganem: vou mostrar a vocês quem é o verdadeiro vencedor!\"[lr]",
+      "id": 7202,
+      "epk_id": "11161",
+      "label": "$$$message_0088_0022_0001$$$"
+    },
+    {
+      "en": "Shinji laughs, as if he's crying[se volume=60 storage=se021.wav] and leaves.",
+      "jp": "　あははは×ひゃー☆、と慎二は泣くように笑い[se volume=60 storage=se021.wav]去っていった。",
+      "Pt-br": "Shinji solta uma risada que mais parece um choro[se volume=60 storage=se021.wav] e vai embora.",
+      "id": 7203,
+      "epk_id": "11162",
+      "label": "$$$message_0088_0022_0002$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「………………」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 7204,
+      "epk_id": "11163",
+      "label": "$$$message_0088_0023_0000$$$"
+    },
+    {
+      "en": "Oh man.[lr]",
+      "jp": "　しまった。[lr]",
+      "Pt-br": "Puxa vida.[lr]",
+      "id": 7205,
+      "epk_id": "11164",
+      "label": "$$$message_0088_0023_0001$$$"
+    },
+    {
+      "en": "I can't really tell myself, but I wonder if there was something wrong with my actions and words.",
+      "jp": "　自分ではいまいち分からないのだが、今のはこっちの言動に問題があったんだろーか。",
+      "Pt-br": "Eu mesmo não sei dizer, mas será que fiz ou falei algo errado?",
+      "id": 7206,
+      "epk_id": "11165",
+      "label": "$$$message_0088_0023_0002$$$"
+    },
+    {
+      "en": "\"Hey, Issei. Was that my fault?\"[lr]",
+      "jp": "「なあ一成。今の、俺が悪かったのかな？」[lr]",
+      "Pt-br": "\"Ei, Issei. A culpa foi minha?\"[lr]",
+      "id": 7207,
+      "epk_id": "11166",
+      "label": "$$$message_0088_0024_0000$$$"
+    },
+    {
+      "en": "\"...Yeah.[lr]",
+      "jp": "「…………そうだな。[lr]",
+      "Pt-br": "\"...Foi.[lr]",
+      "id": 7208,
+      "epk_id": "11167",
+      "label": "$$$message_0088_0024_0001$$$"
+    },
+    {
+      "en": "I won't sympathize with Matou, but you should choose your words a bit more carefully, Emiya. If I was Matou, I would've finished myself off.\"[lr]",
+      "jp": "　間桐に同情はしないが、もう少し言葉を選んでくれ衛宮。俺が間桐だったら間違いなく自決している」[lr]",
+      "Pt-br": "Não vou sentir pena de Matou, mas você devia escolher melhor as palavras, Emiya. Se estivesse no lugar dele, eu teria dado cabo de mim mesmo.\"[lr]",
+      "id": 7209,
+      "epk_id": "11168",
+      "label": "$$$message_0088_0024_0002$$$"
+    },
+    {
+      "en": "\"Huh?\"[lr]",
+      "jp": "「？」[lr]",
+      "Pt-br": "\"Hã?\"[lr]",
+      "id": 7210,
+      "epk_id": "11169",
+      "label": "$$$message_0088_0024_0003$$$"
+    },
+    {
+      "en": "I don't get Issei either.[lr]",
+      "jp": "　そう言う一成もよく分からない。[lr]",
+      "Pt-br": "Também não consigo entender Issei.[lr]",
+      "id": 7211,
+      "epk_id": "11170",
+      "label": "$$$message_0088_0024_0004$$$"
+    },
+    {
+      "en": "While he's saying he won't sympathize with Shinji, he has his hands together giving a silent prayer at Shinji's desk.",
+      "jp": "　同情しない、なんて言いながらも、慎二の席に手を合わせて黙祷している。",
+      "Pt-br": "Embora diga que não sente pena de Shinji, ele junta as mãos e faz uma prece silenciosa diante da carteira dele.",
+      "id": 7212,
+      "epk_id": "11171",
+      "label": "$$$message_0088_0024_0005$$$"
+    },
+    {
+      "en": "Lunch break ends, and the bell rings.[lr]",
+      "jp": "　昼休み終了の鐘が鳴る。[lr]",
+      "Pt-br": "O intervalo termina, e o sinal toca.[lr]",
+      "id": 7213,
+      "epk_id": "11172",
+      "label": "$$$message_0088_0025_0000$$$"
+    },
+    {
+      "en": "We finish eating our lunch at the student council room, and Issei and I get ready for the bell that signals class to start in five minutes.[lr]",
+      "jp": "　生徒会室で昼食を終え、五分後の授業開始のチャイムに備える俺と一成。[lr]",
+      "Pt-br": "Terminamos de almoçar na sala do conselho estudantil, e Issei e eu nos preparamos para o sinal que anunciará o início da aula em cinco minutos.[lr]",
+      "id": 7214,
+      "epk_id": "11173",
+      "label": "$$$message_0088_0025_0001$$$"
+    },
+    {
+      "en": "Shinji is nowhere to be seen, so it seems like he hasn't returned since then.",
+      "jp": "　慎二の姿はなく、あれから戻ってはいないようだ。",
+      "Pt-br": "Shinji não está em parte alguma. Pelo visto, ainda não voltou.",
+      "id": 7215,
+      "epk_id": "11174",
+      "label": "$$$message_0088_0025_0002$$$"
+    },
+    {
+      "en": "\"...Hm. All's well that ends well.[lr]",
+      "jp": "「……うむ。のど元過ぎればなんとやらか。[lr]",
+      "Pt-br": "\"...Hm. Tudo está bem quando acaba bem.[lr]",
+      "id": 7216,
+      "epk_id": "11175",
+      "label": "$$$message_0088_0026_0000$$$"
+    },
+    {
+      "en": "Now that it has come to this, we did a bad thing to Matou. In particular, today's tuna cutlet was fantastic. I wouldn't mind letting him try a piece[line len=2][wvl][se volume=50 storage=se664.wav][cacheimage storage=一成01c(中)][wvl canskip=0 time=200][chgfg time=300 storage=一成01c(中)]Mm?\"[lr]",
+      "jp": "　こうなると間桐に悪いコトをしたな。特に、今日のマグロカツは素晴らしかった。一キレぐらいはヤツに味わわせてやっても[line len=3][wvl][se volume=50 storage=se664.wav][cacheimage storage=一成01c(中)][wvl canskip=0 time=200][chgfg time=300 storage=一成01c(中)]む？」[lr]",
+      "Pt-br": "Agora que penso nisso, fomos cruéis com Matou. O atum empanado de hoje, em especial, estava magnífico. Eu não me importaria de deixá-lo provar um pedaço[line len=2][wvl][se volume=50 storage=se664.wav][cacheimage storage=一成01c(中)][wvl canskip=0 time=200][chgfg time=300 storage=一成01c(中)]Hm?\"[lr]",
+      "id": 7217,
+      "epk_id": "11176",
+      "label": "$$$message_0088_0026_0001$$$"
+    },
+    {
+      "en": "Issei is not the only one who realized the abnormality.[lr]",
+      "jp": "　異常に気付いたのは一成だけではない。[lr]",
+      "Pt-br": "Issei não é o único a perceber que há algo estranho.[lr]",
+      "id": 7218,
+      "epk_id": "11177",
+      "label": "$$$message_0088_0026_0002$$$"
+    },
+    {
+      "en": "Everyone in the classroom is frowning and looking at the hallway, wondering what's going on.",
+      "jp": "　教室のみんなが顔をしかめ、何事かと廊下に視線をやっている。",
+      "Pt-br": "Todos na sala franzem o cenho e olham para o corredor, tentando entender o que está acontecendo.",
+      "id": 7219,
+      "epk_id": "11178",
+      "label": "$$$message_0088_0026_0003$$$"
+    },
+    {
+      "en": "\"...Oh.\"[lr]",
+      "jp": "「[line len=3]あ」[lr]",
+      "Pt-br": "\"...Ah.\"[lr]",
+      "id": 7220,
+      "epk_id": "11179",
+      "label": "$$$message_0088_0027_0000$$$"
+    },
+    {
+      "en": "A circus-like clamor approaches.[lr]",
+      "jp": "　サーカスの一団じみた喧噪がやってくる。[lr]",
+      "Pt-br": "Uma algazarra circense se aproxima.[lr]",
+      "id": 7221,
+      "epk_id": "11180",
+      "label": "$$$message_0088_0027_0001$$$"
+    },
+    {
+      "en": "The ones moving through the hallway are Shinji and a bunch of first-year girls who seem to be surrounding him.[lr]",
+      "jp": "　廊下を移動しているのは慎二と、慎二のとりまきらしい一年の女生徒が沢山。[lr]",
+      "Pt-br": "Quem avança pelo corredor é Shinji, cercado por um grupo de garotas do primeiro ano.[lr]",
+      "id": 7222,
+      "epk_id": "11181",
+      "label": "$$$message_0088_0027_0002$$$"
+    },
+    {
+      "en": "All of them are holding their lunch and feeding Shinji while walking.",
+      "jp": "　その誰もがお弁当を持って、歩きながら慎二に食べさせてやっている。",
+      "Pt-br": "Todas carregam o próprio almoço e dão comida a Shinji enquanto caminham.",
+      "id": 7223,
+      "epk_id": "11182",
+      "label": "$$$message_0088_0027_0003$$$"
+    },
+    {
+      "en": "\"W-what the[line len=2]\"[lr]",
+      "jp": "「な、なんと[line len=3]」[lr]",
+      "Pt-br": "\"M-mas o que[line len=2]\"[lr]",
+      "id": 7224,
+      "epk_id": "11183",
+      "label": "$$$message_0088_0028_0000$$$"
+    },
+    {
+      "en": "Issei stands motionless, stunned.[lr]",
+      "jp": "　愕然と立ちつくす一成。[lr]",
+      "Pt-br": "Issei fica imóvel, atônito.[lr]",
+      "id": 7225,
+      "epk_id": "11184",
+      "label": "$$$message_0088_0028_0001$$$"
+    },
+    {
+      "en": "Shinji stops ostentatiously for a moment.",
+      "jp": "　これ見よがしに一時停止する慎二。",
+      "Pt-br": "Shinji faz uma parada ostensiva por um instante.",
+      "id": 7226,
+      "epk_id": "11185",
+      "label": "$$$message_0088_0028_0002$$$"
+    },
+    {
+      "en": "\"Oh, well if it isn't the sad dudes who ate lunch by themselves.[lr]",
+      "jp": "「おや、そこにいるのは男だけで昼食をとる寂しい二人組じゃないか。[lr]",
+      "Pt-br": "\"Ora, se não são os coitados que almoçaram sozinhos.[lr]",
+      "id": 7227,
+      "epk_id": "11186",
+      "label": "$$$message_0088_0029_0000$$$"
+    },
+    {
+      "en": "How is it? Was today's lunch miserable as could be? No cries of joy from girls? You didn't get any 'oh my god, you look amazing, Shinji [whitestar] ahhh!'?\"[lr]",
+      "jp": "　どうかな？　今日の昼食もどうしようもなく惨めだったかな？　女の子の歓声はなかったかな？　きゃー慎二さま素敵ー☆あーん！とかしてもらえなかったかな？」[lr]",
+      "Pt-br": "E então? O almoço de hoje foi a própria definição da miséria? Nenhuma garota gritou de alegria? Não ouviram um 'kyaa, Shinji-sama, você está maravilhoso [whitestar] aaah!'?\"[lr]",
+      "id": 7228,
+      "epk_id": "11187",
+      "label": "$$$message_0088_0029_0001$$$"
+    },
+    {
+      "en": "Issei's shoulders are shaking violently.[lr]",
+      "jp": "　わなわなと肩を震わせる一成。[lr]",
+      "Pt-br": "Os ombros de Issei tremem violentamente.[lr]",
+      "id": 7229,
+      "epk_id": "11188",
+      "label": "$$$message_0088_0029_0002$$$"
+    },
+    {
+      "en": "Shinji's good mood is at its peak right now.",
+      "jp": "　慎二のご機嫌はここにきてマックスだ。",
+      "Pt-br": "O bom humor de Shinji atingiu o auge.",
+      "id": 7230,
+      "epk_id": "11189",
+      "label": "$$$message_0088_0029_0003$$$"
+    },
+    {
+      "en": "\"Me? [cacheimage storage=慎二制服02c(遠)][wvl canskip=0 time=400][chgfg textoff=0 time=200 storage=慎二制服02c(遠)]I had the best time![wvl][se storage=se664.wav] It was so fun, I can't even put it into words! Man, too bad. I wish I could've shared this fun with you guys, too!\"[lr]",
+      "jp": "「ボク？　[cacheimage storage=慎二制服02c(遠)][wvl canskip=0 time=400][chgfg textoff=0 time=200 storage=慎二制服02c(遠)]ボクは最高さ！[wvl][se storage=se664.wav]　もう言語に絶するほど楽しかったね！　残念だなあ、君たちにもこの楽しさを分けてあげたかったよ！」[lr]",
+      "Pt-br": "\"Eu? [cacheimage storage=慎二制服02c(遠)][wvl canskip=0 time=400][chgfg textoff=0 time=200 storage=慎二制服02c(遠)]Eu me diverti como nunca![wvl][se storage=se664.wav] Foi tão bom que nem consigo expressar em palavras! Que pena. Queria ter dividido toda essa diversão com vocês!\"[lr]",
+      "id": 7231,
+      "epk_id": "11190",
+      "label": "$$$message_0088_0030_0000$$$"
+    },
+    {
+      "en": "\"You really are easy to read, you bastard!\"[lr]",
+      "jp": "「おのれ、ほんっとに分かりやすいヤツだな貴様は！」[lr]",
+      "Pt-br": "\"Seu desgraçado, você é mesmo um livro aberto!\"[lr]",
+      "id": 7232,
+      "epk_id": "11191",
+      "label": "$$$message_0088_0030_0001$$$"
+    },
+    {
+      "en": "\"Oh [font italic=true]no[font italic=false], we should flee, everyone! That's the old and nippy student council president; he'll enforce a dress code with zero fashion sense if you get caught!\"",
+      "jp": "「うわ、逃げようみんな！　あそこにいるのはじじむさい生徒会長だ、捕まったらセンスゼロのドレスコードを強制されるからね！」",
+      "Pt-br": "\"Ah, [font italic=true]não[font italic=false], temos que fugir, meninas! É o presidente do conselho, aquele velho rabugento. Se ele pegar vocês, vai impor um código de vestimenta sem o menor senso de moda!\"",
+      "id": 7233,
+      "epk_id": "11192",
+      "label": "$$$message_0088_0030_0002$$$"
+    },
+    {
+      "en": "The Shinji daytime circus runs away down the hallway cheerfully.[lr]",
+      "jp": "　わーい、と楽しそうに廊下を走り去る白昼の慎二サーカス団。[lr]",
+      "Pt-br": "O circo diurno de Shinji foge alegremente pelo corredor.[lr]",
+      "id": 7234,
+      "epk_id": "11193",
+      "label": "$$$message_0088_0031_0000$$$"
+    },
+    {
+      "en": "The way they run off almost seems rehearsed.",
+      "jp": "　リハーサル済みとしか思えない逃げっぷりだ。",
+      "Pt-br": "O jeito como todos debandam parece ensaiado.",
+      "id": 7235,
+      "epk_id": "11194",
+      "label": "$$$message_0088_0031_0001$$$"
+    },
+    {
+      "en": "\"I won't let you escape, Matou...! [wvl][wm canskip=0][cacheimage storage=一成02a(中)][wvl][se storage=se089.wav][chgfg textoff=0 time=200 storage=一成02a(中)]Emiya, tell Ms. Fujimura that I've gone to finish off one of Homurahara's Three Great Monsters!\"[lr]",
+      "jp": "「逃がすか間桐……！　[wm canskip=0][cacheimage storage=一成02a(中)][wvl][se storage=se089.wav][chgfg textoff=0 time=200 storage=一成02a(中)]衛宮、藤村先生には穂群原の三大仏敵を始末してくると告げておいてくれ！」[lr]",
+      "Pt-br": "\"Não vou deixá-lo escapar, Matou...! [wvl][wm canskip=0][cacheimage storage=一成02a(中)][wvl][se storage=se089.wav][chgfg textoff=0 time=200 storage=一成02a(中)]Emiya, diga à Fujimura-sensei que fui dar cabo de um dos Três Grandes Monstros de Homurahara!\"[lr]",
+      "id": 7236,
+      "epk_id": "11195",
+      "label": "$$$message_0088_0032_0000$$$"
+    },
+    {
+      "en": "Issei jumps out into the hallway with incredible speed.[lr]",
+      "jp": "　ものすごいスピードで廊下に飛び出す一成。[lr]",
+      "Pt-br": "Issei dispara para o corredor a uma velocidade incrível.[lr]",
+      "id": 7237,
+      "epk_id": "11196",
+      "label": "$$$message_0088_0032_0001$$$"
+    },
+    {
+      "en": "Even then, he doesn't run in the hallway, as expected of the student council president.[lr]",
+      "jp": "　それでも決して走らないのが現役生徒会役員。[lr]",
+      "Pt-br": "Ainda assim, ele jamais corre pelo corredor. Digno de um presidente do conselho estudantil.[lr]",
+      "id": 7238,
+      "epk_id": "11197",
+      "label": "$$$message_0088_0032_0002$$$"
+    },
+    {
+      "en": "That's a walk that surpasses running.",
+      "jp": "　走りを凌駕する歩きがそこにある。",
+      "Pt-br": "Ali está uma caminhada que supera a corrida.",
+      "id": 7239,
+      "epk_id": "11198",
+      "label": "$$$message_0088_0032_0003$$$"
+    },
+    {
+      "en": "\"...Yeah, [wvl][se storage=se020.wav]they both lose.\"[lr]",
+      "jp": "「[line len=3]うん、[wvl][se storage=se020.wav]痛み分けだ」[lr]",
+      "Pt-br": "\"...É, [wvl][se storage=se020.wav]os dois saíram no empate.\"[lr]",
+      "id": 7240,
+      "epk_id": "11199",
+      "label": "$$$message_0088_0033_0000$$$"
+    },
+    {
+      "en": "The fifth period bell rings.[lr]",
+      "jp": "　五時限目開始のチャイムが鳴る。[lr]",
+      "Pt-br": "O sinal da quinta aula toca.[lr]",
+      "id": 7241,
+      "epk_id": "11200",
+      "label": "$$$message_0088_0033_0001$$$"
+    },
+    {
+      "en": "There's four more months until graduation from today.[lr]",
+      "jp": "　卒業まであと四ヶ月というこの日。[lr]",
+      "Pt-br": "A partir de hoje, faltam quatro meses para a formatura.[lr]",
+      "id": 7242,
+      "epk_id": "11201",
+      "label": "$$$message_0088_0033_0002$$$"
+    },
+    {
+      "en": "Issei Ryudou missed class for the first time.",
+      "jp": "　柳洞一成は初めて授業を欠席したのであった。",
+      "Pt-br": "Ryuudou Issei faltou à aula pela primeira vez.",
+      "id": 7243,
+      "epk_id": "11202",
+      "label": "$$$message_0088_0033_0003$$$"
+    }
+  ]
+}

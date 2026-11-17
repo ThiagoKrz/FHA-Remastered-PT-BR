@@ -1,0 +1,264 @@
+{
+  "cena": "5rji9r85i7h7a26qad1l01ivbi",
+  "titulo": "Mansão Assombrada",
+  "rota": "Noite",
+  "arquivo": "5rji9r85i7h7a26qad1l01ivbi.epk_dec",
+  "linhas": [
+    {
+      "en": "...There's still time.[lr]",
+      "jp": "　[line len=3]まだ間に合う。[lr]",
+      "Pt-br": "...Ainda tenho tempo.[lr]",
+      "id": 26295,
+      "epk_id": "31421",
+      "label": "$$$message_0242_0000_0000$$$"
+    },
+    {
+      "en": "   Should I turn back?",
+      "jp": "　　　　引き返すか？",
+      "Pt-br": "   Será que eu devo voltar?",
+      "id": 26296,
+      "epk_id": "31422",
+      "label": "$$$message_0242_0000_0001$$$"
+    },
+    {
+      "en": "There's no point in coming here.[rf][lr]",
+      "jp": "　ここに来ても意味はない。[rf][lr]",
+      "Pt-br": "Não há nenhum sentido em vir para cá.[rf][lr]",
+      "id": 26297,
+      "epk_id": "31423",
+      "label": "$$$message_0242_0001_0000$$$"
+    },
+    {
+      "en": "I never knew about this house.[rf][lr]",
+      "jp": "　そもそも俺はこんな洋館など知らなかった。[rf][lr]",
+      "Pt-br": "Eu sequer sabia da existência desta casa.[rf][lr]",
+      "id": 26298,
+      "epk_id": "31424",
+      "label": "$$$message_0242_0001_0001$$$"
+    },
+    {
+      "en": "I never had any occasion to.[rf][lr]",
+      "jp": "　接点はまったくない。[rf][lr]",
+      "Pt-br": "Nunca tive nenhuma ocasião para isso.[rf][lr]",
+      "id": 26299,
+      "epk_id": "31425",
+      "label": "$$$message_0242_0001_0002$$$"
+    },
+    {
+      "en": "[move textoff=0 time=100 path=(0,0,255)(0,0,255)(0,0,0) storage=black accel=0][move textoff=0 time=100 path=(208,-11,255)(208,-11,255)(208,-11,0) storage=バゼット02a(遠) accel=0]I just...[wm canskip=0][wm canskip=0][rf][lr]",
+      "jp": "　[move textoff=0 time=100 path=(0,0,255)(0,0,255)(0,0,0) storage=black accel=0][move textoff=0 time=100 path=(208,-11,255)(208,-11,255)(208,-11,0) storage=バゼット02a(遠) accel=0]ただ、[wm canskip=0][wm canskip=0][rf][lr]",
+      "Pt-br": "[move textoff=0 time=100 path=(0,0,255)(0,0,255)(0,0,0) storage=black accel=0][move textoff=0 time=100 path=(208,-11,255)(208,-11,255)(208,-11,0) storage=バゼット02a(遠) accel=0]Eu só...[wm canskip=0][wm canskip=0][rf][lr]",
+      "id": 26300,
+      "epk_id": "31426",
+      "label": "$$$message_0242_0001_0003$$$"
+    },
+    {
+      "en": "[move textoff=0 time=100 path=(0,0,200)(0,0,200)(0,0,0) storage=t01アンリナイフ accel=0]I think I've heard about it, somewhere...[wm canskip=0][rf]",
+      "jp": "　[move textoff=0 time=100 path=(0,0,200)(0,0,200)(0,0,0) storage=t01アンリナイフ accel=0]どこかで、そんな話を、聞いたような。[wm canskip=0][rf]",
+      "Pt-br": "[move textoff=0 time=100 path=(0,0,200)(0,0,200)(0,0,0) storage=t01アンリナイフ accel=0]Eu sinto que já ouvi algo a respeito dela, em algum lugar...[wm canskip=0][rf]",
+      "id": 26301,
+      "epk_id": "31427",
+      "label": "$$$message_0242_0001_0004$$$"
+    },
+    {
+      "en": "\"Ngh...\"[lr]",
+      "jp": "「っ……」[lr]",
+      "Pt-br": "\"Ngh...\"[lr]",
+      "id": 26302,
+      "epk_id": "31428",
+      "label": "$$$message_0242_0002_0000$$$"
+    },
+    {
+      "en": "I have the strangest feeling, like a movie I saw before going to bed is being played out in my dreams.[lr]",
+      "jp": "　眠る前に見た映画が、夢の中で再生されたような感覚。[lr]",
+      "Pt-br": "Tenho uma sensação estranha, como se um filme visto antes de dormir estivesse sendo reproduzido nos meus sonhos.[lr]",
+      "id": 26303,
+      "epk_id": "31429",
+      "label": "$$$message_0242_0002_0001$$$"
+    },
+    {
+      "en": "Naturally, it's as if the source material has been tastefully adapted into a remake to fit modern tastes.[lr]",
+      "jp": "　無論、元になった映画は都合よく脚色され、リバイバルというよりは今風に作り直されたリメイクだ。[lr]",
+      "Pt-br": "Naturalmente, é como se o material original tivesse sido adaptado com bom gosto em um remake para sensibilidades modernas.[lr]",
+      "id": 26304,
+      "epk_id": "31430",
+      "label": "$$$message_0242_0002_0002$$$"
+    },
+    {
+      "en": "But if there's one scene that completely mirrors its inspiration...[lr]",
+      "jp": "　それでも、原作と寸分変わらぬシーンがあるとしたら、[lr]",
+      "Pt-br": "Mas, se há uma cena que espelha completamente a inspiração...[lr]",
+      "id": 26305,
+      "epk_id": "31431",
+      "label": "$$$message_0242_0002_0003$$$"
+    },
+    {
+      "en": "It's those two, in the mansion at night.[rf][lr]",
+      "jp": "　[line len=3]夜の洋館には、あの二人が。[rf][lr]",
+      "Pt-br": "É a daqueles dois, na mansão, à noite.[rf][lr]",
+      "id": 26306,
+      "epk_id": "31432",
+      "label": "$$$message_0242_0002_0004$$$"
+    },
+    {
+      "en": "Right now, I'm trying to enter a movie, a dream.",
+      "jp": "　映画の中に、夢の中に、いま俺は入ろうとしている。",
+      "Pt-br": "Agora, estou tentando entrar em um filme, em um sonho.",
+      "id": 26307,
+      "epk_id": "31433",
+      "label": "$$$message_0242_0002_0005$$$"
+    },
+    {
+      "en": "I feel a chill and break into a jog.[lr]",
+      "jp": "　悪寒がして、小走りで移動する。[lr]",
+      "Pt-br": "Sinto um calafrio e começo a trotar.[lr]",
+      "id": 26308,
+      "epk_id": "31434",
+      "label": "$$$message_0242_0003_0000$$$"
+    },
+    {
+      "en": "There's no turning back now.[lr]",
+      "jp": "　ここに来てしまった以上、もう戻れない。[lr]",
+      "Pt-br": "Não há mais volta agora.[lr]",
+      "id": 26309,
+      "epk_id": "31435",
+      "label": "$$$message_0242_0003_0001$$$"
+    },
+    {
+      "en": "I need to be sure.[lr]",
+      "jp": "　確かめよう。[lr]",
+      "Pt-br": "Eu preciso ter certeza.[lr]",
+      "id": 26310,
+      "epk_id": "31436",
+      "label": "$$$message_0242_0003_0002$$$"
+    },
+    {
+      "en": "Whatever happens inside, whatever awaits me, it's the center of the wrongness permeating the town.",
+      "jp": "　中に何があろうと、何が待っていようと、そこが町を覆う違和感の中心の筈。",
+      "Pt-br": "O que quer que aconteça lá dentro, o que quer que me espere, é o centro da anomalia que permeia a cidade.",
+      "id": 26311,
+      "epk_id": "31437",
+      "label": "$$$message_0242_0003_0003$$$"
+    },
+    {
+      "en": "I enter a large chamber on the second floor.[lr]",
+      "jp": "　二階の大部屋に入る。[lr]",
+      "Pt-br": "Entro em um grande salão no segundo andar.[lr]",
+      "id": 26312,
+      "epk_id": "31438",
+      "label": "$$$message_0242_0004_0000$$$"
+    },
+    {
+      "en": "I've seen this sight many times.[lr]",
+      "jp": "　今まで何度も見てきた光景。[lr]",
+      "Pt-br": "Já vi esta cena muitas vezes.[lr]",
+      "id": 26313,
+      "epk_id": "31439",
+      "label": "$$$message_0242_0004_0001$$$"
+    },
+    {
+      "en": "It's...[rf][lr]",
+      "jp": "　そこには[line len=3][rf][lr]",
+      "Pt-br": "Isto é...[rf][lr]",
+      "id": 26314,
+      "epk_id": "31440",
+      "label": "$$$message_0242_0004_0002$$$"
+    },
+    {
+      "en": "\"...Wait, what?\"[lr]",
+      "jp": "「[line len=6]あれれ？？？」[lr]",
+      "Pt-br": "\"...Espera, o quê?\"[lr]",
+      "id": 26315,
+      "epk_id": "31441",
+      "label": "$$$message_0242_0004_0003$$$"
+    },
+    {
+      "en": "Nobody's here. Was anyone ever here?",
+      "jp": "　[line len=3]当然のように、誰一人居はしなかった。",
+      "Pt-br": "Não há ninguém aqui. Será que houve alguém algum dia?",
+      "id": 26316,
+      "epk_id": "31442",
+      "label": "$$$message_0242_0004_0004$$$"
+    },
+    {
+      "en": "There's no woman sleeping on the sofa.[lr]",
+      "jp": "　ソファーに眠っている女性もいない。[lr]",
+      "Pt-br": "Não há mulher alguma dormindo no sofá.[lr]",
+      "id": 26317,
+      "epk_id": "31443",
+      "label": "$$$message_0242_0005_0000$$$"
+    },
+    {
+      "en": "No grumbling, rotting man on the chair.[lr]",
+      "jp": "　椅子に座ってブツブツ腐っている男もいない。[lr]",
+      "Pt-br": "Nenhum homem resmungão e apodrecido na cadeira.[lr]",
+      "id": 26318,
+      "epk_id": "31444",
+      "label": "$$$message_0242_0005_0001$$$"
+    },
+    {
+      "en": "Of course not.[lr]",
+      "jp": "　そりゃそうだ。[lr]",
+      "Pt-br": "Lógico que não.[lr]",
+      "id": 26319,
+      "epk_id": "31445",
+      "label": "$$$message_0242_0005_0002$$$"
+    },
+    {
+      "en": "The empty parlor tells me that this house is abandoned.[lr]",
+      "jp": "　ここはただの廃屋で、何もないと昼間に結論が出ているんだから。[lr]",
+      "Pt-br": "A sala vazia me diz que esta casa está abandonada.[lr]",
+      "id": 26320,
+      "epk_id": "31446",
+      "label": "$$$message_0242_0005_0003$$$"
+    },
+    {
+      "en": "\"So it's just...\"[lr]",
+      "jp": "「なんだ、結局」[lr]",
+      "Pt-br": "\"Então isso era só...\"[lr]",
+      "id": 26321,
+      "epk_id": "31447",
+      "label": "$$$message_0242_0005_0004$$$"
+    },
+    {
+      "en": "Those two don't exist.[lr]",
+      "jp": "　あんな二人は存在しない。[lr]",
+      "Pt-br": "Aqueles dois não existem.[lr]",
+      "id": 26322,
+      "epk_id": "31448",
+      "label": "$$$message_0242_0005_0005$$$"
+    },
+    {
+      "en": "That story was just a dream, a fiction, a fairy tale.",
+      "jp": "　あの物語はただの夢だ。作り物のおとぎ話にすぎない。",
+      "Pt-br": "Aquela história era apenas sonho, ficção, conto de fadas.",
+      "id": 26323,
+      "epk_id": "31449",
+      "label": "$$$message_0242_0005_0006$$$"
+    },
+    {
+      "en": "\"I should head back. I came out a little too far.\"[lr]",
+      "jp": "「戻ろう。少し遠出しすぎた」[lr]",
+      "Pt-br": "\"Melhor eu voltar. Vim longe demais.\"[lr]",
+      "id": 26324,
+      "epk_id": "31450",
+      "label": "$$$message_0242_0006_0000$$$"
+    },
+    {
+      "en": "I leave the haunted mansion.[lr]",
+      "jp": "　幽霊洋館を後にする。[lr]",
+      "Pt-br": "Deixo a mansão assombrada.[lr]",
+      "id": 26325,
+      "epk_id": "31451",
+      "label": "$$$message_0242_0006_0001$$$"
+    },
+    {
+      "en": "...Just to be safe, I inspect the second-story windows. They seem fine. I wonder why I even bothered, before starting down the road home.",
+      "jp": "　……念の為、二階の窓を見上げてみた。異状なし。なぜそんな事を確認したのか、と首をかしげて、坂道を下り始めた。",
+      "Pt-br": "...Só por segurança, examino as janelas do segundo andar. Parecem normais. Pergunto-me por que sequer me dei ao trabalho, antes de pegar a estrada de volta para casa.",
+      "id": 26326,
+      "epk_id": "31452",
+      "label": "$$$message_0242_0006_0002$$$"
+    }
+  ]
+}

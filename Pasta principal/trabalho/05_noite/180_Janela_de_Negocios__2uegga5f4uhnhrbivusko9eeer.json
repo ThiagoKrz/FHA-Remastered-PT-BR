@@ -1,0 +1,440 @@
+{
+  "cena": "2uegga5f4uhnhrbivusko9eeer",
+  "titulo": "Janela de Negócios",
+  "rota": "Noite",
+  "arquivo": "2uegga5f4uhnhrbivusko9eeer.epk_dec",
+  "linhas": [
+    {
+      "en": "As evening falls, I start preparing dinner. I glance outside and see that the sun is already down.[lr]",
+      "jp": "ãå¤æ¹ã«ãªã£ã¦å¤é£ã®ä»è¾¼ã¿ãå§ãã¦ããµã¨å¤ãè¦ãã¨ã¨ã£ãã«æ¥ã¯æ²ãã§ããã[lr]",
+      "Pt-br": "Com a chegada da noite, começo a preparar o jantar. Olho para fora e vejo que o Sol já se pôs.[lr]",
+      "id": 25982,
+      "epk_id": "31113",
+      "label": "$$$message_0227_0000_0000$$$"
+    },
+    {
+      "en": "They say daytimes are short this time of year, so I'd better stay sharp if I want to enjoy the sunset.",
+      "jp": "ãã¤ãã¹è½ã¨ãã¨ã¯ããè¨ã£ããã®ã§ãå¤æ¯ãæ¥½ããã«ã¯æ°ãæãã¦ã¯ãããªããããã",
+      "Pt-br": "Dizem que os dias são mais curtos nesta época do ano, então é melhor eu ficar atento se quiser aproveitar o pôr do Sol.",
+      "id": 25983,
+      "epk_id": "31114",
+      "label": "$$$message_0227_0000_0001$$$"
+    },
+    {
+      "en": "\"Shirou, I cleaned the bathtub. Where are the unused bath towels?\"[lr]",
+      "jp": "ãå£«éããé¢¨åæ´ã£ã¨ããããã¼ãä½¿ã£ã¦ãªããã¹ã¿ãªã«ã©ãã¼ï¼ã[lr]",
+      "Pt-br": "\"Shirou, limpei a banheira. Onde estão as toalhas de banho limpas?\"[lr]",
+      "id": 25984,
+      "epk_id": "31115",
+      "label": "$$$message_0227_0001_0000$$$"
+    },
+    {
+      "en": "\"Ask Saber. It's her job to take in the laundry.\"[lr]",
+      "jp": "ãã»ã¤ãã¼ã«è¨ãã¦ããã¼ãæ´æ¿¯ç©ã®çã¥ãã¯ã»ã¤ãã¼ã®ä»äºã¼ã[lr]",
+      "Pt-br": "\"Pergunte à Saber. É o trabalho dela recolher a roupa limpa.\"[lr]",
+      "id": 25985,
+      "epk_id": "31116",
+      "label": "$$$message_0227_0001_0001$$$"
+    },
+    {
+      "en": "I answer while beating a rhythm with my kitchen knife.[lr]",
+      "jp": "ãå\nä¸ã§ãªãºã ãå»ã¿ãªããè¿ç­ããã[lr]",
+      "Pt-br": "Respondo enquanto bato um ritmo com a minha faca de cozinha.[lr]",
+      "id": 25986,
+      "epk_id": "31117",
+      "label": "$$$message_0227_0001_0002$$$"
+    },
+    {
+      "en": "I can hear the bustle of multiple people behind me in the living room.",
+      "jp": "ãèå¾ã®å±\néã§ã¯ããã¿ãã¿ã¨è¤æ°ã®æ°é\nãæ··éä¸­ã",
+      "Pt-br": "Eu consigo ouvir a agitação de várias pessoas atrás de mim na sala de estar.",
+      "id": 25987,
+      "epk_id": "31118",
+      "label": "$$$message_0227_0001_0003$$$"
+    },
+    {
+      "en": "\"Senpai, we're out of soy sauce. I'm going to the store to pick some up.\"[lr]",
+      "jp": "ãå\nè¼©ããé¤æ²¹ããã¦ã¾ãã¼ãååºè¡ã¾ã§è²·ãåºãã«è¡ã£ã¦ãã¾ãã­ã¼ã[lr]",
+      "Pt-br": "\"Senpai, nós ficamos sem molho de soja. Eu vou na loja comprar um pouco.\"[lr]",
+      "id": 25988,
+      "epk_id": "31119",
+      "label": "$$$message_0227_0002_0000$$$"
+    },
+    {
+      "en": "\"It's already late. Just go tomorrow. We can ask Fuji-nee's house to share some with us.[lr]",
+      "jp": "ãããé\nãããè²·ãåºãã¯ææ¥ã«ããããè¤ã­ãã[ruby text=ã¡]å®¶ããã¡ãã£ã¨åãã¦è²°ãã°ãããã[lr]",
+      "Pt-br": "\"Já está tarde. Vá só amanhã. Nós podemos pedir para a casa da Fuji-nee para que compartilhem um pouco conosco.[lr]",
+      "id": 25989,
+      "epk_id": "31120",
+      "label": "$$$message_0227_0002_0001$$$"
+    },
+    {
+      "en": "Illya, can you go with Sakura[line len=2]\"",
+      "jp": "ãã¤ãªã¤ãæ¡ã¨ä¸ç·ã«[line len=3]ã",
+      "Pt-br": "Illya, você pode ir com a Sakura[line len=2]\"",
+      "id": 25990,
+      "epk_id": "31121",
+      "label": "$$$message_0227_0002_0002$$$"
+    },
+    {
+      "en": "   Oh, Illya's not here.[lr]",
+      "jp": "ã[line len=3]ã¨ãã¤ãªã¤ã®æ°é\nã¯ãªãã[lr]",
+      "Pt-br": "   Ah, a Illya não está aqui.[lr]",
+      "id": 25991,
+      "epk_id": "31122",
+      "label": "$$$message_0227_0003_0000$$$"
+    },
+    {
+      "en": "She invades the house with Fuji-nee in the morning, but she's often absent in the evening.[lr]",
+      "jp": "ãæã¯è¤ã­ãã¨ä¸ç·ã«æ»ãè¾¼ãã§ããã®ã ããå¤é£¯ã¯çå®ã«ãã¦ããäºã®æ¹ãå¤ãã[lr]",
+      "Pt-br": "Ela invade a casa com a Fuji-nee pela manhã, mas quase sempre está ausente à noite.[lr]",
+      "id": 25992,
+      "epk_id": "31123",
+      "label": "$$$message_0227_0003_0001$$$"
+    },
+    {
+      "en": "If she does show up, it's usually suddenly after dinner when we're all relaxing.",
+      "jp": "ããã£ã¦ããã«ãã¦ãå¤é£¯ã®å¾ã§ãã¿ããªãã¾ã£ãããã¦ããæã«ã²ããã£ã¨ãã£ã¦ããäºãããã",
+      "Pt-br": "Se ela aparece, geralmente é de repente depois do jantar, quando estamos todos relaxando.",
+      "id": 25993,
+      "epk_id": "31124",
+      "label": "$$$message_0227_0003_0002$$$"
+    },
+    {
+      "en": "\"I'll go with her. I want to discuss about this morning, as well. It's dangerous to go out alone at night.\"[lr]",
+      "jp": "ãã§ã¯ç§ãåä¼´ãã¾ããããä»æã®è©±ããããå¤éã®ä¸äººæ­©ãã¯å±éºã§ãã[lr]",
+      "Pt-br": "\"Eu vou com ela. Eu quero discutir sobre o que aconteceu nesta manhã também. É perigoso sair sozinha à noite.\"[lr]",
+      "id": 25994,
+      "epk_id": "31125",
+      "label": "$$$message_0227_0004_0000$$$"
+    },
+    {
+      "en": "\"Saber? Yeah, thanks.[lr]",
+      "jp": "ãã»ã¤ãã¼ï¼ãããããããå©ããã[lr]",
+      "Pt-br": "\"Saber? Beleza, obrigado.[lr]",
+      "id": 25995,
+      "epk_id": "31126",
+      "label": "$$$message_0227_0004_0001$$$"
+    },
+    {
+      "en": "The men at their house tend to get scared when Rider goes, after all. Don't take too long.\"[lr]",
+      "jp": "ãã©ã¤ãã¼ãè¡ãã¨è¤ã­ããã¨ãã®è¥ãè¡ãããæãããããªãããã£ã¨è¡ã£ã¦å¸°ã£ã¦ãã¦ããã[lr]",
+      "Pt-br": "Os homens da casa deles tendem a ficar assustados quando a Rider vai, afinal de contas. Não demorem muito, Fuji-nee.\"[lr]",
+      "id": 25996,
+      "epk_id": "31127",
+      "label": "$$$message_0227_0004_0002$$$"
+    },
+    {
+      "en": "Saber and Sakura let me know that they heard me.[lr]",
+      "jp": "ãã¯ããã¨é ·ãã»ã¤ãã¼ã¨æ¡ã®æ°é\nã[lr]",
+      "Pt-br": "A Saber e a Sakura me avisam que me ouviram.[lr]",
+      "id": 25997,
+      "epk_id": "31128",
+      "label": "$$$message_0227_0004_0003$$$"
+    },
+    {
+      "en": "They take an empty glass bottle and cheerfully head off to visit the Fujimura Group.",
+      "jp": "ãäºäººã¯ã«ã©ã®ä¸åç¶ãæã£ã¦ä»²è¯ãè¤æçµã¸ã",
+      "Pt-br": "Elas pegam uma garrafa de vidro vazia e saem alegremente para visitar o Grupo Fujimura.",
+      "id": 25998,
+      "epk_id": "31129",
+      "label": "$$$message_0227_0004_0004$$$"
+    },
+    {
+      "en": "\"Shirou, I'm sorry to bother you in the middle of cooking.\"[lr]",
+      "jp": "ãå£«éãèª¿çä¸­ã«ãã¾ãªãã®ã§ããã[lr]",
+      "Pt-br": "\"Shirou, me desculpe por incomodá-lo no meio da cozinha.\"[lr]",
+      "id": 25999,
+      "epk_id": "31130",
+      "label": "$$$message_0227_0005_0000$$$"
+    },
+    {
+      "en": "Rider comes in as the other two depart.[lr]",
+      "jp": "ãäºäººã¨å\n¥ãæ¿ããå½¢ã§ã©ã¤ãã¼ããã£ã¦ããã[lr]",
+      "Pt-br": "A Rider entra assim que as outras duas saem.[lr]",
+      "id": 26000,
+      "epk_id": "31131",
+      "label": "$$$message_0227_0005_0001$$$"
+    },
+    {
+      "en": "Rider doesn't show up in the living room until 7 o'clock sharp. She reads in her room all day until then.",
+      "jp": "ãæéããã£ããã¨å®ãã©ã¤ãã¼ã¯ä¸æã¸ã£ã¹ãã¾ã§å±\néã«ç¾ããªããããã¾ã§ã¯èªå®¤ã§èª­æ¸ä¸æ§ãªã®ã ã£ãã",
+      "Pt-br": "A Rider não aparece na sala de estar até as sete em ponto. Ela lê no seu quarto o dia todo até esse horário.",
+      "id": 26001,
+      "epk_id": "31132",
+      "label": "$$$message_0227_0005_0002$$$"
+    },
+    {
+      "en": "\"What's up?\"[lr]",
+      "jp": "ããããããªã«ã[lr]",
+      "Pt-br": "\"O que foi?\"[lr]",
+      "id": 26002,
+      "epk_id": "31133",
+      "label": "$$$message_0227_0006_0000$$$"
+    },
+    {
+      "en": "\"While you were out, a stranger visited and tried to sell us a tabloid newspaper subscription. I declined, but he wouldn't give up. He seemed eager to visit us every day until we purchase it.[lr]",
+      "jp": "ãå£«éã®çå®ä¸­ãã´ã·ããã®å®æè³¼å\n¥ããããã¨è¦ç¥ãã¬äººç©ãè¨ªã­ã¦ãã¾ãããæ­ã£ãã®ã§ãããã¾ã è«¦ããªããåã£ã¦ãããã¾ã§æ¯æ¥æ¥ããã¨ä¸å±ã®éå¿ãçããã¦ããã®ã§ãã[lr]",
+      "Pt-br": "\"Enquanto você esteve fora, um estranho nos visitou e tentou nos vender a assinatura de um jornal de tabloide. Eu recusei, mas ele não quis desistir. Ele parecia ansioso por nos visitar todos os dias até comprarmos.[lr]",
+      "id": 26003,
+      "epk_id": "31134",
+      "label": "$$$message_0227_0006_0001$$$"
+    },
+    {
+      "en": "...To be blunt, may I consider the salesman an enemy?\"[lr]",
+      "jp": "ãâ¦â¦çç´ã«è¨ã£ã¦ãã¢ã¬ã¯æµã¨ã¿ãªãã¦ããã®ã§ããããã[lr]",
+      "Pt-br": "...Para ser sincera, posso considerar o vendedor um inimigo?\"[lr]",
+      "id": 26004,
+      "epk_id": "31135",
+      "label": "$$$message_0227_0006_0002$$$"
+    },
+    {
+      "en": "\"No. Absolutely not.\"",
+      "jp": "ãå¦ãæ­ãã¦ã¿ãªãã¦ã¯ãããªãã",
+      "Pt-br": "\"Não. De jeito nenhum.\"",
+      "id": 26005,
+      "epk_id": "31136",
+      "label": "$$$message_0227_0006_0003$$$"
+    },
+    {
+      "en": "Because people would die.[lr]",
+      "jp": "ããªããªãäººæ­»ã«ãåºãã[lr]",
+      "Pt-br": "Porque isso resultaria na morte de pessoas.[lr]",
+      "id": 26006,
+      "epk_id": "31137",
+      "label": "$$$message_0227_0007_0000$$$"
+    },
+    {
+      "en": "Be kind to people, and yourself.[lr]",
+      "jp": "ãäººã«åªãããèªåã«åªããã[lr]",
+      "Pt-br": "Seja gentil com as pessoas e consigo mesma.[lr]",
+      "id": 26007,
+      "epk_id": "31138",
+      "label": "$$$message_0227_0007_0001$$$"
+    },
+    {
+      "en": "...Rider's a patient person, but she doesn't waste time categorizing people as friends or enemies.[lr]",
+      "jp": "ãâ¦â¦ã©ã¤ãã¼ã¯å¿èå¼·ãããã§æµå³æ¹ã®å¤å¥ã«å®¹èµ¦ããªããããªãã[lr]",
+      "Pt-br": "...A Rider é uma pessoa paciente, mas ela não perde tempo categorizando as pessoas como amigas ou inimigas.[lr]",
+      "id": 26008,
+      "epk_id": "31139",
+      "label": "$$$message_0227_0007_0002$$$"
+    },
+    {
+      "en": "This person's an enemy. That person's a friend. She's absurdly fast at putting people into those boxes.[lr]",
+      "jp": "ãããã¤ã¯æµããã®äººã¯å³æ¹ãã¨åºå¥ããã¹ãã¼ããç°æ§ã«éãã®ã ã[lr]",
+      "Pt-br": "Esta pessoa é uma inimiga. Aquela pessoa é uma amiga. Ela é absurdamente rápida em colocar as pessoas nessas caixinhas.[lr]",
+      "id": 26009,
+      "epk_id": "31140",
+      "label": "$$$message_0227_0007_0003$$$"
+    },
+    {
+      "en": "Saber's somewhat like that, though not really.[lr]",
+      "jp": "ãããã¨è¿ãããã§é ãã®ãã»ã¤ãã¼ã ã£ããããã[lr]",
+      "Pt-br": "A Saber é um pouco assim, mas não muito.[lr]",
+      "id": 26010,
+      "epk_id": "31141",
+      "label": "$$$message_0227_0007_0004$$$"
+    },
+    {
+      "en": "Saber's definition of friends and enemies is broad, but once she decides you're on the wrong side, she doesn't hold back.",
+      "jp": "ãã»ã¤ãã¼ã¯æµå³æ¹ã®åºæºã¯å¯å®¹ãªã¯ã»ã«ãããæµã¨èªå®ããã°å®¹èµ¦ããªãã®ã§ããã",
+      "Pt-br": "A definição de amigo e inimigo da Saber é ampla, mas depois que ela decide que você está do lado errado, ela não hesita.",
+      "id": 26011,
+      "epk_id": "31142",
+      "label": "$$$message_0227_0007_0005$$$"
+    },
+    {
+      "en": "\"...I understand. I'm not confident I can stay polite, but I will try to hear him out tomorrow.\"[lr]",
+      "jp": "ãâ¦â¦åããã¾ãããèªä¿¡ã¯ããã¾ããããææ¥ããã¨ãªããå½¼ã®è©±ãèãã¦ãã¾ãã[lr]",
+      "Pt-br": "\"...Compreendo. Não tenho certeza se consigo me manter educada, mas eu tentarei ouvi-lo amanhã.\"[lr]",
+      "id": 26012,
+      "epk_id": "31143",
+      "label": "$$$message_0227_0008_0000$$$"
+    },
+    {
+      "en": "\"You don't have to. If you tell him we already have a newspaper, he won't come back for three months. Either stick with that, or ask Sakura to settle it instantly.\"",
+      "jp": "ãç¡çã«ä»ãåãå¿\nè¦ãªãããæ°èãªãããã¨ã£ã¦ãã£ã¦è¨ãã°ä¸ã¶æã¯ãã£ã¦ããªãããããã®æ¹åã§ããããã¯æ¡ãå¼ã¹ã°å³æè§£æ±ºã",
+      "Pt-br": "\"Você não precisa. Se você disser a ele que nós já temos um jornal, ele não voltará por três meses. Continue com isso ou peça à Sakura para resolver a situação na mesma hora.\"",
+      "id": 26013,
+      "epk_id": "31144",
+      "label": "$$$message_0227_0008_0001$$$"
+    },
+    {
+      "en": "\"Sakura? But I would expect her to struggle with such people.\"[lr]",
+      "jp": "ããµã¯ã©ã§ããâ¦â¦ï¼ããããããããã£ãæåãã¯ãµã¯ã©ãè¦æã ã¨æãã¾ããã[lr]",
+      "Pt-br": "\"A Sakura? Mas eu esperaria que ela passasse sufoco com esse tipo de pessoa.\"[lr]",
+      "id": 26014,
+      "epk_id": "31145",
+      "label": "$$$message_0227_0009_0000$$$"
+    },
+    {
+      "en": "\"One can apparently overcome their struggles. You should see how Sakura shoots down newspaper salesmen. It gives me shivers.\"",
+      "jp": "ãè¦æãªãã®ã£ã¦å\næã§ããããããæ¡ã®æ°èå§èªã®ãããæ¹ã¯ãããããè¦ã¦ãããã£ã¡ãæããªããããã",
+      "Pt-br": "\"Aparentemente, as pessoas conseguem superar os seus sufocos. Você devia ver como a Sakura dispensa os vendedores de jornal. Isso me dá arrepios.\"",
+      "id": 26015,
+      "epk_id": "31146",
+      "label": "$$$message_0227_0009_0001$$$"
+    },
+    {
+      "en": "She leads them on into throwing in other subscriptions and add-ons, but then she turns them down at the very end.[lr]",
+      "jp": "ãæããã¶ããªåãèº«ã§ã¢ã¤ãã æ ¹ãããã²ãããæå¾ã®æå¾ã§ç¬é¡ã§ã«ããã[lr]",
+      "Pt-br": "Ela os induz a incluir outras assinaturas e adicionais e, no final, os rejeita.[lr]",
+      "id": 26016,
+      "epk_id": "31147",
+      "label": "$$$message_0227_0010_0000$$$"
+    },
+    {
+      "en": "And her smile when she says, \"I'll call the police if you don't leave\" is too shocking for any man to bear.[lr]",
+      "jp": "ããã®ç¬é¡ã§ãããããå¸°ããªãã¨è­¦å¯å¼ã³ã¾ããï¼ããªãã¦è¨ããããç·ã¨ãã¦ã·ã§ãã¯ãããã[lr]",
+      "Pt-br": "E o sorriso dela quando ela diz \"Vou chamar a polícia se você não for embora\" é chocante demais para qualquer homem suportar.[lr]",
+      "id": 26017,
+      "epk_id": "31148",
+      "label": "$$$message_0227_0010_0001$$$"
+    },
+    {
+      "en": "It's an aggressive defense on par with a Kyoto woman offering you bubuzuke to get you out of their hair.",
+      "jp": "ãäº¬é½ç¾äººã®ã¶ã¶æ¼¬ãé£ã£ã¦ãã¨åç¨®ã®æ»æ§é²å¾¡ã§ããã",
+      "Pt-br": "É uma defesa agressiva que está em pé de igualdade com a de uma mulher de Quioto te oferecendo bubuzuke para você sair do pé dela.",
+      "id": 26018,
+      "epk_id": "31149",
+      "label": "$$$message_0227_0010_0002$$$"
+    },
+    {
+      "en": "\"I see. I can understand that we should avoid making her angry, considering how calm she is every day.[lr]",
+      "jp": "ããªãã»ã©ãæ¥ããç©åãªåãæ¬æ°ã§æããã¦ã¯ãããªããã¨ããã®ã¯çè§£ã§ãã¾ãã[lr]",
+      "Pt-br": "\"Entendo. Eu consigo entender que nós devemos evitar deixá-la irritada, considerando o quão calma ela é no dia a dia.[lr]",
+      "id": 26019,
+      "epk_id": "31150",
+      "label": "$$$message_0227_0011_0000$$$"
+    },
+    {
+      "en": "...By the way, where is she now?\"[lr]",
+      "jp": "ãâ¦â¦ã¨ããã§ããã®ãµã¯ã©ã¯ä½å¦ã«ï¼ã[lr]",
+      "Pt-br": "...Por falar nisso, onde ela está agora?\"[lr]",
+      "id": 26020,
+      "epk_id": "31151",
+      "label": "$$$message_0227_0011_0001$$$"
+    },
+    {
+      "en": "\"She went with Saber to the Fujimuras. They'll be back soon, so go ahead and watch TV with Fuji-nee.\"",
+      "jp": "ãã»ã¤ãã¼ã¨ä¸ç·ã«è¤æçµã ãããå¸°ã£ã¦ãããããè¤ã­ãã¨ãã¬ãã§ãè¦ã¦ã¦ããã",
+      "Pt-br": "\"Ela foi com a Saber à casa dos Fujimuras. Elas logo voltarão, então vá em frente e assista à TV com a Fuji-nee.\"",
+      "id": 26021,
+      "epk_id": "31152",
+      "label": "$$$message_0227_0011_0002$$$"
+    },
+    {
+      "en": "\"Would you like help plating the food?\"[lr]",
+      "jp": "ãçãã¤ãã®æä¼ãã¯ããªãã¦ããããã®ã§ããï¼ã[lr]",
+      "Pt-br": "\"Gostaria de ajuda para servir a comida?\"[lr]",
+      "id": 26022,
+      "epk_id": "31153",
+      "label": "$$$message_0227_0012_0000$$$"
+    },
+    {
+      "en": "\"I'll be fine, but I appreciate the thought. We just need one big plate today.\"[lr]",
+      "jp": "ããããæ°æã¡ã ãã§ååãä»æ¥ã¯å¤§ç¿ä¸æã§äºè¶³ããããã[lr]",
+      "Pt-br": "\"Eu ficarei bem, mas agradeço a consideração. Nós só precisaremos de um prato grande hoje.\"[lr]",
+      "id": 26023,
+      "epk_id": "31154",
+      "label": "$$$message_0227_0012_0001$$$"
+    },
+    {
+      "en": "Rider gives me a quick bow and heads back to the living room.[wait canskip=0 time=300][clfg textoff=0 pos=all rule=シャッター左から time=400]",
+      "jp": "ãããã§ã¯ãã¨è»½ããè¾åãã¦å±\néã«æ»ãã©ã¤ãã¼ã[wait canskip=0 time=300][clfg textoff=0 pos=all rule=ã·ã£ãã¿ã¼å·¦ãã time=400]",
+      "Pt-br": "A Rider me faz uma breve reverência e volta para a sala de estar.[wait canskip=0 time=300][clfg textoff=0 pos=all rule=シャッター左から time=400]",
+      "id": 26024,
+      "epk_id": "31155",
+      "label": "$$$message_0227_0012_0002$$$"
+    },
+    {
+      "en": "\"GAAAH!? W-what are you doing, Rider? They were finally showing the legendary Racket Rainbow Gaddem!\"[lr]",
+      "jp": "ãããã¼ï¼ï¼ãããã©ã¤ãã¼ãããªã«ããã®ãã\nããã£ããæã«å\n¥ããä¼èª¬ã®ã©ã±ããã»ã¬ã¤ã³ãã¥ã¬ããã ã®ãæ«é²ç®ãªã®ã«ã¼ï¼ã[lr]",
+      "Pt-br": "\"GAAAH!? O-o que você está fazendo, Rider-san? Eles finalmente estavam exibindo o lendário Racket Rainbow Gaddem!\"[lr]",
+      "id": 26025,
+      "epk_id": "31156",
+      "label": "$$$message_0227_0013_0000$$$"
+    },
+    {
+      "en": "\"I'm sorry. I wanted to watch the news.\"",
+      "jp": "ããã¿ã¾ããããã¡ãã®ãã¥ã¼ã¹ãè¦ããã£ããã®ã§ã",
+      "Pt-br": "\"Sinto muito. Eu queria assistir às notícias.\"",
+      "id": 26026,
+      "epk_id": "31157",
+      "label": "$$$message_0227_0013_0001$$$"
+    },
+    {
+      "en": "\"Gwah! Th-that isn't a good reason, even if it's obvious![lr]",
+      "jp": "ãããï¼ï¼ãããæç¢ºããã¦ãã¯ãçç±ã«ãªã£ã¦ã­ã¼ï¼[lr]",
+      "Pt-br": "\"Gwah! I-isso não é um bom motivo, mesmo que seja óbvio![lr]",
+      "id": 26027,
+      "epk_id": "31158",
+      "label": "$$$message_0227_0014_0000$$$"
+    },
+    {
+      "en": "Come on, that anime isn't boring, you know![lr]",
+      "jp": "ããªãã§ãã¼ãéå±ããªããããã®ã¢ãã¡ï¼ï¼[lr]",
+      "Pt-br": "Qual é, sabe, esse anime não é chato![lr]",
+      "id": 26028,
+      "epk_id": "31159",
+      "label": "$$$message_0227_0014_0001$$$"
+    },
+    {
+      "en": "It's just a Racket, but it uses crazy weapons like floppies, pizzas, and laser cannons. It's on a whole different level that you can't define with 'cool' or 'boring.'\"",
+      "jp": "ãã©ã±ããã®ã¯ã»ã«ãã­ããã¼ã¨ããã¶ã¨ãã¬ã¼ã¶ã¼ç ²ãå\nå\nãããããå\nµå¨ã¨ãä½¿ã£ã¦ã­ãããé¢ç½ãã¨ãã¤ã¾ããªãã¨ãè¶\nè¶ããæ¬¡å\nã®ä½åãªãã ããã",
+      "Pt-br": "É só um Racket, mas ele usa armas malucas como disquetes, pizzas e canhões de laser. Está num nível totalmente diferente e que você não pode definir como 'legal' ou 'chato'.\"",
+      "id": 26029,
+      "epk_id": "31160",
+      "label": "$$$message_0227_0014_0002$$$"
+    },
+    {
+      "en": "Rider nods expressionlessly along to Fuji-nee's explanation while watching the news.[lr]",
+      "jp": "ãè¤ã­ãã®èª¬æã«é ·ããªããããã£ã±ãç¡æ\nã«ãã£ã³ãã«ãå¤ããã©ã¤ãã¼ã[lr]",
+      "Pt-br": "A Rider acena inexpressivamente com a cabeça diante da explicação da Fuji-nee, enquanto assiste às notícias.[lr]",
+      "id": 26030,
+      "epk_id": "31161",
+      "label": "$$$message_0227_0015_0000$$$"
+    },
+    {
+      "en": "According to her, reading is a key part of her lifestyle, but TV is purely a hobby.",
+      "jp": "ãå½¼å¥³æ°ããèª­æ¸ã¯çæ´»ã®ä¸é¨ããã¬ãã¯ç´ç²ãªè¶£å³ãªã®ã ã¨ãã",
+      "Pt-br": "De acordo com ela, a leitura é uma parte fundamental do seu estilo de vida, mas a TV é puramente um passatempo.",
+      "id": 26031,
+      "epk_id": "31162",
+      "label": "$$$message_0227_0015_0001$$$"
+    },
+    {
+      "en": "\"Still, though...\"[lr]",
+      "jp": "ãâ¦â¦â¦â¦ãããããªãã ãªã[lr]",
+      "Pt-br": "\"Mesmo assim...\"[lr]",
+      "id": 26032,
+      "epk_id": "31163",
+      "label": "$$$message_0227_0016_0000$$$"
+    },
+    {
+      "en": "Our house really is lively now.[lr]",
+      "jp": "ãã»ãã¨ããã¡ãè³ããã«ãªã£ãããã ã[lr]",
+      "Pt-br": "A nossa casa está bem animada agora.[lr]",
+      "id": 26033,
+      "epk_id": "31164",
+      "label": "$$$message_0227_0016_0001$$$"
+    },
+    {
+      "en": "Imagine how much noisier it's going to get once we all sit down for dinner.",
+      "jp": "ãã¡ã·ã®åã§ãããªãã ãããå¤é£ã«ãªã£ããã©ãã ãè³ããã«ãªãäºããã",
+      "Pt-br": "Imagina o quanto vai ficar mais barulhenta quando nós todos nos sentarmos para jantar.",
+      "id": 26034,
+      "epk_id": "31165",
+      "label": "$$$message_0227_0016_0002$$$"
+    },
+    {
+      "en": "\"One can apparently overcome their struggles. You should see how Sakura shoots down newspaper salesmen. It gives me shivers.\"[r]",
+      "jp": "ãè¦æãªãã®ã£ã¦å\næã§ã[r]ããããã[r]æ¡ã®æ°èå§èªã®ãããæ¹ã¯[r]ãããããè¦ã¦ãããã£ã¡[r]ãæããªããããã°¤Ï",
+      "Pt-br": "\"Aparentemente, as pessoas conseguem superar os seus sufocos. Você devia ver como a Sakura dispensa os vendedores de jornal. Isso me dá arrepios.\"[r]",
+      "id": 26035,
+      "epk_id": "931146",
+      "label": "$$$message_9227_0009_0001$$$"
+    }
+  ]
+}

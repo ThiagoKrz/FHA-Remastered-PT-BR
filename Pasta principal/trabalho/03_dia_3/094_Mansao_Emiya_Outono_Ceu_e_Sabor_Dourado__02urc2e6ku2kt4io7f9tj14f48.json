@@ -1,0 +1,688 @@
+{
+  "cena": "02urc2e6ku2kt4io7f9tj14f48",
+  "titulo": "Mansão Emiya: Outono, Céu e Sabor Dourado",
+  "rota": "Dia 3",
+  "arquivo": "02urc2e6ku2kt4io7f9tj14f48.epk_dec",
+  "linhas": [
+    {
+      "en": "I absently look at the yard, and see that there's quite a lot of fallen leaves.[lr]",
+      "jp": "　何気なしに庭を見たら、結構落ち葉が散っていた。[lr]",
+      "Pt-br": "Olho distraidamente para o quintal e vejo um monte de folhas caídas.[lr]",
+      "id": 14589,
+      "epk_id": "4256",
+      "label": "$$$message_0032_0000_0000$$$"
+    },
+    {
+      "en": "I do have some time, so I'll clean up the yard a bit.[seloop storage=se513.wav][lr]",
+      "jp": "　時間もある事だし、ひとつ庭掃除でもしてみるか。[seloop storage=se513.wav][lr]",
+      "Pt-br": "Ainda tenho um tempinho, então resolvo dar uma limpada no quintal.[seloop storage=se513.wav][lr]",
+      "id": 14590,
+      "epk_id": "4257",
+      "label": "$$$message_0032_0000_0001$$$"
+    },
+    {
+      "en": "There's no wind today, so I make good time gathering up all the dead leaves.[lr]",
+      "jp": "　今日は風もないので集めた枯葉が散ってしまう事もなく、掃除は順調に進む。[lr]",
+      "Pt-br": "Como hoje não venta, junto todas as folhas secas num instante.[lr]",
+      "id": 14591,
+      "epk_id": "4258",
+      "label": "$$$message_0032_0000_0002$$$"
+    },
+    {
+      "en": "\"What are you doing, Shirou?\"",
+      "jp": "「シロウ、何をしているのですか」",
+      "Pt-br": "\"O que você está fazendo, Shirou?\"",
+      "id": 14592,
+      "epk_id": "4259",
+      "label": "$$$message_0032_0000_0003$$$"
+    },
+    {
+      "en": "I turn to face the speaker. Saber is watching me. It looks like she just came from the front door of the house.[lr]",
+      "jp": "　声のしたほうを振り向くと、玄関から回ってきたのか、セイバーがこっちを見ていた。[lr]",
+      "Pt-br": "Viro para quem falou. Saber me observa. Parece que ela acabou de sair pela porta da frente da casa.[lr]",
+      "id": 14593,
+      "epk_id": "4260",
+      "label": "$$$message_0032_0001_0000$$$"
+    },
+    {
+      "en": "\"Oh, Saber. I'm cleaning the yard, as you can see.\"[lr]",
+      "jp": "「セイバーか。見ての通り庭掃除だけど」[lr]",
+      "Pt-br": "\"Oh, Saber. Estou limpando o quintal, como você pode ver.\"[lr]",
+      "id": 14594,
+      "epk_id": "4261",
+      "label": "$$$message_0032_0001_0001$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=セイバー私服04e(遠) textoff=0]I show her the broom I'm holding.[lr]",
+      "jp": "　[chgfg time=300 storage=セイバー私服04e(遠) textoff=0][ruby text=ほうき]箒を軽く掲げて見せる。[lr]",
+      "Pt-br": "[chgfg time=300 storage=セイバー私服04e(遠) textoff=0]Mostro a ela a vassoura que tenho na mão.[lr]",
+      "id": 14595,
+      "epk_id": "4262",
+      "label": "$$$message_0032_0001_0002$$$"
+    },
+    {
+      "en": "Saber looks at my pile of leaves, then at the size of the yard, and sighs.",
+      "jp": "　セイバーは集めた落ち葉と庭を見比べ、軽く溜息をついてしまった。",
+      "Pt-br": "Saber olha para o monte de folhas, depois para o tamanho do quintal, e suspira.",
+      "id": 14596,
+      "epk_id": "4263",
+      "label": "$$$message_0032_0001_0003$$$"
+    },
+    {
+      "en": "\"It must be difficult on your own. Why haven't you asked anyone to help you?\"[lr]",
+      "jp": "「一人では大変でしょう。何故、誰かに手伝いを求めなかったのですか」[lr]",
+      "Pt-br": "\"Deve ser difícil fazer isso sozinho. Por que não pediu ajuda a ninguém?\"[lr]",
+      "id": 14597,
+      "epk_id": "4264",
+      "label": "$$$message_0032_0002_0000$$$"
+    },
+    {
+      "en": "\"Eh...? No real reason. I just thought I'd do it myself.\"",
+      "jp": "「え……？　いや、なんとなく。一人で片づければいいかなって」",
+      "Pt-br": "\"Hã...? Não teve motivo nenhum. Eu só achei que faria sozinho.\"",
+      "id": 14598,
+      "epk_id": "4265",
+      "label": "$$$message_0032_0002_0001$$$"
+    },
+    {
+      "en": "\"Shirou, two sets of hands work faster than one. It will reduce the burden on you. The rest of us live in this house, too, so you should have asked.\"[lr]",
+      "jp": "「シロウ。一人よりも二人でやったほうが早く終わるし、一人の負担も減ります。家には私たちがいるのですから、一声かけてくれれば良かったのです」[lr]",
+      "Pt-br": "\"Shirou, duas pessoas trabalham mais rápido do que uma. Isso reduziria o seu trabalho. Nós também moramos nesta casa, então você deveria ter pedido.\"[lr]",
+      "id": 14599,
+      "epk_id": "4266",
+      "label": "$$$message_0032_0003_0000$$$"
+    },
+    {
+      "en": "Exasperated, Saber grabs the broom from my hand.[lr]",
+      "jp": "　呆れながら、セイバーは俺の手から[ruby text=ほうき]箒を奪い取った。[lr]",
+      "Pt-br": "Exasperada, Saber toma a vassoura da minha mão.[lr]",
+      "id": 14600,
+      "epk_id": "4267",
+      "label": "$$$message_0032_0003_0001$$$"
+    },
+    {
+      "en": "\"Well, sure, but[line len=2]\"",
+      "jp": "「いや、まあそうだけど」",
+      "Pt-br": "\"Bom, tudo bem, mas[line len=2]\"",
+      "id": 14601,
+      "epk_id": "4268",
+      "label": "$$$message_0032_0003_0002$$$"
+    },
+    {
+      "en": "\"Listen. It is not wrong to ask for help. If any of us are idle, then it's completely natural to ask us for help.\"[lr]",
+      "jp": "「いいですか、手伝いを求める事は悪い事ではありません。手の空いている者がいれば、それを使うのはごく当然の事ではありませんか」[lr]",
+      "Pt-br": "\"Escute. Não há nada de errado em pedir ajuda. Se algum de nós estiver sem fazer nada, o natural é pedir nossa ajuda.\"[lr]",
+      "id": 14602,
+      "epk_id": "4269",
+      "label": "$$$message_0032_0004_0000$$$"
+    },
+    {
+      "en": "She pokes the tip of the broom shaft at my nose.",
+      "jp": "　びしり、と[ruby text=ほうき]箒の柄を鼻先に突きつけられる。",
+      "Pt-br": "Ela encosta a ponta do cabo da vassoura no meu nariz.",
+      "id": 14603,
+      "epk_id": "4270",
+      "label": "$$$message_0032_0004_0001$$$"
+    },
+    {
+      "en": "\"Um, okay. I'll do my best.\"",
+      "jp": "「あ、うん。善処する」",
+      "Pt-br": "\"Tá bom. Vou fazer o meu melhor.\"",
+      "id": 14604,
+      "epk_id": "4271",
+      "label": "$$$message_0032_0005_0000$$$"
+    },
+    {
+      "en": "\"...Hrm. Very well. Now you know what to do in the future.[wait canskip=false time=300][wvs][seloop storage=se513.wav][clfg time=300 rule=シャッター左から storage=セイバー私服02c(中) textoff=0]\"[lr]",
+      "jp": "「[line len=3]むぅ。……よろしい、前向きになっただけ良しとしましょう」[wait canskip=false time=300][wvs][seloop storage=se513.wav][clfg time=300 rule=シャッター左から storage=セイバー私服02c(中) textoff=0][lr]",
+      "Pt-br": "\"...Hrm. Muito bem. Agora você já sabe o que fazer da próxima vez.\"[wait canskip=false time=300][wvs][seloop storage=se513.wav][clfg time=300 rule=シャッター左から storage=セイバー私服02c(中) textoff=0][lr]",
+      "id": 14605,
+      "epk_id": "4272",
+      "label": "$$$message_0032_0006_0000$$$"
+    },
+    {
+      "en": "Saber helps me clean the rest of the yard.",
+      "jp": "　などと言いながら、セイバーは当然のように掃除を手伝ってくれた。",
+      "Pt-br": "Saber me ajuda a limpar o resto do quintal.",
+      "id": 14606,
+      "epk_id": "4273",
+      "label": "$$$message_0032_0006_0001$$$"
+    },
+    {
+      "en": "...She's a hard worker.[lr]",
+      "jp": "　……こうなるとセイバーは働き者だ。[lr]",
+      "Pt-br": "...Ela é mesmo esforçada.[lr]",
+      "id": 14607,
+      "epk_id": "4274",
+      "label": "$$$message_0032_0007_0000$$$"
+    },
+    {
+      "en": "I was only going to do a light cleaning, [sestop time=1000 nowait=true]but while we're at it, we pull out the cart and load all of the dead leaves into it.[lr]",
+      "jp": "　軽く掃いて終わらせるつもりだったのだが、[sestop time=1000 nowait=true]どうせならとリヤカーを引っ張り出し、庭中の落ち葉と枯れ木をかき集めて積んでいく。[lr]",
+      "Pt-br": "Eu só pretendia fazer uma limpezinha, [sestop time=1000 nowait=true]mas, já que estamos nisso, puxamos o carrinho e o enchemos com todas as folhas secas.[lr]",
+      "id": 14608,
+      "epk_id": "4275",
+      "label": "$$$message_0032_0007_0001$$$"
+    },
+    {
+      "en": "By the time we've finished one round of the yard, the cart is completely full.",
+      "jp": "　庭を一回りする頃には、リヤカーは一杯になっていた。",
+      "Pt-br": "Quando terminamos uma volta pelo quintal, o carrinho já está lotado.",
+      "id": 14609,
+      "epk_id": "4276",
+      "label": "$$$message_0032_0007_0002$$$"
+    },
+    {
+      "en": "\"Shirou, what are you going to do with these leaves?\"[lr]",
+      "jp": "「シロウ、この集めた落ち葉はどうするのですか」[lr]",
+      "Pt-br": "\"Shirou, o que você vai fazer com essas folhas?\"[lr]",
+      "id": 14610,
+      "epk_id": "4277",
+      "label": "$$$message_0032_0008_0000$$$"
+    },
+    {
+      "en": "\"Normally, I'd put them out for collection with the other burnable trash.\"[lr]",
+      "jp": "「普段ならまとめて燃えるゴミに出すんだけどな」[lr]",
+      "Pt-br": "\"Normalmente eu colocaria isso para a coleta junto com o resto do lixo queimável.\"[lr]",
+      "id": 14611,
+      "epk_id": "4278",
+      "label": "$$$message_0032_0008_0001$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=セイバー私服04e(中) textoff=0]But we have a lot of them today, so there's something I want to try.",
+      "jp": "　[chgfg time=300 storage=セイバー私服04e(中) textoff=0]それにしては今日は量が多いし、ちょっとやりたい事があるのだ。",
+      "Pt-br": "[chgfg time=300 storage=セイバー私服04e(中) textoff=0]Mas hoje temos folhas demais, então há algo que quero tentar.",
+      "id": 14612,
+      "epk_id": "4279",
+      "label": "$$$message_0032_0008_0002$$$"
+    },
+    {
+      "en": "\"You intend to do something different this time?\"[lr]",
+      "jp": "「普段なら、というのはどういう意味ですか」[lr]",
+      "Pt-br": "\"Vai fazer algo diferente desta vez?\"[lr]",
+      "id": 14613,
+      "epk_id": "4280",
+      "label": "$$$message_0032_0009_0000$$$"
+    },
+    {
+      "en": "\"Yeah. I'm thinking we could build a bonfire while we have the time.\"[lr]",
+      "jp": "「ああ。まだ時間もあるし焚き火でもしよう」[lr]",
+      "Pt-br": "\"É. Estou pensando em fazer uma fogueira, já que temos tempo.\"[lr]",
+      "id": 14614,
+      "epk_id": "4281",
+      "label": "$$$message_0032_0009_0001$$$"
+    },
+    {
+      "en": "\"A bonfire?\"[lr]",
+      "jp": "「焚き火、ですか」[lr]",
+      "Pt-br": "\"Uma fogueira?\"[lr]",
+      "id": 14615,
+      "epk_id": "4282",
+      "label": "$$$message_0032_0009_0002$$$"
+    },
+    {
+      "en": "\"Yep. We may as well take advantage of it.[lr]",
+      "jp": "「ああ。折角集めたんだから有効利用しないと。[lr]",
+      "Pt-br": "\"É. Já que surgiu a chance, melhor aproveitar.[lr]",
+      "id": 14616,
+      "epk_id": "4283",
+      "label": "$$$message_0032_0009_0003$$$"
+    },
+    {
+      "en": "And I've got these today.\"[lr]",
+      "jp": "　それに、今日はこういうものもある」[lr]",
+      "Pt-br": "E hoje eu trouxe isto.\"[lr]",
+      "id": 14617,
+      "epk_id": "4284",
+      "label": "$$$message_0032_0009_0004$$$"
+    },
+    {
+      "en": "I show her the bag I brought from the kitchen.",
+      "jp": "　台所から持ってきた袋を見せる。",
+      "Pt-br": "Mostro a ela a sacola que trouxe da cozinha.",
+      "id": 14618,
+      "epk_id": "4285",
+      "label": "$$$message_0032_0009_0005$$$"
+    },
+    {
+      "en": "\"Hm? What are those...?\"[lr]",
+      "jp": "「？　それは何でしょう……？」[lr]",
+      "Pt-br": "\"Hmm? O que são essas...?\"[lr]",
+      "id": 14619,
+      "epk_id": "4286",
+      "label": "$$$message_0032_0010_0000$$$"
+    },
+    {
+      "en": "\"Sweet potatoes. It's a tradition in this country to roast them over a bonfire.\"[lr]",
+      "jp": "「さつま芋。焚き火でこれを焼いて食べるのがこの国の伝統なんだぞ」[lr]",
+      "Pt-br": "\"Batatas-doces. Aqui no Japão, existe o costume de assá-las na fogueira.\"[lr]",
+      "id": 14620,
+      "epk_id": "4287",
+      "label": "$$$message_0032_0010_0001$$$"
+    },
+    {
+      "en": "\"A tradition?\"[lr]",
+      "jp": "「伝統、ですか」[lr]",
+      "Pt-br": "\"Uma tradição?\"[lr]",
+      "id": 14621,
+      "epk_id": "4288",
+      "label": "$$$message_0032_0010_0002$$$"
+    },
+    {
+      "en": "That might be overstating it, but it is a thing we do.",
+      "jp": "　まあ言い過ぎなきらいはあるが、文化の一つである事に間違いあるまい。",
+      "Pt-br": "Talvez seja exagero chamar isso de tradição, mas é algo que a gente faz.",
+      "id": 14622,
+      "epk_id": "4289",
+      "label": "$$$message_0032_0010_0003$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=セイバー私服01a(中) textoff=0]After wrapping the potatoes in aluminum foil, I build a fire using the dead leaves.[lr]",
+      "jp": "　[chgfg time=300 storage=セイバー私服01a(中) textoff=0]アルミ箔に包んでから、落ち葉に埋めて火をつける。[lr]",
+      "Pt-br": "[chgfg time=300 storage=セイバー私服01a(中) textoff=0]Depois de embrulhar as batatas em papel-alumínio, acendo uma fogueira com as folhas secas.[lr]",
+      "id": 14623,
+      "epk_id": "4290",
+      "label": "$$$message_0032_0011_0000$$$"
+    },
+    {
+      "en": "The leaves are dry since it hasn't rained recently, and the fire roars to life quickly.",
+      "jp": "　最近は雨も降らなかったので枯れ枝も乾いていて、火は順調に大きくなる。",
+      "Pt-br": "Como não choveu nos últimos dias, as folhas estão bem secas, e o fogo pega rapidinho.",
+      "id": 14624,
+      "epk_id": "4291",
+      "label": "$$$message_0032_0011_0001$$$"
+    },
+    {
+      "en": "\"You seem experienced at this. Do you do it often?\"[lr]",
+      "jp": "「随分と手馴れているようですが、シロウはこのような事をたびたびしているのですか？」[lr]",
+      "Pt-br": "\"Você parece ter prática com isso. Faz sempre?\"[lr]",
+      "id": 14625,
+      "epk_id": "4292",
+      "label": "$$$message_0032_0012_0000$$$"
+    },
+    {
+      "en": "\"Nah. Maybe once or twice a year.\"",
+      "jp": "「いや。焚き火なんて年に一回か二回やるかやらないかだよ」",
+      "Pt-br": "\"Não muito. Talvez uma ou duas vezes por ano.\"",
+      "id": 14626,
+      "epk_id": "4293",
+      "label": "$$$message_0032_0012_0001$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=セイバー私服01b(中) textoff=0]I listen to the fire crackle. Next to me, Saber looks even more at ease than usual.",
+      "jp": "　[chgfg time=300 storage=セイバー私服01b(中) textoff=0]ぱちぱちと、焚き火の爆ぜる音を聞きながら、横を見るとセイバーがいつもよりも穏やかな顔をしているように見えた。",
+      "Pt-br": "[chgfg time=300 storage=セイバー私服01b(中) textoff=0]Ouço o crepitar do fogo. Ao meu lado, Saber parece ainda mais relaxada do que de costume.",
+      "id": 14627,
+      "epk_id": "4294",
+      "label": "$$$message_0032_0013_0000$$$"
+    },
+    {
+      "en": "\"...This takes me back.\"[lr]",
+      "jp": "「……懐かしいですね」[lr]",
+      "Pt-br": "\"...Isso me traz lembranças.\"[lr]",
+      "id": 14628,
+      "epk_id": "4295",
+      "label": "$$$message_0032_0014_0000$$$"
+    },
+    {
+      "en": "\"The fire?\"",
+      "jp": "「焚き火が？」",
+      "Pt-br": "\"O fogo?\"",
+      "id": 14629,
+      "epk_id": "4296",
+      "label": "$$$message_0032_0014_0001$$$"
+    },
+    {
+      "en": "\"Yes. Fire has always been indispensable for keeping warm, cooking, or illumination.[lr]",
+      "jp": "「ええ。暖を取る時も、調理をする時も、明かりをとる時も、火は欠かせぬものでしたから。[lr]",
+      "Pt-br": "\"Sim. O fogo sempre foi indispensável para aquecer, cozinhar e iluminar.[lr]",
+      "id": 14630,
+      "epk_id": "4297",
+      "label": "$$$message_0032_0015_0000$$$"
+    },
+    {
+      "en": "It's no longer something I see often in these times, so seeing it reminds me of the past.\"",
+      "jp": "　こちらではあまり見る事がないので、こうしていると懐かしく思えます」",
+      "Pt-br": "Hoje em dia quase não o vejo mais, então olhar para ele me faz lembrar do passado.\"",
+      "id": 14631,
+      "epk_id": "4298",
+      "label": "$$$message_0032_0015_0001$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=セイバー私服06a腕b(中) textoff=0]...I see. Energy sources like electricity and natural gas only became universal in the last century or so. There's only one Servant around that would have been familiar with them during his lifetime.",
+      "jp": "　[chgfg time=300 storage=セイバー私服06a腕b(中) textoff=0]……そうか。電気やガスが普及したのはここ百年くらいの事だし、それに馴染んでいるサーヴァントなんてアイツくらいなもんだろう。",
+      "Pt-br": "[chgfg time=300 storage=セイバー私服06a腕b(中) textoff=0]...Entendi. Fontes de energia como eletricidade e gás natural só se tornaram comuns no último século ou coisa assim. Entre os Servos que conheço, só um teria convivido com isso em vida.",
+      "id": 14632,
+      "epk_id": "4299",
+      "label": "$$$message_0032_0016_0000$$$"
+    },
+    {
+      "en": "\"It's a relaxing sight.\"[lr]",
+      "jp": "「こうして火を見るのは、落ち着くものです」[lr]",
+      "Pt-br": "\"É uma visão tranquilizante.\"[lr]",
+      "id": 14633,
+      "epk_id": "4300",
+      "label": "$$$message_0032_0017_0000$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=セイバー私服01b(中) textoff=0]I wonder what Saber sees beyond the flames.[lr]",
+      "jp": "　[chgfg time=300 storage=セイバー私服01b(中) textoff=0]炎の向こうにセイバーが何を見ているのか。[lr]",
+      "Pt-br": "[chgfg time=300 storage=セイバー私服01b(中) textoff=0]Fico me perguntando o que Saber enxerga além das chamas.[lr]",
+      "id": 14634,
+      "epk_id": "4301",
+      "label": "$$$message_0032_0017_0001$$$"
+    },
+    {
+      "en": "Fire doesn't bring up good memories for me, so I can't share her nostalgia.",
+      "jp": "　炎に良い記憶のない俺には、彼女と同じものを見るコトはできなかった。",
+      "Pt-br": "O fogo não me traz boas lembranças, então não consigo compartilhar dessa nostalgia.",
+      "id": 14635,
+      "epk_id": "4302",
+      "label": "$$$message_0032_0017_0002$$$"
+    },
+    {
+      "en": "The bonfire dies once most of the dead leaves are exhausted.[lr]",
+      "jp": "　落ち葉も大体燃やし尽くして、焚き火は終了。[lr]",
+      "Pt-br": "A fogueira se apaga quando a maior parte das folhas secas já foi consumida.[lr]",
+      "id": 14636,
+      "epk_id": "4303",
+      "label": "$$$message_0032_0018_0000$$$"
+    },
+    {
+      "en": "Taking care not to scatter the black ashes, I remove the roasted potatoes with a fire poker.[lr]",
+      "jp": "　残った黒い灰を舞い散らさないように注意しながら、火かき棒で焼き芋を掘り出した。[lr]",
+      "Pt-br": "Tomando cuidado para não espalhar as cinzas pretas, tiro as batatas-doces assadas com a atiçadeira.[lr]",
+      "id": 14637,
+      "epk_id": "4304",
+      "label": "$$$message_0032_0018_0001$$$"
+    },
+    {
+      "en": "\"Okay. That should be plenty.\"[lr]",
+      "jp": "「よし。これなら十分焼けてる」[lr]",
+      "Pt-br": "\"Pronto. Acho que já basta.\"[lr]",
+      "id": 14638,
+      "epk_id": "4305",
+      "label": "$$$message_0032_0018_0002$$$"
+    },
+    {
+      "en": "Wearing mittens, I dust off the soot and wrap them in newspaper.[lr]",
+      "jp": "　軍手のまま、[ruby text=すす]煤を払って新聞紙に包む。[lr]",
+      "Pt-br": "De luvas, tiro a fuligem delas e as embrulho em jornal.[lr]",
+      "id": 14639,
+      "epk_id": "4306",
+      "label": "$$$message_0032_0018_0003$$$"
+    },
+    {
+      "en": "I haven't broken them open yet, but they already smell good.",
+      "jp": "　まだ割っていないが、いい匂いが漂ってくる。",
+      "Pt-br": "Ainda nem as abri, mas o cheiro já está ótimo.",
+      "id": 14640,
+      "epk_id": "4307",
+      "label": "$$$message_0032_0018_0004$$$"
+    },
+    {
+      "en": "\"Here, Saber. They're hot, so be careful.\"[lr]",
+      "jp": "「ほらセイバー、パス。熱いから気をつけてな」[lr]",
+      "Pt-br": "\"Aqui, Saber. Estão quentes, então cuidado.\"[lr]",
+      "id": 14641,
+      "epk_id": "4308",
+      "label": "$$$message_0032_0019_0000$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=セイバー私服05d(中) textoff=0]I hand the first sweet potato to Saber, and start to dig out the rest from the ashes.",
+      "jp": "　[chgfg time=300 storage=セイバー私服05d(中) textoff=0]最初に包んだ芋をセイバーに渡して、残りも灰の中から掘り出していく。",
+      "Pt-br": "[chgfg time=300 storage=セイバー私服05d(中) textoff=0]Entrego a primeira batata-doce para Saber e começo a tirar o resto das cinzas.",
+      "id": 14642,
+      "epk_id": "4309",
+      "label": "$$$message_0032_0019_0001$$$"
+    },
+    {
+      "en": "\"What about you, Shirou?\"[lr]",
+      "jp": "「シロウは良いのですか？」[lr]",
+      "Pt-br": "\"E você, Shirou?\"[lr]",
+      "id": 14643,
+      "epk_id": "4310",
+      "label": "$$$message_0032_0020_0000$$$"
+    },
+    {
+      "en": "\"I'll eat after I take all of them out. Go ahead and try one first. They're tasty while they're still hot.\"[lr]",
+      "jp": "「全部取り出してから食べるから、先に食べてくれ。熱いうちに食ったほうが美味いから」[lr]",
+      "Pt-br": "\"Vou comer depois de tirar todas daqui. Vai em frente, prova uma primeiro. Ficam uma delícia bem quentinhas.\"[lr]",
+      "id": 14644,
+      "epk_id": "4311",
+      "label": "$$$message_0032_0020_0001$$$"
+    },
+    {
+      "en": "\"Very well.\"",
+      "jp": "「では」",
+      "Pt-br": "\"Muito bem.\"",
+      "id": 14645,
+      "epk_id": "4312",
+      "label": "$$$message_0032_0020_0002$$$"
+    },
+    {
+      "en": "Saber's face lights up in surprise after taking a bite. [chgfg time=300 storage=セイバーfd特殊03_焼き芋a頬(中) textoff=0]She nods in satisfaction.[lr]",
+      "jp": "　一口かじると、セイバーは驚いた顔をした。[chgfg time=300 storage=セイバーfd特殊03_焼き芋a頬(中) textoff=0]そのまま口に運んでは満足そうに頷いている。[lr]",
+      "Pt-br": "O rosto de Saber se ilumina de surpresa depois da primeira mordida. [chgfg time=300 storage=セイバーfd特殊03_焼き芋a頬(中) textoff=0]Ela assente, satisfeita.[lr]",
+      "id": 14646,
+      "epk_id": "4313",
+      "label": "$$$message_0032_0021_0000$$$"
+    },
+    {
+      "en": "\"Does it taste good?\"",
+      "jp": "「美味い？」",
+      "Pt-br": "\"Está gostoso?\"",
+      "id": 14647,
+      "epk_id": "4314",
+      "label": "$$$message_0032_0021_0001$$$"
+    },
+    {
+      "en": "\"Yes, very.\"[lr]",
+      "jp": "「はい、とても」[lr]",
+      "Pt-br": "\"Sim, muito.\"[lr]",
+      "id": 14648,
+      "epk_id": "4315",
+      "label": "$$$message_0032_0022_0000$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=セイバーfd特殊02_焼き芋d頬(中) textoff=0]She looks pleased as pie.[lr]",
+      "jp": "　[chgfg time=300 storage=セイバーfd特殊02_焼き芋d頬(中) textoff=0]セイバーはこの上なく満足そうだ。[lr]",
+      "Pt-br": "[chgfg time=300 storage=セイバーfd特殊02_焼き芋d頬(中) textoff=0]Ela parece feliz da vida.[lr]",
+      "id": 14649,
+      "epk_id": "4316",
+      "label": "$$$message_0032_0022_0001$$$"
+    },
+    {
+      "en": "I'm glad. She went to the trouble of helping me, so this can be my way of thanking her.",
+      "jp": "　よかった。折角手伝ってもらったんだし、これがお礼になればいい。",
+      "Pt-br": "Ainda bem. Já que ela se deu ao trabalho de me ajudar, esta pode ser a minha forma de agradecê-la.",
+      "id": 14650,
+      "epk_id": "4317",
+      "label": "$$$message_0032_0022_0002$$$"
+    },
+    {
+      "en": "\"...By the way, Shirou, how did you prepare these potatoes before cooking them?\"[lr]",
+      "jp": "「[line len=3]ところでシロウ。この芋には焼く前にどのような下ごしらえをしておいたのですか？」[lr]",
+      "Pt-br": "\"...A propósito, Shirou, como você preparou essas batatas antes de assá-las?\"[lr]",
+      "id": 14651,
+      "epk_id": "4318",
+      "label": "$$$message_0032_0023_0000$$$"
+    },
+    {
+      "en": "\"Prepare? I just roasted them as is.\"[lr]",
+      "jp": "「下ごしらえ？　そのまま焼いただけだぞ」[lr]",
+      "Pt-br": "\"Preparar? Eu só assei do jeito que estavam.\"[lr]",
+      "id": 14652,
+      "epk_id": "4319",
+      "label": "$$$message_0032_0023_0001$$$"
+    },
+    {
+      "en": "I dig out two or three of the potatoes and wrap them in paper.",
+      "jp": "　二つ三つと掘り出した芋を持ってきたチラシに包んで置いていく。",
+      "Pt-br": "Tiro duas ou três batatas e as embrulho em papel.",
+      "id": 14653,
+      "epk_id": "4320",
+      "label": "$$$message_0032_0023_0002$$$"
+    },
+    {
+      "en": "[fg index=1000 time=300 pos=c storage=セイバーfd特殊02_焼き芋c(中)]When I look up, Saber looks even more amazed than before.[lr]",
+      "jp": "　[fg index=1000 time=300 pos=c storage=セイバーfd特殊02_焼き芋c(中)]顔を上げると、セイバーはさっきよりも不思議そうな顔をしていた。[lr]",
+      "Pt-br": "[fg index=1000 time=300 pos=c storage=セイバーfd特殊02_焼き芋c(中)]Quando levanto os olhos, Saber parece ainda mais espantada do que antes.[lr]",
+      "id": 14654,
+      "epk_id": "4321",
+      "label": "$$$message_0032_0024_0000$$$"
+    },
+    {
+      "en": "\"...What's wrong?\"",
+      "jp": "「……どうした？」",
+      "Pt-br": "\"...O que foi?\"",
+      "id": 14655,
+      "epk_id": "4322",
+      "label": "$$$message_0032_0024_0001$$$"
+    },
+    {
+      "en": "\"No, I just never imagined that these 'sweet potatoes' would be so delicious after merely roasting them.\"[lr]",
+      "jp": "「いえ、ただ焼いただけでここまで美味しくなるのですか、このサツマイモと言うものは[line len=3]」[lr]",
+      "Pt-br": "\"Nada. É que eu nunca imaginei que essas 'batatas-doces' pudessem ficar tão saborosas apenas sendo assadas.\"[lr]",
+      "id": 14656,
+      "epk_id": "4323",
+      "label": "$$$message_0032_0025_0000$$$"
+    },
+    {
+      "en": "\"Well, they do say that simple cooking methods are best at bringing out the natural flavor of ingredients.\"[lr]",
+      "jp": "「まあ、簡単な調理方法ほど食材の味を引き出すって言うしな」[lr]",
+      "Pt-br": "\"Bem, dizem que os métodos mais simples de preparo são os melhores para realçar o sabor natural dos ingredientes.\"[lr]",
+      "id": 14657,
+      "epk_id": "4324",
+      "label": "$$$message_0032_0025_0001$$$"
+    },
+    {
+      "en": "[clfg textoff=0 pos=all time=300]They actually taste great with just fire and a bit of salt.",
+      "jp": "　[clfg textoff=0 pos=all time=300]本当に美味しいものは、火と塩があれば十分とも。",
+      "Pt-br": "[clfg textoff=0 pos=all time=300]Na verdade, elas ficam ótimas só com fogo e um pouco de sal.",
+      "id": 14658,
+      "epk_id": "4325",
+      "label": "$$$message_0032_0025_0002$$$"
+    },
+    {
+      "en": "\"But if that's true...what makes this roasted potato taste so different from that crude manner of cooking?\"[lr]",
+      "jp": "「しかし……だというのならあの雑な料理と、この焼き芋の差は一体」[lr]",
+      "Pt-br": "\"Mas, se é assim... por que esta batata assada tem um sabor tão diferente daquele modo rude de cozinhar?\"[lr]",
+      "id": 14659,
+      "epk_id": "4326",
+      "label": "$$$message_0032_0026_0000$$$"
+    },
+    {
+      "en": "Saber must be alluding to something she ate during her lifetime.[lr]",
+      "jp": "　あの雑な料理というのは、昔セイバーが食べていた料理のことだろう。[lr]",
+      "Pt-br": "Saber deve estar comparando com algo que comeu em vida.[lr]",
+      "id": 14660,
+      "epk_id": "4327",
+      "label": "$$$message_0032_0026_0001$$$"
+    },
+    {
+      "en": "\"If it tastes different even though you roasted them both times, then maybe it's the ingredients?\"",
+      "jp": "「ただ焼いただけ、っていうなら差はないと思うから、やっぱり材料じゃないか？」",
+      "Pt-br": "\"Se o gosto é diferente, mesmo sendo assada do mesmo jeito, talvez a diferença esteja nos ingredientes?\"",
+      "id": 14661,
+      "epk_id": "4328",
+      "label": "$$$message_0032_0026_0002$$$"
+    },
+    {
+      "en": "\"...The difference is absurd.[lr]",
+      "jp": "「……なんという不条理だ。[lr]",
+      "Pt-br": "\"...A diferença é absurda.[lr]",
+      "id": 14662,
+      "epk_id": "4329",
+      "label": "$$$message_0032_0027_0000$$$"
+    },
+    {
+      "en": "If we had this flavor back in my time, our armies could have fought even harder...\"[lr]",
+      "jp": "　あの時この味があれば、我々はまだ戦えた[line len=3]」[lr]",
+      "Pt-br": "Se tivéssemos este sabor na minha época, nossos exércitos teriam lutado com ainda mais afinco...\"[lr]",
+      "id": 14663,
+      "epk_id": "4330",
+      "label": "$$$message_0032_0027_0001$$$"
+    },
+    {
+      "en": "She seems frustrated. Are the sweet potatoes making her even more emotional than the fire did?[lr]",
+      "jp": "　さつま芋の向こうに、炎を見る時以上の感情、もしかして恨みを見ているのか[line len=3][lr]",
+      "Pt-br": "Ela parece frustrada. Será que a batata-doce mexe com ela ainda mais do que o fogo?[lr]",
+      "id": 14664,
+      "epk_id": "4331",
+      "label": "$$$message_0032_0027_0002$$$"
+    },
+    {
+      "en": "Regardless, she doesn't stop eating the sweet potato. That's Saber for you.",
+      "jp": "　まあ、それでも焼き芋を食べ続けているのは実にセイバーらしい。",
+      "Pt-br": "Seja como for, ela não para de comer a batata-doce. Isso é bem a cara da Saber.",
+      "id": 14665,
+      "epk_id": "4332",
+      "label": "$$$message_0032_0027_0003$$$"
+    },
+    {
+      "en": "\"Food frustrations sound scary.\"[lr]",
+      "jp": "「食べ物の恨みは怖いな」[lr]",
+      "Pt-br": "\"Frustração gastronômica parece assustadora.\"[lr]",
+      "id": 14666,
+      "epk_id": "4333",
+      "label": "$$$message_0032_0028_0000$$$"
+    },
+    {
+      "en": "\"What was that, Shirou?\"[lr]",
+      "jp": "「何かいいましたか、シロウ」[lr]",
+      "Pt-br": "\"O que foi isso, Shirou?\"[lr]",
+      "id": 14667,
+      "epk_id": "4334",
+      "label": "$$$message_0032_0028_0001$$$"
+    },
+    {
+      "en": "\"Nothing.\"",
+      "jp": "「いや、何も」",
+      "Pt-br": "\"Nada.\"",
+      "id": 14668,
+      "epk_id": "4335",
+      "label": "$$$message_0032_0028_0002$$$"
+    },
+    {
+      "en": "We spend the rest of the day together until the sun goes down.[lr]",
+      "jp": "　そうして、日が沈むまで時間を過ごした。[lr]",
+      "Pt-br": "Passamos o resto do dia juntos até o Sol se pôr.[lr]",
+      "id": 14669,
+      "epk_id": "4336",
+      "label": "$$$message_0032_0029_0000$$$"
+    },
+    {
+      "en": "...A humble trail of smoke rises into the autumn sky.[lr]",
+      "jp": "　……秋の空にささやかな狼煙が上がっていく。[lr]",
+      "Pt-br": "...Um fio fino de fumaça sobe ao céu de outono.[lr]",
+      "id": 14670,
+      "epk_id": "4337",
+      "label": "$$$message_0032_0029_0001$$$"
+    },
+    {
+      "en": "Beneath it, we share a snack together in this completely safe campsite.[lr]",
+      "jp": "　二人きりの、何の危険もない野営地での間食。[lr]",
+      "Pt-br": "Sob essa fumaça, dividimos um lanche naquele acampamento perfeitamente tranquilo.[lr]",
+      "id": 14671,
+      "epk_id": "4338",
+      "label": "$$$message_0032_0029_0002$$$"
+    },
+    {
+      "en": "The peaceful, unremarkable scene lingers in my memories, brighter than any summer sun. ",
+      "jp": "　何という事のない穏やかな風景は、夏の強い陽射しよりも眩しく、この記憶に残っていった。",
+      "Pt-br": "Aquela cena pacífica, sem nada de extraordinário, ficou gravada na minha memória, mais brilhante do que qualquer Sol de verão.",
+      "id": 14672,
+      "epk_id": "4339",
+      "label": "$$$message_0032_0029_0003$$$"
+    },
+    {
+      "en": "Saber's face lights up in surprise after taking a bite. She nods in satisfaction.[r]",
+      "jp": "一口かじると、セイバーは[r]驚いた顔をした。[r]そのまま口に運んでは満足[r]そうに頷いている。",
+      "Pt-br": "O rosto de Saber se ilumina de surpresa depois da primeira mordida. Ela assente, satisfeita.[r]",
+      "id": 14673,
+      "epk_id": "904313",
+      "label": "$$$message_9032_0021_0000$$$"
+    }
+  ]
+}

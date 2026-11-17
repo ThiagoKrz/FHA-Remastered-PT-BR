@@ -1,0 +1,912 @@
+{
+  "cena": "055392cfa2l3ntpmgkjvogk1ml",
+  "titulo": "Chip & Chips",
+  "rota": "Noite",
+  "arquivo": "055392cfa2l3ntpmgkjvogk1ml.epk_dec",
+  "linhas": [
+    {
+      "en": "I'll do the prep for tomorrow's breakfast and finish the dishes I've put off.[lr]",
+      "jp": "ãææ¥ã®æé£ã®ä¸ããããã¨ãå¾åãã«ãã¦ããæ´ãç©ãçã¥ããã[lr]",
+      "Pt-br": "Vou adiantar o café da manhã de amanhã e terminar a louça que deixei acumular.[lr]",
+      "id": 21381,
+      "epk_id": "26527",
+      "label": "$$$message_0196_0000_0000$$$"
+    },
+    {
+      "en": "I quickly finish the prep and scrub a greasy frying pan. Meanwhile, everyone's relaxing in the living room after dinner and playing cards.",
+      "jp": "ããµãµãã¨ä¸ãããããçµããæ²¹æ±ãããã³ãã¤ãã¦ãããã©ã¤ãã³ãç£¨ãã¦ããåãããå±\néã§ã¯é£å¾ã®ä¼æ©ãã¦ããçããã©ã³ãããã¦ããã",
+      "Pt-br": "Termino os preparativos num instante e parto para uma frigideira engordurada. Enquanto isso, depois do jantar, todos relaxam na sala jogando cartas.",
+      "id": 21382,
+      "epk_id": "26528",
+      "label": "$$$message_0196_0000_0001$$$"
+    },
+    {
+      "en": "I think an hour has passed with them at it.[lr]",
+      "jp": "ãããããä¸æéã¯çµéããã ãããã[lr]",
+      "Pt-br": "Já devem estar nisso há uma hora.[lr]",
+      "id": 21383,
+      "epk_id": "26529",
+      "label": "$$$message_0196_0001_0000$$$"
+    },
+    {
+      "en": "At first, it was a peaceful time spent teaching Saber and Rider the rules...but now, from a distance, it doesn't seem to be the case anymore.",
+      "jp": "ãåãããã©ã³ãã®ã«ã¼ã«ãç¥ããªãã£ãã»ã¤ãã¼ã¨ã©ã¤ãã¼ã«æãã¦ããã¡ã¯åããã ã£ãã®ã ãâ¦â¦é ç®ã«è¦ã¦ãä»ã¯ã¨ã¦ããããªç¶æ³ã§ã¯ãªããªã£ã¦ããã",
+      "Pt-br": "No começo, o clima era tranquilo, com todos ensinando as regras a Saber e Rider... Mas, visto daqui, já não parece tão pacífico.",
+      "id": 21384,
+      "epk_id": "26530",
+      "label": "$$$message_0196_0001_0001$$$"
+    },
+    {
+      "en": "Rider [chgfg time=300 storage=藤08d(中) textoff=0]reaches for the card to her right.[lr]",
+      "jp": "ãã©ã¤ãã¼ã[chgfg time=300 storage=è¤08d(ä¸­) textoff=0]å³ã®ã«ã¼ãã«æãä¼¸ã°ãã[lr]",
+      "Pt-br": "Rider [chgfg time=300 storage=藤08d(中) textoff=0]estende a mão para a carta à sua direita.[lr]",
+      "id": 21385,
+      "epk_id": "26531",
+      "label": "$$$message_0196_0002_0000$$$"
+    },
+    {
+      "en": "Rider [chgfg time=300 storage=藤08e(中) textoff=0]reaches for the card to her left.[lr]",
+      "jp": "ãã©ã¤ãã¼ã[chgfg time=300 storage=è¤08e(ä¸­) textoff=0]å·¦ã®ã«ã¼ãã«æãä¼¸ã°ãã[lr]",
+      "Pt-br": "Rider [chgfg time=300 storage=藤08e(中) textoff=0]estende a mão para a carta à sua esquerda.[lr]",
+      "id": 21386,
+      "epk_id": "26532",
+      "label": "$$$message_0196_0002_0001$$$"
+    },
+    {
+      "en": "Rider casually takes the left card.",
+      "jp": "ãå½ç¶ã®ããã«ãã©ã¤ãã¼ã¯å·¦ã®ã«ã¼ããå¼ãã",
+      "Pt-br": "Sem hesitar, Rider tira a carta da esquerda.",
+      "id": 21387,
+      "epk_id": "26533",
+      "label": "$$$message_0196_0002_0002$$$"
+    },
+    {
+      "en": "\"Wha, you saw through me in no time at all!?[lr]",
+      "jp": "ããªããã¼ã¿ã¤ã ã§è¦æãããï¼ï¼[lr]",
+      "Pt-br": "\"O quê, você me decifrou num piscar de olhos!?[lr]",
+      "id": 21388,
+      "epk_id": "26534",
+      "label": "$$$message_0196_0003_0000$$$"
+    },
+    {
+      "en": "How? Why? Whyyy!?\"[lr]",
+      "jp": "ããªããã©ããã¦ãã©ããã£ã¦ã¼ï¼ï¼ã[lr]",
+      "Pt-br": "Como? Por quê? Por queeeê!?\"[lr]",
+      "id": 21389,
+      "epk_id": "26535",
+      "label": "$$$message_0196_0003_0001$$$"
+    },
+    {
+      "en": "It doesn't bear explaining.[lr]",
+      "jp": "ãã©ããã¦ãä½ããªãã[lr]",
+      "Pt-br": "A explicação é desnecessária.[lr]",
+      "id": 21390,
+      "epk_id": "26536",
+      "label": "$$$message_0196_0003_0002$$$"
+    },
+    {
+      "en": "After some twists and turns, they ended up playing old maid. But games that require a poker face aren't for Fuji-nee. Definitely not.",
+      "jp": "ãç´ä½æ²æãçµã¦ä»ã¯ããæãã®ããã ãããããªé¡ã«åºãã²ã¼ã ã¯è¤ã­ãåãã§ã¯ãªããæ­ãã¦ã",
+      "Pt-br": "Depois de algumas idas e vindas, acabaram jogando mico. Mas jogos que exigem cara de pôquer não combinam com Fuji-nee. Definitivamente não.",
+      "id": 21391,
+      "epk_id": "26537",
+      "label": "$$$message_0196_0003_0003$$$"
+    },
+    {
+      "en": "\"You're too good at this, Rider.[lr]",
+      "jp": "ããã¼ãã©ã¤ãã¼ããå¼·ãããã¼ã»ãã¨ã¼ã[lr]",
+      "Pt-br": "\"Você é boa demais nisso, Rider-san.[lr]",
+      "id": 21392,
+      "epk_id": "26538",
+      "label": "$$$message_0196_0004_0000$$$"
+    },
+    {
+      "en": "You've got to be reading my mind. Or you've got someone helping you![cacheimage storage=藤fd特殊02e(中)][wvl][chgfg textoff=0 time=300 storage=藤fd特殊02e(中) last=藤02c腕c(中)] For example, that house-husband there! Who washes a frying pan for thirty minutes!?\"",
+      "jp": "ããã£ã¨èª­å¿è¡ã«éããªãããããããããã¯å£å½¹ãããã¨è¦ãï¼ã[cacheimage storage=è¤fdç¹æ®02e(ä¸­)][wvl][chgfg textoff=0 time=300 storage=è¤fdç¹æ®02e(ä¸­) last=è¤02cè\nc(ä¸­)]ãã¨ãã°ããã®å®¶æ¿å©¦ï¼ããªãå»¶ã\nä¸ååããã©ã¤ãã³ãæ´ã£ã¦ããã®ãã£ï¼ã",
+      "Pt-br": "Só pode estar lendo minha mente. Ou alguém está ajudando você![cacheimage storage=藤fd特殊02e(中)][wvl][chgfg textoff=0 time=300 storage=藤fd特殊02e(中) last=藤02c腕c(中)] Por exemplo, aquele dono de casa ali! Quem leva trinta minutos para lavar uma frigideira!?\"",
+      "id": 21393,
+      "epk_id": "26539",
+      "label": "$$$message_0196_0004_0001$$$"
+    },
+    {
+      "en": "Fuji-nee points at the kitchen.[lr]",
+      "jp": "ã[ruby text=ãã£ã¡ char=2]å°æãæããè¤ã­ãã[lr]",
+      "Pt-br": "Fuji-nee aponta para a cozinha.[lr]",
+      "id": 21394,
+      "epk_id": "26540",
+      "label": "$$$message_0196_0005_0000$$$"
+    },
+    {
+      "en": "Rider's back is towards me, though.[lr]",
+      "jp": "ãããããä½ç½®é¢ä¿çã«ã©ã¤ãã¼ã¯ãã£ã¡ã«èãåãã¦ããã®ã§ããã[lr]",
+      "Pt-br": "Mas Rider está de costas para mim.[lr]",
+      "id": 21395,
+      "epk_id": "26541",
+      "label": "$$$message_0196_0005_0001$$$"
+    },
+    {
+      "en": "If any cheating could happen, it would be me reading Rider's hand and telling Fuji-nee.",
+      "jp": "ãä¿ºã«ã§ããä¸æ­£ãããã¨ããããããããã©ã¤ãã¼ã®ææ­ãè¤ã­ãã«æãã¦ããããããªã®ã ã£ãã",
+      "Pt-br": "Se alguém pudesse trapacear, seria eu, lendo a mão de Rider e soprando tudo para Fuji-nee.",
+      "id": 21396,
+      "epk_id": "26542",
+      "label": "$$$message_0196_0005_0002$$$"
+    },
+    {
+      "en": "\"Yeah, yeah. Stop being lame and enjoy the game. Then lose all your matches and run home crying to the Fujimura Group.\"[lr]",
+      "jp": "ãã¯ãã¯ããã¤ã¾ããªãã³ãè¨ã£ã¦ãªãã§ã²ã¼ã ãæ¥½ãããããã¦è² ãã«è² ãç¶ããå®å\n¨ãªãè² ãç¬ã¨ãã¦è¤æçµã«éãå¸°ããããã[lr]",
+      "Pt-br": "\"Sei, sei. Pare de choramingar e aproveite o jogo. Depois perca todas e volte correndo para o Grupo Fujimura aos prantos.\"[lr]",
+      "id": 21397,
+      "epk_id": "26543",
+      "label": "$$$message_0196_0006_0000$$$"
+    },
+    {
+      "en": "The pan makes squeaky sounds as I scrub it.",
+      "jp": "ããã\nã£ãã\nã£ã¨ãã©ã¤ãã³ã®åºé¢ãç£¨ãã",
+      "Pt-br": "A frigideira chia sob a esponja.",
+      "id": 21398,
+      "epk_id": "26544",
+      "label": "$$$message_0196_0006_0001$$$"
+    },
+    {
+      "en": "\"Ngh, nnnnrgh![lr]",
+      "jp": "ãã¬ãã¬ã\nã\nããâ¦â¦ï¼[lr]",
+      "Pt-br": "\"Ngh, nnnnrgh![lr]",
+      "id": 21399,
+      "epk_id": "26545",
+      "label": "$$$message_0196_0007_0000$$$"
+    },
+    {
+      "en": "How dare you talk to me like that, little one. Hmph! I won't lose. I'll keep going until I win![lr]",
+      "jp": "ããã®ããå¼åã®åéã§ä½ãè¨ããã£ãã¸ã¼ãã ãè² ããªãããã¼ãåã¤ã¾ã§ããããã­ã¼ï¼[lr]",
+      "Pt-br": "Como ousa falar assim comigo, seu pirralho? Hmph! Não vou perder. Continuaremos até eu vencer![lr]",
+      "id": 21400,
+      "epk_id": "26546",
+      "label": "$$$message_0196_0007_0001$$$"
+    },
+    {
+      "en": "It's just a game of chance. My win-loss record will even out if we play close to a hundred rounds!\"",
+      "jp": "ãæè©®ç¢ºçã®ã²ã¼ã ã ãã®ãç¾åè¿ãããã°åã¡ãè² ããã¤ã¼ãã³ãªãã ããï¼ã",
+      "Pt-br": "É só um jogo de azar. Se fizermos umas cem rodadas, minhas vitórias e derrotas vão se equilibrar!\"",
+      "id": 21401,
+      "epk_id": "26547",
+      "label": "$$$message_0196_0007_0002$$$"
+    },
+    {
+      "en": "I hear her howling.[lr]",
+      "jp": "ãé å ããèããã¦ããã[lr]",
+      "Pt-br": "Ouço-a urrar da sala.[lr]",
+      "id": 21402,
+      "epk_id": "26548",
+      "label": "$$$message_0196_0008_0000$$$"
+    },
+    {
+      "en": "What kind of game does she think this is, where she needs to play a hundred matches to figure out who's better at it?[lr]",
+      "jp": "ãâ¦â¦[ruby text=ãã]æ­¤ã¨[ruby text=ãã]æ­¤ãã©ã¡ããåªãã¦ãããè¨ãçºã«ã¯ç¾åã»ã©æ¦ãã­ã°ãªããªããã¨ã¯ä½ã®ã²ã¼ã ã®è¨èã ã£ããã[lr]",
+      "Pt-br": "Que espécie de jogo ela imagina estar jogando, para precisar de cem partidas até descobrir quem é melhor?[lr]",
+      "id": 21403,
+      "epk_id": "26549",
+      "label": "$$$message_0196_0008_0001$$$"
+    },
+    {
+      "en": "It's a game that depends on both luck and skill, so individual skill won't be clear after one or even ten matches.[lr]",
+      "jp": "ãéã¨å®åã«å·¦å³ãããã²ã¼ã ã«ããã¦ãä¸åãååã®åè² ã§ã¯å®åãè¨ããªããã¨ããã³ãã ã[lr]",
+      "Pt-br": "O jogo depende de sorte e habilidade, portanto uma ou mesmo dez partidas não bastam para revelar a capacidade individual.[lr]",
+      "id": 21404,
+      "epk_id": "26550",
+      "label": "$$$message_0196_0008_0002$$$"
+    },
+    {
+      "en": "Some say that skill isn't determined by a single match, but over a long span of time.",
+      "jp": "ãå®åã¯ä¸åº¦ã®è©¦åã§ã¯ãªããé·ãã¹ãã³ã§ã®ãã¼ã¿ã«ã§è¨ãã£ã¦ã³ãã§ããã",
+      "Pt-br": "Dizem que a verdadeira habilidade não se mede numa única partida, mas ao longo do tempo.",
+      "id": 21405,
+      "epk_id": "26551",
+      "label": "$$$message_0196_0008_0003$$$"
+    },
+    {
+      "en": "Fuji-nee is doomed if she's going with that.[lr]",
+      "jp": "ããã®ä¾ã§è¨ãã¨ãè¤ã­ãã®èãã¯èªæ»\nè¡çºã ã[lr]",
+      "Pt-br": "Se Fuji-nee seguir essa lógica, está condenada.[lr]",
+      "id": 21406,
+      "epk_id": "26552",
+      "label": "$$$message_0196_0009_0000$$$"
+    },
+    {
+      "en": "A hundred matches won't average out into a draw. It'll show exactly how strong each player is.[lr]",
+      "jp": "ãç¾åãã£ã¦å¾ããããã®ã¯å¼ãåãã§ã¯ãªããããæç¢ºã«ãããåã\nã®åéãªãã ããã[lr]",
+      "Pt-br": "Cem partidas não produzirão um empate por média. Só revelarão exatamente a força de cada jogadora.[lr]",
+      "id": 21407,
+      "epk_id": "26553",
+      "label": "$$$message_0196_0009_0001$$$"
+    },
+    {
+      "en": "Come to think of it, a meijin-ranked shogi master once said that three games would be enough to gauge the opponent, I think.[lr]",
+      "jp": "ããããä¸­ã«ã¯âç§ã¯â¦â¦ããã§ãã­ããä¸åã»ã©ã§ååãã¨âã¨ãè¨ãåããåäººãããããããã[lr]",
+      "Pt-br": "Pensando bem, creio que um mestre de shogi de nível Meijin já disse que três partidas bastam para avaliar o adversário.[lr]",
+      "id": 21408,
+      "epk_id": "26554",
+      "label": "$$$message_0196_0009_0002$$$"
+    },
+    {
+      "en": "Anyway...",
+      "jp": "ãã¾ããããã¯ã¨ãããã",
+      "Pt-br": "Bem...",
+      "id": 21409,
+      "epk_id": "26555",
+      "label": "$$$message_0196_0009_0003$$$"
+    },
+    {
+      "en": "Fuji-nee's face is too easy to read as always, [chgfg time=300 storage=桜私服08d(中),藤08e(中) textoff=0]and Sakura looks apologetic next to her as she takes another card.[lr]",
+      "jp": "ãç¸å¤ãããè¡¨æ\nãèª­ããè¤ã­ãã«å¯¾ãã¦ã[chgfg time=300 storage=æ¡ç§æ08d(ä¸­),è¤08e(ä¸­) textoff=0]æ¨ªã«åº§ã£ãæ¡ã¯å®ã«ç³ããããªãããã«ã«ã¼ããåã£ã¦ããã[lr]",
+      "Pt-br": "Como sempre, é fácil demais ler o rosto de Fuji-nee. [chgfg time=300 storage=桜私服08d(中),藤08e(中) textoff=0]Ao lado dela, Sakura tira outra carta com uma expressão quase culpada.[lr]",
+      "id": 21410,
+      "epk_id": "26556",
+      "label": "$$$message_0196_0010_0000$$$"
+    },
+    {
+      "en": "It goes without saying that Fuji-nee finishes last.",
+      "jp": "ãçµæã¯è¨ãã¾ã§ããªããè¤ã­ãã®æä¸ä½ã§çµãã£ãã",
+      "Pt-br": "Nem é preciso dizer que Fuji-nee termina em último.",
+      "id": 21411,
+      "epk_id": "26557",
+      "label": "$$$message_0196_0010_0001$$$"
+    },
+    {
+      "en": "\"Oooough, this doesn't make sense! Are you a psychic, Sakura!? [cacheimage storage=桜私服07d(中),藤fd特殊02b(中)][wvl][chgfg time=300 storage=桜私服07d(中),藤fd特殊02b(中) last=,藤02c腕b(中) textoff=0][shock vmax=20 time=300 count=-3]You're so mean! How long have you been hiding that!?\"[lr]",
+      "jp": "ãããããããããããï¼ãã¾ãããæ¡ã¡ããã¾ã§ãµã¤ã­ãã«ã¼ï¼ï¼ã[cacheimage storage=æ¡ç§æ07d(ä¸­),è¤fdç¹æ®02b(ä¸­)][wvl][chgfg time=300 storage=æ¡ç§æ07d(ä¸­),è¤fdç¹æ®02b(ä¸­) last=,è¤02cè\nb(ä¸­) textoff=0][shock vmax=20 time=300 count=-3]ã²ã©ããä»ã¾ã§ãã£ã¨é ãã¦ãã®ã­ï¼ï¼ã[lr]",
+      "Pt-br": "\"Uooooh, isso não faz sentido! Você é vidente, Sakura-chan!? [cacheimage storage=桜私服07d(中),藤fd特殊02b(中)][wvl][chgfg time=300 storage=桜私服07d(中),藤fd特殊02b(中) last=,藤02c腕b(中) textoff=0][shock vmax=20 time=300 count=-3]Que maldade! Há quanto tempo esconde esse poder!?\"[lr]",
+      "id": 21412,
+      "epk_id": "26558",
+      "label": "$$$message_0196_0011_0000$$$"
+    },
+    {
+      "en": "Rich coming from someone who'd abuse that to cosmic proportions if she had such powers. ",
+      "jp": "ãããè¨ãã¢ã¬ã¯ã³ãºããã«ã¼ã§ããã",
+      "Pt-br": "Belo discurso para alguém que abusaria desse poder em proporções cósmicas.",
+      "id": 21413,
+      "epk_id": "26559",
+      "label": "$$$message_0196_0011_0001$$$"
+    },
+    {
+      "en": "\"Ahaha. Um, Ms. Fujimura? Why don't we play a different game?\"[lr]",
+      "jp": "ãâ¦â¦ãã¯ã¯ããã®ãè¤æå\nçï¼ãããæãã¯ããã¦ãéãã²ã¼ã ã«ãã¾ãããï¼ã[lr]",
+      "Pt-br": "\"Ahaha. Ahn, Fujimura-sensei? Que tal jogarmos outra coisa?\"[lr]",
+      "id": 21414,
+      "epk_id": "26560",
+      "label": "$$$message_0196_0012_0000$$$"
+    },
+    {
+      "en": "\"...Like what?\"[lr]",
+      "jp": "ãâ¦â¦â¦â¦ãä¾ãã°ï¼ã[lr]",
+      "Pt-br": "\"...Tipo o quê?\"[lr]",
+      "id": 21415,
+      "epk_id": "26561",
+      "label": "$$$message_0196_0012_0001$$$"
+    },
+    {
+      "en": "\"Um...\"",
+      "jp": "ããã£ã¨[line len=4]ã",
+      "Pt-br": "\"Ahn...\"",
+      "id": 21416,
+      "epk_id": "26562",
+      "label": "$$$message_0196_0012_0002$$$"
+    },
+    {
+      "en": "She must be thinking of a game that doesn't require you to hide your emotions.[lr]",
+      "jp": "ããã£ã¨ãææ­ã[ruby text=ãã o2o=1]è¡¨æ\nã«åºã¦ãããã²ã¼ã ãèãã¦ãããã ããã[lr]",
+      "Pt-br": "Ela deve estar procurando um jogo que não exija esconder as emoções.[lr]",
+      "id": 21417,
+      "epk_id": "26563",
+      "label": "$$$message_0196_0013_0000$$$"
+    },
+    {
+      "en": "That immediately rules out I-doubt-it and president, then.[lr]",
+      "jp": "ããã¦ããå¤§è²§æ°ã¯çã£å\nã«ã¢ã¦ãã[lr]",
+      "Pt-br": "Isso já elimina de imediato jogos como Duvido e Presidente.[lr]",
+      "id": 21418,
+      "epk_id": "26564",
+      "label": "$$$message_0196_0013_0001$$$"
+    },
+    {
+      "en": "Concentration and wilderness would cause chaos by their very nature, and the complicated rules would be hard to explain to the other two.",
+      "jp": "ããã¨è¨ã£ã¦ç¥çµè¡°å¼±ãããã ã¨éæ§ã¨ãããããåã§å ´ãæ··æ²ã¨ããã¡ã¾ãããè¤éãªãã®ã¯æ®ãã®äºäººã«ã«ã¼ã«ãèª¬æããã®ãå¤§å¤ã ã",
+      "Pt-br": "Memória e Wilderness provocariam o caos pela própria natureza, e suas regras complicadas seriam difíceis de explicar às outras duas.",
+      "id": 21419,
+      "epk_id": "26565",
+      "label": "$$$message_0196_0013_0002$$$"
+    },
+    {
+      "en": "\"How about blackjack?\"[lr]",
+      "jp": "ããã£ã¨ãå\nçããã©ãã¯ã¸ã£ãã¯ã¯ã©ãã§ãããã[lr]",
+      "Pt-br": "\"Que tal blackjack, Sensei?\"[lr]",
+      "id": 21420,
+      "epk_id": "26566",
+      "label": "$$$message_0196_0014_0000$$$"
+    },
+    {
+      "en": "\"Oh. Nice, let's go with that.\"",
+      "jp": "ãã»ããããããåãã¦ç«ã¡ã¾ãããã",
+      "Pt-br": "\"Ah, boa. Vamos nessa.\"",
+      "id": 21421,
+      "epk_id": "26567",
+      "label": "$$$message_0196_0014_0001$$$"
+    },
+    {
+      "en": "\"How do the rules work?\"",
+      "jp": "ãããã¯ä¸ä½ã©ããªã«ã¼ã«ãªã®ã§ããï¼ã",
+      "Pt-br": "\"Quais são as regras?\"",
+      "id": 21422,
+      "epk_id": "26568",
+      "label": "$$$message_0196_0015_0000$$$"
+    },
+    {
+      "en": "Sakura plays with Fuji-nee to explain the rules.[lr]",
+      "jp": "ãæ¡ãå®éã«è¤ã­ãã¨ãããªãããäºäººã«ã«ã¼ã«ãèª¬æãã¦ããã[lr]",
+      "Pt-br": "Sakura joga uma rodada com Fuji-nee para explicar.[lr]",
+      "id": 21423,
+      "epk_id": "26569",
+      "label": "$$$message_0196_0016_0000$$$"
+    },
+    {
+      "en": "There aren't many hands to memorize like poker, and it's a brisk, combative game that can count up players' points quickly.[lr]",
+      "jp": "ããã¼ã«ã¼ãããå½¹ãå°ãªãããç­ããã¼ã¹ã§ã¶ãã¯ã¶ãã¯ã¨æã¡ç¹ãåãåããæ¬ãåãã¿ãããªã²ã¼ã ã ã[lr]",
+      "Pt-br": "Não há uma infinidade de mãos para decorar como no pôquer; é um jogo ágil e competitivo, no qual se somam os pontos depressa.[lr]",
+      "id": 21424,
+      "epk_id": "26570",
+      "label": "$$$message_0196_0016_0001$$$"
+    },
+    {
+      "en": "You won't necessarily lose even if people can read what's on your face...",
+      "jp": "ããããªãè¡¨æ\nãèª­ã¾ãã¦ããããè² ããã³ãã¯ãªãã®ã ãâ¦â¦",
+      "Pt-br": "Mesmo que todos leiam seu rosto, isso não significa derrota certa...",
+      "id": 21425,
+      "epk_id": "26571",
+      "label": "$$$message_0196_0016_0002$$$"
+    },
+    {
+      "en": "\"Aaaah! Bust after bust! I-is this the infamous sunk-cost fallacy I've heard about!?\"[lr]",
+      "jp": "ãããã¼ããã¼ã¹ãã«ã¤ããã¼ã¹ãï¼ããããããã¦ã¯ãµã®ã«ã¼ãç ´ç£ã£ã¦ã¤ããªã®ã­â¦â¦ï¼ï¼ã[lr]",
+      "Pt-br": "\"Aaaah! Estouro atrás de estouro! E-essa é a famigerada falácia dos custos irrecuperáveis de que tanto falam!?\"[lr]",
+      "id": 21426,
+      "epk_id": "26572",
+      "label": "$$$message_0196_0017_0000$$$"
+    },
+    {
+      "en": "Still, blackjack isn't for people who don't know when to hit the brakes.",
+      "jp": "ãã¾ãããã©ãã¯ã¸ã£ãã¯ã¯ãã¬ã¼ã­ã®ãªãäººã«ã¯åããªãã²ã¼ã ã ã£ãããã§ã",
+      "Pt-br": "Ainda assim, blackjack não serve para quem não sabe a hora de pisar no freio.",
+      "id": 21427,
+      "epk_id": "26573",
+      "label": "$$$message_0196_0017_0001$$$"
+    },
+    {
+      "en": "Now...[lr]",
+      "jp": "ãâ¦â¦ãã¦ã[lr]",
+      "Pt-br": "Agora...[lr]",
+      "id": 21428,
+      "epk_id": "26574",
+      "label": "$$$message_0196_0018_0000$$$"
+    },
+    {
+      "en": "Blackjack starts everyone on equal ground, but it's even more competitive than old maid.",
+      "jp": "ãã¿ããªå\n¬å¹³ã«ãã¨ããã³ãã§å§ãããã©ãã¯ã¸ã£ãã¯ã ããå®éã¯ããæãä»¥ä¸ã«åæãéç«ã¤çµæã¨ãªã£ãã",
+      "Pt-br": "No blackjack, todos começam em condições iguais, mas a disputa é ainda mais acirrada que no mico.",
+      "id": 21429,
+      "epk_id": "26575",
+      "label": "$$$message_0196_0018_0001$$$"
+    },
+    {
+      "en": "\"Ace of spades... Sorry, I hit blackjack.\"[lr]",
+      "jp": "ãã¹ãã¼ãã®ã¨ã¼ã¹[line len=3]å¤±ç¤¼ããã©ãã¯ã¸ã£ãã¯ã§ãã[lr]",
+      "Pt-br": "\"Ás de espadas... Perdoem-me, fiz blackjack.\"[lr]",
+      "id": 21430,
+      "epk_id": "26576",
+      "label": "$$$message_0196_0019_0000$$$"
+    },
+    {
+      "en": "Right.[lr]",
+      "jp": "ãããã[lr]",
+      "Pt-br": "Pois é.[lr]",
+      "id": 21431,
+      "epk_id": "26577",
+      "label": "$$$message_0196_0019_0001$$$"
+    },
+    {
+      "en": "Fuji-nee has a lot of face cards, and Rider is innately clever. They both hold out for a while, but it ends in Saber's overwhelming victory.",
+      "jp": "ãçµµæ­ã®å¤ãè¤ã­ããæã¡åã®ã¯ã¬ãã¼ããæ´»ããã©ã¤ãã¼ãå\n±ã«ãªãã¨ãé£ãä¸ããã®ã ããæçµçã«ã¯ã»ã¤ãã¼ã®å§åã§çµããã®ã ã",
+      "Pt-br": "Fuji-nee recebe muitas figuras, e Rider é sagaz por natureza. As duas resistem por algum tempo, mas tudo termina numa vitória esmagadora de Saber.",
+      "id": 21432,
+      "epk_id": "26578",
+      "label": "$$$message_0196_0019_0002$$$"
+    },
+    {
+      "en": "She's terrifyingly good at drawing cards, and all but certain to win if her count is higher than her opponents'. Her sense for victory feels supernatural.[lr]",
+      "jp": "ãæãããã»ã©ã®å¼ãã®å¼·ãã¨ãç¸æããä¸ã®æ°å¤ã§ãããªãå¿\nãåè² ã«åºã¦ãããåããã¨ããç¥æ¸ããçãªã¾ã§ã®åè² åã[lr]",
+      "Pt-br": "Ela tem uma sorte aterradora ao comprar cartas e quase certamente vence sempre que sua soma supera a das adversárias. Seu faro para a vitória parece sobrenatural.[lr]",
+      "id": 21433,
+      "epk_id": "26579",
+      "label": "$$$message_0196_0020_0000$$$"
+    },
+    {
+      "en": "...Gradually, the rules shift, and Saber basically becomes the dealer versus the other three.",
+      "jp": "ãâ¦â¦æ¬¡ç¬¬ã«ã«ã¼ã«ã¯ã·ãããã¦ãããåºæ¬çã«ã»ã¤ãã¼ãè¦ªã§æ®ãä¸äººã§ç«ã¡åããå½¢ã«ãªã£ã¦ããã",
+      "Pt-br": "...Pouco a pouco, as regras mudam e o jogo vira praticamente Saber, como banqueira, contra as outras três.",
+      "id": 21434,
+      "epk_id": "26580",
+      "label": "$$$message_0196_0020_0001$$$"
+    },
+    {
+      "en": "However...[lr]",
+      "jp": "ãâ¦â¦ãããã[lr]",
+      "Pt-br": "No entanto...[lr]",
+      "id": 21435,
+      "epk_id": "26581",
+      "label": "$$$message_0196_0021_0000$$$"
+    },
+    {
+      "en": "They have a critical weakness, if they intend to face Saber the dragon.",
+      "jp": "ãã»ã¤ãã¼ã¨ããå·¨ç«ã¨æ¦ãã«ã¯ãä¸åã«ã¯è´å½çãªå¼±ç¹ããã£ãã",
+      "Pt-br": "Para quem pretende enfrentar Saber, o dragão, elas têm uma fraqueza fatal.",
+      "id": 21436,
+      "epk_id": "26582",
+      "label": "$$$message_0196_0021_0001$$$"
+    },
+    {
+      "en": "Sakura and Rider have similarly bad luck. They don't draw good cards and rarely achieve scores that can win.",
+      "jp": "ãæ¡ã¨ã©ã¤ãã¼ã¯ä¼¼ããã®åå£«ãªã®ããåºæ¬çã«éãç¡ããã«ã¼ãã®å¼ããæªãããªããªãåè² ã§ããæ°å­ã¾ã§æã£ã¦ãããªãã®ã ã",
+      "Pt-br": "Sakura e Rider são igualmente azaradas. Não compram boas cartas e raramente chegam a uma soma capaz de vencer.",
+      "id": 21437,
+      "epk_id": "26583",
+      "label": "$$$message_0196_0022_0000$$$"
+    },
+    {
+      "en": "\"Hyoooh! I went over 21 again!\"[lr]",
+      "jp": "ãã²ããï¼ãã¾ãï¼ï¼è¶\nããããã¼ï¼ã[lr]",
+      "Pt-br": "\"Hiooooh! Passei de vinte e um outra vez!\"[lr]",
+      "id": 21438,
+      "epk_id": "26584",
+      "label": "$$$message_0196_0023_0000$$$"
+    },
+    {
+      "en": "Of course, Fuji-nee is too eager and repeatedly busts.",
+      "jp": "ããã§ãè¨ãã¾ã§ããªãè¤ã­ãã¯åè² ã«åºããã¾ããæ­ãåãããã¦åæã«èªçãã¦ããã",
+      "Pt-br": "Fuji-nee, é claro, empolga-se demais e estoura sem parar.",
+      "id": 21439,
+      "epk_id": "26585",
+      "label": "$$$message_0196_0023_0001$$$"
+    },
+    {
+      "en": "Still, I sometimes think that she's the only one with a chance of beating Saber.",
+      "jp": "ãããã§ããææã»ã¤ãã¼ã«åå©ããã®ã¯è¤ã­ãã ãã¨ããã®ãèããã¨ã",
+      "Pt-br": "Ainda assim, às vezes acho que é a única com alguma chance de derrotar Saber, Fuji-nee.",
+      "id": 21440,
+      "epk_id": "26586",
+      "label": "$$$message_0196_0024_0000$$$"
+    },
+    {
+      "en": "\"...It still ended up being a contest of luck, but the kind you're born with.\"[lr]",
+      "jp": "ãâ¦â¦çµå±ããã£ã¦çã¾ãã[ruby text=ãã]æã®ç«¶ãåããâ¦â¦ã[lr]",
+      "Pt-br": "\"...No fim, continuou sendo uma disputa de sorte. Mas daquela com que se nasce.\"[lr]",
+      "id": 21441,
+      "epk_id": "26587",
+      "label": "$$$message_0196_0025_0000$$$"
+    },
+    {
+      "en": "Next is wilderness.[lr]",
+      "jp": "ããã¨éæ§ã[lr]",
+      "Pt-br": "O próximo jogo é Wilderness.[lr]",
+      "id": 21442,
+      "epk_id": "26588",
+      "label": "$$$message_0196_0025_0001$$$"
+    },
+    {
+      "en": "Truly a showdown between dragon and tiger.",
+      "jp": "ãã¾ãã«ç«èç¸æã¤ãªã®ã§ããã",
+      "Pt-br": "Um verdadeiro confronto entre o dragão e o tigre.",
+      "id": 21443,
+      "epk_id": "26589",
+      "label": "$$$message_0196_0025_0002$$$"
+    },
+    {
+      "en": "\"Tch... I'm going to raise my rate, Saber! [wvl][sestop time=1000 nowait=1]You and me, one-on-one![lr]",
+      "jp": "ãããâ¦â¦ãããªã£ããã¬ã¼ãããããããã»ã¤ãã¼ã¡ããï¼[wvl][sestop time=1000 nowait=1]ããããã¨è²´æ¹ã®ä¸å¯¾ä¸ï¼[lr]",
+      "Pt-br": "\"Tsc... Vou aumentar a aposta, Saber-chan! [wvl][sestop time=1000 nowait=1]Você e eu, num duelo![lr]",
+      "id": 21444,
+      "epk_id": "26590",
+      "label": "$$$message_0196_0026_0000$$$"
+    },
+    {
+      "en": "Why don't we play best of ten and bet a dinner side dish?\"",
+      "jp": "ãã©ããåã²ã¼ã ãã¼ã¿ã«ã®çµæåè² ã§ããµã·ã¦ãå¤é£ã®ãããä¸åã£ã¦ããã®ã¯ï¼ã",
+      "Pt-br": "Melhor de dez, valendo um acompanhamento no jantar. Que tal?\"",
+      "id": 21445,
+      "epk_id": "26591",
+      "label": "$$$message_0196_0026_0001$$$"
+    },
+    {
+      "en": "\"...Hm. Quite a bold challenge, Taiga.[lr]",
+      "jp": "ãâ¦â¦ããããã¯å¤§ããåºã¾ããã­å¤§æ²³ã[lr]",
+      "Pt-br": "\"...Hm. Um desafio bastante ousado, Taiga.[lr]",
+      "id": 21446,
+      "epk_id": "26592",
+      "label": "$$$message_0196_0027_0000$$$"
+    },
+    {
+      "en": "So whoever loses will go hungry...\"",
+      "jp": "ãã¤ã¾ããè² ããæ¹ãã¤ã­ã«ç©ºè\n¹ã«ãããã¨ããã³ãã§ããâ¦â¦ã",
+      "Pt-br": "Então a perdedora ficará sem comer...\"",
+      "id": 21447,
+      "epk_id": "26593",
+      "label": "$$$message_0196_0027_0001$$$"
+    },
+    {
+      "en": "\"That's right. Heh heh heh. Is that too much for you, Saber?[lr]",
+      "jp": "ããããããµã£ãµã£ãµãã»ã¤ãã¼ã¡ããã«ã¯å¤§ããããåè² ãããï¼[lr]",
+      "Pt-br": "\"Isso mesmo. Heh, heh, heh. É demais para você, Saber-chan?[lr]",
+      "id": 21448,
+      "epk_id": "26594",
+      "label": "$$$message_0196_0028_0000$$$"
+    },
+    {
+      "en": "Come on. Do you have the courage to accept the challenge?\"",
+      "jp": "ãã©ãï¼ããã®åè² ãåããåæ°ããããã®ã\nã",
+      "Pt-br": "Vamos. Tem coragem de aceitar o desafio?\"",
+      "id": 21449,
+      "epk_id": "26595",
+      "label": "$$$message_0196_0028_0001$$$"
+    },
+    {
+      "en": "\"...Hrm. I didn't want to be competitive for a game after supper...[lr]",
+      "jp": "ãâ¦â¦ãµããé£å¾ã®ã²ã¼ã æ\nãå¿\nåã®å¿æ§ãã¯å°å°ãã¦ããã®ã§ããâ¦â¦[lr]",
+      "Pt-br": "\"...Hrm. Eu não pretendia levar tão a sério um jogo depois do jantar...[lr]",
+      "id": 21450,
+      "epk_id": "26596",
+      "label": "$$$message_0196_0029_0000$$$"
+    },
+    {
+      "en": "...Very well. I'll use my full effort for a battle as grave as this. I'm sorry, but you're going to go hungry, Taiga.\"[lr]",
+      "jp": "ã[line len=3]ããã§ããããããã»ã©ã®å¤§åè² ãªãæ¬æ°ãåºããã¨ãããã®ã§ããç³ãè¨³ããã¾ãããããè\n¹ãããã®ã¯è²´æ¹ã§ããå¤§æ²³ã[lr]",
+      "Pt-br": "...Muito bem. Darei tudo de mim numa batalha de tamanha gravidade. Lamento, mas será você quem passará fome, Taiga.\"[lr]",
+      "id": 21451,
+      "epk_id": "26597",
+      "label": "$$$message_0196_0029_0001$$$"
+    },
+    {
+      "en": "Saber grins confidently.[lr]",
+      "jp": "ããã¤ãªã¨ä¸æµã«ç¬ãã»ã¤ãã¼ã[lr]",
+      "Pt-br": "Saber abre um sorriso confiante.[lr]",
+      "id": 21452,
+      "epk_id": "26598",
+      "label": "$$$message_0196_0029_0002$$$"
+    },
+    {
+      "en": "\"Wha!? You weren't really trying, Saber!?\"[lr]",
+      "jp": "ããªã£ï¼ï¼ãã»ã¤ãã¼ã¡ãããä»ã¾ã§æ¬æ°ãããªãã£ãã£ã¦è¨ãã®ï¼ï¼ã[lr]",
+      "Pt-br": "\"O quê!? Você nem estava jogando a sério, Saber-chan!?\"[lr]",
+      "id": 21453,
+      "epk_id": "26599",
+      "label": "$$$message_0196_0029_0003$$$"
+    },
+    {
+      "en": "\"It would burn calories, after all.\"",
+      "jp": "ãã¾ããæ¬æ°ã§ããã°ã«ã­ãªã¼ãæ¶è²»ãã¾ãããã",
+      "Pt-br": "\"Afinal, isso consumiria calorias.\"",
+      "id": 21454,
+      "epk_id": "26600",
+      "label": "$$$message_0196_0029_0004$$$"
+    },
+    {
+      "en": "And yet...[lr]",
+      "jp": "ããããã ã[lr]",
+      "Pt-br": "Mas...[lr]",
+      "id": 21455,
+      "epk_id": "26601",
+      "label": "$$$message_0196_0030_0000$$$"
+    },
+    {
+      "en": "I can already tell that no matter who wins, I'll be the one to lose. One will dine well while the other goes hungry. Therein lies the spark of revolt.[lr]",
+      "jp": "ããã®åè² ãã©ã£ã¡ãåã£ã¦ãè¢«å®³ã¯ãã£ã¡ã«ããã¨è¦ããã©ã¡ãããè¥ããã°ãã©ã¡ãããè²§ããããããªã³ãã«ãªã£ããé£¢ããè\nã«ããé©å½ã¯å¿\nè³ã§ããã[lr]",
+      "Pt-br": "Já sei que, não importa quem vença, o derrotado serei eu. Uma comerá bem, a outra ficará com fome; é daí que nascem as revoltas.[lr]",
+      "id": 21456,
+      "epk_id": "26602",
+      "label": "$$$message_0196_0030_0001$$$"
+    },
+    {
+      "en": "As the handler of the household finances, I can't allow this to increase our dinner expenses by an entire dish.",
+      "jp": "ãå®¶è¨ãé ããè\nã¨ãã¦ããããªãæçµçã«ã¯å¤é£ã®ããããä¸ç¿å¢ããã ããã¨ããçµæ«ãè¨±ãã¯ã±ã«ã¯ããã¾ããã",
+      "Pt-br": "Como Guardião das finanças domésticas, não posso permitir que essa aposta acrescente um prato inteiro às despesas do jantar.",
+      "id": 21457,
+      "epk_id": "26603",
+      "label": "$$$message_0196_0030_0002$$$"
+    },
+    {
+      "en": "\"Okay. Let's settle down.[lr]",
+      "jp": "ãã¯ããã¶ã£ãããªåè² ã¯ããã¾ã§ã[lr]",
+      "Pt-br": "\"Muito bem. Vamos nos acalmar.[lr]",
+      "id": 21458,
+      "epk_id": "26604",
+      "label": "$$$message_0196_0031_0000$$$"
+    },
+    {
+      "en": "I made tea, so everyone take a break.\"[lr]",
+      "jp": "ããè¶ãæ·¹ããããä¸æãããã[lr]",
+      "Pt-br": "Fiz chá. Está na hora de uma pausa.\"[lr]",
+      "id": 21459,
+      "epk_id": "26605",
+      "label": "$$$message_0196_0031_0001$$$"
+    },
+    {
+      "en": "I wedge my way into the conversation with tea and snacks.[lr]",
+      "jp": "ããè¶ã¨ãè¶èå­ãæã£ã¦å²ã£ã¦å\n¥ãã[lr]",
+      "Pt-br": "Interrompo a discussão com chá e petiscos.[lr]",
+      "id": 21460,
+      "epk_id": "26606",
+      "label": "$$$message_0196_0031_0002$$$"
+    },
+    {
+      "en": "Fuji-nee reluctantly backs down under Saber's pressure, and Saber easily wraps it up as well.",
+      "jp": "ãã»ã¤ãã¼ã®è¿«åã«æ¼ããã¦ããè¤ã­ãã¯æ¸ã\nå¼ãä¸ãããã»ã¤ãã¼ããã£ããåè² ãåãããã¦ãããã",
+      "Pt-br": "Sob a pressão de Saber, Fuji-nee recua a contragosto. Saber também aceita encerrar o assunto sem dificuldade.",
+      "id": 21461,
+      "epk_id": "26607",
+      "label": "$$$message_0196_0031_0003$$$"
+    },
+    {
+      "en": "\"So Saber swept the table?\"[lr]",
+      "jp": "ãã§ãçµå±ã»ã¤ãã¼ã®å§åãï¼ã[lr]",
+      "Pt-br": "\"Então Saber varreu a mesa?\"[lr]",
+      "id": 21462,
+      "epk_id": "26608",
+      "label": "$$$message_0196_0032_0000$$$"
+    },
+    {
+      "en": "\"Yes... We couldn't compete at all.\"[lr]",
+      "jp": "ãã¯ãâ¦â¦ã¾ã£ããæ­¯ãç«ã¡ã¾ããã§ããã[lr]",
+      "Pt-br": "\"Sim... Não conseguimos fazer frente a ela.\"[lr]",
+      "id": 21463,
+      "epk_id": "26609",
+      "label": "$$$message_0196_0032_0001$$$"
+    },
+    {
+      "en": "We chat while we have tea.[lr]",
+      "jp": "ããè¶ãé£²ã¿ãªããéè«ããã[lr]",
+      "Pt-br": "Conversamos enquanto tomamos chá.[lr]",
+      "id": 21464,
+      "epk_id": "26610",
+      "label": "$$$message_0196_0032_0002$$$"
+    },
+    {
+      "en": "...For some reason, nobody besides Saber is reaching for the snacks.",
+      "jp": "ãããâ¦â¦ãªãããã»ã¤ãã¼ä»¥å¤èª°ããè¶è«ãã«æãåºããªãã",
+      "Pt-br": "...Por algum motivo, ninguém além de Saber toca nos petiscos.",
+      "id": 21465,
+      "epk_id": "26611",
+      "label": "$$$message_0196_0032_0003$$$"
+    },
+    {
+      "en": "\"Hm? What's wrong?\"[lr]",
+      "jp": "ããï¼ãã©ããããã ã[lr]",
+      "Pt-br": "\"Hmm? O que há de errado?\"[lr]",
+      "id": 21466,
+      "epk_id": "26612",
+      "label": "$$$message_0196_0033_0000$$$"
+    },
+    {
+      "en": "\"To the victor go the spoils...\"[lr]",
+      "jp": "ããã®ãè² ãåã®ã«ã¿ã«åããã¡ãã£ã¦ããã§ãã[lr]",
+      "Pt-br": "\"Os espólios pertencem à vencedora...\"[lr]",
+      "id": 21467,
+      "epk_id": "26613",
+      "label": "$$$message_0196_0033_0001$$$"
+    },
+    {
+      "en": "\"Sakura, I resent the way you phrased that. It was Taiga who proposed the stakes initially.\"[lr]",
+      "jp": "ãæ¡ããã®è¨ãåã¯äººèããæªããæåã«è³­ãäºã«ã¾ã§çºå±ãããã®ã¯å¤§æ²³ã§ãã[lr]",
+      "Pt-br": "\"Sakura, essa maneira de dizer me desagrada. Foi Taiga quem propôs a aposta.\"[lr]",
+      "id": 21468,
+      "epk_id": "26614",
+      "label": "$$$message_0196_0033_0002$$$"
+    },
+    {
+      "en": "\"...Haah. You were gambling from the start?\"",
+      "jp": "ãâ¦â¦â¦â¦ã¯ããæå¾ã ããããªãã¦ãã¯ããã£ããã®ã£ã³ãã«ã ã£ãã®ãã",
+      "Pt-br": "\"...Haa. Então estavam apostando desde o começo?\"",
+      "id": 21469,
+      "epk_id": "26615",
+      "label": "$$$message_0196_0033_0003$$$"
+    },
+    {
+      "en": "\"Yes. Taiga suggested that it would motivate us, and that games don't really count unless something important is on the line.\"[lr]",
+      "jp": "ãã¯ããããããã°æ°åã®å\n¥ãæ¹ãéããã²ã¼ã ã¯å¤§åãªãã®ãè³­ããªããã°åã ãã¨å¤§æ²³ãææ¡ãã¾ããã[lr]",
+      "Pt-br": "\"Sim. Taiga disse que isso nos motivaria e que um jogo só vale de verdade quando há algo importante em risco.\"[lr]",
+      "id": 21470,
+      "epk_id": "26616",
+      "label": "$$$message_0196_0034_0000$$$"
+    },
+    {
+      "en": "\"Fuji-nee...\"[lr]",
+      "jp": "ãâ¦â¦è¤ã­ãã[lr]",
+      "Pt-br": "\"Fuji-nee...\"[lr]",
+      "id": 21471,
+      "epk_id": "26617",
+      "label": "$$$message_0196_0034_0001$$$"
+    },
+    {
+      "en": "I look sideways at her, but she's curled up with her back towards me, sleeping.",
+      "jp": "ãæ¨ªãè¦ãã¨ããã£ããããããæ§å­ã§èãåãã¦å¯ã¦ããã",
+      "Pt-br": "Olho de soslaio, mas ela está encolhida, de costas para mim, fingindo dormir.",
+      "id": 21472,
+      "epk_id": "26618",
+      "label": "$$$message_0196_0034_0002$$$"
+    },
+    {
+      "en": "\"I'm using my authority as head of the house to call off the gamble. This is community property, and nobody gets to hog it all.[lr]",
+      "jp": "ãå®¶ä¸»æ¨©éã§è³­ãäºã¯ç¡å¹ãã¿ããªã®å\n±æè²¡ç£ãªãã ãããåäººè³ç£ã«ãã¡ããã¡ã ãã[lr]",
+      "Pt-br": "\"Como chefe desta casa, declaro a aposta anulada. Os petiscos são propriedade comum; ninguém vai ficar com tudo.[lr]",
+      "id": 21473,
+      "epk_id": "26619",
+      "label": "$$$message_0196_0035_0000$$$"
+    },
+    {
+      "en": "But...\"[lr]",
+      "jp": "ããã ã[line len=3]ã[lr]",
+      "Pt-br": "Mas...\"[lr]",
+      "id": 21474,
+      "epk_id": "26620",
+      "label": "$$$message_0196_0035_0001$$$"
+    },
+    {
+      "en": "Fuji-nee freezes halfway through her cheerful waking-up animation.",
+      "jp": "ãåãã§é£ã³èµ·ããè¤ã­ãã®åããæ­¢ããã",
+      "Pt-br": "Fuji-nee congela no meio de sua animada encenação de despertar.",
+      "id": 21475,
+      "epk_id": "26621",
+      "label": "$$$message_0196_0035_0002$$$"
+    },
+    {
+      "en": "\"As a lesson to you for saying something stupid, you don't get any snacks, Fuji-nee.\"",
+      "jp": "ãæè¨ã¨ãã¦ããã«ãªã³ããè¨ãåºããè¤ã­ãã¯ããããã ã",
+      "Pt-br": "\"Mas, para aprender a não dizer bobagens, você fica sem petiscos, Fuji-nee.\"",
+      "id": 21476,
+      "epk_id": "26622",
+      "label": "$$$message_0196_0036_0000$$$"
+    },
+    {
+      "en": "\"W-what are you talking about, Shirou!? [cacheimage storage=藤02f腕a(中)][wvl][chgfg time=200 storage=藤02f腕a(中) textoff=0]I don't remember raising you this way!\"[lr]",
+      "jp": "ããªããªãã¦ã³ãè¨ãã®ãå£«éï¼ã[cacheimage storage=è¤02fè\na(ä¸­)][wvl][chgfg time=200 storage=è¤02fè\na(ä¸­) textoff=0]ãå§ã¡ããã¯ãããªå­ã«è²ã¦ãè¦ãã¯ãªãããï¼ã[lr]",
+      "Pt-br": "\"C-como pode dizer isso, Shirou!? [cacheimage storage=藤02f腕a(中)][wvl][chgfg time=200 storage=藤02f腕a(中) textoff=0]Não me lembro de ter criado você desse jeito, Onee-chan!\"[lr]",
+      "id": 21477,
+      "epk_id": "26623",
+      "label": "$$$message_0196_0037_0000$$$"
+    },
+    {
+      "en": "\"I don't want to hear it. You should know better as a teacher than to encourage gambling. At least act a little sorry.\"[lr]",
+      "jp": "ããããããæå¸«ã®ã¯ã»ã«è³­ãäºãå¼·å¶ããã»ããæªããå°ãåçãã¦ãã[lr]",
+      "Pt-br": "\"Não quero ouvir. Como professora, você devia saber que não se incentiva jogo de azar. Ao menos finja algum remorso.\"[lr]",
+      "id": 21478,
+      "epk_id": "26624",
+      "label": "$$$message_0196_0037_0001$$$"
+    },
+    {
+      "en": "\"Waaah! Shirou, you meanie!\"[lr]",
+      "jp": "ãããã¼ããå£«éã®ã°ãã¼ã[lr]",
+      "Pt-br": "\"Uaaah! Shirou, seu malvado!\"[lr]",
+      "id": 21479,
+      "epk_id": "26625",
+      "label": "$$$message_0196_0037_0002$$$"
+    },
+    {
+      "en": "Fuji-nee kicks her feet like a child.",
+      "jp": "ãå­ä¾ã®ããã«è¶³ãã°ãã°ãã¨ãããè¤ã­ãã",
+      "Pt-br": "Fuji-nee esperneia como uma criança.",
+      "id": 21480,
+      "epk_id": "26626",
+      "label": "$$$message_0196_0037_0003$$$"
+    },
+    {
+      "en": "\"Yep, that's me. If you're getting munchies, then have some tea and go home.\"[lr]",
+      "jp": "ããã«ã§çµæ§ãã¯ããã¿ãããªãè¶ã§ãé£²ãã§ã¨ã£ã¨ã¨å¸°ãã[lr]",
+      "Pt-br": "\"Sou mesmo. Se a fome apertar, tome chá e vá para casa.\"[lr]",
+      "id": 21481,
+      "epk_id": "26627",
+      "label": "$$$message_0196_0038_0000$$$"
+    },
+    {
+      "en": "I confiscate her snack and place it in front of Saber.",
+      "jp": "ãåç­ç¡ç¨ã§ãè¶è«ããåãä¸ããã»ã¤ãã¼ã®åã«ç½®ãã",
+      "Pt-br": "Confisco seu petisco e o coloco diante de Saber.",
+      "id": 21482,
+      "epk_id": "26628",
+      "label": "$$$message_0196_0038_0001$$$"
+    },
+    {
+      "en": "\"Whatever happened, your snack goes to Saber, like you promised.[lr]",
+      "jp": "ãããã¨ãçµç·¯ã¯ã©ããããç´æããããã«ã¯è¤ã­ãã®ãèå­ã¯ã»ã¤ãã¼ã®ç©ã ã[lr]",
+      "Pt-br": "\"De todo modo, como prometeu, seu petisco vai para Saber, Fuji-nee.[lr]",
+      "id": 21483,
+      "epk_id": "26629",
+      "label": "$$$message_0196_0039_0000$$$"
+    },
+    {
+      "en": "...If this happens again, make sure you stop her.\"",
+      "jp": "ãâ¦â¦ãªãã ãæ¬¡ããããã³ãã«ãªã£ãããããæã¯è¤ã­ãã«å¾\nã£ããããã¦ããã",
+      "Pt-br": "...Se isso voltar a acontecer, faça questão de impedi-la, Fuji-nee.\"",
+      "id": 21484,
+      "epk_id": "26630",
+      "label": "$$$message_0196_0039_0001$$$"
+    },
+    {
+      "en": "\"Y-yes. I'll be careful from now on.[lr]",
+      "jp": "ãã¯ãã¯ããä»å¾ã¯æ°ãã¤ãã¾ãã[lr]",
+      "Pt-br": "\"S-sim. Terei mais cuidado daqui em diante.[lr]",
+      "id": 21485,
+      "epk_id": "26631",
+      "label": "$$$message_0196_0040_0000$$$"
+    },
+    {
+      "en": "I'm sorry. I let myself get a little heated.\"[lr]",
+      "jp": "ããã¿ã¾ãããåè² äºã«ãªãã¨ã¤ãç±ããªã£ã¦ãã¾ã£ã¦ã[lr]",
+      "Pt-br": "Perdoe-me. Eu me deixei levar.\"[lr]",
+      "id": 21486,
+      "epk_id": "26632",
+      "label": "$$$message_0196_0040_0001$$$"
+    },
+    {
+      "en": "Having calmed down, Saber seems to regret hogging the snacks.",
+      "jp": "ãå·éã«ãªã£ãã®ãããèå­ãç¬ãå ãã«ããã³ããåçããã»ã¤ãã¼ã",
+      "Pt-br": "Agora que se acalmou, Saber parece arrependida de ter monopolizado os petiscos.",
+      "id": 21487,
+      "epk_id": "26633",
+      "label": "$$$message_0196_0040_0002$$$"
+    },
+    {
+      "en": "\"Soft! You're too soft on her, like the way Raiga Fujimura spoils Illya! It's Saber's fault, too! Arrest everyone who gambled![lr]",
+      "jp": "ãçããçããããè¤æé·ç»ã®ã¤ãªã¤ã¡ããè´å±ã°ãã«ç«ããããããå£«éï¼ãã»ã¤ãã¼ã¡ããã«ãéã¯ããï¼ãã®ã£ã³ãã«ã¯åå ããäººéãæã¾ãã®ã ï¼[lr]",
+      "Pt-br": "\"Mole! Você é mole demais com ela, igual ao Fujimura Raiga mimando Illya-chan! Saber-chan também teve culpa! Prenda todo mundo que apostou![lr]",
+      "id": 21488,
+      "epk_id": "26634",
+      "label": "$$$message_0196_0041_0000$$$"
+    },
+    {
+      "en": "On that note, I'll have a rice cracker, pretty please.\"[lr]",
+      "jp": "ãã¯ãããããªã¯ã±ã§ãããã«ããç\nã¡ãã¼ã ãã[lr]",
+      "Pt-br": "Dito isso, aceito um biscoito de arroz. Por favorzinho.\"[lr]",
+      "id": 21489,
+      "epk_id": "26635",
+      "label": "$$$message_0196_0041_0001$$$"
+    },
+    {
+      "en": "Fuji-nee starts munching on a rice cracker.",
+      "jp": "ãããã¦ãã¼ãã¼ãã¨ãç\né¤\nãé£ã¹ãè¤ã­ãã",
+      "Pt-br": "Fuji-nee começa a mastigar um biscoito de arroz.",
+      "id": 21490,
+      "epk_id": "26636",
+      "label": "$$$message_0196_0041_0002$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "ãâ¦â¦â¦â¦â¦â¦ã[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 21491,
+      "epk_id": "26637",
+      "label": "$$$message_0196_0042_0000$$$"
+    },
+    {
+      "en": "It's a typical, exasperating scene, but I did learn something new.[lr]",
+      "jp": "ãåããã»ã©ã®ãã¤ãã®å\næ¯ã ããæ°ããå¤æããäºå®ãä¸ã¤ã[lr]",
+      "Pt-br": "É a cena exasperante de sempre, mas ao menos aprendi uma coisa nova.[lr]",
+      "id": 21492,
+      "epk_id": "26638",
+      "label": "$$$message_0196_0042_0001$$$"
+    },
+    {
+      "en": "This was supposed to be a gamble taking place over one hundred matches, but Saber displayed her power through a mere ten matches like a master.",
+      "jp": "ãç¾åã¯ãããã¨ããã®ã£ã³ãã«ã®åè² ä»ãã ããã»ã¤ãã¼ã¯åäººããããããããååç¨åº¦ã§æå¼·ãè¨¼æããã®ã§ãã£ããµD_«",
+      "Pt-br": "A disputa deveria se estender por cem partidas, mas Saber demonstrou sua força em apenas dez, como uma verdadeira mestra.",
+      "id": 21493,
+      "epk_id": "26639",
+      "label": "$$$message_0196_0042_0002$$$"
+    }
+  ]
+}

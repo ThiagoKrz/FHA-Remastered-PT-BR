@@ -1,0 +1,488 @@
+{
+  "cena": "62nnps5r1tnu7lmjuq0ct2v1dl",
+  "titulo": "Cidade: Duplas Detetives",
+  "rota": "Dia 3",
+  "arquivo": "62nnps5r1tnu7lmjuq0ct2v1dl.epk_dec",
+  "linhas": [
+    {
+      "en": "I get to a hidden mansion that hides in a high place in the outskirts of Shinto.[lr]",
+      "jp": "　新都の郊外、ひときわ高い場所に隠れ建つ洋館へやってきた。[lr]",
+      "Pt-br": "Chego a uma mansão oculta num ponto alto dos arredores de Shinto.[lr]",
+      "id": 16359,
+      "epk_id": "15529",
+      "label": "$$$message_0120_0000_0000$$$"
+    },
+    {
+      "en": "I know there isn't anything, but just in case, I want to investigate it one more time.",
+      "jp": "　何もないと判ってはいるが、念のため、もう一度だけ調べてみたくなったのだ。",
+      "Pt-br": "Sei que não há nada ali, mas, por via das dúvidas, quero investigá-la mais uma vez.",
+      "id": 16360,
+      "epk_id": "15530",
+      "label": "$$$message_0120_0000_0001$$$"
+    },
+    {
+      "en": "\"...I left right away last time, so I should take my time today.\"[lr]",
+      "jp": "「……前はすぐに出て行っちまったし、今日はゆっくりしていこう」[lr]",
+      "Pt-br": "\"...Da última vez fui embora logo, então hoje devo olhar com calma.\"[lr]",
+      "id": 16361,
+      "epk_id": "15531",
+      "label": "$$$message_0120_0001_0000$$$"
+    },
+    {
+      "en": "I'm well aware that this is trespassing, but I wanted to see the inside of the mansion for a bit without needing to rush.",
+      "jp": "　不法侵入である事は先刻承知なのだが、少しぐらい、余裕を持って館内を見てみたかった。",
+      "Pt-br": "Sei muito bem que isto é invasão, mas queria ver o interior da mansão por um tempo, sem precisar me apressar.",
+      "id": 16362,
+      "epk_id": "15532",
+      "label": "$$$message_0120_0001_0001$$$"
+    },
+    {
+      "en": "Both the Tohsaka house and Matou house are magnificent mansions, but I've never had any emotional attachments to the buildings themselves.[lr]",
+      "jp": "　遠坂邸や間桐邸も立派な洋館なのだが、建物自体に愛着を持った事はない。[lr]",
+      "Pt-br": "A casa Tohsaka e a casa Matou são mansões magníficas, mas nunca tive apego emocional aos prédios em si.[lr]",
+      "id": 16363,
+      "epk_id": "15533",
+      "label": "$$$message_0120_0002_0000$$$"
+    },
+    {
+      "en": "However, I like this mansion for some odd reason.[lr]",
+      "jp": "　しかし、この洋館は不思議と気に入っていた。[lr]",
+      "Pt-br": "Por algum motivo estranho, porém, gosto desta mansão.[lr]",
+      "id": 16364,
+      "epk_id": "15534",
+      "label": "$$$message_0120_0002_0001$$$"
+    },
+    {
+      "en": "While being luxurious, the modest make hits the spot for architecture enthusiasts. If it's this mansion, it would seem fun to work as the manager as a part-time job.",
+      "jp": "　豪華でありながら慎ましい造りが構造好きのツボを突くというか。この洋館なら、アルバイトで管理人をしても楽しそうだ。",
+      "Pt-br": "Embora luxuosa, a construção modesta acerta em cheio o gosto de entusiastas de arquitetura. Nesta mansão, até parece divertido trabalhar meio período como zelador.",
+      "id": 16365,
+      "epk_id": "15535",
+      "label": "$$$message_0120_0002_0002$$$"
+    },
+    {
+      "en": "The mansion is filled with light.[lr]",
+      "jp": "　洋館には光が満ちている。[lr]",
+      "Pt-br": "A mansão é iluminada.[lr]",
+      "id": 16366,
+      "epk_id": "15536",
+      "label": "$$$message_0120_0003_0000$$$"
+    },
+    {
+      "en": "There must be a lot of windows.[lr]",
+      "jp": "　窓が多いのだろう。[lr]",
+      "Pt-br": "Deve ter muitas janelas.[lr]",
+      "id": 16367,
+      "epk_id": "15537",
+      "label": "$$$message_0120_0003_0001$$$"
+    },
+    {
+      "en": "It's partly because it's near the top of a mountain, but on days when the weather is good, the field of view becomes white and hazy.[lr]",
+      "jp": "　山の頂上付近という事もあり、天気のいい日は陽射しで視界が白く霞む。[lr]",
+      "Pt-br": "Em parte por ficar perto do topo da montanha, nos dias de tempo bom o campo de visão fica branco e enevoado.[lr]",
+      "id": 16368,
+      "epk_id": "15538",
+      "label": "$$$message_0120_0003_0002$$$"
+    },
+    {
+      "en": "In the middle of what seems to be heaven, there is some definite thing that wasn't there last time.[sestop time=1000 nowait=true]",
+      "jp": "　その、天上の世界を思わせる中、前回にはなかったモノが確かにあった。[sestop time=1000 nowait=true]",
+      "Pt-br": "No meio do que parece o paraíso, há algo definido que não estava aqui da última vez.[sestop time=1000 nowait=true]",
+      "id": 16369,
+      "epk_id": "15539",
+      "label": "$$$message_0120_0003_0003$$$"
+    },
+    {
+      "en": "\"...There's someone...\"[lr]",
+      "jp": "「[line len=3]誰かいる[line len=3]」[lr]",
+      "Pt-br": "\"...Tem alguém aqui...\"[lr]",
+      "id": 16370,
+      "epk_id": "15540",
+      "label": "$$$message_0120_0004_0000$$$"
+    },
+    {
+      "en": "I feel the presence of someone on the second floor.[lr]",
+      "jp": "　二階から人の気配がする。[lr]",
+      "Pt-br": "Sinto uma presença no segundo andar.[lr]",
+      "id": 16371,
+      "epk_id": "15541",
+      "label": "$$$message_0120_0004_0001$$$"
+    },
+    {
+      "en": "It's not just someone's presence that I'm feeling.[lr]",
+      "jp": "　伝わってくるのは気配だけではない。[lr]",
+      "Pt-br": "Não sinto apenas a presença de alguém.[lr]",
+      "id": 16372,
+      "epk_id": "15542",
+      "label": "$$$message_0120_0004_0002$$$"
+    },
+    {
+      "en": "Something towards the intruder[line len=3]no, there is clear enmity towards me.",
+      "jp": "　侵入者に対する[line len=3]いや、俺に対する明確な敵意があった。",
+      "Pt-br": "Algo voltado ao intruso[line len=3]não, há clara hostilidade contra mim.",
+      "id": 16373,
+      "epk_id": "15543",
+      "label": "$$$message_0120_0004_0003$$$"
+    },
+    {
+      "en": "I go up to the second floor.[lr]",
+      "jp": "　二階の部屋に上がる。[lr]",
+      "Pt-br": "Subo ao segundo andar.[lr]",
+      "id": 16374,
+      "epk_id": "15544",
+      "label": "$$$message_0120_0005_0000$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「[line len=6]」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 16375,
+      "epk_id": "15545",
+      "label": "$$$message_0120_0005_0001$$$"
+    },
+    {
+      "en": "...I hear the sound of footsteps approaching.[lr]",
+      "jp": "　……足音が近づいてくる。[lr]",
+      "Pt-br": "...Ouço os passos de alguém chegando perto.[lr]",
+      "id": 16376,
+      "epk_id": "15546",
+      "label": "$$$message_0120_0005_0002$$$"
+    },
+    {
+      "en": "From the whiteout, he slowly shows himself...",
+      "jp": "　白い闇の中から、そいつはゆっくりと姿を[line len=3]",
+      "Pt-br": "Do branco absoluto, ele se revela lentamente...",
+      "id": 16377,
+      "epk_id": "15547",
+      "label": "$$$message_0120_0005_0003$$$"
+    },
+    {
+      "en": "\"...So it's your stupid face.[lr]",
+      "jp": "「……誰かと思えばそのマヌケ面か。[lr]",
+      "Pt-br": "\"...Então é a sua cara idiota.[lr]",
+      "id": 16378,
+      "epk_id": "15548",
+      "label": "$$$message_0120_0006_0000$$$"
+    },
+    {
+      "en": "Geez, what a waste of energy, Shirou Emiya.\"[lr]",
+      "jp": "　まったく、とんだ無駄骨だな衛宮士郎」[lr]",
+      "Pt-br": "Francamente, que desperdício de energia, Emiya Shirou.\"[lr]",
+      "id": 16379,
+      "epk_id": "15549",
+      "label": "$$$message_0120_0006_0001$$$"
+    },
+    {
+      "en": "[shock vmax=20 time=400 count=-2]...That's my line.",
+      "jp": "　[shock vmax=20 time=400 count=-2][line len=3]って、それはこっちの台詞だ。",
+      "Pt-br": "[shock vmax=20 time=400 count=-2]...Era o que eu ia dizer.",
+      "id": 16380,
+      "epk_id": "15550",
+      "label": "$$$message_0120_0006_0002$$$"
+    },
+    {
+      "en": "\"I got nervous for no reason. Why are you here, Archer? Or what, did Tohsaka get fed up with you and kick you out?\"[lr]",
+      "jp": "「緊張して損した。なんでおまえがここにいるんだアーチャー。それともなにか、遠坂に愛想つかされて家を追い出されでもしたか？」[lr]",
+      "Pt-br": "\"Fiquei nervoso à toa. O que você está fazendo aqui, Archer? Ou a Tohsaka cansou de você e te expulsou?\"[lr]",
+      "id": 16381,
+      "epk_id": "15551",
+      "label": "$$$message_0120_0007_0000$$$"
+    },
+    {
+      "en": "\"Hm. You have good instincts. You're not necessarily wrong.[lr]",
+      "jp": "「ほう。勘がいいな、あながち間違いではない。[lr]",
+      "Pt-br": "\"Hm. Você tem bons instintos. Não está totalmente errado.[lr]",
+      "id": 16382,
+      "epk_id": "15552",
+      "label": "$$$message_0120_0007_0001$$$"
+    },
+    {
+      "en": "I couldn't finish the work that the owner asked me to do, and I haven't been able to go home satisfied these past few days...\"",
+      "jp": "　主人に任された仕事が片づかなくてね、満足に帰れない日々なのだが……」",
+      "Pt-br": "Não concluí o trabalho que minha mestra me pediu, e há alguns dias não consigo voltar para casa satisfeito...\"",
+      "id": 16383,
+      "epk_id": "15553",
+      "label": "$$$message_0120_0007_0002$$$"
+    },
+    {
+      "en": "\"However, your speculation sounded credible.[lr]",
+      "jp": "「しかし、今のは真実味のある推測だった。[lr]",
+      "Pt-br": "\"Contudo, sua especulação soou plausível.[lr]",
+      "id": 16384,
+      "epk_id": "15554",
+      "label": "$$$message_0120_0008_0000$$$"
+    },
+    {
+      "en": "I see, being in a dilemma of not having a place to stay and running away probably isn't someone else's business.[lr]",
+      "jp": "　そうかそうか、板挟みで居場所がなくなり逃げ出していく、というのは他人事ではなかろうよ。[lr]",
+      "Pt-br": "Entendo; o dilema de não ter onde ficar e fugir de casa talvez não lhe seja estranho.[lr]",
+      "id": 16385,
+      "epk_id": "15555",
+      "label": "$$$message_0120_0008_0001$$$"
+    },
+    {
+      "en": "Worries that you hold about the future will involuntarily come out of your mouth. Narrow down your target like a man while you can still decide on your course of action.\"[lr]",
+      "jp": "　将来の不安は無意識に口に出る。まだ進退が決められるうちに、男らしく的を絞っておけ」[lr]",
+      "Pt-br": "As preocupações que guarda sobre o futuro escapam da sua boca sem querer. Estreite seu alvo como homem enquanto ainda pode decidir seu curso de ação.\"[lr]",
+      "id": 16386,
+      "epk_id": "15556",
+      "label": "$$$message_0120_0008_0002$$$"
+    },
+    {
+      "en": "\"...Guh, [wvl][shock vmax=10 time=300 count=-2]that's none of your business. Stay out of it.\"",
+      "jp": "「[line len=3]ぐ、[wvl][shock vmax=10 time=300 count=-2]余計なお世話だっ。うちの事情に口つっこまないでくれ」",
+      "Pt-br": "\"...Guh, [wvl][shock vmax=10 time=300 count=-2]isso não é da sua conta. Não se meta.\"",
+      "id": 16387,
+      "epk_id": "15557",
+      "label": "$$$message_0120_0008_0003$$$"
+    },
+    {
+      "en": "Since even I get worried myself sometimes.[lr]",
+      "jp": "　なんというか、自分でも時々不安に思うんだから。[lr]",
+      "Pt-br": "Até eu mesmo fico preocupado às vezes.[lr]",
+      "id": 16388,
+      "epk_id": "15558",
+      "label": "$$$message_0120_0009_0000$$$"
+    },
+    {
+      "en": "...Putting that aside, Archer has certainly been watching over the Tohsaka house recently.[lr]",
+      "jp": "　……それはともかく、確かにアーチャーはここのところ遠坂邸を留守にしている。[lr]",
+      "Pt-br": "...Deixando isso de lado, Archer certamente tem vigiado a casa Tohsaka ultimamente.[lr]",
+      "id": 16389,
+      "epk_id": "15559",
+      "label": "$$$message_0120_0009_0001$$$"
+    },
+    {
+      "en": "Work that was left to Tohsaka must mean the duties of Fuyuki's administrator...it must be maintaining the peace of the town.",
+      "jp": "　遠坂に任された仕事というのは、冬木の管理者としての責務[line len=3]町の治安維持なのだろう。",
+      "Pt-br": "O trabalho deixado para Tohsaka deve ser o dever de administradora de Fuyuki... manter a paz da cidade.",
+      "id": 16390,
+      "epk_id": "15560",
+      "label": "$$$message_0120_0009_0002$$$"
+    },
+    {
+      "en": "\"...Heh. Did you also think there was something here, too? You wouldn't get close to here if that weren't the case, right?\"",
+      "jp": "「……ふん。じゃあおまえも、ここに何かあるって思ったのか？ そうでもなければ近づかないだろ、こんなところに」",
+      "Pt-br": "\"...Heh. Você também achou que havia algo aqui? Não chegaria perto deste lugar se não fosse o caso, certo?\"",
+      "id": 16391,
+      "epk_id": "15561",
+      "label": "$$$message_0120_0010_0000$$$"
+    },
+    {
+      "en": "\"No. I'm not interested in this mansion at all, and first of all, I didn't even know of its existence. I just finished investigating, but there was nothing particularly unusual. I don't plan to waste any more time here.\"[lr]",
+      "jp": "「いや。私はこの洋館には興味はないし、そもそも存在を知らなかった。調査を終えたところだが、これといった異状もない。これ以上時間をとるつもりはない」[lr]",
+      "Pt-br": "\"Não. Esta mansão não me interessa, e, antes de tudo, eu nem sabia que ela existia. Acabei de investigar, mas não havia nada particularmente anormal. Não pretendo desperdiçar mais tempo aqui.\"[lr]",
+      "id": 16392,
+      "epk_id": "15562",
+      "label": "$$$message_0120_0011_0000$$$"
+    },
+    {
+      "en": "\"Huh??? Then why did you come? You came because you thought it was suspicious, right?\"",
+      "jp": "「？？？　ならなんで来たんだよ。怪しいと思うから来たんだろ？」",
+      "Pt-br": "\"Hã??? Então por que veio? Você veio porque achou suspeito, não foi?\"",
+      "id": 16393,
+      "epk_id": "15563",
+      "label": "$$$message_0120_0011_0001$$$"
+    },
+    {
+      "en": "\"You're the reason. You came into this mansion before. That's enough reason to investigate.\"[lr]",
+      "jp": "「理由はオマエだ。以前、オマエはこの洋館に入っていった。調査する理由はそれだけで十分だ」[lr]",
+      "Pt-br": "\"Por sua causa. Você entrou nesta mansão antes. Isso basta como motivo para investigar.\"[lr]",
+      "id": 16394,
+      "epk_id": "15564",
+      "label": "$$$message_0120_0012_0000$$$"
+    },
+    {
+      "en": "\"What the hell? Does that mean you came to see if I did anything bad?\"[lr]",
+      "jp": "「なんだそれ。俺が悪さをしてないか調べに来たって事か？」[lr]",
+      "Pt-br": "\"Que diabos? Quer dizer que veio ver se eu aprontei alguma coisa?\"[lr]",
+      "id": 16395,
+      "epk_id": "15565",
+      "label": "$$$message_0120_0012_0001$$$"
+    },
+    {
+      "en": "I glare at him, wondering on what basis he's suspecting me.[lr]",
+      "jp": "　何の根拠があって、と睨み付ける。[lr]",
+      "Pt-br": "Fito-o, perguntando-me com que base ele suspeita de mim.[lr]",
+      "id": 16396,
+      "epk_id": "15566",
+      "label": "$$$message_0120_0012_0002$$$"
+    },
+    {
+      "en": "After Archer looks me up and down suspiciously,",
+      "jp": "　アーチャーは[ruby text=いぶか]訝しげに俺を上から下まで眺めた後、",
+      "Pt-br": "Depois de Archer me examinar de cima a baixo com desconfiança,",
+      "id": 16397,
+      "epk_id": "15567",
+      "label": "$$$message_0120_0012_0003$$$"
+    },
+    {
+      "en": "\"What brings [font italic=true]you[font italic=false] here?[lr]",
+      "jp": "「オマエこそ、どんな理由でここに足を運んだ？[lr]",
+      "Pt-br": "\"O que traz [font italic=true]você[font italic=false] aqui?[lr]",
+      "id": 16398,
+      "epk_id": "15568",
+      "label": "$$$message_0120_0013_0000$$$"
+    },
+    {
+      "en": "You said so yourself that you didn't know about this mansion.\"[lr]",
+      "jp": "　私はこんな洋館は知らなかった、と言ったんだぞ？」[lr]",
+      "Pt-br": "Você mesmo disse que não sabia deste lugar.\"[lr]",
+      "id": 16399,
+      "epk_id": "15569",
+      "label": "$$$message_0120_0013_0001$$$"
+    },
+    {
+      "en": "...Archer...didn't know about it.[lr]",
+      "jp": "　[line len=3]アーチャーが、知らなかった。[lr]",
+      "Pt-br": "...Archer... não sabia dela.[lr]",
+      "id": 16400,
+      "epk_id": "15570",
+      "label": "$$$message_0120_0013_0002$$$"
+    },
+    {
+      "en": "It dawns on me that this must mean something...[lr]",
+      "jp": "　それに何か重要な意味がありそうだな、と閃いて、[lr]",
+      "Pt-br": "Percebo que isso deve significar alguma coisa...[lr]",
+      "id": 16401,
+      "epk_id": "15571",
+      "label": "$$$message_0120_0013_0003$$$"
+    },
+    {
+      "en": "\"Hrrk...\"[lr]",
+      "jp": "「っ[line len=3]」[lr]",
+      "Pt-br": "\"Hrrk...\"[lr]",
+      "id": 16402,
+      "epk_id": "15572",
+      "label": "$$$message_0120_0013_0004$$$"
+    },
+    {
+      "en": "I'm dazzled by the bright sunlight that shines.",
+      "jp": "　強く差し込んだ陽光に、目が眩んだ。",
+      "Pt-br": "A luz intensa do Sol me deixa ofuscado.",
+      "id": 16403,
+      "epk_id": "15573",
+      "label": "$$$message_0120_0013_0005$$$"
+    },
+    {
+      "en": "\"Whatever, it will eventually become clear. Either that or I was expecting that there would be some kind of lead here, but it seems like I was wrong.[lr]",
+      "jp": "「まあいい、いずれ明らかになる話だ。あるいはここに手がかりがあるかと期待したが、その様子ではここは[ruby text=はず]外れだな。[lr]",
+      "Pt-br": "\"Tanto faz, uma hora ficará claro. Ou eu esperava encontrar alguma pista aqui, mas parece que estava enganado.[lr]",
+      "id": 16404,
+      "epk_id": "15574",
+      "label": "$$$message_0120_0014_0000$$$"
+    },
+    {
+      "en": "...I suppose I can't gather all the evidence by myself.\"[lr]",
+      "jp": "　[line len=3]やはり、私では全ての証拠は揃えられないか」[lr]",
+      "Pt-br": "...Suponho que eu não possa reunir todas as provas sozinho.\"[lr]",
+      "id": 16405,
+      "epk_id": "15575",
+      "label": "$$$message_0120_0014_0001$$$"
+    },
+    {
+      "en": "Archer heads to the hallway.",
+      "jp": "　廊下に向かうアーチャー。",
+      "Pt-br": "O Archer vai para o corredor.",
+      "id": 16406,
+      "epk_id": "15576",
+      "label": "$$$message_0120_0014_0002$$$"
+    },
+    {
+      "en": "\"Oh yeah. The owner of this mansion passed away sixty years ago.[lr]",
+      "jp": "「そうそう。この洋館の持ち主だがな、六十年前に他界しているぞ。[lr]",
+      "Pt-br": "\"Ah, sim. A proprietária desta mansão morreu há sessenta anos.[lr]",
+      "id": 16407,
+      "epk_id": "15577",
+      "label": "$$$message_0120_0015_0000$$$"
+    },
+    {
+      "en": "The owner's name is Edelfelt. Apparently it's a distinguished family of mages from a faraway foreign country. [lr]",
+      "jp": "　持ち主の名はエーデルフェルト。遠い異国の、魔道の名門だそうだ」[lr]",
+      "Pt-br": "Seu nome era Edelfelt. Ao que parece, uma distinta família de magos de um país distante. [lr]",
+      "id": 16408,
+      "epk_id": "15578",
+      "label": "$$$message_0120_0015_0001$$$"
+    },
+    {
+      "en": "\"Edelfelt...?\"[lr]",
+      "jp": "「エーデルフェルト……？」[lr]",
+      "Pt-br": "\"Edelfelt...?\"[lr]",
+      "id": 16409,
+      "epk_id": "15579",
+      "label": "$$$message_0120_0015_0002$$$"
+    },
+    {
+      "en": "...I feel like I've heard that name before...",
+      "jp": "　……その響きは、たしか、どこかで[line len=3]",
+      "Pt-br": "...Sinto que já ouvi esse nome antes...",
+      "id": 16410,
+      "epk_id": "15580",
+      "label": "$$$message_0120_0015_0003$$$"
+    },
+    {
+      "en": "\"Well then. I don't know what you came to look for in this mansion, but let me know if you find something new.[lr]",
+      "jp": "「ではな。この洋館に何を探しに来たのかは知らんが、新しい[ruby text=ぶつ]物が出たら教えてくれ。[lr]",
+      "Pt-br": "\"Pois bem. Não sei o que veio procurar nesta mansão, mas avise-me se encontrar algo novo.[lr]",
+      "id": 16411,
+      "epk_id": "15581",
+      "label": "$$$message_0120_0016_0000$$$"
+    },
+    {
+      "en": "Let's see, my theory would come to life if you discovered a corpse or something.\"[lr]",
+      "jp": "　そうだな、死体でも発見してくれると推理も盛り上がるんだが」[lr]",
+      "Pt-br": "Vejamos, minha teoria ganharia vida se você descobrisse um cadáver ou algo assim.\"[lr]",
+      "id": 16412,
+      "epk_id": "15582",
+      "label": "$$$message_0120_0016_0001$$$"
+    },
+    {
+      "en": "He leaves with sarcasm.",
+      "jp": "　嫌味を残して去っていく。",
+      "Pt-br": "Ele parte com sarcasmo.",
+      "id": 16413,
+      "epk_id": "15583",
+      "label": "$$$message_0120_0016_0002$$$"
+    },
+    {
+      "en": "\"What the hell is wrong with him? As if I would tell him even if I found something.\"[lr]",
+      "jp": "「なんだあいつ。見つけても誰が教えるかってんだ」[lr]",
+      "Pt-br": "\"Que diabos há com ele? Como se eu fosse contar, mesmo que encontrasse alguma coisa.\"[lr]",
+      "id": 16414,
+      "epk_id": "15584",
+      "label": "$$$message_0120_0017_0000$$$"
+    },
+    {
+      "en": "I return the usual parting shot and start investigating the mansion.[lr]",
+      "jp": "　それにお決まりの負け台詞を返して、洋館の調査を開始した。[lr]",
+      "Pt-br": "Devolvo a provocação de sempre e começo a investigar a mansão.[lr]",
+      "id": 16415,
+      "epk_id": "15585",
+      "label": "$$$message_0120_0017_0001$$$"
+    },
+    {
+      "en": "...Well.[lr]",
+      "jp": "　……まあ。[lr]",
+      "Pt-br": "...Bem.[lr]",
+      "id": 16416,
+      "epk_id": "15586",
+      "label": "$$$message_0120_0017_0002$$$"
+    },
+    {
+      "en": "Seeing as Archer couldn't find anything after investigating, it doesn't seem like new evidence will come up no matter how much I look.",
+      "jp": "　アーチャーが調べて何もなかった以上、どれだけ調べても新しい物証など出てはこないのであるが。",
+      "Pt-br": "...Considerando que Archer não encontrou nada depois de investigar, não parece que surgirão novas pistas, por mais que eu procure.",
+      "id": 16417,
+      "epk_id": "15587",
+      "label": "$$$message_0120_0017_0003$$$"
+    },
+    {
+      "en": "\"...So it's your stupid face. Geez, what a waste of energy, Shirou Emiya.\"[r]X ¼",
+      "jp": "「……誰かと思えばその[r]マヌケ面か。[r]まったく、とんだ無駄骨[r]だな衛宮士郎」",
+      "Pt-br": "\"...Então é a sua cara idiota. Francamente, que desperdício de energia, Emiya Shirou.\"[r]",
+      "id": 16418,
+      "epk_id": "915548",
+      "label": "$$$message_9120_0006_0000$$$"
+    }
+  ]
+}

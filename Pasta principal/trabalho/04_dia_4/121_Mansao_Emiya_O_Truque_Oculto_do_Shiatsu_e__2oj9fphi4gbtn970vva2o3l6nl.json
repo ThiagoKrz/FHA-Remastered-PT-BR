@@ -1,0 +1,856 @@
+{
+  "cena": "2oj9fphi4gbtn970vva2o3l6nl",
+  "titulo": "Mansão Emiya: O Truque Oculto do Shiatsu é a Sinceridade.",
+  "rota": "Dia 4",
+  "arquivo": "2oj9fphi4gbtn970vva2o3l6nl.epk_dec",
+  "linhas": [
+    {
+      "en": "\"Uuugh... Aaah... Aoooahn.\"[lr]",
+      "jp": "「ううーー。ぁぁーー、あおおおーん」[lr]",
+      "Pt-br": "\"Uuugh... Aaah... Aoooahn.\"[lr]",
+      "id": 17985,
+      "epk_id": "5792",
+      "label": "$$$message_0040_0000_0000$$$"
+    },
+    {
+      "en": "I hear silly roaring.[lr]",
+      "jp": "　間の抜けた咆吼が聞こえる。[lr]",
+      "Pt-br": "Ouço um rugido bobo.[lr]",
+      "id": 17986,
+      "epk_id": "5793",
+      "label": "$$$message_0040_0000_0001$$$"
+    },
+    {
+      "en": "Is it coming from the living room?[lr]",
+      "jp": "　居間のあたりか？[lr]",
+      "Pt-br": "Isso está vindo da sala de estar?[lr]",
+      "id": 17987,
+      "epk_id": "5794",
+      "label": "$$$message_0040_0000_0002$$$"
+    },
+    {
+      "en": "\"This voice is Fuji-nee, right... What is she doing?\"[lr]",
+      "jp": "「この声は藤ねえだよな……何やってんだ？」[lr]",
+      "Pt-br": "\"Essa voz é da Fuji-nee, né... O que ela está fazendo?\"[lr]",
+      "id": 17988,
+      "epk_id": "5795",
+      "label": "$$$message_0040_0000_0003$$$"
+    },
+    {
+      "en": "Girls shouldn't make strange noises in broad daylight.[lr]",
+      "jp": "　女の子が日中から怪音を出してはいけません。[lr]",
+      "Pt-br": "As meninas não deveriam fazer barulhos estranhos em plena luz do dia.[lr]",
+      "id": 17989,
+      "epk_id": "5796",
+      "label": "$$$message_0040_0000_0004$$$"
+    },
+    {
+      "en": "...Fuji-nee isn't a girl anymore, though.",
+      "jp": "　……いやまあ、藤ねえはもう女の子って歳じゃないけど。",
+      "Pt-br": "...Embora a Fuji-nee não seja mais uma garota.",
+      "id": 17990,
+      "epk_id": "5797",
+      "label": "$$$message_0040_0000_0005$$$"
+    },
+    {
+      "en": "\"She's losing the delicacy of her youth...\"[lr]",
+      "jp": "「……こうして女の子は繊細さをなくしていく……」[lr]",
+      "Pt-br": "\"Ela está perdendo a delicadeza de sua juventude...\"[lr]",
+      "id": 17991,
+      "epk_id": "5798",
+      "label": "$$$message_0040_0001_0000$$$"
+    },
+    {
+      "en": "[movefg opacity=255 left=390 top=17 time=800 accel=0 storage=凛私服04a(近) textoff=0]The key to not mentally aging is to never gather in groups of three or more, according to Tohsaka.[wm canskip=0][lr]",
+      "jp": "　[movefg opacity=255 left=390 top=17 time=800 accel=0 storage=凛私服04a(近) textoff=0]精神的に年をとらないようにするのは三人以上群れないのがコツ、と遠坂は言っていた。[wm canskip=0][lr]",
+      "Pt-br": "[movefg opacity=255 left=390 top=17 time=800 accel=0 storage=凛私服04a(近) textoff=0]De acordo com a Tohsaka, a chave para não envelhecer mentalmente é nunca se reunir em grupos de três ou mais.[wm canskip=0][lr]",
+      "id": 17992,
+      "epk_id": "5799",
+      "label": "$$$message_0040_0001_0001$$$"
+    },
+    {
+      "en": "[movefg opacity=255 pos=c time=1200 accel=-2 storage=藤05a(中) textoff=0][movefg opacity=0 left=56 top=17 time=800 accel=0 storage=凛私服04a(近) textoff=0]But Fuji-nee's growing up well enough on her own, all right...[wm canskip=0][wm canskip=0][lr]",
+      "jp": "　[movefg opacity=255 pos=c time=1200 accel=-2 storage=藤05a(中) textoff=0][movefg opacity=0 left=56 top=17 time=800 accel=0 storage=凛私服04a(近) textoff=0]しかし藤ねえは一人で着実に年を食っていく……[wm canskip=0][wm canskip=0][lr]",
+      "Pt-br": "[movefg opacity=255 pos=c time=1200 accel=-2 storage=藤05a(中) textoff=0][movefg opacity=0 left=56 top=17 time=800 accel=0 storage=凛私服04a(近) textoff=0]Mas a Fuji-nee está crescendo muito bem sozinha...[wm canskip=0][wm canskip=0][lr]",
+      "id": 17993,
+      "epk_id": "5800",
+      "label": "$$$message_0040_0001_0002$$$"
+    },
+    {
+      "en": "And she just happens to be in the living room...with Sakura?",
+      "jp": "　で、居間には案の定藤ねえと[line len=3]桜？",
+      "Pt-br": "E por acaso ela está na sala de estar... Com a Sakura, Fuji-nee?",
+      "id": 17994,
+      "epk_id": "5801",
+      "label": "$$$message_0040_0001_0003$$$"
+    },
+    {
+      "en": "\"Ah, Senpai.\"[lr]",
+      "jp": "「あ、先輩」[lr]",
+      "Pt-br": "\"Ah, Senpai.\"[lr]",
+      "id": 17995,
+      "epk_id": "5802",
+      "label": "$$$message_0040_0002_0000$$$"
+    },
+    {
+      "en": "\"It's Shirou! That feels purrfect, rawr.\"[lr]",
+      "jp": "「士郎だー、きもちいいにゃー、がおー」[lr]",
+      "Pt-br": "\"É o Shirou! Isso é miau-ravilhoso, rawr.\"[lr]",
+      "id": 17996,
+      "epk_id": "5803",
+      "label": "$$$message_0040_0002_0001$$$"
+    },
+    {
+      "en": "\"Are you a cat or a tiger? Make up your mind.\"[lr]",
+      "jp": "「猫かトラかどっちかにしろ」[lr]",
+      "Pt-br": "\"Você é uma gata ou uma tigresa? Decida-se logo.\"[lr]",
+      "id": 17997,
+      "epk_id": "5804",
+      "label": "$$$message_0040_0002_0002$$$"
+    },
+    {
+      "en": "The beast purrs and stretches.[lr]",
+      "jp": "　響く怪音、うねる野獣。[lr]",
+      "Pt-br": "A fera ronrona e se espreguiça.[lr]",
+      "id": 17998,
+      "epk_id": "5805",
+      "label": "$$$message_0040_0002_0003$$$"
+    },
+    {
+      "en": "It looks like Sakura is...giving her a shoulder massage?",
+      "jp": "　一体桜が何をやってるのかと思ったら……肩もみ？",
+      "Pt-br": "Sakura está... massageando os ombros dela?",
+      "id": 17999,
+      "epk_id": "5806",
+      "label": "$$$message_0040_0002_0004$$$"
+    },
+    {
+      "en": "\"Um... Ms. Fujimura said she was tired, so I'm giving her a massage.\"[lr]",
+      "jp": "「えーっと……藤村先生がお疲れだったので、肩を揉んであげてます」[lr]",
+      "Pt-br": "\"Humm... A Fujimura-sensei disse que estava cansada, então eu lhe estou dando uma massagem.\"[lr]",
+      "id": 18000,
+      "epk_id": "5807",
+      "label": "$$$message_0040_0003_0000$$$"
+    },
+    {
+      "en": "\"You're such a nice girl, Sakura. So thoughtful. I wish I had a little sister like you!\"[lr]",
+      "jp": "「桜ちゃんは優しい子だよー、こんなに気が利いて。まったくこんな妹が欲しかったのよねー」[lr]",
+      "Pt-br": "\"Você é uma garota tão boazinha, Sakura-chan. E tão atenciosa. Quem me dera ter uma irmãzinha como você!\"[lr]",
+      "id": 18001,
+      "epk_id": "5808",
+      "label": "$$$message_0040_0003_0001$$$"
+    },
+    {
+      "en": "...It must feel really good, because she's let herself go.[lr]",
+      "jp": "　……気持ちいいのだろう、すっかりだらけている。[lr]",
+      "Pt-br": "...Deve ser muito bom mesmo, porque ela relaxou pra valer.[lr]",
+      "id": 18002,
+      "epk_id": "5809",
+      "label": "$$$message_0040_0003_0002$$$"
+    },
+    {
+      "en": "I hope she melts down along with her stripes and turns into a puddle of butter.",
+      "jp": "　服の縞が緩んできて、そのままバターになってしまえ。",
+      "Pt-br": "Espero que ela derreta junto das listras dela e se transforme numa poça de manteiga.",
+      "id": 18003,
+      "epk_id": "5810",
+      "label": "$$$message_0040_0003_0003$$$"
+    },
+    {
+      "en": "\"Really? But I'm so clumsy...\"[lr]",
+      "jp": "「そうですか？　わたしみたいなドジな妹はいても……」[lr]",
+      "Pt-br": "\"Sério? Mas eu sou tão desastrada...\"[lr]",
+      "id": 18004,
+      "epk_id": "5811",
+      "label": "$$$message_0040_0004_0000$$$"
+    },
+    {
+      "en": "\"Because a little brother Shirou would be too selfish to rub my shoulders.\"[lr]",
+      "jp": "「だって、士郎みたいな弟を持ったら我が[ruby text=まま]儘で、肩揉んでくれないんだもん」[lr]",
+      "Pt-br": "\"Porque um irmãozinho Shirou seria muito egoísta para massagear os meus ombros.\"[lr]",
+      "id": 18005,
+      "epk_id": "5812",
+      "label": "$$$message_0040_0004_0001$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=桜私服07d(中) textoff=0]That is a misrepresentation of the facts, Fuji-nee.[lr]",
+      "jp": "　[chgfg time=300 storage=桜私服07d(中) textoff=0]それは事実誤認だ、藤ねえ。[lr]",
+      "Pt-br": "[chgfg time=300 storage=桜私服07d(中) textoff=0]Isso é uma deturpação dos fatos, Fuji-nee.[lr]",
+      "id": 18006,
+      "epk_id": "5813",
+      "label": "$$$message_0040_0004_0002$$$"
+    },
+    {
+      "en": "She's forgotten all the things she's made me do.[lr]",
+      "jp": "　自分がこれまでに俺に何をしたのか忘れてる。[lr]",
+      "Pt-br": "Ela se esqueceu de todas as coisas que ela já me fez fazer.[lr]",
+      "id": 18007,
+      "epk_id": "5814",
+      "label": "$$$message_0040_0004_0003$$$"
+    },
+    {
+      "en": "\"You used to make me give you massages all the time.\"",
+      "jp": "「昔、さんざん俺に揉ませたじゃないか？」",
+      "Pt-br": "\"Você me obrigava a lhe fazer massagens o tempo todo.\"",
+      "id": 18008,
+      "epk_id": "5815",
+      "label": "$$$message_0040_0004_0004$$$"
+    },
+    {
+      "en": "\"...Did I?\"[lr]",
+      "jp": "「……そんなコトもあったっけ？」[lr]",
+      "Pt-br": "\"...Fazia?\"[lr]",
+      "id": 18009,
+      "epk_id": "5816",
+      "label": "$$$message_0040_0005_0000$$$"
+    },
+    {
+      "en": "\"Yeah. I practiced all my shoulder massage skills on you.\"[lr]",
+      "jp": "「あった。俺の肩もみテクは、藤ねえの肩で鍛えられた」[lr]",
+      "Pt-br": "\"Sim. Eu pratiquei as minhas habilidades de massagem nos ombros com você, Fuji-nee.\"[lr]",
+      "id": 18010,
+      "epk_id": "5817",
+      "label": "$$$message_0040_0005_0001$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=桜私服07b(中) textoff=0]She was always reluctant to let Kiritsugu do it. She might have naturally stiff joints.[lr]",
+      "jp": "　[chgfg time=300 storage=桜私服07b(中) textoff=0]切嗣は肩揉もうとすると妙に嫌がったからな。凝らない体質なのかも。[lr]",
+      "Pt-br": "[chgfg time=300 storage=桜私服07b(中) textoff=0]Ela sempre relutava em deixar o Kiritsugu fazer isso. Ela devia ter as juntas naturalmente rígidas.[lr]",
+      "id": 18011,
+      "epk_id": "5818",
+      "label": "$$$message_0040_0005_0002$$$"
+    },
+    {
+      "en": "So, Fuji-nee would complain about her sore shoulders, and a struggle for life and death broke out, ending with me giving her massages.",
+      "jp": "　で、だるい肩こったーと絡んでくるのが藤ねえで、死闘の結果揉まされたのだ。",
+      "Pt-br": "Então, a Fuji-nee reclamava de dores nos ombros e aí começava uma luta de vida ou morte que terminava comigo lhe dando massagens.",
+      "id": 18012,
+      "epk_id": "5819",
+      "label": "$$$message_0040_0005_0003$$$"
+    },
+    {
+      "en": "\"You gave Ms. Fujimura massages too, Senpai?\"[lr]",
+      "jp": "「先輩も、藤村先生の肩を揉んでたんですか」[lr]",
+      "Pt-br": "\"Você também fazia massagens na Fujimura-sensei, Senpai?\"[lr]",
+      "id": 18013,
+      "epk_id": "5820",
+      "label": "$$$message_0040_0006_0000$$$"
+    },
+    {
+      "en": "\"Just when he was finally getting strong enough to really work the kinks out of my lower shoulders...[cacheimage storage=藤10b(中)][wvl][chgfg storage=藤10b(中) time=300 textoff=0] I'm so sad!\"[lr]",
+      "jp": "「せっかく士郎も力が付いてきて、いい感じに肩の下の凝りをこりこりーって出来るようになったのに……[cacheimage storage=藤10b(中)][wvl][chgfg storage=藤10b(中) time=300 textoff=0]あたしゃ悲しいよ」[lr]",
+      "Pt-br": "\"Logo agora que ele finalmente estava forte o bastante para desfazer os nós na base dos meus ombros...[cacheimage storage=藤10b(中)][wvl][chgfg storage=藤10b(中) time=300 textoff=0] Estou tão triste!\"[lr]",
+      "id": 18014,
+      "epk_id": "5821",
+      "label": "$$$message_0040_0006_0001$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=桜私服10b(中)]Sakura nods along to the story.[lr]",
+      "jp": "　[chgfg time=300 storage=桜私服10b(中)]そうなんですか、と桜が頷く。[lr]",
+      "Pt-br": "[chgfg time=300 storage=桜私服10b(中)]A Sakura concorda com a história.[lr]",
+      "id": 18015,
+      "epk_id": "5822",
+      "label": "$$$message_0040_0006_0002$$$"
+    },
+    {
+      "en": "...I didn't grow up so I could be her masseuse, you know.",
+      "jp": "　……俺は藤ねえの肩を揉むために大きくなったんじゃないぞ。まったく。",
+      "Pt-br": "...Sabe, eu não cresci para ser o massagista dela, Fuji-nee.",
+      "id": 18016,
+      "epk_id": "5823",
+      "label": "$$$message_0040_0006_0003$$$"
+    },
+    {
+      "en": "\"I see... You were a good brother.\"[lr]",
+      "jp": "「そうだったんですか……えらいですね」[lr]",
+      "Pt-br": "\"Entendo... Você foi um bom irmão.\"[lr]",
+      "id": 18017,
+      "epk_id": "5824",
+      "label": "$$$message_0040_0007_0000$$$"
+    },
+    {
+      "en": "\"Yeah. I hated it at the time, but I got serious about it once I started.\"[lr]",
+      "jp": "「うん、あの頃は嫌がってたけど、やり始めると真剣だったなぁ」[lr]",
+      "Pt-br": "\"É. Eu odiava isso na época, mas eu acabava levando a sério depois que eu começava.\"[lr]",
+      "id": 18018,
+      "epk_id": "5825",
+      "label": "$$$message_0040_0007_0001$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=桜私服07c(中) textoff=0]Once I started the task, I'd go all the way until Fuji-nee said it was enough.[lr]",
+      "jp": "　[chgfg time=300 storage=桜私服07c(中) textoff=0]一旦請け負った以上は、藤ねえがいいと言うまできっちりしていた。[lr]",
+      "Pt-br": "[chgfg time=300 storage=桜私服07c(中) textoff=0]Depois que eu começava, eu ia até o fim, até que a Fuji-nee dissesse que já estava bom.[lr]",
+      "id": 18019,
+      "epk_id": "5826",
+      "label": "$$$message_0040_0007_0002$$$"
+    },
+    {
+      "en": "I won't mention the times I embarrassed myself by getting exhausted halfway.",
+      "jp": "　途中で疲れたなんて、だらしないことは言えない。",
+      "Pt-br": "Não vou mencionar as vezes em que passei vergonha por ficar exausto na metade do caminho.",
+      "id": 18020,
+      "epk_id": "5827",
+      "label": "$$$message_0040_0007_0003$$$"
+    },
+    {
+      "en": "\"Yeah, Shirou, how long has it been since you gave me a massage like this?\"[lr]",
+      "jp": "「ほら、士郎ってこんな風だからねー。いつ頃かなぁ、肩揉みしてくれなくなったのは」[lr]",
+      "Pt-br": "\"Sim, Shirou, há quanto tempo você não me faz uma massagem dessas?\"[lr]",
+      "id": 18021,
+      "epk_id": "5828",
+      "label": "$$$message_0040_0008_0000$$$"
+    },
+    {
+      "en": "\"...I don't remember.\"[lr]",
+      "jp": "「……覚えてない」[lr]",
+      "Pt-br": "\"...Não me lembro.\"[lr]",
+      "id": 18022,
+      "epk_id": "5829",
+      "label": "$$$message_0040_0008_0001$$$"
+    },
+    {
+      "en": "\"I can't ask my brother or any of the others for massages. I'm so stiff recently.\"[lr]",
+      "jp": "「流石に[ruby text=に]兄ぃさんたちに肩揉んでとも言えないからねー、最近コリコリで」[lr]",
+      "Pt-br": "\"Eu não posso pedir ao meu irmão ou a qualquer um dos outros que me façam massagens. E eu estou tão travada ultimamente.\"[lr]",
+      "id": 18023,
+      "epk_id": "5830",
+      "label": "$$$message_0040_0008_0002$$$"
+    },
+    {
+      "en": "\"Really... [cacheimage storage=桜私服04a(中)][wvl][chgfg storage=桜私服04a(中) time=300 textoff=0]Oh, you have a knot here.",
+      "jp": "「そうなんですかー。[cacheimage storage=桜私服04a(中)][wvl][chgfg storage=桜私服04a(中) time=300 textoff=0]あ、ここ、凝ってますね」",
+      "Pt-br": "\"Sério... [cacheimage storage=桜私服04a(中)][wvl][chgfg storage=桜私服04a(中) time=300 textoff=0]Ah, você tem um nó aqui.",
+      "id": 18024,
+      "epk_id": "5831",
+      "label": "$$$message_0040_0008_0003$$$"
+    },
+    {
+      "en": "\"Aaah, there, [cacheimage storage=藤06b頬(中)][wvl][chgfg time=200 storage=藤06b頬(中) textoff=0]fnyaaah, aaaah...[cacheimage storage=藤06a(中)][wvl][chgfg time=200 storage=藤06a(中) textoff=0] Aaahhh!\"[lr]",
+      "jp": "「ああっ、そこそこ、[cacheimage storage=藤06b頬(中)][wvl][chgfg time=200 storage=藤06b頬(中) textoff=0]ふにゃー、ぁぁぁー、[cacheimage storage=藤06a(中)][wvl][chgfg time=200 storage=藤06a(中) textoff=0]あああー」[lr]",
+      "Pt-br": "\"Aaah, aí, [cacheimage storage=藤06b頬(中)][wvl][chgfg time=200 storage=藤06b頬(中) textoff=0]fnyaaah, aaaah...[cacheimage storage=藤06a(中)][wvl][chgfg time=200 storage=藤06a(中) textoff=0] Aaahhh!\"[lr]",
+      "id": 18025,
+      "epk_id": "5832",
+      "label": "$$$message_0040_0009_0000$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=桜私服06c(中) textoff=0]Fuji-nee gradually goes more and more slack.[lr]",
+      "jp": "　[chgfg time=300 storage=桜私服06c(中) textoff=0]段々だらしなくなってくる藤ねえ。[lr]",
+      "Pt-br": "[chgfg time=300 storage=桜私服06c(中) textoff=0]A Fuji-nee vai ficando cada vez mais relaxada.[lr]",
+      "id": 18026,
+      "epk_id": "5833",
+      "label": "$$$message_0040_0009_0001$$$"
+    },
+    {
+      "en": "...There's absolutely nothing lewd about this, but somehow, just watching it makes me feel dirty.",
+      "jp": "　……そんなケはこれっぽっちもないのだが。なんとなく、映像だけ見るとえっちだ。",
+      "Pt-br": "...Não tem absolutamente nada de indecente nisso, mas só de assistir já me sinto sujo.",
+      "id": 18027,
+      "epk_id": "5834",
+      "label": "$$$message_0040_0009_0002$$$"
+    },
+    {
+      "en": "\"You really worked hard today, Ms. Fujimura.\"[lr]",
+      "jp": "「藤村先生もお疲れですね、本当に」[lr]",
+      "Pt-br": "\"Você se esforçou muito hoje, Fujimura-sensei.\"[lr]",
+      "id": 18028,
+      "epk_id": "5835",
+      "label": "$$$message_0040_0010_0000$$$"
+    },
+    {
+      "en": "\"Well, sacred professions are tiring, after all. [cacheimage storage=藤09a腕b(中)][wvl][chgfg time=300 storage=藤09a腕b(中) textoff=0]Despite appearances, I'm a proper teacher!\"[lr]",
+      "jp": "「聖職はいろいろ疲れるものなのー、[cacheimage storage=藤09a腕b(中)][wvl][chgfg time=300 storage=藤09a腕b(中) textoff=0]こう見えてもちゃんと先生してるからねー」[lr]",
+      "Pt-br": "\"Bem, profissões sagradas são cansativas, afinal. [cacheimage storage=藤09a腕b(中)][wvl][chgfg time=300 storage=藤09a腕b(中) textoff=0]Apesar das aparências, eu sou uma Sensei legítima!\"[lr]",
+      "id": 18029,
+      "epk_id": "5836",
+      "label": "$$$message_0040_0010_0001$$$"
+    },
+    {
+      "en": "\"You're always a proper teacher, Ms. Fujimura.[lr]",
+      "jp": "「藤村先生はいつだってちゃんとした先生です。[lr]",
+      "Pt-br": "\"Você é sempre uma ótima professora, Fujimura-sensei.[lr]",
+      "id": 18030,
+      "epk_id": "5837",
+      "label": "$$$message_0040_0010_0002$$$"
+    },
+    {
+      "en": "And I'm happy I could help you.\"[lr]",
+      "jp": "　わたしも、そんな先生のお役に立ててうれしいですよ」[lr]",
+      "Pt-br": "E eu fico feliz por poder ajudá-la, Sensei.\"[lr]",
+      "id": 18031,
+      "epk_id": "5838",
+      "label": "$$$message_0040_0010_0003$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=藤01c(中),桜私服01c(中) textoff=0]Sakura happily rubs her shoulders.",
+      "jp": "　[chgfg time=300 storage=藤01c(中),桜私服01c(中) textoff=0]喜々として肩を揉む桜。",
+      "Pt-br": "[chgfg time=300 storage=藤01c(中),桜私服01c(中) textoff=0]A Sakura esfrega os ombros dela alegremente.",
+      "id": 18032,
+      "epk_id": "5839",
+      "label": "$$$message_0040_0010_0004$$$"
+    },
+    {
+      "en": "\"Mm, you have good technique, Sakura.\"[lr]",
+      "jp": "「ん、それにしてもいいテクしてるねぇ、桜ちゃん」[lr]",
+      "Pt-br": "\"Humm, você tem uma boa técnica, Sakura-chan.\"[lr]",
+      "id": 18033,
+      "epk_id": "5840",
+      "label": "$$$message_0040_0011_0000$$$"
+    },
+    {
+      "en": "\"Not really.\"[lr]",
+      "jp": "「そんなことないですよー？」[lr]",
+      "Pt-br": "\"Que nada.\"[lr]",
+      "id": 18034,
+      "epk_id": "5841",
+      "label": "$$$message_0040_0011_0001$$$"
+    },
+    {
+      "en": "\"No, I can tell. No shoulder massage virgin could make it feel this good!\"[lr]",
+      "jp": "「んにゃ、このわたしが断言する、この気持ちよぉさぁは肩もみ[ruby text=オトメ char=2]処女のものじゃないわー」[lr]",
+      "Pt-br": "\"Não, eu posso dizer com certeza. Nenhum virgem de massagem nos ombros faria tão gostoso assim!\"[lr]",
+      "id": 18035,
+      "epk_id": "5842",
+      "label": "$$$message_0040_0011_0002$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=桜私服01a頬(中) textoff=0]What kind of cringe-worthy new vocabulary is that?",
+      "jp": "　[chgfg time=300 storage=桜私服01a頬(中) textoff=0]なんだ、その恥ずかしい造語は？",
+      "Pt-br": "[chgfg time=300 storage=桜私服01a頬(中) textoff=0]Que tipo de vocabulário constrangedor e novo é esse?",
+      "id": 18036,
+      "epk_id": "5843",
+      "label": "$$$message_0040_0011_0003$$$"
+    },
+    {
+      "en": "\"Mm, hm hm hm.\"[lr]",
+      "jp": "「んっふっふっふ」[lr]",
+      "Pt-br": "\"Humm, hum, hum, hum.\"[lr]",
+      "id": 18037,
+      "epk_id": "5844",
+      "label": "$$$message_0040_0012_0000$$$"
+    },
+    {
+      "en": "\"...Ms. Fujimura?\"[lr]",
+      "jp": "「……ふ、藤村先生？」[lr]",
+      "Pt-br": "\"...Fujimura-sensei?\"[lr]",
+      "id": 18038,
+      "epk_id": "5845",
+      "label": "$$$message_0040_0012_0001$$$"
+    },
+    {
+      "en": "\"I know, you always give Shirou massages, right?\"",
+      "jp": "「わかった、いつも士郎にマッサージしてるのねー？」",
+      "Pt-br": "\"Eu sei, você sempre faz massagens no Shirou, né?\"",
+      "id": 18039,
+      "epk_id": "5846",
+      "label": "$$$message_0040_0012_0002$$$"
+    },
+    {
+      "en": "W-what is this stupid tiger making up now!?[lr]",
+      "jp": "　[line len=3]こ、この馬鹿トラ、何を根拠にそんな暴言を！[lr]",
+      "Pt-br": "O-o que essa tigresa estúpida está inventando agora!?[lr]",
+      "id": 18040,
+      "epk_id": "5847",
+      "label": "$$$message_0040_0013_0000$$$"
+    },
+    {
+      "en": "Sakura wouldn't...for me...",
+      "jp": "　桜が俺にそんなことを[line len=3]",
+      "Pt-br": "A Sakura não... faria para mim...",
+      "id": 18041,
+      "epk_id": "5848",
+      "label": "$$$message_0040_0013_0001$$$"
+    },
+    {
+      "en": "\"Uh, n-no, I don't!\"[lr]",
+      "jp": "「あ、い、いやそんな！」[lr]",
+      "Pt-br": "\"Hã, n-não, eu não faço!\"[lr]",
+      "id": 18042,
+      "epk_id": "5849",
+      "label": "$$$message_0040_0014_0000$$$"
+    },
+    {
+      "en": "\"I can definitely see it. Sakura being nice and giving you massages every night. [cacheimage storage=藤06a(中)][wvl][chgfg time=300 storage=藤06a(中) textoff=0]That must be why you're so good at this!\"[lr]",
+      "jp": "「ありえるわねー、士郎ったら桜ちゃんが優しいのを良いことに毎晩毎晩マッサージさせてるのねー、[cacheimage storage=藤06a(中)][wvl][chgfg time=300 storage=藤06a(中) textoff=0]だからこんなに上手くなってるんだー」[lr]",
+      "Pt-br": "\"Dá pra notar claramente. A Sakura-chan sendo boazinha e lhe fazendo massagens todas as noites. [cacheimage storage=藤06a(中)][wvl][chgfg time=300 storage=藤06a(中) textoff=0]Esse deve ser o motivo pelo qual você é tão boa nisso!\"[lr]",
+      "id": 18043,
+      "epk_id": "5850",
+      "label": "$$$message_0040_0014_0001$$$"
+    },
+    {
+      "en": "\"F-[wvl][shock vmax=30 time=300 count=-4]Fuji-nee!\"",
+      "jp": "「……ふ、[wvl][shock vmax=30 time=300 count=-4]藤ねえ！」",
+      "Pt-br": "\"F-[wvl][shock vmax=30 time=300 count=-4]Fuji-nee!\"",
+      "id": 18044,
+      "epk_id": "5851",
+      "label": "$$$message_0040_0014_0002$$$"
+    },
+    {
+      "en": "\"Why are you blushing so much? Do you want Sakura to give you a full-body massage, too?\"[lr]",
+      "jp": "「そんなに赤くなっちゃって、士郎も桜ちゃんに全身隅々マッサージされたいのー？」[lr]",
+      "Pt-br": "\"Por que você está corando tanto? Você quer que a Sakura-chan lhe faça uma massagem de corpo inteiro também?\"[lr]",
+      "id": 18045,
+      "epk_id": "5852",
+      "label": "$$$message_0040_0015_0000$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=桜私服10e頬(中) textoff=0]She chuckles in a catlike manner.[lr]",
+      "jp": "　[chgfg time=300 storage=桜私服10e頬(中) textoff=0]むふふふん、なんて笑ってる。[lr]",
+      "Pt-br": "[chgfg time=300 storage=桜私服10e頬(中) textoff=0]Ela dá uma risadinha felina.[lr]",
+      "id": 18046,
+      "epk_id": "5853",
+      "label": "$$$message_0040_0015_0001$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=桜私服12a頬(中) textoff=0]If Sakura gives me a massage...I'd get so nervous that it'd make my muscles even more tense![lr]",
+      "jp": "　[chgfg time=300 storage=桜私服12a頬(中) textoff=0]桜に肩揉まれたり、マッサージなんてされたら……ぎゃ、逆に緊張してコリコリになってしまう……！[lr]",
+      "Pt-br": "[chgfg time=300 storage=桜私服12a頬(中) textoff=0]Se a Sakura me fizesse uma massagem... Eu ficaria tão nervoso que deixaria os meus músculos ainda mais tensos![lr]",
+      "id": 18047,
+      "epk_id": "5854",
+      "label": "$$$message_0040_0015_0002$$$"
+    },
+    {
+      "en": "\"R-right, Sakura?\"",
+      "jp": "「桜、な、なぁ？」",
+      "Pt-br": "\"N-não é, Sakura?\"",
+      "id": 18048,
+      "epk_id": "5855",
+      "label": "$$$message_0040_0015_0003$$$"
+    },
+    {
+      "en": "\"There's no hiding it from your big sister... [cacheimage storage=桜私服16a頬(近),藤03a(近)b,i衛宮邸居間(fd)][wvl][play storage=bgm143.ogg][se storage=se151.wav][rep fliplr=0 storages=桜私服16a頬(近),藤03a(近)b time=200 flipudr=0 poss=r,c bg=i衛宮邸居間(fd) indexes=1000,2000 textoff=0][quake vmax=30 hmax=10 time=800]Hurgh!\"[lr]",
+      "jp": "「隠さなくてもお姉さんには分かるわー……[cacheimage storage=桜私服16a頬(近),藤03a(近)b,i衛宮邸居間(fd)][wvl][play storage=bgm143.ogg][se storage=se151.wav][rep fliplr=0 storages=桜私服16a頬(近),藤03a(近)b time=200 flipudr=0 poss=r,c bg=i衛宮邸居間(fd) indexes=1000,2000 textoff=0][quake vmax=30 hmax=10 time=800]へぐっ！」[lr]",
+      "Pt-br": "\"Não dá para esconder nada da sua irmãzona... [cacheimage storage=桜私服16a頬(近),藤03a(近)b,i衛宮邸居間(fd)][wvl][play storage=bgm143.ogg][se storage=se151.wav][rep fliplr=0 storages=桜私服16a頬(近),藤03a(近)b time=200 flipudr=0 poss=r,c bg=i衛宮邸居間(fd) indexes=1000,2000 textoff=0][quake vmax=30 hmax=10 time=800]Hurgh, Onee-san!\"[lr]",
+      "id": 18049,
+      "epk_id": "5856",
+      "label": "$$$message_0040_0016_0000$$$"
+    },
+    {
+      "en": "What just happened? Sakura got all red?[lr]",
+      "jp": "　桜が真っ赤になって、一体なにを？[lr]",
+      "Pt-br": "O que acabou de acontecer? A Sakura ficou toda vermelha?[lr]",
+      "id": 18050,
+      "epk_id": "5857",
+      "label": "$$$message_0040_0016_0001$$$"
+    },
+    {
+      "en": "\"[chgfg time=200 storage=藤02d腕c(近) textoff=0][move time=50 path=(123,5,255)(128,6,255)(142,1,255)(133,2,255)(133,12,255)(129,1,255)(126,7,255)(140,10,255)(133,10,255)(133,3,255)(128,10,255)(129,4,255)(132,4,255)(132,11,255)(126,2,255)(126,4,255)(126,9,255)(139,4,255)(137,9,255)(131,1,255)(131,5,255)(138,3,255)(135,7,255)(130,4,255)(130,9,255)(127,1,255) storage=藤02d腕c(近) accel=0 textoff=0]Ow ow ow, not there, Sakura!\"[wm canskip=0][lr]",
+      "jp": "「[chgfg time=200 storage=藤02d腕c(近) textoff=0][move time=50 path=(123,5,255)(128,6,255)(142,1,255)(133,2,255)(133,12,255)(129,1,255)(126,7,255)(140,10,255)(133,10,255)(133,3,255)(128,10,255)(129,4,255)(132,4,255)(132,11,255)(126,2,255)(126,4,255)(126,9,255)(139,4,255)(137,9,255)(131,1,255)(131,5,255)(138,3,255)(135,7,255)(130,4,255)(130,9,255)(127,1,255) storage=藤02d腕c(近) accel=0 textoff=0]いたたた、桜ちゃんそこ違う！」[wm canskip=0][lr]",
+      "Pt-br": "\"[chgfg time=200 storage=藤02d腕c(近) textoff=0][move time=50 path=(123,5,255)(128,6,255)(142,1,255)(133,2,255)(133,12,255)(129,1,255)(126,7,255)(140,10,255)(133,10,255)(133,3,255)(128,10,255)(129,4,255)(132,4,255)(132,11,255)(126,2,255)(126,4,255)(126,9,255)(139,4,255)(137,9,255)(131,1,255)(131,5,255)(138,3,255)(135,7,255)(130,4,255)(130,9,255)(127,1,255) storage=藤02d腕c(近) accel=0 textoff=0]Ai ai ai, aí não, Sakura-chan!\"[wm canskip=0][lr]",
+      "id": 18051,
+      "epk_id": "5858",
+      "label": "$$$message_0040_0016_0002$$$"
+    },
+    {
+      "en": "\"S-senpai and I wouldn't do anything that dirty!\"[lr]",
+      "jp": "「わ、わたしと先輩はそんなえっちなコトしてません！」[lr]",
+      "Pt-br": "\"O S-Senpai e eu nunca faríamos nada tão pervertido assim!\"[lr]",
+      "id": 18052,
+      "epk_id": "5859",
+      "label": "$$$message_0040_0016_0003$$$"
+    },
+    {
+      "en": "\"[chgfg time=200 storage=藤03a頬(近)b textoff=0]Ah, [cacheimage storage=藤08d頬(近)][wvl canskip=false time=300][chgfg time=200 storage=藤08d頬(近) textoff=0]S-[cacheimage storage=藤02d頬腕b(近)][wvl canskip=false time=300][chgfg time=200 storage=藤02d頬腕b(近) textoff=0]Sakura, not there. [cacheimage storage=藤03a頬(近)b][wvl canskip=false time=200][chgfg time=200 storage=藤03a頬(近)b textoff=0]You're pressing my acupressure points really hard!\"[lr]",
+      "jp": "「[chgfg time=200 storage=藤03a頬(近)b textoff=0]あっ、[cacheimage storage=藤08d頬(近)][wvl canskip=false time=300][chgfg time=200 storage=藤08d頬(近) textoff=0]さ、[cacheimage storage=藤02d頬腕b(近)][wvl canskip=false time=300][chgfg time=200 storage=藤02d頬腕b(近) textoff=0]桜ちゃんそこ駄目、[cacheimage storage=藤03a頬(近)b][wvl canskip=false time=200][chgfg time=200 storage=藤03a頬(近)b textoff=0]わたしの経絡秘孔をものすごい勢いで！」[lr]",
+      "Pt-br": "\"[chgfg time=200 storage=藤03a頬(近)b textoff=0]Ah, [cacheimage storage=藤08d頬(近)][wvl canskip=false time=300][chgfg time=200 storage=藤08d頬(近) textoff=0]S-[cacheimage storage=藤02d頬腕b(近)][wvl canskip=false time=300][chgfg time=200 storage=藤02d頬腕b(近) textoff=0]Sakura-chan, não aí. [cacheimage storage=藤03a頬(近)b][wvl canskip=false time=200][chgfg time=200 storage=藤03a頬(近)b textoff=0]Você está apertando os meus pontos de acupressão com muita força!\"[lr]",
+      "id": 18053,
+      "epk_id": "5860",
+      "label": "$$$message_0040_0016_0004$$$"
+    },
+    {
+      "en": "\"I said it's not like that, [cacheimage storage=桜私服13h(近)][wvl][se storage=se290.wav][se storage=se284.wav][quake vmax=40 hmax=10 time=400][chgfg time=200 storage=桜私服13h(近) textoff=0]I would never massage every inch of Senpai's body!\"",
+      "jp": "「だから違うんです、[cacheimage storage=桜私服13h(近)][wvl][se storage=se290.wav][se storage=se284.wav][quake vmax=40 hmax=10 time=400][chgfg time=200 storage=桜私服13h(近) textoff=0]先輩の身体を隅々まで揉んだりなんかしてません！」",
+      "Pt-br": "\"Eu disse que não é nada disso, [cacheimage storage=桜私服13h(近)][wvl][se storage=se290.wav][se storage=se284.wav][quake vmax=40 hmax=10 time=400][chgfg time=200 storage=桜私服13h(近) textoff=0]eu nunca massagearia cada centímetro do corpo do Senpai!\"",
+      "id": 18054,
+      "epk_id": "5861",
+      "label": "$$$message_0040_0016_0005$$$"
+    },
+    {
+      "en": "\"OW, ow ow ow ow ow ow, that hurt!\"[lr]",
+      "jp": "「あたたたたたたたた、ほあたっ！？」[lr]",
+      "Pt-br": "\"Ai, ai, ai, ai, ai, ai, ai, ai, ai, doeu!\"[lr]",
+      "id": 18055,
+      "epk_id": "5862",
+      "label": "$$$message_0040_0017_0000$$$"
+    },
+    {
+      "en": "Fuji-nee lets out an uncharacteristic shriek.[wm canskip=0][lr]",
+      "jp": "　藤ねえが尋常じゃない悲鳴を上げている。[wm canskip=0][lr]",
+      "Pt-br": "A Fuji-nee solta um grito incomum.[wm canskip=0][lr]",
+      "id": 18056,
+      "epk_id": "5863",
+      "label": "$$$message_0040_0017_0001$$$"
+    },
+    {
+      "en": "[move time=80 path=(-171,0,255)(-160,33,255)(-128,0,255)(-159,0,255) storage=藤03a頬(近)b accel=0 spline=1 textoff=0]Did Sakura panic and poke her too hard somewhere?[wm canskip=0]",
+      "jp": "　[move time=80 path=(-171,0,255)(-160,33,255)(-128,0,255)(-159,0,255) storage=藤03a頬(近)b accel=0 spline=1 textoff=0][line len=3]桜、慌ててどこを突いているんだろう？[wm canskip=0]",
+      "Pt-br": "[move time=80 path=(-171,0,255)(-160,33,255)(-128,0,255)(-159,0,255) storage=藤03a頬(近)b accel=0 spline=1 textoff=0]Será que a Sakura entrou em pânico e a apertou com força demais em algum lugar?[wm canskip=0]",
+      "id": 18057,
+      "epk_id": "5864",
+      "label": "$$$message_0040_0017_0002$$$"
+    },
+    {
+      "en": "\"Hrrrrgh, are you trying to kill me, Sakura!?\"[lr]",
+      "jp": "「ぐぐぐぐ、桜ちゃんもしやわたしを亡き者にっ！」[lr]",
+      "Pt-br": "\"Hrrrrgh, você está tentando me matar, Sakura-chan!?\"[lr]",
+      "id": 18058,
+      "epk_id": "5865",
+      "label": "$$$message_0040_0018_0000$$$"
+    },
+    {
+      "en": "\"S-say something, Senpai!\"[lr]",
+      "jp": "「せ、先輩も何か言ってください！」[lr]",
+      "Pt-br": "\"D-diga alguma coisa, Senpai!\"[lr]",
+      "id": 18059,
+      "epk_id": "5866",
+      "label": "$$$message_0040_0018_0001$$$"
+    },
+    {
+      "en": "\"Me!?\"[lr]",
+      "jp": "「俺！？」[lr]",
+      "Pt-br": "\"Eu!?\"[lr]",
+      "id": 18060,
+      "epk_id": "5867",
+      "label": "$$$message_0040_0018_0002$$$"
+    },
+    {
+      "en": "...This is no time to be spacing out and admiring her massage skills.",
+      "jp": "　……たいしたもんだなー、などとぼんやり眺めている場合じゃない。",
+      "Pt-br": "...Esta não é a hora de ficar viajando na maionese e admirando as habilidades de massagem dela.",
+      "id": 18061,
+      "epk_id": "5868",
+      "label": "$$$message_0040_0018_0003$$$"
+    },
+    {
+      "en": "\"I think a massage from you would feel good.\"[lr]",
+      "jp": "「桜に揉まれたら気持ちいいと思うけど」[lr]",
+      "Pt-br": "\"Acho que uma massagem sua cairia bem.\"[lr]",
+      "id": 18062,
+      "epk_id": "5869",
+      "label": "$$$message_0040_0019_0000$$$"
+    },
+    {
+      "en": "\"Huh? Ah...\"[lr]",
+      "jp": "「え……あ……」[lr]",
+      "Pt-br": "\"Hã? Ah...\"[lr]",
+      "id": 18063,
+      "epk_id": "5870",
+      "label": "$$$message_0040_0019_0001$$$"
+    },
+    {
+      "en": "\"See, he even wants one! [cacheimage storage=藤03a頬(近)b,桜私服03c(近)][wvl canskip=false time=600][se storage=se152.wav][se storage=se138.wav][shock vmax=33 time=400 count=-3][chgfg time=200 storage=藤03a頬(近)b,桜私服03c(近) pos=c,r textoff=0][se storage=se151.wav]Blargh!\"[se storage=se050.wav][lr]",
+      "jp": "「ほーら、士郎だってされたがってるー[line len=3][cacheimage storage=藤03a頬(近)b,桜私服03c(近)][wvl canskip=false time=600][se storage=se152.wav][se storage=se138.wav][shock vmax=33 time=400 count=-3][chgfg time=200 storage=藤03a頬(近)b,桜私服03c(近) pos=c,r textoff=0][se storage=se151.wav]タワば！」[se storage=se050.wav][lr]",
+      "Pt-br": "\"Viu, até ele quer uma! [cacheimage storage=藤03a頬(近)b,桜私服03c(近)][wvl canskip=false time=600][se storage=se152.wav][se storage=se138.wav][shock vmax=33 time=400 count=-3][chgfg time=200 storage=藤03a頬(近)b,桜私服03c(近) pos=c,r textoff=0][se storage=se151.wav]Blargh!\"[se storage=se050.wav][lr]",
+      "id": 18064,
+      "epk_id": "5871",
+      "label": "$$$message_0040_0019_0002$$$"
+    },
+    {
+      "en": "[clfg time=600 pos=all textoff=0]Fuji-nee earns herself another powerful squeeze.[lr]",
+      "jp": "　[clfg time=600 pos=all textoff=0]調子に乗った藤ねえが、また締められている。[lr]",
+      "Pt-br": "[clfg time=600 pos=all textoff=0]A Fuji-nee acaba ganhando mais um aperto forte.[lr]",
+      "id": 18065,
+      "epk_id": "5872",
+      "label": "$$$message_0040_0019_0003$$$"
+    },
+    {
+      "en": "...This is terrifying. I wonder if Sakura's mastered some weird kung fu like Tohsaka did.",
+      "jp": "　……恐ろしい。遠坂同様、桜も怪しげな中国拳法をマスターしているのだろーか。",
+      "Pt-br": "...Isso é assustador. Me pergunto se a Sakura dominou algum kung fu estranho, assim como a Tohsaka fez.",
+      "id": 18066,
+      "epk_id": "5873",
+      "label": "$$$message_0040_0019_0004$$$"
+    },
+    {
+      "en": "\"Ow, [cacheimage storage=藤07a頬腕a(中)][wvl][chgfg time=200 storage=藤07a頬腕a(中) textoff=0]ow ow ow, [wvl][se storage=se151.wav][shock vmax=30 time=300 count=-3]argh!\"[cacheimage storage=藤07a腕b(中)][wvl][chgfg time=300 storage=藤07a腕b(中) pos=c textoff=0][lr]",
+      "jp": "「いたた、[cacheimage storage=藤07a頬腕a(中)][wvl][chgfg time=200 storage=藤07a頬腕a(中) textoff=0]たたた、[wvl][se storage=se151.wav][shock vmax=30 time=300 count=-3]たぅぁー！[cacheimage storage=藤07a腕b(中)][wvl][chgfg time=300 storage=藤07a腕b(中) pos=c textoff=0]」[lr]",
+      "Pt-br": "\"Ai, [cacheimage storage=藤07a頬腕a(中)][wvl][chgfg time=200 storage=藤07a頬腕a(中) textoff=0]ai, ai, ai, [wvl][se storage=se151.wav][shock vmax=30 time=300 count=-3]argh!\"[cacheimage storage=藤07a腕b(中)][wvl][chgfg time=300 storage=藤07a腕b(中) pos=c textoff=0][lr]",
+      "id": 18067,
+      "epk_id": "5874",
+      "label": "$$$message_0040_0020_0000$$$"
+    },
+    {
+      "en": "\"Sakura, don't go overboard... We can't have you killing her.\"[lr]",
+      "jp": "「……桜、それくらいにしてやってくれ……藤ねえ殺しちゃまずい」[lr]",
+      "Pt-br": "\"Sakura, não exagere... Nós não queremos que você a mate, Fuji-nee.\"[lr]",
+      "id": 18068,
+      "epk_id": "5875",
+      "label": "$$$message_0040_0020_0001$$$"
+    },
+    {
+      "en": "\"Huh...? [cacheimage storage=桜私服03e(中)][wvl canskip=false time=500][chgfg storage=桜私服03e(中) pos=rc time=300 textoff=0]Oh, I'm sorry.[lr]",
+      "jp": "「え……[cacheimage storage=桜私服03e(中)][wvl canskip=false time=500][chgfg storage=桜私服03e(中) pos=rc time=300 textoff=0]あ、すみません。[lr]",
+      "Pt-br": "\"Hã...? [cacheimage storage=桜私服03e(中)][wvl canskip=false time=500][chgfg storage=桜私服03e(中) pos=rc time=300 textoff=0]Ah, me desculpe.[lr]",
+      "id": 18069,
+      "epk_id": "5876",
+      "label": "$$$message_0040_0020_0002$$$"
+    },
+    {
+      "en": "I used a little too much strength.\"[lr]",
+      "jp": "　ちょっと力を入れ過ぎちゃいました」[lr]",
+      "Pt-br": "Usei força demais.\"[lr]",
+      "id": 18070,
+      "epk_id": "5877",
+      "label": "$$$message_0040_0020_0003$$$"
+    },
+    {
+      "en": "[move opacity=255 base=藤07a頬腕b(中) cx=259 layer=2 py=321 px=431 affine=(344,339,4.086,1,255,259,279)(291,331,2.203,1,255,258,278)(188,395,8.616,1,0,314,322)(112,434,12.724,1,0,259,279) time=1200 cy=279 mag=1 deg=+0.0 accel=2 spline=1 textoff=0]So she says, but Fuji-nee won't be moving for a while.[wm canskip=0][lr]",
+      "jp": "　[move opacity=255 base=藤07a頬腕b(中) cx=259 layer=2 py=321 px=431 affine=(344,339,4.086,1,255,259,279)(291,331,2.203,1,255,258,278)(188,395,8.616,1,0,314,322)(112,434,12.724,1,0,259,279) time=1200 cy=279 mag=1 deg=+0.0 accel=2 spline=1 textoff=0]なんて言ってるけど、解放された藤ねえはしばらく動かなかった。[wm canskip=0][lr]",
+      "Pt-br": "[move opacity=255 base=藤07a頬腕b(中) cx=259 layer=2 py=321 px=431 affine=(344,339,4.086,1,255,259,279)(291,331,2.203,1,255,258,278)(188,395,8.616,1,0,314,322)(112,434,12.724,1,0,259,279) time=1200 cy=279 mag=1 deg=+0.0 accel=2 spline=1 textoff=0]Ela diz isso, mas a Fuji-nee não vai conseguir se mexer por um tempo.[wm canskip=0][lr]",
+      "id": 18071,
+      "epk_id": "5878",
+      "label": "$$$message_0040_0020_0004$$$"
+    },
+    {
+      "en": "[chgfg storage=桜私服08l(中) pos=rc time=300 textoff=0]...I see. I've learned a few things not to say when Sakura's giving me a massage.",
+      "jp": "　[chgfg storage=桜私服08l(中) pos=rc time=300 textoff=0]……なるほど、桜に肩もみされるときは暴言を吐かないようにしよう。",
+      "Pt-br": "[chgfg storage=桜私服08l(中) pos=rc time=300 textoff=0]...Entendi. Aprendi algumas coisas a não dizer quando a Sakura estiver me fazendo uma massagem.",
+      "id": 18072,
+      "epk_id": "5879",
+      "label": "$$$message_0040_0020_0005$$$"
+    },
+    {
+      "en": "\"...Kuh, to think you even knew these techniques... I  underestimated you.\"[lr]",
+      "jp": "「……くうう、桜ちゃんにこんなテクもあるだなんて……抜かったわ」[lr]",
+      "Pt-br": "\"...Kuh, e pensar que você até sabia essas técnicas... Eu a subestimei, Sakura-chan.\"[lr]",
+      "id": 18073,
+      "epk_id": "5880",
+      "label": "$$$message_0040_0021_0000$$$"
+    },
+    {
+      "en": "\"Are you all right? Should we keep going?\"[lr]",
+      "jp": "「大丈夫ですか？　もっと続けましょうか、先生」[lr]",
+      "Pt-br": "\"Você está bem? Vamos continuar, Sensei?\"[lr]",
+      "id": 18074,
+      "epk_id": "5881",
+      "label": "$$$message_0040_0021_0001$$$"
+    },
+    {
+      "en": "\"Ah, that was a good one today. Foot massages don't work unless they also make your feet hurt.\"[cacheimage storage=桜私服07c(中)][wvs][chgfg time=300 storage=桜私服07c(中) textoff=0][lr]",
+      "jp": "「あー、でも今のも効いたわ。足裏マッサージとか痛くないと効かないからね」[cacheimage storage=桜私服07c(中)][wvs][chgfg time=300 storage=桜私服07c(中) textoff=0][lr]",
+      "Pt-br": "\"Ah, foi bom por hoje. Massagens nos pés não funcionam a menos que também façam os seus pés doerem.\"[cacheimage storage=桜私服07c(中)][wvs][chgfg time=300 storage=桜私服07c(中) textoff=0][lr]",
+      "id": 18075,
+      "epk_id": "5882",
+      "label": "$$$message_0040_0021_0002$$$"
+    },
+    {
+      "en": "Fuji-nee cracks her neck from side to side and stands up.",
+      "jp": "　藤ねえはコキコキと首を動かしたりして、立ち上がる。",
+      "Pt-br": "A Fuji-nee estala o pescoço de um lado pro outro e se levanta.",
+      "id": 18076,
+      "epk_id": "5883",
+      "label": "$$$message_0040_0021_0003$$$"
+    },
+    {
+      "en": "\"Thanks, Sakura. I feel a lot better.\"[lr]",
+      "jp": "「ん、桜ちゃんありがと。大分楽になったわ」[lr]",
+      "Pt-br": "\"Obrigada, Sakura-chan. Me sinto muito melhor.\"[lr]",
+      "id": 18077,
+      "epk_id": "5884",
+      "label": "$$$message_0040_0022_0000$$$"
+    },
+    {
+      "en": "\"You're quite welcome.\"[lr]",
+      "jp": "「いえいえ、お粗末様です」[lr]",
+      "Pt-br": "\"De nada.\"[lr]",
+      "id": 18078,
+      "epk_id": "5885",
+      "label": "$$$message_0040_0022_0001$$$"
+    },
+    {
+      "en": "\"Next time, let's make every nook and cranny of Shirou soft[line len=2]\"",
+      "jp": "「今度は士郎の隅々までふにゃふにゃに[line len=3]」",
+      "Pt-br": "\"Da próxima vez, vamos amolecer cada canto e fresta do Shirou[line len=2]\"",
+      "id": 18079,
+      "epk_id": "5886",
+      "label": "$$$message_0040_0022_0002$$$"
+    },
+    {
+      "en": "\"Ahh, n-not that again! I'm weak there!\"[lr]",
+      "jp": "「ああっ、ま、またそこをっ！　弱いのわたしっ！」[lr]",
+      "Pt-br": "\"Ahh, i-isso de novo, não! Sou sensível aí!\"[lr]",
+      "id": 18080,
+      "epk_id": "5887",
+      "label": "$$$message_0040_0023_0000$$$"
+    },
+    {
+      "en": "\"How many times do I have to say it!? Senpai and I aren't...!\"[lr]",
+      "jp": "「ですから何回言ったら分かるんですか先生っ！　わたしと先輩はっ！」[lr]",
+      "Pt-br": "\"Quantas vezes eu vou ter que falar!? O Senpai e eu não, Sensei...!\"[lr]",
+      "id": 18081,
+      "epk_id": "5888",
+      "label": "$$$message_0040_0023_0001$$$"
+    },
+    {
+      "en": "\"Guargh! What terrible finger pressure! This tiger is preparing for death ...!\"",
+      "jp": "「ごふぁ！　な、なんという指圧……！　ト、トラは死を覚悟した……！！」",
+      "Pt-br": "\"Guargh! Que terrível pressão nos dedos! Esta tigresa está se preparando para a morte...!\"",
+      "id": 18082,
+      "epk_id": "5889",
+      "label": "$$$message_0040_0023_0002$$$"
+    },
+    {
+      "en": "Fuji-nee collapses to the ground with a strange smile. I can't tell if she's happy or in pain.[lr]",
+      "jp": "　……痛いのか幸せなのか、不思議な笑顔で崩れ落ちる藤ねえ。[lr]",
+      "Pt-br": "A Fuji-nee cai no chão com um sorriso estranho. Eu não sei dizer se ela está feliz ou sentindo dor.[lr]",
+      "id": 18083,
+      "epk_id": "5890",
+      "label": "$$$message_0040_0024_0000$$$"
+    },
+    {
+      "en": "It's a tranquil death that could send her to the Land of Buddha or even Nirvana.",
+      "jp": "　[ruby text=ぶっこくど char=3]仏国土や[ruby text=ねはん char=2]涅槃にでも行けそうな大往生である。",
+      "Pt-br": "É uma morte tranquila que poderia mandá-la para a Terra de Buda ou até mesmo para o Nirvana.",
+      "id": 18084,
+      "epk_id": "5891",
+      "label": "$$$message_0040_0024_0001$$$"
+    },
+    {
+      "en": "\"...Don't go too hard on her, Sakura.[lr]",
+      "jp": "「……桜、適当なところで許してやってくれ。[lr]",
+      "Pt-br": "\"...Não pegue muito pesado com ela, Sakura.[lr]",
+      "id": 18085,
+      "epk_id": "5892",
+      "label": "$$$message_0040_0025_0000$$$"
+    },
+    {
+      "en": "I'm going to go make dinner.\"[lr]",
+      "jp": "　んじゃ、俺は晩飯仕込んでくる」[lr]",
+      "Pt-br": "Eu vou fazer o jantar.\"[lr]",
+      "id": 18086,
+      "epk_id": "5893",
+      "label": "$$$message_0040_0025_0001$$$"
+    },
+    {
+      "en": "\"Yes, Senpai![lr]",
+      "jp": "「はい、先輩！[lr]",
+      "Pt-br": "\"Sim, Senpai![lr]",
+      "id": 18087,
+      "epk_id": "5894",
+      "label": "$$$message_0040_0025_0002$$$"
+    },
+    {
+      "en": "[line len=3][chgfg storage=桜私服06c(中) pos=rc time=300 textoff=0]Hehehe, Ms. Fujimura? I'll take good care of you.\"[lr]",
+      "jp": "　[line len=3][chgfg storage=桜私服06c(中) pos=rc time=300 textoff=0]ふふふ、藤村先生？　可愛がってあげますよ？」[lr]",
+      "Pt-br": "[line len=3][chgfg storage=桜私服06c(中) pos=rc time=300 textoff=0]Hehehe, Fujimura-sensei? Vou cuidar muito bem de você.\"[lr]",
+      "id": 18088,
+      "epk_id": "5895",
+      "label": "$$$message_0040_0025_0003$$$"
+    },
+    {
+      "en": "\"Eeek! Damn, Sakura! You scary!\"",
+      "jp": "「ひいい！　桜っ、怖い子ッ！」",
+      "Pt-br": "\"Eeek! Droga, Sakura! Você me assusta!\"",
+      "id": 18089,
+      "epk_id": "5896",
+      "label": "$$$message_0040_0025_0004$$$"
+    },
+    {
+      "en": "\"OW, ow ow ow ow ow ow, that hurt!\"[r]",
+      "jp": "「あたたたたたたたた、[r]ほあたっ！？」",
+      "Pt-br": "\"Ai, ai, ai, ai, ai, ai, ai, ai, ai, doeu!\"[r]",
+      "id": 18090,
+      "epk_id": "905862",
+      "label": "$$$message_9040_0017_0000$$$"
+    }
+  ]
+}

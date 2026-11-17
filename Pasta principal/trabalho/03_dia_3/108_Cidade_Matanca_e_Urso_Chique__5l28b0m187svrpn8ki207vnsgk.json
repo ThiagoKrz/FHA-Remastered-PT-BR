@@ -1,0 +1,512 @@
+{
+  "cena": "5l28b0m187svrpn8ki207vnsgk",
+  "titulo": "Cidade: Matança e Urso Chique",
+  "rota": "Dia 3",
+  "arquivo": "5l28b0m187svrpn8ki207vnsgk.epk_dec",
+  "linhas": [
+    {
+      "en": "\"...Woah.\"[lr]",
+      "jp": "「[line len=3]うわぁ」[lr]",
+      "Pt-br": "\"...Uau.\"[lr]",
+      "id": 16296,
+      "epk_id": "15467",
+      "label": "$$$message_0119_0000_0000$$$"
+    },
+    {
+      "en": "As soon as she exclaims happily, [clfg textoff=0 rule=シャッター左から time=300 pos=all]Illya runs inside the store.[lr]",
+      "jp": "　なんて嬉しそうな声を上げるや否や、[clfg textoff=0 rule=シャッター左から time=300 pos=all]イリヤは店の中に駈けて行った。[lr]",
+      "Pt-br": "Assim que solta essa exclamação feliz, [clfg textoff=0 rule=シャッター左から time=300 pos=all]Illya sai correndo para dentro da loja.[lr]",
+      "id": 16297,
+      "epk_id": "15468",
+      "label": "$$$message_0119_0000_0001$$$"
+    },
+    {
+      "en": "\"Illya, it's dangerous to run.\"[lr]",
+      "jp": "「イリヤ、走ると危ないぞ」[lr]",
+      "Pt-br": "\"Illya, é perigoso correr.\"[lr]",
+      "id": 16298,
+      "epk_id": "15469",
+      "label": "$$$message_0119_0000_0002$$$"
+    },
+    {
+      "en": "My warning doesn't reach her.",
+      "jp": "　なんて声はもう届いていない。",
+      "Pt-br": "Meu aviso nem chega até ela.",
+      "id": 16299,
+      "epk_id": "15470",
+      "label": "$$$message_0119_0000_0003$$$"
+    },
+    {
+      "en": "Now, I'm going to be left behind by myself at the storefront...[lr]",
+      "jp": "　さて、そうなると店先に一人取り残される事になるのだが……。[lr]",
+      "Pt-br": "E agora eu vou ficar para trás, sozinho, na frente da loja...[lr]",
+      "id": 16300,
+      "epk_id": "15471",
+      "label": "$$$message_0119_0001_0000$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「[line len=6]」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 16301,
+      "epk_id": "15472",
+      "label": "$$$message_0119_0001_0001$$$"
+    },
+    {
+      "en": "The stares of those around me pierce into me. As expected from being in a fancy goods shop that doesn't allow boys, my level of discomfort is tremendous.[lr]",
+      "jp": "　周り中から視線が突き刺さる。さすが男子禁制のファンシーショップ、居心地の悪さは半端じゃない。[lr]",
+      "Pt-br": "Os olhares ao meu redor me atravessam. Como era de se esperar de uma loja de coisinhas fofas onde garotos não são bem-vindos, meu desconforto está nas alturas.[lr]",
+      "id": 16302,
+      "epk_id": "15473",
+      "label": "$$$message_0119_0001_0002$$$"
+    },
+    {
+      "en": "I have the sudden urge to run away, but I can't leave Illya behind.",
+      "jp": "　一瞬逃げ出したい衝動に駆られたが、イリヤを置き去りにするワケにもいかない。",
+      "Pt-br": "Sinto uma vontade súbita de fugir, mas não posso deixar a Illya para trás.",
+      "id": 16303,
+      "epk_id": "15474",
+      "label": "$$$message_0119_0001_0003$$$"
+    },
+    {
+      "en": "\"Ahh...\"[lr]",
+      "jp": "「はぁ……」[lr]",
+      "Pt-br": "\"Ah...\"[lr]",
+      "id": 16304,
+      "epk_id": "15475",
+      "label": "$$$message_0119_0002_0000$$$"
+    },
+    {
+      "en": "\"Shirou, you're still here? [wvl][move textoff=0 time=120 path=(521,95,255)(520,71,255)(518,90,255)(518,77,255) storage=イリヤ03a(遠) accel=0 spline=1]You're slow.\"[wm canskip=0][lr]",
+      "jp": "「シロウ、こんな所にいたの？[wvl][move textoff=0 time=120 path=(521,95,255)(520,71,255)(518,90,255)(518,77,255) storage=イリヤ03a(遠) accel=0 spline=1]　遅いー」[wm canskip=0][lr]",
+      "Pt-br": "\"Shirou, você ainda está aí? [wvl][move textoff=0 time=120 path=(521,95,255)(520,71,255)(518,90,255)(518,77,255) storage=イリヤ03a(遠) accel=0 spline=1]Lerdo.\"[wm canskip=0][lr]",
+      "id": 16305,
+      "epk_id": "15476",
+      "label": "$$$message_0119_0002_0001$$$"
+    },
+    {
+      "en": "[chgfg textoff=0 time=300 storage=イリヤ04a(近) textoff=0 left=418 top=170][move textoff=0 time=100 path=(405,161,255)(381,161,255)(375,167,255)(370,173,255)(348,156,255) storage=イリヤ04a(近) accel=0 spline=1]Illya comes back and pulls my hand. Just from that, I feel like the stares around me have softened up somewhat.[wm canskip=0]",
+      "jp": "　[chgfg textoff=0 time=300 storage=イリヤ04a(近) textoff=0 left=418 top=170][move textoff=0 time=100 path=(405,161,255)(381,161,255)(375,167,255)(370,173,255)(348,156,255) storage=イリヤ04a(近) accel=0 spline=1]戻ってきたイリヤに手を引かれる。それだけで周りの視線は幾分か緩やかになった気がした。[wm canskip=0]",
+      "Pt-br": "[chgfg textoff=0 time=300 storage=イリヤ04a(近) textoff=0 left=418 top=170][move textoff=0 time=100 path=(405,161,255)(381,161,255)(375,167,255)(370,173,255)(348,156,255) storage=イリヤ04a(近) accel=0 spline=1]Illya volta e puxa minha mão. Só isso já faz os olhares em volta parecerem um pouco menos duros.[wm canskip=0]",
+      "id": 16306,
+      "epk_id": "15477",
+      "label": "$$$message_0119_0002_0002$$$"
+    },
+    {
+      "en": "...First of all, to explain why I'm here with Illya, it's just because Illya begged me to.",
+      "jp": "[line len=3]そもそも、何故ここに俺とイリヤがいるのかと言うと、単純にイリヤにねだられたからだった。",
+      "Pt-br": "...Antes de explicar qualquer coisa, o motivo de eu estar aqui com Illya é simples: ela me implorou.",
+      "id": 16307,
+      "epk_id": "15478",
+      "label": "$$$message_0119_0003_0000$$$"
+    },
+    {
+      "en": "During Illya's surprise attack, she found Saber's usual stuffed lion.[lr]",
+      "jp": "　急襲をかけてきたイリヤに、例のセイバーのライオンのぬいぐるみが見つかったのだ。[lr]",
+      "Pt-br": "Durante o ataque surpresa da Illya, ela encontrou o leãozinho de pelúcia que a Saber sempre usa.[lr]",
+      "id": 16308,
+      "epk_id": "15479",
+      "label": "$$$message_0119_0004_0000$$$"
+    },
+    {
+      "en": "And after Illya teased Saber for some time,[lr]",
+      "jp": "　そしてイリヤはひとしきりセイバーをからかった後、[lr]",
+      "Pt-br": "E depois da Illya provocar a Saber por um tempo,[lr]",
+      "id": 16309,
+      "epk_id": "15480",
+      "label": "$$$message_0119_0004_0001$$$"
+    },
+    {
+      "en": "\"I want one, too.\"[rf]",
+      "jp": "「これ、わたしも欲しい」[rf]",
+      "Pt-br": "\"Eu também quero um.\"[rf]",
+      "id": 16310,
+      "epk_id": "15481",
+      "label": "$$$message_0119_0004_0002$$$"
+    },
+    {
+      "en": "...Thus, I came to shop for a stuffed toy with Illya.[lr]",
+      "jp": "　……かくして、イリヤとぬいぐるみを買いに来るコトになった。[lr]",
+      "Pt-br": "...E foi assim que eu vim comprar uma pelúcia com a Illya.[lr]",
+      "id": 16311,
+      "epk_id": "15482",
+      "label": "$$$message_0119_0005_0000$$$"
+    },
+    {
+      "en": "Saber's lion is one of a kind, or rather, since Fuji-nee got it from an arcade, I can't get the same one.[lr]",
+      "jp": "　セイバーのライオンのぬいぐるみは一品物、というか藤ねえがゲームセンターで取ってきた景品なので、同じものは手に入らない。[lr]",
+      "Pt-br": "O leão da Saber é único; ou melhor, como Fuji-nee o conseguiu num fliperama, eu não consigo arranjar outro igual.[lr]",
+      "id": 16312,
+      "epk_id": "15483",
+      "label": "$$$message_0119_0005_0001$$$"
+    },
+    {
+      "en": "So instead, I'm buying Illya the stuffed toy that she wants.[fg textoff=0 opacity=0 left=283 index=3000 top=154 time=150 storage=イリヤ02a(中)]",
+      "jp": "　その代わりというコトで、イリヤが気に入ったぬいぐるみを購入するコトになったのだ。[fg textoff=0 opacity=0 left=283 index=3000 top=154 time=150 storage=イリヤ02a(中)]",
+      "Pt-br": "Então, no lugar dele, vou comprar a pelúcia que Illya escolher.[fg textoff=0 opacity=0 left=283 index=3000 top=154 time=150 storage=イリヤ02a(中)]",
+      "id": 16313,
+      "epk_id": "15484",
+      "label": "$$$message_0119_0005_0002$$$"
+    },
+    {
+      "en": "\"Hmm, which one should I get?\"[lr]",
+      "jp": "「うーん、どれがいいかなー」[lr]",
+      "Pt-br": "\"Hmm, qual eu levo?\"[lr]",
+      "id": 16314,
+      "epk_id": "15485",
+      "label": "$$$message_0119_0006_0000$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=イリヤ04b(中) textoff=0]Well, putting the situation aside...[lr]",
+      "jp": "　[chgfg time=300 storage=イリヤ04b(中) textoff=0]まあ、そんな事情は抜きにして。[lr]",
+      "Pt-br": "[chgfg time=300 storage=イリヤ04b(中) textoff=0]Bem, deixando a situação de lado...[lr]",
+      "id": 16315,
+      "epk_id": "15486",
+      "label": "$$$message_0119_0006_0001$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=イリヤ10c(中) textoff=0]Watching her check out the stuffed toys one after another is endearing.[chgfg time=300 storage=イリヤ04a(中) textoff=0]",
+      "jp": "　[chgfg time=300 storage=イリヤ10c(中) textoff=0]こうやって、ぬいぐるみをとっかえひっかえに品定めしている様子は微笑ましくもある。[chgfg time=300 storage=イリヤ04a(中) textoff=0]",
+      "Pt-br": "[chgfg time=300 storage=イリヤ10c(中) textoff=0]Vê-la examinar as pelúcias, uma por uma, é adorável.[chgfg time=300 storage=イリヤ04a(中) textoff=0]",
+      "id": 16316,
+      "epk_id": "15487",
+      "label": "$$$message_0119_0006_0002$$$"
+    },
+    {
+      "en": "\"Hey Shirou, I wonder what kind of relationship it looks like we have.\"[lr]",
+      "jp": "「ねえシロウ、わたしたちってどういう関係に見えるのかな」[lr]",
+      "Pt-br": "\"Ei, Shirou, que tipo de relação você acha que parece que nós temos?\"[lr]",
+      "id": 16317,
+      "epk_id": "15488",
+      "label": "$$$message_0119_0007_0000$$$"
+    },
+    {
+      "en": "\"What kind? Hmm...\"[lr]",
+      "jp": "「どうって……そうだなあ」[lr]",
+      "Pt-br": "\"Que relação? Hum...\"[lr]",
+      "id": 16318,
+      "epk_id": "15489",
+      "label": "$$$message_0119_0007_0001$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=イリヤ07a(中) textoff=0]Siblings is a stretch. The color of our hair and eyes are completely different, so we definitely don't look like that.[lr]",
+      "jp": "　[chgfg time=300 storage=イリヤ07a(中) textoff=0]兄妹、は無理だよなあ。髪も目も色が完全に違うし、そうはとても見えないだろう。[lr]",
+      "Pt-br": "[chgfg time=300 storage=イリヤ07a(中) textoff=0]Irmãos seria forçar a barra. Nossos cabelos e olhos têm cores completamente diferentes, então definitivamente não parecemos isso.[lr]",
+      "id": 16319,
+      "epk_id": "15490",
+      "label": "$$$message_0119_0007_0002$$$"
+    },
+    {
+      "en": "Our ages aren't that far apart, so the most reasonable line of thinking would be...",
+      "jp": "　親子ってほど歳は離れてないし、まあ妥当な線で行くと[line len=3]",
+      "Pt-br": "Nossas idades não são tão distantes, então o mais plausível seria...",
+      "id": 16320,
+      "epk_id": "15491",
+      "label": "$$$message_0119_0007_0003$$$"
+    },
+    {
+      "en": "\"We're like a cute girl and a big brother that's looking after her, aren't we?\"[lr]",
+      "jp": "「可愛い女の子と、その面倒を見てるお兄さんって所じゃないか？」[lr]",
+      "Pt-br": "\"Parecemos uma garota fofa com o Nii-san cuidando dela, não é?\"[lr]",
+      "id": 16321,
+      "epk_id": "15492",
+      "label": "$$$message_0119_0008_0000$$$"
+    },
+    {
+      "en": "\"C-Cute? [cacheimage storage=イリヤ08h(中)][wvl][chgfg time=300 storage=イリヤ08h(中) textoff=0]Really?\"[lr]",
+      "jp": "「え、かわいい？　[cacheimage storage=イリヤ08h(中)][wvl][chgfg time=300 storage=イリヤ08h(中) textoff=0]ほんとに？」[lr]",
+      "Pt-br": "\"F-fofa? [cacheimage storage=イリヤ08h(中)][wvl][chgfg time=300 storage=イリヤ08h(中) textoff=0]Mesmo?\"[lr]",
+      "id": 16322,
+      "epk_id": "15493",
+      "label": "$$$message_0119_0008_0001$$$"
+    },
+    {
+      "en": "\"Yeah, I think you're cute, Illya.\"[lr]",
+      "jp": "「うん、イリヤは可愛いと思うぞ」[lr]",
+      "Pt-br": "\"É, eu acho você fofa, Illya.\"[lr]",
+      "id": 16323,
+      "epk_id": "15494",
+      "label": "$$$message_0119_0008_0002$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=イリヤ08d(中) textoff=0]Flattery aside, I just think Illya looks cute.",
+      "jp": "　[chgfg time=300 storage=イリヤ08d(中) textoff=0]お世辞とか抜きで、普通に見ている分にはイリヤは可愛いと思う。",
+      "Pt-br": "[chgfg time=300 storage=イリヤ08d(中) textoff=0]Bajulação à parte, eu realmente acho Illya fofa.",
+      "id": 16324,
+      "epk_id": "15495",
+      "label": "$$$message_0119_0008_0003$$$"
+    },
+    {
+      "en": "...That is, as long as she's not saying that she'll kill you with Berserker behind her.[lr]",
+      "jp": "　[line len=3]もっとも、その後ろにバーサーカーいたり、殺しちゃうから、とか言われている場合はその限りではないのだが。[lr]",
+      "Pt-br": "...Isto é, desde que ela não esteja dizendo que vai me matar com Berserker atrás dela.[lr]",
+      "id": 16325,
+      "epk_id": "15496",
+      "label": "$$$message_0119_0009_0000$$$"
+    },
+    {
+      "en": "The fear surpasses that by far.",
+      "jp": "　恐怖はそのあたりをぶっちぎりで凌駕してくれる。",
+      "Pt-br": "Nessas horas o medo supera a fofura de longe.",
+      "id": 16326,
+      "epk_id": "15497",
+      "label": "$$$message_0119_0009_0001$$$"
+    },
+    {
+      "en": "\"Hmm, then you have it hard too since you're escorting such a cute girl.\"[lr]",
+      "jp": "「ふーん、じゃあそんなかわいい子をエスコートしてるんだからシロウも大変ね」[lr]",
+      "Pt-br": "\"Hum, então você também sofre por escoltar uma garota tão fofa.\"[lr]",
+      "id": 16327,
+      "epk_id": "15498",
+      "label": "$$$message_0119_0010_0000$$$"
+    },
+    {
+      "en": "\"With what?\"[lr]",
+      "jp": "「なにがさ」[lr]",
+      "Pt-br": "\"Difícil por quê?\"[lr]",
+      "id": 16328,
+      "epk_id": "15499",
+      "label": "$$$message_0119_0010_0001$$$"
+    },
+    {
+      "en": "\"Mm, what is it again? Won't you be mistaken as one of those men who likes little girls?[l][say storage=cty0309_iri_0071 name=イリヤ] I heard about it from Rin before, but I forgot what they're called.\"[lr]",
+      "jp": "「んーっと、なんだっけ。そういう小さい女の子が好きな男の人と間違えられちゃうんじゃないの？[l][say storage=cty0309_iri_0071 name=イリヤ]　リンに聞いたんだけどなんて言うのか忘れちゃった」[lr]",
+      "Pt-br": "\"Mm, como é mesmo a palavra? Não vão confundir você com um daqueles homens que gostam de garotinhas?[l][say storage=cty0309_iri_0071 name=イリヤ] Ouvi a Rin falar disso antes, mas esqueci como eles se chamam.\"[lr]",
+      "id": 16329,
+      "epk_id": "15500",
+      "label": "$$$message_0119_0010_0002$$$"
+    },
+    {
+      "en": "...Oh wow. I wonder what on earth Tohsaka drilled into Illya's head.",
+      "jp": "　[line len=3]ほほう。遠坂はイリヤに一体何を吹き込んでくれやがったのか？",
+      "Pt-br": "...Nossa. Que diabos a Tohsaka andou enfiando na cabeça da Illya?",
+      "id": 16330,
+      "epk_id": "15501",
+      "label": "$$$message_0119_0010_0003$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=イリヤ11a(中) textoff=0]...But, it isn't strange that I would be seen like that if I was taking Illya and walking in a place like this.[lr]",
+      "jp": "　[chgfg time=300 storage=イリヤ11a(中) textoff=0]……しかし、イリヤを連れてこんな所を歩いていればそういう見方をされてもおかしくはない。[lr]",
+      "Pt-br": "[chgfg time=300 storage=イリヤ11a(中) textoff=0]...Mas, se eu ando com Illya por um lugar como este, não seria estranho me verem desse jeito.[lr]",
+      "id": 16331,
+      "epk_id": "15502",
+      "label": "$$$message_0119_0011_0000$$$"
+    },
+    {
+      "en": "I wonder what kind of misunderstanding this would cause if I were to run into one of my classmates here.[lr]",
+      "jp": "　こんな所をクラスの連中に見られたらどんな誤解を受けることか[lr]",
+      "Pt-br": "Fico imaginando que tipo de mal-entendido surgiria se eu esbarrasse com algum colega de classe aqui.[lr]",
+      "id": 16332,
+      "epk_id": "15503",
+      "label": "$$$message_0119_0011_0001$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=イリヤ10c(中) textoff=0]Well, it's only a groundless rumor in the end, so I guess I can keep my head held high.",
+      "jp": "　[chgfg time=300 storage=イリヤ10c(中) textoff=0]まあ、結局は葉はあっても根のない噂に過ぎないんだから、堂々としていればいいのだが。",
+      "Pt-br": "[chgfg time=300 storage=イリヤ10c(中) textoff=0]Bom, de qualquer forma, são apenas rumores sem base, então acho que posso continuar de cabeça erguida.",
+      "id": 16333,
+      "epk_id": "15504",
+      "label": "$$$message_0119_0011_0002$$$"
+    },
+    {
+      "en": "\"Or Shirou, do you really want to be mine?\"[lr]",
+      "jp": "「それともシロウ、本当にわたしの物になっちゃう？」[lr]",
+      "Pt-br": "\"Ou então, Shirou, você quer mesmo ser meu?\"[lr]",
+      "id": 16334,
+      "epk_id": "15505",
+      "label": "$$$message_0119_0012_0000$$$"
+    },
+    {
+      "en": "Illya clings to my arm.[lr]",
+      "jp": "　ぴたっと腕に抱きついてくるイリヤ。[lr]",
+      "Pt-br": "A Illya se agarra ao meu braço.[lr]",
+      "id": 16335,
+      "epk_id": "15506",
+      "label": "$$$message_0119_0012_0001$$$"
+    },
+    {
+      "en": "...I take back what I said. I can't hold my head high.",
+      "jp": "　……前言撤回。堂々となんてできません。",
+      "Pt-br": "...Retiro o que disse. Não consigo andar de cabeça erguida.",
+      "id": 16336,
+      "epk_id": "15507",
+      "label": "$$$message_0119_0012_0002$$$"
+    },
+    {
+      "en": "\"N-No, I can't! F-First of all, you can't treat people like objects.\"[lr]",
+      "jp": "「い、いや、それは無理っ！　だ、だいたいだな、人を自分の物あつかいしちゃダメだぞ」[lr]",
+      "Pt-br": "\"N-não quero não! E p-primeiro de tudo, você não pode tratar pessoas como objetos.\"[lr]",
+      "id": 16337,
+      "epk_id": "15508",
+      "label": "$$$message_0119_0013_0000$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=イリヤ06i(近) textoff=0]I try to unwrap Illya's arm from me as gently as possible, hiding my agitation in as roundabout a way as I can.",
+      "jp": "　[chgfg time=300 storage=イリヤ06i(近) textoff=0]できるだけやんわりと、それとなく動揺を隠して、イリヤの腕を解く。",
+      "Pt-br": "[chgfg time=300 storage=イリヤ06i(近) textoff=0]Tento soltar o braço de Illya com o máximo de gentileza possível, escondendo minha agitação da maneira mais indireta que consigo.",
+      "id": 16338,
+      "epk_id": "15509",
+      "label": "$$$message_0119_0013_0001$$$"
+    },
+    {
+      "en": "\"Mrgh, fine.[lr]",
+      "jp": "「むー、いいわよーだ。[lr]",
+      "Pt-br": "\"Humpf, que seja.[lr]",
+      "id": 16339,
+      "epk_id": "15510",
+      "label": "$$$message_0119_0014_0000$$$"
+    },
+    {
+      "en": "You're going to regret this. You're going to wish you became mine when you had the chance.\"[lr]",
+      "jp": "　そのうち、あの時素直にわたしの物になっておけばよかったなーって悔しがらせてやるんだから」[lr]",
+      "Pt-br": "Você vai se arrepender. Vai desejar ter sido meu quando teve a chance.\"[lr]",
+      "id": 16340,
+      "epk_id": "15511",
+      "label": "$$$message_0119_0014_0001$$$"
+    },
+    {
+      "en": "\"Haha. Yeah, I hope so.\"[lr]",
+      "jp": "「はは。うんうん、そうなったらいいな」[lr]",
+      "Pt-br": "\"Haha. É, espero que sim.\"[lr]",
+      "id": 16341,
+      "epk_id": "15512",
+      "label": "$$$message_0119_0014_0002$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=イリヤ05b(中) textoff=0]She must be unsatisfied with my answer, as she starts choosing stuffed toys again while pouting.[lr]",
+      "jp": "　[chgfg time=300 storage=イリヤ05b(中) textoff=0]俺の答えが不満なのか、むーと頬を膨らませたまま、またぬいぐるみを選び始める。[lr]",
+      "Pt-br": "[chgfg time=300 storage=イリヤ05b(中) textoff=0]Insatisfeita com a minha resposta, ela volta a escolher pelúcias fazendo biquinho.[lr]",
+      "id": 16342,
+      "epk_id": "15513",
+      "label": "$$$message_0119_0014_0003$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=イリヤ05d(中) textoff=0]Eventually, she finds a cat-like stuffed toy and looks at me again.",
+      "jp": "　[chgfg time=300 storage=イリヤ05d(中) textoff=0]そのうち、なにか猫っぽいぬいぐるみを見つけてこっちに向き直った。",
+      "Pt-br": "[chgfg time=300 storage=イリヤ05d(中) textoff=0]Depois de um tempo, ela encontra uma pelúcia parecida com um gato e olha para mim de novo.",
+      "id": 16343,
+      "epk_id": "15514",
+      "label": "$$$message_0119_0014_0004$$$"
+    },
+    {
+      "en": "\"Hey Shirou, what about this?\"[lr]",
+      "jp": "「ねえシロウ、これなんてどう？」[lr]",
+      "Pt-br": "\"Ei Shirou, o que acha desse?\"[lr]",
+      "id": 16344,
+      "epk_id": "15515",
+      "label": "$$$message_0119_0015_0000$$$"
+    },
+    {
+      "en": "She holds up a stuffed toy that could even be called a human cat. It's stretching its limbs and hanging from Illya's arms.",
+      "jp": "　それは人猫とでもいえばいいのか、そんなぬいぐるみだった。イリヤの腕のなかで、手足を伸ばしてだれている。",
+      "Pt-br": "Ela ergue uma pelúcia que poderia até ser chamada de gato humanoide. O boneco estica os membros, pendurado nos braços de Illya.",
+      "id": 16345,
+      "epk_id": "15516",
+      "label": "$$$message_0119_0015_0001$$$"
+    },
+    {
+      "en": "\"...It only looks like a lazy cat.[lr]",
+      "jp": "「……だらけた猫にしか見えないな。[lr]",
+      "Pt-br": "\"...Ele parece só um gato preguiçoso.[lr]",
+      "id": 16346,
+      "epk_id": "15517",
+      "label": "$$$message_0119_0016_0000$$$"
+    },
+    {
+      "en": "I don't know what makes a good stuffed toy. Isn't that fine if that's what you like?\"",
+      "jp": "　俺にはぬいぐるみの良さはわからない。イリヤがそれでいいと思ったんならいいんじゃないか？」",
+      "Pt-br": "Eu não sei o que faz uma pelúcia ser boa ou ruim. Se você gostou, não está bom?\"",
+      "id": 16347,
+      "epk_id": "15518",
+      "label": "$$$message_0119_0016_0001$$$"
+    },
+    {
+      "en": "\"What are you saying? It's going to be your new body, so you have to choose seriously.\"[lr]",
+      "jp": "「なに言ってるの？　シロウの新しい体になるんだから、真面目に選ばないと駄目じゃない」[lr]",
+      "Pt-br": "\"Do que você está falando? Esse vai ser o seu novo corpo, então escolha com seriedade.\"[lr]",
+      "id": 16348,
+      "epk_id": "15519",
+      "label": "$$$message_0119_0017_0000$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=イリヤ02a(中) textoff=0][monocro target=all time=100][fadebgm time=100 volume=0][line len=4]What?[lr]",
+      "jp": "　[chgfg time=300 storage=イリヤ02a(中) textoff=0][monocro target=all time=100][fadebgm time=100 volume=0][line len=4]はい？[lr]",
+      "Pt-br": "[chgfg time=300 storage=イリヤ02a(中) textoff=0][monocro target=all time=100][fadebgm time=100 volume=0][line len=4]O quê?[lr]",
+      "id": 16349,
+      "epk_id": "15520",
+      "label": "$$$message_0119_0017_0001$$$"
+    },
+    {
+      "en": "What did Illya say just now?",
+      "jp": "　いま、イリヤはなんて言った？",
+      "Pt-br": "O que Illya acabou de dizer?",
+      "id": 16350,
+      "epk_id": "15521",
+      "label": "$$$message_0119_0017_0002$$$"
+    },
+    {
+      "en": "\"Illya, hold on. Um, what does that mean?\"[lr]",
+      "jp": "「イリヤ、ちょっと待ってくれ。その、それはどういう意味だ？」[lr]",
+      "Pt-br": "\"Illya, espera aí. Hum, o que isso significa?\"[lr]",
+      "id": 16351,
+      "epk_id": "15522",
+      "label": "$$$message_0119_0018_0000$$$"
+    },
+    {
+      "en": "\"It's a secret. [cacheimage storage=イリヤ06f(中)][wvl][chgfg time=300 storage=イリヤ06f(中) textoff=0]Oh, this one's cute too [humming] I think I'd enjoy bullying you in this form [humming]\"[lr]",
+      "jp": "「ないしょ、ないしょ。[cacheimage storage=イリヤ06f(中)][wvl][chgfg time=300 storage=イリヤ06f(中) textoff=0]あ、こっちもかわいいー♪　いじめがいありそー♪」[lr]",
+      "Pt-br": "\"É segredo. [cacheimage storage=イリヤ06f(中)][wvl][chgfg time=300 storage=イリヤ06f(中) textoff=0]Ah, esse também é fofo. [humming] Acho que seria divertido implicar com você nessa forma. [humming]\"[lr]",
+      "id": 16352,
+      "epk_id": "15523",
+      "label": "$$$message_0119_0018_0001$$$"
+    },
+    {
+      "en": "[clfg textoff=0 rule=シャッター左から time=300 pos=all]She happily looks at other stuffed toys.",
+      "jp": "　[clfg textoff=0 rule=シャッター左から time=300 pos=all]なんて、嬉しそうに他のぬいぐるみに目を移す。",
+      "Pt-br": "[clfg textoff=0 rule=シャッター左から time=300 pos=all]Ela volta a olhar as outras pelúcias toda contente.",
+      "id": 16353,
+      "epk_id": "15524",
+      "label": "$$$message_0119_0018_0002$$$"
+    },
+    {
+      "en": "\"...Maybe I should run away.\"[lr]",
+      "jp": "「……………………逃げようかな、俺」[lr]",
+      "Pt-br": "\"...Talvez eu devesse fugir.\"[lr]",
+      "id": 16354,
+      "epk_id": "15525",
+      "label": "$$$message_0119_0019_0000$$$"
+    },
+    {
+      "en": "I'm resenting myself for murmuring that I can't leave Illya earlier.[lr]",
+      "jp": "　イリヤを置いて行けない、と呟いたさっきまでの自分が恨めしい。[lr]",
+      "Pt-br": "Agora me arrependo de ter murmurado que não podia abandonar Illya.[lr]",
+      "id": 16355,
+      "epk_id": "15526",
+      "label": "$$$message_0119_0019_0001$$$"
+    },
+    {
+      "en": "N-No, it's gotta be a joke![lr]",
+      "jp": "　い、いや、きっと冗談だ冗談！[lr]",
+      "Pt-br": "N-não, só pode ser uma brincadeira![lr]",
+      "id": 16356,
+      "epk_id": "15527",
+      "label": "$$$message_0119_0019_0002$$$"
+    },
+    {
+      "en": "...Umm, just in case, maybe I'll splurge on desserts on the way back home and butter Illya up, hahaha...",
+      "jp": "　…………えー、念のため、帰りにデザートを奮発して、イリヤのご機嫌をとっておこうかな、ははは……",
+      "Pt-br": "...Bem, por via das dúvidas, talvez eu gaste um pouco com sobremesas no caminho de volta para amaciar a Illya, hahaha...",
+      "id": 16357,
+      "epk_id": "15528",
+      "label": "$$$message_0119_0019_0003$$$"
+    },
+    {
+      "en": "\"Hmm, which one should I get?\"[r]",
+      "jp": "「うーん、[r]どれがいいかなー」",
+      "Pt-br": "\"Hmm, qual eu levo?\"[r]",
+      "id": 16358,
+      "epk_id": "915485",
+      "label": "$$$message_9119_0006_0000$$$"
+    }
+  ]
+}

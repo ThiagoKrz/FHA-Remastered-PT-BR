@@ -1,0 +1,768 @@
+{
+  "cena": "1gfmn6a17p7tn37pcvucb8evo9",
+  "titulo": "Cidade: Rider Fazendo Tarefas, Não Voltou",
+  "rota": "Dia 2",
+  "arquivo": "1gfmn6a17p7tn37pcvucb8evo9.epk_dec",
+  "linhas": [
+    {
+      "en": "I stop by Mount Miyama on a whim.[lr]",
+      "jp": "　気紛れでマウント深山商店街に立ち寄る。[lr]",
+      "Pt-br": "Resolvo passar pelo Monte Miyama por impulso.[lr]",
+      "id": 11529,
+      "epk_id": "13064",
+      "label": "$$$message_0105_0000_0000$$$"
+    },
+    {
+      "en": "\"...Oh?\"[lr]",
+      "jp": "「……お？」[lr]",
+      "Pt-br": "\"...Oh?\"[lr]",
+      "id": 11530,
+      "epk_id": "13065",
+      "label": "$$$message_0105_0000_0001$$$"
+    },
+    {
+      "en": "There's Rider. It doesn't seem like she has work today, but... She's acting weird.",
+      "jp": "　ライダーがいる。今日はバイトではないようだが……なんとなく様子がおかしい。",
+      "Pt-br": "Lá está a Rider. Parece que hoje ela não trabalha, mas... tem alguma coisa estranha no jeito dela.",
+      "id": 11531,
+      "epk_id": "13066",
+      "label": "$$$message_0105_0000_0002$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「………………」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 11532,
+      "epk_id": "13067",
+      "label": "$$$message_0105_0001_0000$$$"
+    },
+    {
+      "en": "[font italic=true]...Is she buying groceries?[font italic=false][lr]",
+      "jp": "　……アレは買い出し、だろうか？[lr]",
+      "Pt-br": "[font italic=true]...Ela está fazendo compras?[font italic=false][lr]",
+      "id": 11533,
+      "epk_id": "13068",
+      "label": "$$$message_0105_0001_0001$$$"
+    },
+    {
+      "en": "She's looking back and forth at the products at the storefront and the note in her hand and is scrunching her eyebrows.",
+      "jp": "　店頭の品物と手元のメモを交互に眺め、眉間に皺を寄せている。",
+      "Pt-br": "Ela alterna o olhar entre os produtos da vitrine e o bilhete na mão, franzindo as sobrancelhas.",
+      "id": 11534,
+      "epk_id": "13069",
+      "label": "$$$message_0105_0001_0002$$$"
+    },
+    {
+      "en": "\"......Ahh.\"[lr]",
+      "jp": "「……[line len=3]……はぁ」[lr]",
+      "Pt-br": "\"......Ahh.\"[lr]",
+      "id": 11535,
+      "epk_id": "13070",
+      "label": "$$$message_0105_0002_0000$$$"
+    },
+    {
+      "en": "She's sighing.[lr]",
+      "jp": "　溜息なんか吐いたりして。[lr]",
+      "Pt-br": "Ela suspira.[lr]",
+      "id": 11536,
+      "epk_id": "13071",
+      "label": "$$$message_0105_0002_0001$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=ライダー私服01e(遠) textoff=0]It seems like the lady can't help but be curious about Rider too.[lr]",
+      "jp": "　[chgfg time=300 storage=ライダー私服01e(遠) textoff=0]おばちゃんもライダーが気になって仕方ないようだ。[lr]",
+      "Pt-br": "[chgfg time=300 storage=ライダー私服01e(遠) textoff=0]Parece que até a dona da loja está curiosa com a Rider.[lr]",
+      "id": 11537,
+      "epk_id": "13072",
+      "label": "$$$message_0105_0002_0002$$$"
+    },
+    {
+      "en": "I feel like Rider's shopping won't end until the sun sets at this rate.",
+      "jp": "　このままだと日が暮れてもライダーの買い物が終わらない気がした。",
+      "Pt-br": "Nesse ritmo, tenho a impressão de que as compras da Rider só vão terminar ao pôr do Sol.",
+      "id": 11538,
+      "epk_id": "13073",
+      "label": "$$$message_0105_0002_0003$$$"
+    },
+    {
+      "en": "\"Hey. Rider, are you troubled by something?\"[lr]",
+      "jp": "「おーい。ライダー、何か困ってる？」[lr]",
+      "Pt-br": "\"Ei, Rider. Está com algum problema?\"[lr]",
+      "id": 11539,
+      "epk_id": "13074",
+      "label": "$$$message_0105_0003_0000$$$"
+    },
+    {
+      "en": "\"Is that you, Shirou!?\"[lr]",
+      "jp": "「[line len=3]士郎ですか！？」[lr]",
+      "Pt-br": "\"É você, Shirou!?\"[lr]",
+      "id": 11540,
+      "epk_id": "13075",
+      "label": "$$$message_0105_0003_0001$$$"
+    },
+    {
+      "en": "She must've really been focused on her note.[lr]",
+      "jp": "　よっぽどメモに気を取られたのか。[lr]",
+      "Pt-br": "Ela devia estar mesmo concentrada na nota.[lr]",
+      "id": 11541,
+      "epk_id": "13076",
+      "label": "$$$message_0105_0003_0002$$$"
+    },
+    {
+      "en": "For Rider, who usually notices if you enter within her five-meter radius, it's rare how she's surprised like this.",
+      "jp": "　いつもは五メートル圏内に入ればこっちに気付くライダーにしては、この驚き方は珍しい。",
+      "Pt-br": "Para a Rider, que normalmente percebe qualquer um entrando num raio de cinco metros, é raro ser pega tão de surpresa.",
+      "id": 11542,
+      "epk_id": "13077",
+      "label": "$$$message_0105_0003_0003$$$"
+    },
+    {
+      "en": "\"Oh... Are you shopping too, Shirou?\"[lr]",
+      "jp": "「あ……士郎も買い物ですか？」[lr]",
+      "Pt-br": "\"Ah... Você também está fazendo compras, Shirou?\"[lr]",
+      "id": 11543,
+      "epk_id": "13078",
+      "label": "$$$message_0105_0004_0000$$$"
+    },
+    {
+      "en": "\"Yeah. You're also shopping, right?\"[lr]",
+      "jp": "「そんなところ。ライダーの方こそ買い物なんだろ？」[lr]",
+      "Pt-br": "\"É. Você também veio fazer compras, né?\"[lr]",
+      "id": 11544,
+      "epk_id": "13079",
+      "label": "$$$message_0105_0004_0001$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=ライダー私服01e(中) textoff=0]She seems to be disappointed that she's been caught.[lr]",
+      "jp": "　[chgfg time=300 storage=ライダー私服01e(中) textoff=0]見つかってしまいましたか[line len=3]と言いたそうな落胆。[lr]",
+      "Pt-br": "[chgfg time=300 storage=ライダー私服01e(中) textoff=0]Ela parece desapontada por ter sido flagrada.[lr]",
+      "id": 11545,
+      "epk_id": "13080",
+      "label": "$$$message_0105_0004_0002$$$"
+    },
+    {
+      "en": "She's acting so timid, which is hard to imagine from the usual dauntless Rider.",
+      "jp": "　いつも毅然としたライダーからは想像できない気弱ぶりだ。",
+      "Pt-br": "Ela está tão tímida que é difícil associar isso à Rider destemida de sempre.",
+      "id": 11546,
+      "epk_id": "13081",
+      "label": "$$$message_0105_0004_0003$$$"
+    },
+    {
+      "en": "\"Shirou. May I ask you one thing?\"[lr]",
+      "jp": "「士郎。一つ、訊ねても宜しいですか？」[lr]",
+      "Pt-br": "\"Shirou. Posso lhe perguntar uma coisa?\"[lr]",
+      "id": 11547,
+      "epk_id": "13082",
+      "label": "$$$message_0105_0005_0000$$$"
+    },
+    {
+      "en": "\"Hm?\"[lr]",
+      "jp": "「ん？」[lr]",
+      "Pt-br": "\"Hm?\"[lr]",
+      "id": 11548,
+      "epk_id": "13083",
+      "label": "$$$message_0105_0005_0001$$$"
+    },
+    {
+      "en": "\"Since when were you watching me?\"[lr]",
+      "jp": "「いつ頃から私を見ていたのでしょう？」[lr]",
+      "Pt-br": "\"Desde quando estava me observando?\"[lr]",
+      "id": 11549,
+      "epk_id": "13084",
+      "label": "$$$message_0105_0005_0002$$$"
+    },
+    {
+      "en": "\"Since you seemed to be troubled looking at the note here... Could it be that you're not good at shopping, Rider?\"",
+      "jp": "「さっき、ここでメモを見ながら困ってたあたりから……もしかして、ライダーって買い物不得意？」",
+      "Pt-br": "\"Desde que você começou a encarar esse bilhete com cara de apuro... Por acaso você não se dá bem com compras, Rider?\"",
+      "id": 11550,
+      "epk_id": "13085",
+      "label": "$$$message_0105_0005_0003$$$"
+    },
+    {
+      "en": "You couldn't possibly say that she's good at it after watching her.[lr]",
+      "jp": "　あの様子で得意だ、とは到底言えないだろう。[lr]",
+      "Pt-br": "Depois de ver aquela cena, não dá para dizer que ela leva jeito.[lr]",
+      "id": 11551,
+      "epk_id": "13086",
+      "label": "$$$message_0105_0006_0000$$$"
+    },
+    {
+      "en": "Rider stares at me and drops her shoulders.",
+      "jp": "　ライダーは俺をじろりと眺めると、また肩を落とす。",
+      "Pt-br": "A Rider olha para mim e deixa os ombros caírem.",
+      "id": 11552,
+      "epk_id": "13087",
+      "label": "$$$message_0105_0006_0001$$$"
+    },
+    {
+      "en": "\"No... It would be easy if it were just a lightbulb.\"[lr]",
+      "jp": "「いえ……電球くらいであれば簡単なのですが」[lr]",
+      "Pt-br": "\"Não... Seria fácil se fosse apenas uma lâmpada.\"[lr]",
+      "id": 11553,
+      "epk_id": "13088",
+      "label": "$$$message_0105_0007_0000$$$"
+    },
+    {
+      "en": "Come to think of it, when the light went out the day before yesterday, Rider went to go buy it at lightning speed.",
+      "jp": "　そういえば一昨日に脱衣所の電気が切れたとき、ライダーが電光石火の勢いで買ってきてくれた。そういう急な入り用の時は実に頼もしい。",
+      "Pt-br": "Pensando bem, quando a luz acabou anteontem, a Rider foi comprar uma na velocidade da luz.",
+      "id": 11554,
+      "epk_id": "13089",
+      "label": "$$$message_0105_0007_0001$$$"
+    },
+    {
+      "en": "\"So it means you have a weak point... Could it be food ingredients?\"[lr]",
+      "jp": "「不得手があるってこと……もしかして、食料品関係？」[lr]",
+      "Pt-br": "\"Então quer dizer que você também tem ponto fraco... Será que são ingredientes?\"[lr]",
+      "id": 11555,
+      "epk_id": "13090",
+      "label": "$$$message_0105_0008_0000$$$"
+    },
+    {
+      "en": "\"...You saw right through me.\"[lr]",
+      "jp": "「……お見通しでしたか」[lr]",
+      "Pt-br": "\"...Você me leu perfeitamente.\"[lr]",
+      "id": 11556,
+      "epk_id": "13091",
+      "label": "$$$message_0105_0008_0001$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=ライダー私服01e(中) textoff=0]Rider nods.[lr]",
+      "jp": "　[chgfg time=300 storage=ライダー私服01e(中) textoff=0]こっくりと頷くライダー。[lr]",
+      "Pt-br": "[chgfg time=300 storage=ライダー私服01e(中) textoff=0]A Rider assente.[lr]",
+      "id": 11557,
+      "epk_id": "13092",
+      "label": "$$$message_0105_0008_0002$$$"
+    },
+    {
+      "en": "I feel guilty for admiring such a beauty in the middle of the busy street.",
+      "jp": "　こんな美人を往来で[ruby text=うなだ char=2]項垂れさせては、罪悪感に駆られてしまう。",
+      "Pt-br": "Sinto até um pouco de culpa por ficar admirando uma beleza dessas no meio da rua movimentada.",
+      "id": 11558,
+      "epk_id": "13093",
+      "label": "$$$message_0105_0008_0003$$$"
+    },
+    {
+      "en": "\"But, you have a list, right?\"[lr]",
+      "jp": "「でも、メモがあるんだろ？」[lr]",
+      "Pt-br": "\"Mas você tem uma lista, não tem?\"[lr]",
+      "id": 11559,
+      "epk_id": "13094",
+      "label": "$$$message_0105_0009_0000$$$"
+    },
+    {
+      "en": "\"Yes, Sakura told me what I need to get.\"[lr]",
+      "jp": "「はい、入り用の物はサクラが教えてくれました」[lr]",
+      "Pt-br": "\"Sim. A Sakura me disse o que devo comprar.\"[lr]",
+      "id": 11560,
+      "epk_id": "13095",
+      "label": "$$$message_0105_0009_0001$$$"
+    },
+    {
+      "en": "It shouldn't be hard if there's a shopping list that Sakura, the current leader of the kitchen, made.",
+      "jp": "　当家厨房の重鎮・桜のお買い物メモがあるなら難しい事はない筈だが……。",
+      "Pt-br": "Não devia ser difícil com uma lista feita pela Sakura, a atual comandante da cozinha.",
+      "id": 11561,
+      "epk_id": "13096",
+      "label": "$$$message_0105_0009_0002$$$"
+    },
+    {
+      "en": "\"It is this, but...\"[lr]",
+      "jp": "「これなのですが……」[lr]",
+      "Pt-br": "\"É esta, mas...\"[lr]",
+      "id": 11562,
+      "epk_id": "13097",
+      "label": "$$$message_0105_0010_0000$$$"
+    },
+    {
+      "en": "Rider shows me the list.[lr]",
+      "jp": "　ライダーが俺にメモを見せてくれる。[lr]",
+      "Pt-br": "A Rider me mostra a lista.[lr]",
+      "id": 11563,
+      "epk_id": "13098",
+      "label": "$$$message_0105_0010_0001$$$"
+    },
+    {
+      "en": "It says, \"two heads of lettuce\" and \"chicken\" in Sakura's neat handwriting.",
+      "jp": "　桜らしい几帳面な文字で、レタス２玉、鳥股肉、とか書き連ねてある。",
+      "Pt-br": "Na letra caprichada da Sakura, está escrito: \"dois pés de alface\" e \"frango\".",
+      "id": 11564,
+      "epk_id": "13099",
+      "label": "$$$message_0105_0010_0002$$$"
+    },
+    {
+      "en": "\"Oh. It's easy if you have this.\"[lr]",
+      "jp": "「なんだ。これがあるんなら簡単じゃないか」[lr]",
+      "Pt-br": "\"Ah. Com isso fica fácil.\"[lr]",
+      "id": 11565,
+      "epk_id": "13100",
+      "label": "$$$message_0105_0011_0000$$$"
+    },
+    {
+      "en": "\"It must be easy for you since you cook.[lr]",
+      "jp": "「確かに料理をする士郎なら簡単でしょう。[lr]",
+      "Pt-br": "\"Para você, que cozinha, deve ser fácil.[lr]",
+      "id": 11566,
+      "epk_id": "13101",
+      "label": "$$$message_0105_0011_0001$$$"
+    },
+    {
+      "en": "However, it is too vague for someone like me who does not cook.\"[lr]",
+      "jp": "　ですが、料理をしない私には曖昧すぎて困ります」[lr]",
+      "Pt-br": "Mas, para alguém como eu, que não cozinha, isso é vago demais.\"[lr]",
+      "id": 11567,
+      "epk_id": "13102",
+      "label": "$$$message_0105_0011_0002$$$"
+    },
+    {
+      "en": "[font italic=true]Huh...?[font italic=false][lr]",
+      "jp": "　……？[lr]",
+      "Pt-br": "[font italic=true]Hã...?[font italic=false][lr]",
+      "id": 11568,
+      "epk_id": "13103",
+      "label": "$$$message_0105_0011_0003$$$"
+    },
+    {
+      "en": "I don't get what she's trying to say.",
+      "jp": "　言わんとするコトがよく分からない。",
+      "Pt-br": "Não entendo aonde ela quer chegar.",
+      "id": 11569,
+      "epk_id": "13104",
+      "label": "$$$message_0105_0011_0004$$$"
+    },
+    {
+      "en": "\"...Well, for example, if it's a tomato...\"[lr]",
+      "jp": "「……そうですね、たとえばトマトですか、そこの」[lr]",
+      "Pt-br": "\"...Bem, por exemplo, no caso dos tomates...\"[lr]",
+      "id": 11570,
+      "epk_id": "13105",
+      "label": "$$$message_0105_0012_0000$$$"
+    },
+    {
+      "en": "Rider points at bright red tomatoes that are 312 yen for three and 530 yen for six.[lr]",
+      "jp": "　ライダーが指さすのは、３玉３１２円と６玉５３０円の真っ赤なトマト。[lr]",
+      "Pt-br": "A Rider aponta para tomates bem vermelhos: três por 312 ienes, seis por 530.[lr]",
+      "id": 11571,
+      "epk_id": "13106",
+      "label": "$$$message_0105_0012_0001$$$"
+    },
+    {
+      "en": "...If I were to choose, then I think I would get the six-pack. There won't be enough for salad if I don't have that much...",
+      "jp": "　……選ぶなら六つの方かな。それくらいないとサラダにも足りないし……って、あ。",
+      "Pt-br": "...Se fosse comigo, acho que pegaria a bandeja com seis. Menos que isso não daria para a salada...",
+      "id": 11572,
+      "epk_id": "13107",
+      "label": "$$$message_0105_0012_0002$$$"
+    },
+    {
+      "en": "\"There are differences in the producing area and price, but it is hard for me to decide which one Sakura would prefer.\"[lr]",
+      "jp": "「産地と値段の差があるので、果たしてどちらがサクラの希望に合う物なのかを私が判断するのは難しいのです」[lr]",
+      "Pt-br": "\"A procedência e o preço são diferentes, mas é difícil decidir qual deles a Sakura preferiria.\"[lr]",
+      "id": 11573,
+      "epk_id": "13108",
+      "label": "$$$message_0105_0013_0000$$$"
+    },
+    {
+      "en": "\"...Isn't the one that's cheaper by unit fine?\"[lr]",
+      "jp": "「……一個当たりの安い方でいいんじゃないのか？」[lr]",
+      "Pt-br": "\"...Não basta pegar o mais barato por unidade?\"[lr]",
+      "id": 11574,
+      "epk_id": "13109",
+      "label": "$$$message_0105_0013_0001$$$"
+    },
+    {
+      "en": "We aren't that particular when it comes to tomatoes.[lr]",
+      "jp": "　我が家ではトマトにそこまでのこだわりはない。[lr]",
+      "Pt-br": "Nós não somos tão exigentes quando se trata de tomates.[lr]",
+      "id": 11575,
+      "epk_id": "13110",
+      "label": "$$$message_0105_0013_0002$$$"
+    },
+    {
+      "en": "Tohsaka seems to have her own opinion, but I bet Sakura isn't like that.",
+      "jp": "　遠坂には一家言があるようだが、桜はそうじゃないだろうし。",
+      "Pt-br": "A Tohsaka parece ter sua própria opinião, mas aposto que a Sakura não é assim.",
+      "id": 11576,
+      "epk_id": "13111",
+      "label": "$$$message_0105_0013_0003$$$"
+    },
+    {
+      "en": "\"Tomatoes and lettuce are still fine. When it comes to potatoes, there's baron potatoes and May Queen potatoes, so it makes me troubled not knowing which food she plans to use them for.\"",
+      "jp": "「トマトやレタスならまだ良いのです。ジャガイモになると男爵とメークインがあるので、どの料理に使うつもりなのか判らなくて困り果てます」",
+      "Pt-br": "\"Tomates e alface ainda são simples. Mas, quando se trata de batatas, há variedades como Danshaku e May Queen. Sem saber que prato ela pretende fazer, fico indecisa.\"",
+      "id": 11577,
+      "epk_id": "13112",
+      "label": "$$$message_0105_0014_0000$$$"
+    },
+    {
+      "en": "\"If this was meat, then there's home-grown and foreign-grown, even within home-grown there's wagyu and brand name, plus there are ones where the price per gram is mixed, and when there are sale items on top of that, I become stunned.\"[lr]",
+      "jp": "「これがお肉になると国内産と外国産、さらに国内産でも和牛と銘柄、さらにグラム単価が異なるものが混在し、特価品やセールの有無などが絡むと私は呆然となります」[lr]",
+      "Pt-br": "\"Com carne, então, há a nacional e a importada; dentro da nacional ainda existe wagyu, carnes de marca, preços por grama que variam... e, quando ainda colocam promoções por cima, eu fico atônita.\"[lr]",
+      "id": 11578,
+      "epk_id": "13113",
+      "label": "$$$message_0105_0015_0000$$$"
+    },
+    {
+      "en": "\"...I see. I totally get your worries.\"[lr]",
+      "jp": "「……なるほど。ライダーの悩みはよく分かった」[lr]",
+      "Pt-br": "\"...Entendi. Agora entendo perfeitamente a sua aflição.\"[lr]",
+      "id": 11579,
+      "epk_id": "13114",
+      "label": "$$$message_0105_0015_0001$$$"
+    },
+    {
+      "en": "In other words, it's hard for her to come up with a strategy for shopping when she doesn't have the vision for cooking.",
+      "jp": "　つまり、料理のビジョンがないので買い物の戦略が立てづらいんだ。",
+      "Pt-br": "Em outras palavras, sem imaginar o prato final, ela não consegue montar uma estratégia de compras.",
+      "id": 11580,
+      "epk_id": "13115",
+      "label": "$$$message_0105_0015_0002$$$"
+    },
+    {
+      "en": "Whether it's going to be steak or stew today.[lr]",
+      "jp": "　今日はステーキにするのか、それともシチューなのか。[lr]",
+      "Pt-br": "Se hoje a carne vai virar bife ou ensopado, por exemplo.[lr]",
+      "id": 11581,
+      "epk_id": "13116",
+      "label": "$$$message_0105_0016_0000$$$"
+    },
+    {
+      "en": "Unlike me or Sakura who think of that and can change our strategy, it must be difficult for Rider to guess what the intentions of the upper management must be as a shopping soldier.",
+      "jp": "　それを考えて戦略変更できるキッチンの司令官である俺や桜と違って、買い物兵卒のライダーには上層部の意向が悩ましいのだろう。",
+      "Pt-br": "Para a Rider, uma soldada das compras tentando adivinhar as intenções do alto-comando, deve ser difícil. Eu e a Sakura conseguimos pensar nisso e mudar de estratégia, mas ela não.",
+      "id": 11582,
+      "epk_id": "13117",
+      "label": "$$$message_0105_0016_0001$$$"
+    },
+    {
+      "en": "\"I am glad you understand, Shirou.\"[lr]",
+      "jp": "「お分かりいただけたようで恐縮です、士郎」[lr]",
+      "Pt-br": "\"Fico feliz que você entenda, Shirou.\"[lr]",
+      "id": 11583,
+      "epk_id": "13118",
+      "label": "$$$message_0105_0017_0000$$$"
+    },
+    {
+      "en": "\"You must be having a hard time. Oh, but...\"[lr]",
+      "jp": "「いろいろ苦労してるんだな。あ、でもな」[lr]",
+      "Pt-br": "\"Você deve estar passando aperto. Ah, mas...\"[lr]",
+      "id": 11584,
+      "epk_id": "13119",
+      "label": "$$$message_0105_0017_0001$$$"
+    },
+    {
+      "en": "I remember there's another Servant at our place.[lr]",
+      "jp": "　我が家のもう一人のサーヴァントの事を思い出した。[lr]",
+      "Pt-br": "Lembro que temos outra Serva lá em casa.[lr]",
+      "id": 11585,
+      "epk_id": "13120",
+      "label": "$$$message_0105_0017_0002$$$"
+    },
+    {
+      "en": "She goes shopping quite often, but I don't hear about anything similar.",
+      "jp": "　彼女も結構良く買い物に行くけど、似た話は聞かない。",
+      "Pt-br": "Ela também faz compras com frequência, mas nunca ouvi falar de nada parecido.",
+      "id": 11586,
+      "epk_id": "13121",
+      "label": "$$$message_0105_0017_0003$$$"
+    },
+    {
+      "en": "\"I don't hear about Saber being troubled about shopping.\"[lr]",
+      "jp": "「セイバーは買い物で困ったって話は聞かないぞ？」[lr]",
+      "Pt-br": "\"Nunca ouvi dizer que a Saber tenha problema para fazer compras.\"[lr]",
+      "id": 11587,
+      "epk_id": "13122",
+      "label": "$$$message_0105_0018_0000$$$"
+    },
+    {
+      "en": "\"...Excuse me, but there is a big difference between me and her.\"[lr]",
+      "jp": "「……失礼ですが、彼女と私には一つ、大きな差があります」[lr]",
+      "Pt-br": "\"...Perdão, mas existe uma grande diferença entre mim e ela.\"[lr]",
+      "id": 11588,
+      "epk_id": "13123",
+      "label": "$$$message_0105_0018_0001$$$"
+    },
+    {
+      "en": "\"What kind of difference?\"",
+      "jp": "「どんな差？」",
+      "Pt-br": "\"Que tipo de diferença?\"",
+      "id": 11589,
+      "epk_id": "13124",
+      "label": "$$$message_0105_0018_0002$$$"
+    },
+    {
+      "en": "\"She has a very big appetite. That is why she makes decisions when shopping on a different level.[lr]",
+      "jp": "「彼女は実に食欲旺盛です。ですから彼女は別のレベルで買い物を判断するのです。[lr]",
+      "Pt-br": "\"Ela tem um apetite enorme. Por isso toma decisões nas compras em outro nível.[lr]",
+      "id": 11590,
+      "epk_id": "13125",
+      "label": "$$$message_0105_0019_0000$$$"
+    },
+    {
+      "en": "...To choose something that looks delicious.\"[lr]",
+      "jp": "　[line len=3]美味しそうなものを選ぶ、と」[lr]",
+      "Pt-br": "...Ela escolhe aquilo que parece delicioso.\"[lr]",
+      "id": 11591,
+      "epk_id": "13126",
+      "label": "$$$message_0105_0019_0001$$$"
+    },
+    {
+      "en": "\"Oh...\"[lr]",
+      "jp": "「ああ[line len=3]」[lr]",
+      "Pt-br": "\"Ah...\"[lr]",
+      "id": 11592,
+      "epk_id": "13127",
+      "label": "$$$message_0105_0019_0002$$$"
+    },
+    {
+      "en": "Simple is best.[lr]",
+      "jp": "　シンプルイズベスト。[lr]",
+      "Pt-br": "O simples é melhor.[lr]",
+      "id": 11593,
+      "epk_id": "13128",
+      "label": "$$$message_0105_0019_0003$$$"
+    },
+    {
+      "en": "That's right, Saber is as honest and straightforward as someone splitting bamboo.[lr]",
+      "jp": "　そうでした、セイバーにはそういう、竹を割ったかのような潔さがあるのだった。[lr]",
+      "Pt-br": "É verdade. A Saber é honesta e direta como bambu rachado ao meio.[lr]",
+      "id": 11594,
+      "epk_id": "13129",
+      "label": "$$$message_0105_0019_0004$$$"
+    },
+    {
+      "en": "Of course, that includes the straightforwardness of not taking price into regard.",
+      "jp": "　無論、金額を顧みない潔さも含まれている。",
+      "Pt-br": "Claro que essa franqueza inclui não dar a menor bola para o preço.",
+      "id": 11595,
+      "epk_id": "13130",
+      "label": "$$$message_0105_0019_0005$$$"
+    },
+    {
+      "en": "\"...Should I ask Sakura to make a more detailed list next time?\"[lr]",
+      "jp": "「……今度はもっと細かいリストを作ってもらうように、俺からも桜に頼もうか？」[lr]",
+      "Pt-br": "\"...Quer que eu peça para a Sakura fazer uma lista mais detalhada da próxima vez?\"[lr]",
+      "id": 11596,
+      "epk_id": "13131",
+      "label": "$$$message_0105_0020_0000$$$"
+    },
+    {
+      "en": "\"I had her do that once, but that also caused different problems...\"",
+      "jp": "「一度そうして貰ったことがあるのですが、それはそれで問題が生じます……」",
+      "Pt-br": "\"Já pedi isso uma vez, mas aí surgiram outros problemas...\"",
+      "id": 11597,
+      "epk_id": "13132",
+      "label": "$$$message_0105_0020_0001$$$"
+    },
+    {
+      "en": "I bet Rider must've been debating intensely whether she should buy something that differs from the conditions of the list.[lr]",
+      "jp": "　きっと、その時はリストの条件から外れる買い物をするべきかどうかをライダーは激しく悩んだのだろう。[lr]",
+      "Pt-br": "Aposto que a Rider ficou debatendo consigo mesma se podia comprar algo que fugisse das condições da lista.[lr]",
+      "id": 11598,
+      "epk_id": "13133",
+      "label": "$$$message_0105_0021_0000$$$"
+    },
+    {
+      "en": "If I try to take drastic measures to resolve the situation, that would be...",
+      "jp": "　ここから抜本的な解決を図ろうとすれば、それは。",
+      "Pt-br": "Se eu fosse propor uma solução drástica para resolver isso, seria...",
+      "id": 11599,
+      "epk_id": "13134",
+      "label": "$$$message_0105_0021_0001$$$"
+    },
+    {
+      "en": "\"You should learn how to cook too, Rider. If you do, then you'll find your own kind of answer.\"[lr]",
+      "jp": "「ライダーも料理を覚えればいい。そうすれば自分なりの答えが見つかるぞ」[lr]",
+      "Pt-br": "\"Você também devia aprender a cozinhar, Rider. Assim vai acabar encontrando as suas próprias respostas.\"[lr]",
+      "id": 11600,
+      "epk_id": "13135",
+      "label": "$$$message_0105_0022_0000$$$"
+    },
+    {
+      "en": "\"Even if I start learning how to cook, I do not have the confidence in my palate, so I will not be anywhere near as good as you two. Sakura also tells me that I need to learn how...\" ",
+      "jp": "「私が料理を始めても、味覚に自信がないので御二方には遠く及びません。サクラには私も出来るようにならなければ、と言われるのですが……」",
+      "Pt-br": "\"Mesmo que eu comece a aprender, não confio no meu paladar. Não chegarei nem perto de vocês dois. A Sakura também diz que preciso aprender...\" ",
+      "id": 11601,
+      "epk_id": "13136",
+      "label": "$$$message_0105_0022_0001$$$"
+    },
+    {
+      "en": "Sakura must be thinking of her as a girl.[lr]",
+      "jp": "　それは桜の女の子らしい心遣いなんだろう、きっと。[lr]",
+      "Pt-br": "A Sakura deve estar pensando nela como uma menina.[lr]",
+      "id": 11602,
+      "epk_id": "13137",
+      "label": "$$$message_0105_0023_0000$$$"
+    },
+    {
+      "en": "There's no conviction even if I tell Rider to learn how to cook.",
+      "jp": "　俺がライダーに料理出来るようになれ、と言っても何の説得力もないんだし。",
+      "Pt-br": "Mesmo dizendo para a Rider aprender a cozinhar, eu não consigo falar com muita convicção.",
+      "id": 11603,
+      "epk_id": "13138",
+      "label": "$$$message_0105_0023_0001$$$"
+    },
+    {
+      "en": "\"...All right, got it.[lr]",
+      "jp": "「……よし、わかった。[lr]",
+      "Pt-br": "\"...Certo, entendi.[lr]",
+      "id": 11604,
+      "epk_id": "13139",
+      "label": "$$$message_0105_0024_0000$$$"
+    },
+    {
+      "en": "Putting aside whether you'll learn how to cook or not, I'll keep you company. I have some time anyway.\"[lr]",
+      "jp": "　とりあえず料理を覚えるかは置いておいて、ライダーの買い物につきあうよ。暇だし」[lr]",
+      "Pt-br": "Deixando a cozinha para depois, eu faço companhia. Tenho um pouco de tempo mesmo.\"[lr]",
+      "id": 11605,
+      "epk_id": "13140",
+      "label": "$$$message_0105_0024_0001$$$"
+    },
+    {
+      "en": "\"...Are you sure, Shirou?\"[lr]",
+      "jp": "「……よろしいのですか？　士郎」[lr]",
+      "Pt-br": "\"...Tem certeza, Shirou?\"[lr]",
+      "id": 11606,
+      "epk_id": "13141",
+      "label": "$$$message_0105_0024_0002$$$"
+    },
+    {
+      "en": "\"Yeah. I also use the things in the refrigerator, so it would be better if we bought it together rather than separately, right?\"",
+      "jp": "「ああ。冷蔵庫の中の物は俺も使うんだし、ばらばらに買い物するより一緒の方がいいだろう」",
+      "Pt-br": "\"É. Eu também uso as coisas da geladeira, então é melhor comprarmos juntos do que separados, não acha?\"",
+      "id": 11607,
+      "epk_id": "13142",
+      "label": "$$$message_0105_0024_0003$$$"
+    },
+    {
+      "en": "Besides, I'd also be able to teach her detailed techniques if we go shopping together.[lr]",
+      "jp": "　それに、一緒に買い物をすれば細かいテクニックを教えてあげられる。[lr]",
+      "Pt-br": "Além disso, se formos juntos, posso ensinar alguns macetes mais específicos.[lr]",
+      "id": 11608,
+      "epk_id": "13143",
+      "label": "$$$message_0105_0025_0000$$$"
+    },
+    {
+      "en": "How to choose vegetables, meat, when to aim for the sale, etc. There are a lot of things that would become easier just by knowing.",
+      "jp": "　野菜の選び方、肉の選び方、タイムセールの狙い時等々、軽く知るだけで楽になるコトは多いのだ。",
+      "Pt-br": "Como escolher verduras e carnes, quando mirar nas promoções, esse tipo de coisa. Só saber já facilita bastante.",
+      "id": 11609,
+      "epk_id": "13144",
+      "label": "$$$message_0105_0025_0001$$$"
+    },
+    {
+      "en": "\"...I'm glad. I appreciate it, Shirou.\"[lr]",
+      "jp": "「[line len=3]良かった。感謝します、士郎」[lr]",
+      "Pt-br": "\"...Fico feliz. Obrigada, Shirou.\"[lr]",
+      "id": 11610,
+      "epk_id": "13145",
+      "label": "$$$message_0105_0026_0000$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=ライダー私服01c(中) textoff=0]Rider stretches and bows politely.",
+      "jp": "　[chgfg time=300 storage=ライダー私服01c(中) textoff=0]ライダーは背筋を伸ばし、丁重にお辞儀をする。",
+      "Pt-br": "[chgfg time=300 storage=ライダー私服01c(中) textoff=0]A Rider endireita a postura e faz uma reverência educada.",
+      "id": 11611,
+      "epk_id": "13146",
+      "label": "$$$message_0105_0026_0001$$$"
+    },
+    {
+      "en": "\"I will definitely return the favor another time.\"[lr]",
+      "jp": "「この恩は後日必ず返させていただきます」[lr]",
+      "Pt-br": "\"Retribuirei esse favor sem falta em outra ocasião.\"[lr]",
+      "id": 11612,
+      "epk_id": "13147",
+      "label": "$$$message_0105_0027_0000$$$"
+    },
+    {
+      "en": "\"You don't have to be that formal. It's just shopping for groceries.\"[lr]",
+      "jp": "「そんなにかしこまらなくてもいいよ。買い物に過ぎないんだから」[lr]",
+      "Pt-br": "\"Não precisa ser tão formal. São só compras de mercado.\"[lr]",
+      "id": 11613,
+      "epk_id": "13148",
+      "label": "$$$message_0105_0027_0001$$$"
+    },
+    {
+      "en": "...How troubling, I'm a bit embarrassed.[lr]",
+      "jp": "　……まいったな、少し気恥ずかしい。[lr]",
+      "Pt-br": "...Que situação. Fico até um pouco sem graça.[lr]",
+      "id": 11614,
+      "epk_id": "13149",
+      "label": "$$$message_0105_0027_0002$$$"
+    },
+    {
+      "en": "It's rare to be depended on by such a timid Rider.",
+      "jp": "　こんな弱気なライダーに頼りにされる、というのは滅多にないコトだし。",
+      "Pt-br": "É raro uma Rider tão tímida assim depender de mim.",
+      "id": 11615,
+      "epk_id": "13150",
+      "label": "$$$message_0105_0027_0003$$$"
+    },
+    {
+      "en": "\"...What is wrong? Your face is red, Shirou.\"[lr]",
+      "jp": "「……どうしました？　顔が赤いですよ？　士郎」[lr]",
+      "Pt-br": "\"...O que houve? Seu rosto está vermelho, Shirou.\"[lr]",
+      "id": 11616,
+      "epk_id": "13151",
+      "label": "$$$message_0105_0028_0000$$$"
+    },
+    {
+      "en": "\"N-Nothing.\"[lr]",
+      "jp": "「な、なんでもない」[lr]",
+      "Pt-br": "\"N-Nada.\"[lr]",
+      "id": 11617,
+      "epk_id": "13152",
+      "label": "$$$message_0105_0028_0001$$$"
+    },
+    {
+      "en": "\"Could it be that you are blushing like this when you go shopping with Sakura, too?\"[lr]",
+      "jp": "「もしや、サクラと一緒に買い物する時もそのように顔を赤くしているのですか？」[lr]",
+      "Pt-br": "\"Será que também fica assim, corado, quando vai às compras com a Sakura?\"[lr]",
+      "id": 11618,
+      "epk_id": "13153",
+      "label": "$$$message_0105_0028_0002$$$"
+    },
+    {
+      "en": "\"I said it's nothing, [wvl][shock vmax=20 time=400 count=-3]I mean it!\"",
+      "jp": "「なんでもないんだってば、[wvl][shock vmax=20 time=400 count=-3]いやほんとに！」",
+      "Pt-br": "\"Eu já disse que não é nada, [wvl][shock vmax=20 time=400 count=-3]é sério!\"",
+      "id": 11619,
+      "epk_id": "13154",
+      "label": "$$$message_0105_0028_0003$$$"
+    },
+    {
+      "en": "\"...I hope so.[lr]",
+      "jp": "「……ならいいのですが。[lr]",
+      "Pt-br": "\"...Espero que sim.[lr]",
+      "id": 11620,
+      "epk_id": "13155",
+      "label": "$$$message_0105_0029_0000$$$"
+    },
+    {
+      "en": "Then let us get the things that are easy to reach first. First is vegetables, but...\"[lr]",
+      "jp": "　それでは手近なところから片づけていきましょう。まずは野菜からですが……」[lr]",
+      "Pt-br": "Então vamos pegar primeiro o que está mais fácil de alcançar. Comecemos pelos vegetais, mas...\"[lr]",
+      "id": 11621,
+      "epk_id": "13156",
+      "label": "$$$message_0105_0029_0001$$$"
+    },
+    {
+      "en": "\"Got it[line len=3]Let's get moving.\"",
+      "jp": "「了解[line len=3]しゃきしゃき行こう」",
+      "Pt-br": "\"Entendi[line len=3]Vamos nessa.\"",
+      "id": 11622,
+      "epk_id": "13157",
+      "label": "$$$message_0105_0029_0002$$$"
+    },
+    {
+      "en": "\"Shirou. May I ask you one thing?\"[r]",
+      "jp": "「士郎。一つ、訊ねても[r]宜しいですか？」",
+      "Pt-br": "\"Shirou. Posso lhe perguntar uma coisa?\"[r]",
+      "id": 11623,
+      "epk_id": "913082",
+      "label": "$$$message_9105_0005_0000$$$"
+    }
+  ]
+}

@@ -1,0 +1,704 @@
+{
+  "cena": "5n5dp54stb58s0ab5c3b4t8lv4",
+  "titulo": "Monstro",
+  "rota": "Noite",
+  "arquivo": "5n5dp54stb58s0ab5c3b4t8lv4.epk_dec",
+  "linhas": [
+    {
+      "en": "I arrive at Rider's bedroom.[lr]",
+      "jp": "　ライダーの部屋に到着。[lr]",
+      "Pt-br": "Chego ao quarto da Rider.[lr]",
+      "id": 22427,
+      "epk_id": "27566",
+      "label": "$$$message_0204_0000_0000$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「………………」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 22428,
+      "epk_id": "27567",
+      "label": "$$$message_0204_0000_0001$$$"
+    },
+    {
+      "en": "I'm reluctant to be here, but I need to hear Rider's thoughts.[lr]",
+      "jp": "　気は進まないが、ライダーの考えを聞いておかなくてはならない。[lr]",
+      "Pt-br": "Não estou exatamente à vontade aqui, mas preciso ouvir o que Rider pensa sobre isso.[lr]",
+      "id": 22429,
+      "epk_id": "27568",
+      "label": "$$$message_0204_0000_0002$$$"
+    },
+    {
+      "en": "I don't feel quite comfortable asking her during daytime, but it's easier to bring this up a little later at night.",
+      "jp": "　昼間はなんとなく聞けない雰囲気だが、こうして夜も更けて真面目に向き合えば聞きやすい。",
+      "Pt-br": "Não me sinto muito confortável perguntando durante o dia; mais tarde, à noite, o assunto sai com menos dificuldade.",
+      "id": 22430,
+      "epk_id": "27569",
+      "label": "$$$message_0204_0000_0003$$$"
+    },
+    {
+      "en": "\"Hey, Rider? I'd like to talk.\"[lr]",
+      "jp": "「おーい。ライダー、話があるんだけどー」[lr]",
+      "Pt-br": "\"Rider? Eu queria conversar.\"[lr]",
+      "id": 22431,
+      "epk_id": "27570",
+      "label": "$$$message_0204_0001_0000$$$"
+    },
+    {
+      "en": "I call her name and open the sliding door.[lr]",
+      "jp": "　声をかけて障子を開ける。[lr]",
+      "Pt-br": "Chamo pelo seu nome e abro a porta de correr.[lr]",
+      "id": 22432,
+      "epk_id": "27571",
+      "label": "$$$message_0204_0001_0001$$$"
+    },
+    {
+      "en": "I'll lead with small talk and see how she reacts before getting down to business.",
+      "jp": "　とりあえず雑談から入って、様子を見てライダーの本音を聞いてみよう。",
+      "Pt-br": "Vou começar puxando assunto e ver como ela reage antes de ir direto ao ponto.",
+      "id": 22433,
+      "epk_id": "27572",
+      "label": "$$$message_0204_0001_0002$$$"
+    },
+    {
+      "en": "\"I see. [cacheimage storage=ライダー私服02a(近)][wvl canskip=0 time=600][movefg textoff=0 opacity=255 pos=r time=1300 accel=0 storage=ライダー私服02a(近)]To be honest, I think it is fine as long as Sakura isn't in any danger. Even if the Holy Grail War intensifies and the town is on the verge of total ruin, it's no concern of mine.\"[wm canskip=0]",
+      "jp": "「そうですね。[cacheimage storage=ライダー私服02a(近)][wvl canskip=0 time=600][movefg textoff=0 opacity=255 pos=r time=1300 accel=0 storage=ライダー私服02a(近)]正直に言ってしまえば、サクラに危険が及ばなければそれでいい。仮に聖杯戦争が本格化し、街が崩壊したところで私は何も」[wm canskip=0]",
+      "Pt-br": "\"Entendo. [cacheimage storage=ライダー私服02a(近)][wvl canskip=0 time=600][movefg textoff=0 opacity=255 pos=r time=1300 accel=0 storage=ライダー私服02a(近)]Sendo honesta, para mim está tudo bem contanto que a Sakura não corra perigo. Mesmo se a Guerra do Santo Graal se intensificar e a cidade estiver à beira da ruína total, não é da minha conta.\"[wm canskip=0]",
+      "id": 22434,
+      "epk_id": "27573",
+      "label": "$$$message_0204_0002_0000$$$"
+    },
+    {
+      "en": "   So...[lr]",
+      "jp": "　[line len=3]で。[lr]",
+      "Pt-br": "   Então...[lr]",
+      "id": 22435,
+      "epk_id": "27574",
+      "label": "$$$message_0204_0003_0000$$$"
+    },
+    {
+      "en": "Rider coolly tells me how she really feels. Maybe Sakura's absence is working to my benefit.[lr]",
+      "jp": "　桜がいない事がプラスに働いたのか、ライダーはクールにホントの気持ちを語ってくれた。[lr]",
+      "Pt-br": "Rider me diz, com frieza, o que realmente pensa. Talvez a ausência da Sakura esteja jogando a meu favor.[lr]",
+      "id": 22436,
+      "epk_id": "27575",
+      "label": "$$$message_0204_0003_0001$$$"
+    },
+    {
+      "en": "I take that back[line len=2]It's anything but a benefit. She says it with such intensity that it makes me feel a chill up my spine. [wm canskip=0][wm canskip=0][rep force=1 textoff=0 fliplr=0 storages=ライダー私服02a(中) time=100 flipud=0 poss=c bg=i衛宮邸_ライダー部屋-(夜) indexes=2000]",
+      "jp": "　前言撤回、プラスじゃなくてマイナスである。あまりの迫力に背筋が凍り付きそうです。[wm canskip=0][wm canskip=0][rep force=1 textoff=0 fliplr=0 storages=ライダー私服02a(中) time=100 flipud=0 poss=c bg=i衛宮邸_ライダー部屋-(夜) indexes=2000]",
+      "Pt-br": "Retiro o que disse[line len=2]Isso não tem nada de benéfico. Ela fala com tanta intensidade que um arrepio me sobe pela espinha. [wm canskip=0][wm canskip=0][rep force=1 textoff=0 fliplr=0 storages=ライダー私服02a(中) time=100 flipud=0 poss=c bg=i衛宮邸_ライダー部屋-(夜) indexes=2000]",
+      "id": 22437,
+      "epk_id": "27576",
+      "label": "$$$message_0204_0003_0002$$$"
+    },
+    {
+      "en": "\"...I see. Um, I know it's extremely unlikely, but if Sakura does end up wanting to fight, would you join the war?\"",
+      "jp": "「……そうか。えーと、なんだ、万が一にもあり得ないんだけど、仮に桜が戦う気になったら、その時点で戦闘開始ってコトかな」",
+      "Pt-br": "\"...Entendi. Hum, sei que é extremamente improvável, mas se a Sakura acabar querendo lutar, você entraria na guerra?\"",
+      "id": 22438,
+      "epk_id": "27577",
+      "label": "$$$message_0204_0004_0000$$$"
+    },
+    {
+      "en": "\"If Sakura desires victory, then yes.[lr]",
+      "jp": "「サクラが勝利を望むのであればそうなります。[lr]",
+      "Pt-br": "\"Se a Sakura desejar a vitória, então sim.[lr]",
+      "id": 22439,
+      "epk_id": "27578",
+      "label": "$$$message_0204_0005_0000$$$"
+    },
+    {
+      "en": "I would do everything in my power to help her win the Holy Grail War this time. I'm prepared to deploy a Blood Fort of a scale beyond anything Caster has crafted, just as I did over the school.[lr]",
+      "jp": "　私は私の出来る範囲で、今度こそ聖杯戦争を勝ち抜くでしょう。学園を血に染めたように、キャスターを上回る規模でブラッドフォートを展開させる覚悟もある。[lr]",
+      "Pt-br": "Farei tudo ao meu alcance para ajudá-la a vencer a Guerra do Santo Graal desta vez. Estou preparada para ativar um Forte de Sangue numa escala muito além de qualquer coisa que Caster já tenha criado, como fiz no colégio.[lr]",
+      "id": 22440,
+      "epk_id": "27579",
+      "label": "$$$message_0204_0005_0001$$$"
+    },
+    {
+      "en": "If you intend to stop me, Shirou, I won't hold back, not even against you.\"",
+      "jp": "　士郎、それを阻むというのであれば、貴方が相手でも容赦はしません」",
+      "Pt-br": "Se pretende me impedir, Shirou, não pegarei leve nem mesmo com você.\"",
+      "id": 22441,
+      "epk_id": "27580",
+      "label": "$$$message_0204_0005_0002$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「…………」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 22442,
+      "epk_id": "27581",
+      "label": "$$$message_0204_0006_0000$$$"
+    },
+    {
+      "en": "...That's tough. It pains me to say that if some tragedy hypothetically[line len=2]just hypothetically, really[line len=2]drove Sakura to such lengths, I'm not sure I wouldn't try to stop her.[lr]",
+      "jp": "　……難しい。仮に、本当に仮に、何かの大凶殺で桜がその気になっても邪魔はしない、と言えないのが辛いところだ。[lr]",
+      "Pt-br": "...Isso é pesado. Dói admitir, mas se alguma tragédia, hipoteticamente[line len=2]só hipoteticamente mesmo[line len=2]levasse a Sakura tão longe, não tenho certeza de que eu não tentaria impedi-la.[lr]",
+      "id": 22443,
+      "epk_id": "27582",
+      "label": "$$$message_0204_0006_0001$$$"
+    },
+    {
+      "en": "If she steps off the path, then I need to correct her.[lr]",
+      "jp": "　桜が道を間違えるのなら俺は阻止するだけだ。[lr]",
+      "Pt-br": "Se ela se desviar do caminho, eu preciso trazê-la de volta.[lr]",
+      "id": 22444,
+      "epk_id": "27583",
+      "label": "$$$message_0204_0006_0002$$$"
+    },
+    {
+      "en": "Rider knows that, so she isn't asking me to take Sakura's side.",
+      "jp": "　それを承知しているから、ライダーは『サクラの味方になれ』とは言わないのだ。",
+      "Pt-br": "Rider sabe disso, por isso não está me pedindo para ficar do lado da Sakura.",
+      "id": 22445,
+      "epk_id": "27584",
+      "label": "$$$message_0204_0006_0003$$$"
+    },
+    {
+      "en": "\"Okay. Let's set aside the what-ifs.[lr]",
+      "jp": "「いっか、そんなもしもの話は置いておいて。[lr]",
+      "Pt-br": "\"Ok. Vamos deixar os 'e se' de lado.[lr]",
+      "id": 22446,
+      "epk_id": "27585",
+      "label": "$$$message_0204_0007_0000$$$"
+    },
+    {
+      "en": "I'm surprised, Rider. I thought you were a more passive person.\"[lr]",
+      "jp": "　しかし意外だな。ライダーはもっと受動的な性格だと思ってた」[lr]",
+      "Pt-br": "Estou surpreso, Rider. Achei que você fosse mais passiva.\"[lr]",
+      "id": 22447,
+      "epk_id": "27586",
+      "label": "$$$message_0204_0007_0001$$$"
+    },
+    {
+      "en": "I didn't expect her to say she'd be willing to sacrifice every person in Fuyuki.[lr]",
+      "jp": "　自分から『街の人間を犠牲にする』なんて言いだすとは思ってもいなかった。[lr]",
+      "Pt-br": "Eu não esperava que ela dissesse que estaria disposta a sacrificar todas as pessoas de Fuyuki.[lr]",
+      "id": 22448,
+      "epk_id": "27587",
+      "label": "$$$message_0204_0007_0002$$$"
+    },
+    {
+      "en": "My impression of Rider for the last six months has been that of a woman of many interests, yet generally inactive.",
+      "jp": "　ここ半年で俺が捉えたライダー像は、色んな事に関心はあるものの、基本的に行動には移さない女性、というものだったし。",
+      "Pt-br": "A impressão que tive de Rider nestes últimos seis meses foi a de uma mulher de muitos interesses, mas quase sempre inativa.",
+      "id": 22449,
+      "epk_id": "27588",
+      "label": "$$$message_0204_0007_0003$$$"
+    },
+    {
+      "en": "\"I believe your deduction is correct, Shirou. I'm not used to acting on my own volition.[lr]",
+      "jp": "「ええ、士郎の推測は正しいと思います。私は自分から行動する事には慣れていませんから。[lr]",
+      "Pt-br": "\"Creio que sua dedução está correta, Shirou. Não estou acostumada a agir por vontade própria.[lr]",
+      "id": 22450,
+      "epk_id": "27589",
+      "label": "$$$message_0204_0008_0000$$$"
+    },
+    {
+      "en": "But that is irrelevant if conflict is thrust upon me. I will do everything I can to win a battle.[lr]",
+      "jp": "　けれど、機会がそちらから訪れるのなら話は別です。戦いになるのなら全力を尽くします。[lr]",
+      "Pt-br": "Mas isso é irrelevante se eu for forçada a um conflito. Farei tudo o que puder para vencer uma batalha.[lr]",
+      "id": 22451,
+      "epk_id": "27590",
+      "label": "$$$message_0204_0008_0001$$$"
+    },
+    {
+      "en": "I'll kill when it's time to kill, cruelly and mercilessly. I will make sure our enemy can never get up again or attempt to challenge us.\"",
+      "jp": "　殺す時は殺す。容赦なく、残酷に。二度と甦らないよう、二度と私に挑むなどと思わないように」",
+      "Pt-br": "Matarei quando chegar a hora de matar, com crueldade e sem piedade. Farei com que nosso inimigo jamais se levante de novo, nem tente nos desafiar.\"",
+      "id": 22452,
+      "epk_id": "27591",
+      "label": "$$$message_0204_0008_0002$$$"
+    },
+    {
+      "en": "\"Rider...\"[lr]",
+      "jp": "「[line len=3]ライダー」[lr]",
+      "Pt-br": "\"Rider...\"[lr]",
+      "id": 22453,
+      "epk_id": "27592",
+      "label": "$$$message_0204_0009_0000$$$"
+    },
+    {
+      "en": "...I feel a chill coming on, and I don't mean that figuratively.[lr]",
+      "jp": "　……比喩ではなく、体が凍り付きそうになった。[lr]",
+      "Pt-br": "...Sinto um frio subindo por mim, e não é força de expressão.[lr]",
+      "id": 22454,
+      "epk_id": "27593",
+      "label": "$$$message_0204_0009_0001$$$"
+    },
+    {
+      "en": "The Mystic Eyes behind her glasses have paralyzed my limbs, even though they're being held back.",
+      "jp": "　眼鏡ごしの魔眼は、抑えているだろうに、俺の手足を麻痺させる。",
+      "Pt-br": "Os Olhos Místicos por trás dos óculos paralisaram meus membros, mesmo contidos.",
+      "id": 22455,
+      "epk_id": "27594",
+      "label": "$$$message_0204_0009_0002$$$"
+    },
+    {
+      "en": "\"...But that's only if someone picks a fight.[lr]",
+      "jp": "「……でも、それはケンカを売られた時の話だろう。[lr]",
+      "Pt-br": "\"...Mas isso é só se alguém provocar uma briga.[lr]",
+      "id": 22456,
+      "epk_id": "27595",
+      "label": "$$$message_0204_0010_0000$$$"
+    },
+    {
+      "en": "No, even if Sakura wants to fight, she won't let you use methods like that. Am I wrong?\"[wm canskip=0]",
+      "jp": "　いや、仮に桜が戦う気になっても、桜はそんな方法は許さない。違うか？」[wm canskip=0]",
+      "Pt-br": "Não, mesmo que a Sakura queira lutar, ela não deixaria você usar métodos assim. Estou errado?\"[wm canskip=0]",
+      "id": 22457,
+      "epk_id": "27596",
+      "label": "$$$message_0204_0010_0001$$$"
+    },
+    {
+      "en": "\"...Most likely. But my approach fundamentally differs from hers. I believe Saber also mentioned how ruthless I can be.[lr]",
+      "jp": "「……でしょうね。けれど私とサクラの方針は根本が異なります。セイバーも言っていたでしょう。その時になれば私は手段を選ばない、と。[lr]",
+      "Pt-br": "\"...Muito provavelmente. Mas minha abordagem é fundamentalmente diferente da dela. Acredito que Saber também tenha mencionado o quanto posso ser implacável.[lr]",
+      "id": 22458,
+      "epk_id": "27597",
+      "label": "$$$message_0204_0011_0000$$$"
+    },
+    {
+      "en": "I won't deny it. I don't possess a pure, noble soul like she does. My personality morphs in battle. I would probably kill anyone as I please.\"[wm canskip=0]",
+      "jp": "　否定はしません。私はセイバーのように高潔な魂は持っていない。戦いになれば人格を変貌させ、思うままに人を殺してまわるでしょう」[wm canskip=0]",
+      "Pt-br": "Não vou negar. Não possuo uma alma pura e nobre como a dela. Em batalha, minha personalidade muda. Eu provavelmente mataria quem fosse, se me conviesse.\"[wm canskip=0]",
+      "id": 22459,
+      "epk_id": "27598",
+      "label": "$$$message_0204_0011_0001$$$"
+    },
+    {
+      "en": "...I'm getting a bad sense of déjà vu.[lr]",
+      "jp": "　……イヤな既視感だ。[lr]",
+      "Pt-br": "...Estou tendo uma sensação ruim de déjà vu.[lr]",
+      "id": 22460,
+      "epk_id": "27599",
+      "label": "$$$message_0204_0012_0000$$$"
+    },
+    {
+      "en": "Rider's self-deprecating words[lr]",
+      "jp": "　自嘲めいたライダーの発言に、[lr]",
+      "Pt-br": "As palavras autodepreciativas de Rider[lr]",
+      "id": 22461,
+      "epk_id": "27600",
+      "label": "$$$message_0204_0012_0001$$$"
+    },
+    {
+      "en": "conjure sinister images in my mind.",
+      "jp": "　ふと、不吉なイメージが重なった。",
+      "Pt-br": "conjuram imagens sinistras na minha mente.",
+      "id": 22462,
+      "epk_id": "27601",
+      "label": "$$$message_0204_0012_0002$$$"
+    },
+    {
+      "en": "\"You're wrong... [wvl][shock vmax=20 time=300 count=-3]That won't happen, Rider.[lr]",
+      "jp": "「違う[line len=3][wvl][shock vmax=20 time=300 count=-3]そんな事はない、ライダー。[lr]",
+      "Pt-br": "\"Você está errada... [wvl][shock vmax=20 time=300 count=-3]Isso não vai acontecer, Rider.[lr]",
+      "id": 22463,
+      "epk_id": "27602",
+      "label": "$$$message_0204_0013_0000$$$"
+    },
+    {
+      "en": "We've lived under the same roof for half a year. I can tell what kind of person you are, whether I want to or not. You aren't a... I won't let you say that you haven't changed.\"[lr]",
+      "jp": "　半年も同じ家で暮らしたんだぞ？　ライダーがどんな人間かはイヤでも感じ取れる。おまえ[line len=3]あんたが、あんなのと同じだなんて言わせない」[lr]",
+      "Pt-br": "Vivemos sob o mesmo teto há meio ano. Querendo ou não, eu sei que tipo de pessoa você é. Você não é uma... Não vou deixar você dizer que não mudou.\"[lr]",
+      "id": 22464,
+      "epk_id": "27603",
+      "label": "$$$message_0204_0013_0001$$$"
+    },
+    {
+      "en": "My dizziness must be affecting me.[lr]",
+      "jp": "　目眩のせいだ。[lr]",
+      "Pt-br": "Devo estar falando assim por causa da tontura.[lr]",
+      "id": 22465,
+      "epk_id": "27604",
+      "label": "$$$message_0204_0013_0002$$$"
+    },
+    {
+      "en": "I feel like a fool. I'm getting way too emotional.",
+      "jp": "　バカみたく、オレらしくなく、感情を発火させた。",
+      "Pt-br": "Me sinto um idiota. Estou emotivo demais.",
+      "id": 22466,
+      "epk_id": "27605",
+      "label": "$$$message_0204_0013_0003$$$"
+    },
+    {
+      "en": "\"...Shirou. This is a good time to give you a warning.[lr]",
+      "jp": "「……士郎。いい機会です、一つ忠告しておきましょう。[lr]",
+      "Pt-br": "\"...Shirou. Então este é um bom momento para avisá-lo.[lr]",
+      "id": 22467,
+      "epk_id": "27606",
+      "label": "$$$message_0204_0014_0000$$$"
+    },
+    {
+      "en": "I am a monster, a being of terror, just as your legends describe.[lr]",
+      "jp": "　私は怪物です。貴方たちが伝え聞いた通りの、人々に恐れられた魔物なのです。[lr]",
+      "Pt-br": "Eu sou um monstro, um ser de terror, exatamente como suas lendas descrevem.[lr]",
+      "id": 22468,
+      "epk_id": "27607",
+      "label": "$$$message_0204_0014_0001$$$"
+    },
+    {
+      "en": "My hands are stained with blood. In the past, many heroes challenged my temple, and I devoured them all without exception.[lr]",
+      "jp": "　この手は血に汚れている。かつて私は神殿で多くの勇者に挑まれ、例外なく食い尽くした。[lr]",
+      "Pt-br": "Minhas mãos estão manchadas de sangue. No passado, muitos heróis desafiaram meu templo, e eu devorei a todos sem exceção.[lr]",
+      "id": 22469,
+      "epk_id": "27608",
+      "label": "$$$message_0204_0014_0002$$$"
+    },
+    {
+      "en": "Just because I have taken on a human form doesn't mean my past can be denied.\"",
+      "jp": "　こうして今ヒトの姿をしているからと言って、それを否定する事はできません」",
+      "Pt-br": "Só porque assumi uma forma humana não significa que meu passado possa ser negado.\"",
+      "id": 22470,
+      "epk_id": "27609",
+      "label": "$$$message_0204_0014_0003$$$"
+    },
+    {
+      "en": "\"...I know the legend of Medusa.[lr]",
+      "jp": "「……メドゥーサの伝説は知ってる。[lr]",
+      "Pt-br": "\"...Eu conheço a lenda da Medusa.[lr]",
+      "id": 22471,
+      "epk_id": "27610",
+      "label": "$$$message_0204_0015_0000$$$"
+    },
+    {
+      "en": "But they forced that on you. You were always getting attacked.\"[lr]",
+      "jp": "　けどあれは向こうからやってきたもんだろ。ライダーはいつだって襲われる側だったじゃないか」[lr]",
+      "Pt-br": "Mas isso foi imposto a você. Você vivia sendo atacada.\"[lr]",
+      "id": 22472,
+      "epk_id": "27611",
+      "label": "$$$message_0204_0015_0001$$$"
+    },
+    {
+      "en": "It wasn't Rider's fault that they vilified her as a monster, nor that humans kept coming after her.[lr]",
+      "jp": "　醜い怪物にされたのも、人間に狙われるようになったのも、ライダーの[ruby text=とが]咎じゃない。[lr]",
+      "Pt-br": "Não foi culpa de Rider terem transformado sua imagem na de um monstro, nem os humanos continuarem indo atrás dela.[lr]",
+      "id": 22473,
+      "epk_id": "27612",
+      "label": "$$$message_0204_0015_0002$$$"
+    },
+    {
+      "en": "The monster known as Medusa was a victim from start to finish.",
+      "jp": "　メドゥーサという女怪は、むしろ最後まで被害者だった筈だ。",
+      "Pt-br": "O monstro conhecido como Medusa foi uma vítima do começo ao fim.",
+      "id": 22474,
+      "epk_id": "27613",
+      "label": "$$$message_0204_0015_0003$$$"
+    },
+    {
+      "en": "\"...The fact you aren't attacking people right now proves it. You cherish Sakura, and you're considerate to the rest of us, too. You're a proper human.\"",
+      "jp": "「……その証拠に、今ここにいるライダーは人を襲わない。桜を大事に思ってくれて、俺たちにだって気を遣ってくれる、ちゃんとした人間だ」",
+      "Pt-br": "\"...O fato de você não estar atacando ninguém agora prova isso. Você preza pela Sakura e também é atenciosa com todos nós. Você é humana de verdade.\"",
+      "id": 22475,
+      "epk_id": "27614",
+      "label": "$$$message_0204_0016_0000$$$"
+    },
+    {
+      "en": "\"...That's only because I'm here as Medusa the Heroic Spirit.[lr]",
+      "jp": "「……それは私が英霊としてのメドゥーサだからです。[lr]",
+      "Pt-br": "\"...Isso é só porque estou aqui como Medusa, o Espírito Heroico.[lr]",
+      "id": 22476,
+      "epk_id": "27615",
+      "label": "$$$message_0204_0017_0000$$$"
+    },
+    {
+      "en": "Servants, no, Heroic Spirits are summoned as heroes in the prime of their lives. The version of me that's here is called Medusa, but it's only a representation of me when I still looked like a human.\"",
+      "jp": "　サーヴァント、いえ、英霊は英雄の全盛期の姿で召喚されます。今ここにいる私は、メドゥーサと呼ばれたモノが、人のカタチをしていた頃の私にすぎません」",
+      "Pt-br": "Servos, não, Espíritos Heroicos, são invocados como heróis no auge de suas vidas. A versão de mim que está aqui se chama Medusa, mas é apenas a representação de quando eu ainda parecia humana.\"",
+      "id": 22477,
+      "epk_id": "27616",
+      "label": "$$$message_0204_0017_0001$$$"
+    },
+    {
+      "en": "\"However, the fact that I am Medusa means that there is an aspect of me that will change into a monster.[lr]",
+      "jp": "「……ですが、メドゥーサである以上、怪物に変貌する側面もあるのです。[lr]",
+      "Pt-br": "\"Porém, o fato de eu ser Medusa significa que existe em mim um aspecto destinado a se transformar em monstro.[lr]",
+      "id": 22478,
+      "epk_id": "27617",
+      "label": "$$$message_0204_0018_0000$$$"
+    },
+    {
+      "en": "I'm not the person you imagine me to be.[lr]",
+      "jp": "　私は貴方が思い描く人間ではない。[lr]",
+      "Pt-br": "Não sou a pessoa que você imagina que eu seja.[lr]",
+      "id": 22479,
+      "epk_id": "27618",
+      "label": "$$$message_0204_0018_0001$$$"
+    },
+    {
+      "en": "Medusa is a literal monster, a hideous creature who grew endlessly and became known to humanity as an absolute evil.\"",
+      "jp": "　ソレは文字通りの怪物で、醜悪に変貌し、際限なく増大した、人間にとっての絶対悪と呼ばれるものです」",
+      "Pt-br": "Medusa é, literalmente, um monstro; uma criatura hedionda que cresceu sem parar e ficou conhecida pela humanidade como um mal absoluto.\"",
+      "id": 22480,
+      "epk_id": "27619",
+      "label": "$$$message_0204_0018_0002$$$"
+    },
+    {
+      "en": "\"...Ngh.\"[lr]",
+      "jp": "「…………っ」[lr]",
+      "Pt-br": "\"...Ngh.\"[lr]",
+      "id": 22481,
+      "epk_id": "27620",
+      "label": "$$$message_0204_0019_0000$$$"
+    },
+    {
+      "en": "...I've thought about this before,[lr]",
+      "jp": "　……俺だって考えた事はある。[lr]",
+      "Pt-br": "...Eu já tinha pensado sobre isso antes,[lr]",
+      "id": 22482,
+      "epk_id": "27621",
+      "label": "$$$message_0204_0019_0001$$$"
+    },
+    {
+      "en": "the differences between the monster from Greek mythology and the Rider I know.[lr]",
+      "jp": "　ギリシャ神話における女怪と、今のライダーの姿の違いを。[lr]",
+      "Pt-br": "as diferenças entre o monstro da mitologia grega e a Rider que eu conheço.[lr]",
+      "id": 22483,
+      "epk_id": "27622",
+      "label": "$$$message_0204_0019_0002$$$"
+    },
+    {
+      "en": "I had a vague notion that the legends were wrong,[lr]",
+      "jp": "　俺は漠然と、伝説の方が間違いなのだと思っていた。[lr]",
+      "Pt-br": "Eu tinha uma vaga noção de que as lendas estavam erradas,[lr]",
+      "id": 22484,
+      "epk_id": "27623",
+      "label": "$$$message_0204_0019_0003$$$"
+    },
+    {
+      "en": "but wishful thinking is no comfort before this very real curse.",
+      "jp": "　だが[line len=3]そんな都合のいい話は、この呪詛の前では気休めにもならない。",
+      "Pt-br": "mas pensamento otimista nenhum serve de consolo diante de uma maldição tão real.",
+      "id": 22485,
+      "epk_id": "27624",
+      "label": "$$$message_0204_0019_0004$$$"
+    },
+    {
+      "en": "\"I killed, and I changed each time I took a life.[lr]",
+      "jp": "「私は殺しました。殺す度に変わっていった。[lr]",
+      "Pt-br": "\"Eu matei, e mudava a cada vida que tirava.[lr]",
+      "id": 22486,
+      "epk_id": "27625",
+      "label": "$$$message_0204_0020_0000$$$"
+    },
+    {
+      "en": "The greater my reputation became, the more humans came to challenge me.[lr]",
+      "jp": "　私の名が強大になればなるほど、挑んでくる人間の数は増えていく。[lr]",
+      "Pt-br": "Quanto maior minha fama se tornava, mais humanos vinham me desafiar.[lr]",
+      "id": 22487,
+      "epk_id": "27626",
+      "label": "$$$message_0204_0020_0001$$$"
+    },
+    {
+      "en": "Humans, monsters, and heroes will always be at odds with each other. Humans cannot defeat monsters. No matter how many thousands of soldiers they send, they will never overcome monsters as long as they remain [font italic=true]human[font italic=false]. That law protected me and allowed my monstrous tendencies to grow.\"[wm canskip=0][wdash canskip=0]",
+      "jp": "　人と魔と英雄は循環する勢力です。人間は魔には敵わない。何千の兵隊を差し向けようが、[ruby text=・]人である限り[ruby text=･･ o2o=1]怪物には太刀打ちできない。私はその法則に守られ、より怪物としての属性を強めていった」[wm canskip=0][wdash canskip=0]",
+      "Pt-br": "Humanos, monstros e heróis sempre estarão em oposição. Humanos não conseguem derrotar monstros. Não importa quantos milhares de soldados enviem: enquanto continuarem [font italic=true]humanos[font italic=false], jamais superarão monstros. Essa lei me protegeu e permitiu que minhas tendências monstruosas crescessem.\"[wm canskip=0][wdash canskip=0]",
+      "id": 22488,
+      "epk_id": "27627",
+      "label": "$$$message_0204_0020_0002$$$"
+    },
+    {
+      "en": "Humans, demons, and heroes are deadlocked.[lr]",
+      "jp": "　人間と悪魔と英雄の三すくみ。[lr]",
+      "Pt-br": "Humanos, demônios e heróis estão num impasse.[lr]",
+      "id": 22489,
+      "epk_id": "27628",
+      "label": "$$$message_0204_0021_0000$$$"
+    },
+    {
+      "en": "Humans can't beat monsters, monsters are defeated by heroes, and heroes are regulated by humans.[lr]",
+      "jp": "　人は魔に勝てず、魔は英雄に倒され、英雄は人に粛正される。[lr]",
+      "Pt-br": "Humanos não conseguem derrotar monstros, monstros são derrotados por heróis, e heróis são regulados por humanos.[lr]",
+      "id": 22490,
+      "epk_id": "27629",
+      "label": "$$$message_0204_0021_0001$$$"
+    },
+    {
+      "en": "Protected by that law, Medusa became a monster who matured as she slaughtered human after human, until she was eventually offered up as a sacrifice to a hero...[wm canskip=0]",
+      "jp": "　その法則に守られ、怪物と化したメドゥーサは際限なく人間の群を殺戮しその度に成長し、回り回って、一人の英雄に生け贄として捧げられた[line len=3][wm canskip=0]",
+      "Pt-br": "Protegida por essa lei, Medusa se tornou um monstro que amadureceu enquanto massacrava humano após humano, até que finalmente foi oferecida como sacrifício a um herói...[wm canskip=0]",
+      "id": 22491,
+      "epk_id": "27630",
+      "label": "$$$message_0204_0021_0002$$$"
+    },
+    {
+      "en": "\"That is my true identity, Shirou. You have no idea what my original body was like.[lr]",
+      "jp": "「[line len=3]それが私の正体です、士郎。私の[ruby text=オリジナル char=2]大本になる存在がどのような姿か、貴方は知らない。[lr]",
+      "Pt-br": "\"Essa é a minha verdadeira identidade, Shirou. Você não faz ideia de como era o meu corpo original.[lr]",
+      "id": 22492,
+      "epk_id": "27631",
+      "label": "$$$message_0204_0022_0000$$$"
+    },
+    {
+      "en": "You don't know how long I was trapped in that temple. You have no inkling of what I grew and morphed into after eating countless heroes.[lr]",
+      "jp": "　この『私』が神殿に閉じこもり、どれほどの歳月と勇者を呑み込んでどんなモノに[ruby text=へんぼう char=2]成長してしまうかなど、貴方には分からない。[lr]",
+      "Pt-br": "Você não sabe por quanto tempo fiquei presa naquele templo. Não faz ideia do que cresceu e se deformou em mim depois de devorar incontáveis heróis.[lr]",
+      "id": 22493,
+      "epk_id": "27632",
+      "label": "$$$message_0204_0022_0001$$$"
+    },
+    {
+      "en": "...Even I can't imagine what sort of monster I'll become eventually.\"",
+      "jp": "　……私にだって、このあと私がどんな怪物になるか、考える事さえできないのですから」",
+      "Pt-br": "...Nem eu consigo imaginar que tipo de monstro acabarei me tornando.\"",
+      "id": 22494,
+      "epk_id": "27633",
+      "label": "$$$message_0204_0022_0002$$$"
+    },
+    {
+      "en": "Rider confesses that she'll always be an incarnation of a monster, no matter what she does to make up for her past deeds.[lr]",
+      "jp": "　自らの業、どんなに取り繕っても自分は怪物の分身なのだと、ライダーは告白する。[lr]",
+      "Pt-br": "Rider confessa que sempre será a encarnação de um monstro, não importa o que faça para expiar os atos do passado.[lr]",
+      "id": 22495,
+      "epk_id": "27634",
+      "label": "$$$message_0204_0023_0000$$$"
+    },
+    {
+      "en": "I don't have the right or the power to deny that. ",
+      "jp": "　俺には、それを否定する資格も力もない。",
+      "Pt-br": "Não tenho o direito nem a força para negar isso. ",
+      "id": 22496,
+      "epk_id": "27635",
+      "label": "$$$message_0204_0023_0001$$$"
+    },
+    {
+      "en": "\"...Why are you saying all this now?[lr]",
+      "jp": "「……なんだって、こんな時に言うんだ。[lr]",
+      "Pt-br": "\"...Por que está me dizendo tudo isso agora?[lr]",
+      "id": 22497,
+      "epk_id": "27636",
+      "label": "$$$message_0204_0024_0000$$$"
+    },
+    {
+      "en": "I've never seen you that way, and that won't change.[lr]",
+      "jp": "　俺はライダーをそんな風に見たコトはないし、これからだって変わらない。[lr]",
+      "Pt-br": "Eu nunca te vi desse jeito, e isso não vai mudar.[lr]",
+      "id": 22498,
+      "epk_id": "27637",
+      "label": "$$$message_0204_0024_0001$$$"
+    },
+    {
+      "en": "Just like Saber...\"[lr]",
+      "jp": "　ただ、セイバーと同じように[line len=3]」[lr]",
+      "Pt-br": "Assim como a Saber...\"[lr]",
+      "id": 22499,
+      "epk_id": "27638",
+      "label": "$$$message_0204_0024_0002$$$"
+    },
+    {
+      "en": "I don't want them to get dragged into another war. I regret that her answer to that is this confession.",
+      "jp": "　この先、無闇に戦わないでほしいと思い[line len=3]その答えがこの告白なのだと、後悔した。",
+      "Pt-br": "Eu não quero que elas sejam arrastadas para outra guerra. Dói que a resposta dela a isso seja esta confissão.",
+      "id": 22500,
+      "epk_id": "27639",
+      "label": "$$$message_0204_0024_0003$$$"
+    },
+    {
+      "en": "\"...I'm being pathetic. All I can do is tell you not to do that.\"[lr]",
+      "jp": "「……なさけない。俺には、ライダーにそんな事をするなって、言う事しかできない」[lr]",
+      "Pt-br": "\"...Estou sendo patético. Tudo o que consigo fazer é dizer para você não fazer isso.\"[lr]",
+      "id": 22501,
+      "epk_id": "27640",
+      "label": "$$$message_0204_0025_0000$$$"
+    },
+    {
+      "en": "\"No, it was mean-spirited of me, too. I felt an urge to mess with you, for some reason.\"",
+      "jp": "「いいえ、私も意地が悪かった。どうしてか今の士郎に話して困らせたい、と思ったのです」",
+      "Pt-br": "\"Não, eu também fui maldosa. Por algum motivo, senti vontade de provocá-lo.\"",
+      "id": 22502,
+      "epk_id": "27641",
+      "label": "$$$message_0204_0025_0001$$$"
+    },
+    {
+      "en": "\"But I'm glad we talked. Your perspective on me is nice, even if it's also pointed.[lr]",
+      "jp": "「けれどこれで良かった。貴方が日々私に抱いてくれる間違いは、嬉しくもあり辛くもあった。[lr]",
+      "Pt-br": "\"Mas fico feliz por termos conversado. A maneira como você me vê é gentil, mesmo que também acerte onde dói.[lr]",
+      "id": 22503,
+      "epk_id": "27642",
+      "label": "$$$message_0204_0026_0000$$$"
+    },
+    {
+      "en": "That's why I wanted you to know this, should the time ever come.\"",
+      "jp": "　だから、もしもの時の為に、きちんと知っておいてほしかったのです」",
+      "Pt-br": "Por isso eu queria que soubesse, caso esse momento um dia chegue.\"",
+      "id": 22504,
+      "epk_id": "27643",
+      "label": "$$$message_0204_0026_0001$$$"
+    },
+    {
+      "en": "I don't feel the dark presence from her anymore.[lr]",
+      "jp": "　先ほどまでの暗い影は感じられない。[lr]",
+      "Pt-br": "Já não sinto aquela presença sombria emanando dela.[lr]",
+      "id": 22505,
+      "epk_id": "27644",
+      "label": "$$$message_0204_0027_0000$$$"
+    },
+    {
+      "en": "Rider's back to her usual self. She gives me a bow.",
+      "jp": "　ライダーは、今まで通りのライダーとして、ぺこりと俺に頭を下げた。",
+      "Pt-br": "Rider voltou ao normal. Ela se inclina para mim.",
+      "id": 22506,
+      "epk_id": "27645",
+      "label": "$$$message_0204_0027_0001$$$"
+    },
+    {
+      "en": "\"I'm sorry for troubling you, but please don't forget, Shirou. I will become a man-eating monster when the time comes.\"[lr]",
+      "jp": "「迷惑をかけてすみません。ですが忘れないでください士郎。その時になれば、私は人間を食らう怪物になるという事を」[lr]",
+      "Pt-br": "\"Desculpe incomodá-lo com isso, mas, por favor, não se esqueça, Shirou. Quando chegar a hora, eu me tornarei um monstro devorador de homens.\"[lr]",
+      "id": 22507,
+      "epk_id": "27646",
+      "label": "$$$message_0204_0028_0000$$$"
+    },
+    {
+      "en": "I hear a faint pleading in her voice.[lr]",
+      "jp": "　声には、かすかな懇願がある。[lr]",
+      "Pt-br": "Ouço uma súplica fraca em sua voz.[lr]",
+      "id": 22508,
+      "epk_id": "27647",
+      "label": "$$$message_0204_0028_0001$$$"
+    },
+    {
+      "en": "\"...All right. I'll be ready.[lr]",
+      "jp": "「[line len=3]分かった。その時は俺も覚悟を決める。[lr]",
+      "Pt-br": "\"...Certo. Estarei pronto.[lr]",
+      "id": 22509,
+      "epk_id": "27648",
+      "label": "$$$message_0204_0028_0002$$$"
+    },
+    {
+      "en": "But that is just a what-if. As long as Sakura is your Master, it won't ever come to that.\"",
+      "jp": "　けどそれはもしもの話だ。桜がライダーのマスターである限り、決して“その時”なんて来ないよ」",
+      "Pt-br": "Mas isso é só uma hipótese. Enquanto Sakura for sua Mestre, nunca chegaremos a esse ponto.\"",
+      "id": 22510,
+      "epk_id": "27649",
+      "label": "$$$message_0204_0028_0003$$$"
+    },
+    {
+      "en": "I wonder how much of Rider's feelings I managed to understand.[lr]",
+      "jp": "　ライダーの気持ちをどれだけ汲み取れたのか。[lr]",
+      "Pt-br": "Pergunto-me quanto dos sentimentos de Rider eu consegui compreender.[lr]",
+      "id": 22511,
+      "epk_id": "27650",
+      "label": "$$$message_0204_0029_0000$$$"
+    },
+    {
+      "en": "For now, I just return her resolute gaze and leave her room.",
+      "jp": "　せめてまっすぐに見返して、彼女の部屋を後にした。",
+      "Pt-br": "Por ora, apenas sustento seu olhar decidido e deixo o quarto.",
+      "id": 22512,
+      "epk_id": "27651",
+      "label": "$$$message_0204_0029_0001$$$"
+    },
+    {
+      "en": "Rider coolly tells me how she really feels. Maybe Sakura's absence is working to my benefit.[r]",
+      "jp": "桜がいない事がプラスに[r]働いたのか、ライダーは[r]クールにホントの気持ち[r]を語ってくれた。",
+      "Pt-br": "Rider me diz, com frieza, o que realmente pensa. Talvez a ausência da Sakura esteja jogando a meu favor.[r]",
+      "id": 22513,
+      "epk_id": "927575",
+      "label": "$$$message_9204_0003_0001$$$"
+    }
+  ]
+}

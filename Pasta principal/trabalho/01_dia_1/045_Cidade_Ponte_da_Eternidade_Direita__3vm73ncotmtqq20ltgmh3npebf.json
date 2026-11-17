@@ -1,0 +1,760 @@
+{
+  "cena": "3vm73ncotmtqq20ltgmh3npebf",
+  "titulo": "Cidade: Ponte da Eternidade / Direita",
+  "rota": "Dia 1",
+  "arquivo": "3vm73ncotmtqq20ltgmh3npebf.epk_dec",
+  "linhas": [
+    {
+      "en": "\"Huh...?\"[lr]",
+      "jp": "「え[line len=3]？」[lr]",
+      "Pt-br": "\"Hã...?\"[lr]",
+      "id": 7621,
+      "epk_id": "11578",
+      "label": "$$$message_0092_0000_0000$$$"
+    },
+    {
+      "en": "An odd thing crosses the corner of my eye in the middle of the bridge.[lr]",
+      "jp": "　橋の途中、妙なものが視界をかすめた。[lr]",
+      "Pt-br": "Uma coisa estranha cruza o canto do meu olho no meio da ponte.[lr]",
+      "id": 7622,
+      "epk_id": "11579",
+      "label": "$$$message_0092_0000_0001$$$"
+    },
+    {
+      "en": "I pause and observe it, but I can't tell at all what it's trying to do or what it wants.[lr]",
+      "jp": "　足を止めて観察するも、何をしているのか、何がしたいのかサッパリ判らない。[lr]",
+      "Pt-br": "Faço uma pausa e o observo, mas não consigo decifrar o que ele está tentando fazer ou o que ele quer.[lr]",
+      "id": 7623,
+      "epk_id": "11580",
+      "label": "$$$message_0092_0000_0002$$$"
+    },
+    {
+      "en": "\"...What is he doing?\"[lr]",
+      "jp": "「……なにやってんだ、アイツ」[lr]",
+      "Pt-br": "\"...O que ele está fazendo?\"[lr]",
+      "id": 7624,
+      "epk_id": "11581",
+      "label": "$$$message_0092_0000_0003$$$"
+    },
+    {
+      "en": "Fortunately, there aren't any people around.[lr]",
+      "jp": "　幸い周囲に人影なし。[lr]",
+      "Pt-br": "Felizmente, não há pessoas por perto.[lr]",
+      "id": 7625,
+      "epk_id": "11582",
+      "label": "$$$message_0092_0000_0004$$$"
+    },
+    {
+      "en": "I climb up the steel frame and move to the other side to interrogate the suspicious person.",
+      "jp": "　不審な人物を問いつめるべく、鉄骨によじ登ってあちら側に移動した。",
+      "Pt-br": "Eu subo na estrutura de aço e vou para o outro lado para interrogar a pessoa suspeita.",
+      "id": 7626,
+      "epk_id": "11583",
+      "label": "$$$message_0092_0000_0005$$$"
+    },
+    {
+      "en": "The road on the bridge is empty.[lr]",
+      "jp": "　大橋上の道路は閑散としていた。[lr]",
+      "Pt-br": "A estrada na ponte está vazia.[lr]",
+      "id": 7627,
+      "epk_id": "11584",
+      "label": "$$$message_0092_0001_0000$$$"
+    },
+    {
+      "en": "There's no road closure, yet there's not a single car passing by.[lr]",
+      "jp": "　通行止めでもあるまいに、道行く自動車は一台もない。[lr]",
+      "Pt-br": "Não há nenhum bloqueio na estrada e, ainda assim, não há um único carro passando.[lr]",
+      "id": 7628,
+      "epk_id": "11585",
+      "label": "$$$message_0092_0001_0001$$$"
+    },
+    {
+      "en": "There stands the most suspicious man.",
+      "jp": "　そこに、この上なく不審な男が立っていた。",
+      "Pt-br": "Lá se encontra o homem mais suspeito.",
+      "id": 7629,
+      "epk_id": "11586",
+      "label": "$$$message_0092_0001_0002$$$"
+    },
+    {
+      "en": "\"...Hey. What are you doing here?\"[lr]",
+      "jp": "「……あのさ。こんなところで何してるんだよ、おまえ」[lr]",
+      "Pt-br": "\"...Ei. O que você está fazendo aqui?\"[lr]",
+      "id": 7630,
+      "epk_id": "11587",
+      "label": "$$$message_0092_0002_0000$$$"
+    },
+    {
+      "en": "\"You too. What are you trying to do walking around during the day without a particular objective?\"[lr]",
+      "jp": "「おまえこそ。日ごろ目的もなく歩き回って、一体何がしたいのだか」[lr]",
+      "Pt-br": "\"Digo o mesmo. O que você está tentando fazer andando por aí durante o dia sem um objetivo em particular?\"[lr]",
+      "id": 7631,
+      "epk_id": "11588",
+      "label": "$$$message_0092_0002_0001$$$"
+    },
+    {
+      "en": "...This is the usual, but there's something refreshing about how much we don't get along.",
+      "jp": "　……いつもの事だが、ここまで馬があわないと逆にスッキリするものである。",
+      "Pt-br": "...Isso é o de sempre, mas há algo revigorante no quanto nós não nos damos bem.",
+      "id": 7632,
+      "epk_id": "11589",
+      "label": "$$$message_0092_0002_0002$$$"
+    },
+    {
+      "en": "\"I'm acting within normal boundaries. The pedestrian bridge is down there. Why are you on the roadside? You're not a bird, so it's not like you to like high places...\"[lr]",
+      "jp": "「俺は常識の範囲で行動してるよ。歩道橋は下だぞ。なんだって[ruby text=こっち char=2]道路側にいるんだよ。なんとかと煙じゃあるまいし、高いところが好きってワケでも[line len=3]」[lr]",
+      "Pt-br": "\"Estou agindo dentro dos limites normais. A ponte de pedestres é lá embaixo. Por que você está na beira da estrada? Você não é um pássaro, então não é do seu feitio gostar de lugares altos...\"[lr]",
+      "id": 7633,
+      "epk_id": "11590",
+      "label": "$$$message_0092_0003_0000$$$"
+    },
+    {
+      "en": "Oh. Yikes, it seems like he does.",
+      "jp": "　あ。やだな、好きっぽいぞコイツ。",
+      "Pt-br": "Ah. Eca, parece que ele gosta.",
+      "id": 7634,
+      "epk_id": "11591",
+      "label": "$$$message_0092_0003_0001$$$"
+    },
+    {
+      "en": "\"...Well, it's not like you excessively like high places, right?[lr]",
+      "jp": "「……なんだ、無闇に好きじゃないよな、高いところ？[lr]",
+      "Pt-br": "\"...Bem, não é que você goste excessivamente de lugares altos, né?[lr]",
+      "id": 7635,
+      "epk_id": "11592",
+      "label": "$$$message_0092_0004_0000$$$"
+    },
+    {
+      "en": "I'm also okay with them to a normal extent, but not enough to go every day.\"[lr]",
+      "jp": "　俺だって人並みに大丈夫だけど、毎日出張るほど好きでもないぞ」[lr]",
+      "Pt-br": "Eu também fico bem com eles em uma extensão normal, mas não o suficiente para ir lá todos os dias.\"[lr]",
+      "id": 7636,
+      "epk_id": "11593",
+      "label": "$$$message_0092_0004_0001$$$"
+    },
+    {
+      "en": "...Wait. If it were a decent human being, that height would be scary no matter what.[lr]",
+      "jp": "　……いや。まっとうな人間なら、あれだけの高さは無条件で怖いのではないか。[lr]",
+      "Pt-br": "...Espera. Se fosse um ser humano decente, aquela altura seria assustadora não importa o que.[lr]",
+      "id": 7637,
+      "epk_id": "11594",
+      "label": "$$$message_0092_0004_0002$$$"
+    },
+    {
+      "en": "I think it's wrong as a living creature to not be cautious about a place like that where you might fall to your death if you take a wrong step.[lr]",
+      "jp": "　ああいう、一歩間違えれば転落死しそうな所に危機感を覚えないのは生物として間違ってると思う。[lr]",
+      "Pt-br": "Acho que é errado, como criatura viva, não ser cauteloso sobre um lugar como aquele, onde você pode cair para a morte se der um passo em falso.[lr]",
+      "id": 7638,
+      "epk_id": "11595",
+      "label": "$$$message_0092_0004_0003$$$"
+    },
+    {
+      "en": "Well, I won't say who, but...",
+      "jp": "　いや、誰とは言わないのだが。",
+      "Pt-br": "Bem, não direi quem, mas...",
+      "id": 7639,
+      "epk_id": "11596",
+      "label": "$$$message_0092_0004_0004$$$"
+    },
+    {
+      "en": "\"So why are you here?[lr]",
+      "jp": "「どうなんだろうそのヘン。[lr]",
+      "Pt-br": "\"Então por que você está aqui?[lr]",
+      "id": 7640,
+      "epk_id": "11597",
+      "label": "$$$message_0092_0005_0000$$$"
+    },
+    {
+      "en": "It has nothing to do with me, so I want you to explain it exactly to me.\"[lr]",
+      "jp": "　他人事じゃないんで、そこだけはハッキリさせてほしいんだけど」[lr]",
+      "Pt-br": "Isso não tem nada a ver comigo, então quero que você me explique exatamente.\"[lr]",
+      "id": 7641,
+      "epk_id": "11598",
+      "label": "$$$message_0092_0005_0001$$$"
+    },
+    {
+      "en": "\"I'm only here when I need to be. No matter how much time passes, my fundamental preferences don't change. The cause is my master.[lr]",
+      "jp": "「必要に応じた場合のみだ。どれほど年月が経とうと根本的な趣味は変わらない。原因は雇い主にある。[lr]",
+      "Pt-br": "\"Eu só estou aqui quando preciso estar. Não importa quanto tempo passe, minhas preferências fundamentais não mudam. A causa é a minha mestra.[lr]",
+      "id": 7642,
+      "epk_id": "11599",
+      "label": "$$$message_0092_0005_0002$$$"
+    },
+    {
+      "en": "...Well, let's see. Just think that preferring high places is a strength when it comes to mages.\"[lr]",
+      "jp": "　……まあ、なんだ。魔術師的に、高所を好むのは長所だと思っておけ」[lr]",
+      "Pt-br": "...Bem, vejamos. Pense apenas que preferir lugares altos é um ponto forte no que se trata de magos.\"[lr]",
+      "id": 7643,
+      "epk_id": "11600",
+      "label": "$$$message_0092_0005_0003$$$"
+    },
+    {
+      "en": "\"Mrgh.\"",
+      "jp": "「む」",
+      "Pt-br": "\"Ugh.\"",
+      "id": 7644,
+      "epk_id": "11601",
+      "label": "$$$message_0092_0005_0004$$$"
+    },
+    {
+      "en": "We both go quiet, with indescribable expressions.[lr]",
+      "jp": "　お互いなんとも言えない顔で黙り込む。[lr]",
+      "Pt-br": "Nós dois ficamos quietos, com expressões indescritíveis.[lr]",
+      "id": 7645,
+      "epk_id": "11602",
+      "label": "$$$message_0092_0006_0000$$$"
+    },
+    {
+      "en": "I understand when he tells me to \"just think that.\"",
+      "jp": "　思っておけ、というあたりに[ruby text=シンパシ char=2]共感ってしまう俺たちであった。",
+      "Pt-br": "Eu entendo quando ele me diz para \"apenas pensar isso.\"",
+      "id": 7646,
+      "epk_id": "11603",
+      "label": "$$$message_0092_0006_0001$$$"
+    },
+    {
+      "en": "\"All right, I'll pretend like this conversation didn't happen. It would benefit us both for once.\"[lr]",
+      "jp": "「よし、今の話はなかった事に。珍しくお互いの為になる」[lr]",
+      "Pt-br": "\"Certo, vou fingir que essa conversa não aconteceu. Beneficiaria a nós dois, para variar.\"[lr]",
+      "id": 7647,
+      "epk_id": "11604",
+      "label": "$$$message_0092_0007_0000$$$"
+    },
+    {
+      "en": "\"That is sensible...but let me warn you. When you cross the ocean, hold back on that and sightseeing. You must avoid bridges more than towers. The bridge that appears in that one song in particular is a matter of life or death.\"[lr]",
+      "jp": "「賢明だ。……忠告しておくが、海を渡る事になったらアレと観光は控えておけ。塔より橋が鬼門だぞ。特に、歌に出てくるような橋は命にかかわる」[lr]",
+      "Pt-br": "\"Isso é sensato... mas deixe-me avisá-lo. Quando você cruzar o oceano, contenha-se nisso e em passeios turísticos. Você deve evitar pontes mais do que torres. A ponte que aparece naquela música em particular é uma questão de vida ou morte.\"[lr]",
+      "id": 7648,
+      "epk_id": "11605",
+      "label": "$$$message_0092_0007_0001$$$"
+    },
+    {
+      "en": "\"I appreciate the valuable warning. So, can I change that fate?\"",
+      "jp": "「貴重な忠告ありがたい。……で、その運命って変えられるのかな？」",
+      "Pt-br": "\"Agradeço o valioso aviso. Então, posso mudar esse destino?\"",
+      "id": 7649,
+      "epk_id": "11606",
+      "label": "$$$message_0092_0007_0002$$$"
+    },
+    {
+      "en": "\"Now. You might be able to postpone it depending on your effort, but...[lr]",
+      "jp": "「さて。努力次第で先送りぐらいは出来そうだが。[lr]",
+      "Pt-br": "\"Atenção. Você pode até conseguir adiar, dependendo do seu esforço, mas...[lr]",
+      "id": 7650,
+      "epk_id": "11607",
+      "label": "$$$message_0092_0008_0000$$$"
+    },
+    {
+      "en": "It seems like your fate isn't something you can change with just your effort.\"",
+      "jp": "　自己の運命というものは、自分の努力だけでは変えられないそうだ」",
+      "Pt-br": "Parece que o seu destino não é algo que você pode mudar apenas com seu esforço.\"",
+      "id": 7651,
+      "epk_id": "11608",
+      "label": "$$$message_0092_0008_0001$$$"
+    },
+    {
+      "en": "Apparently you'll need to get help from others in order to make some definitive changes.[lr]",
+      "jp": "　決定的な変革には人様の手を借りるしかないという事らしい。[lr]",
+      "Pt-br": "Aparentemente, você precisará da ajuda de outras pessoas para fazer algumas mudanças definitivas.[lr]",
+      "id": 7652,
+      "epk_id": "11609",
+      "label": "$$$message_0092_0009_0000$$$"
+    },
+    {
+      "en": "...The problem is that someone who is associated with Shirou Emiya is the devil that will knock him off of the bridge called the \"demon's gate.\"",
+      "jp": "　……問題は、その鬼門とかいう橋において、衛宮士郎の行動に関われそうな[ruby text=なにもの char=2]人様こそが、衛宮士郎をたたき落とす悪魔という事なのだった。",
+      "Pt-br": "...O problema é que alguém associado a Emiya Shirou é o demônio que o derrubará da ponte chamada \"porta do demônio\".",
+      "id": 7653,
+      "epk_id": "11610",
+      "label": "$$$message_0092_0009_0001$$$"
+    },
+    {
+      "en": "\"That's not a warning. Don't make it a death sentence.\"[lr]",
+      "jp": "「それ忠告になってない。死刑宣告すんな」[lr]",
+      "Pt-br": "\"Isso não é um aviso. Não faça disso uma sentença de morte.\"[lr]",
+      "id": 7654,
+      "epk_id": "11611",
+      "label": "$$$message_0092_0010_0000$$$"
+    },
+    {
+      "en": "\"What? You're mentally prepared, right? The winter River Thames is rough. Become an expert in swimming.\"[lr]",
+      "jp": "「なに、心構えはできるだろう。冬のテムズ川は厳しいぞ？　泳ぎは達者になっておけ」[lr]",
+      "Pt-br": "\"O quê? Você está mentalmente preparado, certo? O rio Tâmisa no inverno é cruel. Torne-se um especialista em natação.\"[lr]",
+      "id": 7655,
+      "epk_id": "11612",
+      "label": "$$$message_0092_0010_0001$$$"
+    },
+    {
+      "en": "He's laughing joyfully. Dammit, he thinks it's other people's business.",
+      "jp": "　実に愉快そうに笑いやがる。クソ、もう他人事だと思いやがって。",
+      "Pt-br": "Ele está rindo alegremente. Droga, ele acha que isso é problema dos outros.",
+      "id": 7656,
+      "epk_id": "11613",
+      "label": "$$$message_0092_0010_0002$$$"
+    },
+    {
+      "en": "\"...Ugh, I don't need to hear about that much into the future. I'm asking about the current bridge.[lr]",
+      "jp": "「……ああもう、そんな先の話はいいよ。聞きたいのは今の橋の話だ。[lr]",
+      "Pt-br": "\"...Ugh, não preciso ouvir sobre isso num futuro tão distante. Estou perguntando sobre a ponte atual.[lr]",
+      "id": 7657,
+      "epk_id": "11614",
+      "label": "$$$message_0092_0011_0000$$$"
+    },
+    {
+      "en": "You must have something in mind taking position at a high place like this. Are you trying to continue the Holy Grail War?\"",
+      "jp": "　高い所で陣取るのは考えがあっての事なんだろう。おまえ、聖杯戦争を続ける気なのか」",
+      "Pt-br": "Você deve ter algo em mente, se posicionando em um lugar alto como este. Você está tentando continuar a Guerra do Santo Graal?\"",
+      "id": 7658,
+      "epk_id": "11615",
+      "label": "$$$message_0092_0011_0001$$$"
+    },
+    {
+      "en": "...Something that already happened.[lr]",
+      "jp": "　……もう通り過ぎた出来事。[lr]",
+      "Pt-br": "...Algo que já aconteceu.[lr]",
+      "id": 7659,
+      "epk_id": "11616",
+      "label": "$$$message_0092_0012_0000$$$"
+    },
+    {
+      "en": "Based on a confrontation that has nothing to do with us, the Shirou Emiya who couldn't pass through the bridge before, is now able to.[lr]",
+      "jp": "　俺たちには関わりのない対決によって、『橋を通れなかった衛宮士郎』は『橋を通れる』事になった。[lr]",
+      "Pt-br": "Baseado em um confronto que não tem nada a ver conosco, o Emiya Shirou que não conseguia passar pela ponte antes, agora consegue.[lr]",
+      "id": 7660,
+      "epk_id": "11617",
+      "label": "$$$message_0092_0012_0001$$$"
+    },
+    {
+      "en": "Shirou Emiya won't stand still on the night bridge anymore, but does Archer still plan to repeat this for as long as this Holy Grail War lasts?",
+      "jp": "　衛宮士郎はもう夜の橋で立ち止まる事はないが、アーチャーは今でも、この聖杯戦争が続くまで繰り返すつもりなのか。",
+      "Pt-br": "Emiya Shirou não ficará mais parado na ponte à noite, mas o Archer ainda planeja repetir isso enquanto durar essa Guerra do Santo Graal?",
+      "id": 7661,
+      "epk_id": "11618",
+      "label": "$$$message_0092_0012_0002$$$"
+    },
+    {
+      "en": "\"'Continue the Holy Grail War,' huh... I certainly did have a fixation on fighting Saber.[lr]",
+      "jp": "「聖杯戦争を続ける、か[line len=3]確かにセイバーとの勝負には執着があった。[lr]",
+      "Pt-br": "\"'Continuar a Guerra do Santo Graal', hã... Certamente eu tinha uma obsessão em lutar contra a Saber.[lr]",
+      "id": 7662,
+      "epk_id": "11619",
+      "label": "$$$message_0092_0013_0000$$$"
+    },
+    {
+      "en": "But, my plan did slightly change. No, rather than a change in mind, I should say that I could see what I need to do now.\"[lr]",
+      "jp": "　だが、少しばかり方針が変わってな。いや、気が変わったというより、やるべき事が見えたというべきか」[lr]",
+      "Pt-br": "Mas o meu plano mudou um pouco. Não, mais do que uma mudança de ideia, eu deveria dizer que pude ver o que preciso fazer agora.\"[lr]",
+      "id": 7663,
+      "epk_id": "11620",
+      "label": "$$$message_0092_0013_0001$$$"
+    },
+    {
+      "en": "\"Huh? Does that mean you're fighting whoever is continuing the Holy Grail War?\"",
+      "jp": "「？　それは、聖杯戦争を続けようってヤツと戦うってコトか？」",
+      "Pt-br": "\"Hã? Isso significa que você está lutando contra quem quer que esteja continuando a Guerra do Santo Graal?\"",
+      "id": 7664,
+      "epk_id": "11621",
+      "label": "$$$message_0092_0013_0002$$$"
+    },
+    {
+      "en": "\"I thought I had been narrowing down my aim to just that enemy from the start. That was a part of why I was monitoring the town from the rooftop of a building. I wonder how many times I've shot down familiars that have invaded Shinto.\"[lr]",
+      "jp": "「オレは初めからその『敵』だけに照準をしぼってきたつもりだがな。ビルの屋上から街を監視していたのもその一環だ。新都に侵入する使い魔を、今まで何度撃ち抜いてきたか」[lr]",
+      "Pt-br": "\"Achei que estivesse direcionando meu foco apenas para aquele inimigo desde o início. Essa foi uma das razões pelas quais eu estava monitorando a cidade do telhado de um prédio. Eu me pergunto quantas vezes eu abati os familiares que invadiram Shinto.\"[lr]",
+      "id": 7665,
+      "epk_id": "11622",
+      "label": "$$$message_0092_0014_0000$$$"
+    },
+    {
+      "en": "\"Familiars... You mean those dog-like monsters?\"",
+      "jp": "「使い魔って……あの犬みたいな怪物を？」",
+      "Pt-br": "\"Familiares... Você quer dizer aqueles monstros parecidos com cães?\"",
+      "id": 7666,
+      "epk_id": "11623",
+      "label": "$$$message_0092_0014_0001$$$"
+    },
+    {
+      "en": "\"Yeah. It's a funny story, but I feel like I've been repeating it for many days. Now, I wonder when I realized that it was meaningless. Was it yesterday or just now?\"",
+      "jp": "「ああ。おかしな話だが、何日も繰り返している気がする。それが無意味だと気付いたのは、さて、何時のことだったか。昨日か、それとも今か」",
+      "Pt-br": "\"Sim. É uma história engraçada, mas eu sinto que tenho repetido isso há muitos dias. Agora me pergunto quando eu percebi que isso não tinha sentido. Foi ontem ou agora há pouco?\"",
+      "id": 7667,
+      "epk_id": "11624",
+      "label": "$$$message_0092_0015_0000$$$"
+    },
+    {
+      "en": "...Archer himself must not even know the reason he realized that that was \"meaningless.\"[lr]",
+      "jp": "　……アーチャー自身、それが『無意味』だと気付いた理由が分かっていないのだろう。[lr]",
+      "Pt-br": "...O próprio Archer nem deve saber o motivo pelo qual ele percebeu que isso \"não tinha sentido.\"[lr]",
+      "id": 7668,
+      "epk_id": "11625",
+      "label": "$$$message_0092_0016_0000$$$"
+    },
+    {
+      "en": "Just like how the previous me and current me don't connect, Archer's actions don't connect either.",
+      "jp": "　前回の俺と今の俺が繋がらないように、アーチャーの行動も繋がっていない。",
+      "Pt-br": "Assim como meu eu anterior e o meu eu atual não se conectam, as ações do Archer também não se conectam.",
+      "id": 7669,
+      "epk_id": "11626",
+      "label": "$$$message_0092_0016_0001$$$"
+    },
+    {
+      "en": "\"I see. Either way, you stopped sniping from the rooftop. Did you get tired of shooting down so many of them?\"[lr]",
+      "jp": "「そうか。どちらにせよ、屋上からの狙撃は止めたんだな。何匹も狙撃したんで飽きたとか？」[lr]",
+      "Pt-br": "\"Entendo. De qualquer forma, você parou de atirar do telhado. Você se cansou de atirar em tantos deles?\"[lr]",
+      "id": 7670,
+      "epk_id": "11627",
+      "label": "$$$message_0092_0017_0000$$$"
+    },
+    {
+      "en": "\"...'Get tired,' huh? I do feel like I have been repeating the same thing. However. Even if it is a day that doesn't change at all from yesterday, I don't get tired of things to the point of them feeling meaningless.[lr]",
+      "jp": "「……飽きる、か。たしかに同じコトを繰り返してきたように思える。だがな。たとえ昨日と何一つ変わらぬ一日でも、意味を感じなくなるほどに飽きる、という事はない。[lr]",
+      "Pt-br": "\"...'Se cansar', né? Sinto como se estivesse repetindo a mesma coisa. Porém. Mesmo que seja um dia que não muda em nada em relação a ontem, não me canso das coisas a ponto delas parecerem sem sentido.[lr]",
+      "id": 7671,
+      "epk_id": "11628",
+      "label": "$$$message_0092_0017_0001$$$"
+    },
+    {
+      "en": "If I continued shooting based on whether I get tired of it or not, I would've been repeating the same thing for decades.\"",
+      "jp": "　飽きる飽きないで狙撃を続けるのなら、俺は何十年と同じ事を繰り返しただろう」",
+      "Pt-br": "Se eu continuasse atirando com base em me cansar ou não disso, estaria repetindo a mesma coisa há décadas.\"",
+      "id": 7672,
+      "epk_id": "11629",
+      "label": "$$$message_0092_0017_0002$$$"
+    },
+    {
+      "en": "\"...Even if nothing changes and no new things happen?\"[lr]",
+      "jp": "「……。何一つ変わらない、もう新しい事が起きないとしてもか？」[lr]",
+      "Pt-br": "\"...Mesmo que nada mude e nenhuma coisa nova aconteça?\"[lr]",
+      "id": 7673,
+      "epk_id": "11630",
+      "label": "$$$message_0092_0018_0000$$$"
+    },
+    {
+      "en": "\"Of course. Reality is different from a book that you're tired of reading. Even if it's a repetition of the same thing, there's no such thing as nothing happening.[lr]",
+      "jp": "「無論だ。現実は読み飽きた本とは違う。たとえ同じ事の繰り返しでも、何も無いという事はない。[lr]",
+      "Pt-br": "\"Claro. A realidade é diferente de um livro que você está cansado de ler. Mesmo que seja uma repetição da mesma coisa, não existe isso de nada acontecer.[lr]",
+      "id": 7674,
+      "epk_id": "11631",
+      "label": "$$$message_0092_0018_0001$$$"
+    },
+    {
+      "en": "If...tentatively, there was someone that was tired of that repetition, that person must've repeated the Holy Grail War a million, no, a trillion times.\"",
+      "jp": "　もし[line len=3]仮に、あの繰り返しを飽きたと言うヤツがいるのなら、そいつは何億、いや何兆回の“聖杯戦争”を繰り返してきたのだろうな」",
+      "Pt-br": "Se... hipoteticamente, houvesse alguém que estivesse cansado daquela repetição, essa pessoa deveria ter repetido a Guerra do Santo Graal um milhão, não, um trilhão de vezes.\"",
+      "id": 7675,
+      "epk_id": "11632",
+      "label": "$$$message_0092_0018_0002$$$"
+    },
+    {
+      "en": "Repeating a trillion times, huh?[lr]",
+      "jp": "　何兆回と繰り返す、か。[lr]",
+      "Pt-br": "Repetir um trilhão de vezes, é?[lr]",
+      "id": 7676,
+      "epk_id": "11633",
+      "label": "$$$message_0092_0019_0000$$$"
+    },
+    {
+      "en": "But, as a result of repeating it a trillion times, Archer might've gotten tired of shooting.[lr]",
+      "jp": "　でも、言ってしまえばアーチャーは何兆回も繰り返した結果、狙撃に飽きたのかもしれない。[lr]",
+      "Pt-br": "Mas, como resultado de repetir um trilhão de vezes, o Archer poderia ter se cansado de atirar.[lr]",
+      "id": 7677,
+      "epk_id": "11634",
+      "label": "$$$message_0092_0019_0001$$$"
+    },
+    {
+      "en": "I'm the same.[lr]",
+      "jp": "　俺だって同じ事だ。[lr]",
+      "Pt-br": "Sou igual.[lr]",
+      "id": 7678,
+      "epk_id": "11635",
+      "label": "$$$message_0092_0019_0002$$$"
+    },
+    {
+      "en": "According to Tohsaka, it's restarting and not looping, but I have no way of telling which version of Shirou Emiya I am.",
+      "jp": "　遠坂に言わせれば『ループ』ではなく『リスタート』であるらしいが、自分が何機目かの衛宮士郎なのか、把握する術はない。",
+      "Pt-br": "De acordo com a Tohsaka, está recomeçando e não num loop, mas eu não tenho como dizer que versão de Emiya Shirou eu sou.",
+      "id": 7679,
+      "epk_id": "11636",
+      "label": "$$$message_0092_0019_0003$$$"
+    },
+    {
+      "en": "\"...Oh well. So, why are you here after quitting shooting? Are you planning to break the bridge this time?\"[lr]",
+      "jp": "「……まあいいや。それで、狙撃を止めたおまえはなんでここにいるんだよ。今度は橋でも壊す気か？」[lr]",
+      "Pt-br": "\"...Ah, bem. Então, por que você está aqui depois de parar de atirar? Você está planejando quebrar a ponte dessa vez?\"[lr]",
+      "id": 7680,
+      "epk_id": "11637",
+      "label": "$$$message_0092_0020_0000$$$"
+    },
+    {
+      "en": "\"...Well. To be honest, I'm still not really sure.\"[lr]",
+      "jp": "「[line len=3]さて。正直、まだ確信は持てないのだが」[lr]",
+      "Pt-br": "\"...Bem. Pra ser honesto, eu ainda não tenho muita certeza.\"[lr]",
+      "id": 7681,
+      "epk_id": "11638",
+      "label": "$$$message_0092_0020_0001$$$"
+    },
+    {
+      "en": "...He glares into the horizon.[lr]",
+      "jp": "　……彼方を睨む。[lr]",
+      "Pt-br": "...Ele encara o horizonte.[lr]",
+      "id": 7682,
+      "epk_id": "11639",
+      "label": "$$$message_0092_0020_0002$$$"
+    },
+    {
+      "en": "His sharp eyes that shoot through an enemy from a thousand miles away...are directed towards the mountains of Ryudou Temple.",
+      "jp": "　千里の敵を射抜く鷹の目は深山町……柳洞寺のお山に向けられている。",
+      "Pt-br": "Seus olhos penetrantes, que acertam um inimigo a milhares de milhas de distância... estão direcionados para as montanhas do Templo Ryuudou.",
+      "id": 7683,
+      "epk_id": "11640",
+      "label": "$$$message_0092_0020_0003$$$"
+    },
+    {
+      "en": "\"Well, it's what you call excessive solicitude. Even if that was the case, I have no obligation to stay here. I'm just securing an advantageous position just in case.\"[lr]",
+      "jp": "「まあ、老婆心というヤツだ。仮にそうだとしてもここに居座る義理もないしな。一応、万が一の為に地の利を確保しているだけだよ」[lr]",
+      "Pt-br": "\"Bem, é o que chamam de solicitude excessiva. Mesmo se fosse o caso, não tenho obrigação de ficar aqui. Só estou assegurando uma posição vantajosa para garantir.\"[lr]",
+      "id": 7684,
+      "epk_id": "11641",
+      "label": "$$$message_0092_0021_0000$$$"
+    },
+    {
+      "en": "\"An advantageous position? So you are ready to fight.\"[lr]",
+      "jp": "「地の利の確保？　なんだよ、やっぱり戦う気満々じゃないか」[lr]",
+      "Pt-br": "\"Uma posição vantajosa? Então você está pronto pra lutar.\"[lr]",
+      "id": 7685,
+      "epk_id": "11642",
+      "label": "$$$message_0092_0021_0001$$$"
+    },
+    {
+      "en": "\"You're not the one I'm apprehensive about. I'm talking about the familiars that swarm Shinto. It seemed like you had seen them before when we were talking earlier.\"",
+      "jp": "「危惧しているのはおまえではない。新都に群がる使い魔たちの事だ。先ほどの話では、おまえも見た事があるようだが」",
+      "Pt-br": "\"Você não é de quem eu tenho receio. Estou falando dos familiares que rondam Shinto. Parecia que você os tinha visto antes quando estávamos conversando mais cedo.\"",
+      "id": 7686,
+      "epk_id": "11643",
+      "label": "$$$message_0092_0021_0002$$$"
+    },
+    {
+      "en": "More than just seen them before, I've been killed by them countless times.[lr]",
+      "jp": "　見た事があるも何も、ヤツらにはもう何度殺された事か。[lr]",
+      "Pt-br": "Mais do que apenas visto eles antes, eu fui morto por eles incontáveis ​​vezes.[lr]",
+      "id": 7687,
+      "epk_id": "11644",
+      "label": "$$$message_0092_0022_0000$$$"
+    },
+    {
+      "en": "...Mysterious monsters. A black stain that covers Fuyuki City completely on the fourth night to put an end to things.[lr]",
+      "jp": "　……正体不明の怪物。四日目の夜において、冬木市を覆い尽くす終末の黒い沁み。[lr]",
+      "Pt-br": "...Monstros misteriosos. Uma mancha negra que cobre a cidade de Fuyuki completamente na quarta noite para pôr fim às coisas.[lr]",
+      "id": 7688,
+      "epk_id": "11645",
+      "label": "$$$message_0092_0022_0001$$$"
+    },
+    {
+      "en": "It seems like Archer also recognizes those monsters as enemies.",
+      "jp": "　アーチャーもあの怪物たちを『敵』と捉えているらしい。",
+      "Pt-br": "Parece que o Archer também reconhece aqueles monstros como inimigos.",
+      "id": 7689,
+      "epk_id": "11646",
+      "label": "$$$message_0092_0022_0002$$$"
+    },
+    {
+      "en": "\"I see. So you were shooting to finish them off.\"[lr]",
+      "jp": "「そうか。狙撃していたのはアイツらを仕留める為なんだっけ」[lr]",
+      "Pt-br": "\"Entendo. Então você estava atirando pra acabar com eles.\"[lr]",
+      "id": 7690,
+      "epk_id": "11647",
+      "label": "$$$message_0092_0023_0000$$$"
+    },
+    {
+      "en": "\"Yeah. But I also quit that. I can't defeat those monsters. No, there's no need to even defeat them. They are harmless. They'll disappear on their own if you leave them alone.\"[lr]",
+      "jp": "「ああ。だがそれも止めた。あの怪物たちは倒しきれない。いや、そもそも倒す必要がない。アレは無害だ。放っておけば勝手に消える」[lr]",
+      "Pt-br": "\"Sim. Mas eu também parei com isso. Não consigo derrotar aqueles monstros. Não, não há nem necessidade de derrotá-los. Eles são inofensivos. Eles desaparecerão por conta própria se você os deixar em paz.\"[lr]",
+      "id": 7691,
+      "epk_id": "11648",
+      "label": "$$$message_0092_0023_0001$$$"
+    },
+    {
+      "en": "\"...Huh?\"[lr]",
+      "jp": "「[line len=3]、は？」[lr]",
+      "Pt-br": "\"...Hã?\"[lr]",
+      "id": 7692,
+      "epk_id": "11649",
+      "label": "$$$message_0092_0023_0002$$$"
+    },
+    {
+      "en": "[font italic=true]There's no need to even defeat them...?[font italic=false]",
+      "jp": "　そもそも、倒す必要がない[line len=3]？",
+      "Pt-br": "[font italic=true]Não há nem necessidade de derrotá-los...?[font italic=false]",
+      "id": 7693,
+      "epk_id": "11650",
+      "label": "$$$message_0092_0023_0003$$$"
+    },
+    {
+      "en": "\"Yeah right. They're rampaging during the night and causing casualties.\"[lr]",
+      "jp": "「そんな訳あるか。アイツらは夜に暴れ回って、犠牲者を出しているじゃないか」[lr]",
+      "Pt-br": "\"Sim, claro. Eles estão fazendo um tumulto durante a noite e causando vítimas.\"[lr]",
+      "id": 7694,
+      "epk_id": "11651",
+      "label": "$$$message_0092_0024_0000$$$"
+    },
+    {
+      "en": "\"What are you saying? The others can't stay quiet either if there was such a commotion. I don't know what you're misunderstanding, but there shouldn't be any casualties.\"",
+      "jp": "「何を言っている。そんな騒ぎになれば他の連中も黙ってはいまい。何を勘違いしているかは知らんが、犠牲者は一人も出ていない筈だが」",
+      "Pt-br": "\"O que você está dizendo? Os outros não conseguem ficar quietos tampouco se houve tal comoção. Não sei qual é o seu mal-entendido, mas não deveria haver nenhuma vítima.\"",
+      "id": 7695,
+      "epk_id": "11652",
+      "label": "$$$message_0092_0024_0001$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「[line len=6]」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 7696,
+      "epk_id": "11653",
+      "label": "$$$message_0092_0025_0000$$$"
+    },
+    {
+      "en": "My eyes go wide this time.[lr]",
+      "jp": "　今度こそ目が点になる。[lr]",
+      "Pt-br": "Meus olhos se arregalam dessa vez.[lr]",
+      "id": 7697,
+      "epk_id": "11654",
+      "label": "$$$message_0092_0025_0001$$$"
+    },
+    {
+      "en": "There are no humans that have been killed by the monsters...?[lr]",
+      "jp": "　怪物に殺された人間はいない……？[lr]",
+      "Pt-br": "Não há humanos que foram mortos pelos monstros...?[lr]",
+      "id": 7698,
+      "epk_id": "11655",
+      "label": "$$$message_0092_0025_0002$$$"
+    },
+    {
+      "en": "No, that is true.[lr]",
+      "jp": "　いや、それはその通りだ。[lr]",
+      "Pt-br": "Não, isso é verdade.[lr]",
+      "id": 7699,
+      "epk_id": "11656",
+      "label": "$$$message_0092_0025_0003$$$"
+    },
+    {
+      "en": "Just like how that mage woman and Servant don't exist in this city.[lr]",
+      "jp": "　あの女魔術師とサーヴァントがこの街に存在しないように。[lr]",
+      "Pt-br": "Assim como aquela maga e aquele Servo não existem nesta cidade.[lr]",
+      "id": 7700,
+      "epk_id": "11657",
+      "label": "$$$message_0092_0025_0004$$$"
+    },
+    {
+      "en": "The people who are being killed by monsters here haven't existed from the start.",
+      "jp": "　こちらには、怪物たちに殺される人々も、初めから存在しない。",
+      "Pt-br": "As pessoas que estão sendo mortas por monstros aqui não existem desde o começo.",
+      "id": 7701,
+      "epk_id": "11658",
+      "label": "$$$message_0092_0025_0005$$$"
+    },
+    {
+      "en": "\"...Come to think of it, you're right. But to say they're harmless is too much. They are[line len=2]\"[lr]",
+      "jp": "「……そう言えばそうだったな。けど無害ってのは言い過ぎだろう。アイツらは、」[lr]",
+      "Pt-br": "\"...Pensando bem, você tem razão. Mas dizer que eles são inofensivos é demais. Eles são[line len=2]\"[lr]",
+      "id": 7702,
+      "epk_id": "11659",
+      "label": "$$$message_0092_0026_0000$$$"
+    },
+    {
+      "en": "\"They don't kill humans. They just loiter.[lr]",
+      "jp": "「人は殺さない。ただ徘徊するだけだ。[lr]",
+      "Pt-br": "\"Eles não matam humanos. Eles apenas perambulam.[lr]",
+      "id": 7703,
+      "epk_id": "11660",
+      "label": "$$$message_0092_0026_0001$$$"
+    },
+    {
+      "en": "They do seem to have some objective though. It seems to me like those monsters have appeared in this city to do something.\"[lr]",
+      "jp": "　もっとも、目的はあるようだが。あの怪物たちは何かをしたくて街に現れるように見える」[lr]",
+      "Pt-br": "Eles parecem ter algum objetivo, no entanto. Para mim, parece que aqueles monstros apareceram nesta cidade para fazer alguma coisa.\"[lr]",
+      "id": 7704,
+      "epk_id": "11661",
+      "label": "$$$message_0092_0026_0002$$$"
+    },
+    {
+      "en": "That's the conclusion from a Servant who has shot down those monsters thousands of times.",
+      "jp": "　それが、今まで何千回と怪物たちを狙撃してきたサーヴァントの結論だった。",
+      "Pt-br": "Essa é a conclusão de um Servo que abateu aqueles monstros milhares de vezes.",
+      "id": 7705,
+      "epk_id": "11662",
+      "label": "$$$message_0092_0026_0003$$$"
+    },
+    {
+      "en": "\"...Now. I was interrupted, but I got the overall point. If I were to take position, then it'd be on top of that arch after all...\"[lr]",
+      "jp": "「[line len=3]さて。邪魔が入ったが、大体のポイントは掴んだ。布陣を敷くとしたらやはりあの[ruby text=アーチ char=2]鉄骨の上か……」[lr]",
+      "Pt-br": "\"...Enfim. Eu fui interrompido, mas entendi o ponto principal. Se eu fosse assumir uma posição, então seria em cima daquele arco, afinal...\"[lr]",
+      "id": 7706,
+      "epk_id": "11663",
+      "label": "$$$message_0092_0027_0000$$$"
+    },
+    {
+      "en": "Archer finishes his inspection and leaves the elevated road.",
+      "jp": "　視察が済み、アーチャーは高架道路を後にする。",
+      "Pt-br": "O Archer termina sua inspeção e deixa a rua suspensa.",
+      "id": 7707,
+      "epk_id": "11664",
+      "label": "$$$message_0092_0027_0001$$$"
+    },
+    {
+      "en": "\"Don't dawdle too much. You're the subject of this Holy Grail War. There's no way for the play to end if the main character doesn't get up on stage.\"[lr]",
+      "jp": "「あまり道草をするなよ。この聖杯戦争はおまえが主体だ。いつまでも主役が舞台に出ないのでは、劇も終わりようがない」[lr]",
+      "Pt-br": "\"Não enrole muito. Você é o tema dessa Guerra do Santo Graal. Não há como a peça terminar se o personagem principal não subir no palco.\"[lr]",
+      "id": 7708,
+      "epk_id": "11665",
+      "label": "$$$message_0092_0028_0000$$$"
+    },
+    {
+      "en": "Archer must've turned into spirit form, as he disappeared without going down to the pedestrian bridge.",
+      "jp": "　霊体化したのか、アーチャーは歩道橋に降りる事なく消え去った。",
+      "Pt-br": "O Archer deve ter se transformado em forma de espírito, já que ele desapareceu sem descer para a ponte de pedestres.",
+      "id": 7709,
+      "epk_id": "11666",
+      "label": "$$$message_0092_0028_0001$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「[line len=6]」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 7710,
+      "epk_id": "11667",
+      "label": "$$$message_0092_0029_0000$$$"
+    },
+    {
+      "en": "Lanes without any cars.[lr]",
+      "jp": "　[ruby text=じどうしゃ char=2]主役のない車線の上。[lr]",
+      "Pt-br": "As pistas sem nenhum carro.[lr]",
+      "id": 7711,
+      "epk_id": "11668",
+      "label": "$$$message_0092_0029_0001$$$"
+    },
+    {
+      "en": "   The monsters have an objective...[lr]",
+      "jp": "　[line len=3]怪物には目的がある[line len=3][lr]",
+      "Pt-br": "Os monstros têm um objetivo...[lr]",
+      "id": 7712,
+      "epk_id": "11669",
+      "label": "$$$message_0092_0029_0002$$$"
+    },
+    {
+      "en": "Those words don't leave my mind.",
+      "jp": "　その言葉が、頭から離れなかった。",
+      "Pt-br": "Essas palavras não saem da minha cabeça.",
+      "id": 7713,
+      "epk_id": "11670",
+      "label": "$$$message_0092_0029_0003$$$"
+    },
+    {
+      "en": "\"...Hey. What are you doing here?\"[r]2oâr",
+      "jp": "「……あのさ。[r]こんなところで何してるん[r]だよ、おまえ」'ב",
+      "Pt-br": "\"...Ei. O que você está fazendo aqui?\"[r]",
+      "id": 7714,
+      "epk_id": "911587",
+      "label": "$$$message_9092_0002_0000$$$"
+    }
+  ]
+}

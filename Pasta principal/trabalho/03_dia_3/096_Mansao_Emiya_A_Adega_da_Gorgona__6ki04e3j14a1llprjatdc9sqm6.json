@@ -1,0 +1,3832 @@
+{
+  "cena": "6ki04e3j14a1llprjatdc9sqm6",
+  "titulo": "Mansão Emiya: A Adega da Górgona",
+  "rota": "Dia 3",
+  "arquivo": "6ki04e3j14a1llprjatdc9sqm6.epk_dec",
+  "linhas": [
+    {
+      "en": "Okay, I'll go check on the shed.[lr]",
+      "jp": "　どれ、ちょいと土蔵の様子を見てくるか。[lr]",
+      "Pt-br": "Vou checar o celeiro.[lr]",
+      "id": 14752,
+      "epk_id": "4417",
+      "label": "$$$message_0034_0000_0000$$$"
+    },
+    {
+      "en": "I just organized it the other day, so it would be nice to work on some salvage for the first time in a while.",
+      "jp": "　ここのところ整理ばっかりだったし、久しぶりに故障品の修理をするのも悪くない。",
+      "Pt-br": "Acabei de organizá-lo há pouco tempo, então seria bom trabalhar um pouco na recuperação por um tempo.",
+      "id": 14753,
+      "epk_id": "4418",
+      "label": "$$$message_0034_0000_0001$$$"
+    },
+    {
+      "en": "\"Shirou, do you have a moment?\"[lr]",
+      "jp": "「士郎、ちょっとよろしいですか？」[lr]",
+      "Pt-br": "\"Shirou, você tem um momento?\"[lr]",
+      "id": 14754,
+      "epk_id": "4419",
+      "label": "$$$message_0034_0001_0000$$$"
+    },
+    {
+      "en": "\"Hm? Wha... [cacheimage storage=o土蔵前(秋)-(昼),ライダー私服02a(近)][wvl][clfg][fg left=0 index=1000 top=0 storage=o土蔵前(秋)-(昼)][fg index=2000 pos=c storage=ライダー私服02a(近)][dash textoff=0 page=back mx=0 opacity=255 layer=all irot=-0.0 cx=400 imag=2 time=800 cy=628 mag=1.8 my=0 rot=-0.0 accel=-2][shock vmax=20 time=1000 count=-5][playstop time=200 nowait=1][se storage=se025.wav][se storage=se042.wav][transex textoff=0 time=200]Whoa!\"",
+      "jp": "「ん？　なん……[cacheimage storage=o土蔵前(秋)-(昼),ライダー私服02a(近)][wvl][clfg][fg left=0 index=1000 top=0 storage=o土蔵前(秋)-(昼)][fg index=2000 pos=c storage=ライダー私服02a(近)][dash textoff=0 page=back mx=0 opacity=255 layer=all irot=-0.0 cx=400 imag=2 time=800 cy=628 mag=1.8 my=0 rot=-0.0 accel=-2][shock vmax=20 time=1000 count=-5][playstop time=200 nowait=1][se storage=se025.wav][se storage=se042.wav][transex textoff=0 time=200]　わっ！」",
+      "Pt-br": "\"Hmm? Hã... [cacheimage storage=o土蔵前(秋)-(昼),ライダー私服02a(近)][wvl][clfg][fg left=0 index=1000 top=0 storage=o土蔵前(秋)-(昼)][fg index=2000 pos=c storage=ライダー私服02a(近)][dash textoff=0 page=back mx=0 opacity=255 layer=all irot=-0.0 cx=400 imag=2 time=800 cy=628 mag=1.8 my=0 rot=-0.0 accel=-2][shock vmax=20 time=1000 count=-5][playstop time=200 nowait=1][se storage=se025.wav][se storage=se042.wav][transex textoff=0 time=200]Qua!\"",
+      "id": 14755,
+      "epk_id": "4420",
+      "label": "$$$message_0034_0001_0001$$$"
+    },
+    {
+      "en": "\"Shirou? This seems broken. Would you mind taking a look at it for me?[lr]",
+      "jp": "「士郎？　調子が悪いので見て頂きたいと。[lr]",
+      "Pt-br": "\"Shirou? Isso parece quebrado. Você poderia me dar uma olhada nisso?[lr]",
+      "id": 14756,
+      "epk_id": "4421",
+      "label": "$$$message_0034_0002_0000$$$"
+    },
+    {
+      "en": "It's loose somewhere, and won't stay steady even when I push it with my hands. Perhaps I've treated it too roughly in my excitement, because it only takes a slight touch to lose tension.\"",
+      "jp": "　どこか緩んでいるのか、手で押さえていてもぐらついて心許ないのです。これまで愉楽のままに手荒に扱い過ぎたせいなのか、少し触れただけで張りが弱くなっているようで」",
+      "Pt-br": "Está solto em algum lugar e não fica firme mesmo quando eu o empurro com as mãos. Talvez tenha tratado dele com muito descuido por causa da minha excitação, porque só um toque leve já faz perder a tensão.\"",
+      "id": 14757,
+      "epk_id": "4422",
+      "label": "$$$message_0034_0002_0001$$$"
+    },
+    {
+      "en": "W-w-wait, that giant \"wall\" belonged to Rider... No, focus![lr]",
+      "jp": "　な、な、なんだ、今の巨大な[ruby text=かべ]胸はライダーだったのか……ではなく！[lr]",
+      "Pt-br": "E-e-ei, aquele \"muro\" gigante pertencia à Rider... Não, concentre-se![lr]",
+      "id": 14758,
+      "epk_id": "4423",
+      "label": "$$$message_0034_0003_0000$$$"
+    },
+    {
+      "en": "\"W-w-what [wvl][shock vmax=15 time=400 count=-3]do you want me to fix!?[lr]",
+      "jp": "「しゅしゅ、[wvl][shock vmax=15 time=400 count=-3]修理ってなにを……！？[lr]",
+      "Pt-br": "\"W-w-que [wvl] [shock vmax=15 time=400 count=-3] é que você quer que eu corrija!?![lr]",
+      "id": 14759,
+      "epk_id": "4424",
+      "label": "$$$message_0034_0003_0001$$$"
+    },
+    {
+      "en": "No way, I definitely can't fix that, it's way beyond anything I can handle...!\"[lr]",
+      "jp": "　無理、そんなのの修理なんてぜったい無理、というか俺がやったら駄目すぎる……！」[lr]",
+      "Pt-br": "Não tem jeito, eu absolutamente não consigo consertar isso, está muito além de tudo o que consigo lidar...!\"[lr]",
+      "id": 14760,
+      "epk_id": "4425",
+      "label": "$$$message_0034_0003_0002$$$"
+    },
+    {
+      "en": "\"...?\"",
+      "jp": "「……………………？」",
+      "Pt-br": "\"...?\"",
+      "id": 14761,
+      "epk_id": "4426",
+      "label": "$$$message_0034_0003_0003$$$"
+    },
+    {
+      "en": "\"You should ask, um, Saber...who wouldn't know what it's like...nor Tohsaka...\"[lr]",
+      "jp": "「ほら、そういうことはセイバーに……は縁が無いから、遠坂……だって関係ないよなっ」[lr]",
+      "Pt-br": "\"Você deveria perguntar, hum, Saber...quem não saberia como é...nem Tohsaka...\"[lr]",
+      "id": 14762,
+      "epk_id": "4427",
+      "label": "$$$message_0034_0004_0000$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「……………………」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 14763,
+      "epk_id": "4428",
+      "label": "$$$message_0034_0004_0001$$$"
+    },
+    {
+      "en": "\"I know! [wvl][shock vmax=15 time=400 count=-3]Sakura! Sakura will know what to do![lr]",
+      "jp": "「そうだ、[wvl][shock vmax=15 time=400 count=-3]桜だ！　桜が詳しくないハズがない！[lr]",
+      "Pt-br": "\"Eu sei! [wvl][shock vmax=15 time=400 count=-3]Sakura! A Sakura sabe o que fazer![lr]",
+      "id": 14764,
+      "epk_id": "4429",
+      "label": "$$$message_0034_0004_0002$$$"
+    },
+    {
+      "en": "She's the person you can rely on the most right now! Yeah, you've got to ask Sakura!\"",
+      "jp": "　いまこそ桜が一番頼りになる時……！　ああ、もう桜しかいない、桜でいこう！」",
+      "Pt-br": "Ela é a pessoa em que você pode mais confiar agora! Sim, você tem que perguntar à Sakura!\"",
+      "id": 14765,
+      "epk_id": "4430",
+      "label": "$$$message_0034_0004_0003$$$"
+    },
+    {
+      "en": "\"...I was talking about my bicycle.[lr]",
+      "jp": "「…………自転車の事なのですが。[lr]",
+      "Pt-br": "\"...Estava falando da minha bicicleta.[lr]",
+      "id": 14766,
+      "epk_id": "4431",
+      "label": "$$$message_0034_0005_0000$$$"
+    },
+    {
+      "en": "Are you busy right now?\"[lr]",
+      "jp": "　いま士郎は忙しいのですか？」[lr]",
+      "Pt-br": "Você está ocupado agora?\"[lr]",
+      "id": 14767,
+      "epk_id": "4432",
+      "label": "$$$message_0034_0005_0001$$$"
+    },
+    {
+      "en": "\"............[wvl][se storage=se247.wav][clfg][dash textoff=0 page=back mx=0 opacity=200 layer=base irot=-0.0 cx=830 imag=2.7 time=8000 cy=208 mag=2.7 my=-85 storage=o土蔵前(秋)-(昼) rot=-0.0 accel=0][transex textoff=0 time=400]Not as busy as Sakura, no.\"",
+      "jp": "「…………………………………………………………………………………………………………………………………………………………………[wvl][se storage=se247.wav][clfg][dash textoff=0 page=back mx=0 opacity=200 layer=base irot=-0.0 cx=830 imag=2.7 time=8000 cy=208 mag=2.7 my=-85 storage=o土蔵前(秋)-(昼) rot=-0.0 accel=0][transex textoff=0 time=400]いや、桜ほどじゃないです」",
+      "Pt-br": "\"............[wvl][se storage=se247.wav][clfg][dash textoff=0 page=back mx=0 opacity=200 layer=base irot=-0.0 cx=830 imag=2.7 time=8000 cy=208 mag=2.7 my=-85 storage=o土蔵前(秋)-(昼) rot=-0.0 accel=0][transex textoff=0 time=400]Não tão ocupado quanto Sakura, não.\"",
+      "id": 14768,
+      "epk_id": "4433",
+      "label": "$$$message_0034_0005_0002$$$"
+    },
+    {
+      "en": "\"The weather's gotten colder.\"[lr]",
+      "jp": "「涼しくなってきましたね、士郎」[lr]",
+      "Pt-br": "\"O tempo está ficando mais frio.\"[lr]",
+      "id": 14769,
+      "epk_id": "4434",
+      "label": "$$$message_0034_0006_0000$$$"
+    },
+    {
+      "en": "...I curse our height difference.[lr]",
+      "jp": "　……身長差が怨めしい。[lr]",
+      "Pt-br": "...Lamento a diferença de altura entre nós.[lr]",
+      "id": 14770,
+      "epk_id": "4435",
+      "label": "$$$message_0034_0006_0001$$$"
+    },
+    {
+      "en": "I wouldn't have made such an embarrassing misunderstanding if my eye level was higher.",
+      "jp": "　俺の頭の位置がもっと高ければ、あんな恥ずかしい勘違いをするコトもなかったのに。",
+      "Pt-br": "Eu não teria feito uma compreensão tão humilhante se meu nível de visão estivesse mais alto.",
+      "id": 14771,
+      "epk_id": "4436",
+      "label": "$$$message_0034_0006_0002$$$"
+    },
+    {
+      "en": "When I walk next to Rider...[lr]",
+      "jp": "　ライダーと並んで歩いていても、[lr]",
+      "Pt-br": "Quando caminho ao lado da Rider...[lr]",
+      "id": 14772,
+      "epk_id": "4437",
+      "label": "$$$message_0034_0007_0000$$$"
+    },
+    {
+      "en": "\"Shirou, isn't it about time you consider wearing something to warm your neck? Earlier, I saw the bite mark[line len=2][cacheimage storage=ライダー私服01f(中)][wvl canskip=0 time=500][chgfg textoff=0 time=200 storage=ライダー私服01f(中)]I mean, [cacheimage storage=ライダー私服02d(中)][wvl canskip=0 time=400][chgfg textoff=0 time=200 storage=ライダー私服02d(中)]you looked cold.\"[lr]",
+      "jp": "「そろそろ士郎も、首もとが隠れるような暖かい服を着てはどうです？　先ほどから吸血跡が目につい……[cacheimage storage=ライダー私服01f(中)][wvl canskip=0 time=500][chgfg textoff=0 time=200 storage=ライダー私服01f(中)]いえ、[cacheimage storage=ライダー私服02d(中)][wvl canskip=0 time=400][chgfg textoff=0 time=200 storage=ライダー私服02d(中)]涼しくなってきましたね」[lr]",
+      "Pt-br": "\"Shirou, não é hora de você considerar usar algo para aquecer o pescoço? Antes, vi a marca de mordida[line len=2][cacheimage storage=ライダー私服01f(中)][wvl canskip=0 time=500][chgfg textoff=0 time=200 storage=ライダー私服01f(中)]Quero dizer, [cacheimage storage=ライダー私服02d(中)][wvl canskip=0 time=400][chgfg textoff=0 time=200 storage=ライダー私服02d(中)]você parecia frio.\"[lr]",
+      "id": 14773,
+      "epk_id": "4438",
+      "label": "$$$message_0034_0007_0001$$$"
+    },
+    {
+      "en": "...she has to look down like a kindergarten teacher when speaking to me, and it makes me conscious of my own height.",
+      "jp": "　こう、保母さんのように上から話しかけられると、いやでも背の低さが気にかかる。",
+      "Pt-br": "...ela tem que olhar para baixo como uma professora de creche ao me falar, e isso me faz me conscientizar do próprio tamanho do meu corpo.",
+      "id": 14774,
+      "epk_id": "4439",
+      "label": "$$$message_0034_0007_0002$$$"
+    },
+    {
+      "en": "\"Rider, you're tall.\"[lr]",
+      "jp": "「ライダー、背、高いよな」[lr]",
+      "Pt-br": "\"Rider, você é alto.\"[lr]",
+      "id": 14775,
+      "epk_id": "4440",
+      "label": "$$$message_0034_0008_0000$$$"
+    },
+    {
+      "en": "\"...Yes.\"[lr]",
+      "jp": "「……はい」[lr]",
+      "Pt-br": "\"...Sim.\"[lr]",
+      "id": 14776,
+      "epk_id": "4441",
+      "label": "$$$message_0034_0008_0001$$$"
+    },
+    {
+      "en": "\"No, I'm jealous. I wish I was a little taller.\"",
+      "jp": "「いや、羨ましいんだ。俺ももう少し背が高ければって思ってるし」",
+      "Pt-br": "\"Não, estou invejando. Queria ser um pouco mais alto.\"",
+      "id": 14777,
+      "epk_id": "4442",
+      "label": "$$$message_0034_0008_0002$$$"
+    },
+    {
+      "en": "\"You have an elegant figure, like a model. A charm that draws people's eyes to you just by being there.\"",
+      "jp": "「モデルみたいに凛々しいし。いるだけで人の目を惹きつける魅力もあるじゃんか」",
+      "Pt-br": "\"Você tem uma silhueta elegante, como a de uma modelo. Um charme que prende o olhar só de você estar ali.\"",
+      "id": 14778,
+      "epk_id": "4443",
+      "label": "$$$message_0034_0009_0000$$$"
+    },
+    {
+      "en": "\"But...\"[lr]",
+      "jp": "「しかし……」[lr]",
+      "Pt-br": "\"Mas...\"[lr]",
+      "id": 14779,
+      "epk_id": "4444",
+      "label": "$$$message_0034_0010_0000$$$"
+    },
+    {
+      "en": "\"Hm?\"[lr]",
+      "jp": "「うん？」[lr]",
+      "Pt-br": "\"Hmm?\"[lr]",
+      "id": 14780,
+      "epk_id": "4445",
+      "label": "$$$message_0034_0010_0001$$$"
+    },
+    {
+      "en": "\"But...[cacheimage storage=ライダー私服04c(中)][wvl canskip=0 time=400][chgfg textoff=0 time=200 storage=ライダー私服04c(中)]I am not cute.\"[lr]",
+      "jp": "「しかし……[cacheimage storage=ライダー私服04c(中)][wvl canskip=0 time=400][chgfg textoff=0 time=200 storage=ライダー私服04c(中)]可愛くはありません」[lr]",
+      "Pt-br": "\"Mas... [cacheimage storage=ライダー私服04c(中)] [wvl canskip=0 time=400] [chgfg textoff=0 time=200 storage=ライダー私服04c(中)] Eu não sou fofa.\"[lr]",
+      "id": 14781,
+      "epk_id": "4446",
+      "label": "$$$message_0034_0010_0002$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「……………………」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 14782,
+      "epk_id": "4447",
+      "label": "$$$message_0034_0010_0003$$$"
+    },
+    {
+      "en": "...Cute?[sestop time=2000 nowait=true]",
+      "jp": "　……可愛い？[sestop time=2000 nowait=true]",
+      "Pt-br": "...Lindo?[sestop time=2000 nowait=true]",
+      "id": 14783,
+      "epk_id": "4448",
+      "label": "$$$message_0034_0010_0004$$$"
+    },
+    {
+      "en": "\"That requires someone to be of small stature. There's nothing I can do about it.\"[lr]",
+      "jp": "「それには小柄である事が前提です。私にはどうしようもない」[lr]",
+      "Pt-br": "\"Isso exige que alguém tenha pequena estatura. Não há nada que eu possa fazer a respeito.\"[lr]",
+      "id": 14784,
+      "epk_id": "4449",
+      "label": "$$$message_0034_0011_0000$$$"
+    },
+    {
+      "en": "...It's true that the things we praise as \"cute\" tend to be small and delicate, while Rider's the complete opposite.",
+      "jp": "　……たしかに『可愛い』のは小さいもの、かよわいものを褒める言葉だから、ライダーとは真逆の属性だ。",
+      "Pt-br": "...É verdade que as coisas que elogiamos como \"fofas\" tendem a ser pequenas e delicadas, enquanto a Rider é o oposto absoluto.",
+      "id": 14785,
+      "epk_id": "4450",
+      "label": "$$$message_0034_0011_0001$$$"
+    },
+    {
+      "en": "\"...You want people to think of you as cute, then.\"[lr]",
+      "jp": "「……可愛いって思われたかったんだ」[lr]",
+      "Pt-br": "\"...Você quer que as pessoas te vejam como fofo, então.\"[lr]",
+      "id": 14786,
+      "epk_id": "4451",
+      "label": "$$$message_0034_0012_0000$$$"
+    },
+    {
+      "en": "What would a cuter Rider look like?[lr]",
+      "jp": "　可愛いライダーって、どんなだ？[lr]",
+      "Pt-br": "Como um Rider mais fofo seria?[lr]",
+      "id": 14787,
+      "epk_id": "4452",
+      "label": "$$$message_0034_0012_0001$$$"
+    },
+    {
+      "en": "Would she carry around a stuffed animal she talks to?[lr]",
+      "jp": "　いつも手に話友達のぬいぐるみを抱いてるとか[line len=3][lr]",
+      "Pt-br": "Ela carregaria um peluche com o qual conversa?[lr]",
+      "id": 14788,
+      "epk_id": "4453",
+      "label": "$$$message_0034_0012_0002$$$"
+    },
+    {
+      "en": "Would she move the way I've seen in video games, clumsily bumping her head on things and fainting?[lr]",
+      "jp": "　テレビゲームしてると体も動いちゃって、仰け反った拍子にちゃぶ台で頭を打って悶絶するとか[line len=3][lr]",
+      "Pt-br": "Ela se moveria da forma como vi em jogos de vídeo, esbarraçando a cabeça em coisas e desmaiando?[lr]",
+      "id": 14789,
+      "epk_id": "4454",
+      "label": "$$$message_0034_0012_0003$$$"
+    },
+    {
+      "en": "Would she steal glances at the treats we get from Issei and grin at me, asking, \"what should we do about these, Shirou?\"",
+      "jp": "　一成からのお裾分けのお茶菓子をこそこそ覗き見しながら『ふふ、シロウこれはどうしましょう？』と顔をほころばせるとか[line len=3]",
+      "Pt-br": "Ela roubaria olhares para os doces que recebemos de Issei e sorriria para mim, perguntando: \"o que devemos fazer com esses, Shirou?\"",
+      "id": 14790,
+      "epk_id": "4455",
+      "label": "$$$message_0034_0012_0004$$$"
+    },
+    {
+      "en": "...None of those things seem right for her.[lr]",
+      "jp": "　……被りすぎてるな、色々。[lr]",
+      "Pt-br": "Nenhuma dessas coisas parece certa para ela.[lr]",
+      "id": 14791,
+      "epk_id": "4456",
+      "label": "$$$message_0034_0013_0000$$$"
+    },
+    {
+      "en": "It's said that we long to be people that we aren't. Rider seems absolutely flawless from my perspective, but even she's no stranger to insecurity.",
+      "jp": "　人は自分にないものに憧れるというが、俺から見たら完璧すぎる美人のライダーも例外でないらしい。",
+      "Pt-br": "Diz-se que desejamos ser pessoas que não somos. A Rider parece absolutamente perfeita do meu ponto de vista, mas até ela não é estranha à insegurança.",
+      "id": 14792,
+      "epk_id": "4457",
+      "label": "$$$message_0034_0013_0001$$$"
+    },
+    {
+      "en": "\"I guess there's no fixing that...[lr]",
+      "jp": "「けど、そればかりは仕方がないよな……。[lr]",
+      "Pt-br": "\"Acho que não há como consertar isso...[lr]",
+      "id": 14793,
+      "epk_id": "4458",
+      "label": "$$$message_0034_0014_0000$$$"
+    },
+    {
+      "en": "I know. Why don't you think about the benefits of being taller?\"[lr]",
+      "jp": "　そうだ。逆にさ、背が高くて得したコトは？」[lr]",
+      "Pt-br": "Eu sei. Por que você não pensa nos benefícios de ser mais alto?\"[lr]",
+      "id": 14794,
+      "epk_id": "4459",
+      "label": "$$$message_0034_0014_0001$$$"
+    },
+    {
+      "en": "\"There aren't really any.\"[lr]",
+      "jp": "「あまりないですね」[lr]",
+      "Pt-br": "\"Não há nenhum, na verdade.\"[lr]",
+      "id": 14795,
+      "epk_id": "4460",
+      "label": "$$$message_0034_0014_0002$$$"
+    },
+    {
+      "en": "\"Hmm... For example, you can reach the highest items on the shop shelves, and you're easy to spot in a crowd.\"[lr]",
+      "jp": "「んー……例えば、商店の一番上の棚にも手が届くとか、人ごみの中で待ち合わせのとき目印になるとか」[lr]",
+      "Pt-br": "\"Hmm... Por exemplo, você pode alcançar os itens mais altos nas prateleiras da loja, e é fácil de ser notado em uma multidão.\"[lr]",
+      "id": 14796,
+      "epk_id": "4461",
+      "label": "$$$message_0034_0014_0003$$$"
+    },
+    {
+      "en": "\"If you add them to the disadvantages, I'm still at a net negative.\"",
+      "jp": "「不利益と差し引きすれば、マイナスだと断言できます」",
+      "Pt-br": "\"Se você os adicionar aos desvantagens, ainda estou em um saldo negativo.\"",
+      "id": 14797,
+      "epk_id": "4462",
+      "label": "$$$message_0034_0014_0004$$$"
+    },
+    {
+      "en": "\"Disadvantages...?\"[lr]",
+      "jp": "「不利益……？」[lr]",
+      "Pt-br": "\"Desvantagens...?\"[lr]",
+      "id": 14798,
+      "epk_id": "4463",
+      "label": "$$$message_0034_0015_0000$$$"
+    },
+    {
+      "en": "\"...\"",
+      "jp": "「……」",
+      "Pt-br": "\"...\"",
+      "id": 14799,
+      "epk_id": "4464",
+      "label": "$$$message_0034_0015_0001$$$"
+    },
+    {
+      "en": "What are the disadvantages, then?[lr]",
+      "jp": "　不利益とは、なんだろう。[lr]",
+      "Pt-br": "Quais são as desvantagens, então?[lr]",
+      "id": 14800,
+      "epk_id": "4465",
+      "label": "$$$message_0034_0016_0000$$$"
+    },
+    {
+      "en": "I look up at her. Judging from her grave, deeply worried expression, this must really bother her.[lr]",
+      "jp": "　物思いに[ruby text=ふけ]耽る切なげな愁色を下から仰いで見ると、深い悩みを抱いているようにも[ruby text=うかが]窺える。[lr]",
+      "Pt-br": "Ergo os olhos para ela. Pelo semblante grave, tomado de preocupação, isso deve incomodá-la bastante.[lr]",
+      "id": 14801,
+      "epk_id": "4466",
+      "label": "$$$message_0034_0016_0001$$$"
+    },
+    {
+      "en": "There might be a lot of ugly truths Rider has to face that I'm unaware of because I'm short.",
+      "jp": "　背の低い俺が見ずに済んでいる醜いものや汚いことも、ライダーには見えてしまうのかもしれない。",
+      "Pt-br": "Há muita verdade feia que Rider tem que enfrentar que eu não sei por ser curto.",
+      "id": 14802,
+      "epk_id": "4467",
+      "label": "$$$message_0034_0016_0002$$$"
+    },
+    {
+      "en": "Still, I'm jealous of her height.[lr]",
+      "jp": "　それでも高いのは羨ましい。[lr]",
+      "Pt-br": "Ainda assim, sou invejoso com sua altura.[lr]",
+      "id": 14803,
+      "epk_id": "4468",
+      "label": "$$$message_0034_0017_0000$$$"
+    },
+    {
+      "en": "I could forget my petty woes and feel like a bigger person.[lr]",
+      "jp": "　小さなしがらみを忘れて、気分が雄大になってくれる。[lr]",
+      "Pt-br": "Eu poderia esquecer meus pequenos problemas e me sentir como alguém maior.[lr]",
+      "id": 14804,
+      "epk_id": "4469",
+      "label": "$$$message_0034_0017_0001$$$"
+    },
+    {
+      "en": "\"Yoo-hoo!\"[lr]",
+      "jp": "「やっほーーーーーーーーーー！」[lr]",
+      "Pt-br": "\"Oiê!\"[lr]",
+      "id": 14805,
+      "epk_id": "4470",
+      "label": "$$$message_0034_0017_0002$$$"
+    },
+    {
+      "en": "...Just like that. When you're in a high place you naturally express yourself louder too.[lr]",
+      "jp": "　……そうそう、高い所に登ると気が大きくなって、つい大声なんか出したくなるよな。[lr]",
+      "Pt-br": "...Assim é. Quando você está em um lugar alto, expressa-se naturalmente mais alto também.[lr]",
+      "id": 14806,
+      "epk_id": "4471",
+      "label": "$$$message_0034_0017_0003$$$"
+    },
+    {
+      "en": "It must be nice being up high...being tall...",
+      "jp": "　いいなあ、高い所って……背が高いって……。",
+      "Pt-br": "Devem ser agradáveis estar tão alto...ser alto...",
+      "id": 14807,
+      "epk_id": "4472",
+      "label": "$$$message_0034_0017_0004$$$"
+    },
+    {
+      "en": "\"...Wait, yoo-hoo?\"[lr]",
+      "jp": "「……って、やっほー……？」[lr]",
+      "Pt-br": "\"...Espere, hein?\"[lr]",
+      "id": 14808,
+      "epk_id": "4473",
+      "label": "$$$message_0034_0018_0000$$$"
+    },
+    {
+      "en": "Wait, I'm at no age to be saying that.[lr]",
+      "jp": "　いや、この歳でやっほーはないだろ。やっほーは。[lr]",
+      "Pt-br": "Não estou em idade de dizer isso.[lr]",
+      "id": 14809,
+      "epk_id": "4474",
+      "label": "$$$message_0034_0018_0001$$$"
+    },
+    {
+      "en": "\"No, that was...\"",
+      "jp": "「ちがう、このやっほーは……」",
+      "Pt-br": "\"Não, foi...\"",
+      "id": 14810,
+      "epk_id": "4475",
+      "label": "$$$message_0034_0018_0002$$$"
+    },
+    {
+      "en": "\"Yoo-hooooooo!\"[rf][lr]",
+      "jp": "「やっほーーーーーーーーーー！」[rf][lr]",
+      "Pt-br": "\"Yoo-hooooo!\"[rf][lr]",
+      "id": 14811,
+      "epk_id": "4476",
+      "label": "$$$message_0034_0019_0000$$$"
+    },
+    {
+      "en": "\"Wha...ngh!\"[lr]",
+      "jp": "「な……っ」[lr]",
+      "Pt-br": "\"Wha...ngh!\"[lr]",
+      "id": 14812,
+      "epk_id": "4477",
+      "label": "$$$message_0034_0019_0001$$$"
+    },
+    {
+      "en": "Illya!?[lr]",
+      "jp": "　イリヤっ！？[lr]",
+      "Pt-br": "Illya!?[lr]",
+      "id": 14813,
+      "epk_id": "4478",
+      "label": "$$$message_0034_0019_0002$$$"
+    },
+    {
+      "en": "Is she jumping down from there!? It's too dangerous...!",
+      "jp": "　そんな高い所から、あぶな……っ！",
+      "Pt-br": "Ela está pulando daí!? É muito perigoso...!",
+      "id": 14814,
+      "epk_id": "4479",
+      "label": "$$$message_0034_0019_0003$$$"
+    },
+    {
+      "en": "\"Whooooa...\"[rf][lr]",
+      "jp": "「おーーーー……」[rf][lr]",
+      "Pt-br": "\"Quaaa...\"[rf][lr]",
+      "id": 14815,
+      "epk_id": "4480",
+      "label": "$$$message_0034_0020_0000$$$"
+    },
+    {
+      "en": "Jumping [arrowright] falling.[lr]",
+      "jp": "　飛ぶ→落ちる。[lr]",
+      "Pt-br": "Pulando [arrowright] caindo.[lr]",
+      "id": 14816,
+      "epk_id": "4481",
+      "label": "$$$message_0034_0020_0001$$$"
+    },
+    {
+      "en": "Even Illya isn't immune from this common law of physics.",
+      "jp": "　これ、とても当たり前な物理法則、たとえイリヤであろうと例外はない。",
+      "Pt-br": "Mesmo Illya não escapa a essa lei física comum.",
+      "id": 14817,
+      "epk_id": "4482",
+      "label": "$$$message_0034_0020_0002$$$"
+    },
+    {
+      "en": "\"Biiiiiiig...\"[rf][lr]",
+      "jp": "「にぃーーー……いーーーー……」[rf][lr]",
+      "Pt-br": "\"Biiiiiiig...\"[rf][lr]",
+      "id": 14818,
+      "epk_id": "4483",
+      "label": "$$$message_0034_0021_0000$$$"
+    },
+    {
+      "en": "\"...Ngh!\"[lr]",
+      "jp": "「！……っ」[lr]",
+      "Pt-br": "\"...Ngh!\"[lr]",
+      "id": 14819,
+      "epk_id": "4484",
+      "label": "$$$message_0034_0021_0001$$$"
+    },
+    {
+      "en": "But...[lr]",
+      "jp": "　しかし。[lr]",
+      "Pt-br": "Mas...[lr]",
+      "id": 14820,
+      "epk_id": "4485",
+      "label": "$$$message_0034_0021_0002$$$"
+    },
+    {
+      "en": "Why is this land-dweller trying to fly?[lr]",
+      "jp": "　どうしてこう、飛べない生き物に限って空を飛ぼうとするのだろう？[lr]",
+      "Pt-br": "Por que esse habitante da terra está tentando voar?[lr]",
+      "id": 14821,
+      "epk_id": "4486",
+      "label": "$$$message_0034_0021_0003$$$"
+    },
+    {
+      "en": "Maybe she actually likes falling more than flying.",
+      "jp": "　ホントのところ、飛行より落下が好きなだけなのやもしれん。",
+      "Pt-br": "Talvez ela goste mais de cair do que de voar.",
+      "id": 14822,
+      "epk_id": "4487",
+      "label": "$$$message_0034_0021_0004$$$"
+    },
+    {
+      "en": "\"Broooooooooo[wvl][shock vmax=10 time=2000 count=45]theeeeerrrrrrrrr!!!\"",
+      "jp": "「ぃぃぃぃぃぃぃぃぃちゃーーーーーーー……　[wvl][shock vmax=10 time=2000 count=45]んっっっっっっっっっっっっっっ！！！！！！！！！！」[rf]",
+      "Pt-br": "\"Broooooooo[wvl][shock vmax=10 time=2000 count=45]theeeeerrrrrrrrr!!!\"",
+      "id": 14823,
+      "epk_id": "4488",
+      "label": "$$$message_0034_0022_0000$$$"
+    },
+    {
+      "en": "\"Ngh, made it!\"[lr]",
+      "jp": "「っって、間に合った……！」[lr]",
+      "Pt-br": "\"Ngh, cheguei!\"[lr]",
+      "id": 14824,
+      "epk_id": "4489",
+      "label": "$$$message_0034_0023_0000$$$"
+    },
+    {
+      "en": "I firmly catch Illya, who was swan diving through the air with a perfect gymnast's posture![lr]",
+      "jp": "　[ruby text=アーチ char=4]基本姿勢を保ったままダイブしてきたイリヤを、がっちりキャッチ！[lr]",
+      "Pt-br": "Eu seguro firmemente Illya, que estava mergulhando como uma patinadora no ar com uma postura perfeita![lr]",
+      "id": 14825,
+      "epk_id": "4490",
+      "label": "$$$message_0034_0023_0001$$$"
+    },
+    {
+      "en": "But...[lr]",
+      "jp": "　だが、[lr]",
+      "Pt-br": "Mas...[lr]",
+      "id": 14826,
+      "epk_id": "4491",
+      "label": "$$$message_0034_0023_0002$$$"
+    },
+    {
+      "en": "\"Whooooaaaa[wvl][se storage=se079.wav][line len=2]!!!\"[wvs][se storage=se422.wav][lr]",
+      "jp": "「おおおわぁぁーーー[wvl][se storage=se079.wav]ーー！」[wvs][se storage=se422.wav][lr]",
+      "Pt-br": "\"Quaaaaoaaa[wvl][se storage=se079.wav][line len=2]!!!\"[wvs][se storage=se422.wav][lr]",
+      "id": 14827,
+      "epk_id": "4492",
+      "label": "$$$message_0034_0023_0003$$$"
+    },
+    {
+      "en": "[se storage=se067.wav]There's no exhausting [se storage=se075.wav]her [se storage=se079.wav]sheer enthusiasm.[se storage=se422.wav][lr]",
+      "jp": "　[se storage=se067.wav]運動エネルギー[se storage=se075.wav]を殺し[se storage=se079.wav]きれない。[se storage=se422.wav][lr]",
+      "Pt-br": "[se storage=se067.wav]Não há exaustão [se storage=se075.wav]em [se storage=se079.wav]sua entusiasmo desmedido.[se storage=se422.wav][lr]",
+      "id": 14828,
+      "epk_id": "4493",
+      "label": "$$$message_0034_0023_0004$$$"
+    },
+    {
+      "en": "[se storage=se073.wav]I roll on [se storage=se205.wav]the [se storage=se206.wav]ground [se storage=se153.wav]while[se storage=se140.wav] shielding her with my body!\"[se storage=se072.wav]",
+      "jp": "　[se storage=se073.wav]イリヤを[ruby text=かば]庇いな[se storage=se205.wav]がら[se storage=se206.wav]床の[se storage=se153.wav]上に転[se storage=se140.wav]がり回る[line len=3]！[se storage=se072.wav]",
+      "Pt-br": "[se storage=se073.wav]Eu rollo no [se storage=se205.wav]chão [se storage=se206.wav]enquanto [se storage=se153.wav]a pr[se storage=se140.wav]otejo com meu corpo!\"[se storage=se072.wav]",
+      "id": 14829,
+      "epk_id": "4494",
+      "label": "$$$message_0034_0023_0005$$$"
+    },
+    {
+      "en": "\"Ah, are you okay, Shirou?\"[lr]",
+      "jp": "「あ、大丈夫？　シロウ？」[lr]",
+      "Pt-br": "\"Ah, você está bem, Shirou?\"[lr]",
+      "id": 14830,
+      "epk_id": "4495",
+      "label": "$$$message_0034_0024_0000$$$"
+    },
+    {
+      "en": "\"Ow ow, [wvl][se storage=se045.wav]that was too much even for a prank...\"[lr]",
+      "jp": "「いてて、[wvl][se storage=se045.wav]イタズラが過ぎるぞ……」[lr]",
+      "Pt-br": "\"Ow ow, [wvl] [se storage=se045.wav] aquilo foi demais até para uma brincadeira...\"[lr]",
+      "id": 14831,
+      "epk_id": "4496",
+      "label": "$$$message_0034_0024_0001$$$"
+    },
+    {
+      "en": "Illya seems fine.[lr]",
+      "jp": "　イリヤは無事のようだ。[lr]",
+      "Pt-br": "Illya parece estar tudo bem.[lr]",
+      "id": 14832,
+      "epk_id": "4497",
+      "label": "$$$message_0034_0024_0002$$$"
+    },
+    {
+      "en": "I'm bruised all over, though.",
+      "jp": "　こっちは体をあちこち打ってしまったが。",
+      "Pt-br": "Estou todo machucado, porém.",
+      "id": 14833,
+      "epk_id": "4498",
+      "label": "$$$message_0034_0024_0003$$$"
+    },
+    {
+      "en": "\"Honestly, there are mountains of junk over here, so it's dangerous. You'll hurt yourself if they collapse.\"[lr]",
+      "jp": "「ったく。ここにはガラクタが山ほどあって危ないんだからな。崩れてきたらケガどころじゃ済まないんだぞ」[lr]",
+      "Pt-br": "\"Francamente, há montanhas de lixo por aqui, então é perigoso. Você se machucará se eles desmoronarem.\"[lr]",
+      "id": 14834,
+      "epk_id": "4499",
+      "label": "$$$message_0034_0025_0000$$$"
+    },
+    {
+      "en": "That's why I wish I was taller.[lr]",
+      "jp": "　だから身長が欲しいのだ。[lr]",
+      "Pt-br": "Por isso desejo que eu fosse mais alto.[lr]",
+      "id": 14835,
+      "epk_id": "4500",
+      "label": "$$$message_0034_0025_0001$$$"
+    },
+    {
+      "en": "If I was, I could've caught her no problem.",
+      "jp": "　そうすれば、今のだって平気で抱き留められたのに。",
+      "Pt-br": "Se eu estivesse, eu poderia tê-la pegado sem problema.",
+      "id": 14836,
+      "epk_id": "4501",
+      "label": "$$$message_0034_0025_0002$$$"
+    },
+    {
+      "en": "\"Ahaha, you're such a worrywart, Shirou.[lr]",
+      "jp": "「あはは、シロウは心配性なんだから。[lr]",
+      "Pt-br": "\"Ahaha, você é tão preocupado, Shirou.[lr]",
+      "id": 14837,
+      "epk_id": "4502",
+      "label": "$$$message_0034_0026_0000$$$"
+    },
+    {
+      "en": "Wait, ahhh!?\"[lr]",
+      "jp": "　って、きゃっ……！？」[lr]",
+      "Pt-br": "Espere, ahhh!?\"[lr]",
+      "id": 14838,
+      "epk_id": "4503",
+      "label": "$$$message_0034_0026_0001$$$"
+    },
+    {
+      "en": "\"...!\"[lr]",
+      "jp": "「[line len=6]！」[lr]",
+      "Pt-br": "\"...!\"[lr]",
+      "id": 14839,
+      "epk_id": "4504",
+      "label": "$$$message_0034_0026_0002$$$"
+    },
+    {
+      "en": "I freeze, as if caught on something.[lr]",
+      "jp": "　何かを引っ掛けたのか、と身を固くする。[lr]",
+      "Pt-br": "Fico congelado, como se tivesse sido pego em algo.[lr]",
+      "id": 14840,
+      "epk_id": "4505",
+      "label": "$$$message_0034_0026_0003$$$"
+    },
+    {
+      "en": "When I turn around...[lr]",
+      "jp": "　後ろを振り返ると[line len=3][lr]",
+      "Pt-br": "Quando eu me viro...[lr]",
+      "id": 14841,
+      "epk_id": "4506",
+      "label": "$$$message_0034_0026_0004$$$"
+    },
+    {
+      "en": "The bicycle Rider was pushing is on the ground.",
+      "jp": "　ライダーが押していた自転車が倒れていた。",
+      "Pt-br": "A cavalo Rider estava empurrando-o no chão.",
+      "id": 14842,
+      "epk_id": "4507",
+      "label": "$$$message_0034_0026_0005$$$"
+    },
+    {
+      "en": "\"...?\"[lr]",
+      "jp": "「……？」[lr]",
+      "Pt-br": "\". ..?\"[lr]",
+      "id": 14843,
+      "epk_id": "4508",
+      "label": "$$$message_0034_0027_0000$$$"
+    },
+    {
+      "en": "Rider's standing stock-still, her arms still outstretched where she was holding the handlebars.[lr]",
+      "jp": "　ライダーは腕を突き出し、ハンドルを持つ姿勢のまま、固まっている。[lr]",
+      "Pt-br": "A montaria de Rider está imóvel, seus braços ainda esticados onde segurava as manoplas.[lr]",
+      "id": 14844,
+      "epk_id": "4509",
+      "label": "$$$message_0034_0027_0001$$$"
+    },
+    {
+      "en": "\"Rider?\"",
+      "jp": "「……ライダー？」",
+      "Pt-br": "\"Rider?\"",
+      "id": 14845,
+      "epk_id": "4510",
+      "label": "$$$message_0034_0027_0002$$$"
+    },
+    {
+      "en": "She hasn't even noticed that she dropped the bike.[lr]",
+      "jp": "　ライダーは自転車が倒れたコトにも気づいていない。[lr]",
+      "Pt-br": "Ela nem sequer notou que deixou cair a bicicleta.[lr]",
+      "id": 14846,
+      "epk_id": "4511",
+      "label": "$$$message_0034_0028_0000$$$"
+    },
+    {
+      "en": "When I try to see what's going on with her, I notice that her eyes are unfocused and distant behind the Mystic Eye Killers.",
+      "jp": "　何かあったのか、と様子を窺って、魔眼殺しの奥の、目の焦点が合っていないコトに気付いた。",
+      "Pt-br": "Quando tento ver o que está acontecendo com ela, noto que seus olhos, por trás dos Supressores de Olhos Místicos, estão distantes e sem foco.",
+      "id": 14847,
+      "epk_id": "4512",
+      "label": "$$$message_0034_0028_0001$$$"
+    },
+    {
+      "en": "\"Rider, what's wrong?\"[lr]",
+      "jp": "「ライダー、どうかしたのか？」[lr]",
+      "Pt-br": "\"Rider, o que há de errado?\"[lr]",
+      "id": 14848,
+      "epk_id": "4513",
+      "label": "$$$message_0034_0029_0000$$$"
+    },
+    {
+      "en": "\"Yes, Sister!\"[lr]",
+      "jp": "「はい、姉さま！」[lr]",
+      "Pt-br": "\"Sim, irmã!\"[lr]",
+      "id": 14849,
+      "epk_id": "4514",
+      "label": "$$$message_0034_0029_0001$$$"
+    },
+    {
+      "en": "...[lr]",
+      "jp": "　……。[lr]",
+      "Pt-br": "...[lr]",
+      "id": 14850,
+      "epk_id": "4515",
+      "label": "$$$message_0034_0029_0002$$$"
+    },
+    {
+      "en": "......[lr]",
+      "jp": "　…………。[lr]",
+      "Pt-br": "......[lr]",
+      "id": 14851,
+      "epk_id": "4516",
+      "label": "$$$message_0034_0029_0003$$$"
+    },
+    {
+      "en": ".........[wait canskip=0 time=800]Am I her sister now?",
+      "jp": "　……………………[wait canskip=0 time=800]俺は姉だったのか。",
+      "Pt-br": ".........[wait canskip=0 time=800]Agora sou sua irmã?",
+      "id": 14852,
+      "epk_id": "4517",
+      "label": "$$$message_0034_0029_0004$$$"
+    },
+    {
+      "en": "Thinking back, Rider has always been somewhat reserved around me, like she's keeping me at arms' length.[lr]",
+      "jp": "　思えばライダーは俺の前ではいつもどこか遠慮して、一歩退き、俺を立ててくれていた。[lr]",
+      "Pt-br": "Lembrando, a Rider sempre foi um pouco reservada comigo, como se estivesse me mantendo a uma distância de braço.[lr]",
+      "id": 14853,
+      "epk_id": "4518",
+      "label": "$$$message_0034_0030_0000$$$"
+    },
+    {
+      "en": "I don't find her attitude to be problematic, though I did wonder how she was able to maintain that kind of distance out in public... But now I'm her big sister?[lr]",
+      "jp": "　その控えめな物腰に正直悪い気はせず、この距離を世間一般ではどう言い表すんだろうと首をかしげるコトもあったんだが[line len=3]そうか、姉だったのか。[lr]",
+      "Pt-br": "Eu não acho que sua atitude seja problemática, embora tenha me perguntado como ela conseguia manter aquela distância em público... Mas agora sou sua irmã mais velha?[lr]",
+      "id": 14854,
+      "epk_id": "4519",
+      "label": "$$$message_0034_0030_0001$$$"
+    },
+    {
+      "en": "[large]Of course not.[rf]",
+      "jp": "　[large]ではなく。[rf]",
+      "Pt-br": "[large]Claro que não.[rf]",
+      "id": 14855,
+      "epk_id": "4520",
+      "label": "$$$message_0034_0030_0002$$$"
+    },
+    {
+      "en": "\"N-never [cacheimage storage=ライダー私服01e(遠)][wvl canskip=0 time=300][chgfg textoff=0 time=300 storage=ライダー私服01e(遠)]mind, [cacheimage storage=ライダー私服04f(遠)][wvl][chgfg textoff=0 time=300 storage=ライダー私服04f(遠)]Shirou.[lr]",
+      "jp": "「い……いえ、[cacheimage storage=ライダー私服01e(遠)][wvl canskip=0 time=300][chgfg textoff=0 time=300 storage=ライダー私服01e(遠)]何でもありません、[cacheimage storage=ライダー私服04f(遠)][wvl][chgfg textoff=0 time=300 storage=ライダー私服04f(遠)]士郎。[lr]",
+      "Pt-br": "\"Nunca [cacheimage storage=ライダー私服01e(遠)][wvl canskip=0 time=300][chgfg textoff=0 time=300 storage=ライダー私服01e(遠)]se importe, [cacheimage storage=ライダー私服04f(遠)][wvl][chgfg textoff=0 time=300 storage=ライダー私服04f(遠)]Shirou.[lr]",
+      "id": 14856,
+      "epk_id": "4521",
+      "label": "$$$message_0034_0031_0000$$$"
+    },
+    {
+      "en": "Please, pretend you didn't hear that.\"[lr]",
+      "jp": "　どうか、今のはなかったコトにしてください」[lr]",
+      "Pt-br": "Por favor, pare de ouvir isso.\"[lr]",
+      "id": 14857,
+      "epk_id": "4522",
+      "label": "$$$message_0034_0031_0001$$$"
+    },
+    {
+      "en": "Rider looks around awkwardly.[lr]",
+      "jp": "　ぎこちなく周りを見回すライダー。[lr]",
+      "Pt-br": "Rider olha em volta, constrangida.[lr]",
+      "id": 14858,
+      "epk_id": "4523",
+      "label": "$$$message_0034_0031_0002$$$"
+    },
+    {
+      "en": "She's behaving very suspiciously.",
+      "jp": "　実に挙動不審である。",
+      "Pt-br": "Ela está agindo de um jeito muito suspeito.",
+      "id": 14859,
+      "epk_id": "4524",
+      "label": "$$$message_0034_0031_0003$$$"
+    },
+    {
+      "en": "\"R-right, I wanted you to take a look at my bicycle.[lr]",
+      "jp": "「そ、そう、自転車の調子が悪いので見て頂きたいと。[lr]",
+      "Pt-br": "\"R-right, eu queria que você olhasse o meu bicicleta.[lr]",
+      "id": 14860,
+      "epk_id": "4525",
+      "label": "$$$message_0034_0032_0000$$$"
+    },
+    {
+      "en": "It's loose somewhere, and it's like unsteady like this even when I push it by hand.[lr]",
+      "jp": "　どこか緩んでいるのか、手で押さえていてもこの通り、少しぐらついて心許ないのです。[lr]",
+      "Pt-br": "Está solto em algum lugar, e fica assim instável mesmo quando puxo manualmente.[lr]",
+      "id": 14861,
+      "epk_id": "4526",
+      "label": "$$$message_0034_0032_0001$$$"
+    },
+    {
+      "en": "I thought that I might have treated it too roughly, and I'd like to ask you to repair it.\"",
+      "jp": "　これまで愉楽のまま手荒に扱い過ぎたせいでしょうが、一つ、士郎の手で修復をお願いします」",
+      "Pt-br": "Pensei que tivesse tratado isso com demasiada violência, e gostaria que você o consertasse.\"",
+      "id": 14862,
+      "epk_id": "4527",
+      "label": "$$$message_0034_0032_0002$$$"
+    },
+    {
+      "en": "\"Yeah, you said that earlier.[lr]",
+      "jp": "「ああ、それはさっき聞いた。[lr]",
+      "Pt-br": "\"Entendi. Já disse isso antes.[lr]",
+      "id": 14863,
+      "epk_id": "4528",
+      "label": "$$$message_0034_0033_0000$$$"
+    },
+    {
+      "en": "Also, that's a cat tower, not a bicycle.[lr]",
+      "jp": "　そして、それは自転車じゃなくて、猫の大好き空間スリルキャットタワー。[lr]",
+      "Pt-br": "Também, é uma torre de gato, não uma bicicleta.[lr]",
+      "id": 14864,
+      "epk_id": "4529",
+      "label": "$$$message_0034_0033_0001$$$"
+    },
+    {
+      "en": "It's supposed to be an all-purpose jungle gym that cats can scratch or climb on. Fuji-nee picked it up somewhere and dumped it in the shed.\"[wm canskip=0]",
+      "jp": "　猫が登ったり爪を[ruby text=と]研いだり用を足したりする万能ジャングルジムで、藤ねえがどこからか拾ってきて、いつの間にか勝手に[ruby text=ここ o2o=1]土蔵に置いていったやつ」[wm canskip=0]",
+      "Pt-br": "É suposto ser um brinquedo de jardim que os gatos possam riscar ou subir. A Fuji-nee pegou em algum lugar e jogou no celeiro.\"[wm canskip=0]",
+      "id": 14865,
+      "epk_id": "4530",
+      "label": "$$$message_0034_0033_0002$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「……」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 14866,
+      "epk_id": "4531",
+      "label": "$$$message_0034_0034_0000$$$"
+    },
+    {
+      "en": "The bicycle is on the floor.",
+      "jp": "　自転車は下に倒れてる。",
+      "Pt-br": "A bicicleta está no chão.",
+      "id": 14867,
+      "epk_id": "4532",
+      "label": "$$$message_0034_0034_0001$$$"
+    },
+    {
+      "en": "\"YAAAAAAHHH!\"[rf][lr]",
+      "jp": "「やっっっっはぁああーーーーー！」[rf][lr]",
+      "Pt-br": "\"YAAAAAAAHHH!\"[rf][lr]",
+      "id": 14868,
+      "epk_id": "4533",
+      "label": "$$$message_0034_0035_0000$$$"
+    },
+    {
+      "en": "\"Wha!?\"[lr]",
+      "jp": "「な……！？」[lr]",
+      "Pt-br": "\"Que!?\"[lr]",
+      "id": 14869,
+      "epk_id": "4534",
+      "label": "$$$message_0034_0035_0001$$$"
+    },
+    {
+      "en": "The white critter dives again, breaking the awkward silence.[lr]",
+      "jp": "　気まずい沈黙を打ち破るかのように、白いアイツが再びダイブ。[lr]",
+      "Pt-br": "O bicho branco mergulha novamente, quebrando o silêncio constrangedor.[lr]",
+      "id": 14870,
+      "epk_id": "4535",
+      "label": "$$$message_0034_0035_0002$$$"
+    },
+    {
+      "en": "Ahh, this little berserker never misses a chance to cause chaos![lr]",
+      "jp": "　ああ、目を離した隙にあのおこさまバーサーカーはっっっ！[lr]",
+      "Pt-br": "Ah, esse berserkerzinho nunca perde uma oportunidade de causar caos![lr]",
+      "id": 14871,
+      "epk_id": "4536",
+      "label": "$$$message_0034_0035_0003$$$"
+    },
+    {
+      "en": "This time, the comet makes a beeline for Rider!",
+      "jp": "　今度のほうき星はライダーに向かって一直線！",
+      "Pt-br": "Nesta vez, a cometa vai direto para a Rider!",
+      "id": 14872,
+      "epk_id": "4537",
+      "label": "$$$message_0034_0035_0004$$$"
+    },
+    {
+      "en": "\"Catch her, Rider!\"[rf][lr]",
+      "jp": "「ライダー、頼む！」[rf][lr]",
+      "Pt-br": "\"Pegue ela, Rider!\"[rf][lr]",
+      "id": 14873,
+      "epk_id": "4538",
+      "label": "$$$message_0034_0036_0000$$$"
+    },
+    {
+      "en": "\"Huh? Uh, right! [movefg textoff=0 opacity=0 time=300 pos=c accel=3 storage=ライダー私服02b(遠)]...Eeek!?\"[lr]",
+      "jp": "「えっあっ、はい！[movefg textoff=0 opacity=0 time=300 pos=c accel=3 storage=ライダー私服02b(遠)]……………ぃぃぃ！？」[lr]",
+      "Pt-br": "\"Huh? Uh, certo! [movefg textoff=0 opacity=0 time=300 pos=c accel=3 storage=ライダー私服02b(遠)]...Eeek!?\"[lr]",
+      "id": 14874,
+      "epk_id": "4539",
+      "label": "$$$message_0034_0036_0001$$$"
+    },
+    {
+      "en": "It's okay[line len=2][lr]",
+      "jp": "　大丈夫[line len=3][lr]",
+      "Pt-br": "Tudo bem.[line len=2][lr]",
+      "id": 14875,
+      "epk_id": "4540",
+      "label": "$$$message_0034_0036_0002$$$"
+    },
+    {
+      "en": "With Rider's physique and strength, she should easily be able to catch Illya!",
+      "jp": "　ライダーの体躯と怪力なら、余裕でイリヤを受け止められる！",
+      "Pt-br": "Com a constituição física e força de Rider, ela deveria facilmente conseguir pegar Illya!",
+      "id": 14876,
+      "epk_id": "4541",
+      "label": "$$$message_0034_0036_0003$$$"
+    },
+    {
+      "en": "Man, being tall sure must be nice.[lr]",
+      "jp": "　背が高いっていいなあ。[lr]",
+      "Pt-br": "Poxa, ser alto deve ser muito legal.[lr]",
+      "id": 14877,
+      "epk_id": "4542",
+      "label": "$$$message_0034_0037_0000$$$"
+    },
+    {
+      "en": "See, she won't even stumble when she catches Illya.[lr]",
+      "jp": "　ほら、イリヤが抱きついてもよろめきもしない。[lr]",
+      "Pt-br": "Veja, ela nem mesmo tropeçará ao pegar Illya.[lr]",
+      "id": 14878,
+      "epk_id": "4543",
+      "label": "$$$message_0034_0037_0001$$$"
+    },
+    {
+      "en": "She won't stumble...[lr]",
+      "jp": "　よろめきもしないが……[lr]",
+      "Pt-br": "Ela não tropeçará...[lr]",
+      "id": 14879,
+      "epk_id": "4544",
+      "label": "$$$message_0034_0037_0002$$$"
+    },
+    {
+      "en": "\"Um, why?\"[lr]",
+      "jp": "「なんで？」[lr]",
+      "Pt-br": "\"Um, por quê?\"[lr]",
+      "id": 14880,
+      "epk_id": "4545",
+      "label": "$$$message_0034_0037_0003$$$"
+    },
+    {
+      "en": "Rider's as still as a stone statue.",
+      "jp": "　ライダーは、石像のように固まっていた。",
+      "Pt-br": "A cavaleira está imóvel como uma estátua de pedra.",
+      "id": 14881,
+      "epk_id": "4546",
+      "label": "$$$message_0034_0037_0004$$$"
+    },
+    {
+      "en": "\"...Ah, [wvl][se storage=se045.wav]eek...!\"[lr]",
+      "jp": "「[line len=3]ゃ、[wvl][se storage=se045.wav]ひぃ……！」[lr]",
+      "Pt-br": "\"...Ah, [wvl] [se storage=se045.wav]eek...!\"[lr]",
+      "id": 14882,
+      "epk_id": "4547",
+      "label": "$$$message_0034_0038_0000$$$"
+    },
+    {
+      "en": "\"R-Rider!?\"[lr]",
+      "jp": "「ラ、ライダー！？」[lr]",
+      "Pt-br": "\"R-Rider!?\"[lr]",
+      "id": 14883,
+      "epk_id": "4548",
+      "label": "$$$message_0034_0038_0001$$$"
+    },
+    {
+      "en": "\"Yaaay, Rider's scared, ahahaha!\"[lr]",
+      "jp": "「うわーい、ライダー怖がってる、あはははーーー！」[lr]",
+      "Pt-br": "\"Yaaay, a Rider está com medo, ahahaha!\"[lr]",
+      "id": 14884,
+      "epk_id": "4549",
+      "label": "$$$message_0034_0038_0002$$$"
+    },
+    {
+      "en": "\"Ahh, [cacheimage storage=イリヤ06d(遠)][wvl][wm canskip=0][stoplquake][chgfg textoff=0 time=300 storage=イリヤ06d(遠) last=イリヤ05d(遠)]kyaaah!\"[rf]",
+      "jp": "「きゃっ、[cacheimage storage=イリヤ06d(遠)][wvl][wm canskip=0][stoplquake][chgfg textoff=0 time=300 storage=イリヤ06d(遠) last=イリヤ05d(遠)]きゃぁーー！」[rf]",
+      "Pt-br": "\"Ahh, [cacheimage storage=イリヤ06d(遠)] [wvl] [wm canskip=0] [stoplquake] [chgfg textoff=0 time=300 storage=イリヤ06d(遠) last=イリヤ05d(遠)]kyaaah!\"[rf]",
+      "id": 14885,
+      "epk_id": "4550",
+      "label": "$$$message_0034_0038_0003$$$"
+    },
+    {
+      "en": "Rider is [font italic=true]screaming[font italic=false].[lr]",
+      "jp": "　あのライダーが、悲鳴を上げている。[lr]",
+      "Pt-br": "Rider está [font italic=true]gritando[font italic=false].[lr]",
+      "id": 14886,
+      "epk_id": "4551",
+      "label": "$$$message_0034_0039_0000$$$"
+    },
+    {
+      "en": "And she's swaying on her feet while Illya's holding on to her. She seems to be going through a severe psychological ordeal.",
+      "jp": "　それもイリヤに抱きつかれてブラブラされながら。なにやら深刻な心理的問題を感じさせるこの反応。",
+      "Pt-br": "E ela está balançando nos pés enquanto Illya segura nela. Ela parece estar passando por um sofrimento psicológico grave.",
+      "id": 14887,
+      "epk_id": "4552",
+      "label": "$$$message_0034_0039_0001$$$"
+    },
+    {
+      "en": "\"Ah, ah, ah...![cacheimage storage=イリヤ07b(近)][wvl][chgfg opacity=0 textoff=0 time=100 storage=イリヤ07b(近)] No, Shirou, get her off me!\"[lr]",
+      "jp": "「ぁ、ぁ、ぁ……！[cacheimage storage=イリヤ07b(近)][wvl][chgfg opacity=0 textoff=0 time=100 storage=イリヤ07b(近)]　だめ、士郎、早く取ってください！」[lr]",
+      "Pt-br": "\"Ah, ah, ah...![cacheimage storage=イリヤ07b(近)][wvl][chgfg opacity=0 textoff=0 time=100 storage=イリヤ07b(近)] Não, Shirou, tira ela de cima de mim!\"[lr]",
+      "id": 14888,
+      "epk_id": "4553",
+      "label": "$$$message_0034_0040_0000$$$"
+    },
+    {
+      "en": "\"Excuse me, you shouldn't treat a fräulein like a caterpillar.[cacheimage storage=イリヤ03b(近)][wvl][chgfg textoff=0 time=300 storage=イリヤ03b(近)] This is what you get for doing that!\"[lr]",
+      "jp": "「失礼ね、フロイラインを毛虫みたいに扱うなんて。そんなこと言うライダーには[cacheimage storage=イリヤ03b(近)][wvl][chgfg textoff=0 time=300 storage=イリヤ03b(近)]こうしちゃうんだからー！」[lr]",
+      "Pt-br": "\"Desculpe, você não deveria tratar uma fräulein assim como uma borboleta. [cacheimage storage=イリヤ03b(近)] [wvl] [chgfg textoff=0 time=300 storage=イリヤ03b(近)] Isso é o que você merece por fazer isso!\"[lr]",
+      "id": 14889,
+      "epk_id": "4554",
+      "label": "$$$message_0034_0040_0001$$$"
+    },
+    {
+      "en": "Illya hugs Rider around the neck and rubs their cheeks together.",
+      "jp": "　首筋に抱きついて、[ruby text=ほおず char=2]頬摺りなんかする。",
+      "Pt-br": "Illya abraça Rider pelo pescoço e passa os dedos pelos seus rostos.",
+      "id": 14890,
+      "epk_id": "4555",
+      "label": "$$$message_0034_0040_0002$$$"
+    },
+    {
+      "en": "\"GAAAAAAAH!!!\"[lr]",
+      "jp": "「きゃぁぁぁああああーーー！」[lr]",
+      "Pt-br": "\"GAAAAAAAH!!!\"[lr]",
+      "id": 14891,
+      "epk_id": "4556",
+      "label": "$$$message_0034_0041_0000$$$"
+    },
+    {
+      "en": "\"Huh?\"[lr]",
+      "jp": "「？？？」[lr]",
+      "Pt-br": "\"Hmm?\"[lr]",
+      "id": 14892,
+      "epk_id": "4557",
+      "label": "$$$message_0034_0041_0001$$$"
+    },
+    {
+      "en": "Her reaction is incomprehensible.[lr]",
+      "jp": "　あまりにも不可解な反応。[lr]",
+      "Pt-br": "Sua reação é incomprensível.[lr]",
+      "id": 14893,
+      "epk_id": "4558",
+      "label": "$$$message_0034_0041_0002$$$"
+    },
+    {
+      "en": "Did I just stumble on some secret about Rider that none of us knew about?",
+      "jp": "　ライダーにはまだ、我々のあずかり知らない秘密があるとでも言うのだろーか……？",
+      "Pt-br": "Pensei que tivesse descoberto algum segredo sobre a Rider que ninguém sabia?",
+      "id": 14894,
+      "epk_id": "4559",
+      "label": "$$$message_0034_0041_0003$$$"
+    },
+    {
+      "en": "In fact, yes, I did.[lr]",
+      "jp": "　それがあったのであった。[lr]",
+      "Pt-br": "De fato, sim, fiz.[lr]",
+      "id": 14895,
+      "epk_id": "4560",
+      "label": "$$$message_0034_0042_0000$$$"
+    },
+    {
+      "en": "Let us now speak of a distant land.[lr]",
+      "jp": "　これよりしばらく、遠い異国の話をしよう。[lr]",
+      "Pt-br": "Vamos agora falar de um país distante.[lr]",
+      "id": 14896,
+      "epk_id": "4561",
+      "label": "$$$message_0034_0042_0001$$$"
+    },
+    {
+      "en": "It was a dark myth dyed in blood.[lr]",
+      "jp": "　それは鮮血に彩られた暗黒神話。[lr]",
+      "Pt-br": "Era um mito escuro tingido de sangue.[lr]",
+      "id": 14897,
+      "epk_id": "4562",
+      "label": "$$$message_0034_0042_0002$$$"
+    },
+    {
+      "en": "The story of the monster Medusa, whose very name brought dread.",
+      "jp": "　語るも恐ろしい、女怪メドゥーサの物語である。",
+      "Pt-br": "A história do monstro Medusa, cujo próprio nome trazia medo.",
+      "id": 14898,
+      "epk_id": "4563",
+      "label": "$$$message_0034_0042_0003$$$"
+    },
+    {
+      "en": "There was an otherworldly realm called the Shapeless Isle.[lr]",
+      "jp": "　形なき島、と呼ばれる異境。[lr]",
+      "Pt-br": "Havia uma outra realidade chamada Ilha Sem Forma.[lr]",
+      "id": 14899,
+      "epk_id": "4564",
+      "label": "$$$message_0034_0043_0000$$$"
+    },
+    {
+      "en": "It was an island in the distant reaches of Okeanos, known only to the three Graeae sisters.[lr]",
+      "jp": "　三つ子のグライアイしか知らぬ[ruby text=オケアノス char=2]大洋の彼方の島。[lr]",
+      "Pt-br": "Era uma ilha nas distantes profundezas de Okeanos, conhecida apenas pelas três irmãs Graeae.[lr]",
+      "id": 14900,
+      "epk_id": "4565",
+      "label": "$$$message_0034_0043_0001$$$"
+    },
+    {
+      "en": "It was said the terrible Gorgon lived there, a fallen goddess transformed into a monster.",
+      "jp": "　そこには堕ちた女神が変じた、恐ろしい[ruby text=ゴルゴン char=2]怪物が棲むという。",
+      "Pt-br": "Dizia-se que a horrível Gorgona vivia ali, uma deusa caída transformada em monstro.",
+      "id": 14901,
+      "epk_id": "4566",
+      "label": "$$$message_0034_0043_0002$$$"
+    },
+    {
+      "en": "Many warriors arrived on the shores of that enigmatic temple.[lr]",
+      "jp": "　謎に包まれたこの神殿に、多くの戦士たちがたどり着いた。[lr]",
+      "Pt-br": "Muitos guerreiros chegaram às margens daquele templo enigmático.[lr]",
+      "id": 14902,
+      "epk_id": "4567",
+      "label": "$$$message_0034_0044_0000$$$"
+    },
+    {
+      "en": "Some went to verify the legend of the Gorgon,[lr]",
+      "jp": "　ある者はゴルゴンの伝説を確かめようと、[lr]",
+      "Pt-br": "Alguns foram verificar a lenda da Gorgona[lr]",
+      "id": 14903,
+      "epk_id": "4568",
+      "label": "$$$message_0034_0044_0001$$$"
+    },
+    {
+      "en": "while some sought to make their names by defeating it.[lr]",
+      "jp": "　ある者はゴルゴンを討ち果たし功名を得ようと。[lr]",
+      "Pt-br": "enquanto alguns buscavam tornar seu nome conhecido ao derrotá-lo.[lr]",
+      "id": 14904,
+      "epk_id": "4569",
+      "label": "$$$message_0034_0044_0002$$$"
+    },
+    {
+      "en": "Others were sent there with great fanfare after being prophesied by an oracle,[lr]",
+      "jp": "　またある者は神託を受けて華々しく送られ、[lr]",
+      "Pt-br": "Outros foram enviados lá com grande cerimônia após terem sido profetizados por um oráculo.[lr]",
+      "id": 14905,
+      "epk_id": "4570",
+      "label": "$$$message_0034_0044_0003$$$"
+    },
+    {
+      "en": "while others silently took up sword and spear and bow, telling no one of their quest.",
+      "jp": "　またある者は誰にも告げずに、剣を槍を弓を携えここに至った。",
+      "Pt-br": "Enquanto outros seguiam em silêncio, levantando espada, lança e arco, sem dizer a ninguém de sua jornada.",
+      "id": 14906,
+      "epk_id": "4571",
+      "label": "$$$message_0034_0044_0004$$$"
+    },
+    {
+      "en": "None returned alive.[lr]",
+      "jp": "　だが、今は誰も息をしていない。[lr]",
+      "Pt-br": "Nenhum retornou vivo.[lr]",
+      "id": 14907,
+      "epk_id": "4572",
+      "label": "$$$message_0034_0045_0000$$$"
+    },
+    {
+      "en": "Not a single man ever escaped the island.[lr]",
+      "jp": "　一人としてこの島から逃れた者はいない。[lr]",
+      "Pt-br": "Nenhum homem jamais escapou da ilha.[lr]",
+      "id": 14908,
+      "epk_id": "4573",
+      "label": "$$$message_0034_0045_0001$$$"
+    },
+    {
+      "en": "They did not even return to the earth upon their deaths.[lr]",
+      "jp": "　彼らは死して土に還ることもなく。[lr]",
+      "Pt-br": "Eles nem mesmo retornaram à terra após suas mortes.[lr]",
+      "id": 14909,
+      "epk_id": "4574",
+      "label": "$$$message_0034_0045_0002$$$"
+    },
+    {
+      "en": "They were turned to stone on the spot, and their lives ended there.",
+      "jp": "　生きながらにして石と化し、その命を終えるのだ。",
+      "Pt-br": "Eles foram transformados em pedra no mesmo instante, e suas vidas terminaram ali.",
+      "id": 14910,
+      "epk_id": "4575",
+      "label": "$$$message_0034_0045_0003$$$"
+    },
+    {
+      "en": "The bearer of Cybele, the Mystic Eyes of Petrification, lurked in the temple.[lr]",
+      "jp": "　石化の[ruby text=キュベレイ char=2]魔眼の[ruby text=あるじ]主が神殿を行く。[lr]",
+      "Pt-br": "A portadora de Cybele, os Olhos Místicos de Petrificação, espreitava no templo.[lr]",
+      "id": 14911,
+      "epk_id": "4576",
+      "label": "$$$message_0034_0046_0000$$$"
+    },
+    {
+      "en": "Her long hair was like the silken threads from the Orient, and her skin was white like virgin snow.[lr]",
+      "jp": "　長い髪は東方の絹糸のように、白い肌は処女雪のように。[lr]",
+      "Pt-br": "Seu longo cabelo era como os fios sedosos do Oriente, e sua pele era branca como neve virgem.[lr]",
+      "id": 14912,
+      "epk_id": "4577",
+      "label": "$$$message_0034_0046_0001$$$"
+    },
+    {
+      "en": "Furthermore, her demeanor was drier than the Nubian desert, and crueler than a sandstorm.",
+      "jp": "　されど彼女はヌビアの砂漠よりも乾き、砂嵐より残酷な存在であった。",
+      "Pt-br": "Além disso, seu comportamento era mais seco que o deserto nubiano e mais cruel que uma tempestade de areia.",
+      "id": 14913,
+      "epk_id": "4578",
+      "label": "$$$message_0034_0046_0002$$$"
+    },
+    {
+      "en": "The bearer looked at the petrified men, and her eyes stopped on one.[lr]",
+      "jp": "　主は石と化した男達を眺め、ある石像に目を留めた。[lr]",
+      "Pt-br": "O portador olhou para os homens petrificados e seus olhos pararam em um deles.[lr]",
+      "id": 14914,
+      "epk_id": "4579",
+      "label": "$$$message_0034_0047_0000$$$"
+    },
+    {
+      "en": "It was a statue of a large spear-wielding man.[lr]",
+      "jp": "　槍を携えた大柄の男の像である。[lr]",
+      "Pt-br": "Era uma estátua de um homem de grande lança.[lr]",
+      "id": 14915,
+      "epk_id": "4580",
+      "label": "$$$message_0034_0047_0001$$$"
+    },
+    {
+      "en": "His brutish, bulging muscles spoke to the strength he had during his life.[lr]",
+      "jp": "　筋肉は荒々しく隆起し、生前の剛強さを偲ばせる。[lr]",
+      "Pt-br": "Suas musculaturas brutas e salientes falavam da força que ele possuía durante a vida.[lr]",
+      "id": 14916,
+      "epk_id": "4581",
+      "label": "$$$message_0034_0047_0002$$$"
+    },
+    {
+      "en": "The bearer examined the statue, her lips slightly curling up at the corner.[lr]",
+      "jp": "　主は石像を検分すると、口元を微かに歪ませ[line len=3][lr]",
+      "Pt-br": "O portador examinou a estátua, seus lábios curvando-se levemente no canto.[lr]",
+      "id": 14917,
+      "epk_id": "4582",
+      "label": "$$$message_0034_0047_0003$$$"
+    },
+    {
+      "en": "She raised her strangely shaped dagger at the poor man.[se storage=se126.wav][se storage=se140.wav][se storage=se102.wav]",
+      "jp": "　手にした異形の短剣を、哀れな男に、振りかざした。[se storage=se126.wav][se storage=se140.wav][se storage=se102.wav]",
+      "Pt-br": "Ela ergueu sua estranha faca em direção ao pobre homem.[se storage=se126.wav][se storage=se140.wav][se storage=se102.wav]",
+      "id": 14918,
+      "epk_id": "4583",
+      "label": "$$$message_0034_0047_0004$$$"
+    },
+    {
+      "en": "She wrapped the statue in chains connected to the pommel of her dagger.[lr]",
+      "jp": "　突き刺さった剣尻から伸びる鎖を引き、別の石像に巻き付ける。[lr]",
+      "Pt-br": "Ela envolveu a estátua com correntes conectadas ao pomel da sua faca.[lr]",
+      "id": 14919,
+      "epk_id": "4584",
+      "label": "$$$message_0034_0048_0000$$$"
+    },
+    {
+      "en": "In front of the chain bridging two statues, she crouched down at the basket by her feet,[lr]",
+      "jp": "　二体の石像の間に張られた鎖を前にして、主は足下の[ruby text=かご]籠にしゃがみ込み[line len=3][lr]",
+      "Pt-br": "Diante da corrente que unia duas estátuas, ela se ajoelhou na cesta ao lado dos seus pés.[lr]",
+      "id": 14920,
+      "epk_id": "4585",
+      "label": "$$$message_0034_0048_0001$$$"
+    },
+    {
+      "en": "and removed a mountain of laundry.",
+      "jp": "　山のような洗濯物を取り上げた。",
+      "Pt-br": "e removeu uma montanha de roupas de lavar.",
+      "id": 14921,
+      "epk_id": "4586",
+      "label": "$$$message_0034_0048_0002$$$"
+    },
+    {
+      "en": "\"Ah... This one's cute... I'd love to wear something like this.\"[lr]",
+      "jp": "「あ……これ可愛い……いいなぁ、こういうの」[lr]",
+      "Pt-br": "\"Ah... Essa é fofa... Adoraria usar algo assim.\"[lr]",
+      "id": 14922,
+      "epk_id": "4587",
+      "label": "$$$message_0034_0049_0000$$$"
+    },
+    {
+      "en": "The box was filled with garments made from expensive silks and linens, all adorned with frills and ribbons.[lr]",
+      "jp": "　籠の中は、どれもフリルやリボンの多い、高価な絹や麻で出来た衣服ばかり。[lr]",
+      "Pt-br": "A caixa estava cheia de roupas feitas de seda e linho caros, todas adornadas com babados e fitas.[lr]",
+      "id": 14923,
+      "epk_id": "4588",
+      "label": "$$$message_0034_0049_0001$$$"
+    },
+    {
+      "en": "The bearer painstakingly washed each one by hand, methodically rinsed them in the flowing river, and hung them to dry on the chains.",
+      "jp": "　主は一つ一つ丹念に手洗いし、河の流れで几帳面に[ruby text=そそ]濯いで、鎖の端から順にかけていく。",
+      "Pt-br": "O portador lavou cada um com cuidado, lavando-os meticulosamente na correnteza do rio e pendurando-os para secar nas correntes.",
+      "id": 14924,
+      "epk_id": "4589",
+      "label": "$$$message_0034_0049_0002$$$"
+    },
+    {
+      "en": "She worked diligently, rapidly using everything at her disposal.[lr]",
+      "jp": "　甲斐甲斐しく働き続ける。[lr]",
+      "Pt-br": "Ela trabalhou diligentemente, usando rapidamente tudo o que dispunha.[lr]",
+      "id": 14925,
+      "epk_id": "4590",
+      "label": "$$$message_0034_0050_0000$$$"
+    },
+    {
+      "en": "Spears became drying poles, swords became hangers, and helmets became shoe drying racks.[se storage=se216.wav]",
+      "jp": "　その手にかかればたちまち、槍は物干し竿に、剣はハンガーに、兜の房は靴を乾かす台となった。[se storage=se216.wav]",
+      "Pt-br": "Asas se tornaram cabos de secar, espadas viraram gancho de roupa, e capacetes viraram cabides para secar sapatos.[se storage=se216.wav]",
+      "id": 14926,
+      "epk_id": "4591",
+      "label": "$$$message_0034_0050_0001$$$"
+    },
+    {
+      "en": "Once [se volume=70 storage=se140.wav]she finished, she noticed a statue casting a shadow over some of the laundry, and kicked it over.[lr]",
+      "jp": "　すべて[se volume=70 storage=se140.wav]かけ終えたところで、石像の一体が干し物に影を落としていることに気づき、蹴り倒す。[lr]",
+      "Pt-br": "Depois [se volume=70 storage=se140.wav]que terminou, ela notou uma estátua projetando uma sombra sobre parte da roupa e a empurrou para o lado.[lr]",
+      "id": 14927,
+      "epk_id": "4592",
+      "label": "$$$message_0034_0051_0000$$$"
+    },
+    {
+      "en": "All in a day's work.[lr]",
+      "jp": "　一連の[ruby text=さぎょう char=2]洗濯は終了。[lr]",
+      "Pt-br": "Tudo em um dia de trabalho.[lr]",
+      "id": 14928,
+      "epk_id": "4593",
+      "label": "$$$message_0034_0051_0001$$$"
+    },
+    {
+      "en": "The Mystic Eye bearer gazed at the narrow row of statues lining the temple.[lr]",
+      "jp": "　魔眼の主は神殿狭しと立ち並ぶ石像を眺め、[lr]",
+      "Pt-br": "O portador do Olho Místico olhou para a fileira estreita de estátuas alinhadas no templo.[lr]",
+      "id": 14929,
+      "epk_id": "4594",
+      "label": "$$$message_0034_0051_0002$$$"
+    },
+    {
+      "en": "\"Whew. I hope nobody comes today,\"[lr]",
+      "jp": "「[line len=3]ふう。今日は誰も来ないと良いなぁ」[lr]",
+      "Pt-br": "\"Ufa. Espero que ninguém venha hoje.\"[lr]",
+      "id": 14930,
+      "epk_id": "4595",
+      "label": "$$$message_0034_0051_0003$$$"
+    },
+    {
+      "en": "she sighed, with a hint of ennui.",
+      "jp": "　アンニュイげに、小さく溜息をつくのであった。",
+      "Pt-br": "Ela suspirou, com um toque de tédio.",
+      "id": 14931,
+      "epk_id": "4596",
+      "label": "$$$message_0034_0051_0004$$$"
+    },
+    {
+      "en": "\"Okay, time for a break.\"[lr]",
+      "jp": "「さて、と。一休み一休み」[lr]",
+      "Pt-br": "\"Certo, hora de descansar um pouco.\"[lr]",
+      "id": 14932,
+      "epk_id": "4597",
+      "label": "$$$message_0034_0052_0000$$$"
+    },
+    {
+      "en": "She sat on a statue of a man crawling away on all fours.[lr]",
+      "jp": "　四つん這いになって逃げだす男の石像の上に、よいしょと腰かける。[lr]",
+      "Pt-br": "Ela sentou-se em uma estátua de um homem se arrastando de quatro.[lr]",
+      "id": 14933,
+      "epk_id": "4598",
+      "label": "$$$message_0034_0052_0001$$$"
+    },
+    {
+      "en": "Under the warm sunlight, a dry breeze wafted between her hair and the hanging laundry.",
+      "jp": "　ぽかぽかと差す日差しの下で、乾いた風は彼女の髪と洗濯物の間を駆け抜けていく。",
+      "Pt-br": "Sob a luz solar quente, uma brisa seca dançava entre seus cabelos e a roupa pendurada.",
+      "id": 14934,
+      "epk_id": "4599",
+      "label": "$$$message_0034_0052_0002$$$"
+    },
+    {
+      "en": "\"The laundry piled up a little, but I'm glad we have nice weather for once.\"[lr]",
+      "jp": "「ちょっと洗濯物がたまっちゃったけど、久しぶりにいいお天気で良かった」[lr]",
+      "Pt-br": "\"A roupa amontonou um pouco, mas estou feliz por termos um tempo bom por uma vez.\"[lr]",
+      "id": 14935,
+      "epk_id": "4600",
+      "label": "$$$message_0034_0053_0000$$$"
+    },
+    {
+      "en": "Idly, she looked up at the sun, basking in its rays.[lr]",
+      "jp": "　身体中に陽の光を浴びながら、ぼんやりと太陽を眺める。[lr]",
+      "Pt-br": "Indiferentemente, ela olhou para o Sol, aproveitando seus raios.[lr]",
+      "id": 14936,
+      "epk_id": "4601",
+      "label": "$$$message_0034_0053_0001$$$"
+    },
+    {
+      "en": "She didn't look like a goddess to be worshipped or a monster that terrified the world. She was just a girl savouring her moment of rest.",
+      "jp": "　その姿は人々の信仰を集める女神ではなく、世界を震撼させる怪物ではなく、一時の安らぎを噛みしめる少女のそのものだ。",
+      "Pt-br": "Ela não parecia uma deusa a ser venerada, nem um monstro capaz de aterrorizar o mundo. Era só uma garota saboreando um momento de descanso.",
+      "id": 14937,
+      "epk_id": "4602",
+      "label": "$$$message_0034_0053_0002$$$"
+    },
+    {
+      "en": "\"Found you, Medusa!\"[lr]",
+      "jp": "「見つけた、メドゥーサ……！」[lr]",
+      "Pt-br": "\"Te encontrei, Medusa!\"[lr]",
+      "id": 14938,
+      "epk_id": "4603",
+      "label": "$$$message_0034_0054_0000$$$"
+    },
+    {
+      "en": "\"...!\"[lr]",
+      "jp": "「[line len=3]！」[lr]",
+      "Pt-br": "\"...!\"[lr]",
+      "id": 14939,
+      "epk_id": "4604",
+      "label": "$$$message_0034_0054_0001$$$"
+    },
+    {
+      "en": "An angry voice suddenly rang out in the temple.[lr]",
+      "jp": "　突如神殿に、怒りを[ruby text=はら]孕んだ声が響く。[lr]",
+      "Pt-br": "Uma voz irritada soou subitamente no templo.[lr]",
+      "id": 14940,
+      "epk_id": "4605",
+      "label": "$$$message_0034_0054_0002$$$"
+    },
+    {
+      "en": "   It wasn't an unusual sound on the island.[lr]",
+      "jp": "　[line len=3]それは、この島では珍しい事ではない。[lr]",
+      "Pt-br": "Não era um som incomum na ilha.[lr]",
+      "id": 14941,
+      "epk_id": "4606",
+      "label": "$$$message_0034_0054_0003$$$"
+    },
+    {
+      "en": "Many assassins had come to slay the fell serpent in search of glory, so she had to be on guard for attacks at all times, day or night.[lr]",
+      "jp": "　幾多もの刺客たちが妖蛇退治の名声を求め、昼夜を問わず主の命を狙い来るのだ。[lr]",
+      "Pt-br": "Muitos assassinos vieram matar a serpente maléfica em busca de glória, então ela precisava estar em alerta para ataques a qualquer momento, dia ou noite.[lr]",
+      "id": 14942,
+      "epk_id": "4607",
+      "label": "$$$message_0034_0054_0004$$$"
+    },
+    {
+      "en": "As a result, this graveyard of bizarrely shaped stones had seen an increase in clothes-drying racks...",
+      "jp": "　その結果、この奇岩怪石の墓場に新たな[ruby text=ものほしだい char=2]石像が増える事になるのだが……",
+      "Pt-br": "Como resultado, aquele cemitério de pedras bizarras vinha ganhando cada vez mais varais improvisados...",
+      "id": 14943,
+      "epk_id": "4608",
+      "label": "$$$message_0034_0054_0005$$$"
+    },
+    {
+      "en": "\"Ah, ah, ah, aah...\"[lr]",
+      "jp": "「あ、あ、あ、あ[line len=3]」[lr]",
+      "Pt-br": "\"Ah, ah, ah, aah...\"[lr]",
+      "id": 14944,
+      "epk_id": "4609",
+      "label": "$$$message_0034_0055_0000$$$"
+    },
+    {
+      "en": "But...[lr]",
+      "jp": "　[line len=3]だが。[lr]",
+      "Pt-br": "Mas...[lr]",
+      "id": 14945,
+      "epk_id": "4610",
+      "label": "$$$message_0034_0055_0001$$$"
+    },
+    {
+      "en": "The Mystic Eye bearer who should have been licking her lips at the prospect of new sacrifices was instead whimpering as if the world was about to end.",
+      "jp": "　新たな生け贄に舌なめずりをする筈の魔眼の主は、この世の終わりを迎えたように萎縮する。",
+      "Pt-br": "A portadora do Olho Místico que deveria estar lambendo os lábios diante da perspectiva de novos sacrifícios estava, em vez disso, gemendo como se o mundo estivesse prestes a acabar.",
+      "id": 14946,
+      "epk_id": "4611",
+      "label": "$$$message_0034_0055_0002$$$"
+    },
+    {
+      "en": "\"I can't believe this... How could you...!\"[lr]",
+      "jp": "「信じられない……。どうして……こんな！」[lr]",
+      "Pt-br": "\"Eu não acredito nisso... Como você poderia...!\"[lr]",
+      "id": 14947,
+      "epk_id": "4612",
+      "label": "$$$message_0034_0056_0000$$$"
+    },
+    {
+      "en": "A lone, beautiful girl had appeared at the top of a staircase,[lr]",
+      "jp": "　石像の森を見下ろす石段の頂上に現れたのは、[lr]",
+      "Pt-br": "Uma garota sozinha e bela havia aparecido no topo de uma escada.[lr]",
+      "id": 14948,
+      "epk_id": "4613",
+      "label": "$$$message_0034_0056_0001$$$"
+    },
+    {
+      "en": "glaring down at the petrified forest.",
+      "jp": "　[line len=3]ひとりの、華麗な少女だった。",
+      "Pt-br": "olhando para baixo para a floresta petrificada.",
+      "id": 14949,
+      "epk_id": "4614",
+      "label": "$$$message_0034_0056_0002$$$"
+    },
+    {
+      "en": "\"What...have you done!?\"[lr]",
+      "jp": "「貴女は……なんてコトを！？」[lr]",
+      "Pt-br": "\"O que... você fez!?\"[lr]",
+      "id": 14950,
+      "epk_id": "4615",
+      "label": "$$$message_0034_0057_0000$$$"
+    },
+    {
+      "en": "\"I...\"[lr]",
+      "jp": "「だって……」[lr]",
+      "Pt-br": "\"I...\"[lr]",
+      "id": 14951,
+      "epk_id": "4616",
+      "label": "$$$message_0034_0057_0001$$$"
+    },
+    {
+      "en": "\"I told you [font italic=true]not[font italic=false] to hang the laundry on those rusty old chains!\"",
+      "jp": "「洗濯物を干すのにその錆び臭い鎖は使うなと、あれほど言ったじゃないの！」",
+      "Pt-br": "\"Diga-me, [font italic=true]não[font italic=false] que pendurar a roupa nesses cadeados velhos e enferrujados!\"",
+      "id": 14952,
+      "epk_id": "4617",
+      "label": "$$$message_0034_0057_0002$$$"
+    },
+    {
+      "en": "\"F-forgive me, Sister. It's so convenient, I didn't think[line len=2]\"[lr]",
+      "jp": "「お……お許し下さい、姉さま。あの、便利なもので、つい」[lr]",
+      "Pt-br": "\"P-perdoe-me, Sister. Foi tão conveniente que eu nem pensei[line len=2]\"[lr]",
+      "id": 14953,
+      "epk_id": "4618",
+      "label": "$$$message_0034_0058_0000$$$"
+    },
+    {
+      "en": "\"Silence. Ugh, look how creased your chains have made my gorgeous dresses![lr]",
+      "jp": "「お黙りなさい。ああもう、私の端正だった服に鎖の凸凹の跡がついて台無しじゃない！[lr]",
+      "Pt-br": "\"Silêncio. Ugh, olha como as suas correntes me fizeram arrugar essas minhas roupas lindas![lr]",
+      "id": 14954,
+      "epk_id": "4619",
+      "label": "$$$message_0034_0058_0001$$$"
+    },
+    {
+      "en": "Because you're so big and brutish, you've corrupted not just your body but your divinity...[cacheimage storage=ゴルゴン次女01d(中)][wvl][chgfg time=300 storage=ゴルゴン次女01d(中)] My garments are different from the rags you cover yourself in, understand!? Everything you do with those [font italic=true]huge[font italic=false] hands of yours is so sloppy!\"",
+      "jp": "　でかい貴女がバカ力で力任せに擦るから、汚れだけでなく神性まで落として……[cacheimage storage=ゴルゴン次女01d(中)][wvl][chgfg time=300 storage=ゴルゴン次女01d(中)]いいこと、私の体を飾る衣装は貴女の粗雑な服とは違うのです！　大柄だからって、やることなすこと[ruby text=ずさん char=2]杜撰なんだから」",
+      "Pt-br": "Porque você é tão grande e grosseiro, corrompeu não só seu corpo, mas sua divindade... [cacheimage storage=ゴルゴン次女01d(中)][wvl][chgfg time=300 storage=ゴルゴン次女01d(中)] Minhas roupas são diferentes das roupas deslavadas que você se cobre, entendeu!? Tudo o que você faz com essas [font italic=true]grandes[font italic=false] mãos suas é tão desorganizado!\"",
+      "id": 14955,
+      "epk_id": "4620",
+      "label": "$$$message_0034_0058_0002$$$"
+    },
+    {
+      "en": "\"Yes... I'm terribly sorry.\"[lr]",
+      "jp": "「はい……申し訳ございません」[lr]",
+      "Pt-br": "\"Sim... Estou profundamente arrependido.\"[lr]",
+      "id": 14956,
+      "epk_id": "4621",
+      "label": "$$$message_0034_0059_0000$$$"
+    },
+    {
+      "en": "\"And look at my [wvl][se storage=se054 nowait=1][shock vmax=20 time=300 count=-3]shoes! What's the meaning of this, putting them on that ugly man! Those were my favorite shoes, and now they're too dirty to wear.[lr]",
+      "jp": "「それに私の[wvl][se storage=se054 nowait=1][shock vmax=20 time=300 count=-3]靴！　あんな不細工な男の上に載せるなんて、どういうコト？　お気に入りの靴だったのに、あれじゃあ汚らわしくてもう履けないわ。[lr]",
+      "Pt-br": "\"E olhe para meus [wvl] [se storage=se054 nowait=1] [shock vmax=20 time=300 count=-3]sapatos! Que significado tem isso, colocar em cima desse homem feio! Eram meus sapatos favoritos, e agora estão tão sujos que não posso usá-los.[lr]",
+      "id": 14957,
+      "epk_id": "4622",
+      "label": "$$$message_0034_0059_0001$$$"
+    },
+    {
+      "en": "I know that pea-sized brain isn't big enough for your massive, ungainly body, but I can't believe that you've even lost your sense for dignity and beauty.\"[lr]",
+      "jp": "　大女[ruby text=そうみ char=2]総身に知恵が回りかねというけれど、貴女ときたら品位や美意識まで欠けているようね」[lr]",
+      "Pt-br": "Eu sei que aquela cabeça de feijão não é grande o suficiente para seu corpo imenso e desajeitado, mas não consigo acreditar que você tenha perdido totalmente o senso de dignidade e beleza.\"[lr]",
+      "id": 14958,
+      "epk_id": "4623",
+      "label": "$$$message_0034_0059_0002$$$"
+    },
+    {
+      "en": "\"You're right... I have no excuse.\"",
+      "jp": "「はい……返す言葉もございません」",
+      "Pt-br": "\"Você tem razão... Não tenho desculpa.\"",
+      "id": 14959,
+      "epk_id": "4624",
+      "label": "$$$message_0034_0059_0003$$$"
+    },
+    {
+      "en": "\"Gyaah, and those clothes need to be dried in the shade![lr]",
+      "jp": "「きゃあ、その服は陰干ししなきゃ駄目じゃない！[lr]",
+      "Pt-br": "\"Gyaah, e essas roupas precisam ser secas à sombra![lr]",
+      "id": 14960,
+      "epk_id": "4625",
+      "label": "$$$message_0034_0060_0000$$$"
+    },
+    {
+      "en": "Ahh, they're faded... How can you not wash a single thing right? You've ruined all of the clothes![lr]",
+      "jp": "　ああ、褪せちゃってる……もうっ、洗濯ひとつ満足にできないどころか服を全部ダメにしちゃうなんて！[lr]",
+      "Pt-br": "Ah, estão desbotados... Como você não lava nem uma coisa só? Você destruiu todas as roupas![lr]",
+      "id": 14961,
+      "epk_id": "4626",
+      "label": "$$$message_0034_0060_0001$$$"
+    },
+    {
+      "en": "Unbelievable! Are you a goddess of pestilence!?[wm canskip=0] [wvl][move textoff=0 time=100 path=(467,178,255)(467,166,255) storage=ゴルゴン次女01c(遠) accel=0]Or is your domain all about being utterly useless!?[wm canskip=0][lr]",
+      "jp": "　信じられない、貴女は究極の疫病神なの！？[wm canskip=0]　[wvl][move textoff=0 time=100 path=(467,178,255)(467,166,255) storage=ゴルゴン次女01c(遠) accel=0]それとも最高の役立たずなの！？[wm canskip=0][lr]",
+      "Pt-br": "Inacreditável! Você é uma deusa da peste!? [wm canskip=0] [wvl] [move textoff=0 time=100 path=(467,178,255)(467,166,255) storage=ゴルゴン次女01c(遠) accel=0] Ou seu domínio é só sobre ser completamente inútil!?[wm canskip=0][lr]",
+      "id": 14962,
+      "epk_id": "4627",
+      "label": "$$$message_0034_0060_0002$$$"
+    },
+    {
+      "en": "So? Answer the question, useless Medusa!\"[lr]",
+      "jp": "　どうなの！？　答えなさい駄メドゥーサ！」[lr]",
+      "Pt-br": "Então? Responda à pergunta, imprestável Medusa!\"[lr]",
+      "id": 14963,
+      "epk_id": "4628",
+      "label": "$$$message_0034_0060_0003$$$"
+    },
+    {
+      "en": "\"I-I, um, I'll be more careful next time, so...\"",
+      "jp": "「そ、それは、あの……姉さま、次は気をつけます、から[line len=3]」",
+      "Pt-br": "\"Eu, um, vou ser mais cuidadoso da próxima vez, então...\"",
+      "id": 14964,
+      "epk_id": "4629",
+      "label": "$$$message_0034_0060_0004$$$"
+    },
+    {
+      "en": "\"[move textoff=0 time=100 path=(437,133,255)(437,117,255) storage=ゴルゴン次女01d(近) accel=0]Sounds [wm canskip=0][wvl canskip=0 time=70][move textoff=0 time=100 path=(437,133,255)(437,117,255) storage=ゴルゴン次女01d(近) accel=0]like [wm canskip=0][wvl canskip=0 time=70][move textoff=0 time=100 path=(437,133,255)(437,117,255) storage=ゴルゴン次女01d(近) accel=0]you [wm canskip=0][wvl canskip=0 time=70][move textoff=0 time=100 path=(437,133,255)(437,117,255) storage=ゴルゴン次女01d(近) accel=0]still [wm canskip=0][wvl canskip=0 time=70][move textoff=0 time=100 path=(437,133,255)(437,117,255) storage=ゴルゴン次女01d(近) accel=0]can't [wm canskip=0][wvl canskip=0 time=70][move textoff=0 time=100 path=(437,133,255)(437,117,255) storage=ゴルゴン次女01d(近) accel=0]get [wm canskip=0][wvl canskip=0 time=70][move textoff=0 time=100 path=(437,133,255)(437,117,255) storage=ゴルゴン次女01d(近) accel=0]it [wm canskip=0][wvl canskip=0 time=70][move textoff=0 time=100 path=(437,133,255)(437,117,255) storage=ゴルゴン次女01d(近) accel=0]through [wm canskip=0][wvl canskip=0 time=70][move textoff=0 time=100 path=(437,133,255)(437,117,255) storage=ゴルゴン次女01d(近) accel=0]your [wm canskip=0][wvl canskip=0 time=70][move textoff=0 time=100 path=(437,133,255)(437,117,255) storage=ゴルゴン次女01d(近) accel=0]head...![rf][lr]",
+      "jp": "「[move textoff=0 time=100 path=(437,133,255)(437,117,255) storage=ゴルゴン次女01d(近) accel=0]ま・[wm canskip=0][wvl canskip=0 time=70][move textoff=0 time=100 path=(437,133,255)(437,117,255) storage=ゴルゴン次女01d(近) accel=0]だ・[wm canskip=0][wvl canskip=0 time=70][move textoff=0 time=100 path=(437,133,255)(437,117,255) storage=ゴルゴン次女01d(近) accel=0]わ・[wm canskip=0][wvl canskip=0 time=70][move textoff=0 time=100 path=(437,133,255)(437,117,255) storage=ゴルゴン次女01d(近) accel=0]か・[wm canskip=0][wvl canskip=0 time=70][move textoff=0 time=100 path=(437,133,255)(437,117,255) storage=ゴルゴン次女01d(近) accel=0]ら・[wm canskip=0][wvl canskip=0 time=70][move textoff=0 time=100 path=(437,133,255)(437,117,255) storage=ゴルゴン次女01d(近) accel=0]な・[wm canskip=0][wvl canskip=0 time=70][move textoff=0 time=100 path=(437,133,255)(437,117,255) storage=ゴルゴン次女01d(近) accel=0]い・[wm canskip=0][wvl canskip=0 time=70][move textoff=0 time=100 path=(437,133,255)(437,117,255) storage=ゴルゴン次女01d(近) accel=0]よ・[wm canskip=0][wvl canskip=0 time=70][move textoff=0 time=100 path=(437,133,255)(437,117,255) storage=ゴルゴン次女01d(近) accel=0]う・[wm canskip=0][wvl canskip=0 time=70][move textoff=0 time=100 path=(437,133,255)(437,117,255) storage=ゴルゴン次女01d(近) accel=0]ね……！[rf][lr]",
+      "Pt-br": "\"[move textoff=0 time=100 path=(437,133,255)(437,117,255) storage=ゴルゴン次女01d(近) accel=0]Sons [wm canskip=0][wvl canskip=0 time=70][move textoff=0 time=100 path=(437,133,255)(437,117,255) storage=ゴルゴン次女01d(近) accel=0]parecem [wm canskip=0][wvl canskip=0 time=70][move textoff=0 time=100 path=(437,133,255)(437,117,255) storage=ゴルゴン次女01d(近) accel=0]como se [wm canskip=0][wvl canskip=0 time=70][move textoff=0 time=100 path=(437,133,255)(437,117,255) storage=ゴルゴン次女01d(近) accel=0]ainda [wm canskip=0][wvl canskip=0 time=70][move textoff=0 time=100 path=(437,133,255)(437,117,255) storage=ゴルゴン次女01d(近) accel=0]não [wm canskip=0][wvl canskip=0 time=70][move textoff=0 time=100 path=(437,133,255)(437,117,255) storage=ゴルゴン次女01d(近) accel=0]conseguisse [wm canskip=0][wvl canskip=0 time=70][move textoff=0 time=100 path=(437,133,255)(437,117,255) storage=ゴルゴン次女01d(近) accel=0]entender [wm canskip=0][wvl canskip=0 time=70][move textoff=0 time=100 path=(437,133,255)(437,117,255) storage=ゴルゴン次女01d(近) accel=0]por [wm canskip=0][wvl canskip=0 time=70][move textoff=0 time=100 path=(437,133,255)(437,117,255) storage=ゴルゴン次女01d(近) accel=0]sua [wm canskip=0][wvl canskip=0 time=70][move textoff=0 time=100 path=(437,133,255)(437,117,255) storage=ゴルゴン次女01d(近) accel=0]cabeça...![rf][lr]",
+      "id": 14965,
+      "epk_id": "4630",
+      "label": "$$$message_0034_0061_0000$$$"
+    },
+    {
+      "en": "There won't be a next time[cacheimage storage=ゴルゴン次女01e(近)]! [wvl][chgfg textoff=0 time=300 storage=ゴルゴン次女01e(近)]Argh, what am I supposed to wear tomorrow!? [cacheimage storage=ゴルゴン次女01d(近)][wvl][chgfg time=200 index=3000 textoff=0 storage=ゴルゴン次女01d(近)]Are you telling me to spend the day in a shameless, nearly nude outfit like yours!?\"",
+      "jp": "　貴女に次なんてないのよ[cacheimage storage=ゴルゴン次女01e(近)]！[wvl][chgfg textoff=0 time=300 storage=ゴルゴン次女01e(近)]　ああもう、私は明日から何を着ればいいの！？[cacheimage storage=ゴルゴン次女01d(近)]　[wvl][chgfg time=200 index=3000 textoff=0 storage=ゴルゴン次女01d(近)]貴女みたいに裸同然の[ruby text=はれんち char=3]破廉恥な格好で過ごせというの！？」",
+      "Pt-br": "Não haverá uma próxima vez [cacheimage storage=ゴルゴン次女01e(近)]! [wvl][chgfg textoff=0 time=300 storage=ゴルゴン次女01e(近)]Argh, que roupa eu vou usar amanhã!? [cacheimage storage=ゴルゴン次女01d(近)][wvl][chgfg time=200 index=3000 textoff=0 storage=ゴルゴン次女01d(近)]Você está me dizendo que devo passar o dia em um figurino quase nu, sem pudor como o seu!?\"",
+      "id": 14966,
+      "epk_id": "4631",
+      "label": "$$$message_0034_0061_0001$$$"
+    },
+    {
+      "en": "\"...But these clothes are your...\"[lr]",
+      "jp": "「…でも、この服は姉さまたちの……」[lr]",
+      "Pt-br": "\"...Mas essas roupas são suas...\"[lr]",
+      "id": 14967,
+      "epk_id": "4632",
+      "label": "$$$message_0034_0062_0000$$$"
+    },
+    {
+      "en": "\"What, you not happy? Our hand-me-downs are more than good enough for you.\"[lr]",
+      "jp": "「なによ、文句あるの？　貴女には私たちの余り物で十分でしょうに」[lr]",
+      "Pt-br": "\"Que, você não está feliz? Nossas roupas usadas são mais do que suficientes para você.\"[lr]",
+      "id": 14968,
+      "epk_id": "4633",
+      "label": "$$$message_0034_0062_0001$$$"
+    },
+    {
+      "en": "The girl gives the beautiful woman a fierce tongue-lashing. She barely comes up to the woman's chest height.[lr]",
+      "jp": "　胸の下ほどの背の少女に、がみがみと怒られる長身の美女。[lr]",
+      "Pt-br": "A garota dá uma repreensão firme à bela mulher. Ela mal chega ao nível do peito da mulher.[lr]",
+      "id": 14969,
+      "epk_id": "4634",
+      "label": "$$$message_0034_0062_0002$$$"
+    },
+    {
+      "en": "It might have been a comical sight to an observer, but unfortunately, the only witnesses were lifeless statues.",
+      "jp": "　端から見れば微笑ましいが、[ruby text=あいにく char=2]生憎と物言わぬ石像しかいない。",
+      "Pt-br": "Poderia ter sido uma cena cômica para um observador, mas infelizmente, os únicos testemunhas eram estátuas sem vida.",
+      "id": 14970,
+      "epk_id": "4635",
+      "label": "$$$message_0034_0062_0003$$$"
+    },
+    {
+      "en": "\"They're all so hideous. I hate looking at their lecherous faces.[lr]",
+      "jp": "「まったくどれもこれも醜いわ。女の気を惹きたがるような下卑た顔ばっかりで、もう眺めが最悪。[lr]",
+      "Pt-br": "\"Eles todos são tão horríveis. Odiar olhar para seus rostos lascivos.[lr]",
+      "id": 14971,
+      "epk_id": "4636",
+      "label": "$$$message_0034_0063_0000$$$"
+    },
+    {
+      "en": "Once a man makes a face like that, it's over.\"[lr]",
+      "jp": "　男はこんな顔するようになったらお終いね」[lr]",
+      "Pt-br": "Faz um cara um cara como esse, já acabou.\"[lr]",
+      "id": 14972,
+      "epk_id": "4637",
+      "label": "$$$message_0034_0063_0001$$$"
+    },
+    {
+      "en": "\"Uh-huh...\"[lr]",
+      "jp": "「はぁ……」[lr]",
+      "Pt-br": "\"Hmm...\"[lr]",
+      "id": 14973,
+      "epk_id": "4638",
+      "label": "$$$message_0034_0063_0002$$$"
+    },
+    {
+      "en": "\"Only petrify handsome men from now on. I want you to destroy and clean up all the ones that aren't worth appreciating, by tonight!\"[lr]",
+      "jp": "「これからは美形の男だけ石にしなさい。鑑賞価値のないここの石像は全部砕いて片づけること、今晩までに！」[lr]",
+      "Pt-br": "\"Daqui em diante, petrifique só os homens bonitos. Os que não valem ser admirados, destrua e limpe tudo até hoje à noite!\"[lr]",
+      "id": 14974,
+      "epk_id": "4639",
+      "label": "$$$message_0034_0063_0003$$$"
+    },
+    {
+      "en": "\"W-what!? But there are so many!\"",
+      "jp": "「そ、そんなっ！　だ、だって、こんなにあるのに」",
+      "Pt-br": "\"E-é!? Mas tem tantos!\"",
+      "id": 14975,
+      "epk_id": "4640",
+      "label": "$$$message_0034_0063_0004$$$"
+    },
+    {
+      "en": "\"I'm your big sister, and you do what I say. You're our little sister, which makes you less than a slave on this island.[lr]",
+      "jp": "「姉の私がやれと言ったらやるのよ。貴女は妹、この島では奴隷以下の存在なんだから。[lr]",
+      "Pt-br": "\"Sou sua irmã mais velha, e você faz o que eu digo. Você é nossa irmã mais nova, o que faz com que você seja menos que um escravo nesta ilha.[lr]",
+      "id": 14976,
+      "epk_id": "4641",
+      "label": "$$$message_0034_0064_0000$$$"
+    },
+    {
+      "en": "And no getting lazy and using Bellerophon to clean them all up in one go. You might burn the temple if you do that.\"",
+      "jp": "　あとこの前みたいに手を抜いて、[ruby text=ベルレフォーン char=5]騎英の手綱で石像を一掃するなんてのはダメよ。そんなコトしたら神殿まで焼け焦げちゃうでしょう」",
+      "Pt-br": "E não se esqueça de não ficar preguiçoso e usar Bellerophon para limpar tudo de uma vez. Você pode queimar o templo se fizer isso.\"",
+      "id": 14977,
+      "epk_id": "4642",
+      "label": "$$$message_0034_0064_0001$$$"
+    },
+    {
+      "en": "\"Ugh...aah...\"[lr]",
+      "jp": "「う……あう……」[lr]",
+      "Pt-br": "\"Ugh... aah...\"[lr]",
+      "id": 14978,
+      "epk_id": "4643",
+      "label": "$$$message_0034_0065_0000$$$"
+    },
+    {
+      "en": "\"Goodness, you just had to not get caught. Who do you take after, I wonder...\"[lr]",
+      "jp": "「まったく、バレなければいいだなんて、誰に似たのかしら……」[lr]",
+      "Pt-br": "\"Sacrilégio, você teve que não ser pego. Com quem você pensa que está se parecendo, eu me pergunto...\"[lr]",
+      "id": 14979,
+      "epk_id": "4644",
+      "label": "$$$message_0034_0065_0001$$$"
+    },
+    {
+      "en": "[small]\"You, Sister.\"[rf]",
+      "jp": "[small]「[line len=6]姉さまだと思うけど」[rf]",
+      "Pt-br": "[small]\"Você, irmã.\"[rf]",
+      "id": 14980,
+      "epk_id": "4645",
+      "label": "$$$message_0034_0065_0002$$$"
+    },
+    {
+      "en": "\"I heard that, Medusa.\"[rf][lr]",
+      "jp": "「聞こえたわよ、メドゥーサ」[rf][lr]",
+      "Pt-br": "\"Eu ouvi, Medusa.\"[rf][lr]",
+      "id": 14981,
+      "epk_id": "4646",
+      "label": "$$$message_0034_0066_0000$$$"
+    },
+    {
+      "en": "\"E-eep!\"[lr]",
+      "jp": "「ひっ、ひい！？」[lr]",
+      "Pt-br": "\"E-eep!\"[lr]",
+      "id": 14982,
+      "epk_id": "4647",
+      "label": "$$$message_0034_0066_0001$$$"
+    },
+    {
+      "en": "\"...Unbelievable. I just said that you're less than a slave.[lr]",
+      "jp": "「……信じられない。さっき貴女は奴隷以下だと断ったばかりなのに。[lr]",
+      "Pt-br": "\"...Inacreditável. Acabei de dizer que você é menos que um escravo.[lr]",
+      "id": 14983,
+      "epk_id": "4648",
+      "label": "$$$message_0034_0066_0002$$$"
+    },
+    {
+      "en": "To think you'd forget that and rebel against your sister a moment later.\"[lr]",
+      "jp": "　それをもう忘れて、姉に反乱を起こすなんて」[lr]",
+      "Pt-br": "Pensar que você esqueceria isso e se rebelaria contra sua irmã um momento depois.\"[lr]",
+      "id": 14984,
+      "epk_id": "4649",
+      "label": "$$$message_0034_0066_0003$$$"
+    },
+    {
+      "en": "\"I-I would never...\"",
+      "jp": "「そ……そこまでは……」",
+      "Pt-br": "\"Eu nunca...\"",
+      "id": 14985,
+      "epk_id": "4650",
+      "label": "$$$message_0034_0066_0004$$$"
+    },
+    {
+      "en": "\"Looks like you're such a dimwit that I'll need to [font italic=true]physically[font italic=false] teach you what absolute obedience really means.\"[lr]",
+      "jp": "「やっぱり物覚えの悪い貴女には、絶対隷従の態度を[ruby text=・・・ o2o=1]身体で教えてあげなきゃ分からないかしら？」[lr]",
+      "Pt-br": "\"Parece que você é tão imbecil que vou ter de te ensinar [font italic=true]fisicamente[font italic=false] o verdadeiro significado da obediência absoluta.\"[lr]",
+      "id": 14986,
+      "epk_id": "4651",
+      "label": "$$$message_0034_0067_0000$$$"
+    },
+    {
+      "en": "\"...!\"",
+      "jp": "「[line len=6]！」",
+      "Pt-br": "\"...!\"",
+      "id": 14987,
+      "epk_id": "4652",
+      "label": "$$$message_0034_0067_0001$$$"
+    },
+    {
+      "en": "\"Ah...![lr]",
+      "jp": "「あ……っ！[lr]",
+      "Pt-br": "\"Ah...![lr]",
+      "id": 14988,
+      "epk_id": "4653",
+      "label": "$$$message_0034_0068_0000$$$"
+    },
+    {
+      "en": "I won't let you run, Medusa!\"[lr]",
+      "jp": "　逃げるなんて許さないわよ、メドゥーサ！」[lr]",
+      "Pt-br": "Eu não vou deixar você fugir, Medusa!\"[lr]",
+      "id": 14989,
+      "epk_id": "4654",
+      "label": "$$$message_0034_0068_0001$$$"
+    },
+    {
+      "en": "The Mystic Eye bearer ran away from the commanding voice as fast as her legs could carry her.",
+      "jp": "　制止の声も振りほどき、一目散に駆ける魔眼の主。",
+      "Pt-br": "A portadora do Olho Místico fugiu da voz comandante tão rápido quanto seus membros permitiam.",
+      "id": 14990,
+      "epk_id": "4655",
+      "label": "$$$message_0034_0068_0002$$$"
+    },
+    {
+      "en": "She headed for the stable.[lr]",
+      "jp": "　厩舎に向かう。[lr]",
+      "Pt-br": "Ela se dirigiu para a estabulação.[lr]",
+      "id": 14991,
+      "epk_id": "4656",
+      "label": "$$$message_0034_0069_0000$$$"
+    },
+    {
+      "en": "There lived Pegasus, the winged horse given as a gift by the sea god Poseidon.[lr]",
+      "jp": "　そこには海の神ポセイドンからの贈り物、[ruby text=ペガサス char=2]天馬がいる。[lr]",
+      "Pt-br": "Havia o Pégaso, o cavalo de asas dado como presente pelo deus do mar Poseidon.[lr]",
+      "id": 14992,
+      "epk_id": "4657",
+      "label": "$$$message_0034_0069_0001$$$"
+    },
+    {
+      "en": "She just needed to ride the winged creature into the sky and out of her sister's reach for the time being.[lr]",
+      "jp": "　有翼の幻想種に乗り、しばらく姉の手の届かぬ空に出ていればいい。[lr]",
+      "Pt-br": "Por enquanto, bastava montar na criatura alada e ganhar o céu, longe do alcance da irmã.[lr]",
+      "id": 14993,
+      "epk_id": "4658",
+      "label": "$$$message_0034_0069_0002$$$"
+    },
+    {
+      "en": "Then, she could only pray that her sister's mood would improve...",
+      "jp": "　その間に姉の気分が変わっているコトを祈るだけ[line len=3]",
+      "Pt-br": "Então, só podia rezar para que o humor da irmã melhorasse...",
+      "id": 14994,
+      "epk_id": "4659",
+      "label": "$$$message_0034_0069_0003$$$"
+    },
+    {
+      "en": "\"I still need to clean and cook... But if she decides to punish me, I won't be able to do any of that... Ahh...\"[lr]",
+      "jp": "「そうすると掃除と食事の用意が……。でもあのままだったらお仕置きされて、結局出来ないし……ああ……」[lr]",
+      "Pt-br": "\"Eu ainda preciso limpar e cozinhar... Mas se ela decidir me punir, não vou conseguir fazer nenhuma dessas coisas... Agh...\"[lr]",
+      "id": 14995,
+      "epk_id": "4660",
+      "label": "$$$message_0034_0070_0000$$$"
+    },
+    {
+      "en": "She lamented as she ran.[lr]",
+      "jp": "　愁嘆しながらも駆けた。[lr]",
+      "Pt-br": "Ela lamentava enquanto corria.[lr]",
+      "id": 14996,
+      "epk_id": "4661",
+      "label": "$$$message_0034_0070_0001$$$"
+    },
+    {
+      "en": "Her legs were longer, so her sister couldn't keep up with her if she ran.[lr]",
+      "jp": "　脚の長さが違うので、走れば姉は追いつけない。[lr]",
+      "Pt-br": "Suas pernas eram mais longas, então sua irmã não conseguia acompanhá-la se ela corresse.[lr]",
+      "id": 14997,
+      "epk_id": "4662",
+      "label": "$$$message_0034_0070_0002$$$"
+    },
+    {
+      "en": "Gloomily, she thought that this was the only benefit to her size.",
+      "jp": "　こんな形でしか自分の体付きに感謝できない事に内心陰鬱となる。",
+      "Pt-br": "Tristemente, ela pensava que esse era o único benefício do seu tamanho.",
+      "id": 14998,
+      "epk_id": "4663",
+      "label": "$$$message_0034_0070_0003$$$"
+    },
+    {
+      "en": "\"I wish I could be as cute as my sisters...\"[lr]",
+      "jp": "「私も、姉さまみたいに可愛ければいいのに……」[lr]",
+      "Pt-br": "\"Queria que eu pudesse ser tão linda quanto minhas irmãs...\"[lr]",
+      "id": 14999,
+      "epk_id": "4664",
+      "label": "$$$message_0034_0071_0000$$$"
+    },
+    {
+      "en": "She opened the door to the stable.[lr]",
+      "jp": "　厩舎の戸を開ける。[lr]",
+      "Pt-br": "Ela abriu a porta da estrebaria.[lr]",
+      "id": 15000,
+      "epk_id": "4665",
+      "label": "$$$message_0034_0071_0001$$$"
+    },
+    {
+      "en": "But...",
+      "jp": "　が[line len=3]",
+      "Pt-br": "Mas...",
+      "id": 15001,
+      "epk_id": "4666",
+      "label": "$$$message_0034_0071_0002$$$"
+    },
+    {
+      "en": "The Mystic Eye bearer froze in her tracks.[lr]",
+      "jp": "　魔眼の主は立ち尽くす。[lr]",
+      "Pt-br": "A portadora do Olho Místico parou em seus calcanhares.[lr]",
+      "id": 15002,
+      "epk_id": "4667",
+      "label": "$$$message_0034_0072_0000$$$"
+    },
+    {
+      "en": "\"Sister... What are you doing here?\"[lr]",
+      "jp": "「姉さま……どうしてこちらに？」[lr]",
+      "Pt-br": "\"Você... o que está fazendo aqui?\"[lr]",
+      "id": 15003,
+      "epk_id": "4668",
+      "label": "$$$message_0034_0072_0001$$$"
+    },
+    {
+      "en": "The girl holding Pegasus' reins laughed, her voice the sound of silver.",
+      "jp": "　天馬の手綱を取る少女が、銀細工のように笑う。",
+      "Pt-br": "A garota segurando as rédeas de Pégaso riu, sua voz o som de prata.",
+      "id": 15004,
+      "epk_id": "4669",
+      "label": "$$$message_0034_0072_0002$$$"
+    },
+    {
+      "en": "\"Oh, I'm sorry, Medusa.[lr]",
+      "jp": "「あら、ごめんなさいねメドゥーサ。[lr]",
+      "Pt-br": "\"Oh, peço desculpas, Medusa.[lr]",
+      "id": 15005,
+      "epk_id": "4670",
+      "label": "$$$message_0034_0073_0000$$$"
+    },
+    {
+      "en": "Pegasus is tired after a long ride today. I don't think he can carry a rider that's as big and heavy as you anymore.\"",
+      "jp": "　ちょうど遠乗りから帰ってきたばかりで、この[ruby text=ペガサス]仔は疲れ切っています。私はともかく、貴女のように大きくて重たい乗り手は、もう乗せられないでしょうね」",
+      "Pt-br": "Pégaso está cansado depois de uma longa viagem hoje. Acho que não consegue mais carregar um cavaleiro tão grande e pesado quanto você.\"",
+      "id": 15006,
+      "epk_id": "4671",
+      "label": "$$$message_0034_0073_0001$$$"
+    },
+    {
+      "en": "\"Huh...? But he should have been resting since this morning...\"[lr]",
+      "jp": "「え……そんな、今日は朝から休ませてあげるって……」[lr]",
+      "Pt-br": "\"Hmm...? Mas ele deveria estar descansando desde cedo...\"[lr]",
+      "id": 15007,
+      "epk_id": "4672",
+      "label": "$$$message_0034_0074_0000$$$"
+    },
+    {
+      "en": "\"You want to leave the island? Then swim. Your flabby body should be more than buoyant enough.[lr]",
+      "jp": "「島の外に出たいの？　それなら泳いで行けばいいでしょう。貴女の肥えた身体なら水によく浮きますもの。[lr]",
+      "Pt-br": "\"Você quer sair da ilha? Então nada. Seu corpo flácido deve ser suficientemente bóia.[lr]",
+      "id": 15008,
+      "epk_id": "4673",
+      "label": "$$$message_0034_0074_0001$$$"
+    },
+    {
+      "en": "Do you hear me? As this horse's owner, I'm warning you that you aren't allowed to use it today.\"[lr]",
+      "jp": "　いいですか？　持ち主として注意しますが、今日はこの仔を使ってはいけません」[lr]",
+      "Pt-br": "Você me ouve? Como dono dessa égua, estou avisando que você não está autorizado a usá-la hoje.\"[lr]",
+      "id": 15009,
+      "epk_id": "4674",
+      "label": "$$$message_0034_0074_0002$$$"
+    },
+    {
+      "en": "\"But...he was given to me...\"",
+      "jp": "「え……だって、その仔は私が頂いて……」",
+      "Pt-br": "\"Mas... ele foi me dado...\"",
+      "id": 15010,
+      "epk_id": "4675",
+      "label": "$$$message_0034_0074_0003$$$"
+    },
+    {
+      "en": "\"Hehe. You're so hopeless, Medusa.[lr]",
+      "jp": "「ふふ、困ったメドゥーサね。[lr]",
+      "Pt-br": "\"Hehe. Você é tão sem esperança, Medusa.[lr]",
+      "id": 15011,
+      "epk_id": "4676",
+      "label": "$$$message_0034_0075_0000$$$"
+    },
+    {
+      "en": "Everything a little sister owns belongs to her big sister. How many times must I say that before you understand?[lr]",
+      "jp": "　妹のものは姉のもの、姉のものは姉のものだと何度言えば分かるのでしょう？[lr]",
+      "Pt-br": "Tudo que uma irmã mais nova possui pertence à sua irmã mais velha. Quantas vezes preciso dizer isso antes que você entenda?[lr]",
+      "id": 15012,
+      "epk_id": "4677",
+      "label": "$$$message_0034_0075_0001$$$"
+    },
+    {
+      "en": "...Honestly, stop using my Pegasus as an easy way out to all your problems. Who do you get that greedy mindset from?\"[lr]",
+      "jp": "　……本当。すぐ楽して、私の天馬で出かけようとするのはおやめなさい。悲しいわ、その[ruby text=ものぐさ char=2]物臭なところはいったい誰に似たのかしら」[lr]",
+      "Pt-br": "...Sinceramente, pare de usar minha Pégaso como uma saída fácil para todos os seus problemas. Com quem você aprendeu esse mindset ganancioso?\"[lr]",
+      "id": 15013,
+      "epk_id": "4678",
+      "label": "$$$message_0034_0075_0002$$$"
+    },
+    {
+      "en": "\".........\"[rf]",
+      "jp": "「………………」[rf]",
+      "Pt-br": "\".........\"[rf]",
+      "id": 15014,
+      "epk_id": "4679",
+      "label": "$$$message_0034_0075_0003$$$"
+    },
+    {
+      "en": "\"I heard that, Medusa.[rf][lr]",
+      "jp": "「聞こえましてよ、メドゥーサ。[rf][lr]",
+      "Pt-br": "\"Eu ouvi, Medusa.[rf][lr]",
+      "id": 15015,
+      "epk_id": "4680",
+      "label": "$$$message_0034_0076_0000$$$"
+    },
+    {
+      "en": "...You leave me no choice. I don't want to do this, but it seem I'll have to [font italic=true]physically[font italic=false] teach you the consequences of going against your big sister.\"[lr]",
+      "jp": "　……仕方ありませんね。私も本意ではありませんが、妹が姉に[ruby text=そむ]叛くとどうなるか[ruby text=・・・ o2o=1]身体で教えてさしあげます」[lr]",
+      "Pt-br": "...Você me deixa sem escolha. Não quero fazer isso, mas parece que terei que [font italic=true]fisicamente[font italic=false] ensinar você as consequências de se opor à sua grande irmã.\"[lr]",
+      "id": 15016,
+      "epk_id": "4681",
+      "label": "$$$message_0034_0076_0001$$$"
+    },
+    {
+      "en": "\"E-eek! I didn't even say anything this time!\"",
+      "jp": "「ひっ、ひい！？　今度はなにも言ってません！？」",
+      "Pt-br": "\"E-eek! Nem sequer disse nada essa vez!\"",
+      "id": 15017,
+      "epk_id": "4682",
+      "label": "$$$message_0034_0076_0002$$$"
+    },
+    {
+      "en": "\"I-I-I-I'm sorry...!\"[lr]",
+      "jp": "「ごごご、ごめんなさーい……！」[lr]",
+      "Pt-br": "\"Eu-Eu-Eu-Eu sinto muito...!\"[lr]",
+      "id": 15018,
+      "epk_id": "4683",
+      "label": "$$$message_0034_0077_0000$$$"
+    },
+    {
+      "en": "She spun and turned to run. Unfortunately...",
+      "jp": "　たまらず厩舎から逃げ出す主。しかし。",
+      "Pt-br": "Ela girou e se virou para correr. Infelizmente...",
+      "id": 15019,
+      "epk_id": "4684",
+      "label": "$$$message_0034_0077_0001$$$"
+    },
+    {
+      "en": "\"...!\"[lr]",
+      "jp": "「[line len=6]！」[lr]",
+      "Pt-br": "\"...!\"[lr]",
+      "id": 15020,
+      "epk_id": "4685",
+      "label": "$$$message_0034_0078_0000$$$"
+    },
+    {
+      "en": "\"Oh, you came back to me. I suppose that's admirable, for someone as underhanded as you.\"[lr]",
+      "jp": "「あら、私のところに戻ってくるなんて、姑息な貴女にしては殊勝な心がけね」[lr]",
+      "Pt-br": "\"Ah, você voltou para mim. Suponho que seja admirável, para alguém tão desonesto quanto você.\"[lr]",
+      "id": 15021,
+      "epk_id": "4686",
+      "label": "$$$message_0034_0078_0001$$$"
+    },
+    {
+      "en": "\"...Middle Sister!\"[lr]",
+      "jp": "「……[ruby text=・・・・ o2o=1]下姉さま！」[lr]",
+      "Pt-br": "\"...Média!\"[lr]",
+      "id": 15022,
+      "epk_id": "4687",
+      "label": "$$$message_0034_0078_0002$$$"
+    },
+    {
+      "en": "\"Oh, did I catch Medusa for me?\"[lr]",
+      "jp": "「あら、私がメドゥーサを捕まえて下さったの？」[lr]",
+      "Pt-br": "\"Ah, consegui a Medusa para mim, não é?\"[lr]",
+      "id": 15023,
+      "epk_id": "4688",
+      "label": "$$$message_0034_0078_0003$$$"
+    },
+    {
+      "en": "\"...Big Sister!\"",
+      "jp": "「……[ruby text=・・・・ o2o=1]上姉さま！」",
+      "Pt-br": "\"...Grande Irmana!\"",
+      "id": 15024,
+      "epk_id": "4689",
+      "label": "$$$message_0034_0078_0004$$$"
+    },
+    {
+      "en": "This bears explaining.[lr]",
+      "jp": "　[line len=3]説明せねばなるまい。[lr]",
+      "Pt-br": "Isso precisa ser explicado.[lr]",
+      "id": 15025,
+      "epk_id": "4690",
+      "label": "$$$message_0034_0079_0000$$$"
+    },
+    {
+      "en": "Two girls appear before Medusa.[lr]",
+      "jp": "　窮地に立たされたメドゥーサの前に現れた二人の少女。[lr]",
+      "Pt-br": "Duas garotas aparecem diante de Medusa.[lr]",
+      "id": 15026,
+      "epk_id": "4691",
+      "label": "$$$message_0034_0079_0001$$$"
+    },
+    {
+      "en": "Exactly alike in appearance, they were none other than Medusa's older sisters.",
+      "jp": "　うり二つの容姿を持つ彼女たちこそ、何を隠そうメドゥーサの実の姉なのである。",
+      "Pt-br": "Exatamente iguais em aparência, eram nada mais do que as irmãs mais velhas de Medusa.",
+      "id": 15027,
+      "epk_id": "4692",
+      "label": "$$$message_0034_0079_0002$$$"
+    },
+    {
+      "en": "The oldest was Stheno, the Strong.[lr]",
+      "jp": "　長女の名は“[ruby text=ステンノ char=3]強い女”。[lr]",
+      "Pt-br": "A mais velha era Stheno, a Forte.[lr]",
+      "id": 15028,
+      "epk_id": "4693",
+      "label": "$$$message_0034_0080_0000$$$"
+    },
+    {
+      "en": "The second sister was Euryale, the One Who Flies Far.[lr]",
+      "jp": "　次女の名は“[ruby text=エウリュアレ o2o=1]遠く飛ぶもの”。[lr]",
+      "Pt-br": "A segunda irmã era Euryale, a Que Voa Longe.[lr]",
+      "id": 15029,
+      "epk_id": "4694",
+      "label": "$$$message_0034_0080_0001$$$"
+    },
+    {
+      "en": "And the youngest sister, a giant woman who bore no resemblance the other two, was Medusa, the Dominant.",
+      "jp": "　そして末女の名は二人の姉とは似ても似つかぬ大女、[br backlog=0]“[ruby text=メドゥーサ o2o=1]支配する女”。",
+      "Pt-br": "E a mais nova irmã, uma mulher gigante que não tinha nada a ver com as outras duas, era Medusa, a Dominante.",
+      "id": 15030,
+      "epk_id": "4695",
+      "label": "$$$message_0034_0080_0002$$$"
+    },
+    {
+      "en": "These three beautiful sisters were the infamous Gorgons.[lr]",
+      "jp": "　この、見目麗しい彼女たちこそ悪名高きゴルゴンの三姉妹。[lr]",
+      "Pt-br": "Essas três belas irmãs eram as infames Gorgonas.[lr]",
+      "id": 15031,
+      "epk_id": "4696",
+      "label": "$$$message_0034_0081_0000$$$"
+    },
+    {
+      "en": "Prominent monsters in the Greek world, exiled to the Shapeless Isle where they petrified countless heroes.",
+      "jp": "　形なき島に追放され、なみいる勇者たちを石像に変えた、ギリシャ世界でも有数の怪物なのである……！",
+      "Pt-br": "Monstruosos destacados do mundo grego, exilados na Ilha Formalessa, onde petrificaram incontáveis heróis.",
+      "id": 15032,
+      "epk_id": "4697",
+      "label": "$$$message_0034_0081_0001$$$"
+    },
+    {
+      "en": "However...[lr]",
+      "jp": "　だがしかし。[lr]",
+      "Pt-br": "No entanto...[lr]",
+      "id": 15033,
+      "epk_id": "4698",
+      "label": "$$$message_0034_0082_0000$$$"
+    },
+    {
+      "en": "Lest you misunderstand, the heroes only feared the youngest sister, Medusa.[lr]",
+      "jp": "　誤解なきよう注釈すると、勇者たちを震え上がらせたのは末女のメドゥーサだけである。[lr]",
+      "Pt-br": "Para evitar mal-entendidos: os heróis temiam somente a irmã mais nova, Medusa.[lr]",
+      "id": 15034,
+      "epk_id": "4699",
+      "label": "$$$message_0034_0082_0001$$$"
+    },
+    {
+      "en": "The two older sisters had no martial prowess to speak of.[lr]",
+      "jp": "　上の姉二人はこれといって武勇を誇った訳ではない。[lr]",
+      "Pt-br": "As duas irmãs mais velhas não tinham nenhum talento martial.[lr]",
+      "id": 15035,
+      "epk_id": "4700",
+      "label": "$$$message_0034_0082_0002$$$"
+    },
+    {
+      "en": "...They were notorious in other ways, but they were goddesses to the men around them.",
+      "jp": "　……いや、メドゥーサとは別の意味で悪名をはびこらせてはいたのだが、彼女たちは近隣の男たちにとって女神と言うべき存在だった。",
+      "Pt-br": "...Eram notórias de outras formas, mas eram deusas para os homens ao seu redor.",
+      "id": 15036,
+      "epk_id": "4701",
+      "label": "$$$message_0034_0082_0003$$$"
+    },
+    {
+      "en": "To begin with, the sisters were originally ancient, indigenous deities of the Greek world.[lr]",
+      "jp": "　そもそも彼女たちは元々ギリシャ世界の古い土着神だった。[lr]",
+      "Pt-br": "As primeiras irmãs eram originalmente deidades antigas e indígenas do mundo grego.[lr]",
+      "id": 15037,
+      "epk_id": "4702",
+      "label": "$$$message_0034_0083_0000$$$"
+    },
+    {
+      "en": "But the Olympian goddess Athena, who viewed their beauty with animosity, stole their human worshippers' faith and banished them to the Shapeless Isle.[lr]",
+      "jp": "　が、彼女たちの美しさに反感を持った女神アテナは三姉妹から『人々からの信仰』を奪い、『形なき島』に追放したのである。[lr]",
+      "Pt-br": "Mas a deusa olímpica Atena, que via sua beleza com animosidade, roubou a fé dos seus fiéis humanos e os exilou para a Ilha Formalessa.[lr]",
+      "id": 15038,
+      "epk_id": "4703",
+      "label": "$$$message_0034_0083_0001$$$"
+    },
+    {
+      "en": "The youngest sister Medusa was the subject of Athena's grudge, but the two older Gorgons accompanied their sister to the Shapeless Isle out of compassion. Afterward, human word-of-mouth began to describe them as monsters, as well.",
+      "jp": "　アテナの恨みを受けたのは末女メドゥーサであったが、妹思いの姉二人も『形なき島』に同行し、以後、人々に怪物として噂されるようになった。",
+      "Pt-br": "A jovem irmã Medusa foi o alvo da rancor de Atena, mas as duas irmãs mais velhas acompanharam sua irmã até a Ilha Formaless out of compassion. Depois disso, o discurso humano começou a descrevê-las como monstros também.",
+      "id": 15039,
+      "epk_id": "4704",
+      "label": "$$$message_0034_0083_0002$$$"
+    },
+    {
+      "en": "Of course, they were only rumors.[lr]",
+      "jp": "　もっとも、噂は噂にすぎない。[lr]",
+      "Pt-br": "Claro, não passavam de rumores.[lr]",
+      "id": 15040,
+      "epk_id": "4705",
+      "label": "$$$message_0034_0084_0000$$$"
+    },
+    {
+      "en": "Stheno and Euryale were no monsters. They simply lived as they always had.[lr]",
+      "jp": "　彼女たちは怪物になどならず、以前と変わらぬ時間を過ごしていた。[lr]",
+      "Pt-br": "Stheno e Euryale não eram monstros. Viviam como sempre haviam vivido.[lr]",
+      "id": 15041,
+      "epk_id": "4706",
+      "label": "$$$message_0034_0084_0001$$$"
+    },
+    {
+      "en": "While Medusa's situation was more complex, the two older sisters were literally perfected goddesses.",
+      "jp": "　色々と曰くのあるメドゥーサはともかく、長女と次女の二人は文字通り『完成した』女神だったのだ。",
+      "Pt-br": "A situação de Medusa era mais complexa, mas as duas irmãs mais velhas eram deusas perfeitas em sentido literal.",
+      "id": 15042,
+      "epk_id": "4707",
+      "label": "$$$message_0034_0084_0002$$$"
+    },
+    {
+      "en": "Stheno, the oldest,[lr]",
+      "jp": "　[line len=3]長女ステンノ。[lr]",
+      "Pt-br": "Stheno, a mais antiga,[lr]",
+      "id": 15043,
+      "epk_id": "4708",
+      "label": "$$$message_0034_0085_0000$$$"
+    },
+    {
+      "en": "carried herself with elegant grace, and acted thoughtfully.[lr]",
+      "jp": "　優雅な仕草、溢れる気品、思慮深い言動。[lr]",
+      "Pt-br": "carregava-se com elegância refinada e agia com cuidado.[lr]",
+      "id": 15044,
+      "epk_id": "4709",
+      "label": "$$$message_0034_0085_0001$$$"
+    },
+    {
+      "en": "She was said to be the ideal woman,[lr]",
+      "jp": "　どれをとっても理想の女性と言われた女神。[lr]",
+      "Pt-br": "Ela era dita ser a ideal mulher[lr]",
+      "id": 15045,
+      "epk_id": "4710",
+      "label": "$$$message_0034_0085_0002$$$"
+    },
+    {
+      "en": "such that any man she addressed would be overcome with joy and swear his eternal loyalty.",
+      "jp": "　彼女に名を呼ばれただけで、男はあまりの喜びに我を失い、永遠の忠誠を誓ったという。",
+      "Pt-br": "Que qualquer homem a quem ela se dirigisse ficasse dominado pela alegria e jurasse sua lealdade eterna.",
+      "id": 15046,
+      "epk_id": "4711",
+      "label": "$$$message_0034_0085_0003$$$"
+    },
+    {
+      "en": "Euryale, the second sister,[lr]",
+      "jp": "　[line len=3]次女エウリュアレ。[lr]",
+      "Pt-br": "Euriale, a segunda irmã[lr]",
+      "id": 15047,
+      "epk_id": "4712",
+      "label": "$$$message_0034_0086_0000$$$"
+    },
+    {
+      "en": "was carefree and cheerful, with an innocent bearing.[lr]",
+      "jp": "　屈託のない仕草、こぼれるほどの笑顔、無垢な言動。[lr]",
+      "Pt-br": "era despreocupada e cheia de alegria, com uma postura inocente.[lr]",
+      "id": 15048,
+      "epk_id": "4713",
+      "label": "$$$message_0034_0086_0001$$$"
+    },
+    {
+      "en": "She was said to be the ideal girl,[lr]",
+      "jp": "　どれをとっても理想の少女と言われた女神。[lr]",
+      "Pt-br": "Ela era dita ser a garota ideal.[lr]",
+      "id": 15049,
+      "epk_id": "4714",
+      "label": "$$$message_0034_0086_0002$$$"
+    },
+    {
+      "en": "such that any man she addressed would quiver with honor and swear to lay down his life for her.",
+      "jp": "　彼女に名を呼ばれただけで、男はあまりの名誉に体を震わせ、命を賭した守護を約束したという。",
+      "Pt-br": "Assim, qualquer homem que ela se dirigisse tremularia de honra e juraria deixar sua vida para ela.",
+      "id": 15050,
+      "epk_id": "4715",
+      "label": "$$$message_0034_0086_0003$$$"
+    },
+    {
+      "en": "These two goddesses lacked the monstrous strength and Mystic Eyes that Medusa possessed.[lr]",
+      "jp": "　この二人の女神には、メドゥーサのような魔眼も怪力も有りはしない。[lr]",
+      "Pt-br": "Essas duas deusas não possuíam a força monstruosa e os Olhos Místicos que Medusa possuía.[lr]",
+      "id": 15051,
+      "epk_id": "4716",
+      "label": "$$$message_0034_0087_0000$$$"
+    },
+    {
+      "en": "They were simply weak albeit immortal girls.[lr]",
+      "jp": "　彼女たちはただ、不老不死であるだけのか弱い少女なのである。[lr]",
+      "Pt-br": "Eram garotas frágeis, ainda que imortais.[lr]",
+      "id": 15052,
+      "epk_id": "4717",
+      "label": "$$$message_0034_0087_0001$$$"
+    },
+    {
+      "en": "Athena defamed them,[lr]",
+      "jp": "　アテナは[ruby text=かた]騙る。[lr]",
+      "Pt-br": "Atena os difamou,[lr]",
+      "id": 15053,
+      "epk_id": "4718",
+      "label": "$$$message_0034_0087_0002$$$"
+    },
+    {
+      "en": "saying that the three sisters were monsters who would never age.[lr]",
+      "jp": "　あの三姉妹は怪物故に歳を取らない、と。[lr]",
+      "Pt-br": "Dizendo que as três irmãs eram monstros que jamais envelheceriam.[lr]",
+      "id": 15054,
+      "epk_id": "4719",
+      "label": "$$$message_0034_0087_0003$$$"
+    },
+    {
+      "en": "This was untrue.[lr]",
+      "jp": "　それは偽りだ。[lr]",
+      "Pt-br": "Isso não era verdade.[lr]",
+      "id": 15055,
+      "epk_id": "4720",
+      "label": "$$$message_0034_0087_0004$$$"
+    },
+    {
+      "en": "Unlike the Olympian gods who avoided aging by consuming the golden apples, the Gorgons, especially Stheno and Euryale, had complete immortality. These goddesses were born as literal idols to be worshipped.",
+      "jp": "　黄金のリンゴを口にしなければ老いるオリンポスの神々とは違い、彼女たち[line len=3]特にステンノとエウリュアレの二人は完全な不老不死、『[ruby text=アイドル char=2]偶像』として生まれ落ちた女神なのである。",
+      "Pt-br": "Ao contrário dos deuses olímpicos que evitavam o envelhecimento consumindo as maças douradas, as Gorgonas, especialmente Stheno e Euryale, tinham imortalidade completa. Essas deusas nasceram como ídolos literais para serem adoradas.",
+      "id": 15056,
+      "epk_id": "4721",
+      "label": "$$$message_0034_0087_0005$$$"
+    },
+    {
+      "en": "They were embodiments of male desire.[lr]",
+      "jp": "　彼女たちは男たちの憧れが具現化したもの。[lr]",
+      "Pt-br": "Eram encarnações do desejo masculino.[lr]",
+      "id": 15057,
+      "epk_id": "4722",
+      "label": "$$$message_0034_0088_0000$$$"
+    },
+    {
+      "en": "In exchange for being eternally unageing, they were the weakest entities in the world.[lr]",
+      "jp": "　永遠に歳を取らない代わりに、この世でもっとも弱いもの。[lr]",
+      "Pt-br": "Em troca de serem eternamente imutáveis, eram as entidades mais frágeis do mundo.[lr]",
+      "id": 15058,
+      "epk_id": "4723",
+      "label": "$$$message_0034_0088_0001$$$"
+    },
+    {
+      "en": "They were eternal girls who needed someone's help to survive. They had no power to fight and would starve on their own.[lr]",
+      "jp": "　戦う力はなく、一人では飢えてしまい、誰かの手を借りねば生きられぬ永遠の少女。[lr]",
+      "Pt-br": "Eram garotas eternas que precisavam de alguém para sobreviver. Não tinham poder para lutar e morreriam de fome sozinhas.[lr]",
+      "id": 15059,
+      "epk_id": "4724",
+      "label": "$$$message_0034_0088_0002$$$"
+    },
+    {
+      "en": "Such was the Divine Core of the three Gorgon sisters.",
+      "jp": "　それがゴルゴン三姉妹の『神核』である。",
+      "Pt-br": "Tal era o Coração Divino das três irmãs Gorgona.",
+      "id": 15060,
+      "epk_id": "4725",
+      "label": "$$$message_0034_0088_0003$$$"
+    },
+    {
+      "en": "Until they faded from the world, they would always look the same as the day they first sprang into existence...[lr]",
+      "jp": "　彼女たちは発生した時から今の姿であり、消滅するまで変わる事はない。[lr]",
+      "Pt-br": "Até que desaparecessem do mundo, eles sempre seriam os mesmos que o dia em que surgiram pela primeira vez...[lr]",
+      "id": 15061,
+      "epk_id": "4726",
+      "label": "$$$message_0034_0089_0000$$$"
+    },
+    {
+      "en": "...except for the youngest sister, who was born a failure.",
+      "jp": "　ただ一人、生まれながらの失敗作である末女を除いては。",
+      "Pt-br": "...a menos da mais nova irmã, que nasceu um fracasso.",
+      "id": 15062,
+      "epk_id": "4727",
+      "label": "$$$message_0034_0089_0001$$$"
+    },
+    {
+      "en": "Medusa.[lr]",
+      "jp": "　末女メドゥーサ。[lr]",
+      "Pt-br": "Medusa.[lr]",
+      "id": 15063,
+      "epk_id": "4728",
+      "label": "$$$message_0034_0090_0000$$$"
+    },
+    {
+      "en": "Unlike her sisters, she did not have the qualities that would make her a perfected goddess.[lr]",
+      "jp": "　彼女は姉たちと違い、『完全』な女神としてのスキルを持ち得なかった。[lr]",
+      "Pt-br": "Ao contrário das irmãs, ela não possuía as qualidades que a tornariam uma deusa perfeita.[lr]",
+      "id": 15064,
+      "epk_id": "4729",
+      "label": "$$$message_0034_0090_0001$$$"
+    },
+    {
+      "en": "While Medusa's sisters were truly immortal, she possessed an imperfect immortality.[lr]",
+      "jp": "　二人の姉は『不老不死』であるが、メドゥーサのそれは不完全なのである。[lr]",
+      "Pt-br": "Enquanto as irmãs de Medusa eram verdadeiramente imortais, ela possuía uma imortalidade imperfeita.[lr]",
+      "id": 15065,
+      "epk_id": "4730",
+      "label": "$$$message_0034_0090_0002$$$"
+    },
+    {
+      "en": "As a result, Medusa was destined to [font italic=true]mature[font italic=false], and would one day become a monster different from her sisters.",
+      "jp": "　結果、メドゥーサは妹でありながら姉たちをさしおいて『成長』してしまい、姉たちとは違う怪物として奉りあげられた。",
+      "Pt-br": "Como resultado, Medusa estava destinada a [font italic=true]maturar[font italic=false], e um dia se tornaria um monstro diferente de suas irmãs.",
+      "id": 15066,
+      "epk_id": "4731",
+      "label": "$$$message_0034_0090_0003$$$"
+    },
+    {
+      "en": "...To her credit, Medusa was a goddess of excellent caliber.[lr]",
+      "jp": "　……[ruby text=メドゥーサ char=2]彼女の名誉の為に注釈するのなら、メドゥーサとて優れた女神なのである。[lr]",
+      "Pt-br": "...A seu crédito, Medusa era uma deusa de excelente qualidade.[lr]",
+      "id": 15067,
+      "epk_id": "4732",
+      "label": "$$$message_0034_0091_0000$$$"
+    },
+    {
+      "en": "The Gorgon sisters were all deified natural phenomena.[lr]",
+      "jp": "　ゴルゴン三姉妹は同じ自然現象が神格化されたもの。[lr]",
+      "Pt-br": "As irmãs Gorgona eram todas fenômenos naturais deificados.[lr]",
+      "id": 15068,
+      "epk_id": "4733",
+      "label": "$$$message_0034_0091_0001$$$"
+    },
+    {
+      "en": "One could call them copies or clones.[lr]",
+      "jp": "　コピー、クローンといっていい。[lr]",
+      "Pt-br": "Podem chamá-los de cópias ou clones.[lr]",
+      "id": 15069,
+      "epk_id": "4734",
+      "label": "$$$message_0034_0091_0002$$$"
+    },
+    {
+      "en": "Whether by some mistake of her birth or intentional design, Medusa was a flawed copy of the Gorgons.",
+      "jp": "　それが誕生中のミスか、何か意味があったのか、末女のメドゥーサだけがコピーミスをしてしまった。",
+      "Pt-br": "Seja por um erro de nascimento ou por projeto intencional, Medusa era uma cópia defeituosa das Gorgonas.",
+      "id": 15070,
+      "epk_id": "4735",
+      "label": "$$$message_0034_0091_0003$$$"
+    },
+    {
+      "en": "Her sisters embodied complete immortality, but Medusa possessed no such trait.[lr]",
+      "jp": "　姉二人は完全な『不老不死』を体現しているが、メドゥーサには『不老不死』は備わっていない。[lr]",
+      "Pt-br": "Suas irmãs personificavam a imortalidade completa, mas Medusa não possuía tal traço.[lr]",
+      "id": 15071,
+      "epk_id": "4736",
+      "label": "$$$message_0034_0092_0000$$$"
+    },
+    {
+      "en": "Still, in exchange she awakened a number of powers that her sisters lacked.[lr]",
+      "jp": "　しかし、その代償としてメドゥーサには姉たちには無い様々な能力が開眼している。[lr]",
+      "Pt-br": "No entanto, em troca, ela despertou um número de poderes que suas irmãs não possuíam.[lr]",
+      "id": 15072,
+      "epk_id": "4737",
+      "label": "$$$message_0034_0092_0001$$$"
+    },
+    {
+      "en": "Mystic Eyes of Petrification. The power to interfere with nature at a high level. Superior physical abilities.[lr]",
+      "jp": "　石化の魔眼。高度な自然干渉能力。卓越した身体機能。[lr]",
+      "Pt-br": "Olhos Místicos de Petrificação. O poder de interferir com a natureza em um nível elevado. Habilidades físicas superiores.[lr]",
+      "id": 15073,
+      "epk_id": "4738",
+      "label": "$$$message_0034_0092_0002$$$"
+    },
+    {
+      "en": "One might say that she had the indispensable authority to protect her sisters, who could not survive in the natural world.",
+      "jp": "　その全ては、自然界では生きられない姉たちを守護するに欠かせない天威と言えよう。",
+      "Pt-br": "Diz-se que ela tinha a autoridade indispensável para proteger suas irmãs, que não poderiam sobreviver no mundo natural.",
+      "id": 15074,
+      "epk_id": "4739",
+      "label": "$$$message_0034_0092_0003$$$"
+    },
+    {
+      "en": "The three sisters were originally meant to be a single organism, but the difference in their powers caused idiosyncrasies to develop.[lr]",
+      "jp": "　……しかし、その性能差こそが、本来同体の三姉妹に個性を生んでしまった。[lr]",
+      "Pt-br": "As três irmãs eram originalmente supostas ser um único organismo, mas a diferença em seus poderes fez com que desenvolvessem peculiaridades.[lr]",
+      "id": 15075,
+      "epk_id": "4740",
+      "label": "$$$message_0034_0093_0000$$$"
+    },
+    {
+      "en": "It was obvious for Medusa, but the two older sisters began to develop slight differences as they interacted with their youngest sibling.",
+      "jp": "　姉たちと違うメドゥーサは当然だが、そんな妹に接するうちに、同じである筈の姉二人にも細かな違いが出来てしまったのだ。",
+      "Pt-br": "Foi óbvio para Medusa, mas as duas irmãs mais velhas começaram a desenvolver pequenas diferenças à medida que interagiam com sua irmã mais nova.",
+      "id": 15076,
+      "epk_id": "4741",
+      "label": "$$$message_0034_0093_0001$$$"
+    },
+    {
+      "en": "The youngest was specialized in combat, while the older sisters were perfected idols.[lr]",
+      "jp": "　戦う事に特化した末女と、偶像として完成していた姉たち。[lr]",
+      "Pt-br": "A mais nova era especializada em combate, enquanto as irmãs mais velhas eram perfeitas atrizes.[lr]",
+      "id": 15077,
+      "epk_id": "4742",
+      "label": "$$$message_0034_0094_0000$$$"
+    },
+    {
+      "en": "Unlike Medusa, they were fond of humans.[lr]",
+      "jp": "　彼女たちは末女のメドゥーサとは違い、よく人間を好んだ。[lr]",
+      "Pt-br": "Contrário a Medusa, eles eram afetuosos com humanos.[lr]",
+      "id": 15078,
+      "epk_id": "4743",
+      "label": "$$$message_0034_0094_0001$$$"
+    },
+    {
+      "en": "They invited men to the island, comforted them, and sent them off on new adventures.",
+      "jp": "　島に訪れた男たちを歓迎し、彼らを癒し、新たな冒険に送り出した。",
+      "Pt-br": "Eles convidaram homens para a ilha, confortaram-os e os enviaram para novas aventuras.",
+      "id": 15079,
+      "epk_id": "4744",
+      "label": "$$$message_0034_0094_0002$$$"
+    },
+    {
+      "en": "Eternal idols.[lr]",
+      "jp": "　永遠の偶像。[lr]",
+      "Pt-br": "Ídolos eternos.[lr]",
+      "id": 15080,
+      "epk_id": "4745",
+      "label": "$$$message_0034_0095_0000$$$"
+    },
+    {
+      "en": "Embodiments of the purest maidens.[lr]",
+      "jp": "　清純な乙女の化身。[lr]",
+      "Pt-br": "Embodimentos das mais puras criadas.[lr]",
+      "id": 15081,
+      "epk_id": "4746",
+      "label": "$$$message_0034_0095_0001$$$"
+    },
+    {
+      "en": "Ideal girls who never aged.[lr]",
+      "jp": "　年を取らない理想の少女。[lr]",
+      "Pt-br": "Meninas ideais que nunca envelheceram.[lr]",
+      "id": 15082,
+      "epk_id": "4747",
+      "label": "$$$message_0034_0095_0002$$$"
+    },
+    {
+      "en": "Twin goddesses who struck a sharp contrast to the other haughty, voluptuous goddesses.",
+      "jp": "　他の高慢チキで豊満な女神たちとは一線を画す双子神。",
+      "Pt-br": "Duas deusas que contrastavam vivamente com as outras altivas e voluptuosas deusas.",
+      "id": 15083,
+      "epk_id": "4748",
+      "label": "$$$message_0034_0095_0003$$$"
+    },
+    {
+      "en": "That's right.[lr]",
+      "jp": "　そう。[lr]",
+      "Pt-br": "Isso mesmo.[lr]",
+      "id": 15084,
+      "epk_id": "4749",
+      "label": "$$$message_0034_0096_0000$$$"
+    },
+    {
+      "en": "These goddesses who were only ever loved, specialized in [font italic=true]being lovely[font italic=false].[lr]",
+      "jp": "　もともと『[ruby text=ちやほや]愛されるだけ』の女神であった姉二人は『可憐である』コトに特化している。[lr]",
+      "Pt-br": "Essas deusas que só foram nunca amadas, especializaram-se em [font italic=true]serem lindas[font italic=false].[lr]",
+      "id": 15085,
+      "epk_id": "4750",
+      "label": "$$$message_0034_0096_0001$$$"
+    },
+    {
+      "en": "They were the ultimate sisters whom Medusa could never surpass no matter how beautiful she became. A pure white gothic lolita idol duo.[lr]",
+      "jp": "　メドゥーサがどれだけ美しかろうと敵わない究極の姉、純白系ゴスロリアイドルデュオ。[lr]",
+      "Pt-br": "Eram as irmãs supremas que Medusa jamais poderia superar, por mais belas que se tornasse. Um dueto de idolas goth-lolitas brancas e puras.[lr]",
+      "id": 15086,
+      "epk_id": "4751",
+      "label": "$$$message_0034_0096_0002$$$"
+    },
+    {
+      "en": "Such was Stheno and Euryale's reason for being...!",
+      "jp": "　それがステンノとエウリュアレの存在意義なのであった……！",
+      "Pt-br": "Tal era o motivo de serem Stheno e Euryale...!",
+      "id": 15087,
+      "epk_id": "4752",
+      "label": "$$$message_0034_0096_0003$$$"
+    },
+    {
+      "en": "Though...[lr]",
+      "jp": "　……まあ、その。[lr]",
+      "Pt-br": "Embora...[lr]",
+      "id": 15088,
+      "epk_id": "4753",
+      "label": "$$$message_0034_0097_0000$$$"
+    },
+    {
+      "en": "That was only true to the men admiring from afar, who knew nothing of their true natures.",
+      "jp": "　彼女たちの本性をまだ知らない、遠くから見ているだけの男たちから取ってみればの話であるが。",
+      "Pt-br": "Isso só era verdade para os homens que as admiravam de longe, sem conhecer sua verdadeira natureza.",
+      "id": 15089,
+      "epk_id": "4754",
+      "label": "$$$message_0034_0097_0001$$$"
+    },
+    {
+      "en": "Stheno, the oldest,[lr]",
+      "jp": "　[line len=3]長女ステンノ。[lr]",
+      "Pt-br": "Stheno, a mais antiga,[lr]",
+      "id": 15090,
+      "epk_id": "4755",
+      "label": "$$$message_0034_0098_0000$$$"
+    },
+    {
+      "en": "carried herself with elegant grace, and acted thoughtfully.[lr]",
+      "jp": "　優雅な仕草、溢れる気品、思慮深い言動。[lr]",
+      "Pt-br": "carregava-se com elegância refinada e agia com cuidado.[lr]",
+      "id": 15091,
+      "epk_id": "4756",
+      "label": "$$$message_0034_0098_0001$$$"
+    },
+    {
+      "en": "She was said to be the ideal woman,[lr]",
+      "jp": "　どれをとっても理想の女性と言われた女神。[lr]",
+      "Pt-br": "Ela era dita ser a ideal mulher[lr]",
+      "id": 15092,
+      "epk_id": "4757",
+      "label": "$$$message_0034_0098_0002$$$"
+    },
+    {
+      "en": "such that any man she addressed would be overcome with joy and swear his eternal loyalty.[lr]",
+      "jp": "　彼女に名を呼ばれただけで、男はあまりの喜びに我を失い、永遠の忠誠を誓ったという。[lr]",
+      "Pt-br": "Que qualquer homem a quem ela se dirigisse ficasse dominado pela alegria e jurasse sua lealdade eterna.[lr]",
+      "id": 15093,
+      "epk_id": "4758",
+      "label": "$$$message_0034_0098_0003$$$"
+    },
+    {
+      "en": "But...[lr]",
+      "jp": "　が。[lr]",
+      "Pt-br": "Mas...[lr]",
+      "id": 15094,
+      "epk_id": "4759",
+      "label": "$$$message_0034_0098_0004$$$"
+    },
+    {
+      "en": "According to a sister who shall remain unnamed, she was lazy to the extreme.[lr]",
+      "jp": "　匿名希望の妹に言わせれば、極度のものぐさ。[lr]",
+      "Pt-br": "Segundo uma irmã que permanece anônima, ela era preguiçosa ao extremo.[lr]",
+      "id": 15095,
+      "epk_id": "4760",
+      "label": "$$$message_0034_0098_0005$$$"
+    },
+    {
+      "en": "She didn't care at all for anything that didn't interest her, and was such an abusive master to those she didn't care for that Cerberus would have trembled in fear.",
+      "jp": "　好きなコト以外にはとことん興味がなく、どうでもいい相手には冥府の番犬も震え上がるほど冷酷だという鬼長姉。",
+      "Pt-br": "Ela não se importava com nada que não a interessasse, e era tão uma mestra abusiva com aqueles que não importavam para ela que Cerberus teria tremulado em medo.",
+      "id": 15096,
+      "epk_id": "4761",
+      "label": "$$$message_0034_0098_0006$$$"
+    },
+    {
+      "en": "Euryale, the second sister,[lr]",
+      "jp": "　[line len=3]次女エウリュアレ。[lr]",
+      "Pt-br": "Euriale, a segunda irmã[lr]",
+      "id": 15097,
+      "epk_id": "4762",
+      "label": "$$$message_0034_0099_0000$$$"
+    },
+    {
+      "en": "was carefree and cheerful, with an innocent bearing.[lr]",
+      "jp": "　屈託のない仕草、こぼれるほどの笑顔、無垢な言動。[lr]",
+      "Pt-br": "era despreocupada e cheia de alegria, com uma postura inocente.[lr]",
+      "id": 15098,
+      "epk_id": "4763",
+      "label": "$$$message_0034_0099_0001$$$"
+    },
+    {
+      "en": "She was said to be the ideal girl,[lr]",
+      "jp": "　どれをとっても理想の少女と言われた女神。[lr]",
+      "Pt-br": "Ela era dita ser a garota ideal.[lr]",
+      "id": 15099,
+      "epk_id": "4764",
+      "label": "$$$message_0034_0099_0002$$$"
+    },
+    {
+      "en": "such that any man she addressed would quiver with honor and swear to lay down his life for her.[lr]",
+      "jp": "　彼女に名を呼ばれただけで、男はあまりの名誉に体を震わせ、命を賭した守護を約束したという。[lr]",
+      "Pt-br": "Assim, qualquer homem que ela se dirigisse tremularia de honra e juraria deixar sua vida para ela.[lr]",
+      "id": 15100,
+      "epk_id": "4765",
+      "label": "$$$message_0034_0099_0003$$$"
+    },
+    {
+      "en": "But...[lr]",
+      "jp": "　が。[lr]",
+      "Pt-br": "Mas...[lr]",
+      "id": 15101,
+      "epk_id": "4766",
+      "label": "$$$message_0034_0099_0004$$$"
+    },
+    {
+      "en": "Again, according to a sister who shall remain unnamed, she was temperamental in the extreme.[lr]",
+      "jp": "　これまた匿名希望の妹に言わせれば、究極の気分屋。[lr]",
+      "Pt-br": "Novamente, segundo uma irmã que permanecerá anônima, ela era extremamente temperamental.[lr]",
+      "id": 15102,
+      "epk_id": "4767",
+      "label": "$$$message_0034_0099_0005$$$"
+    },
+    {
+      "en": "To make things worse, she liked to cheat. She wouldn't get mad as long as you kept your mouth shut, and while she was a firm believer in \"it's only cheating if you get caught, ohoho,\" she would feel a slight self-loathing afterwards. An impish, cowardly second sister.",
+      "jp": "　くわえてズルいところもあり、黙っていれば怒られない、バレなきゃイカサマじゃなくてよホホホ、けどあとでちょっと自己嫌悪、という小悪魔小心次姉。",
+      "Pt-br": "Para piorar, ela gostava de trapacear. Não fazia escândalo enquanto você ficasse de boca fechada e, embora acreditasse com firmeza em \"só é trapaça se forem pegos, ohoho\", depois sentia um leve desprezo por si mesma. Uma segunda irmã travessa e covarde.",
+      "id": 15103,
+      "epk_id": "4768",
+      "label": "$$$message_0034_0099_0006$$$"
+    },
+    {
+      "en": "Unlike Medusa, they were fond of humans.[lr]",
+      "jp": "　彼女たちは末女のメドゥーサとは違い、よく人間を好んだ。[lr]",
+      "Pt-br": "Contrário a Medusa, eles eram afetuosos com humanos.[lr]",
+      "id": 15104,
+      "epk_id": "4769",
+      "label": "$$$message_0034_0100_0000$$$"
+    },
+    {
+      "en": "They invited men to the island, comforted them, and sent them off on new adventures.",
+      "jp": "　島に訪れた男たちを歓迎し、彼らを癒し、新たな冒険に送り出した。",
+      "Pt-br": "Eles convidaram homens para a ilha, confortaram-os e os enviaram para novas aventuras.",
+      "id": 15105,
+      "epk_id": "4770",
+      "label": "$$$message_0034_0100_0001$$$"
+    },
+    {
+      "en": "This was also a terrible trap.[lr]",
+      "jp": "　[line len=3]それも、とんでもない罠である。[lr]",
+      "Pt-br": "Isso também foi uma armadilha horrível.[lr]",
+      "id": 15106,
+      "epk_id": "4771",
+      "label": "$$$message_0034_0101_0000$$$"
+    },
+    {
+      "en": "They loved pretty and cute things unconditionally.[lr]",
+      "jp": "　彼女たちはキレイなもの、可愛いものを無条件に惜しみなく愛する。[lr]",
+      "Pt-br": "Eles amavam coisas bonitas e fofas sem condições.[lr]",
+      "id": 15107,
+      "epk_id": "4772",
+      "label": "$$$message_0034_0101_0001$$$"
+    },
+    {
+      "en": "And they did like humans.[lr]",
+      "jp": "　この二人の悪魔は、たしかに人間好きである。[lr]",
+      "Pt-br": "E eles agiam como humanos.[lr]",
+      "id": 15108,
+      "epk_id": "4773",
+      "label": "$$$message_0034_0101_0002$$$"
+    },
+    {
+      "en": "But what they loved wasn't the humans themselves, but using their words to toy with, confuse, and ruin the lives of humans they liked. In other words, they enjoyed the sight of floundering humans more than they cared about having three meals a day!",
+      "jp": "　しかし。彼女たちが愛しているのは人間という生き物ではなく、気に入った人間が自分たちの言葉に翻弄され、困惑して破滅する[line len=3]よーするにジタバタするのを見るのが、三度の食事より好きなのであった……！",
+      "Pt-br": "Mas o que eles amavam não eram os humanos em si, mas usar suas palavras para brincar, confundir e arruinar a vida dos humanos que gostavam. Em outras palavras, eles se divertiam mais com a visão de humanos desesperados do que se preocupavam em ter três refeições por dia!",
+      "id": 15109,
+      "epk_id": "4774",
+      "label": "$$$message_0034_0101_0003$$$"
+    },
+    {
+      "en": "\"Um, Sister. I think that just means you unconditionally hate them...\"[lr]",
+      "jp": "「あの、姉さま。それは姉さまたちが無条件で嫌う醜いものだと思うのですが……」[lr]",
+      "Pt-br": "\"Um, irmã. Acho que isso só significa que você os odeia incondicionalmente...\"[lr]",
+      "id": 15110,
+      "epk_id": "4775",
+      "label": "$$$message_0034_0102_0000$$$"
+    },
+    {
+      "en": "\"I'm amazed, Medusa. There's just no saving your bad taste.[lr]",
+      "jp": "「呆れた。取り返しのつかないほど趣味が悪いのねメドゥーサ。[lr]",
+      "Pt-br": "\"Estou impressionado, Medusa. Não há como salvar seu mau gosto.[lr]",
+      "id": 15111,
+      "epk_id": "4776",
+      "label": "$$$message_0034_0102_0001$$$"
+    },
+    {
+      "en": "Listen. Pretty things dance clumsily for us. That's what true beauty is.\"",
+      "jp": "　いいこと？　キレイなものがこの上なく無様に踊る……それが本当の美しさというものよ」",
+      "Pt-br": "Escute. Coisas bonitas dançam sem jeito para nós. Isso, sim, é a verdadeira beleza.\"",
+      "id": 15112,
+      "epk_id": "4777",
+      "label": "$$$message_0034_0102_0002$$$"
+    },
+    {
+      "en": "And so, a great many heroes died to their wiles.[lr]",
+      "jp": "　……かくして、多くの勇者たちが彼女たちの犠牲になった。[lr]",
+      "Pt-br": "E assim, muitos heróis morreram por causa de suas artimanhas.[lr]",
+      "id": 15113,
+      "epk_id": "4778",
+      "label": "$$$message_0034_0103_0000$$$"
+    },
+    {
+      "en": "They charged the heroes who sought them out with impossible quests, sending them weeping back to their homelands.",
+      "jp": "　彼女たちに求愛した勇者たちは無理難題を押しつけられ、泣く泣く国に帰ったのである。",
+      "Pt-br": "Eles incumbiram os heróis que os buscavam com missões impossíveis, mandando-os chorar de volta para suas terras natais.",
+      "id": 15114,
+      "epk_id": "4779",
+      "label": "$$$message_0034_0103_0001$$$"
+    },
+    {
+      "en": "...Ahh, truly a fearsome group of sisters.[lr]",
+      "jp": "　……嗚呼、恐るべし魔性の三姉妹。[lr]",
+      "Pt-br": "...Ah, que trio de irmãs assustador.[lr]",
+      "id": 15115,
+      "epk_id": "4780",
+      "label": "$$$message_0034_0104_0000$$$"
+    },
+    {
+      "en": "Some challenged Medusa for glory, and were turned to stone.[lr]",
+      "jp": "　ある者は名をあげようと女怪メドゥーサに挑み、石像と化し。[lr]",
+      "Pt-br": "Alguns desafiaram Medusa por glória e foram transformados em pedra.[lr]",
+      "id": 15116,
+      "epk_id": "4781",
+      "label": "$$$message_0034_0104_0001$$$"
+    },
+    {
+      "en": "Others set out to woo a goddess, and were rewarded with mockery to the point of death.[lr]",
+      "jp": "　ある者は女神を[ruby text=めと]娶ろうと馳せ参じ、からかい尽くされたあげく死に至る。[lr]",
+      "Pt-br": "Outros saíram para conquistar uma deusa, e foram recompensados com chacota até a morte.[lr]",
+      "id": 15117,
+      "epk_id": "4782",
+      "label": "$$$message_0034_0104_0002$$$"
+    },
+    {
+      "en": "O hero, if ye be a man, then turn back here.[lr]",
+      "jp": "　おお勇者よ、汝が男であるのならば引き返せ。[lr]",
+      "Pt-br": "O herói, se és um homem, volta aqui.[lr]",
+      "id": 15118,
+      "epk_id": "4783",
+      "label": "$$$message_0034_0104_0003$$$"
+    },
+    {
+      "en": "This island at the edge of the earth was a paradise, and an evil den of women of unmatched beauty.[lr]",
+      "jp": "　ここは最果ての島、絶世の美女が巣くう魔の楽園。[lr]",
+      "Pt-br": "Esta ilha no limite da terra era um paraíso, e um den de maldade de mulheres de beleza inigualável.[lr]",
+      "id": 15119,
+      "epk_id": "4784",
+      "label": "$$$message_0034_0104_0004$$$"
+    },
+    {
+      "en": "Or, to put it nicely, it was a lesson to all mortals not to lay hands on a goddess.",
+      "jp": "　えー、わるいコトは言わないから、女神になんざ手を出すなっつー教訓みたいな島なのですよ……？",
+      "Pt-br": "Ou, colocando de maneira mais bonita, era uma lição a todos os mortais: não ponham as mãos numa deusa.",
+      "id": 15120,
+      "epk_id": "4785",
+      "label": "$$$message_0034_0104_0005$$$"
+    },
+    {
+      "en": "That about covers the gist of the Gorgons' Dark Temple.[lr]",
+      "jp": "　以上が暗黒神殿の大まかなあらましである。[lr]",
+      "Pt-br": "Isso cobre o essencial do Templo Escuro das Gorgonas.[lr]",
+      "id": 15121,
+      "epk_id": "4786",
+      "label": "$$$message_0034_0105_0000$$$"
+    },
+    {
+      "en": "\"Ah, ugh...\"[lr]",
+      "jp": "「あ、う……」[lr]",
+      "Pt-br": "\"Ah, ugh...\"[lr]",
+      "id": 15122,
+      "epk_id": "4787",
+      "label": "$$$message_0034_0105_0001$$$"
+    },
+    {
+      "en": "It was a peaceful afternoon. Unusually, there were no challengers that day.[lr]",
+      "jp": "　珍しく挑戦者のいない平和な午後。[lr]",
+      "Pt-br": "Foi um tarde tranquila. Inesperadamente, não havia desafiantes naquele dia.[lr]",
+      "id": 15123,
+      "epk_id": "4788",
+      "label": "$$$message_0034_0105_0002$$$"
+    },
+    {
+      "en": "As always, Medusa's two sisters were picking on her today.",
+      "jp": "　末女メドゥーサは、今日も今日とて二人の姉にいびられるのであった。",
+      "Pt-br": "Como sempre, as duas irmãs de Medusa estavam se divertindo com ela hoje.",
+      "id": 15124,
+      "epk_id": "4789",
+      "label": "$$$message_0034_0105_0003$$$"
+    },
+    {
+      "en": "\"Oh, she tried to run, Stheno?\"[lr]",
+      "jp": "「まあ、[ruby text=ステンノ]私からも逃げようとしてたの？」[lr]",
+      "Pt-br": "\"Ah, ela tentou correr, Stheno?\"[lr]",
+      "id": 15125,
+      "epk_id": "4790",
+      "label": "$$$message_0034_0106_0000$$$"
+    },
+    {
+      "en": "\"Hmm. I want to ask her what she did, Euryale.\"[lr]",
+      "jp": "「ふーん、[ruby text=エウリュアレ]私になにをしたのか、まずは話を聞きたいわ」[lr]",
+      "Pt-br": "\"Hmm. Quero perguntar a ela o que ela fez, Euryale.\"[lr]",
+      "id": 15126,
+      "epk_id": "4791",
+      "label": "$$$message_0034_0106_0001$$$"
+    },
+    {
+      "en": "\"...\"",
+      "jp": "「…………………」",
+      "Pt-br": "\"...\"",
+      "id": 15127,
+      "epk_id": "4792",
+      "label": "$$$message_0034_0106_0002$$$"
+    },
+    {
+      "en": "She was flanked by her identical sisters.[lr]",
+      "jp": "　姿形もそっくりな姉たちに挟まれる妹。[lr]",
+      "Pt-br": "Ela estava flanqueada por suas irmãs idênticas.[lr]",
+      "id": 15128,
+      "epk_id": "4793",
+      "label": "$$$message_0034_0107_0000$$$"
+    },
+    {
+      "en": "Unlike the gradually growing Medusa, Stheno and Euryale would always look the same.[lr]",
+      "jp": "　徐々にではあるが成長するメドゥーサと違い、姉たちは永遠に同一の存在だ。[lr]",
+      "Pt-br": "Contrário à Medusa, cuja forma vai se tornando cada vez maior, Stheno e Euryale sempre mantêm a mesma aparência.[lr]",
+      "id": 15129,
+      "epk_id": "4794",
+      "label": "$$$message_0034_0107_0001$$$"
+    },
+    {
+      "en": "Their basic personalities were the same, as were their sensibilities.[lr]",
+      "jp": "　基本的な性格も一緒なら感性も一緒。[lr]",
+      "Pt-br": "As personalidades básicas eram as mesmas, assim como seus senso de sensibilidade.[lr]",
+      "id": 15130,
+      "epk_id": "4795",
+      "label": "$$$message_0034_0107_0002$$$"
+    },
+    {
+      "en": "Each sister telepathically felt what the other was thinking.",
+      "jp": "　以心伝心も通り越し、お互いがお互いを感じる共同体なのだ。",
+      "Pt-br": "Cada irmã sentiu telepaticamente o que a outra estava pensando.",
+      "id": 15131,
+      "epk_id": "4796",
+      "label": "$$$message_0034_0107_0003$$$"
+    },
+    {
+      "en": "\"Yes... She rebelled against us.\"[lr]",
+      "jp": "「そう[line len=3][ruby text=エウリュアレ]私に逆らったのね、貴女」[lr]",
+      "Pt-br": "\"Sim... Ela se rebelou contra nós.\"[lr]",
+      "id": 15132,
+      "epk_id": "4797",
+      "label": "$$$message_0034_0108_0000$$$"
+    },
+    {
+      "en": "\"That means she defied me [font italic=true]twice[font italic=false].\"[lr]",
+      "jp": "「[ruby text=ステンノ]私に二度も逆らった事になるわね」[lr]",
+      "Pt-br": "\"Isso significa que ela me desafiou [font italic=true]duas vezes[font italic=false].\"[lr]",
+      "id": 15133,
+      "epk_id": "4798",
+      "label": "$$$message_0034_0108_0001$$$"
+    },
+    {
+      "en": "\"Yes, an insult to one of us is an insult to both of us.\"[lr]",
+      "jp": "「ええ、[ruby text=エウリュアレ]私への侮辱は[ruby text=ステンノ]私への侮辱だから」[lr]",
+      "Pt-br": "\"Sim, um insulto a um de nós é um insulto a ambos.\"[lr]",
+      "id": 15134,
+      "epk_id": "4799",
+      "label": "$$$message_0034_0108_0002$$$"
+    },
+    {
+      "en": "\"Then we should both punish her.\"[lr]",
+      "jp": "「じゃあ、[ruby text=\"ステンノ　\"]私と[ruby text=\"　エウリュアレ\"]私が、お仕置きをしてあげないと」[lr]",
+      "Pt-br": "\"Então devemos puni-la os dois.\"[lr]",
+      "id": 15135,
+      "epk_id": "4800",
+      "label": "$$$message_0034_0108_0003$$$"
+    },
+    {
+      "en": "\"Of course, it's an older sister's duty, privilege, and pleasure to discipline the little sister.\"",
+      "jp": "「もちろん、妹を[ruby text=しつ]躾けるのは、姉の義務であり権利であり[line len=3]遊楽だもの」",
+      "Pt-br": "\"Claro, é o dever, privilégio e prazer de uma irmã mais velha disciplinar a irmã mais nova.\"",
+      "id": 15136,
+      "epk_id": "4801",
+      "label": "$$$message_0034_0108_0004$$$"
+    },
+    {
+      "en": "Euryale solemnly approached a stone statue next to Medusa.[lr]",
+      "jp": "　エウリュアレは[ruby text=おごそ]厳かに、メドゥーサのそばに立つ石像に向かう。[lr]",
+      "Pt-br": "Euryale se aproximou solemnemente de uma estátua de pedra ao lado de Medusa.[lr]",
+      "id": 15137,
+      "epk_id": "4802",
+      "label": "$$$message_0034_0109_0000$$$"
+    },
+    {
+      "en": "It was a tall, lithe warrior who had been raising a greatsword.",
+      "jp": "　大剣を振り上げた痩身長躯の戦士。",
+      "Pt-br": "Era um guerreiro alto e ágil que estava erguendo uma grande espada.",
+      "id": 15138,
+      "epk_id": "4803",
+      "label": "$$$message_0034_0109_0001$$$"
+    },
+    {
+      "en": "\"His face is all right... How about this one?\"[lr]",
+      "jp": "「顔もまあまあ整ってるし……これがいいかしら」[lr]",
+      "Pt-br": "\"Seu rosto está tudo bem... E esse?\"[lr]",
+      "id": 15139,
+      "epk_id": "4804",
+      "label": "$$$message_0034_0110_0000$$$"
+    },
+    {
+      "en": "She placed a finger on the man's armor, strained as if to pull it off, and climbed onto it.",
+      "jp": "　男が纏う甲冑に指をかけ、引き剥がすかのように力を込め、自分の身体を引き上げた。",
+      "Pt-br": "Ela colocou um dedo no escudo do homem, esforçou-se como se quisesse arrancá-lo e subiu nele.",
+      "id": 15140,
+      "epk_id": "4805",
+      "label": "$$$message_0034_0110_0001$$$"
+    },
+    {
+      "en": "\"M-Middle Sister!?\"[lr]",
+      "jp": "「し、下姉さま！？」[lr]",
+      "Pt-br": "\"M-Meia-irmã!?\"[lr]",
+      "id": 15141,
+      "epk_id": "4806",
+      "label": "$$$message_0034_0111_0000$$$"
+    },
+    {
+      "en": "Euryale bent her short limbs and started climbing the man's body.",
+      "jp": "　エウリュアレは短い手足を大きく屈伸させ、男の身体を着実に登ってゆく。",
+      "Pt-br": "Euryale dobrou seus membros curtos e começou a subir pelo corpo do homem.",
+      "id": 15142,
+      "epk_id": "4807",
+      "label": "$$$message_0034_0111_0001$$$"
+    },
+    {
+      "en": "\"It's dangerous, you should stop[line len=2]\"[lr]",
+      "jp": "「下姉さま！　あぶないから、やめないと……」[lr]",
+      "Pt-br": "\"É perigoso, você deveria parar[line len=2]\"[lr]",
+      "id": 15143,
+      "epk_id": "4808",
+      "label": "$$$message_0034_0112_0000$$$"
+    },
+    {
+      "en": "\"Medusa, this is your punishment. Stay where you are.\"[lr]",
+      "jp": "「メドゥーサ、これはお仕置きです。貴女は動かないように」[lr]",
+      "Pt-br": "\"Medusa, este é seu castigo. Fique onde está.\"[lr]",
+      "id": 15144,
+      "epk_id": "4809",
+      "label": "$$$message_0034_0112_0001$$$"
+    },
+    {
+      "en": "\"Y-yes...\"",
+      "jp": "「は、はい……」",
+      "Pt-br": "\"Y-yes...\"",
+      "id": 15145,
+      "epk_id": "4810",
+      "label": "$$$message_0034_0112_0002$$$"
+    },
+    {
+      "en": "It was like watching a white snake slither.[lr]",
+      "jp": "　白蛇が身体を這い回るように。[lr]",
+      "Pt-br": "Era como assistir a uma cobra branca escorregar.[lr]",
+      "id": 15146,
+      "epk_id": "4811",
+      "label": "$$$message_0034_0113_0000$$$"
+    },
+    {
+      "en": "With slow effort, the girl aimed for the top of the statue.[lr]",
+      "jp": "　緩慢でもどかしい動きで、少女の身体は像の頂上を目指し流れる。[lr]",
+      "Pt-br": "Com esforço lento, a garota mirou no topo da estátua.[lr]",
+      "id": 15147,
+      "epk_id": "4812",
+      "label": "$$$message_0034_0113_0001$$$"
+    },
+    {
+      "en": "Unable to tear her eyes away, Medusa felt a snake binding her own limbs as well, and couldn't budge.",
+      "jp": "　目を離せないメドゥーサは自分まで蛇に五体を絡め取られた気がして、微動だに出来ずにいた。",
+      "Pt-br": "Incapaz de desviar os olhos, Medusa sentiu uma cobra amarrando seus próprios membros também e não conseguiu se mover.",
+      "id": 15148,
+      "epk_id": "4813",
+      "label": "$$$message_0034_0113_0002$$$"
+    },
+    {
+      "en": "\"Hmm, what a nice view. It does feel nice to look down on someone from above.\"[lr]",
+      "jp": "「んー、絶景絶景。誰かを見下ろすっていうのはこんなに気持ちが良いものなのねー」[lr]",
+      "Pt-br": "\"Hmm, que vista agradável. É bom olhar para baixo e ver alguém de cima.\"[lr]",
+      "id": 15149,
+      "epk_id": "4814",
+      "label": "$$$message_0034_0114_0000$$$"
+    },
+    {
+      "en": "\"Yes, there might be no fixing Medusa's impudence after all.\"[lr]",
+      "jp": "「ええ、浅はかなメドゥーサが増長するのも遣る方ないのかもしれません」[lr]",
+      "Pt-br": "\"Sim, talvez não haja como corrigir a impudência da Medusa depois de tudo.\"[lr]",
+      "id": 15150,
+      "epk_id": "4815",
+      "label": "$$$message_0034_0114_0001$$$"
+    },
+    {
+      "en": "\"Th-then...are you going to forgive me?\"[lr]",
+      "jp": "「で、では……私をお許し頂けるのでしょうか？」[lr]",
+      "Pt-br": "\"Então... você vai me perdoar?\"[lr]",
+      "id": 15151,
+      "epk_id": "4816",
+      "label": "$$$message_0034_0114_0002$$$"
+    },
+    {
+      "en": "\"Medusa, I'm going to give another order because you're so dim-witted.[lr]",
+      "jp": "「メドゥーサ、物覚えの悪い貴女のコトだから、もう一度だけ命令してあげるわ。[lr]",
+      "Pt-br": "\"Medusa, vou dar outro comando porque você é tão burra.[lr]",
+      "id": 15152,
+      "epk_id": "4817",
+      "label": "$$$message_0034_0114_0003$$$"
+    },
+    {
+      "en": "Absolutely do not avoid this, you hear me?\"",
+      "jp": "　[line len=3]いい、絶対に避けちゃダメよ」",
+      "Pt-br": "Absolutamente não evite isso, você me ouviu?\"",
+      "id": 15153,
+      "epk_id": "4818",
+      "label": "$$$message_0034_0114_0004$$$"
+    },
+    {
+      "en": "\"Eeek...!\"[lr]",
+      "jp": "「ひ……っ！」[lr]",
+      "Pt-br": "\"Eiik...!\"[lr]",
+      "id": 15154,
+      "epk_id": "4819",
+      "label": "$$$message_0034_0115_0000$$$"
+    },
+    {
+      "en": "Her nubile body soared through the air.[lr]",
+      "jp": "　幼身が、空を舞う。[lr]",
+      "Pt-br": "Sua corpo núbil voou pelo ar.[lr]",
+      "id": 15155,
+      "epk_id": "4820",
+      "label": "$$$message_0034_0115_0001$$$"
+    },
+    {
+      "en": "That's right; her name is Euryale, she jumps far.[lr]",
+      "jp": "　さもあらん。其の名は、[ruby text=エウリュアレ o2o=1]遠く飛ぶもの。[lr]",
+      "Pt-br": "Isso mesmo; seu nome é Euryale, ela pula longe.[lr]",
+      "id": 15156,
+      "epk_id": "4821",
+      "label": "$$$message_0034_0115_0002$$$"
+    },
+    {
+      "en": "The soaring goddess flew at Medusa's pale neck, twisted her lips, bared her teeth, and bit down.[lr]",
+      "jp": "　飛翔の女神は真っ白なメドゥーサの首筋を狙い、唇を歪め、口を開き、牙を剥く。[lr]",
+      "Pt-br": "A deusa que voava se lançou ao pescoço pálido de Medusa, torceu os lábios, mostrou os dentes e mordendo.[lr]",
+      "id": 15157,
+      "epk_id": "4822",
+      "label": "$$$message_0034_0115_0003$$$"
+    },
+    {
+      "en": "It was a fiendish kiss.",
+      "jp": "　そして[line len=3]魔性の口づけを。",
+      "Pt-br": "Foi um beijo diabólico.",
+      "id": 15158,
+      "epk_id": "4823",
+      "label": "$$$message_0034_0115_0004$$$"
+    },
+    {
+      "en": "\"Ngh... Ah...!\"[lr]",
+      "jp": "「……っ、あ……！」[lr]",
+      "Pt-br": "\"Ngh... Ah...!\"[lr]",
+      "id": 15159,
+      "epk_id": "4824",
+      "label": "$$$message_0034_0116_0000$$$"
+    },
+    {
+      "en": "She cried out as fangs broke her skin and punctured her blood vessels.[lr]",
+      "jp": "　牙が肌を破り、血管に突き刺さる喊声。[lr]",
+      "Pt-br": "Ela gritou enquanto os dentes rompiam sua pele e perfuravam seus vasos sanguíneos.[lr]",
+      "id": 15160,
+      "epk_id": "4825",
+      "label": "$$$message_0034_0116_0001$$$"
+    },
+    {
+      "en": "\"Ngh... Nnah, no...!\"[lr]",
+      "jp": "「っ……んあ、や……！！」[lr]",
+      "Pt-br": "\"Ngh... Nnah, não...!\"[lr]",
+      "id": 15161,
+      "epk_id": "4826",
+      "label": "$$$message_0034_0116_0002$$$"
+    },
+    {
+      "en": "The sound of lip smacking and tongue lapping could be heard.[lr]",
+      "jp": "　唇を鳴らし舌を踊らせ、啜り舐める雅音。[lr]",
+      "Pt-br": "O som de lábios mordiscando e língua lambendo podia ser ouvido.[lr]",
+      "id": 15162,
+      "epk_id": "4827",
+      "label": "$$$message_0034_0116_0003$$$"
+    },
+    {
+      "en": "\"Hah... Ah, aah, ah...!\"[lr]",
+      "jp": "「は[line len=3]あ、ああ、あ…………！」[lr]",
+      "Pt-br": "\"Hah... Ah, aah, ah...!\"[lr]",
+      "id": 15163,
+      "epk_id": "4828",
+      "label": "$$$message_0034_0116_0004$$$"
+    },
+    {
+      "en": "And then, Medusa's shrill scream pierced the air.",
+      "jp": "　そして、絹を裂くようなメドゥーサの悲鳴。",
+      "Pt-br": "E então, o grito agudo de Medusa rompeu o ar.",
+      "id": 15164,
+      "epk_id": "4829",
+      "label": "$$$message_0034_0116_0005$$$"
+    },
+    {
+      "en": "...What would those who knew Medusa later think of this sight?[lr]",
+      "jp": "　……後の世のメドゥーサを知る者が見れば何を思おうか。[lr]",
+      "Pt-br": "...O que aqueles que mais tarde conheceriam Medusa pensariam dessa visão?[lr]",
+      "id": 15165,
+      "epk_id": "4830",
+      "label": "$$$message_0034_0117_0000$$$"
+    },
+    {
+      "en": "A monster who devoured entire towns and slaughtered hundreds of humans in a single night was now having her blood sucked by a frail girl!",
+      "jp": "　人間はおろか町そのものを捕食対象とし、一夜にして何百人もの人間の血液を吸う女怪メドゥーサが、よもや可憐な少女に血を吸われていようとは……！",
+      "Pt-br": "Um monstro que devorara cidades inteiras e matara centenas de humanos em uma única noite agora estava tendo seu sangue sugado por uma menina frágil!",
+      "id": 15166,
+      "epk_id": "4831",
+      "label": "$$$message_0034_0117_0001$$$"
+    },
+    {
+      "en": "\"Hngh, hnnngh! Please, [wvl][shock vmax=20 time=2000 count=25]it hurts, it hurts, and it tickles!\"[lr]",
+      "jp": "「っ、っ～～～……！　下姉さま、[wvl][shock vmax=20 time=2000 count=25]いたい、いたいです、あとくすぐったい……！」[lr]",
+      "Pt-br": "\"Hngh, hnng! Por favor, [wvl] [shock vmax=20 time=2000 count=25] dói, dói e também é mole!\"[lr]",
+      "id": 15167,
+      "epk_id": "4832",
+      "label": "$$$message_0034_0118_0000$$$"
+    },
+    {
+      "en": "\"Ahahahaha, serves you right! How dare you look down on your older sister!\"[lr]",
+      "jp": "「あはははは、いいざま！　妹の分際で、姉を見下ろしているのが気に入らなかったのよ！」[lr]",
+      "Pt-br": "\"Ahahahaha, isso te vai servir! Como ousas olhar com desdém para tua irmã mais velha!\"[lr]",
+      "id": 15168,
+      "epk_id": "4833",
+      "label": "$$$message_0034_0118_0001$$$"
+    },
+    {
+      "en": "The large woman trembled, while the lovely girl remained stuck to her.",
+      "jp": "　ふるふると震える大女と、それにぴったりと張り付く可憐な少女。",
+      "Pt-br": "A grande mulher tremulava, enquanto a linda garota permanecia presa a ela.",
+      "id": 15169,
+      "epk_id": "4834",
+      "label": "$$$message_0034_0118_0002$$$"
+    },
+    {
+      "en": "\"It isn't fair that only Euryale gets a turn.\"[lr]",
+      "jp": "「[line len=3][ruby text=エウリュアレ]私だけ、というのは片手落ちかしらね」[lr]",
+      "Pt-br": "\"Não é justo que só Euryale tenha a vez.\"[lr]",
+      "id": 15170,
+      "epk_id": "4835",
+      "label": "$$$message_0034_0119_0000$$$"
+    },
+    {
+      "en": "Seated atop Pegasus, Stheno licked her lips.[lr]",
+      "jp": "　ぬらりと、天馬に乗ったステンノが唇を舐める。[lr]",
+      "Pt-br": "Sentada sobre o Pégaso, Stheno lambeu os lábios.[lr]",
+      "id": 15171,
+      "epk_id": "4836",
+      "label": "$$$message_0034_0119_0001$$$"
+    },
+    {
+      "en": "\"Huh?\"[lr]",
+      "jp": "「え？」[lr]",
+      "Pt-br": "\"Hmm?\"[lr]",
+      "id": 15172,
+      "epk_id": "4837",
+      "label": "$$$message_0034_0119_0002$$$"
+    },
+    {
+      "en": "\"Behave, Medusa. It only hurts if you resist.\"[lr]",
+      "jp": "「……おとなしくしなさいメドゥーサ。痛いのは抵抗するからですよ」[lr]",
+      "Pt-br": "\"Comporta-te, Medusa. Só dói se resistires.\"[lr]",
+      "id": 15173,
+      "epk_id": "4838",
+      "label": "$$$message_0034_0119_0003$$$"
+    },
+    {
+      "en": "\"Ahh! Aaaah! Big Sister!?\"",
+      "jp": "「あー！　ああーーー！　上姉さまー！？」",
+      "Pt-br": "\"Ah! Aaaah! Grande Irmana!?!\"",
+      "id": 15174,
+      "epk_id": "4839",
+      "label": "$$$message_0034_0119_0004$$$"
+    },
+    {
+      "en": "\"Ah... hyah, [wvl][shock vmax=12 time=2000 count=26]aaaaaaahhh...!\"[lr]",
+      "jp": "「あ……ひゃ、[wvl][shock vmax=12 time=2000 count=26]ああぁああああ～～～……！」[lr]",
+      "Pt-br": "\"Ah... hyah, [wvl] [shock vmax=12 time=2000 count=26] aaaaaaahhh...!\"[lr]",
+      "id": 15175,
+      "epk_id": "4840",
+      "label": "$$$message_0034_0120_0000$$$"
+    },
+    {
+      "en": "Medusa stood dazed, her blood being drained from both sides of her neck,[lr]",
+      "jp": "　首筋の両側から血液を略奪され、メドゥーサは陶然と立ち尽くす。[lr]",
+      "Pt-br": "Medusa ficou em choque, seu sangue sendo drenado dos dois lados do pescoço.[lr]",
+      "id": 15176,
+      "epk_id": "4841",
+      "label": "$$$message_0034_0120_0001$$$"
+    },
+    {
+      "en": "as if in extreme anemia.[lr]",
+      "jp": "　果てのない貧血のようなものだ。[lr]",
+      "Pt-br": "como se tivesse anemia extrema.[lr]",
+      "id": 15177,
+      "epk_id": "4842",
+      "label": "$$$message_0034_0120_0002$$$"
+    },
+    {
+      "en": "The noises coming from her were no longer screams, but the creaking of a broken puppet.",
+      "jp": "　軋み漏れるのはもはや悲鳴ではなく、壊れた[ruby text=カラクリ char=2]絡繰の立てる噪音だった。",
+      "Pt-br": "Os sons que vinham dela já não eram gritos, mas o estalido de um boneco quebrado.",
+      "id": 15178,
+      "epk_id": "4843",
+      "label": "$$$message_0034_0120_0003$$$"
+    },
+    {
+      "en": "\"Haah, our little sister is so...\"[lr]",
+      "jp": "「はあ……妹って、なんて……」[lr]",
+      "Pt-br": "\"Haah, nossa pequena irmã é tão...\"[lr]",
+      "id": 15179,
+      "epk_id": "4844",
+      "label": "$$$message_0034_0121_0000$$$"
+    },
+    {
+      "en": "\"Fuu... Slow and lazy...om...\"[lr]",
+      "jp": "「ふう……愚図で、横着で……あむ……」[lr]",
+      "Pt-br": "\"Fuu... Lento e preguiçoso...om...\"[lr]",
+      "id": 15180,
+      "epk_id": "4845",
+      "label": "$$$message_0034_0121_0001$$$"
+    },
+    {
+      "en": "\"Aha... Shallow and stupid...\"[lr]",
+      "jp": "「あはっ……短慮で、盆暗のくせに……」[lr]",
+      "Pt-br": "\"Aha... Superficial e estúpido...\"[lr]",
+      "id": 15181,
+      "epk_id": "4846",
+      "label": "$$$message_0034_0121_0002$$$"
+    },
+    {
+      "en": "\"But...\"[lr]",
+      "jp": "「……なんて」[lr]",
+      "Pt-br": "\"Mas...\"[lr]",
+      "id": 15182,
+      "epk_id": "4847",
+      "label": "$$$message_0034_0121_0003$$$"
+    },
+    {
+      "en": "\"But...\"[lr]",
+      "jp": "「なんて……」[lr]",
+      "Pt-br": "\"Mas...\"[lr]",
+      "id": 15183,
+      "epk_id": "4848",
+      "label": "$$$message_0034_0121_0004$$$"
+    },
+    {
+      "en": "\"But how is her blood this delicious!?\"",
+      "jp": "「「血だけはこんなに美味しいのかしら[line len=3]！」」",
+      "Pt-br": "\"Mas como seu sangue é tão delicioso!?!\"",
+      "id": 15184,
+      "epk_id": "4849",
+      "label": "$$$message_0034_0121_0005$$$"
+    },
+    {
+      "en": "\"Mm, ah...! Haah, p-please forgive me, aaaahhh...!\"[lr]",
+      "jp": "「っ、あ……！　はぁ、お、お許しください、おねえさま、あ～～～…………！」[lr]",
+      "Pt-br": "\"Mm, ah...! Haah, p-para, por favor, me perdoe, aaaahhh...!\"[lr]",
+      "id": 15185,
+      "epk_id": "4850",
+      "label": "$$$message_0034_0122_0000$$$"
+    },
+    {
+      "en": "The sounds of double bloodsucking created a beautiful harmony, echoing throughout the temple.[lr]",
+      "jp": "　ふたつの搾血音が美しいハーモニーを奏で、神殿に[ruby text=こだま char=2]木霊する。[lr]",
+      "Pt-br": "Os sons do dobro vampirismo criaram uma harmonia bela, ecoando pelo templo.[lr]",
+      "id": 15186,
+      "epk_id": "4851",
+      "label": "$$$message_0034_0122_0001$$$"
+    },
+    {
+      "en": "On that day, as many other, two sisters taught their youngest sister a dreadful lesson.",
+      "jp": "　今日も今日とて、三女は意地悪な姉二人に躾けられる。",
+      "Pt-br": "Naquele dia, assim como tantos outros, duas irmãs ensinaram à mais nova uma lição terrível.",
+      "id": 15187,
+      "epk_id": "4852",
+      "label": "$$$message_0034_0122_0002$$$"
+    },
+    {
+      "en": "And just to repeat...[lr]",
+      "jp": "　……繰り返すのだが。[lr]",
+      "Pt-br": "E só para repetir...[lr]",
+      "id": 15188,
+      "epk_id": "4853",
+      "label": "$$$message_0034_0123_0000$$$"
+    },
+    {
+      "en": "...this was by no means an uncommon occurrence on the island.",
+      "jp": "　それは、この島では珍しいコトではないのだった。",
+      "Pt-br": "...isso não era de modo algum uma ocorrência incomum na ilha.",
+      "id": 15189,
+      "epk_id": "4854",
+      "label": "$$$message_0034_0123_0001$$$"
+    },
+    {
+      "en": "\"...Huh?\"[lr]",
+      "jp": "「[line len=3]あれ？」[lr]",
+      "Pt-br": "\"...Hmm?\"[lr]",
+      "id": 15190,
+      "epk_id": "4855",
+      "label": "$$$message_0034_0124_0000$$$"
+    },
+    {
+      "en": "I realize I'm in the shed.[lr]",
+      "jp": "　気が付くと土蔵だった。[lr]",
+      "Pt-br": "Eu percebo que estou no celeiro.[lr]",
+      "id": 15191,
+      "epk_id": "4856",
+      "label": "$$$message_0034_0124_0001$$$"
+    },
+    {
+      "en": "The sun has largely set outside, and it's been almost an hour...",
+      "jp": "　外の陽射しは大分落ちてきており、あれから一時間近く経っている……？",
+      "Pt-br": "O Sol já se pôs quase por completo lá fora, e passaram-se quase uma hora...",
+      "id": 15192,
+      "epk_id": "4857",
+      "label": "$$$message_0034_0124_0002$$$"
+    },
+    {
+      "en": "\"Hmm? That's weird. What were we doing again?\"[lr]",
+      "jp": "「……？　ヘンだな、何してたんだっけ俺たち？」[lr]",
+      "Pt-br": "\"Hmm? Isso é estranho. O que estávamos fazendo de novo?\"[lr]",
+      "id": 15193,
+      "epk_id": "4858",
+      "label": "$$$message_0034_0125_0000$$$"
+    },
+    {
+      "en": "I tilt my head, confused.[lr]",
+      "jp": "　首を傾げる。[lr]",
+      "Pt-br": "Eu inclino a cabeça, confuso.[lr]",
+      "id": 15194,
+      "epk_id": "4859",
+      "label": "$$$message_0034_0125_0001$$$"
+    },
+    {
+      "en": "\"I saw you and Rider go into the shed, so I sneakily followed you, and... [cacheimage storage=イリヤ06d(中)][wvl canskip=0 time=400][chgfg textoff=0 time=300 storage=イリヤ06d(中)]Huh?\"[lr]",
+      "jp": "「何って……わたしはシロウとライダーが土蔵に入ったから、こっそり後をつけて……[cacheimage storage=イリヤ06d(中)][wvl canskip=0 time=400][chgfg textoff=0 time=300 storage=イリヤ06d(中)]あれ？」[lr]",
+      "Pt-br": "\"Vi você e a Rider entrando no celeiro, então fiquei escondido atrás de vocês e... [cacheimage storage=イリヤ06d(中)][wvl canskip=0 time=400][chgfg textoff=0 time=300 storage=イリヤ06d(中)]Huh?\"[lr]",
+      "id": 15195,
+      "epk_id": "4860",
+      "label": "$$$message_0034_0125_0002$$$"
+    },
+    {
+      "en": "Illya tilts her head too.[lr]",
+      "jp": "　イリヤも首を傾げる。[lr]",
+      "Pt-br": "Illya inclina a cabeça demais.[lr]",
+      "id": 15196,
+      "epk_id": "4861",
+      "label": "$$$message_0034_0125_0003$$$"
+    },
+    {
+      "en": "\".........\"[lr]",
+      "jp": "「……………………」[lr]",
+      "Pt-br": "\".........\"[lr]",
+      "id": 15197,
+      "epk_id": "4862",
+      "label": "$$$message_0034_0125_0004$$$"
+    },
+    {
+      "en": "Rider is frowning.",
+      "jp": "　ライダーはしきりに顔をしかめている。",
+      "Pt-br": "Rider está franzindo o nariz.",
+      "id": 15198,
+      "epk_id": "4863",
+      "label": "$$$message_0034_0125_0005$$$"
+    },
+    {
+      "en": "\"What's wrong, Rider? Do you have a headache?[lr]",
+      "jp": "「どうしたライダー、頭痛か？[lr]",
+      "Pt-br": "\"O que há de errado, Rider? Você tem dor de cabeça?[lr]",
+      "id": 15199,
+      "epk_id": "4864",
+      "label": "$$$message_0034_0126_0000$$$"
+    },
+    {
+      "en": "Actually, do you remember what we were even doing?\"[lr]",
+      "jp": "　というか、どうしてたんだっけ、俺たち？」[lr]",
+      "Pt-br": "Na verdade, você se lembra do que estávamos fazendo mesmo?\"[lr]",
+      "id": 15200,
+      "epk_id": "4865",
+      "label": "$$$message_0034_0126_0001$$$"
+    },
+    {
+      "en": "\"...Huh? N-no, not really.[lr]",
+      "jp": "「……え？　い、いえ、特別なコトは何も。[lr]",
+      "Pt-br": "\"...Huh? N-não, não é isso.[lr]",
+      "id": 15201,
+      "epk_id": "4866",
+      "label": "$$$message_0034_0126_0002$$$"
+    },
+    {
+      "en": "...I just remember you saying that you wish you were a little taller.\"",
+      "jp": "　……単に、士郎がもう少し背が高ければいい、という希望を口にしていただけです」",
+      "Pt-br": "...Lembro só de você dizer que deseja que fosse um pouco mais alto.\"",
+      "id": 15202,
+      "epk_id": "4867",
+      "label": "$$$message_0034_0126_0003$$$"
+    },
+    {
+      "en": "\"Ah.\"[lr]",
+      "jp": "「あ」[lr]",
+      "Pt-br": "\"Ah.\"[lr]",
+      "id": 15203,
+      "epk_id": "4868",
+      "label": "$$$message_0034_0127_0000$$$"
+    },
+    {
+      "en": "I pound my palm in realization.[lr]",
+      "jp": "　ぽん、と手を叩く。[lr]",
+      "Pt-br": "Eu bato meu punho em realização.[lr]",
+      "id": 15204,
+      "epk_id": "4869",
+      "label": "$$$message_0034_0127_0001$$$"
+    },
+    {
+      "en": "That's right, I was just saying that.[lr]",
+      "jp": "　そう言えばそんな話をしてたっけ、さっきまで。[lr]",
+      "Pt-br": "Isso mesmo, eu estava dizendo isso.[lr]",
+      "id": 15205,
+      "epk_id": "4870",
+      "label": "$$$message_0034_0127_0002$$$"
+    },
+    {
+      "en": "But...[lr]",
+      "jp": "　……しかし。[lr]",
+      "Pt-br": "Mas...[lr]",
+      "id": 15206,
+      "epk_id": "4871",
+      "label": "$$$message_0034_0127_0003$$$"
+    },
+    {
+      "en": "Why is Bicycle No.2 on the ground by Rider's feet?",
+      "jp": "　そうなると、ライダーの足下に放り出されている二号車は何なのだろう……？",
+      "Pt-br": "Por que a Bicicleta nº 2 está no chão aos pés de Rider?",
+      "id": 15207,
+      "epk_id": "4872",
+      "label": "$$$message_0034_0127_0004$$$"
+    },
+    {
+      "en": "\"Rider. Um, about No.2 there...\"[lr]",
+      "jp": "「ライダー。その、転がってる二号のコトだけど、」[lr]",
+      "Pt-br": "\"Rider. Um, sobre o No. 2 lá...\"[lr]",
+      "id": 15208,
+      "epk_id": "4873",
+      "label": "$$$message_0034_0128_0000$$$"
+    },
+    {
+      "en": "\"Who knows? I have no idea why it's there.[lr]",
+      "jp": "「さあ。二号車がなぜここに放置されているか、私はまったく関知していませんから。[lr]",
+      "Pt-br": "\"Quem sabe? Não tenho a mínima ideia do porquê dele estar lá.[lr]",
+      "id": 15209,
+      "epk_id": "4874",
+      "label": "$$$message_0034_0128_0001$$$"
+    },
+    {
+      "en": "...[font italic=true]Isn't that right, Shirou?[font italic=false]\"[lr]",
+      "jp": "　[line len=3][ruby text=・・・・・・ o2o=1]そうですよね、士郎？」[lr]",
+      "Pt-br": "...[font italic=true]Não é isso mesmo, Shirou?\"[font italic=false][lr]",
+      "id": 15210,
+      "epk_id": "4875",
+      "label": "$$$message_0034_0128_0002$$$"
+    },
+    {
+      "en": "\"Uh... R-right, you were just stopping by. The bike, um...\"[lr]",
+      "jp": "「[line len=3]ぁ[line len=3]そ、そうだよな、ライダーはここに立ち寄っただけだもんな。二号は、えーと……」[lr]",
+      "Pt-br": "\"Uh... R-right, você estava só passando. A bicicleta, um...\"[lr]",
+      "id": 15211,
+      "epk_id": "4876",
+      "label": "$$$message_0034_0128_0003$$$"
+    },
+    {
+      "en": "I'm still feeling a little hazy, but when I look into Rider's eyes, I can't think of any other explanation.",
+      "jp": "　……さっきまでのぼんやりが残っているのか、ライダーの眼に見つめられると、それ以外ない気がしてきた。",
+      "Pt-br": "Estou ainda um pouco tonto, mas quando olho nos olhos da Rider, não consigo pensar em nenhuma outra explicação.",
+      "id": 15212,
+      "epk_id": "4877",
+      "label": "$$$message_0034_0128_0004$$$"
+    },
+    {
+      "en": "\"Yes. You must have brought it here to repair.[lr]",
+      "jp": "「ええ。きっと士郎がこれから修理する為に持ってきたのでしょう。[lr]",
+      "Pt-br": "\"Sim. Você deve ter trazido isso aqui para consertar.[lr]",
+      "id": 15213,
+      "epk_id": "4878",
+      "label": "$$$message_0034_0129_0000$$$"
+    },
+    {
+      "en": "...I didn't ask you to, but if you're going to perform maintenance on it, I'd like to ask you to strengthen the pedal rotation and the frame. There is no problem with the tires.\"",
+      "jp": "　……私からの要求はありませんが、メンテナンスをするというのならペダル回りとフレームの強化をしてください。タイヤはまったく問題ありませんので」",
+      "Pt-br": "...Não te pedi para isso, mas se você vai fazer manutenção nisso, gostaria que você reforçasse a rotação do pedal e o quadro. Os pneus estão perfeitos.\"",
+      "id": 15214,
+      "epk_id": "4879",
+      "label": "$$$message_0034_0129_0001$$$"
+    },
+    {
+      "en": "\"Now, I will take my leave.[lr]",
+      "jp": "「それでは、私はこれで失礼します。[lr]",
+      "Pt-br": "\"Agora, deixo minha casa.[lr]",
+      "id": 15215,
+      "epk_id": "4880",
+      "label": "$$$message_0034_0130_0000$$$"
+    },
+    {
+      "en": "Also, Illyasviel. I'm glad to see you in high spirits, but a young girl should not be climbing on high places.[lr]",
+      "jp": "　それとイリヤスフィール。元気なのは微笑ましいのですが、貴女のような幼い少女には高いところは似合いません。[lr]",
+      "Pt-br": "Também, Illyasviel. Fico feliz em vê-la com bom humor, mas uma menina não deveria subir em lugares altos.[lr]",
+      "id": 15216,
+      "epk_id": "4881",
+      "label": "$$$message_0034_0130_0001$$$"
+    },
+    {
+      "en": "...It doesn't suit you, so be sure not to take any more swan dives from the second floor of the shed, even by accident.\"[lr]",
+      "jp": "　……似合いませんので、間違っても土蔵の二階からダイブだけはしないように」[lr]",
+      "Pt-br": "...Não se encaixa em você, então certifique-se de não pular mais da segunda andar do celeiro, nem que seja por acidente.\"[lr]",
+      "id": 15217,
+      "epk_id": "4882",
+      "label": "$$$message_0034_0130_0002$$$"
+    },
+    {
+      "en": "\"Huh? You're being weird, Rider. I wouldn't do that even if you asked me to.\"",
+      "jp": "「？　ヘンなライダー。わたし、頼まれたってそんなコトしないのに」",
+      "Pt-br": "\"Hmm? Você está estranho, Rider. Eu não faria isso nem que você me pedisse.\"",
+      "id": 15218,
+      "epk_id": "4883",
+      "label": "$$$message_0034_0130_0003$$$"
+    },
+    {
+      "en": "\"All the better, then. I'm glad you're such a clever girl.[lr]",
+      "jp": "「結構です。イリヤスフィールは物わかりがよくていい。[lr]",
+      "Pt-br": "\"Tudo melhor então. Fico feliz que você seja uma garota tão esperta.[lr]",
+      "id": 15219,
+      "epk_id": "4884",
+      "label": "$$$message_0034_0131_0000$$$"
+    },
+    {
+      "en": "I'll see you at dinner, then.\"[lr]",
+      "jp": "　それでは夕食に」[lr]",
+      "Pt-br": "Vou te ver no jantar, então.\"[lr]",
+      "id": 15220,
+      "epk_id": "4885",
+      "label": "$$$message_0034_0131_0001$$$"
+    },
+    {
+      "en": "Rider gives us a mature smile and leaves the shed.[lr]",
+      "jp": "　フッ、とオトナな笑みを見せて土蔵を去るライダー。[lr]",
+      "Pt-br": "Rider nos dá um sorriso maduro e sai da cabana.[lr]",
+      "id": 15221,
+      "epk_id": "4886",
+      "label": "$$$message_0034_0131_0002$$$"
+    },
+    {
+      "en": "I'm rather taken with the handsome figure she strikes from behind, and stare as she walks away...",
+      "jp": "　なんとなく、そのオトナな背中のかっこよさに見とれて、ぼーっと見送るのだが[line len=3]",
+      "Pt-br": "A elegância da silhueta dela de costas me deixa meio encantado, e fico olhando enquanto ela se afasta...",
+      "id": 15222,
+      "epk_id": "4887",
+      "label": "$$$message_0034_0131_0003$$$"
+    },
+    {
+      "en": "\"...Ngh! ...!\"[lr]",
+      "jp": "「……っ！　……！」[lr]",
+      "Pt-br": "\"...Ngh! ...!\"[lr]",
+      "id": 15223,
+      "epk_id": "4888",
+      "label": "$$$message_0034_0132_0000$$$"
+    },
+    {
+      "en": "But then, the handsome woman bumps her head and goes down on her knees.",
+      "jp": "　カッコイイ大人の女は、頭をぶつけてしゃがみ込んでいた。",
+      "Pt-br": "Mas então a bela mulher bate a cabeça e cai de joelhos.",
+      "id": 15224,
+      "epk_id": "4889",
+      "label": "$$$message_0034_0132_0001$$$"
+    },
+    {
+      "en": "\"R-Rider?\"[lr]",
+      "jp": "「ラ、ライダー？」[lr]",
+      "Pt-br": "\"R-Rider?\"[lr]",
+      "id": 15225,
+      "epk_id": "4890",
+      "label": "$$$message_0034_0133_0000$$$"
+    },
+    {
+      "en": "\"Don't worry about me. And Shirou, it isn't that great being tall.\"[lr]",
+      "jp": "「ご心配なく。……それと士郎。このように、背が高くていいコトなどあまりないのです」[lr]",
+      "Pt-br": "\"Não se preocupe comigo. E, Shirou, ser alta não é tão bom assim.\"[lr]",
+      "id": 15226,
+      "epk_id": "4891",
+      "label": "$$$message_0034_0133_0001$$$"
+    },
+    {
+      "en": "Rider unsteadily disappears into the courtyard.[lr]",
+      "jp": "　よろよろと中庭に消えていくライダー。[lr]",
+      "Pt-br": "Rider cambaleia para fora e desaparece no pátio.[lr]",
+      "id": 15227,
+      "epk_id": "4892",
+      "label": "$$$message_0034_0133_0002$$$"
+    },
+    {
+      "en": "I see.[lr]",
+      "jp": "　……なるほど。[lr]",
+      "Pt-br": "Entendi.[lr]",
+      "id": 15228,
+      "epk_id": "4893",
+      "label": "$$$message_0034_0133_0003$$$"
+    },
+    {
+      "en": "Being tall isn't easy, huh...",
+      "jp": "　背が高いのも、あんがい大変なんだなぁ……。",
+      "Pt-br": "Ser alto não é fácil, hein...",
+      "id": 15229,
+      "epk_id": "4894",
+      "label": "$$$message_0034_0133_0004$$$"
+    }
+  ]
+}

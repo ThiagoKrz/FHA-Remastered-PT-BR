@@ -1,0 +1,272 @@
+{
+  "cena": "1338fhroh3ngr3bkfmael0ps2s",
+  "titulo": "Hanafuda: Sakura 6",
+  "rota": "Hanafuda",
+  "arquivo": "1338fhroh3ngr3bkfmael0ps2s.epk_dec",
+  "linhas": [
+    {
+      "en": "\"Huh. So you've made it this far, Sakura.\"",
+      "jp": "「へえ、ここまで残ったんだ桜」",
+      "Pt-br": "\"Hã. Então você chegou até aqui, Sakura.\"",
+      "id": 42964,
+      "epk_id": "42746",
+      "label": "$$$message_0350_0000_0000$$$"
+    },
+    {
+      "en": "\"Nee-san... I knew you'd make it here.\"",
+      "jp": "「姉さん[line len=2]やっぱり、残ってたんですね」",
+      "Pt-br": "\"Nee-san... Eu sabia que você conseguiria chegar.\"",
+      "id": 42965,
+      "epk_id": "42747",
+      "label": "$$$message_0350_0000_0001$$$"
+    },
+    {
+      "en": "\"Obviously. I didn't actually face anyone that strong on the way here... Did you fight them all?\"",
+      "jp": "「当然でしょ？　もっとも、ここに来るまで、大した相手も居なかったけど……もしかして、全部そっちに行ってたの？」",
+      "Pt-br": "\"Claro. No caminho, nem cheguei a enfrentar alguém tão forte assim... Você lutou contra todos eles?\"",
+      "id": 42966,
+      "epk_id": "42748",
+      "label": "$$$message_0350_0000_0002$$$"
+    },
+    {
+      "en": "\"...\"",
+      "jp": "「……」",
+      "Pt-br": "\"...\"",
+      "id": 42967,
+      "epk_id": "42749",
+      "label": "$$$message_0350_0000_0003$$$"
+    },
+    {
+      "en": "\"Wow. You've got rotten luck, as always.\"",
+      "jp": "「うわ、相変わらずっていうか本当についてないわね」",
+      "Pt-br": "\"Nossa. Seu azar continua podre como sempre.\"",
+      "id": 42968,
+      "epk_id": "42750",
+      "label": "$$$message_0350_0000_0004$$$"
+    },
+    {
+      "en": "\"I'm going to the onsen, and I'm going to be happy.[wait canskip=0 time=300][hffacechg chara=桜 face=喜 layer=1 time=200] I won't let you stop me.\"",
+      "jp": "「[line len=2]だから、私はその温泉に行って幸せになるんです。[wait canskip=0 time=300][hffacechg chara=桜 face=喜 layer=1 time=200]姉さんにだって邪魔はさせません」",
+      "Pt-br": "\"Eu vou ao onsen, e vou ser feliz.[wait canskip=0 time=300][hffacechg chara=桜 face=喜 layer=1 time=200] Não vou deixar que você me impeça, Nee-san.\"",
+      "id": 42969,
+      "epk_id": "42751",
+      "label": "$$$message_0350_0000_0005$$$"
+    },
+    {
+      "en": "\"You heard her, Rin. But I think you still have the option of yielding to her.\"",
+      "jp": "「だ、そうだ凛。ここは一つ、彼女に道を譲るのもありだと思うが」",
+      "Pt-br": "\"Você ouviu, Rin. Ainda acho que existe a opção de ceder a vez para ela.\"",
+      "id": 42970,
+      "epk_id": "42752",
+      "label": "$$$message_0350_0000_0006$$$"
+    },
+    {
+      "en": "\"Huh?\"",
+      "jp": "「[line len=2]え？」",
+      "Pt-br": "\"Hã?\"",
+      "id": 42971,
+      "epk_id": "42753",
+      "label": "$$$message_0350_0000_0007$$$"
+    },
+    {
+      "en": "\"Excuse me? [l][hfwww layer=0][say storage=HSAK6_RIN_0050 _name=凛]Just so you know, I never hold back in a battle of magecraft.\"",
+      "jp": "「何よそれ。[l][hfwww layer=0][say storage=HSAK6_RIN_0050 _name=凛]言っとくけど、こと魔術戦なら真剣勝負以外はありえないわよ」",
+      "Pt-br": "\"Como é? [l][hfwww layer=0][say storage=HSAK6_RIN_0050 _name=凛]Só para constar, eu nunca pego leve numa batalha de magia.\"",
+      "id": 42972,
+      "epk_id": "42754",
+      "label": "$$$message_0350_0000_0008$$$"
+    },
+    {
+      "en": "\"...That's too bad. I thought this could have ended nicely, with a little sister feeling gratitude and admiration for her big sister.\"",
+      "jp": "「[line len=3]それは残念。いや、ここで譲れば姉に感謝する妹、という美しい図式で終わると思ったのだが」",
+      "Pt-br": "\"...Que pena. Achei que isso poderia terminar de um jeito bonito, com uma irmãzinha grata e cheia de admiração pela irmã mais velha.\"",
+      "id": 42973,
+      "epk_id": "42755",
+      "label": "$$$message_0350_0000_0009$$$"
+    },
+    {
+      "en": "\"...Archer.[lr]",
+      "jp": "「……アーチャー。[lr]",
+      "Pt-br": "\"...Archer.[lr]",
+      "id": 42974,
+      "epk_id": "42756",
+      "label": "$$$message_0350_0000_0010$$$"
+    },
+    {
+      "en": "I never thought you'd show that kind of concern.\"",
+      "jp": "　貴方がそのような心配りを見せられるとは思いませんでしたが[line len=2]」",
+      "Pt-br": "Nunca pensei que você fosse se preocupar com esse tipo de coisa.\"",
+      "id": 42975,
+      "epk_id": "42757",
+      "label": "$$$message_0350_0000_0011$$$"
+    },
+    {
+      "en": "\"In the actual war, I never would have. But I'm just not feeling very motivated this time.[lr]",
+      "jp": "「本来の戦いであれば私とて引く気はないのだが、今回は気乗りがしないだけさ。[lr]",
+      "Pt-br": "\"Na guerra de verdade, eu jamais faria isso. Mas desta vez não estou exatamente motivado.[lr]",
+      "id": 42976,
+      "epk_id": "42758",
+      "label": "$$$message_0350_0000_0012$$$"
+    },
+    {
+      "en": "Her reason being what it is.\"",
+      "jp": "　なにせ理由が理由なのでな」",
+      "Pt-br": "Ainda mais pelo motivo dela.\"",
+      "id": 42977,
+      "epk_id": "42759",
+      "label": "$$$message_0350_0000_0013$$$"
+    },
+    {
+      "en": "\"Eh...? Why do you want to go to the onsen?\"",
+      "jp": "「え……姉さんが温泉に行きたい理由、ですか？」",
+      "Pt-br": "\"Eh...? Por que você quer ir ao onsen, Nee-san?\"",
+      "id": 42978,
+      "epk_id": "42760",
+      "label": "$$$message_0350_0000_0014$$$"
+    },
+    {
+      "en": "\"Hey, Archer!\"",
+      "jp": "「ちょっとアーチャー、アンタ[line len=2]」",
+      "Pt-br": "\"Ei, Archer!\"",
+      "id": 42979,
+      "epk_id": "42761",
+      "label": "$$$message_0350_0000_0015$$$"
+    },
+    {
+      "en": "\"Feeling guilty, Rin? Your sister genuinely wants to be happy. She even defeated Shirou Emiya to come this far.\"",
+      "jp": "「おや、何か後ろめたいのかね凛。君の妹は本気で幸せになりたいと、心を開く衛宮士郎にすら打ち勝ってきたのだぞ」",
+      "Pt-br": "\"Bateu culpa, Rin? Sua irmã quer ser feliz de verdade. Ela até derrotou Emiya Shirou para chegar até aqui.\"",
+      "id": 42980,
+      "epk_id": "42762",
+      "label": "$$$message_0350_0000_0016$$$"
+    },
+    {
+      "en": "\"Imagine how it feels to be in my shoes, getting dragged along for the sake of your diet.\"",
+      "jp": "「まったく。ダイエットの為に連れまわされる私の気にもなってみろ」",
+      "Pt-br": "\"Imagine como eu me sinto, sendo arrastado por causa da sua dieta.\"",
+      "id": 42981,
+      "epk_id": "42763",
+      "label": "$$$message_0350_0000_0017$$$"
+    },
+    {
+      "en": "\"...Diet?\"",
+      "jp": "「[line len=2]だい、えっと？」",
+      "Pt-br": "\"...Dieta?\"",
+      "id": 42982,
+      "epk_id": "42764",
+      "label": "$$$message_0350_0000_0018$$$"
+    },
+    {
+      "en": "\"It's rather uncalled-for to put that ahead of Sakura, wouldn't you say? You're always talking about mental flab, but your phys[line len=2][l][se storage=se229.wav][se storage=se231.wav][hffacechg chara=アーチャー face=哀 layer=0 time=200][hfangry layer=0][say storage=HSAK6_ARC_0080 _name=アーチャー]hrrk!\"",
+      "jp": "「そんな理由で邪魔をするのは失礼ではないのかね？　君がよく言う心の贅肉とやらが、君自身には[line len=2][l][se storage=se229.wav][se storage=se231.wav][hffacechg chara=アーチャー face=哀 layer=0 time=200][hfangry layer=0][say storage=HSAK6_ARC_0080 _name=アーチャー]ぐは！」",
+      "Pt-br": "\"É muita falta de noção colocar isso acima da Sakura, não acha? Você vive falando de gordura mental, mas o seu fí[line len=2][l][se storage=se229.wav][se storage=se231.wav][hffacechg chara=アーチャー face=哀 layer=0 time=200][hfangry layer=0][say storage=HSAK6_ARC_0080 _name=アーチャー]hrrk!\"",
+      "id": 42983,
+      "epk_id": "42765",
+      "label": "$$$message_0350_0000_0019$$$"
+    },
+    {
+      "en": "\"...That was a nice right hook.\"",
+      "jp": "「……いい右が入ったようですね」",
+      "Pt-br": "\"...Belo direto de direita.\"",
+      "id": 42984,
+      "epk_id": "42766",
+      "label": "$$$message_0350_0000_0020$$$"
+    },
+    {
+      "en": "\"...Uhehehehe. So [font italic=true]that's[font italic=false] why you're in my way?\"",
+      "jp": "「[line len=2]うふふふふ。姉さんは、そんな理由で私の邪魔をしようって言うんですか」",
+      "Pt-br": "\"...Uhehehehe. Então é [font italic=true]por isso[font italic=false] que você está no meu caminho, Nee-san?\"",
+      "id": 42985,
+      "epk_id": "42767",
+      "label": "$$$message_0350_0000_0021$$$"
+    },
+    {
+      "en": "\"That's right, Sakura. You wouldn't understand what it's like to have Shirou say,",
+      "jp": "「ええ、そうよ桜。貴方には分からないでしょうね！　よりにもよって士郎に[line len=2]",
+      "Pt-br": "\"Isso mesmo, Sakura. Você não sabe o que é ouvir Shirou dizer,",
+      "id": 42986,
+      "epk_id": "42768",
+      "label": "$$$message_0350_0000_0022$$$"
+    },
+    {
+      "en": "[large]'Huh, did you get fatter, Tohsaka?'[rf]",
+      "jp": "[large]『あれ、遠坂太くなった？』[rf]",
+      "Pt-br": "[large]'Hã, você engordou, Tohsaka?'[rf]",
+      "id": 42987,
+      "epk_id": "42769",
+      "label": "$$$message_0350_0001_0000$$$"
+    },
+    {
+      "en": "to your face!\"",
+      "jp": "なんて言われた私の気持ちが！」",
+      "Pt-br": "bem na sua cara!\"",
+      "id": 42988,
+      "epk_id": "42770",
+      "label": "$$$message_0350_0002_0000$$$"
+    },
+    {
+      "en": "\"...I do recall hearing that at dinner the other night.\"",
+      "jp": "「……先日の夕食でしたか、確か」",
+      "Pt-br": "\"...Agora que você falou, lembro de ter ouvido isso no jantar da outra noite.\"",
+      "id": 42989,
+      "epk_id": "42771",
+      "label": "$$$message_0350_0002_0001$$$"
+    },
+    {
+      "en": "\"FATTER!? You've got it good, Sakura. At least all your nutrients fill you out [font italic=true]proportionally![font italic=false]\"",
+      "jp": "「太くって何よ、太くって！　いいわよね桜は。食べた栄養が全部プロポーションに回ってくれて！」",
+      "Pt-br": "\"ENGORDEI!? Você é que tem sorte, Sakura. Pelo menos em você todos os nutrientes se distribuem [font italic=true]proporcionalmente![font italic=false]\"",
+      "id": 42990,
+      "epk_id": "42772",
+      "label": "$$$message_0350_0002_0002$$$"
+    },
+    {
+      "en": "\"I-I don't think that has anything to do with this!\"",
+      "jp": "「そ、それとコレとは関係無いじゃないですか！」",
+      "Pt-br": "\"I-isso não tem nada a ver com a situação!\"",
+      "id": 42991,
+      "epk_id": "42773",
+      "label": "$$$message_0350_0002_0003$$$"
+    },
+    {
+      "en": "\"Hehehe. Fine. Now that you've found out, I'm not holding back.\"",
+      "jp": "「ふふふ、もういいわ。知られたからにはこっちだって本気で行くわよ」",
+      "Pt-br": "\"Hehehe. Muito bem. Agora que você descobriu, não vou mais pegar leve.\"",
+      "id": 42992,
+      "epk_id": "42774",
+      "label": "$$$message_0350_0002_0004$$$"
+    },
+    {
+      "en": "\"Your team spilled everything, though.\"",
+      "jp": "「勝手にそちらが話しただけですが」",
+      "Pt-br": "\"Mas o seu próprio time contou tudo.\"",
+      "id": 42993,
+      "epk_id": "42775",
+      "label": "$$$message_0350_0002_0005$$$"
+    },
+    {
+      "en": "\"Archer, how long are you going to take a nap? [l][hfchance layer=0][say storage=HSAK6_RIN_0140 _name=凛]Come on, stand up and fight! I can boost you with a Command Spell, if you want.\"",
+      "jp": "「アーチャー、いつまで寝てるの。[l][hfchance layer=0][say storage=HSAK6_RIN_0140 _name=凛]ほら早く立って彼女達の相手をする。なんなら令呪でブーストかけてもいいのよ？」",
+      "Pt-br": "\"Archer, até quando você vai ficar cochilando? [l][hfchance layer=0][say storage=HSAK6_RIN_0140 _name=凛]Vamos, levante e lute! Posso reforçar você com um Selo de Comando, se quiser.\"",
+      "id": 42994,
+      "epk_id": "42776",
+      "label": "$$$message_0350_0002_0006$$$"
+    },
+    {
+      "en": "\"Sakura, Rin has lost her mind, but she's serious. We'd better respond in kind.\"",
+      "jp": "「桜、リンはやや正気を失っていますが本気です。こちらもそれ相応の覚悟を持たねば危険でしょう」",
+      "Pt-br": "\"Sakura, a Rin perdeu o juízo, mas está falando sério. É melhor respondermos à altura.\"",
+      "id": 42995,
+      "epk_id": "42777",
+      "label": "$$$message_0350_0002_0007$$$"
+    },
+    {
+      "en": "\"It's okay, Rider... I won't lose when I put my heart into it!\"",
+      "jp": "「大丈夫よライダー……こっちだって、気合いじゃ負けてないんだから……！」",
+      "Pt-br": "\"Tudo bem, Rider... Quando coloco o coração nisso, eu não perco!\"",
+      "id": 42996,
+      "epk_id": "42778",
+      "label": "$$$message_0350_0002_0008$$$"
+    }
+  ]
+}

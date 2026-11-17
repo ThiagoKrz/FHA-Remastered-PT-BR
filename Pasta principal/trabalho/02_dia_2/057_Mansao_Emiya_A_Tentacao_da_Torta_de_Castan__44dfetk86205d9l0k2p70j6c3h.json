@@ -1,0 +1,640 @@
+{
+  "cena": "44dfetk86205d9l0k2p70j6c3h",
+  "titulo": "Mansão Emiya: A Tentação da Torta de Castanha",
+  "rota": "Dia 2",
+  "arquivo": "44dfetk86205d9l0k2p70j6c3h.epk_dec",
+  "linhas": [
+    {
+      "en": "It isn't lunch yet, but something smells good.[lr]",
+      "jp": "ãæ¼é£¯åãªã®ã«ããé¦ããããã[lr]",
+      "Pt-br": "Ainda não é hora do almoço, mas algo está cheirando bem.[lr]",
+      "id": 9116,
+      "epk_id": "2644",
+      "label": "$$$message_0017_0000_0000$$$"
+    },
+    {
+      "en": "...Hmm, who is cooking what?[lr]",
+      "jp": "ãâ¦â¦ãã¼ããèª°ããä½ãä½ã£ã¦ããã ãããï¼[lr]",
+      "Pt-br": "...Hmm, quem está cozinhando o quê?[lr]",
+      "id": 9117,
+      "epk_id": "2645",
+      "label": "$$$message_0017_0000_0001$$$"
+    },
+    {
+      "en": "\"This aroma...\"[lr]",
+      "jp": "ãé¦ã°ããåãâ¦â¦ããã¯ã[lr]",
+      "Pt-br": "\"Esse aroma...\"[lr]",
+      "id": 9118,
+      "epk_id": "2646",
+      "label": "$$$message_0017_0000_0002$$$"
+    },
+    {
+      "en": "Someone's baking a cake or a pie.[lr]",
+      "jp": "ãã±ã¼ã­ããã¤ãç¼ãã¦ããé¦ãã ã[lr]",
+      "Pt-br": "Alguém está assando um bolo ou uma torta.[lr]",
+      "id": 9119,
+      "epk_id": "2647",
+      "label": "$$$message_0017_0000_0003$$$"
+    },
+    {
+      "en": "The only person who's good at baking in this house is Sakura.",
+      "jp": "ãæãå®¶ã®é¢ã\nã§ãã³ç³»ãå¾æãªã®ã¯æ¡ããããªãã",
+      "Pt-br": "A única pessoa que é boa em assar coisas nesta casa é a Sakura.",
+      "id": 9120,
+      "epk_id": "2648",
+      "label": "$$$message_0017_0000_0004$$$"
+    },
+    {
+      "en": "\"And...\"[lr]",
+      "jp": "ãâ¦â¦ã£ã¨ã[lr]",
+      "Pt-br": "\"E...\"[lr]",
+      "id": 9121,
+      "epk_id": "2649",
+      "label": "$$$message_0017_0001_0000$$$"
+    },
+    {
+      "en": "I look in the living room and the kitchen, but nobody's there.[lr]",
+      "jp": "ãå±\néã¨å°æãè¦ãããèª°ãããªãã[lr]",
+      "Pt-br": "Olho na sala de estar e na cozinha, mas não há ninguém.[lr]",
+      "id": 9122,
+      "epk_id": "2650",
+      "label": "$$$message_0017_0001_0001$$$"
+    },
+    {
+      "en": "Is the smell coming from Sakura's room, then...?",
+      "jp": "ãâ¦â¦ã¨ãªãã¨ãåãã®å\nã¯æ¡ã®é¨å±ããªâ¦â¦ï¼",
+      "Pt-br": "O cheiro está vindo do quarto da Sakura, então...?",
+      "id": 9123,
+      "epk_id": "2651",
+      "label": "$$$message_0017_0001_0002$$$"
+    },
+    {
+      "en": "\"Sakura, you in there?\"[lr]",
+      "jp": "ãæ¡ããããï¼ã[lr]",
+      "Pt-br": "\"Sakura, você está aí?\"[lr]",
+      "id": 9124,
+      "epk_id": "2652",
+      "label": "$$$message_0017_0002_0000$$$"
+    },
+    {
+      "en": "\"Ah, Senpai. Please come in.\"[lr]",
+      "jp": "ãããã¯ãå\nè¼©ãã©ããï¼ã[lr]",
+      "Pt-br": "\"Ah, Senpai. Por favor, entre.\"[lr]",
+      "id": 9125,
+      "epk_id": "2653",
+      "label": "$$$message_0017_0002_0001$$$"
+    },
+    {
+      "en": "\"...Is that Shirou?\"[lr]",
+      "jp": "ãâ¦â¦ã·ã­ã¦ã§ããï¼ã[lr]",
+      "Pt-br": "\"...É o Shirou?\"[lr]",
+      "id": 9126,
+      "epk_id": "2654",
+      "label": "$$$message_0017_0002_0002$$$"
+    },
+    {
+      "en": "Oh, is Saber inside Sakura's room, too?",
+      "jp": "ããããã»ã¤ãã¼ãæ¡ã®é¨å±ã«ããï¼",
+      "Pt-br": "Oh, a Saber também está no quarto da Sakura?",
+      "id": 9127,
+      "epk_id": "2655",
+      "label": "$$$message_0017_0002_0003$$$"
+    },
+    {
+      "en": "\"Pardon me... Ah, I figured.\"[lr]",
+      "jp": "ãå¤±ç¤¼ãã¾ããã¨[line len=3]ãã¼ãã£ã±ãã[lr]",
+      "Pt-br": "\"Com licença... Ah, imaginei.\"[lr]",
+      "id": 9128,
+      "epk_id": "2656",
+      "label": "$$$message_0017_0003_0000$$$"
+    },
+    {
+      "en": "I nod once I enter Sakura's room.[lr]",
+      "jp": "ãæ¡ã®é¨å±ã«å\n¥ã£ã¦ãé ·ããã[lr]",
+      "Pt-br": "Assinto assim que entro no quarto da Sakura.[lr]",
+      "id": 9129,
+      "epk_id": "2657",
+      "label": "$$$message_0017_0003_0001$$$"
+    },
+    {
+      "en": "It smells good.[lr]",
+      "jp": "ãããé¦ããããã[lr]",
+      "Pt-br": "Tem um cheiro bom.[lr]",
+      "id": 9130,
+      "epk_id": "2658",
+      "label": "$$$message_0017_0003_0002$$$"
+    },
+    {
+      "en": "There's a freshly baked pie on the desk, and a fork.[lr]",
+      "jp": "ãæºã®ä¸ã«ç¼ããã¦ã®ãã¤ã¨ãã©ã¼ã¯ã[lr]",
+      "Pt-br": "Há uma torta recém-assada na mesa e um garfo.[lr]",
+      "id": 9131,
+      "epk_id": "2659",
+      "label": "$$$message_0017_0003_0003$$$"
+    },
+    {
+      "en": "The fragrance of the butter and crust play a delectable duo in the air, whetting my appetite before lunchtime.",
+      "jp": "ããã¿ã¼ã¨å°éº¦ç²ãèª¿ã¹ãé¦ã°ãããã¤ã®é¦ãã®äºéå¥ã¯ãæ¼é£åã®èãããæãã§åºæ¿ããã",
+      "Pt-br": "A fragrância da manteiga e da massa brincam em um dueto delicioso no ar, abrindo meu apetite antes da hora do almoço.",
+      "id": 9132,
+      "epk_id": "2660",
+      "label": "$$$message_0017_0003_0004$$$"
+    },
+    {
+      "en": "\"Shirou... We didn't mean to keep this from you, but Sakura invited me, and I...\"[lr]",
+      "jp": "ãã·ã­ã¦â¦â¦ãã®ãã·ã­ã¦ã«ç§å¯ã«ããã¤ããã¯ãªãã£ãã®ã§ãããæ¡ã«èªããã¾ãã¦ãã®ãããã¯ã[lr]",
+      "Pt-br": "\"Shirou... Não queríamos esconder isso de você, mas a Sakura me convidou, e eu...\"[lr]",
+      "id": 9133,
+      "epk_id": "2661",
+      "label": "$$$message_0017_0004_0000$$$"
+    },
+    {
+      "en": "Saber makes an excuse, looking guilty for munching away at the pie.[lr]",
+      "jp": "ãä¸äººããããã¨é£ã¹ã¦ããã®ãå¾ããããã®ããã»ã¤ãã¼ãè¨ãè¨³ããã[lr]",
+      "Pt-br": "Saber inventa uma desculpa, parecendo culpada por estar comendo a torta.[lr]",
+      "id": 9134,
+      "epk_id": "2662",
+      "label": "$$$message_0017_0004_0001$$$"
+    },
+    {
+      "en": "I can see that she's been eating.",
+      "jp": "ããããé£ã¹ã¦ããã®ã¯è¦ãã¨ãã[line len=3]",
+      "Pt-br": "Posso ver que ela esteve comendo.",
+      "id": 9135,
+      "epk_id": "2663",
+      "label": "$$$message_0017_0004_0002$$$"
+    },
+    {
+      "en": "\"It's all right, Saber. Keep eating.[lr]",
+      "jp": "ããããã»ã¤ãã¼ãé£äºãç¶ãã¦ããã[lr]",
+      "Pt-br": "\"Tudo bem, Saber. Pode continuar comendo.[lr]",
+      "id": 9136,
+      "epk_id": "2664",
+      "label": "$$$message_0017_0005_0000$$$"
+    },
+    {
+      "en": "Did you bake that pie, Sakura?\"[lr]",
+      "jp": "ãã§ããã®ãã¤ã¯æ¡ãç¼ããã®ãï¼ã[lr]",
+      "Pt-br": "Você quem assou essa torta, Sakura?\"[lr]",
+      "id": 9137,
+      "epk_id": "2665",
+      "label": "$$$message_0017_0005_0001$$$"
+    },
+    {
+      "en": "\"Yes. While persimmons are good in the fall, I like chestnuts, too.\"[lr]",
+      "jp": "ãã¯ããç§ã®æç©ã¯æ¿ããããã§ããã©ããã£ã±ãæ ãããã§ããã­ãå\nè¼©ã[lr]",
+      "Pt-br": "\"Sim. Embora caquis sejam bons no outono, eu também gosto de castanhas, Senpai.\"[lr]",
+      "id": 9138,
+      "epk_id": "2666",
+      "label": "$$$message_0017_0005_0002$$$"
+    },
+    {
+      "en": "\"Same. Like when they're steamed in rice... So that's chestnut pie?\"",
+      "jp": "ããããæ ãããã¨ããªãâ¦â¦ã¨ãªãã¨ãã­ã³ãã¤ï¼ã",
+      "Pt-br": "\"Idem. Como quando são cozidas no vapor com arroz... Então isso é torta de castanha?\"",
+      "id": 9139,
+      "epk_id": "2667",
+      "label": "$$$message_0017_0005_0003$$$"
+    },
+    {
+      "en": "It's a small pie just big enough for one person, topped with chestnuts.[lr]",
+      "jp": "ãå°ããä¸äººåãè¼ã£ã¦ãããã¤ã[lr]",
+      "Pt-br": "É uma torta pequena, grande o suficiente para uma pessoa, coberta com castanhas.[lr]",
+      "id": 9140,
+      "epk_id": "2668",
+      "label": "$$$message_0017_0006_0000$$$"
+    },
+    {
+      "en": "While big pies are nice too, there's an appeal to personal pies like these.",
+      "jp": "ããã¼ã«ã§ç¼ãä¸ããå¤§ããªãã¤ãããããããããã®ãé¢¨æ\nãããã",
+      "Pt-br": "Embora tortas grandes também sejam boas, há um apelo em tortas individuais como essas.",
+      "id": 9141,
+      "epk_id": "2669",
+      "label": "$$$message_0017_0006_0001$$$"
+    },
+    {
+      "en": "\"Yes, I put a little effort into it and made the dough from scratch.\"[lr]",
+      "jp": "ãããã§ããã¡ãã£ã¨é å¼µã£ã¦ãã¤çå°ãããã£ã¦ã¿ã¾ããã[lr]",
+      "Pt-br": "\"Sim, me esforcei um pouco e fiz a massa do zero.\"[lr]",
+      "id": 9142,
+      "epk_id": "2670",
+      "label": "$$$message_0017_0007_0000$$$"
+    },
+    {
+      "en": "\"Um... Sakura looked like she was really struggling, so I lent her a hand.\"[lr]",
+      "jp": "ããã®â¦â¦æ¡ãéå¸¸ã«å¤§å¤ããã ã£ãã®ã§ãç§ãæä¼ããããã¦é ãã¾ããã[lr]",
+      "Pt-br": "\"Umm... A Sakura parecia estar tendo muita dificuldade, então dei uma mãozinha a ela.\"[lr]",
+      "id": 9143,
+      "epk_id": "2671",
+      "label": "$$$message_0017_0007_0001$$$"
+    },
+    {
+      "en": "Saber helped with baking? How unusual.",
+      "jp": "ãã»ã¤ãã¼ãèå­ä½ããâ¦â¦çããã³ããããããã ã",
+      "Pt-br": "A Saber ajudou a assar? Que incomum.",
+      "id": 9144,
+      "epk_id": "2672",
+      "label": "$$$message_0017_0007_0002$$$"
+    },
+    {
+      "en": "\"That's right. Puff pastry dough is more delicious, though it took a lot of work.\"[lr]",
+      "jp": "ããããªãã§ãããã£ã±ããã¤çå°ã¯æããã¤ã®æ¹ãæ ¼æ®µã«ç¾å³ããã§ããããæéãããããã§ããã­ã[lr]",
+      "Pt-br": "\"É verdade. A massa folhada é mais deliciosa, embora tenha dado muito trabalho.\"[lr]",
+      "id": 9145,
+      "epk_id": "2673",
+      "label": "$$$message_0017_0008_0000$$$"
+    },
+    {
+      "en": "\"Even I can manage folding dough repeatedly.\"[lr]",
+      "jp": "ãããããæãéã­ã®é£ç¶ã§ããã°ç§ã§ãåºæ¥ã¾ãã[lr]",
+      "Pt-br": "\"Até eu consigo dar conta de dobrar a massa repetidamente.\"[lr]",
+      "id": 9146,
+      "epk_id": "2674",
+      "label": "$$$message_0017_0008_0001$$$"
+    },
+    {
+      "en": "It's true that it takes a lot of physical labor to fold pie dough. That's why premade dough exists.",
+      "jp": "ãç¢ºãã«ãã¤çå°ãå»¶ã\næã£ã¦ããã®ã¯ããªãã®å´åã ãããå·åã®ãã¤çå°ã¨ããããããã ãããªã",
+      "Pt-br": "É verdade que dá muito trabalho físico dobrar massa de torta. É por isso que existem as massas prontas.",
+      "id": 9147,
+      "epk_id": "2675",
+      "label": "$$$message_0017_0008_0002$$$"
+    },
+    {
+      "en": "\"It was a very interesting process, Shirou.\"[lr]",
+      "jp": "ããªããªãèå³æ·±ãä½æ¥­ã§ãããã·ã­ã¦ã[lr]",
+      "Pt-br": "\"Foi um processo muito interessante, Shirou.\"[lr]",
+      "id": 9148,
+      "epk_id": "2676",
+      "label": "$$$message_0017_0009_0000$$$"
+    },
+    {
+      "en": "\"And now my assistant Saber is helping me taste test the finished product.\"[lr]",
+      "jp": "ãããã§ãååè\nã®ã»ã¤ãã¼ããã«ã¾ããå³è¦ããã¦è²°ãã³ãã«ãªãã¾ããã¼ã[lr]",
+      "Pt-br": "\"E agora a minha assistente Saber-san está me ajudando a testar o sabor do produto final.\"[lr]",
+      "id": 9149,
+      "epk_id": "2677",
+      "label": "$$$message_0017_0009_0001$$$"
+    },
+    {
+      "en": "Ah, so that's why Saber's eating in Sakura's room.[lr]",
+      "jp": "ããããã ããæ¡ã®é¨å±ã§ã»ã¤ãã¼ãé£ã¹ã¦ãã®ãã[lr]",
+      "Pt-br": "Ah, então é por isso que a Saber está comendo no quarto da Sakura.[lr]",
+      "id": 9150,
+      "epk_id": "2678",
+      "label": "$$$message_0017_0009_0002$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=桜私服07c(中),セイバー私服07c(中) textoff=0]It was taste testing, not snacking between meals.",
+      "jp": "ã[chgfg time=300 storage=æ¡ç§æ07c(ä¸­),ã»ã¤ãã¼ç§æ07c(ä¸­) textoff=0]éé£ãªãã¬è©¦é£ã ã£ãã¯ã±ã ã",
+      "Pt-br": "[chgfg time=300 storage=桜私服07c(中),セイバー私服07c(中) textoff=0]Isso era um teste de sabor, não um lanche entre as refeições.",
+      "id": 9151,
+      "epk_id": "2679",
+      "label": "$$$message_0017_0009_0003$$$"
+    },
+    {
+      "en": "\"So you made it together. How does it taste, Saber?\"[lr]",
+      "jp": "ãäºäººã®ååä½ã£ã¦ã³ãããå³ã®æ¹ã¯ã©ãã ã»ã¤ãã¼ï¼ã[lr]",
+      "Pt-br": "\"Então vocês a fizeram juntas. Como está o sabor, Saber?\"[lr]",
+      "id": 9152,
+      "epk_id": "2680",
+      "label": "$$$message_0017_0010_0000$$$"
+    },
+    {
+      "en": "\"The sweetness of the chestnuts and the texture of the dough form an exquisite combination. [cacheimage storage=セイバー私服01b(中)][wvl][chgfg time=300 storage=セイバー私服01b(中) textoff=0]Sakura, I sincerely admire your dessert-making skills.\"[lr]",
+      "jp": "ãã¯ããæ ã®çãã¨ãã¤çå°ã®æ­¯ãããæãåããã£ã¦éå¸¸ã«ã[cacheimage storage=ã»ã¤ãã¼ç§æ01b(ä¸­)][wvl][chgfg time=300 storage=ã»ã¤ãã¼ç§æ01b(ä¸­) textoff=0]æ¡ã®èå­ä½ãã®è\nã«ã¯è±å¸½ã§ãã[lr]",
+      "Pt-br": "\"A doçura das castanhas e a textura da massa formam uma combinação primorosa. [cacheimage storage=セイバー私服01b(中)][wvl][chgfg time=300 storage=セイバー私服01b(中) textoff=0]Sakura, admiro sinceramente sua habilidade com sobremesas.\"[lr]",
+      "id": 9153,
+      "epk_id": "2681",
+      "label": "$$$message_0017_0010_0001$$$"
+    },
+    {
+      "en": "\"Thank you, Saber. You're a master at dough-making, too.\"",
+      "jp": "ããããã¨ããããã¾ããã»ã¤ãã¼ãããããå ã«å\n¥ã£ããã¤çå°ä½ãã§ããã",
+      "Pt-br": "\"Obrigada, Saber-san. Você também manda muito bem com massas.\"",
+      "id": 9154,
+      "epk_id": "2682",
+      "label": "$$$message_0017_0010_0002$$$"
+    },
+    {
+      "en": "\"Huh...\"[lr]",
+      "jp": "ãã¸ãâ¦â¦ã[lr]",
+      "Pt-br": "\"Hã...\"[lr]",
+      "id": 9155,
+      "epk_id": "2683",
+      "label": "$$$message_0017_0011_0000$$$"
+    },
+    {
+      "en": "The air between them feels friendlier than ever.[lr]",
+      "jp": "ããªãã¨ããããäºäººã®ç©ºæ°ããã¤ã«ãªãä»²è¯ãã ã[lr]",
+      "Pt-br": "O ar entre elas parece mais amigável do que nunca.[lr]",
+      "id": 9156,
+      "epk_id": "2684",
+      "label": "$$$message_0017_0011_0001$$$"
+    },
+    {
+      "en": "They already get along normally, but maybe this is the sweet mood of a private girls-only tea party.",
+      "jp": "ãæ®æ®µãä»²ãããã®ã ããä»æ¥ã¯å¥³ã®å­åå£«ã®ç§å¯ã®ãè¶ä¼ãã¨ãã£ãçãç©ºæ°ãããã",
+      "Pt-br": "Elas já se dão bem normalmente, mas talvez esse seja o clima doce de uma festa do chá privada só para garotas.",
+      "id": 9157,
+      "epk_id": "2685",
+      "label": "$$$message_0017_0011_0002$$$"
+    },
+    {
+      "en": "\"Oh Saber, what were the cakes like in your country? Were they piled high with exotic fruits?\"[lr]",
+      "jp": "ãããã ãã»ã¤ãã¼ããããå½ã®ã±ã¼ã­ã¯ã©ãã ã£ããã§ããï¼ããã£ã±ãçãããã«ã¼ãã¨ãçãæ²¢å±±ãªã±ã¼ã­ã ã£ããã§ããããï¼ã[lr]",
+      "Pt-br": "\"Ah, Saber-san, como eram os bolos no seu país? Eram cheios de frutas exóticas?\"[lr]",
+      "id": 9158,
+      "epk_id": "2686",
+      "label": "$$$message_0017_0012_0000$$$"
+    },
+    {
+      "en": "\"Agh... Unfortunately, there wasn't any sugar in my era. I don't believe sweet treats such as this had been developed yet.\"",
+      "jp": "ããâ¦â¦æ®å¿µã§ãããç§ã®æä»£ã¯ç ç³ãã»ã¨ãã©ãªãã£ãé ã§ãããã®ãããªçãèå­é¡ã¯ãã¾ã çºéãã¦ããªãã£ããã¨ã",
+      "Pt-br": "\"Agh... Infelizmente, não havia açúcar na minha época. Não creio que doces assim já haviam sido criados.\"",
+      "id": 9159,
+      "epk_id": "2687",
+      "label": "$$$message_0017_0012_0001$$$"
+    },
+    {
+      "en": "\"Oh... I see.\"[lr]",
+      "jp": "ããâ¦â¦ãããªãã§ããã[lr]",
+      "Pt-br": "\"Oh... Entendo.\"[lr]",
+      "id": 9160,
+      "epk_id": "2688",
+      "label": "$$$message_0017_0013_0000$$$"
+    },
+    {
+      "en": "\"Our cooks did strut their skills during banquets, but...[cacheimage storage=セイバー私服12d(中)][wvl][chgfg time=300 storage=セイバー私服12d(中) textoff=0]...\"",
+      "jp": "ãé¥å®´ã§ã¯æçäººãã¡ãè\nãæ¯ãã£ã¦ããã¾ãããâ¦â¦[cacheimage storage=ã»ã¤ãã¼ç§æ12d(ä¸­)][wvl][chgfg time=300 storage=ã»ã¤ãã¼ç§æ12d(ä¸­) textoff=0]â¦â¦ã",
+      "Pt-br": "\"Nossos cozinheiros exibiam suas habilidades em banquetes, mas...[cacheimage storage=セイバー私服12d(中)][wvl][chgfg time=300 storage=セイバー私服12d(中) textoff=0]...\"",
+      "id": 9161,
+      "epk_id": "2689",
+      "label": "$$$message_0017_0013_0001$$$"
+    },
+    {
+      "en": "Saber doesn't seem very interested when it comes to talking about her country's cuisine.[lr]",
+      "jp": "ããå½ã®æçã®è©±ã«ãªãã¨ã»ã¤ãã¼ã¯ãªãã¨ãéããªãã[lr]",
+      "Pt-br": "Saber não parece muito interessada quando o assunto é a culinária de seu país.[lr]",
+      "id": 9162,
+      "epk_id": "2690",
+      "label": "$$$message_0017_0014_0000$$$"
+    },
+    {
+      "en": "But afternoon tea was invented in England. Culinary reputation aside, shouldn't they at least have simple and delicious teatime treats?",
+      "jp": "ããããè±å½ã¯ã¢ãã¿ãã¼ã³ãã£ã¼çºç¥¥ã®å°ãæçã¯ã¨ãããèå­ãªãã·ã³ãã«ã§ãç¾å³ããããªã®ã ãï¼",
+      "Pt-br": "Mas o chá da tarde foi inventado na Inglaterra. Deixando de lado a reputação culinária, eles não deveriam ao menos ter guloseimas de chá simples e deliciosas?",
+      "id": 9163,
+      "epk_id": "2691",
+      "label": "$$$message_0017_0014_0001$$$"
+    },
+    {
+      "en": "\"In that case...was the style more like the cakes that Mitsuzuri-senpai [cacheimage storage=セイバー私服04e(中)][wvl][chgfg time=300 storage=セイバー私服04e(中) textoff=0]bakes?\"[lr]",
+      "jp": "ããããªãã¨â¦â¦ç¾ç¶´å\nè¼©ãç¼ãã±ã¼ã­ã¿ãããªã®ãä¸»æµ[cacheimage storage=ã»ã¤ãã¼ç§æ04e(ä¸­)][wvl][chgfg time=300 storage=ã»ã¤ãã¼ç§æ04e(ä¸­) textoff=0]ã ã£ããã§ããããï¼ã[lr]",
+      "Pt-br": "\"Nesse caso... o estilo era mais parecido com os bolos que a Mitsuzuri-senpai [cacheimage storage=セイバー私服04e(中)][wvl][chgfg time=300 storage=セイバー私服04e(中) textoff=0]assa?\"[lr]",
+      "id": 9164,
+      "epk_id": "2692",
+      "label": "$$$message_0017_0015_0000$$$"
+    },
+    {
+      "en": "\"What? Wait, Sakura, Mitsuzuri bakes cakes?\"",
+      "jp": "ããªã«ï¼ãå¾\nã¦æ¡ãç¾ç¶´ã®ãã¤ã±ã¼ã­ç¼ãã®ãï¼ã",
+      "Pt-br": "\"O quê? Espera, Sakura, a Mitsuzuri assa bolos?\"",
+      "id": 9165,
+      "epk_id": "2693",
+      "label": "$$$message_0017_0015_0001$$$"
+    },
+    {
+      "en": "\"Yes. She's brought them over to the club several times. She's good at making stuff that has baking powder.\"[lr]",
+      "jp": "ãã¯ããå·®ãå\n¥ãã§ä½åº¦ãé ãã¾ããããã¼ã­ã³ã°ãã¦ãã¼ãä½¿ãã±ã¼ã­ã¨ãå¾æãªãã§ããï¼ã[lr]",
+      "Pt-br": "\"Sim. Ela já levou bolos pro clube várias vezes. Ela é boa em fazer coisas que levam fermento em pó.\"[lr]",
+      "id": 9166,
+      "epk_id": "2694",
+      "label": "$$$message_0017_0016_0000$$$"
+    },
+    {
+      "en": "\"So American... Yeah, she's oddly good at making large batches.\"[lr]",
+      "jp": "ãã¢ã¡ãªã«ã³â¦â¦ããããããããå¤§éçç£ãªã®ã¯å¦ã«ä¸æããã ããªãããã¤ã[lr]",
+      "Pt-br": "\"Tão americano... É, estranhamente ela é boa em fazer grandes fornadas.\"[lr]",
+      "id": 9167,
+      "epk_id": "2695",
+      "label": "$$$message_0017_0016_0001$$$"
+    },
+    {
+      "en": "Mitsuzuri's motto is: the bigger the quantity, the better the flavor.[lr]",
+      "jp": "ãå¤§éæã«ãªãã°ãªãã»ã©å³ãå¢ãã®ãç¾ç¶´æµã ã[lr]",
+      "Pt-br": "O lema da Mitsuzuri é: quanto maior a quantidade, melhor o sabor.[lr]",
+      "id": 9168,
+      "epk_id": "2696",
+      "label": "$$$message_0017_0016_0002$$$"
+    },
+    {
+      "en": "I'd like to ask her to make okonomiyaki sometime.",
+      "jp": "ãä»åº¦ãã¤ãã«ãå¥½ã¿ç¼ããä½ããã¦ã¿ããã",
+      "Pt-br": "Eu adoraria pedir para ela fazer okonomiyaki alguma hora.",
+      "id": 9169,
+      "epk_id": "2697",
+      "label": "$$$message_0017_0016_0003$$$"
+    },
+    {
+      "en": "\"Cakes from the New World... This approach of quantity over quality seems familiar.\"[lr]",
+      "jp": "ãæ°å¤§é¸ã®ã±ã¼ã­ã§ããâ¦â¦è³ªã¯ã¨ãããéã¨ããã¹ã¿ã³ã¹ã¯ãä»äººã®æ°ããã¾ããã­ã[lr]",
+      "Pt-br": "\"Bolos do Novo Mundo... Essa abordagem de quantidade em vez de qualidade me parece familiar.\"[lr]",
+      "id": 9170,
+      "epk_id": "2698",
+      "label": "$$$message_0017_0017_0000$$$"
+    },
+    {
+      "en": "Saber sets her fork down.[lr]",
+      "jp": "ããã¡ããã¨ãã©ã¼ã¯ãç½®ãã»ã¤ãã¼ã[lr]",
+      "Pt-br": "Saber solta o garfo.[lr]",
+      "id": 9171,
+      "epk_id": "2699",
+      "label": "$$$message_0017_0017_0001$$$"
+    },
+    {
+      "en": "She finished the chestnut pie quickly.",
+      "jp": "ããã­ã³ãã¤ã®è©¦é£ã¯éããã«çµäºããããã ã",
+      "Pt-br": "Ela terminou a torta de castanhas rapidamente.",
+      "id": 9172,
+      "epk_id": "2700",
+      "label": "$$$message_0017_0017_0002$$$"
+    },
+    {
+      "en": "\"That was very well done. You could even give Fleur's desserts a run for their money.\"[lr]",
+      "jp": "ãçµæ§ãªãæåã§ããããããªãã°ããã«ã¼ã«ã®æ´èå­ã«ãå¼ãã¯ã¨ããªããã¨ã[lr]",
+      "Pt-br": "\"Foi muito bem feito. Você poderia até mesmo dar trabalho aos doces da Fleur.\"[lr]",
+      "id": 9173,
+      "epk_id": "2701",
+      "label": "$$$message_0017_0018_0000$$$"
+    },
+    {
+      "en": "\"Ooh.\"[lr]",
+      "jp": "ããã[lr]",
+      "Pt-br": "\"Ooh.\"[lr]",
+      "id": 9174,
+      "epk_id": "2702",
+      "label": "$$$message_0017_0018_0001$$$"
+    },
+    {
+      "en": "Saber often has a lot to say about flavor, but if this has her endorsement, then it's safe to say the chestnut pie was a smashing success.[lr]",
+      "jp": "ããªãã ããã ã¨å³ã«ããããã»ã¤ãã¼ã®ãå¢¨ä»ãã ãäºäººã®ãã­ã³ãã¤ã¯å¤§æåã¨è¨ããã ããã[lr]",
+      "Pt-br": "A Saber muitas vezes tem muito a dizer sobre sabor, mas se isso tem a aprovação dela, então é seguro dizer que a torta de castanha foi um sucesso estrondoso.[lr]",
+      "id": 9175,
+      "epk_id": "2703",
+      "label": "$$$message_0017_0018_0002$$$"
+    },
+    {
+      "en": "Which leaves...",
+      "jp": "ãã¨ãªãã¨ãå¾ã¯â¦â¦",
+      "Pt-br": "O que deixa...",
+      "id": 9176,
+      "epk_id": "2704",
+      "label": "$$$message_0017_0018_0003$$$"
+    },
+    {
+      "en": "\"Hey, Sakura. Do you still have any more of that chestnut pie?\"[lr]",
+      "jp": "ããªãæ¡ããã­ã³ãã¤ãã¾ã ããã®ããªã[lr]",
+      "Pt-br": "\"Ei, Sakura. Você ainda tem mais dessa torta de castanhas?\"[lr]",
+      "id": 9177,
+      "epk_id": "2705",
+      "label": "$$$message_0017_0019_0000$$$"
+    },
+    {
+      "en": "\"Yes. I made enough for everyone, so I was planning to serve them for dessert after lunch.\"",
+      "jp": "ãã¯ããçããã®åãã¡ããã¨ç¼ãä¸ãã£ã¦ã¾ãããããæ¼ã®å¾ã®ãã¶ã¼ãã«ãã¾ãããã",
+      "Pt-br": "\"Sim. Eu fiz o suficiente para todos, então eu estava planejando servi-las de sobremesa depois do almoço.\"",
+      "id": 9178,
+      "epk_id": "2706",
+      "label": "$$$message_0017_0019_0001$$$"
+    },
+    {
+      "en": "\"Good. That settles the dessert part of the menu.[lr]",
+      "jp": "ãããã£ããé£å¾ã®ãã¶ã¼ãã¯æ±ºã¾ãã ã[lr]",
+      "Pt-br": "\"Bom. Isso resolve a parte da sobremesa no menu.[lr]",
+      "id": 9179,
+      "epk_id": "2707",
+      "label": "$$$message_0017_0020_0000$$$"
+    },
+    {
+      "en": "Now I need to think of a meal that pairs with the pie. Pie wouldn't really be good to have right after udon, for example.\"[lr]",
+      "jp": "ããã¨ã¯ããã«åãæ¼é£¯ãèããªãã¨ãæµç³ã«ãã©ãã®å¾ã«ãã­ã³ãã¤ã£ã¦ããã®ãã[lr]",
+      "Pt-br": "Agora preciso pensar em uma refeição que combine com a torta. Uma torta não seria muito bom para comer logo depois de udon, por exemplo.\"[lr]",
+      "id": 9180,
+      "epk_id": "2708",
+      "label": "$$$message_0017_0020_0001$$$"
+    },
+    {
+      "en": "\"I can eat anything after noodles, though.\"[lr]",
+      "jp": "ããããç§ã¯éººé¡ã®å¾ã§ãåé¡ã¯ããã¾ãããã[lr]",
+      "Pt-br": "\"Eu consigo comer qualquer coisa depois de macarrão, de qualquer jeito.\"[lr]",
+      "id": 9181,
+      "epk_id": "2709",
+      "label": "$$$message_0017_0020_0002$$$"
+    },
+    {
+      "en": "\"Then how about pasta? We still have some canned anchovies and olives, as well as vegetables.\"",
+      "jp": "ãã§ããããã¹ã¿ã§ããã­ãç¼¶è©°ã®ã¢ã³ãã§ãã¨ãªãªã¼ãã¨ããéèãããã¾ãããã",
+      "Pt-br": "\"Então que tal macarrão? Ainda temos algumas anchovas enlatadas e azeitonas, além de vegetais.\"",
+      "id": 9182,
+      "epk_id": "2710",
+      "label": "$$$message_0017_0020_0003$$$"
+    },
+    {
+      "en": "\"Okay. Then let's make it a light lunch.[lr]",
+      "jp": "ãããããªãæ¼é£ã¯å°ãªãã§ãããã[lr]",
+      "Pt-br": "\"Ok. Então vamos fazer um almoço leve.[lr]",
+      "id": 9183,
+      "epk_id": "2711",
+      "label": "$$$message_0017_0021_0000$$$"
+    },
+    {
+      "en": "If everyone is full, they won't be able to taste the fruit of your labor.\"[lr]",
+      "jp": "ãè\n¹ä¸æ¯ã«ãªãã¨äºäººã®èªä¿¡ä½ãå³ãããªããªãã[lr]",
+      "Pt-br": "Se todos estiverem cheios, eles não serão capazes de provar o fruto de seu trabalho.\"[lr]",
+      "id": 9184,
+      "epk_id": "2712",
+      "label": "$$$message_0017_0021_0001$$$"
+    },
+    {
+      "en": "\"It's all right, Senpai! We always have room for dessert!\"",
+      "jp": "ãå¤§ä¸å¤«ã§ãå\nè¼©ã£ãçããã®ã¯å¥è\n¹ã§ãããã",
+      "Pt-br": "\"Está tudo bem, Senpai! Nós sempre temos espaço para a sobremesa!\"",
+      "id": 9185,
+      "epk_id": "2713",
+      "label": "$$$message_0017_0021_0002$$$"
+    },
+    {
+      "en": "Saber nods vigorously.[lr]",
+      "jp": "ãããããã¨é ·ãã»ã¤ãã¼ã[lr]",
+      "Pt-br": "Saber concorda vigorosamente.[lr]",
+      "id": 9186,
+      "epk_id": "2714",
+      "label": "$$$message_0017_0022_0000$$$"
+    },
+    {
+      "en": "...How overwhelmingly persuasive. The women in my house sure are dependable at times like this.",
+      "jp": "ã[line len=3]å§åçãªã¾ã§ã®èª¬å¾åã§ããããã¡ã®å¥³æ§é£ã¯ãããããã¨ãå®ã«é ¼ãããã",
+      "Pt-br": "...Que poder de persuasão esmagador. As mulheres da minha casa certamente são confiáveis em horas como essas.",
+      "id": 9187,
+      "epk_id": "2715",
+      "label": "$$$message_0017_0022_0001$$$"
+    },
+    {
+      "en": "\"Okay, settle down.[lr]",
+      "jp": "ããªã¼ã±ã¼ãããããã¡å°ãªç®ã£ã¦ã¨ããã«è½ã¨ããã[lr]",
+      "Pt-br": "\"Ok, acalmem-se.[lr]",
+      "id": 9188,
+      "epk_id": "2716",
+      "label": "$$$message_0017_0023_0000$$$"
+    },
+    {
+      "en": "You two made the pies, so I'll make lunch on my own. Take it easy until then.\"",
+      "jp": "ãæ¡ã¨ã»ã¤ãã¼ã¯ãã¤ãä½ã£ã¦ããããã ãããæ¼é£¯ã¯ä¿ºä¸äººã§ç¨æããããäºäººã¯ããã¡ãã£ã¨ãã£ãããã¦ãã³ãã",
+      "Pt-br": "Vocês duas fizeram as tortas, então eu farei o almoço sozinho. Descansem até lá.\"",
+      "id": 9189,
+      "epk_id": "2717",
+      "label": "$$$message_0017_0023_0001$$$"
+    },
+    {
+      "en": "\"Yes, we'll take you up on that.\"[lr]",
+      "jp": "ãã¯ãããè¨èã«çãã¾ãã[lr]",
+      "Pt-br": "\"Certo, nós aceitamos a oferta.\"[lr]",
+      "id": 9190,
+      "epk_id": "2718",
+      "label": "$$$message_0017_0024_0000$$$"
+    },
+    {
+      "en": "They answer in harmony.[lr]",
+      "jp": "ãäºäººã®è¿äºããã¢ãã[lr]",
+      "Pt-br": "Elas respondem em harmonia.[lr]",
+      "id": 9191,
+      "epk_id": "2719",
+      "label": "$$$message_0017_0024_0001$$$"
+    },
+    {
+      "en": "I smile and nod, then leave Sakura's room.[lr]",
+      "jp": "ãããã«ç¬ã£ã¦é ·ãã¦ãæ¡ã®é¨å±ãå¾ã«ããã[lr]",
+      "Pt-br": "Eu sorrio e assinto, e então saio do quarto da Sakura.[lr]",
+      "id": 9192,
+      "epk_id": "2720",
+      "label": "$$$message_0017_0024_0002$$$"
+    },
+    {
+      "en": "Now...[lr]",
+      "jp": "ããã¦ã[lr]",
+      "Pt-br": "Agora...[lr]",
+      "id": 9193,
+      "epk_id": "2721",
+      "label": "$$$message_0017_0024_0003$$$"
+    },
+    {
+      "en": "I'll make a spicy pasta that's no less tasty than that chestnut pie.",
+      "jp": "ããã®ãã­ã³ãã¤ã«è² ããªããããããªã£ã¨ä¸å³è¾ããã¹ã¿ãä½ãã¨ãããã",
+      "Pt-br": "Vou fazer uma massa apimentada que não seja menos saborosa que aquela torta de castanhas.",
+      "id": 9194,
+      "epk_id": "2722",
+      "label": "$$$message_0017_0024_0004$$$"
+    }
+  ]
+}

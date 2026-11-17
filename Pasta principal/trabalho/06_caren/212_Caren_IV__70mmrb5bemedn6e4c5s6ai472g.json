@@ -1,0 +1,1824 @@
+{
+  "cena": "70mmrb5bemedn6e4c5s6ai472g",
+  "titulo": "Caren IV",
+  "rota": "Caren",
+  "arquivo": "70mmrb5bemedn6e4c5s6ai472g.epk_dec",
+  "linhas": [
+    {
+      "en": "I don't have any business at the church.[lr]",
+      "jp": "　教会に用事はない。[lr]",
+      "Pt-br": "Não tenho nenhum assunto a tratar na igreja.[lr]",
+      "id": 28593,
+      "epk_id": "20794",
+      "label": "$$$message_0166_0000_0000$$$"
+    },
+    {
+      "en": "No unfinished business at all. [move textoff=0 time=300 path=(0,0,255)(0,0,0) storage=fd12 accel=0]Not for Shirou Emiya.",
+      "jp": "　衛宮士郎として、あそこでやり残した[move textoff=0 time=300 path=(0,0,255)(0,0,0) storage=fd12 accel=0]コトは、もう何一つない筈だ。",
+      "Pt-br": "Nenhuma pendência. [move textoff=0 time=300 path=(0,0,255)(0,0,0) storage=fd12 accel=0]Não para Emiya Shirou.",
+      "id": 28594,
+      "epk_id": "20795",
+      "label": "$$$message_0166_0000_0001$$$"
+    },
+    {
+      "en": "\"...I can afford to take a detour or two after all this time, right?\"[lr]",
+      "jp": "「……ま、今さら寄り道の一つや二つ、変わらないか」[lr]",
+      "Pt-br": "\"...Posso me dar o luxo de fazer um desvio ou dois depois de tanto tempo, certo?\"[lr]",
+      "id": 28595,
+      "epk_id": "20796",
+      "label": "$$$message_0166_0001_0000$$$"
+    },
+    {
+      "en": "It'll only waste a little bit of time.[lr]",
+      "jp": "　少しだけ時間を無駄に。[lr]",
+      "Pt-br": "Isso só vai me tomar um pouco de tempo.[lr]",
+      "id": 28596,
+      "epk_id": "20797",
+      "label": "$$$message_0166_0001_0001$$$"
+    },
+    {
+      "en": "All these events piling up are starting to take a toll on my mind and body.[lr]",
+      "jp": "　色々なコトが立て続けに降り積もってきたんで、心身共に疲れている。[lr]",
+      "Pt-br": "Tanta coisa acumulada já começa a cobrar o preço do meu corpo e da minha cabeça.[lr]",
+      "id": 28597,
+      "epk_id": "20798",
+      "label": "$$$message_0166_0001_0002$$$"
+    },
+    {
+      "en": "It isn't the most productive kind of motivation, but maybe I'll have her share some of her energy with me again.",
+      "jp": "　後ろ向きなやる気だが、またあの女に活力を分けて貰おう。",
+      "Pt-br": "Não é o tipo mais produtivo de motivação, mas talvez eu consiga fazer com que ela divida um pouco de sua energia comigo de novo.",
+      "id": 28598,
+      "epk_id": "20799",
+      "label": "$$$message_0166_0001_0003$$$"
+    },
+    {
+      "en": "\"...Huh?\"[lr]",
+      "jp": "「[line len=6]え？」[lr]",
+      "Pt-br": "\"...Hmm?\"[lr]",
+      "id": 28599,
+      "epk_id": "20800",
+      "label": "$$$message_0166_0002_0000$$$"
+    },
+    {
+      "en": "The hymn abruptly stops.[lr]",
+      "jp": "　演奏がピタリと止まる。[lr]",
+      "Pt-br": "O hino para abruptamente.[lr]",
+      "id": 28600,
+      "epk_id": "20801",
+      "label": "$$$message_0166_0002_0001$$$"
+    },
+    {
+      "en": "Caren stares at me, like she's seen a ghost.",
+      "jp": "　カレンは幽霊でも見たかのように、ぼけっと俺を見つめている。",
+      "Pt-br": "Caren me encara, como se tivesse visto um fantasma.",
+      "id": 28601,
+      "epk_id": "20802",
+      "label": "$$$message_0166_0002_0002$$$"
+    },
+    {
+      "en": "\"...What'd you stop for? You've never done that before.\"[lr]",
+      "jp": "「……なんで中断するかな。今まで[ruby text=や]止めたコトなんて一度もなかったのに」[lr]",
+      "Pt-br": "\"...Por que parou? Você nunca fez isso antes.\"[lr]",
+      "id": 28602,
+      "epk_id": "20803",
+      "label": "$$$message_0166_0003_0000$$$"
+    },
+    {
+      "en": "[se volume=50 storage=se040.wav][shock vmax=20 time=800 count=2]I return her stare with a glance and take my usual place on the pew.[lr]",
+      "jp": "　[se volume=50 storage=se040.wav][shock vmax=20 time=800 count=2]ジロリと睨み返しながら定位置に陣取る。[lr]",
+      "Pt-br": "[se volume=50 storage=se040.wav][shock vmax=20 time=800 count=2]Devolvo o olhar e tomo meu lugar de sempre no banco.[lr]",
+      "id": 28603,
+      "epk_id": "20804",
+      "label": "$$$message_0166_0003_0001$$$"
+    },
+    {
+      "en": "I've grown fond of the long bench after all this time.",
+      "jp": "　ここまでくると、この長椅子もお気に入りなのだった。",
+      "Pt-br": "Depois de tanto tempo, acabei me afeiçoando ao banco comprido.",
+      "id": 28604,
+      "epk_id": "20805",
+      "label": "$$$message_0166_0003_0002$$$"
+    },
+    {
+      "en": "\"Hey, what about the rest? Don't mind me, just keep playing like you always do. I'll wait till you're done.\"[lr]",
+      "jp": "「おーい。続きどうしたー。いつもみたいにかまわず[ruby text=や]演ってくれー。終わるまで待ってるから」[lr]",
+      "Pt-br": "\"Ei, e o resto? Não ligue para mim, continue tocando como sempre. Eu espero até você terminar.\"[lr]",
+      "id": 28605,
+      "epk_id": "20806",
+      "label": "$$$message_0166_0004_0000$$$"
+    },
+    {
+      "en": "I jeer.",
+      "jp": "　やじを飛ばす。",
+      "Pt-br": "Eu zombo.",
+      "id": 28606,
+      "epk_id": "20807",
+      "label": "$$$message_0166_0004_0001$$$"
+    },
+    {
+      "en": "\"W-well.[lr]",
+      "jp": "「い、いえ。[lr]",
+      "Pt-br": "\"Bem...[lr]",
+      "id": 28607,
+      "epk_id": "20808",
+      "label": "$$$message_0166_0005_0000$$$"
+    },
+    {
+      "en": "If you want to talk, I'll be right there.\"[lr]",
+      "jp": "　話があるのでしたら、すぐそちらに伺います」[lr]",
+      "Pt-br": "Se quiser conversar, estarei logo ali.\"[lr]",
+      "id": 28608,
+      "epk_id": "20809",
+      "label": "$$$message_0166_0005_0001$$$"
+    },
+    {
+      "en": "...That's unusual. Does this cold-blooded girl actually possess the ability to be considerate?[lr]",
+      "jp": "　……珍しい。あの無愛想女にも、気を遣うという機能があったのか。[lr]",
+      "Pt-br": "...Isso é incomum. Será que essa garota fria e insensível também é capaz de ter consideração?[lr]",
+      "id": 28609,
+      "epk_id": "20810",
+      "label": "$$$message_0166_0005_0002$$$"
+    },
+    {
+      "en": "I wish she could've shown that once or twice before now.[lr]",
+      "jp": "　が、それは一度目か二度目に発揮してほしかった。[lr]",
+      "Pt-br": "Quem dera ela tivesse mostrado isso uma ou duas vezes antes.[lr]",
+      "id": 28610,
+      "epk_id": "20811",
+      "label": "$$$message_0166_0005_0003$$$"
+    },
+    {
+      "en": "Right now, it just makes me uncomfortable.[lr]",
+      "jp": "　今は逆に気を遣われると困る。[lr]",
+      "Pt-br": "Agora, isso só me incomoda.[lr]",
+      "id": 28611,
+      "epk_id": "20812",
+      "label": "$$$message_0166_0005_0004$$$"
+    },
+    {
+      "en": "I'd better teach her how to read the room the next time I get a chance.",
+      "jp": "　いつか機会があったら[ruby text=エアリード char=4]空気読み機能もつけてやれ、俺。",
+      "Pt-br": "É melhor ensiná-la a ler o ambiente na próxima oportunidade.",
+      "id": 28612,
+      "epk_id": "20813",
+      "label": "$$$message_0166_0005_0005$$$"
+    },
+    {
+      "en": "\"No thanks. I'm tired, so I need to get frustrated. You don't have to worry about me, just keep going.\"[lr]",
+      "jp": "「いい。エネルギー不足なんでムカムカしたいんだ。気にせず日課を続けてくれ」[lr]",
+      "Pt-br": "\"Dispenso. Estou cansado, então preciso me irritar. Você não precisa se preocupar comigo, só continue.\"[lr]",
+      "id": 28613,
+      "epk_id": "20814",
+      "label": "$$$message_0166_0006_0000$$$"
+    },
+    {
+      "en": "\"...I will, then. But what is this about?\"[lr]",
+      "jp": "「…………演奏は続けますが。それはどういう意味でしょうか？」[lr]",
+      "Pt-br": "\"...Vou continuar, então. Mas por quê?\"[lr]",
+      "id": 28614,
+      "epk_id": "20815",
+      "label": "$$$message_0166_0006_0001$$$"
+    },
+    {
+      "en": "Oh? She didn't like the way I put that, did she?",
+      "jp": "　ありゃ。ムカムカしたい、という表現ではお気に召さない様子。",
+      "Pt-br": "Ah? Ela não gostou da forma como eu disse isso, foi?",
+      "id": 28615,
+      "epk_id": "20816",
+      "label": "$$$message_0166_0006_0002$$$"
+    },
+    {
+      "en": "\"It'll wake me up.[lr]",
+      "jp": "「元気が出るってコトなんだが。[lr]",
+      "Pt-br": "\"Vai me acordar.[lr]",
+      "id": 28616,
+      "epk_id": "20817",
+      "label": "$$$message_0166_0007_0000$$$"
+    },
+    {
+      "en": "Your organ-playing's just the recharge I need. It gives me a ripping headache.\"[lr]",
+      "jp": "　アンタのオルガンはちょうどいい充電になる。聴いてると頭がビリビリするからな」[lr]",
+      "Pt-br": "Essa sua música de órgão é exatamente a recarga de que preciso. Ela me dá uma dor de cabeça infernal.\"[lr]",
+      "id": 28617,
+      "epk_id": "20818",
+      "label": "$$$message_0166_0007_0001$$$"
+    },
+    {
+      "en": "Caren turns back to the organ, looking disgruntled.[lr]",
+      "jp": "　不満そうにオルガンに向き直るカレン。[lr]",
+      "Pt-br": "Caren volta para o órgão, olhando descontente.[lr]",
+      "id": 28618,
+      "epk_id": "20819",
+      "label": "$$$message_0166_0007_0002$$$"
+    },
+    {
+      "en": "It sounds like she doesn't understand the connection between my temper and my headache.",
+      "jp": "　ムカムカとビリビリの関係は分かってもらえなかったらしい。",
+      "Pt-br": "Parece que ela não entende a ligação entre meu temperamento e minha dor de cabeça.",
+      "id": 28619,
+      "epk_id": "20820",
+      "label": "$$$message_0166_0007_0003$$$"
+    },
+    {
+      "en": "Anyway, she starts playing again.[lr]",
+      "jp": "　ともあれ演奏は再開された。[lr]",
+      "Pt-br": "De qualquer forma, ela começa a tocar de novo.[lr]",
+      "id": 28620,
+      "epk_id": "20821",
+      "label": "$$$message_0166_0008_0000$$$"
+    },
+    {
+      "en": "The nonexistent organ roars back to life.[wt canskip=0][current withback=false][lr]",
+      "jp": "　存在しないオルガンに、再び命が吹き込まれる。[wt canskip=0][current withback=false][lr]",
+      "Pt-br": "O órgão inexistente torna a rugir.[wt canskip=0][current withback=false][lr]",
+      "id": 28621,
+      "epk_id": "20822",
+      "label": "$$$message_0166_0008_0001$$$"
+    },
+    {
+      "en": "Her thin, scarred fingers touch the keys.[lr]",
+      "jp": "　鍵盤に触れる傷だらけの細い指先。[lr]",
+      "Pt-br": "Seus dedos finos e marcados tocam as teclas.[lr]",
+      "id": 28622,
+      "epk_id": "20823",
+      "label": "$$$message_0166_0008_0002$$$"
+    },
+    {
+      "en": "I listen to the ear-grating hymn fill the chapel for the fourth time.",
+      "jp": "　四度、耳障りな調べが礼拝堂に響き渡る[line len=3]",
+      "Pt-br": "Ouço o hino estridente encher a capela pela quarta vez.",
+      "id": 28623,
+      "epk_id": "20824",
+      "label": "$$$message_0166_0008_0003$$$"
+    },
+    {
+      "en": "Then, I realize something's different from before.[lr]",
+      "jp": "　ふと、今までのものと違う気がした。[lr]",
+      "Pt-br": "Então percebo que há algo diferente em relação a antes.[lr]",
+      "id": 28624,
+      "epk_id": "20825",
+      "label": "$$$message_0166_0009_0000$$$"
+    },
+    {
+      "en": "Is there more...passion in the performance?[lr]",
+      "jp": "　演奏者の指に熱が籠もっているのか。[lr]",
+      "Pt-br": "Há mais...paixão na performance?[lr]",
+      "id": 28625,
+      "epk_id": "20826",
+      "label": "$$$message_0166_0009_0001$$$"
+    },
+    {
+      "en": "The sound waves were just vaguely irritating before, but now they blatantly assault my auditory nerves.[lr]",
+      "jp": "　漠然と苛つくだけだった音の波は、明確に神経に訴えかける。[lr]",
+      "Pt-br": "Antes, as ondas sonoras eram só vagamente irritantes; agora atacam meus nervos auditivos sem disfarce.[lr]",
+      "id": 28626,
+      "epk_id": "20827",
+      "label": "$$$message_0166_0009_0002$$$"
+    },
+    {
+      "en": "Like nails on a chalkboard.[lr]",
+      "jp": "　キチリ、と。[lr]",
+      "Pt-br": "Como unhas num quadro-negro.[lr]",
+      "id": 28627,
+      "epk_id": "20828",
+      "label": "$$$message_0166_0009_0003$$$"
+    },
+    {
+      "en": "Deep irritation turns into anger, and before long, my ostentatious intellect begins to melt.[wm canskip=0]",
+      "jp": "　たしかな歯応えをもって苛つきは怒りになり、やがて、飾り立てた理性を溶かしていく。[wm canskip=0]",
+      "Pt-br": "A irritação se adensa em raiva e, em pouco tempo, meu intelecto pretensioso começa a derreter.[wm canskip=0]",
+      "id": 28628,
+      "epk_id": "20829",
+      "label": "$$$message_0166_0009_0004$$$"
+    },
+    {
+      "en": "                                [font italic=true]\"...Don't you find anything beautiful?\"[font italic=false]",
+      "jp": "　 　　『[line len=3]美しいと思うコトがないの？』",
+      "Pt-br": "                                [font italic=true]\"...Você não acha nada bonito?\"[font italic=false]",
+      "id": 28629,
+      "epk_id": "20830",
+      "label": "$$$message_0166_0010_0000$$$"
+    },
+    {
+      "en": "She said something like that to me, once.[lr]",
+      "jp": "　あの女は、そんなようなコトを言っていた。[lr]",
+      "Pt-br": "Ela já me disse algo assim uma vez.[lr]",
+      "id": 28630,
+      "epk_id": "20831",
+      "label": "$$$message_0166_0011_0000$$$"
+    },
+    {
+      "en": "If I ever had such feelings, they're long gone.[lr]",
+      "jp": "　そんな気持ちはとっくに何処かに飛んでいった。[lr]",
+      "Pt-br": "Se um dia tivesse tais sentimentos, eles já se foram.[lr]",
+      "id": 28631,
+      "epk_id": "20832",
+      "label": "$$$message_0166_0011_0001$$$"
+    },
+    {
+      "en": "I'm at ease now.[lr]",
+      "jp": "　今は気楽だ。[lr]",
+      "Pt-br": "Estou à vontade agora.[lr]",
+      "id": 28632,
+      "epk_id": "20833",
+      "label": "$$$message_0166_0011_0002$$$"
+    },
+    {
+      "en": "I just exist as I am, watching the world as it is.[lr]",
+      "jp": "　ただあるがままに、あるがままを見ていればいい。[lr]",
+      "Pt-br": "Existo apenas como sou, observando o mundo como ele é.[lr]",
+      "id": 28633,
+      "epk_id": "20834",
+      "label": "$$$message_0166_0011_0003$$$"
+    },
+    {
+      "en": "Personal sentiment is just too heavy, y'know?[lr]",
+      "jp": "　個人的な感傷は、持っていると色々と重苦しい。[lr]",
+      "Pt-br": "Sentimento pessoal pesa demais, sabe?[lr]",
+      "id": 28634,
+      "epk_id": "20835",
+      "label": "$$$message_0166_0011_0004$$$"
+    },
+    {
+      "en": "And yet, why...?[wm canskip=0]",
+      "jp": "　……なのに、どうして[wm canskip=0]",
+      "Pt-br": "E ainda assim, por que...?[wm canskip=0]",
+      "id": 28635,
+      "epk_id": "20836",
+      "label": "$$$message_0166_0011_0005$$$"
+    },
+    {
+      "en": "                                   [wait canskip=0 time=1000]...Don't fuck with me.",
+      "jp": "　　　　　　[wait canskip=0 time=1000][line len=3]ふざけるな。",
+      "Pt-br": "                                   [wait canskip=0 time=1000]...Não brinca comigo.",
+      "id": 28636,
+      "epk_id": "20837",
+      "label": "$$$message_0166_0012_0000$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「[line len=6]」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 28637,
+      "epk_id": "20838",
+      "label": "$$$message_0166_0013_0000$$$"
+    },
+    {
+      "en": "I catch a glimpse of an unfamiliar scene.[lr]",
+      "jp": "　見知らぬ風景を垣間見る。[lr]",
+      "Pt-br": "Vislumbro uma cena desconhecida.[lr]",
+      "id": 28638,
+      "epk_id": "20839",
+      "label": "$$$message_0166_0013_0001$$$"
+    },
+    {
+      "en": "I don't understand what it means.[lr]",
+      "jp": "　俺には意味が分からない。[lr]",
+      "Pt-br": "Não entendo o que significa.[lr]",
+      "id": 28639,
+      "epk_id": "20840",
+      "label": "$$$message_0166_0013_0002$$$"
+    },
+    {
+      "en": "A barren wasteland. The air is thin, and the ground is far below.[lr]",
+      "jp": "　荒れ果てただけの荒野。空気は薄く、地上とはほど遠い頂。[lr]",
+      "Pt-br": "Uma planície árida. O ar é rarefeito e o chão está muito abaixo.[lr]",
+      "id": 28640,
+      "epk_id": "20841",
+      "label": "$$$message_0166_0013_0003$$$"
+    },
+    {
+      "en": "Why...why am I remembering this now?",
+      "jp": "　それを[line len=3]どうして今、こうやって思い返す。",
+      "Pt-br": "Por que... por que estou lembrando disso agora?",
+      "id": 28641,
+      "epk_id": "20842",
+      "label": "$$$message_0166_0013_0004$$$"
+    },
+    {
+      "en": "These invasive thoughts I can't get rid of.[lr]",
+      "jp": "　切り捨てても離れぬ妄念。[lr]",
+      "Pt-br": "Pensamentos invasivos dos quais não consigo me livrar.[lr]",
+      "id": 28642,
+      "epk_id": "20843",
+      "label": "$$$message_0166_0014_0000$$$"
+    },
+    {
+      "en": "I'm haunted by more than just loathing.[lr]",
+      "jp": "　焼き付いたものは憎悪だけでなく。[lr]",
+      "Pt-br": "Sou assombrado por algo além do ódio.[lr]",
+      "id": 28643,
+      "epk_id": "20844",
+      "label": "$$$message_0166_0014_0001$$$"
+    },
+    {
+      "en": "This very scene is seared into my eyes.",
+      "jp": "　この景色も、眼球に焼き付いている。",
+      "Pt-br": "Essa cena está gravada nos meus olhos.",
+      "id": 28644,
+      "epk_id": "20845",
+      "label": "$$$message_0166_0014_0002$$$"
+    },
+    {
+      "en": "...Gimme a break.[lr]",
+      "jp": "　……ふざけるな。[lr]",
+      "Pt-br": "...Me poupe.[lr]",
+      "id": 28645,
+      "epk_id": "20846",
+      "label": "$$$message_0166_0015_0000$$$"
+    },
+    {
+      "en": "Why am I remembering this?[lr]",
+      "jp": "　なんだってこんな風景を思い出す。[lr]",
+      "Pt-br": "Por que estou lembrando disso?[lr]",
+      "id": 28646,
+      "epk_id": "20847",
+      "label": "$$$message_0166_0015_0001$$$"
+    },
+    {
+      "en": "It wasn't there.[lr]",
+      "jp": "　なかっただろう。[lr]",
+      "Pt-br": "Não estava lá.[lr]",
+      "id": 28647,
+      "epk_id": "20848",
+      "label": "$$$message_0166_0015_0002$$$"
+    },
+    {
+      "en": "There was nothing there!",
+      "jp": "　あそこには何もなかっただろう、何も……！",
+      "Pt-br": "Não havia nada lá!",
+      "id": 28648,
+      "epk_id": "20849",
+      "label": "$$$message_0166_0015_0003$$$"
+    },
+    {
+      "en": "I can't let this sway me.[lr]",
+      "jp": "　胸を揺らしてはいけない。[lr]",
+      "Pt-br": "Não posso deixar isso me afetar.[lr]",
+      "id": 28649,
+      "epk_id": "20850",
+      "label": "$$$message_0166_0016_0000$$$"
+    },
+    {
+      "en": "It's way too late to let myself get sentimental now.[lr]",
+      "jp": "　今さら、感傷らしきものを抱こうとする自分を許してはいけない。[lr]",
+      "Pt-br": "Agora é tarde demais para me deixar levar pelo sentimentalismo.[lr]",
+      "id": 28650,
+      "epk_id": "20851",
+      "label": "$$$message_0166_0016_0001$$$"
+    },
+    {
+      "en": "Remembering it won't change the past.[lr]",
+      "jp": "　思い返したところで過去が変わる訳ではない。[lr]",
+      "Pt-br": "Lembrar não mudará o passado.[lr]",
+      "id": 28651,
+      "epk_id": "20852",
+      "label": "$$$message_0166_0016_0002$$$"
+    },
+    {
+      "en": "I can't allow myself to take these mistaken feelings and illusions, and arrange them into something beautiful.[lr]",
+      "jp": "　間違った感傷、間違えた幻想で、美しいものに仕立てあげてはならない。[lr]",
+      "Pt-br": "Não posso me permitir transformar esses sentimentos errados e ilusões em algo belo.[lr]",
+      "id": 28652,
+      "epk_id": "20853",
+      "label": "$$$message_0166_0016_0003$$$"
+    },
+    {
+      "en": "I accept things for what they are.[lr]",
+      "jp": "　オレはありのままを肯定する。[lr]",
+      "Pt-br": "Aceito as coisas como são.[lr]",
+      "id": 28653,
+      "epk_id": "20854",
+      "label": "$$$message_0166_0016_0004$$$"
+    },
+    {
+      "en": "Don't let a sense of nostalgia trick you into thinking that what isn't mine belongs to me.",
+      "jp": "　望郷の念などで、自分のものでなかったものを、自分のものに思ってはいけない。",
+      "Pt-br": "Não deixe a nostalgia te enganar, fazendo você pensar que o que não é meu me pertence.",
+      "id": 28654,
+      "epk_id": "20855",
+      "label": "$$$message_0166_0016_0005$$$"
+    },
+    {
+      "en": "You're proud of the fact that you have nothing.[lr]",
+      "jp": "　何もないのがオマエの誇りだ。[lr]",
+      "Pt-br": "Você se orgulha de não ter nada.[lr]",
+      "id": 28655,
+      "epk_id": "20856",
+      "label": "$$$message_0166_0017_0000$$$"
+    },
+    {
+      "en": "Nothingness gives you meaning.[lr]",
+      "jp": "　無であるコトがオマエの意味だ。[lr]",
+      "Pt-br": "Nada lhe dá significado.[lr]",
+      "id": 28656,
+      "epk_id": "20857",
+      "label": "$$$message_0166_0017_0001$$$"
+    },
+    {
+      "en": "Just because you fabricate something that doesn't exist won't change the fact that you were a pointless sacrifice.[lr]",
+      "jp": "　在りもしないモノを捏造しては、オマエは本当に無意味な生け贄と変わりはなくなる。[lr]",
+      "Pt-br": "Fabricar algo que não existe não muda o fato de que você foi um sacrifício sem sentido.[lr]",
+      "id": 28657,
+      "epk_id": "20858",
+      "label": "$$$message_0166_0017_0002$$$"
+    },
+    {
+      "en": "...Ah.[lr]",
+      "jp": "　……ああ。[lr]",
+      "Pt-br": "...Ah.[lr]",
+      "id": 28658,
+      "epk_id": "20859",
+      "label": "$$$message_0166_0017_0003$$$"
+    },
+    {
+      "en": "Still, I'm pretty sure...",
+      "jp": "　それでも、確かに[line len=3]",
+      "Pt-br": "Ainda assim, tenho quase certeza...",
+      "id": 28659,
+      "epk_id": "20860",
+      "label": "$$$message_0166_0017_0004$$$"
+    },
+    {
+      "en": "   [wait canskip=0 time=1000]I'm pretty sure that there was never anything here...[lr]",
+      "jp": "　[wait canskip=0 time=1000][line len=3]確かに、ここには何も在りはしなかったけど。[lr]",
+      "Pt-br": "[wait canskip=0 time=1000]Acho que nunca houve nada aqui...[lr]",
+      "id": 28660,
+      "epk_id": "20861",
+      "label": "$$$message_0166_0018_0000$$$"
+    },
+    {
+      "en": "But does that really mean I didn't [font italic=true]hope[font italic=false] it meant something?",
+      "jp": "　そこに意味があってほしいと、俺は願っていたのではなかったか[line len=3]",
+      "Pt-br": "Mas isso quer dizer que eu não [font italic=true]esperava[font italic=false] que tivesse algum significado?",
+      "id": 28661,
+      "epk_id": "20862",
+      "label": "$$$message_0166_0018_0001$$$"
+    },
+    {
+      "en": "The hymn is over before I realize it.[lr]",
+      "jp": "　いつの間にか演奏は終わっていた。[lr]",
+      "Pt-br": "O hino termina antes que eu perceba.[lr]",
+      "id": 28662,
+      "epk_id": "20863",
+      "label": "$$$message_0166_0019_0000$$$"
+    },
+    {
+      "en": "I'm afraid it didn't give me the vigor I hoped for.[lr]",
+      "jp": "　活力を得よう、という趣旨からすると期待外れと言わざるを得ない。[lr]",
+      "Pt-br": "Receio que não tenha me dado o vigor que eu esperava.[lr]",
+      "id": 28663,
+      "epk_id": "20864",
+      "label": "$$$message_0166_0019_0001$$$"
+    },
+    {
+      "en": "And, once again, I realize Caren's standing in front of me.[lr]",
+      "jp": "　で。気がつくと、目の前にはカレンが立っている。[lr]",
+      "Pt-br": "E, novamente, percebo Caren diante de mim.[lr]",
+      "id": 28664,
+      "epk_id": "20865",
+      "label": "$$$message_0166_0019_0002$$$"
+    },
+    {
+      "en": "...Mrgh. I know I'm the one who insisted, but maybe she wants something from me, too.",
+      "jp": "　……むむ。なんとなく思い立ったのだが、コイツ、何か欲しいものでもあるんだろーか。",
+      "Pt-br": "...Mrgh. Sei que fui eu quem insistiu, mas talvez ela também queira algo de mim.",
+      "id": 28665,
+      "epk_id": "20866",
+      "label": "$$$message_0166_0019_0003$$$"
+    },
+    {
+      "en": "\"I thought you weren't going to come here again.\"[lr]",
+      "jp": "「貴方がここに来る事は、もうないと思っていました」[lr]",
+      "Pt-br": "\"Pensei que você não vinha mais aqui.\"[lr]",
+      "id": 28666,
+      "epk_id": "20867",
+      "label": "$$$message_0166_0020_0000$$$"
+    },
+    {
+      "en": "\"Same. I wonder why. It was just a sudden whim. I thought it'd make me feel better, but I'm even more tired now.\"",
+      "jp": "「同感。なんでかな、きっと気の迷いだったんだ。元気が出ると思ったのに脱力させられたし」",
+      "Pt-br": "\"Eu também. Me pergunto por quê. Foi só um capricho repentino. Achei que me faria sentir melhor, mas agora estou ainda mais cansado.\"",
+      "id": 28667,
+      "epk_id": "20868",
+      "label": "$$$message_0166_0020_0001$$$"
+    },
+    {
+      "en": "\"...You told me to keep playing. Was it not to your liking?\"",
+      "jp": "「……自分で続けろと言ったのに。私の演奏はお気に召しませんか？」",
+      "Pt-br": "\"...Você me disse para continuar tocando. Não foi do seu agrado?\"",
+      "id": 28668,
+      "epk_id": "20869",
+      "label": "$$$message_0166_0021_0000$$$"
+    },
+    {
+      "en": "\"Mm? Well, I can't complain about your skill.[lr]",
+      "jp": "「ん？　そうだな、技術レベルじゃ文句はないぜ。[lr]",
+      "Pt-br": "\"Hmm? Bem, não posso reclamar do seu talento.[lr]",
+      "id": 28669,
+      "epk_id": "20870",
+      "label": "$$$message_0166_0022_0000$$$"
+    },
+    {
+      "en": "Honestly, I'm impressed you can move as much as you can with all those bandages. Wait. Are you actually some kinda organ virtuoso?\"",
+      "jp": "　その包帯だらけの体でよく体力が続くモンだ。正直感心する……って、待てよ。……アンタ、実はオルガンの演奏すごく上手い？」",
+      "Pt-br": "Francamente, impressiona você conseguir se mexer tanto com todos esses curativos. Espera. Você é algum tipo de virtuose dos órgãos?\"",
+      "id": 28670,
+      "epk_id": "20871",
+      "label": "$$$message_0166_0022_0001$$$"
+    },
+    {
+      "en": "\"I pride myself in not falling behind others. Refining my strong points is a hobby of mine.\"[lr]",
+      "jp": "「人後に落ちぬ自負はあります。自身の取り柄を鍛えるのは、私の趣味です」[lr]",
+      "Pt-br": "\"Tenho orgulho de não ficar atrás de ninguém. Refinar meus pontos fortes é um hobby meu.\"[lr]",
+      "id": 28671,
+      "epk_id": "20872",
+      "label": "$$$message_0166_0023_0000$$$"
+    },
+    {
+      "en": "\"That's unusually confident for you... Oh, so you're a good organ player.\"[lr]",
+      "jp": "「珍しく強気じゃんか。……そうか、アンタ上手かったのか」[lr]",
+      "Pt-br": "\"Isso é confiança demais para você... Ah, então você toca bem órgão.\"[lr]",
+      "id": 28672,
+      "epk_id": "20873",
+      "label": "$$$message_0166_0023_0001$$$"
+    },
+    {
+      "en": "I made a mistake.[lr]",
+      "jp": "　これは失礼なコトをした。[lr]",
+      "Pt-br": "Eu cometi um erro.[lr]",
+      "id": 28673,
+      "epk_id": "20874",
+      "label": "$$$message_0166_0023_0002$$$"
+    },
+    {
+      "en": "I was just listening to it lightheartedly like one would at a school arts festival. I wonder what would happen if I said that out loud.",
+      "jp": "　学芸会のお遊戯みたいな気持ちで鑑賞していた、なんて言ったら何をされるか。",
+      "Pt-br": "Eu estava ouvindo aquilo com leveza, como quem acompanha um festival de artes da escola. Fico imaginando o que aconteceria se dissesse isso em voz alta.",
+      "id": 28674,
+      "epk_id": "20875",
+      "label": "$$$message_0166_0023_0003$$$"
+    },
+    {
+      "en": "\"I'm glad you understand.[lr]",
+      "jp": "「理解していただけて幸いです。[lr]",
+      "Pt-br": "\"Estou feliz que você entenda.[lr]",
+      "id": 28675,
+      "epk_id": "20876",
+      "label": "$$$message_0166_0024_0000$$$"
+    },
+    {
+      "en": "While we're on the topic, I'd like to know what exactly about it you didn't like.\"",
+      "jp": "　ついでに、私の演奏のどこがお気に召さないのかを聞きたいのですが」",
+      "Pt-br": "Já que estamos no assunto, gostaria de saber exatamente do que você não gostou.\"",
+      "id": 28676,
+      "epk_id": "20877",
+      "label": "$$$message_0166_0024_0001$$$"
+    },
+    {
+      "en": "\"What exactly? It made me fall asleep.[lr]",
+      "jp": "「どこって、聞いてると眠くなるところ。[lr]",
+      "Pt-br": "\"O que exatamente? Ela me fez cair no sono.[lr]",
+      "id": 28677,
+      "epk_id": "20878",
+      "label": "$$$message_0166_0025_0000$$$"
+    },
+    {
+      "en": "I'm not asking for stage lighting, but you could at least [font italic=true]try[font italic=false] to make it more exciting.[lr]",
+      "jp": "　電気使えとは言わねえけど、もっとわざとらしいほど盛り上げてくれないと。[lr]",
+      "Pt-br": "Não estou pedindo iluminação de palco, mas você poderia ao menos [font italic=true]tentar[font italic=false] deixar isso mais empolgante.[lr]",
+      "id": 28678,
+      "epk_id": "20879",
+      "label": "$$$message_0166_0025_0001$$$"
+    },
+    {
+      "en": "Also, that totally passive playing style is so boring. I wanna hear some real punk action. Y'know, something you could get so into that you'd end up kicking the keyboard.\"[lr]",
+      "jp": "　あと、なんでもかんでも受け入れるような芸風もつまらない。もう少し反社会的なシャウトを聞かせてほしい。こう、感極まって鍵盤を蹴りつけるぐらいに」[lr]",
+      "Pt-br": "Além disso, esse estilo passivo demais é muito tedioso. Quero ouvir punk de verdade. Sabe, algo que faça você se empolgar tanto a ponto de chutar o teclado.\"[lr]",
+      "id": 28679,
+      "epk_id": "20880",
+      "label": "$$$message_0166_0025_0002$$$"
+    },
+    {
+      "en": "I couldn't ask for a better cacophony.",
+      "jp": "　そこでギャイーンとディストーションきかせてくれたら最高だ。",
+      "Pt-br": "Não poderia pedir cacofonia melhor.",
+      "id": 28680,
+      "epk_id": "20881",
+      "label": "$$$message_0166_0025_0003$$$"
+    },
+    {
+      "en": "\"...That sounds more like the fault of the song, not the player.[lr]",
+      "jp": "「……それは、私ではなく曲が悪いというコトでは？[lr]",
+      "Pt-br": "\"...Isso parece mais culpa da música do que da instrumentista.[lr]",
+      "id": 28681,
+      "epk_id": "20882",
+      "label": "$$$message_0166_0026_0000$$$"
+    },
+    {
+      "en": "Perhaps the listener has poor taste, as well.\"[lr]",
+      "jp": "　くわえて、聴いている人間の感性も悪いかと」[lr]",
+      "Pt-br": "Talvez o ouvinte tenha mau gosto, afinal.\"[lr]",
+      "id": 28682,
+      "epk_id": "20883",
+      "label": "$$$message_0166_0026_0001$$$"
+    },
+    {
+      "en": "\"Gah. So you're saying you got a tough crowd?\"",
+      "jp": "「げ。なに、マナー悪いのかこの観客？」",
+      "Pt-br": "\"Gah. Então está dizendo que eu sou um público difícil?\"",
+      "id": 28683,
+      "epk_id": "20884",
+      "label": "$$$message_0166_0026_0002$$$"
+    },
+    {
+      "en": "\"Unspeakably so. I can hardly find the words to express it.\"",
+      "jp": "「言語に絶するほどに。私の[ruby text=ごい o2o=1]語彙では言い表せるものがありません」",
+      "Pt-br": "\"Indizivelmente. Mal encontro palavras para expressar.\"",
+      "id": 28684,
+      "epk_id": "20885",
+      "label": "$$$message_0166_0027_0000$$$"
+    },
+    {
+      "en": "\"Ngh...\"[lr]",
+      "jp": "「[line len=3]っ」[lr]",
+      "Pt-br": "\"Ngh...\"[lr]",
+      "id": 28685,
+      "epk_id": "20886",
+      "label": "$$$message_0166_0028_0000$$$"
+    },
+    {
+      "en": "I suppress a laugh.[lr]",
+      "jp": "　顔を逸らして笑いを堪える。[lr]",
+      "Pt-br": "Eu sufoco uma risada.[lr]",
+      "id": 28686,
+      "epk_id": "20887",
+      "label": "$$$message_0166_0028_0001$$$"
+    },
+    {
+      "en": "I thought she was hard to read, but it turns out I can get these reactions out of her when I poke at her pride.",
+      "jp": "　分かりづらい女だと思っていたが、そうか、自慢に思っている部分をつつくとこういう反応を見せるのか。",
+      "Pt-br": "Achei que ela fosse difícil de decifrar, mas parece que consigo arrancar essas reações quando cutuco seu orgulho.",
+      "id": 28687,
+      "epk_id": "20888",
+      "label": "$$$message_0166_0028_0002$$$"
+    },
+    {
+      "en": "\"What?\"[lr]",
+      "jp": "「何か」[lr]",
+      "Pt-br": "\"O que?\"[lr]",
+      "id": 28688,
+      "epk_id": "20889",
+      "label": "$$$message_0166_0029_0000$$$"
+    },
+    {
+      "en": "\"Oh, just holding in my feelings.[lr]",
+      "jp": "「いや、こみあげてきたモノを我慢しただけ。[lr]",
+      "Pt-br": "\"Ah, estou só engolindo meus sentimentos.[lr]",
+      "id": 28689,
+      "epk_id": "20890",
+      "label": "$$$message_0166_0029_0001$$$"
+    },
+    {
+      "en": "I bet you were a pretty unruly child. Your music teacher must've had a hell of a time teaching you.\"",
+      "jp": "　アンタわりときかん坊だよな。音楽の先生も[ruby text=しつ]躾けるのにさぞ苦労したろう」",
+      "Pt-br": "Aposto que você devia ser uma criança bem indisciplinada. Sua Sensei de música deve ter penado para ensinar você.\"",
+      "id": 28690,
+      "epk_id": "20891",
+      "label": "$$$message_0166_0029_0002$$$"
+    },
+    {
+      "en": "\"...Please don't judge me by your standards.[lr]",
+      "jp": "「……貴方の基準で私を決めつけないでください。[lr]",
+      "Pt-br": "\"...Por favor, não me julgue pelos seus padrões.[lr]",
+      "id": 28691,
+      "epk_id": "20892",
+      "label": "$$$message_0166_0030_0000$$$"
+    },
+    {
+      "en": "Besides, I already told you how I was raised.[lr]",
+      "jp": "　それと、貴方には私の生い立ちを語った筈です。[lr]",
+      "Pt-br": "Além disso, já lhe disse como fui criado.[lr]",
+      "id": 28692,
+      "epk_id": "20893",
+      "label": "$$$message_0166_0030_0001$$$"
+    },
+    {
+      "en": "Wouldn't you assume that I taught myself during my isolation?\"",
+      "jp": "　私は孤立しているのですから、音楽は独学だと思わないのですか？」",
+      "Pt-br": "Você não presumiria que aprendi sozinha durante meu isolamento?\"",
+      "id": 28693,
+      "epk_id": "20894",
+      "label": "$$$message_0166_0030_0002$$$"
+    },
+    {
+      "en": "\"Hm? I bet you at least had a teacher.[lr]",
+      "jp": "「ん？　いるだろ、音楽の先生ぐらい。[lr]",
+      "Pt-br": "\"Hmm? Acho que você tinha pelo menos um Sensei.[lr]",
+      "id": 28694,
+      "epk_id": "20895",
+      "label": "$$$message_0166_0031_0000$$$"
+    },
+    {
+      "en": "Your sound follows a discipline. It carries the convictions of countless musicians, passed down through generations.[lr]",
+      "jp": "　アンタの音には正しい規律がある。何人もの手を渡って受け継がれてきた、演奏者の意志みたいなものだ。[lr]",
+      "Pt-br": "Seu som segue uma disciplina. Carrega as convicções de inúmeros músicos, transmitidas por gerações.[lr]",
+      "id": 28695,
+      "epk_id": "20896",
+      "label": "$$$message_0166_0031_0001$$$"
+    },
+    {
+      "en": "You're not playing that organ just for yourself, right?[lr]",
+      "jp": "　アンタのオルガンは自分の為の物じゃないだろう？[lr]",
+      "Pt-br": "Você não está tocando esse órgão só para si mesmo, está?[lr]",
+      "id": 28696,
+      "epk_id": "20897",
+      "label": "$$$message_0166_0031_0002$$$"
+    },
+    {
+      "en": "It's supposed to be a universal sort of music that brings people together.\"",
+      "jp": "　アンタの演奏は、多くの人間の為に編み込まれた、“普遍的”な音楽だ」",
+      "Pt-br": "Era para ser um tipo de música universal, capaz de unir as pessoas.\"",
+      "id": 28697,
+      "epk_id": "20898",
+      "label": "$$$message_0166_0031_0003$$$"
+    },
+    {
+      "en": "You can only learn [font italic=true]skills[font italic=false] on your own.[lr]",
+      "jp": "　独学で磨けるのは技術だけだ。[lr]",
+      "Pt-br": "Só se aprende [font italic=true]técnica[font italic=false] por conta própria.[lr]",
+      "id": 28698,
+      "epk_id": "20899",
+      "label": "$$$message_0166_0032_0000$$$"
+    },
+    {
+      "en": "A prodigy can't suddenly create ideals that transcend the ages.[lr]",
+      "jp": "　時代を超える理念は天才では築けない。[lr]",
+      "Pt-br": "Uma prodígio não cria, do nada, ideais capazes de atravessar eras.[lr]",
+      "id": 28699,
+      "epk_id": "20900",
+      "label": "$$$message_0166_0032_0001$$$"
+    },
+    {
+      "en": "If one compares a genius talent to a flower blooming on a large tree,[lr]",
+      "jp": "　才能によって輝く者が大木に咲く花だとするのなら。[lr]",
+      "Pt-br": "Se compararmos um talento genial a uma flor desabrochando numa grande árvore,[lr]",
+      "id": 28700,
+      "epk_id": "20901",
+      "label": "$$$message_0166_0032_0002$$$"
+    },
+    {
+      "en": "then those who shine through their lineage are the trunk and branches that nurture the tree.",
+      "jp": "　系譜によって輝く者たちは、幹となって大木を育てていく。",
+      "Pt-br": "então aqueles que brilham por sua linhagem são o tronco e os galhos que nutrem a árvore.",
+      "id": 28701,
+      "epk_id": "20902",
+      "label": "$$$message_0166_0032_0003$$$"
+    },
+    {
+      "en": "\"Even before that, having someone teach you is the fastest way to get better at something. I just assumed you took the rational approach over bending to social expectations.[lr]",
+      "jp": "「ま、そんな小難しい話以前に、上達したいなら人に教えてもらうのが一番てっとり早い。世間体より合理性の方を優先したんだろうさ。[lr]",
+      "Pt-br": "\"Antes de qualquer coisa, ter alguém para ensinar é o caminho mais rápido para melhorar. Só imaginei que você tivesse escolhido a abordagem racional, em vez de se dobrar às expectativas sociais.[lr]",
+      "id": 28702,
+      "epk_id": "20903",
+      "label": "$$$message_0166_0033_0000$$$"
+    },
+    {
+      "en": "That's why I said you were a difficult child.[lr]",
+      "jp": "　きかん坊ってのはそういうコト。[lr]",
+      "Pt-br": "É por isso que eu disse que você era uma criança difícil.[lr]",
+      "id": 28703,
+      "epk_id": "20904",
+      "label": "$$$message_0166_0033_0001$$$"
+    },
+    {
+      "en": "I think you're the kind of person who will do everything you can to get something you really like.\"",
+      "jp": "　アンタは、本当に好きな物の為なら最善を尽くすタイプだと思うんだが」",
+      "Pt-br": "Acho que você é do tipo que faz tudo o que pode para conseguir aquilo de que gosta de verdade.\"",
+      "id": 28704,
+      "epk_id": "20905",
+      "label": "$$$message_0166_0033_0002$$$"
+    },
+    {
+      "en": "\"...I disagree with your assessment.[lr]",
+      "jp": "「…………貴方の推測には頷けませんが。[lr]",
+      "Pt-br": "\"...Não concordo com sua avaliação.[lr]",
+      "id": 28705,
+      "epk_id": "20906",
+      "label": "$$$message_0166_0034_0000$$$"
+    },
+    {
+      "en": "I was provided with the time and instruction to learn music, as a special exception. Is there a problem with that?\"",
+      "jp": "　音楽を学ぶ為に、特例として時間と指導者を用意していただきました。何かと問題はありましたが」",
+      "Pt-br": "Recebi tempo e instrução para aprender música, como uma exceção especial. Há algum problema nisso?\"",
+      "id": 28706,
+      "epk_id": "20907",
+      "label": "$$$message_0166_0034_0001$$$"
+    },
+    {
+      "en": "\"See? The way you don't get discouraged when someone's upset at you, the way it doesn't hurt you, means that at your core, there's something that other people can't move.[lr]",
+      "jp": "「ほら。怒られてもめげないって言うか、あんまりダメージいかないって言うか。アンタは根っこの所に、他人じゃ動かせないものがあるんだよ。[lr]",
+      "Pt-br": "\"Viu? O modo como você não desanima quando alguém se irrita com você, o modo como isso não a fere, significa que existe algo no seu centro que as outras pessoas não conseguem mover.[lr]",
+      "id": 28707,
+      "epk_id": "20908",
+      "label": "$$$message_0166_0035_0000$$$"
+    },
+    {
+      "en": "Don't tell me that isn't true.[lr]",
+      "jp": "　自分がないなんてよく言ったもんだ。[lr]",
+      "Pt-br": "Não me diga que não é verdade.[lr]",
+      "id": 28708,
+      "epk_id": "20909",
+      "label": "$$$message_0166_0035_0001$$$"
+    },
+    {
+      "en": "[shock vmax=20 time=400 count=-2]Honestly, you priests and nuns are all so shameless.\"[cacheimage storage=ã«ã¬ã³ä¿®éæç¡å¸½04e(ä¸­)][wvs][chgfg textoff=0 pos=c time=300 storage=ã«ã¬ã³ä¿®éæç¡å¸½04e(ä¸­)]",
+      "jp": "　[shock vmax=20 time=400 count=-2]ほんと。教会の神父ってのは、どいつもこいつも厚顔に出来ているんだな」[cacheimage storage=カレン修道服無帽04e(中)][wvs][chgfg textoff=0 pos=c time=300 storage=カレン修道服無帽04e(中)]",
+      "Pt-br": "[shock vmax=20 time=400 count=-2]Francamente, vocês, padres e freiras, são todos sem-vergonha.\"[cacheimage storage=カレン修道服無帽04e(中)][wvs][chgfg textoff=0 pos=c time=300 storage=カレン修道服無帽04e(中)]",
+      "id": 28709,
+      "epk_id": "20910",
+      "label": "$$$message_0166_0035_0002$$$"
+    },
+    {
+      "en": "I snicker.[lr]",
+      "jp": "　ケラケラと笑う。[lr]",
+      "Pt-br": "Dou uma risadinha.[lr]",
+      "id": 28710,
+      "epk_id": "20911",
+      "label": "$$$message_0166_0036_0000$$$"
+    },
+    {
+      "en": "...Huh. I wonder what's got me in such a good mood all of a sudden.[lr]",
+      "jp": "　……はて？　オレは何が嬉しくて、こんな気分になっているんだろう？[lr]",
+      "Pt-br": "...Hm. O que será que me deixou de tão bom humor de repente?[lr]",
+      "id": 28711,
+      "epk_id": "20912",
+      "label": "$$$message_0166_0036_0001$$$"
+    },
+    {
+      "en": "I'm not sure if I'm enjoying this or just being uppity with her, but I'm on some kinda emotional high.",
+      "jp": "　愉快なんだか開き直っているんだか不明だが、なんにせよハイになりつつある。",
+      "Pt-br": "Não sei se estou curtindo isso ou apenas me mostrando insolente com ela, mas estou tomado por uma espécie de euforia.",
+      "id": 28712,
+      "epk_id": "20913",
+      "label": "$$$message_0166_0036_0002$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「………………」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 28713,
+      "epk_id": "20914",
+      "label": "$$$message_0166_0037_0000$$$"
+    },
+    {
+      "en": "On the other hand, Caren's gone stiff.[lr]",
+      "jp": "　一方、女は固まったまま動かない。[lr]",
+      "Pt-br": "Por outro lado, Caren ficou rígida.[lr]",
+      "id": 28714,
+      "epk_id": "20915",
+      "label": "$$$message_0166_0037_0001$$$"
+    },
+    {
+      "en": "Looks like I struck a nerve.",
+      "jp": "　こちら同様、何かツボにはまった様子。",
+      "Pt-br": "Parece que acertei um ponto fraco.",
+      "id": 28715,
+      "epk_id": "20916",
+      "label": "$$$message_0166_0037_0002$$$"
+    },
+    {
+      "en": "\"Do I...really seem that shameless to you?\"[lr]",
+      "jp": "「……あの。そんなに厚顔でしょうか、私」[lr]",
+      "Pt-br": "\"Pareço mesmo tão sem escrúpulos assim para você?\"[lr]",
+      "id": 28716,
+      "epk_id": "20917",
+      "label": "$$$message_0166_0038_0000$$$"
+    },
+    {
+      "en": "\"Yeah. You'd give the guy you replaced a run for his money.\"[lr]",
+      "jp": "「ああ。ここの前任者といい勝負」[lr]",
+      "Pt-br": "\"É. Você faria bonito até diante do sujeito que substituiu.\"[lr]",
+      "id": 28717,
+      "epk_id": "20918",
+      "label": "$$$message_0166_0038_0001$$$"
+    },
+    {
+      "en": "\"...\"",
+      "jp": "「[line len=6]」",
+      "Pt-br": "\"...\"",
+      "id": 28718,
+      "epk_id": "20919",
+      "label": "$$$message_0166_0038_0002$$$"
+    },
+    {
+      "en": "She seems distant, as if searching for the right words.[lr]",
+      "jp": "　言葉を探しているのか、女はどこかよそよそしい。[lr]",
+      "Pt-br": "Ela parece distante, como se estivesse procurando as palavras certas.[lr]",
+      "id": 28719,
+      "epk_id": "20920",
+      "label": "$$$message_0166_0039_0000$$$"
+    },
+    {
+      "en": "It's an innocent side of her I haven't seen much of.[lr]",
+      "jp": "　その、コイツにしては珍しい初々しさを観察する。[lr]",
+      "Pt-br": "É um lado inocente dela que quase nunca vi.[lr]",
+      "id": 28720,
+      "epk_id": "20921",
+      "label": "$$$message_0166_0039_0001$$$"
+    },
+    {
+      "en": "Maybe my rational mind is slightly giving way to my excitement.[lr]",
+      "jp": "　気持ちが高揚して、理性が少し緩んでいるからか。[lr]",
+      "Pt-br": "Talvez minha mente racional esteja ligeiramente cedendo à minha excitação.[lr]",
+      "id": 28721,
+      "epk_id": "20922",
+      "label": "$$$message_0166_0039_0002$$$"
+    },
+    {
+      "en": "All at once, desires I've pretended not to notice [wt canskip=0][fg nowait=1 textoff=0 left=0 index=2000 top=130 time=300 storage=ãªã«ã¬ã³04]send my heart pounding.[wt canskip=0][current withback=false]",
+      "jp": "　今まで見ないフリをしていた欲求が[wt canskip=0][fg nowait=1 textoff=0 left=0 index=2000 top=130 time=300 storage=オルガン04]こぞって、ドクドクと脈打ち始める。[wt canskip=0][current withback=false]",
+      "Pt-br": "De repente, desejos que fingi não perceber [wt canskip=0][fg nowait=1 textoff=0 left=0 index=2000 top=130 time=300 storage=オルガン04]fazem meu coração disparar.[wt canskip=0][current withback=false]",
+      "id": 28722,
+      "epk_id": "20923",
+      "label": "$$$message_0166_0039_0003$$$"
+    },
+    {
+      "en": "\"Nngh...!\"[lr]",
+      "jp": "「っ……！」[lr]",
+      "Pt-br": "\"Nngh...!\"[lr]",
+      "id": 28723,
+      "epk_id": "20924",
+      "label": "$$$message_0166_0040_0000$$$"
+    },
+    {
+      "en": "There's a faint sound, like a plastic bag tearing.[lr]",
+      "jp": "　ビ、とビニールを裂くような微かな音。[lr]",
+      "Pt-br": "Há um som fraco, como um saco de plástico rasgando.[lr]",
+      "id": 28724,
+      "epk_id": "20925",
+      "label": "$$$message_0166_0040_0001$$$"
+    },
+    {
+      "en": "I smell the odor of blood coming from beneath her robe.[wm canskip=0]",
+      "jp": "　血の匂いが、法衣の下からこぼれてくる。[wm canskip=0]",
+      "Pt-br": "Sinto cheiro de sangue vindo debaixo do hábito dela.[wm canskip=0]",
+      "id": 28725,
+      "epk_id": "20926",
+      "label": "$$$message_0166_0040_0002$$$"
+    },
+    {
+      "en": "\"Huh? You on your period?\"[lr]",
+      "jp": "「？　どうした、生理か？」[lr]",
+      "Pt-br": "\"Hmm? Você está menstruando?\"[lr]",
+      "id": 28726,
+      "epk_id": "20927",
+      "label": "$$$message_0166_0041_0000$$$"
+    },
+    {
+      "en": "\"...My wounds opened. I'm so sorry, um...\"[wm canskip=0]",
+      "jp": "「……………傷が開いただけです。申し訳ありませんが、その、」[wm canskip=0]",
+      "Pt-br": "\"...Minhas feridas abriram. Sinto muito, hm...\"[wm canskip=0]",
+      "id": 28727,
+      "epk_id": "20928",
+      "label": "$$$message_0166_0041_0001$$$"
+    },
+    {
+      "en": "\"Oh yeah, I'll move back one seat. Sorry, that was completely my fault.\"[lr]",
+      "jp": "「そうだな、一つ後ろにズレるわ。わるい、今のは全面的にこっちのミスだ」[lr]",
+      "Pt-br": "\"Ah, certo, vou recuar um banco. Desculpe, foi totalmente culpa minha.\"[lr]",
+      "id": 28728,
+      "epk_id": "20929",
+      "label": "$$$message_0166_0042_0000$$$"
+    },
+    {
+      "en": "I get up and move to a seat further in the back.[lr]",
+      "jp": "　よいしょ、と後ろの席に移動。[lr]",
+      "Pt-br": "Levanto e vou para um banco mais ao fundo.[lr]",
+      "id": 28729,
+      "epk_id": "20930",
+      "label": "$$$message_0166_0042_0001$$$"
+    },
+    {
+      "en": "The smell of blood fades slightly at this distance.",
+      "jp": "　少し距離をとったので、血の匂いも薄れている。",
+      "Pt-br": "A essa distância, o cheiro de sangue se atenua um pouco.",
+      "id": 28730,
+      "epk_id": "20931",
+      "label": "$$$message_0166_0042_0002$$$"
+    },
+    {
+      "en": "\"You've got it tough, huh? Still patrolling the town at night even while with open injuries.[lr]",
+      "jp": "「けどアンタもタイヘンだね。傷が開いたって、まだ夜の街を徘徊してるんだ。[lr]",
+      "Pt-br": "\"Você passa aperto, hein? Continua patrulhando a cidade à noite mesmo com ferimentos abertos.[lr]",
+      "id": 28731,
+      "epk_id": "20932",
+      "label": "$$$message_0166_0043_0000$$$"
+    },
+    {
+      "en": "...Oh, right. You have to come find me on the fourth night.\"",
+      "jp": "　……って、そうか。四日目の夜には、律儀に俺を捜してるんだっけ」",
+      "Pt-br": "...Ah, sim. Você tem que vir me procurar na quarta noite.\"",
+      "id": 28732,
+      "epk_id": "20933",
+      "label": "$$$message_0166_0043_0001$$$"
+    },
+    {
+      "en": "\"...That's correct. Until this reenactment of the Holy Grail War ends, I must be in town on the fourth night.[lr]",
+      "jp": "「……そうです。聖杯戦争の再現が終わるまで、四日目の夜は街にでなくてはいけません。[lr]",
+      "Pt-br": "\"...Isso mesmo. Até que esta reencenação da Guerra do Santo Graal termine, preciso estar na cidade na quarta noite.[lr]",
+      "id": 28733,
+      "epk_id": "20934",
+      "label": "$$$message_0166_0044_0000$$$"
+    },
+    {
+      "en": "That is not the only reason I'm tired, of course.[lr]",
+      "jp": "　もっとも、疲れているのはそれだけではありませんが。[lr]",
+      "Pt-br": "Claro que esse não é o único motivo pelo qual estou cansada.[lr]",
+      "id": 28734,
+      "epk_id": "20935",
+      "label": "$$$message_0166_0044_0001$$$"
+    },
+    {
+      "en": "...Lately, I've begun doing something similar to exorcising demons.\"[lr]",
+      "jp": "　……最近、悪魔祓いの真似事もはじめましたので」[lr]",
+      "Pt-br": "...Recentemente, comecei a fazer algo semelhante a expulsar demônios.\"[lr]",
+      "id": 28735,
+      "epk_id": "20936",
+      "label": "$$$message_0166_0044_0002$$$"
+    },
+    {
+      "en": "\"Huh.\"",
+      "jp": "「へえ」",
+      "Pt-br": "\"Hmm.\"",
+      "id": 28736,
+      "epk_id": "20937",
+      "label": "$$$message_0166_0044_0003$$$"
+    },
+    {
+      "en": "I grunt absentmindedly.[lr]",
+      "jp": "　空返事である。[lr]",
+      "Pt-br": "Grunho distraído.[lr]",
+      "id": 28737,
+      "epk_id": "20938",
+      "label": "$$$message_0166_0045_0000$$$"
+    },
+    {
+      "en": "To be blunt, my hackles aren't coming down anytime soon. Certainly not just because the smell of blood isn't as strong.[wt canskip=0][current withback=false]",
+      "jp": "　ぶっちゃけ、血の匂いが薄れたぐらいじゃ抑えが利かない。[wt canskip=0][current withback=false]",
+      "Pt-br": "Para ser franco, meus instintos não vão se acalmar tão cedo. Certamente não só porque o cheiro de sangue está menos forte.[wt canskip=0][current withback=false]",
+      "id": 28738,
+      "epk_id": "20939",
+      "label": "$$$message_0166_0045_0001$$$"
+    },
+    {
+      "en": "I can see the white bandages she's using to hide her wounds.[lr]",
+      "jp": "　オレの目は、たとえば、傷を隠す包帯の白さに見とれている。[lr]",
+      "Pt-br": "Vejo as bandagens brancas que ela está usando para esconder suas feridas.[lr]",
+      "id": 28739,
+      "epk_id": "20940",
+      "label": "$$$message_0166_0046_0000$$$"
+    },
+    {
+      "en": "If I hold her down, her shoulders and thin arms would be liable to break.[lr]",
+      "jp": "　押さえつければ肩が砕けそうな細腕とか。[lr]",
+      "Pt-br": "Se eu a segurar, seus ombros e braços finos poderiam quebrar.[lr]",
+      "id": 28740,
+      "epk_id": "20941",
+      "label": "$$$message_0166_0046_0001$$$"
+    },
+    {
+      "en": "I bet that bloody, pale stomach would taste like the sweetest skewered fish in season.[wm canskip=0]",
+      "jp": "　血に濡れた白い腹は、きっと鮎の串焼きみたいに今が旬に違いないとか。[wm canskip=0]",
+      "Pt-br": "Aposto que aquela barriga pálida e ensanguentada teria o gosto do peixe no espeto mais doce da estação.[wm canskip=0]",
+      "id": 28741,
+      "epk_id": "20942",
+      "label": "$$$message_0166_0046_0002$$$"
+    },
+    {
+      "en": "\"Umm. How's the exorcism going?\"",
+      "jp": "「ええっと。[ruby text=ほんしょく char=4]悪魔祓いの調子はいいのか？」",
+      "Pt-br": "\"Hmm. Como está o exorcismo?\"",
+      "id": 28742,
+      "epk_id": "20943",
+      "label": "$$$message_0166_0047_0000$$$"
+    },
+    {
+      "en": "\"Not well at all, I'm afraid.[lr]",
+      "jp": "「いいえ、これがまったく。[lr]",
+      "Pt-br": "\"Nada bem, receio.[lr]",
+      "id": 28743,
+      "epk_id": "20944",
+      "label": "$$$message_0166_0048_0000$$$"
+    },
+    {
+      "en": "I've completed many exorcisms to date, but if I'm being honest, it's the first time I've encountered a case like this.\"",
+      "jp": "　今まで多くの悪魔祓いをこなしてきたけど。弱音を言ってしまえば、今回のようなケースは初めてです」",
+      "Pt-br": "Já realizei muitos exorcismos até hoje, mas, para ser sincera, é a primeira vez que encontro um caso assim.\"",
+      "id": 28744,
+      "epk_id": "20945",
+      "label": "$$$message_0166_0048_0001$$$"
+    },
+    {
+      "en": "\"Huh. Sounds tough.\"[lr]",
+      "jp": "「ふーん。そいつ手強いんだ」[lr]",
+      "Pt-br": "\"Hmm. Parece difícil.\"[lr]",
+      "id": 28745,
+      "epk_id": "20946",
+      "label": "$$$message_0166_0049_0000$$$"
+    },
+    {
+      "en": "Crimson begins to speckle her bandages.[lr]",
+      "jp": "　包帯に赤い斑紋が浮かぶ。[lr]",
+      "Pt-br": "Manchas vermelhas começam a pontilhar suas bandagens.[lr]",
+      "id": 28746,
+      "epk_id": "20947",
+      "label": "$$$message_0166_0049_0001$$$"
+    },
+    {
+      "en": "It's captivating. [wait canskip=0 time=400]Raw. [wait canskip=0 time=400]All this time I thought she was like a doll, but she's plenty raw.",
+      "jp": "　艶めかしい。[wait canskip=0 time=400]生々しい。[wait canskip=0 time=400]人形のような女かと思えば、アレは充分に生ものだ。",
+      "Pt-br": "É cativante. [wait canskip=0 time=400]Crua. [wait canskip=0 time=400]Esse tempo todo achei que ela fosse como uma boneca, mas ela é viva demais.",
+      "id": 28747,
+      "epk_id": "20948",
+      "label": "$$$message_0166_0049_0002$$$"
+    },
+    {
+      "en": "\"If I had to rate the strength of this demon, it would be in the bottom tier.[lr]",
+      "jp": "「強いか弱いかで言えば、低級の部類に入るでしょう。[lr]",
+      "Pt-br": "\"Se tivesse que avaliar a força desse demônio, ele ficaria na faixa mais baixa.[lr]",
+      "id": 28748,
+      "epk_id": "20949",
+      "label": "$$$message_0166_0050_0000$$$"
+    },
+    {
+      "en": "But there's something different about it this time that's throwing me off.[lr]",
+      "jp": "　でも一つだけ今までと違うところがあって、それで調子がおかしいのです。[lr]",
+      "Pt-br": "Mas há algo diferente desta vez que está me desnorteando.[lr]",
+      "id": 28749,
+      "epk_id": "20950",
+      "label": "$$$message_0166_0050_0001$$$"
+    },
+    {
+      "en": "...Because this demon is strict with me.\"[cacheimage storage=ã«ã¬ã³ä¿®éæç¡å¸½05d(ä¸­),iè¨å³°æä¼ç¤¼æå ][wvs][rep textoff=0 fliplr=0 storages=ã«ã¬ã³ä¿®éæç¡å¸½05d(ä¸­) time=600 flipud=0 poss=c bg=iè¨å³°æä¼ç¤¼æå  indexes=1000][stopdash]",
+      "jp": "　……だって。この悪魔は、私に厳しいんだもの」[cacheimage storage=カレン修道服無帽05d(中),i言峰教会礼拝堂][wvs][rep textoff=0 fliplr=0 storages=カレン修道服無帽05d(中) time=600 flipud=0 poss=c bg=i言峰教会礼拝堂 indexes=1000][stopdash]",
+      "Pt-br": "...Porque esse demônio é rígido comigo.\"[cacheimage storage=カレン修道服無帽05d(中),i言峰教会礼拝堂][wvs][rep textoff=0 fliplr=0 storages=カレン修道服無帽05d(中) time=600 flipud=0 poss=c bg=i言峰教会礼拝堂 indexes=1000][stopdash]",
+      "id": 28750,
+      "epk_id": "20951",
+      "label": "$$$message_0166_0050_0002$$$"
+    },
+    {
+      "en": "\"Huh? Aren't all demons mean sons of bitches?\"",
+      "jp": "「は？　悪魔が厳しいのは当たり前じゃないのか？」",
+      "Pt-br": "\"Hã? Demônios não são todos uns filhos da puta perversos?\"",
+      "id": 28751,
+      "epk_id": "20952",
+      "label": "$$$message_0166_0051_0000$$$"
+    },
+    {
+      "en": "\"No. Demons are generally kind.[lr]",
+      "jp": "「いいえ。基本的に悪魔は優しいのです。[lr]",
+      "Pt-br": "\"Não. Demônios são geralmente gentis.[lr]",
+      "id": 28752,
+      "epk_id": "20953",
+      "label": "$$$message_0166_0052_0000$$$"
+    },
+    {
+      "en": "Whatever the result, they are fictitious entities who understand the pain that humans face and try to take it away. Depending on how you look at it, they might even seem like allies of humanity.[lr]",
+      "jp": "　その結果はどうあれ、彼らは人の苦悩を理解し、取り除こうとする架空要素。見ようによっては人間の味方ですから。[lr]",
+      "Pt-br": "Seja qual for o resultado, são entidades fictícias que entendem a dor humana e tentam removê-la. Dependendo do ponto de vista, até podem parecer aliados da humanidade.[lr]",
+      "id": 28753,
+      "epk_id": "20954",
+      "label": "$$$message_0166_0052_0001$$$"
+    },
+    {
+      "en": "What they never do is criticize humans.\"",
+      "jp": "　間違っても、人間を叱ったりはしないのです」",
+      "Pt-br": "O que eles jamais fazem é criticar os humanos.\"",
+      "id": 28754,
+      "epk_id": "20955",
+      "label": "$$$message_0166_0052_0002$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「[line len=6]」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 28755,
+      "epk_id": "20956",
+      "label": "$$$message_0166_0053_0000$$$"
+    },
+    {
+      "en": "I can only take it as an invitation.[lr]",
+      "jp": "　誘っているとしか思えない。[lr]",
+      "Pt-br": "Só posso tomar isso como um convite.[lr]",
+      "id": 28756,
+      "epk_id": "20957",
+      "label": "$$$message_0166_0053_0001$$$"
+    },
+    {
+      "en": "The pose she makes as she prays. Her interlocked fingers. [move textoff=0 time=250 path=(0,0,180)(0,0,0) storage=42æ­»ã®ã¤ã¡ã¼ã¸ accel=0]Her scarred body, I...[lr]",
+      "jp": "　祈りの仕草。重ね合う指。[move textoff=0 time=250 path=(0,0,180)(0,0,0) storage=42死のイメージ accel=0]傷だらけの体が、[lr]",
+      "Pt-br": "Sua postura enquanto reza. Seus dedos entrelaçados. [move textoff=0 time=250 path=(0,0,180)(0,0,0) storage=42死のイメージ accel=0]Seu corpo marcado, eu...[lr]",
+      "id": 28757,
+      "epk_id": "20958",
+      "label": "$$$message_0166_0053_0002$$$"
+    },
+    {
+      "en": "It reminds me of...[wm canskip=0][lr]",
+      "jp": "　　を、連想させるのだ。[wm canskip=0][lr]",
+      "Pt-br": "Isso me lembra...[wm canskip=0][lr]",
+      "id": 28758,
+      "epk_id": "20959",
+      "label": "$$$message_0166_0053_0003$$$"
+    },
+    {
+      "en": "But she's neither offering those to God nor the Devil.[lr]",
+      "jp": "　だがコレは神に捧げられたものでも、悪魔に捧げられたものでもない。[lr]",
+      "Pt-br": "Mas ela não está oferecendo essas coisas a Deus nem ao Diabo.[lr]",
+      "id": 28759,
+      "epk_id": "20960",
+      "label": "$$$message_0166_0053_0004$$$"
+    },
+    {
+      "en": "She does nothing, and takes in all things as they are.[lr]",
+      "jp": "　何もしない、あるがままを受け入れるもの。[lr]",
+      "Pt-br": "Ela nada faz e aceita tudo como é.[lr]",
+      "id": 28760,
+      "epk_id": "20961",
+      "label": "$$$message_0166_0053_0005$$$"
+    },
+    {
+      "en": "A convenient sacrifice who accepts unwarranted blame.",
+      "jp": "　謂われのない咎を受け入れる、都合のいい生け贄だ。",
+      "Pt-br": "Um sacrifício conveniente, que aceita uma culpa que não lhe cabe.",
+      "id": 28761,
+      "epk_id": "20962",
+      "label": "$$$message_0166_0053_0006$$$"
+    },
+    {
+      "en": "\"...Hah...\"[lr]",
+      "jp": "「[line len=5]、は」[lr]",
+      "Pt-br": "\"Hah...\"[lr]",
+      "id": 28762,
+      "epk_id": "20963",
+      "label": "$$$message_0166_0054_0000$$$"
+    },
+    {
+      "en": "Not good. I need to snap out of this.[lr]",
+      "jp": "　まずい。頭を切り換えないと。[lr]",
+      "Pt-br": "Nada bom. Preciso cair em mim.[lr]",
+      "id": 28763,
+      "epk_id": "20964",
+      "label": "$$$message_0166_0054_0001$$$"
+    },
+    {
+      "en": "This impulse is going to break my shell.",
+      "jp": "　この衝動は、俺の殻をクズしてしまう。",
+      "Pt-br": "Este impulso vai romper minha casca.",
+      "id": 28764,
+      "epk_id": "20965",
+      "label": "$$$message_0166_0054_0002$$$"
+    },
+    {
+      "en": "\"What's wrong? You look unwell.\"[lr]",
+      "jp": "「どうしたの。体調が乱れているようだけど」[lr]",
+      "Pt-br": "\"O que houve? Você parece mal.\"[lr]",
+      "id": 28765,
+      "epk_id": "20966",
+      "label": "$$$message_0166_0055_0000$$$"
+    },
+    {
+      "en": "\"Nah, just a little anemic.[lr]",
+      "jp": "「いや、ちょっと貧血。[lr]",
+      "Pt-br": "\"Não, só um pouco anêmico.[lr]",
+      "id": 28766,
+      "epk_id": "20967",
+      "label": "$$$message_0166_0055_0001$$$"
+    },
+    {
+      "en": "Back to what you were saying. This first-time case of yours, is it interesting?\"",
+      "jp": "　それより今の話。初めてのケースってコトは、つまり面白い？」",
+      "Pt-br": "Voltando ao que você dizia. Esse seu caso inédito é interessante?\"",
+      "id": 28767,
+      "epk_id": "20968",
+      "label": "$$$message_0166_0055_0002$$$"
+    },
+    {
+      "en": "\"Not at all. It's been nothing but unexpected. Irritating, if anything.[lr]",
+      "jp": "「全然。予想外のコトばかりで、どちらかというと腹立たしいわ。[lr]",
+      "Pt-br": "\"De forma alguma. Só houve imprevistos. Irritante, se alguma coisa.[lr]",
+      "id": 28768,
+      "epk_id": "20969",
+      "label": "$$$message_0166_0056_0000$$$"
+    },
+    {
+      "en": "...I think I'm beginning to tire of it.[lr]",
+      "jp": "　……そうね。正直、うんざりしてきたかも。[lr]",
+      "Pt-br": "...Acho que estou começando a me cansar dele.[lr]",
+      "id": 28769,
+      "epk_id": "20970",
+      "label": "$$$message_0166_0056_0001$$$"
+    },
+    {
+      "en": "I decided to take it up, but it's looking like it might be beyond my help. Do you mind if I give up now?\"[lr]",
+      "jp": "　自分から介入した事だけど、私の手には負えそうにないし。このあたりで引き上げていいかしら？」[lr]",
+      "Pt-br": "Decidi assumir o caso, mas parece que talvez esteja além da minha ajuda. Se importa se eu desistir agora?\"[lr]",
+      "id": 28770,
+      "epk_id": "20971",
+      "label": "$$$message_0166_0056_0002$$$"
+    },
+    {
+      "en": "\"I don't really care. You should do what you wanna do.\"",
+      "jp": "「別に。アンタの好きにすればいい」",
+      "Pt-br": "\"Tanto faz para mim. Faça o que tiver vontade.\"",
+      "id": 28771,
+      "epk_id": "20972",
+      "label": "$$$message_0166_0056_0003$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「……………………」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 28772,
+      "epk_id": "20973",
+      "label": "$$$message_0166_0057_0000$$$"
+    },
+    {
+      "en": "\"What? I'm not calling you irresponsible for getting bored.\"[lr]",
+      "jp": "「なんだよ。飽きっぽいなあ、とか無責任だなあ、とか言ってないぞ、俺」[lr]",
+      "Pt-br": "\"O quê? Não estou te chamando de irresponsável por ter se entediado.\"[lr]",
+      "id": 28773,
+      "epk_id": "20974",
+      "label": "$$$message_0166_0057_0001$$$"
+    },
+    {
+      "en": "\"I know.[lr]",
+      "jp": "「それはそうだけど。[lr]",
+      "Pt-br": "\"Eu sei.[lr]",
+      "id": 28774,
+      "epk_id": "20975",
+      "label": "$$$message_0166_0057_0002$$$"
+    },
+    {
+      "en": "...[wait canskip=0 time=1000][say storage=karen05_kar_0241 name=ã«ã¬ã³]See? You [font italic=true]are[font italic=false] strict with me.\"",
+      "jp": "　……[wait canskip=0 time=1000][say storage=karen05_kar_0241 name=カレン]ほら。厳しいじゃない、貴方」",
+      "Pt-br": "...[wait canskip=0 time=1000][say storage=karen05_kar_0241 name=カレン]Viu? Você [font italic=true]é[font italic=false] rigoroso comigo.\"",
+      "id": 28775,
+      "epk_id": "20976",
+      "label": "$$$message_0166_0057_0003$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「[line len=6]」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 28776,
+      "epk_id": "20977",
+      "label": "$$$message_0166_0058_0000$$$"
+    },
+    {
+      "en": "That's the first time anyone's ever called me strict.[lr]",
+      "jp": "　厳しい、と言われたのは初めてだ。[lr]",
+      "Pt-br": "É a primeira vez que alguém me chama de rigoroso.[lr]",
+      "id": 28777,
+      "epk_id": "20978",
+      "label": "$$$message_0166_0058_0001$$$"
+    },
+    {
+      "en": "I seem to remember her calling me either impatient or patient... But which one of us was which?",
+      "jp": "　前はたしか我慢できる人とかできない人とか言われた気がするが……アレは、どっちが我慢できて、どっちが我慢できなかったんだっけ……？",
+      "Pt-br": "Acho que me lembro dela me chamando de impaciente, ou talvez de paciente... Mas qual de nós era qual?",
+      "id": 28778,
+      "epk_id": "20979",
+      "label": "$$$message_0166_0058_0002$$$"
+    },
+    {
+      "en": "...I'm still having trouble snapping out of it.[lr]",
+      "jp": "　……切り替えがまだ出来ていない。[lr]",
+      "Pt-br": "...Ainda está difícil cair em mim.[lr]",
+      "id": 28779,
+      "epk_id": "20980",
+      "label": "$$$message_0166_0059_0000$$$"
+    },
+    {
+      "en": "This time, she's a challenge.[lr]",
+      "jp": "　今回のコイツは強敵だ。[lr]",
+      "Pt-br": "Desta vez, ela é um desafio.[lr]",
+      "id": 28780,
+      "epk_id": "20981",
+      "label": "$$$message_0166_0059_0001$$$"
+    },
+    {
+      "en": "Do her golden eyes see me, the real me?[lr]",
+      "jp": "　金の瞳には、俺の姿が見えているかどうか。[lr]",
+      "Pt-br": "Será que os olhos dourados dela me veem — o verdadeiro eu?[lr]",
+      "id": 28781,
+      "epk_id": "20982",
+      "label": "$$$message_0166_0059_0002$$$"
+    },
+    {
+      "en": "I can't believe that my cocoon has started to crack after only four meetings.",
+      "jp": "　まさか、たった四度の邂逅で繭が崩れかけるなんて。",
+      "Pt-br": "Mal acredito que minha crisálida já tenha começado a rachar depois de só quatro encontros.",
+      "id": 28782,
+      "epk_id": "20983",
+      "label": "$$$message_0166_0059_0003$$$"
+    },
+    {
+      "en": "\"Don't tell me you took that seriously?\"[lr]",
+      "jp": "「もしかして、本気にしましたか？」[lr]",
+      "Pt-br": "\"Não me diga que levou aquilo a sério.\"[lr]",
+      "id": 28783,
+      "epk_id": "20984",
+      "label": "$$$message_0166_0060_0000$$$"
+    },
+    {
+      "en": "\"Huh...?\"[lr]",
+      "jp": "「え……？」[lr]",
+      "Pt-br": "\"Hmm...?\"[lr]",
+      "id": 28784,
+      "epk_id": "20985",
+      "label": "$$$message_0166_0060_0001$$$"
+    },
+    {
+      "en": "I look up, being mentioned.",
+      "jp": "　言われて顔をあげる。",
+      "Pt-br": "Levanto os olhos ao perceber que é comigo.",
+      "id": 28785,
+      "epk_id": "20986",
+      "label": "$$$message_0166_0060_0002$$$"
+    },
+    {
+      "en": "\"...I apologize. I just wanted to tease you a little, too.[lr]",
+      "jp": "「……申し訳ありません。少し、私も貴方をからかってみたくなったのです。[lr]",
+      "Pt-br": "\"...Desculpe. Só queria brincar um pouco com você também.[lr]",
+      "id": 28786,
+      "epk_id": "20987",
+      "label": "$$$message_0166_0061_0000$$$"
+    },
+    {
+      "en": "Don't worry. I won't call it quits halfway.[lr]",
+      "jp": "　ご心配なく、途中で投げ出す事はありません。[lr]",
+      "Pt-br": "Não se preocupe. Não vou desistir pela metade.[lr]",
+      "id": 28787,
+      "epk_id": "20988",
+      "label": "$$$message_0166_0061_0001$$$"
+    },
+    {
+      "en": "I took it upon myself to show you the way, after all.\"",
+      "jp": "　私が自分に課した役割は、貴方を導く事ですから」",
+      "Pt-br": "Afinal, fui eu que assumi a tarefa de lhe mostrar o caminho.\"",
+      "id": 28788,
+      "epk_id": "20989",
+      "label": "$$$message_0166_0061_0002$$$"
+    },
+    {
+      "en": "\"...Yeah. Our relationship was supposed to be that of exchanging information, wasn't it? I totally forgot because you haven't been helpful at all since the second time.\"",
+      "jp": "「……ああ。そう言えば、もともと情報を交換する間柄だったっけ。一回目は助かったけど、二回目以降は役に立たないんで忘れてた」",
+      "Pt-br": "\"...É. Nossa relação deveria ser uma troca de informações, não? Esqueci completamente, já que você não serviu de ajuda nenhuma desde a segunda vez.\"",
+      "id": 28789,
+      "epk_id": "20990",
+      "label": "$$$message_0166_0062_0000$$$"
+    },
+    {
+      "en": "\"That's because you keep bringing up irrelevant topics. If you had gotten straight to the point, I would have given you my opinions.\"[lr]",
+      "jp": "「それは貴方が関係のない話をするからです。重要な話をしてもらえれば、私とて意見は返せます」[lr]",
+      "Pt-br": "\"É porque você insiste em trazer assuntos irrelevantes. Se tivesse ido direto ao ponto, eu teria dado minhas opiniões.\"[lr]",
+      "id": 28790,
+      "epk_id": "20991",
+      "label": "$$$message_0166_0063_0000$$$"
+    },
+    {
+      "en": "\"Is that so?[lr]",
+      "jp": "「そうなんだ。[lr]",
+      "Pt-br": "\"É mesmo?[lr]",
+      "id": 28791,
+      "epk_id": "20992",
+      "label": "$$$message_0166_0063_0001$$$"
+    },
+    {
+      "en": "But...\"",
+      "jp": "　けど[line len=3]」",
+      "Pt-br": "Mas...\"",
+      "id": 28792,
+      "epk_id": "20993",
+      "label": "$$$message_0166_0063_0002$$$"
+    },
+    {
+      "en": "I have nothing else to ask.[lr]",
+      "jp": "　訊くべき事はもうない。[lr]",
+      "Pt-br": "Não tenho mais nada a perguntar.[lr]",
+      "id": 28793,
+      "epk_id": "20994",
+      "label": "$$$message_0166_0064_0000$$$"
+    },
+    {
+      "en": "Shirou Emiya and Caren Hortensia's relationship completely concluded after our third meeting.",
+      "jp": "　衛宮士郎とカレンの関係は、三回目で全て済んでいる。",
+      "Pt-br": "A relação de Emiya Shirou e Caren Hortensia terminou completamente após nosso terceiro encontro.",
+      "id": 28794,
+      "epk_id": "20995",
+      "label": "$$$message_0166_0064_0001$$$"
+    },
+    {
+      "en": "\"...There's pretty much nothing left to ask anymore. Sorry.[lr]",
+      "jp": "「[line len=3]悪いけど、もうほとんど終わっているんだ。[lr]",
+      "Pt-br": "\"...Agora praticamente não resta nada a perguntar. Desculpe.[lr]",
+      "id": 28795,
+      "epk_id": "20996",
+      "label": "$$$message_0166_0065_0000$$$"
+    },
+    {
+      "en": "About what you said earlier, I guess I wouldn't mind if you gave up now.[lr]",
+      "jp": "　さっきの話だけど。実際、アンタはもう引き上げて構わないんじゃないかな。[lr]",
+      "Pt-br": "Sobre o que você disse antes, acho que não me importaria se você desistisse agora.[lr]",
+      "id": 28796,
+      "epk_id": "20997",
+      "label": "$$$message_0166_0065_0001$$$"
+    },
+    {
+      "en": "You should move on and find a new demon to hunt.\"",
+      "jp": "　[ruby text=ほんしょく char=4]悪魔祓いの方は……そうだな、諦めて次の獲物を見つけてくれ」",
+      "Pt-br": "Você deveria seguir em frente e encontrar um novo demônio para caçar.\"",
+      "id": 28797,
+      "epk_id": "20998",
+      "label": "$$$message_0166_0065_0002$$$"
+    },
+    {
+      "en": "That's my conclusion.[lr]",
+      "jp": "　それが結論だ。[lr]",
+      "Pt-br": "Essa é minha conclusão.[lr]",
+      "id": 28798,
+      "epk_id": "20999",
+      "label": "$$$message_0166_0066_0000$$$"
+    },
+    {
+      "en": "Soon, our relationship will end.",
+      "jp": "　あともう少しで、この関係も終わりを告げる。",
+      "Pt-br": "Em breve, nosso relacionamento terminará.",
+      "id": 28799,
+      "epk_id": "21000",
+      "label": "$$$message_0166_0066_0001$$$"
+    },
+    {
+      "en": "\"This may be a silly question, but are you truly fine with that?\"[lr]",
+      "jp": "「愚問と分かってはいますが。貴方は、それでいいのですか」[lr]",
+      "Pt-br": "\"Talvez seja uma pergunta tola, mas você está mesmo bem com isso?\"[lr]",
+      "id": 28800,
+      "epk_id": "21001",
+      "label": "$$$message_0166_0067_0000$$$"
+    },
+    {
+      "en": "\"Of course I am. I've done a lot to make things turn out this way.\"[lr]",
+      "jp": "「いいに決まってる。その為に色々やってきたんだから」[lr]",
+      "Pt-br": "\"Claro que sim. Fiz muita coisa para que tudo terminasse assim.\"[lr]",
+      "id": 28801,
+      "epk_id": "21002",
+      "label": "$$$message_0166_0067_0001$$$"
+    },
+    {
+      "en": "\"But is that your own will? Why do you want to put an end to this wish?\"",
+      "jp": "「それは貴方の意志で？　貴方はどうして、この願いを解決しようとするのです」",
+      "Pt-br": "\"Mas essa é mesmo sua vontade? Por que quer pôr fim a este desejo?\"",
+      "id": 28802,
+      "epk_id": "21003",
+      "label": "$$$message_0166_0067_0002$$$"
+    },
+    {
+      "en": "\"That's obvious, too. Because I'm Shirou Emiya. I've always wanted to save someone, at least once.\"[lr]",
+      "jp": "「決まってるだろ。俺は衛宮士郎だからな。一度ぐらいは、人助けをしてみたいんだ」[lr]",
+      "Pt-br": "\"Isso também é óbvio. Porque eu sou Emiya Shirou. Sempre quis salvar alguém, pelo menos uma vez.\"[lr]",
+      "id": 28803,
+      "epk_id": "21004",
+      "label": "$$$message_0166_0068_0000$$$"
+    },
+    {
+      "en": "I'm certain.[lr]",
+      "jp": "　惑いはない。[lr]",
+      "Pt-br": "Estou certo.[lr]",
+      "id": 28804,
+      "epk_id": "21005",
+      "label": "$$$message_0166_0068_0001$$$"
+    },
+    {
+      "en": "My second answer was genuinely from the heart.[clfg textoff=0 pos=all rule=ã·ã£ãã¿ã¼å·¦ãã time=400]",
+      "jp": "　二度目の答えは、偽りのない本心だった。[clfg textoff=0 pos=all rule=シャッター左から time=400]",
+      "Pt-br": "Minha segunda resposta veio genuinamente do coração.[clfg textoff=0 pos=all rule=シャッター左から time=400]",
+      "id": 28805,
+      "epk_id": "21006",
+      "label": "$$$message_0166_0068_0002$$$"
+    },
+    {
+      "en": "I get up.[lr]",
+      "jp": "　席を立つ。[lr]",
+      "Pt-br": "Eu me levanto.[lr]",
+      "id": 28806,
+      "epk_id": "21007",
+      "label": "$$$message_0166_0069_0000$$$"
+    },
+    {
+      "en": "Having managed to say that, I want to believe that our time together meant something.",
+      "jp": "　今の言葉を口にできただけで、この時間は意味があったと思いたい。",
+      "Pt-br": "Tendo conseguido dizer isso, quero acreditar que nosso tempo juntos teve algum significado.",
+      "id": 28807,
+      "epk_id": "21008",
+      "label": "$$$message_0166_0069_0001$$$"
+    },
+    {
+      "en": "   Wait.[lr]",
+      "jp": "　[line len=3]待って。[lr]",
+      "Pt-br": "Espere.[lr]",
+      "id": 28808,
+      "epk_id": "21009",
+      "label": "$$$message_0166_0070_0000$$$"
+    },
+    {
+      "en": "I can't stay with you anymore.[lr]",
+      "jp": "　さすがにもう付き合えない。[lr]",
+      "Pt-br": "Não posso ficar mais com você.[lr]",
+      "id": 28809,
+      "epk_id": "21010",
+      "label": "$$$message_0166_0070_0001$$$"
+    },
+    {
+      "en": "I head outside, not slowing my step.",
+      "jp": "　足を止める事なく外に向かう。",
+      "Pt-br": "Saio sem diminuir o passo.",
+      "id": 28810,
+      "epk_id": "21011",
+      "label": "$$$message_0166_0070_0002$$$"
+    },
+    {
+      "en": "   You're nothing. As long as there is something unborn, something unknown, you'll keep existing.[lr]",
+      "jp": "　[line len=3]貴方は虚無よ。生まれていないもの、未知のものがあるかぎり在り続ける。[lr]",
+      "Pt-br": "Você não é nada. Enquanto houver algo por nascer, algo desconhecido, você continuará existindo.[lr]",
+      "id": 28811,
+      "epk_id": "21012",
+      "label": "$$$message_0166_0071_0000$$$"
+    },
+    {
+      "en": "There isn't much time left.[lr]",
+      "jp": "　残る隙間はそう多くない。[lr]",
+      "Pt-br": "Não resta muito tempo.[lr]",
+      "id": 28812,
+      "epk_id": "21013",
+      "label": "$$$message_0166_0071_0001$$$"
+    },
+    {
+      "en": "I just need to solve this quickly.",
+      "jp": "　手早く埋めてしまえばいい。",
+      "Pt-br": "Só preciso resolver isso rápido.",
+      "id": 28813,
+      "epk_id": "21014",
+      "label": "$$$message_0166_0071_0002$$$"
+    },
+    {
+      "en": "Â Â But once everything is born, you'll have nowhere to go. The closer these days come to an end, the more you lose your radiance.[lr]",
+      "jp": "　[line len=3]けど、全てが生まれてしまったら貴方の居場所はどこにもない。この日常がうまっていけばいくほど、貴方は輝きを失っていく。[lr]",
+      "Pt-br": "Mas, quando tudo nascer, você não terá para onde ir. Quanto mais estes dias se aproximam do fim, mais você perde seu brilho.[lr]",
+      "id": 28814,
+      "epk_id": "21015",
+      "label": "$$$message_0166_0072_0000$$$"
+    },
+    {
+      "en": "I'm not losing it. I...[lr]",
+      "jp": "　失っていくのではない。それは、[lr]",
+      "Pt-br": "Não estou perdendo isso. Eu...[lr]",
+      "id": 28815,
+      "epk_id": "21016",
+      "label": "$$$message_0166_0072_0001$$$"
+    },
+    {
+      "en": "   You'll lose interest in the world and return to nothingness.[lr]",
+      "jp": "　[line len=3]世界への関心を失って、もとの無に戻るのよ。[lr]",
+      "Pt-br": "Você perderá o interesse pelo mundo e retornará ao nada.[lr]",
+      "id": 28816,
+      "epk_id": "21017",
+      "label": "$$$message_0166_0072_0002$$$"
+    },
+    {
+      "en": "I'm just going back to the shape I used to be. The way I should be.[nolr]",
+      "jp": "　元の、正しいカタチに戻るだけだ。[nolr]",
+      "Pt-br": "Só estou voltando à forma que eu tinha antes. Ao que eu deveria ser.[nolr]",
+      "id": 28817,
+      "epk_id": "21018",
+      "label": "$$$message_0166_0072_0003$$$"
+    },
+    {
+      "en": "No unfinished business at all. Not for Shirou Emiya.[r]",
+      "jp": "衛宮士郎として、[r]あそこでやり残したコトは、[r]もう何一つない筈だ。",
+      "Pt-br": "Nenhuma pendência a resolver. Nada para Emiya Shirou.[r]",
+      "id": 28818,
+      "epk_id": "920795",
+      "label": "$$$message_9166_0000_0001$$$"
+    },
+    {
+      "en": "I'm pretty sure that there was never anything here...[r]",
+      "jp": "[line len=3]確かに、ここには[r]何も在りはしなかったけど。",
+      "Pt-br": "Acho que nunca houve nada aqui...[r]",
+      "id": 28819,
+      "epk_id": "920861",
+      "label": "$$$message_9166_0018_0000$$$"
+    }
+  ]
+}

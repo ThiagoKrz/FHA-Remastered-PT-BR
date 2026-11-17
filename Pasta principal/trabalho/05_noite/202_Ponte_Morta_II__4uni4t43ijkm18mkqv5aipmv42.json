@@ -1,0 +1,664 @@
+{
+  "cena": "4uni4t43ijkm18mkqv5aipmv42",
+  "titulo": "Ponte Morta (II)",
+  "rota": "Noite",
+  "arquivo": "4uni4t43ijkm18mkqv5aipmv42.epk_dec",
+  "linhas": [
+    {
+      "en": "We'll cross the bridge into Shinto.[lr]",
+      "jp": "　橋を渡って新都に向かう。[lr]",
+      "Pt-br": "Vamos atravessar a ponte para Shinto.[lr]",
+      "id": 27009,
+      "epk_id": "32128",
+      "label": "$$$message_0254_0000_0000$$$"
+    },
+    {
+      "en": "Nobody uses the pedestrian walkway at this time of night.[lr]",
+      "jp": "　この時間、歩道橋を利用する人間は皆無だ。[lr]",
+      "Pt-br": "Ninguém usa a passarela de pedestres a esta hora da noite.[lr]",
+      "id": 27010,
+      "epk_id": "32129",
+      "label": "$$$message_0254_0000_0001$$$"
+    },
+    {
+      "en": "There aren't any cars tonight, either. I can clearly hear the sea breeze.",
+      "jp": "　今夜は道路を行く自動車もなく、海から吹き込む風の音がよく響いていた。",
+      "Pt-br": "Também não há carros hoje à noite. Consigo ouvir claramente a brisa do mar.",
+      "id": 27011,
+      "epk_id": "32130",
+      "label": "$$$message_0254_0000_0002$$$"
+    },
+    {
+      "en": "\"This takes me back. Remember that time we walked to the church together?\"",
+      "jp": "「[line len=3]懐かしいな。あの時もこうやって、セイバーと教会に行ったんだっけ」",
+      "Pt-br": "\"Isso me traz lembranças. Lembra de quando fomos andando até a igreja juntos?\"",
+      "id": 27012,
+      "epk_id": "32131",
+      "label": "$$$message_0254_0001_0000$$$"
+    },
+    {
+      "en": "\"Yes. You still didn't know what it meant to be a Master, I hadn't quite accepted being your Servant, and Rin was still our enemy.[lr]",
+      "jp": "「ええ。まだマスターの自覚がなかったシロウと、まだ貴方のサーヴァントになっていなかった私と、まだ敵であった凛。[lr]",
+      "Pt-br": "\"Sim. Você ainda não sabia o que significava ser um Mestre, eu não tinha aceitado totalmente ser sua Serva, e a Rin ainda era nossa inimiga.[lr]",
+      "id": 27013,
+      "epk_id": "32132",
+      "label": "$$$message_0254_0002_0000$$$"
+    },
+    {
+      "en": "In hindsight, we made an odd trio indeed.\"",
+      "jp": "　こうして振り返ると、さぞおかしな三人組だったのでしょうね」",
+      "Pt-br": "Pensando bem, nós formávamos um trio bem peculiar.\"",
+      "id": 27014,
+      "epk_id": "32133",
+      "label": "$$$message_0254_0002_0001$$$"
+    },
+    {
+      "en": "Saber chuckles.[lr]",
+      "jp": "　くすりと微笑するセイバー。[lr]",
+      "Pt-br": "Saber ri baixinho.[lr]",
+      "id": 27015,
+      "epk_id": "32134",
+      "label": "$$$message_0254_0003_0000$$$"
+    },
+    {
+      "en": "Like me, she seems to look back fondly on what happened half a year ago.[lr]",
+      "jp": "　彼女も俺同様、半年前の夜を懐かしんで笑っている。[lr]",
+      "Pt-br": "Assim como eu, ela parece relembrar com carinho o que aconteceu há meio ano.[lr]",
+      "id": 27016,
+      "epk_id": "32135",
+      "label": "$$$message_0254_0003_0001$$$"
+    },
+    {
+      "en": "I still remember it well, and I always will.[lr]",
+      "jp": "　今でも、いや、この先もずっと覚えている。[lr]",
+      "Pt-br": "Eu ainda me lembro bem, e sempre vou me lembrar.[lr]",
+      "id": 27017,
+      "epk_id": "32136",
+      "label": "$$$message_0254_0003_0002$$$"
+    },
+    {
+      "en": "That night was special.[lr]",
+      "jp": "　あの夜は特別だった。[lr]",
+      "Pt-br": "Aquela noite foi especial.[lr]",
+      "id": 27018,
+      "epk_id": "32137",
+      "label": "$$$message_0254_0003_0003$$$"
+    },
+    {
+      "en": "Of course, all the time I spent with Saber during the war was special, but everything began that night.",
+      "jp": "　聖杯戦争の最中、セイバーと二人でいる時はずっと特別だったけど、あの夜は、その始まりだったんだから。",
+      "Pt-br": "É claro que todo o tempo que passei com a Saber durante a guerra foi especial, mas tudo começou naquela noite.",
+      "id": 27019,
+      "epk_id": "32138",
+      "label": "$$$message_0254_0003_0004$$$"
+    },
+    {
+      "en": "\"You were pretty grumpy at first.[lr]",
+      "jp": "「けど、セイバー不機嫌だったよな。[lr]",
+      "Pt-br": "\"Você estava bem mal-humorada no começo.[lr]",
+      "id": 27020,
+      "epk_id": "32139",
+      "label": "$$$message_0254_0004_0000$$$"
+    },
+    {
+      "en": "We didn't have much chance to talk that night, but you were completely silent on the way to the church.\"",
+      "jp": "　あの夜は初対面であんまり話せなかったけど、教会に向かう時は輪をかけて無言だったっていうか」",
+      "Pt-br": "Nós não tivemos muita chance de conversar naquela noite, mas você ficou completamente em silêncio a caminho da igreja.\"",
+      "id": 27021,
+      "epk_id": "32140",
+      "label": "$$$message_0254_0004_0001$$$"
+    },
+    {
+      "en": "\"I had reason to be upset. I can say this now, but I was angry at the way you treated me.[lr]",
+      "jp": "「不機嫌にもなります。今だから言いますが、あの扱いには怒りを覚えたものです。[lr]",
+      "Pt-br": "\"Eu tinha motivos para estar chateada. Posso dizer isso agora, mas eu fiquei irritada com o jeito que você me tratou.[lr]",
+      "id": 27022,
+      "epk_id": "32141",
+      "label": "$$$message_0254_0005_0000$$$"
+    },
+    {
+      "en": "Surely there was a better way to disguise me!\"",
+      "jp": "　変装させるのなら、他にやりようがあったのではないですかっ」",
+      "Pt-br": "Com certeza havia um jeito melhor de me disfarçar!\"",
+      "id": 27023,
+      "epk_id": "32142",
+      "label": "$$$message_0254_0005_0001$$$"
+    },
+    {
+      "en": "Oh. She didn't like the yellow raincoat, huh?[lr]",
+      "jp": "　そうか。黄色いレインコートはセイバーのお気に召さなかったのか。[lr]",
+      "Pt-br": "Ah. Então ela não gostou da capa de chuva amarela, hein?[lr]",
+      "id": 27024,
+      "epk_id": "32143",
+      "label": "$$$message_0254_0006_0000$$$"
+    },
+    {
+      "en": "I see her wearing the raincoat pretty often, despite that. Maybe it's her way of getting back at me.",
+      "jp": "　その割にはあのレインコートを愛用しているが、アレは俺への無言の抗議ってコトか？",
+      "Pt-br": "Mesmo assim, eu a vejo usando a capa de chuva com bastante frequência. Talvez seja a forma dela de dar o troco.",
+      "id": 27025,
+      "epk_id": "32144",
+      "label": "$$$message_0254_0006_0001$$$"
+    },
+    {
+      "en": "\"Mrgh. You look like you have something to say. [wvl][move textoff=0 both=1 opacity=0 base=027_アチャ光点 cx=55 storage=027_アチャ光点 py=180 px=275 affine=(275,180,-45,0.5,55,55,55)(275,180,-90,0.6,155,55,55)(275,180,-135,0.7,0,55,55)(275,180,-180,0.7,200,55,55)(275,180,-225,0.7,155,55,55) time=1200 cy=55 mag=0.4 deg=+0.0 accel=-2]Very well. Let us settle the matter here, and I expect your apology for[line len=2][cacheimage storage=セイバー鎧08a(中)][wvl canskip=0 time=500][chgfg textoff=0 time=200 storage=セイバー鎧08a(中)]Shirou!\"[wm canskip=0]",
+      "jp": "「む、何やら言いたい事があるようですね。[wvl][move textoff=0 both=1 opacity=0 base=027_アチャ光点 cx=55 storage=027_アチャ光点 py=180 px=275 affine=(275,180,-45,0.5,55,55,55)(275,180,-90,0.6,155,55,55)(275,180,-135,0.7,0,55,55)(275,180,-180,0.7,200,55,55)(275,180,-225,0.7,155,55,55) time=1200 cy=55 mag=0.4 deg=+0.0 accel=-2]いいでしょう、あの時の謝罪をかねてここで決着を[line len=3][cacheimage storage=セイバー鎧08a(中)][wvl canskip=0 time=500][chgfg textoff=0 time=200 storage=セイバー鎧08a(中)]シロウ……！」[wm canskip=0]",
+      "Pt-br": "\"Mrgh. Você parece ter algo a dizer. [wvl][move textoff=0 both=1 opacity=0 base=027_アチャ光点 cx=55 storage=027_アチャ光点 py=180 px=275 affine=(275,180,-45,0.5,55,55,55)(275,180,-90,0.6,155,55,55)(275,180,-135,0.7,0,55,55)(275,180,-180,0.7,200,55,55)(275,180,-225,0.7,155,55,55) time=1200 cy=55 mag=0.4 deg=+0.0 accel=-2]Muito bem. Vamos resolver esse assunto aqui mesmo, e eu espero suas desculpas por[line len=2][cacheimage storage=セイバー鎧08a(中)][wvl canskip=0 time=500][chgfg textoff=0 time=200 storage=セイバー鎧08a(中)]Shirou!\"[wm canskip=0]",
+      "id": 27026,
+      "epk_id": "32145",
+      "label": "$$$message_0254_0007_0000$$$"
+    },
+    {
+      "en": "\"Wha[line len=2]\"[lr]",
+      "jp": "「なっ[line len=3]」[lr]",
+      "Pt-br": "\"O qu[line len=2]\"[lr]",
+      "id": 27027,
+      "epk_id": "32146",
+      "label": "$$$message_0254_0008_0000$$$"
+    },
+    {
+      "en": "Saber blocks a bolt of light with her sword.[lr]",
+      "jp": "　弾け合う剣と光。[lr]",
+      "Pt-br": "Saber bloqueia um feixe de luz com a espada.[lr]",
+      "id": 27028,
+      "epk_id": "32147",
+      "label": "$$$message_0254_0008_0001$$$"
+    },
+    {
+      "en": "The shockwave sends shudders through the bridge supports.",
+      "jp": "　衝突の余波が、ビリビリと大気と橋のシャフトを震わせる。",
+      "Pt-br": "A onda de choque faz os pilares da ponte tremerem.",
+      "id": 27029,
+      "epk_id": "32148",
+      "label": "$$$message_0254_0008_0002$$$"
+    },
+    {
+      "en": "\"Get back! An enemy Servant is attacking...!\"[lr]",
+      "jp": "「下がって……！　敵サーヴァントの攻撃です……！」[lr]",
+      "Pt-br": "\"Recue! É o ataque de um Servo inimigo...!\"[lr]",
+      "id": 27030,
+      "epk_id": "32149",
+      "label": "$$$message_0254_0009_0000$$$"
+    },
+    {
+      "en": "A second attack...![lr]",
+      "jp": "　二撃目……！[lr]",
+      "Pt-br": "Um segundo ataque...![lr]",
+      "id": 27031,
+      "epk_id": "32150",
+      "label": "$$$message_0254_0009_0001$$$"
+    },
+    {
+      "en": "I can't figure out exactly what's happening.[lr]",
+      "jp": "　何が起きているのか把握できない。[lr]",
+      "Pt-br": "Não consigo entender exatamente o que está acontecendo.[lr]",
+      "id": 27032,
+      "epk_id": "32151",
+      "label": "$$$message_0254_0009_0002$$$"
+    },
+    {
+      "en": "Saber stands in front of me, repelling bolts of light with her sword.",
+      "jp": "　セイバーは俺の前に立ち、何処からか飛来してくる光弾を剣で弾く。",
+      "Pt-br": "Saber está parada na minha frente, repelindo os feixes de luz com sua espada.",
+      "id": 27033,
+      "epk_id": "32152",
+      "label": "$$$message_0254_0009_0003$$$"
+    },
+    {
+      "en": "\"An enemy Servant!?[lr]",
+      "jp": "「敵サーヴァントだって……！？[lr]",
+      "Pt-br": "\"Um Servo inimigo!?[lr]",
+      "id": 27034,
+      "epk_id": "32153",
+      "label": "$$$message_0254_0010_0000$$$"
+    },
+    {
+      "en": "Damn, who? Where!?\"[lr]",
+      "jp": "　くそ、一体どこのどいつが[line len=3]」[lr]",
+      "Pt-br": "Droga, quem? Onde!?\"[lr]",
+      "id": 27035,
+      "epk_id": "32154",
+      "label": "$$$message_0254_0010_0001$$$"
+    },
+    {
+      "en": "The third attack comes. [lr]",
+      "jp": "　三撃目。[lr]",
+      "Pt-br": "O terceiro ataque vem. [lr]",
+      "id": 27036,
+      "epk_id": "32155",
+      "label": "$$$message_0254_0010_0002$$$"
+    },
+    {
+      "en": "Saber fends it off again.[lr]",
+      "jp": "　またも光弾を弾くセイバー。[lr]",
+      "Pt-br": "Saber o defende de novo.[lr]",
+      "id": 27037,
+      "epk_id": "32156",
+      "label": "$$$message_0254_0010_0003$$$"
+    },
+    {
+      "en": "...This is bad. They're clearly getting stronger.[lr]",
+      "jp": "　……まずい。明らかに今の光弾は威力を増している。[lr]",
+      "Pt-br": "...Isso é ruim. Eles claramente estão ficando mais fortes.[lr]",
+      "id": 27038,
+      "epk_id": "32157",
+      "label": "$$$message_0254_0010_0004$$$"
+    },
+    {
+      "en": "Saber can still block them, but I don't know how long she can hold out if these strikes keep increasing in number and ferocity.",
+      "jp": "　今はまだ防げるが、この後も威力を増していくというのであれば、セイバーとていつまで防げるか。",
+      "Pt-br": "Saber ainda consegue bloqueá-los, mas não sei por quanto tempo ela vai aguentar se os golpes continuarem aumentando em número e ferocidade.",
+      "id": 27039,
+      "epk_id": "32158",
+      "label": "$$$message_0254_0010_0005$$$"
+    },
+    {
+      "en": "If Saber were alone, she might be able to protect herself long enough to advance on and defeat the attacker.[lr]",
+      "jp": "　セイバーが一人であるのなら光弾を弾きながら前進し、倒される前に狙撃手を打ち倒せるかもしれない。[lr]",
+      "Pt-br": "Se a Saber estivesse sozinha, ela poderia ser capaz de se proteger por tempo suficiente para avançar e derrotar o agressor.[lr]",
+      "id": 27040,
+      "epk_id": "32159",
+      "label": "$$$message_0254_0011_0000$$$"
+    },
+    {
+      "en": "But I'm the one being targeted right now.[lr]",
+      "jp": "　だが狙われているのは俺だ。[lr]",
+      "Pt-br": "Mas sou eu quem está sendo visado agora.[lr]",
+      "id": 27041,
+      "epk_id": "32160",
+      "label": "$$$message_0254_0011_0001$$$"
+    },
+    {
+      "en": "The instant Saber leaves my side, those projectiles will hit me.[lr]",
+      "jp": "　セイバーが俺から離れた瞬間、あの光弾が俺を貫く。[lr]",
+      "Pt-br": "No instante em que a Saber sair do meu lado, esses projéteis vão me atingir.[lr]",
+      "id": 27042,
+      "epk_id": "32161",
+      "label": "$$$message_0254_0011_0002$$$"
+    },
+    {
+      "en": "She can't advance as long as she has me to worry about.[lr]",
+      "jp": "　セイバーは俺を守っているかぎり、ここから前には進めない。[lr]",
+      "Pt-br": "Ela não tem como avançar enquanto tiver que se preocupar comigo.[lr]",
+      "id": 27043,
+      "epk_id": "32162",
+      "label": "$$$message_0254_0011_0003$$$"
+    },
+    {
+      "en": "No...[lr]",
+      "jp": "　[line len=3]いや。[lr]",
+      "Pt-br": "Não...[lr]",
+      "id": 27044,
+      "epk_id": "32163",
+      "label": "$$$message_0254_0011_0004$$$"
+    },
+    {
+      "en": "In the worst case, we might not even be able to retreat to Miyama, and she might get hit by the bolts of light and go down because of me...[fg textoff=0 opacity=0 left=0 index=5000 top=0 time=100 storage=red2]",
+      "jp": "　下手をすると深山町に撤退する事もできず、俺のせいで、何撃目かの光弾に敗れる事だって[line len=3][fg textoff=0 opacity=0 left=0 index=5000 top=0 time=100 storage=red2]",
+      "Pt-br": "No pior dos casos, nós podemos nem conseguir recuar para Miyama, e ela pode acabar sendo atingida pelos feixes de luz e cair por minha causa...[fg textoff=0 opacity=0 left=0 index=5000 top=0 time=100 storage=red2]",
+      "id": 27045,
+      "epk_id": "32164",
+      "label": "$$$message_0254_0011_0005$$$"
+    },
+    {
+      "en": "\"Shirou, I will block the enemy attacks! Please stay where you are!\"[lr]",
+      "jp": "「シロウ、敵の攻撃は私が防ぐ……！　今はそのまま動かないでください……！」[lr]",
+      "Pt-br": "\"Shirou, eu bloquearei os ataques inimigos! Por favor, fique onde está!\"[lr]",
+      "id": 27046,
+      "epk_id": "32165",
+      "label": "$$$message_0254_0012_0000$$$"
+    },
+    {
+      "en": "A fourth attack.[lr]",
+      "jp": "　四撃目。[lr]",
+      "Pt-br": "Um quarto ataque.[lr]",
+      "id": 27047,
+      "epk_id": "32166",
+      "label": "$$$message_0254_0012_0001$$$"
+    },
+    {
+      "en": "I can hear the worry in Saber's voice.[lr]",
+      "jp": "　セイバーの声に焦りが混じる。[lr]",
+      "Pt-br": "Consigo ouvir a preocupação na voz da Saber.[lr]",
+      "id": 27048,
+      "epk_id": "32167",
+      "label": "$$$message_0254_0012_0002$$$"
+    },
+    {
+      "en": "The enemy attacks are focused on me; they know that I'm the weak link. Saber has to force herself on the defensive to cover me.[wm canskip=0]",
+      "jp": "　敵は弱点が俺だと知っている。隙だらけの俺を攻める光弾を、セイバーは無理な体勢で弾き流す。[wm canskip=0]",
+      "Pt-br": "Os ataques inimigos estão concentrados em mim; eles sabem que eu sou o elo fraco. A Saber é forçada a ficar na defensiva para me dar cobertura.[wm canskip=0]",
+      "id": 27049,
+      "epk_id": "32168",
+      "label": "$$$message_0254_0012_0003$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「[line len=6]」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 27050,
+      "epk_id": "32169",
+      "label": "$$$message_0254_0013_0000$$$"
+    },
+    {
+      "en": "...At this rate, Saber will lose.[lr]",
+      "jp": "　[line len=3]このままではセイバーが倒される。[lr]",
+      "Pt-br": "...Nesse ritmo, a Saber vai perder.[lr]",
+      "id": 27051,
+      "epk_id": "32170",
+      "label": "$$$message_0254_0013_0001$$$"
+    },
+    {
+      "en": "It's clear what I have to do.[lr]",
+      "jp": "　やるべき事ははっきりとしている。[lr]",
+      "Pt-br": "Está claro o que eu devo fazer.[lr]",
+      "id": 27052,
+      "epk_id": "32171",
+      "label": "$$$message_0254_0013_0002$$$"
+    },
+    {
+      "en": "Basically, I need to protect myself.[clfg textoff=0 pos=all time=100]",
+      "jp": "　要は俺が、自分の身を自分で守れればいい。[clfg textoff=0 pos=all time=100]",
+      "Pt-br": "Basicamente, eu preciso me proteger sozinho.[clfg textoff=0 pos=all time=100]",
+      "id": 27053,
+      "epk_id": "32172",
+      "label": "$$$message_0254_0013_0003$$$"
+    },
+    {
+      "en": "I concentrate my nerves.[lr]",
+      "jp": "　神経を集中する。[lr]",
+      "Pt-br": "Concentro meus nervos.[lr]",
+      "id": 27054,
+      "epk_id": "32173",
+      "label": "$$$message_0254_0014_0000$$$"
+    },
+    {
+      "en": "I can see the bolts of light, which means I can defend myself against them.[lr]",
+      "jp": "　さっきから光弾は見えている。見えているのなら防ぐ事もできる筈だ。[lr]",
+      "Pt-br": "Eu consigo ver os feixes de luz, o que significa que posso me defender deles.[lr]",
+      "id": 27055,
+      "epk_id": "32174",
+      "label": "$$$message_0254_0014_0001$$$"
+    },
+    {
+      "en": "In the past, I wouldn't have known what to do.[lr]",
+      "jp": "　以前の俺ならいざ知らず。[lr]",
+      "Pt-br": "No passado, eu não saberia o que fazer.[lr]",
+      "id": 27056,
+      "epk_id": "32175",
+      "label": "$$$message_0254_0014_0002$$$"
+    },
+    {
+      "en": "But the Shirou Emiya who survived the Holy Grail War has the experience and skill to make it possible.",
+      "jp": "　聖杯戦争を生き抜いた衛宮士郎には、それを可能とする経験と力量がなくてはならない。",
+      "Pt-br": "Mas o Emiya Shirou que sobreviveu à Guerra do Santo Graal tem a experiência e a habilidade necessárias para tornar isso possível.",
+      "id": 27057,
+      "epk_id": "32176",
+      "label": "$$$message_0254_0014_0003$$$"
+    },
+    {
+      "en": "The fifth and final attack comes.[lr]",
+      "jp": "　そして、最後の五撃目。[lr]",
+      "Pt-br": "O quinto e último ataque vem.[lr]",
+      "id": 27058,
+      "epk_id": "32177",
+      "label": "$$$message_0254_0015_0000$$$"
+    },
+    {
+      "en": "\"Nngh...!!!\"[lr]",
+      "jp": "「つっ……！！！」[lr]",
+      "Pt-br": "\"Nngh...!!!\"[lr]",
+      "id": 27059,
+      "epk_id": "32178",
+      "label": "$$$message_0254_0015_0001$$$"
+    },
+    {
+      "en": "Saber is knocked severely off balance.[wdash canskip=0][lr]",
+      "jp": "　大きくバランスを崩すセイバー。[wdash canskip=0][lr]",
+      "Pt-br": "Saber perde totalmente o equilíbrio.[wdash canskip=0][lr]",
+      "id": 27060,
+      "epk_id": "32179",
+      "label": "$$$message_0254_0015_0002$$$"
+    },
+    {
+      "en": "...There's no doubt about it.[lr]",
+      "jp": "　[line len=3]間違いない。[lr]",
+      "Pt-br": "...Não há dúvidas sobre isso.[lr]",
+      "id": 27061,
+      "epk_id": "32180",
+      "label": "$$$message_0254_0015_0003$$$"
+    },
+    {
+      "en": "These long-range attacks are from a Noble Phantasm.",
+      "jp": "　この光弾は宝具による遠距離射撃。",
+      "Pt-br": "Esses ataques de longa distância são de um Fantasma Nobre.",
+      "id": 27062,
+      "epk_id": "32181",
+      "label": "$$$message_0254_0015_0004$$$"
+    },
+    {
+      "en": "Even Saber can't block a Noble Phantasm repeatedly.[lr]",
+      "jp": "　いかにセイバーと言え、一つ一つが“宝具”を弾丸にした狙撃を防ぎきる事はできない。[lr]",
+      "Pt-br": "Mesmo a Saber não consegue bloquear um Fantasma Nobre repetidamente.[lr]",
+      "id": 27063,
+      "epk_id": "32182",
+      "label": "$$$message_0254_0016_0000$$$"
+    },
+    {
+      "en": "If she were on her own, she wouldn't need to bother with defense at all!",
+      "jp": "　セイバー一人なら剣で弾く事などせず、いくらでもやり過ごせるのに……！",
+      "Pt-br": "Se ela estivesse sozinha, não precisaria se preocupar com defesa de jeito nenhum!",
+      "id": 27064,
+      "epk_id": "32183",
+      "label": "$$$message_0254_0016_0001$$$"
+    },
+    {
+      "en": "\"...! Saber, look out!\"[lr]",
+      "jp": "「……！　セイバー、危ない……！」[lr]",
+      "Pt-br": "\"...! Saber, cuidado!\"[lr]",
+      "id": 27065,
+      "epk_id": "32184",
+      "label": "$$$message_0254_0017_0000$$$"
+    },
+    {
+      "en": "\"Kuh! No, Shirou, I can take it...!\"[lr]",
+      "jp": "「く、ダメだシロウ、私なら一撃くらい[line len=3]！」[lr]",
+      "Pt-br": "\"Kuh! Não, Shirou, eu consigo aguentar...!\"[lr]",
+      "id": 27066,
+      "epk_id": "32185",
+      "label": "$$$message_0254_0017_0001$$$"
+    },
+    {
+      "en": "There's no way she can.[wm canskip=0][lr]",
+      "jp": "　受けられる筈がない。[wm canskip=0][lr]",
+      "Pt-br": "De jeito nenhum ela consegue.[wm canskip=0][lr]",
+      "id": 27067,
+      "epk_id": "32186",
+      "label": "$$$message_0254_0017_0002$$$"
+    },
+    {
+      "en": "The sixth attack will defeat Saber. That's the only foreseeable outcome with our current tactics.",
+      "jp": "　セイバーは六撃目で倒される。それはもう、この防御方法から導き出された結論だった。",
+      "Pt-br": "O sexto ataque vai derrotar a Saber. Esse é o único desfecho previsível com as nossas táticas atuais.",
+      "id": 27068,
+      "epk_id": "32187",
+      "label": "$$$message_0254_0017_0003$$$"
+    },
+    {
+      "en": "\"Don't underestimate me! I can...!\"[lr]",
+      "jp": "「なめるな、俺だって[line len=3]！」[lr]",
+      "Pt-br": "\"Não me subestime! Eu consigo...!\"[lr]",
+      "id": 27069,
+      "epk_id": "32188",
+      "label": "$$$message_0254_0018_0000$$$"
+    },
+    {
+      "en": "I can protect myself.[lr]",
+      "jp": "　自分の身は自分で守れる。[lr]",
+      "Pt-br": "Eu consigo me proteger.[lr]",
+      "id": 27070,
+      "epk_id": "32189",
+      "label": "$$$message_0254_0018_0001$$$"
+    },
+    {
+      "en": "I glare in the direction of the enemy.[clfg textoff=0 time=100 storage=セイバー鎧08b(中)][lr]",
+      "jp": "　[ruby text=てき o2o=1]前方を睨む。[clfg textoff=0 time=100 storage=セイバー鎧08b(中)][lr]",
+      "Pt-br": "Eu lanço um olhar furioso na direção do inimigo.[clfg textoff=0 time=100 storage=セイバー鎧08b(中)][lr]",
+      "id": 27071,
+      "epk_id": "32190",
+      "label": "$$$message_0254_0018_0002$$$"
+    },
+    {
+      "en": "A bolt of light hurtles toward me, aimed between my eyes.[lr]",
+      "jp": "　俺の眉間めがけて撃ち出される光。[lr]",
+      "Pt-br": "Um feixe de luz voa na minha direção, mirando bem entre os meus olhos.[lr]",
+      "id": 27072,
+      "epk_id": "32191",
+      "label": "$$$message_0254_0018_0003$$$"
+    },
+    {
+      "en": "I can see it. So all I need to do is...[lr]",
+      "jp": "　見えている。それは見えているから、後は[line len=3][lr]",
+      "Pt-br": "Eu consigo vê-lo. Então tudo que preciso fazer é...[lr]",
+      "id": 27073,
+      "epk_id": "32192",
+      "label": "$$$message_0254_0018_0004$$$"
+    },
+    {
+      "en": "\"...Huh?\"[lr]",
+      "jp": "「[line len=6]あれ？」[lr]",
+      "Pt-br": "\"...Hã?\"[lr]",
+      "id": 27074,
+      "epk_id": "32193",
+      "label": "$$$message_0254_0018_0005$$$"
+    },
+    {
+      "en": "I completely forgot.[lr]",
+      "jp": "　ど忘れした。[lr]",
+      "Pt-br": "Eu esqueci completamente.[lr]",
+      "id": 27075,
+      "epk_id": "32194",
+      "label": "$$$message_0254_0018_0006$$$"
+    },
+    {
+      "en": "What am I supposed to do next?",
+      "jp": "　後は、何をすればいいんだっけ？",
+      "Pt-br": "O que eu deveria fazer agora?",
+      "id": 27076,
+      "epk_id": "32195",
+      "label": "$$$message_0254_0018_0007$$$"
+    },
+    {
+      "en": "\"...!!!\"[rf][wm canskip=0][lr]",
+      "jp": "「……！　………、………！！！！」[rf][wm canskip=0][lr]",
+      "Pt-br": "\"...!!!\"[rf][wm canskip=0][lr]",
+      "id": 27077,
+      "epk_id": "32196",
+      "label": "$$$message_0254_0019_0000$$$"
+    },
+    {
+      "en": "...I screwed up.[lr]",
+      "jp": "　……しくじった。[lr]",
+      "Pt-br": "...Eu estraguei tudo.[lr]",
+      "id": 27078,
+      "epk_id": "32197",
+      "label": "$$$message_0254_0019_0001$$$"
+    },
+    {
+      "en": "Did I make some mistake?[lr]",
+      "jp": "　なんだ、何を間違えたんだ俺は。[lr]",
+      "Pt-br": "Será que eu cometi algum erro?[lr]",
+      "id": 27079,
+      "epk_id": "32198",
+      "label": "$$$message_0254_0019_0002$$$"
+    },
+    {
+      "en": "Did I forget, or did I just never know from the start?[lr]",
+      "jp": "　忘れているのか、まだ知らないのか。[lr]",
+      "Pt-br": "Eu me esqueci, ou simplesmente nunca soube desde o começo?[lr]",
+      "id": 27080,
+      "epk_id": "32199",
+      "label": "$$$message_0254_0019_0003$$$"
+    },
+    {
+      "en": "Did I neglect to bring along a fundamental part of Shirou Emiya's abilities?[lr]",
+      "jp": "　衛宮士郎という人間が持つ性能、その根本的な部分をどこで拾い損ねたのか。[lr]",
+      "Pt-br": "Será que eu deixei de trazer uma parte fundamental das habilidades de Emiya Shirou?[lr]",
+      "id": 27081,
+      "epk_id": "32200",
+      "label": "$$$message_0254_0019_0004$$$"
+    },
+    {
+      "en": "If the knowledge was ever there, it's now oozing out of the hole in my forehead.",
+      "jp": "　眉間に開いた穴から[ruby text=のうみそ char=2]知蔵がダラダラとこぼれていく。",
+      "Pt-br": "Se esse conhecimento esteve ali em algum momento, ele agora está vazando do buraco na minha testa.",
+      "id": 27082,
+      "epk_id": "32201",
+      "label": "$$$message_0254_0019_0005$$$"
+    },
+    {
+      "en": "\"                      \"[rf]",
+      "jp": "「　　　　　　　　　　　」[rf]",
+      "Pt-br": "\"                      \"[rf]",
+      "id": 27083,
+      "epk_id": "32202",
+      "label": "$$$message_0254_0020_0000$$$"
+    },
+    {
+      "en": "I can't hear her voice very well.[lr]",
+      "jp": "　彼女の声がよく聞こえない。[lr]",
+      "Pt-br": "Não consigo ouvir muito bem a voz dela.[lr]",
+      "id": 27084,
+      "epk_id": "32203",
+      "label": "$$$message_0254_0021_0000$$$"
+    },
+    {
+      "en": "I don't know what I was supposed to do, nor what I forgot.[lr]",
+      "jp": "　何をするべきだったのか、何を失念していたのかが分からない。[lr]",
+      "Pt-br": "Não sei o que eu deveria ter feito, nem do que eu esqueci.[lr]",
+      "id": 27085,
+      "epk_id": "32204",
+      "label": "$$$message_0254_0021_0001$$$"
+    },
+    {
+      "en": "My consciousness drifts away.[lr]",
+      "jp": "　意識が遠のく。[lr]",
+      "Pt-br": "A minha consciência vai se esvaindo.[lr]",
+      "id": 27086,
+      "epk_id": "32205",
+      "label": "$$$message_0254_0021_0002$$$"
+    },
+    {
+      "en": "I've fallen before I could make it to the fourth day.[lr]",
+      "jp": "　四日目を迎えるまでもなく脱落する。[lr]",
+      "Pt-br": "Eu caí antes mesmo de chegar ao quarto dia.[lr]",
+      "id": 27087,
+      "epk_id": "32206",
+      "label": "$$$message_0254_0021_0003$$$"
+    },
+    {
+      "en": "I'm lacking something.[lr]",
+      "jp": "　まだ足りなかった。[lr]",
+      "Pt-br": "Está me faltando alguma coisa.[lr]",
+      "id": 27088,
+      "epk_id": "32207",
+      "label": "$$$message_0254_0021_0004$$$"
+    },
+    {
+      "en": "Most likely, I couldn't use it because I never tried it even once, even though I should've known how all along.",
+      "jp": "　おそらく、当然のように知っていながら一度も試していなかったので使えなかった。",
+      "Pt-br": "O mais provável é que eu não consegui usá-lo porque nunca tentei nem uma vez sequer, mesmo que eu devesse saber como desde o início.",
+      "id": 27089,
+      "epk_id": "32208",
+      "label": "$$$message_0254_0021_0005$$$"
+    },
+    {
+      "en": "Then...where should I have gone to get a better grasp on Shirou Emiya's abilities?",
+      "jp": "　さて[line len=3]俺は何処に行けば、衛宮士郎の基本性能を把握できるだろう……？",
+      "Pt-br": "Então... aonde eu deveria ter ido para ter uma noção melhor das habilidades de Emiya Shirou?",
+      "id": 27090,
+      "epk_id": "32209",
+      "label": "$$$message_0254_0022_0000$$$"
+    }
+  ]
+}

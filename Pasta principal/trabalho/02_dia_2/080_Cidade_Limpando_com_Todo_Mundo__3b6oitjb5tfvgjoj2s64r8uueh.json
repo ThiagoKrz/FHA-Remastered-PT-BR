@@ -1,0 +1,1840 @@
+{
+  "cena": "3b6oitjb5tfvgjoj2s64r8uueh",
+  "titulo": "Cidade: Limpando com Todo Mundo",
+  "rota": "Dia 2",
+  "arquivo": "3b6oitjb5tfvgjoj2s64r8uueh.epk_dec",
+  "linhas": [
+    {
+      "en": "[line len=3]It's revenge.[lr]",
+      "jp": "ã[line len=3]ãªãã³ã¸ã§ããã[lr]",
+      "Pt-br": "[line len=3]É uma vingança.[lr]",
+      "id": 12188,
+      "epk_id": "13721",
+      "label": "$$$message_0110_0000_0000$$$"
+    },
+    {
+      "en": "The Tohsaka house cleaning strategy that I couldn't accomplish by myself, the long-awaited revenge...!",
+      "jp": "ããã¤ã¦ä¸äººã§ã¯æãå¾ãªãã£ãé åé¸æ¸\næä½æ¦ãæºãæãã¦ã®ãªãã³ã¸ã§ããâ¦â¦ï¼",
+      "Pt-br": "A estratégia de limpeza da casa da Tohsaka que eu não consegui concluir sozinho, a tão esperada vingança...!",
+      "id": 12189,
+      "epk_id": "13722",
+      "label": "$$$message_0110_0000_0001$$$"
+    },
+    {
+      "en": "\"All right, [wvl][shock vmax=20 time=300 count=-3][wshock canskip=0]four people is perfect.\"[lr]",
+      "jp": "ãããã[wvl][shock vmax=20 time=300 count=-3][wshock canskip=0]åäººãã¼ãã£ã¼ãªãå®ç§ã ã[lr]",
+      "Pt-br": "\"Tudo bem, [wvl][shock vmax=20 time=300 count=-3][wshock canskip=0]quatro pessoas é perfeito.\"[lr]",
+      "id": 12190,
+      "epk_id": "13723",
+      "label": "$$$message_0110_0001_0000$$$"
+    },
+    {
+      "en": "\"There's two soldiers in the advance guard, and two mages in the rearguard.\"[lr]",
+      "jp": "ãåè¡ã«æ¦å£«ãäºåãå¾è¡ã«é­è¡å¸«äºåã§ããã[lr]",
+      "Pt-br": "\"Temos dois soldados na vanguarda, e duas magas na retaguarda.\"[lr]",
+      "id": 12191,
+      "epk_id": "13724",
+      "label": "$$$message_0110_0001_0001$$$"
+    },
+    {
+      "en": "\"This is like an attack formation. I wonder if I should've been a cleric...\"",
+      "jp": "ãæ»æé¢ã«çå¯ã£ãç·¨æã§ãã­ãããããèè·è\nã ã£ããããã£ãããªãâ¦â¦ã",
+      "Pt-br": "\"Isso parece uma formação de ataque. Me pergunto se eu deveria ter sido um clérigo...\"",
+      "id": 12192,
+      "epk_id": "13725",
+      "label": "$$$message_0110_0001_0002$$$"
+    },
+    {
+      "en": "\"Do not worry. There is Rider and I.[lr]",
+      "jp": "ããå¿é\nãªããç§ã¨ã©ã¤ãã¼ãããã®ã§ãã[lr]",
+      "Pt-br": "\"Não se preocupe. Você tem a mim e à Rider.[lr]",
+      "id": 12193,
+      "epk_id": "13726",
+      "label": "$$$message_0110_0002_0000$$$"
+    },
+    {
+      "en": "We will not let you or Shirou be in danger.\"",
+      "jp": "ãã·ã­ã¦ãæ¡ãå±éºã«æããã¨ã¯ããã¾ããã",
+      "Pt-br": "Não deixaremos que você ou o Shirou corram perigo.\"",
+      "id": 12194,
+      "epk_id": "13727",
+      "label": "$$$message_0110_0002_0001$$$"
+    },
+    {
+      "en": "They're talking as if we're going on a journey instead of cleaning.[lr]",
+      "jp": "ãæé¤ã¨ããããã¯åéºããããã®ãããªç©è¨ãã§ããã[lr]",
+      "Pt-br": "Elas estão falando como se fôssemos embarcar numa jornada em vez de limparmos a casa.[lr]",
+      "id": 12195,
+      "epk_id": "13728",
+      "label": "$$$message_0110_0003_0000$$$"
+    },
+    {
+      "en": "As we're talking about such things, I start to feel like this house is some magic castle where evil spirits from mountains and rivers dwell.",
+      "jp": "ããããªã³ããè©±ãã¦ããã¨ããã®å®¶ã[ruby text=ã¡ã¿ããããã char=4]é­é­\né­é­ã®å®¿ãé­åã®ããã«æãã¦ãã¾ãã",
+      "Pt-br": "Enquanto falamos sobre tais coisas, eu começo a sentir como se esta casa fosse algum tipo de castelo mágico onde os espíritos malignos das montanhas e rios habitam.",
+      "id": 12196,
+      "epk_id": "13729",
+      "label": "$$$message_0110_0003_0001$$$"
+    },
+    {
+      "en": "\"However, this aura... [cacheimage storage=ã»ã¤ãã¼ç§æ13a(ä¸­)][wvl canskip=0 time=400][chgfg textoff=0 storage=ã»ã¤ãã¼ç§æ13a(ä¸­) time=300]It reminds me of my past when I fought evil spirits that haunted old castles. It makes me tingle with excitement.\"[lr]",
+      "jp": "ãããããã®éæ°â¦â¦[cacheimage storage=ã»ã¤ãã¼ç§æ13a(ä¸­)][wvl canskip=0 time=400][chgfg textoff=0 storage=ã»ã¤ãã¼ç§æ13a(ä¸­) time=300]ãã¤ã¦å¤åã«å·£ããæªç°ã¨æ¦ã£ãéå»ãæãåºãããããè¡ãé¨ãã¾ãã[lr]",
+      "Pt-br": "\"Contudo, esta aura... [cacheimage storage=セイバー私服13a(中)][wvl canskip=0 time=400][chgfg textoff=0 storage=セイバー私服13a(中) time=300]Ela me lembra do meu passado quando enfrentei espíritos malignos que assombravam castelos antigos. Isso me dá formigamentos de empolgação.\"[lr]",
+      "id": 12197,
+      "epk_id": "13730",
+      "label": "$$$message_0110_0004_0000$$$"
+    },
+    {
+      "en": "\"...It is rare for you to be this fired up.[lr]",
+      "jp": "ãâ¦â¦çããæ°ãåãã¾ãã­ã[lr]",
+      "Pt-br": "\"...É raro ver você tão animada.[lr]",
+      "id": 12198,
+      "epk_id": "13731",
+      "label": "$$$message_0110_0004_0001$$$"
+    },
+    {
+      "en": "I also felt something nostalgic from this mansion like the home that I am accustomed to.\"[lr]",
+      "jp": "ãç§ãããã®é¤¨ã«ã¯ä½ã¿æ\n£ããå®å®¶ã®ãããªæããããæãã¦ãã¾ããã[lr]",
+      "Pt-br": "Eu também senti algo nostálgico nesta mansão, quase como a casa com a qual estou acostumada.\"[lr]",
+      "id": 12199,
+      "epk_id": "13732",
+      "label": "$$$message_0110_0004_0002$$$"
+    },
+    {
+      "en": "\"But monsters living in the Tohsaka house[line len=2]\"[lr]",
+      "jp": "ãã§ãé åé¸ã«ã¯æªç©ãªãã¦ãã[lr]",
+      "Pt-br": "\"Mas monstros vivendo na casa dos Tohsaka[line len=2]\"[lr]",
+      "id": 12200,
+      "epk_id": "13733",
+      "label": "$$$message_0110_0004_0003$$$"
+    },
+    {
+      "en": "\"...No, there's gotta be some, like one in particular.\"",
+      "jp": "ãâ¦â¦ãããããã ããã¨ã£ã¦ããã®ãä¸äººã",
+      "Pt-br": "\"...Não, deve ter alguns, em especial uma em específico.\"",
+      "id": 12201,
+      "epk_id": "13734",
+      "label": "$$$message_0110_0004_0004$$$"
+    },
+    {
+      "en": "...It's starting to seem more and more like a dungeon.[lr]",
+      "jp": "ãâ¦â¦ãããããã³ã¸ã§ã³ãã¿ã¦ãããªã[lr]",
+      "Pt-br": "...Está começando a parecer cada vez mais com uma masmorra.[lr]",
+      "id": 12202,
+      "epk_id": "13735",
+      "label": "$$$message_0110_0005_0000$$$"
+    },
+    {
+      "en": "Like a dragon guarding treasure, or a giant, or any demon on that level.",
+      "jp": "ããããããå®ãå®ãç«ã¨ãå·¨äººã¨ããããããã¯ã©ã¹ã®æªé­ã ãã",
+      "Pt-br": "Como um dragão guardando um tesouro, ou um gigante, ou qualquer demônio desse nível.",
+      "id": 12203,
+      "epk_id": "13736",
+      "label": "$$$message_0110_0005_0001$$$"
+    },
+    {
+      "en": "\"...Now, there is no need to have a long chat here.\"[lr]",
+      "jp": "ãâ¦â¦ãã¦ãããã§é·è©±ãããäºãããã¾ããã[lr]",
+      "Pt-br": "\"...Bem, não há necessidade de termos uma longa conversa aqui.\"[lr]",
+      "id": 12204,
+      "epk_id": "13737",
+      "label": "$$$message_0110_0006_0000$$$"
+    },
+    {
+      "en": "\"Oh, I have the key.[lr]",
+      "jp": "ãããéµã¯ããããé ãã£ã¦ã¾ãã[lr]",
+      "Pt-br": "\"Ah, eu tenho a chave.[lr]",
+      "id": 12205,
+      "epk_id": "13738",
+      "label": "$$$message_0110_0006_0001$$$"
+    },
+    {
+      "en": "[chgfg storage=æ¡ç§æ08d(ä¸­) textoff=0 time=300]Umm, to break the seal...\"",
+      "jp": "ã[chgfg storage=æ¡ç§æ08d(ä¸­) textoff=0 time=300]ãã¼ã£ã¨ãéå°ã¯â¦â¦ã",
+      "Pt-br": "[chgfg storage=桜私服08d(中) textoff=0 time=300]Um, para quebrar o selo...\"",
+      "id": 12206,
+      "epk_id": "13739",
+      "label": "$$$message_0110_0006_0002$$$"
+    },
+    {
+      "en": "\"Sakura, calm down and do as I taught you. It should not be something that difficult for you now.\"[lr]",
+      "jp": "ããµã¯ã©ãè½ã¡çãã¦æããéãã«ãä»ã®è²´å¥³ãªãããé£ããäºã§ã¯ããã¾ããã[lr]",
+      "Pt-br": "\"Sakura, acalme-se e faça como eu lhe ensinei. Não deve ser algo tão difícil para você agora.\"[lr]",
+      "id": 12207,
+      "epk_id": "13740",
+      "label": "$$$message_0110_0007_0000$$$"
+    },
+    {
+      "en": "\"Y-Yeah, I'm okay...!\"",
+      "jp": "ãããããã£ãã ããããã¶â¦â¦ï¼ã",
+      "Pt-br": "\"S-Sim, estou bem...!\"",
+      "id": 12208,
+      "epk_id": "13741",
+      "label": "$$$message_0110_0007_0001$$$"
+    },
+    {
+      "en": "\"There it goes. Let's go, Shirou.\"",
+      "jp": "ãéãã¾ããã­ãè¡ãã¾ããããã·ã­ã¦ã",
+      "Pt-br": "\"Aí está. Vamos, Shirou.\"",
+      "id": 12209,
+      "epk_id": "13742",
+      "label": "$$$message_0110_0008_0000$$$"
+    },
+    {
+      "en": "\"Go ahead, Sakura.\"[lr]",
+      "jp": "ããå\nã«ã©ããããµã¯ã©ã[lr]",
+      "Pt-br": "\"Pode ir na frente, Sakura.\"[lr]",
+      "id": 12210,
+      "epk_id": "13743",
+      "label": "$$$message_0110_0009_0000$$$"
+    },
+    {
+      "en": "Rider pushes Sakura's shoulders.[lr]",
+      "jp": "ããã£ã¨æ¡ã®è©ãæ¼ãã©ã¤ãã¼ã[lr]",
+      "Pt-br": "A Rider empurra a Sakura pelos ombros.[lr]",
+      "id": 12211,
+      "epk_id": "13744",
+      "label": "$$$message_0110_0009_0001$$$"
+    },
+    {
+      "en": "\"Yes, um... [cacheimage storage=æ¡ç§æ08c(é )][wvl][chgfg storage=æ¡ç§æ08c(é ) pos=rc time=300 textoff=0]E-Excuse me.\"",
+      "jp": "ãããããã®â¦â¦[cacheimage storage=æ¡ç§æ08c(é )][wvl][chgfg storage=æ¡ç§æ08c(é ) pos=rc time=300 textoff=0]ãããããã¾ãã¾ãã",
+      "Pt-br": "\"Sim, hum... [cacheimage storage=桜私服08c(遠)][wvl][chgfg storage=桜私服08c(遠) pos=rc time=300 textoff=0]C-Com licença.\"",
+      "id": 12212,
+      "epk_id": "13745",
+      "label": "$$$message_0110_0009_0002$$$"
+    },
+    {
+      "en": "\"Do you not mean, 'I'm back home'?\"[lr]",
+      "jp": "ããã ãã¾ãã§ã¯ãªãã®ã§ããï¼ã[lr]",
+      "Pt-br": "\"Você não quis dizer: 'Cheguei'?\"[lr]",
+      "id": 12213,
+      "epk_id": "13746",
+      "label": "$$$message_0110_0010_0000$$$"
+    },
+    {
+      "en": "\"I was thinking that is only for Senpai's home.\"[lr]",
+      "jp": "ããã ãã¾ã£ã¦ããã®ã¯å\nè¼©ã®ãå®¶ã ãããªãã£ã¦ã[lr]",
+      "Pt-br": "\"Eu estava pensando que isso se aplica apenas à casa do Senpai.\"[lr]",
+      "id": 12214,
+      "epk_id": "13747",
+      "label": "$$$message_0110_0010_0001$$$"
+    },
+    {
+      "en": "\"[line len=3]Yes, then I shall also excuse myself.[lr]",
+      "jp": "ã[line len=3]ããã§ãã­ãããã§ã¯ç§ããéªé­ãã¾ãã[lr]",
+      "Pt-br": "\"[line len=3]Sim, então eu também pedirei licença.[lr]",
+      "id": 12215,
+      "epk_id": "13748",
+      "label": "$$$message_0110_0010_0002$$$"
+    },
+    {
+      "en": "...[chgfg storage=ã©ã¤ãã¼ç§æ01a(ä¸­) time=300]?\"[lr]",
+      "jp": "ãâ¦â¦â¦â¦[chgfg storage=ã©ã¤ãã¼ç§æ01a(ä¸­) time=300]ï¼ã[lr]",
+      "Pt-br": "...[chgfg storage=ライダー私服01a(中) time=300]?\"[lr]",
+      "id": 12216,
+      "epk_id": "13749",
+      "label": "$$$message_0110_0010_0003$$$"
+    },
+    {
+      "en": "Rider who came in last looks at the entrance.",
+      "jp": "ãä¸çªæå¾ã«å\n¥ã£ã¦ããã©ã¤ãã¼ããçé¢ãçºããã",
+      "Pt-br": "Rider, que entrou por último, olha para a entrada.",
+      "id": 12217,
+      "epk_id": "13750",
+      "label": "$$$message_0110_0010_0004$$$"
+    },
+    {
+      "en": "\"Oh... Senpai, there are signs that the door has been fixed. I feel like the tiles seem to be dirty too...?\"[lr]",
+      "jp": "ãããâ¦â¦å\nè¼©ãæã«ä¿®çããè·¡ããããã§ããã©ãã¿ã¤ã«ããªããæ±ãã¦ãããããªâ¦â¦ï¼ã[lr]",
+      "Pt-br": "\"Oh... Senpai, dá pra ver que a porta foi consertada. Os azulejos também estão um pouco sujos...?\"[lr]",
+      "id": 12218,
+      "epk_id": "13751",
+      "label": "$$$message_0110_0011_0000$$$"
+    },
+    {
+      "en": "\"Hm? Yeah, isn't it fine if it's fixed?[lr]",
+      "jp": "ããï¼ããããç´ã£ã¦ããã ããããããããªãã®ãï¼[lr]",
+      "Pt-br": "\"Hum? Sim, mas está tudo bem desde que tenha sido consertada, não é?[lr]",
+      "id": 12219,
+      "epk_id": "13752",
+      "label": "$$$message_0110_0011_0001$$$"
+    },
+    {
+      "en": "We're going to clean the tiles, so it's good timing.\"[lr]",
+      "jp": "ãã¿ã¤ã«ã®æ¹ã¯ããããæé¤ãããã ããä¸åº¦ãããã[lr]",
+      "Pt-br": "Nós vamos limpar os azulejos, então foi uma boa hora.\"[lr]",
+      "id": 12220,
+      "epk_id": "13753",
+      "label": "$$$message_0110_0011_0002$$$"
+    },
+    {
+      "en": "The tiles at the entrance have slight speckles of milk.",
+      "jp": "ãçé¢ã®ã¿ã¤ã«ã«ã¯ããããã«ãã«ã¯ã®[ruby text=ãã¨ o2o=1]æç¹ããã£ãã",
+      "Pt-br": "Os azulejos da entrada têm pequenas manchas de leite.",
+      "id": 12221,
+      "epk_id": "13754",
+      "label": "$$$message_0110_0011_0003$$$"
+    },
+    {
+      "en": "\"Oh, then I will clean the kitchen.\"",
+      "jp": "ãããããããããããå°æã®æ´çãã",
+      "Pt-br": "\"Ah, então eu vou limpar a cozinha.\"",
+      "id": 12222,
+      "epk_id": "13755",
+      "label": "$$$message_0110_0012_0000$$$"
+    },
+    {
+      "en": "\"Then we shall do some physical labor.\"[lr]",
+      "jp": "ãã§ã¯ç§ãã¡ã¯åä»äºã§ãã[lr]",
+      "Pt-br": "\"Então faremos um trabalho braçal.\"[lr]",
+      "id": 12223,
+      "epk_id": "13756",
+      "label": "$$$message_0110_0013_0000$$$"
+    },
+    {
+      "en": "Rider takes out an apron.[lr]",
+      "jp": "ãã¨ãã­ã³ãåãåºãã©ã¤ãã¼ã[lr]",
+      "Pt-br": "A Rider pega um avental.[lr]",
+      "id": 12224,
+      "epk_id": "13757",
+      "label": "$$$message_0110_0013_0001$$$"
+    },
+    {
+      "en": "\"Thanks. You'll get dirty from the dust so you should change too, Saber.\"[lr]",
+      "jp": "ããããããåã§æ±ããããã»ã¤ãã¼ãçæ¿ããæ¹ãããã[lr]",
+      "Pt-br": "\"Obrigado. Você vai ficar suja de poeira, então deveria se trocar também, Saber.\"[lr]",
+      "id": 12225,
+      "epk_id": "13758",
+      "label": "$$$message_0110_0013_0002$$$"
+    },
+    {
+      "en": "\"Yes, then I shall get ready over there.\"",
+      "jp": "ããããã§ã¯ãã¡ãã§ç¨æãã",
+      "Pt-br": "\"Sim, então me prepararei logo ali.\"",
+      "id": 12226,
+      "epk_id": "13759",
+      "label": "$$$message_0110_0013_0003$$$"
+    },
+    {
+      "en": "...All right.[lr]",
+      "jp": "ãâ¦â¦ãã¦ã[lr]",
+      "Pt-br": "...Tudo bem.[lr]",
+      "id": 12227,
+      "epk_id": "13760",
+      "label": "$$$message_0110_0014_0000$$$"
+    },
+    {
+      "en": "We're cleaning the Tohsaka house that's this big. Even if we have four people, we still have to roll up our sleeves.[lr]",
+      "jp": "ãããã ãåºãé åé¸ã®æé¤ã ãåäººãããã¨ãããæ°åããããã¦ãããªãã¨ã[lr]",
+      "Pt-br": "Nós vamos limpar a casa dos Tohsaka, que é enorme. Mesmo com quatro pessoas, ainda temos que arregaçar as mangas.[lr]",
+      "id": 12228,
+      "epk_id": "13761",
+      "label": "$$$message_0110_0014_0001$$$"
+    },
+    {
+      "en": "\"[line len=3]Thank you for waiting.[lr]",
+      "jp": "ã[line len=3]ãå¾\nãããã¾ããã[lr]",
+      "Pt-br": "\"[line len=3]Obrigada por aguardar.[lr]",
+      "id": 12229,
+      "epk_id": "13762",
+      "label": "$$$message_0110_0014_0002$$$"
+    },
+    {
+      "en": "Then, where shall we start from?\"",
+      "jp": "ãã§ã¯ãã©ãããå§ãã¾ããããã",
+      "Pt-br": "Então, por onde começaremos?\"",
+      "id": 12230,
+      "epk_id": "13763",
+      "label": "$$$message_0110_0014_0003$$$"
+    },
+    {
+      "en": "\"...Well, we're done with our skit of exploring the magic castle.\"[lr]",
+      "jp": "ãâ¦â¦ãããé­åæ¢æ¤ãã±ã¯ããçµãã£ã¦ãããã[lr]",
+      "Pt-br": "\"...Bem, terminamos a nossa esquete de explorar o castelo mágico.\"[lr]",
+      "id": 12231,
+      "epk_id": "13764",
+      "label": "$$$message_0110_0015_0000$$$"
+    },
+    {
+      "en": "\"Is there a custom of arming oneself up before cleaning in ancient England?\"[lr]",
+      "jp": "ãå¤ã®è±å½ã§ã¯ãæ­¦è£\nãã¦æé¤ãããé¢¨ç¿ã§ãããã®ã§ããï¼ã[lr]",
+      "Pt-br": "\"Há algum costume de se armar antes da faxina na Inglaterra antiga?\"[lr]",
+      "id": 12232,
+      "epk_id": "13765",
+      "label": "$$$message_0110_0015_0001$$$"
+    },
+    {
+      "en": "\"No, this is an admonition towards myself.[lr]",
+      "jp": "ããããããã¯å·±ã¸ã®è¨æã§ãã[lr]",
+      "Pt-br": "\"Não, isso é uma advertência voltada para mim mesma.[lr]",
+      "id": 12233,
+      "epk_id": "13766",
+      "label": "$$$message_0110_0015_0002$$$"
+    },
+    {
+      "en": "This is a mage's workshop, so we do not know what kind of danger is lurking here.[lr]",
+      "jp": "ãããã¯é­è¡å¸«ã®å·¥æ¿ãã©ã®ãããªå±éºãæ½ãã§ãããç¥ãããã®ã§ã¯ããã¾ããã[lr]",
+      "Pt-br": "Esta é a oficina de um mago, então não sabemos que tipo de perigo se esconde aqui.[lr]",
+      "id": 12234,
+      "epk_id": "13767",
+      "label": "$$$message_0110_0015_0003$$$"
+    },
+    {
+      "en": "Once upon a time, I had to pay for it at my guardian's workshop. [cacheimage storage=ã»ã¤ãã¼é§15a(ä¸­)][wvl canskip=0 time=300][chgfg time=300 storage=ã»ã¤ãã¼é§15a(ä¸­)]Ever since then, I have taken the lesson to heart.\"",
+      "jp": "ããã¤ã¦ç§ã¯ãç§ã®å¾è¦äººã®å·¥æ¿ã§é«ãææ¥­æãæ¯æãã¾ããã[cacheimage storage=ã»ã¤ãã¼é§15a(ä¸­)][wvl canskip=0 time=300][chgfg time=300 storage=ã»ã¤ãã¼é§15a(ä¸­)]ä»¥æ¥ããã®æè¨ãå¿ã«å»ãã ã®ã§ãã",
+      "Pt-br": "Era uma vez, tive que pagar pelo meu erro na oficina de um Guardião. [cacheimage storage=セイバー鎧15a(中)][wvl canskip=0 time=300][chgfg time=300 storage=セイバー鎧15a(中)]Desde então, eu levo essa lição no coração.\"",
+      "id": 12235,
+      "epk_id": "13768",
+      "label": "$$$message_0110_0015_0004$$$"
+    },
+    {
+      "en": "I wonder how much Saber had to pay for her to become this fully armed... She must've gone through a lot.[lr]",
+      "jp": "ãã»ã¤ãã¼ããã¦å®å\n¨æ­¦è£\nãããç¨ã®ææ¥­æãâ¦â¦ãã»ã©ã¨ãã§ããªãç®ã«ãã£ãã®ã ããã[lr]",
+      "Pt-br": "Eu me pergunto o quanto a Saber teve que pagar para ficar assim tão armada... Ela deve ter passado por poucas e boas.[lr]",
+      "id": 12236,
+      "epk_id": "13769",
+      "label": "$$$message_0110_0016_0000$$$"
+    },
+    {
+      "en": "\"Also, to not steal any food no matter what.[lr]",
+      "jp": "ãããã¨ãçµ¶å¯¾ã«ã¤ã¾ã¿é£ãã¯ããªãããã«ã¨ã[lr]",
+      "Pt-br": "\"E também, de nunca roubar comida, aconteça o que acontecer.[lr]",
+      "id": 12237,
+      "epk_id": "13770",
+      "label": "$$$message_0110_0016_0001$$$"
+    },
+    {
+      "en": "The moment I ate, I prepared myself for death when not water torture but syrup torture started.\"[lr]",
+      "jp": "ãé£ã¹ãç¬éãæ°´è²¬ããªãã¬ã·ã­ããè²¬ããå§ã¾ã£ãæã¯ç§ãæ­»ãè¦æãã¾ããã[lr]",
+      "Pt-br": "No momento em que eu comia, eu me preparava para a morte não com a tortura da água, mas a tortura do xarope.\"[lr]",
+      "id": 12238,
+      "epk_id": "13771",
+      "label": "$$$message_0110_0016_0002$$$"
+    },
+    {
+      "en": "\"...You brought that on yourself.\"",
+      "jp": "ãâ¦â¦ããã¯èªæ¥­èªå¾ã§ãã",
+      "Pt-br": "\"...Você procurou por isso.\"",
+      "id": 12239,
+      "epk_id": "13772",
+      "label": "$$$message_0110_0016_0003$$$"
+    },
+    {
+      "en": "\"...Shirou.\"[lr]",
+      "jp": "ãâ¦â¦â¦å£«éã[lr]",
+      "Pt-br": "\"...Shirou.\"[lr]",
+      "id": 12240,
+      "epk_id": "13773",
+      "label": "$$$message_0110_0017_0000$$$"
+    },
+    {
+      "en": "Rider brings her lips to my ear and whispers.[lr]",
+      "jp": "ãã©ã¤ãã¼ãè³å\nã«å£ãå¯ãã¦ãåãã[lr]",
+      "Pt-br": "A Rider encosta os lábios na minha orelha e sussurra.[lr]",
+      "id": 12241,
+      "epk_id": "13774",
+      "label": "$$$message_0110_0017_0001$$$"
+    },
+    {
+      "en": "\"What, Rider?\"[lr]",
+      "jp": "ããªãã ãã©ã¤ãã¼ã[lr]",
+      "Pt-br": "\"O que foi, Rider?\"[lr]",
+      "id": 12242,
+      "epk_id": "13775",
+      "label": "$$$message_0110_0017_0002$$$"
+    },
+    {
+      "en": "\"If Saber loiters around the mansion, then she may break the furniture.\"[lr]",
+      "jp": "ããã®ã»ã¤ãã¼ãå±æ·ã®ä¸­ãå¾å¾ããã°ãèª¿åº¦ãå£ããã­ã¾ããã[lr]",
+      "Pt-br": "\"Se a Saber ficar perambulando pela mansão, ela pode acabar quebrando os móveis.\"[lr]",
+      "id": 12243,
+      "epk_id": "13776",
+      "label": "$$$message_0110_0017_0003$$$"
+    },
+    {
+      "en": "\"Yeah, the one that paid for wandering about inside the workshop might've been the court mage.\"",
+      "jp": "ããããå·¥æ¿ã®ä¸­ã[ruby text=ããã¤ char=2]å½·å¾¨ããã¦é«ãææ¥­æãæã£ãã®ã¯ãå®®å»·é­è¡å¸«ã®æ¹ã ã£ãã®ãããªã",
+      "Pt-br": "\"É, aquele que pagou o pato por perambular pela oficina deve ter sido o mago da corte.\"",
+      "id": 12244,
+      "epk_id": "13777",
+      "label": "$$$message_0110_0017_0004$$$"
+    },
+    {
+      "en": "\"...Oh, hey Saber, hold on.\"[lr]",
+      "jp": "ãâ¦â¦ãã¼ãããããã»ã¤ãã¼ãã¡ãã£ã¨å¾\nã£ãã[lr]",
+      "Pt-br": "\"...Ah, ei Saber, espera aí.\"[lr]",
+      "id": 12245,
+      "epk_id": "13778",
+      "label": "$$$message_0110_0018_0000$$$"
+    },
+    {
+      "en": "\"What is it?\"[lr]",
+      "jp": "ããªãã§ãããï¼ã[lr]",
+      "Pt-br": "\"O que foi?\"[lr]",
+      "id": 12246,
+      "epk_id": "13779",
+      "label": "$$$message_0110_0018_0001$$$"
+    },
+    {
+      "en": "\"About how we divide up the chores, I want to ask you to clean the basement.[lr]",
+      "jp": "ãæé¤ã®æåãã ãã©ãã»ã¤ãã¼ã«ã¯å°ä¸å®¤ãé ¼ã¿ããã[lr]",
+      "Pt-br": "\"Sobre a forma como vamos dividir as tarefas, eu queria pedir para você limpar o porão.[lr]",
+      "id": 12247,
+      "epk_id": "13780",
+      "label": "$$$message_0110_0018_0002$$$"
+    },
+    {
+      "en": "Rider and I will clean the first floor.\"[lr]",
+      "jp": "ãã©ã¤ãã¼ã¨ä¿ºã¯ä¸éãçã¥ããããã[lr]",
+      "Pt-br": "A Rider e eu limparemos o primeiro andar.\"[lr]",
+      "id": 12248,
+      "epk_id": "13781",
+      "label": "$$$message_0110_0018_0003$$$"
+    },
+    {
+      "en": "\"Understood. I shall obey your orders.\"",
+      "jp": "ããããã¾ãããã·ã­ã¦ã®æç¤ºã«å¾ãã¾ãã",
+      "Pt-br": "\"Compreendido. Eu obedecerei às suas ordens.\"",
+      "id": 12249,
+      "epk_id": "13782",
+      "label": "$$$message_0110_0018_0004$$$"
+    },
+    {
+      "en": "...All right. There would be nothing to break in a place that's made of stone like that.[lr]",
+      "jp": "ãâ¦â¦ãããç³é ãã®ç©ç½®ã¿ãããªããããªããå£ããã®ããªãã ããã[lr]",
+      "Pt-br": "...Muito bem. Não haveria nada para ela quebrar em um lugar feito de pedra como aquele.[lr]",
+      "id": 12250,
+      "epk_id": "13783",
+      "label": "$$$message_0110_0019_0000$$$"
+    },
+    {
+      "en": "Rider and I discreetly sigh in relief.",
+      "jp": "ãã©ã¤ãã¼ã¨ãµãããå¯ãã«å®å µã®åæ¯ãæ¼ããã",
+      "Pt-br": "A Rider e eu soltamos um suspiro discreto de alívio.",
+      "id": 12251,
+      "epk_id": "13784",
+      "label": "$$$message_0110_0019_0001$$$"
+    },
+    {
+      "en": "\"We should probably move this over to here.\"[lr]",
+      "jp": "ãããã¯ãã¡ãã«åãããæ¹ãè¯ãã§ãã­ã[lr]",
+      "Pt-br": "\"É melhor movermos isso para cá.\"[lr]",
+      "id": 12252,
+      "epk_id": "13785",
+      "label": "$$$message_0110_0020_0000$$$"
+    },
+    {
+      "en": "\"Got it, then can you take it over[line len=3]there?\"[lr]",
+      "jp": "ãããã£ããããããã£ã¡æã£ã¦[line len=3]ã£ã¦ã[lr]",
+      "Pt-br": "\"Entendido, então você poderia levar isso para[line len=3]lá?\"[lr]",
+      "id": 12253,
+      "epk_id": "13786",
+      "label": "$$$message_0110_0020_0001$$$"
+    },
+    {
+      "en": "She picks up a sofa that seats three people easily like a big prop for a play.",
+      "jp": "ãä¸äººããã®ã½ãã¡ã¼ããèå°ã®å¤§éå\n·ã®ããã«è»½ã\nã¨æã¡ä¸ããããã",
+      "Pt-br": "Ela pega um sofá que acomoda facilmente três pessoas, como se fosse um adereço grande para uma peça de teatro.",
+      "id": 12254,
+      "epk_id": "13787",
+      "label": "$$$message_0110_0020_0002$$$"
+    },
+    {
+      "en": "\"It helps to have you help out, Rider.\"[lr]",
+      "jp": "ãã©ã¤ãã¼ããã¦ãããã¨å©ãããªã[lr]",
+      "Pt-br": "\"É de grande ajuda ter a sua ajuda, Rider.\"[lr]",
+      "id": 12255,
+      "epk_id": "13788",
+      "label": "$$$message_0110_0021_0000$$$"
+    },
+    {
+      "en": "\"...I am a big woman that has a lot of strength after all.\"[lr]",
+      "jp": "ãâ¦â¦åæã¡ã®å¤§å¥³ã§ããããç§ã¯ã[lr]",
+      "Pt-br": "\"...Afinal, eu sou uma mulher grande que tem muita força.\"[lr]",
+      "id": 12256,
+      "epk_id": "13789",
+      "label": "$$$message_0110_0021_0001$$$"
+    },
+    {
+      "en": "\"Yeah, I appreciate that.[lr]",
+      "jp": "ãããããããããããããã[lr]",
+      "Pt-br": "\"Sim, eu agradeço por isso.[lr]",
+      "id": 12257,
+      "epk_id": "13790",
+      "label": "$$$message_0110_0021_0002$$$"
+    },
+    {
+      "en": "All right, [wvl][se storage=se676.wav]I think I'll do the floor.\"[lr]",
+      "jp": "ããã¦ã[wvl][se storage=se676.wav]ä¿ºã¯åºãããããªã[lr]",
+      "Pt-br": "Tudo bem, [wvl][se storage=se676.wav]acho que vou cuidar do chão.\"[lr]",
+      "id": 12258,
+      "epk_id": "13791",
+      "label": "$$$message_0110_0021_0003$$$"
+    },
+    {
+      "en": "\"Should I be cleaning the furniture with a cloth?\"",
+      "jp": "ãå®¶å\n·é¡ã¯éå·¾ããã§ããããï¼ã",
+      "Pt-br": "\"Devo limpar os móveis com um pano?\"",
+      "id": 12259,
+      "epk_id": "13792",
+      "label": "$$$message_0110_0021_0004$$$"
+    },
+    {
+      "en": "\"...I'm not sure. They all look like antiques, so let's ask Sakura about how we should handle the furnishings.\"[lr]",
+      "jp": "ãâ¦â¦ã©ãããªãã¿ããªã¢ã³ãã£ã¼ã¯ã£ã½ãããèª¿åº¦åã®æ±ãã¯æ¡ã«èãã¦ã¿ããã[lr]",
+      "Pt-br": "\"...Não tenho certeza. Todos eles parecem antiguidades, então vamos perguntar à Sakura como devemos lidar com os móveis.\"[lr]",
+      "id": 12260,
+      "epk_id": "13793",
+      "label": "$$$message_0110_0022_0000$$$"
+    },
+    {
+      "en": "\"Understood... [wvl][se storage=se677.wav]Also Shirou, what have you been scattering?\"[lr]",
+      "jp": "ãäºè§£ãã¾ããã[wvl][se storage=se677.wav]â¦â¦ããã¨ã·ã­ã¦ãããã»ã©ããä½ãæãã¦ããã®ã§ããï¼ã[lr]",
+      "Pt-br": "\"Entendido... [wvl][se storage=se677.wav]Ah e Shirou, o que você está espalhando por aí?\"[lr]",
+      "id": 12261,
+      "epk_id": "13794",
+      "label": "$$$message_0110_0022_0001$$$"
+    },
+    {
+      "en": "\"Used tea leaves.\"[lr]",
+      "jp": "ãåºæ¶¸ããã®ãè¶ã£èã ãã[lr]",
+      "Pt-br": "\"Folhas de chá usadas.\"[lr]",
+      "id": 12262,
+      "epk_id": "13795",
+      "label": "$$$message_0110_0022_0002$$$"
+    },
+    {
+      "en": "\"Tea leaves?\"",
+      "jp": "ããè¶ã£èï¼ã",
+      "Pt-br": "\"Folhas de chá?\"",
+      "id": 12263,
+      "epk_id": "13796",
+      "label": "$$$message_0110_0022_0003$$$"
+    },
+    {
+      "en": "\"Yeah, hair that falls onto the carpet is [wvl][se storage=se677.wav]hard to remove, right?\"[lr]",
+      "jp": "ãããã[ruby text=ãã\nããã char=2]çµ¨æ¯¯ã«è½ã¡ãé«ªã®æ¯ã£ã¦[wvl][se storage=se677.wav]ãªããªããããã«åããªãã ãã[lr]",
+      "Pt-br": "\"Sim, os cabelos que caem no tapete são [wvl][se storage=se677.wav]difíceis de remover, não são?\"[lr]",
+      "id": 12264,
+      "epk_id": "13797",
+      "label": "$$$message_0110_0023_0000$$$"
+    },
+    {
+      "en": "\"Yes.\"[lr]",
+      "jp": "ãã¯ãã[lr]",
+      "Pt-br": "\"Sim.\"[lr]",
+      "id": 12265,
+      "epk_id": "13798",
+      "label": "$$$message_0110_0023_0001$$$"
+    },
+    {
+      "en": "\"You scatter the dried tea leaves like this and suck those up with a vacuum.[wvs][sestop storage=se675.wav time=3000 nowait=1][lr]",
+      "jp": "ãããã§ååã«ä¹¾ããããè¶ã£èããããã¦æãã¦ããããæé¤æ©ã§å¸ãåã£ã¦ããã[wvs][sestop storage=se675.wav time=3000 nowait=1][lr]",
+      "Pt-br": "\"Você espalha as folhas de chá secas assim e as suga com o aspirador.[wvs][sestop storage=se675.wav time=3000 nowait=1][lr]",
+      "id": 12266,
+      "epk_id": "13799",
+      "label": "$$$message_0110_0023_0002$$$"
+    },
+    {
+      "en": "And... See? The hair will come off with the tea leaves, right?\"[lr]",
+      "jp": "ãããã¨â¦â¦ãªï¼ããè¶ã£èã¨ãã£ããã«é«ªã®æ¯ãåãã¦ãã ãã[lr]",
+      "Pt-br": "E... Viu? O cabelo vai sair junto com as folhas de chá, certo?\"[lr]",
+      "id": 12267,
+      "epk_id": "13800",
+      "label": "$$$message_0110_0023_0003$$$"
+    },
+    {
+      "en": "\"I see, that is some life wisdom.\"[wvs][sestop storage=se675.wav time=4000 nowait=1]",
+      "jp": "ããªãã»ã©ãçæ´»ã®ç¥æµã§ãã­ã[wvs][sestop storage=se675.wav time=4000 nowait=1]",
+      "Pt-br": "\"Entendo, essa é uma baita sabedoria de vida.\"[wvs][sestop storage=se675.wav time=4000 nowait=1]",
+      "id": 12268,
+      "epk_id": "13801",
+      "label": "$$$message_0110_0023_0004$$$"
+    },
+    {
+      "en": "Just like that, the cleaning moves along smoothly and peacefully in the living room.[lr]",
+      "jp": "ããããªæãã§ãå±\néã§ã¯å¹³ç©ãã¤ã¹ã ã¼ãºã«æé¤ãé²ãã§ããã[lr]",
+      "Pt-br": "Assim, a limpeza prossegue tranquilamente na sala de estar.[lr]",
+      "id": 12269,
+      "epk_id": "13802",
+      "label": "$$$message_0110_0024_0000$$$"
+    },
+    {
+      "en": "I can be at ease leaving the kitchen to Sakura.[lr]",
+      "jp": "ãå°æã¯æ¡ã«ä»»ãã¦ããã°å®å¿ã ããã[lr]",
+      "Pt-br": "Eu posso ficar tranquilo deixando a cozinha nas mãos da Sakura.[lr]",
+      "id": 12270,
+      "epk_id": "13803",
+      "label": "$$$message_0110_0024_0001$$$"
+    },
+    {
+      "en": "...So... All that's left is Saber who went to the basement, but...",
+      "jp": "ãâ¦â¦ã¨ãªãã¨â¦â¦å¾ã¯ãå°ä¸å®¤ã«è¡ã£ãã»ã¤ãã¼ãªã®ã ãâ¦â¦ã",
+      "Pt-br": "...Então... Tudo o que resta é a Saber que foi para o porão, mas...",
+      "id": 12271,
+      "epk_id": "13804",
+      "label": "$$$message_0110_0024_0002$$$"
+    },
+    {
+      "en": "\"...This is...[lr]",
+      "jp": "ãâ¦â¦ããã¯â¦â¦[lr]",
+      "Pt-br": "\"...Isto é...[lr]",
+      "id": 12272,
+      "epk_id": "13805",
+      "label": "$$$message_0110_0025_0000$$$"
+    },
+    {
+      "en": "...Yes, I have heard from Rin before. [wvs][sestop time=400 nowait=1][lr]",
+      "jp": "ãâ¦â¦ããã§ãã­ãåã«ä¸åº¦åã«èãã¾ããã[wvs][sestop time=400 nowait=1][lr]",
+      "Pt-br": "...Sim, já ouvi falar sobre isso com a Rin antes. [wvs][sestop time=400 nowait=1][lr]",
+      "id": 12273,
+      "epk_id": "13806",
+      "label": "$$$message_0110_0025_0001$$$"
+    },
+    {
+      "en": "That she tried to summon me here before the Holy Grail War started[line len=3]\"",
+      "jp": "ãèæ¯æ¦äºéå§åãããã§ç§ãå¬åãããã¨[line len=3]ã",
+      "Pt-br": "Sobre ela ter tentado me invocar aqui antes da Guerra do Santo Graal começar[line len=3]\"",
+      "id": 12274,
+      "epk_id": "13807",
+      "label": "$$$message_0110_0025_0002$$$"
+    },
+    {
+      "en": "\"However, Archer is the one that was summoned.[lr]",
+      "jp": "ãããããããã§å¼ã³åºãããã®ã¯ã¢ã¼ãã£ã¼ã ã£ãã[lr]",
+      "Pt-br": "\"Mas, quem acabou sendo invocado foi o Archer.[lr]",
+      "id": 12275,
+      "epk_id": "13808",
+      "label": "$$$message_0110_0026_0000$$$"
+    },
+    {
+      "en": "...I wonder what Rin used as a catalyst?\"",
+      "jp": "ãâ¦â¦åã¯ä½ãè§¦åªã«ããã®ã§ãããï¼ã",
+      "Pt-br": "...Me pergunto o que a Rin usou como um catalisador?\"",
+      "id": 12276,
+      "epk_id": "13809",
+      "label": "$$$message_0110_0026_0001$$$"
+    },
+    {
+      "en": "\"...???\"",
+      "jp": "ã[line len=6]ï¼ï¼ï¼ã",
+      "Pt-br": "\"...???\"",
+      "id": 12277,
+      "epk_id": "13810",
+      "label": "$$$message_0110_0027_0000$$$"
+    },
+    {
+      "en": "\"A dumbbell? A punching bag? An expander?[lr]",
+      "jp": "ããã³ãã«ï¼ããµã³ãããã°ï¼ãã¨ã­ã¹ãã³ãã¼ï¼[lr]",
+      "Pt-br": "\"Um halter? Um saco de pancadas? Um expansor?[lr]",
+      "id": 12278,
+      "epk_id": "13811",
+      "label": "$$$message_0110_0028_0000$$$"
+    },
+    {
+      "en": "...This is...[delay speed=250]the summoning catalyst[delay speed=user]?\"",
+      "jp": "ãâ¦â¦â¦â¦â¦â¦â¦â¦ãããã[delay speed=250]å¬åã®è§¦åª[delay speed=user]ï¼ã",
+      "Pt-br": "...Isto é...[delay speed=250]o catalisador de invocação[delay speed=user]?\"",
+      "id": 12279,
+      "epk_id": "13812",
+      "label": "$$$message_0110_0028_0001$$$"
+    },
+    {
+      "en": "\"...Mrgh. I wonder what kind of intention Rin had trying to summon a Servant...[lr]",
+      "jp": "ãâ¦â¦ãã\nãåã¯ã©ãããæå³ã§ãµã¼ã´ã¡ã³ããå¬åãããã¨ããã®ãâ¦â¦[lr]",
+      "Pt-br": "\"...Hum. Me pergunto que tipo de intenção a Rin tinha ao tentar invocar um Servo...[lr]",
+      "id": 12280,
+      "epk_id": "13813",
+      "label": "$$$message_0110_0029_0000$$$"
+    },
+    {
+      "en": "There's an open, family size protein bag in a place like this... Is this creatine? Amino acids?[lr]",
+      "jp": "ããããªã¨ããã«å¾³ç¨ãã­ãã¤ã³ã®ç©ºãè¢ãâ¦â¦ãã¡ãã¯ã¯ã¬ã¢ãã³ï¼ãã¢ããé\n¸ï¼â¦â¦[lr]",
+      "Pt-br": "Há um saco família de Whey Protein aberto em um lugar como esse... Isso é creatina? Aminoácidos?[lr]",
+      "id": 12281,
+      "epk_id": "13814",
+      "label": "$$$message_0110_0029_0001$$$"
+    },
+    {
+      "en": "Then, the Saber that Rin imagined was[line len=3]\"",
+      "jp": "ãã§ã¯ãåãæ³åãã[ruby text=ã»ã¤ãã¼ char=2]å£å£«ã¨ããã®ã¯[line len=3]ã",
+      "Pt-br": "Então, o Saber que a Rin imaginou era[line len=3]\"",
+      "id": 12282,
+      "epk_id": "13815",
+      "label": "$$$message_0110_0029_0002$$$"
+    },
+    {
+      "en": "\"...\"",
+      "jp": "ã[line len=12]ã",
+      "Pt-br": "\"...\"",
+      "id": 12283,
+      "epk_id": "13816",
+      "label": "$$$message_0110_0030_0000$$$"
+    },
+    {
+      "en": "\"...How unfortunate, Rin.[lr]",
+      "jp": "ãâ¦â¦â¦â¦â¦æ®å¿µã§ããåã[lr]",
+      "Pt-br": "\"...Que infelicidade, Rin.[lr]",
+      "id": 12284,
+      "epk_id": "13817",
+      "label": "$$$message_0110_0031_0000$$$"
+    },
+    {
+      "en": "It seems like we were just not meant to be.[lr]",
+      "jp": "ãç§ã¨è²´å¥³ã¯æã®å·¡ãåãããæªãã£ãããã ã[lr]",
+      "Pt-br": "O destino simplesmente não quis que ficássemos juntas.[lr]",
+      "id": 12285,
+      "epk_id": "13818",
+      "label": "$$$message_0110_0031_0001$$$"
+    },
+    {
+      "en": "As a result of using this as a catalyst, it makes sense that the muscular Archer was summoned.\"",
+      "jp": "ããããè§¦åªã«ããçµæãç­èè³ªãªã¢ã¼ãã£ã¼ãå¬åãããã¨ããã®ãç´å¾ã§ãã",
+      "Pt-br": "Com o resultado de usar isso como um catalisador, faz sentido que o musculoso Archer tenha sido invocado.\"",
+      "id": 12286,
+      "epk_id": "13819",
+      "label": "$$$message_0110_0031_0002$$$"
+    },
+    {
+      "en": "\"However, could it be...that she thought that I love to exercise?[lr]",
+      "jp": "ããããããããããã¨â¦â¦ç§ã¯å¤§ã®ãã¬ã¼ãã³ã°å¥½ãã¨æããã¦ããã®ã§ããããï¼[lr]",
+      "Pt-br": "\"No entanto, será que... ela pensou que eu amasse fazer exercícios?[lr]",
+      "id": 12287,
+      "epk_id": "13820",
+      "label": "$$$message_0110_0032_0000$$$"
+    },
+    {
+      "en": "That she thought Sabers lift barbells like this every day...\"",
+      "jp": "ãã»ã¤ãã¼ãããã®ãããã¦æ¥ã\nãã¼ãã«ãâ¦â¦ã",
+      "Pt-br": "Ela pensou que a classe Saber levanta halteres como esse todos os dias...\"",
+      "id": 12288,
+      "epk_id": "13821",
+      "label": "$$$message_0110_0032_0001$$$"
+    },
+    {
+      "en": "\"...\"",
+      "jp": "ãâ¦â¦â¦â¦â¦â¦â¦â¦â¦ã",
+      "Pt-br": "\"...\"",
+      "id": 12289,
+      "epk_id": "13822",
+      "label": "$$$message_0110_0033_0000$$$"
+    },
+    {
+      "en": "\"...Phew.[lr]",
+      "jp": "ãâ¦â¦â¦â¦â¦ãµãã[lr]",
+      "Pt-br": "\"...Phew.[lr]",
+      "id": 12290,
+      "epk_id": "13823",
+      "label": "$$$message_0110_0034_0000$$$"
+    },
+    {
+      "en": "Swords are not something that you swing with strength.[lr]",
+      "jp": "ãå£ã¯åã§æ¯ããã®ã§ã¯ããã¾ããã[lr]",
+      "Pt-br": "Espadas não são algo que você balança usando a força.[lr]",
+      "id": 12291,
+      "epk_id": "13824",
+      "label": "$$$message_0110_0034_0001$$$"
+    },
+    {
+      "en": "Power is within one's Noble Phantasm, so using unnecessary strength would instead be a hindrance.\"",
+      "jp": "ãå¨åã¯[ruby text=ãã®]èªãããå®å\n·ã®å\nã«ããã¾ããããç¡é§ãªç­åã¯å´ã£ã¦è¶³æã¾ã¨ãã§ãã",
+      "Pt-br": "O poder está dentro do Fantasma Nobre de cada um, então o uso de força desnecessária seria, em vez disso, um obstáculo.\"",
+      "id": 12292,
+      "epk_id": "13825",
+      "label": "$$$message_0110_0034_0002$$$"
+    },
+    {
+      "en": "\"Yes, if it was this treadmill...\"",
+      "jp": "ãããã§ãã­ããã¡ãã®ã¦ã©ã¼ã­ã³ã°ã¨ã¯ãµãµã¤ã¶ã¼ã§ãããâ¦â¦â¦ã",
+      "Pt-br": "\"Sim, se eu tivesse essa esteira...\"",
+      "id": 12293,
+      "epk_id": "13826",
+      "label": "$$$message_0110_0035_0000$$$"
+    },
+    {
+      "en": "\"Mrgh, this is an exercise bike, this is a Bodyblade, and an exercise ball...[lr]",
+      "jp": "ããããã¡ãã¯ã¨ã¢ã­ãã¤ã¯ãããã¯ããã£ãã¬ã¼ããããã«ãã©ã³ã¹ãã¼ã«ãâ¦â¦ã[lr]",
+      "Pt-br": "\"Hrum, esta é uma bicicleta ergométrica, isto é um Bodyblade e uma bola de ginástica...[lr]",
+      "id": 12294,
+      "epk_id": "13827",
+      "label": "$$$message_0110_0036_0000$$$"
+    },
+    {
+      "en": "Oh, there is even a power tower, then I shall[line len=2]\"[lr]",
+      "jp": "ããããã¶ãä¸ããå¥åº·å¨ã¾ã§ããã¾ãã­ãããã§ã¯ãã¡ããæ©éâ¦â¦ã[lr]",
+      "Pt-br": "Ah, tem até uma Power Tower, então eu vou[line len=2]\"[lr]",
+      "id": 12295,
+      "epk_id": "13828",
+      "label": "$$$message_0110_0036_0001$$$"
+    },
+    {
+      "en": "\"Saber, what are you doing?\"",
+      "jp": "ãã»ã¤ãã¼ããªã«ãã£ã¦ããã ï¼ã",
+      "Pt-br": "\"Saber, o que você está fazendo?\"",
+      "id": 12296,
+      "epk_id": "13829",
+      "label": "$$$message_0110_0036_0002$$$"
+    },
+    {
+      "en": "\"Saber, what are you doing?\"[lr]",
+      "jp": "ãã»ã¤ãã¼ããªã«ãã£ã¦ããã ï¼ã[lr]",
+      "Pt-br": "\"Saber, o que você está fazendo?\"[lr]",
+      "id": 12297,
+      "epk_id": "13830",
+      "label": "$$$message_0110_0037_0000$$$"
+    },
+    {
+      "en": "I call to her.[lr]",
+      "jp": "ãã²ããã£ã¨å£°ããããã[lr]",
+      "Pt-br": "Eu a chamo.[lr]",
+      "id": 12298,
+      "epk_id": "13831",
+      "label": "$$$message_0110_0037_0001$$$"
+    },
+    {
+      "en": "...Well. I seem to be interrupting her while she's having fun playing around.",
+      "jp": "ãâ¦â¦ããã©ãããæ¥½ãããã«éãã§ããã¨ãããéªé­ãã¦ãã¾ã£ãããã ã",
+      "Pt-br": "...Bem. Estou interrompendo a diversão dela.",
+      "id": 12299,
+      "epk_id": "13832",
+      "label": "$$$message_0110_0037_0002$$$"
+    },
+    {
+      "en": "\"...Shirou, this is[line len=2]\"[lr]",
+      "jp": "ã[line len=6]ã·ã­ã¦ãããã¯ã[lr]",
+      "Pt-br": "\"...Shirou, isto é[line len=2]\"[lr]",
+      "id": 12300,
+      "epk_id": "13833",
+      "label": "$$$message_0110_0038_0000$$$"
+    },
+    {
+      "en": "\"...\"",
+      "jp": "ãâ¦â¦â¦â¦ã",
+      "Pt-br": "\"...\"",
+      "id": 12301,
+      "epk_id": "13834",
+      "label": "$$$message_0110_0038_0001$$$"
+    },
+    {
+      "en": "\"This is the catalyst that Rin left behind.[lr]",
+      "jp": "ãããã¯åã®æ®ããè§¦åªã§ãã[lr]",
+      "Pt-br": "\"Este é o catalisador que a Rin deixou para trás.[lr]",
+      "id": 12302,
+      "epk_id": "13835",
+      "label": "$$$message_0110_0039_0000$$$"
+    },
+    {
+      "en": "I was investigating each item one by one to make sure they're not affecting the world negatively after soaking in magical energy and transforming.[lr]",
+      "jp": "ããããé­åãæµ´ã³ã¦å¤åãããããæªããå½±é¿ãããããã¦ããªããã©ãããä¸åä¸åèª¿ã¹ã¦ããã®ã§ãã[lr]",
+      "Pt-br": "Eu estava investigando cada item, um por um, para me certificar de que não estivessem afetando o mundo negativamente depois de absorverem a energia mágica e se transformarem.[lr]",
+      "id": 12303,
+      "epk_id": "13836",
+      "label": "$$$message_0110_0039_0001$$$"
+    },
+    {
+      "en": "At mages' workshops, there are times when items gain their own will with magical energy and attack intruders[line len=3]\"[lr]",
+      "jp": "ãé­è¡å¸«ã®å·¥æ¿ã§ã¯ã¢ããé­åã§æå¿ãå¾ã¦ä¾µå\n¥è\nã«è¥²ããããäºããã[line len=3]ã[lr]",
+      "Pt-br": "Nas oficinas dos magos, há momentos em que os itens ganham vontade própria através da energia mágica e atacam os intrusos[line len=3]\"[lr]",
+      "id": 12304,
+      "epk_id": "13837",
+      "label": "$$$message_0110_0039_0002$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "ãâ¦â¦â¦â¦â¦â¦ã[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 12305,
+      "epk_id": "13838",
+      "label": "$$$message_0110_0039_0003$$$"
+    },
+    {
+      "en": "I imagine the bizarre scenario of me being attacked by a power tower.[lr]",
+      "jp": "ãã¶ãä¸ããå¥åº·å¨ã«è¥²ããããã¨ããã·ã¥ã¼ã«ãªèªåãæ³åããã[lr]",
+      "Pt-br": "Eu imagino o cenário bizarro de eu sendo atacado por uma Power Tower.[lr]",
+      "id": 12306,
+      "epk_id": "13839",
+      "label": "$$$message_0110_0039_0004$$$"
+    },
+    {
+      "en": "...I don't have the confidence that I would be able to come back alive.",
+      "jp": "ãâ¦â¦çãã¦å¸°ããèªä¿¡ããªããªããããã",
+      "Pt-br": "...Eu não tenho a confiança de que conseguiria sair daqui vivo.",
+      "id": 12307,
+      "epk_id": "13840",
+      "label": "$$$message_0110_0039_0005$$$"
+    },
+    {
+      "en": "\"...Well, Saber. That's Tohsaka's training equipment. It's not being used as a catalyst or as magecraft materials.\"[lr]",
+      "jp": "ãâ¦â¦ãããã»ã¤ãã¼ãããã¯é åã®ãã¬ã¼ãã³ã°ç¨å\n·ã§ãã£ã¦ãé­è¡ã®ç´ æãè§¦åªãããªããï¼ã[lr]",
+      "Pt-br": "\"...Bom, Saber. Esses são os equipamentos de treino da Tohsaka. Não estão sendo usados como um catalisador ou materiais para magia.\"[lr]",
+      "id": 12308,
+      "epk_id": "13841",
+      "label": "$$$message_0110_0040_0000$$$"
+    },
+    {
+      "en": "\"...Is that true?\"",
+      "jp": "ãâ¦â¦ãããªã®ã§ããï¼ã",
+      "Pt-br": "\"...É mesmo verdade?\"",
+      "id": 12309,
+      "epk_id": "13842",
+      "label": "$$$message_0110_0040_0001$$$"
+    },
+    {
+      "en": "\"She must be using this as a storage room, since she doesn't do any large-scale rituals anymore.\"[lr]",
+      "jp": "ãå¤§ããããªåå¼ãããªããªã£ããããååº«ã¨ãã¦ãããä½¿ã£ã¦ããã ãããããããè²ã\nããããã ã[lr]",
+      "Pt-br": "\"Ela deve estar usando isso como um depósito, já que não faz mais nenhum ritual de grande escala.\"[lr]",
+      "id": 12310,
+      "epk_id": "13843",
+      "label": "$$$message_0110_0041_0000$$$"
+    },
+    {
+      "en": "\"...Oh.\"[lr]",
+      "jp": "ãâ¦â¦â¦â¦â¦â¦â¦â¦ã»ã[lr]",
+      "Pt-br": "\"...Ah.\"[lr]",
+      "id": 12311,
+      "epk_id": "13844",
+      "label": "$$$message_0110_0041_0001$$$"
+    },
+    {
+      "en": "\"Huh?\"",
+      "jp": "ãï¼ã",
+      "Pt-br": "\"Hã?\"",
+      "id": 12312,
+      "epk_id": "13845",
+      "label": "$$$message_0110_0041_0002$$$"
+    },
+    {
+      "en": "\"Then I will continue cleaning here. I just have to put this training equipment into one place, correct?\"[lr]",
+      "jp": "ãã§ã¯ãã¡ãã®æé¤ãç¶ãã¾ãããã®ãã¬ã¼ãã³ã°å¨å\n·ãä¸ã«æã«çºãã¦ããã°ããã®ã§ãã­ï¼ã[lr]",
+      "Pt-br": "\"Então eu continuarei limpando aqui. Eu só tenho que colocar esses equipamentos de treino em um lugar só, correto?\"[lr]",
+      "id": 12313,
+      "epk_id": "13846",
+      "label": "$$$message_0110_0042_0000$$$"
+    },
+    {
+      "en": "\"Yeah. No need to go overboard with the basement.[lr]",
+      "jp": "ããããå°ä¸å®¤ã¯è»½ããã§ãããããªã[lr]",
+      "Pt-br": "\"Sim. Não precisa exagerar aqui no porão.[lr]",
+      "id": 12314,
+      "epk_id": "13847",
+      "label": "$$$message_0110_0042_0001$$$"
+    },
+    {
+      "en": "I was gonna ask you to clean outside too, but should I help?\"[lr]",
+      "jp": "ãå¤åããã»ã¤ãã¼ã«ãé¡ããããã©ããã£ã¡ã¯æä¼ãããï¼ã[lr]",
+      "Pt-br": "Eu ia te pedir para limpar do lado de fora também, mas devo ajudar?\"[lr]",
+      "id": 12315,
+      "epk_id": "13848",
+      "label": "$$$message_0110_0042_0002$$$"
+    },
+    {
+      "en": "\"No, I am fine by myself.[lr]",
+      "jp": "ããããç§ä¸äººã§ååã§ãã[lr]",
+      "Pt-br": "\"Não, eu ficarei bem sozinha.[lr]",
+      "id": 12316,
+      "epk_id": "13849",
+      "label": "$$$message_0110_0042_0003$$$"
+    },
+    {
+      "en": "Please take care of the inside of the house, Shirou.\"",
+      "jp": "ãã·ã­ã¦ã¯å±å\nã®æ¸\næããããããé¡ããã¾ãã",
+      "Pt-br": "Por favor, tome conta do interior da casa, Shirou.\"",
+      "id": 12317,
+      "epk_id": "13850",
+      "label": "$$$message_0110_0042_0004$$$"
+    },
+    {
+      "en": "She bows towards me, and I nod.[lr]",
+      "jp": "ãä¸ç¤¼ããã¦ããããã¨é ·ãã[lr]",
+      "Pt-br": "Ela se curva na minha direção, e eu aceno com a cabeça.[lr]",
+      "id": 12318,
+      "epk_id": "13851",
+      "label": "$$$message_0110_0043_0000$$$"
+    },
+    {
+      "en": "All right, next is[line len=3]Tohsaka's room maybe?",
+      "jp": "ããã¦ãæ¬¡ã¯[line len=3]é åã®é¨å±ã®æé¤ããªï¼",
+      "Pt-br": "Tudo bem, o próximo cômodo é[line len=3]o quarto da Tohsaka, talvez?",
+      "id": 12319,
+      "epk_id": "13852",
+      "label": "$$$message_0110_0043_0001$$$"
+    },
+    {
+      "en": "\"...Sakura?\"[lr]",
+      "jp": "ãâ¦â¦æ¡ï¼ã[lr]",
+      "Pt-br": "\"...Sakura?\"[lr]",
+      "id": 12320,
+      "epk_id": "13853",
+      "label": "$$$message_0110_0044_0000$$$"
+    },
+    {
+      "en": "Sakura is reading something in Tohsaka's room.[lr]",
+      "jp": "ãé åã®é¨å±ã§ãæ¡ãä½ããèª­ãã§ããã[lr]",
+      "Pt-br": "A Sakura está lendo alguma coisa no quarto da Tohsaka.[lr]",
+      "id": 12321,
+      "epk_id": "13854",
+      "label": "$$$message_0110_0044_0001$$$"
+    },
+    {
+      "en": "She must've noticed that I came, as she hides whatever she was reading.[clfg textoff=0 time=300 pos=all]",
+      "jp": "ããã£ã¦ããä¿ºã«æ°ãä»ããã®ããããããã£ã¨èª­ãã§ãããã®ãé ãã[clfg textoff=0 time=300 pos=all]",
+      "Pt-br": "Ela deve ter notado que cheguei, pois esconde o que quer que estivesse lendo.[clfg textoff=0 time=300 pos=all]",
+      "id": 12322,
+      "epk_id": "13855",
+      "label": "$$$message_0110_0044_0002$$$"
+    },
+    {
+      "en": "\"What were you reading, Sakura?\"[lr]",
+      "jp": "ãæ¡ããªã«èª­ãã§ãï¼ã[lr]",
+      "Pt-br": "\"O que você estava lendo, Sakura?\"[lr]",
+      "id": 12323,
+      "epk_id": "13856",
+      "label": "$$$message_0110_0045_0000$$$"
+    },
+    {
+      "en": "\"I-I wasn't looking for Nee-san's diary or anything.[lr]",
+      "jp": "ãããèª­ãã§ãã£ã¦ãå§ããã®æ¥è¨ã¨ãæ¢ãã¦ãã¯ã±ãããªããã§ããï¼[lr]",
+      "Pt-br": "\"E-Eu não estava procurando pelo diário da Nee-san nem nada.[lr]",
+      "id": 12324,
+      "epk_id": "13857",
+      "label": "$$$message_0110_0045_0001$$$"
+    },
+    {
+      "en": "As I was fixing the bed sheets, some letter in English came out, so I couldn't help but get curious and skim it.\"[lr]",
+      "jp": "ããããã®ã·ã¼ããç´ãã¦ãããã½ãã£ã¨è±èªã®æç´ãåºã¦ãã¡ãã£ã¦ãæ°ã«ãªã£ã¦ç®ãéãã¦ããã¨ãããã£ã[lr]",
+      "Pt-br": "Enquanto eu arrumava os lençóis da cama, apareceu uma carta em inglês, então não consegui evitar a curiosidade e dei uma lida.\"[lr]",
+      "id": 12325,
+      "epk_id": "13858",
+      "label": "$$$message_0110_0045_0002$$$"
+    },
+    {
+      "en": "\"That can't be helped. Tohsaka was careless for not storing her letters. But an English letter, you said?\"",
+      "jp": "ããããä»æ¹ãªããæç´ãä¿ç®¡ãã¨ããªãé åã®ä¸æ³¨æã ããã©ãè±èªã®æç´ã ã£ã¦ï¼ã",
+      "Pt-br": "\"Não tem o que fazer sobre isso. A Tohsaka foi descuidada em não guardar as suas cartas. Mas uma carta em inglês, você disse?\"",
+      "id": 12326,
+      "epk_id": "13859",
+      "label": "$$$message_0110_0045_0003$$$"
+    },
+    {
+      "en": "\"Yes, it's this...\"[lr]",
+      "jp": "ãã¯ãããããªãã§ããã©â¦â¦ã[lr]",
+      "Pt-br": "\"Sim, é esta aqui...\"[lr]",
+      "id": 12327,
+      "epk_id": "13860",
+      "label": "$$$message_0110_0046_0000$$$"
+    },
+    {
+      "en": "What Sakura showed me was an envelope that had the airmail border.",
+      "jp": "ãæ¡ãè¦ãã¦ãããã®ã¯ãã¨ã¢ã¡ã¼ã«ã®ç¸åãã®ããå°ç­ã ã£ãã",
+      "Pt-br": "O que a Sakura me mostrou foi um envelope que tinha as bordas de um correio aéreo.",
+      "id": 12328,
+      "epk_id": "13861",
+      "label": "$$$message_0110_0046_0001$$$"
+    },
+    {
+      "en": "\"Oh, it's from overseas. Who was it from?\"[lr]",
+      "jp": "ãæµ·å¤ããããèª°ããã®æç´ã ã£ãï¼ã[lr]",
+      "Pt-br": "\"Ah, é do exterior. De quem era?\"[lr]",
+      "id": 12329,
+      "epk_id": "13862",
+      "label": "$$$message_0110_0047_0000$$$"
+    },
+    {
+      "en": "\"Um... From...\"[lr]",
+      "jp": "ããã®â¦â¦â¦â¦â¦ããã§ãâ¦â¦ã[lr]",
+      "Pt-br": "\"Hum... Da...\"[lr]",
+      "id": 12330,
+      "epk_id": "13863",
+      "label": "$$$message_0110_0047_0001$$$"
+    },
+    {
+      "en": "\"Oof, isn't that...\"[lr]",
+      "jp": "ãããããã£ã¦â¦â¦ã[lr]",
+      "Pt-br": "\"Caramba, não me diga que...\"[lr]",
+      "id": 12331,
+      "epk_id": "13864",
+      "label": "$$$message_0110_0047_0002$$$"
+    },
+    {
+      "en": "...The airmail was a letter from the Mage's Association.[lr]",
+      "jp": "ãâ¦â¦ã¨ã¢ã¡ã¼ã«ã¯é­è¡åä¼ããã®æ¸ç°¡ã ã£ãã[lr]",
+      "Pt-br": "...O correio aéreo era uma carta da Associação dos Magos.[lr]",
+      "id": 12332,
+      "epk_id": "13865",
+      "label": "$$$message_0110_0047_0003$$$"
+    },
+    {
+      "en": "Tohsaka is a mage who is an administrator of these lands, so it's not odd that she's directly receiving directions or orders.",
+      "jp": "ãé åã¯ãã®å°ãé ããé­è¡å¸«ãªãã ãããç´æ¥ã«æç¤ºãå½ä»¤ãåãåã£ã¦ã¦ãä¸æè­°ãããªãã",
+      "Pt-br": "A Tohsaka é uma maga e administradora destas terras, então não é estranho que ela receba instruções ou ordens diretamente deles.",
+      "id": 12333,
+      "epk_id": "13866",
+      "label": "$$$message_0110_0047_0004$$$"
+    },
+    {
+      "en": "\"Nee-san has it hard too.[lr]",
+      "jp": "ãå§ãããå¤§å¤ãªãã§ãã­ã[lr]",
+      "Pt-br": "\"A Nee-san também tem uma vida difícil.[lr]",
+      "id": 12334,
+      "epk_id": "13867",
+      "label": "$$$message_0110_0048_0000$$$"
+    },
+    {
+      "en": "See, she has this many letters and books spread out.\"[lr]",
+      "jp": "ãã»ãããããªã«æç´ãæ¸é¡ãåºãã£ã±ãªãã§ã[lr]",
+      "Pt-br": "Veja, ela tem todo esse monte de cartas e livros espalhados.\"[lr]",
+      "id": 12335,
+      "epk_id": "13868",
+      "label": "$$$message_0110_0048_0001$$$"
+    },
+    {
+      "en": "\"...She's gonna eventually lose some.\"[lr]",
+      "jp": "ãâ¦â¦ãã®ãã¡ç´å¤±ããããããã¤ã[lr]",
+      "Pt-br": "\"...Uma hora ou outra ela vai acabar perdendo alguns.\"[lr]",
+      "id": 12336,
+      "epk_id": "13869",
+      "label": "$$$message_0110_0048_0002$$$"
+    },
+    {
+      "en": "There's a pile of opened envelopes and writing paper stacked up.",
+      "jp": "ãããã£ã¨å°ãåã£ãå°ç­ãä¾¿ç®ãç©ã¾ãã¦ããã",
+      "Pt-br": "Há uma pilha de envelopes abertos e papel de carta amontoados.",
+      "id": 12337,
+      "epk_id": "13870",
+      "label": "$$$message_0110_0048_0003$$$"
+    },
+    {
+      "en": "\"Kiritsugu didn't get anything... I guess that's obvious since he was freelance.\"[lr]",
+      "jp": "ãåå£ã«ã¯å\n¨ãæ¥ãªãã£ããâ¦â¦ã£ã¦ãããªã¼ã ã£ãããå½ããåãã[lr]",
+      "Pt-br": "\"O Kiritsugu não recebia nada... Acho que isso é óbvio, já que ele era um freelancer.\"[lr]",
+      "id": 12338,
+      "epk_id": "13871",
+      "label": "$$$message_0110_0049_0000$$$"
+    },
+    {
+      "en": "\"They didn't come to my place either, Nee-san really is impressive...\"",
+      "jp": "ããããã®å®¶ã«ãæ¥ã¾ããã§ããã­ããã£ã±ãå§ããã¯ããããªãâ¦â¦ã",
+      "Pt-br": "\"Eles também não vieram para o meu lugar, a Nee-san é mesmo impressionante...\"",
+      "id": 12339,
+      "epk_id": "13872",
+      "label": "$$$message_0110_0049_0001$$$"
+    },
+    {
+      "en": "Sakura puts the letter back in the envelope and slides it back inside the bed like it was before.[lr]",
+      "jp": "ãæ¡ã¯æç´ãå°ç­ã«ãã¾ã£ã¦ãå\néããããã®ä¸­ã«æ»ããã¾ããã[lr]",
+      "Pt-br": "A Sakura coloca a carta de volta no envelope e o desliza de volta para dentro da cama como estava antes.[lr]",
+      "id": 12340,
+      "epk_id": "13873",
+      "label": "$$$message_0110_0050_0000$$$"
+    },
+    {
+      "en": "She's being considerate, but if that's the case, I feel like she should just leave it on the desk.",
+      "jp": "ãæ°ãé£ã£ã¦ããã®ã ãããããªãæºã®ä¸ã«ç½®ããæ¹ããããããªã",
+      "Pt-br": "Ela está sendo cuidadosa, mas se for o caso, eu sinto que ela deveria apenas deixar na escrivaninha.",
+      "id": 12341,
+      "epk_id": "13874",
+      "label": "$$$message_0110_0050_0001$$$"
+    },
+    {
+      "en": "\"Oh, I need to write a letter to Nee-san... [cacheimage storage=æ¡ç§æ06a(ä¸­)][wvl][chgfg textoff=0 storage=æ¡ç§æ06a(ä¸­) time=300]I promised her.\"[lr]",
+      "jp": "ãããå§ããã«æç´æ¸ããªãã¡ãâ¦â¦[cacheimage storage=æ¡ç§æ06a(ä¸­)][wvl][chgfg textoff=0 storage=æ¡ç§æ06a(ä¸­) time=300]ç´æãã¦ããã§ãã[lr]",
+      "Pt-br": "\"Ah, eu preciso escrever uma carta para a Nee-san... [cacheimage storage=桜私服06a(中)][wvl][chgfg textoff=0 storage=桜私服06a(中) time=300]Eu prometi a ela.\"[lr]",
+      "id": 12342,
+      "epk_id": "13875",
+      "label": "$$$message_0110_0051_0000$$$"
+    },
+    {
+      "en": "\"Like updating her on the current situation?\"",
+      "jp": "ããã£ã¡ã®è¿æ³å ±åã¨ãï¼ã",
+      "Pt-br": "\"Como se fosse atualizá-la sobre a situação atual?\"",
+      "id": 12343,
+      "epk_id": "13876",
+      "label": "$$$message_0110_0051_0001$$$"
+    },
+    {
+      "en": "\"Yes, she told me to let her know if anything happens.[lr]",
+      "jp": "ãã¯ããä½ããã£ããç¥ããã¦æ¬²ããã£ã¦ã[lr]",
+      "Pt-br": "\"Sim, ela me disse para avisá-la caso acontecesse alguma coisa.[lr]",
+      "id": 12344,
+      "epk_id": "13877",
+      "label": "$$$message_0110_0052_0000$$$"
+    },
+    {
+      "en": "I'll write it, so do you have any message for Nee-san, Senpai?\"[lr]",
+      "jp": "ãããããæ¸ãã¾ããããå\nè¼©ãå§ããã«ä¼è¨ã¯ããã¾ããï¼ã[lr]",
+      "Pt-br": "Eu vou escrever, então tem alguma mensagem que você queira mandar para ela?\"[lr]",
+      "id": 12345,
+      "epk_id": "13878",
+      "label": "$$$message_0110_0052_0001$$$"
+    },
+    {
+      "en": "\"Oof... That's really putting me on the spot.[lr]",
+      "jp": "ããâ¦â¦ãããªãè¨ããã¦ãè¿·ããªã[lr]",
+      "Pt-br": "\"Caramba... Isso me coloca numa saia justa.[lr]",
+      "id": 12346,
+      "epk_id": "13879",
+      "label": "$$$message_0110_0052_0002$$$"
+    },
+    {
+      "en": "Can I give you a message later, Sakura?\"",
+      "jp": "ãæ¡ãã³ã¡ã³ãã¯å¾ã§ãããï¼ã",
+      "Pt-br": "Eu posso te dar uma mensagem mais tarde, Sakura?\"",
+      "id": 12347,
+      "epk_id": "13880",
+      "label": "$$$message_0110_0052_0003$$$"
+    },
+    {
+      "en": "\"Yes, got it.[lr]",
+      "jp": "ãã¯ããåããã¾ããã[lr]",
+      "Pt-br": "\"Sim, entendido.[lr]",
+      "id": 12348,
+      "epk_id": "13881",
+      "label": "$$$message_0110_0053_0000$$$"
+    },
+    {
+      "en": "I'll write it once we finish eating dinner, so please come to my room then.\"",
+      "jp": "ãæ©ãã¯ããçµãã£ã¦è½ã¡çãããæ¸ãã¾ãããããã®æãããã®é¨å±ã«æ¥ã¦ãã ããã",
+      "Pt-br": "Eu vou escrever depois que terminarmos de jantar, então, por favor, venha ao meu quarto nessa hora.\"",
+      "id": 12349,
+      "epk_id": "13882",
+      "label": "$$$message_0110_0053_0001$$$"
+    },
+    {
+      "en": "We casually make a promise to deliver a message to a distant foreign country.[lr]",
+      "jp": "ãè»½ããé ãç°å½ã¸å±ãè¨ä»ãã®ç´æãããã[lr]",
+      "Pt-br": "Nós casualmente fazemos uma promessa de enviar uma mensagem para um país estrangeiro distante.[lr]",
+      "id": 12350,
+      "epk_id": "13883",
+      "label": "$$$message_0110_0054_0000$$$"
+    },
+    {
+      "en": "I leave Tohsaka's room to Sakura, and I head toward the hallway to work on the guestroom next door...[lr]",
+      "jp": "ãé åã®é¨å±ã¯æ¡ã«ãä»»ããã¦ãä¿ºã¯é£ã®å®¢éã«ã¨ãããããã¨å»ä¸ã«åãã£ã¦ã[lr]",
+      "Pt-br": "Deixo o quarto da Tohsaka com a Sakura e sigo pelo corredor para trabalhar no quarto de hóspedes ao lado...[lr]",
+      "id": 12351,
+      "epk_id": "13884",
+      "label": "$$$message_0110_0054_0001$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "ãâ¦â¦â¦â¦â¦â¦ã[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 12352,
+      "epk_id": "13885",
+      "label": "$$$message_0110_0054_0002$$$"
+    },
+    {
+      "en": "I notice that Sakura is looking at Tohsaka's room with a nostalgic look.",
+      "jp": "ãæ¡ããã©ããæãããããªç®ã§ãé åã®é¨å±ãè¦ã¦ããäºã«æ°ãä»ããã",
+      "Pt-br": "Eu noto que a Sakura está olhando para o quarto da Tohsaka com um olhar nostálgico.",
+      "id": 12353,
+      "epk_id": "13886",
+      "label": "$$$message_0110_0054_0003$$$"
+    },
+    {
+      "en": "\"Sakura?\"[lr]",
+      "jp": "ãæ¡ï¼ã[lr]",
+      "Pt-br": "\"Sakura?\"[lr]",
+      "id": 12354,
+      "epk_id": "13887",
+      "label": "$$$message_0110_0055_0000$$$"
+    },
+    {
+      "en": "\"...Oh. [cacheimage storage=æ¡ç§æ03d(ä¸­)][wvl canskip=0 time=400][chgfg textoff=0 time=300 storage=æ¡ç§æ03d(ä¸­)]I'm sorry, Senpai, this atmosphere was so nostalgic that I got lost in my thoughts.\"[lr]",
+      "jp": "ãâ¦â¦ãã[cacheimage storage=æ¡ç§æ03d(ä¸­)][wvl canskip=0 time=400][chgfg textoff=0 time=300 storage=æ¡ç§æ03d(ä¸­)]ããããªããå\nè¼©ããã®é°å²æ°ãæãããã¦ãã¡ãã£ã¨ç©æãã«è½ã£ã¡ããã¾ããã[lr]",
+      "Pt-br": "\"...Ah. [cacheimage storage=桜私服03d(中)][wvl canskip=0 time=400][chgfg textoff=0 time=300 storage=桜私服03d(中)]Desculpe, Senpai, essa atmosfera estava tão nostálgica que acabei me perdendo em pensamentos.\"[lr]",
+      "id": 12355,
+      "epk_id": "13888",
+      "label": "$$$message_0110_0055_0001$$$"
+    },
+    {
+      "en": "\"...I see. Do you remember the past?\"",
+      "jp": "ãâ¦â¦ããããæã®ãã¨ãè¦ãã¦ãã®ãï¼ã",
+      "Pt-br": "\"...Entendo. Você se lembra do passado?\"",
+      "id": 12356,
+      "epk_id": "13889",
+      "label": "$$$message_0110_0055_0002$$$"
+    },
+    {
+      "en": "\"The thing is, I mostly don't remember anything.[lr]",
+      "jp": "ãããããã»ã¨ãã©è¦ãã¦ããªããã§ãã[lr]",
+      "Pt-br": "\"O problema é que eu não lembro de quase nada.[lr]",
+      "id": 12357,
+      "epk_id": "13890",
+      "label": "$$$message_0110_0056_0000$$$"
+    },
+    {
+      "en": "It seems like I had my own room in the past, but it's gone now.\"",
+      "jp": "ãæã¯ãããã®é¨å±ããã£ãã¿ãããªãã§ããã©ããããªããªã£ã¦ã¾ãããã",
+      "Pt-br": "Antigamente eu tinha meu próprio quarto, mas agora ele não existe mais.\"",
+      "id": 12358,
+      "epk_id": "13891",
+      "label": "$$$message_0110_0056_0001$$$"
+    },
+    {
+      "en": "\"...I see.\"[lr]",
+      "jp": "ãâ¦â¦ãããã[lr]",
+      "Pt-br": "\"...Entendo.\"[lr]",
+      "id": 12359,
+      "epk_id": "13892",
+      "label": "$$$message_0110_0057_0000$$$"
+    },
+    {
+      "en": "\"Oh, but[line len=3]\"[lr]",
+      "jp": "ãããã§ã[line len=3]ã[lr]",
+      "Pt-br": "\"Ah, mas[line len=3]\"[lr]",
+      "id": 12360,
+      "epk_id": "13893",
+      "label": "$$$message_0110_0057_0001$$$"
+    },
+    {
+      "en": "Sakura picks up the photo frame from the table.",
+      "jp": "ãæ¡ããã¼ãã«ã®ä¸ã®ãåçç«ã¦ãæã«åãã",
+      "Pt-br": "A Sakura pega um porta-retratos na mesa.",
+      "id": 12361,
+      "epk_id": "13894",
+      "label": "$$$message_0110_0057_0002$$$"
+    },
+    {
+      "en": "\"I remember this.\"[lr]",
+      "jp": "ããã®æã®ãã¨ã¯ãã¡ããã¨è¦ãã¦ã¾ããï¼ã[lr]",
+      "Pt-br": "\"Disto aqui eu me lembro.\"[lr]",
+      "id": 12362,
+      "epk_id": "13895",
+      "label": "$$$message_0110_0058_0000$$$"
+    },
+    {
+      "en": "\"Tohsaka gave you your hair tie, right?\"[lr]",
+      "jp": "ãé åãæ¡ã«é«ªçããããããã ã£ããç¢ºãã[lr]",
+      "Pt-br": "\"A Tohsaka lhe deu o seu laço de cabelo, certo?\"[lr]",
+      "id": 12363,
+      "epk_id": "13896",
+      "label": "$$$message_0110_0058_0001$$$"
+    },
+    {
+      "en": "I heard that the ribbon that Sakura has in her hair is what Tohsaka had on.",
+      "jp": "ãæ¡ãé«ªã«ä»ãã¦ãããªãã³ã¯æãé åããã¦ãããã®ã ã¨èãã¦ããã",
+      "Pt-br": "Ouvi dizer que a fita que a Sakura usa no cabelo é a que a Tohsaka costumava usar.",
+      "id": 12364,
+      "epk_id": "13897",
+      "label": "$$$message_0110_0058_0002$$$"
+    },
+    {
+      "en": "\"It was Nee-san's favorite ribbon that she made herself.[lr]",
+      "jp": "ãå§ããã®æä½ãã§ããæ°ã«å\n¥ãã®ãªãã³ã ã£ããã§ãã[lr]",
+      "Pt-br": "\"Era a fita favorita da Nee-san que ela mesma fez.[lr]",
+      "id": 12365,
+      "epk_id": "13898",
+      "label": "$$$message_0110_0059_0000$$$"
+    },
+    {
+      "en": "Hair and hair ties are the final trump cards of a female mage, so she made a special one.\"[lr]",
+      "jp": "ãé«ªã¨é«ªçãã¯å¥³ã®é­è¡å¸«ã®æå¾ã®åãæ­ã§ããããåã£ã¦ç½®ãã®ãä½ã£ã¦ã¾ããã[lr]",
+      "Pt-br": "Cabelos e laços de cabelo são os trunfos finais de uma maga, então ela fez um especial.\"[lr]",
+      "id": 12366,
+      "epk_id": "13899",
+      "label": "$$$message_0110_0059_0001$$$"
+    },
+    {
+      "en": "\"So you got that when you parted with Tohsaka.\"[lr]",
+      "jp": "ãé åã¨å¥ããæã«ãè²°ã£ããã ã[lr]",
+      "Pt-br": "\"Então você ganhou isso quando se separou da Tohsaka.\"[lr]",
+      "id": 12367,
+      "epk_id": "13900",
+      "label": "$$$message_0110_0059_0002$$$"
+    },
+    {
+      "en": "\"Yes, Nee-san tied my hair with it.\"",
+      "jp": "ãã¯ããå§ããããããã®é«ªã«çµãã§ããã¾ããã",
+      "Pt-br": "\"Sim, a Nee-san amarrou no meu cabelo com ela.\"",
+      "id": 12368,
+      "epk_id": "13901",
+      "label": "$$$message_0110_0059_0003$$$"
+    },
+    {
+      "en": "...I see.[lr]",
+      "jp": "ãâ¦â¦ãããã[lr]",
+      "Pt-br": "...Entendo.[lr]",
+      "id": 12369,
+      "epk_id": "13902",
+      "label": "$$$message_0110_0060_0000$$$"
+    },
+    {
+      "en": "Tohsaka gave her most important remnant to her little sister who she could never see again[line len=3][lr]",
+      "jp": "ãé åã¯ããäºåº¦ã¨ä¼ããªãå¦¹ã«ãããã¦ä¸çªå¤§åãªåæ®ã®åãè´ã£ãã®ã [line len=3][lr]",
+      "Pt-br": "A Tohsaka deu a sua lembrança mais importante para a sua irmãzinha, que ela talvez nunca mais pudesse ver[line len=3][lr]",
+      "id": 12370,
+      "epk_id": "13903",
+      "label": "$$$message_0110_0060_0001$$$"
+    },
+    {
+      "en": "\"...Tohsaka isn't usually honest...\"",
+      "jp": "ãâ¦â¦é åã®ãã¤ãæ®æ®µã¯ç´ ç´ãããªãã¯ã»ã«ãã",
+      "Pt-br": "\"...A Tohsaka normalmente não é sincera consigo mesma...\"",
+      "id": 12371,
+      "epk_id": "13904",
+      "label": "$$$message_0110_0060_0002$$$"
+    },
+    {
+      "en": "\"And she said the payment is a cheap 3 carat emerald, up to 3% annual interest rate, and that she'll let me pay in installments as a bonus.\"[lr]",
+      "jp": "ãããã§ããä»£ã¯æ ¼å®ã®ã¨ã¡ã©ã«ãä¸ã«ã©ãããå¹´å©ä¸ï¼\nã«ãµã¼ãã¹ã§ãã¾ãã«åå²ãã¼ãã¹æãæ­è¿ã ã£ã¦ã[lr]",
+      "Pt-br": "\"E ela disse que o pagamento é uma modesta esmeralda de 3 quilates, mais uma taxa de juros anual de 3%, e que ela vai me deixar pagar em parcelas como um bônus.\"[lr]",
+      "id": 12372,
+      "epk_id": "13905",
+      "label": "$$$message_0110_0061_0000$$$"
+    },
+    {
+      "en": "\"She's really greedy even at times like that... Wait, [wvl][fadebgm time=200 volume=30][shock vmax=20 time=1200 count=20]whatttt!!!???\"[lr]",
+      "jp": "ãã»ãã¨ããããªæã¾ã§ã¬ã¡ãã¤ãã ããâ¦â¦ã£ã¦ã[wvl][fadebgm time=200 volume=30][shock vmax=20 time=1200 count=20]ãªã«ããããï¼ï¼ï¼ï¼ã[lr]",
+      "Pt-br": "\"Ela é muito gananciosa mesmo nessas horas... Espera, [wvl][fadebgm time=200 volume=30][shock vmax=20 time=1200 count=20]o quuuuuuuuuuuuêêêêêêêê!!!???\"[lr]",
+      "id": 12373,
+      "epk_id": "13906",
+      "label": "$$$message_0110_0061_0001$$$"
+    },
+    {
+      "en": "I didn't know Tohsaka was a miser from such an age!",
+      "jp": "ãé åã®ã¤ãããããªæ­³ãããããªå®é­å¥´ã ã£ãã®ãï¼",
+      "Pt-br": "Eu não sabia que a Tohsaka já era uma avarenta nessa idade!",
+      "id": 12374,
+      "epk_id": "13907",
+      "label": "$$$message_0110_0061_0002$$$"
+    },
+    {
+      "en": "\"I thought about it as a child.[lr]",
+      "jp": "ãå­ä¾å¿ã«èãã¾ããã[lr]",
+      "Pt-br": "\"Eu pensava sobre isso quando era criança.[lr]",
+      "id": 12375,
+      "epk_id": "13908",
+      "label": "$$$message_0110_0062_0000$$$"
+    },
+    {
+      "en": "If it was a compound interest of 3% annual interest, then I wondered whether it would be worth 4 carat or 5 carat. Or whether the number of installments were twelve times or twenty-four times a year, whether early repayment is possible, whether I could convert it to diamonds[line len=3]\"",
+      "jp": "ãå¹´å©ä¸ï¼\nã®è¤å©ã ã¨åäºå¹´ã§ã¨ã¡ã©ã«ãåï¼äºã«ã©ããåã«ãªãããªï¼ã¨ããåå²ã¯å¹´åäºåæããªã®ãäºåååæããªã®ããæ©æè¿æ¸ã¯å¯è½ãããã¤ã¤ã¢ã³ãã«è²¸ãæãã§ããã®ã[line len=3]ã",
+      "Pt-br": "Se fossem juros compostos de 3% ao ano, então eu me perguntava se valeria 4 ou 5 quilates. Ou se o número de parcelas seria de doze vezes ou vinte e quatro vezes por ano, ou se o pagamento antecipado seria possível, ou se eu poderia converter em diamantes[line len=3]\"",
+      "id": 12376,
+      "epk_id": "13909",
+      "label": "$$$message_0110_0062_0001$$$"
+    },
+    {
+      "en": "\"[shock vmax=20 time=400 count=-3]Wait, why does it turn into all that talk about loans!?\"",
+      "jp": "ã[shock vmax=20 time=400 count=-3]å¾\nã¦ããªãã§ãããªã­ã¼ã³ã¡ã£ããªè©±ã«ãªãï¼ï¼ã",
+      "Pt-br": "\"[shock vmax=20 time=400 count=-3]Espere, por que a conversa virou repentinamente sobre empréstimos!?\"",
+      "id": 12377,
+      "epk_id": "13910",
+      "label": "$$$message_0110_0063_0000$$$"
+    },
+    {
+      "en": "\"Oh, Nee-san was always like that from before.\"[lr]",
+      "jp": "ãããå§ããã£ã¦æããããããäººãªãã§ããã[lr]",
+      "Pt-br": "\"Oh, a Nee-san sempre foi assim desde antes.\"[lr]",
+      "id": 12378,
+      "epk_id": "13911",
+      "label": "$$$message_0110_0064_0000$$$"
+    },
+    {
+      "en": "\"...F-Freaking Tohsaka. What an awful person. I hadn't even gotten a taste of a tenth of her awfulness[line len=3]\"[lr]",
+      "jp": "ãâ¦â¦ã¨ãé åããé\n·ãã¤ãã ãªãä¿ºã¯ããã¤ã®æãããã®ååã®ä¸ãå³ãã£ã¦ããªãã£ãã®ã[line len=3]ã[lr]",
+      "Pt-br": "\"...M-Maldita Tohsaka. Que pessoa terrível. Eu ainda não cheguei nem em um décimo do quão terrível ela é[line len=3]\"[lr]",
+      "id": 12379,
+      "epk_id": "13912",
+      "label": "$$$message_0110_0064_0001$$$"
+    },
+    {
+      "en": "\"Hehe. However, that's not it, Senpai.\"[lr]",
+      "jp": "ããµãµãã¨ãããã§ãã­ããããããªããã§ããå\nè¼©ã[lr]",
+      "Pt-br": "\"Hehe. Contudo, não é isso, Senpai.\"[lr]",
+      "id": 12380,
+      "epk_id": "13913",
+      "label": "$$$message_0110_0064_0002$$$"
+    },
+    {
+      "en": "It's a tough topic, yet Sakura's smile is playful.",
+      "jp": "ãä¸ç¥è¾ãè©±ãªã®ã«ãæ¡ã®ç¬ãã¯è»½ããã ã£ãã",
+      "Pt-br": "É um assunto difícil, mas o sorriso da Sakura é brincalhão.",
+      "id": 12381,
+      "epk_id": "13914",
+      "label": "$$$message_0110_0064_0003$$$"
+    },
+    {
+      "en": "\"You see.[lr]",
+      "jp": "ããã®ã§ãã­ã[lr]",
+      "Pt-br": "\"Sabe o que é.[lr]",
+      "id": 12382,
+      "epk_id": "13915",
+      "label": "$$$message_0110_0065_0000$$$"
+    },
+    {
+      "en": "Nee-san makes the people who are more important to her owe her more things.\"[lr]",
+      "jp": "ãå§ããã¯å¤§äºãªäººã»ã©ãå¤ãè²¸ããä½ããã§ãã[lr]",
+      "Pt-br": "A Nee-san faz as pessoas que são mais importantes para ela deverem mais coisas a ela.\"[lr]",
+      "id": 12383,
+      "epk_id": "13916",
+      "label": "$$$message_0110_0065_0001$$$"
+    },
+    {
+      "en": "\"Huh?\"",
+      "jp": "ãã¯ï¼ã",
+      "Pt-br": "\"Hã?\"",
+      "id": 12384,
+      "epk_id": "13917",
+      "label": "$$$message_0110_0065_0002$$$"
+    },
+    {
+      "en": "\"If she had only given me this as a present, then that's it.[lr]",
+      "jp": "ãããããããã«ããããã¬ã¼ã³ããã¦ãããããããã£ãããããªãã§ããã[lr]",
+      "Pt-br": "\"Se ela tivesse me dado isso apenas como um presente, então seria só isso.[lr]",
+      "id": 12385,
+      "epk_id": "13918",
+      "label": "$$$message_0110_0066_0000$$$"
+    },
+    {
+      "en": "[chgfg textoff=0 storage=æ¡ç§æ01c(ä¸­) time=300]Nee-san didn't like that.[lr]",
+      "jp": "ã[chgfg textoff=0 storage=æ¡ç§æ01c(ä¸­) time=300]å§ããã¯ãããå«ã ã£ããã§ãã[lr]",
+      "Pt-br": "[chgfg textoff=0 storage=桜私服01c(中) time=300]A Nee-san não gostava disso.[lr]",
+      "id": 12386,
+      "epk_id": "13919",
+      "label": "$$$message_0110_0066_0001$$$"
+    },
+    {
+      "en": "Because she cared about me, she gave me such a large loan.\"",
+      "jp": "ãããããå¤§äºã«æã£ã¦ããããããããé«ãè²¸ããå¹ã£ããããã§ãã­ã",
+      "Pt-br": "Por se importar muito comigo, ela me deu um empréstimo tão grande.\"",
+      "id": 12387,
+      "epk_id": "13920",
+      "label": "$$$message_0110_0066_0002$$$"
+    },
+    {
+      "en": "\"When she told me very seriously that I need to return it no matter what, it made me think.[lr]",
+      "jp": "ããããçå£ã«ãå¿\nãè¿ãã®ãæ¡ãã£ã¦å§ããã«è¨ãããæã«ããããã¯æã£ããã§ãã[lr]",
+      "Pt-br": "\"Quando ela me disse com muita seriedade que eu precisava devolver isso a todo custo, eu acabei pensando que, Nee-san...[lr]",
+      "id": 12388,
+      "epk_id": "13921",
+      "label": "$$$message_0110_0067_0000$$$"
+    },
+    {
+      "en": "[chgfg textoff=0 storage=æ¡ç§æ08c(ä¸­) time=300]Oh, Nee-san will always remember me, so the loan is so big that I can never return it.\"",
+      "jp": "ã[chgfg textoff=0 storage=æ¡ç§æ08c(ä¸­) time=300]ãããå§ããã¯ãã£ã¨ããããè¦ãã¦ãããããããããªã«è¿ããããªãã»ã©è²¸ããé«ããã ã£ã¦ã",
+      "Pt-br": "[chgfg textoff=0 storage=桜私服08c(中) time=300]A Nee-san sempre vai se lembrar de mim, porque a dívida é tão grande que eu nunca poderei devolvê-la.\"",
+      "id": 12389,
+      "epk_id": "13922",
+      "label": "$$$message_0110_0067_0001$$$"
+    },
+    {
+      "en": "\"That's why I think Nee-san is also making you owe her many things, too.\"[lr]",
+      "jp": "ãã ãããå§ããã¯å\nè¼©ã«ãããããè²¸ããä½ã£ã¦ããã ã¨æãã¾ããã[lr]",
+      "Pt-br": "\"É por isso que acho que a Nee-san também está deixando você cheio de dívidas com ela, Senpai.\"[lr]",
+      "id": 12390,
+      "epk_id": "13923",
+      "label": "$$$message_0110_0068_0000$$$"
+    },
+    {
+      "en": "\"I-I see... I felt bad thinking that I was always causing her trouble by being indebted to her...\"",
+      "jp": "ãããããã ã£ãã®ãâ¦â¦å¸¸æ¥é ãè¿·æããã£ã±ãªãã®åãã°ã£ããä½ã£ã¦ã¦ãæ\nããªãã¨ã¯æã£ã¦ããâ¦â¦ã",
+      "Pt-br": "\"E-Entendo... Eu me sentia mal pensando que eu sempre estava causando problemas a ela, sendo endividado por ela...\"",
+      "id": 12391,
+      "epk_id": "13924",
+      "label": "$$$message_0110_0068_0001$$$"
+    },
+    {
+      "en": "\"Oh, it'd be more impressive to have her be indebted to you.[lr]",
+      "jp": "ãããéã«å§ããã«è²¸ããä½ããã®ã¯ãã£ã¨ãããã§ããï¼[lr]",
+      "Pt-br": "\"Ah, seria mais impressionante fazer ela ficar em dívida com você, Nee-san.[lr]",
+      "id": 12392,
+      "epk_id": "13925",
+      "label": "$$$message_0110_0069_0000$$$"
+    },
+    {
+      "en": "[chgfg textoff=0 storage=æ¡ç§æ06a(ä¸­) time=300]She doesn't approve of lukewarm loans unless you have a signed and sealed IOU.\"",
+      "jp": "ã[chgfg textoff=0 storage=æ¡ç§æ06a(ä¸­) time=300]ç½²åæºå°ã®å\n¥ã£ãåç¨æ¸ã¨ãããªãã¨ãçåå¯ã«ã¯åãããã¨ãèªãã¾ããããã",
+      "Pt-br": "[chgfg textoff=0 storage=桜私服06a(中) time=300]Ela não aprova empréstimos fáceis, a menos que você tenha uma nota promissória assinada e selada.\"",
+      "id": 12393,
+      "epk_id": "13926",
+      "label": "$$$message_0110_0069_0001$$$"
+    },
+    {
+      "en": "I feel like you'd need to form a notarized deed or a court ruling or something...when having someone like Tohsaka in your debt.",
+      "jp": "ãå\n¬æ­£è¨¼æ¸ãçµãã ãã¨ããè£å¤æã®æ±ºå®ã¨ããå¿\nè¦ãªæãããããªâ¦â¦é åç¸æã®è²¸ãã«ã¯ã",
+      "Pt-br": "Tenho a sensação de que você precisaria fazer uma escritura lavrada em cartório ou uma decisão judicial ou algo assim... quando você tem alguém como a Tohsaka na sua dívida.",
+      "id": 12394,
+      "epk_id": "13927",
+      "label": "$$$message_0110_0070_0000$$$"
+    },
+    {
+      "en": "\"I need to get myself together more, and I want to say,[cacheimage storage=æ¡ç§æ08k(ä¸­)][wvl canskip=0 time=300][chgfg textoff=0 storage=æ¡ç§æ08k(ä¸­) time=200] 'You owe me, Nee-san!'[lr]",
+      "jp": "ããããããã£ã¨ãã£ãããã¦ãä¸åã§è¯ãã§ããã[cacheimage storage=æ¡ç§æ08k(ä¸­)][wvl canskip=0 time=300][chgfg textoff=0 storage=æ¡ç§æ08k(ä¸­) time=200]å§ããã«è²¸ããããã¾ãï¼[lr]",
+      "Pt-br": "\"Eu preciso me recompor mais, e eu quero dizer,[cacheimage storage=桜私服08k(中)][wvl canskip=0 time=300][chgfg textoff=0 storage=桜私服08k(中) time=200] 'É você quem me deve, Nee-san!'[lr]",
+      "id": 12395,
+      "epk_id": "13928",
+      "label": "$$$message_0110_0071_0000$$$"
+    },
+    {
+      "en": "[chgfg storage=æ¡ç§æ03e(ä¸­) time=300]at least once.\"[lr]",
+      "jp": "ã[chgfg storage=æ¡ç§æ03e(ä¸­) time=300]ã£ã¦è¨ã£ã¦ã¿ããã§ãã­ã[lr]",
+      "Pt-br": "[chgfg storage=桜私服03e(中) time=300]pelo menos uma vez.\"[lr]",
+      "id": 12396,
+      "epk_id": "13929",
+      "label": "$$$message_0110_0071_0001$$$"
+    },
+    {
+      "en": "\"...I'm sure that'll happen soon. Don't tell Tohsaka that we talked about this, okay?\"[lr]",
+      "jp": "ãâ¦â¦ãã®ãã¡ãªããã ããããããªãã¨è©±ãã¦ãã£ã¦ãé åã«ã¯ç§å¯ã ãï¼ã[lr]",
+      "Pt-br": "\"...Tenho certeza de que isso acontecerá em breve. Não conte à Tohsaka que falamos sobre isso, tudo bem?\"[lr]",
+      "id": 12397,
+      "epk_id": "13930",
+      "label": "$$$message_0110_0071_0002$$$"
+    },
+    {
+      "en": "\"Yes, Nee-san will probably get mad if she finds out.\"",
+      "jp": "ãããã§ãã­ãç¥ããããå§ãããã£ã¨æãã¾ãã",
+      "Pt-br": "\"Sim, a Nee-san provavelmente vai ficar brava se descobrir.\"",
+      "id": 12398,
+      "epk_id": "13931",
+      "label": "$$$message_0110_0071_0003$$$"
+    },
+    {
+      "en": "We both laugh a bit.[lr]",
+      "jp": "ãã¯ã¯ãã¨å°ããç¬ãåãã[lr]",
+      "Pt-br": "Ambos nós rimos um pouco.[lr]",
+      "id": 12399,
+      "epk_id": "13932",
+      "label": "$$$message_0110_0072_0000$$$"
+    },
+    {
+      "en": "I feel like I understand Tohsaka's complicated parts a bit more.[lr]",
+      "jp": "ãé åã®è¤éãªã¨ãããå°ãåãã£ãæããããã[lr]",
+      "Pt-br": "Sinto que entendo as partes mais complicadas da Tohsaka um pouco melhor.[lr]",
+      "id": 12400,
+      "epk_id": "13933",
+      "label": "$$$message_0110_0072_0001$$$"
+    },
+    {
+      "en": "[line len=3]Then...",
+      "jp": "ã[line len=3]ã¨ã",
+      "Pt-br": "[line len=3]Então...",
+      "id": 12401,
+      "epk_id": "13934",
+      "label": "$$$message_0110_0072_0002$$$"
+    },
+    {
+      "en": "\"There is something I would like to ask you, Sakura[line len=3]\"[lr]",
+      "jp": "ããµã¯ã©ãä¼ºããããã¨ãããã®ã§ãã[line len=3]ã[lr]",
+      "Pt-br": "\"Tem uma coisa que eu gostaria de te perguntar, Sakura[line len=3]\"[lr]",
+      "id": 12402,
+      "epk_id": "13935",
+      "label": "$$$message_0110_0073_0000$$$"
+    },
+    {
+      "en": "\"Oh...[cacheimage storage=æ¡ç§æ08h(ä¸­)][wvl canskip=0 time=400][chgfg textoff=0 storage=æ¡ç§æ08h(ä¸­) time=300]that's right, we have to keep on cleaning!\"[lr]",
+      "jp": "ããâ¦â¦[cacheimage storage=æ¡ç§æ08h(ä¸­)][wvl canskip=0 time=400][chgfg textoff=0 storage=æ¡ç§æ08h(ä¸­) time=300]ããã§ããããæé¤ç¶ããªãã¨ï¼ã[lr]",
+      "Pt-br": "\"Ah...[cacheimage storage=桜私服08h(中)][wvl canskip=0 time=400][chgfg textoff=0 storage=桜私服08h(中) time=300]é verdade, ainda temos que continuar limpando!\"[lr]",
+      "id": 12403,
+      "epk_id": "13936",
+      "label": "$$$message_0110_0073_0001$$$"
+    },
+    {
+      "en": "\"Shoot, we won't get things done even if we keep going until the sun sets...\"[lr]",
+      "jp": "ããã£ãã­ããããªäºãã¦ãã¨æ¥ãæ®ãã¦ãçµãããªããâ¦â¦ã[lr]",
+      "Pt-br": "\"Droga, não vamos terminar as coisas nem se continuarmos até o Sol se pôr...\"[lr]",
+      "id": 12404,
+      "epk_id": "13937",
+      "label": "$$$message_0110_0073_0002$$$"
+    },
+    {
+      "en": "\"Let's get this over with then, Senpai!\"",
+      "jp": "ãã§ã¯ãã¡ããã¡ããã£ã¨çä»ãã¾ããããå\nè¼©ï¼ã",
+      "Pt-br": "\"Vamos acabar logo com isso então, Senpai!\"",
+      "id": 12405,
+      "epk_id": "13938",
+      "label": "$$$message_0110_0073_0003$$$"
+    },
+    {
+      "en": "\"[line len=3]Anfung Mittelstand.\"",
+      "jp": "ã[line len=3]AnfungãMittelstandã",
+      "Pt-br": "\"[line len=3]Anfang Mittelstand.\"",
+      "id": 12406,
+      "epk_id": "13939",
+      "label": "$$$message_0110_0074_0000$$$"
+    },
+    {
+      "en": "\"...Did it go well, Rider?\"[lr]",
+      "jp": "ãâ¦â¦â¦ä¸æããã£ãããªï¼ãã©ã¤ãã¼ï¼ã[lr]",
+      "Pt-br": "\"...Foi tudo bem, Rider?\"[lr]",
+      "id": 12407,
+      "epk_id": "13940",
+      "label": "$$$message_0110_0075_0000$$$"
+    },
+    {
+      "en": "\"Yes, well done.\"[lr]",
+      "jp": "ããããä¸åºæ¥ã§ãã[lr]",
+      "Pt-br": "\"Sim, um bom trabalho.\"[lr]",
+      "id": 12408,
+      "epk_id": "13941",
+      "label": "$$$message_0110_0075_0001$$$"
+    },
+    {
+      "en": "The long Tohsaka house cleaning has finished.",
+      "jp": "ãé·ãã£ãé åé¸ã®æé¤ãããã§çµäºã",
+      "Pt-br": "A longa limpeza da casa da Tohsaka terminou.",
+      "id": 12409,
+      "epk_id": "13942",
+      "label": "$$$message_0110_0075_0002$$$"
+    },
+    {
+      "en": "\"Thank you for all your hard work today, everyone!\"[lr]",
+      "jp": "ãããã§ã¯çãããä»æ¥ã¯ã©ãããç²ããã¾ã§ããï¼ã[lr]",
+      "Pt-br": "\"Obrigado por todo o trabalho duro de hoje, pessoal!\"[lr]",
+      "id": 12410,
+      "epk_id": "13943",
+      "label": "$$$message_0110_0076_0000$$$"
+    },
+    {
+      "en": "\"Sorry for making you three help out.\"[lr]",
+      "jp": "ãæä¼ã£ã¦ããã¦æ¸ã¾ãªããªãä¸äººã¨ãã[lr]",
+      "Pt-br": "\"Desculpa por fazer vocês três ajudarem.\"[lr]",
+      "id": 12411,
+      "epk_id": "13944",
+      "label": "$$$message_0110_0076_0001$$$"
+    },
+    {
+      "en": "\"No worries. You too, Shirou, good work today.\"[lr]",
+      "jp": "ããããã·ã­ã¦ãããè¦å´ãã¾ã§ããã[lr]",
+      "Pt-br": "\"Sem problemas. Você também, Shirou, bom trabalho.\"[lr]",
+      "id": 12412,
+      "epk_id": "13945",
+      "label": "$$$message_0110_0076_0002$$$"
+    },
+    {
+      "en": "\"Yes. You were helping out in every area everyone was in charge of.\" ",
+      "jp": "ããããçµå±ãå\n¨å¡ã®æ\nå½ç®æãæä¼ã£ã¦ãã¾ããããã­ã",
+      "Pt-br": "\"Sim. Você também estava ajudando em todas as áreas nas quais nós éramos as encarregadas.\" ",
+      "id": 12413,
+      "epk_id": "13946",
+      "label": "$$$message_0110_0076_0003$$$"
+    },
+    {
+      "en": "We leave the deserted Tohsaka house.[lr]",
+      "jp": "ãç¡äººã®é åé¸ãå¾ã«ããã[lr]",
+      "Pt-br": "Nós deixamos a casa vazia da Tohsaka para trás.[lr]",
+      "id": 12414,
+      "epk_id": "13947",
+      "label": "$$$message_0110_0077_0000$$$"
+    },
+    {
+      "en": "I don't know when the owner of the mansion will come back, but until then, we need to keep this house clean.",
+      "jp": "ãé¤¨ã®ä¸»äººããã¤å¸°ã£ã¦ãããã¯åãããªãããããã¾ã§ããã®å®¶ã¯ä¿ºãã¡ãã­ã¬ã¤ã«ãã¦ãããªãã¨ãªã",
+      "Pt-br": "Não sei quando a dona da mansão voltará, mas até lá, nós temos que manter esta casa limpa.",
+      "id": 12415,
+      "epk_id": "13948",
+      "label": "$$$message_0110_0077_0001$$$"
+    },
+    {
+      "en": "\"All right, four people is perfect.\"[r]Æ\nö",
+      "jp": "ããããåäººãã¼ãã£ã¼[r]ãªãå®ç§ã ã",
+      "Pt-br": "\"Tudo bem, quatro pessoas é perfeito.\"[r]",
+      "id": 12416,
+      "epk_id": "913723",
+      "label": "$$$message_9110_0001_0000$$$"
+    }
+  ]
+}

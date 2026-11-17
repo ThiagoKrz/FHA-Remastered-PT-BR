@@ -1,0 +1,1208 @@
+{
+  "cena": "51q9u587sbi6u1tdk3e325rhf7",
+  "titulo": "Consultando a Rin",
+  "rota": "Noite",
+  "arquivo": "51q9u587sbi6u1tdk3e325rhf7.epk_dec",
+  "linhas": [
+    {
+      "en": "I'll ask her about our current situation.[lr]",
+      "jp": "ãä»ã®ç¶æ³ã«ã¤ãã¦ç¸è«ãããã[lr]",
+      "Pt-br": "Vou perguntar a ela sobre nossa situação atual.[lr]",
+      "id": 21716,
+      "epk_id": "26859",
+      "label": "$$$message_0200_0000_0000$$$"
+    },
+    {
+      "en": "Tohsaka came back home because she heard about what's happening to the town, so it would be good to get her opinion.",
+      "jp": "ãé åãçºã®ç°ç¶ãèãã¤ãã¦å¸°ã£ã¦ãããã ãããæè¦ãèãã¦ã¿ãã®ãããã",
+      "Pt-br": "Tohsaka voltou para casa porque soube do que está acontecendo com a cidade, então seria bom ouvir a opinião dela.",
+      "id": 21717,
+      "epk_id": "26860",
+      "label": "$$$message_0200_0000_0001$$$"
+    },
+    {
+      "en": "\"Yeah, I did a quick survey of the town. We don't have much to go on at the moment.[lr]",
+      "jp": "ããããçºãã©ããªã£ã¦ãããã¯ãã£ã¨è¦ã¦åã£ã¦ããããç¾ç¶ã§ã¯ããã¨ãã£ã¦æã¤æã¯ãªãã­ã[lr]",
+      "Pt-br": "\"Sim, dei uma olhada rápida pela cidade. Por enquanto, não temos muitas pistas.[lr]",
+      "id": 21718,
+      "epk_id": "26861",
+      "label": "$$$message_0200_0001_0000$$$"
+    },
+    {
+      "en": "Do you know anything, Emiya?\"[lr]",
+      "jp": "ãã§ãè¡å®®ããã¯ä½ãç¥ã£ã¦ãã®ï¼ã[lr]",
+      "Pt-br": "Você sabe de alguma coisa, Emiya-kun?\"[lr]",
+      "id": 21719,
+      "epk_id": "26862",
+      "label": "$$$message_0200_0001_0001$$$"
+    },
+    {
+      "en": "She's already eager to talk about it, and cuts to the question before I do.[lr]",
+      "jp": "ãã¨ã£ãã«æºåã¯åºæ¥ã¦ããããããé åã¯ãããªãæ¬é¡ã«å\n¥ã£ã¦ããã[lr]",
+      "Pt-br": "Ela já está ansiosa para conversar sobre o assunto e vai direto à pergunta antes mesmo que eu possa fazê-la.[lr]",
+      "id": 21720,
+      "epk_id": "26863",
+      "label": "$$$message_0200_0001_0002$$$"
+    },
+    {
+      "en": "I'm glad we're not wasting time, but I have another question first.",
+      "jp": "ãè©±ãæ©ãã¦å©ããã®ã ãããã®åã«çåãä¸ã¤ã",
+      "Pt-br": "Fico feliz por não estarmos perdendo tempo, mas primeiro tenho outra pergunta.",
+      "id": 21721,
+      "epk_id": "26864",
+      "label": "$$$message_0200_0001_0003$$$"
+    },
+    {
+      "en": "\"Hey, Tohsaka. What's Archer up to? Is he on standby somewhere close since you came home?\"[lr]",
+      "jp": "ããªãé åãã¢ã¼ãã£ã¼ã®ã¤ãã¯ã©ããã¦ããã ï¼ãé åãå¸°ã£ã¦ãããã ãããè¿ãã«å¾\næ©ãã¦ãã®ãï¼ã[lr]",
+      "Pt-br": "\"Ei, Tohsaka. O que o Archer está fazendo? Está de prontidão em algum lugar por perto desde que você voltou para casa?\"[lr]",
+      "id": 21722,
+      "epk_id": "26865",
+      "label": "$$$message_0200_0002_0000$$$"
+    },
+    {
+      "en": "\"I broke things off with Archer. We aren't Master and Servant anymore.\"[lr]",
+      "jp": "ãã¢ã¼ãã£ã¼ã¨ã¯çµ¶ç¸ä¸­ããããããã¢ã¤ãã¨ãããããããã¹ã¿ã¼ã¨ãµã¼ã´ã¡ã³ãã®é¢ä¿ãããªããã®ã[lr]",
+      "Pt-br": "\"Cortei os laços com Archer. Não somos mais Mestre e Servo.\"[lr]",
+      "id": 21723,
+      "epk_id": "26866",
+      "label": "$$$message_0200_0002_0001$$$"
+    },
+    {
+      "en": "\"Huh? What do you mean? You severed your pact?\"",
+      "jp": "ããï¼ãã©ãããäºã ããï¼ãå¥ç´ãåã£ãã®ãï¼ã",
+      "Pt-br": "\"Hã? Como assim? Você rompeu o contrato?\"",
+      "id": 21724,
+      "epk_id": "26867",
+      "label": "$$$message_0200_0002_0002$$$"
+    },
+    {
+      "en": "\"More like it got severed. It hasn't been in effect since the Holy Grail War ended. It was his choice.\"",
+      "jp": "ãåã£ããã¨ããããåããã®ãèæ¯æ¦äºãçµãã£ãæãå¥ç´ã¯ä¸åº¦ç ´æ£ãããã®ãããµã¼ã´ã¡ã³ãå´ã®æå¿ã§ã­ã",
+      "Pt-br": "\"É mais correto dizer que ele foi rompido. Não está em vigor desde o fim da Guerra do Santo Graal. Foi escolha dele.\"",
+      "id": 21725,
+      "epk_id": "26868",
+      "label": "$$$message_0200_0003_0000$$$"
+    },
+    {
+      "en": "\"Rider and Saber might be okay with how things are now, but he probably had his reasons.[lr]",
+      "jp": "ãã©ã¤ãã¼ãã»ã¤ãã¼ã¯å¥ã«ä»ã®ã¾ã¾ã§è¯ãã£ããã§ããããã©ãã¢ã¤ãã¯ä½ãæãã¨ããããã£ããã§ããã[lr]",
+      "Pt-br": "\"Rider e Saber talvez estejam satisfeitas com a situação atual, mas ele provavelmente teve seus motivos.[lr]",
+      "id": 21726,
+      "epk_id": "26869",
+      "label": "$$$message_0200_0004_0000$$$"
+    },
+    {
+      "en": "We're not working together 24/7. We just give and take when the situation requires it.[lr]",
+      "jp": "ãåã¿ããã«åå\n­æä¸­ååæ\nå¢ã£ã¦ã¯ã±ãããªãã¦ãå¿\nè¦ãªæã«ã®ãã¢ã³ããã¤ã¯ã§æãè²¸ãã¦ãããç¶æ\nãªã®ã[lr]",
+      "Pt-br": "Não trabalhamos juntos 24 horas por dia. Apenas cooperamos quando a situação exige.[lr]",
+      "id": 21727,
+      "epk_id": "26870",
+      "label": "$$$message_0200_0004_0001$$$"
+    },
+    {
+      "en": "I'm still anchoring him to the mortal world, but I've cut off his magical energy supply.\"",
+      "jp": "ãã¢ã¤ããç¾çããçºã®è§¦åªã«ã¯ãªã£ã¦ããã¦ããã©ãé­åæä¾ã¯ã«ãããã¦ããã",
+      "Pt-br": "Ainda o mantenho ligado ao mundo dos vivos, mas cortei o fornecimento de energia mágica.\"",
+      "id": 21728,
+      "epk_id": "26871",
+      "label": "$$$message_0200_0004_0002$$$"
+    },
+    {
+      "en": "\"I thought you knew that already. Why are you asking now?\"[lr]",
+      "jp": "ãã£ã¦ããããªã®ãã£ã¨åããç¥ã£ã¦ããããªãããªã«ããä»ã«ãªã£ã¦èãè¿ããªãã¦ã[lr]",
+      "Pt-br": "\"Achei que você já soubesse disso. Por que está perguntando agora?\"[lr]",
+      "id": 21729,
+      "epk_id": "26872",
+      "label": "$$$message_0200_0005_0000$$$"
+    },
+    {
+      "en": "\"...\"",
+      "jp": "ã[line len=6]ã",
+      "Pt-br": "\"...\"",
+      "id": 21730,
+      "epk_id": "26873",
+      "label": "$$$message_0200_0005_0001$$$"
+    },
+    {
+      "en": "That's right.[lr]",
+      "jp": "ãããã ã[lr]",
+      "Pt-br": "É verdade.[lr]",
+      "id": 21731,
+      "epk_id": "26874",
+      "label": "$$$message_0200_0006_0000$$$"
+    },
+    {
+      "en": "That's the relationship they have now.[lr]",
+      "jp": "ãé åã¨ã¢ã¼ãã£ã¼ã¯ããããç¶æ\nã ã£ãã[lr]",
+      "Pt-br": "Essa é a relação que eles têm agora.[lr]",
+      "id": 21732,
+      "epk_id": "26875",
+      "label": "$$$message_0200_0006_0001$$$"
+    },
+    {
+      "en": "Archer isn't nearby, but he'll conditionally help Tohsaka when she needs him.[lr]",
+      "jp": "ãè¿ãã«ã¯ããªãããé åãå¿\nè¦ã¨ããæã ãæ¡ä»¶æ¬¡ç¬¬ã§æãè²¸ããµã¼ã´ã¡ã³ãã[lr]",
+      "Pt-br": "Archer não está por perto, mas ajudará Tohsaka em determinadas condições quando ela precisar.[lr]",
+      "id": 21733,
+      "epk_id": "26876",
+      "label": "$$$message_0200_0006_0002$$$"
+    },
+    {
+      "en": "...I don't know what spurred him to make that choice, but that's how it has to be now.[lr]",
+      "jp": "ãâ¦â¦ã¢ã¼ãã£ã¼ãã©ããªèãã§ãã®é¢ä¿ãé¸ãã ãã¯ç¥ããªãããããã§ãªããã°ç«ã¡è¡ããªãã[lr]",
+      "Pt-br": "...Não sei o que o levou a tomar essa decisão, mas agora as coisas precisam ser assim.[lr]",
+      "id": 21734,
+      "epk_id": "26877",
+      "label": "$$$message_0200_0006_0003$$$"
+    },
+    {
+      "en": "If he kept on being Tohsaka's Servant, it would have given rise to a critical contradiction of some kind.",
+      "jp": "ãã¢ã¤ããé åã®ãµã¼ã´ã¡ã³ããç¶ããã¨ããäºã¯ãä½ããæ±ºå®çãªçç¾ãçã¿åºããã­ãªãããã ã",
+      "Pt-br": "Se ele continuasse sendo o Servo de Tohsaka, isso acabaria criando algum tipo de contradição crítica.",
+      "id": 21735,
+      "epk_id": "26878",
+      "label": "$$$message_0200_0006_0004$$$"
+    },
+    {
+      "en": "\"Emiya? Your face is worrying me.[lr]",
+      "jp": "ãè¡å®®ããï¼ãã©ãããã®ããªããæãé¡ãã¦ã[lr]",
+      "Pt-br": "\"Emiya-kun? Você está com uma expressão preocupante.[lr]",
+      "id": 21736,
+      "epk_id": "26879",
+      "label": "$$$message_0200_0007_0000$$$"
+    },
+    {
+      "en": "I know you don't like Archer, but do you dislike talking about him too?\"",
+      "jp": "ãã¢ã¼ãã£ã¼ãè¦æãªã®ã¯åãããã©ãè©±ãããã ãã§ãã¤ã¤ã ã£ãã£ãï¼ã",
+      "Pt-br": "Sei que não gosta de Archer, mas também não gosta de falar sobre ele?\"",
+      "id": 21737,
+      "epk_id": "26880",
+      "label": "$$$message_0200_0007_0001$$$"
+    },
+    {
+      "en": "\"Nah, I just got a little lightheaded. Sorry for bringing it up. I'll get to the point.[lr]",
+      "jp": "ãããããã ã®ç«ã¡ç©ã¿ã ãä½è¨ãªè©±ãããã¦æªãã£ããæ¬é¡ã«å\n¥ããã[lr]",
+      "Pt-br": "\"Não, só fiquei um pouco tonto. Desculpe por tocar no assunto. Vou direto ao ponto.[lr]",
+      "id": 21738,
+      "epk_id": "26881",
+      "label": "$$$message_0200_0008_0000$$$"
+    },
+    {
+      "en": "What do you think after taking a look around town? Does anything feel wrong or out of place to you?\"",
+      "jp": "ãé åãçºãåã£ã¦ã¿ã¦ã©ãã ã£ãï¼ãéåæã¨ããä½ãããããªæã¨ããã£ããï¼ã",
+      "Pt-br": "O que achou depois de dar uma olhada pela cidade? Sentiu algo estranho ou fora do lugar?\"",
+      "id": 21739,
+      "epk_id": "26882",
+      "label": "$$$message_0200_0008_0001$$$"
+    },
+    {
+      "en": "\"Hmm. I'm not sure. Something is strange, but not strange enough to feel strange, if that makes any sense.[lr]",
+      "jp": "ããã¼ããããã¯ã£ããããªãã£ã¦ããããç¢ºãã«ããããã¨ã¯æããã ãã©ãå¥ã«ããããã¯ãªãã®ãã­ã[lr]",
+      "Pt-br": "\"Hmm. Não sei bem. Há algo estranho, mas não chega a parecer estranho, se é que isso faz sentido.[lr]",
+      "id": 21740,
+      "epk_id": "26883",
+      "label": "$$$message_0200_0009_0000$$$"
+    },
+    {
+      "en": "Sorry for sounding so abstract. It's like someone set things up so that the moment you feel something's wrong, you won't be able to notice what exactly is wrong with it.\"[cacheimage storage=凛私服08a(中),fd07(背景),white][wvs][rep textoff=0 fliplr=0 tops=,0, storages=凛私服08a(中),fd07(背景),white time=200 flipud=0 opacities=,0,0 lefts=,0, poss=c,,c indexes=1000,2000,3000]",
+      "jp": "ãæãªããæ½è±¡çãªå©ãã§ç³ãè¨³ãªããã ãã©ãããããã£ã¦æãã¦ãæç¹ã§ãä½ãããããã®ãæ°ä»ããªãä»çµã¿ã«ãªã£ã¦ãã£ã¦è¨ããã[cacheimage storage=åç§æ08a(ä¸­),fd07(èæ¯),white][wvs][rep textoff=0 fliplr=0 tops=,0, storages=åç§æ08a(ä¸­),fd07(èæ¯),white time=200 flipud=0 opacities=,0,0 lefts=,0, poss=c,,c indexes=1000,2000,3000]",
+      "Pt-br": "Desculpe por falar de maneira tão abstrata. É como se alguém tivesse preparado tudo para que, no instante em que você percebesse que algo está errado, não conseguisse identificar exatamente o que é.\"[cacheimage storage=凛私服08a(中),fd07(背景),white][wvs][rep textoff=0 fliplr=0 tops=,0, storages=凛私服08a(中),fd07(背景),white time=200 flipud=0 opacities=,0,0 lefts=,0, poss=c,,c indexes=1000,2000,3000]",
+      "id": 21741,
+      "epk_id": "26884",
+      "label": "$$$message_0200_0009_0001$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "ãâ¦â¦â¦â¦â¦â¦ã[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 21742,
+      "epk_id": "26885",
+      "label": "$$$message_0200_0010_0000$$$"
+    },
+    {
+      "en": "Is she saying that the situation corrects itself as soon as you notice something is wrong with it?[lr]",
+      "jp": "ãç°å¸¸ã¯ç°ç¶ã¨æããæç¹ã§æ­£å¸¸ã«ãªãâ¦â¦ã¨ããäºãªã®ãã[lr]",
+      "Pt-br": "Ela quer dizer que a situação se corrige assim que você percebe que há algo errado?[lr]",
+      "id": 21743,
+      "epk_id": "26886",
+      "label": "$$$message_0200_0010_0001$$$"
+    },
+    {
+      "en": "In other words, thinking that it's correct is a mistake.[lr]",
+      "jp": "ãã¤ã¾ããæ­£ããã¨æããäºãæ­£ãããªãã[lr]",
+      "Pt-br": "Em outras palavras, o erro está em achar que tudo está certo.[lr]",
+      "id": 21744,
+      "epk_id": "26887",
+      "label": "$$$message_0200_0010_0002$$$"
+    },
+    {
+      "en": "Then... [move textoff=0 time=100 path=(0,0,0)(0,0,255)(0,0,255)(0,0,255)(0,0,255)(0,0,255)(0,0,255)(0,0,255)(0,0,0) storage=fd07(背景) accel=0][move textoff=0 time=100 path=(0,0,0)(0,0,255)(0,0,200)(0,0,155)(0,0,100)(0,0,55)(0,0,0)(0,0,255)(0,0,100)(0,0,0)(0,0,0) storage=white accel=0]If I assume that events that aren't correct, and that events which would normally never occur in Fuyuki [font italic=true]are[font italic=false] correct...",
+      "jp": "ãã§ã¯[line len=3][move textoff=0 time=100 path=(0,0,0)(0,0,255)(0,0,255)(0,0,255)(0,0,255)(0,0,255)(0,0,255)(0,0,255)(0,0,0) storage=fd07(èæ¯) accel=0][move textoff=0 time=100 path=(0,0,0)(0,0,255)(0,0,200)(0,0,155)(0,0,100)(0,0,55)(0,0,0)(0,0,255)(0,0,100)(0,0,0)(0,0,0) storage=white accel=0]æ­£ãããªãåºæ¥äºãæ¬æ¥ã®å¬æ¨å¸ã§ã¯èµ·ãã¦ããªãåºæ¥äºãããæ­£ããã¨ä»®å®ããã[line len=3]",
+      "Pt-br": "Então... [move textoff=0 time=100 path=(0,0,0)(0,0,255)(0,0,255)(0,0,255)(0,0,255)(0,0,255)(0,0,255)(0,0,255)(0,0,0) storage=fd07(背景) accel=0][move textoff=0 time=100 path=(0,0,0)(0,0,255)(0,0,200)(0,0,155)(0,0,100)(0,0,55)(0,0,0)(0,0,255)(0,0,100)(0,0,0)(0,0,0) storage=white accel=0]Se eu considerar corretos os acontecimentos que não estão certos, e os acontecimentos que normalmente jamais ocorreriam em Fuyuki [font italic=true]como[font italic=false] corretos...",
+      "id": 21745,
+      "epk_id": "26888",
+      "label": "$$$message_0200_0010_0003$$$"
+    },
+    {
+      "en": "\"You look like you know something. What happened while I was gone?\"[lr]",
+      "jp": "ãâ¦â¦ä½ãç¥ã£ã¦ããã­è¡å®®ãããããããããªãéã«ä½ããã£ãã®ï¼ã[lr]",
+      "Pt-br": "\"Parece que você sabe de alguma coisa. O que aconteceu enquanto eu estava fora?\"[lr]",
+      "id": 21746,
+      "epk_id": "26889",
+      "label": "$$$message_0200_0011_0000$$$"
+    },
+    {
+      "en": "\"Nothing. Nothing at all, but...\"[lr]",
+      "jp": "ãä½ããªãã£ããä½ããªãã£ããã©[line len=3]ã[lr]",
+      "Pt-br": "\"Nada. Absolutamente nada, mas...\"[lr]",
+      "id": 21747,
+      "epk_id": "26890",
+      "label": "$$$message_0200_0011_0001$$$"
+    },
+    {
+      "en": "Where did I acquire this extra knowledge?",
+      "jp": "ããã®ä½åãªç¥è­ããä¿ºã¯ä½å¦ã§æã«å\n¥ããã®ãã",
+      "Pt-br": "De onde tirei esse conhecimento a mais?",
+      "id": 21748,
+      "epk_id": "26891",
+      "label": "$$$message_0200_0011_0002$$$"
+    },
+    {
+      "en": "\"...There's something I want to tell you.[lr]",
+      "jp": "ã[line len=3]å°ããèãã¦æ¬²ããäºãããã[lr]",
+      "Pt-br": "\"...Tem uma coisa que quero contar a você.[lr]",
+      "id": 21749,
+      "epk_id": "26892",
+      "label": "$$$message_0200_0012_0000$$$"
+    },
+    {
+      "en": "I don't know why I'm saying this...\"[lr]",
+      "jp": "ãä¿ºèªèº«ãã©ããã¦ãããªäºãå£ã«ãããåãããªããã ãâ¦â¦ã[lr]",
+      "Pt-br": "Não sei por que estou dizendo isso...\"[lr]",
+      "id": 21750,
+      "epk_id": "26893",
+      "label": "$$$message_0200_0012_0001$$$"
+    },
+    {
+      "en": "As calmly as I can manage, I explain my thoughts.[lr]",
+      "jp": "ãåºæ¥ãã ãå·éã«ãªã£ã¦è©±ãå§ããã[lr]",
+      "Pt-br": "Explico meus pensamentos da maneira mais calma que consigo.[lr]",
+      "id": 21751,
+      "epk_id": "26894",
+      "label": "$$$message_0200_0012_0002$$$"
+    },
+    {
+      "en": "I recount my battle against Archer, which hasn't happened yet.[lr]",
+      "jp": "ãã¾ã èµ·ãã¦ãããªãã¢ã¼ãã£ã¼ã¨ã®æ¦ãã[lr]",
+      "Pt-br": "Conto sobre minha batalha contra Archer, que ainda não aconteceu.[lr]",
+      "id": 21752,
+      "epk_id": "26895",
+      "label": "$$$message_0200_0012_0003$$$"
+    },
+    {
+      "en": "I describe how Saber will fall fighting a Master I've never seen.[lr]",
+      "jp": "ãè¦ããã¨ããªããã¹ã¿ã¼ã«åãããã»ã¤ãã¼ã[lr]",
+      "Pt-br": "Descrevo como Saber será derrotada lutando contra um Mestre que nunca vi.[lr]",
+      "id": 21753,
+      "epk_id": "26896",
+      "label": "$$$message_0200_0012_0004$$$"
+    },
+    {
+      "en": "I tell her the story of Fuyuki City that ends in four days.",
+      "jp": "ãåæ¥ç®ã§çµãã£ã¦ãã¾ããå¬æ¨å¸ã®ç©èªãã",
+      "Pt-br": "Conto a história de Fuyuki que termina em quatro dias.",
+      "id": 21754,
+      "epk_id": "26897",
+      "label": "$$$message_0200_0012_0005$$$"
+    },
+    {
+      "en": "\"...Just to be sure, you only [font italic=true]know of[font italic=false] these events, right? You haven't seen them personally, or experienced the fourth day yet.\"[lr]",
+      "jp": "ã[line len=3]ç¢ºèªãããã©ãè¡å®®ããã¯ããã®åºæ¥äºãç¥ã£ã¦ããã ããªã®ã­ï¼ãå®éã«è¦ãè¨³ã§ããªãã¦ããã®åæ¥ç®ãä½é¨ãã¦ãããªãã[lr]",
+      "Pt-br": "\"...Só para confirmar: você apenas [font italic=true]sabe a respeito[font italic=false] desses acontecimentos, certo? Não os viu pessoalmente nem chegou a vivenciar o quarto dia.\"[lr]",
+      "id": 21755,
+      "epk_id": "26898",
+      "label": "$$$message_0200_0013_0000$$$"
+    },
+    {
+      "en": "\"Yeah. I only know of them. It's not like I dreamed of them or heard about them from somewhere.\"",
+      "jp": "ãããããã ç¥ã£ã¦ãã ãã ãå¤¢ã§è¦ãã¨ããã©ããã§èããã¨ãããã®ããªãã",
+      "Pt-br": "\"Isso. Só sei a respeito deles. Não é como se tivesse sonhado com isso ou ouvido falar em algum lugar.\"",
+      "id": 21756,
+      "epk_id": "26899",
+      "label": "$$$message_0200_0013_0001$$$"
+    },
+    {
+      "en": "\"And you still know of them. If they happen in this town, then you're aware of them, somehow.[lr]",
+      "jp": "ãããã©ç¥ã£ã¦ããããã®çºã§èµ·ããäºãªãããªãã¨ãªãææ¡ã§ããã[lr]",
+      "Pt-br": "\"E, mesmo assim, você sabe o que vai acontecer. De algum modo, tem conhecimento desses eventos caso ocorram nesta cidade.[lr]",
+      "id": 21757,
+      "epk_id": "26900",
+      "label": "$$$message_0200_0014_0000$$$"
+    },
+    {
+      "en": "But right now, you can't remember them because you don't know them [font italic=true]yet[font italic=false].\"",
+      "jp": "ããã©ãä»ã®è¡å®®ããã¯[ruby text=ã»ã» o2o=1]ã¾ã ç¥ããªãããæãåºããªãã",
+      "Pt-br": "Mas, neste momento, não consegue se lembrar deles porque ainda não os conhece [font italic=true]de fato[font italic=false].\"",
+      "id": 21758,
+      "epk_id": "26901",
+      "label": "$$$message_0200_0014_0001$$$"
+    },
+    {
+      "en": "\"At that point, it's not like you're [font italic=true]starting over[font italic=false]. It's only you that's in that state while Sakura and I are normal, so it doesn't apply to all of Fuyuki.[lr]",
+      "jp": "ãâ¦â¦ãã®æç¹ã§ãããç´ãã¦ããã£ã¦ã¯ã±ãããªãããã­ããããªç¶æ\nãªã®ã¯è¡å®®ããã ãã§ããããæ¡ã¯æ®éãªãã ãããå¬æ¨å¸ããã¿ã£ã¦ããã®ããªãã[lr]",
+      "Pt-br": "\"Nesse caso, não é como se você estivesse [font italic=true]começando de novo[font italic=false]. Só você está nesse estado, enquanto Sakura e eu estamos normais. Portanto, isso não se aplica a toda Fuyuki.[lr]",
+      "id": 21759,
+      "epk_id": "26902",
+      "label": "$$$message_0200_0015_0000$$$"
+    },
+    {
+      "en": "...No. Is it that Fuyuki is like this only during these four days, and you're the only one who can watch it from the side...?\"",
+      "jp": "ãâ¦â¦ããããä»ã®åæ¥éã ãå¬æ¨å¸ãããããç¶æ\nã§ãè¡å®®ããã ãé£ããè¦ãã¦ãâ¦â¦ï¼ã",
+      "Pt-br": "...Não. Será que Fuyuki fica assim apenas durante esses quatro dias, e você é o único que consegue observá-la de fora...?\"",
+      "id": 21760,
+      "epk_id": "26903",
+      "label": "$$$message_0200_0015_0001$$$"
+    },
+    {
+      "en": "...What I told Tohsaka about is the end of the fourth day, which I somehow know about.[lr]",
+      "jp": "ãâ¦â¦é åã«è©±ããã®ã¯ããªãã¨ãªãä¿ºãç¥ã£ã¦ãããåæ¥ç®ã®çµããã ãã ã[lr]",
+      "Pt-br": "...O que contei a Tohsaka foi sobre o fim do quarto dia, algo que sei de alguma forma.[lr]",
+      "id": 21761,
+      "epk_id": "26904",
+      "label": "$$$message_0200_0016_0000$$$"
+    },
+    {
+      "en": "Shirou Emiya doesn't have a future beyond the fourth day.[lr]",
+      "jp": "ãåæ¥ç®ããå\nã®ãªãè¡å®®å£«éã®è©±ã[lr]",
+      "Pt-br": "Emiya Shirou não tem futuro depois do quarto dia.[lr]",
+      "id": 21762,
+      "epk_id": "26905",
+      "label": "$$$message_0200_0016_0001$$$"
+    },
+    {
+      "en": "Tohsaka mumbles to herself, contemplating what it means.",
+      "jp": "ãããã ãã§ä½ãåãã£ãã®ããé åã¯ã¶ã¤ã¶ã¤ã¨èãããã§ããã",
+      "Pt-br": "Tohsaka murmura para si mesma, refletindo sobre o significado daquilo.",
+      "id": 21763,
+      "epk_id": "26906",
+      "label": "$$$message_0200_0016_0002$$$"
+    },
+    {
+      "en": "\"...I see. The war hasn't been restarted. It's being reenacted. That would explain how all of the Servants are present. In that case, um...only one person is lying, not everyone...\"[lr]",
+      "jp": "ãâ¦â¦ããããåéãã¦ãããããªããåç¾ãã¦ããã ããããªããµã¼ã´ã¡ã³ããå\n¨å¡æã£ã¦ããã®ãèª¬æãã¤ãããããªãã¨ããã¼ã¨â¦â¦ã¿ããªåãªããããªãã¦ãåã¤ãã¯ä¸äººã ãã«ãªãã®ãâ¦â¦ã[lr]",
+      "Pt-br": "\"...Entendo. A guerra não foi reiniciada. Ela está sendo encenada novamente. Isso explicaria por que todos os Servos estão presentes. Nesse caso, hum... só uma pessoa está mentindo, não todos...\"[lr]",
+      "id": 21764,
+      "epk_id": "26907",
+      "label": "$$$message_0200_0017_0000$$$"
+    },
+    {
+      "en": "Tohsaka's expression is grave.[lr]",
+      "jp": "ãé åã®è¦ç·ãéºãããªã£ã¦ããã[lr]",
+      "Pt-br": "A expressão de Tohsaka é grave.[lr]",
+      "id": 21765,
+      "epk_id": "26908",
+      "label": "$$$message_0200_0017_0001$$$"
+    },
+    {
+      "en": "Grave as if she just thought of something unpleasant.",
+      "jp": "ããªã«ãããããªãäºãèãã¤ãã¦ãã¾ã£ãããã«ã",
+      "Pt-br": "Grave como se ela tivesse acabado de pensar em algo desagradável.",
+      "id": 21766,
+      "epk_id": "26909",
+      "label": "$$$message_0200_0017_0002$$$"
+    },
+    {
+      "en": "\"Tohsaka...? Did you figure something out about this absurd situation?\"[lr]",
+      "jp": "ãé åâ¦â¦ï¼ãä½ãåãã£ãã®ããä»ã®ãã¿ã©ã¡ãªè©±ã§ã[lr]",
+      "Pt-br": "\"Tohsaka...? Descobriu alguma coisa sobre essa situação absurda?\"[lr]",
+      "id": 21767,
+      "epk_id": "26910",
+      "label": "$$$message_0200_0018_0000$$$"
+    },
+    {
+      "en": "\"...Yeah. On the [font italic=true]big[font italic=false] presumption that what you're saying is true, I think I've more or less figured out how this works.\"[lr]",
+      "jp": "ãâ¦â¦ããã­ãä»ã®è¡å®®ããã®è©±ãä¸å\næ­©ã»ã©è­²ã£ã¦ãä»®ã«ããããè©±ãããã¨æ³å®ããä¸ã§ãªãããããªãã«ä»çµã¿ã¯åãã£ããã[lr]",
+      "Pt-br": "\"...Sim. Partindo da [font italic=true]grande[font italic=false] premissa de que o que você está dizendo é verdade, acho que consegui entender mais ou menos como isso funciona.\"[lr]",
+      "id": 21768,
+      "epk_id": "26911",
+      "label": "$$$message_0200_0018_0001$$$"
+    },
+    {
+      "en": "That sounds promising.[lr]",
+      "jp": "ãå®ã«é ¼ãããã[lr]",
+      "Pt-br": "Isso parece promissor.[lr]",
+      "id": 21769,
+      "epk_id": "26912",
+      "label": "$$$message_0200_0018_0002$$$"
+    },
+    {
+      "en": "I'm a little sad she doesn't completely believe me, though.",
+      "jp": "ãé ¼ãããã®ã ããã¾ã£ããä¿¡ãã¦è²°ãã¦ããªãã®ãã¡ãã£ã¨å¯ããã",
+      "Pt-br": "Embora eu fique um pouco triste por ela não acreditar completamente em mim.",
+      "id": 21770,
+      "epk_id": "26913",
+      "label": "$$$message_0200_0018_0003$$$"
+    },
+    {
+      "en": "\"Okay. What I'm going to say is just a thought exercise based on your tall tale. It has [cacheimage storage=凛私服12a(中)][wvl canskip=0 time=500][chgfg textoff=0 time=200 storage=凛私服12a(中)]absolutely [cacheimage storage=凛私服14b(中)][wvl canskip=0 time=500][chgfg textoff=0 time=200 storage=凛私服14b(中)]nothing [cacheimage storage=凛私服06a(中)][wvl canskip=0 time=500][chgfg textoff=0 time=300 storage=凛私服06a(中)]to do with the state of the town, so keep that in mind as you listen.\"[cacheimage storage=凛私服11c(中)][wvs][chgfg textoff=0 time=200 storage=凛私服11c(中)][lr]",
+      "jp": "ãããï¼ãä»ããè©±ãäºã¯ãããã¾ã§è¡å®®ããã®ä¸å¤ªè©±ãèå¯ããã ãã®è©±ã ãããçºã®ç°ç¶ã«ã¯[cacheimage storage=åç§æ12a(ä¸­)][wvl canskip=0 time=500][chgfg textoff=0 time=200 storage=åç§æ12a(ä¸­)]ã¾ã£ããã[cacheimage storage=åç§æ14b(ä¸­)][wvl canskip=0 time=500][chgfg textoff=0 time=200 storage=åç§æ14b(ä¸­)]ããã£ã½ã£ã¡ãã[cacheimage storage=åç§æ06a(ä¸­)][wvl canskip=0 time=500][chgfg textoff=0 time=300 storage=åç§æ06a(ä¸­)]ãã£ãã¾ããã»ã©ã«é¢ä¿ãªãã£ã¦çè§£ããä¸ã§èãã¦ã¡ããã ãã[cacheimage storage=åç§æ11c(ä¸­)][wvs][chgfg textoff=0 time=200 storage=åç§æ11c(ä¸­)][lr]",
+      "Pt-br": "\"Certo. O que vou dizer é apenas um exercício de raciocínio baseado nessa sua história mirabolante. Não tem [cacheimage storage=凛私服12a(中)][wvl canskip=0 time=500][chgfg textoff=0 time=200 storage=凛私服12a(中)]absolutamente [cacheimage storage=凛私服14b(中)][wvl canskip=0 time=500][chgfg textoff=0 time=200 storage=凛私服14b(中)]nada [cacheimage storage=凛私服06a(中)][wvl canskip=0 time=500][chgfg textoff=0 time=300 storage=凛私服06a(中)]a ver com a situação da cidade, então tenha isso em mente enquanto escuta.\"[cacheimage storage=凛私服11c(中)][wvs][chgfg textoff=0 time=200 storage=凛私服11c(中)][lr]",
+      "id": 21771,
+      "epk_id": "26914",
+      "label": "$$$message_0200_0019_0000$$$"
+    },
+    {
+      "en": "\"Got it. It's just a wild theory.\"",
+      "jp": "ãããã£ããæºä¸ã®ç©ºè«ã£ã¦äºã ãªã",
+      "Pt-br": "\"Entendi. É só uma teoria maluca.\"",
+      "id": 21772,
+      "epk_id": "26915",
+      "label": "$$$message_0200_0019_0001$$$"
+    },
+    {
+      "en": "\"Not even that. It's just an arrangement of everything in order to coherently explain your wild story.[lr]",
+      "jp": "ãããä»¥åãè¡å®®ããã®ãããã¿ã©ã¡ãªç¶æ³ã«èª¬æãã¤ããã¨ãããã£ã¦ããè¾»è¤åãããã[lr]",
+      "Pt-br": "\"Nem isso. É apenas uma organização dos fatos para explicar sua história maluca de maneira coerente.[lr]",
+      "id": 21773,
+      "epk_id": "26916",
+      "label": "$$$message_0200_0020_0000$$$"
+    },
+    {
+      "en": "All right. Um, where's my glasses...\"[lr]",
+      "jp": "ãã¾ãããããããã£ã¨ãç¼é¡ç¼é¡ã£ã¨ã[lr]",
+      "Pt-br": "Certo. Hum, onde estão meus óculos...\"[lr]",
+      "id": 21774,
+      "epk_id": "26917",
+      "label": "$$$message_0200_0020_0001$$$"
+    },
+    {
+      "en": "Ms. Tohsaka fishes a pair of spectacles out of her bag.[lr]",
+      "jp": "ãéããç¼é¡ãåãåºãé åå\nçã[lr]",
+      "Pt-br": "A Tohsaka-sensei tira um par de óculos da bolsa.[lr]",
+      "id": 21775,
+      "epk_id": "26918",
+      "label": "$$$message_0200_0020_0002$$$"
+    },
+    {
+      "en": "It's been a while since I've seen her in lecture mode.",
+      "jp": "ãä¹\nãã¶ãã®ããã¡ãã¢ã¼ãçªå\n¥ã§ããã",
+      "Pt-br": "Faz tempo que não a vejo em modo professora.",
+      "id": 21776,
+      "epk_id": "26919",
+      "label": "$$$message_0200_0020_0003$$$"
+    },
+    {
+      "en": "\"Now, according to what you said, there's clearly something strange about these four days, October 8th to the 11th.[lr]",
+      "jp": "ããã¦ãè¡å®®ããã®è©±ããããã¨ããã®åæ¥éâ¦â¦åæå\n«æ¥ããåä¸æ¥ã¾ã§ã®éãç°ç¶ãªã®ã¯æããã§ãã[lr]",
+      "Pt-br": "\"Bem, de acordo com o que você contou, há claramente algo estranho nesses quatro dias, de 8 a 11 de outubro.[lr]",
+      "id": 21777,
+      "epk_id": "26920",
+      "label": "$$$message_0200_0021_0000$$$"
+    },
+    {
+      "en": "Saber and Rider say that the Holy Grail War has resumed, but that doesn't make sense.[lr]",
+      "jp": "ãã»ã¤ãã¼ãã©ã¤ãã¼ã¯èæ¯æ¦äºãåéããããã¨è¨ã£ã¦ãããã©ãããã ã¨ä¸é½åãçãã¦ãã¾ãã[lr]",
+      "Pt-br": "Saber e Rider dizem que a Guerra do Santo Graal recomeçou, mas isso não faz sentido.[lr]",
+      "id": 21778,
+      "epk_id": "26921",
+      "label": "$$$message_0200_0021_0001$$$"
+    },
+    {
+      "en": "...You know it, don't you? If the war really picked up where we left off, then we would be missing people.\"",
+      "jp": "ãâ¦â¦åããã§ããï¼ãæ¦ããåéãããã®ãªããèª°ããæ¬ ãã¦ããªãããããªãããºãã",
+      "Pt-br": "...Você sabe disso, não sabe? Se a guerra realmente tivesse continuado de onde paramos, estariam faltando pessoas.\"",
+      "id": 21779,
+      "epk_id": "26922",
+      "label": "$$$message_0200_0021_0002$$$"
+    },
+    {
+      "en": "Right.[lr]",
+      "jp": "ãããã[lr]",
+      "Pt-br": "Exatamente.[lr]",
+      "id": 21780,
+      "epk_id": "26923",
+      "label": "$$$message_0200_0022_0000$$$"
+    },
+    {
+      "en": "If this was a continuation, then the parties who dropped out half a year ago shouldn't exist.",
+      "jp": "ããããåéã ã¨ããã®ãªããåå¹´åã«è±è½ããä»ã®ãã¼ãã£ã¼ã¯å­å¨ãã¦ã¯ãããªãã®ã ã",
+      "Pt-br": "Se fosse uma continuação, aqueles que desistiram há meio ano não deveriam existir.",
+      "id": 21781,
+      "epk_id": "26924",
+      "label": "$$$message_0200_0022_0001$$$"
+    },
+    {
+      "en": "\"That's why the strangeness doesn't feel strange.[lr]",
+      "jp": "ãããããã®ã«ãããããªãã®ã¯ããã[lr]",
+      "Pt-br": "\"É por isso que o que há de estranho não parece estranho.[lr]",
+      "id": 21782,
+      "epk_id": "26925",
+      "label": "$$$message_0200_0023_0000$$$"
+    },
+    {
+      "en": "I'm sure that even if someone who shouldn't exist exists, we can't tell exactly who that is during this situation...during these four days alone.[lr]",
+      "jp": "ããã£ã¨ãã®ç¶æ\nâ¦â¦ãã®åæ¥éã ãã¯ãæ¬æ¥ãã¦ã¯ãããªãäººç©ãããã¨ãã¦ãããããèª°ãªã®ãç¹å®ã§ããªãç¶æ³ã«ãããã ã¨æãã[lr]",
+      "Pt-br": "Tenho certeza de que, mesmo que alguém que não deveria existir esteja aqui, não conseguimos identificar quem é durante essa situação... apenas ao longo desses quatro dias.[lr]",
+      "id": 21783,
+      "epk_id": "26926",
+      "label": "$$$message_0200_0023_0001$$$"
+    },
+    {
+      "en": "That's why it isn't strange at all that everyone is here.[lr]",
+      "jp": "ãã ããå\n¨å¡ãæã£ã¦ãã¦ãä½ä¸ã¤ãããããªãã[lr]",
+      "Pt-br": "Por isso não há nada de estranho em todos estarem aqui.[lr]",
+      "id": 21784,
+      "epk_id": "26927",
+      "label": "$$$message_0200_0023_0002$$$"
+    },
+    {
+      "en": "It would be even stranger if they weren't. After all, this is the [font italic=true]outcome of someone reenacting the Holy Grail War[font italic=false] that has happened before.\"",
+      "jp": "ããããå\n¨å¡ãæã£ã¦ããªãã¨ããããã®ãã ã£ã¦ããã¯ãâèª°ãâãä»¥åèµ·ãã[ruby text=ã»ã»ã»ã»ã»ã»ã»ã»ã»ã»ã» o2o=1]èæ¯æ¦äºãåç¾ãã¦ããçµæãªãã ããã",
+      "Pt-br": "Seria ainda mais estranho se não estivessem. Afinal, este é o [font italic=true]resultado da encenação de uma Guerra do Santo Graal[font italic=false] que já aconteceu.\"",
+      "id": 21785,
+      "epk_id": "26928",
+      "label": "$$$message_0200_0023_0003$$$"
+    },
+    {
+      "en": "\"Huh? Someone is reenacting the Holy Grail War... I think I knew that already.[lr]",
+      "jp": "ãï¼ãèª°ããèæ¯æ¦äºãåç¾ãã¦ãã£ã¦â¦â¦ãããããã¯åãããåãã£ã¦ãã£ã¦ãããã[lr]",
+      "Pt-br": "\"Hã? Alguém está encenando a Guerra do Santo Graal... Acho que já sabia disso.[lr]",
+      "id": 21786,
+      "epk_id": "26929",
+      "label": "$$$message_0200_0024_0000$$$"
+    },
+    {
+      "en": "The person who wants the Holy Grail is trying to start another war for it, right?\"",
+      "jp": "ãèæ¯ãã»ããã£ã¦ãã¤ãããã¾ãèæ¯æ¦äºãå§ãããã¨ãããã ãï¼ã",
+      "Pt-br": "A pessoa que deseja o Santo Graal está tentando iniciar outra guerra para obtê-lo, certo?\"",
+      "id": 21787,
+      "epk_id": "26930",
+      "label": "$$$message_0200_0024_0001$$$"
+    },
+    {
+      "en": "\"That's restarting. I'm talking about re-creating what happened.[lr]",
+      "jp": "ãããã¯åéãããããè¨ã£ã¦ããã®ã¯[ruby text=ã»ã» o2o=1]åç¾ã[lr]",
+      "Pt-br": "\"Isso seria reiniciar a guerra. Estou falando de recriar o que aconteceu.[lr]",
+      "id": 21788,
+      "epk_id": "26931",
+      "label": "$$$message_0200_0025_0000$$$"
+    },
+    {
+      "en": "...Look. If you wanted to restart the war, you wouldn't want the fallen Servants to still be here, right? But they're all in this town.\"",
+      "jp": "ãâ¦â¦ãããä»®ã«åéãããã®ãªããæ¢ã«æ¬ ãã¦ãããµã¼ã´ã¡ã³ããªãã¦ããªãæ¹ãããã§ããï¼ããªã®ã«çºã«ã¯å\n¨ã¦ã®ãµã¼ã´ã¡ã³ããæã£ã¦ããã",
+      "Pt-br": "...Veja. Se quisesse reiniciar a guerra, você não gostaria que os Servos derrotados continuassem aqui, certo? Mas todos estão nesta cidade.\"",
+      "id": 21789,
+      "epk_id": "26932",
+      "label": "$$$message_0200_0025_0001$$$"
+    },
+    {
+      "en": "\"It bugs me that I even came to this conclusion, but whoever this is, they only want to reenact the Holy Grail War. They want to keep the war itself going forever.[lr]",
+      "jp": "ãã ããããªãã§ãããããããªçµè«ã«è·³ãã ã®ããã£ãã¾æ¥ããã ãã©ãã½ã¤ãã¯èæ¯æ¦äºãåç¾ãããã ããªã®ãæ¦ãããã ããªã®ãæ°¸é ã«ç¶ãããã ããªã®ã[lr]",
+      "Pt-br": "\"É até irritante ter chegado a essa conclusão, mas seja lá quem for, só quer encenar novamente a Guerra do Santo Graal. Quer manter a própria guerra acontecendo para sempre.[lr]",
+      "id": 21790,
+      "epk_id": "26933",
+      "label": "$$$message_0200_0026_0000$$$"
+    },
+    {
+      "en": "To do that, these four days contain all of the possible events that could happen.[lr]",
+      "jp": "ããã®çºã«ããã®åæ¥éã ãã¯èµ·ããå¾ãå\n¨ã¦ã®å¯è½æ§ãå\nå\nãã¦ããã®ãã[lr]",
+      "Pt-br": "Para isso, esses quatro dias contêm todos os acontecimentos possíveis.[lr]",
+      "id": 21791,
+      "epk_id": "26934",
+      "label": "$$$message_0200_0026_0001$$$"
+    },
+    {
+      "en": "Like they're trying to keep it fresh, so that they can enjoy it every time.\"",
+      "jp": "ãä½åº¦ãã£ã¦ãæ¥½ãããããã«ãåºæ¥ããããæ°é®®å³ãå¤±ããªãããã«ã£ã¦ã­ã",
+      "Pt-br": "Como se quisesse manter tudo sempre renovado, para poder aproveitar cada vez que se repetir.\"",
+      "id": 21792,
+      "epk_id": "26935",
+      "label": "$$$message_0200_0026_0002$$$"
+    },
+    {
+      "en": "Ahh, that's why...[lr]",
+      "jp": "ããããã ãã[line len=3][lr]",
+      "Pt-br": "Ah, então é por isso...[lr]",
+      "id": 21793,
+      "epk_id": "26936",
+      "label": "$$$message_0200_0027_0000$$$"
+    },
+    {
+      "en": "                             Now, [hearttonecombo]let the Holy Grail War go on[line len=2][rf][lr]",
+      "jp": "ãã[line len=3]ããã[hearttonecombo]èæ¯æ¦äºãç¶ãããã[line len=3][rf][lr]",
+      "Pt-br": "                             Agora, [hearttonecombo]que a Guerra do Santo Graal continue[line len=2][rf][lr]",
+      "id": 21794,
+      "epk_id": "26937",
+      "label": "$$$message_0200_0027_0001$$$"
+    },
+    {
+      "en": "Did I say that...?",
+      "jp": "ããããªè¨èããå£ã«ããã®ã ãããâ¦â¦ï¼",
+      "Pt-br": "Será que eu disse isso...?",
+      "id": 21795,
+      "epk_id": "26938",
+      "label": "$$$message_0200_0027_0002$$$"
+    },
+    {
+      "en": "\"...Hang on. The town goes back to the way it was after four days, right? Why do I know what's going to happen?[lr]",
+      "jp": "ãâ¦â¦ãã©å¾\nã£ã¦ãããããããåæ¥éããã°çºã¯å\néãã«ãªãã£ã¦ã³ãã ããªï¼ããªãã§ä¿ºã¯å\nã®äºãç¥ã£ã¦ãããã ï¼[lr]",
+      "Pt-br": "\"...Espere. A cidade volta ao normal depois de quatro dias, certo? Então por que sei o que vai acontecer?[lr]",
+      "id": 21796,
+      "epk_id": "26939",
+      "label": "$$$message_0200_0028_0000$$$"
+    },
+    {
+      "en": "It's like I'm the only person who goes back to day one.\"",
+      "jp": "ãããããä¿ºã ããä¸æ¥ç®ã«æ»ã£ã¦ãã¿ãããããªããã",
+      "Pt-br": "É como se eu fosse o único que volta ao primeiro dia.\"",
+      "id": 21797,
+      "epk_id": "26940",
+      "label": "$$$message_0200_0028_0001$$$"
+    },
+    {
+      "en": "\"If you were just 'going back,' then you'd still have your memories. You're probably seeing scenes of yourself. Um, I might draw it like this.\"",
+      "jp": "ãæ»ã£ã¦ãããªãã¡ããã¨ç¢ºããªè¨æ¶ã¨ãã¦è¦ãã¦ãã§ãããè¡å®®ããã¯ã­ããã£ã¨èªåãè¦ã¡ãã£ã¦ãã®ãããã¼ã¨ãå³ã«ããã¨ãããªæãããªã",
+      "Pt-br": "\"Se você estivesse simplesmente 'voltando', ainda teria suas memórias. Provavelmente está vendo cenas de si mesmo. Hum, posso desenhar assim.\"",
+      "id": 21798,
+      "epk_id": "26941",
+      "label": "$$$message_0200_0029_0000$$$"
+    },
+    {
+      "en": "\"These aren't parallel worlds. All of the possibilities during these four days are of equal value, so this is what you're like now.[lr]",
+      "jp": "ãä¸¦è¡ä¸çã£ã¦ã¯ã±ãããªãããã­ããã®åæ¥éã§ã¯ããããå¯è½æ§ã¯ç­ä¾¡ã ãããè¡å®®ããã¯ããããé¢¨ã«ãªã£ã¦ãã®ã[lr]",
+      "Pt-br": "\"Estes não são mundos paralelos. Todas as possibilidades desses quatro dias têm o mesmo valor, então é assim que você está agora.[lr]",
+      "id": 21799,
+      "epk_id": "26942",
+      "label": "$$$message_0200_0030_0000$$$"
+    },
+    {
+      "en": "Let's assume that there are infinite mirror versions of the sprinter Shirou Emiya, running the exact same course, each of them moving at different times... Does that make sense?\"",
+      "jp": "ãè¡å®®å£«éã£ã¦ããèµ°è\nãåããé¡ã¿ããã«ç¡éã«ããã¨ä»®å®ãã¦ãã¾ã£ããåãã³ã¼ã¹ããããããéã£ãã¿ã¤ã ã§èµ°ã£ã¦ãâ¦â¦ã£ã¦åããï¼ã",
+      "Pt-br": "Vamos imaginar infinitas versões espelhadas do velocista Emiya Shirou, correndo exatamente pelo mesmo percurso, cada uma em um momento diferente... Consegue entender?\"",
+      "id": 21800,
+      "epk_id": "26943",
+      "label": "$$$message_0200_0030_0001$$$"
+    },
+    {
+      "en": "\"Um, I played a video game in London, and it's like one of those.[lr]",
+      "jp": "ãããã£ã¨ããã£ã¡ã§ãã¬ãã²ã¼ã ããã£ããã ãã©ãã¢ã¬ã¨åããã[lr]",
+      "Pt-br": "\"Hum, joguei um videogame em Londres que era parecido com isso.[lr]",
+      "id": 21801,
+      "epk_id": "26944",
+      "label": "$$$message_0200_0031_0000$$$"
+    },
+    {
+      "en": "A shoot 'em up, I think it's called? You have three airplanes, and you have to start over if one gets destroyed.[lr]",
+      "jp": "ãã·ã¥ã¼ãã£ã³ã°ã²ã¼ã ã£ã¦ããã®ï¼ãèªæ©ãä¸æ©ãã¦ããããããåãããããç´ãã¤ãã[lr]",
+      "Pt-br": "Um jogo de tiro, acho que é assim que se chama? Você tem três aviões e precisa recomeçar se um deles for destruído.[lr]",
+      "id": 21802,
+      "epk_id": "26945",
+      "label": "$$$message_0200_0031_0001$$$"
+    },
+    {
+      "en": "You can't keep the perspective of the same plane, but you're looking down from the player's third-person point of view, so it's still continuous.\"",
+      "jp": "ãã¢ã¬ã£ã¦èªæ©è¦ç¹ããè¦ãã¨é£ç¶ãã¦ãªããã©ã[ruby text=ãã¬ã¤ã¤ã¼ char=3]ç¬¬ä¸è\nè¦ç¹ããè¦ãã°é£ç¶ãã¦ãããããªãã",
+      "Pt-br": "Não dá para manter a perspectiva do mesmo avião, mas você vê tudo de cima, pelo ponto de vista em terceira pessoa do jogador, então a continuidade permanece.\"",
+      "id": 21803,
+      "epk_id": "26946",
+      "label": "$$$message_0200_0031_0002$$$"
+    },
+    {
+      "en": "\"This is the same thing. As long as you have your own plane, you can start over from the beginning even if you die. You get another shot at the exact same course, in a completely identical plane with completely identical abilities.[lr]",
+      "jp": "ãããã¨åãããèªæ©ãããéããæ­»ãã§ãåãããããç´ãããã¾ã£ããåãæ§è½ã®ãã¾ã£ããæ°ããèªæ©ããã¾ã£ããåãé¢ãæ»ç¥ããã§ããï¼[lr]",
+      "Pt-br": "\"É a mesma coisa. Enquanto tiver seu próprio avião, poderá recomeçar do início mesmo que morra. Terá outra chance no mesmo percurso, em um avião completamente idêntico, com habilidades completamente idênticas.[lr]",
+      "id": 21804,
+      "epk_id": "26947",
+      "label": "$$$message_0200_0032_0000$$$"
+    },
+    {
+      "en": "That perfectly describes what you are right now.\"",
+      "jp": "ãä»ã®è¡å®®ããã¯ã¾ãã«ããã£ã¦ããã",
+      "Pt-br": "Isso descreve perfeitamente sua situação atual.\"",
+      "id": 21805,
+      "epk_id": "26948",
+      "label": "$$$message_0200_0032_0001$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "ãâ¦â¦â¦â¦ã[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 21806,
+      "epk_id": "26949",
+      "label": "$$$message_0200_0033_0000$$$"
+    },
+    {
+      "en": "Tohsaka's metaphor is quite humiliating, but I get what she's trying to say.[lr]",
+      "jp": "ãé åã®æ¯å©ã¯ã¿ã¤ãã³å¤±ç¤¼ã ããè¨ããã¨ããäºã¯ãªãã¨ãªãåããã[lr]",
+      "Pt-br": "A metáfora de Tohsaka é bastante humilhante, mas entendo o que ela quer dizer.[lr]",
+      "id": 21807,
+      "epk_id": "26950",
+      "label": "$$$message_0200_0033_0001$$$"
+    },
+    {
+      "en": "When she said I was watching \"from the side\" earlier, she must have meant that I, Sprinter C, caught a glimpse of Sprinter B ahead of me.",
+      "jp": "ããã£ãé åããé£ããè¦ãã¦ããã¨åããã®ã¯ãèµ°è\nï¼£ã§ããä¿ºããå\nã«èµ°ã£ãèµ°è\nï¼¢ãè¦ã¦ãã¾ã£ããã¨ããäºãªãã ããã",
+      "Pt-br": "Quando ela disse antes que eu estava observando \"de fora\", deve ter querido dizer que eu, o Velocista C, vislumbrei o Velocista B à minha frente.",
+      "id": 21808,
+      "epk_id": "26951",
+      "label": "$$$message_0200_0033_0002$$$"
+    },
+    {
+      "en": "That's why I somehow know the fates of the other sprinters.[lr]",
+      "jp": "ãã ããä¿ºã¯ãéãèµ°è\nãè¿ããçµæ«ããªãã¨ãªãç¥ã£ã¦ããã®ã ã[lr]",
+      "Pt-br": "É por isso que, de alguma forma, conheço o destino dos outros velocistas.[lr]",
+      "id": 21809,
+      "epk_id": "26952",
+      "label": "$$$message_0200_0034_0000$$$"
+    },
+    {
+      "en": "They're experiences I haven't had, but they're being parallelized so that I go, \"Aah, Sprinter A got killed by the boss,\" I think...?",
+      "jp": "ãçµé¨ã¯ãã¦ãªãã¯ã»ã«ããããèµ°è\nï¼¡ã¯ãã®ãããã§ãã¹ã«ãããããã ããªãã¨çµé¨ãä¸¦ååãã¦ããâ¦â¦ï¼",
+      "Pt-br": "São experiências que não vivi, mas estão sendo colocadas em paralelo, de modo que penso: \"Ah, o Velocista A foi morto pelo chefão\", algo assim...?",
+      "id": 21810,
+      "epk_id": "26953",
+      "label": "$$$message_0200_0034_0001$$$"
+    },
+    {
+      "en": "\"Hmm... I didn't get all of that, but I'll accept it for consistency's sake. Then, will I eventually get past the fourth day if I just be patient?\"",
+      "jp": "ããã¼â¦â¦è²ã\nç´å¾ãããªããã ããè¾»è¤åããã ããç´å¾ããã¨ãã¦ããããä¿ºããã®ã¾ã¾å¤§äººãããã¦ãã°åæ¥ç®ãè¶ããããã£ã¦äºãï¼ã",
+      "Pt-br": "\"Hmm... Não entendi tudo, mas vou aceitar para manter a coerência. Então, se eu tiver paciência, eventualmente vou passar do quarto dia?\"",
+      "id": 21811,
+      "epk_id": "26954",
+      "label": "$$$message_0200_0035_0000$$$"
+    },
+    {
+      "en": "\"I don't think there is any version of you that hasn't. The fifth day will come, even if you aren't alive to see it.[lr]",
+      "jp": "ãè¶ããããªãã£ãè¡å®®å£«éã¯ããªãã¨æããã©ããã¨ãæ­»ä½ã§ãã£ã¦ãäºæ¥ç®ã¯æ¥ããã ããã[lr]",
+      "Pt-br": "\"Não acho que exista uma versão sua que não tenha passado. O quinto dia chegará, mesmo que você não esteja vivo para vê-lo.[lr]",
+      "id": 21812,
+      "epk_id": "26955",
+      "label": "$$$message_0200_0036_0000$$$"
+    },
+    {
+      "en": "Sakura and I aren't having dreams like you, so it's clear that the entire town isn't repeating the loop.[lr]",
+      "jp": "ãããããæ¡ãè¡å®®ããã¿ãããªå¤¢ã¯è¦ã¦ãªããããçºãã®ãã®ãç¹°ãè¿ãã¦ããªãã®ã¯æç½ãã[lr]",
+      "Pt-br": "Sakura e eu não temos sonhos como os seus, então está claro que a cidade inteira não está repetindo o ciclo.[lr]",
+      "id": 21813,
+      "epk_id": "26956",
+      "label": "$$$message_0200_0036_0001$$$"
+    },
+    {
+      "en": "But, maybe...you alone are special, and you're [font italic=true]guaranteed to die on the fourth day[font italic=false] if you don't do something about this Holy Grail War.\"",
+      "jp": "ãã§ããããããã¦â¦â¦è¡å®®ããã ãç¹å¥ã§ããã®èæ¯æ¦äºãã©ãã«ãããªãã¨[ruby text=ã»ã»ã»ã»ã»ã» o2o=1]çµ¶å¯¾ã«åæ¥ç®ã§æ­»ããããã®ããã­ã",
+      "Pt-br": "Mas talvez... só você seja especial e esteja [font italic=true]destinado a morrer no quarto dia[font italic=false] se não fizer alguma coisa a respeito desta Guerra do Santo Graal.\"",
+      "id": 21814,
+      "epk_id": "26957",
+      "label": "$$$message_0200_0036_0002$$$"
+    },
+    {
+      "en": "How ominous.[lr]",
+      "jp": "ãç¸èµ·ã§ããªãäºãè¨ãã[lr]",
+      "Pt-br": "Que perspectiva assustadora.[lr]",
+      "id": 21815,
+      "epk_id": "26958",
+      "label": "$$$message_0200_0037_0000$$$"
+    },
+    {
+      "en": "What terrifies me even more is that I can't deny it might be true.",
+      "jp": "ããããããªäºã¯ãªããããã¨è¨ããããªãèªåã®ç¶æ³ãã¡ã¨æãã",
+      "Pt-br": "O que mais me apavora é não poder negar que isso talvez seja verdade.",
+      "id": 21816,
+      "epk_id": "26959",
+      "label": "$$$message_0200_0037_0001$$$"
+    },
+    {
+      "en": "\"...Haah. Now I understand why I know all these weird things.[lr]",
+      "jp": "ã[line len=3]ã¯ããä¿ºããã³ãªã³ããç¥ã£ã¦ãçå±ã¯åãã£ããã[lr]",
+      "Pt-br": "\"...Ufa. Agora entendo por que sei todas essas coisas estranhas.[lr]",
+      "id": 21817,
+      "epk_id": "26960",
+      "label": "$$$message_0200_0038_0000$$$"
+    },
+    {
+      "en": "But how is the Holy Grail War getting recreated? Is the person that wants the Holy Grail capable of acts that are similar to True Magic?[lr]",
+      "jp": "ããã©ããã©ããã£ã¦èæ¯æ¦äºã®åç¾ãªãã¦èµ·ããã¦ããã ï¼ãèæ¯ãæ¬²ããã£ã¦ããâä½è\nãâã£ã¦ã¤ãã¯ããããªé­æ³ã¿ãããªäºãåºæ¥ãã®ãï¼[lr]",
+      "Pt-br": "Mas como a Guerra do Santo Graal está sendo recriada? A pessoa que deseja o Santo Graal é capaz de realizar feitos semelhantes à Verdadeira Magia?[lr]",
+      "id": 21818,
+      "epk_id": "26961",
+      "label": "$$$message_0200_0038_0001$$$"
+    },
+    {
+      "en": "...You'd think they'd be powerful enough to grant their own wish without needing the Holy Grail, then.\"",
+      "jp": "ãâ¦â¦ãããããããªäºãåºæ¥ããªããèæ¯ãªããã«é ¼ããæã¿ãå¶ããããã ããã«ã",
+      "Pt-br": "...Nesse caso, seria de se esperar que tivesse poder suficiente para realizar o próprio desejo sem precisar do Santo Graal.\"",
+      "id": 21819,
+      "epk_id": "26962",
+      "label": "$$$message_0200_0038_0002$$$"
+    },
+    {
+      "en": "\"Come on, I told you that they already achieved their goal.[lr]",
+      "jp": "ããããè¨ã£ãã§ãããããã¤ã®ç®çã¯ããå¶ã£ã¦ããã ã£ã¦ã[lr]",
+      "Pt-br": "\"Vamos lá, eu disse que essa pessoa já alcançou seu objetivo.[lr]",
+      "id": 21820,
+      "epk_id": "26963",
+      "label": "$$$message_0200_0039_0000$$$"
+    },
+    {
+      "en": "They aren't recreating the Holy Grail War because they want the Grail.[lr]",
+      "jp": "ãããã¤ã¯èæ¯ãæ¬²ããã¦èæ¯æ¦äºãåç¾ãã¦ããããããªãã[lr]",
+      "Pt-br": "Ela não está recriando a Guerra do Santo Graal porque deseja o Graal.[lr]",
+      "id": 21821,
+      "epk_id": "26964",
+      "label": "$$$message_0200_0039_0001$$$"
+    },
+    {
+      "en": "They just want the deathmatch to happen again.[lr]",
+      "jp": "ãæ®ºãåãããããããèæ¯æ¦äºãåç¾ãã¦ããã[lr]",
+      "Pt-br": "Só quer que o combate mortal aconteça novamente.[lr]",
+      "id": 21822,
+      "epk_id": "26965",
+      "label": "$$$message_0200_0039_0002$$$"
+    },
+    {
+      "en": "In other words...\"[lr]",
+      "jp": "ãããã¯ãã¤ã¾ã[line len=3]ã[lr]",
+      "Pt-br": "Em outras palavras...\"[lr]",
+      "id": 21823,
+      "epk_id": "26966",
+      "label": "$$$message_0200_0039_0003$$$"
+    },
+    {
+      "en": "\"...Ah.\"",
+      "jp": "ãâ¦â¦ãã",
+      "Pt-br": "\"...Ah.\"",
+      "id": 21824,
+      "epk_id": "26967",
+      "label": "$$$message_0200_0039_0004$$$"
+    },
+    {
+      "en": "I see. I got it backwards.",
+      "jp": "ãããã[line len=3]é çªãéããªãã ã",
+      "Pt-br": "Entendi. Eu tinha invertido as coisas.",
+      "id": 21825,
+      "epk_id": "26968",
+      "label": "$$$message_0200_0040_0000$$$"
+    },
+    {
+      "en": "\"...That's their wish.[lr]",
+      "jp": "ãâ¦â¦ããããé¡ããªãã ã[lr]",
+      "Pt-br": "\"...Esse é o desejo dela.[lr]",
+      "id": 21826,
+      "epk_id": "26969",
+      "label": "$$$message_0200_0041_0000$$$"
+    },
+    {
+      "en": "If they already have the Holy Grail, and they used it to grant their wish to recreate the war...\"",
+      "jp": "ãããã¤ã¯æ¢ã«èæ¯ãæã«å\n¥ãã¦ãã¦ãèæ¯æ¦äºãåç¾ããã£ã¦ããé¡ããå¶ããã¨ããã[line len=3]ã",
+      "Pt-br": "Se já possui o Santo Graal e o usou para realizar o desejo de recriar a guerra...\"",
+      "id": 21827,
+      "epk_id": "26970",
+      "label": "$$$message_0200_0041_0001$$$"
+    },
+    {
+      "en": "\"Exactly. If this is happening because of someone's wish, then we can't solve it unless we defeat the bearer of the Holy Grail.[lr]",
+      "jp": "ãããããäºããããèª°ãã®æã¿ã ã¨ããããèæ¯ã®æã¡ä¸»ãåããªãã¨è§£é¤ã§ããªããã§ãããã­ã[lr]",
+      "Pt-br": "\"Exatamente. Se isso está acontecendo por causa do desejo de alguém, não poderemos resolver o problema sem derrotar quem possui o Santo Graal.[lr]",
+      "id": 21828,
+      "epk_id": "26971",
+      "label": "$$$message_0200_0042_0000$$$"
+    },
+    {
+      "en": "The most obvious suspect would be someone who didn't exist during the previous Holy Grail War.\"[lr]",
+      "jp": "ãã¾ãæªããã¤ããããã¨ããã°ãããã¯[ruby text=ã»ã»ã»ã»ã»ã»ã»ã»ã»ã»ã»ã»ã» o2o=1]ååã®èæ¯æ¦äºã«ããªãã£ãäººç©ãã[lr]",
+      "Pt-br": "O suspeito mais óbvio seria alguém que não existia durante a Guerra do Santo Graal anterior.\"[lr]",
+      "id": 21829,
+      "epk_id": "26972",
+      "label": "$$$message_0200_0042_0001$$$"
+    },
+    {
+      "en": "It's such a simple conclusion.[lr]",
+      "jp": "ããã¾ãã«ãã·ã³ãã«ãªçµè«ã[lr]",
+      "Pt-br": "É uma conclusão muito simples.[lr]",
+      "id": 21830,
+      "epk_id": "26973",
+      "label": "$$$message_0200_0042_0002$$$"
+    },
+    {
+      "en": "Any new characters on the stage would be suspicious thanks to their very presence.",
+      "jp": "ãæ°ããªç»å ´äººç©ã¯ãããã ãã§çãããã",
+      "Pt-br": "Qualquer personagem novo que apareça em cena já seria suspeito só por sua presença.",
+      "id": 21831,
+      "epk_id": "26974",
+      "label": "$$$message_0200_0042_0003$$$"
+    },
+    {
+      "en": "\"I wasn't here until I came back from England, but we can rule me out since I'm originally from here.[lr]",
+      "jp": "ããããã¯[line len=3]å¸°ã£ã¦æ¥ãã¾ã§ããªãã£ããã©ããã¨ãããã®çºã«ãã¦ãããäººéã ããé¤å¤ãã¦ã[lr]",
+      "Pt-br": "\"Eu não estava aqui até voltar da Inglaterra, mas podemos me descartar porque sou daqui originalmente.[lr]",
+      "id": 21832,
+      "epk_id": "26975",
+      "label": "$$$message_0200_0043_0000$$$"
+    },
+    {
+      "en": "If there's someone here who wasn't half a year ago, they'd be the source of this mess.\"",
+      "jp": "ãåå¹´åã«ããªãã£ãã¤ããããããããã¤ããã®é¨ãã®å\nå¶ãã",
+      "Pt-br": "Se há alguém aqui que não estava há meio ano, essa pessoa deve ser a origem dessa confusão.\"",
+      "id": 21833,
+      "epk_id": "26976",
+      "label": "$$$message_0200_0043_0001$$$"
+    },
+    {
+      "en": "\"...[lr]",
+      "jp": "ãâ¦â¦â¦â¦â¦â¦ã[lr]",
+      "Pt-br": "\"...[lr]",
+      "id": 21834,
+      "epk_id": "26977",
+      "label": "$$$message_0200_0044_0000$$$"
+    },
+    {
+      "en": "Hey, Tohsaka. I think I know someone who fits the bill. But she always seems to be dying every time I meet her.[lr]",
+      "jp": "ããªãé åãä¿ºããã®æªããã¤ãã£ã¦ç¥ã£ã¦ãã£ã½ããã ãã©ãåºä¼ã£ãæã¯ãã¤ãæ­»ãã§ãã¿ãããªãã ã[lr]",
+      "Pt-br": "Ei, Tohsaka. Acho que conheço alguém que se encaixa nisso. Mas ela parece morrer toda vez que a encontro.[lr]",
+      "id": 21835,
+      "epk_id": "26978",
+      "label": "$$$message_0200_0044_0001$$$"
+    },
+    {
+      "en": "...Is there a solution to that?\"",
+      "jp": "ãâ¦â¦ãªãããè§£æ±ºç­ãªãããªã",
+      "Pt-br": "...Existe alguma solução para isso?\"",
+      "id": 21836,
+      "epk_id": "26979",
+      "label": "$$$message_0200_0044_0002$$$"
+    },
+    {
+      "en": "\"...I'm getting tired of these absurd questions.[lr]",
+      "jp": "ãâ¦â¦å¸¸è­ã¯ããã®è³ªåãããããç²ãã¦ãããã[lr]",
+      "Pt-br": "\"...Estou ficando cansada dessas perguntas absurdas.[lr]",
+      "id": 21837,
+      "epk_id": "26980",
+      "label": "$$$message_0200_0045_0000$$$"
+    },
+    {
+      "en": "Um, if she gets killed even if you meet her, then maybe you aren't encountering her in the right way.\"",
+      "jp": "ããã¼ã¨ãåºä¼ã£ã¦ãæ®ºãããã£ã¦äºã¯ããã®åºä¼ãæ¹èªä½ãééã£ã¦ãããããªãï¼ã",
+      "Pt-br": "Bem, se ela morre mesmo quando você a encontra, talvez você não esteja se aproximando dela da maneira certa.\"",
+      "id": 21838,
+      "epk_id": "26981",
+      "label": "$$$message_0200_0045_0001$$$"
+    },
+    {
+      "en": "\"If you know the most correct encounter, the very first time you met her, then try to recreate those conditions yourself. You're capable of that.\"[lr]",
+      "jp": "ãããï¼ãä¸çªæ­£ããåºä¼ããä¸çªæåã«åºä¼ã£ãå ´é¢ãç¥ã£ã¦ãããªããèªåã®æã§ãã®ç¶æ³ãåç¾ãªãããè¡å®®ããã«ã¯ãããã§ãããã ããã[lr]",
+      "Pt-br": "\"Se sabe qual foi o encontro mais adequado, a primeira vez que a conheceu, tente recriar essas condições por conta própria. Você é capaz disso.\"[lr]",
+      "id": 21839,
+      "epk_id": "26982",
+      "label": "$$$message_0200_0046_0000$$$"
+    },
+    {
+      "en": "This is all theoretical, of course. Tohsaka makes sure I understand this.",
+      "jp": "ãçå¾ã ãã©ã­ã¼ããªã©ã¨ãã£ã±ãããã£ã½ã£ã¡ãä¿¡ãã¦ããªãé åã",
+      "Pt-br": "Tudo isso é apenas teórico, é claro. Tohsaka faz questão de deixar isso claro.",
+      "id": 21840,
+      "epk_id": "26983",
+      "label": "$$$message_0200_0046_0001$$$"
+    },
+    {
+      "en": "But...I see now.[lr]",
+      "jp": "ãâ¦â¦ãããããããã[lr]",
+      "Pt-br": "Mas... agora entendi.[lr]",
+      "id": 21841,
+      "epk_id": "26984",
+      "label": "$$$message_0200_0047_0000$$$"
+    },
+    {
+      "en": "I should be able to meet that girl in a different place.[lr]",
+      "jp": "ããããã«ä¿ºã¯ããã®å°å¥³ã¨ã¯éãå ´æã§åºä¼ãäºãåºæ¥ãããºã ã[lr]",
+      "Pt-br": "Devo conseguir encontrar aquela garota em outro lugar.[lr]",
+      "id": 21842,
+      "epk_id": "26985",
+      "label": "$$$message_0200_0047_0001$$$"
+    },
+    {
+      "en": "Back then, I'm sure it was...[lr]",
+      "jp": "ããã®æã¯ãç¢ºã[line len=3][lr]",
+      "Pt-br": "Naquela ocasião, tenho certeza de que foi...[lr]",
+      "id": 21843,
+      "epk_id": "26986",
+      "label": "$$$message_0200_0047_0002$$$"
+    },
+    {
+      "en": "At Ryudou Temple. Tohsaka was there, with the track & field and kyudo clubs...",
+      "jp": "ãæ³æ´å¯ºã§ãé åããã¦ãé¸ä¸é¨ã¨å¼éé¨ã§[line len=3]",
+      "Pt-br": "No Templo Ryuudou. Tohsaka estava lá, junto com os clubes de atletismo e kyudo...",
+      "id": 21844,
+      "epk_id": "26987",
+      "label": "$$$message_0200_0047_0003$$$"
+    },
+    {
+      "en": "\"...That helps.[lr]",
+      "jp": "ã[line len=3]åèã«ãªã£ãã[lr]",
+      "Pt-br": "\"...Isso ajuda.[lr]",
+      "id": 21845,
+      "epk_id": "26988",
+      "label": "$$$message_0200_0048_0000$$$"
+    },
+    {
+      "en": "Anyway, I have a clear goal in mind now.\"[lr]",
+      "jp": "ãã¨ãããããå½é¢ã®ç®çãããã­ãªãããã[lr]",
+      "Pt-br": "Enfim, agora tenho um objetivo claro em mente.\"[lr]",
+      "id": 21846,
+      "epk_id": "26989",
+      "label": "$$$message_0200_0048_0001$$$"
+    },
+    {
+      "en": "\"I'm honored to be of assistance.[lr]",
+      "jp": "ããå½¹ã«ç«ã¦ã¦å\næ ãã[lr]",
+      "Pt-br": "\"Fico honrada em poder ajudar.[lr]",
+      "id": 21847,
+      "epk_id": "26990",
+      "label": "$$$message_0200_0048_0002$$$"
+    },
+    {
+      "en": "So what's your next move, Emiya? Are you going to look for whoever has the Holy Grail?\"[lr]",
+      "jp": "ãã§ãã©ãããã®è¡å®®ããï¼ããã®èæ¯ã®æã¡ä¸»ãæãã¦ã¿ãï¼ã[lr]",
+      "Pt-br": "E então, qual será seu próximo passo, Emiya-kun? Vai procurar quem está com o Santo Graal?\"[lr]",
+      "id": 21848,
+      "epk_id": "26991",
+      "label": "$$$message_0200_0048_0003$$$"
+    },
+    {
+      "en": "\"Well, within reason.[lr]",
+      "jp": "ãã¾ããåºæ¥ãç¯å²ã§ã[lr]",
+      "Pt-br": "\"Bem, sem exageros.[lr]",
+      "id": 21849,
+      "epk_id": "26992",
+      "label": "$$$message_0200_0048_0004$$$"
+    },
+    {
+      "en": "It isn't doing me any harm for now, and I'll start over after the fourth day, right? I'll just check it out at my own pace.\"",
+      "jp": "ãã¨ããããå®³ã¯ãªããã ããåæ¥ç®ãéãããå\nã«æ»ããã ãï¼ãç¡çããªãã§é©å½ã«ãããã",
+      "Pt-br": "Isso não está me causando nenhum mal por enquanto, e vou recomeçar depois do quarto dia, certo? Vou investigar no meu próprio ritmo.\"",
+      "id": 21850,
+      "epk_id": "26993",
+      "label": "$$$message_0200_0048_0005$$$"
+    },
+    {
+      "en": "I get up and thank her for her time.[lr]",
+      "jp": "ããéªé­ãã¾ãããã¨å¸­ãç«ã¤ã[lr]",
+      "Pt-br": "Levanto-me e agradeço pelo tempo dela.[lr]",
+      "id": 21851,
+      "epk_id": "26994",
+      "label": "$$$message_0200_0049_0000$$$"
+    },
+    {
+      "en": "This conversation went on longer than I expected.",
+      "jp": "ãäºæ³ä»¥ä¸ã«é·è©±ã«ãªã£ã¦ãã¾ã£ãã",
+      "Pt-br": "Essa conversa durou mais do que eu esperava.",
+      "id": 21852,
+      "epk_id": "26995",
+      "label": "$$$message_0200_0049_0001$$$"
+    },
+    {
+      "en": "\"...Goodness.[lr]",
+      "jp": "ãâ¦â¦ã¾ã£ããã[lr]",
+      "Pt-br": "\"...Nossa.[lr]",
+      "id": 21853,
+      "epk_id": "26996",
+      "label": "$$$message_0200_0050_0000$$$"
+    },
+    {
+      "en": "I can't say for sure since I'm not having those dreams, but I came up with that answer after seriously thinking about what you told me.\"",
+      "jp": "ãããããã¡ã¯ãããªå¤¢ã¨ãè¦ã¦ãªãããæ­è¨ã§ããªããã ãã©ãä»ã®ã¯ä¸å¿ãè²´æ¹ã®è©±ãçå£ã«èãã¦ãããå ´åã®ç­ããã",
+      "Pt-br": "Não posso ter certeza, já que não tenho esses sonhos, mas cheguei a essa resposta depois de pensar seriamente no que você me contou.\"",
+      "id": 21854,
+      "epk_id": "26997",
+      "label": "$$$message_0200_0050_0001$$$"
+    },
+    {
+      "en": "\"If I'm being honest, I wish you'd invite me out to the local swimming pool if you have time to entertain such silly fantasies.[lr]",
+      "jp": "ãæ¬é³ãè¨ãã°ããããªå¯ã¼ããå¦æ³æµ®ãã¹ãæããããªããã¼ã«ã«ã§ãèªãã£ã¦æãã ãã©ã[lr]",
+      "Pt-br": "\"Para ser sincera, gostaria que me convidasse para ir à piscina municipal, se tiver tempo para se dedicar a essas fantasias absurdas.[lr]",
+      "id": 21855,
+      "epk_id": "26998",
+      "label": "$$$message_0200_0051_0000$$$"
+    },
+    {
+      "en": "I might have a thing or two to say if you take advantage of me too much.\"",
+      "jp": "ãããã¾ãé½åããä½¿ã£ã¦ãã¨ããã£ã¡ã«ãèããããããï¼ã",
+      "Pt-br": "Talvez eu tenha algumas coisas a dizer se você abusar demais da minha boa vontade.\"",
+      "id": 21856,
+      "epk_id": "26999",
+      "label": "$$$message_0200_0051_0001$$$"
+    },
+    {
+      "en": "Rin Tohsaka ends with a frightening warning and an equally frightening smile.[lr]",
+      "jp": "ããµãµãµãã¨æãããå°è©ãæãããç¬é¡ã§åããé ååã[lr]",
+      "Pt-br": "Tohsaka Rin encerra com um aviso assustador e um sorriso igualmente assustador.[lr]",
+      "id": 21857,
+      "epk_id": "27000",
+      "label": "$$$message_0200_0052_0000$$$"
+    },
+    {
+      "en": "...The pool. The pool, huh? Okay.[lr]",
+      "jp": "ãâ¦â¦ãã¼ã«ããã¼ã«ããããã[lr]",
+      "Pt-br": "...A piscina. A piscina, hein? Certo.[lr]",
+      "id": 21858,
+      "epk_id": "27001",
+      "label": "$$$message_0200_0052_0001$$$"
+    },
+    {
+      "en": "I'll return the favor in the near future, so I hope she'll be patient with me.[clfg textoff=0 pos=all rule=シャッター左から time=400]",
+      "jp": "ãè¿ããã¡ããã®ãç¤¼ã¯ç²¾ç¥çã«ãè¿ãããã®ã§ã¢ãã«ããªãã§å¾\nã£ã¦ãã¦ã»ããã[clfg textoff=0 pos=all rule=ã·ã£ãã¿ã¼å·¦ãã time=400]",
+      "Pt-br": "Retribuirei o favor em breve, então espero que ela tenha um pouco de paciência comigo.[clfg textoff=0 pos=all rule=シャッター左から time=400]",
+      "id": 21859,
+      "epk_id": "27002",
+      "label": "$$$message_0200_0052_0002$$$"
+    },
+    {
+      "en": "\"Thanks for all that. See you tomorrow, Tohsaka.\"[lr]",
+      "jp": "ãä¸è©±ã«ãªã£ããã¾ãææ¥ãªãé åã[lr]",
+      "Pt-br": "\"Obrigado por tudo. Até amanhã, Tohsaka.\"[lr]",
+      "id": 21860,
+      "epk_id": "27003",
+      "label": "$$$message_0200_0053_0000$$$"
+    },
+    {
+      "en": "I leave the guestroom.[lr]",
+      "jp": "ãå®¢éãå¾ã«ããã[lr]",
+      "Pt-br": "Saio do quarto de hóspedes.[lr]",
+      "id": 21861,
+      "epk_id": "27004",
+      "label": "$$$message_0200_0053_0001$$$"
+    },
+    {
+      "en": "Tohsaka doesn't reply right away. She sighs quietly.[lr]",
+      "jp": "ãé åã¯ããã«è¿äºããããå¯ãã«æ¯ãã¤ãã¦ããã[lr]",
+      "Pt-br": "Tohsaka não responde de imediato. Ela suspira baixinho.[lr]",
+      "id": 21862,
+      "epk_id": "27005",
+      "label": "$$$message_0200_0053_0002$$$"
+    },
+    {
+      "en": "\"Hey. [wvl canskip=false time=800]Isn't it nice that everyone's here?\"[lr]",
+      "jp": "ãã­ãã[wvl canskip=false time=800]ã¿ããªæã£ã¦ãã®ã£ã¦ããããã­ã[lr]",
+      "Pt-br": "\"Ei. [wvl canskip=false time=800]Não é bom saber que todos estão aqui?\"[lr]",
+      "id": 21863,
+      "epk_id": "27006",
+      "label": "$$$message_0200_0053_0003$$$"
+    },
+    {
+      "en": "With an ephemeral smile, she echoes my thoughts.",
+      "jp": "ãã«ã²ã­ã¦ã®ãããªç¬é¡ã§ãä¿ºã®æ°æã¡ãä»£å¼ããã",
+      "Pt-br": "Com um sorriso efêmero, ela ecoa meus pensamentos.",
+      "id": 21864,
+      "epk_id": "27007",
+      "label": "$$$message_0200_0053_0004$$$"
+    },
+    {
+      "en": "\"...You know it, don't you? If the war really picked up where we left off, then we would be missing people.\"[r]",
+      "jp": "ãâ¦â¦åããã§ããï¼[r]æ¦ããåéãããã®ãªãã[r]èª°ããæ¬ ãã¦ããªãã[r]ãããªãããºããÎ",
+      "Pt-br": "\"...Você sabe disso, não sabe? Se a guerra realmente tivesse continuado de onde paramos, estariam faltando pessoas.\"[r]",
+      "id": 21865,
+      "epk_id": "926922",
+      "label": "$$$message_9200_0021_0002$$$"
+    }
+  ]
+}

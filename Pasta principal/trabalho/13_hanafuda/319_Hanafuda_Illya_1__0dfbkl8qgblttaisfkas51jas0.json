@@ -1,0 +1,120 @@
+{
+  "cena": "0dfbkl8qgblttaisfkas51jas0",
+  "titulo": "Hanafuda: Illya 1",
+  "rota": "Hanafuda",
+  "arquivo": "0dfbkl8qgblttaisfkas51jas0.epk_dec",
+  "linhas": [
+    {
+      "en": "\"Onsen?\"",
+      "jp": "「おんせん？」",
+      "Pt-br": "\"Um onsen?\"",
+      "id": 41791,
+      "epk_id": "18873",
+      "label": "$$$message_0104_0000_0000$$$"
+    },
+    {
+      "en": "\"A local term for baths fed from natural hot springs, Mistress, over 25 degrees Celsius or containing particular minerals in the water.\"",
+      "jp": "「暖かい湧き水の事ですお嬢様。この国では摂氏２５度以上もしくは規定された物質を溶存しているものの事を指します」",
+      "Pt-br": "\"É o termo local para banhos alimentados por fontes termais naturais, Senhora: água acima de 25 graus Celsius ou com certos minerais dissolvidos.\"",
+      "id": 41792,
+      "epk_id": "18874",
+      "label": "$$$message_0104_0000_0001$$$"
+    },
+    {
+      "en": "\"Huh. Why are you bringing it up, though?\"",
+      "jp": "「ふーん。それで、どうしてそんな所の話になったの？」",
+      "Pt-br": "\"Ah. Mas por que você está falando disso agora?\"",
+      "id": 41793,
+      "epk_id": "18875",
+      "label": "$$$message_0104_0000_0002$$$"
+    },
+    {
+      "en": "\"Sella, chilly. Onsen, warm up. Maybe.\"",
+      "jp": "「セラ、冷え性。おんせん、なおせる。かも」",
+      "Pt-br": "\"Sella, com frio. Onsen, esquenta. Talvez.\"",
+      "id": 41794,
+      "epk_id": "18876",
+      "label": "$$$message_0104_0000_0003$$$"
+    },
+    {
+      "en": "\"Never mind me. [wait canskip=0 time=600][hffacechg chara=セラ face=楽 layer=1 time=200][l][say storage=HIRI1_SER_0030 _name=セラ]This letter came for you.\"",
+      "jp": "「私の事などどうでも良いのです。[wait canskip=0 time=600][l][hffacechg chara=セラ face=楽 layer=1 time=200][say storage=HIRI1_SER_0030 _name=セラ]あーいえ、このような手紙が届きましたもので」",
+      "Pt-br": "\"Não se preocupe comigo. [wait canskip=0 time=600][hffacechg chara=セラ face=楽 layer=1 time=200][l][say storage=HIRI1_SER_0030 _name=セラ]Chegou esta carta para você.\"",
+      "id": 41795,
+      "epk_id": "18877",
+      "label": "$$$message_0104_0000_0004$$$"
+    },
+    {
+      "en": "\"If you read it already, just tell me what it says. If it isn't interesting, go ahead and dispose of it.\"",
+      "jp": "「読んだなら内容だけ教えて。面白くなさそうならそのまま処分して頂戴」",
+      "Pt-br": "\"Se você já leu, basta me dizer o que está escrito. Se não for interessante, pode jogar fora.\"",
+      "id": 41796,
+      "epk_id": "18878",
+      "label": "$$$message_0104_0000_0005$$$"
+    },
+    {
+      "en": "\"Yes, Mistress. In summary, the first Master to arrive at the hot spring resort listed here will receive a ticket for a free stay.\"",
+      "jp": "「はい。簡潔に申しますと、ここに記載されている温泉宿に一番早くたどり着いたマスターに、宿泊券をプレゼントすると」",
+      "Pt-br": "\"Sim, Senhora. Em resumo: o primeiro Mestre que chegar à estância termal indicada aqui receberá um cupom de estadia gratuita.\"",
+      "id": 41797,
+      "epk_id": "18879",
+      "label": "$$$message_0104_0000_0006$$$"
+    },
+    {
+      "en": "\"From whom?\"",
+      "jp": "「誰から？」",
+      "Pt-br": "\"De quem?\"",
+      "id": 41798,
+      "epk_id": "18880",
+      "label": "$$$message_0104_0000_0007$$$"
+    },
+    {
+      "en": "\"Kirei Kotomine, the Holy Grail War Overseer.\"",
+      "jp": "「聖杯戦争の監督役、言峰綺礼です」",
+      "Pt-br": "\"Kotomine Kirei, o Supervisor da Guerra do Santo Graal.\"",
+      "id": 41799,
+      "epk_id": "18881",
+      "label": "$$$message_0104_0000_0008$$$"
+    },
+    {
+      "en": "\"It is a chance to take respite, and it says that the King of Heroes just happened to win the ticket in a lottery...\"",
+      "jp": "「これは慰安の一貫であり、券の出所は英雄王が適当に福引で当ててきたとの事ですが[line len=2]」",
+      "Pt-br": "\"É uma chance de repousar, e diz que o Rei dos Heróis ganhou o cupom por acaso numa loteria...\"",
+      "id": 41800,
+      "epk_id": "18882",
+      "label": "$$$message_0104_0001_0000$$$"
+    },
+    {
+      "en": "\"Hmm... [hffacechg chara=イリヤ face=喜 layer=0 time=200][l][say storage=HIRI1_IRI_0060 _name=イリヤ]That could be interesting if the other Masters show up. I'll go kill some time there.\"",
+      "jp": "「ふうん……[l][hffacechg chara=イリヤ face=喜 layer=0 time=200][say storage=HIRI1_IRI_0060 _name=イリヤ]他のマスターが出てくるならちょっとは面白そうね。暇つぶしに遊んでくるわ」",
+      "Pt-br": "\"Hmm... [hffacechg chara=イリヤ face=喜 layer=0 time=200][l][say storage=HIRI1_IRI_0060 _name=イリヤ]Pode ser divertido se os outros Mestres aparecerem. Vou lá matar o tempo.\"",
+      "id": 41801,
+      "epk_id": "18883",
+      "label": "$$$message_0104_0001_0001$$$"
+    },
+    {
+      "en": "\"Have fun.\"",
+      "jp": "「いってらっしゃい」",
+      "Pt-br": "\"Divirta-se.\"",
+      "id": 41802,
+      "epk_id": "18884",
+      "label": "$$$message_0104_0001_0002$$$"
+    },
+    {
+      "en": "\"I will. Let's go, Berserker!\"",
+      "jp": "「うん。じゃあ、行くわよバーサーカー！」",
+      "Pt-br": "\"Vou sim. Vamos, Berserker!\"",
+      "id": 41803,
+      "epk_id": "18885",
+      "label": "$$$message_0104_0001_0003$$$"
+    },
+    {
+      "en": "\"[wacky len=5][line len=3]!!!\"",
+      "jp": "「[wacky len=5][line len=3]！！！！」[wm canskip=0]",
+      "Pt-br": "\"[wacky len=5][line len=3]!!!\"",
+      "id": 41804,
+      "epk_id": "18886",
+      "label": "$$$message_0104_0001_0004$$$"
+    }
+  ]
+}

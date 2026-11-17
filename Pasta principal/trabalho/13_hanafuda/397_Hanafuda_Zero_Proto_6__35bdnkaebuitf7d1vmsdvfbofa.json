@@ -1,0 +1,360 @@
+{
+  "cena": "35bdnkaebuitf7d1vmsdvfbofa",
+  "titulo": "Hanafuda Zero: Proto 6",
+  "rota": "Hanafuda",
+  "arquivo": "35bdnkaebuitf7d1vmsdvfbofa.epk_dec",
+  "linhas": [
+    {
+      "en": "\"Is this...Fuyuki's Holy Grail Onsen? It's more like...\"",
+      "jp": "「ここが……冬木の聖杯温泉？　温泉っていうより、これ……」",
+      "Pt-br": "\"Isto é... o Onsen do Santo Graal de Fuyuki? Parece mais...\"",
+      "id": 45042,
+      "epk_id": "44845",
+      "label": "$$$message_0394_0000_0000$$$"
+    },
+    {
+      "en": "\"It's exactly like our Greater Grail, right? Did we just fall for a trap?\"",
+      "jp": "「まんまうちらの大聖杯と同じじゃねぇか。こりゃあ騙されたか？」",
+      "Pt-br": "\"É exatamente igual ao nosso Grande Graal, não é? Acabamos de cair numa armadilha?\"",
+      "id": 45043,
+      "epk_id": "44846",
+      "label": "$$$message_0394_0000_0001$$$"
+    },
+    {
+      "en": "\"No, we probably just took a wrong turn. I have a hunch we would be at the onsen now if we'd gone the other way at the fork.\"",
+      "jp": "「いや、道を間違えたのだろうよ。先ほどの分かれ道を上に行けば温泉だと、我の勘が言っている」",
+      "Pt-br": "\"Não, provavelmente só pegamos o caminho errado. Tenho o palpite de que estaríamos no onsen agora se tivéssemos ido para o outro lado na bifurcação.\"",
+      "id": 45044,
+      "epk_id": "44847",
+      "label": "$$$message_0394_0000_0002$$$"
+    },
+    {
+      "en": "\"Really? Archer, I know you have a great nose for money and treasure...but I'm pretty sure this is where the ticket says to go.\"",
+      "jp": "「そうなの？　アーチャーさん、お金とか宝の嗅覚は凄いからホントなんだろうけど……このチケットにはこっちだって案内があったよ？」",
+      "Pt-br": "\"Sério? Archer-san, eu sei que você tem um faro excelente para dinheiro e tesouros... mas tenho quase certeza de que o bilhete manda vir para cá.\"",
+      "id": 45045,
+      "epk_id": "44848",
+      "label": "$$$message_0394_0000_0003$$$"
+    },
+    {
+      "en": "\"Let me see... [wvl canskip=false time=200][hffgchg2 chara=アーチャーprt face=笑顔 pos=right time=400 twno=1][hfsigh layer=1]Ah, I see. We certainly are on the right path.\"",
+      "jp": "「どれ、見せてみろ。[wvl canskip=false time=200][hffgchg2 chara=アーチャーprt face=笑顔 pos=right time=400 twno=1][hfsigh layer=1][line len=3]ほう。なるほど、そういうコトか。確かに道はあっているな」",
+      "Pt-br": "\"Deixe-me ver... [wvl canskip=false time=200][hffgchg2 chara=アーチャーprt face=笑顔 pos=right time=400 twno=1][hfsigh layer=1]Ah, entendo. De fato estamos no caminho certo.\"",
+      "id": 45046,
+      "epk_id": "44849",
+      "label": "$$$message_0394_0000_0004$$$"
+    },
+    {
+      "en": "\"But enough about us. Saber! This is only about you.\"",
+      "jp": "「ただし我々ではなく、セイバー！　貴様だけの話だが」",
+      "Pt-br": "\"Mas chega de falar de nós. Saber! Isto diz respeito apenas a você.\"",
+      "id": 45047,
+      "epk_id": "44850",
+      "label": "$$$message_0394_0000_0005$$$"
+    },
+    {
+      "en": "\"What? Why me?\"",
+      "jp": "「なに？　なぜ僕だけなんだ？」",
+      "Pt-br": "\"O quê? Por que eu?\"",
+      "id": 45048,
+      "epk_id": "44851",
+      "label": "$$$message_0394_0000_0006$$$"
+    },
+    {
+      "en": "\"Mwahahaha! You still don't get it, you oaf!? This ticket isn't addressed to Ayaka!\"",
+      "jp": "「ふははは、まだ分からぬか唐変木め！　このチケットはアヤカに宛てられたものではない！」",
+      "Pt-br": "\"Mwahahaha! Ainda não entendeu, seu tonto!? Este bilhete não é endereçado à Ayaka!\"",
+      "id": 45049,
+      "epk_id": "44853",
+      "label": "$$$message_0394_0000_0008$$$"
+    },
+    {
+      "en": "\"It's a love letter aimed squarely at you!\"",
+      "jp": "「もとより、貴様をピンポイントで狙った愛あふれるラブレターだ！」",
+      "Pt-br": "\"É uma carta de amor mirando direto em você!\"",
+      "id": 45050,
+      "epk_id": "44855",
+      "label": "$$$message_0394_0000_0010$$$"
+    },
+    {
+      "en": "\"Say what!? [wvl canskip=false time=150][wm canskip=0][hffgchg2 chara=セイバーprt face=哀 pos=left time=300 twno=2][hfsweat layer=0 ox=0 oy=0][hfangry layer=0][playstop time=1000 storage=bgm35.ogg]That means the person waiting for us is...!\"",
+      "jp": "「な[line len=3]なんだってぇ……！？　[wvl canskip=false time=150][wm canskip=0][hffgchg2 chara=セイバーprt face=哀 pos=left time=300 twno=2][hfsweat layer=0 ox=0 oy=0][hfangry layer=0][playstop time=1000 storage=bgm35.ogg]それじゃあ、ここで待っているのはまさか……！」",
+      "Pt-br": "\"Como é!? [wvl canskip=false time=150][wm canskip=0][hffgchg2 chara=セイバーprt face=哀 pos=left time=300 twno=2][hfsweat layer=0 ox=0 oy=0][hfangry layer=0][playstop time=1000 storage=bgm35.ogg]Isso significa que a pessoa à nossa espera é...!\"",
+      "id": 45051,
+      "epk_id": "44856",
+      "label": "$$$message_0394_0000_0011$$$"
+    },
+    {
+      "en": "\"Saber! You finally came to see me!\"",
+      "jp": "「セイバー！　やっと来てくれたのね！」　",
+      "Pt-br": "\"Saber! Você finalmente veio me ver!\"",
+      "id": 45052,
+      "epk_id": "44857",
+      "label": "$$$message_0394_0000_0012$$$"
+    },
+    {
+      "en": "\"[line len=3]!!!\"",
+      "jp": "「[line len=3]！！！！！！」",
+      "Pt-br": "\"[line len=3]!!!\"",
+      "id": 45053,
+      "epk_id": "44859",
+      "label": "$$$message_0394_0000_0014$$$"
+    },
+    {
+      "en": "\"Aww, you look so pale. You must be so happy to see me your cheeks are spasming...\"",
+      "jp": "「もう、そんなに顔を青くして、頬を引きつらせるほど喜んでくれるなんて……」",
+      "Pt-br": "\"Aww, você está tão pálido. Deve estar tão feliz em me ver que suas bochechas estão até tremendo...\"",
+      "id": 45054,
+      "epk_id": "44860",
+      "label": "$$$message_0394_0000_0015$$$"
+    },
+    {
+      "en": "\"I knew you were my Prince Charming, Saber! [wvl][hfpop layer=1]I love you! I love you so much I'd trade every life on Earth to be with you!\"",
+      "jp": "「やっぱりセイバーはわたしの王子様ね！　[wvl][hfpop layer=1]大好き！　この星の命ぜんぶと引き替えにしてもいいぐらい大好きよ、セイバー！」",
+      "Pt-br": "\"Eu sabia que você era meu Príncipe Encantado, Saber! [wvl][hfpop layer=1]Eu te amo! Amo tanto que trocaria todas as vidas da Terra para ficar com você!\"",
+      "id": 45055,
+      "epk_id": "44861",
+      "label": "$$$message_0394_0000_0016$$$"
+    },
+    {
+      "en": "\"All right, let's bounce. Have fun, playboy.\"",
+      "jp": "「じゃあオレたちはこれで。がんばれよ、色男」",
+      "Pt-br": "\"Certo, vamos dar o fora. Divirta-se, garanhão.\"",
+      "id": 45056,
+      "epk_id": "44862",
+      "label": "$$$message_0394_0000_0017$$$"
+    },
+    {
+      "en": "\"Heh. Dropping out already? Time to pay the piper, Saber.\"",
+      "jp": "「フッ、ひとり脱落か。年貢の納め時だなセイバー」",
+      "Pt-br": "\"Heh. Já vai desistir? Chegou a hora de pagar a conta, Saber.\"",
+      "id": 45057,
+      "epk_id": "44863",
+      "label": "$$$message_0394_0000_0018$$$"
+    },
+    {
+      "en": "(...)",
+      "jp": "（………………）",
+      "Pt-br": "(...)",
+      "id": 45058,
+      "epk_id": "44864",
+      "label": "$$$message_0394_0000_0019$$$"
+    },
+    {
+      "en": "(Manaka Sajyou, my big sister of six years. She was also Saber's Master in the previous war, where she was pretty much invincible.)",
+      "jp": "（沙条愛歌。私の六歳上の姉。前回の聖杯戦争ではほぼ無敵で勝ち進んでいたセイバーの元マスター）",
+      "Pt-br": "(Sajyou Manaka, minha irmã mais velha por seis anos. Ela também foi Mestra de Saber na guerra anterior, onde era praticamente invencível.)",
+      "id": 45059,
+      "epk_id": "44865",
+      "label": "$$$message_0394_0000_0020$$$"
+    },
+    {
+      "en": "(I'd rather not talk about her, but to sum her up, she's a transcendentally gifted demon who won't die even when she's killed.)",
+      "jp": "（お姉ちゃんのコトはあまり話したくないので割愛するが、一言でいえば殺しても死なない、超弩級の天才悪魔である）",
+      "Pt-br": "(Eu preferia nem falar dela, mas, resumindo, ela é um demônio de talento transcendental que não morre nem quando é morta.)",
+      "id": 45060,
+      "epk_id": "44866",
+      "label": "$$$message_0394_0000_0021$$$"
+    },
+    {
+      "en": "\"Come here, Saber. I've prepared the most special bath ever for you.\"",
+      "jp": "「さあ、こっちに来てセイバー。貴方のために特製のお風呂を用意したのよ」",
+      "Pt-br": "\"Venha cá, Saber. Preparei para você o banho mais especial de todos.\"",
+      "id": 45061,
+      "epk_id": "44867",
+      "label": "$$$message_0394_0000_0022$$$"
+    },
+    {
+      "en": "\"Oh, would you like dinner first? Or...would you like [font italic=true]me[font italic=false] instead, just like last time with the Greater Grail?\"",
+      "jp": "「あ、それとも先にご飯？　それとも[line len=3]前の大聖杯の時と同じように、[wvl][delay speed=300]わ・た・し？」[delay speed=user]",
+      "Pt-br": "\"Ah, prefere jantar primeiro? Ou... prefere [font italic=true]a mim[font italic=false], como daquela vez com o Grande Graal?\"",
+      "id": 45062,
+      "epk_id": "44868",
+      "label": "$$$message_0394_0000_0023$$$"
+    },
+    {
+      "en": "\"...Huh, you never told me about that, Saber. What happened between you and my sister in front of the Greater Grail?\"",
+      "jp": "「[line len=3]へえ、それは初耳ね。セイバー、前にお姉ちゃんと何かあったんだ。大聖杯の前で？」",
+      "Pt-br": "\"...Hã, você nunca me contou essa parte, Saber. O que aconteceu entre você e Onee-chan diante do Grande Graal?\"",
+      "id": 45063,
+      "epk_id": "44869",
+      "label": "$$$message_0394_0000_0024$$$"
+    },
+    {
+      "en": "\"Th-this is all a misunderstanding! [wvl]You could say I backstabbed Manaka (with my sacred sword) when she was all twirly...\"",
+      "jp": "「ご、誤解だ！[wvl]　アレはくるくる回る愛歌を、後ろから（聖剣で）バッサリ串刺しにしたというか……」",
+      "Pt-br": "\"I-isso é um mal-entendido! [wvl]Digamos que eu apunhalei Manaka pelas costas (com minha espada sagrada) quando ela estava toda rodopiante...\"",
+      "id": 45064,
+      "epk_id": "44870",
+      "label": "$$$message_0394_0000_0025$$$"
+    },
+    {
+      "en": "\"Huh? Y-you stabbed her in the back!? Really!?\"",
+      "jp": "「え……う、後ろから、ばっさり！？　ほんとに……！？」",
+      "Pt-br": "\"Hã? V-você a esfaqueou pelas costas!? De verdade!?\"",
+      "id": 45065,
+      "epk_id": "44871",
+      "label": "$$$message_0394_0000_0026$$$"
+    },
+    {
+      "en": "\"That's right![heart] It was a once-in-a-lifetime, passionate embrace. So...\"",
+      "jp": "「うん、そうなの[heart]　あんな情熱的な抱擁、世界であれ一回きり。だから[line len=3]」",
+      "Pt-br": "\"Isso mesmo![heart] Foi um abraço apaixonado de uma vez na vida. Então...\"",
+      "id": 45066,
+      "epk_id": "44872",
+      "label": "$$$message_0394_0000_0027$$$"
+    },
+    {
+      "en": "\"I'll do the same for you, Saber. Not from behind, but all over every nook and cranny of your body.\"",
+      "jp": "「セイバーも同じようにしてあげる。背中からといわず、全身をくまなく隙間なく」",
+      "Pt-br": "\"Farei o mesmo por você, Saber. Não por trás, mas por cada canto e fresta do seu corpo.\"",
+      "id": 45067,
+      "epk_id": "44873",
+      "label": "$$$message_0394_0000_0028$$$"
+    },
+    {
+      "en": "\"Like a big wreath of flowers. No, like the sparkling stars in the sky. I'll caress you with my tentacles until you're all sparkly and slurpy.[heart]\"",
+      "jp": "「それは大輪の花のように。ううん、輝くソラの星のように。キラキラしてズルズルになるまで、わたしの触手を受けとめて[heart]」",
+      "Pt-br": "\"Como uma grande coroa de flores. Não, como estrelas cintilando no céu. Vou acariciar você com meus tentáculos até deixá-lo todo brilhante e melado.[heart]\"",
+      "id": 45068,
+      "epk_id": "44874",
+      "label": "$$$message_0394_0000_0029$$$"
+    },
+    {
+      "en": "\"...Mrgh. That's not good, Manaka. I did betray you twice.\"",
+      "jp": "「……む。それはよくない愛歌。たしかに僕は君を二度、裏切った」",
+      "Pt-br": "\"...Grr. Isso não é bom, Manaka. Eu traí você duas vezes.\"",
+      "id": 45069,
+      "epk_id": "44875",
+      "label": "$$$message_0394_0000_0030$$$"
+    },
+    {
+      "en": "\"The first time was from behind. The second time was when I made a pact with Ayaka. So I'm prepared for you to take revenge.\"",
+      "jp": "「一度目は君の背中を。二度目は綾香との契約を。だから、君に復讐されるのも覚悟の上だ」",
+      "Pt-br": "\"A primeira foi pelas costas. A segunda foi quando fiz um pacto com Ayaka. Então estou preparado para sua vingança.\"",
+      "id": 45070,
+      "epk_id": "44877",
+      "label": "$$$message_0394_0000_0032$$$"
+    },
+    {
+      "en": "\"Saber...\"",
+      "jp": "「セイバー……」",
+      "Pt-br": "\"Saber...\"",
+      "id": 45071,
+      "epk_id": "44878",
+      "label": "$$$message_0394_0000_0033$$$"
+    },
+    {
+      "en": "\"Still, you should learn how to speak more like a heroine. A girl your age shouldn't be talking about tentacles, okay?[whitestar]\"",
+      "jp": "「けど、もうちょっとこう、ヒロインらしい愛の言葉を覚えよう。年頃の女の子は“わたしの触手”なんて言葉は使っちゃダメだぞ☆」",
+      "Pt-br": "\"Ainda assim, você deveria aprender a falar mais como heroína. Uma garota da sua idade não devia sair falando de tentáculos, certo?[whitestar]\"",
+      "id": 45072,
+      "epk_id": "44879",
+      "label": "$$$message_0394_0000_0034$$$"
+    },
+    {
+      "en": "\"Guh...!\"",
+      "jp": "「ぶっ……！」",
+      "Pt-br": "\"Guh...!\"",
+      "id": 45073,
+      "epk_id": "44880",
+      "label": "$$$message_0394_0000_0035$$$"
+    },
+    {
+      "en": "\"Saber...! Yes, I'll do my best! How about a romantic Manaka slaughter flogging!?\"",
+      "jp": "「セイバー……！　ええ、今後は気をつけるわ！　愛らしく、マナカ虐殺ウィップとかどうかしら！」",
+      "Pt-br": "\"Saber...! Sim, vou dar o meu melhor! Que tal uma romântica flagelação-abate da Manaka!?\"",
+      "id": 45074,
+      "epk_id": "44881",
+      "label": "$$$message_0394_0000_0036$$$"
+    },
+    {
+      "en": "\"...You know, I've been thinking this for a while, but maybe you and my sister were meant for each other.\"",
+      "jp": "「……前からちょっとだけ思ってたけど。もしかしてお姉ちゃんと息ピッタリなの、セイバー？」",
+      "Pt-br": "\"...Sabe, faz tempo que eu penso nisso, mas talvez você e Onee-chan tenham nascido um para o outro.\"",
+      "id": 45075,
+      "epk_id": "44882",
+      "label": "$$$message_0394_0000_0037$$$"
+    },
+    {
+      "en": "\"...They are both natural airheads. They might form an equally silly couple.\"",
+      "jp": "「……まあ、天然同士だしな。バカップルとして成立するかもしれん」",
+      "Pt-br": "\"...Os dois são avoados por natureza. Talvez formem um casal igualmente ridículo.\"",
+      "id": 45076,
+      "epk_id": "44883",
+      "label": "$$$message_0394_0000_0038$$$"
+    },
+    {
+      "en": "\"That's right, people I don't really know. Saber and I are soulmates, and I won't let anyone get in the way of that.\"",
+      "jp": "「そうよ、そこのよく知らない人たち。わたしとセイバーは運命の恋人、邪魔をする人は許さない」",
+      "Pt-br": "\"Isso mesmo, pessoas que eu mal conheço. Saber e eu somos almas gêmeas, e não vou deixar ninguém ficar no caminho disso.\"",
+      "id": 45077,
+      "epk_id": "44884",
+      "label": "$$$message_0394_0000_0039$$$"
+    },
+    {
+      "en": "\"Actually...I don't need any of you here. I'll feed you all to the Greater Grail when I'm finished.\"",
+      "jp": "「というか、ひとりたりとも要らないわ。後でみんな、大聖杯にくべてしまいましょう」",
+      "Pt-br": "\"Na verdade... não preciso de nenhum de vocês aqui. Vou alimentar o Grande Graal com todos vocês quando terminar.\"",
+      "id": 45078,
+      "epk_id": "44885",
+      "label": "$$$message_0394_0000_0040$$$"
+    },
+    {
+      "en": "\"...! So everyone looks all dead-eyed because of you!\"",
+      "jp": "「……！　まさか街の人たちの目が死んでいたのは、お姉ちゃんの仕業……！」",
+      "Pt-br": "\"...! Então é por sua causa que todo mundo está com aquele olhar morto, Onee-chan!\"",
+      "id": 45079,
+      "epk_id": "44887",
+      "label": "$$$message_0394_0000_0042$$$"
+    },
+    {
+      "en": "\"That's right. I had nothing better to do while I was waiting for Saber, so I took over Fuyuki. We need a lot of guests to come to our wedding, anyway.\"",
+      "jp": "「ええ。セイバーが来るまで暇だったから、冬木市を支配しておいたの。だって、結婚式には大勢いた方がいいでしょう？」",
+      "Pt-br": "\"Isso mesmo. Eu não tinha nada melhor para fazer enquanto esperava por Saber, então tomei Fuyuki para mim. Afinal, precisamos de muitos convidados para o nosso casamento.\"",
+      "id": 45080,
+      "epk_id": "44889",
+      "label": "$$$message_0394_0000_0044$$$"
+    },
+    {
+      "en": "\"I'll turn them all into zombies afterward, of course.\"",
+      "jp": "「もちろん、その後はみんなゾンビになってもらうけど」",
+      "Pt-br": "\"Depois transformarei todos em zumbis, claro.\"",
+      "id": 45081,
+      "epk_id": "44890",
+      "label": "$$$message_0394_0000_0045$$$"
+    },
+    {
+      "en": "\"Ngh... I can't just let her do whatever she wants... I feel bad for her, but her very existence is evil...\"",
+      "jp": "「っ……やっぱりあの人は野放しにしておけない……可愛そうだけど、いるだけで悪なんだ……」",
+      "Pt-br": "\"Ngh... Não posso simplesmente deixá-la fazer o que quiser... Sinto pena dela, mas a própria existência dela é maligna...\"",
+      "id": 45082,
+      "epk_id": "44891",
+      "label": "$$$message_0394_0000_0046$$$"
+    },
+    {
+      "en": "\"Saber, Lancer, Archer! Let's go! This time, I'm putting my family shame to rest for good!\"",
+      "jp": "「セイバー、ランサー、アーチャー！　行くわよ！　今度こそ、あの身内の恥を封印するわ！」",
+      "Pt-br": "\"Saber, Lancer, Archer! Vamos! Desta vez, vou pôr um fim definitivo à vergonha da minha família!\"",
+      "id": 45083,
+      "epk_id": "44892",
+      "label": "$$$message_0394_0000_0047$$$"
+    },
+    {
+      "en": "\"Hehehe. Okay. Welcome to my world, you little nuisance. I'll kill some time with[line len=2][wvl canskip=false time=200][hfchance layer=0][hffgchg2 chara=愛歌 face=ジト目 pos=left time=400 twno=1][hfsweat layer=0 ox=0 oy=0]Huh? Family? You are? Even though you have such a plain design?\"",
+      "jp": "「ふふふ、いいわ、いらっしゃい邪魔者さん。退屈しのぎに遊んで[line len=3][wvl canskip=false time=200][hfchance layer=0][hffgchg2 chara=愛歌 face=ジト目 pos=left time=400 twno=1][hfsweat layer=0 ox=0 oy=0]え？　身内？　貴女が？　そんな地味なキャラクターで？」",
+      "Pt-br": "\"Hehehe. Certo. Bem-vinda ao meu mundo, sua pestinha. Vou matar o tempo com[line len=2][wvl canskip=false time=200][hfchance layer=0][hffgchg2 chara=愛歌 face=ジト目 pos=left time=400 twno=1][hfsweat layer=0 ox=0 oy=0]Hã? Família? Você? Mesmo tendo um design tão sem graça?\"",
+      "id": 45084,
+      "epk_id": "44893",
+      "label": "$$$message_0394_0000_0048$$$"
+    },
+    {
+      "en": "\"Oh, gimme a break. You don't even recognize me!? [wvl][hfwww layer=1]How self-centered [font italic=true]are[font italic=false] you, big sister!?\"",
+      "jp": "「ああもう、やっぱり分かってなかったのね……！　[wvl][hfwww layer=1]どこまで自分中心なのよ、お姉ちゃんはーーー！」:Qa",
+      "Pt-br": "\"Ah, me dá um tempo. Você nem me reconhece!? [wvl][hfwww layer=1]Até que ponto você [font italic=true]é[font italic=false] egocêntrica, irmãzona!?\"",
+      "id": 45085,
+      "epk_id": "44894",
+      "label": "$$$message_0394_0000_0049$$$"
+    }
+  ]
+}

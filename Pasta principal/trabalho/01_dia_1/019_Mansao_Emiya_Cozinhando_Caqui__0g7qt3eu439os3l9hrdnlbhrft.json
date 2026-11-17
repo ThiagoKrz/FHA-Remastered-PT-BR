@@ -1,0 +1,832 @@
+{
+  "cena": "0g7qt3eu439os3l9hrdnlbhrft",
+  "titulo": "Mansão Emiya: Cozinhando Caqui",
+  "rota": "Dia 1",
+  "arquivo": "0g7qt3eu439os3l9hrdnlbhrft.epk_dec",
+  "linhas": [
+    {
+      "en": "\"Senpai? Do you have a moment?\"[lr]",
+      "jp": "「先輩？　ちょっといいですか？」[lr]",
+      "Pt-br": "\"Senpai? Tem um minuto?\"[lr]",
+      "id": 5273,
+      "epk_id": "2075",
+      "label": "$$$message_0010_0000_0000$$$"
+    },
+    {
+      "en": "I hear Sakura's voice as I'm resting in my room.[lr]",
+      "jp": "　部屋で体を休めていると、桜の声がする。[lr]",
+      "Pt-br": "Ouço a voz de Sakura enquanto descanso no quarto.[lr]",
+      "id": 5274,
+      "epk_id": "2076",
+      "label": "$$$message_0010_0000_0001$$$"
+    },
+    {
+      "en": "\"Come in,\" [movefg opacity=255 time=400 pos=r accel=0 storage=æ¡ç§æ01a(ä¸­) textoff=0]I answer. Sakura peeks inside.[wm canskip=0]",
+      "jp": "　どうぞ、[movefg opacity=255 time=400 pos=r accel=0 storage=桜私服01a(中) textoff=0]と返事をすると桜が顔を出した。[wm canskip=0]",
+      "Pt-br": "\"Pode entrar\", [movefg opacity=255 time=400 pos=r accel=0 storage=桜私服01a(中) textoff=0]respondo. Sakura põe o rosto para dentro.[wm canskip=0]",
+      "id": 5275,
+      "epk_id": "2077",
+      "label": "$$$message_0010_0000_0002$$$"
+    },
+    {
+      "en": "\"Huh? Did I forget to hang up the laundry?\"[lr]",
+      "jp": "「あれ？　俺、洗濯物出してなかったとか？」[lr]",
+      "Pt-br": "\"Hã? Esqueci de estender a roupa?\"[lr]",
+      "id": 5276,
+      "epk_id": "2078",
+      "label": "$$$message_0010_0001_0000$$$"
+    },
+    {
+      "en": "\"No, it's not that... [cacheimage storage=æ¡ç§æ07c(ä¸­)][wvl canskip=false time=300][chgfg storage=æ¡ç§æ07c(ä¸­) time=300 textoff=0]What do you want to have for dinner tonight?\"[lr]",
+      "jp": "「いえ、そうじゃないんですけど……[cacheimage storage=桜私服07c(中)][wvl canskip=false time=300][chgfg storage=桜私服07c(中) time=300 textoff=0]今日の晩ご飯、どうします？」[lr]",
+      "Pt-br": "\"Não, não é isso... [cacheimage storage=桜私服07c(中)][wvl canskip=false time=300][chgfg storage=桜私服07c(中) time=300 textoff=0]O que gostaria de comer no jantar?\"[lr]",
+      "id": 5277,
+      "epk_id": "2079",
+      "label": "$$$message_0010_0001_0001$$$"
+    },
+    {
+      "en": "\"Eh? Oh, is it that time already?\"",
+      "jp": "「え？　ああ、もうそんな時間か」",
+      "Pt-br": "\"Hã? Ah, já está na hora?\"",
+      "id": 5278,
+      "epk_id": "2080",
+      "label": "$$$message_0010_0001_0002$$$"
+    },
+    {
+      "en": "I jump to my feet.[lr]",
+      "jp": "　ばしっと立ち上がる。[lr]",
+      "Pt-br": "Salto de pé.[lr]",
+      "id": 5279,
+      "epk_id": "2081",
+      "label": "$$$message_0010_0002_0000$$$"
+    },
+    {
+      "en": "We have to feed a lot of people on the weekends, so we'd better start prepping or we won't have enough time.",
+      "jp": "　週末の夕食は大人数になるので、そろそろ仕込みを始めないと間に合わないのだ。",
+      "Pt-br": "Nos fins de semana, temos muita gente para alimentar. Se não começarmos logo, o tempo não será suficiente.",
+      "id": 5280,
+      "epk_id": "2082",
+      "label": "$$$message_0010_0002_0001$$$"
+    },
+    {
+      "en": "\"Was it your turn to make dinner today?\"[lr]",
+      "jp": "「今日の当番、桜だったか？」[lr]",
+      "Pt-br": "\"Hoje é sua vez de fazer o jantar?\"[lr]",
+      "id": 5281,
+      "epk_id": "2083",
+      "label": "$$$message_0010_0003_0000$$$"
+    },
+    {
+      "en": "\"Yes, so if you have any requests... [cacheimage storage=æ¡ç§æ10g(ä¸­)][wvl canskip=false time=500][chgfg storage=æ¡ç§æ10g(ä¸­) time=300 textoff=0]Oh, but I should ask Saber and Ms. Fujimura, too.\"[lr]",
+      "jp": "「はい、なにか希望があれば[line len=3][cacheimage storage=桜私服10g(中)][wvl canskip=false time=500][chgfg storage=桜私服10g(中) time=300 textoff=0]あ、でもセイバーさんとか藤村先生の希望も聞かないといけませんね」[lr]",
+      "Pt-br": "\"Sim. Então, se tiver algum pedido... [cacheimage storage=桜私服10g(中)][wvl canskip=false time=500][chgfg storage=桜私服10g(中) time=300 textoff=0]Ah, mas também preciso perguntar à Saber-san e à Fujimura-sensei.\"[lr]",
+      "id": 5282,
+      "epk_id": "2084",
+      "label": "$$$message_0010_0003_0001$$$"
+    },
+    {
+      "en": "\"Okay, I'll help.\"[lr]",
+      "jp": "「分かった、手伝おう」[lr]",
+      "Pt-br": "\"Certo, vou ajudar.\"[lr]",
+      "id": 5283,
+      "epk_id": "2085",
+      "label": "$$$message_0010_0003_0002$$$"
+    },
+    {
+      "en": "I was starting to feel too lazy just sitting around, anyway.[lr]",
+      "jp": "　どうせ、小休止がてらにごろごろしていたのだ。[lr]",
+      "Pt-br": "De qualquer forma, eu já estava cansando de ficar à toa.[lr]",
+      "id": 5284,
+      "epk_id": "2086",
+      "label": "$$$message_0010_0003_0003$$$"
+    },
+    {
+      "en": "It would be more worthwhile to spend my time helping Sakura.",
+      "jp": "　それなら桜の手伝いをした方が有意義だろう。",
+      "Pt-br": "Seria muito mais proveitoso passar o tempo ajudando Sakura.",
+      "id": 5285,
+      "epk_id": "2087",
+      "label": "$$$message_0010_0003_0004$$$"
+    },
+    {
+      "en": "\"Um, but you're supposed to be resting...\"[lr]",
+      "jp": "「あの、でも、先輩はお休み中じゃ……」[lr]",
+      "Pt-br": "\"Ahn, mas você deveria estar descansando, Senpai...\"[lr]",
+      "id": 5286,
+      "epk_id": "2088",
+      "label": "$$$message_0010_0004_0000$$$"
+    },
+    {
+      "en": "\"I got plenty of rest.[lr]",
+      "jp": "「十分休んだ。[lr]",
+      "Pt-br": "\"Já descansei bastante.[lr]",
+      "id": 5287,
+      "epk_id": "2089",
+      "label": "$$$message_0010_0004_0001$$$"
+    },
+    {
+      "en": "...Hmm. Well, you're good enough that you don't need help anymore, so I might not have anything to do.\"",
+      "jp": "　……んー、まあ、桜が俺の手がいらなくなるぐらい上達してるなら、俺の出番はもうないけど」",
+      "Pt-br": "...Hum. Pensando bem, você já cozinha tão bem que não precisa mais de ajuda. Talvez eu não tenha nada para fazer.\"",
+      "id": 5288,
+      "epk_id": "2090",
+      "label": "$$$message_0010_0004_0002$$$"
+    },
+    {
+      "en": "\"Th-that's not true! I haven't mastered everything you have to teach me!\"[lr]",
+      "jp": "「そ、そんなことないです！　まだ先輩から免許皆伝は受けていませんから！」[lr]",
+      "Pt-br": "\"N-não é verdade! Ainda não aprendi tudo o que você tem para me ensinar, Senpai!\"[lr]",
+      "id": 5289,
+      "epk_id": "2091",
+      "label": "$$$message_0010_0005_0000$$$"
+    },
+    {
+      "en": "\"Glad to hear that.[lr]",
+      "jp": "「うん、それは良かった。[lr]",
+      "Pt-br": "\"Fico feliz em ouvir isso.[lr]",
+      "id": 5290,
+      "epk_id": "2092",
+      "label": "$$$message_0010_0005_0001$$$"
+    },
+    {
+      "en": "Well, let's have a good time cooking.\"[lr]",
+      "jp": "　んじゃ、仲良く一緒に料理するか」[lr]",
+      "Pt-br": "Então vamos nos divertir cozinhando.\"[lr]",
+      "id": 5291,
+      "epk_id": "2093",
+      "label": "$$$message_0010_0005_0002$$$"
+    },
+    {
+      "en": "\"Senpai...that smile isn't fair...\"[lr]",
+      "jp": "「……先輩……その笑顔は反則です……」[lr]",
+      "Pt-br": "\"Senpai... esse sorriso é covardia...\"[lr]",
+      "id": 5292,
+      "epk_id": "2094",
+      "label": "$$$message_0010_0005_0003$$$"
+    },
+    {
+      "en": "\"Hm?\"",
+      "jp": "「ん？」",
+      "Pt-br": "\"Hum?\"",
+      "id": 5293,
+      "epk_id": "2095",
+      "label": "$$$message_0010_0005_0004$$$"
+    },
+    {
+      "en": "\"N-never mind! Okay! [cacheimage storage=æ¡ç§æ09a(ä¸­)][wvl canskip=false time=200][chgfg storage=æ¡ç§æ09a(ä¸­) time=300 textoff=0]Then please help me however you can!\"",
+      "jp": "「な、なんでもないです、はい！　[cacheimage storage=桜私服09a(中)][wvl canskip=false time=200][chgfg storage=桜私服09a(中) time=300 textoff=0]じゃあ遠慮なく、お手伝いしてください先輩！」",
+      "Pt-br": "\"N-não foi nada! Está bem! [cacheimage storage=桜私服09a(中)][wvl canskip=false time=200][chgfg storage=桜私服09a(中) time=300 textoff=0]Então me ajude sem cerimônia, Senpai!\"",
+      "id": 5294,
+      "epk_id": "2096",
+      "label": "$$$message_0010_0006_0000$$$"
+    },
+    {
+      "en": "\"Huh? This cardboard box...\"[lr]",
+      "jp": "「あれ？　このダンボール……」[lr]",
+      "Pt-br": "\"Hã? Esta caixa de papelão...\"[lr]",
+      "id": 5295,
+      "epk_id": "2097",
+      "label": "$$$message_0010_0007_0000$$$"
+    },
+    {
+      "en": "Sakura notices something and stops.[lr]",
+      "jp": "　桜が気付いて、足を止める。[lr]",
+      "Pt-br": "Sakura nota alguma coisa e para.[lr]",
+      "id": 5296,
+      "epk_id": "2098",
+      "label": "$$$message_0010_0007_0001$$$"
+    },
+    {
+      "en": "...Oh, the autumn fruit that Fuji-nee brought over.",
+      "jp": "　……ああ、それは藤ねえが持ち込んだ秋の果物だ。",
+      "Pt-br": "...Ah, as frutas de outono que Fuji-nee trouxe.",
+      "id": 5297,
+      "epk_id": "2099",
+      "label": "$$$message_0010_0007_0002$$$"
+    },
+    {
+      "en": "\"There's two boxes of persimmons inside. We'll have to eat them all together again.\"[lr]",
+      "jp": "「柿が二箱もある。また全員で食べないとな」[lr]",
+      "Pt-br": "\"Há duas caixas de caquis aí dentro. Vamos ter que juntar todo mundo para comer de novo.\"[lr]",
+      "id": 5298,
+      "epk_id": "2100",
+      "label": "$$$message_0010_0008_0000$$$"
+    },
+    {
+      "en": "\"Are they a gift from Ms. Fujimura? I appreciate that, but... [cacheimage storage=æ¡ç§æ08l(ä¸­)][wvl canskip=false time=400][se storage=se503.wav][chgfg storage=æ¡ç§æ08l(ä¸­) time=300 textoff=0]Wow.\"",
+      "jp": "「藤村先生のお裾分けですか？　有り難いですね……[cacheimage storage=桜私服08l(中)][wvl canskip=false time=400][se storage=se503.wav][chgfg storage=桜私服08l(中) time=300 textoff=0]うわぁ」",
+      "Pt-br": "\"Foram um presente da Fujimura-sensei? Eu agradeço, mas... [cacheimage storage=桜私服08l(中)][wvl canskip=false time=400][se storage=se503.wav][chgfg storage=桜私服08l(中) time=300 textoff=0]Nossa.\"",
+      "id": 5299,
+      "epk_id": "2101",
+      "label": "$$$message_0010_0008_0001$$$"
+    },
+    {
+      "en": "\"There's so many... Is this all of them?\"[lr]",
+      "jp": "「たくさんありますね……これで全部ですか」[lr]",
+      "Pt-br": "\"São tantos... Isto é tudo?\"[lr]",
+      "id": 5300,
+      "epk_id": "2102",
+      "label": "$$$message_0010_0009_0000$$$"
+    },
+    {
+      "en": "\"Apparently, she has even more at home.\"",
+      "jp": "「藤ねえの家にはもっとあるらしいけどな」",
+      "Pt-br": "\"Parece que ela tem ainda mais em casa.\"",
+      "id": 5301,
+      "epk_id": "2103",
+      "label": "$$$message_0010_0009_0001$$$"
+    },
+    {
+      "en": "\"If they were apples, we could quickly finish them all up by using them to make pies and stuff... What can we do with persimmons?\"",
+      "jp": "「林檎だったらパイにしたりすれば結構早く使えるんですけどねー、柿はどうしましょうか」",
+      "Pt-br": "\"Se fossem maçãs, poderíamos dar cabo delas depressa fazendo tortas e coisas do tipo... O que podemos fazer com caquis?\"",
+      "id": 5302,
+      "epk_id": "2104",
+      "label": "$$$message_0010_0010_0000$$$"
+    },
+    {
+      "en": "Hmm... [chgfg time=300 storage=æ¡ç§æ08l(ä¸­) textoff=0]I might as well.[lr]",
+      "jp": "　ふむ……[chgfg time=300 storage=桜私服08l(中) textoff=0]……丁度いいと言えばいいか。[lr]",
+      "Pt-br": "Hum... [chgfg time=300 storage=桜私服08l(中) textoff=0]Por que não?[lr]",
+      "id": 5303,
+      "epk_id": "2105",
+      "label": "$$$message_0010_0011_0000$$$"
+    },
+    {
+      "en": "I start to pull the persimmons out of the box. They're big enough, so it should be okay.",
+      "jp": "　箱から柿をひょいひょいと取っていく。これだけ大きければ大丈夫だ。",
+      "Pt-br": "Começo a tirar os caquis da caixa. São grandes o bastante, então devem servir.",
+      "id": 5304,
+      "epk_id": "2106",
+      "label": "$$$message_0010_0011_0001$$$"
+    },
+    {
+      "en": "\"Sakura. Let's use these to cook today.\"[lr]",
+      "jp": "「桜。今日の食材はこれにしよう」[lr]",
+      "Pt-br": "\"Sakura. Hoje vamos cozinhar com eles.\"[lr]",
+      "id": 5305,
+      "epk_id": "2107",
+      "label": "$$$message_0010_0012_0000$$$"
+    },
+    {
+      "en": "\"These...? You mean [cacheimage storage=æ¡ç§æ14c(ä¸­)][wvl canskip=false time=400][chgfg storage=æ¡ç§æ14c(ä¸­) time=300 textoff=0]the persimmons!?\"",
+      "jp": "「これ[line len=3]って、[cacheimage storage=桜私服14c(中)][wvl canskip=false time=400][chgfg storage=桜私服14c(中) time=300 textoff=0]柿をですか！？」",
+      "Pt-br": "\"Com eles...? Quer dizer, [cacheimage storage=桜私服14c(中)][wvl canskip=false time=400][chgfg storage=桜私服14c(中) time=300 textoff=0]os caquis!?\"",
+      "id": 5306,
+      "epk_id": "2108",
+      "label": "$$$message_0010_0012_0001$$$"
+    },
+    {
+      "en": "\"Yeah. They're just as versatile as apples. You can use them in salads, for one. [cacheimage storage=æ¡ç§æ09b(ä¸­)][wvl][chgfg time=300 storage=æ¡ç§æ09b(ä¸­) textoff=0]So we'll use these today.\"[lr]",
+      "jp": "「ああ。[ruby text=りんご char=2]林檎に劣らず柿も料理に使える。サラダとかにするだろ、[cacheimage storage=桜私服09b(中)][wvl][chgfg time=300 storage=桜私服09b(中) textoff=0]だから今日はこいつを使おう」[lr]",
+      "Pt-br": "\"Sim. São tão versáteis quanto maçãs. Podemos usá-los em saladas, por exemplo. [cacheimage storage=桜私服09b(中)][wvl][chgfg time=300 storage=桜私服09b(中) textoff=0]Então serão o ingrediente de hoje.\"[lr]",
+      "id": 5307,
+      "epk_id": "2109",
+      "label": "$$$message_0010_0013_0000$$$"
+    },
+    {
+      "en": "It's my first time trying it, but it's about time I explored new menus. I pray to the gods of cooking for guidance.",
+      "jp": "　初挑戦だが、そろそろ新しいメニューを開拓しなければならない時期、これも料理の神さまのお導きだ。",
+      "Pt-br": "É minha primeira tentativa, mas chegou a hora de explorar novos cardápios. Peço orientação aos deuses da culinária.",
+      "id": 5308,
+      "epk_id": "2110",
+      "label": "$$$message_0010_0013_0001$$$"
+    },
+    {
+      "en": "\"That sounds interesting.\"[lr]",
+      "jp": "「面白そうですね、先輩」[lr]",
+      "Pt-br": "\"Parece interessante, Senpai.\"[lr]",
+      "id": 5309,
+      "epk_id": "2111",
+      "label": "$$$message_0010_0014_0000$$$"
+    },
+    {
+      "en": "\"Pick a bunch of the firm ones to cook with...[cacheimage storage=æ¡ç§æ07c(ä¸­)][wvl][chgfg time=300 storage=æ¡ç§æ07c(ä¸­) textoff=0]and we'll save the softer ones for dessert.\"",
+      "jp": "「じゃあ個数は適当に[cacheimage storage=桜私服07c(中)][wvl][chgfg time=300 storage=桜私服07c(中) textoff=0][line len=3]固い奴から選んでいって、柔らかいのは晩にデザートにしよう」",
+      "Pt-br": "\"Separe vários dos mais firmes para cozinhar...[cacheimage storage=桜私服07c(中)][wvl][chgfg time=300 storage=桜私服07c(中) textoff=0] e guardamos os mais macios para a sobremesa.\"",
+      "id": 5310,
+      "epk_id": "2112",
+      "label": "$$$message_0010_0014_0001$$$"
+    },
+    {
+      "en": "\"Got it!\"",
+      "jp": "「分かりました！」",
+      "Pt-br": "\"Certo!\"",
+      "id": 5311,
+      "epk_id": "2113",
+      "label": "$$$message_0010_0015_0000$$$"
+    },
+    {
+      "en": "Sakura uses her skirt as a basket to hold the persimmons.[lr]",
+      "jp": "　桜がスカートの裾を持って、その中に柿を載せていく。[lr]",
+      "Pt-br": "Sakura usa a saia como uma cesta para carregar os caquis.[lr]",
+      "id": 5312,
+      "epk_id": "2114",
+      "label": "$$$message_0010_0016_0000$$$"
+    },
+    {
+      "en": "...It's such a feminine gesture.[lr]",
+      "jp": "　……なんていうか、実に女の子らしい仕草だ。[lr]",
+      "Pt-br": "...É um gesto tão feminino.[lr]",
+      "id": 5313,
+      "epk_id": "2115",
+      "label": "$$$message_0010_0016_0001$$$"
+    },
+    {
+      "en": "I'm slightly jealous of the persimmons that get to lie on her skirt like that.",
+      "jp": "　桜のスカートの上に載る柿に、ちょっと羨望を抱いてしまった。",
+      "Pt-br": "Sinto um pouco de inveja dos caquis, acomodados daquele jeito sobre sua saia.",
+      "id": 5314,
+      "epk_id": "2116",
+      "label": "$$$message_0010_0016_0002$$$"
+    },
+    {
+      "en": "\"Senpai, what will the menu be?\"[lr]",
+      "jp": "「先輩、どんなメニューにするんですか？」[lr]",
+      "Pt-br": "\"Senpai, qual será o cardápio?\"[lr]",
+      "id": 5315,
+      "epk_id": "2117",
+      "label": "$$$message_0010_0017_0000$$$"
+    },
+    {
+      "en": "Sakura asks me as she begins to wash the rice.[lr]",
+      "jp": "　まず先にお米を研いでいる桜が、訊ねてくる。[lr]",
+      "Pt-br": "Sakura pergunta enquanto começa a lavar o arroz.[lr]",
+      "id": 5316,
+      "epk_id": "2118",
+      "label": "$$$message_0010_0017_0001$$$"
+    },
+    {
+      "en": "I suggested using the persimmons, but now I'm just standing with my arms folded in front of a mountain of fruit on the cutting board.[lr]",
+      "jp": "　……柿を使うとは言ったが、[ruby text=まないた char=2]俎板の上に積まれた果実の山を前に腕組みする。[lr]",
+      "Pt-br": "Fui eu quem sugeriu os caquis, mas agora só consigo cruzar os braços diante da montanha de frutas na tábua.[lr]",
+      "id": 5317,
+      "epk_id": "2119",
+      "label": "$$$message_0010_0017_0002$$$"
+    },
+    {
+      "en": "\"...Now that I think about it, there aren't as many persimmon recipes as I hoped.\"",
+      "jp": "「……考えてみると、思ったより柿のレシピないな」",
+      "Pt-br": "\"...Pensando bem, há menos receitas com caqui do que eu esperava.\"",
+      "id": 5318,
+      "epk_id": "2120",
+      "label": "$$$message_0010_0017_0003$$$"
+    },
+    {
+      "en": "\"Should we start with a salad, then? We do have daikon.\"[lr]",
+      "jp": "「まずサラダにします？　大根ありましたよね」[lr]",
+      "Pt-br": "\"Então começamos pela salada? Temos daikon.\"[lr]",
+      "id": 5319,
+      "epk_id": "2121",
+      "label": "$$$message_0010_0018_0000$$$"
+    },
+    {
+      "en": "\"If we have daikon and persimmons, we could make namasu... But it's not good to decide on the side dish first.\"[lr]",
+      "jp": "「大根と柿なら[ruby text=なます]膾という手もあるか……サイドメニューから決まっていくのは問題だなぁ」[lr]",
+      "Pt-br": "\"Com daikon e caqui, podemos fazer namasu... Mas não é bom decidir o acompanhamento antes do prato principal.\"[lr]",
+      "id": 5320,
+      "epk_id": "2122",
+      "label": "$$$message_0010_0018_0001$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=æ¡ç§æ07c(ä¸­) textoff=0]I stare at the persimmons, but no ideas come to mind.",
+      "jp": "　[chgfg time=300 storage=桜私服07c(中) textoff=0]柿だけを睨んでいても、アイディアは思い浮かばない。",
+      "Pt-br": "[chgfg time=300 storage=桜私服07c(中) textoff=0]Encaro os caquis, mas ideia nenhuma surge.",
+      "id": 5321,
+      "epk_id": "2123",
+      "label": "$$$message_0010_0018_0002$$$"
+    },
+    {
+      "en": "I give up and root around in the refrigerator for any useful ingredients.[lr]",
+      "jp": "　仕方なく冷蔵庫を覗いて、使えそうな食材を探す。[lr]",
+      "Pt-br": "Desisto e vasculho a geladeira em busca de ingredientes úteis.[lr]",
+      "id": 5322,
+      "epk_id": "2124",
+      "label": "$$$message_0010_0019_0000$$$"
+    },
+    {
+      "en": "When I'm standing in front of a bunch of different ingredients, I start to match them up in my head.",
+      "jp": "　数々の食材を前にすると、絵合わせのように方針が定まっていく。",
+      "Pt-br": "Diante de vários ingredientes diferentes, começo a combiná-los mentalmente.",
+      "id": 5323,
+      "epk_id": "2125",
+      "label": "$$$message_0010_0019_0001$$$"
+    },
+    {
+      "en": "\"This and this... [wvl][se storage=se250.wav]We could use this, too.\"[lr]",
+      "jp": "「これとこれ……[wvl][se storage=se250.wav]これも使えるな」[lr]",
+      "Pt-br": "\"Isto com isto... [wvl][se storage=se250.wav]Também podemos usar isto.\"[lr]",
+      "id": 5324,
+      "epk_id": "2126",
+      "label": "$$$message_0010_0020_0000$$$"
+    },
+    {
+      "en": "\"Bacon? [cacheimage storage=æ¡ç§æ08g(ä¸­)][wvl canskip=false time=400][chgfg storage=æ¡ç§æ08g(ä¸­) time=300 textoff=0]Do you want to wrap and fry them? Like we do with asparagus or potatoes?\"[lr]",
+      "jp": "「ベーコンですか……[cacheimage storage=桜私服08g(中)][wvl canskip=false time=400][chgfg storage=桜私服08g(中) time=300 textoff=0]あ、包み焼きにするんですか？　アスパラガスやジャガイモみたいに」[lr]",
+      "Pt-br": "\"Bacon? [cacheimage storage=桜私服08g(中)][wvl canskip=false time=400][chgfg storage=桜私服08g(中) time=300 textoff=0]Quer enrolar e fritar? Como fazemos com aspargos ou batatas?\"[lr]",
+      "id": 5325,
+      "epk_id": "2127",
+      "label": "$$$message_0010_0020_0001$$$"
+    },
+    {
+      "en": "I'm impressed that Sakura immediately knew what I was thinking, but she didn't pick up on the dumpling wrappers and cheese.",
+      "jp": "　ぱっと見ただけで分かる桜もさすがだが、餃子の皮とチーズは分からないようだ。",
+      "Pt-br": "Fico impressionado por Sakura entender imediatamente o que pensei, embora não tenha percebido a massa para guioza nem o queijo.",
+      "id": 5326,
+      "epk_id": "2128",
+      "label": "$$$message_0010_0020_0002$$$"
+    },
+    {
+      "en": "\"We'll wrap and deep-fry these. Fry the persimmons together with evenly cut cheese using the dumpling wrappers.\"[lr]",
+      "jp": "「こっちは包み揚げにする。柿を拍子切りチーズと一緒に餃子の皮で揚げる」[lr]",
+      "Pt-br": "\"Vamos envolvê-los na massa e fritar por imersão. Junte pedaços iguais de caqui e queijo em cada trouxinha.\"[lr]",
+      "id": 5327,
+      "epk_id": "2129",
+      "label": "$$$message_0010_0021_0000$$$"
+    },
+    {
+      "en": "\"I see. Are we seasoning only with salt?\"[lr]",
+      "jp": "「なるほど、味付けはお塩だけですか？」[lr]",
+      "Pt-br": "\"Entendo. Vamos temperar apenas com sal?\"[lr]",
+      "id": 5328,
+      "epk_id": "2130",
+      "label": "$$$message_0010_0021_0001$$$"
+    },
+    {
+      "en": "\"Yeah, they both have their own sweetness, so I don't want to smother that with soy sauce.\"[lr]",
+      "jp": "「だなぁ、両方とも[line len=3]甘みが出るから下手に醤油とか入れると駄目になりそうだしな」[lr]",
+      "Pt-br": "\"Sim. Os dois já são doces, então não quero encobrir o sabor com molho de soja.\"[lr]",
+      "id": 5329,
+      "epk_id": "2131",
+      "label": "$$$message_0010_0021_0002$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=æ¡ç§æ08l(ä¸­) textoff=0]Still, they're both quite simple dishes.[lr]",
+      "jp": "　[chgfg time=300 storage=桜私服08l(中) textoff=0]そうなると、どちらも結構シンプルな料理になる。[lr]",
+      "Pt-br": "[chgfg time=300 storage=桜私服08l(中) textoff=0]Ainda assim, os dois pratos são bem simples.[lr]",
+      "id": 5330,
+      "epk_id": "2132",
+      "label": "$$$message_0010_0021_0003$$$"
+    },
+    {
+      "en": "Neither of them can really count as a main dish.",
+      "jp": "　これもサイドメニューの領域をまだでていない。",
+      "Pt-br": "Nenhum deles chega a servir como prato principal.",
+      "id": 5331,
+      "epk_id": "2133",
+      "label": "$$$message_0010_0021_0004$$$"
+    },
+    {
+      "en": "\"You're amazing, Senpai. I never would have thought of that.[lr]",
+      "jp": "「すごいですね先輩、わたしはちょっと思いつきませんでした。[lr]",
+      "Pt-br": "\"Você é incrível, Senpai. Eu nunca teria pensado nisso.[lr]",
+      "id": 5332,
+      "epk_id": "2134",
+      "label": "$$$message_0010_0022_0000$$$"
+    },
+    {
+      "en": "Then, tonight's menu will be...\"[lr]",
+      "jp": "　じゃあ今晩の献立は……」[lr]",
+      "Pt-br": "Então, o cardápio desta noite será...\"[lr]",
+      "id": 5333,
+      "epk_id": "2135",
+      "label": "$$$message_0010_0022_0001$$$"
+    },
+    {
+      "en": "\"Persimmon salad or vegetable mix, fried persimmon dumplings, persimmons wrapped in bacon...\"",
+      "jp": "「柿のサラダか和え物、柿の包み揚げ、柿のベーコン巻き……」",
+      "Pt-br": "\"Salada ou legumes variados com caqui, trouxinhas fritas de caqui com queijo, caquis enrolados em bacon...\"",
+      "id": 5334,
+      "epk_id": "2136",
+      "label": "$$$message_0010_0022_0002$$$"
+    },
+    {
+      "en": "\"Hmm...\"[lr]",
+      "jp": "「うーん……」[lr]",
+      "Pt-br": "\"Hum...\"[lr]",
+      "id": 5335,
+      "epk_id": "2137",
+      "label": "$$$message_0010_0023_0000$$$"
+    },
+    {
+      "en": "Sakura seems to find it lacking.[lr]",
+      "jp": "　桜の反応がいまいちだ。[lr]",
+      "Pt-br": "Sakura parece achar que falta alguma coisa.[lr]",
+      "id": 5336,
+      "epk_id": "2138",
+      "label": "$$$message_0010_0023_0001$$$"
+    },
+    {
+      "en": "I know what she's thinking. Our dinner table doesn't feel quite complete.",
+      "jp": "　言いたいことは分かる、それだと食卓が寂しすぎるんじゃないのかと。",
+      "Pt-br": "Sei o que ela está pensando. Nossa mesa ainda não parece completa.",
+      "id": 5337,
+      "epk_id": "2139",
+      "label": "$$$message_0010_0023_0002$$$"
+    },
+    {
+      "en": "\"We can't use persimmons in miso soup... [cacheimage storage=æ¡ç§æ08h(ä¸­)][wvl canskip=false time=300][chgfg storage=æ¡ç§æ08h(ä¸­) time=300 textoff=0]Oh, what if we mix persimmons into the rice to make mazesushi?\"[lr]",
+      "jp": "「お味噌汁に柿は入れられませんし……[cacheimage storage=桜私服08h(中)][wvl canskip=false time=300][chgfg storage=桜私服08h(中) time=300 textoff=0]あ、ご飯はもしかして柿の混ぜ寿司にしますか？」[lr]",
+      "Pt-br": "\"Não podemos pôr caqui na sopa de missô... [cacheimage storage=桜私服08h(中)][wvl canskip=false time=300][chgfg storage=桜私服08h(中) time=300 textoff=0]Ah, e se misturarmos caqui ao arroz e fizermos mazegohan?\"[lr]",
+      "id": 5338,
+      "epk_id": "2140",
+      "label": "$$$message_0010_0024_0000$$$"
+    },
+    {
+      "en": "\"That could work, but we're still missing a main course.[lr]",
+      "jp": "「それも良いけど、やっぱりメインがないわけだ。[lr]",
+      "Pt-br": "\"Pode funcionar, mas ainda falta o prato principal.[lr]",
+      "id": 5339,
+      "epk_id": "2141",
+      "label": "$$$message_0010_0024_0001$$$"
+    },
+    {
+      "en": "So I have a task for you, Chef Matou.\"[lr]",
+      "jp": "　そこでだな、間桐シェフ」[lr]",
+      "Pt-br": "Por isso, tenho uma missão para você, chef Matou.\"[lr]",
+      "id": 5340,
+      "epk_id": "2142",
+      "label": "$$$message_0010_0024_0002$$$"
+    },
+    {
+      "en": "I raise my voice to a professor-like timbre, and Sakura suddenly stands up straight.",
+      "jp": "　先生ちっくに声を上げてみると、桜もしゃきっと背筋を伸ばす。",
+      "Pt-br": "Adoto um tom professoral, e Sakura imediatamente endireita a postura.",
+      "id": 5341,
+      "epk_id": "2143",
+      "label": "$$$message_0010_0024_0003$$$"
+    },
+    {
+      "en": "\"At your service, Head Chef Emiya, sir!\"[lr]",
+      "jp": "「はい、なんでしょう衛宮チーフ！」[lr]",
+      "Pt-br": "\"Às suas ordens, chef Emiya, senhor!\"[lr]",
+      "id": 5342,
+      "epk_id": "2144",
+      "label": "$$$message_0010_0025_0000$$$"
+    },
+    {
+      "en": "\"Good response. Thanks.[lr]",
+      "jp": "「いい反応、ありがとう。[lr]",
+      "Pt-br": "\"Boa resposta. Obrigado.[lr]",
+      "id": 5343,
+      "epk_id": "2145",
+      "label": "$$$message_0010_0025_0001$$$"
+    },
+    {
+      "en": "So, tonight's menu concept is 'we're going to be selfish.'\"[lr]",
+      "jp": "　それでだな。今日はカキ尽くしの食卓、これがコンセプトなワケだが」[lr]",
+      "Pt-br": "O conceito do cardápio desta noite é 'vamos sair da concha'.\"[lr]",
+      "id": 5344,
+      "epk_id": "2146",
+      "label": "$$$message_0010_0025_0002$$$"
+    },
+    {
+      "en": "\"I see, sir! So that is the concept!\"[lr]",
+      "jp": "「はい、コンセプトなワケですね！」[lr]",
+      "Pt-br": "\"Entendido, senhor! Então esse é o conceito!\"[lr]",
+      "id": 5345,
+      "epk_id": "2147",
+      "label": "$$$message_0010_0025_0003$$$"
+    },
+    {
+      "en": "Chef Matou stares at me eagerly.",
+      "jp": "　期待いっぱいに見つめてくる間桐シェフ。",
+      "Pt-br": "A chef Matou me encara com expectativa.",
+      "id": 5346,
+      "epk_id": "2148",
+      "label": "$$$message_0010_0025_0004$$$"
+    },
+    {
+      "en": "\"And I've been thinking about letting you develop the main course.\"[lr]",
+      "jp": "「で。そのメインをはる主菜は、ぜひ間桐シェフにお願いしたいと考えているのだが」[lr]",
+      "Pt-br": "\"E pensei em deixar o desenvolvimento do prato principal por sua conta.\"[lr]",
+      "id": 5347,
+      "epk_id": "2149",
+      "label": "$$$message_0010_0026_0000$$$"
+    },
+    {
+      "en": "\"Yes, you've been thinking[line len=2]wait, whaaaat!?\"[lr]",
+      "jp": "「ええ、考えているんですね[line len=3]って、えええっ！？」[lr]",
+      "Pt-br": "\"Sim, você pensou em[line len=2]espere, o quêêê!?\"[lr]",
+      "id": 5348,
+      "epk_id": "2150",
+      "label": "$$$message_0010_0026_0001$$$"
+    },
+    {
+      "en": "Sakura's astonished to have such a big responsibility.",
+      "jp": "　大役を任せられた桜が驚いている。",
+      "Pt-br": "Sakura se espanta com tamanha responsabilidade.",
+      "id": 5349,
+      "epk_id": "2151",
+      "label": "$$$message_0010_0026_0002$$$"
+    },
+    {
+      "en": "\"W-well... [cacheimage storage=æ¡ç§æ12a(ä¸­)][wvl canskip=false time=300][chgfg storage=æ¡ç§æ12a(ä¸­) time=200 textoff=0]I'm sorry Senpai, but I don't have any ideas...\"[lr]",
+      "jp": "「そ、それは……[cacheimage storage=桜私服12a(中)][wvl canskip=false time=300][chgfg storage=桜私服12a(中) time=200 textoff=0]ごめんなさい先輩、わたしアイディアがないというか……」[lr]",
+      "Pt-br": "\"B-bem... [cacheimage storage=桜私服12a(中)][wvl canskip=false time=300][chgfg storage=桜私服12a(中) time=200 textoff=0]Desculpe, Senpai, mas não tenho nenhuma ideia...\"[lr]",
+      "id": 5350,
+      "epk_id": "2152",
+      "label": "$$$message_0010_0027_0000$$$"
+    },
+    {
+      "en": "\"You've got enough to work with, actually. Here's a hint: [cacheimage storage=æ¡ç§æ12b(ä¸­)][wvl][chgfg storage=æ¡ç§æ12b(ä¸­) time=200 textoff=0][font italic=true]we're going to be selfish[font italic=false].\"[lr]",
+      "jp": "「いや、わりとネタはある。じゃあヒント。[cacheimage storage=桜私服12b(中)][wvl][chgfg storage=桜私服12b(中) time=200 textoff=0]今日はカキ尽くしの食卓だ」[lr]",
+      "Pt-br": "\"Na verdade, você já tem tudo de que precisa. Aqui vai uma pista: [cacheimage storage=桜私服12b(中)][wvl][chgfg storage=桜私服12b(中) time=200 textoff=0][font italic=true]vamos sair da concha[font italic=false].\"[lr]",
+      "id": 5351,
+      "epk_id": "2153",
+      "label": "$$$message_0010_0027_0001$$$"
+    },
+    {
+      "en": "\"Huh... Hmm... [resetwait][fg opacity=0 index=1000 time=200 pos=c storage=æ¡ç§æ07c(ä¸­) textoff=0][wait mode=until canskip=false time=600][chgfg time=200 storage=æ¡ç§æ12d(ä¸­) textoff=0 last=æ¡ç§æ12a(ä¸­)][cacheimage storage=æ¡ç§æ12d(ä¸­)][wvl canskip=false time=400]Oh. [wvl canskip=false time=300][movefg opacity=0 time=300 pos=r accel=1 storage=æ¡ç§æ12d(ä¸­) textoff=0][wait canskip=false time=200][movefg opacity=255 time=400 pos=r accel=-2 storage=æ¡ç§æ07c(ä¸­) textoff=0]Do you mean...\"[wm canskip=0][wm canskip=0][se storage=se505.wav]",
+      "jp": "「はぁ……うーん……[resetwait][fg opacity=0 index=1000 time=200 pos=c storage=桜私服07c(中) textoff=0][wait mode=until canskip=false time=600][chgfg time=200 storage=桜私服12d(中) textoff=0 last=桜私服12a(中)][cacheimage storage=桜私服12d(中)][wvl canskip=false time=400]あ、[wvl canskip=false time=300][movefg opacity=0 time=300 pos=r accel=1 storage=桜私服12d(中) textoff=0][wait canskip=false time=200][movefg opacity=255 time=400 pos=r accel=-2 storage=桜私服07c(中) textoff=0]もしかして？」[wm canskip=0][wm canskip=0][se storage=se505.wav]",
+      "Pt-br": "\"Hã... Hum... [resetwait][fg opacity=0 index=1000 time=200 pos=c storage=桜私服07c(中) textoff=0][wait mode=until canskip=false time=600][chgfg time=200 storage=桜私服12d(中) textoff=0 last=桜私服12a(中)][cacheimage storage=桜私服12d(中)][wvl canskip=false time=400]Ah. [wvl canskip=false time=300][movefg opacity=0 time=300 pos=r accel=1 storage=桜私服12d(中) textoff=0][wait canskip=false time=200][movefg opacity=255 time=400 pos=r accel=-2 storage=桜私服07c(中) textoff=0]Quer dizer...\"[wm canskip=0][wm canskip=0][se storage=se505.wav]",
+      "id": 5352,
+      "epk_id": "2154",
+      "label": "$$$message_0010_0027_0002$$$"
+    },
+    {
+      "en": "Sakura seems to have some idea.[lr]",
+      "jp": "　桜も思い当たるところがあったようだ。[lr]",
+      "Pt-br": "Sakura parece ter chegado a uma ideia.[lr]",
+      "id": 5353,
+      "epk_id": "2155",
+      "label": "$$$message_0010_0028_0000$$$"
+    },
+    {
+      "en": "She quickly pulls a pack of seafood out of the refrigerator. That's right, what I meant was...",
+      "jp": "　早速、冷蔵庫の中からパックに入った海産物を取り出す。そう、カキ尽くしの食卓だから[line len=3]",
+      "Pt-br": "Ela tira depressa um pacote de frutos do mar da geladeira. Exato. Eu estava falando de...",
+      "id": 5354,
+      "epk_id": "2156",
+      "label": "$$$message_0010_0028_0001$$$"
+    },
+    {
+      "en": "\"Oysters?\"[lr]",
+      "jp": "「[ruby text=かき o2o=1]牡蠣ですか？」[lr]",
+      "Pt-br": "\"Ostras?\"[lr]",
+      "id": 5355,
+      "epk_id": "2157",
+      "label": "$$$message_0010_0029_0000$$$"
+    },
+    {
+      "en": "\"That's right, oysters... Call me selfish coming up with such 'low hanging fruit' jokes, but it is a shellfish, after all.\"[lr]",
+      "jp": "「そう、カキだけに柿と牡蠣……ただのゴロあわせだけど、両方とも秋の食材だからな」[lr]",
+      "Pt-br": "\"Isso, ostras... Pode me chamar de sem-vergonha por escolher um trocadilho tão fácil, mas elas têm concha, afinal.\"[lr]",
+      "id": 5356,
+      "epk_id": "2158",
+      "label": "$$$message_0010_0029_0001$$$"
+    },
+    {
+      "en": "\"I see, Senpai. That's ingenious.[lr]",
+      "jp": "「なるほど先輩、お見事です。　[lr]",
+      "Pt-br": "\"Entendi, Senpai. Que ideia genial.[lr]",
+      "id": 5357,
+      "epk_id": "2159",
+      "label": "$$$message_0010_0029_0002$$$"
+    },
+    {
+      "en": "I thought the pun was a little corny, but that's my mentor for you!\"[lr]",
+      "jp": "　少々ベタかなー、と思わないところはありませんが、それでこそわたしの先生です！」[lr]",
+      "Pt-br": "Achei o trocadilho meio sem graça, mas é isso que espero do meu mestre, Sensei!\"[lr]",
+      "id": 5358,
+      "epk_id": "2160",
+      "label": "$$$message_0010_0029_0003$$$"
+    },
+    {
+      "en": "\"Argh.\"[lr]",
+      "jp": "「ぬぬ」[lr]",
+      "Pt-br": "\"Argh.\"[lr]",
+      "id": 5359,
+      "epk_id": "2161",
+      "label": "$$$message_0010_0029_0004$$$"
+    },
+    {
+      "en": "My pupil has learned to zing me back.",
+      "jp": "　なかなか複雑な発言をするようになった教え子だった。",
+      "Pt-br": "Minha discípula já aprendeu a devolver as provocações.",
+      "id": 5360,
+      "epk_id": "2162",
+      "label": "$$$message_0010_0029_0005$$$"
+    },
+    {
+      "en": "\"Let's get back on topic.[lr]",
+      "jp": "「いや、話を戻そう。[lr]",
+      "Pt-br": "\"Vamos voltar ao assunto.[lr]",
+      "id": 5361,
+      "epk_id": "2163",
+      "label": "$$$message_0010_0030_0000$$$"
+    },
+    {
+      "en": "Did you buy these oysters in the fridge?\"[lr]",
+      "jp": "　冷蔵庫の牡蠣だけど、これ、桜が買ってきた？」[lr]",
+      "Pt-br": "Foi você quem comprou estas ostras?\"[lr]",
+      "id": 5362,
+      "epk_id": "2164",
+      "label": "$$$message_0010_0030_0001$$$"
+    },
+    {
+      "en": "\"Yes. I know live ones with their shells intact are better, but...\"[lr]",
+      "jp": "「はい、本当は殻付きの生が良いんですけど[line len=3]」[lr]",
+      "Pt-br": "\"Sim. Sei que vivas e ainda na concha seriam melhores, mas...\"[lr]",
+      "id": 5363,
+      "epk_id": "2165",
+      "label": "$$$message_0010_0030_0002$$$"
+    },
+    {
+      "en": "\"Fresh enough to be eaten just with lemon, huh... I guess we can't afford to do that this time. So, how are you going to cook these? Fried?\"[lr]",
+      "jp": "「レモンで食べられるほどの新鮮なやつか……贅沢は出来ないよな。で、牡蠣はなにがいいかな、フライ？」[lr]",
+      "Pt-br": "\"Estão frescas o bastante para comer só com limão... mas desta vez não dá para nos darmos a esse luxo. Então, como pretende prepará-las? Fritas?\"[lr]",
+      "id": 5364,
+      "epk_id": "2166",
+      "label": "$$$message_0010_0030_0003$$$"
+    },
+    {
+      "en": "\"Ah, I was thinking about using them in a gratin. Frying would work too, though.\"",
+      "jp": "「あ、わたし、グラタンにしようと思ってたんです。フライもあるといいですよね」",
+      "Pt-br": "\"Ah, eu estava pensando num gratinado. Mas fritas também serviriam.\"",
+      "id": 5365,
+      "epk_id": "2167",
+      "label": "$$$message_0010_0030_0004$$$"
+    },
+    {
+      "en": "Good, now our dinner concept has proper variety.[lr]",
+      "jp": "　よし、これで食卓はコンセプトと彩りに恵まれる。[lr]",
+      "Pt-br": "Ótimo. Agora o cardápio do jantar tem a variedade de que precisava.[lr]",
+      "id": 5366,
+      "epk_id": "2168",
+      "label": "$$$message_0010_0031_0000$$$"
+    },
+    {
+      "en": "No one should complain now. I expect Fuji-nee to celebrate, in fact.",
+      "jp": "　これだけ揃えれば流石に文句はでまい。藤ねえだって大喜びの筈だ。",
+      "Pt-br": "Agora ninguém terá motivo para reclamar. Na verdade, espero que Fuji-nee comemore.",
+      "id": 5367,
+      "epk_id": "2169",
+      "label": "$$$message_0010_0031_0001$$$"
+    },
+    {
+      "en": "\"Let's split up the work, then. You do the salad and gratin, and I'll work on the fried foods.\"[lr]",
+      "jp": "「じゃ、手分けしよう。サラダとグラタンは桜、焼き物揚げ物は全部俺で」[lr]",
+      "Pt-br": "\"Então vamos dividir o trabalho. Você cuida da salada e do gratinado; eu, das frituras.\"[lr]",
+      "id": 5368,
+      "epk_id": "2170",
+      "label": "$$$message_0010_0032_0000$$$"
+    },
+    {
+      "en": "\"But you'll be doing most of the work, then.\"[lr]",
+      "jp": "「そうすると先輩の方が仕事多くないですか？」[lr]",
+      "Pt-br": "\"Mas assim você fará a maior parte do trabalho, Senpai.\"[lr]",
+      "id": 5369,
+      "epk_id": "2171",
+      "label": "$$$message_0010_0032_0001$$$"
+    },
+    {
+      "en": "\"You have to make a white sauce, so there's plenty of work to go around. [cacheimage storage=æ¡ç§æ05d(ä¸­)][wvl][chgfg time=300 storage=æ¡ç§æ05d(ä¸­) textoff=0]It's also easier if just one person controls the heat.\"",
+      "jp": "「ホワイトソース引くところから桜やるんだろ、だったらそっちの方が手間になるんだし、[cacheimage storage=桜私服05d(中)][wvl][chgfg time=300 storage=桜私服05d(中) textoff=0]火加減のあるものは一人でやった方が仕上がりが良い」",
+      "Pt-br": "\"Você precisa preparar o molho branco, então haverá bastante trabalho para os dois. [cacheimage storage=桜私服05d(中)][wvl][chgfg time=300 storage=桜私服05d(中) textoff=0]Além disso, é mais fácil se uma pessoa só controlar o óleo.\"",
+      "id": 5370,
+      "epk_id": "2172",
+      "label": "$$$message_0010_0032_0002$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=æ¡ç§æ01c(ä¸­) textoff=0]We efficiently divide up the tasks and get to work.[lr]",
+      "jp": "　[chgfg time=300 storage=桜私服01c(中) textoff=0]手際よく二人で分担を決めていく。[lr]",
+      "Pt-br": "[chgfg time=300 storage=桜私服01c(中) textoff=0]Dividimos as tarefas com eficiência e começamos o trabalho.[lr]",
+      "id": 5371,
+      "epk_id": "2173",
+      "label": "$$$message_0010_0033_0000$$$"
+    },
+    {
+      "en": "When there's multiple people in the kitchen, you have to think about who uses the oven in what order. Cooking with even two people isn't easy.",
+      "jp": "　大人数となるとオーブンの順番も考えないといけないし、二人がかりでも料理はなかなか大変だ。",
+      "Pt-br": "Quando há várias pessoas na cozinha, é preciso planejar a ordem de uso do forno. Cozinhar até em dupla tem suas dificuldades.",
+      "id": 5372,
+      "epk_id": "2174",
+      "label": "$$$message_0010_0033_0001$$$"
+    },
+    {
+      "en": "\"Let's get started, Senpai!\"[lr]",
+      "jp": "「じゃあ始めましょう、先輩！」[lr]",
+      "Pt-br": "\"Vamos começar, Senpai!\"[lr]",
+      "id": 5373,
+      "epk_id": "2175",
+      "label": "$$$message_0010_0034_0000$$$"
+    },
+    {
+      "en": "\"First to peel the persimmons... Oh, they have seeds, so make sure you cut them in the right direction.\"[lr]",
+      "jp": "「まずは柿剥きからするか……あ、種があるから切る向きはちゃんと確かめないと駄目だぞ」[lr]",
+      "Pt-br": "\"Primeiro, descascamos os caquis... Ah, eles têm sementes, então corte-os na direção certa.\"[lr]",
+      "id": 5374,
+      "epk_id": "2176",
+      "label": "$$$message_0010_0034_0001$$$"
+    },
+    {
+      "en": "\"Yes! I'll do my best!\"",
+      "jp": "「はい！　頑張ります！」",
+      "Pt-br": "\"Sim! Vou me esforçar!\"",
+      "id": 5375,
+      "epk_id": "2177",
+      "label": "$$$message_0010_0034_0002$$$"
+    }
+  ]
+}

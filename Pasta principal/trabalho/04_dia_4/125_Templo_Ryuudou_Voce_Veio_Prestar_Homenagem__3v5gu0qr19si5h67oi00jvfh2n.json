@@ -1,0 +1,704 @@
+{
+  "cena": "3v5gu0qr19si5h67oi00jvfh2n",
+  "titulo": "Templo Ryuudou: Você Veio Prestar Homenagem?",
+  "rota": "Dia 4",
+  "arquivo": "3v5gu0qr19si5h67oi00jvfh2n.epk_dec",
+  "linhas": [
+    {
+      "en": "I arrive at the mountain gate of Ryudou Temple.[lr]",
+      "jp": "　柳洞寺の山門にやってくる。[lr]",
+      "Pt-br": "Eu chego ao portão da montanha do Templo Ryuudou.[lr]",
+      "id": 18626,
+      "epk_id": "7920",
+      "label": "$$$message_0055_0000_0000$$$"
+    },
+    {
+      "en": "After climbing the long stone stairs...[seloop storage=se513.wav volume=70][lr]",
+      "jp": "　長い石段を上りきると[line len=3][seloop storage=se513.wav volume=70][lr]",
+      "Pt-br": "Depois de subir as longas escadas de pedra...[seloop storage=se513.wav volume=70][lr]",
+      "id": 18627,
+      "epk_id": "7921",
+      "label": "$$$message_0055_0000_0001$$$"
+    },
+    {
+      "en": "\"...G-good morning.\"",
+      "jp": "「…………お、おはようございます」",
+      "Pt-br": "\"...B-bom dia.\"",
+      "id": 18628,
+      "epk_id": "7922",
+      "label": "$$$message_0055_0000_0002$$$"
+    },
+    {
+      "en": "I come across someone sweeping the base of the gate.[lr]",
+      "jp": "　山門の麓で、掃除をしている人影。[lr]",
+      "Pt-br": "Me deparo com alguém varrendo a base do portão.[lr]",
+      "id": 18629,
+      "epk_id": "7923",
+      "label": "$$$message_0055_0001_0000$$$"
+    },
+    {
+      "en": "I'd understand if it was one of the monks, but it's Caster.[lr]",
+      "jp": "　それが柳洞寺のお坊さんならいいんだけど、よりによってこのキャスター。[lr]",
+      "Pt-br": "Eu entenderia se fosse um dos monges, mas é a Caster.[lr]",
+      "id": 18630,
+      "epk_id": "7924",
+      "label": "$$$message_0055_0001_0001$$$"
+    },
+    {
+      "en": "[clfg textoff=0 pos=all time=300]Her hood is off... How sketchy. What is she up to, sweeping in broad daylight?",
+      "jp": "　[clfg textoff=0 pos=all time=300]フードを下げて……怪しい。こんな人が昼日中から掃除をしているのは一体どういうコトかと。",
+      "Pt-br": "[clfg textoff=0 pos=all time=300]O capuz dela está abaixado... Que suspeito. O que ela está tramando, varrendo em plena luz do dia?",
+      "id": 18631,
+      "epk_id": "7925",
+      "label": "$$$message_0055_0001_0002$$$"
+    },
+    {
+      "en": "\"Hello there, boy. What business do you have here today?\"[lr]",
+      "jp": "「あら、坊やじゃない。今日はなんの用なの？」[lr]",
+      "Pt-br": "\"Olá, garoto. O que você veio fazer aqui hoje?\"[lr]",
+      "id": 18632,
+      "epk_id": "7926",
+      "label": "$$$message_0055_0002_0000$$$"
+    },
+    {
+      "en": "\"...You actually do chores.\" [lr]",
+      "jp": "「……掃除するんだな、あんたも」[lr]",
+      "Pt-br": "\"...Você realmente faz tarefas domésticas.\" [lr]",
+      "id": 18633,
+      "epk_id": "7927",
+      "label": "$$$message_0055_0002_0001$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=ã­ã£ã¹ã¿ã¼ã­ã¼ãç¡ã01cæã(ä¸­) textoff=0]I couldn't contain my surprise.[lr]",
+      "jp": "　[chgfg time=300 storage=キャスターローブ無し01c怒り(中) textoff=0]ちょっと意外だったので、訊ねてみる。[lr]",
+      "Pt-br": "[chgfg time=300 storage=キャスターローブ無し01c怒り(中) textoff=0]Eu não consegui conter minha surpresa.[lr]",
+      "id": 18634,
+      "epk_id": "7928",
+      "label": "$$$message_0055_0002_0002$$$"
+    },
+    {
+      "en": "...But maybe it isn't that surprising. She lives here, after all.",
+      "jp": "　……意外でもないか、ここの住人なのだから掃除くらいするのも。",
+      "Pt-br": "...Mas talvez não seja tão surpreendente. Ela mora aqui, afinal.",
+      "id": 18635,
+      "epk_id": "7929",
+      "label": "$$$message_0055_0002_0003$$$"
+    },
+    {
+      "en": "\"Yes. I thought I'd tidy up the grounds a bit. Do you have a problem with that?\"[lr]",
+      "jp": "「ええ、境内から少し綺麗にしておこうと思ってね。何か文句があるの？」[lr]",
+      "Pt-br": "\"Sim. Achei que arrumaria um pouco o terreno. Você tem algum problema com isso?\"[lr]",
+      "id": 18636,
+      "epk_id": "7930",
+      "label": "$$$message_0055_0003_0000$$$"
+    },
+    {
+      "en": "\"Uh, are you sure you should be doing it in that outfit?\"[lr]",
+      "jp": "「その格好で掃除をしているのは……いや、いいのか？」[lr]",
+      "Pt-br": "\"Uh, você tem certeza de que deveria estar fazendo isso com essa roupa?\"[lr]",
+      "id": 18637,
+      "epk_id": "7931",
+      "label": "$$$message_0055_0003_0001$$$"
+    },
+    {
+      "en": "You could wear something else, like your casual clothes.[lr]",
+      "jp": "　他の格好[line len=3]たとえばあの私服とか。[lr]",
+      "Pt-br": "Você poderia usar outra coisa, como suas roupas casuais.[lr]",
+      "id": 18638,
+      "epk_id": "7932",
+      "label": "$$$message_0055_0003_0002$$$"
+    },
+    {
+      "en": "That would look normal enough. Right now she's giving off the vibes of a temple family member doing chores.",
+      "jp": "　そっちのほうが違和感ないが、今度はどこの檀家さんがお掃除しているのか、という感じになるな。",
+      "Pt-br": "Isso pareceria normal o suficiente. Agora ela está passando a vibração de um membro da família do templo fazendo tarefas domésticas.",
+      "id": 18639,
+      "epk_id": "7933",
+      "label": "$$$message_0055_0003_0003$$$"
+    },
+    {
+      "en": "\"What's wrong with this?\"[lr]",
+      "jp": "「何か文句があって？」[lr]",
+      "Pt-br": "\"O que tem de errado com isso?\"[lr]",
+      "id": 18640,
+      "epk_id": "7934",
+      "label": "$$$message_0055_0004_0000$$$"
+    },
+    {
+      "en": "\"Um, well...couldn't you make the gatekeeper do it?\"[lr]",
+      "jp": "「いや……そういえば、ここには門番が居るんじゃないのか？　あいつに掃除をさせるとか」[lr]",
+      "Pt-br": "\"Hum, bem... você não poderia fazer o Guardião do portão fazer isso?\"[lr]",
+      "id": 18641,
+      "epk_id": "7935",
+      "label": "$$$message_0055_0004_0001$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=ã­ã£ã¹ã¿ã¼ã­ã¼ãç¡ã03b(ä¸­) textoff=0]Assassin is supposed to be here too, isn't he?",
+      "jp": "　[chgfg time=300 storage=キャスターローブ無し03b(中) textoff=0]山門にはアサシンの佐々木小次郎がいるじゃないか。",
+      "Pt-br": "[chgfg time=300 storage=キャスターローブ無し03b(中) textoff=0]O Assassin deveria estar aqui também, não é?",
+      "id": 18642,
+      "epk_id": "7936",
+      "label": "$$$message_0055_0004_0002$$$"
+    },
+    {
+      "en": "\"...Haah.\"[lr]",
+      "jp": "「…………はぁ」[lr]",
+      "Pt-br": "\"...Ugh.\"[lr]",
+      "id": 18643,
+      "epk_id": "7937",
+      "label": "$$$message_0055_0005_0000$$$"
+    },
+    {
+      "en": "Caster heaves an exaggerated sigh.",
+      "jp": "　目の前で、これ見よがしにため息を吐かれる。",
+      "Pt-br": "Caster solta um suspiro exagerado.",
+      "id": 18644,
+      "epk_id": "7938",
+      "label": "$$$message_0055_0005_0001$$$"
+    },
+    {
+      "en": "\"I wouldn't be going to all this trouble if he were that diligent.\"[lr]",
+      "jp": "「あの男にそんな甲斐甲斐しさがあれば、こんな苦労はしていません」[lr]",
+      "Pt-br": "\"Eu não estaria passando por todo esse trabalho se ele fosse tão diligente assim.\"[lr]",
+      "id": 18645,
+      "epk_id": "7939",
+      "label": "$$$message_0055_0006_0000$$$"
+    },
+    {
+      "en": "\"He looks like he has a lot of free time.\"[lr]",
+      "jp": "「暇そうなのに」[lr]",
+      "Pt-br": "\"Ele parece que tem muito tempo livre.\"[lr]",
+      "id": 18646,
+      "epk_id": "7940",
+      "label": "$$$message_0055_0006_0001$$$"
+    },
+    {
+      "en": "\"He does. And I've told him countless times to clean the place up.\"",
+      "jp": "「ええ、暇ですとも。なら掃除くらいはしなさい、と何度も言っているのですけどね」",
+      "Pt-br": "\"Ele tem. E eu já disse a ele inúmeras vezes para limpar este lugar.\"",
+      "id": 18647,
+      "epk_id": "7941",
+      "label": "$$$message_0055_0006_0002$$$"
+    },
+    {
+      "en": "\"That freeloader is all talk.[lr]",
+      "jp": "「あのタダ飯食らい、口だけは達者なんだからっ。[lr]",
+      "Pt-br": "\"Aquele aproveitador é só conversa.[lr]",
+      "id": 18648,
+      "epk_id": "7942",
+      "label": "$$$message_0055_0007_0000$$$"
+    },
+    {
+      "en": "'Unfortunately, I am a spiritual being and lack the power to maintain a physical body. You'd like me to clean? Certainly, I won't object if you order me to, but would that not run counter to your creed? Between the magical energy it takes to materialize me, and the trifling expense of sweeping the floor yourself, I'm sure it goes without saying which is more costly.'[lr]",
+      "jp": "“残念ながらこの身は霊体、自力では肉体を持てぬ。なるほど掃除か、命じられれば異論はないが、それはおぬしの流儀から外れるのではないかな？　私の実体化にかかる魔力量と、おぬし自身が箒を握る魔力量。どちらが大きく力を使うか、言うまでもないと思うが？”[lr]",
+      "Pt-br": "'Infelizmente, sou um ser espiritual e não tenho o poder de manter um corpo físico. Gostaria que eu limpasse? Certamente, não farei objeções se me ordenar, mas isso não iria contra seu credo? Entre a energia mágica que leva para me materializar e a despesa insignificante de você mesma varrer o chão, tenho certeza de que não é preciso dizer o que é mais custoso.'[lr]",
+      "id": 18649,
+      "epk_id": "7943",
+      "label": "$$$message_0055_0007_0001$$$"
+    },
+    {
+      "en": "The utter nerve! Don't you agree, boy!?\"",
+      "jp": "　ですって！　どう思う坊や、この物言い！？」",
+      "Pt-br": "Que ousadia! Você não concorda, garoto!?\"",
+      "id": 18650,
+      "epk_id": "7944",
+      "label": "$$$message_0055_0007_0002$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「………………」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 18651,
+      "epk_id": "7945",
+      "label": "$$$message_0055_0008_0000$$$"
+    },
+    {
+      "en": "Sounds like she's having problems with the help.[lr]",
+      "jp": "　色々、部下の悩みはあるらしい。[lr]",
+      "Pt-br": "Parece que ela está tendo problemas com a ajuda.[lr]",
+      "id": 18652,
+      "epk_id": "7946",
+      "label": "$$$message_0055_0008_0001$$$"
+    },
+    {
+      "en": "Assassin's excuse was ironclad, too.[lr]",
+      "jp": "　そしてアサシンの言い分は完璧だ。[lr]",
+      "Pt-br": "A desculpa do Assassin também foi irrefutável.[lr]",
+      "id": 18653,
+      "epk_id": "7947",
+      "label": "$$$message_0055_0008_0002$$$"
+    },
+    {
+      "en": "Despite appearances, Caster is a genuine old-fashioned mage who makes Tohsaka look like a dilettante.[lr]",
+      "jp": "　キャスターはこう見えて根っからの、生粋の、あの遠坂がナンパに見えるぐらいの昔かたぎの魔術師なのである。[lr]",
+      "Pt-br": "Apesar das aparências, a Caster é uma maga genuína e antiquada que faz a Tohsaka parecer uma diletante.[lr]",
+      "id": 18654,
+      "epk_id": "7948",
+      "label": "$$$message_0055_0008_0003$$$"
+    },
+    {
+      "en": "She's economical and won't spend any more magical energy than necessary to advance her strategic plans, especially not on something as wasteful as materializing a whole Servant just to sweep the floor.",
+      "jp": "　大局でなければ魔力の無駄遣いはしない節約家。たしかに、掃除ぐらいでサーヴァント一体を実体化させるのは効率が悪すぎるのだろう。",
+      "Pt-br": "Ela é econômica e não gastará mais energia mágica do que o necessário para avançar seus planos estratégicos, especialmente não em algo tão inútil quanto materializar um Servo inteiro só para varrer o chão.",
+      "id": 18655,
+      "epk_id": "7949",
+      "label": "$$$message_0055_0008_0004$$$"
+    },
+    {
+      "en": "\"...Haah. Perhaps I should have summoned a boy spirit with a more thoughtful, sincere personality.[lr]",
+      "jp": "「……はあ。もっと物わかりの良い、素直な少年霊を呼ぶべきだったかしらね。[lr]",
+      "Pt-br": "\"...Ugh. Talvez eu devesse ter invocado um espírito de um garoto com uma personalidade mais atenciosa e sincera.[lr]",
+      "id": 18656,
+      "epk_id": "7950",
+      "label": "$$$message_0055_0009_0000$$$"
+    },
+    {
+      "en": "Like you...\"[lr]",
+      "jp": "　坊やくらい[line len=3]」[lr]",
+      "Pt-br": "Como você...\"[lr]",
+      "id": 18657,
+      "epk_id": "7951",
+      "label": "$$$message_0055_0009_0001$$$"
+    },
+    {
+      "en": "Caster eyes me up and down.[lr]",
+      "jp": "　キャスターが上から下までじろっと見つめてくる。[lr]",
+      "Pt-br": "A Caster me olha de cima a baixo.[lr]",
+      "id": 18658,
+      "epk_id": "7952",
+      "label": "$$$message_0055_0009_0002$$$"
+    },
+    {
+      "en": "...Wow. That instantly gave me chills.",
+      "jp": "　……うわ、なんか一瞬で体温さがったぞ、今。",
+      "Pt-br": "...Uau. Isso me deu calafrios instantaneamente.",
+      "id": 18659,
+      "epk_id": "7953",
+      "label": "$$$message_0055_0009_0003$$$"
+    },
+    {
+      "en": "\"That is, a familiar like you who's good at cooking and cleaning.\"[lr]",
+      "jp": "「料理が出来て掃除洗濯も得意な、そんな子を使い魔にすれば良かったかしら」[lr]",
+      "Pt-br": "\"Isto é, um familiar como você que é bom em cozinhar e limpar.\"[lr]",
+      "id": 18660,
+      "epk_id": "7954",
+      "label": "$$$message_0055_0010_0000$$$"
+    },
+    {
+      "en": "\"...Thanks, I guess.\"[lr]",
+      "jp": "「……そりゃどうも」[lr]",
+      "Pt-br": "\"...Obrigado, eu acho.\"[lr]",
+      "id": 18661,
+      "epk_id": "7955",
+      "label": "$$$message_0055_0010_0001$$$"
+    },
+    {
+      "en": "I'm not sure if she's complimenting me or teasing me for being completely useless as a mage. I have a feeling it's both.[lr]",
+      "jp": "　褒められたのか、魔術師として役に立たないと馬鹿にされているのか。両方である気がする。[lr]",
+      "Pt-br": "Não tenho certeza se ela está me elogiando ou zombando de mim por ser completamente inútil como mago. Tenho a sensação de que é as duas coisas.[lr]",
+      "id": 18662,
+      "epk_id": "7956",
+      "label": "$$$message_0055_0010_0002$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=ã­ã£ã¹ã¿ã¼ã­ã¼ãç¡ã01d(ä¸­) textoff=0]Suddenly, she shoots an annoyed glance up at the gate.",
+      "jp": "　[chgfg time=300 storage=キャスターローブ無し01d(中) textoff=0]ふと、キャスターは苛立たしげに山門を見上げる。",
+      "Pt-br": "[chgfg time=300 storage=キャスターローブ無し01d(中) textoff=0]De repente, ela lança um olhar de irritação para o portão.",
+      "id": 18663,
+      "epk_id": "7957",
+      "label": "$$$message_0055_0010_0003$$$"
+    },
+    {
+      "en": "\"You hear that, Assassin?\"[lr]",
+      "jp": "「聞いているのでしょう、アサシン？」[lr]",
+      "Pt-br": "\"Está ouvindo isso, Assassin?\"[lr]",
+      "id": 18664,
+      "epk_id": "7958",
+      "label": "$$$message_0055_0011_0000$$$"
+    },
+    {
+      "en": "\"...Hm.\"[lr]",
+      "jp": "「[line len=3]ふむ」[lr]",
+      "Pt-br": "\"...Hm.\"[lr]",
+      "id": 18665,
+      "epk_id": "7959",
+      "label": "$$$message_0055_0011_0001$$$"
+    },
+    {
+      "en": "Assassin replies without revealing himself.",
+      "jp": "　姿は見えず、声だけ返ってきた。",
+      "Pt-br": "O Assassin responde sem se revelar.",
+      "id": 18666,
+      "epk_id": "7960",
+      "label": "$$$message_0055_0011_0002$$$"
+    },
+    {
+      "en": "\"We're talking about you. All you do is sleep all day. Even this boy is more useful than you are.\"[lr]",
+      "jp": "「貴方の事を話していたのですよ？　日がな一日ぐうたら寝てばかりの貴方よりも、この坊やの方が余程役に立つと言っているのがお分かり？」[lr]",
+      "Pt-br": "\"Estamos falando de você. Tudo o que você faz é dormir o dia todo. Até esse garoto é mais útil do que você.\"[lr]",
+      "id": 18667,
+      "epk_id": "7961",
+      "label": "$$$message_0055_0012_0000$$$"
+    },
+    {
+      "en": "\"Indeed. As a matter of fact, swords are of little use during peacetime. Those with the strength to plow the fields were the salt of the earth. It's true enough that the boy would be more helpful than me.\"[lr]",
+      "jp": "「それは結構。本来、刀持ちなど役に立つべきではなかろう。畑を耕し麦を育てる腕こそが真の士。いや、そこな少年が私より役に立つというのはまことの事よ」[lr]",
+      "Pt-br": "\"De fato. Para falar a verdade, espadas são de pouca utilidade durante tempos de paz. Aqueles com a força para arar os campos eram o sal da terra. É bem verdade que o garoto seria mais útil do que eu.\"[lr]",
+      "id": 18668,
+      "epk_id": "7962",
+      "label": "$$$message_0055_0012_0001$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=ã­ã£ã¹ã¿ã¼ã­ã¼ãç¡ã03a(ä¸­) textoff=0]Kojirou's lazy voice stands off against Caster's prickly temper. Are these two really master and servant? I'm not sure anymore.",
+      "jp": "　[chgfg time=300 storage=キャスターローブ無し03a(中) textoff=0]怒っているキャスターと、相変わらずのんびりしている小次郎の声。二人の関係が本当に主従なのか、よく分からない。",
+      "Pt-br": "[chgfg time=300 storage=キャスターローブ無し03a(中) textoff=0]A voz preguiçosa do Kojirou entra em conflito com o temperamento irritadiço da Caster. Será que esses dois são mesmo Mestra e Servo? Já não tenho mais tanta certeza.",
+      "id": 18669,
+      "epk_id": "7963",
+      "label": "$$$message_0055_0012_0002$$$"
+    },
+    {
+      "en": "\"But if you insist, why not use a Command Spell to make me do it?\"[lr]",
+      "jp": "「それでも、と言うのであればそら、令呪でも使って私に命じてみるか？」[lr]",
+      "Pt-br": "\"Mas se você insiste, por que não usa um Selo de Comando para me fazer fazer isso?\"[lr]",
+      "id": 18670,
+      "epk_id": "7964",
+      "label": "$$$message_0055_0013_0000$$$"
+    },
+    {
+      "en": "\"Rrgh...\"[lr]",
+      "jp": "「く[line len=3]」[lr]",
+      "Pt-br": "\"Urgh...\"[lr]",
+      "id": 18671,
+      "epk_id": "7965",
+      "label": "$$$message_0055_0013_0001$$$"
+    },
+    {
+      "en": "\"Haha, what a fine expression. I haven't seen that one in a while. Lately, you've gone so soft with your happy life that I was starting to get bored.\"[lr]",
+      "jp": "「はは、いい顔だ。久しぶりにそなたのそのような顔を見たぞ[line len=3]最近のそなたは幸福に緩んでいて、面白くないと思っていたところだ」[lr]",
+      "Pt-br": "\"Haha, que expressão bela. Há um tempo eu não via uma assim. Ultimamente, você tem ficado tão amolecida com sua vida feliz que eu estava começando a ficar entediado.\"[lr]",
+      "id": 18672,
+      "epk_id": "7966",
+      "label": "$$$message_0055_0013_0002$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=ã­ã£ã¹ã¿ã¼ã­ã¼ãç¡ã03bé ¬(ä¸­) textoff=0]Kojirou...is making fun of her.[lr]",
+      "jp": "　[chgfg time=300 storage=キャスターローブ無し03b頬(中) textoff=0]……小次郎がからかっている。[lr]",
+      "Pt-br": "[chgfg time=300 storage=キャスターローブ無し03b頬(中) textoff=0]Kojirou... está zombando dela.[lr]",
+      "id": 18673,
+      "epk_id": "7967",
+      "label": "$$$message_0055_0013_0003$$$"
+    },
+    {
+      "en": "I always knew he had a fairly sarcastic attitude, but I didn't expect him to push her buttons this much.",
+      "jp": "　元々どこか態度に皮肉を含んでいるヤツだとは思ったけども、キャスター相手にここまでやるとは。",
+      "Pt-br": "Eu sempre soube que ele tinha uma atitude um tanto sarcástica, mas eu não esperava que ele a provocasse tanto.",
+      "id": 18674,
+      "epk_id": "7968",
+      "label": "$$$message_0055_0013_0004$$$"
+    },
+    {
+      "en": "\"Hmph. I don't care. Just do your job as gatekeeper. If you can't even carry out your basic duties, I'll demote you to janitor next.\"[lr]",
+      "jp": "「ふん、構いません、貴方は門衛としての役目を果たしなさい。元よりそれも満足にこなせなければ、今度はこの掃除番に格下げよ」[lr]",
+      "Pt-br": "\"Hmph. Eu não me importo. Apenas faça seu trabalho como Guardião do portão. Se você não consegue nem mesmo cumprir seus deveres básicos, vou te rebaixar a zelador em seguida.\"[lr]",
+      "id": 18675,
+      "epk_id": "7969",
+      "label": "$$$message_0055_0014_0000$$$"
+    },
+    {
+      "en": "\"Hahaha. Very well, I shall devote myself to the task.\"[lr]",
+      "jp": "「ははは。うむ、誠心誠意励むとしよう」[lr]",
+      "Pt-br": "\"Hahaha. Muito bem, eu me dedicarei à tarefa.\"[lr]",
+      "id": 18676,
+      "epk_id": "7970",
+      "label": "$$$message_0055_0014_0001$$$"
+    },
+    {
+      "en": "Kojirou's remarks stop.[lr]",
+      "jp": "　小次郎の声が止む。[lr]",
+      "Pt-br": "As observações de Kojirou param.[lr]",
+      "id": 18677,
+      "epk_id": "7971",
+      "label": "$$$message_0055_0014_0002$$$"
+    },
+    {
+      "en": "...I couldn't get a word in between them.",
+      "jp": "　……二人が喋っている時は、口を挟みづらかった。",
+      "Pt-br": "...Eu não consegui dar uma palavra entre eles.",
+      "id": 18678,
+      "epk_id": "7972",
+      "label": "$$$message_0055_0014_0003$$$"
+    },
+    {
+      "en": "\"So there you have it, boy. Do you see what Assassin is like?\"[lr]",
+      "jp": "「そういうことよ、坊や。アサシンの事は分かったでしょう？」[lr]",
+      "Pt-br": "\"Então aí está, garoto. Vê como é o Assassin?\"[lr]",
+      "id": 18679,
+      "epk_id": "7973",
+      "label": "$$$message_0055_0015_0000$$$"
+    },
+    {
+      "en": "\"Pretty much... Want a hand with that?\"[lr]",
+      "jp": "「随分と……手伝うか？」[lr]",
+      "Pt-br": "\"Mais ou menos... Quer uma mão com isso?\"[lr]",
+      "id": 18680,
+      "epk_id": "7974",
+      "label": "$$$message_0055_0015_0001$$$"
+    },
+    {
+      "en": "I offer my help, curious what she'll say.[lr]",
+      "jp": "　なんとなく気になって、訊ねてみる。[lr]",
+      "Pt-br": "Ofereço minha ajuda, curioso sobre o que ela dirá.[lr]",
+      "id": 18681,
+      "epk_id": "7975",
+      "label": "$$$message_0055_0015_0002$$$"
+    },
+    {
+      "en": "Maybe that surprised her.",
+      "jp": "　よほど意外なことを言ったのだろうか？",
+      "Pt-br": "Talvez isso a tenha surpreendido.",
+      "id": 18682,
+      "epk_id": "7976",
+      "label": "$$$message_0055_0015_0003$$$"
+    },
+    {
+      "en": "\"...I've thought for some time now that you're a bit insensitive. If you help me, Saber will get jealous and become even more hostile.\"[lr]",
+      "jp": "「……前からそうだとは思ってたけど、空気の読めない坊やね。私の手助けをしたら、私をことさらに敵視するセイバーが妬くわよ？」[lr]",
+      "Pt-br": "\"...Eu tenho pensado há algum tempo que você é um pouco insensível. Se você me ajudar, a Saber vai ficar com ciúmes e se tornar ainda mais hostil.\"[lr]",
+      "id": 18683,
+      "epk_id": "7977",
+      "label": "$$$message_0055_0016_0000$$$"
+    },
+    {
+      "en": "\"It's not like she'll get mad if I do some chores. I'll just help you sweep these stairs from top to bottom.\"[lr]",
+      "jp": "「別に庭掃除を手伝ったくらいじゃセイバーは怒らない。この石段でも下まで掃除するのは手間だろう、だから」[lr]",
+      "Pt-br": "\"Não é como se ela fosse ficar brava se eu fizesse algumas tarefas. Eu vou só te ajudar a varrer essas escadas de cima a baixo.\"[lr]",
+      "id": 18684,
+      "epk_id": "7978",
+      "label": "$$$message_0055_0016_0001$$$"
+    },
+    {
+      "en": "She really could use the help.[lr]",
+      "jp": "　手伝おうか、と。[lr]",
+      "Pt-br": "Ela realmente poderia usar a ajuda.[lr]",
+      "id": 18685,
+      "epk_id": "7979",
+      "label": "$$$message_0055_0016_0002$$$"
+    },
+    {
+      "en": "I don't really have anything else to do, so who can blame me for offering?",
+      "jp": "　別に用事はないんだから、それくらい手伝っても罰は当たるまい。",
+      "Pt-br": "Eu não tenho mais nada para fazer de fato, então quem pode me culpar por oferecer?",
+      "id": 18686,
+      "epk_id": "7980",
+      "label": "$$$message_0055_0016_0003$$$"
+    },
+    {
+      "en": "Caster sighs again.[lr]",
+      "jp": "　はぁ、とまた溜息を吐かれる。[lr]",
+      "Pt-br": "A Caster suspira de novo.[lr]",
+      "id": 18687,
+      "epk_id": "7981",
+      "label": "$$$message_0055_0017_0000$$$"
+    },
+    {
+      "en": "\"...I see that girl gained a rather handy apprentice.\"[lr]",
+      "jp": "「……あの小娘も、便利な門弟を手に入れたものね」[lr]",
+      "Pt-br": "\"...Vejo que aquela garota ganhou um aprendiz muito útil.\"[lr]",
+      "id": 18688,
+      "epk_id": "7982",
+      "label": "$$$message_0055_0017_0001$$$"
+    },
+    {
+      "en": "\"You mean Tohsaka? Yeah, she's one heck of a slave driver.\"",
+      "jp": "「小娘って……遠坂のコトか。そりゃ俺は遠坂にこき使われているけどな」",
+      "Pt-br": "\"Você quer dizer a Tohsaka? Sim, ela é uma baita de uma feitora de escravos.\"",
+      "id": 18689,
+      "epk_id": "7983",
+      "label": "$$$message_0055_0017_0002$$$"
+    },
+    {
+      "en": "\"I'll have to decline, though.[lr]",
+      "jp": "「ま、お断りしておくわ。[lr]",
+      "Pt-br": "\"Mas terei que recusar.[lr]",
+      "id": 18690,
+      "epk_id": "7984",
+      "label": "$$$message_0055_0018_0000$$$"
+    },
+    {
+      "en": "Issei will give me another earful if he sees you helping me.\"[lr]",
+      "jp": "　貴方と一緒に掃除しているところを一成君に見つかれば、また口論になるでしょうからね」[lr]",
+      "Pt-br": "O Issei vai me dar um sermão de novo se ver você me ajudando.\"[lr]",
+      "id": 18691,
+      "epk_id": "7985",
+      "label": "$$$message_0055_0018_0001$$$"
+    },
+    {
+      "en": "\"Oh, okay. Too bad.\"",
+      "jp": "「そっか。残念だ」",
+      "Pt-br": "\"Ah, ok. Que pena.\"",
+      "id": 18692,
+      "epk_id": "7986",
+      "label": "$$$message_0055_0018_0002$$$"
+    },
+    {
+      "en": "\"Yes, what a shame. It would be nice if Souichirou were here, at least.\"[lr]",
+      "jp": "「坊やじゃ仕方ないわ。これが宗一郎様と一緒なら、随分と風情があるのでしょうけどね」[lr]",
+      "Pt-br": "\"Sim, que pena. Seria bom se o Souichirou estivesse aqui, pelo menos.\"[lr]",
+      "id": 18693,
+      "epk_id": "7987",
+      "label": "$$$message_0055_0019_0000$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=ã­ã£ã¹ã¿ã¼ã­ã¼ãç¡ã03c(ä¸­) textoff=0]Mr. Kuzuki doing chores, huh... Actually, it's pretty easy to imagine him stoically sweeping.[lr]",
+      "jp": "　[chgfg time=300 storage=キャスターローブ無し03c(中) textoff=0]あの葛木先生が掃き掃除か[line len=3]黙々と掃除する様が、なんだか想像に易い。[lr]",
+      "Pt-br": "[chgfg time=300 storage=キャスターローブ無し03c(中) textoff=0]Kuzuki-sensei fazendo tarefas domésticas, hã... Na verdade, é bem fácil imaginá-lo varrendo estoicamente.[lr]",
+      "id": 18694,
+      "epk_id": "7988",
+      "label": "$$$message_0055_0019_0001$$$"
+    },
+    {
+      "en": "Together, they embody the image of a picture-perfect traditional couple.",
+      "jp": "　それにキャスターが伴い、[ruby text=ふしょうふずい char=4]夫唱婦随の光景。",
+      "Pt-br": "Juntos, eles encarnam a imagem de um casal tradicional perfeito.",
+      "id": 18695,
+      "epk_id": "7989",
+      "label": "$$$message_0055_0019_0002$$$"
+    },
+    {
+      "en": "\"...Heh.\"[lr]",
+      "jp": "「[line len=3]く」[lr]",
+      "Pt-br": "\"...Heh.\"[lr]",
+      "id": 18696,
+      "epk_id": "7990",
+      "label": "$$$message_0055_0020_0000$$$"
+    },
+    {
+      "en": "[chgfg time=200 storage=ã­ã£ã¹ã¿ã¼ã­ã¼ãç¡ã03b(ä¸­) textoff=0]A dry chuckle comes from the top of the gate.",
+      "jp": "　[chgfg time=200 storage=キャスターローブ無し03b(中) textoff=0]山門の上から、苦笑が漏れる。",
+      "Pt-br": "[chgfg time=200 storage=キャスターローブ無し03b(中) textoff=0]Uma risada seca vem do topo do portão.",
+      "id": 18697,
+      "epk_id": "7991",
+      "label": "$$$message_0055_0020_0001$$$"
+    },
+    {
+      "en": "\"What's so funny, Assassin!?\"[lr]",
+      "jp": "「何を笑っているの、アサシン！？」[lr]",
+      "Pt-br": "\"O que é tão engraçado, Assassin!?\"[lr]",
+      "id": 18698,
+      "epk_id": "7992",
+      "label": "$$$message_0055_0021_0000$$$"
+    },
+    {
+      "en": "\"It's a tad painful to see you boasting 'Souichirou, Souichirou' all the time. That's why I stay out here.\"[lr]",
+      "jp": "「なに、それだそれ。宗一郎様宗一郎様とあの男に[ruby text=のろけ char=2]惚気るそなたを見るのが[ruby text=いささ]些か心苦しい。だからな、私はここに篭もっているのだ」[lr]",
+      "Pt-br": "\"É um tanto doloroso ver você se gabando 'Souichirou-sama, Souichirou-sama' o tempo todo. É por isso que fico aqui fora.\"[lr]",
+      "id": 18699,
+      "epk_id": "7993",
+      "label": "$$$message_0055_0021_0001$$$"
+    },
+    {
+      "en": "\"That wretched tongue of yours... And 'boasting'? I won't tolerate any slander of Souichirou.\"[lr]",
+      "jp": "「減らず口を[line len=3]の、[ruby text=のろけ char=2]惚気ですって？　宗一郎様を誹謗する物言いは許しませんよ」[lr]",
+      "Pt-br": "\"Essa sua língua maldita... E 'se gabando'? Não vou tolerar nenhuma calúnia ao Souichirou.\"[lr]",
+      "id": 18700,
+      "epk_id": "7994",
+      "label": "$$$message_0055_0021_0002$$$"
+    },
+    {
+      "en": "\"Do forgive this artless vagabond for not knowing how to adequately serve a liege lord.[lr]",
+      "jp": "「いやいや、主への仕え方も満足に知らぬ風来坊ゆえな。[lr]",
+      "Pt-br": "\"Perdoe este vagabundo simplório por não saber como servir adequadamente a um senhor feudal.[lr]",
+      "id": 18701,
+      "epk_id": "7995",
+      "label": "$$$message_0055_0021_0003$$$"
+    },
+    {
+      "en": "Why, I can't even imagine how I'm supposed to treat the lord of my lord.\"",
+      "jp": "　主の主などにはどのように振る舞えば良いものか、見当も付かぬよ」",
+      "Pt-br": "Por que, não consigo nem imaginar como devo tratar o senhor do meu senhor.\"",
+      "id": 18702,
+      "epk_id": "7996",
+      "label": "$$$message_0055_0021_0004$$$"
+    },
+    {
+      "en": "\"Get down here, Assassin. I have some words for you.\"[lr]",
+      "jp": "「下りてきなさい、アサシン。この際ですから貴方に言っておきたいことがあります」[lr]",
+      "Pt-br": "\"Desça aqui, Assassin. Tenho umas coisas para te dizer.\"[lr]",
+      "id": 18703,
+      "epk_id": "7997",
+      "label": "$$$message_0055_0022_0000$$$"
+    },
+    {
+      "en": "\"Oh? I don't mind, but will you neglect the cleaning?\"[lr]",
+      "jp": "「ほう、構わぬが、それではそなたの掃除の手が留守になるぞ？」[lr]",
+      "Pt-br": "\"Oh? Eu não me importo, mas você vai negligenciar a limpeza?\"[lr]",
+      "id": 18704,
+      "epk_id": "7998",
+      "label": "$$$message_0055_0022_0001$$$"
+    },
+    {
+      "en": "\"It can wait, and you can clean the immediate area around the gate. I'm a busy woman, you know. I still have other chores to do inside the temple.\"[lr]",
+      "jp": "「その後で、貴方にはこの門だけでも掃除して貰います。こんな事をする時間が惜しいほど、私は忙しくてよ？　まだ本堂の雑巾掛けも残っているんですから」[lr]",
+      "Pt-br": "\"Isso pode esperar, e você pode limpar a área ao redor do portão. Sou uma mulher ocupada, sabia? Ainda tenho outras tarefas para fazer dentro do templo.\"[lr]",
+      "id": 18705,
+      "epk_id": "7999",
+      "label": "$$$message_0055_0022_0002$$$"
+    },
+    {
+      "en": "\"...Is it a spring cleaning day?\"",
+      "jp": "「[line len=3]今日は大掃除の日なのか？」",
+      "Pt-br": "\"...É dia de faxina de primavera?\"",
+      "id": 18706,
+      "epk_id": "8000",
+      "label": "$$$message_0055_0022_0003$$$"
+    },
+    {
+      "en": "[clfg textoff=0 pos=all time=300]It can't be easy maintaining the entire temple.[lr]",
+      "jp": "　[clfg textoff=0 pos=all time=300]あの本堂の雑巾掛けというのは大変だろう。[lr]",
+      "Pt-br": "[clfg textoff=0 pos=all time=300]Não deve ser fácil manter todo o templo.[lr]",
+      "id": 18707,
+      "epk_id": "8001",
+      "label": "$$$message_0055_0023_0000$$$"
+    },
+    {
+      "en": "I'll get ahold of Issei later and clean the place together.",
+      "jp": "　後で一成を捕まえて、一緒に掃除をする事を持ちかけよう。",
+      "Pt-br": "Eu pego o Issei mais tarde e limparemos o lugar juntos.",
+      "id": 18708,
+      "epk_id": "8002",
+      "label": "$$$message_0055_0023_0001$$$"
+    },
+    {
+      "en": "\"Come down here, right this instant!\"[lr]",
+      "jp": "「早く下りてきなさい！」[lr]",
+      "Pt-br": "\"Desça aqui agora mesmo!\"[lr]",
+      "id": 18709,
+      "epk_id": "8003",
+      "label": "$$$message_0055_0024_0000$$$"
+    },
+    {
+      "en": "\"No need to be so hasty...\"",
+      "jp": "「そう急かすな、どれ……」",
+      "Pt-br": "\"Não há necessidade de tanta pressa...\"",
+      "id": 18710,
+      "epk_id": "8004",
+      "label": "$$$message_0055_0024_0001$$$"
+    },
+    {
+      "en": "[wshock canskip=0][movefg opacity=0 left=-87 top=22 time=500 accel=2 storage=ã­ã£ã¹ã¿ã¼ã­ã¼ãç¡ã03d(è¿) textoff=0]I'll just get in the way if I stay here.[wm canskip=0][lr]",
+      "jp": "　[wshock canskip=0][movefg opacity=0 left=-87 top=22 time=500 accel=2 storage=キャスターローブ無し03d(近) textoff=0]この二人の場に居残っても、お邪魔らしい。[wm canskip=0][lr]",
+      "Pt-br": "[wshock canskip=0][movefg opacity=0 left=-87 top=22 time=500 accel=2 storage=キャスターローブ無し03d(近) textoff=0]Eu só vou atrapalhar se ficar aqui.[wm canskip=0][lr]",
+      "id": 18711,
+      "epk_id": "8005",
+      "label": "$$$message_0055_0025_0000$$$"
+    },
+    {
+      "en": "I give a small bow and head on through into the temple grounds.",
+      "jp": "　軽く頭を下げると、門を背にして境内の中に入っていった。",
+      "Pt-br": "Faço uma pequena reverência e sigo para o terreno do templo.",
+      "id": 18712,
+      "epk_id": "8006",
+      "label": "$$$message_0055_0025_0001$$$"
+    }
+  ]
+}

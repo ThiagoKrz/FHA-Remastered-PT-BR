@@ -1,0 +1,112 @@
+{
+  "cena": "00rfassoq086a4vjq7as6k72pc",
+  "titulo": "Hanafuda: Illya 3",
+  "rota": "Hanafuda",
+  "arquivo": "00rfassoq086a4vjq7as6k72pc.epk_dec",
+  "linhas": [
+    {
+      "en": "\"Oh, it's Shirou.\"",
+      "jp": "「あ、シロウだ」",
+      "Pt-br": "\"Ah, é o Shirou.\"",
+      "id": 41805,
+      "epk_id": "18887",
+      "label": "$$$message_0152_0000_0000$$$"
+    },
+    {
+      "en": "\"Oh, hey... [wait canskip=0 time=500][hffacechg chara=å£«é face=æ© layer=1 time=200][l][say storage=HIRI3_SHI_0020 _name=å£«é]Um.\"",
+      "jp": "「おう……[wait canskip=0 time=500][l][hffacechg chara=士郎 face=悩 layer=1 time=200][say storage=HIRI3_SHI_0020 _name=士郎]って」",
+      "Pt-br": "\"Ah, oi... [wait canskip=0 time=500][hffacechg chara=士郎 face=悩 layer=1 time=200][l][say storage=HIRI3_SHI_0020 _name=士郎]Hm.\"",
+      "id": 41806,
+      "epk_id": "18888",
+      "label": "$$$message_0152_0000_0001$$$"
+    },
+    {
+      "en": "\"Illyasviel, what were you thinking, bringing Berserker out in broad daylight?\"",
+      "jp": "「イリヤスフィール、まだ日のある内からバーサーカーを連れまわすとは、一体どういうつもりなのですか？」",
+      "Pt-br": "\"Illyasviel, onde você estava com a cabeça trazendo o Berserker para a rua em plena luz do dia?\"",
+      "id": 41807,
+      "epk_id": "18889",
+      "label": "$$$message_0152_0000_0002$$$"
+    },
+    {
+      "en": "\"Well, I don't want the other Masters getting in the way of where I want to go.\"",
+      "jp": "「だって、行きたい所があるのに他のマスターに邪魔されたら嫌じゃない？」",
+      "Pt-br": "\"Ora, não quero que os outros Mestres atrapalhem o caminho para onde eu quero ir.\"",
+      "id": 41808,
+      "epk_id": "18890",
+      "label": "$$$message_0152_0000_0003$$$"
+    },
+    {
+      "en": "\"The other Masters... Wait...[hfchance layer=1][l][say storage=HIRI3_SHI_0050 _name=å£«é]you don't mean...!\"",
+      "jp": "「他のマスターって……[l][hfchance layer=1][say storage=HIRI3_SHI_0050 _name=士郎]まさか！」",
+      "Pt-br": "\"Os outros Mestres... Espera...[hfchance layer=1][l][say storage=HIRI3_SHI_0050 _name=士郎]você não está querendo dizer...!\"",
+      "id": 41809,
+      "epk_id": "19264",
+      "label": "$$$message_0152_0000_0004$$$"
+    },
+    {
+      "en": "\"Hehehe. We're probably all headed for the same place. But Saber can't go with you.\"",
+      "jp": "「ふふふ、多分行き先はシロウと一緒かな？　でもセイバーが一緒じゃ駄目だよね」",
+      "Pt-br": "\"Hehehe. Provavelmente todo mundo está indo para o mesmo lugar. Mas a Saber não pode ir com você.\"",
+      "id": 41810,
+      "epk_id": "19265",
+      "label": "$$$message_0152_0000_0005$$$"
+    },
+    {
+      "en": "\"I see. So you received that letter as well.\"",
+      "jp": "「なるほど、イリヤスフィール。貴方もあの手紙を受け取ったという事ですね」",
+      "Pt-br": "\"Entendi. Então você também recebeu aquela carta.\"",
+      "id": 41811,
+      "epk_id": "19266",
+      "label": "$$$message_0152_0000_0006$$$"
+    },
+    {
+      "en": "\"Yeah. I'm just doing it to pass the time, but it could be fun if Shirou goes, too. [hffacechg chara=ã¤ãªã¤ face=å layer=0 time=200][l][say storage=HIRI3_IRI_0050 _name=ã¤ãªã¤]Hey, why don't we go together?\"",
+      "jp": "「ええ、ちょっとした暇つぶしだったけど、シロウと一緒に行けるなら楽しいかな？[l]　[hffacechg chara=イリヤ face=喜 layer=0 time=200][say storage=HIRI3_IRI_0050 _name=イリヤ]ねえ一緒に行こう？」",
+      "Pt-br": "\"É. Só estou indo para matar o tempo, mas pode ser divertido se o Shirou também for. [hffacechg chara=イリヤ face=喜 layer=0 time=200][l][say storage=HIRI3_IRI_0050 _name=イリヤ]Ei, por que não vamos juntos?\"",
+      "id": 41812,
+      "epk_id": "19267",
+      "label": "$$$message_0152_0000_0007$$$"
+    },
+    {
+      "en": "\"...Sorry, Illya. I promised Saber I'd bring her to the onsen today.\"",
+      "jp": "「……すまないイリヤ。今日はセイバーを温泉に連れて行く約束だ」",
+      "Pt-br": "\"...Desculpa, Illya. Prometi levar a Saber ao onsen hoje.\"",
+      "id": 41813,
+      "epk_id": "19268",
+      "label": "$$$message_0152_0000_0008$$$"
+    },
+    {
+      "en": "\"Hmmm... [wait canskip=0 time=400][hffacechg chara=ã¤ãªã¤ face=æ layer=0 time=200][hfchance layer=0][l][say storage=HIRI3_IRI_0080 _name=ã¤ãªã¤]That's fine. I can take you there by force.\"",
+      "jp": "「ふぅん……[wait canskip=0 time=400][l][hffacechg chara=イリヤ face=怒 layer=0 time=200][hfchance layer=0][say storage=HIRI3_IRI_0080 _name=イリヤ]ならいいわ。力ずくで連れていくだけよ」",
+      "Pt-br": "\"Hmmm... [wait canskip=0 time=400][hffacechg chara=イリヤ face=怒 layer=0 time=200][hfchance layer=0][l][say storage=HIRI3_IRI_0080 _name=イリヤ]Tudo bem. Posso levar você à força.\"",
+      "id": 41814,
+      "epk_id": "19269",
+      "label": "$$$message_0152_0000_0009$$$"
+    },
+    {
+      "en": "\"Don't worry, I'll hold back. We can't go together if you're dead, after all.[lr]",
+      "jp": "「安心なさい、手加減してあげるから。殺しちゃったら一緒に行けないものね。[lr]",
+      "Pt-br": "\"Não se preocupe, vou pegar leve. Afinal, não dá para irmos juntos se você morrer.[lr]",
+      "id": 41815,
+      "epk_id": "19270",
+      "label": "$$$message_0152_0001_0000$$$"
+    },
+    {
+      "en": "Go, Berserker!\"",
+      "jp": "　さあ、いくわよバーサーカー！」",
+      "Pt-br": "Vai, Berserker!\"",
+      "id": 41816,
+      "epk_id": "19271",
+      "label": "$$$message_0152_0001_0001$$$"
+    },
+    {
+      "en": "\"[wacky len=5][line len=3]!!!\"",
+      "jp": "「[wacky len=5][line len=3]！！！！」",
+      "Pt-br": "\"[wacky len=5][line len=3]!!!\"",
+      "id": 41817,
+      "epk_id": "19272",
+      "label": "$$$message_0152_0001_0002$$$"
+    }
+  ]
+}

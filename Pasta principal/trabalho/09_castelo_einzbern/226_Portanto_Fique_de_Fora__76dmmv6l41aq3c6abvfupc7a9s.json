@@ -1,0 +1,640 @@
+{
+  "cena": "76dmmv6l41aq3c6abvfupc7a9s",
+  "titulo": "Portanto, Fique de Fora",
+  "rota": "Castelo Einzbern",
+  "arquivo": "76dmmv6l41aq3c6abvfupc7a9s.epk_dec",
+  "linhas": [
+    {
+      "en": "After a long trek, I finally arrive at the forest outside of town.[lr]",
+      "jp": "ãé è·¯ã¯ãã°ãéå¤ã®æ£®ã«ãã£ã¦ããã[lr]",
+      "Pt-br": "Depois de uma longa caminhada, finalmente chego à floresta nos arredores da cidade.[lr]",
+      "id": 31060,
+      "epk_id": "18009",
+      "label": "$$$message_0136_0000_0000$$$"
+    },
+    {
+      "en": "It should take me about two more hours from here to reach the Einzbern Castle. I'm starting to become familiar with that place.[lr]",
+      "jp": "ãããããäºæéã»ã©ç§»åããã¨ãé¦´æã¿ã«ãªãã¤ã¤ããã¢ã¤ã³ããã«ã³ã®åã«è¾¿ãçãã®ã ãã[lr]",
+      "Pt-br": "Deve levar mais umas duas horas daqui até o Castelo Einzbern. Estou começando a me familiarizar com esse lugar.[lr]",
+      "id": 31061,
+      "epk_id": "18010",
+      "label": "$$$message_0136_0000_0001$$$"
+    },
+    {
+      "en": "Something...tremendous is blocking the entrance to the forest.",
+      "jp": "ããªãã§ããæ£®ã®å\n¥ãå£ã«ããããã®ãç«ã¡å¡ãã£ã¦ããã®ã ã£ãã",
+      "Pt-br": "Algo... colossal está bloqueando a entrada da floresta.",
+      "id": 31062,
+      "epk_id": "18011",
+      "label": "$$$message_0136_0000_0002$$$"
+    },
+    {
+      "en": "\"...Hello? Can I ask what you're doing here?\"[lr]",
+      "jp": "ãâ¦â¦ãããããããã§ä½ããã¦ãã®ããè¨ãã¦ããããªã[lr]",
+      "Pt-br": "\"...Olá? Posso perguntar o que você está fazendo aqui?\"[lr]",
+      "id": 31063,
+      "epk_id": "18012",
+      "label": "$$$message_0136_0001_0000$$$"
+    },
+    {
+      "en": "\"[wacky len=3]...\"[lr]",
+      "jp": "ã[wacky len=3]ã[lr]",
+      "Pt-br": "\"[wacky len=3]...\"[lr]",
+      "id": 31064,
+      "epk_id": "18013",
+      "label": "$$$message_0136_0001_0001$$$"
+    },
+    {
+      "en": "He doesn't answer.[lr]",
+      "jp": "ãè¿ç­ãªãã[lr]",
+      "Pt-br": "Ele não responde.[lr]",
+      "id": 31065,
+      "epk_id": "18014",
+      "label": "$$$message_0136_0001_0002$$$"
+    },
+    {
+      "en": "I can't even tell if that's a yes or a no.",
+      "jp": "ãã¤ã¨ã¹ãªã®ããã¼ãªã®ããåãããªãã",
+      "Pt-br": "Não consigo nem dizer se isso foi um sim ou um não.",
+      "id": 31066,
+      "epk_id": "18015",
+      "label": "$$$message_0136_0001_0003$$$"
+    },
+    {
+      "en": "\"...Are you standing guard? [wm canskip=0][wdash canskip=0][cacheimage storage=ãã¼ãµã¼ã«ã¼01a(è¿)][wvl canskip=0 time=400][dash textoff=0 hidefg=0 mx=740 opacity=255 layer=base irot=-0.0 cx=21 imag=1.3 time=1500 cy=300 mag=1.3 my=0 storage=oã¢ã¤ã³ãæ£®å\n¥ãå£-(æé) rot=-0.0 accel=0][movefg opacity=255 textoff=0 left=-227 top=0 time=1500 accel=0 storage=ãã¼ãµã¼ã«ã¼01a(è¿)]...Do you mind if I go into the forest? I need to see Illya.\"[lr]",
+      "jp": "ãâ¦â¦â¦â¦éçªãªã®ããª[wm canskip=0][wdash canskip=0][cacheimage storage=ãã¼ãµã¼ã«ã¼01a(è¿)][wvl canskip=0 time=400][dash textoff=0 hidefg=0 mx=740 opacity=255 layer=base irot=-0.0 cx=21 imag=1.3 time=1500 cy=300 mag=1.3 my=0 storage=oã¢ã¤ã³ãæ£®å\n¥ãå£-(æé) rot=-0.0 accel=0][movefg opacity=255 textoff=0 left=-227 top=0 time=1500 accel=0 storage=ãã¼ãµã¼ã«ã¼01a(è¿)]â¦â¦â¦â¦æ£®ã«å\n¥ããããã ãã©ãããããªãã¤ãªã¤ã«ç¨ããããã ãã©ã[lr]",
+      "Pt-br": "\"...Você está de guarda? [wm canskip=0][wdash canskip=0][cacheimage storage=バーサーカー01a(近)][wvl canskip=0 time=400][dash textoff=0 hidefg=0 mx=740 opacity=255 layer=base irot=-0.0 cx=21 imag=1.3 time=1500 cy=300 mag=1.3 my=0 storage=oアインツ森入り口-(朝靄) rot=-0.0 accel=0][movefg opacity=255 textoff=0 left=-227 top=0 time=1500 accel=0 storage=バーサーカー01a(近)]...Se importa se eu entrar na floresta? Preciso ver a Illya.\"[lr]",
+      "id": 31067,
+      "epk_id": "18016",
+      "label": "$$$message_0136_0002_0000$$$"
+    },
+    {
+      "en": "\"[wacky len=3]...\"[lr]",
+      "jp": "ã[wacky len=3]ã[lr]",
+      "Pt-br": "\"[wacky len=3]...\"[lr]",
+      "id": 31068,
+      "epk_id": "18017",
+      "label": "$$$message_0136_0002_0001$$$"
+    },
+    {
+      "en": "He doesn't answer.[lr]",
+      "jp": "ãè¿ç­ãªãã[lr]",
+      "Pt-br": "Ele não responde.[lr]",
+      "id": 31069,
+      "epk_id": "18018",
+      "label": "$$$message_0136_0002_0002$$$"
+    },
+    {
+      "en": "He doesn't even grunt or shake his head.",
+      "jp": "ãã¦ã³ã¨ãã¹ã³ã¨ãè¨ãã¾ããã",
+      "Pt-br": "Não solta nem um grunhido, nem balança a cabeça.",
+      "id": 31070,
+      "epk_id": "18019",
+      "label": "$$$message_0136_0002_0003$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "ãâ¦â¦â¦â¦â¦â¦ã[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 31071,
+      "epk_id": "18020",
+      "label": "$$$message_0136_0003_0000$$$"
+    },
+    {
+      "en": "\"[wacky len=3]...\"[lr]",
+      "jp": "ã[wacky len=3]ã[lr]",
+      "Pt-br": "\"[wacky len=3]...\"[lr]",
+      "id": 31072,
+      "epk_id": "18021",
+      "label": "$$$message_0136_0003_0001$$$"
+    },
+    {
+      "en": "...If he isn't saying anything, that means I can go ahead, right?[lr]",
+      "jp": "ãâ¦â¦ä½ãè¨ããªããã£ã¦ã³ãã¯é²ãã§ãããã ããªã[lr]",
+      "Pt-br": "...Se ele não está dizendo nada, isso significa que posso passar, certo?[lr]",
+      "id": 31073,
+      "epk_id": "18022",
+      "label": "$$$message_0136_0003_0002$$$"
+    },
+    {
+      "en": "We've seen each other before, so Berserker probably knows who I am.",
+      "jp": "ããã¡ããé¡è¦ç¥ãã ãããã¼ãµã¼ã«ã¼ã ã£ã¦ä¿ºã®ã³ãã¯åãã£ã¦ãã ãããã",
+      "Pt-br": "Já nos vimos antes, então o Berserker provavelmente sabe quem eu sou.",
+      "id": 31074,
+      "epk_id": "18023",
+      "label": "$$$message_0136_0003_0003$$$"
+    },
+    {
+      "en": "\"Okay. Just passing through, then...\"[lr]",
+      "jp": "ããããããããã¡ãã£ã¨éãã¾ããã[lr]",
+      "Pt-br": "\"Beleza. Só estou de passagem, então...\"[lr]",
+      "id": 31075,
+      "epk_id": "18024",
+      "label": "$$$message_0136_0004_0000$$$"
+    },
+    {
+      "en": "I raise a hand and walk past him...",
+      "jp": "ãæãããã¦æ¨ªãéãéãã",
+      "Pt-br": "Levanto a mão e passo por ele...",
+      "id": 31076,
+      "epk_id": "18025",
+      "label": "$$$message_0136_0004_0001$$$"
+    },
+    {
+      "en": "\"[wacky len=6]...!!!\"[lr]",
+      "jp": "ã[wacky len=6][line len=3]ï¼ï¼ï¼ï¼ï¼ã[lr]",
+      "Pt-br": "\"[wacky len=6]...!!!\"[lr]",
+      "id": 31077,
+      "epk_id": "18026",
+      "label": "$$$message_0136_0005_0000$$$"
+    },
+    {
+      "en": "\"Eeeeeeek!?\"[lr]",
+      "jp": "ãã²ããããããï¼ï¼ï¼ï¼ï¼ã[lr]",
+      "Pt-br": "\"Eeeeeeek!?\"[lr]",
+      "id": 31078,
+      "epk_id": "18027",
+      "label": "$$$message_0136_0005_0001$$$"
+    },
+    {
+      "en": "The monster roars,[lr]",
+      "jp": "ãå ããå¤§æªç£ã[lr]",
+      "Pt-br": "O monstro ruge,[lr]",
+      "id": 31079,
+      "epk_id": "18028",
+      "label": "$$$message_0136_0005_0002$$$"
+    },
+    {
+      "en": "the sheer force of his voice declaring that he'll hurl me back into Miyama if I take another step.",
+      "jp": "ãããä»¥ä¸é²ãã°æ·±å±±çºã¾ã§é£ã°ãã¦å¸°ãããã¨è¨ããã°ããã®è¿«åã ã",
+      "Pt-br": "a força absoluta de sua voz declarando que vai me arremessar de volta para Miyama se eu der mais um passo.",
+      "id": 31080,
+      "epk_id": "18029",
+      "label": "$$$message_0136_0005_0003$$$"
+    },
+    {
+      "en": "\"I-i-i-i-is that a problem, sir? Are you telling me to leave for today!?\"[lr]",
+      "jp": "ãã ã ã ãã¡ã§ãããä»æ¥ã¯å¸°ãã¨è¨ãããã®ã§ããããã£ï¼ï¼ã[lr]",
+      "Pt-br": "\"I-i-i-i-isso é um problema, senhor? Está me dizendo para ir embora por hoje!?\"[lr]",
+      "id": 31081,
+      "epk_id": "18030",
+      "label": "$$$message_0136_0006_0000$$$"
+    },
+    {
+      "en": "\"[wacky len=9]...!\"[lr]",
+      "jp": "ã[wacky len=9][line len=3]ï¼ã[lr]",
+      "Pt-br": "\"[wacky len=9]...!\"[lr]",
+      "id": 31082,
+      "epk_id": "18031",
+      "label": "$$$message_0136_0006_0001$$$"
+    },
+    {
+      "en": "The greater B-B-B-Berserker starts to rage even more.[lr]",
+      "jp": "ãã¾ã¾ã¾ãã¾ãã¾ãèãããã¼ãµã¼ã«ã¼æ§ã[lr]",
+      "Pt-br": "O grande B-B-B-Berserker começa a se enfurecer ainda mais.[lr]",
+      "id": 31083,
+      "epk_id": "18032",
+      "label": "$$$message_0136_0006_0002$$$"
+    },
+    {
+      "en": "I have no idea what he's trying to say! Someone please interpret!",
+      "jp": "ãä½ãè¨ãããã®ãã¾ã£ããåãããªããèª°ãéè¨³ã¤ãã¦ãã¦ã¼ï¼",
+      "Pt-br": "Não tenho a menor ideia do que ele está tentando dizer! Alguém, por favor, traduza isso!",
+      "id": 31084,
+      "epk_id": "18033",
+      "label": "$$$message_0136_0006_0003$$$"
+    },
+    {
+      "en": "\"Not the most perceptive guest, are you?[lr]",
+      "jp": "ãç©ãããã®æªããå®¢æ§ã­ã[lr]",
+      "Pt-br": "\"Você não é o convidado mais perspicaz, não é?[lr]",
+      "id": 31085,
+      "epk_id": "18034",
+      "label": "$$$message_0136_0007_0000$$$"
+    },
+    {
+      "en": "You showed up on a lady's doorstep without an appointment. Did you expect a warm welcome[line len=2]oh.[lr]",
+      "jp": "ãç´æããªãã®ã«ã¬ãã£ã®å®¶ã«è¡ããã ãªãã¦ãè¿½ãè¿ããã¦å½ç¶ã§ãããâ¦â¦ã£ã¦ãããï¼[lr]",
+      "Pt-br": "Apareceu na porta de uma dama sem hora marcada. Esperava uma recepção calorosa[line len=2]oh.[lr]",
+      "id": 31086,
+      "epk_id": "18035",
+      "label": "$$$message_0136_0007_0001$$$"
+    },
+    {
+      "en": "Is that you, Shirou?\"",
+      "jp": "ãèª°ãã¨æãã°ã·ã­ã¦ï¼ã",
+      "Pt-br": "É você, Shirou?\"",
+      "id": 31087,
+      "epk_id": "18036",
+      "label": "$$$message_0136_0007_0002$$$"
+    },
+    {
+      "en": "\"Illya...?\"[lr]",
+      "jp": "ãã¤ãªã¤â¦â¦ï¼ã[lr]",
+      "Pt-br": "\"Illya...?\"[lr]",
+      "id": 31088,
+      "epk_id": "18037",
+      "label": "$$$message_0136_0008_0000$$$"
+    },
+    {
+      "en": "\"Yeah! Hi, Big Brother! I don't see you here very often!\"[lr]",
+      "jp": "ãããã ãã¼ãããã«ã¡ã¯ãå\nã¡ãããããã§ä¼ãã®ã¯çããã­ã¼ï¼ã[lr]",
+      "Pt-br": "\"Sim! Oi, Onii-chan! Não te vejo por aqui com frequência!\"[lr]",
+      "id": 31089,
+      "epk_id": "18038",
+      "label": "$$$message_0136_0008_0001$$$"
+    },
+    {
+      "en": "Illya waves cheerfully at me.[lr]",
+      "jp": "ããã£ã»ã¼ãã¨ã°ããã«æãæ¯ãã¤ãªã¤ã[lr]",
+      "Pt-br": "Illya acena alegremente para mim.[lr]",
+      "id": 31090,
+      "epk_id": "18039",
+      "label": "$$$message_0136_0008_0002$$$"
+    },
+    {
+      "en": "But she doesn't step out of the forest, for some reason.",
+      "jp": "ãããã©ããã¦ãæ£®ã®å¥¥ããåºã¦ããªãã",
+      "Pt-br": "Mas ela não sai da floresta, por algum motivo.",
+      "id": 31091,
+      "epk_id": "18040",
+      "label": "$$$message_0136_0008_0003$$$"
+    },
+    {
+      "en": "\"Heeey, Illya![lr]",
+      "jp": "ããã¼ããã¤ãªã¤ã¼ï¼[lr]",
+      "Pt-br": "\"Oeeeee, Illya![lr]",
+      "id": 31092,
+      "epk_id": "18041",
+      "label": "$$$message_0136_0009_0000$$$"
+    },
+    {
+      "en": "I want to go hang out at the castle! Can you tell Berserker to let me through!?\"",
+      "jp": "ãã¡ãã£ã¨åã«è¡ããããã§ããã¼ãµã¼ã«ã¼ã«éãã¦ããã£ã¦è¨ã£ã¦ãããªããã¼ï¼ã",
+      "Pt-br": "Eu queria dar uma passada no castelo! Pode falar pro Berserker me deixar passar!?\"",
+      "id": 31093,
+      "epk_id": "18042",
+      "label": "$$$message_0136_0009_0001$$$"
+    },
+    {
+      "en": "\"Oh. So you came to look at the castle, not me.[lr]",
+      "jp": "ããã£ããã·ã­ã¦ããããã«ä¼ãã«æ¥ãããããªãã¦ãåã«è¡ããããã ã[lr]",
+      "Pt-br": "\"Ah. Então você veio ver o castelo, não eu.[lr]",
+      "id": 31094,
+      "epk_id": "18043",
+      "label": "$$$message_0136_0010_0000$$$"
+    },
+    {
+      "en": "Then no. [cacheimage storage=ã¤ãªã¤ã³ã¼ã01c(é )][wvl][chgfg textoff=0 time=300 storage=ã¤ãªã¤ã³ã¼ã01c(é )]My house is undergoing renovations to add a second building and we aren't taking any visitors at this time. You don't know how a girl feels, so please go back to your town.\"",
+      "jp": "ãããããããã¡ã[cacheimage storage=ã¤ãªã¤ã³ã¼ã01c(é )][wvl][chgfg textoff=0 time=300 storage=ã¤ãªã¤ã³ã¼ã01c(é )]å½å®¶ã¯ç¬¬äºåå»ºè¨­ä¸­ã«ã¤ããã°ããæ¥è¨ªããæ­ããã¦ãã¾ã¼ããå¥³ã®å­ã®æ°æã¡ãåãããªãã·ã­ã¦ã¯ãã¨ãªããè¡ã«å¸°ã£ã¦ãã ãã¼ãã",
+      "Pt-br": "Então não. [cacheimage storage=イリヤコート01c(遠)][wvl][chgfg textoff=0 time=300 storage=イリヤコート01c(遠)]Minha casa está passando por reformas para a adição de um segundo prédio e não estamos aceitando visitas no momento. Você não entende os sentimentos de uma garota, então, por favor, volte para a sua cidade.\"",
+      "id": 31095,
+      "epk_id": "18044",
+      "label": "$$$message_0136_0010_0001$$$"
+    },
+    {
+      "en": "\"Bye,\" waves Illya.[lr]",
+      "jp": "ããããã­ã¼ãã¨æãæ¯ãã¤ãªã¤ã[lr]",
+      "Pt-br": "\"Tchauzinho\", acena Illya.[lr]",
+      "id": 31096,
+      "epk_id": "18045",
+      "label": "$$$message_0136_0011_0000$$$"
+    },
+    {
+      "en": "Even if I tried to stop her, an impassable wall of muscle blocks my path.[wm canskip=0]",
+      "jp": "ãå¼ã³æ­¢ãããã¨ããç®ã®åã«ã¯[ruby text=ãã¼ãµã¼ã«ã¼ o2o=1]é£æ»ä¸è½ã®å£ãç«ã¡å¡ãã£ã¦ããã®ã§ãã£ãã[wm canskip=0]",
+      "Pt-br": "Mesmo que eu tentasse impedi-la, uma parede de músculos intransponível bloqueia meu caminho.[wm canskip=0]",
+      "id": 31097,
+      "epk_id": "18046",
+      "label": "$$$message_0136_0011_0001$$$"
+    },
+    {
+      "en": "\"Now hold on.[lr]",
+      "jp": "ããããå¾\nã£ãã[lr]",
+      "Pt-br": "\"Espera aí.[lr]",
+      "id": 31098,
+      "epk_id": "18047",
+      "label": "$$$message_0136_0012_0000$$$"
+    },
+    {
+      "en": "I think wanting to go to the castle is the same as wanting to see you.\"[lr]",
+      "jp": "ãåã«è¡ãããã£ã¦ã®ã¨ã¤ãªã¤ã«ä¼ãããã£ã¦ã®ã¯åç¾©ã ã¨æãã[lr]",
+      "Pt-br": "Eu acho que querer ir ao castelo é o mesmo que querer ver você.\"[lr]",
+      "id": 31099,
+      "epk_id": "18048",
+      "label": "$$$message_0136_0012_0001$$$"
+    },
+    {
+      "en": "I stick to the facts.[lr]",
+      "jp": "ããã¡ãã¨ãã³ãã®ã¨ãããå£ã«ããã[lr]",
+      "Pt-br": "Apenas me atenho aos fatos.[lr]",
+      "id": 31100,
+      "epk_id": "18049",
+      "label": "$$$message_0136_0012_0002$$$"
+    },
+    {
+      "en": "Even I know how to consider a girl's feelings.",
+      "jp": "ãä¿ºã ã£ã¦å¥³ã®å­ã®æ°æã¡ãããåããã®ã ã",
+      "Pt-br": "Até eu sei levar em conta os sentimentos de uma garota.",
+      "id": 31101,
+      "epk_id": "18050",
+      "label": "$$$message_0136_0012_0003$$$"
+    },
+    {
+      "en": "\"...That's pretty smooth for you, but no.[lr]",
+      "jp": "ãâ¦â¦ã·ã­ã¦ã«ãã¦ã¯ä¸åºæ¥ã ãã©ããã£ã±ããã¡ã[lr]",
+      "Pt-br": "\"...Mandou bem nessa, mas não.[lr]",
+      "id": 31102,
+      "epk_id": "18051",
+      "label": "$$$message_0136_0013_0000$$$"
+    },
+    {
+      "en": "There's nothing to do at my castle. There's nothing you'd enjoy there, and there aren't any clues to the Holy Grail War, either.[lr]",
+      "jp": "ãã ã£ã¦ãåã«ã¯ä½ããªããã®ãã·ã­ã¦ãæ¥ã¦ãããã³ããªãã¦ãªãããèæ¯æ¦äºã®æãããããªãã[lr]",
+      "Pt-br": "Não tem nada para fazer no meu castelo. Não tem nada que você vá gostar lá, e também não há pistas sobre a Guerra do Santo Graal.[lr]",
+      "id": 31103,
+      "epk_id": "18052",
+      "label": "$$$message_0136_0013_0001$$$"
+    },
+    {
+      "en": "If you're trying to dig anything up on me, it would be more productive to just walk around town.\"",
+      "jp": "ããã¡ãèª¿ã¹ãããããªããè¡ãæ­©ãåã£ã¦ãæ¹ãå»ºè¨­çãï¼ã",
+      "Pt-br": "Se está tentando descobrir algo sobre mim, seria mais produtivo só dar uma volta pela cidade.\"",
+      "id": 31104,
+      "epk_id": "18053",
+      "label": "$$$message_0136_0013_0002$$$"
+    },
+    {
+      "en": "\"That's not true. I think your castle's an interesting place.\"[lr]",
+      "jp": "ããããªã³ããªããã¤ãªã¤ã®åã¯é¢ç½ãã[lr]",
+      "Pt-br": "\"Isso não é verdade. Eu acho o seu castelo um lugar interessante.\"[lr]",
+      "id": 31105,
+      "epk_id": "18054",
+      "label": "$$$message_0136_0014_0000$$$"
+    },
+    {
+      "en": "It's incredible inside, I can always see Illya there, and Sella and Leys are there, too.[lr]",
+      "jp": "ãä¸­ã¯ç«æ´¾ã§ããã¤ã§ãã¤ãªã¤ã«ä¼ãã¦ãã»ã©ã¨ãªãºãããã[lr]",
+      "Pt-br": "É incrível por dentro, eu sempre posso ver a Illya lá, e a Sella e a Leys também estão lá.[lr]",
+      "id": 31106,
+      "epk_id": "18055",
+      "label": "$$$message_0136_0014_0001$$$"
+    },
+    {
+      "en": "There might even be clues about the Holy Grail War there, if I look.[lr]",
+      "jp": "ãèæ¯æ¦äºã®æãããã ã£ã¦æ¢ãã°ãããããããªãã[lr]",
+      "Pt-br": "Pode até haver pistas sobre a Guerra do Santo Graal, se eu procurar.[lr]",
+      "id": 31107,
+      "epk_id": "18056",
+      "label": "$$$message_0136_0014_0002$$$"
+    },
+    {
+      "en": "Illya's a Master, too.[lr]",
+      "jp": "ãã¤ãªã¤ã ã£ã¦ãã¹ã¿ã¼ã®ä¸äººã ã[lr]",
+      "Pt-br": "A Illya também é uma Mestra.[lr]",
+      "id": 31108,
+      "epk_id": "18057",
+      "label": "$$$message_0136_0014_0003$$$"
+    },
+    {
+      "en": "Even if there's nothing in her castle, Illya could be in some trouble.",
+      "jp": "ãåã«ä½ããªãã¨ãã¦ããã¤ãªã¤æ¬äººãä½ãã®ãã©ãã«ã«å·»ãè¾¼ã¾ããå¯è½æ§ãããã",
+      "Pt-br": "Mesmo que não haja nada no castelo, a Illya pode estar em apuros.",
+      "id": 31109,
+      "epk_id": "18058",
+      "label": "$$$message_0136_0014_0004$$$"
+    },
+    {
+      "en": "\"...Oh, I can tell what you're thinking. It's written all over your face.[lr]",
+      "jp": "ãâ¦â¦ãããèãã¦ãã³ãã¾ãããããªãã ããã[lr]",
+      "Pt-br": "\"...Ah, eu consigo ver o que você está pensando. Está escrito na sua cara.[lr]",
+      "id": 31110,
+      "epk_id": "18059",
+      "label": "$$$message_0136_0015_0000$$$"
+    },
+    {
+      "en": "I don't really want you to come...but I know you'd keep trying even if I said no.\"",
+      "jp": "ãã·ã­ã¦ã«ã¯ããã¾ãæ¥ã¦ã»ãããªããã ãã©â¦â¦ããã§æ­ã£ã¦ããæ²ããã«ä½åº¦ããã£ã¦ããã ããããªãã",
+      "Pt-br": "Eu não quero muito que você venha... mas sei que continuaria tentando, mesmo se eu dissesse não.\"",
+      "id": 31111,
+      "epk_id": "18060",
+      "label": "$$$message_0136_0015_0001$$$"
+    },
+    {
+      "en": "\"Okay. If you insist, then I'll think about it.[lr]",
+      "jp": "ãããããã©ããã¦ãã£ã¦è¨ããªãèãã¦ãããã[lr]",
+      "Pt-br": "\"Tudo bem. Já que você insiste, eu vou pensar no assunto.[lr]",
+      "id": 31112,
+      "epk_id": "18061",
+      "label": "$$$message_0136_0016_0000$$$"
+    },
+    {
+      "en": "You'll probably come back even if I chase you off.[lr]",
+      "jp": "ãã©ã¼ãè¿½ãè¿ãã¦ããã£ã¦æ¥ããã ãã®ã­ã[lr]",
+      "Pt-br": "Você provavelmente voltaria mesmo se eu te expulsasse.[lr]",
+      "id": 31113,
+      "epk_id": "18062",
+      "label": "$$$message_0136_0016_0001$$$"
+    },
+    {
+      "en": "So I'll throw you a slightly odd welcoming party.\"",
+      "jp": "ããããªãããã§ããã¡ãã£ã¨å¤ãã£ãåºãç©ãç¨æãã¦ããã¾ãããã",
+      "Pt-br": "Então, vou preparar uma festa de boas-vindas um tanto... peculiar.\"",
+      "id": 31114,
+      "epk_id": "18063",
+      "label": "$$$message_0136_0016_0002$$$"
+    },
+    {
+      "en": "Her somber expression suddenly changes into a bewitching grin.[lr]",
+      "jp": "ãæ¸ãé¡ããä¸è»¢ãä½ããå¦ããç¬ã¿ãæµ®ãã¹ãã[lr]",
+      "Pt-br": "Sua expressão sombria muda de repente para um sorriso sedutor.[lr]",
+      "id": 31115,
+      "epk_id": "18064",
+      "label": "$$$message_0136_0017_0000$$$"
+    },
+    {
+      "en": "...That's the face of an imp plotting some exceptional mischief.",
+      "jp": "ãâ¦â¦ãã®é¡ã¯ãã¨ã³ããã®[ruby text=ãããã char=2]æªæ¯ãèãã¤ããå°æªé­ã®[ruby text=ãã]è²ã ã",
+      "Pt-br": "...Esse é o rosto de uma diabinha planejando alguma travessura excepcional.",
+      "id": 31116,
+      "epk_id": "18065",
+      "label": "$$$message_0136_0017_0001$$$"
+    },
+    {
+      "en": "\"Heeeey, Illya?[lr]",
+      "jp": "ããã¼ããã¤ãªã¤ã¼ï¼[lr]",
+      "Pt-br": "\"Oeeeee, Illya?[lr]",
+      "id": 31117,
+      "epk_id": "18066",
+      "label": "$$$message_0136_0018_0000$$$"
+    },
+    {
+      "en": "You didn't just think of an awful prank, did you?\"[lr]",
+      "jp": "ããªããããããã¬ã¢ã¤ãã£ã¢éãã¦ãªããã¼ï¼ã[lr]",
+      "Pt-br": "Você não acabou de pensar em alguma brincadeira de mau gosto, né?\"[lr]",
+      "id": 31118,
+      "epk_id": "18067",
+      "label": "$$$message_0136_0018_0001$$$"
+    },
+    {
+      "en": "I think it's admirable of her to welcome a guest, no need to get bogged down in the details.",
+      "jp": "ããå®¢ãæ­è¿ããã®ã¯ä¸»äººã¨ãã¦ç«æ´¾ã ããä½äºãåããããã®ã¯èããã®ã ãã¼ã",
+      "Pt-br": "Acho admirável da parte dela receber um convidado, não preciso me prender aos detalhes.",
+      "id": 31119,
+      "epk_id": "18068",
+      "label": "$$$message_0136_0018_0002$$$"
+    },
+    {
+      "en": "\"Well, if you're coming, I need to hurry up and get ready.[lr]",
+      "jp": "ãããã­ãããã¨æ±ºã¾ãã°æ¥ãã§æºåããªãã£ã¡ãã[lr]",
+      "Pt-br": "\"Bem, se você vem mesmo, preciso me apressar e preparar tudo.[lr]",
+      "id": 31120,
+      "epk_id": "18069",
+      "label": "$$$message_0136_0019_0000$$$"
+    },
+    {
+      "en": "I need to clear the forest, build a wall, get a bunch of chariots ready to receive you...[cacheimage storage=ã¤ãªã¤ã³ã¼ã08g(é )][wvl][chgfg textoff=0 time=300 storage=ã¤ãªã¤ã³ã¼ã08g(é )] And oh, I wouldn't be a very good mistress if I didn't give Sella and Leys a chance to shine.\"[lr]",
+      "jp": "ãæ£®ãæãã¦ãçµ¶å£ãä½ã£ã¦ãã¡ããã¨åºè¿ãã®æ¦è»ãç¨æãã¦ã[cacheimage storage=ã¤ãªã¤ã³ã¼ã08g(é )][wvl][chgfg textoff=0 time=300 storage=ã¤ãªã¤ã³ã¼ã08g(é )]ã¨â¦â¦ãããããã»ã©ã¨ãªãºã«ãåºçªããããªãã¡ãä¸»äººå¤±æ ¼ãã­ã[lr]",
+      "Pt-br": "Preciso limpar a floresta, erguer um muro, preparar um monte de carruagens para te receber... [cacheimage storage=イリヤコート08g(遠)][wvl][chgfg textoff=0 time=300 storage=イリヤコート08g(遠)] E oh, eu não seria uma anfitriã muito boa se não desse à Sella e à Leys uma chance de brilharem.\"[lr]",
+      "id": 31121,
+      "epk_id": "18070",
+      "label": "$$$message_0136_0019_0001$$$"
+    },
+    {
+      "en": "She isn't listening.",
+      "jp": "ãèããã¦ãªããã",
+      "Pt-br": "Ela não está ouvindo.",
+      "id": 31122,
+      "epk_id": "18071",
+      "label": "$$$message_0136_0019_0002$$$"
+    },
+    {
+      "en": "I can hear Illya's Magic Circuits whirring at maximum rotation.[lr]",
+      "jp": "ãã«ãã«ãã¨é³ããã¦ã¦ãã«åè»¢ããã¤ãªã¤ã®é­è¡åè·¯ã[lr]",
+      "Pt-br": "Consigo ouvir os Circuitos Mágicos da Illya zumbindo em rotação máxima.[lr]",
+      "id": 31123,
+      "epk_id": "18072",
+      "label": "$$$message_0136_0020_0000$$$"
+    },
+    {
+      "en": "...From what I've heard, Illya's magecraft can skip over theory and produce concrete results.[lr]",
+      "jp": "ãâ¦â¦ãªãã§ããèããè©±ã ã¨ã¤ãªã¤ã®é­è¡ã¯âçè«âãã¹ãé£ã°ãã¦çµæãåºããã®ãããã[lr]",
+      "Pt-br": "...Pelo que ouvi, a magia da Illya pode pular a teoria e produzir resultados concretos.[lr]",
+      "id": 31124,
+      "epk_id": "18073",
+      "label": "$$$message_0136_0020_0001$$$"
+    },
+    {
+      "en": "Maybe it's because she's a miniature Holy Grail. Whatever Illya wants to do or wishes for will come true as long as it's within the limits of her magical energy, whether she knows the specific method to accomplish it or not, or so I'm told.",
+      "jp": "ãå°è¦æ¨¡ãªèæ¯ã¨ããããã¤ãªã¤ããããã³ããé¡ãã³ããã¤ãªã¤ã®é­åã§å¯è½ãªã³ããªããã¤ãªã¤æ¬äººããã®æ¹æ³ãç¥ããªãã¦ãå®ç¾ããã¦ãã¾ãã®ã ã¨ãã",
+      "Pt-br": "Talvez seja porque ela é um Santo Graal em miniatura. O que quer que a Illya deseje ou queira fazer se tornará realidade, desde que esteja dentro dos limites de sua energia mágica, quer ela conheça o método específico para realizar ou não, ou foi o que me disseram.",
+      "id": 31125,
+      "epk_id": "18074",
+      "label": "$$$message_0136_0020_0002$$$"
+    },
+    {
+      "en": "\"...I think we need a moat, too. Can't exactly call it storming the castle otherwise.[lr]",
+      "jp": "ãâ¦â¦ãã£ã±ãæµ·å³¡ã¯å¿\nè¦ãã­ãã¢ã¬ãªããã¦ä½ãåæ»ããã£ã¦æãã[lr]",
+      "Pt-br": "\"...Acho que precisamos de um fosso também. Não dá pra chamar de invasão ao castelo de outra forma.[lr]",
+      "id": 31126,
+      "epk_id": "18075",
+      "label": "$$$message_0136_0021_0000$$$"
+    },
+    {
+      "en": "As for a maze... Hmm, I might not have enough magical energy for that.\"[lr]",
+      "jp": "ãè¿·è·¯ã¯â¦â¦ãã¼ããããã®é­åéããããã¾ã§ã¯ç¡çã£ã½ããªã¼â¦â¦ã[lr]",
+      "Pt-br": "Quanto a um labirinto... Hmm, talvez eu não tenha energia mágica suficiente para isso.\"[lr]",
+      "id": 31127,
+      "epk_id": "18076",
+      "label": "$$$message_0136_0021_0001$$$"
+    },
+    {
+      "en": "Something that can't be undone is unfolding at a frenetic pace before my eyes.[lr]",
+      "jp": "ããããå¢ãã§åãè¿ãã®ã¤ããªãã¤ãã³ããèµ·ãããã¨ãã¦ããã[lr]",
+      "Pt-br": "Algo que não pode ser desfeito está se desenrolando em um ritmo frenético diante dos meus olhos.[lr]",
+      "id": 31128,
+      "epk_id": "18077",
+      "label": "$$$message_0136_0021_0002$$$"
+    },
+    {
+      "en": "Argh, she's using the wish-granting power of the Holy Grail for the silliest reasons...",
+      "jp": "ãåå¼ãé¡ããå¶ããèæ¯ã®åãããªããã©ãã§ãããã³ãã«ä½¿ããã¦ããâ¦â¦ã",
+      "Pt-br": "Argh, ela está usando o poder de concessão de desejos do Santo Graal pelos motivos mais bobos...",
+      "id": 31129,
+      "epk_id": "18078",
+      "label": "$$$message_0136_0021_0003$$$"
+    },
+    {
+      "en": "\"Um, Illya? I just want to visit the castle.\"[lr]",
+      "jp": "ããªãã¤ãªã¤ãä¿ºãåã«è¡ãããã ããªãã ãã©ï¼ã[lr]",
+      "Pt-br": "\"Er, Illya? Eu só quero visitar o castelo.\"[lr]",
+      "id": 31130,
+      "epk_id": "18079",
+      "label": "$$$message_0136_0022_0000$$$"
+    },
+    {
+      "en": "\"Yes, and I'll send you an invitation once I'm ready. Just keep enjoying your peace and quiet in the meantime.[lr]",
+      "jp": "ããããæºåãåºæ¥ããåãã§æå¾\nãã¦ããããããã®æã¾ã§æã®éã®å¹³åãè¬³æ­ãã¦ãªããã[lr]",
+      "Pt-br": "\"Sim, e eu te mandarei um convite assim que estiver pronta. Apenas continue aproveitando sua paz e sossego enquanto isso.[lr]",
+      "id": 31131,
+      "epk_id": "18080",
+      "label": "$$$message_0136_0022_0001$$$"
+    },
+    {
+      "en": "...Hehe. I hope you're ready. Once it's ready, I'll give you so much to enjoy that you'll be the one asking [font italic=true]me[font italic=false] whether I've had enough.\"[wvs][clfg textoff=0 storage=ã¤ãªã¤ã³ã¼ã06a(é ) rule=ã·ã£ãã¿ã¼å·¦ãã time=400]",
+      "jp": "ãâ¦â¦ãµãµãè¦æãã¦ã­ãå\nã¡ããï¼ãå®æã®æã«ã¯ãããã§ããã£ã¦è¨ããããã­ãªã­ãªã¾ãã«ãã¦ããããã ããã[wvs][clfg textoff=0 storage=ã¤ãªã¤ã³ã¼ã06a(é ) rule=ã·ã£ãã¿ã¼å·¦ãã time=400]",
+      "Pt-br": "...Hehe. Espero que esteja preparado. Quando estiver tudo pronto, vou te dar tanta diversão que você é quem vai me perguntar se [font italic=true]eu[font italic=false] já não tive o suficiente, Onii-chan.\"[wvs][clfg textoff=0 storage=イリヤコート06a(遠) rule=シャッター左から time=400]",
+      "id": 31132,
+      "epk_id": "18081",
+      "label": "$$$message_0136_0022_0002$$$"
+    },
+    {
+      "en": "Illya disappears into the mist, leaving me with a death sentence.[lr]",
+      "jp": "ãæ­»åå®£åãæ®ãã¦é§ã«æ¶ãã¦ããã¤ãªã¤ã[lr]",
+      "Pt-br": "Illya desaparece na névoa, me deixando com uma sentença de morte.[lr]",
+      "id": 31133,
+      "epk_id": "18082",
+      "label": "$$$message_0136_0023_0000$$$"
+    },
+    {
+      "en": "\"That does not sound good for my health...\"[lr]",
+      "jp": "ãâ¦â¦ãªãããé²è¡ããæªãããªã£ã¦ããâ¦â¦ã[lr]",
+      "Pt-br": "\"Isso não soa nada bem para a minha saúde...\"[lr]",
+      "id": 31134,
+      "epk_id": "18083",
+      "label": "$$$message_0136_0023_0001$$$"
+    },
+    {
+      "en": "It's starting to sound like I'll have to endure some terrifying trials to even reach the Einzbern Castle.",
+      "jp": "ãã¢ã¤ã³ããã«ã³ã®åã«è¡ãçºã«ã¯ãä½ãæãããè©¦ç·´ãä¹ãè¶ããªãã¦ã¯ãªããªããããã",
+      "Pt-br": "Está começando a parecer que vou ter que enfrentar provações terríveis só para conseguir chegar ao Castelo Einzbern.",
+      "id": 31135,
+      "epk_id": "18084",
+      "label": "$$$message_0136_0023_0002$$$"
+    },
+    {
+      "en": "The giant stands there silently.[lr]",
+      "jp": "ãå·¨äººã¯é»ãã¦èªããã[lr]",
+      "Pt-br": "O gigante permanece ali, em silêncio.[lr]",
+      "id": 31136,
+      "epk_id": "18085",
+      "label": "$$$message_0136_0024_0000$$$"
+    },
+    {
+      "en": "Somehow, I sense that he's encouraging me with a \"don't lose heart, lad.\"",
+      "jp": "ããã ããªãã¨ãªãã§ã¯ããããâæ«ãããªå°å¹´âãªãã¦ãå±ã¾ãã¦ããã¦ããæ°ãããã",
+      "Pt-br": "De alguma forma, sinto que ele está me encorajando com um \"não desanime, rapaz.\"",
+      "id": 31137,
+      "epk_id": "18086",
+      "label": "$$$message_0136_0024_0001$$$"
+    },
+    {
+      "en": "\"Oh. So you came to look at the castle, not me.\"[r]L½",
+      "jp": "ããã£ãã[r]ã·ã­ã¦ããããã«ä¼ãã«[r]æ¥ãããããªãã¦ãåã«[r]è¡ããããã ã0Ä",
+      "Pt-br": "\"Ah. Então você veio ver o castelo, não eu.\"[r]",
+      "id": 31138,
+      "epk_id": "918043",
+      "label": "$$$message_9136_0010_0000$$$"
+    }
+  ]
+}

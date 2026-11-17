@@ -1,0 +1,1552 @@
+{
+  "cena": "3edrn9f2pi5nqudbv9r02kp7i6",
+  "titulo": "Mansão Emiya: Um Hóspede de Cinco Anos",
+  "rota": "Dia 2",
+  "arquivo": "3edrn9f2pi5nqudbv9r02kp7i6.epk_dec",
+  "linhas": [
+    {
+      "en": "\"Huh. No one's here.\"[lr]",
+      "jp": "「あれ。なんだ、誰もいないのか」[lr]",
+      "Pt-br": "\"Hã. Não tem ninguém aqui.\"[lr]",
+      "id": 9195,
+      "epk_id": "2723",
+      "label": "$$$message_0018_0000_0000$$$"
+    },
+    {
+      "en": "The note on the message board is in Sakura's handwriting: \"I'm going back to my house for a bit.\"[lr]",
+      "jp": "　伝言板には『ちょっと家に戻っています』という桜の書き置き。[lr]",
+      "Pt-br": "A mensagem no quadro de avisos está com a caligrafia da Sakura: \"Estou voltando para casa por um tempo.\"[lr]",
+      "id": 9196,
+      "epk_id": "2724",
+      "label": "$$$message_0018_0000_0001$$$"
+    },
+    {
+      "en": "Rider and Saber left a sticky note on the refrigerator that reads, \"going shopping in Shinto.\"[lr]",
+      "jp": "　冷蔵庫には『新都まで買い出し』というライダーとセイバーの書き置き。[lr]",
+      "Pt-br": "A Rider e a Saber deixaram um post-it na geladeira que diz: \"indo fazer compras em Shinto.\"[lr]",
+      "id": 9197,
+      "epk_id": "2725",
+      "label": "$$$message_0018_0000_0002$$$"
+    },
+    {
+      "en": "Everyone else seems to be out at the moment, leaving me alone in the house.",
+      "jp": "　他の面子も出払っているらしく、屋敷に残っているのは俺一人のようだ。",
+      "Pt-br": "Todo o resto parece ter saído no momento, me deixando sozinho em casa.",
+      "id": 9198,
+      "epk_id": "2726",
+      "label": "$$$message_0018_0000_0003$$$"
+    },
+    {
+      "en": "\"...Oh well. Not like I have work today, so I'll hold down the[wvl][se storage=se027.wav]...hm?\"[lr]",
+      "jp": "「……まあいいか。バイトも入ってないし、おとなしく留守番でも[wvl][se storage=se027.wav][line len=3]ん？」[lr]",
+      "Pt-br": "\"...Tudo bem. Não trabalho hoje, então vou ficar com a[wvl][se storage=se027.wav]...hm?\"[lr]",
+      "id": 9199,
+      "epk_id": "2727",
+      "label": "$$$message_0018_0001_0000$$$"
+    },
+    {
+      "en": "The doorbell rings.[lr]",
+      "jp": "　玄関からチャイムが響く。[lr]",
+      "Pt-br": "A campainha toca.[lr]",
+      "id": 9200,
+      "epk_id": "2728",
+      "label": "$$$message_0018_0001_0001$$$"
+    },
+    {
+      "en": "I go to see who it is, and I am surprised[lr]",
+      "jp": "　誰だろう、と足を運ぶと[lr]",
+      "Pt-br": "Eu vou ver quem é, e sou surpreendido[lr]",
+      "id": 9201,
+      "epk_id": "2729",
+      "label": "$$$message_0018_0001_0002$$$"
+    },
+    {
+      "en": "by an unusual guest.",
+      "jp": "　なんとも珍しい客がやってきていた。",
+      "Pt-br": "por um convidado inusitado.",
+      "id": 9202,
+      "epk_id": "2730",
+      "label": "$$$message_0018_0001_0003$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「[line len=6]」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 9203,
+      "epk_id": "2731",
+      "label": "$$$message_0018_0002_0000$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「[line len=6]」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 9204,
+      "epk_id": "2732",
+      "label": "$$$message_0018_0002_0001$$$"
+    },
+    {
+      "en": "For a moment, we stare at each other without saying anything.[lr]",
+      "jp": "　しばし、言葉もなく向かい合う。[lr]",
+      "Pt-br": "Por um momento, nos encaramos sem dizer nada.[lr]",
+      "id": 9205,
+      "epk_id": "2733",
+      "label": "$$$message_0018_0002_0002$$$"
+    },
+    {
+      "en": "The opportunity to greet each other passes, not that he seems willing to do that, to begin with.[lr]",
+      "jp": "　こっちは面食らって挨拶が遅れてしまい、あっちはもとより挨拶をする気がないらしい。[lr]",
+      "Pt-br": "A oportunidade de nos cumprimentarmos passa, não que ele pareça disposto a fazer isso, para começo de conversa.[lr]",
+      "id": 9206,
+      "epk_id": "2734",
+      "label": "$$$message_0018_0002_0003$$$"
+    },
+    {
+      "en": "If this was a combat sport, each fighter would be waiting to see who makes the first move, but it's not like he came here picking a fight.",
+      "jp": "　格闘技でいうならどちらが仕掛けるかの様子見なのだが、別にケンカをしにきたワケではあるまい。",
+      "Pt-br": "Se isso fosse um esporte de combate, cada lutador estaria esperando para ver quem dá o primeiro golpe, mas ele não veio aqui para arrumar briga.",
+      "id": 9207,
+      "epk_id": "2735",
+      "label": "$$$message_0018_0002_0004$$$"
+    },
+    {
+      "en": "\"Hey. Don't see you around every day. Are you here to check on Sakura?\"[lr]",
+      "jp": "「よう。珍しいな、桜の様子を見に来たのか？」[lr]",
+      "Pt-br": "\"E aí. Não vejo você por aqui todo dia. Você veio checar a Sakura?\"[lr]",
+      "id": 9208,
+      "epk_id": "2736",
+      "label": "$$$message_0018_0003_0000$$$"
+    },
+    {
+      "en": "\"Not really. I just had something to do in the area. I'm on the way home.\"",
+      "jp": "「別に。ちょっとこのあたりに用があってね。帰りがてら寄ってやっただけだよ」",
+      "Pt-br": "\"Não exatamente. Eu só tinha algo para fazer na área. Estou a caminho de casa.\"",
+      "id": 9209,
+      "epk_id": "2737",
+      "label": "$$$message_0018_0003_0001$$$"
+    },
+    {
+      "en": "\"Okay. You might as well come in if you have time.[lr]",
+      "jp": "「そっか。時間があるならあがってくか？[lr]",
+      "Pt-br": "\"Certo. Você também pode entrar se tiver tempo.[lr]",
+      "id": 9210,
+      "epk_id": "2738",
+      "label": "$$$message_0018_0004_0000$$$"
+    },
+    {
+      "en": "Since it's you, you're probably on foot. The Matou house is pretty far, so have a cup of tea before you go.\"[lr]",
+      "jp": "　おまえの事だから歩きだろ。間桐の家まで距離あるし、お茶ぐらい飲んでけよ」[lr]",
+      "Pt-br": "Já que é você, você provavelmente está a pé. A casa dos Matou é muito longe, então tome uma xícara de chá antes de ir.\"[lr]",
+      "id": 9211,
+      "epk_id": "2739",
+      "label": "$$$message_0018_0004_0001$$$"
+    },
+    {
+      "en": "\"Tea? [cacheimage storage=慎二制服02a(中)][wvl canskip=0 time=400][chgfg time=300 storage=慎二制服02a(中)]...Well, I might as well. I'm not free, just so you know, but I'll stick around for a bit.\"[wvs][clfg textoff=0 pos=all time=400 rule=シャッター左から]",
+      "jp": "「お茶ぁ？[cacheimage storage=慎二制服02a(中)][wvl canskip=0 time=400][chgfg time=300 storage=慎二制服02a(中)]　……まあ、そういうのもたまにはいいか。暇じゃないんだけどね、少しぐらい付き合ってやるよ」[wvs][clfg textoff=0 pos=all time=400 rule=シャッター左から]",
+      "Pt-br": "\"Chá? [cacheimage storage=慎二制服02a(中)][wvl canskip=0 time=400][chgfg time=300 storage=慎二制服02a(中)]...Bem, acho que posso. Eu não estou livre, só para você saber, mas vou ficar um pouco.\"[wvs][clfg textoff=0 pos=all time=400 rule=シャッター左から]",
+      "id": 9212,
+      "epk_id": "2740",
+      "label": "$$$message_0018_0004_0002$$$"
+    },
+    {
+      "en": "\"Yeah, do that.[lr]",
+      "jp": "「そうしろそうしろ。[lr]",
+      "Pt-br": "\"Sim, faça isso.[lr]",
+      "id": 9213,
+      "epk_id": "2741",
+      "label": "$$$message_0018_0005_0000$$$"
+    },
+    {
+      "en": "Sakura's out right now, but she'll probably show up after a while. You can wait for her here.\"[lr]",
+      "jp": "　桜は留守してるけど、しばらくすれば顔を出すだろうし。それまで居間で待ってようぜ」[lr]",
+      "Pt-br": "A Sakura não está no momento, mas ela provavelmente aparecerá depois de um tempo. Você pode esperar por ela aqui.\"[lr]",
+      "id": 9214,
+      "epk_id": "2742",
+      "label": "$$$message_0018_0005_0001$$$"
+    },
+    {
+      "en": "\"I told you, this doesn't involve her.[lr]",
+      "jp": "「桜は関係ないって言っただろ。[lr]",
+      "Pt-br": "\"Eu já te disse, isso não envolve ela.[lr]",
+      "id": 9215,
+      "epk_id": "2743",
+      "label": "$$$message_0018_0005_0002$$$"
+    },
+    {
+      "en": "Where's the living room, anyway? Your house is weirdly built and way too big.\"",
+      "jp": "　それより居間ってどこだよ。おまえの家、ヘンな造りの上にムダに広いってホントだな」",
+      "Pt-br": "Onde fica a sala de estar, a propósito? A sua casa tem uma construção esquisita e é grande demais.\"",
+      "id": 9216,
+      "epk_id": "2744",
+      "label": "$$$message_0018_0005_0003$$$"
+    },
+    {
+      "en": "\"Huh? Is this your first time in here?\"[lr]",
+      "jp": "「あれ？　もしかしてうちにあがるの初めてだっけ？」[lr]",
+      "Pt-br": "\"Hã? É a sua primeira vez aqui?\"[lr]",
+      "id": 9217,
+      "epk_id": "2745",
+      "label": "$$$message_0018_0006_0000$$$"
+    },
+    {
+      "en": "\"I've never been here before, so yeah. I was never interested in your house, Emiya.\"[lr]",
+      "jp": "「さあね。今まで来たコトがないし初めてなんじゃないの？　僕、衛宮の家に興味なかったし」[lr]",
+      "Pt-br": "\"Eu nunca estive aqui antes, então sim. Nunca me interessei pela sua casa, Emiya.\"[lr]",
+      "id": 9218,
+      "epk_id": "2746",
+      "label": "$$$message_0018_0006_0001$$$"
+    },
+    {
+      "en": "\"I bet. We always used to hang out at your house. I felt bad asking you to come over here.\"[lr]",
+      "jp": "「だよな。昔は間桐の家ばっかり溜まり場にしてたからなあ。悪いと思ってうちに誘うとなんでか嫌がったし」[lr]",
+      "Pt-br": "\"Imagino. Nós sempre costumávamos sair na sua casa. Eu me sentia mal em pedir para você vir aqui.\"[lr]",
+      "id": 9219,
+      "epk_id": "2747",
+      "label": "$$$message_0018_0006_0002$$$"
+    },
+    {
+      "en": "\"Obviously. Why would we have to come all the way out to these backwoods?[lr]",
+      "jp": "「当然だろ。なんだってわざわざこんな奥地で集まんなきゃならないんだよ。[lr]",
+      "Pt-br": "\"É óbvio. Por que nós teríamos que vir até este fim de mundo?[lr]",
+      "id": 9220,
+      "epk_id": "2748",
+      "label": "$$$message_0018_0006_0003$$$"
+    },
+    {
+      "en": "My house is closer to school.\"",
+      "jp": "　学校からだったらうちの方が近いじゃないか」",
+      "Pt-br": "A minha casa é mais perto da escola.\"",
+      "id": 9221,
+      "epk_id": "2749",
+      "label": "$$$message_0018_0006_0004$$$"
+    },
+    {
+      "en": "As you can see, Shinji has never been inside my house before.[lr]",
+      "jp": "　とまあ、そんなこんなで慎二が[ruby text=うち char=3]衛宮邸に来る事はなかったのである。[lr]",
+      "Pt-br": "Como você pode ver, o Shinji nunca esteve dentro da minha casa antes.[lr]",
+      "id": 9222,
+      "epk_id": "2750",
+      "label": "$$$message_0018_0007_0000$$$"
+    },
+    {
+      "en": "He came over to pick up Sakura once, but only came as far as the front door.",
+      "jp": "　一度桜を迎えに来たコトがあったが、あれは玄関までだったし。",
+      "Pt-br": "Ele veio buscar a Sakura uma vez, mas só chegou até a porta da frente.",
+      "id": 9223,
+      "epk_id": "2751",
+      "label": "$$$message_0018_0007_0001$$$"
+    },
+    {
+      "en": "\"Okay, this is the living room.[lr]",
+      "jp": "「はい、こっちが居間。[lr]",
+      "Pt-br": "\"Certo, aqui é a sala de estar.[lr]",
+      "id": 9224,
+      "epk_id": "2752",
+      "label": "$$$message_0018_0008_0000$$$"
+    },
+    {
+      "en": "The hallway earlier turns right to the dojo, and turns left to the guesthouse. Sakura uses one of the rooms there.\"[lr]",
+      "jp": "　さっきの廊下を右に曲がると道場に、左に曲がると離れの方に出る。桜の下宿部屋は離れの方だ」[lr]",
+      "Pt-br": "O corredor de antes vira à direita para o dojô, e à esquerda para a casa de hóspedes. A Sakura usa um dos quartos lá.\"[lr]",
+      "id": 9225,
+      "epk_id": "2753",
+      "label": "$$$message_0018_0008_0001$$$"
+    },
+    {
+      "en": "\"Huh. It's pretty far away.\"[lr]",
+      "jp": "「ふうん。随分と離れてるんだな」[lr]",
+      "Pt-br": "\"Huh. É bem longe.\"[lr]",
+      "id": 9226,
+      "epk_id": "2754",
+      "label": "$$$message_0018_0008_0002$$$"
+    },
+    {
+      "en": "\"That's what it took to get Fuji-nee's permission.[lr]",
+      "jp": "「藤ねえが許可するぐらいだからな。[lr]",
+      "Pt-br": "\"Foi isso que precisou para conseguir a permissão da Fuji-nee.[lr]",
+      "id": 9227,
+      "epk_id": "2755",
+      "label": "$$$message_0018_0008_0003$$$"
+    },
+    {
+      "en": "So, you feel like your little sister's in safer hands yet?\"",
+      "jp": "　どうだ、兄貴としちゃあ少しは安心できたか？」",
+      "Pt-br": "E então, já está sentindo que a sua irmãzinha está em mãos mais seguras?\"",
+      "id": 9228,
+      "epk_id": "2756",
+      "label": "$$$message_0018_0008_0004$$$"
+    },
+    {
+      "en": "\"How many times do you have to make me say it, Emiya? I don't care about Sakura.\"[lr]",
+      "jp": "「しつこいね衛宮。桜のコトはどうでもいいって何回言わせるんだよ」[lr]",
+      "Pt-br": "\"Quantas vezes você vai me fazer dizer isso, Emiya? Eu não ligo para a Sakura.\"[lr]",
+      "id": 9229,
+      "epk_id": "2757",
+      "label": "$$$message_0018_0009_0000$$$"
+    },
+    {
+      "en": "That said, I notice Shinji stealing glances in the direction of the guesthouse.[lr]",
+      "jp": "　言いつつ、離れの方をチラチラと盗み見る慎二。[lr]",
+      "Pt-br": "Dito isso, eu noto o Shinji dando umas olhadas de fininho na direção da casa de hóspedes.[lr]",
+      "id": 9230,
+      "epk_id": "2758",
+      "label": "$$$message_0018_0009_0001$$$"
+    },
+    {
+      "en": "He probably is curious about Sakura's recent living situation.",
+      "jp": "　やっぱり桜の近状が気になって様子見に来たんだろう。",
+      "Pt-br": "Ele provavelmente está curioso sobre a situação de moradia recente da Sakura.",
+      "id": 9231,
+      "epk_id": "2759",
+      "label": "$$$message_0018_0009_0002$$$"
+    },
+    {
+      "en": "\"Hey, do you want black or green tea?\"[lr]",
+      "jp": "「おーい。紅茶と緑茶、どっちがいいー？」[lr]",
+      "Pt-br": "\"Ei, você quer chá preto ou chá verde?\"[lr]",
+      "id": 9232,
+      "epk_id": "2760",
+      "label": "$$$message_0018_0010_0000$$$"
+    },
+    {
+      "en": "I call to him from the kitchen.",
+      "jp": "　台所から声をかける。",
+      "Pt-br": "Eu o chamo da cozinha.",
+      "id": 9233,
+      "epk_id": "2761",
+      "label": "$$$message_0018_0010_0001$$$"
+    },
+    {
+      "en": "\"Huh!? You drink black tea now, Emiya?\"[lr]",
+      "jp": "「え！？　なに、紅茶飲むようになったのか衛宮？」[lr]",
+      "Pt-br": "\"Hã!? Você toma chá preto agora, Emiya?\"[lr]",
+      "id": 9234,
+      "epk_id": "2762",
+      "label": "$$$message_0018_0011_0000$$$"
+    },
+    {
+      "en": "\"Is that a surprise? ...Well, the majority of the residents here prefer black tea, so I have to deal with it.[lr]",
+      "jp": "「驚くコトかよ。……まあ、住人の大半が紅茶党だからやむなくなんだけどな。[lr]",
+      "Pt-br": "\"Isso é uma surpresa? ...Bem, a maioria das residentes aqui preferem chá preto, então eu tenho que lidar com isso.[lr]",
+      "id": 9235,
+      "epk_id": "2763",
+      "label": "$$$message_0018_0011_0001$$$"
+    },
+    {
+      "en": "So which do you want?\"",
+      "jp": "　で、どっちがいいんだよ」",
+      "Pt-br": "Então qual dos dois você quer?\"",
+      "id": 9236,
+      "epk_id": "2764",
+      "label": "$$$message_0018_0011_0002$$$"
+    },
+    {
+      "en": "\"Hmm, I'm not interested in either.[lr]",
+      "jp": "「んー、どっちも趣味じゃないね。[lr]",
+      "Pt-br": "\"Hmm, eu não estou interessado em nenhum dos dois.[lr]",
+      "id": 9237,
+      "epk_id": "2765",
+      "label": "$$$message_0018_0012_0000$$$"
+    },
+    {
+      "en": "Anyway, where's your room? Let's go there first.\"[lr]",
+      "jp": "　それよりさ、衛宮の部屋ってどこだよ。先にそっちに行こうぜ」[lr]",
+      "Pt-br": "Enfim, cadê o seu quarto? Vamos lá primeiro.\"[lr]",
+      "id": 9238,
+      "epk_id": "2766",
+      "label": "$$$message_0018_0012_0001$$$"
+    },
+    {
+      "en": "Shinji's voice is lively for some reason.[lr]",
+      "jp": "　なぜか声が弾んでいる慎二。[lr]",
+      "Pt-br": "A voz do Shinji está animada por algum motivo.[lr]",
+      "id": 9239,
+      "epk_id": "2767",
+      "label": "$$$message_0018_0012_0002$$$"
+    },
+    {
+      "en": "...Hm. It's not like there's anything interesting in my room.",
+      "jp": "　……むう。別に、俺の部屋なんて面白くもなんともないんだが。",
+      "Pt-br": "...Hm. Também não tem nada de interessante no meu quarto.",
+      "id": 9240,
+      "epk_id": "2768",
+      "label": "$$$message_0018_0012_0003$$$"
+    },
+    {
+      "en": "\"It's right over there. Not as interesting as yours, though.\"[lr]",
+      "jp": "「すぐそこだけど。慎二の部屋ほど面白くはないぞ？」[lr]",
+      "Pt-br": "\"Fica logo ali. Não é tão interessante quanto o seu, no entanto.\"[lr]",
+      "id": 9241,
+      "epk_id": "2769",
+      "label": "$$$message_0018_0013_0000$$$"
+    },
+    {
+      "en": "\"I'll be the judge of that.[lr]",
+      "jp": "「そういうのは僕が判断するコトだろ。[lr]",
+      "Pt-br": "\"Eu serei o juiz disso.[lr]",
+      "id": 9242,
+      "epk_id": "2770",
+      "label": "$$$message_0018_0013_0001$$$"
+    },
+    {
+      "en": "Come on, hurry up and show me. I came all this way, so I should get a look at my friend's bedroom.\"[lr]",
+      "jp": "　ほら、早く案内しろよ。せっかく来たんだ、一度ぐらいは友人の部屋ってのを観察させろよな」[lr]",
+      "Pt-br": "Vamos lá, se apresse e me mostre. Eu vim de tão longe, então eu deveria dar uma olhada no quarto do meu amigo.\"[lr]",
+      "id": 9243,
+      "epk_id": "2771",
+      "label": "$$$message_0018_0013_0002$$$"
+    },
+    {
+      "en": "\"Sure. Don't complain later, though.\"",
+      "jp": "「いいけどさあ。後で文句言うなよ、慎二」",
+      "Pt-br": "\"Claro. Mas não vá reclamar depois.\"",
+      "id": 9244,
+      "epk_id": "2772",
+      "label": "$$$message_0018_0013_0003$$$"
+    },
+    {
+      "en": "\"Here?[lr]",
+      "jp": "「ここ？[lr]",
+      "Pt-br": "\"Aqui?[lr]",
+      "id": 9245,
+      "epk_id": "2773",
+      "label": "$$$message_0018_0014_0000$$$"
+    },
+    {
+      "en": "Cool! The innermost room of the house.\"[lr]",
+      "jp": "　へえ、屋敷の一番奥なんていい部屋じゃんか」[lr]",
+      "Pt-br": "Legal! O cômodo mais no fundo da casa.\"[lr]",
+      "id": 9246,
+      "epk_id": "2774",
+      "label": "$$$message_0018_0014_0001$$$"
+    },
+    {
+      "en": "\"Yeah, I guess. It has the best placement.\"",
+      "jp": "「まあな。間取りで言えば一番いい部屋だ」",
+      "Pt-br": "\"Sim, acho que sim. Tem o melhor posicionamento.\"",
+      "id": 9247,
+      "epk_id": "2775",
+      "label": "$$$message_0018_0014_0002$$$"
+    },
+    {
+      "en": "Shinji's eyes twinkle in anticipation.[lr]",
+      "jp": "　おお、と期待で顔を輝かせる慎二。[lr]",
+      "Pt-br": "Os olhos do Shinji brilham de antecipação.[lr]",
+      "id": 9248,
+      "epk_id": "2776",
+      "label": "$$$message_0018_0015_0000$$$"
+    },
+    {
+      "en": "But that smile does a complete 180...[lr]",
+      "jp": "　その満面の笑顔は、[lr]",
+      "Pt-br": "Mas esse sorriso dá um giro completo de 180...[lr]",
+      "id": 9249,
+      "epk_id": "2777",
+      "label": "$$$message_0018_0015_0001$$$"
+    },
+    {
+      "en": "...once I slide the door open.",
+      "jp": "　障子を開けた途端、正反対のものになった。",
+      "Pt-br": "...assim que eu abro a porta deslizante.",
+      "id": 9250,
+      "epk_id": "2778",
+      "label": "$$$message_0018_0015_0002$$$"
+    },
+    {
+      "en": "\"What the hell? There's nothing here.\"[lr]",
+      "jp": "「なにこれ。なんもないじゃん」[lr]",
+      "Pt-br": "\"Que diabos? Não tem nada aqui.\"[lr]",
+      "id": 9251,
+      "epk_id": "2779",
+      "label": "$$$message_0018_0016_0000$$$"
+    },
+    {
+      "en": "\"There isn't [font italic=true]nothing[font italic=false].[lr]",
+      "jp": "「何もないってコトはないだろ。[lr]",
+      "Pt-br": "\"Não tem [font italic=true]nada[font italic=false].[lr]",
+      "id": 9252,
+      "epk_id": "2780",
+      "label": "$$$message_0018_0016_0001$$$"
+    },
+    {
+      "en": "I have a desk and a seat cushion. There's a small [font italic=true]bookshelf[font italic=false] in the corner, too.\"[lr]",
+      "jp": "　机と座布団、あと隅に小さいけど本棚がある」[lr]",
+      "Pt-br": "Eu tenho uma escrivaninha e uma almofada de assento. Tem uma pequena [font italic=true]estante de livros[font italic=false] no canto também.\"[lr]",
+      "id": 9253,
+      "epk_id": "2781",
+      "label": "$$$message_0018_0016_0002$$$"
+    },
+    {
+      "en": "I place extra emphasis on the bookshelf.[lr]",
+      "jp": "　特に本棚を強調する。[lr]",
+      "Pt-br": "Eu dou uma ênfase extra na estante de livros.[lr]",
+      "id": 9254,
+      "epk_id": "2782",
+      "label": "$$$message_0018_0016_0003$$$"
+    },
+    {
+      "en": "It's a piece of furniture I bought recently specifically to store the literature I've received from Rider.",
+      "jp": "　最近、ライダーから貰った文庫本を収納する為に新調した自慢の家具なのだ。",
+      "Pt-br": "É um móvel que comprei recentemente, especificamente para guardar a literatura que venho recebendo da Rider.",
+      "id": 9255,
+      "epk_id": "2783",
+      "label": "$$$message_0018_0016_0004$$$"
+    },
+    {
+      "en": "\"The living room was better. Damn, you're as boring as ever, Emiya.\"[lr]",
+      "jp": "「さっきの居間のがマシ。ったくさ、予想通りにつまんないヤツだね衛宮は」[lr]",
+      "Pt-br": "\"A sala de estar era melhor. Droga, você continua sem graça como sempre, Emiya.\"[lr]",
+      "id": 9256,
+      "epk_id": "2784",
+      "label": "$$$message_0018_0017_0000$$$"
+    },
+    {
+      "en": "After grumbling and doing a quick tour of my room, Shinji heads back to the living room.",
+      "jp": "　などと悪態をつきつつも、一通り部屋の中を見て回った後、慎二は居間に足を向けた。",
+      "Pt-br": "Depois de resmungar e fazer um rápido tour pelo meu quarto, Shinji volta para a sala de estar.",
+      "id": 9257,
+      "epk_id": "2785",
+      "label": "$$$message_0018_0017_0001$$$"
+    },
+    {
+      "en": "\"So, what're you having, Shinji?\"[lr]",
+      "jp": "「で。どっちにするんだっけ、慎二」[lr]",
+      "Pt-br": "\"Então, o que vai ser, Shinji?\"[lr]",
+      "id": 9258,
+      "epk_id": "2786",
+      "label": "$$$message_0018_0018_0000$$$"
+    },
+    {
+      "en": "\"Coffee, with milk and two spoons of sugar.\"[lr]",
+      "jp": "「珈琲。砂糖二杯にミルク入れる」[lr]",
+      "Pt-br": "\"Café, com leite e duas colheres de açúcar.\"[lr]",
+      "id": 9259,
+      "epk_id": "2787",
+      "label": "$$$message_0018_0018_0001$$$"
+    },
+    {
+      "en": "\"I only have normal cow's milk, though.\"[lr]",
+      "jp": "「ミルクって言っても普通の牛乳しかないぞー」[lr]",
+      "Pt-br": "\"Eu só tenho leite de vaca normal, porém.\"[lr]",
+      "id": 9260,
+      "epk_id": "2788",
+      "label": "$$$message_0018_0018_0002$$$"
+    },
+    {
+      "en": "\"Cow's milk is fine. It's still better than powdered creamer.[lr]",
+      "jp": "「いいじゃん牛乳。クリーポより上等だよ。[lr]",
+      "Pt-br": "\"Leite de vaca tá bom. Ainda é melhor do que aquele creamer em pó.[lr]",
+      "id": 9261,
+      "epk_id": "2789",
+      "label": "$$$message_0018_0018_0003$$$"
+    },
+    {
+      "en": "Ah, I don't need any snacks. Don't bother.\"[lr]",
+      "jp": "　あ、お菓子はいらないからな。ヘンに気を遣うなよ」[lr]",
+      "Pt-br": "Ah, e eu não preciso de nenhum lanchinho. Não se incomode com isso.\"[lr]",
+      "id": 9262,
+      "epk_id": "2790",
+      "label": "$$$message_0018_0018_0004$$$"
+    },
+    {
+      "en": "\"I appreciate that. The snack situation in this house is pretty strict.\"",
+      "jp": "「それは助かる。我が家のお茶菓子事情はわりと厳しいんだ」",
+      "Pt-br": "\"Eu agradeço por isso. A situação dos lanches nesta casa é bem rigorosa.\"",
+      "id": 9263,
+      "epk_id": "2791",
+      "label": "$$$message_0018_0018_0005$$$"
+    },
+    {
+      "en": "I brew coffee for two and return to the living room.[lr]",
+      "jp": "　二人分の珈琲を煎れて居間に戻る。[lr]",
+      "Pt-br": "Preparo café para dois e retorno à sala de estar.[lr]",
+      "id": 9264,
+      "epk_id": "2792",
+      "label": "$$$message_0018_0019_0000$$$"
+    },
+    {
+      "en": "Shinji's sitting there, looking unhappy.",
+      "jp": "　慎二は不機嫌そうに居間に腰を下ろしている。",
+      "Pt-br": "Shinji está sentado ali, com uma expressão descontente.",
+      "id": 9265,
+      "epk_id": "2793",
+      "label": "$$$message_0018_0019_0001$$$"
+    },
+    {
+      "en": "\"...Hmph. You can serve black tea and even coffee now.[lr]",
+      "jp": "「……ふん。紅茶も出れば珈琲も出るのか。[lr]",
+      "Pt-br": "\"...Hmph. Você agora sabe servir chá preto e até café.[lr]",
+      "id": 9266,
+      "epk_id": "2794",
+      "label": "$$$message_0018_0020_0000$$$"
+    },
+    {
+      "en": "You've changed, Emiya. Broadened your horizons lately.\"[lr]",
+      "jp": "　変わったよね衛宮、ここんとこ趣味広がったじゃん」[lr]",
+      "Pt-br": "Você mudou, Emiya. Ampliou os seus horizontes ultimamente.\"[lr]",
+      "id": 9267,
+      "epk_id": "2795",
+      "label": "$$$message_0018_0020_0001$$$"
+    },
+    {
+      "en": "\"I've always had black tea and coffee.[lr]",
+      "jp": "「紅茶も珈琲も昔っから飲むぞ。[lr]",
+      "Pt-br": "\"Eu sempre tive chá preto e café.[lr]",
+      "id": 9268,
+      "epk_id": "2796",
+      "label": "$$$message_0018_0020_0002$$$"
+    },
+    {
+      "en": "I just prefer Japanese tea. I've always liked both, though.\"[lr]",
+      "jp": "　単に日本茶びいきだっただけだ。元々どっちも好きだったんだよ、俺は」[lr]",
+      "Pt-br": "É só que eu prefiro chá japonês. Mas sempre gostei de ambos.\"[lr]",
+      "id": 9269,
+      "epk_id": "2797",
+      "label": "$$$message_0018_0020_0003$$$"
+    },
+    {
+      "en": "\"Huh. So you weren't just copying Ryudou.\"",
+      "jp": "「へえ。柳洞に合わせてたんじゃなかったんだ」",
+      "Pt-br": "\"Huh. Então você não estava só imitando o Ryuudou.\"",
+      "id": 9270,
+      "epk_id": "2798",
+      "label": "$$$message_0018_0020_0004$$$"
+    },
+    {
+      "en": "\"Actually, I wanted to ask you something.[lr]",
+      "jp": "「それよりさ。[lr]",
+      "Pt-br": "\"Na verdade, eu queria te perguntar uma coisa.[lr]",
+      "id": 9271,
+      "epk_id": "2799",
+      "label": "$$$message_0018_0021_0000$$$"
+    },
+    {
+      "en": "I heard you haven't been going to the kyudo club lately. Sakura's sad about it.\"[lr]",
+      "jp": "　おまえ、最近弓道部に出てないんだって？　桜が残念がってたぞ」[lr]",
+      "Pt-br": "Eu ouvi dizer que você não tem ido ao Clube de Arco e Flecha ultimamente. A Sakura está triste com isso.\"[lr]",
+      "id": 9272,
+      "epk_id": "2800",
+      "label": "$$$message_0018_0021_0001$$$"
+    },
+    {
+      "en": "\"Why would I? Don't lump me in with Mitsuzuri.[lr]",
+      "jp": "「出るわけないだろ、美綴と一緒にするなよな。[lr]",
+      "Pt-br": "\"E por que eu iria? Não me compare com a Mitsuzuri.[lr]",
+      "id": 9273,
+      "epk_id": "2801",
+      "label": "$$$message_0018_0021_0002$$$"
+    },
+    {
+      "en": "We're already halfway into our third year. I don't have time to be messing with clubs all day.\"[lr]",
+      "jp": "　僕たちもう三年の秋だぜ？　いつまでも部活なんてやってられるかよ」[lr]",
+      "Pt-br": "Nós já estamos na metade do nosso terceiro ano. Não tenho tempo para ficar mexendo com clubes o dia todo.\"[lr]",
+      "id": 9274,
+      "epk_id": "2802",
+      "label": "$$$message_0018_0021_0003$$$"
+    },
+    {
+      "en": "\"Why not? You could help Sakura.[lr]",
+      "jp": "「なんでさ。桜のフォローとかしてやればいいのに。[lr]",
+      "Pt-br": "\"E por que não? Você poderia ajudar a Sakura.[lr]",
+      "id": 9275,
+      "epk_id": "2803",
+      "label": "$$$message_0018_0021_0004$$$"
+    },
+    {
+      "en": "You don't really have a problem with her becoming captain, right?\"",
+      "jp": "　別に、桜が部長になった事に文句はないんだろ？」",
+      "Pt-br": "Você não tem nenhum problema com o fato de ela ter se tornado a capitã, certo?\"",
+      "id": 9276,
+      "epk_id": "2804",
+      "label": "$$$message_0018_0021_0005$$$"
+    },
+    {
+      "en": "\"It might help her to have some responsibility.[lr]",
+      "jp": "「ま、少しは責任持つのもいいんじゃないの？[lr]",
+      "Pt-br": "\"Pode ser que ajude ela ter alguma responsabilidade.[lr]",
+      "id": 9277,
+      "epk_id": "2805",
+      "label": "$$$message_0018_0022_0000$$$"
+    },
+    {
+      "en": "Sakura's got Mitsuzuri looking out for her, and that's enough.[lr]",
+      "jp": "　桜のお[ruby text=も]守りは美綴だけで充分だよ。[lr]",
+      "Pt-br": "A Sakura já tem a Mitsuzuri cuidando dela, e isso já é o suficiente.[lr]",
+      "id": 9278,
+      "epk_id": "2806",
+      "label": "$$$message_0018_0022_0001$$$"
+    },
+    {
+      "en": "I'm not the only one who should show his face at the club. They've always been happier to see you than me. The fall tournament's coming up, too.\"",
+      "jp": "　それに弓道部に出ろってのは僕だけの話じゃない。僕よりおまえの方が喜ばれるんじゃないのか。秋大会も近いしさ」",
+      "Pt-br": "Eu não sou o único que deveria dar as caras no clube. Eles sempre ficavam mais felizes em te ver do que a mim. O torneio de outono está chegando também.\"",
+      "id": 9279,
+      "epk_id": "2807",
+      "label": "$$$message_0018_0022_0002$$$"
+    },
+    {
+      "en": "\"That's not true. I visit sometimes, sure, but I can't pick up a bow for the club anymore.[lr]",
+      "jp": "「んなコトないだろ。顔を出すぐらいならいいけど、いまさら部活で弓は持てない。[lr]",
+      "Pt-br": "\"Isso não é verdade. Eu visito às vezes, claro, mas não posso mais pegar num arco pelo clube.[lr]",
+      "id": 9280,
+      "epk_id": "2808",
+      "label": "$$$message_0018_0023_0000$$$"
+    },
+    {
+      "en": "It would be rude to everyone who's been there for three whole years for some occasional visitor to pick up a bow.\"[lr]",
+      "jp": "　三年間やり通した部員の横で、たまに来るヤツが弓を持つのは失礼じゃんか」[lr]",
+      "Pt-br": "Seria falta de respeito com todos que estiveram lá por três anos inteiros que um mero visitante de vez em quando pegasse num arco.\"[lr]",
+      "id": 9281,
+      "epk_id": "2809",
+      "label": "$$$message_0018_0023_0001$$$"
+    },
+    {
+      "en": "\"[font italic=true]What?[font italic=false] You're as soft as ever, man. Someone who's actually good doesn't need to fuss over stuff like that.[lr]",
+      "jp": "「はあ？　相変わらず緩いなおまえ。上手いヤツはそんなの気にしなくていいんだよ。[lr]",
+      "Pt-br": "\"[font italic=true]O quê?[font italic=false] Você continua mole como sempre, cara. Quem é bom mesmo não precisa se preocupar com esse tipo de coisa.[lr]",
+      "id": 9282,
+      "epk_id": "2810",
+      "label": "$$$message_0018_0023_0002$$$"
+    },
+    {
+      "en": "There isn't anyone there as good as you, so don't worry about what the incompetent whiners think.\"",
+      "jp": "　衛宮は弓ぐらいしか取り柄がないんだから、下手な連中のやっかみなんて気にするなよな」",
+      "Pt-br": "Não tem ninguém lá tão bom quanto você, então não se preocupe com o que os molengas incompetentes pensam.\"",
+      "id": 9283,
+      "epk_id": "2811",
+      "label": "$$$message_0018_0023_0003$$$"
+    },
+    {
+      "en": "\"Well, thanks for that. But what about you, then?[lr]",
+      "jp": "「そりゃどうも。けど、そういうならおまえこそどうなんだよ。[lr]",
+      "Pt-br": "\"Bem, obrigado por isso. Mas e quanto a você, então?[lr]",
+      "id": 9284,
+      "epk_id": "2812",
+      "label": "$$$message_0018_0024_0000$$$"
+    },
+    {
+      "en": "You're actually a good archer, and I don't mean that as flattery.[lr]",
+      "jp": "　お世辞抜きで上手いだろ慎二は。[lr]",
+      "Pt-br": "Você também é um bom arqueiro na verdade, e não estou falando isso para te elogiar.[lr]",
+      "id": 9285,
+      "epk_id": "2813",
+      "label": "$$$message_0018_0024_0001$$$"
+    },
+    {
+      "en": "It isn't too late for you to get some practice in before the tournament and make a good showing.\"",
+      "jp": "　今からでも遅くはない。大会に向けて絞り込めば、きっといい結果を残せるぞ」",
+      "Pt-br": "Ainda não é tarde para você praticar antes do torneio e se sair bem.\"",
+      "id": 9286,
+      "epk_id": "2814",
+      "label": "$$$message_0018_0024_0002$$$"
+    },
+    {
+      "en": "\"No thanks. Kyudo doesn't mean that much to me.[lr]",
+      "jp": "「お断りだね、弓道に執着はないよ。[lr]",
+      "Pt-br": "\"Não, valeu. Arquearia não significa tanto assim para mim.[lr]",
+      "id": 9287,
+      "epk_id": "2815",
+      "label": "$$$message_0018_0025_0000$$$"
+    },
+    {
+      "en": "I've graduated from it. It was just a way to kill time, that's all.\"[lr]",
+      "jp": "　あんなのはもう卒業だ。僕にとっちゃあ暇潰しだったんだよ、暇潰し」[lr]",
+      "Pt-br": "Eu já graduei nisso. Era só um jeito de matar o tempo, só isso.\"[lr]",
+      "id": 9288,
+      "epk_id": "2816",
+      "label": "$$$message_0018_0025_0001$$$"
+    },
+    {
+      "en": "\"What a waste. You're a natural at it.\"",
+      "jp": "「勿体ない。せっかく天性があるのに」",
+      "Pt-br": "\"Que desperdício. Você tem um dom natural para isso.\"",
+      "id": 9289,
+      "epk_id": "2817",
+      "label": "$$$message_0018_0025_0002$$$"
+    },
+    {
+      "en": "\"Ha! Your way of thinking is gravely flawed.[lr]",
+      "jp": "「はん、それが何よりの間違いだね。[lr]",
+      "Pt-br": "\"Ha! A sua forma de pensar é gravemente falha.[lr]",
+      "id": 9290,
+      "epk_id": "2818",
+      "label": "$$$message_0018_0026_0000$$$"
+    },
+    {
+      "en": "I don't need to excel at any one art. That's a job for dissatisfied people.[lr]",
+      "jp": "　別にね、僕は一芸に秀でる必要なんかないんだ。そういうのは足りないヤツの仕事じゃんか。[lr]",
+      "Pt-br": "Eu não preciso me destacar em nenhuma arte específica. Isso é trabalho para os insatisfeitos.[lr]",
+      "id": 9291,
+      "epk_id": "2819",
+      "label": "$$$message_0018_0026_0001$$$"
+    },
+    {
+      "en": "The plebs who work hard to try to polish some individual quality or skill they have are pathetic. Someone who's actually fulfilled in life doesn't need to do something like that.\"",
+      "jp": "　見苦しいよね、凡人ほど自分だけの特色なんてものを鍛えたがる。本当に足りてる人間っていうのはさ、とりわけ何をする必要もないワケさ」",
+      "Pt-br": "A plebe que trabalha duro para tentar polir alguma qualidade ou habilidade individual é patética. Alguém que é de fato realizado na vida não precisa fazer algo assim.\"",
+      "id": 9292,
+      "epk_id": "2820",
+      "label": "$$$message_0018_0026_0002$$$"
+    },
+    {
+      "en": "\"And how does Tohsaka fit into that worldview?[lr]",
+      "jp": "「ほほう。その言でいくと遠坂あたりはどんな扱いになるんだ？[lr]",
+      "Pt-br": "\"E como a Tohsaka se encaixa nessa visão de mundo?[lr]",
+      "id": 9293,
+      "epk_id": "2821",
+      "label": "$$$message_0018_0027_0000$$$"
+    },
+    {
+      "en": "She can do anything, but she also tries to better herself at everything.\"[lr]",
+      "jp": "　ほら、あいつは何でもできるけど、同じぐらい何でも鍛えたがるだろ」[lr]",
+      "Pt-br": "Ela sabe fazer de tudo, mas também tenta sempre se aperfeiçoar em tudo.\"[lr]",
+      "id": 9294,
+      "epk_id": "2822",
+      "label": "$$$message_0018_0027_0001$$$"
+    },
+    {
+      "en": "\"She's poor on an inborn level that nothing on this planet will ever fix.[lr]",
+      "jp": "「あれは天性の貧乏性だよ。つける薬がない。[lr]",
+      "Pt-br": "\"Ela tem uma falha inata e nada no mundo conseguirá corrigir.[lr]",
+      "id": 9295,
+      "epk_id": "2823",
+      "label": "$$$message_0018_0027_0002$$$"
+    },
+    {
+      "en": "Everything comes easy to her, but she still chooses to suffer.\"",
+      "jp": "　何もしなけりゃ左うちわなのにさ、好きで苦労してるんだから」",
+      "Pt-br": "Tudo vem fácil para ela, mas ela ainda assim prefere sofrer.\"",
+      "id": 9296,
+      "epk_id": "2824",
+      "label": "$$$message_0018_0027_0003$$$"
+    },
+    {
+      "en": "\"...That feels right on the mark. Sharp eye, Shinji.\"[lr]",
+      "jp": "「……的を射ているような。鋭いな、慎二」[lr]",
+      "Pt-br": "\"...Isso parece bem certeiro. Olhar aguçado, Shinji.\"[lr]",
+      "id": 9297,
+      "epk_id": "2825",
+      "label": "$$$message_0018_0028_0000$$$"
+    },
+    {
+      "en": "\"Duh. I've been watching Tohsaka for a long time. I've got the edge on analyzing her.\"",
+      "jp": "「当然だろ。遠坂を見てた時間は僕のが長いんだ。分析はこっちに分がある」",
+      "Pt-br": "\"Duh. Eu já observo a Tohsaka há muito tempo. Eu tenho vantagem em analisar ela.\"",
+      "id": 9298,
+      "epk_id": "2826",
+      "label": "$$$message_0018_0028_0001$$$"
+    },
+    {
+      "en": "Shinji downs the rest of his cup of coffee.[lr]",
+      "jp": "　ぐい、と珈琲を飲み干す慎二。[lr]",
+      "Pt-br": "Shinji toma o resto de sua xícara de café.[lr]",
+      "id": 9299,
+      "epk_id": "2827",
+      "label": "$$$message_0018_0029_0000$$$"
+    },
+    {
+      "en": "After a moment of philosophical indifference...[lr]",
+      "jp": "　どこか達観したような淡泊さの後、[lr]",
+      "Pt-br": "Após um momento de indiferença filosófica...[lr]",
+      "id": 9300,
+      "epk_id": "2828",
+      "label": "$$$message_0018_0029_0001$$$"
+    },
+    {
+      "en": "\"Hey, I'll have another.[lr]",
+      "jp": "「おい、おかわりだよ。[lr]",
+      "Pt-br": "\"Ei, eu vou querer outro.[lr]",
+      "id": 9301,
+      "epk_id": "2829",
+      "label": "$$$message_0018_0029_0002$$$"
+    },
+    {
+      "en": "The coffee here's pretty good.\"[lr]",
+      "jp": "　美味しいじゃんか、ここの珈琲」[lr]",
+      "Pt-br": "O café daqui até que é gostosinho.\"[lr]",
+      "id": 9302,
+      "epk_id": "2830",
+      "label": "$$$message_0018_0029_0003$$$"
+    },
+    {
+      "en": "...he haughtily thrusts his coffee mug at me.",
+      "jp": "　ほら、と[ruby text=おうへい char=2]横柄に珈琲カップを差し出すのだった。",
+      "Pt-br": "...ele arrogantemente estende a sua xícara de café na minha direção.",
+      "id": 9303,
+      "epk_id": "2831",
+      "label": "$$$message_0018_0029_0004$$$"
+    },
+    {
+      "en": "Our meandering conversation continues.[lr]",
+      "jp": "　とりとめのない会話は続く。[lr]",
+      "Pt-br": "A nossa conversa sinuosa continua.[lr]",
+      "id": 9304,
+      "epk_id": "2832",
+      "label": "$$$message_0018_0030_0000$$$"
+    },
+    {
+      "en": "We're both on our fourth cup of coffee now.[lr]",
+      "jp": "　珈琲のおかわりはお互い三杯目。[lr]",
+      "Pt-br": "Nós dois já estamos na nossa quarta xícara de café agora.[lr]",
+      "id": 9305,
+      "epk_id": "2833",
+      "label": "$$$message_0018_0030_0001$$$"
+    },
+    {
+      "en": "Shinji updates me on his recent life, such as how incompetent his more experienced coworkers are at the new part-time job he started recently, and how old-fashioned they do things there.",
+      "jp": "　慎二は最近バイトを始めたらしく、やれ先輩が使えないだの、やれ体制が古くさいだのと、近状を明らかにする。",
+      "Pt-br": "Shinji me atualiza sobre a sua vida recente, como o quão incompetentes os seus colegas de trabalho mais experientes são no novo emprego de meio período que ele começou recentemente, e o quão antiquadas são as coisas por lá.",
+      "id": 9306,
+      "epk_id": "2834",
+      "label": "$$$message_0018_0030_0002$$$"
+    },
+    {
+      "en": "If I didn't know the context, I'd call it a bunch of whining, but I'm actually aware of the reputation Shinji's workplace has.[lr]",
+      "jp": "　事情を知らなければ一方的な文句にすぎないのだが、幸い、慎二の勤め先の飲食店がどんな評判なのかは聞いていた。[lr]",
+      "Pt-br": "Se eu não soubesse o contexto, eu diria que isso não passa de um monte de reclamações, mas estou de fato ciente da reputação que o local de trabalho do Shinji tem.[lr]",
+      "id": 9307,
+      "epk_id": "2835",
+      "label": "$$$message_0018_0031_0000$$$"
+    },
+    {
+      "en": "According to Neko, ever since an unfriendly new employee started working at Kitamura Chaya, their quality has gone up and their prices have gone down.",
+      "jp": "　ネコさん経由の話だが、[ruby text=きたむらちゃや char=5]喜多邑茶家は愛想のない新人が入った代わりに、味が良くなって安くなっているとかなんとか。",
+      "Pt-br": "Segundo a Neko-san, desde que um novo funcionário antipático começou a trabalhar na Kitamura Chaya, a qualidade deles aumentou e os preços baixaram.",
+      "id": 9308,
+      "epk_id": "2836",
+      "label": "$$$message_0018_0031_0001$$$"
+    },
+    {
+      "en": "\"I'm surprised you got a job, though.\"[lr]",
+      "jp": "「けど驚いたな。慎二がバイトするなんて」[lr]",
+      "Pt-br": "\"Mas eu estou surpreso que você arranjou um emprego.\"[lr]",
+      "id": 9309,
+      "epk_id": "2837",
+      "label": "$$$message_0018_0032_0000$$$"
+    },
+    {
+      "en": "Tohsaka's said that the Matou family is quite well-off.[lr]",
+      "jp": "　遠坂の話では、間桐家はたいした資産家だとか。[lr]",
+      "Pt-br": "A Tohsaka disse que a família Matou é bem de vida.[lr]",
+      "id": 9310,
+      "epk_id": "2838",
+      "label": "$$$message_0018_0032_0001$$$"
+    },
+    {
+      "en": "Old Zouken is sitting on a hefty retirement fund.",
+      "jp": "　臓硯の爺さんはああ見えてお金持ちのご隠居なのである。",
+      "Pt-br": "O velho Zouken tem um fundo de pensão muito robusto.",
+      "id": 9311,
+      "epk_id": "2839",
+      "label": "$$$message_0018_0032_0002$$$"
+    },
+    {
+      "en": "\"I'm just doing it as a change of pace.[lr]",
+      "jp": "「ちょっとした気晴らしだよ。[lr]",
+      "Pt-br": "\"Só estou fazendo isso para mudar de ares.[lr]",
+      "id": 9312,
+      "epk_id": "2840",
+      "label": "$$$message_0018_0033_0000$$$"
+    },
+    {
+      "en": "...I'll need my own source of income once I graduate, though. I can't count on my savings, so I'd better earn some money while I can.\"[lr]",
+      "jp": "　……まあ、卒業後に自分の金が必要だしね。貯金だけじゃ心もとないんで、今の内に稼いでおこうと思って」[lr]",
+      "Pt-br": "...De qualquer forma, vou precisar da minha própria fonte de renda quando me formar. Não posso contar com as minhas economias, então é melhor eu ganhar algum dinheiro enquanto posso.\"[lr]",
+      "id": 9313,
+      "epk_id": "2841",
+      "label": "$$$message_0018_0033_0001$$$"
+    },
+    {
+      "en": "\"Huh...? Are you leaving home once you graduate?\"",
+      "jp": "「え……？　卒業後って、慎二、家を出るのか？」",
+      "Pt-br": "\"Hã...? Você vai sair de casa quando se formar?\"",
+      "id": 9314,
+      "epk_id": "2842",
+      "label": "$$$message_0018_0033_0002$$$"
+    },
+    {
+      "en": "\"Not really, but if I do leave, I'd be an idiot to be broke when I do.[lr]",
+      "jp": "「別に。いざ出る時に金がないんじゃバカみたいだろ。[lr]",
+      "Pt-br": "\"Não exatamente, mas se eu for, eu seria um idiota se saísse de lá sem um tostão.[lr]",
+      "id": 9315,
+      "epk_id": "2843",
+      "label": "$$$message_0018_0034_0000$$$"
+    },
+    {
+      "en": "...Still, I'm about 80% leaning towards moving to Tokyo.\"[lr]",
+      "jp": "　……でもまあ、八割は上京する方に傾いてるかな」[lr]",
+      "Pt-br": "...Mesmo assim, estou cerca de 80% inclinado a me mudar para Tóquio.\"[lr]",
+      "id": 9316,
+      "epk_id": "2844",
+      "label": "$$$message_0018_0034_0001$$$"
+    },
+    {
+      "en": "\"...\"",
+      "jp": "「[line len=6]」",
+      "Pt-br": "\"...\"",
+      "id": 9317,
+      "epk_id": "2845",
+      "label": "$$$message_0018_0034_0002$$$"
+    },
+    {
+      "en": "Another surprise.[lr]",
+      "jp": "　続けて驚かされる。[lr]",
+      "Pt-br": "Outra surpresa.[lr]",
+      "id": 9318,
+      "epk_id": "2846",
+      "label": "$$$message_0018_0035_0000$$$"
+    },
+    {
+      "en": "Shinji's leaving... That's more significant than the typical young adult moving out.[lr]",
+      "jp": "　慎二が家を出る……それは普通の一人暮らしとは訳が違う。[lr]",
+      "Pt-br": "O Shinji ir embora... Isso é mais significativo do que um típico jovem adulto sair de casa.[lr]",
+      "id": 9319,
+      "epk_id": "2847",
+      "label": "$$$message_0018_0035_0001$$$"
+    },
+    {
+      "en": "The Matous are a lineage of mages.[lr]",
+      "jp": "　間桐は魔術師の家柄だ。[lr]",
+      "Pt-br": "Os Matou são uma linhagem de magos.[lr]",
+      "id": 9320,
+      "epk_id": "2848",
+      "label": "$$$message_0018_0035_0002$$$"
+    },
+    {
+      "en": "Even if Shinji, or the entire family, lacks the aptitude for magecraft, I still wouldn't expect him to leave, knowing what he knows.[lr]",
+      "jp": "　慎二、いや間桐の人間に魔術師としての適性が失われていても、その歴史を知るのならおいそれと家を出る、なんて言葉は出ない。[lr]",
+      "Pt-br": "Mesmo que o Shinji, ou a família inteira, não tenha aptidão para a magia, eu ainda assim não esperaria que ele fosse embora, sabendo o que ele sabe.[lr]",
+      "id": 9321,
+      "epk_id": "2849",
+      "label": "$$$message_0018_0035_0003$$$"
+    },
+    {
+      "en": "If he were to leave, that would mean that...",
+      "jp": "　出るとしたら、それは[line len=3]",
+      "Pt-br": "Se ele fosse embora, isso significaria que...",
+      "id": 9322,
+      "epk_id": "2850",
+      "label": "$$$message_0018_0035_0004$$$"
+    },
+    {
+      "en": "\"Shinji, wouldn't that mean that you'd be cutting ties with the Matous?\"[lr]",
+      "jp": "「慎二。それは間桐と縁を切るってコトか？」[lr]",
+      "Pt-br": "\"Shinji, isso não significaria que você estaria cortando os seus laços com os Matou?\"[lr]",
+      "id": 9323,
+      "epk_id": "2851",
+      "label": "$$$message_0018_0036_0000$$$"
+    },
+    {
+      "en": "\"If I tell Grandpa, that's probably what'll happen.[lr]",
+      "jp": "「爺さんに言わせればそうなるだろうね。[lr]",
+      "Pt-br": "\"Se eu contar ao Vovô, é provável que seja isso o que vai acontecer.[lr]",
+      "id": 9324,
+      "epk_id": "2852",
+      "label": "$$$message_0018_0036_0001$$$"
+    },
+    {
+      "en": "...My father had a little brother, actually. When he left home and moved somewhere else, he was as good as disowned. That's what it means to leave Fuyuki.\"",
+      "jp": "　……僕の父親には弟がいてね。そいつは家を出てどこぞに引っ越したらしいんだけど、それっきり勘当扱いだし。冬木市を離れるってコトはそういうコトさ」",
+      "Pt-br": "...O meu pai tinha um irmão mais novo, na verdade. Quando ele saiu de casa e se mudou para outro lugar, foi como se tivesse sido deserdado. É isso que significa deixar Fuyuki.\"",
+      "id": 9325,
+      "epk_id": "2853",
+      "label": "$$$message_0018_0036_0002$$$"
+    },
+    {
+      "en": "\"...I see. And Sakura?\"[lr]",
+      "jp": "「……そうか。桜には？」[lr]",
+      "Pt-br": "\"...Entendo. E a Sakura?\"[lr]",
+      "id": 9326,
+      "epk_id": "2854",
+      "label": "$$$message_0018_0037_0000$$$"
+    },
+    {
+      "en": "\"I already told her. I told her to think hard about her future, too.[lr]",
+      "jp": "「言ってあるよ。身の振り方を考えろってね。[lr]",
+      "Pt-br": "\"Eu já disse a ela. Falei para ela pensar bastante no próprio futuro também.[lr]",
+      "id": 9327,
+      "epk_id": "2855",
+      "label": "$$$message_0018_0037_0001$$$"
+    },
+    {
+      "en": "If I leave home, then the Matou are finished. There won't be anyone left to inherit the family legacy, so she'll have to leave, too.\"",
+      "jp": "　僕が家を出たら間桐はそれまでなんだ。跡を継ぐ者がいないんだから、あいつも家を出るしかないだろ」",
+      "Pt-br": "Se eu sair de casa, os Matou estão acabados. Não vai restar mais ninguém para herdar o legado da família, então ela terá que ir embora também.\"",
+      "id": 9328,
+      "epk_id": "2856",
+      "label": "$$$message_0018_0037_0002$$$"
+    },
+    {
+      "en": "\"Shinji...\"[lr]",
+      "jp": "「[line len=3]慎二」[lr]",
+      "Pt-br": "\"Shinji...\"[lr]",
+      "id": 9329,
+      "epk_id": "2857",
+      "label": "$$$message_0018_0038_0000$$$"
+    },
+    {
+      "en": "\"What? I'm just stating the facts.[lr]",
+      "jp": "「なんだよ、当然の話だろ。[lr]",
+      "Pt-br": "\"O quê? Eu só estou dizendo os fatos.[lr]",
+      "id": 9330,
+      "epk_id": "2858",
+      "label": "$$$message_0018_0038_0001$$$"
+    },
+    {
+      "en": "Oh, just so you know, the family inheritance is mine.[lr]",
+      "jp": "　あ、言っとくけど間桐家の財産は僕んだからな。[lr]",
+      "Pt-br": "Ah, e só para você saber, a herança da família é minha.[lr]",
+      "id": 9331,
+      "epk_id": "2859",
+      "label": "$$$message_0018_0038_0002$$$"
+    },
+    {
+      "en": "I'm coming back to claim it once Grandpa kicks the bucket, so I told Sakura not to waste it.\"",
+      "jp": "　爺さんがくたばったら受け取りに帰ってくるから、桜には無駄遣いするなって言っとけよな」",
+      "Pt-br": "Eu voltarei para reivindicá-la assim que o Vovô bater as botas, então eu disse à Sakura para não gastar à toa.\"",
+      "id": 9332,
+      "epk_id": "2860",
+      "label": "$$$message_0018_0038_0003$$$"
+    },
+    {
+      "en": "Even though I've known Shinji for five years, I still can't tell if he's bluffing or genuinely concerned for Sakura.[lr]",
+      "jp": "　それが強がりなのか、桜への心遣いなのか、五年間付き合ってきた俺にも判断がつかない。[lr]",
+      "Pt-br": "Embora eu conheça o Shinji há cinco anos, ainda não consigo dizer se ele está blefando ou se está genuinamente preocupado com a Sakura.[lr]",
+      "id": 9333,
+      "epk_id": "2861",
+      "label": "$$$message_0018_0039_0000$$$"
+    },
+    {
+      "en": "...Still, he's making the best choice for Sakura, in his own way.",
+      "jp": "　……ただ、慎二はいつも通りの口調で、桜にとって最良の選択を口にした。",
+      "Pt-br": "...Ainda assim, ele está fazendo a melhor escolha para a Sakura, da maneira dele.",
+      "id": 9334,
+      "epk_id": "2862",
+      "label": "$$$message_0018_0039_0001$$$"
+    },
+    {
+      "en": "\"Anyway. You and I are actually going to graduate together for the second time.[lr]",
+      "jp": "「しかしなんだね。まさか衛宮と二度も卒業の話をするとはね。[lr]",
+      "Pt-br": "\"Enfim. Na verdade, você e eu vamos nos formar juntos pela segunda vez.[lr]",
+      "id": 9335,
+      "epk_id": "2863",
+      "label": "$$$message_0018_0040_0000$$$"
+    },
+    {
+      "en": "Back when I met you, I didn't think we'd know each other for this long.\"[lr]",
+      "jp": "　知り合った頃は、ここまで長続きするとは思ってなかったけど」[lr]",
+      "Pt-br": "Quando te conheci, não achei que fôssemos nos conhecer por tanto tempo.\"[lr]",
+      "id": 9336,
+      "epk_id": "2864",
+      "label": "$$$message_0018_0040_0001$$$"
+    },
+    {
+      "en": "\"Yeah. Thinking about it, we didn't really have any common interests. We spent more time chatting about random stuff than actually going out anywhere.\"",
+      "jp": "「そうだな。考えてみると、俺たちあんまり趣味あわなかったし。遊びに行くよりこうして無駄話をする時のが多かった」",
+      "Pt-br": "\"É. Parando para pensar nisso, nós não tínhamos nenhum interesse em comum. Nós passávamos mais tempo batendo papo sobre coisas aleatórias do que saindo para qualquer lugar.\"",
+      "id": 9337,
+      "epk_id": "2865",
+      "label": "$$$message_0018_0040_0002$$$"
+    },
+    {
+      "en": "\"Going places with you would've been boring anyway.[lr]",
+      "jp": "「衛宮と遊びに行ってもつまんなかったからね。[lr]",
+      "Pt-br": "\"Sair com você teria sido chato de qualquer forma.[lr]",
+      "id": 9338,
+      "epk_id": "2866",
+      "label": "$$$message_0018_0041_0000$$$"
+    },
+    {
+      "en": "I only spent time with you when I didn't have anything else to do.\"[lr]",
+      "jp": "　他に予定がない時だけ衛宮に付き合ってやってたワケ」[lr]",
+      "Pt-br": "Eu só passava tempo com você quando não tinha mais nada para fazer.\"[lr]",
+      "id": 9339,
+      "epk_id": "2867",
+      "label": "$$$message_0018_0041_0001$$$"
+    },
+    {
+      "en": "\"You're actually saying that? I jumped in to help you in fights probably ten, no, twenty times.[lr]",
+      "jp": "「よく言ったもんだ。慎二のケンカに加勢したの、十や二十じゃきかないだろ。[lr]",
+      "Pt-br": "\"Você está mesmo dizendo isso? Eu entrei para te ajudar em brigas umas dez, não, umas vinte vezes.[lr]",
+      "id": 9340,
+      "epk_id": "2868",
+      "label": "$$$message_0018_0041_0002$$$"
+    },
+    {
+      "en": "You were always getting into it with the older guys at our usual meetup place after school.\"",
+      "jp": "　放課後、おまえとの待ち合わせ場所に行ったら上級生にアヤつけられたのなんてザラだったじゃんか」",
+      "Pt-br": "Você vivia se metendo em confusão com os caras mais velhos no nosso ponto de encontro habitual depois da escola.\"",
+      "id": 9341,
+      "epk_id": "2869",
+      "label": "$$$message_0018_0041_0003$$$"
+    },
+    {
+      "en": "\"That wasn't just about me. They went after me because of you, too.[lr]",
+      "jp": "「ありゃ僕だけじゃない。目をつけられてたのは衛宮のせいじゃないか。[lr]",
+      "Pt-br": "\"Isso não era só por minha causa. Eles vieram atrás de mim por sua causa também.[lr]",
+      "id": 9342,
+      "epk_id": "2870",
+      "label": "$$$message_0018_0042_0000$$$"
+    },
+    {
+      "en": "I stand out wherever I go, so there's nothing I can do about that, but when we were kids, it was easy for busybodies like you to make enemies.\"",
+      "jp": "　僕はどこでも目立つからしょうがないとしてもさ、ガキの頃は衛宮みたいな出しゃばりは敵を作りやすかったんだよ」",
+      "Pt-br": "Eu me destaco em qualquer lugar que eu vá, então não há nada que eu possa fazer em relação a isso, mas quando éramos crianças, era fácil para intrometidos como você fazerem inimigos.\"",
+      "id": 9343,
+      "epk_id": "2871",
+      "label": "$$$message_0018_0042_0001$$$"
+    },
+    {
+      "en": "...I do feel that he's right, now that he mentions it.[lr]",
+      "jp": "　……まあ、言われてみればそんな気もする。[lr]",
+      "Pt-br": "...Eu sinto que ele está certo, agora que ele mencionou.[lr]",
+      "id": 9344,
+      "epk_id": "2872",
+      "label": "$$$message_0018_0043_0000$$$"
+    },
+    {
+      "en": "I think back to five years ago.[lr]",
+      "jp": "　思い起こせば五年前。[lr]",
+      "Pt-br": "Eu me lembro de cinco anos atrás.[lr]",
+      "id": 9345,
+      "epk_id": "2873",
+      "label": "$$$message_0018_0043_0001$$$"
+    },
+    {
+      "en": "I first got to know Shinji Matou just about the same time of the year as right now.",
+      "jp": "　ちょうど今頃の季節に、俺は間桐慎二と知り合うコトになったのだ。",
+      "Pt-br": "Eu conheci o Matou Shinji nessa mesma época do ano em que estamos agora.",
+      "id": 9346,
+      "epk_id": "2874",
+      "label": "$$$message_0018_0043_0002$$$"
+    },
+    {
+      "en": "One day after school, we were getting ready for the cultural festival happening the next day.[lr]",
+      "jp": "　文化祭を明日に控えた放課後。[lr]",
+      "Pt-br": "Um dia depois da escola, nós estávamos nos preparando para o festival cultural que iria acontecer no dia seguinte.[lr]",
+      "id": 9347,
+      "epk_id": "2875",
+      "label": "$$$message_0018_0044_0000$$$"
+    },
+    {
+      "en": "One first-year was surrounded by several third-years.[lr]",
+      "jp": "　一人の一年生が何人かの三年生に囲まれていた。[lr]",
+      "Pt-br": "Um aluno do primeiro ano foi cercado por vários alunos do terceiro ano.[lr]",
+      "id": 9348,
+      "epk_id": "2876",
+      "label": "$$$message_0018_0044_0001$$$"
+    },
+    {
+      "en": "They were giving him a hard time for making a sign that was different from their design.[lr]",
+      "jp": "　なんでも自分たちの設計とは違う看板を作ったとかでつるし上げをくらっていたのだ。[lr]",
+      "Pt-br": "Eles estavam pegando no pé dele por ele ter feito uma placa que estava diferente do design que eles queriam.[lr]",
+      "id": 9349,
+      "epk_id": "2877",
+      "label": "$$$message_0018_0044_0002$$$"
+    },
+    {
+      "en": "...I knew that the first-year had spent days making the sign on his own, while the third-years didn't lift a hand to help.[lr]",
+      "jp": "　……その一年生が何日も残って一人で看板を組み上げた事は知っていたし、三年生たちが何もしていなかった事も知っていた。[lr]",
+      "Pt-br": "...Eu sabia que o aluno do primeiro ano tinha passado dias fazendo a placa por conta própria, enquanto os do terceiro não mexeram um dedo para ajudar.[lr]",
+      "id": 9350,
+      "epk_id": "2878",
+      "label": "$$$message_0018_0044_0003$$$"
+    },
+    {
+      "en": "I ended up throwing my two cents in and got real worked up about it.",
+      "jp": "　だからつい、間に入ってタンカを切ってしまったのだ。",
+      "Pt-br": "Eu acabei dando os meus pitacos e fiquei muito irritado com a situação.",
+      "id": 9351,
+      "epk_id": "2879",
+      "label": "$$$message_0018_0044_0004$$$"
+    },
+    {
+      "en": "\"Shut up. In that case, why don't you remake it by yourself by tomorrow?\"[lr]",
+      "jp": "“うぜえなあ。それならさ、明日までにおまえ一人で作り直せよ”[lr]",
+      "Pt-br": "\"Cala a boca. Neste caso, por que não a refaz sozinho até amanhã?\"[lr]",
+      "id": 9352,
+      "epk_id": "2880",
+      "label": "$$$message_0018_0045_0000$$$"
+    },
+    {
+      "en": "The third-years said they'd overlook the first-year's failure on that condition.[lr]",
+      "jp": "　それで一年生の失敗は手打ちにしてやる、というのが三年生たちの言い分だった。[lr]",
+      "Pt-br": "Os alunos do terceiro ano disseram que fariam vista grossa ao fracasso do primeiro anista mediante a essa condição.[lr]",
+      "id": 9353,
+      "epk_id": "2881",
+      "label": "$$$message_0018_0045_0001$$$"
+    },
+    {
+      "en": "Tit for tat, so to speak.[lr]",
+      "jp": "　売り言葉に買い言葉というヤツだ。[lr]",
+      "Pt-br": "Olho por olho, dente por dente, por assim dizer.[lr]",
+      "id": 9354,
+      "epk_id": "2882",
+      "label": "$$$message_0018_0045_0002$$$"
+    },
+    {
+      "en": "I took the bait and stayed up all night by myself making a new sign.",
+      "jp": "　俺は無茶な挑発に乗って、一人で夜通し看板を作り直す事になった。",
+      "Pt-br": "Eu engoli a isca e fiquei acordado a noite toda sozinho fazendo uma nova placa.",
+      "id": 9355,
+      "epk_id": "2883",
+      "label": "$$$message_0018_0045_0003$$$"
+    },
+    {
+      "en": "There was another kid in my year who watched me from start to finish.[lr]",
+      "jp": "　その時、一部始終様子を見ていた同級生がいた。[lr]",
+      "Pt-br": "Havia outro garoto da minha série que me assistiu do início ao fim.[lr]",
+      "id": 9356,
+      "epk_id": "2884",
+      "label": "$$$message_0018_0046_0000$$$"
+    },
+    {
+      "en": "He watched me as I stayed behind, making fun of me the entire time, never leaving me alone.",
+      "jp": "　そいつは俺が居残って作業をしているのを茶化しながら眺め、結局、最後までその場を離れなかった。",
+      "Pt-br": "Ele me assistiu enquanto eu ficava para trás, zombando de mim o tempo todo, nunca me deixando sozinho.",
+      "id": 9357,
+      "epk_id": "2885",
+      "label": "$$$message_0018_0046_0001$$$"
+    },
+    {
+      "en": "All he said was,[lr]",
+      "jp": "　さんざん、[lr]",
+      "Pt-br": "Tudo o que ele dizia era,[lr]",
+      "id": 9358,
+      "epk_id": "2886",
+      "label": "$$$message_0018_0047_0000$$$"
+    },
+    {
+      "en": "\"You're an idiot. You could've just said nothing.\"[lr]",
+      "jp": "「おまえ馬鹿だろ。あんなの黙ってればいいのにさ」[lr]",
+      "Pt-br": "\"Você é um idiota. Você poderia só não ter dito nada.\"[lr]",
+      "id": 9359,
+      "epk_id": "2887",
+      "label": "$$$message_0018_0047_0001$$$"
+    },
+    {
+      "en": "and,[lr]",
+      "jp": "　だの、[lr]",
+      "Pt-br": "e,[lr]",
+      "id": 9360,
+      "epk_id": "2888",
+      "label": "$$$message_0018_0047_0002$$$"
+    },
+    {
+      "en": "\"Don't you get that they're taking advantage of you?[lr]",
+      "jp": "「いいように使われてるって分かってる？[lr]",
+      "Pt-br": "\"Você não percebe que eles estão se aproveitando de você?[lr]",
+      "id": 9361,
+      "epk_id": "2889",
+      "label": "$$$message_0018_0047_0003$$$"
+    },
+    {
+      "en": "The dumbass third-years and the first-year that thanked you already forgot about you and went home.\"[lr]",
+      "jp": "　アタマの足りない三年も、さっきまで礼を言ってた一年もさ、とっくに帰って忘れてるっていうのにさ」[lr]",
+      "Pt-br": "Os babacas do terceiro ano e do primeiro ano que te agradeceram já se esqueceram de você e foram para casa.\"[lr]",
+      "id": 9362,
+      "epk_id": "2890",
+      "label": "$$$message_0018_0047_0004$$$"
+    },
+    {
+      "en": "And so forth. He didn't stop me, but he kept nagging me.",
+      "jp": "　だの、止めはしないものの邪魔をしまくってくれた。",
+      "Pt-br": "E assim por diante. Ele não me impediu, mas ficou reclamando na minha orelha.",
+      "id": 9363,
+      "epk_id": "2891",
+      "label": "$$$message_0018_0047_0005$$$"
+    },
+    {
+      "en": "Then, the next morning,[lr]",
+      "jp": "　そうして朝方。[lr]",
+      "Pt-br": "Daí, na manhã seguinte,[lr]",
+      "id": 9364,
+      "epk_id": "2892",
+      "label": "$$$message_0018_0048_0000$$$"
+    },
+    {
+      "en": "when I finished the sign according to the third-years' specifications...[lr]",
+      "jp": "　三年の設計図通りに完成した看板を見てそいつは、[lr]",
+      "Pt-br": "quando terminei a placa de acordo com as especificações do terceiro ano...[lr]",
+      "id": 9365,
+      "epk_id": "2893",
+      "label": "$$$message_0018_0048_0001$$$"
+    },
+    {
+      "en": "\"Huh. You're stupid, but that's good work.\"[lr]",
+      "jp": "「ふーん。おまえ馬鹿だけど、いい仕事するじゃん」[lr]",
+      "Pt-br": "\"Huh. Você é burro, mas isso foi um bom trabalho.\"[lr]",
+      "id": 9366,
+      "epk_id": "2894",
+      "label": "$$$message_0018_0048_0002$$$"
+    },
+    {
+      "en": "He laughed, as pleased and proud as if he'd made the sign himself.",
+      "jp": "　まるで自分が看板を作ったように胸を張って、愉快そうに笑ったのだ。",
+      "Pt-br": "Ele sorriu, tão satisfeito e orgulhoso como se ele mesmo a tivesse feito.",
+      "id": 9367,
+      "epk_id": "2895",
+      "label": "$$$message_0018_0048_0003$$$"
+    },
+    {
+      "en": "...That's how I met Shinji Matou.[lr]",
+      "jp": "　……それがこいつ、間桐慎二との馴れ初めだ。[lr]",
+      "Pt-br": "...Foi assim que conheci o Matou Shinji.[lr]",
+      "id": 9368,
+      "epk_id": "2896",
+      "label": "$$$message_0018_0049_0000$$$"
+    },
+    {
+      "en": "Our relationship continued until we graduated middle school and as we entered the same high school, but we started to drift apart once I joined the kyudo club.",
+      "jp": "　以来、卒業するまで腐れ縁は続き、進学してからも交友は続いたものの、俺が弓道を始めてから徐々に疎遠になっていった。",
+      "Pt-br": "O nosso relacionamento durou até nos formarmos no ensino fundamental e entrarmos no mesmo ensino médio, mas começamos a nos distanciar depois que me juntei ao Clube de Arco e Flecha.",
+      "id": 9369,
+      "epk_id": "2897",
+      "label": "$$$message_0018_0049_0001$$$"
+    },
+    {
+      "en": "...The event that resolved our falling-out happened half a year ago.[lr]",
+      "jp": "　……疎遠になった原因である棘が取れたのは半年前の事だ。[lr]",
+      "Pt-br": "...O evento que resolveu o nosso desentendimento aconteceu há meio ano.[lr]",
+      "id": 9370,
+      "epk_id": "2898",
+      "label": "$$$message_0018_0050_0000$$$"
+    },
+    {
+      "en": "We didn't quite return to the way we were five years ago, but the fact we can make small talk again means that we've begun to bury the hatchet.",
+      "jp": "　その時にはもう五年前のようにはいかなくなっていたが、こうして世間話をするぐらいには、元の鞘に収まりつつある。",
+      "Pt-br": "Ainda não voltamos exatamente ao que éramos há cinco anos, mas já conseguirmos jogar conversa fora de novo significa que começamos a enterrar o machado.",
+      "id": 9371,
+      "epk_id": "2899",
+      "label": "$$$message_0018_0050_0001$$$"
+    },
+    {
+      "en": "The clock rings three o'clock.[lr]",
+      "jp": "　三時の鐘が鳴る。[lr]",
+      "Pt-br": "O relógio bate três horas.[lr]",
+      "id": 9372,
+      "epk_id": "2900",
+      "label": "$$$message_0018_0051_0000$$$"
+    },
+    {
+      "en": "Shinji finishes his fourth cup of coffee and stands up.",
+      "jp": "　慎二は三杯目の珈琲を飲み終えて腰を上げる。",
+      "Pt-br": "O Shinji termina a sua quarta xícara de café e se levanta.",
+      "id": 9373,
+      "epk_id": "2901",
+      "label": "$$$message_0018_0051_0001$$$"
+    },
+    {
+      "en": "\"It's already this late, huh? I've got an appointment to keep, so I'm leaving.[lr]",
+      "jp": "「もうこんな時間か。待ち合わせがあるんで帰る。[lr]",
+      "Pt-br": "\"Já é tão tarde, hã? Eu tenho um compromisso a cumprir, então estou indo.[lr]",
+      "id": 9374,
+      "epk_id": "2902",
+      "label": "$$$message_0018_0052_0000$$$"
+    },
+    {
+      "en": "...Also, don't get any funny ideas about me showing up here today.\"[lr]",
+      "jp": "　……あと、今日寄ったのはついでだからな。ヘンな勘違いするなよな」[lr]",
+      "Pt-br": "...E também, não crie ideias estranhas de eu ter vindo aqui hoje.\"[lr]",
+      "id": 9375,
+      "epk_id": "2903",
+      "label": "$$$message_0018_0052_0001$$$"
+    },
+    {
+      "en": "\"Sure thing. Are you sure, though? Sakura should be back soon.\"",
+      "jp": "「あいよ。けどいいのか？　もう少ししたら桜もやってくるのに」",
+      "Pt-br": "\"Pode deixar. Mas tem certeza? Sakura deve voltar logo.\"",
+      "id": 9376,
+      "epk_id": "2904",
+      "label": "$$$message_0018_0052_0002$$$"
+    },
+    {
+      "en": "\"It's fine. I don't like noise.[lr]",
+      "jp": "「いいんだよ。騒がしいのは好きじゃない。[lr]",
+      "Pt-br": "\"Tudo bem. Eu não gosto de barulho.[lr]",
+      "id": 9377,
+      "epk_id": "2905",
+      "label": "$$$message_0018_0053_0000$$$"
+    },
+    {
+      "en": "Just imagining everyone else being here makes me feel sick.\"",
+      "jp": "　ここの連中が集まってるのなんて、想像しただけで気持ち悪い」",
+      "Pt-br": "Só de imaginar todo mundo aqui, já fico enjoado.\"",
+      "id": 9378,
+      "epk_id": "2906",
+      "label": "$$$message_0018_0053_0001$$$"
+    },
+    {
+      "en": "I watch my friend of five years leave.[lr]",
+      "jp": "　五年越しの来客を見送る。[lr]",
+      "Pt-br": "Eu vejo o meu amigo de cinco anos partir.[lr]",
+      "id": 9379,
+      "epk_id": "2907",
+      "label": "$$$message_0018_0054_0000$$$"
+    },
+    {
+      "en": "\"Oh, yeah[line len=2]I don't expect you to get a computer, but you should at least put a TV in your room.[lr]",
+      "jp": "「そうそう。パソコンとまでは言わないけどさ、テレビの一つぐらいは部屋に置いておくんだね。[lr]",
+      "Pt-br": "\"Ah, é[line len=2]eu não espero que você consiga um computador, mas você deveria pelo menos colocar uma TV no seu quarto.[lr]",
+      "id": 9380,
+      "epk_id": "2908",
+      "label": "$$$message_0018_0054_0001$$$"
+    },
+    {
+      "en": "Just because you're a mage doesn't mean you have to live in the bronze age.\"[lr]",
+      "jp": "　魔術師だからって時代遅れも甚だしいぜ」[lr]",
+      "Pt-br": "Só porque você é um mago, isso não significa que você precise viver na idade do bronze.\"[lr]",
+      "id": 9381,
+      "epk_id": "2909",
+      "label": "$$$message_0018_0054_0002$$$"
+    },
+    {
+      "en": "Shinji leaves me with that biting remark.",
+      "jp": "　いつもの憎まれ口を残して慎二は去っていった。",
+      "Pt-br": "O Shinji me deixa com aquele comentário mordaz.",
+      "id": 9382,
+      "epk_id": "2910",
+      "label": "$$$message_0018_0054_0003$$$"
+    },
+    {
+      "en": "However...[lr]",
+      "jp": "　しかし。[lr]",
+      "Pt-br": "No entanto...[lr]",
+      "id": 9383,
+      "epk_id": "2911",
+      "label": "$$$message_0018_0055_0000$$$"
+    },
+    {
+      "en": "While I'm much obliged for his suggestion, I actually do have a computer or two in the shed.[lr]",
+      "jp": "　せっかくの忠告いたみいるのだが、パソコンの一つや二つなら土蔵にあったりしたのだった。[lr]",
+      "Pt-br": "Embora eu agradeça a sua sugestão, eu na verdade tenho um ou dois computadores lá no galpão.[lr]",
+      "id": 9384,
+      "epk_id": "2912",
+      "label": "$$$message_0018_0055_0001$$$"
+    },
+    {
+      "en": "\"Hmm...\"[lr]",
+      "jp": "「……うーむ……」[lr]",
+      "Pt-br": "\"Hmm...\"[lr]",
+      "id": 9385,
+      "epk_id": "2913",
+      "label": "$$$message_0018_0055_0002$$$"
+    },
+    {
+      "en": "Maybe I should've corrected Shinji's mistake and told him how relatively high-tech my house is...",
+      "jp": "　慎二の勘違いを正す為、わりとハイテクな我が家の事情を伝えるべきだったかな……。",
+      "Pt-br": "Talvez eu devesse ter corrigido o erro do Shinji e lhe dito o quão relativamente avançada a minha casa é tecnologicamente...",
+      "id": 9386,
+      "epk_id": "2914",
+      "label": "$$$message_0018_0055_0003$$$"
+    },
+    {
+      "en": "\"Hey. Don't see you around every day. Are you here to check on Sakura?\"[r]",
+      "jp": "「よう。珍しいな、[r]桜の様子を見に来たのか？」",
+      "Pt-br": "\"E aí. Não vejo você por aqui todo dia. Você veio checar a Sakura?\"[r]",
+      "id": 9387,
+      "epk_id": "902736",
+      "label": "$$$message_9018_0003_0000$$$"
+    }
+  ]
+}

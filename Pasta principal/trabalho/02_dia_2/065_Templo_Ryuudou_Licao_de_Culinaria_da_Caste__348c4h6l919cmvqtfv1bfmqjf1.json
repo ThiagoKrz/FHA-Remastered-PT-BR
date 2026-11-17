@@ -1,0 +1,792 @@
+{
+  "cena": "348c4h6l919cmvqtfv1bfmqjf1",
+  "titulo": "Templo Ryuudou: Lição de Culinária da Caster",
+  "rota": "Dia 2",
+  "arquivo": "348c4h6l919cmvqtfv1bfmqjf1.epk_dec",
+  "linhas": [
+    {
+      "en": "\"...What are you doing, Emiya?\"[lr]",
+      "jp": "「[line len=3]何をしているんだ、衛宮」[lr]",
+      "Pt-br": "\"...O que você está fazendo, Emiya?\"[lr]",
+      "id": 9955,
+      "epk_id": "6236",
+      "label": "$$$message_0044_0000_0000$$$"
+    },
+    {
+      "en": "\"Cleaning the floor, as you can see.\"[lr]",
+      "jp": "「いや、見ての通り雑巾がけだけど」[lr]",
+      "Pt-br": "\"Limpando o chão, como você pode ver.\"[lr]",
+      "id": 9956,
+      "epk_id": "6237",
+      "label": "$$$message_0044_0000_0001$$$"
+    },
+    {
+      "en": "I wring the rag, which releases a stream of dirty water into the bucket.",
+      "jp": "　ぎゅーと雑巾を絞ると、黒ずんだ水がバケツに滴り落ちる。",
+      "Pt-br": "Eu torço o pano, que solta um fluxo de água suja no balde.",
+      "id": 9957,
+      "epk_id": "6238",
+      "label": "$$$message_0044_0000_0002$$$"
+    },
+    {
+      "en": "\"I know that, but... I don't quite understand why you're cleaning our temple.\"[lr]",
+      "jp": "「いや、それは分かるが……なぜ衛宮がうちのお堂の雑巾がけをしているのか、今ひとつ理解が出来ないのだが」[lr]",
+      "Pt-br": "\"Eu sei disso, mas... Eu não entendo muito bem por que você está limpando o nosso templo.\"[lr]",
+      "id": 9958,
+      "epk_id": "6239",
+      "label": "$$$message_0044_0001_0000$$$"
+    },
+    {
+      "en": "\"Oh, that.\"",
+      "jp": "「ああ、それは」",
+      "Pt-br": "\"Ah, isso.\"",
+      "id": 9959,
+      "epk_id": "6240",
+      "label": "$$$message_0044_0001_0001$$$"
+    },
+    {
+      "en": "I was exercising earlier, going up and down the temple's stone steps to strengthen muscles I don't normally use.[lr]",
+      "jp": "　体力作りの一環として、普段は使わない筋肉も使おうと石段の上り下りをしていた所に。[lr]",
+      "Pt-br": "Eu estava me exercitando mais cedo, subindo e descendo os degraus de pedra do templo para fortalecer os músculos que eu normalmente não uso.[lr]",
+      "id": 9960,
+      "epk_id": "6241",
+      "label": "$$$message_0044_0002_0000$$$"
+    },
+    {
+      "en": "And Issei's older brother showed up.[lr]",
+      "jp": "　一成のお兄さんが来て。[lr]",
+      "Pt-br": "E o Nii-san do Issei apareceu.[lr]",
+      "id": 9961,
+      "epk_id": "6242",
+      "label": "$$$message_0044_0002_0001$$$"
+    },
+    {
+      "en": "\"Hey there, Shirou. How goes it?\"[lr]",
+      "jp": "「おう士郎くん。掃除などいかがかな？」[lr]",
+      "Pt-br": "\"E aí, Shirou-kun. Como estão as coisas?\"[lr]",
+      "id": 9962,
+      "epk_id": "6243",
+      "label": "$$$message_0044_0002_0002$$$"
+    },
+    {
+      "en": "Reikan agreed with my desire to keep my body strong, and asked me to help clean the temple.",
+      "jp": "　体を鍛えるのならば目的意識を持つべきだ、という事で寺の掃除をお願いされ。",
+      "Pt-br": "O Reikan concordou com o meu desejo de manter o meu corpo forte e me pediu para ajudar a limpar o templo.",
+      "id": 9963,
+      "epk_id": "6244",
+      "label": "$$$message_0044_0002_0003$$$"
+    },
+    {
+      "en": "I was led through the mountain gate, giving Assassin a slight bow as I passed his usual guard post.",
+      "jp": "　山門にいつものように居たアサシンと軽く会釈をかわして境内へ。",
+      "Pt-br": "Eu fui conduzido através do portão da montanha, fazendo uma leve reverência para o Assassin ao passar pelo seu posto de guarda habitual.",
+      "id": 9964,
+      "epk_id": "6245",
+      "label": "$$$message_0044_0003_0000$$$"
+    },
+    {
+      "en": "Just when I thought Reikan might have me sweep leaves in the yard, he led me further into the temple, and...",
+      "jp": "　てっきり落ち葉の掃き掃除でもするのかと思ったら、そのまま堂内に連れて行かれて。",
+      "Pt-br": "Logo quando pensei que o Reikan poderia me mandar varrer as folhas do pátio, ele me levou mais fundo para dentro do templo, e...",
+      "id": 9965,
+      "epk_id": "6246",
+      "label": "$$$message_0044_0004_0000$$$"
+    },
+    {
+      "en": "\"And that's when he asked me to clean the temple floor.\"[lr]",
+      "jp": "「こうして、お堂の雑巾がけを任されたんだ」[lr]",
+      "Pt-br": "\"E foi aí que ele me pediu para limpar o chão do templo.\"[lr]",
+      "id": 9966,
+      "epk_id": "6247",
+      "label": "$$$message_0044_0005_0000$$$"
+    },
+    {
+      "en": "\"Why didn't you say no?\"[lr]",
+      "jp": "「なぜ断らなかったのだ」[lr]",
+      "Pt-br": "\"Por que você não disse não?\"[lr]",
+      "id": 9967,
+      "epk_id": "6248",
+      "label": "$$$message_0044_0005_0001$$$"
+    },
+    {
+      "en": "\"Because you guys always help me out, too. It's actually pretty fun, by the way.\"[lr]",
+      "jp": "「普段お世話になってるからな。それに堂内の雑巾がけ、けっこう楽しいぞ」[lr]",
+      "Pt-br": "\"Porque vocês também sempre me ajudam. Por falar nisso, na verdade, é bem divertido.\"[lr]",
+      "id": 9968,
+      "epk_id": "6249",
+      "label": "$$$message_0044_0005_0002$$$"
+    },
+    {
+      "en": "Issei sighs.[lr]",
+      "jp": "　ほう、と息をはく一成。[lr]",
+      "Pt-br": "O Issei suspira.[lr]",
+      "id": 9969,
+      "epk_id": "6250",
+      "label": "$$$message_0044_0005_0003$$$"
+    },
+    {
+      "en": "Is he fed up with me? I'm not sure, actually.",
+      "jp": "　呆れている……のかどうか、ちょっと分かりづらい。",
+      "Pt-br": "Ele está farto de mim? Não tenho certeza, na verdade.",
+      "id": 9970,
+      "epk_id": "6251",
+      "label": "$$$message_0044_0005_0004$$$"
+    },
+    {
+      "en": "\"I know this doesn't mean much from me, since I'm always asking you to run errands for the student council...\"[lr]",
+      "jp": "「いや。生徒会の事で散々頼っている俺が言える事ではないか[line len=3]」[lr]",
+      "Pt-br": "\"Sei que isso não significa muito vindo de mim, já que estou sempre te pedindo para fazer tarefas para o conselho estudantil...\"[lr]",
+      "id": 9971,
+      "epk_id": "6252",
+      "label": "$$$message_0044_0006_0000$$$"
+    },
+    {
+      "en": "It really was just a sigh.",
+      "jp": "　結局、結論は溜息で出たようだ。",
+      "Pt-br": "Foi só um suspiro, mesmo.",
+      "id": 9972,
+      "epk_id": "6253",
+      "label": "$$$message_0044_0006_0001$$$"
+    },
+    {
+      "en": "\"But if they ask, you'll even clean your friend's house?\"[lr]",
+      "jp": "「しかし、頼まれればおまえは友人宅の掃除まで引き受けるというのか？」[lr]",
+      "Pt-br": "\"Mas, se te pedirem, você limparia até a casa de um amigo?\"[lr]",
+      "id": 9973,
+      "epk_id": "6254",
+      "label": "$$$message_0044_0007_0000$$$"
+    },
+    {
+      "en": "\"That depends. I cleaned Tohsaka's place before...\"[lr]",
+      "jp": "「場合によるけどな。前も遠坂の家の掃除とかもしてきたし[line len=3]」[lr]",
+      "Pt-br": "\"Depende. Eu já limpei a casa da Tohsaka antes...\"[lr]",
+      "id": 9974,
+      "epk_id": "6255",
+      "label": "$$$message_0044_0007_0001$$$"
+    },
+    {
+      "en": "When I mention that she gave me a spare key, Issei looks utterly despondent.[lr]",
+      "jp": "　留守中に鍵も預かってたしな[line len=3]と、一成の落胆がさらに深いものになっている。[lr]",
+      "Pt-br": "Quando menciono que ela me deu uma chave reserva, o Issei parece totalmente desanimado.[lr]",
+      "id": 9975,
+      "epk_id": "6256",
+      "label": "$$$message_0044_0007_0002$$$"
+    },
+    {
+      "en": "\"What's wrong?\"",
+      "jp": "「どうした？」",
+      "Pt-br": "\"Qual o problema?\"",
+      "id": 9976,
+      "epk_id": "6257",
+      "label": "$$$message_0044_0007_0003$$$"
+    },
+    {
+      "en": "\"No, I'm just...more dizzy than upset, finding out that not only did Tohsaka push that kind of work onto you, she's actually asked you more than once...\"",
+      "jp": "「いや……衛宮にそのような仕事まで押し付ける遠坂に対する怒りよりも、結果的に遠坂と同じ事を頼んでいるという現状にやや眩暈をな……」",
+      "Pt-br": "\"Não, eu só estou... mais tonto do que chateado por descobrir que a Tohsaka não apenas empurrou esse tipo de trabalho para você, mas também te pediu para fazer isso mais de uma vez...\"",
+      "id": 9977,
+      "epk_id": "6258",
+      "label": "$$$message_0044_0008_0000$$$"
+    },
+    {
+      "en": "I'm Tohsaka's magecraft apprentice, though. Cleaning my mentor's house just comes with the territory.[lr]",
+      "jp": "　とはいえ、遠坂は今や俺の師匠な訳だから、師匠の家を掃除するのも仕事の一つだ。[lr]",
+      "Pt-br": "Eu sou aprendiz de Magia da Tohsaka, contudo. Limpar a casa da minha mentora é simplesmente parte do trabalho.[lr]",
+      "id": 9978,
+      "epk_id": "6259",
+      "label": "$$$message_0044_0009_0000$$$"
+    },
+    {
+      "en": "Cleaning up your own messes isn't just logical, it's important.",
+      "jp": "　遊んだら片付ける理論というか。これ重要。",
+      "Pt-br": "Limpar as suas próprias bagunças não é só lógico, mas também importante.",
+      "id": 9979,
+      "epk_id": "6260",
+      "label": "$$$message_0044_0009_0001$$$"
+    },
+    {
+      "en": "\"Pardon me. Reikan asked me to bring Emiya some refreshments...but make sure to wash your hands before you partake.\"[lr]",
+      "jp": "「失礼する。[ruby text=れいかん char=2]零観から衛宮に差し入れだが……一休みする前に、手を洗ってくる方が先だな」[lr]",
+      "Pt-br": "\"Com licença. O Reikan me pediu para trazer um lanche para o Emiya... Mas certifique-se de lavar as mãos antes de comer.\"[lr]",
+      "id": 9980,
+      "epk_id": "6261",
+      "label": "$$$message_0044_0010_0000$$$"
+    },
+    {
+      "en": "Mr. Kuzuki appears holding a tray.[lr]",
+      "jp": "　お盆を持った葛木先生がやってきた。[lr]",
+      "Pt-br": "O Kuzuki-sensei aparece segurando uma bandeja.[lr]",
+      "id": 9981,
+      "epk_id": "6262",
+      "label": "$$$message_0044_0010_0001$$$"
+    },
+    {
+      "en": "I see that there's tea and snacks on it.[lr]",
+      "jp": "　見ればお茶と和菓子が載っている。[lr]",
+      "Pt-br": "Eu vejo que tem chá e lanches nela.[lr]",
+      "id": 9982,
+      "epk_id": "6263",
+      "label": "$$$message_0044_0010_0002$$$"
+    },
+    {
+      "en": "I do a double take and realize that the snacks are the fancy kind you buy for guests, a cut above what I serve at home.",
+      "jp": "　パッと見、我が家のお茶請けとは格が違う来客用のものなのだった。",
+      "Pt-br": "Olho duas vezes e percebo que os lanches são daqueles chiques que você compra para convidados, muito acima do que eu sirvo em casa.",
+      "id": 9983,
+      "epk_id": "6264",
+      "label": "$$$message_0044_0010_0003$$$"
+    },
+    {
+      "en": "\"Souichirou, is Reikan back yet?\"[lr]",
+      "jp": "「宗一郎兄、零観兄は来ないのですか」[lr]",
+      "Pt-br": "\"Souichirou, o Reikan já voltou?\"[lr]",
+      "id": 9984,
+      "epk_id": "6265",
+      "label": "$$$message_0044_0011_0000$$$"
+    },
+    {
+      "en": "\"Not yet. He's with a worshipper right now. He said that you and Emiya should eat.\"",
+      "jp": "「ああ。檀家の方が来られたのでそちらの相手に回っている。衛宮と一成、二人で食べなさい、との事だ」",
+      "Pt-br": "\"Ainda não. Ele está com um adorador agora. Ele disse que você e o Emiya deveriam comer.\"",
+      "id": 9985,
+      "epk_id": "6266",
+      "label": "$$$message_0044_0011_0001$$$"
+    },
+    {
+      "en": "\"Thanks. I'll wash my hands, then. Should I come back here?\"[lr]",
+      "jp": "「どうもです。じゃ、手を洗ってきますけど、戻ってくるのはここでいいんですか？」[lr]",
+      "Pt-br": "\"Obrigado. Eu lavarei as minhas mãos, então. Devo voltar para cá?\"[lr]",
+      "id": 9986,
+      "epk_id": "6267",
+      "label": "$$$message_0044_0012_0000$$$"
+    },
+    {
+      "en": "\"You must feel uncomfortable eating in front of the Buddha.[lr]",
+      "jp": "「神仏の前では落ち着かないか。[lr]",
+      "Pt-br": "\"Você deve se sentir desconfortável comendo na frente de Buda.[lr]",
+      "id": 9987,
+      "epk_id": "6268",
+      "label": "$$$message_0044_0012_0001$$$"
+    },
+    {
+      "en": "Then come to my room. Unfortunately, the visitors' lobby is occupied.\"",
+      "jp": "　では私の部屋にしよう。あいにく、来客用の部屋は使用中だ」",
+      "Pt-br": "Então venha para o meu quarto. Infelizmente, o saguão de visitantes está ocupado.\"",
+      "id": 9988,
+      "epk_id": "6269",
+      "label": "$$$message_0044_0012_0002$$$"
+    },
+    {
+      "en": "A bizarre scene unfolds before me.[lr]",
+      "jp": "　なんとも異様な光景が展開されていた。[lr]",
+      "Pt-br": "Uma cena bizarra se desenrola diante de mim.[lr]",
+      "id": 9989,
+      "epk_id": "6270",
+      "label": "$$$message_0044_0013_0000$$$"
+    },
+    {
+      "en": "We sit around the tray in Mr. Kuzuki's room, sipping tea.[lr]",
+      "jp": "　葛木先生の部屋で盆を囲んで茶を飲んでいる。[lr]",
+      "Pt-br": "Nós sentamos ao redor da bandeja no quarto do Kuzuki-sensei, bebericando chá.[lr]",
+      "id": 9990,
+      "epk_id": "6271",
+      "label": "$$$message_0044_0013_0001$$$"
+    },
+    {
+      "en": "Perhaps he personally served us tea because the temple put him in charge of entertaining visitors, but I just can't relax around him.",
+      "jp": "　応対を任された、という手前なのか葛木先生が手ずからお茶を淹れてくれたのだが、それがどうにも落ち着かない。",
+      "Pt-br": "Talvez ele tenha servido o chá pessoalmente porque o templo o encarregou de entreter os visitantes, mas não consigo relaxar perto dele, Kuzuki-sensei.",
+      "id": 9991,
+      "epk_id": "6272",
+      "label": "$$$message_0044_0013_0002$$$"
+    },
+    {
+      "en": "...I scan the room. It's a plain Japanese-style room furnished with a collection of cabinets, and a ship-in-a-bottle that seems out of place.[lr]",
+      "jp": "　……部屋を見回すと、落ち着いた和室に幾つも据えられた[ruby text=たんす char=2]箪笥や、違和感を感じさせるボトルシップがある。[lr]",
+      "Pt-br": "...Examino o quarto. É um quarto simples de estilo japonês mobiliado com uma coleção de armários, e um navio na garrafa que parece fora de lugar.[lr]",
+      "id": 9992,
+      "epk_id": "6273",
+      "label": "$$$message_0044_0014_0000$$$"
+    },
+    {
+      "en": "The bottle is the big kind you'd find European spirits in, not the typical 1.8-liter Japanese variety.[lr]",
+      "jp": "　あれは洋酒の瓶でやるから味が出るのであって、一升瓶で作る物ではない。[lr]",
+      "Pt-br": "A garrafa é do tipo grande que você encontraria bebidas destiladas europeias, e não da típica variedade japonesa de 1,8 litro.[lr]",
+      "id": 9993,
+      "epk_id": "6274",
+      "label": "$$$message_0044_0014_0001$$$"
+    },
+    {
+      "en": "What's in all these drawers, anyway? [l]Until now I forgot, but Mr. Kuzuki must share this room with his newlywed wife, Caster.[lr]",
+      "jp": "　いや、そもそもあの[ruby text=たんす char=2]箪笥の中には何が入っているのだろうか。[l]ここに入るまですっかり忘れていたが、ここは葛木先生の部屋であると同時に、新婚であるキャスターの部屋でもあった。[lr]",
+      "Pt-br": "O que tem em todas essas gavetas, afinal? [l]Até agora eu tinha me esquecido, mas o Kuzuki-sensei deve compartilhar este quarto com a sua esposa recém-casada, a Caster.[lr]",
+      "id": 9994,
+      "epk_id": "6275",
+      "label": "$$$message_0044_0014_0002$$$"
+    },
+    {
+      "en": "I can only assume that they contain...",
+      "jp": "　だとすれば当然、あの[ruby text=たんす char=2]箪笥の中には[line len=3]",
+      "Pt-br": "Só posso presumir que elas contenham...",
+      "id": 9995,
+      "epk_id": "6276",
+      "label": "$$$message_0044_0014_0003$$$"
+    },
+    {
+      "en": "\"Emiya, your tea.\"[lr]",
+      "jp": "「衛宮、茶だ」[lr]",
+      "Pt-br": "\"Emiya, o seu chá.\"[lr]",
+      "id": 9996,
+      "epk_id": "6277",
+      "label": "$$$message_0044_0015_0000$$$"
+    },
+    {
+      "en": "Mr. Kuzuki's voice snaps me back to reality.[lr]",
+      "jp": "　葛木先生の声で現実に戻る。[lr]",
+      "Pt-br": "A voz do Kuzuki-sensei me traz de volta à realidade.[lr]",
+      "id": 9997,
+      "epk_id": "6278",
+      "label": "$$$message_0044_0015_0001$$$"
+    },
+    {
+      "en": "I accept the warm teacup and savor its aroma.[lr]",
+      "jp": "　差し出された湯のみを受け取ると、いい匂いが漂ってきた。[lr]",
+      "Pt-br": "Aceito a xícara de chá quente e saboreio o seu aroma.[lr]",
+      "id": 9998,
+      "epk_id": "6279",
+      "label": "$$$message_0044_0015_0002$$$"
+    },
+    {
+      "en": "As I suspected, they do use some premium tea here after all.",
+      "jp": "　やっぱりこれ、かなり良いお茶なんじゃないだろうか。",
+      "Pt-br": "Como eu suspeitava, afinal, eles usam um chá de qualidade premium aqui.",
+      "id": 9999,
+      "epk_id": "6280",
+      "label": "$$$message_0044_0015_0003$$$"
+    },
+    {
+      "en": "I taste the tea and snacks, not wanting to seem impolite.[lr]",
+      "jp": "　遠慮するのも悪いのでお茶と茶菓子に舌鼓を打つ。[lr]",
+      "Pt-br": "Eu provo o chá e os lanches, não querendo parecer indelicado.[lr]",
+      "id": 10000,
+      "epk_id": "6281",
+      "label": "$$$message_0044_0016_0000$$$"
+    },
+    {
+      "en": "They really do taste different after a hard day's work. And the tea is delicious.[lr]",
+      "jp": "　労働の後の甘いものは別格だなあ。それに美味しいお茶まである。[lr]",
+      "Pt-br": "Depois de um dia duro de trabalho, eles têm outro gosto. E o chá está delicioso.[lr]",
+      "id": 10001,
+      "epk_id": "6282",
+      "label": "$$$message_0044_0016_0001$$$"
+    },
+    {
+      "en": "I bet Saber would be happy if I took some home to share with her.",
+      "jp": "　これ持って帰ってやったらセイバーは喜ぶだろうなあ。",
+      "Pt-br": "Aposto que a Saber ficaria feliz se eu levasse um pouco para casa para dividir com ela.",
+      "id": 10002,
+      "epk_id": "6283",
+      "label": "$$$message_0044_0016_0002$$$"
+    },
+    {
+      "en": "\"You look happy. Do you like the refreshments?\"[lr]",
+      "jp": "「随分と嬉しそうだが、気に入ったのか？」[lr]",
+      "Pt-br": "\"Você parece feliz. Gostou do lanche?\"[lr]",
+      "id": 10003,
+      "epk_id": "6284",
+      "label": "$$$message_0044_0017_0000$$$"
+    },
+    {
+      "en": "\"Oh, is it showing on my face?\"[lr]",
+      "jp": "「む、そんなに嬉しそうか俺」[lr]",
+      "Pt-br": "\"Ah, está tão na cara assim?\"[lr]",
+      "id": 10004,
+      "epk_id": "6285",
+      "label": "$$$message_0044_0017_0001$$$"
+    },
+    {
+      "en": "Issei nods. Mr. Kuzuki keeps drinking his tea, impassive as always.",
+      "jp": "　ああ、と頷く一成。葛木先生は相変わらずの無表情で茶を啜っている。",
+      "Pt-br": "O Issei assente com a cabeça. O Kuzuki-sensei continua bebendo o seu chá, impassível como sempre.",
+      "id": 10005,
+      "epk_id": "6286",
+      "label": "$$$message_0044_0017_0002$$$"
+    },
+    {
+      "en": "\"I believe we still have some of the snacks left. Do you want to take some home?\"[lr]",
+      "jp": "「確かその菓子ならまだ残っていたな。いくらか持って帰るか？」[lr]",
+      "Pt-br": "\"Acredito que ainda nos sobraram alguns lanches. Você quer levar alguns para casa?\"[lr]",
+      "id": 10006,
+      "epk_id": "6287",
+      "label": "$$$message_0044_0018_0000$$$"
+    },
+    {
+      "en": "\"I feel bad, though. All I did was wipe your floors a little.\"[lr]",
+      "jp": "「そこまでしてもらうのは悪いんじゃないのか？　ちょっと雑巾がけしただけだぞ」[lr]",
+      "Pt-br": "\"Eu me sinto mal, no entanto. Tudo o que eu fiz foi esfregar um pouco os chãos de vocês.\"[lr]",
+      "id": 10007,
+      "epk_id": "6288",
+      "label": "$$$message_0044_0018_0001$$$"
+    },
+    {
+      "en": "\"We don't mind at all.\"[lr]",
+      "jp": "「別に構うまい」[lr]",
+      "Pt-br": "\"Nós não nos importamos de forma alguma.\"[lr]",
+      "id": 10008,
+      "epk_id": "6289",
+      "label": "$$$message_0044_0018_0002$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=葛木01a眼鏡(中) textoff=0]Just as I'm about to accept [se storage=se188.wav]his goodwill, the door slides open.",
+      "jp": "　[chgfg time=300 storage=葛木01a眼鏡(中) textoff=0]それならお土産に貰っていくのも良いかな、[se storage=se188.wav]と思った時に、[ruby text=ふすま]襖が開いた。",
+      "Pt-br": "[chgfg time=300 storage=葛木01a眼鏡(中) textoff=0]Bem na hora em que estou prestes a aceitar a boa vontade [se storage=se188.wav]dele, a porta se abre.",
+      "id": 10009,
+      "epk_id": "6290",
+      "label": "$$$message_0044_0018_0003$$$"
+    },
+    {
+      "en": "\"Souichirou, your meal is ready[line len=2][cacheimage storage=キャスターローブ無し03b(遠)][wvl canskip=0 time=200][chgfg time=300 storage=キャスターローブ無し03b(遠) textoff=0]Oh.\"[lr]",
+      "jp": "「宗一郎様、お食事の準備が出来ました[line len=3][cacheimage storage=キャスターローブ無し03b(遠)][wvl canskip=0 time=200][chgfg time=300 storage=キャスターローブ無し03b(遠) textoff=0]あら」[lr]",
+      "Pt-br": "\"Souichirou-sama, a sua refeição está pronta[line len=2][cacheimage storage=キャスターローブ無し03b(遠)][wvl canskip=0 time=200][chgfg time=300 storage=キャスターローブ無し03b(遠) textoff=0]Oh.\"[lr]",
+      "id": 10010,
+      "epk_id": "6291",
+      "label": "$$$message_0044_0019_0000$$$"
+    },
+    {
+      "en": "Caster appears holding a tray. She looks confused to see me.",
+      "jp": "　なんてキャスターはお盆を持ったまま、こっちを見て首をかしげる。",
+      "Pt-br": "A Caster aparece segurando uma bandeja. Ela parece confusa em me ver.",
+      "id": 10011,
+      "epk_id": "6292",
+      "label": "$$$message_0044_0019_0001$$$"
+    },
+    {
+      "en": "\"Issei, I can understand...but what is that boy doing here?\"[lr]",
+      "jp": "「一成君はともかく[line len=3]どうして坊やが居るのかしら？」[lr]",
+      "Pt-br": "\"O Issei eu até entendo... mas o que aquele garoto está fazendo aqui?\"[lr]",
+      "id": 10012,
+      "epk_id": "6293",
+      "label": "$$$message_0044_0020_0000$$$"
+    },
+    {
+      "en": "\"Uh, stuff happened.\"[lr]",
+      "jp": "「まあ、ちょっとあって」[lr]",
+      "Pt-br": "\"Hã, as coisas aconteceram.\"[lr]",
+      "id": 10013,
+      "epk_id": "6294",
+      "label": "$$$message_0044_0020_0001$$$"
+    },
+    {
+      "en": "That's all I feel like saying. It would be a hassle to explain the sequence of events all over again.[lr]",
+      "jp": "　としか言いようがない。石段のくだりから説明するのも面倒だし。[lr]",
+      "Pt-br": "Isso é tudo o que tenho vontade de dizer. Seria um incômodo explicar a sequência de eventos tudo de novo.[lr]",
+      "id": 10014,
+      "epk_id": "6295",
+      "label": "$$$message_0044_0020_0002$$$"
+    },
+    {
+      "en": "[clfg rule=シャッター左から storage=キャスターローブ無し02b(遠) time=300]More importantly, I'm curious what's on the tray she set down on the table next to us. It's probably today's lunch.",
+      "jp": "　[clfg rule=シャッター左から storage=キャスターローブ無し02b(遠) time=300]それよりも、お盆の上のものが気になった。脇の机の上に置かれたそれは恐らく今日の昼食なんだろうが。",
+      "Pt-br": "[clfg rule=シャッター左から storage=キャスターローブ無し02b(遠) time=300]E mais importante, estou curioso para saber o que tem na bandeja que ela colocou na mesa ao nosso lado. Provavelmente é o almoço de hoje.",
+      "id": 10015,
+      "epk_id": "6296",
+      "label": "$$$message_0044_0020_0003$$$"
+    },
+    {
+      "en": "\"...Did you make that, Caster?\"[lr]",
+      "jp": "「[line len=3]それ、キャスターが作ったのか？」[lr]",
+      "Pt-br": "\"...Foi você que fez isso, Caster?\"[lr]",
+      "id": 10016,
+      "epk_id": "6297",
+      "label": "$$$message_0044_0021_0000$$$"
+    },
+    {
+      "en": "\"Yes. Do you have something to say about it?\"[lr]",
+      "jp": "「そうよ。何か文句でもあるのかしら」[lr]",
+      "Pt-br": "\"Sim. Você tem algo a dizer sobre isso?\"[lr]",
+      "id": 10017,
+      "epk_id": "6298",
+      "label": "$$$message_0044_0021_0001$$$"
+    },
+    {
+      "en": "I was just asking...",
+      "jp": "　いや、文句というより素朴な疑問なんだが[line len=3]",
+      "Pt-br": "Eu só estava perguntando...",
+      "id": 10018,
+      "epk_id": "6299",
+      "label": "$$$message_0044_0021_0002$$$"
+    },
+    {
+      "en": "\"Is cooking, uh, difficult for you?\"[lr]",
+      "jp": "「キャスターって、もしかして料理苦手か？」[lr]",
+      "Pt-br": "\"Cozinhar, hã, é difícil para você?\"[lr]",
+      "id": 10019,
+      "epk_id": "6300",
+      "label": "$$$message_0044_0022_0000$$$"
+    },
+    {
+      "en": "The food's burned, the juices are making a mess all over the plate... I won't get into the details, but it's a spectacle, to say the least.[lr]",
+      "jp": "　焦げてるし、汁は出ててべしゃべしゃしてそうだし、さらに言うとなんか派手だし。[lr]",
+      "Pt-br": "A comida está queimada, os sucos estão fazendo uma bagunça por todo o prato... Não vou entrar em detalhes, mas é, no mínimo, um espetáculo.[lr]",
+      "id": 10020,
+      "epk_id": "6301",
+      "label": "$$$message_0044_0022_0001$$$"
+    },
+    {
+      "en": "There's yellow and red where there shouldn't be, and I'm not even sure how to respond to the purple.",
+      "jp": "　黄色とか、赤とか。いや、むしろあの紫色にツッコミを入れるべきか？",
+      "Pt-br": "Tem amarelo e vermelho onde não deveria haver, e eu nem sei como reagir ao roxo.",
+      "id": 10021,
+      "epk_id": "6302",
+      "label": "$$$message_0044_0022_0002$$$"
+    },
+    {
+      "en": "\"S-so what, boy!? You talk as if [font italic=true]you[font italic=false] know how to cook!\"[lr]",
+      "jp": "「な、何よ、そんな風に言うからには当然坊やは料理が出来るんでしょうねっ！」[lr]",
+      "Pt-br": "\"E-E daí, garoto!? Você fala como se [font italic=true]você[font italic=false] soubesse cozinhar!\"[lr]",
+      "id": 10022,
+      "epk_id": "6303",
+      "label": "$$$message_0044_0023_0000$$$"
+    },
+    {
+      "en": "\"Yeah. Emiya's cooking is delicious.\"[lr]",
+      "jp": "「ああ、衛宮の飯は美味いですよ」[lr]",
+      "Pt-br": "\"Sim. A comida do Emiya é deliciosa.\"[lr]",
+      "id": 10023,
+      "epk_id": "6304",
+      "label": "$$$message_0044_0023_0001$$$"
+    },
+    {
+      "en": "Issei doesn't hesitate to interject.",
+      "jp": "　なんて一成が間髪入れず即答していた。",
+      "Pt-br": "O Issei não hesita em intervir.",
+      "id": 10024,
+      "epk_id": "6305",
+      "label": "$$$message_0044_0023_0002$$$"
+    },
+    {
+      "en": "\"...[wait canskip=0 time=300][say storage=ryu0203_cas_0040 name=キャスター][chgfg time=300 storage=キャスターローブ無し01c怒り(中) textoff=0]Why are you answering for him, Issei?\"[lr]",
+      "jp": "「[line len=3][wait canskip=0 time=300][say storage=ryu0203_cas_0040 name=キャスター][chgfg time=300 storage=キャスターローブ無し01c怒り(中) textoff=0]どうして一成君がそこで答えるのかしら？」[lr]",
+      "Pt-br": "\"...[wait canskip=0 time=300][say storage=ryu0203_cas_0040 name=キャスター][chgfg time=300 storage=キャスターローブ無し01c怒り(中) textoff=0]Por que você está respondendo por ele, Issei-kun?\"[lr]",
+      "id": 10025,
+      "epk_id": "6306",
+      "label": "$$$message_0044_0024_0000$$$"
+    },
+    {
+      "en": "\"Ah, well, I've eaten Emiya's cooking before.\"[lr]",
+      "jp": "「あ、いや。衛宮の飯を食ったこともありますし」[lr]",
+      "Pt-br": "\"Ah, bem, eu já comi a comida do Emiya antes.\"[lr]",
+      "id": 10026,
+      "epk_id": "6307",
+      "label": "$$$message_0044_0024_0001$$$"
+    },
+    {
+      "en": "It would be more accurate to say he enjoys it all the time in the student council room. ",
+      "jp": "　食ったことがある、という以前に生徒会室で食うときはいつもだ。と言う方が正解だと思う。",
+      "Pt-br": "Seria mais exato dizer que ele desfruta dela o tempo todo na sala do conselho estudantil. ",
+      "id": 10027,
+      "epk_id": "6308",
+      "label": "$$$message_0044_0024_0002$$$"
+    },
+    {
+      "en": "Still, I can believe that Caster isn't good at cooking.[lr]",
+      "jp": "　ただ、キャスターが料理得意じゃないとしても、そうだよなあと納得できる。[lr]",
+      "Pt-br": "Mesmo assim, eu acredito que a Caster não seja boa de cozinha.[lr]",
+      "id": 10028,
+      "epk_id": "6309",
+      "label": "$$$message_0044_0025_0000$$$"
+    },
+    {
+      "en": "She was originally a princess. As royalty, she would never have cooked for herself, so she must be trying really hard now.[lr]",
+      "jp": "　キャスターだって元々はお姫様、というか王族の人だったんだから自分で料理なんてしなかったのに頑張ってるんだよなあ。[lr]",
+      "Pt-br": "Ela originalmente era uma princesa. Sendo da realeza, ela nunca teria cozinhado para si mesma, então ela deve estar se esforçando bastante agora.[lr]",
+      "id": 10029,
+      "epk_id": "6310",
+      "label": "$$$message_0044_0025_0001$$$"
+    },
+    {
+      "en": "What kind of hero is known for their cooking skills, anyway?[lr]",
+      "jp": "　そもそも料理が得意な英雄、という時点で間違っている。[lr]",
+      "Pt-br": "Além disso, que tipo de herói é conhecido pelos seus talentos culinários?[lr]",
+      "id": 10030,
+      "epk_id": "6311",
+      "label": "$$$message_0044_0025_0002$$$"
+    },
+    {
+      "en": "I guess that red one. The one with the tan skin and white hair.",
+      "jp": "　あの赤いのとか。肌が黒いのとか。髪が白いのとか。",
+      "Pt-br": "Acho que aquele de vermelho. Aquele da pele bronzeada e de cabelo branco.",
+      "id": 10031,
+      "epk_id": "6312",
+      "label": "$$$message_0044_0025_0003$$$"
+    },
+    {
+      "en": "\"Hm. Are you a skilled cook, Emiya?\"[lr]",
+      "jp": "「ふむ。衛宮は料理が得意なのか」[lr]",
+      "Pt-br": "\"Hrum. Você é um cozinheiro habilidoso, Emiya?\"[lr]",
+      "id": 10032,
+      "epk_id": "6313",
+      "label": "$$$message_0044_0026_0000$$$"
+    },
+    {
+      "en": "\"Um, I guess you could say that. I've always lived on my own, so I can at least manage the basics.\"[lr]",
+      "jp": "「え、はい。ずっと自炊していたんで、出来る方だとは思いますが」[lr]",
+      "Pt-br": "\"Hum, acho que dá para dizer que sim. Eu sempre morei sozinho, então consigo ao menos me virar com o básico.\"[lr]",
+      "id": 10033,
+      "epk_id": "6314",
+      "label": "$$$message_0044_0026_0001$$$"
+    },
+    {
+      "en": "Mr. Kuzuki looks unusually contemplative for a moment...",
+      "jp": "　ふむ。と珍しく何か考えるようなそぶりを見せたと思った後[line len=3]",
+      "Pt-br": "O Sr. Kuzuki parece um momento incomumente pensativo...",
+      "id": 10034,
+      "epk_id": "6315",
+      "label": "$$$message_0044_0026_0002$$$"
+    },
+    {
+      "en": "\"Caster. If you feel that your skills are inadequate, why don't you have Emiya give you lessons?\"[lr]",
+      "jp": "「キャスター。自分の技術に引け目を感じるのであれば、衛宮に教えを受けてみてはどうだ」[lr]",
+      "Pt-br": "\"Caster. Se você sente que as suas habilidades são inadequadas, por que não pede ao Emiya para te dar umas aulas?\"[lr]",
+      "id": 10035,
+      "epk_id": "6316",
+      "label": "$$$message_0044_0027_0000$$$"
+    },
+    {
+      "en": "...and drops a bombshell of a suggestion.",
+      "jp": "　なんて、とんでもない事を言いだした。",
+      "Pt-br": "...E lança uma bomba de sugestão.",
+      "id": 10036,
+      "epk_id": "6317",
+      "label": "$$$message_0044_0027_0001$$$"
+    },
+    {
+      "en": "\"[large]Huh?[rf]\"[lr]",
+      "jp": "「「「[line len=3][large]は？[rf]」」」[lr]",
+      "Pt-br": "\"[large]Hã?[rf]\"[lr]",
+      "id": 10037,
+      "epk_id": "6318",
+      "label": "$$$message_0044_0028_0000$$$"
+    },
+    {
+      "en": "The rest of us gasp in unison, unintentionally.[lr]",
+      "jp": "　図らずも、三人の声が重なる。[lr]",
+      "Pt-br": "O resto de nós ofega em uníssono, sem querer.[lr]",
+      "id": 10038,
+      "epk_id": "6319",
+      "label": "$$$message_0044_0028_0001$$$"
+    },
+    {
+      "en": "\"Only if you're both willing, of course.\"[lr]",
+      "jp": "「無論、二人が了承すればの話だが」[lr]",
+      "Pt-br": "\"Somente se os dois estiverem dispostos a isso, é claro.\"[lr]",
+      "id": 10039,
+      "epk_id": "6320",
+      "label": "$$$message_0044_0028_0002$$$"
+    },
+    {
+      "en": "He continues as if he didn't even notice our reaction.",
+      "jp": "　俺達の反応など気にもかけていないようで、淡々と話を続ける。",
+      "Pt-br": "Ele continua como se nem tivesse notado a nossa reação.",
+      "id": 10040,
+      "epk_id": "6321",
+      "label": "$$$message_0044_0028_0003$$$"
+    },
+    {
+      "en": "\"...I don't mind, if that's what you want, Souichirou...\"[lr]",
+      "jp": "「……宗一郎様がそう仰るんでしたら、私は構いませんけど……」[lr]",
+      "Pt-br": "\"...Eu não me importo, se é isso o que você quer, Souichirou-sama...\"[lr]",
+      "id": 10041,
+      "epk_id": "6322",
+      "label": "$$$message_0044_0029_0000$$$"
+    },
+    {
+      "en": "\"Uh.\"[rf][lr]",
+      "jp": "「「え」」[rf][lr]",
+      "Pt-br": "\"Hã.\"[rf][lr]",
+      "id": 10042,
+      "epk_id": "6323",
+      "label": "$$$message_0044_0029_0001$$$"
+    },
+    {
+      "en": "This time, only two jaws drop. Issei and I didn't expect Caster to agree.[lr]",
+      "jp": "　ここでキャスターが了承するとは思わなかったのか、俺と一成の声がまた重なった。[lr]",
+      "Pt-br": "Desta vez, apenas dois queixos caem. O Issei e eu não esperávamos que a Caster concordasse.[lr]",
+      "id": 10043,
+      "epk_id": "6324",
+      "label": "$$$message_0044_0029_0002$$$"
+    },
+    {
+      "en": "All eyes turn to focus on me. They're still waiting for my answer.",
+      "jp": "　この場の視線が俺に集中する。確かに残った返事は俺のものだけなのだが[line len=3]",
+      "Pt-br": "Todos os olhares se voltam para focar em mim. Eles ainda estão esperando pela minha resposta.",
+      "id": 10044,
+      "epk_id": "6325",
+      "label": "$$$message_0044_0029_0003$$$"
+    },
+    {
+      "en": "\"...I don't particularly mind.\"[lr]",
+      "jp": "「[line len=3]まあ、別にそんくらいなら構わないけど」[lr]",
+      "Pt-br": "\"...Eu não me importo particularmente.\"[lr]",
+      "id": 10045,
+      "epk_id": "6326",
+      "label": "$$$message_0044_0030_0000$$$"
+    },
+    {
+      "en": "\"Then it's agreed. Please teach my wife well, Emiya.\"",
+      "jp": "「決まりだな。妻によく教えてやってくれ、衛宮」",
+      "Pt-br": "\"Então está combinado. Por favor, ensine bem à minha esposa, Emiya.\"",
+      "id": 10046,
+      "epk_id": "6327",
+      "label": "$$$message_0044_0030_0001$$$"
+    },
+    {
+      "en": "I leave Ryudou Temple with the snacks Issei gifted me.[lr]",
+      "jp": "　一成にお土産を持たされて柳洞寺を後にする。[lr]",
+      "Pt-br": "Eu deixo o Templo Ryuudou com os lanches que o Issei me deu de presente.[lr]",
+      "id": 10047,
+      "epk_id": "6328",
+      "label": "$$$message_0044_0031_0000$$$"
+    },
+    {
+      "en": "\"...Hm.\"[lr]",
+      "jp": "「[line len=3]ふむ」[lr]",
+      "Pt-br": "\"...Hrum.\"[lr]",
+      "id": 10048,
+      "epk_id": "6329",
+      "label": "$$$message_0044_0031_0001$$$"
+    },
+    {
+      "en": "How do I put this...[lr]",
+      "jp": "　まあ、なんというか。[lr]",
+      "Pt-br": "Como posso dizer isso...[lr]",
+      "id": 10049,
+      "epk_id": "6330",
+      "label": "$$$message_0044_0031_0002$$$"
+    },
+    {
+      "en": "\"...Life sure comes at you fast, huh?\"[lr]",
+      "jp": "「……成り行き、としか言い様がないよなあ」[lr]",
+      "Pt-br": "\"...A vida com certeza passa rápido, não é?\"[lr]",
+      "id": 10050,
+      "epk_id": "6331",
+      "label": "$$$message_0044_0031_0003$$$"
+    },
+    {
+      "en": "What should I teach her, then...?",
+      "jp": "　とりあえず、何を教えたらいいんだろう[line len=3]",
+      "Pt-br": "O que eu deveria ensinar a ela, então...?",
+      "id": 10051,
+      "epk_id": "6332",
+      "label": "$$$message_0044_0031_0004$$$"
+    },
+    {
+      "en": "\"Yeah. Emiya's cooking is delicious.\"[r]",
+      "jp": "「ああ、衛宮の飯は美味い[r]ですよ」",
+      "Pt-br": "\"Sim. A comida do Emiya é deliciosa.\"[r]",
+      "id": 10052,
+      "epk_id": "906304",
+      "label": "$$$message_9044_0023_0001$$$"
+    }
+  ]
+}

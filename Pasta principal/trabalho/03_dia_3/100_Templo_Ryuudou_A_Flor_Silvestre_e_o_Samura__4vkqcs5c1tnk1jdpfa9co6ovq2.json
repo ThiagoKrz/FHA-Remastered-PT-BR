@@ -1,0 +1,1032 @@
+{
+  "cena": "4vkqcs5c1tnk1jdpfa9co6ovq2",
+  "titulo": "Templo Ryuudou: A Flor Silvestre e o Samurai",
+  "rota": "Dia 3",
+  "arquivo": "4vkqcs5c1tnk1jdpfa9co6ovq2.epk_dec",
+  "linhas": [
+    {
+      "en": "Nestled in a mountain, the gate to Ryudou Temple lies at the top of a long, stone stairway.[lr]",
+      "jp": "ãé·ãç³æ®µã®ä¸ã«ãããæ³æ´å¯ºã®å±±éã[lr]",
+      "Pt-br": "Situado numa montanha, o portão para o Templo Ryuudou fica no topo de uma longa escadaria de pedra.[lr]",
+      "id": 15542,
+      "epk_id": "7447",
+      "label": "$$$message_0052_0000_0000$$$"
+    },
+    {
+      "en": "It's guarded by a fickle gatekeeper. Not like the usual deva king or lion-dog statues, though...[lr]",
+      "jp": "ãããã«ã¯æ°ãããããæãããéçªããããä»çã¨ã[ruby text=ãã¾ãã¬ char=2]çç¬ã¨ããããããã®ãããªãã¦â¦â¦[lr]",
+      "Pt-br": "E é guardado por um porteiro inconstante. Mas não é como as estátuas habituais de reis deva ou cães-leão...[lr]",
+      "id": 15543,
+      "epk_id": "7448",
+      "label": "$$$message_0052_0000_0001$$$"
+    },
+    {
+      "en": "\"He's here today.\"[lr]",
+      "jp": "ãä»æ¥ã¯ããããªã[lr]",
+      "Pt-br": "\"Ele tá aqui hoje.\"[lr]",
+      "id": 15544,
+      "epk_id": "7449",
+      "label": "$$$message_0052_0000_0002$$$"
+    },
+    {
+      "en": "I spot Assassin, Sasaki Kojirou. I've never seen him in town, and lately, he hasn't even shown up much around the gate.",
+      "jp": "ãã¢ãµã·ã³ãä½ã\næ¨å°æ¬¡éã®å§¿ãè¦ãããè¡ã§ä¼ãäºã¯ãã¨ãããªããããã®å±±éã§ãæè¿ã¯æå­ã©ããå§¿ãæ¶ãã¦ããã",
+      "Pt-br": "Eu vejo o Assassin, Sasaki Kojirou. Nunca o vi na cidade, e ultimamente, ele nem tem aparecido muito pelos arredores do portão.",
+      "id": 15545,
+      "epk_id": "7450",
+      "label": "$$$message_0052_0000_0003$$$"
+    },
+    {
+      "en": "Of course, he's dressed like this even when pilgrims come during the day. Definitely a suspicious character.[lr]",
+      "jp": "ããã£ã¨ããåè©£å®¢ãããæ¼æ¥ä¸­ã«ãã®æ ¼å¥½ã§ãã§ãã¨æ§ãããã¦ã¯ãã¾ãã«ä¸å¯©ã ã[lr]",
+      "Pt-br": "Claro, ele se veste assim mesmo quando os peregrinos vêm durante o dia. Com certeza é uma figura no mínimo bem suspeita.[lr]",
+      "id": 15546,
+      "epk_id": "7451",
+      "label": "$$$message_0052_0001_0000$$$"
+    },
+    {
+      "en": "[clfg textoff=0 pos=all time=300]Fortunately for the visiting public, only people with spiritual senses can see him. I think.",
+      "jp": "ã[clfg textoff=0 pos=all time=300]ããããã«ãéæã®ããäººéã®ã»ãã«ã¯ããã®å§¿ã¯è¦ããªãããã®ã¯ãã ã",
+      "Pt-br": "[clfg textoff=0 pos=all time=300]Felizmente para o público visitante, apenas pessoas com sentidos espirituais conseguem vê-lo. Pelo menos é o que eu acho.",
+      "id": 15547,
+      "epk_id": "7452",
+      "label": "$$$message_0052_0001_0001$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "ãâ¦â¦â¦â¦ã[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 15548,
+      "epk_id": "7453",
+      "label": "$$$message_0052_0002_0000$$$"
+    },
+    {
+      "en": "I just ended up here on one of my daily walks. I wonder why. Issei's at school on the weekends, too.[lr]",
+      "jp": "ããµã¨æ£æ­©ãã¦ããããã¾ã§æ¥ã¦ãã¾ã£ããã©ããããã®ããä¼æ¥ã§ãä¸æã¯å­¦æ ¡ã«åºã¦ãã«éããªããã[lr]",
+      "Pt-br": "Eu só acabei vindo parar aqui num dos meus passeios diários. Me pergunto o por quê. O Issei também vai pra escola nos finais de semana.[lr]",
+      "id": 15549,
+      "epk_id": "7454",
+      "label": "$$$message_0052_0002_0001$$$"
+    },
+    {
+      "en": "I usually give him a forced, cheerful greeting, but I can't see me and Kojirou having a real conversation.[lr]",
+      "jp": "ãç¡çãã¦ã»ãããã«æ¨æ¶ããã¨ããã§ãä¿ºã¨å°æ¬¡éã¨ã®ããã ã§è©±ãã¯ããã¨ã¯æããªãã[lr]",
+      "Pt-br": "Normalmente eu dou um cumprimento alegre, ainda que forçado, mas não consigo imaginar eu e o Kojirou tendo uma conversa de verdade.[lr]",
+      "id": 15550,
+      "epk_id": "7455",
+      "label": "$$$message_0052_0002_0002$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "ã[line len=6]ã[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 15551,
+      "epk_id": "7456",
+      "label": "$$$message_0052_0002_0003$$$"
+    },
+    {
+      "en": "Kojirou doesn't spare me more than a glance, either.[lr]",
+      "jp": "ãå°æ¬¡éã®æ¹ãããã£ã¡ã[ruby text=ãã¡ã¹ã¤ char=2]ä¸ç¥ããã ã[line len=3][lr]",
+      "Pt-br": "O Kojirou também não me dá mais do que um olhar de relance.[lr]",
+      "id": 15552,
+      "epk_id": "7457",
+      "label": "$$$message_0052_0002_0004$$$"
+    },
+    {
+      "en": "Once he knows I'm not hostile, he looks past me.[lr]",
+      "jp": "ãæµæããªãã¨åãã£ãã®ãããã£ã¨è¦ç·ãã¯ããããã[lr]",
+      "Pt-br": "Uma vez que sabe que não sou hostil, ele simplesmente olha através de mim.[lr]",
+      "id": 15553,
+      "epk_id": "7458",
+      "label": "$$$message_0052_0002_0005$$$"
+    },
+    {
+      "en": "[clfg textoff=0 pos=all time=300]Still...he's gotta be bored, standing here day in, day out.",
+      "jp": "ã[clfg textoff=0 pos=all time=300]ãããâ¦â¦ã¢ã¤ããæ¥ããªä¸æ¥ããã«ç«ã¡ã£ã±ã§ã¯ãéå±ã§éå±ã§ä»æ¹ãªãããã«ã",
+      "Pt-br": "[clfg textoff=0 pos=all time=300]Ainda assim... ele deve estar muito entediado, ficando aqui de pé dia após dia.",
+      "id": 15554,
+      "epk_id": "7459",
+      "label": "$$$message_0052_0002_0006$$$"
+    },
+    {
+      "en": "It's literally his job to do nothing[line len=2]Okay, that's an overstatement, but I can't imagine the utter tedium. I feel bad for him.",
+      "jp": "ãä½ãããªãã®ãä»äº[line len=3]ã¯è¨ãéãã ã¨ãã¦ããå®éã©ã®ç¨åº¦ã·ã³ãã¤ãã®ãªã®ãããã«ããã«æ³åãã¤ããªããããã£ã±ãæ°ã®æ¯ã ã",
+      "Pt-br": "É literalmente o trabalho dele não fazer nada[line len=2]Tudo bem, é um certo exagero dizer isso, mas nem consigo imaginar tamanho tédio absurdo. Eu até sinto pena dele.",
+      "id": 15555,
+      "epk_id": "7460",
+      "label": "$$$message_0052_0003_0000$$$"
+    },
+    {
+      "en": "\"Maybe I'll bring him some refreshments next time...\"[lr]",
+      "jp": "ãâ¦â¦ä»åº¦å·®ãå\n¥ãã§ãæã£ã¦ãããâ¦â¦ã[lr]",
+      "Pt-br": "\"Talvez eu deva trazer um lanchinho pra ele na próxima vez...\"[lr]",
+      "id": 15556,
+      "epk_id": "7461",
+      "label": "$$$message_0052_0004_0000$$$"
+    },
+    {
+      "en": "He doesn't look like he'd turn down liquor. Should I bring him something from the temple cellar?",
+      "jp": "ããé\nã®å«ããããªé¡ã¤ããããªãããæ¬å ã®[ruby text=ãã o2o=1]åº«è£ããæã¡åºãã¦ãã¦ã¿ãããï¼",
+      "Pt-br": "Ele não parece ser do tipo que recusaria uma bebida. Será que eu devia trazer algo da adega do templo pra ele?",
+      "id": 15557,
+      "epk_id": "7462",
+      "label": "$$$message_0052_0004_0001$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "ã[line len=6]ã[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 15558,
+      "epk_id": "7463",
+      "label": "$$$message_0052_0005_0000$$$"
+    },
+    {
+      "en": "Kojirou abruptly stands up straight.[lr]",
+      "jp": "ããã£ã¨å°æ¬¡éãç«ã¡ä¸ãã£ãã[lr]",
+      "Pt-br": "Kojirou de repente fica com a postura ereta.[lr]",
+      "id": 15559,
+      "epk_id": "7464",
+      "label": "$$$message_0052_0005_0001$$$"
+    },
+    {
+      "en": "I notice after him the sound of someone climbing the stone steps. The climber stops several times to catch their breath.[lr]",
+      "jp": "ãé\nãã¦ãèª°ããç³æ®µãç»ãé³ãèããã¦ãããéä¸­ä½åãç³æ®µã§æ­¢ã¾ã£ã¦ãæ¯ãæ´ãã¦ãã[lr]",
+      "Pt-br": "Logo em seguida, noto o som de alguém subindo os degraus de pedra. A pessoa que tá subindo para algumas vezes para recuperar o fôlego.[lr]",
+      "id": 15560,
+      "epk_id": "7465",
+      "label": "$$$message_0052_0005_0002$$$"
+    },
+    {
+      "en": "I wonder who it is. I hide behind the gate and watch the stairs.[lr]",
+      "jp": "ãèª°ã ãããã¨ç³æ®µãè¦ããã¿ãªãããã¤ãéã«é ãã¦ãã¾ã£ãã[lr]",
+      "Pt-br": "Me pergunto quem será. Eu me escondo atrás do portão e observo as escadas.[lr]",
+      "id": 15561,
+      "epk_id": "7466",
+      "label": "$$$message_0052_0005_0003$$$"
+    },
+    {
+      "en": "Wait. There's no reason for me to hide. I just went with the flow.",
+      "jp": "ãããï¼ãå°æ¬¡éã¯ã¨ãããä¿ºãé ããå¿\nè¦ã¯ãªããã ããã¤ãã¤ãããã",
+      "Pt-br": "Espera aí. Não tem nenhum motivo pra eu me esconder. Eu só fui na onda.",
+      "id": 15562,
+      "epk_id": "7467",
+      "label": "$$$message_0052_0005_0004$$$"
+    },
+    {
+      "en": "\"Haah, haah, haah...\"[lr]",
+      "jp": "ãã¯ããã¯ããã¯ãâ¦â¦ã[lr]",
+      "Pt-br": "\"Haah, haah, haah...\"[lr]",
+      "id": 15563,
+      "epk_id": "7468",
+      "label": "$$$message_0052_0006_0000$$$"
+    },
+    {
+      "en": "The climber rests again, a few steps away from the top. I recognize her face. It's Saegusa. Did she come alone?[lr]",
+      "jp": "ããã¨æ°æ®µã®ã¨ããã§ä¼æ©ãã¦ãã®ã¯ãè¦ç¥ã£ãé¡ã ã£ãã[ruby text=ãããã char=2]ä¸æï¼ãä¸äººã§æ¥ãã®ãã[lr]",
+      "Pt-br": "A pessoa que tá subindo descansa de novo, a poucos degraus do topo. Eu reconheço aquele rosto. É a Saegusa. Ela veio sozinha?[lr]",
+      "id": 15564,
+      "epk_id": "7469",
+      "label": "$$$message_0052_0006_0001$$$"
+    },
+    {
+      "en": "[clfg textoff=0 rule=シャッター左から pos=all time=300]She ascends the last few steps after she finally recovers her strength.",
+      "jp": "ã[clfg textoff=0 rule=ã·ã£ãã¿ã¼å·¦ãã pos=all time=300]ãã£ã¨ä½åãåå¾©ããã®ããæ®ãã®éæ®µããã£ããè¸ãã§ç»ãã",
+      "Pt-br": "[clfg textoff=0 rule=シャッター左から pos=all time=300]Ela sobe os últimos degraus depois que finalmente recupera as suas forças.",
+      "id": 15565,
+      "epk_id": "7470",
+      "label": "$$$message_0052_0006_0002$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "ã[line len=6]ã[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 15566,
+      "epk_id": "7471",
+      "label": "$$$message_0052_0007_0000$$$"
+    },
+    {
+      "en": "Kojirou stares at her quietly.[lr]",
+      "jp": "ãåé¡ã®å°æ¬¡éã¯ãä¸æãé»ã£ã¦è¦ã¦ãã[lr]",
+      "Pt-br": "Kojirou encara ela em silêncio.[lr]",
+      "id": 15567,
+      "epk_id": "7472",
+      "label": "$$$message_0052_0007_0001$$$"
+    },
+    {
+      "en": "Once she's past the stairs, Saegusa gives Kojirou a timid look. She hasn't noticed me.[lr]",
+      "jp": "ããã£ã¨ã®ãã¨ã§ç»ãåãã¨ãä¿ºã«ã¯æ°ã¥ããªãã¾ã¾ãå°æ¬¡éã®æ¹ãããããã¨çºãã¦ããã[lr]",
+      "Pt-br": "Assim que ela passa pela escadaria, a Saegusa dá um olhar tímido pro Kojirou. Ela não me notou.[lr]",
+      "id": 15568,
+      "epk_id": "7473",
+      "label": "$$$message_0052_0007_0002$$$"
+    },
+    {
+      "en": "...She can see him.[lr]",
+      "jp": "ãâ¦â¦è¦ãããã ãä¸æã«ã¯å°æ¬¡éãã[lr]",
+      "Pt-br": "...Ela consegue ver ele.[lr]",
+      "id": 15569,
+      "epk_id": "7474",
+      "label": "$$$message_0052_0007_0003$$$"
+    },
+    {
+      "en": "I think I heard about this before.",
+      "jp": "ããããªè©±ã©ããã§èãããã",
+      "Pt-br": "Acho que já tinha ouvido falar disso antes.",
+      "id": 15570,
+      "epk_id": "7475",
+      "label": "$$$message_0052_0007_0004$$$"
+    },
+    {
+      "en": "\"U-um...\"[lr]",
+      "jp": "ãâ¦â¦ãããã®â¦â¦ã[lr]",
+      "Pt-br": "\"U-um...\"[lr]",
+      "id": 15571,
+      "epk_id": "7476",
+      "label": "$$$message_0052_0008_0000$$$"
+    },
+    {
+      "en": "Saegusa fearfully breaks the silence.[lr]",
+      "jp": "ãæ¯ããæãã§ä¸æãå£°ããããã[lr]",
+      "Pt-br": "Saegusa quebra o silêncio com receio.[lr]",
+      "id": 15572,
+      "epk_id": "7477",
+      "label": "$$$message_0052_0008_0001$$$"
+    },
+    {
+      "en": "I'd be scared, too. Some swordsman in a historical costume is just standing here without any TV crew or prank signboard around.",
+      "jp": "ãã¾ãããã ãããããªæä»£å¤ããªæ ¼å¥½ã®å£å£«ããï¼´ï¼¶ã®æ®å½±éãããã­ãªã®çæ¿ãèè² ããã«ç«ã£ã¦ããã°ã",
+      "Pt-br": "Eu também ficaria com medo. Um espadachim vestindo roupas de época, simplesmente parado ali do nada, sem nenhuma equipe de TV ou plaquinha de pegadinha por perto.",
+      "id": 15573,
+      "epk_id": "7478",
+      "label": "$$$message_0052_0008_0002$$$"
+    },
+    {
+      "en": "\"Excuse me...a-are you from the temple?\"[lr]",
+      "jp": "ãããã¾ããâ¦â¦ãããå¯ºã®æ¹ã§ããï¼ã[lr]",
+      "Pt-br": "\"Com licença... v-você é do templo?\"[lr]",
+      "id": 15574,
+      "epk_id": "7479",
+      "label": "$$$message_0052_0009_0000$$$"
+    },
+    {
+      "en": "\"...Indeed.\"",
+      "jp": "ã[line len=3]å·¦æ§ã",
+      "Pt-br": "\"...De fato.\"",
+      "id": 15575,
+      "epk_id": "7480",
+      "label": "$$$message_0052_0009_0001$$$"
+    },
+    {
+      "en": "\"U-um, this might be rude of me to ask... [cacheimage storage=由紀香私服01l(中)][wvl][chgfg time=300 storage=由紀香私服01l(中) textoff=0]But is there a festival going on?\"[lr]",
+      "jp": "ããããã®â¦â¦ãã®ããããªäºèãã¦ã¯å¤±ç¤¼ããç¥ããªããã§ããã©â¦â¦[cacheimage storage=ç±ç´é¦ç§æ01l(ä¸­)][wvl][chgfg time=300 storage=ç±ç´é¦ç§æ01l(ä¸­) textoff=0]ãç¥­ãã§ããããã§ããï¼ã[lr]",
+      "Pt-br": "\"U-um, isso pode soar falta de educação minha perguntar... [cacheimage storage=由紀香私服01l(中)][wvl][chgfg time=300 storage=由紀香私服01l(中) textoff=0]Mas tá tendo algum festival?\"[lr]",
+      "id": 15576,
+      "epk_id": "7481",
+      "label": "$$$message_0052_0010_0000$$$"
+    },
+    {
+      "en": "Straightforward. How very like Saegusa.[lr]",
+      "jp": "ãä¸æãããç´çãªåãã ã[lr]",
+      "Pt-br": "Direta ao ponto. Bem a cara da Saegusa.[lr]",
+      "id": 15577,
+      "epk_id": "7482",
+      "label": "$$$message_0052_0010_0001$$$"
+    },
+    {
+      "en": "She must be curious about his anachronistic clothing.",
+      "jp": "ãå°æ¬¡éã®æä»£ããã£ãæ ¼å¥½ã®ã³ããè¨ãã¦ããã ããã",
+      "Pt-br": "Ela deve estar curiosa sobre a roupa anacrônica dele.",
+      "id": 15578,
+      "epk_id": "7483",
+      "label": "$$$message_0052_0010_0002$$$"
+    },
+    {
+      "en": "\"A festival...? I believe this temple does have such a history. [cacheimage storage=由紀香私服01c(中)][wvl][chgfg time=300 storage=由紀香私服01c(中) textoff=0]Caster said as much, though sadly, I know little else.\"[lr]",
+      "jp": "ãç¥­ã[line len=3]ãã®å¯ºã«ãæ¥æ­´ãããããã ãªã[cacheimage storage=ç±ç´é¦ç§æ01c(ä¸­)][wvl][chgfg time=300 storage=ç±ç´é¦ç§æ01c(ä¸­) textoff=0]ã­ã£ã¹ã¿ã¼ã¯ããè¨ã£ã¦ã¯ãããããã¤ã®ãã¨ãã¯[ruby text=ããã«ã char=2]çæã¨ãªã[lr]",
+      "Pt-br": "\"Um festival...? Acredito que esse templo de fato tenha essa tradição. [cacheimage storage=由紀香私服01c(中)][wvl][chgfg time=300 storage=由紀香私服01c(中) textoff=0]A Caster disse algo parecido, embora eu pouco saiba sobre o assunto.\"[lr]",
+      "id": 15579,
+      "epk_id": "7484",
+      "label": "$$$message_0052_0011_0000$$$"
+    },
+    {
+      "en": "   Saegusa tilts her head, bemused.",
+      "jp": "ã[line len=3]ã©ã¤ã¬ã­ã£ã¦ãªãã ãããã¨é¦ãããããªãããä¸æã¯ç¶ããã",
+      "Pt-br": "A Saegusa inclina a cabeça, confusa.",
+      "id": 15580,
+      "epk_id": "7485",
+      "label": "$$$message_0052_0011_0001$$$"
+    },
+    {
+      "en": "\"Huh.[lr]",
+      "jp": "ãã¯ãã[lr]",
+      "Pt-br": "\"Hã.[lr]",
+      "id": 15581,
+      "epk_id": "7486",
+      "label": "$$$message_0052_0012_0000$$$"
+    },
+    {
+      "en": "Caster is Mr. Kuzuki's wife...right?\"[lr]",
+      "jp": "ãã­ã£ã¹ã¿ã¼ããã£ã¦ãèæ¨å\nçã®å¥¥æ§â¦â¦ã§ããã­ã[lr]",
+      "Pt-br": "Caster-san é a esposa do Kuzuki-sensei... né?\"[lr]",
+      "id": 15582,
+      "epk_id": "7487",
+      "label": "$$$message_0052_0012_0001$$$"
+    },
+    {
+      "en": "\"She is now. How vexing.\"[lr]",
+      "jp": "ããããããã¨ã«ãªã£ã¦ãããå°ã£ããã®ã ã[lr]",
+      "Pt-br": "\"É, agora é. Que irritante.\"[lr]",
+      "id": 15583,
+      "epk_id": "7488",
+      "label": "$$$message_0052_0012_0002$$$"
+    },
+    {
+      "en": "His blunt replies throw Saegusa off even more.[lr]",
+      "jp": "ãç´ ã£æ°ãªãå£ã¶ãã«ãã¾ãã¾ãä¸æã¯å°ã£ã¦ããã[lr]",
+      "Pt-br": "As respostas curtas e grossas dele deixam a Saegusa ainda mais desnorteada.[lr]",
+      "id": 15584,
+      "epk_id": "7489",
+      "label": "$$$message_0052_0012_0003$$$"
+    },
+    {
+      "en": "Thinking this might be a good time to mediate, I peek out from my hiding spot, but stop when I see how hard Saegusa is trying to keep Kojirou engaged. There's no room in this conversation for me.",
+      "jp": "ãä»²ç«ã¡ããã»ããããããªã¨ãé¡ãåºããããªããããæå¤ã«é å¼µãä¸æã®æ§å­ã«ã¤ãè¶³ãæ­¢ã¾ã£ããã§ãããã¯ããã§ãä¿ºã®ã»ããé¡ãåºãéããªãã",
+      "Pt-br": "Pensando que essa talvez seja uma boa hora pra eu intervir, eu espio do meu esconderijo, mas paro quando vejo o quanto a Saegusa tá tentando manter a atenção do Kojirou presa na conversa. Não tem o menor espaço pra mim ali.",
+      "id": 15585,
+      "epk_id": "7490",
+      "label": "$$$message_0052_0012_0004$$$"
+    },
+    {
+      "en": "\"I think Mrs. Caster and Mr. Kuzuki suit each other well, though... Um, what's your name?\"[lr]",
+      "jp": "ãã­ã£ã¹ã¿ã¼ããã¨èæ¨å\nçããä¼¼åãã ã¨æãã®ã§ããã©â¦â¦ãã®ããååã¯ï¼ã[lr]",
+      "Pt-br": "\"Eu acho que a sra. Caster-san e o Kuzuki-sensei combinam bastante juntos, entretanto... Um, qual é o seu nome?\"[lr]",
+      "id": 15586,
+      "epk_id": "7491",
+      "label": "$$$message_0052_0013_0000$$$"
+    },
+    {
+      "en": "\"Kojirou Tsuda.\"[lr]",
+      "jp": "ãæ´¥ç°å°æ¬¡éã¨ã[lr]",
+      "Pt-br": "\"Kojirou Tsuda.\"[lr]",
+      "id": 15587,
+      "epk_id": "7492",
+      "label": "$$$message_0052_0013_0001$$$"
+    },
+    {
+      "en": "\"Do you think they suit each other, Kojirou?\"[lr]",
+      "jp": "ããããå°æ¬¡éããããä¼¼åãã ã¨æãã¾ãããï¼ã[lr]",
+      "Pt-br": "\"Você acha que eles formam um belo par, Kojirou-san?\"[lr]",
+      "id": 15588,
+      "epk_id": "7493",
+      "label": "$$$message_0052_0013_0002$$$"
+    },
+    {
+      "en": "Tsuda? Where'd you get that weird name from?[lr]",
+      "jp": "ãæ´¥ç°ï¼ãå¦ãªååãè¨ããªã[lr]",
+      "Pt-br": "Tsuda? De onde foi que você tirou esse nome esquisito?[lr]",
+      "id": 15589,
+      "epk_id": "7494",
+      "label": "$$$message_0052_0013_0003$$$"
+    },
+    {
+      "en": "Maybe he thinks that calling himself Sasaki while wearing that outfit would invite suspicion.",
+      "jp": "ãæµç³ã«ä½ã\næ¨å°æ¬¡éã¨åä¹ã£ã¦ãã®æ ¼å¥½ã ã¨ãæªãã¾ããã¨æã£ãã®ã ãããã",
+      "Pt-br": "Talvez ele ache que se chamar de Sasaki vestindo aquela roupa ia levantar muitas suspeitas.",
+      "id": 15590,
+      "epk_id": "7495",
+      "label": "$$$message_0052_0013_0004$$$"
+    },
+    {
+      "en": "\"What is your name?\"[lr]",
+      "jp": "ãåã®ååã¯ï¼ã[lr]",
+      "Pt-br": "\"Qual é o teu nome?\"[lr]",
+      "id": 15591,
+      "epk_id": "7496",
+      "label": "$$$message_0052_0014_0000$$$"
+    },
+    {
+      "en": "\"Ah, [cacheimage storage=由紀香私服01b(中)][wvl canskip=0 time=300][chgfg time=300 storage=由紀香私服01b(中) textoff=0]I'm Yukika Saegusa.\"[lr]",
+      "jp": "ããã[cacheimage storage=ç±ç´é¦ç§æ01b(ä¸­)][wvl canskip=0 time=300][chgfg time=300 storage=ç±ç´é¦ç§æ01b(ä¸­) textoff=0]ä¸æç±ç´é¦ã¨ããã¾ãã[lr]",
+      "Pt-br": "\"Ah, [cacheimage storage=由紀香私服01b(中)][wvl canskip=0 time=300][chgfg time=300 storage=由紀香私服01b(中) textoff=0]eu sou a Saegusa Yukika.\"[lr]",
+      "id": 15592,
+      "epk_id": "7497",
+      "label": "$$$message_0052_0014_0001$$$"
+    },
+    {
+      "en": "\"Then, Yukika Saegusa...the sight of that woman's envy when her husband's attention is elsewhere was one of my precious few pleasures, once. [cacheimage storage=小次郎03b(中)][wvl][chgfg time=300 storage=小次郎03b(中) textoff=0]Lately, however, it's lost its luster.\"[lr]",
+      "jp": "ãã§ã¯ç±ç´é¦æ®¿ãç§ã¯å½¼å¥³ãæ¦é£ã«æ§ã£ã¦è²°ããã«å¦¬ãã¦ããã®ãè¦ãã®ããæ°å°ãªãå¨¯æ¥½ã ã£ãã®ã ãã[cacheimage storage=å°æ¬¡é03b(ä¸­)][wvl][chgfg time=300 storage=å°æ¬¡é03b(ä¸­) textoff=0]æ¨ä»ã¯ãã®æå³ã§ã¯ããããé¢ç½ããªãã[lr]",
+      "Pt-br": "\"Pois bem, Saegusa Yukika... presenciar a inveja daquela mulher quando a atenção do seu marido está em outro lugar, foi um dos meus poucos e preciosos prazeres, outrora. [cacheimage storage=小次郎03b(中)][wvl][chgfg time=300 storage=小次郎03b(中) textoff=0]Ultimamente, contudo, isso perdeu seu brilho.\"[lr]",
+      "id": 15593,
+      "epk_id": "7498",
+      "label": "$$$message_0052_0014_0002$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=由紀香私服01m(中)]That's...pretty spiteful, Kojirou.[lr]",
+      "jp": "ã[chgfg time=300 storage=ç±ç´é¦ç§æ01m(ä¸­)]â¦â¦åºæå°ãæªããªãå°æ¬¡éã[lr]",
+      "Pt-br": "[chgfg time=300 storage=由紀香私服01m(中)]Isso é... um tanto maldoso da sua parte, Kojirou.[lr]",
+      "id": 15594,
+      "epk_id": "7499",
+      "label": "$$$message_0052_0014_0003$$$"
+    },
+    {
+      "en": "I can relate, though. He must not be very happy stuck on guard duty all day while Caster frolics around town.",
+      "jp": "ããã©åæ\nã¯ãããã­ã£ã¹ã¿ã¼ãããã ãçºä¸­ãéæ­©ããªãããèªåã¯ãã£ã¨å¯ºã®éçªã®ã¾ã¾ã§ã¯ä¸æ©å«ã«ããªãã ãã",
+      "Pt-br": "Mas eu consigo entender o lado dele. Ele não deve ficar muito feliz sendo obrigado a ficar de guarda o dia todo, enquanto a Caster se diverte na cidade afora.",
+      "id": 15595,
+      "epk_id": "7500",
+      "label": "$$$message_0052_0014_0004$$$"
+    },
+    {
+      "en": "\"Really...\"[lr]",
+      "jp": "ããããªãã§ããâ¦â¦ã[lr]",
+      "Pt-br": "\"Nossa...\"[lr]",
+      "id": 15596,
+      "epk_id": "7501",
+      "label": "$$$message_0052_0015_0000$$$"
+    },
+    {
+      "en": "\"Oh, it's just an odd delight of mine. I'm sure she would be happy to have the blessing of an innocent girl like you.\"[lr]",
+      "jp": "ããªã«ãããã¯[ruby text=ãã¶]å¾ããç§ã®å¥½ã¿ã ãåã®æ§ãªãã©ããªãå¨ããç¥ç¦ãããã¨ç¥ãã°ãå½¼å¥³ãåã¶ã ããã[lr]",
+      "Pt-br": "\"Oh, é apenas um deleite peculiar que eu tenho. Tenho certeza que ela ficaria feliz em receber a bênção de uma garota inocente como tu.\"[lr]",
+      "id": 15597,
+      "epk_id": "7502",
+      "label": "$$$message_0052_0015_0001$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=小次郎04b(中) textoff=0]Kojirou murmurs and sits down on the stairs.",
+      "jp": "ã[chgfg time=300 storage=å°æ¬¡é04b(ä¸­) textoff=0]ãããªã³ããåããªãããå°æ¬¡éãç³æ®µã«è\n°ãä¸ããã",
+      "Pt-br": "[chgfg time=300 storage=小次郎04b(中) textoff=0]Kojirou murmura e se senta nos degraus.",
+      "id": 15598,
+      "epk_id": "7503",
+      "label": "$$$message_0052_0015_0002$$$"
+    },
+    {
+      "en": "\"I'm...innocent?\"[lr]",
+      "jp": "ããã©ããªãã§ããããããã[lr]",
+      "Pt-br": "\"Eu sou... inocente?\"[lr]",
+      "id": 15599,
+      "epk_id": "7504",
+      "label": "$$$message_0052_0016_0000$$$"
+    },
+    {
+      "en": "Kojirou's body language seems intended to shoo Saegusa away, but she sits down next to him, instead.",
+      "jp": "ãããã«ãèªåã«æ§ã£ã¦ããããª[line len=3]ã¨é¿ããç´ æ¯ãã ã£ãããä¸æã¾ã§ä¸ç·ã«è\n°ãä¸ããã",
+      "Pt-br": "A linguagem corporal do Kojirou parece ser feita com o intuito de espantar a Saegusa dali, mas, em vez de ir embora, ela se senta bem do ladinho dele.",
+      "id": 15600,
+      "epk_id": "7505",
+      "label": "$$$message_0052_0016_0001$$$"
+    },
+    {
+      "en": "\"...?\"[lr]",
+      "jp": "ãâ¦â¦â¦â¦ï¼ã[lr]",
+      "Pt-br": "\"...?\"[lr]",
+      "id": 15601,
+      "epk_id": "7506",
+      "label": "$$$message_0052_0017_0000$$$"
+    },
+    {
+      "en": "\"Um... Kojirou, I'm not i-imagining you, am I?\"[wm canskip=0][lr]",
+      "jp": "ããã®â¦â¦å°æ¬¡éããããããã£ã±ããããã®è¦ééããããªãã§ããã­ï¼ã[wm canskip=0][lr]",
+      "Pt-br": "\"Um... Kojirou-san, você n-não é uma imaginação minha, é?\"[wm canskip=0][lr]",
+      "id": 15602,
+      "epk_id": "7507",
+      "label": "$$$message_0052_0017_0001$$$"
+    },
+    {
+      "en": "Saegusa pokes at Kojirou's robes as she asks her question. The object of her curiosity doesn't seem to react, but I can tell it bothers him.",
+      "jp": "ããããªãã¨ãè¨ããªããä¸æã¯ãºããºãã¨å°æ¬¡éã®[ruby text=ãã¿ãã]è£ãè§¦ã£ã¦ãããè§¦ãããæ¹ããè¡¨æ\nã«ã¯åºã¦ãªããã©ãããã¯å°ã£ã¦ããã",
+      "Pt-br": "Saegusa dá uns cutucões no manto do Kojirou enquanto faz a pergunta. O alvo de sua curiosidade não parece reagir a isso, mas eu sei muito bem que isso o incomoda.",
+      "id": 15603,
+      "epk_id": "7508",
+      "label": "$$$message_0052_0017_0002$$$"
+    },
+    {
+      "en": "\"Maki and Kane say that there's no samurai at the temple gate. [cacheimage storage=由紀香私服02b(近)][wvl canskip=0 time=500][chgfg time=200 storage=由紀香私服02b(近) textoff=0][move textoff=0 time=80 path=(386,153,255)(401,147,255)(424,150,255)(438,157,255)(443,152,255) storage=由紀香私服02b(近) accel=1 spline=1]But you're really here.\"[wm canskip=0][lr]",
+      "jp": "ãèã¡ãããéã¡ããã¯ããå¯ºã®å±±éã«ãä¾ãããªããããªãã£ã¦ãããã§ãã[cacheimage storage=ç±ç´é¦ç§æ02b(è¿)][wvl canskip=0 time=500][chgfg time=200 storage=ç±ç´é¦ç§æ02b(è¿) textoff=0][move textoff=0 time=80 path=(386,153,255)(401,147,255)(424,150,255)(438,157,255)(443,152,255) storage=ç±ç´é¦ç§æ02b(è¿) accel=1 spline=1]ã§ããã£ã±ããæ¬å½ã«ãããã§ãã­ã[wm canskip=0][lr]",
+      "Pt-br": "\"A Maki-chan e a Kane-chan disseram que não tinha nenhum samurai no portão do templo. [cacheimage storage=由紀香私服02b(近)][wvl canskip=0 time=500][chgfg time=200 storage=由紀香私服02b(近) textoff=0][move textoff=0 time=80 path=(386,153,255)(401,147,255)(424,150,255)(438,157,255)(443,152,255) storage=由紀香私服02b(近) accel=1 spline=1]Mas você tá realmente aqui.\"[wm canskip=0][lr]",
+      "id": 15604,
+      "epk_id": "7509",
+      "label": "$$$message_0052_0018_0000$$$"
+    },
+    {
+      "en": "\"...They just came at the wrong time.\"[lr]",
+      "jp": "ã[line len=3]å½¼å¥³ãã¡ãæ¥ãæã¯ãæãæªãã£ãã®ã ããã[lr]",
+      "Pt-br": "\"...Elas apenas vieram na hora errada.\"[lr]",
+      "id": 15605,
+      "epk_id": "7510",
+      "label": "$$$message_0052_0018_0001$$$"
+    },
+    {
+      "en": "Kojirou looks bewildered.[lr]",
+      "jp": "ãä¸¦ãã§åº§ãå°æ¬¡éãå°æãå«ãã§åãã[lr]",
+      "Pt-br": "O Kojirou parece atônito.[lr]",
+      "id": 15606,
+      "epk_id": "7511",
+      "label": "$$$message_0052_0018_0002$$$"
+    },
+    {
+      "en": "Even he would find it hard to deny a puppy's curiosity.",
+      "jp": "ããããªå­ç¬ã¿ããã«æããã¦ãã¾ã£ã¦ã¯ãå°æ¬¡éãéªéºã«ãã¥ããã",
+      "Pt-br": "Até mesmo ele acharia difícil negar a curiosidade de um cachorrinho.",
+      "id": 15607,
+      "epk_id": "7512",
+      "label": "$$$message_0052_0018_0003$$$"
+    },
+    {
+      "en": "\"Really? You were inside the whole time?\"[lr]",
+      "jp": "ãæ¬å½ã§ããï¼ããã¤ããå ã®ä¸­ã«ï¼ã[lr]",
+      "Pt-br": "\"Sério? Você tava lá dentro esse tempo todo?\"[lr]",
+      "id": 15608,
+      "epk_id": "7513",
+      "label": "$$$message_0052_0019_0000$$$"
+    },
+    {
+      "en": "\"No...I was on top of the gate. My job is to watch for unsavory characters hiding among the pilgrims.\"[lr]",
+      "jp": "ãããâ¦â¦å±±éã®ä¸ã«ãªããã®ä¸ã§åè©£ã®å®¢ã«ä¸å¿å¾è\nãç´ãã¦ããªãããçªºãéçªå½¹ã ãç§ã¯ã[lr]",
+      "Pt-br": "\"Não... Eu estava no topo do portão. Meu trabalho é ficar de olho em sujeitos desagradáveis escondidos entre os peregrinos.\"[lr]",
+      "id": 15609,
+      "epk_id": "7514",
+      "label": "$$$message_0052_0019_0001$$$"
+    },
+    {
+      "en": "He isn't lying, but it isn't the whole truth, either.[lr]",
+      "jp": "ãåã¯è¨ã£ã¦ãªããã©ãå\n¨ãã®äºå®ã§ããªãã[lr]",
+      "Pt-br": "Ele não tá mentindo, mas também não é toda a verdade.[lr]",
+      "id": 15610,
+      "epk_id": "7515",
+      "label": "$$$message_0052_0019_0002$$$"
+    },
+    {
+      "en": "I'm sure he's hesitant to tell her all about Servants.",
+      "jp": "ããããããµã¼ã´ã¡ã³ãäºã\nãå£ã«ããã®ãã¯ã°ããããã ãããã",
+      "Pt-br": "Com certeza ele hesita em contar tudo sobre os Servos pra ela.",
+      "id": 15611,
+      "epk_id": "7516",
+      "label": "$$$message_0052_0019_0003$$$"
+    },
+    {
+      "en": "\"Oh, so that's why you're dressed like a samurai? [cacheimage storage=由紀香私服02a(中)][wvl canskip=0 time=400][chgfg time=300 storage=由紀香私服02a(中) textoff=0]I was wondering if you were practicing for one of the festival shows.\"[lr]",
+      "jp": "ãããããã ãããä¾ããã¿ãããªæ ¼å¥½ããã¦ããã§ããï¼ã[cacheimage storage=ç±ç´é¦ç§æ02a(ä¸­)][wvl canskip=0 time=400][chgfg time=300 storage=ç±ç´é¦ç§æ02a(ä¸­) textoff=0]ããããç§ã®ãç¥­ãã®æ¼ãç©ã®ãç¨½å¤ããã¦ãã®ããªã¼ã£ã¦æã£ã¦ããã§ãã[lr]",
+      "Pt-br": "\"Ah, então é por isso que você tá vestido como um samurai? [cacheimage storage=由紀香私服02a(中)][wvl canskip=0 time=400][chgfg time=300 storage=由紀香私服02a(中) textoff=0]Eu tava me perguntando se você não estaria treinando para algum dos shows do festival.\"[lr]",
+      "id": 15612,
+      "epk_id": "7517",
+      "label": "$$$message_0052_0020_0000$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "ãâ¦â¦â¦â¦ã[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 15613,
+      "epk_id": "7518",
+      "label": "$$$message_0052_0020_0001$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=由紀香私服02b(中) textoff=0]Aha. Kojirou looks like he's at a loss, while Saegusa smiles innocently.",
+      "jp": "ã[chgfg time=300 storage=ç±ç´é¦ç§æ02b(ä¸­) textoff=0]ãªãã»ã©ãå°æ¬¡éã¯éå£ãã¦ããããã ã£ããã©ãä¸æã¯ç¡å¢ãªç¬é¡ãããµããããã",
+      "Pt-br": "[chgfg time=300 storage=由紀香私服02b(中) textoff=0]Aha. O Kojirou parece não saber o que fazer, enquanto a Saegusa sorri inocentemente pra ele.",
+      "id": 15614,
+      "epk_id": "7519",
+      "label": "$$$message_0052_0020_0002$$$"
+    },
+    {
+      "en": "\"That's amazing, Kojirou. You look like an actual samurai. Uh... [cacheimage storage=由紀香私服02c(中)][wvl][chgfg time=300 storage=由紀香私服02c(中) textoff=0]Is that longsword on your back real?\"[lr]",
+      "jp": "ããããã§ãå°æ¬¡éãããæ¬å½ã«ãä¾ããã¿ããã§ãããã®â¦â¦[cacheimage storage=ç±ç´é¦ç§æ02c(ä¸­)][wvl][chgfg time=300 storage=ç±ç´é¦ç§æ02c(ä¸­) textoff=0]å¾ãã®é·ãåã£ã¦ãæ¬ç©ã§ããï¼ã[lr]",
+      "Pt-br": "\"Isso é incrível, Kojirou-san. Você parece até um samurai de verdade. Uh... [cacheimage storage=由紀香私服02c(中)][wvl][chgfg time=300 storage=由紀香私服02c(中) textoff=0]Essa espada longa nas suas costas é real?\"[lr]",
+      "id": 15615,
+      "epk_id": "7520",
+      "label": "$$$message_0052_0021_0000$$$"
+    },
+    {
+      "en": "\"...Its name is Bicchuu Aoe. It is over five shaku long.\"[lr]",
+      "jp": "ã[line len=3]äºå°ºä½ã®[ruby text=ã³ã£ã¡ã\nãããã char=4]åä¸­éæ±ã ã[lr]",
+      "Pt-br": "\"...O seu nome é Bicchuu Aoe. Ela possui mais de cinco shaku de comprimento.\"[lr]",
+      "id": 15616,
+      "epk_id": "7521",
+      "label": "$$$message_0052_0021_0001$$$"
+    },
+    {
+      "en": "\"Wah... Wawawawah...\"[wm canskip=0]",
+      "jp": "ãããâ¦â¦ããããâ¦â¦ã[wm canskip=0]",
+      "Pt-br": "\"Uau... Uauauauau...\"[wm canskip=0]",
+      "id": 15617,
+      "epk_id": "7522",
+      "label": "$$$message_0052_0021_0002$$$"
+    },
+    {
+      "en": "When she hears that it's a real sword, Saegusa jumps backward, babbling.[lr]",
+      "jp": "ãçå£ã¨èãã¦ãä¸æãé£ã³éãã[lr]",
+      "Pt-br": "Quando escuta que é uma espada de verdade, Saegusa dá um salto pra trás, tagarelando.[lr]",
+      "id": 15618,
+      "epk_id": "7523",
+      "label": "$$$message_0052_0022_0000$$$"
+    },
+    {
+      "en": "...It's only to be expected. Anyone would be scared if a man carrying a real sword was in front of them. In fact, something's wrong with me for not reacting that way.",
+      "jp": "ãâ¦â¦ããèãããå½ç¶ã ããªãçå£ããããããç·ãç®åã«å±\nãã¨ç¥ãã°æ¯ããããããã®è¾ºãèãã¦ãåããªãä¿ºã®éæã®ã»ããã©ãããã¦ãã",
+      "Pt-br": "...Isso era de se esperar. Qualquer um ficaria morrendo de medo se um cara carregando uma espada de verdade ficasse na frente deles. Na verdade, tem algo de errado comigo por não reagir da mesma forma.",
+      "id": 15619,
+      "epk_id": "7524",
+      "label": "$$$message_0052_0022_0001$$$"
+    },
+    {
+      "en": "\"Haha, don't be afraid. I would not slay a helpless child.\"[lr]",
+      "jp": "ãã¯ã¯ãæ¯ãããªãæåãã¬å¥³å­ä¾ã¯æ¬ãã¯ãã¬ã[lr]",
+      "Pt-br": "\"Haha, não tenha medo. Eu jamais cortaria uma criança indefesa.\"[lr]",
+      "id": 15620,
+      "epk_id": "7525",
+      "label": "$$$message_0052_0023_0000$$$"
+    },
+    {
+      "en": "\"But aren't you worried about the police?\"[lr]",
+      "jp": "ãã§ããè­¦å¯ã¨ãå¤§ä¸å¤«ãªãã§ããï¼ã[lr]",
+      "Pt-br": "\"Mas você não tá preocupado com a polícia?\"[lr]",
+      "id": 15621,
+      "epk_id": "7526",
+      "label": "$$$message_0052_0023_0001$$$"
+    },
+    {
+      "en": "\"Temples have always been off-limits to local wardens. They are of no concern.\"[lr]",
+      "jp": "ãå¯ºç¤¾ã¯å\nããå®è­·ä¸å\n¥ã®å°ã ãå¿é\nã¯ãªãã[lr]",
+      "Pt-br": "\"Templos sempre foram lugares proibidos aos guardas locais. Eles não são uma preocupação.\"[lr]",
+      "id": 15622,
+      "epk_id": "7527",
+      "label": "$$$message_0052_0023_0002$$$"
+    },
+    {
+      "en": "What century are we talking about here?[lr]",
+      "jp": "ããã¤ã®æä»£ã®è©±ã ãããï¼[lr]",
+      "Pt-br": "Em que século que a gente tá mesmo?[lr]",
+      "id": 15623,
+      "epk_id": "7528",
+      "label": "$$$message_0052_0023_0003$$$"
+    },
+    {
+      "en": "[move textoff=0 time=100 path=(571,89,255)(564,98,255)(557,84,255)(539,77,255)(527,84,255)(521,93,255)(509,75,255) storage=由紀香私服02i(中) accel=-2 spline=1]Still looking terrified, Saegusa works up her courage and sits down next to Kojirou again.[wm canskip=0][chgfg time=300 storage=由紀香私服02b(中) textoff=0]",
+      "jp": "ã[move textoff=0 time=100 path=(571,89,255)(564,98,255)(557,84,255)(539,77,255)(527,84,255)(521,93,255)(509,75,255) storage=ç±ç´é¦ç§æ02i(ä¸­) accel=-2 spline=1]æããã¤ã¤ãä¸æã¯ãããä¸åº¦æãæ±ºãã¦å°æ¬¡éã®æ¨ªã«ãããã[wm canskip=0][chgfg time=300 storage=ç±ç´é¦ç§æ02b(ä¸­) textoff=0]",
+      "Pt-br": "[move textoff=0 time=100 path=(571,89,255)(564,98,255)(557,84,255)(539,77,255)(527,84,255)(521,93,255)(509,75,255) storage=由紀香私服02i(中) accel=-2 spline=1]Mesmo parecendo estar morta de medo, a Saegusa toma coragem e volta a se sentar ao lado do Kojirou de novo.[wm canskip=0][chgfg time=300 storage=由紀香私服02b(中) textoff=0]",
+      "id": 15624,
+      "epk_id": "7529",
+      "label": "$$$message_0052_0023_0004$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "ãâ¦â¦â¦â¦ã[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 15625,
+      "epk_id": "7530",
+      "label": "$$$message_0052_0024_0000$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "ã[line len=6]ã[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 15626,
+      "epk_id": "7531",
+      "label": "$$$message_0052_0024_0001$$$"
+    },
+    {
+      "en": "There's no place for the conversation to resume from, but they seem to be getting along well enough.[lr]",
+      "jp": "ãä¼è©±ã®ã¨ã£ãããããªãäºäººã¯é»ã£ãã¾ã¾ã§ãããã©ããªãã¨ãªãè¯ãé°å²æ°ã ã[lr]",
+      "Pt-br": "Não sobrou nada pra reacender a conversa, mas eles parecem estar se dando bem.[lr]",
+      "id": 15627,
+      "epk_id": "7532",
+      "label": "$$$message_0052_0024_0002$$$"
+    },
+    {
+      "en": "As I'm watching them from behind the gate... The sudden shame of peering in on their conversation makes me scratch my head in embarrassment.",
+      "jp": "ãéã®å¾ãã§çºãã¦ããâ¦â¦ã¨ãããããã¬ã¡ä¸­ã®ä¿ºãã¤ãæ¥ãããããªã£ã¦é ­ãããããäºäººãè¦å®ãã",
+      "Pt-br": "Enquanto eu continuo os observando de trás do portão... A vergonha repentina de bisbilhotar a conversa alheia me faz coçar a cabeça, envergonhado.",
+      "id": 15628,
+      "epk_id": "7533",
+      "label": "$$$message_0052_0024_0003$$$"
+    },
+    {
+      "en": "\"Kojirou...um...\"[lr]",
+      "jp": "ãå°æ¬¡éããâ¦â¦ãã®â¦â¦ã[lr]",
+      "Pt-br": "\"Kojirou-san... um...\"[lr]",
+      "id": 15629,
+      "epk_id": "7534",
+      "label": "$$$message_0052_0025_0000$$$"
+    },
+    {
+      "en": "\"What is it?\"[lr]",
+      "jp": "ããªã«ããªã[lr]",
+      "Pt-br": "\"O que foi?\"[lr]",
+      "id": 15630,
+      "epk_id": "7535",
+      "label": "$$$message_0052_0025_0001$$$"
+    },
+    {
+      "en": "\"If it's all right with you...er...\"[lr]",
+      "jp": "ãããè¯ããã°â¦â¦ãã®ããã®ã[lr]",
+      "Pt-br": "\"Se estiver tudo bem por você... er...\"[lr]",
+      "id": 15631,
+      "epk_id": "7536",
+      "label": "$$$message_0052_0025_0002$$$"
+    },
+    {
+      "en": "I'm getting anxious just listening to this.[lr]",
+      "jp": "ãèãã¦ããä¿ºã®æ¹ãç·å¼µããã[lr]",
+      "Pt-br": "Até eu tô ficando ansioso só de escutar essa enrolação toda.[lr]",
+      "id": 15632,
+      "epk_id": "7537",
+      "label": "$$$message_0052_0025_0003$$$"
+    },
+    {
+      "en": "Saegusa's talking to a man all by herself![lr]",
+      "jp": "ãä¸æããé²ãã§ç·æ§ã«è©±ããããã¨ãã¦ããï¼[lr]",
+      "Pt-br": "A Saegusa tá conversando com um homem sem ninguém pra ajudar![lr]",
+      "id": 15633,
+      "epk_id": "7538",
+      "label": "$$$message_0052_0025_0004$$$"
+    },
+    {
+      "en": "I wonder what makes her so curious about Kojirou that she's being just a little bolder than usual. If Makidera were here, she'd be making a mess of things, no doubt.",
+      "jp": "ããã¦å°æ¬¡éã®ãã£ããä½ãä¸æã®æ°ãå¼ãã¦ããã¤ãããã¡ãã£ã´ãå¤§èã«ãããã®ãããã®å ´ã«èå¯ºããããå¤§é¨ãå¤§æ´ãééããªãã ã",
+      "Pt-br": "Fico me perguntando o que faz ela ter tanta curiosidade no Kojirou ao ponto de a fazer agir com um pouquinho mais de ousadia do que de costume. Se a Makidera tivesse aqui, com certeza ela já estaria armando uma maior bagunça.",
+      "id": 15634,
+      "epk_id": "7539",
+      "label": "$$$message_0052_0025_0005$$$"
+    },
+    {
+      "en": "\"I was wondering if you'd be willing to meet Maki and Kane...\"[lr]",
+      "jp": "ãä»åº¦ãèã¡ããã¨éã¡ããã«ä¼ã£ã¦ããããªãããªãã£ã¦æããã§ããã©ãâ¦â¦ã[lr]",
+      "Pt-br": "\"Eu queria saber se você aceitaria conhecer a Maki-chan e a Kane-chan...\"[lr]",
+      "id": 15635,
+      "epk_id": "7540",
+      "label": "$$$message_0052_0026_0000$$$"
+    },
+    {
+      "en": "\"Your friends? Yes, I do recall seeing this Kane before.\"[lr]",
+      "jp": "ããã®äºäººã¯åã®åäººãããããéã¨ãã[line len=3]å½¼å¥³ã®æ¹ã¯è¦è¦ãããããªã[lr]",
+      "Pt-br": "\"Suas amigas? Sim, lembro-me bem de já ter visto essa tal de Kane antes.\"[lr]",
+      "id": 15636,
+      "epk_id": "7541",
+      "label": "$$$message_0052_0026_0001$$$"
+    },
+    {
+      "en": "Kojirou nods, but his expression is stern.",
+      "jp": "ãå°æ¬¡éãé ·ãã¦ããããçã¯éºããã",
+      "Pt-br": "Kojirou concorda, mas sua expressão é severa.",
+      "id": 15637,
+      "epk_id": "7542",
+      "label": "$$$message_0052_0026_0002$$$"
+    },
+    {
+      "en": "\"Really? You've met Kane before?\"[lr]",
+      "jp": "ãæ¬å½ã§ããï¼ãéã¡ããã¨å°æ¬¡éããã£ã¦ããããç¥ããããªãã§ããï¼ã[lr]",
+      "Pt-br": "\"Sério? Você já encontrou a Kane-chan antes?\"[lr]",
+      "id": 15638,
+      "epk_id": "7543",
+      "label": "$$$message_0052_0027_0000$$$"
+    },
+    {
+      "en": "\"I simply happened to catch sight of her. I was up above the last time she came by.[lr]",
+      "jp": "ããã¡ããä¸æ¹çã«è¦ç¥ã£ã¦ããã ãã ããã®æã¯ä¸ã«ãããã®ã§ã­ã[lr]",
+      "Pt-br": "\"Foi simplesmente um acaso de tê-la avistado. Eu estava lá em cima na última vez que ela apareceu.[lr]",
+      "id": 15639,
+      "epk_id": "7544",
+      "label": "$$$message_0052_0027_0001$$$"
+    },
+    {
+      "en": "Is it truly a good idea, though, for your friends to meet a hermit such as me?\"",
+      "jp": "ãããããã¦ãã©ããããã®ããç§ã®ãããªä¸æ¨ã¦äººã¨é¢ä¼ããã¨ããã§ããªã",
+      "Pt-br": "No entanto, é deveras uma boa ideia as tuas amigas conhecerem um eremita feito eu?\"",
+      "id": 15640,
+      "epk_id": "7545",
+      "label": "$$$message_0052_0027_0002$$$"
+    },
+    {
+      "en": "He lets out a light, theatrical sigh.[lr]",
+      "jp": "ãè»½ãåæ¯ã[lr]",
+      "Pt-br": "Ele solta um leve suspiro teatral.[lr]",
+      "id": 15641,
+      "epk_id": "7546",
+      "label": "$$$message_0052_0028_0000$$$"
+    },
+    {
+      "en": "It looks like he's taking advantage of Saegusa's naïveté to entertain himself.",
+      "jp": "ãå°æ¬¡éã®ãã¶ãã¯èå±\nããã£ã¦ãã¦ãä¸æã®ç´æ´ã[ruby text=ãããª]è´ã«ãéå±ãã¾ããããã¦ããããã«è¦ããã",
+      "Pt-br": "Parece que ele tá se aproveitando da ingenuidade da Saegusa só pra se divertir.",
+      "id": 15642,
+      "epk_id": "7547",
+      "label": "$$$message_0052_0028_0001$$$"
+    },
+    {
+      "en": "\"Ah... I-I'm sorry. I didn't mean to bother you... You're right.\"[lr]",
+      "jp": "ããâ¦â¦ããããããªãããããããããªã¤ãããããªãã¦â¦â¦ããã§ãã­ã[lr]",
+      "Pt-br": "\"Ah... M-Me desculpe. Eu não quis ser um incômodo... Você tá certo.\"[lr]",
+      "id": 15643,
+      "epk_id": "7548",
+      "label": "$$$message_0052_0029_0000$$$"
+    },
+    {
+      "en": "Saegusa looks disappointed.[lr]",
+      "jp": "ãä¸æã¯ãããã¼ããã¦ããã[lr]",
+      "Pt-br": "A Saegusa parece desapontada.[lr]",
+      "id": 15644,
+      "epk_id": "7549",
+      "label": "$$$message_0052_0029_0001$$$"
+    },
+    {
+      "en": "It would take someone as pushy as Makidera or Tohsaka to get him to agree to that.",
+      "jp": "ããããªå¼·å¼ãªç´æãåãã¤ããçä¼¼ãã§ããã®ã¯ãèå¯ºãé åãããã ããã",
+      "Pt-br": "Precisaria de alguém bem insistente como a Makidera ou a Tohsaka pra fazer com que ele concordasse com isso.",
+      "id": 15645,
+      "epk_id": "7550",
+      "label": "$$$message_0052_0029_0002$$$"
+    },
+    {
+      "en": "\"U-um!\"[lr]",
+      "jp": "ããããã®ï¼ã[lr]",
+      "Pt-br": "\"U-um!\"[lr]",
+      "id": 15646,
+      "epk_id": "7551",
+      "label": "$$$message_0052_0030_0000$$$"
+    },
+    {
+      "en": "\"Yes, Lady Yukika?\"[lr]",
+      "jp": "ãç±ç´é¦æ®¿ï¼ã[lr]",
+      "Pt-br": "\"Sim, senhorita Yukika?\"[lr]",
+      "id": 15647,
+      "epk_id": "7552",
+      "label": "$$$message_0052_0030_0001$$$"
+    },
+    {
+      "en": "\"In that case, would you...be so kind as to meet my little brothers sometime?\"",
+      "jp": "ãããã§ãããä»åº¦ããããã®å¼ãã¡ã«ä¼ã£ã¦â¦â¦ããã ãã¾ãããï¼ã",
+      "Pt-br": "\"Sendo assim, você seria... tão gentil a ponto de se encontrar com os meus irmãozinhos algum dia?\"",
+      "id": 15648,
+      "epk_id": "7553",
+      "label": "$$$message_0052_0030_0002$$$"
+    },
+    {
+      "en": "\"And why would I do that?\"[lr]",
+      "jp": "ãããã¯ããªãããªã[lr]",
+      "Pt-br": "\"E por qual motivo eu faria isso?\"[lr]",
+      "id": 15649,
+      "epk_id": "7554",
+      "label": "$$$message_0052_0031_0000$$$"
+    },
+    {
+      "en": "\"I think they would be amazed to see a real live samurai. [cacheimage storage=由紀香私服01j(中)][wvl canskip=0 time=400][chgfg time=300 storage=由紀香私服01j(中) textoff=0]If you'd be willing to make time for them, that is...\"[lr]",
+      "jp": "ããã£ã¨å¼ãã¡ãæ¬å½ã«ãä¾ããããããã ããããªã¼ã£ã¦é©ãã¦ãããã¨æããã§ãã[cacheimage storage=ç±ç´é¦ç§æ01j(ä¸­)][wvl canskip=0 time=400][chgfg time=300 storage=ç±ç´é¦ç§æ01j(ä¸­) textoff=0]ã ãããã®ãç´æãã¦ããããããã®â¦â¦ã[lr]",
+      "Pt-br": "\"Eu acho que eles iam ficar super maravilhados de ver um samurai de verdade, vivinho da silva. [cacheimage storage=由紀香私服01j(中)][wvl canskip=0 time=400][chgfg time=300 storage=由紀香私服01j(中) textoff=0]Se você estiver disposto a arrumar um tempinho pra eles, é claro...\"[lr]",
+      "id": 15650,
+      "epk_id": "7555",
+      "label": "$$$message_0052_0031_0001$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=由紀香私服01k(中) textoff=0]Saegusa trails off again.[lr]",
+      "jp": "ã[chgfg time=300 storage=ç±ç´é¦ç§æ01k(ä¸­) textoff=0]ããã¾ã§è¨ãã¨ãä¸æã¯é»ãããã£ã¦ãã¾ãã[lr]",
+      "Pt-br": "[chgfg time=300 storage=由紀香私服01k(中) textoff=0]Saegusa deixa a voz morrer de novo.[lr]",
+      "id": 15651,
+      "epk_id": "7556",
+      "label": "$$$message_0052_0031_0002$$$"
+    },
+    {
+      "en": "I'm sure she's trying her hardest.[lr]",
+      "jp": "ããããç²¾ä¸æ¯ãªãã ããã[lr]",
+      "Pt-br": "Tenho certeza de que ela está dando o melhor de si.[lr]",
+      "id": 15652,
+      "epk_id": "7557",
+      "label": "$$$message_0052_0031_0003$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=小次郎03b(中) textoff=0]   Kojirou smiles faintly at the invitation. There's no way she knows the weight of what she's asking him to commit to.",
+      "jp": "ã[chgfg time=300 storage=å°æ¬¡é03b(ä¸­) textoff=0][line len=3]ç´æãã¨ããå½¼å¥³ã«ãã¦ã¯æãã¤ããè¨èãè³ã«ãã¦ããããã«å°æ¬¡éã¯ç¬ãããã®ç´æã®éãã«ç¸ããã¦ã[ruby text=ãã o2o=1]ç¾å®ã«ããèº«ãªã®ã ã¨ãä¸æã¯ç¥ãã¯ãããªãã",
+      "Pt-br": "[chgfg time=300 storage=小次郎03b(中) textoff=0]   Kojirou sorri de leve com o convite. Ela nem faz ideia do peso da responsabilidade do que ela acabou de pedir pra ele.",
+      "id": 15653,
+      "epk_id": "7558",
+      "label": "$$$message_0052_0031_0004$$$"
+    },
+    {
+      "en": "\"You have younger brothers, my lady?\"[lr]",
+      "jp": "ãç±ç´é¦æ®¿ã«ã¯å¼å¾¡ãããããã®ãã[lr]",
+      "Pt-br": "\"Tens irmãos mais novos, milady?\"[lr]",
+      "id": 15654,
+      "epk_id": "7559",
+      "label": "$$$message_0052_0032_0000$$$"
+    },
+    {
+      "en": "\"Yes. I'm the oldest.\"[lr]",
+      "jp": "ãã¯ããããããä¸çªä¸ã®ãå§ãããªãã§ãã[lr]",
+      "Pt-br": "\"Sim. Eu sou a mais velha, Onee-san.\"[lr]",
+      "id": 15655,
+      "epk_id": "7560",
+      "label": "$$$message_0052_0032_0001$$$"
+    },
+    {
+      "en": "\"I see. They must be kind and thoughtful, like their sister.\"[lr]",
+      "jp": "ããããâ¦â¦å§ä¸ã«ä¼¼ã¦ãå§å¼æ³ãã®åªããå¼å¾¡ãªã®ã§ãããã[lr]",
+      "Pt-br": "\"Entendo. Eles devem ser tão gentis e atenciosos quanto a sua doce irmã.\"[lr]",
+      "id": 15656,
+      "epk_id": "7561",
+      "label": "$$$message_0052_0032_0002$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=由紀香私服01c頬(中) textoff=0]Saegusa blushes bright red at Kojirou's compliment.[lr]",
+      "jp": "ã[chgfg time=300 storage=ç±ç´é¦ç§æ01cé ¬(ä¸­) textoff=0]å°æ¬¡éãè¤ããã¨ãã½ã¼ã£ã¨ä¸æãèµ¤é¢ããã[lr]",
+      "Pt-br": "[chgfg time=300 storage=由紀香私服01c頬(中) textoff=0]Saegusa fica vermelha que nem um pimentão depois do elogio do Kojirou.[lr]",
+      "id": 15657,
+      "epk_id": "7562",
+      "label": "$$$message_0052_0032_0003$$$"
+    },
+    {
+      "en": "[shock vmax=20 time=400 count=-4][chgfg time=200 pos=r storage=由紀香私服01l(中) textoff=0]She starts to panic again.",
+      "jp": "ã[shock vmax=20 time=400 count=-4][chgfg time=200 pos=r storage=ç±ç´é¦ç§æ01l(ä¸­) textoff=0]ããããã¨ä¸æãã¾ãæ\nã¦å§ããã",
+      "Pt-br": "[shock vmax=20 time=400 count=-4][chgfg time=200 pos=r storage=由紀香私服01l(中) textoff=0]E volta a entrar em pânico de novo.",
+      "id": 15658,
+      "epk_id": "7563",
+      "label": "$$$message_0052_0032_0004$$$"
+    },
+    {
+      "en": "\"Th-that isn't true! [wm canskip=0][cacheimage storage=由紀香私服01n(近),由紀香私服02h(近)][wvl canskip=0 time=200][movefg textoff=0 opacity=0 left=404 top=220 time=300 accel=0 storage=由紀香私服01n(近)][movefg textoff=0 opacity=255 left=411 top=240 time=300 accel=0 storage=由紀香私服02h(近)]They're naughty, they don't listen to me, they eat too much, they're always stirring up trouble, [wm canskip=0][wm canskip=0][cacheimage storage=由紀香私服01d(近),由紀香私服02h(近),由紀香私服02d(近),小次郎03a(近)][wvl][movefg textoff=0 opacity=255 left=418 top=200 time=300 accel=0 storage=由紀香私服01d(近)][movefg textoff=0 opacity=0 left=459 top=199 time=300 accel=0 storage=由紀香私服02h(近)]and I bet they're going to say weird things to you and it oh gosh makes me so nervous I'm sorry, um!\"[wm canskip=0][wm canskip=0][rep textoff=0 fliplr=0 tops=207, fliplrs=,1 storages=由紀香私服02d(近),小次郎03a(近) time=300 flipudr=0 lefts=436, monos=,1 poss=,l colors=,0xFF5A5A5A indexes=1000,4000][move textoff=0 time=260 path=(431,219,255)(427,206,255)(425,219,255) storage=由紀香私服02d(近) accel=-2][wm canskip=0][lr]",
+      "jp": "ããããããªãã¨ãªãã§ãï¼ã[wm canskip=0][cacheimage storage=ç±ç´é¦ç§æ01n(è¿),ç±ç´é¦ç§æ02h(è¿)][wvl canskip=0 time=200][movefg textoff=0 opacity=0 left=404 top=220 time=300 accel=0 storage=ç±ç´é¦ç§æ01n(è¿)][movefg textoff=0 opacity=255 left=411 top=240 time=300 accel=0 storage=ç±ç´é¦ç§æ02h(è¿)]ã¿ããªããã¡ãã§è¨ããã¨èããªãã¦é£ãããåã§ããããå°ããã¦ã°ã£ããã§ã[wm canskip=0][wm canskip=0][cacheimage storage=ç±ç´é¦ç§æ01d(è¿),ç±ç´é¦ç§æ02h(è¿),ç±ç´é¦ç§æ02d(è¿),å°æ¬¡é03a(è¿)][wvl][movefg textoff=0 opacity=255 left=418 top=200 time=300 accel=0 storage=ç±ç´é¦ç§æ01d(è¿)][movefg textoff=0 opacity=0 left=459 top=199 time=300 accel=0 storage=ç±ç´é¦ç§æ02h(è¿)]ããé£ãã¦ãã¦ãå°æ¬¡éããã«å¤ãªãã¨è¨ã£ã¡ãã£ããããªããã£ã¦ä¸å®ã§ãããããã¾ãããã®ï¼ã[wm canskip=0][wm canskip=0][rep textoff=0 fliplr=0 tops=207, fliplrs=,1 storages=ç±ç´é¦ç§æ02d(è¿),å°æ¬¡é03a(è¿) time=300 flipudr=0 lefts=436, monos=,1 poss=,l colors=,0xFF5A5A5A indexes=1000,4000][move textoff=0 time=260 path=(431,219,255)(427,206,255)(425,219,255) storage=ç±ç´é¦ç§æ02d(è¿) accel=-2][wm canskip=0][lr]",
+      "Pt-br": "\"I-isso não é verdade! [wm canskip=0][cacheimage storage=由紀香私服01n(近),由紀香私服02h(近)][wvl canskip=0 time=200][movefg textoff=0 opacity=0 left=404 top=220 time=300 accel=0 storage=由紀香私服01n(近)][movefg textoff=0 opacity=255 left=411 top=240 time=300 accel=0 storage=由紀香私服02h(近)]Eles são bem travessos, não me dão ouvidos, comem demais, estão sempre arrumando encrenca, [wm canskip=0][wm canskip=0][cacheimage storage=由紀香私服01d(近),由紀香私服02h(近),由紀香私服02d(近),小次郎03a(近)][wvl][movefg textoff=0 opacity=255 left=418 top=200 time=300 accel=0 storage=由紀香私服01d(近)][movefg textoff=0 opacity=0 left=459 top=199 time=300 accel=0 storage=由紀香私服02h(近)]e eu aposto que eles vão falar um monte de baboseiras estranhas pra você, e isso ai meu deus me deixa tão nervosa me desculpa, um!\"[wm canskip=0][wm canskip=0][rep textoff=0 fliplr=0 tops=207, fliplrs=,1 storages=由紀香私服02d(近),小次郎03a(近) time=300 flipudr=0 lefts=436, monos=,1 poss=,l colors=,0xFF5A5A5A indexes=1000,4000][move textoff=0 time=260 path=(431,219,255)(427,206,255)(425,219,255) storage=由紀香私服02d(近) accel=-2][wm canskip=0][lr]",
+      "id": 15659,
+      "epk_id": "7564",
+      "label": "$$$message_0052_0033_0000$$$"
+    },
+    {
+      "en": "\"There's no need for alarm, Lady Yukika. Yes, it may not be a terrible idea to share some old tales.\"",
+      "jp": "ãç±ç´é¦æ®¿ãæ\nã¦ãäºã¯ãªããæã«ã¯ææ¥ãæãåºãã®ãæªãã¯ãªãã¨æãã¦ãª[line len=3]ããã",
+      "Pt-br": "\"Não há necessidade para tamanho alarde, senhorita Yukika. Sim, compartilhar alguns velhos contos pode não ser de fato uma má ideia.\"",
+      "id": 15660,
+      "epk_id": "7565",
+      "label": "$$$message_0052_0033_0001$$$"
+    },
+    {
+      "en": "Kojirou nods, once again amping up the dramatic flair.[lr]",
+      "jp": "ããªãã¦ããªããã¦ã¿ããå°æ¬¡éã®ãããã¾ãèå±\nããã£ã¦ãããã¨ã[lr]",
+      "Pt-br": "Kojirou concorda, exagerando no talento dramático mais uma vez.[lr]",
+      "id": 15661,
+      "epk_id": "7566",
+      "label": "$$$message_0052_0034_0000$$$"
+    },
+    {
+      "en": "He's being evasive, but I didn't realize he was this socially adept[line len=2]or was this his genuine personality all along? If so, I've gravely underestimated Saegusa.",
+      "jp": "ãããã¤ãã­ãããã¦ããã©ããããªãµãã«åããã¦ãããå¨ç¨ãªé¨åãããã®ã[line len=3]ãããæå¤ã¨æ¬å¿ï¼ãã ã¨ãããä¸æã®åå¤§ãã¯è¨ãç¥ããªãã",
+      "Pt-br": "Ele tá sendo evasivo, mas eu não fazia ideia de que ele era tão sociável assim[line len=2]ou será que a personalidade genuína dele sempre foi essa? Se for assim, eu subestimei e muito a Saegusa.",
+      "id": 15662,
+      "epk_id": "7567",
+      "label": "$$$message_0052_0034_0001$$$"
+    },
+    {
+      "en": "\"Really!?\"[lr]",
+      "jp": "ãæ¬å½ã§ããï¼ï¼ã[lr]",
+      "Pt-br": "\"Sério!?\"[lr]",
+      "id": 15663,
+      "epk_id": "7568",
+      "label": "$$$message_0052_0035_0000$$$"
+    },
+    {
+      "en": "\"If the mood strikes me, I will reveal myself to them. But it is dangerous to visit at night. Bring them by during the day.\"[lr]",
+      "jp": "ãæ°ãåãã°é¡ç¨åº¦ã¯è¦ããããã¨ã¯ããå¤ã®è¨ªåã¯ç©é¨ã ãæ¥ä¸­ã§ããã°ããã¤ãã®æ©ä¼ã«ã[lr]",
+      "Pt-br": "\"Se eu me sentir disposto a tal feito, me revelarei para eles. Porém, seria deveras perigoso para vocês virem até aqui à noite. Tragam-os ao amanhecer do dia.\"[lr]",
+      "id": 15664,
+      "epk_id": "7569",
+      "label": "$$$message_0052_0035_0001$$$"
+    },
+    {
+      "en": "\"Th-then I'll come back again with my brothers another time! [cacheimage storage=由紀香私服02b(中)][wvl][chgfg time=300 storage=由紀香私服02b(中) textoff=0]Thank you and sorry again for asking all this!\"[lr]",
+      "jp": "ãããããããã¾ãæ¥ãããããã¦å¼ãã¡ã¨ä¸ç·ã«æ¥ã¾ãããã[cacheimage storage=ç±ç´é¦ç§æ02b(ä¸­)][wvl][chgfg time=300 storage=ç±ç´é¦ç§æ02b(ä¸­) textoff=0]ããã¾ãããããªäºãé¡ããã¦ã[lr]",
+      "Pt-br": "\"E-Então eu voltarei aqui com os meus irmãos de novo numa outra hora! [cacheimage storage=由紀香私服02b(中)][wvl][chgfg time=300 storage=由紀香私服02b(中) textoff=0]Muito obrigada, e desculpa de novo por ter te pedido isso tudo!\"[lr]",
+      "id": 15665,
+      "epk_id": "7570",
+      "label": "$$$message_0052_0035_0002$$$"
+    },
+    {
+      "en": "[clfg textoff=0 pos=all time=300]She bows repeatedly.[lr]",
+      "jp": "ã[clfg textoff=0 pos=all time=300]ãºããºãã¨ãè¾åãã¦ããã[lr]",
+      "Pt-br": "[clfg textoff=0 pos=all time=300]Ela se curva repetidamente, reverenciando-o.[lr]",
+      "id": 15666,
+      "epk_id": "7571",
+      "label": "$$$message_0052_0035_0003$$$"
+    },
+    {
+      "en": "I missed my chance to make an exit...but all's well that ends well. Honestly, this is just eavesdropping. Kojirou probably knows I'm here, but it's rude to Saegusa.",
+      "jp": "ãçµå±åºã¦è¡ãããã­ããâ¦â¦ã¾ãçµæãªã¼ã©ã¤ããã¨ããããããæ¬å½ã®è¦ãã ãªãå°æ¬¡éã«ã¯ãã¬ã¦ãã ããããä¸æã«ã¯å¤±ç¤¼ãªã³ããããã",
+      "Pt-br": "Perdi a oportunidade de ir embora... mas tudo acaba bem quando termina bem. Sinceramente, isto é só bisbilhotice. Kojirou provavelmente sabe que estou aqui, mas seria falta de educação com Saegusa.",
+      "id": 15667,
+      "epk_id": "7572",
+      "label": "$$$message_0052_0035_0004$$$"
+    },
+    {
+      "en": "I leave the mountain gate as quietly as I can.[lr]",
+      "jp": "ããªãã¹ãéãã«å±±éããç«ã¡å»ãã[lr]",
+      "Pt-br": "Eu saio do portão da montanha da forma mais silenciosa que consigo.[lr]",
+      "id": 15668,
+      "epk_id": "7573",
+      "label": "$$$message_0052_0036_0000$$$"
+    },
+    {
+      "en": "\"Guess I'll take a look around the temple grounds...\":4\u0005\u0017",
+      "jp": "ããã¦â¦â¦å¢å\nãã¡ãã£ã¨è¦ã¦ãããâ¦â¦ã:jß",
+      "Pt-br": "\"",
+      "id": 15669,
+      "epk_id": "7574",
+      "label": "$$$message_0052_0036_0001$$$"
+    }
+  ]
+}

@@ -1,0 +1,1648 @@
+{
+  "cena": "6hi5du72j2me871mcailcke6v4",
+  "titulo": "Escola: Gatinhos e Justiça",
+  "rota": "Dia 4",
+  "arquivo": "6hi5du72j2me871mcailcke6v4.epk_dec",
+  "linhas": [
+    {
+      "en": "The gust of wind blows up the dry dust into the air.[lr]",
+      "jp": "　思い出したように吹きつけた一陣の風が、乾いた土埃を舞い上げる。[lr]",
+      "Pt-br": "A rajada de vento joga a poeira seca pro ar.[lr]",
+      "id": 19203,
+      "epk_id": "9646",
+      "label": "$$$message_0073_0000_0000$$$"
+    },
+    {
+      "en": "The morning practice must've finished, as there are not many people.[lr]",
+      "jp": "　朝練が終わったところなのか、人影は少ない。[lr]",
+      "Pt-br": "O treino da manhã já deve ter acabado, porque não tem muita gente por aqui.[lr]",
+      "id": 19204,
+      "epk_id": "9647",
+      "label": "$$$message_0073_0000_0001$$$"
+    },
+    {
+      "en": "Just as I was about to turn back,[lr]",
+      "jp": "　[ruby text=きびす]踵を返そうとしたところに、[lr]",
+      "Pt-br": "Bem na hora em que eu tava prestes a virar as costas,[lr]",
+      "id": 19205,
+      "epk_id": "9648",
+      "label": "$$$message_0073_0000_0002$$$"
+    },
+    {
+      "en": "\"All right! Found the handyman!\"[cacheimage storage=蒔寺制服01c(中)][wvs][wm canskip=0][movefg textoff=0 opacity=255 time=200 pos=c accel=3 storage=蒔寺制服01c(中)][se storage=se089.wav][wm canskip=0][lr]",
+      "jp": "「よし！　便利屋発見！」[cacheimage storage=蒔寺制服01c(中)][wvs][wm canskip=0][movefg textoff=0 opacity=255 time=200 pos=c accel=3 storage=蒔寺制服01c(中)][se storage=se089.wav][wm canskip=0][lr]",
+      "Pt-br": "\"Aí sim! Achei o faz-tudo!\"[cacheimage storage=蒔寺制服01c(中)][wvs][wm canskip=0][movefg textoff=0 opacity=255 time=200 pos=c accel=3 storage=蒔寺制服01c(中)][se storage=se089.wav][wm canskip=0][lr]",
+      "id": 19206,
+      "epk_id": "9649",
+      "label": "$$$message_0073_0000_0003$$$"
+    },
+    {
+      "en": "...She comes running, talking in a rude manner.",
+      "jp": "　……なんて、失礼な物言いが駆け寄ってきた。",
+      "Pt-br": "...Ela vem correndo, falando com a falta de educação de sempre.",
+      "id": 19207,
+      "epk_id": "9650",
+      "label": "$$$message_0073_0000_0004$$$"
+    },
+    {
+      "en": "\"What, Makidera? Did you break equipment again while creating a new track event?\"[lr]",
+      "jp": "「なんだよ蒔寺。また新競技の創作中に備品でも壊したのか？」[lr]",
+      "Pt-br": "\"Qual é, Makidera? Quebrou mais algum equipamento de novo enquanto inventava outra modalidade pro atletismo?\"[lr]",
+      "id": 19208,
+      "epk_id": "9651",
+      "label": "$$$message_0073_0001_0000$$$"
+    },
+    {
+      "en": "\"Wrench head! You can repair something no matter how many times it breaks, but a lost life won't return a second time!\"",
+      "jp": "「ばかスパナっ！　物はいくら壊しても修理すれば済むけど、失われた命は二度と還らないんだぞ！」",
+      "Pt-br": "\"Ô cabeça de chave inglesa! Você pode consertar uma coisa não importa quantas vezes ela quebre, mas uma vida perdida não volta uma segunda vez!\"",
+      "id": 19209,
+      "epk_id": "9652",
+      "label": "$$$message_0073_0001_0001$$$"
+    },
+    {
+      "en": "\"...Putting that nickname aside.[lr]",
+      "jp": "「……呼び方は、まあいいとしてだ。[lr]",
+      "Pt-br": "\"...Deixando esse apelido de lado.[lr]",
+      "id": 19210,
+      "epk_id": "9653",
+      "label": "$$$message_0073_0002_0000$$$"
+    },
+    {
+      "en": "That's not for someone who only breaks things to say. Fixing them is a pain too... Hey wait, what are you pulling at?\"[lr]",
+      "jp": "　壊すだけの人間がいうことか、直すのも大変なんだ……って、おい、どこへ引っ張んだよ」[lr]",
+      "Pt-br": "Isso não é coisa que alguém que só sabe quebrar as coisas deva dizer. Consertar dá trabalho também, sabia... Ei, pera aí, o que cê tá puxando?\"[lr]",
+      "id": 19211,
+      "epk_id": "9654",
+      "label": "$$$message_0073_0002_0001$$$"
+    },
+    {
+      "en": "\"Stop babbling! I don't want to have to ask for your help either, but this is no time to be bringing personal feelings into this!\"",
+      "jp": "「つべこべ言うな、あたしだって衛宮の手なんか借りたくないけど、こいつは私情抜きなのさ！」",
+      "Pt-br": "\"Para de tagarelar! Eu também não queria ter que pedir a sua ajuda, mas agora não é hora de misturar sentimentos pessoais!\"",
+      "id": 19212,
+      "epk_id": "9655",
+      "label": "$$$message_0073_0002_0002$$$"
+    },
+    {
+      "en": "\"Makidera. What kind of way of talking is that when you had me not only fix the track club equipment but even your own rice cooker?\"[lr]",
+      "jp": "「蒔寺。陸上部の備品はおろか、自分ん家の炊飯器の修理まで俺に押しつけたコトがあったクセに、なんて言いぐさだ」[lr]",
+      "Pt-br": "\"Makidera. Que jeito de falar é esse depois de eu não só ter consertado os equipamentos do clube de atletismo como também a sua própria panela de arroz elétrica?\"[lr]",
+      "id": 19213,
+      "epk_id": "9656",
+      "label": "$$$message_0073_0003_0000$$$"
+    },
+    {
+      "en": "\"Rice scoop head![lr]",
+      "jp": "「ばかしゃもじ！[lr]",
+      "Pt-br": "\"Ô cabeça de colher de arroz![lr]",
+      "id": 19214,
+      "epk_id": "9657",
+      "label": "$$$message_0073_0003_0001$$$"
+    },
+    {
+      "en": "If you have time to delve into the past like that, then scoop the fleeting possibility called life!\"",
+      "jp": "　そんな過去をほじくっている暇があったら、命というピラピラな可能性をよそうんだ！」",
+      "Pt-br": "Se você tem tempo pra ficar desenterrando o passado assim, então corre lá e tenta pescar a possibilidade passageira chamada vida!\"",
+      "id": 19215,
+      "epk_id": "9658",
+      "label": "$$$message_0073_0003_0002$$$"
+    },
+    {
+      "en": "\"...[lr]",
+      "jp": "「……。[lr]",
+      "Pt-br": "\"...[lr]",
+      "id": 19216,
+      "epk_id": "9659",
+      "label": "$$$message_0073_0004_0000$$$"
+    },
+    {
+      "en": "Life? What are you talking about?\"[lr]",
+      "jp": "　命って、さっきからなに言ってんだおまえ」[lr]",
+      "Pt-br": "Vida? Do que cê tá falando?\"[lr]",
+      "id": 19217,
+      "epk_id": "9660",
+      "label": "$$$message_0073_0004_0001$$$"
+    },
+    {
+      "en": "\"She might die!\"[lr]",
+      "jp": "「死ぬかも知れないんだよ、あいつが！」[lr]",
+      "Pt-br": "\"Ela pode morrer!\"[lr]",
+      "id": 19218,
+      "epk_id": "9661",
+      "label": "$$$message_0073_0004_0002$$$"
+    },
+    {
+      "en": "\"What!?\"[lr]",
+      "jp": "「なんだって！？」[lr]",
+      "Pt-br": "\"O quê!?\"[lr]",
+      "id": 19219,
+      "epk_id": "9662",
+      "label": "$$$message_0073_0004_0003$$$"
+    },
+    {
+      "en": "\"This is vexing, but you're the only one who can save her!\"",
+      "jp": "「悔しいが、それを助けられるのはおまえしかいない！」",
+      "Pt-br": "\"Isso é irritante, mas você é o único que pode salvar ela!\"",
+      "id": 19220,
+      "epk_id": "9663",
+      "label": "$$$message_0073_0004_0004$$$"
+    },
+    {
+      "en": "\"Whattt?\"[lr]",
+      "jp": "「なにぃ？」[lr]",
+      "Pt-br": "\"Quuuuê?\"[lr]",
+      "id": 19221,
+      "epk_id": "9664",
+      "label": "$$$message_0073_0005_0000$$$"
+    },
+    {
+      "en": "I can't keep quiet if she's asking me to save a life.[lr]",
+      "jp": "　命を助ける、と言われては黙っていられない。[lr]",
+      "Pt-br": "Não dá pra ficar quieto se ela tá me pedindo pra salvar uma vida.[lr]",
+      "id": 19222,
+      "epk_id": "9665",
+      "label": "$$$message_0073_0005_0001$$$"
+    },
+    {
+      "en": "Kaede Makidera is formidable.[lr]",
+      "jp": "　蒔寺楓、侮れん。[lr]",
+      "Pt-br": "A Makidera Kaede é formidável.[lr]",
+      "id": 19223,
+      "epk_id": "9666",
+      "label": "$$$message_0073_0005_0002$$$"
+    },
+    {
+      "en": "Did she sense the man that will eventually become the champion of justice with that sense of smell!?",
+      "jp": "　いずれ正義の味方になる男を、その嗅覚で察していたというのかっ！",
+      "Pt-br": "Será que ela sentiu o cheiro do homem que um dia vai se tornar um Herói da Justiça com esse faro todo!?",
+      "id": 19224,
+      "epk_id": "9667",
+      "label": "$$$message_0073_0005_0003$$$"
+    },
+    {
+      "en": "\"Okay, lead me there![lr]",
+      "jp": "「わかった、案内してくれ！[lr]",
+      "Pt-br": "\"Beleza, me leva até lá![lr]",
+      "id": 19225,
+      "epk_id": "9668",
+      "label": "$$$message_0073_0006_0000$$$"
+    },
+    {
+      "en": "Even if it means that the neck of a Peeps marshmallow came off, or that your neck will fall off if I don't give you my English homework until tomorrow!\"[lr]",
+      "jp": "　また東京製菓ひよっこの首がもげたとか、明日までに英語の課題をあげないと[ruby text=あたし char=2]蒔寺の首がもげるとかでもな！」[lr]",
+      "Pt-br": "Mesmo que isso signifique que o pescoço de um marshmallow vá pro espaço, ou que o seu pescoço vá cair se eu não te der meu dever de casa de inglês até amanhã!\"[lr]",
+      "id": 19226,
+      "epk_id": "9669",
+      "label": "$$$message_0073_0006_0001$$$"
+    },
+    {
+      "en": "\"Fine, such business is a daily occurrence![lr]",
+      "jp": "「いいともさ、そういう用件なんざ日常茶飯事さぁ！[lr]",
+      "Pt-br": "\"Tá, esse tipo de negócio é o nosso pão de cada dia![lr]",
+      "id": 19227,
+      "epk_id": "9670",
+      "label": "$$$message_0073_0006_0002$$$"
+    },
+    {
+      "en": "But, that'll be for another time!\"",
+      "jp": "　でもそれはまた今度な！」",
+      "Pt-br": "Mas isso fica pra outra hora!\"",
+      "id": 19228,
+      "epk_id": "9671",
+      "label": "$$$message_0073_0006_0003$$$"
+    },
+    {
+      "en": "\"[move textoff=0 time=150 path=(292,152,255)(274,142,255)(255,152,255)(242,141,255)(226,155,255)(220,142,255) storage=由紀香制服01c(遠) accel=0]Agh...ugh...[cacheimage storage=由紀香制服01e(遠)][wvl][wm canskip=0][chgfg textoff=0 time=200 storage=由紀香制服01e(遠)][move textoff=0 time=150 path=(243,153,255)(260,141,255)(281,157,255)(299,144,255)(314,156,255)(331,142,255)(357,157,255)(373,142,255)(401,156,255)(419,141,255) storage=由紀香制服01e(遠) accel=0]ahh...[cacheimage storage=由紀香制服01d(遠)][wvl][wm canskip=0][chgfg textoff=0 time=200 storage=由紀香制服01d(遠)]oh,[wvl canskip=0 time=200][move textoff=0 time=100 path=(419,151,255)(430,141,255)(431,152,255) storage=由紀香制服01d(遠) accel=0] Maki!\"[lr]",
+      "jp": "「[move textoff=0 time=150 path=(292,152,255)(274,142,255)(255,152,255)(242,141,255)(226,155,255)(220,142,255) storage=由紀香制服01c(遠) accel=0]あ……う……[cacheimage storage=由紀香制服01e(遠)][wvl][wm canskip=0][chgfg textoff=0 time=200 storage=由紀香制服01e(遠)][move textoff=0 time=150 path=(243,153,255)(260,141,255)(281,157,255)(299,144,255)(314,156,255)(331,142,255)(357,157,255)(373,142,255)(401,156,255)(419,141,255) storage=由紀香制服01e(遠) accel=0]あー……[cacheimage storage=由紀香制服01d(遠)][wvl][wm canskip=0][chgfg textoff=0 time=200 storage=由紀香制服01d(遠)]あ、[wvl canskip=0 time=200][move textoff=0 time=100 path=(419,151,255)(430,141,255)(431,152,255) storage=由紀香制服01d(遠) accel=0]蒔ちゃん！」[lr]",
+      "Pt-br": "\"[move textoff=0 time=150 path=(292,152,255)(274,142,255)(255,152,255)(242,141,255)(226,155,255)(220,142,255) storage=由紀香制服01c(遠) accel=0]Agh... ugh...[cacheimage storage=由紀香制服01e(遠)][wvl][wm canskip=0][chgfg textoff=0 time=200 storage=由紀香制服01e(遠)][move textoff=0 time=150 path=(243,153,255)(260,141,255)(281,157,255)(299,144,255)(314,156,255)(331,142,255)(357,157,255)(373,142,255)(401,156,255)(419,141,255) storage=由紀香制服01e(遠) accel=0]ahh...[cacheimage storage=由紀香制服01d(遠)][wvl][wm canskip=0][chgfg textoff=0 time=200 storage=由紀香制服01d(遠)]ah,[wvl canskip=0 time=200][move textoff=0 time=100 path=(419,151,255)(430,141,255)(431,152,255) storage=由紀香制服01d(遠) accel=0] Maki-chan!\"[lr]",
+      "id": 19229,
+      "epk_id": "9672",
+      "label": "$$$message_0073_0007_0000$$$"
+    },
+    {
+      "en": "\"Wha[line len=3][wvl][shock vmax=10 time=400 count=-3]wait, it was true!?[lr]",
+      "jp": "「な[line len=3][wvl][shock vmax=10 time=400 count=-3]待て、本当だったのか！？[lr]",
+      "Pt-br": "\"Espe[line len=3][wvl][shock vmax=10 time=400 count=-3]pera, então era verdade!?[lr]",
+      "id": 19230,
+      "epk_id": "9673",
+      "label": "$$$message_0073_0007_0001$$$"
+    },
+    {
+      "en": "The one that was dying was Saegusa!?\"[lr]",
+      "jp": "　死にかけてるのは[ruby text=さえぐさ char=2]三枝なのか！？」[lr]",
+      "Pt-br": "Quem tava morrendo era a Saegusa!?\"[lr]",
+      "id": 19231,
+      "epk_id": "9674",
+      "label": "$$$message_0073_0007_0002$$$"
+    },
+    {
+      "en": "\"Oh, Emiya.\"[lr]",
+      "jp": "「あ、衛宮くん」[lr]",
+      "Pt-br": "\"Ah, Emiya-kun.\"[lr]",
+      "id": 19232,
+      "epk_id": "9675",
+      "label": "$$$message_0073_0007_0003$$$"
+    },
+    {
+      "en": "\"Shaking your body like that... Where does it hurt?\"[lr]",
+      "jp": "「そんなに体を振って……どこが痛むんだ」[lr]",
+      "Pt-br": "\"Tremendo o corpo todo assim... Onde tá doendo?\"[lr]",
+      "id": 19233,
+      "epk_id": "9676",
+      "label": "$$$message_0073_0007_0004$$$"
+    },
+    {
+      "en": "\"Huh?\"",
+      "jp": "「え？」",
+      "Pt-br": "\"Hã?\"",
+      "id": 19234,
+      "epk_id": "9677",
+      "label": "$$$message_0073_0007_0005$$$"
+    },
+    {
+      "en": "\"No, not me. Look, up there...\"[lr]",
+      "jp": "「ううん、わたしじゃなくて、ほら、あの上[line len=3]」[lr]",
+      "Pt-br": "\"Não, não em mim. Olha, lá em cima...\"[lr]",
+      "id": 19235,
+      "epk_id": "9678",
+      "label": "$$$message_0073_0008_0000$$$"
+    },
+    {
+      "en": "When I look at what she's pointing at...[wait canskip=0 time=400][se storage=se670.wav][lr]",
+      "jp": "　指さす先を見上げると……[wait canskip=0 time=400][se storage=se670.wav][lr]",
+      "Pt-br": "Quando eu olho pra onde ela tá apontando...[wait canskip=0 time=400][se storage=se670.wav][lr]",
+      "id": 19236,
+      "epk_id": "9679",
+      "label": "$$$message_0073_0008_0001$$$"
+    },
+    {
+      "en": "A calico kitten is snug and curled up in a tree.",
+      "jp": "　三毛の子猫が、枝の上にちんまりと縮こまっていた。",
+      "Pt-br": "Um gatinho tricolor tá encolhido e aconchegado numa árvore.",
+      "id": 19237,
+      "epk_id": "9680",
+      "label": "$$$message_0073_0008_0002$$$"
+    },
+    {
+      "en": "\"The one who noticed was Yukika... It seems like that kitten can't get down.\"[lr]",
+      "jp": "「気が付いたのは由紀香でね[line len=3]あの子猫、どうやら降りられなくなってるみたいなんだ」[lr]",
+      "Pt-br": "\"Quem percebeu foi a Yukika... Parece que aquele gatinho não consegue descer.\"[lr]",
+      "id": 19238,
+      "epk_id": "9681",
+      "label": "$$$message_0073_0009_0000$$$"
+    },
+    {
+      "en": "\"What a...cliché punchline.\"",
+      "jp": "「なんて……ベタベタなオチ」",
+      "Pt-br": "\"Mas que... clímax mais clichê.\"",
+      "id": 19239,
+      "epk_id": "9682",
+      "label": "$$$message_0073_0009_0001$$$"
+    },
+    {
+      "en": "\"Um, Emiya, can you save it?\"[lr]",
+      "jp": "「あの、衛宮くん、助けられる？」[lr]",
+      "Pt-br": "\"Hum, Emiya-kun, você pode salvar ele?\"[lr]",
+      "id": 19240,
+      "epk_id": "9683",
+      "label": "$$$message_0073_0010_0000$$$"
+    },
+    {
+      "en": "\"Of course, I'll try.\"[lr]",
+      "jp": "「もちろん、なんとかする」[lr]",
+      "Pt-br": "\"Claro, eu vou tentar.\"[lr]",
+      "id": 19241,
+      "epk_id": "9684",
+      "label": "$$$message_0073_0010_0001$$$"
+    },
+    {
+      "en": "\"I'm counting on you. If it's you, you might be able to reach it.\"[lr]",
+      "jp": "「頼むぞ、君ならあそこまで届くかもしれぬ」[lr]",
+      "Pt-br": "\"Tô contando com você. Se for você, talvez consiga alcançar.\"[lr]",
+      "id": 19242,
+      "epk_id": "9685",
+      "label": "$$$message_0073_0010_0002$$$"
+    },
+    {
+      "en": "\"Hm, it's you, Himuro.[lr]",
+      "jp": "「ん、氷室がいるじゃないか？[lr]",
+      "Pt-br": "\"Hum, é você, Himuro.[lr]",
+      "id": 19243,
+      "epk_id": "9686",
+      "label": "$$$message_0073_0010_0003$$$"
+    },
+    {
+      "en": "Can't you save it if you jump? You're the ace of high jump, right?\"",
+      "jp": "　おまえが跳べば救えるんじゃないのか、高跳びのエースなんだろ」",
+      "Pt-br": "Você não consegue salvar se pular? Você é a craque do salto em altura, não é?\"",
+      "id": 19244,
+      "epk_id": "9687",
+      "label": "$$$message_0073_0010_0004$$$"
+    },
+    {
+      "en": "\"Kane isn't good with cats.\"[lr]",
+      "jp": "「鐘ちゃん、猫が苦手なの」[lr]",
+      "Pt-br": "\"A Kane-chan não se dá bem com gatos.\"[lr]",
+      "id": 19245,
+      "epk_id": "9688",
+      "label": "$$$message_0073_0011_0000$$$"
+    },
+    {
+      "en": "\"Yeah, we should rub the kitten onto Kane and have fun once we save it!\"[lr]",
+      "jp": "「そうだよ、だから子猫を助けたら鐘っぺにすりつけて遊ぼうぜ！」[lr]",
+      "Pt-br": "\"É, a gente devia esfregar o gatinho na Kane e se divertir assim que a gente salvar ele!\"[lr]",
+      "id": 19246,
+      "epk_id": "9689",
+      "label": "$$$message_0073_0011_0001$$$"
+    },
+    {
+      "en": "\"Makino-G... Once we get the kitten down, I shall hang you from the tree instead.\"[lr]",
+      "jp": "「蒔の字……子猫を降ろしたら、代わりに君をその木に吊るしてやろう」[lr]",
+      "Pt-br": "\"Makino-G... Assim que tirarmos o gatinho lá de cima, eu vou pendurar você na árvore no lugar dele.\"[lr]",
+      "id": 19247,
+      "epk_id": "9690",
+      "label": "$$$message_0073_0011_0002$$$"
+    },
+    {
+      "en": "\"Geez, so scary...! The horror!\"",
+      "jp": "「うわ、こわっ……！　首吊り木の人喰いの坂！」",
+      "Pt-br": "\"Credo, que medo...! Que horror!\"",
+      "id": 19248,
+      "epk_id": "9691",
+      "label": "$$$message_0073_0011_0003$$$"
+    },
+    {
+      "en": "We go right under the kitten and measure our distance.[lr]",
+      "jp": "　子猫の真下につき、彼我の距離を測る。[lr]",
+      "Pt-br": "A gente vai bem pra debaixo do gatinho e mede a nossa distância.[lr]",
+      "id": 19249,
+      "epk_id": "9692",
+      "label": "$$$message_0073_0012_0000$$$"
+    },
+    {
+      "en": "I am definitely the tallest out of these members.[lr]",
+      "jp": "　たしかにこのメンバーの中では俺が一番背が高い。[lr]",
+      "Pt-br": "Sem dúvida, eu sou o mais alto daqui.[lr]",
+      "id": 19250,
+      "epk_id": "9693",
+      "label": "$$$message_0073_0012_0001$$$"
+    },
+    {
+      "en": "But even then, I can't reach the branch even if I stand on my tiptoes.[lr]",
+      "jp": "　が、それでも背伸びしたくらいでは枝に手は届かない。[lr]",
+      "Pt-br": "Mas mesmo assim, não consigo alcançar o galho nem ficando na ponta dos pés.[lr]",
+      "id": 19251,
+      "epk_id": "9694",
+      "label": "$$$message_0073_0012_0002$$$"
+    },
+    {
+      "en": "Even if I were to climb the tree, when the trunk is this thin, the branches would shake greatly and the kitten would be flung.[lr]",
+      "jp": "　木に登ろうにもこう幹が細いと枝が大きく振られて、子猫が投げられてしまう。[lr]",
+      "Pt-br": "Mesmo se eu fosse subir na árvore, com o tronco fino desse jeito, os galhos iam balançar demais e o gatinho seria arremessado longe.[lr]",
+      "id": 19252,
+      "epk_id": "9695",
+      "label": "$$$message_0073_0012_0003$$$"
+    },
+    {
+      "en": "Shake the trunk and drop the kitten... Even Makidera wouldn't do such a thing.",
+      "jp": "　幹を揺すって子猫を落とす[line len=3]そんな荒っぽいことは蒔寺だってしないだろう。",
+      "Pt-br": "Balançar o tronco e derrubar o gatinho... Nem a Makidera faria uma coisa dessas.",
+      "id": 19253,
+      "epk_id": "9696",
+      "label": "$$$message_0073_0012_0004$$$"
+    },
+    {
+      "en": "\"Then, I'll kick the tree with all my might, so you and Yukicchi catch it when it falls.\"[lr]",
+      "jp": "「じゃ、あたしが全力で木を蹴っ飛ばすから、衛宮と由紀っちは落ちてきたところをキャッチするんだ」[lr]",
+      "Pt-br": "\"Então, eu dou um chute na árvore com toda a minha força, e você e a Yukicchi seguram ele quando cair.\"[lr]",
+      "id": 19254,
+      "epk_id": "9697",
+      "label": "$$$message_0073_0013_0000$$$"
+    },
+    {
+      "en": "\"Huh? Huh? [cacheimage storage=由紀香制服01e(遠),由紀香制服01d(遠)][wvl][chgfg textoff=0 time=100 storage=由紀香制服01e(遠)][chgfg textoff=0 time=200 storage=由紀香制服01d(遠)]Huh?\"",
+      "jp": "「えっ？　えっ？　[cacheimage storage=由紀香制服01e(遠),由紀香制服01d(遠)][wvl][chgfg textoff=0 time=100 storage=由紀香制服01e(遠)][chgfg textoff=0 time=200 storage=由紀香制服01d(遠)]えっ？」",
+      "Pt-br": "\"Hã? Quê? [cacheimage storage=由紀香制服01e(遠),由紀香制服01d(遠)][wvl][chgfg textoff=0 time=100 storage=由紀香制服01e(遠)][chgfg textoff=0 time=200 storage=由紀香制服01d(遠)]Hã?\"",
+      "id": 19255,
+      "epk_id": "9698",
+      "label": "$$$message_0073_0013_0001$$$"
+    },
+    {
+      "en": "\"...I was naïve.[lr]",
+      "jp": "「…………甘かった。[lr]",
+      "Pt-br": "\"...Eu fui muito ingênuo.[lr]",
+      "id": 19256,
+      "epk_id": "9699",
+      "label": "$$$message_0073_0014_0000$$$"
+    },
+    {
+      "en": "Himuro, hold that idiot down.\"[lr]",
+      "jp": "　氷室、そこの馬鹿を押さえておいてくれ」[lr]",
+      "Pt-br": "Himuro, segura essa idiota.\"[lr]",
+      "id": 19257,
+      "epk_id": "9700",
+      "label": "$$$message_0073_0014_0001$$$"
+    },
+    {
+      "en": "\"Understood.\"[lr]",
+      "jp": "「承知した」[lr]",
+      "Pt-br": "\"Entendido.\"[lr]",
+      "id": 19258,
+      "epk_id": "9701",
+      "label": "$$$message_0073_0014_0002$$$"
+    },
+    {
+      "en": "\"Woah, what are you guys doing in such an emergency!?[lr]",
+      "jp": "「うおっ、この非常時になにかねキミたち！？[lr]",
+      "Pt-br": "\"Uou, o que vocês tão fazendo numa emergência dessas!?[lr]",
+      "id": 19259,
+      "epk_id": "9702",
+      "label": "$$$message_0073_0014_0003$$$"
+    },
+    {
+      "en": "Let go of the leader!\"",
+      "jp": "　リーダーなあたしを放したまえっ」",
+      "Pt-br": "Solta a líder!\"",
+      "id": 19260,
+      "epk_id": "9703",
+      "label": "$$$message_0073_0014_0004$$$"
+    },
+    {
+      "en": "\"If I jump...\"[lr]",
+      "jp": "「ジャンプすれば[line len=3]」[lr]",
+      "Pt-br": "\"Se eu pular...\"[lr]",
+      "id": 19261,
+      "epk_id": "9704",
+      "label": "$$$message_0073_0015_0000$$$"
+    },
+    {
+      "en": "If I back up from the tree a bit... One, two, three!",
+      "jp": "　木から少し距離をとって……　いち、にの、さんっ！",
+      "Pt-br": "Se eu tomar um pouco de distância da árvore... Um, dois, três!",
+      "id": 19262,
+      "epk_id": "9705",
+      "label": "$$$message_0073_0015_0001$$$"
+    },
+    {
+      "en": "\"Ahh, that was close.\"[lr]",
+      "jp": "「ああー、惜しいです」[lr]",
+      "Pt-br": "\"Aah, foi quase.\"[lr]",
+      "id": 19263,
+      "epk_id": "9706",
+      "label": "$$$message_0073_0016_0000$$$"
+    },
+    {
+      "en": "\"Khh!\"[lr]",
+      "jp": "「っ、くーっ！」[lr]",
+      "Pt-br": "\"Khh!\"[lr]",
+      "id": 19264,
+      "epk_id": "9707",
+      "label": "$$$message_0073_0016_0001$$$"
+    },
+    {
+      "en": "I barely miss the kitten branch.[lr]",
+      "jp": "　子猫の枝に、わずかに届かない。[lr]",
+      "Pt-br": "Eu erro o galho do gatinho por pouco.[lr]",
+      "id": 19265,
+      "epk_id": "9708",
+      "label": "$$$message_0073_0016_0002$$$"
+    },
+    {
+      "en": "\"Heheh, [cacheimage storage=蒔寺制服03b(中)][wvl][chgfg textoff=0 time=300 storage=蒔寺制服03b(中)]your height isn't enough, huh...\"[lr]",
+      "jp": "「ふふん、[cacheimage storage=蒔寺制服03b(中)][wvl][chgfg textoff=0 time=300 storage=蒔寺制服03b(中)]衛宮のタッパじゃ足りないか[line len=3]」[lr]",
+      "Pt-br": "\"Heheh, [cacheimage storage=蒔寺制服03b(中)][wvl][chgfg textoff=0 time=300 storage=蒔寺制服03b(中)]falta altura aí, hein...\"[lr]",
+      "id": 19266,
+      "epk_id": "9709",
+      "label": "$$$message_0073_0016_0003$$$"
+    },
+    {
+      "en": "...She casually says what I'm self-conscious about.",
+      "jp": "　……気にしていることをあっさりと言われた。",
+      "Pt-br": "...Ela diz casualmente justo o que mais me incomoda.",
+      "id": 19267,
+      "epk_id": "9710",
+      "label": "$$$message_0073_0016_0004$$$"
+    },
+    {
+      "en": "\"Ah... There, there. Be a good kitty, we'll save you right now.\"[lr]",
+      "jp": "「あー……よしよし、良い子にしててね、すぐに助けてあげるから」[lr]",
+      "Pt-br": "\"Ah... Calma, calma. Seja um bom gatinho, a gente já vai te salvar.\"[lr]",
+      "id": 19268,
+      "epk_id": "9711",
+      "label": "$$$message_0073_0017_0000$$$"
+    },
+    {
+      "en": "\"Mrgh, maybe I would've been able to reach it.\"[lr]",
+      "jp": "「むぅ、私なら届いたかもしれないな」[lr]",
+      "Pt-br": "\"Hrmm, se pá eu ia conseguir alcançar ele.\"[lr]",
+      "id": 19269,
+      "epk_id": "9712",
+      "label": "$$$message_0073_0017_0001$$$"
+    },
+    {
+      "en": "\"Dammit. If it comes to this, do we have to make Kane overcome her hate for cats!?\"",
+      "jp": "「くそぅ。こうなったら鐘べえに猫嫌いを克服させるしかないか！？」",
+      "Pt-br": "\"Droga. Se chegou a esse ponto, a gente vai ter que fazer a Kane superar o ódio dela por gatos!?\"",
+      "id": 19270,
+      "epk_id": "9713",
+      "label": "$$$message_0073_0017_0002$$$"
+    },
+    {
+      "en": "\"As I'm holding onto Kane, you guys hammer some sweet talk about cats into her.\"[lr]",
+      "jp": "「よしあたしが鐘ぴーをこう捕まえているうちに、衛宮と由紀っちは[ruby text=ストロベリートーク char=6]猫ののろけ話を思い付くかぎり叩き込むんだ」[lr]",
+      "Pt-br": "\"Enquanto eu seguro a Kane, vocês duas metralham ela com umas conversinhas fofas sobre gatos.\"[lr]",
+      "id": 19271,
+      "epk_id": "9714",
+      "label": "$$$message_0073_0018_0000$$$"
+    },
+    {
+      "en": "\"Huh? Huh? Huh?\"[lr]",
+      "jp": "「えっ？　えっ？　えっ？」[lr]",
+      "Pt-br": "\"Hã? Quê? Hã?\"[lr]",
+      "id": 19272,
+      "epk_id": "9715",
+      "label": "$$$message_0073_0018_0001$$$"
+    },
+    {
+      "en": "\"You're the one being held down...\"",
+      "jp": "「取り押さえられているのは、おまえの方なんだが……」",
+      "Pt-br": "\"É você quem tá sendo segurada...\"",
+      "id": 19273,
+      "epk_id": "9716",
+      "label": "$$$message_0073_0018_0002$$$"
+    },
+    {
+      "en": "\"Heh, don't mind me... There's no life to hold dear at this point.[lr]",
+      "jp": "「ふっ、あたしに構うな……今さら惜しむ命などない。[lr]",
+      "Pt-br": "\"Heh, não esquenta comigo... A essa altura não me sobrou mais nenhuma vida a zelar.[lr]",
+      "id": 19274,
+      "epk_id": "9717",
+      "label": "$$$message_0073_0019_0000$$$"
+    },
+    {
+      "en": "Now, keep on telling her about your favorite body part of a cat, a cat's gesture that you think is super cute, your favorite cat manga, the results of your cat fortune telling, or what kind of cat you want to be when you're reincarnated!\"",
+      "jp": "　さあ、自分の好きな猫のからだの部位でも、猫のめっちゃ可愛いと思うしぐさでも、お薦めの猫マンガでも猫占いの結果でも生まれ変わったらどんな猫になりたいかでも、あたしもろとも[ruby text=キャッツ]奴に話し続けるのだ！」",
+      "Pt-br": "Agora, continuem falando pra ela sobre a parte favorita do corpo de um gato, um gesto de gato que vocês achem super fofo, seu mangá de gato favorito, os resultados da sua leitura de sorte de gato, ou que tipo de gato você quer ser quando reencarnar!\"",
+      "id": 19275,
+      "epk_id": "9718",
+      "label": "$$$message_0073_0019_0001$$$"
+    },
+    {
+      "en": "\"Hmm, I can't reach it after all.\"[lr]",
+      "jp": "「んー、やっぱ届かないか」[lr]",
+      "Pt-br": "\"Hum, pelo visto não consigo alcançar mesmo.\"[lr]",
+      "id": 19276,
+      "epk_id": "9719",
+      "label": "$$$message_0073_0020_0000$$$"
+    },
+    {
+      "en": "\"Hey, don't ignore me!\"[lr]",
+      "jp": "「こらー、無視するなよなー！」[lr]",
+      "Pt-br": "\"Ei, não me ignora!\"[lr]",
+      "id": 19277,
+      "epk_id": "9720",
+      "label": "$$$message_0073_0020_0001$$$"
+    },
+    {
+      "en": "\"Did you know, Maki?[lr]",
+      "jp": "「ところで知っているか蒔。[lr]",
+      "Pt-br": "\"Você sabia, Maki?[lr]",
+      "id": 19278,
+      "epk_id": "9721",
+      "label": "$$$message_0073_0020_0002$$$"
+    },
+    {
+      "en": "This area used to be a graveyard and that even now anywhere you dig, human bones...\"[lr]",
+      "jp": "　この一帯は昔は墓場でな、今も地面のどこを掘っても人間の骨が……」[lr]",
+      "Pt-br": "Que essa área aqui costumava ser um cemitério, e que até hoje qualquer lugar que você cava, sai osso humano...\"[lr]",
+      "id": 19279,
+      "epk_id": "9722",
+      "label": "$$$message_0073_0020_0003$$$"
+    },
+    {
+      "en": "\"I don't! [wvl][shock vmax=20 time=300 count=-4]And I won't listen!\"",
+      "jp": "「知らん！　[wvl][shock vmax=20 time=300 count=-4]そして聞かん！」",
+      "Pt-br": "\"Não sabia! [wvl][shock vmax=20 time=300 count=-4]E não quero ouvir!\"",
+      "id": 19280,
+      "epk_id": "9723",
+      "label": "$$$message_0073_0020_0004$$$"
+    },
+    {
+      "en": "\"Well, you can also use this opportunity to overcome your own flaw.\"[lr]",
+      "jp": "「まあまあ、君もこの機会に己が難を克服するがいい」[lr]",
+      "Pt-br": "\"Bem, você também pode usar essa oportunidade pra superar a sua própria fraqueza.\"[lr]",
+      "id": 19281,
+      "epk_id": "9724",
+      "label": "$$$message_0073_0021_0000$$$"
+    },
+    {
+      "en": "\"Which flaw are you talking about?\"",
+      "jp": "「難ってなんのこと？」",
+      "Pt-br": "\"De que fraqueza cê tá falando?\"",
+      "id": 19282,
+      "epk_id": "9725",
+      "label": "$$$message_0073_0021_0001$$$"
+    },
+    {
+      "en": "\"Well, the story that the school grounds used to be a graveyard isn't rare.[lr]",
+      "jp": "「いや、学校の敷地が元は墓場だという話は珍しくもないぞ。[lr]",
+      "Pt-br": "\"Bom, a história de que os terrenos da escola costumavam ser um cemitério não é tão rara assim.[lr]",
+      "id": 19283,
+      "epk_id": "9726",
+      "label": "$$$message_0073_0022_0000$$$"
+    },
+    {
+      "en": "Burial grounds are cheap after all... [cacheimage storage=氷室制服02d(近)][wvl][chgfg textoff=0 time=300 storage=氷室制服02d(近)]Hm, could the block of stone that you're stepping on right now be a cenotaph?\"[lr]",
+      "jp": "　墓場の土地は安いからな……[cacheimage storage=氷室制服02d(近)][wvl][chgfg textoff=0 time=300 storage=氷室制服02d(近)]ふむ、いま君が踏んでいる石の塊は、もしかすると慰霊碑ではないか？」[lr]",
+      "Pt-br": "Afinal, áreas de cemitério são baratas... [cacheimage storage=氷室制服02d(近)][wvl][chgfg textoff=0 time=300 storage=氷室制服02d(近)]Hum, será que esse bloco de pedra em que você tá pisando agora não é um cenotáfio?\"[lr]",
+      "id": 19284,
+      "epk_id": "9727",
+      "label": "$$$message_0073_0022_0001$$$"
+    },
+    {
+      "en": "\"I-I-I-I'm not stepping on it![lr]",
+      "jp": "「ふふふ踏んでねー！[lr]",
+      "Pt-br": "\"E-e-e-eu não tô pisando nele![lr]",
+      "id": 19285,
+      "epk_id": "9728",
+      "label": "$$$message_0073_0022_0002$$$"
+    },
+    {
+      "en": "Don't casually change the topic! [cacheimage storage=蒔寺制服04b(近)][wvl][wshock canskip=0][chgfg textoff=0 time=200 storage=蒔寺制服04b(近)]Also ghosts don't come out during the day!\"",
+      "jp": "　話をあっさり戻すな！　[cacheimage storage=蒔寺制服04b(近)][wvl][wshock canskip=0][chgfg textoff=0 time=200 storage=蒔寺制服04b(近)]あと幽霊は昼に出ねえー！」",
+      "Pt-br": "Não muda de assunto assim do nada! [cacheimage storage=蒔寺制服04b(近)][wvl][wshock canskip=0][chgfg textoff=0 time=200 storage=蒔寺制服04b(近)]E além do mais, fantasma não aparece de dia!\"",
+      "id": 19286,
+      "epk_id": "9729",
+      "label": "$$$message_0073_0022_0003$$$"
+    },
+    {
+      "en": "\"But there's been an increase in reports of ghost sightings at noon lately.[lr]",
+      "jp": "「ところが昼近く、ここで霊を目撃したという報告が最近増えてな。[lr]",
+      "Pt-br": "\"Mas tem tido um aumento nos relatos de aparições de fantasmas ao meio-dia ultimamente.[lr]",
+      "id": 19287,
+      "epk_id": "9730",
+      "label": "$$$message_0073_0023_0000$$$"
+    },
+    {
+      "en": "Word has it that the ghost of a beautiful woman with long hair holding a parcel the size of an urn suddenly appears and disappears along with the neigh of a horse...\"",
+      "jp": "　なんでも骨壺をくるんだような大きさの包みを手にした、髪の長い美しい女の霊が、馬の[ruby text=いなな]嘶きと共に突然消えたり現れたりするという……」",
+      "Pt-br": "Dizem as más línguas que o fantasma de uma mulher bonita, de cabelo comprido e segurando um embrulho do tamanho de uma urna, aparece e desaparece de repente junto com o relincho de um cavalo...\"",
+      "id": 19288,
+      "epk_id": "9731",
+      "label": "$$$message_0073_0023_0001$$$"
+    },
+    {
+      "en": "\"No! That's probably the sister or mom of a student kindly delivering their lunch to school! While riding a horse![lr]",
+      "jp": "「違えーよ！　それはきっと生徒のお母さんかお姉さんが、親切にも学校に弁当箱を届けに来てくれてるんだよ！　馬に乗って！[lr]",
+      "Pt-br": "\"Não! Isso deve ser só a Nee-san ou a mãe de um aluno sendo gentil e entregando o lanche pra ele na escola! Enquanto monta um cavalo![lr]",
+      "id": 19289,
+      "epk_id": "9732",
+      "label": "$$$message_0073_0024_0000$$$"
+    },
+    {
+      "en": "Stop suspecting such a warming beautiful story with your hardened heart!\"[lr]",
+      "jp": "　そんな心温まる美談をだなあ、荒んだ心で勘繰るのはやめろー！」[lr]",
+      "Pt-br": "Para de desconfiar de uma história linda e comovente dessas com esse seu coração duro!\"[lr]",
+      "id": 19290,
+      "epk_id": "9733",
+      "label": "$$$message_0073_0024_0001$$$"
+    },
+    {
+      "en": "...It's a random guess but probably right.",
+      "jp": "　……当てずっぽうのくせに、たぶん正解。",
+      "Pt-br": "...É um chute cego, mas provavelmente certeiro.",
+      "id": 19291,
+      "epk_id": "9734",
+      "label": "$$$message_0073_0024_0002$$$"
+    },
+    {
+      "en": "\"Maki, if you make such a fuss, the kitten will get scared.\"[lr]",
+      "jp": "「蒔ちゃん、そんなに騒いだら子猫さんが怖がっちゃうよ」[lr]",
+      "Pt-br": "\"Maki-chan, se você fizer tanto escândalo, o gatinho vai ficar assustado.\"[lr]",
+      "id": 19292,
+      "epk_id": "9735",
+      "label": "$$$message_0073_0025_0000$$$"
+    },
+    {
+      "en": "\"Yeah. Can't you do something about that, Makidera?\"[lr]",
+      "jp": "「そうだな。なんとかならないのか、[ruby text=それ o2o=1]蒔寺」[lr]",
+      "Pt-br": "\"É. Não tem como você dar um jeito nisso, Makidera?\"[lr]",
+      "id": 19293,
+      "epk_id": "9736",
+      "label": "$$$message_0073_0025_0001$$$"
+    },
+    {
+      "en": "\"That's why I pulled her away.[lr]",
+      "jp": "「だからさっきも引っ張って行ったんだ。[lr]",
+      "Pt-br": "\"Foi pra isso que eu afastei ela.[lr]",
+      "id": 19294,
+      "epk_id": "9737",
+      "label": "$$$message_0073_0025_0002$$$"
+    },
+    {
+      "en": "But, she ran away, and came back with you.\"",
+      "jp": "　が、逃げ出されて、君を連れて戻られた」",
+      "Pt-br": "Mas ela fugiu e voltou junto com você.\"",
+      "id": 19295,
+      "epk_id": "9738",
+      "label": "$$$message_0073_0025_0003$$$"
+    },
+    {
+      "en": "\"Dammit, I shouldn't have relied on Emiya.\"[lr]",
+      "jp": "「ちくしょー、やっぱ衛宮になんか頼るんじゃなかった」[lr]",
+      "Pt-br": "\"Droga, eu não devia ter dependido do Emiya.\"[lr]",
+      "id": 19296,
+      "epk_id": "9739",
+      "label": "$$$message_0073_0026_0000$$$"
+    },
+    {
+      "en": "...[lr]",
+      "jp": "　……………………。[lr]",
+      "Pt-br": "...[lr]",
+      "id": 19297,
+      "epk_id": "9740",
+      "label": "$$$message_0073_0026_0001$$$"
+    },
+    {
+      "en": "I can't stand being called useless by this Makidera.",
+      "jp": "　こんな蒔寺から、役立たず扱いなんて納得できない。",
+      "Pt-br": "Não suporto ser chamado de inútil logo por essa Makidera.",
+      "id": 19298,
+      "epk_id": "9741",
+      "label": "$$$message_0073_0026_0002$$$"
+    },
+    {
+      "en": "\"All right...\"[lr]",
+      "jp": "「よし……」[lr]",
+      "Pt-br": "\"Certo...\"[lr]",
+      "id": 19299,
+      "epk_id": "9742",
+      "label": "$$$message_0073_0027_0000$$$"
+    },
+    {
+      "en": "\"W-What happened, Emiya?\"[lr]",
+      "jp": "「ど、どうしたの衛宮くん？」[lr]",
+      "Pt-br": "\"O-O que foi, Emiya-kun?\"[lr]",
+      "id": 19300,
+      "epk_id": "9743",
+      "label": "$$$message_0073_0027_0001$$$"
+    },
+    {
+      "en": "I get on all fours under the branch.",
+      "jp": "　枝の下で、四つん這いになる。",
+      "Pt-br": "Fico de quatro embaixo do galho.",
+      "id": 19301,
+      "epk_id": "9744",
+      "label": "$$$message_0073_0027_0002$$$"
+    },
+    {
+      "en": "\"Makidera, get on top.\"[lr]",
+      "jp": "「蒔寺、上に乗れ」[lr]",
+      "Pt-br": "\"Makidera, sobe aqui.\"[lr]",
+      "id": 19302,
+      "epk_id": "9745",
+      "label": "$$$message_0073_0028_0000$$$"
+    },
+    {
+      "en": "\"Emiya...\"[lr]",
+      "jp": "「衛宮くん……」[lr]",
+      "Pt-br": "\"Emiya-kun...\"[lr]",
+      "id": 19303,
+      "epk_id": "9746",
+      "label": "$$$message_0073_0028_0001$$$"
+    },
+    {
+      "en": "\"Emiya...\"[lr]",
+      "jp": "「衛宮……」[lr]",
+      "Pt-br": "\"Emiya...\"[lr]",
+      "id": 19304,
+      "epk_id": "9747",
+      "label": "$$$message_0073_0028_0002$$$"
+    },
+    {
+      "en": "\"Emiya...\"",
+      "jp": "「衛宮某……」",
+      "Pt-br": "\"Emiya...\"",
+      "id": 19305,
+      "epk_id": "9748",
+      "label": "$$$message_0073_0028_0003$$$"
+    },
+    {
+      "en": "\"If you still can't reach, then jump from my back.\"[lr]",
+      "jp": "「これでも届かないようなら、背中の上でジャンプしろ」[lr]",
+      "Pt-br": "\"Se você ainda não conseguir alcançar, então pula das minhas costas.\"[lr]",
+      "id": 19306,
+      "epk_id": "9749",
+      "label": "$$$message_0073_0029_0000$$$"
+    },
+    {
+      "en": "\"What... Are you sure?\"[lr]",
+      "jp": "「そんな……いいのか？」[lr]",
+      "Pt-br": "\"O que... Cê tem certeza?\"[lr]",
+      "id": 19307,
+      "epk_id": "9750",
+      "label": "$$$message_0073_0029_0001$$$"
+    },
+    {
+      "en": "\"I might not seem like much, but I do work out. I can bear this much.\"",
+      "jp": "「これでも鍛えているからな、それくらい耐えられるさ」",
+      "Pt-br": "\"Eu posso não parecer grande coisa, mas eu faço exercícios. Eu aguento esse peso de boa.\"",
+      "id": 19308,
+      "epk_id": "9751",
+      "label": "$$$message_0073_0029_0002$$$"
+    },
+    {
+      "en": "\"But...\"[lr]",
+      "jp": "「けど……」[lr]",
+      "Pt-br": "\"Mas...\"[lr]",
+      "id": 19309,
+      "epk_id": "9752",
+      "label": "$$$message_0073_0030_0000$$$"
+    },
+    {
+      "en": "\"The height is more certain if I carry you on my shoulders, but you are a girl after all.\"",
+      "jp": "「肩車をして持ち上げた方が高さが確実だけど、蒔寺も一応は女の子だしな」",
+      "Pt-br": "\"Teria certeza que alcançava se te levasse nos meus ombros, mas você é uma garota afinal.\"",
+      "id": 19310,
+      "epk_id": "9753",
+      "label": "$$$message_0073_0030_0001$$$"
+    },
+    {
+      "en": "\"Okay... Sorry for making you do this.\"[lr]",
+      "jp": "「じゃあ……こんなコトさせて悪いな」[lr]",
+      "Pt-br": "\"Beleza... Desculpa por te fazer passar por isso.\"[lr]",
+      "id": 19311,
+      "epk_id": "9754",
+      "label": "$$$message_0073_0031_0000$$$"
+    },
+    {
+      "en": "\"Don't worry about it.\"[lr]",
+      "jp": "「そんなこと気にするな」[lr]",
+      "Pt-br": "\"Não esquenta com isso.\"[lr]",
+      "id": 19312,
+      "epk_id": "9755",
+      "label": "$$$message_0073_0031_0001$$$"
+    },
+    {
+      "en": "\"Man, I said such mean things to you though.\"[lr]",
+      "jp": "「いや、あたしったら衛宮に酷いコトを言って」[lr]",
+      "Pt-br": "\"Caramba, depois de tudo que eu falei de maldade pra você.\"[lr]",
+      "id": 19313,
+      "epk_id": "9756",
+      "label": "$$$message_0073_0031_0002$$$"
+    },
+    {
+      "en": "\"I don't mind it.\"",
+      "jp": "「気にしてないぞ」",
+      "Pt-br": "\"Eu não me importo.\"",
+      "id": 19314,
+      "epk_id": "9757",
+      "label": "$$$message_0073_0031_0003$$$"
+    },
+    {
+      "en": "\"I'll owe you one.\"[lr]",
+      "jp": "「恩に着るよ」[lr]",
+      "Pt-br": "\"Fico te devendo uma.\"[lr]",
+      "id": 19315,
+      "epk_id": "9758",
+      "label": "$$$message_0073_0032_0000$$$"
+    },
+    {
+      "en": "\"Yeah... Wait, take off your shoes!\"[lr]",
+      "jp": "「ああ……って、靴は脱げよ！」[lr]",
+      "Pt-br": "\"É... Espera, tira os sapatos!\"[lr]",
+      "id": 19316,
+      "epk_id": "9759",
+      "label": "$$$message_0073_0032_0001$$$"
+    },
+    {
+      "en": "\"Take off?\"[lr]",
+      "jp": "「脱ぎ？」[lr]",
+      "Pt-br": "\"Tirar?\"[lr]",
+      "id": 19317,
+      "epk_id": "9760",
+      "label": "$$$message_0073_0032_0002$$$"
+    },
+    {
+      "en": "\"Why are you making such a puzzled face!?\"",
+      "jp": "「そこでなんで不思議そうな顔をするっ！？」",
+      "Pt-br": "\"Por que você tá fazendo uma cara de tão confusa!?\"",
+      "id": 19318,
+      "epk_id": "9761",
+      "label": "$$$message_0073_0032_0003$$$"
+    },
+    {
+      "en": "As I look up, in the corner of my eye I see the dead leaves that were stacked on the ground whirl up.[lr]",
+      "jp": "　そうして見上げた視界の隅で、地面に積もっていた枯れ葉が舞い上がった。[lr]",
+      "Pt-br": "Quando eu olho pra cima, pelo canto do olho vejo as folhas mortas que estavam empilhadas no chão começarem a girar.[lr]",
+      "id": 19319,
+      "epk_id": "9762",
+      "label": "$$$message_0073_0033_0000$$$"
+    },
+    {
+      "en": "\"...Huh?\"[lr]",
+      "jp": "「[line len=6]え」[lr]",
+      "Pt-br": "\"...Hã?\"[lr]",
+      "id": 19320,
+      "epk_id": "9763",
+      "label": "$$$message_0073_0033_0001$$$"
+    },
+    {
+      "en": "Rugged shoes fall in front of my eyes.",
+      "jp": "　目の前に、ごつい靴が落ちてくる。",
+      "Pt-br": "Sapatos rústicos caem bem na frente dos meus olhos.",
+      "id": 19321,
+      "epk_id": "9764",
+      "label": "$$$message_0073_0033_0002$$$"
+    },
+    {
+      "en": "\"Is this it, young ladies?\"[lr]",
+      "jp": "「これでいいのかな、お嬢さんたち」[lr]",
+      "Pt-br": "\"É isso aqui, senhoritas?\"[lr]",
+      "id": 19322,
+      "epk_id": "9765",
+      "label": "$$$message_0073_0034_0000$$$"
+    },
+    {
+      "en": "The kitten that was on the branch is in Archer's arms.",
+      "jp": "　アーチャーの腕に、枝にいた子猫が抱えられていた。",
+      "Pt-br": "O gatinho que tava no galho agora tá nos braços do Archer.",
+      "id": 19323,
+      "epk_id": "9766",
+      "label": "$$$message_0073_0034_0001$$$"
+    },
+    {
+      "en": "\"Wow...\"[lr]",
+      "jp": "「わあ……」[lr]",
+      "Pt-br": "\"Uau...\"[lr]",
+      "id": 19324,
+      "epk_id": "9767",
+      "label": "$$$message_0073_0035_0000$$$"
+    },
+    {
+      "en": "\"What...?\"[lr]",
+      "jp": "「なんと……？」[lr]",
+      "Pt-br": "\"O que...?\"[lr]",
+      "id": 19325,
+      "epk_id": "9768",
+      "label": "$$$message_0073_0035_0001$$$"
+    },
+    {
+      "en": "\"Oh...\"",
+      "jp": "「ほう……」",
+      "Pt-br": "\"Ah...\"",
+      "id": 19326,
+      "epk_id": "9769",
+      "label": "$$$message_0073_0035_0002$$$"
+    },
+    {
+      "en": "\"...What are you doing here?\"[lr]",
+      "jp": "「……おまえ、何でここに？」[lr]",
+      "Pt-br": "\"...O que cê tá fazendo aqui?\"[lr]",
+      "id": 19327,
+      "epk_id": "9770",
+      "label": "$$$message_0073_0036_0000$$$"
+    },
+    {
+      "en": "\"Well, I wasn't planning on interfering, but I couldn't bear watching the uselessness.\"[lr]",
+      "jp": "「なに、手を出すつもりはなかったのだが、あまりの役立たずぶりが見ていられなかったのでな」[lr]",
+      "Pt-br": "\"Bom, eu não tava planejando interferir, mas não aguentei ficar olhando tamanha inutilidade.\"[lr]",
+      "id": 19328,
+      "epk_id": "9771",
+      "label": "$$$message_0073_0036_0001$$$"
+    },
+    {
+      "en": "[font italic=true]...Humph.[font italic=false][lr]",
+      "jp": "　……ふん。[lr]",
+      "Pt-br": "[font italic=true]...Humpf.[font italic=false][lr]",
+      "id": 19329,
+      "epk_id": "9772",
+      "label": "$$$message_0073_0036_0002$$$"
+    },
+    {
+      "en": "Then he should've played dumb and distanced himself from here.",
+      "jp": "　なら知らぬ顔でここを離れればいいだろうに。",
+      "Pt-br": "Então ele deveria ter se feito de bobo e mantido distância daqui.",
+      "id": 19330,
+      "epk_id": "9773",
+      "label": "$$$message_0073_0036_0003$$$"
+    },
+    {
+      "en": "\"Oh... [cacheimage storage=由紀香制服02b(近)][wvl canskip=0 time=200][chgfg textoff=0 time=300 storage=由紀香制服02b(近)]Thank you!\"[lr]",
+      "jp": "「あ……[cacheimage storage=由紀香制服02b(近)][wvl canskip=0 time=200][chgfg textoff=0 time=300 storage=由紀香制服02b(近)]ありがとうございます！」[lr]",
+      "Pt-br": "\"Ah... [cacheimage storage=由紀香制服02b(近)][wvl canskip=0 time=200][chgfg textoff=0 time=300 storage=由紀香制服02b(近)]Obrigada!\"[lr]",
+      "id": 19331,
+      "epk_id": "9774",
+      "label": "$$$message_0073_0037_0000$$$"
+    },
+    {
+      "en": "The calico kitten that was handed to Saegusa must've felt relieved, as it curled its body up as if it was being held by a mother cat.[lr]",
+      "jp": "　三枝に手渡された三毛の仔は、安心したのか母猫に抱かれたように体を丸めた。[lr]",
+      "Pt-br": "O gatinho tricolor que foi entregue pra Saegusa deve ter se sentido aliviado, porque ele se encolheu todo, como se tivesse sido pego pela mãe gata.[lr]",
+      "id": 19332,
+      "epk_id": "9775",
+      "label": "$$$message_0073_0037_0001$$$"
+    },
+    {
+      "en": "...I can't stand that guy, but thanks to Archer, the kitten was saved.",
+      "jp": "　……気にくわないヤツだが、アーチャーが居てくれたおかげで、この子猫は助かったのだ。",
+      "Pt-br": "...Eu não suporto esse cara, mas graças ao Archer, o gatinho foi salvo.",
+      "id": 19333,
+      "epk_id": "9776",
+      "label": "$$$message_0073_0037_0002$$$"
+    },
+    {
+      "en": "\"Um, what is your name...?\"[lr]",
+      "jp": "「あの、お名前は……」[lr]",
+      "Pt-br": "\"Hum, qual é o seu nome...?\"[lr]",
+      "id": 19334,
+      "epk_id": "9777",
+      "label": "$$$message_0073_0038_0000$$$"
+    },
+    {
+      "en": "\"It is nothing worth mentioning. I will save that for when we meet properly again.\"",
+      "jp": "「名乗るほどの者じゃないのでね。それはまた、きちんとした縁があった時に」",
+      "Pt-br": "\"Não é nada que valha a pena mencionar. Vou guardar para quando nos encontrarmos propriamente de novo.\"",
+      "id": 19335,
+      "epk_id": "9778",
+      "label": "$$$message_0073_0038_0001$$$"
+    },
+    {
+      "en": "\"Woah, how cool.[lr]",
+      "jp": "「おー、かっこいいねー。[lr]",
+      "Pt-br": "\"Nossa, que legal.[lr]",
+      "id": 19336,
+      "epk_id": "9779",
+      "label": "$$$message_0073_0039_0000$$$"
+    },
+    {
+      "en": "He's like a champion of justice.\"[lr]",
+      "jp": "　まるで正義の味方みたいだ」[lr]",
+      "Pt-br": "Ele é tipo um Herói da Justiça.\"[lr]",
+      "id": 19337,
+      "epk_id": "9780",
+      "label": "$$$message_0073_0039_0001$$$"
+    },
+    {
+      "en": "\"...[resumevoice]Mrgh?\"",
+      "jp": "「………………………………………………[resumevoice]む？」",
+      "Pt-br": "\"...[resumevoice]Hrmm?\"",
+      "id": 19338,
+      "epk_id": "9781",
+      "label": "$$$message_0073_0039_0002$$$"
+    },
+    {
+      "en": "\"Wait. What are you saying, Makidera?\"[lr]",
+      "jp": "「待て。何を言い出すんだ、蒔寺」[lr]",
+      "Pt-br": "\"Espera aí. O que você tá dizendo, Makidera?\"[lr]",
+      "id": 19339,
+      "epk_id": "9782",
+      "label": "$$$message_0073_0040_0000$$$"
+    },
+    {
+      "en": "\"I mean he is.[lr]",
+      "jp": "「だってそうじゃんさー。[lr]",
+      "Pt-br": "\"Mas ele é mesmo.[lr]",
+      "id": 19340,
+      "epk_id": "9783",
+      "label": "$$$message_0073_0040_0001$$$"
+    },
+    {
+      "en": "He appears like the wind and saves the weak.\"[lr]",
+      "jp": "　疾風の如く現れて、弱きを助ける」[lr]",
+      "Pt-br": "Aparece como o vento e salva os mais fracos.\"[lr]",
+      "id": 19341,
+      "epk_id": "9784",
+      "label": "$$$message_0073_0040_0002$$$"
+    },
+    {
+      "en": "\"Yes, and with a big heart that he doesn't boast about.\"[lr]",
+      "jp": "「うむ、しかもそれを誇らぬ器の大きさ」[lr]",
+      "Pt-br": "\"Verdade, e com um grande coração, sem ficar se gabando disso.\"[lr]",
+      "id": 19342,
+      "epk_id": "9785",
+      "label": "$$$message_0073_0040_0003$$$"
+    },
+    {
+      "en": "\"He's lovely, like the main character of a period drama.\"",
+      "jp": "「時代劇の主人公みたいで素敵ですー」",
+      "Pt-br": "\"Ele é um amor, parece até protagonista de novela de época.\"",
+      "id": 19343,
+      "epk_id": "9786",
+      "label": "$$$message_0073_0040_0004$$$"
+    },
+    {
+      "en": "\"...That is not very good.[lr]",
+      "jp": "「……それはあまり良くはないな。[lr]",
+      "Pt-br": "\"...Isso não é muito bom.[lr]",
+      "id": 19344,
+      "epk_id": "9787",
+      "label": "$$$message_0073_0041_0000$$$"
+    },
+    {
+      "en": "You should avoid using the expression 'champion of justice.'[lr]",
+      "jp": "　正義の味方という表現は控えた方がいい。[lr]",
+      "Pt-br": "Vocês deveriam evitar usar a expressão 'Herói da Justiça'.[lr]",
+      "id": 19345,
+      "epk_id": "9788",
+      "label": "$$$message_0073_0041_0001$$$"
+    },
+    {
+      "en": "Look, a strong sense of justice would also create strong enemies at the same time.[lr]",
+      "jp": "　いいかな、強力な正義は、同時に強力な敵を生み出してしまう。[lr]",
+      "Pt-br": "Vejam, um forte senso de justiça também cria fortes inimigos ao mesmo tempo.[lr]",
+      "id": 19346,
+      "epk_id": "9789",
+      "label": "$$$message_0073_0041_0002$$$"
+    },
+    {
+      "en": "What is waiting at the end of that is a bloody war of attrition. Conflict will only be created if you are not neutral and moderate.[lr]",
+      "jp": "　その果てにあるのは血みどろの消耗戦だ。何事も中立、中庸でなくては争いを生むだけだぞ。[lr]",
+      "Pt-br": "O que espera no fim disso é uma guerra de atrito sangrenta. Se você não se mantiver neutro e moderado, só vai acabar criando mais conflito.[lr]",
+      "id": 19347,
+      "epk_id": "9790",
+      "label": "$$$message_0073_0041_0003$$$"
+    },
+    {
+      "en": "Understand, young ladies? It is good to be particular about things, but it is not good to be thorough.\"",
+      "jp": "　いいかねお嬢さんたち。物事にこだわるのはいいが、徹底するのはよろしくない」",
+      "Pt-br": "Entendem, senhoritas? Ter convicções é bom. Levá-las até as últimas consequências, não.\"",
+      "id": 19348,
+      "epk_id": "9791",
+      "label": "$$$message_0073_0041_0004$$$"
+    },
+    {
+      "en": "\"Um... Okay. Are you saying that it's not good to excel in only one skill?\"[lr]",
+      "jp": "「は……はあ。一芸に秀でるのはダメってコトですか？」[lr]",
+      "Pt-br": "\"Humm... Tá bom. Você tá dizendo que não é bom ser excelente em só uma habilidade?\"[lr]",
+      "id": 19349,
+      "epk_id": "9792",
+      "label": "$$$message_0073_0042_0000$$$"
+    },
+    {
+      "en": "\"No, it's not about skill, but the matter of how you think.[lr]",
+      "jp": "「いや、芸ではなく思想の問題だろう。[lr]",
+      "Pt-br": "\"Não, não se trata de habilidade, mas a forma como você pensa.[lr]",
+      "id": 19350,
+      "epk_id": "9793",
+      "label": "$$$message_0073_0042_0001$$$"
+    },
+    {
+      "en": "A 'champion of justice' is a way of being that would only be seen as an enemy from someone who is the complete opposite[line len=2]\"[lr]",
+      "jp": "　この御仁は“正義の味方”という、正反対の者から見れば敵にしかならない在り方をだな、」[lr]",
+      "Pt-br": "Ser um 'Herói da Justiça' é uma forma de viver que só pode ser vista como inimiga por quem está no extremo oposto[line len=2]\"[lr]",
+      "id": 19351,
+      "epk_id": "9794",
+      "label": "$$$message_0073_0042_0002$$$"
+    },
+    {
+      "en": "\"What are you saying? Being a champion of justice is a good thing. It's cool[line len=2]everyone's role model![lr]",
+      "jp": "「なに言ってんのさ。正義の味方、いいじゃん。かっこいいよ、みんなの憧れだよ！[lr]",
+      "Pt-br": "\"Do que cê tá falando? Ser um Herói da Justiça é uma coisa boa. É muito massa[line len=2]um modelo a se seguir por todo mundo![lr]",
+      "id": 19352,
+      "epk_id": "9795",
+      "label": "$$$message_0073_0042_0003$$$"
+    },
+    {
+      "en": "Best of all, it's easy to understand!\"",
+      "jp": "　なにより分かりやすいのがサイコー！」",
+      "Pt-br": "E melhor de tudo, é fácil de entender!\"",
+      "id": 19353,
+      "epk_id": "9796",
+      "label": "$$$message_0073_0042_0004$$$"
+    },
+    {
+      "en": "\"The only thing that's easy to understand is the nickname.[lr]",
+      "jp": "「分かりやすいのは呼び名だけだ。[lr]",
+      "Pt-br": "\"A única coisa que é fácil de entender é o apelido.[lr]",
+      "id": 19354,
+      "epk_id": "9797",
+      "label": "$$$message_0073_0043_0000$$$"
+    },
+    {
+      "en": "The content is a mass of self-contradiction. A champion of justice is a pipe dream that those who cannot conform to society look up to.[lr]",
+      "jp": "　その中身は自己矛盾の塊だぞ？　正義の味方なぞ、人間の社会に適合できなかった者が憧れる夢物語だ。[lr]",
+      "Pt-br": "O conteúdo é um mar de autocontradição. Um Herói da Justiça é um devaneio utópico que aqueles que não conseguem se adaptar à sociedade idolatram.[lr]",
+      "id": 19355,
+      "epk_id": "9798",
+      "label": "$$$message_0073_0043_0001$$$"
+    },
+    {
+      "en": "If there is such a thing as true righteousness, then that is a society that does not need a champion of justice. If there is evil within that, that is the ugliness of people who lament over the world that does not go their way and yearn for a champion of justice.[lr]",
+      "jp": "　本当に正しいものがあるとすれば、それは正義の味方など必要としない社会であり、その中で悪があるとすれば、それはままならない世を嘆いて正義の味方を渇望する人の醜さにある。[lr]",
+      "Pt-br": "Se existe algo como justiça verdadeira, então é uma sociedade que não precisa de Heróis da Justiça. A maldade que nasce daí é a feiura de quem se ressente porque o mundo não gira como quer, e por isso anseia por um Herói da Justiça.[lr]",
+      "id": 19356,
+      "epk_id": "9799",
+      "label": "$$$message_0073_0043_0002$$$"
+    },
+    {
+      "en": "...Well, how should I put it? A champion of justice is another name for human weakness.\"",
+      "jp": "　……まあ、なんだ。正義の味方というのは、人の弱さの別名であってだな」",
+      "Pt-br": "...Bem, como posso dizer? Um Herói da Justiça é apenas outro nome para a fraqueza humana.\"",
+      "id": 19357,
+      "epk_id": "9800",
+      "label": "$$$message_0073_0043_0003$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「………………」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 19358,
+      "epk_id": "9801",
+      "label": "$$$message_0073_0044_0000$$$"
+    },
+    {
+      "en": "Archer's criticism continues.[lr]",
+      "jp": "　アーチャーの批判は続く。[lr]",
+      "Pt-br": "As críticas do Archer não param.[lr]",
+      "id": 19359,
+      "epk_id": "9802",
+      "label": "$$$message_0073_0044_0001$$$"
+    },
+    {
+      "en": "I want to object, but as someone who couldn't save the kitten, I can only shut up and listen.",
+      "jp": "　反論したいところだが、子猫を助けられなかった俺は黙って聞くしかない。",
+      "Pt-br": "Eu quero protestar, mas sendo o cara que nem conseguiu salvar o gatinho, só me resta ficar calado e escutar.",
+      "id": 19360,
+      "epk_id": "9803",
+      "label": "$$$message_0073_0044_0002$$$"
+    },
+    {
+      "en": "\"So you guys keep that in mind[line len=2]\"",
+      "jp": "「だから君たちもその辺をよく心得てだね……」",
+      "Pt-br": "\"Então mantenham isso em mente[line len=2]\"",
+      "id": 19361,
+      "epk_id": "9804",
+      "label": "$$$message_0073_0045_0000$$$"
+    },
+    {
+      "en": "\"Haha, you don't need to be embarrassed at your age.\"[lr]",
+      "jp": "「あはは、いい歳して照れなくてもいいじゃんかよー」[lr]",
+      "Pt-br": "\"Haha, não precisa ficar com vergonha na sua idade.\"[lr]",
+      "id": 19362,
+      "epk_id": "9805",
+      "label": "$$$message_0073_0046_0000$$$"
+    },
+    {
+      "en": "\"Hm, so wishing for others to speak on behalf of clear justice in itself is evil. Fascinating.\"[lr]",
+      "jp": "「うむ、明白な正義の代弁を他人に望むコトこそ悪である、か。素晴らしい」[lr]",
+      "Pt-br": "\"Hmm, então desejar que os outros ajam em nome de uma justiça clara é o próprio mal em si. Fascinante.\"[lr]",
+      "id": 19363,
+      "epk_id": "9806",
+      "label": "$$$message_0073_0046_0001$$$"
+    },
+    {
+      "en": "\"Here kitty, tell Mr. Champion of Justice thank you.\"",
+      "jp": "「ほら、子猫ちゃんも正義の味方さんにお礼を言おう」",
+      "Pt-br": "\"Vem gatinho, diz obrigado pro Senhor Herói da Justiça.\"",
+      "id": 19364,
+      "epk_id": "9807",
+      "label": "$$$message_0073_0046_0002$$$"
+    },
+    {
+      "en": "\"H-Hold on. Were you guys even listening?[lr]",
+      "jp": "「ま、待ちなさい、何を聞いていたのだ君たちは。[lr]",
+      "Pt-br": "\"E-espera aí. Vocês ouviram sequer uma palavra do que eu disse?[lr]",
+      "id": 19365,
+      "epk_id": "9808",
+      "label": "$$$message_0073_0047_0000$$$"
+    },
+    {
+      "en": "...It can't be helped. This'll get a little long, but this is my responsibility for saving the kitten on a whim; I shall correct you elaborately.[lr]",
+      "jp": "　……仕方ないな。少し長くなるが、これも気まぐれにも子猫を助けてしまった責任だ、念入りに訂正するとしよう。[lr]",
+      "Pt-br": "...Não tem jeito. Vai ser um pouco demorado, mas já que assumi a responsabilidade de salvar esse gato por puro capricho, vou corrigir as noções de vocês em detalhes.[lr]",
+      "id": 19366,
+      "epk_id": "9809",
+      "label": "$$$message_0073_0047_0001$$$"
+    },
+    {
+      "en": "Yes, for example, this kitten. It was saved by a champion of justice, so in this instance was good. However, within the hearts of some who were saved, sows a naïve thought that some miraculous existence would save them even if they ran into danger again. But that would get in the way of one's growth and progress. Has it occured to you that a champion of justice is a hypocritical and egotistical existence that is a nuisance to others[line len=2]\"",
+      "jp": "　そう、例えばその子猫。正義の味方に助けられこの場は良かっただろう。だが助けられた者の心の中に、また危機に陥っても奇跡的な存在が助けてくれるだろうという甘えを生んでしまいはしないか。そしてそれはその者の成長や進化を邪魔しはしないか。君たちは正義の味方をそのような結果的に偽善的で独りよがりで相手にとって迷惑な存在だとかつて一度でも考えたことは……」",
+      "Pt-br": "Sim, tomem esse gatinho como exemplo. Ele foi salvo por um Herói da Justiça, então, neste caso, houve um bem. Porém, no coração de alguns salvos, isso semeia a ideia ingênua de que uma existência milagrosa sempre virá resgatá-los quando voltarem a se pôr em perigo. Isso atrapalha o crescimento e o progresso de qualquer um. Já lhes ocorreu que um Herói da Justiça é uma existência hipócrita e egoísta, um estorvo para os outros[line len=2]\"",
+      "id": 19367,
+      "epk_id": "9810",
+      "label": "$$$message_0073_0047_0002$$$"
+    },
+    {
+      "en": "\"It's a kitten; it won't understand such a difficult thing. See, it's attached to you.\"[lr]",
+      "jp": "「子猫だからそんな難しいことわかりませんよー。ほら、正義の味方さんに懐いてる」[lr]",
+      "Pt-br": "\"Ele é um gatinho; não vai entender uma coisa tão complicada. Olha só, ele já tá apegado a você.\"[lr]",
+      "id": 19368,
+      "epk_id": "9811",
+      "label": "$$$message_0073_0048_0000$$$"
+    },
+    {
+      "en": "\"It's the pride of a guardian. Instead of a temporary thing such as offering a hand, I believe you must offer a hand with the determination of supporting them for the rest of their life.\"[lr]",
+      "jp": "「保護者の矜恃というコトですね。手を差し伸べる、という事は一時的なものではなく、その生涯を支えるという覚悟で差し伸べるべきだと」[lr]",
+      "Pt-br": "\"Isso é o orgulho de um Guardião. Em vez de algo temporário como só dar uma mãozinha de momento, eu acredito que se deva estender a mão com a determinação de apoiá-los pelo resto de suas vidas.\"[lr]",
+      "id": 19369,
+      "epk_id": "9812",
+      "label": "$$$message_0073_0048_0001$$$"
+    },
+    {
+      "en": "\"So, what's your point?[lr]",
+      "jp": "「だからさー、どこを縦に読んだらいいんだよー？[lr]",
+      "Pt-br": "\"Então, aonde cê quer chegar com isso?[lr]",
+      "id": 19370,
+      "epk_id": "9813",
+      "label": "$$$message_0073_0048_0002$$$"
+    },
+    {
+      "en": "You're the champion of justice; come on, don't be stingy and just tell us!\"",
+      "jp": "　正義の味方のくせに、ケチケチしないで教えろよー」",
+      "Pt-br": "Você que é o Herói da Justiça; qual é, não seja mesquinho e conta de uma vez pra gente!\"",
+      "id": 19371,
+      "epk_id": "9814",
+      "label": "$$$message_0073_0048_0003$$$"
+    },
+    {
+      "en": "\"Like I said, calling me a champion of justice is[line len=2]\"[lr]",
+      "jp": "「だからだね、私を正義の味方と呼ぶのは」[lr]",
+      "Pt-br": "\"Como eu disse, me chamar de Herói da Justiça é[line len=2]\"[lr]",
+      "id": 19372,
+      "epk_id": "9815",
+      "label": "$$$message_0073_0049_0000$$$"
+    },
+    {
+      "en": "\"Well, you won't tell us what your name is, so we don't know what else to call you.\"[lr]",
+      "jp": "「だって名前を教えてくれないから、他に呼びようないじゃん」[lr]",
+      "Pt-br": "\"Bom, já que você não vai falar o seu nome, a gente não sabe como mais chamar você.\"[lr]",
+      "id": 19373,
+      "epk_id": "9816",
+      "label": "$$$message_0073_0049_0001$$$"
+    },
+    {
+      "en": "\"Even criticizing your self-criticizing attitude is even more impressive.\"[lr]",
+      "jp": "「自己批判し続ける姿勢すら批判とは、ますます素晴らしい」[lr]",
+      "Pt-br": "\"Criticar até a própria mania de se criticar só deixa tudo ainda mais impressionante.\"[lr]",
+      "id": 19374,
+      "epk_id": "9817",
+      "label": "$$$message_0073_0049_0002$$$"
+    },
+    {
+      "en": "\"Cuteness is justice, see?\"",
+      "jp": "「可愛いは正義ですよー、ほらほら」",
+      "Pt-br": "\"Fofura é justiça, viu?\"",
+      "id": 19375,
+      "epk_id": "9818",
+      "label": "$$$message_0073_0049_0003$$$"
+    },
+    {
+      "en": "\"Khh, quit looking at me with such innocent eyes, kitten...![lr]",
+      "jp": "「く、そんなつぶらな瞳で見るのはよすんだ子猫……！[lr]",
+      "Pt-br": "\"Khh, para de ficar me olhando com esses olhos tão inocentes, seu gato...![lr]",
+      "id": 19376,
+      "epk_id": "9819",
+      "label": "$$$message_0073_0050_0000$$$"
+    },
+    {
+      "en": "I only saved you as an interaction with an animal known as a cat; I didn't save you as an individual...!\"[lr]",
+      "jp": "　私は猫という動物への接し方として助けただけだ、一個人であるおまえを助けたワケではないっ……！」[lr]",
+      "Pt-br": "Eu só salvei você como uma interação com um animal conhecido como gato; não salvei você como um indivíduo...!\"[lr]",
+      "id": 19377,
+      "epk_id": "9820",
+      "label": "$$$message_0073_0050_0001$$$"
+    },
+    {
+      "en": "\"But, the cat is super attached to you!\"[lr]",
+      "jp": "「でも、ネコさんはすっごく懐いていますよ～」[lr]",
+      "Pt-br": "\"Mas o Neko-san tá super apegado a você!\"[lr]",
+      "id": 19378,
+      "epk_id": "9821",
+      "label": "$$$message_0073_0050_0002$$$"
+    },
+    {
+      "en": "\"Oh, you're right. It's gotten its nails out and is clawing you.\"",
+      "jp": "「お、ホントだ。爪だして、兄ちゃんの腕をバリバリ掻きたがっているぞ？」",
+      "Pt-br": "\"Ah, cê tem razão. Ele até botou as garras de fora e tá te arranhando, Nii-chan.\"",
+      "id": 19379,
+      "epk_id": "9822",
+      "label": "$$$message_0073_0050_0003$$$"
+    },
+    {
+      "en": "\"Mrgh... Hey, kid.[lr]",
+      "jp": "「む……おい、小僧。[lr]",
+      "Pt-br": "\"Hrmm... Ei, garoto.[lr]",
+      "id": 19380,
+      "epk_id": "9823",
+      "label": "$$$message_0073_0051_0000$$$"
+    },
+    {
+      "en": "How about you say something? What happened to your usual foul mouth?[lr]",
+      "jp": "　何か言ったらどうだ、いつもの憎まれ口はどうした？[lr]",
+      "Pt-br": "Que tal se você disser alguma coisa? O que aconteceu com a sua boca suja de sempre?[lr]",
+      "id": 19381,
+      "epk_id": "9824",
+      "label": "$$$message_0073_0051_0001$$$"
+    },
+    {
+      "en": "You could at least say, 'How can you be liked by cats?'\"[lr]",
+      "jp": "　おまえが猫に好かれるものか、ぐらいは言えるだろう」[lr]",
+      "Pt-br": "Você pelo menos podia soltar um, 'Como você consegue ser adorado por gatos assim?'\"[lr]",
+      "id": 19382,
+      "epk_id": "9825",
+      "label": "$$$message_0073_0051_0002$$$"
+    },
+    {
+      "en": "\"...Well, it's nothing.[lr]",
+      "jp": "「……いや、別に。[lr]",
+      "Pt-br": "\"...Bem, não é nada não.[lr]",
+      "id": 19383,
+      "epk_id": "9826",
+      "label": "$$$message_0073_0051_0003$$$"
+    },
+    {
+      "en": "I don't have the right to say this and that to you when I wasn't even able to save the kitten.[lr]",
+      "jp": "　子猫を助けられなかった無力な俺には、子猫を助けられたおまえにあれこれ言う権利はない。[lr]",
+      "Pt-br": "Não tenho o direito de ficar palpitando sobre o que você faz ou deixa de fazer, já que eu nem consegui salvar o gatinho.[lr]",
+      "id": 19384,
+      "epk_id": "9827",
+      "label": "$$$message_0073_0051_0004$$$"
+    },
+    {
+      "en": "And I can see that the cat is unmistakably attached to you.\"[lr]",
+      "jp": "　そして、紛れもなくネコはおまえに懐いていると見た」[lr]",
+      "Pt-br": "E dá pra ver muito bem que o gato grudou em você sem sombra de dúvida.\"[lr]",
+      "id": 19385,
+      "epk_id": "9828",
+      "label": "$$$message_0073_0051_0005$$$"
+    },
+    {
+      "en": "Falling in love, I might say.",
+      "jp": "　言うなればフォーリンラブ。",
+      "Pt-br": "E tá apaixonadinho, eu diria.",
+      "id": 19386,
+      "epk_id": "9829",
+      "label": "$$$message_0073_0051_0006$$$"
+    },
+    {
+      "en": "\"Guh...[cacheimage storage=アーチャー私服02c(中)][wvl canskip=0 time=400][chgfg textoff=0 time=300 storage=アーチャー私服02c(中)]there's no use talking.[lr]",
+      "jp": "「ぐっ……[cacheimage storage=アーチャー私服02c(中)][wvl canskip=0 time=400][chgfg textoff=0 time=300 storage=アーチャー私服02c(中)]ええい、話にならん。[lr]",
+      "Pt-br": "\"Guh...[cacheimage storage=アーチャー私服02c(中)][wvl canskip=0 time=400][chgfg textoff=0 time=300 storage=アーチャー私服02c(中)]não tem conversa.[lr]",
+      "id": 19387,
+      "epk_id": "9830",
+      "label": "$$$message_0073_0052_0000$$$"
+    },
+    {
+      "en": "I don't have all day. I will excuse myself here.[lr]",
+      "jp": "　私も暇ではない、これで失礼する。[lr]",
+      "Pt-br": "Eu não tenho o dia todo. Vou me retirar agora.[lr]",
+      "id": 19388,
+      "epk_id": "9831",
+      "label": "$$$message_0073_0052_0001$$$"
+    },
+    {
+      "en": "Young ladies, let that kitten out into the wild. If you do not let it learn its lesson, then that kitten will stay as it is.\"[lr]",
+      "jp": "　お嬢さんたち、子猫はすぐ野に放しなさい。今回の教訓を生かせないのなら、それはそれまでの子猫さんだ」[lr]",
+      "Pt-br": "Senhoritas, deixem esse gato voltar para a vida selvagem. Se não o deixarem aprender a lição, ele continuará exatamente como está.\"[lr]",
+      "id": 19389,
+      "epk_id": "9832",
+      "label": "$$$message_0073_0052_0002$$$"
+    },
+    {
+      "en": "Archer acts sentimentally as he skulks away.",
+      "jp": "　とても悲しいが、なんて感じで感慨にふけって、アーチャーはズシャズシャと去っていった。",
+      "Pt-br": "O Archer age de forma sentimental e logo se manda de fininho.",
+      "id": 19390,
+      "epk_id": "9833",
+      "label": "$$$message_0073_0052_0003$$$"
+    },
+    {
+      "en": "\"Oh, he left... I wonder what happened.\"[lr]",
+      "jp": "「あ、行っちゃいました……どうしたんでしょう？」[lr]",
+      "Pt-br": "\"Oh, ele foi embora... Será que aconteceu alguma coisa?\"[lr]",
+      "id": 19391,
+      "epk_id": "9834",
+      "label": "$$$message_0073_0053_0000$$$"
+    },
+    {
+      "en": "\"What's up with him? That red justice guy isn't friendly.\"[lr]",
+      "jp": "「なんだよー、[ruby text=レッド char=2]正義の兄ちゃん愛想ねえなあ」[lr]",
+      "Pt-br": "\"Qual é a dele? Aquele Nii-chan vestido de vermelho da justiça não é nada amigável.\"[lr]",
+      "id": 19392,
+      "epk_id": "9835",
+      "label": "$$$message_0073_0053_0001$$$"
+    },
+    {
+      "en": "\"He must be shy. I am guessing that he wasn't in a bad mood, but was holding back a smile.\"",
+      "jp": "「きっと照れ屋なのだろう。あれは機嫌を損ねていたのではなく、嬉し笑いを堪えていたと見た」",
+      "Pt-br": "\"Ele devia estar tímido. Eu diria que não estava de mau humor, só estava segurando o sorriso.\"",
+      "id": 19393,
+      "epk_id": "9836",
+      "label": "$$$message_0073_0053_0002$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「……………………」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 19394,
+      "epk_id": "9837",
+      "label": "$$$message_0073_0054_0000$$$"
+    },
+    {
+      "en": "Archer left.[lr]",
+      "jp": "　アーチャーは去った。[lr]",
+      "Pt-br": "O Archer sumiu.[lr]",
+      "id": 19395,
+      "epk_id": "9838",
+      "label": "$$$message_0073_0054_0001$$$"
+    },
+    {
+      "en": "He seemed to be complaining about all sorts of things, but in the end, he's the one who saved the kitten, and I couldn't do anything.",
+      "jp": "　何やら色々と文句を言っていたが、結局のところ子猫を助けたのはアイツで、俺は何も出来なかったのだ。",
+      "Pt-br": "Ele parecia reclamar de um monte de coisas, mas no fim das contas foi ele quem salvou o gato, enquanto eu não consegui fazer nada.",
+      "id": 19396,
+      "epk_id": "9839",
+      "label": "$$$message_0073_0054_0002$$$"
+    },
+    {
+      "en": "\"...Damn it, I need to train more.\"[lr]",
+      "jp": "「……くそ、修行不足だ」[lr]",
+      "Pt-br": "\"...Droga, eu tenho que treinar mais.\"[lr]",
+      "id": 19397,
+      "epk_id": "9840",
+      "label": "$$$message_0073_0055_0000$$$"
+    },
+    {
+      "en": "I fall to my knees.[lr]",
+      "jp": "　がっくりと膝を屈する。[lr]",
+      "Pt-br": "Caio de joelhos no chão.[lr]",
+      "id": 19398,
+      "epk_id": "9841",
+      "label": "$$$message_0073_0055_0001$$$"
+    },
+    {
+      "en": "The sense of defeat weighs heavily on my back.",
+      "jp": "　敗北感の重みが、ズシリと背中にのしかかる。",
+      "Pt-br": "A sensação de derrota pesa demais nas minhas costas.",
+      "id": 19399,
+      "epk_id": "9842",
+      "label": "$$$message_0073_0055_0002$$$"
+    },
+    {
+      "en": "\"Heh... Hone your kung fu skills, stupid kid.\"[lr]",
+      "jp": "「ふ……[ruby text=クンフー char=2]功夫を磨け、ばか小僧め」[lr]",
+      "Pt-br": "\"Heh... Vai aperfeiçoar suas habilidades de kung fu, garoto idiota.\"[lr]",
+      "id": 19400,
+      "epk_id": "9843",
+      "label": "$$$message_0073_0056_0000$$$"
+    },
+    {
+      "en": "\"Um, why are you sitting on me?\"[lr]",
+      "jp": "「って、なんでおまえが俺に腰掛けてんだ？」[lr]",
+      "Pt-br": "\"Humm, por que você tá sentada em cima de mim?\"[lr]",
+      "id": 19401,
+      "epk_id": "9844",
+      "label": "$$$message_0073_0056_0001$$$"
+    },
+    {
+      "en": "\"Well meow, I thought you wanted to lie down since you wouldn't get up at all meow.\" ",
+      "jp": "「んニャ、いつまでも立ち上がらないから敷かれたいのかニャって」",
+      "Pt-br": "\"Ora miau, achei que você queria ficar deitado já que não levantava de jeito nenhum miau.\" ",
+      "id": 19402,
+      "epk_id": "9845",
+      "label": "$$$message_0073_0056_0002$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「………………」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 19403,
+      "epk_id": "9846",
+      "label": "$$$message_0073_0057_0000$$$"
+    },
+    {
+      "en": "She's rubbing salt into the wound.[lr]",
+      "jp": "　泣きっ面にハチである。[lr]",
+      "Pt-br": "Ela tá esfregando sal na ferida.[lr]",
+      "id": 19404,
+      "epk_id": "9847",
+      "label": "$$$message_0073_0057_0001$$$"
+    },
+    {
+      "en": "The kitten looks at me with innocent eyes, as if cheering me on.[lr]",
+      "jp": "　がんばれよ、とつぶらな瞳で俺を見る子猫。[lr]",
+      "Pt-br": "O gatinho fica me encarando com aqueles olhos inocentes, como se tivesse me encorajando.[lr]",
+      "id": 19405,
+      "epk_id": "9848",
+      "label": "$$$message_0073_0057_0002$$$"
+    },
+    {
+      "en": "Man, being pitied by a kitten... Damn, if only I had more height...!",
+      "jp": "　うう、子猫にまで哀れまれるなんて……くそぅ、俺にもっと[ruby text=ちから char=2]身長があれば……っ！",
+      "Pt-br": "Cara, dar pena num gatinho... Droga, se eu fosse só um pouquinho mais alto...!",
+      "id": 19406,
+      "epk_id": "9849",
+      "label": "$$$message_0073_0057_0003$$$"
+    },
+    {
+      "en": "\"Is this it, young ladies?\"[r]",
+      "jp": "「これでいいのかな、[r]お嬢さんたち」",
+      "Pt-br": "\"É isso aqui, senhoritas?\"[r]",
+      "id": 19407,
+      "epk_id": "909765",
+      "label": "$$$message_9073_0034_0000$$$"
+    }
+  ]
+}

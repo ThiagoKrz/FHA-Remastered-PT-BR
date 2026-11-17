@@ -1,0 +1,1488 @@
+{
+  "cena": "2dov5us8sk21tifihtjtcsadij",
+  "titulo": "Noite Adormecida / Illya",
+  "rota": "Castelo Einzbern",
+  "arquivo": "2dov5us8sk21tifihtjtcsadij.epk_dec",
+  "linhas": [
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「………」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 32622,
+      "epk_id": "19609",
+      "label": "$$$message_0154_0000_0000$$$"
+    },
+    {
+      "en": "I'm alone. I'll check out my guestroom.[lr]",
+      "jp": "　独りになって、取りあえず客室を調べてみる。[lr]",
+      "Pt-br": "Estou sozinho. Vou dar uma olhada no meu quarto de hóspedes.[lr]",
+      "id": 32623,
+      "epk_id": "19610",
+      "label": "$$$message_0154_0000_0001$$$"
+    },
+    {
+      "en": "It wouldn't be too bad if I was [font italic=true]only[font italic=false] locked in here... But I know Sella wouldn't be satisfied with that.",
+      "jp": "　閉じこめるだけならまだいいが……あのセラがその程度で満足しているとは思えない。",
+      "Pt-br": "Não seria tão ruim se eu estivesse [font italic=true]só[font italic=false] trancado aqui... Mas eu sei que a Sella não ficaria satisfeita apenas com isso.",
+      "id": 32624,
+      "epk_id": "19611",
+      "label": "$$$message_0154_0000_0002$$$"
+    },
+    {
+      "en": "\"...No traps, I hope.\"[lr]",
+      "jp": "「……罠とかないよな？」[lr]",
+      "Pt-br": "\"...Sem armadilhas, espero.\"[lr]",
+      "id": 32625,
+      "epk_id": "19612",
+      "label": "$$$message_0154_0001_0000$$$"
+    },
+    {
+      "en": "Like a ceiling drop trap, floor spikes, [wait canskip=0 time=400][dash textoff=0 mx=0 opacity=200 layer=base irot=-0.0 cx=762 imag=1.7 time=8000 cy=582 mag=1.7 my=-272 storage=iアインツ監禁部屋(寝袋b)-(深夜) rot=-0.0 accel=0]walls that close in, or water that floods the room...[lr]",
+      "jp": "　吊り天井とか、下から棘が生えてくるとか、[wait canskip=0 time=400][dash textoff=0 mx=0 opacity=200 layer=base irot=-0.0 cx=762 imag=1.7 time=8000 cy=582 mag=1.7 my=-272 storage=iアインツ監禁部屋(寝袋b)-(深夜) rot=-0.0 accel=0]壁が迫ってくるとか、水が入ってくるとか。[lr]",
+      "Pt-br": "Como uma armadilha que cai do teto, espinhos no chão, [wait canskip=0 time=400][dash textoff=0 mx=0 opacity=200 layer=base irot=-0.0 cx=762 imag=1.7 time=8000 cy=582 mag=1.7 my=-272 storage=iアインツ監禁部屋(寝袋b)-(深夜) rot=-0.0 accel=0]paredes que se fecham ou água que inunda o quarto...[lr]",
+      "id": 32626,
+      "epk_id": "19613",
+      "label": "$$$message_0154_0001_0001$$$"
+    },
+    {
+      "en": "\"...Okay. I'm safe.\"[lr]",
+      "jp": "「………………よし、セーフ」[lr]",
+      "Pt-br": "\"...Tudo bem. Estou seguro.\"[lr]",
+      "id": 32627,
+      "epk_id": "19614",
+      "label": "$$$message_0154_0001_0002$$$"
+    },
+    {
+      "en": "I reassure myself after examining every square centimeter of the room.",
+      "jp": "　古今東西のルームトラップを確かめて、とりあえずの無事を確認した。",
+      "Pt-br": "Me tranquilizo depois de examinar cada centímetro quadrado do cômodo.",
+      "id": 32628,
+      "epk_id": "19615",
+      "label": "$$$message_0154_0001_0003$$$"
+    },
+    {
+      "en": "\"Looks like Sella isn't [font italic=true]that[font italic=false] evil.[lr]",
+      "jp": "「そこまで鬼ではなかったか、セラ。[lr]",
+      "Pt-br": "\"A Sella não é [font italic=true]tão[font italic=false] má assim.[lr]",
+      "id": 32629,
+      "epk_id": "19616",
+      "label": "$$$message_0154_0002_0000$$$"
+    },
+    {
+      "en": "...Good. I'm tired, so I'll...\"[lr]",
+      "jp": "　……よかった。疲れてるし、今日はもう……」[lr]",
+      "Pt-br": "...Que bom. Estou cansado, então eu vou...\"[lr]",
+      "id": 32630,
+      "epk_id": "19617",
+      "label": "$$$message_0154_0002_0001$$$"
+    },
+    {
+      "en": "Go to sleep.[lr]",
+      "jp": "　このまま眠ってしまえ。[lr]",
+      "Pt-br": "Dormir.[lr]",
+      "id": 32631,
+      "epk_id": "19618",
+      "label": "$$$message_0154_0002_0002$$$"
+    },
+    {
+      "en": "Humans can sleep when they desperately want to.",
+      "jp": "　人間、死ぬ気で眠ればなんとか眠れるものだ。",
+      "Pt-br": "Humanos conseguem dormir quando estão com sono desesperado.",
+      "id": 32632,
+      "epk_id": "19619",
+      "label": "$$$message_0154_0002_0003$$$"
+    },
+    {
+      "en": "\"Shirou? Are you in here?\"[lr]",
+      "jp": "「シロウ？　ここにいるの？」[lr]",
+      "Pt-br": "\"Shirou? Você está aí dentro?\"[lr]",
+      "id": 32633,
+      "epk_id": "19620",
+      "label": "$$$message_0154_0003_0000$$$"
+    },
+    {
+      "en": "\"Illya...?\"[lr]",
+      "jp": "「イリヤ……？」[lr]",
+      "Pt-br": "\"Illya...?\"[lr]",
+      "id": 32634,
+      "epk_id": "19621",
+      "label": "$$$message_0154_0003_0001$$$"
+    },
+    {
+      "en": "I get up to greet my sudden guest.[lr]",
+      "jp": "　突然の来客に体を起こす。[lr]",
+      "Pt-br": "Eu me levanto para saudar a minha convidada repentina.[lr]",
+      "id": 32635,
+      "epk_id": "19622",
+      "label": "$$$message_0154_0003_0002$$$"
+    },
+    {
+      "en": "Illya opens the door and comes in.[lr]",
+      "jp": "　ドアを開けてイリヤが入ってくる。[lr]",
+      "Pt-br": "A Illya abre a porta e entra.[lr]",
+      "id": 32636,
+      "epk_id": "19623",
+      "label": "$$$message_0154_0003_0003$$$"
+    },
+    {
+      "en": "She takes one look at the room.",
+      "jp": "　室内を[ruby text=いちべつ char=2]一瞥して[line len=3]",
+      "Pt-br": "Ela dá uma olhada no quarto.",
+      "id": 32637,
+      "epk_id": "19624",
+      "label": "$$$message_0154_0003_0004$$$"
+    },
+    {
+      "en": "\"What are you doing in a storage room?[lr]",
+      "jp": "「物置でなにしてるの？[lr]",
+      "Pt-br": "\"O que você está fazendo numa despensa?[lr]",
+      "id": 32638,
+      "epk_id": "19625",
+      "label": "$$$message_0154_0004_0000$$$"
+    },
+    {
+      "en": "Do you feel comfortable sleeping in places like sheds and warehouses?\"",
+      "jp": "　シロウって、土蔵とかこういう所じゃないと落ち着かない体質？」",
+      "Pt-br": "Você se sente confortável dormindo em lugares como cabanas e armazéns?\"",
+      "id": 32639,
+      "epk_id": "19626",
+      "label": "$$$message_0154_0004_0001$$$"
+    },
+    {
+      "en": "\"No. This is my bedroom.\"[lr]",
+      "jp": "「違う、ここが俺の寝室」[lr]",
+      "Pt-br": "\"Não. Este é o meu quarto.\"[lr]",
+      "id": 32640,
+      "epk_id": "19627",
+      "label": "$$$message_0154_0005_0000$$$"
+    },
+    {
+      "en": "I desperately bite back a yawn.[lr]",
+      "jp": "　半ば[ruby text=ヤケ o2o=1]自棄ぎみに、生あくびを噛みながら答える。[lr]",
+      "Pt-br": "Mordo os lábios com desespero para não bocejar.[lr]",
+      "id": 32641,
+      "epk_id": "19628",
+      "label": "$$$message_0154_0005_0001$$$"
+    },
+    {
+      "en": "\"......\"[lr]",
+      "jp": "「[line len=8]」[lr]",
+      "Pt-br": "\"......\"[lr]",
+      "id": 32642,
+      "epk_id": "19629",
+      "label": "$$$message_0154_0005_0002$$$"
+    },
+    {
+      "en": "Ooh, she looks shocked.",
+      "jp": "　おお、呆れてる呆れてる。",
+      "Pt-br": "Uou, ela parece chocada.",
+      "id": 32643,
+      "epk_id": "19630",
+      "label": "$$$message_0154_0005_0003$$$"
+    },
+    {
+      "en": "\"There are so many guestrooms downstairs.[lr]",
+      "jp": "「下にたくさん客室あるのに。[lr]",
+      "Pt-br": "\"Tem tantos quartos de hóspedes lá embaixo.[lr]",
+      "id": 32644,
+      "epk_id": "19631",
+      "label": "$$$message_0154_0006_0000$$$"
+    },
+    {
+      "en": "Did you choose this room because you were trying not to impose on us?\"[lr]",
+      "jp": "　もしかしてシロウ、遠慮してここを選んだの？」[lr]",
+      "Pt-br": "Você escolheu esse cômodo porque estava tentando não nos incomodar?\"[lr]",
+      "id": 32645,
+      "epk_id": "19632",
+      "label": "$$$message_0154_0006_0001$$$"
+    },
+    {
+      "en": "\"No. Sella said, 'this is your room, Master Emiya,' and didn't give me a choice.\"",
+      "jp": "「いや。セラがエミヤ様の寝室はこちらですって、有無を言わさず」",
+      "Pt-br": "\"Não. A Sella disse: 'este é o seu quarto, Emiya-sama', e não me deu escolha.\"",
+      "id": 32646,
+      "epk_id": "19633",
+      "label": "$$$message_0154_0006_0002$$$"
+    },
+    {
+      "en": "\"Eh? [cacheimage storage=イリヤ08g(中)][wvl canskip=0 time=300][chgfg textoff=0 time=300 storage=イリヤ08g(中)]...Oh, what is she thinking!?[lr]",
+      "jp": "「え……[cacheimage storage=イリヤ08g(中)][wvl canskip=0 time=300][chgfg textoff=0 time=300 storage=イリヤ08g(中)]もう、セラったらまたおかしなマネして！[lr]",
+      "Pt-br": "\"Eh? [cacheimage storage=イリヤ08g(中)][wvl canskip=0 time=300][chgfg textoff=0 time=300 storage=イリヤ08g(中)]...Ah, o que ela está pensando!?[lr]",
+      "id": 32647,
+      "epk_id": "19634",
+      "label": "$$$message_0154_0007_0000$$$"
+    },
+    {
+      "en": "How could she make you sleep in a storage room!?\"",
+      "jp": "　シロウにこんな物置をあてがうなんて！」",
+      "Pt-br": "Como ela pôde fazer você dormir num despensa!?\"",
+      "id": 32648,
+      "epk_id": "19635",
+      "label": "$$$message_0154_0007_0001$$$"
+    },
+    {
+      "en": "\"I know, right? There's a bed, though. That's probably a concession on her part.\"[lr]",
+      "jp": "「そうだなー。でも、ベッドを用意してくれただけでも譲歩だと思う」[lr]",
+      "Pt-br": "\"Né? Mas tem uma cama. Isso provavelmente é uma concessão por parte dela.\"[lr]",
+      "id": 32649,
+      "epk_id": "19636",
+      "label": "$$$message_0154_0008_0000$$$"
+    },
+    {
+      "en": "I can just imagine her saying, \"you mustn't, Mistress. Only a doghouse is fit for a starved mutt who might bite your hand at any moment. But since we do not even have such proper lodging, I offered this bare room,\" hahaha.",
+      "jp": "　いけませんお嬢様、このようないつお嬢様の手を噛むか分からぬ痩せ犬には犬小屋が相応しいのですが、そんな気の利いた物もないのでこの部屋に、とか言い出しそうだったからなあ、ははは。",
+      "Pt-br": "Eu até posso imaginar ela dizendo, \"você não deve, Senhora. Apenas uma casinha de cachorro é adequada para um vira-lata faminto que pode morder a sua mão a qualquer momento. Mas, como nós nem mesmo temos um alojamento adequado como esse, eu lhe ofereci este quarto vazio\", hahaha.",
+      "id": 32650,
+      "epk_id": "19637",
+      "label": "$$$message_0154_0008_0001$$$"
+    },
+    {
+      "en": "\"Ugh, this is so embarrassing.[lr]",
+      "jp": "「まったく、わたしに恥をかかせて。[lr]",
+      "Pt-br": "\"Ugh, isso é muito embaraçoso.[lr]",
+      "id": 32651,
+      "epk_id": "19638",
+      "label": "$$$message_0154_0009_0000$$$"
+    },
+    {
+      "en": "...Shirou, don't sleep here.\"[lr]",
+      "jp": "　……シロウ、こんな所にいるコトないわ」[lr]",
+      "Pt-br": "...Shirou, não durma aqui.\"[lr]",
+      "id": 32652,
+      "epk_id": "19639",
+      "label": "$$$message_0154_0009_0001$$$"
+    },
+    {
+      "en": "Illya grabs my hand and pulls me along in righteous indignation.[lr]",
+      "jp": "　義憤に燃えて、今にも手を引っ張ろうとするイリヤ。[lr]",
+      "Pt-br": "A Illya segura a minha mão e me puxa num acesso de indignação virtuosa.[lr]",
+      "id": 32653,
+      "epk_id": "19640",
+      "label": "$$$message_0154_0009_0002$$$"
+    },
+    {
+      "en": "But...",
+      "jp": "　が。",
+      "Pt-br": "Mas...",
+      "id": 32654,
+      "epk_id": "19641",
+      "label": "$$$message_0154_0009_0003$$$"
+    },
+    {
+      "en": "\"You mustn't, Mistress.\"[lr]",
+      "jp": "「いけません、お嬢様」[lr]",
+      "Pt-br": "\"Você não deve, Senhora.\"[lr]",
+      "id": 32655,
+      "epk_id": "19642",
+      "label": "$$$message_0154_0010_0000$$$"
+    },
+    {
+      "en": "The shady maid appears without a sound.[lr]",
+      "jp": "　音もなく黒メイド登場。[lr]",
+      "Pt-br": "A empregada suspeita aparece sem fazer barulho.[lr]",
+      "id": 32656,
+      "epk_id": "19643",
+      "label": "$$$message_0154_0010_0001$$$"
+    },
+    {
+      "en": "I wonder if the maids can pop out of thin air at will anywhere in the castle.[lr]",
+      "jp": "　この城、メイドは何処でも自由に出てこられるんじゃないだろうな。[lr]",
+      "Pt-br": "Me pergunto se as empregadas conseguem surgir do nada à vontade em qualquer lugar do castelo.[lr]",
+      "id": 32657,
+      "epk_id": "19644",
+      "label": "$$$message_0154_0010_0002$$$"
+    },
+    {
+      "en": "Just because she's wearing white doesn't mean she isn't shady.",
+      "jp": "　あと白なのに黒とはこれいかに。",
+      "Pt-br": "Só porque ela está vestida de branco não quer dizer que não seja suspeita.",
+      "id": 32658,
+      "epk_id": "19645",
+      "label": "$$$message_0154_0010_0003$$$"
+    },
+    {
+      "en": "\"Sella!\"[lr]",
+      "jp": "「セラ！」[lr]",
+      "Pt-br": "\"Sella!\"[lr]",
+      "id": 32659,
+      "epk_id": "19646",
+      "label": "$$$message_0154_0011_0000$$$"
+    },
+    {
+      "en": "\"Your kindness is wasted on this commoner of unknown lineage. I initially planned to put him in a doghouse, but I even went to the trouble of furnishing this storage room with a sleeping bag.[lr]",
+      "jp": "「そもそも氏素性の知れぬ下々の者にお嬢様のご厚情はもったいなく、本来は犬小屋に押し込めるべきところを敢えてこの部屋を、それもわざわざ寝袋まで用意してさしあげたのです。[lr]",
+      "Pt-br": "\"A sua bondade é desperdiçada com esse plebeu de linhagem desconhecida. Eu planejei inicialmente colocá-lo numa casinha de cachorro, mas até me dei ao trabalho de mobiliar esta despensa com um saco de dormir.[lr]",
+      "id": 32660,
+      "epk_id": "19647",
+      "label": "$$$message_0154_0011_0001$$$"
+    },
+    {
+      "en": "I believe that is more than enough Einzbern hospitality for him already.\"[lr]",
+      "jp": "　アインツベルンのもてなしとして、十分だと判断しますが」[lr]",
+      "Pt-br": "Acredito que isso já seja mais do que suficiente da hospitalidade dos Einzbern para ele.\"[lr]",
+      "id": 32661,
+      "epk_id": "19648",
+      "label": "$$$message_0154_0011_0002$$$"
+    },
+    {
+      "en": "\"...Heh.\"[lr]",
+      "jp": "「………………ふ」[lr]",
+      "Pt-br": "\"...Heh.\"[lr]",
+      "id": 32662,
+      "epk_id": "19649",
+      "label": "$$$message_0154_0011_0003$$$"
+    },
+    {
+      "en": "Aw, shucks. My powers of prediction are so good they're making me sad.",
+      "jp": "　やだなあ。我ながら、的確な予想能力に悲しくなる。",
+      "Pt-br": "Ah, que chato. Meus poderes de predição são tão bons que estão me deixando triste.",
+      "id": 32663,
+      "epk_id": "19650",
+      "label": "$$$message_0154_0011_0004$$$"
+    },
+    {
+      "en": "\"Sella. Prepare a guestroom downstairs at once.\"[lr]",
+      "jp": "「セラ。下の客室、すぐに用意なさい」[lr]",
+      "Pt-br": "\"Sella. Prepare um quarto de hóspedes lá embaixo imediatamente.\"[lr]",
+      "id": 32664,
+      "epk_id": "19651",
+      "label": "$$$message_0154_0012_0000$$$"
+    },
+    {
+      "en": "\"Mistress[line len=2]\"[lr]",
+      "jp": "「お嬢様」[lr]",
+      "Pt-br": "\"Senhora[line len=2]\"[lr]",
+      "id": 32665,
+      "epk_id": "19652",
+      "label": "$$$message_0154_0012_0001$$$"
+    },
+    {
+      "en": "\"I will not allow Shirou to sleep in a place like this. He is my guest.\"[lr]",
+      "jp": "「こんな所にシロウを寝かせておくわけにはいきません。彼はわたしの客です」[lr]",
+      "Pt-br": "\"Eu não vou permitir que o Shirou durma num lugar como este. Ele é meu convidado.\"[lr]",
+      "id": 32666,
+      "epk_id": "19653",
+      "label": "$$$message_0154_0012_0002$$$"
+    },
+    {
+      "en": "\"But our patriarch has forbidden outsiders from staying in this[line len=2]\"",
+      "jp": "「ですが大旦那様には部外の者を[ruby text=みだ]妄りにこの城に泊めることは禁じられて[line len=3]」",
+      "Pt-br": "\"Mas o nosso patriarca proibiu forasteiros de ficar nest[line len=2]\"",
+      "id": 32667,
+      "epk_id": "19654",
+      "label": "$$$message_0154_0012_0003$$$"
+    },
+    {
+      "en": "Oh no. Sella and Illya are getting into an argument.[lr]",
+      "jp": "　いけない、セラとイリヤの喧嘩になっている。[lr]",
+      "Pt-br": "Ah não. A Sella e a Illya estão entrando numa discussão.[lr]",
+      "id": 32668,
+      "epk_id": "19655",
+      "label": "$$$message_0154_0013_0000$$$"
+    },
+    {
+      "en": "\"Uh, guys?\"[lr]",
+      "jp": "「あー、二人とも？」[lr]",
+      "Pt-br": "\"Uh, pessoal?\"[lr]",
+      "id": 32669,
+      "epk_id": "19656",
+      "label": "$$$message_0154_0013_0001$$$"
+    },
+    {
+      "en": "I clear my throat to get their attention.",
+      "jp": "　咳払い一つで注意を引いて、話し始める。",
+      "Pt-br": "Limpo a minha garganta para chamar a atenção delas.",
+      "id": 32670,
+      "epk_id": "19657",
+      "label": "$$$message_0154_0013_0002$$$"
+    },
+    {
+      "en": "\"I'm okay with this.\"[lr]",
+      "jp": "「いや、俺はこれでいいよ」[lr]",
+      "Pt-br": "\"Estou de boa com isso.\"[lr]",
+      "id": 32671,
+      "epk_id": "19658",
+      "label": "$$$message_0154_0014_0000$$$"
+    },
+    {
+      "en": "\"Shirou?\"[lr]",
+      "jp": "「シロウ？」[lr]",
+      "Pt-br": "\"Shirou?\"[lr]",
+      "id": 32672,
+      "epk_id": "19659",
+      "label": "$$$message_0154_0014_0001$$$"
+    },
+    {
+      "en": "\"There's a roof over my head, a window, and the sleeping bag doesn't have any holes in it. It's good enough for a single night. I'd say it's a far sight better than sleeping in the forest ruins.\"",
+      "jp": "「屋根もあるし窓もはまってるし、寝袋に穴もあいてないし、一晩の宿なら十分だ。森の廃墟で寝ることに比べれば大したことじゃない」",
+      "Pt-br": "\"Tem um teto sobre a minha cabeça, uma janela, e o saco de dormir não tem nenhum buraco. Isso já é bom o bastante para uma única noite. Eu diria que é muito melhor do que dormir nas ruínas da floresta.\"",
+      "id": 32673,
+      "epk_id": "19660",
+      "label": "$$$message_0154_0014_0002$$$"
+    },
+    {
+      "en": "\"...I am impressed by your discerning eye, Master Emiya.\"[lr]",
+      "jp": "「……感服いたしました。エミヤ様は物を見る目がおありになる」[lr]",
+      "Pt-br": "\"...Estou impressionada com os seus olhos perspicazes, Emiya-sama.\"[lr]",
+      "id": 32674,
+      "epk_id": "19661",
+      "label": "$$$message_0154_0015_0000$$$"
+    },
+    {
+      "en": "Sella nods gracefully.[lr]",
+      "jp": "　しずしずと頷くセラ。[lr]",
+      "Pt-br": "Sella acena graciosamente.[lr]",
+      "id": 32675,
+      "epk_id": "19662",
+      "label": "$$$message_0154_0015_0001$$$"
+    },
+    {
+      "en": "...I can't tell if she's being sarcastic or not.",
+      "jp": "　わりと本気で感心している……かどうかは定かではない。",
+      "Pt-br": "...Não consigo distinguir se ela está sendo sarcástica ou não.",
+      "id": 32676,
+      "epk_id": "19663",
+      "label": "$$$message_0154_0015_0002$$$"
+    },
+    {
+      "en": "\"So I'll sleep here tonight. You served me a fancy dinner, so I won't complain.\"[lr]",
+      "jp": "「そういうワケで今日はここで寝るよ。豪勢な夕食だったし、それを思えばこれぐらいどうってコトない」[lr]",
+      "Pt-br": "\"Então eu vou dormir aqui esta noite. Você me serviu um jantar chique, então eu não vou reclamar.\"[lr]",
+      "id": 32677,
+      "epk_id": "19664",
+      "label": "$$$message_0154_0016_0000$$$"
+    },
+    {
+      "en": "\"Really, Shirou...?\"[lr]",
+      "jp": "「[line len=3]そう、シロウ」[lr]",
+      "Pt-br": "\"Sério, Shirou...?\"[lr]",
+      "id": 32678,
+      "epk_id": "19665",
+      "label": "$$$message_0154_0016_0001$$$"
+    },
+    {
+      "en": "\"Your understanding is a relief, Master Emiya.[lr]",
+      "jp": "「エミヤ様もご納得の様子で安堵いたしました。[lr]",
+      "Pt-br": "\"A sua compreensão é um alívio, Emiya-sama.[lr]",
+      "id": 32679,
+      "epk_id": "19666",
+      "label": "$$$message_0154_0016_0002$$$"
+    },
+    {
+      "en": "Mistress, it is time to douse the lights. Let us return to your chambers.\"",
+      "jp": "　それではお嬢様、消灯の時間です。お部屋に戻りましょう」",
+      "Pt-br": "Senhora, é hora de apagar as luzes. Vamos voltar para os seus aposentos.\"",
+      "id": 32680,
+      "epk_id": "19667",
+      "label": "$$$message_0154_0016_0003$$$"
+    },
+    {
+      "en": "\"Yeah. See ya, Illya.\"[lr]",
+      "jp": "「おう。じゃあなイリヤ」[lr]",
+      "Pt-br": "\"É. Até mais, Illya.\"[lr]",
+      "id": 32681,
+      "epk_id": "19668",
+      "label": "$$$message_0154_0017_0000$$$"
+    },
+    {
+      "en": "\"Okay. Bye.\"[lr]",
+      "jp": "「うん、それじゃまたね」[lr]",
+      "Pt-br": "\"Tudo bem. Tchau.\"[lr]",
+      "id": 32682,
+      "epk_id": "19669",
+      "label": "$$$message_0154_0017_0001$$$"
+    },
+    {
+      "en": "...She doesn't say good night.[lr]",
+      "jp": "　……お休みなさい、とは言わなかったな。[lr]",
+      "Pt-br": "...Ela não diz boa noite.[lr]",
+      "id": 32683,
+      "epk_id": "19670",
+      "label": "$$$message_0154_0017_0002$$$"
+    },
+    {
+      "en": "This room does feel too desolate to be a bedroom.[lr]",
+      "jp": "　確かに寝室としては飾り気が無さすぎる。[lr]",
+      "Pt-br": "Este quarto é desolado demais para ser um quarto de dormir.[lr]",
+      "id": 32684,
+      "epk_id": "19671",
+      "label": "$$$message_0154_0017_0003$$$"
+    },
+    {
+      "en": "But that won't bother me once I'm asleep.",
+      "jp": "　だが寝てしまえばなんだって気にならない。",
+      "Pt-br": "Mas isso não vai me incomodar depois que eu estiver dormindo.",
+      "id": 32685,
+      "epk_id": "19672",
+      "label": "$$$message_0154_0017_0004$$$"
+    },
+    {
+      "en": "\".........Hm?\"[lr]",
+      "jp": "「………………、ん？」[lr]",
+      "Pt-br": "\".........Hum?\"[lr]",
+      "id": 32686,
+      "epk_id": "19673",
+      "label": "$$$message_0154_0018_0000$$$"
+    },
+    {
+      "en": "I hear the door's hinges creaking.[lr]",
+      "jp": "　[ruby text=ちょうつがい char=2]蝶番の軋みが聞こえる。[lr]",
+      "Pt-br": "Eu ouço as dobradiças da porta rangendo.[lr]",
+      "id": 32687,
+      "epk_id": "19674",
+      "label": "$$$message_0154_0018_0001$$$"
+    },
+    {
+      "en": "Just as I'm nearly asleep, I realize that someone else is in the room.",
+      "jp": "　ようやく眠りにつける……という時、部屋の中に誰かが入ってきたコトに気が付いた。",
+      "Pt-br": "Logo quando eu estou quase caindo no sono, percebo que tem mais alguém no quarto.",
+      "id": 32688,
+      "epk_id": "19675",
+      "label": "$$$message_0154_0018_0002$$$"
+    },
+    {
+      "en": "\"Big Brother...are you still awake?\"[lr]",
+      "jp": "「お兄ちゃん……起きてる？」[lr]",
+      "Pt-br": "\"Onii-chan... você ainda está acordado?\"[lr]",
+      "id": 32689,
+      "epk_id": "19676",
+      "label": "$$$message_0154_0019_0000$$$"
+    },
+    {
+      "en": "\"Illya?\"[lr]",
+      "jp": "「イリヤ？」[lr]",
+      "Pt-br": "\"Illya?\"[lr]",
+      "id": 32690,
+      "epk_id": "19677",
+      "label": "$$$message_0154_0019_0001$$$"
+    },
+    {
+      "en": "Did she come here all by herself this late at night?",
+      "jp": "　こんな夜遅くに、一人でやってきたのか？",
+      "Pt-br": "Ela veio para cá sozinha tão tarde da noite?",
+      "id": 32691,
+      "epk_id": "19678",
+      "label": "$$$message_0154_0019_0002$$$"
+    },
+    {
+      "en": "\"Yeah, I'm awake. Are you here because of what happened earlier...?\"[lr]",
+      "jp": "「ああ、起きてる。もしかしてさっきのことで……？」[lr]",
+      "Pt-br": "\"Sim, estou acordado. Você está aqui por causa do que aconteceu mais cedo...?\"[lr]",
+      "id": 32692,
+      "epk_id": "19679",
+      "label": "$$$message_0154_0020_0000$$$"
+    },
+    {
+      "en": "\"Yeah. Sella won't be around now.[lr]",
+      "jp": "「そうよ。今ならセラもいないでしょ？[lr]",
+      "Pt-br": "\"Sim. A Sella não vai estar por perto agora.[lr]",
+      "id": 32693,
+      "epk_id": "19680",
+      "label": "$$$message_0154_0020_0001$$$"
+    },
+    {
+      "en": "I know you meant well for me, but I really don't want to let you sleep in a place like this.\"",
+      "jp": "　さっきは気を遣ってくれたけど、わたし、やっぱりこんなところにシロウを寝かせるのはイヤ」",
+      "Pt-br": "Eu sei que a sua intenção era boa, mas não quero deixar você dormir num lugar como este.\"",
+      "id": 32694,
+      "epk_id": "19681",
+      "label": "$$$message_0154_0020_0002$$$"
+    },
+    {
+      "en": "\"...Illya.\"[lr]",
+      "jp": "「……イリヤ」[lr]",
+      "Pt-br": "\"...Illya.\"[lr]",
+      "id": 32695,
+      "epk_id": "19682",
+      "label": "$$$message_0154_0021_0000$$$"
+    },
+    {
+      "en": "So that's why she came here alone after lights are out in the castle.[lr]",
+      "jp": "　その為に、明かりの消えた城内を一人でやってきてくれたのか。[lr]",
+      "Pt-br": "Então é por isso que ela veio para cá sozinha depois das luzes do castelo serem apagadas.[lr]",
+      "id": 32696,
+      "epk_id": "19683",
+      "label": "$$$message_0154_0021_0001$$$"
+    },
+    {
+      "en": "It'd be rude of me to turn down her kindness.",
+      "jp": "　そこまで思ってもらっては、遠慮する方が失礼だ。",
+      "Pt-br": "Seria rude da minha parte recusar a gentileza dela.",
+      "id": 32697,
+      "epk_id": "19684",
+      "label": "$$$message_0154_0021_0002$$$"
+    },
+    {
+      "en": "\"Yeah... I feel like an idiot. I should've taken up your offer right away.[lr]",
+      "jp": "「ああ。……俺もバカだな、はじめっから厚意に甘えれば良かった。[lr]",
+      "Pt-br": "\"É... Eu me sinto um idiota. Eu deveria ter aceitado a sua oferta na hora.[lr]",
+      "id": 32698,
+      "epk_id": "19685",
+      "label": "$$$message_0154_0022_0000$$$"
+    },
+    {
+      "en": "[chgfg textoff=0 time=300 storage=イリヤ08d(中)]So, where should I go now?\"[lr]",
+      "jp": "　[chgfg textoff=0 time=300 storage=イリヤ08d(中)]それで、俺は何処に行けばいいんだ？」[lr]",
+      "Pt-br": "[chgfg textoff=0 time=300 storage=イリヤ08d(中)]Então, para onde nós vamos agora?\"[lr]",
+      "id": 32699,
+      "epk_id": "19686",
+      "label": "$$$message_0154_0022_0001$$$"
+    },
+    {
+      "en": "\"You don't have to move far. Let's sleep together in my room.\"[lr]",
+      "jp": "「すぐ近くだよ。わたしの部屋で一緒に寝よ、お兄ちゃん？」[lr]",
+      "Pt-br": "\"Você não vai ter que ir para longe. Vamos dormir juntos no meu quarto, Onii-chan.\"[lr]",
+      "id": 32700,
+      "epk_id": "19687",
+      "label": "$$$message_0154_0022_0002$$$"
+    },
+    {
+      "en": "Oh, Illya's room. That doesn't sound so[line len=2]",
+      "jp": "　そうか、イリヤの部屋か。それも悪くな[line len=3]",
+      "Pt-br": "Ah, o quarto da Illya. Isso não soa tão[line len=2]",
+      "id": 32701,
+      "epk_id": "19688",
+      "label": "$$$message_0154_0022_0003$$$"
+    },
+    {
+      "en": "Wait, [quake vmax=20 hmax=0 time=800]what!?[lr]",
+      "jp": "　って、[quake vmax=20 hmax=0 time=800]何だって[line len=3]！？[lr]",
+      "Pt-br": "Espera, [quake vmax=20 hmax=0 time=800]o quê!?[lr]",
+      "id": 32702,
+      "epk_id": "19689",
+      "label": "$$$message_0154_0023_0000$$$"
+    },
+    {
+      "en": "Sleeping together in her room!?[lr]",
+      "jp": "　イリヤの部屋、それも一緒に寝る……！？[lr]",
+      "Pt-br": "Dormir juntos no quarto dela!?[lr]",
+      "id": 32703,
+      "epk_id": "19690",
+      "label": "$$$message_0154_0023_0001$$$"
+    },
+    {
+      "en": "No way. Illya's like a little sister to me. No, wait. There isn't anything weird about that. But no, she's still a lady even if she's small, so being in the same bed would be problematic. In fact, it would be nothing but a problem[line len=2]",
+      "jp": "　バカな、イリヤは妹みたいなものだし、いやまて、それなら別におかしくもなんともない、いやしかしイリヤは小さくてもレディなんだから、一緒のベッドというのは問題があるというか、問題しかないような[line len=3]",
+      "Pt-br": "De jeito nenhum. A Illya é como uma irmãzinha para mim. Não, espera. Não tem nada de estranho nisso. Mas não, ela continua sendo uma dama, mesmo sendo baixinha, então dormir na mesma cama seria complicado. Na verdade, seria só problema[line len=2]",
+      "id": 32704,
+      "epk_id": "19691",
+      "label": "$$$message_0154_0023_0002$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「[line len=6]」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 32705,
+      "epk_id": "19692",
+      "label": "$$$message_0154_0024_0000$$$"
+    },
+    {
+      "en": "\"What's the matter, Shirou? You look restless.\"[lr]",
+      "jp": "「どうしたのシロウ？　目に落ち着きがないけど」[lr]",
+      "Pt-br": "\"Qual é o problema, Shirou? Você parece inquieto.\"[lr]",
+      "id": 32706,
+      "epk_id": "19693",
+      "label": "$$$message_0154_0024_0001$$$"
+    },
+    {
+      "en": "Nothing's wrong, and yet a feeling that something's [font italic=true]very[font italic=false] wrong with this is plaguing me.[lr]",
+      "jp": "　何も悪くないのだが、何かすごく悪いような意識がこびり付いている。[lr]",
+      "Pt-br": "Não há nada de errado, e mesmo assim a sensação de que algo está [font italic=true]muito[font italic=false] errado nisso está me atormentando.[lr]",
+      "id": 32707,
+      "epk_id": "19694",
+      "label": "$$$message_0154_0024_0002$$$"
+    },
+    {
+      "en": "I can't answer yes or no.",
+      "jp": "　行こう、とも駄目だ、とも答えられない。",
+      "Pt-br": "Não consigo responder se sim ou se não.",
+      "id": 32708,
+      "epk_id": "19695",
+      "label": "$$$message_0154_0024_0003$$$"
+    },
+    {
+      "en": "\"Mrgh... Are you that against sleeping in my room? Because I held you captive there before?\"[lr]",
+      "jp": "「むー……シロウはわたしの部屋がいやなの？　昔、閉じこめたりしたから？」[lr]",
+      "Pt-br": "\"Mrgh... Você é tão contra assim dormir no meu quarto? É porque eu te mantive refém lá antes?\"[lr]",
+      "id": 32709,
+      "epk_id": "19696",
+      "label": "$$$message_0154_0025_0000$$$"
+    },
+    {
+      "en": "\"No, that doesn't have anything to do with it...\"[lr]",
+      "jp": "「いや、それは関係ないんだけど[line len=3]」[lr]",
+      "Pt-br": "\"Não, não tem nada a ver com isso...\"[lr]",
+      "id": 32710,
+      "epk_id": "19697",
+      "label": "$$$message_0154_0025_0001$$$"
+    },
+    {
+      "en": "\"Hmph. If you won't come to my room, then I'll just have to sleep here.\"",
+      "jp": "「む。もしわたしの部屋に来てくれないんなら、わたしもここで寝るんだから」",
+      "Pt-br": "\"Humpf. Se você não vai para o meu quarto, então eu vou ter que dormir aqui.\"",
+      "id": 32711,
+      "epk_id": "19698",
+      "label": "$$$message_0154_0025_0002$$$"
+    },
+    {
+      "en": "Illya throws herself onto the cheap mattress.[lr]",
+      "jp": "　ばふっ、と安物のエアマットに腰をかけるイリヤ。[lr]",
+      "Pt-br": "A Illya se joga no colchão barato.[lr]",
+      "id": 32712,
+      "epk_id": "19699",
+      "label": "$$$message_0154_0026_0000$$$"
+    },
+    {
+      "en": "...My mind's made up. I can't let Illya sleep in a place like this.",
+      "jp": "　……それなら決まりだ。こんなところでイリヤを寝かせられるワケがない。",
+      "Pt-br": "...Estou decidido. Eu não posso deixar a Illya dormir num lugar como este.",
+      "id": 32713,
+      "epk_id": "19700",
+      "label": "$$$message_0154_0026_0001$$$"
+    },
+    {
+      "en": "\"...All right. Can I take you up on your offer, then?\"[lr]",
+      "jp": "「……そうだな。わるい、イリヤの言葉に甘えさせてもらっていいか？」[lr]",
+      "Pt-br": "\"...Tudo bem. Posso aceitar a sua oferta, então?\"[lr]",
+      "id": 32714,
+      "epk_id": "19701",
+      "label": "$$$message_0154_0027_0000$$$"
+    },
+    {
+      "en": "\"Of course![lr]",
+      "jp": "「もっちろん！[lr]",
+      "Pt-br": "\"Claro![lr]",
+      "id": 32715,
+      "epk_id": "19702",
+      "label": "$$$message_0154_0027_0001$$$"
+    },
+    {
+      "en": "Yay, we'll be together all night, Shirou!\"[lr]",
+      "jp": "　やったあ、今夜はずっと一緒だねシロウ！」[lr]",
+      "Pt-br": "Viva, nós ficaremos juntos a noite toda, Shirou!\"[lr]",
+      "id": 32716,
+      "epk_id": "19703",
+      "label": "$$$message_0154_0027_0002$$$"
+    },
+    {
+      "en": "Illya's ecstatic.[lr]",
+      "jp": "　イリヤはご機嫌だ。[lr]",
+      "Pt-br": "A Illya está eufórica.[lr]",
+      "id": 32717,
+      "epk_id": "19704",
+      "label": "$$$message_0154_0027_0003$$$"
+    },
+    {
+      "en": "Surely this can't be the wrong choice, if it makes her this happy...right?",
+      "jp": "　これだけ喜んでくれるなら、この選択も間違いじゃない……よな？",
+      "Pt-br": "Certamente essa não pode ser a escolha errada, se a faz tão feliz assim... certo?",
+      "id": 32718,
+      "epk_id": "19705",
+      "label": "$$$message_0154_0027_0004$$$"
+    },
+    {
+      "en": "Her bedroom is incomparably luxurious compared to my solitary confinement cell[line len=2]I mean, my improvised guestroom.[lr]",
+      "jp": "　あの独房[line len=3]もとい、臨時の客間と比べものにならない豪華な部屋。[lr]",
+      "Pt-br": "O quarto dela é incomparavelmente luxuoso perto da minha cela de confinamento na solitária[line len=2]quer dizer, o meu quarto de hóspedes improvisado.[lr]",
+      "id": 32719,
+      "epk_id": "19706",
+      "label": "$$$message_0154_0028_0000$$$"
+    },
+    {
+      "en": "It should be more comfortable to sleep here with Illya than in that room by myself...or so I thought.",
+      "jp": "　ここでイリヤと一緒に眠るのは、あの部屋で独り寝るのよりもくつろげる……ハズだったのだが。",
+      "Pt-br": "Deveria ser mais confortável dormir aqui com a Illya do que sozinho naquele quarto... ou assim eu pensava.",
+      "id": 32720,
+      "epk_id": "19707",
+      "label": "$$$message_0154_0028_0001$$$"
+    },
+    {
+      "en": "\"Turn that way, Shirou.\"[lr]",
+      "jp": "「シロウ？　あっちむいてて」[lr]",
+      "Pt-br": "\"Vire-se para lá, Shirou.\"[lr]",
+      "id": 32721,
+      "epk_id": "19708",
+      "label": "$$$message_0154_0029_0000$$$"
+    },
+    {
+      "en": "\"Huh?\"[lr]",
+      "jp": "「え？」[lr]",
+      "Pt-br": "\"Hã?\"[lr]",
+      "id": 32722,
+      "epk_id": "19709",
+      "label": "$$$message_0154_0029_0001$$$"
+    },
+    {
+      "en": "\"I can't sleep in these clothes, can I?[lr]",
+      "jp": "「この格好で眠るわけにいかないでしょ？[lr]",
+      "Pt-br": "\"Eu não posso dormir com essas roupas, não é mesmo?[lr]",
+      "id": 32723,
+      "epk_id": "19710",
+      "label": "$$$message_0154_0029_0002$$$"
+    },
+    {
+      "en": "I need to change, so...\"[lr]",
+      "jp": "　ちょっと着替えるから……」[lr]",
+      "Pt-br": "Eu preciso me trocar, então...\"[lr]",
+      "id": 32724,
+      "epk_id": "19711",
+      "label": "$$$message_0154_0029_0003$$$"
+    },
+    {
+      "en": "Ahh, right. Not like me.",
+      "jp": "　あー……そうだよな、俺と違うんだし。",
+      "Pt-br": "Ah, é verdade. Não é que nem eu.",
+      "id": 32725,
+      "epk_id": "19712",
+      "label": "$$$message_0154_0029_0004$$$"
+    },
+    {
+      "en": "\"...Hmm?\"[lr]",
+      "jp": "「……ふふーん」[lr]",
+      "Pt-br": "\"...Hmm?\"[lr]",
+      "id": 32726,
+      "epk_id": "19713",
+      "label": "$$$message_0154_0030_0000$$$"
+    },
+    {
+      "en": "\"What's up, Illya?\"[lr]",
+      "jp": "「どうしたんだよイリヤ」[lr]",
+      "Pt-br": "\"O que foi, Illya?\"[lr]",
+      "id": 32727,
+      "epk_id": "19714",
+      "label": "$$$message_0154_0030_0001$$$"
+    },
+    {
+      "en": "\"Do you want to see me change? I don't mind letting you look.\"[lr]",
+      "jp": "「もしかして、わたしの着替えを見たい？　お兄ちゃんならいいよ？」[lr]",
+      "Pt-br": "\"Você quer me ver trocar de roupa? Eu não me importo em deixar você olhar, Onii-chan.\"[lr]",
+      "id": 32728,
+      "epk_id": "19715",
+      "label": "$$$message_0154_0030_0002$$$"
+    },
+    {
+      "en": "Don't say anything stupid.[lr]",
+      "jp": "　馬鹿なコトを言ってはいけません。[lr]",
+      "Pt-br": "Não diga bobagens.[lr]",
+      "id": 32729,
+      "epk_id": "19716",
+      "label": "$$$message_0154_0030_0003$$$"
+    },
+    {
+      "en": "It might not matter at Illya's age, but men and women should observe some modicum of modesty.",
+      "jp": "　イリヤくらいの年なら何ともないかもしれないけど、男女の間には一応の羞じらいはあるべきだ。",
+      "Pt-br": "Pode não importar na idade da Illya, mas homens e mulheres deveriam observar um mínimo de modéstia.",
+      "id": 32730,
+      "epk_id": "19717",
+      "label": "$$$message_0154_0030_0004$$$"
+    },
+    {
+      "en": "\"Yeah yeah. You are no fun to tease about these things. Face that way then.\"[lr]",
+      "jp": "「はいはい、そういうことでシロウをからかっても面白くはないわね。じゃ、あっち向いててね」[lr]",
+      "Pt-br": "\"Sim, sim. Você não tem graça nenhuma quando se trata de fazer provocações. Vire o rosto para lá então.\"[lr]",
+      "id": 32731,
+      "epk_id": "19718",
+      "label": "$$$message_0154_0031_0000$$$"
+    },
+    {
+      "en": "I do as I'm told.[lr]",
+      "jp": "　言われるままに、そっぽを向く。[lr]",
+      "Pt-br": "Eu faço o que me foi dito.[lr]",
+      "id": 32732,
+      "epk_id": "19719",
+      "label": "$$$message_0154_0031_0001$$$"
+    },
+    {
+      "en": "...I'll admit I feel slightly let down.",
+      "jp": "　……少し残念だったかな、と思わなくもない。",
+      "Pt-br": "...Tenho que admitir que me sinto ligeiramente decepcionado.",
+      "id": 32733,
+      "epk_id": "19720",
+      "label": "$$$message_0154_0031_0002$$$"
+    },
+    {
+      "en": "Silence falls on the room.[lr]",
+      "jp": "　しんと静まりかえる夜の部屋。[lr]",
+      "Pt-br": "O silêncio recai sobre o quarto.[lr]",
+      "id": 32734,
+      "epk_id": "19721",
+      "label": "$$$message_0154_0032_0000$$$"
+    },
+    {
+      "en": "I hear the rustling of fabric.[lr]",
+      "jp": "　衣擦れの音を聞く。[lr]",
+      "Pt-br": "Ouço o farfalhar do tecido.[lr]",
+      "id": 32735,
+      "epk_id": "19722",
+      "label": "$$$message_0154_0032_0001$$$"
+    },
+    {
+      "en": "I can feel Illya slipping into bed behind me.[lr]",
+      "jp": "　そのまま、ごそごそとベッドに潜り込むイリヤを背中に感じる。[lr]",
+      "Pt-br": "Posso sentir a Illya escorregando para dentro da cama atrás de mim.[lr]",
+      "id": 32736,
+      "epk_id": "19723",
+      "label": "$$$message_0154_0032_0002$$$"
+    },
+    {
+      "en": "\"It's okay now.\"",
+      "jp": "「はい。いいよ、お兄ちゃん[line len=3]」",
+      "Pt-br": "\"Pode virar agora, Onii-chan.\"",
+      "id": 32737,
+      "epk_id": "19724",
+      "label": "$$$message_0154_0032_0003$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「[line len=6]」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 32738,
+      "epk_id": "19725",
+      "label": "$$$message_0154_0033_0000$$$"
+    },
+    {
+      "en": "I'm next to Illya in bed.[lr]",
+      "jp": "　イリヤのベッドに並んで眠る。[lr]",
+      "Pt-br": "Estou na cama ao lado da Illya.[lr]",
+      "id": 32739,
+      "epk_id": "19726",
+      "label": "$$$message_0154_0033_0001$$$"
+    },
+    {
+      "en": "There's plenty of room for the both of us.",
+      "jp": "　ふたりで横たわってもベッドには余裕がある。",
+      "Pt-br": "Tem espaço de sobra para nós dois.",
+      "id": 32740,
+      "epk_id": "19727",
+      "label": "$$$message_0154_0033_0002$$$"
+    },
+    {
+      "en": "\"...Hey. Can I get closer?\"[lr]",
+      "jp": "「……ね。もっとそっち行っていい？」[lr]",
+      "Pt-br": "\"...Ei. Posso chegar mais perto?\"[lr]",
+      "id": 32741,
+      "epk_id": "19728",
+      "label": "$$$message_0154_0034_0000$$$"
+    },
+    {
+      "en": "\"Sure. It's actually so big that a breeze will get inside unless we're closer together. I wouldn't be able to face Sella and Leys if I let you catch a cold.\"[lr]",
+      "jp": "「いいぞー。というか、広すぎて寄り添わないとすきま風が入っちまう。俺のせいでイリヤが風邪ひいたら、セラとリズにあわせる顔がないよ」[lr]",
+      "Pt-br": "\"Claro. Na verdade ela é tão grande que uma brisa vai entrar a menos que a gente fique mais perto. E eu não conseguiria encarar a Sella e a Leys se eu deixasse você pegar um resfriado.\"[lr]",
+      "id": 32742,
+      "epk_id": "19729",
+      "label": "$$$message_0154_0034_0001$$$"
+    },
+    {
+      "en": "\"R-right... Okay. Don't mind if I do.\"[lr]",
+      "jp": "「そ、そうよね。……じゃあ、ホントに遠慮なしで」[lr]",
+      "Pt-br": "\"C-certo... Tudo bem. Se não se importa, então eu me aproximo.\"[lr]",
+      "id": 32743,
+      "epk_id": "19730",
+      "label": "$$$message_0154_0034_0002$$$"
+    },
+    {
+      "en": "She snuggles up against me.",
+      "jp": "　ぎゅっと寄り添ってくる身体。",
+      "Pt-br": "Ela se aconchega contra mim.",
+      "id": 32744,
+      "epk_id": "19731",
+      "label": "$$$message_0154_0034_0003$$$"
+    },
+    {
+      "en": "\"...Ehehe.\"[lr]",
+      "jp": "「……えへへ」[lr]",
+      "Pt-br": "\"...Ehehe.\"[lr]",
+      "id": 32745,
+      "epk_id": "19732",
+      "label": "$$$message_0154_0035_0000$$$"
+    },
+    {
+      "en": "Her voice sounds more happy than shy.[lr]",
+      "jp": "　気恥ずかしそうな声には、それ以上に幸福の色があった。[lr]",
+      "Pt-br": "A sua voz soa mais feliz do que tímida.[lr]",
+      "id": 32746,
+      "epk_id": "19733",
+      "label": "$$$message_0154_0035_0001$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「…………」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 32747,
+      "epk_id": "19734",
+      "label": "$$$message_0154_0035_0002$$$"
+    },
+    {
+      "en": "I'm glad I'm here now.[lr]",
+      "jp": "　この部屋に来て良かった。[lr]",
+      "Pt-br": "Estou feliz de estar aqui agora.[lr]",
+      "id": 32748,
+      "epk_id": "19735",
+      "label": "$$$message_0154_0035_0003$$$"
+    },
+    {
+      "en": "A small child shouldn't be sleeping all alone in this big, cold bed.",
+      "jp": "　こんな小さい子供が、身体を冷たくして独りでこんな大きなベッドにいるのはよくない。",
+      "Pt-br": "Uma criança pequena não deveria estar dormindo sozinha nesta cama tão grande e fria.",
+      "id": 32749,
+      "epk_id": "19736",
+      "label": "$$$message_0154_0035_0004$$$"
+    },
+    {
+      "en": "\"Mm... Your body feels a little hot, Shirou. Like a hot water bottle.\"[lr]",
+      "jp": "「んー……シロウの体温、ちょっと熱めだね。なんかユタンポみたい」[lr]",
+      "Pt-br": "\"Hum... O seu corpo está um pouco quente, Shirou. Que nem uma bolsa de água quente.\"[lr]",
+      "id": 32750,
+      "epk_id": "19737",
+      "label": "$$$message_0154_0036_0000$$$"
+    },
+    {
+      "en": "\"A hot water bottle? I'm surprised you know about those. They're pretty old these days.\"[lr]",
+      "jp": "「ユタンポって、また古い道具知ってるんだなイリヤ」[lr]",
+      "Pt-br": "\"Uma bolsa de água quente? Estou surpreso que você as conheça. Elas são muito antigas hoje em dia.\"[lr]",
+      "id": 32751,
+      "epk_id": "19738",
+      "label": "$$$message_0154_0036_0001$$$"
+    },
+    {
+      "en": "\"Yeah. Kiritsugu told Mother about them when we were at home.[lr]",
+      "jp": "「ええ。キリツグがね、あっちにいる時にお母様に話してたの。[lr]",
+      "Pt-br": "\"Uhum. O Kiritsugu contou para a minha mãe sobre elas quando estávamos na nossa casa.[lr]",
+      "id": 32752,
+      "epk_id": "19739",
+      "label": "$$$message_0154_0036_0002$$$"
+    },
+    {
+      "en": "He said that it was colder than he expected, and that he missed hot water bottles. I think I'm starting to understand what he meant.\"",
+      "jp": "　思ったよりここは寒い、ユタンポが恋しいって。その気持ち、今ならちょっとだけ分かってあげてもいいかなあ」",
+      "Pt-br": "Ele disse que lá era mais frio do que ele esperava, e que ele sentia falta das bolsas de água quente. Acho que estou começando a entender o que ele quis dizer.\"",
+      "id": 32753,
+      "epk_id": "19740",
+      "label": "$$$message_0154_0036_0003$$$"
+    },
+    {
+      "en": "Illya nuzzles her cheek against my chest.[lr]",
+      "jp": "　胸にすりすりと、頬摺りするイリヤ。[lr]",
+      "Pt-br": "A Illya esfrega a bochecha no meu peito.[lr]",
+      "id": 32754,
+      "epk_id": "19741",
+      "label": "$$$message_0154_0037_0000$$$"
+    },
+    {
+      "en": "I'm being hugged like a big stuffed animal. Speaking of which, there's a lot of them in here.",
+      "jp": "　まるで、大きなぬいぐるみのように抱きつかれて……そうだ、この部屋にたくさんあったな。",
+      "Pt-br": "Eu estou sendo abraçado como um grande bicho de pelúcia. Falando nisso, tem um monte deles aqui.",
+      "id": 32755,
+      "epk_id": "19742",
+      "label": "$$$message_0154_0037_0001$$$"
+    },
+    {
+      "en": "\"...Do you normally sleep with stuffed animals?\"[lr]",
+      "jp": "「……いつもはぬいぐるみを抱いて寝たりするのか？」[lr]",
+      "Pt-br": "\"...Você normalmente dorme com os bichos de pelúcia?\"[lr]",
+      "id": 32756,
+      "epk_id": "19743",
+      "label": "$$$message_0154_0038_0000$$$"
+    },
+    {
+      "en": "\"Like Bonifacius and Otto? Yeah, sometimes.\"[lr]",
+      "jp": "「ボニファーツィウスやオットー？　うん、時々ね」[lr]",
+      "Pt-br": "\"Com o Bonifacius e o Otto? Sim, de vez em quando.\"[lr]",
+      "id": 32757,
+      "epk_id": "19744",
+      "label": "$$$message_0154_0038_0001$$$"
+    },
+    {
+      "en": "Her stuffed animals have imposing names, as always.[lr]",
+      "jp": "　相変わらず、すごい名前のぬいぐるみ達だ。[lr]",
+      "Pt-br": "Os seus bichos de pelúcia têm nomes imponentes, como sempre.[lr]",
+      "id": 32758,
+      "epk_id": "19745",
+      "label": "$$$message_0154_0038_0002$$$"
+    },
+    {
+      "en": "The mental image of Illya in her pajamas sleeping with the stuffed animals is adorable, yet somehow sad.",
+      "jp": "　このパジャマ姿でぬいぐるみと一緒に眠るイリヤを想像すると、可憐であってもどこか寂しい。",
+      "Pt-br": "A imagem mental da Illya com o seu pijama dormindo com bichos de pelúcia é adorável, porém de certa forma triste.",
+      "id": 32759,
+      "epk_id": "19746",
+      "label": "$$$message_0154_0038_0003$$$"
+    },
+    {
+      "en": "\"Oh, this is your first time seeing my pajamas, isn't it?[lr]",
+      "jp": "「そうだ。初めて見るよね、わたしのパジャマ。[lr]",
+      "Pt-br": "\"Oh, essa é a sua primeira vez vendo o meu pijama, não é?[lr]",
+      "id": 32760,
+      "epk_id": "19747",
+      "label": "$$$message_0154_0039_0000$$$"
+    },
+    {
+      "en": "What do you think?\"[lr]",
+      "jp": "　どうかな？　似合ってるかな？」[lr]",
+      "Pt-br": "O que você achou?\"[lr]",
+      "id": 32761,
+      "epk_id": "19748",
+      "label": "$$$message_0154_0039_0001$$$"
+    },
+    {
+      "en": "I ruffle Illya's hair.[lr]",
+      "jp": "　尋ねてくるイリヤの頭を撫でる。[lr]",
+      "Pt-br": "Bagunço o cabelo da Illya.[lr]",
+      "id": 32762,
+      "epk_id": "19749",
+      "label": "$$$message_0154_0039_0002$$$"
+    },
+    {
+      "en": "Her hair is thin and smooth, like silk. When I pet her small head, she happily snuggles up to me.",
+      "jp": "　絹糸のように細くさらさらの髪。ちいさな頭をくしゃっと撫でると、嬉しそうにすり寄ってくる。",
+      "Pt-br": "O seu cabelo é fino e suave, igual seda. Quando afago a sua cabeça pequena, ela se aconchega em mim, com uma alegria radiante.",
+      "id": 32763,
+      "epk_id": "19750",
+      "label": "$$$message_0154_0039_0003$$$"
+    },
+    {
+      "en": "\"It's cute. You look like a fairy-tale princess.\"[lr]",
+      "jp": "「可愛いぞ。童話に出てくるお姫さまみたいだ」[lr]",
+      "Pt-br": "\"É fofo. Você parece uma princesa de conto de fadas.\"[lr]",
+      "id": 32764,
+      "epk_id": "19751",
+      "label": "$$$message_0154_0040_0000$$$"
+    },
+    {
+      "en": "\"Eheh. No one's ever said that to me before... Mm.\"[lr]",
+      "jp": "「えへ。今までね、そう言ってくれる人って誰もいなかったから……んー」[lr]",
+      "Pt-br": "\"Eheh. Ninguém nunca me disse isso antes... Hum.\"[lr]",
+      "id": 32765,
+      "epk_id": "19752",
+      "label": "$$$message_0154_0040_0001$$$"
+    },
+    {
+      "en": "My body heat is starting to warm Illya.[lr]",
+      "jp": "　イリヤの身体に、じわりと熱が染み通っていく。[lr]",
+      "Pt-br": "O calor do meu corpo está começando a aquecer a Illya.[lr]",
+      "id": 32766,
+      "epk_id": "19753",
+      "label": "$$$message_0154_0040_0002$$$"
+    },
+    {
+      "en": "That should make it easier for her to sleep.",
+      "jp": "　このままぽかぽかと温かくなれば、穏やかに眠れるだろう。",
+      "Pt-br": "Isso deve fazer com que seja mais fácil para ela dormir.",
+      "id": 32767,
+      "epk_id": "19754",
+      "label": "$$$message_0154_0040_0003$$$"
+    },
+    {
+      "en": "\"Big Brother?\"[lr]",
+      "jp": "「お兄ちゃん？」[lr]",
+      "Pt-br": "\"Onii-chan?\"[lr]",
+      "id": 32768,
+      "epk_id": "19755",
+      "label": "$$$message_0154_0041_0000$$$"
+    },
+    {
+      "en": "\"Mm... What?\"[lr]",
+      "jp": "「ん……なんだ」[lr]",
+      "Pt-br": "\"Hum... O que foi?\"[lr]",
+      "id": 32769,
+      "epk_id": "19756",
+      "label": "$$$message_0154_0041_0001$$$"
+    },
+    {
+      "en": "\"Did you ever sleep with anyone when you were little?\"[lr]",
+      "jp": "「子供の頃、一緒に誰かと眠ったコトってある？」[lr]",
+      "Pt-br": "\"Você alguma vez dormiu com alguém quando era pequeno?\"[lr]",
+      "id": 32770,
+      "epk_id": "19757",
+      "label": "$$$message_0154_0041_0002$$$"
+    },
+    {
+      "en": "I don't have any memories of that. Back then, Kiritsugu was always traveling and never home, and Fuji-nee didn't sleep over.",
+      "jp": "　昔は[line len=3][ruby text=オヤジ char=2]切嗣はふらふらと旅に出て家に居ない人だったし、藤ねえは泊まり込みもしなかったから、そういう記憶はない。",
+      "Pt-br": "Não tenho nenhuma lembrança disso. Naquela época, o Kiritsugu estava sempre viajando e nunca em casa, e a Fuji-nee não dormia na minha casa.",
+      "id": 32771,
+      "epk_id": "19758",
+      "label": "$$$message_0154_0041_0003$$$"
+    },
+    {
+      "en": "\"What about you, Illya? Did you sleep with your mom?\"[lr]",
+      "jp": "「イリヤこそ、お母さんと一緒だったか？」[lr]",
+      "Pt-br": "\"E você, Illya? Você dormia com a sua mãe?\"[lr]",
+      "id": 32772,
+      "epk_id": "19759",
+      "label": "$$$message_0154_0042_0000$$$"
+    },
+    {
+      "en": "I respond casually.[lr]",
+      "jp": "　自然に聞き返していた。[lr]",
+      "Pt-br": "Respondo casualmente.[lr]",
+      "id": 32773,
+      "epk_id": "19760",
+      "label": "$$$message_0154_0042_0001$$$"
+    },
+    {
+      "en": "Suddenly, she squeezes my chest tightly.[lr]",
+      "jp": "　ぎゅ、と胸の上を握りしめられる。[lr]",
+      "Pt-br": "Subitamente, ela aperta o meu peito com força.[lr]",
+      "id": 32774,
+      "epk_id": "19761",
+      "label": "$$$message_0154_0042_0002$$$"
+    },
+    {
+      "en": "I feel Illya stiffen. I stroke her back to comfort her.",
+      "jp": "　イリヤの身体が[ruby text=すく]竦むように硬い。寂しさを慰めるように、背中を撫でてあげる。",
+      "Pt-br": "Sinto a Illya ficar rígida. Eu acaricio as costas dela para confortá-la.",
+      "id": 32775,
+      "epk_id": "19762",
+      "label": "$$$message_0154_0042_0003$$$"
+    },
+    {
+      "en": "\"...Sorry. I shouldn't have asked. I'm just nervous because I've never slept in the same bed with anyone.\"[lr]",
+      "jp": "「……悪い、変なこと聞いた。俺も誰かと一緒に寝る事がなかったから、緊張してる」[lr]",
+      "Pt-br": "\"...Me desculpe. Eu não deveria ter perguntado. É que eu estou nervosa porque eu nunca dormi na mesma cama com ninguém.\"[lr]",
+      "id": 32776,
+      "epk_id": "19763",
+      "label": "$$$message_0154_0043_0000$$$"
+    },
+    {
+      "en": "\"Mm...mm, [fadein textoff=0 time=400 storage=fd22]hehehehe.\"[lr]",
+      "jp": "「ん……ん、[fadein textoff=0 time=400 storage=fd22]ふふふふ」[lr]",
+      "Pt-br": "\"Hum...hum, [fadein textoff=0 time=400 storage=fd22]hehehehe.\"[lr]",
+      "id": 32777,
+      "epk_id": "19764",
+      "label": "$$$message_0154_0043_0001$$$"
+    },
+    {
+      "en": "Finally, Illya starts to relax again.[lr]",
+      "jp": "　ようやく、イリヤの身体から緊張がほぐれる。[lr]",
+      "Pt-br": "Por fim, a Illya começa a relaxar novamente.[lr]",
+      "id": 32778,
+      "epk_id": "19765",
+      "label": "$$$message_0154_0043_0002$$$"
+    },
+    {
+      "en": "I feel her delicate warmth and her quiet breaths.",
+      "jp": "　ほのかな温かさと、小さな息遣い。",
+      "Pt-br": "Eu sinto o seu calor delicado e a sua respiração calma.",
+      "id": 32779,
+      "epk_id": "19766",
+      "label": "$$$message_0154_0043_0003$$$"
+    },
+    {
+      "en": "\"It's always been cold, sleeping by myself. Now that you're here, I feel so warm and comfortable...\"[lr]",
+      "jp": "「いつも、一人っきりでベッドに入ってたから、冷たかった。今はお兄ちゃんと一緒だから、あったかくてきもちいい……から」[lr]",
+      "Pt-br": "\"Sempre foi frio dormir sozinha. Agora que você está aqui, eu me sinto tão quente e confortável, Onii-chan...\"[lr]",
+      "id": 32780,
+      "epk_id": "19767",
+      "label": "$$$message_0154_0044_0000$$$"
+    },
+    {
+      "en": "Illya yawns.[lr]",
+      "jp": "　ふぁ、と小さくあくびをするイリヤ。[lr]",
+      "Pt-br": "A Illya boceja.[lr]",
+      "id": 32781,
+      "epk_id": "19768",
+      "label": "$$$message_0154_0044_0001$$$"
+    },
+    {
+      "en": "\"I know this is just a dream.[lr]",
+      "jp": "「今はもう夢物語だけど。[lr]",
+      "Pt-br": "\"Eu sei que isso é só um sonho.[lr]",
+      "id": 32782,
+      "epk_id": "19769",
+      "label": "$$$message_0154_0044_0002$$$"
+    },
+    {
+      "en": "I wonder if I would've been happier if I'd slept with you every night.\"",
+      "jp": "　これから、ずっとシロウと一緒に眠れたのなら、わたしは幸せだったのかな」",
+      "Pt-br": "Me pergunto se eu não seria mais feliz se eu dormisse com você todas as noites.\"",
+      "id": 32783,
+      "epk_id": "19770",
+      "label": "$$$message_0154_0044_0003$$$"
+    },
+    {
+      "en": "Her words are half sincere, half sleep-addled.[lr]",
+      "jp": "　言葉には半分真実と、半分眠りが混じっている。[lr]",
+      "Pt-br": "As suas palavras são metade sinceras, metade afetadas pelo sono.[lr]",
+      "id": 32784,
+      "epk_id": "19771",
+      "label": "$$$message_0154_0045_0000$$$"
+    },
+    {
+      "en": "It sounds like she's talking to someone who isn't here. She must be half-asleep already.",
+      "jp": "　もう[ruby text=まどろ char=2]微睡みの中にいるのか、イリヤはここにはいない誰かに話しかけているようだった。",
+      "Pt-br": "Ela está falando com alguém que não está aqui. Já deve estar meio dormindo.",
+      "id": 32785,
+      "epk_id": "19772",
+      "label": "$$$message_0154_0045_0001$$$"
+    },
+    {
+      "en": "\"...I see. But I don't think you'd want to.[lr]",
+      "jp": "「……そっか。けどいつもは困るな。[lr]",
+      "Pt-br": "\"...Entendo. Mas eu não acho que você ia querer isso.[lr]",
+      "id": 32786,
+      "epk_id": "19773",
+      "label": "$$$message_0154_0046_0000$$$"
+    },
+    {
+      "en": "I might toss and turn while I'm asleep. I think you'd get fed up with me.\"[lr]",
+      "jp": "　俺、寝相が悪いかもしれないし。その度にイリヤを幻滅させちまいそうだ」[lr]",
+      "Pt-br": "Eu talvez me revire demais enquanto estou dormindo. Acho que você ficaria farta de mim.\"[lr]",
+      "id": 32787,
+      "epk_id": "19774",
+      "label": "$$$message_0154_0046_0001$$$"
+    },
+    {
+      "en": "\"I know. But there's plenty of ways to fix that.\"",
+      "jp": "「知ってるわ。でも、そんなのいくらでも直してあげるから安心して」",
+      "Pt-br": "\"Eu sei. Mas há várias formas de se consertar isso.\"",
+      "id": 32788,
+      "epk_id": "19775",
+      "label": "$$$message_0154_0046_0002$$$"
+    },
+    {
+      "en": "She clings to me.[lr]",
+      "jp": "　きゅっ、と[ruby text=すが]縋りついてくる感触。[lr]",
+      "Pt-br": "Ela se agarra a mim.[lr]",
+      "id": 32789,
+      "epk_id": "19776",
+      "label": "$$$message_0154_0047_0000$$$"
+    },
+    {
+      "en": "I feel warm, and my eyelids are getting heavy.[lr]",
+      "jp": "　温かくなってきて、だんだん[ruby text=まぶた char=2]目蓋が重くなる。[lr]",
+      "Pt-br": "Eu me sinto quente e minhas pálpebras estão ficando pesadas.[lr]",
+      "id": 32790,
+      "epk_id": "19777",
+      "label": "$$$message_0154_0047_0001$$$"
+    },
+    {
+      "en": "Our sleepy conversation feels distant, like someone else is having it.",
+      "jp": "　聞いたり喋ったりすることが、他人の行為のように遠く感じる。",
+      "Pt-br": "A nossa conversa sonolenta parece distante, como se fosse outra pessoa a tê-la.",
+      "id": 32791,
+      "epk_id": "19778",
+      "label": "$$$message_0154_0047_0002$$$"
+    },
+    {
+      "en": "\"...Hehe. You're hopeless without me, Shirou.\"[lr]",
+      "jp": "「……ふふ。シロウはぁ、わたしが一緒じゃないと駄目なんだから[line len=3]」[lr]",
+      "Pt-br": "\"...Hehe. Você não tem jeito sem mim, Shirou.\"[lr]",
+      "id": 32792,
+      "epk_id": "19779",
+      "label": "$$$message_0154_0048_0000$$$"
+    },
+    {
+      "en": "Her dreamlike words tickle me.[lr]",
+      "jp": "　夢うつつな言葉がくすぐったい。[lr]",
+      "Pt-br": "As suas palavras oníricas fazem cócegas em mim.[lr]",
+      "id": 32793,
+      "epk_id": "19780",
+      "label": "$$$message_0154_0048_0001$$$"
+    },
+    {
+      "en": "Illya is as soft and warm as a kitten.",
+      "jp": "　ほのかに温まったイリヤは、子猫の様に柔らかい。",
+      "Pt-br": "A Illya é tão macia e quentinha quanto um gatinho.",
+      "id": 32794,
+      "epk_id": "19781",
+      "label": "$$$message_0154_0048_0002$$$"
+    },
+    {
+      "en": "\"Huah... We should sleep, Illya.\"[lr]",
+      "jp": "「ふぁ……そろそろ寝ようか、イリヤ」[lr]",
+      "Pt-br": "\"Uaah... Nós devíamos dormir, Illya.\"[lr]",
+      "id": 32795,
+      "epk_id": "19782",
+      "label": "$$$message_0154_0049_0000$$$"
+    },
+    {
+      "en": "\"Yeah. Your everyday life is going to keep going for a while longer.[lr]",
+      "jp": "「そうだね。シロウの毎日は、これからまだまだ続いていくんだもの。[lr]",
+      "Pt-br": "\"Sim. A sua vida cotidiana vai continuar por mais um tempo.[lr]",
+      "id": 32796,
+      "epk_id": "19783",
+      "label": "$$$message_0154_0049_0001$$$"
+    },
+    {
+      "en": "Well...see you tomorrow, Big Brother.\"",
+      "jp": "　それじゃあ[line len=3]また明日ね、お兄ちゃん」",
+      "Pt-br": "Bem... até amanhã, Onii-chan.\"",
+      "id": 32797,
+      "epk_id": "19784",
+      "label": "$$$message_0154_0049_0002$$$"
+    },
+    {
+      "en": "...Her satisfied voice lulls me to sleep.[lr]",
+      "jp": "　……満ち足りた声に意識を落とす。[lr]",
+      "Pt-br": "...A sua voz satisfeita me faz adormecer.[lr]",
+      "id": 32798,
+      "epk_id": "19785",
+      "label": "$$$message_0154_0050_0000$$$"
+    },
+    {
+      "en": "Feeling Illya's warmth, I drift off into fleeting, blissful dreams.",
+      "jp": "　イリヤの体温を感じながら、一時、幸福な夢に落ちた。",
+      "Pt-br": "Sentindo o calor da Illya, eu deslizo para sonhos efêmeros e aprazíveis.",
+      "id": 32799,
+      "epk_id": "19786",
+      "label": "$$$message_0154_0050_0001$$$"
+    },
+    {
+      "en": "The fourth night wears on.[lr]",
+      "jp": "　四日目の夜が更けていく。[lr]",
+      "Pt-br": "A quarta noite vai passando.[lr]",
+      "id": 32800,
+      "epk_id": "19787",
+      "label": "$$$message_0154_0051_0000$$$"
+    },
+    {
+      "en": "I'm gently immersed in tears of joy.[lr]",
+      "jp": "　緩やかな水没に歓喜の涙を流す。[lr]",
+      "Pt-br": "Eu estou gentilmente imerso em lágrimas de alegria.[lr]",
+      "id": 32801,
+      "epk_id": "19788",
+      "label": "$$$message_0154_0051_0001$$$"
+    },
+    {
+      "en": "Among the many endings I've encountered, tonight's slumber is an innocent, cloudless paradise.[lr]",
+      "jp": "　数多くの終わりを迎える中、この眠りだけが、一点の曇りもない無垢の楽土。[lr]",
+      "Pt-br": "Dentre os muitos desfechos que eu já encontrei, o sono desta noite é um paraíso inocente e sem nuvens.[lr]",
+      "id": 32802,
+      "epk_id": "19789",
+      "label": "$$$message_0154_0051_0002$$$"
+    },
+    {
+      "en": "...That's what makes it a little poignant.[lr]",
+      "jp": "　[line len=3]だから、少しそれが悲しい。[lr]",
+      "Pt-br": "...É isso que o torna um pouco pungente.[lr]",
+      "id": 32803,
+      "epk_id": "19790",
+      "label": "$$$message_0154_0051_0003$$$"
+    },
+    {
+      "en": "The more perfect it is,[lr]",
+      "jp": "　完璧であればあるほど。[lr]",
+      "Pt-br": "Quanto mais perfeito for,[lr]",
+      "id": 32804,
+      "epk_id": "19791",
+      "label": "$$$message_0154_0051_0004$$$"
+    },
+    {
+      "en": "the greater the loss once I wake up and start yet another beginning.",
+      "jp": "　目が覚めた時の喪失は、多くの始まりの中、最も大きいモノだろうから。",
+      "Pt-br": "maior a perda que eu terei depois que eu acordar e iniciar ainda um outro começo.",
+      "id": 32805,
+      "epk_id": "19792",
+      "label": "$$$message_0154_0051_0005$$$"
+    },
+    {
+      "en": "I'm next to Illya in bed.[r]",
+      "jp": "イリヤのベッドに並んで[r]眠る。",
+      "Pt-br": "Estou na cama ao lado da Illya.[r]",
+      "id": 32806,
+      "epk_id": "919726",
+      "label": "$$$message_9154_0033_0001$$$"
+    }
+  ]
+}

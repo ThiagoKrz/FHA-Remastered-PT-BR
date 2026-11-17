@@ -1,0 +1,1536 @@
+{
+  "cena": "10vasogs1b64puhqe74bo3vbao",
+  "titulo": "Mansão Emiya: Os Sonhos da Cozinheira Caster",
+  "rota": "Dia 4",
+  "arquivo": "10vasogs1b64puhqe74bo3vbao.epk_dec",
+  "linhas": [
+    {
+      "en": "...It should be about that time.[lr]",
+      "jp": "　……さて、そろそろ時間の筈。[lr]",
+      "Pt-br": "...Já deve estar na hora.[lr]",
+      "id": 18091,
+      "epk_id": "5897",
+      "label": "$$$message_0041_0000_0000$$$"
+    },
+    {
+      "en": "I have a truly unusual guest coming over today.[lr]",
+      "jp": "　今日来る客というのは実に珍しい。[lr]",
+      "Pt-br": "Hoje vou receber uma visita realmente incomum.[lr]",
+      "id": 18092,
+      "epk_id": "5898",
+      "label": "$$$message_0041_0000_0001$$$"
+    },
+    {
+      "en": "Oh, she's here.[lr]",
+      "jp": "　と、来たか。[lr]",
+      "Pt-br": "Ah, ela está aqui.[lr]",
+      "id": 18093,
+      "epk_id": "5899",
+      "label": "$$$message_0041_0000_0002$$$"
+    },
+    {
+      "en": "I get up and go to the front door.",
+      "jp": "　腰を上げて玄関に向かう。",
+      "Pt-br": "Levanto-me e vou até a porta da frente.",
+      "id": 18094,
+      "epk_id": "5900",
+      "label": "$$$message_0041_0000_0003$$$"
+    },
+    {
+      "en": "\"Welcome...\"[lr]",
+      "jp": "「いらっしゃ……」[lr]",
+      "Pt-br": "\"Bem-vinda...\"[lr]",
+      "id": 18095,
+      "epk_id": "5901",
+      "label": "$$$message_0041_0001_0000$$$"
+    },
+    {
+      "en": "...Hm? Nobody's here?[lr]",
+      "jp": "　……む？　誰もいない？[lr]",
+      "Pt-br": "...Hm? Não tem ninguém aqui?[lr]",
+      "id": 18096,
+      "epk_id": "5902",
+      "label": "$$$message_0041_0001_0001$$$"
+    },
+    {
+      "en": "\"...There really isn't anyone here. Am I getting pranked?",
+      "jp": "　……やはり誰もいない。いたずらだったのか？",
+      "Pt-br": "\"...Não tem mesmo ninguém. Estão tentando me pregar uma peça?",
+      "id": 18097,
+      "epk_id": "5903",
+      "label": "$$$message_0041_0001_0002$$$"
+    },
+    {
+      "en": "\"Goodness, not even Fuji-nee plays ding-dong ditch these days, much less elementary school kids. [cacheimage storage=キャスター私服01e(近)][wvl][playstop time=200 nowait=1][movefg textoff=0 opacity=255 left=53 top=10 time=200 accel=2 storage=キャスター私服01e(近)][shock vmax=40 time=400 count=4][wm canskip=0][movefg textoff=0 opacity=255 left=250 top=10 time=5000 accel=0 storage=キャスター私服01e(近)]Wuhh!?\"[lr]",
+      "jp": "「やれやれ、今時ピンポンダッシュなんて、小学生どころか藤ねえでもしないぞ……って、[cacheimage storage=キャスター私服01e(近)][wvl][playstop time=200 nowait=1][movefg textoff=0 opacity=255 left=53 top=10 time=200 accel=2 storage=キャスター私服01e(近)][shock vmax=40 time=400 count=4][wm canskip=0][movefg textoff=0 opacity=255 left=250 top=10 time=5000 accel=0 storage=キャスター私服01e(近)]わわわっ！」[lr]",
+      "Pt-br": "\"Nossa, nem a Fuji-nee faz mais ding-dong ditch hoje em dia, quanto mais crianças do primário. [cacheimage storage=キャスター私服01e(近)][wvl][playstop time=200 nowait=1][movefg textoff=0 opacity=255 left=53 top=10 time=200 accel=2 storage=キャスター私服01e(近)][shock vmax=40 time=400 count=4][wm canskip=0][movefg textoff=0 opacity=255 left=250 top=10 time=5000 accel=0 storage=キャスター私服01e(近)]Uwah!?\"[lr]",
+      "id": 18098,
+      "epk_id": "5904",
+      "label": "$$$message_0041_0002_0000$$$"
+    },
+    {
+      "en": "Caster's shoes are already in the entranceway. How did she get in?",
+      "jp": "　どこから入ってきたのか、キャスターが玄関で靴を数えていた。",
+      "Pt-br": "Os sapatos da Caster já estão na entrada. Como ela entrou?",
+      "id": 18099,
+      "epk_id": "5905",
+      "label": "$$$message_0041_0002_0001$$$"
+    },
+    {
+      "en": "\"Oi...\"[lr]",
+      "jp": "「おい……」[lr]",
+      "Pt-br": "\"Oi...\"[lr]",
+      "id": 18100,
+      "epk_id": "5906",
+      "label": "$$$message_0041_0003_0000$$$"
+    },
+    {
+      "en": "\"Good day to you, boy. I took the liberty of deactivating your detection Bounded Field.\"[lr]",
+      "jp": "「あら坊や、侵入者探知の結界なら外させて貰ってるから」[lr]",
+      "Pt-br": "\"Bom dia, garoto. Tomei a liberdade de desativar seu Campo Limitado de detecção.\"[lr]",
+      "id": 18101,
+      "epk_id": "5907",
+      "label": "$$$message_0041_0003_0001$$$"
+    },
+    {
+      "en": "\"...\"",
+      "jp": "「……………………」",
+      "Pt-br": "\"...\"",
+      "id": 18102,
+      "epk_id": "5908",
+      "label": "$$$message_0041_0003_0002$$$"
+    },
+    {
+      "en": "She looks at the shoes pensively, seemingly uninterested in me.[lr]",
+      "jp": "　こちらに目もくれず、靴を睨んだまま何やら思案顔。[lr]",
+      "Pt-br": "Ela olha pensativa para os sapatos, aparentemente sem nenhum interesse em mim.[lr]",
+      "id": 18103,
+      "epk_id": "5909",
+      "label": "$$$message_0041_0004_0000$$$"
+    },
+    {
+      "en": "Is she worried that the heels aren't lined up?",
+      "jp": "　[ruby text=かかと]踵が揃ってないと気になるんだろうか？",
+      "Pt-br": "Será que está preocupada porque os saltos não estão alinhados?",
+      "id": 18104,
+      "epk_id": "5910",
+      "label": "$$$message_0041_0004_0001$$$"
+    },
+    {
+      "en": "\"By the way, is Sakura in?\"[lr]",
+      "jp": "「ところで、桜さんはご在宅？」[lr]",
+      "Pt-br": "\"A propósito, Sakura-san está em casa?\"[lr]",
+      "id": 18105,
+      "epk_id": "5911",
+      "label": "$$$message_0041_0005_0000$$$"
+    },
+    {
+      "en": "\"Oh, is that what this is about?\"[lr]",
+      "jp": "「なんだ、そういう事か」[lr]",
+      "Pt-br": "\"Ah, então era disso que se tratava?\"[lr]",
+      "id": 18106,
+      "epk_id": "5912",
+      "label": "$$$message_0041_0005_0001$$$"
+    },
+    {
+      "en": "From Caster's point of view, this was originally the enemy's home. Things are tense between her and Tohsaka and Saber.[lr]",
+      "jp": "　キャスターにとってここは、元は敵の住み処。遠坂とセイバーは、今もキャスターとは険悪な仲だ。[lr]",
+      "Pt-br": "Do ponto de vista da Caster, esta casa originalmente era território inimigo. A relação dela com Tohsaka e Saber ainda é tensa.[lr]",
+      "id": 18107,
+      "epk_id": "5913",
+      "label": "$$$message_0041_0005_0002$$$"
+    },
+    {
+      "en": "She's checking whether Sakura might be here to potentially take her side.",
+      "jp": "　それで味方になる桜がいないか調べていたのだ。",
+      "Pt-br": "Ela está verificando se Sakura talvez esteja aqui para, quem sabe, ficar do lado dela.",
+      "id": 18108,
+      "epk_id": "5914",
+      "label": "$$$message_0041_0005_0003$$$"
+    },
+    {
+      "en": "\"No, she's out shopping in Shinto today. She said she won't be back until tonight.\"[lr]",
+      "jp": "「いや、今日は買い物で新都に出ている。夜まで帰らないって言ってたけど」[lr]",
+      "Pt-br": "\"Não, hoje ela saiu para fazer compras em Shinto. Disse que só volta à noite.\"[lr]",
+      "id": 18109,
+      "epk_id": "5915",
+      "label": "$$$message_0041_0006_0000$$$"
+    },
+    {
+      "en": "\"That's a relief.\"[lr]",
+      "jp": "「なら、安心したわ」[lr]",
+      "Pt-br": "\"Que alívio.\"[lr]",
+      "id": 18110,
+      "epk_id": "5916",
+      "label": "$$$message_0041_0006_0001$$$"
+    },
+    {
+      "en": "\"Yeah, if you'd told me ahead of time, I could've stopped... [wvl canskip=0 time=400]What?\"[lr]",
+      "jp": "「うん、先に言ってくれてたら引き留めて……[wvl canskip=0 time=400]なに？」[lr]",
+      "Pt-br": "\"É, se você tivesse avisado antes, eu poderia ter impedido... [wvl canskip=0 time=400]O quê?\"[lr]",
+      "id": 18111,
+      "epk_id": "5917",
+      "label": "$$$message_0041_0006_0002$$$"
+    },
+    {
+      "en": "\"I want to avoid her seeing me here.\"",
+      "jp": "「あの娘にこんな所を見られるのは、避けたいの」",
+      "Pt-br": "\"Quero evitar que ela me veja aqui.\"",
+      "id": 18112,
+      "epk_id": "5918",
+      "label": "$$$message_0041_0006_0003$$$"
+    },
+    {
+      "en": "\"You know, that girl believes I'm the perfect wife. If she knew that I was going to you for help...\"[lr]",
+      "jp": "「ほら、あの娘は私が完璧な奥様だと信じてるじゃないの？　なのに、私が坊やにこんな頼み事をしてるなんて知ったら」[lr]",
+      "Pt-br": "\"Sabe, aquela garota acredita que eu sou a esposa perfeita. Se soubesse que vim pedir sua ajuda...\"[lr]",
+      "id": 18113,
+      "epk_id": "5919",
+      "label": "$$$message_0041_0007_0000$$$"
+    },
+    {
+      "en": "\"I get it. You don't want to shatter her dreams.[lr]",
+      "jp": "「なるほどな、桜の夢を壊したくないと」[lr]",
+      "Pt-br": "\"Entendi. Você não quer destruir os sonhos dela.[lr]",
+      "id": 18114,
+      "epk_id": "5920",
+      "label": "$$$message_0041_0007_0001$$$"
+    },
+    {
+      "en": "I recall the incident when we were out shopping. Sakura would be disappointed if she knew.",
+      "jp": "　商店街での一件を思い出す。桜がこの事を知ったら落胆しかねない。",
+      "Pt-br": "Lembro do incidente quando saímos para fazer compras. Sakura ficaria decepcionada se soubesse.",
+      "id": 18115,
+      "epk_id": "5921",
+      "label": "$$$message_0041_0007_0002$$$"
+    },
+    {
+      "en": "\"Gods forbid. I just don't want to embarrass myself.\"[lr]",
+      "jp": "「まさか。私が恥を晒したくないだけよ」[lr]",
+      "Pt-br": "\"Deus me livre. Eu só não quero passar vergonha.\"[lr]",
+      "id": 18116,
+      "epk_id": "5922",
+      "label": "$$$message_0041_0008_0000$$$"
+    },
+    {
+      "en": "\"...Okay, I'll remember that.[lr]",
+      "jp": "「……了解、そういうコトにしとこう。[lr]",
+      "Pt-br": "\"...Certo, vou me lembrar disso.[lr]",
+      "id": 18117,
+      "epk_id": "5923",
+      "label": "$$$message_0041_0008_0001$$$"
+    },
+    {
+      "en": "I'll keep this visit a secret from Sakura, and I'll chase everyone else off, so you can relax.\"",
+      "jp": "　桜には内緒にしておくし、他のみんなも出払ってるから安心して上がってくれ」",
+      "Pt-br": "Vou manter esta visita em segredo da Sakura e afastar todo mundo daqui, então pode relaxar.\"",
+      "id": 18118,
+      "epk_id": "5924",
+      "label": "$$$message_0041_0008_0002$$$"
+    },
+    {
+      "en": "\"Then once again, good day.[lr]",
+      "jp": "「では改めて。こんにちは、坊や。[lr]",
+      "Pt-br": "\"Então, mais uma vez, bom dia.[lr]",
+      "id": 18119,
+      "epk_id": "5925",
+      "label": "$$$message_0041_0009_0000$$$"
+    },
+    {
+      "en": "No, I suppose I should call you my master or teacher today.\"",
+      "jp": "　いえ、今日は先生と呼んだ方がよいかしらね」",
+      "Pt-br": "Não, suponho que hoje devo chamá-lo de mentor ou Sensei.\"",
+      "id": 18120,
+      "epk_id": "5926",
+      "label": "$$$message_0041_0009_0001$$$"
+    },
+    {
+      "en": "\"Not that one. A lot of them are spongy on the inside, so bigger isn't necessarily better.\"[lr]",
+      "jp": "「違う。ス[line len=3]えっと、中がスカスカになってるのが多いから大きければいいって訳じゃない」[lr]",
+      "Pt-br": "\"Essa não. Muitas ficam esponjosas por dentro, então tamanho não significa necessariamente qualidade.\"[lr]",
+      "id": 18121,
+      "epk_id": "5927",
+      "label": "$$$message_0041_0010_0000$$$"
+    },
+    {
+      "en": "I am teaching this master of magecraft how to pick potatoes at the market.[lr]",
+      "jp": "　魔術の[ruby text=たいと char=2]泰斗にジャガイモの選別の仕方を教える。[lr]",
+      "Pt-br": "Estou ensinando esta mestra da magia a escolher batatas no mercado.[lr]",
+      "id": 18122,
+      "epk_id": "5928",
+      "label": "$$$message_0041_0010_0001$$$"
+    },
+    {
+      "en": "It's funny where life takes you.",
+      "jp": "　いやはや、人生どこでどうなるか分からない。",
+      "Pt-br": "A vida leva a gente a lugares engraçados.",
+      "id": 18123,
+      "epk_id": "5929",
+      "label": "$$$message_0041_0010_0002$$$"
+    },
+    {
+      "en": "\"R-really? Yes, I knew that. It's completely elementary.\"[lr]",
+      "jp": "「そ、そうなの[line len=3]ええ、知っていてよ、初歩の初歩ですものね、そんなコトは」[lr]",
+      "Pt-br": "\"S-sério? Sim, eu sabia. É absolutamente elementar.\"[lr]",
+      "id": 18124,
+      "epk_id": "5930",
+      "label": "$$$message_0041_0011_0000$$$"
+    },
+    {
+      "en": "Caster gives me her signature seductive chuckle.[lr]",
+      "jp": "　ほほほ、といつもの妖艶笑いをするキャスター。[lr]",
+      "Pt-br": "Caster me oferece seu característico riso sedutor.[lr]",
+      "id": 18125,
+      "epk_id": "5931",
+      "label": "$$$message_0041_0011_0001$$$"
+    },
+    {
+      "en": "But it lacks any of its usual vigor.",
+      "jp": "　しかし、いつもの迫力はこれっぽっちもありゃしない。",
+      "Pt-br": "Mas ele não tem o vigor de sempre.",
+      "id": 18126,
+      "epk_id": "5932",
+      "label": "$$$message_0041_0011_0002$$$"
+    },
+    {
+      "en": "\"Let's go with nikujaga[line len=2]meat and potato stew. It's a relatively Japanese recipe.\"[lr]",
+      "jp": "「じゃあ肉じゃがでいこう、比較的和食っぽいし」[lr]",
+      "Pt-br": "\"Vamos de nikujaga[line len=2]ensopado de carne com batata. É uma receita relativamente japonesa.\"[lr]",
+      "id": 18127,
+      "epk_id": "5933",
+      "label": "$$$message_0041_0012_0000$$$"
+    },
+    {
+      "en": "And so...[lr]",
+      "jp": "　んで。[lr]",
+      "Pt-br": "E então...[lr]",
+      "id": 18128,
+      "epk_id": "5934",
+      "label": "$$$message_0041_0012_0001$$$"
+    },
+    {
+      "en": "Caster's here to take cooking lessons from me, based on our earlier agreement.",
+      "jp": "　前に交わした約束通り、キャスターの料理修行を手伝う事になったのだが[line len=3]",
+      "Pt-br": "Caster veio ter aulas de culinária comigo, conforme combinamos antes.",
+      "id": 18129,
+      "epk_id": "5935",
+      "label": "$$$message_0041_0012_0002$$$"
+    },
+    {
+      "en": "\"...[humming]\"[lr]",
+      "jp": "「……………♪」[lr]",
+      "Pt-br": "\"...[humming]\"[lr]",
+      "id": 18130,
+      "epk_id": "5936",
+      "label": "$$$message_0041_0013_0000$$$"
+    },
+    {
+      "en": "The sight of this eye-catching beauty draped in a colorful costume, standing in a quaint Japanese kitchen, feels way out of place.",
+      "jp": "　日本のごく庶民的な台所に、幾重にも布を重ねたファンタジック衣装に身を包んだゴージャスな美女が立っているというのは、激しく違和感がある。",
+      "Pt-br": "Ver esta beleza chamativa, coberta por um traje colorido, de pé numa cozinha japonesa simples, parece completamente fora de lugar.",
+      "id": 18131,
+      "epk_id": "5937",
+      "label": "$$$message_0041_0013_0001$$$"
+    },
+    {
+      "en": "\"Do you think Souichirou would like this stew...?\"[lr]",
+      "jp": "「宗一郎様、肉じゃがお好きかしら……」[lr]",
+      "Pt-br": "\"Você acha que Souichirou gostaria deste ensopado...?\"[lr]",
+      "id": 18132,
+      "epk_id": "5938",
+      "label": "$$$message_0041_0014_0000$$$"
+    },
+    {
+      "en": "\"How am I supposed to know that?\"[lr]",
+      "jp": "「いや、俺に聞かれても」[lr]",
+      "Pt-br": "\"Como é que eu vou saber?\"[lr]",
+      "id": 18133,
+      "epk_id": "5939",
+      "label": "$$$message_0041_0014_0001$$$"
+    },
+    {
+      "en": "\"You're the one who said that single men enjoy homemade meat and potato stew.\"",
+      "jp": "「坊やが独身男性は手作りの肉じゃがが好きだって言ったんじゃないの」",
+      "Pt-br": "\"Foi você quem disse que homens solteiros gostam de ensopado caseiro de carne com batata.\"",
+      "id": 18134,
+      "epk_id": "5940",
+      "label": "$$$message_0041_0014_0002$$$"
+    },
+    {
+      "en": "\"I don't know if that applies to everyone. It's more like a shared fantasy, or a self-serving male dream.[lr]",
+      "jp": "「大抵はそうじゃないかなって話だよ。共通幻想っていうか、男のさもしい夢っていうか。[lr]",
+      "Pt-br": "\"Não sei se isso vale para todo mundo. É mais uma fantasia coletiva, um sonho masculino conveniente.[lr]",
+      "id": 18135,
+      "epk_id": "5941",
+      "label": "$$$message_0041_0015_0000$$$"
+    },
+    {
+      "en": "Before you worry about that, roll up your sleeves first.\"",
+      "jp": "　や、そんなコト気を揉む前にさ、腕まくりぐらいしてくれ」",
+      "Pt-br": "Antes de se preocupar com isso, arregace as mangas.\"",
+      "id": 18136,
+      "epk_id": "5942",
+      "label": "$$$message_0041_0015_0001$$$"
+    },
+    {
+      "en": "\"Huh? O-oh, silly me. [cacheimage storage=キャスターローブ無し01c(中)][wvl canskip=0 time=200][chgfg time=400 storage=キャスターローブ無し01c(中) textoff=0]Yes, I knew that. Really.[lr]",
+      "jp": "「え？　あ、あら、私としたコトが。[cacheimage storage=キャスターローブ無し01c(中)][wvl canskip=0 time=200][chgfg time=400 storage=キャスターローブ無し01c(中) textoff=0]ええ、分かってる、分かってるのよ本当に。[lr]",
+      "Pt-br": "\"Hã? A-ah, que descuido meu. [cacheimage storage=キャスターローブ無し01c(中)][wvl canskip=0 time=200][chgfg time=400 storage=キャスターローブ無し01c(中) textoff=0]Sim, eu sabia. De verdade.[lr]",
+      "id": 18137,
+      "epk_id": "5943",
+      "label": "$$$message_0041_0016_0000$$$"
+    },
+    {
+      "en": "Don't worry, I just need to cast wards of water, soil, and grease resistance on it. That'll make it completely antiseptic!\"",
+      "jp": "　安心なさい、水除け染み除け脂除けの魔術をかければいいんだから。雑菌対策も完璧よ」",
+      "Pt-br": "Não se preocupe, só preciso lançar proteções contra água, terra e gordura. Assim ficará completamente antisséptico!\"",
+      "id": 18138,
+      "epk_id": "5944",
+      "label": "$$$message_0041_0016_0001$$$"
+    },
+    {
+      "en": "\"...Sure, okay.\"[lr]",
+      "jp": "「……まあ、ならいいけど」[lr]",
+      "Pt-br": "\"...Claro, tudo bem.\"[lr]",
+      "id": 18139,
+      "epk_id": "5945",
+      "label": "$$$message_0041_0017_0000$$$"
+    },
+    {
+      "en": "Are we really going to be okay, though?[lr]",
+      "jp": "　こんな調子で大丈夫なんだろーか。[lr]",
+      "Pt-br": "Mas será que vai ficar tudo bem mesmo?[lr]",
+      "id": 18140,
+      "epk_id": "5946",
+      "label": "$$$message_0041_0017_0001$$$"
+    },
+    {
+      "en": "Once we get back on track and I teach Caster how to remove the potato shoots, she uses the kitchen knife with surprising dexterity.",
+      "jp": "　気を取り直してジャガイモの芽のとり方を教えると、キャスターは思ったよりも器用に包丁を扱っている。",
+      "Pt-br": "Quando voltamos aos trilhos e ensino Caster a tirar os brotos das batatas, ela maneja a faca de cozinha com uma destreza surpreendente.",
+      "id": 18141,
+      "epk_id": "5947",
+      "label": "$$$message_0041_0017_0002$$$"
+    },
+    {
+      "en": "\"Oh, you're used to knives, huh?\"[lr]",
+      "jp": "「なんだ、刃物は慣れてるじゃないか」[lr]",
+      "Pt-br": "\"Ah, você está acostumada com facas, hein?\"[lr]",
+      "id": 18142,
+      "epk_id": "5948",
+      "label": "$$$message_0041_0018_0000$$$"
+    },
+    {
+      "en": "\"Whatever do you mean?\"[lr]",
+      "jp": "「何の事かしら？」[lr]",
+      "Pt-br": "\"O que você quer dizer?\"[lr]",
+      "id": 18143,
+      "epk_id": "5949",
+      "label": "$$$message_0041_0018_0001$$$"
+    },
+    {
+      "en": "\"The way you use that kitchen knife. It doesn't make you seem like a novice.\"[lr]",
+      "jp": "「包丁の使い方。とても料理が不得手とは思えない」[lr]",
+      "Pt-br": "\"O jeito como você usa essa faca de cozinha. Não parece coisa de iniciante.\"[lr]",
+      "id": 18144,
+      "epk_id": "5950",
+      "label": "$$$message_0041_0018_0002$$$"
+    },
+    {
+      "en": "When I first started teaching Sakura, she was so nervous I couldn't take my eyes off her. In contrast, Caster's knifework is confident and relaxed.",
+      "jp": "　桜に料理を教え始めた時は危なっかしくて目が離せなかったが、キャスターの手捌きにはやきもきしない。",
+      "Pt-br": "Quando comecei a ensinar Sakura, ela estava tão nervosa que eu não podia tirar os olhos dela. Caster, por outro lado, trabalha com a faca de modo confiante e tranquilo.",
+      "id": 18145,
+      "epk_id": "5951",
+      "label": "$$$message_0041_0018_0003$$$"
+    },
+    {
+      "en": "\"It's only natural that I'd be accustomed to using bladed implements in magical rituals.\"[lr]",
+      "jp": "「刃物自体は魔術で使うもの、慣れていて当然よ」[lr]",
+      "Pt-br": "\"É natural que eu esteja acostumado a usar instrumentos cortantes em rituais mágicos.\"[lr]",
+      "id": 18146,
+      "epk_id": "5952",
+      "label": "$$$message_0041_0019_0000$$$"
+    },
+    {
+      "en": "\"Speaking of that, I saw that you made a ship in a bottle.\"[lr]",
+      "jp": "「そういえば、ボトルシップ作りなんて細かい作業もしてたっけ」[lr]",
+      "Pt-br": "\"Falando nisso, eu vi aquele navio dentro da garrafa que você fez.\"[lr]",
+      "id": 18147,
+      "epk_id": "5953",
+      "label": "$$$message_0041_0019_0001$$$"
+    },
+    {
+      "en": "Which means she must be quite good with her hands... How did she end up cooking [font italic=true]that[font italic=false], then?",
+      "jp": "　じゃあ、手先は器用なんだ[line len=3]なのに、どうなってあの料理に繋がるのだか。",
+      "Pt-br": "Então ela deve ser muito habilidosa com as mãos... Como foi que acabou cozinhando [font italic=true]aquilo[font italic=false], então?",
+      "id": 18148,
+      "epk_id": "5954",
+      "label": "$$$message_0041_0019_0002$$$"
+    },
+    {
+      "en": "\"It's good to be relaxed. Just act like you're brewing one of your usual elixirs.\"[lr]",
+      "jp": "「気楽にすればいいぞ。いつもの魔術薬を作るようなつもりでさ」[lr]",
+      "Pt-br": "\"É bom ficar relaxada. Aja como se estivesse preparando um dos seus elixires de sempre.\"[lr]",
+      "id": 18149,
+      "epk_id": "5955",
+      "label": "$$$message_0041_0020_0000$$$"
+    },
+    {
+      "en": "\"Cooking is nothing like compounding.[lr]",
+      "jp": "「料理と調合は比べられないわよ。[lr]",
+      "Pt-br": "\"Cozinhar não tem nada a ver com preparar compostos.[lr]",
+      "id": 18150,
+      "epk_id": "5956",
+      "label": "$$$message_0041_0020_0001$$$"
+    },
+    {
+      "en": "Pharmaceutics prioritizes efficacy, while cooking must balance flavor and nutrition. They're like the fifth dimension.\"",
+      "jp": "　効用を優先する薬学と、味覚と栄養を調和させる調理は別物も別物、第五次元の感覚だわ」",
+      "Pt-br": "A farmacêutica prioriza a eficácia, enquanto a culinária deve equilibrar sabor e nutrição. São como a quinta dimensão.\"",
+      "id": 18151,
+      "epk_id": "5957",
+      "label": "$$$message_0041_0020_0002$$$"
+    },
+    {
+      "en": "\"Really? You still need to follow a recipe. I thought it would be easy for you.\"[lr]",
+      "jp": "「そうか？　レシピ通りに手を動かすのは同じだし。アンタなら簡単だと思うんだけどな」[lr]",
+      "Pt-br": "\"Sério? Ainda assim, você só precisa seguir uma receita. Achei que seria fácil para você.\"[lr]",
+      "id": 18152,
+      "epk_id": "5958",
+      "label": "$$$message_0041_0021_0000$$$"
+    },
+    {
+      "en": "\"I wouldn't be taking lessons from you if that were the case.[lr]",
+      "jp": "「それで済むのならこうして教わりには来ませんっ。[lr]",
+      "Pt-br": "\"Eu não estaria tendo aulas com você se fosse esse o caso.[lr]",
+      "id": 18153,
+      "epk_id": "5959",
+      "label": "$$$message_0041_0021_0001$$$"
+    },
+    {
+      "en": "...Sakura also said that food is a love language.[lr]",
+      "jp": "　……桜さんも言ってたわ、料理は愛情ですってね。[lr]",
+      "Pt-br": "...Sakura-san também disse que comida é uma linguagem do amor.[lr]",
+      "id": 18154,
+      "epk_id": "5960",
+      "label": "$$$message_0041_0021_0002$$$"
+    },
+    {
+      "en": "Half of the goal is the cook's feelings for the person eating the food. It is different from the compounding that happens while focusing your thoughts and performing calculations during a complex ritual.\"[lr]",
+      "jp": "　作る事より食べさせたい相手を想う事が目的の半分なのよ。思考を集中し複雑な式の計算を展開させながら行う調合とは違うの」[lr]",
+      "Pt-br": "Metade do objetivo está nos sentimentos de quem cozinha pela pessoa que vai comer. É diferente de preparar compostos, concentrando pensamentos e fazendo cálculos durante um ritual complexo.\"[lr]",
+      "id": 18155,
+      "epk_id": "5961",
+      "label": "$$$message_0041_0021_0003$$$"
+    },
+    {
+      "en": "\"Oof... Is that so?\"",
+      "jp": "「う……そうなのか？」",
+      "Pt-br": "\"Oof... É mesmo?\"",
+      "id": 18156,
+      "epk_id": "5962",
+      "label": "$$$message_0041_0021_0004$$$"
+    },
+    {
+      "en": "I cook every day, so I have never thought of it like that.[lr]",
+      "jp": "　料理は日常だった俺だが、そんなの考えたコトないぞ。[lr]",
+      "Pt-br": "Cozinho todos os dias, então nunca pensei nisso assim.[lr]",
+      "id": 18157,
+      "epk_id": "5963",
+      "label": "$$$message_0041_0022_0000$$$"
+    },
+    {
+      "en": "It's the mindset of a village elder who worries that a hungry tiger might come down to menace the village.[lr]",
+      "jp": "　飢えた虎が人里に下りて迷惑かけぬようにと心配する[ruby text=むらおさ char=2]村長の心境だった。[lr]",
+      "Pt-br": "É a mentalidade de um ancião da aldeia preocupado que um tigre faminto desça da montanha para aterrorizar o vilarejo.[lr]",
+      "id": 18158,
+      "epk_id": "5964",
+      "label": "$$$message_0041_0022_0001$$$"
+    },
+    {
+      "en": "...I wonder if I've been missing out on something important in life.",
+      "jp": "　……人生、損してたかな。",
+      "Pt-br": "...Será que perdi alguma coisa importante na vida?",
+      "id": 18159,
+      "epk_id": "5965",
+      "label": "$$$message_0041_0022_0002$$$"
+    },
+    {
+      "en": "\"Yes. That is why I would not be happy even if I cooked something delicious using an approach that seeks only results, like magecraft, and it made Souichirou happy.\"[lr]",
+      "jp": "「ええ。だから、魔術のように効果だけを求める方法で美味しい料理が出来て、それを宗一郎様が喜んで下さったとしても、私は嬉しくないわ」[lr]",
+      "Pt-br": "\"Sim. Por isso, eu não ficaria satisfeita mesmo que preparasse algo delicioso por uma abordagem que busca apenas resultados, como a magia, e isso alegrasse Souichirou.\"[lr]",
+      "id": 18160,
+      "epk_id": "5966",
+      "label": "$$$message_0041_0023_0000$$$"
+    },
+    {
+      "en": "\"...Huh.\"",
+      "jp": "「……へえ」",
+      "Pt-br": "\"...Hã.\"",
+      "id": 18161,
+      "epk_id": "5967",
+      "label": "$$$message_0041_0023_0001$$$"
+    },
+    {
+      "en": "\"There's no point if only I enjoy the cooking.[lr]",
+      "jp": "「料理を作る私だけが楽しくても意味がないでしょう。[lr]",
+      "Pt-br": "\"Não adianta se só eu gostar de cozinhar.[lr]",
+      "id": 18162,
+      "epk_id": "5968",
+      "label": "$$$message_0041_0024_0000$$$"
+    },
+    {
+      "en": "I need to get better for both of us.\"[wvs][clfg textoff=0 pos=all time=300][lr]",
+      "jp": "　ふたりのために上手くならなくちゃ」[wvs][clfg textoff=0 pos=all time=300][lr]",
+      "Pt-br": "Preciso melhorar por nós dois.\"[wvs][clfg textoff=0 pos=all time=300][lr]",
+      "id": 18163,
+      "epk_id": "5969",
+      "label": "$$$message_0041_0024_0001$$$"
+    },
+    {
+      "en": "[seloop storage=se244.wav]I nod, impressed.[lr]",
+      "jp": "　[seloop storage=se244.wav]感心して頷く。[lr]",
+      "Pt-br": "[seloop storage=se244.wav]Assinto, impressionado.[lr]",
+      "id": 18164,
+      "epk_id": "5970",
+      "label": "$$$message_0041_0024_0002$$$"
+    },
+    {
+      "en": "The enthusiastic rhythm of a knife on cutting board doesn't sound like it would come from a tragic, fickle witch at all.",
+      "jp": "　小気味よくまな板を叩く包丁の音に、気まぐれで残忍な魔女という響きはない。",
+      "Pt-br": "O ritmo animado da faca na tábua não soa nem um pouco como algo vindo de uma bruxa trágica e inconstante.",
+      "id": 18165,
+      "epk_id": "5971",
+      "label": "$$$message_0041_0024_0003$$$"
+    },
+    {
+      "en": "\"Excuse me, Shirou, do you have any [cacheimage storage=キャスターローブ無し01a(中)][wvl][playstop time=300 nowait=1][movefg textoff=0 opacity=255 time=400 pos=l accel=-2 storage=キャスターローブ無し01a(中)][sestop time=300 nowait=true][wm canskip=0][cacheimage storage=セイバー私服01c(中),キャスターローブ無し02e(中)][wvl canskip=0 time=400][chgfg textoff=0 time=200 storage=セイバー私服01c(中),キャスターローブ無し02e(中)]snacks[line len=2]\"[lr]",
+      "jp": "「シロウ、すみませんが何かつまむもの、[cacheimage storage=キャスターローブ無し01a(中)][wvl][playstop time=300 nowait=1][movefg textoff=0 opacity=255 time=400 pos=l accel=-2 storage=キャスターローブ無し01a(中)][sestop time=300 nowait=true][wm canskip=0][cacheimage storage=セイバー私服01c(中),キャスターローブ無し02e(中)][wvl canskip=0 time=400][chgfg textoff=0 time=200 storage=セイバー私服01c(中),キャスターローブ無し02e(中)]を[line len=3]」[lr]",
+      "Pt-br": "\"Com licença, Shirou, você tem algum [cacheimage storage=キャスターローブ無し01a(中)][wvl][playstop time=300 nowait=1][movefg textoff=0 opacity=255 time=400 pos=l accel=-2 storage=キャスターローブ無し01a(中)][sestop time=300 nowait=true][wm canskip=0][cacheimage storage=セイバー私服01c(中),キャスターローブ無し02e(中)][wvl canskip=0 time=400][chgfg textoff=0 time=200 storage=セイバー私服01c(中),キャスターローブ無し02e(中)]lanche[line len=2]\"[lr]",
+      "id": 18166,
+      "epk_id": "5972",
+      "label": "$$$message_0041_0025_0000$$$"
+    },
+    {
+      "en": "\"...!\"[lr]",
+      "jp": "「………………！」[lr]",
+      "Pt-br": "\"...!\"[lr]",
+      "id": 18167,
+      "epk_id": "5973",
+      "label": "$$$message_0041_0025_0001$$$"
+    },
+    {
+      "en": "Caster freezes.[lr]",
+      "jp": "　キャスターが息を呑む。[lr]",
+      "Pt-br": "Caster congela.[lr]",
+      "id": 18168,
+      "epk_id": "5974",
+      "label": "$$$message_0041_0025_0002$$$"
+    },
+    {
+      "en": "It's already too late. Saber and Caster make eye contact.",
+      "jp": "　時すでに遅く、セイバーとキャスターの視線が交差していた。",
+      "Pt-br": "Já é tarde demais. Saber e Caster cruzam os olhares.",
+      "id": 18169,
+      "epk_id": "5975",
+      "label": "$$$message_0041_0025_0003$$$"
+    },
+    {
+      "en": "\"Oh, it's you.\"[lr]",
+      "jp": "「なんだ、貴女なの」[lr]",
+      "Pt-br": "\"Ah, é você.\"[lr]",
+      "id": 18170,
+      "epk_id": "5976",
+      "label": "$$$message_0041_0026_0000$$$"
+    },
+    {
+      "en": "\"Caster... What are you doing here? [cacheimage storage=セイバー私服13a(中)][wvl canskip=0 time=300][chgfg textoff=0 time=300 storage=セイバー私服13a(中)]Shirou!?\"[lr]",
+      "jp": "「キャスター……なぜ貴方が上がり込んでいるのですか。[cacheimage storage=セイバー私服13a(中)][wvl canskip=0 time=300][chgfg textoff=0 time=300 storage=セイバー私服13a(中)]シロウ！？」[lr]",
+      "Pt-br": "\"Caster... O que você está fazendo aqui? [cacheimage storage=セイバー私服13a(中)][wvl canskip=0 time=300][chgfg textoff=0 time=300 storage=セイバー私服13a(中)]Shirou!?\"[lr]",
+      "id": 18171,
+      "epk_id": "5977",
+      "label": "$$$message_0041_0026_0001$$$"
+    },
+    {
+      "en": "\"Wait. Caster isn't our enemy today. She's just here to learn how to cook.\"[lr]",
+      "jp": "「待て、今日のキャスターは敵じゃないぞ？　料理を習いに来ているだけだ」[lr]",
+      "Pt-br": "\"Espera. Caster não é nossa inimiga hoje. Ela só veio aprender a cozinhar.\"[lr]",
+      "id": 18172,
+      "epk_id": "5978",
+      "label": "$$$message_0041_0026_0002$$$"
+    },
+    {
+      "en": "\"That's right. Sorry to intrude, Saber.\"",
+      "jp": "「そういう事よ。お邪魔しているわ、セイバー」",
+      "Pt-br": "\"Isso mesmo. Desculpe a intromissão, Saber.\"",
+      "id": 18173,
+      "epk_id": "5979",
+      "label": "$$$message_0041_0026_0003$$$"
+    },
+    {
+      "en": "\"How could you just agree... It's obviously all a pretext! [l][say storage=emi0441_sav_0021 name=セイバー][chgfg time=300 storage=セイバー私服08a(中) textoff=0]Are you under her mind control, Shirou!?\"[wvs][clfg storage=キャスターローブ無し01e(中) time=400 textoff=0][lr]",
+      "jp": "「何をのんきな……そんなあからさまな空事を真に受けるなんて、どうかしています！[l][say storage=emi0441_sav_0021 name=セイバー]　[chgfg time=300 storage=セイバー私服08a(中) textoff=0]まさか、シロウはキャスターに操られているのですか！？」[wvs][clfg storage=キャスターローブ無し01e(中) time=400 textoff=0][lr]",
+      "Pt-br": "\"Como você pode aceitar isso tão fácil...? É óbvio que tudo não passa de pretexto! [l][say storage=emi0441_sav_0021 name=セイバー][chgfg time=300 storage=セイバー私服08a(中) textoff=0]Ela está controlando sua mente, Shirou!?\"[wvs][clfg storage=キャスターローブ無し01e(中) time=400 textoff=0][lr]",
+      "id": 18174,
+      "epk_id": "5980",
+      "label": "$$$message_0041_0027_0000$$$"
+    },
+    {
+      "en": "\"Of course not. Also, would you mind not telling Sakura and the others about this?\"[lr]",
+      "jp": "「そんな訳ないだろ。あとそう、このコトは桜やみんなには黙ってて貰いたいんだけど」[lr]",
+      "Pt-br": "\"Claro que não. E, além disso, você se importaria de não contar à Sakura e aos outros sobre isto?\"[lr]",
+      "id": 18175,
+      "epk_id": "5981",
+      "label": "$$$message_0041_0027_0001$$$"
+    },
+    {
+      "en": "\"Heh. You've shown your cards too early, Caster. This proves that you're up to no good!\"[lr]",
+      "jp": "「フ、さっそく馬脚を[ruby text=あらわ]露しましたねキャスター、隠すのは後ろ暗いものがある証拠です！」[lr]",
+      "Pt-br": "\"Heh. Você mostrou suas cartas cedo demais, Caster. Isso prova que está tramando alguma coisa!\"[lr]",
+      "id": 18176,
+      "epk_id": "5982",
+      "label": "$$$message_0041_0027_0002$$$"
+    },
+    {
+      "en": "Oh nooo! So this is what it means to feel utterly helpless!",
+      "jp": "　わー、取り付く島がないとはこういうコトかっ！",
+      "Pt-br": "Ah, nãooo! Então é isso que significa se sentir completamente impotente!",
+      "id": 18177,
+      "epk_id": "5983",
+      "label": "$$$message_0041_0027_0003$$$"
+    },
+    {
+      "en": "\"Caster cannot be trusted. [l][say storage=emi0441_sav_0041 name=セイバー]Shirou, have you already forgotten what I[cacheimage storage=セイバー私服01c(中)][wvl][chgfg time=300 storage=セイバー私服01c(中) textoff=0] endured in her captivity...\"[lr]",
+      "jp": "「キャスターは信用なりません。[l][say storage=emi0441_sav_0041 name=セイバー]私があの女に囚われてどんな目にあったか、[cacheimage storage=セイバー私服01c(中)][wvl][chgfg time=300 storage=セイバー私服01c(中) textoff=0]シロウはもう忘れ……」[lr]",
+      "Pt-br": "\"Caster não é confiável. [l][say storage=emi0441_sav_0041 name=セイバー]Shirou, você já esqueceu o que eu[cacheimage storage=セイバー私服01c(中)][wvl][chgfg time=300 storage=セイバー私服01c(中) textoff=0] sofri no cativeiro dela...?\"[lr]",
+      "id": 18178,
+      "epk_id": "5984",
+      "label": "$$$message_0041_0028_0000$$$"
+    },
+    {
+      "en": "\"Well, even if something that awful happened... Hey, what's wrong?\"[lr]",
+      "jp": "「まあそういう不幸な経緯もあったけど……どうした？」[lr]",
+      "Pt-br": "\"Bom, mesmo que algo tão terrível tenha acontecido... Ei, o que foi?\"[lr]",
+      "id": 18179,
+      "epk_id": "5985",
+      "label": "$$$message_0041_0028_0001$$$"
+    },
+    {
+      "en": "Saber's words trail off, and she's staring hotly at something behind me.[lr]",
+      "jp": "　言葉を切ったセイバーが、俺の背後に熱い視線を送っている。[lr]",
+      "Pt-br": "As palavras de Saber morrem no meio, e ela encara intensamente algo atrás de mim.[lr]",
+      "id": 18180,
+      "epk_id": "5986",
+      "label": "$$$message_0041_0028_0002$$$"
+    },
+    {
+      "en": "I turn around and see that she's looking at the 200-gram pack of thinly sliced beef in Caster's hands.",
+      "jp": "　後ろを振り返ると、牛薄切り肉二百グラムパックがキャスターの手に弄ばれていた。",
+      "Pt-br": "Viro-me e vejo que ela está olhando para o pacote de duzentos gramas de carne bovina em fatias finas nas mãos de Caster.",
+      "id": 18181,
+      "epk_id": "5987",
+      "label": "$$$message_0041_0028_0003$$$"
+    },
+    {
+      "en": "\"Ahem... What are you making?\"[lr]",
+      "jp": "「こほん……何を、作っているのですか」[lr]",
+      "Pt-br": "\"Ahem... O que você está preparando?\"[lr]",
+      "id": 18182,
+      "epk_id": "5988",
+      "label": "$$$message_0041_0029_0000$$$"
+    },
+    {
+      "en": "\"I was teaching her to make meat and potato stew.\"[lr]",
+      "jp": "「ああ、今日教えてるのは肉じゃがだけど」[lr]",
+      "Pt-br": "\"Eu estava ensinando ela a fazer nikujaga.\"[lr]",
+      "id": 18183,
+      "epk_id": "5989",
+      "label": "$$$message_0041_0029_0001$$$"
+    },
+    {
+      "en": "\"Meat and potato stew...\"[lr]",
+      "jp": "「肉じゃがですか……」[lr]",
+      "Pt-br": "\"Nikujaga...\"[lr]",
+      "id": 18184,
+      "epk_id": "5990",
+      "label": "$$$message_0041_0029_0002$$$"
+    },
+    {
+      "en": "Saber mutters the words several times to herself.",
+      "jp": "　肉じゃが、肉じゃがと、何度も噛んで含めるように呟くセイバー。",
+      "Pt-br": "Saber murmura a palavra para si mesma várias vezes.",
+      "id": 18185,
+      "epk_id": "5991",
+      "label": "$$$message_0041_0029_0003$$$"
+    },
+    {
+      "en": "\"It seems you have quite a sophisticated palate, thanks to the boy.[lr]",
+      "jp": "「坊やのおかげで、セイバーは舌が肥えているようね。[lr]",
+      "Pt-br": "\"Parece que você tem um paladar bastante refinado, graças ao garoto.[lr]",
+      "id": 18186,
+      "epk_id": "5992",
+      "label": "$$$message_0041_0030_0000$$$"
+    },
+    {
+      "en": "I'm sure that if I can satisfy your palate, then Souichirou will find it palatable as well.\"[lr]",
+      "jp": "　じゃあ私の肉じゃがが貴女を満足させられれば、宗一郎様にもきっと御納得頂けるわ」[lr]",
+      "Pt-br": "Tenho certeza de que, se eu satisfizer o seu paladar, Souichirou-sama também achará o prato agradável.\"[lr]",
+      "id": 18187,
+      "epk_id": "5993",
+      "label": "$$$message_0041_0030_0001$$$"
+    },
+    {
+      "en": "Saber's expression completely changes, as if Caster just spoke an incantation.[lr]",
+      "jp": "　その言葉が呪文のように効いたのか、セイバーが目の色を変える。[lr]",
+      "Pt-br": "A expressão de Saber muda completamente, como se Caster tivesse acabado de recitar um encantamento.[lr]",
+      "id": 18188,
+      "epk_id": "5994",
+      "label": "$$$message_0041_0030_0002$$$"
+    },
+    {
+      "en": "I'd expect no less from such a cunning mage.",
+      "jp": "　さすが、策謀の魔術師。",
+      "Pt-br": "Eu não esperaria menos de uma maga tão astuta.",
+      "id": 18189,
+      "epk_id": "5995",
+      "label": "$$$message_0041_0030_0003$$$"
+    },
+    {
+      "en": "\"Caster, it seems that we are not enemies today.\"[lr]",
+      "jp": "「キャスター、どうやら今日の貴方は敵ではないようです」[lr]",
+      "Pt-br": "\"Caster, parece que não somos inimigos hoje.\"[lr]",
+      "id": 18190,
+      "epk_id": "5996",
+      "label": "$$$message_0041_0031_0000$$$"
+    },
+    {
+      "en": "\"Yes. Meat and potato stew is a cheap price to pay for your alliance.\"[lr]",
+      "jp": "「ええ、肉じゃがでセイバーを味方に出来るのならおやすいものよ」[lr]",
+      "Pt-br": "\"Sim. Nikujaga é um preço barato pela sua aliança.\"[lr]",
+      "id": 18191,
+      "epk_id": "5997",
+      "label": "$$$message_0041_0031_0001$$$"
+    },
+    {
+      "en": "That was [font italic=true]way[font italic=false] too easy, if you ask me.",
+      "jp": "　つーか、それ安すぎるよね実際。",
+      "Pt-br": "Foi [font italic=true]fácil[font italic=false] demais, se quer saber.",
+      "id": 18192,
+      "epk_id": "5998",
+      "label": "$$$message_0041_0031_0002$$$"
+    },
+    {
+      "en": "\"...Very well.[lr]",
+      "jp": "「……わかりました。[lr]",
+      "Pt-br": "\"...Muito bem.[lr]",
+      "id": 18193,
+      "epk_id": "5999",
+      "label": "$$$message_0041_0032_0000$$$"
+    },
+    {
+      "en": "Leave the frontline combat to me. I will make sure you mages are free to perform your culinary work.[lr]",
+      "jp": "　前衛は[ruby text=わたし char=2]剣士に任せて、後衛の[ruby text=あなたがた o2o=1]魔術師たちは安心して料理に打ち込んでください。[lr]",
+      "Pt-br": "Deixe o combate na linha de frente comigo. Garantirei que vocês, magas, possam se dedicar livremente ao trabalho culinário.[lr]",
+      "id": 18194,
+      "epk_id": "6000",
+      "label": "$$$message_0041_0032_0001$$$"
+    },
+    {
+      "en": "I will endeavor to make sure no rapscallions discover your stew. I swear to defend it to the death.\"[lr]",
+      "jp": "　肉じゃがが不心得者に見つからぬよう尽力し、守り抜く事を誓います」[lr]",
+      "Pt-br": "Farei o possível para que nenhum patife descubra seu ensopado. Juro defendê-lo até a morte.\"[lr]",
+      "id": 18195,
+      "epk_id": "6001",
+      "label": "$$$message_0041_0032_0002$$$"
+    },
+    {
+      "en": "Um, it's not the stew I want to hide, but the fact that Caster is here.",
+      "jp": "　いや、隠して欲しいのは肉じゃがじゃなくキャスターの方なんだセイバー。",
+      "Pt-br": "Hm, não é o ensopado que eu quero esconder, mas o fato de a Caster estar aqui.",
+      "id": 18196,
+      "epk_id": "6002",
+      "label": "$$$message_0041_0032_0003$$$"
+    },
+    {
+      "en": "\"...I guess it's the same, either way.[lr]",
+      "jp": "「……まあいいか、どっちも同じだし。[lr]",
+      "Pt-br": "\"...Acho que dá no mesmo, de qualquer forma.[lr]",
+      "id": 18197,
+      "epk_id": "6003",
+      "label": "$$$message_0041_0033_0000$$$"
+    },
+    {
+      "en": "We're counting on you, Saber. Take this for now.\"[lr]",
+      "jp": "　セイバー、よろしくな。しばらくこれでも摘んでてくれ」[lr]",
+      "Pt-br": "Estamos contando com você, Saber. Pegue isto por enquanto.\"[lr]",
+      "id": 18198,
+      "epk_id": "6004",
+      "label": "$$$message_0041_0033_0001$$$"
+    },
+    {
+      "en": "I hand her some mamemochi[line len=2]sticky rice cakes with beans in them[line len=2]from the cupboard.",
+      "jp": "　戸棚から豆餅をとって渡した。",
+      "Pt-br": "Entrego a ela alguns mamemochi[line len=2]bolinhos de arroz glutinoso com feijão[line len=2]do armário.",
+      "id": 18199,
+      "epk_id": "6005",
+      "label": "$$$message_0041_0033_0002$$$"
+    },
+    {
+      "en": "\"Thanks, Caster. She's stubborn.\"[lr]",
+      "jp": "「助かったよキャスター。セイバーはあの通り頑固だからさ」[lr]",
+      "Pt-br": "\"Obrigado, Caster. Ela é teimosa.\"[lr]",
+      "id": 18200,
+      "epk_id": "6006",
+      "label": "$$$message_0041_0034_0000$$$"
+    },
+    {
+      "en": "\"Saber is being reasonable. You're the strange one here, boy.[lr]",
+      "jp": "「セイバーは普通でしょう。おかしいのは坊やの方よ。[lr]",
+      "Pt-br": "\"Saber está sendo sensata. O estranho aqui é você, garoto.[lr]",
+      "id": 18201,
+      "epk_id": "6007",
+      "label": "$$$message_0041_0034_0001$$$"
+    },
+    {
+      "en": "It's hard to believe you're being this sincere with me after our previous history.\"",
+      "jp": "　一度ならずともあんな関係にあった私と、こうやって律儀に付き合っているんだから」",
+      "Pt-br": "É difícil acreditar que esteja sendo tão sincero comigo depois de tudo que aconteceu entre nós.\"",
+      "id": 18202,
+      "epk_id": "6008",
+      "label": "$$$message_0041_0034_0002$$$"
+    },
+    {
+      "en": "\"Mrgh. If you want to go there, Rider lives with us, too.\"[lr]",
+      "jp": "「む。それを言ったら、ライダーとは一緒に暮らしているぞ」[lr]",
+      "Pt-br": "\"Mrgh. Se for por esse lado, Rider também mora com a gente.\"[lr]",
+      "id": 18203,
+      "epk_id": "6009",
+      "label": "$$$message_0041_0035_0000$$$"
+    },
+    {
+      "en": "\"Heh. So she does. She's tried to kill you quite a few times.\"[lr]",
+      "jp": "「ふ、そう言えばそうね。あの女、何度も坊やを殺そうとしていたものねぇ」[lr]",
+      "Pt-br": "\"Heh. É verdade. E ela já tentou matar você várias vezes.\"[lr]",
+      "id": 18204,
+      "epk_id": "6010",
+      "label": "$$$message_0041_0035_0001$$$"
+    },
+    {
+      "en": "Caster snickers.[lr]",
+      "jp": "　くつくつと笑う。[lr]",
+      "Pt-br": "Caster solta um riso baixo.[lr]",
+      "id": 18205,
+      "epk_id": "6011",
+      "label": "$$$message_0041_0035_0002$$$"
+    },
+    {
+      "en": "I'm not quite sure if it's mirth or resentment I hear.",
+      "jp": "　それが愉快なのか嫌味なのか、ちょい微妙なところだ。",
+      "Pt-br": "Não sei bem se o que ouço é diversão ou ressentimento.",
+      "id": 18206,
+      "epk_id": "6012",
+      "label": "$$$message_0041_0035_0003$$$"
+    },
+    {
+      "en": "\"Look, it's all in the past now.[lr]",
+      "jp": "「いいだろ、昔のコトなんて。[lr]",
+      "Pt-br": "\"Olha, tudo isso já está no passado.[lr]",
+      "id": 18207,
+      "epk_id": "6013",
+      "label": "$$$message_0041_0036_0000$$$"
+    },
+    {
+      "en": "Lancer said it too; there's no reason to hate someone just because you're enemies. And we aren't even enemies right now, so we can relax the way we think.\"",
+      "jp": "　ランサーも言ってたぞ。敵だからって憎まなきゃいけない理由はないって。今は敵ですらないんだから、結構楽に考えていいんじゃないのか」",
+      "Pt-br": "Lancer também disse isso; não há motivo para odiar alguém só porque vocês são inimigos. E agora nós nem somos inimigos, então podemos flexibilizar esse jeito de pensar.\"",
+      "id": 18208,
+      "epk_id": "6014",
+      "label": "$$$message_0041_0036_0001$$$"
+    },
+    {
+      "en": "\"...You could say that.[lr]",
+      "jp": "「……そうは言うけど、ね。[lr]",
+      "Pt-br": "\"Pode-se dizer que sim.[lr]",
+      "id": 18209,
+      "epk_id": "6015",
+      "label": "$$$message_0041_0037_0000$$$"
+    },
+    {
+      "en": "For example, you can't tell Sakura what I did to you.\"",
+      "jp": "　たとえば、私が坊やにした事は桜さんには話せないわ」",
+      "Pt-br": "Por exemplo, você não pode contar à Sakura-san o que eu fiz com você.\"",
+      "id": 18210,
+      "epk_id": "6016",
+      "label": "$$$message_0041_0037_0001$$$"
+    },
+    {
+      "en": "\"It's all right. You're only here learning from me because you're able to switch your mindset.\"[lr]",
+      "jp": "「大丈夫だよ。キャスターだって気持ちが割り切れてるから、こうやって俺に料理を習えるんだろ」[lr]",
+      "Pt-br": "\"Tudo bem. Você só está aqui aprendendo comigo porque consegue mudar de perspectiva.\"[lr]",
+      "id": 18211,
+      "epk_id": "6017",
+      "label": "$$$message_0041_0038_0000$$$"
+    },
+    {
+      "en": "\"...Not quite. I came because Souichirou suggested it.[lr]",
+      "jp": "「……違うわ、宗一郎様に勧められたからよ。[lr]",
+      "Pt-br": "\"...Não exatamente. Eu vim porque Souichirou sugeriu.[lr]",
+      "id": 18212,
+      "epk_id": "6018",
+      "label": "$$$message_0041_0038_0001$$$"
+    },
+    {
+      "en": "I would even study under Berserker if it was for Souichirou.\"[lr]",
+      "jp": "　宗一郎様の為なら、バーサーカーにだって教えを請うわ」[lr]",
+      "Pt-br": "Se fosse por Souichirou, eu estudaria até sob Berserker.\"[lr]",
+      "id": 18213,
+      "epk_id": "6019",
+      "label": "$$$message_0041_0038_0002$$$"
+    },
+    {
+      "en": "...Hearing how easily she admits it makes me blush, instead.",
+      "jp": "　……そう平然と言い切られると、聞いているこちらの方が照れる。",
+      "Pt-br": "...Ouvir com que facilidade ela admite isso é que me deixa corado.",
+      "id": 18214,
+      "epk_id": "6020",
+      "label": "$$$message_0041_0038_0003$$$"
+    },
+    {
+      "en": "\"You're really serious when it comes to Mr. Kuzuki.\"[lr]",
+      "jp": "「真剣なんだな、葛木先生の事になると」[lr]",
+      "Pt-br": "\"Quando se trata do Kuzuki-sensei, você leva mesmo a sério.\"[lr]",
+      "id": 18215,
+      "epk_id": "6021",
+      "label": "$$$message_0041_0039_0000$$$"
+    },
+    {
+      "en": "\"Sakura's the same way, you know.\"[lr]",
+      "jp": "「あら、桜さんだって真剣でしょう？」[lr]",
+      "Pt-br": "\"Sakura-san é do mesmo jeito, você sabe.\"[lr]",
+      "id": 18216,
+      "epk_id": "6022",
+      "label": "$$$message_0041_0039_0001$$$"
+    },
+    {
+      "en": "\"Mrgh. What's that supposed to mean?\"",
+      "jp": "「む、どういう意味だそれ」",
+      "Pt-br": "\"Mrgh. O que isso quer dizer?\"",
+      "id": 18217,
+      "epk_id": "6023",
+      "label": "$$$message_0041_0039_0002$$$"
+    },
+    {
+      "en": "\"Oh, poor Sakura... Besides, it's not as if I dislike cooking.[cacheimage storage=キャスターローブ無し02c(中)][wvs][chgfg time=200 storage=キャスターローブ無し02c(中) textoff=0][lr]",
+      "jp": "「桜さんも大変ね[line len=3]それに私、料理は嫌いじゃないわ。[cacheimage storage=キャスターローブ無し02c(中)][wvs][chgfg time=200 storage=キャスターローブ無し02c(中) textoff=0][lr]",
+      "Pt-br": "\"Ah, pobre da Sakura-san... Além disso, não é como se eu detestasse cozinhar.[cacheimage storage=キャスターローブ無し02c(中)][wvs][chgfg time=200 storage=キャスターローブ無し02c(中) textoff=0][lr]",
+      "id": 18218,
+      "epk_id": "6024",
+      "label": "$$$message_0041_0040_0000$$$"
+    },
+    {
+      "en": "I'm willing to lie in order to live with the person I love. But cooking I can be pure and genuine about.",
+      "jp": "　好きな人と一緒に居られるように、嘘をつく事もある。けど料理には何も偽らず、純真にあたれるもの」",
+      "Pt-br": "Estou disposta a mentir para viver com a pessoa que amo. Mas, em relação à cozinha, posso ser pura e genuína.",
+      "id": 18219,
+      "epk_id": "6025",
+      "label": "$$$message_0041_0040_0001$$$"
+    },
+    {
+      "en": "Caster gently seasons the food, as if to dissolve her own emotions in it.[lr]",
+      "jp": "　自分の気持ちを溶かすように、優しく調味料を加えていくキャスター。[lr]",
+      "Pt-br": "Caster tempera a comida com delicadeza, como se dissolvesse nela as próprias emoções.[lr]",
+      "id": 18220,
+      "epk_id": "6026",
+      "label": "$$$message_0041_0041_0000$$$"
+    },
+    {
+      "en": "It's pleasant watching her serene expression.[wm canskip=0][wm canskip=0][stopdash]",
+      "jp": "　その表情は和らいでいて、端で見ていて気持ちがよかった。[wm canskip=0][wm canskip=0][stopdash]",
+      "Pt-br": "É agradável observar sua expressão serena.[wm canskip=0][wm canskip=0][stopdash]",
+      "id": 18221,
+      "epk_id": "6027",
+      "label": "$$$message_0041_0041_0001$$$"
+    },
+    {
+      "en": "\"...I wish I could let Sakura see this.\"[lr]",
+      "jp": "「……桜に見せてやりたいなあ」[lr]",
+      "Pt-br": "\"...Eu queria poder deixar Sakura ver isso.\"[lr]",
+      "id": 18222,
+      "epk_id": "6028",
+      "label": "$$$message_0041_0042_0000$$$"
+    },
+    {
+      "en": "\"What are you saying? We're supposed to keep this a secret from[wvl][playstop time=2000 nowait=1][se storage=se396.wav]...............!\"",
+      "jp": "「なに言い出すのかしら。桜さんにはこの事は秘密だって、[wvl][playstop time=2000 nowait=1][se storage=se396.wav]……………………っ！」",
+      "Pt-br": "\"O que está dizendo? Era para mantermos isso em segredo da[wvl][playstop time=2000 nowait=1][se storage=se396.wav]..............., Sakura-san!\"",
+      "id": 18223,
+      "epk_id": "6029",
+      "label": "$$$message_0041_0042_0001$$$"
+    },
+    {
+      "en": "\"Shirou!\"[lr]",
+      "jp": "「シロウ！」[lr]",
+      "Pt-br": "\"Shirou!\"[lr]",
+      "id": 18224,
+      "epk_id": "6030",
+      "label": "$$$message_0041_0043_0000$$$"
+    },
+    {
+      "en": "\"Oh, it's just you, Saber.\"[lr]",
+      "jp": "「なんだセイバーか」[lr]",
+      "Pt-br": "\"Ah, é só você, Saber.\"[lr]",
+      "id": 18225,
+      "epk_id": "6031",
+      "label": "$$$message_0041_0043_0001$$$"
+    },
+    {
+      "en": "\"Phew, don't scare us like that.\"[lr]",
+      "jp": "「ふう、驚かさないでよ」[lr]",
+      "Pt-br": "\"Phew, não assuste a gente assim.\"[lr]",
+      "id": 18226,
+      "epk_id": "6032",
+      "label": "$$$message_0041_0043_0002$$$"
+    },
+    {
+      "en": "\"Shirou, [cacheimage storage=セイバー私服08a(近),キャスターローブ無し03b(中),i衛宮邸台所(FD)][wvl canskip=0 time=400][clfg][delay speed=160][dash textoff=0 page=back mx=-746 opacity=200 layer=base irot=-0.0 cx=759 imag=1.2 time=4000 cy=16 mag=1.2 my=0 storage=i衛宮邸台所(FD) rot=-0.0 accel=0][fg left=-158 index=2000 top=115 storage=セイバー私服08a(近)][fg left=360 index=1000 top=97 storage=キャスターローブ無し03b(中)][movefg textoff=0 page=back opacity=255 left=0 top=115 time=4000 accel=0 storage=セイバー私服08a(近)][movefg textoff=0 page=back opacity=255 left=400 top=97 time=4000 accel=0 storage=キャスターローブ無し03b(中)][fadein textoff=0 time=300 storage=i衛宮邸台所(FD) noclear=1][wvl]Rin has returned.\"[delay speed=user]",
+      "jp": "「シロウ、[cacheimage storage=セイバー私服08a(近),キャスターローブ無し03b(中),i衛宮邸台所(FD)][wvl canskip=0 time=400][clfg][delay speed=160][dash textoff=0 page=back mx=-746 opacity=200 layer=base irot=-0.0 cx=759 imag=1.2 time=4000 cy=16 mag=1.2 my=0 storage=i衛宮邸台所(FD) rot=-0.0 accel=0][fg left=-158 index=2000 top=115 storage=セイバー私服08a(近)][fg left=360 index=1000 top=97 storage=キャスターローブ無し03b(中)][movefg textoff=0 page=back opacity=255 left=0 top=115 time=4000 accel=0 storage=セイバー私服08a(近)][movefg textoff=0 page=back opacity=255 left=400 top=97 time=4000 accel=0 storage=キャスターローブ無し03b(中)][fadein textoff=0 time=300 storage=i衛宮邸台所(FD) noclear=1][wvl]凛が帰ってきました」[delay speed=user]",
+      "Pt-br": "\"Shirou, [cacheimage storage=セイバー私服08a(近),キャスターローブ無し03b(中),i衛宮邸台所(FD)][wvl canskip=0 time=400][clfg][delay speed=160][dash textoff=0 page=back mx=-746 opacity=200 layer=base irot=-0.0 cx=759 imag=1.2 time=4000 cy=16 mag=1.2 my=0 storage=i衛宮邸台所(FD) rot=-0.0 accel=0][fg left=-158 index=2000 top=115 storage=セイバー私服08a(近)][fg left=360 index=1000 top=97 storage=キャスターローブ無し03b(中)][movefg textoff=0 page=back opacity=255 left=0 top=115 time=4000 accel=0 storage=セイバー私服08a(近)][movefg textoff=0 page=back opacity=255 left=400 top=97 time=4000 accel=0 storage=キャスターローブ無し03b(中)][fadein textoff=0 time=300 storage=i衛宮邸台所(FD) noclear=1][wvl]Rin voltou.\"[delay speed=user]",
+      "id": 18227,
+      "epk_id": "6033",
+      "label": "$$$message_0041_0043_0003$$$"
+    },
+    {
+      "en": "\"Tohsaka...!?\"[lr]",
+      "jp": "「遠坂か……！」[lr]",
+      "Pt-br": "\"Tohsaka...!?\"[lr]",
+      "id": 18228,
+      "epk_id": "6034",
+      "label": "$$$message_0041_0044_0000$$$"
+    },
+    {
+      "en": "\"That savage, monkey-like girl?[lr]",
+      "jp": "「あの猿みたいに野蛮な娘ね。[lr]",
+      "Pt-br": "\"Aquela garota selvagem, parecida com um macaco?[lr]",
+      "id": 18229,
+      "epk_id": "6035",
+      "label": "$$$message_0041_0044_0001$$$"
+    },
+    {
+      "en": "...This isn't good. [cacheimage storage=キャスターローブ無し01d(中)][wvl][chgfg time=400 storage=キャスターローブ無し01d(中) textoff=0]I have the most trouble dealing with brutes like that girl or Berserker. I doubt we'll be able to resolve this through peaceful dialogue like we did with Saber.\"[lr]",
+      "jp": "　……まずいわ、[cacheimage storage=キャスターローブ無し01d(中)][wvl][chgfg time=400 storage=キャスターローブ無し01d(中) textoff=0]あの娘やバーサーカーみたいな腕力バカは一番苦手なタイプよ。セイバーのように、話し合いで平和的に交渉とはいかなそうね」[lr]",
+      "Pt-br": "...Isso não é bom. [cacheimage storage=キャスターローブ無し01d(中)][wvl][chgfg time=400 storage=キャスターローブ無し01d(中) textoff=0]Tenho mais dificuldade em lidar com brutas como aquela garota ou Berserker. Duvido que consigamos resolver isso por diálogo pacífico, como fizemos com Saber.\"[lr]",
+      "id": 18230,
+      "epk_id": "6036",
+      "label": "$$$message_0041_0044_0002$$$"
+    },
+    {
+      "en": "\"Yes, she's a difficult opponent.\"",
+      "jp": "「ええ、難しい相手です」",
+      "Pt-br": "\"Sim, ela é uma oponente difícil.\"",
+      "id": 18231,
+      "epk_id": "6037",
+      "label": "$$$message_0041_0044_0003$$$"
+    },
+    {
+      "en": "...Yet another surprise from Caster.[lr]",
+      "jp": "　……意外な事実。[lr]",
+      "Pt-br": "...Mais uma surpresa da Caster.[lr]",
+      "id": 18232,
+      "epk_id": "6038",
+      "label": "$$$message_0041_0045_0000$$$"
+    },
+    {
+      "en": "She apparently considers Rin an even more unreasonable opponent than Saber.",
+      "jp": "　キャスターの中で遠坂は、セイバーより傍若無人に思われてたなんて。",
+      "Pt-br": "Ela aparentemente considera Rin uma oponente ainda mais irracional que Saber.",
+      "id": 18233,
+      "epk_id": "6039",
+      "label": "$$$message_0041_0045_0001$$$"
+    },
+    {
+      "en": "\"Well, she is hard to please, but...\"[lr]",
+      "jp": "「いや、そりゃ遠坂は気難しいけどさ」[lr]",
+      "Pt-br": "\"Bem, ela é difícil de agradar, mas...\"[lr]",
+      "id": 18234,
+      "epk_id": "6040",
+      "label": "$$$message_0041_0046_0000$$$"
+    },
+    {
+      "en": "\"It isn't about being easy or hard to please.[l][say storage=emi0441_cas_0321 name=キャスター] I'll have you know, she's the first person to ever attempt to fistfight me in a duel between mages.\"[lr]",
+      "jp": "「気難しいとか気優しいとか、そんなレベルじゃないでしょうに。[l][say storage=emi0441_cas_0321 name=キャスター]いいこと？　私、魔術師同士の戦いで[ruby text=グー o2o=1]鉄拳を奥の手にするような相手は、あの子が初めてだったわ」[lr]",
+      "Pt-br": "\"Não se trata de ser fácil ou difícil de agradar.[l][say storage=emi0441_cas_0321 name=キャスター] Para sua informação, ela foi a primeira pessoa que já tentou trocar socos comigo num duelo entre magos.\"[lr]",
+      "id": 18235,
+      "epk_id": "6041",
+      "label": "$$$message_0041_0046_0001$$$"
+    },
+    {
+      "en": "\"Yes, such mages never existed in the past. They are a modern development.\"",
+      "jp": "「ええ、古には存在していなかった、新しいタイプの魔術師です」",
+      "Pt-br": "\"Sim, magos assim nunca existiram no passado. São uma invenção moderna.\"",
+      "id": 18236,
+      "epk_id": "6042",
+      "label": "$$$message_0041_0046_0002$$$"
+    },
+    {
+      "en": "\"Ha...haha.\"[lr]",
+      "jp": "「は……はは」[lr]",
+      "Pt-br": "\"Ha... haha.\"[lr]",
+      "id": 18237,
+      "epk_id": "6043",
+      "label": "$$$message_0041_0047_0000$$$"
+    },
+    {
+      "en": "Oh...I can't back her up on this one. Her bare-knuckled strategy bothered me that time, too.[lr]",
+      "jp": "　……そうなんだ、フォローできないなあ……言われて見れば、俺だって困るよな、鉄拳勝負は。[lr]",
+      "Pt-br": "Ah... nessa eu não consigo defender a Tohsaka. A estratégia dela de lutar no punho também me incomodou naquela vez.[lr]",
+      "id": 18238,
+      "epk_id": "6044",
+      "label": "$$$message_0041_0047_0001$$$"
+    },
+    {
+      "en": "Wait, now's not the time for that.[lr]",
+      "jp": "　っと、そんな場合じゃない。[lr]",
+      "Pt-br": "Espera, agora não é hora para isso.[lr]",
+      "id": 18239,
+      "epk_id": "6045",
+      "label": "$$$message_0041_0047_0002$$$"
+    },
+    {
+      "en": "Tohsaka's footsteps are gradually getting closer.",
+      "jp": "　遠坂の足音は段々と近づいてくる。",
+      "Pt-br": "Os passos de Tohsaka se aproximam pouco a pouco.",
+      "id": 18240,
+      "epk_id": "6046",
+      "label": "$$$message_0041_0047_0003$$$"
+    },
+    {
+      "en": "\"Caster, do you have any convenient spells you can use to conceal us or teleport us away?\"[lr]",
+      "jp": "「キャスター、なにか便利な魔術はないのか？　隠身とか空間転移とか」[lr]",
+      "Pt-br": "\"Caster, você tem algum feitiço conveniente para nos esconder ou nos teleportar para longe?\"[lr]",
+      "id": 18241,
+      "epk_id": "6047",
+      "label": "$$$message_0041_0048_0000$$$"
+    },
+    {
+      "en": "\"No. Using magecraft now would be akin to setting off a smoke bomb.\"[lr]",
+      "jp": "「ダメね。いま魔術を使うのは発煙筒を焚くのと同意よ」[lr]",
+      "Pt-br": "\"Não. Usar magia agora seria como detonar uma bomba de fumaça.\"[lr]",
+      "id": 18242,
+      "epk_id": "6048",
+      "label": "$$$message_0041_0048_0001$$$"
+    },
+    {
+      "en": "Damn it, she's close...",
+      "jp": "　くそ、足音が近い[line len=3]。",
+      "Pt-br": "Maldição, ela está perto...",
+      "id": 18243,
+      "epk_id": "6049",
+      "label": "$$$message_0041_0048_0002$$$"
+    },
+    {
+      "en": "\"Here she comes!\"[lr]",
+      "jp": "「来ます！」[lr]",
+      "Pt-br": "\"Lá vem ela!\"[lr]",
+      "id": 18244,
+      "epk_id": "6050",
+      "label": "$$$message_0041_0049_0000$$$"
+    },
+    {
+      "en": "\"...Fuh!\"",
+      "jp": "「……ふっ！」",
+      "Pt-br": "\"...Fuh!\"",
+      "id": 18245,
+      "epk_id": "6051",
+      "label": "$$$message_0041_0049_0001$$$"
+    },
+    {
+      "en": "\"Hey, Emiya...[cacheimage storage=凛私服03d(中)][wvl canskip=0 time=400][chgfg time=300 storage=凛私服03d(中) textoff=0]Hm?\"[lr]",
+      "jp": "「ねえ衛宮くん……[cacheimage storage=凛私服03d(中)][wvl canskip=0 time=400][chgfg time=300 storage=凛私服03d(中) textoff=0]ん？」[lr]",
+      "Pt-br": "\"Ei, Emiya-kun...[cacheimage storage=凛私服03d(中)][wvl canskip=0 time=400][chgfg time=300 storage=凛私服03d(中) textoff=0]Hm?\"[lr]",
+      "id": 18246,
+      "epk_id": "6052",
+      "label": "$$$message_0041_0050_0000$$$"
+    },
+    {
+      "en": "\"H-[wvl][shock vmax=25 time=400 count=-3]hey there. Welcome home, Tohsaka.\"[lr]",
+      "jp": "「よ、[wvl][shock vmax=25 time=400 count=-3]よう、おかえり遠坂」[lr]",
+      "Pt-br": "\"O-[wvl][shock vmax=25 time=400 count=-3]oi. Bem-vinda de volta, Tohsaka.\"[lr]",
+      "id": 18247,
+      "epk_id": "6053",
+      "label": "$$$message_0041_0050_0001$$$"
+    },
+    {
+      "en": "\"What are [font italic=true]you[font italic=false] doing there?\"[lr]",
+      "jp": "「どうして[ruby text=・・ o2o=1]貴女がそこにいるの？」[lr]",
+      "Pt-br": "\"O que [font italic=true]você[font italic=false] está fazendo aí?\"[lr]",
+      "id": 18248,
+      "epk_id": "6054",
+      "label": "$$$message_0041_0050_0002$$$"
+    },
+    {
+      "en": "Upon entering the living room, Tohsaka frowns.",
+      "jp": "　居間に入ってきた遠坂が、眉を[ruby text=ひそ]顰める[line len=3]",
+      "Pt-br": "Ao entrar na sala, Tohsaka franze a testa.",
+      "id": 18249,
+      "epk_id": "6055",
+      "label": "$$$message_0041_0050_0003$$$"
+    },
+    {
+      "en": "Figures. Saber standing there stirring the pot with sweat running down her forehead is just too strange a sight.",
+      "jp": "　やはり、額に汗しながらがっつんがっつん鍋を揺するセイバーを不思議がったか。",
+      "Pt-br": "Faz sentido. Saber parada ali, mexendo a panela com suor escorrendo pela testa, é uma visão estranha demais.",
+      "id": 18250,
+      "epk_id": "6056",
+      "label": "$$$message_0041_0051_0000$$$"
+    },
+    {
+      "en": "\"Hell must have frozen over if Saber's cooking. Are you getting ready for dinner?\"[lr]",
+      "jp": "「珍しい風の吹き回しね、セイバーが料理なんて。こんな時間から夕食の支度？」[lr]",
+      "Pt-br": "\"O inferno deve ter congelado para a Saber estar cozinhando. Estão preparando o jantar?\"[lr]",
+      "id": 18251,
+      "epk_id": "6057",
+      "label": "$$$message_0041_0052_0000$$$"
+    },
+    {
+      "en": "\"Yeah, I was teaching her to cook. Meat and potato stew is pretty versatile, right?\"",
+      "jp": "「ああ、料理を教えてるところなんだ。肉じゃがはほら、いろいろ応用が利くからな」",
+      "Pt-br": "\"É, eu estava ensinando ela a cozinhar. Nikujaga é bem versátil, não é?\"",
+      "id": 18252,
+      "epk_id": "6058",
+      "label": "$$$message_0041_0052_0001$$$"
+    },
+    {
+      "en": "\"Hmm...? [cacheimage storage=凛私服06c(中)][wvl][chgfg time=300 storage=凛私服06c(中) textoff=0][se storage=se683.wav][move textoff=0 time=120 path=(-22,72,255)(23,72,255)(-22,72,255)(26,72,255)(26,72,255)(26,72,255)(-25,72,255)(22,72,255)(-23,72,255)(-23,72,255)(27,72,255)(-22,72,255)(-22,72,255)(-22,72,255)(-16,110,255)(-8,72,255)(-5,108,255)(-1,72,255) storage=セイバー私服_鍋持ち開09a(中) accel=0]Hold on, Saber. You're not stir-frying right now.[lr]",
+      "jp": "「ふぅん……[cacheimage storage=凛私服06c(中)][wvl][chgfg time=300 storage=凛私服06c(中) textoff=0][se storage=se683.wav][move textoff=0 time=120 path=(-22,72,255)(23,72,255)(-22,72,255)(26,72,255)(26,72,255)(26,72,255)(-25,72,255)(22,72,255)(-23,72,255)(-23,72,255)(27,72,255)(-22,72,255)(-22,72,255)(-22,72,255)(-16,110,255)(-8,72,255)(-5,108,255)(-1,72,255) storage=セイバー私服_鍋持ち開09a(中) accel=0]ちょっとセイバー、[ruby text=ジャン]炒じゃないんだから」[lr]",
+      "Pt-br": "\"Hmm...? [cacheimage storage=凛私服06c(中)][wvl][chgfg time=300 storage=凛私服06c(中) textoff=0][se storage=se683.wav][move textoff=0 time=120 path=(-22,72,255)(23,72,255)(-22,72,255)(26,72,255)(26,72,255)(26,72,255)(-25,72,255)(22,72,255)(-23,72,255)(-23,72,255)(27,72,255)(-22,72,255)(-22,72,255)(-22,72,255)(-16,110,255)(-8,72,255)(-5,108,255)(-1,72,255) storage=セイバー私服_鍋持ち開09a(中) accel=0]Espera, Saber. Você não está refogando nada agora.[lr]",
+      "id": 18253,
+      "epk_id": "6059",
+      "label": "$$$message_0041_0053_0000$$$"
+    },
+    {
+      "en": "Saber makes a show of whipping the stew around with her ladle[line len=2]it brings to mind her country's less-than-stellar culinary character.",
+      "jp": "　豪快に具と汁を舞わせるセイバー[line len=3]雑なお国柄が偲ばれた。",
+      "Pt-br": "Saber faz questão de agitar o ensopado com a concha[line len=2]a cena lembra o caráter culinário nada brilhante do país dela.",
+      "id": 18254,
+      "epk_id": "6060",
+      "label": "$$$message_0041_0053_0001$$$"
+    },
+    {
+      "en": "\"So as you can see, we're a little busy right now. If you need something, we can talk later.\"[lr]",
+      "jp": "「そういう訳で、いま手が塞がってんだからな。用件があるなら後にしてくれ」[lr]",
+      "Pt-br": "\"Como pode ver, estamos um pouco ocupados agora. Se precisar de alguma coisa, conversamos depois.\"[lr]",
+      "id": 18255,
+      "epk_id": "6061",
+      "label": "$$$message_0041_0054_0000$$$"
+    },
+    {
+      "en": "\"Okay. ...By the way, what's this thing wrapped in purple cloth over here? Garbage?\"",
+      "jp": "「そう。……ところで、さっきから邪魔っけな、この紫の風呂敷包みはなに？　ゴミ？」",
+      "Pt-br": "\"Certo. ...A propósito, o que é essa coisa enrolada em pano roxo aqui? Lixo?\"",
+      "id": 18256,
+      "epk_id": "6062",
+      "label": "$$$message_0041_0054_0001$$$"
+    },
+    {
+      "en": "...Caster's turned her robe inside-out and is using it to hide herself, if you can call it that.[lr]",
+      "jp": "　……ローブを裏返したキャスターが、しゃがんで隠れているとは言えない。[lr]",
+      "Pt-br": "...Caster virou o robe do avesso e o está usando para se esconder, se é que dá para chamar isso de esconderijo.[lr]",
+      "id": 18257,
+      "epk_id": "6063",
+      "label": "$$$message_0041_0055_0000$$$"
+    },
+    {
+      "en": "Tohsaka pokes the purple Caster wrap with her foot.[se storage=se042.wav][lr]",
+      "jp": "　そんなキャスター包みを、足でもにゅもにゅとつつく遠坂。[se storage=se042.wav][lr]",
+      "Pt-br": "Tohsaka cutuca com o pé o embrulho roxo da Caster.[se storage=se042.wav][lr]",
+      "id": 18258,
+      "epk_id": "6064",
+      "label": "$$$message_0041_0055_0001$$$"
+    },
+    {
+      "en": "Caster doesn't so much as twitch. A ninja couldn't have done it better.",
+      "jp": "　キャスターはピクリとも動かない。見事な隠れ身だ。",
+      "Pt-br": "Caster não se mexe nem um milímetro. Nem um ninja teria feito melhor.",
+      "id": 18259,
+      "epk_id": "6065",
+      "label": "$$$message_0041_0055_0002$$$"
+    },
+    {
+      "en": "\"A-[wvl][shock vmax=20 time=300 count=-3]actually, let's hear what you had to say![lr]",
+      "jp": "「や、[wvl][shock vmax=20 time=300 count=-3]やっぱり用件はいま聞こう！[lr]",
+      "Pt-br": "\"N-[wvl][shock vmax=20 time=300 count=-3]na verdade, vamos ouvir o que você tinha a dizer![lr]",
+      "id": 18260,
+      "epk_id": "6066",
+      "label": "$$$message_0041_0056_0000$$$"
+    },
+    {
+      "en": "I'll do anything you ask. You can even treat me like garbage!\"[lr]",
+      "jp": "　なんでも絶対服従するぞ、俺をゴミと蔑んでくれたっていい！」[lr]",
+      "Pt-br": "Faço qualquer coisa que pedir. Pode até me tratar como lixo!\"[lr]",
+      "id": 18261,
+      "epk_id": "6067",
+      "label": "$$$message_0041_0056_0001$$$"
+    },
+    {
+      "en": "\"What's all this about garbage? I just wanted to borrow Saber for a while, but it doesn't look like I can.\"",
+      "jp": "「そうそうゴミ袋の話じゃなくて。ちょっとセイバーを借りたかったんだけど、無理そうね」",
+      "Pt-br": "\"Por que essa história de lixo? Eu só queria pegar a Saber emprestada por um tempo, mas parece que não vai dar.\"",
+      "id": 18262,
+      "epk_id": "6068",
+      "label": "$$$message_0041_0056_0002$$$"
+    },
+    {
+      "en": "\"Yes, I cannot step away from my station. I am duty-bound to guard this post.\"[lr]",
+      "jp": "「はい、いま離れるワケには参りません。私にはここを守る義務があります」[lr]",
+      "Pt-br": "\"Sim, não posso abandonar meu posto. Tenho o dever de guardar esta posição.\"[lr]",
+      "id": 18263,
+      "epk_id": "6069",
+      "label": "$$$message_0041_0057_0000$$$"
+    },
+    {
+      "en": "\"And here I was going to ask you to taste test some souvenirs.\"",
+      "jp": "「お土産の味見をして貰いたかったんだけど」",
+      "Pt-br": "\"E eu estava pensando em pedir para você provar umas lembrancinhas.\"",
+      "id": 18264,
+      "epk_id": "6070",
+      "label": "$$$message_0041_0057_0001$$$"
+    },
+    {
+      "en": "\"Well, Shirou, good luck with the stew.\"[lr]",
+      "jp": "「ではシロウ、あとは任せました」[lr]",
+      "Pt-br": "\"Bom, Shirou, boa sorte com o ensopado.\"[lr]",
+      "id": 18265,
+      "epk_id": "6071",
+      "label": "$$$message_0041_0058_0000$$$"
+    },
+    {
+      "en": "\"Talk about a fast change of heart!\"",
+      "jp": "「変わり身はやいなっ！」",
+      "Pt-br": "\"Mas que mudança de ideia rápida!\"",
+      "id": 18266,
+      "epk_id": "6072",
+      "label": "$$$message_0041_0058_0001$$$"
+    },
+    {
+      "en": "Saber and I trade a wordless glance.[lr]",
+      "jp": "　セイバーが無言で目線を合わせてくる。[lr]",
+      "Pt-br": "Saber e eu trocamos um olhar silencioso.[lr]",
+      "id": 18267,
+      "epk_id": "6073",
+      "label": "$$$message_0041_0059_0000$$$"
+    },
+    {
+      "en": "   I will keep Rin away from here, for the time being.[lr]",
+      "jp": "　[line len=3]ここは私が凛を一旦遠ざけます。[lr]",
+      "Pt-br": "   Vou manter a Rin longe daqui por enquanto.[lr]",
+      "id": 18268,
+      "epk_id": "6074",
+      "label": "$$$message_0041_0059_0001$$$"
+    },
+    {
+      "en": "  Oh, okay. That's what you meant... All right, thanks.[lr]",
+      "jp": "　[line len=3]あ、うん、そういうこと。……分かった、あとは任せろ。[lr]",
+      "Pt-br": "  Ah, entendi. Era isso que você queria dizer... Certo, obrigado.[lr]",
+      "id": 18269,
+      "epk_id": "6075",
+      "label": "$$$message_0041_0059_0002$$$"
+    },
+    {
+      "en": "   Yes. And add extra meat, please.[lr]",
+      "jp": "　[line len=3]ええ。それと肉はもっと多めに。[lr]",
+      "Pt-br": "   Sim. E acrescente carne extra, por favor.[lr]",
+      "id": 18270,
+      "epk_id": "6076",
+      "label": "$$$message_0041_0059_0003$$$"
+    },
+    {
+      "en": "   Roger that. I'll make the portion twenty percent bigger than usual.[rf][lr]",
+      "jp": "　[line len=3]ラジャ。普段より二割増しを善処します。[rf][lr]",
+      "Pt-br": "   Entendido. Vou fazer a porção vinte por cento maior do que o normal.[rf][lr]",
+      "id": 18271,
+      "epk_id": "6077",
+      "label": "$$$message_0041_0059_0004$$$"
+    },
+    {
+      "en": "Eye contact established. Transmission complete.",
+      "jp": "　アイコンタクト成立、交信終了。",
+      "Pt-br": "Contato visual estabelecido. Transmissão concluída.",
+      "id": 18272,
+      "epk_id": "6078",
+      "label": "$$$message_0041_0059_0005$$$"
+    },
+    {
+      "en": "\"Okay. Come to my room, then.\"[lr]",
+      "jp": "「そう。じゃあ、わたしの部屋に来て」[lr]",
+      "Pt-br": "\"Certo. Venha para o meu quarto, então.\"[lr]",
+      "id": 18273,
+      "epk_id": "6079",
+      "label": "$$$message_0041_0060_0000$$$"
+    },
+    {
+      "en": "Tohsaka and Saber leave the kitchen together. I watch them go.[lr]",
+      "jp": "　ふたりが並んで厨房を出る。それを見送って[line len=3][lr]",
+      "Pt-br": "Tohsaka e Saber saem juntas da cozinha. Observo as duas partirem.[lr]",
+      "id": 18274,
+      "epk_id": "6080",
+      "label": "$$$message_0041_0060_0001$$$"
+    },
+    {
+      "en": "\"...You can come out now, Caster.\"",
+      "jp": "「……もういいぞ、キャスター」",
+      "Pt-br": "\"...Você pode sair agora, Caster.\"",
+      "id": 18275,
+      "epk_id": "6081",
+      "label": "$$$message_0041_0060_0002$$$"
+    },
+    {
+      "en": "\"A garbage bag... I've been called a witch and a demoness before, but a garbage bag...?\"[lr]",
+      "jp": "「ゴミ袋……今まで魔女だ妖女だと言われてきたけど、ゴミ袋……」[lr]",
+      "Pt-br": "\"Um saco de lixo... Já fui chamada de bruxa e demônia antes, mas saco de lixo...?\"[lr]",
+      "id": 18276,
+      "epk_id": "6082",
+      "label": "$$$message_0041_0061_0000$$$"
+    },
+    {
+      "en": "I can hear her weeping.[lr]",
+      "jp": "　すすり泣きが聞こえる。[lr]",
+      "Pt-br": "Posso ouvir seu choro.[lr]",
+      "id": 18277,
+      "epk_id": "6083",
+      "label": "$$$message_0041_0061_0001$$$"
+    },
+    {
+      "en": "Hmm...[lr]",
+      "jp": "　……うーむ。[lr]",
+      "Pt-br": "Hmm...[lr]",
+      "id": 18278,
+      "epk_id": "6084",
+      "label": "$$$message_0041_0061_0002$$$"
+    },
+    {
+      "en": "I knew this house was enemy territory for Caster, but I didn't think she'd have this rough a time.[lr]",
+      "jp": "　この[ruby text=うち]家、キャスターにとっては敵地っぽいと思っていたが、ここまで相性が悪いとは。[lr]",
+      "Pt-br": "Eu sabia que esta casa era território inimigo para Caster, mas não imaginei que ela teria tanta dificuldade.[lr]",
+      "id": 18279,
+      "epk_id": "6085",
+      "label": "$$$message_0041_0061_0003$$$"
+    },
+    {
+      "en": "Somehow, I sense our future lessons aren't going to be easy...",
+      "jp": "　なんか、この先の料理修行も苦労しそうだなあ……。",
+      "Pt-br": "De algum modo, sinto que nossas aulas futuras não vão ser fáceis...",
+      "id": 18280,
+      "epk_id": "6086",
+      "label": "$$$message_0041_0061_0004$$$"
+    },
+    {
+      "en": "\"It seems you have quite a sophisticated palate, thanks to the boy.\"[r]",
+      "jp": "「坊やのおかげで、[r]セイバーは舌が肥えている[r]ようね」:j\u0005",
+      "Pt-br": "\"Parece que você tem um paladar bastante refinado, graças ao garoto.\"[r]",
+      "id": 18281,
+      "epk_id": "905992",
+      "label": "$$$message_9041_0030_0000$$$"
+    }
+  ]
+}

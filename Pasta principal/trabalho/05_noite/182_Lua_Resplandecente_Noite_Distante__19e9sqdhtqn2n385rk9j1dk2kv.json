@@ -1,0 +1,424 @@
+{
+  "cena": "19e9sqdhtqn2n385rk9j1dk2kv",
+  "titulo": "Lua Resplandecente, Noite Distante",
+  "rota": "Noite",
+  "arquivo": "19e9sqdhtqn2n385rk9j1dk2kv.epk_dec",
+  "linhas": [
+    {
+      "en": "The mountain gate is silent.[lr]",
+      "jp": "　山門は静まりかえっている。[lr]",
+      "Pt-br": "O portão da montanha está silencioso.[lr]",
+      "id": 26055,
+      "epk_id": "31185",
+      "label": "$$$message_0234_0000_0000$$$"
+    },
+    {
+      "en": "The stone steps stretch into the night sky.[lr]",
+      "jp": "　石畳の階段は夜空にまで続いているように見える。[lr]",
+      "Pt-br": "Os degraus de pedra se estendem até o céu noturno.[lr]",
+      "id": 26056,
+      "epk_id": "31186",
+      "label": "$$$message_0234_0000_0001$$$"
+    },
+    {
+      "en": "...For some reason, the long stairway appears as if it extends into the sky itself.[lr]",
+      "jp": "　……長い階段には、なぜか空に通じるイメージがある。[lr]",
+      "Pt-br": "...Por algum motivo, a longa escada parece se estender como se fosse até o próprio céu.[lr]",
+      "id": 26057,
+      "epk_id": "31187",
+      "label": "$$$message_0234_0000_0002$$$"
+    },
+    {
+      "en": "Fortunately, the moon isn't directly above Ryudou Temple, so the stairs end at the temple, rather than literally leading to some otherworldly lunar realm.",
+      "jp": "　幸いな事に柳洞寺の頭上に月はないので、階段は[ruby text=つき o2o=1]異界に届く事なく、きちんと寺へ繋がっている。",
+      "Pt-br": "Felizmente, a Lua não está diretamente acima do Templo Ryuudou, então as escadas terminam no templo, em vez de literalmente conduzirem a algum reino lunar sobrenatural.",
+      "id": 26058,
+      "epk_id": "31188",
+      "label": "$$$message_0234_0000_0003$$$"
+    },
+    {
+      "en": "I peer into the temple from the gate.[lr]",
+      "jp": "　山門から中を覗く。[lr]",
+      "Pt-br": "Espio o templo a partir do portão.[lr]",
+      "id": 26059,
+      "epk_id": "31189",
+      "label": "$$$message_0234_0001_0000$$$"
+    },
+    {
+      "en": "Nothing seems amiss in the temple grounds.[lr]",
+      "jp": "　境内に異状はない。[lr]",
+      "Pt-br": "Nada parece fora do lugar no terreno do templo.[lr]",
+      "id": 26060,
+      "epk_id": "31190",
+      "label": "$$$message_0234_0001_0001$$$"
+    },
+    {
+      "en": "If I want to investigate further, I'll have to go inside...[lr]",
+      "jp": "　もっと調べたければ中に入るしかないのだが、[lr]",
+      "Pt-br": "Se quiser investigar mais, terei que entrar...[lr]",
+      "id": 26061,
+      "epk_id": "31191",
+      "label": "$$$message_0234_0001_0002$$$"
+    },
+    {
+      "en": "\"...You there. Take another step and you'll lose your head.\"[lr]",
+      "jp": "「[line len=3]そこ。あと一歩で首を落とす事になるぞ」[lr]",
+      "Pt-br": "\"...Você aí. Dê mais um passo e perderá a cabeça.\"[lr]",
+      "id": 26062,
+      "epk_id": "31192",
+      "label": "$$$message_0234_0001_0003$$$"
+    },
+    {
+      "en": "...but as you can see, a Servant still guards the mountain gate.",
+      "jp": "　この通り、未だ山門を守っているサーヴァントがいるのである。",
+      "Pt-br": "...mas como você pode ver, um Servo ainda guarda a porta da montanha.",
+      "id": 26063,
+      "epk_id": "31193",
+      "label": "$$$message_0234_0001_0004$$$"
+    },
+    {
+      "en": "\"You must have a lot of free time, if you're still upholding your role when you don't need to protect this place anymore.[lr]",
+      "jp": "「アンタも暇なんだな。もうここを守る必要はないのに、律儀に役割を果たしている。[lr]",
+      "Pt-br": "\"Você deve ter muito tempo livre para continuar cumprindo esse papel quando nem precisa mais proteger este lugar.[lr]",
+      "id": 26064,
+      "epk_id": "31194",
+      "label": "$$$message_0234_0002_0000$$$"
+    },
+    {
+      "en": "...Wait. Are there a lot of burglars trying to steal the Buddha statues lately?\"",
+      "jp": "　……む。それともなにか、もしかして仏像ドロボウとか多い？」",
+      "Pt-br": "...Espera. Ultimamente tem tanto ladrão tentando roubar estátuas de Buda assim?\"",
+      "id": 26065,
+      "epk_id": "31195",
+      "label": "$$$message_0234_0002_0001$$$"
+    },
+    {
+      "en": "\"Haha. I haven't seen any thieves, but others have passed through these gates. See? One just went right by you.\"[lr]",
+      "jp": "「はは。盗人はとんと見かけぬが、違う者ならよく通るぞ。そら、今もおまえの横を通り過ぎた」[lr]",
+      "Pt-br": "\"Haha. Não vi nenhum ladrão, mas outros passaram por estes portões. Viu? Um acabou de passar bem ao seu lado.\"[lr]",
+      "id": 26066,
+      "epk_id": "31196",
+      "label": "$$$message_0234_0003_0000$$$"
+    },
+    {
+      "en": "\"Huh?\"[lr]",
+      "jp": "「え？」[lr]",
+      "Pt-br": "\"Hmm?\"[lr]",
+      "id": 26067,
+      "epk_id": "31197",
+      "label": "$$$message_0234_0003_0001$$$"
+    },
+    {
+      "en": "Of course, there's no one there.[lr]",
+      "jp": "　無論、そんなモノは存在しない。[lr]",
+      "Pt-br": "Claro que não tem ninguém lá.[lr]",
+      "id": 26068,
+      "epk_id": "31198",
+      "label": "$$$message_0234_0003_0002$$$"
+    },
+    {
+      "en": "[chgfg textoff=0 time=300 storage=å°æ¬¡é01b(é )]All I feel is a lukewarm breeze against my cheek.",
+      "jp": "　[chgfg textoff=0 time=300 storage=小次郎01b(遠)]ひやりと生暖かい風が頬を撫でていくだけだ。",
+      "Pt-br": "[chgfg textoff=0 time=300 storage=小次郎01b(遠)]Tudo que sinto é uma brisa morna contra a face.",
+      "id": 26069,
+      "epk_id": "31199",
+      "label": "$$$message_0234_0003_0003$$$"
+    },
+    {
+      "en": "\"Cut that out. It's forbidden to tell ghost stories at a temple.[lr]",
+      "jp": "「やめてくれ、寺で幽霊の話なんて御法度だ。[lr]",
+      "Pt-br": "\"Para com isso. É proibido contar histórias de fantasma em templo.[lr]",
+      "id": 26070,
+      "epk_id": "31200",
+      "label": "$$$message_0234_0004_0000$$$"
+    },
+    {
+      "en": "I'm freaked out enough already being here on my own, so you don't need to intimidate...\"[lr]",
+      "jp": "　ただでさえ一人ぼっちでおっかないんだから、脅かすのはナシ[line len=3]」[lr]",
+      "Pt-br": "Já estou assustado o bastante aqui sozinho, você não precisa me intimidar...\"[lr]",
+      "id": 26071,
+      "epk_id": "31201",
+      "label": "$$$message_0234_0004_0001$$$"
+    },
+    {
+      "en": "Oh, I see.[lr]",
+      "jp": "　って、そうか。[lr]",
+      "Pt-br": "Ah, entendi.[lr]",
+      "id": 26072,
+      "epk_id": "31202",
+      "label": "$$$message_0234_0004_0002$$$"
+    },
+    {
+      "en": "Servants are spirits too, so he might actually mean it.",
+      "jp": "　サーヴァントは霊体なんだから、本当にそういうのが見えてるかもしれないのか。",
+      "Pt-br": "Servos também são espíritos, então talvez ele esteja falando sério.",
+      "id": 26073,
+      "epk_id": "31203",
+      "label": "$$$message_0234_0004_0003$$$"
+    },
+    {
+      "en": "\"...Hey, are there really ghosts around here?\"[lr]",
+      "jp": "「……なあ。もしかしてホントに出るのか、ここ？」[lr]",
+      "Pt-br": "\"...Ei, tem fantasmas mesmo por aqui?\"[lr]",
+      "id": 26074,
+      "epk_id": "31204",
+      "label": "$$$message_0234_0005_0000$$$"
+    },
+    {
+      "en": "\"Indeed. You've just failed to notice them.[lr]",
+      "jp": "「出るとも。おまえが気づかないだけだ。[lr]",
+      "Pt-br": "\"De fato. Você simplesmente não os notou.[lr]",
+      "id": 26075,
+      "epk_id": "31205",
+      "label": "$$$message_0234_0005_0001$$$"
+    },
+    {
+      "en": "In life, I was a humble peasant. I never had any sense for the spiritual, and I only became aware of others like me once I was summoned here.\"",
+      "jp": "　私も生前はまっとうな百姓だったからな。霊感などあるわけもなし、同業を見るのはここに来てからの事になるが」",
+      "Pt-br": "Em vida, fui um humilde camponês. Nunca tive sensibilidade espiritual alguma, e só tomei conhecimento de outros como eu depois de ser invocado aqui.\"",
+      "id": 26076,
+      "epk_id": "31206",
+      "label": "$$$message_0234_0005_0002$$$"
+    },
+    {
+      "en": "That makes sense.[lr]",
+      "jp": "　なるほど。[lr]",
+      "Pt-br": "Isso faz sentido.[lr]",
+      "id": 26077,
+      "epk_id": "31207",
+      "label": "$$$message_0234_0006_0000$$$"
+    },
+    {
+      "en": "...Well, if I can't see them, then no harm done.[lr]",
+      "jp": "　……まあ、見えない以上は害にはなるまい。[lr]",
+      "Pt-br": "...Bem, se não consigo vê-los, não há problema.[lr]",
+      "id": 26078,
+      "epk_id": "31208",
+      "label": "$$$message_0234_0006_0001$$$"
+    },
+    {
+      "en": "The only ghosts that can hurt humans are the ones that we can see.[lr]",
+      "jp": "　人間に害を与える幽霊がいるとすれば、それは人間に見えてしまう幽霊だけだ。[lr]",
+      "Pt-br": "Os únicos fantasmas que podem machucar humanos são os que conseguimos ver.[lr]",
+      "id": 26079,
+      "epk_id": "31209",
+      "label": "$$$message_0234_0006_0002$$$"
+    },
+    {
+      "en": "If they're invisible, then they won't pose a threat to my life, no matter what they are.",
+      "jp": "　姿が見えないのであれば、それが何であれ殺される事はないのである。",
+      "Pt-br": "Se estiverem invisíveis, não representarão ameaça à minha vida, sejam lá o que forem.",
+      "id": 26080,
+      "epk_id": "31210",
+      "label": "$$$message_0234_0006_0003$$$"
+    },
+    {
+      "en": "\"Try dying once, if you'd like to know more.[lr]",
+      "jp": "「知りたければ一度死んでみる事だ。[lr]",
+      "Pt-br": "\"Tente morrer uma vez, se quiser saber mais.[lr]",
+      "id": 26081,
+      "epk_id": "31211",
+      "label": "$$$message_0234_0007_0000$$$"
+    },
+    {
+      "en": "I'm sure the vixen would readily give you a quick death, if you ask.\"[lr]",
+      "jp": "　ここの女狐ならば、臨死程度二つ返事で引き受けると思うが？」[lr]",
+      "Pt-br": "Tenho certeza de que a raposa lhe daria uma morte rápida de bom grado, se você pedisse.\"[lr]",
+      "id": 26082,
+      "epk_id": "31212",
+      "label": "$$$message_0234_0007_0001$$$"
+    },
+    {
+      "en": "\"No thanks. I don't trust Caster as far as I can throw her.[lr]",
+      "jp": "「お断りだよ。キャスターは今一つ信用ならない。[lr]",
+      "Pt-br": "\"Dispenso. Não confio em Caster nem até onde consigo arremessá-la.[lr]",
+      "id": 26083,
+      "epk_id": "31213",
+      "label": "$$$message_0234_0007_0002$$$"
+    },
+    {
+      "en": "She might say yes at first out of goodwill, but I have a feeling she'd get a flash of evil inspiration midway and betray me on the altar.\"",
+      "jp": "　なんか、はじめは善意で引き受けてくれるけど、仕事中に悪知恵ひらめいて土壇場で裏切りそうな気がする」",
+      "Pt-br": "Ela talvez aceite no começo por boa vontade, mas sinto que teria um lampejo de inspiração maligna no meio do caminho e me trairia no altar.\"",
+      "id": 26084,
+      "epk_id": "31214",
+      "label": "$$$message_0234_0007_0003$$$"
+    },
+    {
+      "en": "\"I can't argue with that. You should be careful whenever she's dressed as a Servant.\"",
+      "jp": "「違いない。アレがサーヴァントの出で立ちをしている時は気をつけるがいい」",
+      "Pt-br": "\"Não posso discordar. Você deve tomar cuidado sempre que ela estiver vestida como Serva.\"",
+      "id": 26085,
+      "epk_id": "31215",
+      "label": "$$$message_0234_0008_0000$$$"
+    },
+    {
+      "en": "Caster's probably a good woman at heart.[lr]",
+      "jp": "　根はいい人だったんだろうなあ、キャスター。[lr]",
+      "Pt-br": "A Caster provavelmente é uma boa pessoa no fundo.[lr]",
+      "id": 26086,
+      "epk_id": "31216",
+      "label": "$$$message_0234_0009_0000$$$"
+    },
+    {
+      "en": "She's reformed now, but after living a life stained with treachery and dirty dealings, she still has moments when she smirks and slips back into witch mode.[wm canskip=0][wm canskip=0][wdash canskip=0][lr]",
+      "jp": "　けど長い日陰生活で陰湿さが染みついてしまい、改心した今でも悪女モードでにやりと笑う時があるのだ。[wm canskip=0][wm canskip=0][wdash canskip=0][lr]",
+      "Pt-br": "Ela se regenerou, mas, depois de viver uma vida manchada por traições e negócios sujos, ainda tem momentos em que sorri de lado e escorrega de volta para o modo bruxa.[wm canskip=0][wm canskip=0][wdash canskip=0][lr]",
+      "id": 26087,
+      "epk_id": "31217",
+      "label": "$$$message_0234_0009_0001$$$"
+    },
+    {
+      "en": "Among the Servants I shouldn't let my guard down around, [chgfg textoff=0 time=200 storage=ã­ã£ã¹ã¿ã¼ã­ã¼ãç¡ã02b(è¿)]she's got to be one of the riskiest.",
+      "jp": "　気を許してはならないランクで言うと、[chgfg textoff=0 time=200 storage=キャスターローブ無し02b(近)]サーヴァント中一位か二位なのである。",
+      "Pt-br": "Entre os Servos perto de quem não devo baixar a guarda, [chgfg textoff=0 time=200 storage=キャスターローブ無し02b(近)]ela certamente é uma das mais arriscadas.",
+      "id": 26088,
+      "epk_id": "31218",
+      "label": "$$$message_0234_0009_0002$$$"
+    },
+    {
+      "en": "\"But what business have you here tonight?[lr]",
+      "jp": "「しかし、今宵は何用だ？[lr]",
+      "Pt-br": "\"Mas o que o traz aqui esta noite?[lr]",
+      "id": 26089,
+      "epk_id": "31219",
+      "label": "$$$message_0234_0010_0000$$$"
+    },
+    {
+      "en": "I suggest you come back during daytime if it's something mundane. I may no longer be obligated to guard this gate, but her Command Spells still bind me. I can't stay my blade against any who would come at this hour.\"",
+      "jp": "　つまらぬ用向きなら昼にしろ。門番たる責務はないが、令呪の縛りは働いていてな。この時間に外から来る者には加減できん」",
+      "Pt-br": "Sugiro que volte durante o dia, se for algo mundano. Talvez eu já não seja obrigado a guardar este portão, mas os Selos de Comando dela ainda me prendem. Não posso conter minha lâmina contra quem aparece a esta hora.\"",
+      "id": 26090,
+      "epk_id": "31220",
+      "label": "$$$message_0234_0010_0001$$$"
+    },
+    {
+      "en": "\"Oh, I see. She used a Command Spell to make you stand guard here.\"[lr]",
+      "jp": "「あ、そうか。アンタ、令呪でここを守ってるんだっけ」[lr]",
+      "Pt-br": "\"Ah, entendi. Ela usou um Selo de Comando para te fazer ficar de guarda aqui.\"[lr]",
+      "id": 26091,
+      "epk_id": "31221",
+      "label": "$$$message_0234_0011_0000$$$"
+    },
+    {
+      "en": "This Servant was unrelated to the Holy Grail War, to begin with. Assassin's only role was to intercept enemies who attempted to breach the gate with his sword.[lr]",
+      "jp": "　始めからこのサーヴァントには聖杯戦争も何もないのである。アサシンはただ、この門を通ろうとする敵を迎撃する剣士なのだ。[lr]",
+      "Pt-br": "Para começo de conversa, esse Servo não tinha relação com a Guerra do Santo Graal. O único papel de Assassin era interceptar com sua espada os inimigos que tentassem atravessar o portão.[lr]",
+      "id": 26092,
+      "epk_id": "31222",
+      "label": "$$$message_0234_0011_0001$$$"
+    },
+    {
+      "en": "He wouldn't have anything to do with disturbances in town, nor would he care.",
+      "jp": "　町の異状なんて関係ないし、本人も興味はないだろう。",
+      "Pt-br": "Ele não teria nada a ver com distúrbios na cidade, nem se importaria.",
+      "id": 26093,
+      "epk_id": "31223",
+      "label": "$$$message_0234_0011_0002$$$"
+    },
+    {
+      "en": "\"...I'm leaving. Sorry for the intrusion.\"[lr]",
+      "jp": "「……帰るよ。退屈の邪魔をして済まなかった」[lr]",
+      "Pt-br": "\"...Vou embora. Desculpe a intromissão.\"[lr]",
+      "id": 26094,
+      "epk_id": "31224",
+      "label": "$$$message_0234_0012_0000$$$"
+    },
+    {
+      "en": "\"Oh, did you just come here to chat?\"",
+      "jp": "「なんだ、冷やかしであったのか？」",
+      "Pt-br": "\"Ah, você veio aqui só para conversar?\"",
+      "id": 26095,
+      "epk_id": "31225",
+      "label": "$$$message_0234_0012_0001$$$"
+    },
+    {
+      "en": "\"If you're just standing guard, then we're good.[lr]",
+      "jp": "「アンタが守ってるなら大丈夫。[lr]",
+      "Pt-br": "\"Se você só está de guarda, então está tudo bem.[lr]",
+      "id": 26096,
+      "epk_id": "31226",
+      "label": "$$$message_0234_0013_0000$$$"
+    },
+    {
+      "en": "I'll bring you a gift the next time I visit.\"[lr]",
+      "jp": "　今度来る時、覚えてたら土産でも持ってくるよ」[lr]",
+      "Pt-br": "Vou te trazer um presente na próxima vez que visitar.\"[lr]",
+      "id": 26097,
+      "epk_id": "31227",
+      "label": "$$$message_0234_0013_0001$$$"
+    },
+    {
+      "en": "I leave the mountain gate.",
+      "jp": "　山門を後にする。",
+      "Pt-br": "Deixo o portão da montanha.",
+      "id": 26098,
+      "epk_id": "31228",
+      "label": "$$$message_0234_0013_0002$$$"
+    },
+    {
+      "en": "\"Well, well. Then do come back with a pretty flower in hand[line len=2]no, make that two.[lr]",
+      "jp": "「それはそれは。ならば見目麗しい花を一つ、いや二つ所望しよう。[lr]",
+      "Pt-br": "\"Ora, ora. Então volte com uma bela flor em mãos[line len=2]não, melhor, com duas.[lr]",
+      "id": 26099,
+      "epk_id": "31229",
+      "label": "$$$message_0234_0014_0000$$$"
+    },
+    {
+      "en": "Not that I'm complaining, but it's rather disgraceful for a man to be alone on such a moonlit night.\"",
+      "jp": "　不満がある訳ではないが、こう月ばかりでは男がすたるというものだからな」",
+      "Pt-br": "Não que eu esteja reclamando, mas é um tanto vergonhoso para um homem estar sozinho numa noite tão enluarada.\"",
+      "id": 26100,
+      "epk_id": "31230",
+      "label": "$$$message_0234_0014_0001$$$"
+    },
+    {
+      "en": "I think he's asking me to bring Saber and Rider.[lr]",
+      "jp": "　セイバーとライダーを連れてこい、か。[lr]",
+      "Pt-br": "Acho que ele está me pedindo para trazer Saber e Rider.[lr]",
+      "id": 26101,
+      "epk_id": "31231",
+      "label": "$$$message_0234_0015_0000$$$"
+    },
+    {
+      "en": "I'm not sure whether to call him bold or bizarre.[lr]",
+      "jp": "　剛胆と言うか物好きと言うか。[lr]",
+      "Pt-br": "Não sei se devo chamá-lo de ousado ou bizarro.[lr]",
+      "id": 26102,
+      "epk_id": "31232",
+      "label": "$$$message_0234_0015_0001$$$"
+    },
+    {
+      "en": "He might be the only guy who'd make a pass at two Servants who used to be his mortal enemies.",
+      "jp": "　かつて敵だったサーヴァント二人にコナをかけようとするのはこの男ぐらいだろう。",
+      "Pt-br": "Ele talvez seja o único sujeito capaz de dar em cima de duas Servas que já foram suas inimigas mortais.",
+      "id": 26103,
+      "epk_id": "31233",
+      "label": "$$$message_0234_0015_0002$$$"
+    },
+    {
+      "en": "Though... I can relate.[lr]",
+      "jp": "　まあ[line len=3]そんな酔狂も無いとは言えない。[lr]",
+      "Pt-br": "Embora... eu entenda.[lr]",
+      "id": 26104,
+      "epk_id": "31234",
+      "label": "$$$message_0234_0016_0000$$$"
+    },
+    {
+      "en": "A beautiful springtime night like this might be a nice occasion for an evening party.",
+      "jp": "　季節が春で月が綺麗な晩なら、何かの間違いで、そんな夜会が開かれるかもしれないし。",
+      "Pt-br": "Uma bela noite primaveril como esta talvez fosse uma boa ocasião para uma festa ao luar.",
+      "id": 26105,
+      "epk_id": "31235",
+      "label": "$$$message_0234_0016_0001$$$"
+    },
+    {
+      "en": "\"Haha. I haven't seen any thieves, but others have passed through these gates. See? One just went right by you.\"[r]",
+      "jp": "「はは。[r]盗人はとんと見かけぬが、[r]違う者ならよく通るぞ。[r]そら、今もおまえの横を[r]通り過ぎた」:)`",
+      "Pt-br": "\"Haha. Não vi nenhum ladrão, mas outros passaram por estes portões. Viu? Um acabou de passar bem ao seu lado.\"[r]",
+      "id": 26106,
+      "epk_id": "931196",
+      "label": "$$$message_9234_0003_0000$$$"
+    }
+  ]
+}

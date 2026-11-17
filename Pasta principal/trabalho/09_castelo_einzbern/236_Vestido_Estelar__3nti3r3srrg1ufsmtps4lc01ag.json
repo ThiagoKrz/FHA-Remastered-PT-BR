@@ -1,0 +1,2936 @@
+{
+  "cena": "3nti3r3srrg1ufsmtps4lc01ag",
+  "titulo": "Vestido Estelar",
+  "rota": "Castelo Einzbern",
+  "arquivo": "3nti3r3srrg1ufsmtps4lc01ag.epk_dec",
+  "linhas": [
+    {
+      "en": "I head to the castle parlor.[lr]",
+      "jp": "　城の談話室に向かう。[lr]",
+      "Pt-br": "Vou para o salão do castelo.[lr]",
+      "id": 31931,
+      "epk_id": "18891",
+      "label": "$$$message_0146_0000_0000$$$"
+    },
+    {
+      "en": "The ceiling here is high and wide. Tohsaka and Sakura's mansions are impressive, no doubt, but this is on a different level.",
+      "jp": "　ここの天井は高くて幅がある。遠坂や桜の屋敷も洋館で大したモノだけど、レベルが一つ違う。",
+      "Pt-br": "O teto aqui é alto e amplo. As mansões de Tohsaka e Sakura são impressionantes, sem dúvida, mas isso está em outro nível.",
+      "id": 31932,
+      "epk_id": "18892",
+      "label": "$$$message_0146_0000_0001$$$"
+    },
+    {
+      "en": "\"...Wow.\"[lr]",
+      "jp": "「……うわ」[lr]",
+      "Pt-br": "\"...Impressionante.\"[lr]",
+      "id": 31933,
+      "epk_id": "18893",
+      "label": "$$$message_0146_0001_0000$$$"
+    },
+    {
+      "en": "I push open the heavy door and can't help but ooh and ahh.[lr]",
+      "jp": "　重い扉を押し開けて、思わず呻く。[lr]",
+      "Pt-br": "Eu puxo a pesada porta e não posso evitar de ooh e ahh.[lr]",
+      "id": 31934,
+      "epk_id": "18894",
+      "label": "$$$message_0146_0001_0001$$$"
+    },
+    {
+      "en": "What luxury. I feel like everything in here is built bigger, from the hallways to the rooms.",
+      "jp": "　なんという豪勢さ。廊下といい部屋といい、何もかも大きく出来ている気がする。",
+      "Pt-br": "Que luxo. Sinto que tudo aqui é construído maior, dos corredores até as salas.",
+      "id": 31935,
+      "epk_id": "18895",
+      "label": "$$$message_0146_0001_0002$$$"
+    },
+    {
+      "en": "I'd be able to throw an extravagant dinner party here.[lr]",
+      "jp": "　ここなら豪華な晩餐会が開けそうだ。[lr]",
+      "Pt-br": "Eu poderia organizar uma festa de jantar extravagante aqui.[lr]",
+      "id": 31936,
+      "epk_id": "18896",
+      "label": "$$$message_0146_0002_0000$$$"
+    },
+    {
+      "en": "Of course, it's only used as a branch castle for the Holy Grail War, and mages wouldn't enjoy socializing. What a waste.",
+      "jp": "　もっとも聖杯戦争の出城にしか使ってないというし、魔術師が社交を[ruby text=たしな]嗜んだりしないだろう。ずいぶんともったいない話である。",
+      "Pt-br": "Claro, ele só é usado como castelo secundário na Guerra do Santo Graal, e magos não são muito dados a socializar. Que desperdício.",
+      "id": 31937,
+      "epk_id": "18897",
+      "label": "$$$message_0146_0002_0001$$$"
+    },
+    {
+      "en": "\"...Oh, yeah.\"[lr]",
+      "jp": "「[line len=3]あ、そうだ」[lr]",
+      "Pt-br": "\"...Ah, sim.\"[lr]",
+      "id": 31938,
+      "epk_id": "18898",
+      "label": "$$$message_0146_0003_0000$$$"
+    },
+    {
+      "en": "I see the brilliant, sparkling chandelier and remember something.[lr]",
+      "jp": "　[ruby text=さんぜん char=2]燦然と輝くシャンデリアを見て思い出した。[lr]",
+      "Pt-br": "Entendi o chandelier brilhante e reluzente e me lembro de algo.[lr]",
+      "id": 31939,
+      "epk_id": "18899",
+      "label": "$$$message_0146_0003_0001$$$"
+    },
+    {
+      "en": "Sakura was saying that she wanted to eat somewhere fancy.[lr]",
+      "jp": "　桜が言ってたな、いつか豪華な所で食事がしたいって。[lr]",
+      "Pt-br": "Sakura estava dizendo que queria comer em algum lugar sofisticado.[lr]",
+      "id": 31940,
+      "epk_id": "18900",
+      "label": "$$$message_0146_0003_0002$$$"
+    },
+    {
+      "en": "This castle would be exactly what she wished for.",
+      "jp": "　この城なら望んだり叶ったりなシチュエーションではないか。",
+      "Pt-br": "Este castelo seria exatamente o que ela desejava.",
+      "id": 31941,
+      "epk_id": "18901",
+      "label": "$$$message_0146_0003_0003$$$"
+    },
+    {
+      "en": "\"...In that case...\"[lr]",
+      "jp": "「……そうなるとだな」[lr]",
+      "Pt-br": "\"...Nesse caso...\"[lr]",
+      "id": 31942,
+      "epk_id": "18902",
+      "label": "$$$message_0146_0004_0000$$$"
+    },
+    {
+      "en": "It would be best to consult the owner here.",
+      "jp": "　そういう事はここの主に相談するのが一番だ。",
+      "Pt-br": "Seria melhor consultar o dono aqui.",
+      "id": 31943,
+      "epk_id": "18903",
+      "label": "$$$message_0146_0004_0001$$$"
+    },
+    {
+      "en": "\"...Wait, how am I supposed to consult her, do I ask her to let me borrow her dining hall?\"[lr]",
+      "jp": "「……って、どう相談すればいいんだ？　食堂を貸してくれとでも言うのか？」[lr]",
+      "Pt-br": "\"...Espere, como eu deveria consultá-la? Devo pedir que me empreste sua sala de jantar?\"[lr]",
+      "id": 31944,
+      "epk_id": "18904",
+      "label": "$$$message_0146_0005_0000$$$"
+    },
+    {
+      "en": "My objective is to have dinner with Sakura.[lr]",
+      "jp": "　その目的は桜との夕食である。[lr]",
+      "Pt-br": "Meu objetivo é jantar com Sakura.[lr]",
+      "id": 31945,
+      "epk_id": "18905",
+      "label": "$$$message_0146_0005_0001$$$"
+    },
+    {
+      "en": "Even if Illya is nice to Sakura, would she readily agree...?",
+      "jp": "　……さて。どことなく桜に甘いイリヤでも、そう簡単にオーケーを出してくれるだろうか……？",
+      "Pt-br": "Mesmo que Illya seja gentil com Sakura, ela concordaria facilmente...?",
+      "id": 31946,
+      "epk_id": "18906",
+      "label": "$$$message_0146_0005_0002$$$"
+    },
+    {
+      "en": "\"Illya, are you there?\"[lr]",
+      "jp": "「イリヤ、居るか？」[lr]",
+      "Pt-br": "\"Illya, você está aí?\"[lr]",
+      "id": 31947,
+      "epk_id": "18907",
+      "label": "$$$message_0146_0006_0000$$$"
+    },
+    {
+      "en": "\"Shirou? Yeah, come in.\"",
+      "jp": "「シロウ？　いいわよ、入って」",
+      "Pt-br": "\"Shirou? Sim, entre.\"",
+      "id": 31948,
+      "epk_id": "18908",
+      "label": "$$$message_0146_0006_0001$$$"
+    },
+    {
+      "en": "I go in her room, worrying about how I should bring it up.[lr]",
+      "jp": "　なんと話を切り出そうか、悩みながら部屋に入る。[lr]",
+      "Pt-br": "Vou até o quarto dela, preocupado com como devo abordar o assunto.[lr]",
+      "id": 31949,
+      "epk_id": "18909",
+      "label": "$$$message_0146_0007_0000$$$"
+    },
+    {
+      "en": "\"What's wrong, Shirou? Did you get lost and forget where the bathroom is?\"[lr]",
+      "jp": "「どうしたのシロウ？　迷ってお手洗いが何処にあるのかわからなくなったとか？」[lr]",
+      "Pt-br": "\"O que há de errado, Shirou? Perdeu-se e esqueceu onde fica o banheiro?\"[lr]",
+      "id": 31950,
+      "epk_id": "18910",
+      "label": "$$$message_0146_0007_0001$$$"
+    },
+    {
+      "en": "\"I do remember... No, that's not why I'm here.\"",
+      "jp": "「一応覚えている……いや、そんな話じゃなくてだな、イリヤ」",
+      "Pt-br": "\"Eu me lembro... Não, isso não é o motivo pelo qual estou aqui.\"",
+      "id": 31951,
+      "epk_id": "18911",
+      "label": "$$$message_0146_0007_0002$$$"
+    },
+    {
+      "en": "\"Okay, then what is it?\"[lr]",
+      "jp": "「うん、なになに？　シロウ」[lr]",
+      "Pt-br": "\"Então, o que é?\"[lr]",
+      "id": 31952,
+      "epk_id": "18912",
+      "label": "$$$message_0146_0008_0000$$$"
+    },
+    {
+      "en": "\"Um, well. I know how rude this might sound, but...\"",
+      "jp": "「その、なんだ。こんな事を聞くのは失礼なんだと承知しているんだが」",
+      "Pt-br": "\"Um, bem. Eu sei que isso pode soar rude, mas...\"",
+      "id": 31953,
+      "epk_id": "18913",
+      "label": "$$$message_0146_0008_0001$$$"
+    },
+    {
+      "en": "...It isn't smart to get right to the point.[lr]",
+      "jp": "　……いきなり本題に入るのは上手くない。[lr]",
+      "Pt-br": "...Não é inteligente chegar diretamente ao ponto.[lr]",
+      "id": 31954,
+      "epk_id": "18914",
+      "label": "$$$message_0146_0009_0000$$$"
+    },
+    {
+      "en": "But it's also not good to lie to Illya either, so I should ask her straight.",
+      "jp": "　上手くないのだが、イリヤに嘘を言うのもなんだし、ここはズバっと切り込むべきだろう。",
+      "Pt-br": "Mas também não é bom mentir para a Illya, então devo perguntar diretamente.",
+      "id": 31955,
+      "epk_id": "18915",
+      "label": "$$$message_0146_0009_0001$$$"
+    },
+    {
+      "en": "\"Okay? I already know that you're not very polite.\"[lr]",
+      "jp": "「いいわよ？　シロウがあんまり行儀正しくないコトはもう知ってるから」[lr]",
+      "Pt-br": "\"Okay? Já sei que você não é muito educado.\"[lr]",
+      "id": 31956,
+      "epk_id": "18916",
+      "label": "$$$message_0146_0010_0000$$$"
+    },
+    {
+      "en": "\"...I'm glad to hear that. Um, you know how this is a castle?\"",
+      "jp": "「………そう言ってもらえると助かる。その、ここってお城じゃないか」",
+      "Pt-br": "\"...Fico feliz em ouvir isso. Um, você sabe como isso é um castelo?\"",
+      "id": 31957,
+      "epk_id": "18917",
+      "label": "$$$message_0146_0010_0001$$$"
+    },
+    {
+      "en": "\"Yes. What about it?\"[lr]",
+      "jp": "「ええ。それがどうかした？」[lr]",
+      "Pt-br": "\"Sim. E então?\"[lr]",
+      "id": 31958,
+      "epk_id": "18918",
+      "label": "$$$message_0146_0011_0000$$$"
+    },
+    {
+      "en": "\"Well, I know it's sudden, but I was hoping to have a private dinner here.\"",
+      "jp": "「ああ。唐突なんだけど、ここで、出来れば二人っきりで夕食がしたいな、と」",
+      "Pt-br": "\"Bem, sei que é repentino, mas estava esperando jantar aqui sozinho.\"",
+      "id": 31959,
+      "epk_id": "18919",
+      "label": "$$$message_0146_0011_0001$$$"
+    },
+    {
+      "en": "\"......\"[lr]",
+      "jp": "「[line len=8]」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 31960,
+      "epk_id": "18920",
+      "label": "$$$message_0146_0012_0000$$$"
+    },
+    {
+      "en": "\"With Sakura, though.\"",
+      "jp": "「桜と、なんだけど」",
+      "Pt-br": "\"Com Sakura, porém.\"",
+      "id": 31961,
+      "epk_id": "18921",
+      "label": "$$$message_0146_0012_0001$$$"
+    },
+    {
+      "en": "Talk about a 180.[lr]",
+      "jp": "　まさに急転直下。[lr]",
+      "Pt-br": "Fale sobre um 180.[lr]",
+      "id": 31962,
+      "epk_id": "18922",
+      "label": "$$$message_0146_0013_0000$$$"
+    },
+    {
+      "en": "Illya suddenly turns into a rabbit that doesn't want anyone to play with it.",
+      "jp": "　もう誰もかまわないでください、とアピールするドクウサギみたいな生き物になってしまった。",
+      "Pt-br": "Illya se transforma subitamente em uma coelha que não quer que ninguém brinque com ela.",
+      "id": 31963,
+      "epk_id": "18923",
+      "label": "$$$message_0146_0013_0001$$$"
+    },
+    {
+      "en": "\"Hmph... [wm canskip=0]A date with Sakura at the castle? Why?\"[lr]",
+      "jp": "「ふーん……[wm canskip=0]桜とお城でデート？　どうしてなの？」[lr]",
+      "Pt-br": "\"Hmmf... [wm canskip=0] Uma data com Sakura no castelo? Por quê?\"[lr]",
+      "id": 31964,
+      "epk_id": "18924",
+      "label": "$$$message_0146_0014_0000$$$"
+    },
+    {
+      "en": "\"Date...? I guess it's a date. These things are dates, huh? Well, it's vague when putting it into words, but if you're okay with it.\"",
+      "jp": "「デート……？　……そうかデートか。こういうのってデートだよな。いや、話にすると曖昧なんだけど、それで良ければ」",
+      "Pt-br": "\"Data...? Acho que é uma data. Essas coisas são datas, né? Bem, é vago quando se tenta expressar em palavras, mas se você estiver de acordo com isso.\"",
+      "id": 31965,
+      "epk_id": "18925",
+      "label": "$$$message_0146_0014_0001$$$"
+    },
+    {
+      "en": "\"I don't mind.[lr]",
+      "jp": "「かまわないわ。[lr]",
+      "Pt-br": "\"Não importa.[lr]",
+      "id": 31966,
+      "epk_id": "18926",
+      "label": "$$$message_0146_0015_0000$$$"
+    },
+    {
+      "en": "Sit down, Shirou.\"[lr]",
+      "jp": "　そこに座りなさいシロウ」[lr]",
+      "Pt-br": "Assente, Shirou.\"[lr]",
+      "id": 31967,
+      "epk_id": "18927",
+      "label": "$$$message_0146_0015_0001$$$"
+    },
+    {
+      "en": "Intimidated, I sit in the chair.",
+      "jp": "　はい、と迫力負けして椅子に座る。",
+      "Pt-br": "Intimidado, fico sentado na cadeira.",
+      "id": 31968,
+      "epk_id": "18928",
+      "label": "$$$message_0146_0015_0002$$$"
+    },
+    {
+      "en": "\"It was just a small promise I made her.[lr]",
+      "jp": "「桜とのちょっとした約束事だったんだ。[lr]",
+      "Pt-br": "\"Foi apenas uma pequena promessa que fiz para ela.[lr]",
+      "id": 31969,
+      "epk_id": "18929",
+      "label": "$$$message_0146_0016_0000$$$"
+    },
+    {
+      "en": "She was saying that she wants to dress up and eat at a fancy place together someday. And thinking about it, there's nowhere fancier than here.\"[lr]",
+      "jp": "　いつか一緒に豪華な場所で、着飾ってご飯を食べたいって。で、考えてみるとここ以上に豪華な場所はなくてだな」[lr]",
+      "Pt-br": "Ela estava dizendo que queria se arrumar e comer em um lugar sofisticado juntos um dia. E pensando nisso, não há lugar mais sofisticado do que aqui.\"[lr]",
+      "id": 31970,
+      "epk_id": "18930",
+      "label": "$$$message_0146_0016_0001$$$"
+    },
+    {
+      "en": "\"Really? This is just a vacation home, so it's plain.\"[lr]",
+      "jp": "「そう？　ここは別邸だから質素なものだけど」[lr]",
+      "Pt-br": "\"Sério? É só uma casa de veraneio, então ela é bem simples.\"[lr]",
+      "id": 31971,
+      "epk_id": "18931",
+      "label": "$$$message_0146_0016_0002$$$"
+    },
+    {
+      "en": "...Guh.[lr]",
+      "jp": "　……ぐっ。[lr]",
+      "Pt-br": "...Hmm.[lr]",
+      "id": 31972,
+      "epk_id": "18932",
+      "label": "$$$message_0146_0016_0003$$$"
+    },
+    {
+      "en": "If this is plain to her, then I wonder how she'd rate my house.",
+      "jp": "　これが質素だったら、俺の家を採点したらどうなることか。",
+      "Pt-br": "Se isso é claro para ela, então me pergunto como ela avaliaria minha casa.",
+      "id": 31973,
+      "epk_id": "18933",
+      "label": "$$$message_0146_0016_0004$$$"
+    },
+    {
+      "en": "\"No, it's plenty fancy. I think it's the most extravagant castle in all of Japan, not just Fuyuki.\"[lr]",
+      "jp": "「いや、十分に豪華だ。冬木どころか日本で一番豪華なお城ではないかと」[lr]",
+      "Pt-br": "\"Não, isso já é bastante elegante. Acho que é o castelo mais extravagante de todo o Japão, não só de Fuyuki.\"[lr]",
+      "id": 31974,
+      "epk_id": "18934",
+      "label": "$$$message_0146_0017_0000$$$"
+    },
+    {
+      "en": "I press forward without any flattery.[lr]",
+      "jp": "　お世辞抜きで進言する。[lr]",
+      "Pt-br": "Avanço sem elogios.[lr]",
+      "id": 31975,
+      "epk_id": "18935",
+      "label": "$$$message_0146_0017_0001$$$"
+    },
+    {
+      "en": "Praise toward the castle must not mean anything, as Illya seems to be deep in thought.",
+      "jp": "　城への賛美などどうでもいいのか、イリヤはふーん、と何やら考え込んでいる模様。",
+      "Pt-br": "Elogios ao castelo não devem significar nada, já que Illya parece estar profundamente imersa em pensamentos.",
+      "id": 31976,
+      "epk_id": "18936",
+      "label": "$$$message_0146_0017_0002$$$"
+    },
+    {
+      "en": "\"I see, Sakura... [cacheimage storage=イリヤ11a(中)][wvl][chgfg storage=イリヤ11a(中) time=300 textoff=0]The location is fine, but how are you going to dress up?\"[lr]",
+      "jp": "「なるほどね、サクラね……[cacheimage storage=イリヤ11a(中)][wvl][chgfg storage=イリヤ11a(中) time=300 textoff=0]場所は良いけど、着飾るって言うのはどうするの？」[lr]",
+      "Pt-br": "\"Entendi, Sakura... [cacheimage storage=イリヤ11a(中)][wvl][chgfg storage=イリヤ11a(中) time=300 textoff=0]O local está bom, mas como você vai se vestir?\"[lr]",
+      "id": 31977,
+      "epk_id": "18937",
+      "label": "$$$message_0146_0018_0000$$$"
+    },
+    {
+      "en": "\"Oh. Well, I don't know yet.\"[lr]",
+      "jp": "「あ。いや、そっちは全然」[lr]",
+      "Pt-br": "\"Oh. Bem, ainda não sei.\"[lr]",
+      "id": 31978,
+      "epk_id": "18938",
+      "label": "$$$message_0146_0018_0001$$$"
+    },
+    {
+      "en": "I assumed I could discuss the other details with Sakura once I have secured a location.",
+      "jp": "　とりあえず場所さえ何とかなれば、桜と相談して衣装の段取りまで整えればいいのかなー、と。",
+      "Pt-br": "Assumia que poderia discutir os outros detalhes com Sakura assim que tivesse garantido um local.",
+      "id": 31979,
+      "epk_id": "18939",
+      "label": "$$$message_0146_0018_0002$$$"
+    },
+    {
+      "en": "\"...[chgfg storage=イリヤ01c(中) time=200 textoff=0][say storage=makyo15_iri_0100 name=イリヤ]So, it was on a whim.\"[lr]",
+      "jp": "「…………[chgfg storage=イリヤ01c(中) time=200 textoff=0][say storage=makyo15_iri_0100 name=イリヤ]つまり、思いつきな訳ね」[lr]",
+      "Pt-br": "\"...[chgfg storage=イリヤ01c(中) time=200 textoff=0][say storage=makyo15_iri_0100 name=イリヤ]Então, foi por vontade própria.\"[lr]",
+      "id": 31980,
+      "epk_id": "18940",
+      "label": "$$$message_0146_0019_0000$$$"
+    },
+    {
+      "en": "\"Yeah. Sorry.\"[lr]",
+      "jp": "「いやもう、ホントに。申し訳ない」[lr]",
+      "Pt-br": "\"É. Desculpe.\"[lr]",
+      "id": 31981,
+      "epk_id": "18941",
+      "label": "$$$message_0146_0019_0001$$$"
+    },
+    {
+      "en": "\"Haah, that's so like you, Shirou... [cacheimage storage=イリヤ11c(中)][wvl][chgfg storage=イリヤ11c(中) time=200 textoff=0]Sakura's going to dress up, huh?\"",
+      "jp": "「はぁ、その辺はシロウらしいわね……[cacheimage storage=イリヤ11c(中)][wvl][chgfg storage=イリヤ11c(中) time=200 textoff=0]ふうん、サクラをおめかしねぇ」",
+      "Pt-br": "\"Haah, isso é tão você, Shirou... [cacheimage storage=イリヤ11c(中)][wvl][chgfg storage=イリヤ11c(中) time=200 textoff=0]Sakura vai se arrumar, né?\"",
+      "id": 31982,
+      "epk_id": "18942",
+      "label": "$$$message_0146_0019_0002$$$"
+    },
+    {
+      "en": "Illya contemplates it, hands clasped behind her back.",
+      "jp": "　イリヤは腕を背中に回して考えて込んでいる。",
+      "Pt-br": "Illya o reflete, mãos cruzadas atrás das costas.",
+      "id": 31983,
+      "epk_id": "18943",
+      "label": "$$$message_0146_0020_0000$$$"
+    },
+    {
+      "en": "\"Yeah, I'll have to do something about you two.\"[lr]",
+      "jp": "「うん、やっぱりこの二人ならわたしがちゃんとしてあげなきゃ駄目よね」[lr]",
+      "Pt-br": "\"Vou ter que fazer algo com vocês dois.\"[lr]",
+      "id": 31984,
+      "epk_id": "18944",
+      "label": "$$$message_0146_0021_0000$$$"
+    },
+    {
+      "en": "\"...Meaning?\"",
+      "jp": "「…………というと？」",
+      "Pt-br": "\"...Significado?\"",
+      "id": 31985,
+      "epk_id": "18945",
+      "label": "$$$message_0146_0021_0001$$$"
+    },
+    {
+      "en": "\"A date with Rin would be out of the question.[lr]",
+      "jp": "「これがリンとのデートだったら論外だったけど。[lr]",
+      "Pt-br": "\"Um encontro com Rin seria fora de questão.[lr]",
+      "id": 31986,
+      "epk_id": "18946",
+      "label": "$$$message_0146_0022_0000$$$"
+    },
+    {
+      "en": "But I'll make an allowance for Sakura.[lr]",
+      "jp": "　ま、サクラなら少しは話に乗ってあげてもいいわ。[lr]",
+      "Pt-br": "Mas farei uma exceção por Sakura.[lr]",
+      "id": 31987,
+      "epk_id": "18947",
+      "label": "$$$message_0146_0022_0001$$$"
+    },
+    {
+      "en": "Besides...\"",
+      "jp": "　それにぃ」",
+      "Pt-br": "Além disso...\"",
+      "id": 31988,
+      "epk_id": "18948",
+      "label": "$$$message_0146_0022_0002$$$"
+    },
+    {
+      "en": "\"I need to support Sakura, [cacheimage storage=イリヤ11a(中)][wvl][chgfg time=300 storage=イリヤ11a(中) textoff=0]and I need to look after you.[lr]",
+      "jp": "「やっぱりサクラはわたしが応援してあげないといけないし、[cacheimage storage=イリヤ11a(中)][wvl][chgfg time=300 storage=イリヤ11a(中) textoff=0]シロウはわたしがちゃんと面倒を見てあげないと。[lr]",
+      "Pt-br": "\"Preciso apoiar Sakura, [cacheimage storage=イリヤ11a(中)][wvl][chgfg time=300 storage=イリヤ11a(中) textoff=0]e preciso cuidar de você.[lr]",
+      "id": 31989,
+      "epk_id": "18949",
+      "label": "$$$message_0146_0023_0000$$$"
+    },
+    {
+      "en": "Right, Big Brother?\"",
+      "jp": "　ね？　お兄ちゃん」",
+      "Pt-br": "Né, Onii-chan?\"",
+      "id": 31990,
+      "epk_id": "18950",
+      "label": "$$$message_0146_0023_0001$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「[line len=6]」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 31991,
+      "epk_id": "18951",
+      "label": "$$$message_0146_0024_0000$$$"
+    },
+    {
+      "en": "Wahh, I'm such a pathetic big brother.[lr]",
+      "jp": "　うう、なんとデキの悪い兄貴なのか。[lr]",
+      "Pt-br": "Aah, que aniki imprestável eu sou.[lr]",
+      "id": 31992,
+      "epk_id": "18952",
+      "label": "$$$message_0146_0024_0001$$$"
+    },
+    {
+      "en": "But Illya's the only one I can ask.[lr]",
+      "jp": "　しかしこんな事、他の誰にも頼めない。[lr]",
+      "Pt-br": "Mas é a única que posso perguntar.[lr]",
+      "id": 31993,
+      "epk_id": "18953",
+      "label": "$$$message_0146_0024_0002$$$"
+    },
+    {
+      "en": "I'll humbly accept the label and ask my noble little sister for help.",
+      "jp": "　ここはダメ兄貴の烙印を謹んで受け、立派な妹にお願いするのだ。",
+      "Pt-br": "Aceitarei humildemente o rótulo e pedirei ajuda à minha nobre irmãzinha.",
+      "id": 31994,
+      "epk_id": "18954",
+      "label": "$$$message_0146_0024_0003$$$"
+    },
+    {
+      "en": "\"So, does that mean it's okay?\"[lr]",
+      "jp": "「それは、つまりＯＫってことか？」[lr]",
+      "Pt-br": "\"Então, isso significa que está tudo bem?\"[lr]",
+      "id": 31995,
+      "epk_id": "18955",
+      "label": "$$$message_0146_0025_0000$$$"
+    },
+    {
+      "en": "\"Yeah, then let's hold a dinner party tonight.[lr]",
+      "jp": "「うん、それなら今晩は晩餐会にしましょう。[lr]",
+      "Pt-br": "\"Então, vamos fazer uma festa de jantar hoje à noite.[lr]",
+      "id": 31996,
+      "epk_id": "18956",
+      "label": "$$$message_0146_0025_0001$$$"
+    },
+    {
+      "en": "I should have some dresses, so I'll lend them to her.\"[lr]",
+      "jp": "　衣装もドレスが何着かあったはずだから、それを貸してあげるわ」[lr]",
+      "Pt-br": "Devo ter alguns vestidos, então empresto para ela.\"[lr]",
+      "id": 31997,
+      "epk_id": "18957",
+      "label": "$$$message_0146_0025_0002$$$"
+    },
+    {
+      "en": "\"Really!?\"",
+      "jp": "「本当か！？」",
+      "Pt-br": "\"Sério!?\"",
+      "id": 31998,
+      "epk_id": "18958",
+      "label": "$$$message_0146_0025_0003$$$"
+    },
+    {
+      "en": "The conversation takes a sudden turn and we come to an agreement.[lr]",
+      "jp": "　急転直下でお話がまとまっていく。[lr]",
+      "Pt-br": "A conversa dá uma virada inesperada e chegamos a um acordo.[lr]",
+      "id": 31999,
+      "epk_id": "18959",
+      "label": "$$$message_0146_0026_0000$$$"
+    },
+    {
+      "en": "I see, so there are dresses in this castle. That would also solve the issue of dressing up.",
+      "jp": "　そうか、ドレスがこの城にはあるのか。それなら着飾ってという点もクリアできる。",
+      "Pt-br": "Entendi, então há vestidos neste castelo. Isso resolveria também o problema de se vestir.",
+      "id": 32000,
+      "epk_id": "18960",
+      "label": "$$$message_0146_0026_0001$$$"
+    },
+    {
+      "en": "Thank you, Illya...! I'm so happy I want to lift her up and hug her, but...[lr]",
+      "jp": "　ありがとうイリヤ[line len=3]と抱き上げたいほど嬉しかった、のだが。[lr]",
+      "Pt-br": "Obrigado, Illya...! Estou tão feliz que quero levantar ela e abraçar, mas...[lr]",
+      "id": 32001,
+      "epk_id": "18961",
+      "label": "$$$message_0146_0027_0000$$$"
+    },
+    {
+      "en": "...Illya is chuckling strangely.",
+      "jp": "　……なんか、イリヤが妙な含み笑いを浮かべている。",
+      "Pt-br": "...Illya está rindo de forma estranha.",
+      "id": 32002,
+      "epk_id": "18962",
+      "label": "$$$message_0146_0027_0001$$$"
+    },
+    {
+      "en": "\"...Did I do something weird?\"[lr]",
+      "jp": "「……俺、変なコトしたか？」[lr]",
+      "Pt-br": "\"...Fiz algo estranho?\"[lr]",
+      "id": 32003,
+      "epk_id": "18963",
+      "label": "$$$message_0146_0028_0000$$$"
+    },
+    {
+      "en": "\"Heheh, oh, you still haven't noticed, Shirou?\"[cacheimage storage=イリヤ11a(近)][wvs][fg opacity=0 left=610 index=2000 top=155 time=200 storage=イリヤ11a(近) textoff=0][lr]",
+      "jp": "「ふふーん、なんだシロウ、まだ気が付いてないの？」[cacheimage storage=イリヤ11a(近)][wvs][fg opacity=0 left=610 index=2000 top=155 time=200 storage=イリヤ11a(近) textoff=0][lr]",
+      "Pt-br": "\"Heheh, oh, você ainda não notou, Shirou?\"[cacheimage storage=イリヤ11a(近)][wvs][fg opacity=0 left=610 index=2000 top=155 time=200 storage=イリヤ11a(近) textoff=0][lr]",
+      "id": 32004,
+      "epk_id": "18964",
+      "label": "$$$message_0146_0028_0001$$$"
+    },
+    {
+      "en": "\"Noticed what?\"[lr]",
+      "jp": "「何が？」[lr]",
+      "Pt-br": "\"Percebeu o quê?\"[lr]",
+      "id": 32005,
+      "epk_id": "18965",
+      "label": "$$$message_0146_0028_0002$$$"
+    },
+    {
+      "en": "Illya circles around me and observes me.[wm canskip=0][lr]",
+      "jp": "　イリヤがぐるぐると俺の周りで観察する。[wm canskip=0][lr]",
+      "Pt-br": "Illya dá voltas ao meu redor e me observa.[wm canskip=0][lr]",
+      "id": 32006,
+      "epk_id": "18966",
+      "label": "$$$message_0146_0028_0003$$$"
+    },
+    {
+      "en": "[move time=100 path=(509,185,255)(488,202,255)(471,196,255)(360,165,255)(265,189,255)(253,199,255)(231,155,255) storage=イリヤ11a(近) accel=-2 spline=1 textoff=0]...I get a bad feeling from her laugh.[wm canskip=0]",
+      "jp": "　[move time=100 path=(509,185,255)(488,202,255)(471,196,255)(360,165,255)(265,189,255)(253,199,255)(231,155,255) storage=イリヤ11a(近) accel=-2 spline=1 textoff=0]……その笑いに、どこか妙な胸騒ぎを覚える。[wm canskip=0]",
+      "Pt-br": "[move time=100 path=(509,185,255)(488,202,255)(471,196,255)(360,165,255)(265,189,255)(253,199,255)(231,155,255) storage=イリヤ11a(近) accel=-2 spline=1 textoff=0]...Tenho uma sensação ruim com o riso dela.[wm canskip=0]",
+      "id": 32007,
+      "epk_id": "18967",
+      "label": "$$$message_0146_0028_0004$$$"
+    },
+    {
+      "en": "\"Shirou? Do you plan to attend my dinner party like that?\"[lr]",
+      "jp": "「シロウ？　貴方その格好で我が家の晩餐会に出席するおつもり？」[lr]",
+      "Pt-br": "\"Shirou? Você vai comparecer à minha festa de jantar assim?\"[lr]",
+      "id": 32008,
+      "epk_id": "18968",
+      "label": "$$$message_0146_0029_0000$$$"
+    },
+    {
+      "en": "\"Huh?\"[lr]",
+      "jp": "「？」[lr]",
+      "Pt-br": "\"Hmm?\"[lr]",
+      "id": 32009,
+      "epk_id": "18969",
+      "label": "$$$message_0146_0029_0001$$$"
+    },
+    {
+      "en": "Of course I plan to wear something decent for a meal like that[line len=2]I think to myself and check my own outfit.[lr]",
+      "jp": "　そりゃ食事だろうとそれなりの格好を[line len=2]って思って自分の服装を確かめる。[lr]",
+      "Pt-br": "Claro que planejo usar algo decente para um jantar assim.[line len=2]Penso para mim mesmo e verifico o meu próprio traje.[lr]",
+      "id": 32010,
+      "epk_id": "18970",
+      "label": "$$$message_0146_0029_0002$$$"
+    },
+    {
+      "en": "A sweatshirt, jeans, and sneakers...",
+      "jp": "　トレーナーにジーンズにスニーカー……。",
+      "Pt-br": "Um casaco de moletom, jeans e tênis...",
+      "id": 32011,
+      "epk_id": "18971",
+      "label": "$$$message_0146_0029_0003$$$"
+    },
+    {
+      "en": "\"Do I have to change, too!?\"[lr]",
+      "jp": "「まさか、俺も着替えないといけないのか！？」[lr]",
+      "Pt-br": "\"Tenho que mudar também!?\"[lr]",
+      "id": 32012,
+      "epk_id": "18972",
+      "label": "$$$message_0146_0030_0000$$$"
+    },
+    {
+      "en": "\"Don't get surprised now. It's meaningless if Sakura is in a dress and you're like that, right?\"",
+      "jp": "「今更びっくりしないの。サクラがドレスでシロウがその格好だったら意味がないでしょう？」",
+      "Pt-br": "\"Não se surpreenda agora. É sem sentido se Sakura estiver de vestido e você é assim, certo?\"",
+      "id": 32013,
+      "epk_id": "18973",
+      "label": "$$$message_0146_0030_0001$$$"
+    },
+    {
+      "en": "\"Well, I'm fine...\"[lr]",
+      "jp": "「いや、俺はいいから、そんなことは」[lr]",
+      "Pt-br": "\"Bem, estou bem...\"[lr]",
+      "id": 32014,
+      "epk_id": "18974",
+      "label": "$$$message_0146_0031_0000$$$"
+    },
+    {
+      "en": "I don't even own any suits.[lr]",
+      "jp": "　そもそもスーツなんて持っていない。[lr]",
+      "Pt-br": "Eu nem tenho nenhum terno.[lr]",
+      "id": 32015,
+      "epk_id": "18975",
+      "label": "$$$message_0146_0031_0001$$$"
+    },
+    {
+      "en": "Should I just wear my school uniform? That would at least look better.",
+      "jp": "　いっそ穂群原の制服を着てくるか？　そっちの方がなんとか格好つく。",
+      "Pt-br": "Devo usar minha uniforme escolar? Pelo menos pareceria melhor.",
+      "id": 32016,
+      "epk_id": "18976",
+      "label": "$$$message_0146_0031_0002$$$"
+    },
+    {
+      "en": "\"Hey, Shirou. I said yes because, just like how you want to dress Sakura up, [cacheimage storage=イリヤ01f(近)][wvl][chgfg time=200 storage=イリヤ01f(近) textoff=0]I also want to play dress-up with you.\"",
+      "jp": "「ねぇシロウ？　わたしがオーケーしたのは、シロウがサクラを着飾らせたいと思ったように、[cacheimage storage=イリヤ01f(近)][wvl][chgfg time=200 storage=イリヤ01f(近) textoff=0]わたしもシロウで着せ替えしてみたいなって思ったからだよ？」",
+      "Pt-br": "\"Hey, Shirou. Diz que sim porque, assim como você quer vestir a Sakura, [cacheimage storage=イリヤ01f(近)][wvl][chgfg time=200 storage=イリヤ01f(近) textoff=0]quero também brincar de vestir você.\"",
+      "id": 32017,
+      "epk_id": "18977",
+      "label": "$$$message_0146_0032_0000$$$"
+    },
+    {
+      "en": "Illya laughs jovially.[lr]",
+      "jp": "　楽しげに笑うイリヤ。[lr]",
+      "Pt-br": "Illya riu de forma jovial.[lr]",
+      "id": 32018,
+      "epk_id": "18978",
+      "label": "$$$message_0146_0033_0000$$$"
+    },
+    {
+      "en": "She's giving off that vibe like she's going to put my consciousness into a strange container and play with it... Did I dig my own grave?",
+      "jp": "　今から俺の意識を奇妙な容器に入れて弄ぶ、というような雰囲気の……もしかして、墓穴を掘った？",
+      "Pt-br": "Ela está emanando aquela vibe como se fosse colocar minha consciência em um container estranho e brincar com ela... Eu me enterraria sozinho?",
+      "id": 32019,
+      "epk_id": "18979",
+      "label": "$$$message_0146_0033_0001$$$"
+    },
+    {
+      "en": "\"Shirou, I'm not telling you to wear palace attire to my dinner party, but I need you to at least show a modicum of manners.\"[lr]",
+      "jp": "「シロウ？　我が家の晩餐会には宮廷衣装で来いとは言わないけど、それなりのマナーくらいは守って貰わないと困るの」[lr]",
+      "Pt-br": "\"Shirou, eu não te estou pedindo para usar trajes de palácio no meu jantar, mas preciso que ao menos mostre um mínimo de educação.\"[lr]",
+      "id": 32020,
+      "epk_id": "18980",
+      "label": "$$$message_0146_0034_0000$$$"
+    },
+    {
+      "en": "\"Right, it's a dinner party at a castle. But I...\"",
+      "jp": "「お城で晩餐会だからな。だけど俺は……」",
+      "Pt-br": "\"Certo, é uma festa de jantar em um castelo. Mas eu...\"",
+      "id": 32021,
+      "epk_id": "18981",
+      "label": "$$$message_0146_0034_0001$$$"
+    },
+    {
+      "en": "\"I'm sure Sakura wants to see you in a suit, too. [cacheimage storage=イリヤ01c(近)][wvl canskip=false time=300][chgfg time=300 storage=イリヤ01c(近) textoff=0]That settles it. Sella! Leys!\"",
+      "jp": "「それに、サクラもシロウの正装は見たいでしょうしねー……[cacheimage storage=イリヤ01c(近)][wvl canskip=false time=300][chgfg time=300 storage=イリヤ01c(近) textoff=0]決まったわ。セラ！　リズ！」",
+      "Pt-br": "\"Eu tenho certeza de que a Sakura também quer te ver de terno. [cacheimage storage=イリヤ01c(近)][wvl canskip=false time=300][chgfg time=300 storage=イリヤ01c(近) textoff=0]Isso é decidido. Sella! Leys!\"",
+      "id": 32022,
+      "epk_id": "18982",
+      "label": "$$$message_0146_0035_0000$$$"
+    },
+    {
+      "en": "The maids appear swiftly at the clap of her hands.[lr]",
+      "jp": "　ぱん、と手を打つと素早く現れるメイドたち。[lr]",
+      "Pt-br": "As criadas aparecem rapidamente ao clámpado de suas mãos.[lr]",
+      "id": 32023,
+      "epk_id": "18983",
+      "label": "$$$message_0146_0036_0000$$$"
+    },
+    {
+      "en": "They're so alert it makes me wonder if guarding the garden is all they do.",
+      "jp": "　お庭番か何かか？　という機敏さである。",
+      "Pt-br": "Eles são tão alertas que me faz questionar se é tudo o que fazem para guardar o jardim.",
+      "id": 32024,
+      "epk_id": "18984",
+      "label": "$$$message_0146_0036_0001$$$"
+    },
+    {
+      "en": "\"What do you require, Mistress?\"[lr]",
+      "jp": "「何かご用でしょうか、お嬢様」[lr]",
+      "Pt-br": "\"O que deseja, Senhora?\"[lr]",
+      "id": 32025,
+      "epk_id": "18985",
+      "label": "$$$message_0146_0037_0000$$$"
+    },
+    {
+      "en": "\"Prepare Shirou a tuxedo. A black bow tie, a white collared shirt, and leather shoes.[lr]",
+      "jp": "「シロウにタキシードを用意して。黒の蝶ネクタイに白立て襟のシャツ、それに靴も革靴で。[lr]",
+      "Pt-br": "\"Prepare Shirou de tuxedo. Uma gravata preta, uma camisa branca de colarinho e sapatos de couro.[lr]",
+      "id": 32026,
+      "epk_id": "18986",
+      "label": "$$$message_0146_0037_0001$$$"
+    },
+    {
+      "en": "Once that's done, get a dress ready for Sakura and prepare tonight's dinner.\"",
+      "jp": "　それが済んだらサクラのドレスの支度と、今晩の晩餐の準備を」",
+      "Pt-br": "Depois que isso for feito, prepare um vestido para Sakura e arrume o jantar da noite.\"",
+      "id": 32027,
+      "epk_id": "18987",
+      "label": "$$$message_0146_0037_0002$$$"
+    },
+    {
+      "en": "\"Understood, my lady.\"[lr]",
+      "jp": "「かしこまりました、お嬢様」[lr]",
+      "Pt-br": "\"Entendi, minha lady.\"[lr]",
+      "id": 32028,
+      "epk_id": "18988",
+      "label": "$$$message_0146_0038_0000$$$"
+    },
+    {
+      "en": "\"...Illya, that sounds hard...\"[lr]",
+      "jp": "「……イリヤ、ちょっと大変……？」[lr]",
+      "Pt-br": "\"...Illya, isso parece difícil...\"[lr]",
+      "id": 32029,
+      "epk_id": "18989",
+      "label": "$$$message_0146_0038_0001$$$"
+    },
+    {
+      "en": "\"Yeah, Shirou might not like it, but make him change, even if you have to use force to do it.\"",
+      "jp": "「そうね、シロウは嫌がるかもしれないけど無理やりにでも着せ替えさせちゃって」",
+      "Pt-br": "\"Sim, Shirou pode não gostar, mas faça ele mudar, mesmo que precise usar força para isso.\"",
+      "id": 32030,
+      "epk_id": "18990",
+      "label": "$$$message_0146_0038_0002$$$"
+    },
+    {
+      "en": "Things are moving quickly in front of my eyes.[lr]",
+      "jp": "　目の前で話がトントン拍子で進んでいく。[lr]",
+      "Pt-br": "As coisas estão se movendo rapidamente diante dos meus olhos.[lr]",
+      "id": 32031,
+      "epk_id": "18991",
+      "label": "$$$message_0146_0039_0000$$$"
+    },
+    {
+      "en": "I didn't think I would end up having to wear a tuxedo.[lr]",
+      "jp": "　まさか、タキシードを着るハメになろうとは。[lr]",
+      "Pt-br": "Não pensei que acabaria precisando usar um tuxedo.[lr]",
+      "id": 32032,
+      "epk_id": "18992",
+      "label": "$$$message_0146_0039_0001$$$"
+    },
+    {
+      "en": "I should've expected the Einzberns to not only have dresses, but men's suits too... Well, this is hardly the time to be impressed.",
+      "jp": "　ドレスだけじゃなく、男物のスーツもあるとはさすがアインツベルン……なんて感心している場合でなく。",
+      "Pt-br": "Deveria ter esperado que os Einzberns tivessem não só vestidos, mas também ternos para homens... Bem, este não é o momento para ficar impressionado.",
+      "id": 32033,
+      "epk_id": "18993",
+      "label": "$$$message_0146_0039_0002$$$"
+    },
+    {
+      "en": "\"...We need to take Master Emiya's measurements first. Leysritt!\"[lr]",
+      "jp": "「……それではまず、エミヤ様の方のサイズをお計りしませんと。リーゼリット！」[lr]",
+      "Pt-br": "\"...Precisamos tomar as medidas do Emiya-sama primeiro. Leysritt!\"[lr]",
+      "id": 32034,
+      "epk_id": "18994",
+      "label": "$$$message_0146_0040_0000$$$"
+    },
+    {
+      "en": "\"...I know, Sella.\"",
+      "jp": "「……わかってる、セラ」",
+      "Pt-br": "\"...Eu sei, Sella.\"",
+      "id": 32035,
+      "epk_id": "18995",
+      "label": "$$$message_0146_0040_0001$$$"
+    },
+    {
+      "en": "Leys produces a measuring tape. I have no idea where she keeps it in her dress.[lr]",
+      "jp": "　あのドレスのどこに入っていたのか、メジャーを取り出すリズ。[lr]",
+      "Pt-br": "Leys produz uma trena. Não tenho a menor ideia de onde ela guarda essa em seu vestido.[lr]",
+      "id": 32036,
+      "epk_id": "18996",
+      "label": "$$$message_0146_0041_0000$$$"
+    },
+    {
+      "en": "Sella takes it in her hands and takes my measurements as if surveying some unpleasant obstacle.",
+      "jp": "　セラはそれを手に、まるで目障りな障害物を計測するように、俺のサイズを計り出した。",
+      "Pt-br": "Sella pega isso nas mãos e me mede como se estivesse avaliando algum obstáculo desagradável.",
+      "id": 32037,
+      "epk_id": "18997",
+      "label": "$$$message_0146_0041_0001$$$"
+    },
+    {
+      "en": "\"...Do I have to, Illya?\"[lr]",
+      "jp": "「……イリヤ、本当に俺が？」[lr]",
+      "Pt-br": "\"...Tenho que fazer isso, Illya?\"[lr]",
+      "id": 32038,
+      "epk_id": "18998",
+      "label": "$$$message_0146_0042_0000$$$"
+    },
+    {
+      "en": "\"Suck it up already. You also want to see Sakura in a dress, right? [cacheimage storage=リズ01c(近)][wvl][chgfg time=300 storage=リズ01c(近) textoff=0]It's an equivalent exchange.\"",
+      "jp": "「いい加減に覚悟しなさい、シロウだってサクラのドレス姿は見たいんでしょ？　[cacheimage storage=リズ01c(近)][wvl][chgfg time=300 storage=リズ01c(近) textoff=0]等価交換よ、これも」",
+      "Pt-br": "\"Pega leve já. Você também quer ver a Sakura de vestido, quer? [cacheimage storage=リズ01c(近)][wvl][chgfg time=300 storage=リズ01c(近) textoff=0]É troca de equivalência.\"",
+      "id": 32039,
+      "epk_id": "18999",
+      "label": "$$$message_0146_0042_0001$$$"
+    },
+    {
+      "en": "Here, she speaks as a mage would.[lr]",
+      "jp": "　魔術師らしい口振りで宣告する。[lr]",
+      "Pt-br": "Aqui, ela fala como uma maga.[lr]",
+      "id": 32040,
+      "epk_id": "19000",
+      "label": "$$$message_0146_0043_0000$$$"
+    },
+    {
+      "en": "...Well, if you put it that way, wearing a tuxedo is a cheap price to pay.",
+      "jp": "　……まあ、そう思うのならタキシード姿くらい安いものだが……。",
+      "Pt-br": "Bem, se você diz isso, usar um tuxedo é um preço bem baixo para pagar.",
+      "id": 32041,
+      "epk_id": "19001",
+      "label": "$$$message_0146_0043_0001$$$"
+    },
+    {
+      "en": "\"That's right, I need to let Sakura know.\"[lr]",
+      "jp": "「そうだ、桜にこの事を知らせないと」[lr]",
+      "Pt-br": "\"Isso mesmo, preciso avisar a Sakura.\"[lr]",
+      "id": 32042,
+      "epk_id": "19002",
+      "label": "$$$message_0146_0044_0000$$$"
+    },
+    {
+      "en": "\"No need to worry, I'll send her an invitation. Pretend you're here because you got one, too.\"",
+      "jp": "「心配には及ばないわ、わたしからサクラに招待状を出すから。シロウもそれを受け取ったってコトにしておいてね」",
+      "Pt-br": "\"Não precisa se preocupar, eu vou enviar um convite para ela. Pense que você também recebeu um.\"",
+      "id": 32043,
+      "epk_id": "19003",
+      "label": "$$$message_0146_0044_0001$$$"
+    },
+    {
+      "en": "An invitation... It's getting into full swing.[lr]",
+      "jp": "　招待状って……本格的になってきたな。[lr]",
+      "Pt-br": "Convidado... Está entrando em pleno movimento.[lr]",
+      "id": 32044,
+      "epk_id": "19004",
+      "label": "$$$message_0146_0045_0000$$$"
+    },
+    {
+      "en": "Invitations would be sent out beforehand if it were a real dinner party, but I didn't think I'd actually be directly involved in something like that.",
+      "jp": "　本当の晩餐会なら事前に配られるんだろうけど、まさか当事者になろうとは。",
+      "Pt-br": "Num jantar de verdade, os convites teriam sido enviados antes, mas eu não imaginava que acabaria envolvido diretamente numa coisa dessas.",
+      "id": 32045,
+      "epk_id": "19005",
+      "label": "$$$message_0146_0045_0001$$$"
+    },
+    {
+      "en": "\"Sorry for the trouble.\"[lr]",
+      "jp": "「色々と迷惑をかけて、済まないな」[lr]",
+      "Pt-br": "\"Desculpe pela inconveniência.\"[lr]",
+      "id": 32046,
+      "epk_id": "19006",
+      "label": "$$$message_0146_0046_0000$$$"
+    },
+    {
+      "en": "\"It's fine, if it's for you and Sakura. [cacheimage storage=イリヤ06b(遠)][wvl][chgfg time=200 storage=イリヤ06b(遠) textoff=0]Hehehe.\"[lr]",
+      "jp": "「いいのよ、サクラとシロウの為だからねー、[cacheimage storage=イリヤ06b(遠)][wvl][chgfg time=200 storage=イリヤ06b(遠) textoff=0]ふふふ」[lr]",
+      "Pt-br": "\"Tudo bem, se for para você e Sakura. [cacheimage storage=イリヤ06b(遠)][wvl][chgfg time=200 storage=イリヤ06b(遠) textoff=0]Hehehe.\"[lr]",
+      "id": 32047,
+      "epk_id": "19007",
+      "label": "$$$message_0146_0046_0001$$$"
+    },
+    {
+      "en": "Illya seems to be very pleased about her own plan.[lr]",
+      "jp": "　イリヤは自分の計画に満悦の様子だった。[lr]",
+      "Pt-br": "Illya parece estar muito satisfeita com seu próprio plano.[lr]",
+      "id": 32048,
+      "epk_id": "19008",
+      "label": "$$$message_0146_0046_0002$$$"
+    },
+    {
+      "en": "Leys and Sella seem to be quickly preparing our clothes, so I can only prepare myself.",
+      "jp": "　リズたちは手早く衣装を用意しているみたいだし、ここは一つ、腹をくくるしかない。",
+      "Pt-br": "Leys e Sella parecem estar se preparando rapidamente para nos vestir, então eu só posso me preparar.",
+      "id": 32049,
+      "epk_id": "19009",
+      "label": "$$$message_0146_0046_0003$$$"
+    },
+    {
+      "en": "\"Master Emiya, [cacheimage storage=リズ01c(近)][wvl][chgfg time=300 storage=リズ01c(近) textoff=0]we have finished preparing your clothes. Please come this way.\"[lr]",
+      "jp": "「エミヤ様、[cacheimage storage=リズ01c(近)][wvl][chgfg time=300 storage=リズ01c(近) textoff=0]お洋服の準備が出来ましたので、こちらに」[lr]",
+      "Pt-br": "\"Emiya-sama, [cacheimage storage=リズ01c(近)][wvl][chgfg time=300 storage=リズ01c(近) textoff=0]nós terminamos de preparar suas roupas. Por favor, venha com a gente.\"[lr]",
+      "id": 32050,
+      "epk_id": "19010",
+      "label": "$$$message_0146_0047_0000$$$"
+    },
+    {
+      "en": "\"Yeah... Illya, you're going to laugh once you see me looking my best.\"[lr]",
+      "jp": "「ああ……イリヤ、見たら笑うぞ、俺の晴れ姿は」[lr]",
+      "Pt-br": "\"É... Illya, você vai rir assim que ver me com minha melhor cara.\"[lr]",
+      "id": 32051,
+      "epk_id": "19011",
+      "label": "$$$message_0146_0047_0001$$$"
+    },
+    {
+      "en": "\"I don't know about that. I'm looking forward to it.\"",
+      "jp": "「それはどうかしら？　楽しみにしてるからね」",
+      "Pt-br": "\"Eu não sei sobre isso. Estou ansioso para ver.\"",
+      "id": 32052,
+      "epk_id": "19012",
+      "label": "$$$message_0146_0047_0002$$$"
+    },
+    {
+      "en": "\"Ahh...\"[lr]",
+      "jp": "「はぁ……」[lr]",
+      "Pt-br": "\"Ah...\"[lr]",
+      "id": 32053,
+      "epk_id": "19013",
+      "label": "$$$message_0146_0048_0000$$$"
+    },
+    {
+      "en": "It's tiring to wear something you're not used to wearing.[lr]",
+      "jp": "　着慣れないモノを着ていると、疲れる。[lr]",
+      "Pt-br": "É cansativo usar algo que você não está acostumado a usar.[lr]",
+      "id": 32054,
+      "epk_id": "19014",
+      "label": "$$$message_0146_0048_0001$$$"
+    },
+    {
+      "en": "I feel like I'm constantly being choked in this shirt and bow tie.",
+      "jp": "　立て襟のワイシャツに蝶ネクタイは、常に首を絞められてるような気分になった。",
+      "Pt-br": "Sinto que estou constantemente sufocado nessa camisa e gravata.",
+      "id": 32055,
+      "epk_id": "19015",
+      "label": "$$$message_0146_0048_0002$$$"
+    },
+    {
+      "en": "I check myself in a nearby mirror.[lr]",
+      "jp": "　傍の鏡を覗き込んでみる。[lr]",
+      "Pt-br": "Eu me olho no espelho próximo.[lr]",
+      "id": 32056,
+      "epk_id": "19016",
+      "label": "$$$message_0146_0049_0000$$$"
+    },
+    {
+      "en": "It's bizarre seeing myself wearing a black tuxedo. I've never even worn a suit before, and this is even more formal than that.",
+      "jp": "　黒のタキシード姿の自分というのは、すごく違和感がある。今までスーツなんて着たコトもないのに、それを飛び越してこの礼服だ。",
+      "Pt-br": "É estranho ver-me usando um tuxedo preto. Nunca usei um terno antes, e isso é ainda mais formal que isso.",
+      "id": 32057,
+      "epk_id": "19017",
+      "label": "$$$message_0146_0049_0001$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「………………」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 32058,
+      "epk_id": "19018",
+      "label": "$$$message_0146_0050_0000$$$"
+    },
+    {
+      "en": "On top of that, there's Sakura's dress.[lr]",
+      "jp": "　加えて、桜のドレスの問題もある。[lr]",
+      "Pt-br": "Além disso, há o vestido da Sakura.[lr]",
+      "id": 32059,
+      "epk_id": "19019",
+      "label": "$$$message_0146_0050_0001$$$"
+    },
+    {
+      "en": "They didn't even let me take a peek at it.[lr]",
+      "jp": "　どうなっているのかは覗かせて貰えなかった。[lr]",
+      "Pt-br": "Eles nem me deixaram olhar.[lr]",
+      "id": 32060,
+      "epk_id": "19020",
+      "label": "$$$message_0146_0050_0002$$$"
+    },
+    {
+      "en": "Illya stopped me on the way to Sakura's room, telling me to look forward to seeing her.",
+      "jp": "　桜の部屋に行ったら、ご対面をお楽しみにね、とイリヤに遮られたからだ。",
+      "Pt-br": "Illya me impediu no caminho para o quarto de Sakura, dizendo para eu esperar para vê-la.",
+      "id": 32061,
+      "epk_id": "19021",
+      "label": "$$$message_0146_0050_0003$$$"
+    },
+    {
+      "en": "So, I'm waiting in the lobby until Sakura finishes changing and getting ready...[lr]",
+      "jp": "　そんなわけで、桜の着替えと準備が終わるまでロビーで待機していたのだが[line len=3][lr]",
+      "Pt-br": "Então, estou esperando no hall até Sakura terminar de se trocar e se preparar...[lr]",
+      "id": 32062,
+      "epk_id": "19022",
+      "label": "$$$message_0146_0051_0000$$$"
+    },
+    {
+      "en": "It's finally time.",
+      "jp": "　じき、約束の時間である。",
+      "Pt-br": "Chegou enfim a hora.",
+      "id": 32063,
+      "epk_id": "19023",
+      "label": "$$$message_0146_0051_0001$$$"
+    },
+    {
+      "en": "\"...Ehehe, you look good, Shirou.\"[lr]",
+      "jp": "「[line len=2]うふふ、似合うじゃない、シロウ」[lr]",
+      "Pt-br": "\"Ehehe, você está bem, Shirou.\"[lr]",
+      "id": 32064,
+      "epk_id": "19024",
+      "label": "$$$message_0146_0052_0000$$$"
+    },
+    {
+      "en": "\"[shock vmax=20 time=300 count=-3]Wha... Oh, Illya.[lr]",
+      "jp": "「[shock vmax=20 time=300 count=-3]！？……って、なんだイリヤか。[lr]",
+      "Pt-br": "\"[shock vmax=20 time=300 count=-3]Hmm... Oh, Illya.[lr]",
+      "id": 32065,
+      "epk_id": "19025",
+      "label": "$$$message_0146_0052_0001$$$"
+    },
+    {
+      "en": "Are you wearing a dress, Illya?\"[lr]",
+      "jp": "　イリヤはドレスじゃないのか？」[lr]",
+      "Pt-br": "Você está usando um vestido, Illya?\"[lr]",
+      "id": 32066,
+      "epk_id": "19026",
+      "label": "$$$message_0146_0052_0002$$$"
+    },
+    {
+      "en": "\"I haven't quite made my debut yet, so this is semi-formal.[lr]",
+      "jp": "「まだ社交界入り前だもの、これでセミフォーマルなの。[lr]",
+      "Pt-br": "\"Ainda não quite fiz minha estreia, então isso é semi-formal.[lr]",
+      "id": 32067,
+      "epk_id": "19027",
+      "label": "$$$message_0146_0052_0003$$$"
+    },
+    {
+      "en": "Well, you don't look that bad yourself.\"",
+      "jp": "　それにしても、シロウも満更じゃないんじゃない？」",
+      "Pt-br": "Bem, você também não parece tão ruim assim.\"",
+      "id": 32068,
+      "epk_id": "19028",
+      "label": "$$$message_0146_0052_0004$$$"
+    },
+    {
+      "en": "I don't know how to answer.[lr]",
+      "jp": "　答えようがない。[lr]",
+      "Pt-br": "Não sei como responder.[lr]",
+      "id": 32069,
+      "epk_id": "19029",
+      "label": "$$$message_0146_0053_0000$$$"
+    },
+    {
+      "en": "My tuxedo is like a costume, so it's hard for me to judge, no matter what I'm told.",
+      "jp": "　俺のタキシードなんか仮装もいいところで、なんと言われようと判断のしようがないのである。",
+      "Pt-br": "Meu tuxedo é como um traje, então é difícil para mim julgar, não importa o que eu seja informado.",
+      "id": 32070,
+      "epk_id": "19030",
+      "label": "$$$message_0146_0053_0001$$$"
+    },
+    {
+      "en": "\"I don't really know. It's my first time wearing something like this.\"[lr]",
+      "jp": "「よく分からない。こういうのは初めてだからな」[lr]",
+      "Pt-br": "\"Eu não sei muito bem. É a primeira vez que uso algo assim.\"[lr]",
+      "id": 32071,
+      "epk_id": "19031",
+      "label": "$$$message_0146_0054_0000$$$"
+    },
+    {
+      "en": "\"Really? It wouldn't look right on you normally, but this is an interesting side of you.[lr]",
+      "jp": "「そう？　普段のシロウらしくないけど、そういうシロウも面白いわ。[lr]",
+      "Pt-br": "\"Sério? Normalmente não combinaria com você, mas é um lado seu interessante.[lr]",
+      "id": 32072,
+      "epk_id": "19032",
+      "label": "$$$message_0146_0054_0001$$$"
+    },
+    {
+      "en": "All that's left is...yes, it's about time for the princess to make her appearance.\"",
+      "jp": "　あとは……ええ、そろそろお姫様の登場ね」",
+      "Pt-br": "Tudo o que resta é... sim, já é hora da princesa fazer sua entrada.\"",
+      "id": 32073,
+      "epk_id": "19033",
+      "label": "$$$message_0146_0054_0002$$$"
+    },
+    {
+      "en": "\"Princess\"... Is she talking about Sakura?[lr]",
+      "jp": "　お姫様[line len=3]桜のことか？[lr]",
+      "Pt-br": "\"Princesa\"... Ela está falando de Sakura?[lr]",
+      "id": 32074,
+      "epk_id": "19034",
+      "label": "$$$message_0146_0055_0000$$$"
+    },
+    {
+      "en": "I look toward the grand staircase. She was getting ready upstairs, so she must be coming down from there.",
+      "jp": "　大階段に目を向ける。上の階で支度していたから、あの上からやってくるんだろう。",
+      "Pt-br": "Olho para a imponente escada. Ela estava se preparando no andar de cima, então deve estar descendo dali.",
+      "id": 32075,
+      "epk_id": "19035",
+      "label": "$$$message_0146_0055_0001$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「[line len=4]」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 32076,
+      "epk_id": "19036",
+      "label": "$$$message_0146_0056_0000$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「…………」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 32077,
+      "epk_id": "19037",
+      "label": "$$$message_0146_0056_0001$$$"
+    },
+    {
+      "en": "I hold my breath and wait, but she's not coming out.[lr]",
+      "jp": "　息を殺して待ってるけど、やってこない。[lr]",
+      "Pt-br": "Fico de boca fechada e espero, mas ela não vem sair.[lr]",
+      "id": 32078,
+      "epk_id": "19038",
+      "label": "$$$message_0146_0056_0002$$$"
+    },
+    {
+      "en": "Maybe she got lost on the way... I don't think so.[lr]",
+      "jp": "　どこかで桜が通路に迷ってる……事はないよな。[lr]",
+      "Pt-br": "Talvez ela tenha se perdido no caminho... Não acho que sim.[lr]",
+      "id": 32079,
+      "epk_id": "19039",
+      "label": "$$$message_0146_0056_0003$$$"
+    },
+    {
+      "en": "Illya calls out, as if she got tired of waiting.",
+      "jp": "　痺れを切らせたように、イリヤが声を上げた。",
+      "Pt-br": "Illya chama, como se tivesse se cansado de esperar.",
+      "id": 32080,
+      "epk_id": "19040",
+      "label": "$$$message_0146_0056_0004$$$"
+    },
+    {
+      "en": "\"Sakura? What's wrong?\"[lr]",
+      "jp": "「サクラ？　どうしたの？」[lr]",
+      "Pt-br": "\"Sakura? O que há de errado?\"[lr]",
+      "id": 32081,
+      "epk_id": "19041",
+      "label": "$$$message_0146_0057_0000$$$"
+    },
+    {
+      "en": "\"U-um, Senpai is there, right?\"[lr]",
+      "jp": "「あ、あの、先輩がそこにいらっしゃるんですよね？」[lr]",
+      "Pt-br": "\"U-um, Senpai está aí, né?\"[lr]",
+      "id": 32082,
+      "epk_id": "19042",
+      "label": "$$$message_0146_0057_0001$$$"
+    },
+    {
+      "en": "Only her voice reaches us.[lr]",
+      "jp": "　声だけが届いてくる。[lr]",
+      "Pt-br": "Apenas a sua voz chega até nós.[lr]",
+      "id": 32083,
+      "epk_id": "19043",
+      "label": "$$$message_0146_0057_0002$$$"
+    },
+    {
+      "en": "I'm relieved that she's actually here, but I wonder why she's not showing herself.",
+      "jp": "　ちゃんと来ていた事には安堵するのだが、姿を見せないのは気になる。",
+      "Pt-br": "Fiquei aliviado que ela esteja de fato aqui, mas me pergunto por que não se mostra.",
+      "id": 32084,
+      "epk_id": "19044",
+      "label": "$$$message_0146_0057_0003$$$"
+    },
+    {
+      "en": "\"He's here. In a tuxedo.\"[lr]",
+      "jp": "「居るわよ？　それもタキシードで」[lr]",
+      "Pt-br": "\"Ele está aqui. De tuxedo.\"[lr]",
+      "id": 32085,
+      "epk_id": "19045",
+      "label": "$$$message_0146_0058_0000$$$"
+    },
+    {
+      "en": "\"Oh... R-really?[lr]",
+      "jp": "「あ……そ、そうなんですか？[lr]",
+      "Pt-br": "\"Oh... R-really?[lr]",
+      "id": 32086,
+      "epk_id": "19046",
+      "label": "$$$message_0146_0058_0001$$$"
+    },
+    {
+      "en": "B-but, I...don't look good in something like this, um, so[line len=2]\"[lr]",
+      "jp": "　で、でもわたし……こんなの似合いません、その、だから」[lr]",
+      "Pt-br": "P-porém, eu... não fico bom em algo assim, hum, então[line len=2]\"[lr]",
+      "id": 32087,
+      "epk_id": "19047",
+      "label": "$$$message_0146_0058_0002$$$"
+    },
+    {
+      "en": "\"Huh... Could it be that you're embarrassed after coming all the way here?\"",
+      "jp": "「ふーん……もしかしてサクラ、ここまで来て恥ずかしがってるの？」",
+      "Pt-br": "\"Hmm... Será que você está envergonhado por ter vindo até aqui?\"",
+      "id": 32088,
+      "epk_id": "19048",
+      "label": "$$$message_0146_0058_0003$$$"
+    },
+    {
+      "en": "...Oh, so Sakura's also embarrassed.[lr]",
+      "jp": "　……なんだ、桜も恥ずかしいのか。[lr]",
+      "Pt-br": "...Ah, então a Sakura também está envergonhada.[lr]",
+      "id": 32089,
+      "epk_id": "19049",
+      "label": "$$$message_0146_0059_0000$$$"
+    },
+    {
+      "en": "Wearing a dress and being invited to a dinner party out of the blue... I'm sure Sakura is even more troubled than I am.",
+      "jp": "　藪から棒にドレスを着て晩餐会に招待、なんてことを言われたら俺以上に桜は困るだろう。",
+      "Pt-br": "Vestindo um vestido e ser convidada para uma festa de jantar sem aviso... Tenho certeza de que Sakura está ainda mais perturbada do que eu.",
+      "id": 32090,
+      "epk_id": "19050",
+      "label": "$$$message_0146_0059_0001$$$"
+    },
+    {
+      "en": "\"Hmm, [cacheimage storage=イリヤ01c(中)][wvl][chgfg time=300 storage=イリヤ01c(中) textoff=0]even though you were full of enthusiasm asking if Senpai would like it until just now?\"[lr]",
+      "jp": "「ふふーん、[cacheimage storage=イリヤ01c(中)][wvl][chgfg time=300 storage=イリヤ01c(中) textoff=0]これなら先輩は喜んでくれますかね？ってさっきはやる気満々だったのに？」[lr]",
+      "Pt-br": "\"Hmm, [cacheimage storage=イリヤ01c(中)][wvl][chgfg time=300 storage=イリヤ01c(中) textoff=0]mesmo que você estivesse cheio de entusiasmo perguntando se o Senpai gostaria até agora?\"[lr]",
+      "id": 32091,
+      "epk_id": "19051",
+      "label": "$$$message_0146_0060_0000$$$"
+    },
+    {
+      "en": "\"I-Illya! B-But Senpai is...\"",
+      "jp": "「い、イリヤさん！　だ、だって先輩が……」",
+      "Pt-br": "\"I-Illya-san! B-But Senpai é...\"",
+      "id": 32092,
+      "epk_id": "19052",
+      "label": "$$$message_0146_0060_0001$$$"
+    },
+    {
+      "en": "\"Well, I'm also in an outfit that doesn't suit me, so it's fine. Besides, you wouldn't look bad in anything.\"[cacheimage storage=イリヤ05a(中)][wvs][chgfg time=300 storage=イリヤ05a(中) textoff=0][lr]",
+      "jp": "「いや、俺も似合わない格好してるから平気だぞ。それに桜なら、たいていの格好はおかしくない」[cacheimage storage=イリヤ05a(中)][wvs][chgfg time=300 storage=イリヤ05a(中) textoff=0][lr]",
+      "Pt-br": "\"Bem, estou também em um figurino que não me combina, então tudo bem. Além disso, você não faria mal em nada.\"[cacheimage storage=イリヤ05a(中)][wvs][chgfg time=300 storage=イリヤ05a(中) textoff=0][lr]",
+      "id": 32093,
+      "epk_id": "19053",
+      "label": "$$$message_0146_0061_0000$$$"
+    },
+    {
+      "en": "Also, it can't be any worse than me in a tuxedo.",
+      "jp": "　少なくとも、俺のタキシード姿とは比べものにならない筈だ。",
+      "Pt-br": "Também não pode ser pior do que eu em um tuxedo.",
+      "id": 32094,
+      "epk_id": "19054",
+      "label": "$$$message_0146_0061_0001$$$"
+    },
+    {
+      "en": "\"...Senpai, um, will you promise not to laugh?\"[lr]",
+      "jp": "「……先輩、あの、笑わないでもらえますか？」[lr]",
+      "Pt-br": "\"...Senpai, um, você promete não rir?\"[lr]",
+      "id": 32095,
+      "epk_id": "19055",
+      "label": "$$$message_0146_0062_0000$$$"
+    },
+    {
+      "en": "\"You too, don't laugh when you see me.\"[lr]",
+      "jp": "「そっちこそ、俺を見て笑うなよ」[lr]",
+      "Pt-br": "\"Você também, não ria ao me ver.\"[lr]",
+      "id": 32096,
+      "epk_id": "19056",
+      "label": "$$$message_0146_0062_0001$$$"
+    },
+    {
+      "en": "\"Ugh, you two sure are irritating... Don't worry, Sakura. It's a special evening dress. I'll make sure to punish him if he laughs.\"",
+      "jp": "「もう、じれったいわね二人とも……安心なさいサクラ。とっておきのイブニングドレスなんだもの、シロウが笑ったらきっちりお仕置きしてあげるから」",
+      "Pt-br": "\"Ugh, vocês dois são irritantes demais... Não se preocupe, Sakura. É um vestido especial para a noite. Se ele rir, eu mesma faço questão de puni-lo.\"",
+      "id": 32097,
+      "epk_id": "19057",
+      "label": "$$$message_0146_0062_0002$$$"
+    },
+    {
+      "en": "Illya whispers that the opposite is also true.[lr]",
+      "jp": "　イリヤが小声で逆も同じだからね、と囁きかけてくる。[lr]",
+      "Pt-br": "Illya sussurra que o oposto também é verdade.[lr]",
+      "id": 32098,
+      "epk_id": "19058",
+      "label": "$$$message_0146_0063_0000$$$"
+    },
+    {
+      "en": "...It can't be helped if I get laughed at, so I quietly ask her to go easy on Sakura.[chgfg time=300 storage=イリヤ11d(近) textoff=0]",
+      "jp": "　……俺が笑われても仕方ないから、お手柔らかに頼むと小声で言いかえした。[chgfg time=300 storage=イリヤ11d(近) textoff=0]",
+      "Pt-br": "...Se eu for rido, não há jeito, então peço silenciosamente que ela se controle com Sakura.[chgfg time=300 storage=イリヤ11d(近) textoff=0]",
+      "id": 32099,
+      "epk_id": "19059",
+      "label": "$$$message_0146_0063_0001$$$"
+    },
+    {
+      "en": "\"...Yes. Then, Senpai...\"[wm canskip=0][lr]",
+      "jp": "「……はい。では先輩……」[wm canskip=0][lr]",
+      "Pt-br": "\"...Sim. Então, Senpai...\"[wm canskip=0][lr]",
+      "id": 32100,
+      "epk_id": "19060",
+      "label": "$$$message_0146_0064_0000$$$"
+    },
+    {
+      "en": "I hear the sound of a rustling dress.[lr]",
+      "jp": "　さらり、とドレスが動く衣擦れの音。[lr]",
+      "Pt-br": "Escuto o som de uma saia arrancando.[lr]",
+      "id": 32101,
+      "epk_id": "19061",
+      "label": "$$$message_0146_0064_0001$$$"
+    },
+    {
+      "en": "Sakura appears above the hall.",
+      "jp": "　ホールの上に、現れる桜の姿。",
+      "Pt-br": "Sakura aparece acima do salão.",
+      "id": 32102,
+      "epk_id": "19062",
+      "label": "$$$message_0146_0064_0002$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「………………」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 32103,
+      "epk_id": "19063",
+      "label": "$$$message_0146_0065_0000$$$"
+    },
+    {
+      "en": "She looks like a lady from high society, straight out of a movie.[lr]",
+      "jp": "　映画に出てくる貴婦人の肖像のようだ。[lr]",
+      "Pt-br": "Ela parece uma dama da alta sociedade, diretamente saída de um filme.[lr]",
+      "id": 32104,
+      "epk_id": "19064",
+      "label": "$$$message_0146_0065_0001$$$"
+    },
+    {
+      "en": "An open shoulder dress,[lr]",
+      "jp": "　肩の大きく開いたドレス姿。[lr]",
+      "Pt-br": "Um vestido de ombros nus[lr]",
+      "id": 32105,
+      "epk_id": "19065",
+      "label": "$$$message_0146_0065_0002$$$"
+    },
+    {
+      "en": "pearls and hair accessories that accentuate her fair skin,[lr]",
+      "jp": "　白い肌を飾る真珠や髪飾り。[lr]",
+      "Pt-br": "pérolas e acessórios de cabelo que realçam sua pele clara[lr]",
+      "id": 32106,
+      "epk_id": "19066",
+      "label": "$$$message_0146_0065_0003$$$"
+    },
+    {
+      "en": "and lipstick...[lr]",
+      "jp": "　ルージュを引いた唇。[lr]",
+      "Pt-br": "e batom...[lr]",
+      "id": 32107,
+      "epk_id": "19067",
+      "label": "$$$message_0146_0065_0004$$$"
+    },
+    {
+      "en": "More than anything, seeing Sakura in a dress for the first time is a vibrant sight that I can't forget.",
+      "jp": "　何よりも、桜にとって初めてのドレス姿という事実が、ひどく目に鮮やかだった。",
+      "Pt-br": "Mais do que qualquer outra coisa, ver Sakura pela primeira vez em um vestido é uma cena vibrante que não consigo esquecer.",
+      "id": 32108,
+      "epk_id": "19068",
+      "label": "$$$message_0146_0065_0005$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「[line len=4]」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 32109,
+      "epk_id": "19069",
+      "label": "$$$message_0146_0066_0000$$$"
+    },
+    {
+      "en": "We just stare at each other, unsure of what to say.[lr]",
+      "jp": "　お互いの姿を眺めたまま、なんと口にしていいのか分からない。[lr]",
+      "Pt-br": "Olhamos um para o outro, sem saber o que dizer.[lr]",
+      "id": 32110,
+      "epk_id": "19070",
+      "label": "$$$message_0146_0066_0001$$$"
+    },
+    {
+      "en": "Sakura is still standing up there.",
+      "jp": "　桜も上でつっ立ったままだ。",
+      "Pt-br": "Sakura ainda está de pé lá em cima.",
+      "id": 32111,
+      "epk_id": "19071",
+      "label": "$$$message_0146_0066_0002$$$"
+    },
+    {
+      "en": "\"Come on, Shirou. [wvl][shock vmax=10 time=500 count=-3]Escort Sakura. Are you trying to make a fool out of her?\"[lr]",
+      "jp": "「ほら、シロウ。[wvl][shock vmax=10 time=500 count=-3]しっかりサクラをエスコートしなさい、女の子に恥かかせる気？」[lr]",
+      "Pt-br": "\"Vamos, Shirou. [wvl][shock vmax=10 time=500 count=-3]Guie a Sakura. Está tentando fazê-la parecer um idiota?\"[lr]",
+      "id": 32112,
+      "epk_id": "19072",
+      "label": "$$$message_0146_0067_0000$$$"
+    },
+    {
+      "en": "An elbow nudges me in the back.",
+      "jp": "　背中をとん、と肘でつつかれた。",
+      "Pt-br": "Um cotovelo me empurra nas costas.",
+      "id": 32113,
+      "epk_id": "19073",
+      "label": "$$$message_0146_0067_0001$$$"
+    },
+    {
+      "en": "\"Oh[line len=2]yeah, I'll do that.\"[lr]",
+      "jp": "「あ[line len=3]ああ、そうする」[lr]",
+      "Pt-br": "\"Oh[line len=2]sim, farei isso.\"[lr]",
+      "id": 32114,
+      "epk_id": "19074",
+      "label": "$$$message_0146_0068_0000$$$"
+    },
+    {
+      "en": "Prompted, I move forward.[lr]",
+      "jp": "　[ruby text=うなが]促されて前へ。[lr]",
+      "Pt-br": "Movido, avanço.[lr]",
+      "id": 32115,
+      "epk_id": "19075",
+      "label": "$$$message_0146_0068_0001$$$"
+    },
+    {
+      "en": "I adjust my breathing and go up the stairs.[lr]",
+      "jp": "　軽く呼吸を整えて階段を上っていく。[lr]",
+      "Pt-br": "Ajusto a respiração e subo as escadas.[lr]",
+      "id": 32116,
+      "epk_id": "19076",
+      "label": "$$$message_0146_0068_0002$$$"
+    },
+    {
+      "en": "I don't know what I should say to Sakura.[wdash canskip=0]",
+      "jp": "　あんな桜を前にして、どんな言葉をかけるべきか。[wdash canskip=0]",
+      "Pt-br": "Não sei o que dizer à Sakura.[wdash canskip=0]",
+      "id": 32117,
+      "epk_id": "19077",
+      "label": "$$$message_0146_0068_0003$$$"
+    },
+    {
+      "en": "\"Yeah, uh... It looks good on you, Sakura.\"[lr]",
+      "jp": "「あー、なんだ……桜、よく似合ってる」[lr]",
+      "Pt-br": "\"É, hã... Fica bom em você, Sakura.\"[lr]",
+      "id": 32118,
+      "epk_id": "19078",
+      "label": "$$$message_0146_0069_0000$$$"
+    },
+    {
+      "en": "\"Um, you too, Senpai... It's my first time seeing you dressed up so formally.\"",
+      "jp": "「その、先輩の方こそ……初めてです、先輩が正装されるのは」",
+      "Pt-br": "\"Um, você também, Senpai... É a primeira vez que vejo você vestido tão formalmente.\"",
+      "id": 32119,
+      "epk_id": "19079",
+      "label": "$$$message_0146_0069_0001$$$"
+    },
+    {
+      "en": "\"R-really? ...Yeah, it is, huh?[lr]",
+      "jp": "「そ、そうかな。……そうだよな、そうなるよな。[lr]",
+      "Pt-br": "\"É mesmo? ...Sim, é. Né?[lr]",
+      "id": 32120,
+      "epk_id": "19080",
+      "label": "$$$message_0146_0070_0000$$$"
+    },
+    {
+      "en": "I don't even own a suit.\"[lr]",
+      "jp": "　背広なんて持ってないしな、俺」[lr]",
+      "Pt-br": "Eu nem tenho um terno.\"[lr]",
+      "id": 32121,
+      "epk_id": "19081",
+      "label": "$$$message_0146_0070_0001$$$"
+    },
+    {
+      "en": "I slightly regret not having cared about that until now.[lr]",
+      "jp": "　これまで気にもしなかった事を、今は少しだけ後悔する。[lr]",
+      "Pt-br": "Tenho um pouco de remorso por não ter me importado com isso até agora.[lr]",
+      "id": 32122,
+      "epk_id": "19082",
+      "label": "$$$message_0146_0070_0002$$$"
+    },
+    {
+      "en": "Sakura even [font italic=true]smells[font italic=false] different.[lr]",
+      "jp": "　服装だけでなく、桜は香りまで違う。[lr]",
+      "Pt-br": "Sakura até [font italic=true]cheira[font italic=false] diferente.[lr]",
+      "id": 32123,
+      "epk_id": "19083",
+      "label": "$$$message_0146_0070_0003$$$"
+    },
+    {
+      "en": "I get a whiff and notice she's wearing a different perfume than usual.",
+      "jp": "　ふわっと[line len=2]桜がいつもと違う香水をしていることに気が付いた。",
+      "Pt-br": "Pego um cheiro e percebo que ela está usando um perfume diferente do habitual.",
+      "id": 32124,
+      "epk_id": "19084",
+      "label": "$$$message_0146_0070_0004$$$"
+    },
+    {
+      "en": "\"This doesn't suit me at all. Tohsaka would laugh if she saw this.\"[lr]",
+      "jp": "「これ似合わないかな。遠坂とか見たら笑うよな」[lr]",
+      "Pt-br": "\"Isso não me combina em nada. Tohsaka riria se visse isso.\"[lr]",
+      "id": 32125,
+      "epk_id": "19085",
+      "label": "$$$message_0146_0071_0000$$$"
+    },
+    {
+      "en": "\"That's not true. Knowing my sister, she'd probably freeze up instead.[lr]",
+      "jp": "「そんなことないです。姉さんのコトだから、笑おうとしてもここ一番だから笑えなくて、逆に固まっちゃってると思います。[lr]",
+      "Pt-br": "\"Isso não é verdade. Conheço Nee-san, ela provavelmente ficaria congelada em vez disso.[lr]",
+      "id": 32126,
+      "epk_id": "19086",
+      "label": "$$$message_0146_0071_0001$$$"
+    },
+    {
+      "en": "...Umm. Th-that's how I feel right now, too.[lr]",
+      "jp": "　……えーと。わ、わたしも今、そんな感じです。[lr]",
+      "Pt-br": "...Hmm. Isso é como eu me sinto agora também.[lr]",
+      "id": 32127,
+      "epk_id": "19087",
+      "label": "$$$message_0146_0071_0002$$$"
+    },
+    {
+      "en": "I'm really happy to see you, Senpai.\"",
+      "jp": "　先輩を見て、すごく嬉しくなっちゃいました」",
+      "Pt-br": "Fico muito feliz em ver você, Senpai.\"",
+      "id": 32128,
+      "epk_id": "19088",
+      "label": "$$$message_0146_0071_0003$$$"
+    },
+    {
+      "en": "Sakura blushes and looks down.[lr]",
+      "jp": "　桜が頬を赤らめてうつむく。[lr]",
+      "Pt-br": "Sakura cora e olha para baixo.[lr]",
+      "id": 32129,
+      "epk_id": "19089",
+      "label": "$$$message_0146_0072_0000$$$"
+    },
+    {
+      "en": "\"Why are you so happy, Sakura?\"[lr]",
+      "jp": "「？　なんで桜が嬉しいんだ？」[lr]",
+      "Pt-br": "\"Por que você está tão feliz, Sakura?\"[lr]",
+      "id": 32130,
+      "epk_id": "19090",
+      "label": "$$$message_0146_0072_0001$$$"
+    },
+    {
+      "en": "I'm the one who's happy.",
+      "jp": "　その、嬉しいのはこっちの方なんだけど。",
+      "Pt-br": "Sou eu que estou feliz.",
+      "id": 32131,
+      "epk_id": "19091",
+      "label": "$$$message_0146_0072_0002$$$"
+    },
+    {
+      "en": "\"Well... Um, I was thinking you look like a prince on a white horse.[lr]",
+      "jp": "「だって……その、先輩が白馬の王子様みたいだなって。[lr]",
+      "Pt-br": "\"Bem... um, eu estava pensando que você parece um príncipe montado em um cavalo branco, Senpai.[lr]",
+      "id": 32132,
+      "epk_id": "19092",
+      "label": "$$$message_0146_0073_0000$$$"
+    },
+    {
+      "en": "I've always dreamed of having a man in a tuxedo come to greet me.\"",
+      "jp": "　憧れてたんです、正装の男の人にこうして迎えに来て貰うのって」",
+      "Pt-br": "Sempre sonhei em ter um homem de tuxedo vir me cumprimentar.\"",
+      "id": 32133,
+      "epk_id": "19093",
+      "label": "$$$message_0146_0073_0001$$$"
+    },
+    {
+      "en": "Sakura nervously extends her arm.[lr]",
+      "jp": "　桜は緊張しつつ、そっと手を差し伸べてくる。[lr]",
+      "Pt-br": "Sakura estende timidamente o braço.[lr]",
+      "id": 32134,
+      "epk_id": "19094",
+      "label": "$$$message_0146_0074_0000$$$"
+    },
+    {
+      "en": "Her silk-gloved fingers try to touch my arm.",
+      "jp": "　絹のグローブに包まれた指が、俺の腕に触れようとする。",
+      "Pt-br": "Suas mãos de seda tentam tocar meu braço.",
+      "id": 32135,
+      "epk_id": "19095",
+      "label": "$$$message_0146_0074_0001$$$"
+    },
+    {
+      "en": "\"Um... May I take your arm, Senpai?\"[lr]",
+      "jp": "「あの……腕、よろしいですか？　先輩」[lr]",
+      "Pt-br": "\"Um... Pode me pegar o braço, Senpai?\"[lr]",
+      "id": 32136,
+      "epk_id": "19096",
+      "label": "$$$message_0146_0075_0000$$$"
+    },
+    {
+      "en": "\"Of course. Wow, we're actually doing this...\"[cacheimage storage=fd20][wvs][fg textoff=0 opacity=0 left=-37 index=2000 top=0 time=200 storage=fd20][lr]",
+      "jp": "「もちろん。……けど、本当にこうしてると」[cacheimage storage=fd20][wvs][fg textoff=0 opacity=0 left=-37 index=2000 top=0 time=200 storage=fd20][lr]",
+      "Pt-br": "\"Claro. Uau, a gente vai mesmo fazer isso...\"[cacheimage storage=fd20][wvs][fg textoff=0 opacity=0 left=-37 index=2000 top=0 time=200 storage=fd20][lr]",
+      "id": 32137,
+      "epk_id": "19097",
+      "label": "$$$message_0146_0075_0001$$$"
+    },
+    {
+      "en": "Sakura walks arm-in-arm with me.[lr]",
+      "jp": "　となりに腕を組む桜がいる。[lr]",
+      "Pt-br": "Sakura caminha ao meu lado, braço dado.[lr]",
+      "id": 32138,
+      "epk_id": "19098",
+      "label": "$$$message_0146_0075_0002$$$"
+    },
+    {
+      "en": "Being with Sakura in a dress in the middle of the hall of the Einzbern Castle is almost like...",
+      "jp": "　アインツベルン城のホールの中で、ドレス姿の桜と一緒でいるのが、まるで[line len=3]",
+      "Pt-br": "Estar com Sakura vestida em um vestido no meio do salão do castelo Einzbern é quase como...",
+      "id": 32139,
+      "epk_id": "19099",
+      "label": "$$$message_0146_0075_0003$$$"
+    },
+    {
+      "en": "\"I can't believe we're doing this in Japan.\"[lr]",
+      "jp": "「日本でこうしてるっていうのは、嘘みたいだな」[lr]",
+      "Pt-br": "\"Não acredito que estamos fazendo isso no Japão.\"[lr]",
+      "id": 32140,
+      "epk_id": "19100",
+      "label": "$$$message_0146_0076_0000$$$"
+    },
+    {
+      "en": "\"Yes, it's like a fairy tale.[lr]",
+      "jp": "「そうですね、おとぎ話の中みたいです。[lr]",
+      "Pt-br": "\"Sim, é como um conto de fadas.[lr]",
+      "id": 32141,
+      "epk_id": "19101",
+      "label": "$$$message_0146_0076_0001$$$"
+    },
+    {
+      "en": "I thought that it would be lovely to go to a ball in a beautiful castle ever since I was little.\"[lr]",
+      "jp": "　子供の頃からいいなぁ、って思ってたんですよ、きれいなお城に舞踏会、素敵だなぁって」[lr]",
+      "Pt-br": "Achei que seria lindo ir a uma festa em um castelo bonito desde que era criança.\"[lr]",
+      "id": 32142,
+      "epk_id": "19102",
+      "label": "$$$message_0146_0076_0002$$$"
+    },
+    {
+      "en": "\"A fairy tale, huh? We have a real witch here, too.\"",
+      "jp": "「おとぎ話か、ちゃんとここには魔女もいるからな」",
+      "Pt-br": "\"Um conto de fadas, hein? Também temos uma bruxa de verdade aqui.\"",
+      "id": 32143,
+      "epk_id": "19103",
+      "label": "$$$message_0146_0076_0003$$$"
+    },
+    {
+      "en": "\"Heh, so Rin is the evil witch who bullies you two, and I'm the good witch who supports you two.\"[lr]",
+      "jp": "「ふふーん、サクラとシロウをいじめる悪い魔女はリンで、わたしは二人を応援してあげる良い魔女ってコトね」[lr]",
+      "Pt-br": "\"Hei, então Rin é a bruxa má que bullying vocês dois, e eu sou a bruxa boa que apoia vocês dois.\"[lr]",
+      "id": 32144,
+      "epk_id": "19104",
+      "label": "$$$message_0146_0077_0000$$$"
+    },
+    {
+      "en": "Illya says proudly.[lr]",
+      "jp": "　得意そうに語るイリヤ。[lr]",
+      "Pt-br": "Illya diz com orgulho.[lr]",
+      "id": 32145,
+      "epk_id": "19105",
+      "label": "$$$message_0146_0077_0001$$$"
+    },
+    {
+      "en": "Being a step behind Sakura, I escort her down the stairs.[lr]",
+      "jp": "　桜に一歩遅れ、エスコートしながら階段を下りきる。[lr]",
+      "Pt-br": "Estou atrás de Sakura, acompanhando-a para baixo as escadas.[lr]",
+      "id": 32146,
+      "epk_id": "19106",
+      "label": "$$$message_0146_0077_0002$$$"
+    },
+    {
+      "en": "The hem of her dress slightly brushes the floor.",
+      "jp": "　裾の長い桜のドレスが、僅かに床に触れている。",
+      "Pt-br": "O tecido do vestido dela desliza levemente pelo chão.",
+      "id": 32147,
+      "epk_id": "19107",
+      "label": "$$$message_0146_0077_0003$$$"
+    },
+    {
+      "en": "\"Hmm... I was a bit worried, but you two look good together, if I say so myself. [cacheimage storage=イリヤ01f(遠)][wvl][chgfg time=300 storage=イリヤ01f(遠) textoff=0]Pure and innocent.\"[lr]",
+      "jp": "「んー……ちょっと心配だったけど、お二人とも似合ってるじゃない。[cacheimage storage=イリヤ01f(遠)][wvl][chgfg time=300 storage=イリヤ01f(遠) textoff=0]初々しくてなかなかいいわよ」[lr]",
+      "Pt-br": "\"Hmm... Eu estava um pouco preocupado, mas vocês dois parecem combinarem bem, se eu posso dizer. [cacheimage storage=イリヤ01f(遠)][wvl][chgfg time=300 storage=イリヤ01f(遠) textoff=0]Puro e inocente.\"[lr]",
+      "id": 32148,
+      "epk_id": "19108",
+      "label": "$$$message_0146_0078_0000$$$"
+    },
+    {
+      "en": "\"Oh... Thank you, Illya.\"",
+      "jp": "「あ……ありがとうございます、イリヤさん」",
+      "Pt-br": "\"Oh... Obrigado, Illya-san.\"",
+      "id": 32149,
+      "epk_id": "19109",
+      "label": "$$$message_0146_0078_0001$$$"
+    },
+    {
+      "en": "\"Sorry for having you arrange everything.\"[lr]",
+      "jp": "「すまない、いろいろと揃えて貰って」[lr]",
+      "Pt-br": "\"Desculpe por te ter feito arrumar tudo.\"[lr]",
+      "id": 32150,
+      "epk_id": "19110",
+      "label": "$$$message_0146_0079_0000$$$"
+    },
+    {
+      "en": "\"Yes, yes, you can tell me all that later.[lr]",
+      "jp": "「はいはい、それは後でたっぷり聞かせてもらうわ。[lr]",
+      "Pt-br": "\"Sim, sim, você pode me contar tudo isso depois.[lr]",
+      "id": 32151,
+      "epk_id": "19111",
+      "label": "$$$message_0146_0079_0001$$$"
+    },
+    {
+      "en": "Dinner is ready, so come this way.\"",
+      "jp": "　晩餐の用意が出来ましたので、どうぞこちらへ」",
+      "Pt-br": "Jantar está pronto, então venha comigo.\"",
+      "id": 32152,
+      "epk_id": "19112",
+      "label": "$$$message_0146_0079_0002$$$"
+    },
+    {
+      "en": "Illya bows gracefully like a mistress and beckons us forward.[lr]",
+      "jp": "　イリヤは女主人っぽくお辞儀し、俺たちを案内する。[lr]",
+      "Pt-br": "Illya se inclina com graça, como uma senhora, e nos convida a seguir.[lr]",
+      "id": 32153,
+      "epk_id": "19113",
+      "label": "$$$message_0146_0080_0000$$$"
+    },
+    {
+      "en": "Sakura's been linking arms with me the whole time.[lr]",
+      "jp": "　桜とはずっと腕を組んだまま。[lr]",
+      "Pt-br": "Sakura tem segurado minha mão o tempo todo.[lr]",
+      "id": 32154,
+      "epk_id": "19114",
+      "label": "$$$message_0146_0080_0001$$$"
+    },
+    {
+      "en": "I'm nervous, but I can feel Sakura's heart beating faster than me through my arm. Now's not the time to get flustered.",
+      "jp": "　緊張していたが、腕ごしに、俺以上に心臓をバクバクさせている桜を感じているのだ。ドギマギしている場合じゃない。",
+      "Pt-br": "Estou nervoso, mas posso sentir o coração da Sakura batendo mais rápido do que o meu através do meu braço. Agora não é o momento para ficar nervoso.",
+      "id": 32155,
+      "epk_id": "19115",
+      "label": "$$$message_0146_0080_0002$$$"
+    },
+    {
+      "en": "The table is set with all the plateware and utensils you can imagine.[lr]",
+      "jp": "　テーブルには食器類が据え付けられている。[lr]",
+      "Pt-br": "A mesa está posta com todos os talheres e utensílios que você pode imaginar.[lr]",
+      "id": 32156,
+      "epk_id": "19116",
+      "label": "$$$message_0146_0081_0000$$$"
+    },
+    {
+      "en": "Illya takes the seat of honor in the back, while Sakura and I sit across from each other. This would make quite a sight if we had enough visitors to fill the table.",
+      "jp": "　奥が城主であるイリヤの上座で、向かい合う様に俺と桜。もっとお客がいればずらっと並んで壮観だったんだろう。",
+      "Pt-br": "Illya ocupa o lugar de honra atrás, enquanto Sakura e eu nos sentamos um diante do outro. Isso faria um espetáculo bem interessante se tivéssemos visitantes suficientes para preencher a mesa.",
+      "id": 32157,
+      "epk_id": "19117",
+      "label": "$$$message_0146_0081_0001$$$"
+    },
+    {
+      "en": "\"...Okay.\"[lr]",
+      "jp": "「………ああ」[lr]",
+      "Pt-br": "\"...Okay.\"[lr]",
+      "id": 32158,
+      "epk_id": "19118",
+      "label": "$$$message_0146_0082_0000$$$"
+    },
+    {
+      "en": "Then, Sella and Leys work diligently to serve us.[lr]",
+      "jp": "　そして、甲斐甲斐しく給仕に回るセラ＆リズ。[lr]",
+      "Pt-br": "Então, Sella e Leys trabalham diligentemente para nos servir.[lr]",
+      "id": 32159,
+      "epk_id": "19119",
+      "label": "$$$message_0146_0082_0001$$$"
+    },
+    {
+      "en": "I can't relax, thinking that what is about to start is a formal dinner.",
+      "jp": "　始まるのが礼儀正しい[ruby text=せいさん char=2]正餐なんだと思うと、どうも落ち着かなくなる。",
+      "Pt-br": "Não consigo me relaxar, pensando que o que vai começar é uma janta formal.",
+      "id": 32160,
+      "epk_id": "19120",
+      "label": "$$$message_0146_0082_0002$$$"
+    },
+    {
+      "en": "When I look over, Sakura who is in front of me also seems restless.",
+      "jp": "　見ると、目の前の桜もどうもぎこちない。",
+      "Pt-br": "Quando olho para frente, Sakura, que está diante de mim, também parece inquieta.",
+      "id": 32161,
+      "epk_id": "19121",
+      "label": "$$$message_0146_0083_0000$$$"
+    },
+    {
+      "en": "\"...Ahaha. I can't relax at all, Senpai.\"[lr]",
+      "jp": "「……あはは。先輩、すごく落ちつきませんね」[lr]",
+      "Pt-br": "\"...Ahaha. Não consigo me relaxar em nada, Senpai.\"[lr]",
+      "id": 32162,
+      "epk_id": "19122",
+      "label": "$$$message_0146_0084_0000$$$"
+    },
+    {
+      "en": "\"...Me neither. I should've had someone teach me table etiquette for times like this.\"",
+      "jp": "「……俺もだ。こういう時に備えてテーブルマナーを仕込んで貰えればよかったなって」",
+      "Pt-br": "\"...Nem eu. Deveria ter tido alguém me ensinar etiqueta de mesa para situações como essa.\"",
+      "id": 32163,
+      "epk_id": "19123",
+      "label": "$$$message_0146_0084_0001$$$"
+    },
+    {
+      "en": "\"It's fine. I won't tell you to balance green peas on the back of the fork or peel an orange with a fork and knife.\"[lr]",
+      "jp": "「いいのよ、わたしはグリーンピースをフォークの背に載せろとか、オレンジをナイフとフォークで剥けとか言わないから」[lr]",
+      "Pt-br": "\"Está tudo bem. Não vou te dizer para balancear ervilhas verdes na ponta do garfo ou para descascar uma laranja com garfo e faca.\"[lr]",
+      "id": 32164,
+      "epk_id": "19124",
+      "label": "$$$message_0146_0085_0000$$$"
+    },
+    {
+      "en": "Illya chuckles and picks up her glass.[lr]",
+      "jp": "　イリヤがくすくす笑いながら、グラスを手に取る。[lr]",
+      "Pt-br": "Illya riu e pegou seu copo.[lr]",
+      "id": 32165,
+      "epk_id": "19125",
+      "label": "$$$message_0146_0085_0001$$$"
+    },
+    {
+      "en": "Leys and Sella pour a cold beverage into our glasses.[se storage=se561.wav]",
+      "jp": "　俺たちのグラスにも、リズとセラが冷えた飲み物を注いでくれる。[se storage=se561.wav]",
+      "Pt-br": "Ley e Sella servem uma bebida gelada nos nossos copos.[se storage=se561.wav]",
+      "id": 32166,
+      "epk_id": "19126",
+      "label": "$$$message_0146_0085_0002$$$"
+    },
+    {
+      "en": "\"Now, thank you for coming to my dinner party today. [cacheimage storage=イリヤ06e(中)][wvl][chgfg storage=イリヤ06e(中) pos=l time=300 textoff=0]Shirou, Sakura.[lr]",
+      "jp": "「さて、今日はわたしの晩餐会に来て貰って感謝します。[cacheimage storage=イリヤ06e(中)][wvl][chgfg storage=イリヤ06e(中) pos=l time=300 textoff=0]シロウにサクラ。[lr]",
+      "Pt-br": "\"Agora, agradeço por terem vindo à minha festa de jantar hoje. [cacheimage storage=イリヤ06e(中)][wvl][chgfg storage=イリヤ06e(中) pos=l time=300 textoff=0]Shirou, Sakura.[lr]",
+      "id": 32167,
+      "epk_id": "19127",
+      "label": "$$$message_0146_0086_0000$$$"
+    },
+    {
+      "en": "You both look great in the clothes I picked for you.\"[lr]",
+      "jp": "　それに、お二人ともわたしの見立ての服もしっかり似合ってよかったわね」[lr]",
+      "Pt-br": "Vocês dois parecem ótimos com as roupas que escolhi para vocês.\"[lr]",
+      "id": 32168,
+      "epk_id": "19128",
+      "label": "$$$message_0146_0086_0001$$$"
+    },
+    {
+      "en": "\"I'm honored.\"",
+      "jp": "「恐縮です」",
+      "Pt-br": "\"Sou honrado.\"",
+      "id": 32169,
+      "epk_id": "19129",
+      "label": "$$$message_0146_0086_0002$$$"
+    },
+    {
+      "en": "\"I can't entertain you two properly today, but please make yourselves feel at home.[lr]",
+      "jp": "「今日はあんまりちゃんとしたおもてなしも出来ないけど、ゆっくりとくつろいでいってね。[lr]",
+      "Pt-br": "\"Não posso divertir vocês dois hoje de forma adequada, mas por favor, sintam-se em casa.[lr]",
+      "id": 32170,
+      "epk_id": "19130",
+      "label": "$$$message_0146_0087_0000$$$"
+    },
+    {
+      "en": "Okay, you're next, Shirou.\"",
+      "jp": "　はい、次はシロウの番」",
+      "Pt-br": "Okay, você é o próximo, Shirou.\"",
+      "id": 32171,
+      "epk_id": "19131",
+      "label": "$$$message_0146_0087_0001$$$"
+    },
+    {
+      "en": "Like a card game, it becomes my turn.[lr]",
+      "jp": "　カードゲームみたいに順番が回される。[lr]",
+      "Pt-br": "Como em um jogo de cartas, agora é minha vez.[lr]",
+      "id": 32172,
+      "epk_id": "19132",
+      "label": "$$$message_0146_0088_0000$$$"
+    },
+    {
+      "en": "...Huh? Does the guest of honor in places like this have to make some speech before their meal?",
+      "jp": "　……え？　食事の前に何かスピーチしなきゃいけないのか？　こういう場の主賓は？",
+      "Pt-br": "...Hmm? O hóspede de honra em lugares assim tem que fazer algum discurso antes de comer?",
+      "id": 32173,
+      "epk_id": "19133",
+      "label": "$$$message_0146_0088_0001$$$"
+    },
+    {
+      "en": "\"Oh...well...\"[lr]",
+      "jp": "「あ[line len=3]いや」[lr]",
+      "Pt-br": "\"Ah...pois bem...\"[lr]",
+      "id": 32174,
+      "epk_id": "19134",
+      "label": "$$$message_0146_0089_0000$$$"
+    },
+    {
+      "en": "My mind goes blank.[lr]",
+      "jp": "　頭の中が真っ白だ。[lr]",
+      "Pt-br": "Meu cérebro fica em branco.[lr]",
+      "id": 32175,
+      "epk_id": "19135",
+      "label": "$$$message_0146_0089_0001$$$"
+    },
+    {
+      "en": "I pick up the glass first and try swirling the white liquid for no reason.",
+      "jp": "　とりあえずグラスを手にして、中の白い液体を無意味に揺すってみたりする。",
+      "Pt-br": "Pego o copo primeiro e tento girar o líquido branco por um motivo qualquer.",
+      "id": 32176,
+      "epk_id": "19136",
+      "label": "$$$message_0146_0089_0002$$$"
+    },
+    {
+      "en": "\"Um...thank you for granting my unreasonable request and preparing such a fine venue.[lr]",
+      "jp": "「その[line len=2]今日はいろいろイリヤに無理をお願いして、こんなに立派な席を揃えてもらって、ありがとう。[lr]",
+      "Pt-br": "\"Um... obrigado por atender a minha requisição injustificável e por preparar um local tão bom.[lr]",
+      "id": 32177,
+      "epk_id": "19137",
+      "label": "$$$message_0146_0090_0000$$$"
+    },
+    {
+      "en": "I want to thank you properly, and are you also, um, enjoying this, Sakura?\"[lr]",
+      "jp": "　イリヤにはちゃんとお返しをしたいし、桜もその、なんだ、喜んでくれてるか？」[lr]",
+      "Pt-br": "Quero agradecer devidamente, e você também, hum, está gostando disso, Sakura?\"[lr]",
+      "id": 32178,
+      "epk_id": "19138",
+      "label": "$$$message_0146_0090_0001$$$"
+    },
+    {
+      "en": "I can't think of anything more than this.",
+      "jp": "　これ以上なにも思いつかない。",
+      "Pt-br": "Não consigo pensar em nada além disso.",
+      "id": 32179,
+      "epk_id": "19139",
+      "label": "$$$message_0146_0090_0002$$$"
+    },
+    {
+      "en": "\"Oh... Yes, I am! This dress is beautiful, [cacheimage storage=桜fd特殊03j頬(中)][wvl][chgfg time=200 storage=桜fd特殊03j頬(中) textoff=0]Senpai looks handsome, and this castle and dinner are splendid. For me, it's too...[cacheimage storage=桜fd特殊03k(中)][wvl canskip=false time=400][chgfg time=300 storage=桜fd特殊03k(中) textoff=0]um...\"",
+      "jp": "「あ……嬉しいです！　すごく！　ドレスは綺麗ですし、[cacheimage storage=桜fd特殊03j頬(中)][wvl][chgfg time=200 storage=桜fd特殊03j頬(中) textoff=0]先輩は格好いいですし、それにお城もお食事も立派で、わたしにはその……[cacheimage storage=桜fd特殊03k(中)][wvl canskip=false time=400][chgfg time=300 storage=桜fd特殊03k(中) textoff=0]う………」",
+      "Pt-br": "\"Oh... Sim, sou! Esta roupa é linda, [cacheimage storage=桜fd特殊03j頬(中)][wvl][chgfg time=200 storage=桜fd特殊03j頬(中) textoff=0]Senpai parece elegante, e este castelo e jantar são magníficos. Para mim, é muito...[cacheimage storage=桜fd特殊03k(中)][wvl canskip=false time=400][chgfg time=300 storage=桜fd特殊03k(中) textoff=0]um...\"",
+      "id": 32180,
+      "epk_id": "19140",
+      "label": "$$$message_0146_0091_0000$$$"
+    },
+    {
+      "en": "\"...Mm, [wvl canskip=0 time=400]ah, [wvl canskip=0 time=200]I shouldn't cry, even if it's because I'm happy... [wm canskip=0][wm canskip=0][cacheimage storage=桜fd特殊03d頬(近)][wvl][chgfg time=500 storage=桜fd特殊03d頬(近)]Thank you, Senpai, Illya.[lr]",
+      "jp": "「……ん、[wvl canskip=0 time=400]あ、[wvl canskip=0 time=200]泣いちゃ駄目ですね、嬉しくても……[wm canskip=0][wm canskip=0][cacheimage storage=桜fd特殊03d頬(近)][wvl][chgfg time=500 storage=桜fd特殊03d頬(近)]ありがとう先輩、イリヤさん。[lr]",
+      "Pt-br": "\"...Mm, [wvl canskip=0 time=400]ah, [wvl canskip=0 time=200]não deveria chorar, mesmo que seja porque estou feliz... [wm canskip=0][wm canskip=0][cacheimage storage=桜fd特殊03d頬(近)][wvl][chgfg time=500 storage=桜fd特殊03d頬(近)]Obrigado, Senpai, Illya-san.[lr]",
+      "id": 32181,
+      "epk_id": "19141",
+      "label": "$$$message_0146_0092_0000$$$"
+    },
+    {
+      "en": "I'm very happy to be here.\"[lr]",
+      "jp": "　こんな席に呼ばれて本当に嬉しいです、わたし」[lr]",
+      "Pt-br": "Estou muito feliz por estar aqui.\"[lr]",
+      "id": 32182,
+      "epk_id": "19142",
+      "label": "$$$message_0146_0092_0001$$$"
+    },
+    {
+      "en": "\"Thank you, Sakura. This is all I can do to help, but I'm glad that you're happy.[lr]",
+      "jp": "「ありがとうサクラ。わたしもこれくらいしか役に立てないけど、喜んでくれて嬉しいわ。[lr]",
+      "Pt-br": "\"Obrigado, Sakura. Isso é tudo o que posso fazer para ajudar, mas fico feliz que você esteja feliz.[lr]",
+      "id": 32183,
+      "epk_id": "19143",
+      "label": "$$$message_0146_0092_0002$$$"
+    },
+    {
+      "en": "Now... Cheers.\"",
+      "jp": "　では[line len=3]乾杯」",
+      "Pt-br": "Agora... Vamos.\"",
+      "id": 32184,
+      "epk_id": "19144",
+      "label": "$$$message_0146_0092_0003$$$"
+    },
+    {
+      "en": "Dinner begins.[lr]",
+      "jp": "　晩餐は始まった。[lr]",
+      "Pt-br": "Jantar começa.[lr]",
+      "id": 32185,
+      "epk_id": "19145",
+      "label": "$$$message_0146_0093_0000$$$"
+    },
+    {
+      "en": "Elegant dishes and rich-tasting wine come out one after another.[lr]",
+      "jp": "　次々にやってくる品の良い料理や、風味の良いワイン。[lr]",
+      "Pt-br": "Pratos elegantes e vinho de sabor rico saem um após o outro.[lr]",
+      "id": 32186,
+      "epk_id": "19146",
+      "label": "$$$message_0146_0093_0001$$$"
+    },
+    {
+      "en": "Illya looks on in satisfaction, while Leys and Sella respectfully serve us.[lr]",
+      "jp": "　食席を楽しそうに眺めて満足するイリヤ、恭しく給仕してくれるリズとセラ。[lr]",
+      "Pt-br": "Illya observa com satisfação, enquanto Leys e Sella nos servem com respeito.[lr]",
+      "id": 32187,
+      "epk_id": "19147",
+      "label": "$$$message_0146_0093_0002$$$"
+    },
+    {
+      "en": "Sakura is smiling shyly.[lr]",
+      "jp": "　桜は遠慮がちにはにかんでいる。[lr]",
+      "Pt-br": "Sakura sorri timidamente.[lr]",
+      "id": 32188,
+      "epk_id": "19148",
+      "label": "$$$message_0146_0093_0003$$$"
+    },
+    {
+      "en": "She's on the verge of tears, soaking in the simple happiness.",
+      "jp": "　それは泣き出す一歩手前みたいな、染み入るような、ささやかな幸福のカタチだった。",
+      "Pt-br": "Ela está no limite das lágrimas, absorvendo a simples felicidade.",
+      "id": 32189,
+      "epk_id": "19149",
+      "label": "$$$message_0146_0093_0004$$$"
+    },
+    {
+      "en": "\"Ahh... That was delicious. I'm so impressed by the food of Illya's house.\"[lr]",
+      "jp": "「はぁ……美味しかったですね、さすがイリヤさんの家のお料理です」[lr]",
+      "Pt-br": "\"Ah... Foi delicioso. Estou muito impressionado com a comida da casa de Illya-san.\"[lr]",
+      "id": 32190,
+      "epk_id": "19150",
+      "label": "$$$message_0146_0094_0000$$$"
+    },
+    {
+      "en": "It's after dinner.[lr]",
+      "jp": "　晩餐の後。[lr]",
+      "Pt-br": "É após o jantar.[lr]",
+      "id": 32191,
+      "epk_id": "19151",
+      "label": "$$$message_0146_0094_0001$$$"
+    },
+    {
+      "en": "After having dessert, I ended up escorting Sakura here.",
+      "jp": "　デザートまでしっかり取ってから桜をエスコートしてここまでやってきた。",
+      "Pt-br": "Após ter o doce, acabei levando Sakura aqui.",
+      "id": 32192,
+      "epk_id": "19152",
+      "label": "$$$message_0146_0094_0002$$$"
+    },
+    {
+      "en": "\"That surprised me, too. I didn't know Leys and Sella were so good at cooking.\"[lr]",
+      "jp": "「俺もビックリした。リズとセラ、あんなに料理が上手かったんだなって」[lr]",
+      "Pt-br": "\"Isso me surpreendeu também. Não sabia que Leys e Sella eram tão boas na cozinha.\"[lr]",
+      "id": 32193,
+      "epk_id": "19153",
+      "label": "$$$message_0146_0095_0000$$$"
+    },
+    {
+      "en": "\"Do you think it was Sella? Or was there a chef? I wonder if it's better to learn traditional French cooking here... Hmm.\"",
+      "jp": "「セラさんですかね？　それともシェフがいたんでしょうかね？　本格フレンチはこっちで教わったほうがいいのかなぁ……うーん」",
+      "Pt-br": "\"Você acha que foi Sella-san? Ou talvez um cozinheiro? Pensei em aprender culinária francesa tradicional aqui... Hmm.\"",
+      "id": 32194,
+      "epk_id": "19154",
+      "label": "$$$message_0146_0095_0001$$$"
+    },
+    {
+      "en": "We can't help but talk about cooking.[lr]",
+      "jp": "　つい、話題が料理の事になってしまう。[lr]",
+      "Pt-br": "Não conseguimos deixar de falar sobre cozinhar.[lr]",
+      "id": 32195,
+      "epk_id": "19155",
+      "label": "$$$message_0146_0096_0000$$$"
+    },
+    {
+      "en": "...I feel silly.[lr]",
+      "jp": "　……不甲斐ない。[lr]",
+      "Pt-br": "...Sinto-me bobo.[lr]",
+      "id": 32196,
+      "epk_id": "19156",
+      "label": "$$$message_0146_0096_0001$$$"
+    },
+    {
+      "en": "Sakura wearing a dress is in the garden alone with me, so I should say something more thoughtful.",
+      "jp": "　せっかく桜がドレス姿で、二人っきりで庭園にいるんだからもっと気の利いた話をするべきだろうに。",
+      "Pt-br": "Sakura, vestindo um vestido, está sozinha comigo no jardim, então eu deveria dizer algo mais pensativo.",
+      "id": 32197,
+      "epk_id": "19157",
+      "label": "$$$message_0146_0096_0002$$$"
+    },
+    {
+      "en": "\"...Sakura.\"[lr]",
+      "jp": "「[line len=3]桜」[lr]",
+      "Pt-br": "\"...Sakura.\"[lr]",
+      "id": 32198,
+      "epk_id": "19158",
+      "label": "$$$message_0146_0097_0000$$$"
+    },
+    {
+      "en": "\"Senpai, you're the one who granted my wish today, right?\"[lr]",
+      "jp": "「先輩？　今日は先輩が、わたしのお願いを叶えてくれたんですよね？」[lr]",
+      "Pt-br": "\"Senpai, você é o que concedeu meu desejo hoje, né?\"[lr]",
+      "id": 32199,
+      "epk_id": "19159",
+      "label": "$$$message_0146_0097_0001$$$"
+    },
+    {
+      "en": "Just as I was about to speak, she says that.",
+      "jp": "　口を開いた矢先に、そう言われる。",
+      "Pt-br": "Assim que eu ia falar, ela diz isso.",
+      "id": 32200,
+      "epk_id": "19160",
+      "label": "$$$message_0146_0097_0002$$$"
+    },
+    {
+      "en": "\"...Well, yeah. I just happened to remember, and Illya helped me out.[lr]",
+      "jp": "「……まあな。なんとなく思い出して、イリヤに協力してもらったんだ。[lr]",
+      "Pt-br": "\"Bem, sim. Só me lembrei, e a Illya me ajudou.[lr]",
+      "id": 32201,
+      "epk_id": "19161",
+      "label": "$$$message_0146_0098_0000$$$"
+    },
+    {
+      "en": "The result exceeded my expectations, though.\"",
+      "jp": "　結果は予想以上になってくれたけど」",
+      "Pt-br": "O resultado ultrapassou minhas expectativas, embora.\"",
+      "id": 32202,
+      "epk_id": "19162",
+      "label": "$$$message_0146_0098_0001$$$"
+    },
+    {
+      "en": "\"Yes. It was something I said on a whim without thinking, but you actually remembered.\"",
+      "jp": "「はい。あのときは何気なく口にしたコトだったんですけど、ちゃんと先輩は覚えていてくれたんですね」",
+      "Pt-br": "\"Sim. Eu disse aquilo por impulso, sem pensar muito, mas você lembrou mesmo, Senpai.\"",
+      "id": 32203,
+      "epk_id": "19163",
+      "label": "$$$message_0146_0099_0000$$$"
+    },
+    {
+      "en": "That was on the usual way back home.[lr]",
+      "jp": "　それは、いつかの帰り道の話。[lr]",
+      "Pt-br": "Isso foi no caminho usual para casa.[lr]",
+      "id": 32204,
+      "epk_id": "19164",
+      "label": "$$$message_0146_0100_0000$$$"
+    },
+    {
+      "en": "After buying and eating food with Sakura, I held onto that secret and wanted to grant that little wish.",
+      "jp": "　桜と一緒に買い食いをして帰ったり、秘密を持ったり、そんな些細な願いを叶えてやりたいと思ったのだ。",
+      "Pt-br": "Após comprar e comer com Sakura, segurei aquele segredo e queria conceder aquele pequeno desejo.",
+      "id": 32205,
+      "epk_id": "19165",
+      "label": "$$$message_0146_0100_0001$$$"
+    },
+    {
+      "en": "\"I was surprised at first.[lr]",
+      "jp": "「最初、びっくりしちゃいました。[lr]",
+      "Pt-br": "\"Fiquei surpreso no início.[lr]",
+      "id": 32206,
+      "epk_id": "19166",
+      "label": "$$$message_0146_0101_0000$$$"
+    },
+    {
+      "en": "Illya and the maids came, and while I was still surprised, they prepared a dress and told me I was invited to the dinner party tonight.\"",
+      "jp": "　イリヤさんとメイドさんたちがやってきて、こっちが驚いてる間にドレスが用意されて、今晩は晩餐会に招待するっていわれて」",
+      "Pt-br": "Illya-san e as criadas vieram, e enquanto eu ainda estava surpreso, elas prepararam um vestido e me disseram que estava convidado para a festa de jantar hoje à noite.\"",
+      "id": 32207,
+      "epk_id": "19167",
+      "label": "$$$message_0146_0101_0001$$$"
+    },
+    {
+      "en": "\"Ah... That would be surprising. Sorry, I should've told you beforehand.\"[lr]",
+      "jp": "「あー……そりゃ驚くよな。わるい、先に言っておけば良かった」[lr]",
+      "Pt-br": "\"Ah... Isso seria surpreendente. Desculpe, deveria ter te avisado antes.\"[lr]",
+      "id": 32208,
+      "epk_id": "19168",
+      "label": "$$$message_0146_0102_0000$$$"
+    },
+    {
+      "en": "\"Hehe. I didn't know what was going on at all at first, but once I found out that you were also coming, I thought... Oh, it's that.",
+      "jp": "「ふふ。どういうコトか最初はさっぱりだったんですけど、先輩が一緒だって分かったから、ああ、これがそれなんだな……って思ったんです」",
+      "Pt-br": "\"Hehe. No tinha a mínima ideia do que estava acontecendo no início, mas assim que descobri que você também estava vindo, pensei... Ah, é isso, Senpai.",
+      "id": 32209,
+      "epk_id": "19169",
+      "label": "$$$message_0146_0102_0001$$$"
+    },
+    {
+      "en": "It was quite sudden.[lr]",
+      "jp": "　随分と急なイベントだったのだ。[lr]",
+      "Pt-br": "Foi bastante súbito.[lr]",
+      "id": 32210,
+      "epk_id": "19170",
+      "label": "$$$message_0146_0103_0000$$$"
+    },
+    {
+      "en": "But, had Illya not arranged everything, it most likely wouldn't have turned out this way.",
+      "jp": "　しかし、イリヤがああして段取ってくれなければ、この出来事には届かなかっただろう。",
+      "Pt-br": "Mas, se Illya não tivesse arrumado tudo, provavelmente não teria terminado assim.",
+      "id": 32211,
+      "epk_id": "19171",
+      "label": "$$$message_0146_0103_0001$$$"
+    },
+    {
+      "en": "\"Well, it was a lot for me too. I didn't think that even I was going to dress up.[lr]",
+      "jp": "「いや、こっちも大変だったんだぞ？　俺まで正装するとは思わなかったからな。[lr]",
+      "Pt-br": "\"Bem, foi muito para mim também. Não achei que até eu ia me arrumar.[lr]",
+      "id": 32212,
+      "epk_id": "19172",
+      "label": "$$$message_0146_0104_0000$$$"
+    },
+    {
+      "en": "Ugh, this too[line len=2]Well, whatever.\"[lr]",
+      "jp": "　ああもう、これも[line len=2]いや、いいか」[lr]",
+      "Pt-br": "Ugh, isso também[line len=2]Bem, que seja.\"[lr]",
+      "id": 32213,
+      "epk_id": "19173",
+      "label": "$$$message_0146_0104_0001$$$"
+    },
+    {
+      "en": "During the dinner, I thought of taking off the bow tie choking my neck, but I didn't.[lr]",
+      "jp": "　晩餐の間中、きゅうくつに首を締めていたネクタイを外そうとして、止めた。[lr]",
+      "Pt-br": "Durante o jantar, pensei em tirar a gravata que me estrangulava o pescoço, mas não fiz.[lr]",
+      "id": 32214,
+      "epk_id": "19174",
+      "label": "$$$message_0146_0104_0002$$$"
+    },
+    {
+      "en": "If Sakura is still dressed up, her wish isn't over yet.",
+      "jp": "　桜が正装しているのなら、まだ願いは終わっていない。",
+      "Pt-br": "Se Sakura ainda estiver trajada, seu desejo não terminou ainda.",
+      "id": 32215,
+      "epk_id": "19175",
+      "label": "$$$message_0146_0104_0003$$$"
+    },
+    {
+      "en": "\"I'm glad I asked Illya. I wouldn't have been able to keep this promise on my own.\"[lr]",
+      "jp": "「イリヤに相談して良かったよ。俺じゃあまだまだ、この約束は叶えられなかった」[lr]",
+      "Pt-br": "\"Fiquei feliz em perguntar a Illya. Não teria conseguido manter essa promessa sozinho.\"[lr]",
+      "id": 32216,
+      "epk_id": "19176",
+      "label": "$$$message_0146_0105_0000$$$"
+    },
+    {
+      "en": "\"...Yes. I never dreamed that I'd get to wear a dress like this.\"",
+      "jp": "「……そうですね。わたしもこんなドレスを着られるなんて、夢にも思ってませんでした」",
+      "Pt-br": "\"...Sim. Nunca sonhei que conseguiria usar um vestido assim.\"",
+      "id": 32217,
+      "epk_id": "19177",
+      "label": "$$$message_0146_0105_0001$$$"
+    },
+    {
+      "en": "Sakura holds up the hem of her dress and twirls in place.[lr]",
+      "jp": "　くるっと、裾を持って桜がその場で回る。[lr]",
+      "Pt-br": "Sakura segura o tecido do vestido e gira no lugar.[lr]",
+      "id": 32218,
+      "epk_id": "19178",
+      "label": "$$$message_0146_0106_0000$$$"
+    },
+    {
+      "en": "She's a cherry blossom dancing in the moonlit garden.",
+      "jp": "　月夜の庭園に、桜の花が舞っている。",
+      "Pt-br": "Ela é uma cereja em flor dançando no jardim iluminado pela Lua.",
+      "id": 32219,
+      "epk_id": "19179",
+      "label": "$$$message_0146_0106_0001$$$"
+    },
+    {
+      "en": "\"It really is like a fairy tale.[lr]",
+      "jp": "「まるでおとぎ話みたいですよね。[lr]",
+      "Pt-br": "\"Parece mesmo um conto de fadas.[lr]",
+      "id": 32220,
+      "epk_id": "19180",
+      "label": "$$$message_0146_0107_0000$$$"
+    },
+    {
+      "en": "I get invited to a dinner party at this castle wearing a dress, you come pick me up, and now we're talking in the garden at night.\"[lr]",
+      "jp": "　わたしがドレスを着てお城の晩餐会にお呼ばれして、先輩が迎えに来てくれて、夜中にこうして庭園でお話ししているなんて」[lr]",
+      "Pt-br": "Eu fui convidada para uma festa de jantar nesse castelo usando um vestido, você veio me buscar e agora estamos conversando no jardim à noite, Senpai.\"[lr]",
+      "id": 32221,
+      "epk_id": "19181",
+      "label": "$$$message_0146_0107_0001$$$"
+    },
+    {
+      "en": "\"...Yeah. It's a little too good to be true.\"",
+      "jp": "「……そうだな。ちょい出来すぎだ」",
+      "Pt-br": "\"...É sim. É um pouco demais para ser verdade.\"",
+      "id": 32222,
+      "epk_id": "19182",
+      "label": "$$$message_0146_0107_0002$$$"
+    },
+    {
+      "en": "\"Hehe. Illya may actually be a wonderful witch who cast a lovely spell on us.\"",
+      "jp": "「ふふ。イリヤさんがほんとうにすごい魔女で、素敵な魔法を掛けてくれたのかもしれません」",
+      "Pt-br": "\"Hehe. Talvez a Illya-san seja mesmo uma bruxa maravilhosa que lançou um encanto lindo sobre nós.\"",
+      "id": 32223,
+      "epk_id": "19183",
+      "label": "$$$message_0146_0108_0000$$$"
+    },
+    {
+      "en": "That's a good way to put it.[lr]",
+      "jp": "　良くできた喩え話だ。[lr]",
+      "Pt-br": "Isso é uma boa forma de dizer.[lr]",
+      "id": 32224,
+      "epk_id": "19184",
+      "label": "$$$message_0146_0109_0000$$$"
+    },
+    {
+      "en": "But, this kind of fairy tale tends to end by going back to the way things were before.",
+      "jp": "　しかし、この手の童話のオチは、えてして振り出しに戻ってしまう。",
+      "Pt-br": "Mas, esse tipo de conto de fadas tende a terminar voltando para como as coisas eram antes.",
+      "id": 32225,
+      "epk_id": "19185",
+      "label": "$$$message_0146_0109_0001$$$"
+    },
+    {
+      "en": "\"If this is magic, then it's going to end, isn't it?\"[lr]",
+      "jp": "「魔法、だったら終わっちゃいますね」[lr]",
+      "Pt-br": "\"Se isso é magia, então vai acabar, não é?\"[lr]",
+      "id": 32226,
+      "epk_id": "19186",
+      "label": "$$$message_0146_0110_0000$$$"
+    },
+    {
+      "en": "\"Yeah. I'd expect it to wear off once the clock strikes twelve.\"[lr]",
+      "jp": "「そうだな。十二時になったら、魔法が解けて」[lr]",
+      "Pt-br": "\"É claro. Espero que desapareça assim que o relógio bater meia-noite.\"[lr]",
+      "id": 32227,
+      "epk_id": "19187",
+      "label": "$$$message_0146_0110_0001$$$"
+    },
+    {
+      "en": "\"Then I would forget my glass slipper on the staircase, and you would pick that up and look for me.[lr]",
+      "jp": "「それでわたしは階段にガラスの靴を置き忘れて、先輩がそれを手にしてわたしを捜してくれるんです。[lr]",
+      "Pt-br": "\"Então eu esqueceria minha slipper de vidro na escada, e você a pegaria e procuraria por mim, Senpai.[lr]",
+      "id": 32228,
+      "epk_id": "19188",
+      "label": "$$$message_0146_0110_0002$$$"
+    },
+    {
+      "en": "But even then, I would no longer come back dressed up.\"",
+      "jp": "　それでも、そのときの着飾ったわたしはもう帰ってきません」",
+      "Pt-br": "Mas mesmo assim, eu não voltaria mais vestido.\"",
+      "id": 32229,
+      "epk_id": "19189",
+      "label": "$$$message_0146_0110_0003$$$"
+    },
+    {
+      "en": "\"...Why is that?\"[lr]",
+      "jp": "「……それは、なんで？」[lr]",
+      "Pt-br": "\"...Por que é isso?\"[lr]",
+      "id": 32230,
+      "epk_id": "19190",
+      "label": "$$$message_0146_0111_0000$$$"
+    },
+    {
+      "en": "\"Because...it's better if it stays a beautiful memory.[lr]",
+      "jp": "「その方が[line len=3]思い出は綺麗な方がいいです。[lr]",
+      "Pt-br": "\"Porque... é melhor que fique como uma linda memória.[lr]",
+      "id": 32231,
+      "epk_id": "19191",
+      "label": "$$$message_0146_0111_0001$$$"
+    },
+    {
+      "en": "Besides, instead of being with you dressed up... [cacheimage storage=桜fd特殊03j(中)][wvl canskip=false time=400][chgfg time=300 storage=桜fd特殊03j(中) textoff=0]I want to be by your side, as my normal self, forever.\"",
+      "jp": "　それに、わたしは着飾って先輩と一緒にいるより……[cacheimage storage=桜fd特殊03j(中)][wvl canskip=false time=400][chgfg time=300 storage=桜fd特殊03j(中) textoff=0]ずっと、いつものままの自分で、傍にいたいです」",
+      "Pt-br": "Além disso, em vez de estar com você vestido... [cacheimage storage=桜fd特殊03j(中)][wvl canskip=false time=400][chgfg time=300 storage=桜fd特殊03j(中) textoff=0]quero estar ao seu lado, como eu sou normalmente, para sempre, Senpai.\"",
+      "id": 32232,
+      "epk_id": "19192",
+      "label": "$$$message_0146_0111_0002$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「[line len=6]」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 32233,
+      "epk_id": "19193",
+      "label": "$$$message_0146_0112_0000$$$"
+    },
+    {
+      "en": "...That wish, no matter how small, is a certain one.[lr]",
+      "jp": "　……その願いが、どれほど小さく、確かなものだったのか。[lr]",
+      "Pt-br": "...Essa desejo, por menor que seja, é certo.[lr]",
+      "id": 32234,
+      "epk_id": "19194",
+      "label": "$$$message_0146_0112_0001$$$"
+    },
+    {
+      "en": "She's no fairy-tale princess.[lr]",
+      "jp": "　童話の中の姫はいない。[lr]",
+      "Pt-br": "Ela não é uma princesa de conto de fadas.[lr]",
+      "id": 32235,
+      "epk_id": "19195",
+      "label": "$$$message_0146_0112_0002$$$"
+    },
+    {
+      "en": "How blind of me. It was never something that could be quick and easy.",
+      "jp": "　とんだ節穴だ。そんな、即席で簡単なものは、初めからいなかった。",
+      "Pt-br": "Quão cego de mim. Nunca foi algo que pudesse ser resolvido rápido e fácil.",
+      "id": 32236,
+      "epk_id": "19196",
+      "label": "$$$message_0146_0112_0003$$$"
+    },
+    {
+      "en": "Without either of us meaning to, our bodies touch.[lr]",
+      "jp": "　どちらともなく、体が触れあった。[lr]",
+      "Pt-br": "Sem que nenhum de nós quisesse, nossos corpos se tocam.[lr]",
+      "id": 32237,
+      "epk_id": "19197",
+      "label": "$$$message_0146_0113_0000$$$"
+    },
+    {
+      "en": "Sensing Sakura's slim body and the scent of her hair close to me, our fingers naturally intertwine.",
+      "jp": "　桜の身体の細さと髪の香りを身近にして、自然と指が重なり合う。",
+      "Pt-br": "Sentindo o corpo fininho de Sakura e o cheiro do seu cabelo próximo ao meu, nossos dedos se entrelaçam naturalmente.",
+      "id": 32238,
+      "epk_id": "19198",
+      "label": "$$$message_0146_0113_0001$$$"
+    },
+    {
+      "en": "\"...Senpai.[lr]",
+      "jp": "「…………先輩。[lr]",
+      "Pt-br": "\"...Senpai.[lr]",
+      "id": 32239,
+      "epk_id": "19199",
+      "label": "$$$message_0146_0114_0000$$$"
+    },
+    {
+      "en": "I'm still the Sakura that you've always known, even now.\"[lr]",
+      "jp": "　わたし、先輩の知ってるわたしのままですよ、今でも」[lr]",
+      "Pt-br": "Sou ainda a Sakura que você sempre conheceu, mesmo agora, Senpai.\"[lr]",
+      "id": 32240,
+      "epk_id": "19200",
+      "label": "$$$message_0146_0114_0001$$$"
+    },
+    {
+      "en": "\"Yeah. You're you.[lr]",
+      "jp": "「そうだな。桜は桜だ。[lr]",
+      "Pt-br": "\"É. Você é você.[lr]",
+      "id": 32241,
+      "epk_id": "19201",
+      "label": "$$$message_0146_0114_0002$$$"
+    },
+    {
+      "en": "...Sorry. I was so blinded by your dress that I got dumb ideas.\"",
+      "jp": "　……ごめんな。ドレスに目が眩んで、さっきまでバカな勘違いをしてた」",
+      "Pt-br": "...Desculpe. Fiquei tão cegado pelo seu vestido que tive ideias tolas.\"",
+      "id": 32242,
+      "epk_id": "19202",
+      "label": "$$$message_0146_0114_0003$$$"
+    },
+    {
+      "en": "\"Ah[line len=2]yes...!\"[lr]",
+      "jp": "「ぁ[line len=3]はい……！」[lr]",
+      "Pt-br": "\"Ah[line len=2]sim...!\"[lr]",
+      "id": 32243,
+      "epk_id": "19203",
+      "label": "$$$message_0146_0115_0000$$$"
+    },
+    {
+      "en": "There's a strong sense of acceptance in her voice.[lr]",
+      "jp": "　声には受け入れる強さがある。[lr]",
+      "Pt-br": "Há uma forte sensação de aceitação na sua voz.[lr]",
+      "id": 32244,
+      "epk_id": "19204",
+      "label": "$$$message_0146_0115_0001$$$"
+    },
+    {
+      "en": "Not the Sakura that's like a princess.[lr]",
+      "jp": "　お姫様のような桜、ではなく。[lr]",
+      "Pt-br": "Não é a Sakura que é como uma princesa.[lr]",
+      "id": 32245,
+      "epk_id": "19205",
+      "label": "$$$message_0146_0115_0002$$$"
+    },
+    {
+      "en": "The one that's in front of me is the usual Sakura simply dressed up as a princess.[lr]",
+      "jp": "　目の前にいるのは、お姫様の格好をしただけの、いつも通りの桜だった。[lr]",
+      "Pt-br": "A que está diante de mim é a usual Sakura, só que vestida de princesa.[lr]",
+      "id": 32246,
+      "epk_id": "19206",
+      "label": "$$$message_0146_0115_0003$$$"
+    },
+    {
+      "en": "Sakura had not mistaken that from the start.",
+      "jp": "　それを、桜は初めから間違えてはいなかったのだ。",
+      "Pt-br": "Sakura não havia se enganado desde o início.",
+      "id": 32247,
+      "epk_id": "19207",
+      "label": "$$$message_0146_0115_0004$$$"
+    },
+    {
+      "en": "\"...Senpai, is it okay?\"[lr]",
+      "jp": "「……………先輩、いいですか？」[lr]",
+      "Pt-br": "\"...Senpai, tudo bem?\"[lr]",
+      "id": 32248,
+      "epk_id": "19208",
+      "label": "$$$message_0146_0116_0000$$$"
+    },
+    {
+      "en": "\"What is?\"[lr]",
+      "jp": "「いいって、なにが？」[lr]",
+      "Pt-br": "\"O que é?\"[lr]",
+      "id": 32249,
+      "epk_id": "19209",
+      "label": "$$$message_0146_0116_0001$$$"
+    },
+    {
+      "en": "\"For me to be by your side forever. Will you allow that?\"",
+      "jp": "「わたしがずっと傍にいて[line len=3]それを許してくれますか？」",
+      "Pt-br": "\"Para eu estar ao seu lado para sempre. Você permitirá isso?\"",
+      "id": 32250,
+      "epk_id": "19210",
+      "label": "$$$message_0146_0116_0002$$$"
+    },
+    {
+      "en": "\"The Sakura Matou by your side isn't a pretty princess.[lr]",
+      "jp": "「傍にいる間桐桜って女の子は、こんな着飾ったお姫様じゃないんです。[lr]",
+      "Pt-br": "\"A Matou Sakura ao seu lado não é uma princesa bonita.[lr]",
+      "id": 32251,
+      "epk_id": "19211",
+      "label": "$$$message_0146_0117_0000$$$"
+    },
+    {
+      "en": "She's a plain, shy, and clumsy girl who can't even say what she wants to say.[lr]",
+      "jp": "　地味で、内気で、不器用で、言いたいこともちゃんと言い出せない女の子なんです。[lr]",
+      "Pt-br": "Ela é uma garota tímida, desajeitada e bem simples, que nem consegue dizer o que quer dizer.[lr]",
+      "id": 32252,
+      "epk_id": "19212",
+      "label": "$$$message_0146_0117_0001$$$"
+    },
+    {
+      "en": "Are you still fine with that, Senpai...?\"",
+      "jp": "　それでもいいですか、先輩……？」",
+      "Pt-br": "Você ainda está bem com isso, Senpai...?\"",
+      "id": 32253,
+      "epk_id": "19213",
+      "label": "$$$message_0146_0117_0002$$$"
+    },
+    {
+      "en": "Of course.[lr]",
+      "jp": "　もちろんだ。[lr]",
+      "Pt-br": "Claro.[lr]",
+      "id": 32254,
+      "epk_id": "19214",
+      "label": "$$$message_0146_0118_0000$$$"
+    },
+    {
+      "en": "As long as we act on our thoughts and keep wishing, our everyday life will never end.",
+      "jp": "　その思いが叶う限り、その願いを思う限り、日常が終わる事はない。",
+      "Pt-br": "Enquanto agimos com nossos pensamentos e continuamos desejando, nossa vida cotidiana nunca terminará.",
+      "id": 32255,
+      "epk_id": "19215",
+      "label": "$$$message_0146_0118_0001$$$"
+    },
+    {
+      "en": "\"Even if I'm a girl that will get jealous about how beautiful Saber is or get a bit sad when you're getting along with my sister or Rider?\"[lr]",
+      "jp": "「セイバーさんが綺麗でヤキモチを焼いたり、姉さんやライダーが仲良くしているとちょっと哀しかったりもする女の子でも、ですか？」[lr]",
+      "Pt-br": "\"Mesmo que eu seja uma garota que vai se sentir ciumenta por como Saber-san é bonita ou um pouco triste quando vocês dois se dão bem, Nee-san?\"[lr]",
+      "id": 32256,
+      "epk_id": "19216",
+      "label": "$$$message_0146_0119_0000$$$"
+    },
+    {
+      "en": "\"Yeah. What's wrong with that?[lr]",
+      "jp": "「ああ、いいんじゃないかそれぐらい。[lr]",
+      "Pt-br": "\"É mesmo. O que há de errado nisso?[lr]",
+      "id": 32257,
+      "epk_id": "19217",
+      "label": "$$$message_0146_0119_0001$$$"
+    },
+    {
+      "en": "We're human, so there's a lot to think about.[lr]",
+      "jp": "　人間なんだから、考えるコトはいっぱいある。[lr]",
+      "Pt-br": "Somos humanos, então tem muita coisa para pensar.[lr]",
+      "id": 32258,
+      "epk_id": "19218",
+      "label": "$$$message_0146_0119_0002$$$"
+    },
+    {
+      "en": "I like you the way that you are, and that's how I want you to be.\"",
+      "jp": "　俺はそういう桜が好きだし、そういう桜でいてほしい」",
+      "Pt-br": "Eu gosto de você como você é, e assim quero que você continue.\"",
+      "id": 32259,
+      "epk_id": "19219",
+      "label": "$$$message_0146_0119_0003$$$"
+    },
+    {
+      "en": "\"...Senpai.\"[lr]",
+      "jp": "「…………先輩」[lr]",
+      "Pt-br": "\"...Senpai.\"[lr]",
+      "id": 32260,
+      "epk_id": "19220",
+      "label": "$$$message_0146_0120_0000$$$"
+    },
+    {
+      "en": "An entrancing whisper and teary eyes.[lr]",
+      "jp": "　陶然とした囁きと、うるんだ瞳。[lr]",
+      "Pt-br": "Um sussurro encantador e olhos cheios de lágrimas.[lr]",
+      "id": 32261,
+      "epk_id": "19221",
+      "label": "$$$message_0146_0120_0001$$$"
+    },
+    {
+      "en": "\"Oh, um...\"[lr]",
+      "jp": "「あ、なんだ[line len=3]」[lr]",
+      "Pt-br": "\"Oh, um...\"[lr]",
+      "id": 32262,
+      "epk_id": "19222",
+      "label": "$$$message_0146_0120_0002$$$"
+    },
+    {
+      "en": "My chest hurts.[lr]",
+      "jp": "　胸が苦しくなる。[lr]",
+      "Pt-br": "Meu peito dói.[lr]",
+      "id": 32263,
+      "epk_id": "19223",
+      "label": "$$$message_0146_0120_0003$$$"
+    },
+    {
+      "en": "If she looks at me with those eyes, my face will burn up.",
+      "jp": "　ここでそんな目をされたら、こっちの顔だって火照ってしまう。",
+      "Pt-br": "Se ela me olhar com esses olhos, meu rosto vai arder.",
+      "id": 32264,
+      "epk_id": "19224",
+      "label": "$$$message_0146_0120_0004$$$"
+    },
+    {
+      "en": "\"W-well, that's how it is, so I'll be counting on you from now... Damn, that doesn't sound like me, does it.[lr]",
+      "jp": "「ま、まあそういうワケだから、今後ともよろしくってコトなんだが……くそ、らしくないな。[lr]",
+      "Pt-br": "\"Bem, é assim que é, então contarei com você a partir de agora... Merda, isso não soa como eu, é?[lr]",
+      "id": 32265,
+      "epk_id": "19225",
+      "label": "$$$message_0146_0121_0000$$$"
+    },
+    {
+      "en": "It might be because of the atmosphere, but I'm saying something rather embarrassing. I'm acting weird, aren't I?\"",
+      "jp": "　雰囲気のせいか、随分と恥ずかしいコト言ってる。おかしくないか、俺？」",
+      "Pt-br": "Pode ser por causa da atmosfera, mas estou dizendo algo bastante constrangedor. Estou agindo estranho, não estou?\"",
+      "id": 32266,
+      "epk_id": "19226",
+      "label": "$$$message_0146_0121_0001$$$"
+    },
+    {
+      "en": "\"No, not at all![lr]",
+      "jp": "「いいえ、決して！[lr]",
+      "Pt-br": "\"Não, nem um pouco![lr]",
+      "id": 32267,
+      "epk_id": "19227",
+      "label": "$$$message_0146_0122_0000$$$"
+    },
+    {
+      "en": "I think it's very much like you and great!\"[lr]",
+      "jp": "　はい、先輩らしくてとってもいいと思います！」[lr]",
+      "Pt-br": "Acho que é muito parecido com você e incrível, Senpai!\"[lr]",
+      "id": 32268,
+      "epk_id": "19228",
+      "label": "$$$message_0146_0122_0001$$$"
+    },
+    {
+      "en": "She replies, full of energy.[lr]",
+      "jp": "　元気いっぱいに返される。[lr]",
+      "Pt-br": "Ela responde, cheia de energia.[lr]",
+      "id": 32269,
+      "epk_id": "19229",
+      "label": "$$$message_0146_0122_0002$$$"
+    },
+    {
+      "en": "...Well, that's a relief.",
+      "jp": "　……ああ、それなら本当に良かった。",
+      "Pt-br": "Bem, isso é alívio.",
+      "id": 32270,
+      "epk_id": "19230",
+      "label": "$$$message_0146_0122_0003$$$"
+    },
+    {
+      "en": "\"Also, there was one other good thing, but I'll keep it to myself.[lr]",
+      "jp": "「あと、もう一つ良かったコトがあるんですけど、それはないしょにしておきますね。[lr]",
+      "Pt-br": "\"Também havia outra coisa boa, mas vou deixar para mim mesmo.[lr]",
+      "id": 32271,
+      "epk_id": "19231",
+      "label": "$$$message_0146_0123_0000$$$"
+    },
+    {
+      "en": "What you just clearly put in words will be my secret, just for me.\"",
+      "jp": "　きちんと言葉にしてもらえたコトは、わたしだけの秘密ですから」",
+      "Pt-br": "O que você acabou de dizer claramente será meu segredo, só para mim.\"",
+      "id": 32272,
+      "epk_id": "19232",
+      "label": "$$$message_0146_0123_0001$$$"
+    },
+    {
+      "en": "Sakura smiles shyly.[lr]",
+      "jp": "　はにかむ桜。[lr]",
+      "Pt-br": "Sakura sorri timidamente.[lr]",
+      "id": 32273,
+      "epk_id": "19233",
+      "label": "$$$message_0146_0124_0000$$$"
+    },
+    {
+      "en": "Whatever this secret is, it must be precious only to her, and no one else.",
+      "jp": "　きっと、その秘密とやらは他人には取るに足りないコトなのだろう。",
+      "Pt-br": "Qualquer que seja esse segredo, só pode ser precioso para ela e para ninguém mais.",
+      "id": 32274,
+      "epk_id": "19234",
+      "label": "$$$message_0146_0124_0001$$$"
+    },
+    {
+      "en": "\"All right. Well, I'm going to keep relying on you.\"[lr]",
+      "jp": "「よし。んじゃ、これからもお世話になります」[lr]",
+      "Pt-br": "\"Tudo bem. Bem, vou continuar contando com você.\"[lr]",
+      "id": 32275,
+      "epk_id": "19235",
+      "label": "$$$message_0146_0125_0000$$$"
+    },
+    {
+      "en": "\"No no, I owe you a lot, too.[lr]",
+      "jp": "「いえいえ、わたしこそ先輩にお世話になります。[lr]",
+      "Pt-br": "\"Não, não. Eu também te devo muito, Senpai.[lr]",
+      "id": 32276,
+      "epk_id": "19236",
+      "label": "$$$message_0146_0125_0001$$$"
+    },
+    {
+      "en": "Thank you so much for today.\"[lr]",
+      "jp": "　今日は本当にありがとうございました」[lr]",
+      "Pt-br": "Obrigado muito por hoje.\"[lr]",
+      "id": 32277,
+      "epk_id": "19237",
+      "label": "$$$message_0146_0125_0002$$$"
+    },
+    {
+      "en": "Sakura bows bashfully.[lr]",
+      "jp": "　もじもじとお辞儀をする桜。[lr]",
+      "Pt-br": "Sakura se inclina com vergonha.[lr]",
+      "id": 32278,
+      "epk_id": "19238",
+      "label": "$$$message_0146_0125_0003$$$"
+    },
+    {
+      "en": "We act the same as we always do, but that's the biggest relief I could ask for.",
+      "jp": "　最後までいつも通りだが、俺たちにはそれが何よりも安心できた。",
+      "Pt-br": "A gente age da mesma forma que sempre, mas isso é o alívio maior que eu poderia pedir.",
+      "id": 32279,
+      "epk_id": "19239",
+      "label": "$$$message_0146_0125_0004$$$"
+    },
+    {
+      "en": "\"Oh yeah. We need to properly thank Illya later.\"[lr]",
+      "jp": "「っと。イリヤにも後でちゃんとお礼しないとな」[lr]",
+      "Pt-br": "\"Ah, sim. Precisamos agradecer a Illya devidamente mais tarde.\"[lr]",
+      "id": 32280,
+      "epk_id": "19240",
+      "label": "$$$message_0146_0126_0000$$$"
+    },
+    {
+      "en": "\"Let's make Illya dinner at her house. We're going to make Illya wear a furisode this time. I'm sure she'll look cute.\"[lr]",
+      "jp": "「わたしと先輩で、イリヤさんのお家でご馳走しましょう？　今度はイリヤさんに振り袖を着せるんです、きっと可愛いと思いますよ」[lr]",
+      "Pt-br": "\"Vamos fazer jantar na casa da Illya-san. Vamos fazer com que ela vista um furisode dessa vez. Tenho certeza de que ela vai parecer fofa, Senpai.\"[lr]",
+      "id": 32281,
+      "epk_id": "19241",
+      "label": "$$$message_0146_0126_0001$$$"
+    },
+    {
+      "en": "\"I think Fuji-nee has a child-size furisode at her house... Good idea. Let's surprise Illya next time.\"",
+      "jp": "「藤ねえの家にたしかあったな、子供用の振り袖……いいな、それは。今度はイリヤをびっくりさせよう」",
+      "Pt-br": "\"Acho que a Fuji-nee tem um furisode de tamanho infantil em casa... Boa ideia. Vamos surpreender a Illya na próxima vez.\"",
+      "id": 32282,
+      "epk_id": "19242",
+      "label": "$$$message_0146_0126_0002$$$"
+    },
+    {
+      "en": "We leave the garden as we talk,[lr]",
+      "jp": "　二人で話し合いながら、庭園を過ぎる。[lr]",
+      "Pt-br": "Saímos do jardim enquanto falamos.[lr]",
+      "id": 32283,
+      "epk_id": "19243",
+      "label": "$$$message_0146_0127_0000$$$"
+    },
+    {
+      "en": "fingers still intertwined.[lr]",
+      "jp": "　重なった指はそのまま。[lr]",
+      "Pt-br": "dedos ainda entrelaçados.[lr]",
+      "id": 32284,
+      "epk_id": "19244",
+      "label": "$$$message_0146_0127_0001$$$"
+    },
+    {
+      "en": "We're still gently holding hands when we reach the lobby entrance.",
+      "jp": "　ロビーへの扉をくぐり抜けるまで、柔らかく繋がれたままだった。",
+      "Pt-br": "Estamos ainda segurando as mãos com delicadeza quando alcançamos a entrada do lobby.",
+      "id": 32285,
+      "epk_id": "19245",
+      "label": "$$$message_0146_0127_0002$$$"
+    },
+    {
+      "en": "\"Now then, we're going to stay here tonight, right? I'll see you to your room.\"[lr]",
+      "jp": "「さて、今日はここに泊まるんだよな。桜の部屋まで送るけど」[lr]",
+      "Pt-br": "\"Agora então, vamos ficar aqui hoje à noite, certo? Eu te levo até o seu quarto.\"[lr]",
+      "id": 32286,
+      "epk_id": "19246",
+      "label": "$$$message_0146_0128_0000$$$"
+    },
+    {
+      "en": "\"Oh... I'm okay. We met here with Illya's magic after all, so we'll part here, and I will return to the regular Sakura Matou tomorrow.\"",
+      "jp": "「あ……大丈夫です。やっぱりイリヤさんの魔法でここで出会ったんですから、ここで別れて明日から、わたしはまたいつもの間桐桜に戻ります」",
+      "Pt-br": "\"Oh... Estou bem. Conhecemos aqui graças à magia de Illya-san, então nos despedimos aqui e eu volto à Matou Sakura normal daqui para o dia seguinte.\"",
+      "id": 32287,
+      "epk_id": "19247",
+      "label": "$$$message_0146_0128_0001$$$"
+    },
+    {
+      "en": "\"...I see. Yeah, that is for the best.[lr]",
+      "jp": "「……なるほど。たしかにそれがいい。[lr]",
+      "Pt-br": "\"...Entendi. Sim, isso é melhor assim.[lr]",
+      "id": 32288,
+      "epk_id": "19248",
+      "label": "$$$message_0146_0129_0000$$$"
+    },
+    {
+      "en": "I'll also return to my usual self tomorrow.[lr]",
+      "jp": "　明日になれば俺もいつもの俺に戻るからな。[lr]",
+      "Pt-br": "Retornarei ao meu eu habitual amanhã.[lr]",
+      "id": 32289,
+      "epk_id": "19249",
+      "label": "$$$message_0146_0129_0001$$$"
+    },
+    {
+      "en": "Good night, Sakura.\"[lr]",
+      "jp": "　おやすみ、桜」[lr]",
+      "Pt-br": "Boa noite, Sakura.\"[lr]",
+      "id": 32290,
+      "epk_id": "19250",
+      "label": "$$$message_0146_0129_0002$$$"
+    },
+    {
+      "en": "\"Good night, Senpai.\"",
+      "jp": "「おやすみなさい、先輩」",
+      "Pt-br": "\"Boa noite, Senpai.\"",
+      "id": 32291,
+      "epk_id": "19251",
+      "label": "$$$message_0146_0129_0003$$$"
+    },
+    {
+      "en": "We part with a light bow to each other.[lr]",
+      "jp": "　軽くお辞儀をして別れる。[lr]",
+      "Pt-br": "Trocamos um leve cumprimento com um curto arco.[lr]",
+      "id": 32292,
+      "epk_id": "19252",
+      "label": "$$$message_0146_0130_0000$$$"
+    },
+    {
+      "en": "The night as dazzling as her dress comes to an end.[lr]",
+      "jp": "　彼女の衣装の如く煌びやかだった夜は終わる。[lr]",
+      "Pt-br": "A noite tão brilhante quanto seu vestido chega ao fim.[lr]",
+      "id": 32293,
+      "epk_id": "19253",
+      "label": "$$$message_0146_0130_0001$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「………………」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 32294,
+      "epk_id": "19254",
+      "label": "$$$message_0146_0130_0002$$$"
+    },
+    {
+      "en": "I try to extinguish the burning flame of love in my heart, as I head to my bedroom to welcome the morning.[lr]",
+      "jp": "　胸に灯る愛情を爪で掻き、朝を迎える為の寝所へ向かう。[lr]",
+      "Pt-br": "Tento apagar a chama ardente do amor no meu coração, enquanto vou para meu quarto para receber a manhã.[lr]",
+      "id": 32295,
+      "epk_id": "19255",
+      "label": "$$$message_0146_0130_0003$$$"
+    },
+    {
+      "en": "I blink several times, as if to engrave this beautiful Sakura into my memory. I hope I never forget it.",
+      "jp": "　何度かまばたきをして、忘れぬよう、美しい桜の花をこの[ruby text=きろく char=2]眼球に焼き付けた。:`\u001f",
+      "Pt-br": "Eu franzo os olhos várias vezes, como se quisesse gravar essa linda Sakura na minha memória. Espero nunca esquecê-la.",
+      "id": 32296,
+      "epk_id": "19256",
+      "label": "$$$message_0146_0130_0004$$$"
+    }
+  ]
+}

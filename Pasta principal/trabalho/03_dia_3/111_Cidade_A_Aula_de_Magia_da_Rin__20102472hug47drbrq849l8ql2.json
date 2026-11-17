@@ -1,0 +1,1344 @@
+{
+  "cena": "20102472hug47drbrq849l8ql2",
+  "titulo": "Cidade: A Aula de Magia da Rin",
+  "rota": "Dia 3",
+  "arquivo": "20102472hug47drbrq849l8ql2.epk_dec",
+  "linhas": [
+    {
+      "en": "I'll go to Tohsaka's house.[lr]",
+      "jp": "　遠坂の家に行こう。[lr]",
+      "Pt-br": "Eu vou até a casa da Tohsaka.[lr]",
+      "id": 16552,
+      "epk_id": "15721",
+      "label": "$$$message_0122_0000_0000$$$"
+    },
+    {
+      "en": "After coming back home, she told me to come to her house if I had the time, so I should drop by.",
+      "jp": "　帰国後、『暇ができたら遠坂邸に来い』と言われていたし、顔を出しておくのもいいだろう。",
+      "Pt-br": "Depois de voltar para casa, ela me disse para ir à casa dela se eu tivesse tempo, então eu deveria dar uma passada por lá.",
+      "id": 16553,
+      "epk_id": "15722",
+      "label": "$$$message_0122_0000_0001$$$"
+    },
+    {
+      "en": "And as I go inside the Tohsaka house...[lr]",
+      "jp": "　で、遠坂の家に上がると[line len=3][lr]",
+      "Pt-br": "E conforme eu entro na residência dos Tohsaka...[lr]",
+      "id": 16554,
+      "epk_id": "15723",
+      "label": "$$$message_0122_0001_0000$$$"
+    },
+    {
+      "en": "\"...What are you doing?\"[lr]",
+      "jp": "「……何やってるんだ？」[lr]",
+      "Pt-br": "\"...O que você está fazendo?\"[lr]",
+      "id": 16555,
+      "epk_id": "15724",
+      "label": "$$$message_0122_0001_0001$$$"
+    },
+    {
+      "en": "\"Oh, Shirou... Can't you tell by looking?\"",
+      "jp": "「あ、士郎……見て分からない？」",
+      "Pt-br": "\"Ah, Shirou... Você não consegue dizer só de olhar?\"",
+      "id": 16556,
+      "epk_id": "15725",
+      "label": "$$$message_0122_0001_0002$$$"
+    },
+    {
+      "en": "...It doesn't not...look like she's cooking.[lr]",
+      "jp": "　……料理に見えなくも、ない。[lr]",
+      "Pt-br": "...Não me parece... que ela está cozinhando.[lr]",
+      "id": 16557,
+      "epk_id": "15726",
+      "label": "$$$message_0122_0002_0000$$$"
+    },
+    {
+      "en": "There is a rather vintage pot on her desk.[lr]",
+      "jp": "　机の上にずいぶん年代物の釜が載っかっている。[lr]",
+      "Pt-br": "Tem uma panela um tanto quanto antiga na sua escrivaninha.[lr]",
+      "id": 16558,
+      "epk_id": "15727",
+      "label": "$$$message_0122_0002_0001$$$"
+    },
+    {
+      "en": "Most of all, it looks rather worn out and weirdly shaped, so it doesn't look like an item that you'd cook with.[lr]",
+      "jp": "　もっとも、年季の入り方と不気味な形をしているので、料理をするアイテムには見えない。[lr]",
+      "Pt-br": "Mais do que tudo, parece bastante desgastada e tem um formato estranho, então não parece um item que você usaria para cozinhar.[lr]",
+      "id": 16559,
+      "epk_id": "15728",
+      "label": "$$$message_0122_0002_0002$$$"
+    },
+    {
+      "en": "On top of that, a mountain of ingredients are piled up.[lr]",
+      "jp": "　加えて山ほど積み上がっている食材。[lr]",
+      "Pt-br": "Por cima disso, há uma montanha de ingredientes empilhados.[lr]",
+      "id": 16560,
+      "epk_id": "15729",
+      "label": "$$$message_0122_0002_0003$$$"
+    },
+    {
+      "en": "There's a bunch of peculiar vegetables that aren't commonly used.",
+      "jp": "　普通は使う事のない、奇妙な野草が束になっている。",
+      "Pt-br": "Há um monte de vegetais peculiares que não são comumente usados.",
+      "id": 16561,
+      "epk_id": "15730",
+      "label": "$$$message_0122_0002_0004$$$"
+    },
+    {
+      "en": "\"...Tohsaka, are you going to eat that?\"[lr]",
+      "jp": "「……遠坂、それ、食うのか？」[lr]",
+      "Pt-br": "\"...Tohsaka, você vai comer isso?\"[lr]",
+      "id": 16562,
+      "epk_id": "15731",
+      "label": "$$$message_0122_0003_0000$$$"
+    },
+    {
+      "en": "\"You ask odd things. These are all medicinal herbs.\"",
+      "jp": "「おかしなこと訊くわね。薬草じゃない、これ全部」",
+      "Pt-br": "\"Você pergunta umas coisas bem estranhas. Essas são todas ervas medicinais.\"",
+      "id": 16563,
+      "epk_id": "15732",
+      "label": "$$$message_0122_0003_0001$$$"
+    },
+    {
+      "en": "...Oh, medicinal herbs. Then will it be edible?[lr]",
+      "jp": "　……薬草か。なら食べられるんだろうか？[lr]",
+      "Pt-br": "...Ah, ervas medicinais. Então vai ser comestível?[lr]",
+      "id": 16564,
+      "epk_id": "15733",
+      "label": "$$$message_0122_0004_0000$$$"
+    },
+    {
+      "en": "No, it might be medicine that you put on wounds.[lr]",
+      "jp": "　いや、傷口に当てる薬かも知れない。[lr]",
+      "Pt-br": "Não, pode ser um remédio que se passa nas feridas.[lr]",
+      "id": 16565,
+      "epk_id": "15734",
+      "label": "$$$message_0122_0004_0001$$$"
+    },
+    {
+      "en": "I've had Tohsaka put some secret ointment of the Tohsaka family on me before. So this is how it's made.",
+      "jp": "　前に遠坂秘伝の傷薬を塗って貰った事があるが、あれもこうやって作っているのか。",
+      "Pt-br": "A Tohsaka já aplicou umas pomadas secretas da família Tohsaka em mim antes. Então é assim que é feito.",
+      "id": 16566,
+      "epk_id": "15735",
+      "label": "$$$message_0122_0004_0002$$$"
+    },
+    {
+      "en": "\"Oh... Yeah, I didn't say what I'm making. [cacheimage storage=åç§æ04a(ä¸­)][wvl][chgfg time=300 storage=åç§æ04a(ä¸­) textoff=0]I'm going to make this into an infusion.\"[lr]",
+      "jp": "「あー……そうね、なに作るか言ってなかったわね。[cacheimage storage=凛私服04a(中)][wvl][chgfg time=300 storage=凛私服04a(中) textoff=0]これ、煎じ薬にするの」[lr]",
+      "Pt-br": "\"Ah... É, eu não disse o que eu estou fazendo. [cacheimage storage=凛私服04a(中)][wvl][chgfg time=300 storage=凛私服04a(中) textoff=0]Eu vou fazer isso virar uma infusão.\"[lr]",
+      "id": 16567,
+      "epk_id": "15736",
+      "label": "$$$message_0122_0005_0000$$$"
+    },
+    {
+      "en": "\"Hm? Will it be nourishing, or for rejuvenating beauty?\"[lr]",
+      "jp": "「ふむ？　効能は滋養強壮とか美容[ruby text=かいしゅん char=2]回春とか？」[lr]",
+      "Pt-br": "\"Hm? Vai ser nutritivo, ou para rejuvenescimento da beleza?\"[lr]",
+      "id": 16568,
+      "epk_id": "15737",
+      "label": "$$$message_0122_0005_0001$$$"
+    },
+    {
+      "en": "\"I might be able to make it into my side job if I'm able to make it. It seems like there's actually a lot of businesses that are operating as drugstores on the surface.\"[lr]",
+      "jp": "「作れたら副業に出来るかもね。実際、この稼業で表の職業が薬屋って多いわよ」[lr]",
+      "Pt-br": "\"Se eu conseguir preparar, talvez dê para transformar isso num bico. Pelo visto, há muitos negócios que funcionam como farmácias de fachada.\"[lr]",
+      "id": 16569,
+      "epk_id": "15738",
+      "label": "$$$message_0122_0005_0002$$$"
+    },
+    {
+      "en": "I see.[lr]",
+      "jp": "　へぇ。[lr]",
+      "Pt-br": "Entendo.[lr]",
+      "id": 16570,
+      "epk_id": "15739",
+      "label": "$$$message_0122_0005_0003$$$"
+    },
+    {
+      "en": "So since the old days when mages, doctors, and faith healers couldn't be differentiated, the reputation of a drugstore was standard.[lr]",
+      "jp": "　魔術師と医者と[ruby text=きとう char=2]祈祷師との区別が出来ない昔から、薬屋の看板は定番という事か。[lr]",
+      "Pt-br": "Então, desde os velhos tempos em que magos, médicos e curandeiros religiosos não podiam ser diferenciados, a reputação de uma farmácia era padrão.[lr]",
+      "id": 16571,
+      "epk_id": "15740",
+      "label": "$$$message_0122_0005_0004$$$"
+    },
+    {
+      "en": "...However. When Tohsaka says \"side job,\" I feel this urgent sense of desperation.",
+      "jp": "　……しかし。遠坂が副業と言うと、どこか身を絞るように切実な香りがするなぁ。",
+      "Pt-br": "...Porém. Quando a Tohsaka diz \"emprego secundário\", eu sinto esse senso urgente de desespero.",
+      "id": 16572,
+      "epk_id": "15741",
+      "label": "$$$message_0122_0005_0005$$$"
+    },
+    {
+      "en": "\"Emiya. What are you smiling about?\"[lr]",
+      "jp": "「衛宮くん。なによ、その笑いは」[lr]",
+      "Pt-br": "\"Emiya-kun. Do que você está rindo?\"[lr]",
+      "id": 16573,
+      "epk_id": "15742",
+      "label": "$$$message_0122_0006_0000$$$"
+    },
+    {
+      "en": "\"Nothing. So, what are you using that for?\"[lr]",
+      "jp": "「なんでもない。で、何に使うんだ？」[lr]",
+      "Pt-br": "\"De nada. Então, para que você está usando isso?\"[lr]",
+      "id": 16574,
+      "epk_id": "15743",
+      "label": "$$$message_0122_0006_0001$$$"
+    },
+    {
+      "en": "\"...It's something that you must not need, but I shall tell my unworthy pupil.\"[lr]",
+      "jp": "「……衛宮くんには不要なものだろうけど、不肖の弟子にもしっかり教えてあげましょう」[lr]",
+      "Pt-br": "\"...É algo que Emiya-kun não deve precisar, mas eu falarei para meu indigno aluno.\"[lr]",
+      "id": 16575,
+      "epk_id": "15744",
+      "label": "$$$message_0122_0006_0002$$$"
+    },
+    {
+      "en": "I nod and listen to what Tohsaka has to say.",
+      "jp": "　ふむふむ、と頷いて遠坂の話を聞く。",
+      "Pt-br": "Eu aceno com a cabeça e ouço o que a Tohsaka tem a dizer.",
+      "id": 16576,
+      "epk_id": "15745",
+      "label": "$$$message_0122_0006_0003$$$"
+    },
+    {
+      "en": "\"It's a medicine to suppress the Magic Crest.\"[lr]",
+      "jp": "「魔術刻印を抑制するための薬よ」[lr]",
+      "Pt-br": "\"É um remédio para suprimir a Marca Mágica.\"[lr]",
+      "id": 16577,
+      "epk_id": "15746",
+      "label": "$$$message_0122_0007_0000$$$"
+    },
+    {
+      "en": "\"...I see, I wouldn't need that.\"[lr]",
+      "jp": "「……なるほど、それは俺には要らないな」[lr]",
+      "Pt-br": "\"...Entendi, eu não precisaria disso.\"[lr]",
+      "id": 16578,
+      "epk_id": "15747",
+      "label": "$$$message_0122_0007_0001$$$"
+    },
+    {
+      "en": "A Magic Crest.[lr]",
+      "jp": "　魔術刻印。[lr]",
+      "Pt-br": "Uma Marca Mágica.[lr]",
+      "id": 16579,
+      "epk_id": "15748",
+      "label": "$$$message_0122_0007_0002$$$"
+    },
+    {
+      "en": "I don't have one, but it's a type of inheritance that Tohsaka has succeeded from her ancestors.[lr]",
+      "jp": "　俺には無いが、遠坂は先祖代々受け継いでいるという遺産の一種だ。[lr]",
+      "Pt-br": "Eu não tenho uma, mas é um tipo de herança que a Tohsaka sucedeu de seus ancestrais.[lr]",
+      "id": 16580,
+      "epk_id": "15749",
+      "label": "$$$message_0122_0007_0003$$$"
+    },
+    {
+      "en": "It is the achievement and tenacity of a mage, a fixed mystery.[lr]",
+      "jp": "　魔術師の成果であり執念でもある、固定化された神秘。[lr]",
+      "Pt-br": "É a conquista e tenacidade de um mago, um mistério fixo.[lr]",
+      "id": 16581,
+      "epk_id": "15750",
+      "label": "$$$message_0122_0007_0004$$$"
+    },
+    {
+      "en": "That is fully engraved into Tohsaka's left arm.",
+      "jp": "　それは、遠坂の左腕にびっしり彫り込まれてある。",
+      "Pt-br": "Isso está totalmente gravado no braço esquerdo da Tohsaka.",
+      "id": 16582,
+      "epk_id": "15751",
+      "label": "$$$message_0122_0007_0005$$$"
+    },
+    {
+      "en": "\"The Magic Crest will get used to you once you grow up, but it's someone else's body in the end. It's hard to suppress it unless you take medicine after all.\"[lr]",
+      "jp": "「魔術刻印は成長すれば慣れるけど、結局他人の身体だからね。やっぱり薬を飲まないと押さえ込むのは辛いし」[lr]",
+      "Pt-br": "\"A Marca Mágica se acostumará com você assim que você crescer, mas afinal, ainda é o corpo de outra pessoa. É difícil suprimi-la a menos que você tome remédio afinal.\"[lr]",
+      "id": 16583,
+      "epk_id": "15752",
+      "label": "$$$message_0122_0008_0000$$$"
+    },
+    {
+      "en": "\"Like an immunosuppressant...\"[lr]",
+      "jp": "「免疫抑制剤みたいなものか……」[lr]",
+      "Pt-br": "\"Tipo um imunossupressor...\"[lr]",
+      "id": 16584,
+      "epk_id": "15753",
+      "label": "$$$message_0122_0008_0001$$$"
+    },
+    {
+      "en": "\"That is, unless you're a mage family with a lineage spanning 500 or 600 years. [cacheimage storage=åç§æ01e(ä¸­)][wvl][chgfg storage=åç§æ01e(ä¸­) time=300 textoff=0]Mine has blood from outside the clan, and it's a lineage from the Far East of less than only 200 years, so we have to rely on these kinds of things.\"",
+      "jp": "「五百年も六百年も続いて血統操作してるような魔術師の一族ならともかくね。[cacheimage storage=凛私服01e(中)][wvl][chgfg storage=凛私服01e(中) time=300 textoff=0]うちは族外の血は入るし、たかだか二百年足らずの極東の家柄だから、こういう物に頼らないといけないの」",
+      "Pt-br": "\"Isto é, a menos que você seja de uma família de magos com uma linhagem que abrange 500 ou 600 anos. [cacheimage storage=凛私服01e(中)][wvl][chgfg storage=凛私服01e(中) time=300 textoff=0]A minha tem sangue de fora do clã, e é uma linhagem do Extremo Oriente de menos de 200 anos apenas, então temos que depender desse tipo de coisa.\"",
+      "id": 16585,
+      "epk_id": "15754",
+      "label": "$$$message_0122_0008_0002$$$"
+    },
+    {
+      "en": "...Only 200 years.[lr]",
+      "jp": "　[line len=3]たかだか二百年。[lr]",
+      "Pt-br": "...De 200 anos apenas.[lr]",
+      "id": 16586,
+      "epk_id": "15755",
+      "label": "$$$message_0122_0009_0000$$$"
+    },
+    {
+      "en": "All this talk is making me dizzy.[lr]",
+      "jp": "　目眩のする様な話だ。[lr]",
+      "Pt-br": "Todo esse papo está me deixando tonto.[lr]",
+      "id": 16587,
+      "epk_id": "15756",
+      "label": "$$$message_0122_0009_0001$$$"
+    },
+    {
+      "en": "It's a large enough scale to make me sigh and impossible to imagine from the days that I admired Kiritsugu and wanted to become a mage like him.",
+      "jp": "　切嗣に魔術師になりたい、と憧れていたあの頃からは想像も出来ない、溜息の出るようなスケールである。",
+      "Pt-br": "É uma escala tão grande que me faz suspirar e ser incapaz de imaginar dos dias em que eu admirava o Kiritsugu e queria me tornar um mago como ele.",
+      "id": 16588,
+      "epk_id": "15757",
+      "label": "$$$message_0122_0009_0002$$$"
+    },
+    {
+      "en": "\"Isn't being able to use things like this also proof that you're a distinguished mage?\"[lr]",
+      "jp": "「こういうのを使えるっていうのも、遠坂が立派な魔術師の証拠じゃないのか」[lr]",
+      "Pt-br": "\"Mas poder usar coisas assim não é também a prova de que você é uma maga distinta?\"[lr]",
+      "id": 16589,
+      "epk_id": "15758",
+      "label": "$$$message_0122_0010_0000$$$"
+    },
+    {
+      "en": "\"...Maybe. Well then, Shirou, please take this.\"[lr]",
+      "jp": "「……かもしれないわね、じゃ、士郎。これお願い」[lr]",
+      "Pt-br": "\"...Talvez. Bem então, Shirou, por favor fique com isso.\"[lr]",
+      "id": 16590,
+      "epk_id": "15759",
+      "label": "$$$message_0122_0010_0001$$$"
+    },
+    {
+      "en": "Tohsaka smiles as she pushes an old book into my hands.[lr]",
+      "jp": "　遠坂が笑いながら、俺の手に古い本を押しつけてくる。[lr]",
+      "Pt-br": "A Tohsaka sorri enquanto empurra um livro antigo nas minhas mãos.[lr]",
+      "id": 16591,
+      "epk_id": "15760",
+      "label": "$$$message_0122_0010_0002$$$"
+    },
+    {
+      "en": "It's as worn out as the pot...[lr]",
+      "jp": "　これも鍋と同じくらい年季が入っていて……[lr]",
+      "Pt-br": "É tão desgastado quanto a panela...[lr]",
+      "id": 16592,
+      "epk_id": "15761",
+      "label": "$$$message_0122_0010_0003$$$"
+    },
+    {
+      "en": "...Who? Naga...to... Tohsaka...",
+      "jp": "　[line len=3]誰？　遠坂時……永……",
+      "Pt-br": "...O que? Naga... to... Tohsaka...",
+      "id": 16593,
+      "epk_id": "15762",
+      "label": "$$$message_0122_0010_0004$$$"
+    },
+    {
+      "en": "\"It says the instructions where the sticky note is, so I'll leave the rest to you.\"[lr]",
+      "jp": "「[ruby text=ふせん char=2]付箋の貼ってあるところに作り方が書いてあるから、後はよろしく」[lr]",
+      "Pt-br": "\"Diz as instruções onde a nota adesiva está, então deixarei o resto para você.\"[lr]",
+      "id": 16594,
+      "epk_id": "15763",
+      "label": "$$$message_0122_0011_0000$$$"
+    },
+    {
+      "en": "\"Wait, Tohsaka. What is this?\"[lr]",
+      "jp": "「待て遠坂。これは何だ？」[lr]",
+      "Pt-br": "\"Espera, Tohsaka. O que é isso?\"[lr]",
+      "id": 16595,
+      "epk_id": "15764",
+      "label": "$$$message_0122_0011_0001$$$"
+    },
+    {
+      "en": "\"Huh? It's the formula book passed down from my ancestors. Since you're my pupil, I'll show you my family's important[line len=2]\"[lr]",
+      "jp": "「え？　先祖代々の調合表よ。弟子の貴方だから見せてあげる重要な我が家の……」[lr]",
+      "Pt-br": "\"Hã? É o livro de fórmulas passado pelos meus ancestrais. Já que você é meu aluno, eu lhe mostrarei as importantes...[line len=2]\"[lr]",
+      "id": 16596,
+      "epk_id": "15765",
+      "label": "$$$message_0122_0011_0002$$$"
+    },
+    {
+      "en": "\"...Are you sure it's okay if I make it?\"[lr]",
+      "jp": "「……いいのか？　俺が作っても」[lr]",
+      "Pt-br": "\"...Você tem certeza de que tudo bem se eu fizer isso?\"[lr]",
+      "id": 16597,
+      "epk_id": "15766",
+      "label": "$$$message_0122_0011_0003$$$"
+    },
+    {
+      "en": "I ask Tohsaka, without concealing my worries.",
+      "jp": "　遠坂に不安を隠さず訊ねる。",
+      "Pt-br": "Pergunto a Tohsaka, sem esconder as minhas preocupações.",
+      "id": 16598,
+      "epk_id": "15767",
+      "label": "$$$message_0122_0011_0004$$$"
+    },
+    {
+      "en": "I mean, isn't that right? It's like administering an immunosuppressant that an amateur made to a heart transplant patient. There's a limit to how reckless you can be.[lr]",
+      "jp": "　だってそうだろう？　素人の作った免疫抑制剤を、心臓移植の患者に投与するようなものだ。暴挙にも程がある。[lr]",
+      "Pt-br": "Digo, não estou certo? É como administrar um imunossupressor que um amador fez para um paciente de transplante de coração. Há um limite de quão imprudente você pode ser.[lr]",
+      "id": 16599,
+      "epk_id": "15768",
+      "label": "$$$message_0122_0012_0000$$$"
+    },
+    {
+      "en": "Plus, Tohsaka is the one who is taking it.",
+      "jp": "　しかも、それを飲むのは遠坂なのだ。",
+      "Pt-br": "Além disso, é a Tohsaka quem vai tomar isso.",
+      "id": 16600,
+      "epk_id": "15769",
+      "label": "$$$message_0122_0012_0001$$$"
+    },
+    {
+      "en": "\"If you make it as it says, it's fine. I was also trained against my will when I was an elementary schooler.\"[lr]",
+      "jp": "「書いてあるとおりに作れば大丈夫。わたしだって、小学生の頃に泣く泣く仕込まれたんだし」[lr]",
+      "Pt-br": "\"Se você fizer como diz ali, ficará tudo bem. Eu também fui treinada contra minha vontade quando eu estava no primário.\"[lr]",
+      "id": 16601,
+      "epk_id": "15770",
+      "label": "$$$message_0122_0013_0000$$$"
+    },
+    {
+      "en": "\"...So you're saying it's fine?\"[lr]",
+      "jp": "「……だから大丈夫、だと？」[lr]",
+      "Pt-br": "\"...Então você está dizendo que não tem problema?\"[lr]",
+      "id": 16602,
+      "epk_id": "15771",
+      "label": "$$$message_0122_0013_0001$$$"
+    },
+    {
+      "en": "\"This is part of your training, Emiya.[lr]",
+      "jp": "「これも修行の一環よ衛宮くん。[lr]",
+      "Pt-br": "\"Isso faz parte do seu treinamento, Emiya-kun.[lr]",
+      "id": 16603,
+      "epk_id": "15772",
+      "label": "$$$message_0122_0013_0002$$$"
+    },
+    {
+      "en": "Stop complaining and do it. I'll check the finished product.\"",
+      "jp": "　つべこべ言わずにやりなさい。出来はわたしが見てあげるから」",
+      "Pt-br": "Pare de reclamar e faça. Eu checarei o produto final.\"",
+      "id": 16604,
+      "epk_id": "15773",
+      "label": "$$$message_0122_0013_0003$$$"
+    },
+    {
+      "en": "\"...Mrgh.\"[lr]",
+      "jp": "「……むう」[lr]",
+      "Pt-br": "\"...Mrgh.\"[lr]",
+      "id": 16605,
+      "epk_id": "15774",
+      "label": "$$$message_0122_0014_0000$$$"
+    },
+    {
+      "en": "It can't be helped if she tells me that.[lr]",
+      "jp": "　そう言われれば仕方ない。[lr]",
+      "Pt-br": "Não tem como evitar se ela me disser isso.[lr]",
+      "id": 16606,
+      "epk_id": "15775",
+      "label": "$$$message_0122_0014_0001$$$"
+    },
+    {
+      "en": "I can't lose if she was trained when she was an elementary schooler.",
+      "jp": "　小学生の頃に仕込まれた、と言われては負けてはいられない。",
+      "Pt-br": "Eu não posso perder se ela foi treinada quando estava no primário.",
+      "id": 16607,
+      "epk_id": "15776",
+      "label": "$$$message_0122_0014_0002$$$"
+    },
+    {
+      "en": "\"Okay, I'll try then... Oof, it's handwritten. And it's in cursive...\"[lr]",
+      "jp": "「わかった、じゃあ挑戦してみる……うわ、筆書きだ。それも草書……」[lr]",
+      "Pt-br": "\"Ok, eu vou tentar então... Ufa, foi escrito à mão. E está em cursiva...\"[lr]",
+      "id": 16608,
+      "epk_id": "15777",
+      "label": "$$$message_0122_0015_0000$$$"
+    },
+    {
+      "en": "I can't help but groan when I see the yellowed pages of the bound book.[lr]",
+      "jp": "　ぺらぺらと黄ばんだ綴じ本を見て思わず呻く。[lr]",
+      "Pt-br": "Não posso deixar de gemer quando vejo as páginas amareladas do livro encadernado.[lr]",
+      "id": 16609,
+      "epk_id": "15778",
+      "label": "$$$message_0122_0015_0001$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=åç§æ05b(ä¸­) textoff=0][se storage=se522.wav]So Tohsaka's ancestor was from that kind of era. There's things written in with pen on top of the brush writing, and it's totally like a research journal passed down from generation to generation.",
+      "jp": "　[chgfg time=300 storage=凛私服05b(中) textoff=0][se storage=se522.wav]遠坂のご先祖さんというのはそんな時代の人だったのか。筆書きにペンの書き込みがあったりとか、如何にも一族代々の研究ノート然としている。",
+      "Pt-br": "[chgfg time=300 storage=凛私服05b(中) textoff=0][se storage=se522.wav]Então o ancestral da Tohsaka era desse tipo de época. Há coisas escritas com caneta por cima da escrita de pincel, e é totalmente como um diário de pesquisa passado de geração para geração.",
+      "id": 16610,
+      "epk_id": "15779",
+      "label": "$$$message_0122_0015_0002$$$"
+    },
+    {
+      "en": "\"Yeah, I have to recompile it during my generation; it's starting to reach its limit.\"[lr]",
+      "jp": "「そうね、わたしの代で一度編集し直さないと。いい加減保存の限界よね」[lr]",
+      "Pt-br": "\"Sim, terei que recompilá-lo durante a minha geração; está começando a chegar ao limite.\"[lr]",
+      "id": 16611,
+      "epk_id": "15780",
+      "label": "$$$message_0122_0016_0000$$$"
+    },
+    {
+      "en": "\"...So, Tohsaka. It's this page, right?\"[lr]",
+      "jp": "「……でだな、遠坂。このページで間違ってないよな？」[lr]",
+      "Pt-br": "\"...Então, Tohsaka. É nesta página, certo?\"[lr]",
+      "id": 16612,
+      "epk_id": "15781",
+      "label": "$$$message_0122_0016_0001$$$"
+    },
+    {
+      "en": "I show Tohsaka the page that has the sticky note on it.[lr]",
+      "jp": "　[ruby text=ふせん char=2]付箋の貼ってあるページを開いて遠坂に見せる。[lr]",
+      "Pt-br": "Eu mostro à Tohsaka a página que tem a nota adesiva.[lr]",
+      "id": 16613,
+      "epk_id": "15782",
+      "label": "$$$message_0122_0016_0002$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=åç§æ06e(ä¸­) textoff=0]I'm not sure what I'd do if it was a completely different page because of Tohsaka's famous carelessness again.[lr]",
+      "jp": "　[chgfg time=300 storage=凛私服06e(中) textoff=0]もしかして遠坂お得意のうっかりで、全然違うページだったらどうしようかと。[lr]",
+      "Pt-br": "[chgfg time=300 storage=凛私服06e(中) textoff=0]Eu não sei bem o que eu faria se fosse em uma página completamente diferente por conta da famosa falta de atenção da Tohsaka de novo.[lr]",
+      "id": 16614,
+      "epk_id": "15783",
+      "label": "$$$message_0122_0016_0003$$$"
+    },
+    {
+      "en": "Tohsaka frantically looks at it after I point it out...",
+      "jp": "　指摘に慌てて遠坂が覗き込んで[line len=3]",
+      "Pt-br": "A Tohsaka freneticamente olha para ele depois que eu o aponto...",
+      "id": 16615,
+      "epk_id": "15784",
+      "label": "$$$message_0122_0016_0004$$$"
+    },
+    {
+      "en": "\"...Yeah, that.[lr]",
+      "jp": "「……そう、それ。[lr]",
+      "Pt-br": "\"...É, essa mesma.[lr]",
+      "id": 16616,
+      "epk_id": "15785",
+      "label": "$$$message_0122_0017_0000$$$"
+    },
+    {
+      "en": "I thought I made a mistake again.\"[lr]",
+      "jp": "　なんだ、また間違ったかと思ったじゃない」[lr]",
+      "Pt-br": "Eu pensei que tivesse cometido um erro de novo.\"[lr]",
+      "id": 16617,
+      "epk_id": "15786",
+      "label": "$$$message_0122_0017_0001$$$"
+    },
+    {
+      "en": "\"Again...?\"[lr]",
+      "jp": "「またって……」[lr]",
+      "Pt-br": "\"De novo...?\"[lr]",
+      "id": 16618,
+      "epk_id": "15787",
+      "label": "$$$message_0122_0017_0002$$$"
+    },
+    {
+      "en": "If I probe any further, I might push Tohsaka's buttons.[lr]",
+      "jp": "　これ以上つつくと遠坂の逆鱗に触れかねない。[lr]",
+      "Pt-br": "Se eu investigar mais a fundo, eu posso acabar pressionando os botões da Tohsaka.[lr]",
+      "id": 16619,
+      "epk_id": "15788",
+      "label": "$$$message_0122_0017_0003$$$"
+    },
+    {
+      "en": "[clfg textoff=0 rule=ã·ã£ãã¿ã¼å·¦ãã time=300 pos=all]I see off Tohsaka, who still seems like she's in a good mood. All right, I should start cooking... I mean, formulating.",
+      "jp": "　[clfg textoff=0 rule=シャッター左から time=300 pos=all]まだ機嫌の良さそうな遠坂を見送って、よし、料理……じゃなかった調合に取りかかろう。",
+      "Pt-br": "[clfg textoff=0 rule=シャッター左から time=300 pos=all]Vejo a Tohsaka sair, e ela ainda parece estar de bom humor. Tudo bem, eu devo começar a cozinhar... digo, formular.",
+      "id": 16620,
+      "epk_id": "15789",
+      "label": "$$$message_0122_0017_0004$$$"
+    },
+    {
+      "en": "...Is she really gonna drink this?[lr]",
+      "jp": "　[line len=3]これを、本当に飲むのだろうか？[lr]",
+      "Pt-br": "...Ela vai beber isso mesmo?[lr]",
+      "id": 16621,
+      "epk_id": "15790",
+      "label": "$$$message_0122_0018_0000$$$"
+    },
+    {
+      "en": "I peek into the witch's cauldron that's boiling in front of me.[lr]",
+      "jp": "　目の前で煮えている魔女の釜を覗き込む。[lr]",
+      "Pt-br": "Eu espreito para dentro do caldeirão de bruxa que está fervendo na minha frente.[lr]",
+      "id": 16622,
+      "epk_id": "15791",
+      "label": "$$$message_0122_0018_0001$$$"
+    },
+    {
+      "en": "No, I can't peek. If I smell it, I feel like my lunch is going to come back up.",
+      "jp": "　いや、覗き込めない。匂いを嗅ぐと昼ご飯が奥から出て来そうになる。",
+      "Pt-br": "Não, eu não posso espreitar. Se eu cheirar isso, sinto como se meu almoço fosse voltar.",
+      "id": 16623,
+      "epk_id": "15792",
+      "label": "$$$message_0122_0018_0002$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「…………」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 16624,
+      "epk_id": "15793",
+      "label": "$$$message_0122_0019_0000$$$"
+    },
+    {
+      "en": "I timidly extend just my arm and mix it with a wooden spatula.[lr]",
+      "jp": "　おそるおそる、腕だけを伸ばして木ベラでかき混ぜる。[lr]",
+      "Pt-br": "Timorosamente estendo apenas o meu braço e o misturo com uma espátula de madeira.[lr]",
+      "id": 16625,
+      "epk_id": "15794",
+      "label": "$$$message_0122_0019_0001$$$"
+    },
+    {
+      "en": "It was wrong for me to think that I could just use a regular pot. It was also wrong for me to think that I could just boil it in the kitchen.[lr]",
+      "jp": "　普通の鍋を使えばいいと思った俺は間違いだった。さらにキッチンで煮ればいいと思った俺も間違いだった。[lr]",
+      "Pt-br": "Fui tolo em pensar que poderia simplesmente usar uma panela comum. Também fui tolo em pensar que poderia simplesmente ferver na cozinha.[lr]",
+      "id": 16626,
+      "epk_id": "15795",
+      "label": "$$$message_0122_0019_0002$$$"
+    },
+    {
+      "en": "I never want to cook using this pot or kitchen ever again after making this.",
+      "jp": "　一回こんなものをつくった鍋と台所で、金輪際まともな料理はしたくない。",
+      "Pt-br": "Nunca mais quero cozinhar usando essa panela ou cozinha novamente depois de fazer isso.",
+      "id": 16627,
+      "epk_id": "15796",
+      "label": "$$$message_0122_0019_0003$$$"
+    },
+    {
+      "en": "\"Is this thing even drinkable...?\"[lr]",
+      "jp": "「こんなもの飲めるのか………？」[lr]",
+      "Pt-br": "\"Isso aqui é sequer potável...?\"[lr]",
+      "id": 16628,
+      "epk_id": "15797",
+      "label": "$$$message_0122_0020_0000$$$"
+    },
+    {
+      "en": "I'll try taste testing just in case.[lr]",
+      "jp": "　念のため、味見をしてみよう。[lr]",
+      "Pt-br": "Eu vou tentar fazer um teste de sabor só para garantir.[lr]",
+      "id": 16629,
+      "epk_id": "15798",
+      "label": "$$$message_0122_0020_0001$$$"
+    },
+    {
+      "en": "Tohsaka is going to drink it too.[lr]",
+      "jp": "　遠坂だって飲むんだし。[lr]",
+      "Pt-br": "A Tohsaka vai beber isso também.[lr]",
+      "id": 16630,
+      "epk_id": "15799",
+      "label": "$$$message_0122_0020_0002$$$"
+    },
+    {
+      "en": "...I think that being a mage is a rough job, having to drink something like this.",
+      "jp": "　……これを飲まなければいけない魔術師というのは、大変な仕事なのだと思う。",
+      "Pt-br": "...Ser mago é um trabalho duro, se é preciso beber coisas assim.",
+      "id": 16631,
+      "epk_id": "15800",
+      "label": "$$$message_0122_0020_0003$$$"
+    },
+    {
+      "en": "\"Come to think of it, Fuji-nee made me drink green juice. Compared to that...\"[lr]",
+      "jp": "「そういえば藤ねえに青汁飲まされたよな。それに比べればまぁ……」[lr]",
+      "Pt-br": "\"Pensando bem, a Fuji-nee me fez beber suco verde. Comparado a isso...\"[lr]",
+      "id": 16632,
+      "epk_id": "15801",
+      "label": "$$$message_0122_0021_0000$$$"
+    },
+    {
+      "en": "I hypnotize myself and pinch my nose.[lr]",
+      "jp": "　自己催眠をかけ、鼻を摘む。[lr]",
+      "Pt-br": "Eu me hipnotizo e aperto meu nariz.[lr]",
+      "id": 16633,
+      "epk_id": "15802",
+      "label": "$$$message_0122_0021_0001$$$"
+    },
+    {
+      "en": "I muster up my courage and lick it with my tongue.[lr]",
+      "jp": "　意を決して舌で舐める。[lr]",
+      "Pt-br": "Eu junto minha coragem e lambo com a minha língua.[lr]",
+      "id": 16634,
+      "epk_id": "15803",
+      "label": "$$$message_0122_0021_0002$$$"
+    },
+    {
+      "en": "See, it's nothing compared to a cup of green juice or a plate full of mapo tofu from Taishan[line len=3]",
+      "jp": "　ほら、コップ一杯の青汁や大皿一杯の泰山の麻婆豆腐に比べれば大したこと[line len=3]",
+      "Pt-br": "Viu, não é nada comparado a um copo de suco verde ou um prato cheio de mapo tofu de Taishan[line len=3]",
+      "id": 16635,
+      "epk_id": "15804",
+      "label": "$$$message_0122_0021_0003$$$"
+    },
+    {
+      "en": "\"BLEGHHHHHHHHH!\"[rf][lr]",
+      "jp": "「ふぐぁおおおおおおおお！」[rf][lr]",
+      "Pt-br": "\"BLEEEEGAAAARRGHH!\"[rf][lr]",
+      "id": 16636,
+      "epk_id": "15805",
+      "label": "$$$message_0122_0022_0000$$$"
+    },
+    {
+      "en": "\"How noisy, what are you doing?\"[lr]",
+      "jp": "「騒がしいわね、何やってるのよ？」[lr]",
+      "Pt-br": "\"Que barulheira, o que você está fazendo?\"[lr]",
+      "id": 16637,
+      "epk_id": "15806",
+      "label": "$$$message_0122_0022_0001$$$"
+    },
+    {
+      "en": "M-My tongue, or more like my entire mouth, is getting contaminated.[lr]",
+      "jp": "　舌がっ、舌がというか口の中全体が汚染されていく。[lr]",
+      "Pt-br": "M-Minha língua, ou melhor, toda a minha boca, está sendo contaminada.[lr]",
+      "id": 16638,
+      "epk_id": "15807",
+      "label": "$$$message_0122_0022_0002$$$"
+    },
+    {
+      "en": "I guess \"contaminated\" is going too far, no, I can only think this is a challenge towards my taste buds. No, not just me, but towards the entire human race!",
+      "jp": "　汚染というのは言い過ぎか、いや、これは俺の味覚に対する挑発としか思えない。いな、俺だけではなく人類全てに対しての！",
+      "Pt-br": "Acho que \"contaminada\" é exagero. Não, só consigo pensar nisso como um desafio às minhas papilas gustativas. Não, não só às minhas, mas às de toda a raça humana!",
+      "id": 16639,
+      "epk_id": "15808",
+      "label": "$$$message_0122_0022_0003$$$"
+    },
+    {
+      "en": "\"Guh, [wvl canskip=0 time=500]ugh, [wvl canskip=0 time=300]y-[wvl canskip=0 time=200]yuck!\"[lr]",
+      "jp": "「ぐっ、[wvl canskip=0 time=500]ああっ、[wvl canskip=0 time=300]ま、[wvl canskip=0 time=200]まずぅ！」[lr]",
+      "Pt-br": "\"Guh, [wvl canskip=0 time=500]ugh, [wvl canskip=0 time=300]e-[wvl canskip=0 time=200]eca!\"[lr]",
+      "id": 16640,
+      "epk_id": "15809",
+      "label": "$$$message_0122_0023_0000$$$"
+    },
+    {
+      "en": "\"Oh, the bad taste is a given. If medicine was yummy, it wouldn't seem like it works.[lr]",
+      "jp": "「ああそれ、まずさは折り紙付きだから。お薬って美味しかったら効かなそうだし。[lr]",
+      "Pt-br": "\"Ah, o gosto ruim é um dado. Se remédio fosse gostoso, não pareceria que funciona.[lr]",
+      "id": 16641,
+      "epk_id": "15810",
+      "label": "$$$message_0122_0023_0001$$$"
+    },
+    {
+      "en": "[chgfg storage=åç§æ04c(ä¸­) time=200 textoff=0]Don't you think that sugar-coated pills are blasphemy, Emiya?\"[lr]",
+      "jp": "　[chgfg storage=凛私服04c(中) time=200 textoff=0]糖衣錠は邪道って思わない、衛宮くん？」[lr]",
+      "Pt-br": "[chgfg storage=凛私服04c(中) time=200 textoff=0]Você não acha que pílulas revestidas com açúcar são uma blasfêmia, Emiya-kun?\"[lr]",
+      "id": 16642,
+      "epk_id": "15811",
+      "label": "$$$message_0122_0023_0002$$$"
+    },
+    {
+      "en": "\"If you can enjoy drinking it, that's justice! Hey Tohsaka, anything that tastes this bad has got to count as harassment...!\"[lr]",
+      "jp": "「美味しく飲めるならそれ正義！　つーか遠坂、イヤがらせだろうこの味は……！」[lr]",
+      "Pt-br": "\"Se você consegue gostar de beber isso, que se faça justiça! Ei Tohsaka, qualquer coisa que tenha um gosto tão ruim deve contar como assédio...!\"[lr]",
+      "id": 16643,
+      "epk_id": "15812",
+      "label": "$$$message_0122_0023_0003$$$"
+    },
+    {
+      "en": "\"What? That's weird, it shouldn't be that bad... Did you mess up?\"[lr]",
+      "jp": "「えー？　おかしいなあ、そこまで酷くはない筈だけど……もしかして失敗してる？」[lr]",
+      "Pt-br": "\"O que? Que estranho, não deveria ser tão ruim... Você errou em algo?\"[lr]",
+      "id": 16644,
+      "epk_id": "15813",
+      "label": "$$$message_0122_0023_0004$$$"
+    },
+    {
+      "en": "Tohsaka calmly checks that poisonous stew pot.",
+      "jp": "　遠坂は平然と、あの毒シチュー鍋の様子をみる。",
+      "Pt-br": "A Tohsaka tranquilamente verifica aquela panela de guisado venenoso.",
+      "id": 16645,
+      "epk_id": "15814",
+      "label": "$$$message_0122_0023_0005$$$"
+    },
+    {
+      "en": "\"Oh, yep, well done.\"[lr]",
+      "jp": "「なーんだ、うん、上出来上出来」[lr]",
+      "Pt-br": "\"Ah, sim, bem feito.\"[lr]",
+      "id": 16646,
+      "epk_id": "15815",
+      "label": "$$$message_0122_0024_0000$$$"
+    },
+    {
+      "en": "\"...It's...well done? ...Hey. Are you really going to drink this?\"[lr]",
+      "jp": "「……上出来、なんだ。……なあ。本当に、それ飲むのか？」[lr]",
+      "Pt-br": "\"...Está... bem feito? ...Ei. Vai beber isso mesmo?\"[lr]",
+      "id": 16647,
+      "epk_id": "15816",
+      "label": "$$$message_0122_0024_0001$$$"
+    },
+    {
+      "en": "I can't help but wish for a moment that it's a lie.[lr]",
+      "jp": "　嘘だよな、という刹那の望みを託してしまう。[lr]",
+      "Pt-br": "Eu não posso deixar de desejar por um momento que seja mentira.[lr]",
+      "id": 16648,
+      "epk_id": "15817",
+      "label": "$$$message_0122_0024_0002$$$"
+    },
+    {
+      "en": "\"Huh? Of course, a whole glass.[lr]",
+      "jp": "「？　当たり前じゃない、コップ一杯ごくっと。[lr]",
+      "Pt-br": "\"Hã? É claro, um copo inteiro.[lr]",
+      "id": 16649,
+      "epk_id": "15818",
+      "label": "$$$message_0122_0024_0003$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=åç§æ03d(ä¸­) textoff=0]What's wrong? Why are you shaking in the corner? You're like a researcher that was attacked by an alien.\"",
+      "jp": "　[chgfg time=300 storage=凛私服03d(中) textoff=0]どうしたの？　衛宮くんったらはしっこでぶるぶる震えて。まるでエイリアンに襲われた研究員みたいに」",
+      "Pt-br": "[chgfg time=300 storage=凛私服03d(中) textoff=0]O que há de errado? Por que Emiya-kun está tremendo no canto? Você parece um pesquisador que foi atacado por um alienígena.\"",
+      "id": 16650,
+      "epk_id": "15819",
+      "label": "$$$message_0122_0024_0004$$$"
+    },
+    {
+      "en": "\"Hrrk...\"[lr]",
+      "jp": "「っ[line len=3]」[lr]",
+      "Pt-br": "\"Hrrk...\"[lr]",
+      "id": 16651,
+      "epk_id": "15820",
+      "label": "$$$message_0122_0025_0000$$$"
+    },
+    {
+      "en": "Of course I would become the first pitiful victim. As someone that cooks, having a glass full of that palate-destroying liquid is equivalent to death.[lr]",
+      "jp": "　そりゃ哀れな第一犠牲者にもなる。料理にたずさわる者として、あの味覚破壊液をコップ一杯と言われれば死に等しい。[lr]",
+      "Pt-br": "É claro que eu me tornaria a primeira vítima lamentável. Como alguém que cozinha, ter um copo cheio desse líquido destruidor de paladares é o equivalente a morte.[lr]",
+      "id": 16652,
+      "epk_id": "15821",
+      "label": "$$$message_0122_0025_0001$$$"
+    },
+    {
+      "en": "But... To a mage that has had brushes with death, a cup or two of nasty medicine should be nothing.[lr]",
+      "jp": "　だが……死と隣り合わせの魔術師にしてみれば、不味い薬の一杯や二杯は大した事ではないのだろう。[lr]",
+      "Pt-br": "Mas... Para um mago que já teve encontros com a morte, uma xícara ou duas de remédio ruim não deveriam ser nada.[lr]",
+      "id": 16653,
+      "epk_id": "15822",
+      "label": "$$$message_0122_0025_0002$$$"
+    },
+    {
+      "en": "...I'm reminded of the difference between my upbringing and Tohsaka's in a place like this.",
+      "jp": "　……こんなところで、遠坂と自分の育ちの差を思い知ってしまった。",
+      "Pt-br": "...Me lembro da diferença entre a minha criação e a da Tohsaka num lugar como este.",
+      "id": 16654,
+      "epk_id": "15823",
+      "label": "$$$message_0122_0025_0003$$$"
+    },
+    {
+      "en": "\"Well... Yeah. I was wrong.\"[lr]",
+      "jp": "「いや……だよな。俺が間違ってた」[lr]",
+      "Pt-br": "\"Bem... É. Eu estava errado.\"[lr]",
+      "id": 16655,
+      "epk_id": "15824",
+      "label": "$$$message_0122_0026_0000$$$"
+    },
+    {
+      "en": "Even in magecraft training, if I can be removed from death or danger from obstacles with this, then I should gladly drink it, too.",
+      "jp": "　魔術の修練においても、これで死や障害の危険から取り除かれるというのであれば、俺も喜んで飲むだろう。",
+      "Pt-br": "Mesmo no treinamento de magia, se eu posso me manter longe da morte ou do perigo de obstáculos com isso, então eu deveria ficar feliz em bebê-lo, também.",
+      "id": 16656,
+      "epk_id": "15825",
+      "label": "$$$message_0122_0026_0001$$$"
+    },
+    {
+      "en": "\"Huh? Well, that's fine. What a weirdo.[lr]",
+      "jp": "「？　ならいいけど。ヘンな衛宮くん。[lr]",
+      "Pt-br": "\"Hã? Bem, tudo bem então. Mas que cara estranho, Emiya-kun.[lr]",
+      "id": 16657,
+      "epk_id": "15826",
+      "label": "$$$message_0122_0027_0000$$$"
+    },
+    {
+      "en": "Then, all you have to do is keep on boiling it at low heat... [cacheimage storage=åç§æ02a(ä¸­)][wvl][chgfg time=300 storage=åç§æ02a(ä¸­) textoff=0]Here, come with me for a bit.\"[lr]",
+      "jp": "　じゃ、あとは弱火で煮込み続けるだけね……[cacheimage storage=凛私服02a(中)][wvl][chgfg time=300 storage=凛私服02a(中) textoff=0]はい、ちょっと付き合いなさい」[lr]",
+      "Pt-br": "Então, tudo o que você tem que fazer é continuar fervendo em fogo baixo... [cacheimage storage=凛私服02a(中)][wvl][chgfg time=300 storage=凛私服02a(中) textoff=0]Venha, venha comigo por um instante.\"[lr]",
+      "id": 16658,
+      "epk_id": "15827",
+      "label": "$$$message_0122_0027_0001$$$"
+    },
+    {
+      "en": "\"Mrgh, there's something else?\"",
+      "jp": "「む、まだ何かあるのか？」",
+      "Pt-br": "\"Mrgh, tem mais alguma coisa?\"",
+      "id": 16659,
+      "epk_id": "15828",
+      "label": "$$$message_0122_0027_0002$$$"
+    },
+    {
+      "en": "\"Since we still have some time, I thought I'd have you show me your progress in magecraft.\"[lr]",
+      "jp": "「まだ時間があるからね。貴方の魔術の進展を見せて貰おうかと思って」[lr]",
+      "Pt-br": "\"Como ainda temos um tempo, pensei em fazer com que você me mostrasse o seu progresso em magia.\"[lr]",
+      "id": 16660,
+      "epk_id": "15829",
+      "label": "$$$message_0122_0028_0000$$$"
+    },
+    {
+      "en": "Tohsaka is my mentor, so it's natural that she's curious about her pupil.[lr]",
+      "jp": "　遠坂は師匠なのだから、弟子の事は当然気になるのか。[lr]",
+      "Pt-br": "A Tohsaka é a minha mentora, então é natural que ela esteja curiosa sobre seu aluno.[lr]",
+      "id": 16661,
+      "epk_id": "15830",
+      "label": "$$$message_0122_0028_0001$$$"
+    },
+    {
+      "en": "But, I finally recalled my magecraft the other day... [font italic=true]Wait... What?[font italic=false]",
+      "jp": "　しかし、俺の魔術ってこの前ようやく思い出したばっかり……だ……え？",
+      "Pt-br": "Mas, eu finalmente me lembrei da minha magia no outro dia... [font italic=true]Espera... O que?[font italic=false]",
+      "id": 16662,
+      "epk_id": "15831",
+      "label": "$$$message_0122_0028_0002$$$"
+    },
+    {
+      "en": "\"What's wrong? You look lost... [cacheimage storage=åç§æ06d(ä¸­)][wvl canskip=false time=300][chgfg time=300 storage=åç§æ06d(ä¸­) textoff=0]Could it be...\"[lr]",
+      "jp": "「どうしたの？　途方に暮れた顔をして……[cacheimage storage=凛私服06d(中)][wvl canskip=false time=300][chgfg time=300 storage=凛私服06d(中) textoff=0]もしかして」[lr]",
+      "Pt-br": "\"O que houve? Você parece perdido... [cacheimage storage=凛私服06d(中)][wvl canskip=false time=300][chgfg time=300 storage=凛私服06d(中) textoff=0]Poderia ser...\"[lr]",
+      "id": 16663,
+      "epk_id": "15832",
+      "label": "$$$message_0122_0029_0000$$$"
+    },
+    {
+      "en": "Tohsaka is tilting her head, seeing my face.[lr]",
+      "jp": "　遠坂が俺の顔を見て、首を傾げている。[lr]",
+      "Pt-br": "A Tohsaka inclina a cabeça, olhando para o meu rosto.[lr]",
+      "id": 16664,
+      "epk_id": "15833",
+      "label": "$$$message_0122_0029_0001$$$"
+    },
+    {
+      "en": "I frantically get rid of my anxiety that I felt for a moment.",
+      "jp": "　今一瞬感じてしまった懸念を慌てて打ち消す。",
+      "Pt-br": "Eu me livro freneticamente da ansiedade que senti por um momento.",
+      "id": 16665,
+      "epk_id": "15834",
+      "label": "$$$message_0122_0029_0002$$$"
+    },
+    {
+      "en": "\"Could it be that you were slacking off while I was gone...\"[lr]",
+      "jp": "「もしかして、わたしの居ない間にさぼりにさぼりまわってたとか[line len=3]」[lr]",
+      "Pt-br": "\"Poderia ser que você estava folgando enquanto eu estava fora...\"[lr]",
+      "id": 16666,
+      "epk_id": "15835",
+      "label": "$$$message_0122_0030_0000$$$"
+    },
+    {
+      "en": "\"That's not true, well, I was putting in effort in my own way[line len=2]\"[lr]",
+      "jp": "「そんなコトないぞ、いや、俺は俺なりに努力を」[lr]",
+      "Pt-br": "\"Isso não é verdade, bom, eu estava me esforçando do meu próprio jeito[line len=2]\"[lr]",
+      "id": 16667,
+      "epk_id": "15836",
+      "label": "$$$message_0122_0030_0001$$$"
+    },
+    {
+      "en": "\"Oh, if that's the case, then why don't you show me?[lr]",
+      "jp": "「へぇ、そう言うからには見せて貰いましょうか。[lr]",
+      "Pt-br": "\"Ah, se for o caso, então por que você não me mostra?[lr]",
+      "id": 16668,
+      "epk_id": "15837",
+      "label": "$$$message_0122_0030_0002$$$"
+    },
+    {
+      "en": "Now, prepare yourself and come into my room.\"",
+      "jp": "　さ、覚悟してわたしの部屋に上がりなさい」",
+      "Pt-br": "Agora, prepare-se e entre no meu quarto.\"",
+      "id": 16669,
+      "epk_id": "15838",
+      "label": "$$$message_0122_0030_0003$$$"
+    },
+    {
+      "en": "\"...Oof...\"[lr]",
+      "jp": "「……う……」[lr]",
+      "Pt-br": "\"...Ufa...\"[lr]",
+      "id": 16670,
+      "epk_id": "15839",
+      "label": "$$$message_0122_0031_0000$$$"
+    },
+    {
+      "en": "It can't be helped at this point... I can only be honest and show her how much I've improved in magecraft...",
+      "jp": "　こうなれば仕方ない……開き直って、魔術の上達っぷりを見せるしかないか……。",
+      "Pt-br": "Não tem como evitar à esta altura... Eu só posso ser honesto e mostrar a ela o quanto melhorei em magia...",
+      "id": 16671,
+      "epk_id": "15840",
+      "label": "$$$message_0122_0031_0001$$$"
+    },
+    {
+      "en": "The task is very simple.[lr]",
+      "jp": "　課題はごく簡単。[lr]",
+      "Pt-br": "A tarefa é muito simples.[lr]",
+      "id": 16672,
+      "epk_id": "15841",
+      "label": "$$$message_0122_0032_0000$$$"
+    },
+    {
+      "en": "To Strengthen the plastic letter opener that she handed me.[lr]",
+      "jp": "　渡されたのはプラスチックのペーパーナイフ、これを『強化』する。[lr]",
+      "Pt-br": "É de Fortalecer o abridor de cartas de plástico que ela me entregou.[lr]",
+      "id": 16673,
+      "epk_id": "15842",
+      "label": "$$$message_0122_0032_0001$$$"
+    },
+    {
+      "en": "Tohsaka said that it's a teaching material that's fit for me.",
+      "jp": "　貴方向きの教材だから、との遠坂の言葉だった。",
+      "Pt-br": "A Tohsaka disse que é um material de ensino adequado para mim.",
+      "id": 16674,
+      "epk_id": "15843",
+      "label": "$$$message_0122_0032_0002$$$"
+    },
+    {
+      "en": "I activate my Strengthening while Tohsaka watches over me.[lr]",
+      "jp": "　遠坂に見守られながら、強化を発動する。[lr]",
+      "Pt-br": "Eu ativo o meu Fortalecimento enquanto a Tohsaka me observa.[lr]",
+      "id": 16675,
+      "epk_id": "15844",
+      "label": "$$$message_0122_0033_0000$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=åç§æ02a(ä¸­) textoff=0]The usual words, triggering an illusion, concentrate...[lr]",
+      "jp": "　[chgfg time=300 storage=凛私服02a(中) textoff=0]いつもの言葉、発動の幻覚、集中[line len=3][lr]",
+      "Pt-br": "[chgfg time=300 storage=凛私服02a(中) textoff=0]As palavras de sempre, desencadeando uma ilusão, concentre-se...[lr]",
+      "id": 16676,
+      "epk_id": "15845",
+      "label": "$$$message_0122_0033_0001$$$"
+    },
+    {
+      "en": "...Trace, on.",
+      "jp": "　[line len=3]同調、開始。",
+      "Pt-br": "...Trace, on.",
+      "id": 16677,
+      "epk_id": "15846",
+      "label": "$$$message_0122_0033_0002$$$"
+    },
+    {
+      "en": "I run magical energy through my Magic Circuits and awaken it.[lr]",
+      "jp": "　魔術回路に魔力を通し、覚醒させる。[lr]",
+      "Pt-br": "Eu passo a energia mágica através de meus Circuitos Mágicos e os desperto.[lr]",
+      "id": 16678,
+      "epk_id": "15847",
+      "label": "$$$message_0122_0034_0000$$$"
+    },
+    {
+      "en": "I analyze the material of the letter opener that I touched and grasp its structure. I run magical energy through that shape and existence, and I Strengthen it.[lr]",
+      "jp": "　指に触ったペーパーナイフの素材を解析し構造を把握する。そのカタチと存在に魔力を通し、強化する。[lr]",
+      "Pt-br": "Eu analiso o material do abridor de cartas que toquei e agarro sua estrutura. Eu passo energia mágica através dessa forma e existência, e o Fortaleço.[lr]",
+      "id": 16679,
+      "epk_id": "15848",
+      "label": "$$$message_0122_0034_0001$$$"
+    },
+    {
+      "en": "It's something that I've gone through tens and hundreds of times.[lr]",
+      "jp": "　何回も、何十回も、何百回も通過した事だ。[lr]",
+      "Pt-br": "É algo que eu já passei por dezenas e centenas de vezes.[lr]",
+      "id": 16680,
+      "epk_id": "15849",
+      "label": "$$$message_0122_0034_0002$$$"
+    },
+    {
+      "en": "I erase my anxiety.[lr]",
+      "jp": "　雑念を消却する。[lr]",
+      "Pt-br": "Eu apago a minha ansiedade.[lr]",
+      "id": 16681,
+      "epk_id": "15850",
+      "label": "$$$message_0122_0034_0003$$$"
+    },
+    {
+      "en": "With one sole purpose, I run my will through my own circuit.",
+      "jp": "　今は一念のみを結び、己が回路に[ruby text=けつえき char=2]意志を巡らせる。",
+      "Pt-br": "Com um único propósito, eu passo a minha vontade pelo meu próprio circuito.",
+      "id": 16682,
+      "epk_id": "15851",
+      "label": "$$$message_0122_0034_0004$$$"
+    },
+    {
+      "en": "\"...I did it.\"[lr]",
+      "jp": "「……出来た」[lr]",
+      "Pt-br": "\"...Consegui.\"[lr]",
+      "id": 16683,
+      "epk_id": "15852",
+      "label": "$$$message_0122_0035_0000$$$"
+    },
+    {
+      "en": "...Ahh.[lr]",
+      "jp": "　……はぁ。[lr]",
+      "Pt-br": "...Ahh.[lr]",
+      "id": 16684,
+      "epk_id": "15853",
+      "label": "$$$message_0122_0035_0001$$$"
+    },
+    {
+      "en": "I avoided having to humiliate myself in front of Tohsaka and wipe off the trickling sweat from my forehead.",
+      "jp": "　遠坂の前で恥をかかずに済み、流れる額の汗を拭う。",
+      "Pt-br": "Eu evitei ter que me humilhar na frente da Tohsaka e enxuguei o suor escorrendo na minha testa.",
+      "id": 16685,
+      "epk_id": "15854",
+      "label": "$$$message_0122_0035_0002$$$"
+    },
+    {
+      "en": "\"Hup[line len=3]\"[lr]",
+      "jp": "「よっと[line len=3]」[lr]",
+      "Pt-br": "\"Pronto[line len=3]\"[lr]",
+      "id": 16686,
+      "epk_id": "15855",
+      "label": "$$$message_0122_0036_0000$$$"
+    },
+    {
+      "en": "I try throwing it at the dartboard in the corner of the room.[lr]",
+      "jp": "　部屋の隅にあったダーツ板に投げてみる。[lr]",
+      "Pt-br": "Eu tento jogá-lo no alvo de dardos no canto do quarto.[lr]",
+      "id": 16687,
+      "epk_id": "15856",
+      "label": "$$$message_0122_0036_0001$$$"
+    },
+    {
+      "en": "Even if it flies like a throwing knife, there's no way a letter opener made of plastic would stick.[lr]",
+      "jp": "　たとえ投げナイフみたいに飛んでも、プラスチックのペーパーナイフが刺さる訳はない。[lr]",
+      "Pt-br": "Mesmo que ele voe como uma faca de arremesso, não há como um abridor de cartas feito de plástico fincar.[lr]",
+      "id": 16688,
+      "epk_id": "15857",
+      "label": "$$$message_0122_0036_0002$$$"
+    },
+    {
+      "en": "But now that it's hardened as much as steel, it should be able to stick [se storage=se341.wav]easily...",
+      "jp": "　しかし今、鋼並みに硬度を増した今のあれなら、さくりと刺さ[se storage=se341.wav]る[line len=3]",
+      "Pt-br": "Mas agora que está tão duro quanto o aço, deve ser capaz de fincar [se storage=se341.wav]facilmente...",
+      "id": 16689,
+      "epk_id": "15858",
+      "label": "$$$message_0122_0036_0003$$$"
+    },
+    {
+      "en": "\"Huh?\"[lr]",
+      "jp": "「え？」[lr]",
+      "Pt-br": "\"Hã?\"[lr]",
+      "id": 16690,
+      "epk_id": "15859",
+      "label": "$$$message_0122_0037_0000$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「…………」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 16691,
+      "epk_id": "15860",
+      "label": "$$$message_0122_0037_0001$$$"
+    },
+    {
+      "en": "Tohsaka is making a face like she can't watch any longer.[lr]",
+      "jp": "　遠坂が見てられないという顔をしていた。[lr]",
+      "Pt-br": "A Tohsaka está fazendo uma cara de que não consegue mais assistir.[lr]",
+      "id": 16692,
+      "epk_id": "15861",
+      "label": "$$$message_0122_0037_0002$$$"
+    },
+    {
+      "en": "The letter opener bounces off the dartboard and falls.[lr]",
+      "jp": "　ペーパーナイフは、ダーツ板に跳ね返されて落ちた。[lr]",
+      "Pt-br": "O abridor de cartas rebate no alvo e cai no chão.[lr]",
+      "id": 16693,
+      "epk_id": "15862",
+      "label": "$$$message_0122_0037_0003$$$"
+    },
+    {
+      "en": "...No, it should've succeeded. Could it be that the Strengthening was too weak?[lr]",
+      "jp": "　……いや、成功した筈なのに。もしかして強化が弱すぎたのか？[lr]",
+      "Pt-br": "...Não, deveria ter funcionado. Poderia ser que o Fortalecimento estivesse muito fraco?[lr]",
+      "id": 16694,
+      "epk_id": "15863",
+      "label": "$$$message_0122_0037_0004$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=åç§æ08d(ä¸­) textoff=0]As Tohsaka picks up the letter opener that fell, she holds it up to examine it, puts it away, and gives me feedback.",
+      "jp": "　[chgfg time=300 storage=凛私服08d(中) textoff=0]遠坂は落ちているペーパーナイフを拾うと、かざしてみたりして、ぽんと手に仕舞うと結果を講評する。",
+      "Pt-br": "[chgfg time=300 storage=凛私服08d(中) textoff=0]Enquanto a Tohsaka pega o abridor de cartas que caiu, ela o levanta para examiná-lo, guarda, e me dá o seu feedback.",
+      "id": 16695,
+      "epk_id": "15864",
+      "label": "$$$message_0122_0037_0005$$$"
+    },
+    {
+      "en": "\"...Haven't you gotten worse than before, Emiya?\"[lr]",
+      "jp": "「……前より下手になってない？　衛宮くん」[lr]",
+      "Pt-br": "\"...Você não ficou ainda pior do que antes, Emiya-kun?\"[lr]",
+      "id": 16696,
+      "epk_id": "15865",
+      "label": "$$$message_0122_0038_0000$$$"
+    },
+    {
+      "en": "\"Tohsaka, I would've broken the letter opener if I messed up before. Compared to that, it's a lot more[line len=2]\"[lr]",
+      "jp": "「遠坂、失敗したら今まではペーパーナイフを壊してただろ、それに比べれば大分……」[lr]",
+      "Pt-br": "\"Tohsaka, eu teria quebrado o abridor de cartas se tivesse errado da outra vez. Comparado a isso, ele está muito mais[line len=2]\"[lr]",
+      "id": 16697,
+      "epk_id": "15866",
+      "label": "$$$message_0122_0038_0001$$$"
+    },
+    {
+      "en": "\"I don't care about how the way you messed up improved.[lr]",
+      "jp": "「失敗の仕方の進展なんかどうでもいいのよ。[lr]",
+      "Pt-br": "\"Eu não me importo de que maneira você melhorou na parte em que você bagunçou tudo.[lr]",
+      "id": 16698,
+      "epk_id": "15867",
+      "label": "$$$message_0122_0038_0002$$$"
+    },
+    {
+      "en": "[chgfg storage=åç§æ08a(ä¸­) time=300 textoff=0]But it's somehow...strange...\"[lr]",
+      "jp": "　[chgfg storage=凛私服08a(中) time=300 textoff=0]でもどこか……おかしいわね……」[lr]",
+      "Pt-br": "[chgfg storage=凛私服08a(中) time=300 textoff=0]Mas é meio que... estranho...\"[lr]",
+      "id": 16699,
+      "epk_id": "15868",
+      "label": "$$$message_0122_0038_0003$$$"
+    },
+    {
+      "en": "She looks me up and down.[lr]",
+      "jp": "　じろじろと上から下まで眺められる。[lr]",
+      "Pt-br": "Ela me olha de cima a baixo.[lr]",
+      "id": 16700,
+      "epk_id": "15869",
+      "label": "$$$message_0122_0038_0004$$$"
+    },
+    {
+      "en": "Has Tohsaka noticed something? But, I can only hear sighs from Tohsaka.",
+      "jp": "　遠坂は何かに気がついているのか？　だが、遠坂から聞こえたのは溜息ばかり。",
+      "Pt-br": "A Tohsaka percebeu alguma coisa? Porém, eu só consigo ouvir os suspiros da Tohsaka.",
+      "id": 16701,
+      "epk_id": "15870",
+      "label": "$$$message_0122_0038_0005$$$"
+    },
+    {
+      "en": "\"Fine, it looks like I'll have to train you for a day or two again.\"[lr]",
+      "jp": "「わかったわ、やっぱり士郎は一日二日、鍛え直す必要がありそうね」[lr]",
+      "Pt-br": "\"Tudo bem, vou ter que treinar você por mais um ou dois dias.\"[lr]",
+      "id": 16702,
+      "epk_id": "15871",
+      "label": "$$$message_0122_0039_0000$$$"
+    },
+    {
+      "en": "\"I'm ashamed...\"[lr]",
+      "jp": "「面目ない……」[lr]",
+      "Pt-br": "\"Estou envergonhado...\"[lr]",
+      "id": 16703,
+      "epk_id": "15872",
+      "label": "$$$message_0122_0039_0001$$$"
+    },
+    {
+      "en": "\"Try to become a proper mage with both honor and dignity. [cacheimage storage=åç§æ12a(ä¸­)][wvl][chgfg storage=åç§æ12a(ä¸­) time=300 textoff=0]Even if I take you over there like this, you could humiliate not just yourself, but me as well.\"",
+      "jp": "「早く面目も体面も立つ一人前の魔術師になろうとしなさい。[cacheimage storage=凛私服12a(中)][wvl][chgfg storage=凛私服12a(中) time=300 textoff=0]これじゃ向こうに連れて行っても、士郎だけじゃなくわたしまで恥をかきかねないわね」",
+      "Pt-br": "\"Tente se tornar um mago de respeito com honra e dignidade. [cacheimage storage=凛私服12a(中)][wvl][chgfg storage=凛私服12a(中) time=300 textoff=0]Mesmo se eu te levar lá assim, você pode se humilhar não só você, mas a mim também.\"",
+      "id": 16704,
+      "epk_id": "15873",
+      "label": "$$$message_0122_0039_0002$$$"
+    },
+    {
+      "en": "Studying magecraft with Tohsaka for a whole day.[lr]",
+      "jp": "　遠坂に一日掛かりで魔術の勉強か。[lr]",
+      "Pt-br": "Estudar magia com a Tohsaka pelo dia todo.[lr]",
+      "id": 16705,
+      "epk_id": "15874",
+      "label": "$$$message_0122_0040_0000$$$"
+    },
+    {
+      "en": "I'm free this weekend, and if she's saying she'll take the time for me, there's no other choice but to have her take me under her wing.[lr]",
+      "jp": "　週末も空いているんだし、せっかく時間を取ってくれるというのだから世話にならない法はない。[lr]",
+      "Pt-br": "Estou livre neste fim de semana, e se ela está dizendo que vai reservar o seu tempo para mim, não há outra escolha a não ser me colocar debaixo da asa dela.[lr]",
+      "id": 16706,
+      "epk_id": "15875",
+      "label": "$$$message_0122_0040_0001$$$"
+    },
+    {
+      "en": "I bow my head to Tohsaka, saying I'll owe her one.",
+      "jp": "　頭を下げて遠坂に、恩に着るとお辞儀をした。",
+      "Pt-br": "Eu aceno com a cabeça em reverência a Tohsaka, dizendo que ficarei devendo essa.",
+      "id": 16707,
+      "epk_id": "15876",
+      "label": "$$$message_0122_0040_0002$$$"
+    },
+    {
+      "en": "\"Hmm... Ahh, I wonder where we should start. That's right, with that special medicine...\"[lr]",
+      "jp": "「あー……はぁ、まったくどこからやればいいのかしら。そうだ、とっておきのあの薬で……」[lr]",
+      "Pt-br": "\"Hum... Ahh, eu me pergunto de onde deveríamos começar. Ah, claro, por aquele remédio especial...\"[lr]",
+      "id": 16708,
+      "epk_id": "15877",
+      "label": "$$$message_0122_0041_0000$$$"
+    },
+    {
+      "en": "\"...Does it taste worse than that decoction?\"[lr]",
+      "jp": "「……もしかしてあの煎じ薬よりすごい味なのか？」[lr]",
+      "Pt-br": "\"...Ele tem um gosto pior do que aquela infusão?\"[lr]",
+      "id": 16709,
+      "epk_id": "15878",
+      "label": "$$$message_0122_0041_0001$$$"
+    },
+    {
+      "en": "\"Oh? If you're fine with using them, I have a collection full of variety.\"[lr]",
+      "jp": "「あら？　衛宮くんが使ってもいいっていうのなら、いろいろコレクションがあるけど？」[lr]",
+      "Pt-br": "\"Ah? Se não tiver problemas em usá-los, eu tenho uma coleção cheia de variedade, Emiya-kun.\"[lr]",
+      "id": 16710,
+      "epk_id": "15879",
+      "label": "$$$message_0122_0041_0002$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=åç§æ05c(ä¸­) textoff=0]...I can't tell if she's joking or serious.[lr]",
+      "jp": "　[chgfg time=300 storage=凛私服05c(中) textoff=0][line len=3]冗談のつもりなのか、至って本気なのか。[lr]",
+      "Pt-br": "[chgfg time=300 storage=凛私服05c(中) textoff=0]...Não consigo dizer se ela está brincando ou se fala sério.[lr]",
+      "id": 16711,
+      "epk_id": "15880",
+      "label": "$$$message_0122_0041_0003$$$"
+    },
+    {
+      "en": "...Well, if I can quickly make progress with that, the pain would be a small price to pay.",
+      "jp": "　……まあ、それでいち早く成長できるなら、苦痛ぐらい安い代償ではある。",
+      "Pt-br": "...Bom, se eu consigo progredir rápido com isso, a dor seria um pequeno preço a se pagar.",
+      "id": 16712,
+      "epk_id": "15881",
+      "label": "$$$message_0122_0041_0004$$$"
+    },
+    {
+      "en": "\"...Why are you making that face again, Shirou?\"[lr]",
+      "jp": "「……またそういう顔してる、士郎」[lr]",
+      "Pt-br": "\"...Por que você está fazendo essa cara de novo, Shirou?\"[lr]",
+      "id": 16713,
+      "epk_id": "15882",
+      "label": "$$$message_0122_0042_0000$$$"
+    },
+    {
+      "en": "\"All right. I just need to come to your place, right?\"[lr]",
+      "jp": "「わかった。遠坂の家に来れば良いんだよな？」[lr]",
+      "Pt-br": "\"Certo. Eu só preciso ir até sua casa, não é?\"[lr]",
+      "id": 16714,
+      "epk_id": "15883",
+      "label": "$$$message_0122_0042_0001$$$"
+    },
+    {
+      "en": "\"Yeah, I'll train you thoroughly, so brace yourself.\"[lr]",
+      "jp": "「そ、みっちり仕込んであげるから覚悟しなさい」[lr]",
+      "Pt-br": "\"Isso, eu te treinarei por completo, então se prepare.\"[lr]",
+      "id": 16715,
+      "epk_id": "15884",
+      "label": "$$$message_0122_0042_0002$$$"
+    },
+    {
+      "en": "Now, we've made another promise.[lr]",
+      "jp": "　さて、これで一つ約束をした訳だ。[lr]",
+      "Pt-br": "E agora, nós fizemos mais uma promessa.[lr]",
+      "id": 16716,
+      "epk_id": "15885",
+      "label": "$$$message_0122_0042_0003$$$"
+    },
+    {
+      "en": "Although I'm not sure whether this will be good or bad.",
+      "jp": "　これが吉とでるか凶と出るか、定かではないのだが。",
+      "Pt-br": "Embora eu não tenha certeza se isso será algo bom ou ruim.",
+      "id": 16717,
+      "epk_id": "15886",
+      "label": "$$$message_0122_0042_0004$$$"
+    },
+    {
+      "en": "\"BLEGHHHHHHHHH!\"[r]:å\u0012",
+      "jp": "「ふぐぁおおおおおおお[r]お！」",
+      "Pt-br": "\"BLEEEEGAAAARRGHH!\"[r]",
+      "id": 16718,
+      "epk_id": "915805",
+      "label": "$$$message_9122_0022_0000$$$"
+    }
+  ]
+}

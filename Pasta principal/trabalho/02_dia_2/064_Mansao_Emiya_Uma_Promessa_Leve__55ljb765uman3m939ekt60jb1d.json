@@ -1,0 +1,768 @@
+{
+  "cena": "55ljb765uman3m939ekt60jb1d",
+  "titulo": "Mansão Emiya: Uma Promessa Leve",
+  "rota": "Dia 2",
+  "arquivo": "55ljb765uman3m939ekt60jb1d.epk_dec",
+  "linhas": [
+    {
+      "en": "\"Shirou, are you making sure to do your homework?\"[lr]",
+      "jp": "「士郎、きちんと宿題やってる？」[lr]",
+      "Pt-br": "\"Shirou, você tá lembrando de fazer o dever de casa?\"[lr]",
+      "id": 9860,
+      "epk_id": "3385",
+      "label": "$$$message_0024_0000_0000$$$"
+    },
+    {
+      "en": "Fuji-nee brings up schoolwork while lazily munching on a rice cracker.",
+      "jp": "　のんびりと煎餅を食いながら、藤ねえがそんな事を言ってきた。",
+      "Pt-br": "Fuji-nee fala sobre os trabalhos da escola enquanto mastiga com preguiça um biscoito de arroz.",
+      "id": 9861,
+      "epk_id": "3386",
+      "label": "$$$message_0024_0000_0001$$$"
+    },
+    {
+      "en": "She's still a diligent English teacher at heart, even if she lets herself go in other ways.[lr]",
+      "jp": "　このように、藤ねえはだらけているようで根っこの部分は真面目な英語教師なのだった。[lr]",
+      "Pt-br": "Lá no fundo ela continua sendo uma professora de inglês dedicada, mesmo que se deixe levar de outras maneiras, Fuji-nee.[lr]",
+      "id": 9862,
+      "epk_id": "3387",
+      "label": "$$$message_0024_0001_0000$$$"
+    },
+    {
+      "en": "You could say she generally goes with the flow, gets excited when things are loud, and becomes calm when things are quiet.",
+      "jp": "　周りが騒がしいと元気になり、静かになると大人しくなるという、典型的なお祭り盛り上げタイプと言うか。",
+      "Pt-br": "Dá pra dizer que ela geralmente segue o fluxo, se empolga quando as coisas estão barulhentas, e fica calma quando as coisas estão tranquilas.",
+      "id": 9863,
+      "epk_id": "3388",
+      "label": "$$$message_0024_0001_0001$$$"
+    },
+    {
+      "en": "\"Yeah, I am. I'll get it all done after the break ends.\"[lr]",
+      "jp": "「んー、やってるよ。休み明けにはきちんと終わる」[lr]",
+      "Pt-br": "\"É, estou. Vou deixar tudo pronto depois que o intervalo terminar.\"[lr]",
+      "id": 9864,
+      "epk_id": "3389",
+      "label": "$$$message_0024_0002_0000$$$"
+    },
+    {
+      "en": "\"Really? Well, good, but don't show your work to the other kids. It's for their own good, so say no even if they ask to see your homework.\"",
+      "jp": "「そう？　ならいいけど、他の子に見せるのもなしだからね？　誰かの写しても身にならないから、見せてくれって言われてもきちんと断るのよ」",
+      "Pt-br": "\"Verdade? Bem, ótimo, mas não vá mostrar os seus trabalhos para as outras crianças. É para o próprio bem delas, então diga não mesmo se pedirem pra ver o seu dever de casa.\"",
+      "id": 9865,
+      "epk_id": "3390",
+      "label": "$$$message_0024_0002_0001$$$"
+    },
+    {
+      "en": "\"I'll try.\"[lr]",
+      "jp": "「努力する」[lr]",
+      "Pt-br": "\"Vou tentar.\"[lr]",
+      "id": 9866,
+      "epk_id": "3391",
+      "label": "$$$message_0024_0003_0000$$$"
+    },
+    {
+      "en": "So I say, but anyone who asks to see my homework is in for a rough time.[lr]",
+      "jp": "　そうは答えたものの、俺の宿題を見せてほしい、というヤツはよっぽど切羽詰まっている筈だ。[lr]",
+      "Pt-br": "Apesar de dizer isso, se alguém me pedir pra ver o meu dever de casa, vai entrar numa fria.[lr]",
+      "id": 9867,
+      "epk_id": "3392",
+      "label": "$$$message_0024_0003_0001$$$"
+    },
+    {
+      "en": "Usually, around half of my answers are wrong.[lr]",
+      "jp": "　なにしろ、俺のは半分以上間違えている。[lr]",
+      "Pt-br": "Normalmente, metade das minhas respostas está errada.[lr]",
+      "id": 9868,
+      "epk_id": "3393",
+      "label": "$$$message_0024_0003_0002$$$"
+    },
+    {
+      "en": "If they know that and ask me anyway, then it could just mean that they're pawning off their own responsibility.",
+      "jp": "　それを覚悟で見せてくれ、と言ってくるのであれば、後はそいつの自己責任なんで貸し出すコトも有り得てしまう。",
+      "Pt-br": "Se souberem disso e pedirem pra ver mesmo assim, então isso pode querer dizer apenas que eles estão fugindo de suas responsabilidades.",
+      "id": 9869,
+      "epk_id": "3394",
+      "label": "$$$message_0024_0003_0003$$$"
+    },
+    {
+      "en": "\"Good. It's not like I won't punish you just because you've never done it before, so don't think of it as helping people out.[l][say storage=emi0251_tig_0021 name=藤ねえ][rep tops=,71 storages=藤09a腕b(中),セイバー私服01a(中) time=300 opacities=,0 lefts=,-243 poss=c, bg=i衛宮邸居間(fd) indexes=1000,2000] The problem is when people can't figure out how to solve problems on their own when they're in trouble.\"",
+      "jp": "「よろしい。別にやってこなかったからって罰ゲームをしたりしないんだから、人助けとか思わないようにね。[l][say storage=emi0251_tig_0021 name=藤ねえ][rep tops=,71 storages=藤09a腕b(中),セイバー私服01a(中) time=300 opacities=,0 lefts=,-243 poss=c, bg=i衛宮邸居間(fd) indexes=1000,2000]　困るのはそれが必要になった時、自力でやってこなかったその子自身になるんだから」",
+      "Pt-br": "\"Ótimo. Não é como se eu não fosse te castigar só por nunca ter feito isso antes, então não pense nisso como ajudar as pessoas.[l][say storage=emi0251_tig_0021 name=藤ねえ][rep tops=,71 storages=藤09a腕b(中),セイバー私服01a(中) time=300 opacities=,0 lefts=,-243 poss=c, bg=i衛宮邸居間(fd) indexes=1000,2000] O problema é quando as pessoas não conseguem descobrir sozinhas como se resolve os problemas quando estão em apuros.\"",
+      "id": 9870,
+      "epk_id": "3395",
+      "label": "$$$message_0024_0004_0000$$$"
+    },
+    {
+      "en": "What an exceedingly respectable opinion for a teacher to have.[lr]",
+      "jp": "　教師らしい、至極まっとうな意見である。[lr]",
+      "Pt-br": "Uma opinião extremamente respeitável para uma professora se ter.[lr]",
+      "id": 9871,
+      "epk_id": "3396",
+      "label": "$$$message_0024_0005_0000$$$"
+    },
+    {
+      "en": "Of course, she says it while her hand wanders the table questing for a new snack and her eyes are glued to the TV.[lr]",
+      "jp": "　もっとも、その手は新しい煎餅を探して机の上をさまよっていた。当然目線はテレビに向けたまま。[lr]",
+      "Pt-br": "Lógico, ela diz isso enquanto a sua mão fica perambulando pela mesa em busca de um novo lanchinho, e com os olhos colados na TV.[lr]",
+      "id": 9872,
+      "epk_id": "3397",
+      "label": "$$$message_0024_0005_0001$$$"
+    },
+    {
+      "en": "Saber moves the plate of tea snacks into Fuji-nee's searching hand.[lr]",
+      "jp": "　セイバーがその手の方に、お茶請けの皿を動かして煎餅に誘導する。[lr]",
+      "Pt-br": "Saber empurra o prato de lanchinhos para o chá na direção da mão que tateava de Fuji-nee.[lr]",
+      "id": 9873,
+      "epk_id": "3398",
+      "label": "$$$message_0024_0005_0002$$$"
+    },
+    {
+      "en": "The tiger teacher crunches down on the next rice cracker.",
+      "jp": "　バリバリと次の煎餅をかみ砕く虎教師。",
+      "Pt-br": "A professora tigresa tritura mais um biscoito de arroz.",
+      "id": 9874,
+      "epk_id": "3399",
+      "label": "$$$message_0024_0005_0003$$$"
+    },
+    {
+      "en": "\"Shirou.\"[lr]",
+      "jp": "「シロウ」[lr]",
+      "Pt-br": "\"Shirou.\"[lr]",
+      "id": 9875,
+      "epk_id": "3400",
+      "label": "$$$message_0024_0006_0000$$$"
+    },
+    {
+      "en": "\"What, Saber?\"[lr]",
+      "jp": "「なんだセイバー」[lr]",
+      "Pt-br": "\"O que foi, Saber?\"[lr]",
+      "id": 9876,
+      "epk_id": "3401",
+      "label": "$$$message_0024_0006_0001$$$"
+    },
+    {
+      "en": "\"Is Taiga talking about your school?\"[lr]",
+      "jp": "「先ほどから大河と話しているのは学び舎での話でしょうか」[lr]",
+      "Pt-br": "\"A Taiga está falando sobre a sua escola?\"[lr]",
+      "id": 9877,
+      "epk_id": "3402",
+      "label": "$$$message_0024_0006_0002$$$"
+    },
+    {
+      "en": "\"Yeah.\"[lr]",
+      "jp": "「ああ」[lr]",
+      "Pt-br": "\"É.\"[lr]",
+      "id": 9878,
+      "epk_id": "3403",
+      "label": "$$$message_0024_0006_0003$$$"
+    },
+    {
+      "en": "Saber's sitting next to Fuji-nee. She turns to me.",
+      "jp": "　一人、テレビを見てまったりしている藤ねえをよそに、セイバーがこっちに向き直る。",
+      "Pt-br": "Saber está sentada perto da Fuji-nee. Ela se vira para mim.",
+      "id": 9879,
+      "epk_id": "3404",
+      "label": "$$$message_0024_0006_0004$$$"
+    },
+    {
+      "en": "\"I'm simply curious, what sort of place is the school that you attend?[lr]",
+      "jp": "「あまり意味のない質問なのですが、シロウ達が通っている学び舎とはどのような所なのでしょう？[lr]",
+      "Pt-br": "\"Estou apenas curiosa, que tipo de lugar é a escola que você frequenta?[lr]",
+      "id": 9880,
+      "epk_id": "3405",
+      "label": "$$$message_0024_0007_0000$$$"
+    },
+    {
+      "en": "Ah, I have been there before, so I know what the buildings are like, but...\"[lr]",
+      "jp": "　いえ、何度か足を運んだ事はあるので、どのような建物かは知っているのですが……」[lr]",
+      "Pt-br": "Ah, eu já estive lá antes, então sei como são os prédios, mas...\"[lr]",
+      "id": 9881,
+      "epk_id": "3406",
+      "label": "$$$message_0024_0007_0001$$$"
+    },
+    {
+      "en": "\"Um...\"[lr]",
+      "jp": "「えっと[line len=3]」[lr]",
+      "Pt-br": "\"Hum...\"[lr]",
+      "id": 9882,
+      "epk_id": "3407",
+      "label": "$$$message_0024_0007_0002$$$"
+    },
+    {
+      "en": "That's not an easy question to answer.",
+      "jp": "　どんな所か、と改めて訊かれると答え辛い。",
+      "Pt-br": "Essa não é uma pergunta fácil de responder.",
+      "id": 9883,
+      "epk_id": "3408",
+      "label": "$$$message_0024_0007_0003$$$"
+    },
+    {
+      "en": "\"I think it's just a normal school.[lr]",
+      "jp": "「何てコトのない普通の学校だと思うぞ。[lr]",
+      "Pt-br": "\"Acho que é só uma escola normal.[lr]",
+      "id": 9884,
+      "epk_id": "3409",
+      "label": "$$$message_0024_0008_0000$$$"
+    },
+    {
+      "en": "I don't think it takes its clubs as seriously as other schools, though.\"",
+      "jp": "　まあ、余所の学校はもう少し部活動に力を入れてるとは思うけど」",
+      "Pt-br": "Apesar de que eu acho que não leva os seus clubes tão a sério quanto as outras escolas.\"",
+      "id": 9885,
+      "epk_id": "3410",
+      "label": "$$$message_0024_0008_0001$$$"
+    },
+    {
+      "en": "\"A normal school?\"[lr]",
+      "jp": "「普通、ですか」[lr]",
+      "Pt-br": "\"Uma escola normal?\"[lr]",
+      "id": 9886,
+      "epk_id": "3411",
+      "label": "$$$message_0024_0009_0000$$$"
+    },
+    {
+      "en": "\"Yeah. That's all. It's not like we have a problem with gangs, or anything.[lr]",
+      "jp": "「ああ、他に言いようがない。別に素行の悪い一団がいるわけでもないし。[lr]",
+      "Pt-br": "\"É. É só isso. Não é como se tivéssemos problemas com gangues, nem nada assim.[lr]",
+      "id": 9887,
+      "epk_id": "3412",
+      "label": "$$$message_0024_0009_0001$$$"
+    },
+    {
+      "en": "How else should I explain it... Hm?\"[lr]",
+      "jp": "　他にどう説明したもんか[line len=3]ん？」[lr]",
+      "Pt-br": "De que outra forma eu deveria explicar isso... Hm?\"[lr]",
+      "id": 9888,
+      "epk_id": "3413",
+      "label": "$$$message_0024_0009_0002$$$"
+    },
+    {
+      "en": "I sip my tea and remember something.[lr]",
+      "jp": "　一口茶を啜って、ふと思い当たる事があった。[lr]",
+      "Pt-br": "Dou um gole no meu chá e me lembro de uma coisa.[lr]",
+      "id": 9889,
+      "epk_id": "3414",
+      "label": "$$$message_0024_0009_0003$$$"
+    },
+    {
+      "en": "Fuji-nee's here, so I lower my voice.",
+      "jp": "　藤ねえがいる手前、ぼそっと小声でセイバーに聞いてみる。",
+      "Pt-br": "A Fuji-nee está aqui, então eu abaixo a minha voz.",
+      "id": 9890,
+      "epk_id": "3415",
+      "label": "$$$message_0024_0009_0004$$$"
+    },
+    {
+      "en": "\"...Hey. I thought you said that Servants gain common knowledge about the world when they're summoned.\"[lr]",
+      "jp": "「……なあ、サーヴァントって召喚された段階でこっちの常識とか判ってるって言ってなかったか？」[lr]",
+      "Pt-br": "\"...Ei. Eu achei que você tinha dito que os Servos ganham conhecimento comum sobre o mundo quando são invocados.\"[lr]",
+      "id": 9891,
+      "epk_id": "3416",
+      "label": "$$$message_0024_0010_0000$$$"
+    },
+    {
+      "en": "\"Yes, but I wasn't asking about the institution, but what sort of place [font italic=true]your[font italic=false] school, Homurahara, is.\"[lr]",
+      "jp": "「はい、ですが私が聞きたいのは学び舎自体の事ではなく、シロウ達の通っている穂群原学園とはどのような場所なのか、という事です」[lr]",
+      "Pt-br": "\"Sim, mas eu não estava perguntando sobre a instituição, e sim que tipo de lugar a [font italic=true]sua[font italic=false] escola, Homurahara, é.\"[lr]",
+      "id": 9892,
+      "epk_id": "3417",
+      "label": "$$$message_0024_0010_0001$$$"
+    },
+    {
+      "en": "\"Hmm...\"[lr]",
+      "jp": "「ふむ[line len=3]」[lr]",
+      "Pt-br": "\"Hmm...\"[lr]",
+      "id": 9893,
+      "epk_id": "3418",
+      "label": "$$$message_0024_0010_0002$$$"
+    },
+    {
+      "en": "I see, that's what she meant. Then I'll try a different angle.",
+      "jp": "　なるほど、そういう訳か。それならまだ説明のしようもある。",
+      "Pt-br": "Entendi, era isso que ela queria dizer. Então eu vou tentar de outro ponto de vista.",
+      "id": 9894,
+      "epk_id": "3419",
+      "label": "$$$message_0024_0010_0003$$$"
+    },
+    {
+      "en": "\"Hey, Saber.\"[lr]",
+      "jp": "「ならセイバーちゃん」[lr]",
+      "Pt-br": "\"Ei, Saber-chan.\"[lr]",
+      "id": 9895,
+      "epk_id": "3420",
+      "label": "$$$message_0024_0011_0000$$$"
+    },
+    {
+      "en": "[chgfg time=300 storage=セイバー私服04e(中) textoff=0]Fuji-nee turns away from the TV.",
+      "jp": "　[chgfg time=300 storage=セイバー私服04e(中) textoff=0]今までテレビを見ていた藤ねえが急に振り返った。",
+      "Pt-br": "[chgfg time=300 storage=セイバー私服04e(中) textoff=0]Fuji-nee tira os olhos da TV.",
+      "id": 9896,
+      "epk_id": "3421",
+      "label": "$$$message_0024_0011_0001$$$"
+    },
+    {
+      "en": "\"Yes?\"[lr]",
+      "jp": "「なんでしょうか」[lr]",
+      "Pt-br": "\"Sim?\"[lr]",
+      "id": 9897,
+      "epk_id": "3422",
+      "label": "$$$message_0024_0012_0000$$$"
+    },
+    {
+      "en": "\"If you're curious, you could come by the school for a tour.\"",
+      "jp": "「気になるなら今度見学に来る？」",
+      "Pt-br": "\"Se tem tanta curiosidade, você poderia dar uma passadinha na escola para fazer uma excursão.\"",
+      "id": 9898,
+      "epk_id": "3423",
+      "label": "$$$message_0024_0012_0001$$$"
+    },
+    {
+      "en": "\"Are you sure, Taiga?\"",
+      "jp": "「良いのですか、大河」",
+      "Pt-br": "\"Tem certeza, Taiga?\"",
+      "id": 9899,
+      "epk_id": "3424",
+      "label": "$$$message_0024_0013_0000$$$"
+    },
+    {
+      "en": "\"I don't really mind. I'm sure you won't cause any problems. [cacheimage storage=藤08a(中)][wvl][chgfg time=300 storage=藤08a(中) textoff=0]I guess we can't let you walk around by yourself, though.\"[lr]",
+      "jp": "「別にかまわないわよ。セイバーちゃんなら問題とか起こさないだろうし。[cacheimage storage=藤08a(中)][wvl][chgfg time=300 storage=藤08a(中) textoff=0]まあ、流石に一人で自由にって訳には行かないだろうけど」[lr]",
+      "Pt-br": "\"Eu não me importo muito. Eu sei que você não vai causar nenhum problema. [cacheimage storage=藤08a(中)][wvl][chgfg time=300 storage=藤08a(中) textoff=0]Mas imagino que não podemos deixar você andar por aí sozinha, Saber-chan.\"[lr]",
+      "id": 9900,
+      "epk_id": "3425",
+      "label": "$$$message_0024_0014_0000$$$"
+    },
+    {
+      "en": "...Right, she would need a guide.",
+      "jp": "　……そっか。案内役がつくよな、そりゃ。",
+      "Pt-br": "...É verdade, ela ia precisar de um guia.",
+      "id": 9901,
+      "epk_id": "3426",
+      "label": "$$$message_0024_0014_0001$$$"
+    },
+    {
+      "en": "\"Hey Fuji-nee, who usually gives campus tours?\"[lr]",
+      "jp": "「なあ藤ねえ、普通はそういう学校見学の案内って誰がやってたんだ？」[lr]",
+      "Pt-br": "\"Ei, Fuji-nee, quem é que costuma guiar as excursões pelo campus?\"[lr]",
+      "id": 9902,
+      "epk_id": "3427",
+      "label": "$$$message_0024_0015_0000$$$"
+    },
+    {
+      "en": "\"Hmm, I'm not sure. I think the vice-principal does when VIPs visit.\"",
+      "jp": "「んー、どうだったっけ。偉い人が来た時は教頭先生が案内してたと思うんだけど」",
+      "Pt-br": "\"Hmm, não tenho certeza. Acho que é o vice-diretor que faz isso quando há figurões visitando, Sensei.\"",
+      "id": 9903,
+      "epk_id": "3428",
+      "label": "$$$message_0024_0015_0001$$$"
+    },
+    {
+      "en": "\"Fuji-nee, try to remember.[lr]",
+      "jp": "「藤ねえ、きちんと思い出してくれ。[lr]",
+      "Pt-br": "\"Fuji-nee, tenta se lembrar.[lr]",
+      "id": 9904,
+      "epk_id": "3429",
+      "label": "$$$message_0024_0016_0000$$$"
+    },
+    {
+      "en": "I can't let Saber go if we don't know who will be her guide. It needs to be someone we can trust.\"",
+      "jp": "　誰か分からないのにセイバーを預けるなんて出来ないだろ。出来るだけ信頼できる人じゃないと」",
+      "Pt-br": "Não posso deixar a Saber ir se não soubermos quem vai ser o guia dela. Tem que ser alguém em quem possamos confiar.\"",
+      "id": 9905,
+      "epk_id": "3430",
+      "label": "$$$message_0024_0016_0001$$$"
+    },
+    {
+      "en": "Saber might be the most comfortable going with Fuji-nee, but I'm not okay with that at all.[lr]",
+      "jp": "　藤ねえに預けるのが一番セイバーにとっては安心できるのだろうが、それはこっちが安心出来ない。[lr]",
+      "Pt-br": "Pode ser que a Saber fique mais confortável indo com a Fuji-nee, mas eu não concordo muito com isso não.[lr]",
+      "id": 9906,
+      "epk_id": "3431",
+      "label": "$$$message_0024_0017_0000$$$"
+    },
+    {
+      "en": "The only other people qualified to be tour guides who I'd feel comfortable entrusting Saber to are probably Issei, the student council president or his faculty advisor, Mr. Kuzuki.",
+      "jp": "　他に安心してセイバーを預けられて、そういう案内をしそうな位置に居る人間といえば、生徒会長の一成か、その顧問の葛木先生あたりだろうか。",
+      "Pt-br": "As únicas outras pessoas com qualificações para ser guia e para quem eu me sentiria confortável em confiar a Saber seriam provavelmente o Issei, o presidente do conselho estudantil ou o seu professor conselheiro, o Kuzuki-sensei.",
+      "id": 9907,
+      "epk_id": "3432",
+      "label": "$$$message_0024_0017_0001$$$"
+    },
+    {
+      "en": "\"What are you talking about, Shirou?\"[lr]",
+      "jp": "「なに言ってるの士郎？」[lr]",
+      "Pt-br": "\"Do que você tá falando, Shirou?\"[lr]",
+      "id": 9908,
+      "epk_id": "3433",
+      "label": "$$$message_0024_0018_0000$$$"
+    },
+    {
+      "en": "\"If Saber's going to tour the campus, I want someone I'm comfortable with to be her guide.\"",
+      "jp": "「なにってセイバーが見学に来るなら、安心できる相手に案内役をしてほしいって話だよ」",
+      "Pt-br": "\"Se a Saber for fazer uma excursão pelo campus, quero que o seu guia seja alguém com quem eu me sinta seguro.\"",
+      "id": 9909,
+      "epk_id": "3434",
+      "label": "$$$message_0024_0018_0001$$$"
+    },
+    {
+      "en": "\"Why do we have to ask someone else?[lr]",
+      "jp": "「だから、どうして頼まないといけないのよ。[lr]",
+      "Pt-br": "\"Por que a gente tem que pedir para uma outra pessoa?[lr]",
+      "id": 9910,
+      "epk_id": "3435",
+      "label": "$$$message_0024_0019_0000$$$"
+    },
+    {
+      "en": "You're obviously the best person to give her a tour.\"[lr]",
+      "jp": "　セイバーちゃんの案内なんだから士郎がやるに決まってるでしょ」[lr]",
+      "Pt-br": "Você é obviamente a melhor pessoa para mostrar a escola a ela, Saber-chan.\"[lr]",
+      "id": 9911,
+      "epk_id": "3436",
+      "label": "$$$message_0024_0019_0001$$$"
+    },
+    {
+      "en": "\"...Huh? Wait, really?\"[lr]",
+      "jp": "「[line len=3]は？　その、俺でいいのか」[lr]",
+      "Pt-br": "\"...Hã? Espera, sério?\"[lr]",
+      "id": 9912,
+      "epk_id": "3437",
+      "label": "$$$message_0024_0019_0002$$$"
+    },
+    {
+      "en": "Is it really all right for a regular student to be a tour guide...?",
+      "jp": "　こういう外からの人を案内するのに、一般生徒でいいんだっけ……？",
+      "Pt-br": "Tudo bem mesmo um estudante comum ser um guia...?",
+      "id": 9913,
+      "epk_id": "3438",
+      "label": "$$$message_0024_0019_0003$$$"
+    },
+    {
+      "en": "\"Sure. You don't want to?\"[lr]",
+      "jp": "「いいのよ、もしかして士郎は嫌なの？」[lr]",
+      "Pt-br": "\"Claro que sim. Por acaso você não quer ir?\"[lr]",
+      "id": 9914,
+      "epk_id": "3439",
+      "label": "$$$message_0024_0020_0000$$$"
+    },
+    {
+      "en": "\"Of course, I'm fine with it.\"[lr]",
+      "jp": "「まさか、そんな訳ないだろ」[lr]",
+      "Pt-br": "\"Claro, eu não ligo.\"[lr]",
+      "id": 9915,
+      "epk_id": "3440",
+      "label": "$$$message_0024_0020_0001$$$"
+    },
+    {
+      "en": "In fact, I wanted to do it all along, but I didn't think it was possible.",
+      "jp": "　むしろ、出来るなら俺がやりたかったのに、無理じゃないかと考えていたところだ。",
+      "Pt-br": "Na verdade, eu estava querendo fazer isso esse tempo todo, mas eu achava que não seria possível.",
+      "id": 9916,
+      "epk_id": "3441",
+      "label": "$$$message_0024_0020_0002$$$"
+    },
+    {
+      "en": "\"Then there's no problem. [l][say storage=emi0251_tig_0101 name=藤ねえ]You worry about the strangest things sometimes.\"",
+      "jp": "「だったら別に問題なんてないじゃない。[l][say storage=emi0251_tig_0101 name=藤ねえ]もー士郎は時々ヘンなコトを気にするんだから」",
+      "Pt-br": "\"Então não tem nenhum problema. [l][say storage=emi0251_tig_0101 name=藤ねえ]Às vezes você se preocupa com as coisas mais esquisitas.\"",
+      "id": 9917,
+      "epk_id": "3442",
+      "label": "$$$message_0024_0021_0000$$$"
+    },
+    {
+      "en": "\"...Taiga, is this really all right?[lr]",
+      "jp": "「……大河、本当にいいのですか？[lr]",
+      "Pt-br": "\"...Taiga, tudo bem mesmo fazer isso?[lr]",
+      "id": 9918,
+      "epk_id": "3443",
+      "label": "$$$message_0024_0022_0000$$$"
+    },
+    {
+      "en": "I feel that it could be troublesome if I went.\"[lr]",
+      "jp": "　私が見学に行ったとしても、迷惑をかけるだけだと思うのですが」[lr]",
+      "Pt-br": "Sinto que poderia causar algum problema se eu fosse.\"[lr]",
+      "id": 9919,
+      "epk_id": "3444",
+      "label": "$$$message_0024_0022_0001$$$"
+    },
+    {
+      "en": "\"Saber, when a grown-up says it's okay, children don't need to worry so much.\"[lr]",
+      "jp": "「セイバーちゃん、大人がいいって言ってるんだから子供は余計な心配しないでいいの」[lr]",
+      "Pt-br": "\"Saber-chan, quando um adulto diz que não tem problema, as crianças não têm que se preocupar tanto assim.\"[lr]",
+      "id": 9920,
+      "epk_id": "3445",
+      "label": "$$$message_0024_0022_0002$$$"
+    },
+    {
+      "en": "Wow, Fuji-nee's in full grown-up mode this morning.[lr]",
+      "jp": "　すごいぞ、今朝の藤ねえはオトナモードだ。[lr]",
+      "Pt-br": "Uau, a Fuji-nee tá toda num modo adulto de manhã cedo hoje.[lr]",
+      "id": 9921,
+      "epk_id": "3446",
+      "label": "$$$message_0024_0022_0003$$$"
+    },
+    {
+      "en": "It's a good thing only Saber and I are here to see it.",
+      "jp": "　周りに俺とセイバーしかいないのが幸いした。",
+      "Pt-br": "Ainda bem que só a Saber e eu estamos aqui para ver isso.",
+      "id": 9922,
+      "epk_id": "3447",
+      "label": "$$$message_0024_0022_0004$$$"
+    },
+    {
+      "en": "\"And you're fine giving me a tour, Shirou?\"[lr]",
+      "jp": "「シロウもいいのですか？　その、案内などを頼んでしまって」[lr]",
+      "Pt-br": "\"E você não tem problema em ser o meu guia, Shirou?\"[lr]",
+      "id": 9923,
+      "epk_id": "3448",
+      "label": "$$$message_0024_0023_0000$$$"
+    },
+    {
+      "en": "\"Yeah. You'd want to go with someone you know, right?\"",
+      "jp": "「ああ。セイバーも知ってる人間の方がいいだろ？」",
+      "Pt-br": "\"Sim. Você iria querer ir com alguém que já conhece, não é?\"",
+      "id": 9924,
+      "epk_id": "3449",
+      "label": "$$$message_0024_0023_0001$$$"
+    },
+    {
+      "en": "\"Well, yes.\"[lr]",
+      "jp": "「ええ、それは」[lr]",
+      "Pt-br": "\"Bem, sim.\"[lr]",
+      "id": 9925,
+      "epk_id": "3450",
+      "label": "$$$message_0024_0024_0000$$$"
+    },
+    {
+      "en": "\"...Hey, Fuji-nee. [cacheimage storage=藤01d(中)][wvl][chgfg time=200 storage=藤01d(中) textoff=0]What are you grinning at?\"[lr]",
+      "jp": "「って藤ねえ。[cacheimage storage=藤01d(中)][wvl][chgfg time=200 storage=藤01d(中) textoff=0]なにニヤニヤとこっちを見てやがる」[lr]",
+      "Pt-br": "\"...Ei, Fuji-nee. [cacheimage storage=藤01d(中)][wvl][chgfg time=200 storage=藤01d(中) textoff=0]Por que cê tá sorrindo de orelha a orelha?\"[lr]",
+      "id": 9926,
+      "epk_id": "3451",
+      "label": "$$$message_0024_0024_0001$$$"
+    },
+    {
+      "en": "Gah, I let my guard down.[lr]",
+      "jp": "　……く、油断したかっ。[lr]",
+      "Pt-br": "Gah, eu abaixei a minha guarda.[lr]",
+      "id": 9927,
+      "epk_id": "3452",
+      "label": "$$$message_0024_0024_0002$$$"
+    },
+    {
+      "en": "Fuji-nee changes from grown-up mode to tiger mode at the drop of a hat!",
+      "jp": "　藤ねえはちょっとしたコトでオトナモードから虎モードに変形するのだった……！",
+      "Pt-br": "Fuji-nee muda do modo adulto para o modo tigresa num piscar de olhos!",
+      "id": 9928,
+      "epk_id": "3453",
+      "label": "$$$message_0024_0024_0003$$$"
+    },
+    {
+      "en": "\"I'm just thinking, what's the point if it isn't you?[lr]",
+      "jp": "「だってさー、士郎じゃないと意味がないワケよぅ。[lr]",
+      "Pt-br": "\"Eu só tava pensando, qual seria a graça se não fosse você?[lr]",
+      "id": 9929,
+      "epk_id": "3454",
+      "label": "$$$message_0024_0025_0000$$$"
+    },
+    {
+      "en": "Saber's interested in [font italic=true]your[font italic=false] school, so it would be no fun if someone else gave her the tour.\"",
+      "jp": "　セイバーちゃんは[ruby text=・・・ o2o=1]士郎の学校に興味があるんだから、他の案内役じゃつまんなくて仕方ないよねー」",
+      "Pt-br": "A Saber-chan tem interesse na [font italic=true]sua[font italic=false] escola, então não seria tão divertido se uma outra pessoa fosse ser o seu guia.\"",
+      "id": 9930,
+      "epk_id": "3455",
+      "label": "$$$message_0024_0025_0001$$$"
+    },
+    {
+      "en": "\"T-[shock vmax=20 time=300 count=-3]Taiga, what is this nonsense!?[lr]",
+      "jp": "「た、[shock vmax=20 time=300 count=-3]大河、何を言い出すのですっ！[lr]",
+      "Pt-br": "\"T-[shock vmax=20 time=300 count=-3]Taiga, que absurdo é esse!?[lr]",
+      "id": 9931,
+      "epk_id": "3456",
+      "label": "$$$message_0024_0026_0000$$$"
+    },
+    {
+      "en": "I am curious about Shirou's place of learning, not some specific part of his lifestyle[line len=2]\"",
+      "jp": "　私は学び舎が気になるというだけで、別に、シロウを特定とした日常生活に興味があるワケでは、」",
+      "Pt-br": "Eu estou apenas com curiosidade no local de estudos do Shirou, e não numa parte específica do estilo de vida dele[line len=2]\"",
+      "id": 9932,
+      "epk_id": "3457",
+      "label": "$$$message_0024_0026_0001$$$"
+    },
+    {
+      "en": "\"Uh-huh, no need to blush. I get it, I do. Really.\"[lr]",
+      "jp": "「はいはい、照れなくていいから。おねーちゃんには全部わかってるから」[lr]",
+      "Pt-br": "\"Aham, não precisa ficar vermelha. Eu entendo, sim. De verdade.\"[lr]",
+      "id": 9933,
+      "epk_id": "3458",
+      "label": "$$$message_0024_0027_0000$$$"
+    },
+    {
+      "en": "\"No you don't! Even if you were right, it would be rude of me to be choosy about my guide!\"",
+      "jp": "「わかっていませんっ。仮にそうだとしても、案内役を選り好みするなどその方に失礼ではないですかっ」",
+      "Pt-br": "\"Não, você não entendeu! E mesmo se você estivesse certa, seria uma grosseria de minha parte ficar fazendo exigências sobre quem vai me guiar!\"",
+      "id": 9934,
+      "epk_id": "3459",
+      "label": "$$$message_0024_0027_0001$$$"
+    },
+    {
+      "en": "\"Taiga, I'm grateful for your suggestion, but I don't like that you connect everything I say to Shirou.[lr]",
+      "jp": "「大河。貴女の提案には感謝しますが、その、全てをシロウに結びつける発想はどうかと思います。[lr]",
+      "Pt-br": "\"Taiga, eu sou grata pela sua sugestão, mas não gosto dessa sua mania de ligar tudo o que eu digo ao Shirou.[lr]",
+      "id": 9935,
+      "epk_id": "3460",
+      "label": "$$$message_0024_0028_0000$$$"
+    },
+    {
+      "en": "I'm happy to see where he goes to school, but anyone can be my guide...\"",
+      "jp": "　私はシロウの学校を見学できるだけで嬉しいのですから、誰が案内役でもですね[line len=3]」",
+      "Pt-br": "Fico feliz em poder ver onde ele vai para escola, mas qualquer pessoa poderia ser meu guia...\"",
+      "id": 9936,
+      "epk_id": "3461",
+      "label": "$$$message_0024_0028_0001$$$"
+    },
+    {
+      "en": "...This is starting to turn into a petty argument.[lr]",
+      "jp": "　……なんか、不毛な口論が行われそうな予感がする。[lr]",
+      "Pt-br": "...Isso está começando a se transformar numa briguinha.[lr]",
+      "id": 9937,
+      "epk_id": "3462",
+      "label": "$$$message_0024_0029_0000$$$"
+    },
+    {
+      "en": "If I leave things be, things are undoubtedly going to go in a bad direction.",
+      "jp": "　このまま放っておくと、事態は間違いなくあらぬ方向へ飛んでいってしまうだろう。",
+      "Pt-br": "Se eu deixar as coisas assim, sem dúvida alguma as coisas vão tomar um rumo ruim.",
+      "id": 9938,
+      "epk_id": "3463",
+      "label": "$$$message_0024_0029_0001$$$"
+    },
+    {
+      "en": "\"Okay, that's enough.[lr]",
+      "jp": "「はい、そこまで。[lr]",
+      "Pt-br": "\"Ok, já deu.[lr]",
+      "id": 9939,
+      "epk_id": "3464",
+      "label": "$$$message_0024_0030_0000$$$"
+    },
+    {
+      "en": "So when's this happening?\"[lr]",
+      "jp": "　それで、結局いつ頃になりそうなんだ？」[lr]",
+      "Pt-br": "Então, quando a gente vai fazer isso?\"[lr]",
+      "id": 9940,
+      "epk_id": "3465",
+      "label": "$$$message_0024_0030_0001$$$"
+    },
+    {
+      "en": "\"Hm? Well, I have some business at the kyudo club later, so I can just ask while I'm there.\"",
+      "jp": "「ん？　そうね、あとで弓道部の用事で学校に行って来るから、その時に一緒に聞いてくるわ」",
+      "Pt-br": "\"Hm? Bem, eu tenho uns negócios pra fazer no Clube de Arco e Flecha depois, então eu posso perguntar lá quando eu for.\"",
+      "id": 9941,
+      "epk_id": "3466",
+      "label": "$$$message_0024_0030_0002$$$"
+    },
+    {
+      "en": "\"All right. That good with you, Saber?[lr]",
+      "jp": "「分かった。セイバーもそれでいいよな？[lr]",
+      "Pt-br": "\"Certo. Tudo bem para você, Saber?[lr]",
+      "id": 9942,
+      "epk_id": "3467",
+      "label": "$$$message_0024_0031_0000$$$"
+    },
+    {
+      "en": "I guess a weekday...wouldn't work. Next time, I'll make plenty of time to show you around on a holiday. If you're okay with me being your guide, that is.\"",
+      "jp": "　平日……はやっぱり無理か。今度、たっぷり時間をとって休日の学校を案内するよ。案内係が俺でよければの話だけど」",
+      "Pt-br": "Eu acho que num dia de semana... não daria muito certo. Numa próxima vez, eu separo um tempão num dia de folga para te mostrar o lugar. Isso se você estiver de boa em me ter como seu guia, claro.\"",
+      "id": 9943,
+      "epk_id": "3468",
+      "label": "$$$message_0024_0031_0001$$$"
+    },
+    {
+      "en": "\"Ah, yes... I would feel easier having you as my guide.\"[lr]",
+      "jp": "「あ、はい。……シロウが案内をしてくれるのなら、私も気が楽ですが……」[lr]",
+      "Pt-br": "\"Ah, sim... Eu ficaria mais tranquila se você fosse o meu guia.\"[lr]",
+      "id": 9944,
+      "epk_id": "3469",
+      "label": "$$$message_0024_0032_0000$$$"
+    },
+    {
+      "en": "\"?\"[lr]",
+      "jp": "「？」[lr]",
+      "Pt-br": "\"?\"[lr]",
+      "id": 9945,
+      "epk_id": "3470",
+      "label": "$$$message_0024_0032_0001$$$"
+    },
+    {
+      "en": "Somehow, it sounds like Saber's heart isn't in it.[lr]",
+      "jp": "　心なしか、セイバーの返事には元気がなかった。[lr]",
+      "Pt-br": "De alguma forma, me pareceu que não é bem isso o que a Saber sente no fundo.[lr]",
+      "id": 9946,
+      "epk_id": "3471",
+      "label": "$$$message_0024_0032_0002$$$"
+    },
+    {
+      "en": "...I wonder if Fuji-nee's assumption really put her off.",
+      "jp": "　……これは、本当に藤ねえの思いこみかと躊躇したのだが[line len=3]",
+      "Pt-br": "...Eu me pergunto se a suposição da Fuji-nee acabou afastando ela de verdade.",
+      "id": 9947,
+      "epk_id": "3472",
+      "label": "$$$message_0024_0032_0003$$$"
+    },
+    {
+      "en": "\"...Let us go on a holiday, then.[lr]",
+      "jp": "「…………では、今度の休日に。[lr]",
+      "Pt-br": "\"...Então vamos num feriado.[lr]",
+      "id": 9948,
+      "epk_id": "3473",
+      "label": "$$$message_0024_0033_0000$$$"
+    },
+    {
+      "en": "Please make the plans soon, Taiga.\"[lr]",
+      "jp": "　出来るだけ早いうちに予定を取り付けてください、大河」[lr]",
+      "Pt-br": "Por favor faça os planos logo, Taiga.\"[lr]",
+      "id": 9949,
+      "epk_id": "3474",
+      "label": "$$$message_0024_0033_0001$$$"
+    },
+    {
+      "en": "Okay, I'm glad that Saber isn't actually against it, at least.[lr]",
+      "jp": "　よかった、セイバーは嫌がっている、というワケではなさそうだ。[lr]",
+      "Pt-br": "Certo, pelo menos fico feliz que a Saber não seja contra a ideia, pelo menos.[lr]",
+      "id": 9950,
+      "epk_id": "3475",
+      "label": "$$$message_0024_0033_0002$$$"
+    },
+    {
+      "en": "I breathe a sigh of relief.[lr]",
+      "jp": "　ホッと胸を撫で下ろす。[lr]",
+      "Pt-br": "Dou um suspiro de alívio.[lr]",
+      "id": 9951,
+      "epk_id": "3476",
+      "label": "$$$message_0024_0033_0003$$$"
+    },
+    {
+      "en": "That's another plan made.[lr]",
+      "jp": "　これでまた一つ約束ができた。[lr]",
+      "Pt-br": "Mais um plano sendo feito.[lr]",
+      "id": 9952,
+      "epk_id": "3477",
+      "label": "$$$message_0024_0033_0004$$$"
+    },
+    {
+      "en": "Once, I'm ready and fired up, I'll give Saber a proper tour of the school...",
+      "jp": "　準備ができ次第、気合いをいれてセイバーを学校に案内しよう[line len=3]",
+      "Pt-br": "Quando eu estiver preparado e empolgado, eu levo a Saber numa excursão de verdade pela escola...",
+      "id": 9953,
+      "epk_id": "3478",
+      "label": "$$$message_0024_0033_0005$$$"
+    },
+    {
+      "en": "\"T-Taiga, what is this nonsense!?\"[r]",
+      "jp": "「た、大河、[r]何を言い出すのですっ！」",
+      "Pt-br": "\"T-Taiga, que absurdo é esse!?\"[r]",
+      "id": 9954,
+      "epk_id": "903456",
+      "label": "$$$message_9024_0026_0000$$$"
+    }
+  ]
+}

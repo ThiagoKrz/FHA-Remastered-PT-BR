@@ -1,0 +1,832 @@
+{
+  "cena": "0jsdsjm6qiolfe6jducsqqobn5",
+  "titulo": "Uma Bebida Antes de Dormir",
+  "rota": "Noite",
+  "arquivo": "0jsdsjm6qiolfe6jducsqqobn5.epk_dec",
+  "linhas": [
+    {
+      "en": "\"Oh, Emiya. Good night.\"[lr]",
+      "jp": "「あら衛宮くん。おやすみなさい[line len=3]」[lr]",
+      "Pt-br": "\"Ah, Emiya-kun. Boa noite.\"[lr]",
+      "id": 22211,
+      "epk_id": "27352",
+      "label": "$$$message_0202_0000_0000$$$"
+    },
+    {
+      "en": "\"Good night, Tohsaka. Don't stay up too late.\"",
+      "jp": "「おやすみ遠坂、夜更かしすんなよ」",
+      "Pt-br": "\"Boa noite, Tohsaka. Não vá dormir muito tarde.\"",
+      "id": 22212,
+      "epk_id": "27353",
+      "label": "$$$message_0202_0000_0001$$$"
+    },
+    {
+      "en": "\"...Wait, what was that?\"[lr]",
+      "jp": "「[line len=3]って待て。それはなんだそれは」[lr]",
+      "Pt-br": "\"...Espere, o que foi aquilo?\"[lr]",
+      "id": 22213,
+      "epk_id": "27354",
+      "label": "$$$message_0202_0001_0000$$$"
+    },
+    {
+      "en": "I stop Tohsaka after passing by her.[lr]",
+      "jp": "　すれ違って通り過ぎようとする遠坂を呼び止めた。[lr]",
+      "Pt-br": "Detenho Tohsaka depois que passamos um pelo outro.[lr]",
+      "id": 22214,
+      "epk_id": "27355",
+      "label": "$$$message_0202_0001_0001$$$"
+    },
+    {
+      "en": "...I could've ignored it, but I'm curious.",
+      "jp": "　……別にスルーしても構わなかったのだが、やはり気になる。",
+      "Pt-br": "...Eu poderia ter deixado para lá, mas fiquei curioso.",
+      "id": 22215,
+      "epk_id": "27356",
+      "label": "$$$message_0202_0001_0002$$$"
+    },
+    {
+      "en": "\"What? Is there something wrong with me?\"[lr]",
+      "jp": "「なによ衛宮くん？　わたし、何かおかしなところがあるの？」[lr]",
+      "Pt-br": "\"O quê? Tem alguma coisa errada comigo, Emiya-kun?\"[lr]",
+      "id": 22216,
+      "epk_id": "27357",
+      "label": "$$$message_0202_0002_0000$$$"
+    },
+    {
+      "en": "\"Not you, but your gear.[lr]",
+      "jp": "「遠坂本人ではなく武装が怪しい。[lr]",
+      "Pt-br": "\"Com você, não. Com o que está carregando.[lr]",
+      "id": 22217,
+      "epk_id": "27358",
+      "label": "$$$message_0202_0002_0001$$$"
+    },
+    {
+      "en": "You're hiding something behind you.\"[lr]",
+      "jp": "　そこ、後ろに何を隠している」[lr]",
+      "Pt-br": "Tem alguma coisa escondida aí atrás.\"[lr]",
+      "id": 22218,
+      "epk_id": "27359",
+      "label": "$$$message_0202_0002_0002$$$"
+    },
+    {
+      "en": "\"It's not really any of your business... Here, want a look?\"[lr]",
+      "jp": "「別に衛宮くんには関係ないと思うけど[line len=3]はい、見る？」[lr]",
+      "Pt-br": "\"Não é da sua conta... Mas, já que insiste, quer ver, Emiya-kun?\"[lr]",
+      "id": 22219,
+      "epk_id": "27360",
+      "label": "$$$message_0202_0002_0003$$$"
+    },
+    {
+      "en": "She shows me.[lr]",
+      "jp": "　隠しもせずに提示する。[lr]",
+      "Pt-br": "Ela me mostra.[lr]",
+      "id": 22220,
+      "epk_id": "27361",
+      "label": "$$$message_0202_0002_0004$$$"
+    },
+    {
+      "en": "Tohsaka is holding a strangely colored bottle and glass cup.",
+      "jp": "　遠坂の手にあるものは、妙な色をした瓶とグラスだった。",
+      "Pt-br": "Tohsaka segura uma garrafa de cor estranha e um copo.",
+      "id": 22221,
+      "epk_id": "27362",
+      "label": "$$$message_0202_0002_0005$$$"
+    },
+    {
+      "en": "\"Are you going to drink that?\"[lr]",
+      "jp": "「それ、飲むのか？」[lr]",
+      "Pt-br": "\"Você vai tomar isso?\"[lr]",
+      "id": 22222,
+      "epk_id": "27363",
+      "label": "$$$message_0202_0003_0000$$$"
+    },
+    {
+      "en": "\"What else would I do with it? It's a substitute for a nightcap.\"[lr]",
+      "jp": "「飲む以外何に使うのよ。ナイトキャップ代わりってヤツよ」[lr]",
+      "Pt-br": "\"O que mais eu faria? Vai servir de drinque antes de dormir.\"[lr]",
+      "id": 22223,
+      "epk_id": "27364",
+      "label": "$$$message_0202_0003_0001$$$"
+    },
+    {
+      "en": "\"Ah, I see. It must be that drink I've been hearing about that helps you sleep.\"[lr]",
+      "jp": "「ああ、なるほど。いっぱいひっかけると眠くなるって聞くもんな、確かに」[lr]",
+      "Pt-br": "\"Ah, entendi. Deve ser aquela bebida que dizem ajudar a pegar no sono.\"[lr]",
+      "id": 22224,
+      "epk_id": "27365",
+      "label": "$$$message_0202_0003_0002$$$"
+    },
+    {
+      "en": "How am I supposed to ignore that?",
+      "jp": "　じゃあお休み[line len=3]などと流せる問題か、これ。",
+      "Pt-br": "Como é que eu deveria ignorar uma coisa dessas?",
+      "id": 22225,
+      "epk_id": "27366",
+      "label": "$$$message_0202_0003_0003$$$"
+    },
+    {
+      "en": "\"Am I just imagining it, or are you making an awful face?\"[lr]",
+      "jp": "「気のせいかしら。衛宮くん、ひどい顔してるけど」[lr]",
+      "Pt-br": "\"É impressão minha ou Emiya-kun está fazendo uma cara horrível?\"[lr]",
+      "id": 22226,
+      "epk_id": "27367",
+      "label": "$$$message_0202_0004_0000$$$"
+    },
+    {
+      "en": "\"It isn't your imagination. It's your fault.[lr]",
+      "jp": "「気のせいじゃない。おまえのせいだ。[lr]",
+      "Pt-br": "\"Não é impressão. E a culpa é sua.[lr]",
+      "id": 22227,
+      "epk_id": "27368",
+      "label": "$$$message_0202_0004_0001$$$"
+    },
+    {
+      "en": "Drinking before bed? Don't tell me that's alcoholic...\"",
+      "jp": "　寝る前にちょっと一杯って何だよ。それ、まさかアルコール[line len=3]」",
+      "Pt-br": "Beber antes de dormir? Não me diga que isso tem álcool...\"",
+      "id": 22228,
+      "epk_id": "27369",
+      "label": "$$$message_0202_0004_0002$$$"
+    },
+    {
+      "en": "\"You're making such a big deal out of it.[lr]",
+      "jp": "「ずいぶん大げさね。[lr]",
+      "Pt-br": "\"Você está fazendo um escândalo por nada.[lr]",
+      "id": 22229,
+      "epk_id": "27370",
+      "label": "$$$message_0202_0005_0000$$$"
+    },
+    {
+      "en": "Don't you drink some? Like when you can't sleep?\"[lr]",
+      "jp": "　衛宮くんは飲まないの？　どうしても寝付けない時とか」[lr]",
+      "Pt-br": "Nunca toma alguma coisa quando não consegue dormir, Emiya-kun?\"[lr]",
+      "id": 22230,
+      "epk_id": "27371",
+      "label": "$$$message_0202_0005_0001$$$"
+    },
+    {
+      "en": "\"When that happens, I just curl up under my covers. I don't usually have trouble falling asleep.[lr]",
+      "jp": "「そういうときは布団を被ってじっとしてるし、寝づらいことは少ない。[lr]",
+      "Pt-br": "\"Quando isso acontece, só me enrolo debaixo das cobertas. Normalmente não tenho dificuldade para dormir.[lr]",
+      "id": 22231,
+      "epk_id": "27372",
+      "label": "$$$message_0202_0005_0002$$$"
+    },
+    {
+      "en": "So is it really alcoholic?\"",
+      "jp": "　って、やっぱり酒なのか？」",
+      "Pt-br": "Mas isso tem álcool ou não?\"",
+      "id": 22232,
+      "epk_id": "27373",
+      "label": "$$$message_0202_0005_0003$$$"
+    },
+    {
+      "en": "\"...Of course you don't. You seem like the type to be fine even if you stay [font italic=true]dry[font italic=false] all year.\"[lr]",
+      "jp": "「……そうよねぇ。衛宮くんって年中ドライでも平気って感じだし」[lr]",
+      "Pt-br": "\"...É claro que não. Emiya-kun parece o tipo que passaria o ano inteiro [font italic=true]em abstinência[font italic=false] sem se incomodar.\"[lr]",
+      "id": 22233,
+      "epk_id": "27374",
+      "label": "$$$message_0202_0006_0000$$$"
+    },
+    {
+      "en": "I'm not sure if that was a compliment.[lr]",
+      "jp": "　お褒め頂いたのか、どうなのだか。[lr]",
+      "Pt-br": "Não sei bem se isso foi um elogio.[lr]",
+      "id": 22234,
+      "epk_id": "27375",
+      "label": "$$$message_0202_0006_0001$$$"
+    },
+    {
+      "en": "She still hasn't answered my question.[lr]",
+      "jp": "　そもそもこっちの質問に対して何も返答されていない。[lr]",
+      "Pt-br": "E ela ainda não respondeu à minha pergunta.[lr]",
+      "id": 22235,
+      "epk_id": "27376",
+      "label": "$$$message_0202_0006_0002$$$"
+    },
+    {
+      "en": "I start to pout, which finally gets her attention.",
+      "jp": "　口を尖らせてみると、遠坂はそんな俺がよっぽどおかしいのか[line len=2]",
+      "Pt-br": "Começo a emburrar, e enfim consigo sua atenção.",
+      "id": 22236,
+      "epk_id": "27377",
+      "label": "$$$message_0202_0006_0003$$$"
+    },
+    {
+      "en": "\"It isn't alcohol. Relax. Just some imported juice with a strong flavor.[lr]",
+      "jp": "「お酒じゃないわよ、安心して。ただの輸入物の濃い味のジュースだから。[lr]",
+      "Pt-br": "\"Não é álcool. Relaxe. É só um suco importado de sabor forte.[lr]",
+      "id": 22237,
+      "epk_id": "27378",
+      "label": "$$$message_0202_0007_0000$$$"
+    },
+    {
+      "en": "I use it to help trick myself into falling asleep.\"[lr]",
+      "jp": "　ぐっすり眠りたい時にね、自分を騙すために嗜んでいるの」[lr]",
+      "Pt-br": "Eu o uso para enganar o corpo e conseguir pegar no sono.\"[lr]",
+      "id": 22238,
+      "epk_id": "27379",
+      "label": "$$$message_0202_0007_0001$$$"
+    },
+    {
+      "en": "\"Oh... I believe you for now, but don't drink too much.\"",
+      "jp": "「そうか……一応信じるが、飲みすぎるなよ」",
+      "Pt-br": "\"Ah... Vou acreditar em você por enquanto, mas não exagere.\"",
+      "id": 22239,
+      "epk_id": "27380",
+      "label": "$$$message_0202_0007_0002$$$"
+    },
+    {
+      "en": "Fuji-nee's face comes to mind.[lr]",
+      "jp": "　飲み過ぎ、の典型例に藤ねえの顔が浮かぶ。[lr]",
+      "Pt-br": "O rosto de Fuji-nee me vem à cabeça.[lr]",
+      "id": 22240,
+      "epk_id": "27381",
+      "label": "$$$message_0202_0008_0000$$$"
+    },
+    {
+      "en": "She's a tiger, a big one...at least when it comes to holding her liquor.",
+      "jp": "　ありゃあ虎だからな、大虎。正真正銘の酒だった場合の話だが。",
+      "Pt-br": "Ela é uma tigresa — e das grandes... pelo menos quando o assunto é resistência à bebida.",
+      "id": 22241,
+      "epk_id": "27382",
+      "label": "$$$message_0202_0008_0001$$$"
+    },
+    {
+      "en": "\"Do you really believe me? Even if it was alcohol, I wouldn't drink like Ms. Fujimura does. [cacheimage storage=åç§æ04c(é )][wvl][chgfg time=300 storage=åç§æ04c(é ) textoff=0]One of our family mottos is to drink but not get drunk.\"[lr]",
+      "jp": "「本当に信じてる？　たとえお酒だとしても藤村先生みたいな飲み方はしないわよ。[cacheimage storage=凛私服04c(遠)][wvl][chgfg time=300 storage=凛私服04c(遠) textoff=0]我が家の家訓では、飲んでも呑まれるな、と」[lr]",
+      "Pt-br": "\"Acredita mesmo? Ainda que fosse álcool, eu jamais beberia como a Fujimura-sensei. [cacheimage storage=凛私服04c(遠)][wvl][chgfg time=300 storage=凛私服04c(遠) textoff=0]Um dos lemas da nossa família é: 'beba, mas não se embriague'.\"[lr]",
+      "id": 22242,
+      "epk_id": "27383",
+      "label": "$$$message_0202_0009_0000$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「…………」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 22243,
+      "epk_id": "27384",
+      "label": "$$$message_0202_0009_0001$$$"
+    },
+    {
+      "en": "Tohsaka's family sure has some vulgar mottos.[lr]",
+      "jp": "　遠坂んところにしちゃあ俗な家訓である。[lr]",
+      "Pt-br": "A família Tohsaka tem uns lemas bem vulgares.[lr]",
+      "id": 22244,
+      "epk_id": "27385",
+      "label": "$$$message_0202_0009_0002$$$"
+    },
+    {
+      "en": "I'm sure it was a recent addition.",
+      "jp": "　おそらく、今代から新しく加わったに違いない。",
+      "Pt-br": "Tenho certeza de que esse foi acrescentado recentemente.",
+      "id": 22245,
+      "epk_id": "27386",
+      "label": "$$$message_0202_0009_0003$$$"
+    },
+    {
+      "en": "\"Calm down. Be confident and elegant in all things.[lr]",
+      "jp": "「安心なさい。何事も余裕を持って優雅たれ。[lr]",
+      "Pt-br": "\"Acalme-se. Confiança e elegância em todas as coisas.[lr]",
+      "id": 22246,
+      "epk_id": "27387",
+      "label": "$$$message_0202_0010_0000$$$"
+    },
+    {
+      "en": "I'd sooner die than disgrace myself by drinking myself sick.\"",
+      "jp": "　気分悪くして倒れるなんて、みっともない真似は死んでも出来ないわよ」",
+      "Pt-br": "Prefiro morrer a me desonrar bebendo até passar mal.\"",
+      "id": 22247,
+      "epk_id": "27388",
+      "label": "$$$message_0202_0010_0001$$$"
+    },
+    {
+      "en": "True... I can't imagine Tohsaka lying on the ground, groaning and wasted.[lr]",
+      "jp": "　たしかに[ruby text=うめ]呻きながら伏せる遠坂というのも想像できない。[lr]",
+      "Pt-br": "É verdade... Não consigo imaginar Tohsaka caída no chão, bêbada, gemendo sem forças.[lr]",
+      "id": 22248,
+      "epk_id": "27389",
+      "label": "$$$message_0202_0011_0000$$$"
+    },
+    {
+      "en": "She's an honor student who's shrewd in all things. She would take her own limits into account.[lr]",
+      "jp": "　優等生で万事そつがない遠坂だ。自分の限界をきちんと踏まえた振る舞いをするのだろう。[lr]",
+      "Pt-br": "Ela é a aluna exemplar, perspicaz em tudo. Sem dúvida saberia respeitar os próprios limites.[lr]",
+      "id": 22249,
+      "epk_id": "27390",
+      "label": "$$$message_0202_0011_0001$$$"
+    },
+    {
+      "en": "...Though the bottle in her hands doesn't lend that impression.",
+      "jp": "　……まあ、手に取る瓶を間違えるくらいはしそうだが。",
+      "Pt-br": "...Embora a garrafa em suas mãos não passe exatamente essa impressão.",
+      "id": 22250,
+      "epk_id": "27391",
+      "label": "$$$message_0202_0011_0002$$$"
+    },
+    {
+      "en": "\"...Sakura's the one you need to keep an eye on.[lr]",
+      "jp": "「……注意した方が良いのは桜よ。[lr]",
+      "Pt-br": "\"...É com a Sakura que você precisa tomar cuidado.[lr]",
+      "id": 22251,
+      "epk_id": "27392",
+      "label": "$$$message_0202_0012_0000$$$"
+    },
+    {
+      "en": "That girl's got the potential to make Ms. Fujimura look like a scrub, someday. Rider feels like she could hold her drink, too. She's a snake, after all.\"[lr]",
+      "jp": "　あの娘水気だから藤村先生なんか比較にならない素質があるはず。将来のね。ライダーも底なしっぽいわね、だってウワバミだから」[lr]",
+      "Pt-br": "Um dia, aquela garota ainda vai fazer a Fujimura-sensei parecer amadora. Rider também tem cara de quem aguenta bem a bebida. Afinal, ela é uma serpente.\"[lr]",
+      "id": 22252,
+      "epk_id": "27393",
+      "label": "$$$message_0202_0012_0001$$$"
+    },
+    {
+      "en": "\"Tiger, snake... Is my house a zoo for alcoholic animals?[lr]",
+      "jp": "「虎にウワバミに、我が家はアルコール動物園か……。[lr]",
+      "Pt-br": "\"Tigre, serpente... Minha casa é um zoológico de bichos alcoólatras?[lr]",
+      "id": 22253,
+      "epk_id": "27394",
+      "label": "$$$message_0202_0012_0002$$$"
+    },
+    {
+      "en": "So you were talking about liquor this whole time?\"",
+      "jp": "　あれ、やっぱりおまえ酒の話してるよな？」",
+      "Pt-br": "Então você estava falando de bebida o tempo todo?\"",
+      "id": 22254,
+      "epk_id": "27395",
+      "label": "$$$message_0202_0012_0003$$$"
+    },
+    {
+      "en": "\"...On that note, [cacheimage storage=åç§æ09c(é )][wvl][chgfg time=300 storage=åç§æ09c(é ) textoff=0]you seem like you'd be a lightweight, Shirou.\"[lr]",
+      "jp": "「……そういえば、[cacheimage storage=凛私服09c(遠)][wvl][chgfg time=300 storage=凛私服09c(遠) textoff=0]士郎ってお酒苦手そうよね？」[lr]",
+      "Pt-br": "\"...Falando nisso, [cacheimage storage=凛私服09c(遠)][wvl][chgfg time=300 storage=凛私服09c(遠) textoff=0]você tem cara de quem cai com um gole, Shirou.\"[lr]",
+      "id": 22255,
+      "epk_id": "27396",
+      "label": "$$$message_0202_0013_0000$$$"
+    },
+    {
+      "en": "\"I...don't think so. I can handle beer when it's in pork stews and stuff.\"[lr]",
+      "jp": "「そんなことはない[line len=2]と思う。酒煮鍋とか豚肉のビール鍋とか平気だから」[lr]",
+      "Pt-br": "\"Eu... acho que não. Não tenho problema com a cerveja usada em ensopado de porco e coisas assim.\"[lr]",
+      "id": 22256,
+      "epk_id": "27397",
+      "label": "$$$message_0202_0013_0001$$$"
+    },
+    {
+      "en": "\"All the alcohol's evaporated from that.\"",
+      "jp": "「あんなのアルコールみんな飛んじゃってるじゃない」",
+      "Pt-br": "\"Todo o álcool evapora durante o preparo.\"",
+      "id": 22257,
+      "epk_id": "27398",
+      "label": "$$$message_0202_0013_0002$$$"
+    },
+    {
+      "en": "That's true. We'd all be in trouble otherwise.[lr]",
+      "jp": "　そりゃそうだ、じゃなきゃ生臭くて大変なことになる。[lr]",
+      "Pt-br": "É verdade. Caso contrário, estaríamos todos encrencados.[lr]",
+      "id": 22258,
+      "epk_id": "27399",
+      "label": "$$$message_0202_0014_0000$$$"
+    },
+    {
+      "en": "...Come to think of it, I have no idea if I can hold my liquor or not. I'm underage, after all.",
+      "jp": "　……言われてみれば、自分が酒に強いか弱いかは不明だ。未成年だし。",
+      "Pt-br": "...Pensando bem, não faço ideia se aguento bebida ou não. Afinal, ainda sou menor de idade.",
+      "id": 22259,
+      "epk_id": "27400",
+      "label": "$$$message_0202_0014_0001$$$"
+    },
+    {
+      "en": "\"...I'm underage, so it doesn't matter how much I can drink.\"[lr]",
+      "jp": "「……未成年なんだし、酒に弱かろうが強かろうが関係ないだろ」[lr]",
+      "Pt-br": "\"...Ainda sou menor, então não importa quanto eu aguentaria beber.\"[lr]",
+      "id": 22260,
+      "epk_id": "27401",
+      "label": "$$$message_0202_0015_0000$$$"
+    },
+    {
+      "en": "\"I'm just talking about the future.[lr]",
+      "jp": "「あくまで、将来の話よ？[lr]",
+      "Pt-br": "\"Estou falando do futuro.[lr]",
+      "id": 22261,
+      "epk_id": "27402",
+      "label": "$$$message_0202_0015_0001$$$"
+    },
+    {
+      "en": "Hmm... I think you'll need to train yourself up.\"",
+      "jp": "　ふーん……そうね、この辺も鍛えないとダメね」",
+      "Pt-br": "Hum... Acho que você vai precisar de treinamento.\"",
+      "id": 22262,
+      "epk_id": "27403",
+      "label": "$$$message_0202_0015_0002$$$"
+    },
+    {
+      "en": "\"Huh? Train for what?\"[lr]",
+      "jp": "「？　鍛えるってなにをだよ」[lr]",
+      "Pt-br": "\"Hã? Treinamento para quê?\"[lr]",
+      "id": 22263,
+      "epk_id": "27404",
+      "label": "$$$message_0202_0016_0000$$$"
+    },
+    {
+      "en": "\"Liquor. Alcohol. Over there, they treat beer and wine like water. You'd better get used to it or you'll have a hard time.\"",
+      "jp": "「お酒、アルコール。ほら、あっちの方はワインやビールなんて水って世間だから。衛宮くんも飲める様になっておかないと大変よ？」",
+      "Pt-br": "\"Bebida. Álcool. Lá, tratam cerveja e vinho como água. É melhor se acostumar, ou vai passar aperto, Emiya-kun.\"",
+      "id": 22264,
+      "epk_id": "27405",
+      "label": "$$$message_0202_0016_0001$$$"
+    },
+    {
+      "en": "Over where? Oh, Europe.[lr]",
+      "jp": "　あっちって……ヨーロッパか。[lr]",
+      "Pt-br": "Lá onde? Ah, na Europa.[lr]",
+      "id": 22265,
+      "epk_id": "27406",
+      "label": "$$$message_0202_0017_0000$$$"
+    },
+    {
+      "en": "I've heard that before, but I don't think I need to practice just yet.",
+      "jp": "　たしかにそういう話を聞くけども、今から訓練ってほどでもないんじゃないかと。",
+      "Pt-br": "Já ouvi isso antes, mas não acho que precise começar a praticar tão cedo.",
+      "id": 22266,
+      "epk_id": "27407",
+      "label": "$$$message_0202_0017_0001$$$"
+    },
+    {
+      "en": "\"...Tohsaka, you don't seem like a drink[line len=2]\"[lr]",
+      "jp": "「[line len=3]遠坂、その、やはり酒飲みは似合わな[line len=3]」[lr]",
+      "Pt-br": "\"...Tohsaka, você não parece ser do tipo que bebe[line len=2]\"[lr]",
+      "id": 22267,
+      "epk_id": "27408",
+      "label": "$$$message_0202_0018_0000$$$"
+    },
+    {
+      "en": "\"What are you talking about? Who else is going to look after you when you get hammered and pass out?[lr]",
+      "jp": "「なーにいってるのよ、士郎がかっぱかっぱと飲んで倒れたら、面倒を見るのはわたししかいないじゃない。[lr]",
+      "Pt-br": "\"Do que está falando? Quem vai cuidar de você quando ficar bêbado e desmaiar?[lr]",
+      "id": 22268,
+      "epk_id": "27409",
+      "label": "$$$message_0202_0018_0001$$$"
+    },
+    {
+      "en": "I don't want to end up the same way.\"",
+      "jp": "　そんなみっともない真似をするのはイヤよ？」",
+      "Pt-br": "Não pretendo acabar no mesmo estado.\"",
+      "id": 22269,
+      "epk_id": "27410",
+      "label": "$$$message_0202_0018_0002$$$"
+    },
+    {
+      "en": "...That does sound more likely than me looking after her.[lr]",
+      "jp": "　……遠坂を介抱するより、そっちの方がありそうだ。[lr]",
+      "Pt-br": "...Isso parece bem mais provável do que eu ter de cuidar dela.[lr]",
+      "id": 22270,
+      "epk_id": "27411",
+      "label": "$$$message_0202_0019_0000$$$"
+    },
+    {
+      "en": "Tohsaka's holding a bottle of juice, but if you told me it was a bottle of brandy, I'd believe you. It looks very drinkable, too.",
+      "jp": "　遠坂が抱えているのはジュースの瓶なのに、ブランデーの瓶だと言われても納得できそうな雰囲気が溢れてるし、如何にも飲めそうだなー、と。",
+      "Pt-br": "Tohsaka segura uma garrafa de suco, mas eu acreditaria se me dissessem que é conhaque. E, nas mãos dela, até parece apetitoso.",
+      "id": 22271,
+      "epk_id": "27412",
+      "label": "$$$message_0202_0019_0001$$$"
+    },
+    {
+      "en": "\"...Yeah. I'll do my best.\"[lr]",
+      "jp": "「……だな。そうならないように努力する」[lr]",
+      "Pt-br": "\"...Está bem. Vou me esforçar.\"[lr]",
+      "id": 22272,
+      "epk_id": "27413",
+      "label": "$$$message_0202_0020_0000$$$"
+    },
+    {
+      "en": "\"Effort doesn't decide whether you get drunk or not. At least half of it is genetic.\"[lr]",
+      "jp": "「酔う酔わないは努力云々じゃないわよ。半分以上は体質なんだから」[lr]",
+      "Pt-br": "\"Esforço não decide se alguém fica bêbado. Pelo menos metade disso vem da genética.\"[lr]",
+      "id": 22273,
+      "epk_id": "27414",
+      "label": "$$$message_0202_0020_0001$$$"
+    },
+    {
+      "en": "\"They do say a lot of Japanese people can't hold their alcohol.[lr]",
+      "jp": "「日本人は体質的に下戸が多いってヤツか。[lr]",
+      "Pt-br": "\"Dizem mesmo que muitos japoneses não aguentam álcool.[lr]",
+      "id": 22274,
+      "epk_id": "27415",
+      "label": "$$$message_0202_0020_0002$$$"
+    },
+    {
+      "en": "...Wait, then how am I supposed to train for it?\"",
+      "jp": "　……って待てよ。だったら鍛えるコトなんかできないんじゃ？」",
+      "Pt-br": "...Espera. Então como é que vou treinar?\"",
+      "id": 22275,
+      "epk_id": "27416",
+      "label": "$$$message_0202_0020_0003$$$"
+    },
+    {
+      "en": "\"You get used to it the more you drink.[lr]",
+      "jp": "「飲んでいれば飲み慣れてくるものよ。[lr]",
+      "Pt-br": "\"Quanto mais bebe, mais se acostuma.[lr]",
+      "id": 22276,
+      "epk_id": "27417",
+      "label": "$$$message_0202_0021_0000$$$"
+    },
+    {
+      "en": "Besides, not knowing your own limits is the most dangerous thing of all.\"",
+      "jp": "　それに、どれくらいが自己の限度かを知らないのが一番危ないんだから」",
+      "Pt-br": "Além disso, não conhecer o próprio limite é o mais perigoso de tudo.\"",
+      "id": 22277,
+      "epk_id": "27418",
+      "label": "$$$message_0202_0021_0001$$$"
+    },
+    {
+      "en": "\"...Hm.\"[lr]",
+      "jp": "「……む」[lr]",
+      "Pt-br": "\"...Hum.\"[lr]",
+      "id": 22278,
+      "epk_id": "27419",
+      "label": "$$$message_0202_0022_0000$$$"
+    },
+    {
+      "en": "She has a point. If you try to run a long-distance course at high speed when you aren't used to running, you'll fall.[lr]",
+      "jp": "　一理ある。走り慣れてないのに長距離をハイスピードで飛ばせばぶっ倒れもする。[lr]",
+      "Pt-br": "Ela tem razão. Se alguém tenta correr uma prova de longa distância em alta velocidade sem estar acostumado, acaba caindo.[lr]",
+      "id": 22279,
+      "epk_id": "27420",
+      "label": "$$$message_0202_0022_0001$$$"
+    },
+    {
+      "en": "Maybe alcohol is the same way. You could get carried away and go overboard before you know it...",
+      "jp": "　酒だって同じか、調子に乗って飛ばしてるとあっという間に限界をオーバーする……。",
+      "Pt-br": "Talvez seja igual com o álcool. A pessoa pode se empolgar e passar do limite antes mesmo de perceber...",
+      "id": 22280,
+      "epk_id": "27421",
+      "label": "$$$message_0202_0022_0002$$$"
+    },
+    {
+      "en": "\"Exactly.[lr]",
+      "jp": "「そういうコト。[lr]",
+      "Pt-br": "\"Exatamente.[lr]",
+      "id": 22281,
+      "epk_id": "27422",
+      "label": "$$$message_0202_0023_0000$$$"
+    },
+    {
+      "en": "Well, you might as well join me, Shirou.\"[lr]",
+      "jp": "　じゃ、今からちょっと付き合いなさい、士郎」[lr]",
+      "Pt-br": "Bem, já que estamos aqui, pode me acompanhar, Shirou.\"[lr]",
+      "id": 22282,
+      "epk_id": "27423",
+      "label": "$$$message_0202_0023_0001$$$"
+    },
+    {
+      "en": "\"So that's how it works... No, wait. That's juice, right?\"[lr]",
+      "jp": "「そういう道理か……いや、待て。それジュースだろ？」[lr]",
+      "Pt-br": "\"Então é assim que funciona... Não, espera. Isso é suco, não é?\"[lr]",
+      "id": 22283,
+      "epk_id": "27424",
+      "label": "$$$message_0202_0023_0002$$$"
+    },
+    {
+      "en": "\"Yeah. Juice. It's practice for before we come of age. You'll join me, won't you?\"",
+      "jp": "「そ。ジュース。成人前の予行演習、お相手してくれてもいいじゃない？」",
+      "Pt-br": "\"É. Suco. Um treino para antes de chegarmos à idade. Vai me acompanhar, não vai?\"",
+      "id": 22284,
+      "epk_id": "27425",
+      "label": "$$$message_0202_0023_0003$$$"
+    },
+    {
+      "en": "...Should I accept her invitation?[lr]",
+      "jp": "　……お誘いを受けているのか。[lr]",
+      "Pt-br": "...Será que aceito o convite?[lr]",
+      "id": 22285,
+      "epk_id": "27426",
+      "label": "$$$message_0202_0024_0000$$$"
+    },
+    {
+      "en": "She says the juice is practice for drinking hard liquor.[lr]",
+      "jp": "　ジュースで晩酌の予行演習、ね。[lr]",
+      "Pt-br": "Segundo ela, o suco serve de treino para bebidas fortes.[lr]",
+      "id": 22286,
+      "epk_id": "27427",
+      "label": "$$$message_0202_0024_0001$$$"
+    },
+    {
+      "en": "I didn't think this would happen.",
+      "jp": "　こんな事になるとは思いもしなかったな、今までは。",
+      "Pt-br": "Nunca imaginei que isso fosse acontecer.",
+      "id": 22287,
+      "epk_id": "27428",
+      "label": "$$$message_0202_0024_0002$$$"
+    },
+    {
+      "en": "\"...What's with the faraway look?\"[lr]",
+      "jp": "「…………なに遠い目をしてるのよ？」[lr]",
+      "Pt-br": "\"...Por que essa expressão distante?\"[lr]",
+      "id": 22288,
+      "epk_id": "27429",
+      "label": "$$$message_0202_0025_0000$$$"
+    },
+    {
+      "en": "\"Well, I used to think that you were a perfect princess. Never in my dreams did I think you'd be talking about alcohol and inviting me for an evening drink.\"",
+      "jp": "「いや、昔はほら、遠坂は完全無欠のお嬢様だと思ってたから、酒の話とか、こんな風に声掛けられるとか、露ほどにも思ってなかったから」",
+      "Pt-br": "\"É que eu costumava achar que você era uma princesa perfeita. Nem nos meus sonhos mais absurdos imaginei que falaria de álcool e me convidaria para um drinque noturno.\"",
+      "id": 22289,
+      "epk_id": "27430",
+      "label": "$$$message_0202_0025_0001$$$"
+    },
+    {
+      "en": "It doesn't sound that strange now.[lr]",
+      "jp": "　今になってみればそんなに不思議でもない。[lr]",
+      "Pt-br": "Agora, isso nem soa tão estranho.[lr]",
+      "id": 22290,
+      "epk_id": "27431",
+      "label": "$$$message_0202_0026_0000$$$"
+    },
+    {
+      "en": "I guess I'm not that sentimental about my old feelings.",
+      "jp": "　なんて、昔のことを掘り起こして感慨に[ruby text=ふけ]耽るほどでもない、か。",
+      "Pt-br": "Acho que não sou tão apegado à imagem que tinha dela.",
+      "id": 22291,
+      "epk_id": "27432",
+      "label": "$$$message_0202_0026_0001$$$"
+    },
+    {
+      "en": "\"...You want to go back to how naÃ¯ve you were back then?\"[lr]",
+      "jp": "「……あの頃の純真に戻りたいとか？」[lr]",
+      "Pt-br": "\"...Quer voltar a ser tão ingênuo quanto naquela época?\"[lr]",
+      "id": 22292,
+      "epk_id": "27433",
+      "label": "$$$message_0202_0027_0000$$$"
+    },
+    {
+      "en": "\"Not really. Okay. I'll join you... Do we need snacks or anything?\"[lr]",
+      "jp": "「でもない。わかった、そういうことなら付き合おう……なにか肴が要るか？」[lr]",
+      "Pt-br": "\"Nem tanto. Está bem, eu acompanho você... Não precisamos de algum petisco?\"[lr]",
+      "id": 22293,
+      "epk_id": "27434",
+      "label": "$$$message_0202_0027_0001$$$"
+    },
+    {
+      "en": "\"I don't want to consume calories at this hour. I'm only going to have one cup, though.\"",
+      "jp": "「こんな時間にカロリー取っても良いこと無いわよ。ま、一杯だけだから」",
+      "Pt-br": "\"Não quero consumir calorias a esta hora. E só vou tomar um copo.\"",
+      "id": 22294,
+      "epk_id": "27435",
+      "label": "$$$message_0202_0027_0002$$$"
+    },
+    {
+      "en": "\"I guess it wouldn't hurt.\" She changes her mind.[lr]",
+      "jp": "　それならいいか[line len=2]って。[lr]",
+      "Pt-br": "\"Pensando bem, não faria mal.\" Ela muda de ideia.[lr]",
+      "id": 22295,
+      "epk_id": "27436",
+      "label": "$$$message_0202_0028_0000$$$"
+    },
+    {
+      "en": "Again, I'm curious where this bottle came from.",
+      "jp": "　改めて遠坂の手にある瓶の出所が気になる。",
+      "Pt-br": "Mais uma vez, fico curioso para saber de onde veio a garrafa.",
+      "id": 22296,
+      "epk_id": "27437",
+      "label": "$$$message_0202_0028_0001$$$"
+    },
+    {
+      "en": "\"You didn't get that bottle here, right?\"[lr]",
+      "jp": "「その瓶、[ruby text=うち]家のじゃないか？」[lr]",
+      "Pt-br": "\"Você não pegou essa garrafa aqui, né?\"[lr]",
+      "id": 22297,
+      "epk_id": "27438",
+      "label": "$$$message_0202_0029_0000$$$"
+    },
+    {
+      "en": "\"Of course I did. Liquor is better drunk, not saved up.\"[lr]",
+      "jp": "「もちろん、ほら、溜め込まれるより飲まれた方が有効な活用じゃない」[lr]",
+      "Pt-br": "\"Claro que peguei. Bebida foi feita para beber, não para guardar.\"[lr]",
+      "id": 22298,
+      "epk_id": "27439",
+      "label": "$$$message_0202_0029_0001$$$"
+    },
+    {
+      "en": "\"...I guess it's fine. There's someone who keeps restocking them, after all.\"",
+      "jp": "「……いいか。その辺は勝手に補充する係がいるし」",
+      "Pt-br": "\"...Acho que não tem problema. Afinal, alguém sempre repõe o estoque.\"",
+      "id": 22299,
+      "epk_id": "27440",
+      "label": "$$$message_0202_0029_0002$$$"
+    },
+    {
+      "en": "The Fujimura Group sure is generous. She always brings lots of imported goods and soft drinks over.[lr]",
+      "jp": "　藤村組のお裾分けが多いからなぁ、変な輸入物の清涼飲料なりを大量に持ってきてくれて。[lr]",
+      "Pt-br": "O Grupo Fujimura é mesmo generoso. Fuji-nee vive trazendo produtos importados e refrigerantes.[lr]",
+      "id": 22300,
+      "epk_id": "27441",
+      "label": "$$$message_0202_0030_0000$$$"
+    },
+    {
+      "en": "I've tried a few of them, and I sometimes got dizzy, sometimes felt good, sometimes felt sick...",
+      "jp": "　何度か飲んだことはあるものの、目が回ったり気分が良くなったり悪くなったり[line len=3]",
+      "Pt-br": "Já experimentei alguns. Às vezes fiquei tonto, às vezes me senti bem, às vezes passei mal...",
+      "id": 22301,
+      "epk_id": "27442",
+      "label": "$$$message_0202_0030_0001$$$"
+    },
+    {
+      "en": "\"It's fine. Next time you come over, I'll make it up to you with something from the collection in my cellar. Then we'll be square.\"[lr]",
+      "jp": "「いいでしょ。こんどウチにきたらお返しに秘蔵のコレクションから奢る、それでおあいこ」[lr]",
+      "Pt-br": "\"Não tem problema. Na próxima vez que for à minha casa, compenso com alguma coisa da coleção do porão. Assim ficamos quites.\"[lr]",
+      "id": 22302,
+      "epk_id": "27443",
+      "label": "$$$message_0202_0031_0000$$$"
+    },
+    {
+      "en": "\"What collection...? Okay, I'll get a glass.\"",
+      "jp": "「何をコレクションしてるんだ……？　わかった、グラス持ってくる」",
+      "Pt-br": "\"Que coleção...? Está bem, vou buscar um copo.\"",
+      "id": 22303,
+      "epk_id": "27444",
+      "label": "$$$message_0202_0031_0001$$$"
+    },
+    {
+      "en": "\"One's enough.\"[lr]",
+      "jp": "「これ一つでいいじゃない。別に」[lr]",
+      "Pt-br": "\"Um basta.\"[lr]",
+      "id": 22304,
+      "epk_id": "27445",
+      "label": "$$$message_0202_0032_0000$$$"
+    },
+    {
+      "en": "\"Tohsaka, we'd be drinking from the same glass.\"[lr]",
+      "jp": "「んなこと言ったって、遠坂、それだと同じグラスで」[lr]",
+      "Pt-br": "\"Tohsaka, estaríamos bebendo do mesmo copo.\"[lr]",
+      "id": 22305,
+      "epk_id": "27446",
+      "label": "$$$message_0202_0032_0001$$$"
+    },
+    {
+      "en": "We'd take turns drinking from the same glass... But still, the thought of passing the cup back and forth to Tohsaka is so...",
+      "jp": "　回し飲みになるけど……　遠坂と二人でグラスを手渡しで、というのもすごく[line len=3]",
+      "Pt-br": "Beberíamos alternadamente do mesmo copo... Ainda assim, só de imaginar o copo indo e voltando entre mim e Tohsaka...",
+      "id": 22306,
+      "epk_id": "27447",
+      "label": "$$$message_0202_0032_0002$$$"
+    },
+    {
+      "en": "\"...Oh, you. Learn to set the mood.\"[lr]",
+      "jp": "「………もう。少しは雰囲気くらい出しなさいよ」[lr]",
+      "Pt-br": "\"...Ah, você. Aprenda a entrar no clima.\"[lr]",
+      "id": 22307,
+      "epk_id": "27448",
+      "label": "$$$message_0202_0033_0000$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "「[line len=6]」[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 22308,
+      "epk_id": "27449",
+      "label": "$$$message_0202_0033_0001$$$"
+    },
+    {
+      "en": "The sudden advance catches me off guard.[lr]",
+      "jp": "　不意打ち気味に、ズバっと切り込まれる。[lr]",
+      "Pt-br": "O ataque repentino me pega desprevenido.[lr]",
+      "id": 22309,
+      "epk_id": "27450",
+      "label": "$$$message_0202_0033_0002$$$"
+    },
+    {
+      "en": "...I guess I'm the childish one.",
+      "jp": "　……しまった、無粋なのはこっちの方だったか。",
+      "Pt-br": "...Acho que o infantil sou eu.",
+      "id": 22310,
+      "epk_id": "27451",
+      "label": "$$$message_0202_0033_0003$$$"
+    },
+    {
+      "en": "\"...All right. But next time, bring two glasses.\"[lr]",
+      "jp": "「……了解。でも、次はグラスは二つ用意しろよ」[lr]",
+      "Pt-br": "\"...Está bem. Mas, da próxima vez, traga dois copos.\"[lr]",
+      "id": 22311,
+      "epk_id": "27452",
+      "label": "$$$message_0202_0034_0000$$$"
+    },
+    {
+      "en": "\"Okay. Why don't we have it in my room?\"",
+      "jp": "「はいはい。じゃ、わたしの部屋にいきましょ？」",
+      "Pt-br": "\"Certo. Por que não bebemos no meu quarto?\"",
+      "id": 22312,
+      "epk_id": "27453",
+      "label": "$$$message_0202_0034_0001$$$"
+    },
+    {
+      "en": "\"Huh? Train for what?\"[r]",
+      "jp": "「？　鍛えるってなにを[r]だよ」",
+      "Pt-br": "\"Hmm? Treino para quê?\"[r]",
+      "id": 22313,
+      "epk_id": "927404",
+      "label": "$$$message_9202_0016_0000$$$"
+    }
+  ]
+}

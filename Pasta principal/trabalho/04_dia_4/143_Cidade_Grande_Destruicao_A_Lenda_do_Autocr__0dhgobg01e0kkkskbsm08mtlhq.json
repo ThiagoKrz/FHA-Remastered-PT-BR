@@ -1,0 +1,648 @@
+{
+  "cena": "0dhgobg01e0kkkskbsm08mtlhq",
+  "titulo": "Cidade: Grande Destruição! A Lenda do Autocrata Ressuscitado Gravada na Laje Antiga!",
+  "rota": "Dia 4",
+  "arquivo": "0dhgobg01e0kkkskbsm08mtlhq.epk_dec",
+  "linhas": [
+    {
+      "en": "\"Oh?\"[lr]",
+      "jp": "ãããï¼ã[lr]",
+      "Pt-br": "\"Hã?\"[lr]",
+      "id": 21209,
+      "epk_id": "17930",
+      "label": "$$$message_0135_0000_0000$$$"
+    },
+    {
+      "en": "There's no one at the end of the pier.[lr]",
+      "jp": "ãå é ­ã®é\nã£ãã«ã¯èª°ãããªãã[lr]",
+      "Pt-br": "Não há ninguém no fim do cais.[lr]",
+      "id": 21210,
+      "epk_id": "17931",
+      "label": "$$$message_0135_0000_0001$$$"
+    },
+    {
+      "en": "I feel like that was Shinji's usual place...[lr]",
+      "jp": "ããããããããã¯æ\näºã®å®ä½ç½®ã ã£ããããªâ¦â¦[lr]",
+      "Pt-br": "Achei que este fosse o lugar de sempre do Shinji...[lr]",
+      "id": 21211,
+      "epk_id": "17932",
+      "label": "$$$message_0135_0000_0002$$$"
+    },
+    {
+      "en": "\"Huh, the weather...\"[lr]",
+      "jp": "ããããå¤©æ°â¦â¦ã[lr]",
+      "Pt-br": "\"Hã? O tempo...\"[lr]",
+      "id": 21212,
+      "epk_id": "17933",
+      "label": "$$$message_0135_0000_0003$$$"
+    },
+    {
+      "en": "I wonder what happened.[lr]",
+      "jp": "ãã©ãããäºã ããï¼[lr]",
+      "Pt-br": "O que será que aconteceu?[lr]",
+      "id": 21213,
+      "epk_id": "17934",
+      "label": "$$$message_0135_0000_0004$$$"
+    },
+    {
+      "en": "[se volume=60 storage=se023.wav]The weather was so good earlier, yet the sky took a turn and is now covered with thick clouds.",
+      "jp": "ã[se volume=60 storage=se023.wav]ããã»ã©ããå¤©æ°ã ã£ãã®ã«ãç©ºã¯ä¸è»¢ãã¦åãé²ã«è¦ããã¦ãã¾ã£ãã",
+      "Pt-br": "[se volume=60 storage=se023.wav]Há pouco o tempo estava ótimo, mas o céu virou e agora está coberto por nuvens espessas.",
+      "id": 21214,
+      "epk_id": "17935",
+      "label": "$$$message_0135_0000_0005$$$"
+    },
+    {
+      "en": "\"...It seems as if a typhoon is coming...[lr]",
+      "jp": "ãâ¦â¦ãªãããå°é¢¨ã§ãæ¥ãããªé°å²æ°ã ãªâ¦â¦ã[lr]",
+      "Pt-br": "\"...Parece que um tufão está vindo...[lr]",
+      "id": 21215,
+      "epk_id": "17936",
+      "label": "$$$message_0135_0001_0000$$$"
+    },
+    {
+      "en": "I need to go back before it starts raining...\"[lr]",
+      "jp": "ã[ruby text=ã²ã¨ãã char=2]ä¸é¨æ¥ãåã«æ»ããªãã¨[line len=3]ã[lr]",
+      "Pt-br": "Preciso voltar antes que comece a chover...\"[lr]",
+      "id": 21216,
+      "epk_id": "17937",
+      "label": "$$$message_0135_0001_0001$$$"
+    },
+    {
+      "en": "...No.[lr]",
+      "jp": "ãâ¦â¦â¦â¦ããã[lr]",
+      "Pt-br": "...Não.[lr]",
+      "id": 21217,
+      "epk_id": "17938",
+      "label": "$$$message_0135_0001_0002$$$"
+    },
+    {
+      "en": "I can't turn back now. I need to call out to Shinji if a storm is coming.",
+      "jp": "ãè¡ãããã£ãè¹ã ãåµãæ¥ããªãæ\näºã«å£°ããããªãã¨ã",
+      "Pt-br": "Não posso voltar agora. Se uma tempestade está chegando, preciso avisar Shinji.",
+      "id": 21218,
+      "epk_id": "17939",
+      "label": "$$$message_0135_0001_0003$$$"
+    },
+    {
+      "en": "\"Hey, Shinji, are you there!?[lr]",
+      "jp": "ããã¼ããæ\näºã¼ããããã¼ï¼ï¼[lr]",
+      "Pt-br": "\"Ei, Shinji, você está aí!?[lr]",
+      "id": 21219,
+      "epk_id": "17940",
+      "label": "$$$message_0135_0002_0000$$$"
+    },
+    {
+      "en": "It's gonna start raining, the wind's already strong, you need to get back before you get swallowed up by the waves and join the seaweed club!\"[lr]",
+      "jp": "ã[ruby text=ã²ã¨ãã char=2]ä¸é¨æ¥ããã¼ãé¢¨ãå¼·ããã ãã¼ãæ³¢ã«ããããã¦æµ·èã®ä»²éå\n¥ãããåã«å¸°ããªããã¼ï¼ã[lr]",
+      "Pt-br": "Vai chover, o vento já está forte! Volte antes que as ondas engulam você e o transformem em adubo de alga!\"[lr]",
+      "id": 21220,
+      "epk_id": "17941",
+      "label": "$$$message_0135_0002_0001$$$"
+    },
+    {
+      "en": "The wind is starting to become unbelievably strong.[lr]",
+      "jp": "ãã£ãã¨ãã§ããªãé¢¨ã«ãªã£ã¦ããã[lr]",
+      "Pt-br": "O vento ganha uma força inacreditável.[lr]",
+      "id": 21221,
+      "epk_id": "17942",
+      "label": "$$$message_0135_0002_0002$$$"
+    },
+    {
+      "en": "...No matter how you look at it, this is unnatural.[lr]",
+      "jp": "ãâ¦â¦ããããªãã§ãä¸èªç¶ã ãªã[lr]",
+      "Pt-br": "...Não importa o ângulo: isto não é natural.[lr]",
+      "id": 21222,
+      "epk_id": "17943",
+      "label": "$$$message_0135_0002_0003$$$"
+    },
+    {
+      "en": "It's almost like a cataclysm for such a storm to come the moment I came to the port...",
+      "jp": "ãä¿ºãæ¸¯ã«æ¥ãéç«¯ããããªåµããããªãã¦ã¾ãã§å¤©å¤å°ç°[line len=3]",
+      "Pt-br": "É quase um cataclismo, uma tempestade dessas começar no exato instante em que chego ao porto...",
+      "id": 21223,
+      "epk_id": "17944",
+      "label": "$$$message_0135_0002_0004$$$"
+    },
+    {
+      "en": "\"What...!? The card is starting to glow...!?\"",
+      "jp": "ãã£â¦â¦ï¼ï¼ããªãã ãã«ã¼ããå\nãåºãã¦â¦â¦ï¼ï¼ã",
+      "Pt-br": "\"O que...!? A carta está começando a brilhar...!?\"",
+      "id": 21224,
+      "epk_id": "17945",
+      "label": "$$$message_0135_0003_0000$$$"
+    },
+    {
+      "en": "...The time has come. Let the war between kings to conquer the Earth begin.",
+      "jp": "âââæã¯ãããæã®è¦æ¨©ããããçè\nã®æ¦ããå§ãããã",
+      "Pt-br": "...Chegou a hora. Que comece a guerra dos reis pela conquista da Terra.",
+      "id": 21225,
+      "epk_id": "17946",
+      "label": "$$$message_0135_0004_0000$$$"
+    },
+    {
+      "en": "You are the strongest, chosen hero, Gobatchnen.",
+      "jp": "è²´æ¹ã¯é¸ã°ããæå¼·ã®åè\nã´ããããã³ã",
+      "Pt-br": "Você é o herói mais forte e escolhido, Gobatchnen.",
+      "id": 21226,
+      "epk_id": "17947",
+      "label": "$$$message_0135_0004_0001$$$"
+    },
+    {
+      "en": "You've made it to the lair of the flame dragon Payapaya who's plotting to overthrow the kingdom,",
+      "jp": "çå½ã®è»¢è¦ãä¼ãç«ç«ãã¤ãã¤ã®æ£²ãæ´çªã¸ãã£ã¦ããã®ã ãã",
+      "Pt-br": "Você conseguiu chegar ao covil do dragão das chamas Payapaya, que está tramando para derrubar o reino,",
+      "id": 21227,
+      "epk_id": "17948",
+      "label": "$$$message_0135_0004_0002$$$"
+    },
+    {
+      "en": "but the Sequel Curse has reset your level and all of your gear!",
+      "jp": "ãç¶ç·¨ã²ã¼ã ã®åªããã«ãã£ã¦è£\nåã¨ã¬ãã«ãåæåããã¦ãã¾ã£ãï¼",
+      "Pt-br": "mas a Maldição da Sequência resetou seu nível e todos os seus equipamentos!",
+      "id": 21228,
+      "epk_id": "17949",
+      "label": "$$$message_0135_0004_0003$$$"
+    },
+    {
+      "en": "Still, destiny waits for no one.",
+      "jp": "ãããå®¿å½ã¯å¾\nã£ã¦ã¯ãããªãã",
+      "Pt-br": "Mesmo assim, o destino não espera por ninguém.",
+      "id": 21229,
+      "epk_id": "17950",
+      "label": "$$$message_0135_0004_0004$$$"
+    },
+    {
+      "en": "As you're overcome with grief, Lord Goblin Peyang III appears before you, even though you beat him before!",
+      "jp": "æ²åã«ãããè²´æ¹ã®åã«ãä»¥ååããç­ã®ã­ã¼ãã´ããªã³ãã¤ã³ã°ä¸ä¸ãç¾ããâ¦â¦ï¼",
+      "Pt-br": "Enquanto o desespero o domina, Lorde Goblin Peyang III — que você já derrotou — surge diante de seus olhos!",
+      "id": 21230,
+      "epk_id": "17951",
+      "label": "$$$message_0135_0004_0005$$$"
+    },
+    {
+      "en": "If you want to fight, go to 14. If you want to turn back, go to 14.",
+      "jp": "æ¦ãã®ãªãï¼ï¼ã¸ãå¼ãè¿ãã®ãªãï¼ï¼ã¸é²ãã",
+      "Pt-br": "Se você quer lutar, vá para 14. Se você quer voltar, vá para 14.",
+      "id": 21231,
+      "epk_id": "17952",
+      "label": "$$$message_0135_0004_0006$$$"
+    },
+    {
+      "en": "\"...[fadebgm time=100 volume=30][se storage=se564.wav]Wha[line len=2]\"[fadebgm time=1500 volume=100][lr]",
+      "jp": "ã[line len=6]ã[fadebgm time=100 volume=30][se storage=se564.wav]ãªã[fadebgm time=1500 volume=100][lr]",
+      "Pt-br": "\"...[fadebgm time=100 volume=30][se storage=se564.wav]Que[line len=2]\"[fadebgm time=1500 volume=100][lr]",
+      "id": 21232,
+      "epk_id": "17953",
+      "label": "$$$message_0135_0004_0007$$$"
+    },
+    {
+      "en": "Something is talking directly to my heart.[lr]",
+      "jp": "ãä½ããå¿ã«ç´æ¥èªãããã¦ããã[lr]",
+      "Pt-br": "Algo fala diretamente ao meu coração.[lr]",
+      "id": 21233,
+      "epk_id": "17954",
+      "label": "$$$message_0135_0004_0008$$$"
+    },
+    {
+      "en": "Because they're using such archaic language, I wasn't able to tell what they're saying at all...",
+      "jp": "ããã¾ãã«ãå¤ãè¨èªã®çºãä½ãè¨ã£ã¦ãããã¯ã¾ã£ããåãããªãã£ãã®ã ãã",
+      "Pt-br": "A linguagem é tão arcaica que não consegui entender absolutamente nada...",
+      "id": 21234,
+      "epk_id": "17955",
+      "label": "$$$message_0135_0004_0009$$$"
+    },
+    {
+      "en": "\"W-what the...! This card comes from a game that's endorsed by the Mage's Association, apparently today is the championship match, and the victor can do whatever they want with the whole world...!?\"[lr]",
+      "jp": "ããªããªãã¦ã³ãã â¦â¦ï¼ããã®ã«ã¼ããé­è¡åä¼å\n¬èªã®ã«ã¼ãã²ã¼ã ã§ããªãã ãä»æ¥ã¯æ±ºåæ¦ã§ããã®åè\nã¯ä¸çãæãéãã«ã§ããã ã¨â¦â¦ï¼ï¼ï¼ï¼ï¼ã[lr]",
+      "Pt-br": "\"O-o quê...!? Esta carta pertence a um jogo aprovado pela Associação de Magos, hoje é a final do campeonato e o vencedor poderá fazer o que quiser com o mundo inteiro...!?\"[lr]",
+      "id": 21235,
+      "epk_id": "17956",
+      "label": "$$$message_0135_0005_0000$$$"
+    },
+    {
+      "en": "I was able to grasp the general outline.",
+      "jp": "ãã¨ã¾ããæ¦è¦ã¯ãããã­æ´ããã",
+      "Pt-br": "Consegui captar a ideia geral.",
+      "id": 21236,
+      "epk_id": "17957",
+      "label": "$$$message_0135_0005_0001$$$"
+    },
+    {
+      "en": "\"Ha, ha, ha! Woohoo, kukakakokokokiikii![lr]",
+      "jp": "ãã¯ã£ã¯ã£ã¯ï¼ããã²ãã¼ã¯ã«ã«ã³ã³ã³ã­ã¤ã­ã¤ï¼[lr]",
+      "Pt-br": "\"Ha, ha, ha! Uhuu, kukakakokokokiikii![lr]",
+      "id": 21237,
+      "epk_id": "17958",
+      "label": "$$$message_0135_0006_0000$$$"
+    },
+    {
+      "en": "Exactly, O chosen red cardmaster! I've been waiting for you, our fated duelist!\"",
+      "jp": "ããã®éãã é¸ã°ããèµ¤ã®æ­å¸«ãï¼ããã¨å¾\nã£ã¦ããããªãã¨ãå¾\nã£ã¦ãããæãéå½ã®ãã¥ã¨ãªã¹ããï¼ã",
+      "Pt-br": "Exatamente, ó mestre escolhido da carta vermelha! Eu esperava por você, meu duelista predestinado!\"",
+      "id": 21238,
+      "epk_id": "17959",
+      "label": "$$$message_0135_0006_0001$$$"
+    },
+    {
+      "en": "\"Who are you...!?\"",
+      "jp": "ãè²´æ§ãä½è\n[line len=3]ï¼ï¼ã",
+      "Pt-br": "\"Quem é você...!?\"",
+      "id": 21239,
+      "epk_id": "17960",
+      "label": "$$$message_0135_0007_0000$$$"
+    },
+    {
+      "en": "I can't open my eyes from the strong wind.[lr]",
+      "jp": "ããã¾ãã®æ´é¢¨ã«ç®ãéãã¦ããããªãã[lr]",
+      "Pt-br": "O vento é tão forte que não consigo abrir os olhos.[lr]",
+      "id": 21240,
+      "epk_id": "17961",
+      "label": "$$$message_0135_0008_0000$$$"
+    },
+    {
+      "en": "The mysterious person that appeared from the side of the port laughs like a person high on drugs.",
+      "jp": "ãæ¸¯ã®é\nã£ãããã²ãã£ããç¾ããè¬ã®äººç©ã¯ãè³å\néº»è¬ãã­ã·ãã ãªç¬ãå£°ãããã¾ããã",
+      "Pt-br": "A figura misteriosa que surge do lado do porto ri como alguém alucinado.",
+      "id": 21241,
+      "epk_id": "17962",
+      "label": "$$$message_0135_0008_0001$$$"
+    },
+    {
+      "en": "\"Hahahahahaha![lr]",
+      "jp": "ãããããããï¼[lr]",
+      "Pt-br": "\"Hahahahahaha![lr]",
+      "id": 21242,
+      "epk_id": "17963",
+      "label": "$$$message_0135_0009_0000$$$"
+    },
+    {
+      "en": "Who am I? Who am I? Who am I, you said!?[lr]",
+      "jp": "ãä½è\nãã ã£ã¦ï¼ä½è\nãã ã£ã¦ï¼ä½è\nãã ã£ã¦ãï¼[lr]",
+      "Pt-br": "Quem sou eu? Quem sou eu? Quem sou eu, você disse!?[lr]",
+      "id": 21243,
+      "epk_id": "17964",
+      "label": "$$$message_0135_0009_0001$$$"
+    },
+    {
+      "en": "You don't know, huh! Yeah, you don't know my gorgeous self! Wow, how gross![lr]",
+      "jp": "ãåãããªããããããåãããªããã­ã´ã¼ã¸ã£ã¹ãªåï¼ãããããæ°æã¡ã¯ã«ã¤ãã¼ï¼[lr]",
+      "Pt-br": "Não sabe, é!? Sim, não reconhece esta minha gloriosa pessoa! Nossa, que repugnante![lr]",
+      "id": 21244,
+      "epk_id": "17965",
+      "label": "$$$message_0135_0009_0002$$$"
+    },
+    {
+      "en": "Look, Emiya! I'm swimming in so much dark god aura and negative feelings I don't know what to do with it all!\"",
+      "jp": "ãè¦ã¦è¦ã¦è¡å®®ãå¤§ããªãéã®éªç¥ã¨ãäººéã®è² ã®æ³å¿µã¨ããããããã®ãæº¢ãã¦ããã¿ã¤ãã³ãï¼ã",
+      "Pt-br": "Olhe, Emiya! Estou transbordando de aura divina sombria e sentimentos negativos, nem sei o que fazer com tudo isso!\"",
+      "id": 21245,
+      "epk_id": "17966",
+      "label": "$$$message_0135_0009_0003$$$"
+    },
+    {
+      "en": "The turbulent wind, the raging lightning, [se storage=se608.wav]the blue sea that shakes severely.[lr]",
+      "jp": "ãå¹ãããã¶é¢¨ãèãçãç¨²å\nã[se storage=se608.wav]æ¿éããéãæµ·ã[lr]",
+      "Pt-br": "O vendaval turbulento, os relâmpagos furiosos, [se storage=se608.wav]o mar azul em violenta agitação.[lr]",
+      "id": 21246,
+      "epk_id": "17967",
+      "label": "$$$message_0135_0010_0000$$$"
+    },
+    {
+      "en": "[se storage=se023.wav]And the black-tailed gulls that screech overhead.[lr]",
+      "jp": "ã[se storage=se023.wav]ããã¦ã¿ãã¼ã¿ãã¼é³´ãã¦ããã³ã[lr]",
+      "Pt-br": "[se storage=se023.wav]E as gaivotas-de-cauda-preta que grasnam no alto.[lr]",
+      "id": 21247,
+      "epk_id": "17968",
+      "label": "$$$message_0135_0010_0001$$$"
+    },
+    {
+      "en": "A scene that could be considered the end of the world in a variety of ways unfolds unsparingly.[lr]",
+      "jp": "ãããããªæå³ã§ãã®ä¸ã®çµããã¨ãè¨ããå\næ¯ããã¾æããããªãå¤§å±éã[lr]",
+      "Pt-br": "Diante de nós se desenrola, sem qualquer piedade, uma cena que de várias formas poderia ser chamada de fim do mundo.[lr]",
+      "id": 21248,
+      "epk_id": "17969",
+      "label": "$$$message_0135_0010_0002$$$"
+    },
+    {
+      "en": "[se storage=se545.wav]Khh...[se storage=se544.wav]are you saying that even the stars are also shaking violently from this Armageddon that appeared out of nowhere!!!???",
+      "jp": "ã[se storage=se545.wav]ãã£â¦â¦ãã®ã[se storage=se544.wav]ãµã£ã¦ãããã¢ã¼ãã²ãã³ã«æãæ¿åãã¦ããã¨ããã®ãããããï¼ï¼ï¼ï¼ï¼",
+      "Pt-br": "[se storage=se545.wav]Argh...[se storage=se544.wav]quer dizer que até as estrelas estremecem diante deste Armagedom surgido do nada!!!???",
+      "id": 21249,
+      "epk_id": "17970",
+      "label": "$$$message_0135_0010_0003$$$"
+    },
+    {
+      "en": "\"C-Could it be that you're...[wvl][se storage=se023.wav] Shinji [wvl canskip=0 time=500][se storage=se023.wav]Matou...!!!???[lr]",
+      "jp": "ãã¾ãã¾ãããªãã¨ã¯[line len=3][wvl][se storage=se023.wav]éæ¡ã[wvl canskip=0 time=500][se storage=se023.wav]æ\näºâ¦â¦ï¼ï¼ï¼ï¼[lr]",
+      "Pt-br": "\"S-será que você é...[wvl][se storage=se023.wav] Matou [wvl canskip=0 time=500][se storage=se023.wav]Shinji...!!!???[lr]",
+      "id": 21250,
+      "epk_id": "17971",
+      "label": "$$$message_0135_0011_0000$$$"
+    },
+    {
+      "en": "No way, you should be dead!\"[lr]",
+      "jp": "ããã«ãªããªãã¨ã¯ç¢ºãã«æ­»ãã ç­ã ï¼ã[lr]",
+      "Pt-br": "Não pode ser! Você deveria estar morto!\"[lr]",
+      "id": 21251,
+      "epk_id": "17972",
+      "label": "$$$message_0135_0011_0001$$$"
+    },
+    {
+      "en": "\"I'm not dead![lr]",
+      "jp": "ãæ­»ãã§ãªãã®ã­ã¼ï¼[lr]",
+      "Pt-br": "\"Eu não estou morto![lr]",
+      "id": 21252,
+      "epk_id": "17973",
+      "label": "$$$message_0135_0011_0002$$$"
+    },
+    {
+      "en": "[se storage=se023.wav]Well, character-wise, I'm mostly dead, [wvl][se storage=se545.wav]but that's why I revived from hell, Champion Emiya! ",
+      "jp": "ã[se storage=se023.wav]ãããã­ã£ã©çã«ã¯ã»ã¨ãã©æ­»ãã§ãã¾ãããã[wvl][se storage=se545.wav]ã ããããå°çããèã£ãã®ã åè\nã¨ãã¤ãï¼",
+      "Pt-br": "[se storage=se023.wav]Bem, como personagem eu estou praticamente morto, [wvl][se storage=se545.wav]mas foi justamente por isso que ressuscitei do inferno, Campeão Emiya!",
+      "id": 21253,
+      "epk_id": "17974",
+      "label": "$$$message_0135_0011_0003$$$"
+    },
+    {
+      "en": "Koohoohoo, the rage of those who were oppressed revived me. Mm, I want you to see the power boiling within me.\"",
+      "jp": "ãã¯ã¯ã¯ããããããããè\nã©ãã®æããåãèãããã®ã ããã¼ãè¦ã¦ã»ããã®ã­ãã®[ruby text=ãã]æ»¾ããã¤ãã¯ã¼ã",
+      "Pt-br": "Kuhuhuhu... A fúria dos oprimidos me trouxe de volta. Sim, quero que contemple o poder que ferve dentro de mim.\"",
+      "id": 21254,
+      "epk_id": "17975",
+      "label": "$$$message_0135_0011_0004$$$"
+    },
+    {
+      "en": "A swirl of magical energy appears that reminds me of Saber.[lr]",
+      "jp": "ãã»ã¤ãã¼ãé£æ³ãããé­åã®æ¸¦ã[lr]",
+      "Pt-br": "Um turbilhão de energia mágica se ergue, fazendo-me lembrar de Saber.[lr]",
+      "id": 21255,
+      "epk_id": "17976",
+      "label": "$$$message_0135_0012_0000$$$"
+    },
+    {
+      "en": "J-Just how much power does he have...!!!???",
+      "jp": "ããããã£ããã©ãã»ã©ã®ãã¯ã¼ã¢ãããâ¦â¦ï¼ï¼ï¼ï¼",
+      "Pt-br": "Q-quanto poder ele possui...!!!???",
+      "id": 21256,
+      "epk_id": "17977",
+      "label": "$$$message_0135_0012_0001$$$"
+    },
+    {
+      "en": "\"Wait, [wvl canskip=0 time=500][se storage=se564.wav][shock vmax=20 time=400 count=5]you haven't changed one bit!\"[lr]",
+      "jp": "ãã£ã¦ã[wvl canskip=0 time=500][se storage=se564.wav][shock vmax=20 time=400 count=5]ããããå¤ãã£ã¦ã­ã¼ï¼ã[lr]",
+      "Pt-br": "\"Espera, [wvl canskip=0 time=500][se storage=se564.wav][shock vmax=20 time=400 count=5]você não mudou absolutamente nada!\"[lr]",
+      "id": 21257,
+      "epk_id": "17978",
+      "label": "$$$message_0135_0013_0000$$$"
+    },
+    {
+      "en": "\"Heheheh, I understand how you feel, but I don't want you to be surprised.[lr]",
+      "jp": "ããµãµãµãæ°æã¡ã¯ããããã©ããé©ããªãã§ã»ããã­ã[lr]",
+      "Pt-br": "\"Heheheh, eu entendo o seu espanto, mas não precisa ficar tão surpreso.[lr]",
+      "id": 21258,
+      "epk_id": "17979",
+      "label": "$$$message_0135_0013_0001$$$"
+    },
+    {
+      "en": "Yes, [wvl][se storage=se023.wav]the me until now was not me![lr]",
+      "jp": "ãããã[wvl][se storage=se023.wav]ä»ã¾ã§ã®åã¯åããããªãï¼[lr]",
+      "Pt-br": "Isso mesmo: [wvl][se storage=se023.wav]o eu de até agora não era eu![lr]",
+      "id": 21259,
+      "epk_id": "17980",
+      "label": "$$$message_0135_0013_0002$$$"
+    },
+    {
+      "en": "Umm, if you were to say that the me until now was a seedless watermelon, the me from now is a seedless melon![lr]",
+      "jp": "ããã¼ã¨ãè¨ããªãã°ããã¾ã§ã®åãã¿ããªãã®ã¹ã¤ã«ã ã¨ããããä»ããã®åã¯ã¿ããªãã®ã¡ã­ã³ï¼[lr]",
+      "Pt-br": "Digamos que, se o eu de antes era uma melancia sem sementes, o eu de agora é um melão sem sementes![lr]",
+      "id": 21260,
+      "epk_id": "17981",
+      "label": "$$$message_0135_0013_0003$$$"
+    },
+    {
+      "en": "No, if I was a caterpillar that was waiting to grow wings back then, now I'm a cocoon after it's shed its skin!\"",
+      "jp": "ããããç¾½åãå¾\nã¤èè«ã ã¨ããããè±ç®ããå¾ã®ãµãã®ãªã®ãï¼ã",
+      "Pt-br": "Não, se antes eu era uma lagarta à espera de criar asas, agora sou o casulo depois de trocar de pele!\"",
+      "id": 21261,
+      "epk_id": "17982",
+      "label": "$$$message_0135_0013_0004$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "ãâ¦â¦â¦â¦â¦â¦â¦â¦ã[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 21262,
+      "epk_id": "17983",
+      "label": "$$$message_0135_0014_0000$$$"
+    },
+    {
+      "en": "So is he basically empty inside?[lr]",
+      "jp": "ãã¤ã¾ãç©ºã£ã½ã¨ããã³ãã ãããã[lr]",
+      "Pt-br": "Então ele continua vazio por dentro?[lr]",
+      "id": 21263,
+      "epk_id": "17984",
+      "label": "$$$message_0135_0014_0001$$$"
+    },
+    {
+      "en": "Also, I want him to at least listen to my reactions.",
+      "jp": "ããã¨äººã®[ruby text=ããã³ã char=2]åå¿ãããã¡ããã¨èãã¨ãã¦ã»ããã",
+      "Pt-br": "E queria que ao menos escutasse as minhas reações.",
+      "id": 21264,
+      "epk_id": "17985",
+      "label": "$$$message_0135_0014_0002$$$"
+    },
+    {
+      "en": "\"Whatever.[lr]",
+      "jp": "ãã¾ããããã[lr]",
+      "Pt-br": "\"Tanto faz.[lr]",
+      "id": 21265,
+      "epk_id": "17986",
+      "label": "$$$message_0135_0015_0000$$$"
+    },
+    {
+      "en": "Anyway, we're warriors chosen by the cards, right!? We're fated rivals, right!?[wvl][se storage=se023.wav] I'm going to fight for everyone, while you're going to fight to destroy the world, right!?\"",
+      "jp": "ãã¨ãããä¿ºãã¡ã¯ã«ã¼ãã«é¸ã°ããæ¦å£«ãªãã ãªï¼ï¼ããªããå®¿å½ã®ã©ã¤ãã«ãªãã ãªï¼ï¼[wvl][se storage=se023.wav]ãä¿ºã¯ã¿ããªã®çºã«ããªãã¨ã¯ä¸çãæ»\nã¼ãçºã«æ¦ããã ãªï¼ï¼ã",
+      "Pt-br": "De qualquer modo, somos guerreiros escolhidos pelas cartas, não somos!? Rivais unidos pelo destino, certo!?[wvl][se storage=se023.wav] Eu luto por todos, e você luta para destruir o mundo, não é!?\"",
+      "id": 21266,
+      "epk_id": "17987",
+      "label": "$$$message_0135_0015_0001$$$"
+    },
+    {
+      "en": "\"Nice reaction! You get it, Emiya! You must like this kind of stuff, don't you!?\"[lr]",
+      "jp": "ããã¤ã¹ãªã¢ã¯ã·ã§ã³ï¼ãè©±ãåããããããã¨ãã¤ï¼ããã¦ã¯ããããããªå¥½ãã ããªãã¨ï¼ã[lr]",
+      "Pt-br": "\"Bela reação! Você entendeu, Emiya! Também adora esse tipo de coisa, não é!?\"[lr]",
+      "id": 21267,
+      "epk_id": "17988",
+      "label": "$$$message_0135_0016_0000$$$"
+    },
+    {
+      "en": "\"Yeah! This is getting pretty insane, but I love winning, losing, crying, showing off, and getting canceled after ten [wvl][se storage=se545.wav]episodes![lr]",
+      "jp": "ãããï¼ãçµæ§ã¤ã±ã ãã©åã£ããè² ãããæ³£ãããè¦æ ã¯ã£ãã[wvl][se storage=se545.wav]åé±æã¡åãã¨ãå¤§å¥½ãã ï¼[lr]",
+      "Pt-br": "\"Claro! Isto já virou uma loucura, mas eu adoro vencer, perder, chorar, fazer pose e ser cancelado depois de dez [wvl][se storage=se545.wav]episódios![lr]",
+      "id": 21268,
+      "epk_id": "17989",
+      "label": "$$$message_0135_0016_0001$$$"
+    },
+    {
+      "en": "So, let's go, Shinji...![lr]",
+      "jp": "ããããªã¯ã±ã§ãè¡ããæ\näºâ¦â¦ï¼[lr]",
+      "Pt-br": "Então venha, Shinji...![lr]",
+      "id": 21269,
+      "epk_id": "17990",
+      "label": "$$$message_0135_0016_0002$$$"
+    },
+    {
+      "en": "I WILL NEVER FORGIVE YOU!!!!!\"",
+      "jp": "ããªãã¨ã ãã¯çµ¶å¯¾ã«è¨±ããªãããããï¼ã",
+      "Pt-br": "EU JAMAIS VOU PERDOAR VOCÊ!!!!!!\"",
+      "id": 21270,
+      "epk_id": "17991",
+      "label": "$$$message_0135_0016_0003$$$"
+    },
+    {
+      "en": "\"Khh...you sure can howl, protagonist.[lr]",
+      "jp": "ãã¯[line len=3]å ããããããä¸»äººå\n¬ã[lr]",
+      "Pt-br": "\"Khh... Você sabe mesmo ladrar, protagonista.[lr]",
+      "id": 21271,
+      "epk_id": "17992",
+      "label": "$$$message_0135_0017_0000$$$"
+    },
+    {
+      "en": "But today, I'm stronger than you. You should realize your rival's awakened powers...![lr]",
+      "jp": "ãã ãä»æ¥ã¯åã®æ¹ãå¼·ããè¦éããã©ã¤ãã«ã®åãæãç¥ããããâ¦â¦ï¼[lr]",
+      "Pt-br": "Mas hoje eu sou mais forte. Contemple os poderes que despertaram em seu rival...![lr]",
+      "id": 21272,
+      "epk_id": "17993",
+      "label": "$$$message_0135_0017_0001$$$"
+    },
+    {
+      "en": "Here I go, Emiya![lr]",
+      "jp": "ãè¡ããã¨ãã¤ï¼[lr]",
+      "Pt-br": "Aqui vou eu, Emiya![lr]",
+      "id": 21273,
+      "epk_id": "17994",
+      "label": "$$$message_0135_0017_0002$$$"
+    },
+    {
+      "en": "I'll place this card face down, and end my turn...!!!\"[wvs][se storage=se023.wav]",
+      "jp": "ããã®è±æ­ãä¼ãã¦ãªã¬ã®[ruby text=ã¿ã¼ã³ char=2]äººçã¨ã³ãã ãâ¦â¦ãããï¼ã[wvs][se storage=se023.wav]",
+      "Pt-br": "Coloco esta carta virada para baixo e encerro meu turno...!!!\"[wvs][se storage=se023.wav]",
+      "id": 21274,
+      "epk_id": "17995",
+      "label": "$$$message_0135_0017_0003$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "ãâ¦â¦â¦â¦â¦â¦â¦â¦ã[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 21275,
+      "epk_id": "17996",
+      "label": "$$$message_0135_0019_0000$$$"
+    },
+    {
+      "en": "\"...\"[lr]",
+      "jp": "ãâ¦â¦â¦â¦â¦â¦â¦â¦ã[lr]",
+      "Pt-br": "\"...\"[lr]",
+      "id": 21276,
+      "epk_id": "17997",
+      "label": "$$$message_0135_0019_0001$$$"
+    },
+    {
+      "en": "The storm passes.[lr]",
+      "jp": "ãåµã¯å»ã£ãã[lr]",
+      "Pt-br": "A tempestade passa.[lr]",
+      "id": 21277,
+      "epk_id": "17998",
+      "label": "$$$message_0135_0019_0002$$$"
+    },
+    {
+      "en": "The weird hot air [se volume=70 storage=se545.wav]that was swirling disappears, and we become awfully calm.[sestop storage=se544.wav time=3000 nowait=true]",
+      "jp": "ãå\nã»ã©ã¾ã§æ¸¦å·»ãã¦ãã[se volume=70 storage=se545.wav]ããåãããªãç±æ°ãæ¶ããã¤ã¤ã«ãªãã»ã©å·éã«ãªãä¿ºãã¡ã[sestop storage=se544.wav time=3000 nowait=true]",
+      "Pt-br": "O estranho ar quente [se volume=70 storage=se545.wav]que rodopiava ao nosso redor desaparece, e de repente nos acalmamos por completo.[sestop storage=se544.wav time=3000 nowait=true]",
+      "id": 21278,
+      "epk_id": "17999",
+      "label": "$$$message_0135_0019_0003$$$"
+    },
+    {
+      "en": "\"Well, I'm going back to my usual spot.\"[lr]",
+      "jp": "ãããããã¤ãã®å ´æã«æ»ãã¾ãã­ã[lr]",
+      "Pt-br": "\"Bem, vou voltar ao meu lugar de sempre.\"[lr]",
+      "id": 21279,
+      "epk_id": "18000",
+      "label": "$$$message_0135_0020_0000$$$"
+    },
+    {
+      "en": "I just nod in response.[lr]",
+      "jp": "ããããã¨é ·ãã ãã§ç­ããã[lr]",
+      "Pt-br": "Limito-me a assentir.[lr]",
+      "id": 21280,
+      "epk_id": "18001",
+      "label": "$$$message_0135_0020_0001$$$"
+    },
+    {
+      "en": "There are times when you shouldn't say anything to men.",
+      "jp": "ãç·ã«ã¯è¨èãããã¦ã¯ãããªãæãããã®ã ã",
+      "Pt-br": "Há momentos em que um homem não deve dizer nada a outro.",
+      "id": 21281,
+      "epk_id": "18002",
+      "label": "$$$message_0135_0020_0002$$$"
+    },
+    {
+      "en": "\"I'll give this to you then. Please feel free to play from the Special menu when you feel like it.\"[lr]",
+      "jp": "ããããããããã¾ããæ°ãåãããã¹ãã·ã£ã«ããéãã§ä¸ããã­ã[lr]",
+      "Pt-br": "\"Então, fique com isto. Quando der vontade, é só jogar pelo menu Especial.\"[lr]",
+      "id": 21282,
+      "epk_id": "18003",
+      "label": "$$$message_0135_0021_0000$$$"
+    },
+    {
+      "en": "Shinji cheerfully goes to the side of the port.[lr]",
+      "jp": "ãããããã¨æ¸¯ã®ã¯ãã£ãã«ç§»åããæ\näºã[lr]",
+      "Pt-br": "Todo contente, Shinji volta para o canto do porto.[lr]",
+      "id": 21283,
+      "epk_id": "18004",
+      "label": "$$$message_0135_0021_0001$$$"
+    },
+    {
+      "en": "Oh, he put a cardboard box over his head.",
+      "jp": "ããããã³ãã¼ã«ãã¶ã£ãã",
+      "Pt-br": "Ah. Ele enfiou uma caixa de papelão na cabeça.",
+      "id": 21284,
+      "epk_id": "18005",
+      "label": "$$$message_0135_0021_0002$$$"
+    },
+    {
+      "en": "\"...[se volume=60 storage=se544.wav]...[say storage=cty0431_shi_0140 name=士郎]I guess I should head home, too.\"[lr]",
+      "jp": "ãâ¦â¦â¦â¦â¦â¦â¦[se volume=60 storage=se544.wav]â¦[say storage=cty0431_shi_0140 name=å£«é]ä¿ºãå®¶ã«å¸°ããã[lr]",
+      "Pt-br": "\"...[se volume=60 storage=se544.wav]...[say storage=cty0431_shi_0140 name=士郎]Acho que eu também devia voltar para casa.\"[lr]",
+      "id": 21285,
+      "epk_id": "18006",
+      "label": "$$$message_0135_0022_0000$$$"
+    },
+    {
+      "en": "I erase the last thirty minutes from my memory and leave the port.",
+      "jp": "ãããä¸ååã°ããã®è¨æ¶ãã¾ã£ããã«æ¶å»ãã¦æ¸¯ãå¾ã«ããã",
+      "Pt-br": "Apago os últimos trinta minutos da memória e deixo o porto.",
+      "id": 21286,
+      "epk_id": "18007",
+      "label": "$$$message_0135_0022_0001$$$"
+    },
+    {
+      "en": "As such, I was able to save the earth from destruction by Shinji-Oh, but his biggest performance and the story of the hero that prevented his plan would be forgotten, never to be spoken of again. The end.",
+      "jp": "ããããã¦æ\näºï¼¯ï¼¨ã«ããå°çå£æ»\nã®ãã³ãã¯å»ã£ãã®ã ããå½¼ã®æå¤§ã®è¦ãå ´ã¨ããããé²ãã åè\nã®ç©èªã¯èª°ã«èªãããã³ãããªãå¿ããããã®ã§ãã£ããã¾ãã",
+      "Pt-br": "E foi assim que salvei a Terra da destruição pelas mãos de Shinji-Oh. Contudo, tanto sua grande atuação quanto a história do herói que frustrou seus planos seriam esquecidas, para jamais voltarem a ser contadas. Fim.",
+      "id": 21287,
+      "epk_id": "18008",
+      "label": "$$$message_0135_0023_0000$$$"
+    },
+    {
+      "en": "\"Here I go, Emiya! I'll place this card face down, and end my turn...!!!\"[r]\n!\u0011\u0018",
+      "jp": "ãè¡ããã¨ãã¤ï¼ããã®[r]è±æ­ãä¼ãã¦ãªã¬ã®äººç[r]ã¨ã³ãã ãâ¦â¦ãããï¼ã«F",
+      "Pt-br": "\"Aqui vou eu, Emiya! Coloco esta carta virada para baixo e encerro meu turno...!!!\"[r]",
+      "id": 21288,
+      "epk_id": "917994",
+      "label": "$$$message_9135_0017_0002$$$"
+    }
+  ]
+}

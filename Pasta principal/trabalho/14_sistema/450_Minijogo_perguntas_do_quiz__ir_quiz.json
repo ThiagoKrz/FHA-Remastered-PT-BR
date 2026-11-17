@@ -1,0 +1,856 @@
+{
+  "cena": "ir_quiz",
+  "titulo": "Minijogo: perguntas do quiz",
+  "rota": "Sistema",
+  "arquivo": "ir_quiz.epk_dec",
+  "linhas": [
+    {
+      "en": "O bordão do Shirou Emiya é \"umbasa\".",
+      "jp": "è¡å®®å£«éã®å£ããã¯ãããã°ããã§ãã",
+      "Pt-br": "O bordão do Emiya Shirou é \"umbasa\".",
+      "id": 46235,
+      "epk_id": "1001",
+      "label": "ir_quiz_001"
+    },
+    {
+      "en": "O bordão da Rin Tohsaka é \"a gordura é a maior inimiga\".",
+      "jp": "é ååã®å£ããã¯ãå¿ã®é¯¨èãã§ãã",
+      "Pt-br": "O bordão da Tohsaka Rin é \"a gordura é a maior inimiga\".",
+      "id": 46236,
+      "epk_id": "1002",
+      "label": "ir_quiz_002"
+    },
+    {
+      "en": "A água atinge seu volume mínimo a zero graus Celsius.",
+      "jp": "æ°´ã®ä½ç©ãæå°ã«ãªãã®ã¯ææ°é¶åº¦ã§ãã",
+      "Pt-br": "A água atinge seu volume mínimo a zero graus Celsius.",
+      "id": 46237,
+      "epk_id": "1003",
+      "label": "ir_quiz_003"
+    },
+    {
+      "en": "O Projeto Genoma Humano usa o DNA de uma pessoa específica.",
+      "jp": "ããã²ãã è¨ç»ã¯ç¹å®ä¸åäººã®ï¼¤ï¼®ï¼¡ãä½¿ç¨ãã¦ãã",
+      "Pt-br": "O Projeto Genoma Humano usa o DNA de uma pessoa específica.",
+      "id": 46238,
+      "epk_id": "1004",
+      "label": "ir_quiz_004"
+    },
+    {
+      "en": "A cardamina, na linguagem das flores, significa \"erro do pai\".",
+      "jp": "ã¿ããã±ããã®è±è¨èã¯ãç¶ã®å¤±ç­ãã§ãã",
+      "Pt-br": "A cardamina, na linguagem das flores, significa \"erro do pai\".",
+      "id": 46239,
+      "epk_id": "1005",
+      "label": "ir_quiz_005"
+    },
+    {
+      "en": "As palavras em espanhol para \"vaca\" (\"vaca\") e \"alho\" (\"ajo\") soam parecidas com as palavras em japonês para \"estúpido\" (\"baka\") e \"idiota\" (\"aho\").",
+      "jp": "ã¹ãã¤ã³èªã§çã®ãã¨ãããã«ãããã³ãã¯ããã¢ãã\tã¨ãã",
+      "Pt-br": "As palavras em espanhol para \"vaca\" (\"vaca\") e \"alho\" (\"ajo\") soam parecidas com as palavras em japonês para \"estúpido\" (\"baka\") e \"idiota\" (\"aho\").",
+      "id": 46240,
+      "epk_id": "1006",
+      "label": "ir_quiz_006"
+    },
+    {
+      "en": "Batman, Ilha do Mago e Peido (Fart) são todos nomes de lugares reais.",
+      "jp": "ãã¹ã±ããã³ã²ã³ããã¨ã­ãã³ã¬å³¶ããããã\tãããã¯å®éã«ããå°åã§ãã",
+      "Pt-br": "Batman, Ilha do Mago e Peido (Fart) são todos nomes de lugares reais.",
+      "id": 46241,
+      "epk_id": "1007",
+      "label": "ir_quiz_007"
+    },
+    {
+      "en": "A palavra persa para \"melancia\" (\"hindawane\") soa parecida com a frase em japonês \"hendawane\" (\"Isso é estranho!\").",
+      "jp": "ãã«ã·ã£èªã§ã¹ã¤ã«ã®ãã¨ãããã³ãã¯ããã¨ãã",
+      "Pt-br": "A palavra persa para \"melancia\" (\"hindawane\") soa parecida com a frase em japonês \"hendawane\" (\"Isso é estranho!\").",
+      "id": 46242,
+      "epk_id": "1008",
+      "label": "ir_quiz_008"
+    },
+    {
+      "en": "De acordo com o Instituto de Saúde Pública, aumentar os impostos sobre o preço dos cigarros em 100 ienes gerará aproximadamente 4.000.000.000.000 de ienes em receita tributária.",
+      "jp": "å½ç«å\n¬è¡è¡çé¢ã«ããã¨ã¿ãã³ãï¼ï¼ï¼åå¤ä¸ãããã¨\tç´ï¼åååã®ç¨åå¢å ãæå¾\nã§ããã¨ããè©¦ç®çµæãåºã",
+      "Pt-br": "De acordo com o Instituto de Saúde Pública, aumentar os impostos sobre o preço dos cigarros em 100 ienes gerará aproximadamente 4.000.000.000.000 de ienes em receita tributária.",
+      "id": 46243,
+      "epk_id": "1009",
+      "label": "ir_quiz_009"
+    },
+    {
+      "en": "Na natureza, os guaxinins não lavam a sua comida.",
+      "jp": "éçã®ã¢ã©ã¤ã°ãã¯é£ã¹ç©ãæ´ããªã",
+      "Pt-br": "Na natureza, os guaxinins não lavam a sua comida.",
+      "id": 46244,
+      "epk_id": "1010",
+      "label": "ir_quiz_010"
+    },
+    {
+      "en": "Existem 30 Estampas de Tigre no total para coletar em Fate/stay night.",
+      "jp": "Fateæ¬ç·¨ã§è²°ããã¿ã¤ã¬ã¼ã¹ã¿ã³ãã¯å\n¨é¨ã§ï¼ï¼åãã",
+      "Pt-br": "Existem 30 Selos do Tigre no total para coletar em Fate/stay night.",
+      "id": 46245,
+      "epk_id": "1011",
+      "label": "ir_quiz_011"
+    },
+    {
+      "en": "Copenhague, onde Shirou trabalha meio período, recebe o nome da capital da Dinamarca.",
+      "jp": "å£«éã®ãã¤ãå\nã®åºåã«ããªã£ã¦ãããã³ãã³ãã¼ã²ã³ãã¯\tãã³ãã¼ã¯ã®é¦é½ã§ãã",
+      "Pt-br": "Copenhague, onde Shirou trabalha meio período, recebe o nome da capital da Dinamarca.",
+      "id": 46246,
+      "epk_id": "1012",
+      "label": "ir_quiz_012"
+    },
+    {
+      "en": "Um dublador de verdade grava os rugidos do Berserker.",
+      "jp": "ãã¼ãµã¼ã«ã¼ã®åå®é¨åãå®ã¯å£°åªãããä½¿ã£ã¦ãã",
+      "Pt-br": "Um dublador de verdade grava os rugidos do Berserker.",
+      "id": 46247,
+      "epk_id": "1013",
+      "label": "ir_quiz_013"
+    },
+    {
+      "en": "O Shinji já confessou seus sentimentos para a Rin no passado.",
+      "jp": "æ\näºã¯ä»¥åãåã«åç½ãããã¨ããã",
+      "Pt-br": "O Shinji já confessou seus sentimentos para a Rin no passado.",
+      "id": 46248,
+      "epk_id": "1016",
+      "label": "ir_quiz_016"
+    },
+    {
+      "en": "No confronto climático da rota da Saber, a Saber corta a perna esquerda do Gil.",
+      "jp": "ã»ã¤ãã¼ã«ã¼ã\tæçµæ±ºæ¦ã§ã»ã¤ãã¼ãã®ã«ãè¹´ãé£ã°ããè¶³ã¯å·¦è¶³ã§ãã",
+      "Pt-br": "No confronto climático da rota da Saber, a Saber corta a perna esquerda do Gil.",
+      "id": 46249,
+      "epk_id": "1017",
+      "label": "ir_quiz_017"
+    },
+    {
+      "en": "A origem do Santo Graal é o Caldeirão Mágico.",
+      "jp": "èæ¯ã®èµ·æºã¯ãé­æ³ã®å¤§éãã§ãã",
+      "Pt-br": "A origem do Santo Graal é o Caldeirão Mágico.",
+      "id": 46250,
+      "epk_id": "1018",
+      "label": "ir_quiz_018"
+    },
+    {
+      "en": "O nome do Fantasma Nobre do Gilgamesh é Lord of Babylon.",
+      "jp": "ã®ã«ã¬ã¡ãã·ã¥ã®å®å\n·åã¯ãã­ã¼ãã»ãªãã»ããã­ã³ã\tã§ãã",
+      "Pt-br": "O nome do Fantasma Nobre do Gilgamesh é Lord of Babylon.",
+      "id": 46251,
+      "epk_id": "1019",
+      "label": "ir_quiz_019"
+    },
+    {
+      "en": "Como regra geral, a Guerra do Santo Graal se repete a cada dez anos.",
+      "jp": "ååã¨ãã¦ãèæ¯æ¦äºã¯åå¹´åä½ã§ç¹°ãè¿ããã",
+      "Pt-br": "Como regra geral, a Guerra do Santo Graal se repete a cada dez anos.",
+      "id": 46252,
+      "epk_id": "1020",
+      "label": "ir_quiz_020"
+    },
+    {
+      "en": "A Rin é especialista em cozinhar comida chinesa.",
+      "jp": "åãå¾æãªã®ã¯ä¸­è¯æçã§ãã",
+      "Pt-br": "A Rin é especialista em cozinhar comida chinesa.",
+      "id": 46253,
+      "epk_id": "1021",
+      "label": "ir_quiz_021"
+    },
+    {
+      "en": "Heaven's Feel é o nome da Segunda Magia.",
+      "jp": "ããã³ãºãã£ã¼ã«ã¨ã¯ç¬¬äºé­æ³ã®ååã§ãã",
+      "Pt-br": "Heaven's Feel é o nome da Segunda Magia.",
+      "id": 46254,
+      "epk_id": "1022",
+      "label": "ir_quiz_022"
+    },
+    {
+      "en": "Não há justiça neste conflito.",
+      "jp": "ãã®æ¦ãã«æ­£ç¾©ã¯ãªã",
+      "Pt-br": "Não há justiça neste conflito.",
+      "id": 46255,
+      "epk_id": "1023",
+      "label": "ir_quiz_023"
+    },
+    {
+      "en": "A propósito, o que você vai fazer hoje à noite?",
+      "jp": "ã¨ããã§ãä»å¤ã­ãã¯ä½ãã¦ãï¼",
+      "Pt-br": "A propósito, o que você vai fazer hoje à noite?",
+      "id": 46256,
+      "epk_id": "1024",
+      "label": "ir_quiz_024"
+    },
+    {
+      "en": "O Archer nunca atira uma flecha em Fate/stay night, apesar do seu nome.",
+      "jp": "ã¢ã¼ãã£ã¼ã¨ããã¤ã¤ãæ¬ç·¨ä¸­ä¸åãå¼ãæããªã",
+      "Pt-br": "O Archer nunca atira uma flecha em Fate/stay night, apesar do seu nome.",
+      "id": 46257,
+      "epk_id": "1025",
+      "label": "ir_quiz_025"
+    },
+    {
+      "en": "Existe uma fonte termal no Castelo Einzbern.",
+      "jp": "ã¢ã¤ã³ããã«ã³ã®åã«ã¯æ¸©æ³ããã",
+      "Pt-br": "Existe uma fonte termal no Castelo Einzbern.",
+      "id": 46258,
+      "epk_id": "1026",
+      "label": "ir_quiz_026"
+    },
+    {
+      "en": "É natural que existam segredos entre casais casados. (Segundo a Caster)",
+      "jp": "å¤«å©¦ã®éã«ãé ãäºã¯ãã£ã¦å½ç¶(ã­ã£ã¹ã¿ã¼è«)",
+      "Pt-br": "É natural que existam segredos entre casais casados. (Segundo a Caster)",
+      "id": 46259,
+      "epk_id": "1027",
+      "label": "ir_quiz_027"
+    },
+    {
+      "en": "O Gilgamesh é arrogante.",
+      "jp": "ãæãã¯ããªã¬ãã¨èª­ã",
+      "Pt-br": "O Gilgamesh é arrogante.",
+      "id": 46260,
+      "epk_id": "1028",
+      "label": "ir_quiz_028"
+    },
+    {
+      "en": "Acho que esse pessoal deve estar comendo demais.",
+      "jp": "ã¨ã«ããããã¤ãã¯é£ãéãã§ã¯ãªããã¨",
+      "Pt-br": "Acho que esse pessoal deve estar comendo demais.",
+      "id": 46261,
+      "epk_id": "1029",
+      "label": "ir_quiz_029"
+    },
+    {
+      "en": "Nós ouvimos a voz da Illya depois que seu coração foi arrancado.",
+      "jp": "å¿èãæãããã¤ãªã¤ã«å£°ãå\n¥ã£ã¦ããäºããã£ã",
+      "Pt-br": "Nós ouvimos a voz da Illya depois que seu coração foi arrancado.",
+      "id": 46262,
+      "epk_id": "1030",
+      "label": "ir_quiz_030"
+    },
+    {
+      "en": "Uma rota da Rin Tohsaka na qual você se alia ao Shinji e vence a guerra tinha mais chances de ser incluída do que a rota da Illya.",
+      "jp": "æ\näºã¨å\n±éãæåé ååã«ã¼ãã®å®è£\nã¯ãã¤ãªã¤ã«ã¼ã\tããããã®å¯è½æ§ãé«ãã£ã",
+      "Pt-br": "Uma rota da Tohsaka Rin na qual você se alia ao Shinji e vence a guerra tinha mais chances de ser incluída do que a rota da Illya.",
+      "id": 46263,
+      "epk_id": "1031",
+      "label": "ir_quiz_031"
+    },
+    {
+      "en": "Nossa Saber já foi conhecida como \"mini espadachim\" devido à sua altura extremamente baixa em uma versão inicial, mas nós hesitamos quando ela foi colocada ao lado dos outros Servos.",
+      "jp": "æããã»ã¤ãã¼ãå½åãã®ãã¾ãã«æ¥µç«¯ãªèã®ä½ããã\tã¡ã³ã£ãå£å£«ã¨ã®ç°åããåããä»ã®ãµã¼ã´ã¡ã³ãã®ç«çµµã¨\tä¸¦ã¹ã¦åºãã®ãèºèºããã",
+      "Pt-br": "Nossa Saber já foi conhecida como \"mini espadachim\" devido à sua altura extremamente baixa em uma versão inicial, mas nós hesitamos quando ela foi colocada ao lado dos outros Servos.",
+      "id": 46264,
+      "epk_id": "1032",
+      "label": "ir_quiz_032"
+    },
+    {
+      "en": "Kinoko gosta da Sakura.",
+      "jp": "ãã®ãã¯ãããããã",
+      "Pt-br": "Kinoko gosta da Sakura.",
+      "id": 46265,
+      "epk_id": "1033",
+      "label": "ir_quiz_033"
+    },
+    {
+      "en": "O fato das roupas do dia a dia da Sakura serem emprestadas da Fuji-nee pode ser válido apenas por um tempo limitado?",
+      "jp": "æ¡ã®æ®æ®µçã¯å®ã¯è¤ã­ãããã®åãç©ã ã£ãã­ã¨ããäºå®ã¯\tæå¹ã«ãªãããããããï¼",
+      "Pt-br": "O fato das roupas do dia a dia da Sakura serem emprestadas da Fuji-nee pode ser válido apenas por um tempo limitado?",
+      "id": 46266,
+      "epk_id": "1034",
+      "label": "ir_quiz_034"
+    },
+    {
+      "en": "Quando você está na equipe de desenvolvimento, você consegue ver muitos desenhos e revistas novas em primeira mão.",
+      "jp": "éçºå\né¨ã«å±\nã¦ãæ°ããçµµã¯éèªã§åãã¦è¦ãäºãå¤ã",
+      "Pt-br": "Quando você está na equipe de desenvolvimento, você consegue ver muitos desenhos e revistas novas em primeira mão.",
+      "id": 46267,
+      "epk_id": "1035",
+      "label": "ir_quiz_035"
+    },
+    {
+      "en": "Acho que o \"Emiya\" ganharia se ele realmente levasse a sério.",
+      "jp": "æ­£ç´ãã¨ãã¤ãããããã°åã¤ãã ãªã£ã¦æã",
+      "Pt-br": "Acho que o \"Emiya\" ganharia se ele realmente levasse a sério.",
+      "id": 46268,
+      "epk_id": "1036",
+      "label": "ir_quiz_036"
+    },
+    {
+      "en": "Espere, essa é uma armadilha de Zhuge Liang!",
+      "jp": "ã¾ã¦ãããã¯å­æã®ç½ ã ",
+      "Pt-br": "Espere, essa é uma armadilha de Zhuge Liang!",
+      "id": 46269,
+      "epk_id": "1037",
+      "label": "ir_quiz_037"
+    },
+    {
+      "en": "A Sakura perdeu para a Illya na primeira pesquisa de popularidade.",
+      "jp": "æ¡ã¯ç¬¬ä¸åäººæ°æç¥¨ã§ã¤ãªã¤ã«è² ãã",
+      "Pt-br": "A Sakura perdeu para a Illya na primeira pesquisa de popularidade.",
+      "id": 46270,
+      "epk_id": "1038",
+      "label": "ir_quiz_038"
+    },
+    {
+      "en": "O nome completo da Illya é Illyasviel von Einzbern.",
+      "jp": "ã¤ãªã¤ã®ãã«ãã¼ã ã¯\tãã¤ãªã¤ã¹ãã£ã¼ã«ã»ãã©ã³ã»ã¢ã¤ã³ããã«ã³ã",
+      "Pt-br": "O nome completo da Illya é Illyasviel von Einzbern.",
+      "id": 46271,
+      "epk_id": "1039",
+      "label": "ir_quiz_039"
+    },
+    {
+      "en": "A Rider não gosta de espelhos.",
+      "jp": "ã©ã¤ãã¼ã¯é¡ãè¦æ",
+      "Pt-br": "A Rider não gosta de espelhos.",
+      "id": 46272,
+      "epk_id": "1040",
+      "label": "ir_quiz_040"
+    },
+    {
+      "en": "A cor associada à Taiga Fujimura são as listras de tigre.",
+      "jp": "è¤æå¤§æ²³ã®ã¤ã¡ã¼ã¸ã«ã©ã¼ã¯èã§ãã",
+      "Pt-br": "A cor associada à Fujimura Taiga são as listras de tigre.",
+      "id": 46273,
+      "epk_id": "1041",
+      "label": "ir_quiz_041"
+    },
+    {
+      "en": "A Dark Saber fica de franja apenas durante a cena de liberação da Excalibur porque sua barra de MP está no máximo.",
+      "jp": "é»ã»ã¤ãã¼ã®ã¨ã¯ã¹ã«ãªãã¼çºåã·ã¼ã³ã®ã¿è§¦è¦ãçãã¦\tããã®ã¯ãé­åã²ã¼ã¸ãMAXç¶æ\nã ã¨ãããã¨ãç¾ãã¦ãã",
+      "Pt-br": "A Dark Saber fica de franja apenas durante a cena de liberação da Excalibur porque sua barra de MP está no máximo.",
+      "id": 46274,
+      "epk_id": "1042",
+      "label": "ir_quiz_042"
+    },
+    {
+      "en": "O mullet do Kirei Kotomine é removível.",
+      "jp": "è¨å³°ç¶ºç¤¼ã®å¾ãé«ªã®ã¢ã¸ã£ã¢ã¸ã£ã¯åãå¤ãå¯è½ã§ãã",
+      "Pt-br": "O mullet do Kotomine Kirei é removível.",
+      "id": 46275,
+      "epk_id": "1043",
+      "label": "ir_quiz_043"
+    },
+    {
+      "en": "A saia da roupa casual da Rin, o Diabo Vermelho, é feita de aço.",
+      "jp": "èµ¤ãæªé­ãåæ§ã®ç§æã®ã¹ã«ã¼ãã¯é¼éè£½ã§ãã",
+      "Pt-br": "A saia da roupa casual da Rin, o Diabo Vermelho, é feita de aço.",
+      "id": 46276,
+      "epk_id": "1044",
+      "label": "ir_quiz_044"
+    },
+    {
+      "en": "O Issei é o capitão do clube de tênis.",
+      "jp": "ä¸æã¯ããã¹é¨ã®ã­ã£ããã³ã§ããã",
+      "Pt-br": "O Issei é o capitão do clube de tênis.",
+      "id": 46277,
+      "epk_id": "1045",
+      "label": "ir_quiz_045"
+    },
+    {
+      "en": "Os primeiros rascunhos do Dojo da Tigresa eram um teatro de fantoches usando imagens coladas em palitos móveis.",
+      "jp": "åæã¿ã¤ã¬ã¼éå ´ã¯ãã­ã£ã©çµµã®ããã«ã«æ£ããã£ã¤ãã¦\tåããç´èå±\né¢¨ã ã£ã",
+      "Pt-br": "Os primeiros rascunhos do Dojô da Tigresa eram um teatro de fantoches usando imagens coladas em palitos móveis.",
+      "id": 46278,
+      "epk_id": "1046",
+      "label": "ir_quiz_046"
+    },
+    {
+      "en": "A amada Espada de Bambu do Tigre da Fuji-nee inicialmente tinha um padrão de listras de tigre.",
+      "jp": "è¤ã­ãæç¨ã®èç«¹åãåæã®ãã¶ã¤ã³ã¯èææ¨¡æ§ã ã£ã",
+      "Pt-br": "A amada Espada de Bambu do Tigre da Fuji-nee inicialmente tinha um padrão de listras de tigre.",
+      "id": 46279,
+      "epk_id": "1047",
+      "label": "ir_quiz_047"
+    },
+    {
+      "en": "Bonecos do Shirou (com cordões presos) estão à venda agora!",
+      "jp": "å£«éäººå½¢ï¼ç´ä»ãï¼å¥½è©çºå£²ä¸­",
+      "Pt-br": "Bonecos do Shirou (com cordões presos) estão à venda agora!",
+      "id": 46280,
+      "epk_id": "1048",
+      "label": "ir_quiz_048"
+    },
+    {
+      "en": "Durante as fases de planejamento de FSN, o nome do Shinji Matou era Reiji Matou.",
+      "jp": "éæ¡æ\näºã®ãFateãä¼ç»æ®µéã«ãããååã¯éæ¡ã¬ã¤ã¸\tã ã£ã",
+      "Pt-br": "Durante as fases de planejamento de FSN, o nome do Matou Shinji era Reiji Matou.",
+      "id": 46281,
+      "epk_id": "1049",
+      "label": "ir_quiz_049"
+    },
+    {
+      "en": "O Shinji Matou é realmente popular entre as garotas da escola.",
+      "jp": "éæ¡æ\näºãå­¦åã®å¥³çå¾éã«ã¢ãã¢ãã¨ããã®ã¯æ¬å½ã§ãã",
+      "Pt-br": "O Matou Shinji é realmente popular entre as garotas da escola.",
+      "id": 46282,
+      "epk_id": "1050",
+      "label": "ir_quiz_050"
+    },
+    {
+      "en": "A Sakura Matou é uma das heroínas principais de Fate.",
+      "jp": "éæ¡æ¡ã¯ãFateãã¡ã¤ã³ãã­ã¤ã³ã®ä¸äººã§ãã",
+      "Pt-br": "A Matou Sakura é uma das heroínas principais de Fate.",
+      "id": 46283,
+      "epk_id": "1051",
+      "label": "ir_quiz_051"
+    },
+    {
+      "en": "Fate/stay night consiste em 3 rotas para a Saber, a Rin Tohsaka e o Issei Ryudou.",
+      "jp": "ãFate/stay nightãã¯ã»ã¤ãã¼ã«ã¼ããé ååã«ã¼ãã\tæ³æ´ä¸æã«ã¼ãã®ï¼ç¯ã§æ§æããã¦ãã",
+      "Pt-br": "Fate/stay night consiste em 3 rotas para a Saber, a Tohsaka Rin e o Ryuudou Issei.",
+      "id": 46284,
+      "epk_id": "1052",
+      "label": "ir_quiz_052"
+    },
+    {
+      "en": "O ahoge da Saber é dividido em dois na base.",
+      "jp": "ã»ã¤ãã¼ã®ã¢ãæ¯ã¯æ ¹æ¬ããï¼æ¬ã«åããã¦ãã",
+      "Pt-br": "O ahoge da Saber é dividido em dois na base.",
+      "id": 46285,
+      "epk_id": "1053",
+      "label": "ir_quiz_053"
+    },
+    {
+      "en": "A manopla blindada da Saber tem cinco dedos apenas na mão esquerda.",
+      "jp": "ã»ã¤ãã¼ã®é§ã®æãï¼æ¬ã«åããã¦ããã®ã¯å·¦æã®ã¿ã§ãã",
+      "Pt-br": "A manopla blindada da Saber tem cinco dedos apenas na mão esquerda.",
+      "id": 46286,
+      "epk_id": "1054",
+      "label": "ir_quiz_054"
+    },
+    {
+      "en": "A franja da Illya é penteada para a direita.",
+      "jp": "ã¤ãªã¤ã®åé«ªã¯åãã£ã¦å³å´ã«åãç®ããã",
+      "Pt-br": "A franja da Illya é penteada para a direita.",
+      "id": 46287,
+      "epk_id": "1055",
+      "label": "ir_quiz_055"
+    },
+    {
+      "en": "Takashi Takeuchi, ilustrador principal, odeia empregadas (maids).",
+      "jp": "åç»æ\nå½ã»æ­¦å\nå´ã¯ã¡ã¤ããªã©å¤§å«ãã ",
+      "Pt-br": "Takashi Takeuchi, ilustrador principal, odeia empregadas (maids).",
+      "id": 46288,
+      "epk_id": "1056",
+      "label": "ir_quiz_056"
+    },
+    {
+      "en": "Kinoko Nasu, roteirista, é mulher.",
+      "jp": "ã·ããªãªæ\nå½ã»å¥é ãã®ãã®æ§å¥ã¯å¥³æ§ã§ãã",
+      "Pt-br": "Kinoko Nasu, roteirista, é mulher.",
+      "id": 46289,
+      "epk_id": "1057",
+      "label": "ir_quiz_057"
+    },
+    {
+      "en": "Você estará em apuros se for encurralado no meio do território inimigo.",
+      "jp": "æµã®ã©çä¸­ã§åãé¢ããã¦ãå°ã",
+      "Pt-br": "Você estará em apuros se for encurralado no meio do território inimigo.",
+      "id": 46290,
+      "epk_id": "1058",
+      "label": "ir_quiz_058"
+    },
+    {
+      "en": "Ele pode ser o Padre Kotomine, mas isso não significa que ele coma mapo tofu todos os dias.",
+      "jp": "ãããè¨å³°ç¥ç¶ã¨è¨ãã©ããæ¯æ¥éº»å©è±è\nã°ããé£ã¹ã¦\tããè¨³ã§ã¯ãªã",
+      "Pt-br": "Ele pode ser o Padre Kotomine, mas isso não significa que ele coma mapo tofu todos os dias.",
+      "id": 46291,
+      "epk_id": "1059",
+      "label": "ir_quiz_059"
+    },
+    {
+      "en": "Entre Sella e Leys, a Leys tem o busto maior.",
+      "jp": "ã»ã©ã¨ãªãºãè¸ãå¤§ããã®ã¯ãªãºã®æ¹ã ",
+      "Pt-br": "Entre Sella e Leys, a Leys tem o busto maior.",
+      "id": 46292,
+      "epk_id": "1060",
+      "label": "ir_quiz_060"
+    },
+    {
+      "en": "Só para você saber, este não é um segmento para jogar hate em Fate.",
+      "jp": "ããã¯å¥ã«ãããããªFateã¯å«ã ï¼ãã¨ããã³ã¼ãã¼ã§ã¯\tãªãã§ããå¿µã®ãã",
+      "Pt-br": "Só para você saber, este não é um segmento para jogar hate em Fate.",
+      "id": 46293,
+      "epk_id": "1061",
+      "label": "ir_quiz_061"
+    },
+    {
+      "en": "A Saber não é tão comilona quanto dizem. Ela é mais uma apreciadora de boa comida.",
+      "jp": "ã»ã¤ãã¼ã¯ã¿ããªãæã£ã¦ããã»ã©å¤§é£ãã§ã¯ãªã\tç¾é£å®¶ã«è¿ã",
+      "Pt-br": "A Saber não é tão comilona quanto dizem. Ela é mais uma apreciadora de boa comida.",
+      "id": 46294,
+      "epk_id": "1062",
+      "label": "ir_quiz_062"
+    },
+    {
+      "en": "Os olhos da Rider têm pupilas triangulares.",
+      "jp": "ã©ã¤ãã¼ã®ç®ã®ç³å­é¨åã¯ä¸è§ã«ãªã£ã¦ãã",
+      "Pt-br": "Os olhos da Rider têm pupilas triangulares.",
+      "id": 46295,
+      "epk_id": "1063",
+      "label": "ir_quiz_063"
+    },
+    {
+      "en": "Sempre que você olha para o Sr. Kuzuki por trás, sente que está prestes a receber uma entrega.",
+      "jp": "èæ¨å\nçã®èåºå§¿ãè¦ãåº¦ãéµä¾¿å±ã«æ¥ããããªæ°åã«ãªã",
+      "Pt-br": "Sempre que você olha para o Kuzuki-sensei por trás, sente que está prestes a receber uma entrega.",
+      "id": 46296,
+      "epk_id": "1064",
+      "label": "ir_quiz_064"
+    },
+    {
+      "en": "O encantamento para ativar a Espada de Joias Zelretch é \"Bruxinha Bonita Zelretch!\".",
+      "jp": "å®ç³å£ã¼ã«ã¬ãããçºåãããåªæã¯\tãããªãã£ã¼ã»ã¦ã£ããã¼ã»ã¼ã«ã¬ããã¼ï¼ã",
+      "Pt-br": "O encantamento para ativar a Espada de Joias Zelretch é \"Bruxinha Bonita Zelretch!\".",
+      "id": 46297,
+      "epk_id": "1065",
+      "label": "ir_quiz_065"
+    },
+    {
+      "en": "Os codinomes do trio de Homurahara durante o desenvolvimento eram Óculos, Cabelo Raspado e Nanica. Lam-san!!!",
+      "jp": "ç©ç¾¤åï¼äººå¨ã®éçºã³ã¼ããã¼ã ã¯\tãã¡ã¬ãã»ã«ã¯ã¬ãªã»ãããã ã£ããããã¼ãããã¼ãï¼ï¼",
+      "Pt-br": "Os codinomes do trio de Homurahara durante o desenvolvimento eram Óculos, Cabelo Raspado e Nanica. Lam-san!!!",
+      "id": 46298,
+      "epk_id": "1066",
+      "label": "ir_quiz_066"
+    },
+    {
+      "en": "Em Fate/stay night, o Shirou diz \"mas por quê?\" 46 vezes.",
+      "jp": "ãFateãæ¬ç·¨ã«ããã¦å£«éãä½¿ã£ããä½ã§ããã®åæ°ã¯\tï¼ï¼å",
+      "Pt-br": "Em Fate/stay night, o Shirou diz \"mas por quê?\" 46 vezes.",
+      "id": 46299,
+      "epk_id": "1067",
+      "label": "ir_quiz_067"
+    },
+    {
+      "en": "As respostas são 50, 80 e \"com prazer!\".",
+      "jp": "è¿äºã¯ï¼ï¼ã»ï¼ï¼ã»ããããã§ï¼",
+      "Pt-br": "As respostas são 50, 80 e \"com prazer!\".",
+      "id": 46300,
+      "epk_id": "1068",
+      "label": "ir_quiz_068"
+    },
+    {
+      "en": "A Rider foi sondada para a revista \"Lutadoras Sensuais\".",
+      "jp": "ã©ã¤ãã¼ã¯éèªã«ãã»ã¯ã·ã¼æ¦éãå§ãããã¨ç´¹ä»ããã\täºããã",
+      "Pt-br": "A Rider foi sondada para a revista \"Lutadoras Sensuais\".",
+      "id": 46301,
+      "epk_id": "1069",
+      "label": "ir_quiz_069"
+    },
+    {
+      "en": "A Serva vendada é a Assassin.",
+      "jp": "ç®é ããä»ããå¥³æ§ãµã¼ã´ã¡ã³ãã®æ­£ä½ã¯ã¢ãµã·ã³ã§ãã",
+      "Pt-br": "A Serva vendada é a Assassin.",
+      "id": 46302,
+      "epk_id": "1070",
+      "label": "ir_quiz_070"
+    },
+    {
+      "en": "Para prender o Amuleto de Tigre num celular, você precisa desatar um nó.",
+      "jp": "èã¹ãã©ãããæºå¸¯é»è©±ã«åãä»ããã«ã¯ãç´ã®çµã³ãä¸åº¦\tã»ã©ããªããã°ãªããªã",
+      "Pt-br": "Para prender o Amuleto de Tigre num celular, você precisa desatar um nó.",
+      "id": 46303,
+      "epk_id": "1071",
+      "label": "ir_quiz_071"
+    },
+    {
+      "en": "Tudo bem viver para outra pessoa e dedicar todo este momento a ela?",
+      "jp": "èª°ãã®çºã«çãã¦ããã®ä¸ç¬ãå\n¨ã¦ã§ããã§ãããï¼",
+      "Pt-br": "Tudo bem viver para outra pessoa e dedicar todo este momento a ela?",
+      "id": 46304,
+      "epk_id": "1072",
+      "label": "ir_quiz_072"
+    },
+    {
+      "en": "Na história principal de FSN, a Fuji-nee compra uma quantidade enorme de maçãs.",
+      "jp": "Fateæ¬ç·¨ã§è¤ã­ããå¤§éã«è²·ãè¾¼ãã§ããæç©ã¯\tãªã³ã´ã§ãã",
+      "Pt-br": "Na história principal de FSN, a Fuji-nee compra uma quantidade enorme de maçãs.",
+      "id": 46305,
+      "epk_id": "1073",
+      "label": "ir_quiz_073"
+    },
+    {
+      "en": "A principal forma de transporte do Castelo Einzbern até a cidade é um riquixá puxado pelo Berserker.",
+      "jp": "ã¢ã¤ã³ããã«ã³åããçºã¸ã®ä¸»ãªäº¤éææ®µã¯ã\tãã¼ãµã¼ã«ã¼ãååã¨ããäººåè»ã§ãã",
+      "Pt-br": "A principal forma de transporte do Castelo Einzbern até a cidade é um riquixá puxado pelo Berserker.",
+      "id": 46306,
+      "epk_id": "1074",
+      "label": "ir_quiz_074"
+    },
+    {
+      "en": "Eu equipo o Bellerophon no meu pégaso e aumento seu ATK! Encerro o meu turno!",
+      "jp": "ç§ã¯ãã¬ãµã¹ã«é¨è±ã®æç¶±ãå ãã¦æ»æåã¢ããï¼\tã¿ã¼ã³çµäºã§ãï¼",
+      "Pt-br": "Eu equipo o Bellerophon no meu pégaso e aumento seu ATK! Encerro o meu turno!",
+      "id": 46307,
+      "epk_id": "1075",
+      "label": "ir_quiz_075"
+    },
+    {
+      "en": "Sou uma mulher má, mas darei o meu melhor!",
+      "jp": "ããããã§ããã©ããã°ãã¾ãã£ï¼",
+      "Pt-br": "Sou uma mulher má, mas darei o meu melhor!",
+      "id": 46308,
+      "epk_id": "1076",
+      "label": "ir_quiz_076"
+    },
+    {
+      "en": "Não tem como aumentar o poder do amor, nem mesmo com a feitiçaria de Reforço.",
+      "jp": "å¼·åé­è¡ãä½¿ã£ã¦ãæã¯ã¢ããããªã",
+      "Pt-br": "Não tem como aumentar o poder do amor, nem mesmo com Magia de Reforço.",
+      "id": 46309,
+      "epk_id": "1077",
+      "label": "ir_quiz_077"
+    },
+    {
+      "en": "A verdadeira identidade da Saber é Joana d'Arc.",
+      "jp": "ã»ã¤ãã¼ã®æ­£ä½ã¯ã¸ã£ã³ãã»ãã«ã¯ã§ãã",
+      "Pt-br": "A verdadeira identidade da Saber é Joana d'Arc.",
+      "id": 46310,
+      "epk_id": "1078",
+      "label": "ir_quiz_078"
+    },
+    {
+      "en": "A verdadeira identidade da Saber é Rei Arthur.",
+      "jp": "ã»ã¤ãã¼ã®æ­£ä½ã¯ã¢ã¼ãµã¼çã§ãã",
+      "Pt-br": "A verdadeira identidade da Saber é Rei Arthur.",
+      "id": 46311,
+      "epk_id": "1079",
+      "label": "ir_quiz_079"
+    },
+    {
+      "en": "A verdadeira identidade do Archer é David Bowie.",
+      "jp": "ã¢ã¼ãã£ã¼ã®æ­£ä½ã¯ç±ç¾ãããã§ãã",
+      "Pt-br": "A verdadeira identidade do Archer é David Bowie.",
+      "id": 46312,
+      "epk_id": "1080",
+      "label": "ir_quiz_080"
+    },
+    {
+      "en": "A verdadeira identidade do Archer é Shirou Emiya.",
+      "jp": "ã¢ã¼ãã£ã¼ã®æ­£ä½ã¯è¡å®®å£«éã§ãã",
+      "Pt-br": "A verdadeira identidade do Archer é Emiya Shirou.",
+      "id": 46313,
+      "epk_id": "1081",
+      "label": "ir_quiz_081"
+    },
+    {
+      "en": "A verdadeira identidade do Lancer é LL Cool J.",
+      "jp": "ã©ã³ãµã¼ã®æ­£ä½ã¯ãªã¼ã»ãªã³ãã§ã¤ã§ãã",
+      "Pt-br": "A verdadeira identidade do Lancer é LL Cool J.",
+      "id": 46314,
+      "epk_id": "1082",
+      "label": "ir_quiz_082"
+    },
+    {
+      "en": "A verdadeira identidade do Lancer é Cú Chulainn.",
+      "jp": "ã©ã³ãµã¼ã®æ­£ä½ã¯ã¯ã¼ã»ãã¼ãªã³ã§ãã",
+      "Pt-br": "A verdadeira identidade do Lancer é Cú Chulainn.",
+      "id": 46315,
+      "epk_id": "1083",
+      "label": "ir_quiz_083"
+    },
+    {
+      "en": "A verdadeira identidade da Rider é David Hasselhoff.",
+      "jp": "ã©ã¤ãã¼ã®æ­£ä½ã¯è¤å²¡å¼ã§ãã",
+      "Pt-br": "A verdadeira identidade da Rider é David Hasselhoff.",
+      "id": 46316,
+      "epk_id": "1084",
+      "label": "ir_quiz_084"
+    },
+    {
+      "en": "A verdadeira identidade da Rider é Medusa.",
+      "jp": "ã©ã¤ãã¼ã®æ­£ä½ã¯ã¡ãã¥ã¼ãµã§ãã",
+      "Pt-br": "A verdadeira identidade da Rider é Medusa.",
+      "id": 46317,
+      "epk_id": "1085",
+      "label": "ir_quiz_085"
+    },
+    {
+      "en": "A Rider eleva o seu cosmo interior ao selar sua visão.",
+      "jp": "ã©ã¤ãã¼ã¯è¦åãå°ããäºã§èªãã®å°å®å®ãé«ãã¦ãã",
+      "Pt-br": "A Rider eleva o seu cosmo interior ao selar sua visão.",
+      "id": 46318,
+      "epk_id": "1086",
+      "label": "ir_quiz_086"
+    },
+    {
+      "en": "A verdadeira identidade da Caster é Sabrina.",
+      "jp": "ã­ã£ã¹ã¿ã¼ã®æ­£ä½ã¯ãµãã³ãµã§ãã",
+      "Pt-br": "A verdadeira identidade da Caster é Sabrina.",
+      "id": 46319,
+      "epk_id": "1087",
+      "label": "ir_quiz_087"
+    },
+    {
+      "en": "A verdadeira identidade da Caster é Medeia.",
+      "jp": "ã­ã£ã¹ã¿ã¼ã®æ­£ä½ã¯ã¡ãã£ã¢ã§ãã",
+      "Pt-br": "A verdadeira identidade da Caster é Medeia.",
+      "id": 46320,
+      "epk_id": "1088",
+      "label": "ir_quiz_088"
+    },
+    {
+      "en": "A verdadeira identidade do Berserker é Perseu.",
+      "jp": "ãã¼ãµã¼ã«ã¼ã®æ­£ä½ã¯ãã«ã»ã¦ã¹ã§ãã",
+      "Pt-br": "A verdadeira identidade do Berserker é Perseu.",
+      "id": 46321,
+      "epk_id": "1089",
+      "label": "ir_quiz_089"
+    },
+    {
+      "en": "A verdadeira identidade do Berserker é Héracles.",
+      "jp": "ãã¼ãµã¼ã«ã¼ã®æ­£ä½ã¯ãã©ã¯ã¬ã¹ã§ãã",
+      "Pt-br": "A verdadeira identidade do Berserker é Héracles.",
+      "id": 46322,
+      "epk_id": "1090",
+      "label": "ir_quiz_090"
+    },
+    {
+      "en": "O Berserker não pode morrer até perder 12 vidas.",
+      "jp": "ãã¼ãµã¼ã«ã¼ã¯ï¼ï¼åå½ãè½ã¨ãã¦ãæ­»ãªãªã",
+      "Pt-br": "O Berserker não pode morrer até perder 12 vidas.",
+      "id": 46323,
+      "epk_id": "1091",
+      "label": "ir_quiz_091"
+    },
+    {
+      "en": "Rin Tohsaka é a verdadeira irmã mais nova da Sakura Matou.",
+      "jp": "é ååã¯éæ¡æ¡ã®å®ã®å¦¹ã ",
+      "Pt-br": "Tohsaka Rin é a verdadeira irmã mais nova da Matou Sakura.",
+      "id": 46324,
+      "epk_id": "1092",
+      "label": "ir_quiz_092"
+    },
+    {
+      "en": "Rin Tohsaka é a verdadeira irmã mais velha da Sakura Matou.",
+      "jp": "é ååã¯éæ¡æ¡ã®å®ã®å§ã ",
+      "Pt-br": "Tohsaka Rin é a verdadeira irmã mais velha da Matou Sakura.",
+      "id": 46325,
+      "epk_id": "1093",
+      "label": "ir_quiz_093"
+    },
+    {
+      "en": "O Shirou é da Turma 2-C do Colégio Homurahara.",
+      "jp": "ç©ç¾¤åå­¦åã«ãããå£«éã®ã¯ã©ã¹ã¯ï¼å¹´ï¼£çµã§ãã",
+      "Pt-br": "O Shirou é da Turma 2-C do Colégio Homurahara.",
+      "id": 46326,
+      "epk_id": "1094",
+      "label": "ir_quiz_094"
+    },
+    {
+      "en": "O Shirou é da Turma 3-B do Colégio Homurahara.",
+      "jp": "ç©ç¾¤åå­¦åã«ãããå£«éã®ã¯ã©ã¹ã¯ï¼å¹´ï¼¢çµã§ãã",
+      "Pt-br": "O Shirou é da Turma 3-B do Colégio Homurahara.",
+      "id": 46327,
+      "epk_id": "1095",
+      "label": "ir_quiz_095"
+    },
+    {
+      "en": "O Shirou anda com o Grupo Fujimura no Colégio Homurahara.",
+      "jp": "ç©ç¾¤åå­¦åã«ãããå£«éã®ã¯ã©ã¹ã¯è¤æçµã§ãã",
+      "Pt-br": "O Shirou anda com o Grupo Fujimura no Colégio Homurahara.",
+      "id": 46328,
+      "epk_id": "1096",
+      "label": "ir_quiz_096"
+    },
+    {
+      "en": "Os colegas de classe do Shirou Emiya são Issei Ryudou e Ayako Mitsuzuri.",
+      "jp": "è¡å®®å£«éã®ã¯ã©ã¹ã¡ã¤ãã¯æ³æ´ä¸æã¨ç¾ç¶´ç¶¾å­ã§ãã",
+      "Pt-br": "Os colegas de classe do Emiya Shirou são Ryuudou Issei e Mitsuzuri Ayako.",
+      "id": 46329,
+      "epk_id": "1097",
+      "label": "ir_quiz_097"
+    },
+    {
+      "en": "Os colegas de classe do Shirou Emiya são Issei Ryudou e Shinji Matou.",
+      "jp": "è¡å®®å£«éã®ã¯ã©ã¹ã¡ã¤ãã¯æ³æ´ä¸æã¨éæ¡æ\näºã§ãã",
+      "Pt-br": "Os colegas de classe do Emiya Shirou são Ryuudou Issei e Matou Shinji.",
+      "id": 46330,
+      "epk_id": "1098",
+      "label": "ir_quiz_098"
+    },
+    {
+      "en": "Os colegas de classe do Shirou Emiya são Shinji Wada e Kaoru Shintani.",
+      "jp": "è¡å®®å£«éã®ã¯ã©ã¹ã¡ã¤ãã¯åç°æ\näºã¨æ°è°·ãããã§ãã",
+      "Pt-br": "Os colegas de classe do Emiya Shirou são Shinji Wada e Kaoru Shintani.",
+      "id": 46331,
+      "epk_id": "1099",
+      "label": "ir_quiz_099"
+    },
+    {
+      "en": "Caramba Illya, você é assustadora!",
+      "jp": "ã¤ãªã¤â¦â¦â¦â¦æãå­ï¼ï¼",
+      "Pt-br": "Caramba Illya, você é assustadora!",
+      "id": 46332,
+      "epk_id": "1100",
+      "label": "ir_quiz_100"
+    },
+    {
+      "en": "Nem o meu pai nunca me enganou!",
+      "jp": "è¦ªç¶ã«ã ã£ã¦è¬ãããäºãªãã®ã«ï¼ï¼",
+      "Pt-br": "Nem o meu pai nunca me enganou!",
+      "id": 46333,
+      "epk_id": "1101",
+      "label": "ir_quiz_101"
+    },
+    {
+      "en": "Magos odeiam máquinas! Magos odeiam máquinas!",
+      "jp": "é­æ³ä½¿ãã¯ã¡ã«ãå«ãï¼ãé­æ³ä½¿ãã¯ã¡ã«ãå«ãï¼",
+      "Pt-br": "Magos odeiam máquinas! Magos odeiam máquinas!",
+      "id": 46334,
+      "epk_id": "1102",
+      "label": "ir_quiz_102"
+    },
+    {
+      "en": "Os Einzberns reciclam suas criações fracassadas como empregadas.",
+      "jp": "ã¢ã¤ã³ããã«ã³ã§ã¯å¤±æä½ãã¡ã¤ãã¨ãã¦ãªãµã¤ã¯ã«\tãã¦ãã",
+      "Pt-br": "Os Einzbern reciclam suas criações fracassadas como empregadas.",
+      "id": 46335,
+      "epk_id": "1103",
+      "label": "ir_quiz_103"
+    },
+    {
+      "en": "Kaede Makidera, a esperança do clube de atletismo, também é conhecida como a Pantera Negra de Homurahara.",
+      "jp": "é¸ä¸é¨ã®ãã¼ãã»èå¯ºæ¥ã¯ãç©ç¾¤ã®é»è±¹ãã®ç°åãæã¤",
+      "Pt-br": "Makidera Kaede, a esperança do clube de atletismo, também é conhecida como a Pantera Negra de Homurahara.",
+      "id": 46336,
+      "epk_id": "1104",
+      "label": "ir_quiz_104"
+    },
+    {
+      "en": "Taiga Fujimura, a Srta. Positividade, também é conhecida como a Tigresa de Fuyuki.",
+      "jp": "ããããæå¸«ã»è¤æå¤§æ²³ã¯ãå¬æ¨ã®èãã®ç°åãæã¤",
+      "Pt-br": "Fujimura Taiga, a Srta. Positividade, também é conhecida como a Tigresa de Fuyuki.",
+      "id": 46337,
+      "epk_id": "1105",
+      "label": "ir_quiz_105"
+    },
+    {
+      "en": "Ba, o pequeno chef do restaurante chinês Taishan, é um garoto.",
+      "jp": "ä¸­è¯é£¯åºãç§¦å±±ãã®ã¡ã³ã£ãæçäººã»é­ããã¯ç·ã®å­ã§ãã",
+      "Pt-br": "Ba, o pequeno chef do restaurante chinês Taishan, é um garoto.",
+      "id": 46338,
+      "epk_id": "1106",
+      "label": "ir_quiz_106"
+    },
+    {
+      "en": "KATE & NUMBER201 não compuseram a faixa de BGM \"Die Lorelei\".",
+      "jp": "ï¼¢ï¼§ï¼­ãã­ã¼ã¬ã©ã¤ãã®ä½æ²ã¯\tï¼«ï¼¡ï¼´ï¼¥ï¼ï¼®ï¼µï¼­ï¼¢ï¼¥ï¼²ï¼ï¼ï¼ã§ã¯ãªã",
+      "Pt-br": "KATE & NUMBER201 não compuseram a faixa de BGM \"Die Lorelei\".",
+      "id": 46339,
+      "epk_id": "1107",
+      "label": "ir_quiz_107"
+    },
+    {
+      "en": "E agora os óculos que vocês estavam esperando! Isso vai entrar para a história!",
+      "jp": "æºãæãã¦ç¼é¡ã§ç»å ´ï¼ããã®ã¨ãæ­´å²ãåããï¼",
+      "Pt-br": "E agora os óculos que vocês estavam esperando! Isso vai entrar para a história!",
+      "id": 46340,
+      "epk_id": "1108",
+      "label": "ir_quiz_108"
+    }
+  ]
+}

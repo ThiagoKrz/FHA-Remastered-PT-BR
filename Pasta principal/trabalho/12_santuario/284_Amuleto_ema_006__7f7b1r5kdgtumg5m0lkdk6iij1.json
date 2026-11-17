@@ -1,0 +1,64 @@
+{
+  "cena": "7f7b1r5kdgtumg5m0lkdk6iij1",
+  "titulo": "Amuleto ema 006",
+  "rota": "Santuário",
+  "arquivo": "7f7b1r5kdgtumg5m0lkdk6iij1.epk_dec",
+  "linhas": [
+    {
+      "en": "\"These are Sella and Leysritt's swimsuits.\"",
+      "jp": "「“セラ”と“リーゼリット”の水着ね」",
+      "Pt-br": "\"Estes são os trajes de banho da Sella e da Leysritt.\"",
+      "id": 41489,
+      "epk_id": "41411",
+      "label": "$$$message_0294_0000_0000$$$"
+    },
+    {
+      "en": "\"Oh? They look better in them than I expected.[lr]",
+      "jp": "「ほう。思いのほか似合うものだな。[lr]",
+      "Pt-br": "\"Oh? Elas ficaram melhor neles do que eu esperava.[lr]",
+      "id": 41490,
+      "epk_id": "41412",
+      "label": "$$$message_0294_0001_0000$$$"
+    },
+    {
+      "en": "We can finally tell their hairstyles apart. Some people might be very happy about that.\"",
+      "jp": "　二人の髪型もついに判明したわけだ。人によってはそれも大いに嬉しかろう」",
+      "Pt-br": "Finalmente dá para distinguir os penteados delas. Algumas pessoas devem estar bem felizes com isso.\"",
+      "id": 41491,
+      "epk_id": "41413",
+      "label": "$$$message_0294_0001_0001$$$"
+    },
+    {
+      "en": "\"'Pay attention to Sella's small boobs,' they said! The nerve!\"",
+      "jp": "「『セラの貧乳っぷりがポイントなんです』って！」",
+      "Pt-br": "\"'Prestem atenção nos peitos pequenos da Sella', eles disseram! Quanta audácia!\"",
+      "id": 41492,
+      "epk_id": "41414",
+      "label": "$$$message_0294_0002_0000$$$"
+    },
+    {
+      "en": "\"...Why are you upset? [cacheimage storage=アーチャー神主01h(中)][wvl][chgfg time=300 storage=アーチャー神主01h(中)]Why not just laugh it off? [cacheimage storage=アーチャー神主01c(中)][wvl canskip=0 time=400][chgfg time=300 storage=アーチャー神主01c(中)]Hmm.[lr]",
+      "jp": "「……怒るのか。[cacheimage storage=アーチャー神主01h(中)][wvl][chgfg time=300 storage=アーチャー神主01h(中)]一笑に付したりはしないのか。[cacheimage storage=アーチャー神主01c(中)][wvl canskip=0 time=400][chgfg time=300 storage=アーチャー神主01c(中)]ふむ。[lr]",
+      "Pt-br": "\"...Por que você está tão irritada? [cacheimage storage=アーチャー神主01h(中)][wvl][chgfg time=300 storage=アーチャー神主01h(中)]Por que não simplesmente leva na esportiva? [cacheimage storage=アーチャー神主01c(中)][wvl canskip=0 time=400][chgfg time=300 storage=アーチャー神主01c(中)]Hmm.[lr]",
+      "id": 41493,
+      "epk_id": "41415",
+      "label": "$$$message_0294_0003_0000$$$"
+    },
+    {
+      "en": "To be honest, I grow weary of these body proportion discussions, but this is a once-in-a-lifetime opportunity, so let's thoroughly[line len=2]\"",
+      "jp": "　正直、体型の話題には飽き気味なのだが、ここは千載一遇の機会でもあるし、ひとつ徹底的に[line len=3]」",
+      "Pt-br": "Para ser sincero, eu já estou cansado dessas discussões sobre proporções corporais, mas esta é uma oportunidade única na vida, então vamos analisar minuciosamente[line len=2]\"",
+      "id": 41494,
+      "epk_id": "41416",
+      "label": "$$$message_0294_0003_0001$$$"
+    },
+    {
+      "en": "\"Go [wait canskip=0 time=200]to [se storage=se114.wav][wait canskip=0 time=100][se storage=se114.wav]hell! [delay speed=user][wait canskip=0 time=300][br][se storage=se114.wav][wm canskip=0][wm canskip=0][move textoff=0 time=150 path=(100,0,255)(-41,0,255)(-20,0,255) storage=凛巫女服02c(中)b accel=0][se storage=se230.wav][move textoff=0 time=150 path=(-116,0,255)(-203,0,255)(-352,0,255)(-522,0,255) storage=アーチャー神主01j(中)b accel=0] Just die, already!\"[wm canskip=0][wm canskip=0][wait canskip=0 time=400][se storage=se155.wav][quake time=1000 vmax=30 hmax=20][wait canskip=0 time=800]",
+      "jp": "「死、[wait canskip=0 time=200]に、[se storage=se114.wav][wait canskip=0 time=100][se storage=se114.wav]な、さ～～い、[delay speed=user][wait canskip=0 time=300][br][se storage=se114.wav][wm canskip=0][wm canskip=0][move textoff=0 time=150 path=(100,0,255)(-41,0,255)(-20,0,255) storage=凛巫女服02c(中)b accel=0][se storage=se230.wav][move textoff=0 time=150 path=(-116,0,255)(-203,0,255)(-352,0,255)(-522,0,255) storage=アーチャー神主01j(中)b accel=0]　いいから一度死んできなさ～～い」[wm canskip=0][wm canskip=0][wait canskip=0 time=400][se storage=se155.wav][quake time=1000 vmax=30 hmax=20][wait canskip=0 time=800]",
+      "Pt-br": "\"Vá [wait canskip=0 time=200] para o [se storage=se114.wav][wait canskip=0 time=100][se storage=se114.wav] inferno! [delay speed=user][wait canskip=0 time=300][br][se storage=se114.wav][wm canskip=0][wm canskip=0][move textoff=0 time=150 path=(100,0,255)(-41,0,255)(-20,0,255) storage=凛巫女服02c(中)b accel=0][se storage=se230.wav][move textoff=0 time=150 path=(-116,0,255)(-203,0,255)(-352,0,255)(-522,0,255) storage=アーチャー神主01j(中)b accel=0] Morra logo de uma vez!\"[wm canskip=0][wm canskip=0][wait canskip=0 time=400][se storage=se155.wav][quake time=1000 vmax=30 hmax=20][wait canskip=0 time=800]",
+      "id": 41495,
+      "epk_id": "41417",
+      "label": "$$$message_0294_0004_0000$$$"
+    }
+  ]
+}
