@@ -1,0 +1,29 @@
+name: Validar scripts FHA
+
+on:
+  pull_request:
+    branches:
+      - main
+    paths:
+      - 'Pasta principal/trabalho/**'
+      - 'Ferramentas/**'
+  push:
+    branches:
+      - main
+    paths:
+      - 'Pasta principal/trabalho/**'
+      - 'Ferramentas/**'
+
+jobs:
+  validar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Validar JSONs de trabalho
+        run: python "Ferramentas/scripts_fha.py" validar

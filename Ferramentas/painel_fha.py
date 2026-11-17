@@ -10,6 +10,7 @@ from tkinter.scrolledtext import ScrolledText
 
 import scripts_fha as scripts
 import projeto_json_fha as project
+import painel_extras as extras
 
 
 class ReviewPanel(ttk.Frame):
@@ -47,6 +48,7 @@ class ReviewPanel(ttk.Frame):
         self.root.bind('<Control-s>', lambda _: self.save_current())
         self.root.bind('<F5>', lambda _: self.run_validation())
         self.root.bind('<Control-Return>', lambda _: self.run_validation(True))
+        self.root.bind('<Control-Shift-F>', lambda _: self.open_global_search())
         self.root.after(80, self.poll)
         first = next(iter(self.scene_nodes), None)
         if first:
@@ -84,6 +86,8 @@ class ReviewPanel(ttk.Frame):
         self.validate_button = ttk.Button(actions, text='Validar projeto  F5', command=self.run_validation)
         self.validate_button.pack(side='left', padx=8)
         ttk.Button(actions, text='Recarregar cena', command=self.reload_scene).pack(side='left')
+        ttk.Button(actions, text='Busca global', command=self.open_global_search).pack(side='left', padx=(8, 0))
+        ttk.Button(actions, text='Conferir glossário', command=self.check_glossary).pack(side='left', padx=(8, 0))
         self.generate_button = ttk.Button(
             actions,
             text='Gerar e instalar .epk',
@@ -107,28 +111,16 @@ class ReviewPanel(ttk.Frame):
         main.add(left, weight=1)
         main.add(right, weight=5)
 
-        ttk.Label(left, text='Rotas e cenas', style='Section.TLabel').pack(anchor='w', pady=(0, 8))
+        ttk.Label(left, text='Rotas e cenas', style='Section.TLabel').pack(anchor='w', pady=(0, 6))
+        self.scene_filter = tk.StringVar()
+        ttk.Entry(left, textvariable=self.scene_filter).pack(fill='x', pady=(0, 8))
+        self.scene_filter.trace_add('write', lambda *_: self.populate_scene_tree())
         scene_frame = ttk.Frame(left)
         scene_frame.pack(fill='both', expand=True)
         self.scene_tree = ttk.Treeview(scene_frame, show='tree', selectmode='browse')
         self.scene_tree.column('#0', width=320, minwidth=220)
         self.tree_scrollbars(scene_frame, self.scene_tree)
-
-        groups = {}
-        for scene, meta in sorted(self.manifest['scenes'].items(), key=lambda x: (x[1]['group'], x[1].get('order', 99999), x[0])):
-            if not meta.get('offsets'):
-                continue
-            group = meta['group']
-            if group not in groups:
-                groups[group] = self.scene_tree.insert('', 'end', text=self.group_title(group), open=group.startswith('00'))
-            title = meta.get('title', scene)
-            node = self.scene_tree.insert(
-                groups[group],
-                'end',
-                text=f'{title}  [{scene}]  ({len(meta["offsets"])})',
-                values=(scene,),
-            )
-            self.scene_nodes[scene] = node
+        self.populate_scene_tree()
         self.scene_tree.bind('<<TreeviewSelect>>', self.on_scene_select)
 
         self.notebook = ttk.Notebook(right)
@@ -213,6 +205,49 @@ class ReviewPanel(ttk.Frame):
         self.progress = ttk.Progressbar(footer, mode='indeterminate', length=120)
         self.progress.pack(side='right', padx=(12, 0))
         self.root.after_idle(lambda: main.sashpos(0, 275))
+
+    def populate_scene_tree(self):
+        query = self.scene_filter.get().strip().casefold() if hasattr(self, 'scene_filter') else ''
+        self.scene_tree.delete(*self.scene_tree.get_children())
+        self.scene_nodes.clear()
+        groups = {}
+        for scene, meta in sorted(self.manifest['scenes'].items(), key=lambda x: (x[1]['group'], x[1].get('order', 99999), x[0])):
+            if not meta.get('offsets'):
+                continue
+            group = meta['group']
+            title = meta.get('title', scene)
+            group_label = self.group_title(group)
+            if query and query not in title.casefold() and query not in scene.casefold() and query not in group_label.casefold():
+                continue
+            if group not in groups:
+                groups[group] = self.scene_tree.insert('', 'end', text=group_label, open=bool(query) or group.startswith('00'))
+            node = self.scene_tree.insert(
+                groups[group],
+                'end',
+                text=f'{title}  [{scene}]  ({len(meta["offsets"])})',
+                values=(scene,),
+            )
+            self.scene_nodes[scene] = node
+
+    def open_global_search(self):
+        extras.open_global_search(self, self.tree_scrollbars)
+
+    def check_glossary(self):
+        if self.busy or not self.current_scene or self.data is None:
+            return
+        glossary_path = scripts.ROOT / 'Guias' / 'GLOSSARIO_TYPEMOON_OPERACIONAL.json'
+        terms = extras.load_glossary_terms(glossary_path)
+        if not terms:
+            self.log('Glossário não encontrado em Guias/GLOSSARIO_TYPEMOON_OPERACIONAL.json.')
+            return
+        self.issues.delete(*self.issues.get_children())
+        self.issue_map.clear()
+        found = extras.check_scene_glossary(self.data, self.current_scene, self.path, terms, project.Issue)
+        for issue in found:
+            self.log(issue.message, issue)
+        if not found:
+            self.log(f'Glossário OK em {self.current_scene}: nenhum desvio encontrado.', ok=True)
+        self.status.set(f'Glossário conferido em {self.current_scene}: {len(found)} aviso(s).')
 
     @staticmethod
     def group_title(group: str) -> str:
